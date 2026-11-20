@@ -2,8 +2,6 @@
 
 **A City-Scale Benchmark for Evaluating Large Language Models in Geospatial Reasoning**
 
-Mutian Bao, Qiuyi Qi, Tian Liang, Jinjian Zhang, Wei Zhou, Ming Kong, Linjian Mo, and Qiang Zhu
-
 **ACL 2026 Main Conference · Long Papers**
 
 [ACL paper](https://aclanthology.org/2026.acl-long.1867/) · [Hugging Face collection](https://huggingface.co/collections/SkyyyyyMT/urbangeoeval) · [Choice dataset](https://huggingface.co/datasets/SkyyyyyMT/UrbanGeoEval-choice) · [Reason dataset](https://huggingface.co/datasets/SkyyyyyMT/UrbanGeoEval-reason) · [Quickstart](#evaluation-quickstart) · [Citation](#citation)
