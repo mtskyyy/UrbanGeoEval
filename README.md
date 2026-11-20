@@ -30,8 +30,8 @@ The benchmark separates **geographic knowledge** from **geospatial reasoning**, 
 
 ## Datasets
 
-| Module | Hugging Face | Release size | Local evaluation inputs |
-| --- | --- | ---: | --- |
+| Module | Hugging Face | Release size |
+| --- | --- | ---: |
 | **Knowledge** | [UrbanGeoEval-choice](https://huggingface.co/datasets/SkyyyyyMT/UrbanGeoEval-choice) | 113,851 questions · 18 cities across 6 continents, 20 question templates |
 | **Reasoning** | [UrbanGeoEval-reason](https://huggingface.co/datasets/SkyyyyyMT/UrbanGeoEval-reason) | 3,163 questions across 7 task families |
 
