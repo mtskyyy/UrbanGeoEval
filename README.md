@@ -26,7 +26,7 @@ The benchmark separates **geographic knowledge** from **geospatial reasoning**, 
   <img src="assets/figure-2.png" alt="UrbanGeoEval architecture showing separate Knowledge and Reasoning modules and their tasks." width="800">
 </p>
 
-*Figure 2. The Knowledge module generates multiple-choice questions, and the Reasoning module supplies context for open-ended spatial problems. Figures are reproduced from [Bao et al. (ACL 2026)](https://aclanthology.org/2026.acl-long.1867/) under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
+*Figure 2. The Knowledge module generates multiple-choice questions, and the Reasoning module supplies context for open-ended spatial problems.
 
 ## Datasets
 
@@ -35,11 +35,10 @@ The benchmark separates **geographic knowledge** from **geospatial reasoning**, 
 | **Knowledge** | [UrbanGeoEval-choice](https://huggingface.co/datasets/SkyyyyyMT/UrbanGeoEval-choice) | 113,851 questions | [`urban_data/geoqa_choice/`](urban_data/geoqa_choice) · 18 cities across 6 continents, 20 question templates |
 | **Reasoning** | [UrbanGeoEval-reason](https://huggingface.co/datasets/SkyyyyyMT/UrbanGeoEval-reason) | 3,163 questions | [`urban_data/geoqa_reason/`](urban_data/geoqa_reason) · 3,148 questions across 7 task families |
 
-Each Hugging Face release is a single JSONL file. The scripts below read the local per-task files. The paper reports about 54,000 Knowledge questions in Table 1 and 3,148 Reasoning questions in Table 3.
 
 ## Leaderboard
 
-Results from the [ACL 2026 paper](https://aclanthology.org/2026.acl-long.1867/), ranked separately for each module. Higher is better for all scores. These results use the paper's evaluation sets and protocol.
+Results from the [ACL 2026 paper](https://aclanthology.org/2026.acl-long.1867/), ranked separately for each module. Higher is better for all scores.
 
 ### Knowledge
 
@@ -55,7 +54,7 @@ Accuracy (%) across six knowledge dimensions, averaged across 18 cities (Table 4
 
 ### Reasoning
 
-Average total score on a normalized 0–100 scale, incorporating reasoning-process and final-answer scores across seven task families (Figure 3). Task-level breakdowns are provided in Table 5 of the paper.
+Average total score on a normalized 0–100 scale, incorporating reasoning-process and final-answer scores across seven task families (Figure 3).
 
 | Rank | Model | Overall score |
 | ---: | --- | ---: |
@@ -80,7 +79,7 @@ Average total score on a normalized 0–100 scale, incorporating reasoning-proce
 
 ## Evaluation quickstart
 
-Use Python 3.12 and run from the repository root. Configure an OpenAI-compatible endpoint with `OPENAI_BASE_URL` (default: `http://localhost:8001/v1`) and `OPENAI_API_KEY` if required.
+Use Python 3.12+ and run from the repository root. Configure an OpenAI-compatible endpoint with `OPENAI_BASE_URL` (default: `http://localhost:8001/v1`) and `OPENAI_API_KEY` if required.
 
 ```bash
 python -m pip install -r requirements.txt
