@@ -1,0 +1,320 @@
+,A,B,C,D,answer,E,question
+0,捷運行天宮站(3號出口),阿輝牛肉,德克士脆皮炸雞,一風堂,D,潘國揮牙醫,Which of the following POIs is closest to POI 凱基商業銀行 located in the Taipei area?
+1,小朝日和,台北韓國教會,長青藥局,阿桑涼麵,C,品川蘭,Which of the following POIs is closest to POI 綠逗薏人 located in the Taipei area?
+2,好好吃大餛飩,荷豐水月,樂麵屋,小許麻辣臭豆腐炒泡麵,A,阿昌哥印尼料理,Which of the following POIs is closest to POI 臺大醫院國際會議中心停車場 located in the Taipei area?
+3,青田茶館,樂利飯包,福華大飯店附設停車場,市民新生路口,C,圓圓滷味,Which of the following POIs is closest to POI 彰化商業銀行 located in the Taipei area?
+4,岡山羊肉,順興發自助餐,艾思蜜德式手工冰淇淋,X issues 商務展演空間,E,KIKI 餐廳,Which of the following POIs is closest to POI M17 cafe & lab 中途貓咪咖啡館實驗室 located in the Taipei area?
+5,樸鼎牙醫,香港周記燒臘快餐,飢餓漢堡,振信茗茶,C,黃記滷肉飯,Which of the following POIs is closest to POI 杯Bay匠茶飲品專賣店 located in the Taipei area?
+6,愛國東路入口,3 Cafe Studio,以馬內利鮮魚湯,凱基商業銀行,C,幸福七角棧,Which of the following POIs is closest to POI cama café located in the Taipei area?
+7,潮江燕潮州餐廳,噴水池,民權光復路口(東北側),丘彼特早午餐,A,江太壽司,Which of the following POIs is closest to POI 梅花廳 located in the Taipei area?
+8,彰化商業銀行,松仁路305號,北方餃子館,嗑漢堡,D,祥哥麻辣燙,Which of the following POIs is closest to POI à chaud餐酒館 located in the Taipei area?
+9,北捷忠孝復興站i郵箱,臺灣銀行,大勝牙醫診所,廣安宮,E,全國健保藥局,Which of the following POIs is closest to POI 光復牙醫 located in the Taipei area?
+10,秀蘭小館,兆豐國際商業銀行,老行家,合作金庫商業銀行,E,日禾牙醫診所,Which of the following POIs is closest to POI 武昌商場 located in the Taipei area?
+11,戲台咖啡,南西尚安醫美診所,富錦樹咖啡,Lotteria,C,永豐商業銀行,Which of the following POIs is closest to POI Simple Kaffa located in the Taipei area?
+12,Taiwan Beer Bar,維多利亞韓語教室,高家莊,蒜翻天農安店,C,無名豆漿店,Which of the following POIs is closest to POI 頂呱呱 located in the Taipei area?
+13,克勤新村,大巨蛋停車場 (汽計程車入口),信義路四段199巷,國北教大實小東側門,C,立大牙醫診所,Which of the following POIs is closest to POI 粹鍋 Shabu Shabu located in the Taipei area?
+14,台北富邦商業銀行,Evan's Burger,福嗑,台南肉伯火雞肉飯,D,上品早餐坊,Which of the following POIs is closest to POI 星展（台灣）商業銀行 located in the Taipei area?
+15,飲君子咖啡,拿坡里披薩 和平店,奇幻幼兒園,天仁茗茶,D,螢圃里小公園,Which of the following POIs is closest to POI 矢場味噌豬排 located in the Taipei area?
+16,正鋒自助餐,大眾鐵板酒場石村商店,英皇牙醫診所,磨食光,B,大曜居酒屋,Which of the following POIs is closest to POI 古佛素食 located in the Taipei area?
+17,慢步調,國北教大實小東側門,泰讚泰式精緻料理,Firewood Café,C,濟南大樓地下停車場,Which of the following POIs is closest to POI 永康停車場 located in the Taipei area?
+18,新喜公園,大橋國小附幼,第一商業銀行,台北富邦銀行大樓地下停車場 (入口),D,Continue? Gaming Bar,Which of the following POIs is closest to POI 國際經貿中心停車場 located in the Taipei area?
+19,欣葉食藝軒,川味老鄧担担麵,Shabu shabu,瀧厚濕式熟成牛排,B,小北方美食館,Which of the following POIs is closest to POI 詹記燒臘 located in the Taipei area?
+20,美石蒂花咖啡,無名早餐店,敦厚堂會館,咖啡實驗室,A,咖啡弄,Which of the following POIs is closest to POI 蘭庭 located in the Taipei area?
+21,唐橋桌球,松江路431巷口,皮醬小橘喵喵喵扭蛋鋪,香Q饅頭中崙分店,C,品川蘭,Which of the following POIs is closest to POI 父母 located in the Taipei area?
+22,捷運行天宮站(1號出口),瀧厚鍋物,三鮮食堂,青山燕複合式料理,E,朱崙公園,Which of the following POIs is closest to POI 五桐號 located in the Taipei area?
+23,華南商業銀行,臺北市政府,我家小廚房,小吉咖哩,D,雲城泰式料理,Which of the following POIs is closest to POI 小杭州番茄排骨麵 located in the Taipei area?
+24,Pulse Gym,四號出口,Sidebar,孜然羊肉,E,壽司美登利,Which of the following POIs is closest to POI 福勝亭 located in the Taipei area?
+25,老魏四川坦坦麵,福記永和豆漿,重‧烘爐火炭羊肉爐,Ray yummy亞米雷早午餐,B,石研室石頭火鍋,Which of the following POIs is closest to POI 長春路狐仙廟 located in the Taipei area?
+26,脆皮臭豆腐,圳乃禾小食堂,懷中非營利幼兒園,麵店,A,臺北青少年發展處i郵箱,Which of the following POIs is closest to POI Petra Take x Take located in the Taipei area?
+27,星展（台灣）商業銀行,Balle Balle – Indian Restaurant & Bar,國泰世華商業銀行,泰廚世家,B,胡同燒肉,Which of the following POIs is closest to POI 千荷田 located in the Taipei area?
+28,中山靈糧福音中心,降龍總武,忠孝復興店,彰化商業銀行,A,創價學會,Which of the following POIs is closest to POI 臺灣聯通 located in the Taipei area?
+29,伊藤之右衛門,捷運信義安和站(1號出口),Café Roi,HWC黑沃咖啡,D,市民大道涮涮鍋,Which of the following POIs is closest to POI 土三寒六讚歧烏龍麵 located in the Taipei area?
+30,cama café,三禾行飲食,佳興福州魚丸店,土三寒六讚歧烏龍麵,A,客來源素坊,Which of the following POIs is closest to POI 國泰世華商業銀行 located in the Taipei area?
+31,土蛋找餐,誇張古懂咖啡店,陳天來故居,臺北復興橋郵局,D,捷運小南門站(1號出口),Which of the following POIs is closest to POI 豪記水餃專賣店 located in the Taipei area?
+32,滷味,HWC黑沃咖啡,兆豐國際商業銀行,柯滄銘婦產科,A,鮨一壽司,Which of the following POIs is closest to POI 養心茶樓 located in the Taipei area?
+33,米亞動物醫院,周胖子餃子館,蜀辣川菜烤魚麻辣鍋,U-Park,B,玉山商業銀行,Which of the following POIs is closest to POI 東街日式料理 located in the Taipei area?
+34,好初早餐 敦南,兆豐國際商業銀行,自然風,甲蟲秘境親子咖啡廳 象山店,B,蝦皮店到店,Which of the following POIs is closest to POI 存香牛肉麵 located in the Taipei area?
+35,CoCo 都可茶飲,繼光香香雞,維克訓練,紫竹林滴水坊,C,雅加達早餐店,Which of the following POIs is closest to POI 麻古茶坊 located in the Taipei area?
+36,漢陽館韓國料理,蘭亭燒肉 和牛極緻料理,How How Gym,千翔食品,C,這味泰泰,Which of the following POIs is closest to POI 中華電視股份有限公司 located in the Taipei area?
+37,極品光復素食包子,永安教會,健康新城,愛弘速食連鎖,B,真味肉圓,Which of the following POIs is closest to POI 萊客早餐吧 located in the Taipei area?
+38,碎碎念咖啡,宏達停車南京場,haritts,飯麵,A,星巴克,Which of the following POIs is closest to POI 楊記大餛飩 located in the Taipei area?
+39,香港私宅打邊爐,廖家牛肉麵,上林鐵板燒,台北富邦商業銀行,A,魚君,Which of the following POIs is closest to POI 澎湖海鮮餐廳 located in the Taipei area?
+40,巨林美而美,豪家美而美,笑嘻嘻港式現炒飯麵,鼎泰豐,E,阿嬤G排,Which of the following POIs is closest to POI 八仙炭烤 located in the Taipei area?
+41,京好,桌椅,那良麵,躼腳日式料理,A,嵐迪義大利麵館,Which of the following POIs is closest to POI 正宗老陳牛肉麵 located in the Taipei area?
+42,味屋咖哩,如意餃子麵食館,廁所,行善公園,C,臺北延吉社福大樓i郵箱,Which of the following POIs is closest to POI 桌椅 located in the Taipei area?
+43,富霸王豬腳,御珍軒港式飲茶,疾管署地下停車場,臺北市立大學(博愛校區),C,安泰商業銀行,Which of the following POIs is closest to POI 500茶飲撰 located in the Taipei area?
+44,卡樂親子蔬食餐廳,兆豐國際商業銀行,國立臺北大學(臺北校區),正義新城自助會 義村里里民活動中心,A,香港大排檔,Which of the following POIs is closest to POI 臺北田徑場(北寧路側) located in the Taipei area?
+45,正忠排骨飯,吐司利亞,莫札特咖啡美食,漢堡王,C,上品早餐坊,Which of the following POIs is closest to POI 瑞麟美而美 located in the Taipei area?
+46,蔣記家薌麵,毒茶,HWC黑沃咖啡-台北市府店,吳興商圈好吃麵,E,三張犁,Which of the following POIs is closest to POI 尊生堂 located in the Taipei area?
+47,黃記滷肉飯,豪季水餃專賣店,民權東路三段106巷口,無雙,B,鬍鬚張魯肉飯,Which of the following POIs is closest to POI 唯品軒 located in the Taipei area?
+48,麵屋輝,啜飲室,加寶多,全國健保藥局,B,一號出口,Which of the following POIs is closest to POI 湛爐咖啡 located in the Taipei area?
+49,龍涎居,元大商業銀行,A‧Place Café,新東公園,B,築間幸福鍋物,Which of the following POIs is closest to POI 獺空間 located in the Taipei area?
+50,捷運南京三民站(4號出口),兄弟大飯店停車場入口,香味自助餐,相撲涮涮鍋,C,溫州大餛飩,Which of the following POIs is closest to POI 武藏居食屋 located in the Taipei area?
+51,東區鵝肉吳,台北富邦商業銀行,老魏四川坦坦麵,公用電話,E,LE BLANC,Which of the following POIs is closest to POI 春日日本料理 located in the Taipei area?
+52,臺北信義國小停車場i郵箱,非常好咆,赤神日式豬排,crush誇許早午餐下午茶,B,赤坂拉麵,Which of the following POIs is closest to POI 林家東區麵線 located in the Taipei area?
+53,草泥Cafe,林志聲牙醫,彰化商業銀行,大安高工停車場i郵箱,D,微光咖啡,Which of the following POIs is closest to POI 運鈍根湯 located in the Taipei area?
+54,太原廣場,Joseph Bristo想想廚房,清心福全,軒火鍋,C,報安堂,Which of the following POIs is closest to POI 名家魯肉飯 located in the Taipei area?
+55,博裕牙醫診所,文殊院,泰富豪,魚庄,D,小川咖哩,Which of the following POIs is closest to POI 魚庒 located in the Taipei area?
+56,游泳館地下停車場,小許麻辣臭豆腐炒泡麵,上海商業儲蓄銀行,萬家鄉,E,肯德基,Which of the following POIs is closest to POI 民生雙連食堂 located in the Taipei area?
+57,密室191 Bar,元大商業銀行,光復南路22巷口,新生命小組教會,D,格拉齊義大利麵食館,Which of the following POIs is closest to POI 國泰世華商業銀行 located in the Taipei area?
+58,季緣茶飲,松青素食館,民族松江路口,英仕堡早餐店,B,周承良耳鼻喉科診所,Which of the following POIs is closest to POI 中國信託中山分行 located in the Taipei area?
+59,Pico Pico,克勤新村,多功能展演廳,呂巷仔口麵食館,A,武昌商場,Which of the following POIs is closest to POI 雅廚庭園餐廳 located in the Taipei area?
+60,父母,愛爾蘭酒吧,福州魚丸,品川蘭,A,就那家早午餐,Which of the following POIs is closest to POI 康林藥局 located in the Taipei area?
+61,富麗牙醫,永康身心診所,無老鍋市民店,崇聖大樓地下停車場,B,文大附幼,Which of the following POIs is closest to POI 馬家燒餅 located in the Taipei area?
+62,一頭也黑毛和牛專賣店,遼寧鵝肉,滙豐(台灣)商業銀行,La Vita,B,台新國際商業銀行,Which of the following POIs is closest to POI 好食雞 located in the Taipei area?
+63,戲台酒館,挽肉と米,越蓮料理坊,星巴克,B,路易莎咖啡,Which of the following POIs is closest to POI Bonjuk Taiwan located in the Taipei area?
+64,三商巧福,永豐商業銀行,胡同燒肉2號店,販賣機,D,遠東Café自助餐廳,Which of the following POIs is closest to POI 資源回收場 located in the Taipei area?
+65,臺灣銀行,建宏雞肉飯,頓益咖啡匠,自然風,D,販賣機,Which of the following POIs is closest to POI 蜀辣川菜烤魚麻辣鍋 located in the Taipei area?
+66,楊記早餐,台新國際商業銀行,豬腸冬粉,國泰金融會議廳,E,爆丼,Which of the following POIs is closest to POI 廚嚐室 located in the Taipei area?
+67,玉山商業銀行,池上便當,WTF Training Fitness,港都手工麵館長安店,D,生態綠咖啡,Which of the following POIs is closest to POI 太太下廚 located in the Taipei area?
+68,東門福德宮,捷運忠孝復興站(2號出口),Soi 13 in Sauna,合作金庫商業銀行,E,松江公園,Which of the following POIs is closest to POI 松江路77巷口 located in the Taipei area?
+69,吉野家,八德市場(北側),美又堡,美華素食,E,天仁茗茶,Which of the following POIs is closest to POI 欣欣秀泰影城 located in the Taipei area?
+70,La Caja de Musica,臺北市客委會 客家藝文中心,The Speakeasy Bar,永豐商業銀行,E,燒肉眾精緻炭火燒肉,Which of the following POIs is closest to POI 瓦崎燒烤 located in the Taipei area?
+71,復興南路1段340巷口,珍味園,育晟中醫診所,萬國家畜醫院,A,創興手工洗車,Which of the following POIs is closest to POI 手串本舖串燒 located in the Taipei area?
+72,建中班聯會辦公室,中正親子館,鼎記牛肉麵,遠東國際商業銀行,B,金華國中合作社附設幼兒園,Which of the following POIs is closest to POI 三禾米粉湯 located in the Taipei area?
+73,酒泉延平路口,lab33叁食山,林安泰古厝,角落咖啡館,E,天仁茗茶,Which of the following POIs is closest to POI 天祥豬腳飯 located in the Taipei area?
+74,正老牌米粉湯,兆豐國際商業銀行,紅燒牛肉麵,行天宮,A,育晟中醫診所,Which of the following POIs is closest to POI Cama located in the Taipei area?
+75,信義路入口,CoCo壱番屋,animate cafe,龍興里活動中心,A,A.B HOUSE 義式私房料理,Which of the following POIs is closest to POI 停車場出口(關閉) located in the Taipei area?
+76,Dancing Elephant,天主教靈醫會會院,拉麵公子,垃圾桶,D,巨林美而美,Which of the following POIs is closest to POI 公用電話 located in the Taipei area?
+77,台北富邦商業銀行,The 雞 Spot,越南東家鮮物羊肉爐,臺灣中小企業銀行,B,圓圓燒,Which of the following POIs is closest to POI 言吧 Yesterday Is Not Today located in the Taipei area?
+78,五分埔公園地下停車場,巨林美而美,星展（台灣）商業銀行,218無骨鹽酥雞,C,久長山恩主洞,Which of the following POIs is closest to POI 城市車旅 國泰松仁場 (出口) located in the Taipei area?
+79,成口香,多功能展演廳,吳大牛蕉糖茶飲,米販咖啡,D,克勤新村,Which of the following POIs is closest to POI Pico Pico located in the Taipei area?
+80,銀波 Silver Lining,胡饕米粉湯,一風堂,仁康中西示範藥局,E,王牌 巴賽隆納,Which of the following POIs is closest to POI 黑貓食堂 located in the Taipei area?
+81,劉建宏診所,鮮五丼,普光精舍,元大商業銀行,D,Swing Black Coffee,Which of the following POIs is closest to POI 星巴克 located in the Taipei area?
+82,臺灣高等法院民事庭,Mr.Plate盤盤,入口,樂法Le Phare,D,百安堂,Which of the following POIs is closest to POI 嚐鱻 located in the Taipei area?
+83,卡洛貍健康餐盒,安順宮,捷運大安站(5號出口),伊聖詩私房書櫃,C,捷運忠孝新生站(3號出口),Which of the following POIs is closest to POI 饞食坊 located in the Taipei area?
+84,金龍汽車專業美容,小串堂居酒屋,Cheers 歡飲廊,長春鵝肉,B,喜樂滿足牛肉麵,Which of the following POIs is closest to POI 沙巴巴中東美食 located in the Taipei area?
+85,維傑印度餐廳,金鳳越南美味,立達診所,路易莎,B,豐味亭,Which of the following POIs is closest to POI 優卡輕食 located in the Taipei area?
+86,OriginBAR 源,激安的食事酒場,牧牧沙拉,人从众厚切牛排,A,永和豆漿,Which of the following POIs is closest to POI 南京三渣 located in the Taipei area?
+87,JJ早餐,宜蘭烏石港海產,摩斯漢堡,Itaewon,E,娃娃獵人,Which of the following POIs is closest to POI 可味包子 located in the Taipei area?
+88,格登炸雞 遼寧店,天天米香,來來小吃店,星巴克,A,青山燕複合式料理,Which of the following POIs is closest to POI 度小月 located in the Taipei area?
+89,市政大樓餐廳,香米泰國料理,松山健康出租社宅i郵箱,手串本舖串燒,E,小紐約 延吉,Which of the following POIs is closest to POI 育晟中醫診所 located in the Taipei area?
+90,民防義警協勤中心,吉客滷肉飯(便當),龍波斯特,U-Park,C,the key,Which of the following POIs is closest to POI 吃早餐 located in the Taipei area?
+91,陳偉寶泌尿科診所,Mico Coffee,香Q饅頭中崙分店,上博牙醫診所,C,台北富邦商業銀行,Which of the following POIs is closest to POI 邱楠超診所 located in the Taipei area?
+92,糊塗麵,綠之坊健康餐飲,alphaBlack,日月德養 麝香貓咖啡,C,上海來鄉村小館,Which of the following POIs is closest to POI 大安高工停車場i郵箱 located in the Taipei area?
+93,品澄牙醫,台灣聯通停車場,小法國,全國健康素食,E,良好食雞,Which of the following POIs is closest to POI 中山藥局 located in the Taipei area?
+94,元大商業銀行,小皮咖啡,林繼國診所,兆豐國際商業銀行,C,臺北信維郵局i郵箱,Which of the following POIs is closest to POI 億光地下停車場 located in the Taipei area?
+95,M One Cafe,星巴克,康健牙醫診所,大都會牙醫,D,府前停車場 (行人出口),Which of the following POIs is closest to POI 吉野家 located in the Taipei area?
+96,桔梗三明治,麥當勞,Coffee+咖啡家,南昌廣東粥,E,正宗原汁牛肉麵,Which of the following POIs is closest to POI 美而美 located in the Taipei area?
+97,星展（台灣）商業銀行,CAMPUS CAFE,喜信牙醫診所,Fujin Tree Café,E,星展（台灣）商業銀行,Which of the following POIs is closest to POI 兆豐國際商業銀行 located in the Taipei area?
+98,玉山商業銀行,熊貓干飯,兆豐國際商業銀行,品澄牙醫,B,捷運善導寺站(3號出口),Which of the following POIs is closest to POI 大方粥麵 located in the Taipei area?
+99,歸綏戲曲公園,鍋膳,總統府郵局,丹堤咖啡,E,吉野家,Which of the following POIs is closest to POI 天津自助餐 located in the Taipei area?
+100,建國,圓環魯肉飯肉羹,麥當勞,Pulse Gym,C,麗福素食,Which of the following POIs is closest to POI 林森北路四面佛 located in the Taipei area?
+101,春寧診所,大稻埕公園,呷尚寶,金山手工饅頭,A,李媽媽麵館,Which of the following POIs is closest to POI 新丼 located in the Taipei area?
+102,Hi Fitness,泰迪農園咖哩 復興店,濟南紹興路口,彰化商業銀行,A,Monday 蔬食料理,Which of the following POIs is closest to POI 大摩尼 located in the Taipei area?
+103,Mianto 艾果豐,馨培心理治療所,香港興記粥麵專家,伊客萊斯早午餐,C,巨林美而美,Which of the following POIs is closest to POI 義料.之外 located in the Taipei area?
+104,仁川韓娘,涼洲街越南美食,捷運臺大醫院站(1號出口),嘉仕多,A,臺北科技大學(電機工程系),Which of the following POIs is closest to POI MURA邑 located in the Taipei area?
+105,世家快炒小吃店,察爾斯廚房,南側樓梯出口,ABCD . A Better Coffee & Doughnut,B,Lotteria,Which of the following POIs is closest to POI 春水堂人文茶館 located in the Taipei area?
+106,天仁茗茶,小高玉迴轉壽司,Ray yummy亞米雷早午餐,市民芳鄰早餐店,A,美華素食,Which of the following POIs is closest to POI Comebuy located in the Taipei area?
+107,樂雅樂,麵麵俱到,中吉公園,咖哩Wu,D,Dreamers Coffee Roasters,Which of the following POIs is closest to POI 50嵐 located in the Taipei area?
+108,老王記牛肉麵,孵咖啡洋館,梅子老爹,碳探和牛專門店,E,許記燒辣,Which of the following POIs is closest to POI 北門教會 located in the Taipei area?
+109,烤吧串燒台式居酒屋,世紀豆漿,橋下客家板條,新美心印尼餐廳,B,廟口厚切牛排,Which of the following POIs is closest to POI 捷運雙連站(2號出口) located in the Taipei area?
+110,PEG coffee,一品蔬菜羊肉專賣店,永吉公園,清靜山福德宮,E,天丼てんや,Which of the following POIs is closest to POI 樂咖LOKA located in the Taipei area?
+111,日式蓋飯之家,阿角紅燒肉,城中美食,捷運中山站(3號出口),D,玖五牛肉麵,Which of the following POIs is closest to POI 極醬太郎日式燒肉 located in the Taipei area?
+112,立可康餐廳,連城臭豆腐,路易莎咖啡,臺灣銀行,E,又上(暫時停業),Which of the following POIs is closest to POI 迷迭香花園 located in the Taipei area?
+113,OriginBAR 源,老車滷味,行政大樓垃圾桶,創義麵,A,台北市中山動物醫院,Which of the following POIs is closest to POI La Caja de Musica located in the Taipei area?
+114,捷運中山國小站(4號出口),濱江麵線,民福三號綠地,佛祖寺,B,清心福全,Which of the following POIs is closest to POI 大佳社區公園 located in the Taipei area?
+115,肉羹 魯肉飯,聖偉牙醫診所,第一商業銀行,新長春餐館,D,聖安宮,Which of the following POIs is closest to POI 無老鍋 located in the Taipei area?
+116,老貳樓餐廳,2J CAFE,彼得好咖啡,永豐商業銀行,D,嘿鍋,Which of the following POIs is closest to POI 碳探和牛專門店 located in the Taipei area?
+117,弍兩日式炭火燒肉,鐵路便當,燒肉眾精緻炭火燒肉,胖老爹美式炸雞,C,勝博殿,Which of the following POIs is closest to POI 創義麵 located in the Taipei area?
+118,吐司利亞,隱城•小城外,茶湯會,老虎醬溫州大餛飩,B,婷亭翠玉,Which of the following POIs is closest to POI 南樓熱食部 located in the Taipei area?
+119,天仁茗茶,阿輝牛肉,咖啡烘培專賣,喜樂牙醫,A,本村韓式炸雞,Which of the following POIs is closest to POI 火燒鳥日式居酒屋 located in the Taipei area?
+120,京好,桌椅,和鍋,無雙,A,紫竹林滴水坊,Which of the following POIs is closest to POI 麵麵聚到 located in the Taipei area?
+121,家常飯朴老師1號店 집밥박선생,新生公園,民族延平路口,TankQ,A,杏一,Which of the following POIs is closest to POI 六月三十義式手工冰淇淋台北店 located in the Taipei area?
+122,小南門福州傻瓜乾麵,車輪大叔脆皮車輪餅,第一商業銀行,九寨十鍋,E,樂坡,Which of the following POIs is closest to POI 金湘台灣小吃 located in the Taipei area?
+123,兆豐國際商業銀行,VAST Cali Eatery,阿呂叔叔炸物專賣店,信義23號公廁,A,悠客3,Which of the following POIs is closest to POI 彰化商業銀行 located in the Taipei area?
+124,路易.莎,合味拉麵,民有三號公園郵筒,摩斯漢堡,D,遇月全,Which of the following POIs is closest to POI Saladay located in the Taipei area?
+125,台北國稅局前郵筒,豆酥朋,50大道池上飯包,百九麵攤,B,新生長安路口,Which of the following POIs is closest to POI 孫東寶 located in the Taipei area?
+126,機車入口,路易莎咖啡,丹堤咖啡,嘉嘉漢堡,D,臺灣新光商業銀行,Which of the following POIs is closest to POI 麵店 located in the Taipei area?
+127,烤蕃薯,饗家,Kiss Pizza,長春路137巷口,A,Burger Fix,Which of the following POIs is closest to POI 溫州大餛飩 located in the Taipei area?
+128,嘟嘟房光華商場站,妙林素食,德とく壽司,兆豐國際商業銀行,E,正老牌米粉湯,Which of the following POIs is closest to POI 岡山羊肉 located in the Taipei area?
+129,尚大麵食館,麵店,Power Sandwich,凝態館地下停車場,A,兆豐國際商銀,Which of the following POIs is closest to POI 梁社漢排骨 located in the Taipei area?
+130,輝煌診所,星巴克,慈鑾宮,紫薇宮,E,臺北信義郵局i郵箱,Which of the following POIs is closest to POI 信義交通分隊 located in the Taipei area?
+131,傑克漢堡,昕昕多元餐館,三井日式料理,玖五川味牛肉麵,B,彰化商業銀行,Which of the following POIs is closest to POI Suki食其 located in the Taipei area?
+132,龍涎居雞膳食坊,敦里牙醫,The 雞 Spot,彰化商業銀行,C,松德永和豆漿,Which of the following POIs is closest to POI 路易莎咖啡 located in the Taipei area?
+133,跑飯店,正傑健保藥局,六津素包,天天米香,B,富偉停車場,Which of the following POIs is closest to POI 茂園餐廳 located in the Taipei area?
+134,海音咖啡,Pig & Pepper,阿諾碟子,小禾馨兒童專科,B,市民大道涮涮鍋,Which of the following POIs is closest to POI 慶隆商務俱樂部 located in the Taipei area?
+135,松友公園,OriginBAR 源,第一商業銀行,法朵新馬德里鐵板燒,D,小師傅大雞排,Which of the following POIs is closest to POI KONMA located in the Taipei area?
+136,日禾牙醫診所,華南商業銀行,香宜德國料理餐廳,i & Fi Home Fitness,A,雅廚庭園餐廳,Which of the following POIs is closest to POI 基督教忠孝神召會 located in the Taipei area?
+137,古亭國中,臺灣土地銀行,85度C,元大商業銀行,C,焦糖楓,Which of the following POIs is closest to POI 城中衛理幼兒園 located in the Taipei area?
+138,嵐山日本料理,大安118巷自助洗衣i郵箱,吳興街284巷36弄口,正義新城自助會 義村里里民活動中心,E,Old Brick,Which of the following POIs is closest to POI 阿萬漁家料理 located in the Taipei area?
+139,萬國家畜醫院,養聖堂,喬治工商,Pig & Pepper,D,應安168 文教五地下停車場,Which of the following POIs is closest to POI 東豐公園 located in the Taipei area?
+140,北側樓梯出口,永豐商業銀行,長春路258巷2弄口,臺北附中公園停車場i郵箱,B,TWO SHOTS,Which of the following POIs is closest to POI Deja Vu located in the Taipei area?
+141,劉媽媽涼麵,三興公園,立喆診所,華南商業銀行,E,微笑咖啡早午餐,Which of the following POIs is closest to POI 民彩韓食館 located in the Taipei area?
+142,創健健康檢查中心,松山高中,92番茄牛肉麵,中華之後天主堂,D,MiaCucina,Which of the following POIs is closest to POI 台灣長老教會金陵教會 located in the Taipei area?
+143,養鍋石頭涮涮鍋,柴頭埤福德宮,奇福扁食,羅胖子倉鍋麵,C,芋香園,Which of the following POIs is closest to POI Ikari Cafe located in the Taipei area?
+144,越蓮料理坊,上鼎包子,衣櫥餐酒,大台北牙醫診所,C,台南肉伯火雞肉飯,Which of the following POIs is closest to POI 一品活蝦 located in the Taipei area?
+145,羅家小吃,信義建國路口,頂呱呱,瑠公公園,D,第一商業銀行,Which of the following POIs is closest to POI Nagi located in the Taipei area?
+146,臺北文化體育園區辦公大樓,甲吧麵飯,李家麵店,素食,E,咖哩飯,Which of the following POIs is closest to POI 捷運信義安和站(2號出口) located in the Taipei area?
+147,馬辣,Kingmauii,心耕101美食,元大商業銀行,A,華南商業銀行,Which of the following POIs is closest to POI 溫州大餛飩 located in the Taipei area?
+148,巷仔內,Chinguo Cafe and Cake,橋下酒場,立法院附設員工托嬰中心,B,三商巧福,Which of the following POIs is closest to POI 日鑫小火鍋 located in the Taipei area?
+149,伊聖詩私房書櫃,光復牛肉麵,艾斯糖咖啡,紅九九個人麻辣火鍋,B,大吉漢堡食堂,Which of the following POIs is closest to POI Kyoto Koji精肉店 located in the Taipei area?
+150,李翔耳鼻喉科,嘗鮮樓精緻熱炒,四知堂TUA攤,北科大餐廳,C,光復南菸廠路口,Which of the following POIs is closest to POI 牡丹 天ぷら located in the Taipei area?
+151,菜菜朝食nanachoushoku,林安泰古厝,lab33叁食山,民權台菜自助餐,D,韓味館,Which of the following POIs is closest to POI 鬍鬚張 located in the Taipei area?
+152,富順樓餐廳,聖偉牙醫診所,Bank of Taiwan ATM,城市車旅三創生活園區場,E,十全內兒科診所,Which of the following POIs is closest to POI 娃娃獵人 located in the Taipei area?
+153,彰化商業銀行,佛教植物區,杏一藥局,京東燒烤,C,petit doux 微兜 Café Bistro,Which of the following POIs is closest to POI 臺大女六宿舍餐廳 located in the Taipei area?
+154,廣州燒臘店,蘋果203brunch,愛國東路出口,Sipsip,C,臺北師大郵局i郵箱,Which of the following POIs is closest to POI 南側樓梯出口 located in the Taipei area?
+155,維克訓練,儷宴會館,炒炒新亞洲蔬食,皕福市,A,姜,Which of the following POIs is closest to POI 韓記牛肉拉麵 located in the Taipei area?
+156,安泰商業銀行,德朗餐廳,台灣世曦大樓,民權福德宮,C,串居留居酒屋（內湖店）,Which of the following POIs is closest to POI 半空中廚房 located in the Taipei area?
+157,火鍋世家,圓圓滷味,都一處 仁愛店,豪品精牧川菜,C,淨土宗,Which of the following POIs is closest to POI 蝦Bar活蝦料理 located in the Taipei area?
+158,天仁茗茶,丸亀製麺,Taiwan Beer Bar,八方雲集,A,弘爺漢堡,Which of the following POIs is closest to POI 林森長春路口 located in the Taipei area?
+159,臺北老人日間照顧中心i郵箱,誇張古懂咖啡店,八方雲集,行政院員工餐廳,D,第一商業銀行,Which of the following POIs is closest to POI 赤雞雞排 located in the Taipei area?
+160,台北酒驛,八麵玲瓏,王牌 巴賽隆納,布穀鳥早餐店,E,Häagen-Dazs,Which of the following POIs is closest to POI 一風堂 located in the Taipei area?
+161,蔬河,華視大樓(1)i郵箱,雞優穀養生藥膳,慈鑾宮,A,臺北四維里辦公室i郵箱,Which of the following POIs is closest to POI 大河屋 located in the Taipei area?
+162,紅螞蟻切仔麵,滿面全豆花,沙巴巴中東美食,聖偉牙醫診所,A,無人咖啡廳,Which of the following POIs is closest to POI Gogoro located in the Taipei area?
+163,板信商業銀行,駭客網路生活館,上海銀行ATM,六條通魷魚羹,D,小法國,Which of the following POIs is closest to POI 葉記滷味 located in the Taipei area?
+164,幸安國小(仁愛路),大眾鐵板酒場石村商店,純青幼兒園,怡客咖啡,E,Again Cafe,Which of the following POIs is closest to POI 國賓影城@微風廣場 located in the Taipei area?
+165,敦北公園,芝生食堂,廣田麵館,摩根咖啡,D,食隨之味,Which of the following POIs is closest to POI 品牌空間 located in the Taipei area?
+166,華南商業銀行,阿宗麵線,圓鼎鐵板燒,IT Park Gallery,D,濟南紹興路口,Which of the following POIs is closest to POI 早吧 located in the Taipei area?
+167,美味廚,1Bite 2Go,度小月擔仔麵,NoName咖哩,C,台北市召會第七聚會所11區,Which of the following POIs is closest to POI 果然匯 located in the Taipei area?
+168,藏壽司,麥迪兒,Taiwan Beer Bar,漢補世家,B,瑞麟美而美,Which of the following POIs is closest to POI 中華電信仁愛場 located in the Taipei area?
+169,中國信託商業銀行,松山福德宮,內湖台企A3棟i郵箱,吳興蚵仔大腸麵線,B,去憂餐酒館,Which of the following POIs is closest to POI 老松山霸子麵線 located in the Taipei area?
+170,第一商業銀行,福德街派出所,府前停車場 (行人出口),安迪城堡,A,紅橘子精緻早午餐,Which of the following POIs is closest to POI 怡人早餐店 located in the Taipei area?
+171,胡同燒肉一號店,敦北公園,雞肉本家,王道銀行,D,東石蚵仔小吃店,Which of the following POIs is closest to POI 板信商業銀行 located in the Taipei area?
+172,禾崧牛排屋,立法院國會圖書館,江寧公園,快樂小吃,E,聚北海道昆布鍋,Which of the following POIs is closest to POI 勢喬牙醫 located in the Taipei area?
+173,六條通魷魚羹,潘國揮牙醫,博裕牙醫診所,路易莎咖啡,A,水問蔬食園,Which of the following POIs is closest to POI 天仁茗茶 located in the Taipei area?
+174,TGI Fridays,東大麵線,老魏四川坦坦麵,手工水餃,C,博登藥局,Which of the following POIs is closest to POI 臺北懷生國宅i郵箱 located in the Taipei area?
+175,Bank of Taiwan ATM,小樹台越餐館,瑪黑餐酒,Itaewon,E,佳家涼麵 早餐,Which of the following POIs is closest to POI 好滋味手工包子店 located in the Taipei area?
+176,窩著咖啡,捷運小巨蛋站(3號出口),小川安和店,泰讚泰式精緻料理,E,馬辣,Which of the following POIs is closest to POI 山西刀削麵 located in the Taipei area?
+177,森本家日式拉麵,度小月擔仔麵,丈母娘,餅告大人,C,台新國際商業銀行,Which of the following POIs is closest to POI 虎咬豬 located in the Taipei area?
+178,青田七六,復興南路1段340巷口,168排骨飯,築間幸福鍋物,B,百合莊園,Which of the following POIs is closest to POI 羅浮宮 located in the Taipei area?
+179,打卡咖啡館,福佑宮,Stand Up,陳記百果園,A,臺灣中小企業銀行,Which of the following POIs is closest to POI 叁食 located in the Taipei area?
+180,KIKI 餐廳,雞優穀養生藥膳,岡山羊肉,光復南菸廠路口,A,國泰世華商業銀行,Which of the following POIs is closest to POI 陸光小吃館 located in the Taipei area?
+181,立達診所,富爸爸豬腳大王,金鳳越南美味,OvenMaru 烤頂鷄,C,健全藥局,Which of the following POIs is closest to POI 18食堂鐵板料理 located in the Taipei area?
+182,丹堤咖啡,"Bitter Burro, take the bitter with the sweet",信義路入口,疆毒串烤,E,皕福市,Which of the following POIs is closest to POI 勺勺客陝西餐館 located in the Taipei area?
+183,榮星長老教會,東岸池上便當,汕頭四神湯刈包肉粽,台北國稅局前郵筒,E,巷仔內大腸煎,Which of the following POIs is closest to POI 松柏農 SONBERNOR 台茶 咖啡 司康 戚風 肉桂捲 專門店 located in the Taipei area?
+184,鴨味仔紅面薑母鴨,快樂早餐店,築空間,伯朗咖啡,B,大來牙醫,Which of the following POIs is closest to POI Karen's café located in the Taipei area?
+185,義麵坊,張醫生診所,集川辣麵館,台北富邦商業銀行,C,鈞饌早餐店,Which of the following POIs is closest to POI 良食魯肉飯 located in the Taipei area?
+186,新生國小地下停車場出入口,垃圾車,品麻辣豆腐鴨血專賣店,吉恩日輕食,D,Taiwan Beer Bar,Which of the following POIs is closest to POI 郵局 located in the Taipei area?
+187,仁康中西示範藥局,米家廚房,詹記麻辣火鍋,錢櫃Partyworld,B,傲翔中泰料理,Which of the following POIs is closest to POI 台南肉伯火雞肉飯 located in the Taipei area?
+188,學餐:大野狼小火鍋蓋飯,川湘号香辣館,天津北平路口,小游滷味,B,長安藥局,Which of the following POIs is closest to POI 中吉公園(松江路188巷) located in the Taipei area?
+189,巧軒食堂,阿角紅燒肉,六堆伙房中山店,正聲廣播電台,C,禮想紅茶烏龍專販所,Which of the following POIs is closest to POI 捷運中山站(3號出口) located in the Taipei area?
+190,永和豆漿,遇月全,發達小食堂,美越牛肉河粉,E,OriginBAR 源,Which of the following POIs is closest to POI 南京東路四段179巷口 located in the Taipei area?
+191,立法院國會圖書館,CoppiiLumii,臺北關帝堂,台北市召會第51聚會所,C,天善素苑,Which of the following POIs is closest to POI 兆豐國際商業銀行 located in the Taipei area?
+192,健生牙醫診所,公用電話,橘子樹托嬰中心,Dancing Elephant,B,三興分館,Which of the following POIs is closest to POI 垃圾桶 located in the Taipei area?
+193,臺北轉運站(華陰街),拉亞漢堡,合作金庫商業銀行,臺北愛潔瑞安洗衣店i郵箱,B,龍江朱崙街口,Which of the following POIs is closest to POI 台灣基督教道生長老會福音教會 located in the Taipei area?
+194,一號出口,Joseph Bristo想想廚房,媽咪廚房,火伴串燒店,E,永豐商業銀行,Which of the following POIs is closest to POI 啜飲室 located in the Taipei area?
+195,兆豐國際商業銀行,蘇杭餐廳,八方雲集,多禮咖啡,A,美而美,Which of the following POIs is closest to POI 大河屋居酒屋 located in the Taipei area?
+196,早安日和,台北富邦商業銀行,粹鍋 Shabu Shabu,台北富邦商業銀行,A,大安皮膚專科,Which of the following POIs is closest to POI 上班族自助餐 located in the Taipei area?
+197,馬辣,專品藥局,何嘉仁美語,台新國際商業銀行,A,林靜芸林之昀聯合整形外科,Which of the following POIs is closest to POI 老蔡水煎包 located in the Taipei area?
+198,牛角日本燒肉專門店,國泰世華商業銀行,台南三哥海鮮,王道銀行,D,第一商業銀行,Which of the following POIs is closest to POI 沐沐寵物醫院 located in the Taipei area?
+199,佳裕香冒菜涼皮,彰化商業銀行,家常飯朴老師1號店 집밥박선생,松江公園,C,民族松江路口,Which of the following POIs is closest to POI 開封包公府的私房麵 located in the Taipei area?
+200,熱炒100,TAJ泰姬印度餐廳,華山市場,伏羲廟,E,第一劇場炸蝦捲,Which of the following POIs is closest to POI 豪季水餃專賣店 located in the Taipei area?
+201,捷運南京復興站i郵箱,西雅圖極品咖啡,敦北公園,食在地 台灣素,A,大腕燒肉,Which of the following POIs is closest to POI 渣打國際商業銀行 located in the Taipei area?
+202,金夫人美式居酒屋,芳珍蔬食,基督教宏恩堂,琺蘭綺瑥朵英式茶餐館,C,雅痞Art Reading Cafe,Which of the following POIs is closest to POI 改革宗神學院 located in the Taipei area?
+203,開飯川食堂,慈鑾宮,慶豐診所,景勤二號公園(西南側),A,路易莎 市民門市,Which of the following POIs is closest to POI 新葡苑四十六 located in the Taipei area?
+204,毒茶,桌椅,品麟生猛活海鮮,越光寶盒弁當店,D,國泰世華商業銀行,Which of the following POIs is closest to POI 雪球咖啡 located in the Taipei area?
+205,鳥以花香,子木咖啡,台式熱炒,瞞著爹 食堂,D,臺北仁愛路郵局i郵箱,Which of the following POIs is closest to POI 這是一間牛肉麵 located in the Taipei area?
+206,台新國際商業銀行,格上租車台北建北店,一千零一夜,天仁茗茶,D,國泰世華商業銀行,Which of the following POIs is closest to POI 一品活蝦 located in the Taipei area?
+207,垂釣區,摩斯漢堡,正莊山東饅頭,鮮魚湯專賣店,B,行善路383巷,Which of the following POIs is closest to POI 國泰世華商業銀行 located in the Taipei area?
+208,Outing Cafe & Bar,孫東寶,新明路460巷口,長壽公園,E,Coffee Law,Which of the following POIs is closest to POI 中國信託商業銀行 located in the Taipei area?
+209,紅gimbap 韓式飯卷,加分100%浜中特選昆布鍋物,老爸咖啡,陶板屋,A,圓山老崔蒸包,Which of the following POIs is closest to POI 拌公室韓式拌飯專賣店 located in the Taipei area?
+210,六合分館,Häagen-Dazs,Lady媽媽廚房,月之意大利餐廳,E,王牌 巴賽隆納,Which of the following POIs is closest to POI 臺灣土地銀行 located in the Taipei area?
+211,新東公園,好吃義麵,漢堡王,一品活蝦,C,布咪創意早午餐,Which of the following POIs is closest to POI 第一商業銀行 located in the Taipei area?
+212,臺北附中公園停車場i郵箱,御品漢堡,貝克宅,開燈咖啡,E,Gelateria Cosi o Cosi,Which of the following POIs is closest to POI 市民敦化路口 located in the Taipei area?
+213,阿諾碟子,小禾馨兒童專科,吽炸居酒屋,川湘號,D,讚都,Which of the following POIs is closest to POI 捷運大安站(6號出口) located in the Taipei area?
+214,傑克漢堡,名亨,魯心麵,元大商業銀行,D,銀兔湯咖哩,Which of the following POIs is closest to POI VARY GOOD CAFE located in the Taipei area?
+215,霸味薑母鴨,星展（台灣）商業銀行,我家牛排,Wanna Eat,B,Ratio Coffee Roasters,Which of the following POIs is closest to POI 羅家小吃 located in the Taipei area?
+216,華南商業銀行,Qtime,小王子早餐店,臺灣新光商業銀行,D,好運來早餐店,Which of the following POIs is closest to POI 捷運台北101/世貿站(2號出口) located in the Taipei area?
+217,家家客家菜,麵攤,牯嶺公園,高家涼麵,A,中山徐州路口,Which of the following POIs is closest to POI 豆豆里 located in the Taipei area?
+218,星展（台灣）商業銀行,沐越,正德小吃店,惠普牙醫診所,A,鹿家莊,Which of the following POIs is closest to POI 合作金庫商業銀行 located in the Taipei area?
+219,餅告大人,pizzahot,一頭也黑毛和牛專賣店,捷運行天宮站(1號出口),E,丈母娘,Which of the following POIs is closest to POI 遼寧鵝肉 located in the Taipei area?
+220,大巨蛋停車場 (汽車出口),永春分館,蔬河,慈鑾宮,C,景勤二號公園(西南側),Which of the following POIs is closest to POI 究PASTA located in the Taipei area?
+221,小滿鍋物,三碗豬腳,食肉堂精緻鍋物,京好,D,滑板場,Which of the following POIs is closest to POI 8鍋臭臭鍋 located in the Taipei area?
+222,元大商業銀行,寶慶博愛路口,保霞宮,延平分館,A,101鬆餅,Which of the following POIs is closest to POI 雙園燒臘食品 located in the Taipei area?
+223,I'm Pasta,鼎泰豐,延平涼州街口,華南商業銀行,B,廣田麵館,Which of the following POIs is closest to POI 瓦城 located in the Taipei area?
+224,HWC黑沃咖啡,景欣中醫診所,國泰世華商業銀行,謙安和 Ken Anho,A,台北富邦商業銀行,Which of the following POIs is closest to POI 住吉日式關東煮 located in the Taipei area?
+225,金法林利生佛學中心,貳茶飲,女王漢堡炸雞,禪風茶樓,D,五常國中,Which of the following POIs is closest to POI 金滿廳 located in the Taipei area?
+226,文殊哥薩耶佛學講堂,旅人咖啡,池上便當,大中華粥麵館,D,給力健身房,Which of the following POIs is closest to POI 家廚小館 located in the Taipei area?
+227,詹記燒臘,第一演講廳(1F),檸檬草火鍋店,永峰牙醫台北中心,C,育園自助餐,Which of the following POIs is closest to POI 臻心美妍診所 located in the Taipei area?
+228,紅翻天生猛海鮮,宏福素食餐,延平涼州街口,Amanda Café,E,Pizza Rock,Which of the following POIs is closest to POI 八方雲集 located in the Taipei area?
+229,中山老人住宅,威輪單車咖啡,良友小館,憲兵二O二指揮部,E,證件快照,Which of the following POIs is closest to POI Mister Donut located in the Taipei area?
+230,翁記水煎包,東區紅麵線,南樓熱食部,兆豐國際商業銀行,B,飯飯堂,Which of the following POIs is closest to POI La Crêperie located in the Taipei area?
+231,臺大醫院地下停車場,麗樺藥局,雙子葉植物區,野江戶前脂,A,臺灣中小企業銀行,Which of the following POIs is closest to POI 臺大醫院東址員工機車停車場 located in the Taipei area?
+232,93蕃茄牛肉麵,福州麵店,藝文小客廳,地球村美日語,A,學吧,Which of the following POIs is closest to POI 伊芙咖啡 located in the Taipei area?
+233,齊芯蔬食坊,元大商業銀行,祥和蔬食精緻料理,台北富邦商業銀行,A,Think Cafe,Which of the following POIs is closest to POI 宮崎輝の會館 located in the Taipei area?
+234,Café Gugu,瑠公公園,千松谷,機車出口,D,橫浜蛋包飯,Which of the following POIs is closest to POI 三號出口 located in the Taipei area?
+235,蜀國麻辣火鍋,Garage+,尚品雞,廟口厚切牛排,B,福氣來餐飲連鎖,Which of the following POIs is closest to POI 城市車旅台北馬偕場 (出口) located in the Taipei area?
+236,玉山商業銀行,Café Gugu,場餅舖,國泰世華商業銀行,C,大安9號日式鍋物,Which of the following POIs is closest to POI 樂樂炭火燒肉 located in the Taipei area?
+237,香港私宅打邊爐,臺灣銀行,國泰世華商業銀行,中國信託商業銀行,A,台北福興宮,Which of the following POIs is closest to POI 集客 located in the Taipei area?
+238,Pulse Gym,建國南路出口,杏一醫療用品,貓咪先生的朋友,D,河床工作室,Which of the following POIs is closest to POI 孔陵一隻雞 located in the Taipei area?
+239,九寨,七十二牛肉麵,Dick,5年5班古早味美食便當,B,郭家擔子麵,Which of the following POIs is closest to POI Tino's Pizza Cafe located in the Taipei area?
+240,小紐約 延吉,梅記冬粉油飯,丁媽媽手工水餃南京分店,紅燒牛肉麵,C,品川蘭,Which of the following POIs is closest to POI 老虎醬溫州大餛飩 located in the Taipei area?
+241,水貨魚火鍋炭火燒魚,為福樓,宏秀堂中醫診所,永和豆漿,C,Dreamers,Which of the following POIs is closest to POI VWI by CHADWANG located in the Taipei area?
+242,立法院國會圖書館,大來小館永康旗艦店,臺灣中小企業銀行,民生植物區,A,松江路132巷口,Which of the following POIs is closest to POI 飲君子咖啡 located in the Taipei area?
+243,彰化商業銀行,大氣,儂特利,國際經貿中心停車場,E,韓時代,Which of the following POIs is closest to POI 興亞區民活動中心 located in the Taipei area?
+244,龍華燒臘,達美自助餐,臺灣銀行,菁英種子幼兒園,D,鴻海酒店,Which of the following POIs is closest to POI 華思堂 located in the Taipei area?
+245,第一演講廳(1F),初音壽司,蔣渭水紀念公園,臺大地藏庵,B,建國北路高架橋下停車場G區,Which of the following POIs is closest to POI Shamu Neko located in the Taipei area?
+246,麥味登,林家米粉湯,路易莎咖啡,vino,B,山西刀削麵,Which of the following POIs is closest to POI 路易莎 located in the Taipei area?
+247,鮮定位,璐緹咖啡,HWC黑沃咖啡 大安瑞安店,Simple Kaffa,E,Power Sandwich,Which of the following POIs is closest to POI 黄河蜀魚館 located in the Taipei area?
+248,中吉里民活動中心,生活茶館,學餐:手搖影料店,私人停車場,A,麵匠坐坊うどん,Which of the following POIs is closest to POI 鶴品 located in the Taipei area?
+249,東門赤肉羹,臺北白媽媽自助洗衣店i郵箱,馬祖麵館,橙廚義大利麵,A,臺大兒童醫院,Which of the following POIs is closest to POI 客家蘿蔔糕 located in the Taipei area?
+250,The Label,廁所,燒肉眾精緻炭火燒肉,麥當勞,A,屏東任家涼麵,Which of the following POIs is closest to POI 如意餃子麵食館 located in the Taipei area?
+251,松山國小停車場i郵箱,莊記小館,太妃鍋,21PLUS 烤雞,D,松德站,Which of the following POIs is closest to POI Mister Donut located in the Taipei area?
+252,堤比咖啡,仁一藥局,香港周記燒臘快餐,中正區公所,A,愛玉坊,Which of the following POIs is closest to POI 平和食事 located in the Taipei area?
+253,下埤公園,慈德講堂,活肺操場裏,臺北市立圖書館長安分館,B,五桐號,Which of the following POIs is closest to POI 保霞宮 located in the Taipei area?
+254,傑克漢堡,北捷信義安和站i郵箱,老蔡水煎包,Subway,B,BURGER OUT,Which of the following POIs is closest to POI 小川安和店 located in the Taipei area?
+255,龍口米苔目米粉湯,泰生堂參藥行,麥味登,摩斯漢堡,D,光點華山電影館,Which of the following POIs is closest to POI 春水堂人文茶館 located in the Taipei area?
+256,滿漢爐魚,Cafe By Juicy Diary,密室191 Bar,仁里居,B,板信商業銀行,Which of the following POIs is closest to POI 芯 located in the Taipei area?
+257,立達診所,Picker輕食館,永和豆漿,投幣式自動列印服務系統,A,吃飯,Which of the following POIs is closest to POI 正鋒自助餐 located in the Taipei area?
+258,仁愛路四段122巷口,楊記早餐,四海一家,小東京美饍小火鍋,C,城市車旅 國泰松仁場 (入口),Which of the following POIs is closest to POI 金旺牛肉麵.水餃 located in the Taipei area?
+259,午葉,角頭炙燒牛排,南港玉成公園停車場i郵箱,明美公園(行善路333巷),B,古早味麵館,Which of the following POIs is closest to POI 基隆廟口天婦羅 located in the Taipei area?
+260,王道銀行,敦北公園,喬喜蛋炒飯專賣店,東石蚵仔小吃店,A,咖啡弄,Which of the following POIs is closest to POI 國泰世華商業銀行 located in the Taipei area?
+261,ROYAL / INDONESIAN FOOD ( Halal ),信光幼兒園,育晟中醫診所,富興園,D,新光華商場,Which of the following POIs is closest to POI 好棒棒平價快炒 located in the Taipei area?
+262,心粵小廚,吉阿亞努印度餐廳,平衡點咖啡,比薩屋,A,摩斯漢堡,Which of the following POIs is closest to POI 臺灣土地銀行 located in the Taipei area?
+263,南京龍江路口,菊乃屋,台北酒驛,Meat Love,E,Evan's Burger,Which of the following POIs is closest to POI 上島咖啡店 located in the Taipei area?
+264,上海商業儲蓄銀行,介壽國中,韓江烤肉,爭鮮迴轉壽司,A,內湖行善C區i郵箱,Which of the following POIs is closest to POI 臺灣聯通東興場 located in the Taipei area?
+265,正宗台式意麵,綠拇指園地,合作金庫商業銀行,燒肉LIKE,A,新南大藥房,Which of the following POIs is closest to POI 立法院委員研究大樓 located in the Taipei area?
+266,三張里地下停車場 (行人出口),Times 中農科技大樓場,路易莎咖啡,韓江烤肉,D,La Petite Chambre,Which of the following POIs is closest to POI 陶板屋 located in the Taipei area?
+267,駅前石頭火鍋,Saveurs歐洲風味餐坊,台新國際商業銀行,四象4好,D,民生社區垃圾桶3,Which of the following POIs is closest to POI 茶果子咖啡坊 located in the Taipei area?
+268,祥和蔬食精緻料理,蓋飯,御村日本廣島燒,吉阿亞努印度餐廳,B,麻舖子,Which of the following POIs is closest to POI 越南風味美食 located in the Taipei area?
+269,涼州街無名涼麵,美好美早餐,六教美食街,杏慈診所,E,上海商業儲蓄銀行,Which of the following POIs is closest to POI 富鼎砂鍋粥 located in the Taipei area?
+270,合麟海南雞飯,北科大餐廳,點8號,Cafe Mode 木馬,E,大心,Which of the following POIs is closest to POI 星巴克 located in the Taipei area?
+271,金記涼麵,林東芳牛肉麵,滿堂紅頂級麻辣鴛鴦火鍋,橙品牙醫,B,悄悄話,Which of the following POIs is closest to POI 醉紅樓潮州菜館 located in the Taipei area?
+272,Mianto 艾果豐,三民教會,WAO Taiwan,府前停車場 (松高路入口),C,國立臺北大學(臺北校區),Which of the following POIs is closest to POI 臺北市藝文推廣處 located in the Taipei area?
+273,清潔針具/保險套販賣機,噴水池,生機健康餐,摩斯漢堡,D,涼州街無名涼麵,Which of the following POIs is closest to POI 鐵板燒 located in the Taipei area?
+274,Rayca Coffee,廣東粥,徐州路二號庭園會館,摩斯漢堡,D,江蘇菜盒店,Which of the following POIs is closest to POI 澄觀中醫診所 located in the Taipei area?
+275,星展（台灣）商業銀行,老張牛肉麵,優豐藥局,木生婦幼診所,D,M ONE CAFE,Which of the following POIs is closest to POI cama cafe located in the Taipei area?
+276,牯嶺公園,JM Café & Bistro,服務中心,合作金庫商業銀行,E,World Gym健身俱樂部,Which of the following POIs is closest to POI 教庭外郵筒 located in the Taipei area?
+277,好吃雞肉飯,More Fit,彰化商業銀行,台北神愛教會,B,洪二爺漢堡,Which of the following POIs is closest to POI Mm咖啡 located in the Taipei area?
+278,駱師傅法式冰淇淋之家,必勝客,橋頭麻辣鍋,竹川居酒屋,B,星巴克,Which of the following POIs is closest to POI 菁致川湘小館 located in the Taipei area?
+279,MARO義式冰淇淋,YOGSS廚坊,太原廣場,洪瑞珍三明治,B,皇品葉記港式燒臘,Which of the following POIs is closest to POI 麵店 located in the Taipei area?
+280,弍兩日式炭火燒肉,如意餃子麵食館,永豐商業銀行,大阪燒肉 燒魂Yakikon大安本店,D,Rebel Burger,Which of the following POIs is closest to POI 新文明 located in the Taipei area?
+281,頂好榕樹下小吃店,海音咖啡,合作金庫商業銀行,凱基商業銀行,B,盛園絲瓜小籠湯包,Which of the following POIs is closest to POI 衛生保健組 located in the Taipei area?
+282,包仔的店,鏡江韓式無煙烤肉,台新國際商業銀行,信義廣場地下停車場 (信義路),B,千翔食品,Which of the following POIs is closest to POI 晨光蔬菜早餐吧 located in the Taipei area?
+283,九份芋圓臭豆腐肉圓,巨林美而美,永安教會,真味肉圓,C,張家麵館,Which of the following POIs is closest to POI 戴記獨臭豆腐 located in the Taipei area?
+284,市民大道涮涮鍋,小川安和店,捷運小巨蛋站(3號出口),胖子小吃部,D,彌生軒,Which of the following POIs is closest to POI 桂師父滷味 located in the Taipei area?
+285,涼洲街越南美食,捷運臺大醫院站(4號出口),金香,噴水池,E,摩斯漢堡,Which of the following POIs is closest to POI 響 located in the Taipei area?
+286,IP內容實驗室虛擬攝影棚,臺北青少年發展處i郵箱,飽之林豆漿大王,伊客萊斯早午餐,C,欣葉日本料理,Which of the following POIs is closest to POI CBD cafe located in the Taipei area?
+287,丈母娘,勺子雜貨咖啡,Tino's Pizza Cafe,慈德講堂,A,TOTSUZEN Streakhouse,Which of the following POIs is closest to POI 好味屋韓食 located in the Taipei area?
+288,非常好咆,臺北信義國小停車場i郵箱,加分100%浜中特選昆布鍋物,Dick Place,A,烏弄,Which of the following POIs is closest to POI 永誠藥局 located in the Taipei area?
+289,兆豐國際商業銀行,SEMINAR西餐廳,立德餐廳,服務中心,A,和平東路三段341巷口,Which of the following POIs is closest to POI 彰化商業銀行 located in the Taipei area?
+290,CoCo壱番屋,羽樂歐陸創意料理,瑠公公園,Sidebar,C,貓森旅,Which of the following POIs is closest to POI 頂好哨子麵 located in the Taipei area?
+291,韓時代,中山北路二段62巷口,真的好海鮮餐廳,臺北青少年發展處i郵箱,A,國泰世華商業銀行,Which of the following POIs is closest to POI 辣個猴子 located in the Taipei area?
+292,米哥烘焙坊,星展（台灣）商業銀行,小法國,胖子小吃部,B,能量先生水煮餐盒,Which of the following POIs is closest to POI 湛廬咖啡 located in the Taipei area?
+293,白靈宮,宜品福州乾拌麵,嘉義雞肉飯,老哥水煎包麵線,D,台新國際商業銀行,Which of the following POIs is closest to POI 台北市第五信用合作社 located in the Taipei area?
+294,赤峰街排骨飯,GABA 元気の源！嘎吧！,永豐商業銀行,玉山商業銀行,A,東方饌黔天下,Which of the following POIs is closest to POI 福州老舖乾麵 located in the Taipei area?
+295,機場捷運郵局,永豐商業銀行,阿桑涼麵,洪瑞珍三明治,E,BeApe Restaurant,Which of the following POIs is closest to POI 誠屋拉麵 located in the Taipei area?
+296,非比教會,麒玲義大利麵店,阿維麵線,MiaCucina,C,丰明殿涮涮鍋殿堂,Which of the following POIs is closest to POI 咖啡製造所 located in the Taipei area?
+297,永豐商業銀行,福州老舖乾麵,如記蔬廚,台北市第五信用合作社,B,Tea House No.802,Which of the following POIs is closest to POI 剌身和食魚兵衛 located in the Taipei area?
+298,三元號,阡品可口美精緻早午餐,金牌乾意麵,麥味登,B,迦南園小吃,Which of the following POIs is closest to POI 華山6165小吃殿 located in the Taipei area?
+299,107蔥抓餅,捷運忠孝復興站(2號出口),聯邦商業銀行,韓宮,D,國立臺北大學(臺北校區),Which of the following POIs is closest to POI Wooloomooloo Simple Joy located in the Taipei area?
+300,你好咖啡旅館,永茂自助餐,八方雲集,張國麟耳鼻喉專科,A,喜樂牙醫,Which of the following POIs is closest to POI 北捷大安站i郵箱 located in the Taipei area?
+301,熱冷飲水機,Sate House,錦記港式美食,楊和堂,C,JJ早餐,Which of the following POIs is closest to POI 如意健康素食坊 located in the Taipei area?
+302,啜飲室,有田屋,孜然羊肉,信義路出口,A,摩斯漢堡,Which of the following POIs is closest to POI 禾丰烤炭火燒肉 located in the Taipei area?
+303,8克C,臺灣新光商業銀行,中崙分隊,TABOO,C,臺北仁愛路郵局i郵箱,Which of the following POIs is closest to POI Cama located in the Taipei area?
+304,中山北路二段62巷口,Mianto 艾果豐,民生承安診所,韓宮,D,佳味排骨麵,Which of the following POIs is closest to POI 安康復健科診所 located in the Taipei area?
+305,Ilha Formosa Cafe,碳大吉串烤,民權迪化街口,宜蘭烏石港海產,A,中華漢口街口,Which of the following POIs is closest to POI 阡日咖啡供應所KŌFĪ SUPPLIER located in the Taipei area?
+306,華視大樓(1)i郵箱,紫薇宮,戀舞趣,陽光汽車美容,E,星展（台灣）商業銀行,Which of the following POIs is closest to POI 信德堂 located in the Taipei area?
+307,福哥滷味,必勝客,小統一牛排,好朋友早餐吧,E,橋頭麻辣鍋,Which of the following POIs is closest to POI the key located in the Taipei area?
+308,師大便利書店 (自動借還書機),弍兩日式炭火燒肉,Ratio Coffee Roasters,Simple Kaffa,B,福皇宴港式小館,Which of the following POIs is closest to POI 甜10工作室 located in the Taipei area?
+309,巧虎小館,美而美,傳愛經典中醫,平成十九(1號店),B,捷運大安站(2號出口),Which of the following POIs is closest to POI Amanda Café located in the Taipei area?
+310,瑪姬咖啡,臺北關帝堂,立法院郵局,CoppiiLumii,B,吉祥海鮮樓,Which of the following POIs is closest to POI Cafe 49 located in the Taipei area?
+311,華南商業銀行,黑蔓芭,全羅道韓式拌飯,堤頂大道新湖一路口,C,FOREST RESTAURANT,Which of the following POIs is closest to POI 享初精緻早午餐 located in the Taipei area?
+312,外交部外交及國際事務學院,李掌櫃乾拌麵館長庚店,阿東師,USPACE 宏泰一號廣場停車場 (汽車入口),C,豬腸冬粉,Which of the following POIs is closest to POI 冰淇淋到了 located in the Taipei area?
+313,秋吉事串燒,長安國小地下停車場,秀蘭小館,靜園典藏台北菜,A,捷運小巨蛋站(2號出口),Which of the following POIs is closest to POI 華南商業銀行 located in the Taipei area?
+314,郵筒,Bitcoin Cryptocurrency ATM,摩斯漢堡,池上飯包,C,すき家,Which of the following POIs is closest to POI 益美自助餐 located in the Taipei area?
+315,台北君悅酒店停車場 (出口),永春亭,口味坊,北平彩芝樓,A,信光幼兒園,Which of the following POIs is closest to POI 市府松壽路口 located in the Taipei area?
+316,小林麵線,吉阿亞努印度餐廳,捷運善導寺站(3號出口),台北富邦商業銀行,E,康青龍,Which of the following POIs is closest to POI 華南商業銀行 located in the Taipei area?
+317,蒙古紅蒙古火鍋,桔子蒙特梭利幼兒園,貴州小吃,凝態館地下停車場,E,HWC黑沃咖啡 大安瑞安店,Which of the following POIs is closest to POI 必勝客 located in the Taipei area?
+318,haritts,九湯屋日本拉麵,HWC黑沃咖啡 大安瑞安店,信義廣場地下停車場 (行人),E,茗香園冰室,Which of the following POIs is closest to POI 玉山商業銀行 located in the Taipei area?

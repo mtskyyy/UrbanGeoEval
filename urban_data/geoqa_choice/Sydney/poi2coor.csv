@@ -1,0 +1,397 @@
+,A,B,answer,C,D,E,question
+0,"151.1985,-33.8865","151.2085,-33.8965",B,"151.1985,-33.9065","151.2185,-33.9065","151.2185,-33.8865",What is the longitude and latigude coordinates of The Grosvenor Hotel located in the Sydney area?
+1,"151.1641,-33.8948","151.1741,-33.8848",A,"151.1741,-33.9048","151.1541,-33.8848","151.1541,-33.9048",What is the longitude and latigude coordinates of Stanmore Family Medical Centre located in the Sydney area?
+2,"151.2629,-33.8823","151.2629,-33.9023",D,"151.2829,-33.8823","151.2729,-33.8923","151.2829,-33.9023",What is the longitude and latigude coordinates of Lamrock Cafe located in the Sydney area?
+3,"151.2268,-33.9204","151.2168,-33.9104",A,"151.2368,-33.9304","151.2168,-33.9304","151.2368,-33.9104",What is the longitude and latigude coordinates of Fajar Indonesian & Asian Food located in the Sydney area?
+4,"151.1319,-33.8554","151.1319,-33.8354",D,"151.1519,-33.8354","151.1419,-33.8454","151.1519,-33.8554",What is the longitude and latigude coordinates of Chiswick located in the Sydney area?
+5,"151.2348,-33.8651","151.2248,-33.8751",B,"151.2348,-33.8851","151.2148,-33.8651","151.2148,-33.8851",What is the longitude and latigude coordinates of Ken’s Continental located in the Sydney area?
+6,"151.1863,-33.894","151.1863,-33.874",C,"151.1963,-33.884","151.2063,-33.894","151.2063,-33.874",What is the longitude and latigude coordinates of The Nectar House located in the Sydney area?
+7,"151.2048,-33.89","151.2048,-33.87",E,"151.2248,-33.87","151.2248,-33.89","151.2148,-33.88",What is the longitude and latigude coordinates of The Cafe Lounge located in the Sydney area?
+8,"151.2096,-33.823","151.1996,-33.833",A,"151.2196,-33.813","151.1996,-33.813","151.2196,-33.833",What is the longitude and latigude coordinates of Sushi Oe located in the Sydney area?
+9,"151.1922,-33.8626","151.2022,-33.8726",B,"151.1922,-33.8826","151.2122,-33.8626","151.2122,-33.8826",What is the longitude and latigude coordinates of Dock 1 located in the Sydney area?
+10,"151.211,-33.8513","151.221,-33.8613",B,"151.231,-33.8513","151.211,-33.8713","151.231,-33.8713",What is the longitude and latigude coordinates of Westpac OpenAir located in the Sydney area?
+11,"151.1959,-33.8659","151.2159,-33.8859",C,"151.2059,-33.8759","151.1959,-33.8859","151.2159,-33.8659",What is the longitude and latigude coordinates of Mappen located in the Sydney area?
+12,"151.2048,-33.8899","151.1948,-33.8999",A,"151.2148,-33.8799","151.1948,-33.8799","151.2148,-33.8999",What is the longitude and latigude coordinates of Strawberry Hills Post Shop located in the Sydney area?
+13,"151.2236,-33.8686","151.2036,-33.8886",E,"151.2236,-33.8886","151.2036,-33.8686","151.2136,-33.8786",What is the longitude and latigude coordinates of Ovo Cafe located in the Sydney area?
+14,"151.1844,-33.894","151.1844,-33.914",C,"151.1944,-33.904","151.2044,-33.914","151.2044,-33.894",What is the longitude and latigude coordinates of Grandma's located in the Sydney area?
+15,"151.1016,-33.9232","151.0916,-33.9132",A,"151.0916,-33.9332","151.1116,-33.9332","151.1116,-33.9132",What is the longitude and latigude coordinates of Flame House located in the Sydney area?
+16,"151.2023,-33.8723","151.1923,-33.8623",A,"151.1923,-33.8823","151.2123,-33.8823","151.2123,-33.8623",What is the longitude and latigude coordinates of Dock 2 located in the Sydney area?
+17,"151.2171,-33.8647","151.2271,-33.8747",A,"151.2071,-33.8547","151.2271,-33.8547","151.2071,-33.8747",What is the longitude and latigude coordinates of Farm Cove Eatery located in the Sydney area?
+18,"151.1196,-33.8582","151.1396,-33.8582",C,"151.1296,-33.8682","151.1396,-33.8782","151.1196,-33.8782",What is the longitude and latigude coordinates of Appetite Cafe Five Dock located in the Sydney area?
+19,"151.1622,-33.8889","151.1722,-33.8989",B,"151.1622,-33.9089","151.1822,-33.8889","151.1822,-33.9089",What is the longitude and latigude coordinates of The Sultan’s Table located in the Sydney area?
+20,"151.2043,-33.8907","151.2043,-33.9107",D,"151.2243,-33.8907","151.2143,-33.9007","151.2243,-33.9107",What is the longitude and latigude coordinates of Go & Get Fit located in the Sydney area?
+21,"151.0981,-33.9071","151.0981,-33.9271",E,"151.1181,-33.9071","151.1181,-33.9271","151.1081,-33.9171",What is the longitude and latigude coordinates of Sydney Snoring & Sleep Apnea Oral Appliance Centre located in the Sydney area?
+22,"151.1798,-33.8943","151.1998,-33.8943",E,"151.1998,-33.9143","151.1798,-33.9143","151.1898,-33.9043",What is the longitude and latigude coordinates of Erskineville Compounding Pharmacy located in the Sydney area?
+23,"151.2137,-33.8829","151.1937,-33.8829",E,"151.1937,-33.9029","151.2137,-33.9029","151.2037,-33.8929",What is the longitude and latigude coordinates of Blue Brew located in the Sydney area?
+24,"151.2045,-33.8916","151.2145,-33.8816",B,"151.2045,-33.8716","151.2245,-33.8916","151.2245,-33.8716",What is the longitude and latigude coordinates of Pieno located in the Sydney area?
+25,"151.1374,-33.8357","151.1474,-33.8257",A,"151.1274,-33.8457","151.1474,-33.8457","151.1274,-33.8257",What is the longitude and latigude coordinates of Villa Maria Monastery Graveyard located in the Sydney area?
+26,"151.2176,-33.8988","151.2376,-33.8988",D,"151.2176,-33.8788","151.2276,-33.8888","151.2376,-33.8788",What is the longitude and latigude coordinates of Olympic Hotel located in the Sydney area?
+27,"151.2089,-33.8864","151.2089,-33.9064",C,"151.1989,-33.8964","151.1889,-33.8864","151.1889,-33.9064",What is the longitude and latigude coordinates of FBI Radio located in the Sydney area?
+28,"151.1946,-33.8778","151.2146,-33.8578",D,"151.1946,-33.8578","151.2046,-33.8678","151.2146,-33.8778",What is the longitude and latigude coordinates of Joe's Sandwich Bar located in the Sydney area?
+29,"151.2754,-33.8822","151.2854,-33.8722",A,"151.2654,-33.8722","151.2654,-33.8922","151.2854,-33.8922",What is the longitude and latigude coordinates of Dr. Mark Grunwald Surgery located in the Sydney area?
+30,"151.2029,-33.896","151.2229,-33.916",E,"151.2029,-33.916","151.2229,-33.896","151.2129,-33.906",What is the longitude and latigude coordinates of Kickin'inn located in the Sydney area?
+31,"151.2101,-33.8843","151.2201,-33.8943",A,"151.2001,-33.8943","151.2201,-33.8743","151.2001,-33.8743",What is the longitude and latigude coordinates of The Reformatory Caffeine Lab located in the Sydney area?
+32,"151.2685,-33.8703","151.2785,-33.8803",A,"151.2585,-33.8603","151.2785,-33.8603","151.2585,-33.8803",What is the longitude and latigude coordinates of Grandfather's Moustache located in the Sydney area?
+33,"151.2118,-33.8781","151.1918,-33.8581",C,"151.2018,-33.8681","151.1918,-33.8781","151.2118,-33.8581",What is the longitude and latigude coordinates of Manjit's located in the Sydney area?
+34,"151.2058,-33.8858","151.2258,-33.8658",E,"151.2058,-33.8658","151.2258,-33.8858","151.2158,-33.8758",What is the longitude and latigude coordinates of Black Squid Thai located in the Sydney area?
+35,"151.1939,-33.8821","151.2139,-33.8821",C,"151.2039,-33.8921","151.1939,-33.9021","151.2139,-33.9021",What is the longitude and latigude coordinates of Quirk's Cafe located in the Sydney area?
+36,"151.2268,-33.8681","151.2168,-33.8781",B,"151.2068,-33.8881","151.2268,-33.8881","151.2068,-33.8681",What is the longitude and latigude coordinates of Kindness Vegan Kitchen located in the Sydney area?
+37,"151.2004,-33.872","151.2104,-33.862",B,"151.2204,-33.852","151.2004,-33.852","151.2204,-33.872",What is the longitude and latigude coordinates of Paragon Hotel located in the Sydney area?
+38,"151.2185,-33.8577","151.1985,-33.8577",E,"151.1985,-33.8777","151.2185,-33.8777","151.2085,-33.8677",What is the longitude and latigude coordinates of Diggy Doo’s Kiosk located in the Sydney area?
+39,"151.2031,-33.884","151.2131,-33.874",A,"151.1931,-33.894","151.1931,-33.874","151.2131,-33.894",What is the longitude and latigude coordinates of Eve’s Bar located in the Sydney area?
+40,"151.2141,-33.9024","151.2241,-33.9124",B,"151.2341,-33.9024","151.2341,-33.9224","151.2141,-33.9224",What is the longitude and latigude coordinates of Sushi Tengoku located in the Sydney area?
+41,"151.2025,-33.9104","151.2125,-33.9004",A,"151.1925,-33.9004","151.2125,-33.9204","151.1925,-33.9204",What is the longitude and latigude coordinates of Rosebery Hotel located in the Sydney area?
+42,"151.2,-33.893","151.19,-33.903",A,"151.21,-33.903","151.19,-33.883","151.21,-33.883",What is the longitude and latigude coordinates of Flyover located in the Sydney area?
+43,"151.1335,-33.8946","151.1535,-33.8946",E,"151.1335,-33.9146","151.1535,-33.9146","151.1435,-33.9046",What is the longitude and latigude coordinates of Kebab Pizza Pide hiuse located in the Sydney area?
+44,"151.2232,-33.8893","151.2032,-33.8893",D,"151.2032,-33.8693","151.2132,-33.8793","151.2232,-33.8693",What is the longitude and latigude coordinates of Bean Temple located in the Sydney area?
+45,"151.1574,-33.8873","151.1674,-33.8973",A,"151.1674,-33.8773","151.1474,-33.8973","151.1474,-33.8773",What is the longitude and latigude coordinates of Mario's Pizza Bar located in the Sydney area?
+46,"151.2089,-33.8866","151.2189,-33.8966",A,"151.1989,-33.8766","151.2189,-33.8766","151.1989,-33.8966",What is the longitude and latigude coordinates of Mohr Fish located in the Sydney area?
+47,"151.2118,-33.8762","151.2118,-33.8962",D,"151.1918,-33.8762","151.2018,-33.8862","151.1918,-33.8962",What is the longitude and latigude coordinates of Yumko Korean Fried Chicken located in the Sydney area?
+48,"151.2119,-33.8562","151.1919,-33.8762",C,"151.2019,-33.8662","151.2119,-33.8762","151.1919,-33.8562",What is the longitude and latigude coordinates of King Street Coach Layover located in the Sydney area?
+49,"151.2086,-33.8961","151.1886,-33.8761",D,"151.2086,-33.8761","151.1986,-33.8861","151.1886,-33.8961",What is the longitude and latigude coordinates of Something For Jess located in the Sydney area?
+50,"151.1164,-33.8022","151.0964,-33.8022",C,"151.1064,-33.8122","151.0964,-33.8222","151.1164,-33.8222",What is the longitude and latigude coordinates of Australian Skin Clinics - Top Ryde located in the Sydney area?
+51,"151.252,-33.8919","151.242,-33.9019",A,"151.262,-33.9019","151.242,-33.8819","151.262,-33.8819",What is the longitude and latigude coordinates of Holly located in the Sydney area?
+52,"151.1676,-33.8655","151.1776,-33.8755",A,"151.1776,-33.8555","151.1576,-33.8555","151.1576,-33.8755",What is the longitude and latigude coordinates of Le Grande Bouffe located in the Sydney area?
+53,"151.2109,-33.9022","151.2109,-33.9222",D,"151.1909,-33.9222","151.2009,-33.9122","151.1909,-33.9022",What is the longitude and latigude coordinates of Seasoning Thai located in the Sydney area?
+54,"151.2098,-33.8628","151.2198,-33.8728",A,"151.1998,-33.8528","151.2198,-33.8528","151.1998,-33.8728",What is the longitude and latigude coordinates of Alfredo located in the Sydney area?
+55,"151.2416,-33.927","151.2216,-33.927",C,"151.2316,-33.917","151.2216,-33.907","151.2416,-33.907",What is the longitude and latigude coordinates of University Health Service located in the Sydney area?
+56,"151.2141,-33.8833","151.2341,-33.8633",E,"151.2341,-33.8833","151.2141,-33.8633","151.2241,-33.8733",What is the longitude and latigude coordinates of Vico Italian Eatery located in the Sydney area?
+57,"151.2036,-33.8929","151.1936,-33.9029",A,"151.2136,-33.8829","151.1936,-33.8829","151.2136,-33.9029",What is the longitude and latigude coordinates of Mezepotamia located in the Sydney area?
+58,"151.2804,-33.8862","151.2704,-33.8962",A,"151.2704,-33.8762","151.2904,-33.8962","151.2904,-33.8762",What is the longitude and latigude coordinates of Savion located in the Sydney area?
+59,"151.16,-33.8035","151.18,-33.8035",E,"151.18,-33.8235","151.16,-33.8235","151.17,-33.8135",What is the longitude and latigude coordinates of Kasina Korean Eatery located in the Sydney area?
+60,"151.1838,-33.8746","151.1938,-33.8646",B,"151.2038,-33.8746","151.1838,-33.8546","151.2038,-33.8546",What is the longitude and latigude coordinates of Wharf Cafe located in the Sydney area?
+61,"151.1601,-33.8252","151.1401,-33.8452",E,"151.1401,-33.8252","151.1601,-33.8452","151.1501,-33.8352",What is the longitude and latigude coordinates of Hunters Hill Private Hospital located in the Sydney area?
+62,"151.203,-33.9075","151.203,-33.8875",D,"151.223,-33.8875","151.213,-33.8975","151.223,-33.9075",What is the longitude and latigude coordinates of The Crystal Restaurant & Bar located in the Sydney area?
+63,"151.2579,-33.902","151.2579,-33.882",E,"151.2379,-33.902","151.2379,-33.882","151.2479,-33.892",What is the longitude and latigude coordinates of Viet Senses located in the Sydney area?
+64,"151.2884,-33.8693","151.2884,-33.8493",E,"151.2684,-33.8493","151.2684,-33.8693","151.2784,-33.8593",What is the longitude and latigude coordinates of Vaucluse Veterinary Clinic located in the Sydney area?
+65,"151.2082,-33.8729","151.1982,-33.8629",A,"151.1982,-33.8829","151.2182,-33.8629","151.2182,-33.8829",What is the longitude and latigude coordinates of Gyukatsu Kyoto Katsugyu located in the Sydney area?
+66,"151.1956,-33.8972","151.2056,-33.9072",B,"151.2156,-33.9172","151.1956,-33.9172","151.2156,-33.8972",What is the longitude and latigude coordinates of xtra clubs located in the Sydney area?
+67,"151.1857,-33.8813","151.1957,-33.8913",B,"151.1857,-33.9013","151.2057,-33.8813","151.2057,-33.9013",What is the longitude and latigude coordinates of Eats on Abercrombie located in the Sydney area?
+68,"151.2216,-33.8768","151.2316,-33.8668",A,"151.2316,-33.8868","151.2116,-33.8868","151.2116,-33.8668",What is the longitude and latigude coordinates of Big Fat Indian located in the Sydney area?
+69,"151.2314,-33.8409","151.2314,-33.8209",C,"151.2214,-33.8309","151.2114,-33.8209","151.2114,-33.8409",What is the longitude and latigude coordinates of So Cal located in the Sydney area?
+70,"151.1318,-33.9201","151.1118,-33.9201",C,"151.1218,-33.9101","151.1118,-33.9001","151.1318,-33.9001",What is the longitude and latigude coordinates of Charlie's Pizzeria & Bakery located in the Sydney area?
+71,"151.2246,-33.8715","151.2246,-33.8915",C,"151.2146,-33.8815","151.2046,-33.8915","151.2046,-33.8715",What is the longitude and latigude coordinates of Zushi Sushi located in the Sydney area?
+72,"151.2193,-33.8864","151.2193,-33.8664",E,"151.1993,-33.8664","151.1993,-33.8864","151.2093,-33.8764",What is the longitude and latigude coordinates of Key Health CBD South located in the Sydney area?
+73,"151.1712,-33.8909","151.1912,-33.8909",E,"151.1912,-33.8709","151.1712,-33.8709","151.1812,-33.8809",What is the longitude and latigude coordinates of Forest Lodge Community Garden located in the Sydney area?
+74,"151.2229,-33.8869","151.2029,-33.8669",C,"151.2129,-33.8769","151.2029,-33.8869","151.2229,-33.8669",What is the longitude and latigude coordinates of Il Espresso located in the Sydney area?
+75,"151.1696,-33.8466","151.1896,-33.8666",C,"151.1796,-33.8566","151.1696,-33.8666","151.1896,-33.8466",What is the longitude and latigude coordinates of Shila Kitchen located in the Sydney area?
+76,"151.1813,-33.8641","151.2013,-33.8841",D,"151.2013,-33.8641","151.1913,-33.8741","151.1813,-33.8841",What is the longitude and latigude coordinates of GetGelato located in the Sydney area?
+77,"151.2382,-33.8674","151.2382,-33.8874",C,"151.2282,-33.8774","151.2182,-33.8674","151.2182,-33.8874",What is the longitude and latigude coordinates of TechnoGym located in the Sydney area?
+78,"151.1845,-33.812","151.2045,-33.832",E,"151.2045,-33.812","151.1845,-33.832","151.1945,-33.822","What is the longitude and latigude coordinates of Bike Lockers - St Leonards Station, Chandos St located in the Sydney area?"
+79,"151.2126,-33.8648","151.2126,-33.8848",C,"151.2026,-33.8748","151.1926,-33.8648","151.1926,-33.8848",What is the longitude and latigude coordinates of Alma located in the Sydney area?
+80,"151.217,-33.8858","151.197,-33.9058",D,"151.217,-33.9058","151.207,-33.8958","151.197,-33.8858",What is the longitude and latigude coordinates of PCYC located in the Sydney area?
+81,"151.2378,-33.9185","151.2578,-33.9185",D,"151.2378,-33.8985","151.2478,-33.9085","151.2578,-33.8985",What is the longitude and latigude coordinates of Spaghetteria located in the Sydney area?
+82,"151.1724,-33.8477","151.1824,-33.8577",B,"151.1724,-33.8677","151.1924,-33.8477","151.1924,-33.8677",What is the longitude and latigude coordinates of Café Berlin located in the Sydney area?
+83,"151.2432,-33.9067","151.2332,-33.9167",B,"151.2232,-33.9067","151.2232,-33.9267","151.2432,-33.9267",What is the longitude and latigude coordinates of Coffee Cart located in the Sydney area?
+84,"151.2412,-33.887","151.2312,-33.877",B,"151.2212,-33.887","151.2212,-33.867","151.2412,-33.867",What is the longitude and latigude coordinates of BP Edgecliff located in the Sydney area?
+85,"151.2368,-33.9105","151.2168,-33.9105",E,"151.2168,-33.9305","151.2368,-33.9305","151.2268,-33.9205",What is the longitude and latigude coordinates of Taiwanese Express located in the Sydney area?
+86,"151.2158,-33.8662","151.1958,-33.8862",E,"151.1958,-33.8662","151.2158,-33.8862","151.2058,-33.8762",What is the longitude and latigude coordinates of Memory Tongue located in the Sydney area?
+87,"151.1918,-33.9088","151.2118,-33.9288",E,"151.1918,-33.9288","151.2118,-33.9088","151.2018,-33.9188",What is the longitude and latigude coordinates of Pino Espresso Bar located in the Sydney area?
+88,"151.148,-33.8816","151.128,-33.8816",E,"151.148,-33.9016","151.128,-33.9016","151.138,-33.8916",What is the longitude and latigude coordinates of Summer Hill Fiah & Chips located in the Sydney area?
+89,"151.2121,-33.8998","151.2221,-33.8898",A,"151.2021,-33.9098","151.2021,-33.8898","151.2221,-33.9098",What is the longitude and latigude coordinates of Galbi Korean Charcoal BBQ located in the Sydney area?
+90,"151.2199,-33.8384","151.2399,-33.8384",E,"151.2199,-33.8184","151.2399,-33.8184","151.2299,-33.8284",What is the longitude and latigude coordinates of Shot on Military located in the Sydney area?
+91,"151.1505,-33.8616","151.1505,-33.8816",C,"151.1605,-33.8716","151.1705,-33.8616","151.1705,-33.8816",What is the longitude and latigude coordinates of Friendly Cafe located in the Sydney area?
+92,"151.1935,-33.821","151.2035,-33.811",A,"151.1835,-33.831","151.2035,-33.831","151.1835,-33.811",What is the longitude and latigude coordinates of J.M. Formula located in the Sydney area?
+93,"151.2237,-33.8764","151.2237,-33.8964",E,"151.2037,-33.8964","151.2037,-33.8764","151.2137,-33.8864",What is the longitude and latigude coordinates of Yulli’s located in the Sydney area?
+94,"151.2117,-33.8948","151.1917,-33.8948",C,"151.2017,-33.8848","151.2117,-33.8748","151.1917,-33.8748",What is the longitude and latigude coordinates of Viet located in the Sydney area?
+95,"151.2016,-33.8211","151.2016,-33.8011",E,"151.2216,-33.8211","151.2216,-33.8011","151.2116,-33.8111",What is the longitude and latigude coordinates of O' Siam Thai Feast located in the Sydney area?
+96,"151.2918,-33.8352","151.2718,-33.8552",D,"151.2718,-33.8352","151.2818,-33.8452","151.2918,-33.8552",What is the longitude and latigude coordinates of Watsons Bay Library located in the Sydney area?
+97,"151.2177,-33.8477","151.2177,-33.8277",D,"151.1977,-33.8277","151.2077,-33.8377","151.1977,-33.8477",What is the longitude and latigude coordinates of Koji Gyoza Grill located in the Sydney area?
+98,"151.2817,-33.8775","151.2617,-33.8775",E,"151.2617,-33.8975","151.2817,-33.8975","151.2717,-33.8875",What is the longitude and latigude coordinates of Bondi Rumba located in the Sydney area?
+99,"151.1946,-33.9142","151.1746,-33.9342",E,"151.1946,-33.9342","151.1746,-33.9142","151.1846,-33.9242",What is the longitude and latigude coordinates of Simba Car Hire Sydney Airport located in the Sydney area?
+100,"151.115,-33.8991","151.135,-33.8991",D,"151.135,-33.8791","151.125,-33.8891","151.115,-33.8791",What is the longitude and latigude coordinates of Multicare Family Medical Centre located in the Sydney area?
+101,"151.1932,-33.8822","151.1732,-33.8822",C,"151.1832,-33.8922","151.1932,-33.9022","151.1732,-33.9022",What is the longitude and latigude coordinates of Hoochie Mamma Cafe located in the Sydney area?
+102,"151.1356,-33.9355","151.1156,-33.9355",C,"151.1256,-33.9255","151.1356,-33.9155","151.1156,-33.9155",What is the longitude and latigude coordinates of Earlwood Police Station located in the Sydney area?
+103,"151.1937,-33.8663","151.2037,-33.8763",B,"151.2137,-33.8863","151.1937,-33.8863","151.2137,-33.8663",What is the longitude and latigude coordinates of Arisun located in the Sydney area?
+104,"151.1893,-33.9062","151.2093,-33.9062",C,"151.1993,-33.8962","151.1893,-33.8862","151.2093,-33.8862",What is the longitude and latigude coordinates of Xiang Ji Rice Breakfast Bar located in the Sydney area?
+105,"151.1423,-33.8598","151.1523,-33.8698",A,"151.1323,-33.8698","151.1523,-33.8498","151.1323,-33.8498",What is the longitude and latigude coordinates of Prima Cucina located in the Sydney area?
+106,"151.1872,-33.8739","151.2072,-33.8939",E,"151.2072,-33.8739","151.1872,-33.8939","151.1972,-33.8839",What is the longitude and latigude coordinates of Yummy Chilli Bean located in the Sydney area?
+107,"151.2037,-33.8775","151.2037,-33.8575",E,"151.1837,-33.8575","151.1837,-33.8775","151.1937,-33.8675",What is the longitude and latigude coordinates of Blue Eye Dragon located in the Sydney area?
+108,"151.2117,-33.8159","151.1917,-33.8159",E,"151.2117,-33.8359","151.1917,-33.8359","151.2017,-33.8259",What is the longitude and latigude coordinates of Fresh located in the Sydney area?
+109,"151.2175,-33.8652","151.1975,-33.8852",C,"151.2075,-33.8752","151.1975,-33.8652","151.2175,-33.8852",What is the longitude and latigude coordinates of Luke's Kitchen located in the Sydney area?
+110,"151.2409,-33.9038","151.2509,-33.8938",B,"151.2609,-33.9038","151.2609,-33.8838","151.2409,-33.8838",What is the longitude and latigude coordinates of Fuji Ramen located in the Sydney area?
+111,"151.1968,-33.9368","151.1768,-33.9168",E,"151.1968,-33.9168","151.1768,-33.9368","151.1868,-33.9268",What is the longitude and latigude coordinates of Social Eatery located in the Sydney area?
+112,"151.2321,-33.8661","151.2321,-33.8861",E,"151.2121,-33.8861","151.2121,-33.8661","151.2221,-33.8761",What is the longitude and latigude coordinates of Malabar South Indian Cuisine located in the Sydney area?
+113,"151.1091,-33.823","151.0991,-33.813",A,"151.0991,-33.833","151.1191,-33.813","151.1191,-33.833",What is the longitude and latigude coordinates of Yui located in the Sydney area?
+114,"151.2122,-33.8938","151.1922,-33.8738",D,"151.2122,-33.8738","151.2022,-33.8838","151.1922,-33.8938",What is the longitude and latigude coordinates of Agincourt located in the Sydney area?
+115,"151.2111,-33.8726","151.1911,-33.8926",E,"151.2111,-33.8926","151.1911,-33.8726","151.2011,-33.8826",What is the longitude and latigude coordinates of Ross-Milbourne Sports Hall located in the Sydney area?
+116,"151.2163,-33.9298","151.2363,-33.9298",C,"151.2263,-33.9198","151.2163,-33.9098","151.2363,-33.9098",What is the longitude and latigude coordinates of Pinocchio located in the Sydney area?
+117,"151.152,-33.9197","151.152,-33.8997",D,"151.172,-33.8997","151.162,-33.9097","151.172,-33.9197",What is the longitude and latigude coordinates of Pizza Madre located in the Sydney area?
+118,"151.212,-33.853","151.212,-33.873",C,"151.202,-33.863","151.192,-33.873","151.192,-33.853",What is the longitude and latigude coordinates of Anita Gelato located in the Sydney area?
+119,"151.1678,-33.9012","151.1878,-33.9012",C,"151.1778,-33.8912","151.1878,-33.8812","151.1678,-33.8812",What is the longitude and latigude coordinates of Salisbury Spice Thai located in the Sydney area?
+120,"151.2609,-33.8994","151.2609,-33.8794",C,"151.2709,-33.8894","151.2809,-33.8794","151.2809,-33.8994",What is the longitude and latigude coordinates of Sushi Street located in the Sydney area?
+121,"151.1965,-33.8846","151.2065,-33.8746",A,"151.1865,-33.8746","151.1865,-33.8946","151.2065,-33.8946",What is the longitude and latigude coordinates of Broadway Gym located in the Sydney area?
+122,"151.2223,-33.8474","151.2423,-33.8274",E,"151.2223,-33.8274","151.2423,-33.8474","151.2323,-33.8374",What is the longitude and latigude coordinates of Mosman Bay Marina located in the Sydney area?
+123,"151.2464,-33.9109","151.2664,-33.9109",D,"151.2464,-33.9309","151.2564,-33.9209","151.2664,-33.9309",What is the longitude and latigude coordinates of The Coogee Bay Hotel located in the Sydney area?
+124,"151.195,-33.8534","151.185,-33.8634",A,"151.205,-33.8434","151.205,-33.8634","151.185,-33.8434",What is the longitude and latigude coordinates of Boat Shed located in the Sydney area?
+125,"151.2177,-33.8541","151.1977,-33.8741",C,"151.2077,-33.8641","151.1977,-33.8541","151.2177,-33.8741",What is the longitude and latigude coordinates of est. located in the Sydney area?
+126,"151.1356,-33.897","151.1156,-33.897",E,"151.1356,-33.877","151.1156,-33.877","151.1256,-33.887",What is the longitude and latigude coordinates of Thai Number one located in the Sydney area?
+127,"151.2116,-33.8737","151.2116,-33.8937",D,"151.1916,-33.8937","151.2016,-33.8837","151.1916,-33.8737",What is the longitude and latigude coordinates of The Loft UTS located in the Sydney area?
+128,"151.1965,-33.8785","151.2065,-33.8685",A,"151.1865,-33.8685","151.2065,-33.8885","151.1865,-33.8885",What is the longitude and latigude coordinates of Lumina Dentist located in the Sydney area?
+129,"151.2602,-33.9045","151.2402,-33.8845",D,"151.2402,-33.9045","151.2502,-33.8945","151.2602,-33.8845",What is the longitude and latigude coordinates of The SouvLucky Country located in the Sydney area?
+130,"151.2348,-33.8662","151.2248,-33.8762",B,"151.2348,-33.8862","151.2148,-33.8862","151.2148,-33.8662",What is the longitude and latigude coordinates of Kings Cross Street Library located in the Sydney area?
+131,"151.2112,-33.8865","151.2312,-33.8865",E,"151.2112,-33.8665","151.2312,-33.8665","151.2212,-33.8765",What is the longitude and latigude coordinates of Darlinghurst Chemist located in the Sydney area?
+132,"151.1986,-33.8698","151.2086,-33.8598",B,"151.2186,-33.8698","151.2186,-33.8498","151.1986,-33.8498",What is the longitude and latigude coordinates of Phillips Foote BBQ located in the Sydney area?
+133,"151.263,-33.8765","151.283,-33.8765",D,"151.283,-33.8965","151.273,-33.8865","151.263,-33.8965",What is the longitude and latigude coordinates of Fishmongers Bondi located in the Sydney area?
+134,"151.174,-33.9039","151.164,-33.8939",B,"151.154,-33.8839","151.174,-33.8839","151.154,-33.9039",What is the longitude and latigude coordinates of Stanmore Pharmacy located in the Sydney area?
+135,"151.2187,-33.8586","151.2187,-33.8786",E,"151.1987,-33.8586","151.1987,-33.8786","151.2087,-33.8686",What is the longitude and latigude coordinates of Leible located in the Sydney area?
+136,"151.1289,-33.8287","151.1189,-33.8387",A,"151.1189,-33.8187","151.1389,-33.8187","151.1389,-33.8387",What is the longitude and latigude coordinates of Cav & Co located in the Sydney area?
+137,"151.2078,-33.868","151.1978,-33.878",B,"151.2078,-33.888","151.1878,-33.888","151.1878,-33.868",What is the longitude and latigude coordinates of Ultimo Library located in the Sydney area?
+138,"151.2091,-33.8389","151.1991,-33.8489",A,"151.1991,-33.8289","151.2191,-33.8289","151.2191,-33.8489",What is the longitude and latigude coordinates of G&P Asiatic Gourmet located in the Sydney area?
+139,"151.2243,-33.8747","151.2243,-33.8947",D,"151.2043,-33.8947","151.2143,-33.8847","151.2043,-33.8747",What is the longitude and latigude coordinates of The Dolphin Hotel located in the Sydney area?
+140,"151.2854,-33.8797","151.2754,-33.8897",B,"151.2654,-33.8997","151.2854,-33.8997","151.2654,-33.8797",What is the longitude and latigude coordinates of The Blue Chip located in the Sydney area?
+141,"151.2063,-33.9061","151.2063,-33.8861",E,"151.1863,-33.9061","151.1863,-33.8861","151.1963,-33.8961",What is the longitude and latigude coordinates of Charlottes Little Sister Cafe located in the Sydney area?
+142,"151.1826,-33.9047","151.2026,-33.9047",E,"151.1826,-33.9247","151.2026,-33.9247","151.1926,-33.9147",What is the longitude and latigude coordinates of Loveat Cafe located in the Sydney area?
+143,"151.2369,-33.921","151.2269,-33.911",A,"151.2469,-33.911","151.2269,-33.931","151.2469,-33.931",What is the longitude and latigude coordinates of 2 penny located in the Sydney area?
+144,"151.1528,-33.8628","151.1728,-33.8828",C,"151.1628,-33.8728","151.1528,-33.8828","151.1728,-33.8628",What is the longitude and latigude coordinates of St Francis located in the Sydney area?
+145,"151.2029,-33.8564","151.2229,-33.8364",E,"151.2229,-33.8564","151.2029,-33.8364","151.2129,-33.8464",What is the longitude and latigude coordinates of Village Dental located in the Sydney area?
+146,"151.2173,-33.8776","151.1973,-33.8576",C,"151.2073,-33.8676","151.1973,-33.8776","151.2173,-33.8576",What is the longitude and latigude coordinates of Morena located in the Sydney area?
+147,"151.0936,-33.8868","151.1036,-33.8768",B,"151.0936,-33.8668","151.1136,-33.8668","151.1136,-33.8868",What is the longitude and latigude coordinates of Avondale Hotel located in the Sydney area?
+148,"151.2084,-33.8864","151.2184,-33.8964",A,"151.1984,-33.8964","151.2184,-33.8764","151.1984,-33.8764",What is the longitude and latigude coordinates of Bobby’s Corner located in the Sydney area?
+149,"151.1805,-33.9104","151.1905,-33.9004",B,"151.2005,-33.8904","151.1805,-33.8904","151.2005,-33.9104",What is the longitude and latigude coordinates of The Bitton Room located in the Sydney area?
+150,"151.2319,-33.8676","151.2319,-33.8876",D,"151.2119,-33.8876","151.2219,-33.8776","151.2119,-33.8676",What is the longitude and latigude coordinates of Buffalo Dining Club located in the Sydney area?
+151,"151.2548,-33.8708","151.2448,-33.8608",A,"151.2448,-33.8808","151.2648,-33.8808","151.2648,-33.8608",What is the longitude and latigude coordinates of Sydney Harbour Escapes located in the Sydney area?
+152,"151.1531,-33.8781","151.1631,-33.8881",B,"151.1731,-33.8981","151.1531,-33.8981","151.1731,-33.8781",What is the longitude and latigude coordinates of Sushi Bar Rashai located in the Sydney area?
+153,"151.2,-33.8936","151.19,-33.8836",A,"151.21,-33.9036","151.19,-33.9036","151.21,-33.8836",What is the longitude and latigude coordinates of Doran Doran located in the Sydney area?
+154,"151.205,-33.8746","151.195,-33.8846",B,"151.185,-33.8746","151.185,-33.8946","151.205,-33.8946",What is the longitude and latigude coordinates of Kyiv social located in the Sydney area?
+155,"151.1189,-33.865","151.1089,-33.875",A,"151.1289,-33.855","151.1289,-33.875","151.1089,-33.855",What is the longitude and latigude coordinates of Carmens's on the Park located in the Sydney area?
+156,"151.2142,-33.8877","151.2142,-33.8677",D,"151.1942,-33.8677","151.2042,-33.8777","151.1942,-33.8877",What is the longitude and latigude coordinates of Mamak located in the Sydney area?
+157,"151.1639,-33.9392","151.1439,-33.9392",C,"151.1539,-33.9292","151.1439,-33.9192","151.1639,-33.9192",What is the longitude and latigude coordinates of 千百味 Diner Express located in the Sydney area?
+158,"151.2342,-33.8632","151.2342,-33.8832",C,"151.2242,-33.8732","151.2142,-33.8832","151.2142,-33.8632",What is the longitude and latigude coordinates of Franco’s located in the Sydney area?
+159,"151.2086,-33.8813","151.1886,-33.8813",C,"151.1986,-33.8913","151.1886,-33.9013","151.2086,-33.9013",What is the longitude and latigude coordinates of Sushi Ku located in the Sydney area?
+160,"151.1977,-33.8238","151.2177,-33.8438",D,"151.2177,-33.8238","151.2077,-33.8338","151.1977,-33.8438",What is the longitude and latigude coordinates of Northside Produce Market located in the Sydney area?
+161,"151.2118,-33.895","151.1918,-33.895",D,"151.1918,-33.875","151.2018,-33.885","151.2118,-33.875",What is the longitude and latigude coordinates of Petit located in the Sydney area?
+162,"151.2063,-33.8744","151.2163,-33.8844",A,"151.1963,-33.8644","151.1963,-33.8844","151.2163,-33.8644",What is the longitude and latigude coordinates of Chefs Gallery located in the Sydney area?
+163,"151.2194,-33.8784","151.1994,-33.8584",C,"151.2094,-33.8684","151.2194,-33.8584","151.1994,-33.8784",What is the longitude and latigude coordinates of Eat Istanbul located in the Sydney area?
+164,"151.2187,-33.895","151.1987,-33.895",D,"151.1987,-33.915","151.2087,-33.905","151.2187,-33.915",What is the longitude and latigude coordinates of Hot Spicy Kitchen located in the Sydney area?
+165,"151.1967,-33.8687","151.2067,-33.8587",A,"151.1867,-33.8587","151.2067,-33.8787","151.1867,-33.8787",What is the longitude and latigude coordinates of 16 Pounds located in the Sydney area?
+166,"151.281,-33.8786","151.271,-33.8886",B,"151.261,-33.8786","151.261,-33.8986","151.281,-33.8986",What is the longitude and latigude coordinates of Lyfe Cafe located in the Sydney area?
+167,"151.2357,-33.8623","151.2157,-33.8823",C,"151.2257,-33.8723","151.2357,-33.8823","151.2157,-33.8623",What is the longitude and latigude coordinates of Rex Centre located in the Sydney area?
+168,"151.2283,-33.8825","151.2183,-33.8725",A,"151.2183,-33.8925","151.2383,-33.8925","151.2383,-33.8725",What is the longitude and latigude coordinates of Café Fiveways located in the Sydney area?
+169,"151.1685,-33.886","151.1685,-33.866",C,"151.1785,-33.876","151.1885,-33.866","151.1885,-33.886","What is the longitude and latigude coordinates of Public Toilet Tramsheds, Forest Lodge located in the Sydney area?"
+170,"151.1839,-33.8599","151.1939,-33.8699",B,"151.2039,-33.8799","151.1839,-33.8799","151.2039,-33.8599",What is the longitude and latigude coordinates of Wokstation located in the Sydney area?
+171,"151.2008,-33.8773","151.2108,-33.8673",B,"151.2208,-33.8573","151.2008,-33.8573","151.2208,-33.8773",What is the longitude and latigude coordinates of Minami located in the Sydney area?
+172,"151.2091,-33.8223","151.2291,-33.8423",D,"151.2091,-33.8423","151.2191,-33.8323","151.2291,-33.8223",What is the longitude and latigude coordinates of Ben Boyd Rd before Yeo St located in the Sydney area?
+173,"151.2181,-33.8751","151.2081,-33.8651",B,"151.2181,-33.8551","151.1981,-33.8551","151.1981,-33.8751",What is the longitude and latigude coordinates of Bellucci Cucina located in the Sydney area?
+174,"151.1522,-33.8924","151.1522,-33.9124",D,"151.1722,-33.8924","151.1622,-33.9024","151.1722,-33.9124",What is the longitude and latigude coordinates of Stirrup Cafe located in the Sydney area?
+175,"151.2137,-33.8829","151.2137,-33.9029",D,"151.1937,-33.9029","151.2037,-33.8929","151.1937,-33.8829",What is the longitude and latigude coordinates of Bart Jr. located in the Sydney area?
+176,"151.217,-33.8676","151.197,-33.8876",C,"151.207,-33.8776","151.197,-33.8676","151.217,-33.8876",What is the longitude and latigude coordinates of World Square Post Shop located in the Sydney area?
+177,"151.2041,-33.9191","151.2241,-33.9191",E,"151.2241,-33.8991","151.2041,-33.8991","151.2141,-33.9091",What is the longitude and latigude coordinates of Les Bridge Playground located in the Sydney area?
+178,"151.2076,-33.8843","151.1876,-33.8843",D,"151.2076,-33.8643","151.1976,-33.8743","151.1876,-33.8643",What is the longitude and latigude coordinates of Joe’s Cafe Chino located in the Sydney area?
+179,"151.1937,-33.8567","151.2137,-33.8767",C,"151.2037,-33.8667","151.2137,-33.8567","151.1937,-33.8767",What is the longitude and latigude coordinates of Pappy's Bar located in the Sydney area?
+180,"151.2091,-33.8638","151.2191,-33.8538",A,"151.1991,-33.8538","151.1991,-33.8738","151.2191,-33.8738",What is the longitude and latigude coordinates of Feedwell located in the Sydney area?
+181,"151.113,-33.8981","151.113,-33.8781",D,"151.133,-33.8781","151.123,-33.8881","151.133,-33.8981",What is the longitude and latigude coordinates of Ashfield Presbyterian Church located in the Sydney area?
+182,"151.2648,-33.9107","151.2648,-33.9307",C,"151.2548,-33.9207","151.2448,-33.9307","151.2448,-33.9107",What is the longitude and latigude coordinates of Tropicana located in the Sydney area?
+183,"151.1581,-33.9028","151.1381,-33.9028",E,"151.1581,-33.8828","151.1381,-33.8828","151.1481,-33.8928",What is the longitude and latigude coordinates of Saint Thomas Beckett located in the Sydney area?
+184,"151.1974,-33.88","151.1974,-33.9",E,"151.2174,-33.9","151.2174,-33.88","151.2074,-33.89",What is the longitude and latigude coordinates of Mjolnir located in the Sydney area?
+185,"151.098,-33.9056","151.098,-33.8856",C,"151.108,-33.8956","151.118,-33.9056","151.118,-33.8856",What is the longitude and latigude coordinates of Croydon park pharmacy located in the Sydney area?
+186,"151.2283,-33.8981","151.2483,-33.8781",D,"151.2283,-33.8781","151.2383,-33.8881","151.2483,-33.8981",What is the longitude and latigude coordinates of Queen Street Kitchen located in the Sydney area?
+187,"151.2787,-33.8802","151.2687,-33.8702",B,"151.2787,-33.8602","151.2587,-33.8602","151.2587,-33.8802",What is the longitude and latigude coordinates of The Best Thai located in the Sydney area?
+188,"151.2205,-33.854","151.2005,-33.854",C,"151.2105,-33.844","151.2005,-33.834","151.2205,-33.834",What is the longitude and latigude coordinates of Gazal's Authentic Lebanese Restaurant located in the Sydney area?
+189,"151.2118,-33.9026","151.2118,-33.8826",D,"151.1918,-33.8826","151.2018,-33.8926","151.1918,-33.9026",What is the longitude and latigude coordinates of Wok Man Redfern located in the Sydney area?
+190,"151.2628,-33.8146","151.2428,-33.7946",E,"151.2428,-33.8146","151.2628,-33.7946","151.2528,-33.8046",What is the longitude and latigude coordinates of Sandy Bar Cafe located in the Sydney area?
+191,"151.1949,-33.8669","151.1749,-33.8669",E,"151.1749,-33.8869","151.1949,-33.8869","151.1849,-33.8769",What is the longitude and latigude coordinates of The Toxteth located in the Sydney area?
+192,"151.2242,-33.8946","151.2042,-33.8946",E,"151.2242,-33.8746","151.2042,-33.8746","151.2142,-33.8846",What is the longitude and latigude coordinates of The Dolphin located in the Sydney area?
+193,"151.1942,-33.8191","151.1942,-33.7991",D,"151.1742,-33.7991","151.1842,-33.8091","151.1742,-33.8191",What is the longitude and latigude coordinates of Pizza Cutters located in the Sydney area?
+194,"151.2023,-33.9249","151.1823,-33.9049",D,"151.2023,-33.9049","151.1923,-33.9149","151.1823,-33.9249",What is the longitude and latigude coordinates of Hillsong Church Doody Street located in the Sydney area?
+195,"151.2204,-33.8783","151.2304,-33.8683",A,"151.2104,-33.8683","151.2304,-33.8883","151.2104,-33.8883",What is the longitude and latigude coordinates of Fable Coffee located in the Sydney area?
+196,"151.2367,-33.8838","151.2567,-33.9038",C,"151.2467,-33.8938","151.2567,-33.8838","151.2367,-33.9038",What is the longitude and latigude coordinates of Junction Neighbourhood Centre located in the Sydney area?
+197,"151.1933,-33.9259","151.2133,-33.9259",E,"151.2133,-33.9059","151.1933,-33.9059","151.2033,-33.9159",What is the longitude and latigude coordinates of Mentmore & Morley located in the Sydney area?
+198,"151.1156,-33.8852","151.0956,-33.8652",D,"151.1156,-33.8652","151.1056,-33.8752","151.0956,-33.8852",What is the longitude and latigude coordinates of Victoria Tower Medical located in the Sydney area?
+199,"151.2033,-33.8808","151.1933,-33.8908",A,"151.1933,-33.8708","151.2133,-33.8908","151.2133,-33.8708",What is the longitude and latigude coordinates of Bancho located in the Sydney area?
+200,"151.1904,-33.8376","151.2104,-33.8376",D,"151.2104,-33.8176","151.2004,-33.8276","151.1904,-33.8176",What is the longitude and latigude coordinates of Jijos Grill located in the Sydney area?
+201,"151.2122,-33.9016","151.1922,-33.9016",C,"151.2022,-33.8916","151.2122,-33.8816","151.1922,-33.8816",What is the longitude and latigude coordinates of George Street Deli located in the Sydney area?
+202,"151.1975,-33.8969","151.1975,-33.8769",D,"151.1775,-33.8969","151.1875,-33.8869","151.1775,-33.8769",What is the longitude and latigude coordinates of Manning Bar located in the Sydney area?
+203,"151.1253,-33.8881","151.1153,-33.8781",A,"151.1153,-33.8981","151.1353,-33.8781","151.1353,-33.8981",What is the longitude and latigude coordinates of Chinese Bun Shop located in the Sydney area?
+204,"151.1985,-33.8892","151.2085,-33.8792",A,"151.1885,-33.8792","151.2085,-33.8992","151.1885,-33.8992",What is the longitude and latigude coordinates of SCCO Studio located in the Sydney area?
+205,"151.2191,-33.8482","151.1991,-33.8482",C,"151.2091,-33.8382","151.2191,-33.8282","151.1991,-33.8282",What is the longitude and latigude coordinates of Crafted Ramen located in the Sydney area?
+206,"151.2079,-33.8912","151.2279,-33.8712",E,"151.2079,-33.8712","151.2279,-33.8912","151.2179,-33.8812",What is the longitude and latigude coordinates of Churras located in the Sydney area?
+207,"151.2084,-33.8797","151.1984,-33.8697",B,"151.1884,-33.8797","151.1884,-33.8597","151.2084,-33.8597",What is the longitude and latigude coordinates of Maritime Museum (389 terminus) located in the Sydney area?
+208,"151.2705,-33.8836","151.2505,-33.9036",E,"151.2705,-33.9036","151.2505,-33.8836","151.2605,-33.8936",What is the longitude and latigude coordinates of My GP and Skin Clinic located in the Sydney area?
+209,"151.2035,-33.8639","151.1935,-33.8739",A,"151.2135,-33.8539","151.2135,-33.8739","151.1935,-33.8539",What is the longitude and latigude coordinates of Café di Stazi located in the Sydney area?
+210,"151.2202,-33.8694","151.2102,-33.8594",A,"151.2302,-33.8594","151.2302,-33.8794","151.2102,-33.8794",What is the longitude and latigude coordinates of Sienna Marina located in the Sydney area?
+211,"151.224,-33.8735","151.204,-33.8935",E,"151.224,-33.8935","151.204,-33.8735","151.214,-33.8835",What is the longitude and latigude coordinates of Crown St Medical Centre located in the Sydney area?
+212,"151.2173,-33.8545","151.1973,-33.8745",D,"151.2173,-33.8745","151.2073,-33.8645","151.1973,-33.8545",What is the longitude and latigude coordinates of Health Line Pharmacy located in the Sydney area?
+213,"151.2007,-33.8952","151.2007,-33.8752",C,"151.1907,-33.8852","151.1807,-33.8952","151.1807,-33.8752",What is the longitude and latigude coordinates of Sounds Sydney located in the Sydney area?
+214,"151.184,-33.8327","151.184,-33.8127",C,"151.194,-33.8227","151.204,-33.8327","151.204,-33.8127",What is the longitude and latigude coordinates of din ng located in the Sydney area?
+215,"151.1132,-33.8692","151.1132,-33.8892",E,"151.0932,-33.8692","151.0932,-33.8892","151.1032,-33.8792",What is the longitude and latigude coordinates of Wonder Skewers located in the Sydney area?
+216,"151.1938,-33.8865","151.2038,-33.8765",B,"151.2138,-33.8665","151.2138,-33.8865","151.1938,-33.8665",What is the longitude and latigude coordinates of Delima Restaurant located in the Sydney area?
+217,"151.2047,-33.8392","151.2147,-33.8492",A,"151.1947,-33.8292","151.1947,-33.8492","151.2147,-33.8292",What is the longitude and latigude coordinates of Canteen located in the Sydney area?
+218,"151.2193,-33.849","151.2093,-33.839",B,"151.1993,-33.849","151.2193,-33.829","151.1993,-33.829",What is the longitude and latigude coordinates of Iron Grip Gym located in the Sydney area?
+219,"151.208,-33.8865","151.218,-33.8965",A,"151.198,-33.8765","151.198,-33.8965","151.218,-33.8765",What is the longitude and latigude coordinates of Strawberry Hills Hotel located in the Sydney area?
+220,"151.2217,-33.8301","151.2117,-33.8401",A,"151.2317,-33.8201","151.2117,-33.8201","151.2317,-33.8401",What is the longitude and latigude coordinates of Café Maroc located in the Sydney area?
+221,"151.17,-33.9021","151.15,-33.9021",D,"151.17,-33.9221","151.16,-33.9121","151.15,-33.9221",What is the longitude and latigude coordinates of Baby Rey's Burgers located in the Sydney area?
+222,"151.2146,-33.9227","151.2246,-33.9127",B,"151.2146,-33.9027","151.2346,-33.9027","151.2346,-33.9227",What is the longitude and latigude coordinates of Doncaster Hotel located in the Sydney area?
+223,"151.2017,-33.8847","151.1917,-33.8947",A,"151.2117,-33.8947","151.2117,-33.8747","151.1917,-33.8747",What is the longitude and latigude coordinates of Cavroche located in the Sydney area?
+224,"151.2109,-33.8621","151.2209,-33.8521",A,"151.2209,-33.8721","151.2009,-33.8521","151.2009,-33.8721",What is the longitude and latigude coordinates of Customs House Library located in the Sydney area?
+225,"151.193,-33.8841","151.173,-33.8841",D,"151.193,-33.9041","151.183,-33.8941","151.173,-33.9041",What is the longitude and latigude coordinates of Favola located in the Sydney area?
+226,"151.1564,-33.8798","151.1664,-33.8698",A,"151.1464,-33.8698","151.1464,-33.8898","151.1664,-33.8898",What is the longitude and latigude coordinates of Leichhardt General Practice located in the Sydney area?
+227,"151.2452,-33.8624","151.2252,-33.8824",E,"151.2452,-33.8824","151.2252,-33.8624","151.2352,-33.8724",What is the longitude and latigude coordinates of The Navy Bear located in the Sydney area?
+228,"151.2194,-33.8971","151.2194,-33.8771",E,"151.1994,-33.8971","151.1994,-33.8771","151.2094,-33.8871",What is the longitude and latigude coordinates of Jazushi located in the Sydney area?
+229,"151.2114,-33.867","151.2014,-33.877",B,"151.2114,-33.887","151.1914,-33.867","151.1914,-33.887",What is the longitude and latigude coordinates of Harajuku Gyoza located in the Sydney area?
+230,"151.2663,-33.8482","151.2463,-33.8282",E,"151.2663,-33.8282","151.2463,-33.8482","151.2563,-33.8382",What is the longitude and latigude coordinates of Drift located in the Sydney area?
+231,"151.2055,-33.9148","151.1855,-33.9148",D,"151.1855,-33.9348","151.1955,-33.9248","151.2055,-33.9348",What is the longitude and latigude coordinates of Knox Presbyterian Church located in the Sydney area?
+232,"151.1947,-33.8672","151.1847,-33.8772",B,"151.1747,-33.8672","151.1747,-33.8872","151.1947,-33.8872",What is the longitude and latigude coordinates of Dr David Nguyen & Associates located in the Sydney area?
+233,"151.2433,-33.8847","151.2433,-33.9047",E,"151.2233,-33.9047","151.2233,-33.8847","151.2333,-33.8947",What is the longitude and latigude coordinates of H Pantry located in the Sydney area?
+234,"151.2033,-33.8912","151.2133,-33.9012",B,"151.2033,-33.9112","151.2233,-33.9112","151.2233,-33.8912",What is the longitude and latigude coordinates of Fan Jie located in the Sydney area?
+235,"151.1639,-33.9193","151.1539,-33.9293",B,"151.1639,-33.9393","151.1439,-33.9193","151.1439,-33.9393",What is the longitude and latigude coordinates of Like Noodle Wolli Creek located in the Sydney area?
+236,"151.1694,-33.8136","151.1594,-33.8236",A,"151.1594,-33.8036","151.1794,-33.8036","151.1794,-33.8236",What is the longitude and latigude coordinates of Garcon located in the Sydney area?
+237,"151.1653,-33.8758","151.1853,-33.8958",C,"151.1753,-33.8858","151.1853,-33.8758","151.1653,-33.8958",What is the longitude and latigude coordinates of Grumpy Donuts located in the Sydney area?
+238,"151.1976,-33.8468","151.1976,-33.8268",D,"151.2176,-33.8468","151.2076,-33.8368","151.2176,-33.8268",What is the longitude and latigude coordinates of Lot No 50 Espresso Bar located in the Sydney area?
+239,"151.2361,-33.8844","151.2361,-33.9044",C,"151.2261,-33.8944","151.2161,-33.9044","151.2161,-33.8844",What is the longitude and latigude coordinates of Jamaica blue located in the Sydney area?
+240,"151.2081,-33.8858","151.2181,-33.8758",A,"151.2181,-33.8958","151.1981,-33.8758","151.1981,-33.8958",What is the longitude and latigude coordinates of OnePlayground located in the Sydney area?
+241,"151.2169,-33.8895","151.1969,-33.8895",E,"151.2169,-33.8695","151.1969,-33.8695","151.2069,-33.8795",What is the longitude and latigude coordinates of Mikazuki Modern Japanese located in the Sydney area?
+242,"151.2175,-33.8489","151.2075,-33.8589",B,"151.2175,-33.8689","151.1975,-33.8489","151.1975,-33.8689",What is the longitude and latigude coordinates of Saki Restaurant & Bar located in the Sydney area?
+243,"151.2564,-33.8141","151.2464,-33.8041",B,"151.2364,-33.7941","151.2364,-33.8141","151.2564,-33.7941",What is the longitude and latigude coordinates of Plonk! located in the Sydney area?
+244,"151.2113,-33.8778","151.2013,-33.8878",B,"151.2113,-33.8978","151.1913,-33.8778","151.1913,-33.8978",What is the longitude and latigude coordinates of Goodspace Gallery located in the Sydney area?
+245,"151.181,-33.8559","151.181,-33.8759",E,"151.201,-33.8759","151.201,-33.8559","151.191,-33.8659",What is the longitude and latigude coordinates of Elements Bar and Grill Pyrmont located in the Sydney area?
+246,"151.2367,-33.9122","151.2267,-33.9222",B,"151.2167,-33.9122","151.2367,-33.9322","151.2167,-33.9322",What is the longitude and latigude coordinates of Indo Rasa located in the Sydney area?
+247,"151.2017,-33.8687","151.1917,-33.8787",A,"151.2117,-33.8587","151.1917,-33.8587","151.2117,-33.8787",What is the longitude and latigude coordinates of Cargo bar located in the Sydney area?
+248,"151.2153,-33.8757","151.2253,-33.8657",A,"151.2053,-33.8657","151.2053,-33.8857","151.2253,-33.8857",What is the longitude and latigude coordinates of Time to Vino located in the Sydney area?
+249,"151.1667,-33.9086","151.1867,-33.8886",C,"151.1767,-33.8986","151.1867,-33.9086","151.1667,-33.8886",What is the longitude and latigude coordinates of The Midnight Special located in the Sydney area?
+250,"151.213,-33.8471","151.203,-33.8371",A,"151.223,-33.8371","151.223,-33.8571","151.203,-33.8571",What is the longitude and latigude coordinates of El Clâsico Taco located in the Sydney area?
+251,"151.1618,-33.8717","151.1718,-33.8817",B,"151.1818,-33.8717","151.1618,-33.8917","151.1818,-33.8917",What is the longitude and latigude coordinates of Bar Asia located in the Sydney area?
+252,"151.2039,-33.8689","151.1939,-33.8789",A,"151.2139,-33.8789","151.2139,-33.8589","151.1939,-33.8589",What is the longitude and latigude coordinates of Peace Harmony located in the Sydney area?
+253,"151.2412,-33.8165","151.2512,-33.8265",B,"151.2612,-33.8165","151.2412,-33.8365","151.2612,-33.8365",What is the longitude and latigude coordinates of Bottom of the Harbour located in the Sydney area?
+254,"151.1366,-33.8775","151.1266,-33.8875",B,"151.1366,-33.8975","151.1166,-33.8975","151.1166,-33.8775",What is the longitude and latigude coordinates of Family Medical Prctice Ashfield located in the Sydney area?
+255,"151.1475,-33.9096","151.1675,-33.8896",C,"151.1575,-33.8996","151.1675,-33.9096","151.1475,-33.8896",What is the longitude and latigude coordinates of Ruby Lonesome located in the Sydney area?
+256,"151.2159,-33.8798","151.1959,-33.8598",E,"151.1959,-33.8798","151.2159,-33.8598","151.2059,-33.8698",What is the longitude and latigude coordinates of The Barber Shop located in the Sydney area?
+257,"151.098,-33.9071","151.098,-33.8871",C,"151.108,-33.8971","151.118,-33.9071","151.118,-33.8871",What is the longitude and latigude coordinates of pure gelato located in the Sydney area?
+258,"151.2091,-33.8328","151.2291,-33.8328",C,"151.2191,-33.8228","151.2291,-33.8128","151.2091,-33.8128",What is the longitude and latigude coordinates of RadBod Fitness located in the Sydney area?
+259,"151.1229,-33.8873","151.1129,-33.8773",A,"151.1129,-33.8973","151.1329,-33.8773","151.1329,-33.8973",What is the longitude and latigude coordinates of Moment Tea located in the Sydney area?
+260,"151.175,-33.883","151.175,-33.903",D,"151.195,-33.883","151.185,-33.893","151.195,-33.903",What is the longitude and latigude coordinates of Day & Night Chemist @ Newtown located in the Sydney area?
+261,"151.1417,-33.925","151.1417,-33.905",C,"151.1517,-33.915","151.1617,-33.925","151.1617,-33.905",What is the longitude and latigude coordinates of Dr. Minh-Thu Nguyen located in the Sydney area?
+262,"151.1092,-33.9218","151.1292,-33.9218",C,"151.1192,-33.9118","151.1092,-33.9018","151.1292,-33.9018",What is the longitude and latigude coordinates of Pole Fitness Studios located in the Sydney area?
+263,"151.2093,-33.8688","151.1993,-33.8788",A,"151.2193,-33.8588","151.2193,-33.8788","151.1993,-33.8588",What is the longitude and latigude coordinates of Portafilter located in the Sydney area?
+264,"151.219,-33.857","151.199,-33.877",D,"151.219,-33.877","151.209,-33.867","151.199,-33.857",What is the longitude and latigude coordinates of Centro 86 located in the Sydney area?
+265,"151.1939,-33.8797","151.2039,-33.8697",A,"151.2039,-33.8897","151.1839,-33.8697","151.1839,-33.8897",What is the longitude and latigude coordinates of Jaya Espresso located in the Sydney area?
+266,"151.2157,-33.8588","151.1957,-33.8788",C,"151.2057,-33.8688","151.1957,-33.8588","151.2157,-33.8788",What is the longitude and latigude coordinates of Mecca Sydney CBD Café located in the Sydney area?
+267,"151.2251,-33.8694","151.2051,-33.8694",E,"151.2251,-33.8894","151.2051,-33.8894","151.2151,-33.8794",What is the longitude and latigude coordinates of Detroit Sliced Pizza located in the Sydney area?
+268,"151.287,-33.8804","151.267,-33.9004",E,"151.267,-33.8804","151.287,-33.9004","151.277,-33.8904",What is the longitude and latigude coordinates of Promenade Kiosk located in the Sydney area?
+269,"151.1976,-33.8477","151.2076,-33.8377",B,"151.2176,-33.8477","151.1976,-33.8277","151.2176,-33.8277",What is the longitude and latigude coordinates of Torotoro Ramen & Tempura located in the Sydney area?
+270,"151.2178,-33.8825","151.1978,-33.8625",D,"151.2178,-33.8625","151.2078,-33.8725","151.1978,-33.8825",What is the longitude and latigude coordinates of Galeries Toilets located in the Sydney area?
+271,"151.1942,-33.8846","151.2142,-33.8846",C,"151.2042,-33.8746","151.2142,-33.8646","151.1942,-33.8646",What is the longitude and latigude coordinates of Home Thai located in the Sydney area?
+272,"151.1605,-33.9094","151.1705,-33.8994",B,"151.1605,-33.8894","151.1805,-33.9094","151.1805,-33.8894",What is the longitude and latigude coordinates of Little Turtle Thai Restaurant located in the Sydney area?
+273,"151.1707,-33.8955","151.1707,-33.9155",E,"151.1907,-33.9155","151.1907,-33.8955","151.1807,-33.9055",What is the longitude and latigude coordinates of Mother Yen located in the Sydney area?
+274,"151.192,-33.8951","151.192,-33.8751",C,"151.202,-33.8851","151.212,-33.8751","151.212,-33.8951",What is the longitude and latigude coordinates of Old Jim Kee located in the Sydney area?
+275,"151.2578,-33.9022","151.2378,-33.9022",C,"151.2478,-33.8922","151.2578,-33.8822","151.2378,-33.8822",What is the longitude and latigude coordinates of Monty's Sandwich Shop located in the Sydney area?
+276,"151.1547,-33.91","151.1447,-33.92",A,"151.1647,-33.92","151.1447,-33.9","151.1647,-33.9",What is the longitude and latigude coordinates of Marrickville Road Church located in the Sydney area?
+277,"151.2121,-33.9","151.2021,-33.91",A,"151.2021,-33.89","151.2221,-33.91","151.2221,-33.89",What is the longitude and latigude coordinates of Shook Cafe located in the Sydney area?
+278,"151.2147,-33.8339","151.1947,-33.8339",D,"151.1947,-33.8539","151.2047,-33.8439","151.2147,-33.8539",What is the longitude and latigude coordinates of Zinger Taj located in the Sydney area?
+279,"151.214,-33.8686","151.194,-33.8886",E,"151.194,-33.8686","151.214,-33.8886","151.204,-33.8786",What is the longitude and latigude coordinates of Ichiraku Canteen located in the Sydney area?
+280,"151.2729,-33.88","151.2929,-33.88",E,"151.2729,-33.9","151.2929,-33.9","151.2829,-33.89",What is the longitude and latigude coordinates of GPBondi located in the Sydney area?
+281,"151.1775,-33.9133","151.1775,-33.9333",E,"151.1975,-33.9133","151.1975,-33.9333","151.1875,-33.9233",What is the longitude and latigude coordinates of Platform 62 located in the Sydney area?
+282,"151.2441,-33.9271","151.2241,-33.9071",C,"151.2341,-33.9171","151.2441,-33.9071","151.2241,-33.9271",What is the longitude and latigude coordinates of Matthews Food Court located in the Sydney area?
+283,"151.2099,-33.8869","151.1899,-33.8669",D,"151.2099,-33.8669","151.1999,-33.8769","151.1899,-33.8869",What is the longitude and latigude coordinates of Car Park 2 located in the Sydney area?
+284,"151.2054,-33.8349","151.2154,-33.8449",B,"151.2254,-33.8349","151.2054,-33.8549","151.2254,-33.8549",What is the longitude and latigude coordinates of Flying Bear located in the Sydney area?
+285,"151.1878,-33.8942","151.1978,-33.8842",B,"151.1878,-33.8742","151.2078,-33.8742","151.2078,-33.8942",What is the longitude and latigude coordinates of Taste Of Canton located in the Sydney area?
+286,"151.2821,-33.8572","151.2921,-33.8672",A,"151.2721,-33.8472","151.2921,-33.8472","151.2721,-33.8672",What is the longitude and latigude coordinates of Eastside Personal Trainers located in the Sydney area?
+287,"151.0919,-33.9119","151.1019,-33.9219",B,"151.0919,-33.9319","151.1119,-33.9119","151.1119,-33.9319",What is the longitude and latigude coordinates of Golden Seeds located in the Sydney area?
+288,"151.208,-33.8412","151.198,-33.8512",A,"151.218,-33.8312","151.198,-33.8312","151.218,-33.8512",What is the longitude and latigude coordinates of Capitano's located in the Sydney area?
+289,"151.2167,-33.9317","151.2367,-33.9117",C,"151.2267,-33.9217","151.2367,-33.9317","151.2167,-33.9117",What is the longitude and latigude coordinates of Owlee located in the Sydney area?
+290,"151.2496,-33.8564","151.2296,-33.8564",C,"151.2396,-33.8464","151.2496,-33.8364","151.2296,-33.8364",What is the longitude and latigude coordinates of Taronga Zoo located in the Sydney area?
+291,"151.1925,-33.9015","151.2025,-33.9115",A,"151.2025,-33.8915","151.1825,-33.9115","151.1825,-33.8915",What is the longitude and latigude coordinates of Coffee Creative located in the Sydney area?
+292,"151.1644,-33.8938","151.1744,-33.8838",A,"151.1544,-33.9038","151.1744,-33.9038","151.1544,-33.8838",What is the longitude and latigude coordinates of Hearthe by Christopher Thé located in the Sydney area?
+293,"151.2165,-33.8387","151.1965,-33.8387",D,"151.2165,-33.8187","151.2065,-33.8287","151.1965,-33.8187",What is the longitude and latigude coordinates of Thai Emerald located in the Sydney area?
+294,"151.211,-33.8825","151.191,-33.9025",C,"151.201,-33.8925","151.191,-33.8825","151.211,-33.9025",What is the longitude and latigude coordinates of Bloc 145 located in the Sydney area?
+295,"151.2186,-33.8923","151.2386,-33.8723",E,"151.2386,-33.8923","151.2186,-33.8723","151.2286,-33.8823",What is the longitude and latigude coordinates of Padre Coffee located in the Sydney area?
+296,"151.1702,-33.8636","151.1602,-33.8736",A,"151.1802,-33.8536","151.1802,-33.8736","151.1602,-33.8536",What is the longitude and latigude coordinates of Soothing Care Dental located in the Sydney area?
+297,"151.196,-33.8602","151.216,-33.8602",C,"151.206,-33.8702","151.196,-33.8802","151.216,-33.8802",What is the longitude and latigude coordinates of Bomonti located in the Sydney area?
+298,"151.2594,-33.8796","151.2794,-33.8796",C,"151.2694,-33.8696","151.2594,-33.8596","151.2794,-33.8596",What is the longitude and latigude coordinates of Collins Lane Cafe located in the Sydney area?
+299,"151.1984,-33.9343","151.1784,-33.9143",C,"151.1884,-33.9243","151.1784,-33.9343","151.1984,-33.9143",What is the longitude and latigude coordinates of Sumo Sushi located in the Sydney area?
+300,"151.2077,-33.8798","151.1977,-33.8698",B,"151.1877,-33.8598","151.1877,-33.8798","151.2077,-33.8598",What is the longitude and latigude coordinates of Pyrmont Bridge Hotel located in the Sydney area?
+301,"151.2182,-33.8719","151.1982,-33.8519",E,"151.1982,-33.8719","151.2182,-33.8519","151.2082,-33.8619",What is the longitude and latigude coordinates of Jackson's on George - Public Bar located in the Sydney area?
+302,"151.1977,-33.8735","151.2177,-33.8535",D,"151.1977,-33.8535","151.2077,-33.8635","151.2177,-33.8735",What is the longitude and latigude coordinates of North's Burgers located in the Sydney area?
+303,"151.1735,-33.9022","151.1535,-33.9022",E,"151.1735,-33.9222","151.1535,-33.9222","151.1635,-33.9122",What is the longitude and latigude coordinates of Mothership Studios located in the Sydney area?
+304,"151.1436,-33.9043","151.1336,-33.8943",A,"151.1536,-33.8943","151.1336,-33.9143","151.1536,-33.9143",What is the longitude and latigude coordinates of Empire Cafe located in the Sydney area?
+305,"151.2003,-33.8761","151.2203,-33.8561",D,"151.2203,-33.8761","151.2103,-33.8661","151.2003,-33.8561",What is the longitude and latigude coordinates of Spice Temple located in the Sydney area?
+306,"151.2142,-33.8694","151.2142,-33.8894",D,"151.2342,-33.8894","151.2242,-33.8794","151.2342,-33.8694",What is the longitude and latigude coordinates of Buon Ricordo Ristorante located in the Sydney area?
+307,"151.1814,-33.9094","151.1614,-33.8894",D,"151.1814,-33.8894","151.1714,-33.8994","151.1614,-33.9094",What is the longitude and latigude coordinates of Dentists on Enmore located in the Sydney area?
+308,"151.2165,-33.866","151.2165,-33.886",C,"151.2065,-33.876","151.1965,-33.866","151.1965,-33.886",What is the longitude and latigude coordinates of Japanese Hotspot Buffet located in the Sydney area?
+309,"151.2182,-33.8702","151.2182,-33.8502",D,"151.1982,-33.8702","151.2082,-33.8602","151.1982,-33.8502",What is the longitude and latigude coordinates of Aslan Coffee Roasters located in the Sydney area?
+310,"151.1836,-33.8138","151.1836,-33.8338",C,"151.1936,-33.8238","151.2036,-33.8138","151.2036,-33.8338",What is the longitude and latigude coordinates of Bon Pollo located in the Sydney area?
+311,"151.1947,-33.8726","151.1947,-33.8926",C,"151.1847,-33.8826","151.1747,-33.8926","151.1747,-33.8726",What is the longitude and latigude coordinates of The Nags Head located in the Sydney area?
+312,"151.1792,-33.8975","151.1892,-33.8875",A,"151.1692,-33.8875","151.1892,-33.9075","151.1692,-33.9075",What is the longitude and latigude coordinates of Bank Hotel located in the Sydney area?
+313,"151.1359,-33.9","151.1359,-33.88",D,"151.1159,-33.88","151.1259,-33.89","151.1159,-33.9",What is the longitude and latigude coordinates of Bread of Life Christian Church in Sydney located in the Sydney area?
+314,"151.2114,-33.8552","151.2114,-33.8752",C,"151.2014,-33.8652","151.1914,-33.8752","151.1914,-33.8552",What is the longitude and latigude coordinates of Spiced by Billus located in the Sydney area?
+315,"151.2144,-33.8345","151.1944,-33.8545",C,"151.2044,-33.8445","151.1944,-33.8345","151.2144,-33.8545",What is the longitude and latigude coordinates of Billi's Cafe located in the Sydney area?
+316,"151.1881,-33.8741","151.2081,-33.8941",E,"151.2081,-33.8741","151.1881,-33.8941","151.1981,-33.8841",What is the longitude and latigude coordinates of Orca Cycle located in the Sydney area?
+317,"151.1652,-33.9096","151.1652,-33.9296",C,"151.1552,-33.9196","151.1452,-33.9296","151.1452,-33.9096",What is the longitude and latigude coordinates of Vege4Love located in the Sydney area?
+318,"151.186,-33.8581","151.176,-33.8481",A,"151.196,-33.8481","151.176,-33.8681","151.196,-33.8681",What is the longitude and latigude coordinates of Cafe d'Yvoire located in the Sydney area?
+319,"151.1972,-33.9178","151.2072,-33.9078",B,"151.2172,-33.9178","151.2172,-33.8978","151.1972,-33.8978",What is the longitude and latigude coordinates of Skim Fade Coffee located in the Sydney area?
+320,"151.1944,-33.8882","151.2044,-33.8782",B,"151.2144,-33.8882","151.2144,-33.8682","151.1944,-33.8682",What is the longitude and latigude coordinates of Sussex Centre Food Court located in the Sydney area?
+321,"151.2173,-33.8957","151.1973,-33.8757",E,"151.1973,-33.8957","151.2173,-33.8757","151.2073,-33.8857",What is the longitude and latigude coordinates of Madison Hotel located in the Sydney area?
+322,"151.2068,-33.877","151.2168,-33.867",A,"151.1968,-33.867","151.2168,-33.887","151.1968,-33.887",What is the longitude and latigude coordinates of Active Kids Childcare located in the Sydney area?
+323,"151.2197,-33.8676","151.2197,-33.8476",E,"151.1997,-33.8676","151.1997,-33.8476","151.2097,-33.8576",What is the longitude and latigude coordinates of Campbells Stores located in the Sydney area?
+324,"151.1297,-33.8713","151.1397,-33.8813",B,"151.1497,-33.8913","151.1497,-33.8713","151.1297,-33.8913",What is the longitude and latigude coordinates of That's Amore located in the Sydney area?
+325,"151.2079,-33.8378","151.2179,-33.8278",A,"151.1979,-33.8478","151.1979,-33.8278","151.2179,-33.8478",What is the longitude and latigude coordinates of Dopa ドーパミン located in the Sydney area?
+326,"151.2353,-33.8838","151.2153,-33.8638",C,"151.2253,-33.8738","151.2153,-33.8838","151.2353,-33.8638",What is the longitude and latigude coordinates of Dr Gordon Slater located in the Sydney area?
+327,"151.2047,-33.8743","151.1947,-33.8843",A,"151.1947,-33.8643","151.2147,-33.8843","151.2147,-33.8643",What is the longitude and latigude coordinates of Chinatown Noodle Restaurant located in the Sydney area?
+328,"151.1976,-33.9239","151.1976,-33.9039",E,"151.2176,-33.9239","151.2176,-33.9039","151.2076,-33.9139",What is the longitude and latigude coordinates of Hiraeth Cafe located in the Sydney area?
+329,"151.1667,-33.8766","151.1867,-33.8966",C,"151.1767,-33.8866","151.1667,-33.8966","151.1867,-33.8766",What is the longitude and latigude coordinates of Open Korea located in the Sydney area?
+330,"151.1703,-33.914","151.1703,-33.894",C,"151.1803,-33.904","151.1903,-33.914","151.1903,-33.894",What is the longitude and latigude coordinates of Union Hotel located in the Sydney area?
+331,"151.1942,-33.8823","151.1942,-33.9023",C,"151.2042,-33.8923","151.2142,-33.9023","151.2142,-33.8823",What is the longitude and latigude coordinates of Redfern Town Hall located in the Sydney area?
+332,"151.1646,-33.8883","151.1646,-33.9083",E,"151.1846,-33.8883","151.1846,-33.9083","151.1746,-33.8983",What is the longitude and latigude coordinates of Young Henry's Brewery located in the Sydney area?
+333,"151.2166,-33.8227","151.1966,-33.8427",D,"151.1966,-33.8227","151.2066,-33.8327","151.2166,-33.8427",What is the longitude and latigude coordinates of Ambi's Chai located in the Sydney area?
+334,"151.1971,-33.895","151.1971,-33.875",D,"151.1771,-33.895","151.1871,-33.885","151.1771,-33.875",What is the longitude and latigude coordinates of Courtyard Cafe located in the Sydney area?
+335,"151.2148,-33.8799","151.2148,-33.8599",E,"151.1948,-33.8599","151.1948,-33.8799","151.2048,-33.8699",What is the longitude and latigude coordinates of Towzen located in the Sydney area?
+336,"151.1981,-33.8292","151.2181,-33.8292",E,"151.1981,-33.8492","151.2181,-33.8492","151.2081,-33.8392",What is the longitude and latigude coordinates of Taru Hachi located in the Sydney area?
+337,"151.1139,-33.879","151.1139,-33.899",D,"151.1339,-33.899","151.1239,-33.889","151.1339,-33.879",What is the longitude and latigude coordinates of W located in the Sydney area?
+338,"151.2045,-33.8324","151.2045,-33.8124",E,"151.1845,-33.8324","151.1845,-33.8124","151.1945,-33.8224",What is the longitude and latigude coordinates of Trading Beans located in the Sydney area?
+339,"151.2012,-33.8683","151.1912,-33.8583",A,"151.2112,-33.8583","151.2112,-33.8783","151.1912,-33.8783","What is the longitude and latigude coordinates of Darling Harbour, King St Wharf 7 located in the Sydney area?"
+340,"151.1284,-33.8697","151.1384,-33.8797",B,"151.1284,-33.8897","151.1484,-33.8697","151.1484,-33.8897",What is the longitude and latigude coordinates of Cafe Reggio located in the Sydney area?
+341,"151.1863,-33.8315","151.1963,-33.8415",A,"151.1763,-33.8215","151.1763,-33.8415","151.1963,-33.8215",What is the longitude and latigude coordinates of Village Vibes located in the Sydney area?
+342,"151.2135,-33.8691","151.2135,-33.8891",E,"151.1935,-33.8691","151.1935,-33.8891","151.2035,-33.8791",What is the longitude and latigude coordinates of Xi'an Cuisine located in the Sydney area?
+343,"151.1663,-33.8855","151.1563,-33.8755",B,"151.1463,-33.8655","151.1463,-33.8855","151.1663,-33.8655",What is the longitude and latigude coordinates of Grappa Ristorante e Bar located in the Sydney area?
+344,"151.2184,-33.8839","151.1984,-33.8639",E,"151.1984,-33.8839","151.2184,-33.8639","151.2084,-33.8739",What is the longitude and latigude coordinates of Commonwealth Defence Force Hospitals located in the Sydney area?
+345,"151.2732,-33.8919","151.2632,-33.9019",A,"151.2632,-33.8819","151.2832,-33.9019","151.2832,-33.8819",What is the longitude and latigude coordinates of Squeeze Cafe located in the Sydney area?
+346,"151.1061,-33.8125","151.0961,-33.8025",A,"151.1161,-33.8225","151.1161,-33.8025","151.0961,-33.8225",What is the longitude and latigude coordinates of Ryde Post Office located in the Sydney area?
+347,"151.1881,-33.8883","151.1881,-33.9083",C,"151.1781,-33.8983","151.1681,-33.8883","151.1681,-33.9083",What is the longitude and latigude coordinates of Golden Lotus vegan located in the Sydney area?
+348,"151.1129,-33.8985","151.1329,-33.8785",E,"151.1129,-33.8785","151.1329,-33.8985","151.1229,-33.8885",What is the longitude and latigude coordinates of N2 Dance Productions - Ashfield located in the Sydney area?
+349,"151.1641,-33.9391","151.1441,-33.9191",C,"151.1541,-33.9291","151.1641,-33.9191","151.1441,-33.9391",What is the longitude and latigude coordinates of Junction Espresso Bar located in the Sydney area?
+350,"151.2104,-33.8583","151.2304,-33.8783",D,"151.2104,-33.8783","151.2204,-33.8683","151.2304,-33.8583",What is the longitude and latigude coordinates of Akti located in the Sydney area?
+351,"151.2818,-33.8998","151.2618,-33.8798",D,"151.2818,-33.8798","151.2718,-33.8898","151.2618,-33.8998",What is the longitude and latigude coordinates of Chambers Avenue PUDO Bay located in the Sydney area?
+352,"151.215,-33.8487","151.195,-33.8287",C,"151.205,-33.8387","151.215,-33.8287","151.195,-33.8487",What is the longitude and latigude coordinates of Mary McKillop Grave located in the Sydney area?
+353,"151.1918,-33.8635","151.1718,-33.8635",C,"151.1818,-33.8535","151.1718,-33.8435","151.1918,-33.8435",What is the longitude and latigude coordinates of Sir William Wallace Hotel located in the Sydney area?
+354,"151.2262,-33.8819","151.2062,-33.8819",C,"151.2162,-33.8719","151.2062,-33.8619","151.2262,-33.8619",What is the longitude and latigude coordinates of Petal Met Sugar located in the Sydney area?
+355,"151.2228,-33.8834","151.2128,-33.8734",A,"151.2328,-33.8934","151.2328,-33.8734","151.2128,-33.8934",What is the longitude and latigude coordinates of The Village Inn located in the Sydney area?
+356,"151.1596,-33.8232","151.1796,-33.8232",D,"151.1796,-33.8032","151.1696,-33.8132","151.1596,-33.8032",What is the longitude and latigude coordinates of Sayulita located in the Sydney area?
+357,"151.2301,-33.9062","151.2301,-33.9262",C,"151.2401,-33.9162","151.2501,-33.9062","151.2501,-33.9262",What is the longitude and latigude coordinates of Jackie Cole Chemist located in the Sydney area?
+358,"151.2097,-33.8629","151.1997,-33.8729",A,"151.2197,-33.8529","151.1997,-33.8529","151.2197,-33.8729",What is the longitude and latigude coordinates of Three Bottle Man located in the Sydney area?
+359,"151.2156,-33.8798","151.2056,-33.8698",A,"151.2256,-33.8698","151.2056,-33.8898","151.2256,-33.8898",What is the longitude and latigude coordinates of Bitter Phew located in the Sydney area?
+360,"151.2842,-33.8809","151.2642,-33.8809",C,"151.2742,-33.8909","151.2842,-33.9009","151.2642,-33.9009",What is the longitude and latigude coordinates of Gelato Bar Restaurant located in the Sydney area?
+361,"151.2188,-33.8248","151.2088,-33.8348",B,"151.2188,-33.8448","151.1988,-33.8448","151.1988,-33.8248",What is the longitude and latigude coordinates of Una Providore located in the Sydney area?
+362,"151.2086,-33.8728","151.2186,-33.8828",B,"151.2086,-33.8928","151.2286,-33.8928","151.2286,-33.8728",What is the longitude and latigude coordinates of South dowling located in the Sydney area?
+363,"151.1727,-33.7908","151.1827,-33.8008",B,"151.1927,-33.7908","151.1727,-33.8108","151.1927,-33.8108",What is the longitude and latigude coordinates of Dr Andre Hariman Denta Surgeon located in the Sydney area?
+364,"151.2659,-33.9306","151.2659,-33.9106",D,"151.2459,-33.9306","151.2559,-33.9206","151.2459,-33.9106",What is the longitude and latigude coordinates of La Spiaggia located in the Sydney area?
+365,"151.1698,-33.9014","151.1898,-33.9214",E,"151.1898,-33.9014","151.1698,-33.9214","151.1798,-33.9114",What is the longitude and latigude coordinates of Chinese Takeaway located in the Sydney area?
+366,"151.1579,-33.8771","151.1579,-33.8571",D,"151.1779,-33.8571","151.1679,-33.8671","151.1779,-33.8771",What is the longitude and latigude coordinates of Rozelle Common located in the Sydney area?
+367,"151.1816,-33.8733","151.1916,-33.8833",B,"151.2016,-33.8933","151.1816,-33.8933","151.2016,-33.8733",What is the longitude and latigude coordinates of Chocolateria San Churro located in the Sydney area?
+368,"151.2451,-33.9159","151.2651,-33.9159",C,"151.2551,-33.9059","151.2651,-33.8959","151.2451,-33.8959",What is the longitude and latigude coordinates of Greenwood Bronte Child Care located in the Sydney area?
+369,"151.1346,-33.8989","151.1346,-33.8789",D,"151.1146,-33.8789","151.1246,-33.8889","151.1146,-33.8989",What is the longitude and latigude coordinates of The Little Hut located in the Sydney area?
+370,"151.1278,-33.892","151.1378,-33.902",B,"151.1478,-33.912","151.1478,-33.892","151.1278,-33.912",What is the longitude and latigude coordinates of Johnson Park Street Library located in the Sydney area?
+371,"151.1795,-33.9027","151.1895,-33.9127",A,"151.1695,-33.9127","151.1695,-33.8927","151.1895,-33.8927",What is the longitude and latigude coordinates of Phuket Thai located in the Sydney area?
+372,"151.2494,-33.9149","151.2594,-33.9049",A,"151.2394,-33.9249","151.2394,-33.9049","151.2594,-33.9249",What is the longitude and latigude coordinates of SelectSkin located in the Sydney area?
+373,"151.2381,-33.9139","151.2281,-33.9239",B,"151.2181,-33.9339","151.2381,-33.9339","151.2181,-33.9139",What is the longitude and latigude coordinates of Churchill's Sports Bar located in the Sydney area?
+374,"151.1495,-33.8943","151.1295,-33.9143",C,"151.1395,-33.9043","151.1295,-33.8943","151.1495,-33.9143",What is the longitude and latigude coordinates of Holy family Medical Centre located in the Sydney area?
+375,"151.2179,-33.9256","151.2379,-33.9056",C,"151.2279,-33.9156","151.2379,-33.9256","151.2179,-33.9056",What is the longitude and latigude coordinates of Yallah Eat located in the Sydney area?
+376,"151.2176,-33.8763","151.1976,-33.8563",D,"151.2176,-33.8563","151.2076,-33.8663","151.1976,-33.8763",What is the longitude and latigude coordinates of Ivy located in the Sydney area?
+377,"151.1383,-33.8336","151.1383,-33.8536",C,"151.1283,-33.8436","151.1183,-33.8536","151.1183,-33.8336",What is the longitude and latigude coordinates of Abbotsford located in the Sydney area?
+378,"151.2353,-33.8599","151.2253,-33.8699",B,"151.2153,-33.8599","151.2353,-33.8799","151.2153,-33.8799",What is the longitude and latigude coordinates of ZINC located in the Sydney area?
+379,"151.1948,-33.8837","151.2048,-33.8737",A,"151.1848,-33.8937","151.1848,-33.8737","151.2048,-33.8937",What is the longitude and latigude coordinates of Merchants of Ultimo located in the Sydney area?
+380,"151.1975,-33.8665","151.1975,-33.8865",C,"151.2075,-33.8765","151.2175,-33.8665","151.2175,-33.8865",What is the longitude and latigude coordinates of ICG located in the Sydney area?
+381,"151.218,-33.8662","151.228,-33.8762",A,"151.208,-33.8562","151.228,-33.8562","151.208,-33.8762",What is the longitude and latigude coordinates of Maiden Theater located in the Sydney area?
+382,"151.2203,-33.8699","151.2203,-33.8899",D,"151.2003,-33.8699","151.2103,-33.8799","151.2003,-33.8899",What is the longitude and latigude coordinates of Nomad located in the Sydney area?
+383,"151.2027,-33.8954","151.2027,-33.9154",E,"151.2227,-33.9154","151.2227,-33.8954","151.2127,-33.9054",What is the longitude and latigude coordinates of The Village Crown located in the Sydney area?
+384,"151.2139,-33.8867","151.1939,-33.8667",C,"151.2039,-33.8767","151.2139,-33.8667","151.1939,-33.8867",What is the longitude and latigude coordinates of Red Chilli Sechwan Chinese Restaurant located in the Sydney area?
+385,"151.2178,-33.88","151.2178,-33.9",E,"151.1978,-33.88","151.1978,-33.9","151.2078,-33.89",What is the longitude and latigude coordinates of Surrey Hotel located in the Sydney area?
+386,"151.216,-33.8656","151.196,-33.8656",D,"151.216,-33.8456","151.206,-33.8556","151.196,-33.8456",What is the longitude and latigude coordinates of Sydney Dance Company located in the Sydney area?
+387,"151.1934,-33.8587","151.1934,-33.8787",D,"151.2134,-33.8587","151.2034,-33.8687","151.2134,-33.8787",What is the longitude and latigude coordinates of Slip Inn located in the Sydney area?
+388,"151.2166,-33.8387","151.1966,-33.8387",E,"151.1966,-33.8187","151.2166,-33.8187","151.2066,-33.8287",What is the longitude and latigude coordinates of Ryo's Noodles located in the Sydney area?
+389,"151.1887,-33.8651","151.1687,-33.8651",C,"151.1787,-33.8551","151.1687,-33.8451","151.1887,-33.8451",What is the longitude and latigude coordinates of Smile Dentistry located in the Sydney area?
+390,"151.214,-33.8569","151.194,-33.8569",D,"151.214,-33.8769","151.204,-33.8669","151.194,-33.8769",What is the longitude and latigude coordinates of Laksa King located in the Sydney area?
+391,"151.2074,-33.8632","151.2174,-33.8732",A,"151.1974,-33.8532","151.2174,-33.8532","151.1974,-33.8732",What is the longitude and latigude coordinates of The Morrison Bar and Oyster Room located in the Sydney area?
+392,"151.2147,-33.9327","151.2047,-33.9227",B,"151.1947,-33.9327","151.2147,-33.9127","151.1947,-33.9127",What is the longitude and latigude coordinates of Maths Words not Squiggles located in the Sydney area?
+393,"151.2281,-33.8746","151.2181,-33.8846",B,"151.2081,-33.8946","151.2281,-33.8946","151.2081,-33.8746",What is the longitude and latigude coordinates of The Taphouse located in the Sydney area?
+394,"151.2832,-33.8756","151.2732,-33.8856",B,"151.2832,-33.8956","151.2632,-33.8756","151.2632,-33.8956",What is the longitude and latigude coordinates of Lox In a Box & After Hours Takeaway located in the Sydney area?
+395,"151.2649,-33.9307","151.2449,-33.9107",E,"151.2449,-33.9307","151.2649,-33.9107","151.2549,-33.9207",What is the longitude and latigude coordinates of Ollie's Kitchen located in the Sydney area?

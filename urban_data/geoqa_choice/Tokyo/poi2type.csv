@@ -1,0 +1,121 @@
+id,question,answer,A,B,C,D,E
+0,"Which type do following POIs belong to? POIs: ENEOS, ENEOS, エネオス, エネオス DR.Drive 月島SS",D,sports_centre,fitness_centre,waste_transfer_station,fuel,music
+1,"Which type do following POIs belong to? POIs: 豊島馬場遺跡公園, セイジョー, 防災広場　一言会集会所　路地尊第６号基, 二軒屋児童公園",C,bar,fire_station,park,love_hotel,1
+2,"Which type do following POIs belong to? POIs: 日産レンタカー, トヨタレンタカー・リース, 日本レンタカー, ニッポンレンタカー",D,public_bookcase,dog_park,music_venue,car_rental,cargo
+3,"Which type do following POIs belong to? POIs: カフェ・ド・クリエ, ampere, Cafe de la Fontaine, のぶ",B,board_game,cafe,go,library,track
+4,"Which type do following POIs belong to? POIs: 法善寺, 白髭神社, 新宿日枝神社, 黄梅院",E,post_box,roof,hangar,atm,place_of_worship
+5,"Which type do following POIs belong to? POIs: 浅草木馬館, お江戸日本橋亭, 四谷区民ホール, ATELIER Fanfare",A,theatre,bell,industrial,Vacant places,driving_school
+6,"Which type do following POIs belong to? POIs: モスバーガー, カレーハウス, 叫了个炸鸡, サブウェイ",A,fast_food,boat_rental,bowling_alley,swingerclub,hotel
+7,"Which type do following POIs belong to? POIs: 銀座西郵便局, サンシャイン６０内郵便局, 中野白鷺郵便局, 練馬平和台郵便局",C,karaoke,community_centre;theatre,post_office,library,school
+8,"Which type do following POIs belong to? POIs: 松屋精肉店, コロッセオ中目黒, ガスト, てんぷら　阿部",E,social_facility,commercial,kindergarten,park,restaurant
+9,"Which type do following POIs belong to? POIs: TOMOパーキング, タイムズ 麹町5丁目, クレアスパーク パレスデュディオ田町, コインパーク入谷2丁目",C,social_facility,fitness_station,parking,school,planetarium
+10,"Which type do following POIs belong to? POIs: りそな銀行, みずほ, 横浜銀行, みずほ銀行",B,1,atm,parking_space,bathhouse,bar;cafe
+11,"Which type do following POIs belong to? POIs: 四谷警察署新宿四丁目交番, 目白警察署南長崎交番, 深川警察署住吉交番, 本所警察署江東橋交番",E,car_sharing,gambling,cram_school,planetarium,police
+12,"Which type do following POIs belong to? POIs: 六本木ヒルズ, ファミリーマート 西葛西小学校前店, あらかわエコセンター（1）, NTTデータ駒場研修センター",E,farmland,waste_disposal,school,bus_station,bicycle_rental
+13,"Which type do following POIs belong to? POIs: 目黒区立 碑住区センター (Ishibumi Juku Center), 日本芸術文化振興会国立能楽堂, 東京国税局江東西税務署, 東京法務局目黒出張所",B,luggage_locker,public,social_centre,golf_course,dentist
+14,"Which type do following POIs belong to? POIs: 野方消防署江古田出張所, 豊島消防署, 渋谷消防署恵比寿出張所, 王子消防団第三分団本部",C,animal_boarding,waste_transfer_station,fire_station,industrial,bank
+15,"Which type do following POIs belong to? POIs: みずほ銀行, りそな銀行, 巣鴨信用金庫, 大東京信用組合",C,police,public_bath,bank,training,shower
+16,"Which type do following POIs belong to? POIs: 練馬区立 光が丘夏の雲小学校, 私立聖心女子学院初等科, 私立広尾学園高等学校 (Hiroo Gakuen Senior High School), 私立聖心女子学院高等科",B,dog_park,school,photo_booth,track,kindergarten
+17,"Which type do following POIs belong to? POIs: 月島特別出張所, 日本橋特別出張所, 東京都水道局, 戸塚地域センター",A,townhall,toilets,e-cigarette,office,crematorium
+18,"Which type do following POIs belong to? POIs: ACプラザ苅谷動物病院, 青砥動物病院, 高円寺アニマルクリニック, 石垣動物病院",E,commercial,public_building,office,sento,veterinary
+19,"Which type do following POIs belong to? POIs: SPA大手町, 日の出湯, 月見湯温泉, 吉の湯",B,courthouse,public_bath,hotel,conference_centre,karaoke_box
+20,"Which type do following POIs belong to? POIs: 予定, 順江会江東病院, 薄病院, 養生乃はり",B,bar,hospital,townhall,food_court,government
+21,"Which type do following POIs belong to? POIs: 景丘公園, トイレ, 南口トイレ（改札内）, からたち公衆便所",B,private_school,toilets,bicycle_repair_station,love_hotel,nursing_room
+22,"Which type do following POIs belong to? POIs: 山中公園, 三島公園, 三田丘の上公園, あかねぐも公園",C,vacant,e-cigarette,playground,social_facility,cinema
+23,"Which type do following POIs belong to? POIs: 葛飾区立青戸地区図書館, 方南図書館, 豊島区立中央図書館・ひかり文庫, 練馬区立小竹図書館",C,brothal,railway,library,community_centre;theatre,hackerspace
+24,"Which type do following POIs belong to? POIs: けやき坂ゆみ歯科医院, 前田歯科医院, エムズ歯科, 加部歯科医院",A,dentist,dog_park,office,social_facility;community_centre,drinking_water
+25,"Which type do following POIs belong to? POIs: 明治大学（法学部）, 明治大学, 立教大学（経営学部）, 8号館",C,waste_transfer_station,dojo,university,fire_station,events_venue
+26,"Which type do following POIs belong to? POIs: Wine bar La Terre Rouge, Anna, 成美, Bar CERO",B,smoking_area,bar,boat_rental,hospital,car_wash
+27,"Which type do following POIs belong to? POIs: 蛙之介, Tokyo肉食バル, TEN, ふくの島",C,veterinary,casino,pub,amusement_arcade,support_center
+28,"Which type do following POIs belong to? POIs: どらっぐぱぱす, メディケア阿佐谷薬局, ツルハドラッグ, さくら薬局",D,amusement_arcade,cafe,dancing_school,pharmacy,swimming_pool
+29,"Which type do following POIs belong to? POIs: 日野クリニック, あさがや耳鼻咽喉科, 荒川医院, 阿佐谷循環器クリニック",D,hookah_lounge,adult_gaming_centre,industrial,doctors,apartments
+30,"Which type do following POIs belong to? POIs: 東京シンデレラ美容外科, 浅草橋総合内科, はたの耳鼻咽喉科, 慶友整形外科渋谷",B,university,clinic,shrine,bureau_de_change,charging_station
+31,"Which type do following POIs belong to? POIs: 四谷地域センター, 成田西児童館, 高円寺北児童館, 上野六丁目仲徒三四町会会館",B,business_park,community_centre,dancing_school,place_of_worship,kindergarten
+32,"Which type do following POIs belong to? POIs: レジデンスバイカウンテス, Le Bois Hiraki, 南千住六丁目アパート, 九州電力 恵比寿荘",D,industrial,car_wash,karaoke_box,residential,board_games
+33,"Which type do following POIs belong to? POIs: 自動車検査独立行政法人, 東京法務局板橋出張所, 都市再生機構東京都心支社赤羽台整備事務所, 都市再生機構募集販売本部",D,bicycle_parking,clock,sports_centre,public_building,swingerclub
+34,"Which type do following POIs belong to? POIs: メルパルクホール, ザムザ阿佐ヶ谷・ラピュタ阿佐ヶ谷, みちくさアートラボ, 本所ひとノま",A,arts_centre,shelter,sports_centre,love_hotel,townhall
+35,"Which type do following POIs belong to? POIs: 池袋いづみ幼稚園, 三筋保育園, 東五反田保育園, 中央本町保育園",A,kindergarten,music_school,park,place_of_worship,lost_property_office
+36,"Which type do following POIs belong to? POIs: 山野愛子記念研修センター, セントラルウェルネスクラブ, Urban Base Camp Shinbashi, ゴルフ24",E,gambling,music,place_of_worship,fountain,sports_centre
+37,"Which type do following POIs belong to? POIs: シネクイント CINE QUINTO, TOHO CINEMAS HIBIYA, シアター･イメージフォーラム, HACK",D,bell,shogi,service,cinema,clock
+38,"Which type do following POIs belong to? POIs: BBQ場, 災害用飲用水給水所, 我武維揚, 板橋三丁目縁宿広場",D,public_bookcase,board_game,hospital,drinking_water,casino
+39,"Which type do following POIs belong to? POIs: イメージスタジオ 109 目黒スタジオ, テクノサウンド, スタジオ・ビーム, Next Animation Studio Japan",E,bicycle_parking,pitch,toilets,escape_game,studio
+40,"Which type do following POIs belong to? POIs: 竹芝桟橋, ウォーターズ竹芝前, Odaiba Mooring, 明石町・聖路加ガーデン前",A,ferry_terminal,swimming_pool,board_games,karaoke_box,fitness_station
+41,"Which type do following POIs belong to? POIs: 笹塚ボウル, Shibuya Bowling Cafe, 四つ木イーグルボウル, 東京ポートボウル",C,sports_centre,place_of_worship,bowling_alley,parking_entrance,support_center
+42,"Which type do following POIs belong to? POIs: 華栄養専門学校, 代々木アニメーション学院, Pierre塾, 大原簿記学校 4号館",E,sauna,bicycle_repair_station,board_games,railway,college
+43,"Which type do following POIs belong to? POIs: 新小岩西, 青井駅, アトレ目黒1 駐輪場, 不忍池自転車駐車場",C,marina,love_hotel,bicycle_parking,baby_care,public_bath
+44,"Which type do following POIs belong to? POIs: このえ駒込小規模保育園, すこやか本所保育園, 保育室高円寺第二, 昌平幼稚園",E,karaoke_box,social_centre,smoking_area,recycling,childcare
+45,"Which type do following POIs belong to? POIs: 文京湯島高齢者在宅サービスセンター, ハイりは, 予防介護特化型デーサービスGENKI NEXT, けあビジョン十条",C,courthouse,veterinary,nursing_home,toilets,exhibition_centre
+46,"Which type do following POIs belong to? POIs: プレミアム美肌仕上げ, Ki-Re-i, 証明写真Ki-Re-i, Photo-Me",B,park,photo_booth,brothel,pub,library
+47,"Which type do following POIs belong to? POIs: 郵便ポスト, 郵便ポスト, 郵便ポスト3-8, 虎ノ門ヒルズ局前",E,dog_park,hackerspace,school,retail,post_box
+48,"Which type do following POIs belong to? POIs: クラブセガ, ADORES, GIGO5号館, ハイテクランド SEGA EST",E,events_venue,commercial,taxi,cafe,amusement_arcade
+49,"Which type do following POIs belong to? POIs: Menchie's, サーティワンアイスクリーム, 屋台DELI, ブルーシール高円寺店",A,ice_cream,college,kindergarten,industrial,parcel_locker
+50,"Which type do following POIs belong to? POIs: 牧野富太郎墓, 朝倉文夫夫妻墓, 浄土宗 誓教寺, 天王寺歴代墓域",E,coworking_space,bench,public_bath,social_facility;community_centre,grave_yard
+51,"Which type do following POIs belong to? POIs: 法務局前, 人形町駅, 用賀駅, 野方駅",A,bus_station,arts_centre,vacant,park,hangar
+52,"Which type do following POIs belong to? POIs: 東京ラーメンストリート, イーター, ゲートシティプラザ, Food & Time",B,social_facility;community_centre,food_court,adult_gaming_centre,mahjong,fitness_station
+53,"Which type do following POIs belong to? POIs: 栄真パーキング, タイムズ, タイムズ, アルカキット錦糸町駐車場",E,office,internet_cafe,karaoke,research_institute,parking_entrance
+54,"Which type do following POIs belong to? POIs: 五本木小学校 屋内プール, すみだスポーツ健康センター, ksc金町スイミング, 麹町プール",A,swimming_pool,track,farmland,fast_food,crematorium
+55,"Which type do following POIs belong to? POIs: みとや, PASSAGE, TUC SHOP(パチンコ換金所), TUC SHOP(パチンコ換金所)",D,vacant,2,kindergarten,gambling,government
+56,"Which type do following POIs belong to? POIs: 銀座ライオン, ひもの屋, ザ・プレミアム・モルツ　ハウス, 神谷バー",B,music_venue,biergarten,private_school,5,golf_course
+57,"Which type do following POIs belong to? POIs: カラオケ まねきねこ, カラオケ まねきねこ, ビッグエコー, コートダジュール",D,police,animal_boarding,gallery,karaoke_box,boat_rental
+58,"Which type do following POIs belong to? POIs: Hotel KARUTA, ホテル・ピースワン, RAMSÉS SEVEN, プチホテル錦糸町",A,love_hotel,residential,psycic,hackerspace,ice_rink
+59,"Which type do following POIs belong to? POIs: 駒場老人いこいの家, すみだふれあいセンター福祉作業所, 本木荘, 板橋やすらぎの園２号館",C,conference_centre,bar,social_facility,coworking_space,fast_food
+60,"Which type do following POIs belong to? POIs: 東京大学 都市デザイン研究室, 野口研究所, 生体材料工学研究所, 国立感染症研究所",D,dentist,cargo,nursing_room,research_institute,telephone
+61,"Which type do following POIs belong to? POIs: 東京地方裁判所東京第二検察審査会;東京地方裁判所東京第一検察審査会;知的財産高等裁判所;東京地方裁判所;東京高等裁判所, 東京家庭裁判所;東京地方裁判所東京簡易裁判所;公安審査委員会;公正取引委員会, 最高裁判所, 東京地方裁判所東京簡易裁判所墨田分室(仮庁舎)",A,courthouse,boat_rental,pub,bowling_alley,railway
+62,"Which type do following POIs belong to? POIs: 小石川樹木園, 滝野川第二小学校花壇, PARTY AREA(LOVE KINGDOM), 芽生えの庭",E,hangar,lost_property_office,waste_basket,post_office,garden
+63,"Which type do following POIs belong to? POIs: Dr. Stretch, 池袋スポーツセンター, JOY FIT 24, Laugh Sideゴルフアカデミー",E,karaoke,ice_cream,hotel,doctors,fitness_centre
+64,"Which type do following POIs belong to? POIs: Ikebukuro PM, ピナーズ, Vivienne池袋店, Gaspanic",C,doctors,clock,nightclub,support_center,telephone
+65,"Which type do following POIs belong to? POIs: メゾン・ド・ダダ 弐番館, ドーミー綾瀬Ⅱ, プラウドフラット渋谷桜丘, メゾンホシノA棟",E,doctors,fitness_station,motorcycle_parking,nursing_home,apartments
+66,"Which type do following POIs belong to? POIs: アーク森ビル前タクシー乗り場, 飯田橋駅前タクシー乗り場, 太平洋会館前タクシー乗り場, 代々木駅前タクシー乗り場",C,bicycle_parking,car_sharing,taxi,boat_rental,fitness_station
+67,"Which type do following POIs belong to? POIs: GSPark, Load parking, Load parking, Load parking",D,recycling,car_rental,music_school,parking_space,arts_centre
+68,"Which type do following POIs belong to? POIs: マクドナルド, ビアードパパ, Freshness Burger, てけてけ",B,post_office,vacant,karaoke,casino,gambling
+69,"Which type do following POIs belong to? POIs: スイカ, プリティガール, レンタル美少女～堕とされた優等生 五反田, VIPクリスタル",C,go,residential,brothel,farmland,pharmacy
+70,"Which type do following POIs belong to? POIs: Tap Dance studio, クロスモード, 宇田川レンタルスタジオ, スタジオビーンズ H1, H2, H3",D,bar,swimming_pool,driving_school,dance,training
+71,"Which type do following POIs belong to? POIs: 有料自習室CUBE, くもん, みすず学苑, ラウル英会話教室",E,love_hotel,food_court,clinic,sports_hall,prep_school
+72,"Which type do following POIs belong to? POIs: インターカルト日本語学校, Jabble英会話, Kids Duo 赤塚, キタムラアカデミー",D,bus_station,telephone,bank,language_school,board_games
+73,"Which type do following POIs belong to? POIs: 換金所, 玉えもん, パチンコ&スロット TREASURE HUNTING, エスタディオ",C,arts_centre,school,adult_gaming_centre,railway,dentist
+74,"Which type do following POIs belong to? POIs: コーラスライン, カラオケ マック, からおけ747, ビッグエコー",B,research_institute,karaoke,exhibition_centre,cinema,language_school
+75,"Which type do following POIs belong to? POIs: 東京AUTO洗車, オートクリーンプラザ奥戸, シェル, PRO",E,brothal,bbq,smoking_area,office,car_wash
+76,"Which type do following POIs belong to? POIs: アサヒ飲料, shinjuku line, ダイドードリンコ, キリンビバレッジ",C,adult_gaming_centre,music_school,vending_machine,shower,industrial
+77,"Which type do following POIs belong to? POIs: リサイクルショップ ル・マン, 品川ステラボール, 清昌堂, タワーレコード",C,roof,parking_entrance,retail,community_centre;social_facility,language_school
+78,"Which type do following POIs belong to? POIs: 貸教室・貸会議室 内海, 浜松町コンベンションホール, 赤坂クインルーム, ベルサール秋葉原",B,nursing_room,conference_centre,place_of_worship,studio,community_centre
+79,"Which type do following POIs belong to? POIs: NTT, 公衆電話, Pay phone, NTT",C,courthouse,marketplace,telephone,library,public_bookcase
+80,"Which type do following POIs belong to? POIs: 日時計, 花時計, 八町睦, 日時計",D,cram_school,escape_game,karaoke_box,clock,fixme
+81,"Which type do following POIs belong to? POIs: 発泡トレイサンクルポスト, ベンテン, パピヨン, トレジャーファクトリー",A,recycling,biergarten,public_building,public_bath,apartment
+82,"Which type do following POIs belong to? POIs: あおもり地域アンテナショップ, おたからや, 麒麟堂, 新東京木材商業組合 池袋市場",D,commercial,veterinary,music_venue,marketplace,sento
+83,"Which type do following POIs belong to? POIs: 月極駐車場, エコステーション21 京急品川駅前駐輪場, ル・パルク, パーク王",B,car_rental,motorcycle_parking,board_game,bowling_alley,gallery
+84,"Which type do following POIs belong to? POIs: 明成設備, 竹高工務店, 報知住宅, 市村工務店",B,swimming_pool,office,playground,university,kindergarten
+85,"Which type do following POIs belong to? POIs: 樽味商会, 恩田精機, 宮田金属工業葛飾工場, 富国工業",E,research_institute,kindergarten,boat_rental,fitness_centre,industrial
+86,"Which type do following POIs belong to? POIs: 東京健康ランド まねきの湯, 千代の湯, 小杉湯, 寿湯",C,post_box,darts,sauna,psycic,residential
+87,"Which type do following POIs belong to? POIs: 龍生派いけばな, 堀学, ライズ個別学院, 早稲田育英ゼミナール",C,public_building,commercial,private_school,prep_school,board_games
+88,"Which type do following POIs belong to? POIs: Dog Garden, 豊洲ぐるりドッグラン, Green dog, ペットパーキング",E,waste_disposal,bank,apartments,house,dog_park
+89,"Which type do following POIs belong to? POIs: リリオホール, 神田明神ホール, Konnoubashi Hiroba, ステーションコンファレンス東京",E,bus_station,residential,hospital,brothel,events_venue
+90,"Which type do following POIs belong to? POIs: Bob's Ribs, あぶりどり バリ鳥, THE BBQ BEACH in TOYOSU, デイキャンプ",E,fire_station,government,social_facility,office,bbq
+91,"Which type do following POIs belong to? POIs: 白い波, 白い波, 白い波, FU･RE･A･I",D,kindergarten,cafe,clinic,bench,motorcycle_rental
+92,"Which type do following POIs belong to? POIs: カワイ音楽教室, ミサワダンスステージ, 織田栄養専門学校, DAYS LANGUAGE",C,psycic,residential,training,community_centre;social_facility,swingerclub
+93,"Which type do following POIs belong to? POIs: 三越銀座店 9階 オムツ交換室, 松屋 銀座店 6階 ベビー休憩室, 三越銀座店 10階 ベビー休憩室, 三越銀座店 9階 親子休憩室",D,fire_station,pitch,board_games,baby_care,recycling
+94,"Which type do following POIs belong to? POIs: 中野区指定喫煙場所, 喫煙所, Tobacco Shop, 喫煙所",C,bbq,language_school,smoking_area,biergarten,public_bookcase
+95,"Which type do following POIs belong to? POIs: 天然温泉 凌天の湯 御宿 野乃浅草別邸, エンジェル, 天然温泉 凌雲の湯 御宿 野乃 浅草, the square hotel Ginza",C,fishing,townhall,hotel,bureau_de_change,hangar
+96,"Which type do following POIs belong to? POIs: 開倫塾, STEPGOLF PREMIUM NAKANO, Kai Ballet Studio, トイカツ道場",A,dojo,animal_boarding,dancing_school,social_facility;community_centre,warehouse
+97,"Which type do following POIs belong to? POIs: Sakura Exchange, 横山, 外貨両替MEX, Travelex",C,fast_food,park,bureau_de_change,pachinco,business_park
+98,"Which type do following POIs belong to? POIs: 東京電力, EV充電スポット, EV充電スポット, KDDI新東京北別館ネットワークセンター",A,charging_station,bar,vacant,office,sports_hall
+99,"Which type do following POIs belong to? POIs: ベルサール半蔵門, GrinSpace, OpenOffice FOREST, パセラのコワーク",E,shower,dentist,toilets,psycic,coworking_space
+100,"Which type do following POIs belong to? POIs: Karaoke Moco Moco, ミナトミュージックサロン　リバーサイド校, 文京ふたばミュージックスクール, ウード",A,music_school,garden,dance,love_hotel,karaoke
+101,"Which type do following POIs belong to? POIs: スケートボードパーク, Neoインドアテニス, But de football, 石井真テニスアカデミー",B,pachinco,pitch,dance,clinic,car_sharing
+102,"Which type do following POIs belong to? POIs: 迷路の遊具, Mist Fountain, はねかめ, 創造の泉",A,fountain,social_facility;community_centre,kick-scooter_rental,parcel_locker,studio
+103,"Which type do following POIs belong to? POIs: オリックスカーシェア, タイムズカープラス, カレコ, タイムズカーシェア",D,school,ice_cream,theatre,car_sharing,public_bath
+104,"Which type do following POIs belong to? POIs: サイクルmama, 黒木サイクル商会, 青木輪業, 内田輪業",C,community_centre;theatre,college,bicycle_repair_station,go,fixme
+105,"Which type do following POIs belong to? POIs: SHISHA SALON Chillin, Bar eight, シーシャハウスレイツ 水タバコrain。, Shisha Bar Dope",D,taxi,boat_rental,government,hookah_lounge,bar;cafe
+106,"Which type do following POIs belong to? POIs: 幸せのしっぽ, Ken21, ペットシッターSOS, オアシス",E,place_of_worship,clock,office,exhibition_centre,animal_boarding
+107,"Which type do following POIs belong to? POIs: 快活CLUB, ホットステーション, CUSTOMA CAFE, まんが喫茶ゲラゲラ",D,clock,bureau_de_change,track,internet_cafe,bell
+108,"Which type do following POIs belong to? POIs: 日の出湯, コイン★ランドリー／シャワー, 富士の湯, 武の湯(廃業)",E,piano,gambling,commercial,go,shower
+109,"Which type do following POIs belong to? POIs: GOLFERS24 神楽坂店, GOLFERS24 五反田店, GOLFERS24 大手町店, GOLFERS24 赤坂店",E,apartment,kick-scooter_rental,escape_game,post_office,golf_course
+110,"Which type do following POIs belong to? POIs: 駅前麻雀クラブ, 楽園, リーチ麻雀 あざみ, 麻雀キャッツアイ",B,language_school,mahjong,childcare,retail,luggage_locker
+111,"Which type do following POIs belong to? POIs: 新花会防災資器材, タイヤガーデン, 城東消防団第2分団 防災資機材格納庫, 三組弥生会防災資材倉庫",E,board_game,bicycle_parking,motorcycle_rental,prep_school,warehouse
+112,"Which type do following POIs belong to? POIs: 南千住車庫前, 北斎お休み処, 銀の鈴, 神田駅西口商店街喫煙所",E,office,childcare,escape_game,fuel,shelter
+113,"Which type do following POIs belong to? POIs: Amazon Hub ロッカー - あおみどり, Amazon Hub ロッカー - にくじゃが, Amazon Hub ロッカー - カワセミ, Amazon Hub Locker",A,parcel_locker,veterinary,theatre,restaurant,taxi
+114,"Which type do following POIs belong to? POIs: LUUP, LUUP, LUUP, LUUP",E,public,university,bus_station,karaoke,kick-scooter_rental
+115,"Which type do following POIs belong to? POIs: LUUP, Shaero, Shaero, HELLO MOBILITY",C,dentist,bicycle_rental,motorcycle_rental,parking_space,love_hotel
+116,"Which type do following POIs belong to? POIs: つるやゴルフ, てるてる, インクタス, 学生服の店　ヤマカ",D,2,karaoke,hospital,fixme,charging_station
+117,"Which type do following POIs belong to? POIs: 春奈流 日本舞踊稽古所, Nakano Dance School, フレックススタイル船堀校, シーガルダンススタジオ",A,dancing_school,biergarten,waste_transfer_station,community_centre;social_facility,kindergarten
+118,"Which type do following POIs belong to? POIs: 早稲田アカデミー, KUMON, 武田塾　豊洲校, SAPIX",C,charging_station,parking_space,cram_school,hospital,love_hotel
+119,"Which type do following POIs belong to? POIs: TUC SHOP(パチンコ換金所), 亀戸スターダスト, パチンコグランパ大久保, TUC SHOP",C,atm,parking_entrance,casino,residential,amusement_arcade

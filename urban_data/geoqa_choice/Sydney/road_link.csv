@@ -1,0 +1,569 @@
+,A,B,C,D,question,answer
+0,Fairlight Street,Arthur Street,Cahill Expressway,Walker Street,"In the Sydney area, which road cannot directly reach Mount Street?",A
+1,College Street,High Street,Mount Street,Pacific Highway,"In the Sydney area, which road cannot directly reach Arthur Street?",A
+2,Boundary Street,Liverpool Street,Barcom Avenue,West Street,"In the Sydney area, which road cannot directly reach Boundary Street?",A
+3,Qantas Drive Offramp,New South Head Road,Boundary Street,Bayswater Road,"In the Sydney area, which road cannot directly reach McLachlan Avenue?",A
+4,Frederick Street,Ingham Avenue,Avenue Road,Henrietta Street,"In the Sydney area, which road directly reaches Smythes Street?",A
+5,Wellbank Street,Western Distributor,Coward Street,Charles Street,"In the Sydney area, which road directly reaches Majors Bay Road?",A
+6,Day Avenue,Hewlett Street,Gardeners Road,Botany Street,"In the Sydney area, which road cannot directly reach Anzac Parade?",B
+7,Ernest Street Exit,Anzac Parade,Harcourt Parade,Collins Street,"In the Sydney area, which road directly reaches Moore Park Bus Roadway?",B
+8,Edgecliff Road,Oxford Street,Council Street,Trelawney Street,"In the Sydney area, which road cannot directly reach Ocean Street?",C
+9,West Street,Moore Park Road,Yarranabbe Road,Newland Street,"In the Sydney area, which road cannot directly reach Oxford Street?",C
+10,Henrietta Street,Burns Bay Road,Ebley Street,Birrell Street,"In the Sydney area, which road cannot directly reach Bronte Road?",B
+11,Victoria Street,Bronte Road,Birrell Street,Fairlight Street,"In the Sydney area, which road cannot directly reach Henrietta Street?",D
+12,Doncaster Avenue,Regent Street,Houston Road,Anzac Parade,"In the Sydney area, which road cannot directly reach Day Avenue?",B
+13,Cook Street,Botany Street,Avoca Street,Shadforth Street,"In the Sydney area, which road cannot directly reach Barker Street?",D
+14,Barker Street,MacPherson Street,Brown Street,Old Canterbury Road,"In the Sydney area, which road cannot directly reach Cook Street?",B
+15,Palmer Street,Pyrmont Bridge Road,Manning Road,Whiting Beach Road,"In the Sydney area, which road directly reaches Prince Albert Street?",D
+16,Gipps Street,Druitt Street,Canterbury Road,Prince Albert Street,"In the Sydney area, which road directly reaches Whiting Beach Road?",D
+17,Druitt Street,Garfield Street,Birrell Street,William Street,"In the Sydney area, which road directly reaches Tamarama Street?",C
+18,Kingston Road,Council Street,Henrietta Street,Carrington Road,"In the Sydney area, which road cannot directly reach Birrell Street?",A
+19,Marlborough Street,Unwins Bridge Road,Campbell Street,Edinburgh Road,"In the Sydney area, which road cannot directly reach Bedwin Road?",A
+20,Bedwin Road,Eastern Valley Way,Ebley Street,Alpha Road,"In the Sydney area, which road cannot directly reach Edinburgh Road?",C
+21,McEvoy Street,Albert Street,Devonshire Street,Lachlan Street,"In the Sydney area, which road cannot directly reach Bourke Street?",B
+22,Willoughby Road Offramp,Pearl Bay Avenue,Euston Road,Crown Street,"In the Sydney area, which road directly reaches Devonshire Street?",D
+23,Bathurst Street,Collins Street,Bradfield Highway,Western Distributor Onramp,"In the Sydney area, which road cannot directly reach Western Distributor?",B
+24,Wylde Street,Euston Road Onramp,Western Distributor,Sussex Street,"In the Sydney area, which road directly reaches Bradfield Highway Onramp?",C
+25,Lang Street,Oxford Street,Prince Albert Street,Ocean Street,"In the Sydney area, which road cannot directly reach Queen Street?",A
+26,Smythes Street,Queen Street,Kurraba Road,Wairoa Avenue,"In the Sydney area, which road directly reaches Crinan Street?",B
+27,Old Canterbury Road,Ocean Avenue,Bexley Road,King Street,"In the Sydney area, which road cannot directly reach Canterbury Road?",B
+28,Oxford Street,William Street,Hampden Road,Park Street,"In the Sydney area, which road cannot directly reach College Street?",C
+29,Bexley Road,Palmer Street,U-Turn Bay,William Street Offramp,"In the Sydney area, which road cannot directly reach William Street?",C
+30,Elizabeth Street,College Street,Druitt Street,Woolcott Street,"In the Sydney area, which road cannot directly reach Park Street?",D
+31,Willoughby Road Offramp,Bland Street,Albany Street,Chandos Street,"In the Sydney area, which road cannot directly reach Willoughby Road?",B
+32,Coward Street,Lilyfield Road,Willoughby Road,Christie Street,"In the Sydney area, which road directly reaches Albany Street?",C
+33,Alexander Street,Brook Street,Willoughby Road,Falcon Street Offramp,"In the Sydney area, which road cannot directly reach Chandos Street?",D
+34,Warringah Freeway On Ramp,Bourke Road,Old Canterbury Road,Athol Wharf Road,"In the Sydney area, which road directly reaches Longport Street?",C
+35,Longport Street,River Road,Canterbury Road,Toothill Street,"In the Sydney area, which road cannot directly reach Old Canterbury Road?",B
+36,Gordon Street,Longport Street,West Street,Ocean Street,"In the Sydney area, which road cannot directly reach Railway Terrace?",D
+37,Fountain Street,Botany Road,Elizabeth Street,Liverpool Street,"In the Sydney area, which road cannot directly reach McEvoy Street?",D
+38,Frenchmans Road,Gardeners Road,Bourke Road,Raglan Street,"In the Sydney area, which road cannot directly reach Botany Road?",A
+39,Parramatta Road,Pyrmont Bridge Road,Booth Street,O'Riordan Street,"In the Sydney area, which road cannot directly reach Mallett Street?",D
+40,Meriton Street,Mallett Street,Moore Street,Johnston Street,"In the Sydney area, which road cannot directly reach Booth Street?",A
+41,Bridge Road,Parramatta Road,Booth Street,St Pauls Street,"In the Sydney area, which road cannot directly reach Pyrmont Bridge Road?",D
+42,McLachlan Avenue,Bridge Road,Shaftesbury Road,Johnston Street,"In the Sydney area, which road cannot directly reach Parramatta Road?",A
+43,Dobroyd Parade,Clovelly Road,Barker Street,York Road,"In the Sydney area, which road cannot directly reach Avoca Street?",A
+44,Liverpool Road,Lachlan Street,Gipps Street,Parramatta Road,"In the Sydney area, which road cannot directly reach Burwood Road?",B
+45,Bridge Road,Georges River Road,Shirley Street,Parramatta Road,"In the Sydney area, which road directly reaches Young Street?",D
+46,Lyons Road West,Railway Avenue,Salisbury Road,Douglas Street,"In the Sydney area, which road cannot directly reach Percival Road?",A
+47,Queen Street,Jersey Road,Moore Park Road,Hall Street,"In the Sydney area, which road cannot directly reach Moncur Street?",D
+48,Lachlan Street,Longueville Road,Todman Avenue,Crescent Street,"In the Sydney area, which road cannot directly reach South Dowling Street?",B
+49,Warners Avenue,Liverpool Street,Burton Street,Henrietta Street,"In the Sydney area, which road cannot directly reach Victoria Street?",A
+50,Addison Road,Perry Street,Balmain Road,Victoria Road,"In the Sydney area, which road cannot directly reach Darling Street?",A
+51,Sydenham Road,Jordan Street,Montague Street,Sussex Street,"In the Sydney area, which road directly reaches Rowntree Street?",C
+52,Darling Street,Beattie Street,Tranmere Street,Mullens Street,"In the Sydney area, which road cannot directly reach Montague Street?",C
+53,Burton Street,Campbell Street,Phillip Street,Bent Street,"In the Sydney area, which road cannot directly reach Elizabeth Street?",A
+54,Thompson Street,Flood Street,Mowbray Road,Errol Flynn Boulevard,"In the Sydney area, which road directly reaches Orchard Road?",C
+55,Dover Road,Pacific Highway,Archer Street,Hampden Road,"In the Sydney area, which road cannot directly reach Mowbray Road?",A
+56,Blue Street,Euroka Street,Miller Street,Clarence Street,"In the Sydney area, which road cannot directly reach Blues Point Road?",D
+57,River Road,Blues Point Road,Council Street,Chalmers Street,"In the Sydney area, which road directly reaches Lavender Street?",B
+58,Enmore Road,Dalhousie Street,Croydon Road,Lavender Street,"In the Sydney area, which road directly reaches Euroka Street?",D
+59,Walker Street,Pacific Highway,Blues Point Road,Princess Street,"In the Sydney area, which road cannot directly reach Blue Street?",D
+60,Ernest Street,Blue Street,Falcon Street,Darling Street,"In the Sydney area, which road cannot directly reach Miller Street?",D
+61,Anzac Parade,Botany Street,Gardeners Road,Devonshire Street,"In the Sydney area, which road cannot directly reach Rainbow Street?",D
+62,Rainbow Street,High Street,Walker Street,Alison Road,"In the Sydney area, which road cannot directly reach Botany Street?",C
+63,Tebbutt Street,Avenue Road,Military Road,Awaba Street,"In the Sydney area, which road cannot directly reach Cowles Road?",A
+64,Tunstall Avenue,Spit Road,Belgrave Street,MacPherson Street,"In the Sydney area, which road cannot directly reach Ourimbah Road?",A
+65,Wellbank Street,Goulburn Street,College Street,Campbell Street,"In the Sydney area, which road cannot directly reach Wentworth Avenue?",A
+66,Sutherland Street,Campbell Street,Oxford Street,Goulburn Street,"In the Sydney area, which road cannot directly reach Crown Street?",A
+67,Day Avenue,Gardeners Road,Barker Street,Jersey Road,"In the Sydney area, which road cannot directly reach Houston Road?",D
+68,Epsom Road,Gadigal Avenue,Wentworth Park Road,O'Dea Avenue,"In the Sydney area, which road cannot directly reach Joynton Avenue?",C
+69,Joynton Avenue,Harcourt Parade,Bathurst Street Offramp,Epsom Road,"In the Sydney area, which road cannot directly reach Rothschild Avenue?",C
+70,Botany Road,College Street,Rothschild Avenue,Joynton Avenue,"In the Sydney area, which road cannot directly reach Epsom Road?",B
+71,Bunnerong Road,Anzac Parade,Queens Park Road,Kent Road,"In the Sydney area, which road cannot directly reach Gardeners Road?",C
+72,Princes Highway,Saint Mary's Road,Unwins Bridge Road,Gleeson Avenue,"In the Sydney area, which road cannot directly reach Railway Road?",B
+73,Unwins Bridge Road,Sydenham Road,Railway Road,Macquarie Street Offramp,"In the Sydney area, which road cannot directly reach Gleeson Avenue?",D
+74,Railway Road,Richardsons Crescent,Clovelly Road,Campbell Street,"In the Sydney area, which road cannot directly reach Unwins Bridge Road?",C
+75,Cowper Wharf Roadway,Old South Head Road,Darling Street,Lilyfield Road,"In the Sydney area, which road cannot directly reach Victoria Road?",A
+76,New Canterbury Road,Armstrong Street,Victoria Road,Wardell Road,"In the Sydney area, which road cannot directly reach Marrickville Road?",B
+77,St Pauls Street,Kiaora Road,Victoria Road,MacPherson Street,"In the Sydney area, which road cannot directly reach Carrington Road?",B
+78,Belmore Road,Carrington Road,Perouse Road,Campbell Road,"In the Sydney area, which road cannot directly reach Coogee Bay Road?",D
+79,Carrington Road,Timbrell Drive,Dudley Street,St Pauls Street,"In the Sydney area, which road cannot directly reach Howard Street?",B
+80,New South Head Road,Carrington Road,Howard Street,Dudley Street,"In the Sydney area, which road cannot directly reach St Pauls Street?",A
+81,St Pauls Street,Arden Street,Howard Street,Brent Street,"In the Sydney area, which road cannot directly reach Dudley Street?",D
+82,Parramatta Road,Gipps Street,John Street,Crane Street,"In the Sydney area, which road cannot directly reach Broughton Street?",C
+83,Georges River Road,Burwood Road,Broughton Street,Lyons Road West,"In the Sydney area, which road cannot directly reach Crane Street?",A
+84,Queens Park Road,Sydenham Road,Oxford Street,Ebley Street,"In the Sydney area, which road cannot directly reach Newland Street?",B
+85,Campbell Parade,Glenayr Avenue,Wairoa Avenue,City West Link Offramp,"In the Sydney area, which road cannot directly reach Warners Avenue?",D
+86,City Road,Warners Avenue,Hardy Street,Murriverie Road,"In the Sydney area, which road cannot directly reach Wairoa Avenue?",A
+87,Miller Street,Walker Street,Church Street,Percival Road,"In the Sydney area, which road cannot directly reach McLaren Street?",D
+88,South Dowling Street,Tay Street,Anzac Parade,O'Dea Avenue,"In the Sydney area, which road cannot directly reach Todman Avenue?",B
+89,Awaba Street,Malvern Avenue,Military Road,Ourimbah Road,"In the Sydney area, which road cannot directly reach Spit Road?",B
+90,South Dowling Street,The Esplanade,Cowles Road,Spit Road,"In the Sydney area, which road cannot directly reach Awaba Street?",A
+91,Bellevue Road,Timbrell Drive,Crinan Street,Robertson Place,"In the Sydney area, which road directly reaches Mortley Avenue?",B
+92,Mortley Avenue,First Avenue,Darley Road,Ramsay Street,"In the Sydney area, which road cannot directly reach Dobroyd Parade?",B
+93,Mortley Avenue,Charles Street,Raglan Street,The Strand,"In the Sydney area, which road directly reaches Timbrell Drive?",A
+94,Warren Road,Beauchamp Street,Brighton Avenue,Frazer Street,"In the Sydney area, which road cannot directly reach Livingstone Road?",C
+95,New Canterbury Road,Frazer Street,Jordan Street,Ewart Street,"In the Sydney area, which road cannot directly reach Wardell Road?",C
+96,Thompson Street,New Link Road,Bayswater Street,Gipps Street,"In the Sydney area, which road cannot directly reach Lyons Road?",B
+97,Wicks Road,Lyons Road,Great North Road,Crane Street,"In the Sydney area, which road cannot directly reach Lyons Road West?",A
+98,Lyons Road West,Bradfield Highway Onramp,Garfield Street,Parramatta Road,"In the Sydney area, which road cannot directly reach Great North Road?",B
+99,Bannerman Street,Beauchamp Street,Penshurst Street,Longport Street,"In the Sydney area, which road directly reaches Ewart Street?",B
+100,Wardell Road,Hardy Street,Sydenham Road,New Canterbury Road,"In the Sydney area, which road cannot directly reach Frazer Street?",B
+101,Wellbank Street,Brighton Street,Boundary Street,Pacific Highway,"In the Sydney area, which road cannot directly reach West Street?",A
+102,West Street,Parramatta Road,Copeland Street,Marion Street,"In the Sydney area, which road cannot directly reach Albert Street?",C
+103,Huntley Street,Botany Road,Wyndham Street,Allen Street Offramp,"In the Sydney area, which road cannot directly reach Bourke Road?",D
+104,Botany Road,Maloney Street,Bourke Road,Hargrave Street,"In the Sydney area, which road cannot directly reach Coward Street?",D
+105,Bayswater Road,Doody Street,Shirley Street,Bourke Road,"In the Sydney area, which road cannot directly reach O'Riordan Street?",A
+106,Carrington Road,Hayes Road,York Road,City West Link,"In the Sydney area, which road cannot directly reach Darley Road?",B
+107,Arthur Street,Oxford Street,Baronga Avenue,Darley Road,"In the Sydney area, which road cannot directly reach York Road?",A
+108,Northumberland Avenue,Parramatta Road,Moore Street,Church Avenue,"In the Sydney area, which road cannot directly reach Johnston Street?",D
+109,Johnston Street,North Road,Spit Road,Eastern Valley Way,"In the Sydney area, which road directly reaches Northumberland Avenue?",A
+110,Anzac Parade,Bourke Street,M4 East Tunnel,Lang Road,"In the Sydney area, which road cannot directly reach Cleveland Street?",C
+111,Phillip Street,Hall Street,Crown Street,Cleveland Street,"In the Sydney area, which road cannot directly reach Baptist Street?",B
+112,Darley Road,Huntley Street,Norton Street,The Crescent,"In the Sydney area, which road cannot directly reach City West Link?",B
+113,Milton Street,Melville Street,Parramatta Road,Marion Street,"In the Sydney area, which road cannot directly reach Norton Street?",B
+114,Walker Avenue,Fifth Avenue,Perouse Road,Coward Street,"In the Sydney area, which road directly reaches Sutherland Street?",D
+115,Military Road E-Ramp,Military Road Offramp,West Street,Illawarra Road,"In the Sydney area, which road cannot directly reach Falcon Street?",D
+116,Carrington Road,Croydon Road,Anzac Parade,Cowper Street,"In the Sydney area, which road cannot directly reach Alison Road?",B
+117,Falcon Street,Todman Avenue,Campbell Street,Greenwich Road,"In the Sydney area, which road cannot directly reach Pacific Highway?",B
+118,Banksia Road,Military Road,Penkivil Street,Gardeners Road Onramp,"In the Sydney area, which road cannot directly reach Old South Head Road?",D
+119,Flat Rock Drive,Old South Head Road,Fletcher Street,Francis Street,"In the Sydney area, which road cannot directly reach Bondi Road?",A
+120,Old South Head Road,Oxford Street,Bondi Road,Gore Hill Freeway,"In the Sydney area, which road cannot directly reach Syd Einfeld Drive?",D
+121,Pier Street,George Street,Bathurst Street,Goulburn Street,"In the Sydney area, which road cannot directly reach Harbour Street?",B
+122,Elizabeth Street,Harbour Street,Western Distributor,Carrington Road,"In the Sydney area, which road cannot directly reach Bathurst Street?",D
+123,Murriverie Road,Harbour Street,Western Distributor,Bathurst Street,"In the Sydney area, which road cannot directly reach Bathurst Street Offramp?",A
+124,Crown Street,Syd Einfeld Drive,MacDonald Street,Darlinghurst Road,"In the Sydney area, which road cannot directly reach Burton Street?",B
+125,Thomas Street,Victoria Street,Frenchmans Road,Brown Street,"In the Sydney area, which road cannot directly reach Liverpool Road?",C
+126,Livingstone Road,York Road,Newland Street,Victoria Street,"In the Sydney area, which road cannot directly reach Queens Park Road?",A
+127,Northwood Road,Eastern Distributor,Greenwich Road,Pacific Highway,"In the Sydney area, which road cannot directly reach River Road?",B
+128,South Dowling Street,Alison Road,Anzac Parade,Boundary Street,"In the Sydney area, which road cannot directly reach Dacey Avenue?",D
+129,South Dowling Street,Dacey Avenue,Gadigal Avenue,Victoria Road Exit,"In the Sydney area, which road cannot directly reach Lachlan Street?",D
+130,Church Street,Shaw Street,Tennyson Road,Devlin Street,"In the Sydney area, which road cannot directly reach Morrison Road?",B
+131,West Street,Abercrombie Street,Croydon Road,Devlin Street,"In the Sydney area, which road cannot directly reach Church Street?",B
+132,Morrison Road,Church Street,Devlin Street Onramp,Victoria Road,"In the Sydney area, which road cannot directly reach Devlin Street?",D
+133,Joynton Avenue,Gadigal Avenue,Quarry Road,South Dowling Street,"In the Sydney area, which road cannot directly reach O'Dea Avenue?",C
+134,Willoughby Road,Boomerang Place,Ernest Street,Falcon Street,"In the Sydney area, which road cannot directly reach Alexander Street?",B
+135,Hickson Road,Greenoaks Avenue,King Street Offramp,Erskine Street,"In the Sydney area, which road cannot directly reach Sussex Street?",B
+136,Kent Street,Sussex Street,Queen Street,York Street,"In the Sydney area, which road cannot directly reach Erskine Street?",C
+137,Kiaora Road,Trevenar Street,Liverpool Road,Princess Street,"In the Sydney area, which road cannot directly reach Holden Street?",A
+138,Hampden Road,Holden Street,Liverpool Road,Neild Avenue,"In the Sydney area, which road cannot directly reach Brown Street?",A
+139,Military Road,Redfern Street,Croydon Avenue,Canterbury Road,"In the Sydney area, which road directly reaches Malvern Avenue?",C
+140,Malvern Avenue,Georges River Road,Liverpool Road,O'Brien Street,"In the Sydney area, which road cannot directly reach Croydon Avenue?",D
+141,Elizabeth Street,Brown Street,Christie Street,Parramatta Road,"In the Sydney area, which road cannot directly reach Bland Street?",C
+142,Wattle Street,Church Street,Ian Parade,Pacific Highway,"In the Sydney area, which road cannot directly reach Frederick Street?",D
+143,River Road,Parramatta Road,Queens Road,Garfield Street,"In the Sydney area, which road cannot directly reach Harris Road?",A
+144,Great North Road,Harris Road,Donnellan Circuit,Gipps Street,"In the Sydney area, which road cannot directly reach Queens Road?",C
+145,Queens Road,Bradleys Head Road,Lyons Road,Regatta Road,"In the Sydney area, which road cannot directly reach Gipps Street?",B
+146,Shaw Street,City West Link Offramp,Parramatta Road,Douglas Street,"In the Sydney area, which road cannot directly reach Crystal Street?",B
+147,Dover Road,Edgeware Road,Liberty Street,Crystal Street,"In the Sydney area, which road cannot directly reach Stanmore Road?",A
+148,Frazer Street,York Road,Gordon Street,Livingstone Road,"In the Sydney area, which road cannot directly reach New Canterbury Road?",B
+149,Stanmore Road,Crystal Street,New Canterbury Road,Western Distributor Onramp,"In the Sydney area, which road cannot directly reach Shaw Street?",D
+150,Lilyfield Road,Trafalgar Street,Railway Terrace,Princes Street,"In the Sydney area, which road cannot directly reach Gordon Street?",D
+151,Pier Street,Crown Street,Wentworth Avenue,Murray Street,"In the Sydney area, which road cannot directly reach Goulburn Street?",D
+152,Park Avenue,Brown Street,Marion Street,Foster Street,"In the Sydney area, which road cannot directly reach Tebbutt Street?",A
+153,Albert Street,Balmain Road,Foster Street,Knox Street,"In the Sydney area, which road cannot directly reach Marion Street?",D
+154,Shirley Street,Berry Street,Crescent Street,Tebbutt Street,"In the Sydney area, which road directly reaches Foster Street?",D
+155,Perry Street,Darley Road,Francis Street,Lilyfield Road,"In the Sydney area, which road cannot directly reach James Street?",C
+156,Raglan Street,Old South Head Road,Barker Street,Campbell Parade,"In the Sydney area, which road cannot directly reach Military Road?",C
+157,O'Sullivan Road,Ernest Street,Wycombe Road,Kurraba Road,"In the Sydney area, which road cannot directly reach Ben Boyd Road?",A
+158,Johnston Street,Pier Street,Wattle Street,Wentworth Park Road,"In the Sydney area, which road cannot directly reach William Henry Street?",A
+159,Goulburn Street,Penkivil Street,Harbour Street,Harris Street,"In the Sydney area, which road cannot directly reach Pier Street?",B
+160,Bridge Road,Ultimo Road,Fig Street,Broadway,"In the Sydney area, which road cannot directly reach Harris Street?",A
+161,Frazer Street,Livingstone Road,Wonga Street,Victoria Road,"In the Sydney area, which road cannot directly reach Sydenham Road?",C
+162,Glebe Point Road,Ryde Road,Railway Terrace,Ramsay Street,"In the Sydney area, which road directly reaches Wigram Road?",A
+163,Wigram Road,Bridge Road,Lawson Street,Ross Street,"In the Sydney area, which road cannot directly reach Minogue Crescent?",C
+164,Oxford Street,Parramatta Road,Wattle Street,Wentworth Park Road,"In the Sydney area, which road cannot directly reach Bridge Road?",A
+165,Centennial Avenue,Broadway,Parramatta Road,Minogue Crescent,"In the Sydney area, which road cannot directly reach Ross Street?",A
+166,Cross Street,Pearl Bay Avenue,Knox Street,Constitution Road,"In the Sydney area, which road cannot directly reach Bay Street?",D
+167,New South Head Road,Bellevue Road,Brook Street,Bay Street,"In the Sydney area, which road cannot directly reach Cross Street?",C
+168,Coward Street,Gardeners Road,Dalmeny Avenue,Serpentine Parade,"In the Sydney area, which road cannot directly reach Maloney Street?",D
+169,Marion Street,Tresidder Avenue,Maloney Street,Fig Street,"In the Sydney area, which road directly reaches Dalmeny Avenue?",C
+170,Sydenham Road,Marrickville Road,Warren Road,Strathallen Avenue,"In the Sydney area, which road cannot directly reach Illawarra Road?",D
+171,Frenchmans Road,Lane Cove Tunnel Onramp,Fern Street,Donnellan Circuit,"In the Sydney area, which road cannot directly reach Clovelly Road?",B
+172,Avoca Street,Albion Street,Carrington Road,Foveaux Street,"In the Sydney area, which road cannot directly reach Frenchmans Road?",D
+173,Crinan Street,Tebbutt Street,Marlborough Street,Victoria Road Exit,"In the Sydney area, which road directly reaches Victoria Road Offramp?",D
+174,Victoria Road Offramp,Joynton Avenue,Epping Road,Mitchell Road,"In the Sydney area, which road directly reaches Victoria Road Exit?",A
+175,Moore Park Road,Anzac Parade,Albion Street,Pearl Bay Avenue,"In the Sydney area, which road cannot directly reach Flinders Street?",D
+176,Vaucluse Road,King Street,Edgeware Road,Llewellyn Street,"In the Sydney area, which road cannot directly reach Alice Street?",A
+177,Llewellyn Street,Military Road Offramp,Stanmore Road,Enmore Road,"In the Sydney area, which road cannot directly reach Edgeware Road?",B
+178,Enmore Road,Karool Avenue,Alice Street,Edgeware Road,"In the Sydney area, which road cannot directly reach Llewellyn Street?",B
+179,Wairoa Avenue,Ryde Road,Victoria Road,Thompson Street,"In the Sydney area, which road cannot directly reach Pittwater Road?",A
+180,Boronia Street,Victoria Road,Majors Bay Road,Spofforth Street,"In the Sydney area, which road directly reaches Jordan Street?",B
+181,Centennial Avenue,Fifth Avenue,Tantallon Road,Moore Street,"In the Sydney area, which road cannot directly reach Epping Road?",B
+182,Epping Road,Burns Bay Road,Mowbray Road,Eastern Distributor Onramp,"In the Sydney area, which road cannot directly reach Centennial Avenue?",D
+183,Canal Road,Blaxland Road,Gannon Street,King Street,"In the Sydney area, which road cannot directly reach Princes Highway?",B
+184,Euston Road,Campbell Street,Ebley Street,M8 Motorway Tunnel,"In the Sydney area, which road cannot directly reach Campbell Road?",C
+185,Crown Street,Wentworth Avenue,Bay Street,Unwins Bridge Road,"In the Sydney area, which road cannot directly reach Campbell Street?",C
+186,Bourke Road,Lawson Street,Penkivil Street,McEvoy Street,"In the Sydney area, which road cannot directly reach Wyndham Street?",C
+187,Johnston Street,O'Riordan Street,Elizabeth Street,Botany Road,"In the Sydney area, which road cannot directly reach Collins Street?",C
+188,Bridge Street,Bourke Street,Grosvenor Street,Timbrell Drive,"In the Sydney area, which road cannot directly reach Phillip Street?",D
+189,Beauchamp Street,Phillip Street,Bourke Street,South Dowling Street,"In the Sydney area, which road cannot directly reach Crescent Street?",A
+190,Brook Street Offramp,Beamish Street,Alison Road,Bondi Road,"In the Sydney area, which road directly reaches Evaline Street?",B
+191,Ninth Avenue,Evaline Street,Canterbury Road,Charles Street,"In the Sydney area, which road cannot directly reach Beamish Street?",D
+192,Henderson Road,Cowles Road,River Road,McEvoy Street,"In the Sydney area, which road directly reaches Greenwich Road?",C
+193,Doody Street,Birriga Road,O'Riordan Street,Botany Road,"In the Sydney area, which road cannot directly reach Shirley Street?",B
+194,Shirley Street,Bourke Road,O'Riordan Street,Euston Road,"In the Sydney area, which road cannot directly reach Doody Street?",D
+195,William Street,King Street,City Road,Missenden Road,"In the Sydney area, which road cannot directly reach Carillon Avenue?",A
+196,Missenden Road,Milton Street,Kingston Road,Percival Road,"In the Sydney area, which road cannot directly reach Salisbury Road?",B
+197,Rothschild Avenue,Salisbury Road,Carillon Avenue,King Street,"In the Sydney area, which road cannot directly reach Missenden Road?",A
+198,Victoria Road,Livingstone Road,Blaxland Road,Illawarra Road,"In the Sydney area, which road cannot directly reach Warren Road?",C
+199,Dunning Avenue,Gordon Street,Norton Street,Perry Street,"In the Sydney area, which road cannot directly reach Lilyfield Road?",A
+200,Darling Street,Glebe Point Road,Lilyfield Road,Perry Street,"In the Sydney area, which road cannot directly reach Balmain Road?",B
+201,Wyndham Street,Henderson Road,Cleveland Street,Allen Street Offramp,"In the Sydney area, which road cannot directly reach Regent Street?",D
+202,Penkivil Street,Neild Avenue,Bayswater Road,Newcastle Street,"In the Sydney area, which road cannot directly reach New South Head Road?",A
+203,Birriga Road,Princes Highway,Cross Street,New South Head Road,"In the Sydney area, which road cannot directly reach Bellevue Road?",B
+204,Military Road,Cahill Expressway,Dover Road,Old South Head Road,"In the Sydney area, which road cannot directly reach Victory Street?",B
+205,York Street,Military Road,Hardy Street,Old South Head Road,"In the Sydney area, which road cannot directly reach Dover Road?",A
+206,Athol Wharf Road,Edgecliff Road,New South Head Road,Cross Street,"In the Sydney area, which road cannot directly reach Ocean Avenue?",A
+207,Old South Head Road,Strathallen Avenue,Ocean Avenue,New South Head Road,"In the Sydney area, which road cannot directly reach Edgecliff Road?",B
+208,Lane Cove Road,North Road,Devlin Street,Meriton Street,"In the Sydney area, which road cannot directly reach Blaxland Road?",D
+209,Epping Road,Balmain Road,Military Road Offramp,Booth Street,"In the Sydney area, which road cannot directly reach Moore Street?",C
+210,Burwood Road,General Bridges Crescent,Paisley Road,Shaftesbury Road,"In the Sydney area, which road cannot directly reach Railway Parade?",B
+211,Avoca Street,Wentworth Street,Alison Road,Darling Point Road,"In the Sydney area, which road cannot directly reach Cowper Street?",D
+212,Macquarie Street,Bathurst Street,Phillip Street,Elizabeth Street,"In the Sydney area, which road cannot directly reach Bent Street?",B
+213,Bent Street,Macquarie Street Offramp,Beattie Street,Bridge Street,"In the Sydney area, which road cannot directly reach Macquarie Street?",C
+214,Riley Street,Copeland Street,Bent Street,Cahill Expressway Onramp,"In the Sydney area, which road cannot directly reach Sir John Young Crescent?",B
+215,Jarrett Street,Canterbury Road,William Street,Boronia Street,"In the Sydney area, which road cannot directly reach Bexley Road?",D
+216,Tennyson Road,Flinders Street,Carrington Road,Bourke Street,"In the Sydney area, which road cannot directly reach Albion Street?",A
+217,Birrell Street,Belmore Road,Carrington Road,Bondi Road,"In the Sydney area, which road cannot directly reach Council Street?",B
+218,Pittwater Road,St Pauls Street,Birriga Road,Shirley Street,"In the Sydney area, which road directly reaches Ryde Road?",A
+219,Military Road Offramp,Hollywood Avenue,Ebley Street,Bondi Road,"In the Sydney area, which road cannot directly reach Waverley Street?",A
+220,St Johns Road,Wigram Road,Broadway,Wattle Street,"In the Sydney area, which road cannot directly reach Glebe Point Road?",D
+221,Todman Avenue,Balfour Road,Anzac Parade,Day Avenue,"In the Sydney area, which road cannot directly reach Doncaster Avenue?",B
+222,Campbell Parade,Glenayr Avenue,Pearl Bay Avenue,Birriga Road,"In the Sydney area, which road cannot directly reach Curlewis Street?",C
+223,New South Head Road,Curlewis Street,Ocean Avenue,Old South Head Road,"In the Sydney area, which road cannot directly reach O'Sullivan Road?",C
+224,O'Sullivan Road,Victoria Road,Minogue Crescent,Bellevue Road,"In the Sydney area, which road cannot directly reach Birriga Road?",C
+225,Mullens Street,Ourimbah Road,Darley Road,Carrington Road,"In the Sydney area, which road cannot directly reach MacPherson Street?",A
+226,Euston Road,Lyons Road,Campbell Road,Motorway Tunnel,"In the Sydney area, which road cannot directly reach M8 Motorway Tunnel?",B
+227,M8 Motorway Tunnel,Euston Road,Tennyson Road,Campbell Road,"In the Sydney area, which road cannot directly reach Euston Road Offramp?",C
+228,Sydney Park Road,Serpentine Parade,McEvoy Street,Maddox Street,"In the Sydney area, which road cannot directly reach Euston Road?",B
+229,Lane Cove Road,Cross City Tunnel,Tranmere Street,Tennyson Road,"In the Sydney area, which road directly reaches Quarry Road?",A
+230,King Street,Quarry Road,Blaxland Road,Goulding Road,"In the Sydney area, which road cannot directly reach Lane Cove Road?",A
+231,Ernest Street Exit,Miller Street,Holden Street,Alexander Street,"In the Sydney area, which road cannot directly reach Ernest Street?",C
+232,Oxford Street,Warners Avenue,Curlewis Street,O'Brien Street,"In the Sydney area, which road cannot directly reach Glenayr Avenue?",A
+233,Balfour Road,Crystal Street,Fairlight Street,Elizabeth Street,"In the Sydney area, which road directly reaches Grosvenor Crescent?",D
+234,Liverpool Road,Terry Street,Georges River Road,Norton Street,"In the Sydney area, which road cannot directly reach Milton Street?",B
+235,Birriga Road,Penkivil Street,Old South Head Road,Botany Road,"In the Sydney area, which road cannot directly reach Banksia Road?",D
+236,Banksia Road,Old South Head Road,Alpha Road,Bondi Road,"In the Sydney area, which road cannot directly reach Penkivil Street?",C
+237,Queens Road,Ramsay Road,Great North Road,College Street,"In the Sydney area, which road cannot directly reach Fairlight Street?",D
+238,First Avenue,Phillip Street,Fairlight Street,Dobroyd Parade,"In the Sydney area, which road cannot directly reach Ramsay Road?",B
+239,Monash Road,Dalhousie Street,Ramsay Road,Sloane Street,"In the Sydney area, which road cannot directly reach Ramsay Street?",A
+240,Ramsay Street,Church Street,Broadway,Ramsay Road,"In the Sydney area, which road cannot directly reach Wattle Street?",B
+241,Lachlan Street,Brook Street Offramp,Euston Road Onramp,M8 Motorway Tunnel Onramp,"In the Sydney area, which road directly reaches Gadigal avenue?",A
+242,Johnston Street,O'Dea Avenue,Potter Street,Lachlan Street,"In the Sydney area, which road cannot directly reach Gadigal Avenue?",A
+243,Ramsay Street,New Beach Road,Thompson Street,O'Dea Avenue,"In the Sydney area, which road directly reaches Dalhousie Street?",A
+244,The Strand,Hopetoun Avenue,Railway Parade,Elizabeth Street,"In the Sydney area, which road cannot directly reach Paisley Road?",B
+245,Railway Parade,Parramatta Road,Wilga Street,M4 East Tunnel,"In the Sydney area, which road cannot directly reach Shaftesbury Road?",D
+246,Military Road,Mary Street,Wairoa Avenue,Wellington Street,"In the Sydney area, which road cannot directly reach Blair Street?",B
+247,Princes Highway,Bland Street,Liverpool Road,Tunstall Avenue,"In the Sydney area, which road directly reaches Thomas Street?",C
+248,Princes Highway,Victoria Street,King Street,Unwins Bridge Road,"In the Sydney area, which road cannot directly reach May Street?",B
+249,Wylde Street,Falcon Street Offramp,Darlinghurst Road,William Street,"In the Sydney area, which road cannot directly reach Craigend Street?",B
+250,Wylde Street,Liverpool Street,Brown Street,Burton Street,"In the Sydney area, which road cannot directly reach Darlinghurst Road?",C
+251,William Street,Cowper Wharf Roadway,Shirley Street,Craigend Street,"In the Sydney area, which road cannot directly reach Wylde Street?",C
+252,Euston Road,Avoca Street,Sydney Park Road,Bourke Road,"In the Sydney area, which road cannot directly reach Huntley Street?",B
+253,Burwood Road,Euston Road,Huntley Street,Mitchell Road,"In the Sydney area, which road cannot directly reach Sydney Park Road?",A
+254,Yarranabbe Road,Mona Road,Greenoaks Avenue,Bridge Road,"In the Sydney area, which road cannot directly reach Darling Point Road?",D
+255,Darling Point Road,Bayswater Road,Goulding Road,New South Head Road,"In the Sydney area, which road cannot directly reach Mona Road?",C
+256,Ultimo Road,Pyrmont Bridge Road,Trafalgar Street,Murray Street,"In the Sydney area, which road cannot directly reach Darling Drive?",C
+257,Botany Road,Prospect Road,Wyndham Street,Raglan Street,"In the Sydney area, which road cannot directly reach Henderson Road?",B
+258,Edgecliff Road,Henderson Road,The Esplanade,Military Road,"In the Sydney area, which road cannot directly reach Raglan Street?",A
+259,Mullens Street,Fig Street,City West Link Offramp,Ninth Avenue,"In the Sydney area, which road directly reaches Fig Street Offramp?",B
+260,Homer Street,Harris Street,Darley Road,Victoria Road,"In the Sydney area, which road directly reaches Fig Street?",B
+261,Erskine Street,Bellevue Road,Todman Avenue,Airport Drive Offramp,"In the Sydney area, which road directly reaches Kent Street?",A
+262,Anzac Parade,Fern Street,Oxford Street,Moore Park Road,"In the Sydney area, which road cannot directly reach Lang Road?",B
+263,Regent Street,Wyndham Street,Moore Park Road Offramp,Abercrombie Street,"In the Sydney area, which road cannot directly reach Lawson Street?",C
+264,Tay Street,Marion Street,MacPherson Street,Balmain Road,"In the Sydney area, which road cannot directly reach Leichhardt Street?",A
+265,Banks Avenue,Foveaux Street,Pitt Street,Elizabeth Street,"In the Sydney area, which road cannot directly reach Eddy Avenue?",A
+266,North Road,Elizabeth Street,Eddy Avenue,Crown Street,"In the Sydney area, which road cannot directly reach Foveaux Street?",A
+267,Prospect Road,Anzac Parade,South Dowling Street,Greens Road,"In the Sydney area, which road cannot directly reach Moore Park Road?",A
+268,Cleveland Street,Lawson Street,Broadway,Denham Street,"In the Sydney area, which road cannot directly reach Abercrombie Street?",D
+269,Rainbow Street,Gardeners Road,Anzac Parade,Pearl Bay Avenue,"In the Sydney area, which road cannot directly reach Bunnerong Road?",D
+270,Greenwich Road,College Street,St. James Road,Saint Mary's Road,"In the Sydney area, which road cannot directly reach Art Gallery Road?",A
+271,Elizabeth Street,Macquarie Street,Greens Road,College Street,"In the Sydney area, which road cannot directly reach St. James Road?",C
+272,St. James Road,College Street,Art Gallery Road,Victoria Road,"In the Sydney area, which road cannot directly reach Saint Mary's Road?",D
+273,Carillon Avenue,King Street,Broadway,St Pauls Street,"In the Sydney area, which road cannot directly reach City Road?",D
+274,Crown Street,Harbour Street,New Link Road,Darlinghurst Road,"In the Sydney area, which road cannot directly reach Liverpool Street?",C
+275,Park Street,Bondi Road,Henley Marine Drive,Pitt Street,"In the Sydney area, which road directly reaches Watson Street?",B
+276,York Street,Alison Road,Warringah Freeway,Erskineville Road,"In the Sydney area, which road cannot directly reach King Street?",C
+277,Waverley Street,Newland Street,Bronte Road,Collins Street,"In the Sydney area, which road cannot directly reach Ebley Street?",D
+278,Eddy Avenue,Weldon Street,Sydney Harbour Tunnel Northbound,Falcon Street,"In the Sydney area, which road directly reaches Military Road Offramp?",D
+279,Ocean Street,Moncur Street,Reserve Road,Missenden Road,"In the Sydney area, which road cannot directly reach Jersey Road?",D
+280,Brown Street,Wentworth Park Road,Neild Avenue,Burton Street,"In the Sydney area, which road cannot directly reach MacDonald Street?",B
+281,Brown Street,Euston Road Onramp,New South Head Road,MacDonald Street,"In the Sydney area, which road cannot directly reach Neild Avenue?",B
+282,Dobroyd Parade,Newcastle Street,Church Street,Victoria Road,"In the Sydney area, which road directly reaches Gladesville Road?",C
+283,Day Street,Rawson Avenue,Lyons Road,Watson Street,"In the Sydney area, which road cannot directly reach Tranmere Street?",D
+284,Gipps Street,Lang Road,Military Road,Victoria Road,"In the Sydney area, which road directly reaches Day Street?",D
+285,Mount Street,Pacific Highway,Blue Street,Dover Road,"In the Sydney area, which road cannot directly reach Walker Street?",D
+286,Warringah Freeway Onramp,Thompson Street,Lyons Road,Bay Street,"In the Sydney area, which road directly reaches Knox Street?",D
+287,Pyrmont Bridge Road,Hewlett Street,New Beach Road,Darling Drive,"In the Sydney area, which road cannot directly reach Murray Street?",C
+288,Crystal Street,Greenwich Road,Railway Terrace,Gordon Street,"In the Sydney area, which road cannot directly reach Trafalgar Street?",B
+289,Centennial Avenue,Bourke Road,Euston Road,McEvoy Street,"In the Sydney area, which road cannot directly reach Maddox Street?",A
+290,Shirley Street,Gardeners Road,Link Road,Ultimo Road,"In the Sydney area, which road directly reaches Dunning Avenue?",B
+291,Prospect Road,Collins Street,Botany Road,Georges River Road,"In the Sydney area, which road directly reaches Hayes Road?",C
+292,Alexander Street,Twin Road,Botany Road,Beattie Street,"In the Sydney area, which road directly reaches Harcourt Parade?",C
+293,Whiting Beach Road,McEvoy Street,York Street Offramp,Mount Street,"In the Sydney area, which road directly reaches Bowden Street?",B
+294,Tebbutt Street,Pacific Highway,Clark Road,Arthur Street,"In the Sydney area, which road cannot directly reach High Street?",A
+295,Johnston Street,Darling Street,Newcastle Street,New Canterbury Road,"In the Sydney area, which road directly reaches Constitution Road?",D
+296,Old South Head Road,Douglas Street,Moore Park Road,Lane Cove Road,"In the Sydney area, which road directly reaches Railway Avenue?",B
+297,Crystal Street,Railway Avenue,Campbell Parade,Percival Road,"In the Sydney area, which road cannot directly reach Douglas Street?",C
+298,Cressy Road,Lane Cove Road,Princes Street,Walker Avenue,"In the Sydney area, which road cannot directly reach Buffalo Road?",D
+299,Llewellyn Street,Penkivil Street,Ocean Street,General Bridges Crescent,"In the Sydney area, which road directly reaches Trelawney Street?",C
+300,Macquarie Street,Wentworth Street,King Street,Avoca Street,"In the Sydney area, which road cannot directly reach Stanley Street?",A
+301,Brighton Street,King Street,Cowper Street,Stanley Street,"In the Sydney area, which road cannot directly reach Wentworth Street?",A
+302,Regatta Road,King Street,Western Distributor Onramp,Market Street,"In the Sydney area, which road cannot directly reach Clarence Street?",A
+303,Queens Road,Parramatta Road,Artarmon Road,Gipps Street,"In the Sydney area, which road cannot directly reach Regatta Road?",C
+304,Botany Street,Ocean Avenue,Salisbury Road,Sir John Young Crescent,"In the Sydney area, which road directly reaches Kingston Road?",C
+305,Gore Hill Freeway,Gannon Street,Darling Street,Dacey Avenue,"In the Sydney area, which road directly reaches Beattie Street?",C
+306,Mallett Street,Dalmeny Avenue,Frederick Street,Ourimbah Road,"In the Sydney area, which road directly reaches Belgrave Street?",D
+307,Sailors Bay Road,Tresidder Avenue,Wilga Street,Mitchell Road,"In the Sydney area, which road directly reaches Cottenham Avenue?",B
+308,Wellington Street,Renwick Street,Eastern Distributor Offramp,Gore Hill Freeway Onramp,"In the Sydney area, which road directly reaches Francis Street?",A
+309,Francis Street,Blair Street,Artarmon Road,Bondi Road,"In the Sydney area, which road cannot directly reach Wellington Street?",C
+310,Hall Street,Druitt Street,Wairoa Avenue,Bondi Road,"In the Sydney area, which road cannot directly reach Campbell Parade?",B
+311,Bondi Road,Southern Cross Drive,Illawong Avenue,Campbell Parade,"In the Sydney area, which road cannot directly reach Fletcher Street?",B
+312,New South Head Road,Qantas Drive Offramp,Gadigal Avenue,Pacific Highway Offramp,"In the Sydney area, which road directly reaches Newcastle Street?",A
+313,Lang Street,Moore Park Bus Roadway,Thompson Street,Murray Street,"In the Sydney area, which road directly reaches Hewlett Street?",D
+314,New Canterbury Road,Strathallen Avenue,York Road,Crinan Street,"In the Sydney area, which road directly reaches Baronga Avenue?",C
+315,Burlington Avenue,Dalmeny Avenue,Robert Street,Wellington Street,"In the Sydney area, which road directly reaches Mullens Street?",C
+316,Ocean Avenue,Pacific Highway,Cross Street,York Street Offramp,"In the Sydney area, which road directly reaches Christie Street?",B
+317,Jersey Road,Penrose Street,Campbell Street,Reserve Road Offramp,"In the Sydney area, which road cannot directly reach Reserve Road?",B
+318,Houston Road,Reserve Road,Tay Street,Robertson Place,"In the Sydney area, which road directly reaches Reserve Road Offramp?",B
+319,George Street,Beauty Point Road,Raglan Street,Montague Street,"In the Sydney area, which road directly reaches The Esplanade?",C
+320,Willoughby Road,Tindale Road,Darling Drive,Elizabeth Street,"In the Sydney area, which road cannot directly reach Artarmon Road?",C
+321,Fern Street,Bellevue Road,Rowntree Street,Artarmon Road,"In the Sydney area, which road directly reaches Tindale Road?",D
+322,Fifth Avenue,M8 Motorway Tunnel Onramp,Hickson Road,Douglas Street,"In the Sydney area, which road directly reaches Ninth Avenue?",A
+323,Ninth Avenue,Birriga Road,First Avenue,Foster Street,"In the Sydney area, which road directly reaches Fifth Avenue?",A
+324,Prospect Road,Broughton Street,Cowles Road,Albany Street,"In the Sydney area, which road directly reaches Carlton Crescent?",A
+325,Morrison Road,Victoria Road,Kent Street,Osgathorpe Road,"In the Sydney area, which road cannot directly reach Tennyson Road?",C
+326,Tennyson Road,Wonga Street,Buffalo Road,Ian Parade,"In the Sydney area, which road directly reaches Osgathorpe Road?",A
+327,Ryde Road,Blaxland Road,Military Road,Euston Road Offramp,"In the Sydney area, which road directly reaches Melville Street?",B
+328,Day Street,Buffalo Road,Blaxland Road,Victoria Road,"In the Sydney area, which road cannot directly reach Princes Street?",A
+329,Buffalo Road,Gleeson Avenue,Maddox Street,McEvoy Street,"In the Sydney area, which road directly reaches Cressy Road?",A
+330,Gurner Street,Oxford Street,Railway Road,New South Head Road,"In the Sydney area, which road cannot directly reach Glenmore Road?",C
+331,Queen Street,Athol Wharf Road,Regatta Road,Whiting Beach Road,"In the Sydney area, which road cannot directly reach Bradleys Head Road?",C
+332,River Road,Bradleys Head Road,Botany Road,Alpha Road,"In the Sydney area, which road directly reaches Athol Wharf Road?",B
+333,Queen Street,Victoria Road,Dover Road,Kent Road,"In the Sydney area, which road directly reaches Monash Road?",B
+334,Henderson Road,Dunning Avenue,Fountain Street,Copeland Street,"In the Sydney area, which road cannot directly reach Mitchell Road?",B
+335,Weldon Street,Crane Street,Kurraba Road,Mitchell Road,"In the Sydney area, which road directly reaches Copeland Street?",D
+336,Lang Street,Phillip Street,York Street Offramp,Montague Street,"In the Sydney area, which road cannot directly reach Grosvenor Street?",D
+337,Foster Street,Smythes Street,Lane Cove Road,Grosvenor Street,"In the Sydney area, which road directly reaches York Street Offramp?",D
+338,Tunstall Avenue,Eastern Avenue,Croydon Avenue,Cottenham Avenue,"In the Sydney area, which road cannot directly reach Tresidder Avenue?",C
+339,Cuthill Street,Brook Street Offramp,Walker Street,Wigram Road,"In the Sydney area, which road directly reaches Berry Street?",C
+340,St Johns Road,Burwood Road,Rainbow Street,Bradfield Highway,"In the Sydney area, which road directly reaches Mitchell Street?",B
+341,Anzac Parade,MacPherson Street,Coogee Bay Road,Alison Road,"In the Sydney area, which road cannot directly reach Arden Street?",A
+342,Erskineville Road,Fern Street,Randle Street,Todman Avenue,"In the Sydney area, which road directly reaches Lenthall Street?",D
+343,Tresidder Avenue,College Street,Gardeners Road,Tunstall Avenue,"In the Sydney area, which road cannot directly reach Eastern Avenue?",B
+344,Houston Road,Eastern Avenue,Blaxland Road,Clark Road,"In the Sydney area, which road directly reaches Tunstall Avenue?",B
+345,Old Canterbury Road,Tindale Road,Dunning Avenue,Cleveland Street,"In the Sydney area, which road directly reaches Toothill Street?",A
+346,Harriette Street,Kurraba Road,Military Road,Fore Street,"In the Sydney area, which road cannot directly reach Wycombe Road?",D
+347,Allen Street Offramp,Hewlett Street,Shaw Street,Bannerman Street,"In the Sydney area, which road directly reaches Harriette Street?",D
+348,Ben Boyd Road,Wycombe Road,Clark Road,Alfred Street,"In the Sydney area, which road cannot directly reach Kurraba Road?",D
+349,Alpha Road,Flat Rock Drive,Collins Street,Eastern Valley Way,"In the Sydney area, which road cannot directly reach Sailors Bay Road?",C
+350,Sailors Bay Road,Garfield Street,Lane Cove Tunnel Onramp,Collins Street,"In the Sydney area, which road directly reaches Eastern Valley Way?",A
+351,Ernest Street Exit,Buffalo Road,Lilyfield Road,Miller Street,"In the Sydney area, which road directly reaches Strathallen Avenue?",D
+352,Baptist Street,Mowbray Road,The Strand,Terry Street,"In the Sydney area, which road directly reaches Penshurst Street?",B
+353,Permanent Avenue,Miller Street,Sutherland Street,Mowbray Road,"In the Sydney area, which road directly reaches Archer Street?",D
+354,Bourke Street,Kent Road,Edgecliff Road,McEvoy Street,"In the Sydney area, which road directly reaches Canal Road?",B
+355,Fairlight Street,Bennett Street,McEvoy Street,Clark Road,"In the Sydney area, which road directly reaches Fountain Street?",C
+356,Hall Street,May Street,Glenayr Avenue,Old South Head Road,"In the Sydney area, which road cannot directly reach O'Brien Street?",B
+357,Flat Rock Drive,Albert Street,Victoria Road,Willoughby Road,"In the Sydney area, which road directly reaches Charles Street?",C
+358,Underwood Street,Crystal Street,Wunulla Road,Randle Street,"In the Sydney area, which road directly reaches Brighton Street?",B
+359,Boundary Street,Park Street,Wicks Road,Military Road,"In the Sydney area, which road directly reaches Spofforth Street?",D
+360,Croydon Avenue,Sailors Bay Road,Brighton Avenue,Milton Street,"In the Sydney area, which road cannot directly reach Georges River Road?",B
+361,Potter Street,Georges River Road,Dalmeny Avenue,Addison Road,"In the Sydney area, which road directly reaches Brighton Avenue?",B
+362,Cowles Road,Orchard Road,Holden Street,Bennett Street,"In the Sydney area, which road directly reaches Trevenar Street?",C
+363,Lyons Road,Henley Marine Drive,Pittwater Road,Gordon Street,"In the Sydney area, which road cannot directly reach Thompson Street?",D
+364,Harris Street,Elizabeth Street,Homer Street,Greens Road,"In the Sydney area, which road directly reaches Hartill-Law Avenue?",C
+365,Banks Avenue,William Street,Wardell Road,Bayview Avenue,"In the Sydney area, which road cannot directly reach Homer Street?",A
+366,First Avenue,Day Avenue,York Street,Bellevue Road,"In the Sydney area, which road directly reaches Ingham Avenue?",A
+367,Ramsay Road,Ingham Avenue,Great North Road,Anzac Parade,"In the Sydney area, which road cannot directly reach First Avenue?",D
+368,Johnston Street,Jersey Road,Mowbray Road,Lyons Road,"In the Sydney area, which road cannot directly reach Hampden Road?",A
+369,Hardy Street,Elizabeth Street,Tennyson Road,Henley Marine Drive,"In the Sydney area, which road directly reaches Brent Street?",D
+370,Liverpool Road,Tranmere Street,Victoria Road,Formosa Street,"In the Sydney area, which road cannot directly reach Henley Marine Drive?",A
+371,Swanson Street,Mary Street,Lilyfield Road,Darling Street,"In the Sydney area, which road cannot directly reach Perry Street?",A
+372,Victoria Road Exit,Liverpool Road,Lenthall Street,Cowles Road,"In the Sydney area, which road directly reaches Weldon Street?",B
+373,Holden Street,Tantallon Road,Gladesville Road,Alice Street,"In the Sydney area, which road directly reaches Princess Street?",A
+374,Elizabeth Street,Parramatta Road,Wentworth Avenue,Church Street,"In the Sydney area, which road cannot directly reach Croydon Road?",C
+375,Potter Street,Borrodale Road,Wentworth Park Road,Canterbury Road,"In the Sydney area, which road directly reaches Fore Street?",D
+376,Stanmore Road,Trafalgar Street,Harriette Street,Hargrave Street,"In the Sydney area, which road directly reaches Liberty Street?",A
+377,Wentworth Street,Gannon Street,York Street,Old Canterbury Road,"In the Sydney area, which road directly reaches Prospect Road?",D
+378,Lee Street,Pitt Street,Regent Street,Harris Street,"In the Sydney area, which road cannot directly reach George Street?",D
+379,Pitt Street,Regent Street,George Street,Beauty Point Road,"In the Sydney area, which road cannot directly reach Lee Street?",D
+380,Goulburn Street,Glebe Point Road,Lee Street,George Street,"In the Sydney area, which road cannot directly reach Pitt Street?",B
+381,Moore Park Road,Military Road,Brighton Avenue,Iron Cove Link Tunnel,"In the Sydney area, which road directly reaches Belmont Road?",B
+382,Cowles Road,Penshurst Street,McEvoy Street,Richardsons Crescent,"In the Sydney area, which road directly reaches Avenue Road?",A
+383,Bradleys Head Road,Gipps Street,Belmore Road,Darling Point Road,"In the Sydney area, which road directly reaches Yarranabbe Road?",D
+384,Crown Street,Darling Point Road,Liberty Street,New Beach Road,"In the Sydney area, which road directly reaches Greenoaks Avenue?",B
+385,Abercrombie Street,O'Dea Avenue,City Road,Glebe Point Road,"In the Sydney area, which road cannot directly reach Broadway?",B
+386,Livingstone Road,Curlewis Street,Enmore Road,Shaw Street,"In the Sydney area, which road cannot directly reach Addison Road?",B
+387,Grosvenor Street,Macquarie Street,Sydenham Road,Macquarie Street Offramp,"In the Sydney area, which road cannot directly reach Bridge Street?",C
+388,Westbourne Street,Macquarie Street,Bridge Street,Sir John Young Crescent,"In the Sydney area, which road cannot directly reach Macquarie Street Offramp?",A
+389,Oxford Street,Cahill Expressway,Edgeware Road,Victoria Road,"In the Sydney area, which road directly reaches Robert Street?",D
+390,Quarry Road,St Johns Road,Wattle Street,Bridge Road,"In the Sydney area, which road cannot directly reach Wentworth Park Road?",A
+391,Whiting Beach Road,Anzac Parade Offramp,Armstrong Street,William Street,"In the Sydney area, which road directly reaches Alfred Street?",D
+392,Wairoa Avenue,William Street Exit,Mitchell Street,Old South Head Road,"In the Sydney area, which road cannot directly reach Murriverie Road?",B
+393,Darling Drive,Rainbow Street,Bradfield Highway Onramp,Tranmere Street,"In the Sydney area, which road directly reaches Rawson Avenue?",D
+394,Thompson Street,Duke Street,Albert Street,Yarranabbe Road,"In the Sydney area, which road directly reaches Balfour Road?",B
+395,Boronia Street,Henley Marine Drive,Todman Avenue,Balfour Road,"In the Sydney area, which road cannot directly reach Duke Street?",B
+396,Northwood Road,Gore Hill Freeway,Fountain Street,Penrose Street,"In the Sydney area, which road cannot directly reach Longueville Road?",C
+397,M8 Motorway Tunnel Onramp,Rothschild Avenue,St Pauls Street,Pacific Highway,"In the Sydney area, which road directly reaches Pacific Highway Offramp?",D
+398,Dover Road,Wairoa Avenue,Malvern Avenue,Murriverie Road,"In the Sydney area, which road cannot directly reach Hardy Street?",C
+399,M8 Motorway Tunnel,Willoughby Road,Whiting Beach Road,Foveaux Street,"In the Sydney area, which road directly reaches Willoughby Road Offramp?",B
+400,Mortley Avenue,Towns Road,Erskineville Road,Warners Avenue,"In the Sydney area, which road directly reaches Wilson Street?",C
+401,Stanmore Road,New South Head Road,Addison Road,Llewellyn Street,"In the Sydney area, which road cannot directly reach Enmore Road?",B
+402,Crescent Street,Moore Street,The Strand,Gadigal Avenue,"In the Sydney area, which road directly reaches Potter Street?",D
+403,Bondi Road,Fletcher Street,Illawong Avenue,Meriton Street,"In the Sydney area, which road cannot directly reach Denham Street?",D
+404,Tamarama Street,Fletcher Street,Warringah Freeway,Denham Street,"In the Sydney area, which road cannot directly reach Illawong Avenue?",C
+405,Mowbray Road,Twin Road,High Street,Marion Street,"In the Sydney area, which road directly reaches Goulding Road?",B
+406,Warren Road,Curlewis Street,Goulding Road,Tebbutt Street,"In the Sydney area, which road directly reaches Twin Road?",C
+407,Willoughby Road Offramp,Twin Road,Glenmore Road,Elizabeth Street,"In the Sydney area, which road directly reaches Gurner Street?",C
+408,Church Avenue,Westbourne Street,Milton Street,Cowper Wharf Roadway,"In the Sydney area, which road directly reaches Cowper Wharf Road Offramp?",D
+409,Cowper Wharf Road Offramp,Bradfield Highway Southbound,Sir John Young Crescent,Wylde Street,"In the Sydney area, which road cannot directly reach Cowper Wharf Roadway?",B
+410,Howard Street,Bathurst Street,City West Link Offramp,Park Avenue,"In the Sydney area, which road directly reaches Formosa Street?",D
+411,Darling Drive,O'Riordan Street,Morrison Road,The Esplanade,"In the Sydney area, which road directly reaches Ultimo Road?",A
+412,Oxford Street,Darling Point Road,Bayswater Road,The Esplanade,"In the Sydney area, which road directly reaches New Beach Road?",C
+413,Kings Cross Road,Bayview Avenue,William Street,New South Head Road,"In the Sydney area, which road cannot directly reach Bayswater Road?",B
+414,Buffalo Road,General Bridges Crescent,Warringah Freeway On Ramp,Perouse Road,"In the Sydney area, which road directly reaches Belmore Road?",D
+415,Coogee Bay Road,Crinan Street,Lyons Road,Park Street,"In the Sydney area, which road directly reaches Perouse Road?",A
+416,Oxford Street,Waverley Street,Ebley Street,Park Street,"In the Sydney area, which road cannot directly reach Hollywood Avenue?",D
+417,Cross City Tunnel Onramp,Llewellyn Street,Cleveland Street,Johnston Street,"In the Sydney area, which road directly reaches Chalmers Street?",C
+418,O'Riordan Street,General Bridges Crescent,Cowper Wharf Roadway,Eastern Distributor Offramp,"In the Sydney area, which road directly reaches Ngamuru Avenue?",A
+419,Frederick Street,South Dowling Street,Moore Park Bus Roadway,Bowden Street,"In the Sydney area, which road directly reaches Herbert Street?",A
+420,Permanent Avenue,Victoria Road,Campbell Parade,Bradfield Highway Onramp,"In the Sydney area, which road directly reaches Punt Road?",B
+421,Grosvenor Street,St. James Road,Airport Drive Offramp,Bourke Street,"In the Sydney area, which road directly reaches Fitzroy Street?",D
+422,Bondi Road,Newland Street,Harbour Street,Devlin Street Onramp,"In the Sydney area, which road directly reaches Bennett Street?",A
+423,Lilyfield Road,Lang Road,Kurraba Road,Victoria Road,"In the Sydney area, which road directly reaches Manning Road?",D
+424,New South Head Road,Gadigal avenue,Railway Parade,Moore Street,"In the Sydney area, which road directly reaches Kiaora Road?",A
+425,Wellbank Street,Illawarra Road,Albion Street,New South Head Road,"In the Sydney area, which road directly reaches Wunulla Road?",D
+426,Beauty Point Road,New South Head Road,Railway Parade,Berry Street,"In the Sydney area, which road directly reaches Wolseley Road?",B
+427,New South Head Road,Arden Street,Fairlight Street,Tay Street,"In the Sydney area, which road directly reaches Serpentine Parade?",A
+428,Village High Road,New South Head Road,Vaucluse Road,Bunnerong Road,"In the Sydney area, which road cannot directly reach Hopetoun Avenue?",D
+429,Waverley Street,Ewart Street,Lilyfield Road,Old South Head Road,"In the Sydney area, which road directly reaches Village High Road?",D
+430,Campbell Parade,MacDonald Street,Crinan Street,Monash Road,"In the Sydney area, which road directly reaches Hall Street?",A
+431,Oxford Street,High Street,Wentworth Park Road,Penrose Street,"In the Sydney area, which road directly reaches Greens Road?",A
+432,Anzac Parade,Pyrmont Bridge Road,Balfour Road,Duke Street,"In the Sydney area, which road cannot directly reach Boronia Street?",B
+433,Darling Drive,Albion Street,Alpha Road,Bay Road,"In the Sydney area, which road directly reaches Fern Street?",B
+434,Burwood Road,Spit Road,Errol Flynn Boulevard,Lyons Road West,"In the Sydney area, which road directly reaches Wilga Street?",A
+435,Railway Terrace,Wentworth Street,Bexley Road,New Beach Road,"In the Sydney area, which road directly reaches Jarrett Street?",C
+436,Sussex Street,Glebe Point Road,Clarence Street,York Street,"In the Sydney area, which road cannot directly reach Market Street?",B
+437,Carlton Crescent,Croydon Road,Majors Bay Road,Albany Street,"In the Sydney area, which road directly reaches Wellbank Street?",C
+438,Unwins Bridge Road,Stanley Street,Albert Street,Macquarie Street,"In the Sydney area, which road directly reaches Richardsons Crescent?",A
+439,Minogue Crescent,Majors Bay Road,Harris Road,Wellington Street,"In the Sydney area, which road directly reaches Garfield Street?",C
+440,Coward Street,MacDonald Street,Gardeners Road,Canal Road,"In the Sydney area, which road cannot directly reach Kent Road?",B
+441,Wyndham Street,Missenden Road,Palmer Street,Kent Road,"In the Sydney area, which road directly reaches Gardeners Road Offramp?",D
+442,Old South Head Road,Christie Street,Elizabeth Street,South Dowling Street Exit,"In the Sydney area, which road directly reaches Towns Road?",A
+443,Armstrong Street,Tay Street,Wentworth Park Road,Belmont Road,"In the Sydney area, which road directly reaches St Johns Road?",C
+444,Ernest Street,Bronte Road,Brook Street Offramp,Morrison Road,"In the Sydney area, which road directly reaches Ernest Street Exit?",A
+445,Military Road E-Ramp,Jersey Road,New South Head Road,Fletcher Street,"In the Sydney area, which road directly reaches Vaucluse Road?",C
+446,Bourke Road,Bradleys Head Road,Gardeners Road Onramp,Homer Street,"In the Sydney area, which road directly reaches Bayview Avenue?",D
+447,Sailors Bay Road,Edinburgh Road,MacPherson Street,Mowbray Road,"In the Sydney area, which road cannot directly reach Alpha Road?",C
+448,Alpha Road,Brook Street,Sailors Bay Road,Cathedral Street,"In the Sydney area, which road cannot directly reach Flat Rock Drive?",D
+449,Bathurst Street,Thomas Street,Houston Road,Princes Highway,"In the Sydney area, which road directly reaches Gannon Street?",D
+450,Waverley Street,Old South Head Road,Oatley Road,Arden Street,"In the Sydney area, which road directly reaches Flood Street?",B
+451,Centennial Avenue,Penrose Street,MacDonald Street,Victoria Road,"In the Sydney area, which road cannot directly reach Burns Bay Road?",C
+452,Burns Bay Road,Bellevue Road,Longueville Road,Northwood Road,"In the Sydney area, which road cannot directly reach Penrose Street?",B
+453,New Link Road,Greenwich Road,Bay Road,The Esplanade,"In the Sydney area, which road directly reaches Airport Drive?",A
+454,Airport Drive,Cathedral Street,Gladesville Road,Cowper Street,"In the Sydney area, which road directly reaches New Link Road?",A
+455,City West Link,Moncur Street,Sailors Bay Road,Eastern Avenue,"In the Sydney area, which road directly reaches City West Link Offramp?",A
+456,Moore Street,Military Road E-Ramp,Canterbury Road,New Canterbury Road,"In the Sydney area, which road directly reaches Wonga Street?",C
+457,Warringah Freeway Onramp,Northumberland Avenue,Devonshire Street,Blaxland Road,"In the Sydney area, which road directly reaches North Road?",D
+458,Marrickville Road,Greenoaks Avenue,Pacific Highway,M8 Motorway Tunnel Onramp,"In the Sydney area, which road directly reaches Bay Road?",C
+459,Bayswater Street,Elizabeth Street,South Dowling Street,Balmain Road,"In the Sydney area, which road directly reaches The Strand?",B
+460,William Street Exit,Parramatta Road,Brook Street,Lenthall Street,"In the Sydney area, which road directly reaches Sloane Street?",B
+461,Tindale Road,Warners Avenue,Brown Street,William Street,"In the Sydney area, which road directly reaches Woolcott Street?",D
+462,Longueville Road,Wellington Street,River Road,Penrose Street,"In the Sydney area, which road cannot directly reach Northwood Road?",B
+463,Burns Bay Road,Swanson Street,King Street,Wilson Street,"In the Sydney area, which road cannot directly reach Erskineville Road?",A
+464,William Street,Saint Mary's Road,Sir John Young Crescent,Queens Park Road,"In the Sydney area, which road cannot directly reach Riley Street?",D
+465,Bunnerong Road,North Road,Gardeners Road,Banks Avenue,"In the Sydney area, which road cannot directly reach General Bridges Crescent?",B
+466,Wentworth Park Road,Albany Street,Smythes Street,General Bridges Crescent,"In the Sydney area, which road directly reaches Banks Avenue?",D
+467,Tennyson Road,Berry Street,Bowden Street,Anzac Parade,"In the Sydney area, which road directly reaches Borrodale Road?",D
+468,Chandos Street,Brook Street Offramp,Flat Rock Drive,Malvern Avenue,"In the Sydney area, which road cannot directly reach Brook Street?",D
+469,Frederick Street,Moore Park Bus Roadway,Wardell Road,Link Road,"In the Sydney area, which road directly reaches Ian Parade?",A
+470,Grosvenor Street,Wonga Street,John Street,Beattie Street,"In the Sydney area, which road directly reaches Lang Street?",A
+471,Artarmon Road,Sussex Street,Douglas Street,Marrickville Road,"In the Sydney area, which road directly reaches King Street Offramp?",B
+472,Bayview Avenue,Western Distributor,South Dowling Street,Motorway Tunnel,"In the Sydney area, which road directly reaches Druitt Street?",B
+473,Holden Street,Robertson Place,Serpentine Parade,Pyrmont Bridge Road,"In the Sydney area, which road directly reaches Fifth Street?",A
+474,Sloane Street,Westbourne Street,M4 East Tunnel,York Street,"In the Sydney area, which road directly reaches Bayswater Street?",B
+475,Avoca Street,Miller Street,Westbourne Street,Ultimo Road,"In the Sydney area, which road directly reaches Marlborough Street?",C
+476,Dalmeny Avenue,Victoria Road,Marlborough Street,Bayswater Street,"In the Sydney area, which road cannot directly reach Westbourne Street?",A
+477,Elizabeth Street,Wigram Road,Buckley Street,Railway Terrace,"In the Sydney area, which road directly reaches Redfern Street?",A
+478,Livingstone Road,Ewart Street,Warren Road,Brent Street,"In the Sydney area, which road cannot directly reach Beauchamp Street?",D
+479,Croydon Avenue,Edgeware Road,Barcom Avenue,Lang Road,"In the Sydney area, which road directly reaches Errol Flynn Boulevard?",D
+480,William Street,Sir John Young Crescent,Cathedral Street,Banks Avenue,"In the Sydney area, which road cannot directly reach Palmer Street?",D
+481,Harris Street,Renwick Street,William Henry Street,O'Sullivan Road,"In the Sydney area, which road directly reaches Allen Street Offramp?",A
+482,City West Link,Minogue Crescent,Sydney Harbour Tunnel Northbound,Victoria Road,"In the Sydney area, which road cannot directly reach The Crescent?",C
+483,Hewlett Street,Epping Road,Weldon Street,Blaxland Road,"In the Sydney area, which road directly reaches Blaxland Road Exit?",D
+484,Henley Marine Drive,Gladesville Road,Bennett Street,Gardeners Road Offramp,"In the Sydney area, which road directly reaches Renwick Street?",A
+485,Renwick Street,Foster Street,New South Head Road,Hargrave Street,"In the Sydney area, which road directly reaches Cary Street?",A
+486,Chandos Street,Towns Road,Bradfield Highway Onramp,Bland Street,"In the Sydney area, which road directly reaches Brook Street Offramp?",A
+487,Avoca Street,Gordon Street,Enmore Road,Allen Street Offramp,"In the Sydney area, which road directly reaches Cuthill Street?",A
+488,Copeland Street,Alfred Street,Railway Parade,Erskineville Road,"In the Sydney area, which road cannot directly reach Swanson Street?",B
+489,Bayswater Road,Cowper Street,William Street,Howard Street,"In the Sydney area, which road directly reaches Boomerang Place?",C
+490,Salisbury Road,Lilyfield Road,Clovelly Road,Willoughby Road,"In the Sydney area, which road directly reaches Donnellan Circuit?",C
+491,Willoughby Road Offramp,Harriette Street,Hollywood Avenue,High Street,"In the Sydney area, which road directly reaches Clark Road?",D
+492,Fifth Street,Oxford Street,Lenthall Street,Park Avenue,"In the Sydney area, which road directly reaches Oatley Road?",B
+493,Johnston Street,Sailors Bay Road,Campbell Street,Oxford Street,"In the Sydney area, which road directly reaches Underwood Street?",D
+494,Brent Street,Anzac Parade Offramp,Falcon Street,College Street,"In the Sydney area, which road directly reaches Military Road E-Ramp?",C
+495,Railway Parade,Marrickville Road,Eastern Avenue,Sydenham Road,"In the Sydney area, which road cannot directly reach Buckley Street?",C
+496,Timbrell Drive,Warners Avenue,Yarranabbe Road,Formosa Street,"In the Sydney area, which road directly reaches Park Avenue?",D
+497,William Street Exit,Wentworth Street,Melville Street,Fig Street,"In the Sydney area, which road directly reaches Cathedral Street?",A
+498,Thompson Street,Buckley Street,Addison Road,Cathedral Street,"In the Sydney area, which road directly reaches William Street Exit?",D
+499,Oxford Street,Pyrmont Bridge Road,Devlin Street Onramp,Lane Cove Road,"In the Sydney area, which road directly reaches Shadforth Street?",A
+500,Bay Street,Prince Albert Street,Stanley Street,The Crescent,"In the Sydney area, which road directly reaches Beauty Point Road?",A
+501,Falcon Street,The Crescent,Tresidder Avenue,Albert Street,"In the Sydney area, which road directly reaches Falcon Street Offramp?",A
+502,Market Street,Gadigal Avenue,King Street,Erskine Street,"In the Sydney area, which road cannot directly reach York Street?",B
+503,Macquarie Street Offramp,Addison Road,Yarranabbe Road,William Street,"In the Sydney area, which road directly reaches William Street Offramp?",D
+504,Ninth Avenue,Cross Street,Bourke Street,Eastern Avenue,"In the Sydney area, which road directly reaches John Street?",C
+505,Strathallen Avenue,Western Distributor,Doncaster Avenue,Miller Street,"In the Sydney area, which road directly reaches Miller Street Exit?",D
+506,Victoria Road,Day Avenue,Railway Parade,Dalmeny Avenue,"In the Sydney area, which road directly reaches Meriton Street?",A
+507,Burns Bay Road,McLachlan Avenue,Perry Street,Fifth Street,"In the Sydney area, which road directly reaches Mary Street?",C
+508,Kurraba Road,Church Street,Karool Avenue,Market Street,"In the Sydney area, which road directly reaches Burlington Avenue?",C
+509,Bayswater Road,Burlington Avenue,Thomas Street,Ourimbah Road,"In the Sydney area, which road directly reaches Karool Avenue?",B
+510,Arthur Street,Epping Road,Wattle Street,Lane Cove Road,"In the Sydney area, which road directly reaches Tantallon Road?",B
+511,Twin Road,Monash Road,Dacey Avenue,Robertson Place,"In the Sydney area, which road directly reaches Wicks Road?",A
+512,Norton Street,Gadigal Avenue,William Street,Queen Street,"In the Sydney area, which road directly reaches Armstrong Street?",D
+513,Penrose Street,Burlington Avenue,Victoria Road Offramp,Manning Road,"In the Sydney area, which road directly reaches Permanent Avenue?",B
+514,Botany Street,Harriette Street,Albert Street,James Street,"In the Sydney area, which road directly reaches Bannerman Street?",B
+515,Shaw Street,Spit Road,Southern Cross Drive,Watson Street,"In the Sydney area, which road directly reaches Pearl Bay Avenue?",B
+516,Ross Street,Clarence Street,Gurner Street,Bunnerong Road,"In the Sydney area, which road directly reaches Hargrave Street?",C
+517,Mitchell Road,North Road,Elizabeth Street,Grosvenor Street,"In the Sydney area, which road directly reaches Randle Street?",C
+518,Railway Parade,Military Road,Belgrave Street,Centennial Avenue,"In the Sydney area, which road directly reaches Robertson Place?",B
+519,George Street,Ultimo Road,Gladesville Road,Sussex Street,"In the Sydney area, which road directly reaches Hickson Road?",D
+520,William Street Exit,M4 East Tunnel Onramp,Iron Cove Link Tunnel,Western Distributor Onramp,"In the Sydney area, which road cannot directly reach M4 East Tunnel?",A
+521,M4 East Tunnel,Pyrmont Street,Clarence Street,Fern Street,"In the Sydney area, which road cannot directly reach Western Distributor Onramp?",D
+522,Bradfield Highway Southbound,Western Distributor,Gleeson Avenue,York Street Offramp,"In the Sydney area, which road cannot directly reach Bradfield Highway?",C
+523,Warringah Freeway,Mount Street,Eastern Distributor,Collins Street,"In the Sydney area, which road cannot directly reach Cahill Expressway?",D
+524,Addison Road,Cahill Expressway,Newcastle Street,Duke Street,"In the Sydney area, which road directly reaches Cahill Expressway Onramp?",B
+525,Liverpool Street,Banks Avenue,Western Distributor Onramp,Wattle Street,"In the Sydney area, which road directly reaches Pyrmont Street?",C
+526,Bellevue Road,Sydney Harbour Tunnel Northbound,Warringah Freeway Onramp,Cahill Expressway,"In the Sydney area, which road cannot directly reach Warringah Freeway?",A
+527,Warringah Freeway,Denham Street,Norton Street,Crinan Street,"In the Sydney area, which road directly reaches Warringah Freeway On Ramp?",A
+528,Cahill Expressway,South Dowling Street,Eastern Distributor Onramp,Lavender Street,"In the Sydney area, which road cannot directly reach Eastern Distributor?",D
+529,North Road,Clarence Street,Eastern Distributor Offramp,Western Distributor,"In the Sydney area, which road directly reaches Eastern Distributor Onramp?",C
+530,Penkivil Street,Lane Cove Tunnel,Banksia Road,Link Road,"In the Sydney area, which road directly reaches Southern Cross Drive?",D
+531,York Street Offramp,Cross City Tunnel,Alison Road,Southern Cross Drive,"In the Sydney area, which road directly reaches Link Road?",D
+532,Dalhousie Street,Anzac Parade,Dacey Avenue,Redfern Street,"In the Sydney area, which road directly reaches Anzac Parade Offramp?",B
+533,Gore Hill Freeway,Day Street,Mowbray Road,Moore Park Road Offramp,"In the Sydney area, which road directly reaches Warringah Freeway Onramp?",A
+534,Burton Street,Punt Road,Donnellan Circuit,Baptist Street,"In the Sydney area, which road directly reaches Walker Avenue?",C
+535,Tantallon Road,Pacific Highway,Devlin Street,M2 Hills Motorway,"In the Sydney area, which road directly reaches Lane Cove Tunnel Onramp?",D
+536,Duke Street,High Street,Gordon Street,Lane Cove Tunnel Onramp,"In the Sydney area, which road directly reaches M2 Hills Motorway?",D
+537,Whiting Beach Road,Spofforth Street,Gore Hill Freeway,Oxford Street,"In the Sydney area, which road directly reaches Gore Hill Freeway Onramp?",C
+538,Ewart Street,Lenthall Street,Bathurst Street Offramp,Gore Hill Freeway Onramp,"In the Sydney area, which road directly reaches Lane Cove Tunnel?",D
+539,Spit Road,Kings Cross Road,Trevenar Street,Devlin Street,"In the Sydney area, which road directly reaches Devlin Street Onramp?",D
+540,Blue Street,Eastern Avenue,Cross City Tunnel,Henrietta Street,"In the Sydney area, which road directly reaches Cross City Tunnel Onramp?",C
+541,Wunulla Road,Cross City Tunnel Onramp,Punt Road,Ernest Street Exit,"In the Sydney area, which road directly reaches Cross City Tunnel?",B
+542,Ultimo Road,Fitzroy Street,Gardeners Road,High Street,"In the Sydney area, which road directly reaches Alfred Street Offramp?",D
+543,Military Road,Clarence Street,Military Road E-Ramp,Milton Street,"In the Sydney area, which road directly reaches Tramway Lane?",A
+544,Johnston Street,Bayswater Road,Robertson Place,Bayswater Street,"In the Sydney area, which road directly reaches Kings Cross Road?",B
+545,Old South Head Road,Harris Street,Victoria Road,Trafalgar Street,"In the Sydney area, which road directly reaches Terry Street?",C
+546,Doncaster Avenue,Boundary Street,Knox Street,Pittwater Road,"In the Sydney area, which road directly reaches Barcom Avenue?",B
+547,Broughton Street,Broadway,Link Road,Eastern Distributor Onramp,"In the Sydney area, which road directly reaches Eastern Distributor Offramp?",D
+548,Greenoaks Avenue,South Dowling Street,Rowntree Street,Young Street,"In the Sydney area, which road directly reaches South Dowling Street Exit?",B
+549,Sutherland Street,Church Street,Weldon Street,Bourke Street,"In the Sydney area, which road directly reaches Church Avenue?",D
+550,Cleveland Street,Warringah Freeway,Formosa Street,Crinan Street,"In the Sydney area, which road directly reaches Sydney Harbour Tunnel Northbound?",B
+551,Tramway Lane,Ultimo Road,Military Road,Neild Avenue,"In the Sydney area, which road directly reaches Military Road Exit?",C
+552,Pitt Street,M8 Motorway Tunnel Onramp,Moore Park Road,Foveaux Street,"In the Sydney area, which road directly reaches Moore Park Road Offramp?",C
+553,Airport Drive Offramp,Mitchell Road,Epping Road,Day Avenue,"In the Sydney area, which road directly reaches U-Turn Bay?",C
+554,Toothill Street,Warringah Freeway Onramp,Longueville Road,Gore Hill Freeway Onramp,"In the Sydney area, which road cannot directly reach Gore Hill Freeway?",A
+555,Lavender Street,Anzac Parade,Old Canterbury Road,Pyrmont Street,"In the Sydney area, which road directly reaches Tay Street?",B
+556,Formosa Street,Saint Mary's Road,Miller Street,Bradfield Highway,"In the Sydney area, which road directly reaches Bradfield Highway Southbound?",D
+557,Tennyson Road,M4 East Tunnel,Hartill-Law Avenue,Cowper Street,"In the Sydney area, which road directly reaches M4 East Tunnel Onramp?",B
+558,Berry Street,Chalmers Street,Wattle Street,Railway Parade,"In the Sydney area, which road directly reaches Wattle Street Offramp?",C
+559,Ewart Street,Erskineville Road,Airport Drive,O'Brien Street,"In the Sydney area, which road directly reaches Airport Drive Offramp?",C
+560,Bellevue Road,Qantas Drive Offramp,West Street,Gadigal Avenue,"In the Sydney area, which road directly reaches Qantas Drive?",B
+561,May Street,Robert Street,Sydney Gateway,Bradfield Highway Onramp,"In the Sydney area, which road directly reaches Qantas Drive Offramp?",C
+562,Qantas Drive Offramp,Qantas Drive,Mount Street,Gardeners Road Onramp,"In the Sydney area, which road cannot directly reach Sydney Gateway?",C
+563,M4 East Tunnel Onramp,Euston Road Onramp,Cook Street,Fern Street,"In the Sydney area, which road directly reaches Gardeners Road Onramp?",B
+564,Sydney Gateway,Bourke Road,Newcastle Street,Hewlett Street,"In the Sydney area, which road directly reaches M8 Motorway Tunnel Onramp?",A
+565,Gardeners Road Onramp,Dudley Street,Errol Flynn Boulevard,Dalmeny Avenue,"In the Sydney area, which road directly reaches Euston Road Onramp?",A
+566,Hewlett Street,Broughton Street,First Avenue,M8 Motorway Tunnel,"In the Sydney area, which road directly reaches Motorway Tunnel?",D
+567,Victoria Road,M8 Motorway Tunnel,Reserve Road,M4 East Tunnel,"In the Sydney area, which road cannot directly reach Iron Cove Link Tunnel?",C

@@ -1,0 +1,200 @@
+id,question,answer,A,B,C,D,E
+0,Which POI belongs to type: fuel?,D,高井戸警察署下高井戸交番,ローソン 東日暮里一丁目店,やよい軒,Esso,文京区自転車シェアリング 本郷2丁目駐車場
+1,Which POI belongs to type: park?,B,荒川区立町屋図書館,笹塚二丁目遊び場,サイゼリヤ,かぶら屋,社会福祉法人育和会しいの実保育園
+2,Which POI belongs to type: car_rental?,C,ユジク,亀鶴湯(跡),ニッポンレンタカー,高田どり酒場,BAR MAR
+3,Which POI belongs to type: cafe?,B,Purana Barca,feb‘s coffee & scone,SHimeJi,仲屋製麺所,日本郵便趣味協会
+4,Which POI belongs to type: place_of_worship?,D,一宮メンタルクリニック,てんや,宝泉湯,甲賀稲荷社,ドムス・スタイル八丁堀
+5,Which POI belongs to type: theatre?,C,西神田児童・家庭支援センター,中野富士見町自転車駐車場,花まる学習会王子小劇場,新栄湯(跡),高橋歯科
+6,Which POI belongs to type: fast_food?,E,Gyukatsu motormura,ひよこ調剤薬局,新井歯科医院,博多満月,モーゼスさんのケバブ
+7,Which POI belongs to type: post_office?,E,小諸そば,蛍,お江戸日本橋亭,中央区立日本橋図書館,神田錦町郵便局
+8,Which POI belongs to type: restaurant?,C,墨田区立日進公園,希鳥,鬼太郎寿し,ワッツ,喜多方ラーメン
+9,Which POI belongs to type: parking?,E,星子皮膚科,薬局 くすり箱,高円寺アッカ,パセリ薬局,タイムズ (Times)
+10,Which POI belongs to type: atm?,C,TOKYO β 永福町4,club広島,みずほ銀行,タリーズコーヒー,蘭奢待
+11,Which POI belongs to type: police?,C,サーティワンアイスクリーム,ジョナサン,西新井警察署江北交番,清新町コミュニティ図書館,はせがわ
+12,Which POI belongs to type: bicycle_rental?,C,遊水　藤和園,Uno,ガリシア森下エストゥディオ,駒形駐輪場,富士そば
+13,Which POI belongs to type: public?,A,農畜産業振興機構,錦在宅介護支援センター,味処 克祐,焼肉トラジ,Little Soul Café
+14,Which POI belongs to type: fire_station?,B,日本橋教会,野方消防署大和出張所,カルビや,かっぱ,Abats
+15,Which POI belongs to type: bank?,A,みずほ銀行,太陽食堂,MITTNESS,Tapi,常盤公園（北側）
+16,Which POI belongs to type: school?,D,Spain Bar El Pico,みょうじょう幼稚園,赤塚幼稚園,SEG,イーグルカフェ
+17,Which POI belongs to type: townhall?,B,Birdie,本駒込地域活動センター,明治座,東京神楽坂組合稽古場,愛心整骨院
+18,Which POI belongs to type: veterinary?,B,鮨やすだ,ひまわり動物病院,Tsukasa,gravino,星乃珈琲店
+19,Which POI belongs to type: public_bath?,B,Sin Rumbo,三筋湯,エニタイムフィットネス,魚がし日本一,セブンイレブン 東堀切3丁目店
+20,Which POI belongs to type: hospital?,A,東京都健康長寿医療センター,chocoZAP,たかしろ,KI・CHI・RI,三宿薬局
+21,Which POI belongs to type: toilets?,B,ガスト,田原公園 トイレ,HIROKI 廣島燒,樫の木,江戸蕎麦　香名屋
+22,Which POI belongs to type: playground?,A,墨田区立若宮公園,亀井歯科クリニック,Denny's,バル デ エスパーニャ ムイ,らーめん金椋
+23,Which POI belongs to type: library?,C,白河手打ちラーメン アサガキタ,セブンイレブン 板橋前野町6丁目店,国際こども図書館,ファミリーマート 南千住一丁目店,Suji's
+24,Which POI belongs to type: dentist?,D,北海道,Honey's bar,新東方,たけだ歯科医院,Ambra
+25,Which POI belongs to type: university?,C,拉麺アイオイ,ニッポンレンタカー,日本大学（経済学部）,エネオス,龍祥軒
+26,Which POI belongs to type: bar?,B,セブン-イレブン江東木場３丁目店,パノラマ,温野菜,"La viña, 月島 ラヴィーニャ",Le Petit Tonneau
+27,Which POI belongs to type: pub?,D,ゆで太郎,葛飾荘,松が谷保育園,焼鳥なべちゃん,スナック花
+28,Which POI belongs to type: pharmacy?,A,トモズ,つぼみ,三軒茶屋1丁目駐輪場,ジーエス,Lemon
+29,Which POI belongs to type: doctors?,A,グリーンコート内科クリニック,都立家政北自転車駐車場,赤坂中華わんたん亭,青山いきいきプラザ,Haco Cafe
+30,Which POI belongs to type: clinic?,A,王子クリニック,サブウェイ,ゆで太郎,山内農場,モダン和食Nagai
+31,Which POI belongs to type: community_centre?,C,からあげ本舗 マルカ商店,インターネットカフェ ピエロ,大和西児童館,満留賀,Yuhido
+32,Which POI belongs to type: residential?,D,ドン・キホーテ青戸店,龍祥軒,早稲田育英ゼミナール,レジデンスバイカウンテス,マクドナルド
+33,Which POI belongs to type: public_building?,A,関東農政局東京農政事務所統計部,Cheese Dish Factory,我歩,フランシスコヴィラ,Nakameguro Crossover
+34,Which POI belongs to type: arts_centre?,D,江戸川橋Ｂ自転車駐車場,日産レンタカー,とらふぐ亭,像造,荒井歯科医院
+35,Which POI belongs to type: kindergarten?,C,栃木屋,あけぼの,三島幼稚園,讃岐うどん,Blue Bottle Coffee
+36,Which POI belongs to type: sports_centre?,B,やよい軒,純正館 (剣道教室),SacreeFleur,晴海五丁目船着場,味仙
+37,Which POI belongs to type: cinema?,A,Cinemarise,自動車事故対策機構東京主管支所,上練馬公園,HANOK,紅豆
+38,Which POI belongs to type: business_park?,A,世田谷ビジネススクエア (Setagaya Business Square),タイムズ,大黒家,三幸園,安樂寺
+39,Which POI belongs to type: drinking_water?,B,スターバックス,水飲み場,シディーク,信濃,タイ料理研究所
+40,Which POI belongs to type: studio?,D,足立椿郵便局,プラザ駐車場,ひまわり薬局,アート企画萌,独立行政法人 地域医療機能推進機構 東京新宿メディカルセンター
+41,Which POI belongs to type: ferry_terminal?,C,野方東整理区画,楽々亭,ウォーターズ竹芝前,きたむら,クスリのアサヒ
+42,Which POI belongs to type: bowling_alley?,D,かもん,赤べこ,海鮮たこ焼Bar,四つ木イーグルボウル,東京成徳大学中学・高等学校
+43,Which POI belongs to type: college?,E,Wisky & Wine Bar,LITTLE SHEEP,D-Parking,源光寺,法政大学（国際文化学部）
+44,Which POI belongs to type: bicycle_parking?,D,かつや,Aronia de Takazawa,田まる,駒形駐輪場,高輪警察署白金三光町交番
+45,Which POI belongs to type: childcare?,C,みずほ銀行,高井戸警察署 宗源寺前交番,なーすりーひろば,LAXMI,Messe
+46,Which POI belongs to type: nursing_home?,E,綾瀬メンタルクリニック,ローソン 千住桜木一丁目店,龍蔵,Yakiniku Stadium Jan Ikebukuro East Entrance,特別養護老人ホーム 飛鳥晴山苑
+47,Which POI belongs to type: photo_booth?,C,やきとり まる一,花園湯(廃業),プレミアム美肌仕上げ,江南住区センター,飯沼病院
+48,Which POI belongs to type: post_box?,E,やきとり 神ちゃん,巣山歯科,楊銘宇 黄燜鶏米飯,COCOROTUS FOODTRUCK【ココロータス骨董通り店】,郵便ポスト
+49,Which POI belongs to type: amusement_arcade?,C,和食さと,中新井川児童遊園,タイトーステーション,江東永代郵便局,Break24h
+50,Which POI belongs to type: ice_cream?,C,NTTコミュニケーションズ唐ヶ崎ビル,美香亭,サーティワンアイスクリーム,モスバーガー,NO7 Poke n Roll
+51,Which POI belongs to type: grave_yard?,C,立ち飲み　いこい,二八そば やなぎ屋,牧野富太郎墓,向島警察署曳舟交番,一発逆転
+52,Which POI belongs to type: bus_station?,D,フラ教室,理数系専門塾エルカミノ,Frangiane,東京駅八重洲北口鉄鋼ビル,池尻大橋東口
+53,Which POI belongs to type: food_court?,C,宇田川湯,阿里山,Food & Time,杉並幼稚園,ゆうちょ銀行
+54,Which POI belongs to type: parking_entrance?,B,Hashiwaya,東入口,カラペティバトゥバ !,Hub,パーラーディオス 下赤塚本店
+55,Which POI belongs to type: swimming_pool?,C,エニタイムフィットネス,盛り盛り東京,すみだスポーツ健康センター,鶏ジロー,居酒屋だるま
+56,Which POI belongs to type: gambling?,C,渋谷警察署常磐松交番,麹町幼稚園,KO-SHIN,豪徳寺デンタルクリニック,FRESHNESS BURGER
+57,Which POI belongs to type: biergarten?,D,アサヒトラスト リハビリセンター荒川,明かり富士,天七,Vector Beer,せんぞくデイホーム
+58,Which POI belongs to type: sento?,C,葛飾警察署 四ツ木交番,楚々,三越湯,nijumaru,武蔵野栄養専門学校
+59,Which POI belongs to type: karaoke_box?,D,西新宿四郵便局,日本テレビ放送網,代々木中部協会,カラオケ館,とらふぐ亭
+60,Which POI belongs to type: love_hotel?,E,カナピナ,一球酒場,西新宿ことぶき館,志茂1丁目,Hotel Zero
+61,Which POI belongs to type: social_facility?,C,大和龍,ジンジャーグラス,白金台いきいきプラザ,彩色亭,ひとぼし
+62,Which POI belongs to type: government?,B,串カツ田中 東武練馬店,裁判官弾劾裁判所,日暮里動物病院,武道家 賢斗,ミスタードーナツ
+63,Which POI belongs to type: research_institute?,E,精神障害者地域生活支援センター,東入口,Vital Gym 24,C&Cカレー,難治疾患研究所
+64,Which POI belongs to type: courthouse?,D,宮内デンタルクリニック,ドエル,美倉橋北児童遊園,東京家庭裁判所;東京地方裁判所東京簡易裁判所;公安審査委員会;公正取引委員会,東方見聞録
+65,Which POI belongs to type: service?,E,SUPER SEVEN,グリーンコート内科クリニック,こころおちゃのみず第一保育園,高橋,東京地下鉄株式会社
+66,Which POI belongs to type: garden?,D,中田耳鼻咽喉科,葛飾亀有二郵便局,BAR-PSY-TOKYO,PARTY AREA(LOVE KINGDOM),九州藩
+67,Which POI belongs to type: kindergarten?,C,華屋与兵衛 駒沢公園店,エネオス,ヤクルト保育園,KIPTO,SPROUT Café さくら坂
+68,Which POI belongs to type: community_centre;social_facility?,E,私立駒場東邦中学校,日乃屋カレー,金嶺寺,高輪地区総合支所(5F),高輪児童館;高輪福祉会館
+69,Which POI belongs to type: military?,E,Koshiba Hall,桜田医院,Kirin City Restaurant,上海亭,航空自衛隊補給本部;海上自衛隊補給本部
+70,Which POI belongs to type: fitness_centre?,E,ルノアール,東北餃子房,玉の湯(休業),新左門児童遊園,FASTGYM24
+71,Which POI belongs to type: nightclub?,C,オアシスakiba,司法試験委員会,Odeon Tokyo,松屋,カフェ・ド・フレグランス
+72,Which POI belongs to type: fishing?,B,WONDER PARLOR,半田丸,おざわ,一龍,ねぎし
+73,Which POI belongs to type: apartments?,E,Bar Pon,ココカラファイン,牛しゃぶ　ますだや,あらかわ歯科,レジデンスやまと
+74,Which POI belongs to type: karaoke?,B,Natural muscle,かぐら,フレンド,Délifrance,鳥ジロー
+75,Which POI belongs to type: taxi?,C,モスバーガーモスカフェイ,青木輪業,恵比寿駅西口タクシー乗り場,豊洲交通広場　東,スギ薬局
+76,Which POI belongs to type: parking_space?,E,絶味鴨頚王,マツモトキヨシ,スギ薬局,一新亭,GSPark
+77,Which POI belongs to type: social_facility;community_centre?,B,東京信用金庫,北区立障害者福祉センター;十条台児童館;十条台ふれあい館,焼肉フジ,興本保育園,ＩＢＭ箱崎ビル内郵便局
+78,Which POI belongs to type: vacant?,E,板谷歯科医院,木曽路,Coins bar,リパーク浅草3丁目第9,マクドナルド
+79,Which POI belongs to type: brothel?,E,世田谷梅丘郵便局,すき家,ラーメン凪,博多とりかわ長政,ハピネス東京
+80,Which POI belongs to type: dance?,D,とろ肉麺,麦ノ音,ダンス・カラオケ レモングラス,小林紀子バレエ・シアター,立石動物病院
+81,Which POI belongs to type: prep_school?,C,サニー,九段下 洋々亭,ビザビ,もつやき新潟屋,練馬警察署富士見台駅前交番
+82,Which POI belongs to type: language_school?,A,English Village 五反田校,天野歯科,南千住警察署 南千住一丁目交番,本郷一郵便局,旭薬局
+83,Which POI belongs to type: adult_gaming_centre?,D,Pokapoka,つぼみ家,アナログ渋谷,D STATION,東京和茶房
+84,Which POI belongs to type: karaoke?,E,やまぐち歯科医院,栃木屋,南阿佐ヶ谷薬局,郵便ポスト,ワンカラ
+85,Which POI belongs to type: car_wash?,B,町屋 安全・安心 ステーション,オートクリーンプラザ奥戸,緒駕多,千代田区役所,ピーズスタジオ
+86,Which POI belongs to type: vending_machine?,E,メーヤウ,小鉢屋,渡来,孫ちゃん上海焼き小籠包,コカ・コーラ
+87,Which POI belongs to type: retail?,C,相田医院,東京AUTO洗車,リサイクルショップ ル・マン,厳島社,みとや専用駐車場
+88,Which POI belongs to type: marina?,E,HARUMI FLAG PARK VILLAGE,田中耳鼻咽喉科,手洗所,のびのび共同作業所大地,Oshinari Pier
+89,Which POI belongs to type: conference_centre?,D,Lion Curry,国松,SNACKウェルス,ベルサール六本木,魚き食堂
+90,Which POI belongs to type: telephone?,E,麻布警察署六本木交番,ゆるりや,ドトールコーヒーショップ,くすりの福太郎,電話
+91,Which POI belongs to type: clock?,E,南ばん亭,えんまや,中央防災会議幹事会;環境省;社会保険庁;厚生労働省,滝野川西保育園,時計塔
+92,Which POI belongs to type: recycling?,A,発泡トレイサンクルポスト,目白警察署長崎交番,日蓮宗 妙経寺,豊洲駅地下駐車場,救世軍自助館
+93,Which POI belongs to type: marketplace?,C,長寿庵,第一勧業信用組合,麒麟堂,お台場海浜公園東,ワンカラ
+94,Which POI belongs to type: delivery_office?,A,ヤマト運輸,CoCo壱番屋,HARUMI FLAG SEA VILLAGE,中野駅南歯科クリニック,ドトールコーヒーショップ
+95,Which POI belongs to type: bathhouse?,C,晩杯屋,萬福飯店,ときわ湯,カネカ湯(跡),PRONTO
+96,Which POI belongs to type: motorcycle_parking?,E,慶應義塾前郵便局,キャナリー,Brasserie St Bernardus,hossimo,Ecolo Bike Parking
+97,Which POI belongs to type: office?,E,明光義塾,商工組合中央金庫新木場支店,エクサインターナショナル,OY STA,吉岡水道設備
+98,Which POI belongs to type: industrial?,C,糀屋氷川神社,大衆割烹あそう,恩田精機,三菱UFJ銀行,日下医院
+99,Which POI belongs to type: commercial?,C,Gratte Ciel,TFCアーバンフォート北,DAIWA築地616ビル,聖母ホーム在宅介護支援センター,亀有中央病院
+100,Which POI belongs to type: sauna?,A,第二富士の湯,三菱UFJ銀行,たじま歯科クリニック,お台場海浜公園駅,竜と蕉
+101,Which POI belongs to type: house?,C,Ara Dental Office,ダンダダン,くもん小菅教室,ニチレイフーズ,ANCORA
+102,Which POI belongs to type: hangar?,D,モスバーガー,菜食健美,イムス記念病院,ミヨシ油脂,牛角
+103,Which POI belongs to type: private_school?,B,東京理科大学,堀学,アタル,エホバの証人の東京玉川会衆,笹塚幼稚園
+104,Which POI belongs to type: pachinco?,B,多恋人新宿店,Ippuku,大和西児童館,メッセ 高円寺店(1),小島医院
+105,Which POI belongs to type: dog_park?,E,FUJICAFE,美咲,ココカラファイン,Vino daily stand,ペットパーキング
+106,Which POI belongs to type: events_venue?,D,串カツ田中,Stellar garden,パーク王,秋葉原エンタス,墨田中央病院
+107,Which POI belongs to type: bbq?,A,デイキャンプ,寶昌寺,Ghungroo,けんけんラーメン,青春キンパ
+108,Which POI belongs to type: bench?,C,こまきしょくどう -鎌倉不識庵,マルハン 鹿浜店(2),グッドフレンズベンチ,くらら,海鮮名菜 香宮
+109,Which POI belongs to type: training?,E,赤坂クリニック,マクシヴァン,ファミリーマート 坂下一丁目店,康保会診療所,音ラク空間
+110,Which POI belongs to type: community_centre;theatre?,E,楽,マツモトキヨシ,NEW TYPE,みすずクリニック,赤羽会館
+111,Which POI belongs to type: waste_basket?,B,Shushi dai,ゴミ箱,早稲田南町保育園,広尾湯,築地食堂源ちゃん
+112,Which POI belongs to type: baby_care?,C,炭火やき鳥 しんのや,Blanche,三越銀座店 9階 親子休憩室,真土小思い出広場,タイ 王国 ラーメン
+113,Which POI belongs to type: nursing_room?,A,三越銀座店 9階 授乳室,社会就労センタープロデュース道,天下一品,ごえん,要町駅路上自転車駐車場
+114,Which POI belongs to type: dormitory?,E,油そば専門店 ずずず,SUNちゃんパーク西五反田,浅草橋郵便局,すき家,昭和大学豊洲寮
+115,Which POI belongs to type: retail?,D,区立桐ヶ丘ふれあい館,板橋警察署 板橋本町交番,八吉,関根クリーニング商会,築地銀だこ
+116,Which POI belongs to type: smoking_area?,A,無料喫煙所,スバル歯科クリニック,ORIGIN,富士薬局,一会
+117,Which POI belongs to type: industrial?,E,みずほ信託銀行,ステーキハウス,"カフェ,ド,フロール",新宿成子坂愛育園,ヒミツキチオブスクラップ
+118,Which POI belongs to type: hotel?,E,鶏闘士,第二松倉荘跡地,日高屋,居酒屋やまや,天然温泉 凌雲の湯 御宿 野乃 浅草
+119,Which POI belongs to type: dojo?,B,香港亭,跡部柔道場,銭湯 まえだ湯,エニタイムフィットネス,葛飾厚生会東立病院
+120,Which POI belongs to type: bureau_de_change?,C,かつらファミリー歯科,もんじゃ だるま,大黒屋,バルボラ マリンブルー,タイムズカーシェア
+121,Which POI belongs to type: charging_station?,D,月の雫,朝日信用金庫,たかしん薬局,EV充電スポット,Guppy
+122,Which POI belongs to type: cargo?,B,すき家,佐川急便,下板橋第2自転車駐車場,地鶏のすみ家,くろかん
+123,Which POI belongs to type: music_venue?,C,お台場海浜公園船着場,天王洲公園,原宿ストロボカフェ,博多満月,佼成図書館
+124,Which POI belongs to type: coworking_space?,A,パセラのコワーク,セブン銀行,杉並消防署,神谷町駅前歯科,産後ケアセンター桜新町
+125,Which POI belongs to type: music_school?,E,スギ薬局,ラーメン鷹の目,バンセーン アロイチンチン,シビックランド日成,ヤマハ音楽教室
+126,Which POI belongs to type: social_centre?,E,サイゼリヤ,もしもし公園,城北信用金庫,日高屋,がんばれ・子供村
+127,Which POI belongs to type: roof?,C,三井住友銀行,成増駅南口自転車駐車場,演繹観,紅,善通寺
+128,Which POI belongs to type: pitch?,D,月島児童館,カフェ・ド・クリエ,バー ハイ・ファイブ,スケートボードパーク,ぱぱす
+129,Which POI belongs to type: fountain?,E,定食 湖洲,東京海洋大学（海洋工学部）,藤林歯科医院,丸の内警察署日比谷公園前交番,創造の泉
+130,Which POI belongs to type: waste_disposal?,E,プラザ薬局,龍慶寺,小尾羊,タリーズコーヒー,極真カラテ 下北沢堂場
+131,Which POI belongs to type: residential?,E,大黒屋,竹乃,田中,葛飾やまびこ幼稚園,桜上水ガーデンズ
+132,Which POI belongs to type: school?,D,ラーメン豚山,iBrew,かみの屋,東京すし和食調理専門学校,円徳寺
+133,Which POI belongs to type: ice_rink?,B,Chop,明治神宮外苑アイススケート場,利華,時計,蓬莱湯(廃業)
+134,Which POI belongs to type: s?,C,メンバーズ紗和,おすし 奴,高岩寺信徒会館,かつ源,三井のリパーク
+135,Which POI belongs to type: bell?,C,カフェ・ベローチェ,板橋清水郵便局,自由の鐘,東京歯科大学 水道橋校舎新館,寿司バル R/Q
+136,Which POI belongs to type: commercial?,D,名酒センター,Isshoku (一食),もくち,王子住宅公園,鈴木眼科
+137,Which POI belongs to type: stripclub?,D,下北沢第二,警視庁第八機動隊,石庫門,ヌード劇場 シアター上野,スターバックス
+138,Which POI belongs to type: car_sharing?,E,葛飾学園,大谷口保育園,みゆき歯科クリニック,七社神社,タイムズカープラス 板橋オーキッドコートステーション
+139,Which POI belongs to type: bicycle_repair_station?,E,ガンバラネBAR,どうら＞き,マクドナルド,セブンイレブン江東亀戸7丁目東店,黒木サイクル商会
+140,Which POI belongs to type: driving_school?,B,花唄,平和橋自動車学校,L'ami et L'amour,いちらん,なか卯
+141,Which POI belongs to type: farmland?,C,東京しごとセンター,KOMENUCAFÉ,アーバンエコファーム,あじさい茶屋,板橋区立ゆりの木保育園
+142,Which POI belongs to type: hookah_lounge?,A,Shisha,オシダ眼科クリニック,清水とき・きものアカデミア,コカ・コーラ,2D Cafe
+143,Which POI belongs to type: hackerspace?,E,やさしい手,大原皮膚泌尿器科,エンジェルドロップス,芝公園,Tokyo Hackerspace
+144,Which POI belongs to type: waste_transfer_station?,D,菊,東京ベイ潮見プリンスホテル,サピアタワーアイクリニック東京,杉並清掃事務所方南支所,スナックひげ
+145,Which POI belongs to type: animal_boarding?,D,グッドフレンズベンチ,齋藤皮フ科,博多うどん よかよか,幸せのしっぽ,クラブ シフォン
+146,Which POI belongs to type: board_games?,A,ボードゲーム & 麻雀 上野上さま,朝日稲荷神社,目白第二保育園,内野醫院,南千住こどもクリニック
+147,Which POI belongs to type: go?,C,カピ,Yona Yona Beer Works,湯島囲碁喫茶,ワイン居酒屋2538,黄桃
+148,Which POI belongs to type: internet_cafe?,C,湯浅,ぽんた,ネットルーム,狸太,酒とさか菜
+149,Which POI belongs to type: shower?,D,ANGOLO,浅草橋郵便局,味楽,久の湯,ゆで太郎
+150,Which POI belongs to type: golf_course?,B,iBrew,GOLFERS24　日本橋馬喰町店,リスト・ハンガリー文化センター東京,今井歯科医院,BISRROT
+151,Which POI belongs to type: support_center?,D,Caldo,Lapin,大戸屋,ソニーサービスステーション,魚伸
+152,Which POI belongs to type: apartment?,B,忍岡こども園 学び舎,湯島ハイタウン,竹の湯,大崎駅前郵便局,青葉台四丁目街かど公園
+153,Which POI belongs to type: 3?,D,広州市場,美少女パブ セータームーン,ケンタッキーフライドチキン,ガルニ,うどん
+154,Which POI belongs to type: 5?,E,サイゼリヤ,音楽館,鶏ジロー,昌平幼稚園,プロースト東京
+155,Which POI belongs to type: mahjong?,D,グラントウキョウサウスタワー駐車場,竹やぶ,FASTGYM24,麻雀 綾,押上2丁目線路沿い
+156,Which POI belongs to type: darts?,C,アリーナ ヴィーノ トラットリア,川南幼稚園,バグース,東雲駅自転車駐車場,吉野家
+157,Which POI belongs to type: gallery?,E,エクセルシオール カフェ,オリジン弁当,キリンビバレッジ,ボルダリングジム,画廊 成田光房
+158,Which POI belongs to type: bar;cafe?,D,ディアレイシャス両国,ぽかぽかランド;鷹番の湯,新富郵便局,AKIBA BASE,東北寺
+159,Which POI belongs to type: shogi?,D,渋谷区ケアハウスせせらぎ,マツモトキヨシ,千駄木寿会館,御徒町将棋センター,うぃず千住大橋駅前保育園
+160,Which POI belongs to type: warehouse?,E,Gyu Katsu Motomura,蹄,東京恩惠敎会,千駄ヶ谷日本語教育研究所附属日本語学校（第３校舎）,城東消防団第2分団 防災資機材格納庫
+161,Which POI belongs to type: brothal?,E,東京電力パワーグリッド 大塚事務所,ノーバス,うまいものや籠や,勉強カフェ,ニューグランド
+162,Which POI belongs to type: shelter?,A,Perry Field Gazebo,ミズホ薬品,及川歯科医院,生駒,東京女子医科大学東医療センター
+163,Which POI belongs to type: 2?,D,スターバックス,サンドラッグ,Satreat Gym,アートプロモーション,すためし
+164,Which POI belongs to type: 1?,A,内藤研磨,Repark,用心棒,筑前屋,ソラスト台東
+165,Which POI belongs to type: Vacant places?,D,中華大八元,BAR Ktrain,chottobar,下谷警察署仮庁舎跡地,エネオス
+166,Which POI belongs to type: boat_rental?,C,香港屋,富士見台駅前郵便局,屋形船山田屋,ワイン食堂イナセヤキッチン,Mother earth
+167,Which POI belongs to type: board_game?,C,東十条南口 自転車駐車場,なか卯,THIRD PLACE,ジョイフィット,中野警察署東中野駅前交番
+168,Which POI belongs to type: public_bookcase?,A,音楽ライブラリー,大栄パーク西落合１丁目,東京サンケイビル,Himalaya curry,とんかつ三太
+169,Which POI belongs to type: lost_property_office?,D,成子子育地蔵,ばん麺,しゅうずかん,Lost and Found - Tokyo Metro,モノボックス北砂
+170,Which POI belongs to type: e-cigarette?,C,サントリー,東京海洋大学（海洋科学部）,IQOS,門前仲町第二自転車駐車場,大畑公衆便所
+171,Which POI belongs to type: planetarium?,B,おかめ湯,まるちたいけんドーム,麻布運動場,加賀屋,TSURUICHI
+172,Which POI belongs to type: juice_bar?,D,中村耳鼻科,北区立文化センター図書館,Cocofuku,HONEY'S BAR,焼き鳥 清志郎
+173,Which POI belongs to type: gambling?,B,マグロマート,P ARK,ガールズバー ロエル,さくらさくみらい 東陽二丁目,SUPER FREAK
+174,Which POI belongs to type: railway?,D,はあとらんど薬局,レインボーブリッジ板橋ケアセンター,梅田児童館,東京メトロ中野検修場,サブウェイ
+175,Which POI belongs to type: crematorium?,A,四ツ木斎場,from scratch,愛染院,D-Pocket,身障者乗降場
+176,Which POI belongs to type: parcel_locker?,A,Amazon Hub ロッカー - さんごいろ,飯沼病院,ポッカサッポロ,上等カレー,末廣
+177,Which POI belongs to type: water_point?,B,さとう歯科医院,災害時給水ステーション,法問寺,タリーズコーヒー,今戸自転車保管所
+178,Which POI belongs to type: fitness_station?,B,東京大学（文学部）,加圧トレーニングONE's,ガスト,カフェ・ベローチェ,TSURUICHI
+179,Which POI belongs to type: music?,B,西信寺,スワラサウンドシステム,富士そば,みどり薬局,BAR RS
+180,Which POI belongs to type: escape_game?,C,COCO塾,ののの,東京密室,茶道会館,ととしぐれ
+181,Which POI belongs to type: kick-scooter_rental?,B,SMBC,LUUP,えんまや,富士の湯,リトルハウス
+182,Which POI belongs to type: motorcycle_rental?,E,ビクタースタジオ,Ciel,友,マツモトキヨシ,LUUP
+183,Which POI belongs to type: exhibition_centre?,A,Space,鳥焼しん助,日高屋,Yakiniku Ueno Taishoen,エコステーション２１
+184,Which POI belongs to type: luggage_locker?,C,村田医院,うな富士,フジコインロッカー,MOCO,小石川3丁目緑地
+185,Which POI belongs to type: shrine?,E,小川行政書士事務所,ニッポンレンタカー,居酒屋けんちゃん,BINO御徒町歯科クリニック,厳島社
+186,Which POI belongs to type: fixme?,C,のびのびひろば,浅草橋郵便局,Bougainvillea Akebonobashi Hotel,足立椿郵便局,中華 みやこ
+187,Which POI belongs to type: office?,A,稲川会,葛飾警察署 平和橋交番,リトルハウス,Takumi,遠藤小児科
+188,Which POI belongs to type: swingerclub?,C,ケンタッキーフライドチキン,シーシャ羽 | Shishabane Cafe & Bar,バックドロップ,神田ふれあい通り第３,板谷公園
+189,Which POI belongs to type: sports_hall?,A,全力ストレッチ,てけてけ,山脇学園短期大学,Spicy bistro Taprobane,Asahi
+190,Which POI belongs to type: dancing_school?,D,羽根木公園,チャーンタイ,三菱東京UFJ銀行京橋支店、京橋中央支店,シーガルダンススタジオ,メディカル新中野
+191,Which POI belongs to type: club?,E,グリーノテラス,清潤会北青山病院,Lattest,神尾記念病院,東京アコーディオン文化クラブ
+192,Which POI belongs to type: psycic?,E,松屋,JOGLIS,随喜稲荷大明神,らんまん食堂,占いハートフル
+193,Which POI belongs to type: ticket_validator?,D,三喜,鳥貴族,IDEMITSU,みどりの窓口,阿里巴巴
+194,Which POI belongs to type: cram_school?,B,RUBIA Tokyo Shibuya Fine-Mexican,SAPIX,気まぐれキッチンISHIBASHI,エクセルシオール カフェ,四合院
+195,Which POI belongs to type: casino?,C,たい焼,鈴木歯科,パチンコグランパ大久保,Kouriou Ramen,松波ラーメン店
+196,Which POI belongs to type: piano?,D,龍馬,こなから本店,西光てい,都庁おもいでピアノ,ふく処 大友
+197,Which POI belongs to type: track?,A,bicycle track for kids,はなまるうどん,きぼう堂薬局,和泉みどりの里,ビアホール　だん家
+198,Which POI belongs to type: funeral_hall?,D,Suzuran,わせがく高等学校 東京キャンパス,有人立体駐車場,江古田斎場,福むら薬局

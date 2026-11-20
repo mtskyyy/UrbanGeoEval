@@ -1,0 +1,90 @@
+,A,B,C,D,answer,E,question
+0,الجوهره للصرافه,صيدلية الاسعاف برمسيس,The Cork Pub,مكتبة دار الطب,D,حدائق الأرمان,Which POI belongs to type: library?
+1,Court of Masr El Gededa,مدرسة عمار بن ياسر,keif,دجاج كنتاكي,B,Falak,Which POI belongs to type: school?
+2,Kapri,مسجد الثورة,NSGB,ogo cafe,E,بنزينه,Which POI belongs to type: fuel?
+3,HSBC,Shawermer,مسجد الكردي,Metro Cinema,C,Mira Dental Center,Which POI belongs to type: place_of_worship?
+4,مجمع الفنون أخناتون,ليزر الرمد,Mr Wok,صيدلية ولاء زيادة,A,أبو ردة,Which POI belongs to type: arts_centre?
+5,مودرن,مستشفى هيئة النقل العام,موبيل,كشري افندينا,A,Frank & Co.,Which POI belongs to type: cinema?
+6,سينما طيبة مول,huff board game cafe,Church of Christ كنيسة المسيح,شركة كهرباء شبرا الخيمة,B,Banque MISR,Which POI belongs to type: cafe?
+7,Dar El Oyun Hospitals,مطلع الدئري من احمد عرابي,كنيسة مار أطنازيوس,البسط,E,مسرح الزمالك,Which POI belongs to type: theatre?
+8,Juice,The COOQ,سوق الليمون,معدية منيل شيحا,D,Pakistani restaurant,Which POI belongs to type: ferry_terminal?
+9,مطلع الدائري من 26 يوليو,Advanced Technical School,Auntie Anne's,صيدلية رشدى,E,Al Gnani Al Demeshqi (Dokki Chillout branch),Which POI belongs to type: restaurant?
+10,La Casetta,موبيل,عيادة السكر و عيادة الغدد و عيادة السمنة و التغذية,بلاك جيم,C,Costa Coffee,Which POI belongs to type: hospital?
+11,Total,عزبي,صيدليه المحكمة,حديقة الاندلس,D,chairs on walking way,Which POI belongs to type: garden?
+12,مستشفى الحلميه العسكرى,مكتب بريد العبور,أمفيتريون,Peking,C,صيدلية كارمن,Which POI belongs to type: pub?
+13,تاكسي نهري,عيادة دكتور محمد مغازى,Barclays,Département d'Enseignement de l'Arabe Contemporain,B,الفنية المعمارية بدار السلام,Which POI belongs to type: clinic?
+14,المصرية للصرافة,Gringos,Al Resala School,مسجد الثورة,A,العربي الإفريقي,Which POI belongs to type: bureau_de_change?
+15,مدرسة العبيدية,elezaby,مبنى بنك الدم و عيادة طب الأسرة,Caribou,B,عيادة السكر و عيادة الغدد و عيادة السمنة و التغذية,Which POI belongs to type: pharmacy?
+16,NSGB,محطة بنزين,ايهاب سمير,ارامكس,A,الشركة الدولية للخدمات البريدية ايجى سيرف الفرع الرئيسى,Which POI belongs to type: bank?
+17,Faculty of Islamic Sciences for Non-Arabic Speaking International Students,مرور الشرطة العسكرية,Citibank,محمد بحبح لتصنيع صواني الافران,B,نورماندي,Which POI belongs to type: police?
+18,محل عصير زهرة أرض اللواء,Peak A Boo,مصر,السلام الدولي,D,Bogali Resturant W Marriott,Which POI belongs to type: parking?
+19,بريدفاست,محل عصير زهرة أرض اللواء,مسجد أم القرى,بنك فيصل الاسلامى,B,مسجد الرحمة,Which POI belongs to type: fast_food?
+20,9th Street Clinic,الأنصاري,Emirates NBD,Tersa Youth Center,E,دار الأرقم,Which POI belongs to type: pitch?
+21,مكتب بريد,ركن اليمن,Masjid AlPasha,Costa,A,الشركة الدولية للخدمات البريدية ايجى سيرف الفرع الرئيسى,Which POI belongs to type: post_box?
+22,شل,الباكستان,مكتب بريد حلميه الزيتون,نعمة,C,صيدلية دكتور مكرم,Which POI belongs to type: post_office?
+23,Al Awad Group Auto Nissan Service,Al dahan,Baytal Qadi,الڤيلا,A,International Dental,Which POI belongs to type: car_sharing?
+24,كلية العلوم قسم الجيولوجيا,Cilantro,موقف الترجمان,ONE café,C,حديقة محافظة القاهرة,Which POI belongs to type: bus_station?
+25,طباعه اورق,مدرسة الشهيد هشام شتا الاعداديه بنات,د. عمرو عنتر أخصائي التخاطب,د/خالد زكي منصور,D,البنك الأهلي المصري,Which POI belongs to type: doctors?
+26,الجامعة المصرية الصينية فرع مدينة نصر,The Lebanese Bakery,Al-Dawar Cafe,Car's ferry,A,Tasha,Which POI belongs to type: university?
+27,tortina - beyond desert,اسماك دهب,الشركة المصرية للألبان,Gu Bar,C,أسماك الشامي,Which POI belongs to type: industrial?
+28,Dunkin',مسجد أصلم السلحدار,No. 233,كار غاز,E,مجلس الشعب,Which POI belongs to type: public?
+29,Sahlala,مطعم السوق,كنيسة الشهيد العظيم مارجرجس,Alaa Pharmacy,E,ماكينة صرافة بنك مصر,Which POI belongs to type: atm?
+30,Felfela,نفسين,قاعات جولدن نايل,Mahraja Indian Restaurant,C,ماكدونالدز,Which POI belongs to type: events_venue?
+31,Fire Station,Abou El Sid Restaurant,Fitness factory gym,International House Cairo,A,مدرسة السيدة حنيفة السلحدار الثانوية الصناعية بنات,Which POI belongs to type: fire_station?
+32,El Ghaba Sporting Club,وطنية,Roche Training Centre,Dr. Mohamed A. Abd El Latif - oral & dental surgeon,C,أبو العز السورى,Which POI belongs to type: training_centre?
+33,العزبي,Private ferry terminal,Tel,Via 82,C,أكاديمية النزهة الجديده للمساحة ونظم المعلومات,Which POI belongs to type: telephone?
+34,مطعم الخيرات,مستشفى الرماد,النجار,الخبراء العرب فى الهندسة والإدارة - تيم مصر,E,سوق الخليفة,Which POI belongs to type: marketplace?
+35,سيتي سنتر مول,Shamrock Irish Nursery,Zen Specialty Coffee,عيادة الرمد,B,مستشفى المقطم,Which POI belongs to type: kindergarten?
+36,Echo Club,مطعم عمي بشندي,مدرسة الحسينية,حدائق زينهم,A,وحده الملك فهد,Which POI belongs to type: nightclub?
+37,Pharmancy,ب لبن,تكنو سكان,مدرسة دار الطفل زمالك,B,مسجد الرحمن,Which POI belongs to type: ice_cream?
+38,توم اند بسل,صيدلية اللواء,Mattar Dental Center,Car's ferry,C,مدرسة كلية السلام,Which POI belongs to type: dentist?
+39,البنك الاهلى المصري فرع اول الهرم,Khan Kabab,بيتزا بيت العيلة,Natural,D,رمزن امبيى,Which POI belongs to type: sauna?
+40,Sufi Bookstore,International House Cairo,عربياتا شبراوي,Bell's,B,Griix,Which POI belongs to type: language_school?
+41,التلسكوب,بنك قناة السويس,Nasr el Islam,كنيسة أبو سفن,A,صيدلية كارمن,Which POI belongs to type: binoculars?
+42,مركز شباب المشابك,شبراوي,International House Cairo,ماكينة صرافة بنك مصر,A,مدرسة الحسينية,Which POI belongs to type: sports_centre?
+43,برج زمزم,مدرسة دار التربية زمالك,بيلا فيجورا,La Poire,E,Nakheel club,Which POI belongs to type: نادى النخيل?
+44,Ameco Medical - Arabian Co. For Medical Equipment,Well Care Polyclinic,ديزاينوبيا زون,EDBE BANK البنك المصرى لتنمية الصادرات,A,Budz,Which POI belongs to type: retail?
+45,صيدلية د. نورهان,Parking P2 entrance,Cilantro sun mall,Coffee Island,B,Mandarine Koueider,Which POI belongs to type: parking_entrance?
+46,O'Fries,نادي طلائع الجيش,ستاربكس,PS Restaurant & Cafe,E,نادى محمد على,Which POI belongs to type: social_centre?
+47,المركز المصري للثقافة والفنون (مكان),Dr. Hamed Kadry Plastic Surgery Clinic عيادة أ.د حامد قدري لجراحات التجميل,Flying Fish,الجامعة المصرية الصينية فرع مدينة نصر,A,البنك المصرى لتنمية الصادرات,Which POI belongs to type: music_venue?
+48,مطعم رأفت,Cafe Carniche,بار السي دي,الفنية المعمارية بدار السلام,C,Faculty of Islamic Sciences for Non-Arabic Speaking International Students,Which POI belongs to type: bar?
+49,H2O gym,Rouh Beirut,"Dr. Lotfy adb El-kader, Professor of Urology & Andrology",التلسكوب,A,موبيل,Which POI belongs to type: fitness_centre?
+50,FelFel Mosque,International Dental,تشيكن تيكا,Europcar,D,ناني,Which POI belongs to type: car_rental?
+51,مصر,تشيك شاك,مساجد و مستشفى .التوبة .,معهد الأسلحة والذخيرة,D,الوطنيه,Which POI belongs to type: military?
+52,البعثة الأمريكية,بنك مصر,H2O ladies,Saint Anthony and Saint George Coptic Orthodox Church,E,Mokattam language school,Which POI belongs to type: school?
+53,Egyptian Nights Shisha,El Wady Pharmacy,Hardee's,Egypt Motorcycle School مدرسة مصر للموتوسيكل,D,مسرح فيلم,Which POI belongs to type: driving_school?
+54,موقف المنيب الصعيد,Coffee Island,صيدلية الفتوح,برو بلس,E,كلية الطب البيطرى,Which POI belongs to type: college?
+55,Contemporary Image Collective - CIC,Cafe Greco,بنك القاهرة,مدرسة دار لقمان الحكيم الدولية,A,قهوة الفلاح,Which POI belongs to type: community_centre?
+56,Mahraja Indian Restaurant,Sattva Steps,معهد تدريب شرطة المسطحات المائي,Mahmoud Khafagi's Home,D,مصر,Which POI belongs to type: shelter?
+57,Cinnabon,مطعم اسماك,محكمة الاميرية,Bennu,C,أبو ردة,Which POI belongs to type: courthouse?
+58,الجيزاوي,Baladina,هابي لاند,عاطف مبروك,C,Cairo Photography Club,Which POI belongs to type: playground?
+59,Waste Dump,شامبيونز ٢ - سيبر للبلاي ستيشن,Baskin-Robbins,Degla Language School Azhar,B,تاكسي نهري,Which POI belongs to type: internet_cafe?
+60,فروت ستار,Abou El Sid Restaurant,منارة هليوبوليس المتكاملة للغات,مدرسة الراعي الصالح,A,الوالي,Which POI belongs to type: drinking_water?
+61,Hayat Fertility & Women's Health Center,صيدلية د. نورهان,Waste Dump,Bazooka,C,صيدلية د. دينا صلاح,Which POI belongs to type: waste_disposal?
+62,Heraa Mosque,مستشفى المعادى ق.م,Modern Veterinary Clinic,The United Bank,C,حضانة بيبي هاوس للغات,Which POI belongs to type: veterinary?
+63,Ahli United Bank,مسجد سلار و سنجر الجاولي,مافيا كير,البنك الأهلي,C,Misr Petroleum,Which POI belongs to type: car_wash?
+64,دكتورة آن,Wiener Wald,Waves Snack Bar,بوم كافيه,A,ماكدونالدز,Which POI belongs to type: nursing_home?
+65,عربياتا شبراوي,أكاديمية النزهة الجديده للمساحة ونظم المعلومات,ديلز,مصر,E,مكان قعدة خالد الجرجاوي مطعم بشكاش,Which POI belongs to type: casino?
+66,Il Pennello Ceramic Cafe,صيدلية الاسكندرية,Cilantro sun mall,مسجد الفؤاد,E,Fountain,Which POI belongs to type: fountain?
+67,الأهلي,Fizze,Chillout Sheraton,عيادة دكتور محمد مغازى,E,Chill Plaza,Which POI belongs to type: food_court?
+68,مستشفى هيئة النقل العام,سوق الاسماك المنيب,Coffee & Tea,FullMoon Studios,D,بنزينه,Which POI belongs to type: studio?
+69,موبيل,Har,صيدلية محمود,Ahmed Orabi,E,حديقه عباد الرحمن,Which POI belongs to type: park?
+70,امديست,مدرسة النور بحمامات القبة للمكفوفين,بنك مصر,البنك الأهلي الكويتى,A,حديقه عباد الرحمن,Which POI belongs to type: prep_school?
+71,معهد الأسلحة والذخيرة,مدرسة الفردوس الخاصة للغات,ابوزهرة,محمد بحبح لتصنيع صواني الافران,D,مسجد عباد الرحمن,Which POI belongs to type: recycling?
+72,كنيسة العذراء والبابا كرولوس,TBS,Coffeeshop Company,Boon,E,Awlady Orphanage,Which POI belongs to type: childcare?
+73,كافيه المحروسه,مصر,spectra,Linux Plus,D,Saheb El Sa’ada,Which POI belongs to type: office?
+74,ص.رنا,جامايكا,الملحق الثقافي الصيني,كافيه دوبامين,C,السلام الدولي,Which POI belongs to type: training?
+75,السمسميه,صيدلية فايق,National Bank of Egypt,برج زمزم,D,شركة النقل العربى (سوبر جيت),Which POI belongs to type: residential?
+76,جمعية تبارك,مطعم البرنس,جاد,عيادات ايجيبت ميديكال التخصصية,A,صيدلية المروة,Which POI belongs to type: social_facility?
+77,Citibank,b karnak,الجيزاوي,ساحة انتظار,D,نصر نظمي مقار,Which POI belongs to type: parking_space?
+78,كنتاكي,عيادة هليوبوليس للعيون,عيادة الباطنة و القلب و المتوطنة,دكتور تامر ابراهيم بدر,E,برج الرحمن,Which POI belongs to type: apartments?
+79,مسجد التوحيد,كافية ادم,العباسية,الجامعة المصرية الصينية فرع مدينة نصر,E,محافظه الجيزه,Which POI belongs to type: townhall?
+80,بوم كافيه,ليزر الجلدية,Nile Taxi,Ovio,C,Cairo Jazz Club,Which POI belongs to type: boat_rental?
+81,مطعم بحه,Sonata Music Center,مسجد إبن سندر,كلية العلوم اقسام الفيزياء والجيوفيزياء والبيوفيزياء,B,البنك التجارى الدولى (سى إى بى CIB),Which POI belongs to type: music_school?
+82,مسجد الأمير صرغتمش الناصري,استاد الهوكي,Didos Al Dente,Andiamo,B,صندوق بريد المعادى,Which POI belongs to type: stadium?
+83,بيلا فيجورا,مركز الدراسات والوثائق الاقتصادية والقانونية والاجتماعية-سيداج,Vittorio's,عماد حسين السيد,B,مسجد القاضي عبد الباسط,Which POI belongs to type: research_institute?
+84,فوري بلس,برو بلس,بنك مصر,مركز طبي الحى الثامن,A,كنوز البحر,Which POI belongs to type: payment_centre?
+85,قسم شرطة قصر النيل,O'Fries,مستشفى جامكا,Fab Lab Egypt,D,جالاكسي,Which POI belongs to type: hackerspace?
+86,محكمة شبرا الخيمه الابتدائيه,KFC,Cairo Bike,Mandarine Koueider,C,أبو العز السورى,Which POI belongs to type: bicycle_rental?
+87,BNP Paribas,مصر,Mokattam Runners Club Start Point,أبو أحمد,C,شركة ملوك الشحن,Which POI belongs to type: track?
+88,Emirates NBD,تاكسي نهري,مكتب بريد,دارا أيس كريم,B,بي أن بي باريبا,Which POI belongs to type: marina?

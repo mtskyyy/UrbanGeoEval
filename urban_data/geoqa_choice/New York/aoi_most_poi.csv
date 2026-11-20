@@ -1,0 +1,359 @@
+id,question,answer,A,B,C,D
+0,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Holland House,Warner House,Fort Greene Park,Chase
+1,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Hampton Court,Garfield Garage,Bryant Park,Honey Locust Park
+2,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Warwick Hotel,Forest Park Shops,Permanent Mission of Laos to the United Nations,Atlantic Center
+3,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Woodside Station Flushing Post Office,2 Park Avenue,Central Bainbridge Block Association Community Garden,Grand Army Plaza
+4,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Hallets Cove Playground,Tompkins Square Park,Monarch,BMT Substation
+5,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,The Lexington,Murray Playground,5 Pointz,Mensch Supply
+6,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Queens Detention Center,Church Of Our Lady Of Peace,Le Meridien,Two Coves Community Garden
+7,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Bhraggs Grant Square Senior Citizens Center,Rome,The Bryant,Hoffman Park
+8,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Asser Levy Playground,Hotel 21,"The High School of Enterprise, Business, and Technology",Holiday Inn Express & Suites
+9,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Marsha P. Johnson State Park,Pigeon Paradise,FDNY Engine 5,The Episcopal Church Center
+10,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Wendy's,25-21 43rd Avenue,Paley Center for Media,Monsignor McGolrick Park
+11,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Diversity Plaza,Empire State Building,"59th Street - Columbus Circle (A,C,B,D,1)",Saint Joseph's Roman Catholic Church
+12,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Chrysler Building,Soho KTV & Bar,Concord Apartments,Linden Hill Cemetery
+13,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Star Poly Bag, Inc.",Daily News Building,City Line Park,Saint Paul the Apostle Roman Catholic Church
+14,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Macri Triangle,Al Madni Masjid,Stavros Niarchos Foundation Library,Central Savings Bank Building
+15,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Brower Park,Mount Prospect Park,Father Studzinski Square,Georgian Hall
+16,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Hanson Place Central United Methodist Church,The Hector Figueroa School,Bank of America Tower,C&N Auto Repair
+17,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,General Motors Building,Wyckoff Health Center,Han Ma Um Zen Center of New York,Saint Anthony and Saint Alphonsus School
+18,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Lincoln Center for the Performing Arts,Person Square,New York Hotel and Motel Trades Council Brooklyn Health Center,W. R. Grace Building
+19,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Imperial Hotel,Domestic Animals,Greenacre Park,Ms. Gregory Day Care
+20,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,P.S. 369 Coy L. Cox School,Bradford House,One Park Avenue,Intermediate School 61 - Leonardo da Vinci
+21,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Greenpoint Playground,Building 462-468 Park Avenue South,Permanent Mission of Luxembourg to the UN,Cowbird Triangle
+22,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Hunter College,Maya Fusion Cafe,Margaret I. Carman Green - Weeping Beech,Public School 384
+23,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Arevalo's Auto & Transmission,Ziolko Cosmetics & Herbal,Rockefeller University,Christ Fellowship Baptist Church
+24,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Berriez,Allendale Apartments,Parking Area E,Carl Schurz Park
+25,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,The Williams,Sydney,Fordham University Lincoln Center Campus,Nigeria House
+26,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Boulevard Apartments,Permanent Mission of Armenia to the United Nations,Bridge Plaza Community Garden,Corlears Hook Park
+27,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Wards Island Park,Asphalt Green,Koreana Art and Antiques,Saint Elizabeth of Hungary Roman Catholic Church
+28,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Ocean Hill Playground,Park Lane South Appartments,1290 Avenue of the Americas,The East Wing
+29,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Taco Cina,Brooklyn Navy Yard,Brookyn Cleaners Depot,Stanley Lewis Plumbers
+30,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Weeksville Gardens,Saint John's Lutheran Church,Grover Cleveland Park,Our Lady Queen of Martyrs Church
+31,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,PS 377Q,666 Fifth Avenue,Steuben Playground,Manley's Place
+32,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Saint Andrews Playground,River Court,Vincent Daniels Square,Maimonides Cemetery
+33,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Riverside Park,Stephen A. Schwarzman Building,Saratoga Park,Van Dyke Houses
+34,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Central Synagogue,PS 377Q,Astoria Heights Playground,East New York Transit Technical High School
+35,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Queensboro Bridge Greenway,Classon Playground,Ravenswood Playground,Pitkin Yard
+36,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,The Girard,Father Studzinski Square,Friends of Crown Heights Educational Center,Random House Tower
+37,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Mondo Infanti,AXA Equitable Center,825 Third Avenue,Eight Oaks Triangle
+38,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Chase,599 Lexington Avenue,The Milo,Building 275
+39,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Saint Michael's Playground,One Grand Central Place,UBS Building,The William
+40,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,461 Fifth Avenue,Seagram Building,Sunoco,Melrose Ballroom
+41,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Peter Minuit,Melrose Ballroom,Jacob Riis Houses,FDNY Engine 16/Ladder 7
+42,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Poppenhusen Playground,Vietnam Veterans Triangle,Shake Shack,East 34th Street/Midtown
+43,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,McDonald's,NYU Langone Medical Center,WABC & ABC Headquarters,St. Joseph's University
+44,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,First Quincy Street Community Garden,Neptune Machine,909 Third Avenue,Cassa Hotel
+45,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Kew-Forest School,Totoya,1 Lincoln Plaza,Church of the Heavenly Rest
+46,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Dante Park,Astoriana,Nat Schneider Triangle,Hub LIC
+47,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,3 Park Avenue,B&H Restaurant Equipment,Our Lady of Mount Carmel Roman Catholic Church,Thick-billed Parrot
+48,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Day Star Church of Christ,Public School 16,Brooklyn Botanic Garden,The Park Millennium
+49,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,The Grove,Temple Emanu-El,Rodin Studios,Public School 45
+50,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,QLIC,Capitol-EMI Building,Geroge Walker Junior Playground,The Oratory Church of St. Boniface
+51,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,The BRiQ,Fifth Avenue Presbyterian Church,Lost Batallion Playground,600 Third Avenue
+52,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Irene Diamond Building,Paseo Park,Socony-Mobil Building,Saint Paul's Episcopal Church
+53,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Bowlero,Hoyt Playground,Whitehall Court,Cypress Garden Care Center
+54,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Mayfair Court,Pratt Playground,Winstar Building,Astoria Lights
+55,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Victoria Complete Auto Repair,Chase,J&J Tower,Baccarat Hotel & Residences
+56,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,1700 Broadway,Villa Tapia Grocery & Deli,Shaft 17B,Saint Johns Baptist Church
+57,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Otis,Bowery Bay Substation,Citigroup Center,2-20 Malt Drive
+58,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Peach Tree Garden,Starbucks,Box Street Park,The Roosevelt Hotel
+59,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Arch Street Shop,Pratt Institute,Deutsche Bank Center,Rockefeller Research Laboratories
+60,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,445 Park Avenue,Hotel 57,Sports Medicine & Orthopaedic Medicine,Guggenheim Museum
+61,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Peter Cooper Village,Hoyt and Horn,Verdi Square,VINCE.
+62,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Stuyvesant Town,NYC Health + Hospitals/Bellevue,Hancock T & T Block Association Community Garden,New York City Police Department - Police Academy
+63,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Kathryn M. Phelan  School - P.S. 11,Chase,Betty Carter Park,Woods Playground
+64,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Congregation Beth Israel,Vernon Mall,50 United Nations Plaza,Building 121
+65,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,"Martin Luther King, Jr. Educational Campus",Avant Gardner,Taqueria Mi Mariachi,LaGuardia Airport
+66,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Key Food Urban Market,Forest Park,Music Hall of Williamsburg,Queens-Midtown Tunnel Ventilation Building
+67,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Jackson Heights Shopping Center,FDNY Rescue Company 2,The Franconia,Dinosaur Bar-B-Que
+68,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Finland House,Spring Creek Gardens,Ravenswood Houses,Robert E Venable Park
+69,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,PS183 Gym,Village View Houses,The Chateau,Woodside Houses
+70,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Samuel Seabury Playground,The Ormonde,Verizon,Sixth Avenue Baptist Church
+71,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Jenny's Nails,Our World Neighborhood Charter School,The Eldorado,Southpoint Park
+72,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Regal UA Kaufman Astoria,Bald Eagle,Triborough Bridge Playground B,Metro by T-Mobile
+73,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Immaculate Conception Youth Program,New York Tower,Sunnyside Reformed Church,Rego Park Branch Queens Borough Public Library
+74,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Congregation Tifereth Israel,767 Third Avenue,The Bellemont,Paul Raimonda Playground
+75,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Queens Criminal Court,LGA East End Substation,Holy Land Auto Repair,Rego Park Center
+76,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Queen Anne Apartments,Apple Store,Queens Borough Hall,Arch Street Shop Long Island Rail Road
+77,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Sunset Community Garden,Linden78,The Park View,Public Health Solutions Navigator
+78,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,East New York Inn,Intermediate School 324,The Stanton,Instrada
+79,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Park Lane Condominium,The Pointe,The Rosemont,Armstrong Houses I
+80,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,NYC Laundry City Express,Key Food,Philip Colleck,The Contour
+81,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Paramount Tower,Ninth Street Community Garden,Ahlul Bayt Mission Masjid,Red Ball Garage
+82,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Days Inn,Magic World NYC,27-03 42nd Road,The Bentley
+83,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Glenn Gardens,Windsor Court,Permanent Mission of Gabon to the United Nations,Oakwood Court
+84,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Complete Physical Therapy,Flushing #2 Municipal Parking Field,Hub,BQ Sports
+85,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Ageloff Towers,53 West 53,Taiwan Union Christian Church,Queens Pointe
+86,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Epiphany School,Margaret L. Kempner Playground,Cinemart Theatres,Bank of America
+87,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Chesapeake House,Public School 54,Sapphire Center for Rehabilitation & Nursing of Central Queens,Plaza 67
+88,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,The Guilford,Bagel Shop,Killanna Arms,Fitzpatrick
+89,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,750 Third Avenue,Imperial Hotel,Rand Liquor Store,P. C. Richard & Son
+90,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Frank Principe Park,485 Lexington Avenue,P.S. 66 Jacqueline Kennedy-Onassis,San Carlos
+91,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Saint Patrick's Roman Catholic Church,Zion Baptist Church,Xerox Building,Saratoga Branch Brooklyn Public Library
+92,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,42-60 Crescent Street,Hattie Carthan Herban Farm,Bedford Academy High School,Somerset Wilson Apartments
+93,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Kaufman's Astoria Motion Picture And Television Center,The Inn Apartments,AT&T,East New York Health Hub
+94,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Fanaberie Greenpoint,Garlinge Triangle,Vernon Auto Repait,Brooklyn Public Library
+95,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,New York LaGuardia Airport Marriott,Classon Triangle,The Posthouse,Beaux Arts
+96,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Westinghouse Campus,בית המדרש סקווירא,Hermitage,Frick Collection
+97,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Park Slope Library,Public School/Intermediate School 155 Nicholas Herkimer,Trolley Car Triangle,Our Lady of the Miraculous Medal School
+98,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,400 Park Avenue South,John Jay Educational Campus,NYCT - QPS9 Power Substation,The Leslie
+99,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,The Ansonia,Grolier Building,CVS Pharmacy,Gramercy Park Hotel
+100,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,2-20 Malt Drive,Cord Myer,Shell,Java Girl
+101,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Romer Hell's Kitchen,Oosten,The Olcott,Lane Towers
+102,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,BLVD,Laurel Court,Landing Lights Park,Carlton House
+103,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Triumph,Epiphany Church,The Meurice,The Yellowstone
+104,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Georgian Hall,Artist & Craftsmen Supply,Greenpoint Wine & Liquor,Hyatt Place
+105,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Masjid Al-Aman,Pioneer Building,Sunoco,Astor Apartments
+106,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Shell,Arts Media House,Saint John F.B.H. Church,Henry Street Settlement
+107,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Lot Radio,McLaughlin Park,53 West 53,BAM Peter Jay Sharp Building
+108,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Fulton Park,Pan American Hotel,Saint Mary Gate of Heaven Roman Catholic Church,880 Third Avenue
+109,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Memorial Sloane - Kettering International Center,World Artisan Market,The Greystones,Kips Bay Plaza
+110,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Building 11,American Playground,810 Seventh Avenue,Long Island University Brooklyn Campus
+111,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Bridge Tower Place,Hotel Le Jolie,888 Seventh Avenue,Building 500
+112,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Spa Castle,250 West 55th Street,Saint Patricks Academy,The Addition
+113,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Trolley Kiosk,Fisk Building,Hotel AKA,Tru by Hilton
+114,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Consulate General of Mexico in New York City,Church of Seventh Day (Pentecostal) Inc.,Symphony House,Washington
+115,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Popeye's,MGM Building,Williamsburgh Savings Bank Tower,Saint Brigids School
+116,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Dry Dock Playground,The Florence,425 Lexington,New York Moore Hostel
+117,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Flushing Substation,Boerum Hill Slow Zone,Baruch College,Public School 76
+118,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Chase,Wendy's,The Cadillac,MacDonald Park
+119,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Gramercy Medical Arts Building,Roosevelt Terrace,Bank of Hope,Long Island University Brooklyn Campus
+120,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Lincoln-Berkeley Community Garden,Dollar Junction,Victoria House,FDNY Engine 23
+121,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Dante Park,East 34th Street Heliport,Thompson Central Park New York,NYPD 104 PCT
+122,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,DUMBO Historic District,Hemisphere House,Parking Area E,Black Oak
+123,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Saint Joseph's Roman Catholic Church,Burlington House,Lovely Hill Baptist Church,Belarusan Autocephalous Orthodox Church
+124,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,CNT Mechanic & Tire Shop,Avenue of the Americas Plaza,Gertrude Rhinelander Waldo House,Tangram House West
+125,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,P.S. 175 the Lynn Gross Discovery School,Apostolic Faith Church,Park Central Hotel,Public School 19
+126,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Fairfield Inn,520 Madison Avenue,Woodrow Wilson Houses,Dream Midtown
+127,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Saint Mark's Block Association,1740 Broadway,Weeksville Heritage Center,Zabar's
+128,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Roof Repair Long Island,Deli & Grocery On 188 Untica,The Pillar Astoria,Public School 282
+129,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,The Factory,"Madison Bldg, Berkeley Towers",Polish American Pharmacy,Extra Space Storage
+130,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Public School 297,2 Park Avenue,Saint Louis Senior Citizens Center,Marion-Hopkinson Playground
+131,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,The Olcott,The Anthem,Mauro Playground,IRT Substation #13
+132,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Stuyvesant Square,Fulton Park,CUNY Graduate School and University Center,The Diplomat
+133,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Five Bryant Park,The Oliver Cromwell,Paramount Plaza,No-Bro Greenstreet
+134,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Chestnut Commons,US Post Office,The Empire Hotel,West Park Presbyterian Church
+135,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Q Hotel,Aicha African Hair Braiding,EVEN Hotel Midtown East,Trump Tower
+136,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,The Dermatology Specialists,Fulton Park Plaza,Mount Sinai Beth Israel,39 E 58th
+137,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,FDNY Engine 21,The Sofia,Surrey Garage,MoMA PS1
+138,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Chabad Jewish Center,Medical Office,Surface Inn,Murray Hill House
+139,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,National Distillers Building,George Washington,East Manhattan Congregation of Jehovah's Witnesses,ConEdison field
+140,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Trade Fair,P.S. 234,919 Third Avenue,Charlie Parker Residence
+141,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Public Service Truck Renting,Lucky 13,Martinez & Antonetty Auto Repair,Murray Hill Mews
+142,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Fisk Building,Bartholomew Building,Evelyn H. Lauder Breast Center and Imaging Center of Memorial Sloan Kettering,The Westin New York
+143,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,The Marleborough,Chester Court,Manhattan Restorative Health Sciences,The Redbury New York
+144,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,100 Park Avenue,Trump Tower,Astoria Lights,Major World
+145,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Buzz Volmer Playground,St. Stanislaus Roman Catholic Church,Jefferson,Daily Commerce Building
+146,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,The Rockfield,The Eagle,Queens Library at Long Island City,711 Third Avenue
+147,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Hotel Indego Flushing,Vernon Mall,Hillcrest Courts,Doubletree by Hilton Hotel Metropolitan
+148,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,850 Third Avenue,Pumpernickel Bagel & Delicatessan,Tropical House Bakery,74th Street Power Plant
+149,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,232 Madison Ave,Permanent Mission of Niger to the United Nations,Grolier Building,Trinity Lower East Side
+150,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Holy Martyrs School,Herb Garden,Permanent Mission of Rwanda to the United Nations,Chanin Building
+151,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Gulf,Cyclo,Mayfair Court,Pershing Square Building
+152,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Global,Apple Store,Grand Hyatt New York,Austell Place
+153,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,UBS Building,Ascenzi Square,Public School 20,Stuyvesant Heights Seventh Day Adventist Church
+154,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Polish American Pharmacy,Public School 171,Sacred Heart Church,Lowry Triangle
+155,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Lenox Hill Hospital,Mex Auto Repair,The Urban Assembly School for Green Careers Garden,Lefcourt National Building
+156,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,340 Madison Avenue,Rasul & Associates LLC,New York Athletic Club,Total Tool Rental
+157,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,BP,The Carolina,The Marc,NYC Taxi and Limousine Commision
+158,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Fairfield Inn Long Island City/Manhattan View,Bishop Francis J. Mugavero Senior Citizen Apartments,Lucky 13,Times Square Church
+159,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Park Regent Condominium,Murray Hill Marquis,888 8th Avenue,New York & Atlantic Railway Office
+160,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,PS 183 Robert Louis Stevenson School Of Discovery,FHVAC,Aire,W. R. Grace Building
+161,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,The Michelangelo,Richmond Apartments,Pop's Popular Clothing,Rodney Park South
+162,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Sheraton New York Times Square Hotel,NYC Taxi and Limousine Commision,Saint Paul's Church of Christ Disciples,1700 Broadway
+163,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Sullivan & Galleshaw,Jackson House,Strategic Response Group 4,Salmon Tower
+164,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Brooklyn Conservatory of Music,530 5th Avenue,The Bromley,Central Park Tower
+165,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Hippodrome Building,Citadines Connect,650 Fifth Avenue,Hartman Triangle
+166,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Citi Field,Open Door Bible Baptist Church,The Beekman,Capitol-EMI Building
+167,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,11 BC Serenity Garden,FDNY Engine 316,Bloomingdale's,CITI Storage
+168,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Hotel 57,Marcy Green North,Subway,Abraham and Joseph Spector Playground
+169,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,St. Tropez,Lucy Drexel Dahlgren House,Queens Theater,New York Tower
+170,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Astoria Health Center Playground,Fine Fare,The Savoy,Proletariat
+171,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,1325 Avenue of the Americas,Public School 150 Annexed Building,Manhattan House,The Westmore
+172,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,The Independent,Junior High School 258,Trump Palace Condominiums,Calvary Cemetery
+173,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,The Malboro,Breuer Building,Fulton Park,Punjabi Kabab House
+174,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Fleetwood Triangle,First Republic Bank,Trade Fair #1,Southmoor House
+175,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Yorkville Tower,NYPD 114 PCT,Mount Zion Cemetery,UFC
+176,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Astor Terrace,BP Shop,West End Synagogue,Apostolic Faith Church
+177,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Korean Square,Otto H. Kahn House,Moore Homestead Playground,Centerville Substation
+178,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,The Lucida,B & D Auto Collision,40 Acres and a Mule Filmworks,Liberty Coffee Shop
+179,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Park Avenue Court,Cherry Valley Marketplace,Walt L. Shamil Community Garden,Public School 71
+180,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Irene Diamond Building,Norman Orthodontic Center,"""Medyk"" Nassau Medical Center",Saint John Vianney Roman Catholic Church
+181,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,US Post Office,The Park Millennium,Grand Slope,Ahearn Park
+182,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Dorchester Towers,Airpark,Greenstreets,Alta LIC
+183,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Seventh Day Adventist Reform Movement Church,"Martin Luther King, Jr. Educational Campus",Meadow Lake Boathouse,Eagle and West
+184,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Grover Cleveland High School,Jiffy Lube,Ruxton Towers,Corona Health Sanctuary
+185,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Lafayette Avenue Church of God,The Roosevelt Hotel,First Moravian Church,The Verdi
+186,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Chase,Greenpoint Fish & Lobster Co,The Rutgers Building,Rocket Park
+187,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Central Savings Bank Building,Olmsted Circle,Shaw African Methodist Episcopal Zion Church,Cooper Park Houses
+188,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Village View Houses,The Harrison,The Alley Flea Market,Plymouth Substation
+189,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,The Gloucester,Alma Market,28-30 Jackson Avenue,Roosevelt House
+190,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,The Broadway,Randalls Island Park,J&J Tower,La Guardia Playground
+191,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Stonewall House,Triumph,The Pomona,Copernicus International School
+192,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,The Packard,Restoration Worship Temple,Staples,Saint Frances of Paola Elementary School
+193,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Hanson Place Central United Methodist Church,Ormande,Maple Playground,Foster Gardens
+194,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Emergency Medical Service Station 35,Saint Paul's Episcopal Church of Woodside,34-46 Vernon Boulevard,Bretton Hall
+195,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,New Roots Community Garden Queens,Brookdale Campus,Bushwick Branch Brooklyn Public Library,Broadway Fashion Building
+196,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Euclid Hall,Tennyson,Donato's Restaurant & Pizza,Powell's Cove Park
+197,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Wendy's,Saint Joseph's Roman Catholic Church,Her-King Alagantic Garden,The Bellguard
+198,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,The Grand Millennium,Friendly's Super Laundromat,The Kensington Hall,The Boulevard
+199,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Mt. Joy Baptist Church,Astral Apartments,Bald Eagle,Two Coves Community Garden
+200,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,432 Park Avenue,Permanent Mission of El Salvador to the United Nations,Playground for All Children,Crowley Playground
+201,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,MoMA,Mary Manning Walsh Home,Heckscher Ballfield 1,Lot Radio
+202,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Sea Lion Store & Cafe,Hanson Place Seventh Day Adventist Church,Tower 53,PS 183 Robert Louis Stevenson School Of Discovery
+203,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,The Gretsh Building,Be Jay's Ornamental Iron Works,USTA Billie Jean King National Tennis Center,The Somerset
+204,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Marwin Thai,Rodeph Sholom School,Bushwick Branch Brooklyn Public Library,Kosciusko Street Community Park / Learning Center
+205,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Metropolitan Recreation Center,Winfield Reformed Church,Fifth Avenue Presbyterian Church,Rockefeller Center
+206,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,South Oxford Park,Berkeley Carroll School,The Pod,Harvey Park
+207,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,North Shore Marine Transfer Station,Murawski Pharmacy,Magestic Heights Seventh-Day Adventist Church,Circle S Milk Farm
+208,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,New Condominium,4th Floor Studios,Global,Big Six Shopping Center
+209,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,The Home Depot,Old Hickory Playground,Permanent Mission of Cyprus to the United Nations,Saint John F.B.H. Church
+210,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,London Planetree Playground,Saint James Tower,Saints Constantine & Helen Greek Orthodox Church,Best Buy
+211,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Gil Hodges Community Garden,Allendale Apartments,Queens Center,45-45 Center Blvd
+212,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Dumont Triangle,Queens Place,I.S. 125 Thomas J. McCann Woodside Intermediate School,Junior High School 149
+213,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Regal UA Kaufman Astoria,Gas Sale,Friendship Church of Christ,Seagram Building
+214,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,CitySpire Center,World Artisan Market,United States Post Office Middle Village Station,Iglesia Ni Cristo Locale of Long Island City
+215,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,The Colony,The Litchfield,43-10 Crescent Street,Stoneridge Apartments
+216,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,47-05 Center Blvd,The Bancroft,41-15 29th Street,Fagan Square
+217,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,The Nørdic,Two Gotham Center,Flight 23 at Foot Action,All'Antico Vinaio
+218,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Ahawith Chesed Cemetery,Moore-Jackson Cemetery,The Europa,LaGuardia Shopping Center
+219,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Finback Brooklyn,Lower East Side Playground,City Line Park,747 Third Avenue
+220,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Kew Bolmer,Long Island City Roots,Gugush Hair Studio,Baseball Field 15
+221,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Holy Cross Roman Catholic Church,Park 55,United States,The Girard
+222,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Clinton Grand,Queensbury Hall,Pratt Playground,CubeSmart
+223,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Giovanelli Playground,Queensbury Hall,Cumberland Packing Corp,The Silver Star
+224,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Strathmore Arms,Mokom Sholom Cemetery,Harper & Row Building,The Pinnacle
+225,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Mount Prospect Park,A.R.R.O.W. Community Garden,Queens Crossing,East River Park Field #7
+226,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,World's Fair Marina,Masjid-Al-Ihsaan,Kings Ready Mix,Flushing Commons South
+227,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Clinton Hill Cooperative Apartments,El Puente Espíritu Tierra Community Garden,Park Regent Condominium,515 Park Avenue
+228,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Permanent Mission of Niger to the United Nations,Ace Transmission & Auto Repair,The Berkley,Flushing Plaza
+229,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Ocean Hill Playground,Apthorp Apartments,Hotel 31,Prince Tower
+230,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Education Building,"59th Street - Columbus Circle (A,C,B,D,1)",Hanover Bank Building,The Diplomat
+231,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Old First Reformed Church,Public School 64,The Glen,Lehman Art House
+232,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Astoria Dialysis Center,53rd Drive & 62nd Street,Garden School,Flushing Meadows Aquatic Center
+233,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,The Highpoint,50 United Nations Plaza,Motorgate Public Parking Garage,FEDEX
+234,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Ridgewood Community Garden,Oxport Playground,The Islands,St. Catherine's Park
+235,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Consul General of the Republic of Bulgaria,Holy Land Auto Repair,Park 55,Lindsay Triangle
+236,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Saint Leo Church,The Arden,St. Joseph's University,770 Lexington Avenue
+237,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Intermediate School 296,Harvey Park,CVS Pharmacy,Wedding Garden
+238,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Brookdale Campus,Public School 64,One Flushing,Astoria Generating Station
+239,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Saint Malachys School,Administrative Building,Most Holy Trinity Cemetery,Court Square Park
+240,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Irving Square Park,Heisser Triangle,Extended Stay America,Children's Museum of Manhattan
+241,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Brooklyn Navy Yard Cogeneration,Gil Hodges Community Garden,Burger King,St. Stanislaus Roman Catholic Church
+242,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Franklin National Bank Building,Jones L.E.S.,Henry M. Jackson Playground,The Pavillion
+243,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Grand Central Plaza,Lot Radio,Friends of Crown Heights Educational Center,Metro Plaza Condo
+244,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Elite Williamsburg,The House of the Lord Church,City Point,69th Regiment Armory
+245,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,George Washington Houses,Public School 90,Murray Park South,5241 Center Boulevard
+246,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Junior High School 35,St. Cyril of Turov Belarusian Orthodox Church,Public School 6,Normandie Court
+247,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Paley Center for Media,633 3rd Avenue,Mayflower Sales,Ruppert Park
+248,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Renwick Gardens,P.S. 321 Upper School,CVS Pharmacy,Payne Whitney House
+249,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,The Goldin Senior Apartments,The Bancroft,West End Day School,Public School 93 William H. Prescott
+250,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Harmony Park,The Roosevelt,Saint John's High School,Gotham Hotel
+251,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Father Popieluszko Square,The Rutgers Building,SpringHill Suites,Intermediate School 383
+252,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Hunter’s Point South Waterfront Park,John Jay Park,Twentyfour Sycamores Park,270 Park Avenue
+253,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Municipal Parking,Aire,Agape Christian Center,Rafferty Triangle
+254,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,MoMA PS1,Jackson Heights Canine Recreational Wonderland,Elmhurst Branch Queens Borough Public Library,on
+255,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Rockefeller Research Laboratories,Jan Hus Church,15 Central Park West,Astoria Central Apartments
+256,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,McDonald's,Resurrection - Ascension School,FDNY Engine 262,Hayden LIC
+257,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Memorial Gore,Berry Street Garden,Food Bazaar,1-50 50th Avenue
+258,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,American Playground,The Warwick,Grace Lutheran Church,Saints Cyril and Methodius
+259,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Bush Tower,PS 149 Annex,Big Bush Park,Church of the Nazarene
+260,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Pure Barre,Tower Square Shopping Center,Evans Tower,Public School 67
+261,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,2-01 50th Avenue,42-10 27th Street,Potomac Playground,Du Mont Building
+262,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Rent•A•Center,John Hancock Playground,The Cheshire,Blessed Sacrament Church
+263,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Solow Tower,Little Zion Baptist Church,Kissena Corridor Park,Hotel Lynx
+264,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,George Washington Carver Houses,Maria Hernandez Park,Gramercy Court,One Domino Square
+265,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Southmoor House,Grace Temple,Popeyes,Masaryk Towers
+266,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Hermitage,Level,Pebblestone Triangle,Williamsburg Houses
+267,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Aro,B&H Restaurant Equipment,Bushwick Houses,Giorgio Hotel
+268,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Sprint,Jones L.E.S.,Forest Hills Co-Op,Windsor Court
+269,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,IRT Substation #42,Howard Pool,East Midtown Plaza,Murray Hill East Suites
+270,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Ford Apartments,Marcy Houses,The IMC Foundation,Ahawith Chesed Cemetery
+271,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Hippodrome Building,Riverside Park,Park Lane South Appartments,Cornell Tech
+272,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,East River Cooperative,Central Park,Bais Shlomo Zalman,Permanent Mission of Mozambique to the United Nations
+273,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Sunnyside Yard,Hyde Park Gardens,Nat Schneider Triangle,1100 Bergen Street Community Garden
+274,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Bishop Thomas V. Daily Residence,Second District Dental Society,Yellowstone Municipal Park,Colony Club
+275,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Park City Estates,East River Cooperative,Marx Brothers Playground,Speyer Legacy School
+276,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Parker Towers,The Century,School of Visual Arts,Presbyterian Church of the Crossroads
+277,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,The Hamilton,Domestic Animals,Sukyo Mahikari,Marlborough House
+278,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,"Bishop Orris G. Walker, Junior Health Care Center",The Shops At Atlas Park,VMA Auto Collision,Cornell Tech
+279,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,New York University - Brooklyn campus,Memorial Abbey,Econo Lodge,Perfumes & Cosmetics
+280,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,ANIK,Verizon Communications Center,J.J. Byrne Playground,Extended Stay America
+281,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Spencer Street Community Garden,Westleigh House,Astoria Park,Brentwood Hall
+282,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,John 3:16 Christian Church,Newtown Villas I,Kingsboro Temple of Seventh-day Adventists,Robert Moses Playground
+283,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Seven Oaks,John Haynes Holmes Towers,Restoration Plaza,Bryant Park Hotel
+284,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Bais Rachel School for Girls,Church of the Holy Trinity,Park Lane Condominium,The Copper Buildings
+285,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,One Flushing,West 87th Street Garden,50 United Nations Plaza,Queens Criminal Court
+286,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Sternberg Park,Floridian Court,Communicty School District 13,Corona Plaza
+287,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Public School 108,New Lee's Poultry Market,Episcopal Church of the Redeemer,2-01 50th Avenue
+288,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Ten Eyck Garden,English Court,Cornell Tech,NewYork-Presbyterian/Queens
+289,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Ampere Playground,NYC Health + Hospitals/Woodhull,Asphalt Green,Naval Cemetery Landscape
+290,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Long Island University Brooklyn Campus,Public School 380,CBS Studio Building,Evans Tower Plaza
+291,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Queensbridge North Houses,Beaux Arts,Trade Fair,MTA - Quay Street Facility
+292,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Plaza 400,Cooper Park,P. Devito's Paint Store,461 Fifth Avenue
+293,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Ederle Terrace Cafe,BP,Tangram House West,Heckscher Ballfield 5
+294,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Times Square,More Air Mechanical,Public School 214,Planeview Park
+295,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Mayfair Towers,Queens Greenhouse,Medgar Evers College,USTA Billie Jean King National Tennis Center
+296,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Blessed Sacrament Church,Permanent Mission of Venezuela to the United Nations,The Pillar Astoria,Junior High School 126
+297,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,42-20 27th Street,New Roots Community Garden Queens,Brooklyn Technical High School Athletic Field,Lincoln-Berkeley Community Garden
+298,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Box Street Park,1 Haven Plaza,All Saints' Episcopal Church,Ukrainian Institute of America
+299,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,AVA DoBro,Kolping House,The Tower of 15 Central Park West,Mount Zion Cemetery
+300,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,3 MetroTech Center,The Cloister,Brooklyn Point,The Bucknell
+301,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,DUMBO Historic District,One Columbus Place,Staples,TJ Maxx
+302,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,The Eldorado,Gotham Center,Victory Field,Walt Whitman Houses
+303,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Q41,The Prague,Speedy Gas,House of Yes
+304,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,LaGuardia Community College,Carter G. Woodson Children's Park,Brooklyn Navy Yard Cogeneration,Building 8
+305,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,V'Yoel Moshe Hall,Beckford Tower,Colombia,The Redbury New York
+306,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Watermark,The Notre Dame,Acadia Realty Trust,Sutter Avenue Ballfield
+307,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Louis Armstrong House Museum,Soccer Field 6,6,One Fulton Square
+308,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,John Bowne High School,Saint Anthony and Saint Alphonsus School,Public School 120,United Nations
+309,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Copernicus International School,PS 118,Mayfair Towers,The BRiQ
+310,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Queenswood Apartments,Martinez Playground,Amber Steak House,Balsley Park
+311,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Astor Court Apartments,Cherry Circle & Four Season Border,Bank of America,Church of Saint John the Baptist
+312,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Tangram House South,Rossleigh Court,Chrystal House,Sion Grocery & Candy Corp
+313,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Seventythird Precinct Police Station,The Chalfonte,DiFiore Tower,"Hoyt-Schermerhron Streets (A,C,G)"
+314,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Faith Baptist Church,Mount Carmel Cemetery,Julia Richman Education Complex,St. Augustine's Church
+315,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,One South First & Ten Grand,Forest Hills Chateau,M&T Bank,NYC DOT Corona Asphalt Plant
+316,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Cypress Hills Houses,GTM Taxi Management & Aegean Auto Center,P.S. 12 - James B. Colgate School,Carnegie hall
+317,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Fine Fare Supermarkets,Casa Astoria,Ace Hotel,Shops at Grand Avenue
+318,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,John V. Lindsay East River Park,Marion-Hopkinson Playground,Willoughby Walk Cooperative Apartments,High School.for Climate Justice
+319,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Perlmutter Cancer Center,All Saints' Episcopal Church,Eagle and West,New Life Tabernacle
+320,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,The Fitzgerald,Grace Lutheran Church,Tudor City Greens - North Park,Bedford Playground
+321,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Greenpoint Library and Environmental Education Center,All'Antico Vinaio,Florence E Smith Community Center,The Manor
+322,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,The Savoy,Bartlett Playground,G.P. Northern Blvd Service Center,BP
+323,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Pitch and Putt Mini Golf,New York City Process Servers,Vanilla Cafe Pastry Garden,De Hostos Playground
+324,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,The Brooklyn Tower,Sutton Place Synagogue,Permanent Mission of Yemen to the United Nations,Birch Manor
+325,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Trade Fair #1,Tiger Playground,Lawrence Cemetery,Pershing Square
+326,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Bed-Stuy Community Garden,Lex Hotel NYC,Mobil,Hillman Housing
+327,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Citylights At Queens Landing,Times Square,Carnegie Hall Tower,Division & Hooper Triangle
+328,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Gordan Triangle,Birchwood Towers,Baitush Sharf Jame Masjid & Islamic Center,Iglesia Bautista Calvario
+329,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Hunter College Campus Schools,FDNY Engine 293,Best Western Premier,Cleveland R. Vaughan Funeral Home
+330,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,747 Third Avenue,Pop's Popular Clothing,Permanent Mission of Pakistan to the U.N.,Public School 5 Dr. Ronald McNair
+331,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Medical Office,Tudor Tower,Wyckoff Heights Medical Center,Congregation Chasam Sofer
+332,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Traymore,The Warwick,Holland House,Mandalay
+333,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,280 Park Avenue,St Stanislaus Bishop & Martyr Church,Frank Sinatra School of the Arts,St. Bartholomew's
+334,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Southmoor House,Public School 63,New-York Historical Society,Grace United Methodist Church
+335,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Hotel Belleclaire,Intermediate School 117,The Palladin,Ridgewood Garden
+336,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Cuyler Gore Park,Lyceum Kennedy International School,Apthorp Apartments,Woodside Plaza
+337,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Ditmars Court,Queens Montgomory,Louis Armstrong Playground,Saba Deli & Grocery Inc.
+338,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,John V. Lindsay East River Park,Pratt Institute,CubeSmart,Luke's Lobster
+339,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Building 212,Pratt Institute,School bus parking,P.S. 66 Jacqueline Kennedy-Onassis
+340,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,NYC Department of Housing Preservation & Development,Theodore Roosevelt Park,Prospect Heights High School Campus,AKA Sutton Place
+341,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Terrace at Nougatine,Citi Field,Carnegie Plaza,Queens Library - Sunnyside Branch
+342,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Sunnyside Gardens Park,Library Hotel,Public School 89 Elmhurst,Washington Park
+343,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Woodside Community Baptist Church,425 Fifth Avenue,Marymount School of New York,Prospect Park
+344,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,The Plaza,Rego Park Center,M.W. Enoch Grand Lodge,Orchard Alley Garden
+345,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,The Compost Collective,LaGuardia Community College,The Metropolitan Oval,Bridge Tower Place
+346,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,NYPD 112 PCT,Bridge Plaza Community Garden,Korea Town,KD Tires
+347,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Glenmore Plaza,Blessed Sacrament Church,McCarren Park,New A&N Food Market
+348,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,"Charles Ptak, DDS",Best Western,Big Six Towers,McCarren Park
+349,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Resolutions Counseling & Family Services,McCarren Park,Building 212,Food Bazaar
+350,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,White Castle,CubeSmart,Iglesia de Dios de La Profecia,McCarren Park
+351,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Brooklyn's Finest Garden,Forest Park,Saint Vartan Park,Unity Temple Baptist Church
+352,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Bishop Thomas V. Daily Residence,Church of Saint Paul the Apostle,Speedway,Weill Medical College of Cornell University
+353,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Riverside Park,Jackson Heights Canine Recreational Wonderland,Ten Eyck Garden,Columbus House
+354,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Samuel & Sons,Trinity Park,Sunoco,Henry M. Jackson Playground
+355,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Sunnyside Yard,Taxi-Garage,Junior High School 113,The Alfred
+356,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,The Co-op School,Greenstreets,Rockefeller Center,Columbia University Club
+357,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Super Fresh,Baruch College,La Premier,C‑Town Supermarkets

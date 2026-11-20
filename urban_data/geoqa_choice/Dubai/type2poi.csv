@@ -1,0 +1,116 @@
+id,question,answer,A,B,C,D,E
+0,Which POI belongs to type: fuel?,E,Gelatopia Ice Cream,Micro City,Hadiyya Coffee House,Umm Restaurant,إينوك
+1,Which POI belongs to type: marketplace?,A,Pampered Pets,Rihana Jemal Cafe,Fibber Magee’s,DEWA Al Awir Warehouse,Autoplus
+2,Which POI belongs to type: ferry_terminal?,E,ستاربكس,Eat Greek Kouzina,Frappy Cheerful Blend DSO,City walk 2 mosque,الجداف‎
+3,Which POI belongs to type: nightclub?,D,Retro Beach,ماكدونالدز,Filli,Opus Lounge Dubai,بنك المشرق
+4,Which POI belongs to type: parking?,C,Chili's,Garden Green Therapy Centre,RTA Public Parking,Sahara Gym,African Eastern
+5,Which POI belongs to type: atm?,D,Clothes,Vernas Early Learning Centre,Subway,ADCB,Fish Gourmet
+6,Which POI belongs to type: restaurant?,D,دجاج كنتاكي,Advanced OrthoSpine Health Center,Fomo Cafe,Hatam Al Thai,Mumbai Masti
+7,Which POI belongs to type: library?,B,Al Naseem Pharmacy,Al Albany,3D Rent a Car,Joga,Al Ahalia
+8,Which POI belongs to type: cafe?,C,Piccadilly,Popeyes,Caribou,Waves Pool Lounge,RTA Public Parking
+9,Which POI belongs to type: parking_entrance?,B,Wendy's,Central Mall Parking,Careem Bike,Baskin-Robbins,City Way Car Rental
+10,Which POI belongs to type: sports_centre?,D,Pescado,Galadari,McGettigan's,Health Spa & Fitness Center,Tea Days
+11,Which POI belongs to type: car_wash?,A,Al Dana Station,Marina Terrace (Water Bus),Nadapuram Restaurant,Dubai Islamic Bank Building ( DIC ),At.Mosphere Burj Khalifa
+12,Which POI belongs to type: fast_food?,E,Abu Dhabi Commercial Bank,Emaar payment kiosk,Roasters Café,AL Ramool Pharmacy,Paavo's Pizza
+13,Which POI belongs to type: school?,D,Al Taher Restaurant,@Falafel,Nadumuttam Kerala Cuisine,مركز الفنون الموسيقية,Big bus 3 Wafi moll
+14,Which POI belongs to type: hospital?,E,Al Muhaisnah,Al Ansari Exchange,Aprons&Hammers,Al Hikma Medicine and Medical Supplies Warehouse,HLG Umar
+15,Which POI belongs to type: taxi?,E,Cocoa,Sharjah Islamic Bank,BinSina,Chimes,"Airport Taxi Stand, Dubai Airport Terminal 02"
+16,Which POI belongs to type: pharmacy?,A,Community Pharmacy,Boardwalk,Barefoot Lounge,Benelli,L’eto
+17,Which POI belongs to type: bank?,D,Etisalat,Springdales Indian School Dubai,Hadiyya Coffee House,BNP Paribas,Hardee's
+18,Which POI belongs to type: car_rental?,C,Karamteena,American Outpatient Clinic,The Stables,Talipapa,Pizza Hut
+19,Which POI belongs to type: post_office?,D,Hot n Spicy,امارات,Olive Oil,DHL,ماكدونالدز
+20,Which POI belongs to type: fitness_centre?,B,Gental Clinic,Body Fitness,medical international Specialist Centre,Abu Dhabi Commercial Bank,Bar B. Q. Tonight
+21,Which POI belongs to type: bureau_de_change?,D,Lucky Cafeteria,Body Mart Gym,Papa Jones,Al Azhar Money Exchange,% Arabica
+22,Which POI belongs to type: place_of_worship?,E,Green Dew Shine Beauty Centre,Hako Sushi JLT cluster I,بيروت خانم,Tahounet Beirut,Al Zarooni Mosque
+23,Which POI belongs to type: bar?,B,SS Bucket Biryani,Peacock Alley DIFC,نار,Dhamaal,Musabbeh Mohammed Al Mansoori
+24,Which POI belongs to type: marina?,A,Dubai Creek Harbour Marina,Shamim Ahmed Restaurant,Najaf Restaurant,al ethiad diagnostic center (EDC),Nayaab Handi
+25,Which POI belongs to type: apartments?,C,Dodo Pizza,Al barsha health centre,Wasl Square,Nezesaussie,MUMAYES NEW RENT A CAR
+26,Which POI belongs to type: pub?,C,ماكدونالدز,Sharaf Exchange,McGettigan's,Silver Beach Cafe,محاكم دبي
+27,Which POI belongs to type: fire_station?,A,الدفاع المدني القوز,% Arabica,Dubai Islamic Bank Building ( DIC ),Akl Zaman Restaurant,Rihana Jemal Cafe
+28,Which POI belongs to type: residential?,E,Al Ghurair Exchange,Al Warqa Supercharger,Tea Corner,Sharaf Exchange,Nashwan
+29,Which POI belongs to type: veterinary?,B,Kebab Grill,Pet Wellness Veterinary Clinic,Seva table,RTA Public Parking,Il Café di Roma
+30,Which POI belongs to type: auditorium?,D,Mubasher Cafeteria & Restaurant,Burger King,Dubai Islamic Bank,The Fridge,Dera Restaurant
+31,Which POI belongs to type: bicycle_rental?,C,Kiku,Umami,Careem Bike,HSBC,Toshi
+32,Which POI belongs to type: playground?,E,مدرسة مانشستر للأعمال,Love Mhshy,Popeyes,Al Jazeerah Pharmacy,Downtown Slide
+33,Which POI belongs to type: kindergarten?,C,Prime68,نوفو سينما- دبي فستيفال سيتي,Alphabet Street Nursery,Desi Bistro,LIFE Pharmacy
+34,Which POI belongs to type: compressed_air?,C,Lulu Exchange,Toiletten,Airstation for tyres,Eat Greek Kouzina,Even Bedru Coffee Shop
+35,Which POI belongs to type: manufacture?,B,hub 7,Al Ghurair Construction Readymix,Community Pharmacy,RTA Public Parking,Paavo's Pizza
+36,Which POI belongs to type: police?,C,Grand Barbeque,كنيسة القديسة مريم الكاثوليكية,Car Checkup n Registration Area Sharjah,المدينة الأكاديمية,Aster Pharmacy
+37,Which POI belongs to type: clinic?,A,مركز القوز الصحي,Diamond Lease,Al Shumookh Traditional Kitchen,Hanco H,Kooya Filipino Eatery
+38,Which POI belongs to type: golf_course?,A,Al Badia,Eat & Drink Restaurant,Al Shay Restaurant,Sewar,Pappa Roti
+39,Which POI belongs to type: fountain?,A,The Greens Fountain,Al Jood Mandy,Baskin-Robbins,Chaat Bazaar,Panifico Media City
+40,Which POI belongs to type: cinema?,C,Spinneys Park,First Med,The Roxy Cinema,Alphabet Street Nursery,Gulf Crown
+41,Which POI belongs to type: ice_cream?,C,Hanoi Restaurant,DailyDose Café,Pinkberry,أرارت مطعم,Amrutha Restaurant
+42,Which POI belongs to type: fitness_station?,E,Big bus 6 (red line),Zaiqa,Chili's,نووم نووم مطعم آسيا,outdoor sport
+43,Which POI belongs to type: toilets?,A,Women,مطعم مسمط بحه,Vanilla,Yuraku,Aster Pharmacy
+44,Which POI belongs to type: commercial?,B,Jima Restaurant,Dubai Technology Entrepreneurship Centre,Bollywood Film International Equipment Trading,Café Isan,% Arabica
+45,"Which POI belongs to type: Billiards,_PS3?",D,Cheeky Monkeys,800Pizza,Honey Lemon,Sports City,ستاربكس
+46,Which POI belongs to type: theatre?,C,The Yellow Chilli,Cavalli Club,Dubai Community Theatre & Arts Centre (DUCTAC),Grill & Broast,Folly by Nick&Scott
+47,Which POI belongs to type: post_box?,D,Mr. Sub,Brick Lane,Al Afdhal Pharmacy,seabreeze cargo,Galadari
+48,Which POI belongs to type: driving_school?,E,Shisha Lounge,BinSina,Shiraaz Nights,Invent Internet Services,Galadari
+49,Which POI belongs to type: telephone?,A,du,Falafel Frayha,The Boston Bar,Gems First Point School (The Villa),Good fellas sport bar
+50,Which POI belongs to type: arts_centre?,C,Popeyes,اينوك,ProArt Gallery,Al Shifa,Karak Alfreej
+51,Which POI belongs to type: university?,D,Abi Fidaa Medical Co.,New Al Nahda Pharmacy,محمد وقاص,Online Trading Academy,Farzi
+52,Which POI belongs to type: university?,A,مدرسة مانشستر للأعمال,Canadian Specialist Hospital,Toiletten,Acai & Co.,Wide Range
+53,Which POI belongs to type: clock?,D,Emirates NBD,Sharjah Islamic Bank,أل مغفرة مسجد,Middlesex Clock Tower,Koyla
+54,Which POI belongs to type: house?,A,Villa,Zoommax,Ahlam Al Khulood Cafeteria,Shower,مطحم هوت
+55,Which POI belongs to type: charging_station?,B,Café Bazza,Al Warqa Supercharger,RTA Public Parking,MedX Pharmacy,ماكدونالدز
+56,Which POI belongs to type: hackerspace?,D,Chhappan Bhog,Starbucks,Dubai Islamic Bank Building ( DIC ),Origin Base Makerspace,كاريبو كوفي
+57,Which POI belongs to type: doctors?,D,The Gin Garden,Cremolata,XPark,medical international Specialist Centre,Progress Rent a Car
+58,Which POI belongs to type: park?,C,Spring Onion,Highway Street,Courtyard 5 - Hacienda,New Comsopolitan Pharmacy,Galadari
+59,Which POI belongs to type: garden?,D,Shri Krishna Bhavan,Cleopatra Swimming Academy,Aster Pharmacy,Golden Tools Trading,Star Body Gym
+60,Which POI belongs to type: restaurant;post_office?,A,Sbarro;DHL,Villa Barcelona Cafe,Haram Restaurant,Aster Pharmacy,Synergy Fitness
+61,Which POI belongs to type: school?,D,Halla Shawarma,Yakitate,Day & Night,Swiss Scientific School,Big Fernand
+62,Which POI belongs to type: nursing_home?,E,UNO,Fuchsia,ستاربكس,myla,Chubby Cheeks
+63,Which POI belongs to type: spa?,E,Al Rostamani International Exchange,Age Relation Cafeteria,Rare,Logs And Embers,Reborn Spa
+64,Which POI belongs to type: water_park?,C,Diggers Lab Construction Theme Park,Shawarmaji Restaurant and Coffee Shop,SplashPad,Dr. Batra's,24 hour Pharmacy
+65,Which POI belongs to type: pitch?,B,Golden Star Karate,Driving Range,ستاربكس,Dallas Restaurant,Galadari
+66,Which POI belongs to type: drinking_water?,B,Dasprakash Restaurant,R105m,Khalidha Medical Centre,Burger King,Bistro 55
+67,Which POI belongs to type: dentist?,C,European Bakery,Al Farooj Al Shami,Invisalign,Al Warda Al Dahabiya Coffee,Peshawari Restaurant
+68,Which POI belongs to type: warehouse?,D,Al Namoos Cafe,Al Saah Pharmacy,Poke,DEWA Al Awir Warehouse,Kaftan
+69,Which POI belongs to type: vehicle_inspection?,B,Time Rent a Car,Car Passing,Tasty Bowl Restaurant,Costa,Etihad Airways Bus Terminal
+70,Which POI belongs to type: bus_station?,B,Star Burger,محطة الاتحاد الحافلات,Karachi Restaurant,Lanka Car Rental,اينوك
+71,Which POI belongs to type: community_centre?,A,Atlantis the Palm staff accommodation,Prime Medical Center,Kulfi Chai,HSBC,Sbarro;DHL
+72,Which POI belongs to type: religious?,C,Al Nahda Polyclinic,Kapitbahay,ميدان صلاة العيد أم سقيم ٢,Al Zahra (pvt) Medical centre,Barjeel al Arab restaurant
+73,Which POI belongs to type: escape_game?,B,Habesha Restaurant,Hysteria Dubai Mall,بيروت,The Klassix,Heat
+74,Which POI belongs to type: childcare?,E,LARTE Restaurant,Kimura-ya Restaurant Anantara,Multifood Restaurant & Cafeteria,Monaco Café & Cafeteria,Step Up Nursery
+75,Which POI belongs to type: food_court?,A,Time Out Market,Star Body Gym Nad Al Hamar,Avis,Mr. Sub,BlackOut
+76,Which POI belongs to type: courthouse?,B,Booba,Muhammad Ali room in Dubai,House of pizza,The Developing Child Center,RCR Rent A Car
+77,Which POI belongs to type: vending_machine?,D,Chicken Tikke Inn,Zoga,Jones the grocer,محطة الحزمة دي إتش إل,Chi
+78,Which POI belongs to type: recycling?,E,Five Guys,All the Perks (Espresso Coffee),Oasis Mall,Cinque,Clothes
+79,Which POI belongs to type: trampoline_park?,C,Poke & Co,Mini Chinese,Bounce Park,عند ميشال,Carinderia Ni Tandang Sora
+80,Which POI belongs to type: sauna?,A,المطعم الافغاني,GYM,Bar 44,nextbike,Al Sultan
+81,Which POI belongs to type: studio?,B,Al Kabab Al Afghani Restaurant,Make-Up Atelier,Absolute Barbecues,Careem Bike,Dubai Police
+82,Which POI belongs to type: post_depot?,A,Gags Logistics,Charlies Sub,Risen Café and Artisanal Bakery,Paavo's Pizza,New Times Chinese
+83,Which POI belongs to type: dojo?,B,Ahalia Exchange,Golden Falcon Karate,Agemono International Buffet,Ploy's Zaab,Starbucks
+84,Which POI belongs to type: internet_cafe?,A,Click to Link,3 Fold Education Center,Talipapa,Lassi Home,HQ's 459
+85,Which POI belongs to type: res?,C,Al Rostamani International Exchange,Karek & Harek,Letz Grill,Tawa and Grill Restaurant,Hawaii Rent a Car
+86,Which POI belongs to type: video_arcade?,D,Chatori Gali,Seattle's Best Coffee,مطعم الفهيدي,Giga Planet,Emirates NBD
+87,Which POI belongs to type: social_centre?,A,Amer Center - Karama (UID Smart Services),Comptoir 102 - Healthy Cafe and Concept Store,Emirates NBD,Rental Cars UAE - Dubai,Liberty Dental Clinic
+88,Which POI belongs to type: bowling_alley?,A,Freddy's,Taza,Emly Chillli,Galadari,Eat & Drink Restaurant
+89,Which POI belongs to type: dive_centre?,E,Road Beast,Baskin-Robbins,CBI,GEMS Founders school,Al Boom Diving
+90,Which POI belongs to type: boat_rental?,C,The Surf Café & The Sushi Bar,Din Tai Fun,Bristol Charter,Pizzaro,Yalla Momos
+91,Which POI belongs to type: ice_rink?,C,dhe puttu,HSBC,Dubai Ice Rink,Dhow Star Floating Restaurant,Life Pharmacy
+92,Which POI belongs to type: residential?,C,DES,Taste of Italy by Heinz Beck,Horizon Tower,Najeela,مطعم الياس
+93,Which POI belongs to type: shower?,D,Secrets of the Lost City,Green Apples Pharmacy,Chinchaaus Restaurant,Female shower,Shehar-e-Karachi Restaurant
+94,Which POI belongs to type: smoking_area?,C,Al Waleed Real Estate - Karama 1,Charlie's Pub,Smoking Lounge,50,Cheesecake Factory
+95,Which POI belongs to type: amusement_arcade?,E,Al Maskoof Al Iraqi Restaurant,Dr Ismail Day Surgery Center,Taza,Lallumma’s Restaurant,House of Fear Cave Entertainment
+96,Which POI belongs to type: college?,A,DEWA Academy,Пляж,Karaf by Bahce - The Palm,Horseland Cafe,Mohalla
+97,Which POI belongs to type: dance?,A,Dashing Dazzler,Le Parisien,MSB Private School - Primary Block,Khan Murjan,Rosso Vivo Artizan Pizza
+98,Which POI belongs to type: swimming_pool?,D,Najmat Ajnas Restaurant,Blue Tree Clinics,UAE Exchange,SWIMTIME Learn-to-Swim Centre,Kamat Vegeterian Restaurant
+99,Which POI belongs to type: events_venue?,C,بنك أبوظبي الوطني فرع ديرة دبي,Dubai Homeopathy Health Centre,Blink Experience - Best Event Management Company in Dubai,ماكدونالدز,Hareb Mandi
+100,Which POI belongs to type: animal_boarding?,E,New Marina Restaurant,Namu,Fuddruckers,Light Food Restaurant,Dog House Pets Boarding & Daycare
+101,Which POI belongs to type: payment_terminal?,E,Al Musalam Rent a Car,The Hamptons Café,Vetcare Arjan,Adult Fitness equipment,Emaar payment kiosk
+102,Which POI belongs to type: swimming_area?,B,ETISALAT Public Phone,Emirates swimming pool,Al Naseem Pharmacy,Barbecue Delights,Al Barsha Veterinary Clinic
+103,Which POI belongs to type: fishing?,D,Somerset's,800Pizza,L’eto,The Fish Spa,Your Choice
+104,Which POI belongs to type: give_box?,E,GMC Pharmacy,Tandoori Junction,Wok Boyz,ماكدونالدز,for clothing donations
+105,Which POI belongs to type: coworking_space?,B,Dubai Mall Cinema Parking P5,Astrolabs Coworking (Lake Side),ADNIF,Micro Oven,Alazahem Iraqui Restaurant
+106,Which POI belongs to type: dancing_school?,E,4100293,Hoya Cafe & Restaurant,Union,Aster Pharmacy,DS2DIO
+107,Which POI belongs to type: dog_park?,B,Krave,Eisbej Dog Park,Careem Bike,Lads Burger,First Gulf Bank
+108,Which POI belongs to type: music_school?,B,UAE Xchange,Melodica Music Academy - Dubai Hills,Mubasher Cafeteria,Baskin-Robbins,BNP Paribas
+109,Which POI belongs to type: outdoor_seating?,E,Karachi Darbar,Noor Bank,Subway,ستاربكس,Salt Camp
+110,Which POI belongs to type: bbq?,D,Al Samah Pharmacy,Hard Rock Cafe,Jones the grocer,JS BBQ,Costa
+111,Which POI belongs to type: indoor_play?,A,Adventure Parx & Cafe,Pizza Corner,Sheikh Al Mandi,Kabab Erbil Iraqi Restaurant Al Muraqqabat,Multinet Trust Exchange
+112,Which POI belongs to type: prep_school?,D,Popeyes,Dubai Islamic Bank Building ( DIC ),Ajanta Restaurant,Meta Mindz Learning Center,Coastal Butlers
+113,Which POI belongs to type: language_school?,E,Pepper Lane,Al Sultan Restaurant & Grill,Flowers Ale,Elite Rent a Car,Klaster Language and Communication Hub
+114,Which POI belongs to type: karaoke_box?,A,Galaxy KTV Lounge,Yoga with Natalia Celada,Foul & Falafel Al Damyati,Love Mhshy,Dubai Islamic Bank

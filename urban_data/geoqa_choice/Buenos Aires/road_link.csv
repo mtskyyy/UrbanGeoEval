@@ -1,0 +1,308 @@
+,A,B,C,D,question,answer
+0,Cerrito,Avenida Maipú,Avenida Juan Bautista Alberdi,Jerónimo Salguero,"In the Buenos Aires area, which road cannot directly reach Avenida Santa Fe?",C
+1,Avenida La Pampa,Avenida Santa Fe,Avenida Presidente Sarmiento,Avenida General Las Heras,"In the Buenos Aires area, which road cannot directly reach Calzada Circular Plaza Italia?",A
+2,La Pampa,Avenida Congreso,Vilela,Doctor Pedro Ignacio Rivera,"In the Buenos Aires area, which road cannot directly reach Avenida Melián?",D
+3,Avenida La Plata,Avenida del Campo,Avenida García del Río,Ecuador,"In the Buenos Aires area, which road directly reaches Pinto?",C
+4,Avenida Doctor Honorio Pueyrredón,Pinto,José Hernández,Calzada Circular Plaza Italia,"In the Buenos Aires area, which road directly reaches Avenida García del Río?",B
+5,Avenida 9 de Julio,Avenida Suárez,Avenida Santa Fe,Avenida Alvear,"In the Buenos Aires area, which road cannot directly reach Cerrito?",B
+6,Lima,Avenida General Mosconi,Avenida Santa Fe,Avenida de Mayo,"In the Buenos Aires area, which road cannot directly reach Avenida 9 de Julio?",B
+7,Avenida Presidente Sarmiento,Avenida Elcano,Boedo,Avenida Juan Bautista Justo,"In the Buenos Aires area, which road directly reaches Avenida Adolfo Berro?",A
+8,Marta Lynch,Avenida Del Libertador,Avenida Belisario Roldán,Avenida Adolfo Berro,"In the Buenos Aires area, which road cannot directly reach Avenida Presidente Sarmiento?",A
+9,Monroe,José Hernández,Nahuel Huapi,Avenida Dorrego,"In the Buenos Aires area, which road cannot directly reach Avenida Cabildo?",C
+10,Avenida Doctor Ricardo Balbín,Avenida Cabildo,Doctor Pedro Ignacio Rivera,Avenida Crámer,"In the Buenos Aires area, which road cannot directly reach Manuela Pedraza?",C
+11,Avenida Teniente General Donato Álvarez,Avenida Intendente Cantilo,Miguel Ángel,Punta Arenas,"In the Buenos Aires area, which road cannot directly reach Avenida San Martín?",B
+12,Avenida Maipú,Avenida San Martín,Avenida Ángel Gallardo,Avenida Parque Roberto Goyeneche,"In the Buenos Aires area, which road directly reaches Miguel Ángel?",B
+13,Avenida Crámer,Cuenca,Avenida Crucero Belgrano,Avenida Boyacá,"In the Buenos Aires area, which road directly reaches José Hernández?",A
+14,Avenida La Pampa,Doctor Pedro Ignacio Rivera,Herrera,Coronel Ramón Lorenzo Falcón,"In the Buenos Aires area, which road directly reaches Avenida Intendente Cantilo?",A
+15,Azucena Villaflor,Avenida Jorge Newbery,Juramento,Avenida Intendente Cantilo,"In the Buenos Aires area, which road directly reaches Avenida La Pampa?",D
+16,Doctor Ramón Carrillo,Avenida Cabildo,Cavia,Avenida John Fitzgerald Kennedy,"In the Buenos Aires area, which road directly reaches Virrey Del Pino?",B
+17,Avenida Castañares,Avenida Guzmán,Virrey Del Pino,Avenida Triunvirato,"In the Buenos Aires area, which road cannot directly reach Avenida Elcano?",A
+18,Avenida Álvarez Thomas,Avenida Doctor Rómulo Naón,Constitución,Avenida Melián,"In the Buenos Aires area, which road cannot directly reach Avenida Olazábal?",C
+19,Avenida Olazábal,Avenida Carabobo,Avenida Olleros,Doctor Ramón Carrillo,"In the Buenos Aires area, which road directly reaches Superí?",A
+20,Jerónimo Salguero,Avenida Medrano,Avenida Corrientes,Padre M. L. Migone,"In the Buenos Aires area, which road cannot directly reach Avenida Díaz Vélez?",D
+21,Avenida Leopoldo Marechal,Aimé Painé,Avenida Díaz Vélez,Avenida Ángel Gallardo,"In the Buenos Aires area, which road cannot directly reach Avenida Patricias Argentinas?",B
+22,Avenida La Plata,Avenida Caseros,Río Cuarto,Pavón,"In the Buenos Aires area, which road cannot directly reach Avenida Chiclana?",C
+23,Avenida Chiclana,Avenida Costanera Rafael Obligado,Avenida Benito Pérez Galdós,Díaz Colodrero,"In the Buenos Aires area, which road directly reaches Avenida Sánchez de Loria?",A
+24,Avenida Canónigo Miguel del Corro,Pedernera,Ecuador,Autopista Perito Moreno,"In the Buenos Aires area, which road cannot directly reach Avenida Rivadavia?",D
+25,Avellaneda,Avenida Acoyte,Avenida General Iriarte,Avenida Pueyrredón,"In the Buenos Aires area, which road directly reaches Ecuador?",D
+26,Avenida Santa Fe,José Hernández,Avenida Pichincha,Avenida Presidente Roque Sáenz Peña,"In the Buenos Aires area, which road directly reaches Avenida Maipú?",A
+27,Avenida Warnes,Varela,Autopista Presidente Arturo Frondizi,Avenida Del Libertador,"In the Buenos Aires area, which road directly reaches Avenida Crucero Belgrano?",D
+28,Avenida Corrientes,Avenida Juan Bautista Justo,Manuel Ricardo Trelles,Avenida Gaona,"In the Buenos Aires area, which road cannot directly reach Avenida Juan Bautista Justo?",B
+29,Avenida Juan Bautista Justo,Avenida Avellaneda,Blanco Encalada,Nazca,"In the Buenos Aires area, which road cannot directly reach Avenida Nazca?",C
+30,Avenida Riestra,Avenida Martín García,Avenida Castañares,Avenida Eva Perón,"In the Buenos Aires area, which road cannot directly reach Avenida Coronel Esteban Bonorino?",B
+31,Avenida Coronel Esteban Bonorino,Avenida Corea,Avenida Jujuy,Avenida Varela,"In the Buenos Aires area, which road cannot directly reach Avenida Castañares?",C
+32,Avenida Rivadavia,Avenida Eva Perón,Avenida Castro Barros,Avenida Juan Bautista Alberdi,"In the Buenos Aires area, which road cannot directly reach Avenida Carabobo?",C
+33,Bermúdez,Avenida Carabobo,Avenida Cobo,Avenida Curapaligüe,"In the Buenos Aires area, which road cannot directly reach Avenida Corea?",A
+34,Avenida Eva Perón,Varela,Avenida Carlos Calvo,Balbastro,"In the Buenos Aires area, which road cannot directly reach Avenida Varela?",C
+35,Avenida Virrey Vértiz,Avenida Juan Bautista Alberdi,Avenida Francisco Bilbao,Avenida Directorio,"In the Buenos Aires area, which road cannot directly reach Avenida San Pedrito?",A
+36,Gilardo Gilardi,Avenida Castañares,Avenida Rivadavia,Avenida Asamblea,"In the Buenos Aires area, which road cannot directly reach Avenida José María Moreno?",A
+37,Avenida José María Moreno,Avenida Federico Lacroze,Avenida Cobo,Avenida Riestra,"In the Buenos Aires area, which road cannot directly reach Avenida Daract?",B
+38,Avenida Caseros,Avenida Coronel Esteban Bonorino,Avenida Corea,Avenida José María Moreno,"In the Buenos Aires area, which road cannot directly reach Avenida Cobo?",B
+39,Avenida Asamblea,Avenida Boedo,Avenida La Plata,Boulevard Rosario Vera Peñaloza,"In the Buenos Aires area, which road cannot directly reach Avenida Pavón?",D
+40,Avenida La Plata,Avenida Castañares,Avenida Almirante Brown,Avenida Vernet,"In the Buenos Aires area, which road cannot directly reach Avenida Asamblea?",C
+41,Avenida Eva Perón,Avenida General Francisco Fernández de La Cruz,Avenida Cobo,Avenida Caseros,"In the Buenos Aires area, which road cannot directly reach Avenida La Plata?",A
+42,Avenida Pedro Goyena,Avenida Chiclana,Avenida La Plata,Treinta y Tres Orientales,"In the Buenos Aires area, which road cannot directly reach Avenida Carlos Calvo?",B
+43,Avenida Carlos Calvo,Avenida Hipólito Yrigoyen,Avenida José María Moreno,Avenida La Plata,"In the Buenos Aires area, which road cannot directly reach Avenida Pedro Goyena?",B
+44,Chonino,Boulevard Rosario Vera Peñaloza,Azucena Villaflor,Avenida de los Italianos,"In the Buenos Aires area, which road cannot directly reach Avenida Calabria?",A
+45,Boulevard Rosario Vera Peñaloza,Avenida Calabria,Avenida John Fitzgerald Kennedy,Avenida Costanera Doctor Tristán Achával Rodríguez,"In the Buenos Aires area, which road cannot directly reach Padre M. L. Migone?",C
+46,Julieta Lanteri,Avenida Dorrego,Aimé Painé,Padre M. L. Migone,"In the Buenos Aires area, which road cannot directly reach Boulevard Rosario Vera Peñaloza?",B
+47,Avenida Alicia Moreau de Justo,Avenida Independencia,Teniente General Juan Domingo Perón,Avenida de los Italianos,"In the Buenos Aires area, which road cannot directly reach Macacha Güemes?",B
+48,Avenida Crámer,Marta Lynch,Azucena Villaflor,Avenida Calabria,"In the Buenos Aires area, which road cannot directly reach Avenida de los Italianos?",A
+49,Avenida Adolfo Berro,Avenida San Pedrito,Avenida Varela,Avenida Lafuente,"In the Buenos Aires area, which road cannot directly reach Avenida Francisco Bilbao?",A
+50,Avenida Costanera Doctor Tristán Achával Rodríguez,Avenida Triunvirato,Autopista Presidente Arturo Frondizi,Avenida General Francisco Fernández de La Cruz,"In the Buenos Aires area, which road directly reaches Avenida del Barco Centenera?",D
+51,Avenida del Barco Centenera,Avenida Chiclana,Tilcara,Avenida Amancio Alcorta,"In the Buenos Aires area, which road cannot directly reach Avenida General Francisco Fernández de La Cruz?",D
+52,José Hernández,Avenida Coronel Esteban Bonorino,Avenida General Francisco Fernández de La Cruz,Avenida Daract,"In the Buenos Aires area, which road cannot directly reach Avenida Riestra?",A
+53,Avenida Elcano,Avenida Olazábal,Avenida Forest,Hipólito Yrigoyen,"In the Buenos Aires area, which road cannot directly reach Avenida Álvarez Thomas?",D
+54,Avenida Cabildo,Avenida Doctor Ricardo Balbín,Avenida Corrientes,Avenida Triunvirato,"In the Buenos Aires area, which road cannot directly reach Avenida Federico Lacroze?",B
+55,Avenida Carabobo,Avenida Coronel Esteban Bonorino,Avenida Varela,Avenida Ángel Gallardo,"In the Buenos Aires area, which road cannot directly reach Avenida Eva Perón?",D
+56,Avenida Rivadavia,Avenida Juan Bautista Justo,Lacarra,Tilcara,"In the Buenos Aires area, which road cannot directly reach Avenida Carrasco?",D
+57,Avenida Carrasco,Avenida Rivadavia,Avenida Leopoldo Marechal,Avenida Directorio,"In the Buenos Aires area, which road cannot directly reach Lacarra?",C
+58,Avenida Santa Fe,Avenida La Rábida,Avenida Del Libertador,Avenida Jujuy,"In the Buenos Aires area, which road cannot directly reach Avenida Pueyrredón?",B
+59,Avenida Callao,Avenida Boedo,Avenida Coronel Díaz,Calzada Circular Plaza Italia,"In the Buenos Aires area, which road cannot directly reach Avenida General Las Heras?",B
+60,Doctor Ramón Carrillo,Avenida Brasil,Avenida Vernet,Avenida Monroe,"In the Buenos Aires area, which road directly reaches Avenida Pichincha?",B
+61,Avenida Paseo Colón,Bauness,Avenida Pichincha,Avenida Entre Ríos,"In the Buenos Aires area, which road cannot directly reach Avenida Brasil?",B
+62,Pichincha,Avenida Hipólito Yrigoyen,Avenida Entre Ríos,Avenida Boedo,"In the Buenos Aires area, which road cannot directly reach Avenida Caseros?",B
+63,Avenida Olazábal,Avenida Chorroarín,Varela,Avenida Combatientes de Malvinas,"In the Buenos Aires area, which road cannot directly reach Avenida Triunvirato?",C
+64,Avenida Dorrego,Huergo,Avenida Belgrano,Avenida Federico Lacroze,"In the Buenos Aires area, which road cannot directly reach Avenida Luis María Campos?",C
+65,Hipólito Vieytes,Avenida Luis María Campos,Ávalos,Avenida Combatientes de Malvinas,"In the Buenos Aires area, which road directly reaches Huergo?",B
+66,Avenida Corrientes,Avenida Córdoba,Avenida San Pedrito,Avenida Warnes,"In the Buenos Aires area, which road cannot directly reach Avenida Dorrego?",C
+67,Manuela Pedraza,José Hernández,Juramento,Avenida Chiclana,"In the Buenos Aires area, which road cannot directly reach Avenida Crámer?",D
+68,Avenida Doctor Ricardo Balbín,Avenida Triunvirato,Galván,Huergo,"In the Buenos Aires area, which road cannot directly reach Avenida Congreso?",D
+69,Avenida Salvador María del Carril,Avenida Boedo,Avenida Nazca,Avenida Francisco Beiró,"In the Buenos Aires area, which road cannot directly reach Nazca?",B
+70,Avenida de los Incas,Avenida de los Constituyentes,Avenida Nazca,Avenida Álvarez Thomas,"In the Buenos Aires area, which road cannot directly reach Avenida Francisco Beiró?",D
+71,Avenida Santa Fe,Avenida Cerviño,Avenida Juan Bautista Justo,Túnel Gustavo Cerati,"In the Buenos Aires area, which road cannot directly reach Avenida Intendente Bullrich?",D
+72,Avenida Francisco Bilbao,Emilio Castro,Avenida General Eugenio Garzón,Avenida Intendente Bullrich,"In the Buenos Aires area, which road directly reaches Avenida Cerviño?",D
+73,Avenida Don Pedro de Mendoza,Luis Viale,Avenida Warnes,Avenida Ángel Gallardo,"In the Buenos Aires area, which road cannot directly reach Avenida Doctor Honorio Pueyrredón?",A
+74,Avenida Leandro N. Alem,Olazábal,Paso Bajo Nivel Balbin Gatica - Goyeneche,Monroe,"In the Buenos Aires area, which road cannot directly reach Avenida Doctor Ricardo Balbín?",A
+75,Díaz Colodrero,Crisólogo Larralde,Avenida Ruiz Huidobro,Avenida Doctor Ricardo Balbín,"In the Buenos Aires area, which road cannot directly reach Avenida Parque Roberto Goyeneche?",A
+76,Suárez,Bauness,Avenida Entre Ríos,Avenida Suárez,"In the Buenos Aires area, which road cannot directly reach Avenida Vélez Sársfield?",B
+77,Avenida Vélez Sársfield,Pavón,Avenida Juan de Garay,Avenida Córdoba,"In the Buenos Aires area, which road cannot directly reach Avenida Entre Ríos?",D
+78,Avenida San Pedrito,Avenida de los Incas,Avenida Warnes,Avenida de los Constituyentes,"In the Buenos Aires area, which road cannot directly reach Avenida Chorroarín?",A
+79,Virrey Melo,Avenida Triunvirato,Galván,Avenida Doctor Ricardo Balbín,"In the Buenos Aires area, which road cannot directly reach Avenida Ruiz Huidobro?",A
+80,Avenida Del Libertador,Paso Bajo Nivel Balbin Gatica - Goyeneche,Valentín Alsina,Avenida Luis María Campos,"In the Buenos Aires area, which road cannot directly reach Avenida Olleros?",B
+81,Avenida Casares,Miguel Ángel,Avenida Santa Fe,Avenida Pueyrredón,"In the Buenos Aires area, which road cannot directly reach Avenida Del Libertador?",B
+82,Avenida Triunvirato,Avenida Chorroarín,Avenida Juan de Garay,Avenida Francisco Beiró,"In the Buenos Aires area, which road cannot directly reach Avenida de los Incas?",C
+83,Avenida General Mosconi,Avenida General Benjamín Victorica,Avenida Cerviño,Paz Soldán,"In the Buenos Aires area, which road cannot directly reach Avenida de los Constituyentes?",C
+84,Avenida Suárez,Avenida Sáenz,Avenida Vélez Sársfield,Renée Slotopolsky de Epelbaum,"In the Buenos Aires area, which road cannot directly reach Avenida Amancio Alcorta?",D
+85,Avenida Triunvirato,Avenida de los Incas,Avenida Perito Moreno,Avenida de los Constituyentes,"In the Buenos Aires area, which road cannot directly reach Avenida General Benjamín Victorica?",C
+86,Avenida Sáenz,Tilcara,Avenida Teniente General Luís Dellepiane,Avenida Doctor Honorio Pueyrredón,"In the Buenos Aires area, which road cannot directly reach Avenida Perito Moreno?",D
+87,Avenida Donado,Tilcara,Avenida José María Moreno,Avenida Manuel Augusto Montes de Oca,"In the Buenos Aires area, which road directly reaches Avenida Tilcara?",B
+88,Avenida Tilcara,Avenida Perito Moreno,Avenida General Francisco Fernández de La Cruz,Avenida Crámer,"In the Buenos Aires area, which road cannot directly reach Tilcara?",D
+89,Avenida Eva Perón,Avenida Corea,Tandil,Avenida Cobo,"In the Buenos Aires area, which road cannot directly reach Avenida Curapaligüe?",C
+90,Avenida Avellaneda,Avenida Rivadavia,Segurola,Avenida Carabobo,"In the Buenos Aires area, which road cannot directly reach Avenida Boyacá?",C
+91,Avenida Carrasco,Olazábal,Avenida Canónigo Miguel del Corro,Segurola,"In the Buenos Aires area, which road cannot directly reach Doctor Juan Felipe Aranguren?",B
+92,Boyacá,Nazca,Riobamba,Avenida Australia,"In the Buenos Aires area, which road directly reaches Avenida Salvador María del Carril?",B
+93,Avenida La Plata,Manuela Pedraza,Avenida Perito Moreno,Avenida Caseros,"In the Buenos Aires area, which road cannot directly reach Avenida Sáenz?",B
+94,Avenida Castro Barros,Avenida Álvarez Thomas,Avenida de los Incas,Avenida Federico Lacroze,"In the Buenos Aires area, which road cannot directly reach Avenida Forest?",A
+95,Avenida Chorroarín,Avenida Elcano,Avenida Ángel Gallardo,Avenida Garmendia,"In the Buenos Aires area, which road cannot directly reach Avenida del Campo?",C
+96,Avenida del Campo,Avenida Chorroarín,Río Cuarto,La Pampa,"In the Buenos Aires area, which road cannot directly reach Avenida Combatientes de Malvinas?",C
+97,Juana Manso,Avenida Teniente General Luís Dellepiane,Aimé Painé,Avenida Calabria,"In the Buenos Aires area, which road cannot directly reach Azucena Villaflor?",B
+98,Jerónimo Salguero,Renée Slotopolsky de Epelbaum,Avenida Corrientes,Avenida Doctor José María Ramos Mejía,"In the Buenos Aires area, which road cannot directly reach Padre Carlos Mugica?",C
+99,Avenida Parque Roberto Goyeneche,Avenida Corrientes,Avenida Coronel Díaz,Avenida Presidente Figueroa Alcorta,"In the Buenos Aires area, which road cannot directly reach Jerónimo Salguero?",A
+100,Mariano Acosta,Portela,Pedernera,Paz Soldán,"In the Buenos Aires area, which road cannot directly reach Avenida Juan Bautista Alberdi?",D
+101,Avenida Melián,Avenida Combatientes de Malvinas,Avenida Doctor Rómulo Naón,Carlos Pellegrini,"In the Buenos Aires area, which road cannot directly reach La Pampa?",D
+102,Avenida Del Libertador,Avenida de los Ombúes,Avenida Presidente Sarmiento,Avenida Adolfo Berro,"In the Buenos Aires area, which road cannot directly reach Avenida Casares?",B
+103,Autopista Presidente Arturo Frondizi,Avenida Independencia,Avenida Belgrano,Cerrito,"In the Buenos Aires area, which road cannot directly reach Bernardo de Irigoyen?",A
+104,Avenida Forest,Avenida Raúl Scalabrini Ortiz,Avenida Tilcara,Avenida Eduardo Madero,"In the Buenos Aires area, which road cannot directly reach Avenida Corrientes?",C
+105,Avenida Vélez Sársfield,Avenida Suárez,Doctor Ramón Carrillo,Padre Carlos Mugica,"In the Buenos Aires area, which road cannot directly reach Avenida Australia?",D
+106,Avenida Amancio Alcorta,Avenida Suárez,Avenida Olleros,Avenida Australia,"In the Buenos Aires area, which road cannot directly reach Doctor Ramón Carrillo?",C
+107,Suárez,General Hornos,Avenida Belgrano,Avenida Amancio Alcorta,"In the Buenos Aires area, which road cannot directly reach Avenida Suárez?",C
+108,Coronel Apolinario Figueroa,Avenida Warnes,Avenida Pavón,Avenida Corrientes,"In the Buenos Aires area, which road cannot directly reach Avenida Raúl Scalabrini Ortiz?",C
+109,Avenida Doctor Honorio Pueyrredón,Avenida Parque Roberto Goyeneche,Avenida Raúl Scalabrini Ortiz,Avenida Warnes,"In the Buenos Aires area, which road cannot directly reach Coronel Apolinario Figueroa?",B
+110,Avenida de los Incas,Acoyte,Avenida de los Constituyentes,Murillo,"In the Buenos Aires area, which road cannot directly reach Avenida Warnes?",A
+111,Monroe,Superí,Avenida General Benjamín Victorica,Avenida Doctor Ricardo Balbín,"In the Buenos Aires area, which road cannot directly reach Avenida Monroe?",C
+112,Avenida Triunvirato,Avenida Presidente Sarmiento,Avenida Monroe,Avenida Cabildo,"In the Buenos Aires area, which road cannot directly reach Monroe?",B
+113,Del Barco Centenera,Avenida La Plata,Avenida San Pedrito,Gilardo Gilardi,"In the Buenos Aires area, which road cannot directly reach Avenida Directorio?",D
+114,San Martín,Acoyte,Padre Carlos Mugica,Avenida Doctor José María Ramos Mejía,"In the Buenos Aires area, which road cannot directly reach Renée Slotopolsky de Epelbaum?",B
+115,Gilardo Gilardi,Padre Carlos Mugica,Avenida Del Libertador,Portela,"In the Buenos Aires area, which road cannot directly reach Avenida Doctor José María Ramos Mejía?",D
+116,Avenida García del Río,Avenida Francisco Bilbao,Constitución,Avenida Crámer,"In the Buenos Aires area, which road directly reaches Avenida Lacarra?",B
+117,Avenida Bruix,Galván,Avenida Juan Bautista Alberdi,Avenida Directorio,"In the Buenos Aires area, which road cannot directly reach Avenida Olivera?",B
+118,Juramento,Avenida La Pampa,Avenida Presidente Ramón S. Castillo,Jerónimo Salguero,"In the Buenos Aires area, which road cannot directly reach Avenida Costanera Rafael Obligado?",A
+119,Avellaneda,Avenida Corrientes,Avenida Intendente Bullrich,Avenida Triunvirato,"In the Buenos Aires area, which road directly reaches Avenida Guzmán?",B
+120,Juan Agustín García,Avenida John Fitzgerald Kennedy,Teniente General Donato Álvarez,Avenida Directorio,"In the Buenos Aires area, which road directly reaches Avenida Colombia?",B
+121,Avenida Presidente Figueroa Alcorta,Avenida Daract,Avenida Casares,Avenida Presidente Sarmiento,"In the Buenos Aires area, which road cannot directly reach Avenida Belisario Roldán?",B
+122,Avenida Entre Ríos,Azucena Villaflor,Avenida España,Avenida Intendente Hernán M. Giralt,"In the Buenos Aires area, which road cannot directly reach Avenida Costanera Doctor Tristán Achával Rodríguez?",A
+123,Padre M. L. Migone,Avenida Cobo,Avenida Costanera Doctor Tristán Achával Rodríguez,Avenida Elvira Rawson de Dellepiane,"In the Buenos Aires area, which road cannot directly reach Avenida España?",B
+124,General José Gervasio Artigas,Puente Gerónimo Saccardi,Doctor Ramón Carrillo,Fray Cayetano Rodríguez,"In the Buenos Aires area, which road cannot directly reach Avenida Avellaneda?",C
+125,Emilio Castro,Carlos Pellegrini,Avenida Directorio,Avenida Juan Bautista Alberdi,"In the Buenos Aires area, which road cannot directly reach Avenida Escalada?",B
+126,Cavia,Avenida Olivera,Autopista Doctor Ricardo Balbín,Yerbal,"In the Buenos Aires area, which road directly reaches Avenida General Eugenio Garzón?",B
+127,La Pampa,Avenida Belisario Roldán,Paz Soldán,Emilio Pettorutti,"In the Buenos Aires area, which road cannot directly reach Avenida Presidente Figueroa Alcorta?",C
+128,Avenida Don Pedro de Mendoza,Doctor Ramón Carrillo,Avenida Eduardo Madero,Ávalos,"In the Buenos Aires area, which road directly reaches Avenida Benito Pérez Galdós?",A
+129,Avenida Salvador María del Carril,Avenida Regimiento de Patricios,Avenida Benito Pérez Galdós,Avenida Almirante Brown,"In the Buenos Aires area, which road cannot directly reach Avenida Don Pedro de Mendoza?",A
+130,Avenida Directorio,Avenida Eva Perón,Avenida Raúl Scalabrini Ortiz,Avenida Rivadavia,"In the Buenos Aires area, which road cannot directly reach Emilio Mitre?",C
+131,Avenida Benito Pérez Galdós,Avenida Monroe,Venezuela,Avenida Chorroarín,"In the Buenos Aires area, which road directly reaches Avenida Castro Barros?",C
+132,Avenida Sánchez de Loria,Avenida Castro Barros,Avenida Rivadavia,Avenida La Rábida,"In the Buenos Aires area, which road cannot directly reach Avenida Hipólito Yrigoyen?",A
+133,Autopista 25 de Mayo,Avenida Rivadavia,Avenida José María Moreno,Avenida Díaz Vélez,"In the Buenos Aires area, which road cannot directly reach Avenida Acoyte?",A
+134,Boyacá,Avenida Pueyrredón,Padre M. L. Migone,Avenida La Plata,"In the Buenos Aires area, which road directly reaches Rosario?",D
+135,Mercedes,Avenida Juan Bautista Justo,Manuel Ricardo Trelles,Paz Soldán,"In the Buenos Aires area, which road cannot directly reach Avenida Gaona?",D
+136,Avenida Chorroarín,Marta Lynch,Boulevard Rosario Vera Peñaloza,Azucena Villaflor,"In the Buenos Aires area, which road cannot directly reach Aimé Painé?",A
+137,Avenida Santa Fe,Avenida de los Constituyentes,Avenida Del Libertador,Avenida Alvear,"In the Buenos Aires area, which road cannot directly reach Rodríguez Peña?",B
+138,Lima Este,Salta,Avenida La Plata,Avenida 9 de Julio,"In the Buenos Aires area, which road cannot directly reach Avenida Juan de Garay?",D
+139,Avenida Manuel Augusto Montes de Oca,Avenida Almafuerte,Acceso Presidente Perón,Avenida Doctor Honorio Pueyrredón,"In the Buenos Aires area, which road directly reaches Doctor Enrique Finochietto?",A
+140,Avenida 9 de Julio,Avenida Costanera Rafael Obligado,Carlos Pellegrini,Avenida Raúl Scalabrini Ortiz,"In the Buenos Aires area, which road cannot directly reach Avenida Córdoba?",B
+141,Avenida Caseros,Del Barco Centenera,Salta,Avenida Doctor Rómulo Naón,"In the Buenos Aires area, which road directly reaches Avenida Almafuerte?",A
+142,Avenida España,Avenida Calabria,Julieta Lanteri,Trinidad Guevara,"In the Buenos Aires area, which road cannot directly reach Avenida Elvira Rawson de Dellepiane?",D
+143,Avenida Calabria,Avenida Elvira Rawson de Dellepiane,Boulevard Rosario Vera Peñaloza,Autopista Doctor Ricardo Balbín,"In the Buenos Aires area, which road cannot directly reach Julieta Lanteri?",D
+144,Monroe,General José Gervasio Artigas,Avenida Coronel Díaz,Avenida Hipólito Yrigoyen,"In the Buenos Aires area, which road directly reaches Avenida General Mosconi?",B
+145,Avenida Sáenz,Avenida Juan de Garay,Lima,Constitución,"In the Buenos Aires area, which road cannot directly reach Lima Este?",A
+146,Avenida Rivadavia,Avenida Eva Perón,Díaz Colodrero,Avenida Juan Bautista Alberdi,"In the Buenos Aires area, which road cannot directly reach Mariano Acosta?",C
+147,Avenida Martín García,Azucena Villaflor,Macacha Güemes,Cecilia Grierson,"In the Buenos Aires area, which road cannot directly reach Avenida Alicia Moreau de Justo?",A
+148,Avenida Presidente Ramón S. Castillo,Avenida Eva Perón,Avenida Doctor José María Ramos Mejía,San Martín,"In the Buenos Aires area, which road cannot directly reach Avenida Antártida Argentina?",B
+149,Andrés Bello,Avenida Suárez,Avenida Caseros,Avenida Martín García,"In the Buenos Aires area, which road cannot directly reach Avenida Manuel Augusto Montes de Oca?",A
+150,Padre Carlos Mugica,Herrera,Avenida Presidente Julio A. Roca,Avenida Almirante Brown,"In the Buenos Aires area, which road directly reaches Puente Nicolás Avellaneda?",D
+151,Avenida Benito Pérez Galdós,Avenida Don Pedro de Mendoza,Avenida Martín García,Avenida Parque Roberto Goyeneche,"In the Buenos Aires area, which road cannot directly reach Avenida Almirante Brown?",D
+152,Avenida Presidente Figueroa Alcorta,Avenida Valentín Alsina,Andrés Bello,Avenida Dorrego,"In the Buenos Aires area, which road cannot directly reach Avenida de los Ombúes?",D
+153,Avenida Almirante Brown,Avenida Regimiento de Patricios,Avenida Jorge Newbery,Avenida Paseo Colón,"In the Buenos Aires area, which road cannot directly reach Avenida Martín García?",C
+154,Avenida Don Pedro de Mendoza,Avenida Suárez,Avenida Martín García,Avenida Boedo,"In the Buenos Aires area, which road cannot directly reach Avenida Regimiento de Patricios?",D
+155,Avenida Guzmán,Renée Slotopolsky de Epelbaum,Avenida Leandro N. Alem,Avenida Antártida Argentina,"In the Buenos Aires area, which road cannot directly reach San Martín?",A
+156,Avenida Triunvirato,Morelos,Avenida Coronel Díaz,Avenida Lafuente,"In the Buenos Aires area, which road directly reaches Balbastro?",D
+157,Avenida Warnes,Avenida del Campo,Avenida Perito Moreno,Osorio,"In the Buenos Aires area, which road cannot directly reach Avenida Garmendia?",C
+158,Avenida Caseros,Avenida Independencia,Avenida Cerviño,Avenida San Juan,"In the Buenos Aires area, which road cannot directly reach Avenida Jujuy?",C
+159,Padre Carlos Mugica,Avenida Federico Lacroze,Avenida Triunvirato,Hipólito Vieytes,"In the Buenos Aires area, which road directly reaches Avenida General Iriarte?",D
+160,Autopista 25 de Mayo,Avenida Suárez,Avenida de los Inmigrantes,Avenida Benito Pérez Galdós,"In the Buenos Aires area, which road directly reaches Hipólito Vieytes?",B
+161,Avenida General Mosconi,Avenida Corrientes,Avenida Córdoba,Avenida Del Libertador,"In the Buenos Aires area, which road cannot directly reach Avenida Callao?",A
+162,Avenida Santa Fe,Avenida Del Libertador,Punta Arenas,Avenida 9 de Julio,"In the Buenos Aires area, which road cannot directly reach Carlos Pellegrini?",C
+163,Avenida Corrientes,Avenida de los Italianos,Avenida Warnes,Avenida Córdoba,"In the Buenos Aires area, which road cannot directly reach Avenida Jorge Newbery?",B
+164,Jerónimo Salguero,Avenida Santa Fe,Avenida Federico Lacroze,Avenida General Las Heras,"In the Buenos Aires area, which road cannot directly reach Avenida Coronel Díaz?",C
+165,Avenida Caseros,Avenida Pavón,Avenida Chorroarín,Avenida San Juan,"In the Buenos Aires area, which road cannot directly reach Avenida Boedo?",C
+166,Avenida Juan de Garay,Ávalos,Pavón,Avenida Caseros,"In the Buenos Aires area, which road cannot directly reach Salta?",B
+167,Avenida Crámer,Avenida Santa Fe,Constitución,Avenida Colombia,"In the Buenos Aires area, which road directly reaches Avenida John Fitzgerald Kennedy?",D
+168,Avenida Jujuy,Avenida Ingeniero Huergo,Avenida 9 de Julio,Nazca,"In the Buenos Aires area, which road cannot directly reach Avenida Belgrano?",D
+169,Avenida Gaona,Avenida Manuel Augusto Montes de Oca,Morelos,Avenida Avellaneda,"In the Buenos Aires area, which road cannot directly reach Teniente General Donato Álvarez?",B
+170,Avenida La Plata,Avenida Jujuy,Portela,Avenida Entre Ríos,"In the Buenos Aires area, which road cannot directly reach Avenida Independencia?",C
+171,Avenida de los Inmigrantes,Avenida Antártida Argentina,Calle 12,Avenida Gaona,"In the Buenos Aires area, which road cannot directly reach Avenida Presidente Ramón S. Castillo?",D
+172,Avenida Cabildo,Avenida Virrey Vértiz,Juramento,Avenida Sánchez de Loria,"In the Buenos Aires area, which road cannot directly reach Avenida Juramento?",D
+173,Avenida Coronel Niceto Vega,Punta Arenas,Avenida Nazca,Miguel Ángel,"In the Buenos Aires area, which road cannot directly reach Álvarez Jonte?",A
+174,Crámer,Avenida Carlos Calvo,Avenida Parque Roberto Goyeneche,Galván,"In the Buenos Aires area, which road cannot directly reach Crisólogo Larralde?",B
+175,Avenida Elcano,Avenida Crámer,Manuela Pedraza,Crisólogo Larralde,"In the Buenos Aires area, which road cannot directly reach Crámer?",A
+176,Avenida Francisco Beiró,Avenida Eva Perón,Avenida San Martín,Doctor Juan Felipe Aranguren,"In the Buenos Aires area, which road directly reaches Baigorria?",C
+177,Avenida Congreso,Pedernera,Avenida Doctor Ricardo Balbín,Avenida Ruiz Huidobro,"In the Buenos Aires area, which road cannot directly reach Galván?",B
+178,Avenida Martín García,Avenida Acoyte,Avenida Riestra,Avenida Bernardo de Irigoyen,"In the Buenos Aires area, which road directly reaches Avellaneda?",B
+179,Avenida Juan de Garay,Valentín Alsina,Lima Este,Punta Arenas,"In the Buenos Aires area, which road directly reaches Avenida Ernesto Tornquist?",B
+180,Avenida Presidente Julio A. Roca,Macacha Güemes,Azucena Villaflor,Cecilia Grierson,"In the Buenos Aires area, which road cannot directly reach Avenida Intendente Hernán M. Giralt?",A
+181,Avenida Ángel Gallardo,Azucena Villaflor,Macacha Güemes,Avenida Intendente Hernán M. Giralt,"In the Buenos Aires area, which road cannot directly reach Juana Manso?",A
+182,Avenida Eduardo Madero,Avenida Alicia Moreau de Justo,Avenida Donado,Juana Manso,"In the Buenos Aires area, which road cannot directly reach Cecilia Grierson?",C
+183,Doctor Enrique Finochietto,Avenida Nazca,Avenida Cerviño,Avenida Elvira Rawson de Dellepiane,"In the Buenos Aires area, which road directly reaches Cuenca?",B
+184,Avenida Martín García,Avenida Belgrano,Avenida San Juan,José Hernández,"In the Buenos Aires area, which road cannot directly reach Avenida Paseo Colón?",D
+185,Avenida Suárez,Avenida Teniente General Luís Dellepiane,Avenida Vélez Sársfield,Avenida Amancio Alcorta,"In the Buenos Aires area, which road cannot directly reach Suárez?",B
+186,Trinidad Guevara,Avenida Canónigo Miguel del Corro,Macacha Güemes,Cecilia Grierson,"In the Buenos Aires area, which road cannot directly reach Avenida Eduardo Madero?",B
+187,Avenida Eduardo Madero,Macacha Güemes,Avenida Melián,Avenida Leandro N. Alem,"In the Buenos Aires area, which road cannot directly reach Teniente General Juan Domingo Perón?",C
+188,Juan Agustín García,Avenida San Martín,Boyacá,Gavilán,"In the Buenos Aires area, which road cannot directly reach Juan Agustín García?",A
+189,Avenida Alicia Moreau de Justo,Avenida Intendente Cantilo,Gavilán,Juan Agustín García,"In the Buenos Aires area, which road directly reaches Avenida Teniente General Donato Álvarez?",D
+190,Avenida José María Moreno,Avenida Perito Moreno,Avenida Chorroarín,Avenida Santa Fe,"In the Buenos Aires area, which road directly reaches Ávalos?",C
+191,Boyacá,Álvarez Jonte,Avenida San Martín,Avenida Presidente Sarmiento,"In the Buenos Aires area, which road cannot directly reach Punta Arenas?",D
+192,Avenida Olleros,Avenida Ernesto Tornquist,Alberto Chejolán,Avenida Presidente Figueroa Alcorta,"In the Buenos Aires area, which road cannot directly reach Valentín Alsina?",C
+193,Avenida Presidente Julio A. Roca,Avenida Directorio,Yerbal,Avenida de los Italianos,"In the Buenos Aires area, which road directly reaches Avenida Bruix?",B
+194,Juana Manso,Doctor Juan Felipe Aranguren,Avenida San Martín,Avenida Rivadavia,"In the Buenos Aires area, which road directly reaches Fray Cayetano Rodríguez?",D
+195,Brasil,Juana Manso,Avenida Daract,Avenida Warnes,"In the Buenos Aires area, which road directly reaches Osorio?",D
+196,Avenida Asamblea,Arturo Antonio Dresco,Medrano,Avenida General Eugenio Garzón,"In the Buenos Aires area, which road directly reaches Avenida Vernet?",A
+197,Ecuador,Avenida Melián,Avenida Doctor Ricardo Balbín,Trinidad Guevara,"In the Buenos Aires area, which road directly reaches Olazábal?",C
+198,Segurola,Encarnación Ezcurra,Avenida Gaona,Avenida Avellaneda,"In the Buenos Aires area, which road cannot directly reach Mercedes?",B
+199,Bolívar,Avenida Juan Bautista Justo,Avenida Antártida Argentina,Avenida Avellaneda,"In the Buenos Aires area, which road directly reaches Avenida Presidente Julio A. Roca?",A
+200,Arturo Antonio Dresco,Avenida Asamblea,Avenida Directorio,Avenida Pedro Goyena,"In the Buenos Aires area, which road cannot directly reach Del Barco Centenera?",A
+201,Lima,Lima Oeste,Salta,Avenida Daract,"In the Buenos Aires area, which road cannot directly reach Constitución?",D
+202,Córdoba,Avenida 9 de Julio,Lima Este,Avenida San Juan,"In the Buenos Aires area, which road cannot directly reach Lima?",A
+203,Avenida Juramento,Avenida Crámer,Río Cuarto,Avenida Virrey Vértiz,"In the Buenos Aires area, which road cannot directly reach Juramento?",C
+204,Avenida Juramento,Avenida Del Libertador,Juramento,Avenida Gaona,"In the Buenos Aires area, which road cannot directly reach Avenida Virrey Vértiz?",D
+205,Avenida Patricias Argentinas,Avenida Almafuerte,Avenida Tilcara,Chonino,"In the Buenos Aires area, which road directly reaches Avenida Leopoldo Marechal?",A
+206,Avenida Independencia,Avenida San Juan,Pavón,Balbastro,"In the Buenos Aires area, which road cannot directly reach Combate de los Pozos?",D
+207,Avenida Juan de Garay,General Hornos,Brasil,Avenida Pavón,"In the Buenos Aires area, which road cannot directly reach Avenida Bernardo de Irigoyen?",D
+208,Avenida de los Constituyentes,Lima Este,Salta,Avenida Bernardo de Irigoyen,"In the Buenos Aires area, which road cannot directly reach Brasil?",A
+209,Galván,Brasil,Avenida Bernardo de Irigoyen,Avenida Caseros,"In the Buenos Aires area, which road cannot directly reach General Hornos?",A
+210,Avenida Pedro Goyena,Avenida Juramento,Tilcara,Avenida Álvarez Thomas,"In the Buenos Aires area, which road directly reaches Nahuel Huapi?",D
+211,Avenida Federico Lacroze,Avenida Cabildo,Avenida Callao,Avenida Perito Moreno,"In the Buenos Aires area, which road directly reaches Córdoba?",A
+212,Avenida John Fitzgerald Kennedy,Avenida Juan Bautista Justo,Avenida Honduras,Avenida La Plata,"In the Buenos Aires area, which road directly reaches Avenida Coronel Niceto Vega?",B
+213,Avenida Raúl Scalabrini Ortiz,Avenida 9 de Julio,Avenida Patricias Argentinas,Crisólogo Larralde,"In the Buenos Aires area, which road directly reaches Avenida Honduras?",A
+214,Díaz Colodrero,Gilardo Gilardi,Bauness,Doctor Pedro Ignacio Rivera,"In the Buenos Aires area, which road cannot directly reach Avenida Franklin Delano Roosevelt?",B
+215,Fray Cayetano Rodríguez,Avenida Franklin Delano Roosevelt,Avenida Patricias Argentinas,Avenida Cabildo,"In the Buenos Aires area, which road directly reaches Díaz Colodrero?",B
+216,Brasil,Avenida Presidente Manuel Quintana,Constitución,Avenida Juan de Garay,"In the Buenos Aires area, which road cannot directly reach Lima Oeste?",B
+217,Lima,Puente Gerónimo Saccardi,Rosario Vera Peñaloza,Avenida Juan Bautista Alberdi,"In the Buenos Aires area, which road directly reaches Yerbal?",B
+218,Remedios,Avenida Garmendia,Doctor Ramón Carrillo,Avenida Caseros,"In the Buenos Aires area, which road directly reaches Pichincha?",D
+219,Río Cuarto,Avenida Presidente Ramón S. Castillo,Doctor Ramón Carrillo,Avenida Presidente Roque Sáenz Peña,"In the Buenos Aires area, which road directly reaches Avenida de los Inmigrantes?",B
+220,Avenida Francisco Beiró,Avenida Casares,Avenida Del Libertador,Avenida Olivera,"In the Buenos Aires area, which road directly reaches Congreso?",C
+221,Avenida Crámer,Avenida Federico Lacroze,Sanabria,Fray Cayetano Rodríguez,"In the Buenos Aires area, which road directly reaches Blanco Encalada?",A
+222,Avenida Presidente Sarmiento,Avenida Congreso,Lima,Avenida Costanera Doctor Tristán Achával Rodríguez,"In the Buenos Aires area, which road directly reaches Avenida Donado?",B
+223,Avenida de los Italianos,Avenida Australia,Leopoldo Marechal,Avenida Perito Moreno,"In the Buenos Aires area, which road directly reaches Marta Lynch?",A
+224,Avenida Donado,Avenida Nazca,Ávalos,Avenida Amancio Alcorta,"In the Buenos Aires area, which road directly reaches Avenida Colonia?",D
+225,Balbastro,Fray Cayetano Rodríguez,Avenida Presidente Figueroa Alcorta,Pedernera,"In the Buenos Aires area, which road directly reaches Andrés Bello?",C
+226,Juramento,Avenida Bruix,Avenida Rivadavia,Avenida Ángel Gallardo,"In the Buenos Aires area, which road directly reaches Avenida Canónigo Miguel del Corro?",C
+227,Avenida Francisco Beiró,Autopista Perito Moreno,Avenida Daract,Avenida Ernesto Tornquist,"In the Buenos Aires area, which road directly reaches Túnel Gustavo Cerati?",A
+228,Tilcara,Calle 12,Avenida Presidente Ramón S. Castillo,Avenida Antártida Argentina,"In the Buenos Aires area, which road cannot directly reach Avenida Comodoro Py?",A
+229,Avenida Eduardo Madero,Lascano,General José Gervasio Artigas,Avenida Presidente Ramón S. Castillo,"In the Buenos Aires area, which road directly reaches Calle 12?",D
+230,La Pampa,Boedo,Avenida Olazábal,Monroe,"In the Buenos Aires area, which road cannot directly reach Avenida Doctor Rómulo Naón?",B
+231,Treinta y Tres Orientales,Lima,Bernardo de Irigoyen,Fray Cayetano Rodríguez,"In the Buenos Aires area, which road cannot directly reach Avenida San Juan?",D
+232,La Pampa,Huergo,Boedo,Defensa,"In the Buenos Aires area, which road directly reaches Venezuela?",C
+233,Teniente General Donato Álvarez,Avenida Juan Bautista Alberdi,Miguel Ángel,Bermúdez,"In the Buenos Aires area, which road directly reaches Morelos?",A
+234,Acoyte,Avenida Brasil,Avenida Belgrano,Encarnación Ezcurra,"In the Buenos Aires area, which road cannot directly reach Avenida Ingeniero Huergo?",A
+235,Avenida Pedro Goyena,Avenida de Mayo,Acoyte,Avenida Antártida Argentina,"In the Buenos Aires area, which road directly reaches Bolívar?",B
+236,Avenida Córdoba,Avenida La Rábida,Avenida Corrientes,Avenida Eva Perón,"In the Buenos Aires area, which road cannot directly reach Avenida Leandro N. Alem?",D
+237,Avenida Francisco Bilbao,Avenida Colombia,Acoyte,Avenida Álvarez Thomas,"In the Buenos Aires area, which road directly reaches Avenida Lafuente?",A
+238,Boedo,Leopoldo Marechal,Avenida Doctor Honorio Pueyrredón,Avenida Patricias Argentinas,"In the Buenos Aires area, which road cannot directly reach Avenida Ángel Gallardo?",A
+239,Luis Viale,Avenida Warnes,Avenida Ángel Gallardo,Leopoldo Marechal,"In the Buenos Aires area, which road cannot directly reach Acoyte?",D
+240,Azucena Villaflor,Avenida Juan Bautista Justo,Juan Agustín García,Avenida Gaona,"In the Buenos Aires area, which road cannot directly reach Boyacá?",A
+241,Avenida Vernet,Avenida Federico Lacroze,Pedernera,Avenida San Juan,"In the Buenos Aires area, which road directly reaches Treinta y Tres Orientales?",D
+242,Nahuel Huapi,Virrey Del Pino,Avenida Alvear,Avenida Caseros,"In the Buenos Aires area, which road directly reaches Avenida Presidente Manuel Quintana?",C
+243,Avenida Del Libertador,Cerrito,Avenida Callao,Coronel Apolinario Figueroa,"In the Buenos Aires area, which road cannot directly reach Avenida Alvear?",D
+244,Avenida Australia,Avenida Ernesto Tornquist,Avenida Belisario Roldán,Avenida Warnes,"In the Buenos Aires area, which road directly reaches Murillo?",D
+245,Puente Gerónimo Saccardi,Acoyte,Avenida Sáenz,Doctor Ramón Carrillo,"In the Buenos Aires area, which road directly reaches Luis Viale?",B
+246,Avenida Córdoba,Avenida Rivadavia,Avenida Corrientes,Avenida General Eugenio Garzón,"In the Buenos Aires area, which road cannot directly reach Riobamba?",D
+247,La Pampa,Jerónimo Salguero,Avenida Escalada,Avenida Bruix,"In the Buenos Aires area, which road directly reaches Bartolomé Mitre?",B
+248,Monroe,Avenida Díaz Vélez,Avenida Corrientes,Avenida Rivadavia,"In the Buenos Aires area, which road cannot directly reach Avenida Medrano?",A
+249,Avenida Carrasco,Avenida España,Avenida de los Constituyentes,Avenida Coronel Díaz,"In the Buenos Aires area, which road directly reaches Paz Soldán?",C
+250,Lima Oeste,Avenida Chiclana,Avenida Jujuy,Avenida Coronel Esteban Bonorino,"In the Buenos Aires area, which road cannot directly reach Pavón?",D
+251,Hipólito Yrigoyen,Tandil,Bernardo de Irigoyen,Cerrito,"In the Buenos Aires area, which road cannot directly reach Avenida de Mayo?",B
+252,Avenida Coronel Díaz,Avenida Varela,Avenida Juan Bautista Alberdi,Avenida Rivadavia,"In the Buenos Aires area, which road cannot directly reach Varela?",A
+253,Huergo,Juramento,Avenida Cobo,Avenida Directorio,"In the Buenos Aires area, which road directly reaches Tandil?",D
+254,Córdoba,Murillo,Avenida Corea,Avenida Doctor Ricardo Balbín,"In the Buenos Aires area, which road directly reaches Avenida General Paz?",D
+255,Avenida de los Ombúes,Córdoba,Encarnación Ezcurra,Manuela Pedraza,"In the Buenos Aires area, which road directly reaches Avenida Valentín Alsina?",A
+256,Avenida Colonia,Doctor Juan Felipe Aranguren,Avenida Gaona,Mercedes,"In the Buenos Aires area, which road cannot directly reach Segurola?",A
+257,Avenida Santa Fe,Valentín Alsina,Avenida Juramento,Avenida Ruiz Huidobro,"In the Buenos Aires area, which road directly reaches Arturo Antonio Dresco?",A
+258,Avenida Comodoro Py,Avenida Rivadavia,Medrano,Avenida Almafuerte,"In the Buenos Aires area, which road directly reaches Pedernera?",B
+259,Herrera,General Hornos,Avenida Coronel Esteban Bonorino,Avenida Canónigo Miguel del Corro,"In the Buenos Aires area, which road directly reaches Río Cuarto?",A
+260,La Pampa,Suárez,Avenida Presidente Ramón S. Castillo,Río Cuarto,"In the Buenos Aires area, which road directly reaches Herrera?",D
+261,Avenida Bruix,Tilcara,Galván,Jerónimo Salguero,"In the Buenos Aires area, which road directly reaches Chonino?",D
+262,Gilardo Gilardi,Huergo,Avenida Leandro N. Alem,Avenida Suárez,"In the Buenos Aires area, which road directly reaches Avenida La Rábida?",C
+263,Luis Viale,Alberto Chejolán,Avenida España,Avenida Leandro N. Alem,"In the Buenos Aires area, which road directly reaches Avenida Presidente Roque Sáenz Peña?",D
+264,Tilcara,Rosario Vera Peñaloza,Avenida Costanera Rafael Obligado,Avenida Olivera,"In the Buenos Aires area, which road directly reaches Coronel Ramón Lorenzo Falcón?",D
+265,Álvarez Jonte,Avenida Olivera,Avenida Gaona,Jerónimo Salguero,"In the Buenos Aires area, which road directly reaches Lascano?",A
+266,Avenida Franklin Delano Roosevelt,Avenida Presidente Julio A. Roca,Avenida Asamblea,Jerónimo Salguero,"In the Buenos Aires area, which road directly reaches Doctor Pedro Ignacio Rivera?",A
+267,Blanco Encalada,Avenida Ingeniero Huergo,Avenida General Francisco Fernández de La Cruz,Avenida Leandro N. Alem,"In the Buenos Aires area, which road directly reaches Encarnación Ezcurra?",B
+268,Avenida Caseros,Avenida Paseo Colón,Avenida Olivera,Manuel Ricardo Trelles,"In the Buenos Aires area, which road directly reaches Defensa?",A
+269,Avenida Avellaneda,Avenida Teniente General Luís Dellepiane,Avenida Gaona,Juan Agustín García,"In the Buenos Aires area, which road cannot directly reach Gavilán?",B
+270,Juan Agustín García,Avenida Juan Bautista Justo,Avenida San Martín,Avenida Triunvirato,"In the Buenos Aires area, which road cannot directly reach Manuel Ricardo Trelles?",D
+271,Avenida Donado,Avenida Juan Bautista Justo,Aimé Painé,Bermúdez,"In the Buenos Aires area, which road directly reaches Sanabria?",B
+272,Avenida Juan Bautista Alberdi,Avenida Melián,Avenida Doctor Honorio Pueyrredón,Avenida Maipú,"In the Buenos Aires area, which road directly reaches Vilela?",B
+273,Avenida Presidente Sarmiento,Avenida Cobo,Avenida Olazábal,Avenida Escalada,"In the Buenos Aires area, which road directly reaches Emilio Castro?",D
+274,Autopista Presidente Arturo Frondizi,Avenida Asamblea,Avenida Córdoba,Osorio,"In the Buenos Aires area, which road directly reaches Medrano?",C
+275,Avenida Avellaneda,Avenida La Rábida,Avenida Alicia Moreau de Justo,Avenida Presidente Roque Sáenz Peña,"In the Buenos Aires area, which road directly reaches General José Gervasio Artigas?",A
+276,Avenida Perito Moreno,Yerbal,Avenida John Fitzgerald Kennedy,Avenida José María Moreno,"In the Buenos Aires area, which road directly reaches Avenida Teniente General Luís Dellepiane?",A
+277,Avenida Díaz Vélez,Cavia,Avenida Ángel Gallardo,Avenida Don Pedro de Mendoza,"In the Buenos Aires area, which road directly reaches Leopoldo Marechal?",C
+278,Avenida Francisco Bilbao,Emilio Pettorutti,Avenida Directorio,Avenida Juan Bautista Alberdi,"In the Buenos Aires area, which road cannot directly reach Portela?",B
+279,Avenida Castro Barros,Avenida Presidente Roque Sáenz Peña,Rosario Vera Peñaloza,Avenida San Juan,"In the Buenos Aires area, which road directly reaches Autopista Presidente Arturo Frondizi?",D
+280,Avenida Independencia,Avenida Alicia Moreau de Justo,Ecuador,Congreso,"In the Buenos Aires area, which road directly reaches Rosario Vera Peñaloza?",B
+281,Avenida Corrientes,Yerbal,Avenida Alvear,Bernardo de Irigoyen,"In the Buenos Aires area, which road directly reaches Puente Gerónimo Saccardi?",B
+282,Avenida Doctor Ricardo Balbín,Hipólito Yrigoyen,Julieta Lanteri,Avenida Callao,"In the Buenos Aires area, which road directly reaches Paso Bajo Nivel Balbin Gatica - Goyeneche?",A
+283,Avenida Forest,Doctor Juan Felipe Aranguren,Valentín Alsina,Avenida Triunvirato,"In the Buenos Aires area, which road directly reaches Bauness?",D
+284,Emilio Mitre,Avenida Alicia Moreau de Justo,Avenida Regimiento de Patricios,Avenida Intendente Cantilo,"In the Buenos Aires area, which road directly reaches Trinidad Guevara?",B
+285,Avenida Presidente Figueroa Alcorta,Avenida Pavón,Cerrito,Avenida Franklin Delano Roosevelt,"In the Buenos Aires area, which road directly reaches Emilio Pettorutti?",A
+286,Avenida Independencia,Avenida Corrientes,Avenida Juan Bautista Justo,Avenida Presidente Manuel Quintana,"In the Buenos Aires area, which road directly reaches Azopardo?",A
+287,Monroe,Defensa,Avenida Teniente General Donato Álvarez,Remedios,"In the Buenos Aires area, which road directly reaches Lafuente?",D
+288,Lafuente,Avenida Monroe,Varela,Avenida Warnes,"In the Buenos Aires area, which road directly reaches Remedios?",A
+289,Castro Barros,Nazca,Avenida Sáenz,Hipólito Yrigoyen,"In the Buenos Aires area, which road directly reaches 10 de Diciembre de 1983?",D
+290,Crámer,Avenida de Mayo,Avenida Bernardo de Irigoyen,Manuela Pedraza,"In the Buenos Aires area, which road directly reaches Hipólito Yrigoyen?",B
+291,Avenida Independencia,Avenida Francisco Bilbao,Virrey Melo,Avenida Monroe,"In the Buenos Aires area, which road directly reaches Castro Barros?",A
+292,Avenida Crámer,Portela,Azopardo,Venezuela,"In the Buenos Aires area, which road directly reaches Boedo?",D
+293,Mercedes,Avenida Leandro N. Alem,Teniente General Juan Domingo Perón,Autopista Perito Moreno,"In the Buenos Aires area, which road directly reaches Autopista Teniente General Luis Dellepiane?",D
+294,Avenida Warnes,Cerrito,Avenida San Martín,Autopista Teniente General Luis Dellepiane,"In the Buenos Aires area, which road directly reaches Autopista Perito Moreno?",D
+295,Alberto Chejolán,Sanabria,Avenida Pichincha,Autopista 25 de Mayo,"In the Buenos Aires area, which road directly reaches Paseo del Bajo - Presidente Dr. Raúl R. Alfonsín?",D
+296,Avenida Donado,Avenida Garmendia,Avenida Juramento,Paseo del Bajo - Presidente Dr. Raúl R. Alfonsín,"In the Buenos Aires area, which road directly reaches Autopista Arturo Illia?",D
+297,Avenida Juan Bautista Justo,Combate de los Pozos,Avenida Guzmán,Avenida Doctor José María Ramos Mejía,"In the Buenos Aires area, which road directly reaches Gilardo Gilardi?",D
+298,Avenida Entre Ríos,Avenida San Juan,Paseo del Bajo - Presidente Dr. Raúl R. Alfonsín,Avenida Sáenz,"In the Buenos Aires area, which road directly reaches Autopista 25 de Mayo?",C
+299,Monroe,Azopardo,Avenida Perito Moreno,Avenida Juan Bautista Justo,"In the Buenos Aires area, which road directly reaches Virrey Melo?",D
+300,Bernardo de Irigoyen,Punta Arenas,Bermúdez,Avenida La Rábida,"In the Buenos Aires area, which road directly reaches General César Díaz?",C
+301,Morelos,Paz Soldán,Avenida Ingeniero Huergo,General César Díaz,"In the Buenos Aires area, which road directly reaches Bermúdez?",D
+302,Avenida Elvira Rawson de Dellepiane,Virrey Melo,Acceso Presidente Perón,Gilardo Gilardi,"In the Buenos Aires area, which road directly reaches Autopista Doctor Ricardo Balbín?",C
+303,Autopista Doctor Ricardo Balbín,Defensa,Virrey Melo,Ávalos,"In the Buenos Aires area, which road directly reaches Acceso Presidente Perón?",A
+304,Bauness,Avenida Álvarez Thomas,Avenida Del Libertador,Córdoba,"In the Buenos Aires area, which road directly reaches Cavia?",C
+305,Avenida Almirante Brown,Castro Barros,Avenida Eduardo Madero,Del Barco Centenera,"In the Buenos Aires area, which road directly reaches Gabriela González Gass?",C
+306,Virrey Melo,Avenida Monroe,Alberto Chejolán,Avenida Presidente Ramón S. Castillo,"In the Buenos Aires area, which road directly reaches Alberto Chejolán?",D

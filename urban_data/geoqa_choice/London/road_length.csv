@@ -1,0 +1,1262 @@
+id,question,answer,A,B,C,D,E
+0,How long is Westway in the London area?,C,6800.0,1020.0,3400.0,10200.0,340.0
+1,How long is Great Portland Street in the London area?,B,1200.0,600.0,100.0,1800.0,180.0
+2,How long is Haymarket in the London area?,D,200.0,100.0,100.0,100.0,300.0
+3,How long is Charles II Street in the London area?,D,100.0,0.0,0.0,0.0,100.0
+4,How long is Waterloo Place in the London area?,E,300.0,200.0,100.0,100.0,100.0
+5,How long is Regent Street St James's in the London area?,A,200.0,100.0,100.0,400.0,600.0
+6,How long is Marylebone Road in the London area?,D,180.0,1200.0,100.0,600.0,1800.0
+7,How long is Harley Street in the London area?,D,3600.0,120.0,360.0,1200.0,2400.0
+8,How long is Cloudesley Place in the London area?,D,900.0,600.0,100.0,300.0,100.0
+9,How long is Blackwall Tunnel Approach in the London area?,B,9600.0,3200.0,960.0,320.0,6400.0
+10,How long is Blackwall Tunnel Northern Approach in the London area?,D,5800.0,870.0,290.0,2900.0,8700.0
+11,How long is Finchley Road in the London area?,A,1700.0,3400.0,510.0,170.0,5100.0
+12,How long is College Crescent in the London area?,D,100.0,300.0,2000.0,1000.0,3000.0
+13,How long is Wellington Road in the London area?,C,1000.0,100.0,500.0,150.0,1500.0
+14,How long is Newham Way in the London area?,A,1400.0,4200.0,2800.0,420.0,140.0
+15,How long is East India Dock Road in the London area?,B,4800.0,2400.0,7200.0,240.0,720.0
+16,How long is Park Lane in the London area?,D,900.0,100.0,100.0,300.0,600.0
+17,How long is Cumberland Gate in the London area?,E,100.0,200.0,300.0,100.0,100.0
+18,How long is Piccadilly in the London area?,C,1200.0,1800.0,600.0,180.0,100.0
+19,How long is Achilles Way in the London area?,D,100.0,0.0,0.0,0.0,100.0
+20,How long is Talgarth Road in the London area?,C,100.0,1400.0,700.0,210.0,2100.0
+21,How long is Hammersmith Flyover in the London area?,A,900.0,1800.0,2700.0,270.0,100.0
+22,How long is Tibbet's Corner in the London area?,E,100.0,0.0,100.0,0.0,0.0
+23,How long is Aldersgate Rotunda in the London area?,E,0.0,100.0,100.0,0.0,0.0
+24,How long is London Wall in the London area?,A,800.0,240.0,100.0,2400.0,1600.0
+25,How long is Queen Street in the London area?,E,100.0,200.0,100.0,300.0,100.0
+26,How long is Queen Victoria Street in the London area?,C,100.0,240.0,800.0,1600.0,2400.0
+27,How long is Mansell Street in the London area?,E,300.0,200.0,100.0,100.0,100.0
+28,How long is Shorter Street in the London area?,E,100.0,100.0,200.0,300.0,100.0
+29,How long is Knightsbridge in the London area?,C,8400.0,280.0,2800.0,5600.0,840.0
+30,How long is Grosvenor Place in the London area?,C,100.0,240.0,800.0,2400.0,1600.0
+31,How long is Kingston Road in the London area?,D,120.0,100.0,800.0,400.0,1200.0
+32,How long is Delancey Street in the London area?,E,300.0,100.0,200.0,100.0,100.0
+33,How long is Victoria Street in the London area?,D,2000.0,3000.0,300.0,1000.0,100.0
+34,How long is Vauxhall Bridge Road in the London area?,C,2100.0,210.0,700.0,100.0,1400.0
+35,How long is Westway Roundabout in the London area?,D,200.0,100.0,100.0,100.0,300.0
+36,How long is West Cross Route in the London area?,E,2100.0,1400.0,100.0,210.0,700.0
+37,How long is Holland Park Roundabout in the London area?,C,0.0,0.0,0.0,100.0,100.0
+38,How long is Holland Road in the London area?,A,600.0,180.0,1800.0,100.0,1200.0
+39,How long is Wandsworth High Street in the London area?,E,200.0,300.0,100.0,100.0,100.0
+40,How long is Holland Park Avenue in the London area?,A,1900.0,570.0,3800.0,190.0,5700.0
+41,How long is Royal Crescent in the London area?,A,500.0,1000.0,1500.0,150.0,100.0
+42,How long is Millbank in the London area?,B,450.0,4500.0,9000.0,1350.0,13500.0
+43,How long is Atterbury Street in the London area?,C,100.0,1400.0,700.0,2100.0,210.0
+44,How long is Tenison Way in the London area?,E,100.0,0.0,100.0,0.0,0.0
+45,How long is Waterloo Bridge in the London area?,B,1400.0,700.0,2100.0,210.0,100.0
+46,How long is Shepherds Bush Green in the London area?,E,100.0,200.0,300.0,100.0,100.0
+47,How long is Uxbridge Road in the London area?,B,2600.0,1300.0,130.0,390.0,3900.0
+48,How long is Wandsworth Plain in the London area?,E,200.0,100.0,300.0,100.0,100.0
+49,How long is Swandon Way in the London area?,E,100.0,600.0,900.0,100.0,300.0
+50,How long is Armoury Way in the London area?,E,100.0,300.0,100.0,200.0,100.0
+51,How long is Ram Street in the London area?,A,600.0,180.0,100.0,1200.0,1800.0
+52,How long is Trinity Road in the London area?,B,6300.0,2100.0,210.0,630.0,4200.0
+53,How long is Buckingham Palace Road in the London area?,D,300.0,9000.0,900.0,3000.0,6000.0
+54,How long is Grosvenor Gardens in the London area?,C,100.0,600.0,200.0,100.0,400.0
+55,How long is Cambridge Road in the London area?,E,300.0,100.0,100.0,200.0,100.0
+56,How long is St Giles High Street in the London area?,B,400.0,200.0,600.0,100.0,100.0
+57,How long is Earnshaw Street in the London area?,A,200.0,100.0,100.0,400.0,600.0
+58,How long is Strand Underpass in the London area?,E,200.0,100.0,300.0,100.0,100.0
+59,How long is Curzon Street in the London area?,C,180.0,1800.0,600.0,1200.0,100.0
+60,How long is Bolton Street in the London area?,B,100.0,200.0,400.0,600.0,100.0
+61,How long is Berkeley Square in the London area?,B,100.0,300.0,900.0,600.0,100.0
+62,How long is Berkeley Street in the London area?,B,900.0,300.0,100.0,600.0,100.0
+63,How long is Upper Grosvenor Street in the London area?,B,600.0,200.0,100.0,100.0,400.0
+64,How long is Park Street in the London area?,D,100.0,900.0,100.0,300.0,600.0
+65,How long is Grosvenor Square in the London area?,A,400.0,100.0,800.0,1200.0,120.0
+66,How long is Hardwick Street in the London area?,C,400.0,100.0,200.0,600.0,100.0
+67,How long is Charterhouse Street in the London area?,C,1600.0,240.0,800.0,2400.0,100.0
+68,How long is London Road in the London area?,B,400.0,200.0,100.0,100.0,600.0
+69,How long is Garden Row in the London area?,E,300.0,200.0,100.0,100.0,100.0
+70,How long is Charing Cross in the London area?,D,0.0,0.0,100.0,0.0,100.0
+71,How long is The Mall in the London area?,C,100.0,400.0,200.0,100.0,600.0
+72,How long is Lower Grosvenor Place in the London area?,E,0.0,100.0,100.0,0.0,0.0
+73,How long is Beeston Place in the London area?,E,100.0,0.0,0.0,100.0,0.0
+74,How long is Harleyford Road in the London area?,D,100.0,1200.0,1800.0,600.0,180.0
+75,How long is Great Tower Street in the London area?,D,0.0,0.0,100.0,0.0,100.0
+76,How long is Notting Hill Gate in the London area?,C,4200.0,2800.0,1400.0,420.0,140.0
+77,How long is Campden Hill Road in the London area?,D,4500.0,3000.0,150.0,1500.0,450.0
+78,How long is North Side Wandsworth Common in the London area?,E,200.0,100.0,100.0,300.0,100.0
+79,How long is Manse Road in the London area?,E,100.0,100.0,0.0,0.0,0.0
+80,How long is Evering Road in the London area?,D,270.0,100.0,1800.0,900.0,2700.0
+81,How long is Walworth Road in the London area?,D,3300.0,2200.0,110.0,1100.0,330.0
+82,How long is Langton Road in the London area?,B,100.0,200.0,400.0,100.0,600.0
+83,How long is Lothian Road in the London area?,C,100.0,400.0,200.0,100.0,600.0
+84,How long is Belgrave Square in the London area?,D,100.0,1500.0,1000.0,500.0,150.0
+85,How long is Grosvenor Crescent in the London area?,E,900.0,100.0,600.0,100.0,300.0
+86,How long is Bayham Street in the London area?,E,600.0,100.0,400.0,100.0,200.0
+87,How long is Pratt Street in the London area?,D,2600.0,3900.0,130.0,1300.0,390.0
+88,How long is Cockspur Street in the London area?,C,100.0,100.0,200.0,400.0,600.0
+89,How long is Sussex Gardens in the London area?,C,660.0,4400.0,2200.0,6600.0,220.0
+90,How long is New Oxford Street in the London area?,A,400.0,800.0,120.0,100.0,1200.0
+91,How long is Huguenot Place in the London area?,E,0.0,0.0,100.0,100.0,0.0
+92,How long is York Road in the London area?,E,3300.0,2200.0,330.0,110.0,1100.0
+93,How long is Rochester Way Relief Road in the London area?,B,2000.0,1000.0,3000.0,100.0,300.0
+94,How long is Sun in the Sands Roundabout in the London area?,E,0.0,0.0,100.0,100.0,0.0
+95,How long is Woolwich Road in the London area?,B,7800.0,2600.0,260.0,5200.0,780.0
+96,How long is Peartree Way in the London area?,E,150.0,100.0,1500.0,1000.0,500.0
+97,How long is Blackwall Tunnel Approach Road in the London area?,E,200.0,100.0,300.0,100.0,100.0
+98,How long is Westferry Road in the London area?,A,3900.0,11700.0,1170.0,390.0,7800.0
+99,How long is Imperial Road in the London area?,B,160.0,1600.0,4800.0,3200.0,480.0
+100,How long is Westferry Circus in the London area?,E,200.0,100.0,100.0,300.0,100.0
+101,How long is Aspen Way in the London area?,D,5100.0,170.0,510.0,1700.0,3400.0
+102,How long is East India Dock Road Tunnel in the London area?,E,100.0,100.0,600.0,900.0,300.0
+103,How long is Leamouth Roundabout in the London area?,E,100.0,0.0,100.0,0.0,0.0
+104,How long is Duke of Wellington Place in the London area?,E,100.0,0.0,0.0,100.0,0.0
+105,How long is St. Botolph Street in the London area?,C,1200.0,180.0,600.0,1800.0,100.0
+106,How long is Camomile Street in the London area?,E,0.0,100.0,100.0,0.0,0.0
+107,How long is Leamouth Road in the London area?,D,100.0,100.0,300.0,100.0,200.0
+108,How long is Bridgend Road in the London area?,E,100.0,0.0,0.0,100.0,0.0
+109,How long is Lancaster Terrace in the London area?,E,0.0,100.0,100.0,0.0,0.0
+110,How long is Inverness Place in the London area?,E,100.0,100.0,0.0,0.0,0.0
+111,How long is The Pavement in the London area?,E,100.0,100.0,400.0,600.0,200.0
+112,How long is Goodman's Yard in the London area?,E,100.0,100.0,0.0,0.0,0.0
+113,How long is Bow Roundabout in the London area?,E,0.0,0.0,100.0,100.0,0.0
+114,How long is Hancock Road in the London area?,D,100.0,300.0,100.0,100.0,200.0
+115,How long is East Cross Route in the London area?,B,4800.0,1600.0,480.0,160.0,3200.0
+116,How long is Bow Road in the London area?,C,120.0,3600.0,1200.0,2400.0,360.0
+117,How long is Parry Street in the London area?,E,0.0,100.0,100.0,0.0,0.0
+118,How long is New Cross Road in the London area?,C,270.0,100.0,900.0,1800.0,2700.0
+119,How long is Amersham Road in the London area?,E,300.0,100.0,200.0,100.0,100.0
+120,How long is Brunswick Road in the London area?,C,900.0,600.0,300.0,100.0,100.0
+121,How long is Blackwall Lane in the London area?,B,2400.0,1200.0,120.0,3600.0,360.0
+122,How long is Lower Lea Crossing in the London area?,A,700.0,2100.0,1400.0,210.0,100.0
+123,How long is Tidal Basin Roundabout in the London area?,E,100.0,100.0,0.0,0.0,0.0
+124,How long is Silvertown Way in the London area?,A,1700.0,170.0,510.0,5100.0,3400.0
+125,How long is Bugsby's Way in the London area?,A,2800.0,8400.0,5600.0,280.0,840.0
+126,How long is Dreadnought Street in the London area?,C,100.0,400.0,200.0,600.0,100.0
+127,How long is Tooley Street in the London area?,A,800.0,1600.0,2400.0,240.0,100.0
+128,How long is Median Road in the London area?,C,100.0,1500.0,500.0,1000.0,150.0
+129,How long is Prince Albert Road in the London area?,C,170.0,510.0,1700.0,5100.0,3400.0
+130,How long is Butterwick in the London area?,D,100.0,0.0,0.0,0.0,100.0
+131,How long is Queen Caroline Street in the London area?,D,100.0,0.0,0.0,0.0,100.0
+132,How long is Hammersmith Bridge Road in the London area?,D,1200.0,100.0,1800.0,600.0,180.0
+133,How long is Great West Road in the London area?,E,100.0,300.0,200.0,100.0,100.0
+134,How long is Wick Road in the London area?,E,510.0,5100.0,3400.0,170.0,1700.0
+135,How long is Wilton Road in the London area?,E,300.0,100.0,100.0,200.0,100.0
+136,How long is Bricklayers Arms Roundabout in the London area?,C,0.0,0.0,0.0,100.0,100.0
+137,How long is Old Kent Road in the London area?,E,6300.0,210.0,630.0,4200.0,2100.0
+138,How long is Bayswater Road in the London area?,A,500.0,100.0,1500.0,1000.0,150.0
+139,How long is Edgware Road in the London area?,A,600.0,100.0,180.0,1200.0,1800.0
+140,How long is Merton Road in the London area?,E,150.0,3000.0,450.0,4500.0,1500.0
+141,How long is Wells Way in the London area?,A,500.0,100.0,1000.0,150.0,1500.0
+142,How long is Lower Road in the London area?,E,8100.0,270.0,810.0,5400.0,2700.0
+143,How long is Harrow Road in the London area?,D,480.0,1440.0,14400.0,4800.0,9600.0
+144,How long is Hornton Street in the London area?,E,300.0,100.0,100.0,200.0,100.0
+145,How long is Westbourne Terrace in the London area?,A,1300.0,390.0,3900.0,130.0,2600.0
+146,How long is Vicarage Gate in the London area?,B,1800.0,600.0,100.0,1200.0,180.0
+147,How long is Palace Gardens Terrace in the London area?,E,0.0,100.0,100.0,0.0,0.0
+148,How long is Morning Lane in the London area?,D,100.0,2400.0,240.0,800.0,1600.0
+149,How long is Valette Street in the London area?,E,300.0,100.0,100.0,200.0,100.0
+150,How long is Warwick Avenue in the London area?,C,300.0,3000.0,1000.0,100.0,2000.0
+151,How long is Curzon Gate in the London area?,E,0.0,100.0,0.0,100.0,0.0
+152,How long is Cromwell Road in the London area?,B,390.0,1300.0,2600.0,3900.0,130.0
+153,How long is Marloes Road in the London area?,C,0.0,0.0,0.0,100.0,100.0
+154,How long is Lewisham Way in the London area?,C,270.0,2700.0,900.0,100.0,1800.0
+155,How long is Charlton Road in the London area?,D,2400.0,100.0,240.0,800.0,1600.0
+156,How long is Marshall Road in the London area?,A,500.0,150.0,1000.0,100.0,1500.0
+157,How long is St Georges Road in the London area?,D,0.0,0.0,100.0,0.0,100.0
+158,How long is Eastern Avenue in the London area?,B,5400.0,1800.0,180.0,540.0,3600.0
+159,How long is Bridgefoot in the London area?,E,100.0,300.0,200.0,100.0,100.0
+160,How long is South Lambeth Road in the London area?,B,2600.0,1300.0,390.0,130.0,3900.0
+161,How long is Wandsworth Road in the London area?,E,21800.0,3270.0,32700.0,1090.0,10900.0
+162,How long is Bow Flyover in the London area?,A,400.0,1200.0,120.0,800.0,100.0
+163,How long is New Barn Street in the London area?,D,240.0,720.0,7200.0,2400.0,4800.0
+164,How long is Brook Gate in the London area?,D,0.0,0.0,100.0,0.0,100.0
+165,How long is Great Queen Street in the London area?,B,100.0,500.0,150.0,1000.0,1500.0
+166,How long is Long Acre in the London area?,D,600.0,100.0,100.0,300.0,900.0
+167,How long is Peto Street North in the London area?,D,800.0,1200.0,120.0,400.0,100.0
+168,How long is Twelvetrees Crescent in the London area?,A,400.0,100.0,120.0,1200.0,800.0
+169,How long is Limehouse Link in the London area?,D,6300.0,630.0,210.0,2100.0,4200.0
+170,How long is Neathouse Place in the London area?,D,100.0,0.0,0.0,0.0,100.0
+171,How long is Bridge Place in the London area?,E,100.0,100.0,0.0,0.0,0.0
+172,How long is Silvertown Tunnel Approach in the London area?,B,3400.0,1700.0,170.0,510.0,5100.0
+173,How long is Teviot Street in the London area?,E,100.0,100.0,0.0,0.0,0.0
+174,How long is Seagull Lane in the London area?,A,200.0,100.0,100.0,600.0,400.0
+175,How long is Prestons Road in the London area?,D,3400.0,510.0,5100.0,1700.0,170.0
+176,How long is Trafalgar Square in the London area?,D,100.0,0.0,0.0,0.0,100.0
+177,How long is Stratheden Road in the London area?,D,130.0,3900.0,390.0,1300.0,2600.0
+178,How long is Temple Mills Lane in the London area?,E,220.0,6600.0,660.0,4400.0,2200.0
+179,How long is Leyton Road in the London area?,E,3000.0,4500.0,150.0,450.0,1500.0
+180,How long is Rolls Road in the London area?,E,210.0,1400.0,2100.0,100.0,700.0
+181,How long is Goodge Street in the London area?,E,100.0,200.0,100.0,300.0,100.0
+182,How long is Euston Road in the London area?,E,210.0,1400.0,100.0,2100.0,700.0
+183,How long is Gower Street in the London area?,E,7200.0,240.0,4800.0,720.0,2400.0
+184,How long is Euston Underpass in the London area?,E,100.0,600.0,900.0,100.0,300.0
+185,How long is Upper Thames Street in the London area?,E,2400.0,240.0,1600.0,100.0,800.0
+186,How long is Camden Road in the London area?,B,3600.0,1200.0,120.0,2400.0,360.0
+187,How long is Caledonian Road in the London area?,D,780.0,15600.0,2340.0,7800.0,23400.0
+188,How long is New Kent Road in the London area?,D,210.0,2100.0,100.0,700.0,1400.0
+189,How long is Wharfdale Road in the London area?,E,180.0,1800.0,100.0,1200.0,600.0
+190,How long is Roman Road in the London area?,B,630.0,2100.0,210.0,6300.0,4200.0
+191,How long is Harrington Square in the London area?,D,100.0,0.0,0.0,0.0,100.0
+192,How long is Craven Road in the London area?,A,800.0,1600.0,2400.0,240.0,100.0
+193,How long is Leinster Terrace in the London area?,E,100.0,0.0,0.0,100.0,0.0
+194,How long is Kenton Road in the London area?,B,100.0,200.0,100.0,600.0,400.0
+195,How long is Pembroke Road in the London area?,E,120.0,800.0,1200.0,100.0,400.0
+196,How long is Lauriston Road in the London area?,A,500.0,100.0,1000.0,1500.0,150.0
+197,How long is West Cromwell Road in the London area?,B,1000.0,500.0,100.0,1500.0,150.0
+198,How long is Abbott Road in the London area?,B,6800.0,3400.0,10200.0,340.0,1020.0
+199,How long is Parliament Square in the London area?,C,100.0,100.0,100.0,200.0,300.0
+200,How long is St. Margaret Street in the London area?,D,100.0,600.0,400.0,200.0,100.0
+201,How long is New Bridge Street in the London area?,C,120.0,1200.0,400.0,100.0,800.0
+202,How long is Blackfriars Bridge in the London area?,E,600.0,100.0,400.0,100.0,200.0
+203,How long is Gray's Inn Road in the London area?,C,1800.0,100.0,900.0,270.0,2700.0
+204,How long is St Pancras Way in the London area?,E,1200.0,1800.0,100.0,180.0,600.0
+205,How long is Baynes Street in the London area?,D,100.0,600.0,400.0,200.0,100.0
+206,How long is St Leonard's Road in the London area?,E,0.0,0.0,100.0,100.0,0.0
+207,How long is Trafalgar Way in the London area?,D,100.0,270.0,2700.0,900.0,1800.0
+208,How long is Shoreditch High Street in the London area?,C,100.0,600.0,200.0,100.0,400.0
+209,How long is Pentonville Road in the London area?,D,100.0,120.0,1200.0,400.0,800.0
+210,How long is King's Cross Road in the London area?,B,540.0,1800.0,3600.0,5400.0,180.0
+211,How long is Great Dover Street in the London area?,E,4200.0,420.0,2800.0,140.0,1400.0
+212,How long is Dunbridge Street in the London area?,A,2000.0,200.0,600.0,4000.0,6000.0
+213,How long is Cheshire Street in the London area?,E,100.0,100.0,0.0,0.0,0.0
+214,How long is Sclater Street in the London area?,B,600.0,200.0,100.0,400.0,100.0
+215,How long is Westbourne Street in the London area?,E,100.0,100.0,0.0,0.0,0.0
+216,How long is Approach Road in the London area?,D,100.0,0.0,0.0,0.0,100.0
+217,How long is Bonner Road in the London area?,E,180.0,100.0,1800.0,1200.0,600.0
+218,How long is Hammersmith Broadway in the London area?,B,4800.0,1600.0,480.0,160.0,3200.0
+219,How long is King Street in the London area?,E,4200.0,2800.0,420.0,140.0,1400.0
+220,How long is Belgrave Road in the London area?,A,600.0,100.0,180.0,1200.0,1800.0
+221,How long is Eccleston Square in the London area?,D,100.0,0.0,0.0,0.0,100.0
+222,How long is Elliott Road in the London area?,E,0.0,100.0,0.0,100.0,0.0
+223,How long is Goldhurst Terrace in the London area?,D,100.0,100.0,200.0,100.0,300.0
+224,How long is Broadhurst Gardens in the London area?,B,210.0,700.0,2100.0,100.0,1400.0
+225,How long is Prescot Street in the London area?,E,300.0,100.0,200.0,100.0,100.0
+226,How long is Shooters Hill Road in the London area?,B,750.0,2500.0,250.0,5000.0,7500.0
+227,How long is Snow Hill in the London area?,B,100.0,200.0,600.0,400.0,100.0
+228,How long is Praed Street in the London area?,D,100.0,210.0,2100.0,700.0,1400.0
+229,How long is Kentish Town Road in the London area?,A,900.0,100.0,270.0,2700.0,1800.0
+230,How long is St. Martin's Le Grand in the London area?,D,100.0,100.0,300.0,100.0,200.0
+231,How long is Newgate Street in the London area?,E,0.0,0.0,100.0,100.0,0.0
+232,How long is King Edward Street in the London area?,D,100.0,100.0,900.0,300.0,600.0
+233,How long is Aldersgate Street in the London area?,D,3600.0,360.0,2400.0,1200.0,120.0
+234,How long is Bromley High Street in the London area?,A,300.0,100.0,100.0,600.0,900.0
+235,How long is Shirley Street in the London area?,E,100.0,0.0,100.0,0.0,0.0
+236,How long is Caxton Street North in the London area?,B,100.0,300.0,100.0,600.0,900.0
+237,How long is Peckham Rye in the London area?,C,420.0,8400.0,4200.0,12600.0,1260.0
+238,How long is Peckham High Street in the London area?,A,800.0,2400.0,100.0,1600.0,240.0
+239,How long is Clayton Road in the London area?,A,500.0,100.0,150.0,1500.0,1000.0
+240,How long is Ruckholt Road in the London area?,A,1100.0,330.0,3300.0,110.0,2200.0
+241,How long is Hampstead Road in the London area?,A,200.0,100.0,600.0,400.0,100.0
+242,How long is Dunton Road in the London area?,A,2000.0,6000.0,4000.0,600.0,200.0
+243,How long is High Street in the London area?,B,10200.0,3400.0,1020.0,6800.0,340.0
+244,How long is Millennium Way in the London area?,C,570.0,190.0,1900.0,3800.0,5700.0
+245,How long is Wardour Street in the London area?,E,100.0,1200.0,120.0,800.0,400.0
+246,How long is Noel Street in the London area?,E,100.0,0.0,0.0,100.0,0.0
+247,How long is Swinton Street in the London area?,E,300.0,200.0,100.0,100.0,100.0
+248,How long is Brompton Road in the London area?,C,360.0,3600.0,1200.0,120.0,2400.0
+249,How long is Marcilly Road in the London area?,E,100.0,0.0,0.0,100.0,0.0
+250,How long is Addison Crescent in the London area?,D,0.0,0.0,100.0,0.0,100.0
+251,How long is Addison Road in the London area?,E,280.0,5600.0,840.0,8400.0,2800.0
+252,How long is Grove Lane in the London area?,C,220.0,4400.0,2200.0,6600.0,660.0
+253,How long is Marylebone High Street in the London area?,B,1600.0,800.0,100.0,240.0,2400.0
+254,How long is Copeland Road in the London area?,C,150.0,1500.0,500.0,1000.0,100.0
+255,How long is Warrington Crescent in the London area?,A,600.0,1800.0,100.0,180.0,1200.0
+256,How long is Henrietta Place in the London area?,E,300.0,100.0,100.0,200.0,100.0
+257,How long is Wimpole Street in the London area?,D,120.0,100.0,1200.0,400.0,800.0
+258,How long is Newington Green in the London area?,E,300.0,100.0,100.0,200.0,100.0
+259,How long is Green Lanes in the London area?,D,340.0,10200.0,1020.0,3400.0,6800.0
+260,How long is Shepherdess Walk in the London area?,A,1000.0,100.0,3000.0,2000.0,300.0
+261,How long is Eagle Wharf Road in the London area?,D,100.0,0.0,0.0,0.0,100.0
+262,How long is King William Street in the London area?,D,100.0,180.0,1200.0,600.0,1800.0
+263,How long is Lombard Street in the London area?,A,200.0,600.0,100.0,400.0,100.0
+264,How long is Eastway in the London area?,C,2800.0,420.0,1400.0,140.0,4200.0
+265,How long is Bricklayers Arms Flyover in the London area?,E,100.0,800.0,1200.0,120.0,400.0
+266,How long is East Street in the London area?,D,100.0,0.0,0.0,0.0,100.0
+267,How long is Warwick Road in the London area?,C,900.0,600.0,300.0,100.0,100.0
+268,How long is Oxford Street in the London area?,E,17700.0,1770.0,590.0,11800.0,5900.0
+269,How long is Parkfield Road in the London area?,C,0.0,0.0,0.0,100.0,100.0
+270,How long is Valentine Road in the London area?,D,300.0,100.0,100.0,100.0,200.0
+271,How long is Pitfield Street in the London area?,D,100.0,240.0,1600.0,800.0,2400.0
+272,How long is New North Road in the London area?,D,150.0,3000.0,4500.0,1500.0,450.0
+273,How long is St John's Wood Road in the London area?,E,3900.0,2600.0,390.0,130.0,1300.0
+274,How long is Old Town in the London area?,C,100.0,400.0,200.0,600.0,100.0
+275,How long is Westcombe Hill in the London area?,D,6800.0,1020.0,340.0,3400.0,10200.0
+276,How long is Royal College Street in the London area?,D,300.0,3000.0,2000.0,1000.0,100.0
+277,How long is Randolph Street in the London area?,D,100.0,100.0,300.0,100.0,200.0
+278,How long is Charing Cross Road in the London area?,C,100.0,150.0,500.0,1000.0,1500.0
+279,How long is Queen's Road in the London area?,A,900.0,2700.0,1800.0,270.0,100.0
+280,How long is Meeting House Lane in the London area?,D,1020.0,340.0,6800.0,3400.0,10200.0
+281,How long is Avenue Road in the London area?,C,2700.0,270.0,900.0,1800.0,100.0
+282,How long is Adelaide Road in the London area?,B,780.0,2600.0,7800.0,260.0,5200.0
+283,How long is Copenhagen Street in the London area?,D,3200.0,4800.0,480.0,1600.0,160.0
+284,How long is Stepney Way in the London area?,C,4400.0,6600.0,2200.0,660.0,220.0
+285,How long is Deptford High Street in the London area?,B,100.0,700.0,210.0,2100.0,1400.0
+286,How long is Giffin Street in the London area?,A,200.0,100.0,400.0,100.0,600.0
+287,How long is Boundary Road in the London area?,A,1100.0,110.0,330.0,3300.0,2200.0
+288,How long is Chatham Place in the London area?,E,140.0,4200.0,2800.0,420.0,1400.0
+289,How long is Retreat Place in the London area?,E,200.0,300.0,100.0,100.0,100.0
+290,How long is Clapham Road in the London area?,D,3800.0,570.0,190.0,1900.0,5700.0
+291,How long is Stockwell Road in the London area?,E,4500.0,3000.0,150.0,450.0,1500.0
+292,How long is Connaught Street in the London area?,C,400.0,600.0,200.0,100.0,100.0
+293,How long is City Road in the London area?,D,540.0,3600.0,5400.0,1800.0,180.0
+294,How long is Gloucester Terrace in the London area?,B,3400.0,1700.0,170.0,510.0,5100.0
+295,How long is Holborn in the London area?,A,900.0,1800.0,100.0,270.0,2700.0
+296,How long is Mabledon Place in the London area?,A,800.0,1600.0,2400.0,100.0,240.0
+297,How long is Mare Street in the London area?,D,4500.0,3000.0,150.0,1500.0,450.0
+298,How long is Amhurst Road in the London area?,A,4700.0,9400.0,14100.0,1410.0,470.0
+299,How long is Tidal Basin Road in the London area?,D,900.0,600.0,100.0,300.0,100.0
+300,How long is Calthorpe Street in the London area?,E,600.0,100.0,400.0,100.0,200.0
+301,How long is Bishops Way in the London area?,C,360.0,2400.0,1200.0,120.0,3600.0
+302,How long is Cromwell Gardens in the London area?,E,0.0,100.0,100.0,0.0,0.0
+303,How long is Cromwell Place in the London area?,C,900.0,100.0,300.0,100.0,600.0
+304,How long is Rodney Place in the London area?,E,0.0,100.0,100.0,0.0,0.0
+305,How long is Bricklayers Arms in the London area?,D,0.0,0.0,100.0,0.0,100.0
+306,How long is Princes Street in the London area?,E,300.0,100.0,100.0,200.0,100.0
+307,How long is Beckton Road in the London area?,A,200.0,400.0,100.0,600.0,100.0
+308,How long is Sandringham Road in the London area?,B,3900.0,1300.0,2600.0,390.0,130.0
+309,How long is Westminster Bridge Road in the London area?,D,100.0,1500.0,150.0,500.0,1000.0
+310,How long is Waterloo Road in the London area?,C,720.0,4800.0,2400.0,7200.0,240.0
+311,How long is Alie Street in the London area?,A,300.0,100.0,100.0,900.0,600.0
+312,How long is Bath Street in the London area?,E,100.0,900.0,100.0,600.0,300.0
+313,How long is Lever Street in the London area?,D,1500.0,1000.0,150.0,500.0,100.0
+314,How long is Rotherhithe Old Road in the London area?,E,0.0,100.0,100.0,0.0,0.0
+315,How long is New Park Road in the London area?,B,480.0,1600.0,3200.0,4800.0,160.0
+316,How long is Stoke Newington Church Street in the London area?,C,3300.0,330.0,1100.0,110.0,2200.0
+317,How long is Gallery Road in the London area?,C,1400.0,2100.0,700.0,100.0,210.0
+318,How long is Earlsfield Road in the London area?,B,5400.0,1800.0,540.0,3600.0,180.0
+319,How long is Wimbledon Park Road in the London area?,D,9600.0,960.0,6400.0,3200.0,320.0
+320,How long is Mapesbury Road in the London area?,E,420.0,2800.0,4200.0,140.0,1400.0
+321,How long is Beaumont Road in the London area?,B,6600.0,2200.0,220.0,4400.0,660.0
+322,How long is Chambers Lane in the London area?,E,3200.0,480.0,160.0,4800.0,1600.0
+323,How long is East Heath Road in the London area?,A,2800.0,280.0,5600.0,840.0,8400.0
+324,How long is Branch Hill in the London area?,D,120.0,800.0,100.0,400.0,1200.0
+325,How long is South Africa Road in the London area?,E,150.0,3000.0,450.0,4500.0,1500.0
+326,How long is Scrubs Lane in the London area?,A,500.0,1000.0,1500.0,150.0,100.0
+327,How long is Rotherhithe Street in the London area?,C,3600.0,5400.0,1800.0,540.0,180.0
+328,How long is Lea Bridge Road in the London area?,B,3300.0,1100.0,2200.0,330.0,110.0
+329,How long is Croxted Road in the London area?,D,3300.0,330.0,110.0,1100.0,2200.0
+330,How long is Dartmouth Hill in the London area?,E,100.0,100.0,400.0,600.0,200.0
+331,How long is Honor Oak Road in the London area?,B,3600.0,1800.0,5400.0,540.0,180.0
+332,How long is Goldsmith Road in the London area?,D,3000.0,2000.0,300.0,1000.0,100.0
+333,How long is Torridon Road in the London area?,B,180.0,1800.0,540.0,5400.0,3600.0
+334,How long is Grange Road in the London area?,B,4000.0,2000.0,6000.0,200.0,600.0
+335,How long is Cody Road in the London area?,D,4800.0,480.0,3200.0,1600.0,160.0
+336,How long is Dartmouth Park Hill in the London area?,D,570.0,3800.0,190.0,1900.0,5700.0
+337,How long is Plashet Road in the London area?,B,990.0,3300.0,9900.0,330.0,6600.0
+338,How long is Lower Richmond Road in the London area?,E,7200.0,4800.0,240.0,720.0,2400.0
+339,How long is Kidbrooke Park Road in the London area?,E,1020.0,6800.0,340.0,10200.0,3400.0
+340,How long is Wood Vale in the London area?,B,660.0,2200.0,220.0,6600.0,4400.0
+341,How long is College Road in the London area?,C,100.0,600.0,200.0,100.0,400.0
+342,How long is Cricklewood Lane in the London area?,C,240.0,2400.0,800.0,1600.0,100.0
+343,How long is The Broadway in the London area?,A,300.0,900.0,100.0,100.0,600.0
+344,How long is Lordship Lane in the London area?,E,180.0,540.0,5400.0,3600.0,1800.0
+345,How long is Christchurch Avenue in the London area?,D,600.0,100.0,100.0,200.0,400.0
+346,How long is Blackstock Road in the London area?,D,5400.0,810.0,8100.0,2700.0,270.0
+347,How long is Wildcroft Road in the London area?,E,7200.0,4800.0,720.0,240.0,2400.0
+348,How long is Great Marlborough Street in the London area?,C,100.0,1500.0,500.0,1000.0,150.0
+349,How long is Ravensbourne Park in the London area?,B,7400.0,3700.0,1110.0,370.0,11100.0
+350,How long is Queen's Ride in the London area?,E,2400.0,100.0,1600.0,240.0,800.0
+351,How long is Upper Clapton Road in the London area?,E,100.0,200.0,100.0,300.0,100.0
+352,How long is Albion Road in the London area?,E,840.0,280.0,5600.0,8400.0,2800.0
+353,How long is Norwood Road in the London area?,A,600.0,1800.0,1200.0,100.0,180.0
+354,How long is Centre Road in the London area?,C,1200.0,100.0,600.0,1800.0,180.0
+355,How long is Cricklewood Broadway in the London area?,C,3600.0,2400.0,1200.0,360.0,120.0
+356,How long is Platt's Lane in the London area?,C,100.0,210.0,700.0,2100.0,1400.0
+357,How long is Balham Hill in the London area?,E,900.0,100.0,600.0,100.0,300.0
+358,How long is Magdalen Road in the London area?,C,200.0,600.0,2000.0,6000.0,4000.0
+359,How long is Chatsworth Road in the London area?,E,8100.0,5400.0,810.0,270.0,2700.0
+360,How long is Turney Road in the London area?,E,6600.0,220.0,660.0,4400.0,2200.0
+361,How long is Rushey Green in the London area?,E,200.0,300.0,100.0,100.0,100.0
+362,How long is Manor Lane in the London area?,A,3200.0,9600.0,960.0,6400.0,320.0
+363,How long is Hither Green Lane in the London area?,B,330.0,3300.0,9900.0,990.0,6600.0
+364,How long is Capel Road in the London area?,A,700.0,1400.0,100.0,210.0,2100.0
+365,How long is Lower Terrace in the London area?,D,120.0,1200.0,800.0,400.0,100.0
+366,How long is Oliver Road in the London area?,B,3000.0,1500.0,150.0,450.0,4500.0
+367,How long is Heath Street in the London area?,C,150.0,100.0,500.0,1500.0,1000.0
+368,How long is High Road in the London area?,E,100.0,400.0,100.0,600.0,200.0
+369,How long is Orient Way in the London area?,D,870.0,290.0,8700.0,2900.0,5800.0
+370,How long is Devonshire Road in the London area?,E,4200.0,2800.0,420.0,140.0,1400.0
+371,How long is Old Broad Street in the London area?,B,100.0,200.0,100.0,400.0,600.0
+372,How long is Holloway Road in the London area?,A,500.0,100.0,1000.0,150.0,1500.0
+373,How long is Brixton Hill in the London area?,B,150.0,1500.0,3000.0,450.0,4500.0
+374,How long is Highgate Road in the London area?,C,6300.0,210.0,2100.0,630.0,4200.0
+375,How long is Brockley Rise in the London area?,E,100.0,100.0,600.0,400.0,200.0
+376,How long is Middlesex Street in the London area?,C,600.0,900.0,300.0,100.0,100.0
+377,How long is Rosendale Road in the London area?,D,1600.0,240.0,100.0,800.0,2400.0
+378,How long is Victoria Dock Road in the London area?,E,6900.0,4600.0,230.0,690.0,2300.0
+379,How long is Du Cane Road in the London area?,B,3900.0,1300.0,130.0,390.0,2600.0
+380,How long is High Road Leyton in the London area?,A,900.0,1800.0,2700.0,100.0,270.0
+381,How long is North Woolwich Road in the London area?,C,2200.0,330.0,1100.0,110.0,3300.0
+382,How long is Junction Road in the London area?,C,100.0,600.0,300.0,100.0,900.0
+383,How long is Sun Street in the London area?,B,600.0,300.0,100.0,900.0,100.0
+384,How long is Barking Road in the London area?,B,6600.0,2200.0,660.0,220.0,4400.0
+385,How long is Lake House Road in the London area?,C,100.0,1800.0,600.0,1200.0,180.0
+386,How long is Cathall Road in the London area?,C,3000.0,100.0,1000.0,300.0,2000.0
+387,How long is Garratt Lane in the London area?,E,5100.0,510.0,170.0,3400.0,1700.0
+388,How long is Upper Richmond Road in the London area?,B,200.0,2000.0,600.0,4000.0,6000.0
+389,How long is High Road Leytonstone in the London area?,B,420.0,1400.0,140.0,4200.0,2800.0
+390,How long is King's Avenue in the London area?,D,100.0,100.0,200.0,100.0,300.0
+391,How long is Hornsey Road in the London area?,D,240.0,100.0,2400.0,800.0,1600.0
+392,How long is Chapter Road in the London area?,A,1300.0,2600.0,390.0,130.0,3900.0
+393,How long is Bellevue Road in the London area?,D,800.0,100.0,1200.0,400.0,120.0
+394,How long is Romford Road in the London area?,A,1800.0,540.0,5400.0,180.0,3600.0
+395,How long is Tulse Hill in the London area?,E,3000.0,2000.0,300.0,100.0,1000.0
+396,How long is Wimbledon Park Side in the London area?,D,1200.0,120.0,100.0,400.0,800.0
+397,How long is Old Dover Road in the London area?,D,600.0,4000.0,6000.0,2000.0,200.0
+398,How long is Donnington Road in the London area?,E,2400.0,360.0,3600.0,120.0,1200.0
+399,How long is All Souls Avenue in the London area?,A,1300.0,2600.0,130.0,3900.0,390.0
+400,How long is Claremont Road in the London area?,C,100.0,600.0,200.0,100.0,400.0
+401,How long is Upper Saint Martin's Lane in the London area?,E,100.0,0.0,0.0,100.0,0.0
+402,How long is St. Martin's Lane in the London area?,E,300.0,200.0,100.0,100.0,100.0
+403,How long is Cranbourn Street in the London area?,D,0.0,100.0,0.0,0.0,100.0
+404,How long is South Place in the London area?,E,100.0,100.0,200.0,300.0,100.0
+405,How long is Eldon Street in the London area?,B,100.0,200.0,100.0,400.0,600.0
+406,How long is Wilson Street in the London area?,C,100.0,600.0,200.0,100.0,400.0
+407,How long is Jermyn Street in the London area?,D,1400.0,100.0,2100.0,700.0,210.0
+408,How long is Canfield Gardens in the London area?,D,2400.0,360.0,120.0,1200.0,3600.0
+409,How long is Cleve Road in the London area?,C,400.0,600.0,200.0,100.0,100.0
+410,How long is Priory Road in the London area?,B,2200.0,1100.0,330.0,3300.0,110.0
+411,How long is Southgate Road in the London area?,B,4200.0,1400.0,420.0,2800.0,140.0
+412,How long is Mildmay Park in the London area?,D,800.0,120.0,1200.0,400.0,100.0
+413,How long is Balls Pond Road in the London area?,C,1800.0,2700.0,900.0,100.0,270.0
+414,How long is Prince of Wales Road in the London area?,B,6000.0,3000.0,9000.0,300.0,900.0
+415,How long is Albany Street in the London area?,C,240.0,7200.0,2400.0,4800.0,720.0
+416,How long is Osnaburgh Terrace in the London area?,D,0.0,0.0,100.0,0.0,100.0
+417,How long is Regent Street in the London area?,D,930.0,6200.0,9300.0,3100.0,310.0
+418,How long is Ludgate Hill in the London area?,C,0.0,0.0,0.0,100.0,100.0
+419,How long is Fleet Street in the London area?,C,100.0,180.0,600.0,1200.0,1800.0
+420,How long is Farringdon Street in the London area?,E,120.0,800.0,1200.0,100.0,400.0
+421,How long is Market Road in the London area?,E,2200.0,330.0,110.0,3300.0,1100.0
+422,How long is Mackenzie Road in the London area?,E,2000.0,3000.0,300.0,100.0,1000.0
+423,How long is North Street in the London area?,B,100.0,600.0,180.0,1800.0,1200.0
+424,How long is Silverthorne Road in the London area?,C,100.0,2700.0,900.0,1800.0,270.0
+425,How long is Gloucester Place in the London area?,E,1800.0,270.0,100.0,2700.0,900.0
+426,How long is Borough Road in the London area?,C,150.0,1500.0,500.0,1000.0,100.0
+427,How long is Harper Road in the London area?,D,2400.0,120.0,360.0,1200.0,3600.0
+428,How long is Borough High Street in the London area?,D,3600.0,360.0,2400.0,1200.0,120.0
+429,How long is Newington Causeway in the London area?,E,100.0,150.0,1500.0,1000.0,500.0
+430,How long is North End Road in the London area?,B,350.0,3500.0,10500.0,7000.0,1050.0
+431,How long is Lichfield Road in the London area?,D,6300.0,630.0,4200.0,2100.0,210.0
+432,How long is Moorgate in the London area?,E,1200.0,120.0,800.0,100.0,400.0
+433,How long is Leadenhall Street in the London area?,E,1600.0,2400.0,100.0,240.0,800.0
+434,How long is Cornhill in the London area?,B,120.0,400.0,100.0,800.0,1200.0
+435,How long is Gracechurch Street in the London area?,E,300.0,200.0,100.0,100.0,100.0
+436,How long is Bishopsgate in the London area?,E,240.0,100.0,2400.0,1600.0,800.0
+437,How long is Windmill Road in the London area?,C,110.0,2200.0,1100.0,330.0,3300.0
+438,How long is Cavendish Road in the London area?,E,2400.0,120.0,360.0,3600.0,1200.0
+439,How long is Iverson Road in the London area?,C,150.0,3000.0,1500.0,450.0,4500.0
+440,How long is Kilburn High Road in the London area?,D,260.0,780.0,7800.0,2600.0,5200.0
+441,How long is Anson Road in the London area?,B,1500.0,500.0,1000.0,100.0,150.0
+442,How long is Park Avenue in the London area?,C,1080.0,360.0,3600.0,10800.0,7200.0
+443,How long is Walm Lane in the London area?,E,150.0,450.0,3000.0,4500.0,1500.0
+444,How long is Chichele Road in the London area?,D,100.0,600.0,400.0,200.0,100.0
+445,How long is Warwick Way in the London area?,B,3000.0,1000.0,2000.0,100.0,300.0
+446,How long is Buckingham Gate in the London area?,C,140.0,4200.0,1400.0,420.0,2800.0
+447,How long is Artillery Row in the London area?,E,300.0,100.0,200.0,100.0,100.0
+448,How long is Westbridge Road in the London area?,D,1200.0,1800.0,180.0,600.0,100.0
+449,How long is Parkgate Road in the London area?,D,1800.0,100.0,1200.0,600.0,180.0
+450,How long is Battersea Bridge Road in the London area?,B,800.0,400.0,1200.0,120.0,100.0
+451,How long is Rochester Row in the London area?,B,2400.0,800.0,240.0,100.0,1600.0
+452,How long is Parsons Green Lane in the London area?,C,1800.0,100.0,600.0,180.0,1200.0
+453,How long is Kelvedon Road in the London area?,D,1200.0,800.0,120.0,400.0,100.0
+454,How long is Fulham Road in the London area?,A,13400.0,1340.0,4020.0,26800.0,40200.0
+455,How long is Central Street in the London area?,D,3000.0,100.0,2000.0,1000.0,300.0
+456,How long is George Street in the London area?,C,100.0,300.0,1000.0,3000.0,2000.0
+457,How long is Portman Street in the London area?,A,200.0,400.0,100.0,600.0,100.0
+458,How long is Portman Square in the London area?,B,120.0,400.0,800.0,100.0,1200.0
+459,How long is Seymour Street in the London area?,E,2100.0,1400.0,100.0,210.0,700.0
+460,How long is Spencer Street in the London area?,D,100.0,1200.0,800.0,400.0,120.0
+461,How long is Moreland Street in the London area?,D,800.0,120.0,1200.0,400.0,100.0
+462,How long is Goswell Road in the London area?,D,5400.0,180.0,3600.0,1800.0,540.0
+463,How long is Marsham Street in the London area?,C,2600.0,130.0,1300.0,390.0,3900.0
+464,How long is Horseferry Road in the London area?,D,1500.0,100.0,1000.0,500.0,150.0
+465,How long is Greycoat Place in the London area?,A,900.0,270.0,1800.0,2700.0,100.0
+466,How long is Cannon Street in the London area?,C,5100.0,170.0,1700.0,3400.0,510.0
+467,How long is Eastcheap in the London area?,D,100.0,180.0,1800.0,600.0,1200.0
+468,How long is London Bridge in the London area?,C,100.0,1200.0,400.0,120.0,800.0
+469,How long is Lee Road in the London area?,E,390.0,3900.0,130.0,2600.0,1300.0
+470,How long is Burnt Ash Road in the London area?,B,100.0,700.0,2100.0,1400.0,210.0
+471,How long is Eltham Road in the London area?,A,400.0,100.0,1200.0,120.0,800.0
+472,How long is Lee High Road in the London area?,E,100.0,300.0,2000.0,3000.0,1000.0
+473,How long is Kingsland High Street in the London area?,A,300.0,100.0,900.0,100.0,600.0
+474,How long is Stoke Newington Road in the London area?,E,1800.0,100.0,1200.0,180.0,600.0
+475,How long is Shacklewell Lane in the London area?,E,210.0,2100.0,100.0,1400.0,700.0
+476,How long is Crossway in the London area?,B,600.0,300.0,100.0,900.0,100.0
+477,How long is Skinner Street in the London area?,C,100.0,100.0,100.0,200.0,300.0
+478,How long is Percival Street in the London area?,E,150.0,1000.0,100.0,1500.0,500.0
+479,How long is St. John Street in the London area?,B,140.0,1400.0,420.0,4200.0,2800.0
+480,How long is Bolingbroke Grove in the London area?,A,2800.0,840.0,8400.0,280.0,5600.0
+481,How long is Battersea Rise in the London area?,B,210.0,700.0,100.0,1400.0,2100.0
+482,How long is Fortune Green Road in the London area?,D,420.0,2800.0,140.0,1400.0,4200.0
+483,How long is Caldwell Street in the London area?,E,100.0,180.0,1800.0,1200.0,600.0
+484,How long is Vassall Road in the London area?,E,3000.0,300.0,2000.0,100.0,1000.0
+485,How long is Brixton Road in the London area?,D,100.0,2700.0,1800.0,900.0,270.0
+486,How long is Greenwich South Street in the London area?,D,2700.0,270.0,100.0,900.0,1800.0
+487,How long is Lewisham Road in the London area?,B,5700.0,1900.0,3800.0,570.0,190.0
+488,How long is Blackheath Road in the London area?,C,600.0,100.0,200.0,400.0,100.0
+489,How long is Blackheath Hill in the London area?,D,150.0,100.0,1000.0,500.0,1500.0
+490,How long is Sloane Street in the London area?,B,1800.0,900.0,2700.0,100.0,270.0
+491,How long is Beauchamp Place in the London area?,E,300.0,2000.0,100.0,3000.0,1000.0
+492,How long is Pont Street in the London area?,C,180.0,100.0,600.0,1200.0,1800.0
+493,How long is Queensbridge Road in the London area?,A,2000.0,600.0,4000.0,6000.0,200.0
+494,How long is Whiston Road in the London area?,B,240.0,800.0,100.0,2400.0,1600.0
+495,How long is Pritchard's Road in the London area?,E,3200.0,480.0,160.0,4800.0,1600.0
+496,How long is Shaftesbury Avenue in the London area?,D,150.0,450.0,3000.0,1500.0,4500.0
+497,How long is Coventry Street in the London area?,E,100.0,100.0,0.0,0.0,0.0
+498,How long is Piccadilly Circus in the London area?,D,300.0,100.0,100.0,100.0,200.0
+499,How long is Harvist Road in the London area?,C,5400.0,540.0,1800.0,3600.0,180.0
+500,How long is Brondesbury Road in the London area?,A,1000.0,3000.0,300.0,2000.0,100.0
+501,How long is Salusbury Road in the London area?,A,1400.0,420.0,4200.0,2800.0,140.0
+502,How long is Kilburn Park Road in the London area?,B,2400.0,1200.0,120.0,3600.0,360.0
+503,How long is Carlton Vale in the London area?,B,4000.0,2000.0,6000.0,200.0,600.0
+504,How long is Charlton Way in the London area?,A,1100.0,110.0,3300.0,330.0,2200.0
+505,How long is Vanbrugh Park in the London area?,C,360.0,120.0,1200.0,3600.0,2400.0
+506,How long is Maze Hill in the London area?,C,310.0,6200.0,3100.0,9300.0,930.0
+507,How long is Prince Charles Road in the London area?,A,1300.0,130.0,390.0,3900.0,2600.0
+508,How long is East Smithfield in the London area?,D,100.0,100.0,300.0,100.0,200.0
+509,How long is The Highway in the London area?,E,120.0,1200.0,100.0,800.0,400.0
+510,How long is Wapping High Street in the London area?,E,5400.0,810.0,270.0,8100.0,2700.0
+511,How long is Dock Street in the London area?,E,100.0,200.0,300.0,100.0,100.0
+512,How long is Beaufort Street in the London area?,E,100.0,1800.0,180.0,1200.0,600.0
+513,How long is Cheyne Walk in the London area?,E,200.0,100.0,300.0,100.0,100.0
+514,How long is Chelsea Embankment in the London area?,D,3900.0,390.0,130.0,1300.0,2600.0
+515,How long is King's Road in the London area?,D,1500.0,15000.0,10000.0,5000.0,500.0
+516,How long is Westbourne Grove in the London area?,E,100.0,300.0,3000.0,2000.0,1000.0
+517,How long is Pembridge Villas in the London area?,A,500.0,1500.0,100.0,150.0,1000.0
+518,How long is Chepstow Road in the London area?,D,120.0,800.0,100.0,400.0,1200.0
+519,How long is Ladbroke Gardens in the London area?,B,400.0,200.0,100.0,100.0,600.0
+520,How long is Kensington Park Road in the London area?,C,2200.0,110.0,1100.0,330.0,3300.0
+521,How long is St George's Drive in the London area?,B,1800.0,900.0,270.0,2700.0,100.0
+522,How long is Claverton Street in the London area?,C,150.0,1500.0,500.0,100.0,1000.0
+523,How long is Lupus Street in the London area?,B,4800.0,1600.0,3200.0,480.0,160.0
+524,How long is Pelham Street in the London area?,B,100.0,600.0,1800.0,180.0,1200.0
+525,How long is Sloane Avenue in the London area?,E,270.0,2700.0,1800.0,100.0,900.0
+526,How long is Decima Street in the London area?,A,200.0,100.0,400.0,100.0,600.0
+527,How long is Tower Bridge Road in the London area?,B,1400.0,700.0,2100.0,100.0,210.0
+528,How long is St Paul's Way in the London area?,D,5100.0,3400.0,170.0,1700.0,510.0
+529,How long is Devons Road in the London area?,E,2800.0,4200.0,420.0,140.0,1400.0
+530,How long is Bow Common Lane in the London area?,A,3400.0,1020.0,340.0,10200.0,6800.0
+531,How long is Wat Tyler Road in the London area?,E,2100.0,1400.0,100.0,210.0,700.0
+532,How long is Hare and Billet Road in the London area?,C,100.0,3000.0,1000.0,2000.0,300.0
+533,How long is Royal Hospital Road in the London area?,C,2000.0,3000.0,1000.0,100.0,300.0
+534,How long is Pimlico Road in the London area?,E,2100.0,1400.0,100.0,210.0,700.0
+535,How long is Chelsea Bridge Road in the London area?,D,1200.0,120.0,100.0,400.0,800.0
+536,How long is Lower Sloane Street in the London area?,A,500.0,1000.0,1500.0,150.0,100.0
+537,How long is Greville Place in the London area?,E,2400.0,1600.0,100.0,240.0,800.0
+538,How long is Abbey Road in the London area?,B,270.0,2700.0,8100.0,810.0,5400.0
+539,How long is East Dulwich Road in the London area?,E,180.0,100.0,1200.0,1800.0,600.0
+540,How long is Dalston Lane in the London area?,E,810.0,270.0,5400.0,8100.0,2700.0
+541,How long is Kingsland Road in the London area?,B,1800.0,900.0,270.0,2700.0,100.0
+542,How long is Southwark Park Road in the London area?,C,160.0,4800.0,1600.0,3200.0,480.0
+543,How long is St James's Road in the London area?,D,5800.0,8700.0,870.0,2900.0,290.0
+544,How long is Commercial Way in the London area?,A,1700.0,170.0,3400.0,5100.0,510.0
+545,How long is Peckham Hill Street in the London area?,D,110.0,3300.0,330.0,1100.0,2200.0
+546,How long is Lausanne Road in the London area?,B,1200.0,600.0,100.0,180.0,1800.0
+547,How long is Pomeroy Street in the London area?,C,100.0,300.0,1000.0,2000.0,3000.0
+548,How long is Gloucester Road in the London area?,B,630.0,2100.0,4200.0,6300.0,210.0
+549,How long is York Way in the London area?,A,3000.0,6000.0,300.0,900.0,9000.0
+550,How long is Agar Grove in the London area?,B,390.0,1300.0,130.0,2600.0,3900.0
+551,How long is Brewery Road in the London area?,A,1100.0,330.0,110.0,2200.0,3300.0
+552,How long is Kings Avenue in the London area?,A,1700.0,510.0,5100.0,3400.0,170.0
+553,How long is Bedford Road in the London area?,C,2100.0,210.0,700.0,100.0,1400.0
+554,How long is Clapham Park Road in the London area?,E,1400.0,2100.0,210.0,100.0,700.0
+555,How long is Acre Lane in the London area?,C,1600.0,2400.0,800.0,240.0,100.0
+556,How long is Poynders Road in the London area?,A,200.0,600.0,100.0,400.0,100.0
+557,How long is Atkins Road in the London area?,E,0.0,100.0,0.0,100.0,0.0
+558,How long is Milkwood Road in the London area?,D,1800.0,2700.0,270.0,900.0,100.0
+559,How long is Loughborough Road in the London area?,B,180.0,1800.0,5400.0,3600.0,540.0
+560,How long is Coldharbour Lane in the London area?,A,1900.0,190.0,570.0,5700.0,3800.0
+561,How long is Catlin Street in the London area?,C,100.0,1000.0,500.0,150.0,1500.0
+562,How long is Wormwood Street in the London area?,C,0.0,0.0,0.0,100.0,100.0
+563,How long is Avignon Road in the London area?,C,2600.0,130.0,1300.0,390.0,3900.0
+564,How long is Oakdale Road in the London area?,B,2000.0,1000.0,300.0,3000.0,100.0
+565,How long is St Asaph Road in the London area?,C,100.0,210.0,700.0,1400.0,2100.0
+566,How long is Brockley Cross in the London area?,B,170.0,1700.0,3400.0,5100.0,510.0
+567,How long is Florence Road in the London area?,D,2100.0,1400.0,100.0,700.0,210.0
+568,How long is Nunhead Lane in the London area?,C,420.0,4200.0,1400.0,2800.0,140.0
+569,How long is Linden Grove in the London area?,B,3600.0,1800.0,180.0,5400.0,540.0
+570,How long is Consort Road in the London area?,A,1200.0,2400.0,360.0,120.0,3600.0
+571,How long is Camberwell New Road in the London area?,B,1600.0,800.0,2400.0,100.0,240.0
+572,How long is Kennington Park Road in the London area?,B,600.0,300.0,100.0,900.0,100.0
+573,How long is Hermit Road in the London area?,D,600.0,100.0,100.0,300.0,900.0
+574,How long is Baker Street in the London area?,D,1600.0,240.0,100.0,800.0,2400.0
+575,How long is Plough Road in the London area?,B,110.0,1100.0,2200.0,3300.0,330.0
+576,How long is Strath Terrace in the London area?,E,100.0,400.0,600.0,100.0,200.0
+577,How long is Saint John's Hill in the London area?,A,1000.0,300.0,100.0,3000.0,2000.0
+578,How long is St. Paul's Road in the London area?,D,110.0,330.0,3300.0,1100.0,2200.0
+579,How long is Newington Green Road in the London area?,B,100.0,800.0,2400.0,240.0,1600.0
+580,How long is Essex Road in the London area?,B,3300.0,1100.0,110.0,2200.0,330.0
+581,How long is Upton Lane in the London area?,E,6900.0,230.0,4600.0,690.0,2300.0
+582,How long is Stopford Road in the London area?,A,1300.0,130.0,390.0,2600.0,3900.0
+583,How long is Camberwell Road in the London area?,A,900.0,100.0,2700.0,270.0,1800.0
+584,How long is Wyndham Road in the London area?,E,2000.0,3000.0,300.0,100.0,1000.0
+585,How long is Bowyer Place in the London area?,A,900.0,1800.0,2700.0,270.0,100.0
+586,How long is Poplar High Street in the London area?,B,540.0,1800.0,5400.0,180.0,3600.0
+587,How long is Theobalds Road in the London area?,A,400.0,100.0,800.0,120.0,1200.0
+588,How long is Clerkenwell Road in the London area?,E,240.0,1600.0,100.0,2400.0,800.0
+589,How long is Eversholt Street in the London area?,C,2800.0,4200.0,1400.0,140.0,420.0
+590,How long is Tavistock Square in the London area?,A,300.0,100.0,600.0,900.0,100.0
+591,How long is Cavendish Place in the London area?,D,100.0,200.0,100.0,100.0,300.0
+592,How long is Mortimer Street in the London area?,D,100.0,1800.0,180.0,600.0,1200.0
+593,How long is Langham Place in the London area?,E,900.0,100.0,100.0,600.0,300.0
+594,How long is Islington Park Street in the London area?,D,900.0,100.0,100.0,300.0,600.0
+595,How long is Canonbury Square in the London area?,E,100.0,900.0,100.0,600.0,300.0
+596,How long is Highbury Corner in the London area?,B,1200.0,600.0,1800.0,100.0,180.0
+597,How long is Upper Street in the London area?,E,3000.0,2000.0,100.0,300.0,1000.0
+598,How long is Canonbury Road in the London area?,C,2100.0,100.0,700.0,1400.0,210.0
+599,How long is Islington Green in the London area?,D,100.0,3000.0,300.0,1000.0,2000.0
+600,How long is Abbey Street in the London area?,A,1300.0,390.0,130.0,3900.0,2600.0
+601,How long is Elgin Avenue in the London area?,C,160.0,3200.0,1600.0,4800.0,480.0
+602,How long is Chippenham Road in the London area?,C,2400.0,1600.0,800.0,100.0,240.0
+603,How long is Grosvenor Road in the London area?,A,1400.0,420.0,2800.0,4200.0,140.0
+604,How long is Bessborough Gardens in the London area?,D,0.0,0.0,100.0,0.0,100.0
+605,How long is Malden Road in the London area?,C,2700.0,1800.0,900.0,270.0,100.0
+606,How long is Malden Crescent in the London area?,E,2600.0,390.0,3900.0,130.0,1300.0
+607,How long is Deptford Church Street in the London area?,A,900.0,270.0,2700.0,100.0,1800.0
+608,How long is Thurston Road in the London area?,C,4800.0,720.0,2400.0,7200.0,240.0
+609,How long is Deptford Bridge in the London area?,E,0.0,100.0,100.0,0.0,0.0
+610,How long is Deptford Broadway in the London area?,B,600.0,200.0,400.0,100.0,100.0
+611,How long is Willesden Lane in the London area?,C,190.0,3800.0,1900.0,5700.0,570.0
+612,How long is The Avenue in the London area?,E,4600.0,230.0,690.0,6900.0,2300.0
+613,How long is Chamberlayne Road in the London area?,E,7800.0,260.0,780.0,5200.0,2600.0
+614,How long is Mortimer Road in the London area?,D,1800.0,100.0,1200.0,600.0,180.0
+615,How long is De Beauvoir Road in the London area?,B,4200.0,2100.0,630.0,6300.0,210.0
+616,How long is Downham Road in the London area?,B,330.0,1100.0,110.0,3300.0,2200.0
+617,How long is Islington High Street in the London area?,C,0.0,0.0,0.0,100.0,100.0
+618,How long is Sutherland Avenue in the London area?,E,1020.0,6800.0,10200.0,340.0,3400.0
+619,How long is Hall Road in the London area?,C,100.0,1400.0,700.0,2100.0,210.0
+620,How long is Maida Vale in the London area?,E,5400.0,540.0,3600.0,180.0,1800.0
+621,How long is Old Brompton Road in the London area?,A,3800.0,1140.0,7600.0,380.0,11400.0
+622,How long is Cranley Gardens in the London area?,C,1400.0,2100.0,700.0,210.0,100.0
+623,How long is Broomhouse Lane in the London area?,A,4300.0,12900.0,1290.0,430.0,8600.0
+624,How long is Townmead Road in the London area?,C,170.0,3400.0,1700.0,510.0,5100.0
+625,How long is Wandsworth Bridge Road in the London area?,D,3800.0,190.0,570.0,1900.0,5700.0
+626,How long is Shirland Road in the London area?,D,270.0,1800.0,2700.0,900.0,100.0
+627,How long is Bristol Gardens in the London area?,A,200.0,600.0,100.0,100.0,400.0
+628,How long is Formosa Street in the London area?,A,400.0,100.0,120.0,800.0,1200.0
+629,How long is Liverpool Road in the London area?,E,11100.0,370.0,1110.0,7400.0,3700.0
+630,How long is Palmer Place in the London area?,E,600.0,100.0,100.0,400.0,200.0
+631,How long is Penton Street in the London area?,A,800.0,240.0,100.0,1600.0,2400.0
+632,How long is Barnsbury Road in the London area?,A,500.0,1500.0,1000.0,100.0,150.0
+633,How long is Old Street in the London area?,C,2400.0,100.0,800.0,1600.0,240.0
+634,How long is Wood Lane in the London area?,D,7800.0,260.0,780.0,2600.0,5200.0
+635,How long is Primrose Hill Road in the London area?,B,5000.0,2500.0,750.0,7500.0,250.0
+636,How long is Southwark Street in the London area?,E,330.0,2200.0,110.0,3300.0,1100.0
+637,How long is Southwark Bridge Road in the London area?,B,5400.0,1800.0,3600.0,540.0,180.0
+638,How long is Battersea Park Road in the London area?,B,330.0,1100.0,110.0,2200.0,3300.0
+639,How long is Latchmere Road in the London area?,D,240.0,2400.0,1600.0,800.0,100.0
+640,How long is Bishop's Bridge Road in the London area?,D,1400.0,100.0,210.0,700.0,2100.0
+641,How long is Wigmore Street in the London area?,E,1200.0,100.0,120.0,800.0,400.0
+642,How long is Orchard Street in the London area?,D,200.0,100.0,100.0,100.0,300.0
+643,How long is Harrington Road in the London area?,A,400.0,1200.0,100.0,120.0,800.0
+644,How long is Stanhope Gardens in the London area?,E,600.0,100.0,100.0,900.0,300.0
+645,How long is Queen's Gate in the London area?,B,5400.0,1800.0,3600.0,540.0,180.0
+646,How long is Munster Road in the London area?,D,7500.0,250.0,750.0,2500.0,5000.0
+647,How long is Putney Hill in the London area?,E,1400.0,210.0,100.0,2100.0,700.0
+648,How long is Putney High Street in the London area?,A,300.0,100.0,600.0,100.0,900.0
+649,How long is Winchester Avenue in the London area?,D,800.0,1200.0,100.0,400.0,120.0
+650,How long is Chevening Road in the London area?,E,180.0,5400.0,540.0,3600.0,1800.0
+651,How long is Brondesbury Park in the London area?,E,360.0,120.0,3600.0,2400.0,1200.0
+652,How long is Great Western Road in the London area?,E,180.0,100.0,1200.0,1800.0,600.0
+653,How long is Mitre Road in the London area?,D,4800.0,480.0,160.0,1600.0,3200.0
+654,How long is Warton Road in the London area?,E,100.0,150.0,1000.0,1500.0,500.0
+655,How long is Old Church Street in the London area?,B,100.0,800.0,1600.0,240.0,2400.0
+656,How long is Burbage Road in the London area?,E,7200.0,240.0,720.0,4800.0,2400.0
+657,How long is Belsize Road in the London area?,C,2200.0,110.0,1100.0,330.0,3300.0
+658,How long is Seymour Place in the London area?,C,2400.0,360.0,1200.0,120.0,3600.0
+659,How long is Lisson Grove in the London area?,A,1900.0,190.0,5700.0,3800.0,570.0
+660,How long is Circus Road in the London area?,A,700.0,210.0,100.0,2100.0,1400.0
+661,How long is Grove End Road in the London area?,D,3000.0,100.0,2000.0,1000.0,300.0
+662,How long is Shoot-up Hill in the London area?,A,700.0,210.0,100.0,2100.0,1400.0
+663,How long is Maygrove Road in the London area?,C,120.0,360.0,1200.0,2400.0,3600.0
+664,How long is Abercorn Place in the London area?,C,270.0,100.0,900.0,1800.0,2700.0
+665,How long is Claremont Square in the London area?,E,240.0,2400.0,1600.0,100.0,800.0
+666,How long is Elspeth Road in the London area?,E,600.0,100.0,900.0,100.0,300.0
+667,How long is Lavender Hill in the London area?,B,150.0,1500.0,450.0,3000.0,4500.0
+668,How long is Upper Berkeley Street in the London area?,A,700.0,210.0,1400.0,2100.0,100.0
+669,How long is Old Marylebone Road in the London area?,E,100.0,100.0,200.0,300.0,100.0
+670,How long is Humphrey Street in the London area?,E,100.0,100.0,0.0,0.0,0.0
+671,How long is Albany Road in the London area?,E,6600.0,4400.0,660.0,220.0,2200.0
+672,How long is Sidney Street in the London area?,E,300.0,3000.0,100.0,2000.0,1000.0
+673,How long is Graham Road in the London area?,D,130.0,2600.0,3900.0,1300.0,390.0
+674,How long is Grosvenor Avenue in the London area?,C,130.0,3900.0,1300.0,390.0,2600.0
+675,How long is Petherton Road in the London area?,E,3600.0,360.0,120.0,2400.0,1200.0
+676,How long is Wallace Road in the London area?,D,1200.0,120.0,100.0,400.0,800.0
+677,How long is Whitechapel Road in the London area?,A,400.0,120.0,800.0,1200.0,100.0
+678,How long is Mile End Road in the London area?,C,1200.0,1800.0,600.0,180.0,100.0
+679,How long is Cambridge Heath Road in the London area?,C,5600.0,280.0,2800.0,840.0,8400.0
+680,How long is Effra Road in the London area?,E,2400.0,100.0,240.0,1600.0,800.0
+681,How long is Marshalsea Road in the London area?,A,400.0,1200.0,100.0,120.0,800.0
+682,How long is Balaam Street in the London area?,C,840.0,8400.0,2800.0,280.0,5600.0
+683,How long is Burdett Road in the London area?,A,1100.0,110.0,330.0,3300.0,2200.0
+684,How long is Grove Road in the London area?,A,2800.0,280.0,5600.0,8400.0,840.0
+685,How long is Red Post Hill in the London area?,C,420.0,2800.0,1400.0,140.0,4200.0
+686,How long is Herne Hill Road in the London area?,E,3400.0,510.0,170.0,5100.0,1700.0
+687,How long is Denmark Hill in the London area?,D,9000.0,900.0,6000.0,3000.0,300.0
+688,How long is Herne Hill in the London area?,D,100.0,240.0,1600.0,800.0,2400.0
+689,How long is Dames Road in the London area?,C,300.0,100.0,1000.0,2000.0,3000.0
+690,How long is Cann Hall Road in the London area?,E,4000.0,200.0,600.0,6000.0,2000.0
+691,How long is Chelsea Bridge in the London area?,E,210.0,1400.0,2100.0,100.0,700.0
+692,How long is Matthias Road in the London area?,E,3300.0,330.0,2200.0,110.0,1100.0
+693,How long is Boleyn Road in the London area?,A,400.0,1200.0,800.0,120.0,100.0
+694,How long is Mildmay Road in the London area?,E,0.0,100.0,100.0,0.0,0.0
+695,How long is Bethnal Green Road in the London area?,A,2800.0,280.0,840.0,5600.0,8400.0
+696,How long is Vallance Road in the London area?,C,4500.0,150.0,1500.0,450.0,3000.0
+697,How long is Squirries Street in the London area?,D,300.0,3000.0,100.0,1000.0,2000.0
+698,How long is Commercial Road in the London area?,E,240.0,100.0,2400.0,1600.0,800.0
+699,How long is Cannon Street Road in the London area?,E,1800.0,1200.0,180.0,100.0,600.0
+700,How long is New Road in the London area?,C,100.0,1200.0,400.0,800.0,120.0
+701,How long is Commercial Street in the London area?,B,100.0,500.0,150.0,1500.0,1000.0
+702,How long is Great Eastern Street in the London area?,B,600.0,200.0,100.0,100.0,400.0
+703,How long is Cedars Road in the London area?,D,2000.0,3000.0,100.0,1000.0,300.0
+704,How long is Queenstown Road in the London area?,D,2400.0,3600.0,120.0,1200.0,360.0
+705,How long is Loudoun Road in the London area?,C,480.0,160.0,1600.0,3200.0,4800.0
+706,How long is East Dulwich Grove in the London area?,B,2200.0,1100.0,330.0,110.0,3300.0
+707,How long is Village Way in the London area?,C,600.0,100.0,300.0,100.0,900.0
+708,How long is Dulwich Village in the London area?,A,1000.0,100.0,2000.0,300.0,3000.0
+709,How long is West End Lane in the London area?,D,4600.0,6900.0,230.0,2300.0,690.0
+710,How long is Frognal Lane in the London area?,E,1600.0,240.0,100.0,2400.0,800.0
+711,How long is Oakley Street in the London area?,A,400.0,800.0,1200.0,120.0,100.0
+712,How long is Albert Bridge in the London area?,B,150.0,500.0,100.0,1000.0,1500.0
+713,How long is Stamford Street in the London area?,A,500.0,1000.0,100.0,1500.0,150.0
+714,How long is Blackfriars Road in the London area?,D,300.0,100.0,2000.0,1000.0,3000.0
+715,How long is Lambeth Road in the London area?,E,100.0,2000.0,300.0,3000.0,1000.0
+716,How long is Kennington Road in the London area?,A,1200.0,360.0,2400.0,120.0,3600.0
+717,How long is Old Ford Road in the London area?,D,1140.0,11400.0,7600.0,3800.0,380.0
+718,How long is Hyde Vale in the London area?,D,0.0,0.0,100.0,0.0,100.0
+719,How long is Brookfield Road in the London area?,E,100.0,100.0,300.0,200.0,100.0
+720,How long is Kenworthy Road in the London area?,D,100.0,240.0,1600.0,800.0,2400.0
+721,How long is Cassland Road in the London area?,B,210.0,700.0,100.0,2100.0,1400.0
+722,How long is Woodgrange Road in the London area?,D,100.0,100.0,600.0,200.0,400.0
+723,How long is Baylis Road in the London area?,A,300.0,100.0,100.0,900.0,600.0
+724,How long is Farringdon Road in the London area?,C,5400.0,540.0,1800.0,3600.0,180.0
+725,How long is Rosebery Avenue in the London area?,A,800.0,240.0,2400.0,1600.0,100.0
+726,How long is Pembury Road in the London area?,B,100.0,1000.0,3000.0,2000.0,300.0
+727,How long is Hackney Road in the London area?,E,420.0,140.0,2800.0,4200.0,1400.0
+728,How long is Kennington Lane in the London area?,A,1100.0,110.0,330.0,2200.0,3300.0
+729,How long is Crownfield Road in the London area?,C,2600.0,390.0,1300.0,3900.0,130.0
+730,How long is Leytonstone Road in the London area?,A,1200.0,360.0,2400.0,3600.0,120.0
+731,How long is Ladbroke Grove in the London area?,A,2600.0,7800.0,780.0,260.0,5200.0
+732,How long is Kilburn Lane in the London area?,D,4600.0,6900.0,230.0,2300.0,690.0
+733,How long is St Mark's Rise in the London area?,D,1400.0,2100.0,210.0,700.0,100.0
+734,How long is Guilford Street in the London area?,E,1800.0,1200.0,100.0,180.0,600.0
+735,How long is Drayton Gardens in the London area?,E,2400.0,100.0,1600.0,240.0,800.0
+736,How long is Southampton Row in the London area?,A,300.0,100.0,600.0,900.0,100.0
+737,How long is Drake Street in the London area?,C,0.0,0.0,0.0,100.0,100.0
+738,How long is Vernon Place in the London area?,E,100.0,0.0,100.0,0.0,0.0
+739,How long is Camberwell Church Street in the London area?,E,2700.0,1800.0,270.0,100.0,900.0
+740,How long is Tower Bridge Approach in the London area?,D,100.0,100.0,300.0,100.0,200.0
+741,How long is Tower Hill in the London area?,A,300.0,100.0,600.0,900.0,100.0
+742,How long is Half Moon Lane in the London area?,E,1400.0,210.0,100.0,2100.0,700.0
+743,How long is Dulwich Road in the London area?,B,2400.0,1200.0,120.0,3600.0,360.0
+744,How long is Tottenham Court Road in the London area?,B,100.0,700.0,1400.0,210.0,2100.0
+745,How long is Clifton Road in the London area?,B,100.0,500.0,1000.0,1500.0,150.0
+746,How long is East Road in the London area?,B,900.0,300.0,600.0,100.0,100.0
+747,How long is Murray Grove in the London area?,B,3000.0,1000.0,300.0,2000.0,100.0
+748,How long is Bloomsbury Street in the London area?,E,0.0,0.0,100.0,100.0,0.0
+749,How long is Bedford Square in the London area?,C,1200.0,800.0,400.0,120.0,100.0
+750,How long is Great Russell Street in the London area?,D,210.0,1400.0,2100.0,700.0,100.0
+751,How long is Sussex Place in the London area?,D,300.0,100.0,3000.0,1000.0,2000.0
+752,How long is London Street in the London area?,A,200.0,100.0,600.0,400.0,100.0
+753,How long is Streatham Place in the London area?,E,300.0,100.0,100.0,200.0,100.0
+754,How long is Long Lane in the London area?,B,4000.0,2000.0,600.0,200.0,6000.0
+755,How long is Beech Street in the London area?,C,100.0,3000.0,1000.0,2000.0,300.0
+756,How long is Foxley Road in the London area?,E,1800.0,100.0,1200.0,180.0,600.0
+757,How long is Brixton Water Lane in the London area?,A,1000.0,300.0,2000.0,3000.0,100.0
+758,How long is Ebury Bridge Road in the London area?,A,300.0,900.0,600.0,100.0,100.0
+759,How long is Lambeth Bridge in the London area?,D,100.0,120.0,800.0,400.0,1200.0
+760,How long is Finsbury Pavement in the London area?,C,100.0,100.0,100.0,300.0,200.0
+761,How long is Chiswell Street in the London area?,E,1800.0,1200.0,180.0,100.0,600.0
+762,How long is Drummond Gate in the London area?,A,800.0,1600.0,100.0,240.0,2400.0
+763,How long is John Islip Street in the London area?,B,1800.0,600.0,180.0,100.0,1200.0
+764,How long is Mandela Way in the London area?,B,3900.0,1300.0,2600.0,130.0,390.0
+765,How long is Aldgate High Street in the London area?,D,100.0,300.0,100.0,100.0,200.0
+766,How long is Whitechapel High Street in the London area?,E,0.0,0.0,100.0,100.0,0.0
+767,How long is Hanover Street in the London area?,A,500.0,1500.0,1000.0,100.0,150.0
+768,How long is Maddox Street in the London area?,E,200.0,100.0,100.0,300.0,100.0
+769,How long is Thayer Street in the London area?,D,1200.0,100.0,800.0,400.0,120.0
+770,How long is James Street in the London area?,E,300.0,200.0,100.0,100.0,100.0
+771,How long is Nuttall Street in the London area?,E,0.0,0.0,100.0,100.0,0.0
+772,How long is Holborn Viaduct in the London area?,C,100.0,180.0,600.0,1800.0,1200.0
+773,How long is Hatton Garden in the London area?,C,210.0,2100.0,700.0,1400.0,100.0
+774,How long is New Fetter Lane in the London area?,E,0.0,100.0,0.0,100.0,0.0
+775,How long is Porchester Road in the London area?,B,100.0,200.0,400.0,100.0,600.0
+776,How long is Inverness Terrace in the London area?,B,150.0,500.0,1000.0,1500.0,100.0
+777,How long is Fieldgate Street in the London area?,D,900.0,100.0,100.0,300.0,600.0
+778,How long is Water Lane in the London area?,C,1600.0,2400.0,800.0,100.0,240.0
+779,How long is Vicarage Lane in the London area?,D,2400.0,3600.0,120.0,1200.0,360.0
+780,How long is North Audley Street in the London area?,E,400.0,100.0,100.0,600.0,200.0
+781,How long is Bermondsey Street in the London area?,B,360.0,1200.0,2400.0,3600.0,120.0
+782,How long is Russell Square in the London area?,A,1000.0,2000.0,300.0,100.0,3000.0
+783,How long is Bernard Street in the London area?,D,100.0,1200.0,120.0,400.0,800.0
+784,How long is Woburn Place in the London area?,A,400.0,120.0,1200.0,800.0,100.0
+785,How long is Leman Street in the London area?,D,100.0,900.0,600.0,300.0,100.0
+786,How long is Manor Road in the London area?,B,420.0,4200.0,8400.0,1260.0,12600.0
+787,How long is Butcher Row in the London area?,E,100.0,0.0,100.0,0.0,0.0
+788,How long is White Horse Road in the London area?,A,300.0,600.0,900.0,100.0,100.0
+789,How long is Albert Embankment in the London area?,D,1800.0,100.0,1200.0,600.0,180.0
+790,How long is Lambeth Palace Road in the London area?,E,1600.0,240.0,2400.0,100.0,800.0
+791,How long is West India Dock Road in the London area?,E,100.0,300.0,200.0,100.0,100.0
+792,How long is Endell Street in the London area?,C,100.0,100.0,100.0,300.0,200.0
+793,How long is High Holborn in the London area?,E,240.0,2400.0,1600.0,100.0,800.0
+794,How long is Mildmay Grove South in the London area?,C,100.0,240.0,800.0,1600.0,2400.0
+795,How long is Lee Terrace in the London area?,C,780.0,7800.0,2600.0,260.0,5200.0
+796,How long is Park Crescent in the London area?,C,100.0,800.0,400.0,120.0,1200.0
+797,How long is Pall Mall in the London area?,A,1400.0,2800.0,420.0,4200.0,140.0
+798,How long is Theberton Street in the London area?,D,100.0,1200.0,1800.0,600.0,180.0
+799,How long is Victoria Embankment in the London area?,D,350.0,10500.0,1050.0,3500.0,7000.0
+800,How long is Frognal in the London area?,E,1000.0,1500.0,100.0,150.0,500.0
+801,How long is Frognal Rise in the London area?,B,3000.0,1000.0,2000.0,100.0,300.0
+802,How long is Fitzjohn's Avenue in the London area?,B,170.0,1700.0,5100.0,3400.0,510.0
+803,How long is Arkwright Road in the London area?,C,3000.0,300.0,1000.0,100.0,2000.0
+804,How long is Tredegar Road in the London area?,B,100.0,300.0,900.0,600.0,100.0
+805,How long is Fairfield Road in the London area?,E,330.0,3300.0,2200.0,110.0,1100.0
+806,How long is Globe Road in the London area?,E,6600.0,660.0,4400.0,220.0,2200.0
+807,How long is Champion Park in the London area?,C,900.0,600.0,300.0,100.0,100.0
+808,How long is Sunray Avenue in the London area?,E,270.0,100.0,2700.0,1800.0,900.0
+809,How long is Mill Lane in the London area?,E,570.0,3800.0,190.0,5700.0,1900.0
+810,How long is Gresham Street in the London area?,C,330.0,110.0,1100.0,3300.0,2200.0
+811,How long is Burnt Ash Hill in the London area?,B,390.0,1300.0,3900.0,2600.0,130.0
+812,How long is New Change in the London area?,B,150.0,500.0,1000.0,1500.0,100.0
+813,How long is Friday Street in the London area?,E,100.0,100.0,200.0,300.0,100.0
+814,How long is Aldgate in the London area?,D,330.0,2200.0,3300.0,1100.0,110.0
+815,How long is Fulham High Street in the London area?,C,600.0,400.0,200.0,100.0,100.0
+816,How long is Putney Bridge Approach in the London area?,C,0.0,0.0,0.0,100.0,100.0
+817,How long is New King's Road in the London area?,B,390.0,1300.0,3900.0,2600.0,130.0
+818,How long is Kensington High Street in the London area?,C,120.0,360.0,1200.0,2400.0,3600.0
+819,How long is Hammersmith Road in the London area?,B,2100.0,700.0,210.0,100.0,1400.0
+820,How long is Fulham Palace Road in the London area?,D,13500.0,9000.0,450.0,4500.0,1350.0
+821,How long is Lillie Road in the London area?,E,6400.0,320.0,960.0,9600.0,3200.0
+822,How long is Earl's Court Road in the London area?,C,2100.0,1400.0,700.0,210.0,100.0
+823,How long is Westbourne Park Road in the London area?,C,150.0,450.0,1500.0,4500.0,3000.0
+824,How long is Chesterton Road in the London area?,B,5000.0,2500.0,750.0,7500.0,250.0
+825,How long is Finborough Road in the London area?,B,900.0,300.0,100.0,600.0,100.0
+826,How long is Gunter Grove in the London area?,E,0.0,0.0,100.0,100.0,0.0
+827,How long is Edith Grove in the London area?,B,100.0,200.0,100.0,600.0,400.0
+828,How long is Redcliffe Gardens in the London area?,D,100.0,900.0,100.0,300.0,600.0
+829,How long is Cremorne Road in the London area?,E,300.0,200.0,100.0,100.0,100.0
+830,How long is St. Ann's Hill in the London area?,C,6900.0,690.0,2300.0,4600.0,230.0
+831,How long is Buckhold Road in the London area?,B,1000.0,500.0,100.0,150.0,1500.0
+832,How long is Montpelier Row in the London area?,A,200.0,100.0,400.0,600.0,100.0
+833,How long is Wrentham Avenue in the London area?,A,700.0,100.0,2100.0,1400.0,210.0
+834,How long is Tiverton Road in the London area?,C,100.0,600.0,300.0,900.0,100.0
+835,How long is Sidmouth Road in the London area?,E,2000.0,300.0,3000.0,100.0,1000.0
+836,How long is Staverton Road in the London area?,C,2000.0,100.0,1000.0,300.0,3000.0
+837,How long is Tavistock Place in the London area?,D,3900.0,390.0,130.0,1300.0,2600.0
+838,How long is Torrington Place in the London area?,B,390.0,1300.0,2600.0,3900.0,130.0
+839,How long is Lymington Road in the London area?,A,1600.0,3200.0,160.0,480.0,4800.0
+840,How long is Albert Bridge Road in the London area?,D,300.0,3000.0,2000.0,1000.0,100.0
+841,How long is Lombard Road in the London area?,D,1800.0,100.0,1200.0,600.0,180.0
+842,How long is Battersea Church Road in the London area?,E,480.0,4800.0,3200.0,160.0,1600.0
+843,How long is Parsons Green in the London area?,A,800.0,1600.0,100.0,240.0,2400.0
+844,How long is Homestead Road in the London area?,D,900.0,100.0,600.0,300.0,100.0
+845,How long is Bishop's Road in the London area?,B,600.0,300.0,100.0,100.0,900.0
+846,How long is Dawes Road in the London area?,E,2700.0,1800.0,100.0,270.0,900.0
+847,How long is Boutflower Road in the London area?,D,1200.0,120.0,100.0,400.0,800.0
+848,How long is Worship Street in the London area?,B,140.0,1400.0,2800.0,4200.0,420.0
+849,How long is Camden Street in the London area?,E,400.0,600.0,100.0,100.0,200.0
+850,How long is Castlehaven Road in the London area?,C,100.0,100.0,200.0,400.0,600.0
+851,How long is Torriano Avenue in the London area?,D,1800.0,100.0,1200.0,600.0,180.0
+852,How long is Camden Park Road in the London area?,A,600.0,1200.0,180.0,100.0,1800.0
+853,How long is Leighton Road in the London area?,E,3600.0,360.0,2400.0,120.0,1200.0
+854,How long is Brecknock Road in the London area?,E,1800.0,100.0,2700.0,270.0,900.0
+855,How long is South Audley Street in the London area?,E,3900.0,390.0,130.0,2600.0,1300.0
+856,How long is Golden Lane in the London area?,C,2200.0,110.0,1100.0,3300.0,330.0
+857,How long is Amwell Street in the London area?,E,100.0,200.0,100.0,300.0,100.0
+858,How long is Dog Kennel Hill in the London area?,B,1800.0,600.0,180.0,1200.0,100.0
+859,How long is Holles Street in the London area?,D,100.0,0.0,0.0,0.0,100.0
+860,How long is Forest Hill Road in the London area?,E,2400.0,240.0,100.0,1600.0,800.0
+861,How long is Honor Oak Park in the London area?,A,1200.0,2400.0,120.0,360.0,3600.0
+862,How long is Weigall Road in the London area?,A,2600.0,5200.0,780.0,7800.0,260.0
+863,How long is Rectory Road in the London area?,E,210.0,1400.0,100.0,2100.0,700.0
+864,How long is Broomwood Road in the London area?,E,3600.0,120.0,2400.0,360.0,1200.0
+865,How long is John Ruskin Street in the London area?,B,8800.0,4400.0,1320.0,13200.0,440.0
+866,How long is Lilford Road in the London area?,C,600.0,6000.0,2000.0,4000.0,200.0
+867,How long is Atlantic Road in the London area?,B,180.0,600.0,100.0,1200.0,1800.0
+868,How long is Eaton Square in the London area?,D,120.0,800.0,1200.0,400.0,100.0
+869,How long is Belgrave Place in the London area?,D,100.0,100.0,600.0,200.0,400.0
+870,How long is Eccleston Street in the London area?,E,200.0,300.0,100.0,100.0,100.0
+871,How long is Eccleston Bridge in the London area?,E,100.0,0.0,100.0,0.0,0.0
+872,How long is Vere Street in the London area?,E,0.0,0.0,100.0,100.0,0.0
+873,How long is New Bond Street in the London area?,E,100.0,600.0,100.0,400.0,200.0
+874,How long is Fetter Lane in the London area?,A,300.0,600.0,900.0,100.0,100.0
+875,How long is Queensway in the London area?,A,300.0,100.0,900.0,600.0,100.0
+876,How long is Haverstock Hill in the London area?,B,270.0,2700.0,810.0,8100.0,5400.0
+877,How long is Belsize Avenue in the London area?,A,2900.0,870.0,8700.0,5800.0,290.0
+878,How long is Parkhill Road in the London area?,D,5400.0,540.0,180.0,1800.0,3600.0
+879,How long is Brockley Road in the London area?,D,5100.0,3400.0,510.0,1700.0,170.0
+880,How long is Adelaide Avenue in the London area?,E,5100.0,170.0,3400.0,510.0,1700.0
+881,How long is Wickham Road in the London area?,A,3100.0,9300.0,6200.0,310.0,930.0
+882,How long is Stondon Park in the London area?,E,100.0,100.0,0.0,0.0,0.0
+883,How long is Brockley Grove in the London area?,B,4000.0,2000.0,600.0,200.0,6000.0
+884,How long is Falcon Road in the London area?,C,180.0,100.0,600.0,1200.0,1800.0
+885,How long is Stepney Green in the London area?,D,1800.0,180.0,100.0,600.0,1200.0
+886,How long is Stepney High Street in the London area?,E,100.0,200.0,300.0,100.0,100.0
+887,How long is Belgrave Street in the London area?,B,1000.0,500.0,100.0,1500.0,150.0
+888,How long is White Horse Lane in the London area?,A,1400.0,2800.0,4200.0,140.0,420.0
+889,How long is North Pole Road in the London area?,C,900.0,100.0,300.0,100.0,600.0
+890,How long is Garnet Street in the London area?,D,1400.0,100.0,210.0,700.0,2100.0
+891,How long is Hyde Park Place Bayswater Road in the London area?,C,2100.0,210.0,700.0,1400.0,100.0
+892,How long is Hyde Park Street in the London area?,D,100.0,200.0,100.0,100.0,300.0
+893,How long is East Ferry Road in the London area?,A,2400.0,720.0,7200.0,4800.0,240.0
+894,How long is Manchester Road in the London area?,C,6600.0,330.0,3300.0,9900.0,990.0
+895,How long is Spindrift Avenue in the London area?,B,3800.0,1900.0,570.0,5700.0,190.0
+896,How long is Lots Road in the London area?,D,190.0,5700.0,570.0,1900.0,3800.0
+897,How long is Rotherhithe New Road in the London area?,B,360.0,1200.0,120.0,2400.0,3600.0
+898,How long is Hawkstone Road in the London area?,E,1800.0,180.0,100.0,1200.0,600.0
+899,How long is Evelyn Street in the London area?,A,1300.0,3900.0,390.0,2600.0,130.0
+900,How long is Oxestalls Road in the London area?,B,2100.0,700.0,210.0,1400.0,100.0
+901,How long is Grove Street in the London area?,D,6600.0,4400.0,660.0,2200.0,220.0
+902,How long is Trundley's Road in the London area?,E,180.0,100.0,1800.0,1200.0,600.0
+903,How long is Grinstead Road in the London area?,B,130.0,1300.0,2600.0,3900.0,390.0
+904,How long is Redriff Road in the London area?,E,120.0,360.0,2400.0,3600.0,1200.0
+905,How long is Salter Road in the London area?,A,1600.0,480.0,3200.0,160.0,4800.0
+906,How long is Jubilee Street in the London area?,C,100.0,2400.0,800.0,1600.0,240.0
+907,How long is Chepstow Villas in the London area?,D,210.0,1400.0,100.0,700.0,2100.0
+908,How long is Townley Road in the London area?,D,4500.0,450.0,3000.0,1500.0,150.0
+909,How long is St Quintin Avenue in the London area?,B,1500.0,500.0,1000.0,100.0,150.0
+910,How long is St Helens Gardens in the London area?,B,2400.0,800.0,1600.0,100.0,240.0
+911,How long is St Anns Villas in the London area?,A,2000.0,6000.0,600.0,200.0,4000.0
+912,How long is Lancaster Road in the London area?,E,180.0,3600.0,540.0,5400.0,1800.0
+913,How long is Cambridge Gardens in the London area?,A,900.0,270.0,1800.0,2700.0,100.0
+914,How long is Goffers Road in the London area?,A,900.0,270.0,100.0,2700.0,1800.0
+915,How long is Tranquil Vale in the London area?,D,600.0,100.0,100.0,300.0,900.0
+916,How long is Forest Lane in the London area?,E,5100.0,3400.0,510.0,170.0,1700.0
+917,How long is Prince of Wales Drive in the London area?,B,840.0,2800.0,8400.0,280.0,5600.0
+918,How long is Marsh Wall in the London area?,C,4600.0,230.0,2300.0,6900.0,690.0
+919,How long is Chapel Street in the London area?,E,100.0,100.0,600.0,400.0,200.0
+920,How long is Abbeville Road in the London area?,B,570.0,1900.0,5700.0,3800.0,190.0
+921,How long is Grant Road in the London area?,A,1600.0,480.0,3200.0,160.0,4800.0
+922,How long is Campbell Road in the London area?,D,190.0,570.0,3800.0,1900.0,5700.0
+923,How long is The Grove in the London area?,C,100.0,100.0,100.0,300.0,200.0
+924,How long is Great Eastern Road in the London area?,E,100.0,1800.0,1200.0,180.0,600.0
+925,How long is Homestall Road in the London area?,C,660.0,220.0,2200.0,4400.0,6600.0
+926,How long is Sidcup Road in the London area?,D,0.0,100.0,0.0,0.0,100.0
+927,How long is Devas Street in the London area?,E,1200.0,800.0,120.0,100.0,400.0
+928,How long is Bruce Road in the London area?,E,180.0,540.0,3600.0,5400.0,1800.0
+929,How long is Morris Road in the London area?,E,120.0,360.0,2400.0,3600.0,1200.0
+930,How long is Shardeloes Road in the London area?,C,2000.0,100.0,1000.0,3000.0,300.0
+931,How long is Endwell Road in the London area?,C,1500.0,150.0,500.0,1000.0,100.0
+932,How long is Lewisham Hill in the London area?,C,1400.0,2100.0,700.0,100.0,210.0
+933,How long is Dartmouth Row in the London area?,E,100.0,1200.0,180.0,1800.0,600.0
+934,How long is Creek Road in the London area?,C,240.0,2400.0,800.0,100.0,1600.0
+935,How long is Norman Road in the London area?,E,310.0,6200.0,9300.0,930.0,3100.0
+936,How long is Thomas Road in the London area?,E,270.0,1800.0,100.0,2700.0,900.0
+937,How long is Kensington Road in the London area?,E,1800.0,1200.0,180.0,100.0,600.0
+938,How long is Brockley Way in the London area?,E,220.0,4400.0,6600.0,660.0,2200.0
+939,How long is Brenchley Gardens in the London area?,A,3200.0,9600.0,6400.0,960.0,320.0
+940,How long is Wapping Lane in the London area?,E,180.0,5400.0,540.0,3600.0,1800.0
+941,How long is Ponsford Street in the London area?,E,200.0,100.0,100.0,300.0,100.0
+942,How long is Terrace Road in the London area?,D,100.0,300.0,100.0,100.0,200.0
+943,How long is Poole Road in the London area?,C,600.0,100.0,200.0,100.0,400.0
+944,How long is Chapman Road in the London area?,D,1500.0,100.0,150.0,500.0,1000.0
+945,How long is Harbour Avenue in the London area?,A,300.0,600.0,100.0,900.0,100.0
+946,How long is Wick Lane in the London area?,A,2700.0,810.0,270.0,8100.0,5400.0
+947,How long is Highbury Grove in the London area?,E,200.0,100.0,300.0,100.0,100.0
+948,How long is Montague Street in the London area?,D,900.0,100.0,600.0,300.0,100.0
+949,How long is Surrey Quays Road in the London area?,A,2400.0,7200.0,720.0,4800.0,240.0
+950,How long is Ilderton Road in the London area?,A,2200.0,220.0,4400.0,6600.0,660.0
+951,How long is Surrey Canal Road in the London area?,C,150.0,4500.0,1500.0,3000.0,450.0
+952,How long is Southampton Way in the London area?,B,100.0,900.0,270.0,2700.0,1800.0
+953,How long is Drakefell Road in the London area?,C,390.0,2600.0,1300.0,3900.0,130.0
+954,How long is Evelina Road in the London area?,E,2100.0,1400.0,210.0,100.0,700.0
+955,How long is Fulham Broadway in the London area?,C,100.0,400.0,200.0,600.0,100.0
+956,How long is Kilburn Priory in the London area?,D,1200.0,100.0,1800.0,600.0,180.0
+957,How long is Clapham High Street in the London area?,C,600.0,100.0,200.0,400.0,100.0
+958,How long is Parnell Road in the London area?,A,400.0,1200.0,800.0,100.0,120.0
+959,How long is Jodrell Road in the London area?,E,100.0,240.0,2400.0,1600.0,800.0
+960,How long is Monier Road in the London area?,E,100.0,0.0,0.0,100.0,0.0
+961,How long is St. Pancras Way in the London area?,E,900.0,600.0,100.0,100.0,300.0
+962,How long is Felstead Street in the London area?,B,1000.0,500.0,1500.0,150.0,100.0
+963,How long is Osborne Road in the London area?,C,2100.0,1400.0,700.0,100.0,210.0
+964,How long is Berkshire Road in the London area?,D,150.0,1500.0,1000.0,500.0,100.0
+965,How long is Crowndale Road in the London area?,D,120.0,100.0,1200.0,400.0,800.0
+966,How long is Oakley Square in the London area?,D,100.0,200.0,100.0,100.0,300.0
+967,How long is Heygate Street in the London area?,C,120.0,800.0,400.0,1200.0,100.0
+968,How long is Rodney Road in the London area?,A,3400.0,340.0,1020.0,10200.0,6800.0
+969,How long is Westbourne Terrace Road in the London area?,D,1000.0,100.0,150.0,500.0,1500.0
+970,How long is Clifton Villas in the London area?,B,400.0,200.0,600.0,100.0,100.0
+971,How long is Barry Road in the London area?,D,1110.0,11100.0,7400.0,3700.0,370.0
+972,How long is Mantle Road in the London area?,C,100.0,900.0,300.0,100.0,600.0
+973,How long is St Norbert Road in the London area?,E,3300.0,330.0,2200.0,110.0,1100.0
+974,How long is Wrights Lane in the London area?,A,1700.0,170.0,3400.0,5100.0,510.0
+975,How long is Kensington Church Street in the London area?,E,4800.0,160.0,480.0,3200.0,1600.0
+976,How long is Cable Street in the London area?,A,1000.0,300.0,3000.0,2000.0,100.0
+977,How long is Western Gateway in the London area?,E,0.0,0.0,100.0,100.0,0.0
+978,How long is Greenwich High Road in the London area?,C,3600.0,540.0,1800.0,5400.0,180.0
+979,How long is Royal Hill in the London area?,C,6300.0,4200.0,2100.0,210.0,630.0
+980,How long is Trafalgar Road in the London area?,D,660.0,6600.0,4400.0,2200.0,220.0
+981,How long is Warren Road in the London area?,D,100.0,300.0,100.0,100.0,200.0
+982,How long is Heaton Road in the London area?,B,100.0,200.0,400.0,600.0,100.0
+983,How long is Rye Lane in the London area?,E,100.0,100.0,200.0,300.0,100.0
+984,How long is Edward Street in the London area?,B,360.0,1200.0,3600.0,120.0,2400.0
+985,How long is Pagnell Street in the London area?,C,2000.0,3000.0,1000.0,300.0,100.0
+986,How long is Harrow Green in the London area?,E,100.0,200.0,100.0,300.0,100.0
+987,How long is Kimberley Avenue in the London area?,D,1000.0,1500.0,150.0,500.0,100.0
+988,How long is Gibbon Road in the London area?,B,1200.0,400.0,120.0,800.0,100.0
+989,How long is Peckham Park Road in the London area?,E,110.0,330.0,3300.0,2200.0,1100.0
+990,How long is Newington Butts in the London area?,B,1800.0,600.0,100.0,180.0,1200.0
+991,How long is Clapham Common South Side in the London area?,A,200.0,400.0,600.0,100.0,100.0
+992,How long is Plaistow Road in the London area?,C,100.0,300.0,1000.0,2000.0,3000.0
+993,How long is Upper Road in the London area?,A,3000.0,300.0,9000.0,6000.0,900.0
+994,How long is Star Lane in the London area?,A,1500.0,150.0,4500.0,3000.0,450.0
+995,How long is Stephenson Street in the London area?,B,360.0,1200.0,120.0,3600.0,2400.0
+996,How long is St Leonard's Street in the London area?,E,100.0,400.0,100.0,600.0,200.0
+997,How long is Offord Road in the London area?,E,3600.0,2400.0,360.0,120.0,1200.0
+998,How long is Westbourne Road in the London area?,D,160.0,480.0,4800.0,1600.0,3200.0
+999,How long is Bloomsbury Square in the London area?,C,0.0,0.0,0.0,100.0,100.0
+1000,How long is Bedford Place in the London area?,A,500.0,100.0,150.0,1000.0,1500.0
+1001,How long is Cavendish Square in the London area?,A,300.0,900.0,100.0,600.0,100.0
+1002,How long is Fortess Road in the London area?,E,330.0,2200.0,110.0,3300.0,1100.0
+1003,How long is Thornhill Road in the London area?,A,1300.0,130.0,390.0,2600.0,3900.0
+1004,How long is Turner's Road in the London area?,B,6300.0,2100.0,630.0,4200.0,210.0
+1005,How long is Lord Hills Bridge in the London area?,E,300.0,100.0,100.0,200.0,100.0
+1006,How long is Nightingale Lane in the London area?,C,450.0,4500.0,1500.0,3000.0,150.0
+1007,How long is Curtain Road in the London area?,D,0.0,0.0,100.0,0.0,100.0
+1008,How long is Banister Road in the London area?,E,0.0,100.0,0.0,100.0,0.0
+1009,How long is Densham Road in the London area?,C,100.0,400.0,200.0,100.0,600.0
+1010,How long is Limeharbour in the London area?,E,150.0,1000.0,100.0,1500.0,500.0
+1011,How long is Homerton Road in the London area?,D,230.0,690.0,6900.0,2300.0,4600.0
+1012,How long is Lee Conservancy Road in the London area?,E,360.0,3600.0,120.0,2400.0,1200.0
+1013,How long is Northcote Road in the London area?,B,3200.0,1600.0,4800.0,160.0,480.0
+1014,How long is West Hill in the London area?,E,180.0,100.0,1200.0,1800.0,600.0
+1015,How long is Vesta Road in the London area?,A,900.0,2700.0,1800.0,270.0,100.0
+1016,How long is Vanbrugh Hill in the London area?,A,1400.0,4200.0,420.0,140.0,2800.0
+1017,How long is Tysoe Street in the London area?,A,300.0,600.0,900.0,100.0,100.0
+1018,How long is Harwood Road in the London area?,C,100.0,2100.0,700.0,210.0,1400.0
+1019,How long is Putney Bridge Road in the London area?,B,510.0,1700.0,5100.0,3400.0,170.0
+1020,How long is Brunel Road in the London area?,C,510.0,170.0,1700.0,5100.0,3400.0
+1021,How long is Fernhead Road in the London area?,C,450.0,4500.0,1500.0,150.0,3000.0
+1022,How long is Pancras Road in the London area?,C,190.0,570.0,1900.0,3800.0,5700.0
+1023,How long is Coborn Road in the London area?,C,3600.0,180.0,1800.0,540.0,5400.0
+1024,How long is Chalk Farm Road in the London area?,B,1600.0,800.0,2400.0,100.0,240.0
+1025,How long is Akerman Road in the London area?,A,1400.0,140.0,420.0,2800.0,4200.0
+1026,How long is Wapping Wall in the London area?,E,150.0,4500.0,450.0,3000.0,1500.0
+1027,How long is Quex Road in the London area?,A,400.0,1200.0,100.0,120.0,800.0
+1028,How long is Sydney Street in the London area?,D,100.0,270.0,1800.0,900.0,2700.0
+1029,How long is Sydney Place in the London area?,B,800.0,400.0,100.0,120.0,1200.0
+1030,How long is East Hill in the London area?,D,100.0,100.0,400.0,200.0,600.0
+1031,How long is Fairfield Street in the London area?,D,100.0,0.0,0.0,0.0,100.0
+1032,How long is Whitehall in the London area?,D,1500.0,150.0,1000.0,500.0,100.0
+1033,How long is Bridge Street in the London area?,C,100.0,100.0,100.0,200.0,300.0
+1034,How long is Parliament Street in the London area?,C,300.0,3000.0,1000.0,100.0,2000.0
+1035,How long is Great George Street in the London area?,B,210.0,700.0,2100.0,1400.0,100.0
+1036,How long is Putney Bridge in the London area?,A,600.0,1800.0,1200.0,180.0,100.0
+1037,How long is Margaret Street in the London area?,E,100.0,400.0,100.0,600.0,200.0
+1038,How long is Broadway in the London area?,E,800.0,100.0,1200.0,120.0,400.0
+1039,How long is Tramway Avenue in the London area?,E,300.0,3000.0,100.0,2000.0,1000.0
+1040,How long is Barlby Road in the London area?,A,2000.0,600.0,200.0,4000.0,6000.0
+1041,How long is Birdcage Walk in the London area?,D,0.0,0.0,100.0,0.0,100.0
+1042,How long is Cotton Street in the London area?,E,900.0,100.0,600.0,100.0,300.0
+1043,How long is Pembridge Road in the London area?,D,0.0,0.0,100.0,0.0,100.0
+1044,How long is Isledon Road in the London area?,C,400.0,100.0,200.0,100.0,600.0
+1045,How long is Tollington Road in the London area?,E,100.0,0.0,100.0,0.0,0.0
+1046,How long is Rosslyn Hill in the London area?,C,2800.0,140.0,1400.0,4200.0,420.0
+1047,How long is Pond Street in the London area?,B,1500.0,500.0,150.0,100.0,1000.0
+1048,How long is Constantine Road in the London area?,D,100.0,600.0,100.0,300.0,900.0
+1049,How long is Fleet Road in the London area?,D,800.0,120.0,100.0,400.0,1200.0
+1050,How long is Homerton High Street in the London area?,B,3900.0,1300.0,130.0,390.0,2600.0
+1051,How long is Powerscroft Road in the London area?,E,2200.0,330.0,3300.0,110.0,1100.0
+1052,How long is Judd Street in the London area?,E,0.0,100.0,100.0,0.0,0.0
+1053,How long is Tanner Street in the London area?,D,200.0,100.0,100.0,100.0,300.0
+1054,How long is Druid Street in the London area?,B,100.0,300.0,600.0,100.0,900.0
+1055,How long is Baring Street in the London area?,D,270.0,1800.0,2700.0,900.0,100.0
+1056,How long is Elephant and Castle in the London area?,E,100.0,200.0,100.0,300.0,100.0
+1057,How long is Lower Clapton Road in the London area?,C,4500.0,150.0,1500.0,3000.0,450.0
+1058,How long is St. Pauls Avenue in the London area?,D,2200.0,3300.0,330.0,1100.0,110.0
+1059,How long is Branch Road in the London area?,A,200.0,400.0,100.0,100.0,600.0
+1060,How long is Penny Brookes Street in the London area?,B,600.0,200.0,100.0,100.0,400.0
+1061,How long is Montfichet Road in the London area?,D,3400.0,510.0,170.0,1700.0,5100.0
+1062,How long is International Way in the London area?,A,1000.0,100.0,300.0,2000.0,3000.0
+1063,How long is Paddington Street in the London area?,E,1500.0,100.0,1000.0,150.0,500.0
+1064,How long is Davies Street in the London area?,C,400.0,600.0,200.0,100.0,100.0
+1065,How long is Mount Street in the London area?,C,1000.0,1500.0,500.0,150.0,100.0
+1066,How long is Lansdowne Drive in the London area?,A,900.0,270.0,2700.0,100.0,1800.0
+1067,How long is Englefield Road in the London area?,A,900.0,1800.0,2700.0,270.0,100.0
+1068,How long is Richmond Road in the London area?,E,450.0,4500.0,3000.0,150.0,1500.0
+1069,How long is Albion Drive in the London area?,A,1400.0,4200.0,2800.0,420.0,140.0
+1070,How long is Cavell Street in the London area?,B,100.0,800.0,1600.0,240.0,2400.0
+1071,How long is Laburnum Street in the London area?,C,130.0,390.0,1300.0,3900.0,2600.0
+1072,How long is Rothbury Road in the London area?,D,300.0,100.0,100.0,100.0,200.0
+1073,How long is Wansbeck Road in the London area?,C,210.0,1400.0,700.0,2100.0,100.0
+1074,How long is White Post Lane in the London area?,C,240.0,1600.0,800.0,100.0,2400.0
+1075,How long is Tufnell Park Road in the London area?,E,7000.0,10500.0,1050.0,350.0,3500.0
+1076,How long is St. James's Street in the London area?,B,600.0,300.0,100.0,100.0,900.0
+1077,How long is Hilgrove Road in the London area?,C,100.0,100.0,300.0,900.0,600.0
+1078,How long is Northumberland Avenue in the London area?,C,600.0,100.0,200.0,100.0,400.0
+1079,How long is Stratheden Parade in the London area?,D,100.0,0.0,0.0,0.0,100.0
+1080,How long is Woodford Road in the London area?,D,100.0,2400.0,1600.0,800.0,240.0
+1081,How long is Sloane Square in the London area?,C,0.0,0.0,0.0,100.0,100.0
+1082,How long is Alexandra Road in the London area?,D,100.0,0.0,0.0,0.0,100.0
+1083,How long is Grove Green Road in the London area?,E,100.0,1400.0,2100.0,210.0,700.0
+1084,How long is Well Street in the London area?,C,4200.0,140.0,1400.0,2800.0,420.0
+1085,How long is Victoria Park Road in the London area?,A,900.0,1800.0,100.0,2700.0,270.0
+1086,How long is New Plaistow Road in the London area?,B,600.0,200.0,400.0,100.0,100.0
+1087,How long is Conduit Street in the London area?,C,120.0,100.0,400.0,800.0,1200.0
+1088,How long is Rossmore Road in the London area?,E,3600.0,2400.0,360.0,120.0,1200.0
+1089,How long is Westfield Avenue in the London area?,B,100.0,800.0,2400.0,1600.0,240.0
+1090,How long is Chrisp Street in the London area?,A,1000.0,2000.0,100.0,3000.0,300.0
+1091,How long is White Church Lane in the London area?,A,200.0,100.0,400.0,100.0,600.0
+1092,How long is Goodman's Stile in the London area?,B,100.0,200.0,100.0,600.0,400.0
+1093,How long is Broad Sanctuary in the London area?,D,100.0,200.0,100.0,100.0,300.0
+1094,How long is Waterden Road in the London area?,E,570.0,5700.0,190.0,3800.0,1900.0
+1095,How long is Marshgate Lane in the London area?,E,5700.0,3800.0,190.0,570.0,1900.0
+1096,How long is Ladywell Road in the London area?,E,2000.0,300.0,100.0,3000.0,1000.0
+1097,How long is Parkway in the London area?,C,100.0,100.0,100.0,300.0,200.0
+1098,How long is Gloucester Avenue in the London area?,E,100.0,100.0,0.0,0.0,0.0
+1099,How long is Gordon House Road in the London area?,A,2000.0,4000.0,6000.0,200.0,600.0
+1100,How long is Lewisham High Street in the London area?,A,3200.0,320.0,6400.0,960.0,9600.0
+1101,How long is St George's Road in the London area?,C,120.0,800.0,400.0,1200.0,100.0
+1102,How long is Jamaica Road in the London area?,C,300.0,100.0,1000.0,2000.0,3000.0
+1103,How long is Loampit Vale in the London area?,D,0.0,100.0,0.0,0.0,100.0
+1104,How long is Molesworth Street in the London area?,D,400.0,100.0,600.0,200.0,100.0
+1105,How long is Rennell Street in the London area?,E,0.0,100.0,100.0,0.0,0.0
+1106,How long is Puddle Dock in the London area?,B,600.0,300.0,100.0,100.0,900.0
+1107,How long is Minories in the London area?,C,150.0,1000.0,500.0,100.0,1500.0
+1108,How long is Cadogan Gardens in the London area?,D,200.0,100.0,100.0,100.0,300.0
+1109,How long is Clapham Common North Side in the London area?,B,1500.0,500.0,100.0,150.0,1000.0
+1110,How long is St. George's Road in the London area?,D,100.0,600.0,100.0,200.0,400.0
+1111,How long is Robert Street in the London area?,A,1000.0,3000.0,100.0,300.0,2000.0
+1112,How long is Southampton Road in the London area?,E,600.0,900.0,100.0,100.0,300.0
+1113,How long is Kingsway in the London area?,D,100.0,400.0,100.0,200.0,600.0
+1114,How long is Major Road in the London area?,E,0.0,100.0,0.0,100.0,0.0
+1115,How long is Raymouth Road in the London area?,D,2100.0,210.0,1400.0,700.0,100.0
+1116,How long is Osborn Street in the London area?,B,160.0,1600.0,3200.0,480.0,4800.0
+1117,How long is Park Road in the London area?,E,400.0,100.0,600.0,100.0,200.0
+1118,How long is Smithfield Street in the London area?,D,100.0,300.0,100.0,100.0,200.0
+1119,How long is Warwick Gardens in the London area?,E,100.0,0.0,100.0,0.0,0.0
+1120,How long is Freemasons Road in the London area?,C,930.0,6200.0,3100.0,310.0,9300.0
+1121,How long is Asylum Road in the London area?,B,4200.0,1400.0,140.0,420.0,2800.0
+1122,How long is Rathbone Street in the London area?,D,630.0,4200.0,210.0,2100.0,6300.0
+1123,How long is Downs Park Road in the London area?,A,1000.0,100.0,2000.0,3000.0,300.0
+1124,How long is Holywell Lane in the London area?,D,0.0,100.0,0.0,0.0,100.0
+1125,How long is Royal Mint Street in the London area?,A,800.0,100.0,240.0,2400.0,1600.0
+1126,How long is Bunhill Row in the London area?,C,100.0,800.0,400.0,120.0,1200.0
+1127,How long is Long Road in the London area?,B,400.0,200.0,600.0,100.0,100.0
+1128,How long is Lauderdale Road in the London area?,B,1200.0,600.0,100.0,180.0,1800.0
+1129,How long is Cheapside in the London area?,B,800.0,400.0,100.0,120.0,1200.0
+1130,How long is Grafton Way in the London area?,E,100.0,200.0,300.0,100.0,100.0
+1131,How long is Portland Place in the London area?,C,2800.0,420.0,1400.0,140.0,4200.0
+1132,How long is Baron Street in the London area?,B,600.0,200.0,400.0,100.0,100.0
+1133,How long is Chenies Street in the London area?,D,100.0,300.0,100.0,100.0,200.0
+1134,How long is Sale Place in the London area?,D,200.0,100.0,100.0,100.0,300.0
+1135,How long is Howland Street in the London area?,D,800.0,120.0,100.0,400.0,1200.0
+1136,How long is Smugglers Way in the London area?,E,0.0,100.0,0.0,100.0,0.0
+1137,How long is Bressenden Place in the London area?,E,0.0,0.0,100.0,100.0,0.0
+1138,How long is Chancery Lane in the London area?,B,1500.0,500.0,100.0,1000.0,150.0
+1139,How long is Weymouth Street in the London area?,C,1200.0,100.0,400.0,800.0,120.0
+1140,How long is White Lion Hill in the London area?,A,300.0,100.0,600.0,100.0,900.0
+1141,How long is Herrick Street in the London area?,C,0.0,0.0,0.0,100.0,100.0
+1142,How long is Jerrard Street in the London area?,C,100.0,100.0,100.0,200.0,300.0
+1143,How long is King Henry's Walk in the London area?,A,200.0,100.0,100.0,400.0,600.0
+1144,How long is Mildmay Grove North in the London area?,D,390.0,130.0,3900.0,1300.0,2600.0
+1145,How long is Great Windmill Street in the London area?,E,100.0,0.0,0.0,100.0,0.0
+1146,How long is Lidlington Place in the London area?,C,0.0,0.0,0.0,100.0,100.0
+1147,How long is Connaught Square in the London area?,E,400.0,600.0,100.0,100.0,200.0
+1148,How long is Draycott Place in the London area?,C,180.0,1200.0,600.0,100.0,1800.0
+1149,How long is Symons Street in the London area?,D,100.0,300.0,100.0,100.0,200.0
+1150,How long is Morval Road in the London area?,D,210.0,2100.0,100.0,700.0,1400.0
+1151,How long is Anderson Street in the London area?,E,100.0,0.0,100.0,0.0,0.0
+1152,How long is Cleveland Street in the London area?,D,100.0,100.0,600.0,300.0,900.0
+1153,How long is Goods Way in the London area?,B,100.0,400.0,1200.0,120.0,800.0
+1154,How long is Provost Street in the London area?,E,100.0,300.0,200.0,100.0,100.0
+1155,How long is Welbeck Street in the London area?,E,100.0,100.0,0.0,0.0,0.0
+1156,How long is St. Martin's Place in the London area?,E,0.0,100.0,0.0,100.0,0.0
+1157,How long is Duncannon Street in the London area?,C,1800.0,100.0,600.0,1200.0,180.0
+1158,How long is Elsdale Street in the London area?,E,300.0,200.0,100.0,100.0,100.0
+1159,How long is Lewis Grove in the London area?,E,300.0,100.0,200.0,100.0,100.0
+1160,How long is Aldwych in the London area?,A,300.0,100.0,600.0,900.0,100.0
+1161,How long is Strand in the London area?,B,150.0,500.0,100.0,1000.0,1500.0
+1162,How long is Spring Street in the London area?,E,600.0,100.0,400.0,100.0,200.0
+1163,How long is Allsop Place in the London area?,C,2800.0,420.0,1400.0,140.0,4200.0
+1164,How long is Bulinga Street in the London area?,E,100.0,100.0,0.0,0.0,0.0
+1165,How long is Blackfriars Underpass in the London area?,A,400.0,100.0,1200.0,800.0,120.0
+1166,How long is Gaunt Street in the London area?,D,0.0,0.0,100.0,0.0,100.0
+1167,How long is Lower Thames Street in the London area?,C,1800.0,100.0,900.0,270.0,2700.0
+1168,How long is Fish Street Hill in the London area?,D,100.0,0.0,0.0,0.0,100.0
+1169,How long is Bradbury Street in the London area?,E,200.0,100.0,300.0,100.0,100.0
+1170,How long is Thurloe Place in the London area?,E,300.0,100.0,100.0,200.0,100.0
+1171,How long is York Street in the London area?,D,100.0,200.0,100.0,100.0,300.0
+1172,How long is Albert Terrace in the London area?,E,300.0,100.0,200.0,100.0,100.0
+1173,How long is Celebration Avenue in the London area?,E,210.0,1400.0,100.0,2100.0,700.0
+1174,How long is Store Street in the London area?,C,100.0,100.0,200.0,600.0,400.0
+1175,How long is Lancaster Place in the London area?,E,3300.0,110.0,2200.0,330.0,1100.0
+1176,How long is Hobart Place in the London area?,E,0.0,100.0,0.0,100.0,0.0
+1177,How long is Goldhawk Road in the London area?,E,1800.0,270.0,2700.0,100.0,900.0
+1178,How long is Shepherds Bush Road in the London area?,E,100.0,100.0,0.0,0.0,0.0
+1179,How long is Stockwell Park Walk in the London area?,E,0.0,100.0,100.0,0.0,0.0
+1180,How long is Grosvenor Street in the London area?,C,100.0,100.0,300.0,900.0,600.0
+1181,How long is Bruton Street in the London area?,A,300.0,900.0,100.0,100.0,600.0
+1182,How long is North Road in the London area?,C,11100.0,370.0,3700.0,1110.0,7400.0
+1183,How long is Hillmarton Road in the London area?,E,600.0,100.0,100.0,400.0,200.0
+1184,How long is Broughton Street in the London area?,E,0.0,100.0,0.0,100.0,0.0
+1185,How long is Montague Place in the London area?,D,100.0,300.0,100.0,100.0,200.0
+1186,How long is Holland Park Gardens in the London area?,D,300.0,100.0,100.0,100.0,200.0
+1187,How long is Maury Road in the London area?,D,100.0,200.0,100.0,100.0,300.0
+1188,How long is Midland Road in the London area?,B,2700.0,900.0,100.0,270.0,1800.0
+1189,How long is Westminster Bridge in the London area?,E,600.0,900.0,100.0,100.0,300.0
+1190,How long is Great Titchfield Street in the London area?,E,300.0,200.0,100.0,100.0,100.0
+1191,How long is New Cavendish Street in the London area?,C,1400.0,210.0,700.0,2100.0,100.0
+1192,How long is St. Matthew's Road in the London area?,E,100.0,0.0,0.0,100.0,0.0
+1193,How long is Brick Lane in the London area?,D,100.0,100.0,600.0,200.0,400.0
+1194,How long is Hendon Way in the London area?,D,600.0,100.0,100.0,200.0,400.0
+1195,How long is Byward Street in the London area?,D,800.0,100.0,120.0,400.0,1200.0
+1196,How long is Regent's Park Road in the London area?,A,1300.0,2600.0,130.0,390.0,3900.0
+1197,How long is Brunswick Square in the London area?,C,1200.0,120.0,400.0,100.0,800.0
+1198,How long is Penton Rise in the London area?,E,0.0,100.0,0.0,100.0,0.0
+1199,How long is Royal Parade in the London area?,C,100.0,100.0,100.0,200.0,300.0
+1200,How long is Camden High Street in the London area?,A,1100.0,3300.0,2200.0,330.0,110.0
+1201,How long is Grenville Street in the London area?,E,100.0,100.0,0.0,0.0,0.0
+1202,How long is Acton Street in the London area?,E,200.0,300.0,100.0,100.0,100.0
+1203,How long is Tibbet's Ride in the London area?,D,1200.0,100.0,120.0,400.0,800.0
+1204,How long is Queen Elizabeth Street in the London area?,E,0.0,100.0,100.0,0.0,0.0
+1205,How long is Premier Corner in the London area?,E,100.0,0.0,100.0,0.0,0.0
+1206,How long is Upper Wimpole Street in the London area?,C,600.0,100.0,200.0,100.0,400.0
+1207,How long is Devonshire Place in the London area?,E,0.0,0.0,100.0,100.0,0.0
+1208,How long is West Smithfield in the London area?,E,100.0,100.0,300.0,200.0,100.0
+1209,How long is Lindsey Street in the London area?,D,0.0,100.0,0.0,0.0,100.0
+1210,How long is Lea Bridge Roundabout in the London area?,D,0.0,100.0,0.0,0.0,100.0
+1211,How long is Patmos Road in the London area?,D,100.0,600.0,100.0,300.0,900.0
+1212,How long is Greenwich Church Street in the London area?,E,900.0,600.0,100.0,100.0,300.0
+1213,How long is Nelson Road in the London area?,C,0.0,0.0,0.0,100.0,100.0
+1214,How long is Museum Street in the London area?,E,0.0,0.0,100.0,100.0,0.0
+1215,How long is Woodwell Street in the London area?,E,100.0,0.0,100.0,0.0,0.0
+1216,How long is Vanbrugh Terrace in the London area?,E,0.0,0.0,100.0,100.0,0.0
+1217,How long is Combedale Road in the London area?,E,0.0,100.0,0.0,100.0,0.0
+1218,How long is Bestwood Street in the London area?,E,100.0,0.0,100.0,0.0,0.0
+1219,How long is Highlever Road in the London area?,E,0.0,0.0,100.0,100.0,0.0
+1220,How long is Mead Place in the London area?,A,700.0,2100.0,100.0,210.0,1400.0
+1221,How long is Gascoyne Road in the London area?,B,100.0,300.0,100.0,900.0,600.0
+1222,How long is Pepys Road in the London area?,D,3800.0,5700.0,190.0,1900.0,570.0
+1223,How long is Church Crescent in the London area?,E,100.0,100.0,600.0,900.0,300.0
+1224,How long is Holland Street in the London area?,C,100.0,100.0,100.0,200.0,300.0
+1225,How long is Bishops Bridge Road in the London area?,E,0.0,100.0,100.0,0.0,0.0
+1226,How long is Bishop's Bridge in the London area?,E,300.0,100.0,200.0,100.0,100.0
+1227,How long is Westerdale Road in the London area?,E,100.0,600.0,400.0,100.0,200.0
+1228,How long is Temple Mills Road in the London area?,D,100.0,100.0,300.0,100.0,200.0
+1229,How long is Chobham Road in the London area?,A,500.0,150.0,1500.0,100.0,1000.0
+1230,How long is Wakley Street in the London area?,E,0.0,100.0,0.0,100.0,0.0
+1231,How long is Bush Road in the London area?,D,100.0,200.0,100.0,100.0,300.0
+1232,How long is Nine Elms Lane in the London area?,E,900.0,600.0,100.0,100.0,300.0
+1233,How long is Durham Street in the London area?,E,0.0,0.0,100.0,100.0,0.0
+1234,How long is Gillender Street in the London area?,C,800.0,120.0,400.0,1200.0,100.0
+1235,How long is Bidder Street in the London area?,E,100.0,900.0,100.0,600.0,300.0
+1236,How long is Outwich Street in the London area?,B,100.0,200.0,100.0,400.0,600.0
+1237,How long is Kensington Mall in the London area?,E,100.0,100.0,0.0,0.0,0.0
+1238,How long is Nottingham Place in the London area?,D,100.0,200.0,100.0,100.0,300.0
+1239,How long is Richmond Avenue in the London area?,E,0.0,0.0,100.0,100.0,0.0
+1240,How long is Seven Sisters Road in the London area?,E,100.0,400.0,100.0,600.0,200.0
+1241,How long is Marble Arch in the London area?,D,0.0,0.0,100.0,0.0,100.0
+1242,How long is Pall Mall East in the London area?,B,100.0,200.0,400.0,100.0,600.0
+1243,How long is Parkhurst Road in the London area?,C,600.0,100.0,200.0,100.0,400.0
+1244,How long is Spert Street in the London area?,D,600.0,100.0,100.0,200.0,400.0
+1245,How long is Narrow Street in the London area?,E,6000.0,4000.0,200.0,600.0,2000.0
+1246,How long is St. Quintin Gardens in the London area?,D,100.0,0.0,0.0,0.0,100.0
+1247,How long is Clapham Common West Side in the London area?,E,0.0,0.0,100.0,100.0,0.0
+1248,How long is Queen's Circus in the London area?,E,0.0,100.0,0.0,100.0,0.0
+1249,How long is Shelton Street in the London area?,C,100.0,2700.0,900.0,270.0,1800.0
+1250,How long is Spur Road in the London area?,E,0.0,100.0,100.0,0.0,0.0
+1251,How long is Stoke Newington High Street in the London area?,C,0.0,0.0,0.0,100.0,100.0
+1252,How long is King's Cross Bridge in the London area?,D,0.0,100.0,0.0,0.0,100.0
+1253,How long is Norton Folgate in the London area?,E,300.0,100.0,100.0,200.0,100.0
+1254,How long is Tunnel Avenue in the London area?,B,2600.0,1300.0,3900.0,390.0,130.0
+1255,How long is Bloomsbury Way in the London area?,B,800.0,400.0,1200.0,100.0,120.0
+1256,How long is Ranelagh Bridge in the London area?,E,300.0,100.0,100.0,200.0,100.0
+1257,How long is Blackwall Tunnel in the London area?,B,2700.0,900.0,1800.0,100.0,270.0
+1258,How long is Glenthorne Road in the London area?,B,100.0,600.0,1800.0,180.0,1200.0
+1259,How long is Imperial Street in the London area?,E,100.0,0.0,100.0,0.0,0.0
+1260,How long is Deals Gateway in the London area?,D,100.0,0.0,0.0,0.0,100.0

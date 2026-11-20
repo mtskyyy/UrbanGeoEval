@@ -1,0 +1,93 @@
+id,question,answer,A,B,C,D,E
+0,Which POI belongs to type: cafe?,B,Kotak Mahindra Bank,Cafe Coffee Day,Holiday Club,Goli Vada Pav,Anju's Skin and Hair Beauty Clinic
+1,Which POI belongs to type: bank?,A,IDBI Bank,Giani,Royal Chicken Biryani,Shiv Mandir,Sukhmani Hospital
+2,Which POI belongs to type: school?,E,Tibetan food stop,Stamina Gym,Tarawati Diagnotic Centre,State Bank of India,Navyug School
+3,Which POI belongs to type: cinema?,E,IIT - Kumaon,Kidwai Bhuvan,Hi -tech,State Bank of India,PVR Directors Cut Cinema
+4,Which POI belongs to type: fast_food?,D,"DGD, Chattarpur",Dalchini,Police assistance booth,Chick 'n' Salsa,Punjab National Bank
+5,Which POI belongs to type: fuel?,C,Sama Hospital,Nav Durga Medicos,Qutub Service Station,SK Medicos,Shree Radha Krishna Mandir
+6,Which POI belongs to type: office?,C,HDFC Bank,Axis Bank,Fervent Software Solutions P Ltd,ICICI Bank,Ritu Medicos
+7,Which POI belongs to type: commercial?,C,IndusInd Bank,Gulati Clinic,Vittalbhai Patel House,Central Bank of India,Off Campus
+8,Which POI belongs to type: restaurant?,B,Kharbanda Polyclinic,Pizza Hut,South Campus Police Station,Dr B R Sur Homoeopathic Medical college and Hospital,Dogra Hall
+9,Which POI belongs to type: retail?,A,Bhansalsons,Aali's Kathi Kababs,Baby Doll Chaap,Medeor Hospital,Indian Bank
+10,Which POI belongs to type: residential?,B,Navgrah temple,Nathu Apartment,Diyos,Punjab National Bank,Orthostar Hospital
+11,Which POI belongs to type: pharmacy?,B,Tipsy Room,Unique Chemist,Academy Of Retail Excellence,Gamca,Stoned Pizzeria
+12,Which POI belongs to type: atm?,C,Domino's,Burger Singh,State Bank of India,PVR Select Citywalk,IndusInd Bank
+13,Which POI belongs to type: public_building?,A,NIC,Coffee Spot,Shiv Shakti Mandir,The Kulchas!,Vijaya Bank
+14,Which POI belongs to type: hospital?,D,medicine point,Latitude,Jai Prakash Narayan Apex Trauma Centre Blood Bank,Bal Kishan Memorial Hospital,Faculty Transit Accommodation (FTA)
+15,Which POI belongs to type: parking?,A,USO parking,HP COCO Fuel Station,Crackpot Cafe,HP,Vardaan Hospital
+16,Which POI belongs to type: place_of_worship?,B,Aquarium,Green Park Free Church,Punjab National Bank,Sparsh Homeopathic Clinic,Lebanese Point
+17,Which POI belongs to type: post_box?,E,Centre For Behavioural Sciences,shiv mandir,Punjab National Bank,Gola Sizzlers,Netaji Nagar Post Office
+18,Which POI belongs to type: fire_station?,B,National Heart Institute Blood Bank,Fire Station,Standard Chartered,Starbucks,Nagaland's Kitchen
+19,Which POI belongs to type: college?,D,BM Snacks,Gurudwara Guru Singh Sabha,Good Earth,International Institute of Culinary Arts,No entry for foreigners going towards the government buildings
+20,Which POI belongs to type: Ayurvedic Hospital?,E,Hawkerz Boxx,S.S. Medicos,Axis Bank,Pulpssy,Dr. Sudha`s Ayurveda Kendra
+21,Which POI belongs to type: House?,C,Bharat Petroleum,Domino's,"212, Defense Officers Enclave, Dhaula Kuan Part 2",Keventers,Balhara's Le Cure Hospital
+22,Which POI belongs to type: kindergarten?,D,Shiv Mandir,Holy Angels Hospital,Thali Wala,Learning Matters,No entry for foreigners going towards the government buildings
+23,Which POI belongs to type: marketplace?,A,Lajpat Nagar Central Market,baba juice ,shiv mandir,South Campus Police Station,Niku's
+24,Which POI belongs to type: library?,C,Dentistry Redefined,शमशान भूमी,Central Library,Taste of Nation,Gulati
+25,Which POI belongs to type: police?,E,Shiv Mandir,The Green View,Medeor Hospital,Western Court Taxi Service,Integrated Facilitation Booth
+26,Which POI belongs to type: bar?,B,Pindi,Kevs,Bengali Doctor,Nav Durga Medicos,Subway
+27,Which POI belongs to type: community_centre?,E,Bhagwati Hospital,ICICI Bank,IIT - Kumaon,NEC,ndmc community centre
+28,Which POI belongs to type: house?,D,Super Hit Pizza,The Chai Latte,Sunil Hospital and Nursing Home,Radhika Farm,Canara Bank
+29,Which POI belongs to type: taxi?,B,Lajpat Nagar Central Market,K.D. Taxi Service,Shri Shiv Mandir Sanatan Dharm Sabha,Kutty's,Indian Oil
+30,Which POI belongs to type: school?,D,Aashlok Hospital,Brown Sugar,San Gimignano,Center for Knowledge Societies,Kaffeine
+31,Which POI belongs to type: ice_cream?,B,Empire Stores Chemist,Giani,Super Hit Pizza,मोतीलाल नेहरू कॉलेज,Aam Aadmi Mohalla Clinic
+32,Which POI belongs to type: sports_centre?,C,Lajpat Nagar Central Market,PVR 3C’s Cinema,Delhi Rock,Padmanabham,new aggarwal sweets
+33,Which POI belongs to type: commercial?,E,Centre For Behavioural Sciences,Potenza,Alkauser,Academy Of Retail Excellence,"JEE, JAM and GATE office"
+34,Which POI belongs to type: university?,E,Qutab Restaurant,The Garden Restaurant,Sagar Ratna - South Indian,Andhra Bank,Synergy Building
+35,Which POI belongs to type: apartments?,A,Faculty Transit Accommodation (FTA),Pulpssy,hanuman Mandir,Cocoberry,Ronak hotel
+36,Which POI belongs to type: college?,D,Andhra Bank,Gung the Palace,Vivekananda yoga Anusandhana samsthana,Department of Management Studies,Indian Oil
+37,Which POI belongs to type: industrial?,B,Happy Dough,Flamingo Films,Bahumukh,Chhatarpur Mandir,Cafe Pink
+38,Which POI belongs to type: drinking_water?,C,Sanjivani,Naturals Ice Cream,water supply,State Bank of India,Bank of Baroda
+39,Which POI belongs to type: pub?,A,Imperfecto,Healing Touch Hospital,Pizza Hut,Salerm Javed,Keventers
+40,Which POI belongs to type: fast_food;bar?,C,Domino's,Colourful designer gazebo,Barbecue nations;Monkey Bar,Bistro,State Bank of India
+41,Which POI belongs to type: theatre?,C,Hong Kong Express,Alfonso,Amaltas,New Suriya Public school,Shri Chamatkari Hanuman Mandir
+42,Which POI belongs to type: fitness_centre?,D,Saleem's,khandani pakode wala,Amar Homeo Healers,Fatangs united,Pragati Bhavan
+43,Which POI belongs to type: dentist?,B,Axis Bank,The Dental Clinic,L'Opéra,Fortis Flt. Lt. Rajan Dhall Hospital Blood Bank,"ICICI, SBI, Citibank,"
+44,Which POI belongs to type: courthouse?,A,delhi high court block 2,Wat-a-Burger,Mughlai chain of restaurants,Axis Bank,Pizza Hut
+45,Which POI belongs to type: social_facility?,B,शमशान भूमी,LifeHover,Somveer Chat Bhandar,Bhamsagar,Tipsy Room
+46,Which POI belongs to type: grave_yard?,E,Heritage International School,Synergy Building,CGHS Dispensary North Avenue,Punjab National Bank,Graveyard
+47,Which POI belongs to type: post_office?,C,Dakshin Ratna,MGF Metropolitan Mall,Mehrauli Post Office,Bharat Sanchar Bhuvan - BSNL HQ,Domino's
+48,Which POI belongs to type: bus_station?,A,Western Court Bus Terminus,Dog And Pet Clinic,Leaf Beat Bistro,SBI,Indian Oil
+49,Which POI belongs to type: food_court?,A,Naval Officers Mess,Auto Rickshaw Stand,CocoBerry,Hunger Strike,Ambience Library
+50,Which POI belongs to type: clinic?,D,juice and fast food shop,Tandoori Wok,Yogmaya Temple,CGHS Dispensary Lodhi Road Aliganj,Pandit Ji Partha Hut
+51,Which POI belongs to type: veterinary?,E,Shri Durga Mandir,IGL,Main building water cooler,Masala Mix,Saket Pet Clinic
+52,Which POI belongs to type: training?,A,TechStack,Cafe Coffee Day,Masala Mix,RBL Bank,Depaul's
+53,Which POI belongs to type: motorcycle_parking?,D,IndusInd Bank,Axis Bank,Dr. Sudha`s Ayurveda Kendra,IIT - Kumaon,Delhi Institute Of Digital Marketing
+54,Which POI belongs to type: bicycle_parking?,D,juice and fast food shop,Citibank,v.g and co. ,IIT - Block I,Mughal Mosque
+55,Which POI belongs to type: doctors?,B,Zingo Star,Doctor Yadav's Medicare,Culture Café,Kiko-bā,Vashishta Clinics & Hospital
+56,Which POI belongs to type: money_transfer?,C,HP,Bank of Baroda,Krissh Travel World,Chicago Pizza,HDFC Bank
+57,Which POI belongs to type: bureau_de_change?,C,Sree Durga Chemist,Bank of India,Kochar Enterprises Money Changer,Indian Oil,E Block Market
+58,Which POI belongs to type: car_rental?,A,B.S. Services,Southy,Rustic Cafe,State Bank of India,Kotak Mahindra Bank
+59,Which POI belongs to type: telephone?,A,M. Business Centre,Aali's Kathi Kababs,#nofilter,Kunj Eye Hospital,Cafe Coffee Day
+60,Which POI belongs to type: nightclub?,B,SBI,Auro,Karnataka,Binge-ish,Saket Pet Clinic
+61,Which POI belongs to type: toilets?,D,SodaBottleOpenerWala,Axis Bank,Pink Booth,Sulabh Shauchalaya,chaudhry tea  stall
+62,Which POI belongs to type: crematorium?,E,Netrayatan Hospital,South Indian Fast Food,Rustic Cafe,M. Business Centre,Lado Sarai Crematorium
+63,Which POI belongs to type: shelter?,A,Brown Coloured Gazebo,Yes Bank,Pushpa Bhawan Post Office,Fit King Fitness & Health,Western Union
+64,Which POI belongs to type: cafe;coworking_space?,D,Indian Overseas Bank,Subway,Padmanabham,Liberty Village,Goyal Tea Junction
+65,Which POI belongs to type: plant_nursery?,A,Bhagwan Das Nursery,Canara Bank,Subroto Park Police Station,Ichiban,Nawaab's Kitchen
+66,Which POI belongs to type: internet_cafe?,C,Yogmaya Multispeciality Hospital,Standard Chartered,Friends Digital Print Solutions,Ashirbad Snacks Corner,Me Waffle n More
+67,Which POI belongs to type: weighbridge?,E,Skin & Hair Care,Shri Vaikunthanathji Mandir,Anupam Apartment,The Dentists,Hanuman Dharm Kanta
+68,Which POI belongs to type: arts_centre?,C,NG Pharmacy,Barista,Anant Naad Foundation,Mahadev Food Corner,Cafe Coffee Day
+69,Which POI belongs to type: recycling?,A,fulchan scrap,Dr. Sunder Lal Memorial Hospital,Doctor Singh's Multispecialty Dental Clinic,Pragati Bhavan,Guardian Dental
+70,Which POI belongs to type: social_centre?,B,Maa Nav Durga Medicos,yoga & health center,Keventers,Flamingo Films,Cravity café
+71,Which POI belongs to type: events_venue?,E,Gianis,Lala's Tandoor,Centre For Behavioural Sciences,President Estate Clinic,Tivoli Garden
+72,Which POI belongs to type: bicycle_rental?,E,CRIS Office - Centre for Railways Information Systems,Dentotal,Jose Martin Sarvodya Vidyalya,India Gate Fountain,SmartBike
+73,Which POI belongs to type: sauna?,B,Heritage International School,Salt Spa,HDFC Bank,Wow! Momo,Maquina
+74,Which POI belongs to type: post_depot?,D,Begumpur Government School,"DGD, Chirag Delhi",State Bank of India,Ecom Express,Barista
+75,Which POI belongs to type: garden?,E,Manchanda Hospital,Facilitation Kiosk,General Taxi Stand,Rustic Cafe,Public Park in I Block Lajpat Nagar 3
+76,Which POI belongs to type: language_school?,B,The Kathi's,LearnningTree,Uber Lounge,RBL Bank,Kotak Mahindra Bank ATM
+77,Which POI belongs to type: park?,D,Kotak Mahindra Bank,Depaul's,SH Computer Education,Sanjay Van gate (near IIFT),Bandhan Bank
+78,Which POI belongs to type: fountain?,B,Indian Oil,India Gate Fountain,Saravana Bhavan,IDBI Bank,Yeti
+79,Which POI belongs to type: blood_bank?,C,Kidwai Nagar Allopathic Dispensary,Bank of India,"Rotary Blood Bank, Tughlakabad",Axis Bank,Sri Aurobindo College
+80,Which POI belongs to type: playground?,E,Delhi Public School,The Pentecostal Mission Church,Indian Oil,Syndicate Bank,Play Area in Children's(Chaudhary) Park
+81,Which POI belongs to type: music_school?,A,Lilanoor Center For Voice And Music,Kotak,Goyal Tea Junction,Cafe 27 Rooftop Bar,Cafe Coffee Day
+82,Which POI belongs to type: university?,E,Gurudwara Moti Bagh Sahib,Rolls King,Havmor,Fitness Step,Institute of social science
+83,Which POI belongs to type: sports_hall?,D,Crèche 1,Punjab National Bank,IIT - Zanskar,Life Line Gym,ndmc community centre
+84,Which POI belongs to type: townhall?,E,Yes Bank,Café 69,Saint Mary's Junior School,Manchanda Hospital,Barat Ghar
+85,Which POI belongs to type: clock?,C,Balhara's Le Cure Hospital,Odin Fitness Club,Sanderson’s Sundial,jhelum lawn,Starbucks
+86,Which POI belongs to type: prep_school?,D,Auro,Fervent Software Solutions P Ltd.,Burger King,Megamind,San Gimignano
+87,Which POI belongs to type: amusement_arcade?,C,Sulabh Toilet Complex,Yes Bank,Strips And Solids,Little Saigon,"Cardio Neuro Centre Blood Bank, AIIMS"
+88,Which POI belongs to type: fixme?,B,Uncultured Cafe Sky Culture,House Of Senco (Festive Edit),Central Library,laidback cafe,Pizza Lovers
+89,Which POI belongs to type: escape_game?,A,The Hidden Hour,ccd,Henry Cafe,Nagaland Cafe,Ambience Library
+90,Which POI belongs to type: indoor_play?,B,Delhi Rock,FunCapers For Kids,Doctor K.L. Jindal,Maanmati Polyclinic,भारतीय स्टेट बैंक (साकेत)
+91,Which POI belongs to type: childcare?,A,Crèche 1,Blue Tokai Cafe,Holy Family Syro-Malabar Church,Krishna di Kulfi,Hotspot Pizzeria

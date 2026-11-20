@@ -1,0 +1,110 @@
+id,question,answer,A,B,C,D,E
+0,"Which type do following POIs belong to? POIs: Aral, Bavaria petrol, Total, Shell",E,disc_golf_course,clinic,picnic_table,bbq,fuel
+1,"Which type do following POIs belong to? POIs: Ristorante Fontana di Trevi, Let Enzo Out, Sole mio, La Pausa",B,meditation_centre,restaurant,atm,service_desk,parcel_locker
+2,"Which type do following POIs belong to? POIs: Sparkasse, Berliner Volksbank, Sparkasse, Pax-Bank",B,university,bank,animal_shelter,indoor_play,park
+3,"Which type do following POIs belong to? POIs: Hermes PaketShop, Zeitungsladen Parlak, PIN Mail AG, DPD Store Friedrichshain",C,singing_lessons,shelter,post_office,clinic,outbuilding
+4,"Which type do following POIs belong to? POIs: Shiva-Ganesha-Tempel, Gemeinde Gierkezeile, Haci Bayram Moschee e.V., Inssan-Moschee",B,bandstand,place_of_worship,taxi,rehearsal_studio,karaoke_box
+5,"Which type do following POIs belong to? POIs: Yorck, Videokino Peliculoso, Kino Babylon, Passage",C,casino,cooking_school,cinema,public_bath,dormitory
+6,"Which type do following POIs belong to? POIs: Archiv der Jugendkulturen, Bezirkszentralbibliothek Philipp Schaeffer, Stefan-Heym-Erwachsenenbibliothek, Eberhard-Alexander-Burgh-Bibliothek",B,dancing_school,library,ferry_terminal,pub,karaoke_box
+7,"Which type do following POIs belong to? POIs: Parkhaus, Hotel Kubrat, Kundenparkplatz Capitol, Parkhaus Knesebeckstraße",A,parking,tanning_salon,social_facility,bungalow,fairground
+8,"Which type do following POIs belong to? POIs: Polizei / Police, Abschnitt 53 Kreuzberg-Nord, Polizei Abschnitt 27, Polizei Berlin Abschnitt 16",D,dancing_school,flightsimulation,language_school,police,theatre
+9,"Which type do following POIs belong to? POIs: Berlin macht Dampf, studio12.berlin, Sommerpavillon, Tüll & Taggel",C,adult_gaming_centre,social_facility,events_venue,hunting_stand,fire_station
+10,"Which type do following POIs belong to? POIs: Imogti Café, chicco di caffe, Cicala Caffetteria Italiana, Egen Tied",A,cafe,car_wash,social_facility,photo_booth,outbuilding
+11,"Which type do following POIs belong to? POIs: Pizza Jack, Mille Gusti, Dr Burger, Atila's Kebap Haus 2",E,amusement_arcade,office,canteen,fitness_centre,fast_food
+12,"Which type do following POIs belong to? POIs: Haus Bierwerk, Sameheads, Turandot, Jodelkeller",A,pub,vending_machine,money_transfer,kitchen,dancing_school
+13,"Which type do following POIs belong to? POIs: Apotheke im Bismarck-Karree, easyApotheke Residenzstraße, Kopenhagener Apotheke, Quant Apotheke",D,workshop,fitness_centre,garden,pharmacy,veterinary
+14,"Which type do following POIs belong to? POIs: Theater Artenschutz, Mehringhof Theater, Zaubertheater Igor Jedlin, Theater im Palais",C,motorcycle_rental,payment_terminal,theatre,ruins,stripclub
+15,"Which type do following POIs belong to? POIs: Avis, Unfallgutachter, SIXT, Alamo",A,car_rental,events_centre,commercial,pharmacy,swingerclub
+16,"Which type do following POIs belong to? POIs: S SB-Service, Euronet, Sparkasse, Euronet",C,post_office,fitness_station,atm,slipway,recording_studio
+17,"Which type do following POIs belong to? POIs: Barred, La Buvette, The Beach Club, Baraka",D,workshop,place_of_worship,car_wash,bar,shower
+18,"Which type do following POIs belong to? POIs: EcoToilette, EcoToilette Lessinghöhe, Neukölln, Berliner Toilette, Berliner Toilette",A,toilets,escape_game,food_court,dancing_school,sailing_school
+19,"Which type do following POIs belong to? POIs: TotalEnergies, Shell, Cosy Wasch, Car Wash 36",A,car_wash,internet_cafe,picnic_table,bureau_de_change,training
+20,"Which type do following POIs belong to? POIs: Freiwillige Feuerwehr Marienfelde, Berufsfeuerwache Ranke, Freiwillige Feuerwehr Zehlendorf, Berufsfeuerwache Friedrichshain",E,sauna,school,theatre,hookah_lounge,fire_station
+21,"Which type do following POIs belong to? POIs: Im Jagdschloss, Berliner Berg Brauerei Biergarten, Rosengarten, Albers Biergarten",D,fitness_centre,post_office,doctors,biergarten,container
+22,"Which type do following POIs belong to? POIs: Kita der Ev. Kirchengem. Alt-Wittenau, Evangelische Kita Nazareth, Elterninitiativ-Kindertagesstätte am Schillerpark, EKT Sparrbande",E,doctors,parking,cooking_school,meditation_centre,kindergarten
+23,"Which type do following POIs belong to? POIs: Internationale Lomonossow-Schule, Liebmann-Schule, CJD Berlin, Anna-Lindh-Schule",A,school,ceramic_painting,slipway,monastery,training
+24,"Which type do following POIs belong to? POIs: Hauptbahnhof Nachrückhalteplatz Washingtonplatz, Dircksenstr. / Grunerstr., Leibniz / Ku-damm, Checkpoint Charlie",C,recycling,community_centre,taxi,music_venue,retail
+25,"Which type do following POIs belong to? POIs: Märchenbrunnen, Messing-Brunnenstele, Paech-Brunnen, Spielbrunnen",C,waste_basket,garden,fountain,ice_cream,events_venue
+26,"Which type do following POIs belong to? POIs: Berliner Dom, Berlin Reinickendorf, Hafen Anleger MS Diva, Schiffbauerdamm",C,car_wash,dojo,ferry_terminal,recording_studio,sailing_school
+27,"Which type do following POIs belong to? POIs: Adagio, 808, Tresor Berlin, Humboldthain Club",C,spa,bar,nightclub,public_bath,public_bookcase
+28,"Which type do following POIs belong to? POIs: Chaos Computer Club Berlin, Freifunk Berlin, Makerspace, xHain",D,tanning_salon,outdoor_seating,studio,hackerspace,coworking_space
+29,"Which type do following POIs belong to? POIs: Mosaikraupen, Kita Böhmische Straße, Ina Menzfeldowski, Tabasu",B,library,childcare,love_hotel,drinking_water,bench
+30,"Which type do following POIs belong to? POIs: K3 Kiez-Kids-Klub, Jugendclub Liebig 19, Kiezstube, Nachbarschafts- und Familienzentrum Kiezoase",A,community_centre,indoor_play,freeshop,driving_school,fitness_station
+31,"Which type do following POIs belong to? POIs: Arzt Dr. Horowski, Dr. med. Carsten Schwarz, Dr. Helma Hesse, Dr. med. Karim Soltani Allgemeinmedizin",D,karaoke_box,biergarten,taxi_school,doctors,mobile_library
+32,"Which type do following POIs belong to? POIs: Tierarztpraxis Hohenzollerndamm 3, Am Schlosspark, Tierarztpraxis Lankwitz, Vets for cats",D,driving_school,telephone,coworking_space,veterinary,playground
+33,"Which type do following POIs belong to? POIs: Mosaik Services, Stützrad gGmbH, Informationsladen BiZO, Diakoniewerk Simeon",C,dentist,nightclub,social_facility,bureau_de_change,sports_hall
+34,"Which type do following POIs belong to? POIs: Mensa FU Rechtswissenschaft, Mensa TU Architektur, Mensa, Koko & Lores",B,archive,canteen,community_centre,post_depot,language_school
+35,"Which type do following POIs belong to? POIs: Hale Now, Clays, Superfit, FitX",C,flightsimulation,bicycle_repair_station,fitness_centre,school,stripclub
+36,"Which type do following POIs belong to? POIs: CeDiS, Fachgebiet Klimatologie, Sonderforschungsbereich 1412 „Register“, Institut für Psychologie (HU)",D,animal_boarding,stripclub,taxi,university,dark_store
+37,"Which type do following POIs belong to? POIs: 1. Berliner Kinder-Schwimmschule, Gymnastikstudio Schlanke Linie, urban apes fhain, Kampfkunstakademie Berlin-Wilmersdorf",E,public_bookcase,track,arts_centre,taxi_school,sports_centre
+38,"Which type do following POIs belong to? POIs: Eiscafé Isabel, Waffel oder Becher, La Gelateria picola, Lumia",A,ice_cream,arts_centre,miniature_golf,atm,commercial
+39,"Which type do following POIs belong to? POIs: Exchange AG - Schlossstraße, Euro Change, Exchange AG, Exchange AG",D,music_venue,post_box,pub,bureau_de_change,tutoring
+40,"Which type do following POIs belong to? POIs: Poststelle und Nachtbriefkasten BHT, Chocolate & Cheese II und Betreuungsbüro AK, uni-assist, Postfachanlage",B,vending_machine,letter_box,warehouse,clinic,parcel_locker
+41,"Which type do following POIs belong to? POIs: Monrouge, Jasmin Thaimodelle Massage Karlshorst, Atrium, La Dolce Vita I",E,garden,car_rental,clinic,kindergarten,brothel
+42,"Which type do following POIs belong to? POIs: David Stolyar, Staudt, Zahnarzt Dr. Michael, Ingo Ziemann",A,dentist,amusement_arcade,bicycle_repair_station,give_box,photo_booth
+43,"Which type do following POIs belong to? POIs: Kurfürstendamm 142, 10709 Berlin, Briefkasten Deutsche Post, Kurfürstendamm 142, 10709 Berlin, PIN",E,recording_studio,library,marina,disc_golf_course,post_box
+44,"Which type do following POIs belong to? POIs: Dolce Vita, Tanzschule Ekkanda, Ballett & Tanz C. Vogl, Bebop",C,stripclub,bureau_de_change,dance,gambling,fountain
+45,"Which type do following POIs belong to? POIs: Mülleimer, Mülleimer, Modersohnstraße, Mülleimer",C,recording_studio,dance,waste_basket,driving_school,hunting_stand
+46,"Which type do following POIs belong to? POIs: LP12, Parkhaus Kindl-Boulevard, Contipark Parkhaus: Neukölln Arcaden, Kaufland",D,bicycle_parking,post_box,food_sharing,parking_entrance,bench
+47,"Which type do following POIs belong to? POIs: Flink, Das Goodshaus, Flink, Gorillas",A,warehouse,studio,fuel,art_school,marketplace
+48,"Which type do following POIs belong to? POIs: Reichtumsuhr, Uhr der fließenden Zeit, Sonnenuhr, Normaluhr",C,workshop,university,clock,fitness_centre,health_post
+49,"Which type do following POIs belong to? POIs: Digital Image Analysis and Modeling, Deutsches Zentrum für Herz-Kreislauf-Forschung e.V., Öko-Institut e.V., Institut für Werkzeugmaschinen und Fabrikbetrieb (IWF)",A,research_institute,tanning_salon,dormitory,casino,social_facility
+50,"Which type do following POIs belong to? POIs: GlogauAIR gGmbH, feinart Berlin, Kunsthaus, neue Gesellschaft für bildende Kunst (nGbK)",B,post_box,arts_centre,adult_gaming_centre,rehearsal_studio,workshop
+51,"Which type do following POIs belong to? POIs: GEERDES media e.K., Iyuno, Deutsche Welle, Studio Berlin Adlershof",E,baby_goods,mobile_library,events_centre,music_venue,studio
+52,"Which type do following POIs belong to? POIs: Aris Internet-Spätkauf & Presse, Momega, Internetcafé & Spätkauf, Orcom",B,car_wash,internet_cafe,fitness_centre,marketplace,ceramic_painting
+53,"Which type do following POIs belong to? POIs: Karahan, workstation Ideenwerkstatt Berlin e.V., Sozialraum Berlin, My Way",D,outbuilding,stripclub,internet_cafe,social_centre,archive
+54,"Which type do following POIs belong to? POIs: Deutsche Bahn, Deutsche Post, Deutsche Bahn, Deutsche Bahn",B,car_sharing,vending_machine,freeshop,brothel,food_sharing
+55,"Which type do following POIs belong to? POIs: bemobil, Schnellladestation, Innogy, Innogy",A,charging_station,toilets,cinema,police,swingerclub
+56,"Which type do following POIs belong to? POIs: kolula SUP, Motorwassersportclub 1190, SAV Gut Biss 1920, Hafen Schiffskontor",B,animal_boarding,marina,school,dormitory,car_wash
+57,"Which type do following POIs belong to? POIs: Bet3000, Spielsalon, Bärlinomat, Automaten-Casino",C,payment_terminal,lost_property_office,adult_gaming_centre,bureau_de_change,pharmacy
+58,"Which type do following POIs belong to? POIs: Altglas, Pfandstation, Altglas, Recycling",B,taxi,recycling,vehicle_inspection,driving_school,pub
+59,"Which type do following POIs belong to? POIs: Wasserspender, Trinkwasserbrunnen am Friedhof, Euro-Trinkbrunnen, Wiener Trinkbrunnen",D,fuel,swingerclub,kindergarten,drinking_water,cemetery
+60,"Which type do following POIs belong to? POIs: Fahrschule am Theo, Fahrschule Berlin, audimax Berlin Pankow, Mo’s Fahrschule",C,language_school,fish_spa,driving_school,fire_station,childcare
+61,"Which type do following POIs belong to? POIs: Statement, Layalina, My moon, Elma Lounge",A,hookah_lounge,parking_entrance,wellness,prep_school,amusement_arcade
+62,"Which type do following POIs belong to? POIs: Relax-Insel Marzahn, Beach Zone Lichtenberg, Sultan Hamam, Gewölbe Sauna",E,laser_tag,sports_centre,rehearsal_studio,taxi,sauna
+63,"Which type do following POIs belong to? POIs: Club Cleopatra, Table Dance Tutti Frutti, Chez Michelle, Angels",A,stripclub,car_rental,motorcycle_rental,music_venue,student_accommodation
+64,"Which type do following POIs belong to? POIs: Volkshochschule Neukölln - Lernhaus, D&B Dienstleistung und Bildung, Jüdische Volkshochschule, Musikschule Kling-Klang",D,university,conference_centre,music_venue,college,fishing
+65,"Which type do following POIs belong to? POIs: Kletterholz, Trampoline, Spielplatz der Wohnanlage am Windhalmweg, Spielhaus Goldbeckweg",E,swimming_pool,cafe,escape_game,fire_station,playground
+66,"Which type do following POIs belong to? POIs: FFBIZ - das feministische Archiv e.V., Evangelisches Zentralarchiv in Berlin, Vilém Flusser Archiv, Archiv Grünes Gedächtnis",A,archive,music_venue,dark_store,kindergarten,flightsimulation
+67,"Which type do following POIs belong to? POIs: Berliner Kochwerkstatt, Kochatelier, Atelier Culinário, Koch mal!",E,hackerspace,university,sailing_school,sports_centre,cooking_school
+68,"Which type do following POIs belong to? POIs: Randori Kampfsport, Kodokan Berlin, EWTO Kampfkunstschule Weissensee, Syogra Jade",A,dojo,service_desk,garden,music_venue,courthouse
+69,"Which type do following POIs belong to? POIs: Packstation 576, Packstation 407, Amazon Hub Locker, Packstation 218",B,bungalow,parcel_locker,flightsimulation,events_venue,marketplace
+70,"Which type do following POIs belong to? POIs: Klinik für Strahlenheilkunde, Klinik für Psychiatrie, Psychosomatik und Psychotherapie des Kindes- und Jugendalters, Sana Gesundheitszentrum Marzahn ""Ernst Ludwig Heim"", Fertility Center Berlin",B,bicycle_parking,clinic,parcel_locker,laser_tag,indoor_play
+71,"Which type do following POIs belong to? POIs: InterCityHotel, Landsberger Allee / Danziger Straße, Memi, Ronja",A,bicycle_rental,miniature_golf,love_hotel,social_centre,warehouse
+72,"Which type do following POIs belong to? POIs: Wonder, DB mindbox, betahaus, Cultivation Space",C,baby_goods,smoking_area,coworking_space,parking,social_facility
+73,"Which type do following POIs belong to? POIs: Avarus Swingerclub, Club Culture Houze, Erlebniskino 47, Swingerclub Zwanglos III",D,dojo,research_institute,prep_school,swingerclub,health_post
+74,"Which type do following POIs belong to? POIs: Mein Gutachter 24, TÜV Rheinland, TÜV Nord (Prüf- und Schadenzentrum Berlin), GTÜ",A,vehicle_inspection,dance,disc_golf_course,indoor_play,wellness
+75,"Which type do following POIs belong to? POIs: Sunpoint, Berlin Sun, Solarent, Light Style",C,pub,garden,tanning_salon,music_venue,letter_box
+76,"Which type do following POIs belong to? POIs: Die DeutSCHule, Kapitel Zwei, HU German Language Academy, BWS Germanlingua",B,swimming_pool,language_school,meditation_centre,fish_spa,bank
+77,"Which type do following POIs belong to? POIs: 3 Bügel, Fahrradparkplatz (TUB Fahrradparkplatz EW_3), 4 racks, B+R Box",C,container,dojo,bicycle_parking,escape_game,office
+78,"Which type do following POIs belong to? POIs: Fairplay, Café Black & Red, Casino, Joker Casino",D,disc_golf_course,swingerclub,payment_terminal,casino,clinic
+79,"Which type do following POIs belong to? POIs: Bolzplatz, Juggerfeld, 1. GBC Berlin e.V., Modellboothafen",E,service_desk,fairground,swingerclub,warehouse,pitch
+80,"Which type do following POIs belong to? POIs: Ökomarkt im Hansaviertel, Flohmarkt Marienfelde, Trödelmarkt Hermann-Ehlers-Platz, Subaermarkt",D,canteen,swimming_pool,library,marketplace,service_desk
+81,"Which type do following POIs belong to? POIs: Bootsverleih Neuer See, StandUpClub Berlin – Funkhaus: SUP Schule und Vermietung, Rent-a-Boat Treptow, Sunny Boats",D,container,warehouse,sports_hall,boat_rental,music_venue
+82,"Which type do following POIs belong to? POIs: Bowling World, Bowlero, Berolina Bowling Lounge, American Bowl Berlin",C,college,swimming_pool,bowling_alley,waste_basket,dog_park
+83,"Which type do following POIs belong to? POIs: Musikschule Charlottenburg-Wilmersdorf, Musikschule Fröhlich, meyerbär, Sibylle Ott-Kohm",E,sports_hall,coworking_space,college,taxi_school,music_school
+84,"Which type do following POIs belong to? POIs: Steg Bikes, Regenbogenfabrik Fahrrad-Selbsthilfe-Werkstatt, Fahrradladen Sonnenalle, Bike tools stand",A,bicycle_repair_station,dormitory,sports_centre,canteen,arts_centre
+85,"Which type do following POIs belong to? POIs: IQ2U, Studienkreis, Studienkreis, SprInt Bildung, Sprache und Integration",E,dojo,internet_cafe,dentist,animal_shelter,prep_school
+86,"Which type do following POIs belong to? POIs: LVL, Gaming Zone, world of gaming, Laser Limbo",C,fitness_station,prep_school,amusement_arcade,recording_studio,post_office
+87,"Which type do following POIs belong to? POIs: Blumenbeet Schützenstraße, Interkulturelle Umweltgärten Berlin Tempelhof, wachsenlassen, GleisBeet",A,garden,workshop,amusement_arcade,food_court,ferry_terminal
+88,"Which type do following POIs belong to? POIs: Villa Libris, Bücherwald, BücherboXX, Europa Bücherboxx",C,adult_gaming_centre,marina,public_bookcase,shelter,place_of_worship
+89,"Which type do following POIs belong to? POIs: Raucherpavillon, Raucherpilz, Raucherbereich, Raucherpavillon",D,fixme,bbq,grave_yard,shelter,taxi_school
+90,"Which type do following POIs belong to? POIs: Cambio Station Köpenicker, Cambio, Jelbi-Station U Haselhorst, Stadtmobil",C,stripclub,animal_boarding,car_sharing,mobile_library,fish_spa
+91,"Which type do following POIs belong to? POIs: Segelschule Hannemann, Segelschule Hering, Segelschule Weber, FluxAhoi",A,sailing_school,student_accommodation,parking_space,crematorium,cooking_school
+92,"Which type do following POIs belong to? POIs: Cat in The Bag Escape Room, Final Escape, Escape Game Berlin, Labyrintoom",E,hospital,arts_centre,student_accommodation,health_post,escape_game
+93,"Which type do following POIs belong to? POIs: Western Union, MoneyGram, Western Union, Ria",B,car_wash,money_transfer,training,grave_yard,fountain
+94,"Which type do following POIs belong to? POIs: teledisko, Knips-O-Mat, Photoautomat, Photoautomat",B,laser_tag,photo_booth,bureau_de_change,car_rental,ferry_terminal
+95,"Which type do following POIs belong to? POIs: Amtsgericht Wedding, Landgericht Berlin, Kammergericht, Familiengericht Pankow",D,photo_booth,hackerspace,meditation_centre,courthouse,golf_course
+96,"Which type do following POIs belong to? POIs: Minicity Kindercafe, Kutumba Familienerlebniswelt, Entdeckum Kinder Labor, Jolos Kinderwelt",B,boat_rental,indoor_play,mortuary,student_accommodation,project_space
+97,"Which type do following POIs belong to? POIs: Backschule Charlotte, super, agens Arbeitsmarktservice GmbH, Frauenalia",E,taxi_school,office,animal_boarding,public_bookcase,training
+98,"Which type do following POIs belong to? POIs: Wohnheim Nollendorfstraße, The Fizz, Wohnheim Hardenbergstraße, Wohnheim Aristotelessteig 10",E,events_venue,love_hotel,animal_boarding,dark_store,student_accommodation
+99,"Which type do following POIs belong to? POIs: Schlossparcours, SprachCafe, Calisthenics-Anlage, Stangenpark",C,slipway,pharmacy,fitness_station,marina,horse_riding
+100,"Which type do following POIs belong to? POIs: Unser Sandmännchen, Jugendbank, Liegestuhl, Jugendbank",B,bicycle_rental,bench,project_space,animal_boarding,prep_school
+101,"Which type do following POIs belong to? POIs: Kiezeck, Fahrrad-Tauschregel, Gabenzaun, Donaueck",B,nightclub,give_box,government,grave_yard,research_institute
+102,"Which type do following POIs belong to? POIs: www.berlin-katzenpension.de, Amicanis, Jack Perro - Die Hundekita, 7Hunde.de Hundetrainer & Dogwalker",B,car_sharing,animal_boarding,fast_food,nightclub,bandstand
+103,"Which type do following POIs belong to? POIs: Turnhalle, Kraftraum, Sportbox, Boxhalle",B,training,sports_hall,give_box,mobile_library,swingerclub
+104,"Which type do following POIs belong to? POIs: Fetzen&Flicken, Steinwerkstatt, Repair Café, Elektronik-Recycling-Werkstatt",C,retail,meditation_centre,workshop,fairground,container
+105,"Which type do following POIs belong to? POIs: artloft.berlin, Konferenzzentrum Mauerstraße, Urban Tech Republic, Tagungsräume und Festsaal der Berliner Stadtmission",A,conference_centre,retail,government,dark_store,ferry_terminal
+106,"Which type do following POIs belong to? POIs: Sway - Die Tanzschule am Wasserturm, Ballettatelier Lichterfelde, Glow! dance&mor, Ilona & Juliane Schierlitz",E,art_school,post_office,arts_centre,stripclub,dancing_school
+107,"Which type do following POIs belong to? POIs: Sleepz, Zerspantechnik Tema-Fischer GmbH, ABM IndustrieTechnik, Scaling Spaces",E,escape_game,taxi_school,community_centre,cafe,fixme
+108,"Which type do following POIs belong to? POIs: Fahrbibliothek Spandau, Siemensstadt / Jugendplatz, Fahrbibliothek Berlin-Mitte, Carl-Kraemer-Grundschule, Fahrbibliothek Tempelhof-Schöneberg, Fahrbibliothek Berlin-Mitte, Erika-Mann-Grundschule",B,picnic_table,mobile_library,grave_yard,amusement_arcade,clinic

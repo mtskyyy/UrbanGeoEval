@@ -1,0 +1,437 @@
+id,question,answer,A,B,C,D
+0,"In the Paris area, which road cannot directly reach Boulevard de Picpus?",D,Square Courteline,Cours de Vincennes,Avenue du Trône,Rue de l'Amiral Mouchez
+1,"In the Paris area, which road directly reaches Square Courteline?",D,Rue Geoffroy Saint-Hilaire,Rue du Vieux Colombier,Rue de Lyon,Boulevard de Picpus
+2,"In the Paris area, which road cannot directly reach Rue Dauphine?",C,Rue de l'Ancienne Comédie,Quai des Grands Augustins,Rue Jean-Baptiste Berlier,Pont Neuf
+3,"In the Paris area, which road cannot directly reach Rue de l'Ancienne Comédie?",C,Boulevard Saint-Germain,Carrefour de l'Odéon,Quai d'Austerlitz,Rue Dauphine
+4,"In the Paris area, which road cannot directly reach Place de l'Alma?",D,Avenue du Président Wilson,Avenue George V,Pont de l'Alma,Place Saint-Augustin
+5,"In the Paris area, which road cannot directly reach Avenue de New York?",B,Voie Georges-Pompidou,Rue Baron Le Roy,Avenue des Nations-Unies,Place de Varsovie
+6,"In the Paris area, which road cannot directly reach Boulevard Pereire?",B,Rue Cardinet,Rue Lachambeaudie,Avenue de Wagram,Place du Maréchal Juin
+7,"In the Paris area, which road cannot directly reach Place du Maréchal Juin?",A,Quai des Célestins,Rue de Courcelles,Avenue Niel,Boulevard Pereire
+8,"In the Paris area, which road directly reaches Rue des Archives?",B,Avenue de la Porte des Lilas,Rue de Bretagne,Rue La Boétie,Boulevard Montmartre
+9,"In the Paris area, which road directly reaches Rue Rambuteau?",A,Rue des Archives,Rue Corneille,Pont de la Tournelle,Rue Faidherbe
+10,"In the Paris area, which road directly reaches Rue Escoffier?",C,Boulevard Edgar Quinet,Rue Cambronne,Quai de Bercy,Rue Bobillot
+11,"In the Paris area, which road cannot directly reach Quai de Bercy?",B,Port de Bercy,Boulevard Gouvion-Saint-Cyr,Avenue des Terroirs de France,Place Lachambeaudie
+12,"In the Paris area, which road cannot directly reach Rue Beaubourg?",B,Rue de Rivoli,Boulevard Saint-Denis,Rue Rambuteau,Rue du Grenier Saint-Lazare
+13,"In the Paris area, which road cannot directly reach Rue du Faubourg Montmartre?",B,Rue de Maubeuge,Place Michel Debré,Rue de Châteaudun,Rue La Fayette
+14,"In the Paris area, which road cannot directly reach Rue Notre-Dame-de-Lorette?",C,Boulevard Marguerite de Rochechouart,Place Saint-Georges,Rue Méhul,Rue du Faubourg Montmartre
+15,"In the Paris area, which road cannot directly reach Quai de la Rapée?",A,Place du Châtelet,Pont de Bercy,Pont Charles de Gaulle,Avenue Ledru-Rollin
+16,"In the Paris area, which road directly reaches Boulevard de la Bastille?",B,Boulevard Poniatowski,Quai de la Rapée,Place de Varsovie,Place de la Bataille de Stalingrad
+17,"In the Paris area, which road directly reaches Place Séverine?",C,Rue Berthollet,Rue Oberkampf,Avenue Édouard Vaillant,Avenue Félix Faure
+18,"In the Paris area, which road directly reaches Avenue Édouard Vaillant?",A,Place Séverine,Avenue Félix Faure,Rue Cambronne,Avenue de Friedland
+19,"In the Paris area, which road cannot directly reach Rue de Crimée?",C,Rue Botzaris,Avenue de Flandre,Rue de Lobau,Rue des Fêtes
+20,"In the Paris area, which road directly reaches Rue des Fêtes?",C,Boulevard Gouvion-Saint-Cyr,Avenue Mathurin Moreau,Rue de Crimée,Rue d'Alésia
+21,"In the Paris area, which road directly reaches Avenue d'Italie?",B,Avenue Duquesne,Rue de Tolbiac,Avenue Mac-Mahon,Place Valhubert
+22,"In the Paris area, which road cannot directly reach Place d'Italie?",A,Pont Alexandre III,Rue Bobillot,Avenue d'Italie,Avenue des Gobelins
+23,"In the Paris area, which road cannot directly reach Boulevard Lefebvre?",A,Rue Bonaparte,Avenue de la Porte de la Plaine,Place de la Porte de Vanves,Rue Jacques Baudry
+24,"In the Paris area, which road directly reaches Rue Jacques Baudry?",D,Avenue de Villiers,Avenue du Maréchal Gallieni,Avenue de l'Observatoire,Boulevard Lefebvre
+25,"In the Paris area, which road directly reaches Rue Eblé?",B,Avenue du Colonel Henri Rol Tanguy,Boulevard des Invalides,Rue Le Peletier,Boulevard des Filles du Calvaire
+26,"In the Paris area, which road cannot directly reach Avenue Duquesne?",C,Rue Eblé,Avenue de la Motte-Picquet,Place de la Résistance,Avenue de Lowendal
+27,"In the Paris area, which road directly reaches Rue de Lobau?",B,Rue de Bretagne,Quai de l'Hôtel de Ville,Avenue d'Italie,Pont de la Concorde
+28,"In the Paris area, which road cannot directly reach Rue de Rivoli?",B,Rue de Lobau,Rue du Faubourg Saint-Honoré,Rue Beaubourg,Place de l'Hôtel de Ville
+29,"In the Paris area, which road cannot directly reach Avenue du Docteur Arnold Netter?",A,Boulevard de Port-Royal,Cours de Vincennes,Avenue de Saint-Mandé,Avenue du Général Michel Bizot
+30,"In the Paris area, which road cannot directly reach Rue des Pyrénées?",A,Pont Notre-Dame,Avenue Simón Bolívar,Cours de Vincennes,Rue Belgrand
+31,"In the Paris area, which road cannot directly reach Cours de Vincennes?",A,Place de la Chapelle,Avenue du Docteur Arnold Netter,Boulevard de Picpus,Rue des Pyrénées
+32,"In the Paris area, which road cannot directly reach Rue du Louvre?",D,Rue Étienne Marcel,Rue Saint-Honoré,Quai François Mitterrand,Boulevard Beaumarchais
+33,"In the Paris area, which road cannot directly reach Rue Étienne Marcel?",B,Rue du Grenier Saint-Lazare,Place de Catalogne,Rue du Louvre,Rue de Turbigo
+34,"In the Paris area, which road cannot directly reach Boulevard Saint-Marcel?",B,Rue des Fossés Saint-Marcel,Avenue de New York,Boulevard de l'Hôpital,Avenue des Gobelins
+35,"In the Paris area, which road cannot directly reach Boulevard Arago?",D,Boulevard Saint-Marcel,Avenue des Gobelins,Place Denfert-Rochereau,Rue Didot
+36,"In the Paris area, which road cannot directly reach Avenue des Gobelins?",A,Avenue Bosquet,Place d'Italie,Boulevard Saint-Marcel,Boulevard Arago
+37,"In the Paris area, which road cannot directly reach Rue de Rennes?",D,Rue de Vaugirard,Place du 18 Juin 1940,Boulevard Saint-Germain,Rue Traversière
+38,"In the Paris area, which road cannot directly reach Boulevard Raspail?",A,Boulevard Brune,Rue de Varenne,Rue de Vaugirard,Boulevard Saint-Germain
+39,"In the Paris area, which road cannot directly reach Rue de Vaugirard?",D,Rue Pétel,Boulevard Pasteur,Rue Corneille,Avenue des Gobelins
+40,"In the Paris area, which road cannot directly reach Place Édouard Renard?",C,Boulevard Soult,Boulevard Poniatowski,Place Valhubert,Avenue Daumesnil
+41,"In the Paris area, which road cannot directly reach Boulevard Poniatowski?",D,Rue du Général de Langle de Cary,Boulevard Soult,Rue Robert-Etlin,Boulevard Haussmann
+42,"In the Paris area, which road cannot directly reach Boulevard Soult?",A,Passage Victor Marchand,Avenue Daumesnil,Place Édouard Renard,Boulevard Poniatowski
+43,"In the Paris area, which road cannot directly reach Avenue Daumesnil?",A,Rue de Saint-Pétersbourg,Rue de Rambouillet,Rue de Lyon,Avenue du Général Michel Bizot
+44,"In the Paris area, which road cannot directly reach Boulevard Barbès?",B,Boulevard de la Chapelle,Rue Saint-Lazare,Rue Custine,Rue Doudeauville
+45,"In the Paris area, which road cannot directly reach Boulevard de la Chapelle?",B,Boulevard de Magenta,Boulevard des Filles du Calvaire,Boulevard de Clichy,Place de la Chapelle
+46,"In the Paris area, which road cannot directly reach Boulevard de Clichy?",D,Place d'Estienne d'Orves,Boulevard Barbès,Place de Clichy,Rue Réaumur
+47,"In the Paris area, which road cannot directly reach Boulevard de Magenta?",A,Avenue Félix Faure,Rue La Fayette,Rue du Faubourg Saint-Martin,Boulevard de la Chapelle
+48,"In the Paris area, which road cannot directly reach Rue de la Glacière?",C,Rue Berthollet,Boulevard Arago,Boulevard Soult,Boulevard Auguste Blanqui
+49,"In the Paris area, which road cannot directly reach Boulevard de Port-Royal?",D,Boulevard Arago,Avenue de l'Observatoire,Rue de la Glacière,Pont National
+50,"In the Paris area, which road cannot directly reach Rue Berthollet?",A,Boulevard de Ménilmontant,Boulevard de Port-Royal,Rue Claude Bernard,Rue de la Glacière
+51,"In the Paris area, which road cannot directly reach Boulevard Haussmann?",A,Rue Botzaris,Avenue Myron Herrick,Rue Halévy,Rue Pasquier
+52,"In the Paris area, which road cannot directly reach Boulevard Malesherbes?",A,Rue des Entrepreneurs,Rue Royale,Boulevard Pereire,Boulevard Haussmann
+53,"In the Paris area, which road cannot directly reach Pont Alexandre III?",D,Cours la Reine,Quai d'Orsay,Avenue du Maréchal Gallieni,Avenue George V
+54,"In the Paris area, which road cannot directly reach Quai d'Orsay?",D,Pont Alexandre III,Quai Jacques Chirac,Pont de l'Alma,Rue de Rome
+55,"In the Paris area, which road cannot directly reach Avenue du Maréchal Gallieni?",C,Quai d'Orsay,Pont Alexandre III,Place Théophile Bader,Rond-Point du Bleuet de France
+56,"In the Paris area, which road cannot directly reach Avenue Pierre Mendès France?",D,Quai d'Austerlitz,Boulevard Vincent Auriol,Avenue de France,Rue Manin
+57,"In the Paris area, which road cannot directly reach Avenue de France?",B,Rue de Tolbiac,Boulevard Brune,Rue des Grands Moulins,Boulevard Vincent Auriol
+58,"In the Paris area, which road cannot directly reach Boulevard Vincent Auriol?",A,Rue du Général de Langle de Cary,Avenue Pierre Mendès France,Quai d'Austerlitz,Rue Nationale
+59,"In the Paris area, which road cannot directly reach Boulevard de Bercy?",D,Boulevard Vincent Auriol,Rue de Charenton,Boulevard de Reuilly,Quai de la Tournelle
+60,"In the Paris area, which road cannot directly reach Quai de la Gare?",B,Pont de Tolbiac,Rue Jean Zay,Boulevard Vincent Auriol,Quai d'Austerlitz
+61,"In the Paris area, which road cannot directly reach Quai d'Austerlitz?",B,Place Valhubert,Boulevard de Charonne,Boulevard de Bercy,Quai Saint-Bernard
+62,"In the Paris area, which road cannot directly reach Pont de Tolbiac?",A,Place des Insurgés de Varsovie,Quai de Bercy,Quai d'Ivry,Rue Neuve Tolbiac
+63,"In the Paris area, which road cannot directly reach Quai d'Ivry?",C,Pont de Tolbiac,Rue Neuve Tolbiac,Avenue de France,Rue Jean-Baptiste Berlier
+64,"In the Paris area, which road cannot directly reach Rue Neuve Tolbiac?",B,Pont de Tolbiac,Place Théophile Bader,Quai de la Gare,Rue de Tolbiac
+65,"In the Paris area, which road cannot directly reach Rue du Cardinal Lemoine?",A,Rue Riquet,Rue des Fossés Saint-Bernard,Rue Jussieu,Rue des Écoles
+66,"In the Paris area, which road cannot directly reach Rue Jussieu?",C,Rue Geoffroy Saint-Hilaire,Rue des Fossés Saint-Marcel,Rue de Rambouillet,Rue des Écoles
+67,"In the Paris area, which road cannot directly reach Rue des Écoles?",A,Place de la Concorde,Rue Jussieu,Rue des Fossés Saint-Bernard,Rue du Cardinal Lemoine
+68,"In the Paris area, which road cannot directly reach Rue des Fossés Saint-Bernard?",B,Boulevard Saint-Germain,Rue du Faubourg du Temple,Rue des Écoles,Rue du Cardinal Lemoine
+69,"In the Paris area, which road cannot directly reach Avenue d'Iéna?",C,Avenue des Nations-Unies,Avenue Albert de Mun,Avenue George V,Place Charles de Gaulle
+70,"In the Paris area, which road cannot directly reach Avenue du Président Wilson?",C,Avenue George V,Avenue Albert de Mun,Boulevard de la Tour Maubourg,Avenue d'Iéna
+71,"In the Paris area, which road cannot directly reach Avenue George V?",B,Avenue du Président Wilson,Avenue Parmentier,Pont de l'Alma,Avenue Montaigne
+72,"In the Paris area, which road cannot directly reach Pont de l'Alma?",D,Avenue Bosquet,Avenue George V,Quai Jacques Chirac,Rue Rambuteau
+73,"In the Paris area, which road cannot directly reach Avenue Montaigne?",C,Place de l'Alma,Pont de l'Alma,Quai des Tuileries,Avenue George V
+74,"In the Paris area, which road cannot directly reach Avenue de Wagram?",A,Rue du 8 Mai 1945,Boulevard de Courcelles,Avenue de Villiers,Boulevard Pereire
+75,"In the Paris area, which road cannot directly reach Avenue de Villiers?",D,Place de la Porte de Champerret,Boulevard Malesherbes,Place Prosper Goubaux,Rue des Pyrénées
+76,"In the Paris area, which road cannot directly reach Pont de Bercy?",C,Quai de Bercy,Quai de la Rapée,Avenue Foch,Boulevard de Bercy
+77,"In the Paris area, which road cannot directly reach Avenue de la Porte des Lilas?",D,Boulevard Mortier,Place du Maquis du Vercors,Boulevard Sérurier,Rue Monge
+78,"In the Paris area, which road cannot directly reach Boulevard Sérurier?",B,Avenue de la Porte Chaumont,Rue du Chemin Vert,Avenue de la Porte du Pré Saint-Gervais,Avenue Jean Jaurès
+79,"In the Paris area, which road cannot directly reach Boulevard Mortier?",D,Rue de Bagnolet,Avenue de la Porte des Lilas,Boulevard Sérurier,Boulevard de Grenelle
+80,"In the Paris area, which road cannot directly reach Rue de Belleville?",D,Boulevard Mortier,Boulevard Sérurier,Rue des Pyrénées,Quai Valéry Giscard d'Estaing
+81,"In the Paris area, which road cannot directly reach Avenue de Suffren?",B,Quai Jacques Chirac,Place de la Porte de Champerret,Avenue de Ségur,Avenue de la Motte-Picquet
+82,"In the Paris area, which road cannot directly reach Avenue de Ségur?",D,Boulevard Garibaldi,Avenue de Suffren,Avenue de Tourville,Boulevard Morland
+83,"In the Paris area, which road cannot directly reach Avenue du Trône?",A,Port de Bercy,Cours de Vincennes,Boulevard de Charonne,Boulevard de Picpus
+84,"In the Paris area, which road cannot directly reach Boulevard de Charonne?",C,Avenue de Taillebourg,Boulevard de Picpus,Boulevard Voltaire,Rue d'Avron
+85,"In the Paris area, which road cannot directly reach Avenue de l'Observatoire?",C,Boulevard Saint-Michel,Rue d'Assas,Boulevard des Invalides,Boulevard de Port-Royal
+86,"In the Paris area, which road cannot directly reach Boulevard du Montparnasse?",A,Boulevard de Charonne,Avenue de l'Observatoire,Place du 18 Juin 1940,Rue du Départ
+87,"In the Paris area, which road cannot directly reach Avenue Bosquet?",A,Avenue de la Porte Brunet,Quai Jacques Chirac,Pont de l'Alma,Quai d'Orsay
+88,"In the Paris area, which road cannot directly reach Quai Jacques Chirac?",D,Quai Branly,Avenue Bosquet,Avenue de la Bourdonnais,Rue Gaston Boissier
+89,"In the Paris area, which road cannot directly reach Rue de Charonne?",B,Avenue Ledru-Rollin,Boulevard Diderot,Rue de la Roquette,Boulevard Voltaire
+90,"In the Paris area, which road cannot directly reach Avenue Philippe Auguste?",C,Place de la Nation,Rue de Charonne,Rue Brancion,Boulevard de Ménilmontant
+91,"In the Paris area, which road cannot directly reach Rue d'Assas?",A,Place Étienne Pernet,Rue de Rennes,Avenue de l'Observatoire,Rue de Vaugirard
+92,"In the Paris area, which road cannot directly reach Avenue de Saint-Mandé?",A,Boulevard Diderot,Place de la Nation,Square Courteline,Avenue du Docteur Arnold Netter
+93,"In the Paris area, which road cannot directly reach Avenue du Général Michel Bizot?",B,Avenue du Docteur Arnold Netter,Rue du Havre,Avenue de Saint-Mandé,Place Félix Éboué
+94,"In the Paris area, which road cannot directly reach Avenue de la Porte de Charenton?",B,Rue de Charenton,Avenue de l'Opéra,Avenue de Gravelle,Boulevard Poniatowski
+95,"In the Paris area, which road cannot directly reach Rue de Charenton?",D,Avenue du Général Michel Bizot,Rue Proudhon,Boulevard Poniatowski,Place d'Italie
+96,"In the Paris area, which road cannot directly reach Place Félix Éboué?",A,Rue des Fossés Saint-Marcel,Avenue du Général Michel Bizot,Boulevard de Reuilly,Avenue Daumesnil
+97,"In the Paris area, which road cannot directly reach Rue de Rome?",B,Rue de Constantinople,Quai d'Orsay,Boulevard des Batignolles,Rue Saint-Lazare
+98,"In the Paris area, which road cannot directly reach Boulevard des Batignolles?",D,Rue de Rome,Place de Clichy,Boulevard de Courcelles,Avenue du Trône
+99,"In the Paris area, which road cannot directly reach Avenue de la Motte-Picquet?",C,Boulevard de Grenelle,Avenue de Suffren,Rue de Tolbiac,Place Joffre
+100,"In the Paris area, which road cannot directly reach Avenue de la Bourdonnais?",C,Quai Jacques Chirac,Avenue Duquesne,Rue Riquet,Place de la Résistance
+101,"In the Paris area, which road cannot directly reach Place Joffre?",C,Avenue de Tourville,Avenue de Suffren,Pont Neuf,Avenue Duquesne
+102,"In the Paris area, which road cannot directly reach Avenue de Tourville?",C,Place Vauban,Avenue de Villars,Avenue de Breteuil,Avenue Duquesne
+103,"In the Paris area, which road cannot directly reach Rue de la Roquette?",B,Avenue Ledru-Rollin,Rue Danton,Rue de Charonne,Boulevard de Charonne
+104,"In the Paris area, which road cannot directly reach Avenue Parmentier?",B,Avenue de la République,Boulevard de Port-Royal,Rue de la Roquette,Boulevard Voltaire
+105,"In the Paris area, which road cannot directly reach Boulevard Voltaire?",C,Place de la République,Rue de Charonne,Rue Robert-Etlin,Place de la Nation
+106,"In the Paris area, which road cannot directly reach Rue de Courcelles?",A,Avenue Franklin Delano Roosevelt,Avenue de Wagram,Avenue Myron Herrick,Rue de Lisbonne
+107,"In the Paris area, which road cannot directly reach Avenue Myron Herrick?",C,Boulevard Haussmann,Rue de Courcelles,Rue Pétel,Rue du Faubourg Saint-Honoré
+108,"In the Paris area, which road cannot directly reach Rue Monge?",D,Rue des Écoles,Boulevard Saint-Germain,Rue Clovis,Boulevard Beaumarchais
+109,"In the Paris area, which road cannot directly reach Boulevard de Courcelles?",D,Place des Ternes,Rue du Faubourg Saint-Honoré,Avenue de Villiers,Rue Saint-Martin
+110,"In the Paris area, which road cannot directly reach Rue La Fayette?",A,Place de l'Hôtel de Ville,Rue du Faubourg Saint-Martin,Place de la Bataille de Stalingrad,Boulevard de Magenta
+111,"In the Paris area, which road cannot directly reach Place de la Bataille de Stalingrad?",C,Rue La Fayette,Avenue Jean Jaurès,Place de la Porte de Pantin,Avenue de Flandre
+112,"In the Paris area, which road cannot directly reach Avenue Jean Jaurès?",A,Boulevard Soult,Avenue René Fonck,Avenue de Flandre,Avenue Édouard Vaillant
+113,"In the Paris area, which road cannot directly reach Avenue de la République?",C,Boulevard Voltaire,Avenue Parmentier,Place de la Madeleine,Boulevard de Ménilmontant
+114,"In the Paris area, which road cannot directly reach Place Lachambeaudie?",B,Pont de Tolbiac,Rue Tronchet,Rue Baron Le Roy,Quai de Bercy
+115,"In the Paris area, which road directly reaches Rue d'Avron?",D,Rue de Seine,Rue de la Chaussée-d'Antin,Rue de l'Amiral Mouchez,Boulevard de Charonne
+116,"In the Paris area, which road cannot directly reach Rue de la Convention?",B,Rue de Vaugirard,Rue de Belleville,Rue Brancion,Rue de Vouillé
+117,"In the Paris area, which road cannot directly reach Rue de la Croix Nivert?",B,Rue de la Convention,Avenue de la Porte de Charenton,Boulevard de Grenelle,Rue des Entrepreneurs
+118,"In the Paris area, which road cannot directly reach Avenue de Lowendal?",D,Rue Frémicourt,Avenue de Tourville,Avenue de Suffren,Cours de Vincennes
+119,"In the Paris area, which road cannot directly reach Avenue des Ternes?",D,Rue du Faubourg Saint-Honoré,Avenue Niel,Boulevard de Courcelles,Boulevard Raspail
+120,"In the Paris area, which road cannot directly reach Rue du Faubourg Saint-Honoré?",A,Boulevard Marguerite de Rochechouart,Place Saint-Augustin,Place des Ternes,Avenue Myron Herrick
+121,"In the Paris area, which road cannot directly reach Place des Ternes?",B,Avenue de Wagram,Rue du Caporal Peugeot,Avenue des Ternes,Rue du Faubourg Saint-Honoré
+122,"In the Paris area, which road cannot directly reach Rue de Tolbiac?",C,Rue Neuve Tolbiac,Place d'Italie,Boulevard des Invalides,Avenue d'Italie
+123,"In the Paris area, which road cannot directly reach Rue de Sèvres?",C,Boulevard Pasteur,Boulevard des Invalides,Place de Narvik,Boulevard Raspail
+124,"In the Paris area, which road cannot directly reach Avenue Hoche?",D,Rue du Faubourg Saint-Honoré,Place Charles de Gaulle,Rue de Courcelles,Rue des Saints-Pères
+125,"In the Paris area, which road cannot directly reach Boulevard Garibaldi?",C,Boulevard Pasteur,Rue Cambronne,Place de la République Dominicaine,Boulevard de Grenelle
+126,"In the Paris area, which road cannot directly reach Rue Frémicourt?",D,Boulevard Garibaldi,Rue Cambronne,Boulevard de Grenelle,Rue Pasquier
+127,"In the Paris area, which road cannot directly reach Rue Cambronne?",C,Boulevard de Grenelle,Boulevard Garibaldi,Avenue Denfert-Rochereau,Rue Frémicourt
+128,"In the Paris area, which road cannot directly reach Boulevard de Grenelle?",D,Avenue de la Motte-Picquet,Rue Frémicourt,Rue de la Croix Nivert,Quai de Montebello
+129,"In the Paris area, which road cannot directly reach Place de la Porte de Vanves?",D,Boulevard Lefebvre,Rue Julia Bartet,Avenue de la Porte de Vanves,Avenue de la Motte-Picquet
+130,"In the Paris area, which road cannot directly reach Rue Vercingétorix?",D,Boulevard Brune,Boulevard Lefebvre,Place de la Porte de Vanves,Rue Froissart
+131,"In the Paris area, which road cannot directly reach Boulevard Brune?",B,Rue Didot,Rue Louis-le-Grand,Boulevard Lefebvre,Rue Vercingétorix
+132,"In the Paris area, which road cannot directly reach Avenue Gambetta?",A,Avenue Daumesnil,Rue des Pyrénées,Avenue de la République,Boulevard de Ménilmontant
+133,"In the Paris area, which road cannot directly reach Boulevard de Ménilmontant?",B,Boulevard de Charonne,Rue du Chemin Vert,Rue de la Roquette,Avenue de la République
+134,"In the Paris area, which road directly reaches Rue Clovis?",A,Rue Monge,Avenue de la Liberté,Rue de Lobau,Avenue du Général Leclerc
+135,"In the Paris area, which road cannot directly reach Rue du Vieux Colombier?",A,Boulevard Davout,Place Michel Debré,Rue Saint-Sulpice,Rue de Rennes
+136,"In the Paris area, which road directly reaches Avenue Niel?",D,Rue du Four,Place Étienne Pernet,Rue Jussieu,Avenue des Ternes
+137,"In the Paris area, which road cannot directly reach Boulevard Saint-Germain?",C,Rue des Saints-Pères,Boulevard Raspail,Boulevard Haussmann,Carrefour de l'Odéon
+138,"In the Paris area, which road cannot directly reach Quai Saint-Bernard?",C,Quai d'Austerlitz,Pont d'Austerlitz,Boulevard de Sébastopol,Place Valhubert
+139,"In the Paris area, which road cannot directly reach Place du 18 Juin 1940?",D,Rue de Rennes,Boulevard du Montparnasse,Rue du Départ,Rue du Commandant René Mouchotte
+140,"In the Paris area, which road cannot directly reach Avenue de Flandre?",A,Avenue Myron Herrick,Avenue Jean Jaurès,Rue de Crimée,Rue du Faubourg Saint-Martin
+141,"In the Paris area, which road cannot directly reach Rue du Faubourg Saint-Martin?",B,Rue La Fayette,Place de Narvik,Boulevard de Magenta,Place de la Bataille de Stalingrad
+142,"In the Paris area, which road cannot directly reach Boulevard de la Villette?",D,Avenue Secrétan,Rue d'Aubervilliers,Place de la Bataille de Stalingrad,Rue de Rambouillet
+143,"In the Paris area, which road cannot directly reach Avenue des Nations-Unies?",B,Avenue Albert de Mun,Quai de Jemmapes,Avenue de New York,Avenue d'Iéna
+144,"In the Paris area, which road cannot directly reach Avenue de Breteuil?",D,Place Vauban,Rue de Sèvres,Avenue Duquesne,Rue Villiot
+145,"In the Paris area, which road cannot directly reach Boulevard Pasteur?",B,Boulevard Garibaldi,Boulevard Richard-Lenoir,Rue du Château,Rue de Sèvres
+146,"In the Paris area, which road cannot directly reach Rue Jeanne d'Arc?",D,Boulevard Vincent Auriol,Place Jeanne d'Arc,Rue de Tolbiac,Rue Haxo
+147,"In the Paris area, which road cannot directly reach Boulevard d'Indochine?",A,Boulevard des Filles du Calvaire,Avenue de la Porte Chaumont,Avenue de la Porte Brunet,Boulevard d'Algérie
+148,"In the Paris area, which road cannot directly reach Avenue de la Porte Chaumont?",B,Rue Honoré d'Estienne d'Orves,Avenue du Président Wilson,Boulevard Sérurier,Boulevard d'Indochine
+149,"In the Paris area, which road cannot directly reach Place Denfert-Rochereau?",C,Avenue du Colonel Henri Rol Tanguy,Avenue Denfert-Rochereau,Rue de Courcelles,Boulevard Raspail
+150,"In the Paris area, which road cannot directly reach Boulevard Auguste Blanqui?",A,Quai d'Austerlitz,Rue de la Glacière,Boulevard Arago,Place d'Italie
+151,"In the Paris area, which road cannot directly reach Avenue Denfert-Rochereau?",D,Boulevard Arago,Place Denfert-Rochereau,Avenue du Colonel Henri Rol Tanguy,Rue de Reuilly
+152,"In the Paris area, which road cannot directly reach Avenue du Colonel Henri Rol Tanguy?",A,Rue Raymond Losserand,Boulevard Auguste Blanqui,Avenue Denfert-Rochereau,Boulevard Arago
+153,"In the Paris area, which road cannot directly reach Rue Claude Bernard?",A,Rue La Boétie,Rue Monge,Boulevard Saint-Michel,Rue de Médicis
+154,"In the Paris area, which road cannot directly reach Rue Soufflot?",A,Quai de Montebello,Rue de Médicis,Boulevard Saint-Michel,Rue Claude Bernard
+155,"In the Paris area, which road cannot directly reach Rue de Médicis?",A,Boulevard Haussmann,Rue Soufflot,Rue de Vaugirard,Rue Claude Bernard
+156,"In the Paris area, which road cannot directly reach Boulevard Saint-Michel?",A,Avenue de Wagram,Avenue de l'Observatoire,Rue Claude Bernard,Rue de Médicis
+157,"In the Paris area, which road cannot directly reach Boulevard des Invalides?",B,Rue de Sèvres,Boulevard de Bercy,Rue Duroc,Avenue de Villars
+158,"In the Paris area, which road cannot directly reach Boulevard Davout?",A,Rue d'Avron,Rue de Bagnolet,Boulevard Mortier,Avenue de la Porte de Bagnolet
+159,"In the Paris area, which road cannot directly reach Avenue de la Porte de Bagnolet?",C,Rue de Bagnolet,Boulevard Davout,Boulevard Vincent Auriol,Boulevard Mortier
+160,"In the Paris area, which road cannot directly reach Rue de Bagnolet?",D,Boulevard Davout,Avenue de la Porte de Bagnolet,Boulevard Mortier,Avenue du Docteur Arnold Netter
+161,"In the Paris area, which road directly reaches Rue Belgrand?",B,Boulevard du Général d'Armée Jean Simon,Avenue Gambetta,Avenue Niel,Rue du Commandant René Mouchotte
+162,"In the Paris area, which road cannot directly reach Rue de Fourcy?",D,Pont Marie,Quai des Célestins,Quai de l'Hôtel de Ville,Avenue d'Italie
+163,"In the Paris area, which road cannot directly reach Quai de l'Hôtel de Ville?",A,Rue de Constantine,Rue de Lobau,Quai de Gesvres,Quai des Célestins
+164,"In the Paris area, which road cannot directly reach Quai des Célestins?",B,Rue de Fourcy,Avenue de la Grande Armée,Rue Saint-Paul,Pont de Sully
+165,"In the Paris area, which road cannot directly reach Pont Marie?",B,Rue de Fourcy,Rue de la Santé,Quai de l'Hôtel de Ville,Quai des Célestins
+166,"In the Paris area, which road cannot directly reach Rue de Ménilmontant?",C,Avenue Gambetta,Boulevard de Ménilmontant,Place Valhubert,Rue des Pyrénées
+167,"In the Paris area, which road cannot directly reach Place Valhubert?",A,Quai de l'Hôtel de Ville,Quai d'Austerlitz,Quai Saint-Bernard,Boulevard de l'Hôpital
+168,"In the Paris area, which road cannot directly reach Pont d'Austerlitz?",C,Quai Saint-Bernard,Place Valhubert,Rue Riquet,Quai d'Austerlitz
+169,"In the Paris area, which road cannot directly reach Rue du Départ?",B,Place du 18 Juin 1940,Quai des Tuileries,Boulevard du Montparnasse,Avenue du Maine
+170,"In the Paris area, which road cannot directly reach Rue de l'Amiral Mouchez?",A,Place de la Résistance,Rue de la Santé,Rue de Tolbiac,Rue d'Alésia
+171,"In the Paris area, which road cannot directly reach Rue d'Alésia?",D,Rue de Tolbiac,Rue Raymond Losserand,Rue Didot,Rue du Four
+172,"In the Paris area, which road cannot directly reach Rue de la Santé?",B,Rue de l'Amiral Mouchez,Boulevard des Capucines,Rue d'Alésia,Passage Victor Marchand
+173,"In the Paris area, which road cannot directly reach Rue Froidevaux?",D,Rue Jean Zay,Place Denfert-Rochereau,Avenue du Maine,Place de l'Alma
+174,"In the Paris area, which road cannot directly reach Avenue du Maine?",B,Avenue du Général Leclerc,Rue de Chalon,Rue Froidevaux,Rue du Commandant René Mouchotte
+175,"In the Paris area, which road cannot directly reach Rue Jean Zay?",D,Avenue du Maine,Rue du Commandant René Mouchotte,Rue Froidevaux,Place du Châtelet
+176,"In the Paris area, which road cannot directly reach Boulevard des Capucines?",B,Avenue de l'Opéra,Rue des Pyrénées,Place Henri Salvador,Rue Auber
+177,"In the Paris area, which road cannot directly reach Rue Auber?",D,Boulevard des Capucines,Avenue de l'Opéra,Rue de la Paix,Quai du Louvre
+178,"In the Paris area, which road cannot directly reach Avenue de l'Opéra?",B,Boulevard des Capucines,Boulevard de Belleville,Rue de la Paix,Rue Danielle Casanova
+179,"In the Paris area, which road cannot directly reach Rue de la Paix?",C,Rue Danielle Casanova,Avenue de l'Opéra,Quai Voltaire,Place Vendôme
+180,"In the Paris area, which road directly reaches Rue de la Pépinière?",B,Boulevard du Temple,Rue Saint-Lazare,Rue de la Santé,Rue de l'Amiral Mouchez
+181,"In the Paris area, which road cannot directly reach Rue Saint-Lazare?",B,Rue Blanche,Boulevard Soult,Rue de Rome,Rue de la Pépinière
+182,"In the Paris area, which road cannot directly reach Avenue Franklin Delano Roosevelt?",D,Place du Canada,Avenue des Champs-Élysées,Rue La Boétie,Rue Pétel
+183,"In the Paris area, which road cannot directly reach Avenue des Champs-Élysées?",C,Place du Canada,Place Clemenceau,Rue de Reuilly,Place de la Concorde
+184,"In the Paris area, which road directly reaches Place du Canada?",B,Place de la Madeleine,Avenue Franklin Delano Roosevelt,Boulevard Auguste Blanqui,Rue Didot
+185,"In the Paris area, which road cannot directly reach Rue Faidherbe?",B,Rue de Reuilly,Avenue du Maréchal Gallieni,Rue de Charonne,Rue du Faubourg Saint-Antoine
+186,"In the Paris area, which road cannot directly reach Rue du Faubourg Saint-Antoine?",D,Place de la Bastille,Rue de Reuilly,Place de la Nation,Avenue de la Porte de Charenton
+187,"In the Paris area, which road directly reaches Rue de Reuilly?",D,Place de l'Amiral de Grasse,Boulevard Barbès,Rue Tronchet,Rue du Faubourg Saint-Antoine
+188,"In the Paris area, which road cannot directly reach Boulevard de l'Hôpital?",B,Boulevard Saint-Marcel,Rue de Bretagne,Avenue des Gobelins,Place d'Italie
+189,"In the Paris area, which road directly reaches Boulevard Jules Ferry?",C,Avenue d'Iéna,Rue Commines,Avenue de la République,Rue Pasquier
+190,"In the Paris area, which road cannot directly reach Boulevard Richard-Lenoir?",D,Boulevard Voltaire,Rue Oberkampf,Boulevard Beaumarchais,Boulevard Malesherbes
+191,"In the Paris area, which road directly reaches Rue de Wattignies?",A,Rue de Charenton,Quai d'Orsay,Boulevard de la Chapelle,Avenue Claude Vellefaux
+192,"In the Paris area, which road directly reaches Place de la Chapelle?",D,Boulevard Edgar Quinet,Boulevard du Général d'Armée Jean Simon,Rue Lagrange,Boulevard de la Chapelle
+193,"In the Paris area, which road directly reaches Quai Branly?",C,Avenue de Ségur,Avenue Jean Jaurès,Quai Jacques Chirac,Quai de Jemmapes
+194,"In the Paris area, which road directly reaches Rue Taine?",A,Rue Proudhon,Avenue Simón Bolívar,Avenue Victor Hugo,Avenue du Colonel Henri Rol Tanguy
+195,"In the Paris area, which road cannot directly reach Rue Proudhon?",B,Rue Taine,Boulevard Pereire,Rue Lachambeaudie,Rue de Charenton
+196,"In the Paris area, which road cannot directly reach Rue du Chemin Vert?",D,Boulevard Richard-Lenoir,Boulevard Beaumarchais,Boulevard Voltaire,Boulevard Poniatowski
+197,"In the Paris area, which road cannot directly reach Place de la République?",D,Boulevard Voltaire,Boulevard de Magenta,Avenue de la République,Rue Danton
+198,"In the Paris area, which road cannot directly reach Boulevard Saint-Denis?",B,Place de la République,Rue des Deux Ponts,Boulevard Poissonnière,Rue du Faubourg Saint-Martin
+199,"In the Paris area, which road cannot directly reach Rue de Bercy?",B,Rue de Rambouillet,Boulevard Haussmann,Rue Villiot,Boulevard de Bercy
+200,"In the Paris area, which road directly reaches Place Saint-Augustin?",D,Place de la Porte de Champerret,Rue des Pyrénées,Boulevard de la Villette,Rue du Faubourg Saint-Honoré
+201,"In the Paris area, which road cannot directly reach Boulevard des Filles du Calvaire?",D,Rue Froissart,Boulevard Beaumarchais,Rue Commines,Avenue de la Porte Chaumont
+202,"In the Paris area, which road directly reaches Rue Commines?",B,Boulevard de Charonne,Boulevard des Filles du Calvaire,Pont de la Tournelle,Avenue de l'Opéra
+203,"In the Paris area, which road cannot directly reach Rue Oberkampf?",D,Boulevard Richard-Lenoir,Boulevard Voltaire,Boulevard de Belleville,Rue de Châteaudun
+204,"In the Paris area, which road directly reaches Rue Baron Le Roy?",B,Pont Neuf,Place Lachambeaudie,Rue de Châteaudun,Rue du Grenier Saint-Lazare
+205,"In the Paris area, which road cannot directly reach Boulevard Edgar Quinet?",A,Rue du Général de Langle de Cary,Avenue du Maine,Boulevard Raspail,Rue du Départ
+206,"In the Paris area, which road cannot directly reach Boulevard de la Tour Maubourg?",B,Rue de Grenelle,Rue Danielle Casanova,Quai d'Orsay,Avenue de Tourville
+207,"In the Paris area, which road cannot directly reach Avenue Ledru-Rollin?",B,Rue de Lyon,Avenue de la Grande Armée,Rue du Faubourg Saint-Antoine,Rue de Charonne
+208,"In the Paris area, which road directly reaches Boulevard de Strasbourg?",D,Quai de Jemmapes,Quai de l'Hôtel de Ville,Rue Damrémont,Boulevard de Magenta
+209,"In the Paris area, which road cannot directly reach Rue de Vouillé?",C,Rue de la Convention,Place de Catalogne,Avenue Mathurin Moreau,Rue d'Alésia
+210,"In the Paris area, which road cannot directly reach Rue Brancion?",A,Quai de Gesvres,Boulevard Lefebvre,Rue de Vouillé,Rue de la Convention
+211,"In the Paris area, which road cannot directly reach Cours la Reine?",D,Pont Alexandre III,Pont de la Concorde,Voie Georges-Pompidou,Place Édouard Renard
+212,"In the Paris area, which road cannot directly reach Rue de Tournon?",A,Boulevard Lefebvre,Rue de Seine,Carrefour de l'Odéon,Rue de Vaugirard
+213,"In the Paris area, which road cannot directly reach Rue de Seine?",C,Rue de Tournon,Carrefour de l'Odéon,Avenue de la Porte de la Plaine,Boulevard Saint-Germain
+214,"In the Paris area, which road cannot directly reach Carrefour de l'Odéon?",D,Rue de Seine,Rue de Tournon,Boulevard Saint-Germain,Avenue du Général Leclerc
+215,"In the Paris area, which road cannot directly reach Rue Danielle Casanova?",C,Avenue de l'Opéra,Place Vendôme,Rue Bonaparte,Rue de la Paix
+216,"In the Paris area, which road directly reaches Place Vendôme?",C,Rue du Faubourg Montmartre,Pont des Invalides,Rue de la Paix,Rue Lachambeaudie
+217,"In the Paris area, which road directly reaches Avenue Winston Churchill?",B,Pont de la Concorde,Place Clemenceau,Rue Caulaincourt,Boulevard de la Bastille
+218,"In the Paris area, which road cannot directly reach Rue de Constantinople?",D,Boulevard des Batignolles,Rue de Rome,Place Prosper Goubaux,Cours Albert-Iᵉʳ
+219,"In the Paris area, which road cannot directly reach Pont de la Concorde?",D,Place de la Concorde,Cours la Reine,Quai Anatole France,Boulevard Henri IV
+220,"In the Paris area, which road directly reaches Quai Anatole France?",A,Pont de la Concorde,Rue de Richelieu,Rue de Lobau,Rue du Faubourg du Temple
+221,"In the Paris area, which road directly reaches Rue des Filles du Calvaire?",A,Rue de Turenne,Port de Bercy,Rue Corneille,Rue Nationale
+222,"In the Paris area, which road cannot directly reach Rue de Turenne?",B,Rue Saint-Antoine,Avenue des Champs-Élysées,Rue des Francs Bourgeois,Rue de Bretagne
+223,"In the Paris area, which road cannot directly reach Rue de Bretagne?",D,Rue des Filles du Calvaire,Rue de Turenne,Rue des Archives,Quai Jacques Chirac
+224,"In the Paris area, which road directly reaches Rue du Havre?",C,Rue Saint-Antoine,Rue La Boétie,Rue Tronchet,Place Théophile Bader
+225,"In the Paris area, which road cannot directly reach Rue Tronchet?",D,Rue du Havre,Boulevard Haussmann,Place de la Madeleine,Avenue de la Porte de Charenton
+226,"In the Paris area, which road cannot directly reach Rue Villiot?",C,Rue de Bercy,Rue de Rambouillet,Place Vendôme,Quai de la Rapée
+227,"In the Paris area, which road cannot directly reach Rue de Rambouillet?",D,Rue Villiot,Rue de Bercy,Avenue Daumesnil,Avenue des Nations-Unies
+228,"In the Paris area, which road directly reaches Rue de Lisbonne?",B,Rue Falguière,Avenue de Messine,Avenue de Ségur,Pont des Invalides
+229,"In the Paris area, which road directly reaches Rue Duroc?",B,Rue Eblé,Place de Breteuil,Rue de la Pépinière,Avenue du Président Wilson
+230,"In the Paris area, which road cannot directly reach Avenue de Villars?",C,Place Vauban,Avenue de Tourville,Rue Geoffroy Saint-Hilaire,Boulevard des Invalides
+231,"In the Paris area, which road cannot directly reach Place Vauban?",C,Avenue de Tourville,Avenue de Ségur,Avenue de la Porte Brunet,Avenue de Villars
+232,"In the Paris area, which road cannot directly reach Avenue de la Porte Brunet?",B,Boulevard Sérurier,Quai du Louvre,Boulevard d'Indochine,Boulevard d'Algérie
+233,"In the Paris area, which road directly reaches Avenue Secrétan?",C,Rue du Bac,Avenue Claude Vellefaux,Avenue Mathurin Moreau,Rue Belgrand
+234,"In the Paris area, which road cannot directly reach Avenue Mathurin Moreau?",B,Avenue Secrétan,Rue du Commandant René Mouchotte,Place du Colonel Fabien,Rue Manin
+235,"In the Paris area, which road cannot directly reach Avenue Albert de Mun?",C,Avenue des Nations-Unies,Avenue d'Iéna,Cours de Vincennes,Avenue du Président Wilson
+236,"In the Paris area, which road cannot directly reach Place de la Concorde?",D,Rue Royale,Pont de la Concorde,Cours la Reine,Boulevard Montmartre
+237,"In the Paris area, which road directly reaches Avenue de la Porte Brancion?",D,Rue Méhul,Rue Berthollet,Boulevard Poniatowski,Rue Brancion
+238,"In the Paris area, which road cannot directly reach Pont National?",D,Boulevard du Général d'Armée Jean Simon,Boulevard Poniatowski,Rue Robert-Etlin,Rue de Vouillé
+239,"In the Paris area, which road cannot directly reach Rue Robert-Etlin?",A,Rue du Bac,Rue du Général de Langle de Cary,Boulevard Poniatowski,Pont National
+240,"In the Paris area, which road cannot directly reach Rue du Général de Langle de Cary?",B,Pont National,Boulevard Soult,Rue Robert-Etlin,Boulevard Poniatowski
+241,"In the Paris area, which road cannot directly reach Boulevard Montmartre?",B,Boulevard Poissonnière,Rue de Lyon,Boulevard des Italiens,Rue Montmartre
+242,"In the Paris area, which road cannot directly reach Boulevard Poissonnière?",D,Boulevard Montmartre,Rue du Faubourg Poissonnière,Rue Montmartre,Avenue de l'Observatoire
+243,"In the Paris area, which road cannot directly reach Rue Montmartre?",C,Boulevard Montmartre,Boulevard Poissonnière,Rue Saint-Paul,Rue du Quatre Septembre
+244,"In the Paris area, which road cannot directly reach Boulevard d'Algérie?",D,Avenue de la Porte Brunet,Avenue de la Porte du Pré Saint-Gervais,Boulevard d'Indochine,Rue du Havre
+245,"In the Paris area, which road cannot directly reach Rue de Grenelle?",C,Avenue de la Motte-Picquet,Rond-Point du Bleuet de France,Rue Danielle Casanova,Boulevard de la Tour Maubourg
+246,"In the Paris area, which road cannot directly reach Rue de Varenne?",A,Boulevard Beaumarchais,Boulevard Raspail,Boulevard des Invalides,Rue de Grenelle
+247,"In the Paris area, which road cannot directly reach Rue Lecourbe?",A,Rue Bobillot,Rue Pétel,Rue de la Convention,Rue Cambronne
+248,"In the Paris area, which road cannot directly reach Rue Manin?",B,Avenue Simón Bolívar,Quai Branly,Avenue Mathurin Moreau,Rue de Crimée
+249,"In the Paris area, which road directly reaches Rue Cardinet?",C,Quai de Jemmapes,Boulevard de l'Hôpital,Rue de Rome,Rue Corneille
+250,"In the Paris area, which road directly reaches Rue Blanche?",D,Pont de l'Alma,Place de Breteuil,Rue de Charenton,Rue Saint-Lazare
+251,"In the Paris area, which road cannot directly reach Boulevard Diderot?",C,Rue Van Gogh,Avenue Daumesnil,Rue Proudhon,Rue de Chalon
+252,"In the Paris area, which road directly reaches Rue Saint-Jacques?",C,Place Henri Salvador,Boulevard des Italiens,Rue des Écoles,Boulevard du Général d'Armée Jean Simon
+253,"In the Paris area, which road cannot directly reach Place Michel Debré?",A,Rue des Fossés Saint-Bernard,Rue de Rennes,Rue des Saints-Pères,Rue du Vieux Colombier
+254,"In the Paris area, which road cannot directly reach Rue du Commandant René Mouchotte?",D,Rue Jean Zay,Place de Catalogne,Rue du Départ,Avenue de Villars
+255,"In the Paris area, which road directly reaches Boulevard du Temple?",C,Quai de Bercy,Avenue Jean Jaurès,Boulevard des Filles du Calvaire,Rue de Charonne
+256,"In the Paris area, which road cannot directly reach Rue Caulaincourt?",B,Rue Damrémont,Rue Méhul,Boulevard de Clichy,Rue Custine
+257,"In the Paris area, which road directly reaches Boulevard de la Madeleine?",D,Rue de Solférino,Avenue de Tourville,Boulevard du Temple,Place Henri Salvador
+258,"In the Paris area, which road cannot directly reach Place Henri Salvador?",B,Boulevard des Capucines,Rue de Londres,Boulevard de la Madeleine,Rue des Capucines
+259,"In the Paris area, which road cannot directly reach Rue Paul Barruel?",D,Rue Cambronne,Rue du Docteur Roux,Rue Saint-Amand,Rue du Faubourg Saint-Honoré
+260,"In the Paris area, which road cannot directly reach Rue Saint-Amand?",D,Rue de Vouillé,Rue Paul Barruel,Rue du Docteur Roux,Place de la République
+261,"In the Paris area, which road directly reaches Rue du Docteur Roux?",D,Quai Henri IV,Place Valhubert,Rue Danton,Rue Paul Barruel
+262,"In the Paris area, which road cannot directly reach Rue Nationale?",D,Rue de Tolbiac,Place Nationale,Boulevard Vincent Auriol,Place du Maroc
+263,"In the Paris area, which road directly reaches Avenue de la Porte de Vanves?",D,Boulevard d'Algérie,Rue des Pyrénées,Rue de Turenne,Place de la Porte de Vanves
+264,"In the Paris area, which road directly reaches Rue Julia Bartet?",D,Rue La Boétie,Place du Maquis du Vercors,Boulevard de Grenelle,Place de la Porte de Vanves
+265,"In the Paris area, which road directly reaches Rue La Boétie?",A,Avenue Franklin Delano Roosevelt,Rue Lecourbe,Place du 18 Juin 1940,Avenue de Taillebourg
+266,"In the Paris area, which road directly reaches Rue de Solférino?",D,Boulevard Lefebvre,Avenue de Gravelle,Place Vauban,Quai Valéry Giscard d'Estaing
+267,"In the Paris area, which road directly reaches Boulevard Berthier?",C,Place Vauban,Avenue de la Porte Chaumont,Avenue de Villiers,Place de la Madeleine
+268,"In the Paris area, which road directly reaches Boulevard Marguerite de Rochechouart?",A,Boulevard de Clichy,Avenue du Président Wilson,Boulevard des Invalides,Rue Honoré d'Estienne d'Orves
+269,"In the Paris area, which road cannot directly reach Rue de Châteaudun?",C,Rue du Faubourg Montmartre,Rue de Maubeuge,Avenue du Trône,Rue La Fayette
+270,"In the Paris area, which road directly reaches Rue de Maubeuge?",D,Boulevard du Temple,Place Jeanne d'Arc,Rue de Crimée,Rue de Châteaudun
+271,"In the Paris area, which road directly reaches Avenue de la Porte de la Plaine?",D,Place Henri Salvador,Rue de Constantine,Place Denfert-Rochereau,Place des Insurgés de Varsovie
+272,"In the Paris area, which road directly reaches Place d'Estienne d'Orves?",A,Boulevard de Clichy,Place du Maréchal Juin,Rue Jacques Baudry,Rue Blanche
+273,"In the Paris area, which road cannot directly reach Place de Clichy?",D,Place d'Estienne d'Orves,Boulevard des Batignolles,Boulevard de Clichy,Rue des Fêtes
+274,"In the Paris area, which road cannot directly reach Boulevard de Reuilly?",C,Boulevard de Bercy,Place Félix Éboué,Rue Cardinet,Boulevard de Picpus
+275,"In the Paris area, which road directly reaches Rue du Château?",D,Avenue René Coty,Rue de Belleville,Avenue Denfert-Rochereau,Boulevard Pasteur
+276,"In the Paris area, which road cannot directly reach Boulevard de Vaugirard?",A,Boulevard Voltaire,Place du 18 Juin 1940,Rue du Château,Boulevard Pasteur
+277,"In the Paris area, which road cannot directly reach Rue de Vienne?",D,Rue de Saint-Pétersbourg,Rue de Londres,Rue de Rome,Voie Georges-Pompidou
+278,"In the Paris area, which road cannot directly reach Avenue de Gravelle?",B,Rue de Paris,Rue Lagrange,Avenue de la Porte de Charenton,Avenue de la Liberté
+279,"In the Paris area, which road directly reaches Rue de Paris?",A,Avenue de Gravelle,Place Vauban,Pont Morland,Place de la Résistance
+280,"In the Paris area, which road directly reaches Avenue de Taillebourg?",C,Boulevard Brune,Rue Cardinet,Place de la Nation,Rue La Fayette
+281,"In the Paris area, which road cannot directly reach Place de Catalogne?",A,Rue de Sèvres,Rue Jean Zay,Boulevard Pasteur,Rue de Vouillé
+282,"In the Paris area, which road cannot directly reach Rue du 8 Mai 1945?",A,Avenue Mac-Mahon,Rue du Faubourg Saint-Martin,Boulevard de Strasbourg,Boulevard de Magenta
+283,"In the Paris area, which road cannot directly reach Place de la Bastille?",C,Boulevard Henri IV,Rue de Lyon,Avenue Parmentier,Boulevard Beaumarchais
+284,"In the Paris area, which road cannot directly reach Boulevard Beaumarchais?",B,Rue du Chemin Vert,Rue Halévy,Place de la Bastille,Boulevard des Filles du Calvaire
+285,"In the Paris area, which road cannot directly reach Boulevard de Sébastopol?",D,Boulevard Saint-Denis,Rue de Turbigo,Rue Réaumur,Boulevard de la Madeleine
+286,"In the Paris area, which road directly reaches Avenue de la Porte du Pré Saint-Gervais?",D,Rue Geoffroy Saint-Hilaire,Boulevard Saint-Michel,Avenue du Colonel Henri Rol Tanguy,Boulevard Sérurier
+287,"In the Paris area, which road directly reaches Rue des Francs Bourgeois?",A,Rue de Turenne,Boulevard de la Villette,Place de la Chapelle,Boulevard Henri IV
+288,"In the Paris area, which road directly reaches Avenue du Général Leclerc?",C,Pont de l'Alma,Rue de la Pépinière,Avenue du Maine,Boulevard de Ménilmontant
+289,"In the Paris area, which road cannot directly reach Boulevard des Italiens?",D,Boulevard Montmartre,Rue Louis-le-Grand,Rue Le Peletier,Rue André Joineau
+290,"In the Paris area, which road directly reaches Rue Jean-Baptiste Berlier?",C,Avenue de New York,Boulevard Saint-Germain,Quai d'Ivry,Quai de Conti
+291,"In the Paris area, which road directly reaches Quai Saint-Michel?",A,Boulevard Saint-Michel,Rue Jean Zay,Rue de Seine,Rue Nationale
+292,"In the Paris area, which road directly reaches Boulevard Bourdon?",B,Rue Tronchet,Pont Morland,Rue de Wattignies,Rue de Belleville
+293,"In the Paris area, which road directly reaches Pont Morland?",D,Boulevard Brune,Quai de Gesvres,Place Étienne Pernet,Quai de la Rapée
+294,"In the Paris area, which road directly reaches Rue des Grands Moulins?",A,Avenue de France,Rue Bobillot,Avenue de la Porte Chaumont,Rue Gaston Boissier
+295,"In the Paris area, which road directly reaches Rue Saint-Paul?",A,Quai des Célestins,Place Jeanne d'Arc,Place de Varsovie,Voie Mazas
+296,"In the Paris area, which road directly reaches Place Clemenceau?",D,Avenue Victor Hugo,Boulevard de Courcelles,Rue Damrémont,Avenue des Champs-Élysées
+297,"In the Paris area, which road directly reaches Boulevard Gouvion-Saint-Cyr?",C,Rue de Solférino,Avenue Mathurin Moreau,Avenue de Villiers,Rue Bonaparte
+298,"In the Paris area, which road cannot directly reach Place de la Porte de Champerret?",C,Boulevard Gouvion-Saint-Cyr,Rue du Caporal Peugeot,Rue Riquet,Avenue de Villiers
+299,"In the Paris area, which road cannot directly reach Avenue de Messine?",D,Boulevard Haussmann,Rue de Lisbonne,Place de Narvik,Rue du Vieux Colombier
+300,"In the Paris area, which road directly reaches Rue des Entrepreneurs?",D,Boulevard Berthier,Avenue Pierre Mendès France,Place d'Estienne d'Orves,Place Étienne Pernet
+301,"In the Paris area, which road directly reaches Place Étienne Pernet?",C,Rue Froidevaux,Boulevard des Filles du Calvaire,Avenue Félix Faure,Rue Halévy
+302,"In the Paris area, which road cannot directly reach Rue Royale?",C,Boulevard Malesherbes,Place de la Concorde,Boulevard Marguerite de Rochechouart,Rue du Faubourg Saint-Honoré
+303,"In the Paris area, which road directly reaches Rue Danton?",B,Avenue Secrétan,Place Saint-Michel,Avenue de New York,Avenue de Villars
+304,"In the Paris area, which road directly reaches Rue de Constantine?",D,Avenue de la République,Avenue des Nations-Unies,Avenue de la Liberté,Rue de Grenelle
+305,"In the Paris area, which road directly reaches Rue André Joineau?",B,Boulevard Garibaldi,Rue Honoré d'Estienne d'Orves,Place Nationale,Quai de la Rapée
+306,"In the Paris area, which road directly reaches Rue Méhul?",D,Rue Saint-Paul,Place Joffre,Boulevard Diderot,Rue Honoré d'Estienne d'Orves
+307,"In the Paris area, which road cannot directly reach Rue Honoré d'Estienne d'Orves?",B,Rue Méhul,Place d'Italie,Rue André Joineau,Avenue de la Porte Chaumont
+308,"In the Paris area, which road directly reaches Avenue René Coty?",D,Avenue Winston Churchill,Rue Custine,Avenue Mac-Mahon,Place Denfert-Rochereau
+309,"In the Paris area, which road cannot directly reach Rue Dante?",B,Boulevard Saint-Germain,Avenue Franklin Delano Roosevelt,Place du Petit Pont,Rue Lagrange
+310,"In the Paris area, which road directly reaches Place du Petit Pont?",B,Avenue Mac-Mahon,Boulevard Saint-Germain,Pont Charles de Gaulle,Rue Haxo
+311,"In the Paris area, which road cannot directly reach Place Prosper Goubaux?",B,Avenue de Villiers,Avenue de la Porte Brancion,Boulevard des Batignolles,Rue de Constantinople
+312,"In the Paris area, which road directly reaches Rue Damrémont?",A,Rue Caulaincourt,Pont de la Tournelle,Rue du Caporal Peugeot,Place Michel Debré
+313,"In the Paris area, which road cannot directly reach Rue Custine?",B,Rue Caulaincourt,Rue Soufflot,Rue Damrémont,Boulevard Barbès
+314,"In the Paris area, which road cannot directly reach Rue de Turbigo?",A,Avenue de Saint-Mandé,Rue Étienne Marcel,Rue Saint-Martin,Rue Réaumur
+315,"In the Paris area, which road cannot directly reach Rue Réaumur?",B,Rue Saint-Martin,Boulevard de Strasbourg,Boulevard de Sébastopol,Rue du Temple
+316,"In the Paris area, which road directly reaches Rue Halévy?",C,Rue Jussieu,Rue du Faubourg Saint-Honoré,Place Théophile Bader,Boulevard Marguerite de Rochechouart
+317,"In the Paris area, which road cannot directly reach Place Théophile Bader?",D,Rue de la Chaussée-d'Antin,Rue Le Peletier,Boulevard Haussmann,Boulevard Barbès
+318,"In the Paris area, which road cannot directly reach Rue de Lyon?",B,Avenue Daumesnil,Rue Halévy,Place de la Bastille,Boulevard Diderot
+319,"In the Paris area, which road directly reaches Rue de Saussure?",C,Rue Saint-Sulpice,Quai Anatole France,Boulevard Pereire,Rue Pasquier
+320,"In the Paris area, which road cannot directly reach Rue du Grenier Saint-Lazare?",D,Rue Beaubourg,Rue Étienne Marcel,Boulevard de Sébastopol,Rue Lachambeaudie
+321,"In the Paris area, which road cannot directly reach Boulevard de Belleville?",D,Rue de Ménilmontant,Rue Oberkampf,Rue de Belleville,Quai de l'Hôtel de Ville
+322,"In the Paris area, which road cannot directly reach Avenue Simón Bolívar?",C,Rue de Belleville,Rue Manin,Rue Honoré d'Estienne d'Orves,Rue des Pyrénées
+323,"In the Paris area, which road directly reaches Rue Botzaris?",B,Rue de la Pépinière,Avenue Simón Bolívar,Boulevard de Courcelles,Rue Pétel
+324,"In the Paris area, which road directly reaches Rue du Cherche-Midi?",C,Rue de Lyon,Rue Van Gogh,Boulevard du Montparnasse,Pont de l'Alma
+325,"In the Paris area, which road directly reaches Rue Van Gogh?",B,Boulevard Soult,Rue de Chalon,Avenue Philippe Auguste,Rue du Havre
+326,"In the Paris area, which road cannot directly reach Rue de Chalon?",B,Boulevard Diderot,Boulevard Pasteur,Rue Van Gogh,Rue de Rambouillet
+327,"In the Paris area, which road cannot directly reach Rue des Fossés Saint-Marcel?",D,Rue Jussieu,Rue Geoffroy Saint-Hilaire,Boulevard Saint-Marcel,Quai François Mitterrand
+328,"In the Paris area, which road directly reaches Rue Haxo?",D,Rue Geoffroy Saint-Hilaire,Rue Bobillot,Rue de Constantinople,Rue de Belleville
+329,"In the Paris area, which road cannot directly reach Rue Riquet?",C,Rue d'Aubervilliers,Avenue de Flandre,Avenue du Maine,Rue de Tanger
+330,"In the Paris area, which road directly reaches Avenue de la Liberté?",A,Avenue de Gravelle,Rue Soufflot,Boulevard Garibaldi,Boulevard Sérurier
+331,"In the Paris area, which road directly reaches Rue Froissart?",A,Boulevard des Filles du Calvaire,Rue Raymond Losserand,Place de la Madeleine,Place des Ternes
+332,"In the Paris area, which road directly reaches Rue Doudeauville?",A,Boulevard Barbès,Rue du Départ,Rue Robert-Etlin,Place de la République
+333,"In the Paris area, which road directly reaches Rue Saint-Honoré?",A,Rue du Louvre,Rue de la Croix Nivert,Rue Didot,Avenue Gambetta
+334,"In the Paris area, which road directly reaches Rue du Temple?",D,Avenue du Colonel Henri Rol Tanguy,Rue Riquet,Avenue Victoria,Place de la République
+335,"In the Paris area, which road cannot directly reach Rue du Faubourg Poissonnière?",A,Rue des Francs Bourgeois,Boulevard Saint-Denis,Rue La Fayette,Boulevard Poissonnière
+336,"In the Paris area, which road directly reaches Rue Pasquier?",C,Avenue de l'Observatoire,Avenue du Maine,Boulevard Malesherbes,Avenue Victoria
+337,"In the Paris area, which road cannot directly reach Rue des Saints-Pères?",C,Boulevard Saint-Germain,Place Michel Debré,Rue d'Alésia,Rue de Sèvres
+338,"In the Paris area, which road directly reaches Rue Scribe?",A,Rue Auber,Rue Blanche,Rue de Constantine,Place de Varsovie
+339,"In the Paris area, which road directly reaches Rue de Londres?",A,Rue de Saint-Pétersbourg,Rue de Châteaudun,Boulevard Davout,Rue de Médicis
+340,"In the Paris area, which road directly reaches Rue de Saint-Pétersbourg?",A,Rue de Londres,Rue de la Paix,Rue Auber,Rue Dante
+341,"In the Paris area, which road directly reaches Place de la Résistance?",B,Rue de Vaugirard,Avenue de la Bourdonnais,Boulevard Davout,Boulevard du Temple
+342,"In the Paris area, which road directly reaches Rue Raymond Losserand?",A,Rue d'Alésia,Quai Henri IV,Rue de Constantine,Boulevard Henri IV
+343,"In the Paris area, which road directly reaches Avenue du Général Lemonnier?",A,Avenue de l'Opéra,Avenue Secrétan,Rue de la Glacière,Place Jeanne d'Arc
+344,"In the Paris area, which road cannot directly reach Rue du Bac?",D,Boulevard Raspail,Quai Voltaire,Boulevard Saint-Germain,Carrefour de l'Odéon
+345,"In the Paris area, which road cannot directly reach Avenue Claude Vellefaux?",D,Place du Colonel Fabien,Avenue Parmentier,Rue du Faubourg du Temple,Rue du Four
+346,"In the Paris area, which road cannot directly reach Rue du Faubourg du Temple?",A,Boulevard Saint-Marcel,Avenue Claude Vellefaux,Boulevard Richard-Lenoir,Avenue Parmentier
+347,"In the Paris area, which road cannot directly reach Rue Le Peletier?",D,Place Théophile Bader,Boulevard des Italiens,Boulevard Haussmann,Rue de Varenne
+348,"In the Paris area, which road directly reaches Pont de Sully?",B,Place Saint-Michel,Quai des Célestins,Cours la Reine,Rue Riquet
+349,"In the Paris area, which road directly reaches Place Nationale?",A,Rue Nationale,Boulevard Saint-Germain,Avenue Winston Churchill,Boulevard de Charonne
+350,"In the Paris area, which road directly reaches Quai de la Mégisserie?",D,Rue du Louvre,Avenue George V,Rue Étienne Marcel,Pont Saint-Michel
+351,"In the Paris area, which road directly reaches Pont Saint-Michel?",D,Boulevard des Invalides,Place Michel Debré,Rue de Rome,Quai de la Mégisserie
+352,"In the Paris area, which road directly reaches Boulevard Morland?",A,Boulevard Henri IV,Place Prosper Goubaux,Place de l'Hôtel de Ville,Rue Villiot
+353,"In the Paris area, which road directly reaches Boulevard Henri IV?",B,Avenue du Général Leclerc,Place de la Bastille,Rue de Lobau,Rue du Havre
+354,"In the Paris area, which road cannot directly reach Rue d'Aubervilliers?",A,Place d'Estienne d'Orves,Boulevard de la Villette,Boulevard de la Chapelle,Rue Riquet
+355,"In the Paris area, which road directly reaches Quai des Tuileries?",A,Voie Georges-Pompidou,Rue du Cherche-Midi,Rue de Bagnolet,Avenue des Terroirs de France
+356,"In the Paris area, which road directly reaches Pont Royal?",B,Port de Bercy,Quai des Tuileries,Boulevard Beaumarchais,Rue Jean-Baptiste Berlier
+357,"In the Paris area, which road directly reaches Avenue Victoria?",D,Rue Saint-Sulpice,Avenue de Villiers,Avenue Hoche,Place du Châtelet
+358,"In the Paris area, which road directly reaches Place du Châtelet?",C,Rue Traversière,Rue de Ménilmontant,Avenue Victoria,Boulevard Gouvion-Saint-Cyr
+359,"In the Paris area, which road directly reaches Rue Lachambeaudie?",D,Rue Oberkampf,Rue Halévy,Avenue de l'Opéra,Rue Proudhon
+360,"In the Paris area, which road directly reaches Place Jeanne d'Arc?",B,Rue Le Peletier,Rue Jeanne d'Arc,Boulevard d'Algérie,Boulevard Berthier
+361,"In the Paris area, which road cannot directly reach Rue Saint-Martin?",B,Rue Réaumur,Pont de la Tournelle,Quai de Gesvres,Rue de Turbigo
+362,"In the Paris area, which road directly reaches Quai de Gesvres?",B,Rue de Chalon,Quai de l'Hôtel de Ville,Rue de la Chaussée-d'Antin,Quai de Montebello
+363,"In the Paris area, which road directly reaches Quai de Montebello?",B,Rue de Rivoli,Pont Notre-Dame,Boulevard Saint-Germain,Rue de la Roquette
+364,"In the Paris area, which road directly reaches Pont Notre-Dame?",A,Quai de Montebello,Place Saint-Michel,Rue de Fourcy,Rue de Vaugirard
+365,"In the Paris area, which road directly reaches Avenue Victor Hugo?",C,Boulevard Saint-Germain,Avenue Félix Faure,Place Charles de Gaulle,Rue Notre-Dame-de-Lorette
+366,"In the Paris area, which road cannot directly reach Place Charles de Gaulle?",D,Avenue Foch,Avenue Mac-Mahon,Avenue Hoche,Rue de Lobau
+367,"In the Paris area, which road directly reaches Quai Voltaire?",A,Rue du Bac,Rue Raymond Losserand,Rue de Londres,Boulevard de Clichy
+368,"In the Paris area, which road directly reaches Quai Valéry Giscard d'Estaing?",B,Boulevard de Port-Royal,Rue de Solférino,Rue de Constantinople,Pont Marie
+369,"In the Paris area, which road directly reaches Rond-Point du Bleuet de France?",D,Rue du Faubourg Saint-Antoine,Rue des Capucines,Avenue de France,Avenue du Maréchal Gallieni
+370,"In the Paris area, which road directly reaches Pont Charles de Gaulle?",B,Avenue Victor Hugo,Quai de la Rapée,Boulevard de Charonne,Rue Belgrand
+371,"In the Paris area, which road cannot directly reach Place de la Nation?",C,Boulevard Diderot,Avenue Philippe Auguste,Boulevard de Clichy,Rue du Faubourg Saint-Antoine
+372,"In the Paris area, which road directly reaches Place de l'Amiral de Grasse?",B,Rue Lachambeaudie,Avenue d'Iéna,Rue Traversière,Rue Auber
+373,"In the Paris area, which road directly reaches Avenue Marceau?",B,Place Jeanne d'Arc,Avenue du Président Wilson,Rue de Turbigo,Pont Marie
+374,"In the Paris area, which road directly reaches Pont des Invalides?",A,Cours Albert-Iᵉʳ,Boulevard d'Indochine,Rue Danielle Casanova,Avenue du Général Lemonnier
+375,"In the Paris area, which road directly reaches Cours Albert-Iᵉʳ?",D,Avenue de Lowendal,Quai Valéry Giscard d'Estaing,Place de l'Alma,Pont des Invalides
+376,"In the Paris area, which road cannot directly reach Voie Georges-Pompidou?",C,Quai des Tuileries,Avenue de New York,Passage Victor Marchand,Cours la Reine
+377,"In the Paris area, which road directly reaches Place de Breteuil?",B,Boulevard de l'Hôpital,Avenue de Breteuil,Rue de Tanger,Boulevard des Filles du Calvaire
+378,"In the Paris area, which road directly reaches Rue Didot?",A,Rue d'Alésia,Avenue Félix Faure,Rue du Faubourg Montmartre,Rue Pétel
+379,"In the Paris area, which road cannot directly reach Place du Colonel Fabien?",D,Boulevard de la Villette,Avenue Claude Vellefaux,Avenue Mathurin Moreau,Rue de Belleville
+380,"In the Paris area, which road cannot directly reach Rue de Tanger?",B,Rue Riquet,Boulevard de Reuilly,Boulevard de la Villette,Place du Maroc
+381,"In the Paris area, which road directly reaches Avenue Félix Faure?",D,Rue Froidevaux,Quai de Bercy,Rue de Reuilly,Place Étienne Pernet
+382,"In the Paris area, which road directly reaches Rue du Quatre Septembre?",C,Place de Clichy,Rue Caulaincourt,Rue de Richelieu,Avenue Winston Churchill
+383,"In the Paris area, which road directly reaches Rue de Richelieu?",B,Rue du Faubourg Poissonnière,Avenue de l'Opéra,Place de Narvik,Rue de Seine
+384,"In the Paris area, which road directly reaches Avenue Pasteur?",D,Avenue Victor Hugo,Rue de Solférino,Boulevard Bourdon,Place des Insurgés de Varsovie
+385,"In the Paris area, which road cannot directly reach Place des Insurgés de Varsovie?",C,Avenue Pasteur,Rue Gaston Boissier,Boulevard Diderot,Avenue de la Porte de la Plaine
+386,"In the Paris area, which road directly reaches Rue Gaston Boissier?",D,Avenue Mac-Mahon,Boulevard Bourdon,Rue Danielle Casanova,Place des Insurgés de Varsovie
+387,"In the Paris area, which road directly reaches Rue Falguière?",A,Rue de Vaugirard,Avenue Mathurin Moreau,Place Lachambeaudie,Avenue Secrétan
+388,"In the Paris area, which road directly reaches Boulevard du Général d'Armée Jean Simon?",A,Pont National,Rue du Faubourg Saint-Antoine,Boulevard Morland,Boulevard Davout
+389,"In the Paris area, which road directly reaches Rue Geoffroy Saint-Hilaire?",B,Cours de Vincennes,Rue Jussieu,Avenue de France,Rue de Chalon
+390,"In the Paris area, which road directly reaches Rue Corneille?",D,Avenue de Suffren,Rue Honoré d'Estienne d'Orves,Avenue George V,Rue de Vaugirard
+391,"In the Paris area, which road directly reaches Pont de la Tournelle?",A,Quai de la Tournelle,Avenue de Taillebourg,Rue de Lisbonne,Rue Berthollet
+392,"In the Paris area, which road directly reaches Quai de la Tournelle?",A,Pont de la Tournelle,Avenue de la Porte de Bagnolet,Avenue de Lowendal,Boulevard Soult
+393,"In the Paris area, which road directly reaches Passage Victor Marchand?",D,Rue de Lisbonne,Boulevard de la Bastille,Avenue des Terroirs de France,Rue de la Santé
+394,"In the Paris area, which road directly reaches Avenue des Terroirs de France?",A,Rue Baron Le Roy,Rue Beaubourg,Rue de la Santé,Rond-Point du Bleuet de France
+395,"In the Paris area, which road directly reaches Place de la Madeleine?",A,Rue Tronchet,Avenue de Saint-Mandé,Avenue Marceau,Quai François Mitterrand
+396,"In the Paris area, which road directly reaches Place de Narvik?",B,Place de Clichy,Avenue de Messine,Avenue Bosquet,Boulevard Auguste Blanqui
+397,"In the Paris area, which road directly reaches Rue Traversière?",D,Rue de Solférino,Avenue de la Porte Brunet,Boulevard des Invalides,Boulevard Diderot
+398,"In the Paris area, which road directly reaches Rue Pétel?",D,Rue de la Convention,Boulevard des Batignolles,Rue des Saints-Pères,Rue Lecourbe
+399,"In the Paris area, which road directly reaches Place du Maquis du Vercors?",B,Avenue Bosquet,Avenue René Fonck,Place de la Bastille,Avenue de Suffren
+400,"In the Paris area, which road directly reaches Place Saint-Georges?",D,Place d'Estienne d'Orves,Rue du Cardinal Lemoine,Rue de Rennes,Rue Notre-Dame-de-Lorette
+401,"In the Paris area, which road directly reaches Avenue Foch?",B,Place de la Nation,Place Charles de Gaulle,Rue Scribe,Avenue des Terroirs de France
+402,"In the Paris area, which road directly reaches Avenue Kléber?",A,Place Charles de Gaulle,Boulevard Davout,Quai Voltaire,Rue Marx Dormoy
+403,"In the Paris area, which road directly reaches Rue du Moulin?",C,Rue de Grenelle,Rue du Temple,Place des Insurgés de Varsovie,Rue du Louvre
+404,"In the Paris area, which road directly reaches Quai François Mitterrand?",C,Rue Eblé,Rue Falguière,Rue du Louvre,Rue Traversière
+405,"In the Paris area, which road directly reaches Avenue René Fonck?",D,Rue de la Croix Nivert,Avenue de la Porte Chaumont,Place de la Chapelle,Avenue Jean Jaurès
+406,"In the Paris area, which road cannot directly reach Pont Neuf?",A,Rue André Joineau,Quai du Louvre,Quai des Grands Augustins,Rue Dauphine
+407,"In the Paris area, which road directly reaches Quai du Louvre?",C,Boulevard de Grenelle,Avenue du Général Lemonnier,Pont Neuf,Rue Saint-Amand
+408,"In the Paris area, which road directly reaches Place de la République Dominicaine?",D,Rue Eblé,Boulevard de Picpus,Rue Halévy,Boulevard de Courcelles
+409,"In the Paris area, which road directly reaches Avenue de Friedland?",C,Rue Pasquier,Avenue du Trône,Place Charles de Gaulle,Avenue Daumesnil
+410,"In the Paris area, which road directly reaches Avenue de la Grande Armée?",B,Boulevard de Charonne,Place Charles de Gaulle,Boulevard de Vaugirard,Rue Nationale
+411,"In the Paris area, which road directly reaches Place de la Porte de Pantin?",D,Rue du Faubourg Poissonnière,Rue André Joineau,Rue Nationale,Boulevard Sérurier
+412,"In the Paris area, which road directly reaches Rue Louis-le-Grand?",D,Rue de Vouillé,Avenue Duquesne,Avenue des Gobelins,Boulevard des Italiens
+413,"In the Paris area, which road directly reaches Rue de la Chaussée-d'Antin?",C,Avenue du Général Leclerc,Rue du Faubourg Saint-Antoine,Place Théophile Bader,Avenue de la Grande Armée
+414,"In the Paris area, which road directly reaches Quai des Grands Augustins?",C,Rue Robert-Etlin,Avenue Albert de Mun,Rue Dauphine,Rue Doudeauville
+415,"In the Paris area, which road directly reaches Rue des Deux Ponts?",B,Avenue Franklin Delano Roosevelt,Pont de la Tournelle,Rue de Rambouillet,Rue Marx Dormoy
+416,"In the Paris area, which road directly reaches Rue du Caporal Peugeot?",D,Boulevard de la Bastille,Avenue Winston Churchill,Rue de Constantinople,Place de la Porte de Champerret
+417,"In the Paris area, which road directly reaches Quai de Conti?",C,Rue André Joineau,Pont Marie,Rue Bonaparte,Rue Saint-Martin
+418,"In the Paris area, which road directly reaches Rue Bonaparte?",A,Quai de Conti,Rue Didot,Boulevard Auguste Blanqui,Avenue de l'Opéra
+419,"In the Paris area, which road directly reaches Rue Lagrange?",A,Rue Dante,Rue Corneille,Place de Catalogne,Rue de Belleville
+420,"In the Paris area, which road directly reaches Rue Bobillot?",D,Place de la Porte de Vanves,Rue des Grands Moulins,Avenue de Friedland,Place d'Italie
+421,"In the Paris area, which road directly reaches Port de Bercy?",A,Quai de Bercy,Place de Narvik,Avenue René Coty,Rue de Courcelles
+422,"In the Paris area, which road directly reaches Avenue Mac-Mahon?",A,Place Charles de Gaulle,Quai de Jemmapes,Boulevard Raspail,Rue Haxo
+423,"In the Paris area, which road directly reaches Place de l'Hôtel de Ville?",B,Boulevard de la Bastille,Rue de Rivoli,Rue Froidevaux,Pont de Tolbiac
+424,"In the Paris area, which road directly reaches Rue Saint-Antoine?",D,Avenue des Ternes,Rue de Belleville,Rue du Faubourg Saint-Antoine,Rue de Turenne
+425,"In the Paris area, which road directly reaches Place du Maroc?",A,Rue de Tanger,Boulevard Saint-Denis,Rue de l'Amiral Mouchez,Avenue du Général Leclerc
+426,"In the Paris area, which road directly reaches Quai de Jemmapes?",A,Boulevard de la Villette,Avenue Secrétan,Place de la Porte de Champerret,Rue de Courcelles
+427,"In the Paris area, which road directly reaches Rue Alexandre Dumas?",C,Boulevard Davout,Place du 18 Juin 1940,Boulevard de Charonne,Rue du Commandant René Mouchotte
+428,"In the Paris area, which road directly reaches Place de Varsovie?",B,Avenue du Général Leclerc,Avenue de New York,Place Vauban,Avenue René Coty
+429,"In the Paris area, which road directly reaches Rue Saint-Sulpice?",A,Rue du Vieux Colombier,Rue Faidherbe,Place Henri Salvador,Rue des Saints-Pères
+430,"In the Paris area, which road directly reaches Rue du Four?",B,Rue de Solférino,Boulevard Saint-Germain,Rue du Faubourg Montmartre,Quai de la Gare
+431,"In the Paris area, which road directly reaches Place Saint-Michel?",D,Rue de l'Ancienne Comédie,Boulevard Bourdon,Rue du Havre,Rue Danton
+432,"In the Paris area, which road directly reaches Rue des Capucines?",D,Pont Neuf,Rue de Seine,Avenue Mac-Mahon,Place Henri Salvador
+433,"In the Paris area, which road directly reaches Voie Mazas?",D,Place de la Concorde,Rue de Londres,Port de Bercy,Quai Henri IV
+434,"In the Paris area, which road directly reaches Quai Henri IV?",B,Rue de la Glacière,Voie Mazas,Rue de Lobau,Avenue Simón Bolívar
+435,"In the Paris area, which road directly reaches Rue Marx Dormoy?",A,Rue Doudeauville,Avenue Mathurin Moreau,Place Saint-Augustin,Rue du Commandant René Mouchotte

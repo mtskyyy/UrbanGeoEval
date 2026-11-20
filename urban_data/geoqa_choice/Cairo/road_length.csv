@@ -1,0 +1,748 @@
+,A,B,answer,C,D,E,question
+0,27000.0,9000.0,B,2700.0,900.0,18000.0,How long is شارع العروبه in the Cairo area?
+1,720.0,7200.0,D,240.0,2400.0,4800.0,How long is شارع الثوره in the Cairo area?
+2,3200.0,320.0,A,9600.0,6400.0,960.0,How long is شارع السيد الميرغنى in the Cairo area?
+3,8000.0,4000.0,B,1200.0,400.0,12000.0,How long is شارع النزهه in the Cairo area?
+4,600.0,4000.0,C,2000.0,6000.0,200.0,How long is كوبري 6 أكتوبر in the Cairo area?
+5,350.0,10500.0,C,3500.0,7000.0,1050.0,How long is شارع عبد العزيز فهمى in the Cairo area?
+6,4800.0,160.0,C,1600.0,3200.0,480.0,How long is شارع بغداد in the Cairo area?
+7,9800.0,4900.0,B,490.0,14700.0,1470.0,How long is شارع ابو بكر الصديق in the Cairo area?
+8,630.0,6300.0,B,1890.0,12600.0,18900.0,How long is شارع عمر بن الخطاب in the Cairo area?
+9,3900.0,1170.0,A,11700.0,7800.0,390.0,How long is شارع الحجاز in the Cairo area?
+10,2800.0,1400.0,B,420.0,140.0,4200.0,How long is شارع الشهيد فريد سميكه in the Cairo area?
+11,1300.0,2600.0,A,390.0,3900.0,130.0,How long is شارع احمد فؤاد in the Cairo area?
+12,3300.0,1100.0,B,2200.0,110.0,330.0,How long is شارع بيروت in the Cairo area?
+13,100.0,800.0,B,1600.0,240.0,2400.0,How long is كوبري الجلاء in the Cairo area?
+14,6800.0,3400.0,B,1020.0,340.0,10200.0,How long is شارع عبد الحميد بدوى in the Cairo area?
+15,720.0,2400.0,B,240.0,4800.0,7200.0,How long is شارع عمار بن ياسر in the Cairo area?
+16,6600.0,220.0,C,2200.0,660.0,4400.0,How long is شارع عثمان بن عفان in the Cairo area?
+17,0.0,100.0,E,0.0,100.0,0.0,How long is ميدان تريومف in the Cairo area?
+18,4800.0,3200.0,C,1600.0,160.0,480.0,How long is شارع نخله المطيعى in the Cairo area?
+19,100.0,100.0,C,200.0,400.0,600.0,How long is كوبري قصر النيل in the Cairo area?
+20,500.0,1000.0,A,150.0,1500.0,100.0,How long is نفق الثوره in the Cairo area?
+21,100.0,0.0,D,0.0,0.0,100.0,How long is ميدان الاسماعيليه in the Cairo area?
+22,3000.0,1000.0,B,100.0,2000.0,300.0,How long is شارع المعهد الاشتراكي in the Cairo area?
+23,3600.0,1800.0,B,180.0,540.0,5400.0,How long is شارع المنتزه in the Cairo area?
+24,100.0,100.0,C,200.0,600.0,400.0,How long is كوبرى الحجاز in the Cairo area?
+25,1500.0,4500.0,A,150.0,3000.0,450.0,How long is شارع جامعه الدول العربيه in the Cairo area?
+26,500.0,10000.0,E,1500.0,15000.0,5000.0,How long is شارع 26 يوليو in the Cairo area?
+27,2300.0,4600.0,A,230.0,6900.0,690.0,How long is شارع احمد عرابى in the Cairo area?
+28,0.0,0.0,D,100.0,0.0,100.0,How long is ميدان التحرير in the Cairo area?
+29,10200.0,30600.0,A,20400.0,3060.0,1020.0,How long is شارع التحرير in the Cairo area?
+30,100.0,400.0,E,100.0,600.0,200.0,How long is شارع مريت باشا in the Cairo area?
+31,600.0,100.0,E,100.0,900.0,300.0,How long is شارع مجمع التحرير in the Cairo area?
+32,2500.0,750.0,A,250.0,7500.0,5000.0,How long is شارع طلعت حرب in the Cairo area?
+33,3600.0,1200.0,B,360.0,2400.0,120.0,How long is شارع قصر النيل in the Cairo area?
+34,600.0,100.0,D,900.0,300.0,100.0,How long is شارع محمود بسيوني in the Cairo area?
+35,85800.0,8580.0,E,2860.0,57200.0,28600.0,How long is شارع كورنيش النيل in the Cairo area?
+36,100.0,100.0,E,0.0,0.0,0.0,How long is ميدان عبد المنعم رياض in the Cairo area?
+37,100.0,240.0,C,800.0,2400.0,1600.0,How long is شارع القصر العيني in the Cairo area?
+38,0.0,100.0,D,0.0,0.0,100.0,How long is شارع عبد القادر حمزه in the Cairo area?
+39,100.0,1800.0,D,180.0,600.0,1200.0,How long is شارع شريف باشا in the Cairo area?
+40,800.0,2400.0,A,240.0,100.0,1600.0,How long is شارع شمبليون in the Cairo area?
+41,1000.0,3000.0,A,100.0,2000.0,300.0,How long is كوبرى 15 مايو in the Cairo area?
+42,3300.0,110.0,C,1100.0,2200.0,330.0,How long is شارع احمد سعيد in the Cairo area?
+43,7400.0,370.0,C,3700.0,1110.0,11100.0,How long is شارع رمسيس in the Cairo area?
+44,12000.0,1200.0,C,4000.0,400.0,8000.0,How long is امتداد شارع رمسيس in the Cairo area?
+45,300.0,200.0,E,100.0,100.0,100.0,How long is كوبرى العباسيه in the Cairo area?
+46,1800.0,270.0,D,2700.0,900.0,100.0,How long is شارع عين الصيره in the Cairo area?
+47,8700.0,2610.0,A,26100.0,17400.0,870.0,How long is شارع صلاح سالم in the Cairo area?
+48,330.0,110.0,C,1100.0,3300.0,2200.0,How long is كوبرى عين الصيره in the Cairo area?
+49,4400.0,6600.0,C,2200.0,220.0,660.0,How long is شارع الفسطاط in the Cairo area?
+50,100.0,0.0,E,100.0,0.0,0.0,How long is ميدان النصر in the Cairo area?
+51,1100.0,3300.0,A,2200.0,330.0,110.0,How long is شارع 216 in the Cairo area?
+52,1000.0,3000.0,A,2000.0,300.0,100.0,How long is نفق الطيران in the Cairo area?
+53,2200.0,330.0,D,110.0,1100.0,3300.0,How long is شارع صلاح الدين الشرقي in the Cairo area?
+54,0.0,0.0,E,100.0,100.0,0.0,How long is شارع سكة المحجر in the Cairo area?
+55,600.0,100.0,C,300.0,900.0,100.0,How long is شارع صلاح الدين in the Cairo area?
+56,2800.0,420.0,C,1400.0,140.0,4200.0,How long is شارع الجزيره in the Cairo area?
+57,3000.0,6000.0,A,900.0,9000.0,300.0,How long is شارع الموسيقار محمد عبد الوهاب in the Cairo area?
+58,0.0,100.0,E,100.0,0.0,0.0,How long is ميدان الجلاء in the Cairo area?
+59,5100.0,3400.0,E,170.0,510.0,1700.0,How long is شارع شارل ديجول in the Cairo area?
+60,1050.0,10500.0,C,3500.0,350.0,7000.0,How long is شارع الدقى in the Cairo area?
+61,24300.0,2430.0,D,810.0,8100.0,16200.0,How long is شارع السودان in the Cairo area?
+62,110.0,1100.0,B,2200.0,3300.0,330.0,How long is شارع ابراهيم اللقاني in the Cairo area?
+63,800.0,100.0,A,240.0,2400.0,1600.0,How long is شارع الدكتور ابراهيم ابو النجا in the Cairo area?
+64,870.0,8700.0,E,290.0,5800.0,2900.0,How long is شارع الخليفه المأمون in the Cairo area?
+65,540.0,5400.0,E,3600.0,180.0,1800.0,How long is شارع احسان عبد القدوس in the Cairo area?
+66,2200.0,660.0,A,4400.0,220.0,6600.0,How long is شارع محمد فريد in the Cairo area?
+67,13800.0,6900.0,B,2070.0,20700.0,690.0,How long is شارع جسر السويس in the Cairo area?
+68,2000.0,4000.0,A,6000.0,600.0,200.0,How long is شارع هارون الرشيد in the Cairo area?
+69,2400.0,800.0,B,1600.0,240.0,100.0,How long is شارع احمد سمير الصاوي in the Cairo area?
+70,150.0,500.0,B,100.0,1000.0,1500.0,How long is شارع القبه in the Cairo area?
+71,200.0,100.0,D,100.0,100.0,300.0,How long is كوبري الطاهره in the Cairo area?
+72,7500.0,5000.0,C,2500.0,750.0,250.0,How long is شارع السواح in the Cairo area?
+73,670.0,20100.0,E,2010.0,13400.0,6700.0,How long is شارع ترعه الاسماعيليه in the Cairo area?
+74,160.0,3200.0,E,4800.0,480.0,1600.0,How long is محور روض الفرج in the Cairo area?
+75,130.0,390.0,E,3900.0,2600.0,1300.0,How long is شارع سعد سليم in the Cairo area?
+76,1500.0,100.0,E,1000.0,150.0,500.0,How long is شارع مدخل القاهرة in the Cairo area?
+77,1920.0,640.0,D,19200.0,6400.0,12800.0,How long is شارع احمد حلمي in the Cairo area?
+78,600.0,100.0,D,900.0,300.0,100.0,How long is شارع مجد الاسلام in the Cairo area?
+79,26700.0,17800.0,E,2670.0,890.0,8900.0,How long is شارع ترعه الجبل in the Cairo area?
+80,90600.0,9060.0,D,3020.0,30200.0,60400.0,How long is طريق النصر in the Cairo area?
+81,9700.0,19400.0,A,29100.0,2910.0,970.0,How long is شارع الحريه in the Cairo area?
+82,100.0,1000.0,B,2000.0,300.0,3000.0,How long is شارع حسن افلاطون in the Cairo area?
+83,1500.0,150.0,A,450.0,4500.0,3000.0,How long is امتداد شارع مكرم عبيد in the Cairo area?
+84,1200.0,120.0,C,400.0,100.0,800.0,How long is نفق شارل ديجول in the Cairo area?
+85,2400.0,240.0,E,100.0,1600.0,800.0,How long is شارع الشيخ ريحان in the Cairo area?
+86,3800.0,5700.0,E,570.0,190.0,1900.0,How long is شارع احمد تيسير in the Cairo area?
+87,690.0,230.0,C,2300.0,4600.0,6900.0,How long is شارع نبيل الوقاد in the Cairo area?
+88,100.0,100.0,E,200.0,300.0,100.0,How long is كوبرى المشير محمد عبد الحليم ابو غزاله in the Cairo area?
+89,2800.0,840.0,A,5600.0,280.0,8400.0,How long is شارع انقره in the Cairo area?
+90,700.0,210.0,A,100.0,1400.0,2100.0,How long is شارع عبد الخالق ثروت in the Cairo area?
+91,5700.0,3800.0,D,570.0,1900.0,190.0,How long is شارع منصور in the Cairo area?
+92,800.0,120.0,E,100.0,1200.0,400.0,How long is شارع الناصريه in the Cairo area?
+93,100.0,700.0,B,1400.0,2100.0,210.0,How long is شارع خيرت in the Cairo area?
+94,24200.0,36300.0,D,1210.0,12100.0,3630.0,How long is شارع بورسعيد in the Cairo area?
+95,210.0,700.0,B,1400.0,100.0,2100.0,How long is شارع عبد المجيد اللبان in the Cairo area?
+96,11000.0,1650.0,C,5500.0,16500.0,550.0,How long is شارع الطيران in the Cairo area?
+97,3000.0,2000.0,D,300.0,1000.0,100.0,How long is شارع خضر التوني in the Cairo area?
+98,270.0,100.0,D,1800.0,900.0,2700.0,How long is شارع ابن فضلان in the Cairo area?
+99,300.0,900.0,A,600.0,100.0,100.0,How long is كوبرى الشهيد هشام بركات in the Cairo area?
+100,1020.0,3400.0,B,340.0,6800.0,10200.0,How long is كوبرى 6 أكتوبر in the Cairo area?
+101,300.0,3000.0,C,1000.0,2000.0,100.0,How long is شارع محمد مظهر in the Cairo area?
+102,100.0,600.0,E,400.0,100.0,200.0,How long is شارع ابو الفدا in the Cairo area?
+103,1200.0,120.0,A,3600.0,2400.0,360.0,How long is شارع البرازيل in the Cairo area?
+104,100.0,100.0,E,0.0,0.0,0.0,How long is ميدان كريم زيانى in the Cairo area?
+105,4800.0,3200.0,D,480.0,1600.0,160.0,How long is شارع احمد بن حنبل in the Cairo area?
+106,100.0,1600.0,C,800.0,240.0,2400.0,How long is شارع مستشفى الطلبه in the Cairo area?
+107,1140.0,7600.0,C,3800.0,380.0,11400.0,How long is شارع السكه البيضاء in the Cairo area?
+108,0.0,0.0,D,100.0,0.0,100.0,How long is ميدان باب الشعريه in the Cairo area?
+109,360.0,7200.0,D,1080.0,3600.0,10800.0,How long is شارع الجيش in the Cairo area?
+110,100.0,300.0,D,100.0,100.0,200.0,How long is درب العوالم in the Cairo area?
+111,900.0,100.0,A,1800.0,270.0,2700.0,How long is شارع الفردوس in the Cairo area?
+112,230.0,690.0,D,6900.0,2300.0,4600.0,How long is شارع ممدوح سالم in the Cairo area?
+113,800.0,400.0,B,1200.0,100.0,120.0,How long is شارع السرجاني in the Cairo area?
+114,500.0,150.0,A,1500.0,1000.0,100.0,How long is شارع احمد فؤاد عبد العزيز in the Cairo area?
+115,2800.0,4200.0,E,420.0,140.0,1400.0,How long is شارع المستشفى اليوناني in the Cairo area?
+116,100.0,100.0,E,200.0,300.0,100.0,How long is شارع عزب باشا in the Cairo area?
+117,210.0,630.0,C,2100.0,6300.0,4200.0,How long is شارع الظاهر in the Cairo area?
+118,130.0,3900.0,D,390.0,1300.0,2600.0,How long is شارع منشيه الجمل in the Cairo area?
+119,100.0,1000.0,E,150.0,1500.0,500.0,How long is كوبري غمره in the Cairo area?
+120,3400.0,10200.0,A,6800.0,1020.0,340.0,How long is شارع الشهيد سيد زكريا خليل in the Cairo area?
+121,11600.0,17400.0,C,5800.0,1740.0,580.0,How long is شارع النصر in the Cairo area?
+122,1200.0,120.0,C,400.0,100.0,800.0,How long is شارع سيد عويس in the Cairo area?
+123,1200.0,360.0,A,120.0,2400.0,3600.0,How long is شارع الموسيقار محمد الموجى in the Cairo area?
+124,270.0,1800.0,E,2700.0,100.0,900.0,How long is شارع احمد زويل in the Cairo area?
+125,100.0,0.0,E,100.0,0.0,0.0,How long is كوبري ثروت in the Cairo area?
+126,8700.0,2900.0,B,5800.0,870.0,290.0,How long is محور صفط اللبن in the Cairo area?
+127,100.0,100.0,E,600.0,400.0,200.0,How long is شارع السلطان حسن in the Cairo area?
+128,4200.0,140.0,D,420.0,1400.0,2800.0,How long is شارع القلعه in the Cairo area?
+129,9600.0,6400.0,D,960.0,3200.0,320.0,How long is شارع شبرا in the Cairo area?
+130,1200.0,100.0,C,600.0,1800.0,180.0,How long is شارع دوليتان in the Cairo area?
+131,1300.0,390.0,A,3900.0,2600.0,130.0,How long is شارع دانشواي in the Cairo area?
+132,930.0,310.0,E,6200.0,9300.0,3100.0,How long is شارع احمد الزمر in the Cairo area?
+133,3600.0,2400.0,E,120.0,360.0,1200.0,How long is شارع ذاكر حسين in the Cairo area?
+134,1800.0,2700.0,C,900.0,270.0,100.0,How long is شارع ابو العتاهيه in the Cairo area?
+135,1320.0,13200.0,D,440.0,4400.0,8800.0,How long is محور جيهان السادات in the Cairo area?
+136,2100.0,6300.0,A,4200.0,630.0,210.0,How long is شارع افريقيا in the Cairo area?
+137,4200.0,420.0,C,1400.0,140.0,2800.0,How long is شارع الخليفه القاهر in the Cairo area?
+138,200.0,4000.0,D,6000.0,2000.0,600.0,How long is شارع الخليفه الظافر in the Cairo area?
+139,660.0,6600.0,E,220.0,4400.0,2200.0,How long is شارع البوهي in the Cairo area?
+140,2600.0,3900.0,C,1300.0,390.0,130.0,How long is شارع نادى امبابه الرياضى in the Cairo area?
+141,800.0,1600.0,A,2400.0,100.0,240.0,How long is كوبرى روض الفرج in the Cairo area?
+142,1470.0,490.0,C,4900.0,9800.0,14700.0,How long is شارع المطار in the Cairo area?
+143,1100.0,330.0,A,110.0,3300.0,2200.0,How long is شارع نخله المطيعي in the Cairo area?
+144,360.0,1080.0,E,7200.0,10800.0,3600.0,How long is شارع يوسف عباس in the Cairo area?
+145,400.0,100.0,A,120.0,800.0,1200.0,How long is كوبرى يوسف عباس in the Cairo area?
+146,100.0,1200.0,E,120.0,800.0,400.0,How long is شارع الشيخ حازم صلاح in the Cairo area?
+147,690.0,2300.0,B,4600.0,6900.0,230.0,How long is شارع عبد العزيز الشناوى in the Cairo area?
+148,3400.0,5100.0,E,170.0,510.0,1700.0,How long is شارع احمد فخري in the Cairo area?
+149,1700.0,170.0,A,510.0,3400.0,5100.0,How long is شارع عبد الرزاق السنهوري in the Cairo area?
+150,310.0,6200.0,E,930.0,9300.0,3100.0,How long is شارع اسماعيل الفنجري in the Cairo area?
+151,100.0,800.0,C,400.0,1200.0,120.0,How long is شارع السيل in the Cairo area?
+152,3000.0,9000.0,A,900.0,300.0,6000.0,How long is شارع الجزائر in the Cairo area?
+153,800.0,400.0,B,1200.0,120.0,100.0,How long is شارع 250 in the Cairo area?
+154,3000.0,1000.0,B,100.0,2000.0,300.0,How long is شارع سمير عبد الرؤوف in the Cairo area?
+155,1000.0,500.0,B,100.0,1500.0,150.0,How long is شارع عبد الحميد لطفي in the Cairo area?
+156,100.0,120.0,C,400.0,1200.0,800.0,How long is شارع عطيه الصوالحى in the Cairo area?
+157,290.0,8700.0,E,5800.0,870.0,2900.0,How long is شارع مكرم عبيد in the Cairo area?
+158,1400.0,420.0,A,140.0,2800.0,4200.0,How long is شارع مصطفي النحاس in the Cairo area?
+159,1800.0,270.0,D,100.0,900.0,2700.0,How long is شارع الامداد و التموين in the Cairo area?
+160,100.0,2100.0,C,700.0,1400.0,210.0,How long is شارع فاطمه بنت مبارك in the Cairo area?
+161,200.0,100.0,E,300.0,100.0,100.0,How long is شارع محمد ابراهيم الشيخ in the Cairo area?
+162,100.0,100.0,C,100.0,200.0,300.0,How long is شارع عزت محمد سليم in the Cairo area?
+163,100.0,300.0,E,100.0,200.0,100.0,How long is شارع المفتشين in the Cairo area?
+164,3000.0,100.0,C,1000.0,300.0,2000.0,How long is شارع احمد بدوي in the Cairo area?
+165,150.0,4500.0,D,3000.0,1500.0,450.0,How long is شارع عباس العقاد in the Cairo area?
+166,3600.0,360.0,E,120.0,2400.0,1200.0,How long is شارع نجاتي سراج in the Cairo area?
+167,9300.0,3100.0,B,310.0,930.0,6200.0,How long is شارع حسن مأمون in the Cairo area?
+168,390.0,130.0,C,1300.0,3900.0,2600.0,How long is شارع البنك in the Cairo area?
+169,1600.0,2400.0,D,240.0,800.0,100.0,How long is شارع العريف عبد المنعم in the Cairo area?
+170,100.0,120.0,E,800.0,1200.0,400.0,How long is شارع الرياضة in the Cairo area?
+171,1100.0,3300.0,A,2200.0,110.0,330.0,How long is شارع المطافي in the Cairo area?
+172,2400.0,4800.0,A,240.0,7200.0,720.0,How long is شارع الشهيد محمد مصطفى كاريكا in the Cairo area?
+173,1500.0,4500.0,A,450.0,150.0,3000.0,How long is شارع الثانوية الجويه in the Cairo area?
+174,330.0,2200.0,E,3300.0,110.0,1100.0,How long is شارع اطلس in the Cairo area?
+175,130.0,2600.0,E,390.0,3900.0,1300.0,How long is إمتداد شارع ابو داوود الظاهري in the Cairo area?
+176,100.0,3000.0,C,1000.0,300.0,2000.0,How long is شارع المهندس محمود عبد المنعم in the Cairo area?
+177,100.0,300.0,D,100.0,100.0,200.0,How long is شارع محطه الدمرداش in the Cairo area?
+178,500.0,1500.0,A,150.0,1000.0,100.0,How long is شارع الدويدار in the Cairo area?
+179,150.0,450.0,E,4500.0,3000.0,1500.0,How long is شارع عبد الله العربى in the Cairo area?
+180,3600.0,1080.0,A,360.0,10800.0,7200.0,How long is شارع الاهرام in the Cairo area?
+181,180.0,100.0,E,1800.0,1200.0,600.0,How long is شارع 78 in the Cairo area?
+182,100.0,100.0,E,0.0,0.0,0.0,How long is شارع 153 in the Cairo area?
+183,120.0,100.0,C,400.0,1200.0,800.0,How long is شارع رشدي باشا in the Cairo area?
+184,2800.0,140.0,C,1400.0,4200.0,420.0,How long is شارع كلوت بك in the Cairo area?
+185,420.0,2800.0,C,1400.0,140.0,4200.0,How long is شارع الجمهوريه in the Cairo area?
+186,100.0,1800.0,E,270.0,2700.0,900.0,How long is شارع نجيب الريحاني in the Cairo area?
+187,300.0,100.0,A,900.0,100.0,600.0,How long is ميدان الجمهوريه in the Cairo area?
+188,100.0,600.0,C,300.0,900.0,100.0,How long is شارع الشهيد جابر صلاح جابر in the Cairo area?
+189,3600.0,540.0,E,180.0,5400.0,1800.0,How long is شارع العباسيه in the Cairo area?
+190,2000.0,3000.0,E,300.0,100.0,1000.0,How long is شارع نوبار in the Cairo area?
+191,1830.0,12200.0,D,18300.0,6100.0,610.0,How long is شارع احمد زكي in the Cairo area?
+192,1200.0,1800.0,C,600.0,180.0,100.0,How long is شارع المماليك in the Cairo area?
+193,1200.0,100.0,C,600.0,1800.0,180.0,How long is شارع الخاصه in the Cairo area?
+194,1500.0,1000.0,C,500.0,150.0,100.0,How long is شارع الترعه الشرقي in the Cairo area?
+195,100.0,300.0,B,900.0,600.0,100.0,How long is شارع عبد العزيز in the Cairo area?
+196,600.0,100.0,D,900.0,300.0,100.0,How long is نفق السبتيه in the Cairo area?
+197,1680.0,16800.0,E,11200.0,560.0,5600.0,How long is شارع الترعه البولاقيه in the Cairo area?
+198,240.0,1600.0,D,2400.0,800.0,100.0,How long is كوبري عرابي in the Cairo area?
+199,14700.0,1470.0,D,490.0,4900.0,9800.0,How long is شارع 15 مايو in the Cairo area?
+200,100.0,100.0,C,100.0,300.0,200.0,How long is شارع الدكتور حندوسه in the Cairo area?
+201,1700.0,510.0,A,170.0,5100.0,3400.0,How long is شارع سكه الوايلي in the Cairo area?
+202,1200.0,800.0,D,120.0,400.0,100.0,How long is كوبري الاميريه in the Cairo area?
+203,100.0,100.0,C,300.0,600.0,900.0,How long is شارع سامي البارودي in the Cairo area?
+204,100.0,600.0,D,100.0,200.0,400.0,How long is شارع خلوصي in the Cairo area?
+205,100.0,300.0,E,2000.0,3000.0,1000.0,How long is شارع لطفي السيد in the Cairo area?
+206,1400.0,2100.0,E,210.0,100.0,700.0,How long is شارع معمل الالبان in the Cairo area?
+207,4500.0,1500.0,B,150.0,3000.0,450.0,How long is شارع احمد عصمت in the Cairo area?
+208,10500.0,3500.0,B,1050.0,350.0,7000.0,How long is شارع عين شمس in the Cairo area?
+209,300.0,2000.0,E,3000.0,100.0,1000.0,How long is شارع ابراهيم عبد الرازق in the Cairo area?
+210,3200.0,480.0,D,160.0,1600.0,4800.0,How long is شارع الجلاء in the Cairo area?
+211,900.0,600.0,D,100.0,300.0,100.0,How long is ميدان الظاهر in the Cairo area?
+212,100.0,300.0,D,100.0,100.0,200.0,How long is ميدان قشتمر in the Cairo area?
+213,210.0,2100.0,E,1400.0,100.0,700.0,How long is شارع ميدان سيدي عبد الجواد in the Cairo area?
+214,6300.0,4200.0,D,630.0,2100.0,210.0,How long is شارع بولاق الجديد in the Cairo area?
+215,400.0,100.0,E,100.0,600.0,200.0,How long is كوبرى الدقى in the Cairo area?
+216,1400.0,700.0,B,2100.0,210.0,100.0,How long is شارع السد البراني in the Cairo area?
+217,100.0,100.0,C,200.0,600.0,400.0,How long is شارع يوسف السباعي in the Cairo area?
+218,6900.0,2300.0,B,230.0,690.0,4600.0,How long is شارع عبد العزيز آل سعود in the Cairo area?
+219,1800.0,180.0,E,1200.0,100.0,600.0,How long is شارع الامام in the Cairo area?
+220,1200.0,100.0,C,600.0,1800.0,180.0,How long is شارع مجري العيون in the Cairo area?
+221,5400.0,270.0,D,8100.0,2700.0,810.0,How long is شارع السيده نفيسه in the Cairo area?
+222,200.0,100.0,A,400.0,600.0,100.0,How long is شارع 151 in the Cairo area?
+223,1800.0,270.0,E,2700.0,100.0,900.0,How long is شارع نادى الرمايه in the Cairo area?
+224,600.0,900.0,C,300.0,100.0,100.0,How long is كوبري الزهراء in the Cairo area?
+225,1800.0,3600.0,A,540.0,180.0,5400.0,How long is شارع عثمان محرم in the Cairo area?
+226,450.0,1350.0,E,13500.0,9000.0,4500.0,How long is شارع زهراء المعادي in the Cairo area?
+227,510.0,3400.0,C,1700.0,170.0,5100.0,How long is طريق النصر الجانيى in the Cairo area?
+228,340.0,1020.0,E,10200.0,6800.0,3400.0,How long is طريق احمد السلاب in the Cairo area?
+229,1000.0,1500.0,C,500.0,150.0,100.0,How long is شارع وزاره الزراعه in the Cairo area?
+230,100.0,1600.0,D,2400.0,800.0,240.0,How long is شارع المتحف الزراعى in the Cairo area?
+231,100.0,600.0,C,300.0,900.0,100.0,How long is كوبرى بولاق الدكرور in the Cairo area?
+232,400.0,1200.0,A,800.0,120.0,100.0,How long is شارع الصحافة in the Cairo area?
+233,600.0,100.0,E,100.0,900.0,300.0,How long is كوبرى الشهيد النقيب احمد حافظ شوشة in the Cairo area?
+234,100.0,1000.0,C,500.0,1500.0,150.0,How long is كوبري مسطرد in the Cairo area?
+235,250.0,2500.0,B,7500.0,5000.0,750.0,How long is شارع شهاب in the Cairo area?
+236,1700.0,5100.0,A,3400.0,510.0,170.0,How long is شارع سوريا in the Cairo area?
+237,2000.0,3000.0,E,100.0,300.0,1000.0,How long is شارع حلمى محمد حسن in the Cairo area?
+238,5400.0,1800.0,B,3600.0,180.0,540.0,How long is شارع وادى النيل in the Cairo area?
+239,2100.0,700.0,B,1400.0,100.0,210.0,How long is شارع البطل احمد عبد العزيز in the Cairo area?
+240,3000.0,300.0,D,2000.0,1000.0,100.0,How long is شارع لبنان in the Cairo area?
+241,390.0,1300.0,B,2600.0,130.0,3900.0,How long is شارع المدرسه in the Cairo area?
+242,7800.0,1170.0,C,3900.0,390.0,11700.0,How long is شارع طلال محمد سعد الله in the Cairo area?
+243,900.0,100.0,D,100.0,300.0,600.0,How long is كوبري العمرانيه in the Cairo area?
+244,16800.0,11200.0,C,5600.0,560.0,1680.0,"How long is طريق القاهرة, اسيوط الزراعى in the Cairo area?"
+245,510.0,3400.0,C,1700.0,170.0,5100.0,How long is كوبري والى in the Cairo area?
+246,2700.0,5400.0,A,8100.0,810.0,270.0,How long is طريق الاوتوستراد in the Cairo area?
+247,0.0,0.0,E,100.0,100.0,0.0,How long is شارع محسن محمود in the Cairo area?
+248,100.0,200.0,B,400.0,600.0,100.0,How long is كوبري التونسي in the Cairo area?
+249,10700.0,32100.0,A,3210.0,1070.0,21400.0,How long is شارع 9 in the Cairo area?
+250,100.0,200.0,B,600.0,100.0,400.0,How long is شارع النافوره in the Cairo area?
+251,630.0,4200.0,C,2100.0,210.0,6300.0,How long is طريق المقطم in the Cairo area?
+252,3400.0,340.0,A,1020.0,6800.0,10200.0,How long is شارع الكورنيش in the Cairo area?
+253,100.0,600.0,E,400.0,100.0,200.0,How long is شارع الجباخانات in the Cairo area?
+254,600.0,300.0,B,100.0,900.0,100.0,How long is شارع الظافر برقوق in the Cairo area?
+255,100.0,270.0,E,1800.0,2700.0,900.0,How long is شارع صلاح سالم الجديد in the Cairo area?
+256,200.0,600.0,A,100.0,100.0,400.0,How long is كوبري مدخل منشية ناصر و المقطم in the Cairo area?
+257,240.0,7200.0,E,720.0,4800.0,2400.0,How long is شارع المشير احمد اسماعيل in the Cairo area?
+258,1500.0,500.0,B,150.0,1000.0,100.0,How long is كوبرى المطار in the Cairo area?
+259,100.0,3000.0,D,2000.0,1000.0,300.0,How long is شارع سكة حديد الصوامع in the Cairo area?
+260,600.0,1200.0,A,100.0,1800.0,180.0,How long is امتداد شارع ولي العهد in the Cairo area?
+261,600.0,1200.0,A,1800.0,100.0,180.0,How long is شارع ولى العهد in the Cairo area?
+262,3000.0,100.0,C,1000.0,2000.0,300.0,How long is شارع مدحت نور in the Cairo area?
+263,4400.0,2200.0,B,660.0,6600.0,220.0,How long is شارع ترعه الجندي in the Cairo area?
+264,900.0,600.0,C,300.0,100.0,100.0,How long is شارع الفريق محمد شكرى in the Cairo area?
+265,2400.0,1200.0,B,3600.0,120.0,360.0,How long is كوبري الفنجري in the Cairo area?
+266,400.0,120.0,A,1200.0,100.0,800.0,How long is كوبرى ميدان المطريه in the Cairo area?
+267,100.0,2000.0,D,300.0,1000.0,3000.0,How long is كوبري ابو وافيه in the Cairo area?
+268,1200.0,100.0,C,400.0,120.0,800.0,How long is شارع شيخون in the Cairo area?
+269,100.0,800.0,C,400.0,1200.0,120.0,How long is شارع السيده عائشه in the Cairo area?
+270,1000.0,2000.0,A,300.0,3000.0,100.0,How long is شارع على باشا ابراهيم in the Cairo area?
+271,1800.0,180.0,E,1200.0,100.0,600.0,How long is شارع حلوان in the Cairo area?
+272,240.0,2400.0,D,1600.0,800.0,100.0,How long is شارع علي امين in the Cairo area?
+273,210.0,700.0,B,100.0,1400.0,2100.0,How long is شارع كامل صدقي in the Cairo area?
+274,0.0,100.0,D,0.0,0.0,100.0,How long is شارع محطه الزيتون in the Cairo area?
+275,5400.0,1800.0,B,540.0,3600.0,180.0,How long is شارع المقريزي in the Cairo area?
+276,210.0,100.0,E,1400.0,2100.0,700.0,How long is شارع ترعه والى in the Cairo area?
+277,3600.0,7200.0,A,360.0,1080.0,10800.0,How long is شارع البحر الاعظم in the Cairo area?
+278,0.0,100.0,E,0.0,100.0,0.0,How long is كوبرى فيصل in the Cairo area?
+279,100.0,1200.0,C,600.0,1800.0,180.0,How long is شارع ناصر الثوره in the Cairo area?
+280,100.0,1000.0,C,500.0,150.0,1500.0,How long is شارع ترعه الزمر الغربيه in the Cairo area?
+281,710.0,2130.0,D,14200.0,7100.0,21300.0,How long is شارع ترعه الزمر in the Cairo area?
+282,120.0,800.0,E,100.0,1200.0,400.0,How long is شارع محمود سلام in the Cairo area?
+283,2000.0,300.0,C,1000.0,100.0,3000.0,How long is محور ناهيا in the Cairo area?
+284,3800.0,11400.0,A,7600.0,1140.0,380.0,How long is شارع ناهيا in the Cairo area?
+285,4500.0,450.0,A,13500.0,9000.0,1350.0,How long is محور طه حسين in the Cairo area?
+286,1800.0,540.0,A,180.0,3600.0,5400.0,How long is محور عدلى منصور in the Cairo area?
+287,4000.0,2000.0,B,200.0,600.0,6000.0,How long is شارع ابو داوود الظاهري in the Cairo area?
+288,4300.0,1290.0,A,8600.0,430.0,12900.0,How long is شارع عمر المختار in the Cairo area?
+289,100.0,200.0,B,600.0,400.0,100.0,How long is كوبري البعوث in the Cairo area?
+290,100.0,0.0,E,100.0,0.0,0.0,How long is شارع قنصوه in the Cairo area?
+291,220.0,660.0,E,6600.0,4400.0,2200.0,How long is شارع ترعه عبد العال 1 in the Cairo area?
+292,900.0,600.0,E,100.0,100.0,300.0,How long is نفق العجوزه in the Cairo area?
+293,330.0,1100.0,B,3300.0,110.0,2200.0,How long is شارع مصطفى رفعت in the Cairo area?
+294,700.0,2100.0,A,100.0,210.0,1400.0,How long is شارع مربع بلوكات 1186 in the Cairo area?
+295,400.0,100.0,E,100.0,600.0,200.0,How long is شارع الملتقى العربى in the Cairo area?
+296,150.0,500.0,B,100.0,1500.0,1000.0,How long is محور المشير محمد على فهمي الجانبى in the Cairo area?
+297,160.0,480.0,E,3200.0,4800.0,1600.0,How long is شارع الواحه in the Cairo area?
+298,2100.0,630.0,A,4200.0,6300.0,210.0,How long is شارع محطه القبه in the Cairo area?
+299,3200.0,4800.0,E,480.0,160.0,1600.0,How long is شارع شركه المعادي in the Cairo area?
+300,5000.0,7500.0,C,2500.0,250.0,750.0,How long is شارع 306 in the Cairo area?
+301,2400.0,800.0,B,100.0,1600.0,240.0,How long is شارع البحث الجنائي in the Cairo area?
+302,120.0,400.0,B,100.0,1200.0,800.0,How long is كوبرى التأمين الصحى in the Cairo area?
+303,390.0,3900.0,E,130.0,2600.0,1300.0,How long is شارع جامعه القاهره in the Cairo area?
+304,270.0,900.0,B,2700.0,100.0,1800.0,How long is شارع مراد in the Cairo area?
+305,900.0,300.0,B,100.0,100.0,600.0,How long is شارع نهضه مصر in the Cairo area?
+306,110.0,2200.0,E,330.0,3300.0,1100.0,How long is كوبري الملك فيصل in the Cairo area?
+307,340.0,6800.0,E,10200.0,1020.0,3400.0,How long is شارع الملك فيصل in the Cairo area?
+308,100.0,300.0,B,600.0,100.0,900.0,How long is شارع الدكتور على مصطفى مشرفه in the Cairo area?
+309,2800.0,280.0,A,8400.0,5600.0,840.0,How long is شارع الفريق عزيز المصري in the Cairo area?
+310,14700.0,1470.0,E,9800.0,490.0,4900.0,How long is محور حسب الله الكفراوى in the Cairo area?
+311,100.0,0.0,E,100.0,0.0,0.0,How long is ميدان مسجد الفاروق in the Cairo area?
+312,190.0,570.0,D,3800.0,1900.0,5700.0,How long is شارع النهضه in the Cairo area?
+313,390.0,1300.0,B,3900.0,130.0,2600.0,How long is شارع الزهراء in the Cairo area?
+314,2500.0,750.0,A,5000.0,7500.0,250.0,How long is شارع كارفور in the Cairo area?
+315,1200.0,120.0,A,2400.0,3600.0,360.0,How long is شارع ابن الحكم in the Cairo area?
+316,100.0,900.0,C,300.0,600.0,100.0,How long is كوبرى ميدان ابن الحكم in the Cairo area?
+317,2400.0,120.0,E,3600.0,360.0,1200.0,How long is شارع المطريه in the Cairo area?
+318,2000.0,200.0,A,6000.0,600.0,4000.0,How long is شارع محمد مهدي عرفه in the Cairo area?
+319,810.0,270.0,D,5400.0,2700.0,8100.0,How long is شارع مساكن صقر قريش in the Cairo area?
+320,160.0,480.0,D,3200.0,1600.0,4800.0,How long is شارع دكتور محمود صالح ابو زيد in the Cairo area?
+321,1100.0,3300.0,A,2200.0,330.0,110.0,How long is شارع السد العالى in the Cairo area?
+322,1800.0,900.0,B,270.0,100.0,2700.0,How long is شارع محطة المحولات in the Cairo area?
+323,480.0,1600.0,B,3200.0,4800.0,160.0,How long is شارع سوق السيارات in the Cairo area?
+324,390.0,3900.0,D,130.0,1300.0,2600.0,How long is شارع الطوب الرملي in the Cairo area?
+325,190.0,570.0,E,3800.0,5700.0,1900.0,How long is شارع المهندس عماد عيسي in the Cairo area?
+326,16200.0,1620.0,A,48600.0,32400.0,4860.0,How long is محور الشهيد in the Cairo area?
+327,1500.0,450.0,A,4500.0,3000.0,150.0,How long is طريق شرق القطامية in the Cairo area?
+328,200.0,600.0,D,4000.0,2000.0,6000.0,How long is طريق طره in the Cairo area?
+329,400.0,100.0,D,600.0,200.0,100.0,How long is شارع الساحه in the Cairo area?
+330,110.0,330.0,E,2200.0,3300.0,1100.0,How long is شارع مساكن الشروق in the Cairo area?
+331,300.0,100.0,D,100.0,100.0,200.0,How long is كوبري النزهه in the Cairo area?
+332,1500.0,150.0,C,500.0,1000.0,100.0,How long is كوبرى السبع عمارات in the Cairo area?
+333,100.0,700.0,B,2100.0,210.0,1400.0,How long is امتداد شارع فلسطين in the Cairo area?
+334,0.0,0.0,C,0.0,100.0,100.0,How long is شارع التعاون in the Cairo area?
+335,3900.0,390.0,C,1300.0,130.0,2600.0,How long is شارع صفط اللبن in the Cairo area?
+336,210.0,4200.0,D,6300.0,2100.0,630.0,How long is شارع مساكن كفر طهرمس in the Cairo area?
+337,280.0,840.0,D,5600.0,2800.0,8400.0,How long is طريق كفر طهرمس in the Cairo area?
+338,1900.0,3800.0,A,190.0,570.0,5700.0,How long is شارع سليم الاول in the Cairo area?
+339,600.0,6000.0,C,2000.0,4000.0,200.0,How long is شارع المحولات in the Cairo area?
+340,100.0,200.0,D,100.0,100.0,300.0,How long is شارع مقار in the Cairo area?
+341,570.0,190.0,E,5700.0,3800.0,1900.0,How long is شارع متحف المنيل in the Cairo area?
+342,1100.0,330.0,A,2200.0,3300.0,110.0,How long is شارع اللاسلكي in the Cairo area?
+343,420.0,4200.0,C,1400.0,2800.0,140.0,How long is شارع النادي الجديد in the Cairo area?
+344,100.0,900.0,D,600.0,300.0,100.0,How long is شارع ماهر اباظه in the Cairo area?
+345,100.0,0.0,E,100.0,0.0,0.0,How long is كوبري الملك الصالح in the Cairo area?
+346,300.0,100.0,E,200.0,100.0,100.0,How long is شارع الروضة in the Cairo area?
+347,16800.0,2520.0,D,840.0,8400.0,25200.0,How long is شارع الخليج المصري in the Cairo area?
+348,100.0,0.0,D,0.0,0.0,100.0,How long is شارع الانصار in the Cairo area?
+349,3000.0,150.0,C,1500.0,4500.0,450.0,How long is شارع اسماعيل القباني in the Cairo area?
+350,100.0,3000.0,C,1000.0,300.0,2000.0,"How long is طريق القاهره, اسكندريه الزراعى القديم in the Cairo area?"
+351,100.0,120.0,E,1200.0,800.0,400.0,How long is شارع ترعه بدران in the Cairo area?
+352,510.0,3400.0,C,1700.0,170.0,5100.0,How long is شارع السبتيه in the Cairo area?
+353,1500.0,500.0,B,1000.0,150.0,100.0,How long is كوبرى الميرغني الجديد in the Cairo area?
+354,430.0,1290.0,D,12900.0,4300.0,8600.0,How long is شارع الصاعقه in the Cairo area?
+355,200.0,100.0,A,600.0,100.0,400.0,How long is كوبرى كنيسه الرشاح in the Cairo area?
+356,4400.0,220.0,C,2200.0,660.0,6600.0,"How long is طريق القاهرة, الاسماعيليه الزراعى in the Cairo area?"
+357,900.0,270.0,A,100.0,1800.0,2700.0,How long is شارع الملك الصالح in the Cairo area?
+358,1000.0,2000.0,A,300.0,3000.0,100.0,How long is كوبري سراي القبه in the Cairo area?
+359,660.0,2200.0,B,6600.0,4400.0,220.0,How long is شارع جوزيف تيتو in the Cairo area?
+360,240.0,7200.0,E,720.0,4800.0,2400.0,How long is شارع جوزيف تيتو الجانبي in the Cairo area?
+361,690.0,2300.0,B,6900.0,230.0,4600.0,How long is شارع القصر الجمهوري in the Cairo area?
+362,600.0,200.0,B,100.0,400.0,100.0,How long is كوبري التجنيد in the Cairo area?
+363,2600.0,130.0,D,3900.0,1300.0,390.0,How long is شارع المنيل in the Cairo area?
+364,270.0,100.0,D,1800.0,900.0,2700.0,How long is شارع جوهر القائد in the Cairo area?
+365,400.0,12000.0,C,4000.0,8000.0,1200.0,How long is نفق الازهر in the Cairo area?
+366,600.0,100.0,E,100.0,400.0,200.0,How long is شارع صالح الجعفري in the Cairo area?
+367,180.0,1800.0,C,600.0,1200.0,100.0,How long is كوبري الازهر in the Cairo area?
+368,3600.0,2400.0,D,120.0,1200.0,360.0,How long is شارع الازهر in the Cairo area?
+369,180.0,1800.0,E,1200.0,100.0,600.0,How long is شارع 206 in the Cairo area?
+370,270.0,1800.0,C,900.0,100.0,2700.0,How long is شارع جامعه الدول العربيه الجانبي in the Cairo area?
+371,300.0,100.0,A,900.0,600.0,100.0,How long is كوبري عبد العزيز آل سعود in the Cairo area?
+372,100.0,100.0,C,300.0,600.0,900.0,How long is شارع الفنان صلاح جاهين in the Cairo area?
+373,1100.0,330.0,A,3300.0,110.0,2200.0,How long is شارع حسن الانوار القبلي in the Cairo area?
+374,1600.0,100.0,E,2400.0,240.0,800.0,How long is شارع المنصوريه in the Cairo area?
+375,5200.0,260.0,D,780.0,2600.0,7800.0,How long is محور 26 يوليو in the Cairo area?
+376,2400.0,100.0,D,240.0,800.0,1600.0,How long is شارع جمال سليم in the Cairo area?
+377,100.0,0.0,D,0.0,0.0,100.0,How long is شارع داير الناحيه in the Cairo area?
+378,720.0,7200.0,C,2400.0,240.0,4800.0,How long is شارع جزيره محمد in the Cairo area?
+379,500.0,150.0,A,1500.0,100.0,1000.0,How long is شارع محمد عز العرب in the Cairo area?
+380,1800.0,270.0,C,900.0,100.0,2700.0,How long is شارع عبد السلام عارف - البستان سابقا in the Cairo area?
+381,0.0,0.0,E,100.0,100.0,0.0,How long is ميدان الأوبرا in the Cairo area?
+382,300.0,3000.0,C,1000.0,100.0,2000.0,How long is شارع الشهيد احمد المنسى in the Cairo area?
+383,1980.0,660.0,E,13200.0,19800.0,6600.0,How long is شارع الشركات in the Cairo area?
+384,100.0,150.0,C,500.0,1500.0,1000.0,How long is شارع خضر التونى in the Cairo area?
+385,700.0,100.0,A,210.0,1400.0,2100.0,How long is نزلة شارع النيل in the Cairo area?
+386,800.0,100.0,A,240.0,1600.0,2400.0,How long is شارع النيل in the Cairo area?
+387,100.0,100.0,D,300.0,100.0,200.0,How long is شارع انس ابن مالك in the Cairo area?
+388,2860.0,85800.0,E,8580.0,57200.0,28600.0,How long is الطريق الدائري in the Cairo area?
+389,480.0,4800.0,B,14400.0,9600.0,1440.0,"How long is طريق القاهرة, السويس in the Cairo area?"
+390,750.0,5000.0,E,250.0,7500.0,2500.0,How long is شارع الورشه in the Cairo area?
+391,3200.0,1600.0,B,480.0,160.0,4800.0,How long is شارع الوفاء و الامل in the Cairo area?
+392,390.0,1170.0,C,3900.0,11700.0,7800.0,How long is شارع دار السلام in the Cairo area?
+393,200.0,100.0,A,400.0,600.0,100.0,How long is شارع مرفق المياه in the Cairo area?
+394,5600.0,8400.0,E,280.0,840.0,2800.0,How long is شارع شركات البترول in the Cairo area?
+395,100.0,300.0,E,100.0,200.0,100.0,How long is كوبرى ميدان الاميريه in the Cairo area?
+396,1000.0,500.0,B,100.0,150.0,1500.0,How long is كوبري الزاويه in the Cairo area?
+397,100.0,1200.0,C,400.0,800.0,120.0,How long is كوبري المظلات in the Cairo area?
+398,180.0,5400.0,E,3600.0,540.0,1800.0,How long is طريق بيجام in the Cairo area?
+399,1000.0,500.0,B,100.0,1500.0,150.0,How long is شارع 6 in the Cairo area?
+400,600.0,100.0,D,100.0,200.0,400.0,How long is شارع مجلس المدينه in the Cairo area?
+401,800.0,1200.0,D,100.0,400.0,120.0,How long is شارع الشيخ غراب in the Cairo area?
+402,100.0,400.0,D,100.0,200.0,600.0,How long is شارع ميدان كوبري القبه in the Cairo area?
+403,120.0,3600.0,E,360.0,2400.0,1200.0,How long is شارع ابراهيم الدوبك in the Cairo area?
+404,2700.0,270.0,E,1800.0,100.0,900.0,How long is شارع مدرسه المستقبل in the Cairo area?
+405,100.0,100.0,D,200.0,100.0,300.0,How long is شارع الفالوجا in the Cairo area?
+406,3200.0,480.0,D,4800.0,1600.0,160.0,How long is طريق امبابه القناطر الزراعى in the Cairo area?
+407,5700.0,1900.0,B,190.0,570.0,3800.0,"How long is طريق القاهرة, الاسكندرية الزراعى in the Cairo area?"
+408,100.0,0.0,E,100.0,0.0,0.0,How long is كوبرى الشرقاويه العلوى in the Cairo area?
+409,3600.0,2400.0,E,120.0,360.0,1200.0,How long is كوبري محور المنيب in the Cairo area?
+410,8100.0,270.0,C,2700.0,810.0,5400.0,How long is شارع ترعه المريوطية in the Cairo area?
+411,6700.0,20100.0,A,670.0,2010.0,13400.0,How long is طريق سقاره السياحى in the Cairo area?
+412,8600.0,860.0,A,17200.0,25800.0,2580.0,How long is محور ياسر رزق in the Cairo area?
+413,1860.0,6200.0,B,12400.0,18600.0,620.0,"How long is طريق القطامية, العين السخنه in the Cairo area?"
+414,300.0,100.0,A,900.0,100.0,600.0,How long is شارع ابراهيم شوقي in the Cairo area?
+415,800.0,100.0,A,1600.0,2400.0,240.0,How long is طريق مسطرد القديم in the Cairo area?
+416,800.0,2400.0,A,100.0,1600.0,240.0,How long is شارع احمد حسن in the Cairo area?
+417,2800.0,1400.0,B,140.0,4200.0,420.0,How long is شارع منظمه الوحده الافريقيه in the Cairo area?
+418,10200.0,6800.0,C,3400.0,1020.0,340.0,How long is شارع الجبلايه in the Cairo area?
+419,100.0,100.0,E,900.0,600.0,300.0,How long is نفق وادي النيل in the Cairo area?
+420,100.0,900.0,D,600.0,300.0,100.0,How long is شارع المدرسه الفنيه in the Cairo area?
+421,5800.0,2900.0,B,870.0,290.0,8700.0,How long is محور المشير طنطاوى in the Cairo area?
+422,200.0,600.0,A,100.0,400.0,100.0,How long is كوبري احمد عرابى in the Cairo area?
+423,4500.0,1500.0,B,450.0,3000.0,150.0,How long is شارع فلسطين in the Cairo area?
+424,800.0,120.0,C,400.0,100.0,1200.0,How long is شارع محمد شاهين in the Cairo area?
+425,1470.0,4410.0,E,29400.0,44100.0,14700.0,How long is طريق العين سخنة القديم in the Cairo area?
+426,390.0,130.0,E,2600.0,3900.0,1300.0,How long is شارع عماد حمدى in the Cairo area?
+427,400.0,600.0,D,100.0,200.0,100.0,How long is شارع عبد القادر طه in the Cairo area?
+428,100.0,700.0,B,2100.0,210.0,1400.0,How long is شارع شنن in the Cairo area?
+429,180.0,1200.0,D,1800.0,600.0,100.0,How long is شارع عرابي in the Cairo area?
+430,100.0,900.0,C,300.0,100.0,600.0,How long is شارع اسماعيل سري in the Cairo area?
+431,630.0,210.0,D,4200.0,2100.0,6300.0,How long is محور روكسى رمسيس in the Cairo area?
+432,400.0,100.0,E,600.0,100.0,200.0,How long is كوبرى مسجد السلام in the Cairo area?
+433,800.0,240.0,A,1600.0,100.0,2400.0,How long is شارع محمد شفيق in the Cairo area?
+434,360.0,120.0,C,1200.0,2400.0,3600.0,How long is شارع الدكتور احمد امين in the Cairo area?
+435,1200.0,1800.0,C,600.0,100.0,180.0,How long is كوبرى ميدان الحجاز in the Cairo area?
+436,22000.0,11000.0,B,33000.0,3300.0,1100.0,How long is شارع جمال عبد الناصر in the Cairo area?
+437,100.0,150.0,D,1000.0,500.0,1500.0,How long is امتداد شارع جمال عبد الناصر in the Cairo area?
+438,990.0,6600.0,E,330.0,9900.0,3300.0,How long is شارع السعادة in the Cairo area?
+439,13800.0,20700.0,D,690.0,6900.0,2070.0,How long is محور المشير محمد على فهمي in the Cairo area?
+440,250.0,750.0,C,2500.0,7500.0,5000.0,How long is شارع خاتم المرسلين in the Cairo area?
+441,1200.0,120.0,C,400.0,800.0,100.0,How long is كوبري ترسا in the Cairo area?
+442,660.0,13200.0,D,19800.0,6600.0,1980.0,How long is شارع ترسا in the Cairo area?
+443,300.0,100.0,D,100.0,100.0,200.0,How long is ميدان الواحه in the Cairo area?
+444,170.0,3400.0,C,1700.0,5100.0,510.0,How long is شارع محمد متولي الشعراوى in the Cairo area?
+445,270.0,1800.0,C,900.0,100.0,2700.0,How long is طريق البترول in the Cairo area?
+446,1600.0,2400.0,D,100.0,800.0,240.0,How long is شارع الورش in the Cairo area?
+447,3600.0,360.0,A,10800.0,7200.0,1080.0,How long is طريق القاهرة السويس in the Cairo area?
+448,1600.0,800.0,B,2400.0,100.0,240.0,How long is شارع دكتور حسام الدين بسيوني in the Cairo area?
+449,3400.0,1020.0,A,340.0,6800.0,10200.0,How long is طريق الجيش in the Cairo area?
+450,100.0,1000.0,E,1500.0,150.0,500.0,How long is كوبرى الميثاق in the Cairo area?
+451,100.0,600.0,D,400.0,200.0,100.0,How long is كوبرى الجيش المصرى in the Cairo area?
+452,120.0,800.0,D,100.0,400.0,1200.0,How long is شارع محمد رضوان in the Cairo area?
+453,100.0,0.0,E,100.0,0.0,0.0,How long is شارع عبد السلام in the Cairo area?
+454,130.0,3900.0,D,390.0,1300.0,2600.0,How long is امتداد شارع 9 in the Cairo area?
+455,7000.0,14000.0,A,21000.0,700.0,2100.0,How long is محور سعد زغلول in the Cairo area?
+456,3420.0,11400.0,B,1140.0,22800.0,34200.0,How long is شارع ترعه السواحل in the Cairo area?
+457,1000.0,1500.0,C,500.0,150.0,100.0,How long is كوبري العاشر من رمضان in the Cairo area?
+458,4200.0,2800.0,C,1400.0,420.0,140.0,How long is شارع سور المطار in the Cairo area?
+459,250.0,7500.0,C,2500.0,5000.0,750.0,How long is شارع ترعه بشتيل in the Cairo area?
+460,240.0,2400.0,B,4800.0,7200.0,720.0,How long is شارع صبحي حسين in the Cairo area?
+461,2100.0,100.0,C,700.0,210.0,1400.0,How long is شارع الشيخ محمد غراب in the Cairo area?
+462,210.0,2100.0,B,4200.0,6300.0,630.0,How long is شارع الكابلات in the Cairo area?
+463,600.0,100.0,E,900.0,100.0,300.0,How long is شارع محمد متولي الشعراوي in the Cairo area?
+464,540.0,1800.0,B,180.0,5400.0,3600.0,How long is شارع ترعه القبه in the Cairo area?
+465,100.0,200.0,B,400.0,100.0,600.0,How long is امتداد شارع المخيم الدائم in the Cairo area?
+466,1200.0,100.0,E,120.0,800.0,400.0,How long is شارع نزيه خليفه in the Cairo area?
+467,1800.0,100.0,C,600.0,180.0,1200.0,How long is شارع المعهد العالي للعلوم in the Cairo area?
+468,570.0,17100.0,D,1710.0,5700.0,11400.0,How long is محور الدكتوره سميره موسى in the Cairo area?
+469,100.0,800.0,C,400.0,120.0,1200.0,How long is كوبرى الحلميه الجديد in the Cairo area?
+470,100.0,180.0,D,1200.0,600.0,1800.0,How long is شارع الاتحاد in the Cairo area?
+471,12000.0,18000.0,E,1800.0,600.0,6000.0,How long is محور الضبعة in the Cairo area?
+472,100.0,200.0,E,100.0,300.0,100.0,How long is كوبرى محمد فوزي in the Cairo area?
+473,2100.0,700.0,B,210.0,100.0,1400.0,How long is شارع اسماعيل رمزى in the Cairo area?
+474,1200.0,120.0,E,800.0,100.0,400.0,How long is شارع الخليل in the Cairo area?
+475,5400.0,540.0,E,180.0,3600.0,1800.0,How long is شارع محطه حلميه الزيتون in the Cairo area?
+476,100.0,210.0,C,700.0,2100.0,1400.0,How long is محور جسر السويس in the Cairo area?
+477,2250.0,22500.0,E,750.0,15000.0,7500.0,How long is شارع التروللي in the Cairo area?
+478,900.0,300.0,C,3000.0,6000.0,9000.0,How long is شارع المسله in the Cairo area?
+479,800.0,100.0,E,1200.0,120.0,400.0,How long is شارع عزبه الصفيح in the Cairo area?
+480,380.0,11400.0,E,1140.0,7600.0,3800.0,How long is شارع دكتور اشرف البدري in the Cairo area?
+481,5700.0,1900.0,B,3800.0,570.0,190.0,How long is شارع الشهيد ابراهيم الشيخ in the Cairo area?
+482,120.0,400.0,B,100.0,1200.0,800.0,How long is كوبرى عبد الحميد بدوى in the Cairo area?
+483,7200.0,720.0,D,240.0,2400.0,4800.0,How long is شارع الجامعة الحديثة in the Cairo area?
+484,2600.0,390.0,E,3900.0,130.0,1300.0,How long is شارع عين الحياه in the Cairo area?
+485,360.0,120.0,D,2400.0,1200.0,3600.0,How long is شارع صلاح الدين الايوبي in the Cairo area?
+486,2200.0,4400.0,A,660.0,220.0,6600.0,How long is طريق المطار in the Cairo area?
+487,100.0,900.0,E,600.0,100.0,300.0,How long is شارع ابراهيم الخليلي in the Cairo area?
+488,900.0,300.0,B,100.0,600.0,100.0,How long is كوبرى الليمون in the Cairo area?
+489,1000.0,100.0,A,2000.0,300.0,3000.0,How long is شارع المخيم الدائم in the Cairo area?
+490,100.0,1500.0,E,1000.0,150.0,500.0,How long is شارع ابراهيم in the Cairo area?
+491,100.0,100.0,C,300.0,600.0,900.0,How long is طريق الميثاق in the Cairo area?
+492,900.0,300.0,B,600.0,100.0,100.0,How long is كوبرى الشهيد المقدم احمد ابو النجا in the Cairo area?
+493,390.0,3900.0,E,130.0,2600.0,1300.0,How long is شارع محمد نجيب in the Cairo area?
+494,120.0,400.0,B,100.0,800.0,1200.0,How long is شارع عبد السلام عارف in the Cairo area?
+495,4200.0,1260.0,A,8400.0,420.0,12600.0,How long is شارع وادي دجله in the Cairo area?
+496,400.0,1200.0,E,12000.0,8000.0,4000.0,How long is شارع على بن ابى طالب in the Cairo area?
+497,1300.0,390.0,A,130.0,3900.0,2600.0,How long is شارع البنهاوي in the Cairo area?
+498,200.0,100.0,A,400.0,100.0,600.0,How long is كوبرى الملك الصالح in the Cairo area?
+499,100.0,1800.0,D,180.0,600.0,1200.0,How long is شارع الشيخ علي يوسف in the Cairo area?
+500,100.0,100.0,C,200.0,600.0,400.0,How long is شارع الميثاق in the Cairo area?
+501,2790.0,9300.0,B,27900.0,18600.0,930.0,How long is شارع 6 اكتوبر in the Cairo area?
+502,600.0,1200.0,A,1800.0,100.0,180.0,How long is شارع فتحي النجار[طلعة البراجيل] in the Cairo area?
+503,100.0,900.0,C,300.0,600.0,100.0,How long is شارع الشهداء in the Cairo area?
+504,100.0,100.0,E,600.0,400.0,200.0,How long is شارع جلال الدين الحمامصى in the Cairo area?
+505,200.0,100.0,A,400.0,100.0,600.0,How long is شارع النيل الابيض in the Cairo area?
+506,100.0,600.0,D,400.0,200.0,100.0,How long is نفق الملك الصالح in the Cairo area?
+507,1000.0,100.0,A,2000.0,3000.0,300.0,How long is شارع الخلاء in the Cairo area?
+508,180.0,540.0,C,1800.0,3600.0,5400.0,How long is شارع مصر و السودان in the Cairo area?
+509,6300.0,1890.0,A,12600.0,18900.0,630.0,How long is محور جمال عبد الناصر in the Cairo area?
+510,1560.0,15600.0,E,10400.0,520.0,5200.0,How long is شارع القوميه العربيه in the Cairo area?
+511,2000.0,100.0,D,300.0,1000.0,3000.0,How long is شارع سنان باشا in the Cairo area?
+512,330.0,1100.0,B,2200.0,110.0,3300.0,How long is شارع البطراوي in the Cairo area?
+513,3300.0,1100.0,B,2200.0,330.0,110.0,How long is شارع الشيخ كامل خضر in the Cairo area?
+514,240.0,2400.0,C,800.0,100.0,1600.0,How long is شارع دكتور حسن الشريف in the Cairo area?
+515,1500.0,1000.0,E,150.0,100.0,500.0,How long is شارع غرناطه in the Cairo area?
+516,780.0,260.0,D,5200.0,2600.0,7800.0,How long is شارع أحمد فؤاد نجم in the Cairo area?
+517,100.0,900.0,C,300.0,600.0,100.0,"How long is طريق القاهرة, السويس الجانبى in the Cairo area?"
+518,8000.0,12000.0,D,1200.0,4000.0,400.0,How long is شارع ترعه عبد العال 2 in the Cairo area?
+519,660.0,4400.0,C,2200.0,220.0,6600.0,How long is شارع جسر الكنيسة in the Cairo area?
+520,240.0,720.0,C,2400.0,4800.0,7200.0,How long is شارع الوحده الصحيه in the Cairo area?
+521,5100.0,510.0,C,1700.0,3400.0,170.0,How long is شارع الخليفه in the Cairo area?
+522,870.0,2900.0,B,8700.0,5800.0,290.0,How long is شارع بحرى الزاويه in the Cairo area?
+523,0.0,100.0,E,0.0,100.0,0.0,How long is طريق القناطر in the Cairo area?
+524,5400.0,8100.0,D,270.0,2700.0,810.0,How long is محور عمرو بن العاص in the Cairo area?
+525,100.0,100.0,E,300.0,200.0,100.0,How long is شارع حسين كامل سليم in the Cairo area?
+526,0.0,0.0,E,100.0,100.0,0.0,How long is شارع أبو بكر الصديق in the Cairo area?
+527,0.0,0.0,C,0.0,100.0,100.0,How long is شارع الثوره الجانبى in the Cairo area?
+528,300.0,600.0,A,100.0,900.0,100.0,How long is كوبرى الكابلات in the Cairo area?
+529,5700.0,1710.0,A,11400.0,17100.0,570.0,How long is الطريق الابيض in the Cairo area?
+530,300.0,100.0,E,100.0,200.0,100.0,How long is شارع الاربعين in the Cairo area?
+531,1000.0,100.0,D,150.0,500.0,1500.0,How long is كوبرى جوزيف تيتو in the Cairo area?
+532,240.0,100.0,D,2400.0,800.0,1600.0,How long is كوبرى متحف الحضاره in the Cairo area?
+533,180.0,600.0,B,100.0,1800.0,1200.0,How long is شارع خالد بن الوليد in the Cairo area?
+534,2100.0,100.0,C,700.0,1400.0,210.0,How long is كوبرى المستشار ممدوح مرعي in the Cairo area?
+535,200.0,400.0,A,600.0,100.0,100.0,How long is كوبرى 6 اكتوبر in the Cairo area?
+536,4600.0,690.0,D,230.0,2300.0,6900.0,How long is شارع الخيالة in the Cairo area?
+537,330.0,110.0,E,3300.0,2200.0,1100.0,How long is كوبرى دكتور كمال الجنزوري in the Cairo area?
+538,5600.0,16800.0,A,11200.0,560.0,1680.0,How long is محور شينزو ابى in the Cairo area?
+539,100.0,200.0,E,100.0,300.0,100.0,How long is كوبرى الاربعين in the Cairo area?
+540,1000.0,1500.0,C,500.0,150.0,100.0,How long is شارع الدكتور محمود صالح ابو زيد in the Cairo area?
+541,400.0,200.0,B,100.0,100.0,600.0,How long is شارع الضغط العالى in the Cairo area?
+542,560.0,11200.0,D,16800.0,5600.0,1680.0,How long is محور الفريق كمال عامر in the Cairo area?
+543,1300.0,2600.0,A,130.0,390.0,3900.0,How long is شارع الخمسين in the Cairo area?
+544,1600.0,3200.0,A,160.0,4800.0,480.0,How long is طريق محطة الاذاعه و التلفزيون in the Cairo area?
+545,300.0,100.0,E,3000.0,2000.0,1000.0,How long is محور 3 يوليو in the Cairo area?
+546,450.0,4500.0,C,1500.0,3000.0,150.0,How long is شارع الزهور in the Cairo area?
+547,600.0,200.0,C,2000.0,4000.0,6000.0,How long is محور احمد عرابى in the Cairo area?
+548,0.0,100.0,E,100.0,0.0,0.0,How long is طريق اعمار in the Cairo area?
+549,600.0,200.0,B,400.0,100.0,100.0,How long is كوبرى الدكتور طه حسين in the Cairo area?
+550,1000.0,3000.0,A,2000.0,300.0,100.0,How long is شارع حدائق القبة in the Cairo area?
+551,1200.0,600.0,B,180.0,100.0,1800.0,How long is شارع الشيخ امام in the Cairo area?
+552,1800.0,900.0,B,270.0,2700.0,100.0,How long is كوبري طره in the Cairo area?
+553,270.0,2700.0,C,900.0,100.0,1800.0,How long is شارع سبيل المؤمنين in the Cairo area?
+554,0.0,100.0,E,100.0,0.0,0.0,How long is شارع سالم سالم in the Cairo area?
+555,0.0,0.0,C,0.0,100.0,100.0,How long is شارع لطفي حسونة in the Cairo area?
+556,100.0,200.0,D,100.0,100.0,300.0,How long is شارع احمد الزين in the Cairo area?
+557,1800.0,270.0,D,100.0,900.0,2700.0,How long is شارع وابور الترجمان in the Cairo area?
+558,570.0,5700.0,D,3800.0,1900.0,190.0,How long is شارع طه حسين in the Cairo area?
+559,100.0,1800.0,C,600.0,180.0,1200.0,How long is شارع الليثى in the Cairo area?
+560,280.0,5600.0,E,840.0,8400.0,2800.0,How long is شارع جزيره بدران in the Cairo area?
+561,600.0,12000.0,C,6000.0,1800.0,18000.0,How long is شارع ترعه زنين in the Cairo area?
+562,2200.0,1100.0,B,330.0,110.0,3300.0,How long is شارع اساس الهجانه in the Cairo area?
+563,3200.0,4800.0,D,160.0,1600.0,480.0,How long is شارع الزبيدي in the Cairo area?
+564,4600.0,2300.0,B,6900.0,230.0,690.0,How long is شارع الترعه الحفريه in the Cairo area?
+565,14700.0,1470.0,A,4410.0,44100.0,29400.0,How long is شارع الصحابه in the Cairo area?
+566,990.0,19800.0,E,29700.0,2970.0,9900.0,How long is شارع المدارس in the Cairo area?
+567,1600.0,160.0,A,480.0,4800.0,3200.0,How long is شارع العشرين in the Cairo area?
+568,1800.0,12000.0,D,600.0,6000.0,18000.0,How long is شارع المدينه المنوره in the Cairo area?
+569,10200.0,3400.0,B,1020.0,6800.0,340.0,How long is شارع الكردى in the Cairo area?
+570,6000.0,18000.0,A,600.0,12000.0,1800.0,How long is شارع عبد المنعم رياض in the Cairo area?
+571,100.0,240.0,E,2400.0,1600.0,800.0,How long is شارع المركز in the Cairo area?
+572,4000.0,1200.0,A,8000.0,400.0,12000.0,"How long is طريق قرية منيل شيحه, مدينه الحوامديه in the Cairo area?"
+573,2700.0,270.0,A,8100.0,5400.0,810.0,How long is شارع مصنع الفيروز in the Cairo area?
+574,9000.0,27000.0,A,2700.0,18000.0,900.0,How long is شارع المركز الطبى in the Cairo area?
+575,2100.0,210.0,A,630.0,4200.0,6300.0,How long is شارع ترعه السرو in the Cairo area?
+576,1200.0,100.0,D,800.0,400.0,120.0,How long is شارع المنطقه الصناعيه in the Cairo area?
+577,120.0,360.0,E,3600.0,2400.0,1200.0,How long is شارع محمود عمار in the Cairo area?
+578,1300.0,390.0,A,3900.0,130.0,2600.0,How long is شارع غرب السكه الحديد in the Cairo area?
+579,69900.0,6990.0,E,2330.0,46600.0,23300.0,How long is شارع ارض اللواء in the Cairo area?
+580,100.0,300.0,D,100.0,100.0,200.0,How long is شارع الطهاوية in the Cairo area?
+581,4200.0,6300.0,D,630.0,2100.0,210.0,How long is شارع عبد الحميد الديب in the Cairo area?
+582,4800.0,3200.0,C,1600.0,160.0,480.0,How long is شارع ابو الفرج in the Cairo area?
+583,6000.0,200.0,E,4000.0,600.0,2000.0,How long is شارع جزيره ترعه بدران in the Cairo area?
+584,3000.0,4500.0,D,150.0,1500.0,450.0,How long is شارع البصراوى in the Cairo area?
+585,1100.0,330.0,A,3300.0,110.0,2200.0,How long is شارع ابن الرشيد in the Cairo area?
+586,100.0,150.0,D,1000.0,500.0,1500.0,How long is شارع النجيلي in the Cairo area?
+587,540.0,1800.0,B,5400.0,3600.0,180.0,How long is شارع الطريق الدائرى in the Cairo area?
+588,8400.0,5600.0,E,840.0,280.0,2800.0,How long is شارع المسابك in the Cairo area?
+589,540.0,5400.0,D,3600.0,1800.0,180.0,How long is شارع المدينه المنورة in the Cairo area?
+590,2600.0,3900.0,E,130.0,390.0,1300.0,How long is شارع حمدي عبد السلام in the Cairo area?
+591,7200.0,4800.0,D,720.0,2400.0,240.0,How long is شارع بشتيل in the Cairo area?
+592,210.0,2100.0,D,1400.0,700.0,100.0,How long is شارع 10 in the Cairo area?
+593,3200.0,4800.0,E,160.0,480.0,1600.0,How long is شارع مجلس الشعب in the Cairo area?
+594,2700.0,900.0,B,1800.0,100.0,270.0,How long is شارع مصطفى حافظ in the Cairo area?
+595,600.0,100.0,D,900.0,300.0,100.0,How long is شارع صلاح الدين الغربى in the Cairo area?
+596,240.0,2400.0,D,1600.0,800.0,100.0,How long is شارع القادريه in the Cairo area?
+597,800.0,120.0,E,1200.0,100.0,400.0,How long is ميدان النهضة in the Cairo area?
+598,1100.0,110.0,A,2200.0,330.0,3300.0,How long is شارع السرايا in the Cairo area?
+599,360.0,120.0,C,1200.0,3600.0,2400.0,How long is شارع الملك عبد العزيز آل سعود in the Cairo area?
+600,240.0,2400.0,E,1600.0,100.0,800.0,How long is شارع الاشراف in the Cairo area?
+601,120.0,1200.0,C,400.0,800.0,100.0,How long is شارع الصليبة in the Cairo area?
+602,1200.0,3600.0,A,2400.0,120.0,360.0,How long is شارع محمد قدري باشا in the Cairo area?
+603,390.0,2600.0,C,1300.0,130.0,3900.0,How long is شارع الطرابيشي in the Cairo area?
+604,600.0,100.0,C,300.0,900.0,100.0,How long is شارع محمد صبري ابو علم in the Cairo area?
+605,200.0,300.0,E,100.0,100.0,100.0,How long is شارع علي باشا ذو الفقار in the Cairo area?
+606,100.0,100.0,E,600.0,400.0,200.0,How long is شارع سبيل الخازنداره in the Cairo area?
+607,100.0,1800.0,D,2700.0,900.0,270.0,How long is شارع الدكتور محمد النبوي المهندس in the Cairo area?
+608,3900.0,130.0,D,390.0,1300.0,2600.0,How long is شارع العامل الاول in the Cairo area?
+609,140.0,4200.0,C,1400.0,420.0,2800.0,How long is شارع المحطه in the Cairo area?
+610,2500.0,5000.0,A,250.0,750.0,7500.0,How long is شارع الطيار فكرى زاهر in the Cairo area?
+611,310.0,6200.0,D,9300.0,3100.0,930.0,How long is شارع كمال بطرس[شمال المحور] in the Cairo area?
+612,100.0,1000.0,C,500.0,1500.0,150.0,How long is الطريق الثاني in the Cairo area?
+613,1200.0,800.0,D,100.0,400.0,120.0,How long is شارع سعيد ذو الفقار in the Cairo area?
+614,6000.0,200.0,C,2000.0,600.0,4000.0,How long is شارع البساتين in the Cairo area?
+615,6300.0,630.0,E,4200.0,210.0,2100.0,How long is شارع سيدي عقبه in the Cairo area?
+616,510.0,3400.0,E,170.0,5100.0,1700.0,How long is شارع جسر البحر in the Cairo area?
+617,540.0,1800.0,B,180.0,3600.0,5400.0,How long is شارع باحثه الباديه in the Cairo area?
+618,100.0,1200.0,E,120.0,800.0,400.0,How long is شارع كوبري امبابه in the Cairo area?
+619,800.0,100.0,A,240.0,2400.0,1600.0,How long is شارع السكه التجاري in the Cairo area?
+620,100.0,600.0,C,300.0,100.0,900.0,How long is شارع المطراوي in the Cairo area?
+621,100.0,210.0,E,1400.0,2100.0,700.0,How long is شارع العقاد in the Cairo area?
+622,1000.0,2000.0,A,3000.0,300.0,100.0,How long is شارع صعب صالح in the Cairo area?
+623,4800.0,7200.0,E,240.0,720.0,2400.0,How long is شارع ابو الفتوح عبد الله in the Cairo area?
+624,630.0,210.0,D,6300.0,2100.0,4200.0,How long is شارع احمد عرابي in the Cairo area?
+625,330.0,3300.0,D,2200.0,1100.0,110.0,How long is شارع أحمد إسماعيل in the Cairo area?
+626,900.0,300.0,B,100.0,100.0,600.0,How long is شارع مجرى العيون in the Cairo area?
+627,1710.0,570.0,D,17100.0,5700.0,11400.0,How long is شارع جامع عمرو in the Cairo area?
+628,600.0,4000.0,E,200.0,6000.0,2000.0,How long is طريق مصر حلوان الزراعي in the Cairo area?
+629,600.0,1200.0,A,180.0,1800.0,100.0,How long is شارع 101 in the Cairo area?
+630,2800.0,140.0,E,420.0,4200.0,1400.0,How long is شارع مستشفى القوات المسلحه in the Cairo area?
+631,510.0,5100.0,B,1530.0,10200.0,15300.0,How long is طريق ترعة ميت قادوس in the Cairo area?
+632,0.0,100.0,E,100.0,0.0,0.0,How long is كوبرى اولاد صالح in the Cairo area?
+633,22800.0,34200.0,C,11400.0,1140.0,3420.0,How long is شارع كورنيش الاهرام in the Cairo area?
+634,2200.0,330.0,C,1100.0,3300.0,110.0,How long is شارع المقطم in the Cairo area?
+635,600.0,1200.0,A,100.0,1800.0,180.0,How long is شارع شبين in the Cairo area?
+636,1700.0,510.0,A,170.0,3400.0,5100.0,How long is شارع الرقيبه in the Cairo area?
+637,270.0,900.0,B,100.0,1800.0,2700.0,How long is شارع والي in the Cairo area?
+638,930.0,6200.0,C,3100.0,9300.0,310.0,How long is شارع المصرف in the Cairo area?
+639,470.0,14100.0,E,9400.0,1410.0,4700.0,How long is شارع عثمان احمد عثمان in the Cairo area?
+640,310.0,3100.0,B,930.0,6200.0,9300.0,How long is شارع الاقصر in the Cairo area?
+641,330.0,110.0,C,1100.0,2200.0,3300.0,How long is شارع حسن ابراهيم in the Cairo area?
+642,600.0,300.0,B,100.0,100.0,900.0,How long is شارع 34 in the Cairo area?
+643,2000.0,4000.0,A,6000.0,600.0,200.0,How long is شارع متحف المطريه in the Cairo area?
+644,220.0,2200.0,B,4400.0,660.0,6600.0,How long is شارع الجمعيه الزراعيه in the Cairo area?
+645,1500.0,150.0,A,4500.0,3000.0,450.0,How long is شارع محطة حلميه الزيتون in the Cairo area?
+646,100.0,700.0,B,1400.0,210.0,2100.0,How long is شارع جنينه الشريف in the Cairo area?
+647,270.0,900.0,B,1800.0,100.0,2700.0,How long is شارع ترعه الحفريه in the Cairo area?
+648,1400.0,700.0,B,2100.0,210.0,100.0,How long is شارع فتحي النجار in the Cairo area?
+649,600.0,100.0,D,900.0,300.0,100.0,How long is شارع الشيخ العناني in the Cairo area?
+650,2100.0,700.0,B,210.0,100.0,1400.0,How long is شارع الشيخ علي عيسي in the Cairo area?
+651,400.0,800.0,A,1200.0,100.0,120.0,How long is شارع ابو حبشى in the Cairo area?
+652,170.0,1700.0,B,510.0,5100.0,3400.0,How long is شارع احمد بسيوني in the Cairo area?
+653,2000.0,200.0,A,600.0,6000.0,4000.0,How long is شارع المشتل in the Cairo area?
+654,3100.0,930.0,A,9300.0,310.0,6200.0,How long is شارع محمد حامد in the Cairo area?
+655,210.0,2100.0,B,630.0,6300.0,4200.0,How long is شارع بهجت الشوربجى in the Cairo area?
+656,4600.0,690.0,C,2300.0,6900.0,230.0,How long is شارع الرحمه in the Cairo area?
+657,600.0,200.0,B,100.0,100.0,400.0,How long is شارع اكاديمية السادات in the Cairo area?
+658,7000.0,10500.0,C,3500.0,1050.0,350.0,How long is شارع معمل التكرير in the Cairo area?
+659,1200.0,800.0,C,400.0,120.0,100.0,How long is شارع النجار in the Cairo area?
+660,400.0,4000.0,B,8000.0,1200.0,12000.0,How long is شارع مجمع المصانع in the Cairo area?
+661,160.0,1600.0,B,4800.0,480.0,3200.0,How long is شارع الجراج in the Cairo area?
+662,6600.0,3300.0,B,330.0,9900.0,990.0,How long is شارع باب الوزير in the Cairo area?
+663,100.0,120.0,E,800.0,1200.0,400.0,How long is شارع خالد درويش in the Cairo area?
+664,1000.0,100.0,C,500.0,150.0,1500.0,How long is شارع محمد مبروك in the Cairo area?
+665,250.0,750.0,C,2500.0,7500.0,5000.0,How long is شارع السنترال in the Cairo area?
+666,6300.0,630.0,D,4200.0,2100.0,210.0,How long is شارع الطريق الدائري in the Cairo area?
+667,33300.0,11100.0,B,22200.0,1110.0,3330.0,How long is شارع البحر in the Cairo area?
+668,3000.0,450.0,E,150.0,4500.0,1500.0,How long is طريق ترعه البكباشي in the Cairo area?
+669,1050.0,350.0,D,7000.0,3500.0,10500.0,How long is شارع الشهيد احمد بدوي in the Cairo area?
+670,0.0,0.0,D,100.0,0.0,100.0,How long is شارع أولاد سعودي in the Cairo area?
+671,1000.0,3000.0,A,2000.0,300.0,100.0,How long is شارع المستشار مجدى سليم in the Cairo area?
+672,1400.0,2800.0,A,420.0,4200.0,140.0,How long is شارع سور دار الدفاع الجوي in the Cairo area?
+673,2200.0,6600.0,A,660.0,220.0,4400.0,How long is شارع روض الفرج in the Cairo area?
+674,440.0,13200.0,E,8800.0,1320.0,4400.0,How long is شارع محطة الزيتون in the Cairo area?
+675,1700.0,510.0,A,3400.0,170.0,5100.0,How long is شارع الدكتور محمود فتحي in the Cairo area?
+676,210.0,4200.0,E,630.0,6300.0,2100.0,How long is شارع البطل in the Cairo area?
+677,300.0,2000.0,D,100.0,1000.0,3000.0,How long is شارع المصانع in the Cairo area?
+678,500.0,100.0,A,1000.0,150.0,1500.0,How long is شارع داير الناحيه الجنوبى in the Cairo area?
+679,2500.0,7500.0,A,5000.0,750.0,250.0,How long is شارع داير الناحيه الشرقى in the Cairo area?
+680,210.0,630.0,D,6300.0,2100.0,4200.0,How long is شارع مرسى محمود in the Cairo area?
+681,100.0,300.0,B,900.0,600.0,100.0,How long is شارع اللواء جمال اللبان in the Cairo area?
+682,100.0,1000.0,B,300.0,3000.0,2000.0,How long is شارع كيلوباترا in the Cairo area?
+683,160.0,4800.0,E,3200.0,480.0,1600.0,How long is شارع طومان باى in the Cairo area?
+684,500.0,1500.0,A,1000.0,150.0,100.0,How long is شارع 257 in the Cairo area?
+685,100.0,100.0,D,600.0,200.0,400.0,How long is ميدان العتبه in the Cairo area?
+686,360.0,2400.0,D,120.0,1200.0,3600.0,How long is طريق الكابتن طيار لطفية النادي in the Cairo area?
+687,5400.0,810.0,D,270.0,2700.0,8100.0,How long is شارع خلف المرور in the Cairo area?
+688,300.0,100.0,D,100.0,100.0,200.0,How long is شارع الوالي in the Cairo area?
+689,2400.0,360.0,C,1200.0,120.0,3600.0,How long is كوبري امبابه in the Cairo area?
+690,0.0,0.0,E,100.0,100.0,0.0,How long is شارع مساكن القناة in the Cairo area?
+691,270.0,900.0,B,1800.0,2700.0,100.0,How long is شارع دمشق in the Cairo area?
+692,400.0,200.0,B,600.0,100.0,100.0,How long is شارع علي باشا اللاله in the Cairo area?
+693,1000.0,500.0,B,150.0,100.0,1500.0,How long is شارع قصر الشمع in the Cairo area?
+694,100.0,200.0,B,400.0,600.0,100.0,How long is شارع عمارة الاسمنت in the Cairo area?
+695,400.0,1200.0,A,100.0,120.0,800.0,How long is شارع كسارات البلدية in the Cairo area?
+696,450.0,1500.0,B,3000.0,150.0,4500.0,How long is شارع كيلانى in the Cairo area?
+697,4300.0,1290.0,A,430.0,8600.0,12900.0,How long is شارع التلاتيني in the Cairo area?
+698,120.0,100.0,E,1200.0,800.0,400.0,How long is شارع محمد محمود in the Cairo area?
+699,600.0,900.0,E,100.0,100.0,300.0,How long is شارع الزيتون in the Cairo area?
+700,5400.0,2700.0,B,8100.0,270.0,810.0,How long is شارع سراي الزعفران in the Cairo area?
+701,4300.0,430.0,A,1290.0,8600.0,12900.0,How long is شارع ال محمد بن حمد ال ثان in the Cairo area?
+702,300.0,1000.0,B,100.0,3000.0,2000.0,How long is شارع البراجيل in the Cairo area?
+703,180.0,600.0,B,100.0,1200.0,1800.0,How long is شارع منشيه الصدر in the Cairo area?
+704,0.0,100.0,D,0.0,0.0,100.0,How long is شارع كمال الدين حسين in the Cairo area?
+705,240.0,2400.0,D,100.0,800.0,1600.0,How long is شارع عماد الدين in the Cairo area?
+706,6000.0,600.0,D,4000.0,2000.0,200.0,How long is شارع الشهيد احمد زكي in the Cairo area?
+707,800.0,240.0,A,100.0,1600.0,2400.0,How long is شارع سكه راتب باشا الكبير in the Cairo area?
+708,4500.0,450.0,E,150.0,3000.0,1500.0,How long is شارع عبد المنعم الصاوي in the Cairo area?
+709,100.0,100.0,E,0.0,0.0,0.0,How long is شارع فخري عبد النور in the Cairo area?
+710,0.0,100.0,D,0.0,0.0,100.0,How long is شارع دكتور محمد محب زكى in the Cairo area?
+711,800.0,120.0,C,400.0,1200.0,100.0,How long is شارع الشهيد كيلاني محمد كيلاني in the Cairo area?
+712,400.0,600.0,E,100.0,100.0,200.0,How long is شارع عدلي in the Cairo area?
+713,100.0,0.0,D,0.0,0.0,100.0,How long is شارع بيرم التونسي in the Cairo area?
+714,2100.0,210.0,C,700.0,1400.0,100.0,How long is شارع الملك منصور عثمان in the Cairo area?
+715,100.0,0.0,E,100.0,0.0,0.0,How long is كوبرى المنيل in the Cairo area?
+716,100.0,100.0,D,400.0,200.0,600.0,How long is شارع محمد صدقي الشافعي in the Cairo area?
+717,100.0,1800.0,D,1200.0,600.0,180.0,How long is شارع منشيه التحرير in the Cairo area?
+718,100.0,600.0,D,100.0,200.0,400.0,How long is كوبري العزيز بالله in the Cairo area?
+719,100.0,900.0,D,100.0,300.0,600.0,How long is شارع العزيز بالله in the Cairo area?
+720,1000.0,3000.0,A,2000.0,300.0,100.0,How long is شارع الشهيد بهجت حسن in the Cairo area?
+721,100.0,200.0,B,600.0,400.0,100.0,How long is شارع المماليك البحريه in the Cairo area?
+722,100.0,100.0,D,600.0,200.0,400.0,How long is شارع مهمشه in the Cairo area?
+723,100.0,100.0,E,400.0,600.0,200.0,How long is كوبرى البراجيل in the Cairo area?
+724,250.0,750.0,C,2500.0,7500.0,5000.0,How long is شارع المصانع 3 in the Cairo area?
+725,1000.0,100.0,D,150.0,500.0,1500.0,How long is شارع عبد الفتاح عزام in the Cairo area?
+726,630.0,210.0,E,4200.0,6300.0,2100.0,How long is شارع محمد السباعى in the Cairo area?
+727,220.0,6600.0,E,660.0,4400.0,2200.0,How long is شارع درويش العربي in the Cairo area?
+728,1700.0,5100.0,A,3400.0,510.0,170.0,How long is شارع الفيوم in the Cairo area?
+729,100.0,1200.0,E,800.0,120.0,400.0,How long is شارع محمد صديق المنشاوى in the Cairo area?
+730,1800.0,2700.0,C,900.0,100.0,270.0,How long is شارع عبد المنعم عبد الهادى in the Cairo area?
+731,1700.0,170.0,A,510.0,3400.0,5100.0,How long is شارع مساكن الشركات in the Cairo area?
+732,1800.0,100.0,D,270.0,900.0,2700.0,How long is شارع عزيز صدقى in the Cairo area?
+733,100.0,100.0,E,300.0,200.0,100.0,How long is شارع بهى الدين بركات in the Cairo area?
+734,0.0,0.0,E,100.0,100.0,0.0,How long is كوبري باب الخلق in the Cairo area?
+735,1600.0,100.0,E,2400.0,240.0,800.0,How long is نفق سعد سليم in the Cairo area?
+736,1600.0,100.0,D,2400.0,800.0,240.0,How long is شارع دكتور عزيز صدقى in the Cairo area?
+737,100.0,300.0,E,200.0,100.0,100.0,How long is ميدان المطار in the Cairo area?
+738,0.0,100.0,E,100.0,0.0,0.0,How long is شارع الصبان in the Cairo area?
+739,900.0,600.0,E,100.0,100.0,300.0,How long is شارع مدرسه طلائع المستقبل in the Cairo area?
+740,100.0,300.0,D,100.0,100.0,200.0,How long is شارع الطوبجى in the Cairo area?
+741,12200.0,1830.0,D,18300.0,6100.0,610.0,How long is شارع الخرطه الجديده in the Cairo area?
+742,100.0,1600.0,C,800.0,2400.0,240.0,How long is شارع طه الصافى in the Cairo area?
+743,100.0,200.0,E,300.0,100.0,100.0,How long is نفق الدمرداش in the Cairo area?
+744,100.0,100.0,E,300.0,200.0,100.0,How long is شارع حسين كامل in the Cairo area?
+745,100.0,100.0,C,200.0,400.0,600.0,How long is نفق السبتية in the Cairo area?
+746,100.0,300.0,B,600.0,900.0,100.0,How long is شارع البباوى in the Cairo area?

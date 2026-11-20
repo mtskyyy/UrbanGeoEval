@@ -1,0 +1,1441 @@
+id,question,answer,A,B,C,D
+0,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ärztezentrum 5Morgen. Detailed address: 175-177, Clayallee, Dahlem, Steglitz-Zehlendorf, Berlin, Brandenburg, 14195, Deutschland
+2. Kleingartenanlage Blockdamm. Detailed address: Kleckersdorfer Weg, Kleingartenanlage Blockdamm, Rummelsburg, Lichtenberg, Berlin, Brandenburg, 10318, Deutschland",A,16.88,19.15,15.19,12.05
+1,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Crazy Bastard Kitchen. Detailed address: 168, Weserstraße, Donaukiez, Neukölln, Berlin, Brandenburg, 12045, Deutschland
+2. JET. Detailed address: 36, Kurt-Schumacher-Damm, Reinickendorf, Berlin, Reinickendorf, Brandenburg, 13405, Deutschland",D,8.74,8.22,10.21,11.72
+2,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sportanlage Buschkrugallee. Detailed address: Zeile 7, Britz, Neukölln, Berlin, Brandenburg, 12359, Deutschland
+2. DLRG Wasserrettungsstation Scharfenberger Enge. Detailed address: 99, Schwarzer Weg, Tegel, Berlin, Reinickendorf, Brandenburg, 13505, Deutschland",D,24.15,14.69,14.69,20.0
+3,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Süße Sünde. Detailed address: 21, Weinbergsweg, Spandauer Vorstadt, Mitte, Berlin, Brandenburg, 10119, Deutschland
+2. Dirk Rehbein. Detailed address: 9, Landauer Straße, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14197, Deutschland",B,10.87,8.68,2.01,13.73
+4,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Helsingforser Platz / Warschauer Straße. Detailed address: Marchlewskistraße, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10243, Deutschland
+2. Sofram. Detailed address: 137, Potsdamer Straße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10783, Deutschland",A,6.08,0.97,2.93,13.38
+5,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bayerischer Platz. Detailed address: Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10779, Deutschland
+2. Ärztezentrum 5Morgen. Detailed address: 175-177, Clayallee, Dahlem, Steglitz-Zehlendorf, Berlin, Brandenburg, 14195, Deutschland",C,12.76,1.56,6.34,1.13
+6,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Majesty Grill. Detailed address: 9, Hauptstraße, Wilhelmsruh, Berlin, Pankow, Brandenburg, 13158, Deutschland
+2. Perleweiss. Detailed address: Quitzowstraße, Moabit, Mitte, Berlin, Brandenburg, 10559, Deutschland",A,5.56,12.35,4.08,10.77
+7,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tines Hausgemachtes. Detailed address: Droysenstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10629, Deutschland
+2. Anselm W.H.Pinot. Detailed address: 115b, Kurfürstendamm, Halensee, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10711, Deutschland",A,0.8,2.35,4.55,7.2
+8,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Zahnarztpraxis Christine Rexer. Detailed address: Karin Michaelis, 4, Gethsemanestraße, Bremer Höhe, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10437, Deutschland
+2. Dr. med. Mathias Appel. Detailed address: Koloniestraße, Soldiner Kiez, Gesundbrunnen, Mitte, Berlin, Brandenburg, 13359, Deutschland",D,7.85,9.8,7.6,2.84
+9,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Heinrich-Zille-Kindergarten. Detailed address: 59, Seelingstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14059, Deutschland
+2. Andrea-Maria Sistori. Detailed address: 14, Ringbahnstraße, Halensee, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10711, Deutschland",B,4.75,1.91,8.12,8.49
+10,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Stay. Detailed address: 29, Grunewaldstraße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10823, Deutschland
+2. Akkon-Hochschule für Humanwissenschaften. Detailed address: 34-36, Colditzstraße, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12099, Deutschland",A,4.92,10.21,2.25,0.51
+11,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Industriesalon Schöneweide. Detailed address: 10, Reinbeckstraße, Oberschöneweide, Treptow-Köpenick, Berlin, Brandenburg, 12459, Deutschland
+2. Scandic Berlin Potsdamer Platz. Detailed address: Gabriele-Tergit-Promenade, Tiergarten, Mitte, Berlin, Brandenburg, 10785, Deutschland",D,6.97,15.39,12.94,10.88
+12,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Berliner Wasserbetriebe. Detailed address: 56, Werner-Voß-Damm, Gartenstadt Neu-Tempelhof, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12101, Deutschland
+2. Wassersportzentrum der Turngemeinde in Berlin 1848 E.V.. Detailed address: 127-129, Bruno-Bürgel-Weg, Niederschöneweide, Treptow-Köpenick, Berlin, Brandenburg, 12439, Deutschland",A,12.39,18.28,7.97,10.46
+13,"What is the straight-line distance between the following two locations? (Unit is km)
+1. teledisko. Detailed address: 1, Mercedes-Platz, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10243, Deutschland
+2. Musikbrauerei. Detailed address: 23A, Greifswalder Straße, Winsviertel, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10405, Deutschland",A,3.0,7.62,7.62,8.84
+14,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Burger Licious. Detailed address: 116, Hermannstraße, Neukölln, Berlin, Brandenburg, 12051, Deutschland
+2. BrewDog DogTap Berlin. Detailed address: 23, Im Marienpark, Marienpark, Mariendorf, Berlin, Tempelhof-Schöneberg, Brandenburg, 12107, Deutschland",A,5.37,10.76,2.1,10.96
+15,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Robert Koch-Institut. Detailed address: Weststraße, Wedding, Mitte, Berlin, Brandenburg, 13353, Deutschland
+2. Spring-Siedlung. Detailed address: 13, Franz-Künstler-Straße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10969, Deutschland",B,0.93,6.2,12.46,2.72
+16,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Humboldt-Universität zu Berlin Institut für Biologie Botanik und Arboretum. Detailed address: Späth-Arboretum, Späthstraße, Baumschulenweg, Treptow-Köpenick, Berlin, Brandenburg, 12437, Deutschland
+2. Krankentransport Spree-Ambulance. Detailed address: 21, Bitterfelder Straße, Marzahn, Marzahn-Hellersdorf, Berlin, Brandenburg, 12681, Deutschland",B,4.96,11.93,17.14,5.34
+17,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Vitanas Senioren Centrum Am Bäkepark. Detailed address: Ostpreußendamm, Lichterfelde Ost, Lichterfelde, Steglitz-Zehlendorf, Berlin, Brandenburg, 12207, Deutschland
+2. Monbijoupark. Detailed address: Kinderbad Monbijou, Spreepromenade, Spandauer Vorstadt, Mitte, Berlin, Brandenburg, 10178, Deutschland",B,19.02,11.41,4.53,7.05
+18,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Quartier Idunastraße. Detailed address: 5, Marianne-Foerster-Straße, Heinersdorf, Berlin, Pankow, Brandenburg, 13089, Deutschland
+2. Erika-Gräfin-von-Brockdorff-Platz. Detailed address: Jelbi-Station Südkreuz, Erika-Gräfin-von-Brockdorff-Platz, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12101, Deutschland",D,7.36,7.95,14.21,11.91
+19,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Trattoria Su e Giù. Detailed address: 16, Schumannstraße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland
+2. Dr. med. Georg Fibich. Detailed address: 8, Dolgenseestraße, Sewan-Viertel, Friedrichsfelde, Lichtenberg, Berlin, Brandenburg, 10319, Deutschland",A,9.24,6.57,17.06,2.07
+20,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lido Eis. Detailed address: 27, Böckhstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10967, Deutschland
+2. Frauenzentrum. Detailed address: 28, Richardplatz, Rixdorf, Neukölln, Berlin, Brandenburg, 12055, Deutschland",C,4.44,9.73,2.7,8.89
+21,"What is the straight-line distance between the following two locations? (Unit is km)
+1. El Buen Gusto. Detailed address: 191, Kiefholzstraße, Baumschulenweg, Treptow-Köpenick, Berlin, Brandenburg, 12437, Deutschland
+2. Gendarmerie. Detailed address: 42, Behrenstraße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland",D,7.09,1.5,3.59,8.77
+22,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kita der Caritas Heilige Maria Magdalena. Detailed address: 12-13, Weiskopffstraße, Oberschöneweide, Treptow-Köpenick, Berlin, Brandenburg, 12459, Deutschland
+2. Autoland Berlin. Detailed address: 63, Alt-Friedrichsfelde, Marzahn, Marzahn-Hellersdorf, Berlin, Brandenburg, 12683, Deutschland",D,4.49,11.28,7.6,5.95
+23,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dirk Rehbein. Detailed address: 9, Landauer Straße, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14197, Deutschland
+2. Kita Frankenstraße. Detailed address: 8/9, Frankenstraße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10781, Deutschland",B,7.66,3.23,10.01,1.91
+24,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hagebuttenfirtel. Detailed address: Claire-Waldoff-Straße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland
+2. Kita Holzweg. Detailed address: 49 a, Eschengraben, Pankow, Berlin, Pankow, Brandenburg, 13189, Deutschland",A,4.4,10.96,9.07,0.7
+25,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bezirksamt Marzahn-Hellersdorf von Berlin. Detailed address: Helene-Weigel-Platz, Marzahn, Marzahn-Hellersdorf, Berlin, Brandenburg, 12681, Deutschland
+2. Industriesalon Schöneweide. Detailed address: 10, Reinbeckstraße, Oberschöneweide, Treptow-Köpenick, Berlin, Brandenburg, 12459, Deutschland",C,0.55,5.96,7.64,10.55
+26,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dr. med. Mathias Appel. Detailed address: Koloniestraße, Soldiner Kiez, Gesundbrunnen, Mitte, Berlin, Brandenburg, 13359, Deutschland
+2. Stay. Detailed address: 29, Grunewaldstraße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10823, Deutschland",A,7.88,8.93,12.62,11.27
+27,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Praxis Ariadne Klinkenberg. Detailed address: 3, Geygerstraße, Böhmisches Dorf, Neukölln, Berlin, Brandenburg, 12043, Deutschland
+2. Spice. Detailed address: 11, Föhrer Straße, Brüsseler Kiez, Wedding, Mitte, Berlin, Brandenburg, 13353, Deutschland",B,14.06,9.39,13.04,12.64
+28,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bebua. Detailed address: Knesebeckstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10719, Deutschland
+2. Kinder- und Familienzentrum Schillerstraße. Detailed address: 61-62, Schillerstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10627, Deutschland",A,1.85,6.99,4.59,3.4
+29,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gurman's Grillhaus. Detailed address: Fun, Bayernring, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12101, Deutschland
+2. Orthozentrum Mitte. Detailed address: Zinnowitzer Straße, Mitte, Berlin, Brandenburg, 10115, Deutschland",C,9.45,10.31,5.39,1.41
+30,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Eis Faldon. Detailed address: 83a, Fischerhüttenstraße, Zehlendorf, Steglitz-Zehlendorf, Berlin, Brandenburg, 14163, Deutschland
+2. Patatorito Bowls. Detailed address: Monkey Donuts, 24, Dörpfeldstraße, Adlershof, Treptow-Köpenick, Berlin, Brandenburg, 12489, Deutschland",B,22.46,20.66,18.53,15.6
+31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pret A Manger. Detailed address: 120, Schloßstraße, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12163, Deutschland
+2. Kunstfabrik Schlot. Detailed address: Netlight Consulting, 116, Invalidenstraße, Mitte, Berlin, Brandenburg, 10115, Deutschland",C,14.87,3.32,8.48,7.04
+32,"What is the straight-line distance between the following two locations? (Unit is km)
+1. DHL BVG Kiosk. Detailed address: Kottbusser Damm, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10967, Deutschland
+2. Feldenkrais & QiGong. Detailed address: Weimarer Straße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10625, Deutschland",A,7.7,14.44,15.22,9.98
+33,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Atila's Kebap Haus. Detailed address: 33, Parchimer Allee, Großsiedlung Britz (Hufeisensiedlung), Britz, Neukölln, Berlin, Brandenburg, 12359, Deutschland
+2. Waldbühne. Detailed address: 1, Am Glockenturm, Westend, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14053, Deutschland",D,22.58,18.57,20.41,17.17
+34,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nam Kio. Detailed address: 131, Kurfürstendamm, Halensee, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10711, Deutschland
+2. be emobil. Detailed address: Eschenallee, Westend, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14050, Deutschland",B,4.89,2.96,6.19,10.07
+35,"What is the straight-line distance between the following two locations? (Unit is km)
+1. IKEA Restaurant. Detailed address: 47, Sachsendamm, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10829, Deutschland
+2. Elterntreffpunkt Kita Mittelbruchzeile. Detailed address: Kita Mittelbruchzeile, Mittelbruchzeile, Reinickendorf, Berlin, Reinickendorf, Brandenburg, 13409, Deutschland",D,8.2,7.24,6.44,10.93
+36,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kunstfabrik Schlot. Detailed address: Netlight Consulting, 116, Invalidenstraße, Mitte, Berlin, Brandenburg, 10115, Deutschland
+2. Olivin Wellness Lounge. Detailed address: 177, Schönhauser Allee, Kollwitzkiez, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10119, Deutschland",B,4.44,1.77,5.21,8.03
+37,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plöner Bike. Detailed address: 4-18, Plöner Straße, Schmargendorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14193, Deutschland
+2. Star. Detailed address: 257, Berliner Allee, Weißensee, Berlin, Pankow, Brandenburg, 13088, Deutschland",D,7.44,17.01,7.47,15.18
+38,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jürgen Schenk. Detailed address: 7, Carmerstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10623, Deutschland
+2. Ristorante San Giorgio. Detailed address: 36, Mommsenstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10629, Deutschland",B,4.3,1.3,6.71,5.3
+39,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fürst Donnersmarck-Stiftung (BEW Verbund). Detailed address: 6b, Nordufer, Sprengelkiez, Wedding, Mitte, Berlin, Brandenburg, 13353, Deutschland
+2. Gel Doy. Detailed address: 1, Kameruner Straße, Brüsseler Kiez, Wedding, Mitte, Berlin, Brandenburg, 13351, Deutschland",D,6.74,6.5,3.82,1.46
+40,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Wohnheim Allee der Kosmonauten. Detailed address: Allee der Kosmonauten, Lichtenberg, Berlin, Brandenburg, 10315, Deutschland
+2. Nördliche Kalkalpen. Detailed address: Botanischer Garten, Unter den Eichen, Lichterfelde West, Lichterfelde, Steglitz-Zehlendorf, Berlin, Brandenburg, 12203, Deutschland",B,13.03,16.04,13.08,14.89
+41,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Packstation. Detailed address: Großbeerenstraße, Mariendorf, Berlin, Tempelhof-Schöneberg, Brandenburg, 12107, Deutschland
+2. Wilma Restaurant & Sportsbar. Detailed address: 39, Straße am Schoelerpark, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10715, Deutschland",B,12.39,6.98,14.43,9.05
+42,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gendarmerie. Detailed address: 42, Behrenstraße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland
+2. Straße der Pariser Kommune. Detailed address: Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10243, Deutschland",B,8.19,3.39,6.56,5.1
+43,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ming Dynastie. Detailed address: 6, Brückenstraße, Luisenstadt, Mitte, Berlin, Brandenburg, 10179, Deutschland
+2. Ärztehaus. Detailed address: 4, Hermann-Hesse-Straße, Niederschönhausen, Berlin, Pankow, Brandenburg, 13156, Deutschland",C,14.09,4.52,7.57,12.56
+44,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Baraka. Detailed address: Reinickendorfer Straße, Maxgärten, Wedding, Mitte, Berlin, Brandenburg, 13347, Deutschland
+2. Pizza XXL. Detailed address: 42, Frankfurter Allee, Samariterviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10247, Deutschland",A,7.21,5.85,4.48,8.67
+45,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hans im Glück. Detailed address: Hauptbahnhof, Ella-Trebe-Straße, Europacity, Moabit, Mitte, Berlin, Brandenburg, 10557, Deutschland
+2. Kleingartenanlage Rixdorfer Straße. Detailed address: Nippon Gases Deutschland GmbH, 6-13, Schnellerstraße, Niederschöneweide, Treptow-Köpenick, Berlin, Brandenburg, 12439, Deutschland",D,7.71,16.8,15.54,11.32
+46,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Drei Flaschen. Detailed address: 48a, Böhmische Straße, Rixdorf, Neukölln, Berlin, Brandenburg, 12055, Deutschland
+2. Zum Starken August. Detailed address: 56, Schönhauser Allee, Bremer Höhe, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10437, Deutschland",A,8.2,11.8,11.34,3.51
+47,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dipl. Psych. Birgit Mende. Detailed address: 15, Jägerstraße, Lichterfelde Ost, Lichterfelde, Steglitz-Zehlendorf, Berlin, Brandenburg, 12209, Deutschland
+2. Good Aroma. Detailed address: Tempelhofer Damm, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12099, Deutschland",C,6.39,11.9,4.93,12.43
+48,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Goldies. Detailed address: 52, Grünberger Straße, Samariterviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10245, Deutschland
+2. Cobui. Detailed address: 3, Friedrich-Wilhelm-Platz, Friedenau, Berlin, Tempelhof-Schöneberg, Brandenburg, 12161, Deutschland",B,16.15,9.72,5.71,13.1
+49,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rupert-Neudeck-Haus. Detailed address: 139c, Storkower Straße, Blumenviertel, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10407, Deutschland
+2. KGA Sommerglück. Detailed address: Papierstraße, Nordbahnkiez, Gesundbrunnen, Mitte, Berlin, Brandenburg, 13409, Deutschland",C,4.24,8.6,6.06,13.23
+50,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Trude-Jugend-Bib. Detailed address: Atrium Restaurant, 1, Bat-Yam-Platz, Campus Efeuweg, Gropiusstadt, Neukölln, Berlin, Brandenburg, 12353, Deutschland
+2. Statti. Detailed address: Regenbogenfabrik Fahrrad-Selbsthilfe-Werkstatt, 21a, Lausitzer Straße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10999, Deutschland",A,8.22,12.19,6.48,7.18
+51,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Karl-Marx / Ringbahn. Detailed address: Karl-Marx-Straße, Richardkiez, Neukölln, Berlin, Brandenburg, 12055, Deutschland
+2. Tierarztpraxis. Detailed address: Franz-Jacob-Straße, Fennpfuhl, Lichtenberg, Berlin, Brandenburg, 10369, Deutschland",A,6.94,14.4,10.4,3.91
+52,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kita BeerenStark. Detailed address: 185, Weserstraße, Donaukiez, Neukölln, Berlin, Brandenburg, 12045, Deutschland
+2. Apotheke am Bahnhof Grunewald. Detailed address: 4, Fontanestraße, Grunewald, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14193, Deutschland",A,11.7,6.83,3.93,18.59
+53,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Luisenkirchhof III. Detailed address: DRK Kliniken Berlin Westend, 130, Spandauer Damm, Westend, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14050, Deutschland
+2. Kleingartenkolonie Oeynhausen. Detailed address: Dahlienweg, Kleingartenkolonie Oeynhausen, Schmargendorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14199, Deutschland",A,5.27,12.2,1.36,2.28
+54,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bar Tolucci. Detailed address: 86, Eisenacher Straße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10781, Deutschland
+2. Yoko Sushi. Detailed address: 44, Boxhagener Straße, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10245, Deutschland",B,0.65,8.14,6.21,10.08
+55,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kubis Point. Detailed address: 14, Medebacher Weg, Tegel, Berlin, Reinickendorf, Brandenburg, 13507, Deutschland
+2. Musik- und Kunstschule Berlin. Detailed address: Haubachstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10585, Deutschland",C,13.98,6.09,8.11,4.34
+56,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Thea & coffee. Detailed address: 19, Birkenstraße, Moabit, Mitte, Berlin, Brandenburg, 10559, Deutschland
+2. Hale Now. Detailed address: Krossener Straße, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10245, Deutschland",D,5.59,12.88,14.68,8.34
+57,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Feldenkrais & QiGong. Detailed address: Weimarer Straße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10625, Deutschland
+2. Atix. Detailed address: 2, Kastanienallee, Bremer Höhe, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10435, Deutschland",C,11.73,14.24,7.68,14.94
+58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. StadtWERKSTATT. Detailed address: Mehringdamm, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10961, Deutschland
+2. Herzbergplatz. Detailed address: Treptower Straße, Böhmisches Dorf, Neukölln, Berlin, Brandenburg, 12059, Deutschland",D,10.06,0.87,6.73,4.49
+59,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hochschule für Angewandte Wissenschaften Europa. Detailed address: 3-5, Dessauer Straße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10963, Deutschland
+2. Akko. Detailed address: 52, Pankstraße, Gartenstadt Atlantic, Gesundbrunnen, Mitte, Berlin, Brandenburg, 13357, Deutschland",A,5.1,1.01,9.82,10.2
+60,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ha Noi Restaurant. Detailed address: 128-139, Herzbergstraße, Lichtenberg, Berlin, Brandenburg, 10365, Deutschland
+2. Kindergarten Krabbelkäfer. Detailed address: 76, Burgemeisterstraße, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12103, Deutschland",B,8.2,10.81,16.11,5.6
+61,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fischerhütte. Detailed address: 136, Fischerhüttenstraße, Schlachtensee, Steglitz-Zehlendorf, Berlin, Brandenburg, 14163, Deutschland
+2. Pastor-Niemöller-Platz. Detailed address: Niederschönhausen, Berlin, Pankow, Brandenburg, 13156, Deutschland",C,24.7,12.43,18.93,23.18
+62,"What is the straight-line distance between the following two locations? (Unit is km)
+1. HNO Praxis. Detailed address: 28, Schloßstraße, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12163, Deutschland
+2. Schwarze Traube. Detailed address: 24, Wrangelstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10997, Deutschland",B,11.33,8.9,5.94,11.47
+63,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kolonie Waldschule. Detailed address: 36, Harbigstraße, Westend, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14055, Deutschland
+2. DB Reisezentrum. Detailed address: Eingangsebene, Europacity, Moabit, Mitte, Berlin, Brandenburg, 10557, Deutschland",A,8.05,2.99,11.22,12.57
+64,"What is the straight-line distance between the following two locations? (Unit is km)
+1. taohealth. Detailed address: 37, Wittelsbacherstraße, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10707, Deutschland
+2. Rummels Perle. Detailed address: 47, Reichenberger Straße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10999, Deutschland",D,9.21,11.65,5.81,7.4
+65,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Quartier 206. Detailed address: 71, Friedrichstraße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland
+2. Bildungs- und Verwaltungszentrum Friedrichsfelde. Detailed address: Haus 18, 60, Alt-Friedrichsfelde, Reihenhäuser Kalinka, Friedrichsfelde, Lichtenberg, Berlin, Brandenburg, 10315, Deutschland",A,9.4,11.87,16.83,13.3
+66,"What is the straight-line distance between the following two locations? (Unit is km)
+1. QBA. Detailed address: 45, Oranienburger Straße, Spandauer Vorstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland
+2. Andrea Thiele. Detailed address: 21 / 22, Scharnweberstraße, Reinickendorf, Berlin, Reinickendorf, Brandenburg, 13405, Deutschland",D,4.95,3.66,12.22,6.08
+67,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tierarztpraxis. Detailed address: Franz-Jacob-Straße, Fennpfuhl, Lichtenberg, Berlin, Brandenburg, 10369, Deutschland
+2. An der Avus. Detailed address: Eichkampstraße, Westend, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14055, Deutschland",D,11.25,16.44,10.25,14.35
+68,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pasta degli Angeli. Detailed address: 63, Dietzgenstraße, Niederschönhausen, Berlin, Pankow, Brandenburg, 13156, Deutschland
+2. Fabbrica del Gusto. Detailed address: 36, Pappelallee, Helmholtzkiez, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10437, Deutschland",A,4.6,8.33,7.83,1.29
+69,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Coffee Drink Your Monkey. Detailed address: 11, Savignyplatz, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10623, Deutschland
+2. MikeTheBike. Detailed address: Wilhelminenhofstraße, Oberschöneweide, Treptow-Köpenick, Berlin, Brandenburg, 12459, Deutschland",C,12.26,10.5,13.62,8.26
+70,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Berndhain. Detailed address: 32, Simon-Dach-Straße, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10245, Deutschland
+2. Aceto Lokanta. Detailed address: 4, Wichertstraße, Bremer Höhe, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10439, Deutschland",C,6.37,6.79,5.34,12.12
+71,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Discgolf Anlage. Detailed address: Krahmerstraße, Lichterfelde Ost, Lichterfelde, Steglitz-Zehlendorf, Berlin, Brandenburg, 12207, Deutschland
+2. Goldies. Detailed address: 52, Grünberger Straße, Samariterviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10245, Deutschland",C,19.21,9.69,12.42,9.07
+72,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Burgermeister. Detailed address: 45, Schönhauser Allee, Bremer Höhe, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10435, Deutschland
+2. Heinrich-Zille-Kindergarten. Detailed address: 59, Seelingstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14059, Deutschland",C,13.9,6.28,8.91,13.29
+73,"What is the straight-line distance between the following two locations? (Unit is km)
+1. P 8. Detailed address: Werner-Loebermann-Weg, Gartenstadt Neu-Tempelhof, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12101, Deutschland
+2. TK. Detailed address: Technische Universität Berlin, Herderstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10625, Deutschland",D,3.29,3.41,3.6,5.44
+74,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Star. Detailed address: 257, Berliner Allee, Weißensee, Berlin, Pankow, Brandenburg, 13088, Deutschland
+2. Autogas 24h. Detailed address: Gradestraße, Britz, Neukölln, Berlin, Brandenburg, 12347, Deutschland",D,14.41,16.31,14.07,12.45
+75,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Diener Tattersall. Detailed address: 47, Grolmanstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10623, Deutschland
+2. Artigiani. Detailed address: 95b, Unter den Eichen, Lichterfelde West, Lichterfelde, Steglitz-Zehlendorf, Berlin, Brandenburg, 12205, Deutschland",B,1.12,6.96,2.26,8.82
+76,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Wochenmarkt. Detailed address: Anhaltinerstraße, Zehlendorf, Steglitz-Zehlendorf, Berlin, Brandenburg, 14163, Deutschland
+2. Crazy Bastard Kitchen. Detailed address: 168, Weserstraße, Donaukiez, Neukölln, Berlin, Brandenburg, 12045, Deutschland",C,19.85,9.64,13.72,20.74
+77,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Aarna Devi. Detailed address: 72a, Westfälische Straße, Halensee, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10709, Deutschland
+2. Zahnarztpraxis Heidt. Detailed address: Ludwigkirchplatz, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10719, Deutschland",A,1.43,7.99,6.43,8.64
+78,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Elterntreffpunkt Kita Mittelbruchzeile. Detailed address: Kita Mittelbruchzeile, Mittelbruchzeile, Reinickendorf, Berlin, Reinickendorf, Brandenburg, 13409, Deutschland
+2. Van Long. Detailed address: 12, Leipziger Platz, Mitte, Berlin, Brandenburg, 10117, Deutschland",A,6.38,2.54,1.59,4.4
+79,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Händelklause. Detailed address: Hindenburgdamm, Lichterfelde West, Lichterfelde, Steglitz-Zehlendorf, Berlin, Brandenburg, 12203, Deutschland
+2. Amazon Hub Locker. Detailed address: 66, Karl-Marx-Straße, Flughafenkiez, Neukölln, Berlin, Brandenburg, 12043, Deutschland",A,8.75,16.23,6.69,0.8
+80,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kinderladen Pünktchen. Detailed address: 7, Alt-Lietzow, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10587, Deutschland
+2. WerkStadt Kulturverein Berlin e.V.. Detailed address: 124, Emser Straße, Richardkiez, Neukölln, Berlin, Brandenburg, 12051, Deutschland",C,8.85,13.32,10.29,16.46
+81,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hale Now. Detailed address: Krossener Straße, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10245, Deutschland
+2. Barletta-Eis GmbH. Detailed address: 6, Am Tempelhofer Berg, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10965, Deutschland",C,3.77,3.95,5.69,0.86
+82,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Akko. Detailed address: 52, Pankstraße, Gartenstadt Atlantic, Gesundbrunnen, Mitte, Berlin, Brandenburg, 13357, Deutschland
+2. Gastroenterologie Gropiusstadt. Detailed address: 317, Johannisthaler Chaussee, Gropiusstadt, Neukölln, Berlin, Brandenburg, 12351, Deutschland",B,18.09,14.47,18.42,15.64
+83,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Lir. Detailed address: 7, Flensburger Straße, Hansaviertel, Mitte, Berlin, Brandenburg, 10557, Deutschland
+2. Café Macaron. Detailed address: 2, Emser Platz, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10719, Deutschland",C,7.39,11.4,3.6,6.23
+84,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bagatelle. Detailed address: 72, Frankfurter Allee, Samariterviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10247, Deutschland
+2. Café Bergholz. Detailed address: 2, Bergholzstraße, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12099, Deutschland",A,7.03,14.93,11.29,14.42
+85,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Technische Jugendfreizeit- und Bildungsgesellschaft (tjfbg) gGmbH. Detailed address: 37-39, Alt-Stralau, Stralau, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10245, Deutschland
+2. The Corner. Detailed address: HIGHDI, 129, Neuköllnische Allee, Neukölln, Berlin, Brandenburg, 12057, Deutschland",D,9.1,7.2,7.23,3.41
+86,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Euronet. Detailed address: 28, Neue Grünstraße, Luisenstadt, Mitte, Berlin, Brandenburg, 10179, Deutschland
+2. Alt-Berliner Biersalon. Detailed address: Kurfürstendamm, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10719, Deutschland",B,3.99,5.17,10.68,9.37
+87,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Volkshochschule Berlin Mitte. Detailed address: 162, Linienstraße, Spandauer Vorstadt, Mitte, Berlin, Brandenburg, 10115, Deutschland
+2. beets&roots. Detailed address: 76, Mauerstraße, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",B,6.93,2.16,9.56,9.09
+88,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Berliner Toilette. Detailed address: Theodor-Heuss-Platz, Westend, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14052, Deutschland
+2. Kinderladen Pünktchen. Detailed address: 7, Alt-Lietzow, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10587, Deutschland",C,5.53,7.8,2.57,10.29
+89,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Deutsche Bank. Detailed address: 5, Alexanderstraße, Mitte, Berlin, Brandenburg, 10178, Deutschland
+2. Plöner Bike. Detailed address: 4-18, Plöner Straße, Schmargendorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14193, Deutschland",B,6.37,10.04,11.96,16.65
+90,"What is the straight-line distance between the following two locations? (Unit is km)
+1. OC Stadtmitte. Detailed address: 63, Friedrichstraße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland
+2. Aral. Detailed address: 12/14, Holzmarktstraße, Mitte, Berlin, Brandenburg, 10179, Deutschland",D,8.58,3.85,3.42,2.18
+91,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rubby Akhionbare;Sofia Friedel-Römer. Detailed address: 82, Mariendorfer Damm, Mariendorf, Berlin, Tempelhof-Schöneberg, Brandenburg, 12109, Deutschland
+2. Kalli & Co. Detailed address: 4, Oberlandstraße, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12099, Deutschland",B,1.95,3.22,5.43,10.98
+92,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Clever fit. Detailed address: 12, Martin-Buber-Straße, Zehlendorf, Steglitz-Zehlendorf, Berlin, Brandenburg, 14163, Deutschland
+2. Café Nullpunkt. Detailed address: 23b, Friedrichstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10969, Deutschland",A,11.9,16.74,7.2,14.92
+93,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pyrenäen und Iberische Halbinsel – Wälder u. Gebüsche. Detailed address: Zeunepromenade, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12165, Deutschland
+2. The Wilhelm. Detailed address: 57, Wilhelmstraße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland",B,9.42,8.3,0.8,15.98
+94,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Trattoria Felice. Detailed address: 41, Lychener Straße, Helmholtzkiez, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10437, Deutschland
+2. Keyta Lounge. Detailed address: 52, Turmstraße, Moabit, Mitte, Berlin, Brandenburg, 10551, Deutschland",D,0.73,8.01,4.24,6.11
+95,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tennisclub Blau-Weiss Britz. Detailed address: Zeile 7, Britz, Neukölln, Berlin, Brandenburg, 12359, Deutschland
+2. Vereinsheim SV Friedrichstadt e.V.. Detailed address: 34, Conrad-Blenkle-Straße, Grüne Stadt, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10407, Deutschland",C,5.18,5.68,9.29,2.9
+96,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Praxis Fera 1. Detailed address: Friedrich-Wilhelm-Straße, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12099, Deutschland
+2. Kulti. Detailed address: 58, Majakowskiring, Niederschönhausen, Berlin, Pankow, Brandenburg, 13156, Deutschland",B,18.65,13.06,10.5,15.65
+97,"What is the straight-line distance between the following two locations? (Unit is km)
+1. TT inside. Detailed address: 40, Blücherstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10961, Deutschland
+2. Call a Pizza. Detailed address: 7, Hohenzollerndamm, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10717, Deutschland",D,7.65,6.52,0.83,5.28
+98,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Spiel Casino. Detailed address: Stromstraße, Moabit, Mitte, Berlin, Brandenburg, 10551, Deutschland
+2. Apotheke am Herrfurthplatz. Detailed address: 9, Herrfurthstraße, Schillerkiez, Neukölln, Berlin, Brandenburg, 12049, Deutschland",B,4.27,7.82,9.38,5.68
+99,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mandingo-Diskothek. Detailed address: 107, Mehringdamm, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10965, Deutschland
+2. Swingspiration. Detailed address: 10, Körtestraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10967, Deutschland",A,1.74,6.15,9.67,3.58
+100,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Keyta Lounge. Detailed address: 52, Turmstraße, Moabit, Mitte, Berlin, Brandenburg, 10551, Deutschland
+2. Grillo. Detailed address: 32, Frankfurter Allee, Samariterviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10247, Deutschland",B,15.38,8.88,7.82,4.47
+101,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kleingartenanlage Rixdorfer Straße. Detailed address: Nippon Gases Deutschland GmbH, 6-13, Schnellerstraße, Niederschöneweide, Treptow-Köpenick, Berlin, Brandenburg, 12439, Deutschland
+2. BVG. Detailed address: Rathausstraße, Spandauer Vorstadt, Mitte, Berlin, Brandenburg, 10179, Deutschland",D,11.3,3.2,2.2,8.92
+102,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ernst-Habermann-Grundschule. Detailed address: 33-34, Prinzregentenstraße, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10715, Deutschland
+2. Jürgen Schenk. Detailed address: 7, Carmerstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10623, Deutschland",C,7.53,6.88,2.7,5.12
+103,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Western Union. Detailed address: Wilmersdorfer Straße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10585, Deutschland
+2. Auntie's. Detailed address: Choriner Straße, Kollwitzkiez, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10435, Deutschland",A,7.72,12.49,2.12,6.07
+104,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Großer Tiergarten. Detailed address: Bellevueallee, Botschaftsviertel, Tiergarten, Mitte, Berlin, Brandenburg, 10785, Deutschland
+2. Kleingartenanlage Friedrichsfelde Nord. Detailed address: Südliche Rhinstraßenbrücke, Marzahn, Marzahn-Hellersdorf, Berlin, Brandenburg, 12681, Deutschland",B,18.25,10.65,8.08,8.58
+105,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Zaab Classic. Detailed address: Kaiserin-Augusta-Allee, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10589, Deutschland
+2. Café Olea. Detailed address: 95, Martin-Luther-Straße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10825, Deutschland",D,3.58,12.18,10.24,5.06
+106,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Heck Meck. Detailed address: 111, Eisenacher Straße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10777, Deutschland
+2. Zahnarztpraxis Blümel & Dahlem. Detailed address: 107-108, Schloßstraße, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12163, Deutschland",D,1.36,6.43,8.46,4.44
+107,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Zahnarztpraxis Heidt. Detailed address: Ludwigkirchplatz, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10719, Deutschland
+2. Dr. med. Marak Mazan. Detailed address: 79, Wilmersdorfer Straße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10629, Deutschland",C,3.96,2.97,1.13,3.6
+108,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Siegfried-Aufhäuser-Platz. Detailed address: Saalestraße, Rixdorf, Neukölln, Berlin, Brandenburg, 12055, Deutschland
+2. Haus V. Detailed address: GeoCampus Lankwitz FU Berlin, 74-100, Malteserstraße, Lankwitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12249, Deutschland",A,8.35,15.93,5.65,12.67
+109,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sportsbar Boomerang. Detailed address: Elsenstraße, Kungerkiez, Alt-Treptow, Treptow-Köpenick, Berlin, Brandenburg, 12435, Deutschland
+2. Mix & Match. Detailed address: 17, Charlottenstraße, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",C,8.11,9.69,4.65,2.74
+110,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Aniland. Detailed address: 5, Grenzgrabenstraße, Alt-Hohenschönhausen, Lichtenberg, Berlin, Brandenburg, 13053, Deutschland
+2. Leonardo Royal Hotel Berlin Adlershof. Detailed address: 2A, Rudower Chaussee, Adlershof, Treptow-Köpenick, Berlin, Brandenburg, 12489, Deutschland",D,5.25,9.53,13.84,12.08
+111,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Atelier Baustelle. Detailed address: 29, Belziger Straße, Rote Insel, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10823, Deutschland
+2. OUZ Orthopädie- und Unfallchirurgiezentrum Dr. Hami Tabari. Detailed address: 277, Landsberger Allee, Alt-Hohenschönhausen, Lichtenberg, Berlin, Brandenburg, 13055, Deutschland",A,11.07,8.36,17.23,15.99
+112,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Zentrale Urgesteinsalpen. Detailed address: Altensteinstraße, Dahlem, Steglitz-Zehlendorf, Berlin, Brandenburg, 14195, Deutschland
+2. Fischerhütte. Detailed address: 136, Fischerhüttenstraße, Schlachtensee, Steglitz-Zehlendorf, Berlin, Brandenburg, 14163, Deutschland",B,7.09,5.36,1.83,3.7
+113,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Olivin Wellness Lounge. Detailed address: 177, Schönhauser Allee, Kollwitzkiez, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10119, Deutschland
+2. Mülleimer. Detailed address: Pirolweg, Wedding, Mitte, Berlin, Brandenburg, 13351, Deutschland",C,3.49,4.95,6.05,13.05
+114,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Museumsinsel. Detailed address: Hinter dem Gießhaus, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland
+2. Friedhof St. Johannes Evangelist. Detailed address: Schillerpark-Siedlung, Bristolstraße, Englisches Viertel, Wedding, Mitte, Berlin, Brandenburg, 13349, Deutschland",C,13.28,7.85,5.49,11.7
+115,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Casa Azul Maison Bleue. Detailed address: Reinhardtstraße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland
+2. Atelier Baustelle. Detailed address: 29, Belziger Straße, Rote Insel, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10823, Deutschland",A,4.41,7.95,3.23,9.57
+116,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dermatologie am Kaiserdamm. Detailed address: 26, Kaiserdamm, Westend, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14057, Deutschland
+2. ING. Detailed address: Seestraße, Brüsseler Kiez, Wedding, Mitte, Berlin, Brandenburg, 13353, Deutschland",B,12.99,5.94,12.05,4.08
+117,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Integrierte Leitstelle Berlin. Detailed address: 2, Nikolaus-Groß-Weg, Charlottenburg-Nord, Spandau, Berlin, Brandenburg, 13627, Deutschland
+2. TU-Sportzentrum Waldschulallee. Detailed address: Harbigstraße, Westend, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14055, Deutschland",C,2.24,7.81,3.75,11.47
+118,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kourosh. Detailed address: Lietzenburger Straße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10789, Deutschland
+2. Thung Thai. Detailed address: 41, Düppelstraße, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12163, Deutschland",C,2.04,7.01,4.92,9.46
+119,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pathologie. Detailed address: Colditzstraße, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12099, Deutschland
+2. Bäkepark. Detailed address: 9, Dalandweg, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12167, Deutschland",C,10.01,9.65,4.81,6.39
+120,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Carlotta Bar. Detailed address: 10, Lenbachstraße, Rudolfkiez, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10245, Deutschland
+2. Da Zero. Detailed address: 7, Guineastraße, Brüsseler Kiez, Wedding, Mitte, Berlin, Brandenburg, 13351, Deutschland",A,9.53,3.06,15.16,4.05
+121,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Da Zero. Detailed address: 7, Guineastraße, Brüsseler Kiez, Wedding, Mitte, Berlin, Brandenburg, 13351, Deutschland
+2. Neuköllner Oper. Detailed address: 131-133, Karl-Marx-Straße, Böhmisches Dorf, Neukölln, Berlin, Brandenburg, 12043, Deutschland",C,11.5,4.31,10.18,2.27
+122,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dorfaue. Detailed address: 125, Hauptstraße, Rote Insel, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10827, Deutschland
+2. Dauerkolonie „Am Buschkrug“. Detailed address: Zeile 17, Dauerkolonie „Am Buschkrug“, Britz, Neukölln, Berlin, Brandenburg, 12359, Deutschland",A,8.19,12.99,2.53,6.15
+123,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Haus 5 - Kastanienhaus. Detailed address: Wald-Grundschule, 83-93, Waldschulallee, Westend, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14055, Deutschland
+2. Siegfried-Aufhäuser-Platz. Detailed address: Saalestraße, Rixdorf, Neukölln, Berlin, Brandenburg, 12055, Deutschland",A,13.79,17.29,6.76,11.58
+124,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Statti. Detailed address: Regenbogenfabrik Fahrrad-Selbsthilfe-Werkstatt, 21a, Lausitzer Straße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10999, Deutschland
+2. Nam Kio. Detailed address: 131, Kurfürstendamm, Halensee, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10711, Deutschland",C,14.94,1.1,9.08,7.61
+125,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bistro Aleksandra. Detailed address: 33, Schloßstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14059, Deutschland
+2. DHL BVG Kiosk. Detailed address: Kottbusser Damm, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10967, Deutschland",C,7.11,15.66,8.73,3.82
+126,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Thung Thai. Detailed address: 41, Düppelstraße, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12163, Deutschland
+2. Marlene Bar. Detailed address: 2, Budapester Straße, Botschaftsviertel, Tiergarten, Mitte, Berlin, Brandenburg, 10787, Deutschland",D,2.92,8.2,8.67,5.75
+127,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Haus V. Detailed address: GeoCampus Lankwitz FU Berlin, 74-100, Malteserstraße, Lankwitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12249, Deutschland
+2. Landsmannschaft der Deutschen aus Russland. Detailed address: 50A, Auguste-Viktoria-Allee, Reinickendorf, Berlin, Reinickendorf, Brandenburg, 13403, Deutschland",B,17.8,16.66,10.32,10.09
+128,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Akkon-Hochschule für Humanwissenschaften. Detailed address: 34-36, Colditzstraße, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12099, Deutschland
+2. Pankow-Kirche. Detailed address: Breite Straße, Pankow, Berlin, Pankow, Brandenburg, 13187, Deutschland",D,8.47,14.1,15.65,12.91
+129,"What is the straight-line distance between the following two locations? (Unit is km)
+1. TU-Sportzentrum Waldschulallee. Detailed address: Harbigstraße, Westend, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14055, Deutschland
+2. Kindergarten Gottschedstraße. Detailed address: 27/28, Gottschedstraße, Gesundbrunnen, Mitte, Berlin, Brandenburg, 13357, Deutschland",A,9.54,11.93,14.12,2.62
+130,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sportplatz Allee der Kosmonauten 131. Detailed address: Allee der Kosmonauten, Marzahn, Marzahn-Hellersdorf, Berlin, Brandenburg, 12681, Deutschland
+2. Le Crobag. Detailed address: 1, General-Pape-Straße, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12101, Deutschland",B,19.62,13.81,12.54,15.12
+131,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Harry-Bresslau-Park. Detailed address: Treitschkestraße, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12163, Deutschland
+2. Großer Tiergarten. Detailed address: Bellevueallee, Botschaftsviertel, Tiergarten, Mitte, Berlin, Brandenburg, 10785, Deutschland",A,6.16,9.16,4.8,1.64
+132,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gastroenterologie Gropiusstadt. Detailed address: 317, Johannisthaler Chaussee, Gropiusstadt, Neukölln, Berlin, Brandenburg, 12351, Deutschland
+2. Fürst Donnersmarck-Stiftung (BEW Verbund). Detailed address: 6b, Nordufer, Sprengelkiez, Wedding, Mitte, Berlin, Brandenburg, 13353, Deutschland",D,19.32,8.49,16.01,13.93
+133,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fraunhofer Center for Responsible Research and Innovation. Detailed address: 20, Hardenbergstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10623, Deutschland
+2. Zahnarztpraxis Christine Rexer. Detailed address: Karin Michaelis, 4, Gethsemanestraße, Bremer Höhe, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10437, Deutschland",C,5.1,2.95,7.47,2.52
+134,"What is the straight-line distance between the following two locations? (Unit is km)
+1. PFS Pflegestation Alles. Detailed address: 47a, Hohenzollerndamm, Halensee, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10713, Deutschland
+2. Viadukt Bistro. Detailed address: Neue Promenade, Spandauer Vorstadt, Mitte, Berlin, Brandenburg, 10178, Deutschland",C,9.71,4.71,7.72,11.49
+135,"What is the straight-line distance between the following two locations? (Unit is km)
+1. PLTFRM.Berlin. Detailed address: An der Ostbahn, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10243, Deutschland
+2. Thomas-Michael-Höhn-Haus (ehem. Zuckermuseum). Detailed address: Fraunhofer MEVIS Berlin Office, 32, Amrumer Straße, Brüsseler Kiez, Wedding, Mitte, Berlin, Brandenburg, 13353, Deutschland",B,1.57,7.49,3.32,8.53
+136,"What is the straight-line distance between the following two locations? (Unit is km)
+1. PommStore Döner. Detailed address: 34, Schloßstraße, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12163, Deutschland
+2. Mr. Tran. Detailed address: 4, Lankwitzer Straße, Mariendorf, Berlin, Tempelhof-Schöneberg, Brandenburg, 12107, Deutschland",A,4.2,9.81,10.03,2.14
+137,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kurt-Tucholsky-Grundschule. Detailed address: Kruppstraße, Moabit, Mitte, Berlin, Brandenburg, 10559, Deutschland
+2. IPH Berlin. Detailed address: Landsberger Allee, Marzahn, Marzahn-Hellersdorf, Berlin, Brandenburg, 12681, Deutschland",B,5.32,11.57,14.71,9.29
+138,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nördliche Kalkalpen. Detailed address: Botanischer Garten, Unter den Eichen, Lichterfelde West, Lichterfelde, Steglitz-Zehlendorf, Berlin, Brandenburg, 12203, Deutschland
+2. Vanessa. Detailed address: Potsdamer Platz, Tiergarten, Mitte, Berlin, Brandenburg, 10785, Deutschland",B,6.51,7.69,11.11,8.91
+139,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Berlin Çiğköfte. Detailed address: 5, Hedwigstraße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 12159, Deutschland
+2. Kolleg Schöneberg der VHS Tempelhof-Schöneberg. Detailed address: 63, Nürnberger Straße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10787, Deutschland",D,5.59,7.15,8.8,3.57
+140,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bronco Caffee. Detailed address: 97, Kastanienallee, Bremer Höhe, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10435, Deutschland
+2. Blogfabrik. Detailed address: 185, Oranienstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10999, Deutschland",A,4.34,3.01,1.47,6.6
+141,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Friedhof St. Johannes Evangelist. Detailed address: Schillerpark-Siedlung, Bristolstraße, Englisches Viertel, Wedding, Mitte, Berlin, Brandenburg, 13349, Deutschland
+2. Polizei Abschnitt 44. Detailed address: 6, Götzstraße, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12099, Deutschland",A,11.01,4.49,7.08,13.8
+142,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kiezanker 36. Detailed address: 13-14, Cuvrystraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10997, Deutschland
+2. Tomatenklang. Detailed address: 31, Marienburger Straße, Winsviertel, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10405, Deutschland",A,4.07,10.77,1.99,6.14
+143,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gründerzentrum Hochschule für Wirtschaft und Recht. Detailed address: 40-41, Babelsberger Straße, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10715, Deutschland
+2. Mysliwska. Detailed address: 35, Schlesische Straße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10997, Deutschland",A,7.61,11.42,14.58,9.82
+144,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kleingartenanlage Mariengrund. Detailed address: Südostallee, Baumschulenweg, Treptow-Köpenick, Berlin, Brandenburg, 12437, Deutschland
+2. ITS / Station 10.1-10.3. Detailed address: Vivantes Wenckebach-Klinikum, 23, Wenckebachstraße, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12099, Deutschland",C,5.16,9.52,6.21,10.65
+145,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gel Doy. Detailed address: 1, Kameruner Straße, Brüsseler Kiez, Wedding, Mitte, Berlin, Brandenburg, 13351, Deutschland
+2. Pret A Manger. Detailed address: 120, Schloßstraße, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12163, Deutschland",D,4.51,15.22,13.6,10.02
+146,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jugendzentrum Johannisthal. Detailed address: 56, Winckelmannstraße, Johannisthal, Treptow-Köpenick, Berlin, Brandenburg, 12487, Deutschland
+2. Cäsar‘s. Detailed address: Frankfurter Allee, Weitlingkiez, Rummelsburg, Lichtenberg, Berlin, Brandenburg, 10317, Deutschland",C,2.57,14.41,7.85,13.4
+147,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Risa Chicken. Detailed address: 30, Müllerstraße, Brüsseler Kiez, Wedding, Mitte, Berlin, Brandenburg, 13353, Deutschland
+2. Tiger Bar. Detailed address: Pohlstraße, Tiergarten, Mitte, Berlin, Brandenburg, 10785, Deutschland",D,8.07,10.37,11.92,5.18
+148,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kita Die Kiezkrümel. Detailed address: 1, Pankower Straße, Französisch Buchholz, Berlin, Pankow, Brandenburg, 13127, Deutschland
+2. Süße Sünde. Detailed address: 21, Weinbergsweg, Spandauer Vorstadt, Mitte, Berlin, Brandenburg, 10119, Deutschland",A,6.26,9.69,9.45,8.4
+149,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tsomi. Detailed address: 66, Kollwitzstraße, Kollwitzkiez, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10435, Deutschland
+2. Chicken Haus Burger. Detailed address: Karl-Marx-Straße, Flughafenkiez, Neukölln, Berlin, Brandenburg, 12043, Deutschland",B,13.3,5.85,1.76,7.04
+150,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kaiserin Imbiss. Detailed address: Kaiserin-Augusta-Allee, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10589, Deutschland
+2. EKT - Spielschloß e.V.. Detailed address: Nithackstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10585, Deutschland",C,6.27,6.12,1.19,6.51
+151,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pizza XXL. Detailed address: 42, Frankfurter Allee, Samariterviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10247, Deutschland
+2. amazonlocker. Detailed address: Gerichtstraße, Gesundbrunnen, Mitte, Berlin, Brandenburg, 13347, Deutschland",D,1.48,8.0,4.88,6.56
+152,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nachbarschaftshaus Urbanstraße. Detailed address: 21, Urbanstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10961, Deutschland
+2. Kebab Baba. Detailed address: 133, Linienstraße, Mitte, Berlin, Brandenburg, 10115, Deutschland",B,1.66,3.96,7.85,5.36
+153,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kulturpalast. Detailed address: Freienwalder Straße, Soldiner Kiez, Gesundbrunnen, Mitte, Berlin, Brandenburg, 13359, Deutschland
+2. Breitenbachplatz. Detailed address: A 104, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12163, Deutschland",D,15.56,3.77,15.53,11.59
+154,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kleintierpraxis Ralf Boxhammer. Detailed address: 5, Zingster Straße, Neu-Hohenschönhausen, Lichtenberg, Berlin, Brandenburg, 13051, Deutschland
+2. TT inside. Detailed address: 40, Blücherstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10961, Deutschland",D,13.47,5.85,8.16,10.56
+155,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kleingartenanlage Neues Heim. Detailed address: Weg 2, Kleingartenanlage Neues Heim, Rudow, Neukölln, Berlin, Brandenburg, 12355, Deutschland
+2. Silberstein-Grundschule. Detailed address: Silbersteinstraße, Neukölln, Berlin, Brandenburg, 12051, Deutschland",D,2.66,14.68,14.2,7.4
+156,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bike tools stand. Detailed address: Seydlitzstraße, Europacity, Moabit, Mitte, Berlin, Brandenburg, 10557, Deutschland
+2. Café Lila. Detailed address: Uhlandstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10623, Deutschland",B,1.66,3.61,2.44,1.39
+157,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kebab Baba. Detailed address: 133, Linienstraße, Mitte, Berlin, Brandenburg, 10115, Deutschland
+2. Eisderix. Detailed address: 48, Böhmische Straße, Rixdorf, Neukölln, Berlin, Brandenburg, 12055, Deutschland",A,7.21,11.66,8.22,2.15
+158,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cocomo Eiswerkstatt GmbH. Detailed address: 1, Schillerpromenade, Oberschöneweide, Treptow-Köpenick, Berlin, Brandenburg, 12459, Deutschland
+2. Ernst-Habermann-Grundschule. Detailed address: 33-34, Prinzregentenstraße, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10715, Deutschland",D,9.08,19.75,14.05,12.77
+159,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Coffee Fellows. Detailed address: Kleiststraße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10787, Deutschland
+2. Berliner Toilette. Detailed address: Theodor-Heuss-Platz, Westend, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14052, Deutschland",C,2.4,9.0,5.03,7.01
+160,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kleingartenanlage Friedrichsfelde Nord. Detailed address: Südliche Rhinstraßenbrücke, Marzahn, Marzahn-Hellersdorf, Berlin, Brandenburg, 12681, Deutschland
+2. Biotronik SE & Co. KG. Detailed address: Sieversufer, Britz, Neukölln, Berlin, Brandenburg, 12359, Deutschland",B,11.55,7.72,1.22,15.59
+161,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Heinrich-Hertz-Gymnasium. Detailed address: 60, Lange Straße, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10243, Deutschland
+2. Pyrenäen und Iberische Halbinsel – Wälder u. Gebüsche. Detailed address: Zeunepromenade, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12165, Deutschland",B,6.44,10.82,13.85,12.71
+162,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Santa Café. Detailed address: 12, Breitenbachplatz, Dahlem, Steglitz-Zehlendorf, Berlin, Brandenburg, 14195, Deutschland
+2. Berlin Çiğköfte. Detailed address: 5, Hedwigstraße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 12159, Deutschland",A,2.12,8.61,7.25,4.61
+163,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ND 45. Detailed address: 45, Nonnendamm, Siemensstadt, Spandau, Berlin, Brandenburg, 13627, Deutschland
+2. Kleihueshalle. Detailed address: Hamburger Bahnhof, 50-51, Invalidenstraße, Europacity, Moabit, Mitte, Berlin, Brandenburg, 10557, Deutschland",B,5.25,6.3,2.36,13.88
+164,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Barletta-Eis GmbH. Detailed address: 6, Am Tempelhofer Berg, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10965, Deutschland
+2. Dermatologie am Kaiserdamm. Detailed address: 26, Kaiserdamm, Westend, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14057, Deutschland",C,14.43,9.85,7.62,12.9
+165,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Vereinsheim SV Friedrichstadt e.V.. Detailed address: 34, Conrad-Blenkle-Straße, Grüne Stadt, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10407, Deutschland
+2. Kolonie Waldschule. Detailed address: 36, Harbigstraße, Westend, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14055, Deutschland",A,13.53,5.81,19.79,14.69
+166,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Frauenzentrum. Detailed address: 28, Richardplatz, Rixdorf, Neukölln, Berlin, Brandenburg, 12055, Deutschland
+2. Bass Restaurant. Detailed address: 9, Xantener Straße, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10707, Deutschland",B,14.4,9.6,13.06,12.79
+167,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Postbank. Detailed address: 26, Niederbarnimstraße, Samariterviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10247, Deutschland
+2. Burgermeister. Detailed address: 45, Schönhauser Allee, Bremer Höhe, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10435, Deutschland",A,4.32,9.19,8.54,11.22
+168,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ärztehaus. Detailed address: 4, Hermann-Hesse-Straße, Niederschönhausen, Berlin, Pankow, Brandenburg, 13156, Deutschland
+2. Berlin's Gemüse kebab. Detailed address: Kebap & Chicken, Schönhauser Allee, Arnimkiez, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10439, Deutschland",A,3.19,10.34,10.08,1.67
+169,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Father Carpenter Coffee Brewers. Detailed address: 21, Münzstraße, Scheunenviertel, Mitte, Berlin, Brandenburg, 10178, Deutschland
+2. Rent-A-Trainer-Berlin Gym. Detailed address: 23, Nollendorfstraße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10777, Deutschland",D,1.32,10.07,11.6,4.85
+170,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Car Wash 36. Detailed address: 132, Skalitzer Straße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10999, Deutschland
+2. Amtsgericht Mitte. Detailed address: 12-17, Littenstraße, Mitte, Berlin, Brandenburg, 10179, Deutschland",D,9.16,9.58,3.84,2.14
+171,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Erika-Gräfin-von-Brockdorff-Platz. Detailed address: Jelbi-Station Südkreuz, Erika-Gräfin-von-Brockdorff-Platz, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12101, Deutschland
+2. Tiergarten-Dreieck. Detailed address: 3, Corneliusstraße, Botschaftsviertel, Tiergarten, Mitte, Berlin, Brandenburg, 10787, Deutschland",B,9.92,3.72,9.02,0.85
+172,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Café Macaron. Detailed address: 2, Emser Platz, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10719, Deutschland
+2. Bücherzelle bei DRK Zentrum. Detailed address: 15, Murtzaner Ring, Marzahn, Marzahn-Hellersdorf, Berlin, Brandenburg, 12681, Deutschland",A,15.96,18.75,9.21,11.84
+173,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Perleweiss. Detailed address: Quitzowstraße, Moabit, Mitte, Berlin, Brandenburg, 10559, Deutschland
+2. U Bernauer Straße. Detailed address: Brunnenstraße, Mitte, Berlin, Brandenburg, 10115, Deutschland",A,2.78,6.79,9.52,5.65
+174,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dr. med. Marak Mazan. Detailed address: 79, Wilmersdorfer Straße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10629, Deutschland
+2. Gurman's Grillhaus. Detailed address: Fun, Bayernring, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12101, Deutschland",B,6.84,5.23,3.18,6.66
+175,"What is the straight-line distance between the following two locations? (Unit is km)
+1. OSZ TIEM. Detailed address: 8;10;12;14, Goldbeckweg, Haselhorst, Spandau, Berlin, Brandenburg, 13599, Deutschland
+2. Atila's Kebap Haus. Detailed address: 33, Parchimer Allee, Großsiedlung Britz (Hufeisensiedlung), Britz, Neukölln, Berlin, Brandenburg, 12359, Deutschland",D,20.1,15.69,20.09,18.74
+176,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Zahnklinik Ost. Detailed address: 46, Dörpfeldstraße, Adlershof, Treptow-Köpenick, Berlin, Brandenburg, 12489, Deutschland
+2. Bike tools stand. Detailed address: Seydlitzstraße, Europacity, Moabit, Mitte, Berlin, Brandenburg, 10557, Deutschland",D,19.76,19.82,19.03,16.03
+177,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sportschlule Lothar Nest e.V.. Detailed address: Judo Welt-Museum, 21, Alt-Mariendorf, Mariendorf, Berlin, Tempelhof-Schöneberg, Brandenburg, 12107, Deutschland
+2. Rupert-Neudeck-Haus. Detailed address: 139c, Storkower Straße, Blumenviertel, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10407, Deutschland",D,18.75,18.38,4.2,11.18
+178,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Apotheke am Bahnhof Grunewald. Detailed address: 4, Fontanestraße, Grunewald, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14193, Deutschland
+2. Orcom. Detailed address: 184, Karl-Marx-Straße, Böhmisches Dorf, Neukölln, Berlin, Brandenburg, 12043, Deutschland",D,19.28,8.49,14.69,12.07
+179,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bass Restaurant. Detailed address: 9, Xantener Straße, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10707, Deutschland
+2. Dr. Cordula Christoph. Detailed address: 5, Charitéstraße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland",D,1.86,8.95,1.45,5.31
+180,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mendoza. Detailed address: 307, Johannisthaler Chaussee, Gropiusstadt, Neukölln, Berlin, Brandenburg, 12351, Deutschland
+2. Dingadu. Detailed address: TWY WEST I, Gartenstadt Neu-Tempelhof, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12101, Deutschland",D,2.18,10.99,4.28,6.53
+181,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kleihueshalle. Detailed address: Hamburger Bahnhof, 50-51, Invalidenstraße, Europacity, Moabit, Mitte, Berlin, Brandenburg, 10557, Deutschland
+2. OSZ TIEM. Detailed address: 8;10;12;14, Goldbeckweg, Haselhorst, Spandau, Berlin, Brandenburg, 13599, Deutschland",B,7.08,9.74,3.46,8.05
+182,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kita Frankenstraße. Detailed address: 8/9, Frankenstraße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10781, Deutschland
+2. Taverna Dionysos. Detailed address: 110, Gneisenaustraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10961, Deutschland",B,0.55,2.67,5.38,10.34
+183,"What is the straight-line distance between the following two locations? (Unit is km)
+1. El Zarape. Detailed address: 60, Gerichtstraße, Gesundbrunnen, Mitte, Berlin, Brandenburg, 13347, Deutschland
+2. Studienkreis. Detailed address: Residenzstraße, Reinickendorf, Berlin, Reinickendorf, Brandenburg, 13409, Deutschland",C,7.38,7.53,2.34,8.35
+184,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Polizeidirektion 2 / Polizeiakademie. Detailed address: Charlottenburger Chaussee, Spandau, Berlin, Brandenburg, 13597, Deutschland
+2. ehemaliger Palast der Republik. Detailed address: Berliner Schloss, 1, Schloßplatz, Friedrichswerder, Mitte, Berlin, Brandenburg, 10178, Deutschland",A,11.97,14.56,8.72,9.68
+185,"What is the straight-line distance between the following two locations? (Unit is km)
+1. DB Reisezentrum. Detailed address: Eingangsebene, Europacity, Moabit, Mitte, Berlin, Brandenburg, 10557, Deutschland
+2. Märchenbrunnen. Detailed address: Froschkönig, Am Friedrichshain, Winsviertel, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10407, Deutschland",B,8.12,3.93,10.54,0.68
+186,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Silberstein-Grundschule. Detailed address: Silbersteinstraße, Neukölln, Berlin, Brandenburg, 12051, Deutschland
+2. Neue Hoffnung. Detailed address: Sonnenheim, Charlottenburg-Nord, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 13627, Deutschland",D,18.35,7.5,15.34,12.12
+187,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Schwarze Traube. Detailed address: 24, Wrangelstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10997, Deutschland
+2. Spielhalle. Detailed address: 187, Prenzlauer Allee, Helmholtzkiez, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10405, Deutschland",B,0.99,4.4,7.11,11.25
+188,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Zum Starken August. Detailed address: 56, Schönhauser Allee, Bremer Höhe, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10437, Deutschland
+2. Hasir Burger. Detailed address: Oranienstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10999, Deutschland",D,7.14,12.12,10.66,4.74
+189,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Aktiv-Med. Detailed address: 33, Naunynstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10999, Deutschland
+2. The Hummus Guys. Detailed address: 39, Hohenstaufenstraße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10779, Deutschland",A,5.64,12.72,10.95,8.88
+190,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Anselm W.H.Pinot. Detailed address: 115b, Kurfürstendamm, Halensee, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10711, Deutschland
+2. Caramina. Detailed address: 10, Herrfurthstraße, Schillerkiez, Neukölln, Berlin, Brandenburg, 12049, Deutschland",B,2.3,9.14,3.01,1.21
+191,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Yoko Sushi. Detailed address: 44, Boxhagener Straße, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10245, Deutschland
+2. B+R Box. Detailed address: Berlin Hauptbahnhof, Friedrich-List-Ufer, Europacity, Moabit, Mitte, Berlin, Brandenburg, 10557, Deutschland",B,13.5,6.77,13.29,12.22
+192,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Café Bergholz. Detailed address: 2, Bergholzstraße, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12099, Deutschland
+2. Mr. Chai Wala. Detailed address: 31, Kantstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10625, Deutschland",A,8.8,13.31,13.65,1.42
+193,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Botschaft der Republik Litauen. Detailed address: 9, Charitéstraße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland
+2. Bauern- und Nutzpflanzen. Detailed address: Botanischer Garten, Unter den Eichen, Lichterfelde West, Lichterfelde, Steglitz-Zehlendorf, Berlin, Brandenburg, 12203, Deutschland",A,9.16,1.67,1.7,10.44
+194,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sandkrug I. Detailed address: Parkstraße, Sandkrug I, Gesundbrunnen, Mitte, Berlin, Pankow, Brandenburg, 13357, Deutschland
+2. Retentionsbodenfilteranlage. Detailed address: Bendemannstraße, Adlershof, Treptow-Köpenick, Berlin, Brandenburg, 12489, Deutschland",B,18.25,16.5,9.43,18.28
+195,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ristorante San Giorgio. Detailed address: 36, Mommsenstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10629, Deutschland
+2. Lalibela Taste of Ethiopia. Detailed address: 41, Soldiner Straße, Soldiner Kiez, Gesundbrunnen, Mitte, Berlin, Brandenburg, 13359, Deutschland",A,8.14,2.92,5.07,12.54
+196,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Polizei Abschnitt 44. Detailed address: 6, Götzstraße, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12099, Deutschland
+2. Gemeinschaftsunterkunft Paul-Schwenk-Straße. Detailed address: 7, Paul-Schwenk-Straße, Marzahn, Marzahn-Hellersdorf, Berlin, Brandenburg, 12685, Deutschland",D,18.21,17.39,10.5,13.18
+197,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Andrea-Maria Sistori. Detailed address: 14, Ringbahnstraße, Halensee, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10711, Deutschland
+2. Dipl. Psych. Birgit Mende. Detailed address: 15, Jägerstraße, Lichterfelde Ost, Lichterfelde, Steglitz-Zehlendorf, Berlin, Brandenburg, 12209, Deutschland",A,8.46,7.06,13.04,3.59
+198,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ÆVE. Detailed address: ÆDEN, 3, Schleusenufer, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10997, Deutschland
+2. Laib und Seele. Detailed address: 1, Marheinekeplatz, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10961, Deutschland",C,6.94,8.45,3.65,8.04
+199,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rona. Detailed address: Stresemannstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10963, Deutschland
+2. Kita Die Kiezkrümel. Detailed address: 1, Pankower Straße, Französisch Buchholz, Berlin, Pankow, Brandenburg, 13127, Deutschland",D,5.32,13.42,12.21,9.64
+200,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Wilma Restaurant & Sportsbar. Detailed address: 39, Straße am Schoelerpark, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10715, Deutschland
+2. Father Carpenter Coffee Brewers. Detailed address: 21, Münzstraße, Scheunenviertel, Mitte, Berlin, Brandenburg, 10178, Deutschland",B,13.58,7.28,8.57,10.53
+201,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kleingartenkolonie Oeynhausen. Detailed address: Dahlienweg, Kleingartenkolonie Oeynhausen, Schmargendorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14199, Deutschland
+2. Siemens Verwaltungsgebäude. Detailed address: 101, Nonnendammallee, Siemensstadt, Spandau, Berlin, Brandenburg, 13629, Deutschland",A,7.06,9.53,9.05,10.53
+202,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Autogas 24h. Detailed address: Gradestraße, Britz, Neukölln, Berlin, Brandenburg, 12347, Deutschland
+2. Erdal’s Bierstube. Detailed address: Friedrich-Karl-Straße, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12103, Deutschland",A,3.01,6.89,9.27,8.25
+203,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Viva Studio. Detailed address: 98, Wilmersdorfer Straße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10629, Deutschland
+2. Camino. Detailed address: 16, Hufelandstraße, Bötzowkiez, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10407, Deutschland",B,7.04,9.01,14.52,11.45
+204,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Berlin's Gemüse kebab. Detailed address: Kebap & Chicken, Schönhauser Allee, Arnimkiez, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10439, Deutschland
+2. Sportsbar Boomerang. Detailed address: Elsenstraße, Kungerkiez, Alt-Treptow, Treptow-Köpenick, Berlin, Brandenburg, 12435, Deutschland",C,11.78,4.39,7.64,9.49
+205,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Café Olea. Detailed address: 95, Martin-Luther-Straße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10825, Deutschland
+2. 2 Dünyar. Detailed address: 19A, Willdenowstraße, Sprengelkiez, Wedding, Mitte, Berlin, Brandenburg, 13353, Deutschland",B,8.02,6.42,9.81,11.91
+206,"What is the straight-line distance between the following two locations? (Unit is km)
+1. amazonlocker. Detailed address: Gerichtstraße, Gesundbrunnen, Mitte, Berlin, Brandenburg, 13347, Deutschland
+2. StadtWERKSTATT. Detailed address: Mehringdamm, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10961, Deutschland",B,1.33,5.39,7.09,12.53
+207,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kalli & Co. Detailed address: 4, Oberlandstraße, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12099, Deutschland
+2. Café Wunder. Detailed address: 7, Jonasstraße, Moabit, Mitte, Berlin, Brandenburg, 10551, Deutschland",B,3.89,8.86,16.17,7.83
+208,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Wilhelm. Detailed address: 57, Wilhelmstraße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland
+2. Bilakis. Detailed address: Wichertstraße, Bremer Höhe, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10439, Deutschland",B,3.18,4.57,10.95,12.52
+209,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Orthomed Berlin. Detailed address: 100, Revaler Straße, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10243, Deutschland
+2. teledisko. Detailed address: 1, Mercedes-Platz, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10243, Deutschland",A,0.66,3.02,8.34,4.34
+210,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dr. Med. M. Dachner. Detailed address: 11, Motzstraße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10777, Deutschland
+2. S-Bahnhof Heer. Detailed address: Boyenallee, Westend, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14055, Deutschland",A,6.33,9.45,10.51,13.44
+211,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Artigiani. Detailed address: 95b, Unter den Eichen, Lichterfelde West, Lichterfelde, Steglitz-Zehlendorf, Berlin, Brandenburg, 12205, Deutschland
+2. Volkshochschule Berlin Mitte. Detailed address: 162, Linienstraße, Spandauer Vorstadt, Mitte, Berlin, Brandenburg, 10115, Deutschland",A,11.61,15.21,9.69,3.92
+212,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Eigenland. Detailed address: 95, Alter Wiesenweg, Eigenland, Tegel, Berlin, Reinickendorf, Brandenburg, 13629, Deutschland
+2. Park am Gleisdreieck - Ostpark. Detailed address: Historische Ladestraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10963, Deutschland",B,1.71,9.3,1.37,6.33
+213,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Haus 15. Detailed address: Wasserturm, Olbendorfer Weg, Wittenau, Berlin, Reinickendorf, Brandenburg, 13403, Deutschland
+2. Dyckerhoff Terminal Berlin. Detailed address: 80L, Greifswalder Straße, Grüne Stadt, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10405, Deutschland",C,7.19,3.28,9.11,2.48
+214,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kleingartenanlage Florafreunde. Detailed address: 18, Eibenallee, Kleingartenanlage Florafreunde, Karlshorst, Lichtenberg, Berlin, Brandenburg, 10318, Deutschland
+2. Station 8. Detailed address: Albrechtstraße, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12099, Deutschland",B,4.42,10.46,14.06,13.37
+215,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Musik- und Kunstschule Berlin. Detailed address: Haubachstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10585, Deutschland
+2. Kundenparkhaus Gropius Passagen. Detailed address: Martin-Luther-King-Weg, Gropiusstadt, Neukölln, Berlin, Brandenburg, 12351, Deutschland",B,16.64,14.03,12.57,10.18
+216,"What is the straight-line distance between the following two locations? (Unit is km)
+1. B+R Box. Detailed address: Berlin Hauptbahnhof, Friedrich-List-Ufer, Europacity, Moabit, Mitte, Berlin, Brandenburg, 10557, Deutschland
+2. PommStore Döner. Detailed address: 34, Schloßstraße, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12163, Deutschland",A,8.1,14.52,4.24,11.51
+217,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Neuköllner Oper. Detailed address: 131-133, Karl-Marx-Straße, Böhmisches Dorf, Neukölln, Berlin, Brandenburg, 12043, Deutschland
+2. Kaiserin Imbiss. Detailed address: Kaiserin-Augusta-Allee, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10589, Deutschland",D,4.03,13.89,11.29,10.23
+218,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kebap with Attitude. Detailed address: 2, Gipsstraße, Spandauer Vorstadt, Mitte, Berlin, Brandenburg, 10119, Deutschland
+2. Euronet. Detailed address: 28, Neue Grünstraße, Luisenstadt, Mitte, Berlin, Brandenburg, 10179, Deutschland",C,3.04,4.18,1.97,5.53
+219,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Manul. Detailed address: Aussichtsberg, Gensinger Viertel, Friedrichsfelde, Lichtenberg, Berlin, Brandenburg, 10319, Deutschland
+2. Griechischer Park. Detailed address: Kita Griechische Allee, 21-25, Griechische Allee, Oberschöneweide, Treptow-Köpenick, Berlin, Brandenburg, 12459, Deutschland",D,2.17,2.9,3.31,4.87
+220,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Waldcafe. Detailed address: Freizeit- und Erholungszentrum (FEZ), Rudolf-Rühl-Allee, Köpenick, Treptow-Köpenick, Berlin, Brandenburg, 12555, Deutschland
+2. UPS Access Point. Detailed address: Eylauer Straße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10965, Deutschland",D,16.19,17.46,9.26,11.67
+221,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Baba Jaga. Detailed address: 1, Helene-Weigel-Platz, Marzahn, Marzahn-Hellersdorf, Berlin, Brandenburg, 12681, Deutschland
+2. Silke Sanft. Detailed address: 6, Florastraße, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12163, Deutschland",C,12.58,10.35,16.16,17.47
+222,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kitchari Kitchen. Detailed address: Jungstraße, Samariterviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10247, Deutschland
+2. IKEA Restaurant. Detailed address: 47, Sachsendamm, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10829, Deutschland",D,10.26,5.25,6.48,8.13
+223,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 360 Grad – Raum für Kreativität. Detailed address: 10, Prerower Platz, Neu-Hohenschönhausen, Lichtenberg, Berlin, Brandenburg, 13051, Deutschland
+2. Risa Chicken. Detailed address: 30, Müllerstraße, Brüsseler Kiez, Wedding, Mitte, Berlin, Brandenburg, 13353, Deutschland",A,10.22,16.8,5.09,13.97
+224,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Wochenmarkt Eberbacher Straße / Rüdesheimer Platz. Detailed address: Johannisberger Straße, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14197, Deutschland
+2. Reisebank. Detailed address: Douglas, Eingangsebene, Europacity, Moabit, Mitte, Berlin, Brandenburg, 10557, Deutschland",B,1.42,7.02,4.31,12.61
+225,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Meine Apotheke. Detailed address: Apotheke am Olivaer Platz, 17, Olivaer Platz, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10707, Deutschland
+2. Laurentius-Apotheke. Detailed address: 76C, Hindenburgdamm, Lichterfelde West, Lichterfelde, Steglitz-Zehlendorf, Berlin, Brandenburg, 12203, Deutschland",A,5.79,7.21,4.63,4.56
+226,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rummels Perle. Detailed address: 47, Reichenberger Straße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10999, Deutschland
+2. Bistro Aleksandra. Detailed address: 33, Schloßstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14059, Deutschland",C,14.43,6.61,8.91,1.96
+227,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Van Long. Detailed address: 12, Leipziger Platz, Mitte, Berlin, Brandenburg, 10117, Deutschland
+2. Heck Meck. Detailed address: 111, Eisenacher Straße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10777, Deutschland",B,7.86,2.49,5.43,6.94
+228,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dr. med. Georg Fibich. Detailed address: 8, Dolgenseestraße, Sewan-Viertel, Friedrichsfelde, Lichtenberg, Berlin, Brandenburg, 10319, Deutschland
+2. Dr. med. Zadan Plagens. Detailed address: 7, Föhrer Straße, Brüsseler Kiez, Wedding, Mitte, Berlin, Brandenburg, 13353, Deutschland",C,7.73,16.36,12.04,19.35
+229,"What is the straight-line distance between the following two locations? (Unit is km)
+1. vanille & marille Eismanufaktur. Detailed address: 118, Reichenberger Straße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10999, Deutschland
+2. Cocomo Eiswerkstatt GmbH. Detailed address: 1, Schillerpromenade, Oberschöneweide, Treptow-Köpenick, Berlin, Brandenburg, 12459, Deutschland",A,6.71,8.15,13.0,8.45
+230,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Straße der Pariser Kommune. Detailed address: Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10243, Deutschland
+2. Sushi Yana. Detailed address: 140, Karl-Marx-Allee, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10243, Deutschland",C,6.25,7.87,0.8,4.4
+231,"What is the straight-line distance between the following two locations? (Unit is km)
+1. EKT - Spielschloß e.V.. Detailed address: Nithackstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10585, Deutschland
+2. Casa Azul Maison Bleue. Detailed address: Reinhardtstraße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland",A,5.63,1.52,9.6,9.81
+232,"What is the straight-line distance between the following two locations? (Unit is km)
+1. KGA Sommerglück. Detailed address: Papierstraße, Nordbahnkiez, Gesundbrunnen, Mitte, Berlin, Brandenburg, 13409, Deutschland
+2. Hagebuttenfirtel. Detailed address: Claire-Waldoff-Straße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland",C,2.35,11.43,4.29,2.91
+233,"What is the straight-line distance between the following two locations? (Unit is km)
+1. All on Board. Detailed address: Seestraße, Brüsseler Kiez, Wedding, Mitte, Berlin, Brandenburg, 13353, Deutschland
+2. QBA. Detailed address: 45, Oranienburger Straße, Spandauer Vorstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland",A,3.73,2.33,7.64,0.72
+234,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Dolce Vita I. Detailed address: 130, Donaustraße, Flughafenkiez, Neukölln, Berlin, Brandenburg, 12043, Deutschland
+2. Hellen Schaller. Detailed address: 7, Friedrich-Wilhelm-Platz, Friedenau, Berlin, Tempelhof-Schöneberg, Brandenburg, 12161, Deutschland",B,13.15,7.14,3.19,15.13
+235,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kit Kat Club. Detailed address: 76, Köpenicker Straße, Luisenstadt, Mitte, Berlin, Brandenburg, 10179, Deutschland
+2. Kourosh. Detailed address: Lietzenburger Straße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10789, Deutschland",A,5.4,0.72,0.92,10.96
+236,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Auntie's. Detailed address: Choriner Straße, Kollwitzkiez, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10435, Deutschland
+2. Hochschule für Angewandte Wissenschaften Europa. Detailed address: 3-5, Dessauer Straße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10963, Deutschland",A,4.16,5.57,2.66,7.92
+237,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Grillo. Detailed address: 32, Frankfurter Allee, Samariterviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10247, Deutschland
+2. Wash Up. Detailed address: 36, Cicerostraße, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10709, Deutschland",A,11.16,13.82,13.21,4.92
+238,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bauern- und Nutzpflanzen. Detailed address: Botanischer Garten, Unter den Eichen, Lichterfelde West, Lichterfelde, Steglitz-Zehlendorf, Berlin, Brandenburg, 12203, Deutschland
+2. Bundesministerium für Ernährung und Landwirtschaft. Detailed address: 54, Wilhelmstraße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland",D,15.56,4.54,15.86,8.45
+239,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tomatenklang. Detailed address: 31, Marienburger Straße, Winsviertel, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10405, Deutschland
+2. Raum für Musik. Detailed address: Schönheitskultur, 32, Zionskirchstraße, Mitte, Berlin, Brandenburg, 10119, Deutschland",D,4.27,7.17,4.28,1.66
+240,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof. Detailed address: Merlitzstraße, Adlershof, Treptow-Köpenick, Berlin, Brandenburg, 12489, Deutschland
+2. Laser-Mikrotechnologie. Detailed address: H1, 15, James-Franck-Straße, Adlershof, Treptow-Köpenick, Berlin, Brandenburg, 12489, Deutschland",A,1.03,3.25,8.74,6.16
+241,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kral Döner. Detailed address: Reinickendorfer Straße, Maxgärten, Wedding, Mitte, Berlin, Brandenburg, 13347, Deutschland
+2. Pasta degli Angeli. Detailed address: 63, Dietzgenstraße, Niederschönhausen, Berlin, Pankow, Brandenburg, 13156, Deutschland",A,4.54,3.18,6.79,3.33
+242,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Autoland Berlin. Detailed address: 63, Alt-Friedrichsfelde, Marzahn, Marzahn-Hellersdorf, Berlin, Brandenburg, 12683, Deutschland
+2. Schlosspark Theater. Detailed address: 48, Schloßstraße, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12165, Deutschland",C,18.7,11.52,16.45,22.06
+243,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Praxis Dr. Lindner. Detailed address: 15, Manfred-von-Richthofen-Straße, Gartenstadt Neu-Tempelhof, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12101, Deutschland
+2. Bagatelle. Detailed address: 72, Frankfurter Allee, Samariterviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10247, Deutschland",C,3.15,9.98,6.75,9.92
+244,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dyckerhoff Terminal Berlin. Detailed address: 80L, Greifswalder Straße, Grüne Stadt, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10405, Deutschland
+2. PLTFRM.Berlin. Detailed address: An der Ostbahn, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10243, Deutschland",A,3.18,1.75,1.26,1.91
+245,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cranach Apotheke. Detailed address: 6, Cranachstraße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 12157, Deutschland
+2. Lok18. Detailed address: Dudenstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10965, Deutschland",D,7.19,0.89,7.38,2.83
+246,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Orcom. Detailed address: 184, Karl-Marx-Straße, Böhmisches Dorf, Neukölln, Berlin, Brandenburg, 12043, Deutschland
+2. Bebua. Detailed address: Knesebeckstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10719, Deutschland",B,15.38,8.56,13.41,15.14
+247,"What is the straight-line distance between the following two locations? (Unit is km)
+1. CoffEy. Detailed address: 6, Machnower Straße, Zehlendorf, Steglitz-Zehlendorf, Berlin, Brandenburg, 14165, Deutschland
+2. Zahnarztpraxis Moutsidis. Detailed address: 147, Hauptstraße, Rote Insel, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10827, Deutschland",B,3.0,9.51,11.39,15.39
+248,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Griechischer Park. Detailed address: Kita Griechische Allee, 21-25, Griechische Allee, Oberschöneweide, Treptow-Köpenick, Berlin, Brandenburg, 12459, Deutschland
+2. Berliner Wasserbetriebe. Detailed address: 56, Werner-Voß-Damm, Gartenstadt Neu-Tempelhof, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12101, Deutschland",B,16.97,10.25,6.65,13.34
+249,"What is the straight-line distance between the following two locations? (Unit is km)
+1. be emobil. Detailed address: Eschenallee, Westend, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14050, Deutschland
+2. Homey. Detailed address: 70, Müllerstraße, Englisches Viertel, Wedding, Mitte, Berlin, Brandenburg, 13349, Deutschland",D,4.95,2.55,7.99,6.38
+250,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ride-berlin.com. Detailed address: Danziger Straße, Kollwitzkiez, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10435, Deutschland
+2. Fraunhofer Center for Responsible Research and Innovation. Detailed address: 20, Hardenbergstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10623, Deutschland",C,0.87,9.29,7.01,3.23
+251,"What is the straight-line distance between the following two locations? (Unit is km)
+1. BrewDog DogTap Berlin. Detailed address: 23, Im Marienpark, Marienpark, Mariendorf, Berlin, Tempelhof-Schöneberg, Brandenburg, 12107, Deutschland
+2. Takumi Nine. Detailed address: 99, Knaackstraße, Bremer Höhe, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10435, Deutschland",B,5.25,11.82,14.07,18.42
+252,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Thomas-Michael-Höhn-Haus (ehem. Zuckermuseum). Detailed address: Fraunhofer MEVIS Berlin Office, 32, Amrumer Straße, Brüsseler Kiez, Wedding, Mitte, Berlin, Brandenburg, 13353, Deutschland
+2. Rudolfplatz. Detailed address: Rudolfstraße, Rudolfkiez, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10245, Deutschland",A,8.85,3.76,11.1,4.47
+253,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Athen. Detailed address: 57, Radickestraße, Adlershof, Treptow-Köpenick, Berlin, Brandenburg, 12489, Deutschland
+2. Rubby Akhionbare;Sofia Friedel-Römer. Detailed address: 82, Mariendorfer Damm, Mariendorf, Berlin, Tempelhof-Schöneberg, Brandenburg, 12109, Deutschland",A,11.03,18.35,12.92,15.06
+254,"What is the straight-line distance between the following two locations? (Unit is km)
+1. BVG. Detailed address: Rathausstraße, Spandauer Vorstadt, Mitte, Berlin, Brandenburg, 10179, Deutschland
+2. Pathologie. Detailed address: Colditzstraße, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12099, Deutschland",B,11.58,6.94,9.88,9.63
+255,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Volkspark Schönholzer Heide. Detailed address: Sowjetisches Ehrenmal Schönholzer Heide, Sachsenstraße, Niederschönhausen, Berlin, Pankow, Brandenburg, 13156, Deutschland
+2. Kurt-Tucholsky-Grundschule. Detailed address: Kruppstraße, Moabit, Mitte, Berlin, Brandenburg, 10559, Deutschland",C,2.51,9.78,5.81,12.35
+256,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Café Nostalgie. Detailed address: 22, Crellestraße, Rote Insel, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10827, Deutschland
+2. Kita Pumuckel. Detailed address: 56, Warthestraße, Schillerkiez, Neukölln, Berlin, Brandenburg, 12051, Deutschland",B,8.66,4.75,8.31,10.39
+257,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Landsmannschaft der Deutschen aus Russland. Detailed address: 50A, Auguste-Viktoria-Allee, Reinickendorf, Berlin, Reinickendorf, Brandenburg, 13403, Deutschland
+2. Kleingartenanlage Florafreunde. Detailed address: 18, Eibenallee, Kleingartenanlage Florafreunde, Karlshorst, Lichtenberg, Berlin, Brandenburg, 10318, Deutschland",B,14.27,19.01,16.55,13.68
+258,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Salzufer. Detailed address: Englische Straße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10587, Deutschland
+2. Diener Tattersall. Detailed address: 47, Grolmanstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10623, Deutschland",B,5.09,1.17,4.96,6.03
+259,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dr. Cordula Christoph. Detailed address: 5, Charitéstraße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland
+2. Jasmin Thaimodelle Massage Karlshorst. Detailed address: 97, Treskowallee, Heimatviertel, Karlshorst, Lichtenberg, Berlin, Brandenburg, 10318, Deutschland",B,8.85,10.91,13.33,8.22
+260,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Slava Berlin. Detailed address: 43, Wrangelstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10997, Deutschland
+2. Coffee Fellows. Detailed address: Kleiststraße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10787, Deutschland",D,8.53,0.86,9.3,6.38
+261,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sofram. Detailed address: 137, Potsdamer Straße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10783, Deutschland
+2. PFS Pflegestation Alles. Detailed address: 47a, Hohenzollerndamm, Halensee, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10713, Deutschland",C,7.06,1.53,4.22,10.95
+262,"What is the straight-line distance between the following two locations? (Unit is km)
+1. KGA Zähringer Korso e. V.. Detailed address: Rumeyplan, Gartenstadt Neu-Tempelhof, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12101, Deutschland
+2. Wohnheim Allee der Kosmonauten. Detailed address: Allee der Kosmonauten, Lichtenberg, Berlin, Brandenburg, 10315, Deutschland",B,6.97,10.75,11.93,18.65
+263,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kinderladen Rübezahl. Detailed address: 53, Feurigstraße, Rote Insel, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10827, Deutschland
+2. Haselhorst. Detailed address: Haselhorster Damm, Haselhorst, Spandau, Berlin, Brandenburg, 13599, Deutschland",B,11.39,10.24,13.73,16.79
+264,"What is the straight-line distance between the following two locations? (Unit is km)
+1. EKT - Timpetu e.V.. Detailed address: 5, Treskowstraße, Niederschönhausen, Berlin, Pankow, Brandenburg, 13156, Deutschland
+2. Lotta Tagesbar. Detailed address: 56, Pestalozzistraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10627, Deutschland",C,15.13,12.77,10.67,2.83
+265,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pink Burgers. Detailed address: Alt-Moabit, Moabit, Mitte, Berlin, Brandenburg, 10559, Deutschland
+2. Burger King. Detailed address: 75, Schönhauser Allee, Bremer Höhe, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10439, Deutschland",B,7.51,5.2,4.03,10.52
+266,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Swingspiration. Detailed address: 10, Körtestraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10967, Deutschland
+2. Gründerzentrum Hochschule für Wirtschaft und Recht. Detailed address: 40-41, Babelsberger Straße, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10715, Deutschland",B,10.93,5.16,9.07,7.53
+267,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dauerkolonie „Am Buschkrug“. Detailed address: Zeile 17, Dauerkolonie „Am Buschkrug“, Britz, Neukölln, Berlin, Brandenburg, 12359, Deutschland
+2. Sporthalle Max-Taut-Schule. Detailed address: Lilienweg, Kleingartenanlage Paradies, Rummelsburg, Lichtenberg, Berlin, Brandenburg, 10317, Deutschland",C,2.33,13.05,6.02,3.9
+268,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Zahnarztpraxis Blümel & Dahlem. Detailed address: 107-108, Schloßstraße, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12163, Deutschland
+2. Dr. Ingrid Ispas. Detailed address: 74, Yorckstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10965, Deutschland",D,2.59,0.51,10.69,5.26
+269,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kundenparkhaus Gropius Passagen. Detailed address: Martin-Luther-King-Weg, Gropiusstadt, Neukölln, Berlin, Brandenburg, 12351, Deutschland
+2. Akademie für Yoga Berlin. Detailed address: 5, Wilhelmshöher Straße, Friedenau, Berlin, Tempelhof-Schöneberg, Brandenburg, 12161, Deutschland",A,10.01,12.16,3.54,7.26
+270,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kachellounge 54. Detailed address: 54, Weichselstraße, Donaukiez, Neukölln, Berlin, Brandenburg, 12045, Deutschland
+2. Berliner Volksbank. Detailed address: Königin-Luise-Straße, Dahlem, Steglitz-Zehlendorf, Berlin, Brandenburg, 14195, Deutschland",D,4.38,13.05,17.47,10.28
+271,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Café Butter. Detailed address: 73, Pappelallee, Bremer Höhe, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10437, Deutschland
+2. Rona. Detailed address: Stresemannstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10963, Deutschland",B,3.3,5.04,7.06,9.65
+272,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gündem. Detailed address: Germaniapromenade, Britz, Neukölln, Berlin, Brandenburg, 12347, Deutschland
+2. Kinderladen Tüte Mücken. Detailed address: 78, Togostraße, Brüsseler Kiez, Wedding, Mitte, Berlin, Brandenburg, 13351, Deutschland",A,11.52,13.46,16.35,15.1
+273,"What is the straight-line distance between the following two locations? (Unit is km)
+1. WG Zobeltitzstraße. Detailed address: 117, Zobeltitzstraße, Reinickendorf, Berlin, Reinickendorf, Brandenburg, 13403, Deutschland
+2. Aktiv-Med. Detailed address: 33, Naunynstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10999, Deutschland",C,5.77,14.91,10.93,16.2
+274,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pastor-Niemöller-Platz. Detailed address: Niederschönhausen, Berlin, Pankow, Brandenburg, 13156, Deutschland
+2. Integrierte Leitstelle Berlin. Detailed address: 2, Nikolaus-Groß-Weg, Charlottenburg-Nord, Spandau, Berlin, Brandenburg, 13627, Deutschland",A,9.5,6.32,6.94,2.59
+275,"What is the straight-line distance between the following two locations? (Unit is km)
+1. VfB Fortuna Biesdorf. Detailed address: Brachfelder Straße, Biesdorf-Süd, Biesdorf, Marzahn-Hellersdorf, Berlin, Brandenburg, 12683, Deutschland
+2. Humboldt-Universität zu Berlin Institut für Biologie Botanik und Arboretum. Detailed address: Späth-Arboretum, Späthstraße, Baumschulenweg, Treptow-Köpenick, Berlin, Brandenburg, 12437, Deutschland",A,7.79,9.37,1.47,12.13
+276,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Park am Gleisdreieck - Ostpark. Detailed address: Historische Ladestraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10963, Deutschland
+2. Park am Plötzensee. Detailed address: Hans-Schomburgk-Promenade, Wedding, Mitte, Berlin, Brandenburg, 13351, Deutschland",D,0.72,11.12,1.8,6.66
+277,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Schilleroase. Detailed address: 59, Dubliner Straße, Englisches Viertel, Wedding, Mitte, Berlin, Brandenburg, 13349, Deutschland
+2. Haus 5 - Kastanienhaus. Detailed address: Wald-Grundschule, 83-93, Waldschulallee, Westend, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14055, Deutschland",C,3.2,13.77,8.73,4.99
+278,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pankow-Kirche. Detailed address: Breite Straße, Pankow, Berlin, Pankow, Brandenburg, 13187, Deutschland
+2. Kit Kat Club. Detailed address: 76, Köpenicker Straße, Luisenstadt, Mitte, Berlin, Brandenburg, 10179, Deutschland",D,5.01,1.5,2.14,6.69
+279,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hautarzt Friedenau. Detailed address: 87, Hauptstraße, Friedenau, Berlin, Tempelhof-Schöneberg, Brandenburg, 12159, Deutschland
+2. taohealth. Detailed address: 37, Wittelsbacherstraße, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10707, Deutschland",D,5.21,10.3,10.17,2.62
+280,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Casa di Maria. Detailed address: 149, Uhlandstraße, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10719, Deutschland
+2. Alphi's Eis. Detailed address: 33, Heynstraße, Tiroler Viertel, Pankow, Berlin, Pankow, Brandenburg, 13187, Deutschland",D,5.46,11.93,1.71,9.29
+281,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Aral. Detailed address: 12/14, Holzmarktstraße, Mitte, Berlin, Brandenburg, 10179, Deutschland
+2. Kitchari Kitchen. Detailed address: Jungstraße, Samariterviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10247, Deutschland",D,9.27,10.78,8.63,2.97
+282,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Breitenbachplatz. Detailed address: A 104, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12163, Deutschland
+2. Royals & Rice. Detailed address: 164, Torstraße, Spandauer Vorstadt, Mitte, Berlin, Brandenburg, 10115, Deutschland",B,13.52,9.04,1.28,13.39
+283,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Laurentius-Apotheke. Detailed address: 76C, Hindenburgdamm, Lichterfelde West, Lichterfelde, Steglitz-Zehlendorf, Berlin, Brandenburg, 12203, Deutschland
+2. Drop In. Detailed address: RAW-Gelände, Warschauer Straße, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10245, Deutschland",A,11.57,8.94,16.9,7.33
+284,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dres. med. Jana + Essam Shaltout. Detailed address: 41, Albrechtstraße, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12167, Deutschland
+2. die hautexperten. Detailed address: 58, Wilmersdorfer Straße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10627, Deutschland",B,2.03,6.6,9.53,7.69
+285,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Veganaa. Detailed address: 88, Grunewaldstraße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10823, Deutschland
+2. El Zarape. Detailed address: 60, Gerichtstraße, Gesundbrunnen, Mitte, Berlin, Brandenburg, 13347, Deutschland",B,11.28,6.11,10.53,2.79
+286,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Migi Würsch. Detailed address: 14, Boxhagener Straße, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10245, Deutschland
+2. Berndhain. Detailed address: 32, Simon-Dach-Straße, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10245, Deutschland",A,0.53,7.03,2.2,1.64
+287,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Spielhalle. Detailed address: 187, Prenzlauer Allee, Helmholtzkiez, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10405, Deutschland
+2. Trattoria Felice. Detailed address: 41, Lychener Straße, Helmholtzkiez, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10437, Deutschland",C,3.44,4.81,0.58,5.51
+288,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dr. Ingrid Ispas. Detailed address: 74, Yorckstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10965, Deutschland
+2. 360 Grad – Raum für Kreativität. Detailed address: 10, Prerower Platz, Neu-Hohenschönhausen, Lichtenberg, Berlin, Brandenburg, 13051, Deutschland",D,8.57,6.28,12.8,11.62
+289,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Hummus Guys. Detailed address: 39, Hohenstaufenstraße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10779, Deutschland
+2. Enterprise. Detailed address: 200, Friedrichstraße, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland",D,2.55,9.71,6.41,3.91
+290,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ZuGABe e. V.. Detailed address: 10, Gutzkowstraße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10827, Deutschland
+2. 4 Seasons. Detailed address: Pettenkoferstraße, Samariterviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10247, Deutschland",D,13.95,14.43,12.93,9.39
+291,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Home of Dumplings. Detailed address: 103, Skalitzer Straße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10997, Deutschland
+2. Praxis Dr. Lindner. Detailed address: 15, Manfred-von-Richthofen-Straße, Gartenstadt Neu-Tempelhof, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12101, Deutschland",B,1.69,3.58,7.02,8.58
+292,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Zahnarztpraxis Udo Schulwitz. Detailed address: 23, Georg-Wilhelm-Straße, Halensee, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10711, Deutschland
+2. Casa di Maria. Detailed address: 149, Uhlandstraße, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10719, Deutschland",B,10.29,2.34,6.04,7.39
+293,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Café Lila. Detailed address: Uhlandstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10623, Deutschland
+2. El Buen Gusto. Detailed address: 191, Kiefholzstraße, Baumschulenweg, Treptow-Köpenick, Berlin, Brandenburg, 12437, Deutschland",D,10.64,6.74,16.77,11.91
+294,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kolonie Hasenheim. Detailed address: Rosenweg, Kolonie Hasenheim, Britz, Neukölln, Berlin, Brandenburg, 12359, Deutschland
+2. Sandkrug I. Detailed address: Parkstraße, Sandkrug I, Gesundbrunnen, Mitte, Berlin, Pankow, Brandenburg, 13357, Deutschland",D,15.73,10.17,8.22,13.03
+295,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Siemens Verwaltungsgebäude. Detailed address: 101, Nonnendammallee, Siemensstadt, Spandau, Berlin, Brandenburg, 13629, Deutschland
+2. VfB Fortuna Biesdorf. Detailed address: Brachfelder Straße, Biesdorf-Süd, Biesdorf, Marzahn-Hellersdorf, Berlin, Brandenburg, 12683, Deutschland",B,23.1,19.96,12.26,16.48
+296,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Akademie für Yoga Berlin. Detailed address: 5, Wilhelmshöher Straße, Friedenau, Berlin, Tempelhof-Schöneberg, Brandenburg, 12161, Deutschland
+2. Slava Berlin. Detailed address: 43, Wrangelstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10997, Deutschland",B,9.31,8.27,4.89,9.46
+297,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tucano Eis Cafe&Bar. Detailed address: 171, Landsberger Allee, Fennpfuhl, Lichtenberg, Berlin, Brandenburg, 10369, Deutschland
+2. Next to Kuchi. Detailed address: 30, Kantstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10623, Deutschland",C,5.69,4.88,10.68,17.51
+298,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Café Wunder. Detailed address: 7, Jonasstraße, Moabit, Mitte, Berlin, Brandenburg, 10551, Deutschland
+2. Taste of Samarkand. Detailed address: 187, Oranienstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10999, Deutschland",D,8.45,9.91,10.78,6.36
+299,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mysliwska. Detailed address: 35, Schlesische Straße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10997, Deutschland
+2. Mund-Kiefer-Gesichtschirugie. Detailed address: Ilsenburger Straße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10589, Deutschland",C,2.04,16.57,9.61,11.81
+300,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Camino. Detailed address: 16, Hufelandstraße, Bötzowkiez, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10407, Deutschland
+2. The Lir. Detailed address: 7, Flensburger Straße, Hansaviertel, Mitte, Berlin, Brandenburg, 10557, Deutschland",D,9.2,1.03,12.46,6.06
+301,"What is the straight-line distance between the following two locations? (Unit is km)
+1. beets&roots. Detailed address: 76, Mauerstraße, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland
+2. HNO Praxis. Detailed address: 28, Schloßstraße, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12163, Deutschland",B,1.59,7.15,8.57,10.9
+302,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Waldbühne. Detailed address: 1, Am Glockenturm, Westend, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14053, Deutschland
+2. Kita der Caritas Heilige Maria Magdalena. Detailed address: 12-13, Weiskopffstraße, Oberschöneweide, Treptow-Köpenick, Berlin, Brandenburg, 12459, Deutschland",C,23.78,15.17,22.18,15.87
+303,"What is the straight-line distance between the following two locations? (Unit is km)
+1. DLRG Wasserrettungsstation Scharfenberger Enge. Detailed address: 99, Schwarzer Weg, Tegel, Berlin, Reinickendorf, Brandenburg, 13505, Deutschland
+2. Quartier 206. Detailed address: 71, Friedrichstraße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland",A,12.01,18.41,15.93,8.82
+304,"What is the straight-line distance between the following two locations? (Unit is km)
+1. TK. Detailed address: Technische Universität Berlin, Herderstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10625, Deutschland
+2. Vitanas Senioren Centrum Am Bäkepark. Detailed address: Ostpreußendamm, Lichterfelde Ost, Lichterfelde, Steglitz-Zehlendorf, Berlin, Brandenburg, 12207, Deutschland",B,16.03,8.78,12.25,4.99
+305,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Takumi Nine. Detailed address: 99, Knaackstraße, Bremer Höhe, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10435, Deutschland
+2. Meine Apotheke. Detailed address: Apotheke am Olivaer Platz, 17, Olivaer Platz, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10707, Deutschland",A,8.25,14.26,9.75,3.38
+306,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Schlosspark Theater. Detailed address: 48, Schloßstraße, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12165, Deutschland
+2. Neuer Luisenstadt-Friedhof. Detailed address: Thomasstraße, Rollbergsiedlung, Neukölln, Berlin, Brandenburg, 12053, Deutschland",D,10.59,11.13,1.3,8.06
+307,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sandmann. Detailed address: 7, Reuterstraße, Flughafenkiez, Neukölln, Berlin, Brandenburg, 12053, Deutschland
+2. Kinderladen Rübezahl. Detailed address: 53, Feurigstraße, Rote Insel, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10827, Deutschland",C,10.47,0.61,5.09,12.05
+308,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Aventura. Detailed address: Trautenaustraße, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10717, Deutschland
+2. Kinderladen Zauberhaus. Detailed address: 30, Reinickendorfer Straße, Maxgärten, Gesundbrunnen, Mitte, Berlin, Brandenburg, 13347, Deutschland",A,6.72,11.05,14.23,3.93
+309,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Neue Hoffnung. Detailed address: Sonnenheim, Charlottenburg-Nord, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 13627, Deutschland
+2. Sophie-Brahe-Gemeinschaftsschule. Detailed address: Sophie-Brahe-Schule (Gemeinschaftsschule), 17/23, Am Plänterwald, Plänterwald, Treptow-Köpenick, Berlin, Brandenburg, 12435, Deutschland",B,17.59,13.63,16.64,16.21
+310,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Heilige-Geist-Gemeinde. Detailed address: Heilige-Geist-Kirche, 36, Perleberger Straße, Moabit, Mitte, Berlin, Brandenburg, 10559, Deutschland
+2. Bayerischer Platz. Detailed address: Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10779, Deutschland",C,5.94,9.03,4.65,10.78
+311,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bäkepark. Detailed address: 9, Dalandweg, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12167, Deutschland
+2. Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof. Detailed address: Merlitzstraße, Adlershof, Treptow-Köpenick, Berlin, Brandenburg, 12489, Deutschland",D,15.91,16.9,18.16,14.31
+312,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Wassersportzentrum der Turngemeinde in Berlin 1848 E.V.. Detailed address: 127-129, Bruno-Bürgel-Weg, Niederschöneweide, Treptow-Köpenick, Berlin, Brandenburg, 12439, Deutschland
+2. Wegedorn Zentrum. Detailed address: Lidl, 106, Semmelweisstraße, Altglienicke, Treptow-Köpenick, Berlin, Brandenburg, 12524, Deutschland",A,3.51,8.59,0.67,10.57
+313,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fachzentrum für Zahnheilkunde und Implantologie. Detailed address: 105A, Karl-Marx-Allee, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10243, Deutschland
+2. Coffee Drink Your Monkey. Detailed address: 11, Savignyplatz, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10623, Deutschland",A,8.51,4.3,2.78,13.01
+314,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sparkasse. Detailed address: 33, Rankestraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10789, Deutschland
+2. Come-In. Detailed address: TennisClub Wilmersdorf, Fritz-Wildung-Straße, Schmargendorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14199, Deutschland",C,5.42,10.11,3.38,9.03
+315,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Marlene Bar. Detailed address: 2, Budapester Straße, Botschaftsviertel, Tiergarten, Mitte, Berlin, Brandenburg, 10787, Deutschland
+2. Café Butter. Detailed address: 73, Pappelallee, Bremer Höhe, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10437, Deutschland",D,4.14,8.25,7.81,6.3
+316,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mix & Match. Detailed address: 17, Charlottenstraße, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland
+2. EKG - An der Mäckeritzbrücke 4. Detailed address: Straße A, Siemenssiedlung HoKa III, Tegel, Berlin, Reinickendorf, Brandenburg, 13629, Deutschland",D,2.58,7.68,3.06,9.62
+317,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kinder- und Familienzentrum Schillerstraße. Detailed address: 61-62, Schillerstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10627, Deutschland
+2. ride-berlin.com. Detailed address: Danziger Straße, Kollwitzkiez, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10435, Deutschland",D,2.78,12.33,2.46,8.72
+318,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ITS / Station 10.1-10.3. Detailed address: Vivantes Wenckebach-Klinikum, 23, Wenckebachstraße, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12099, Deutschland
+2. Baracke 6. Detailed address: Dokumentationszentrum NS-Zwangsarbeit, 5, Britzer Straße, Niederschöneweide, Treptow-Köpenick, Berlin, Brandenburg, 12439, Deutschland",D,15.77,10.26,15.89,8.77
+319,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Taste of Samarkand. Detailed address: 187, Oranienstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10999, Deutschland
+2. Wochenmarkt. Detailed address: Anhaltinerstraße, Zehlendorf, Steglitz-Zehlendorf, Berlin, Brandenburg, 14163, Deutschland",A,13.54,18.34,15.11,10.06
+320,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Empore Halle 18. Detailed address: Messe Berlin, Harbigstraße, Westend, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14055, Deutschland
+2. Zentrale Urgesteinsalpen. Detailed address: Altensteinstraße, Dahlem, Steglitz-Zehlendorf, Berlin, Brandenburg, 14195, Deutschland",A,5.88,2.74,1.35,8.14
+321,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Laib und Seele. Detailed address: 1, Marheinekeplatz, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10961, Deutschland
+2. Viva Studio. Detailed address: 98, Wilmersdorfer Straße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10629, Deutschland",A,6.21,2.26,12.33,13.96
+322,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Park am Plötzensee. Detailed address: Hans-Schomburgk-Promenade, Wedding, Mitte, Berlin, Brandenburg, 13351, Deutschland
+2. Heinrich-Hertz-Gymnasium. Detailed address: 60, Lange Straße, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10243, Deutschland",A,8.31,11.56,9.86,15.06
+323,"What is the straight-line distance between the following two locations? (Unit is km)
+1. die hautexperten. Detailed address: 58, Wilmersdorfer Straße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10627, Deutschland
+2. Jugendzentrum Johannisthal. Detailed address: 56, Winckelmannstraße, Johannisthal, Treptow-Köpenick, Berlin, Brandenburg, 12487, Deutschland",A,15.45,22.12,22.72,12.69
+324,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Enterprise. Detailed address: 200, Friedrichstraße, Friedrichswerder, Mitte, Berlin, Brandenburg, 10117, Deutschland
+2. Karl-Marx / Ringbahn. Detailed address: Karl-Marx-Straße, Richardkiez, Neukölln, Berlin, Brandenburg, 12055, Deutschland",B,13.4,5.71,9.02,8.96
+325,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Alphi's Eis. Detailed address: 33, Heynstraße, Tiroler Viertel, Pankow, Berlin, Pankow, Brandenburg, 13187, Deutschland
+2. All on Board. Detailed address: Seestraße, Brüsseler Kiez, Wedding, Mitte, Berlin, Brandenburg, 13353, Deutschland",C,5.69,8.18,4.25,1.45
+326,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Scherer8. Detailed address: Schererstraße, Maxgärten, Wedding, Mitte, Berlin, Brandenburg, 13347, Deutschland
+2. Dr. med. Karolin Wicht. Detailed address: 96, Prinzenstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10969, Deutschland",D,12.01,7.77,13.64,5.94
+327,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sparda-Bank Berlin. Detailed address: 97, Schloßstraße, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12163, Deutschland
+2. Asado. Detailed address: 67, Scharnweberstraße, Reinickendorf, Berlin, Reinickendorf, Brandenburg, 13405, Deutschland",D,7.1,9.76,5.91,12.2
+328,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Haselhorst. Detailed address: Haselhorster Damm, Haselhorst, Spandau, Berlin, Brandenburg, 13599, Deutschland
+2. Jatz. Detailed address: 2, Gottschedstraße, Gesundbrunnen, Mitte, Berlin, Brandenburg, 13357, Deutschland",A,8.84,10.98,13.0,4.23
+329,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hasir Burger. Detailed address: Oranienstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10999, Deutschland
+2. Home of Dumplings. Detailed address: 103, Skalitzer Straße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10997, Deutschland",C,5.1,7.46,0.63,5.16
+330,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Betriebsfeuerwehr Messe Berlin. Detailed address: Wandalenallee, Westend, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14052, Deutschland
+2. SIXT. Detailed address: Europaplatz, Europacity, Moabit, Mitte, Berlin, Brandenburg, 10557, Deutschland",D,4.03,8.89,4.28,7.22
+331,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Zirkus Zack. Detailed address: RAW-Gelände, Warschauer Straße, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10245, Deutschland
+2. Majesty Grill. Detailed address: 9, Hauptstraße, Wilhelmsruh, Berlin, Pankow, Brandenburg, 13158, Deutschland",D,14.61,3.75,6.7,10.46
+332,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Musikbrauerei. Detailed address: 23A, Greifswalder Straße, Winsviertel, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10405, Deutschland
+2. Pizzeria Sebastiano. Detailed address: Marheineke Markthalle, 15, Marheinekeplatz, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10961, Deutschland",A,5.16,12.52,8.56,11.58
+333,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Baracke 6. Detailed address: Dokumentationszentrum NS-Zwangsarbeit, 5, Britzer Straße, Niederschöneweide, Treptow-Köpenick, Berlin, Brandenburg, 12439, Deutschland
+2. Italienischer Garten. Detailed address: Zeunepromenade, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12165, Deutschland",B,8.19,14.53,11.52,13.15
+334,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Felix Austria. Detailed address: 26, Bergmannstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10961, Deutschland
+2. Sidonie-Scharfe-Stiftung. Detailed address: Scharfestraße, Zehlendorf, Steglitz-Zehlendorf, Berlin, Brandenburg, 14169, Deutschland",B,12.19,10.71,11.99,16.76
+335,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Italienischer Hain. Detailed address: Fürstenbrunner Weg, Westend, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14059, Deutschland
+2. Postbank. Detailed address: 26, Niederbarnimstraße, Samariterviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10247, Deutschland",B,9.06,12.65,8.35,6.58
+336,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Checkpoint Charlie. Detailed address: Zimmerstraße, Mitte, Berlin, Brandenburg, 10117, Deutschland
+2. Luxx. Detailed address: 20, Pohlstraße, Tiergarten, Mitte, Berlin, Brandenburg, 10785, Deutschland",B,6.23,1.64,7.93,4.95
+337,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Atix. Detailed address: 2, Kastanienallee, Bremer Höhe, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10435, Deutschland
+2. Athen. Detailed address: 57, Radickestraße, Adlershof, Treptow-Köpenick, Berlin, Brandenburg, 12489, Deutschland",B,12.68,14.93,18.82,7.53
+338,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Annen-Apotheke. Detailed address: 62, Ernststraße, Holzhauser Markt, Borsigwalde, Berlin, Reinickendorf, Brandenburg, 13509, Deutschland
+2. Trattoria Su e Giù. Detailed address: 16, Schumannstraße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland",B,6.95,8.55,0.73,12.46
+339,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tiergarten-Dreieck. Detailed address: 3, Corneliusstraße, Botschaftsviertel, Tiergarten, Mitte, Berlin, Brandenburg, 10787, Deutschland
+2. Manul. Detailed address: Aussichtsberg, Gensinger Viertel, Friedrichsfelde, Lichtenberg, Berlin, Brandenburg, 10319, Deutschland",A,12.54,7.71,15.71,17.77
+340,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dr. med. habil. Ulrich Heine. Detailed address: 96, Berliner Allee, Komponistenviertel, Weißensee, Berlin, Pankow, Brandenburg, 13088, Deutschland
+2. Italienischer Hain. Detailed address: Fürstenbrunner Weg, Westend, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14059, Deutschland",B,17.51,12.7,13.98,9.11
+341,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dal Tokki. Detailed address: 83, Prinzenallee, Gartenstadt Atlantic, Gesundbrunnen, Mitte, Berlin, Brandenburg, 13357, Deutschland
+2. Trude-Jugend-Bib. Detailed address: Atrium Restaurant, 1, Bat-Yam-Platz, Campus Efeuweg, Gropiusstadt, Neukölln, Berlin, Brandenburg, 12353, Deutschland",B,8.65,15.26,20.44,20.44
+342,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kita Pumuckel. Detailed address: 56, Warthestraße, Schillerkiez, Neukölln, Berlin, Brandenburg, 12051, Deutschland
+2. WG Zobeltitzstraße. Detailed address: 117, Zobeltitzstraße, Reinickendorf, Berlin, Reinickendorf, Brandenburg, 13403, Deutschland",C,12.48,12.23,13.97,9.1
+343,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Berliner Volksbank. Detailed address: Königin-Luise-Straße, Dahlem, Steglitz-Zehlendorf, Berlin, Brandenburg, 14195, Deutschland
+2. Zahnarztpraxis Dr. Gamig. Detailed address: 14, Konstanzer Straße, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10707, Deutschland",B,1.43,4.29,9.34,10.52
+344,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Reisebank. Detailed address: Douglas, Eingangsebene, Europacity, Moabit, Mitte, Berlin, Brandenburg, 10557, Deutschland
+2. Kokswiese. Detailed address: Behmstraße, Gartenstadt Atlantic, Gesundbrunnen, Mitte, Berlin, Brandenburg, 13357, Deutschland",B,5.87,3.35,4.99,7.44
+345,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kolleg Schöneberg der VHS Tempelhof-Schöneberg. Detailed address: 63, Nürnberger Straße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10787, Deutschland
+2. Helsingforser Platz / Warschauer Straße. Detailed address: Marchlewskistraße, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10243, Deutschland",B,8.61,7.38,4.23,9.87
+346,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gemeinschaftsunterkunft Paul-Schwenk-Straße. Detailed address: 7, Paul-Schwenk-Straße, Marzahn, Marzahn-Hellersdorf, Berlin, Brandenburg, 12685, Deutschland
+2. Sportanlage Buschkrugallee. Detailed address: Zeile 7, Britz, Neukölln, Berlin, Brandenburg, 12359, Deutschland",D,15.81,6.8,18.77,11.42
+347,"What is the straight-line distance between the following two locations? (Unit is km)
+1. S-Bahnhof Heer. Detailed address: Boyenallee, Westend, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14055, Deutschland
+2. Fitness First. Detailed address: Breite Straße, Pankow, Berlin, Pankow, Brandenburg, 13187, Deutschland",C,14.24,16.72,12.17,14.44
+348,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Alt-Berliner Biersalon. Detailed address: Kurfürstendamm, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10719, Deutschland
+2. Kita BeerenStark. Detailed address: 185, Weserstraße, Donaukiez, Neukölln, Berlin, Brandenburg, 12045, Deutschland",B,13.66,7.46,1.23,11.53
+349,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kulti. Detailed address: 58, Majakowskiring, Niederschönhausen, Berlin, Pankow, Brandenburg, 13156, Deutschland
+2. KGA Zähringer Korso e. V.. Detailed address: Rumeyplan, Gartenstadt Neu-Tempelhof, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12101, Deutschland",A,11.28,7.69,5.58,10.0
+350,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kolonie Roseneck e.V.. Detailed address: Pfingstrosenweg, Kolonie Roseneck e.V., Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 12157, Deutschland
+2. Kultur- und Technologie-Zentrum Rathenau. Detailed address: Haus 34.2-5, Wilhelminenhofstraße, Kultur- und Technologie-Zentrum Rathenau, Oberschöneweide, Treptow-Köpenick, Berlin, Brandenburg, 12459, Deutschland",C,18.51,13.59,11.13,9.94
+351,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Spring-Siedlung. Detailed address: 13, Franz-Künstler-Straße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10969, Deutschland
+2. Baustelle A100. Detailed address: A 100, Plänterwald, Treptow-Köpenick, Berlin, Brandenburg, 12435, Deutschland",B,1.39,4.44,2.55,9.44
+352,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jatz. Detailed address: 2, Gottschedstraße, Gesundbrunnen, Mitte, Berlin, Brandenburg, 13357, Deutschland
+2. Praxis Ariadne Klinkenberg. Detailed address: 3, Geygerstraße, Böhmisches Dorf, Neukölln, Berlin, Brandenburg, 12043, Deutschland",A,9.32,14.93,1.9,6.14
+353,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Heckengarten. Detailed address: Rodelbahn, Oberschöneweide, Treptow-Köpenick, Berlin, Brandenburg, 12459, Deutschland
+2. Sportplatz Allee der Kosmonauten 131. Detailed address: Allee der Kosmonauten, Marzahn, Marzahn-Hellersdorf, Berlin, Brandenburg, 12681, Deutschland",C,2.71,14.03,7.38,15.22
+354,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Packstation 123. Detailed address: DHL Packstation, Siemensstraße, Lankwitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12247, Deutschland
+2. Händelklause. Detailed address: Hindenburgdamm, Lichterfelde West, Lichterfelde, Steglitz-Zehlendorf, Berlin, Brandenburg, 12203, Deutschland",D,9.52,3.89,3.67,1.56
+355,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Luxx. Detailed address: 20, Pohlstraße, Tiergarten, Mitte, Berlin, Brandenburg, 10785, Deutschland
+2. Sahara Imbiss. Detailed address: 13, Mehringplatz, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10969, Deutschland",D,3.49,2.99,7.03,1.57
+356,"What is the straight-line distance between the following two locations? (Unit is km)
+1. KiezKlub Pankow. Detailed address: Tiroler Straße, Tiroler Viertel, Pankow, Berlin, Pankow, Brandenburg, 13187, Deutschland
+2. P 8. Detailed address: Werner-Loebermann-Weg, Gartenstadt Neu-Tempelhof, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12101, Deutschland",C,14.62,4.28,9.29,16.76
+357,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Le Crobag. Detailed address: 1, General-Pape-Straße, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12101, Deutschland
+2. Kleingartenanlage Neues Heim. Detailed address: Weg 2, Kleingartenanlage Neues Heim, Rudow, Neukölln, Berlin, Brandenburg, 12355, Deutschland",D,9.07,13.41,15.54,11.78
+358,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Phojito. Detailed address: 34, Goltzstraße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10781, Deutschland
+2. vanille & marille Eismanufaktur. Detailed address: 118, Reichenberger Straße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10999, Deutschland",A,5.41,9.73,3.33,7.62
+359,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Coinstar. Detailed address: Badstraße, Gartenstadt Atlantic, Gesundbrunnen, Mitte, Berlin, Brandenburg, 13357, Deutschland
+2. Thea & coffee. Detailed address: 19, Birkenstraße, Moabit, Mitte, Berlin, Brandenburg, 10559, Deutschland",B,6.18,3.39,9.33,11.34
+360,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lotta Tagesbar. Detailed address: 56, Pestalozzistraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10627, Deutschland
+2. No Bananas. Detailed address: 46, Lychener Straße, Helmholtzkiez, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10437, Deutschland",D,4.34,14.18,16.66,9.12
+361,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jasmin Thaimodelle Massage Karlshorst. Detailed address: 97, Treskowallee, Heimatviertel, Karlshorst, Lichtenberg, Berlin, Brandenburg, 10318, Deutschland
+2. Kebap with Attitude. Detailed address: 2, Gipsstraße, Spandauer Vorstadt, Mitte, Berlin, Brandenburg, 10119, Deutschland",A,9.9,4.01,14.97,8.71
+362,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bridge Studios. Detailed address: 131, Seestraße, Moabit, Mitte, Berlin, Brandenburg, 13353, Deutschland
+2. St. Bartholomäus-Friedhof. Detailed address: Giersstraße, Weißensee, Berlin, Pankow, Brandenburg, 13088, Deutschland",D,4.61,13.52,15.16,10.58
+363,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Aceto Lokanta. Detailed address: 4, Wichertstraße, Bremer Höhe, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10439, Deutschland
+2. Kachellounge 54. Detailed address: 54, Weichselstraße, Donaukiez, Neukölln, Berlin, Brandenburg, 12045, Deutschland",D,14.06,1.45,15.13,7.27
+364,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kita Holzweg. Detailed address: 49 a, Eschengraben, Pankow, Berlin, Pankow, Brandenburg, 13189, Deutschland
+2. Schwimmhalle Zingster Straße. Detailed address: 16, Zingster Straße, Neu-Hohenschönhausen, Lichtenberg, Berlin, Brandenburg, 13051, Deutschland",B,9.19,5.33,13.29,9.25
+365,"What is the straight-line distance between the following two locations? (Unit is km)
+1. No Bananas. Detailed address: 46, Lychener Straße, Helmholtzkiez, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10437, Deutschland
+2. Veganaa. Detailed address: 88, Grunewaldstraße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10823, Deutschland",C,11.81,9.04,7.3,8.31
+366,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pizzeria Sebastiano. Detailed address: Marheineke Markthalle, 15, Marheinekeplatz, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10961, Deutschland
+2. Dal Tokki. Detailed address: 83, Prinzenallee, Gartenstadt Atlantic, Gesundbrunnen, Mitte, Berlin, Brandenburg, 13357, Deutschland",C,12.69,12.3,7.23,9.54
+367,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Retentionsbodenfilteranlage. Detailed address: Bendemannstraße, Adlershof, Treptow-Köpenick, Berlin, Brandenburg, 12489, Deutschland
+2. Kleingartenanlage Mariengrund. Detailed address: Südostallee, Baumschulenweg, Treptow-Köpenick, Berlin, Brandenburg, 12437, Deutschland",C,6.73,9.28,4.61,8.24
+368,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Märkisches Museum. Detailed address: 5, Am Köllnischen Park, Luisenstadt, Mitte, Berlin, Brandenburg, 10179, Deutschland
+2. Heckengarten. Detailed address: Rodelbahn, Oberschöneweide, Treptow-Köpenick, Berlin, Brandenburg, 12459, Deutschland",A,9.28,16.96,7.44,8.02
+369,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cafe Mila. Detailed address: Storkower Straße, Lichtenberg, Berlin, Brandenburg, 10367, Deutschland
+2. Felix Austria. Detailed address: 26, Bergmannstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10961, Deutschland",D,2.05,11.3,14.0,6.86
+370,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Call a Pizza. Detailed address: 7, Hohenzollerndamm, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10717, Deutschland
+2. Drei Flaschen. Detailed address: 48a, Böhmische Straße, Rixdorf, Neukölln, Berlin, Brandenburg, 12055, Deutschland",B,1.93,8.56,5.34,4.93
+371,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Royals & Rice. Detailed address: 164, Torstraße, Spandauer Vorstadt, Mitte, Berlin, Brandenburg, 10115, Deutschland
+2. EKT - Timpetu e.V.. Detailed address: 5, Treskowstraße, Niederschönhausen, Berlin, Pankow, Brandenburg, 13156, Deutschland",C,8.28,11.59,5.86,9.0
+372,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ING. Detailed address: Seestraße, Brüsseler Kiez, Wedding, Mitte, Berlin, Brandenburg, 13353, Deutschland
+2. Mendoza. Detailed address: 307, Johannisthaler Chaussee, Gropiusstadt, Neukölln, Berlin, Brandenburg, 12351, Deutschland",D,11.28,22.57,19.11,14.95
+373,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nord-Grundschule. Detailed address: Fischerhüttenstraße, Zehlendorf, Steglitz-Zehlendorf, Berlin, Brandenburg, 14163, Deutschland
+2. Kolonie Hasenheim. Detailed address: Rosenweg, Kolonie Hasenheim, Britz, Neukölln, Berlin, Brandenburg, 12359, Deutschland",C,7.04,21.83,14.56,19.27
+374,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Straßenstrich Bülowstraße. Detailed address: Bülowstraße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10783, Deutschland
+2. Zaab Classic. Detailed address: Kaiserin-Augusta-Allee, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10589, Deutschland",A,4.7,6.0,7.59,10.21
+375,"What is the straight-line distance between the following two locations? (Unit is km)
+1. U Bernauer Straße. Detailed address: Brunnenstraße, Mitte, Berlin, Brandenburg, 10115, Deutschland
+2. Fachzentrum für Zahnheilkunde und Implantologie. Detailed address: 105A, Karl-Marx-Allee, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10243, Deutschland",A,3.89,11.4,11.8,10.32
+376,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dr. med. Zadan Plagens. Detailed address: 7, Föhrer Straße, Brüsseler Kiez, Wedding, Mitte, Berlin, Brandenburg, 13353, Deutschland
+2. Augenärztin Breitenbach. Detailed address: 5, Bartningallee, Hansaviertel, Mitte, Berlin, Brandenburg, 10557, Deutschland",A,2.48,7.41,9.3,8.93
+377,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sportplatz Treseburger Ufer. Detailed address: Walkenrieder Straße, Britz, Neukölln, Berlin, Brandenburg, 12347, Deutschland
+2. Technische Jugendfreizeit- und Bildungsgesellschaft (tjfbg) gGmbH. Detailed address: 37-39, Alt-Stralau, Stralau, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10245, Deutschland",D,12.0,9.46,1.54,4.82
+378,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sporthalle Max-Taut-Schule. Detailed address: Lilienweg, Kleingartenanlage Paradies, Rummelsburg, Lichtenberg, Berlin, Brandenburg, 10317, Deutschland
+2. Schilleroase. Detailed address: 59, Dubliner Straße, Englisches Viertel, Wedding, Mitte, Berlin, Brandenburg, 13349, Deutschland",C,8.95,10.7,11.76,17.44
+379,"What is the straight-line distance between the following two locations? (Unit is km)
+1. LIDL Ladestation. Detailed address: 66-67, Pistoriusstraße, Weißensee, Berlin, Pankow, Brandenburg, 13086, Deutschland
+2. Kubi. Detailed address: Torfstraße, Brüsseler Kiez, Wedding, Mitte, Berlin, Brandenburg, 13353, Deutschland",D,11.42,10.3,4.47,6.16
+380,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Zahnarztpraxis Dr. Gamig. Detailed address: 14, Konstanzer Straße, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10707, Deutschland
+2. Salzufer. Detailed address: Englische Straße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10587, Deutschland",C,0.63,7.84,2.6,8.68
+381,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cobui. Detailed address: 3, Friedrich-Wilhelm-Platz, Friedenau, Berlin, Tempelhof-Schöneberg, Brandenburg, 12161, Deutschland
+2. Nachbarschaftshaus Urbanstraße. Detailed address: 21, Urbanstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10961, Deutschland",A,5.88,13.7,3.98,11.42
+382,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Schwimmhalle Zingster Straße. Detailed address: 16, Zingster Straße, Neu-Hohenschönhausen, Lichtenberg, Berlin, Brandenburg, 13051, Deutschland
+2. Botschaft der Republik Litauen. Detailed address: 9, Charitéstraße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland",A,9.7,2.79,13.05,5.06
+383,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kinderzirkus CABUWAZI. Detailed address: 175, Wartenberger Straße, Neu-Hohenschönhausen, Lichtenberg, Berlin, Brandenburg, 13053, Deutschland
+2. Mega. Detailed address: 57, Gerichtstraße, Maxgärten, Wedding, Mitte, Berlin, Brandenburg, 13347, Deutschland",A,9.9,8.81,3.19,7.17
+384,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kindernotdienst Berlin. Detailed address: 48, Gitschiner Straße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10969, Deutschland
+2. Ming Dynastie. Detailed address: 6, Brückenstraße, Luisenstadt, Mitte, Berlin, Brandenburg, 10179, Deutschland",C,7.4,7.57,1.77,4.89
+385,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kindergarten Krabbelkäfer. Detailed address: 76, Burgemeisterstraße, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12103, Deutschland
+2. Coinstar. Detailed address: Badstraße, Gartenstadt Atlantic, Gesundbrunnen, Mitte, Berlin, Brandenburg, 13357, Deutschland",C,17.3,8.56,10.5,2.72
+386,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Silke Sanft. Detailed address: 6, Florastraße, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12163, Deutschland
+2. Kleintierpraxis Ralf Boxhammer. Detailed address: 5, Zingster Straße, Neu-Hohenschönhausen, Lichtenberg, Berlin, Brandenburg, 13051, Deutschland",B,10.82,16.55,21.6,22.69
+387,"What is the straight-line distance between the following two locations? (Unit is km)
+1. SIXT. Detailed address: Europaplatz, Europacity, Moabit, Mitte, Berlin, Brandenburg, 10557, Deutschland
+2. Wochenmarkt Eberbacher Straße / Rüdesheimer Platz. Detailed address: Johannisberger Straße, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14197, Deutschland",A,7.07,13.54,4.25,0.78
+388,"What is the straight-line distance between the following two locations? (Unit is km)
+1. St. Bartholomäus-Friedhof. Detailed address: Giersstraße, Weißensee, Berlin, Pankow, Brandenburg, 13088, Deutschland
+2. Wochenendhaussiedlung am Grützmachergraben. Detailed address: 16, Lagerweg, Haselhorst, Spandau, Berlin, Brandenburg, 13599, Deutschland",D,13.59,13.72,14.22,17.24
+389,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Patatorito Bowls. Detailed address: Monkey Donuts, 24, Dörpfeldstraße, Adlershof, Treptow-Köpenick, Berlin, Brandenburg, 12489, Deutschland
+2. Sparda-Bank Berlin. Detailed address: 97, Schloßstraße, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12163, Deutschland",C,13.59,8.39,15.28,20.81
+390,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Black Bottle. Detailed address: Kurfürstendamm, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10719, Deutschland
+2. Hautarzt Friedenau. Detailed address: 87, Hauptstraße, Friedenau, Berlin, Tempelhof-Schöneberg, Brandenburg, 12159, Deutschland",C,10.63,1.71,3.38,7.39
+391,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Blogfabrik. Detailed address: 185, Oranienstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10999, Deutschland
+2. Kindernotdienst Berlin. Detailed address: 48, Gitschiner Straße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10969, Deutschland",A,0.72,4.69,2.68,5.14
+392,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ho Vang. Detailed address: 17, Rosa-Luxemburg-Straße, Scheunenviertel, Mitte, Berlin, Brandenburg, 10178, Deutschland
+2. Dr. Med. M. Dachner. Detailed address: 11, Motzstraße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10777, Deutschland",C,9.88,7.19,5.03,12.55
+393,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hellen Schaller. Detailed address: 7, Friedrich-Wilhelm-Platz, Friedenau, Berlin, Tempelhof-Schöneberg, Brandenburg, 12161, Deutschland
+2. Sparkasse. Detailed address: 33, Rankestraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10789, Deutschland",B,6.87,3.57,4.62,9.8
+394,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mr. Tran. Detailed address: 4, Lankwitzer Straße, Mariendorf, Berlin, Tempelhof-Schöneberg, Brandenburg, 12107, Deutschland
+2. bat-Studiotheater. Detailed address: 15, Belforter Straße, Kollwitzkiez, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10405, Deutschland",A,11.07,13.1,17.02,17.14
+395,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mr. Chai Wala. Detailed address: 31, Kantstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10625, Deutschland
+2. Baraka. Detailed address: Reinickendorfer Straße, Maxgärten, Wedding, Mitte, Berlin, Brandenburg, 13347, Deutschland",D,11.66,7.5,11.58,5.66
+396,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Apotheke am Herrfurthplatz. Detailed address: 9, Herrfurthstraße, Schillerkiez, Neukölln, Berlin, Brandenburg, 12049, Deutschland
+2. Clever fit. Detailed address: 12, Martin-Buber-Straße, Zehlendorf, Steglitz-Zehlendorf, Berlin, Brandenburg, 14163, Deutschland",C,14.88,19.79,12.14,13.53
+397,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cinderella Kolarikal. Detailed address: 1, Rochstraße, Scheunenviertel, Mitte, Berlin, Brandenburg, 10178, Deutschland
+2. CoffEy. Detailed address: 6, Machnower Straße, Zehlendorf, Steglitz-Zehlendorf, Berlin, Brandenburg, 14165, Deutschland",D,15.96,13.19,9.48,14.79
+398,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Café Nullpunkt. Detailed address: 23b, Friedrichstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10969, Deutschland
+2. Car Wash 36. Detailed address: 132, Skalitzer Straße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10999, Deutschland",B,6.97,1.87,4.78,9.36
+399,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mülleimer. Detailed address: Pirolweg, Wedding, Mitte, Berlin, Brandenburg, 13351, Deutschland
+2. Tsomi. Detailed address: 66, Kollwitzstraße, Kollwitzkiez, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10435, Deutschland",D,1.68,14.04,11.79,6.32
+400,"What is the straight-line distance between the following two locations? (Unit is km)
+1. bat-Studiotheater. Detailed address: 15, Belforter Straße, Kollwitzkiez, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10405, Deutschland
+2. Sofra Grill. Detailed address: Bellermannstraße, Gartenstadt Atlantic, Gesundbrunnen, Mitte, Berlin, Brandenburg, 13357, Deutschland",D,9.71,1.39,10.61,3.47
+401,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fabbrica del Gusto. Detailed address: 36, Pappelallee, Helmholtzkiez, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10437, Deutschland
+2. Packstation 123. Detailed address: DHL Packstation, Siemensstraße, Lankwitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12247, Deutschland",C,14.12,9.89,12.74,18.23
+402,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kubi. Detailed address: Torfstraße, Brüsseler Kiez, Wedding, Mitte, Berlin, Brandenburg, 13353, Deutschland
+2. Black Bottle. Detailed address: Kurfürstendamm, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10719, Deutschland",C,8.15,11.36,4.34,7.73
+403,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 4 Seasons. Detailed address: Pettenkoferstraße, Samariterviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10247, Deutschland
+2. Packstation. Detailed address: Großbeerenstraße, Mariendorf, Berlin, Tempelhof-Schöneberg, Brandenburg, 12107, Deutschland",C,9.19,8.44,11.54,6.7
+404,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Homey. Detailed address: 70, Müllerstraße, Englisches Viertel, Wedding, Mitte, Berlin, Brandenburg, 13349, Deutschland
+2. Kinderzirkus CABUWAZI. Detailed address: 175, Wartenberger Straße, Neu-Hohenschönhausen, Lichtenberg, Berlin, Brandenburg, 13053, Deutschland",C,18.11,18.45,11.53,10.49
+405,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fitness First. Detailed address: Breite Straße, Pankow, Berlin, Pankow, Brandenburg, 13187, Deutschland
+2. Kubis Point. Detailed address: 14, Medebacher Weg, Tegel, Berlin, Reinickendorf, Brandenburg, 13507, Deutschland",C,13.82,10.22,8.73,12.46
+406,"What is the straight-line distance between the following two locations? (Unit is km)
+1. WerkStadt Kulturverein Berlin e.V.. Detailed address: 124, Emser Straße, Richardkiez, Neukölln, Berlin, Brandenburg, 12051, Deutschland
+2. Mandingo-Diskothek. Detailed address: 107, Mehringdamm, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10965, Deutschland",B,5.42,3.92,5.54,2.58
+407,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Asado. Detailed address: 67, Scharnweberstraße, Reinickendorf, Berlin, Reinickendorf, Brandenburg, 13405, Deutschland
+2. Sandmann. Detailed address: 7, Reuterstraße, Flughafenkiez, Neukölln, Berlin, Brandenburg, 12053, Deutschland",C,11.15,20.0,12.53,10.79
+408,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bundesministerium für Ernährung und Landwirtschaft. Detailed address: 54, Wilhelmstraße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland
+2. KiezKlub Pankow. Detailed address: Tiroler Straße, Tiroler Viertel, Pankow, Berlin, Pankow, Brandenburg, 13187, Deutschland",A,5.41,10.77,2.26,6.98
+409,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mini Mumm. Detailed address: 61, Thomasstraße, Rollbergsiedlung, Neukölln, Berlin, Brandenburg, 12053, Deutschland
+2. Zahnklinik Ost. Detailed address: 46, Dörpfeldstraße, Adlershof, Treptow-Köpenick, Berlin, Brandenburg, 12489, Deutschland",A,8.74,3.67,5.76,13.21
+410,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Come-In. Detailed address: TennisClub Wilmersdorf, Fritz-Wildung-Straße, Schmargendorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14199, Deutschland
+2. Cranach Apotheke. Detailed address: 6, Cranachstraße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 12157, Deutschland",A,3.43,8.69,8.64,8.53
+411,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Vanessa. Detailed address: Potsdamer Platz, Tiergarten, Mitte, Berlin, Brandenburg, 10785, Deutschland
+2. Quartier Idunastraße. Detailed address: 5, Marianne-Foerster-Straße, Heinersdorf, Berlin, Pankow, Brandenburg, 13089, Deutschland",B,13.48,8.21,4.29,2.08
+412,"What is the straight-line distance between the following two locations? (Unit is km)
+1. An der Avus. Detailed address: Eichkampstraße, Westend, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14055, Deutschland
+2. Aniland. Detailed address: 5, Grenzgrabenstraße, Alt-Hohenschönhausen, Lichtenberg, Berlin, Brandenburg, 13053, Deutschland",B,14.57,18.39,15.45,13.16
+413,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 2 Dünyar. Detailed address: 19A, Willdenowstraße, Sprengelkiez, Wedding, Mitte, Berlin, Brandenburg, 13353, Deutschland
+2. Checkpoint Charlie. Detailed address: Zimmerstraße, Mitte, Berlin, Brandenburg, 10117, Deutschland",C,3.26,12.2,4.32,1.34
+414,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Corner. Detailed address: HIGHDI, 129, Neuköllnische Allee, Neukölln, Berlin, Brandenburg, 12057, Deutschland
+2. Heilige-Geist-Gemeinde. Detailed address: Heilige-Geist-Kirche, 36, Perleberger Straße, Moabit, Mitte, Berlin, Brandenburg, 10559, Deutschland",C,18.78,5.56,11.36,13.32
+415,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kinderladen Tüte Mücken. Detailed address: 78, Togostraße, Brüsseler Kiez, Wedding, Mitte, Berlin, Brandenburg, 13351, Deutschland
+2. Kral Döner. Detailed address: Reinickendorfer Straße, Maxgärten, Wedding, Mitte, Berlin, Brandenburg, 13347, Deutschland",B,3.05,1.37,5.01,7.83
+416,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Viadukt Bistro. Detailed address: Neue Promenade, Spandauer Vorstadt, Mitte, Berlin, Brandenburg, 10178, Deutschland
+2. Deutsche Bank. Detailed address: 5, Alexanderstraße, Mitte, Berlin, Brandenburg, 10178, Deutschland",D,5.56,3.53,3.78,1.05
+417,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Laser-Mikrotechnologie. Detailed address: H1, 15, James-Franck-Straße, Adlershof, Treptow-Köpenick, Berlin, Brandenburg, 12489, Deutschland
+2. Kolonie Roseneck e.V.. Detailed address: Pfingstrosenweg, Kolonie Roseneck e.V., Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 12157, Deutschland",B,18.11,12.0,14.53,6.44
+418,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dr. med. V. Hommrich. Detailed address: 24, Bismarckstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10625, Deutschland
+2. Zirkus Zack. Detailed address: RAW-Gelände, Warschauer Straße, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10245, Deutschland",B,11.87,9.64,17.1,12.34
+419,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Spice. Detailed address: 11, Föhrer Straße, Brüsseler Kiez, Wedding, Mitte, Berlin, Brandenburg, 13353, Deutschland
+2. Kulturpalast. Detailed address: Freienwalder Straße, Soldiner Kiez, Gesundbrunnen, Mitte, Berlin, Brandenburg, 13359, Deutschland",A,3.45,9.42,11.08,0.54
+420,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Studienkreis. Detailed address: Residenzstraße, Reinickendorf, Berlin, Reinickendorf, Brandenburg, 13409, Deutschland
+2. Zahnarztpraxis Udo Schulwitz. Detailed address: 23, Georg-Wilhelm-Straße, Halensee, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10711, Deutschland",C,6.23,10.89,8.95,16.15
+421,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Biotronik SE & Co. KG. Detailed address: Sieversufer, Britz, Neukölln, Berlin, Brandenburg, 12359, Deutschland
+2. Außenküche. Detailed address: Urbaner Waldgarten Berlin-Britz, 54, Leonberger Ring, Buckow 1, Buckow, Neukölln, Berlin, Brandenburg, 12349, Deutschland",C,2.07,1.06,4.03,6.92
+422,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hotcats-Club. Detailed address: 29, Englische Straße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10587, Deutschland
+2. Carlotta Bar. Detailed address: 10, Lenbachstraße, Rudolfkiez, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10245, Deutschland",C,11.39,13.24,9.21,6.44
+423,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sahara Imbiss. Detailed address: 13, Mehringplatz, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10969, Deutschland
+2. Dr. med. habil. Ulrich Heine. Detailed address: 96, Berliner Allee, Komponistenviertel, Weißensee, Berlin, Pankow, Brandenburg, 13088, Deutschland",A,7.17,0.5,4.07,12.97
+424,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sophie-Brahe-Gemeinschaftsschule. Detailed address: Sophie-Brahe-Schule (Gemeinschaftsschule), 17/23, Am Plänterwald, Plänterwald, Treptow-Köpenick, Berlin, Brandenburg, 12435, Deutschland
+2. Boddinplatz. Detailed address: Boddinstraße, Flughafenkiez, Neukölln, Berlin, Brandenburg, 12053, Deutschland",A,3.47,6.08,1.0,9.77
+425,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dingadu. Detailed address: TWY WEST I, Gartenstadt Neu-Tempelhof, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12101, Deutschland
+2. Burger Licious. Detailed address: 116, Hermannstraße, Neukölln, Berlin, Brandenburg, 12051, Deutschland",C,10.44,0.79,2.97,0.7
+426,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lok18. Detailed address: Dudenstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10965, Deutschland
+2. Tucano Eis Cafe&Bar. Detailed address: 171, Landsberger Allee, Fennpfuhl, Lichtenberg, Berlin, Brandenburg, 10369, Deutschland",B,10.9,8.42,2.31,11.23
+427,"What is the straight-line distance between the following two locations? (Unit is km)
+1. MikeTheBike. Detailed address: Wilhelminenhofstraße, Oberschöneweide, Treptow-Köpenick, Berlin, Brandenburg, 12459, Deutschland
+2. Aventura. Detailed address: Trautenaustraße, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10717, Deutschland",C,15.19,9.37,12.74,14.45
+428,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rudolfplatz. Detailed address: Rudolfstraße, Rudolfkiez, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10245, Deutschland
+2. Harry-Bresslau-Park. Detailed address: Treitschkestraße, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12163, Deutschland",A,10.09,8.48,7.73,17.38
+429,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dr. med. Karolin Wicht. Detailed address: 96, Prinzenstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10969, Deutschland
+2. Hotcats-Club. Detailed address: 29, Englische Straße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10587, Deutschland",A,5.44,11.59,0.68,9.53
+430,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Zahnarztpraxis Moutsidis. Detailed address: 147, Hauptstraße, Rote Insel, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10827, Deutschland
+2. Orthomed Berlin. Detailed address: 100, Revaler Straße, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10243, Deutschland",B,5.62,6.68,1.77,3.69
+431,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Next to Kuchi. Detailed address: 30, Kantstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10623, Deutschland
+2. Mini Mumm. Detailed address: 61, Thomasstraße, Rollbergsiedlung, Neukölln, Berlin, Brandenburg, 12053, Deutschland",D,1.76,3.48,1.73,8.63
+432,"What is the straight-line distance between the following two locations? (Unit is km)
+1. UPS Access Point. Detailed address: Eylauer Straße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10965, Deutschland
+2. Ho Vang. Detailed address: 17, Rosa-Luxemburg-Straße, Scheunenviertel, Mitte, Berlin, Brandenburg, 10178, Deutschland",C,1.44,10.05,4.86,11.1
+433,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bücherzelle bei DRK Zentrum. Detailed address: 15, Murtzaner Ring, Marzahn, Marzahn-Hellersdorf, Berlin, Brandenburg, 12681, Deutschland
+2. Ha Noi Restaurant. Detailed address: 128-139, Herzbergstraße, Lichtenberg, Berlin, Brandenburg, 10365, Deutschland",A,3.79,10.27,0.94,7.08
+434,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Burger King. Detailed address: 75, Schönhauser Allee, Bremer Höhe, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10439, Deutschland
+2. LIDL Ladestation. Detailed address: 66-67, Pistoriusstraße, Weißensee, Berlin, Pankow, Brandenburg, 13086, Deutschland",D,4.65,7.34,7.4,1.77
+435,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Krankentransport Spree-Ambulance. Detailed address: 21, Bitterfelder Straße, Marzahn, Marzahn-Hellersdorf, Berlin, Brandenburg, 12681, Deutschland
+2. Sportschlule Lothar Nest e.V.. Detailed address: Judo Welt-Museum, 21, Alt-Mariendorf, Mariendorf, Berlin, Tempelhof-Schöneberg, Brandenburg, 12107, Deutschland",C,23.47,18.19,16.01,10.51
+436,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Wash Up. Detailed address: 36, Cicerostraße, Wilmersdorf, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10709, Deutschland
+2. Annen-Apotheke. Detailed address: 62, Ernststraße, Holzhauser Markt, Borsigwalde, Berlin, Reinickendorf, Brandenburg, 13509, Deutschland",C,17.53,3.51,10.3,2.91
+437,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nachbarschaftsladen Mittelhof. Detailed address: 9, Berlinickestraße, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12165, Deutschland
+2. ZuGABe e. V.. Detailed address: 10, Gutzkowstraße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10827, Deutschland",B,6.68,3.3,8.75,9.47
+438,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mund-Kiefer-Gesichtschirugie. Detailed address: Ilsenburger Straße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10589, Deutschland
+2. Discgolf Anlage. Detailed address: Krahmerstraße, Lichterfelde Ost, Lichterfelde, Steglitz-Zehlendorf, Berlin, Brandenburg, 12207, Deutschland",D,16.92,4.69,14.55,9.86
+439,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ehemaliger Palast der Republik. Detailed address: Berliner Schloss, 1, Schloßplatz, Friedrichswerder, Mitte, Berlin, Brandenburg, 10178, Deutschland
+2. Bezirksamt Marzahn-Hellersdorf von Berlin. Detailed address: Helene-Weigel-Platz, Marzahn, Marzahn-Hellersdorf, Berlin, Brandenburg, 12681, Deutschland",C,17.39,15.23,9.44,8.18
+440,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Boddinplatz. Detailed address: Boddinstraße, Flughafenkiez, Neukölln, Berlin, Brandenburg, 12053, Deutschland
+2. Tennisclub Blau-Weiss Britz. Detailed address: Zeile 7, Britz, Neukölln, Berlin, Brandenburg, 12359, Deutschland",D,6.42,7.13,0.75,3.74
+441,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Herzbergplatz. Detailed address: Treptower Straße, Böhmisches Dorf, Neukölln, Berlin, Brandenburg, 12059, Deutschland
+2. Cinderella Kolarikal. Detailed address: 1, Rochstraße, Scheunenviertel, Mitte, Berlin, Brandenburg, 10178, Deutschland",D,4.15,10.89,13.59,5.84
+442,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Orthozentrum Mitte. Detailed address: Zinnowitzer Straße, Mitte, Berlin, Brandenburg, 10115, Deutschland
+2. Bar Tolucci. Detailed address: 86, Eisenacher Straße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10781, Deutschland",B,3.32,5.13,4.06,7.03
+443,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Märchenbrunnen. Detailed address: Froschkönig, Am Friedrichshain, Winsviertel, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10407, Deutschland
+2. Haus 15. Detailed address: Wasserturm, Olbendorfer Weg, Wittenau, Berlin, Reinickendorf, Brandenburg, 13403, Deutschland",D,10.47,6.4,4.03,9.01
+444,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bilakis. Detailed address: Wichertstraße, Bremer Höhe, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10439, Deutschland
+2. Empore Halle 18. Detailed address: Messe Berlin, Harbigstraße, Westend, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14055, Deutschland",B,3.18,10.59,3.8,8.35
+445,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Außenküche. Detailed address: Urbaner Waldgarten Berlin-Britz, 54, Leonberger Ring, Buckow 1, Buckow, Neukölln, Berlin, Brandenburg, 12349, Deutschland
+2. Luisenkirchhof III. Detailed address: DRK Kliniken Berlin Westend, 130, Spandauer Damm, Westend, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14050, Deutschland",D,13.69,22.26,10.91,14.89
+446,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Neuer Luisenstadt-Friedhof. Detailed address: Thomasstraße, Rollbergsiedlung, Neukölln, Berlin, Brandenburg, 12053, Deutschland
+2. Robert Koch-Institut. Detailed address: Weststraße, Wedding, Mitte, Berlin, Brandenburg, 13353, Deutschland",D,15.4,15.77,11.69,9.93
+447,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Wochenendhaussiedlung am Grützmachergraben. Detailed address: 16, Lagerweg, Haselhorst, Spandau, Berlin, Brandenburg, 13599, Deutschland
+2. Eigenland. Detailed address: 95, Alter Wiesenweg, Eigenland, Tegel, Berlin, Reinickendorf, Brandenburg, 13629, Deutschland",C,9.0,8.95,3.52,0.94
+448,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kokswiese. Detailed address: Behmstraße, Gartenstadt Atlantic, Gesundbrunnen, Mitte, Berlin, Brandenburg, 13357, Deutschland
+2. Hans im Glück. Detailed address: Hauptbahnhof, Ella-Trebe-Straße, Europacity, Moabit, Mitte, Berlin, Brandenburg, 10557, Deutschland",D,7.18,10.73,9.04,3.32
+449,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Augenärztin Breitenbach. Detailed address: 5, Bartningallee, Hansaviertel, Mitte, Berlin, Brandenburg, 10557, Deutschland
+2. Dres. med. Jana + Essam Shaltout. Detailed address: 41, Albrechtstraße, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12167, Deutschland",A,7.57,12.74,14.29,9.97
+450,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Good Aroma. Detailed address: Tempelhofer Damm, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12099, Deutschland
+2. Lido Eis. Detailed address: 27, Böckhstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10967, Deutschland",D,9.65,9.85,6.2,4.8
+451,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Amazon Hub Locker. Detailed address: 66, Karl-Marx-Straße, Flughafenkiez, Neukölln, Berlin, Brandenburg, 12043, Deutschland
+2. Baba Jaga. Detailed address: 1, Helene-Weigel-Platz, Marzahn, Marzahn-Hellersdorf, Berlin, Brandenburg, 12681, Deutschland",C,2.52,16.72,8.81,15.72
+452,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kleingartenanlage Blockdamm. Detailed address: Kleckersdorfer Weg, Kleingartenanlage Blockdamm, Rummelsburg, Lichtenberg, Berlin, Brandenburg, 10318, Deutschland
+2. Nord-Grundschule. Detailed address: Fischerhüttenstraße, Zehlendorf, Steglitz-Zehlendorf, Berlin, Brandenburg, 14163, Deutschland",B,16.7,18.21,10.23,15.89
+453,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Raum für Musik. Detailed address: Schönheitskultur, 32, Zionskirchstraße, Mitte, Berlin, Brandenburg, 10119, Deutschland
+2. Pink Burgers. Detailed address: Alt-Moabit, Moabit, Mitte, Berlin, Brandenburg, 10559, Deutschland",C,2.45,2.49,3.82,2.72
+454,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Amtsgericht Mitte. Detailed address: 12-17, Littenstraße, Mitte, Berlin, Brandenburg, 10179, Deutschland
+2. Dr. med. V. Hommrich. Detailed address: 24, Bismarckstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10625, Deutschland",C,1.46,5.49,6.91,1.41
+455,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kindergarten Gottschedstraße. Detailed address: 27/28, Gottschedstraße, Gesundbrunnen, Mitte, Berlin, Brandenburg, 13357, Deutschland
+2. Betriebsfeuerwehr Messe Berlin. Detailed address: Wandalenallee, Westend, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 14052, Deutschland",B,16.21,8.76,10.57,15.82
+456,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rent-A-Trainer-Berlin Gym. Detailed address: 23, Nollendorfstraße, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10777, Deutschland
+2. Gündem. Detailed address: Germaniapromenade, Britz, Neukölln, Berlin, Brandenburg, 12347, Deutschland",C,10.39,14.83,7.04,8.69
+457,"What is the straight-line distance between the following two locations? (Unit is km)
+1. EKG - An der Mäckeritzbrücke 4. Detailed address: Straße A, Siemenssiedlung HoKa III, Tegel, Berlin, Reinickendorf, Brandenburg, 13629, Deutschland
+2. Aarna Devi. Detailed address: 72a, Westfälische Straße, Halensee, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10709, Deutschland",A,6.58,5.44,10.31,11.06
+458,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Reichenberger Apotheke. Detailed address: 3, Reichenberger Straße, Alt-Hohenschönhausen, Lichtenberg, Berlin, Brandenburg, 13055, Deutschland
+2. Waldcafe. Detailed address: Freizeit- und Erholungszentrum (FEZ), Rudolf-Rühl-Allee, Köpenick, Treptow-Köpenick, Berlin, Brandenburg, 12555, Deutschland",C,4.86,13.1,9.32,4.63
+459,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kultur- und Technologie-Zentrum Rathenau. Detailed address: Haus 34.2-5, Wilhelminenhofstraße, Kultur- und Technologie-Zentrum Rathenau, Oberschöneweide, Treptow-Köpenick, Berlin, Brandenburg, 12459, Deutschland
+2. Polizeidirektion 2 / Polizeiakademie. Detailed address: Charlottenburger Chaussee, Spandau, Berlin, Brandenburg, 13597, Deutschland",B,22.5,20.98,22.3,18.46
+460,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Caramina. Detailed address: 10, Herrfurthstraße, Schillerkiez, Neukölln, Berlin, Brandenburg, 12049, Deutschland
+2. Kiezanker 36. Detailed address: 13-14, Cuvrystraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10997, Deutschland",A,2.86,8.74,1.48,6.46
+461,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bildungs- und Verwaltungszentrum Friedrichsfelde. Detailed address: Haus 18, 60, Alt-Friedrichsfelde, Reihenhäuser Kalinka, Friedrichsfelde, Lichtenberg, Berlin, Brandenburg, 10315, Deutschland
+2. Sportplatz Treseburger Ufer. Detailed address: Walkenrieder Straße, Britz, Neukölln, Berlin, Brandenburg, 12347, Deutschland",B,2.06,8.61,5.44,11.06
+462,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Drop In. Detailed address: RAW-Gelände, Warschauer Straße, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10245, Deutschland
+2. Reichenberger Apotheke. Detailed address: 3, Reichenberger Straße, Alt-Hohenschönhausen, Lichtenberg, Berlin, Brandenburg, 13055, Deutschland",C,10.53,7.66,4.28,5.9
+463,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Eisderix. Detailed address: 48, Böhmische Straße, Rixdorf, Neukölln, Berlin, Brandenburg, 12055, Deutschland
+2. Santa Café. Detailed address: 12, Breitenbachplatz, Dahlem, Steglitz-Zehlendorf, Berlin, Brandenburg, 14195, Deutschland",D,7.53,2.06,4.9,9.6
+464,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Andrea Thiele. Detailed address: 21 / 22, Scharnweberstraße, Reinickendorf, Berlin, Reinickendorf, Brandenburg, 13405, Deutschland
+2. Migi Würsch. Detailed address: 14, Boxhagener Straße, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10245, Deutschland",B,5.57,10.39,17.87,17.72
+465,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Leonardo Royal Hotel Berlin Adlershof. Detailed address: 2A, Rudower Chaussee, Adlershof, Treptow-Köpenick, Berlin, Brandenburg, 12489, Deutschland
+2. Bridge Studios. Detailed address: 131, Seestraße, Moabit, Mitte, Berlin, Brandenburg, 13353, Deutschland",B,14.07,18.41,15.67,20.12
+466,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sidonie-Scharfe-Stiftung. Detailed address: Scharfestraße, Zehlendorf, Steglitz-Zehlendorf, Berlin, Brandenburg, 14169, Deutschland
+2. Eis Faldon. Detailed address: 83a, Fischerhüttenstraße, Zehlendorf, Steglitz-Zehlendorf, Berlin, Brandenburg, 14163, Deutschland",B,3.51,1.45,3.94,7.1
+467,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Erdal’s Bierstube. Detailed address: Friedrich-Karl-Straße, Tempelhof, Berlin, Tempelhof-Schöneberg, Brandenburg, 12103, Deutschland
+2. Bronco Caffee. Detailed address: 97, Kastanienallee, Bremer Höhe, Prenzlauer Berg, Berlin, Pankow, Brandenburg, 10435, Deutschland",B,6.48,9.5,13.21,6.31
+468,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kinderladen Zauberhaus. Detailed address: 30, Reinickendorfer Straße, Maxgärten, Gesundbrunnen, Mitte, Berlin, Brandenburg, 13347, Deutschland
+2. Café Nostalgie. Detailed address: 22, Crellestraße, Rote Insel, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10827, Deutschland",B,11.81,6.6,0.95,3.02
+469,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Taverna Dionysos. Detailed address: 110, Gneisenaustraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10961, Deutschland
+2. Western Union. Detailed address: Wilmersdorfer Straße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10585, Deutschland",B,9.96,6.16,4.16,7.47
+470,"What is the straight-line distance between the following two locations? (Unit is km)
+1. OUZ Orthopädie- und Unfallchirurgiezentrum Dr. Hami Tabari. Detailed address: 277, Landsberger Allee, Alt-Hohenschönhausen, Lichtenberg, Berlin, Brandenburg, 13055, Deutschland
+2. Tines Hausgemachtes. Detailed address: Droysenstraße, Charlottenburg, Berlin, Charlottenburg-Wilmersdorf, Brandenburg, 10629, Deutschland",D,19.61,7.26,9.57,13.76
+471,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sushi Yana. Detailed address: 140, Karl-Marx-Allee, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10243, Deutschland
+2. Cafe Mila. Detailed address: Storkower Straße, Lichtenberg, Berlin, Brandenburg, 10367, Deutschland",A,1.99,5.88,8.11,5.57
+472,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lalibela Taste of Ethiopia. Detailed address: 41, Soldiner Straße, Soldiner Kiez, Gesundbrunnen, Mitte, Berlin, Brandenburg, 13359, Deutschland
+2. OC Stadtmitte. Detailed address: 63, Friedrichstraße, Dorotheenstadt, Mitte, Berlin, Brandenburg, 10117, Deutschland",C,4.11,3.27,5.42,11.8
+473,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sofra Grill. Detailed address: Bellermannstraße, Gartenstadt Atlantic, Gesundbrunnen, Mitte, Berlin, Brandenburg, 13357, Deutschland
+2. Nachbarschaftsladen Mittelhof. Detailed address: 9, Berlinickestraße, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12165, Deutschland",B,5.57,11.93,14.0,16.46
+474,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cäsar‘s. Detailed address: Frankfurter Allee, Weitlingkiez, Rummelsburg, Lichtenberg, Berlin, Brandenburg, 10317, Deutschland
+2. ÆVE. Detailed address: ÆDEN, 3, Schleusenufer, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, Brandenburg, 10997, Deutschland",C,1.61,11.92,3.96,11.31
+475,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Scandic Berlin Potsdamer Platz. Detailed address: Gabriele-Tergit-Promenade, Tiergarten, Mitte, Berlin, Brandenburg, 10785, Deutschland
+2. Märkisches Museum. Detailed address: 5, Am Köllnischen Park, Luisenstadt, Mitte, Berlin, Brandenburg, 10179, Deutschland",C,10.0,8.29,2.86,4.76
+476,"What is the straight-line distance between the following two locations? (Unit is km)
+1. JET. Detailed address: 36, Kurt-Schumacher-Damm, Reinickendorf, Berlin, Reinickendorf, Brandenburg, 13405, Deutschland
+2. Spiel Casino. Detailed address: Stromstraße, Moabit, Mitte, Berlin, Brandenburg, 10551, Deutschland",C,9.09,9.75,3.93,11.09
+477,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Italienischer Garten. Detailed address: Zeunepromenade, Steglitz, Steglitz-Zehlendorf, Berlin, Brandenburg, 12165, Deutschland
+2. Volkspark Schönholzer Heide. Detailed address: Sowjetisches Ehrenmal Schönholzer Heide, Sachsenstraße, Niederschönhausen, Berlin, Pankow, Brandenburg, 13156, Deutschland",B,11.73,14.69,7.75,19.19
+478,"What is the straight-line distance between the following two locations? (Unit is km)
+1. IPH Berlin. Detailed address: Landsberger Allee, Marzahn, Marzahn-Hellersdorf, Berlin, Brandenburg, 12681, Deutschland
+2. Dorfaue. Detailed address: 125, Hauptstraße, Rote Insel, Schöneberg, Berlin, Tempelhof-Schöneberg, Brandenburg, 10827, Deutschland",B,16.09,12.97,16.15,19.22
+479,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Wegedorn Zentrum. Detailed address: Lidl, 106, Semmelweisstraße, Altglienicke, Treptow-Köpenick, Berlin, Brandenburg, 12524, Deutschland
+2. ND 45. Detailed address: 45, Nonnendamm, Siemensstadt, Spandau, Berlin, Brandenburg, 13627, Deutschland",A,20.59,19.26,16.72,18.04

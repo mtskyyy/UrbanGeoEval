@@ -1,0 +1,693 @@
+,A,B,C,D,question,answer
+0,شارع المصرف,شارع النزهه,شارع الشهيد فريد سميكه,شارع المعهد الاشتراكي,"In the Cairo area, which road cannot directly reach شارع الحجاز?",A
+1,شارع 257,شارع النزهه,شارع احمد فؤاد,شارع عمار بن ياسر,"In the Cairo area, which road cannot directly reach شارع الشهيد فريد سميكه?",A
+2,شارع بغداد,محور صفط اللبن,شارع القبه,شارع الشهيد فريد سميكه,"In the Cairo area, which road directly reaches شارع احمد فؤاد?",D
+3,شارع خالد بن الوليد,شارع النافوره,كوبرى جوزيف تيتو,شارع الشهيد فريد سميكه,"In the Cairo area, which road cannot directly reach شارع عبد الحميد بدوى?",B
+4,شارع الحجاز,شارع نزيه خليفه,شارع الظاهر,شارع ابراهيم اللقاني,"In the Cairo area, which road cannot directly reach شارع المعهد الاشتراكي?",C
+5,شارع حسن افلاطون,شارع البحر,شارع الدكتور احمد امين,شارع السيد الميرغنى,"In the Cairo area, which road cannot directly reach شارع النزهه?",B
+6,شارع شمبليون,شارع عبد السلام عارف - البستان سابقا,شارع قصر النيل,ميدان الجمهوريه,"In the Cairo area, which road cannot directly reach شارع مريت باشا?",D
+7,شارع مريت باشا,شارع التحرير,شارع القصر العيني,شارع دكتور حسام الدين بسيوني,"In the Cairo area, which road cannot directly reach ميدان التحرير?",D
+8,طريق النصر,شارع هارون الرشيد,شارع الخليفه المأمون,شارع الخليفه القاهر,"In the Cairo area, which road cannot directly reach امتداد شارع رمسيس?",B
+9,شارع سور دار الدفاع الجوي,شارع 26 يوليو,شارع الخليفه المأمون,شارع العباسيه,"In the Cairo area, which road cannot directly reach شارع رمسيس?",A
+10,شارع اسماعيل رمزى,شارع 151,شارع بيروت,ميدان تريومف,"In the Cairo area, which road cannot directly reach شارع عثمان بن عفان?",B
+11,شارع النزهه,شارع عثمان بن عفان,شارع يوسف السباعي,شارع المنتزه,"In the Cairo area, which road cannot directly reach شارع عبد العزيز فهمى?",C
+12,شارع المدارس,شارع الزبيدي,كوبرى عين الصيره,شارع صلاح سالم,"In the Cairo area, which road cannot directly reach شارع عين الصيره?",A
+13,شارع مجري العيون,شارع السيده عائشه,شارع ممدوح سالم,شارع الاهرام,"In the Cairo area, which road cannot directly reach شارع صلاح سالم?",C
+14,شارع النزهه,شارع هارون الرشيد,شارع الخرطه الجديده,شارع نخله المطيعى,"In the Cairo area, which road cannot directly reach شارع ابو بكر الصديق?",C
+15,شارع المسله,شارع صلاح سالم,الطريق الثاني,شارع صبحي حسين,"In the Cairo area, which road directly reaches شارع صلاح الدين الشرقي?",B
+16,شارع 26 يوليو,شارع سعد سليم,شارع البطل احمد عبد العزيز,شارع عين الصيره,"In the Cairo area, which road directly reaches شارع الموسيقار محمد عبد الوهاب?",A
+17,شارع جسر الكنيسة,شارع الموسيقار محمد عبد الوهاب,ميدان كريم زيانى,شارع 15 مايو,"In the Cairo area, which road directly reaches شارع الجزيره?",B
+18,شارع محمد فريد,ميدان الجلاء,ميدان التحرير,شارع عبد الحميد بدوى,"In the Cairo area, which road cannot directly reach شارع التحرير?",D
+19,شارع الشيخ ريحان,شارع احمد زويل,شارع سوريا,شارع احمد عرابى,"In the Cairo area, which road cannot directly reach شارع السودان?",A
+20,شارع حسن افلاطون,شارع العروبه,شارع عبد الخالق ثروت,شارع فاطمه بنت مبارك,"In the Cairo area, which road cannot directly reach شارع عمر بن الخطاب?",C
+21,كوبري البعوث,شارع مستشفى القوات المسلحه,شارع ابو بكر الصديق,شارع عثمان بن عفان,"In the Cairo area, which road directly reaches ميدان الاسماعيليه?",D
+22,شارع معمل الالبان,شارع القبه,شارع مجد الاسلام,"طريق القاهره, اسكندريه الزراعى القديم","In the Cairo area, which road cannot directly reach شارع احمد حلمي?",B
+23,شارع المحولات,شارع الملك عبد العزيز آل سعود,شارع القصر الجمهوري,شارع احمد حلمي,"In the Cairo area, which road directly reaches شارع مجد الاسلام?",D
+24,كوبري سراي القبه,شارع الشهيد بهجت حسن,شارع سالم سالم,شارع عبد الحميد بدوى,"In the Cairo area, which road directly reaches شارع انقره?",D
+25,شارع الملك الصالح,شارع عدلي,شارع المنتزه,شارع علي باشا ذو الفقار,"In the Cairo area, which road cannot directly reach شارع محمد فريد?",A
+26,شارع محمد فريد,شارع مجلس الشعب,شارع نوبار,شارع مستشفى القوات المسلحه,"In the Cairo area, which road cannot directly reach شارع خيرت?",D
+27,شارع يوسف عباس,كوبرى يوسف عباس,شارع الطيران,طريق كفر طهرمس,"In the Cairo area, which road cannot directly reach شارع ابن فضلان?",D
+28,طريق النصر,شارع علي امين,شارع دكتور محمود صالح ابو زيد,شارع جمال سليم,"In the Cairo area, which road cannot directly reach شارع الطيران?",C
+29,شارع السكه البيضاء,شارع الصليبة,شارع احمد بن حنبل,شارع مستشفى الطلبه,"In the Cairo area, which road cannot directly reach ميدان كريم زيانى?",B
+30,ميدان كريم زيانى,شارع فخري عبد النور,شارع 26 يوليو,كوبري مسطرد,"In the Cairo area, which road directly reaches شارع احمد بن حنبل?",A
+31,شارع الفردوس,"طريق القاهرة, الاسماعيليه الزراعى",شارع الطريق الدائري,شارع محمد شفيق,"In the Cairo area, which road directly reaches شارع مستشفى الطلبه?",A
+32,شارع بورسعيد,شارع سعد سليم,ميدان قشتمر,درب العوالم,"In the Cairo area, which road cannot directly reach شارع الجيش?",B
+33,شارع ترعه الزمر,شارع الجيش,كوبري الفنجري,شارع احمد بسيوني,"In the Cairo area, which road directly reaches ميدان باب الشعريه?",B
+34,شارع ابو العتاهيه,شارع الجيش,كوبرى الشهيد النقيب احمد حافظ شوشة,نفق وادي النيل,"In the Cairo area, which road directly reaches درب العوالم?",B
+35,شارع المستشار مجدى سليم,شارع الوالي,شارع 216,شارع سكه الوايلي,"In the Cairo area, which road cannot directly reach شارع بورسعيد?",A
+36,شارع مصطفى رفعت,شارع النصر,شارع مربع بلوكات 1186,شارع درويش العربي,"In the Cairo area, which road cannot directly reach شارع الشهيد سيد زكريا خليل?",D
+37,شارع الشهيد سيد زكريا خليل,شارع 10,شارع وادى النيل,طريق بيجام,"In the Cairo area, which road directly reaches شارع الموسيقار محمد الموجى?",A
+38,شارع مساكن القناة,شارع اكاديمية السادات,شارع الترعه البولاقيه,شارع القلعه,"In the Cairo area, which road directly reaches شارع صلاح الدين?",D
+39,كوبرى الشرقاويه العلوى,شارع بورسعيد,شارع صلاح الدين,شارع سامي البارودي,"In the Cairo area, which road cannot directly reach شارع القلعه?",A
+40,شارع شبرا,شارع كورنيش النيل,شارع المستشار مجدى سليم,شارع جسر البحر,"In the Cairo area, which road cannot directly reach شارع دوليتان?",C
+41,شارع دوليتان,شارع دانشواي,شارع علي باشا اللاله,شارع جزيره ترعه بدران,"In the Cairo area, which road cannot directly reach شارع شبرا?",C
+42,شارع المتحف الزراعى,شارع السيد الميرغنى,شارع ذاكر حسين,الطريق الثاني,"In the Cairo area, which road directly reaches شارع ابو العتاهيه?",C
+43,شارع نجاتي سراج,شارع العروبه,شارع ابو العتاهيه,شارع الشيخ كامل خضر,"In the Cairo area, which road cannot directly reach شارع احمد الزمر?",B
+44,شارع السيد الميرغنى,شارع ترعه السواحل,شارع النزهه,شارع احمد بدوي,"In the Cairo area, which road cannot directly reach شارع العروبه?",D
+45,شارع النزهه,شارع مكرم عبيد,شارع سكه راتب باشا الكبير,شارع الشيخ حازم صلاح,"In the Cairo area, which road directly reaches شارع نخله المطيعي?",A
+46,محور الضبعة,شارع معمل الالبان,شارع النصر,شارع اسماعيل سري,"In the Cairo area, which road directly reaches شارع 250?",C
+47,شارع اللاسلكي,محور 3 يوليو,شارع العامل الاول,شارع 306,"In the Cairo area, which road cannot directly reach شارع النصر?",B
+48,شارع المطافي,شارع المدرسه الفنيه,طريق النصر,شارع محطه القبه,"In the Cairo area, which road cannot directly reach شارع الشهيد محمد مصطفى كاريكا?",D
+49,شارع الشهيد محمد مصطفى كاريكا,شارع أحمد إسماعيل,كوبري عرابي,شارع صبحي حسين,"In the Cairo area, which road directly reaches شارع اطلس?",A
+50,شارع نجيب الريحاني,شارع علي باشا ذو الفقار,نفق الازهر,شارع سامي البارودي,"In the Cairo area, which road cannot directly reach شارع الجمهوريه?",B
+51,نفق الملك الصالح,شارع المصرف,ميدان العتبه,طريق القاهرة السويس,"In the Cairo area, which road directly reaches شارع كلوت بك?",C
+52,شارع رمسيس,شارع الجمهوريه,ميدان كريم زيانى,شارع عماد الدين,"In the Cairo area, which road cannot directly reach شارع نجيب الريحاني?",C
+53,"طريق القاهرة, السويس الجانبى",شارع بورسعيد,شارع التحرير,شارع محمد عز العرب,"In the Cairo area, which road cannot directly reach شارع نوبار?",A
+54,شارع المماليك,شارع احسان عبد القدوس,شارع حسن الانوار القبلي,شارع البساتين,"In the Cairo area, which road directly reaches شارع الخاصه?",A
+55,شارع الجزيره,شارع جوهر القائد,شارع دانشواي,ميدان التحرير,"In the Cairo area, which road directly reaches شارع المماليك?",B
+56,شارع شبرا,شارع ابراهيم شوقي,شارع جزيره بدران,شارع احمد حلمي,"In the Cairo area, which road cannot directly reach نفق السبتيه?",B
+57,كوبري ابو وافيه,شارع شبرا,شارع السنترال,شارع عبد الحميد الديب,"In the Cairo area, which road cannot directly reach شارع معمل الالبان?",C
+58,شارع باحثه الباديه,شارع ترعه عبد العال 2,محور عدلى منصور,ميدان الظاهر,"In the Cairo area, which road directly reaches شارع عزب باشا?",D
+59,شارع بيرم التونسي,شارع العباسيه,شارع الظاهر,ميدان قشتمر,"In the Cairo area, which road cannot directly reach ميدان الظاهر?",A
+60,شارع السودان,شارع الجلاء,محور 26 يوليو,امتداد شارع المخيم الدائم,"In the Cairo area, which road cannot directly reach شارع 26 يوليو?",D
+61,شارع ابو الفدا,شارع شنن,شارع اساس الهجانه,شارع عدلي,"In the Cairo area, which road directly reaches شارع بولاق الجديد?",B
+62,شارع عبد السلام عارف,شارع الفسطاط,شارع دكتور محمود صالح ابو زيد,شارع الدويدار,"In the Cairo area, which road directly reaches شارع الامام?",B
+63,شارع الامام,شارع منصور,كوبري العاشر من رمضان,كوبرى متحف الحضاره,"In the Cairo area, which road cannot directly reach شارع الفسطاط?",B
+64,شارع السيده نفيسه,شارع متحف المنيل,شارع النجار,شارع كورنيش النيل,"In the Cairo area, which road cannot directly reach شارع مجري العيون?",B
+65,شارع احمد فؤاد,شارع مجري العيون,شارع بيرم التونسي,شارع الرقيبه,"In the Cairo area, which road cannot directly reach شارع السيده نفيسه?",A
+66,طريق النصر,شارع الكورنيش,شارع الطيار فكرى زاهر,طريق المقطم,"In the Cairo area, which road cannot directly reach طريق احمد السلاب?",C
+67,شارع مكرم عبيد,شارع عبد العزيز الشناوى,شارع المماليك,شارع عبد الحميد بدوى,"In the Cairo area, which road cannot directly reach طريق النصر?",C
+68,شارع وابور الترجمان,شارع شنن,شارع اللواء جمال اللبان,شارع الجلاء,"In the Cairo area, which road cannot directly reach شارع الصحافة?",C
+69,طريق الاوتوستراد,ميدان عبد المنعم رياض,شارع الصحافة,شارع كورنيش النيل,"In the Cairo area, which road cannot directly reach شارع الجلاء?",A
+70,شارع الجلاء,شارع المشتل,شارع احمد تيسير,شارع بهجت الشوربجى,"In the Cairo area, which road directly reaches ميدان عبد المنعم رياض?",A
+71,شارع سوريا,شارع لطفي السيد,شارع وادى النيل,شارع جامعه الدول العربيه,"In the Cairo area, which road cannot directly reach شارع حلمى محمد حسن?",B
+72,كوبرى بولاق الدكرور,شارع التروللي,شارع شهاب,شارع الفالوجا,"In the Cairo area, which road cannot directly reach شارع جامعه الدول العربيه?",B
+73,شارع سيدي عقبه,طريق الاوتوستراد,شارع الخلاء,شارع جسر السويس,"In the Cairo area, which road cannot directly reach شارع محسن محمود?",D
+74,شارع طومان باى,شارع محسن محمود,طريق الاوتوستراد,شارع فتحي النجار,"In the Cairo area, which road directly reaches طريق الاوتوستراد?",B
+75,شارع صلاح سالم,شارع الورش,شارع محمد قدري باشا,شارع المستشار مجدى سليم,"In the Cairo area, which road directly reaches كوبري مدخل منشية ناصر و المقطم?",A
+76,شارع عبد العزيز,شارع ولى العهد,شارع ترعه الجندي,امتداد شارع ولي العهد,"In the Cairo area, which road cannot directly reach شارع مدحت نور?",A
+77,شارع ابراهيم عبد الرازق,شارع ترعه الجندي,شارع مدحت نور,شارع ترعه القبه,"In the Cairo area, which road cannot directly reach امتداد شارع ولي العهد?",A
+78,نفق الازهر,شارع عبد العزيز فهمى,شارع ابو بكر الصديق,شارع العزيز بالله,"In the Cairo area, which road cannot directly reach شارع جسر السويس?",A
+79,شارع جسر السويس,محور جسر السويس,شارع الخليفه المأمون,شارع الازهر,"In the Cairo area, which road cannot directly reach شارع المقريزي?",D
+80,شارع المدرسه,شارع سليم الاول,شارع نهضه مصر,شارع الناصريه,"In the Cairo area, which road directly reaches شارع ترعه والى?",A
+81,شارع ترعه والى,طريق الاوتوستراد,شارع طلال محمد سعد الله,كوبري والى,"In the Cairo area, which road cannot directly reach شارع المدرسه?",B
+82,شارع ابراهيم,إمتداد شارع ابو داوود الظاهري,شارع الليثى,شارع نزيه خليفه,"In the Cairo area, which road cannot directly reach شارع الاهرام?",B
+83,شارع الملك فيصل,طريق العين سخنة القديم,كوبرى بولاق الدكرور,شارع منشيه الصدر,"In the Cairo area, which road directly reaches شارع ناصر الثوره?",A
+84,محور طه حسين,شارع الجمهوريه,شارع جسر السويس,شارع جوزيف تيتو,"In the Cairo area, which road cannot directly reach محور عدلى منصور?",B
+85,محور عدلى منصور,شارع محمد صدقي الشافعي,شارع محمد السباعى,شارع البباوى,"In the Cairo area, which road cannot directly reach محور طه حسين?",B
+86,شارع اسماعيل سري,شارع شريف باشا,شارع احمد زكي,شارع احمد بن حنبل,"In the Cairo area, which road directly reaches كوبري البعوث?",D
+87,شارع جامعه القاهره,شارع الفردوس,شارع مدحت نور,شارع مستشفى القوات المسلحه,"In the Cairo area, which road directly reaches شارع مراد?",A
+88,إمتداد شارع ابو داوود الظاهري,شارع الاهرام,شارع نهضه مصر,شارع مراد,"In the Cairo area, which road cannot directly reach شارع جامعه القاهره?",A
+89,شارع السيد الميرغنى,شارع النهضه,شارع شركه المعادي,شارع خلف المرور,"In the Cairo area, which road directly reaches ميدان مسجد الفاروق?",B
+90,شارع ابو الفرج,شارع 206,شارع جمال سليم,شارع عبد الحميد الديب,"In the Cairo area, which road directly reaches شارع النهضه?",B
+91,شارع ابو بكر الصديق,شارع مساكن الشروق,امتداد شارع رمسيس,شارع الورشه,"In the Cairo area, which road cannot directly reach شارع الثانوية الجويه?",C
+92,شارع سعيد ذو الفقار,شارع ناصر الثوره,طريق كفر طهرمس,شارع مساكن كفر طهرمس,"In the Cairo area, which road cannot directly reach شارع الملك فيصل?",A
+93,شارع الملك فيصل,طريق كفر طهرمس,شارع محمود سلام,شارع محطة الزيتون,"In the Cairo area, which road cannot directly reach شارع مساكن كفر طهرمس?",D
+94,شارع الخرطه الجديده,شارع الطرابيشي,شارع السودان,كوبرى الجيش المصرى,"In the Cairo area, which road directly reaches شارع مقار?",C
+95,شارع شمبليون,شارع سكه الوايلي,شارع البطراوي,شارع خيرت,"In the Cairo area, which road directly reaches شارع الرياضة?",C
+96,شارع ابراهيم شوقي,شارع الدكتور ابراهيم ابو النجا,شارع يوسف عباس,شارع الطيران,"In the Cairo area, which road cannot directly reach شارع اسماعيل القباني?",B
+97,شارع سور دار الدفاع الجوي,شارع الجمهوريه,طريق النصر,شارع السيد الميرغنى,"In the Cairo area, which road cannot directly reach شارع احمد تيسير?",B
+98,شارع منظمه الوحده الافريقيه,شارع ابو بكر الصديق,شارع النزهه,كوبرى السبع عمارات,"In the Cairo area, which road cannot directly reach شارع السيد الميرغنى?",A
+99,"طريق القاهرة, اسيوط الزراعى",ميدان الجلاء,شارع دار السلام,شارع باحثه الباديه,"In the Cairo area, which road cannot directly reach شارع كورنيش النيل?",A
+100,شارع شركات البترول,شارع منصور,شارع مدخل القاهرة,شارع كورنيش النيل,"In the Cairo area, which road cannot directly reach شارع ترعه الاسماعيليه?",B
+101,شارع الورشه,شارع صفط اللبن,"طريق القاهرة, السويس",طريق النصر,"In the Cairo area, which road cannot directly reach شارع الصاعقه?",B
+102,محور الضبعة,شارع سكه الوايلي,شارع الشيخ محمد غراب,شارع السواح,"In the Cairo area, which road cannot directly reach شارع القصر الجمهوري?",A
+103,شارع ترعه الاسماعيليه,شارع الخليج المصري,شارع ترعه الجندي,شارع ابو الفتوح عبد الله,"In the Cairo area, which road cannot directly reach شارع السواح?",D
+104,شارع ابو بكر الصديق,شارع الشيخ حازم صلاح,شارع السواح,شارع المصانع 3,"In the Cairo area, which road cannot directly reach شارع عمر المختار?",B
+105,نفق الطيران,شارع عين شمس,نفق الازهر,شارع الواحه,"In the Cairo area, which road directly reaches شارع صالح الجعفري?",C
+106,ميدان الأوبرا,شارع صلاح سالم,شارع صالح الجعفري,شارع المماليك البحريه,"In the Cairo area, which road cannot directly reach نفق الازهر?",D
+107,شارع خيرت,شارع خلف المرور,طريق ترعه البكباشي,شارع الملك عبد العزيز آل سعود,"In the Cairo area, which road directly reaches كوبري عبد العزيز آل سعود?",D
+108,شارع جزيره محمد,شارع عزب باشا,شارع مستشفى القوات المسلحه,شارع الشهيد سيد زكريا خليل,"In the Cairo area, which road directly reaches شارع داير الناحيه?",A
+109,شارع ترعه السواحل,شارع المدرسه,طريق امبابه القناطر الزراعى,شارع داير الناحيه,"In the Cairo area, which road cannot directly reach شارع جزيره محمد?",B
+110,نفق الازهر,شارع خضر التونى,كوبري والى,شارع أبو بكر الصديق,"In the Cairo area, which road directly reaches ميدان الأوبرا?",A
+111,شارع العقاد,شارع شبرا,شارع عبد الحميد الديب,"طريق القاهرة, السويس","In the Cairo area, which road cannot directly reach شارع الورشه?",A
+112,شارع الورشه,كوبرى الجيش المصرى,شارع الصاعقه,شارع 34,"In the Cairo area, which road cannot directly reach طريق القاهرة, السويس?",D
+113,شارع احمد زكي,شارع ذاكر حسين,شارع مستشفى القوات المسلحه,كوبري الزهراء,"In the Cairo area, which road cannot directly reach شارع دار السلام?",B
+114,كوبرى ميدان المطريه,كوبري ابو وافيه,شارع ترعه بدران,"طريق القاهره, اسكندريه الزراعى القديم","In the Cairo area, which road directly reaches كوبري عرابي?",D
+115,كوبري المظلات,كوبري عرابي,شارع 6,شارع المنيل,"In the Cairo area, which road cannot directly reach طريق القاهره, اسكندريه الزراعى القديم?",D
+116,شارع احمد بسيوني,شارع عين شمس,شارع سكه الوايلي,شارع ترعه الجندي,"In the Cairo area, which road cannot directly reach شارع الخليج المصري?",B
+117,شارع الشيخ غراب,شارع الخليج المصري,شارع مدحت نور,شارع مصطفى رفعت,"In the Cairo area, which road cannot directly reach شارع ترعه الجندي?",D
+118,نفق وادي النيل,شارع شهاب,شارع 26 يوليو,شارع عبد المجيد اللبان,"In the Cairo area, which road cannot directly reach شارع وادى النيل?",D
+119,شارع 26 يوليو,شارع كورنيش النيل,شارع الملك الصالح,محور عمرو بن العاص,"In the Cairo area, which road directly reaches شارع الفالوجا?",A
+120,كوبري مسطرد,شارع اسماعيل القباني,شارع ترسا,شارع ابراهيم عبد الرازق,"In the Cairo area, which road directly reaches شارع ابراهيم شوقي?",B
+121,شارع عزب باشا,شارع الملك فيصل,شارع الاهرام,شارع مساكن كفر طهرمس,"In the Cairo area, which road cannot directly reach طريق كفر طهرمس?",A
+122,شارع الجيش,نفق الثوره,كوبري الازهر,شارع بورسعيد,"In the Cairo area, which road cannot directly reach شارع الازهر?",B
+123,شارع ابراهيم اللقاني,كوبرى يوسف عباس,شارع اسماعيل القباني,شارع صلاح سالم,"In the Cairo area, which road cannot directly reach شارع يوسف عباس?",A
+124,شارع المهندس محمود عبد المنعم,شارع المطافي,شارع الثانوية الجويه,طريق الاوتوستراد,"In the Cairo area, which road cannot directly reach شارع مساكن الشروق?",D
+125,شارع الشهيد محمد مصطفى كاريكا,كوبرى اولاد صالح,شارع الساحه,شارع مساكن الشروق,"In the Cairo area, which road cannot directly reach شارع المهندس محمود عبد المنعم?",B
+126,شارع الواحه,شارع اطلس,شارع مصر و السودان,شارع المدينه المنورة,"In the Cairo area, which road directly reaches شارع الشيخ حازم صلاح?",B
+127,شارع ترعه الجبل,شارع العروبه,شارع فلسطين,شارع شركه المعادي,"In the Cairo area, which road cannot directly reach شارع الجزائر?",A
+128,شارع وزاره الزراعه,شارع البنهاوي,شارع الشيخ حازم صلاح,شارع متحف المنيل,"In the Cairo area, which road directly reaches شارع المتحف الزراعى?",A
+129,شارع ابو داوود الظاهري,شارع المتحف الزراعى,شارع خلوصي,شارع الترعه البولاقيه,"In the Cairo area, which road directly reaches شارع محمد شاهين?",B
+130,شارع المنتزه,شارع نخله المطيعى,شارع الدكتور احمد امين,شارع سوق السيارات,"In the Cairo area, which road cannot directly reach شارع محمد شفيق?",D
+131,شارع التحرير,شارع محمد شفيق,شارع النزهه,شارع عبد العزيز فهمى,"In the Cairo area, which road cannot directly reach شارع الدكتور احمد امين?",A
+132,طريق القناطر,شارع شركه المعادي,كوبرى الكابلات,ميدان الواحه,"In the Cairo area, which road directly reaches محور المشير محمد على فهمي?",D
+133,شارع البصراوى,محور المشير محمد على فهمي الجانبى,شارع محمد متولي الشعراوى,محور المشير محمد على فهمي,"In the Cairo area, which road cannot directly reach ميدان الواحه?",A
+134,طريق كفر طهرمس,شارع عبد الحميد بدوى,كوبري البعوث,شارع 6 اكتوبر,"In the Cairo area, which road directly reaches طريق البترول?",B
+135,شارع صلاح الدين الشرقي,كوبرى فيصل,كوبري محور المنيب,شارع جامعه الدول العربيه,"In the Cairo area, which road directly reaches شارع البطل احمد عبد العزيز?",D
+136,شارع جامعه الدول العربيه,شارع لبنان,شارع سوريا,كوبرى الحجاز,"In the Cairo area, which road cannot directly reach شارع شهاب?",D
+137,شارع المشير احمد اسماعيل,"طريق القاهرة, السويس",شارع عبد السلام,شارع شمبليون,"In the Cairo area, which road directly reaches كوبرى الجيش المصرى?",B
+138,محور روض الفرج,شارع النافوره,شارع فتحي النجار[طلعة البراجيل],شارع الخليفه,"In the Cairo area, which road cannot directly reach الطريق الدائري?",B
+139,الطريق الدائري,شارع متحف المطريه,نفق الدمرداش,شارع عبد السلام,"In the Cairo area, which road directly reaches محور سعد زغلول?",A
+140,شارع المستشفى اليوناني,محور صفط اللبن,شارع شمبليون,شارع ولى العهد,"In the Cairo area, which road directly reaches شارع الشيخ محمد غراب?",D
+141,شارع مدحت نور,شارع المعهد الاشتراكي,شارع الشيخ محمد غراب,شارع سكه الوايلي,"In the Cairo area, which road cannot directly reach شارع ولى العهد?",B
+142,شارع التروللي,شارع خالد بن الوليد,شارع الحريه,كوبرى ميدان المطريه,"In the Cairo area, which road cannot directly reach شارع الكابلات?",B
+143,شارع ترعه الجندي,امتداد شارع ولي العهد,شارع التحرير,شارع الخليج المصري,"In the Cairo area, which road cannot directly reach شارع ترعه القبه?",C
+144,شارع 257,شارع مصر و السودان,شارع ابو حبشى,شارع احمد بسيوني,"In the Cairo area, which road cannot directly reach شارع ترعه الجبل?",A
+145,كوبرى المستشار ممدوح مرعي,كوبرى الحلميه الجديد,شارع احمد عرابى,شارع عمر بن الخطاب,"In the Cairo area, which road directly reaches شارع الخليل?",B
+146,شارع السودان,محور احمد عرابى,شارع جمال عبد الناصر,شارع الفنان صلاح جاهين,"In the Cairo area, which road cannot directly reach شارع احمد عرابى?",C
+147,شارع بهجت الشوربجى,شارع ترعه عبد العال 2,شارع عمارة الاسمنت,شارع محمود سلام,"In the Cairo area, which road cannot directly reach محور جمال عبد الناصر?",C
+148,شارع اسماعيل الفنجري,محور جمال عبد الناصر,شارع مساكن كفر طهرمس,شارع ترعه الزمر,"In the Cairo area, which road cannot directly reach شارع محمود سلام?",A
+149,شارع الثوره الجانبى,شارع الاقصر,شارع كيلوباترا,نفق الثوره,"In the Cairo area, which road cannot directly reach شارع الثوره?",B
+150,شارع الميثاق,شارع غرناطه,شارع الخليفه المأمون,شارع المعهد الاشتراكي,"In the Cairo area, which road cannot directly reach شارع ابراهيم اللقاني?",A
+151,نفق العجوزه,شارع النصر,شارع ابراهيم اللقاني,شارع الطيار فكرى زاهر,"In the Cairo area, which road directly reaches شارع غرناطه?",C
+152,شارع خالد درويش,شارع طه حسين,شارع المسله,شارع اسماعيل رمزى,"In the Cairo area, which road cannot directly reach طريق مسطرد القديم?",D
+153,شارع العقاد,طريق مسطرد القديم,شارع المطراوي,شارع روض الفرج,"In the Cairo area, which road cannot directly reach شارع المسله?",D
+154,كوبري الاميريه,محور جمال عبد الناصر,شارع مساكن الشركات,شارع المطراوي,"In the Cairo area, which road directly reaches شارع ترعه عبد العال 2?",B
+155,شارع الخليفه,شارع جمال عبد الناصر,شارع داير الناحيه الجنوبى,كوبري الملك الصالح,"In the Cairo area, which road cannot directly reach شارع الوحده الصحيه?",D
+156,شارع عبد العزيز,شارع عثمان احمد عثمان,شارع الوحده الصحيه,الطريق الدائري,"In the Cairo area, which road cannot directly reach شارع الخليفه?",A
+157,شارع الظاهر,امتداد شارع مكرم عبيد,طريق القناطر,شارع السنترال,"In the Cairo area, which road directly reaches شارع بحرى الزاويه?",C
+158,شارع البطراوي,شارع الشهيد كيلاني محمد كيلاني,شارع بحرى الزاويه,شارع فاطمه بنت مبارك,"In the Cairo area, which road directly reaches طريق القناطر?",C
+159,شارع النزهه,شارع مستشفى الطلبه,كوبرى جوزيف تيتو,شارع وادي دجله,"In the Cairo area, which road directly reaches شارع أبو بكر الصديق?",A
+160,طريق مسطرد القديم,شارع النزهه,شارع عبد القادر حمزه,شارع الكابلات,"In the Cairo area, which road cannot directly reach شارع الحريه?",C
+161,شارع مرسى محمود,الطريق الدائري,شارع احمد حسن,امتداد شارع جمال عبد الناصر,"In the Cairo area, which road cannot directly reach الطريق الابيض?",C
+162,شارع المركز الطبى,شارع الخليفه الظافر,طريق النصر,شارع السودان,"In the Cairo area, which road directly reaches شارع الشهيد ابراهيم الشيخ?",C
+163,طريق النصر الجانيى,شارع عمار بن ياسر,كوبرى الكابلات,ميدان كريم زيانى,"In the Cairo area, which road directly reaches شارع دكتور اشرف البدري?",A
+164,محور 3 يوليو,شارع دكتور اشرف البدري,شارع محمد متولي الشعراوى,شارع مساكن القناة,"In the Cairo area, which road cannot directly reach محور حسب الله الكفراوى?",C
+165,شارع 10,شارع جامعه الدول العربيه الجانبي,امتداد شارع 9,شارع ذاكر حسين,"In the Cairo area, which road directly reaches محور الشهيد?",C
+166,محور الشهيد,كوبرى الحلميه الجديد,شارع الشهيد احمد بدوي,شارع شيخون,"In the Cairo area, which road directly reaches امتداد شارع 9?",A
+167,شارع خضر التوني,كوبرى دكتور كمال الجنزوري,شارع كورنيش النيل,كوبرى العباسيه,"In the Cairo area, which road directly reaches كوبري العاشر من رمضان?",C
+168,شارع سور المطار,شارع اسماعيل الفنجري,شارع العباسيه,شارع سراي الزعفران,"In the Cairo area, which road cannot directly reach شارع الخليفه المأمون?",A
+169,شارع جسر السويس,شارع الخليفه المأمون,شارع ابراهيم اللقاني,شارع حسن ابراهيم,"In the Cairo area, which road cannot directly reach شارع القبه?",D
+170,شارع جامعه القاهره,شارع الشهيد سيد زكريا خليل,كوبري والى,نفق السبتية,"In the Cairo area, which road directly reaches شارع خالد بن الوليد?",B
+171,شارع الترعه البولاقيه,شارع الورشه,شارع عدلي,شارع معمل الالبان,"In the Cairo area, which road cannot directly reach شارع عبد الحميد الديب?",C
+172,شارع ابن الرشيد,شارع ابو الفرج,شارع شبرا,شارع محطة حلميه الزيتون,"In the Cairo area, which road cannot directly reach شارع جزيره ترعه بدران?",D
+173,شارع المطراوي,شارع ابو الفرج,شارع جزيره ترعه بدران,شارع كوبري امبابه,"In the Cairo area, which road cannot directly reach شارع ترعه بدران?",A
+174,شارع جسر البحر,شارع نهضه مصر,شارع السبتيه,شارع ترعه بدران,"In the Cairo area, which road cannot directly reach شارع ابو الفرج?",B
+175,شارع حلمى محمد حسن,شارع شهاب,شارع جامعه الدول العربيه,شارع كمال بطرس[شمال المحور],"In the Cairo area, which road cannot directly reach شارع سوريا?",D
+176,امتداد شارع المخيم الدائم,شارع حسن افلاطون,امتداد شارع رمسيس,شارع المخيم الدائم,"In the Cairo area, which road cannot directly reach شارع الخليفه القاهر?",B
+177,امتداد شارع رمسيس,شارع المخيم الدائم,شارع ابراهيم,شارع الخليفه القاهر,"In the Cairo area, which road cannot directly reach امتداد شارع المخيم الدائم?",C
+178,طريق النصر,امتداد شارع المخيم الدائم,شارع سراي الزعفران,شارع الخليفه القاهر,"In the Cairo area, which road cannot directly reach شارع المخيم الدائم?",C
+179,شارع الاقصر,شارع الشهيد احمد زكي,شارع البصراوى,شارع المطار,"In the Cairo area, which road cannot directly reach شارع البوهي?",B
+180,شارع عبد القادر حمزه,شارع البوهي,شارع المطار,شارع الاقصر,"In the Cairo area, which road cannot directly reach شارع البصراوى?",A
+181,شارع الشيخ علي عيسي,شارع وزاره الزراعه,شارع الشهيد بهجت حسن,نفق الدمرداش,"In the Cairo area, which road cannot directly reach شارع مصر و السودان?",B
+182,شارع ابن الرشيد,"طريق القاهرة, الاسماعيليه الزراعى",شارع شبرا,شارع النجيلي,"In the Cairo area, which road cannot directly reach شارع جزيره بدران?",B
+183,شارع السبتيه,شارع عمار بن ياسر,شارع ابن الرشيد,شارع جزيره بدران,"In the Cairo area, which road cannot directly reach شارع النجيلي?",B
+184,شارع جزيره ترعه بدران,شارع النجيلي,شارع القلعه,شارع جزيره بدران,"In the Cairo area, which road cannot directly reach شارع ابن الرشيد?",C
+185,شارع حلمى محمد حسن,محور احمد عرابى,شارع شهاب,شارع 26 يوليو,"In the Cairo area, which road cannot directly reach شارع لبنان?",B
+186,شارع الفريق محمد شكرى,شارع الخرطه الجديده,شارع المنيل,شارع العروبه,"In the Cairo area, which road directly reaches شارع القوميه العربيه?",D
+187,شارع التحرير,محور جمال عبد الناصر,كوبرى ميدان الحجاز,شارع الصحابه,"In the Cairo area, which road cannot directly reach شارع ترعه عبد العال 1?",C
+188,كوبري ابو وافيه,كوبري الزاويه,شارع الشركات,شارع ارض اللواء,"In the Cairo area, which road cannot directly reach شارع منشيه الجمل?",D
+189,كوبري عرابي,شارع مجمع المصانع,شارع معمل التكرير,شارع كسارات البلدية,"In the Cairo area, which road cannot directly reach شارع الشركات?",A
+190,شارع المسابك,شارع حمدي عبد السلام,شارع ترعه بشتيل,الطريق الابيض,"In the Cairo area, which road cannot directly reach شارع الطريق الدائرى?",D
+191,شارع الطريق الدائرى,ميدان التحرير,شارع الرحمه,شارع العروبه,"In the Cairo area, which road cannot directly reach شارع المسابك?",B
+192,كوبرى بولاق الدكرور,شارع الطريق الدائري,شارع حمدي عبد السلام,شارع محمد مبروك,"In the Cairo area, which road cannot directly reach شارع المدينه المنورة?",A
+193,امتداد شارع جمال عبد الناصر,شارع ترعه بشتيل,شارع محمد مبروك,شارع الطريق الدائرى,"In the Cairo area, which road cannot directly reach شارع حمدي عبد السلام?",A
+194,شارع الطريق الدائرى,شارع بشتيل,شارع الرحمه,شارع التحرير,"In the Cairo area, which road cannot directly reach شارع ترعه بشتيل?",D
+195,شارع المطار,شارع المدينه المنورة,شارع أولاد سعودي,شارع الاقصر,"In the Cairo area, which road cannot directly reach شارع بشتيل?",C
+196,شارع محمد مهدي عرفه,شارع السكه التجاري,شارع 9,شارع 10,"In the Cairo area, which road cannot directly reach شارع الواحه?",B
+197,شارع أحمد فؤاد نجم,شارع الشيخ امام,شارع مساكن صقر قريش,شارع الفريق عزيز المصري,"In the Cairo area, which road cannot directly reach شارع 9?",D
+198,شارع الواحه,شارع مجلس المدينه,شارع 9,شارع الطوب الرملي,"In the Cairo area, which road cannot directly reach شارع 10?",B
+199,شارع محمد متولي الشعراوى,نفق الملك الصالح,شارع مساكن صقر قريش,شارع الواحه,"In the Cairo area, which road cannot directly reach شارع محمد مهدي عرفه?",B
+200,الطريق الثاني,شارع النصر,شارع نادى امبابه الرياضى,شارع عبد السلام عارف - البستان سابقا,"In the Cairo area, which road cannot directly reach شارع طلعت حرب?",A
+201,شارع صلاح سالم,شارع السعادة,شارع المحولات,شارع جمال عبد الناصر,"In the Cairo area, which road cannot directly reach شارع ترسا?",B
+202,شارع الشهيد احمد بدوي,شارع الوحده الصحيه,شارع عبد الخالق ثروت,شارع 6 اكتوبر,"In the Cairo area, which road cannot directly reach شارع جمال عبد الناصر?",C
+203,محور الفريق كمال عامر,شارع فتحي النجار,شارع السنترال,كوبرى الدقى,"In the Cairo area, which road cannot directly reach شارع ارض اللواء?",D
+204,طريق مسطرد القديم,شارع ارض اللواء,شارع المصرف,شارع حلوان,"In the Cairo area, which road directly reaches شارع المركز الطبى?",B
+205,شارع الناصريه,شارع بورسعيد,شارع نوبار,شارع البوهي,"In the Cairo area, which road cannot directly reach شارع مجلس الشعب?",D
+206,شارع شيخون,شارع الوالي,شارع احمد عرابي,طريق النصر الجانيى,"In the Cairo area, which road directly reaches شارع مصطفى حافظ?",C
+207,شارع جسر السويس,محور عدلى منصور,شارع مصطفى حافظ,شارع محمد مبروك,"In the Cairo area, which road cannot directly reach شارع الفريق عزيز المصري?",D
+208,شارع صلاح سالم,شارع وادي دجله,شارع الفريق محمد شكرى,شارع حسين كامل,"In the Cairo area, which road directly reaches شارع السيده عائشه?",A
+209,شارع السيده عائشه,شارع محسن محمود,شارع سيدي عقبه,شارع البطل,"In the Cairo area, which road cannot directly reach شارع الخلاء?",D
+210,ميدان النهضة,محور صفط اللبن,شارع انس ابن مالك,شارع كورنيش النيل,"In the Cairo area, which road cannot directly reach شارع السرايا?",B
+211,شارع محمد حامد,شارع سعيد ذو الفقار,شارع محمد صدقي الشافعي,شارع السرايا,"In the Cairo area, which road cannot directly reach شارع عبد العزيز آل سعود?",A
+212,شارع لبنان,شارع عبد العزيز آل سعود,شارع جسر البحر,شارع محمد متولي الشعراوي,"In the Cairo area, which road directly reaches ميدان النهضة?",B
+213,شارع الرقيبه,شارع مجري العيون,شارع السيده نفيسه,كوبري الزهراء,"In the Cairo area, which road cannot directly reach شارع الاشراف?",D
+214,شارع الصليبة,شارع عبد المجيد اللبان,شارع الشهيد احمد بدوي,شارع بورسعيد,"In the Cairo area, which road cannot directly reach شارع محمد قدري باشا?",C
+215,شارع البصراوى,شارع شيخون,شارع عبد المجيد اللبان,شارع محمد قدري باشا,"In the Cairo area, which road cannot directly reach شارع الصليبة?",A
+216,شارع محمد قدري باشا,شارع الصليبة,شارع بورسعيد,شارع ناهيا,"In the Cairo area, which road cannot directly reach شارع عبد المجيد اللبان?",D
+217,شارع محمد صدقي الشافعي,شارع سعيد ذو الفقار,شارع أحمد فؤاد نجم,شارع عبد العزيز آل سعود,"In the Cairo area, which road cannot directly reach شارع المنيل?",C
+218,شارع سعد سليم,شارع هارون الرشيد,شارع محمد شفيق,شارع الشهيد فريد سميكه,"In the Cairo area, which road cannot directly reach شارع المنتزه?",A
+219,شارع ابو بكر الصديق,شارع المقطم,شارع محمد شفيق,شارع اسماعيل رمزى,"In the Cairo area, which road cannot directly reach شارع هارون الرشيد?",B
+220,شارع الطريق الدائري,شارع المنصوريه,شارع الجيش,شارع السكه البيضاء,"In the Cairo area, which road cannot directly reach شارع الطرابيشي?",A
+221,ميدان كريم زيانى,شارع المنصوريه,شارع صلاح سالم,امتداد شارع فلسطين,"In the Cairo area, which road cannot directly reach شارع السكه البيضاء?",D
+222,شارع جوهر القائد,شارع الطرابيشي,شارع المفتشين,شارع السكه البيضاء,"In the Cairo area, which road cannot directly reach شارع المنصوريه?",C
+223,شارع نوبار,طريق الاوتوستراد,شارع سكه راتب باشا الكبير,ميدان الجمهوريه,"In the Cairo area, which road cannot directly reach شارع الشيخ ريحان?",B
+224,شارع حلوان,شارع محمد عز العرب,شارع كمال بطرس[شمال المحور],شارع محمد محمود,"In the Cairo area, which road cannot directly reach شارع منصور?",C
+225,شارع ترعه القبه,شارع ترعه الحفريه,شارع عبد السلام عارف - البستان سابقا,شارع البصراوى,"In the Cairo area, which road directly reaches شارع علي باشا ذو الفقار?",C
+226,شارع شريف باشا,كوبرى الملك الصالح,شارع علي باشا ذو الفقار,شارع قصر النيل,"In the Cairo area, which road cannot directly reach شارع عبد السلام عارف - البستان سابقا?",B
+227,محور المشير طنطاوى,شارع مجلس الشعب,شارع فاطمه بنت مبارك,شارع المنطقه الصناعيه,"In the Cairo area, which road directly reaches شارع الناصريه?",B
+228,شارع رمسيس,شارع العباسيه,شارع سبيل الخازنداره,شارع مدخل القاهرة,"In the Cairo area, which road cannot directly reach شارع احمد سعيد?",D
+229,شارع احمد سعيد,طريق شرق القطامية,شارع السواح,شارع العريف عبد المنعم,"In the Cairo area, which road directly reaches شارع سبيل الخازنداره?",A
+230,شارع السبتيه,شارع نوبار,شارع الشهيد سيد زكريا خليل,شارع الشهيد كيلاني محمد كيلاني,"In the Cairo area, which road directly reaches شارع مصطفى رفعت?",C
+231,شارع الدكتور ابراهيم ابو النجا,شارع شيخون,شارع الطيران,شارع جمال سليم,"In the Cairo area, which road cannot directly reach شارع الدكتور محمد النبوي المهندس?",B
+232,شارع ذاكر حسين,شارع جمال سليم,شارع الدكتور محمد النبوي المهندس,شارع 216,"In the Cairo area, which road cannot directly reach شارع الدكتور ابراهيم ابو النجا?",D
+233,محور الشهيد,شارع عبد الله العربى,شارع المسله,شارع الدكتور محمد النبوي المهندس,"In the Cairo area, which road cannot directly reach شارع جمال سليم?",C
+234,شارع دوليتان,شارع طلعت حرب,شارع محمد نجيب,شارع الطيار فكرى زاهر,"In the Cairo area, which road cannot directly reach شارع نادى امبابه الرياضى?",A
+235,شارع نادى امبابه الرياضى,شارع ترعه بدران,شارع دكتور محمد محب زكى,كوبري امبابه,"In the Cairo area, which road cannot directly reach شارع العامل الاول?",B
+236,شارع السودان,شارع المحطه,شارع نادى امبابه الرياضى,شارع الدكتور حندوسه,"In the Cairo area, which road cannot directly reach شارع محمد نجيب?",D
+237,شارع خالد بن الوليد,شارع محمد نجيب,شارع نادى امبابه الرياضى,شارع كورنيش النيل,"In the Cairo area, which road cannot directly reach شارع المحطه?",A
+238,شارع ابو بكر الصديق,شارع محمد شفيق,ميدان تريومف,شارع حسين كامل,"In the Cairo area, which road cannot directly reach شارع نخله المطيعى?",D
+239,كوبرى الكابلات,شارع ترعه الزمر,ميدان النصر,شارع نادى امبابه الرياضى,"In the Cairo area, which road directly reaches شارع الطيار فكرى زاهر?",D
+240,شارع كمال بطرس[شمال المحور],شارع الاهرام,كوبرى بولاق الدكرور,شارع ناهيا,"In the Cairo area, which road cannot directly reach شارع ترعه الزمر?",B
+241,الطريق الابيض,شارع مرسى محمود,كوبرى عبد الحميد بدوى,شارع ترعه الزمر,"In the Cairo area, which road cannot directly reach شارع كمال بطرس[شمال المحور]?",C
+242,شارع الخرطه الجديده,شارع المدرسه الفنيه,شارع ترعه الزمر,امتداد شارع فلسطين,"In the Cairo area, which road directly reaches الطريق الثاني?",C
+243,امتداد شارع فلسطين,شارع البحث الجنائي,شارع حلمى محمد حسن,شارع شركه المعادي,"In the Cairo area, which road cannot directly reach شارع 306?",C
+244,شارع طومان باى,شارع احمد زكي,كوبري الزهراء,شارع المنيل,"In the Cairo area, which road directly reaches شارع سعيد ذو الفقار?",D
+245,شارع البساتين,شارع نجيب الريحاني,شارع الخلاء,شارع محسن محمود,"In the Cairo area, which road cannot directly reach شارع سيدي عقبه?",B
+246,شارع الكردى,شارع الطهاوية,شارع سيدي عقبه,شارع الشهيد احمد بدوي,"In the Cairo area, which road cannot directly reach شارع البساتين?",D
+247,شارع محطه القبه,شارع 9,شارع سيدي عقبه,شارع المصانع,"In the Cairo area, which road cannot directly reach شارع الكردى?",A
+248,شارع عبد الحميد الديب,شارع الورشه,شارع بيرم التونسي,شارع احمد حلمي,"In the Cairo area, which road cannot directly reach شارع الترعه الشرقي?",C
+249,شارع طلال محمد سعد الله,شارع الترعه الشرقي,شارع شنن,شارع 15 مايو,"In the Cairo area, which road cannot directly reach شارع الترعه البولاقيه?",A
+250,طريق النصر,شارع عمر بن الخطاب,شارع جسر البحر,شارع احمد فؤاد,"In the Cairo area, which road directly reaches شارع باحثه الباديه?",C
+251,شارع باحثه الباديه,شارع دوليتان,محور جمال عبد الناصر,شارع دانشواي,"In the Cairo area, which road cannot directly reach شارع جسر البحر?",C
+252,شارع احمد فؤاد,شارع اللواء جمال اللبان,شارع السبتيه,كوبرى فيصل,"In the Cairo area, which road directly reaches شارع السكه التجاري?",C
+253,شارع احمد فؤاد عبد العزيز,شارع ترعه بدران,شارع السكه التجاري,كوبري امبابه,"In the Cairo area, which road cannot directly reach شارع كوبري امبابه?",A
+254,شارع البوهي,شارع الزبيدي,شارع نهضه مصر,شارع العقاد,"In the Cairo area, which road directly reaches شارع المطراوي?",D
+255,شارع المطراوي,شارع الحريه,شارع المسله,ميدان باب الشعريه,"In the Cairo area, which road cannot directly reach شارع العقاد?",D
+256,شارع صعب صالح,شارع عين شمس,شارع أحمد إسماعيل,ميدان باب الشعريه,"In the Cairo area, which road cannot directly reach شارع ابراهيم عبد الرازق?",D
+257,شارع ابراهيم عبد الرازق,شارع احمد عصمت,شارع رشدي باشا,شارع سليم الاول,"In the Cairo area, which road cannot directly reach شارع صعب صالح?",C
+258,شارع مصطفى حافظ,شارع احمد عصمت,شارع الجمعيه الزراعيه,كوبرى جوزيف تيتو,"In the Cairo area, which road cannot directly reach شارع احمد عرابي?",D
+259,شارع ابراهيم عبد الرازق,شارع احمد عصمت,شارع منشيه التحرير,شارع فلسطين,"In the Cairo area, which road cannot directly reach شارع أحمد إسماعيل?",D
+260,كوبرى الملك الصالح,امتداد شارع فلسطين,شارع حسن الانوار القبلي,شارع فلسطين,"In the Cairo area, which road directly reaches شارع جامع عمرو?",C
+261,شارع جامع عمرو,كوبرى مسجد السلام,شارع 6 اكتوبر,شارع المصرف,"In the Cairo area, which road directly reaches شارع السد البراني?",A
+262,شارع مستشفى القوات المسلحه,شارع 151,شارع الطريق الدائري,شارع 101,"In the Cairo area, which road cannot directly reach طريق مصر حلوان الزراعي?",C
+263,شارع الجامعة الحديثة,شارع مجمع التحرير,شارع 153,كوبرى العباسيه,"In the Cairo area, which road directly reaches شارع 101?",C
+264,طريق مصر حلوان الزراعي,شارع شنن,شارع كورنيش النيل,شارع دار السلام,"In the Cairo area, which road cannot directly reach شارع مستشفى القوات المسلحه?",B
+265,شارع صعب صالح,كوبرى اولاد صالح,شارع جمال عبد الناصر,شارع ترعه الزمر,"In the Cairo area, which road cannot directly reach شارع 6 اكتوبر?",A
+266,شارع 6 اكتوبر,شارع الشيخ علي يوسف,شارع كوبري امبابه,كوبرى روض الفرج,"In the Cairo area, which road directly reaches شارع المركز?",A
+267,شارع 6 اكتوبر,شارع عبد المنعم رياض,شارع المدينه المنوره,ميدان الاسماعيليه,"In the Cairo area, which road cannot directly reach كوبرى اولاد صالح?",D
+268,ميدان النهضة,شارع الطهاوية,شارع بيرم التونسي,شارع كورنيش الاهرام,"In the Cairo area, which road directly reaches شارع النافوره?",D
+269,شارع الضغط العالى,شارع النافوره,شارع السلطان حسن,شارع عبد الرزاق السنهوري,"In the Cairo area, which road directly reaches شارع كورنيش الاهرام?",B
+270,شارع بورسعيد,شارع اسماعيل رمزى,شارع مصر و السودان,شارع الخليج المصري,"In the Cairo area, which road cannot directly reach شارع شبين?",B
+271,شارع الاشراف,شارع السيده نفيسه,شارع شيخون,شارع احمد بن حنبل,"In the Cairo area, which road cannot directly reach شارع الرقيبه?",D
+272,كوبري الزهراء,شارع سراي الزعفران,شارع 26 يوليو,شارع ابراهيم اللقاني,"In the Cairo area, which road directly reaches شارع والي?",B
+273,شارع والي,شارع محطة المحولات,شارع درويش العربي,شارع 6,"In the Cairo area, which road directly reaches شارع الفريق محمد شكرى?",A
+274,شارع السواح,شارع الرقيبه,شارع منشيه الجمل,محور ناهيا,"In the Cairo area, which road directly reaches شارع المصرف?",D
+275,شارع التروللي,كوبرى الميرغني الجديد,شارع الخليفه,امتداد شارع رمسيس,"In the Cairo area, which road directly reaches شارع عثمان احمد عثمان?",C
+276,شارع أحمد إسماعيل,كوبرى بولاق الدكرور,شارع مساكن الشروق,شارع نخله المطيعي,"In the Cairo area, which road directly reaches شارع ناهيا?",B
+277,شارع جامعه الدول العربيه,شارع ترعه الزمر,شارع ناهيا,شارع وادى النيل,"In the Cairo area, which road cannot directly reach كوبرى بولاق الدكرور?",D
+278,شارع البصراوى,شارع البوهي,شارع بشتيل,شارع 250,"In the Cairo area, which road cannot directly reach شارع الاقصر?",D
+279,شارع حسن ابراهيم,شارع منشيه التحرير,شارع يوسف السباعي,شارع متحف المطريه,"In the Cairo area, which road cannot directly reach شارع 34?",C
+280,كوبري الملك الصالح,شارع سليم الاول,شارع 34,شارع عين شمس,"In the Cairo area, which road cannot directly reach شارع متحف المطريه?",A
+281,شارع 34,شارع متحف المطريه,كوبرى الليمون,شارع جسر السويس,"In the Cairo area, which road cannot directly reach شارع حسن ابراهيم?",C
+282,شارع احمد عرابي,شارع بغداد,شارع المتحف الزراعى,شارع اطلس,"In the Cairo area, which road directly reaches شارع الجمعيه الزراعيه?",A
+283,شارع احمد عصمت,شارع وادى النيل,شارع الرقيبه,شارع دكتور حسام الدين بسيوني,"In the Cairo area, which road directly reaches شارع العشرين?",A
+284,كوبرى الميثاق,شارع كمال بطرس[شمال المحور],شارع ترعه الجبل,طريق البترول,"In the Cairo area, which road directly reaches شارع غرب السكه الحديد?",C
+285,شارع اكاديمية السادات,شارع محطة حلميه الزيتون,شارع اساس الهجانه,شارع عين شمس,"In the Cairo area, which road cannot directly reach شارع جنينه الشريف?",A
+286,شارع اساس الهجانه,كوبرى متحف الحضاره,شارع محطه حلميه الزيتون,شارع جنينه الشريف,"In the Cairo area, which road cannot directly reach شارع محطة حلميه الزيتون?",B
+287,شارع النيل الابيض,كوبري امبابه,شارع منشيه الجمل,شارع جنينه الشريف,"In the Cairo area, which road directly reaches شارع اساس الهجانه?",D
+288,شارع الحريه,شارع عمر المختار,شارع شنن,شارع الكابلات,"In the Cairo area, which road cannot directly reach شارع التروللي?",C
+289,شارع المنصوريه,كوبرى الليمون,كوبرى عين الصيره,نفق الدمرداش,"In the Cairo area, which road directly reaches شارع البنهاوي?",A
+290,شارع فتحي النجار,شارع الترعه الحفريه,محور الفريق كمال عامر,شارع صلاح الدين الغربى,"In the Cairo area, which road cannot directly reach شارع ترعه الحفريه?",D
+291,شارع جامع عمرو,شارع المعهد الاشتراكي,شارع الدقى,شارع فتحي النجار,"In the Cairo area, which road directly reaches شارع الترعه الحفريه?",D
+292,شارع الترعه الحفريه,شارع اسماعيل سري,شارع ارض اللواء,شارع ترعه الحفريه,"In the Cairo area, which road cannot directly reach شارع فتحي النجار?",B
+293,شارع الطرابيشي,شارع وابور الترجمان,شارع الشهيد سيد زكريا خليل,شارع احمد سمير الصاوي,"In the Cairo area, which road directly reaches شارع مربع بلوكات 1186?",C
+294,شارع محطه الدمرداش,شارع حسن مأمون,شارع مصر و السودان,شارع الدويدار,"In the Cairo area, which road cannot directly reach شارع الشيخ العناني?",B
+295,شارع الشيخ العناني,كوبري ابو وافيه,شارع حدائق القبة,شارع الشيخ علي عيسي,"In the Cairo area, which road cannot directly reach شارع الدويدار?",B
+296,شارع منشيه الصدر,شارع الدويدار,طريق الكابتن طيار لطفية النادي,شارع مصر و السودان,"In the Cairo area, which road cannot directly reach شارع الشيخ علي عيسي?",C
+297,شارع بورسعيد,شارع ترعه الجبل,محور الشهيد,شارع الخليج المصري,"In the Cairo area, which road cannot directly reach شارع ابو حبشى?",C
+298,شارع الخليج المصري,شارع نوبار,شارع مصر و السودان,شارع ترعه الجبل,"In the Cairo area, which road cannot directly reach شارع احمد بسيوني?",B
+299,شارع محطه الزيتون,شارع عبد السلام عارف,شارع الاتحاد,شارع البنهاوي,"In the Cairo area, which road directly reaches شارع ترعه زنين?",C
+300,كوبرى فيصل,شارع الصحافة,شارع محمد مهدي عرفه,شارع ترعه الزمر,"In the Cairo area, which road directly reaches شارع المشتل?",D
+301,شارع السودان,شارع الدقى,شارع الحريه,شارع عبد السلام عارف,"In the Cairo area, which road cannot directly reach شارع احمد زويل?",C
+302,شارع احمد زويل,شارع شارل ديجول,شارع السنترال,شارع الدقى,"In the Cairo area, which road cannot directly reach شارع عبد السلام عارف?",C
+303,شارع عثمان بن عفان,شارع التحرير,شارع احمد زويل,شارع عبد السلام عارف,"In the Cairo area, which road cannot directly reach شارع الدقى?",A
+304,شارع صبحي حسين,شارع الوفاء و الامل,شارع البطل,شارع الجامعة الحديثة,"In the Cairo area, which road cannot directly reach شارع محمد حامد?",B
+305,شارع 216,شارع مدحت نور,شارع جزيره بدران,الطريق الدائري,"In the Cairo area, which road directly reaches شارع صبحي حسين?",D
+306,شارع الزبيدي,طريق النصر الجانيى,كوبري مسطرد,كوبري العزيز بالله,"In the Cairo area, which road directly reaches شارع البحث الجنائي?",B
+307,شارع لبنان,شارع ترعه زنين,شارع المدينه المنورة,شارع 9,"In the Cairo area, which road directly reaches شارع الاتحاد?",B
+308,شارع التحرير,شارع الخليل,شارع جلال الدين الحمامصى,شارع مربع بلوكات 1186,"In the Cairo area, which road directly reaches شارع بهجت الشوربجى?",A
+309,ميدان باب الشعريه,شارع الصليبة,شارع صلاح الدين الغربى,شارع الرقيبه,"In the Cairo area, which road cannot directly reach شارع شيخون?",A
+310,شارع العروبه,شارع احمد تيسير,شارع المسابك,شارع ترعه بشتيل,"In the Cairo area, which road cannot directly reach شارع الرحمه?",B
+311,شارع بورسعيد,طريق مصر حلوان الزراعي,شارع كورنيش النيل,شارع 151,"In the Cairo area, which road cannot directly reach شارع اكاديمية السادات?",A
+312,شارع خلف المرور,شارع الطهاوية,شارع ابو الفتوح عبد الله,شارع سمير عبد الرؤوف,"In the Cairo area, which road directly reaches شارع معمل التكرير?",A
+313,شارع الشهيد محمد مصطفى كاريكا,شارع دكتور محمد محب زكى,شارع على باشا ابراهيم,شارع الجزيره,"In the Cairo area, which road directly reaches شارع النجار?",C
+314,شارع 306,شارع ماهر اباظه,شارع فلسطين,شارع دكتور محمود صالح ابو زيد,"In the Cairo area, which road cannot directly reach امتداد شارع فلسطين?",D
+315,شارع ماهر اباظه,امتداد شارع فلسطين,شارع الجزائر,شارع نجيب الريحاني,"In the Cairo area, which road cannot directly reach شارع فلسطين?",D
+316,شارع فلسطين,شارع حسن ابراهيم,شارع النصر,امتداد شارع فلسطين,"In the Cairo area, which road cannot directly reach شارع ماهر اباظه?",B
+317,شارع الملك فيصل,شارع كسارات البلدية,شارع الجراج,شارع الشركات,"In the Cairo area, which road cannot directly reach شارع مجمع المصانع?",A
+318,شارع النيل الابيض,شارع النادي الجديد,شارع البطل,شارع ترعه الاسماعيليه,"In the Cairo area, which road directly reaches شارع الجراج?",D
+319,شارع الكورنيش,طريق احمد السلاب,محور ياسر رزق,شارع كلوت بك,"In the Cairo area, which road cannot directly reach طريق المقطم?",D
+320,طريق احمد السلاب,شارع سامي البارودي,طريق المقطم,شارع البطل,"In the Cairo area, which road cannot directly reach شارع الكورنيش?",B
+321,شارع الظاهر,طريق النصر,كوبري العزيز بالله,شارع علي باشا اللاله,"In the Cairo area, which road directly reaches شارع باب الوزير?",B
+322,شارع المدينه المنورة,شارع الطريق الدائري,شارع الصحابه,شارع حمدي عبد السلام,"In the Cairo area, which road cannot directly reach شارع محمد مبروك?",C
+323,شارع الطريق الدائري,شارع المدينه المنورة,شارع الخيالة,شارع ارض اللواء,"In the Cairo area, which road cannot directly reach شارع السنترال?",C
+324,شارع محمد مبروك,شارع المدينه المنورة,شارع احمد حسن,شارع السنترال,"In the Cairo area, which road cannot directly reach شارع الطريق الدائري?",C
+325,شارع المستشار مجدى سليم,شارع عمر المختار,شارع المطافي,طريق ترعة ميت قادوس,"In the Cairo area, which road cannot directly reach شارع البحر?",C
+326,شارع المسله,شارع عمر المختار,كوبري البعوث,شارع الدقى,"In the Cairo area, which road directly reaches طريق ترعه البكباشي?",B
+327,شارع ترسا,شارع عمر المختار,شارع جمال عبد الناصر,كوبرى بولاق الدكرور,"In the Cairo area, which road cannot directly reach شارع الشهيد احمد بدوي?",D
+328,إمتداد شارع ابو داوود الظاهري,شارع ميدان سيدي عبد الجواد,شارع جزيره بدران,شارع عبد المنعم رياض,"In the Cairo area, which road directly reaches شارع المدينه المنوره?",D
+329,شارع ابو الفتوح عبد الله,شارع المدينه المنوره,ميدان التحرير,شارع الخليل,"In the Cairo area, which road directly reaches شارع عبد المنعم رياض?",B
+330,شارع ترعه الاسماعيليه,شارع الكورنيش,شارع المفتشين,شارع احمد عرابى,"In the Cairo area, which road directly reaches شارع مدخل القاهرة?",A
+331,شارع جمال سليم,شارع حلمى محمد حسن,شارع المقريزي,محور الفريق كمال عامر,"In the Cairo area, which road directly reaches شارع الشيخ كامل خضر?",A
+332,شارع الجلاء,كوبري عبد العزيز آل سعود,شارع الترعه البولاقيه,شارع الصحافة,"In the Cairo area, which road cannot directly reach شارع شنن?",B
+333,شارع السكه التجاري,شارع كورنيش النيل,كوبرى الليمون,طريق ترعة ميت قادوس,"In the Cairo area, which road cannot directly reach شارع السبتيه?",D
+334,شارع جمال سليم,شارع الطيران,شارع ذاكر حسين,شارع افريقيا,"In the Cairo area, which road cannot directly reach شارع عبد الله العربى?",D
+335,شارع المطار,ميدان التحرير,شارع الفردوس,شارع الامداد و التموين,"In the Cairo area, which road directly reaches شارع سور المطار?",A
+336,شارع البوهي,شارع الترعه الشرقي,محور احمد عرابى,شارع البصراوى,"In the Cairo area, which road cannot directly reach شارع المطار?",B
+337,شارع المهندس عماد عيسي,شارع سوق السيارات,كوبرى 6 أكتوبر,شارع محمد متولي الشعراوى,"In the Cairo area, which road cannot directly reach شارع الطوب الرملي?",C
+338,شارع حسين كامل,كوبرى العباسيه,شارع 250,شارع المدارس,"In the Cairo area, which road directly reaches شارع أولاد سعودي?",D
+339,شارع بغداد,طريق سقاره السياحى,شارع منشيه التحرير,شارع محطة الزيتون,"In the Cairo area, which road directly reaches شارع المدارس?",B
+340,شارع بحرى الزاويه,شارع البحر,شارع الطوبجى,شارع محمد مبروك,"In the Cairo area, which road directly reaches طريق ترعة ميت قادوس?",B
+341,شارع الدكتور محمود فتحي,شارع عماد حمدى,شارع افريقيا,شارع عثمان احمد عثمان,"In the Cairo area, which road cannot directly reach شارع احمد حسن?",D
+342,شارع السد العالى,شارع دكتور حسام الدين بسيوني,شارع احمد حسن,شارع بشتيل,"In the Cairo area, which road cannot directly reach شارع عماد حمدى?",D
+343,شارع السد العالى,شارع نبيل الوقاد,شارع عماد حمدى,شارع الدكتور محمود فتحي,"In the Cairo area, which road cannot directly reach شارع دكتور حسام الدين بسيوني?",B
+344,شارع عين الحياه,شارع رمسيس,محور 3 يوليو,شارع البحر,"In the Cairo area, which road directly reaches شارع المستشار مجدى سليم?",D
+345,شارع محمد شفيق,شارع احمد تيسير,شارع العشرين,شارع اسماعيل رمزى,"In the Cairo area, which road directly reaches شارع سور دار الدفاع الجوي?",B
+346,شارع ابو الفرج,شارع الفريق محمد شكرى,شارع شبرا,شارع جسر البحر,"In the Cairo area, which road cannot directly reach شارع روض الفرج?",B
+347,شارع اكاديمية السادات,شارع مستشفى الطلبه,شارع مساكن الشركات,شارع البرازيل,"In the Cairo area, which road directly reaches شارع 151?",A
+348,شارع طومان باى,كوبرى ميدان ابن الحكم,شارع عين شمس,شارع التحرير,"In the Cairo area, which road cannot directly reach شارع ابن الحكم?",D
+349,شارع محطة حلميه الزيتون,شارع محطة الزيتون,شارع ابن الحكم,شارع المقطم,"In the Cairo area, which road cannot directly reach شارع محطه حلميه الزيتون?",D
+350,كوبري عبد العزيز آل سعود,شارع محطه القبه,شارع محطه حلميه الزيتون,شارع احمد سمير الصاوي,"In the Cairo area, which road cannot directly reach شارع محطة الزيتون?",A
+351,شارع محمد مهدي عرفه,شارع 9,شارع الطوب الرملي,كوبرى الاربعين,"In the Cairo area, which road cannot directly reach شارع محمد متولي الشعراوى?",D
+352,محور حسب الله الكفراوى,شارع محطة المحولات,شارع الوفاء و الامل,شارع الطوب الرملي,"In the Cairo area, which road cannot directly reach شارع المهندس عماد عيسي?",A
+353,شارع احمد عصمت,شارع ابراهيم عبد الرازق,شارع سكة المحجر,شارع ابن الحكم,"In the Cairo area, which road cannot directly reach شارع عين شمس?",C
+354,شارع دكتور حسام الدين بسيوني,شارع دكتور حسن الشريف,شارع احمد حسن,شارع الزبيدي,"In the Cairo area, which road cannot directly reach شارع الدكتور محمود فتحي?",D
+355,شارع محمد حامد,شارع صلاح الدين الايوبي,شارع عين الحياه,"طريق القاهرة, اسيوط الزراعى","In the Cairo area, which road cannot directly reach شارع الجامعة الحديثة?",D
+356,شارع الملك فيصل,شارع محمد حامد,شارع صلاح سالم,شارع محمد شفيق,"In the Cairo area, which road directly reaches شارع عين الحياه?",B
+357,شارع ابراهيم,شارع محمد قدري باشا,شارع الكورنيش,شارع سامي البارودي,"In the Cairo area, which road directly reaches شارع البطل?",C
+358,شارع ترسا,شارع اكاديمية السادات,شارع خاتم المرسلين,شارع العروبه,"In the Cairo area, which road cannot directly reach شارع عثمان محرم?",B
+359,شارع طلال محمد سعد الله,كوبري ترسا,شارع عثمان محرم,شارع محمد متولي الشعراوي,"In the Cairo area, which road cannot directly reach شارع خاتم المرسلين?",D
+360,كوبري البعوث,شارع الكردى,شارع عبد المجيد اللبان,شارع الشهيد بهجت حسن,"In the Cairo area, which road directly reaches شارع المصانع?",B
+361,شارع الملك فيصل,شارع السودان,شارع الدكتور ابراهيم ابو النجا,"طريق القاهره, اسكندريه الزراعى القديم","In the Cairo area, which road directly reaches شارع مصنع الفيروز?",B
+362,شارع مساكن صقر قريش,شارع شنن,شارع نخله المطيعى,شارع جلال الدين الحمامصى,"In the Cairo area, which road directly reaches شارع ميدان سيدي عبد الجواد?",B
+363,شارع سوق السيارات,شارع جزيره محمد,شارع محمد مهدي عرفه,شارع 9,"In the Cairo area, which road cannot directly reach شارع مساكن صقر قريش?",B
+364,شارع جسر الكنيسة,شارع ابو داوود الظاهري,شارع داير الناحيه الشرقى,شارع الوحده الصحيه,"In the Cairo area, which road cannot directly reach شارع داير الناحيه الجنوبى?",B
+365,شارع طلعت حرب,"طريق القاهرة, الاسماعيليه الزراعى",شارع الامداد و التموين,شارع عثمان محرم,"In the Cairo area, which road directly reaches شارع داير الناحيه الشرقى?",D
+366,شارع شمبليون,محور المشير محمد على فهمي,شارع محطه القبه,شارع كمال بطرس[شمال المحور],"In the Cairo area, which road directly reaches شارع مرسى محمود?",D
+367,امتداد شارع رمسيس,شارع كورنيش النيل,شارع صلاح الدين,شارع اسماعيل الفنجري,"In the Cairo area, which road cannot directly reach شارع ممدوح سالم?",C
+368,شارع اللواء جمال اللبان,طريق النصر الجانيى,شارع حسن ابراهيم,شارع شبين,"In the Cairo area, which road directly reaches شارع المنطقه الصناعيه?",A
+369,شارع سوريا,شارع الدويدار,شارع اسماعيل سري,شارع المنطقه الصناعيه,"In the Cairo area, which road directly reaches شارع اللواء جمال اللبان?",D
+370,شارع 216,شارع النصر,محور 26 يوليو,شارع النادي الجديد,"In the Cairo area, which road cannot directly reach شارع اللاسلكي?",C
+371,شارع عدلي,شارع اللاسلكي,طريق القناطر,كوبري مدخل منشية ناصر و المقطم,"In the Cairo area, which road directly reaches شارع الزهراء?",B
+372,شارع 206,شارع اللاسلكي,ميدان قشتمر,شارع الزهراء,"In the Cairo area, which road cannot directly reach شارع 216?",C
+373,شارع افريقيا,شارع مريت باشا,شارع الجمهوريه,شارع محمد فريد,"In the Cairo area, which road cannot directly reach شارع قصر النيل?",A
+374,شارع نزيه خليفه,شارع الاتحاد,شارع عثمان بن عفان,شارع ابراهيم اللقاني,"In the Cairo area, which road cannot directly reach شارع بغداد?",B
+375,شارع عثمان بن عفان,شارع النهضه,شارع العروبه,شارع كيلوباترا,"In the Cairo area, which road cannot directly reach شارع بيروت?",B
+376,شارع الثوره,شارع عثمان بن عفان,شارع بيروت,شارع المنيل,"In the Cairo area, which road cannot directly reach شارع كيلوباترا?",D
+377,شارع اللاسلكي,شارع 257,شارع 250,شارع البحث الجنائي,"In the Cairo area, which road cannot directly reach شارع النادي الجديد?",D
+378,شارع الميثاق,شارع النصر,كوبرى ميدان الاميريه,كوبري الملك فيصل,"In the Cairo area, which road directly reaches شارع 257?",B
+379,شارع جسر الكنيسة,شارع 101,شارع المصرف,شارع البساتين,"In the Cairo area, which road directly reaches شارع الطهاوية?",D
+380,شارع حسن ابراهيم,شارع الثوره الجانبى,شارع النهضه,طريق المطار,"In the Cairo area, which road directly reaches طريق الكابتن طيار لطفية النادي?",D
+381,شارع 216,طريق الكابتن طيار لطفية النادي,شارع احمد فؤاد عبد العزيز,شارع محطه حلميه الزيتون,"In the Cairo area, which road directly reaches طريق المطار?",B
+382,شارع يوسف عباس,طريق النصر,شارع بهجت الشوربجى,شارع الطيران,"In the Cairo area, which road cannot directly reach شارع عبد العزيز الشناوى?",C
+383,كوبري ابو وافيه,شارع منشيه التحرير,الطريق الدائري,شارع مستشفى القوات المسلحه,"In the Cairo area, which road directly reaches شارع كارفور?",C
+384,شارع اساس الهجانه,كوبرى عين الصيره,شارع الثانوية الجويه,شارع ابراهيم الخليلي,"In the Cairo area, which road directly reaches شارع السعادة?",D
+385,شارع التحرير,شارع العروبه,شارع النيل,شارع محمد شفيق,"In the Cairo area, which road cannot directly reach كوبري الجلاء?",D
+386,شارع الدكتور احمد امين,شارع عبد القادر حمزه,شارع مربع بلوكات 1186,شارع معمل التكرير,"In the Cairo area, which road directly reaches شارع خلف المرور?",D
+387,شارع الوفاء و الامل,شارع الدويدار,شارع المماليك,إمتداد شارع ابو داوود الظاهري,"In the Cairo area, which road directly reaches شارع جوهر القائد?",C
+388,شارع الخليج المصري,شارع عبد المجيد اللبان,محور المشير محمد على فهمي,محور سعد زغلول,"In the Cairo area, which road directly reaches شارع الوالي?",A
+389,شارع 6,شارع العامل الاول,شارع جوزيف تيتو,طريق المقطم,"In the Cairo area, which road directly reaches كوبري امبابه?",B
+390,شارع الحجاز,شارع البطراوي,شارع هارون الرشيد,شارع عثمان بن عفان,"In the Cairo area, which road cannot directly reach شارع اسماعيل رمزى?",B
+391,شارع الجمهوريه,طريق القناطر,شارع ترعه الزمر,شارع السودان,"In the Cairo area, which road directly reaches شارع على بن ابى طالب?",C
+392,شارع المنيل,شارع ترعه الزمر,شارع حسن افلاطون,شارع احمد زكي,"In the Cairo area, which road directly reaches شارع عمارة الاسمنت?",B
+393,شارع عماد الدين,شارع كورنيش النيل,شارع ولى العهد,شارع جامعه الدول العربيه الجانبي,"In the Cairo area, which road directly reaches شارع 6?",B
+394,شارع نوبار,كوبري غمره,شارع منصور,شارع القصر العيني,"In the Cairo area, which road cannot directly reach شارع محمد عز العرب?",B
+395,شارع ترعه الجبل,شارع الطوبجى,شارع خاتم المرسلين,شارع محمد نجيب,"In the Cairo area, which road directly reaches كوبري الطاهره?",A
+396,شارع أبو بكر الصديق,شارع ابو داوود الظاهري,ميدان الجمهوريه,شارع النزهه,"In the Cairo area, which road directly reaches شارع نبيل الوقاد?",D
+397,شارع منصور,شارع 9,محور احمد عرابى,شارع عثمان محرم,"In the Cairo area, which road directly reaches شارع محمد محمود?",A
+398,شارع سنان باشا,شارع محطة الزيتون,شارع ترعه الجبل,شارع ترعه عبد العال 2,"In the Cairo area, which road cannot directly reach شارع الزيتون?",D
+399,شارع سنان باشا,شارع جلال الدين الحمامصى,شارع ابن الحكم,شارع العزيز بالله,"In the Cairo area, which road cannot directly reach شارع طومان باى?",B
+400,كوبرى ميدان الاميريه,شارع شنن,نفق الدمرداش,كوبري العزيز بالله,"In the Cairo area, which road directly reaches شارع وابور الترجمان?",B
+401,"طريق القاهرة, الاسماعيليه الزراعى","طريق القاهره, اسكندريه الزراعى القديم",شارع الخليفه المأمون,شارع الروضة,"In the Cairo area, which road directly reaches شارع سراي الزعفران?",C
+402,شارع على باشا ابراهيم,شارع الميثاق,كوبري الملك الصالح,شارع محمد مبروك,"In the Cairo area, which road directly reaches شارع الشيخ علي يوسف?",A
+403,شارع السلطان حسن,كوبري سراي القبه,شارع السكه البيضاء,شارع حلوان,"In the Cairo area, which road directly reaches شارع اسماعيل سري?",D
+404,شارع محمد عز العرب,شارع منصور,شارع عبد المنعم الصاوي,شارع اسماعيل سري,"In the Cairo area, which road cannot directly reach شارع حلوان?",C
+405,شارع المدارس,شارع الشيخ محمد غراب,شارع المستشار مجدى سليم,شارع عثمان احمد عثمان,"In the Cairo area, which road cannot directly reach طريق سقاره السياحى?",B
+406,شارع مساكن صقر قريش,شارع الشهيد احمد المنسى,شارع محطة الزيتون,شارع محطه القبه,"In the Cairo area, which road cannot directly reach شارع احمد سمير الصاوي?",A
+407,شارع على بن ابى طالب,شارع محطة الزيتون,شارع اسماعيل القباني,شارع محمد صديق المنشاوى,"In the Cairo area, which road directly reaches شارع محطه القبه?",B
+408,"طريق القاهرة, الاسماعيليه الزراعى",شارع عبد العزيز الشناوى,شارع ترسا,شارع الجامعة الحديثة,"In the Cairo area, which road directly reaches شارع صلاح الدين الايوبي?",D
+409,شارع الدويدار,شارع منشيه الصدر,شارع مصر و السودان,كوبرى الكابلات,"In the Cairo area, which road cannot directly reach شارع حدائق القبة?",D
+410,شارع الدكتور حندوسه,شارع ابراهيم اللقاني,شارع النجار,شارع جسر البحر,"In the Cairo area, which road directly reaches شارع دانشواي?",D
+411,شارع عبد العزيز آل سعود,كوبرى الشرقاويه العلوى,شارع المنيل,شارع الروضة,"In the Cairo area, which road cannot directly reach شارع الملك الصالح?",B
+412,شارع عمر بن الخطاب,شارع محسن محمود,شارع انقره,شارع كلوت بك,"In the Cairo area, which road directly reaches ميدان العتبه?",D
+413,شارع داير الناحيه,شارع الجيش,شارع علي باشا اللاله,شارع جزيره محمد,"In the Cairo area, which road cannot directly reach شارع ترعه السواحل?",C
+414,شارع سعد سليم,شارع الملك عبد العزيز آل سعود,شارع كلوت بك,شارع جزيره محمد,"In the Cairo area, which road directly reaches طريق امبابه القناطر الزراعى?",D
+415,شارع ولى العهد,شارع عبد المنعم الصاوي,شارع المطار,شارع احمد فؤاد,"In the Cairo area, which road directly reaches شارع الشيخ غراب?",A
+416,شارع على بن ابى طالب,امتداد شارع فلسطين,محور 3 يوليو,طريق كفر طهرمس,"In the Cairo area, which road directly reaches شارع عبد السلام?",D
+417,شارع محمود سلام,شارع اساس الهجانه,شارع عبد السلام,طريق كفر طهرمس,"In the Cairo area, which road cannot directly reach شارع ال محمد بن حمد ال ثان?",B
+418,شارع حلمى محمد حسن,شارع محمد عز العرب,شارع فتحي النجار,طريق المقطم,"In the Cairo area, which road directly reaches شارع جامعه الدول العربيه الجانبي?",A
+419,شارع أحمد إسماعيل,شارع بورسعيد,شارع سكة المحجر,شارع سامي البارودي,"In the Cairo area, which road directly reaches شارع يوسف السباعي?",B
+420,شارع الخرطه الجديده,شارع الشركات,شارع بورسعيد,شارع مجمع المصانع,"In the Cairo area, which road cannot directly reach شارع كسارات البلدية?",A
+421,شارع منشيه التحرير,شارع 15 مايو,شارع المدينه المنوره,كوبرى المنيل,"In the Cairo area, which road directly reaches طريق بيجام?",B
+422,طريق بيجام,شارع المستشفى اليوناني,شارع محمد نجيب,شارع 101,"In the Cairo area, which road directly reaches شارع 15 مايو?",A
+423,شارع ابراهيم,شارع دار السلام,شارع نزيه خليفه,شارع بيروت,"In the Cairo area, which road cannot directly reach شارع دمشق?",B
+424,كوبري البعوث,شارع عبد القادر حمزه,امتداد شارع ولي العهد,إمتداد شارع ابو داوود الظاهري,"In the Cairo area, which road directly reaches شارع مجمع التحرير?",B
+425,شارع كورنيش النيل,شارع المقطم,محور الدكتوره سميره موسى,شارع الناصريه,"In the Cairo area, which road directly reaches شارع عبد القادر حمزه?",A
+426,شارع 26 يوليو,شارع الترعه البولاقيه,شارع رمسيس,نفق الملك الصالح,"In the Cairo area, which road cannot directly reach شارع عرابي?",D
+427,شارع كارفور,شارع دانشواي,شارع الفريق محمد شكرى,شارع 216,"In the Cairo area, which road directly reaches ميدان النصر?",D
+428,كوبري والى,شارع محمد صبري ابو علم,شارع عدلي,شارع عبد الخالق ثروت,"In the Cairo area, which road cannot directly reach شارع شريف باشا?",A
+429,شارع التحرير,شارع العروبه,شارع كورنيش النيل,شارع شارل ديجول,"In the Cairo area, which road cannot directly reach ميدان الجلاء?",B
+430,شارع غرناطه,شارع دمشق,شارع فاطمه بنت مبارك,شارع بغداد,"In the Cairo area, which road cannot directly reach شارع ابراهيم?",C
+431,شارع بغداد,شارع البنك,شارع الحجاز,شارع دمشق,"In the Cairo area, which road cannot directly reach شارع نزيه خليفه?",B
+432,شارع شركه المعادي,شارع احسان عبد القدوس,شارع احمد بن حنبل,شارع احمد تيسير,"In the Cairo area, which road directly reaches شارع الشهيد احمد زكي?",B
+433,شارع الشهيد احمد زكي,شارع دوليتان,شارع صلاح سالم,شارع الخليفه المأمون,"In the Cairo area, which road cannot directly reach شارع احسان عبد القدوس?",B
+434,امتداد شارع مكرم عبيد,شارع السيد الميرغنى,شارع البنك,شارع عمر بن الخطاب,"In the Cairo area, which road cannot directly reach شارع حسن افلاطون?",B
+435,شارع الشيخ ريحان,شارع عدلي,شارع السلطان حسن,شارع بورسعيد,"In the Cairo area, which road cannot directly reach شارع سكه راتب باشا الكبير?",B
+436,شارع علي باشا اللاله,شارع مريت باشا,شارع عبد الخالق ثروت,شارع محمود بسيوني,"In the Cairo area, which road cannot directly reach شارع شمبليون?",A
+437,شارع شمبليون,شارع الثوره الجانبى,شارع الجمهوريه,شارع محمد فريد,"In the Cairo area, which road cannot directly reach شارع عبد الخالق ثروت?",B
+438,شارع جامعه القاهره,ميدان التحرير,شارع شمبليون,محور 26 يوليو,"In the Cairo area, which road directly reaches شارع محمود بسيوني?",C
+439,شارع بورسعيد,شارع القلعه,شارع الجمهوريه,شارع مجلس المدينه,"In the Cairo area, which road cannot directly reach شارع سامي البارودي?",D
+440,شارع نوبار,شارع ترعه الزمر,شارع القصر الجمهوري,شارع العروبه,"In the Cairo area, which road directly reaches شارع الشهيد جابر صلاح جابر?",A
+441,شارع الشيخ امام,شارع الجبلايه,شارع ترعه الجبل,شارع البنهاوي,"In the Cairo area, which road directly reaches شارع ابو الفدا?",B
+442,شارع الجزيره,شارع البرازيل,شارع ابو الفدا,شارع المنصوريه,"In the Cairo area, which road cannot directly reach شارع الجبلايه?",D
+443,شارع 26 يوليو,شارع القصر الجمهوري,شارع محمد متولي الشعراوي,شارع هارون الرشيد,"In the Cairo area, which road directly reaches شارع البرازيل?",A
+444,شارع النزهه,شارع محمد نجيب,شارع جامعه الدول العربيه,شارع النيل الابيض,"In the Cairo area, which road directly reaches شارع عبد المنعم الصاوي?",D
+445,شارع سبيل الخازنداره,شارع الخليفه المأمون,محور المشير محمد على فهمي,شارع والي,"In the Cairo area, which road directly reaches شارع الفردوس?",A
+446,شارع المماليك البحريه,شارع رمسيس,شارع الخليفه المأمون,شارع احمد سعيد,"In the Cairo area, which road cannot directly reach شارع العباسيه?",A
+447,ميدان الظاهر,شارع مجمع المصانع,شارع المستشفى اليوناني,شارع الخلاء,"In the Cairo area, which road directly reaches شارع احمد فؤاد عبد العزيز?",C
+448,طريق العين سخنة القديم,شارع احمد حسن,شارع باب الوزير,شارع النزهه,"In the Cairo area, which road directly reaches شارع سكة المحجر?",C
+449,شارع الدكتور محمود فتحي,شارع شارل ديجول,شارع حسن الانوار القبلي,شارع وادي دجله,"In the Cairo area, which road directly reaches شارع الزهور?",D
+450,شارع داير الناحيه الجنوبى,شارع الزهور,كوبري الفنجري,كوبري عبد العزيز آل سعود,"In the Cairo area, which road directly reaches شارع وادي دجله?",B
+451,شارع 257,شارع الشركات,شارع شبرا,شارع البنك,"In the Cairo area, which road cannot directly reach شارع احمد بدوي?",A
+452,شارع الشهيد كيلاني محمد كيلاني,شارع كوبري امبابه,شارع حسن افلاطون,شارع احمد بدوي,"In the Cairo area, which road cannot directly reach شارع البنك?",B
+453,شارع النزهه,شارع البرازيل,شارع ابن الحكم,شارع البطل احمد عبد العزيز,"In the Cairo area, which road directly reaches شارع الشهيد كيلاني محمد كيلاني?",A
+454,شارع مجمع المصانع,شارع النهضه,شارع دار السلام,شارع ترسا,"In the Cairo area, which road directly reaches شارع احمد زكي?",C
+455,شارع خالد بن الوليد,شارع جوزيف تيتو,شارع 216,شارع الشيخ علي يوسف,"In the Cairo area, which road directly reaches شارع 206?",C
+456,شارع عزبه الصفيح,شارع عبد العزيز,شارع محمد فريد,شارع الجمهوريه,"In the Cairo area, which road cannot directly reach شارع رشدي باشا?",A
+457,شارع شريف باشا,شارع ابراهيم اللقاني,شارع مكرم عبيد,محور جمال عبد الناصر,"In the Cairo area, which road directly reaches شارع محمد صبري ابو علم?",A
+458,ميدان التحرير,شارع الشهيد احمد المنسى,شارع الدكتور حندوسه,شارع على باشا ابراهيم,"In the Cairo area, which road cannot directly reach شارع القصر العيني?",B
+459,شارع شريف باشا,شارع محمد فريد,شارع محمد السباعى,شارع طلعت حرب,"In the Cairo area, which road cannot directly reach شارع عدلي?",C
+460,شارع ابراهيم شوقي,شارع مجري العيون,شارع خيرت,شارع المدرسه,"In the Cairo area, which road directly reaches شارع بيرم التونسي?",B
+461,شارع دكتور اشرف البدري,شارع الدكتور ابراهيم ابو النجا,شارع الملك منصور عثمان,شارع الفردوس,"In the Cairo area, which road directly reaches شارع الظافر برقوق?",C
+462,طريق النصر,شارع القصر العيني,شارع الظافر برقوق,شارع صلاح سالم,"In the Cairo area, which road cannot directly reach شارع الملك منصور عثمان?",B
+463,كوبرى المنيل,شارع 153,شارع كورنيش النيل,شارع المنيل,"In the Cairo area, which road cannot directly reach شارع متحف المنيل?",B
+464,طريق المقطم,شارع النجار,شارع القصر العيني,شارع الشيخ علي يوسف,"In the Cairo area, which road cannot directly reach شارع على باشا ابراهيم?",A
+465,شارع عبد السلام عارف - البستان سابقا,شارع كورنيش النيل,شارع الملك عبد العزيز آل سعود,شارع القصر العيني,"In the Cairo area, which road cannot directly reach شارع الدكتور حندوسه?",A
+466,شارع متحف المنيل,شارع ابو داوود الظاهري,شارع الترعه الحفريه,كوبرى الجيش المصرى,"In the Cairo area, which road directly reaches كوبرى المنيل?",A
+467,كوبرى الحجاز,كوبري غمره,ميدان الظاهر,شارع كامل صدقي,"In the Cairo area, which road cannot directly reach شارع الظاهر?",A
+468,شارع رمسيس,شارع الجمهوريه,شارع الظاهر,شارع كسارات البلدية,"In the Cairo area, which road cannot directly reach شارع كامل صدقي?",D
+469,شارع جوهر القائد,شارع الاهرام,شارع الظاهر,شارع عبد المنعم رياض,"In the Cairo area, which road directly reaches كوبري غمره?",C
+470,كوبرى الشرقاويه العلوى,شارع شبين,كوبري عرابي,شارع صعب صالح,"In the Cairo area, which road directly reaches شارع سليم الاول?",D
+471,شارع صعب صالح,شارع عبد السلام,شارع أحمد إسماعيل,شارع عين شمس,"In the Cairo area, which road cannot directly reach شارع احمد عصمت?",B
+472,شارع السبتيه,شارع جمال عبد الناصر,شارع احمد عرابي,شارع عبد الحميد لطفي,"In the Cairo area, which road directly reaches شارع ابو الفتوح عبد الله?",C
+473,شارع مدحت نور,شارع محطة الزيتون,شارع خالد بن الوليد,شارع ابو حبشى,"In the Cairo area, which road directly reaches شارع محطه الزيتون?",B
+474,شارع اساس الهجانه,شارع الفريق محمد شكرى,شارع 151,شارع الشهيد احمد المنسى,"In the Cairo area, which road directly reaches كوبري العزيز بالله?",D
+475,شارع احمد سمير الصاوي,كوبري العزيز بالله,شارع العريف عبد المنعم,شارع سنان باشا,"In the Cairo area, which road cannot directly reach شارع الشهيد احمد المنسى?",C
+476,شارع جسر السويس,شارع أحمد إسماعيل,شارع 34,شارع المصرف,"In the Cairo area, which road cannot directly reach شارع منشيه التحرير?",D
+477,شارع كسارات البلدية,شارع ترعه عبد العال 2,شارع الشهيد فريد سميكه,شارع الامام,"In the Cairo area, which road directly reaches شارع قصر الشمع?",D
+478,شارع جوزيف تيتو الجانبي,شارع الضغط العالى,شارع ترعه الزمر,شارع 101,"In the Cairo area, which road directly reaches شارع 153?",D
+479,كوبرى يوسف عباس,شارع خالد بن الوليد,شارع الصبان,شارع 9,"In the Cairo area, which road directly reaches شارع المقطم?",D
+480,شارع عمر المختار,شارع اسماعيل رمزى,شارع لبنان,ميدان باب الشعريه,"In the Cairo area, which road directly reaches شارع المصانع 3?",A
+481,شارع السواح,كوبرى الحجاز,شارع ابو الفدا,شارع داير الناحيه الشرقى,"In the Cairo area, which road directly reaches شارع المطريه?",A
+482,شارع المصرف,شارع الفسطاط,ميدان تريومف,شارع كورنيش الاهرام,"In the Cairo area, which road directly reaches محور ناهيا?",A
+483,شارع ترعه عبد العال 2,محور طه حسين,شارع خاتم المرسلين,شارع صلاح الدين الايوبي,"In the Cairo area, which road directly reaches شارع محمد السباعى?",B
+484,كوبرى المستشار ممدوح مرعي,محور عدلى منصور,شارع البنهاوي,طريق مسطرد القديم,"In the Cairo area, which road directly reaches شارع طه حسين?",D
+485,شارع كورنيش الاهرام,شارع وزاره الزراعه,شارع محطه حلميه الزيتون,شارع جزيره بدران,"In the Cairo area, which road directly reaches شارع علي باشا اللاله?",C
+486,شارع ناهيا,شارع السواح,شارع غرب السكه الحديد,شارع العباسيه,"In the Cairo area, which road directly reaches شارع درويش العربي?",B
+487,كوبري محور المنيب,شارع ارض اللواء,"طريق القاهرة, الاسكندرية الزراعى",شارع ترعه الحفريه,"In the Cairo area, which road cannot directly reach محور الفريق كمال عامر?",C
+488,شارع البراجيل,شارع الكردى,شارع الزيتون,شارع جوزيف تيتو,"In the Cairo area, which road directly reaches شارع جوزيف تيتو الجانبي?",D
+489,شارع اللواء جمال اللبان,شارع الشهيد كيلاني محمد كيلاني,شارع 9,شارع عين الصيره,"In the Cairo area, which road cannot directly reach شارع الخيالة?",B
+490,شارع يوسف عباس,شارع قصر الشمع,شارع الشهيد احمد زكي,شارع سوق السيارات,"In the Cairo area, which road directly reaches كوبرى يوسف عباس?",A
+491,كوبري عبد العزيز آل سعود,شارع الشيخ العناني,شارع الزهراء,شارع محمد متولي الشعراوى,"In the Cairo area, which road directly reaches شارع محطه الدمرداش?",B
+492,شارع سنان باشا,شارع الشيخ علي عيسي,شارع السيده نفيسه,شارع دار السلام,"In the Cairo area, which road directly reaches شارع منشيه الصدر?",B
+493,امتداد شارع مكرم عبيد,شارع البنك,شارع النزهه,شارع ابو حبشى,"In the Cairo area, which road cannot directly reach شارع العريف عبد المنعم?",D
+494,شارع عين الحياه,شارع انس ابن مالك,شارع الخاصه,شارع التحرير,"In the Cairo area, which road directly reaches شارع صفط اللبن?",D
+495,شارع الشيخ محمد غراب,شارع الزهور,شارع صفط اللبن,شارع الليثى,"In the Cairo area, which road directly reaches شارع الدكتور على مصطفى مشرفه?",C
+496,شارع كسارات البلدية,شارع الشيخ علي عيسي,كوبري والى,محور جمال عبد الناصر,"In the Cairo area, which road directly reaches شارع محمد صديق المنشاوى?",D
+497,شارع المقريزي,شارع ترعه الجندي,شارع الجلاء,شارع 101,"In the Cairo area, which road directly reaches شارع التعاون?",C
+498,شارع اكاديمية السادات,شارع 306,شارع جسر السويس,شارع بورسعيد,"In the Cairo area, which road directly reaches شارع العزيز بالله?",C
+499,شارع طومان باى,شارع نبيل الوقاد,شارع محطة الزيتون,شارع الشهيد احمد المنسى,"In the Cairo area, which road cannot directly reach شارع سنان باشا?",B
+500,شارع المنيل,شارع المهندس محمود عبد المنعم,شارع النجار,شارع 101,"In the Cairo area, which road directly reaches شارع محمد صدقي الشافعي?",A
+501,شارع الرياضة,شارع ابراهيم شوقي,نفق الازهر,شارع عباس العقاد,"In the Cairo area, which road cannot directly reach شارع البطراوي?",C
+502,شارع خلف المرور,شارع الخلاء,شارع عزيز صدقى,شارع حسن الانوار القبلي,"In the Cairo area, which road directly reaches طريق القاهرة, الاسماعيليه الزراعى?",C
+503,شارع كارفور,شارع عطيه الصوالحى,شارع مساكن الشركات,شارع الوالي,"In the Cairo area, which road directly reaches شارع عزيز صدقى?",C
+504,شارع المشير احمد اسماعيل,شارع الخليفه المأمون,شارع الشهيد احمد زكي,طريق النصر,"In the Cairo area, which road cannot directly reach شارع اسماعيل الفنجري?",A
+505,شارع متحف المنيل,شارع الرقيبه,شارع احمد فؤاد,شارع الدكتور حندوسه,"In the Cairo area, which road directly reaches شارع الملك عبد العزيز آل سعود?",D
+506,شارع عثمان محرم,شارع المنيل,شارع البطراوي,ميدان الظاهر,"In the Cairo area, which road directly reaches شارع المماليك البحريه?",B
+507,شارع شبرا,شارع 26 يوليو,"طريق القاهرة, السويس",شارع مساكن القناة,"In the Cairo area, which road directly reaches محور 26 يوليو?",B
+508,شارع صلاح الدين الايوبي,شارع بولاق الجديد,شارع صلاح سالم,شارع ترعه القبه,"In the Cairo area, which road directly reaches شارع منظمه الوحده الافريقيه?",C
+509,شارع حدائق القبة,ميدان الأوبرا,نفق الازهر,شارع الازهر,"In the Cairo area, which road cannot directly reach كوبري الازهر?",A
+510,كوبري الزاويه,كوبري سراي القبه,شارع الخليج المصري,شارع المصانع 3,"In the Cairo area, which road cannot directly reach شارع سكه الوايلي?",D
+511,شارع كورنيش النيل,طريق القناطر,كوبرى الليمون,كوبرى الشرقاويه العلوى,"In the Cairo area, which road cannot directly reach طريق القاهرة, الاسكندرية الزراعى?",C
+512,شارع ولى العهد,شارع محمد مهدي عرفه,طريق مسطرد القديم,شارع عين الحياه,"In the Cairo area, which road directly reaches شارع خالد درويش?",C
+513,شارع وادى النيل,نفق وادي النيل,شارع عزيز صدقى,شارع الصليبة,"In the Cairo area, which road directly reaches شارع مساكن الشركات?",C
+514,شارع الشيخ العناني,شارع القبه,شارع احمد عرابى,شارع الطيران,"In the Cairo area, which road directly reaches شارع النيل الابيض?",C
+515,شارع عين الصيره,شارع محمد متولي الشعراوى,شارع الوالي,شارع محطه الزيتون,"In the Cairo area, which road directly reaches شارع الزبيدي?",A
+516,شارع مجد الاسلام,شارع المسابك,شارع شبرا,شارع مدخل القاهرة,"In the Cairo area, which road cannot directly reach شارع سعد سليم?",B
+517,شارع احمد بدوي,شارع العريف عبد المنعم,طريق النصر,شارع الشيخ العناني,"In the Cairo area, which road cannot directly reach امتداد شارع مكرم عبيد?",D
+518,شارع شيخون,شارع المشتل,شارع مربع بلوكات 1186,"طريق القاهرة, اسيوط الزراعى","In the Cairo area, which road directly reaches طريق قرية منيل شيحه, مدينه الحوامديه?",D
+519,شارع منشيه التحرير,شارع الشهيد بهجت حسن,"طريق قرية منيل شيحه, مدينه الحوامديه",ميدان النصر,"In the Cairo area, which road directly reaches طريق القاهرة, اسيوط الزراعى?",C
+520,شارع سكه الوايلي,شارع عمارة الاسمنت,شارع عمار بن ياسر,شارع السبتيه,"In the Cairo area, which road directly reaches شارع البراجيل?",B
+521,شارع العباسيه,شارع المركز الطبى,شارع محمد السباعى,شارع ترعه عبد العال 1,"In the Cairo area, which road directly reaches شارع الصحابه?",D
+522,شارع جسر السويس,شارع عدلي,كوبري ترسا,شارع بورسعيد,"In the Cairo area, which road directly reaches شارع الصبان?",D
+523,محور حسب الله الكفراوى,كوبرى الاربعين,شارع الفسطاط,شارع الاربعين,"In the Cairo area, which road directly reaches شارع مساكن القناة?",A
+524,شارع سامي البارودي,شارع ترعه الاسماعيليه,كوبري الاميريه,طريق مسطرد القديم,"In the Cairo area, which road cannot directly reach شارع شركات البترول?",A
+525,شارع احمد الزمر,شارع مصطفي النحاس,كوبرى كنيسه الرشاح,شارع الدكتور محمود فتحي,"In the Cairo area, which road cannot directly reach شارع دكتور حسن الشريف?",C
+526,شارع السبتيه,شارع الثوره الجانبى,شارع طومان باى,شارع عماد الدين,"In the Cairo area, which road directly reaches كوبرى الليمون?",A
+527,كوبري الزهراء,شارع حسين كامل,شارع فتحي النجار[طلعة البراجيل],شارع اللاسلكي,"In the Cairo area, which road directly reaches شارع الخرطه الجديده?",A
+528,شارع الخرطه الجديده,شارع دار السلام,شارع نادى الرمايه,شارع المنتزه,"In the Cairo area, which road cannot directly reach كوبري الزهراء?",D
+529,شارع المماليك,شارع نجيب الريحاني,شارع احسان عبد القدوس,شارع محمد صبري ابو علم,"In the Cairo area, which road directly reaches شارع عماد الدين?",B
+530,شارع 6 اكتوبر,شارع السنترال,ميدان النهضة,شارع مريت باشا,"In the Cairo area, which road directly reaches شارع ترعه السرو?",A
+531,شارع عرابي,شارع الطريق الدائرى,كوبري التجنيد,شارع كورنيش النيل,"In the Cairo area, which road directly reaches شارع سكة حديد الصوامع?",D
+532,شارع الطيران,امتداد شارع رمسيس,طريق بيجام,شارع خلوصي,"In the Cairo area, which road directly reaches طريق اعمار?",B
+533,شارع محمد مهدي عرفه,شارع الثوره الجانبى,شارع الرقيبه,شارع جامع عمرو,"In the Cairo area, which road directly reaches شارع حسن الانوار القبلي?",D
+534,كوبرى مسجد السلام,شارع حسن الانوار القبلي,كوبري الفنجري,كوبري العاشر من رمضان,"In the Cairo area, which road directly reaches نفق الملك الصالح?",B
+535,امتداد شارع ولي العهد,شارع مساكن القناة,شارع الناصريه,شارع لطفي السيد,"In the Cairo area, which road directly reaches نفق الدمرداش?",D
+536,شارع دكتور محمود صالح ابو زيد,طريق القناطر,شارع محمد صبري ابو علم,شارع مصر و السودان,"In the Cairo area, which road directly reaches شارع الشهيد بهجت حسن?",D
+537,شارع منشيه التحرير,محور 26 يوليو,شارع المصانع,شارع داير الناحيه الجنوبى,"In the Cairo area, which road directly reaches شارع جسر الكنيسة?",D
+538,شارع احمد عرابى,شارع البراجيل,امتداد شارع ولي العهد,الطريق الدائري,"In the Cairo area, which road cannot directly reach شارع فتحي النجار[طلعة البراجيل]?",C
+539,شارع شارل ديجول,شارع سمير عبد الرؤوف,شارع الشهيد بهجت حسن,شارع البصراوى,"In the Cairo area, which road directly reaches شارع انس ابن مالك?",A
+540,شارع المدرسه الفنيه,ميدان الجلاء,شارع السرايا,شارع عبد السلام عارف,"In the Cairo area, which road cannot directly reach شارع شارل ديجول?",A
+541,شارع الورش,شارع مساكن صقر قريش,شارع 216,شارع احمد الزمر,"In the Cairo area, which road cannot directly reach شارع سوق السيارات?",C
+542,كوبرى الاربعين,شارع الطيران,شارع الشهيد فريد سميكه,شارع الاشراف,"In the Cairo area, which road directly reaches كوبرى ميدان الحجاز?",C
+543,شارع النادي الجديد,شارع 151,شارع الشهيد احمد المنسى,شارع عبد الحميد بدوى,"In the Cairo area, which road directly reaches شارع عمار بن ياسر?",D
+544,شارع نخله المطيعى,شارع النزهه,شارع البوهي,شارع عثمان بن عفان,"In the Cairo area, which road cannot directly reach ميدان تريومف?",C
+545,شارع مجلس المدينه,شارع المطار,شارع مجمع المصانع,شارع سبيل الخازنداره,"In the Cairo area, which road directly reaches محور احمد عرابى?",B
+546,شارع اللاسلكي,شارع الاقصر,شارع شركه المعادي,شارع احمد عرابى,"In the Cairo area, which road directly reaches كوبري احمد عرابى?",D
+547,شارع الثوره الجانبى,شارع الحجاز,شارع جوزيف تيتو,ميدان الاسماعيليه,"In the Cairo area, which road directly reaches كوبرى الحجاز?",B
+548,شارع داير الناحيه,شارع عبد الله العربى,شارع الدكتور ابراهيم ابو النجا,شارع ابو العتاهيه,"In the Cairo area, which road cannot directly reach شارع ذاكر حسين?",A
+549,شارع ابو العتاهيه,شارع الوفاء و الامل,شارع احمد حلمي,ميدان الجلاء,"In the Cairo area, which road directly reaches شارع مجلس المدينه?",C
+550,شارع الشيخ محمد غراب,شارع عزت محمد سليم,شارع البحر الاعظم,شارع شبين,"In the Cairo area, which road directly reaches شارع حسين كامل?",B
+551,شارع السد البراني,شارع خضر التوني,شارع محمد عز العرب,شارع حسين كامل,"In the Cairo area, which road directly reaches شارع عزت محمد سليم?",D
+552,شارع صلاح سالم الجديد,شارع اللاسلكي,ميدان الأوبرا,شارع عمر بن الخطاب,"In the Cairo area, which road directly reaches شارع المفتشين?",D
+553,شارع 306,شارع سور دار الدفاع الجوي,شارع مجلس الشعب,شارع السيد الميرغنى,"In the Cairo area, which road directly reaches كوبرى السبع عمارات?",D
+554,شارع محمد فريد,كوبري العزيز بالله,شارع محمد متولي الشعراوى,شارع التحرير,"In the Cairo area, which road directly reaches ميدان الجمهوريه?",D
+555,شارع البنهاوي,شارع الشيخ امام,شارع النافوره,شارع يوسف عباس,"In the Cairo area, which road directly reaches شارع خضر التوني?",D
+556,ميدان الظاهر,شارع وابور الترجمان,شارع محمد فريد,شارع مصنع الفيروز,"In the Cairo area, which road directly reaches ميدان قشتمر?",A
+557,محور الفريق كمال عامر,شارع منشيه الصدر,شارع صلاح سالم الجديد,امتداد شارع رمسيس,"In the Cairo area, which road directly reaches كوبرى العباسيه?",D
+558,شارع الوفاء و الامل,شارع عزبه الصفيح,كوبري مسطرد,شارع سكه راتب باشا الكبير,"In the Cairo area, which road directly reaches شارع السلطان حسن?",D
+559,"طريق القاهره, اسكندريه الزراعى القديم",شارع هارون الرشيد,ميدان مسجد الفاروق,شارع الروضة,"In the Cairo area, which road directly reaches كوبري المظلات?",A
+560,شارع النصر,ميدان الأوبرا,ميدان عبد المنعم رياض,طريق كفر طهرمس,"In the Cairo area, which road directly reaches شارع دكتور محمد محب زكى?",A
+561,كوبري الازهر,شارع ترعه الزمر الغربيه,شارع يوسف عباس,شارع الشهيد بهجت حسن,"In the Cairo area, which road directly reaches نفق الطيران?",C
+562,شارع احمد فخري,شارع عباس العقاد,شارع مكرم عبيد,شارع خالد درويش,"In the Cairo area, which road cannot directly reach شارع عبد الرزاق السنهوري?",D
+563,شارع اسماعيل رمزى,كوبرى جوزيف تيتو,"طريق القاهرة, الاسكندرية الزراعى",شارع ابو داوود الظاهري,"In the Cairo area, which road directly reaches شارع احمد فخري?",D
+564,شارع احمد فخري,شارع مكرم عبيد,شارع حسن مأمون,شارع ابو داوود الظاهري,"In the Cairo area, which road cannot directly reach شارع ابو داوود الظاهري?",D
+565,شارع الخيالة,كوبرى متحف الحضاره,شارع نجاتي سراج,شارع المطار,"In the Cairo area, which road directly reaches شارع عبد الحميد لطفي?",C
+566,شارع ابو الفتوح عبد الله,شارع جمال سليم,شارع عبد الحميد لطفي,كوبرى دكتور كمال الجنزوري,"In the Cairo area, which road directly reaches شارع سمير عبد الرؤوف?",C
+567,كوبرى العباسيه,شارع سمير عبد الرؤوف,طريق ترعه البكباشي,شارع مراد,"In the Cairo area, which road directly reaches شارع عطيه الصوالحى?",B
+568,شارع عمر بن الخطاب,امتداد شارع مكرم عبيد,شارع عثمان احمد عثمان,شارع البنك,"In the Cairo area, which road cannot directly reach شارع الامداد و التموين?",C
+569,شارع مجلس المدينه,شارع شركه المعادي,امتداد شارع مكرم عبيد,شارع 250,"In the Cairo area, which road directly reaches شارع فاطمه بنت مبارك?",C
+570,شارع الترعه الشرقي,شارع الوالي,شارع بيروت,شارع عبد الحميد لطفي,"In the Cairo area, which road directly reaches شارع نجاتي سراج?",D
+571,شارع ترسا,شارع مساكن الشروق,شارع ابو بكر الصديق,شارع الشهيد محمد مصطفى كاريكا,"In the Cairo area, which road cannot directly reach شارع المطافي?",A
+572,شارع الشهيد محمد مصطفى كاريكا,شارع حسن مأمون,شارع الساحه,شارع الضغط العالى,"In the Cairo area, which road cannot directly reach إمتداد شارع ابو داوود الظاهري?",D
+573,شارع البحث الجنائي,شارع دكتور اشرف البدري,شارع كسارات البلدية,شارع النصر,"In the Cairo area, which road cannot directly reach طريق النصر الجانيى?",C
+574,شارع انس ابن مالك,ميدان باب الشعريه,كوبرى 15 مايو,شارع النزهه,"In the Cairo area, which road directly reaches كوبري النزهه?",D
+575,شارع درويش العربي,شارع عباس العقاد,شارع مكرم عبيد,شارع دكتور حسن الشريف,"In the Cairo area, which road cannot directly reach شارع مصطفي النحاس?",A
+576,شارع مصطفي النحاس,شارع علي امين,شارع الخليفه المأمون,شارع البطراوي,"In the Cairo area, which road cannot directly reach شارع عباس العقاد?",C
+577,محور سعد زغلول,شارع العروبه,شارع رشدي باشا,كوبرى ميدان الاميريه,"In the Cairo area, which road directly reaches شارع عبد العزيز?",C
+578,كوبري امبابه,شارع المطريه,شارع دكتور محمود صالح ابو زيد,شارع احمد فؤاد عبد العزيز,"In the Cairo area, which road directly reaches شارع المستشفى اليوناني?",D
+579,شارع نادى امبابه الرياضى,شارع محمد مبروك,شارع صفط اللبن,شارع ابن الحكم,"In the Cairo area, which road directly reaches كوبرى ميدان ابن الحكم?",D
+580,شارع الترعه الحفريه,شارع اللواء جمال اللبان,شارع جوزيف تيتو,شارع ترعه الاسماعيليه,"In the Cairo area, which road directly reaches كوبري الاميريه?",D
+581,شارع طه حسين,"طريق القاهرة, الاسماعيليه الزراعى",شارع عثمان بن عفان,شارع بورسعيد,"In the Cairo area, which road directly reaches شارع مرفق المياه?",D
+582,شارع احمد بسيوني,شارع ابراهيم شوقي,شارع الترعه البولاقيه,شارع محطة الزيتون,"In the Cairo area, which road directly reaches شارع خلوصي?",C
+583,شارع السيده نفيسه,شارع سنان باشا,شارع مصنع الفيروز,شارع رمسيس,"In the Cairo area, which road directly reaches محور روكسى رمسيس?",D
+584,شارع ترعه والى,شارع مريت باشا,شارع الدقى,شارع العشرين,"In the Cairo area, which road directly reaches كوبرى الدقى?",C
+585,شارع الشهيد بهجت حسن,شارع الخليج المصري,شارع الخليفه المأمون,شارع احمد زويل,"In the Cairo area, which road directly reaches محور صفط اللبن?",D
+586,شارع وادي دجله,شارع الخليفه الظافر,شارع الثانوية الجويه,امتداد شارع رمسيس,"In the Cairo area, which road directly reaches كوبرى 6 أكتوبر?",D
+587,شارع المتحف الزراعى,شارع 15 مايو,شارع عبد الله العربى,طريق الكابتن طيار لطفية النادي,"In the Cairo area, which road directly reaches شارع وزاره الزراعه?",A
+588,شارع ابو الفتوح عبد الله,شارع بهجت الشوربجى,شارع صلاح سالم,نفق العجوزه,"In the Cairo area, which road directly reaches شارع البحر الاعظم?",C
+589,كوبري امبابه,"طريق القاهرة, اسيوط الزراعى",شارع احمد سمير الصاوي,طريق امبابه القناطر الزراعى,"In the Cairo area, which road directly reaches كوبري والى?",B
+590,طريق المقطم,محور روض الفرج,شارع البطل احمد عبد العزيز,شارع شركات البترول,"In the Cairo area, which road directly reaches محور ياسر رزق?",A
+591,شارع مقار,شارع متحف المطريه,طريق كفر طهرمس,شارع الحجاز,"In the Cairo area, which road directly reaches شارع الطوبجى?",A
+592,شارع ابن الحكم,شارع العروبه,طريق النصر,شارع مربع بلوكات 1186,"In the Cairo area, which road cannot directly reach شارع المشير احمد اسماعيل?",A
+593,شارع الجزائر,شارع عبد القادر طه,شارع 9,شارع المسابك,"In the Cairo area, which road directly reaches كوبرى روض الفرج?",B
+594,شارع جسر البحر,كوبرى روض الفرج,شارع الطريق الدائري,شارع كورنيش النيل,"In the Cairo area, which road cannot directly reach شارع عبد القادر طه?",C
+595,شارع خاتم المرسلين,شارع وابور الترجمان,شارع عين شمس,شارع جسر السويس,"In the Cairo area, which road directly reaches محور جسر السويس?",D
+596,شارع اسماعيل الفنجري,شارع جزيره محمد,شارع الساحه,شارع صلاح الدين الغربى,"In the Cairo area, which road directly reaches كوبري سراي القبه?",A
+597,شارع الحريه,شارع ترعه الجندي,شارع المعهد الاشتراكي,شارع جمال عبد الناصر,"In the Cairo area, which road directly reaches كوبرى الحلميه الجديد?",A
+598,شارع شيخون,ميدان الظاهر,شارع شنن,شارع الطريق الدائري,"In the Cairo area, which road directly reaches شارع صلاح الدين الغربى?",A
+599,شارع السيد الميرغنى,شارع الشهيد بهجت حسن,شارع السودان,شارع رشدي باشا,"In the Cairo area, which road directly reaches كوبري الملك فيصل?",C
+600,كوبرى كنيسه الرشاح,كوبري الملك فيصل,شارع حسن الانوار القبلي,شارع فتحي النجار,"In the Cairo area, which road directly reaches كوبرى فيصل?",B
+601,شارع افريقيا,كوبرى بولاق الدكرور,شارع المدرسه الفنيه,إمتداد شارع ابو داوود الظاهري,"In the Cairo area, which road cannot directly reach شارع حسن مأمون?",B
+602,محور الشهيد,شارع عثمان احمد عثمان,شارع الاهرام,شارع ترسا,"In the Cairo area, which road directly reaches شارع الليثى?",C
+603,شارع المشير احمد اسماعيل,شارع ابو الفرج,شارع الصحابه,شارع دوليتان,"In the Cairo area, which road directly reaches شارع سيد عويس?",A
+604,شارع محسن محمود,شارع 306,شارع المسابك,شارع انس ابن مالك,"In the Cairo area, which road directly reaches شارع شركه المعادي?",B
+605,شارع طلال محمد سعد الله,شارع عثمان بن عفان,شارع الطيران,شارع الشهيد ابراهيم الشيخ,"In the Cairo area, which road directly reaches كوبرى الشهيد هشام بركات?",C
+606,شارع صلاح الدين,شارع جامعه القاهره,شارع محطة الزيتون,شارع عزبه الصفيح,"In the Cairo area, which road directly reaches شارع نهضه مصر?",B
+607,شارع ابراهيم عبد الرازق,شارع صعب صالح,شارع الجيش,شارع المهندس عماد عيسي,"In the Cairo area, which road directly reaches شارع محطة المحولات?",D
+608,طريق القاهرة السويس,شارع مساكن كفر طهرمس,الطريق الدائري,طريق شرق القطامية,"In the Cairo area, which road cannot directly reach طريق العين سخنة القديم?",B
+609,شارع عبد السلام عارف - البستان سابقا,شارع لبنان,كوبري الزهراء,طريق العين سخنة القديم,"In the Cairo area, which road directly reaches طريق شرق القطامية?",D
+610,شارع مدحت نور,شارع سامي البارودي,محور 3 يوليو,شارع علي باشا اللاله,"In the Cairo area, which road directly reaches طريق طره?",C
+611,امتداد شارع فلسطين,طريق طره,كوبري ترسا,شارع السواح,"In the Cairo area, which road directly reaches محور 3 يوليو?",B
+612,كوبرى روض الفرج,شارع محمد مهدي عرفه,شارع علي باشا ذو الفقار,إمتداد شارع ابو داوود الظاهري,"In the Cairo area, which road directly reaches شارع الساحه?",D
+613,شارع احمد بسيوني,شارع العروبه,نفق الدمرداش,شارع عثمان بن عفان,"In the Cairo area, which road directly reaches شارع المحولات?",B
+614,شارع الزهراء,شارع شهاب,شارع رشدي باشا,شارع كورنيش النيل,"In the Cairo area, which road directly reaches كوبرى الملك الصالح?",D
+615,شارع السكه التجاري,شارع الساحه,شارع مكرم عبيد,شارع شارل ديجول,"In the Cairo area, which road directly reaches نفق العجوزه?",D
+616,نفق السبتية,كوبري الجلاء,كوبرى الشهيد هشام بركات,شارع الجيش,"In the Cairo area, which road directly reaches شارع النيل?",B
+617,شارع الثانوية الجويه,شارع سالم سالم,شارع كورنيش النيل,محور المشير طنطاوى,"In the Cairo area, which road directly reaches كوبري الملك الصالح?",C
+618,شارع المدرسه,شارع السيد الميرغنى,طريق بيجام,شارع خضر التوني,"In the Cairo area, which road directly reaches كوبرى الميرغني الجديد?",B
+619,ميدان النصر,شارع حدائق القبة,شارع الحريه,شارع مدخل القاهرة,"In the Cairo area, which road directly reaches كوبري مسطرد?",C
+620,شارع ذاكر حسين,شارع عبد الحميد بدوى,شارع جوزيف تيتو الجانبي,كوبرى جوزيف تيتو,"In the Cairo area, which road cannot directly reach شارع جوزيف تيتو?",A
+621,شارع السواح,طريق طره,محور جسر السويس,طريق ترعه البكباشي,"In the Cairo area, which road directly reaches كوبرى ميدان الاميريه?",A
+622,شارع شبرا,شارع جسر السويس,شارع صلاح الدين الايوبي,شارع الشهيد محمد مصطفى كاريكا,"In the Cairo area, which road directly reaches كوبري التجنيد?",B
+623,شارع ترعه والى,شارع محمد عز العرب,شارع احمد الزين,شارع كورنيش النيل,"In the Cairo area, which road directly reaches كوبري طره?",D
+624,ميدان الجمهوريه,طريق احمد السلاب,شارع 26 يوليو,شارع عمر بن الخطاب,"In the Cairo area, which road directly reaches شارع الفنان صلاح جاهين?",C
+625,شارع عبد العزيز,كوبرى ميدان الحجاز,شارع احمد تيسير,شارع الترعه الحفريه,"In the Cairo area, which road directly reaches شارع خضر التونى?",C
+626,شارع الثوره,شارع الشهيد ابراهيم الشيخ,شارع الشيخ كامل خضر,طريق الكابتن طيار لطفية النادي,"In the Cairo area, which road directly reaches طريق القاهرة, السويس الجانبى?",A
+627,شارع حسن الانوار القبلي,شارع نوبار,كوبري الزهراء,شارع احمد تيسير,"In the Cairo area, which road directly reaches شارع نادى الرمايه?",C
+628,شارع احمد عصمت,شارع المقريزي,شارع معمل الالبان,شارع الساحه,"In the Cairo area, which road directly reaches كوبري ابو وافيه?",C
+629,شارع صلاح سالم الجديد,شارع لطفي السيد,شارع منشيه الجمل,شارع الحجاز,"In the Cairo area, which road directly reaches كوبري الزاويه?",C
+630,شارع وادى النيل,شارع بغداد,شارع مرسى محمود,شارع الدقى,"In the Cairo area, which road directly reaches نفق وادي النيل?",A
+631,محور جسر السويس,شارع الشهيد كيلاني محمد كيلاني,شارع مساكن الشروق,شارع 26 يوليو,"In the Cairo area, which road directly reaches كوبرى 15 مايو?",D
+632,محور ياسر رزق,"طريق القاهرة, الاسكندرية الزراعى",شارع داير الناحيه,شارع الجزائر,"In the Cairo area, which road directly reaches كوبرى الشرقاويه العلوى?",B
+633,شارع احمد حسن,شارع عمارة الاسمنت,شارع الشهيد محمد مصطفى كاريكا,شارع الضغط العالى,"In the Cairo area, which road cannot directly reach شارع افريقيا?",B
+634,شارع علي باشا ذو الفقار,شارع ترعه بشتيل,شارع الجمعيه الزراعيه,شارع الجيش,"In the Cairo area, which road directly reaches شارع كيلانى?",B
+635,شارع الملك عبد العزيز آل سعود,شارع منشيه التحرير,شارع الشهيد محمد مصطفى كاريكا,شارع صلاح الدين,"In the Cairo area, which road directly reaches شارع المدرسه الفنيه?",C
+636,محور طه حسين,محور عمرو بن العاص,شارع 26 يوليو,شارع دكتور اشرف البدري,"In the Cairo area, which road directly reaches شارع البباوى?",A
+637,شارع منصور,امتداد شارع جمال عبد الناصر,شارع الوفاء و الامل,شارع عثمان احمد عثمان,"In the Cairo area, which road directly reaches محور المشير طنطاوى?",C
+638,شارع المهندس عماد عيسي,شارع سوق السيارات,شارع الورش,شارع العزيز بالله,"In the Cairo area, which road cannot directly reach شارع الوفاء و الامل?",D
+639,محور احمد عرابى,الطريق الدائري,شارع 26 يوليو,شارع سيد عويس,"In the Cairo area, which road directly reaches كوبري محور المنيب?",B
+640,امتداد شارع رمسيس,شارع محمد صدقي الشافعي,طريق المطار,شارع محمود سلام,"In the Cairo area, which road directly reaches كوبرى الشهيد النقيب احمد حافظ شوشة?",A
+641,شارع احمد زكي,شارع على باشا ابراهيم,شارع سور دار الدفاع الجوي,شارع الثوره,"In the Cairo area, which road directly reaches نفق الثوره?",D
+642,شارع ابراهيم اللقاني,امتداد شارع رمسيس,شارع ابو داوود الظاهري,شارع الاهرام,"In the Cairo area, which road directly reaches شارع فخري عبد النور?",B
+643,شارع احمد الزمر,شارع ابراهيم اللقاني,شارع مدخل القاهرة,شارع ولى العهد,"In the Cairo area, which road directly reaches كوبرى مسجد السلام?",A
+644,شارع سعد سليم,شارع خاتم المرسلين,شارع مريت باشا,شارع نادى امبابه الرياضى,"In the Cairo area, which road directly reaches كوبري ترسا?",B
+645,شارع جسر الكنيسة,شارع خاتم المرسلين,شارع ترعه بدران,شارع المدرسه,"In the Cairo area, which road cannot directly reach شارع طلال محمد سعد الله?",C
+646,ميدان باب الشعريه,شارع الواحه,شارع عبد الله العربى,شارع سالم سالم,"In the Cairo area, which road directly reaches محور المشير محمد على فهمي الجانبى?",B
+647,شارع عبد الحميد بدوى,شارع كسارات البلدية,شارع خالد بن الوليد,شارع المدرسه الفنيه,"In the Cairo area, which road directly reaches كوبرى جوزيف تيتو?",A
+648,شارع احمد سعيد,"طريق القاهرة, السويس الجانبى",شارع احمد سمير الصاوي,شارع سوق السيارات,"In the Cairo area, which road directly reaches شارع الورش?",D
+649,شارع احمد الزمر,شارع عماد حمدى,شارع نادى الرمايه,شارع دكتور حسام الدين بسيوني,"In the Cairo area, which road cannot directly reach شارع السد العالى?",C
+650,شارع رمسيس,امتداد شارع رمسيس,نفق الدمرداش,درب العوالم,"In the Cairo area, which road cannot directly reach شارع لطفي السيد?",D
+651,شارع عطيه الصوالحى,محور ياسر رزق,شارع جمال عبد الناصر,شارع الخليفه القاهر,"In the Cairo area, which road directly reaches شارع الخليفه الظافر?",D
+652,شارع المستشفى اليوناني,شارع الكابلات,شارع محطة الزيتون,شارع عبد المجيد اللبان,"In the Cairo area, which road directly reaches كوبرى ميدان المطريه?",B
+653,الطريق الابيض,شارع احمد الزمر,شارع المماليك البحريه,شارع الخليفه القاهر,"In the Cairo area, which road directly reaches شارع محمد متولي الشعراوي?",B
+654,شارع جامعه القاهره,طريق النصر,شارع ابو داوود الظاهري,شارع مصطفي النحاس,"In the Cairo area, which road cannot directly reach شارع مكرم عبيد?",A
+655,ميدان الأوبرا,شارع مدرسه المستقبل,محور عمرو بن العاص,شارع ترعه القبه,"In the Cairo area, which road directly reaches محور الدكتوره سميره موسى?",B
+656,شارع المماليك,كوبرى اولاد صالح,محور الدكتوره سميره موسى,شارع الطهاوية,"In the Cairo area, which road directly reaches شارع مدرسه المستقبل?",C
+657,الطريق الدائري,شارع سكة المحجر,شارع محمد نجيب,شارع أحمد فؤاد نجم,"In the Cairo area, which road directly reaches محور روض الفرج?",A
+658,شارع الموسيقار محمد الموجى,شارع خضر التوني,شارع سامي البارودي,طريق مسطرد القديم,"In the Cairo area, which road directly reaches شارع عزبه الصفيح?",D
+659,شارع السواح,طريق البترول,شارع الوحده الصحيه,شارع مجد الاسلام,"In the Cairo area, which road directly reaches كوبرى عبد الحميد بدوى?",B
+660,شارع روض الفرج,شارع عباس العقاد,شارع النصر,كوبرى الاربعين,"In the Cairo area, which road directly reaches شارع علي امين?",B
+661,شارع عبد الحميد بدوى,شارع الدكتور محمود فتحي,كوبرى الليمون,شارع 9,"In the Cairo area, which road directly reaches نفق السبتية?",C
+662,شارع ذاكر حسين,شارع الجمهوريه,شارع حسين كامل,شارع السعادة,"In the Cairo area, which road directly reaches شارع ابراهيم الخليلي?",D
+663,شارع 9,شارع مدخل القاهرة,شارع منظمه الوحده الافريقيه,شارع المماليك,"In the Cairo area, which road directly reaches كوبرى الميثاق?",A
+664,الطريق الابيض,شارع داير الناحيه,شارع الطوب الرملي,شارع الخليفه المأمون,"In the Cairo area, which road directly reaches امتداد شارع جمال عبد الناصر?",A
+665,شارع عين الصيره,شارع نجاتي سراج,شارع الموسيقار محمد عبد الوهاب,شارع مربع بلوكات 1186,"In the Cairo area, which road directly reaches كوبرى عين الصيره?",A
+666,شارع معمل التكرير,شارع احمد عرابى,شارع العروبه,شارع جزيره محمد,"In the Cairo area, which road directly reaches شارع جلال الدين الحمامصى?",B
+667,شارع اسماعيل الفنجري,شارع نوبار,شارع السيد الميرغنى,شارع الدكتور محمد النبوي المهندس,"In the Cairo area, which road directly reaches كوبري الفنجري?",A
+668,شارع محمد متولي الشعراوي,شارع دكتور محمد محب زكى,شارع الشهيد احمد بدوي,شارع السد البراني,"In the Cairo area, which road directly reaches شارع الميثاق?",A
+669,شارع ناهيا,شارع فتحي النجار[طلعة البراجيل],شارع عمر المختار,شارع المحولات,"In the Cairo area, which road directly reaches كوبرى الكابلات?",C
+670,شارع السلطان حسن,شارع الشيخ العناني,شارع الجلاء,شارع مصطفى حافظ,"In the Cairo area, which road directly reaches شارع مهمشه?",C
+671,شارع الاتحاد,"طريق القاهرة, الاسكندرية الزراعى",شارع المطار,شارع 9,"In the Cairo area, which road directly reaches شارع أحمد فؤاد نجم?",D
+672,شارع مساكن القناة,شارع السكه التجاري,شارع مستشفى الطلبه,شارع ترعه الاسماعيليه,"In the Cairo area, which road directly reaches محور الضبعة?",D
+673,ميدان كريم زيانى,كوبري النزهه,شارع المخيم الدائم,شارع صلاح سالم,"In the Cairo area, which road directly reaches شارع صلاح سالم الجديد?",D
+674,شارع الاهرام,محور عدلى منصور,شارع الضغط العالى,شارع عبد العزيز فهمى,"In the Cairo area, which road directly reaches شارع ترعه الزمر الغربيه?",A
+675,الطريق الدائري,كوبري مسطرد,كوبري والى,شارع 26 يوليو,"In the Cairo area, which road directly reaches محور عمرو بن العاص?",A
+676,شارع الشهيد ابراهيم الشيخ,شارع محمد متولي الشعراوي,"طريق القاهرة, السويس الجانبى",شارع محمد شاهين,"In the Cairo area, which road directly reaches شارع سالم سالم?",D
+677,شارع الثوره,كوبري ترسا,شارع النيل,كوبرى الاربعين,"In the Cairo area, which road directly reaches شارع الثوره الجانبى?",A
+678,شارع الواحه,طريق النصر,شارع المصانع 3,شارع انقره,"In the Cairo area, which road directly reaches كوبرى دكتور كمال الجنزوري?",B
+679,شارع بغداد,شارع نبيل الوقاد,شارع الحريه,كوبرى الملك الصالح,"In the Cairo area, which road directly reaches كوبرى كنيسه الرشاح?",C
+680,شارع ترعه الزمر,شارع البطل احمد عبد العزيز,شارع كمال بطرس[شمال المحور],شارع الطيران,"In the Cairo area, which road directly reaches كوبرى التأمين الصحى?",D
+681,درب العوالم,شارع ناهيا,شارع ترعه عبد العال 2,شارع جسر السويس,"In the Cairo area, which road directly reaches كوبرى 6 اكتوبر?",D
+682,شارع كسارات البلدية,شارع 10,شارع التعاون,شارع الفسطاط,"In the Cairo area, which road directly reaches كوبرى متحف الحضاره?",D
+683,شارع سكه الوايلي,شارع دمشق,شارع السيده نفيسه,طريق النصر,"In the Cairo area, which road directly reaches كوبرى المستشار ممدوح مرعي?",D
+684,شارع أبو بكر الصديق,شارع ترعه السرو,شارع النصر,شارع افريقيا,"In the Cairo area, which road directly reaches شارع الضغط العالى?",D
+685,شارع الاربعين,كوبرى الشهيد النقيب احمد حافظ شوشة,شارع ترعه عبد العال 2,كوبرى الاربعين,"In the Cairo area, which road directly reaches شارع الاربعين?",D
+686,شارع جسر السويس,شارع ابراهيم شوقي,طريق مصر حلوان الزراعي,شارع الاربعين,"In the Cairo area, which road directly reaches كوبرى الاربعين?",D
+687,شارع الفنان صلاح جاهين,شارع ذاكر حسين,شارع افريقيا,شارع قصر الشمع,"In the Cairo area, which road directly reaches شارع دكتور محمود صالح ابو زيد?",C
+688,طريق القاهرة السويس,شارع خاتم المرسلين,شارع ترسا,طريق العين سخنة القديم,"In the Cairo area, which road directly reaches طريق القاهرة السويس?",D
+689,شارع الرقيبه,طريق القناطر,شارع 9,شارع الطيران,"In the Cairo area, which road directly reaches شارع الشيخ امام?",C
+690,شارع أولاد سعودي,طريق النصر,شارع 6,شارع صلاح سالم الجديد,"In the Cairo area, which road directly reaches شارع احمد الزين?",D
+691,شارع قصر النيل,شارع الملك الصالح,شارع داير الناحيه,كوبري الزاويه,"In the Cairo area, which road directly reaches شارع الروضة?",B

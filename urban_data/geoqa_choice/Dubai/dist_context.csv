@@ -1,0 +1,1378 @@
+id,question,answer,A,B,C,D
+0,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chin Chin. Detailed address: شارع السيداف 1, البرشاء, البرشاء 1, دبي, الإمارات العربية المتحدة
+2. Dubai Islamic Bank. Detailed address: شارع 42, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة",D,20.22,18.92,20.35,26.66
+1,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Qariyath Cafeteria. Detailed address: شارع 25, ديرة, أبو هيل, دبي, الإمارات العربية المتحدة
+2. Dubai Islamic Bank Building ( DIC ). Detailed address: شارع الكوكب, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة",C,21.15,24.2,27.56,21.15
+2,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sind Darbar. Detailed address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة
+2. IL Forno. Detailed address: شارع 12, District 11, JVC, قرية جميرا الدائرية, دبي, الإمارات العربية المتحدة",B,22.63,25.31,23.25,23.23
+3,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Panoor. Detailed address: شارع زعبيل, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة
+2. Coastal Butlers. Detailed address: شارع بغداد, القصيص الصناعية 2, القصيص الصناعية, دبي, الإمارات العربية المتحدة",A,9.01,4.01,5.58,10.76
+4,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rihab Rotana. Detailed address: شارع 27, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة
+2. Bhatia Brothers. Detailed address: Tanwir Rehman, 1, شارع 23, القوز الصناعية 1, مجتمع القوز, دبي, الإمارات العربية المتحدة",C,24.13,24.05,16.83,21.47
+5,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Community Pharmacy. Detailed address: 34b شارع, السطوة, دبي, الإمارات العربية المتحدة
+2. United Bank Limited. Detailed address: شارع الشيخ زايد, البرشاء 1, دبي, الإمارات العربية المتحدة",C,16.3,20.24,13.46,15.81
+6,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Attibassi Coffee. Detailed address: شارع جميرا, أم سقيم 1, أم سقيم, دبي, الإمارات العربية المتحدة
+2. Nahawand. Detailed address: شارع الشيخ زايد, Sheikh Zayed Road, الوصل, دبي, الإمارات العربية المتحدة",B,12.94,6.35,12.37,14.21
+7,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Life Pharmacy. Detailed address: شارع الصويب, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة
+2. DRS Juice. Detailed address: شارع السطوة, السطوة, دبي, الإمارات العربية المتحدة",C,15.91,21.91,20.56,21.93
+8,"What is the straight-line distance between the following two locations? (Unit is km)
+1. صيدلية إبن سينا. Detailed address: شارع الخيل الأول, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة
+2. Dubai Smile. Detailed address: شارع جميرا, جميرا 3, جميرا, دبي, الإمارات العربية المتحدة",D,16.57,12.26,7.47,10.4
+9,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Invisalign. Detailed address: شارع جميرا, أم سقيم 2, أم سقيم, دبي, الإمارات العربية المتحدة
+2. Best Bites. Detailed address: شارع البرشاء 1, البرشاء شمال, البرشاء 1, دبي, الإمارات العربية المتحدة",B,8.03,4.83,10.36,7.3
+10,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Aster Medical Center. Detailed address: 6a شارع, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة
+2. ايبكو. Detailed address: طريق دبي - العين, ميدان, ند الشبا, دبي, الإمارات العربية المتحدة",A,8.71,1.25,6.21,3.49
+11,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Opus Lounge Dubai. Detailed address: شارع 19, بر دبي, عود ميثاء, دبي, الإمارات العربية المتحدة
+2. Domino's. Detailed address: شارع المرسى, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة",D,18.21,16.61,16.81,23.8
+12,"What is the straight-line distance between the following two locations? (Unit is km)
+1. HSBC. Detailed address: شارع عمان, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة
+2. Costa Coffee. Detailed address: 9, Shoreline Street, نخلة جميرا, دبي, الإمارات العربية المتحدة",A,31.62,23.87,24.47,24.15
+13,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dasprakash Restaurant. Detailed address: 20a شارع, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة
+2. Mythos. Detailed address: JLT Cluster P, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة",A,25.0,19.76,21.3,18.73
+14,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Emaar Sales Center. Detailed address: شارع الشيخ محمد بن راشد, وسط مدينة دبي, دبي, الإمارات العربية المتحدة
+2. Parking 5. Detailed address: D56, مدينة العرب, دبي, الإمارات العربية المتحدة",C,18.44,11.04,14.08,10.26
+15,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Deira Business Village Building B. Detailed address: Gold's Gym, 36a شارع, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة
+2. Hennessey Construction. Detailed address: 0, All Terrain Offroad Garage, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة",A,19.08,21.65,12.56,24.0
+16,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Astrolabs Coworking (Lake Side). Detailed address: JLT Cluster R, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة
+2. Nando's. Detailed address: شارع الشيخ خليفة بن زايد, بر دبي, المنخول, دبي, الإمارات العربية المتحدة",C,18.96,23.22,25.02,23.01
+17,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dar Al Aman 24. Detailed address: Three Star, 22b شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة
+2. الخدمات اللوجستية الصناعية عالية التقنية. Detailed address: 64 Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة",C,22.36,24.91,17.25,15.52
+18,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Golden Fork. Detailed address: شارع 2 ديسمبر, البدع, دبي, الإمارات العربية المتحدة
+2. Maiden Shanghai. Detailed address: فايڤ نخلة الجميرة دبي, Palm Jumeirah Road, نخلة جميرا, دبي, الإمارات العربية المتحدة",C,23.79,14.82,19.53,23.2
+19,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bldg 2. Detailed address: 4d, 61 Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة
+2. Downtown Views II. Detailed address: Rove, شارع الشيخ محمد بن راشد, زعبيل, دبي, الإمارات العربية المتحدة",B,18.88,14.23,22.03,12.78
+20,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Prowash. Detailed address: شارع 25, ديرة, أبو هيل, دبي, الإمارات العربية المتحدة
+2. Obai Bin Kaab. Detailed address: 45b شارع, السطوة, دبي, الإمارات العربية المتحدة",D,4.38,7.32,11.65,9.19
+21,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Local Food. Detailed address: شارع 54, بر دبي, الجافلية, دبي, الإمارات العربية المتحدة
+2. Golden Tools Trading. Detailed address: 3a شارع, القوز 3, مجتمع القوز, دبي, الإمارات العربية المتحدة",D,15.03,14.37,2.53,7.94
+22,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Shorfa. Detailed address: شارع الفالح, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة
+2. Eat & Tasty Restaurant. Detailed address: شارع 19, البرشاء, البرشاء 1, دبي, الإمارات العربية المتحدة",B,7.59,6.45,0.55,8.01
+23,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bldg 7. Detailed address: 4b, 92 Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة
+2. Badri Building. Detailed address: بر دبي, المنخول, دبي, الإمارات العربية المتحدة",B,13.64,17.82,19.21,18.98
+24,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Second Cup. Detailed address: دبي مول, شارع المركز المالي, وسط مدينة دبي, دبي, الإمارات العربية المتحدة
+2. Car Lease. Detailed address: شارع 4, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة",C,7.16,5.96,10.99,3.66
+25,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Maiden Shanghai. Detailed address: فايڤ نخلة الجميرة دبي, Palm Jumeirah Road, نخلة جميرا, دبي, الإمارات العربية المتحدة
+2. Al Fanar Restaurant & Café. Detailed address: 9, Crescent Drive Street, مرسى الخور, مجتمع رأس الخور الجديد, دبي فيستيفال سيتي, دبي, الإمارات العربية المتحدة",A,24.29,19.48,18.28,17.27
+26,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Modern Bakery. Detailed address: شارع 6ب, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. All Metals Industries. Detailed address: شارع 27, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة",A,0.69,3.32,1.95,3.55
+27,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Shaaab Colony No 78. Detailed address: شارع 39, ديرة, هور العنز, دبي, الإمارات العربية المتحدة
+2. Art X Tower. Detailed address: 18, 69 Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة",B,13.32,18.84,13.7,20.81
+28,"What is the straight-line distance between the following two locations? (Unit is km)
+1. IL Forno. Detailed address: شارع 12, District 11, JVC, قرية جميرا الدائرية, دبي, الإمارات العربية المتحدة
+2. Top Tea Spot. Detailed address: طريق خالد بن الوليد, بر دبي, الحمرية, دبي, الإمارات العربية المتحدة",B,17.87,22.81,15.9,15.04
+29,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dubai Land & Property Department. Detailed address: شارع بني ياس, ديرة, رقة البطين, دبي, الإمارات العربية المتحدة
+2. Saigon Station. Detailed address: Al Ansari Exchange, 92 Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة",D,23.5,16.64,16.01,17.73
+30,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Warodo Personal Care Centre. Detailed address: شارع 38, البرشاء شمال, البرشاء 1, دبي, الإمارات العربية المتحدة
+2. abdillah kutait masjid. Detailed address: 43a Street, القوز, مجتمع القوز, دبي, الإمارات العربية المتحدة",D,2.66,12.53,13.71,7.29
+31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Well Fast. Detailed address: 18a شارع, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة
+2. Italian Dental Clinic. Detailed address: 33, Al Madina Al Tebbia Street, مدينة دبي الطبية, بر دبي, أم هرير, دبي, الإمارات العربية المتحدة",C,8.78,8.66,2.42,6.3
+32,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rose Water Spa Club. Detailed address: شارع 7, البرشاء, البرشاء 1, دبي, الإمارات العربية المتحدة
+2. نووم نووم مطعم آسيا. Detailed address: Shop 1, شارع 40, البرشاء شمال, البرشاء 1, دبي, الإمارات العربية المتحدة",D,7.66,7.16,3.28,1.44
+33,"What is the straight-line distance between the following two locations? (Unit is km)
+1. MM Towers. Detailed address: 26, 91 Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة
+2. سنشري مول. Detailed address: شارع الرشيد, ديرة, الممزر, دبي, الإمارات العربية المتحدة",A,20.21,24.21,16.55,18.96
+34,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Adhab Tower. Detailed address: Al Thani Building, 4, شارع 1, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة
+2. Block 8. Detailed address: ICCA Dubai, شارع المعرفة, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة",B,21.6,29.54,24.75,24.4
+35,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Delhi Dorbor. Detailed address: شارع 17, البرشاء, البرشاء 1, دبي, الإمارات العربية المتحدة
+2. Rose Water Spa Club. Detailed address: شارع 7, البرشاء, البرشاء 1, دبي, الإمارات العربية المتحدة",D,5.13,5.52,1.89,0.52
+36,"What is the straight-line distance between the following two locations? (Unit is km)
+1. المطعم الافغاني. Detailed address: 6a شارع, ديرة, نايف, ديرة, دبي, الإمارات العربية المتحدة
+2. Al Warodo Personal Care Centre. Detailed address: شارع 38, البرشاء شمال, البرشاء 1, دبي, الإمارات العربية المتحدة",D,16.17,16.19,13.15,20.97
+37,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Be Super Natural Kitchen. Detailed address: دبي مول, شارع المركز المالي, وسط مدينة دبي, دبي, الإمارات العربية المتحدة
+2. Ashbilia Cafeteria. Detailed address: 44d شارع, القوز 1, القوز, دبي, الإمارات العربية المتحدة",D,8.34,11.68,10.22,4.66
+38,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Hala Complex. Detailed address: الصفا 1, الصفا, دبي, الإمارات العربية المتحدة
+2. Blue Oasis Building. Detailed address: 37/2, 54 Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة",B,19.46,14.92,19.23,13.76
+39,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Grand Central Hotel. Detailed address: 24c شارع, ديرة, المرقبات, دبي, الإمارات العربية المتحدة
+2. Zoom. Detailed address: شارع جميرا, جميرا 3, جميرا, دبي, الإمارات العربية المتحدة",A,13.44,18.29,12.32,9.14
+40,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Obai Bin Kaab. Detailed address: 45b شارع, السطوة, دبي, الإمارات العربية المتحدة
+2. Al Mashael Building. Detailed address: شارع الربيع 1, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة",D,21.41,12.6,14.45,17.11
+41,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rauchi. Detailed address: شارع الخريف 2, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة
+2. Al Leqaa. Detailed address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة",C,18.03,18.95,23.97,22.92
+42,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Festival City Lake Parking. Detailed address: Marsa Plaza, مرسى الخور, مجتمع رأس الخور الجديد, دبي فيستيفال سيتي, دبي, الإمارات العربية المتحدة
+2. مركز الدانة. Detailed address: Jeanine Haute Couture, 25, شارع 42أ, رقة البطين, ديرة, المرقبات, دبي, الإمارات العربية المتحدة",A,4.43,1.52,6.82,2.89
+43,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pizza Hut Delivery. Detailed address: JLT Cluster I, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة
+2. Dubai Community Theatre & Arts Centre (DUCTAC). Detailed address: شارع السيداف 1, البرشاء, البرشاء 1, دبي, الإمارات العربية المتحدة",D,15.83,3.19,3.2,7.86
+44,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fifty One Business Bay Tower. Detailed address: Tea Room Cafe, طريق مراسي, الخليج التجاري, وسط مدينة دبي, الخليج التجاري, دبي, الإمارات العربية المتحدة
+2. The One at Jumeirah Village Triangle. Detailed address: شارع الأوركيد, District 2, قرية جميرا الدائرية, دبي, الإمارات العربية المتحدة",A,17.08,12.27,23.64,18.26
+45,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Sheraa Al Abyad Cafeteria. Detailed address: 18b شارع, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة
+2. Sunface Medical Center. Detailed address: JLT Cluster X, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة",D,20.53,22.29,23.13,27.02
+46,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Aramex. Detailed address: Sahara Centre Overpass, النهدة, مدينة الشارقة, الشارقة, الإمارات العربية المتحدة
+2. Al Khwali Cafe. Detailed address: طريق الاتحاد, ديرة, الممزر, دبي, الإمارات العربية المتحدة",C,7.62,8.49,1.96,5.01
+47,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Khalid Al Ali Restaurant. Detailed address: شارع 27, ديرة, هور العنز, دبي, الإمارات العربية المتحدة
+2. Yos. Detailed address: شارع 25, بر دبي, الحضيبة, دبي, الإمارات العربية المتحدة",C,11.27,5.66,7.73,15.03
+48,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Papa John's. Detailed address: شارع الشيخ زايد, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة
+2. Al Marar Al Jaded Cafeteria. Detailed address: شارع 24, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة",B,18.59,24.72,23.15,22.4
+49,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Observatory. Detailed address: Marina Walk, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة
+2. Desi Bistro. Detailed address: طريق المطار الداخلي, مطار دبي الدولي, دبي, الإمارات العربية المتحدة",D,22.99,21.95,24.76,29.67
+50,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hi Way Auto Service. Detailed address: شارع الشيخ زايد, تلال الإمارات, جبل علي 1, دبي, الإمارات العربية المتحدة
+2. Wadi Al Arayesh. Detailed address: طريق أم هرير, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة",D,24.91,19.9,21.18,27.11
+51,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Green Lagoon Restaurant. Detailed address: شارع السيداف 1, البرشاء, البرشاء 1, دبي, الإمارات العربية المتحدة
+2. دمياطي حمص فول فلافل. Detailed address: شارع القدس, الطوار 1, الطوار, دبي, الإمارات العربية المتحدة",C,20.79,24.95,22.8,21.52
+52,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Choithram. Detailed address: شارع 22, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. Al Gouz Car Wash. Detailed address: شارع الخيل الأول, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة",B,1.28,2.76,6.33,5.26
+53,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Luzam Seid Cafeteria. Detailed address: شارع 8, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة
+2. Attibassi Coffee. Detailed address: شارع جميرا, أم سقيم 1, أم سقيم, دبي, الإمارات العربية المتحدة",C,8.9,10.4,15.08,11.37
+54,"What is the straight-line distance between the following two locations? (Unit is km)
+1. MOBH 7 Villa Compound. Detailed address: 43a شارع, البدع, دبي, الإمارات العربية المتحدة
+2. Arabian Ranches Colf Club. Detailed address: Hotel, Arabian Ranches Colf Club, المرابع العربية, وادي الصفا 6, دبي, الإمارات العربية المتحدة",B,17.3,19.29,14.73,16.85
+55,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bin Dhaher. Detailed address: شارع الشيخ زايد, القوز الصناعية 3, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. Bin Zayed Mosque. Detailed address: Heritage of Nepal, طريق الغبيبة, بر دبي, الشندغة, دبي, الإمارات العربية المتحدة",A,16.31,20.14,14.13,12.39
+56,"What is the straight-line distance between the following two locations? (Unit is km)
+1. American. Detailed address: شارع البرشاء 1, البرشاء, البرشاء 1, دبي, الإمارات العربية المتحدة
+2. دجاج كنتاكي. Detailed address: 53/2, شارع الشيخ محمد بن زايد, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة",D,11.72,16.14,20.78,18.56
+57,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cityport Cafe. Detailed address: Marina Promenade, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة
+2. Benelli. Detailed address: شارع الشيخ محمد بن راشد, وسط مدينة دبي, دبي, الإمارات العربية المتحدة",D,13.99,18.71,13.03,17.49
+58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tierra Marble International. Detailed address: Nobel, 17b شارع, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. Al Ahli House. Detailed address: Green Dew Beauty Centre, شارع 28, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة",A,25.29,17.97,23.63,17.75
+59,"What is the straight-line distance between the following two locations? (Unit is km)
+1. آيلاند بيتش كلوب. Detailed address: دبي, الإمارات العربية المتحدة
+2. BQ - French Kitchen & Bar. Detailed address: مشي القناة, الخليج التجاري, وسط مدينة دبي, دبي, الإمارات العربية المتحدة",B,2.12,9.69,11.48,7.32
+60,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gulf Crown. Detailed address: شارع 35, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة
+2. Apachi Restaurant & Cafe. Detailed address: شارع المرسى, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة",D,20.54,23.47,20.79,24.85
+61,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Holiday Inn. Detailed address: +9714 228 8889, 26b شارع, ديرة, المرقبات, دبي, الإمارات العربية المتحدة
+2. ODEON Restaurant, Market & Catering. Detailed address: شارع جميرا, جميرا 3, جميرا, دبي, الإمارات العربية المتحدة",A,14.52,12.73,9.41,13.39
+62,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Costa Coffee. Detailed address: 9, Shoreline Street, نخلة جميرا, دبي, الإمارات العربية المتحدة
+2. Ramses. Detailed address: ممشى المارينا, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة",C,5.18,11.16,3.73,2.09
+63,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Fai. Detailed address: شارع الحضيبة, البدع, دبي, الإمارات العربية المتحدة
+2. Liza Coffee Shop. Detailed address: شارع 10, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة",B,2.65,6.49,1.95,4.42
+64,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Ruwyah Bus Depot. Detailed address: شارع الإمارات, ورسان 3, الروية 2, دبي, الإمارات العربية المتحدة
+2. Bin Suloom Building. Detailed address: شارع 26, الجداف, دبي, الإمارات العربية المتحدة",A,15.54,10.98,12.26,20.89
+65,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Karak & Chapati. Detailed address: 34b شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة
+2. Pitfire pizza. Detailed address: JLT Cluster D, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة",A,30.19,22.86,23.83,24.04
+66,"What is the straight-line distance between the following two locations? (Unit is km)
+1. City One. Detailed address: 13a شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة
+2. Ella’s Eatery. Detailed address: Shoreline Street, نخلة جميرا, دبي, الإمارات العربية المتحدة",D,22.85,23.23,22.99,26.92
+67,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد راشد عبدالله حمد الفطيم. Detailed address: شارع 2, ديرة, شارع 2, ديرة, دبي, الإمارات العربية المتحدة
+2. Indigo Ville 8. Detailed address: شارع 5, District 15, البرشاء جنوب 4, دبي, الإمارات العربية المتحدة",A,27.52,23.41,23.39,21.01
+68,"What is the straight-line distance between the following two locations? (Unit is km)
+1. District 5. Detailed address: Villa 24, JVT District 5, قرية جميرا المثلث, قرية جميرا الدائرية, دبي, الإمارات العربية المتحدة
+2. Al Ruwyah Bus Depot. Detailed address: شارع الإمارات, ورسان 3, الروية 2, دبي, الإمارات العربية المتحدة",C,19.38,19.14,20.79,17.76
+69,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Union. Detailed address: 28b شارع, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. بيروت خانم. Detailed address: شارع الشيخ محمد بن راشد, وسط مدينة دبي, دبي, الإمارات العربية المتحدة",C,6.3,17.63,10.44,17.09
+70,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Farooj. Detailed address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة
+2. Be Super Natural Kitchen. Detailed address: دبي مول, شارع المركز المالي, وسط مدينة دبي, دبي, الإمارات العربية المتحدة",C,2.61,2.42,9.4,14.07
+71,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sayapatri Restaurant. Detailed address: شارع 12, القوز, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. Silver Beach Cafe. Detailed address: Al Seef Promenade, بر دبي, أم هرير, دبي, الإمارات العربية المتحدة",B,6.25,12.58,15.67,19.32
+72,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Spark Rent a Car. Detailed address: شارع 23, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة
+2. Little Gems International Al Barsha. Detailed address: 14a شارع, البرشاء 3, البرشاء 1, دبي, الإمارات العربية المتحدة",D,20.43,15.25,18.43,22.95
+73,"What is the straight-line distance between the following two locations? (Unit is km)
+1. هلال البرشاء. Detailed address: شارع الفصول, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة
+2. Fish Hut Restaurant. Detailed address: شارع أم سقيم, البرشاء, البرشاء 2, دبي, 120730, الإمارات العربية المتحدة",D,1.04,0.97,2.59,4.14
+74,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Shang Palace. Detailed address: شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة
+2. Al Sheraa Al Abyad Cafeteria. Detailed address: 18b شارع, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة",A,8.58,12.6,7.45,1.75
+75,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pak Darbar. Detailed address: شارع عمان, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة
+2. Local Food. Detailed address: شارع 54, بر دبي, الجافلية, دبي, الإمارات العربية المتحدة",C,15.39,15.88,10.07,3.51
+76,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hardee's. Detailed address: JLT Cluster I, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة
+2. صيدلية إبن سينا. Detailed address: شارع الخيل الأول, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة",C,1.39,1.51,4.93,6.05
+77,"What is the straight-line distance between the following two locations? (Unit is km)
+1. برج بارك. Detailed address: Wheelchair access, وسط مدينة دبي, دبي, الإمارات العربية المتحدة
+2. Mazaya 2. Detailed address: 12/1, طريق دبي - العين, ليوان, مدينة العرب, دبي, الإمارات العربية المتحدة",D,5.6,8.12,13.62,12.53
+78,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Continental Carpentry. Detailed address: شارع 29, القصيص الصناعية 3, القصيص الصناعية, دبي, الإمارات العربية المتحدة
+2. Wellness Village substation. Detailed address: الجداف, دبي, الإمارات العربية المتحدة",A,11.41,17.84,5.48,18.09
+79,"What is the straight-line distance between the following two locations? (Unit is km)
+1. طهران. Detailed address: شارع جميرا, أم سقيم 2, أم سقيم, دبي, الإمارات العربية المتحدة
+2. Cityport Cafe. Detailed address: Marina Promenade, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة",A,9.83,3.92,12.48,16.14
+80,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Cascade Multi Cuisine Restaurant. Detailed address: شارع السيف 2, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة
+2. Friends Avenue Cafe. Detailed address: JLT Cluster T, تلال الإمارات, أبراج بحيرات الجميرا, دبي, 117346, الإمارات العربية المتحدة",A,3.37,6.49,5.18,4.8
+81,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Outlet Mall. Detailed address: شارع ند الحمر, ند الشبا 2, ند الشبا, ند الشبا 2, دبي, الإمارات العربية المتحدة
+2. Choithram. Detailed address: شارع 22, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة",C,13.99,6.38,12.31,5.1
+82,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Quick Drive Rent A Car. Detailed address: شارع 26, الجداف, دبي, الإمارات العربية المتحدة
+2. مطعم مكسين. Detailed address: شارع 51, جميرا, دبي, الإمارات العربية المتحدة",B,1.37,7.55,15.52,12.17
+83,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Barsha Veterinary Clinic. Detailed address: شارع البرشاء 1, البرشاء, البرشاء 1, دبي, الإمارات العربية المتحدة
+2. Momo. Detailed address: شارع السطوة, البدع, دبي, الإمارات العربية المتحدة",C,7.16,11.78,14.96,19.35
+84,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Silver Beach Cafe. Detailed address: Al Seef Promenade, بر دبي, أم هرير, دبي, الإمارات العربية المتحدة
+2. Rauchi. Detailed address: شارع الخريف 2, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة",C,20.57,18.76,22.13,24.39
+85,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dubai Islamic Bank Building ( DIC ). Detailed address: شارع الكوكب, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة
+2. Bait Yasmina. Detailed address: Iliyaa 3, 9, 88 Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة",C,23.74,16.6,22.32,24.2
+86,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Emirates Islamic. Detailed address: شارع جميرا, جميرا 3, جميرا, دبي, الإمارات العربية المتحدة
+2. Romantic Baka. Detailed address: شارع الرقة, ديرة, المرقبات, دبي, الإمارات العربية المتحدة",D,7.76,17.67,16.55,12.5
+87,"What is the straight-line distance between the following two locations? (Unit is km)
+1. كافيتريا فيوري. Detailed address: مستشفى الكويت, شارع الخليج, ديرة, شارع 2, دبي, 42324, الإمارات العربية المتحدة
+2. Life Long. Detailed address: شارع 51, جميرا, دبي, الإمارات العربية المتحدة",B,16.36,8.85,13.99,3.34
+88,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dubai Community Theatre & Arts Centre (DUCTAC). Detailed address: شارع السيداف 1, البرشاء, البرشاء 1, دبي, الإمارات العربية المتحدة
+2. Buses Parking. Detailed address: شارع 9, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة",D,19.37,22.72,21.4,25.87
+89,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ear Care. Detailed address: شارع الوصل, جميرا, دبي, الإمارات العربية المتحدة
+2. Najimuddin Teastall. Detailed address: 2c شارع, ديرة, نايف, ديرة, دبي, الإمارات العربية المتحدة",A,5.55,3.57,4.25,10.14
+90,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Friends Avenue Cafe. Detailed address: JLT Cluster T, تلال الإمارات, أبراج بحيرات الجميرا, دبي, 117346, الإمارات العربية المتحدة
+2. Aryaas. Detailed address: شارع النهدة, القصيص, دبي, الإمارات العربية المتحدة",B,23.06,30.77,24.24,23.44
+91,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Lail Al Hadi Coffee Shop. Detailed address: شارع 8, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة
+2. Cadiz. Detailed address: مطار دبي الدولي, 20c شارع, الطوار 4, القصيص, دبي, الإمارات العربية المتحدة",C,12.89,3.96,6.47,10.84
+92,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Wadi Al Khair Cafeteria. Detailed address: شارع هور العنز, ديرة, هور العنز, دبي, الإمارات العربية المتحدة
+2. Invisalign. Detailed address: شارع جميرا, أم سقيم 2, أم سقيم, دبي, الإمارات العربية المتحدة",D,11.89,10.48,13.31,18.48
+93,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sama Diera Coffee Shop. Detailed address: شارع 8, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة
+2. Uch Kuduk. Detailed address: شارع الفالح, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة",C,24.7,24.92,27.19,24.8
+94,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nemo Watersports Jetski & Flyboard. Detailed address: Al Soon Street, أم سقيم 2, أم سقيم, دبي, الإمارات العربية المتحدة
+2. Tunday Kababi. Detailed address: JLT Cluster F, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة",C,14.93,6.36,10.49,11.73
+95,"What is the straight-line distance between the following two locations? (Unit is km)
+1. كهربا ومياه دبي. Detailed address: شارع ابن سينا, مدينة دبي الطبية, بر دبي, أم هرير, دبي, الإمارات العربية المتحدة
+2. Al Hikma Residence. Detailed address: 3, 86 Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة",C,12.12,6.44,14.22,7.31
+96,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Embratoor Cook & Restaurant. Detailed address: شارع الحمرية, ديرة, أبو هيل, دبي, الإمارات العربية المتحدة
+2. هلال البرشاء. Detailed address: شارع الفصول, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة",B,19.24,25.89,20.65,20.73
+97,"What is the straight-line distance between the following two locations? (Unit is km)
+1. BTC. Detailed address: Wecare Wrap Kitchen Wrapping, Warehouse 5, شارع 21, Al Quoz Industrial Area, مجتمع القوز, دبي, 22340, الإمارات العربية المتحدة
+2. Stationery Dubai. Detailed address: 5, 37a شارع, ديرة, نايف, ديرة, دبي, الإمارات العربية المتحدة",D,13.36,11.67,24.17,19.56
+98,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Royal Dining. Detailed address: 13, 92 Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة
+2. 101 Restaurant and Bar. Detailed address: Palm Jumeirah Broadwalk, نخلة جميرا, دبي, الإمارات العربية المتحدة",A,25.41,23.71,22.35,24.4
+99,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مركز دبي المالي العالمي. Detailed address: شارع الصكوك, مركز دبي المالي العالمي, زعبيل, دبي, الإمارات العربية المتحدة
+2. Spectrum Nursery. Detailed address: 21, شارع 25, ديرة, أبو هيل, دبي, الإمارات العربية المتحدة",C,17.34,16.03,9.71,2.95
+100,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Damascus Road 2. Detailed address: شارع دمشق, القصيص الصناعية 1, القصيص الصناعية, دبي, الإمارات العربية المتحدة
+2. كافيتريا فيوري. Detailed address: مستشفى الكويت, شارع الخليج, ديرة, شارع 2, دبي, 42324, الإمارات العربية المتحدة",B,2.25,6.93,13.34,1.21
+101,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Airbus. Detailed address: شارع القدس, مطار دبي الدولي, دبي, الإمارات العربية المتحدة
+2. Outlet Mall. Detailed address: شارع ند الحمر, ند الشبا 2, ند الشبا, ند الشبا 2, دبي, الإمارات العربية المتحدة",B,20.31,13.46,9.2,10.02
+102,"What is the straight-line distance between the following two locations? (Unit is km)
+1. LIFE Pharmacy - Bin Seray. Detailed address: شارع 4, بر دبي, عود ميثاء, دبي, الإمارات العربية المتحدة
+2. High Speed Rent a Car. Detailed address: 18b شارع, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة",A,4.53,7.14,2.71,7.96
+103,"What is the straight-line distance between the following two locations? (Unit is km)
+1. DEWA - Dubai Electricity and Water Authority. Detailed address: 33, 15c شارع, الوصل, دبي, الإمارات العربية المتحدة
+2. Royal Class Car Repairing. Detailed address: 6a شارع, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة",B,13.46,8.19,10.78,1.8
+104,"What is the straight-line distance between the following two locations? (Unit is km)
+1. UAS. Detailed address: hawk freight services fze, شارع القدس, مطار دبي الدولي, دبي, الإمارات العربية المتحدة
+2. Harmel. Detailed address: بوليفارد حلاب, District 18, البرشاء جنوب 4, دبي, الإمارات العربية المتحدة",B,21.15,28.79,23.78,21.26
+105,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Utility. Detailed address: شارع العراء, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة
+2. Holiday Inn. Detailed address: +9714 228 8889, 26b شارع, ديرة, المرقبات, دبي, الإمارات العربية المتحدة",A,25.91,21.47,17.98,19.33
+106,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ماكدونالدز. Detailed address: شارع النهدة, القصيص, دبي, الإمارات العربية المتحدة
+2. Astrolabs Coworking (Lake Side). Detailed address: JLT Cluster R, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة",D,23.26,23.62,24.35,31.1
+107,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Canadian Montessori Center. Detailed address: 27a شارع, ديرة, الوحيدة, دبي, الإمارات العربية المتحدة
+2. Apple International School. Detailed address: شارع دمشق, القصيص 2, القصيص, دبي, الإمارات العربية المتحدة",C,2.54,8.46,4.67,11.81
+108,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bhavna. Detailed address: 28, 25c شارع, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة
+2. Somerset's. Detailed address: شارع 19, بر دبي, عود ميثاء, دبي, الإمارات العربية المتحدة",C,9.55,6.52,3.53,10.75
+109,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Asus. Detailed address: MTE, شارع 65, القرهود, دبي, الإمارات العربية المتحدة
+2. Dubai KMCC. Detailed address: شارع 14, ديرة, شارع 2, دبي, الإمارات العربية المتحدة",B,10.21,3.89,6.32,11.28
+110,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mede Pharmacy. Detailed address: شارع 2 ديسمبر, بر دبي, الحضيبة, دبي, الإمارات العربية المتحدة
+2. RTA Public Parking. Detailed address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة",B,1.61,6.19,1.99,7.83
+111,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Next Exit Cafe. Detailed address: Daytona House, 6/21, شارع الشيخ محمد بن زايد, الحبية 1, دبي, الإمارات العربية المتحدة
+2. Poke & Co. Detailed address: Acai & Co., شارع المستقبل, مركز دبي المالي العالمي, زعبيل, دبي, الإمارات العربية المتحدة",C,24.16,16.99,18.49,14.08
+112,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Badri Building. Detailed address: بر دبي, المنخول, دبي, الإمارات العربية المتحدة
+2. Dar Al Aman 24. Detailed address: Three Star, 22b شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة",A,5.82,4.68,7.84,12.86
+113,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Wasl Port View 7. Detailed address: 15/3, شارع الميناء, بر دبي, الميناء, دبي, الإمارات العربية المتحدة
+2. UAS. Detailed address: hawk freight services fze, شارع القدس, مطار دبي الدولي, دبي, الإمارات العربية المتحدة",C,12.87,16.22,9.33,4.34
+114,"What is the straight-line distance between the following two locations? (Unit is km)
+1. BNP Paribas. Detailed address: Metro Link, وسط مدينة دبي, دبي, الإمارات العربية المتحدة
+2. ProArt Gallery. Detailed address: شارع جميرا, جميرا, دبي, الإمارات العربية المتحدة",B,8.67,3.76,8.7,1.58
+115,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Golden Tools Trading. Detailed address: 3a شارع, القوز 3, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. Al Emad. Detailed address: Shop no. 13, شارع السيداف 1, البرشاء, البرشاء 1, دبي, 00000, الإمارات العربية المتحدة",D,2.97,1.88,13.33,7.56
+116,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jumeirah Village Circle Villas. Detailed address: قرية جميرا الدائرية, دبي, الإمارات العربية المتحدة
+2. Tierra Marble International. Detailed address: Nobel, 17b شارع, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة",B,9.03,7.47,10.12,1.59
+117,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Orient Exchange. Detailed address: شارع الشيخ زايد, القوز 3, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. Royal Dining. Detailed address: 13, 92 Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة",C,23.14,11.47,15.98,13.2
+118,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Logma. Detailed address: 26b شارع, جميرا 2, جميرا, دبي, الإمارات العربية المتحدة
+2. Golden Fork Seafood Restaurant Al Barsha. Detailed address: شارع الشيخ زايد, البرشاء 1, دبي, الإمارات العربية المتحدة",D,9.63,8.46,3.87,11.16
+119,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Holistic Healing Medical Centre. Detailed address: 101, شارع الوصل, أم سقيم 3, دبي, الإمارات العربية المتحدة
+2. Dubai Land & Property Department. Detailed address: شارع بني ياس, ديرة, رقة البطين, دبي, الإمارات العربية المتحدة",C,11.49,10.65,18.33,20.84
+120,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Manna. Detailed address: 13a شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة
+2. Community Pharmacy. Detailed address: 34b شارع, السطوة, دبي, الإمارات العربية المتحدة",A,9.8,17.31,11.45,1.82
+121,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sunface Medical Center. Detailed address: JLT Cluster X, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة
+2. Careem Bike. Detailed address: شارع العهود, وسط مدينة دبي, دبي, الإمارات العربية المتحدة",C,19.45,13.39,17.79,11.1
+122,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mythos. Detailed address: JLT Cluster P, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة
+2. Za'abeel Studio. Detailed address: شارع جميرا, جميرا, دبي, الإمارات العربية المتحدة",C,21.97,17.42,20.54,24.39
+123,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tasty Burger. Detailed address: شارع لولو, District 12, قرية جميرا الدائرية, دبي, الإمارات العربية المتحدة
+2. اينوك. Detailed address: شارع القدس, الطوار 2, الطوار, دبي, الإمارات العربية المتحدة",D,22.94,22.26,22.81,28.36
+124,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bin Suloom Building. Detailed address: شارع 26, الجداف, دبي, الإمارات العربية المتحدة
+2. Modern Pharmaceutical Company. Detailed address: ZDEGREE Tires, شارع 4, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة",D,21.21,10.1,17.02,15.71
+125,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Krispy Kreme. Detailed address: شارع الشيخ زايد, القوز 3, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. Nemo Watersports Jetski & Flyboard. Detailed address: Al Soon Street, أم سقيم 2, أم سقيم, دبي, الإمارات العربية المتحدة",D,12.49,11.03,3.69,4.76
+126,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Coffee Lab UAE. Detailed address: Shop 4, شارع جميرا, بر دبي, ميناء راشد, دبي, الإمارات العربية المتحدة
+2. HSBC. Detailed address: شارع عمان, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة",B,17.48,11.15,15.2,15.67
+127,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Heart Of Europe. Detailed address: دبي, الإمارات العربية المتحدة
+2. Giraffe. Detailed address: مطار دبي الدولي, 20c شارع, الطوار 4, القصيص, دبي, الإمارات العربية المتحدة",B,13.25,20.2,24.77,19.08
+128,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tomato & Basilicp. Detailed address: شارع كايت بيتش, أم سقيم 1, أم سقيم, دبي, الإمارات العربية المتحدة
+2. United Arab Bank. Detailed address: 64, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة",D,2.44,2.46,3.36,8.99
+129,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Yos. Detailed address: شارع 25, بر دبي, الحضيبة, دبي, الإمارات العربية المتحدة
+2. Mr. Toad's Pub and Kitchen. Detailed address: شارع الخريف 2, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة",A,18.3,21.88,15.78,13.8
+130,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Unwind Specialty Boardgame Cafe. Detailed address: Tower B, Park Gate Residences, Jogging track, بر دبي, زعبيل, دبي, الإمارات العربية المتحدة
+2. Dostea. Detailed address: شارع 26, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة",A,2.13,7.87,6.23,8.74
+131,"What is the straight-line distance between the following two locations? (Unit is km)
+1. GymNation. Detailed address: Kunooz 1 Street, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. Karak Alfreej. Detailed address: 20a شارع, ند شما, الراشدية, دبي, الإمارات العربية المتحدة",B,20.35,18.31,10.33,24.06
+132,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mosaic. Detailed address: شارع المرسى, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة
+2. Eat & Drink Restaurant. Detailed address: 31a شارع, القرهود, دبي, الإمارات العربية المتحدة",D,24.48,24.12,23.98,27.42
+133,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Aryaas. Detailed address: شارع النهدة, القصيص, دبي, الإمارات العربية المتحدة
+2. Emirates Post. Detailed address: مركز دبي التجاري العالمي, شارع المعارض, مركز دبي التجاري العالمي, المركز التجاري, دبي, 9292, الإمارات العربية المتحدة",C,5.63,3.69,9.71,14.16
+134,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dnata Building. Detailed address: شارع آل مكتوم, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة
+2. AB Plaza. Detailed address: ديرة, هور العنز, دبي, الإمارات العربية المتحدة",D,1.86,6.11,4.47,2.95
+135,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jungle Juice. Detailed address: Tower 3, 27/1d, شارع الشيخ محمد بن زايد, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة
+2. Green Lagoon Restaurant. Detailed address: شارع السيداف 1, البرشاء, البرشاء 1, دبي, الإمارات العربية المتحدة",D,9.02,13.81,13.72,16.98
+136,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chutney's. Detailed address: شارع 19, بر دبي, عود ميثاء, دبي, الإمارات العربية المتحدة
+2. Gulf Crown. Detailed address: شارع 35, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة",B,9.17,1.45,8.68,4.21
+137,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chilis. Detailed address: شارع 1, القرهود, دبي, الإمارات العربية المتحدة
+2. Aster Medical Center. Detailed address: 6a شارع, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة",B,2.08,4.97,3.77,10.14
+138,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Elements Gaming Cafe. Detailed address: شارع 44, ديرة, الممزر, دبي, الإمارات العربية المتحدة
+2. Wadi Al Khair Cafeteria. Detailed address: شارع هور العنز, ديرة, هور العنز, دبي, الإمارات العربية المتحدة",C,4.53,6.45,2.34,7.95
+139,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Car Lease. Detailed address: شارع 4, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. Xzotica Restaurant. Detailed address: شارع عمر بن الخطاب, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة",D,14.37,12.33,15.36,20.19
+140,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Ansari Exchange. Detailed address: طريق خالد بن الوليد, بر دبي, الحمرية, دبي, الإمارات العربية المتحدة
+2. Galadari. Detailed address: شارع 28, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة",B,11.49,3.58,7.69,7.44
+141,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Citibank. Detailed address: شارع الرازي, بر دبي, أم هرير, دبي, الإمارات العربية المتحدة
+2. Premier Inn Dubai Al Jaddaf. Detailed address: شارع 26, الجداف, دبي, الإمارات العربية المتحدة",B,5.04,1.18,3.45,6.3
+142,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Costa. Detailed address: شارع الميدان, الخليج التجاري, وسط مدينة دبي, دبي, الإمارات العربية المتحدة
+2. Khalidha Medical Centre. Detailed address: شارع لطيفة بنت حمدان, القوز, مجتمع القوز, دبي, الإمارات العربية المتحدة",D,4.67,4.51,7.93,3.18
+143,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Shere Punjab. Detailed address: شارع 12, القوز, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. Century Express. Detailed address: 31a شارع, القرهود, دبي, الإمارات العربية المتحدة",C,16.37,21.79,13.89,11.45
+144,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Shamsi Building. Detailed address: شارع 24, ديرة, المطينة, دبي, الإمارات العربية المتحدة
+2. Safeer Tower 2. Detailed address: الخليج التجاري, وسط مدينة دبي, دبي, الإمارات العربية المتحدة",D,6.28,8.16,4.92,11.42
+145,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lotus hotel. Detailed address: 34a شارع, رقة البطين, ديرة, المرقبات, دبي, الإمارات العربية المتحدة
+2. Emaar Sales Center. Detailed address: شارع الشيخ محمد بن راشد, وسط مدينة دبي, دبي, الإمارات العربية المتحدة",A,9.0,2.93,16.2,16.86
+146,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dubai Islands Marina. Detailed address: جسر إنفينيتي, الكورنيش, كورنيش ديرة, دبي, الإمارات العربية المتحدة
+2. مركز دبي المالي العالمي. Detailed address: شارع الصكوك, مركز دبي المالي العالمي, زعبيل, دبي, الإمارات العربية المتحدة",A,8.34,10.78,11.02,4.76
+147,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Tawakkul Restaurant. Detailed address: 43b شارع, ديرة, نايف, ديرة, دبي, الإمارات العربية المتحدة
+2. Blodan. Detailed address: شارع 5, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة",B,7.8,5.9,2.24,12.88
+148,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ramses. Detailed address: ممشى المارينا, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة
+2. L’eto. Detailed address: Palm Jumeirah Road, نخلة جميرا, دبي, الإمارات العربية المتحدة",A,3.72,0.51,4.73,9.87
+149,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Wellness Village substation. Detailed address: الجداف, دبي, الإمارات العربية المتحدة
+2. Roto Packing Materials Industry Company. Detailed address: شارع الكهرمان 4, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة",A,13.98,19.67,9.03,11.38
+150,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fouquet's. Detailed address: شارع الشيخ محمد بن راشد, وسط مدينة دبي, دبي, الإمارات العربية المتحدة
+2. Pak Darbar. Detailed address: شارع عمان, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة",D,15.29,22.17,18.85,14.19
+151,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ODEON Restaurant, Market & Catering. Detailed address: شارع جميرا, جميرا 3, جميرا, دبي, الإمارات العربية المتحدة
+2. Modern Bakery. Detailed address: شارع 6ب, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة",B,10.44,5.4,2.13,11.19
+152,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Señor Pico. Detailed address: West Beach, نخلة جميرا, دبي, الإمارات العربية المتحدة
+2. Magic Fork. Detailed address: شارع الكويت, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة",B,18.61,22.3,19.2,17.43
+153,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Istanbul Restaurant. Detailed address: شارع 24, ديرة, هور العنز, دبي, الإمارات العربية المتحدة
+2. بيت المندي. Detailed address: شارع المرقبات, ديرة, المرقبات, دبي, الإمارات العربية المتحدة",D,11.23,5.87,8.08,3.23
+154,"What is the straight-line distance between the following two locations? (Unit is km)
+1. city pharmacy. Detailed address: شارع الرقة, ديرة, المرقبات, دبي, الإمارات العربية المتحدة
+2. Chilis. Detailed address: شارع 1, القرهود, دبي, الإمارات العربية المتحدة",B,2.65,4.26,9.81,2.65
+155,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nasma Tower. Detailed address: Zafrana, Al Nahda 1, 12 Street, النهدة, دبي, الإمارات العربية المتحدة
+2. Medlink Clinic. Detailed address: 31a شارع, جميرا, دبي, الإمارات العربية المتحدة",D,13.98,5.94,16.17,12.28
+156,"What is the straight-line distance between the following two locations? (Unit is km)
+1. دجاج كنتاكي. Detailed address: 53/2, شارع الشيخ محمد بن زايد, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة
+2. Noodle Room. Detailed address: شارع JBR, Jumeirah Beach Residence, مرسى دبي, دبي, الإمارات العربية المتحدة",A,24.86,23.5,21.29,20.35
+157,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Benelli. Detailed address: شارع الشيخ محمد بن راشد, وسط مدينة دبي, دبي, الإمارات العربية المتحدة
+2. Aprons&Hammers. Detailed address: 39b شارع, جميرا, دبي, الإمارات العربية المتحدة",A,4.32,11.29,5.37,5.41
+158,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Emirates Tower Seaside Metro Bus Stop. Detailed address: شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة
+2. HOSEXPRESS MIDDLE EAST L.L.C. Detailed address: Al Azzani Ready Mix, شارع الخيل الأول, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة",B,9.66,11.67,7.97,13.51
+159,"What is the straight-line distance between the following two locations? (Unit is km)
+1. United Arab Bank. Detailed address: 64, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة
+2. Grayling UAE. Detailed address: ITP Media Group FZ LLC, Building 14, شارع البروج, الصفوح, قرية المعرفة, دبي, 500024, الإمارات العربية المتحدة",A,18.14,15.92,13.41,12.87
+160,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Apple International School. Detailed address: شارع دمشق, القصيص 2, القصيص, دبي, الإمارات العربية المتحدة
+2. Vision Tower. Detailed address: Eurostar Communications LLC, شارع الخليج التجاري 1, الخليج التجاري, وسط مدينة دبي, الخليج التجاري, دبي, الإمارات العربية المتحدة",A,14.72,16.85,7.0,19.65
+161,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mulberry Park. Detailed address: شارع 5, District 15, البرشاء جنوب 4, دبي, الإمارات العربية المتحدة
+2. Dubai Offshore Sailing Club. Detailed address: Dubai Offshore Sailing CLub, شارع الحد, جميرا 3, جميرا, دبي, الإمارات العربية المتحدة",B,19.08,12.85,14.46,8.58
+162,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Leqaa. Detailed address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة
+2. ستاربكس. Detailed address: شارع المرسى, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة",D,24.85,20.93,24.65,28.28
+163,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Heratiya tradition & exchange. Detailed address: شارع ديرة, ديرة, نايف, ديرة, دبي, الإمارات العربية المتحدة
+2. Lamagon Restaurant and Sweets. Detailed address: 63 Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة",C,22.28,12.3,19.04,22.96
+164,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Eurostar. Detailed address: طريق المطار, مطار دبي الدولي, دبي, الإمارات العربية المتحدة
+2. LIFE Pharmacy - Bin Seray. Detailed address: شارع 4, بر دبي, عود ميثاء, دبي, الإمارات العربية المتحدة",B,7.95,3.79,9.17,8.74
+165,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Za'abeel Studio. Detailed address: شارع جميرا, جميرا, دبي, الإمارات العربية المتحدة
+2. مطعم الفهيدي. Detailed address: شارع 21أ, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة",B,1.78,4.88,12.62,7.81
+166,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gulfdrug. Detailed address: 3b شارع, أم رمول, دبي, الإمارات العربية المتحدة
+2. DEWA - Dubai Electricity and Water Authority. Detailed address: 33, 15c شارع, الوصل, دبي, الإمارات العربية المتحدة",B,13.95,10.43,5.33,14.4
+167,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Warda Al Dahabiya Coffee. Detailed address: 18b شارع, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة
+2. @Falafel. Detailed address: شارع الملك سلمان بن عبدالعزيز آل سعود, Park Island, مرسى دبي, دبي, الإمارات العربية المتحدة",B,20.76,27.62,22.99,22.62
+168,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bhatia Brothers. Detailed address: Tanwir Rehman, 1, شارع 23, القوز الصناعية 1, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. برج بارك. Detailed address: Wheelchair access, وسط مدينة دبي, دبي, الإمارات العربية المتحدة",B,4.91,7.74,10.69,14.78
+169,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Arajeel. Detailed address: Pedestrian Bridge, القرهود, مطار دبي الدولي, دبي, الإمارات العربية المتحدة
+2. Hamarain Center. Detailed address: طريق أبو بكر الصديق, ديرة, المرقبات, دبي, الإمارات العربية المتحدة",C,0.88,5.22,1.95,6.27
+170,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Block 8. Detailed address: ICCA Dubai, شارع المعرفة, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة
+2. Deira Business Village Building B. Detailed address: Gold's Gym, 36a شارع, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة",D,20.87,22.02,22.22,23.86
+171,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Abeer Cafeteria. Detailed address: طريق خالد بن الوليد, بر دبي, الرفاعة, دبي, الإمارات العربية المتحدة
+2. Pizza Hut. Detailed address: شارع صلاح الدين, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة",C,7.67,5.33,3.51,7.03
+172,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Modern Pharmaceutical Company. Detailed address: ZDEGREE Tires, شارع 4, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. Damascus Road 2. Detailed address: شارع دمشق, القصيص الصناعية 1, القصيص الصناعية, دبي, الإمارات العربية المتحدة",C,20.93,21.98,24.54,20.3
+173,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Emirates Post. Detailed address: مركز دبي التجاري العالمي, شارع المعارض, مركز دبي التجاري العالمي, المركز التجاري, دبي, 9292, الإمارات العربية المتحدة
+2. Eternal Poly Clinic. Detailed address: شارع جميرا, جميرا 2, جميرا, دبي, الإمارات العربية المتحدة",C,2.38,12.73,6.03,12.61
+174,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Domino's. Detailed address: شارع المرسى, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة
+2. Winny's. Detailed address: 20b شارع, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة",B,18.81,23.51,17.11,21.09
+175,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Brummanah Restaurant and Cafe. Detailed address: 11, شارع 55, القرهود, دبي, الإمارات العربية المتحدة
+2. Bank of Sharjah. Detailed address: شارع الفلك, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة",D,20.02,21.0,22.2,25.01
+176,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Paul Brown Knife Store. Detailed address: شارع 20, ديرة, الخبيصي, دبي, الإمارات العربية المتحدة
+2. Citibank. Detailed address: شارع الرازي, بر دبي, أم هرير, دبي, الإمارات العربية المتحدة",D,1.92,0.94,9.48,4.91
+177,"What is the straight-line distance between the following two locations? (Unit is km)
+1. United Bank Limited. Detailed address: شارع الشيخ زايد, البرشاء 1, دبي, الإمارات العربية المتحدة
+2. ENOC. Detailed address: enoc petrol station, شارع 2 ديسمبر, جميرا, دبي, الإمارات العربية المتحدة",A,16.17,18.39,22.29,14.54
+178,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Royal Class Car Repairing. Detailed address: 6a شارع, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. Hope City. Detailed address: 18a شارع, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة",C,4.32,5.82,2.16,3.97
+179,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pranzo Eatery. Detailed address: شارع الفصول, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة
+2. Almarkeb Seafood Restaurant & Cafe. Detailed address: طريق خالد بن الوليد, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة",C,14.57,18.4,22.04,19.92
+180,"What is the straight-line distance between the following two locations? (Unit is km)
+1. All Metals Industries. Detailed address: شارع 27, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. Jumeirah Village Circle Villas. Detailed address: قرية جميرا الدائرية, دبي, الإمارات العربية المتحدة",C,11.03,5.24,7.16,14.09
+181,"What is the straight-line distance between the following two locations? (Unit is km)
+1. King's Collage Health Clinic. Detailed address: شارع بلقيتير, أم سقيم 1, أم سقيم, دبي, الإمارات العربية المتحدة
+2. The Lighthouse. Detailed address: Canal Walk, زعبيل, دبي, الإمارات العربية المتحدة",C,16.28,14.55,9.2,14.41
+182,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Italian Dental Clinic. Detailed address: 33, Al Madina Al Tebbia Street, مدينة دبي الطبية, بر دبي, أم هرير, دبي, الإمارات العربية المتحدة
+2. Al Hilal Bank. Detailed address: شارع 65, القرهود, دبي, الإمارات العربية المتحدة",C,10.65,4.44,2.91,9.13
+183,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Abdel wahab central kitchen. Detailed address: 11a شارع, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. Fouquet's. Detailed address: شارع الشيخ محمد بن راشد, وسط مدينة دبي, دبي, الإمارات العربية المتحدة",B,3.6,8.93,4.99,6.61
+184,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ENOC Car Wash. Detailed address: شارع عمان, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة
+2. Cinema Cafe and Restaurant. Detailed address: طريق أم هرير, بر دبي, عود ميثاء, دبي, الإمارات العربية المتحدة",C,3.33,10.51,8.39,4.03
+185,"What is the straight-line distance between the following two locations? (Unit is km)
+1. SMJ1. Detailed address: Levantine Dental Clinic, شارع الشيخ زايد, الصفا 1, الصفا, دبي, الإمارات العربية المتحدة
+2. Al Tajer Residences (The Old Town). Detailed address: Rental Cars UAE - Dubai Mall, 3902, شارع الشيخ محمد بن راشد, وسط مدينة دبي, دبي, 35114, الإمارات العربية المتحدة",C,5.83,6.4,3.71,11.22
+186,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Istanbul Flower Cafe. Detailed address: شارع المرسى, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة
+2. Little Bangkok -urban thai. Detailed address: 77, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة",C,22.25,21.66,19.58,12.62
+187,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Safeer Tower 2. Detailed address: الخليج التجاري, وسط مدينة دبي, دبي, الإمارات العربية المتحدة
+2. Class Hotel Apartments. Detailed address: شارع الربيع 2, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة",B,5.47,13.35,6.9,11.04
+188,"What is the straight-line distance between the following two locations? (Unit is km)
+1. International Aesthetic. Detailed address: شارع الوصل, جميرا 2, جميرا, دبي, الإمارات العربية المتحدة
+2. Elements Gaming Cafe. Detailed address: شارع 44, ديرة, الممزر, دبي, الإمارات العربية المتحدة",B,16.69,13.96,21.38,18.45
+189,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dubai Offshore Sailing Club. Detailed address: Dubai Offshore Sailing CLub, شارع الحد, جميرا 3, جميرا, دبي, الإمارات العربية المتحدة
+2. Emirates Identity Authority Center. Detailed address: شارع 20, البرشاء شمال, البرشاء 3, دبي, الإمارات العربية المتحدة",D,15.08,8.38,2.89,9.66
+190,"What is the straight-line distance between the following two locations? (Unit is km)
+1. بيت المندي. Detailed address: شارع المرقبات, ديرة, المرقبات, دبي, الإمارات العربية المتحدة
+2. OzOn Cafe. Detailed address: entrance, ديرة, هور العنز, دبي, الإمارات العربية المتحدة",B,7.48,2.84,10.35,4.44
+191,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Eat & Drink. Detailed address: شارع الشيخ زايد, البرشاء 1, دبي, الإمارات العربية المتحدة
+2. Yeshi kava restaurant llcam. Detailed address: 4b شارع, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة",B,12.51,18.01,21.12,12.27
+192,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bristol Charter. Detailed address: ممشى المارينا, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة
+2. Grill time. Detailed address: 29, البرشاء, البرشاء جنوب 3, دبي, الإمارات العربية المتحدة",A,9.3,14.71,15.91,6.05
+193,"What is the straight-line distance between the following two locations? (Unit is km)
+1. سنشري مول. Detailed address: شارع الرشيد, ديرة, الممزر, دبي, الإمارات العربية المتحدة
+2. Khansaheb Building Services. Detailed address: 10a شارع, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة",C,14.93,18.63,21.74,18.67
+194,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Ahli Driving Center. Detailed address: Training Road, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. Insportz Club. Detailed address: 17a شارع, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة",C,4.19,5.31,1.54,7.04
+195,"What is the straight-line distance between the following two locations? (Unit is km)
+1. VOX Cinemas. Detailed address: شارع الشيخ خليفة بن زايد, بر دبي, المنخول, دبي, الإمارات العربية المتحدة
+2. Al Obaid Cafeteria. Detailed address: شارع علي بن أبي طالب, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة",A,1.42,4.51,5.87,6.19
+196,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Roto Packing Materials Industry Company. Detailed address: شارع الكهرمان 4, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. Lotus hotel. Detailed address: 34a شارع, رقة البطين, ديرة, المرقبات, دبي, الإمارات العربية المتحدة",C,23.91,15.88,18.62,19.94
+197,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Grayling UAE. Detailed address: ITP Media Group FZ LLC, Building 14, شارع البروج, الصفوح, قرية المعرفة, دبي, 500024, الإمارات العربية المتحدة
+2. Subway. Detailed address: شارع الشيخ زايد, الخليج التجاري, وسط مدينة دبي, دبي, الإمارات العربية المتحدة",B,11.55,14.45,20.73,21.17
+198,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Popeyes. Detailed address: شارع الشيخ زايد بن حمدان آل نهيان, وادي الصفا 5, دبي, الإمارات العربية المتحدة
+2. Al Qariyath Cafeteria. Detailed address: شارع 25, ديرة, أبو هيل, دبي, الإمارات العربية المتحدة",D,20.45,21.66,22.64,24.44
+199,"What is the straight-line distance between the following two locations? (Unit is km)
+1. كرسبي كريم. Detailed address: 34b شارع, السطوة, دبي, الإمارات العربية المتحدة
+2. Arrows and Sparrows Cafe. Detailed address: شارع الربيع, الروضة, الصفوح 2, دبي, الإمارات العربية المتحدة",D,19.5,18.85,10.69,16.41
+200,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Eye Star Cofe Shop. Detailed address: 14a شارع, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة
+2. Créme. Detailed address: شارع الوصل, الوصل, دبي, الإمارات العربية المتحدة",A,11.02,14.49,14.59,18.53
+201,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Magic Fork. Detailed address: شارع الكويت, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة
+2. Nadapuram Restaurant. Detailed address: شارع النهضة, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة",B,4.88,1.62,5.57,3.44
+202,"What is the straight-line distance between the following two locations? (Unit is km)
+1. اينوك. Detailed address: شارع القدس, الطوار 2, الطوار, دبي, الإمارات العربية المتحدة
+2. Kriskos. Detailed address: Metro Link, وسط مدينة دبي, دبي, الإمارات العربية المتحدة",A,12.65,8.55,10.17,19.09
+203,"What is the straight-line distance between the following two locations? (Unit is km)
+1. الخدمات اللوجستية الصناعية عالية التقنية. Detailed address: 64 Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة
+2. Microline. Detailed address: شارع الراعبي 3, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة",B,20.62,16.27,19.01,11.32
+204,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Strong Rent A Car. Detailed address: شارع 2, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة
+2. Daily restaurant. Detailed address: Apricot Tower, 19a, 91 Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة",A,19.94,17.96,23.78,13.94
+205,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Winny's. Detailed address: 20b شارع, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة
+2. Al Sham Rose Restaurant. Detailed address: شارع بغداد, النهدة, دبي, الإمارات العربية المتحدة",D,7.51,3.09,6.37,8.6
+206,"What is the straight-line distance between the following two locations? (Unit is km)
+1. سكن العمالية إجادة. Detailed address: شارع المرابع, القوز الصناعية 1, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. American. Detailed address: شارع البرشاء 1, البرشاء, البرشاء 1, دبي, الإمارات العربية المتحدة",B,1.71,4.75,9.39,10.38
+207,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cinema Cafe and Restaurant. Detailed address: طريق أم هرير, بر دبي, عود ميثاء, دبي, الإمارات العربية المتحدة
+2. Priory Wellbeing. Detailed address: شارع 19, بر دبي, أم هرير, دبي, الإمارات العربية المتحدة",B,3.21,1.28,7.87,3.15
+208,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bin Zayed Mosque. Detailed address: Heritage of Nepal, طريق الغبيبة, بر دبي, الشندغة, دبي, الإمارات العربية المتحدة
+2. Al Gurg Building. Detailed address: Aoowal Opticals, طريق خالد بن الوليد, بر دبي, المنخول, دبي, الإمارات العربية المتحدة",B,2.6,1.34,5.42,7.75
+209,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Khafayef. Detailed address: شارع 23, بر دبي, الحضيبة, دبي, الإمارات العربية المتحدة
+2. Union. Detailed address: 28b شارع, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة",B,12.03,14.92,22.62,10.29
+210,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Galadari. Detailed address: شارع 28, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة
+2. Rumaan Hyderabad. Detailed address: شارع الشيخ خليفة بن زايد, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة",C,9.09,0.83,3.11,5.63
+211,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nahawand. Detailed address: شارع الشيخ زايد, Sheikh Zayed Road, الوصل, دبي, الإمارات العربية المتحدة
+2. Shang Palace. Detailed address: شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة",B,7.13,0.7,4.39,6.45
+212,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Irish Village. Detailed address: شارع 2, القرهود, دبي, الإمارات العربية المتحدة
+2. August Medical Neurological Rehabilitation. Detailed address: شارع 19, بر دبي, أم هرير, دبي, الإمارات العربية المتحدة",B,10.35,2.47,0.99,10.14
+213,"What is the straight-line distance between the following two locations? (Unit is km)
+1. BQ - French Kitchen & Bar. Detailed address: مشي القناة, الخليج التجاري, وسط مدينة دبي, دبي, الإمارات العربية المتحدة
+2. Samaa Medical Centre. Detailed address: شارع الخماري, جميرا 3, جميرا, دبي, الإمارات العربية المتحدة",C,9.09,0.72,1.85,9.33
+214,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sultan Dubai Falafel Restaurant. Detailed address: شارع المرقبات, ديرة, المرقبات, دبي, الإمارات العربية المتحدة
+2. BRGR. Detailed address: شارع كايت بيتش, أم سقيم 1, أم سقيم, دبي, الإمارات العربية المتحدة",C,18.84,17.74,16.08,13.38
+215,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Downtown Views II. Detailed address: Rove, شارع الشيخ محمد بن راشد, زعبيل, دبي, الإمارات العربية المتحدة
+2. Belhoul Speciality Hospital. Detailed address: شارع 2, ديرة, شارع 2, ديرة, دبي, الإمارات العربية المتحدة",B,16.73,9.25,1.36,12.62
+216,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Stationery Dubai. Detailed address: 5, 37a شارع, ديرة, نايف, ديرة, دبي, الإمارات العربية المتحدة
+2. Fifty One Business Bay Tower. Detailed address: Tea Room Cafe, طريق مراسي, الخليج التجاري, وسط مدينة دبي, الخليج التجاري, دبي, الإمارات العربية المتحدة",A,9.83,2.47,4.31,7.99
+217,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Aprons&Hammers. Detailed address: 39b شارع, جميرا, دبي, الإمارات العربية المتحدة
+2. The Heart Of Europe. Detailed address: دبي, الإمارات العربية المتحدة",C,7.3,5.23,9.39,7.15
+218,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nadapuram Restaurant. Detailed address: شارع النهضة, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة
+2. Al Jazeerah Pharmacy. Detailed address: طريق السبخة, ديرة, الرقة, ديرة, دبي, الإمارات العربية المتحدة",A,1.5,4.71,5.52,5.9
+219,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Joyalukas Exchange. Detailed address: Sahara Centre Overpass, النهدة, مدينة الشارقة, الشارقة, الإمارات العربية المتحدة
+2. Appa Tea Restaurant. Detailed address: شارع 8, ديرة, عيال ناصر, ديرة, دبي, الإمارات العربية المتحدة",C,2.02,14.58,7.42,14.83
+220,"What is the straight-line distance between the following two locations? (Unit is km)
+1. DRS Juice. Detailed address: شارع السطوة, السطوة, دبي, الإمارات العربية المتحدة
+2. BurgerFuel. Detailed address: شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة",D,3.26,7.5,3.89,1.25
+221,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rumaan Hyderabad. Detailed address: شارع الشيخ خليفة بن زايد, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة
+2. Arab Taste Restaurant & Cafeteria. Detailed address: 22a شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة",A,5.59,12.11,9.3,12.35
+222,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mr. Toad's Pub and Kitchen. Detailed address: شارع الخريف 2, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة
+2. Eurostar. Detailed address: طريق المطار, مطار دبي الدولي, دبي, الإمارات العربية المتحدة",D,21.41,17.12,21.32,23.72
+223,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Insportz Club. Detailed address: 17a شارع, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. Señor Pico. Detailed address: West Beach, نخلة جميرا, دبي, الإمارات العربية المتحدة",A,7.38,8.56,5.26,3.74
+224,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tent Ju Meirah Restaurant. Detailed address: Al Soon Street, أم سقيم 2, أم سقيم, دبي, الإمارات العربية المتحدة
+2. Utility. Detailed address: شارع العراء, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة",B,2.24,8.45,1.7,13.62
+225,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Najimuddin Teastall. Detailed address: 2c شارع, ديرة, نايف, ديرة, دبي, الإمارات العربية المتحدة
+2. Pranzo Eatery. Detailed address: شارع الفصول, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة",C,17.35,19.97,23.85,22.36
+226,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Marar Al Jaded Cafeteria. Detailed address: شارع 24, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة
+2. Binsina. Detailed address: 4a شارع, جميرا, دبي, الإمارات العربية المتحدة",D,0.5,4.53,13.33,7.29
+227,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Apachi Restaurant & Cafe. Detailed address: شارع المرسى, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة
+2. Istanbul Restaurant. Detailed address: شارع 24, ديرة, هور العنز, دبي, الإمارات العربية المتحدة",B,24.59,31.72,24.52,24.75
+228,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Habib Bank Limited. Detailed address: طريق المصلى, ديرة, عيال ناصر, ديرة, دبي, الإمارات العربية المتحدة
+2. Sobahn Korean Japanese Restaurant. Detailed address: شارع الشيخ زايد, الصفا 1, الصفا, دبي, الإمارات العربية المتحدة",A,12.23,7.38,19.92,19.59
+229,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Daily restaurant. Detailed address: Apricot Tower, 19a, 91 Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة
+2. Panino. Detailed address: شارع العراء, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة",D,17.48,22.15,15.95,23.44
+230,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Eternal Poly Clinic. Detailed address: شارع جميرا, جميرا 2, جميرا, دبي, الإمارات العربية المتحدة
+2. Al Fai. Detailed address: شارع الحضيبة, البدع, دبي, الإمارات العربية المتحدة",C,7.64,1.39,5.33,8.2
+231,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Roward. Detailed address: شارع عمر بن الخطاب, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة
+2. Popeyes. Detailed address: شارع الشيخ زايد بن حمدان آل نهيان, وادي الصفا 5, دبي, الإمارات العربية المتحدة",C,15.36,24.7,23.11,21.07
+232,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bahr Al Hanan Cafe. Detailed address: شارع 10, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة
+2. GymNation. Detailed address: Kunooz 1 Street, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة",C,12.36,19.78,17.2,23.81
+233,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ella’s Eatery. Detailed address: Shoreline Street, نخلة جميرا, دبي, الإمارات العربية المتحدة
+2. Wendy's. Detailed address: اينوك, طريق الخيل, البرشاء, البرشاء جنوب 1, دبي, الإمارات العربية المتحدة",C,4.68,1.62,8.94,10.15
+234,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Panino. Detailed address: شارع العراء, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة
+2. Al Barshaa. Detailed address: Ras Al Khor Road, مجتمع رأس الخور الجديد, رأس الخور الصناعية 2, دبي, الإمارات العربية المتحدة",B,24.76,22.78,15.1,21.07
+235,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Capital Hotel Apartment. Detailed address: Arctic, شارع 23, ديرة, الرقة, ديرة, دبي, الإمارات العربية المتحدة
+2. Concourse B-C Connector. Detailed address: Terminal 03 Arrival, مطار دبي الدولي, دبي, الإمارات العربية المتحدة",D,6.67,9.64,0.52,4.77
+236,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Barshaa. Detailed address: Ras Al Khor Road, مجتمع رأس الخور الجديد, رأس الخور الصناعية 2, دبي, الإمارات العربية المتحدة
+2. Farooj. Detailed address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة",C,17.01,12.13,10.38,11.72
+237,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Priory Wellbeing. Detailed address: شارع 19, بر دبي, أم هرير, دبي, الإمارات العربية المتحدة
+2. مسجد الجسمي. Detailed address: 9a شارع, ند شما, الراشدية, دبي, الإمارات العربية المتحدة",B,10.81,7.06,11.72,3.79
+238,"What is the straight-line distance between the following two locations? (Unit is km)
+1. كاريبو كوفي. Detailed address: Opera Plaza, وسط مدينة دبي, دبي, الإمارات العربية المتحدة
+2. Fast One. Detailed address: 22b شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة",D,18.46,17.92,17.18,12.43
+239,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bank of Sharjah. Detailed address: شارع الفلك, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة
+2. Al Ansari Exchange. Detailed address: طريق خالد بن الوليد, بر دبي, الحمرية, دبي, الإمارات العربية المتحدة",A,22.83,19.22,17.87,15.34
+240,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Uch Kuduk. Detailed address: شارع الفالح, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة
+2. Al Fida Medical Centre. Detailed address: شارع الكويت, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة",D,18.45,21.41,22.98,24.16
+241,"What is the straight-line distance between the following two locations? (Unit is km)
+1. بنك المشرق. Detailed address: 3a شارع, القوز 3, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. King's Collage Health Clinic. Detailed address: شارع بلقيتير, أم سقيم 1, أم سقيم, دبي, الإمارات العربية المتحدة",C,6.26,6.18,2.24,8.63
+242,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Century Express. Detailed address: 31a شارع, القرهود, دبي, الإمارات العربية المتحدة
+2. Eton University. Detailed address: شارع البروج, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة",D,19.39,19.96,16.42,24.06
+243,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Premier Inn Dubai Al Jaddaf. Detailed address: شارع 26, الجداف, دبي, الإمارات العربية المتحدة
+2. ملعب تنس. Detailed address: شارع 12, الينابيع, الينابيع 3, دبي, الإمارات العربية المتحدة",C,17.14,18.71,24.54,20.69
+244,"What is the straight-line distance between the following two locations? (Unit is km)
+1. BRGR. Detailed address: شارع كايت بيتش, أم سقيم 1, أم سقيم, دبي, الإمارات العربية المتحدة
+2. Seven Dental Centre. Detailed address: شارع جميرا, جميرا 3, جميرا, دبي, الإمارات العربية المتحدة",C,6.48,5.99,2.48,9.92
+245,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Falooda World. Detailed address: 20b شارع, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة
+2. Cold Stone Creamery. Detailed address: 36, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة",A,3.2,0.88,8.31,10.17
+246,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nad Shamma Park. Detailed address: شارع 201, ند شما, الراشدية, دبي, الإمارات العربية المتحدة
+2. Bin Dhaher. Detailed address: شارع الشيخ زايد, القوز الصناعية 3, مجتمع القوز, دبي, الإمارات العربية المتحدة",C,24.75,16.26,18.89,12.34
+247,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Khansaheb Building Services. Detailed address: 10a شارع, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. 1. Detailed address: شارع جميرا, بر دبي, الميناء, دبي, الإمارات العربية المتحدة",D,19.3,8.39,13.34,15.48
+248,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Meta Mindz Learning Center. Detailed address: شارع السرايات, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة
+2. Unwind Specialty Boardgame Cafe. Detailed address: Tower B, Park Gate Residences, Jogging track, بر دبي, زعبيل, دبي, الإمارات العربية المتحدة",B,24.43,22.32,24.68,19.88
+249,"What is the straight-line distance between the following two locations? (Unit is km)
+1. My Nursery. Detailed address: 10, 2a شارع, الوصل, دبي, الإمارات العربية المتحدة
+2. BNP Paribas. Detailed address: Metro Link, وسط مدينة دبي, دبي, الإمارات العربية المتحدة",C,9.09,9.5,1.97,7.98
+250,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Azure Residences. Detailed address: 39/4, 54 Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة
+2. MM Towers. Detailed address: 26, 91 Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة",D,6.72,3.61,6.54,1.51
+251,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Soho Grill. Detailed address: 121, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة
+2. Sofreh Kitchen & Grill. Detailed address: JLT Cluster X, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة",C,14.92,10.98,18.79,11.66
+252,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ستاربكس. Detailed address: شارع المرسى, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة
+2. Al Tawakkul Restaurant. Detailed address: 43b شارع, ديرة, نايف, ديرة, دبي, الإمارات العربية المتحدة",C,24.36,23.9,27.92,22.87
+253,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ProArt Gallery. Detailed address: شارع جميرا, جميرا, دبي, الإمارات العربية المتحدة
+2. Opus Lounge Dubai. Detailed address: شارع 19, بر دبي, عود ميثاء, دبي, الإمارات العربية المتحدة",C,9.7,7.57,4.74,9.12
+254,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Art X Tower. Detailed address: 18, 69 Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة
+2. The Crown. Detailed address: Eiffel Automatic Laundry, 3d شارع, ديرة, الممزر, دبي, الإمارات العربية المتحدة",B,13.41,19.31,24.38,16.29
+255,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Red Rooster. Detailed address: شارع الحضيبة, البدع, دبي, الإمارات العربية المتحدة
+2. Al Lail Al Hadi Coffee Shop. Detailed address: شارع 8, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة",D,4.05,12.97,11.81,6.42
+256,"What is the straight-line distance between the following two locations? (Unit is km)
+1. National Bank of Fujairah. Detailed address: طريق خالد بن الوليد, بر دبي, الحمرية, دبي, الإمارات العربية المتحدة
+2. HealthBay. Detailed address: شارع الوصل, أم الشيف, دبي, الإمارات العربية المتحدة",D,23.85,13.85,23.36,16.65
+257,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Romantic Baka. Detailed address: شارع الرقة, ديرة, المرقبات, دبي, الإمارات العربية المتحدة
+2. Reef Deira. Detailed address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة",C,7.28,5.73,1.07,6.42
+258,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hope City. Detailed address: 18a شارع, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. Gate 3. Detailed address: طريق المطار الداخلي, مطار دبي الدولي, دبي, الإمارات العربية المتحدة",A,20.4,16.48,17.88,12.96
+259,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Indigo Ville 8. Detailed address: شارع 5, District 15, البرشاء جنوب 4, دبي, الإمارات العربية المتحدة
+2. National Bank of Fujairah. Detailed address: طريق خالد بن الوليد, بر دبي, الحمرية, دبي, الإمارات العربية المتحدة",C,18.4,17.96,24.56,18.47
+260,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Grand Cafe. Detailed address: دبي مول, شارع المركز المالي, وسط مدينة دبي, دبي, الإمارات العربية المتحدة
+2. Eye Star Cofe Shop. Detailed address: 14a شارع, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة",D,5.1,2.89,14.55,9.07
+261,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Crown. Detailed address: Eiffel Automatic Laundry, 3d شارع, ديرة, الممزر, دبي, الإمارات العربية المتحدة
+2. Bldg 7. Detailed address: 4b, 92 Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة",C,12.17,13.57,18.82,20.39
+262,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hor-Al-Anz Primary Health Centre. Detailed address: 1b شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة
+2. Starbucks. Detailed address: شارع الممشى, Jumeirah Beach Residence, مرسى دبي, دبي, الإمارات العربية المتحدة",C,24.8,24.75,30.9,24.59
+263,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Concourse B-C Connector. Detailed address: Terminal 03 Arrival, مطار دبي الدولي, دبي, الإمارات العربية المتحدة
+2. Al Shaaab Colony No 78. Detailed address: شارع 39, ديرة, هور العنز, دبي, الإمارات العربية المتحدة",A,3.34,8.64,10.32,10.52
+264,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Best Bites. Detailed address: شارع البرشاء 1, البرشاء شمال, البرشاء 1, دبي, الإمارات العربية المتحدة
+2. Mede Pharmacy. Detailed address: شارع 2 ديسمبر, بر دبي, الحضيبة, دبي, الإمارات العربية المتحدة",C,20.11,21.82,15.94,22.53
+265,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Garage Auto Mobile. Detailed address: شارع 13, أم رمول, دبي, الإمارات العربية المتحدة
+2. Strong Rent A Car. Detailed address: شارع 2, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة",D,3.89,12.1,11.02,8.42
+266,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fish Hut Restaurant. Detailed address: شارع أم سقيم, البرشاء, البرشاء 2, دبي, 120730, الإمارات العربية المتحدة
+2. Zengo. Detailed address: شارع الفالح, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة",B,13.83,8.04,3.41,2.43
+267,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Easy 18 Apartments. Detailed address: شارع الشيخ محمد بن زايد, ورسان 4, دبي, الإمارات العربية المتحدة
+2. Dnata Building. Detailed address: شارع آل مكتوم, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة",B,10.21,13.7,9.98,9.99
+268,"What is the straight-line distance between the following two locations? (Unit is km)
+1. World Gym. Detailed address: شارع ند الحمر, أم رمول, دبي, الإمارات العربية المتحدة
+2. The Observatory. Detailed address: Marina Walk, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة",B,20.03,27.58,21.5,23.57
+269,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Shah Jee Restaurant. Detailed address: 18b شارع, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة
+2. Mosaic. Detailed address: شارع المرسى, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة",B,23.24,27.67,19.76,20.23
+270,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sofreh Kitchen & Grill. Detailed address: JLT Cluster X, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة
+2. Quick Drive Rent A Car. Detailed address: شارع 26, الجداف, دبي, الإمارات العربية المتحدة",D,18.64,16.92,16.81,24.15
+271,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Puranmal. Detailed address: 74, 90 Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة
+2. 50. Detailed address: شارع 12, بر دبي, أم هرير, دبي, الإمارات العربية المتحدة",C,12.82,8.75,15.26,9.74
+272,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Subway. Detailed address: شارع الشيخ زايد, الخليج التجاري, وسط مدينة دبي, دبي, الإمارات العربية المتحدة
+2. China Star Restaurant. Detailed address: 45c شارع, رقة البطين, ديرة, المرقبات, دبي, الإمارات العربية المتحدة",D,9.71,17.19,17.77,10.77
+273,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Giraffe. Detailed address: مطار دبي الدولي, 20c شارع, الطوار 4, القصيص, دبي, الإمارات العربية المتحدة
+2. Grand Cafe. Detailed address: دبي مول, شارع المركز المالي, وسط مدينة دبي, دبي, الإمارات العربية المتحدة",C,15.82,6.16,10.24,12.64
+274,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Star Metro Deira. Detailed address: 19b شارع, ديرة, المطينة, دبي, الإمارات العربية المتحدة
+2. Al Adhab Tower. Detailed address: Al Thani Building, 4, شارع 1, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة",C,4.09,2.14,5.29,2.45
+275,"What is the straight-line distance between the following two locations? (Unit is km)
+1. High Speed Rent a Car. Detailed address: 18b شارع, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة
+2. Joyalukas Exchange. Detailed address: Sahara Centre Overpass, النهدة, مدينة الشارقة, الشارقة, الإمارات العربية المتحدة",D,12.13,9.77,12.29,6.42
+276,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sobahn Korean Japanese Restaurant. Detailed address: شارع الشيخ زايد, الصفا 1, الصفا, دبي, الإمارات العربية المتحدة
+2. BordoMavi. Detailed address: Jumeirah Fishing Harbour, جميرا, دبي, الإمارات العربية المتحدة",A,3.57,6.95,8.76,1.87
+277,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Somar Restaurant. Detailed address: 38a شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة
+2. Hor-Al-Anz Primary Health Centre. Detailed address: 1b شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة",D,5.31,8.48,7.15,1.93
+278,"What is the straight-line distance between the following two locations? (Unit is km)
+1. hub 7. Detailed address: JLT Cluster M, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة
+2. Shere Punjab. Detailed address: شارع 12, القوز, مجتمع القوز, دبي, الإمارات العربية المتحدة",A,15.04,8.55,19.18,8.82
+279,"What is the straight-line distance between the following two locations? (Unit is km)
+1. BordoMavi. Detailed address: Jumeirah Fishing Harbour, جميرا, دبي, الإمارات العربية المتحدة
+2. Al Mamzar Rent a Car. Detailed address: شارع 28, ديرة, هور العنز, دبي, الإمارات العربية المتحدة",C,6.44,11.3,12.98,15.0
+280,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Noodle Room. Detailed address: شارع JBR, Jumeirah Beach Residence, مرسى دبي, دبي, الإمارات العربية المتحدة
+2. city pharmacy. Detailed address: شارع الرقة, ديرة, المرقبات, دبي, الإمارات العربية المتحدة",C,24.08,22.54,27.2,19.58
+281,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Hilal Bank. Detailed address: شارع 65, القرهود, دبي, الإمارات العربية المتحدة
+2. Hi Way Auto Service. Detailed address: شارع الشيخ زايد, تلال الإمارات, جبل علي 1, دبي, الإمارات العربية المتحدة",B,24.67,29.97,22.76,24.23
+282,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Fanar Restaurant & Café. Detailed address: 9, Crescent Drive Street, مرسى الخور, مجتمع رأس الخور الجديد, دبي فيستيفال سيتي, دبي, الإمارات العربية المتحدة
+2. Manna. Detailed address: 13a شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة",B,10.91,6.18,9.16,11.98
+283,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Abdulla Tower. Detailed address: Mitchiboi's place, شارع 18, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة
+2. XXII CARAT Club Villas. Detailed address: نخلة جميرا, دبي, الإمارات العربية المتحدة",C,25.0,24.92,32.87,24.93
+284,"What is the straight-line distance between the following two locations? (Unit is km)
+1. L’eto. Detailed address: Palm Jumeirah Road, نخلة جميرا, دبي, الإمارات العربية المتحدة
+2. سكن العمالية إجادة. Detailed address: شارع المرابع, القوز الصناعية 1, مجتمع القوز, دبي, الإمارات العربية المتحدة",D,16.16,14.23,15.55,9.54
+285,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hobby Centre. Detailed address: شارع 17, أم رمول, دبي, الإمارات العربية المتحدة
+2. Paul Brown Knife Store. Detailed address: شارع 20, ديرة, الخبيصي, دبي, الإمارات العربية المتحدة",D,11.65,9.11,5.86,4.31
+286,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Thai Taste. Detailed address: 29, البرشاء, البرشاء جنوب 3, دبي, الإمارات العربية المتحدة
+2. المطعم الافغاني. Detailed address: 6a شارع, ديرة, نايف, ديرة, دبي, الإمارات العربية المتحدة",D,19.18,22.25,22.67,24.16
+287,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Millennium Place Barsha Heights. Detailed address: Service Road, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة
+2. Airbus. Detailed address: شارع القدس, مطار دبي الدولي, دبي, الإمارات العربية المتحدة",D,21.15,21.38,21.8,27.24
+288,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Orchid Residence Al Jaddaf. Detailed address: الجداف, دبي, الإمارات العربية المتحدة
+2. Azure Residences. Detailed address: 39/4, 54 Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة",A,11.95,6.68,15.75,19.25
+289,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Reef Deira. Detailed address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة
+2. طهران. Detailed address: شارع جميرا, أم سقيم 2, أم سقيم, دبي, الإمارات العربية المتحدة",C,12.11,12.93,17.94,21.34
+290,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Jazeerah Pharmacy. Detailed address: طريق السبخة, ديرة, الرقة, ديرة, دبي, الإمارات العربية المتحدة
+2. كرسبي كريم. Detailed address: 34b شارع, السطوة, دبي, الإمارات العربية المتحدة",A,7.18,13.39,3.97,1.25
+291,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fresh Fish. Detailed address: 8a, ممشى المارينا, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة
+2. Skazka Al Saha. Detailed address: شارع 20, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة",D,21.3,22.75,20.58,27.7
+292,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Zoom. Detailed address: شارع جميرا, جميرا 3, جميرا, دبي, الإمارات العربية المتحدة
+2. Signature Villas Frond M, Palm Jumeirah. Detailed address: شارع سيفري - السعفة M, Signature Villas Frond M, Palm Jumeirah, نخلة جميرا, دبي, الإمارات العربية المتحدة",D,9.75,20.62,5.08,12.96
+293,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Poke & Co. Detailed address: Acai & Co., شارع المستقبل, مركز دبي المالي العالمي, زعبيل, دبي, الإمارات العربية المتحدة
+2. SWIMTIME Learn-to-Swim Centre. Detailed address: Kunooz 1 Street, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة",B,13.61,9.78,8.19,12.12
+294,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Yeshi kava restaurant llcam. Detailed address: 4b شارع, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة
+2. Thai Taste. Detailed address: 29, البرشاء, البرشاء جنوب 3, دبي, الإمارات العربية المتحدة",A,21.5,18.92,15.93,17.33
+295,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Skazka Al Saha. Detailed address: شارع 20, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة
+2. Anointed African Restaurant. Detailed address: شارع النخل, ديرة, نايف, ديرة, دبي, الإمارات العربية المتحدة",C,2.27,5.86,0.53,5.33
+296,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lamagon Restaurant and Sweets. Detailed address: 63 Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة
+2. My Nursery. Detailed address: 10, 2a شارع, الوصل, دبي, الإمارات العربية المتحدة",D,19.14,21.83,20.95,16.86
+297,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sidra 1. Detailed address: دبي هلز, حدائق الشيخ محمد بن راشد, دبي, الإمارات العربية المتحدة
+2. Rihab Rotana. Detailed address: شارع 27, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة",B,18.2,20.01,21.49,23.41
+298,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Gurg Building. Detailed address: Aoowal Opticals, طريق خالد بن الوليد, بر دبي, المنخول, دبي, الإمارات العربية المتحدة
+2. Med Art Clinic. Detailed address: شارع جميرا, أم سقيم 3, أم سقيم, دبي, الإمارات العربية المتحدة",B,19.09,16.25,10.86,13.34
+299,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Emirates College. Detailed address: شارع 15, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة
+2. Asus. Detailed address: MTE, شارع 65, القرهود, دبي, الإمارات العربية المتحدة",B,10.78,5.47,1.59,8.84
+300,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مركز الدانة. Detailed address: Jeanine Haute Couture, 25, شارع 42أ, رقة البطين, ديرة, المرقبات, دبي, الإمارات العربية المتحدة
+2. Grand Central Hotel. Detailed address: 24c شارع, ديرة, المرقبات, دبي, الإمارات العربية المتحدة",D,2.1,8.38,7.36,0.78
+301,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Café Créme. Detailed address: شارع النهدة, القصيص 2, القصيص, دبي, الإمارات العربية المتحدة
+2. Gulf Medical Centre. Detailed address: طريق الاتحاد, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة",B,6.79,4.26,11.15,10.45
+302,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Koko Bay. Detailed address: West Beach, نخلة جميرا, دبي, الإمارات العربية المتحدة
+2. Ear Care. Detailed address: شارع الوصل, جميرا, دبي, الإمارات العربية المتحدة",D,22.78,16.05,17.73,19.24
+303,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fast One. Detailed address: 22b شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة
+2. Sayapatri Restaurant. Detailed address: شارع 12, القوز, مجتمع القوز, دبي, الإمارات العربية المتحدة",A,16.93,12.84,9.44,18.31
+304,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Liza Coffee Shop. Detailed address: شارع 10, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة
+2. Eighty 8 Lounge. Detailed address: 27, شارع الشيخ محمد بن زايد, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة",C,13.96,16.44,19.23,22.32
+305,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Class Hotel Apartments. Detailed address: شارع الربيع 2, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة
+2. Orchid Residence Al Jaddaf. Detailed address: الجداف, دبي, الإمارات العربية المتحدة",A,19.87,16.33,13.8,24.15
+306,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مشروعات الشيراوي. Detailed address: 3a شارع, القوز الصناعية 1, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. Wasl Port View 7. Detailed address: 15/3, شارع الميناء, بر دبي, الميناء, دبي, الإمارات العربية المتحدة",D,16.09,15.24,3.68,10.97
+307,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dostea. Detailed address: شارع 26, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة
+2. Karam Judodna. Detailed address: 26c شارع, ديرة, المرقبات, دبي, الإمارات العربية المتحدة",C,6.53,4.45,2.45,5.93
+308,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Life Long. Detailed address: شارع 51, جميرا, دبي, الإمارات العربية المتحدة
+2. Attareen Residences (The Old Town). Detailed address: شارع الشيخ محمد بن راشد, وسط مدينة دبي, دبي, الإمارات العربية المتحدة",C,5.83,6.43,3.77,0.76
+309,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ميتروفالكون. Detailed address: شارع البدع, السطوة, دبي, الإمارات العربية المتحدة
+2. KFC. Detailed address: شارع 2, مدينة دبي للإعلام 2, الثنية 3, دبي, الإمارات العربية المتحدة",C,12.62,20.48,16.56,10.94
+310,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مركز الفحص الطبي للإقامة. Detailed address: مستشفى الكويت, شارع الخليج, ديرة, شارع 2, دبي, 42324, الإمارات العربية المتحدة
+2. Tent Ju Meirah Restaurant. Detailed address: Al Soon Street, أم سقيم 2, أم سقيم, دبي, الإمارات العربية المتحدة",D,16.99,20.85,13.45,18.71
+311,"What is the straight-line distance between the following two locations? (Unit is km)
+1. لانغه. Detailed address: Caparol, شارع 10, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. Binghatti Gate. Detailed address: شارع دانا, District 15, قرية جميرا الدائرية, دبي, الإمارات العربية المتحدة",B,4.17,6.53,8.73,10.48
+312,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cadiz. Detailed address: مطار دبي الدولي, 20c شارع, الطوار 4, القصيص, دبي, الإمارات العربية المتحدة
+2. Fibber Magee’s. Detailed address: شارع الفصول, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة",B,23.75,25.31,20.27,24.17
+313,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Emirates NBD. Detailed address: 20b شارع, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة
+2. Badi City. Detailed address: شارع 12, القوز, مجتمع القوز, دبي, الإمارات العربية المتحدة",D,12.44,16.64,12.39,11.21
+314,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Exit Restaurant & Cafe. Detailed address: طريق أم هرير, بر دبي, عود ميثاء, دبي, الإمارات العربية المتحدة
+2. Second Cup. Detailed address: دبي مول, شارع المركز المالي, وسط مدينة دبي, دبي, الإمارات العربية المتحدة",C,4.25,11.14,5.34,9.03
+315,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Binsina. Detailed address: 4a شارع, جميرا, دبي, الإمارات العربية المتحدة
+2. Machu Picchu. Detailed address: SHOP NR 6, شارع جميرا, جميرا 3, جميرا, دبي, 00000, الإمارات العربية المتحدة",A,7.19,12.45,1.82,14.11
+316,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dubai KMCC. Detailed address: شارع 14, ديرة, شارع 2, دبي, الإمارات العربية المتحدة
+2. Abdulla Tower. Detailed address: Mitchiboi's place, شارع 18, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة",D,1.56,10.17,12.04,5.73
+317,"What is the straight-line distance between the following two locations? (Unit is km)
+1. المنخول الجديدة. Detailed address: شارع الشيخ خليفة بن زايد, بر دبي, المنخول, دبي, الإمارات العربية المتحدة
+2. 4100293. Detailed address: 37b شارع, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة",A,0.57,7.73,2.61,5.59
+318,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hennessey Construction. Detailed address: 0, All Terrain Offroad Garage, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. Holistic Healing Medical Centre. Detailed address: 101, شارع الوصل, أم سقيم 3, دبي, الإمارات العربية المتحدة",B,10.25,4.0,5.95,2.44
+319,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Xzotica Restaurant. Detailed address: شارع عمر بن الخطاب, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة
+2. Emirates Islamic. Detailed address: شارع جميرا, جميرا 3, جميرا, دبي, الإمارات العربية المتحدة",A,13.21,7.67,18.16,12.12
+320,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 50. Detailed address: شارع 12, بر دبي, أم هرير, دبي, الإمارات العربية المتحدة
+2. Grill Republic. Detailed address: ممشى المارينا, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة",D,22.92,21.11,17.28,24.93
+321,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Eat & Drink Restaurant. Detailed address: 31a شارع, القرهود, دبي, الإمارات العربية المتحدة
+2. Al Prince Al Ammar Restaurant. Detailed address: 13b شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة",C,10.88,6.46,4.11,9.73
+322,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Mamzar Rent a Car. Detailed address: شارع 28, ديرة, هور العنز, دبي, الإمارات العربية المتحدة
+2. The Private Clinic. Detailed address: شارع جميرا, جميرا 3, جميرا, دبي, الإمارات العربية المتحدة",C,18.42,20.28,16.04,22.24
+323,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مطعم مكسين. Detailed address: شارع 51, جميرا, دبي, الإمارات العربية المتحدة
+2. The Good Dough. Detailed address: JLT Cluster T, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة",B,15.66,19.28,20.68,23.77
+324,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Private Clinic. Detailed address: شارع جميرا, جميرا 3, جميرا, دبي, الإمارات العربية المتحدة
+2. Golden Fork. Detailed address: شارع 2 ديسمبر, البدع, دبي, الإمارات العربية المتحدة",B,15.0,7.6,15.22,10.3
+325,"What is the straight-line distance between the following two locations? (Unit is km)
+1. OzOn Cafe. Detailed address: entrance, ديرة, هور العنز, دبي, الإمارات العربية المتحدة
+2. Sama Diera Coffee Shop. Detailed address: شارع 8, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة",B,0.55,4.45,2.95,10.68
+326,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 101 Restaurant and Bar. Detailed address: Palm Jumeirah Broadwalk, نخلة جميرا, دبي, الإمارات العربية المتحدة
+2. Papa John's. Detailed address: شارع الشيخ زايد, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة",A,2.99,8.27,8.5,8.32
+327,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kriskos. Detailed address: Metro Link, وسط مدينة دبي, دبي, الإمارات العربية المتحدة
+2. The Coffee Lab UAE. Detailed address: Shop 4, شارع جميرا, بر دبي, ميناء راشد, دبي, الإمارات العربية المتحدة",B,13.35,6.68,5.66,0.55
+328,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Buses Parking. Detailed address: شارع 9, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة
+2. Red Rooster. Detailed address: شارع الحضيبة, البدع, دبي, الإمارات العربية المتحدة",C,18.47,14.44,12.2,13.6
+329,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Attareen Residences (The Old Town). Detailed address: شارع الشيخ محمد بن راشد, وسط مدينة دبي, دبي, الإمارات العربية المتحدة
+2. مسجد راشد عبدالله حمد الفطيم. Detailed address: شارع 2, ديرة, شارع 2, ديرة, دبي, الإمارات العربية المتحدة",D,14.49,13.01,18.07,10.58
+330,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Hikma Residence. Detailed address: 3, 86 Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة
+2. ameeras building. Detailed address: Culture Village, الجداف, دبي, الإمارات العربية المتحدة",D,11.87,7.26,20.62,13.52
+331,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Wadi Al Arayesh. Detailed address: طريق أم هرير, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة
+2. The Irish Village. Detailed address: شارع 2, القرهود, دبي, الإمارات العربية المتحدة",B,9.52,3.21,8.74,4.92
+332,"What is the straight-line distance between the following two locations? (Unit is km)
+1. McDonald's. Detailed address: شارع 8, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة
+2. Shah Jee Restaurant. Detailed address: 18b شارع, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة",C,9.19,1.18,3.53,5.2
+333,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bait Yasmina. Detailed address: Iliyaa 3, 9, 88 Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة
+2. Café Créme. Detailed address: شارع النهدة, القصيص 2, القصيص, دبي, الإمارات العربية المتحدة",C,19.32,14.36,18.17,24.21
+334,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Fish & Chips room. Detailed address: ممشى المارينا, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة
+2. Koko Bay. Detailed address: West Beach, نخلة جميرا, دبي, الإمارات العربية المتحدة",B,9.46,2.92,7.01,4.2
+335,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gems First Point School (The Villa). Detailed address: شارع سنترو 11, السنترو, الفيلا, دبي, الإمارات العربية المتحدة
+2. McDonald's. Detailed address: شارع 8, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة",A,18.52,17.21,17.44,15.49
+336,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Belhoul Speciality Hospital. Detailed address: شارع 2, ديرة, شارع 2, ديرة, دبي, الإمارات العربية المتحدة
+2. Continental Carpentry. Detailed address: شارع 29, القصيص الصناعية 3, القصيص الصناعية, دبي, الإمارات العربية المتحدة",A,7.97,9.11,15.67,15.96
+337,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Usmania Restaurant. Detailed address: طريق أبو بكر الصديق, ديرة, المرقبات, دبي, الإمارات العربية المتحدة
+2. Costa. Detailed address: شارع الميدان, الخليج التجاري, وسط مدينة دبي, دبي, الإمارات العربية المتحدة",A,12.28,10.19,17.99,8.4
+338,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nayaab Haandi. Detailed address: Ikkayees, شارع A7, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة
+2. Visit Way Restaurant. Detailed address: شارع 45, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة",D,11.61,10.73,4.64,5.74
+339,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Ahli House. Detailed address: Green Dew Beauty Centre, شارع 28, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة
+2. مسجد سلامة صالح بن لوتاه رمز 222. Detailed address: 6829, طريق صلاح الدين, ديرة, هور العنز, دبي, الإمارات العربية المتحدة",C,11.69,10.11,4.82,8.0
+340,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Spectrum Nursery. Detailed address: 21, شارع 25, ديرة, أبو هيل, دبي, الإمارات العربية المتحدة
+2. Fortune Grand Hotel Apartments. Detailed address: 19 street, شارع 19, بر دبي, الرفاعة, دبي, الإمارات العربية المتحدة",D,3.94,11.75,1.28,5.46
+341,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ايبكو. Detailed address: طريق دبي - العين, ميدان, ند الشبا, دبي, الإمارات العربية المتحدة
+2. Puranmal. Detailed address: 74, 90 Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة",C,13.55,16.62,9.04,10.64
+342,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hamarain Center. Detailed address: طريق أبو بكر الصديق, ديرة, المرقبات, دبي, الإمارات العربية المتحدة
+2. Al Shamsi Building. Detailed address: شارع 24, ديرة, المطينة, دبي, الإمارات العربية المتحدة",C,2.45,5.87,0.58,2.76
+343,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Beefbar Dubai. Detailed address: شارع جميرا, الصفوح 1, أم سقيم, دبي, الإمارات العربية المتحدة
+2. Life Pharmacy. Detailed address: شارع الصويب, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة",A,7.32,10.09,1.27,9.94
+344,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fortune Grand Hotel Apartments. Detailed address: 19 street, شارع 19, بر دبي, الرفاعة, دبي, الإمارات العربية المتحدة
+2. مركز الفحص الطبي للإقامة. Detailed address: مستشفى الكويت, شارع الخليج, ديرة, شارع 2, دبي, 42324, الإمارات العربية المتحدة",C,1.37,6.46,4.2,6.33
+345,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Karam Judodna. Detailed address: 26c شارع, ديرة, المرقبات, دبي, الإمارات العربية المتحدة
+2. Nayaab Haandi. Detailed address: Ikkayees, شارع A7, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة",C,12.52,10.83,5.05,9.0
+346,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Eighty 8 Lounge. Detailed address: 27, شارع الشيخ محمد بن زايد, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة
+2. heaf. Detailed address: شارع الدرميت, أم سقيم 3, أم سقيم, دبي, الإمارات العربية المتحدة",B,13.59,18.71,19.72,17.4
+347,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mazaya 2. Detailed address: 12/1, طريق دبي - العين, ليوان, مدينة العرب, دبي, الإمارات العربية المتحدة
+2. Festival City Lake Parking. Detailed address: Marsa Plaza, مرسى الخور, مجتمع رأس الخور الجديد, دبي فيستيفال سيتي, دبي, الإمارات العربية المتحدة",B,15.28,12.91,10.43,14.79
+348,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Good Dough. Detailed address: JLT Cluster T, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة
+2. Chutney's. Detailed address: شارع 19, بر دبي, عود ميثاء, دبي, الإمارات العربية المتحدة",D,20.39,20.45,17.62,23.69
+349,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Babu home. Detailed address: شارع 38, القصيص, دبي, الإمارات العربية المتحدة
+2. Sidra 1. Detailed address: دبي هلز, حدائق الشيخ محمد بن راشد, دبي, الإمارات العربية المتحدة",B,18.06,23.68,16.21,19.17
+350,"What is the straight-line distance between the following two locations? (Unit is km)
+1. بيروت خانم. Detailed address: شارع الشيخ محمد بن راشد, وسط مدينة دبي, دبي, الإمارات العربية المتحدة
+2. Exit Restaurant & Cafe. Detailed address: طريق أم هرير, بر دبي, عود ميثاء, دبي, الإمارات العربية المتحدة",D,12.24,9.32,9.36,6.11
+351,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ashbilia Cafeteria. Detailed address: 44d شارع, القوز 1, القوز, دبي, الإمارات العربية المتحدة
+2. Al Ahli Driving Center. Detailed address: Training Road, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة",C,9.4,0.84,5.45,8.78
+352,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cafe Blanc. Detailed address: دبي مول, شارع المركز المالي, وسط مدينة دبي, دبي, الإمارات العربية المتحدة
+2. Bhavna. Detailed address: 28, 25c شارع, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة",B,1.69,7.49,6.21,5.34
+353,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ملعب تنس. Detailed address: شارع 12, الينابيع, الينابيع 3, دبي, الإمارات العربية المتحدة
+2. Al Garhoud Centre. Detailed address: Middle East Distribution Centre, شارع الشيخ راشد, القرهود, دبي, الإمارات العربية المتحدة",A,27.72,20.9,21.91,22.99
+354,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مطعم الفهيدي. Detailed address: شارع 21أ, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة
+2. كاريبو كوفي. Detailed address: Opera Plaza, وسط مدينة دبي, دبي, الإمارات العربية المتحدة",B,1.7,7.58,9.75,14.55
+355,"What is the straight-line distance between the following two locations? (Unit is km)
+1. heaf. Detailed address: شارع الدرميت, أم سقيم 3, أم سقيم, دبي, الإمارات العربية المتحدة
+2. Khalid Al Ali Restaurant. Detailed address: شارع 27, ديرة, هور العنز, دبي, الإمارات العربية المتحدة",A,21.06,13.77,17.52,24.76
+356,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pitfire pizza. Detailed address: JLT Cluster D, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة
+2. Delhi Dorbor. Detailed address: شارع 17, البرشاء, البرشاء 1, دبي, الإمارات العربية المتحدة",B,6.28,7.94,15.1,3.27
+357,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Arrows and Sparrows Cafe. Detailed address: شارع الربيع, الروضة, الصفوح 2, دبي, الإمارات العربية المتحدة
+2. Abeer Cafeteria. Detailed address: طريق خالد بن الوليد, بر دبي, الرفاعة, دبي, الإمارات العربية المتحدة",A,21.74,18.39,15.05,24.65
+358,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ameeras building. Detailed address: Culture Village, الجداف, دبي, الإمارات العربية المتحدة
+2. Emirates Tower Seaside Metro Bus Stop. Detailed address: شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة",D,4.89,3.41,1.69,6.39
+359,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Little Gems International Al Barsha. Detailed address: 14a شارع, البرشاء 3, البرشاء 1, دبي, الإمارات العربية المتحدة
+2. Carnival by Tresind. Detailed address: شارع المستقبل, زعبيل, دبي, الإمارات العربية المتحدة",C,13.86,11.09,15.49,11.94
+360,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Пляж. Detailed address: شارع كايت بيتش, أم سقيم 1, أم سقيم, دبي, الإمارات العربية المتحدة
+2. Bahr Al Hanan Cafe. Detailed address: شارع 10, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة",C,22.36,11.37,16.12,21.37
+361,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Island Star Digital Soluions. Detailed address: 18a شارع, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة
+2. VOX Cinemas. Detailed address: شارع الشيخ خليفة بن زايد, بر دبي, المنخول, دبي, الإمارات العربية المتحدة",B,6.6,0.89,4.89,8.5
+362,"What is the straight-line distance between the following two locations? (Unit is km)
+1. نووم نووم مطعم آسيا. Detailed address: Shop 1, شارع 40, البرشاء شمال, البرشاء 1, دبي, الإمارات العربية المتحدة
+2. امارات. Detailed address: شارع آل مكتوم, ديرة, الرقة, ديرة, دبي, الإمارات العربية المتحدة",C,22.47,15.0,20.94,16.81
+363,"What is the straight-line distance between the following two locations? (Unit is km)
+1. HOSEXPRESS MIDDLE EAST L.L.C. Detailed address: Al Azzani Ready Mix, شارع الخيل الأول, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. Al Madina Spare Parts. Detailed address: Al SOmar Restaurant, شارع الكهرمان 4, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة",B,3.21,1.4,7.92,5.68
+364,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Samaa Medical Centre. Detailed address: شارع الخماري, جميرا 3, جميرا, دبي, الإمارات العربية المتحدة
+2. Abdel wahab central kitchen. Detailed address: 11a شارع, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة",C,10.45,9.83,6.23,3.3
+365,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 1. Detailed address: شارع جميرا, بر دبي, الميناء, دبي, الإمارات العربية المتحدة
+2. Al Owais building A Block. Detailed address: 26B, 26b شارع, ديرة, المرقبات, دبي, الإمارات العربية المتحدة",C,6.0,11.85,4.14,2.08
+366,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dubai Smile. Detailed address: شارع جميرا, جميرا 3, جميرا, دبي, الإمارات العربية المتحدة
+2. Island Star Digital Soluions. Detailed address: 18a شارع, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة",C,15.46,12.83,10.94,17.27
+367,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Star Cinemas Al Ghurair. Detailed address: 22a شارع, ديرة, المرقبات, دبي, الإمارات العربية المتحدة
+2. Well Fast. Detailed address: 18a شارع, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة",B,6.22,2.75,3.98,10.27
+368,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Emirates Identity Authority Center. Detailed address: شارع 20, البرشاء شمال, البرشاء 3, دبي, الإمارات العربية المتحدة
+2. Capital Hotel Apartment. Detailed address: Arctic, شارع 23, ديرة, الرقة, ديرة, دبي, الإمارات العربية المتحدة",C,17.45,20.24,23.39,21.74
+369,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Madina Spare Parts. Detailed address: Al SOmar Restaurant, شارع الكهرمان 4, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. Raffles Lakes Nursery. Detailed address: شارع الفل, The Lakes, تلال الإمارات, Clubhouse Area, دبي, الإمارات العربية المتحدة",A,7.52,1.9,1.25,1.21
+370,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Red Hot Chili. Detailed address: شارع 19, البرشاء, البرشاء 1, دبي, الإمارات العربية المتحدة
+2. hub 7. Detailed address: JLT Cluster M, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة",C,3.58,3.4,7.9,1.72
+371,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Med Art Clinic. Detailed address: شارع جميرا, أم سقيم 3, أم سقيم, دبي, الإمارات العربية المتحدة
+2. Millennium Place Barsha Heights. Detailed address: Service Road, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة",D,9.37,0.8,2.95,6.1
+372,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Zengo. Detailed address: شارع الفالح, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة
+2. المنخول الجديدة. Detailed address: شارع الشيخ خليفة بن زايد, بر دبي, المنخول, دبي, الإمارات العربية المتحدة",D,17.14,18.61,22.83,23.85
+373,"What is the straight-line distance between the following two locations? (Unit is km)
+1. HealthBay. Detailed address: شارع الوصل, أم الشيف, دبي, الإمارات العربية المتحدة
+2. Emirates College. Detailed address: شارع 15, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة",A,24.48,18.84,18.97,21.38
+374,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Golden Fork Seafood Restaurant Al Barsha. Detailed address: شارع الشيخ زايد, البرشاء 1, دبي, الإمارات العربية المتحدة
+2. Spark Rent a Car. Detailed address: شارع 23, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة",C,20.2,18.25,21.63,15.72
+375,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gulf Medical Centre. Detailed address: طريق الاتحاد, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة
+2. Jungle Juice. Detailed address: Tower 3, 27/1d, شارع الشيخ محمد بن زايد, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة",C,24.81,18.88,16.81,14.05
+376,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Sham Rose Restaurant. Detailed address: شارع بغداد, النهدة, دبي, الإمارات العربية المتحدة
+2. The Cascade Multi Cuisine Restaurant. Detailed address: شارع السيف 2, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة",A,28.7,21.7,21.21,23.27
+377,"What is the straight-line distance between the following two locations? (Unit is km)
+1. XXII CARAT Club Villas. Detailed address: نخلة جميرا, دبي, الإمارات العربية المتحدة
+2. Dubai Islands Marina. Detailed address: جسر إنفينيتي, الكورنيش, كورنيش ديرة, دبي, الإمارات العربية المتحدة",C,23.49,20.27,26.52,19.36
+378,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 4100293. Detailed address: 37b شارع, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة
+2. آيلاند بيتش كلوب. Detailed address: دبي, الإمارات العربية المتحدة",B,8.05,13.47,16.44,21.46
+379,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد سلامة صالح بن لوتاه رمز 222. Detailed address: 6829, طريق صلاح الدين, ديرة, هور العنز, دبي, الإمارات العربية المتحدة
+2. كهربا ومياه دبي. Detailed address: شارع ابن سينا, مدينة دبي الطبية, بر دبي, أم هرير, دبي, الإمارات العربية المتحدة",B,9.57,5.52,1.82,10.36
+380,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Almarkeb Seafood Restaurant & Cafe. Detailed address: طريق خالد بن الوليد, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة
+2. Istanbul Flower Cafe. Detailed address: شارع المرسى, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة",B,16.62,24.47,22.02,16.53
+381,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Danat Al Nahda. Detailed address: شارع 32, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة
+2. Mulberry Park. Detailed address: شارع 5, District 15, البرشاء جنوب 4, دبي, الإمارات العربية المتحدة",C,24.39,24.38,32.01,24.28
+382,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Lighthouse. Detailed address: Canal Walk, زعبيل, دبي, الإمارات العربية المتحدة
+2. Gems First Point School (The Villa). Detailed address: شارع سنترو 11, السنترو, الفيلا, دبي, الإمارات العربية المتحدة",A,13.67,6.4,10.84,9.2
+383,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Harmel. Detailed address: بوليفارد حلاب, District 18, البرشاء جنوب 4, دبي, الإمارات العربية المتحدة
+2. Nad Shamma Park. Detailed address: شارع 201, ند شما, الراشدية, دبي, الإمارات العربية المتحدة",B,20.59,25.74,22.13,24.52
+384,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Appa Tea Restaurant. Detailed address: شارع 8, ديرة, عيال ناصر, ديرة, دبي, الإمارات العربية المتحدة
+2. Emirates NBD. Detailed address: 20b شارع, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة",A,3.75,6.1,0.99,5.24
+385,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Parking 5. Detailed address: D56, مدينة العرب, دبي, الإمارات العربية المتحدة
+2. Hobby Centre. Detailed address: شارع 17, أم رمول, دبي, الإمارات العربية المتحدة",D,17.91,12.69,22.35,19.31
+386,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد الجسمي. Detailed address: 9a شارع, ند شما, الراشدية, دبي, الإمارات العربية المتحدة
+2. Texas Chicken. Detailed address: 28a شارع, بر دبي, المنخول, دبي, الإمارات العربية المتحدة",A,9.33,17.09,11.72,16.37
+387,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Khalidha Medical Centre. Detailed address: شارع لطيفة بنت حمدان, القوز, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. Beefbar Dubai. Detailed address: شارع جميرا, الصفوح 1, أم سقيم, دبي, الإمارات العربية المتحدة",B,1.9,5.97,0.56,11.12
+388,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Arabian Ranches Colf Club. Detailed address: Hotel, Arabian Ranches Colf Club, المرابع العربية, وادي الصفا 6, دبي, الإمارات العربية المتحدة
+2. Ali Bin Salim Bin Jassim Building. Detailed address: ديرة, المرقبات, دبي, الإمارات العربية المتحدة",C,21.04,19.36,24.22,18.65
+389,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Arab Taste Restaurant & Cafeteria. Detailed address: 22a شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة
+2. Red Hot Chili. Detailed address: شارع 19, البرشاء, البرشاء 1, دبي, الإمارات العربية المتحدة",D,18.66,18.24,22.42,23.97
+390,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Carnival by Tresind. Detailed address: شارع المستقبل, زعبيل, دبي, الإمارات العربية المتحدة
+2. Khafayef. Detailed address: شارع 23, بر دبي, الحضيبة, دبي, الإمارات العربية المتحدة",B,10.39,2.94,5.43,6.03
+391,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Tajer Residences (The Old Town). Detailed address: Rental Cars UAE - Dubai Mall, 3902, شارع الشيخ محمد بن راشد, وسط مدينة دبي, دبي, 35114, الإمارات العربية المتحدة
+2. Danat Al Nahda. Detailed address: شارع 32, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة",C,18.01,18.23,15.51,11.96
+392,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Desi Bistro. Detailed address: طريق المطار الداخلي, مطار دبي الدولي, دبي, الإمارات العربية المتحدة
+2. Fresh Fish. Detailed address: 8a, ممشى المارينا, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة",B,23.48,30.58,24.18,22.93
+393,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Owais building A Block. Detailed address: 26B, 26b شارع, ديرة, المرقبات, دبي, الإمارات العربية المتحدة
+2. Star Metro Deira. Detailed address: 19b شارع, ديرة, المطينة, دبي, الإمارات العربية المتحدة",C,7.52,2.94,0.59,8.25
+394,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dwell Events LLC. Detailed address: Al Falamanki Cafe, طريق الاتحاد, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة
+2. Next Exit Cafe. Detailed address: Daytona House, 6/21, شارع الشيخ محمد بن زايد, الحبية 1, دبي, الإمارات العربية المتحدة",C,23.84,23.42,25.07,19.54
+395,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fast Rent a Car. Detailed address: شارع 7, ديرة, هور العنز, دبي, الإمارات العربية المتحدة
+2. Summer Palace. Detailed address: شارع 16, District 13, البرشاء جنوب 4, دبي, الإمارات العربية المتحدة",A,29.0,21.53,23.44,22.62
+396,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Wendy's. Detailed address: اينوك, طريق الخيل, البرشاء, البرشاء جنوب 1, دبي, الإمارات العربية المتحدة
+2. The Fish & Chips room. Detailed address: ممشى المارينا, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة",D,4.08,12.73,11.16,7.29
+397,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Eton University. Detailed address: شارع البروج, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة
+2. Habib Bank Limited. Detailed address: طريق المصلى, ديرة, عيال ناصر, ديرة, دبي, الإمارات العربية المتحدة",A,23.56,18.69,21.72,16.9
+398,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Elevation Burger. Detailed address: 5b شارع, ديرة, المرقبات, دبي, الإمارات العربية المتحدة
+2. Tomato & Basilicp. Detailed address: شارع كايت بيتش, أم سقيم 1, أم سقيم, دبي, الإمارات العربية المتحدة",A,15.77,20.34,13.53,11.12
+399,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Karak Alfreej. Detailed address: 20a شارع, ند شما, الراشدية, دبي, الإمارات العربية المتحدة
+2. Falooda World. Detailed address: 20b شارع, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة",C,5.01,3.44,7.93,15.22
+400,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Momo. Detailed address: شارع السطوة, البدع, دبي, الإمارات العربية المتحدة
+2. Cafe Blanc. Detailed address: دبي مول, شارع المركز المالي, وسط مدينة دبي, دبي, الإمارات العربية المتحدة",D,8.62,0.74,5.92,3.59
+401,"What is the straight-line distance between the following two locations? (Unit is km)
+1. KFC. Detailed address: شارع 2, مدينة دبي للإعلام 2, الثنية 3, دبي, الإمارات العربية المتحدة
+2. City walk 2 mosque. Detailed address: شارع السعادة, سيتي ووك, الوصل, دبي, الإمارات العربية المتحدة",D,21.27,9.86,12.6,15.76
+402,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ali Bin Salim Bin Jassim Building. Detailed address: ديرة, المرقبات, دبي, الإمارات العربية المتحدة
+2. مشروعات الشيراوي. Detailed address: 3a شارع, القوز الصناعية 1, مجتمع القوز, دبي, الإمارات العربية المتحدة",D,10.27,19.04,17.57,15.29
+403,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Microline. Detailed address: شارع الراعبي 3, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. Canary Building. Detailed address: شارع 9, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة",D,19.88,23.77,21.21,24.82
+404,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Seven Dental Centre. Detailed address: شارع جميرا, جميرا 3, جميرا, دبي, الإمارات العربية المتحدة
+2. Bristol Charter. Detailed address: ممشى المارينا, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة",A,13.36,8.58,18.23,5.67
+405,"What is the straight-line distance between the following two locations? (Unit is km)
+1. August Medical Neurological Rehabilitation. Detailed address: شارع 19, بر دبي, أم هرير, دبي, الإمارات العربية المتحدة
+2. Super Haveli Roll. Detailed address: شارع 39, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة",D,4.79,4.38,7.3,1.86
+406,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Summer Palace. Detailed address: شارع 16, District 13, البرشاء جنوب 4, دبي, الإمارات العربية المتحدة
+2. Chin Chin. Detailed address: شارع السيداف 1, البرشاء, البرشاء 1, دبي, الإمارات العربية المتحدة",D,8.75,9.03,12.46,6.75
+407,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Anointed African Restaurant. Detailed address: شارع النخل, ديرة, نايف, ديرة, دبي, الإمارات العربية المتحدة
+2. Star Cinemas Al Ghurair. Detailed address: 22a شارع, ديرة, المرقبات, دبي, الإمارات العربية المتحدة",D,3.75,1.91,6.11,0.8
+408,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Garhoud Centre. Detailed address: Middle East Distribution Centre, شارع الشيخ راشد, القرهود, دبي, الإمارات العربية المتحدة
+2. Babu home. Detailed address: شارع 38, القصيص, دبي, الإمارات العربية المتحدة",A,4.41,1.62,8.97,7.58
+409,"What is the straight-line distance between the following two locations? (Unit is km)
+1. دمياطي حمص فول فلافل. Detailed address: شارع القدس, الطوار 1, الطوار, دبي, الإمارات العربية المتحدة
+2. Aramex. Detailed address: Sahara Centre Overpass, النهدة, مدينة الشارقة, الشارقة, الإمارات العربية المتحدة",D,9.41,2.13,8.55,3.6
+410,"What is the straight-line distance between the following two locations? (Unit is km)
+1. @Falafel. Detailed address: شارع الملك سلمان بن عبدالعزيز آل سعود, Park Island, مرسى دبي, دبي, الإمارات العربية المتحدة
+2. Meta Mindz Learning Center. Detailed address: شارع السرايات, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة",B,3.2,1.46,5.94,3.34
+411,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Machu Picchu. Detailed address: SHOP NR 6, شارع جميرا, جميرا 3, جميرا, دبي, 00000, الإمارات العربية المتحدة
+2. Dashing Dazzler. Detailed address: 27, 6a شارع, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة",B,4.89,11.53,8.53,8.48
+412,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kumarakom Restaurant. Detailed address: 042205858, شارع دمشق, القصيص الصناعية 1, القصيص الصناعية, دبي, الإمارات العربية المتحدة
+2. Sultan Dubai Falafel Restaurant. Detailed address: شارع المرقبات, ديرة, المرقبات, دبي, الإمارات العربية المتحدة",A,6.57,2.86,5.39,7.77
+413,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Blodan. Detailed address: شارع 5, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة
+2. Orient Exchange. Detailed address: شارع الشيخ زايد, القوز 3, مجتمع القوز, دبي, الإمارات العربية المتحدة",A,18.6,19.92,16.27,14.86
+414,"What is the straight-line distance between the following two locations? (Unit is km)
+1. TruCare. Detailed address: شارع السيداف 1, البرشاء, البرشاء 1, دبي, الإمارات العربية المتحدة
+2. ماكدونالدز. Detailed address: شارع النهدة, القصيص, دبي, الإمارات العربية المتحدة",C,16.27,17.23,23.92,19.63
+415,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Blue Oasis Building. Detailed address: 37/2, 54 Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة
+2. Gulfdrug. Detailed address: 3b شارع, أم رمول, دبي, الإمارات العربية المتحدة",D,6.7,13.61,8.78,11.86
+416,"What is the straight-line distance between the following two locations? (Unit is km)
+1. KGN Restaurant. Detailed address: 30c شارع, ديرة, الضغاية, ديرة, دبي, الإمارات العربية المتحدة
+2. ENOC Car Wash. Detailed address: شارع عمان, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة",A,7.37,6.34,14.4,13.93
+417,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fibber Magee’s. Detailed address: شارع الفصول, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة
+2. City One. Detailed address: 13a شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة",B,20.99,25.93,20.68,19.95
+418,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The One at Jumeirah Village Triangle. Detailed address: شارع الأوركيد, District 2, قرية جميرا الدائرية, دبي, الإمارات العربية المتحدة
+2. Easy 18 Apartments. Detailed address: شارع الشيخ محمد بن زايد, ورسان 4, دبي, الإمارات العربية المتحدة",C,23.41,17.19,21.91,23.83
+419,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Eat & Tasty Restaurant. Detailed address: شارع 19, البرشاء, البرشاء 1, دبي, الإمارات العربية المتحدة
+2. Brummanah Restaurant and Cafe. Detailed address: 11, شارع 55, القرهود, دبي, الإمارات العربية المتحدة",C,18.38,17.63,20.96,23.61
+420,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Service Basket UAE Movers & Packers. Detailed address: شارع 19, بر دبي, الحمرية, دبي, الإمارات العربية المتحدة
+2. International Aesthetic. Detailed address: شارع الوصل, جميرا 2, جميرا, دبي, الإمارات العربية المتحدة",B,4.51,7.96,14.37,0.51
+421,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Khwali Cafe. Detailed address: طريق الاتحاد, ديرة, الممزر, دبي, الإمارات العربية المتحدة
+2. Al Barsha Veterinary Clinic. Detailed address: شارع البرشاء 1, البرشاء, البرشاء 1, دبي, الإمارات العربية المتحدة",B,24.16,25.2,22.47,22.11
+422,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Little Bangkok -urban thai. Detailed address: 77, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة
+2. Tasty Burger. Detailed address: شارع لولو, District 12, قرية جميرا الدائرية, دبي, الإمارات العربية المتحدة",D,16.94,21.55,14.95,19.29
+423,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Top Tea Spot. Detailed address: طريق خالد بن الوليد, بر دبي, الحمرية, دبي, الإمارات العربية المتحدة
+2. Fast Rent a Car. Detailed address: شارع 7, ديرة, هور العنز, دبي, الإمارات العربية المتحدة",A,5.79,12.77,11.91,12.93
+424,"What is the straight-line distance between the following two locations? (Unit is km)
+1. China Star Restaurant. Detailed address: 45c شارع, رقة البطين, ديرة, المرقبات, دبي, الإمارات العربية المتحدة
+2. Logma. Detailed address: 26b شارع, جميرا 2, جميرا, دبي, الإمارات العربية المتحدة",C,14.09,13.56,10.52,2.56
+425,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Medlink Clinic. Detailed address: 31a شارع, جميرا, دبي, الإمارات العربية المتحدة
+2. Canadian Montessori Center. Detailed address: 27a شارع, ديرة, الوحيدة, دبي, الإمارات العربية المتحدة",D,16.82,18.41,5.43,10.58
+426,"What is the straight-line distance between the following two locations? (Unit is km)
+1. BurgerFuel. Detailed address: شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة
+2. Al Somar Restaurant. Detailed address: 38a شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة",B,1.39,7.25,5.55,13.77
+427,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dubai Islamic Bank. Detailed address: شارع 42, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة
+2. Пляж. Detailed address: شارع كايت بيتش, أم سقيم 1, أم سقيم, دبي, الإمارات العربية المتحدة",C,16.34,17.24,22.57,17.07
+428,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Vision Tower. Detailed address: Eurostar Communications LLC, شارع الخليج التجاري 1, الخليج التجاري, وسط مدينة دبي, الخليج التجاري, دبي, الإمارات العربية المتحدة
+2. MOBH 7 Villa Compound. Detailed address: 43a شارع, البدع, دبي, الإمارات العربية المتحدة",C,1.41,1.13,4.12,7.93
+429,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tunday Kababi. Detailed address: JLT Cluster F, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة
+2. Garage Auto Mobile. Detailed address: شارع 13, أم رمول, دبي, الإمارات العربية المتحدة",C,24.5,22.27,29.1,24.74
+430,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nando's. Detailed address: شارع الشيخ خليفة بن زايد, بر دبي, المنخول, دبي, الإمارات العربية المتحدة
+2. Arajeel. Detailed address: Pedestrian Bridge, القرهود, مطار دبي الدولي, دبي, الإمارات العربية المتحدة",D,7.74,4.86,10.88,3.84
+431,"What is the straight-line distance between the following two locations? (Unit is km)
+1. AB Plaza. Detailed address: ديرة, هور العنز, دبي, الإمارات العربية المتحدة
+2. Prowash. Detailed address: شارع 25, ديرة, أبو هيل, دبي, الإمارات العربية المتحدة",D,5.3,5.79,4.44,1.67
+432,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Grill time. Detailed address: 29, البرشاء, البرشاء جنوب 3, دبي, الإمارات العربية المتحدة
+2. Al Shorfa. Detailed address: شارع الفالح, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة",D,11.83,13.95,11.63,9.96
+433,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Visit Way Restaurant. Detailed address: شارع 45, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة
+2. KGN Restaurant. Detailed address: 30c شارع, ديرة, الضغاية, ديرة, دبي, الإمارات العربية المتحدة",D,5.76,5.99,4.97,1.23
+434,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Prince Al Ammar Restaurant. Detailed address: 13b شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة
+2. Elevation Burger. Detailed address: 5b شارع, ديرة, المرقبات, دبي, الإمارات العربية المتحدة",B,7.79,3.82,8.38,2.51
+435,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Badi City. Detailed address: شارع 12, القوز, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. Dwell Events LLC. Detailed address: Al Falamanki Cafe, طريق الاتحاد, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة",C,12.38,7.31,14.61,22.49
+436,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pizza Hut. Detailed address: شارع صلاح الدين, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة
+2. Panoor. Detailed address: شارع زعبيل, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة",B,9.1,3.57,2.51,9.99
+437,"What is the straight-line distance between the following two locations? (Unit is km)
+1. امارات. Detailed address: شارع آل مكتوم, ديرة, الرقة, ديرة, دبي, الإمارات العربية المتحدة
+2. Luzam Seid Cafeteria. Detailed address: شارع 8, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة",A,1.29,5.44,5.01,4.06
+438,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Gouz Car Wash. Detailed address: شارع الخيل الأول, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. لانغه. Detailed address: Caparol, شارع 10, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة",C,5.83,9.25,2.16,0.6
+439,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Texas Chicken. Detailed address: 28a شارع, بر دبي, المنخول, دبي, الإمارات العربية المتحدة
+2. Al Roward. Detailed address: شارع عمر بن الخطاب, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة",B,0.57,2.48,5.53,8.37
+440,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Somerset's. Detailed address: شارع 19, بر دبي, عود ميثاء, دبي, الإمارات العربية المتحدة
+2. Al Embratoor Cook & Restaurant. Detailed address: شارع الحمرية, ديرة, أبو هيل, دبي, الإمارات العربية المتحدة",C,12.9,7.42,6.13,1.19
+441,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Careem Bike. Detailed address: شارع العهود, وسط مدينة دبي, دبي, الإمارات العربية المتحدة
+2. بنك المشرق. Detailed address: 3a شارع, القوز 3, مجتمع القوز, دبي, الإمارات العربية المتحدة",D,1.39,3.17,4.24,5.86
+442,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cold Stone Creamery. Detailed address: 36, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة
+2. Eat & Drink. Detailed address: شارع الشيخ زايد, البرشاء 1, دبي, الإمارات العربية المتحدة",C,10.54,21.06,14.5,8.67
+443,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Mashael Building. Detailed address: شارع الربيع 1, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة
+2. Nasma Tower. Detailed address: Zafrana, Al Nahda 1, 12 Street, النهدة, دبي, الإمارات العربية المتحدة",B,24.19,29.07,24.98,22.55
+444,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Super Haveli Roll. Detailed address: شارع 39, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة
+2. Al Warda Al Dahabiya Coffee. Detailed address: 18b شارع, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة",B,1.29,4.17,1.7,3.06
+445,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Binghatti Gate. Detailed address: شارع دانا, District 15, قرية جميرا الدائرية, دبي, الإمارات العربية المتحدة
+2. SMJ1. Detailed address: Levantine Dental Clinic, شارع الشيخ زايد, الصفا 1, الصفا, دبي, الإمارات العربية المتحدة",A,13.5,19.33,19.8,7.42
+446,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mazmi. Detailed address: شارع علي بن أبي طالب, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة
+2. ميتروفالكون. Detailed address: شارع البدع, السطوة, دبي, الإمارات العربية المتحدة",C,11.55,10.94,6.63,12.91
+447,"What is the straight-line distance between the following two locations? (Unit is km)
+1. City walk 2 mosque. Detailed address: شارع السعادة, سيتي ووك, الوصل, دبي, الإمارات العربية المتحدة
+2. Pizza Hut Delivery. Detailed address: JLT Cluster I, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة",A,19.49,21.67,17.92,21.77
+448,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Signature Villas Frond M, Palm Jumeirah. Detailed address: شارع سيفري - السعفة M, Signature Villas Frond M, Palm Jumeirah, نخلة جميرا, دبي, الإمارات العربية المتحدة
+2. District 5. Detailed address: Villa 24, JVT District 5, قرية جميرا المثلث, قرية جميرا الدائرية, دبي, الإمارات العربية المتحدة",C,2.88,13.93,9.89,4.96
+449,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ENOC. Detailed address: enoc petrol station, شارع 2 ديسمبر, جميرا, دبي, الإمارات العربية المتحدة
+2. Krispy Kreme. Detailed address: شارع الشيخ زايد, القوز 3, مجتمع القوز, دبي, الإمارات العربية المتحدة",A,8.26,4.06,15.34,6.98
+450,"What is the straight-line distance between the following two locations? (Unit is km)
+1. RTA Public Parking. Detailed address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة
+2. Mazmi. Detailed address: شارع علي بن أبي طالب, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة",A,2.87,8.92,8.07,1.12
+451,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gate 3. Detailed address: طريق المطار الداخلي, مطار دبي الدولي, دبي, الإمارات العربية المتحدة
+2. BTC. Detailed address: Wecare Wrap Kitchen Wrapping, Warehouse 5, شارع 21, Al Quoz Industrial Area, مجتمع القوز, دبي, 22340, الإمارات العربية المتحدة",C,22.35,18.71,20.94,24.67
+452,"What is the straight-line distance between the following two locations? (Unit is km)
+1. abdillah kutait masjid. Detailed address: 43a Street, القوز, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. World Gym. Detailed address: شارع ند الحمر, أم رمول, دبي, الإمارات العربية المتحدة",A,15.01,13.85,19.13,13.64
+453,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dashing Dazzler. Detailed address: 27, 6a شارع, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة
+2. Usmania Restaurant. Detailed address: طريق أبو بكر الصديق, ديرة, المرقبات, دبي, الإمارات العربية المتحدة",A,3.2,4.6,0.69,5.76
+454,"What is the straight-line distance between the following two locations? (Unit is km)
+1. SWIMTIME Learn-to-Swim Centre. Detailed address: Kunooz 1 Street, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة
+2. Service Basket UAE Movers & Packers. Detailed address: شارع 19, بر دبي, الحمرية, دبي, الإمارات العربية المتحدة",D,7.89,20.46,22.71,14.93
+455,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Créme. Detailed address: شارع الوصل, الوصل, دبي, الإمارات العربية المتحدة
+2. Soho Grill. Detailed address: 121, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة",B,7.96,3.32,9.35,9.73
+456,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Grill Republic. Detailed address: ممشى المارينا, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة
+2. Sind Darbar. Detailed address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة",C,24.81,22.41,27.65,22.99
+457,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Obaid Cafeteria. Detailed address: شارع علي بن أبي طالب, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة
+2. Heratiya tradition & exchange. Detailed address: شارع ديرة, ديرة, نايف, ديرة, دبي, الإمارات العربية المتحدة",A,1.1,7.27,7.22,4.34
+458,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Raffles Lakes Nursery. Detailed address: شارع الفل, The Lakes, تلال الإمارات, Clubhouse Area, دبي, الإمارات العربية المتحدة
+2. Al Hala Complex. Detailed address: الصفا 1, الصفا, دبي, الإمارات العربية المتحدة",A,12.72,15.38,18.33,11.5

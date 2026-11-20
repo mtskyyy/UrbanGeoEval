@@ -1,0 +1,610 @@
+,A,answer,B,C,D,E,question
+0,100.0,D,100.0,200.0,100.0,300.0,How long is Berry Street in the Sydney area?
+1,200.0,A,100.0,600.0,100.0,400.0,How long is Arthur Street in the Sydney area?
+2,7500.0,C,5000.0,2500.0,750.0,250.0,How long is Warringah Freeway Onramp in the Sydney area?
+3,4000.0,A,12000.0,1200.0,8000.0,400.0,How long is Mount Street in the Sydney area?
+4,570.0,D,190.0,3800.0,1900.0,5700.0,How long is Western Distributor in the Sydney area?
+5,0.0,E,100.0,0.0,100.0,0.0,How long is York Street Offramp in the Sydney area?
+6,1500.0,A,3000.0,450.0,150.0,4500.0,How long is Moore Park Road in the Sydney area?
+7,12000.0,B,6000.0,18000.0,1800.0,600.0,How long is New South Head Road in the Sydney area?
+8,2100.0,B,700.0,1400.0,100.0,210.0,How long is Craigend Street in the Sydney area?
+9,6600.0,B,2200.0,660.0,4400.0,220.0,How long is Cross City Tunnel in the Sydney area?
+10,2900.0,A,290.0,8700.0,870.0,5800.0,How long is Oxford Street in the Sydney area?
+11,3000.0,C,2000.0,1000.0,300.0,100.0,How long is Syd Einfeld Drive in the Sydney area?
+12,800.0,D,100.0,1200.0,400.0,120.0,How long is Clarence Street in the Sydney area?
+13,100.0,D,2700.0,270.0,900.0,1800.0,How long is Western Distributor Onramp in the Sydney area?
+14,100.0,E,300.0,100.0,200.0,100.0,How long is Allen Street Offramp in the Sydney area?
+15,400.0,B,200.0,100.0,100.0,600.0,How long is Bathurst Street Offramp in the Sydney area?
+16,14700.0,E,490.0,1470.0,9800.0,4900.0,How long is Clovelly Road in the Sydney area?
+17,100.0,E,0.0,100.0,0.0,0.0,How long is Walker Avenue in the Sydney area?
+18,9600.0,D,6400.0,960.0,3200.0,320.0,How long is Warringah Freeway in the Sydney area?
+19,0.0,E,100.0,0.0,100.0,0.0,How long is Military Road Offramp in the Sydney area?
+20,5900.0,A,17700.0,1770.0,11800.0,590.0,How long is High Street in the Sydney area?
+21,100.0,D,1200.0,180.0,600.0,1800.0,How long is Cahill Expressway Onramp in the Sydney area?
+22,900.0,C,300.0,3000.0,6000.0,9000.0,How long is South Dowling Street in the Sydney area?
+23,12600.0,D,1260.0,8400.0,4200.0,420.0,How long is Eastern Distributor in the Sydney area?
+24,180.0,B,600.0,1200.0,100.0,1800.0,How long is Boundary Street in the Sydney area?
+25,400.0,E,600.0,100.0,100.0,200.0,How long is McLachlan Avenue in the Sydney area?
+26,630.0,B,6300.0,12600.0,1890.0,18900.0,How long is Burns Bay Road in the Sydney area?
+27,1020.0,D,20400.0,30600.0,10200.0,3060.0,How long is Pacific Highway in the Sydney area?
+28,270.0,C,1800.0,900.0,100.0,2700.0,How long is Southern Cross Drive in the Sydney area?
+29,150.0,D,100.0,1000.0,500.0,1500.0,How long is Link Road in the Sydney area?
+30,27900.0,E,2790.0,18600.0,930.0,9300.0,How long is Anzac Parade in the Sydney area?
+31,1800.0,B,600.0,180.0,100.0,1200.0,How long is Duke Street in the Sydney area?
+32,100.0,B,300.0,600.0,900.0,100.0,How long is Warringah Freeway On Ramp in the Sydney area?
+33,500.0,A,150.0,1000.0,100.0,1500.0,How long is Macquarie Street Offramp in the Sydney area?
+34,660.0,D,13200.0,19800.0,6600.0,1980.0,How long is Church Street in the Sydney area?
+35,100.0,C,1200.0,400.0,120.0,800.0,How long is Devlin Street in the Sydney area?
+36,600.0,D,100.0,100.0,200.0,400.0,How long is Victoria Road Exit in the Sydney area?
+37,0.0,E,100.0,0.0,100.0,0.0,How long is Victoria Road Offramp in the Sydney area?
+38,100.0,D,600.0,100.0,300.0,900.0,How long is M4 Motorway in the Sydney area?
+39,38400.0,D,3840.0,25600.0,12800.0,1280.0,How long is Victoria Road in the Sydney area?
+40,600.0,C,6000.0,2000.0,200.0,4000.0,How long is Henderson Road in the Sydney area?
+41,5700.0,B,1900.0,3800.0,190.0,570.0,How long is Railway Parade in the Sydney area?
+42,1600.0,E,240.0,100.0,2400.0,800.0,How long is City West Link in the Sydney area?
+43,600.0,D,100.0,400.0,200.0,100.0,How long is Pyrmont Bridge Road Offramp in the Sydney area?
+44,100.0,D,0.0,0.0,0.0,100.0,How long is Cary Street in the Sydney area?
+45,100.0,E,300.0,200.0,100.0,100.0,How long is Renwick Street in the Sydney area?
+46,0.0,D,100.0,0.0,0.0,100.0,How long is Park Avenue in the Sydney area?
+47,1200.0,B,400.0,800.0,120.0,100.0,How long is Day Street in the Sydney area?
+48,660.0,C,4400.0,2200.0,220.0,6600.0,How long is Cahill Expressway in the Sydney area?
+49,100.0,E,200.0,100.0,300.0,100.0,How long is William Street Exit in the Sydney area?
+50,100.0,B,300.0,100.0,900.0,600.0,How long is Miller Street Exit in the Sydney area?
+51,400.0,A,120.0,1200.0,800.0,100.0,How long is Bradfield Highway in the Sydney area?
+52,0.0,C,0.0,0.0,100.0,100.0,How long is Lavender Street Off Ramp in the Sydney area?
+53,1200.0,C,100.0,400.0,800.0,120.0,How long is Anzac Parade Offramp in the Sydney area?
+54,100.0,B,200.0,100.0,400.0,600.0,How long is Moore Park Road Offramp in the Sydney area?
+55,14100.0,C,9400.0,4700.0,470.0,1410.0,How long is Lane Cove Tunnel in the Sydney area?
+56,500.0,A,100.0,1000.0,150.0,1500.0,How long is Reserve Road Offramp in the Sydney area?
+57,100.0,C,1600.0,800.0,2400.0,240.0,How long is Gore Hill Freeway Onramp in the Sydney area?
+58,3300.0,B,1100.0,2200.0,330.0,110.0,How long is Lane Cove Tunnel Onramp in the Sydney area?
+59,4100.0,A,8200.0,410.0,12300.0,1230.0,How long is Longueville Road in the Sydney area?
+60,10600.0,D,15900.0,1590.0,5300.0,530.0,How long is Gore Hill Freeway in the Sydney area?
+61,510.0,D,3400.0,170.0,1700.0,5100.0,How long is Majors Bay Road in the Sydney area?
+62,600.0,A,1800.0,1200.0,100.0,180.0,How long is Smythes Street in the Sydney area?
+63,2000.0,A,600.0,200.0,4000.0,6000.0,How long is Bay Street in the Sydney area?
+64,100.0,B,200.0,100.0,600.0,400.0,How long is Falcon Street Offramp in the Sydney area?
+65,1470.0,C,14700.0,4900.0,490.0,9800.0,How long is William Street in the Sydney area?
+66,1400.0,B,700.0,100.0,210.0,2100.0,How long is Eastern Distributor Offramp in the Sydney area?
+67,1500.0,C,1000.0,500.0,150.0,100.0,How long is William Street Offramp in the Sydney area?
+68,2400.0,E,100.0,240.0,1600.0,800.0,How long is Cross City Tunnel Onramp in the Sydney area?
+69,2600.0,E,3900.0,130.0,390.0,1300.0,How long is Cahill Expressway Offramp in the Sydney area?
+70,5600.0,A,16800.0,560.0,11200.0,1680.0,How long is Military Road in the Sydney area?
+71,100.0,E,100.0,0.0,0.0,0.0,How long is Tramway Lane in the Sydney area?
+72,300.0,E,100.0,200.0,100.0,100.0,How long is Moore Park Bus Roadway in the Sydney area?
+73,100.0,B,400.0,1200.0,800.0,120.0,How long is Druitt Street in the Sydney area?
+74,100.0,D,100.0,300.0,100.0,200.0,How long is King Street Offramp in the Sydney area?
+75,200.0,E,6000.0,600.0,4000.0,2000.0,How long is Ocean Street in the Sydney area?
+76,2600.0,E,390.0,3900.0,130.0,1300.0,How long is Dobroyd Parade in the Sydney area?
+77,100.0,E,0.0,0.0,100.0,0.0,How long is Boomerang Street in the Sydney area?
+78,190.0,D,3800.0,5700.0,1900.0,570.0,How long is Bronte Road in the Sydney area?
+79,2700.0,E,100.0,1800.0,270.0,900.0,How long is Henrietta Street in the Sydney area?
+80,100.0,D,300.0,100.0,100.0,200.0,How long is Cowper Wharf Road Offramp in the Sydney area?
+81,450.0,D,3000.0,150.0,1500.0,4500.0,How long is Pacific Highway Offramp in the Sydney area?
+82,300.0,E,100.0,200.0,100.0,100.0,How long is West Street Exit in the Sydney area?
+83,0.0,E,0.0,100.0,100.0,0.0,How long is Terry Street in the Sydney area?
+84,8100.0,D,5400.0,810.0,2700.0,270.0,How long is Centennial Avenue in the Sydney area?
+85,3900.0,E,130.0,390.0,2600.0,1300.0,How long is Cowper Wharf Roadway in the Sydney area?
+86,600.0,E,100.0,900.0,100.0,300.0,How long is South Dowling Street Exit in the Sydney area?
+87,100.0,C,400.0,200.0,100.0,600.0,How long is Military Road Exit in the Sydney area?
+88,11200.0,B,5600.0,560.0,1680.0,16800.0,How long is Wilson Street in the Sydney area?
+89,14700.0,E,490.0,1470.0,9800.0,4900.0,How long is Elizabeth Street in the Sydney area?
+90,170.0,B,1700.0,5100.0,3400.0,510.0,How long is Devonshire Street in the Sydney area?
+91,27600.0,C,18400.0,9200.0,2760.0,920.0,How long is Parramatta Road in the Sydney area?
+92,750.0,E,7500.0,250.0,5000.0,2500.0,How long is Norton Street in the Sydney area?
+93,2800.0,A,5600.0,280.0,8400.0,840.0,How long is Day Avenue in the Sydney area?
+94,3400.0,D,510.0,170.0,1700.0,5100.0,How long is Barker Street in the Sydney area?
+95,9000.0,E,900.0,300.0,6000.0,3000.0,How long is Brown Street in the Sydney area?
+96,600.0,D,400.0,100.0,200.0,100.0,How long is Cook Street in the Sydney area?
+97,100.0,D,100.0,200.0,100.0,300.0,How long is Whiting Beach Road in the Sydney area?
+98,540.0,C,3600.0,1800.0,180.0,5400.0,How long is Prince Albert Street in the Sydney area?
+99,3900.0,D,130.0,2600.0,1300.0,390.0,How long is Wattle Street in the Sydney area?
+100,1800.0,A,5400.0,540.0,180.0,3600.0,How long is M4 East Tunnel Onramp in the Sydney area?
+101,900.0,A,270.0,100.0,1800.0,2700.0,How long is Falcon Street in the Sydney area?
+102,100.0,C,100.0,100.0,200.0,300.0,How long is Military Road E-Ramp in the Sydney area?
+103,100.0,C,100.0,200.0,600.0,400.0,How long is Iron Cove Link in the Sydney area?
+104,1200.0,B,400.0,100.0,800.0,120.0,How long is Westbourne Street in the Sydney area?
+105,100.0,D,300.0,2000.0,1000.0,3000.0,How long is Eastern Distributor Onramp in the Sydney area?
+106,120.0,C,100.0,400.0,1200.0,800.0,How long is Blaxland Road Exit in the Sydney area?
+107,100.0,C,900.0,300.0,100.0,600.0,How long is Willoughby Road Offramp in the Sydney area?
+108,0.0,C,0.0,0.0,100.0,100.0,How long is Brook Street Offramp in the Sydney area?
+109,5400.0,C,8100.0,2700.0,810.0,270.0,How long is Blaxland Road in the Sydney area?
+110,3300.0,A,6600.0,9900.0,330.0,990.0,How long is Parkes Street in the Sydney area?
+111,100.0,E,0.0,0.0,100.0,0.0,How long is Gibbons Street in the Sydney area?
+112,3300.0,D,2200.0,330.0,1100.0,110.0,How long is Regent Street in the Sydney area?
+113,660.0,E,4400.0,220.0,6600.0,2200.0,How long is Ernest Street in the Sydney area?
+114,600.0,E,400.0,100.0,100.0,200.0,How long is Fig Street Offramp in the Sydney area?
+115,1200.0,A,360.0,2400.0,3600.0,120.0,How long is Harris Street in the Sydney area?
+116,1200.0,B,400.0,100.0,120.0,800.0,How long is Chalmers Street in the Sydney area?
+117,100.0,D,0.0,0.0,0.0,100.0,How long is Randle Street in the Sydney area?
+118,480.0,D,14400.0,9600.0,4800.0,1440.0,How long is Gardeners Road in the Sydney area?
+119,800.0,B,400.0,120.0,100.0,1200.0,How long is Harbour Street in the Sydney area?
+120,100.0,E,0.0,100.0,0.0,0.0,How long is Wheat Road in the Sydney area?
+121,11100.0,C,1110.0,3700.0,7400.0,370.0,How long is Jersey Road in the Sydney area?
+122,3900.0,B,1300.0,2600.0,130.0,390.0,How long is Sydney Harbour Tunnel Northbound in the Sydney area?
+123,2200.0,E,330.0,3300.0,110.0,1100.0,How long is The Crescent in the Sydney area?
+124,100.0,D,0.0,0.0,0.0,100.0,How long is James Craig Road in the Sydney area?
+125,100.0,D,100.0,600.0,200.0,400.0,How long is Bayswater Road in the Sydney area?
+126,1800.0,E,100.0,180.0,1200.0,600.0,How long is Neild Avenue in the Sydney area?
+127,23800.0,B,11900.0,1190.0,3570.0,35700.0,How long is Old South Head Road in the Sydney area?
+128,820.0,B,8200.0,16400.0,2460.0,24600.0,How long is Edgecliff Road in the Sydney area?
+129,100.0,D,0.0,0.0,0.0,100.0,How long is Thornley Street in the Sydney area?
+130,1500.0,B,500.0,100.0,1000.0,150.0,How long is Lane Cove Road in the Sydney area?
+131,2100.0,B,700.0,100.0,210.0,1400.0,How long is Goulding Road in the Sydney area?
+132,7800.0,D,390.0,1170.0,3900.0,11700.0,How long is Epping Road in the Sydney area?
+133,0.0,D,100.0,0.0,0.0,100.0,How long is U-Turn Bay in the Sydney area?
+134,300.0,E,100.0,200.0,100.0,100.0,How long is Ernest Street Exit in the Sydney area?
+135,1320.0,D,440.0,13200.0,4400.0,8800.0,How long is Alison Road in the Sydney area?
+136,100.0,E,100.0,0.0,0.0,0.0,How long is Tay Street in the Sydney area?
+137,1200.0,E,8000.0,12000.0,400.0,4000.0,How long is Birrell Street in the Sydney area?
+138,500.0,A,100.0,1500.0,150.0,1000.0,How long is Tamarama Street in the Sydney area?
+139,3200.0,B,1600.0,4800.0,480.0,160.0,How long is Spit Road in the Sydney area?
+140,1200.0,A,3600.0,360.0,2400.0,120.0,How long is Ourimbah Road in the Sydney area?
+141,810.0,B,2700.0,270.0,8100.0,5400.0,How long is Johnston Street in the Sydney area?
+142,100.0,E,0.0,100.0,0.0,0.0,How long is Bradfield Highway Southbound in the Sydney area?
+143,3300.0,E,2200.0,330.0,110.0,1100.0,How long is Albion Street in the Sydney area?
+144,650.0,D,13000.0,1950.0,6500.0,19500.0,How long is M4 East Tunnel in the Sydney area?
+145,110.0,C,2200.0,1100.0,3300.0,330.0,How long is Concord Road Offramp in the Sydney area?
+146,270.0,C,1800.0,900.0,2700.0,100.0,How long is Wattle Street Offramp in the Sydney area?
+147,590.0,D,1770.0,11800.0,5900.0,17700.0,How long is M8 Motorway Tunnel in the Sydney area?
+148,200.0,E,100.0,100.0,300.0,100.0,How long is Alfred Street Offramp in the Sydney area?
+149,1400.0,A,420.0,2800.0,4200.0,140.0,How long is Bathurst Street in the Sydney area?
+150,5600.0,D,8400.0,840.0,2800.0,280.0,How long is Miller Street in the Sydney area?
+151,900.0,B,300.0,100.0,600.0,100.0,How long is Bedwin Road in the Sydney area?
+152,11800.0,C,17700.0,5900.0,590.0,1770.0,How long is Edinburgh Road in the Sydney area?
+153,5400.0,D,270.0,8100.0,2700.0,810.0,How long is Belmont Road in the Sydney area?
+154,2100.0,B,700.0,210.0,1400.0,100.0,How long is Wellington Street in the Sydney area?
+155,1230.0,D,24600.0,3690.0,12300.0,36900.0,How long is Bourke Street in the Sydney area?
+156,0.0,D,0.0,100.0,0.0,100.0,How long is Church Avenue in the Sydney area?
+157,300.0,E,100.0,200.0,100.0,100.0,How long is M8 Motorway Tunnel Offramp in the Sydney area?
+158,2000.0,C,100.0,1000.0,3000.0,300.0,How long is Gardeners Road Offramp in the Sydney area?
+159,100.0,E,100.0,200.0,300.0,100.0,How long is Euston Road Offramp in the Sydney area?
+160,100.0,D,0.0,0.0,0.0,100.0,How long is Orpington Street in the Sydney area?
+161,1100.0,A,330.0,3300.0,2200.0,110.0,How long is Chandos Street in the Sydney area?
+162,1800.0,B,900.0,2700.0,270.0,100.0,How long is Gordon Street in the Sydney area?
+163,200.0,E,300.0,100.0,100.0,100.0,How long is New Link Road in the Sydney area?
+164,1500.0,B,500.0,150.0,100.0,1000.0,How long is Airport Drive in the Sydney area?
+165,1200.0,C,100.0,600.0,1800.0,180.0,How long is Qantas Drive Offramp in the Sydney area?
+166,1400.0,A,420.0,4200.0,2800.0,140.0,How long is Sydney Gateway in the Sydney area?
+167,100.0,D,900.0,100.0,300.0,600.0,How long is Airport Drive Offramp in the Sydney area?
+168,3000.0,C,4500.0,1500.0,450.0,150.0,How long is Qantas Drive in the Sydney area?
+169,1600.0,E,2400.0,100.0,240.0,800.0,How long is Gardeners Road Onramp in the Sydney area?
+170,300.0,A,600.0,900.0,100.0,100.0,How long is Euston Road Onramp in the Sydney area?
+171,720.0,D,4800.0,7200.0,2400.0,240.0,How long is Iron Cove Link Tunnel in the Sydney area?
+172,750.0,C,250.0,2500.0,7500.0,5000.0,How long is M8 Motorway Tunnel Onramp in the Sydney area?
+173,6900.0,B,2300.0,4600.0,690.0,230.0,How long is Darling Drive in the Sydney area?
+174,11600.0,D,17400.0,580.0,5800.0,1740.0,How long is Balmain Road in the Sydney area?
+175,100.0,C,600.0,200.0,400.0,100.0,How long is Bradfield Highway Onramp in the Sydney area?
+176,0.0,D,100.0,0.0,0.0,100.0,How long is A'Beckett Avenue in the Sydney area?
+177,1800.0,D,1200.0,100.0,600.0,180.0,How long is McLaren Street in the Sydney area?
+178,900.0,A,100.0,1800.0,2700.0,270.0,How long is City West Link Offramp in the Sydney area?
+179,420.0,B,4200.0,12600.0,8400.0,1260.0,How long is King Street in the Sydney area?
+180,2600.0,C,130.0,1300.0,3900.0,390.0,How long is Walker Street in the Sydney area?
+181,1000.0,D,100.0,150.0,500.0,1500.0,How long is Orchard Road in the Sydney area?
+182,350.0,C,10500.0,3500.0,7000.0,1050.0,How long is Botany Street in the Sydney area?
+183,600.0,E,100.0,100.0,900.0,300.0,How long is Blue Street in the Sydney area?
+184,5700.0,D,190.0,3800.0,1900.0,570.0,How long is Hewlett Street in the Sydney area?
+185,700.0,A,1400.0,100.0,2100.0,210.0,How long is Nicholson Street in the Sydney area?
+186,3600.0,E,5400.0,540.0,180.0,1800.0,How long is Melville Street in the Sydney area?
+187,12800.0,C,640.0,6400.0,19200.0,1920.0,How long is Morrison Road in the Sydney area?
+188,7800.0,D,1170.0,390.0,3900.0,11700.0,How long is Bradleys Head Road in the Sydney area?
+189,3000.0,D,300.0,2000.0,1000.0,100.0,How long is Euroka Street in the Sydney area?
+190,750.0,D,7500.0,5000.0,2500.0,250.0,How long is Mitchell Street in the Sydney area?
+191,180.0,E,1200.0,1800.0,100.0,600.0,How long is Bunnerong Road in the Sydney area?
+192,1600.0,A,160.0,4800.0,3200.0,480.0,How long is Sutherland Street in the Sydney area?
+193,600.0,C,4000.0,2000.0,6000.0,200.0,How long is Bowden Street in the Sydney area?
+194,510.0,D,15300.0,1530.0,5100.0,10200.0,How long is MacPherson Street in the Sydney area?
+195,3900.0,C,130.0,1300.0,390.0,2600.0,How long is Wunulla Road in the Sydney area?
+196,500.0,A,150.0,1500.0,1000.0,100.0,How long is Kent Street in the Sydney area?
+197,450.0,E,4500.0,3000.0,150.0,1500.0,How long is Georges River Road in the Sydney area?
+198,990.0,E,19800.0,2970.0,29700.0,9900.0,How long is Burwood Road in the Sydney area?
+199,190.0,B,1900.0,570.0,3800.0,5700.0,How long is Roslyn Street in the Sydney area?
+200,340.0,B,3400.0,10200.0,6800.0,1020.0,How long is Glebe Point Road in the Sydney area?
+201,100.0,B,900.0,270.0,1800.0,2700.0,How long is New Beach Road in the Sydney area?
+202,900.0,B,3000.0,9000.0,6000.0,300.0,How long is Maloney Street in the Sydney area?
+203,540.0,C,180.0,1800.0,5400.0,3600.0,How long is Wicks Road in the Sydney area?
+204,0.0,E,100.0,100.0,0.0,0.0,How long is Jordan Street in the Sydney area?
+205,4800.0,C,3200.0,1600.0,160.0,480.0,How long is Eastern Valley Way in the Sydney area?
+206,2000.0,A,600.0,4000.0,200.0,6000.0,How long is Evaline Street in the Sydney area?
+207,5800.0,C,290.0,2900.0,870.0,8700.0,How long is Quarry Road in the Sydney area?
+208,100.0,E,1800.0,2700.0,270.0,900.0,How long is Harp Street in the Sydney area?
+209,960.0,D,6400.0,9600.0,3200.0,320.0,How long is Thompson Street in the Sydney area?
+210,600.0,E,400.0,100.0,100.0,200.0,How long is Kiaora Road in the Sydney area?
+211,120.0,C,3600.0,1200.0,2400.0,360.0,How long is Murray Street in the Sydney area?
+212,3900.0,A,390.0,1170.0,11700.0,7800.0,How long is Malabar Road in the Sydney area?
+213,100.0,C,270.0,900.0,2700.0,1800.0,How long is Burton Street in the Sydney area?
+214,750.0,B,2500.0,5000.0,250.0,7500.0,How long is Hickson Road in the Sydney area?
+215,100.0,D,100.0,300.0,100.0,200.0,How long is Twin Road in the Sydney area?
+216,1400.0,B,700.0,210.0,100.0,2100.0,How long is Princess Street in the Sydney area?
+217,3600.0,D,120.0,2400.0,1200.0,360.0,How long is Art Gallery Road in the Sydney area?
+218,9800.0,D,14700.0,490.0,4900.0,1470.0,How long is Middle Head Road in the Sydney area?
+219,510.0,D,5100.0,170.0,1700.0,3400.0,How long is Patterson Street in the Sydney area?
+220,200.0,D,100.0,100.0,100.0,300.0,How long is Punt Road in the Sydney area?
+221,2400.0,D,360.0,120.0,1200.0,3600.0,How long is Robert Street in the Sydney area?
+222,400.0,A,1200.0,100.0,800.0,120.0,How long is Fifth Avenue in the Sydney area?
+223,120.0,C,2400.0,1200.0,3600.0,360.0,How long is Greenwich Road in the Sydney area?
+224,1200.0,D,100.0,800.0,400.0,120.0,How long is Penshurst Street in the Sydney area?
+225,400.0,B,200.0,100.0,600.0,100.0,How long is Roseby Street in the Sydney area?
+226,150.0,E,4500.0,450.0,3000.0,1500.0,How long is Rowntree Street in the Sydney area?
+227,140.0,C,4200.0,1400.0,420.0,2800.0,How long is North Road in the Sydney area?
+228,100.0,D,300.0,100.0,100.0,200.0,How long is Ultimo Road in the Sydney area?
+229,500.0,A,100.0,150.0,1000.0,1500.0,How long is Ninth Avenue in the Sydney area?
+230,240.0,D,4800.0,720.0,2400.0,7200.0,How long is Northcote Street in the Sydney area?
+231,8400.0,E,280.0,840.0,5600.0,2800.0,How long is Bay Road in the Sydney area?
+232,2340.0,B,7800.0,780.0,15600.0,23400.0,How long is Raglan Street in the Sydney area?
+233,400.0,D,600.0,100.0,200.0,100.0,How long is The Esplanade in the Sydney area?
+234,200.0,A,100.0,600.0,100.0,400.0,How long is Ngamuru Avenue in the Sydney area?
+235,700.0,A,1400.0,210.0,2100.0,100.0,How long is Wellbank Street in the Sydney area?
+236,100.0,D,600.0,100.0,200.0,400.0,How long is Erskine Street in the Sydney area?
+237,9100.0,A,18200.0,27300.0,910.0,2730.0,How long is Darling Street in the Sydney area?
+238,9900.0,C,990.0,3300.0,6600.0,330.0,How long is Blackwall Point Road in the Sydney area?
+239,510.0,C,5100.0,1700.0,3400.0,170.0,How long is Blues Point Road in the Sydney area?
+240,300.0,D,900.0,9000.0,3000.0,6000.0,How long is Gipps Street in the Sydney area?
+241,500.0,A,100.0,1000.0,1500.0,150.0,How long is Archer Street in the Sydney area?
+242,1200.0,E,12000.0,8000.0,400.0,4000.0,How long is Homer Street in the Sydney area?
+243,640.0,E,12800.0,1920.0,19200.0,6400.0,How long is Great North Road in the Sydney area?
+244,1400.0,A,420.0,4200.0,140.0,2800.0,How long is Canterbury Road in the Sydney area?
+245,1320.0,E,440.0,13200.0,8800.0,4400.0,How long is Sailors Bay Road in the Sydney area?
+246,330.0,C,2200.0,1100.0,110.0,3300.0,How long is Athol Wharf Road in the Sydney area?
+247,2700.0,A,810.0,5400.0,270.0,8100.0,How long is Bexley Road in the Sydney area?
+248,100.0,D,100.0,400.0,200.0,600.0,How long is Crinan Street in the Sydney area?
+249,9800.0,E,1470.0,14700.0,490.0,4900.0,How long is Queen Street in the Sydney area?
+250,600.0,D,100.0,900.0,300.0,100.0,How long is Park Street in the Sydney area?
+251,800.0,D,100.0,120.0,400.0,1200.0,How long is College Street in the Sydney area?
+252,4700.0,A,14100.0,470.0,1410.0,9400.0,How long is Willoughby Road in the Sydney area?
+253,800.0,A,100.0,2400.0,1600.0,240.0,How long is Albany Street in the Sydney area?
+254,6600.0,D,4400.0,660.0,2200.0,220.0,How long is Old Canterbury Road in the Sydney area?
+255,900.0,A,2700.0,270.0,100.0,1800.0,How long is Railway Terrace in the Sydney area?
+256,300.0,D,100.0,100.0,100.0,200.0,How long is Longport Street in the Sydney area?
+257,450.0,E,3000.0,150.0,4500.0,1500.0,How long is McEvoy Street in the Sydney area?
+258,13800.0,D,2070.0,20700.0,6900.0,690.0,How long is Botany Road in the Sydney area?
+259,210.0,E,2100.0,100.0,1400.0,700.0,How long is Booth Street in the Sydney area?
+260,700.0,A,2100.0,1400.0,100.0,210.0,How long is Mallett Street in the Sydney area?
+261,1400.0,E,2100.0,210.0,100.0,700.0,How long is Pyrmont Bridge Road in the Sydney area?
+262,9000.0,C,300.0,3000.0,6000.0,900.0,How long is Avoca Street in the Sydney area?
+263,110.0,D,3300.0,2200.0,1100.0,330.0,How long is Young Street in the Sydney area?
+264,600.0,A,1800.0,100.0,1200.0,180.0,How long is Percival Road in the Sydney area?
+265,210.0,E,100.0,2100.0,1400.0,700.0,How long is Moncur Street in the Sydney area?
+266,200.0,E,100.0,300.0,100.0,100.0,How long is Barcom Avenue in the Sydney area?
+267,140.0,B,1400.0,4200.0,2800.0,420.0,How long is Victoria Street in the Sydney area?
+268,100.0,E,120.0,1200.0,800.0,400.0,How long is Montague Street in the Sydney area?
+269,1680.0,C,560.0,5600.0,11200.0,16800.0,How long is Mowbray Road in the Sydney area?
+270,900.0,A,270.0,2700.0,100.0,1800.0,How long is Lavender Street in the Sydney area?
+271,2100.0,A,210.0,4200.0,6300.0,630.0,How long is Rainbow Street in the Sydney area?
+272,3900.0,A,390.0,1170.0,11700.0,7800.0,How long is Cowles Road in the Sydney area?
+273,200.0,D,100.0,100.0,100.0,300.0,How long is Wentworth Avenue in the Sydney area?
+274,3400.0,B,1700.0,510.0,5100.0,170.0,How long is Liverpool Street in the Sydney area?
+275,2200.0,A,4400.0,6600.0,220.0,660.0,How long is Crown Street in the Sydney area?
+276,3200.0,D,160.0,4800.0,1600.0,480.0,How long is Houston Road in the Sydney area?
+277,420.0,D,2800.0,4200.0,1400.0,140.0,How long is Joynton Avenue in the Sydney area?
+278,5400.0,C,540.0,1800.0,3600.0,180.0,How long is Rothschild Avenue in the Sydney area?
+279,900.0,A,100.0,270.0,2700.0,1800.0,How long is Epsom Road in the Sydney area?
+280,200.0,A,600.0,100.0,100.0,400.0,How long is Railway Road in the Sydney area?
+281,100.0,E,300.0,100.0,200.0,100.0,How long is Gleeson Avenue in the Sydney area?
+282,1900.0,A,5700.0,570.0,3800.0,190.0,How long is Unwins Bridge Road in the Sydney area?
+283,8600.0,E,12900.0,1290.0,430.0,4300.0,How long is Marrickville Road in the Sydney area?
+284,11400.0,B,3800.0,380.0,7600.0,1140.0,How long is Carrington Road in the Sydney area?
+285,5800.0,E,290.0,8700.0,870.0,2900.0,How long is Coogee Bay Road in the Sydney area?
+286,100.0,B,800.0,240.0,2400.0,1600.0,How long is St Pauls Street in the Sydney area?
+287,1800.0,A,180.0,3600.0,5400.0,540.0,How long is Dudley Street in the Sydney area?
+288,800.0,D,100.0,1200.0,400.0,120.0,How long is Howard Street in the Sydney area?
+289,360.0,C,3600.0,1200.0,2400.0,120.0,How long is Crane Street in the Sydney area?
+290,3000.0,B,1500.0,450.0,150.0,4500.0,How long is Broughton Street in the Sydney area?
+291,5100.0,D,170.0,510.0,1700.0,3400.0,How long is Newland Street in the Sydney area?
+292,2400.0,E,240.0,100.0,1600.0,800.0,How long is Warners Avenue in the Sydney area?
+293,630.0,C,210.0,2100.0,6300.0,4200.0,How long is Wairoa Avenue in the Sydney area?
+294,900.0,A,2700.0,1800.0,270.0,100.0,How long is Todman Avenue in the Sydney area?
+295,8400.0,B,2800.0,840.0,280.0,5600.0,How long is Awaba Street in the Sydney area?
+296,1000.0,A,3000.0,2000.0,300.0,100.0,How long is Mortley Avenue in the Sydney area?
+297,400.0,D,600.0,100.0,200.0,100.0,How long is Timbrell Drive in the Sydney area?
+298,10800.0,B,3600.0,7200.0,360.0,1080.0,How long is Livingstone Road in the Sydney area?
+299,14700.0,B,4900.0,1470.0,9800.0,490.0,How long is Wardell Road in the Sydney area?
+300,220.0,B,2200.0,660.0,6600.0,4400.0,How long is Lyons Road in the Sydney area?
+301,630.0,D,4200.0,6300.0,2100.0,210.0,How long is Lyons Road West in the Sydney area?
+302,8000.0,E,400.0,12000.0,1200.0,4000.0,How long is Ewart Street in the Sydney area?
+303,3900.0,D,390.0,130.0,1300.0,2600.0,How long is Frazer Street in the Sydney area?
+304,240.0,C,4800.0,2400.0,7200.0,720.0,How long is West Street in the Sydney area?
+305,660.0,C,6600.0,2200.0,4400.0,220.0,How long is Albert Street in the Sydney area?
+306,1140.0,E,11400.0,7600.0,380.0,3800.0,How long is Bourke Road in the Sydney area?
+307,510.0,E,5100.0,170.0,3400.0,1700.0,How long is Coward Street in the Sydney area?
+308,7500.0,B,2500.0,5000.0,750.0,250.0,How long is O'Riordan Street in the Sydney area?
+309,640.0,B,6400.0,1920.0,12800.0,19200.0,How long is Darley Road in the Sydney area?
+310,3400.0,E,510.0,170.0,5100.0,1700.0,How long is York Road in the Sydney area?
+311,100.0,D,400.0,600.0,200.0,100.0,How long is Northumberland Avenue in the Sydney area?
+312,2100.0,C,210.0,700.0,100.0,1400.0,How long is Baptist Street in the Sydney area?
+313,6300.0,E,630.0,210.0,4200.0,2100.0,How long is Cleveland Street in the Sydney area?
+314,5800.0,D,8700.0,290.0,2900.0,870.0,How long is Bondi Road in the Sydney area?
+315,230.0,B,2300.0,690.0,4600.0,6900.0,How long is Liverpool Road in the Sydney area?
+316,2300.0,A,4600.0,6900.0,690.0,230.0,How long is Queens Park Road in the Sydney area?
+317,1080.0,C,360.0,3600.0,7200.0,10800.0,How long is River Road in the Sydney area?
+318,100.0,E,100.0,900.0,600.0,300.0,How long is Lachlan Street in the Sydney area?
+319,100.0,B,1000.0,3000.0,300.0,2000.0,How long is Dacey Avenue in the Sydney area?
+320,400.0,A,800.0,120.0,1200.0,100.0,How long is O'Dea Avenue in the Sydney area?
+321,800.0,E,120.0,100.0,1200.0,400.0,How long is Alexander Street in the Sydney area?
+322,8100.0,C,810.0,2700.0,5400.0,270.0,How long is Sussex Street in the Sydney area?
+323,480.0,E,3200.0,4800.0,160.0,1600.0,How long is Holden Street in the Sydney area?
+324,100.0,D,120.0,1200.0,400.0,800.0,How long is Malvern Avenue in the Sydney area?
+325,2000.0,A,6000.0,4000.0,200.0,600.0,How long is Croydon Avenue in the Sydney area?
+326,180.0,D,3600.0,5400.0,1800.0,540.0,How long is Bland Street in the Sydney area?
+327,780.0,C,5200.0,2600.0,260.0,7800.0,How long is Frederick Street in the Sydney area?
+328,400.0,A,100.0,120.0,800.0,1200.0,How long is Harris Road in the Sydney area?
+329,4500.0,B,1500.0,3000.0,450.0,150.0,How long is Queens Road in the Sydney area?
+330,1800.0,B,600.0,180.0,1200.0,100.0,How long is Stanmore Road in the Sydney area?
+331,2600.0,D,390.0,3900.0,1300.0,130.0,How long is New Canterbury Road in the Sydney area?
+332,1000.0,E,1500.0,100.0,150.0,500.0,How long is Shaw Street in the Sydney area?
+333,1400.0,D,100.0,2100.0,700.0,210.0,How long is Crystal Street in the Sydney area?
+334,120.0,B,400.0,800.0,100.0,1200.0,How long is Goulburn Street in the Sydney area?
+335,5700.0,E,570.0,3800.0,190.0,1900.0,How long is Marion Street in the Sydney area?
+336,1400.0,D,210.0,2100.0,700.0,100.0,How long is Foster Street in the Sydney area?
+337,700.0,A,100.0,2100.0,1400.0,210.0,How long is Tebbutt Street in the Sydney area?
+338,0.0,D,100.0,0.0,0.0,100.0,How long is James Street in the Sydney area?
+339,7800.0,B,2600.0,260.0,780.0,5200.0,How long is Ben Boyd Road in the Sydney area?
+340,300.0,A,600.0,100.0,100.0,900.0,How long is William Henry Street in the Sydney area?
+341,100.0,E,600.0,900.0,100.0,300.0,How long is Pier Street in the Sydney area?
+342,420.0,E,4200.0,2800.0,140.0,1400.0,How long is Sydenham Road in the Sydney area?
+343,6300.0,E,4200.0,630.0,210.0,2100.0,How long is Wigram Road in the Sydney area?
+344,240.0,C,1600.0,800.0,100.0,2400.0,How long is Minogue Crescent in the Sydney area?
+345,120.0,E,100.0,1200.0,800.0,400.0,How long is Ross Street in the Sydney area?
+346,690.0,E,230.0,6900.0,4600.0,2300.0,How long is Bridge Road in the Sydney area?
+347,2400.0,B,800.0,1600.0,100.0,240.0,How long is Cross Street in the Sydney area?
+348,900.0,C,100.0,300.0,600.0,100.0,How long is Dalmeny Avenue in the Sydney area?
+349,5800.0,D,290.0,870.0,2900.0,8700.0,How long is Illawarra Road in the Sydney area?
+350,1300.0,A,3900.0,2600.0,130.0,390.0,How long is Frenchmans Road in the Sydney area?
+351,100.0,C,100.0,100.0,300.0,200.0,How long is Devlin Street Onramp in the Sydney area?
+352,700.0,A,2100.0,1400.0,100.0,210.0,How long is Flinders Street in the Sydney area?
+353,500.0,A,100.0,1000.0,150.0,1500.0,How long is Llewellyn Street in the Sydney area?
+354,3300.0,B,1100.0,330.0,2200.0,110.0,How long is Alice Street in the Sydney area?
+355,180.0,D,100.0,1200.0,600.0,1800.0,How long is Edgeware Road in the Sydney area?
+356,27000.0,B,9000.0,900.0,18000.0,2700.0,How long is Pittwater Road in the Sydney area?
+357,4200.0,B,2100.0,6300.0,630.0,210.0,How long is Princes Highway in the Sydney area?
+358,100.0,E,3000.0,300.0,2000.0,1000.0,How long is Campbell Road in the Sydney area?
+359,840.0,E,280.0,8400.0,5600.0,2800.0,How long is Campbell Street in the Sydney area?
+360,160.0,B,1600.0,480.0,4800.0,3200.0,How long is Wyndham Street in the Sydney area?
+361,240.0,B,800.0,1600.0,100.0,2400.0,How long is Collins Street in the Sydney area?
+362,1600.0,E,240.0,100.0,2400.0,800.0,How long is Phillip Street in the Sydney area?
+363,200.0,A,100.0,600.0,400.0,100.0,How long is Crescent Street in the Sydney area?
+364,6900.0,D,230.0,690.0,2300.0,4600.0,How long is Beamish Street in the Sydney area?
+365,1100.0,A,330.0,110.0,2200.0,3300.0,How long is Shirley Street in the Sydney area?
+366,1000.0,B,500.0,100.0,1500.0,150.0,How long is Doody Street in the Sydney area?
+367,1100.0,A,330.0,3300.0,2200.0,110.0,How long is Missenden Road in the Sydney area?
+368,100.0,B,300.0,100.0,600.0,900.0,How long is Carillon Avenue in the Sydney area?
+369,3400.0,A,10200.0,6800.0,1020.0,340.0,How long is Salisbury Road in the Sydney area?
+370,190.0,D,3800.0,5700.0,1900.0,570.0,How long is Warren Road in the Sydney area?
+371,400.0,E,1200.0,8000.0,12000.0,4000.0,How long is Lilyfield Road in the Sydney area?
+372,5400.0,C,810.0,2700.0,8100.0,270.0,How long is Bellevue Road in the Sydney area?
+373,3200.0,C,160.0,1600.0,480.0,4800.0,How long is Victory Street in the Sydney area?
+374,450.0,E,3000.0,4500.0,150.0,1500.0,How long is Dover Road in the Sydney area?
+375,100.0,E,270.0,1800.0,2700.0,900.0,How long is Ocean Avenue in the Sydney area?
+376,250.0,C,7500.0,2500.0,5000.0,750.0,How long is Moore Street in the Sydney area?
+377,480.0,C,3200.0,1600.0,160.0,4800.0,How long is Cowper Street in the Sydney area?
+378,0.0,D,100.0,0.0,0.0,100.0,How long is Bent Street in the Sydney area?
+379,180.0,E,100.0,1800.0,1200.0,600.0,How long is Macquarie Street in the Sydney area?
+380,100.0,D,2100.0,1400.0,700.0,210.0,How long is Sir John Young Crescent in the Sydney area?
+381,300.0,A,100.0,900.0,600.0,100.0,How long is Council Street in the Sydney area?
+382,2000.0,A,200.0,4000.0,6000.0,600.0,How long is Ryde Road in the Sydney area?
+383,1200.0,B,400.0,800.0,120.0,100.0,How long is Waverley Street in the Sydney area?
+384,8400.0,D,5600.0,280.0,2800.0,840.0,How long is Doncaster Avenue in the Sydney area?
+385,100.0,D,2000.0,300.0,1000.0,3000.0,How long is Birriga Road in the Sydney area?
+386,300.0,B,1000.0,2000.0,100.0,3000.0,How long is Curlewis Street in the Sydney area?
+387,1700.0,A,510.0,3400.0,170.0,5100.0,How long is Blair Street in the Sydney area?
+388,930.0,C,9300.0,3100.0,310.0,6200.0,How long is O'Sullivan Road in the Sydney area?
+389,140.0,C,4200.0,1400.0,420.0,2800.0,How long is Euston Road in the Sydney area?
+390,1200.0,E,120.0,800.0,100.0,400.0,How long is Glenayr Avenue in the Sydney area?
+391,200.0,D,4000.0,600.0,2000.0,6000.0,How long is Grosvenor Crescent in the Sydney area?
+392,4200.0,D,140.0,2800.0,1400.0,420.0,How long is Milton Street in the Sydney area?
+393,1400.0,E,210.0,2100.0,100.0,700.0,How long is Penkivil Street in the Sydney area?
+394,300.0,E,100.0,200.0,100.0,100.0,How long is Banksia Road in the Sydney area?
+395,200.0,E,100.0,100.0,300.0,100.0,How long is Fairlight Street in the Sydney area?
+396,100.0,C,180.0,600.0,1200.0,1800.0,How long is Ramsay Road in the Sydney area?
+397,3600.0,B,1200.0,360.0,120.0,2400.0,How long is Ramsay Street in the Sydney area?
+398,100.0,E,0.0,100.0,0.0,0.0,How long is Gadigal avenue in the Sydney area?
+399,10800.0,C,7200.0,3600.0,360.0,1080.0,How long is Gadigal Avenue in the Sydney area?
+400,1400.0,A,2800.0,420.0,4200.0,140.0,How long is Dalhousie Street in the Sydney area?
+401,170.0,C,3400.0,1700.0,510.0,5100.0,How long is Shaftesbury Road in the Sydney area?
+402,3300.0,C,110.0,1100.0,2200.0,330.0,How long is Paisley Road in the Sydney area?
+403,1400.0,A,420.0,4200.0,140.0,2800.0,How long is Thomas Street in the Sydney area?
+404,170.0,C,510.0,1700.0,5100.0,3400.0,How long is May Street in the Sydney area?
+405,250.0,C,5000.0,2500.0,7500.0,750.0,How long is Wylde Street in the Sydney area?
+406,600.0,A,100.0,1200.0,1800.0,180.0,How long is Kings Cross Road in the Sydney area?
+407,1600.0,C,100.0,800.0,240.0,2400.0,How long is Darlinghurst Road in the Sydney area?
+408,3800.0,D,5700.0,190.0,1900.0,570.0,How long is Huntley Street in the Sydney area?
+409,1100.0,A,110.0,330.0,3300.0,2200.0,How long is Sydney Park Road in the Sydney area?
+410,100.0,B,800.0,240.0,2400.0,1600.0,How long is Darling Point Road in the Sydney area?
+411,210.0,D,2100.0,100.0,700.0,1400.0,How long is Mona Road in the Sydney area?
+412,100.0,D,400.0,600.0,200.0,100.0,How long is Fig Street in the Sydney area?
+413,9000.0,D,900.0,6000.0,3000.0,300.0,How long is Lang Road in the Sydney area?
+414,400.0,A,120.0,1200.0,100.0,800.0,How long is Lawson Street in the Sydney area?
+415,100.0,C,1400.0,700.0,2100.0,210.0,How long is Leichhardt Street in the Sydney area?
+416,100.0,C,120.0,400.0,800.0,1200.0,How long is Eddy Avenue in the Sydney area?
+417,800.0,C,1200.0,400.0,100.0,120.0,How long is Foveaux Street in the Sydney area?
+418,270.0,D,100.0,2700.0,900.0,1800.0,How long is Abercrombie Street in the Sydney area?
+419,100.0,E,600.0,100.0,900.0,300.0,How long is Saint Mary's Road in the Sydney area?
+420,100.0,C,600.0,200.0,400.0,100.0,How long is St. James Road in the Sydney area?
+421,100.0,C,1000.0,500.0,150.0,1500.0,How long is City Road in the Sydney area?
+422,2200.0,C,110.0,1100.0,3300.0,330.0,How long is Watson Street in the Sydney area?
+423,100.0,D,1200.0,1800.0,600.0,180.0,How long is Ebley Street in the Sydney area?
+424,3300.0,C,330.0,1100.0,2200.0,110.0,How long is MacDonald Street in the Sydney area?
+425,100.0,D,1800.0,270.0,900.0,2700.0,How long is Gladesville Road in the Sydney area?
+426,4200.0,C,420.0,1400.0,140.0,2800.0,How long is Tranmere Street in the Sydney area?
+427,1200.0,C,100.0,400.0,800.0,120.0,How long is Knox Street in the Sydney area?
+428,120.0,D,3600.0,2400.0,1200.0,360.0,How long is Trafalgar Street in the Sydney area?
+429,3000.0,E,150.0,4500.0,450.0,1500.0,How long is Maddox Street in the Sydney area?
+430,3600.0,D,360.0,2400.0,1200.0,120.0,How long is Dunning Avenue in the Sydney area?
+431,100.0,C,1600.0,800.0,2400.0,240.0,How long is Hayes Road in the Sydney area?
+432,3200.0,C,480.0,1600.0,4800.0,160.0,How long is Harcourt Parade in the Sydney area?
+433,200.0,B,2000.0,6000.0,600.0,4000.0,How long is Constitution Road in the Sydney area?
+434,1400.0,A,420.0,140.0,2800.0,4200.0,How long is Railway Avenue in the Sydney area?
+435,100.0,B,700.0,2100.0,1400.0,210.0,How long is Douglas Street in the Sydney area?
+436,290.0,C,870.0,2900.0,5800.0,8700.0,How long is Buffalo Road in the Sydney area?
+437,1200.0,C,180.0,600.0,100.0,1800.0,How long is Trelawney Street in the Sydney area?
+438,1200.0,B,600.0,100.0,180.0,1800.0,How long is Stanley Street in the Sydney area?
+439,100.0,B,300.0,600.0,900.0,100.0,How long is Wentworth Street in the Sydney area?
+440,800.0,D,120.0,1200.0,400.0,100.0,How long is Dangar Street in the Sydney area?
+441,5300.0,A,15900.0,1590.0,530.0,10600.0,How long is Arden Street in the Sydney area?
+442,2000.0,E,3000.0,300.0,100.0,1000.0,How long is Perouse Road in the Sydney area?
+443,800.0,E,120.0,100.0,1200.0,400.0,How long is Regatta Road in the Sydney area?
+444,1200.0,C,180.0,600.0,100.0,1800.0,How long is Kingston Road in the Sydney area?
+445,780.0,C,7800.0,2600.0,260.0,5200.0,How long is Beattie Street in the Sydney area?
+446,1600.0,A,480.0,3200.0,160.0,4800.0,How long is Belgrave Street in the Sydney area?
+447,600.0,E,100.0,100.0,400.0,200.0,How long is Borrodale Road in the Sydney area?
+448,150.0,B,1500.0,3000.0,4500.0,450.0,How long is Cottenham Avenue in the Sydney area?
+449,270.0,B,2700.0,810.0,5400.0,8100.0,How long is Francis Street in the Sydney area?
+450,3600.0,D,120.0,2400.0,1200.0,360.0,How long is Fletcher Street in the Sydney area?
+451,4800.0,D,720.0,7200.0,2400.0,240.0,How long is Campbell Parade in the Sydney area?
+452,1500.0,A,450.0,4500.0,3000.0,150.0,How long is Newcastle Street in the Sydney area?
+453,1000.0,C,1500.0,500.0,150.0,100.0,How long is Baronga Avenue in the Sydney area?
+454,6300.0,E,4200.0,210.0,630.0,2100.0,How long is Mullens Street in the Sydney area?
+455,100.0,B,200.0,600.0,400.0,100.0,How long is Christie Street in the Sydney area?
+456,100.0,B,900.0,270.0,2700.0,1800.0,How long is Reserve Road in the Sydney area?
+457,3600.0,D,120.0,2400.0,1200.0,360.0,How long is Greenoaks Avenue in the Sydney area?
+458,390.0,D,1170.0,11700.0,3900.0,7800.0,How long is Artarmon Road in the Sydney area?
+459,100.0,E,300.0,200.0,100.0,100.0,How long is Tindale Road in the Sydney area?
+460,4200.0,D,420.0,2800.0,1400.0,140.0,How long is Carlton Crescent in the Sydney area?
+461,1200.0,A,2400.0,360.0,120.0,3600.0,How long is Tennyson Road in the Sydney area?
+462,600.0,B,2000.0,200.0,6000.0,4000.0,How long is Osgathorpe Road in the Sydney area?
+463,900.0,A,1800.0,270.0,100.0,2700.0,How long is Princes Street in the Sydney area?
+464,2200.0,B,1100.0,330.0,110.0,3300.0,How long is Cressy Road in the Sydney area?
+465,250.0,C,750.0,2500.0,7500.0,5000.0,How long is Glenmore Road in the Sydney area?
+466,100.0,C,100.0,200.0,400.0,600.0,How long is Monash Road in the Sydney area?
+467,4800.0,C,160.0,1600.0,480.0,3200.0,How long is Mitchell Road in the Sydney area?
+468,200.0,A,100.0,600.0,100.0,400.0,How long is Copeland Street in the Sydney area?
+469,100.0,D,1200.0,1800.0,600.0,180.0,How long is Grosvenor Street in the Sydney area?
+470,600.0,C,100.0,300.0,100.0,900.0,How long is York Street in the Sydney area?
+471,100.0,E,100.0,200.0,300.0,100.0,How long is Tresidder Avenue in the Sydney area?
+472,100.0,D,100.0,600.0,200.0,400.0,How long is Northumberland Street in the Sydney area?
+473,150.0,E,450.0,3000.0,4500.0,1500.0,How long is Hargrave Street in the Sydney area?
+474,1600.0,A,480.0,160.0,4800.0,3200.0,How long is Lenthall Street in the Sydney area?
+475,450.0,C,4500.0,1500.0,3000.0,150.0,How long is Tunstall Avenue in the Sydney area?
+476,240.0,B,800.0,2400.0,1600.0,100.0,How long is Eastern Avenue in the Sydney area?
+477,100.0,D,1400.0,210.0,700.0,2100.0,How long is Toothill Street in the Sydney area?
+478,360.0,E,120.0,3600.0,2400.0,1200.0,How long is Wycombe Road in the Sydney area?
+479,100.0,E,300.0,100.0,200.0,100.0,How long is Harriette Street in the Sydney area?
+480,100.0,C,800.0,400.0,120.0,1200.0,How long is Kurraba Road in the Sydney area?
+481,1000.0,C,1500.0,500.0,100.0,150.0,How long is Strathallen Avenue in the Sydney area?
+482,100.0,B,700.0,2100.0,1400.0,210.0,How long is Canal Road in the Sydney area?
+483,240.0,E,1600.0,100.0,2400.0,800.0,How long is Fountain Street in the Sydney area?
+484,2200.0,D,330.0,110.0,1100.0,3300.0,How long is O'Brien Street in the Sydney area?
+485,660.0,B,2200.0,220.0,6600.0,4400.0,How long is Charles Street in the Sydney area?
+486,1500.0,A,450.0,4500.0,3000.0,150.0,How long is Weldon Street in the Sydney area?
+487,1700.0,A,5100.0,3400.0,170.0,510.0,How long is Brighton Street in the Sydney area?
+488,2000.0,A,6000.0,600.0,4000.0,200.0,How long is Spofforth Street in the Sydney area?
+489,300.0,C,100.0,1000.0,3000.0,2000.0,How long is Brighton Avenue in the Sydney area?
+490,360.0,E,3600.0,2400.0,120.0,1200.0,How long is Trevenar Street in the Sydney area?
+491,100.0,E,200.0,300.0,100.0,100.0,How long is Hartill-Law Avenue in the Sydney area?
+492,2900.0,A,290.0,8700.0,5800.0,870.0,How long is First Avenue in the Sydney area?
+493,170.0,C,5100.0,1700.0,510.0,3400.0,How long is Ingham Avenue in the Sydney area?
+494,440.0,B,4400.0,1320.0,8800.0,13200.0,How long is Hampden Road in the Sydney area?
+495,2100.0,B,700.0,210.0,100.0,1400.0,How long is Brent Street in the Sydney area?
+496,11100.0,E,7400.0,1110.0,370.0,3700.0,How long is Henley Marine Drive in the Sydney area?
+497,1800.0,C,100.0,600.0,1200.0,180.0,How long is Perry Street in the Sydney area?
+498,100.0,E,100.0,400.0,600.0,200.0,How long is Mary Street in the Sydney area?
+499,270.0,B,900.0,2700.0,100.0,1800.0,How long is Ethel Street in the Sydney area?
+500,3400.0,B,1700.0,170.0,510.0,5100.0,How long is Croydon Road in the Sydney area?
+501,700.0,A,100.0,1400.0,2100.0,210.0,How long is Fore Street in the Sydney area?
+502,2400.0,D,100.0,240.0,800.0,1600.0,How long is Liberty Street in the Sydney area?
+503,3500.0,A,10500.0,7000.0,350.0,1050.0,How long is Prospect Road in the Sydney area?
+504,400.0,D,100.0,100.0,200.0,600.0,How long is Canberra Street in the Sydney area?
+505,300.0,B,1000.0,100.0,3000.0,2000.0,How long is Pitt Street in the Sydney area?
+506,0.0,E,100.0,0.0,100.0,0.0,How long is George Street in the Sydney area?
+507,400.0,D,600.0,100.0,200.0,100.0,How long is Lee Street in the Sydney area?
+508,5400.0,B,1800.0,540.0,180.0,3600.0,How long is Avenue Road in the Sydney area?
+509,300.0,E,100.0,2000.0,3000.0,1000.0,How long is Yarranabbe Road in the Sydney area?
+510,100.0,C,2000.0,1000.0,3000.0,300.0,How long is Rangers Avenue in the Sydney area?
+511,270.0,E,5400.0,8100.0,810.0,2700.0,How long is Kensington Road in the Sydney area?
+512,750.0,C,250.0,2500.0,5000.0,7500.0,How long is Hopetoun Avenue in the Sydney area?
+513,3300.0,B,1100.0,110.0,330.0,2200.0,How long is Serpentine Parade in the Sydney area?
+514,1200.0,C,100.0,600.0,1800.0,180.0,How long is Broadway in the Sydney area?
+515,5400.0,D,8100.0,270.0,2700.0,810.0,How long is Addison Road in the Sydney area?
+516,0.0,E,100.0,100.0,0.0,0.0,How long is Bridge Street in the Sydney area?
+517,130.0,D,3900.0,2600.0,1300.0,390.0,How long is Wentworth Park Road in the Sydney area?
+518,4200.0,E,420.0,140.0,2800.0,1400.0,How long is Alfred Street in the Sydney area?
+519,120.0,D,360.0,2400.0,1200.0,3600.0,How long is Jarrett Street in the Sydney area?
+520,100.0,E,2100.0,210.0,1400.0,700.0,How long is Bibby Street in the Sydney area?
+521,0.0,E,0.0,100.0,100.0,0.0,How long is Belmore Road in the Sydney area?
+522,2200.0,B,1100.0,110.0,330.0,3300.0,How long is Murriverie Road in the Sydney area?
+523,120.0,D,1200.0,800.0,400.0,100.0,How long is Rawson Avenue in the Sydney area?
+524,400.0,C,100.0,200.0,100.0,600.0,How long is Burlington Avenue in the Sydney area?
+525,160.0,E,480.0,4800.0,3200.0,1600.0,How long is Balfour Road in the Sydney area?
+526,5000.0,E,750.0,7500.0,250.0,2500.0,How long is Richardsons Crescent in the Sydney area?
+527,780.0,C,5200.0,2600.0,260.0,7800.0,How long is Hardy Street in the Sydney area?
+528,510.0,E,5100.0,3400.0,170.0,1700.0,How long is Permanent Avenue in the Sydney area?
+529,130.0,B,1300.0,390.0,2600.0,3900.0,How long is Enmore Road in the Sydney area?
+530,100.0,E,200.0,100.0,300.0,100.0,How long is Potter Street in the Sydney area?
+531,600.0,B,200.0,400.0,100.0,100.0,How long is Denham Street in the Sydney area?
+532,100.0,E,0.0,0.0,100.0,0.0,How long is Illawong Avenue in the Sydney area?
+533,100.0,D,900.0,100.0,300.0,600.0,How long is Gurner Street in the Sydney area?
+534,100.0,D,600.0,900.0,300.0,100.0,How long is Formosa Street in the Sydney area?
+535,100.0,E,900.0,100.0,600.0,300.0,How long is Brand Street in the Sydney area?
+536,0.0,E,0.0,100.0,100.0,0.0,How long is Cuthill Street in the Sydney area?
+537,300.0,E,200.0,100.0,100.0,100.0,How long is Hollywood Avenue in the Sydney area?
+538,480.0,E,4800.0,3200.0,160.0,1600.0,How long is Herbert Street in the Sydney area?
+539,300.0,D,100.0,100.0,100.0,200.0,How long is Fitzroy Street in the Sydney area?
+540,2200.0,D,110.0,3300.0,1100.0,330.0,How long is Bennett Street in the Sydney area?
+541,12900.0,E,8600.0,430.0,1290.0,4300.0,How long is Manning Road in the Sydney area?
+542,420.0,D,4200.0,2800.0,1400.0,140.0,How long is Wolseley Road in the Sydney area?
+543,7200.0,E,720.0,240.0,4800.0,2400.0,How long is Village High Road in the Sydney area?
+544,2400.0,C,240.0,800.0,1600.0,100.0,How long is Hall Street in the Sydney area?
+545,1200.0,B,600.0,1800.0,100.0,180.0,How long is Greens Road in the Sydney area?
+546,1000.0,A,100.0,300.0,2000.0,3000.0,How long is Boronia Street in the Sydney area?
+547,1200.0,A,360.0,120.0,3600.0,2400.0,How long is Fern Street in the Sydney area?
+548,100.0,C,600.0,300.0,100.0,900.0,How long is Robertson Place in the Sydney area?
+549,1200.0,D,100.0,120.0,400.0,800.0,How long is Wilga Street in the Sydney area?
+550,200.0,A,100.0,100.0,600.0,400.0,How long is Market Street in the Sydney area?
+551,120.0,C,360.0,1200.0,2400.0,3600.0,How long is Garfield Street in the Sydney area?
+552,100.0,B,600.0,180.0,1200.0,1800.0,How long is Kent Road in the Sydney area?
+553,480.0,E,4800.0,160.0,3200.0,1600.0,How long is Towns Road in the Sydney area?
+554,2700.0,D,1800.0,270.0,900.0,100.0,How long is St Johns Road in the Sydney area?
+555,5800.0,A,1740.0,580.0,11600.0,17400.0,How long is Vaucluse Road in the Sydney area?
+556,1400.0,D,2100.0,100.0,700.0,210.0,How long is Bayview Avenue in the Sydney area?
+557,100.0,D,2100.0,210.0,700.0,1400.0,How long is Alpha Road in the Sydney area?
+558,3300.0,D,330.0,110.0,1100.0,2200.0,How long is Flat Rock Drive in the Sydney area?
+559,1500.0,B,500.0,1000.0,100.0,150.0,How long is Wairoa Street in the Sydney area?
+560,100.0,D,100.0,600.0,300.0,900.0,How long is Wonga Street in the Sydney area?
+561,2700.0,D,100.0,270.0,900.0,1800.0,How long is Gannon Street in the Sydney area?
+562,2200.0,C,330.0,1100.0,110.0,3300.0,How long is Flood Street in the Sydney area?
+563,4200.0,E,210.0,630.0,6300.0,2100.0,How long is Penrose Street in the Sydney area?
+564,1000.0,C,100.0,500.0,1500.0,150.0,How long is Canrobert Street in the Sydney area?
+565,200.0,A,400.0,100.0,600.0,100.0,How long is Brewer Street in the Sydney area?
+566,400.0,E,100.0,100.0,600.0,200.0,How long is The Strand in the Sydney area?
+567,100.0,B,200.0,600.0,100.0,400.0,How long is Sloane Street in the Sydney area?
+568,2800.0,D,140.0,420.0,1400.0,4200.0,How long is Woolcott Street in the Sydney area?
+569,100.0,E,200.0,300.0,100.0,100.0,How long is Northwood Road in the Sydney area?
+570,2000.0,E,300.0,100.0,3000.0,1000.0,How long is Erskineville Road in the Sydney area?
+571,100.0,E,0.0,0.0,100.0,0.0,How long is Riley Street in the Sydney area?
+572,400.0,B,200.0,600.0,100.0,100.0,How long is General Bridges Crescent in the Sydney area?
+573,1200.0,B,600.0,1800.0,100.0,180.0,How long is Banks Avenue in the Sydney area?
+574,0.0,D,100.0,0.0,0.0,100.0,How long is Brook Street in the Sydney area?
+575,1800.0,E,100.0,180.0,1200.0,600.0,How long is Ian Parade in the Sydney area?
+576,100.0,E,0.0,100.0,0.0,0.0,How long is Lang Street in the Sydney area?
+577,200.0,A,100.0,600.0,400.0,100.0,How long is Pyrmont Street in the Sydney area?
+578,100.0,E,100.0,0.0,0.0,0.0,How long is Fifth Street in the Sydney area?
+579,100.0,E,0.0,0.0,100.0,0.0,How long is Armstrong Street in the Sydney area?
+580,1200.0,A,120.0,3600.0,2400.0,360.0,How long is Styles Street in the Sydney area?
+581,400.0,A,1200.0,120.0,800.0,100.0,How long is Bayswater Street in the Sydney area?
+582,100.0,B,600.0,1200.0,180.0,1800.0,How long is Marlborough Street in the Sydney area?
+583,1800.0,C,180.0,600.0,100.0,1200.0,How long is Redfern Street in the Sydney area?
+584,100.0,C,100.0,200.0,400.0,600.0,How long is Beauchamp Street in the Sydney area?
+585,0.0,E,100.0,0.0,100.0,0.0,How long is Errol Flynn Boulevard in the Sydney area?
+586,150.0,E,100.0,1000.0,1500.0,500.0,How long is Palmer Street in the Sydney area?
+587,100.0,C,1800.0,600.0,180.0,1200.0,How long is Pidding Road in the Sydney area?
+588,1800.0,C,1200.0,600.0,100.0,180.0,How long is Swanson Street in the Sydney area?
+589,100.0,D,0.0,0.0,0.0,100.0,How long is Boomerang Place in the Sydney area?
+590,100.0,B,300.0,600.0,900.0,100.0,How long is Donnellan Circuit in the Sydney area?
+591,1500.0,C,100.0,500.0,1000.0,150.0,How long is Clark Road in the Sydney area?
+592,0.0,E,100.0,100.0,0.0,0.0,How long is Oatley Road in the Sydney area?
+593,0.0,D,100.0,0.0,0.0,100.0,How long is Underwood Street in the Sydney area?
+594,900.0,D,600.0,100.0,300.0,100.0,How long is Buckley Street in the Sydney area?
+595,0.0,D,0.0,100.0,0.0,100.0,How long is Cathedral Street in the Sydney area?
+596,100.0,E,0.0,0.0,100.0,0.0,How long is Shadforth Street in the Sydney area?
+597,100.0,D,1800.0,1200.0,600.0,180.0,How long is Beauty Point Road in the Sydney area?
+598,400.0,C,100.0,200.0,100.0,600.0,How long is Meriton Street in the Sydney area?
+599,0.0,D,100.0,0.0,0.0,100.0,How long is John Street in the Sydney area?
+600,150.0,E,1000.0,100.0,1500.0,500.0,How long is The Parade in the Sydney area?
+601,100.0,E,2000.0,3000.0,300.0,1000.0,How long is Byrne Avenue in the Sydney area?
+602,300.0,E,100.0,100.0,200.0,100.0,How long is Karool Avenue in the Sydney area?
+603,100.0,E,0.0,0.0,100.0,0.0,How long is Tantallon Road in the Sydney area?
+604,120.0,C,1200.0,400.0,800.0,100.0,How long is Bannerman Street in the Sydney area?
+605,180.0,E,1800.0,1200.0,100.0,600.0,How long is Pearl Bay Avenue in the Sydney area?
+606,200.0,A,100.0,100.0,600.0,400.0,How long is M2 Hills Motorway in the Sydney area?
+607,800.0,C,1200.0,400.0,120.0,100.0,How long is Manly Road in the Sydney area?
+608,120.0,E,100.0,1200.0,800.0,400.0,How long is Motorway Tunnel in the Sydney area?

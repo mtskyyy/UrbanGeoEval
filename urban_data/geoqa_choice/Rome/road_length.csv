@@ -1,0 +1,886 @@
+id,question,answer,A,B,C,D,E
+0,How long is Lungotevere degli Altoviti in the Rome area?,C,600.0,100.0,300.0,900.0,100.0
+1,How long is Piazza di Ponte Umberto Primo in the Rome area?,B,800.0,400.0,100.0,1200.0,120.0
+2,How long is Via Vittor Pisani in the Rome area?,E,0.0,100.0,0.0,100.0,0.0
+3,How long is Via Angelo Emo in the Rome area?,B,450.0,1500.0,3000.0,4500.0,150.0
+4,How long is Lungotevere degli Anguillara in the Rome area?,E,300.0,200.0,100.0,100.0,100.0
+5,How long is Lungotevere Ripa in the Rome area?,A,600.0,180.0,100.0,1200.0,1800.0
+6,How long is Ponte Palatino in the Rome area?,D,120.0,800.0,100.0,400.0,1200.0
+7,How long is Lungotevere Aventino in the Rome area?,D,1200.0,100.0,120.0,400.0,800.0
+8,How long is Via di Santa Maria in Cosmedin in the Rome area?,E,300.0,200.0,100.0,100.0,100.0
+9,How long is Circonvallazione Tiburtina in the Rome area?,B,9300.0,3100.0,930.0,310.0,6200.0
+10,How long is Piazza di Porta Maggiore in the Rome area?,D,1400.0,210.0,100.0,700.0,2100.0
+11,How long is Via di Porta Maggiore in the Rome area?,A,1300.0,2600.0,390.0,130.0,3900.0
+12,How long is Circonvallazione Ostiense in the Rome area?,D,150.0,450.0,3000.0,1500.0,4500.0
+13,How long is Lungotevere Michelangelo in the Rome area?,C,400.0,100.0,200.0,100.0,600.0
+14,How long is Via dei Gracchi in the Rome area?,C,0.0,0.0,0.0,100.0,100.0
+15,How long is Via Ruggero di Lauria in the Rome area?,E,200.0,100.0,300.0,100.0,100.0
+16,How long is Via Francesco Caracciolo in the Rome area?,D,300.0,100.0,100.0,100.0,200.0
+17,How long is Via Cristoforo Colombo in the Rome area?,E,1460.0,29200.0,43800.0,4380.0,14600.0
+18,How long is Lungotevere De' Cenci in the Rome area?,C,0.0,0.0,0.0,100.0,100.0
+19,How long is Lungotevere dei Vallati in the Rome area?,B,100.0,500.0,1500.0,1000.0,150.0
+20,How long is Ponte Garibaldi in the Rome area?,C,100.0,400.0,200.0,100.0,600.0
+21,How long is Piazza del Porto di Ripetta in the Rome area?,C,0.0,0.0,0.0,100.0,100.0
+22,How long is Via Tomacelli in the Rome area?,D,100.0,900.0,100.0,300.0,600.0
+23,How long is Lungotevere in Augusta in the Rome area?,D,600.0,100.0,100.0,300.0,900.0
+24,How long is Passeggiata di Ripetta in the Rome area?,A,200.0,100.0,100.0,600.0,400.0
+25,How long is Via delle Capannelle in the Rome area?,C,240.0,4800.0,2400.0,7200.0,720.0
+26,How long is Piazzale Clodio in the Rome area?,C,100.0,180.0,600.0,1200.0,1800.0
+27,How long is Circonvallazione Clodia in the Rome area?,E,1500.0,1000.0,100.0,150.0,500.0
+28,How long is Via Carlo Alberto Dalla Chiesa in the Rome area?,D,100.0,0.0,0.0,0.0,100.0
+29,How long is Via Aurelia in the Rome area?,C,15600.0,520.0,5200.0,10400.0,1560.0
+30,How long is Via Ostiense in the Rome area?,C,1070.0,3210.0,10700.0,32100.0,21400.0
+31,How long is Via Giuseppe Antonio Andriulli in the Rome area?,D,100.0,100.0,400.0,200.0,600.0
+32,How long is Viale della Serenissima in the Rome area?,D,2100.0,210.0,1400.0,700.0,100.0
+33,How long is Strada dei Parchi in the Rome area?,D,4200.0,6300.0,630.0,2100.0,210.0
+34,How long is Largo Preneste in the Rome area?,C,1200.0,120.0,400.0,100.0,800.0
+35,How long is Via Prenestina in the Rome area?,C,14600.0,730.0,7300.0,2190.0,21900.0
+36,How long is Viale Castrense in the Rome area?,E,2100.0,1400.0,100.0,210.0,700.0
+37,How long is Piazza Pia in the Rome area?,C,400.0,600.0,200.0,100.0,100.0
+38,How long is Sottopasso Principe Amedeo Savoia Aosta in the Rome area?,A,200.0,100.0,600.0,100.0,400.0
+39,How long is Sottovia Lungotevere in Sassia in the Rome area?,E,0.0,0.0,100.0,100.0,0.0
+40,How long is Piazzale Appio in the Rome area?,A,200.0,100.0,400.0,100.0,600.0
+41,How long is Piazza di Porta San Giovanni in the Rome area?,E,100.0,200.0,300.0,100.0,100.0
+42,How long is Via dell'Amba Aradam in the Rome area?,B,100.0,500.0,1000.0,150.0,1500.0
+43,How long is Largo dell'Amba Aradam in the Rome area?,D,100.0,0.0,0.0,0.0,100.0
+44,How long is Via Cavour in the Rome area?,D,100.0,2100.0,210.0,700.0,1400.0
+45,How long is Via degli Annibaldi in the Rome area?,B,1200.0,600.0,1800.0,180.0,100.0
+46,How long is Via Cernaia in the Rome area?,E,100.0,0.0,0.0,100.0,0.0
+47,How long is Piazza delle Finanze in the Rome area?,B,600.0,300.0,100.0,100.0,900.0
+48,How long is Via Volturno in the Rome area?,B,400.0,200.0,600.0,100.0,100.0
+49,How long is Viale dello Scalo San Lorenzo in the Rome area?,E,510.0,3400.0,5100.0,170.0,1700.0
+50,How long is Largo Settimio Passamonti in the Rome area?,E,100.0,600.0,100.0,400.0,200.0
+51,How long is Via Casilina in the Rome area?,A,8500.0,2550.0,850.0,17000.0,25500.0
+52,How long is Largo delle Vittime del Terrorismo in the Rome area?,D,300.0,100.0,100.0,100.0,200.0
+53,How long is Piazza di Porta Capena in the Rome area?,D,100.0,1200.0,120.0,400.0,800.0
+54,How long is Via di Vigna Murata in the Rome area?,C,1890.0,18900.0,6300.0,630.0,12600.0
+55,How long is Via Conca d'Oro in the Rome area?,C,10500.0,1050.0,3500.0,7000.0,350.0
+56,How long is Via Salaria in the Rome area?,B,13400.0,6700.0,20100.0,2010.0,670.0
+57,How long is Via dei Prati Fiscali in the Rome area?,A,3200.0,960.0,320.0,6400.0,9600.0
+58,How long is Viale Jonio in the Rome area?,D,5200.0,260.0,7800.0,2600.0,780.0
+59,How long is Via Martana in the Rome area?,D,100.0,0.0,0.0,0.0,100.0
+60,How long is Viale Tirreno in the Rome area?,B,420.0,1400.0,2800.0,4200.0,140.0
+61,How long is Largo di Porta Cavalleggeri in the Rome area?,B,100.0,200.0,600.0,400.0,100.0
+62,How long is Piazza della Rovere in the Rome area?,B,900.0,300.0,100.0,600.0,100.0
+63,How long is Lungotevere Arnaldo da Brescia in the Rome area?,B,2100.0,700.0,210.0,100.0,1400.0
+64,How long is Via Jacopa de' Settesoli in the Rome area?,E,100.0,0.0,100.0,0.0,0.0
+65,How long is Via Carlo Tavolacci in the Rome area?,D,0.0,100.0,0.0,0.0,100.0
+66,How long is Piazza di Porta San Paolo in the Rome area?,D,0.0,100.0,0.0,0.0,100.0
+67,How long is Via Marmorata in the Rome area?,C,1800.0,270.0,900.0,2700.0,100.0
+68,How long is Largo Federico Fellini in the Rome area?,D,200.0,100.0,100.0,100.0,300.0
+69,How long is Corso d'Italia in the Rome area?,C,15000.0,10000.0,5000.0,500.0,1500.0
+70,How long is Piazza Barberini in the Rome area?,E,300.0,100.0,100.0,200.0,100.0
+71,How long is Via Barberini in the Rome area?,C,180.0,1200.0,600.0,100.0,1800.0
+72,How long is Via della Stazione Ostiense in the Rome area?,D,900.0,100.0,100.0,300.0,600.0
+73,How long is Viale di Tor di Quinto in the Rome area?,E,450.0,13500.0,9000.0,1350.0,4500.0
+74,How long is Via del Foro Italico in the Rome area?,D,420.0,8400.0,12600.0,4200.0,1260.0
+75,How long is Circonvallazione Salaria in the Rome area?,A,2100.0,4200.0,630.0,6300.0,210.0
+76,How long is Via Quirino Majorana in the Rome area?,C,4500.0,3000.0,1500.0,450.0,150.0
+77,How long is Viale Egidio Galbani in the Rome area?,D,4800.0,3200.0,160.0,1600.0,480.0
+78,How long is Viale Kant in the Rome area?,E,2600.0,390.0,130.0,3900.0,1300.0
+79,How long is Via Ciciliano in the Rome area?,D,100.0,100.0,400.0,200.0,600.0
+80,How long is Ponte Mammolo in the Rome area?,E,100.0,100.0,0.0,0.0,0.0
+81,How long is Via Tiburtina in the Rome area?,D,34500.0,23000.0,1150.0,11500.0,3450.0
+82,How long is Viale della Piramide Cestia in the Rome area?,B,100.0,400.0,800.0,120.0,1200.0
+83,How long is Piazzale Ostiense in the Rome area?,C,100.0,800.0,400.0,120.0,1200.0
+84,How long is Viale Marco Polo in the Rome area?,D,200.0,6000.0,4000.0,2000.0,600.0
+85,How long is Via Michelangelo Tilli in the Rome area?,E,600.0,100.0,400.0,100.0,200.0
+86,How long is Via Adriano Fiori in the Rome area?,E,1200.0,120.0,800.0,100.0,400.0
+87,How long is Piazza Galeno in the Rome area?,D,0.0,0.0,100.0,0.0,100.0
+88,How long is Viale Regina Margherita in the Rome area?,C,900.0,300.0,3000.0,6000.0,9000.0
+89,How long is Piazzale del Verano in the Rome area?,C,180.0,1200.0,600.0,1800.0,100.0
+90,How long is Piazzale Giulio Douhet in the Rome area?,E,0.0,0.0,100.0,100.0,0.0
+91,How long is Viale dell'Aeronautica in the Rome area?,A,1200.0,3600.0,120.0,360.0,2400.0
+92,How long is Viale Guglielmo Marconi in the Rome area?,E,7500.0,5000.0,750.0,250.0,2500.0
+93,How long is Lungotevere in Sassia in the Rome area?,E,200.0,100.0,300.0,100.0,100.0
+94,How long is Via Temistocle Calzecchi Onesti in the Rome area?,B,600.0,300.0,100.0,100.0,900.0
+95,How long is Piazza Silvio d'Amico in the Rome area?,D,0.0,0.0,100.0,0.0,100.0
+96,How long is Via Silvio D'Amico in the Rome area?,E,510.0,170.0,5100.0,3400.0,1700.0
+97,How long is Via Tito in the Rome area?,E,400.0,100.0,600.0,100.0,200.0
+98,How long is Viale Giustiniano Imperatore in the Rome area?,A,1600.0,4800.0,480.0,160.0,3200.0
+99,How long is Largo Leonardo da Vinci in the Rome area?,D,100.0,0.0,0.0,0.0,100.0
+100,How long is Via Filippo Fiorentini in the Rome area?,B,1600.0,800.0,100.0,2400.0,240.0
+101,How long is Via dei Monti Tiburtini in the Rome area?,D,8100.0,270.0,810.0,2700.0,5400.0
+102,How long is Via Latina in the Rome area?,E,100.0,180.0,1200.0,1800.0,600.0
+103,How long is Via Cameria in the Rome area?,D,100.0,400.0,100.0,200.0,600.0
+104,How long is Via Laurentina in the Rome area?,E,460.0,9200.0,13800.0,1380.0,4600.0
+105,How long is Via dei Sommozzatori in the Rome area?,C,1200.0,180.0,600.0,1800.0,100.0
+106,How long is Viale Leonardo da Vinci in the Rome area?,E,1400.0,100.0,210.0,2100.0,700.0
+107,How long is Via delle Sette Chiese in the Rome area?,A,3600.0,360.0,10800.0,1080.0,7200.0
+108,How long is Piazza di Santa Maria Maggiore in the Rome area?,D,100.0,300.0,100.0,100.0,200.0
+109,How long is Via Gioberti in the Rome area?,E,600.0,100.0,100.0,400.0,200.0
+110,How long is Via dell'Esquilino in the Rome area?,D,100.0,100.0,200.0,100.0,300.0
+111,How long is Via Eleniana in the Rome area?,E,100.0,100.0,200.0,300.0,100.0
+112,How long is Piazza del Lavoro in the Rome area?,E,100.0,150.0,1500.0,1000.0,500.0
+113,How long is Viale dell'Atletica in the Rome area?,A,900.0,1800.0,100.0,270.0,2700.0
+114,How long is Viadotto della Magliana in the Rome area?,C,170.0,5100.0,1700.0,510.0,3400.0
+115,How long is Piazza Enrico Fermi in the Rome area?,B,2400.0,800.0,240.0,100.0,1600.0
+116,How long is Viale delle Terme di Caracalla in the Rome area?,C,350.0,10500.0,3500.0,7000.0,1050.0
+117,How long is Viale di Porta Ardeatina in the Rome area?,A,1700.0,170.0,510.0,5100.0,3400.0
+118,How long is Via Cilicia in the Rome area?,C,660.0,220.0,2200.0,4400.0,6600.0
+119,How long is Via di Santa Maria Maggiore in the Rome area?,D,0.0,100.0,0.0,0.0,100.0
+120,How long is Via Panisperna in the Rome area?,C,2400.0,1600.0,800.0,240.0,100.0
+121,How long is Largo Enea Bortolotti in the Rome area?,D,0.0,0.0,100.0,0.0,100.0
+122,How long is Via dei Caduti Senza Croce in the Rome area?,A,800.0,2400.0,1600.0,240.0,100.0
+123,How long is Piazzale Roberto Ardigò in the Rome area?,C,270.0,100.0,900.0,2700.0,1800.0
+124,How long is Piazza Amba Alagi in the Rome area?,A,200.0,100.0,100.0,600.0,400.0
+125,How long is Viale Somalia in the Rome area?,A,2400.0,7200.0,4800.0,240.0,720.0
+126,How long is Circonvallazione Nomentana in the Rome area?,C,330.0,6600.0,3300.0,9900.0,990.0
+127,How long is Via Prato della Signora in the Rome area?,C,0.0,0.0,0.0,100.0,100.0
+128,How long is Lungotevere Salvo D'Acquisto in the Rome area?,C,100.0,600.0,200.0,400.0,100.0
+129,How long is Lungotevere Grande Ammiraglio Thaon di Revel in the Rome area?,C,100.0,300.0,1000.0,3000.0,2000.0
+130,How long is Piazzale Cardinal Consalvi in the Rome area?,B,120.0,1200.0,3600.0,2400.0,360.0
+131,How long is Piazzale delle Belle Arti in the Rome area?,E,100.0,300.0,200.0,100.0,100.0
+132,How long is Viale Tiziano in the Rome area?,D,3200.0,160.0,4800.0,1600.0,480.0
+133,How long is Corso di Francia in the Rome area?,E,440.0,13200.0,8800.0,1320.0,4400.0
+134,How long is Viale Maresciallo Pilsudski in the Rome area?,E,330.0,3300.0,2200.0,110.0,1100.0
+135,How long is Via di Villa Severini in the Rome area?,E,300.0,100.0,100.0,200.0,100.0
+136,How long is Via Nicaragua in the Rome area?,C,0.0,0.0,0.0,100.0,100.0
+137,How long is Via Honduras in the Rome area?,E,300.0,100.0,100.0,200.0,100.0
+138,How long is Via Luisa di Savoia in the Rome area?,A,1400.0,140.0,4200.0,2800.0,420.0
+139,How long is Viale del Muro Torto in the Rome area?,A,1500.0,150.0,450.0,3000.0,4500.0
+140,How long is Via Portuense in the Rome area?,E,1150.0,23000.0,3450.0,34500.0,11500.0
+141,How long is Via Statilia in the Rome area?,A,600.0,100.0,1200.0,180.0,1800.0
+142,How long is Via Alberto Bergamini in the Rome area?,E,2400.0,100.0,240.0,1600.0,800.0
+143,How long is Circonvallazione Gianicolense in the Rome area?,D,410.0,1230.0,12300.0,4100.0,8200.0
+144,How long is Viale Aventino in the Rome area?,B,1200.0,400.0,100.0,800.0,120.0
+145,How long is Piazza Albania in the Rome area?,A,500.0,150.0,1500.0,100.0,1000.0
+146,How long is Viale Palmiro Togliatti in the Rome area?,B,21900.0,7300.0,730.0,14600.0,2190.0
+147,How long is Piazza di Santa Croce in Gerusalemme in the Rome area?,E,2100.0,100.0,210.0,1400.0,700.0
+148,How long is Via Giovanni Aldega in the Rome area?,E,100.0,0.0,100.0,0.0,0.0
+149,How long is Largo Nicola Spinelli in the Rome area?,E,1800.0,100.0,180.0,1200.0,600.0
+150,How long is Piazzale Labicano in the Rome area?,C,100.0,600.0,200.0,100.0,400.0
+151,How long is Lungotevere dei Mellini in the Rome area?,E,800.0,100.0,1200.0,120.0,400.0
+152,How long is Piazza della Libertà in the Rome area?,B,120.0,400.0,800.0,1200.0,100.0
+153,How long is Piazza dei Tribunali in the Rome area?,B,800.0,400.0,1200.0,120.0,100.0
+154,How long is Via Venti Settembre in the Rome area?,C,270.0,2700.0,900.0,100.0,1800.0
+155,How long is Largo di Santa Susanna in the Rome area?,D,300.0,100.0,100.0,100.0,200.0
+156,How long is Via Nicolò Piccolomini in the Rome area?,D,100.0,100.0,200.0,100.0,300.0
+157,How long is Largo Cardinal Domenico Ferrata in the Rome area?,D,0.0,0.0,100.0,0.0,100.0
+158,How long is Piazzale Eugenio Morelli in the Rome area?,B,900.0,300.0,100.0,100.0,600.0
+159,How long is Viale Isacco Newton in the Rome area?,D,750.0,7500.0,5000.0,2500.0,250.0
+160,How long is Viale dei Colli Portuensi in the Rome area?,B,8600.0,4300.0,1290.0,430.0,12900.0
+161,How long is Via Luigi Zambarelli in the Rome area?,E,600.0,100.0,900.0,100.0,300.0
+162,How long is Autostrada Roma - aeroporto di Fiumicino in the Rome area?,A,4300.0,12900.0,1290.0,8600.0,430.0
+163,How long is Via della Magliana in the Rome area?,D,1300.0,3900.0,39000.0,13000.0,26000.0
+164,How long is Viale del Pattinaggio in the Rome area?,A,900.0,2700.0,100.0,1800.0,270.0
+165,How long is Via Appia Antica in the Rome area?,B,500.0,5000.0,1500.0,10000.0,15000.0
+166,How long is Vicolo delle Sette Chiese in the Rome area?,D,2000.0,100.0,300.0,1000.0,3000.0
+167,How long is Via del Mandrione in the Rome area?,D,21200.0,31800.0,3180.0,10600.0,1060.0
+168,How long is Via Giovanni Giolitti in the Rome area?,A,2700.0,270.0,810.0,8100.0,5400.0
+169,How long is Via del Teatro di Marcello in the Rome area?,D,900.0,100.0,100.0,300.0,600.0
+170,How long is Piazza Venezia in the Rome area?,D,100.0,400.0,600.0,200.0,100.0
+171,How long is Via di San Marco in the Rome area?,E,100.0,100.0,200.0,300.0,100.0
+172,How long is Via Appia Nuova in the Rome area?,B,30200.0,15100.0,1510.0,4530.0,45300.0
+173,How long is Via Giulio Aristide Sartorio in the Rome area?,C,480.0,160.0,1600.0,4800.0,3200.0
+174,How long is Piazza Lorenzo Lotto in the Rome area?,A,1000.0,100.0,300.0,3000.0,2000.0
+175,How long is Viale di Tor Marancia in the Rome area?,D,2000.0,300.0,3000.0,1000.0,100.0
+176,How long is Piazza dell'Indipendenza in the Rome area?,D,100.0,900.0,600.0,300.0,100.0
+177,How long is Via Solferino in the Rome area?,D,100.0,300.0,100.0,100.0,200.0
+178,How long is Via Vittorio Emanuele Orlando in the Rome area?,E,100.0,300.0,100.0,200.0,100.0
+179,How long is Via Giuseppe Romita in the Rome area?,E,200.0,300.0,100.0,100.0,100.0
+180,How long is Via Salvatore Valitutti in the Rome area?,E,100.0,600.0,900.0,100.0,300.0
+181,How long is Via Giacinto Carini in the Rome area?,C,100.0,1000.0,500.0,1500.0,150.0
+182,How long is Via Luigi Mercantini in the Rome area?,E,100.0,0.0,100.0,0.0,0.0
+183,How long is Via Oreste Regnoli in the Rome area?,E,600.0,100.0,400.0,100.0,200.0
+184,How long is Via Domenico Tardini in the Rome area?,E,100.0,200.0,300.0,100.0,100.0
+185,How long is Via Bartolo da Sassoferrato in the Rome area?,E,1500.0,150.0,1000.0,100.0,500.0
+186,How long is Piazza di Ponte Lungo in the Rome area?,B,600.0,200.0,100.0,400.0,100.0
+187,How long is Piazza dell'Emporio in the Rome area?,D,100.0,600.0,100.0,300.0,900.0
+188,How long is Ponte Sublicio in the Rome area?,D,100.0,600.0,100.0,200.0,400.0
+189,How long is Via Saverio Mercadante in the Rome area?,E,100.0,900.0,100.0,600.0,300.0
+190,How long is Via Giacomo Carissimi in the Rome area?,C,100.0,100.0,100.0,300.0,200.0
+191,How long is Via Milano in the Rome area?,C,100.0,600.0,300.0,900.0,100.0
+192,How long is Largo del Tritone in the Rome area?,E,100.0,200.0,300.0,100.0,100.0
+193,How long is Via del Tritone in the Rome area?,C,100.0,400.0,200.0,100.0,600.0
+194,How long is Lungotevere Maresciallo Diaz in the Rome area?,B,100.0,600.0,180.0,1800.0,1200.0
+195,How long is Via di Portonaccio in the Rome area?,E,660.0,4400.0,6600.0,220.0,2200.0
+196,How long is Largo Domenico De Dominicis in the Rome area?,A,600.0,100.0,1200.0,1800.0,180.0
+197,How long is Via Giuseppe Mirri in the Rome area?,D,0.0,0.0,100.0,0.0,100.0
+198,How long is Via della Pineta Sacchetti in the Rome area?,B,12200.0,6100.0,18300.0,610.0,1830.0
+199,How long is Galleria Giovanni Ventitreesimo in the Rome area?,A,2900.0,290.0,870.0,5800.0,8700.0
+200,How long is Viale Antonino di San Giuliano in the Rome area?,D,100.0,1200.0,800.0,400.0,120.0
+201,How long is Piazzale Maresciallo Diaz in the Rome area?,D,100.0,300.0,100.0,100.0,200.0
+202,How long is Viale Paolo Boselli in the Rome area?,E,1500.0,100.0,1000.0,150.0,500.0
+203,How long is Via Filippo Parlatore in the Rome area?,C,600.0,100.0,300.0,100.0,900.0
+204,How long is Largo Girolamo Cocconi in the Rome area?,E,0.0,0.0,100.0,100.0,0.0
+205,How long is Circonvallazione Tuscolana in the Rome area?,D,100.0,1200.0,800.0,400.0,120.0
+206,How long is Via Garibaldi in the Rome area?,B,900.0,300.0,100.0,100.0,600.0
+207,How long is Passeggiata del Gianicolo in the Rome area?,D,350.0,1050.0,10500.0,3500.0,7000.0
+208,How long is Via Marcantonio Colonna in the Rome area?,C,150.0,1500.0,500.0,100.0,1000.0
+209,How long is Via Nomentana in the Rome area?,D,1620.0,4860.0,48600.0,16200.0,32400.0
+210,How long is Sottovia Ignazio Guidi in the Rome area?,B,720.0,2400.0,4800.0,7200.0,240.0
+211,How long is Via Vincenzo Cesati in the Rome area?,E,0.0,100.0,0.0,100.0,0.0
+212,How long is Via di Centocelle in the Rome area?,A,2800.0,280.0,840.0,5600.0,8400.0
+213,How long is Piazza di Villa Carpegna in the Rome area?,E,100.0,100.0,0.0,0.0,0.0
+214,How long is Via del Casale di San Pio Quinto in the Rome area?,B,6900.0,2300.0,690.0,4600.0,230.0
+215,How long is Piazza San Giovanni di Dio in the Rome area?,E,100.0,100.0,600.0,900.0,300.0
+216,How long is Via delle Tre Fontane in the Rome area?,D,210.0,4200.0,6300.0,2100.0,630.0
+217,How long is Via Flaminia Nuova in the Rome area?,E,150.0,100.0,1500.0,1000.0,500.0
+218,How long is Via Cassia Nuova in the Rome area?,B,1200.0,400.0,120.0,100.0,800.0
+219,How long is Viale dell'Industria in the Rome area?,E,1200.0,800.0,120.0,100.0,400.0
+220,How long is Viale del Tintoretto in the Rome area?,A,4000.0,400.0,1200.0,8000.0,12000.0
+221,How long is Via della Tecnica in the Rome area?,D,100.0,0.0,0.0,0.0,100.0
+222,How long is Viale della Civiltà del Lavoro in the Rome area?,A,500.0,150.0,1500.0,100.0,1000.0
+223,How long is Piazza John Kennedy in the Rome area?,B,100.0,200.0,400.0,100.0,600.0
+224,How long is Galleria Principe Amedeo Savoia - Aosta in the Rome area?,B,210.0,700.0,2100.0,100.0,1400.0
+225,How long is Via Gregorio Settimo in the Rome area?,D,7200.0,240.0,4800.0,2400.0,720.0
+226,How long is Via Sergio Primo in the Rome area?,B,100.0,300.0,100.0,600.0,900.0
+227,How long is Via delle Valli in the Rome area?,B,210.0,700.0,2100.0,1400.0,100.0
+228,How long is Viale dei Quattro Venti in the Rome area?,D,250.0,750.0,7500.0,2500.0,5000.0
+229,How long is Via Fratelli Bonnet in the Rome area?,A,200.0,100.0,100.0,600.0,400.0
+230,How long is Piazzale di Ponte Milvio in the Rome area?,D,100.0,100.0,300.0,100.0,200.0
+231,How long is Via Virginia Agnelli in the Rome area?,A,600.0,1200.0,100.0,180.0,1800.0
+232,How long is Via Trionfale in the Rome area?,D,980.0,2940.0,29400.0,9800.0,19600.0
+233,How long is Via della Fonte dell'Acqua Acetosa in the Rome area?,D,600.0,100.0,400.0,200.0,100.0
+234,How long is Piazzale dell'Acqua Acetosa in the Rome area?,E,0.0,100.0,100.0,0.0,0.0
+235,How long is Via Enrico Elia in the Rome area?,B,100.0,300.0,100.0,600.0,900.0
+236,How long is Via Antonio Sant'Elia in the Rome area?,C,100.0,100.0,100.0,200.0,300.0
+237,How long is Via Luigi Roncinotto in the Rome area?,E,100.0,200.0,100.0,300.0,100.0
+238,How long is Via Flaminia in the Rome area?,A,4000.0,12000.0,400.0,8000.0,1200.0
+239,How long is Viale delle Belle Arti in the Rome area?,A,300.0,100.0,100.0,900.0,600.0
+240,How long is Circonvallazione Aurelia in the Rome area?,D,100.0,100.0,300.0,100.0,200.0
+241,How long is Via Ignazio Pettinengo in the Rome area?,A,700.0,210.0,2100.0,1400.0,100.0
+242,How long is Via Giovanni Battista Morgagni in the Rome area?,A,800.0,2400.0,1600.0,240.0,100.0
+243,How long is Viale del Policlinico in the Rome area?,B,2400.0,800.0,240.0,1600.0,100.0
+244,How long is Piazzale Brasile in the Rome area?,E,100.0,100.0,0.0,0.0,0.0
+245,How long is Largo Maestri del Lavoro in the Rome area?,E,100.0,0.0,100.0,0.0,0.0
+246,How long is Viale dei Monfortani in the Rome area?,E,100.0,0.0,0.0,100.0,0.0
+247,How long is Via Tuscolana in the Rome area?,D,27300.0,18200.0,910.0,9100.0,2730.0
+248,How long is Largo Volumnia in the Rome area?,D,100.0,300.0,100.0,100.0,200.0
+249,How long is Piazza Fiume in the Rome area?,D,100.0,300.0,100.0,100.0,200.0
+250,How long is Viale Anicio Gallo in the Rome area?,A,1400.0,2800.0,420.0,4200.0,140.0
+251,How long is Piazzale Prenestino in the Rome area?,E,100.0,1800.0,270.0,2700.0,900.0
+252,How long is Via Castelguidone in the Rome area?,C,100.0,600.0,300.0,900.0,100.0
+253,How long is Piazza Camillo Finocchiaro Aprile in the Rome area?,D,200.0,100.0,100.0,100.0,300.0
+254,How long is Via Frascati in the Rome area?,E,100.0,300.0,100.0,200.0,100.0
+255,How long is Via della Batteria Nomentana in the Rome area?,A,300.0,900.0,100.0,100.0,600.0
+256,How long is Circonvallazione della Stazione Tiburtina in the Rome area?,E,7500.0,250.0,750.0,5000.0,2500.0
+257,How long is Largo Enzo Fioritto in the Rome area?,E,100.0,100.0,0.0,0.0,0.0
+258,How long is Viale Guido Baccelli in the Rome area?,B,6000.0,2000.0,600.0,4000.0,200.0
+259,How long is Via Leone Tredicesimo in the Rome area?,D,180.0,5400.0,540.0,1800.0,3600.0
+260,How long is Via Giuseppe Spina in the Rome area?,A,300.0,100.0,900.0,600.0,100.0
+261,How long is Via Anastasio Secondo in the Rome area?,C,220.0,6600.0,2200.0,4400.0,660.0
+262,How long is Via Pietro Ciriaci in the Rome area?,D,100.0,100.0,400.0,200.0,600.0
+263,How long is Via Odoardo Beccari in the Rome area?,A,200.0,600.0,100.0,400.0,100.0
+264,How long is Via Cesare Frugoni in the Rome area?,C,1000.0,150.0,500.0,100.0,1500.0
+265,How long is Viale di Val Fiorita in the Rome area?,E,100.0,1800.0,2700.0,270.0,900.0
+266,How long is Via Cicladi in the Rome area?,C,100.0,400.0,200.0,600.0,100.0
+267,How long is Piazza Pio Undicesimo in the Rome area?,C,3300.0,2200.0,1100.0,110.0,330.0
+268,How long is Via delle Fornaci in the Rome area?,E,6600.0,660.0,220.0,4400.0,2200.0
+269,How long is Via Alberto Bolognetti in the Rome area?,C,0.0,0.0,0.0,100.0,100.0
+270,How long is Via del Forte Braschi in the Rome area?,B,4500.0,1500.0,150.0,450.0,3000.0
+271,How long is Viale degli Ammiragli in the Rome area?,D,100.0,100.0,400.0,200.0,600.0
+272,How long is Via Maria Adelaide in the Rome area?,D,100.0,0.0,0.0,0.0,100.0
+273,How long is Largo Rodolfo Lanciani in the Rome area?,E,600.0,400.0,100.0,100.0,200.0
+274,How long is Via Rodolfo Lanciani in the Rome area?,D,100.0,0.0,0.0,0.0,100.0
+275,How long is Largo Alessandro Vessella in the Rome area?,E,0.0,100.0,100.0,0.0,0.0
+276,How long is Via Alessandro Vessella in the Rome area?,D,120.0,1200.0,800.0,400.0,100.0
+277,How long is Via Alfredo Catalani in the Rome area?,D,140.0,420.0,4200.0,1400.0,2800.0
+278,How long is Viale di Trastevere in the Rome area?,C,310.0,930.0,3100.0,6200.0,9300.0
+279,How long is Via Carlo Porta in the Rome area?,E,100.0,300.0,200.0,100.0,100.0
+280,How long is Largo di Torre Argentina in the Rome area?,D,100.0,100.0,400.0,200.0,600.0
+281,How long is Via del Casaletto in the Rome area?,C,16200.0,1620.0,5400.0,10800.0,540.0
+282,How long is Viale America in the Rome area?,B,1170.0,3900.0,11700.0,390.0,7800.0
+283,How long is Piazza della Radio in the Rome area?,D,400.0,600.0,100.0,200.0,100.0
+284,How long is Via Gaspare Gozzi in the Rome area?,C,1600.0,2400.0,800.0,240.0,100.0
+285,How long is Lungotevere di San Paolo in the Rome area?,B,120.0,1200.0,360.0,3600.0,2400.0
+286,How long is Via della Magliana Nuova in the Rome area?,A,600.0,100.0,1200.0,180.0,1800.0
+287,How long is Via Cesare Baronio in the Rome area?,A,1100.0,110.0,330.0,3300.0,2200.0
+288,How long is Piazzale del Caravaggio in the Rome area?,E,100.0,300.0,200.0,100.0,100.0
+289,How long is Via Attilio Ambrosini in the Rome area?,D,2000.0,3000.0,100.0,1000.0,300.0
+290,How long is Viale Beethoven in the Rome area?,D,1000.0,150.0,100.0,500.0,1500.0
+291,How long is Via Candia in the Rome area?,E,600.0,400.0,100.0,100.0,200.0
+292,How long is Via Mocenigo in the Rome area?,C,400.0,600.0,200.0,100.0,100.0
+293,How long is Via Santamaura in the Rome area?,D,100.0,0.0,0.0,0.0,100.0
+294,How long is Via Pieve di Cadore in the Rome area?,B,2600.0,1300.0,130.0,390.0,3900.0
+295,How long is Via del Forte Trionfale in the Rome area?,A,8000.0,16000.0,800.0,2400.0,24000.0
+296,How long is Via Prati Fiscali in the Rome area?,C,0.0,0.0,0.0,100.0,100.0
+297,How long is Via Pastrengo in the Rome area?,E,300.0,200.0,100.0,100.0,100.0
+298,How long is Via Accademia degli Agiati in the Rome area?,A,300.0,600.0,900.0,100.0,100.0
+299,How long is Via Giuseppe Zanardelli in the Rome area?,D,1200.0,800.0,100.0,400.0,120.0
+300,How long is Corso del Rinascimento in the Rome area?,E,900.0,100.0,600.0,100.0,300.0
+301,How long is Piazzale dei Partigiani in the Rome area?,C,100.0,600.0,300.0,100.0,900.0
+302,How long is Via Teano in the Rome area?,A,1700.0,170.0,510.0,5100.0,3400.0
+303,How long is Via Maddaloni in the Rome area?,C,1500.0,100.0,500.0,150.0,1000.0
+304,How long is Via Cipriano Facchinetti in the Rome area?,D,1400.0,100.0,210.0,700.0,2100.0
+305,How long is Via Spinoza in the Rome area?,D,0.0,0.0,100.0,0.0,100.0
+306,How long is Via Val Maira in the Rome area?,C,600.0,100.0,200.0,400.0,100.0
+307,How long is Via Vitellia in the Rome area?,A,3800.0,7600.0,1140.0,11400.0,380.0
+308,How long is Piazza di Porta Metronia in the Rome area?,C,0.0,0.0,0.0,100.0,100.0
+309,How long is Via Pasquale Baffi in the Rome area?,D,100.0,2400.0,240.0,800.0,1600.0
+310,How long is Via di Villa Bonelli in the Rome area?,C,120.0,800.0,400.0,1200.0,100.0
+311,How long is Via Fratelli Archibugi in the Rome area?,E,0.0,100.0,100.0,0.0,0.0
+312,How long is Viale Luca Gaurico in the Rome area?,E,100.0,300.0,100.0,200.0,100.0
+313,How long is Piazzale Metronio in the Rome area?,D,0.0,0.0,100.0,0.0,100.0
+314,How long is Via Giuseppe Veronese in the Rome area?,E,200.0,100.0,100.0,300.0,100.0
+315,How long is Ponte Giacomo Matteotti in the Rome area?,E,100.0,100.0,200.0,300.0,100.0
+316,How long is Via Ferdinando di Savoia in the Rome area?,E,0.0,100.0,0.0,100.0,0.0
+317,How long is Via degli Angeli in the Rome area?,C,4000.0,6000.0,2000.0,200.0,600.0
+318,How long is Via Giuseppe Caraci in the Rome area?,D,0.0,0.0,100.0,0.0,100.0
+319,How long is Via dei Monti di Pietralata in the Rome area?,D,8400.0,840.0,5600.0,2800.0,280.0
+320,How long is Piazza della Repubblica in the Rome area?,E,100.0,400.0,600.0,100.0,200.0
+321,How long is Via Nazionale in the Rome area?,B,1200.0,400.0,100.0,800.0,120.0
+322,How long is Via del Cappellaccio in the Rome area?,E,2400.0,360.0,120.0,3600.0,1200.0
+323,How long is Via Panama in the Rome area?,A,1300.0,130.0,2600.0,390.0,3900.0
+324,How long is Via Ardeatina in the Rome area?,D,3390.0,22600.0,1130.0,11300.0,33900.0
+325,How long is Piazza Adriana in the Rome area?,E,100.0,0.0,100.0,0.0,0.0
+326,How long is Circonvallazione Casilina in the Rome area?,A,1200.0,2400.0,3600.0,360.0,120.0
+327,How long is Via Lampedusa in the Rome area?,C,1000.0,1500.0,500.0,150.0,100.0
+328,How long is Piazza Caballini in the Rome area?,B,900.0,300.0,600.0,100.0,100.0
+329,How long is Via Albenga in the Rome area?,D,600.0,100.0,100.0,200.0,400.0
+330,How long is Via Baldo degli Ubaldi in the Rome area?,E,600.0,200.0,4000.0,6000.0,2000.0
+331,How long is Via Val di Cogne in the Rome area?,E,200.0,100.0,300.0,100.0,100.0
+332,How long is Piazza Conca d'Oro in the Rome area?,E,300.0,200.0,100.0,100.0,100.0
+333,How long is Via Camesena in the Rome area?,C,100.0,100.0,100.0,300.0,200.0
+334,How long is Piazza dei Quiriti in the Rome area?,E,200.0,100.0,300.0,100.0,100.0
+335,How long is Via Duilio in the Rome area?,E,300.0,100.0,200.0,100.0,100.0
+336,How long is Borgo Sant'Angelo in the Rome area?,E,100.0,0.0,100.0,0.0,0.0
+337,How long is Via Giovanni Barracco in the Rome area?,B,360.0,1200.0,3600.0,120.0,2400.0
+338,How long is Via Ulisse Aldrovandi in the Rome area?,E,9900.0,6600.0,330.0,990.0,3300.0
+339,How long is Via della Cecchignola in the Rome area?,E,100.0,600.0,100.0,900.0,300.0
+340,How long is Via Mario D'Aleo in the Rome area?,E,100.0,0.0,100.0,0.0,0.0
+341,How long is Piazza di Porta Portese in the Rome area?,D,100.0,300.0,100.0,100.0,200.0
+342,How long is Largo delle Terme di Caracalla in the Rome area?,D,100.0,0.0,0.0,0.0,100.0
+343,How long is Viale dello Stadio Olimpico in the Rome area?,A,2000.0,6000.0,600.0,200.0,4000.0
+344,How long is Via dell'Acquedotto del Peschiera in the Rome area?,E,100.0,100.0,0.0,0.0,0.0
+345,How long is Via Girolamo Induno in the Rome area?,E,0.0,100.0,100.0,0.0,0.0
+346,How long is Via Siria in the Rome area?,D,1000.0,150.0,1500.0,500.0,100.0
+347,How long is Via della Pisana in the Rome area?,E,12600.0,8400.0,1260.0,420.0,4200.0
+348,How long is Via Luigi Dasti in the Rome area?,C,150.0,4500.0,1500.0,3000.0,450.0
+349,How long is Via Poggio Verde in the Rome area?,B,1800.0,900.0,270.0,100.0,2700.0
+350,How long is Via del Fosso di Bravetta in the Rome area?,E,7500.0,250.0,5000.0,750.0,2500.0
+351,How long is Via del Fosso della Magliana in the Rome area?,C,750.0,5000.0,2500.0,7500.0,250.0
+352,How long is Via Ennio Bonifazi in the Rome area?,E,240.0,100.0,1600.0,2400.0,800.0
+353,How long is Via Cassia in the Rome area?,A,2300.0,6900.0,4600.0,230.0,690.0
+354,How long is Via Filomusi Guelfi in the Rome area?,C,800.0,100.0,400.0,1200.0,120.0
+355,How long is Via del Mare in the Rome area?,C,21600.0,14400.0,7200.0,2160.0,720.0
+356,How long is Via di Boccea in the Rome area?,C,120.0,360.0,1200.0,3600.0,2400.0
+357,How long is Via di Torrevecchia in the Rome area?,E,8400.0,280.0,5600.0,840.0,2800.0
+358,How long is Piazza Alfonso Capecelatro in the Rome area?,E,100.0,100.0,0.0,0.0,0.0
+359,How long is Via Cavriglia in the Rome area?,E,4500.0,3000.0,450.0,150.0,1500.0
+360,How long is Via del Casale di San Basilio in the Rome area?,E,5100.0,170.0,510.0,3400.0,1700.0
+361,How long is Via Aurelia Antica in the Rome area?,D,13600.0,20400.0,2040.0,6800.0,680.0
+362,How long is Via Mattia Battistini in the Rome area?,A,1800.0,5400.0,540.0,3600.0,180.0
+363,How long is Viale dell'Oceano Pacifico in the Rome area?,B,100.0,500.0,1500.0,150.0,1000.0
+364,How long is Via Rosa Guarnieri Carducci in the Rome area?,A,800.0,1600.0,100.0,240.0,2400.0
+365,How long is Via dei Platani in the Rome area?,D,390.0,3900.0,2600.0,1300.0,130.0
+366,How long is Viale dell'Umanesimo in the Rome area?,B,3000.0,1500.0,150.0,450.0,4500.0
+367,How long is Via Collatina Vecchia in the Rome area?,C,810.0,270.0,2700.0,8100.0,5400.0
+368,How long is Via di Casal Boccone in the Rome area?,E,100.0,1200.0,180.0,1800.0,600.0
+369,How long is Via delle Vigne Nuove in the Rome area?,D,270.0,100.0,2700.0,900.0,1800.0
+370,How long is Via della Bufalotta in the Rome area?,E,3000.0,2000.0,300.0,100.0,1000.0
+371,How long is Via di Casal dei Pazzi in the Rome area?,B,100.0,1000.0,300.0,2000.0,3000.0
+372,How long is Viale dell'Oceano Indiano in the Rome area?,A,900.0,100.0,1800.0,270.0,2700.0
+373,How long is Via di Casal Rotondo in the Rome area?,B,180.0,1800.0,3600.0,540.0,5400.0
+374,How long is Via Collatina in the Rome area?,C,6600.0,220.0,2200.0,660.0,4400.0
+375,How long is Via Catanzaro in the Rome area?,E,100.0,150.0,1500.0,1000.0,500.0
+376,How long is Via di Decima in the Rome area?,C,1600.0,2400.0,800.0,100.0,240.0
+377,How long is Circonvallazione Trionfale in the Rome area?,D,1800.0,270.0,100.0,900.0,2700.0
+378,How long is Piazzale degli Eroi in the Rome area?,E,0.0,0.0,100.0,100.0,0.0
+379,How long is Viale delle Medaglie d'Oro in the Rome area?,B,8400.0,2800.0,280.0,840.0,5600.0
+380,How long is Via Andrea Doria in the Rome area?,A,200.0,400.0,600.0,100.0,100.0
+381,How long is Via dello Statuto in the Rome area?,C,400.0,100.0,200.0,100.0,600.0
+382,How long is Largo Brancaccio in the Rome area?,C,110.0,2200.0,1100.0,330.0,3300.0
+383,How long is Via Merulana in the Rome area?,B,2000.0,1000.0,100.0,3000.0,300.0
+384,How long is Via di Santa Croce in Gerusalemme in the Rome area?,B,1200.0,400.0,120.0,100.0,800.0
+385,How long is Via Conte Verde in the Rome area?,C,100.0,600.0,200.0,400.0,100.0
+386,How long is Viale Manzoni in the Rome area?,C,1200.0,100.0,400.0,120.0,800.0
+387,How long is Via Arturo Graf in the Rome area?,E,2100.0,210.0,100.0,1400.0,700.0
+388,How long is Viale Ferdinando Baldelli in the Rome area?,B,100.0,500.0,150.0,1000.0,1500.0
+389,How long is Viale di San Paolo in the Rome area?,B,270.0,900.0,100.0,2700.0,1800.0
+390,How long is Via Tullio Levi Civita in the Rome area?,A,300.0,100.0,600.0,100.0,900.0
+391,How long is Via Tor de' Schiavi in the Rome area?,D,510.0,170.0,5100.0,1700.0,3400.0
+392,How long is Via Girolamo Benzoni in the Rome area?,A,1600.0,3200.0,480.0,160.0,4800.0
+393,How long is Via del Porto Fluviale in the Rome area?,D,0.0,100.0,0.0,0.0,100.0
+394,How long is Viale Liegi in the Rome area?,A,2000.0,600.0,6000.0,200.0,4000.0
+395,How long is Viale delle Mura Latine in the Rome area?,E,3900.0,2600.0,390.0,130.0,1300.0
+396,How long is Via Druso in the Rome area?,D,600.0,100.0,100.0,200.0,400.0
+397,How long is Via di Porta San Sebastiano in the Rome area?,D,210.0,1400.0,2100.0,700.0,100.0
+398,How long is Viale Libia in the Rome area?,E,1200.0,180.0,1800.0,100.0,600.0
+399,How long is Viale Etiopia in the Rome area?,A,800.0,1600.0,100.0,2400.0,240.0
+400,How long is Piazza Gondar in the Rome area?,C,100.0,900.0,300.0,100.0,600.0
+401,How long is Via Principe Eugenio in the Rome area?,B,330.0,1100.0,3300.0,110.0,2200.0
+402,How long is Via Silvestri in the Rome area?,E,5400.0,3600.0,180.0,540.0,1800.0
+403,How long is Via di Bravetta in the Rome area?,D,14400.0,2160.0,21600.0,7200.0,720.0
+404,How long is Via Antonio Pacinotti in the Rome area?,A,1600.0,480.0,3200.0,4800.0,160.0
+405,How long is Via del Gazometro in the Rome area?,B,100.0,300.0,100.0,600.0,900.0
+406,How long is Via delle Conce in the Rome area?,C,120.0,1200.0,400.0,100.0,800.0
+407,How long is Piazzale di Porta Pia in the Rome area?,E,200.0,100.0,300.0,100.0,100.0
+408,How long is Viale Regina Elena in the Rome area?,D,3800.0,570.0,190.0,1900.0,5700.0
+409,How long is Circonvallazione Cornelia in the Rome area?,C,1400.0,2100.0,700.0,100.0,210.0
+410,How long is Via Nairobi in the Rome area?,B,1200.0,600.0,180.0,1800.0,100.0
+411,How long is Piazzale dell'Umanesimo in the Rome area?,D,0.0,0.0,100.0,0.0,100.0
+412,How long is Via di Grotta Perfetta in the Rome area?,D,13600.0,2040.0,20400.0,6800.0,680.0
+413,How long is Viale Pico della Mirandola in the Rome area?,C,1400.0,2100.0,700.0,100.0,210.0
+414,How long is Via di Porta Furba in the Rome area?,B,2000.0,1000.0,3000.0,100.0,300.0
+415,How long is Via dell'Arco di Travertino in the Rome area?,C,140.0,4200.0,1400.0,2800.0,420.0
+416,How long is Piazza di Cinecittà in the Rome area?,A,200.0,400.0,100.0,600.0,100.0
+417,How long is Via Attilio Friggeri in the Rome area?,D,150.0,1000.0,1500.0,500.0,100.0
+418,How long is Largo Damiano Chiesa in the Rome area?,E,200.0,100.0,300.0,100.0,100.0
+419,How long is Via Ugo De Carolis in the Rome area?,C,180.0,540.0,1800.0,3600.0,5400.0
+420,How long is Via Chiana in the Rome area?,E,240.0,1600.0,2400.0,100.0,800.0
+421,How long is Via Tagliamento in the Rome area?,E,2000.0,300.0,100.0,3000.0,1000.0
+422,How long is Via Sebino in the Rome area?,E,600.0,900.0,100.0,100.0,300.0
+423,How long is Via Girolamo Cocconi in the Rome area?,B,100.0,200.0,100.0,600.0,400.0
+424,How long is Via Federico Ozanam in the Rome area?,C,100.0,2700.0,900.0,1800.0,270.0
+425,How long is Via di Val Tellina in the Rome area?,E,4200.0,630.0,210.0,6300.0,2100.0
+426,How long is Piazza della Marranella in the Rome area?,C,360.0,3600.0,1200.0,2400.0,120.0
+427,How long is Via di Tor Pignattara in the Rome area?,D,2400.0,120.0,360.0,1200.0,3600.0
+428,How long is Via Papiria in the Rome area?,D,5400.0,540.0,3600.0,1800.0,180.0
+429,How long is Viale Tito Labieno in the Rome area?,E,100.0,150.0,1500.0,1000.0,500.0
+430,How long is Via Orazio Pulvillo in the Rome area?,B,100.0,300.0,900.0,600.0,100.0
+431,How long is Via dei Castani in the Rome area?,D,7500.0,750.0,5000.0,2500.0,250.0
+432,How long is Piazza dei Castani in the Rome area?,E,600.0,100.0,400.0,100.0,200.0
+433,How long is Via dei Faggi in the Rome area?,E,3000.0,4500.0,150.0,450.0,1500.0
+434,How long is Via Nemorense in the Rome area?,B,150.0,500.0,100.0,1000.0,1500.0
+435,How long is Via Tripoli in the Rome area?,C,3900.0,2600.0,1300.0,390.0,130.0
+436,How long is Viale Eritrea in the Rome area?,E,210.0,100.0,2100.0,1400.0,700.0
+437,How long is Piazza Istria in the Rome area?,C,100.0,1800.0,900.0,270.0,2700.0
+438,How long is Piazzetta del Bel Respiro in the Rome area?,E,400.0,100.0,100.0,600.0,200.0
+439,How long is Via Ottavio Gasparri in the Rome area?,C,100.0,400.0,200.0,100.0,600.0
+440,How long is Via Bernardino Ramazzini in the Rome area?,D,170.0,510.0,5100.0,1700.0,3400.0
+441,How long is Via Federico di Donato in the Rome area?,B,1800.0,600.0,1200.0,100.0,180.0
+442,How long is Via Britannia in the Rome area?,C,100.0,100.0,100.0,300.0,200.0
+443,How long is Via Magnagrecia in the Rome area?,E,100.0,120.0,800.0,1200.0,400.0
+444,How long is Via Soana in the Rome area?,D,100.0,0.0,0.0,0.0,100.0
+445,How long is Via Gallia in the Rome area?,B,1800.0,600.0,1200.0,100.0,180.0
+446,How long is Viale Giuseppe Mazzini in the Rome area?,C,120.0,3600.0,1200.0,360.0,2400.0
+447,How long is Viale Giovanni Falcone e Paolo Borsellino in the Rome area?,D,3600.0,360.0,2400.0,1200.0,120.0
+448,How long is Viale dei Cavalieri di Vittorio Veneto in the Rome area?,D,2400.0,3600.0,360.0,1200.0,120.0
+449,How long is Viale Europa in the Rome area?,D,2700.0,100.0,1800.0,900.0,270.0
+450,How long is Piazza Irnerio in the Rome area?,C,0.0,0.0,0.0,100.0,100.0
+451,How long is Lungotevere di Pietra Papa in the Rome area?,B,3900.0,1300.0,390.0,130.0,2600.0
+452,How long is Lungotevere degli Inventori in the Rome area?,C,1200.0,100.0,400.0,120.0,800.0
+453,How long is Piazzale Enrico Dunant in the Rome area?,D,0.0,0.0,100.0,0.0,100.0
+454,How long is Piazza dell'Esquilino in the Rome area?,E,0.0,100.0,100.0,0.0,0.0
+455,How long is Via Liberiana in the Rome area?,D,600.0,100.0,400.0,200.0,100.0
+456,How long is Via Giovanni Volpato in the Rome area?,E,100.0,100.0,0.0,0.0,0.0
+457,How long is Via Galvani in the Rome area?,A,400.0,800.0,100.0,1200.0,120.0
+458,How long is Viale Manlio Gelsomini in the Rome area?,B,120.0,400.0,800.0,100.0,1200.0
+459,How long is Via del Castro Pretorio in the Rome area?,E,600.0,400.0,100.0,100.0,200.0
+460,How long is Viale dell'Università in the Rome area?,D,140.0,4200.0,2800.0,1400.0,420.0
+461,How long is Viale Castro Pretorio in the Rome area?,D,1000.0,150.0,1500.0,500.0,100.0
+462,How long is Viale della Venezia Giulia in the Rome area?,D,7500.0,250.0,5000.0,2500.0,750.0
+463,How long is Via Po in the Rome area?,C,3600.0,180.0,1800.0,540.0,5400.0
+464,How long is Via Giacinto Pullino in the Rome area?,D,1200.0,100.0,800.0,400.0,120.0
+465,How long is Largo Angelo Fochetti in the Rome area?,A,900.0,270.0,1800.0,2700.0,100.0
+466,How long is Via dei Durantini in the Rome area?,C,9300.0,310.0,3100.0,6200.0,930.0
+467,How long is Viale Ippocrate in the Rome area?,D,200.0,600.0,6000.0,2000.0,4000.0
+468,How long is Via Francesco Grimaldi in the Rome area?,C,100.0,1800.0,600.0,180.0,1200.0
+469,How long is Via di Pozzo Pantaleo in the Rome area?,E,120.0,1200.0,100.0,800.0,400.0
+470,How long is Via Oderisi da Gubbio in the Rome area?,B,100.0,600.0,1800.0,1200.0,180.0
+471,How long is Via Cerveteri in the Rome area?,A,500.0,100.0,1500.0,150.0,1000.0
+472,How long is Piazza Tarquinia in the Rome area?,E,100.0,100.0,0.0,0.0,0.0
+473,How long is Via Gabi in the Rome area?,E,0.0,100.0,0.0,100.0,0.0
+474,How long is Via Ugo Ojetti in the Rome area?,E,8100.0,270.0,5400.0,810.0,2700.0
+475,How long is Via Renato Fucini in the Rome area?,E,180.0,1800.0,100.0,1200.0,600.0
+476,How long is Largo Gaetano La Loggia in the Rome area?,B,800.0,400.0,120.0,1200.0,100.0
+477,How long is Via dei Grottoni in the Rome area?,B,930.0,3100.0,310.0,6200.0,9300.0
+478,How long is Via Crescenzio in the Rome area?,E,390.0,2600.0,130.0,3900.0,1300.0
+479,How long is Via Virgilio in the Rome area?,B,100.0,200.0,100.0,600.0,400.0
+480,How long is Via Triboniano in the Rome area?,A,300.0,100.0,900.0,100.0,600.0
+481,How long is Via Celio Vibenna in the Rome area?,B,120.0,400.0,100.0,800.0,1200.0
+482,How long is Via dei Cerchi in the Rome area?,D,210.0,1400.0,100.0,700.0,2100.0
+483,How long is Via della Nocetta in the Rome area?,E,100.0,150.0,1500.0,1000.0,500.0
+484,How long is Via del Forte Bravetta in the Rome area?,E,300.0,100.0,200.0,100.0,100.0
+485,How long is Piazza di Donna Olimpia in the Rome area?,D,100.0,0.0,0.0,0.0,100.0
+486,How long is Via Abate Ugone in the Rome area?,D,4500.0,450.0,150.0,1500.0,3000.0
+487,How long is Via di Donna Olimpia in the Rome area?,B,9600.0,3200.0,6400.0,960.0,320.0
+488,How long is Piazza dei Giuochi Delfici in the Rome area?,D,0.0,100.0,0.0,0.0,100.0
+489,How long is Via Nemea in the Rome area?,D,270.0,100.0,1800.0,900.0,2700.0
+490,How long is Via della Camilluccia in the Rome area?,B,11000.0,5500.0,16500.0,550.0,1650.0
+491,How long is Via La Spezia in the Rome area?,E,150.0,1000.0,100.0,1500.0,500.0
+492,How long is Via Monza in the Rome area?,C,100.0,100.0,100.0,200.0,300.0
+493,How long is Via Nola in the Rome area?,D,0.0,100.0,0.0,0.0,100.0
+494,How long is Via Erode Attico in the Rome area?,B,2490.0,8300.0,830.0,24900.0,16600.0
+495,How long is Via Annia Regilla in the Rome area?,E,1400.0,210.0,100.0,2100.0,700.0
+496,How long is Via Appia Pignatelli in the Rome area?,D,750.0,2250.0,15000.0,7500.0,22500.0
+497,How long is Piazza delle Cinque Giornate in the Rome area?,C,100.0,270.0,900.0,1800.0,2700.0
+498,How long is Lungotevere delle Armi in the Rome area?,D,300.0,100.0,100.0,100.0,200.0
+499,How long is Via Luigi Settembrini in the Rome area?,C,1200.0,120.0,400.0,800.0,100.0
+500,How long is Piazza Ungheria in the Rome area?,E,100.0,300.0,100.0,200.0,100.0
+501,How long is Viale Parioli in the Rome area?,A,500.0,150.0,1500.0,1000.0,100.0
+502,How long is Piazza dell'Alberone in the Rome area?,B,600.0,300.0,100.0,900.0,100.0
+503,How long is Via Gela in the Rome area?,B,1000.0,500.0,1500.0,100.0,150.0
+504,How long is Via Francesco de Suppé in the Rome area?,A,800.0,100.0,2400.0,240.0,1600.0
+505,How long is Piazza Pier Carlo Talenti in the Rome area?,E,100.0,100.0,0.0,0.0,0.0
+506,How long is Via Luigi Capuana in the Rome area?,C,100.0,1200.0,600.0,1800.0,180.0
+507,How long is Via Emanuele Filiberto in the Rome area?,A,600.0,100.0,180.0,1800.0,1200.0
+508,How long is Via Valco di San Paolo in the Rome area?,D,100.0,100.0,600.0,200.0,400.0
+509,How long is Via Beniamino Andreatta in the Rome area?,E,300.0,3000.0,100.0,2000.0,1000.0
+510,How long is Viale Altiero Spinelli in the Rome area?,E,8400.0,1260.0,420.0,12600.0,4200.0
+511,How long is Via Acaia in the Rome area?,E,100.0,600.0,900.0,100.0,300.0
+512,How long is Via Lepanto in the Rome area?,E,100.0,300.0,100.0,200.0,100.0
+513,How long is Viale Giulio Cesare in the Rome area?,E,3200.0,480.0,4800.0,160.0,1600.0
+514,How long is Viale dell'Agricoltura in the Rome area?,E,0.0,100.0,100.0,0.0,0.0
+515,How long is Via della Navicella in the Rome area?,D,330.0,3300.0,2200.0,1100.0,110.0
+516,How long is Viale Angelico in the Rome area?,E,260.0,780.0,7800.0,5200.0,2600.0
+517,How long is Via Barletta in the Rome area?,A,300.0,900.0,100.0,100.0,600.0
+518,How long is Viale delle Milizie in the Rome area?,D,180.0,1200.0,100.0,600.0,1800.0
+519,How long is Largo Trionfale in the Rome area?,B,2400.0,1200.0,120.0,360.0,3600.0
+520,How long is Via Leone Quarto in the Rome area?,C,1000.0,100.0,500.0,150.0,1500.0
+521,How long is Via Aosta in the Rome area?,B,400.0,200.0,100.0,600.0,100.0
+522,How long is Via Taranto in the Rome area?,C,300.0,3000.0,1000.0,100.0,2000.0
+523,How long is Via Pizzo di Calabria in the Rome area?,B,600.0,200.0,400.0,100.0,100.0
+524,How long is Via del Foro Olitorio in the Rome area?,E,100.0,0.0,0.0,100.0,0.0
+525,How long is Via Luigi Petroselli in the Rome area?,E,100.0,300.0,200.0,100.0,100.0
+526,How long is Via Tommaso Zigliara in the Rome area?,A,300.0,100.0,600.0,100.0,900.0
+527,How long is Via Francesco Marconi in the Rome area?,B,800.0,400.0,1200.0,100.0,120.0
+528,How long is Via Cogoleto in the Rome area?,D,5100.0,3400.0,170.0,1700.0,510.0
+529,How long is Via della Greca in the Rome area?,E,0.0,0.0,100.0,100.0,0.0
+530,How long is Largo Amerigo Petrucci in the Rome area?,E,0.0,100.0,100.0,0.0,0.0
+531,How long is Piazza della Bocca della Verità in the Rome area?,E,0.0,0.0,100.0,100.0,0.0
+532,How long is Via del Circo Massimo in the Rome area?,C,100.0,900.0,300.0,600.0,100.0
+533,How long is Via dell'Ara Massima di Ercole in the Rome area?,E,200.0,300.0,100.0,100.0,100.0
+534,How long is Via Cola di Rienzo in the Rome area?,E,900.0,600.0,100.0,100.0,300.0
+535,How long is Piazza del Risorgimento in the Rome area?,D,1200.0,120.0,100.0,400.0,800.0
+536,How long is Via Fabio Massimo in the Rome area?,A,300.0,600.0,900.0,100.0,100.0
+537,How long is Via Terenzio in the Rome area?,E,300.0,200.0,100.0,100.0,100.0
+538,How long is Piazza Cola di Rienzo in the Rome area?,B,110.0,1100.0,3300.0,330.0,2200.0
+539,How long is Ponte Regina Margherita in the Rome area?,E,100.0,100.0,200.0,300.0,100.0
+540,How long is Piazza Cavour in the Rome area?,E,150.0,100.0,1000.0,1500.0,500.0
+541,How long is Piazza Giuseppe Mazzini in the Rome area?,B,400.0,200.0,100.0,600.0,100.0
+542,How long is Via Giuseppe Ferrari in the Rome area?,C,100.0,600.0,200.0,400.0,100.0
+543,How long is Via Mario Romagnoli in the Rome area?,D,0.0,0.0,100.0,0.0,100.0
+544,How long is Via Marziale in the Rome area?,D,0.0,100.0,0.0,0.0,100.0
+545,How long is Via di Porta Pertusa in the Rome area?,E,100.0,0.0,100.0,0.0,0.0
+546,How long is Piazza Lauro de Bosis in the Rome area?,B,600.0,300.0,100.0,100.0,900.0
+547,How long is Ponte Duca d'Aosta in the Rome area?,C,100.0,100.0,300.0,600.0,900.0
+548,How long is Via Alghero in the Rome area?,B,330.0,1100.0,2200.0,3300.0,110.0
+549,How long is Piazza Ragusa in the Rome area?,A,400.0,800.0,100.0,120.0,1200.0
+550,How long is Piazza Lodi in the Rome area?,E,100.0,0.0,100.0,0.0,0.0
+551,How long is Via Faleria in the Rome area?,A,500.0,150.0,100.0,1000.0,1500.0
+552,How long is Largo Brindisi in the Rome area?,D,0.0,100.0,0.0,0.0,100.0
+553,How long is Piazza Vittorio Emanuele Secondo in the Rome area?,C,1800.0,180.0,600.0,100.0,1200.0
+554,How long is Piazza di San Giovanni in Laterano in the Rome area?,E,200.0,300.0,100.0,100.0,100.0
+555,How long is Via Domenico Fontana in the Rome area?,C,0.0,0.0,0.0,100.0,100.0
+556,How long is Via dei Corazzieri in the Rome area?,A,700.0,2100.0,210.0,1400.0,100.0
+557,How long is Piazza Monte Gennaro in the Rome area?,E,0.0,100.0,0.0,100.0,0.0
+558,How long is Viale Adriatico in the Rome area?,D,600.0,900.0,100.0,300.0,100.0
+559,How long is Via Bartolo Longo in the Rome area?,B,100.0,300.0,900.0,600.0,100.0
+560,How long is Viale Ventuno Aprile in the Rome area?,A,600.0,100.0,180.0,1800.0,1200.0
+561,How long is Via Ridolfino Venuti in the Rome area?,E,100.0,0.0,0.0,100.0,0.0
+562,How long is Piazza Bologna in the Rome area?,E,300.0,200.0,100.0,100.0,100.0
+563,How long is Via Ravenna in the Rome area?,D,200.0,100.0,100.0,100.0,300.0
+564,How long is Via di Pietralata in the Rome area?,B,12600.0,6300.0,1890.0,18900.0,630.0
+565,How long is Via Ettore Rolli in the Rome area?,C,100.0,100.0,200.0,400.0,600.0
+566,How long is Via degli Stradivari in the Rome area?,B,100.0,300.0,600.0,900.0,100.0
+567,How long is Lungotevere Testaccio in the Rome area?,D,2100.0,1400.0,100.0,700.0,210.0
+568,How long is Via Aldo Manuzio in the Rome area?,C,270.0,2700.0,900.0,1800.0,100.0
+569,How long is Via Nicola Zabaglia in the Rome area?,B,600.0,300.0,100.0,900.0,100.0
+570,How long is Viale della Primavera in the Rome area?,A,2500.0,5000.0,750.0,250.0,7500.0
+571,How long is Via Populonia in the Rome area?,B,1000.0,500.0,1500.0,100.0,150.0
+572,How long is Via Talamone in the Rome area?,D,0.0,0.0,100.0,0.0,100.0
+573,How long is Viale dell'Arte in the Rome area?,D,5200.0,780.0,260.0,2600.0,7800.0
+574,How long is Via Giovannipoli in the Rome area?,D,1600.0,240.0,100.0,800.0,2400.0
+575,How long is Via Farini in the Rome area?,B,100.0,200.0,400.0,600.0,100.0
+576,How long is Via Napoleone Terzo in the Rome area?,E,240.0,1600.0,2400.0,100.0,800.0
+577,How long is Via Ventiquattro Maggio in the Rome area?,A,1300.0,390.0,130.0,3900.0,2600.0
+578,How long is Via delle Quattro Fontane in the Rome area?,D,100.0,120.0,1200.0,400.0,800.0
+579,How long is Via Lorenzo il Magnifico in the Rome area?,B,110.0,1100.0,3300.0,330.0,2200.0
+580,How long is Via Teodorico in the Rome area?,B,600.0,200.0,100.0,400.0,100.0
+581,How long is Piazza Oderico da Pordenone in the Rome area?,E,0.0,100.0,0.0,100.0,0.0
+582,How long is Via Giovanni Genocchi in the Rome area?,A,200.0,100.0,100.0,400.0,600.0
+583,How long is Circonvallazione Appia in the Rome area?,A,1400.0,140.0,4200.0,420.0,2800.0
+584,How long is Piazza di Santa Costanza in the Rome area?,E,0.0,0.0,100.0,100.0,0.0
+585,How long is Via di Santa Costanza in the Rome area?,A,300.0,600.0,900.0,100.0,100.0
+586,How long is Largo delle Sette Chiese in the Rome area?,B,420.0,1400.0,4200.0,140.0,2800.0
+587,How long is Piazzale Sisto V in the Rome area?,D,100.0,100.0,200.0,100.0,300.0
+588,How long is Via Livorno in the Rome area?,E,300.0,2000.0,100.0,3000.0,1000.0
+589,How long is Via dei Campi Sportivi in the Rome area?,C,3800.0,5700.0,1900.0,190.0,570.0
+590,How long is Lungotevere Flaminio in the Rome area?,A,3500.0,350.0,7000.0,10500.0,1050.0
+591,How long is Lungotevere dell'Acqua Acetosa in the Rome area?,D,100.0,2000.0,300.0,1000.0,3000.0
+592,How long is Via Sassi di San Giuliano in the Rome area?,D,100.0,300.0,100.0,100.0,200.0
+593,How long is Via dell'Agonistica in the Rome area?,E,300.0,100.0,100.0,200.0,100.0
+594,How long is Via Alessandro Torlonia in the Rome area?,D,3600.0,360.0,120.0,1200.0,2400.0
+595,How long is Piazzale Valerio Massimo in the Rome area?,E,150.0,1500.0,100.0,1000.0,500.0
+596,How long is Viale delle Provincie in the Rome area?,B,6000.0,3000.0,9000.0,300.0,900.0
+597,How long is Via della Casetta Mattei in the Rome area?,E,4200.0,2800.0,140.0,420.0,1400.0
+598,How long is Via Camillo Serafini in the Rome area?,C,3000.0,100.0,1000.0,2000.0,300.0
+599,How long is Via del Trullo in the Rome area?,D,380.0,11400.0,1140.0,3800.0,7600.0
+600,How long is Via del Tempio degli Arvali in the Rome area?,A,1100.0,330.0,110.0,3300.0,2200.0
+601,How long is Via Arduino in the Rome area?,C,100.0,800.0,400.0,1200.0,120.0
+602,How long is Via della Lega Lombarda in the Rome area?,C,2400.0,1600.0,800.0,100.0,240.0
+603,How long is Via San Martino della Battaglia in the Rome area?,A,600.0,180.0,1200.0,1800.0,100.0
+604,How long is Lungotevere delle Navi in the Rome area?,E,200.0,100.0,100.0,300.0,100.0
+605,How long is Ponte del Risorgimento in the Rome area?,C,0.0,0.0,0.0,100.0,100.0
+606,How long is Piazza Barcellona in the Rome area?,E,4600.0,690.0,6900.0,230.0,2300.0
+607,How long is Viale Umberto Tupini in the Rome area?,A,600.0,180.0,1800.0,100.0,1200.0
+608,How long is Via della Balduina in the Rome area?,C,5400.0,810.0,2700.0,8100.0,270.0
+609,How long is Piazza Salerno in the Rome area?,E,0.0,100.0,100.0,0.0,0.0
+610,How long is Via Lazzaro Spallanzani in the Rome area?,B,2700.0,900.0,1800.0,100.0,270.0
+611,How long is Via di Grotta di Gregna in the Rome area?,C,160.0,3200.0,1600.0,4800.0,480.0
+612,How long is Via dei Colli della Farnesina in the Rome area?,E,6800.0,340.0,1020.0,10200.0,3400.0
+613,How long is Piazzale della Farnesina in the Rome area?,E,900.0,100.0,100.0,600.0,300.0
+614,How long is Via del Serafico in the Rome area?,D,6300.0,210.0,4200.0,2100.0,630.0
+615,How long is Viale Erminio Spalla in the Rome area?,B,3800.0,1900.0,570.0,5700.0,190.0
+616,How long is Via di Vigna Stelluti in the Rome area?,B,270.0,900.0,100.0,2700.0,1800.0
+617,How long is Via Pietro Lupi in the Rome area?,B,400.0,200.0,600.0,100.0,100.0
+618,How long is Via Anagni in the Rome area?,E,270.0,1800.0,2700.0,100.0,900.0
+619,How long is Viale Spartaco in the Rome area?,C,100.0,1000.0,500.0,1500.0,150.0
+620,How long is Via Lucio Sestio in the Rome area?,E,600.0,100.0,400.0,100.0,200.0
+621,How long is Via del Quadraro in the Rome area?,A,2300.0,690.0,4600.0,230.0,6900.0
+622,How long is Via dell'Almone in the Rome area?,C,6200.0,9300.0,3100.0,930.0,310.0
+623,How long is Via di San Cleto Papa in the Rome area?,E,0.0,0.0,100.0,100.0,0.0
+624,How long is Via Suor Celestina Donati in the Rome area?,D,100.0,200.0,100.0,100.0,300.0
+625,How long is Via Satrico in the Rome area?,D,800.0,100.0,120.0,400.0,1200.0
+626,How long is Viale della Letteratura in the Rome area?,D,100.0,0.0,0.0,0.0,100.0
+627,How long is Viale della Grande Muraglia in the Rome area?,A,1000.0,3000.0,100.0,300.0,2000.0
+628,How long is Via degli Orti di Cesare in the Rome area?,E,0.0,100.0,100.0,0.0,0.0
+629,How long is Via Calandrelli in the Rome area?,E,14400.0,480.0,1440.0,9600.0,4800.0
+630,How long is Viale delle Mura Gianicolensi in the Rome area?,E,1500.0,100.0,150.0,1000.0,500.0
+631,How long is Via Civita Castellana in the Rome area?,A,300.0,100.0,100.0,600.0,900.0
+632,How long is Via Ugo Guido Mondolfo in the Rome area?,A,1800.0,5400.0,3600.0,180.0,540.0
+633,How long is Via Agostino Richelmy in the Rome area?,C,3000.0,100.0,1000.0,2000.0,300.0
+634,How long is Via Gregorio Undicesimo in the Rome area?,D,8100.0,270.0,810.0,2700.0,5400.0
+635,How long is Via Antonio Salandra in the Rome area?,B,2400.0,1200.0,360.0,3600.0,120.0
+636,How long is Via Giacomo Puccini in the Rome area?,E,100.0,400.0,100.0,600.0,200.0
+637,How long is Via Campania in the Rome area?,C,0.0,0.0,0.0,100.0,100.0
+638,How long is Via Pinciana in the Rome area?,B,300.0,1000.0,100.0,2000.0,3000.0
+639,How long is Lungotevere Vittorio Gassman in the Rome area?,D,360.0,3600.0,2400.0,1200.0,120.0
+640,How long is Via Mario Fani in the Rome area?,D,2200.0,110.0,330.0,1100.0,3300.0
+641,How long is Via Gargano in the Rome area?,E,600.0,100.0,100.0,400.0,200.0
+642,How long is Via Maiella in the Rome area?,E,0.0,100.0,0.0,100.0,0.0
+643,How long is Corso Sempione in the Rome area?,E,0.0,0.0,100.0,100.0,0.0
+644,How long is Via Monte Subasio in the Rome area?,E,200.0,100.0,100.0,300.0,100.0
+645,How long is Via Igino Giordani in the Rome area?,B,3900.0,1300.0,2600.0,390.0,130.0
+646,How long is Piazza dei Giureconsulti in the Rome area?,E,0.0,100.0,100.0,0.0,0.0
+647,How long is Via di San Pancrazio in the Rome area?,E,2000.0,300.0,100.0,3000.0,1000.0
+648,How long is Via Beata Maria de Mattias in the Rome area?,A,800.0,100.0,1600.0,240.0,2400.0
+649,How long is Corso Trieste in the Rome area?,D,4800.0,7200.0,240.0,2400.0,720.0
+650,How long is Viale Guglielmo Massaia in the Rome area?,E,180.0,5400.0,540.0,3600.0,1800.0
+651,How long is Viale Vaticano in the Rome area?,E,420.0,140.0,4200.0,2800.0,1400.0
+652,How long is Via Stresa in the Rome area?,E,100.0,100.0,200.0,300.0,100.0
+653,How long is Via Giovanni Amendola in the Rome area?,D,1200.0,120.0,100.0,400.0,800.0
+654,How long is Via Carlo Zecchi in the Rome area?,E,100.0,100.0,200.0,300.0,100.0
+655,How long is Via di Casal de' Pazzi in the Rome area?,B,100.0,900.0,1800.0,270.0,2700.0
+656,How long is Via Giacinto de Vecchi Pieralice in the Rome area?,E,2400.0,100.0,240.0,1600.0,800.0
+657,How long is Via Attilio Regolo in the Rome area?,D,200.0,100.0,100.0,100.0,300.0
+658,How long is Via dei Gordiani in the Rome area?,C,5000.0,750.0,2500.0,250.0,7500.0
+659,How long is Via Eugenio di Mattei in the Rome area?,A,1100.0,110.0,3300.0,2200.0,330.0
+660,How long is Viale della Moschea in the Rome area?,A,3100.0,930.0,310.0,9300.0,6200.0
+661,How long is Piazzale Jonio in the Rome area?,D,600.0,100.0,400.0,200.0,100.0
+662,How long is Via di Valle Melaina in the Rome area?,A,2500.0,750.0,250.0,7500.0,5000.0
+663,How long is Via Uruguay in the Rome area?,C,100.0,120.0,400.0,800.0,1200.0
+664,How long is Via Giovanni Zanardini in the Rome area?,C,360.0,120.0,1200.0,2400.0,3600.0
+665,How long is Lungotevere Guglielmo Oberdan in the Rome area?,E,390.0,3900.0,2600.0,130.0,1300.0
+666,How long is Lungotevere Federico Fellini in the Rome area?,E,200.0,100.0,300.0,100.0,100.0
+667,How long is Piazzale Maresciallo Giardino in the Rome area?,E,100.0,0.0,100.0,0.0,0.0
+668,How long is Via Labicana in the Rome area?,A,1400.0,420.0,2800.0,4200.0,140.0
+669,How long is Viale Egeo in the Rome area?,B,120.0,1200.0,2400.0,3600.0,360.0
+670,How long is Viale dei Primati Sportivi in the Rome area?,C,180.0,100.0,600.0,1800.0,1200.0
+671,How long is Via Monselice in the Rome area?,E,600.0,400.0,100.0,100.0,200.0
+672,How long is Viale dei Parioli in the Rome area?,E,180.0,1800.0,100.0,1200.0,600.0
+673,How long is Via dell'Acqua Marcia in the Rome area?,D,190.0,3800.0,5700.0,1900.0,570.0
+674,How long is Piazza Edoardo Persico in the Rome area?,D,100.0,300.0,100.0,100.0,200.0
+675,How long is Piazza dei Re di Roma in the Rome area?,E,600.0,100.0,100.0,400.0,200.0
+676,How long is Viale dei Romanisti in the Rome area?,D,2100.0,210.0,100.0,700.0,1400.0
+677,How long is Via Romagna in the Rome area?,A,500.0,150.0,1000.0,1500.0,100.0
+678,How long is Rotatoria Benigno Zaccagnini in the Rome area?,C,0.0,0.0,0.0,100.0,100.0
+679,How long is Via Pio Foà in the Rome area?,C,600.0,100.0,300.0,100.0,900.0
+680,How long is Via della Cecchina in the Rome area?,E,5100.0,170.0,510.0,3400.0,1700.0
+681,How long is Via di Torre Rossa in the Rome area?,A,1500.0,4500.0,150.0,450.0,3000.0
+682,How long is Via Gerardo Chiaromonte in the Rome area?,E,100.0,0.0,0.0,100.0,0.0
+683,How long is Via Adelaide Aglietta in the Rome area?,C,100.0,100.0,100.0,300.0,200.0
+684,How long is Piazza Bartolomeo Romano in the Rome area?,E,100.0,100.0,200.0,300.0,100.0
+685,How long is Viale Luigi Einaudi in the Rome area?,D,100.0,200.0,100.0,100.0,300.0
+686,How long is Via Gallarate in the Rome area?,E,0.0,100.0,100.0,0.0,0.0
+687,How long is Via di Porta Castello in the Rome area?,E,300.0,100.0,200.0,100.0,100.0
+688,How long is Viale della Tecnica in the Rome area?,D,100.0,100.0,600.0,300.0,900.0
+689,How long is Via Antonio Bertoloni in the Rome area?,C,100.0,100.0,300.0,600.0,900.0
+690,How long is Piazza Pitagora in the Rome area?,E,0.0,100.0,100.0,0.0,0.0
+691,How long is Viale Bruno Buozzi in the Rome area?,E,360.0,2400.0,3600.0,120.0,1200.0
+692,How long is Via Antonio Stoppani in the Rome area?,E,0.0,100.0,0.0,100.0,0.0
+693,How long is Via Pietro Maffi in the Rome area?,A,1400.0,4200.0,2800.0,420.0,140.0
+694,How long is Via Simone Mosca in the Rome area?,A,600.0,100.0,180.0,1200.0,1800.0
+695,How long is Piazza Monte Grappa in the Rome area?,A,500.0,100.0,150.0,1000.0,1500.0
+696,How long is Via Virginio Orsini in the Rome area?,C,900.0,100.0,300.0,100.0,600.0
+697,How long is Via degli Orti della Farnesina in the Rome area?,D,330.0,3300.0,110.0,1100.0,2200.0
+698,How long is Via dei Reti in the Rome area?,E,270.0,100.0,2700.0,1800.0,900.0
+699,How long is Piazza Guglielmo Marconi in the Rome area?,E,300.0,200.0,100.0,100.0,100.0
+700,How long is Via delle Isole Curzolane in the Rome area?,C,130.0,3900.0,1300.0,2600.0,390.0
+701,How long is Via Furio Cicogna in the Rome area?,B,210.0,2100.0,630.0,6300.0,4200.0
+702,How long is Via Giovanni Palombini in the Rome area?,B,1200.0,400.0,100.0,120.0,800.0
+703,How long is Via Raffaele Majetti in the Rome area?,D,1200.0,1800.0,100.0,600.0,180.0
+704,How long is Via Ettore Romagnoli in the Rome area?,D,2000.0,3000.0,100.0,1000.0,300.0
+705,How long is Via delle Fosse di Castello in the Rome area?,E,100.0,100.0,0.0,0.0,0.0
+706,How long is Via Val Brembana in the Rome area?,D,200.0,100.0,100.0,100.0,300.0
+707,How long is Via di San Sebastiano in the Rome area?,C,3600.0,540.0,1800.0,180.0,5400.0
+708,How long is Piazza del Colosseo in the Rome area?,D,100.0,100.0,200.0,100.0,300.0
+709,How long is Piazzale delle Provincie in the Rome area?,D,0.0,0.0,100.0,0.0,100.0
+710,How long is Via Catania in the Rome area?,E,600.0,100.0,100.0,900.0,300.0
+711,How long is Via Tembien in the Rome area?,C,0.0,0.0,0.0,100.0,100.0
+712,How long is Via Dessiè in the Rome area?,E,100.0,0.0,100.0,0.0,0.0
+713,How long is Piazza Gimma in the Rome area?,D,0.0,0.0,100.0,0.0,100.0
+714,How long is Via Giovanni Schiaparelli in the Rome area?,D,120.0,100.0,800.0,400.0,1200.0
+715,How long is Via Alfonso Torelli in the Rome area?,E,100.0,400.0,100.0,600.0,200.0
+716,How long is Piazza di San Pancrazio in the Rome area?,A,200.0,100.0,400.0,100.0,600.0
+717,How long is Via Francesco Catel in the Rome area?,D,100.0,600.0,400.0,200.0,100.0
+718,How long is Largo Giovanni Montemartini in the Rome area?,A,200.0,400.0,100.0,600.0,100.0
+719,How long is Via Marsala in the Rome area?,A,800.0,100.0,2400.0,1600.0,240.0
+720,How long is Viale Enrico De Nicola in the Rome area?,D,100.0,100.0,200.0,100.0,300.0
+721,How long is Via Bari in the Rome area?,B,270.0,900.0,100.0,2700.0,1800.0
+722,How long is Via Carlo Livi in the Rome area?,D,100.0,240.0,2400.0,800.0,1600.0
+723,How long is Via Anton Maria Valsalva in the Rome area?,A,500.0,100.0,150.0,1500.0,1000.0
+724,How long is Via Marcello Provenzale in the Rome area?,C,2700.0,270.0,900.0,1800.0,100.0
+725,How long is Viale Sacco e Vanzetti in the Rome area?,A,1600.0,480.0,4800.0,3200.0,160.0
+726,How long is Via Luigi Canina in the Rome area?,D,100.0,0.0,0.0,0.0,100.0
+727,How long is Viale della Stazione Prenestina in the Rome area?,E,150.0,100.0,1000.0,1500.0,500.0
+728,How long is Vicolo Silvestri in the Rome area?,E,0.0,100.0,100.0,0.0,0.0
+729,How long is Viale Pantelleria in the Rome area?,C,800.0,120.0,400.0,1200.0,100.0
+730,How long is Via Cardinal Pacca in the Rome area?,A,500.0,150.0,1000.0,1500.0,100.0
+731,How long is Via degli Oppii in the Rome area?,D,100.0,300.0,100.0,100.0,200.0
+732,How long is Piazza Quinto Curzio in the Rome area?,D,0.0,0.0,100.0,0.0,100.0
+733,How long is Via Quinto Publicio in the Rome area?,D,400.0,600.0,100.0,200.0,100.0
+734,How long is Via dell'Aeroporto in the Rome area?,E,1200.0,800.0,100.0,120.0,400.0
+735,How long is Via Alessandro Settimo in the Rome area?,E,900.0,100.0,600.0,100.0,300.0
+736,How long is Via Cesare Pascarella in the Rome area?,E,100.0,100.0,200.0,300.0,100.0
+737,How long is Via della Madonna del Riposo in the Rome area?,C,1600.0,2400.0,800.0,240.0,100.0
+738,How long is Via Cipro in the Rome area?,B,240.0,800.0,100.0,1600.0,2400.0
+739,How long is Via dell'Ippodromo di Tor di Valle in the Rome area?,E,0.0,0.0,100.0,100.0,0.0
+740,How long is Via Igea in the Rome area?,D,100.0,100.0,300.0,100.0,200.0
+741,How long is Via Vittorio Veneto in the Rome area?,A,700.0,210.0,1400.0,2100.0,100.0
+742,How long is Via Leonida Bissolati in the Rome area?,E,800.0,120.0,100.0,1200.0,400.0
+743,How long is Piazzale Manila in the Rome area?,D,0.0,0.0,100.0,0.0,100.0
+744,How long is Via Veturia in the Rome area?,B,100.0,400.0,800.0,120.0,1200.0
+745,How long is Piazza Antonio Meucci in the Rome area?,D,100.0,0.0,0.0,0.0,100.0
+746,How long is Via Ruggero Giovannelli in the Rome area?,E,300.0,100.0,200.0,100.0,100.0
+747,How long is Via Guidubaldo del Monte in the Rome area?,B,1200.0,400.0,120.0,800.0,100.0
+748,How long is Via dei Monti Lessini in the Rome area?,E,1500.0,1000.0,100.0,150.0,500.0
+749,How long is Via L'Aquila in the Rome area?,C,900.0,600.0,300.0,100.0,100.0
+750,How long is Sottopasso Turbigo in the Rome area?,D,480.0,3200.0,4800.0,1600.0,160.0
+751,How long is Via Acireale in the Rome area?,D,100.0,100.0,600.0,200.0,400.0
+752,How long is Piazza del Pigneto in the Rome area?,E,100.0,100.0,300.0,200.0,100.0
+753,How long is Via Col di Rezia in the Rome area?,C,600.0,100.0,200.0,400.0,100.0
+754,How long is Via Ettore Fieramosca in the Rome area?,B,4600.0,2300.0,690.0,230.0,6900.0
+755,How long is Via Sistina in the Rome area?,C,240.0,7200.0,2400.0,4800.0,720.0
+756,How long is Largo Magnanapoli in the Rome area?,E,300.0,100.0,200.0,100.0,100.0
+757,How long is Via Demetriade in the Rome area?,A,2700.0,810.0,5400.0,8100.0,270.0
+758,How long is Viale Carlo Felice in the Rome area?,A,300.0,900.0,600.0,100.0,100.0
+759,How long is Via Caltagirone in the Rome area?,D,100.0,100.0,200.0,100.0,300.0
+760,How long is Viale del Caravaggio in the Rome area?,B,120.0,400.0,100.0,1200.0,800.0
+761,How long is Piazza Elio Rufino in the Rome area?,E,3000.0,2000.0,300.0,100.0,1000.0
+762,How long is Via dei Ramni in the Rome area?,A,1400.0,2800.0,140.0,420.0,4200.0
+763,How long is Via Sebastiano Vinci in the Rome area?,B,7800.0,2600.0,780.0,260.0,5200.0
+764,How long is Via Giovanni Stefano Bonacossa in the Rome area?,B,1500.0,500.0,1000.0,100.0,150.0
+765,How long is Via Galla Placidia in the Rome area?,A,1700.0,5100.0,510.0,170.0,3400.0
+766,How long is Via Cesare Fracassini in the Rome area?,E,200.0,300.0,100.0,100.0,100.0
+767,How long is Via Generale Roberto Bencivenga in the Rome area?,A,600.0,1800.0,1200.0,100.0,180.0
+768,How long is Via di Acqua Bullicante in the Rome area?,E,0.0,100.0,100.0,0.0,0.0
+769,How long is Via Benedetto Quattordicesimo in the Rome area?,D,3900.0,130.0,2600.0,1300.0,390.0
+770,How long is Via di Porta Portese in the Rome area?,E,300.0,200.0,100.0,100.0,100.0
+771,How long is Via del Pigneto in the Rome area?,D,100.0,200.0,100.0,100.0,300.0
+772,How long is Corso Vittorio Emanuele Secondo in the Rome area?,C,100.0,240.0,800.0,2400.0,1600.0
+773,How long is Piazzale del Parco della Rimembranza in the Rome area?,D,100.0,0.0,0.0,0.0,100.0
+774,How long is Via del Sacro Cuore di Maria in the Rome area?,E,300.0,100.0,200.0,100.0,100.0
+775,How long is Viale Gioacchino Rossini in the Rome area?,D,100.0,100.0,200.0,100.0,300.0
+776,How long is Via Giovanni Paisiello in the Rome area?,E,100.0,100.0,200.0,300.0,100.0
+777,How long is Salita del Mandrione in the Rome area?,D,300.0,100.0,100.0,100.0,200.0
+778,How long is Via di Porta San Lorenzo in the Rome area?,C,0.0,0.0,0.0,100.0,100.0
+779,How long is Via Riccardo Zampieri in the Rome area?,D,1800.0,2700.0,100.0,900.0,270.0
+780,How long is Via Acciaioli in the Rome area?,E,200.0,100.0,100.0,300.0,100.0
+781,How long is Corso Vittorio Emanuele II in the Rome area?,E,100.0,100.0,200.0,300.0,100.0
+782,How long is Ponte Vittorio Emanuele Secondo in the Rome area?,E,0.0,0.0,100.0,100.0,0.0
+783,How long is Lungotevere dei Fiorentini in the Rome area?,E,100.0,0.0,100.0,0.0,0.0
+784,How long is Ponte Giuseppe Mazzini in the Rome area?,A,200.0,100.0,600.0,400.0,100.0
+785,How long is Lungotevere dei Sangallo in the Rome area?,D,100.0,600.0,400.0,200.0,100.0
+786,How long is Ponte Principe Amedeo Savoia Aosta in the Rome area?,E,100.0,0.0,0.0,100.0,0.0
+787,How long is Lungotevere Raffaello Sanzio in the Rome area?,E,100.0,0.0,100.0,0.0,0.0
+788,How long is Lungotevere dei Pierleoni in the Rome area?,A,500.0,1000.0,1500.0,100.0,150.0
+789,How long is Via Bernardino Telesio in the Rome area?,D,1200.0,100.0,800.0,400.0,120.0
+790,How long is Via Arenula in the Rome area?,E,600.0,100.0,900.0,100.0,300.0
+791,How long is Piazza Walter Rossi in the Rome area?,E,100.0,0.0,0.0,100.0,0.0
+792,How long is Via Faenza in the Rome area?,E,100.0,0.0,100.0,0.0,0.0
+793,How long is Via della Ferratella in Laterano in the Rome area?,E,150.0,1500.0,1000.0,100.0,500.0
+794,How long is Via Agostino Depretis in the Rome area?,C,100.0,180.0,600.0,1200.0,1800.0
+795,How long is Via Cesare De Lollis in the Rome area?,C,180.0,1800.0,600.0,100.0,1200.0
+796,How long is Piazza Epiro in the Rome area?,C,100.0,800.0,400.0,120.0,1200.0
+797,How long is Largo Valtournanche in the Rome area?,A,300.0,600.0,100.0,900.0,100.0
+798,How long is Via Val di Lanzo in the Rome area?,D,100.0,2000.0,3000.0,1000.0,300.0
+799,How long is Piazza Monte Baldo in the Rome area?,D,100.0,1500.0,150.0,500.0,1000.0
+800,How long is Via Stelvio in the Rome area?,E,2800.0,4200.0,140.0,420.0,1400.0
+801,How long is Via del Gianicolo in the Rome area?,E,300.0,100.0,200.0,100.0,100.0
+802,How long is Lungotevere della Farnesina in the Rome area?,B,100.0,600.0,1800.0,1200.0,180.0
+803,How long is Lungotevere Gianicolense in the Rome area?,C,600.0,100.0,200.0,100.0,400.0
+804,How long is Via di Porta Cavalleggeri in the Rome area?,B,100.0,400.0,1200.0,800.0,120.0
+805,How long is Via di Porta Pinciana in the Rome area?,E,480.0,4800.0,3200.0,160.0,1600.0
+806,How long is Piazza d'Aracoeli in the Rome area?,E,0.0,100.0,0.0,100.0,0.0
+807,How long is Piazza del Gesù in the Rome area?,E,300.0,200.0,100.0,100.0,100.0
+808,How long is Piazza Giuseppe Gioachino Belli in the Rome area?,E,150.0,100.0,1500.0,1000.0,500.0
+809,How long is Via Emilio Morosini in the Rome area?,E,100.0,400.0,100.0,600.0,200.0
+810,How long is Piazza Vittorio Bottego in the Rome area?,C,100.0,100.0,300.0,900.0,600.0
+811,How long is Piazza Eugenio Biffi in the Rome area?,E,100.0,100.0,300.0,200.0,100.0
+812,How long is Piazza Michele da Carbonara in the Rome area?,B,100.0,200.0,400.0,600.0,100.0
+813,How long is Via Vincenzo Bellini in the Rome area?,B,100.0,300.0,600.0,900.0,100.0
+814,How long is Via Quattro Novembre in the Rome area?,D,100.0,600.0,900.0,300.0,100.0
+815,How long is Largo Giovanni Ansaldo in the Rome area?,E,300.0,200.0,100.0,100.0,100.0
+816,How long is Piazza Cuba in the Rome area?,A,700.0,1400.0,2100.0,100.0,210.0
+817,How long is Largo Bangladesh in the Rome area?,D,100.0,0.0,0.0,0.0,100.0
+818,How long is Piazzale Tommaso Edison in the Rome area?,E,100.0,100.0,0.0,0.0,0.0
+819,How long is Piazza Bartolomeo Gastaldi in the Rome area?,B,600.0,200.0,100.0,100.0,400.0
+820,How long is Piazzale Don Giovanni Minzoni in the Rome area?,D,0.0,0.0,100.0,0.0,100.0
+821,How long is Via Francesco Siacci in the Rome area?,E,5000.0,250.0,750.0,7500.0,2500.0
+822,How long is Via Filippo Civinini in the Rome area?,C,2700.0,1800.0,900.0,270.0,100.0
+823,How long is Piazza Euclide in the Rome area?,E,100.0,100.0,0.0,0.0,0.0
+824,How long is Lungotevere Maresciallo Cadorna in the Rome area?,B,600.0,300.0,100.0,900.0,100.0
+825,How long is Via Roberto Morra di Lavriano in the Rome area?,B,1200.0,400.0,100.0,800.0,120.0
+826,How long is Via Carlo Bontemps in the Rome area?,E,0.0,0.0,100.0,100.0,0.0
+827,How long is Vicolo della Basilica in the Rome area?,B,100.0,300.0,100.0,900.0,600.0
+828,How long is Largo Guido Mazzoni in the Rome area?,D,100.0,900.0,100.0,300.0,600.0
+829,How long is Via delle Cave in the Rome area?,E,2100.0,1400.0,100.0,210.0,700.0
+830,How long is Largo Benedetto Bompiani in the Rome area?,C,900.0,100.0,300.0,600.0,100.0
+831,How long is Via Cassino in the Rome area?,B,2000.0,1000.0,100.0,300.0,3000.0
+832,How long is Largo Alessandro Caravillani in the Rome area?,D,0.0,100.0,0.0,0.0,100.0
+833,How long is Largo di Boccea in the Rome area?,A,300.0,100.0,900.0,600.0,100.0
+834,How long is Via Don Orione in the Rome area?,C,100.0,400.0,200.0,600.0,100.0
+835,How long is Largo Sri Lanka in the Rome area?,E,0.0,100.0,0.0,100.0,0.0
+836,How long is Via Elio Donato in the Rome area?,C,600.0,100.0,300.0,100.0,900.0
+837,How long is Piazza Giovenale in the Rome area?,D,300.0,100.0,100.0,100.0,200.0
+838,How long is Piazza della Balduina in the Rome area?,B,100.0,200.0,400.0,600.0,100.0
+839,How long is Via Edmondo De Amicis in the Rome area?,A,2100.0,4200.0,210.0,630.0,6300.0
+840,How long is Piazza Santa Maria della Pietà in the Rome area?,D,100.0,0.0,0.0,0.0,100.0
+841,How long is Via Augusto Tebaldi in the Rome area?,D,900.0,100.0,600.0,300.0,100.0
+842,How long is Via Cesare Spellanzon in the Rome area?,E,100.0,0.0,0.0,100.0,0.0
+843,How long is Via Enrico Chiaradia in the Rome area?,E,0.0,0.0,100.0,100.0,0.0
+844,How long is Viale Tommaso Tittoni in the Rome area?,E,300.0,100.0,200.0,100.0,100.0
+845,How long is Via dei Sesami in the Rome area?,B,800.0,400.0,120.0,100.0,1200.0
+846,How long is Piazza dei Mirti in the Rome area?,E,600.0,400.0,100.0,100.0,200.0
+847,How long is Via Giovanni Gussone in the Rome area?,D,900.0,100.0,100.0,300.0,600.0
+848,How long is Via Damiano Chiesa in the Rome area?,B,190.0,1900.0,3800.0,5700.0,570.0
+849,How long is Via Vittorio Montiglio in the Rome area?,E,6400.0,9600.0,320.0,960.0,3200.0
+850,How long is Via di Valle Aurelia in the Rome area?,C,100.0,100.0,200.0,400.0,600.0
+851,How long is Piazzale Giuseppe Garibaldi in the Rome area?,D,900.0,100.0,600.0,300.0,100.0
+852,How long is Largo di Porta San Pancrazio in the Rome area?,E,0.0,0.0,100.0,100.0,0.0
+853,How long is Via Ludovica Albertoni in the Rome area?,E,900.0,100.0,600.0,100.0,300.0
+854,How long is Via Ponzio Cominio in the Rome area?,E,400.0,100.0,600.0,100.0,200.0
+855,How long is Viale Glorioso in the Rome area?,E,0.0,100.0,100.0,0.0,0.0
+856,How long is Via Ludovico Altieri in the Rome area?,C,400.0,100.0,200.0,600.0,100.0
+857,How long is Via di Villa Betania in the Rome area?,E,100.0,600.0,100.0,900.0,300.0
+858,How long is Via Salvino Sernesi in the Rome area?,E,300.0,100.0,100.0,200.0,100.0
+859,How long is Piazza dei Gerani in the Rome area?,B,100.0,200.0,600.0,400.0,100.0
+860,How long is Via delle Camelie in the Rome area?,E,1200.0,120.0,100.0,800.0,400.0
+861,How long is Via Latino Silvio in the Rome area?,A,600.0,1200.0,100.0,180.0,1800.0
+862,How long is Via Verrio Flacco in the Rome area?,A,300.0,600.0,100.0,900.0,100.0
+863,How long is Piazza dei Cinquecento in the Rome area?,E,100.0,0.0,100.0,0.0,0.0
+864,How long is Via Alessandro Severo in the Rome area?,E,300.0,100.0,200.0,100.0,100.0
+865,How long is Piazza della Stazione Prenestina in the Rome area?,B,600.0,300.0,100.0,900.0,100.0
+866,How long is Piazza Santiago del Cile in the Rome area?,D,100.0,0.0,0.0,0.0,100.0
+867,How long is Piazza Riccardo Balsamo Crivelli in the Rome area?,C,100.0,100.0,100.0,200.0,300.0
+868,How long is Piazza Capri in the Rome area?,D,100.0,600.0,900.0,300.0,100.0
+869,How long is Via al Quarto Miglio in the Rome area?,E,100.0,100.0,0.0,0.0,0.0
+870,How long is Piazza Armenia in the Rome area?,E,200.0,300.0,100.0,100.0,100.0
+871,How long is Via della Traspontina in the Rome area?,C,100.0,100.0,100.0,300.0,200.0
+872,How long is Piazza Verbano in the Rome area?,E,600.0,400.0,100.0,100.0,200.0
+873,How long is Piazza Acilia in the Rome area?,E,600.0,6000.0,200.0,4000.0,2000.0
+874,How long is Piazzale Giovanni Spadolini in the Rome area?,A,300.0,600.0,900.0,100.0,100.0
+875,How long is Via Guido Mazzoni in the Rome area?,E,100.0,100.0,300.0,200.0,100.0
+876,How long is Via Venti settembre in the Rome area?,E,100.0,0.0,100.0,0.0,0.0
+877,How long is Piazza San Bernardo in the Rome area?,D,0.0,100.0,0.0,0.0,100.0
+878,How long is Via di Tor Carbone in the Rome area?,D,300.0,100.0,100.0,100.0,200.0
+879,How long is Via Andrea Millevoi in the Rome area?,D,0.0,0.0,100.0,0.0,100.0
+880,How long is Via Florida in the Rome area?,E,2100.0,100.0,1400.0,210.0,700.0
+881,How long is Via Ceneda in the Rome area?,A,200.0,600.0,400.0,100.0,100.0
+882,How long is Viale Marx in the Rome area?,C,100.0,100.0,100.0,200.0,300.0
+883,How long is Via del Castro Laurenziano in the Rome area?,E,0.0,0.0,100.0,100.0,0.0
+884,How long is Via dei Pisoni in the Rome area?,C,120.0,100.0,400.0,800.0,1200.0

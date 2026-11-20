@@ -1,0 +1,486 @@
+id,question,answer,A,B,C,D
+0,"What is the distance between ""Caserma Lante Della Rovere"" and ""Grande Cisterna"" in the Rome area?",C,16.88,11.13,12.72,9.53
+1,"What is the distance between ""Impianto sportivo comunale Raimondo Vianello"" and ""Parcheggio via della Pigna"" in the Rome area?",D,11.32,10.71,4.48,5.81
+2,"What is the distance between ""Fontanella nel Parco pubblico"" and ""Ambulatorio veterinario Spiezia"" in the Rome area?",C,4.85,5.33,2.75,4.92
+3,"What is the distance between ""Colli Albani Internet Point"" and ""Sakura e Koi"" in the Rome area?",B,8.72,4.82,6.11,8.8
+4,"What is the distance between ""Hosteria del Mercato"" and ""Istituto Pontificio Sant'Apollinare"" in the Rome area?",D,7.68,5.01,9.21,2.93
+5,"What is the distance between ""Il bar sotto al mare"" and ""Nuraghe Sardo"" in the Rome area?",C,2.14,6.19,0.58,4.61
+6,"What is the distance between ""Il Fellini"" and ""Mr Pachino"" in the Rome area?",C,2.99,12.92,6.57,3.99
+7,"What is the distance between ""Antico Caffé San Pietro"" and ""Caffetteria del Chiostro del Bramante"" in the Rome area?",C,4.65,4.9,1.0,5.92
+8,"What is the distance between ""Garage Bertone"" and ""Parcheggio AMA"" in the Rome area?",C,14.47,12.9,7.07,4.59
+9,"What is the distance between ""Palazzo Torlonia"" and ""Residenza Luiss Via Lisbona"" in the Rome area?",B,6.02,3.8,1.09,10.18
+10,"What is the distance between ""Closbox.com"" and ""Bottega Fienaroli"" in the Rome area?",A,3.04,9.72,5.08,1.95
+11,"What is the distance between ""Enoteca Barberini"" and ""Tesla"" in the Rome area?",D,0.5,9.43,0.8,4.31
+12,"What is the distance between ""Cambio"" and ""Teatro Verde"" in the Rome area?",D,7.27,0.77,0.82,2.67
+13,"What is the distance between ""Pizzeria Mediterranea"" and ""Ristochicco"" in the Rome area?",C,6.94,5.61,2.86,9.82
+14,"What is the distance between ""Parco delle Energie"" and ""Cisco Collatino"" in the Rome area?",A,1.68,4.88,6.2,5.22
+15,"What is the distance between ""Pago's"" and ""TrattoRiot"" in the Rome area?",A,5.92,3.5,3.74,1.06
+16,"What is the distance between ""Anvedi Tuscolana"" and ""La Scaletta"" in the Rome area?",A,5.65,13.22,8.73,9.68
+17,"What is the distance between ""Mi Mar Cafè"" and ""Banca Unicredit"" in the Rome area?",A,5.39,4.07,9.18,10.63
+18,"What is the distance between ""Felini"" and ""Villino Berti o Dionisi Spierer"" in the Rome area?",D,3.02,2.66,3.28,1.28
+19,"What is the distance between ""Città Equosolidale"" and ""Acqua Egeria"" in the Rome area?",C,7.91,2.13,4.86,6.08
+20,"What is the distance between ""UniCredit Bank"" and ""Taxi Emporio 060609"" in the Rome area?",A,7.42,6.45,12.56,9.59
+21,"What is the distance between ""Crédit Agricole"" and ""Dar Poeta Alla Scala"" in the Rome area?",C,10.63,11.13,5.27,4.21
+22,"What is the distance between ""Passetto di Borgo"" and ""Edicola"" in the Rome area?",D,7.35,7.06,8.57,4.63
+23,"What is the distance between ""Osteria Chiana"" and ""Biblioteca Flaminia"" in the Rome area?",B,1.43,2.78,9.94,10.76
+24,"What is the distance between ""ilGaudio"" and ""Akasaka"" in the Rome area?",B,6.44,3.56,8.08,9.98
+25,"What is the distance between ""Miani"" and ""Sama bar"" in the Rome area?",A,6.92,4.19,8.6,8.35
+26,"What is the distance between ""compagnia parioli"" and ""Luciano e Sandro"" in the Rome area?",C,11.18,3.29,5.79,1.9
+27,"What is the distance between ""Palazzo Anguillara"" and ""Sfioratore di Piena Grottaperfetta"" in the Rome area?",A,4.46,9.11,2.52,8.02
+28,"What is the distance between ""Autolavaggio la palma"" and ""Garbatella"" in the Rome area?",B,8.66,1.42,4.69,5.84
+29,"What is the distance between ""Daniel Gelo"" and ""Fototessera"" in the Rome area?",B,2.95,4.41,2.59,11.63
+30,"What is the distance between ""Istituto Filippo Smaldone"" and ""Italferr S.p.A."" in the Rome area?",D,4.18,9.08,3.88,2.08
+31,"What is the distance between ""Fondazione Gramsci Onlus"" and ""l'incontro"" in the Rome area?",B,9.2,5.16,3.05,1.25
+32,"What is the distance between ""Gran Caffè"" and ""Spaghetti A Mezzanotte"" in the Rome area?",D,1.52,6.6,10.31,4.36
+33,"What is the distance between ""Akasaka"" and ""Conca d'Oro"" in the Rome area?",A,8.22,0.68,9.83,4.0
+34,"What is the distance between ""L'Insalata Ricca"" and ""Blu Bar"" in the Rome area?",D,8.95,8.8,12.4,7.09
+35,"What is the distance between ""FitAndGo"" and ""Alcazar"" in the Rome area?",B,12.27,4.89,3.2,12.76
+36,"What is the distance between ""Cineclub Alphaville"" and ""Honkytonk Bar"" in the Rome area?",D,2.2,12.29,12.38,5.03
+37,"What is the distance between ""Gelateria dei Gracchi"" and ""Pizza Rosy"" in the Rome area?",D,2.11,1.44,8.04,5.88
+38,"What is the distance between ""Is Arenas"" and ""Jollibee"" in the Rome area?",D,3.82,2.26,11.18,4.92
+39,"What is the distance between ""Ex 51"" and ""Alice"" in the Rome area?",A,4.22,2.53,7.29,9.48
+40,"What is the distance between ""La Scaletta"" and ""Bar Caffè Fantini"" in the Rome area?",C,10.22,9.77,5.19,11.7
+41,"What is the distance between ""Casetta Rossa"" and ""Pontificio Seminario Romano Maggiore"" in the Rome area?",A,2.53,10.17,4.44,1.03
+42,"What is the distance between ""Mausoleo dei Cessati Spiriti"" and ""UnipolSai (ex Fondiaria-SAI)"" in the Rome area?",D,4.08,7.24,11.35,5.53
+43,"What is the distance between ""McDonald's"" and ""Cambio"" in the Rome area?",B,7.98,1.03,5.21,3.4
+44,"What is the distance between ""Palazzina Samoggia"" and ""Palazzo Anguillara"" in the Rome area?",B,8.35,3.53,4.56,7.29
+45,"What is the distance between ""San Lollo"" and ""La Cantina di Dante"" in the Rome area?",A,4.49,6.68,2.99,6.5
+46,"What is the distance between ""Babylon Café"" and ""Angolo Sciarra"" in the Rome area?",C,11.13,5.98,8.02,1.98
+47,"What is the distance between ""Piante e Fiori Irene"" and ""Piazza Benedetto Brin"" in the Rome area?",A,2.67,10.13,8.88,8.89
+48,"What is the distance between ""Antica DOMUS"" and ""Teatro Golden"" in the Rome area?",A,1.67,5.94,2.69,9.52
+49,"What is the distance between ""La Boccaccia"" and ""Kalù Kafè"" in the Rome area?",D,9.06,10.13,11.48,3.94
+50,"What is the distance between ""Taverna Sciuscella"" and ""Parafarmacia Igea Gemelli"" in the Rome area?",D,0.73,12.55,13.01,8.04
+51,"What is the distance between ""VinAllegro"" and ""Taverna Ripetta"" in the Rome area?",C,3.54,0.51,1.6,6.17
+52,"What is the distance between ""Ristorante Pizzeria I Fratelli"" and ""pan divino"" in the Rome area?",C,9.39,8.18,3.36,8.88
+53,"What is the distance between ""Biblioteca Flaminia"" and ""Al Picchio"" in the Rome area?",C,6.17,4.31,2.74,8.9
+54,"What is the distance between ""Blue Ice"" and ""Da Tonino"" in the Rome area?",A,1.12,5.62,4.29,6.37
+55,"What is the distance between ""New Black Body"" and ""Central Park"" in the Rome area?",C,8.64,15.38,7.51,3.9
+56,"What is the distance between ""Ristorante Casa del Gusto"" and ""Body-Arts"" in the Rome area?",C,12.89,9.81,5.68,2.37
+57,"What is the distance between ""Fatamorgana Centro Storico"" and ""Soft Ippocrate"" in the Rome area?",C,5.84,0.79,4.15,1.83
+58,"What is the distance between ""Ristorante Eleonora d’Arborea"" and ""Closbox.com"" in the Rome area?",B,7.81,1.47,4.88,8.88
+59,"What is the distance between ""Teatro all'aperto Ettore Scola"" and ""Campo base Linea C"" in the Rome area?",B,12.94,6.24,4.12,7.17
+60,"What is the distance between ""Maritozzo Rosso"" and ""Fata Morgana"" in the Rome area?",A,3.9,2.68,11.16,1.5
+61,"What is the distance between ""Li Rong Caffè"" and ""L'Insalata Ricca"" in the Rome area?",B,4.86,2.31,1.0,7.4
+62,"What is the distance between ""CP Portonaccio"" and ""Basilica di Santa Cecilia in Trastevere"" in the Rome area?",C,12.74,8.1,5.34,11.52
+63,"What is the distance between ""Imperatori"" and ""Baffetto 2"" in the Rome area?",A,7.89,2.48,14.49,9.14
+64,"What is the distance between ""Casetta Mattei"" and ""Istituto Villa Flaminia"" in the Rome area?",C,4.17,5.96,9.23,16.28
+65,"What is the distance between ""Pizzeria del Gufetto"" and ""Gelateria N2"" in the Rome area?",C,3.48,3.53,8.35,15.34
+66,"What is the distance between ""Piazza di Santa Caterina della Rota"" and ""Giardino Antonio Maccanico"" in the Rome area?",D,7.79,3.78,5.22,1.47
+67,"What is the distance between ""Maria Insalaco"" and ""Fontana dei Libri"" in the Rome area?",C,9.91,2.74,6.6,4.17
+68,"What is the distance between ""Casino di Villa Gabrielli al Gianicolo"" and ""Aeroporto Militare Francesco Baracca"" in the Rome area?",A,8.87,13.52,9.94,3.94
+69,"What is the distance between ""GioMà Pizzeria Romana"" and ""T&T Caffè"" in the Rome area?",B,3.93,9.76,13.2,17.03
+70,"What is the distance between ""Villino Berti o Dionisi Spierer"" and ""Lotto 12"" in the Rome area?",A,5.08,0.51,1.26,8.18
+71,"What is the distance between ""Circoli Canottieri Tevere Remo"" and ""Téatro de 'Servi"" in the Rome area?",D,0.55,8.33,6.31,3.69
+72,"What is the distance between ""Il Piccolo Mondo"" and ""Fontana dell'obelisco Lateranense"" in the Rome area?",A,2.69,5.83,8.9,4.86
+73,"What is the distance between ""Banca Popolare Milano"" and ""Farmacia Molajoni"" in the Rome area?",A,3.4,7.09,8.25,0.57
+74,"What is the distance between ""Poliambulatorio Distretto 8"" and ""Trattoria Pizzeria da Simonetta"" in the Rome area?",D,1.41,5.44,9.46,3.08
+75,"What is the distance between ""Palestra Ferdinando Agnini"" and ""FC"" in the Rome area?",D,11.75,13.39,13.44,9.18
+76,"What is the distance between ""Giardino Antonio Maccanico"" and ""Centro di produzione TV Rai"" in the Rome area?",C,2.43,3.68,7.99,9.34
+77,"What is the distance between ""Virgin Active Roma Calasanzio"" and ""Circolo ricreativo ""Villa Lazzaroni"""" in the Rome area?",D,14.46,9.53,15.97,10.58
+78,"What is the distance between ""farmacia longo"" and ""Colli Albani Internet Point"" in the Rome area?",D,8.27,0.79,10.94,3.5
+79,"What is the distance between ""American Bar"" and ""Arco di Carlo Magno"" in the Rome area?",B,10.97,8.1,11.31,1.17
+80,"What is the distance between ""Taberna Persiana"" and ""Burger King"" in the Rome area?",C,11.82,11.04,4.36,0.93
+81,"What is the distance between ""Macina Pizzeria"" and ""Liceo Scientifico Statale Stanislao Cannizzaro"" in the Rome area?",D,7.27,4.3,13.67,8.38
+82,"What is the distance between ""Taverna Ripetta"" and ""Fontana del Facchino"" in the Rome area?",A,0.83,2.66,7.72,7.61
+83,"What is the distance between ""T&T Caffè"" and ""Cul de Sac"" in the Rome area?",A,4.85,11.92,6.57,1.67
+84,"What is the distance between ""Centro Culturale ""Gabriella Ferri"""" and ""Caserma militare ""Giuseppe Albanese Ruffo"""" in the Rome area?",C,4.63,6.76,1.66,4.13
+85,"What is the distance between ""Monte dei Paschi di Siena"" and ""Padre Pio Nomentana"" in the Rome area?",C,8.34,11.97,7.0,5.63
+86,"What is the distance between ""Piscina dei tuffi"" and ""Teatro della Cometa"" in the Rome area?",D,5.85,12.2,9.36,4.65
+87,"What is the distance between ""Banca Popolare Etica Scpa"" and ""Canonica"" in the Rome area?",B,1.01,2.74,5.58,8.37
+88,"What is the distance between ""AquaMadre Hammam"" and ""Q8"" in the Rome area?",B,2.63,4.03,6.98,7.27
+89,"What is the distance between ""Bar Duranti"" and ""Li Rong Caffè"" in the Rome area?",C,10.46,0.73,4.23,1.64
+90,"What is the distance between ""Wine Bar De Penitenzieri"" and ""Sundarban"" in the Rome area?",C,11.39,10.84,6.88,1.96
+91,"What is the distance between ""FC"" and ""Area studio zoologia"" in the Rome area?",A,4.62,2.32,11.83,3.52
+92,"What is the distance between ""Centro di produzione TV Rai"" and ""Mercato di Via Orvieto"" in the Rome area?",C,2.56,3.89,6.61,14.21
+93,"What is the distance between ""Bar Maccagno"" and ""Anytime Fitness - Roma Via dei Crispolti"" in the Rome area?",A,9.18,16.78,6.03,15.65
+94,"What is the distance between ""Palazzo ex Banco di Napoli"" and ""Casetta Mattei"" in the Rome area?",D,1.96,11.22,12.82,7.61
+95,"What is the distance between ""Santa Libbirata- La Carretteria"" and ""Old Moon"" in the Rome area?",A,7.24,12.13,0.78,12.39
+96,"What is the distance between ""Pizza Rosy"" and ""Ara Pacis"" in the Rome area?",B,12.91,5.17,7.1,8.64
+97,"What is the distance between ""Basilica di Santa Cecilia in Trastevere"" and ""City Dog Parioli"" in the Rome area?",B,10.45,6.05,9.58,2.4
+98,"What is the distance between ""Ambasciata del Messico"" and ""ELIS"" in the Rome area?",C,6.63,8.63,3.45,0.65
+99,"What is the distance between ""Il Campidano"" and ""Serial Griller"" in the Rome area?",B,12.61,7.97,12.81,2.24
+100,"What is the distance between ""Ricercatezze"" and ""Taverna della Scala"" in the Rome area?",D,9.78,0.58,5.47,7.2
+101,"What is the distance between ""Al Vantaggio"" and ""Blanco"" in the Rome area?",D,8.75,2.72,1.5,5.44
+102,"What is the distance between ""Caffé dell'Anima"" and ""Bottega 31"" in the Rome area?",B,8.83,0.99,3.71,5.42
+103,"What is the distance between ""Er Pozzo Der Gelato"" and ""Monte dei Paschi di Siena"" in the Rome area?",C,4.98,2.82,6.94,13.88
+104,"What is the distance between ""Campo nomadi Via dei Gordiani"" and ""Istituto paritario San Benedetto"" in the Rome area?",C,4.95,5.93,1.29,8.89
+105,"What is the distance between ""Capranica"" and ""Federica & Barbara of BB Kitchen"" in the Rome area?",C,7.65,7.18,1.26,8.3
+106,"What is the distance between ""Studio Radiologico Casilino"" and ""Trattoria Re di Roma"" in the Rome area?",B,0.86,4.4,1.08,8.48
+107,"What is the distance between ""Garden Risto'"" and ""Liceo scientifico Isacco Newton - sede Olmata"" in the Rome area?",A,5.19,3.26,0.75,0.67
+108,"What is the distance between ""Casa della madre e del bambino"" and ""PiM"" in the Rome area?",C,11.97,12.11,9.19,3.6
+109,"What is the distance between ""Change"" and ""Bar Angeli"" in the Rome area?",B,8.82,3.98,10.8,9.9
+110,"What is the distance between ""Pizza Flash"" and ""Banco di Sardegna"" in the Rome area?",D,6.89,2.96,6.23,4.74
+111,"What is the distance between ""PiM"" and ""Caserma Lante Della Rovere"" in the Rome area?",B,4.75,0.81,2.58,5.46
+112,"What is the distance between ""Villa York"" and ""Campo da calcio"" in the Rome area?",B,15.73,9.92,16.78,13.56
+113,"What is the distance between ""Highlands Institute"" and ""Vecchia Roma"" in the Rome area?",C,0.71,4.39,7.17,1.53
+114,"What is the distance between ""IH Hotel"" and ""Palazzina Samoggia"" in the Rome area?",D,8.67,7.67,12.28,4.63
+115,"What is the distance between ""Parcheggio Saba Villa Borghese"" and ""Biblioteca interdipartimentale di Medicina - sede Psichiatria e psicologia clinica"" in the Rome area?",C,0.88,1.05,2.71,9.07
+116,"What is the distance between ""Palazzo Gabrielli Marescotti Berardi"" and ""Palazzo Senatorio"" in the Rome area?",D,3.88,8.55,6.63,0.64
+117,"What is the distance between ""Banco di Sardegna"" and ""Pizzeria 3 fratelli"" in the Rome area?",D,11.31,1.94,9.6,5.73
+118,"What is the distance between ""Taverna della Scala"" and ""Farmacia Mazzini"" in the Rome area?",D,4.18,5.35,7.0,2.74
+119,"What is the distance between ""Edicola"" and ""Rimessa ATAC Portonaccio"" in the Rome area?",B,8.09,3.06,1.91,10.78
+120,"What is the distance between ""Tesla"" and ""Crédit Agricole"" in the Rome area?",A,6.89,12.25,14.12,3.75
+121,"What is the distance between ""Macello IV"" and ""Piante e Fiori Irene"" in the Rome area?",B,3.29,1.17,8.94,5.14
+122,"What is the distance between ""Miami"" and ""The Club 98"" in the Rome area?",B,9.41,1.84,4.32,6.03
+123,"What is the distance between ""Conad"" and ""Forum Austriaco di Cultura"" in the Rome area?",B,11.91,7.3,8.38,8.95
+124,"What is the distance between ""Ristorante Stellina Garbatella"" and ""Superciccio"" in the Rome area?",C,5.27,5.7,1.51,8.68
+125,"What is the distance between ""Minipizza"" and ""Hosteria la Vacca M'briaca"" in the Rome area?",A,6.18,2.1,1.89,3.02
+126,"What is the distance between ""Burbee"" and ""Dott.ssa Simona Guglielmucci"" in the Rome area?",D,6.87,11.38,7.84,5.05
+127,"What is the distance between ""Sushi Jiro"" and ""Farmacia Umbra"" in the Rome area?",D,6.9,1.96,9.86,3.92
+128,"What is the distance between ""Palazzo Wedekind"" and ""Piazza di Santa Caterina della Rota"" in the Rome area?",A,0.97,8.95,4.0,7.33
+129,"What is the distance between ""Snack Bar"" and ""Gran Caffè"" in the Rome area?",A,2.99,10.48,0.97,10.55
+130,"What is the distance between ""Honkytonk Bar"" and ""Carrè Monti"" in the Rome area?",B,9.74,3.71,6.16,7.6
+131,"What is the distance between ""Antiquarium Forense"" and ""Compro oro"" in the Rome area?",D,6.07,11.16,4.34,8.89
+132,"What is the distance between ""Villino Cappellini"" and ""Largo Santi Romano"" in the Rome area?",B,3.96,6.6,3.59,10.26
+133,"What is the distance between ""Grande Cisterna"" and ""Bocciofila Sabaudia"" in the Rome area?",D,10.81,5.9,10.42,7.15
+134,"What is the distance between ""Il Pozetto"" and ""Censured Gay Cruising Bar"" in the Rome area?",C,5.7,1.07,3.03,9.8
+135,"What is the distance between ""Parafarmacia Igea Gemelli"" and ""Pizza Cilento"" in the Rome area?",C,4.63,5.32,6.48,2.18
+136,"What is the distance between ""Istituto paritario San Benedetto"" and ""Istituto Poligrafico e Zecca dello Stato"" in the Rome area?",C,8.44,1.33,3.67,10.22
+137,"What is the distance between ""Mare Blu"" and ""La Capitale"" in the Rome area?",D,3.64,12.34,3.43,6.4
+138,"What is the distance between ""Arancina Matta"" and ""Enel X"" in the Rome area?",A,3.02,4.98,10.94,7.26
+139,"What is the distance between ""Garage"" and ""Fontanella nel Parco pubblico"" in the Rome area?",B,2.0,9.9,2.39,11.06
+140,"What is the distance between ""Cisco Collatino"" and ""Museo dell'Ara Pacis"" in the Rome area?",B,1.19,6.88,1.06,1.57
+141,"What is the distance between ""Tre de Tutto"" and ""Gelateria dei Gracchi"" in the Rome area?",C,6.8,6.91,5.71,7.99
+142,"What is the distance between ""Reale"" and ""Asilo comunale Via Fiuggi-Trilussa"" in the Rome area?",B,1.31,7.1,2.0,0.5
+143,"What is the distance between ""Fata Morgana"" and ""AquaMadre Hammam"" in the Rome area?",D,6.63,8.86,5.21,3.26
+144,"What is the distance between ""Museo dell'Ara Pacis"" and ""Conad"" in the Rome area?",B,8.44,5.87,11.49,1.61
+145,"What is the distance between ""Pizzadí di Flavio e Valeria"" and ""Nativa Ristorante"" in the Rome area?",D,11.26,16.12,2.75,8.59
+146,"What is the distance between ""Da Marco"" and ""La Punta Expendio de Agave"" in the Rome area?",D,7.65,3.99,6.23,1.68
+147,"What is the distance between ""Foro Olitorio"" and ""Da Roberto e Loretta"" in the Rome area?",A,2.52,5.07,5.21,6.43
+148,"What is the distance between ""Ristochicco"" and ""alla Rampa"" in the Rome area?",C,3.57,4.75,1.79,9.76
+149,"What is the distance between ""Largo Madonna della Guardia"" and ""Bola Padel Club"" in the Rome area?",C,14.86,4.4,6.94,5.78
+150,"What is the distance between ""Basilica di San Sisto Vecchio"" and ""Foro Olitorio"" in the Rome area?",A,1.77,4.33,7.06,7.74
+151,"What is the distance between ""Colonnacce"" and ""Accademia di Romania Istituzione Culturale Straniera"" in the Rome area?",B,8.27,2.69,9.06,6.03
+152,"What is the distance between ""Piazza dei Servili"" and ""Scuola primaria Romolo Balzani"" in the Rome area?",B,2.85,6.14,9.63,4.89
+153,"What is the distance between ""Guardia di Finanza - Primo nucleo operativo metropolitano di Roma"" and ""Luciano"" in the Rome area?",A,6.62,14.17,0.9,4.66
+154,"What is the distance between ""Ostiense Adiac. Magliana"" and ""Teatro all'aperto Ettore Scola"" in the Rome area?",B,3.76,8.21,3.7,11.75
+155,"What is the distance between ""Campo base Linea C"" and ""Macello IV"" in the Rome area?",A,7.02,3.38,2.71,4.0
+156,"What is the distance between ""Body-Arts"" and ""American Bar"" in the Rome area?",C,2.39,10.11,4.04,11.91
+157,"What is the distance between ""Giardino Francesco Albani"" and ""Antiquarium Forense"" in the Rome area?",D,5.51,0.72,10.01,4.41
+158,"What is the distance between ""mi 'ndujo"" and ""Oz"" in the Rome area?",C,8.73,10.59,7.23,2.31
+159,"What is the distance between ""Banco BPM"" and ""O sole e Napule"" in the Rome area?",D,0.7,0.8,5.93,4.85
+160,"What is the distance between ""Junsei Sushi"" and ""Bar Duranti"" in the Rome area?",A,6.46,3.03,10.49,13.82
+161,"What is the distance between ""Forno Monteforte"" and ""Gelateria ICarusO"" in the Rome area?",D,2.79,2.86,4.86,1.17
+162,"What is the distance between ""Alaska Gelateria"" and ""AlfreChic"" in the Rome area?",C,10.89,13.99,6.82,1.42
+163,"What is the distance between ""La Casa del Caffè Tazza D’oro"" and ""Osteria Chiana"" in the Rome area?",D,6.29,11.02,0.74,3.32
+164,"What is the distance between ""Abbazia delle Tre Fontane"" and ""Cheers"" in the Rome area?",D,3.34,5.27,7.74,11.11
+165,"What is the distance between ""Centro Servizi Lante"" and ""Amadio"" in the Rome area?",A,3.07,6.19,9.56,7.55
+166,"What is the distance between ""Asilo comunale Via Fiuggi-Trilussa"" and ""Poste Italiane"" in the Rome area?",A,6.72,10.29,0.6,10.75
+167,"What is the distance between ""Soft Ippocrate"" and ""Antica DOMUS"" in the Rome area?",C,0.59,7.61,3.03,4.43
+168,"What is the distance between ""Fontana dell'obelisco Lateranense"" and ""Opera Italiana"" in the Rome area?",B,2.82,1.77,7.59,4.43
+169,"What is the distance between ""CSOA Spartaco"" and ""Via di Santa Dorotea"" in the Rome area?",A,8.26,15.84,2.91,11.02
+170,"What is the distance between ""Ceccacci"" and ""Bimbi Bar"" in the Rome area?",A,1.84,4.82,8.06,3.44
+171,"What is the distance between ""Conca d'Oro"" and ""L'angolo"" in the Rome area?",D,10.54,6.62,3.08,5.38
+172,"What is the distance between ""Santa Maria in Aracoeli"" and ""Ostiense Adiac. Magliana"" in the Rome area?",B,13.07,6.27,4.54,2.52
+173,"What is the distance between ""Retitalia"" and ""Macina Pizzeria"" in the Rome area?",B,0.98,7.61,1.1,9.48
+174,"What is the distance between ""De Gasperi"" and ""Garage Bertone"" in the Rome area?",A,5.27,4.24,9.2,12.53
+175,"What is the distance between ""Federica & Barbara of BB Kitchen"" and ""GioMà Pizzeria Romana"" in the Rome area?",B,12.72,8.15,14.15,9.25
+176,"What is the distance between ""Mangio"" and ""Agip"" in the Rome area?",B,8.87,4.08,5.77,1.17
+177,"What is the distance between ""Opera Italiana"" and ""Osteria ""La terrazza"""" in the Rome area?",B,11.02,5.51,7.57,10.38
+178,"What is the distance between ""Italferr S.p.A."" and ""Palazzo Torlonia"" in the Rome area?",A,9.01,3.57,14.37,11.26
+179,"What is the distance between ""Sfasciacarrozze"" and ""Ambasciata del Messico"" in the Rome area?",A,5.49,1.29,8.64,11.54
+180,"What is the distance between ""Caserma militare ""Giuseppe Albanese Ruffo"""" and ""Ospedale Pediatrico Bambino Gesù"" in the Rome area?",B,13.99,8.31,4.68,11.41
+181,"What is the distance between ""Birr...Amo"" and ""Baby Bar"" in the Rome area?",B,14.08,7.11,2.18,11.91
+182,"What is the distance between ""Superciccio"" and ""Papa's Cafe"" in the Rome area?",D,10.56,2.42,11.47,5.58
+183,"What is the distance between ""L'angolo del caffè"" and ""Fatamorgana"" in the Rome area?",A,9.03,9.96,10.88,11.26
+184,"What is the distance between ""Air Music di Costantini Claudio"" and ""Forte Portuense"" in the Rome area?",A,9.02,11.2,12.05,5.96
+185,"What is the distance between ""Luciano e Sandro"" and ""Il Campidano"" in the Rome area?",D,13.46,8.45,20.25,12.3
+186,"What is the distance between ""I cognati"" and ""Ufficio postale 55329 – Roma 54"" in the Rome area?",A,2.56,1.22,8.59,1.18
+187,"What is the distance between ""Miss Music"" and ""Mo's Gelaterie"" in the Rome area?",B,12.72,10.28,15.99,7.99
+188,"What is the distance between ""IC Parco degli Acquedotti"" and ""Abbazia delle Tre Fontane"" in the Rome area?",C,13.5,1.52,6.67,3.38
+189,"What is the distance between ""Il principe del gelato 2"" and ""Poliambulatorio Distretto 8"" in the Rome area?",A,4.54,10.75,9.74,1.37
+190,"What is the distance between ""Magnolia"" and ""McDonald's"" in the Rome area?",A,2.21,4.53,7.21,3.64
+191,"What is the distance between ""Oishi Restaurant"" and ""Palestra Ferdinando Agnini"" in the Rome area?",B,4.18,9.19,16.52,7.54
+192,"What is the distance between ""Fabrica"" and ""Il Piccolo Mondo"" in the Rome area?",A,2.99,9.15,5.66,9.02
+193,"What is the distance between ""iperoil"" and ""Al Vantaggio"" in the Rome area?",A,2.52,10.42,6.18,1.11
+194,"What is the distance between ""Life Ristorante"" and ""Yes Food"" in the Rome area?",C,5.32,8.83,7.54,1.21
+195,"What is the distance between ""Kalù Kafè"" and ""Pad Thai Kung - Aurelia"" in the Rome area?",C,4.74,10.51,2.54,6.21
+196,"What is the distance between ""Farmacia Mazzini"" and ""CSOA Forte Prenestino"" in the Rome area?",D,8.04,12.74,15.83,9.18
+197,"What is the distance between ""Forum Austriaco di Cultura"" and ""Pontificia Università Urbaniana"" in the Rome area?",B,5.43,2.71,6.36,5.67
+198,"What is the distance between ""Mercato Rionale Colli Aniene"" and ""Air Music di Costantini Claudio"" in the Rome area?",B,10.79,11.99,8.09,7.76
+199,"What is the distance between ""Sakura e Koi"" and ""Ami pokè"" in the Rome area?",A,7.72,13.87,6.01,10.73
+200,"What is the distance between ""Roadhouse"" and ""Circoli Canottieri Tevere Remo"" in the Rome area?",D,10.32,2.61,13.59,8.99
+201,"What is the distance between ""Carrè Monti"" and ""Casa dell'acqua"" in the Rome area?",D,7.15,6.54,11.55,3.55
+202,"What is the distance between ""Terminal Gianicolo, Auto Park"" and ""Mare Blu"" in the Rome area?",D,10.12,0.83,14.48,8.71
+203,"What is the distance between ""Mercato dei Fiori"" and ""Largo Madonna della Guardia"" in the Rome area?",C,5.8,6.41,0.97,2.02
+204,"What is the distance between ""Padre Pio Nomentana"" and ""Happy Bar Gima"" in the Rome area?",C,7.27,1.96,4.24,5.21
+205,"What is the distance between ""La Famiglia"" and ""Bufala & Pachino"" in the Rome area?",C,7.99,1.87,0.59,8.32
+206,"What is the distance between ""Bimbi Bar"" and ""Miami"" in the Rome area?",B,11.73,5.41,7.71,10.15
+207,"What is the distance between ""Teatro della Cometa"" and ""Consolini"" in the Rome area?",A,1.33,7.28,7.89,2.84
+208,"What is the distance between ""Agip"" and ""MEDICHINI LEX"" in the Rome area?",C,8.53,5.61,4.57,7.36
+209,"What is the distance between ""Parco Giovannipoli"" and ""Santa Barbara dei Librai"" in the Rome area?",A,3.83,5.5,1.62,1.43
+210,"What is the distance between ""Adventure Rooms"" and ""Piano Strada Laboratorio di Cucina"" in the Rome area?",D,6.88,2.12,3.87,5.76
+211,"What is the distance between ""Palazzo Senatorio"" and ""Il Capriccio Del Fiore"" in the Rome area?",A,7.69,14.84,15.14,12.99
+212,"What is the distance between ""Sama bar"" and ""Ninkasi Beershop"" in the Rome area?",C,12.94,3.3,8.33,14.88
+213,"What is the distance between ""Antica Bohéme"" and ""Banca Intesa"" in the Rome area?",B,3.46,6.07,1.24,1.32
+214,"What is the distance between ""Canonica"" and ""Fornocaffè"" in the Rome area?",C,11.06,11.43,7.7,14.85
+215,"What is the distance between ""Biblioteca Joyce Lussu"" and ""Alle Carrette"" in the Rome area?",C,6.83,7.94,4.12,6.84
+216,"What is the distance between ""Rai Radio 3 Classica"" and ""New Black Body"" in the Rome area?",A,10.67,15.02,9.08,7.88
+217,"What is the distance between ""Oz"" and ""The blue bar"" in the Rome area?",B,1.19,8.2,2.5,9.52
+218,"What is the distance between ""Musei Vaticani"" and ""Grattacheccaro ""Alla Fonte d'Oro"""" in the Rome area?",D,10.16,5.88,0.58,2.49
+219,"What is the distance between ""Dar Poeta Alla Scala"" and ""Terre e Domus"" in the Rome area?",B,2.5,1.41,2.86,3.42
+220,"What is the distance between ""Fornocaffè"" and ""Cariparma Crédit Agricole"" in the Rome area?",B,10.31,9.04,12.83,6.91
+221,"What is the distance between ""l'incontro"" and ""ilGaudio"" in the Rome area?",B,9.7,2.27,1.0,8.6
+222,"What is the distance between ""Forno Boccione"" and ""Snack Bar"" in the Rome area?",D,1.13,0.75,3.08,4.2
+223,"What is the distance between ""Castel Sant'Angelo"" and ""BURRO"" in the Rome area?",A,8.85,7.82,7.67,15.19
+224,"What is the distance between ""Sora Lella"" and ""Caffè Roma Gelateria"" in the Rome area?",A,1.2,5.69,2.14,5.58
+225,"What is the distance between ""San Pantaleo"" and ""Parco Giovannipoli"" in the Rome area?",C,11.9,2.4,4.09,6.57
+226,"What is the distance between ""Hi Baozi"" and ""White Cafè"" in the Rome area?",D,9.02,4.3,13.33,7.56
+227,"What is the distance between ""Antica Spezieria di Santa Maria della Scala"" and ""Est Est Est!"" in the Rome area?",C,0.98,10.21,2.22,1.16
+228,"What is the distance between ""Cul de Sac"" and ""Club 70"" in the Rome area?",C,11.39,15.11,7.46,6.19
+229,"What is the distance between ""Scuola secondaria Vincenzo Bellini"" and ""Colonnacce"" in the Rome area?",A,8.26,5.22,2.47,10.74
+230,"What is the distance between ""Poste Italiane"" and ""Pizza Store"" in the Rome area?",B,10.64,4.76,9.05,10.52
+231,"What is the distance between ""City Dog Parioli"" and ""Meucci20"" in the Rome area?",D,1.35,2.83,5.56,9.0
+232,"What is the distance between ""Klang Roma"" and ""Comunità ellenica di Roma e del Lazio"" in the Rome area?",C,10.87,6.77,3.03,9.59
+233,"What is the distance between ""Taggia"" and ""CP Portonaccio"" in the Rome area?",D,16.96,14.08,14.63,10.07
+234,"What is the distance between ""Vittorio Central Mosque"" and ""Pizza Flash"" in the Rome area?",A,6.07,3.19,4.01,1.05
+235,"What is the distance between ""Rai Radio 2"" and ""Scuola primaria Don M. Rua"" in the Rome area?",B,13.07,11.12,17.2,16.29
+236,"What is the distance between ""Down Under"" and ""Is Arenas"" in the Rome area?",C,10.06,7.96,4.3,11.56
+237,"What is the distance between ""Area studio zoologia"" and ""Alaska Gelateria"" in the Rome area?",C,12.13,1.09,5.98,11.86
+238,"What is the distance between ""Piano Zero - Pizzeria Bistrot"" and ""Caffè Guadagnino"" in the Rome area?",C,2.07,8.47,4.9,1.85
+239,"What is the distance between ""Hotel Mediterraneo"" and ""Astoria Garden"" in the Rome area?",C,6.95,3.63,0.61,8.5
+240,"What is the distance between ""Il Capriccio Del Fiore"" and ""Casetta Rossa"" in the Rome area?",D,10.23,10.72,3.77,4.96
+241,"What is the distance between ""Gelato sulle Nuvole"" and ""Sottosopra"" in the Rome area?",B,4.43,5.34,11.68,11.86
+242,"What is the distance between ""Ara Pacis"" and ""Studio Radiologico Casilino"" in the Rome area?",C,1.44,0.54,8.23,14.36
+243,"What is the distance between ""Caffe Tevere"" and ""Tommi's Burger Joint"" in the Rome area?",D,9.47,6.83,8.71,3.85
+244,"What is the distance between ""Istituto Villa Flaminia"" and ""Cacciarella"" in the Rome area?",A,6.84,1.77,14.63,8.53
+245,"What is the distance between ""Santa Barbara dei Librai"" and ""San Raffaele Portuense"" in the Rome area?",D,9.19,6.69,5.84,3.92
+246,"What is the distance between ""Coinbar Roma – Barberini"" and ""Il bar sotto al mare"" in the Rome area?",D,1.26,5.78,6.17,3.27
+247,"What is the distance between ""Piazza Benedetto Brin"" and ""Chiesa di Santa Maria Immacolata all'Esquilino"" in the Rome area?",D,4.73,10.96,1.2,3.76
+248,"What is the distance between ""Téatro de 'Servi"" and ""Palazzo di Gaetano Koch a Piazza Vittorio Emanuele II 110"" in the Rome area?",B,8.87,1.99,3.86,4.17
+249,"What is the distance between ""Comunità ellenica di Roma e del Lazio"" and ""Daniel Gelo"" in the Rome area?",B,1.1,4.65,10.82,12.26
+250,"What is the distance between ""Liceo Scientifico Statale Stanislao Cannizzaro"" and ""L'angolo del caffè"" in the Rome area?",B,5.13,1.86,3.43,9.12
+251,"What is the distance between ""Club 70"" and ""Caffé dell'Anima"" in the Rome area?",B,8.71,7.62,3.81,15.36
+252,"What is the distance between ""Anytime Fitness - Roma Via dei Crispolti"" and ""Sogni di pizza"" in the Rome area?",A,2.92,8.88,1.95,8.35
+253,"What is the distance between ""Fontana del Facchino"" and ""Piano Zero - Pizzeria Bistrot"" in the Rome area?",C,11.39,14.22,8.34,9.39
+254,"What is the distance between ""Mensa universitaria Vasca Navale"" and ""Castel Sant'Angelo"" in the Rome area?",B,10.01,5.21,7.43,4.17
+255,"What is the distance between ""Alle Carrette"" and ""Evo Hosteria"" in the Rome area?",D,9.0,4.57,8.2,1.85
+256,"What is the distance between ""Ospedale Pediatrico Bambino Gesù"" and ""Tribunale civile di Roma"" in the Rome area?",B,3.58,1.78,7.92,5.65
+257,"What is the distance between ""Old Wild West"" and ""Tamoil"" in the Rome area?",B,4.15,11.62,13.37,7.22
+258,"What is the distance between ""Pad Thai Kung - Aurelia"" and ""Eni"" in the Rome area?",A,9.58,6.27,6.57,5.85
+259,"What is the distance between ""Pizza Cilento"" and ""Mensa universitaria Vasca Navale"" in the Rome area?",C,8.92,4.74,6.69,11.92
+260,"What is the distance between ""Achille al Pantheon"" and ""La Cantina Galeone"" in the Rome area?",C,4.1,2.66,1.55,4.66
+261,"What is the distance between ""Forte Portuense"" and ""San Pantaleo"" in the Rome area?",A,4.85,1.27,8.11,10.7
+262,"What is the distance between ""Piazza Edoardo Masdea"" and ""Scuola Federico Di Donato"" in the Rome area?",D,6.4,6.84,8.17,3.63
+263,"What is the distance between ""Al Peperoncino"" and ""Caffè Braccio"" in the Rome area?",B,5.65,3.05,6.1,8.81
+264,"What is the distance between ""TrattoRiot"" and ""Europharma"" in the Rome area?",A,3.83,10.41,7.01,7.73
+265,"What is the distance between ""The Club 98"" and ""San Silvestro Caffé"" in the Rome area?",A,4.48,6.55,7.86,1.88
+266,"What is the distance between ""Old Moon"" and ""Sicily By Car"" in the Rome area?",C,7.62,4.17,5.19,2.68
+267,"What is the distance between ""Mr. 100 Tiramisu"" and ""Bar Mauro"" in the Rome area?",C,2.59,11.63,3.66,8.0
+268,"What is the distance between ""Caffè Braccio"" and ""Casa delle Tecnologie emergenti (CTE)"" in the Rome area?",B,10.97,5.15,9.57,9.01
+269,"What is the distance between ""Trattoria Pizzeria da Simonetta"" and ""Panino Divino"" in the Rome area?",B,6.46,5.08,0.73,0.99
+270,"What is the distance between ""Casa delle Tecnologie emergenti (CTE)"" and ""farmacia longo"" in the Rome area?",B,1.21,2.74,7.86,0.84
+271,"What is the distance between ""Sicily By Car"" and ""Le Caravelle"" in the Rome area?",C,4.75,6.41,8.0,10.17
+272,"What is the distance between ""Campo da calcio"" and ""Villino Cappellini"" in the Rome area?",C,1.74,9.45,5.24,2.49
+273,"What is the distance between ""Porta Turrionis"" and ""Mercato Circonvallazione Ostiense"" in the Rome area?",A,4.45,10.93,2.55,2.45
+274,"What is the distance between ""The Meat Market"" and ""Da Marco"" in the Rome area?",A,4.62,7.9,3.01,9.98
+275,"What is the distance between ""Two Sizes"" and ""Haus garten Bagel Bar"" in the Rome area?",D,9.5,0.58,5.06,2.24
+276,"What is the distance between ""Scuola secondaria Via Torre Annunziata"" and ""Hotel Mediterraneo"" in the Rome area?",D,1.51,9.13,10.98,4.21
+277,"What is the distance between ""Ambulatorio Veterinario"" and ""Taverna Sciuscella"" in the Rome area?",C,7.46,6.68,5.2,10.29
+278,"What is the distance between ""Palazzo di Gaetano Koch a Piazza Vittorio Emanuele II 110"" and ""Autolavaggio la palma"" in the Rome area?",A,4.69,10.44,7.95,6.62
+279,"What is the distance between ""Le Caravelle"" and ""Jiang erlang"" in the Rome area?",C,12.18,12.11,5.63,2.69
+280,"What is the distance between ""Fraschetta da sandro"" and ""Ristorante Eleonora d’Arborea"" in the Rome area?",D,11.52,9.93,1.88,5.01
+281,"What is the distance between ""Da Roberto e Loretta"" and ""Arco degli Acetari"" in the Rome area?",D,4.41,6.2,5.75,3.44
+282,"What is the distance between ""Scuola primaria Romolo Balzani"" and ""Porta Turrionis"" in the Rome area?",B,12.93,8.35,10.27,10.43
+283,"What is the distance between ""Gelateria N2"" and ""Minipizza"" in the Rome area?",A,10.56,9.03,3.86,12.4
+284,"What is the distance between ""Gaetano Costa"" and ""Enoteca Barberini"" in the Rome area?",D,8.04,4.31,7.01,0.66
+285,"What is the distance between ""Centro Odontoiatrico Montanari"" and ""Anvedi Tuscolana"" in the Rome area?",B,7.72,5.21,9.58,7.23
+286,"What is the distance between ""Fort Apache Steak House"" and ""Reale"" in the Rome area?",C,13.42,12.11,10.02,11.31
+287,"What is the distance between ""Amadio"" and ""iperoil"" in the Rome area?",C,2.71,5.9,7.85,11.15
+288,"What is the distance between ""Luciano"" and ""USI – Tuscolana"" in the Rome area?",B,8.62,4.61,7.59,6.03
+289,"What is the distance between ""San Raffaele Portuense"" and ""Università Roma Tre - Ex Tommaseo"" in the Rome area?",B,7.43,2.53,5.44,4.99
+290,"What is the distance between ""Istituto Poligrafico e Zecca dello Stato"" and ""Chiesa di San Gerardo Maiella"" in the Rome area?",C,4.88,0.76,3.06,10.21
+291,"What is the distance between ""Basilica del Sacro Cuore di Cristo Re"" and ""Edicola da Francesca"" in the Rome area?",D,13.31,1.66,15.19,7.5
+292,"What is the distance between ""IP"" and ""Poste Italiane – Roma Piazza Dante"" in the Rome area?",B,0.9,3.04,6.98,5.4
+293,"What is the distance between ""Fatamorgana"" and ""Hi Baozi"" in the Rome area?",A,8.55,11.7,13.63,3.68
+294,"What is the distance between ""Alcazar"" and ""Aux Trois Truffes"" in the Rome area?",D,6.05,9.25,8.75,1.32
+295,"What is the distance between ""Compost di quartiere"" and ""Pizzeria del Gufetto"" in the Rome area?",B,13.41,8.04,12.5,6.95
+296,"What is the distance between ""Moby Dick"" and ""Terminal Gianicolo, Auto Park"" in the Rome area?",B,9.01,4.67,6.88,11.17
+297,"What is the distance between ""Università Roma Tre - Ex Tommaseo"" and ""Piazza Edoardo Masdea"" in the Rome area?",B,4.14,0.67,2.3,7.66
+298,"What is the distance between ""Farmacia Molajoni"" and ""Ristorante Pizzeria I Fratelli"" in the Rome area?",A,3.58,7.38,9.16,11.53
+299,"What is the distance between ""Ambulatorio veterinario Spiezia"" and ""Ricercatezze"" in the Rome area?",A,4.03,0.87,6.58,1.14
+300,"What is the distance between ""La Cantina Galeone"" and ""Ceccacci"" in the Rome area?",A,2.9,5.86,4.05,1.42
+301,"What is the distance between ""Aux Trois Truffes"" and ""Er Caffettiere"" in the Rome area?",A,1.74,5.91,4.81,8.22
+302,"What is the distance between ""Est Est Est!"" and ""Santa Libbirata- La Carretteria"" in the Rome area?",D,11.51,10.67,6.24,4.19
+303,"What is the distance between ""Ris Cafè Pub & Restaurant"" and ""Forno Boccione"" in the Rome area?",A,2.22,1.26,3.18,9.14
+304,"What is the distance between ""Vecchia Roma"" and ""Fatamorgana Centro Storico"" in the Rome area?",A,2.34,0.54,1.2,8.19
+305,"What is the distance between ""Farmacia Carnovale"" and ""Achille al Pantheon"" in the Rome area?",C,1.66,10.44,6.69,12.12
+306,"What is the distance between ""Cantina Tirolese"" and ""Ambulatorio Veterinario"" in the Rome area?",A,1.51,6.87,0.52,7.98
+307,"What is the distance between ""Osteria ""La terrazza"""" and ""Banca Popolare Milano"" in the Rome area?",D,3.02,9.58,14.53,6.78
+308,"What is the distance between ""Casa dell'acqua"" and ""Centro Servizi Lante"" in the Rome area?",C,3.7,15.85,7.95,14.03
+309,"What is the distance between ""Parcheggio AMA"" and ""Pago's"" in the Rome area?",D,2.74,12.01,14.27,7.09
+310,"What is the distance between ""Bar L'ottagono"" and ""Virgin Active Roma Calasanzio"" in the Rome area?",A,4.52,3.2,2.84,0.68
+311,"What is the distance between ""Parafarmacia"" and ""K2"" in the Rome area?",A,3.38,2.01,5.83,6.37
+312,"What is the distance between ""Happy Bar Gima"" and ""Farmacia Dott. Luciani"" in the Rome area?",C,17.48,15.13,10.7,14.8
+313,"What is the distance between ""USI – Tuscolana"" and ""Down Under"" in the Rome area?",A,7.05,1.38,3.99,8.93
+314,"What is the distance between ""Teatro Golden"" and ""Istituto scolastico Gesù-Maria"" in the Rome area?",A,7.5,2.03,9.68,6.06
+315,"What is the distance between ""Cariparma Crédit Agricole"" and ""Cineclub Alphaville"" in the Rome area?",B,7.61,5.88,12.29,2.83
+316,"What is the distance between ""Ami pokè"" and ""Antica Bohéme"" in the Rome area?",A,4.47,8.81,0.8,8.32
+317,"What is the distance between ""Liceo scientifico Isacco Newton - sede Olmata"" and ""Passetto di Borgo"" in the Rome area?",D,9.87,9.1,8.03,3.2
+318,"What is the distance between ""Ristorante Gattopardo"" and ""Babylon Café"" in the Rome area?",C,13.01,4.27,8.12,15.18
+319,"What is the distance between ""Residenza Luiss Via Lisbona"" and ""Avamposto dei Guardiani"" in the Rome area?",A,8.7,6.97,11.58,13.47
+320,"What is the distance between ""Tempio del Divo Giulio"" and ""Parco delle Energie"" in the Rome area?",C,5.6,6.66,4.24,8.37
+321,"What is the distance between ""Fontana del porto di Ripetta"" and ""Villa York"" in the Rome area?",D,9.41,8.39,9.59,5.84
+322,"What is the distance between ""Sfioratore di Piena Grottaperfetta"" and ""Ambasciata d'Austria"" in the Rome area?",A,7.69,11.25,14.27,9.71
+323,"What is the distance between ""Bocciofila Sabaudia"" and ""Scuola secondaria Vincenzo Bellini"" in the Rome area?",A,4.85,12.08,10.2,12.72
+324,"What is the distance between ""Pasta&Go"" and ""compagnia parioli"" in the Rome area?",B,2.7,4.39,1.06,7.47
+325,"What is the distance between ""Farmacia Umbra"" and ""Er Pozzo Der Gelato"" in the Rome area?",A,7.39,2.16,13.7,8.53
+326,"What is the distance between ""Nuraghe Sardo"" and ""mi 'ndujo"" in the Rome area?",D,6.37,9.87,5.9,3.31
+327,"What is the distance between ""La casa del Cremolato"" and ""Guardia di Finanza - Primo nucleo operativo metropolitano di Roma"" in the Rome area?",C,4.78,16.09,10.71,15.0
+328,"What is the distance between ""Aeroporto Militare Francesco Baracca"" and ""Partenope"" in the Rome area?",D,4.15,3.75,7.6,2.4
+329,"What is the distance between ""ELIS"" and ""Bar L'ottagono"" in the Rome area?",B,2.87,7.53,9.79,9.93
+330,"What is the distance between ""Anytime Fitness"" and ""Life Ristorante"" in the Rome area?",C,7.84,7.02,3.83,7.76
+331,"What is the distance between ""Trattoria Re di Roma"" and ""Pasta&Go"" in the Rome area?",C,6.24,1.3,3.9,1.85
+332,"What is the distance between ""Ufficio postale 55329 – Roma 54"" and ""Il Pozetto"" in the Rome area?",B,1.1,4.67,10.24,9.05
+333,"What is the distance between ""Istituto Pontificio Sant'Apollinare"" and ""UniCredit Bank"" in the Rome area?",B,12.96,8.08,12.14,2.77
+334,"What is the distance between ""Quello"" and ""Fonte Egeria"" in the Rome area?",B,5.52,3.86,6.63,2.33
+335,"What is the distance between ""Beirut"" and ""Hosteria del Mercato"" in the Rome area?",B,1.02,5.06,2.08,0.94
+336,"What is the distance between ""Baffetto 2"" and ""Miani"" in the Rome area?",B,3.26,4.75,6.76,6.98
+337,"What is the distance between ""Central Park"" and ""LoLa"" in the Rome area?",D,10.18,9.77,1.66,5.14
+338,"What is the distance between ""AlfreChic"" and ""Piccolo Buco"" in the Rome area?",C,7.74,5.0,2.28,5.64
+339,"What is the distance between ""Banca Popolare di Sondrio"" and ""Ex 51"" in the Rome area?",D,0.56,11.28,9.91,3.51
+340,"What is the distance between ""Chiesa di Santa Bibiana"" and ""Musei Vaticani"" in the Rome area?",D,9.98,9.06,9.53,4.84
+341,"What is the distance between ""Piccolo Buco"" and ""Gelato sulle Nuvole"" in the Rome area?",A,1.03,2.63,5.24,6.51
+342,"What is the distance between ""Parco 17 Aprile 1944"" and ""Basilica del Sacro Cuore di Cristo Re"" in the Rome area?",C,10.76,10.77,9.04,5.38
+343,"What is the distance between ""alla Rampa"" and ""Miss Music"" in the Rome area?",D,3.15,16.54,6.14,8.81
+344,"What is the distance between ""UnipolSai (ex Fondiaria-SAI)"" and ""Casa della madre e del bambino"" in the Rome area?",B,4.64,3.72,0.7,1.14
+345,"What is the distance between ""Gelateria ICarusO"" and ""De Gasperi"" in the Rome area?",C,10.56,2.37,7.33,1.98
+346,"What is the distance between ""Palazzo Boncomapagni Corcos"" and ""Impianto sportivo comunale Raimondo Vianello"" in the Rome area?",A,6.66,12.81,8.33,9.0
+347,"What is the distance between ""Largo Padre Leonardo Bello"" and ""Palazzo ex Banco di Napoli"" in the Rome area?",C,3.44,6.89,8.73,4.22
+348,"What is the distance between ""Istituto Centrale per la Grafica"" and ""Chiesa di Santa Bibiana"" in the Rome area?",B,7.53,2.24,9.9,8.74
+349,"What is the distance between ""Ambasciata d'Austria"" and ""Taggia"" in the Rome area?",C,8.1,13.34,6.09,2.01
+350,"What is the distance between ""Caffè Roma Gelateria"" and ""Parcheggio Saba Villa Borghese"" in the Rome area?",C,5.41,3.46,0.93,7.93
+351,"What is the distance between ""Lievito madre 00"" and ""Vittorio Central Mosque"" in the Rome area?",B,4.07,1.76,9.37,9.56
+352,"What is the distance between ""BURRO"" and ""Lievito madre 00"" in the Rome area?",D,11.71,3.11,2.92,4.95
+353,"What is the distance between ""Farmacia Dott. Luciani"" and ""Piscina dei tuffi"" in the Rome area?",A,10.49,2.95,6.49,4.44
+354,"What is the distance between ""Angolo Sciarra"" and ""Quello"" in the Rome area?",D,6.48,6.73,5.78,3.76
+355,"What is the distance between ""Sogni di pizza"" and ""Yogurteria"" in the Rome area?",C,12.63,3.91,6.93,12.8
+356,"What is the distance between ""Parcheggio motocicli e ciclomotori"" and ""Sushi Jiro"" in the Rome area?",B,11.12,3.12,9.98,4.04
+357,"What is the distance between ""Bowling Brunswick"" and ""Istituto Centrale per la Grafica"" in the Rome area?",D,7.26,6.44,6.93,3.61
+358,"What is the distance between ""Teatro Verde"" and ""Caffé Portioli"" in the Rome area?",A,4.94,10.17,8.48,6.62
+359,"What is the distance between ""Bottega Fienaroli"" and ""Biblioteca Joyce Lussu"" in the Rome area?",A,3.76,7.91,5.3,11.02
+360,"What is the distance between ""Bar Mauro"" and ""Caffe Tevere"" in the Rome area?",A,1.82,2.9,7.1,5.97
+361,"What is the distance between ""Largo Santi Romano"" and ""Città Equosolidale"" in the Rome area?",D,10.57,11.54,4.27,7.42
+362,"What is the distance between ""Grattacheccaro ""Alla Fonte d'Oro"""" and ""Virgin Active"" in the Rome area?",C,10.35,10.66,4.6,10.28
+363,"What is the distance between ""Fototessera"" and ""San Lollo"" in the Rome area?",C,6.47,4.53,1.68,3.12
+364,"What is the distance between ""Pizza Store"" and ""Lemongrass"" in the Rome area?",B,7.69,6.72,9.1,4.11
+365,"What is the distance between ""Hotel Camplus"" and ""Sfasciacarrozze"" in the Rome area?",D,13.62,10.62,3.44,9.3
+366,"What is the distance between ""La Cantina di Dante"" and ""Maritozzo Rosso"" in the Rome area?",D,4.73,13.45,6.87,8.2
+367,"What is the distance between ""Lotto 43"" and ""Villa Lante"" in the Rome area?",A,3.97,0.77,4.97,6.66
+368,"What is the distance between ""Banca Intesa"" and ""Birr...Amo"" in the Rome area?",B,13.46,9.1,10.99,14.21
+369,"What is the distance between ""Chiesa di Santa Maria Immacolata all'Esquilino"" and ""ACEA"" in the Rome area?",D,9.51,1.0,3.59,2.68
+370,"What is the distance between ""Fontana dei Libri"" and ""Ristorante Casa del Gusto"" in the Rome area?",C,8.81,8.62,2.86,9.78
+371,"What is the distance between ""Caffé Portioli"" and ""Biblioteca interdipartimentale di Medicina - sede Organi di senso"" in the Rome area?",A,3.79,4.78,2.3,2.25
+372,"What is the distance between ""L'angolo"" and ""Forno Monteforte"" in the Rome area?",B,5.56,3.41,1.49,4.83
+373,"What is the distance between ""Caffetteria del Chiostro del Bramante"" and ""I.C. Giorgio Perlasca - Via Pomona"" in the Rome area?",C,4.87,13.07,7.14,5.54
+374,"What is the distance between ""Tamoil"" and ""Versatile"" in the Rome area?",B,2.13,7.46,8.77,10.58
+375,"What is the distance between ""Nuovo Trasporto Viaggiatori"" and ""Mercato dei Fiori"" in the Rome area?",C,6.05,1.21,4.64,7.26
+376,"What is the distance between ""Rimessa ATAC Portonaccio"" and ""Casino di Villa Gabrielli al Gianicolo"" in the Rome area?",A,6.39,1.23,10.67,11.61
+377,"What is the distance between ""The blue bar"" and ""Blue Ice"" in the Rome area?",D,8.27,13.88,2.88,7.11
+378,"What is the distance between ""Bar Brandi"" and ""Mangio"" in the Rome area?",A,6.91,11.52,8.02,14.24
+379,"What is the distance between ""Accademia Belgica"" and ""Centro Culturale ""Gabriella Ferri"""" in the Rome area?",A,5.0,3.83,0.93,2.72
+380,"What is the distance between ""Sundarban"" and ""Bar Brandi"" in the Rome area?",B,12.01,5.83,9.6,9.58
+381,"What is the distance between ""Taxi Emporio 060609"" and ""La Barrique"" in the Rome area?",A,2.06,9.34,0.52,4.92
+382,"What is the distance between ""Bunker Villa Ada Savoia"" and ""Antica Spezieria di Santa Maria della Scala"" in the Rome area?",D,7.35,3.09,10.71,4.98
+383,"What is the distance between ""Pizzeria 3 fratelli"" and ""Old Wild West"" in the Rome area?",B,3.39,9.59,14.9,11.12
+384,"What is the distance between ""Pizzeria Caselli"" and ""La Famiglia"" in the Rome area?",D,10.25,6.35,9.14,4.94
+385,"What is the distance between ""Haus garten Bagel Bar"" and ""IC Parco degli Acquedotti"" in the Rome area?",D,7.8,3.46,3.31,10.76
+386,"What is the distance between ""La Punta Expendio de Agave"" and ""La Casa del Caffè Tazza D’oro"" in the Rome area?",C,7.99,9.33,1.34,4.22
+387,"What is the distance between ""Garbatella"" and ""Garden Risto'"" in the Rome area?",B,5.67,3.34,1.85,8.48
+388,"What is the distance between ""Mercato di Via Orvieto"" and ""Mercato Rionale Colli Aniene"" in the Rome area?",B,7.24,4.87,7.91,10.92
+389,"What is the distance between ""Dott.ssa Simona Guglielmucci"" and ""Gaetano Costa"" in the Rome area?",B,10.5,8.43,5.03,5.85
+390,"What is the distance between ""Villa Lante"" and ""Giardino Americano"" in the Rome area?",A,1.5,5.69,3.25,9.43
+391,"What is the distance between ""La Capitale"" and ""Banca Popolare di Sondrio"" in the Rome area?",C,10.41,5.43,2.93,7.49
+392,"What is the distance between ""Spaghetti A Mezzanotte"" and ""Hopside"" in the Rome area?",A,4.31,7.4,6.45,11.31
+393,"What is the distance between ""Bar Angeli"" and ""Pizzadí di Flavio e Valeria"" in the Rome area?",D,5.56,10.33,14.62,7.76
+394,"What is the distance between ""Scuola Federico Di Donato"" and ""Terminal Park"" in the Rome area?",A,1.25,3.56,3.9,4.85
+395,"What is the distance between ""Piano Strada Laboratorio di Cucina"" and ""Tre de Tutto"" in the Rome area?",D,10.54,5.61,6.12,3.88
+396,"What is the distance between ""Poste Italiane – Roma Piazza Dante"" and ""Fort Apache Steak House"" in the Rome area?",A,8.49,7.35,3.25,4.17
+397,"What is the distance between ""Caffè Pascucci"" and ""Centro Odontoiatrico Montanari"" in the Rome area?",C,4.65,7.98,5.79,2.64
+398,"What is the distance between ""Compro oro"" and ""Hotel Marcella Royal"" in the Rome area?",C,5.34,14.92,7.13,4.12
+399,"What is the distance between ""O sole e Napule"" and ""La casa del Cremolato"" in the Rome area?",B,1.03,5.03,7.09,10.43
+400,"What is the distance between ""MEDICHINI LEX"" and ""Fondazione Gramsci Onlus"" in the Rome area?",C,2.32,5.24,3.72,11.07
+401,"What is the distance between ""Via di Santa Dorotea"" and ""Piazza dei Servili"" in the Rome area?",A,2.05,4.61,8.18,5.34
+402,"What is the distance between ""Pharma Group"" and ""Caffè Pascucci"" in the Rome area?",B,9.44,8.06,9.44,9.09
+403,"What is the distance between ""Pontificio Seminario Romano Maggiore"" and ""Roadhouse"" in the Rome area?",C,8.29,10.26,3.63,1.07
+404,"What is the distance between ""Istituto scolastico Gesù-Maria"" and ""Ristorante Gattopardo"" in the Rome area?",C,7.64,7.01,12.71,5.75
+405,"What is the distance between ""Mr Pachino"" and ""Officine Fotografiche"" in the Rome area?",D,3.98,0.68,5.34,7.53
+406,"What is the distance between ""Da Tonino"" and ""Junsei Sushi"" in the Rome area?",B,6.62,2.77,10.46,7.72
+407,"What is the distance between ""Hotel Marcella Royal"" and ""Portico degli Dei Consenti"" in the Rome area?",A,2.07,8.79,3.56,2.98
+408,"What is the distance between ""Bola Padel Club"" and ""CSOA Spartaco"" in the Rome area?",B,13.48,5.89,1.33,8.41
+409,"What is the distance between ""Biblioteca interdipartimentale di Medicina - sede Psichiatria e psicologia clinica"" and ""Cantina Tirolese"" in the Rome area?",C,3.0,0.82,4.49,6.51
+410,"What is the distance between ""Censured Gay Cruising Bar"" and ""Taberna Persiana"" in the Rome area?",D,9.59,8.37,4.75,2.86
+411,"What is the distance between ""Virgin Active"" and ""IH Hotel"" in the Rome area?",C,18.47,7.35,11.34,18.39
+412,"What is the distance between ""Pontificia Università Urbaniana"" and ""Campo nomadi Via dei Gordiani"" in the Rome area?",A,7.94,0.61,8.9,6.43
+413,"What is the distance between ""Biblioteca interdipartimentale di Medicina - sede Organi di senso"" and ""Banco BPM"" in the Rome area?",C,4.77,11.74,5.82,12.43
+414,"What is the distance between ""Partenope"" and ""Palazzo Wedekind"" in the Rome area?",C,12.31,1.33,6.26,5.18
+415,"What is the distance between ""Bufala & Pachino"" and ""Imperatori"" in the Rome area?",C,12.38,8.75,6.07,5.1
+416,"What is the distance between ""MargheRita"" and ""Rai Radio 3 Classica"" in the Rome area?",C,8.92,9.63,2.28,8.88
+417,"What is the distance between ""Evo Hosteria"" and ""Antico Caffé San Pietro"" in the Rome area?",D,4.2,3.65,5.36,1.37
+418,"What is the distance between ""Arco degli Acetari"" and ""Accademia Belgica"" in the Rome area?",A,2.33,3.88,8.58,4.22
+419,"What is the distance between ""Accademia di Romania Istituzione Culturale Straniera"" and ""Largo Padre Leonardo Bello"" in the Rome area?",C,8.6,11.8,10.0,10.92
+420,"What is the distance between ""Palazzo Giacomo Mattei"" and ""Basilica di San Sisto Vecchio"" in the Rome area?",D,8.24,7.01,3.67,2.13
+421,"What is the distance between ""Portico degli Dei Consenti"" and ""Nuovo Trasporto Viaggiatori"" in the Rome area?",A,2.71,1.69,5.92,5.91
+422,"What is the distance between ""Tribunale civile di Roma"" and ""Bowling Brunswick"" in the Rome area?",C,5.81,7.58,2.62,10.13
+423,"What is the distance between ""Largo Giuseppe Leti"" and ""Hotel Camplus"" in the Rome area?",B,7.76,9.23,13.0,10.94
+424,"What is the distance between ""ACEA"" and ""Giardino Francesco Albani"" in the Rome area?",B,3.67,2.59,4.32,1.08
+425,"What is the distance between ""Baby Bar"" and ""Oishi Restaurant"" in the Rome area?",C,5.81,5.87,1.31,4.37
+426,"What is the distance between ""Pizzeria ""Tiella"""" and ""Magnolia"" in the Rome area?",B,2.12,8.04,13.95,7.04
+427,"What is the distance between ""Yogurteria"" and ""Pizzeria Caselli"" in the Rome area?",C,8.24,5.42,4.3,3.09
+428,"What is the distance between ""White Cafè"" and ""Sora Lella"" in the Rome area?",A,1.62,3.1,3.33,4.21
+429,"What is the distance between ""Hopside"" and ""La Boccaccia"" in the Rome area?",C,6.39,0.97,2.8,0.69
+430,"What is the distance between ""CSOA Forte Prenestino"" and ""Il Fellini"" in the Rome area?",C,4.41,0.67,6.56,14.48
+431,"What is the distance between ""Caffè Guadagnino"" and ""I cognati"" in the Rome area?",A,4.81,12.12,3.9,6.04
+432,"What is the distance between ""Edicola da Francesca"" and ""Istituto Filippo Smaldone"" in the Rome area?",C,6.32,1.04,2.38,4.58
+433,"What is the distance between ""UBI Banca"" and ""Arancina Matta"" in the Rome area?",D,6.48,10.03,5.3,9.02
+434,"What is the distance between ""Panino Divino"" and ""MargheRita"" in the Rome area?",B,9.19,1.55,7.36,4.2
+435,"What is the distance between ""Meucci20"" and ""Fontana del porto di Ripetta"" in the Rome area?",B,8.0,4.78,9.57,12.25
+436,"What is the distance between ""Banca Unicredit"" and ""Highlands Institute"" in the Rome area?",A,9.87,13.93,15.99,6.59
+437,"What is the distance between ""La Barrique"" and ""Compost di quartiere"" in the Rome area?",C,9.75,4.86,3.77,11.19
+438,"What is the distance between ""Officine Fotografiche"" and ""Bunker Villa Ada Savoia"" in the Rome area?",D,15.12,11.56,4.52,7.34
+439,"What is the distance between ""K2"" and ""VinAllegro"" in the Rome area?",C,8.41,2.11,3.19,6.75
+440,"What is the distance between ""Ciccia & Bomba Ai Parioli S.R.L."" and ""Capranica"" in the Rome area?",C,1.34,7.97,3.01,8.27
+441,"What is the distance between ""Terminal Park"" and ""Parco 17 Aprile 1944"" in the Rome area?",B,2.52,5.73,12.45,10.53
+442,"What is the distance between ""Mo's Gelaterie"" and ""IP"" in the Rome area?",B,8.34,4.92,2.52,12.1
+443,"What is the distance between ""Alice"" and ""Parcheggio motocicli e ciclomotori"" in the Rome area?",D,8.84,8.15,6.44,2.57
+444,"What is the distance between ""Serial Griller"" and ""Banca Popolare Etica Scpa"" in the Rome area?",B,3.6,5.25,9.21,8.27
+445,"What is the distance between ""Terre e Domus"" and ""Retitalia"" in the Rome area?",D,0.55,6.74,9.41,3.27
+446,"What is the distance between ""Lotto 12"" and ""Lotto 43"" in the Rome area?",C,3.83,2.58,0.67,3.92
+447,"What is the distance between ""Arco di Carlo Magno"" and ""Croce Rossa Italiana - Caserma Luigi Pierantoni"" in the Rome area?",D,2.05,5.02,5.45,4.04
+448,"What is the distance between ""Giardino Americano"" and ""Casa di cura Marco Polo"" in the Rome area?",D,2.54,11.34,9.97,4.45
+449,"What is the distance between ""Jollibee"" and ""Mi Mar Cafè"" in the Rome area?",D,11.8,7.83,6.91,5.21
+450,"What is the distance between ""Enel X"" and ""Adventure Rooms"" in the Rome area?",A,2.46,1.29,8.26,7.06
+451,"What is the distance between ""Q8"" and ""Bar Maccagno"" in the Rome area?",D,2.21,3.01,2.91,7.45
+452,"What is the distance between ""Er Caffettiere"" and ""Ciccia & Bomba Ai Parioli S.R.L."" in the Rome area?",C,2.08,1.11,3.45,0.72
+453,"What is the distance between ""Al Picchio"" and ""Ristorante Stellina Garbatella"" in the Rome area?",B,6.56,4.06,1.22,9.19
+454,"What is the distance between ""Casa di cura Marco Polo"" and ""Largo Giuseppe Leti"" in the Rome area?",D,5.97,7.67,5.81,2.26
+455,"What is the distance between ""Avamposto dei Guardiani"" and ""Scuola secondaria Via Torre Annunziata"" in the Rome area?",D,11.13,3.45,5.76,8.91
+456,"What is the distance between ""Versatile"" and ""Farmacia Indipendenza"" in the Rome area?",D,10.45,2.86,6.75,4.06
+457,"What is the distance between ""Tommi's Burger Joint"" and ""Al Peperoncino"" in the Rome area?",D,5.15,12.39,8.69,6.38
+458,"What is the distance between ""Yes Food"" and ""Wine Bar De Penitenzieri"" in the Rome area?",D,5.49,11.45,15.7,8.68
+459,"What is the distance between ""Mercato Circonvallazione Ostiense"" and ""Mausoleo dei Cessati Spiriti"" in the Rome area?",C,1.3,5.63,3.36,7.34
+460,"What is the distance between ""Blu Bar"" and ""Puccetto"" in the Rome area?",D,1.04,15.02,12.99,7.18
+461,"What is the distance between ""Sottosopra"" and ""Fabrica"" in the Rome area?",C,12.82,12.49,7.25,3.85
+462,"What is the distance between ""Burger King"" and ""Fraschetta da sandro"" in the Rome area?",D,10.16,2.36,1.97,3.63
+463,"What is the distance between ""I.C. Giorgio Perlasca - Via Pomona"" and ""Anytime Fitness"" in the Rome area?",D,2.4,13.87,2.35,7.83
+464,"What is the distance between ""Blanco"" and ""Maria Insalaco"" in the Rome area?",C,15.8,17.66,10.62,6.13
+465,"What is the distance between ""Croce Rossa Italiana - Caserma Luigi Pierantoni"" and ""Tempio del Divo Giulio"" in the Rome area?",A,2.72,8.63,4.97,9.22
+466,"What is the distance between ""Nativa Ristorante"" and ""Beirut"" in the Rome area?",B,1.03,8.41,16.35,13.85
+467,"What is the distance between ""Ninkasi Beershop"" and ""Coinbar Roma – Barberini"" in the Rome area?",A,2.11,0.82,10.0,7.6
+468,"What is the distance between ""pan divino"" and ""Klang Roma"" in the Rome area?",A,4.59,2.04,8.74,9.43
+469,"What is the distance between ""Farmacia Indipendenza"" and ""Moby Dick"" in the Rome area?",A,4.94,3.71,1.34,11.89
+470,"What is the distance between ""Circolo ricreativo ""Villa Lazzaroni"""" and ""Santa Maria in Aracoeli"" in the Rome area?",C,1.84,0.78,4.02,8.34
+471,"What is the distance between ""Europharma"" and ""Pharma Group"" in the Rome area?",C,9.38,9.58,2.58,7.99
+472,"What is the distance between ""Bottega 31"" and ""Burbee"" in the Rome area?",A,5.15,2.27,1.07,4.0
+473,"What is the distance between ""Jiang erlang"" and ""Farmacia Carnovale"" in the Rome area?",C,5.8,7.02,2.57,7.41
+474,"What is the distance between ""Lemongrass"" and ""Mr. 100 Tiramisu"" in the Rome area?",D,9.45,5.8,8.92,1.81
+475,"What is the distance between ""Cacciarella"" and ""Casa di Santa Brigida"" in the Rome area?",C,4.23,9.45,6.45,13.13
+476,"What is the distance between ""Consolini"" and ""Il principe del gelato 2"" in the Rome area?",A,5.48,2.88,12.37,3.45
+477,"What is the distance between ""LoLa"" and ""Rai Radio 2"" in the Rome area?",A,1.01,8.73,5.95,3.2
+478,"What is the distance between ""Cheers"" and ""Garage"" in the Rome area?",B,15.86,9.16,3.06,1.99
+479,"What is the distance between ""Bar Caffè Fantini"" and ""UBI Banca"" in the Rome area?",B,7.09,5.77,10.76,1.8
+480,"What is the distance between ""Acqua Egeria"" and ""Felini"" in the Rome area?",B,3.21,8.1,1.79,9.6
+481,"What is the distance between ""Eni"" and ""Pizzeria ""Tiella"""" in the Rome area?",B,11.19,4.12,11.4,2.01
+482,"What is the distance between ""Chiesa di San Gerardo Maiella"" and ""Palazzo Giacomo Mattei"" in the Rome area?",C,0.8,4.67,6.67,4.46
+483,"What is the distance between ""Scuola primaria Don M. Rua"" and ""Change"" in the Rome area?",B,5.62,7.5,5.37,0.71
+484,"What is the distance between ""Fonte Egeria"" and ""The Meat Market"" in the Rome area?",B,14.4,6.53,11.32,0.73

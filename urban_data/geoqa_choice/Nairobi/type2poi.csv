@@ -1,0 +1,156 @@
+,A,answer,B,C,D,E,question
+0,Anglican Church,A,New Starlight Academy,Water Tap,Hope Education Centre & School- Primary,plot,Which POI belongs to type: place_of_worship?
+1,Posho mill,B,Thorntree Bar & Restaurant,Noma Cafeé,Daranjani Assembly Church,The Great Pharmacy,Which POI belongs to type: restaurant?
+2,Club Captains Casino,E,River Bank ECDE School,Adonai Victory Church,Tujiinue Youth Group,ILRI Gas Station,Which POI belongs to type: fuel?
+3,Mama nancy,C,beba beba hotel,police headquarters,ROG SACCO,The Apple Munch Restaurant,Which POI belongs to type: police?
+4,Sarit Expo Centre,A,Nyayo House Adult Ed Centre,Rental houses,Shantit Hardliving Youth Group,Lebanon Juniour Academy,Which POI belongs to type: exhibition_centre?
+5,Kabete Vet Lab Primary School,A,Trojan Health and Fitness Gym;Big Square - Karen Square,Sandhya’s kitchen,Gumba market,WSUP (Aziza Docka Toilets),Which POI belongs to type: school?
+6,AGAPE Church,D,The Big Elephant Cafe,Kayole P.C.E.A Primary School,Riruta Business College,Prime Bank,Which POI belongs to type: college?
+7,Fresh Life Toilet MT396.1,C,Kibra community water supply,HURUMA 46 PUB,Redeemed gospel church,Kibera free methodist Piped Water,Which POI belongs to type: pub?
+8,Maranatha Laini Saba Nursery School,C,Happy Kids Education Centre,High Point Hotel,NGS,Kwa Peter Otieno,Which POI belongs to type: construction?
+9,Frontline Medical Consultants limited,A,Voice of Salvation,ACK diamond church,Amicus Lounge and Grill,Co-op Bank ATM - Nairobi West Branch,Which POI belongs to type: hospital?
+10,Purity,E,East Connections M-pesa,Kimitsu Cooperative Society,Safeway Enterprices Service Station,Java House,Which POI belongs to type: cafe?
+11,Deli,C,plot toilet,Linker Video Show,Community Toilet,NYS Toilet Number 43,Which POI belongs to type: cinema?
+12,Yedil Cafe & Restaurant,B,Credit Bank,Piped tap,Nairobi School Nursery School,Nairobi west county toilet,Which POI belongs to type: bank?
+13,ymca school,C,Maxdais Educational Centre,Standard Chartered,Maggy's,Joyspring Community Center,Which POI belongs to type: atm?
+14,Kariobangi Adventist Education Centre,C,Debonairs Pizza,Casanova Casino,KFC,Veronicahs Toilet,Which POI belongs to type: casino?
+15,Langata Chemists,D,Furaha Preparatory School,pub C-One,Creamy Inn,Wisedorme Multi-Purpose Center School,Which POI belongs to type: fast_food?
+16,"Karen Hub, Water Recycling",A,Rehema water point,Little Beez,Dispensing,Engen Shop,Which POI belongs to type: water_park?
+17,Ngong Race Course,A,neema vineyard school,Msamaria Mwema clinic,KICEP Pit Latrin,Sunshine Secondary School Parking Lot,Which POI belongs to type: track?
+18,Gyros 2 Go,E,Home pub,K-area,WSUP(Fatuma toilet),International Livestock Research Institute (ILRI),Which POI belongs to type: university?
+19,Mac Olben,C,Water Tank,Mlango kubwa market,Kwa mama chapo,kwa james,Which POI belongs to type: marketplace?
+20,House of Prayer,C,Meeting Point Pub,Kenya Motor Sports Club,Rental houses,Aeisha Collier Day Care nursery And Pri. School,Which POI belongs to type: club?
+21,abc church south b region,C,Diet of the word Church,St Ann's,Mukuru Chief'S Camp,Patmos Water Point,Which POI belongs to type: pharmacy?
+22,Stanford flats kabiria,D,Bracy Farm,La cascina Restaurant,Equity Centre Car Park,J K Mbuthia Club,Which POI belongs to type: parking?
+23,Emmanuel Glory Academy,E,Transformer,The Future Lounge,Palm Olive Academy,ghukztech car wash,Which POI belongs to type: car_wash?
+24,Mbagathi Road Primary.,D,Nkaimurunya Primary School-,Nairobi West Primary maryson Adult Literacy Centre,MS ActionAid Kenya,Junior Hearts Kindergarten,Which POI belongs to type: office?
+25,National Bank ATM,D,ggic church,Century Lounge,Toi Market,St Mary's Dagoretti Centre,Which POI belongs to type: market?
+26,Sa'ani African Bistro,E,Jack and Jill primary school,St Veronica Nursery School,DESEA COMPLEX,Mobil Cabs,Which POI belongs to type: taxi?
+27,Kwa Mzae Cafe,B,Tosha,National Bank ATM-Ridgeways Mall,Egesa Villa,Lawrence Otule Baby Care,Which POI belongs to type: toilets?
+28,Ananda Marga Academy,B,ODM office- Mama Okinda Unit,Unity Medical Services,lindi mosque,Equity Bank,Which POI belongs to type: public?
+29,Kleansway Automated Car Wash,C,Water tap,unknown video library,Pablo's Wines And Spirits,Mathare Association,Which POI belongs to type: library?
+30,Tumaini Medical Clinic,A,Stage,Umoja community development project,OLA Energy,true gospel church ministry,Which POI belongs to type: clinic?
+31,Pollar pharm,D,Parklands Arya Girls Secondary School,Church of the Lord and Faith Ministry,David Sheldrick Wildlife Trust,Office of the MCA,Which POI belongs to type: park?
+32,Mt. Kenya Chemist,D,Garden Estate Residential Home,Destiny Primary School Water Tank,Supreme Court,Mukwano Disabled Group,Which POI belongs to type: courthouse?
+33,Diamond Trust Bank,E,community,Debonairs Pizza,Muradi Medical Centre,M-PESA,Which POI belongs to type: bureau_de_change?
+34,Hannover Trans,C,Drug Safe Pharmacy,Water Point,Local Food. Not Fancy.,Vision Health Care,Which POI belongs to type: drinking_water?
+35,Community Integrated Development International,D,Toy Special School,The Alchemist,Orthodox Church Kianda,Ruth wambui,Which POI belongs to type: social_facility?
+36,Silanga Open Ground,B,Mukaa Photo Studio,Angel Junior Academy,Riara International School,St Knight Medical Clinic,Which POI belongs to type: theatre?
+37,Cheif's camp,A,Sanjha Chulha Restaurant,Humble Beginners School,Tap water,Rosa clinic,Which POI belongs to type: public_building?
+38,Dumpsite,A,Bahati Food,Zawadi Primary School,Kisiwa Ministry Church Centre,Mnarani Educational Centre,Which POI belongs to type: landfill?
+39,Bethel Community Development Centre,D,New Ghetto Rangers Toilet,Water chamber,Youth Reform Self Help Group,lini saba,Which POI belongs to type: community_centre?
+40,Sisi Kwa Sisi Grounds,A,Soweto Academy,Happy Hours Nursery,Pangani family Hospital,Chase,Which POI belongs to type: recreation_ground?
+41,Rental houses,D,Freshlife toilets,lakewood stadium,Akusa Pub,Kabete Vet Lab Secondary School,Which POI belongs to type: bar?
+42,Kinyanjui Road Primary School,E,Umoja 1 Primary (ECDE),Transform Faith Hope,O6 Apartments Borehole,City councils stals m,Which POI belongs to type: commercial?
+43,Shimalasha Self-help Group,A,Kambi Safi Community Water Project,Flama education centre,Rental houses,Legio Maria,Which POI belongs to type: garden?
+44,Cardinal Otunga Preparatory School,B,M-PESA,Js Fresh Bar & Kitchen,Trojan Health and Fitness Gym;Big Square - Karen Square,Mathare north social hall toilet,Which POI belongs to type: mobile_money_agent?
+45,Luciana Baby Care,B,permanent drainage/sewer,Ongata Rongai Open Air Market,Water Point,Mwangaza Jesuit Centre,Which POI belongs to type: basin?
+46,Tapa Educational Centre,E,Kaloleni Day Nursery School,Blessed Medical Clinic,Salama Primary School Special Unit,Amani Court South C,Which POI belongs to type: residential?
+47,Napenda kuishi stage,D,Amref Medical Centre (Wilson Airport),Diamond Garbage Collectors,Unbeaten House of sports,oriat bar,Which POI belongs to type: stadium?
+48,Community toilet,B,Koma Sports Arena,Muungano Assemblies Church,Peniel Education Centre,Dandora Secondary School,Which POI belongs to type: pitch?
+49,Fresh life,D,Warldorf Woodlands Schools of Happiness,Misono,Fitness and Aerobics Center,Sebastian‘s Corner,Which POI belongs to type: hall?
+50,Cold Stone Creamery,D,Cedar Groove,public Toilet,husler video show,Friends of Love Kibera Slum,Which POI belongs to type: community_cinema?
+51,Baraka Junior School,B,Mideya Garden Apartments,Spurgeons Academy,rapture glory church,Diners Gardens,Which POI belongs to type: residential?
+52,United Nations Petrol Station,D,Ngotas Upendo,Victory Hope Community Centre,Kaloleni Post Office,Big Square Oval,Which POI belongs to type: post_office?
+53,Rabai Road Primary School - ECDE,A,Victory self help junior academy,Rental houses,Akiba Secondary School,Satelite Chemist,Which POI belongs to type: kindergarten?
+54,Java House,C,Noma Cafeé,Lucky summer play ground,Office of the MCA,St Andrews Computer School,Which POI belongs to type: sports_centre?
+55,Pat zero waste group for yourth,D,TRIPPLE TOWERS APARTMENTS,Angels of Hope,Water Tap,Jogoo House Car Park,Which POI belongs to type: water_point?
+56,H town youth group,A,Rental houses,Bridge International Academy,Shell,St. Bakhita Primary School - Primary,Which POI belongs to type: recycling?
+57,Mukuru Community Centre,D,Mukuru Chief'S Camp,St. Arnold Janssen Parish,Dumping site,rapture glory chruch,Which POI belongs to type: waste_disposal?
+58,Savo foundation toilet,C,Jahmii Kipawa Medical Centre,Apollo Dental Clinic,Co-operative Bank,Neighborhood clinic,Which POI belongs to type: dentist?
+59,Bridge of Hope Educational Centre,E,SDA Church,Water Point,sinai,Chiromo Mortuary,Which POI belongs to type: mortuary?
+60,steers,D,Gaoal,Posho mill,Club mbuthia bar and resturant,Water Tank,Which POI belongs to type: nightclub?
+61,National Bank ATM,B,Industries,CFC Stanbic,goodwill clinic,hope and care primary,Which POI belongs to type: industrial?
+62,SLUM SANAA ART CENTER,A,Mariakani PAG,Precious Angels Junior School,Mugaka water point,Rental houses,Which POI belongs to type: arts_centre?
+63,Gathiga High School,E,The Nest Berger Cafe,Rental houses,Lagos cilinic,Mathare Vocational Training Center,Which POI belongs to type: playground?
+64,Mt. Kenya Chemist and Clinic,C,Water tank,Water Point C;Nyalgunga Parking,Racing Sport Gym,Fiesta Restaurants,Which POI belongs to type: public_building;parking?
+65,Supermetro,D,St Catherine of Siena Catholic Church,Joy Beginners Educational Centre,Dr. Martin Kimemia,42 Kianda,Which POI belongs to type: doctors?
+66,Motilone Education Centre,E,Human Needs Project,St. Sam Roho Lwanda,LaSoNa kindergarten,Stage 24,Which POI belongs to type: bus_station?
+67,Foundation Of Hope,D,Standard Chartered Bank Ruaraka,Taurus Lounge Buruburu,The Karare's Dumping Site,Feelanga free bar,Which POI belongs to type: waste_basket?
+68,Patriot chemist,C,Water point,Human Needs Project,Hope Academy,Focused Education Centre,Which POI belongs to type: townhall?
+69,The Highway Secondary School,E,Sos Technical School. - Primary,Valley Gates Education Center,Ablution block 9,Quandrangle forest lenana conference,Which POI belongs to type: forest?
+70,Blue Door Christian Academy,C,Destiny Community Education Center,dump site,New Starlight Academy,Mpesa,Which POI belongs to type: dumpsite?
+71,Kiosk,A,Spc School - ECDE,Wema Clinic,Ananda Marga Academy,Kwa Wanjohi,Which POI belongs to type: Cereals?
+72,Ananda Marga School,E,Msalaba Bus Stage,Water tap,Glorious Blue Stars,Hypertech cyber and eletricals,Which POI belongs to type: internet_cafe?
+73,Seniors Driving School,A,River Side Hotel,Rental houses,Rental houses,Teriyaki Japan Drive Through,Which POI belongs to type: driving_school?
+74,Donholm Self Women Group,D,Rental houses,Chopstix Restaurant,MPesa,Kwa Shosho,Which POI belongs to type: money_transfer?
+75,Toi Pre-Unt,D,Centre of Hope Water Point,Koibra Toilet,Welcome to Jamaica,Fresh Life Toilet No.MT-187.1,Which POI belongs to type: food_court?
+76,Oasis of Grace Church,D,kerosene pump,Gatina Police Station,Kenyatta Fountain,Rental houses,Which POI belongs to type: fountain?
+77,Nairobi Fire Station,A,Community Borehole,Mathare CDF-mashimoni,Rental houses,office of the chairperson (fuata nyayo a),Which POI belongs to type: fire_station?
+78,Ngarisha cbo,C,Juliana Daycare,Edevale Swimming Pool,Small Five Vet Clinic Limited,Amazing Grace World Evangelism Church,Which POI belongs to type: swimming_pool?
+79,Petit Motomoto,D,Donholm Mosque,Standard Chartered,KAREN Site,Anghiti,Which POI belongs to type: cemetery?
+80,By faith academy,C,Chase,Jungle African Resource Center;Water Tank,Mama jane Dstv,Labs Driving School,Which POI belongs to type: community_centre;drinking_water?
+81,G.N.C.A. church lungalunga,D,Bridge International Academy - King'eero,Galilaya Educational Centre,napenda kuishi Rehabilitation center/School,Visionary Youth Group,Which POI belongs to type: group_home?
+82,Rental houses,E,Rental houses,African Divine Church,Mathare 4A Primary School,Family Media LTD,Which POI belongs to type: studio?
+83,Roadside,C,Rental houses,British American Insurance Group,Eastleigh Airport Primary,Balozi school,Which POI belongs to type: Britak Centre?
+84,Rental houses,B,MUUNGANO YA WANAVIJIJI,56 Stage,Water Tank,Mint Shack,Which POI belongs to type: school?
+85,British American Insurance Group,E,Riara Group of Schools Primary,Rooftop Sky Lounge,Conerstone Clinic,The Courtyard,Which POI belongs to type: office?
+86,CITAM Valley Road Parking,A,destiny primary,Elshadai Education Centre,Higlands Cafe,Kenya kids Learning centre,Which POI belongs to type: parking_space?
+87,Rukubi Primary,E,Egesa Villa,Sakaja Foundation,The Ark Community Education Centre,MUOROTO INSIDER YOUTH GROUP,Which POI belongs to type: Youth Group?
+88,Community pub,D,YMCA,Neighborhood clinic,Nursing home hospital,riders medical center,Which POI belongs to type: nursing_home?
+89,Water tank,C,plot toilet,Junction Gardens,Gaurdian Bank,Retro Cafe,Which POI belongs to type: apartments?
+90,King of Judah Ministries,E,Kiamutisya Water Point,Full Gospel Evangelistic Ministry,Red Robin Day Care,Rental houses,Which POI belongs to type: shelter?
+91,Sigira fitness experience,A,Stage Two,Jahmii Kipawa Medical Centre,Unes Arziki,Chemist,Which POI belongs to type: fitness_centre?
+92,Sheep Gate Church,C,rehema daycare school,Kwa marlon,Kwa Peter Otieno,NYS Toilet Number 50,Which POI belongs to type: garage?
+93,Buruburu Complex Building,A,Deliverance church Ruaraka,MOC Nursery School,St Mauras Catholic Church,68 Library,Which POI belongs to type: commercial?
+94,plot toilet,B,Catholic Church,Nairobi West Mosque,Huduma Children Center,Gitare Marigo,Which POI belongs to type: church?
+95,Sukuma Wiki Garden Ayany,E,Rivers Edge Church Nirobi,plot toilet,Nairobi Lighthouse Church,Alpha Centre,Which POI belongs to type: warehouse?
+96,Highridge Girls Secondary School,E,Chaire Chemist,New wendani cool base,Life Care Chemist,Cold Stone Creamery,Which POI belongs to type: ice_cream?
+97,Fika Bikeshare Docking System 1,A,Gatina Police Station,HARMONY PLACE,Nicksao water point.,spirit of god church mission,Which POI belongs to type: bicycle_parking?
+98,Africa Church of Holy Spirit,E,Family Bank-Rongai,Cold Stone Creamery,Whynot,Little treasure,Which POI belongs to type: childcare?
+99,Fang Fang Chinese Restaurant,B,Tropical Towers,Destiny Kids Rescue Centre,Slum Care,Umoja pub,Which POI belongs to type: hotel?
+100,Kawangware Chemist,E,Steve's Steakhouse,Moca Loca Coffee & Lounge - Garden City Mall,Kwa container water point,African Health and Community Programe (AHCP),Which POI belongs to type: baby_hatch?
+101,Kemer Junior Medical Centre,E,Metropolitan National Sacco,Hoywik Learning Centre,TOTAL Hurlingam,East Africa Kennel Club,Which POI belongs to type: dog_park?
+102,The Golf Park,A,Rubis,baptist church lunga lunga,Mathare North Assistant chief's camp,Kwa sele,Which POI belongs to type: miniature_golf?
+103,Tong yang tek,B,Sepan Gorge Resort,redeemed church,Edie nursery,plot toilet,Which POI belongs to type: resort?
+104,Small Five Vet Clinic Limited,A,Endojet,Ahmadiyya Mosque,Peer Education Team And Behaviour Change (Petcha) Youth Group,Environment Comrades Water Project,Which POI belongs to type: veterinary?
+105,Fresh Life MT478.1,B,Escape Room Kenya,Ana Martin Escuela,Portmore,Ponyesha Chemist,Which POI belongs to type: escape_game?
+106,Kenya Motor Sports Club,B,Noni's Dance Fitness Consultancy,Our Lady Of Mercy Shauri Moyo (Primary),Mathare Mosque,Bestan child care centre,Which POI belongs to type: dance?
+107,Flama education centre,D,Bahimia SACCO,Joy Wabb Water Project,Oloolua Nature Trail,Haandi Restaurant Ltd,Which POI belongs to type: nature_reserve?
+108,Teresia Kamotho,C,St Lucy Academy Educational Center,Hardy Stud,Kwa Njenga,Washiro,Which POI belongs to type: horse_riding?
+109,Lindi Ushirika Primary,D,Brown Daisy Children Centre,Kwa mwangagi's,DHL Express Yaya Center,Le-Vans Restaurant,Which POI belongs to type: parcel_locker?
+110,The Chequered Flag,A,christian evangelistic fellowship church,Shinning Junior Academy,Wambo's water point,Karanja Water Point,Which POI belongs to type: car_rental?
+111,NIC Bank,B,Fatima Catholic Sisters,Nancy,Shell,plot toilet,Which POI belongs to type: monastery?
+112,Gonga Njaa,C,Liance Driving School,Kenya Society for the Protection & Care of Animals,Mkamba water point,Kevo's water point,Which POI belongs to type: animal_shelter?
+113,G Mars Petrol Station,C,Blacky'z Lounge,The Strike Arcade,St. Johns Kaloleni Primary School - ECDE,Lucky 8 Casino,Which POI belongs to type: bowling_alley?
+114,Hospital Hill Primary School,E,Eclipse,August Town Toilet,Asmara Restaurant (Ethopian),Toi Market Fire Damage extent,Which POI belongs to type: service?
+115,Ephatha Of Holy Trinity Ministry,C,Kianda School,iHub,Nyayo House Adult Ed Centre,Bomas Of Kenya Adult Centre,Which POI belongs to type: coworking_space?
+116,Jack,B,Vetlab Golf Club,Tosha Bio Center,The King's Glory Education Centre,DHL Express Yaya Center,Which POI belongs to type: golf_course?
+117,Awesome Cross Butchery,C,Kwa Malombe,Matatu,Centre for Tropical and Travel Medicine (CTTM),Bidii Self Help,Which POI belongs to type: bus_stop?
+118,Super sport Video show,D,St Juliet Education Centre,Yates Pub,LE PIC SCHOOL,Michael water point,Which POI belongs to type: prep_school?
+119,Missionaries of Africa - South B,E,Mathare 4A Primary School,Kibera Center For Evangelization,Karis water point,Capital Alliance,Which POI belongs to type: vehicle_inspection?
+120,Queen of Angels Academy;Jesus Revival Centre,A,Divine Mercy Catholic Church,Seme Medical Clinic,Mzesa Academy -Primary,Orthodox Archbishop of Kenya,Which POI belongs to type: school;place_of_worship?
+121,Holy Mountain Worship Center,E,Professional Church of God,Rental houses,P.A.G.C Amani,Gyff Bathrooms,Which POI belongs to type: shower?
+122,plot toilet,B,Cataoca EA,Hope Academy,Mama akoth,Lavington Church Adult Centre,Which POI belongs to type: training?
+123,Faith Healer,A,Postal Corporation,Roho israel church of God,Mbaire's Restaurant,Vital Solution Elevation Clinic,Which POI belongs to type: *?
+124,Hotel,D,Church of God Prophecy kibera,Ponyesha Chemist,Ako Kula (Traditional Healer),Kingdom Hall of Jehovah's Witnesses,Which POI belongs to type: healthcare?
+125,"Tofu Square, Imperial City Pot 豆腐坊、皇城火锅",D,Twaki Building,Eastlands College Of Technology,Lunga Lunga Medical Center,Sunshine Secondary School Parking Lot,Which POI belongs to type: clinic;pharmacy;laboratory?
+126,Chrst impact church,D,Mama Adesh,The Patio Restaurant 2013,Cana Family Health Center,Prospect Joslim Medicare,Which POI belongs to type: laboratory?
+127,Pit Latrine,B,Melihep Medical Clinic,HNP Water Community Center,ABSA Bank Hurlingham Branch,Rental houses,Which POI belongs to type: medical transport service?
+128,Haandi Restaurant,E,plot-toilet,Lindi Friends School Kibera,Pneuma ministries international,Mama Kelvin Herbal and Maternity,Which POI belongs to type: traditional health centre?
+129,Standard Chartered ATM,D,Flodo medical clinic,Dr Lang'o Medical clinic,Eddies Butchery,Carol Angel Education Centre,Which POI belongs to type: butchery?
+130,kplc ground,E,Reyhan,Keds Community,Community Water Tank,Countryside Fresh Milk,Which POI belongs to type: vending_machine?
+131,iRideNairobi,A,Moi Airbase Academy (ECDE),All Jamaica Junior Academy,MSF,Chief'S Camp,Which POI belongs to type: motorcycle_rental?
+132,MCO Primary School,B,EvChaja Charging Station,Chicken Inn Garden City,K-area,Fresh Life Toilet No.MT-400,Which POI belongs to type: charging_station?
+133,Senna Pharmacy,C,Christ ambassadors church,"Tribe Hotel, Nairobi",Mama molly,Kibichiku Primary,Which POI belongs to type: fixme?
+134,Nairobi West Prison,A,Redeemed Gospel Church,Gateway,K.A.G.O,Tokyo Restaurant,Which POI belongs to type: prison?
+135,St. Luke Chemist and Medical Clinic,E,WSUP (Girls Soccer School),Gate View Education Centre,Our Lady of Mercy Primary School Playground,KOFISI Square,Which POI belongs to type: events_venue?
+136,UON Monument,A,Kevos water point,Kariobangi Baptist Youth Center,Nairobi Area Traffic HQ,Baro Water kiosk,Which POI belongs to type: bench?
+137,Step 1,C,Gracious chemist,UON car entry,Glorious Blue Stars,Mugg & Bean,Which POI belongs to type: parking_entrance?
+138,Afyahub Medical Center,B,Gamerzz Choice,Laini Saba Primary School,Ronney Councillor,Moca Loca Coffee & Lounge - Garden City Mall,Which POI belongs to type: amusement_arcade?
+139,Kongoni Nursery School,B,mosque transformer,Gaoal,st. andrews medical cllinic.,Pharmaplus,Which POI belongs to type: transformer?
+140,Riruta good Shepherd School,E,Rastah,St Thomas Catholic Church,water points,Street camera,Which POI belongs to type: surveillance?
+141,Yedil Cafe & Restaurant,D,Revival Church of Shiloh,AKs Restaurant,Kombgreen solutions,Christian Foundation of Life Ministries,Which POI belongs to type: greenhouse?
+142,Mathare north social hall toilet,E,Baba Nyambura's,Pizza Hut,Seniors Driving School,gitonga bicycle services,Which POI belongs to type: bicycle_repair_station?
+143,king's barber shop,A,NYS Water,Pablo's,Enina clinic &,Rubis,Which POI belongs to type: hairdresser?
+144,Kwa Njeru Self-Help Group,D,baba boi,plot toilet,elijah's posho mill,Camp David Club and Restaurant,Which POI belongs to type: grinding_mill?
+145,Public Toilet,C,National Bank ATM,Bodaboda stage,National youth service,I-area,Which POI belongs to type: motorcycle_parking?
+146,Cafe Kaya,E,Calamar foods (fast food),Cool summer pub/lodgings,Checkpoint,agm church,Which POI belongs to type: church?
+147,Down Town,A,Kwa Mzae Cafe,highridge baptist church,Frepals NYS Toilet,ADC Church,Which POI belongs to type: waste_transfer_station?
+148,Equity Bank,C,Victory Faith Church,Dandora dumbsite,Chistian Revival Church and School,Tumaini Juniour Academy,Which POI belongs to type: landfill?
+149,Pentecost Church,E,Riruta Satelite Primary,TRIPPLE TOWERS APARTMENTS,Industrial Area Police Station,International Livestock Research Institute (ILRI),Which POI belongs to type: research_institute?
+150,Garisaa ndogo water point,D,Mathare north social toilet,Kirom Huruma,Doctor Furniture,KCB bank Eastleigh,Which POI belongs to type: payment_terminal?
+151,Sandalwood apartments,A,Redeem Gospel Church,Eden Junior School Nur,Diners Gardens,EXTREME BARCADIA,Which POI belongs to type: residential?
+152,ZUKA BET,A,DP Hall,Cafe Sun Burner,Rental houses,Community Water Project,Which POI belongs to type: gambling?
+153,NYS Toilet Number 66,C,Kopok Chemist,Tenderlings school,Mathare Community Outreach School,Kagondo,Which POI belongs to type: school for pwds?
+154,Black Rose Apartments,B,zaric centre,St.Martin's Deporres Primary school,hazina pamoja self help group,True Vision Education Centre - Primary,Which POI belongs to type: aquaculture?

@@ -1,0 +1,207 @@
+id,question,answer,A,B,C,D
+0,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Embarcadero SAFE Navigation Center,Panhandle,Showplace East,1320
+1,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,General's Residence,Wheel Works,Washington Square Park,A.P. Giannini Plaza
+2,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Club Wyndham Canterbury,Progress Hardware,Sheridan Elementary School,Mission Dolores Park
+3,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Battery Marcus Miller,Stuart Hall High School,Museum Parc Swimming Pool,Garfield Square
+4,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Taqueria Cazadores,San Francisco Fire Station 28,Hotel Isabel,San Francisco Main Library
+5,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,AMCO Building,Alsabeel Masjid Noor Al Islam,San Francisco Belle,Balboa Park
+6,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,San Francisco Toyota,Bay Wheels,Duboce Park,"Smith, Fause & McDonald, Inc."
+7,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Public Policy Institute of California,Asian Art Museum of San Francisco,Ape Do Good Printing,North Beach Branch Library
+8,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Chevron,"TLC Glass, Inc.",Southeast Water Pollution Control Plant,The Sutherland
+9,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Adrian Hotel,Water Treatment Plant,Fitness SF SOMA,Artmar Hotel
+10,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Dutch Windmill,Bay Wheels,Argonaut Hotel,Edwin Klockars Blacksmithing
+11,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Pier 9,RC Gasoline,YWCA Apartments,Plot to Grow Art
+12,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Southeast Water Pollution Control Plant,Seward Mini Park,Pier 15,Salesforce Transit Center
+13,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Saint Nicholas Russian Orthodox Cathedral,Pier 2 - Herbst Pavillion,Annie’s Hot Dogs & Snacks,Pier 1
+14,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,State Garage,Nativity of Our Lord Parish,Yerba Buena Island,San Francisco Towers
+15,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Marina Middle School,White Crane Springs Community Garden,Muhammad University of Islam,Ghirardelli Square
+16,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,275 Turk,Warrington Apartments,Hyatt Regency San Francisco,Park Branch Library
+17,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Morrison Productions,White Crane Springs Community Garden,Lakeshore Plaza,Fog City Auto Repair
+18,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,707 Sutter,California Academy of Sciences,45 Fremont Center,One Mission Bay
+19,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Inner Sunset Farmer's Market,I. Magnin & Co. Building,Berek Winter,John McLaren Park
+20,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,The Handlery Union Square Hotel,Performing Arts Garage,Konko Church of San Francisco,Saint Mary's Square
+21,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,San Francisco Main Library,The Gateway Center West,South Park,The Crossing at East Cut
+22,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Minna Park Apartments,Summit 800,One California Street Building,San Francisco State University
+23,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Music Concourse,Academy of Art University,Charles Schwab,SIXT
+24,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Indoor Public Parking,50 California Street,Taisho,International Studies Academy at Enola D. Maxwell Campus
+25,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Mariposa Hunters Point Yacht Club,COVA Hotel,Embarcadero Center 2,Apple Mini Park
+26,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,The Chowder Hut Grill,San Francisco University High School,Bloomerang,Embarcadero Center 3
+27,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Architecture for Humanity,Burger King Parking,Bay Wheels,Embarcadero Center 4
+28,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Hamilton Recreation Center,Ayoub & Kubein Building,Greenwich Inn,Embarcadero Center 1
+29,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,San Francisco Fire Station 36,Bay Wheels,Jack Early Park,Aquatic Park Historic District
+30,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,1542-1552,San Francisco Fire Station 24,Commercial Union Assurance Building,SPUR Urban Center
+31,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Victoria Theatre,Rincon Park,Greater Abundant Life Church of God in Christ,Tower Burger
+32,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Lakeview and Ashton Mini Park,Fellow Feathers Clubhouse,Beacon Grand,OTD
+33,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,A. Friscia Sea Foods,Central Magazine,Bay Wheels,Macy's
+34,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,425 Market,Alexandria,Bay Wheels,Union Trust Bank Building
+35,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,AG Building,Shed C,Loren Miller Homes,45 Fremont Center
+36,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,First Market Tower,Tobin House,Fire Chief's Residence,CBS Interactive
+37,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,The Masonic,Beach Motel,Women's Resource Center,Miyabi Sushi
+38,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,McAllister Hotel,"Willie ""Woo Woo"" Wong Park",Embarcadero Center West,Academy of Art University
+39,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,44 Montgomery Street,Chinese Immersion School at De Avila,"Optimizely, Inc.",340 Fremont Street
+40,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Bernal Dwellings,Oasis,San Francisco Scottish Rite Masonic Center,Mason O'Farrell Garage
+41,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,California Pacific Medical Center,Page Street Community Garden,Thrifty Wash,Ellis O'Farrell Garage
+42,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,U-Haul,Francisco Middle School,"University of California, San Francisco",Harding Theater
+43,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Union Square Plaza Hotel,Barcelona Apartments,Bay Wheels,Beach Chalet Athletic Fields Playground
+44,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,New Conservatory Theatre Center,Zenanli Parking,The Montgomery,International High School
+45,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,CB Engineers,Ana Furniture,Serif,Phillip Burton Federal Building & United States Courthouse
+46,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Medico-Dental Building,Hotel Western,Temper Insulation,B
+47,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Saint Brendan's School,Julius' Castle,Greenwich Inn,JW Marriott
+48,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Lake Merced Park,The Sanctuary,City College of San Francisco (CCSF) Ocean Campus,1400 Mission
+49,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Saint Mary's Park,Neiman Marcus,Costco Parking,San Francisco Museum of Modern Art
+50,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Marines' Memorial Club & Hotel,Howard Brodie Women's Residence Hall,Entella Hotel,Mini of San Francisco
+51,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Bay Wheels,145 TL Residences,Hotel Nikko San Francisco,Cathedral Hill Tower
+52,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Bayview Gateway,Filipino Education Center,Mission Creek Park,KMC SF
+53,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Hotel Triton,Angelo Rossi Park,San Francisco Pier 52,"Dropbox, Inc."
+54,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Gaylord Suites,C. R. Reichel Engineering Company,Kensington Park Hotel,Northpoint Center
+55,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Sharon Building,Arion Press,War Memorial Opera House,26
+56,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,John Muir Elementary School,201 Third Street,Exchange Block Building,Pier 22 1/2
+57,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,The Herb Inn,Bayview Playground,Century,Neiman Marcus
+58,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,The Sutherland,Crocker Amazon Playground,Brannan Street Wharf,Fallen Bridge Park
+59,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,100 First Street,Element Apartments,1500 Mission,Pier 29 Public Shore
+60,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Building 36,Joan's Oasis,Pier 33,2175 Market
+61,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Bay Cruise Adventure,Hyatt Regency San Francisco,Jackson Park,U-Haul
+62,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Northpoint Center,Princess Apartments,Oracle Park Parking Lot A,Valvoline
+63,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Hotel Adagio,Hotel Riu Plaza Fisherman´s Wharf,50 Jones,Bay Wheels
+64,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Hall of Justice,Bloomerang,The Brady,Battery East
+65,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Buzzworks,Showplace Square South,Miroculus,1455 Market St.
+66,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Akari Japanese Bistro,NEMA,North Point Wet Weather Facility,Aldrich
+67,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"The Clancy, Autograph Collection",Lafayette Park,Vida,Gage Automotive
+68,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Contemporary Jewish Museum,Minna Park Apartments,Tenderloin People’s Garden,Alemany Farmers Market
+69,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Jordan's Kitchen,Hyatt Regency San Francisco Downtown Soma,Peet's Coffee,Webpass
+70,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Bayanihan Community Center,San Francisco Botanical Garden,Bloomerang,Leidesdorff Place
+71,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Native Plant Nursery,San Jose/Guerrero Park,Ellis O'Farrell Garage,The Cannery
+72,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Russ Building,SIXT,Presentation Senior Community,Bay Wheels
+73,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Axiom Hotel,Alexander Building,Aquatic Park Historic District,Animal Resource Center
+74,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,White Swan Inn,101 Montgomery,Brannan Street Wharf,361 TL Residences
+75,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Holly Park,Mission Montessori,SF True Light Church,Galleria Park Hotel
+76,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,100 Montgomery,Chateau Tivoli Bed and Breakfeast,Most Holy Redeemer Parking Lot,10th Avenue & Clement Mini Park
+77,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,855 Brannan,333 Bush,Pier 1,Ellis O'Farrell Garage
+78,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Hearst Building,The Metropolitan,Crocker Amazon Playground,Hamilton Recreation Center
+79,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Russ Building,Hotel Triton,45 Fremont Center,Orchard Hotel
+80,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Garfield Elementary School,Saint Thomas More School,Pizza Avellino,Foundry Square I
+81,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,South Beach Marina Apartments,Potrero Power Station,Hayes Valley North,Foundry Square II
+82,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Page & Laguna Mini Park,San Francisco Waldorf School,Vincentian Villa,China Basin
+83,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,ABC Broadcast Center (KGO/KRON),OpenDNS,CPMC Davies Campus,One65
+84,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Twelve Hundred California,Venue,Diamond Heights Shopping Center,Hotel Emblem San Francisco
+85,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Digital Media Building,Grant Pacific Hotel,Philadelphian Seventh Day Adventist Church,Gramercy Towers
+86,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Mosso,Tunnel Top Park,Avalon at Mission Bay Phase II,City Rent-A-Car
+87,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Koshland Park,Copra,El Capistrano,Frederick Douglas Haynes Homes
+88,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Hall of Justice Service Station,Twin Peaks Hotel,5th and Mission Garage,Concourse
+89,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,5th and Mission Garage,Winston Arms Apartments,F. Lorano & Son,Ruth Asawa School of the Arts
+90,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Butterick Garage,Academy of Art University,350 Sansome,Golden Gate Park
+91,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Latte Express,SS Jeremiah O'Brien,Paramount,Ayoub & Kubein Building
+92,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,The Riptide,Fei Tan Academy of the Arts California,Penthouse Club San Francisco,California Pacific Medical Center
+93,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,CPMC California Campus,United States Park Police,The Biltmore Apartments,Aida Hotel
+94,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Northpoint Apartments,Kaiser Permanente Medical Center Geary Campus,OTD,Academy of Art University
+95,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,UCSF Mount Zion Campus,The Women's Building,Fulton Playground,Malcolm X Academy
+96,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Kaiser-Permanente French Campus,San Francisco Fire Station 1,Delancey Street Foundation,El Woods
+97,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,A,McDonald's,Fisherman's Wharf Breakwater,Seventh Avenue Presbyterian Church
+98,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Zynga,Howard Brodie Women's Residence Hall,Brenda's French Soul Food,Raw Sugar Factory / Krua Thai
+99,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Busvan for Bargains Furniture,U-Haul,Bayside Village,Landmark Building A
+100,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Millennium Tower,Delancey Street Foundation,388 Beale,Maritime Plaza
+101,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,California College of the Arts,Newton J. Tharp Commercial School,The Canyon,Buchanan Park Apartments
+102,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,The Folger Coffee Company Building,KONE,SF Realtors,Teaching Tots Preschool
+103,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Parkwide Bike Rentals & Tours,Molekule,199 Fremont,Cottage Row Mini Park
+104,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Pacific Heights Inn,Hills Plaza,McKinley Square,Boeddeker Park Clubhouse
+105,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Medical Dental Building,Pier 39,Earle Hotel,Swedenborgian Church of San Francisco
+106,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Warfield Theatre,Upper Douglass Dog Play Area,Old San Francisco Mint,Costco Parking
+107,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Family Farm,Scarlet Huntington Hotel,Al's Park,Public Safety Building
+108,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Hotel Epik,Big Rec Baseball Diamonds,100 Hooper,Grant Building
+109,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,iHeartMedia San Francisco,Palo Alto Hotel,Queen Wilhelmina Tulip Garden,Park Hill Condominiums
+110,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Claire Lilienthal Alternative School,Potrero Center,Upper Douglass Dog Play Area,Crown-Zellerbach Building
+111,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,USPS Townsend Street Facility,UCSF Mission Bay,7-Eleven,Bay Wheels
+112,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Newton J. Tharp Commercial School,Pioneer Park,Wag Hotels,Thurgood Marshall Academic High School
+113,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Saint Vincent De Paul Roman Catholic Church,Trinity Place,Metropolitan Bapist Church,Unity Spiritual Center
+114,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Mission Creek Park,La Playa Park,China Basin,The Voice of Christ Full Gospel Church
+115,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,350 Sansome,Tilden Hotel,Annie’s Hot Dogs & Snacks,Foundry Square III
+116,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,76,Pier 3 - Festival Pavillion,Performing Arts Garage,1015 Folsom
+117,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Larkin Street Youth Services,San Francisco Conservatory of Music,San Francisco Marriott Fisherman's Wharf,Heritage Marina Hotel
+118,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,828 Irving Market,Native Plant Nursery,Citibank,Soma Grand
+119,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Mills Building,Building 9,Kingdom Hall of Jehovah's Witnesses,601 Leavenworth Street
+120,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Embarcadero Center 3,Thomas Paine Square Homes,Mills Tower,West Ping Yuen
+121,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Blow Up Lab,"Willie ""Woo Woo"" Wong Park",Saint Nicholas Syrian Antiochian Orthodox Church,115 Sansome Street
+122,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,SFJAZZ Center,Green Tortoise Hostel Annex,7th Avenue & Irving Lot,Star Hotel
+123,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Hotel G,Hotel Epik,Battery Boutelle,YWCA Apartments
+124,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,The Sequoias,Hobart Building,Octavia Court,La Cocina Municipal Marketplace
+125,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Francisco Park,Bay Stockton East,Cameron Beach Yard,Adam Grant Building
+126,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Shell Building,The Olympic Club,St John's United Church of Christ,280 Beale
+127,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Central Magazine,Northstar Cafe,Civic Center Plaza,Bridge Patrol Office
+128,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,1360,The Potrero,Landmark Building A,daymoon
+129,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Museum Parc Apartments,Shell,Page Hotel,555 California Street
+130,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Camelot Hotel,Thriller Social Club,Parc 55 San Francisco - a Hilton Hotel,Landmark Building D
+131,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,201 Spear,Savings Union Bank Building,Saks Fifth Avenue,Health Right 360
+132,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Maria Victoria Apartments,Uber Headquarters Building 1,Sailors' Union of the Pacific,The Beacon
+133,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Museum Parc Apartments,Hair on Hyde,Graff,50 Beale Street
+134,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Jack Early Park,Krouzian Armenian School,Woolf House,Bank of America
+135,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Stonestown Medical Building,Kelly Cullen Community,CitizenM Union Square,The Masonic
+136,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"University of California College of the Law, San Francisco",Embarcadero Center 4,The Charles Schwab Building,Project Cannabis
+137,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Sutter Stockton Garage,JAX Tasting Room,The Crossing at East Cut,Bay Stockton East
+138,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Uber Headquarters Building 1,Native Sons Building,Full Gospel Chapel,Little Bethany Bapist Church
+139,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Uber Headquarters Building 1,The Westin St. Francis,The Seaview Residences,Pacific Collision Care
+140,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Livat Mall,Costco,Dunn-Edwards Paints,Pier 22 1/2
+141,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Albermarle Apartments,The Bay Area Metro Center,San Francisco Fire Station 17,The White House Building
+142,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Cruise,Portola Cleaners,Hotel Alder,Pacific Bay Inn
+143,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Church of Scientology of San Francisco,Peet's Coffee,Benches Park,Yale Hotel
+144,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Sonny Hotel,City College of San Francisco (CCSF) Mission Campus,St. Elizabeth,R Mustangs
+145,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Wells Fargo,Landmark Building C,Red Sea Market,Public Storage
+146,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Family Farm,Children's Day School,City Center,Geneva Community Garden
+147,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Castro Theatre,Arden,Union Hotel,Mountain Lake Park
+148,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Great Hall,Jean Parker School,Lake Merced Park,Pierce Street Garage
+149,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,1360,Luna's Coffee House,San Francisco Zoo,Rooftop Alternative Elementary School - Burnett Campus
+150,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,181 Fremont Tower,Cathedral of Saint Mary of the Assumption,555 Mission Street,Kid Power Park
+151,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Boston Hotel,One Franklin,Pacific Union Club,First National Bank of Northern California
+152,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,17,Lower Haight,Merit,Annabelle's Wash & Dry
+153,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Hotel Caza,All Hallows Chapel,E,I. Magnin & Co. Building
+154,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Salesforce Transit Center,Pier 22 1/2,SIXT,China Trade Center
+155,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Consulate General of Switzerland in San Francisco,First California Press,Hamilton Recreation Center,"Consulate General of India, San Francisco"
+156,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Kensington Park Hotel,Raymond Kimbell Playground,Van Ness Apartments,Cliff House
+157,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Hayes Valley Playground,Sheridan Elementary School,855 Brannan,Columbus Inn
+158,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,One Henry Adams,Pier D,Bill Graham Civic Auditorium,Upper Douglass Dog Play Area
+159,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Tilden Hotel,100 First Street,Tactrix Inc.,Potrero 1010
+160,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Dropbox, Inc.",828 Irving Market,Conservatory of Flowers,Valencia Gardens
+161,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Casa Loma Hotel,UCSF Medical Center at Mission Bay,AlmaVia of San Francisco,Hayes Point
+162,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,California Center,Urban Alchemy Oasis,Zebra,Cecil Williams Glide Community House
+163,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Charles Schwab,Ruth Asawa School of the Arts,The Gateway Center West,Temper Insulation
+164,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Moscone North + South,Jewish Home of San Francisco,361 TL Residences,Digital Garage
+165,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Bayview Hill Park,Glen Park,Chase Center,East Ping Yuen
+166,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Bernal Heights,Laguna Honda Hospital And Rehabilitation Center,Sharon Building,Hereford Court
+167,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,American Industrial Center,Pier 1½,Notre Dame School,365 Main Street Data Center
+168,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,1101 Connecticut,Plot to Grow Art,Market Square,In & Out Auto Glass
+169,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,San Francisco Federal Building Annex,Galilee Baptist Church,201 Spear Upper Lot,Noe Valley
+170,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Willie B. Kennedy Apartments,Hilton San Francisco Union Square,Hills Plaza,Immaculate Conception Academy
+171,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Saint James School,Queen Anne Hotel,Randall Museum,Aldea Community Center
+172,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,La Luna Inn,Arion Press,Filbert Steps Garden,Schools of the Sacred Heart San Francisco
+173,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Central Police Station,One Mission Bay,First Covenant Church,Mission Branch Library
+174,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Galileo Academy of Science and Technology,Avalon at Mission Bay Phase I,Dolce Italia Cookies,Bridge Patrol Office
+175,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,San Francisco Fire Station 20,MUNI Potrero Division Yard,District 4,Fitness SF SOMA
+176,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Tower Burger,Eureka Valley / Harvey Milk Memorial Branch Library,Mason on Mariposa,A
+177,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Children's Day School,Master Car Care,Argenta,15th Avenue Steps
+178,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Tang Fat Enterprises Company,Bay Wheels,The Bowes Center,Kid Power Park
+179,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Bank of America Building,Presidio Branch Library,Hotel Hurley,Executive Hotel Vintage Court
+180,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,La Luna Inn,MB360,Municipal Pier,100 Pine Center
+181,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Urban Alchemy Oasis,Ellis O'Farrell Garage,Broadway Tunnel,Presentation Senior Community
+182,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Bay Wheels,Tahanan,The Handlery Union Square Hotel,House of Prime Rib
+183,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Lale,Tara Street Park,OceanView Village,Taj Campton Place Hotel
+184,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Pier B,300 Ivy,SoMa Square Apartments,Wheel Works
+185,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Pier 48,Correa Building,SoMa West Dog Park,Dorothy W. Erskine Park
+186,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Four Fifty Sutter Building,The George,17,Japanese YWCA
+187,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Hotel Isabel,Bay Wheels,Delancey Street Foundation,Opera Plaza
+188,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Rincon Center,J David Gladstone Institutes,Love Chapel Church of God in Christ,San Francisco Evangelical Free Church
+189,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Hotel Riu Plaza Fisherman´s Wharf,Pier 33,Telegraph Hill Neighborhood Center (TEL HI),Pier 45
+190,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,American Cyclery Too,San Francisco Fire Station 16,One Market Plaza,Antonia Manor
+191,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Post Hotel,Leola M. Harvard Early Education School,Washington Square Park,Bay Wheels
+192,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Alma,Battery Davis,Fitness SF SOMA,101 California
+193,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Gran Oriente Filipino,Inner Parkside,Bay Wheels,Presido Trust Facilities
+194,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Inn on Grove,Bayfront Park,Paramount,E
+195,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Red Sea Market,Phelan Building,Great Hall,Japanese YWCA
+196,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Lands End,Star of the Sea School,V.C. Morris Gift Shop Building,Health Right 360
+197,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,The Inverness,J David Gladstone Institutes,The Infinity,Bay Wheels
+198,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Palace Hotel,Liverpool Lil's,Friendship Village Homes,Mason O'Farrell Garage
+199,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,University of San Francisco,John Muir Elementary School,Bay Wheels,Richmond Plaza
+200,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,TAP Plastics,University of San Francisco,Third Baptist Church,San Francisco Fire Station 32
+201,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,San Francisco Marriott Marquis,550 California Sacramento Tower,Oasis at 50 Jones,The Avery
+202,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,City College of San Francisco Alemany Campus,Douglass Playground,Beacon Grand,Presidio of San Francisco
+203,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,330 Townsend,South Beach Park,Lincoln Park,Bay Wheels
+204,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Clock Tower Building,Bridal Religion by Monique Zhang,Europa Hotel,Northridge Coop CommUNITY Garden
+205,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,The Fairmont San Francisco Hotel,Paramount,Bank of America,Foundry Square II

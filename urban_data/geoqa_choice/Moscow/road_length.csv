@@ -1,0 +1,1106 @@
+id,question,answer,A,B,C,D,E
+0,How long is Тагильская улица in the Moscow area?,C,180.0,1200.0,600.0,1800.0,100.0
+1,How long is улица Николая Химушина in the Moscow area?,D,4400.0,660.0,6600.0,2200.0,220.0
+2,How long is Старая площадь in the Moscow area?,E,100.0,200.0,100.0,300.0,100.0
+3,How long is Китайгородский проезд in the Moscow area?,A,200.0,600.0,100.0,100.0,400.0
+4,How long is площадь Варварские Ворота in the Moscow area?,D,100.0,2400.0,1600.0,800.0,240.0
+5,How long is Смольная улица in the Moscow area?,C,180.0,5400.0,1800.0,3600.0,540.0
+6,How long is Киевское шоссе in the Moscow area?,C,3600.0,540.0,1800.0,5400.0,180.0
+7,"How long is МКАД, 45-й километр in the Moscow area?",D,600.0,100.0,100.0,300.0,900.0
+8,How long is Большая Академическая улица in the Moscow area?,C,9200.0,13800.0,4600.0,460.0,1380.0
+9,How long is улица Клары Цеткин in the Moscow area?,E,14100.0,9400.0,1410.0,470.0,4700.0
+10,How long is Ленинградское шоссе in the Moscow area?,A,3900.0,390.0,7800.0,1170.0,11700.0
+11,How long is Ленинградское шоссе (дублёр) in the Moscow area?,C,3000.0,450.0,1500.0,4500.0,150.0
+12,How long is улица Усиевича in the Moscow area?,C,170.0,510.0,1700.0,3400.0,5100.0
+13,How long is улица Лизы Чайкиной in the Moscow area?,E,3600.0,540.0,5400.0,180.0,1800.0
+14,How long is площадь Космонавта Комарова in the Moscow area?,B,400.0,200.0,600.0,100.0,100.0
+15,How long is Левая Дворцовая аллея in the Moscow area?,D,1600.0,2400.0,240.0,800.0,100.0
+16,How long is Варшавское шоссе in the Moscow area?,C,13600.0,2040.0,6800.0,680.0,20400.0
+17,How long is Каширское шоссе in the Moscow area?,B,1000.0,10000.0,30000.0,3000.0,20000.0
+18,How long is Ивантеевская улица in the Moscow area?,A,3300.0,6600.0,990.0,330.0,9900.0
+19,How long is Ярославское шоссе in the Moscow area?,A,1500.0,150.0,3000.0,450.0,4500.0
+20,How long is Северянинский путепровод in the Moscow area?,A,300.0,100.0,900.0,100.0,600.0
+21,How long is проспект Мира in the Moscow area?,E,16000.0,2400.0,24000.0,800.0,8000.0
+22,How long is Садовая-Каретная улица in the Moscow area?,C,600.0,100.0,200.0,400.0,100.0
+23,How long is Ленинский проспект in the Moscow area?,A,7400.0,14800.0,2220.0,740.0,22200.0
+24,How long is Олимпийский проспект in the Moscow area?,B,780.0,2600.0,5200.0,7800.0,260.0
+25,How long is улица Дурова in the Moscow area?,D,390.0,130.0,3900.0,1300.0,2600.0
+26,How long is Рублёвское шоссе in the Moscow area?,B,9000.0,4500.0,450.0,1350.0,13500.0
+27,How long is Севастопольский проспект in the Moscow area?,A,12700.0,38100.0,25400.0,1270.0,3810.0
+28,How long is улица Айвазовского in the Moscow area?,A,900.0,100.0,270.0,2700.0,1800.0
+29,How long is Соловьиный проезд in the Moscow area?,E,420.0,2800.0,4200.0,140.0,1400.0
+30,How long is площадь Гагарина in the Moscow area?,D,600.0,100.0,100.0,300.0,900.0
+31,How long is улица Косыгина in the Moscow area?,C,580.0,17400.0,5800.0,1740.0,11600.0
+32,How long is Сухаревская эстакада in the Moscow area?,D,100.0,400.0,600.0,200.0,100.0
+33,How long is Садовая-Самотёчная улица in the Moscow area?,E,100.0,600.0,400.0,100.0,200.0
+34,How long is улица Большая Полянка in the Moscow area?,A,700.0,1400.0,100.0,2100.0,210.0
+35,How long is Якиманский проезд in the Moscow area?,C,100.0,600.0,200.0,100.0,400.0
+36,How long is Суворовская площадь in the Moscow area?,E,2100.0,1400.0,100.0,210.0,700.0
+37,How long is Рождественский бульвар in the Moscow area?,C,1800.0,2700.0,900.0,100.0,270.0
+38,How long is Трубная площадь in the Moscow area?,A,300.0,600.0,900.0,100.0,100.0
+39,How long is улица Верземнека in the Moscow area?,D,3300.0,330.0,110.0,1100.0,2200.0
+40,How long is Садовая-Сухаревская улица in the Moscow area?,A,300.0,100.0,100.0,600.0,900.0
+41,How long is Трубная улица in the Moscow area?,D,4200.0,6300.0,210.0,2100.0,630.0
+42,How long is Третье транспортное кольцо in the Moscow area?,C,2080.0,41600.0,20800.0,6240.0,62400.0
+43,How long is Кутузовский проспект in the Moscow area?,C,9600.0,14400.0,4800.0,480.0,1440.0
+44,How long is Можайское шоссе in the Moscow area?,E,2400.0,100.0,240.0,1600.0,800.0
+45,How long is Малая Сухаревская площадь in the Moscow area?,D,100.0,100.0,300.0,100.0,200.0
+46,How long is Садовая-Спасская улица in the Moscow area?,B,100.0,900.0,2700.0,270.0,1800.0
+47,How long is улица Сущёвский Вал in the Moscow area?,B,5400.0,1800.0,180.0,540.0,3600.0
+48,How long is улица Сущёвский Вал (дублёр) in the Moscow area?,B,510.0,1700.0,5100.0,170.0,3400.0
+49,How long is Рижская площадь in the Moscow area?,C,0.0,0.0,0.0,100.0,100.0
+50,How long is Большая Сухаревская площадь in the Moscow area?,E,100.0,100.0,200.0,300.0,100.0
+51,How long is Неглинная улица in the Moscow area?,A,400.0,120.0,800.0,1200.0,100.0
+52,How long is Рахмановский переулок in the Moscow area?,E,900.0,100.0,600.0,100.0,300.0
+53,How long is улица Достоевского in the Moscow area?,D,110.0,2200.0,3300.0,1100.0,330.0
+54,How long is 2-я улица Марьиной Рощи in the Moscow area?,D,180.0,100.0,1200.0,600.0,1800.0
+55,How long is 5-й проезд Марьиной Рощи in the Moscow area?,B,2400.0,1200.0,120.0,3600.0,360.0
+56,How long is 1-я Тверская-Ямская улица in the Moscow area?,B,3400.0,1700.0,170.0,5100.0,510.0
+57,How long is площадь Тверская Застава in the Moscow area?,A,400.0,120.0,100.0,800.0,1200.0
+58,How long is улица Гарибальди in the Moscow area?,C,11700.0,1170.0,3900.0,390.0,7800.0
+59,How long is улица Обручева in the Moscow area?,A,4500.0,13500.0,9000.0,450.0,1350.0
+60,How long is Большая Черёмушкинская улица in the Moscow area?,D,9300.0,930.0,6200.0,3100.0,310.0
+61,How long is улица Кржижановского in the Moscow area?,A,3600.0,360.0,7200.0,1080.0,10800.0
+62,How long is Гаврикова улица in the Moscow area?,A,800.0,1600.0,2400.0,240.0,100.0
+63,How long is Алтуфьевское шоссе in the Moscow area?,A,2100.0,4200.0,210.0,630.0,6300.0
+64,How long is Ростокинский проезд in the Moscow area?,C,630.0,4200.0,2100.0,6300.0,210.0
+65,How long is улица Бориса Галушкина in the Moscow area?,A,2500.0,7500.0,750.0,250.0,5000.0
+66,How long is улица Космонавтов in the Moscow area?,A,4800.0,9600.0,480.0,1440.0,14400.0
+67,How long is Боровицкая площадь in the Moscow area?,D,600.0,100.0,100.0,300.0,900.0
+68,How long is Манежная улица in the Moscow area?,A,500.0,150.0,1000.0,100.0,1500.0
+69,How long is улица Серафимовича in the Moscow area?,E,100.0,100.0,300.0,200.0,100.0
+70,How long is улица Нижняя Масловка in the Moscow area?,B,240.0,800.0,1600.0,100.0,2400.0
+71,How long is Бутырская улица in the Moscow area?,A,1700.0,5100.0,170.0,3400.0,510.0
+72,How long is улица Бутырский Вал in the Moscow area?,D,5800.0,290.0,870.0,2900.0,8700.0
+73,How long is Симоновская набережная in the Moscow area?,E,100.0,0.0,100.0,0.0,0.0
+74,How long is Озёрная улица in the Moscow area?,A,7500.0,22500.0,2250.0,15000.0,750.0
+75,How long is Коломенский проезд in the Moscow area?,D,4200.0,630.0,6300.0,2100.0,210.0
+76,How long is Нахимовский проспект in the Moscow area?,E,57000.0,38000.0,1900.0,5700.0,19000.0
+77,How long is Ленинградский проспект in the Moscow area?,C,1890.0,12600.0,6300.0,630.0,18900.0
+78,How long is Малая Тульская улица in the Moscow area?,C,510.0,3400.0,1700.0,170.0,5100.0
+79,How long is улица Милашенкова in the Moscow area?,C,190.0,3800.0,1900.0,570.0,5700.0
+80,How long is улица Комдива Орлова in the Moscow area?,C,3600.0,2400.0,1200.0,360.0,120.0
+81,How long is Дмитровское шоссе in the Moscow area?,C,1410.0,470.0,4700.0,14100.0,9400.0
+82,How long is Бескудниковский бульвар in the Moscow area?,E,120.0,360.0,3600.0,2400.0,1200.0
+83,How long is Большая Тульская улица in the Moscow area?,A,700.0,2100.0,100.0,1400.0,210.0
+84,How long is Загородное шоссе in the Moscow area?,D,5400.0,540.0,180.0,1800.0,3600.0
+85,How long is Шипиловский проезд in the Moscow area?,C,6800.0,340.0,3400.0,10200.0,1020.0
+86,How long is проспект Андропова in the Moscow area?,B,15000.0,5000.0,1500.0,500.0,10000.0
+87,How long is улица Маршала Шестопалова in the Moscow area?,A,1100.0,330.0,110.0,3300.0,2200.0
+88,How long is проспект Мира (дублёр) in the Moscow area?,B,5400.0,2700.0,270.0,8100.0,810.0
+89,How long is Новоалексеевская улица in the Moscow area?,C,4400.0,660.0,2200.0,220.0,6600.0
+90,How long is Графский переулок in the Moscow area?,C,1000.0,150.0,500.0,1500.0,100.0
+91,How long is Люблинская улица in the Moscow area?,E,19600.0,29400.0,980.0,2940.0,9800.0
+92,How long is Бесединское шоссе in the Moscow area?,C,6900.0,230.0,2300.0,690.0,4600.0
+93,How long is шоссе Энтузиастов in the Moscow area?,D,15900.0,530.0,10600.0,5300.0,1590.0
+94,How long is Авиамоторная улица in the Moscow area?,A,5300.0,530.0,15900.0,10600.0,1590.0
+95,How long is улица Алабяна in the Moscow area?,A,1900.0,570.0,5700.0,190.0,3800.0
+96,How long is Краснохолмская набережная in the Moscow area?,A,1500.0,3000.0,150.0,450.0,4500.0
+97,How long is Новоспасский переулок in the Moscow area?,B,3000.0,1500.0,4500.0,450.0,150.0
+98,How long is Пречистенская набережная in the Moscow area?,E,1200.0,400.0,8000.0,12000.0,4000.0
+99,How long is улица Ленивка in the Moscow area?,B,100.0,200.0,600.0,400.0,100.0
+100,How long is Ломоносовский проспект in the Moscow area?,B,380.0,3800.0,11400.0,1140.0,7600.0
+101,How long is Минская улица in the Moscow area?,E,430.0,12900.0,8600.0,1290.0,4300.0
+102,How long is Большая Дорогомиловская улица in the Moscow area?,D,1400.0,100.0,210.0,700.0,2100.0
+103,How long is Бакинская улица in the Moscow area?,D,3200.0,160.0,4800.0,1600.0,480.0
+104,How long is 2-й Брянский переулок in the Moscow area?,D,100.0,600.0,100.0,200.0,400.0
+105,How long is Брянская улица in the Moscow area?,E,100.0,2400.0,1600.0,240.0,800.0
+106,How long is улица Островитянова in the Moscow area?,B,1260.0,4200.0,8400.0,420.0,12600.0
+107,How long is Кавказский бульвар in the Moscow area?,C,11400.0,380.0,3800.0,1140.0,7600.0
+108,How long is улица Кошкина in the Moscow area?,D,1800.0,100.0,270.0,900.0,2700.0
+109,How long is Костомаровская набережная in the Moscow area?,D,100.0,900.0,600.0,300.0,100.0
+110,How long is Полуярославская набережная in the Moscow area?,C,600.0,100.0,300.0,900.0,100.0
+111,How long is Люсиновская улица in the Moscow area?,D,100.0,1400.0,210.0,700.0,2100.0
+112,How long is площадь Серпуховская Застава in the Moscow area?,E,100.0,100.0,0.0,0.0,0.0
+113,How long is проектируемый проезд № 1824 in the Moscow area?,C,2400.0,360.0,1200.0,120.0,3600.0
+114,How long is Мичуринский проспект in the Moscow area?,E,4140.0,27600.0,1380.0,41400.0,13800.0
+115,How long is Ломоносовский проспект (дублёр) in the Moscow area?,E,13200.0,1980.0,660.0,19800.0,6600.0
+116,How long is улица Симоновский Вал in the Moscow area?,D,4800.0,480.0,3200.0,1600.0,160.0
+117,How long is Зубовский бульвар in the Moscow area?,A,800.0,100.0,240.0,2400.0,1600.0
+118,How long is улица Крымский Вал in the Moscow area?,B,1800.0,900.0,100.0,270.0,2700.0
+119,How long is Большая Семёновская улица in the Moscow area?,A,900.0,100.0,270.0,2700.0,1800.0
+120,How long is Бакунинская улица in the Moscow area?,B,750.0,2500.0,5000.0,7500.0,250.0
+121,How long is улица Стромынка in the Moscow area?,E,5400.0,3600.0,540.0,180.0,1800.0
+122,How long is Зелёный проспект in the Moscow area?,E,2000.0,3000.0,300.0,100.0,1000.0
+123,How long is Преображенская улица in the Moscow area?,B,1000.0,500.0,150.0,1500.0,100.0
+124,How long is Аминьевское шоссе (дублёр) in the Moscow area?,D,290.0,8700.0,870.0,2900.0,5800.0
+125,How long is Шмитовский проезд in the Moscow area?,B,930.0,3100.0,6200.0,9300.0,310.0
+126,How long is Третье Транспортное кольцо in the Moscow area?,E,300.0,100.0,200.0,100.0,100.0
+127,How long is Звенигородское шоссе in the Moscow area?,D,350.0,10500.0,1050.0,3500.0,7000.0
+128,How long is Спартаковский переулок in the Moscow area?,A,300.0,100.0,100.0,600.0,900.0
+129,How long is Щёлковское шоссе in the Moscow area?,E,6600.0,220.0,660.0,4400.0,2200.0
+130,How long is Большая Черкизовская улица in the Moscow area?,E,5400.0,540.0,180.0,3600.0,1800.0
+131,How long is Профсоюзная улица in the Moscow area?,B,1280.0,12800.0,25600.0,3840.0,38400.0
+132,How long is Новочерёмушкинская улица in the Moscow area?,B,660.0,6600.0,19800.0,1980.0,13200.0
+133,How long is улица Цюрупы in the Moscow area?,E,100.0,0.0,0.0,100.0,0.0
+134,How long is Чертановская улица in the Moscow area?,C,7400.0,1110.0,3700.0,370.0,11100.0
+135,How long is Днепропетровская улица in the Moscow area?,D,3150.0,1050.0,21000.0,10500.0,31500.0
+136,How long is Профсоюзная улица (дублёр) in the Moscow area?,B,300.0,1000.0,2000.0,3000.0,100.0
+137,How long is Новомосковская улица in the Moscow area?,D,4200.0,420.0,140.0,1400.0,2800.0
+138,How long is Шереметьевская улица in the Moscow area?,B,3600.0,1800.0,540.0,5400.0,180.0
+139,How long is Соймоновский проезд in the Moscow area?,A,400.0,800.0,120.0,100.0,1200.0
+140,How long is улица Земляной Вал in the Moscow area?,D,3000.0,450.0,4500.0,1500.0,150.0
+141,How long is улица Гризодубовой in the Moscow area?,A,1300.0,3900.0,390.0,2600.0,130.0
+142,How long is улица Адмирала Корнилова in the Moscow area?,D,1440.0,43200.0,4320.0,14400.0,28800.0
+143,How long is проспект Вернадского in the Moscow area?,B,12600.0,4200.0,420.0,1260.0,8400.0
+144,How long is улица Амундсена in the Moscow area?,C,1600.0,100.0,800.0,2400.0,240.0
+145,How long is Михалковская улица in the Moscow area?,B,9000.0,3000.0,900.0,6000.0,300.0
+146,How long is Коптевская улица in the Moscow area?,B,5700.0,1900.0,3800.0,570.0,190.0
+147,How long is улица Новая Башиловка in the Moscow area?,B,2100.0,700.0,210.0,100.0,1400.0
+148,How long is Андроньевская набережная in the Moscow area?,E,170.0,3400.0,510.0,5100.0,1700.0
+149,How long is Красноказарменная набережная in the Moscow area?,E,180.0,100.0,1200.0,1800.0,600.0
+150,How long is Беговая улица in the Moscow area?,E,270.0,1800.0,100.0,2700.0,900.0
+151,How long is улица Новый Арбат in the Moscow area?,B,6000.0,2000.0,4000.0,200.0,600.0
+152,How long is Кудринская площадь in the Moscow area?,E,100.0,0.0,0.0,100.0,0.0
+153,How long is Новинский бульвар in the Moscow area?,C,100.0,1500.0,500.0,150.0,1000.0
+154,How long is Площадь Фиделя Кастро in the Moscow area?,E,200.0,100.0,300.0,100.0,100.0
+155,How long is Новопесчаная улица in the Moscow area?,E,540.0,3600.0,180.0,5400.0,1800.0
+156,How long is Хорошёвское шоссе in the Moscow area?,D,280.0,5600.0,840.0,2800.0,8400.0
+157,How long is улица 1905 года in the Moscow area?,D,3400.0,170.0,510.0,1700.0,5100.0
+158,How long is улица Академика Королёва in the Moscow area?,C,230.0,4600.0,2300.0,690.0,6900.0
+159,How long is Останкинский проезд in the Moscow area?,C,150.0,100.0,500.0,1000.0,1500.0
+160,How long is улица Сальвадора Альенде in the Moscow area?,B,100.0,600.0,1800.0,180.0,1200.0
+161,How long is Ладожская улица in the Moscow area?,B,100.0,300.0,100.0,900.0,600.0
+162,How long is 4-й Ирининский переулок in the Moscow area?,D,0.0,100.0,0.0,0.0,100.0
+163,How long is улица Большая Якиманка in the Moscow area?,E,3600.0,120.0,2400.0,360.0,1200.0
+164,How long is Подколокольный переулок in the Moscow area?,E,150.0,1000.0,1500.0,100.0,500.0
+165,How long is Волгоградский проспект in the Moscow area?,A,7700.0,2310.0,770.0,15400.0,23100.0
+166,How long is площадь Крестьянская Застава in the Moscow area?,B,100.0,600.0,1800.0,1200.0,180.0
+167,How long is Таганская улица in the Moscow area?,B,100.0,700.0,210.0,2100.0,1400.0
+168,How long is Товарищеский переулок in the Moscow area?,C,780.0,7800.0,2600.0,260.0,5200.0
+169,How long is Таганская площадь in the Moscow area?,C,100.0,600.0,300.0,100.0,900.0
+170,How long is Комсомольский проспект in the Moscow area?,E,380.0,11400.0,7600.0,1140.0,3800.0
+171,How long is улица Тимура Фрунзе in the Moscow area?,D,1800.0,100.0,1200.0,600.0,180.0
+172,How long is Житная улица in the Moscow area?,B,1200.0,400.0,120.0,800.0,100.0
+173,How long is Садовое кольцо in the Moscow area?,D,4200.0,2800.0,420.0,1400.0,140.0
+174,How long is Комсомольский проспект (дублёр) in the Moscow area?,E,900.0,100.0,600.0,100.0,300.0
+175,How long is улица Остоженка in the Moscow area?,C,220.0,6600.0,2200.0,660.0,4400.0
+176,How long is Крымский проезд in the Moscow area?,D,300.0,100.0,100.0,100.0,200.0
+177,How long is улица Золоторожский Вал in the Moscow area?,E,200.0,6000.0,600.0,4000.0,2000.0
+178,How long is Средний Золоторожский переулок in the Moscow area?,D,1000.0,150.0,1500.0,500.0,100.0
+179,How long is Андроньевская площадь in the Moscow area?,E,100.0,0.0,100.0,0.0,0.0
+180,How long is улица Академика Пилюгина in the Moscow area?,E,720.0,4800.0,7200.0,240.0,2400.0
+181,How long is улица Дмитрия Ульянова in the Moscow area?,E,330.0,6600.0,990.0,9900.0,3300.0
+182,How long is Нижегородская улица in the Moscow area?,D,6200.0,930.0,310.0,3100.0,9300.0
+183,How long is улица Свободы in the Moscow area?,D,24900.0,2490.0,830.0,8300.0,16600.0
+184,How long is проспект 60-летия Октября in the Moscow area?,B,160.0,1600.0,4800.0,480.0,3200.0
+185,How long is улица Академика Зелинского in the Moscow area?,E,100.0,1200.0,180.0,1800.0,600.0
+186,How long is Смоленская-Сенная площадь in the Moscow area?,E,100.0,900.0,100.0,600.0,300.0
+187,How long is Малая Черкизовская улица in the Moscow area?,B,110.0,1100.0,2200.0,3300.0,330.0
+188,How long is Кадашёвская набережная in the Moscow area?,C,1800.0,2700.0,900.0,100.0,270.0
+189,How long is Станционная улица in the Moscow area?,D,750.0,5000.0,7500.0,2500.0,250.0
+190,How long is улица Светланова in the Moscow area?,B,230.0,2300.0,6900.0,690.0,4600.0
+191,How long is улица Верхние Поля in the Moscow area?,B,190.0,1900.0,3800.0,5700.0,570.0
+192,How long is улица Перерва in the Moscow area?,D,780.0,2340.0,15600.0,7800.0,23400.0
+193,How long is Университетский проспект in the Moscow area?,D,6200.0,930.0,9300.0,3100.0,310.0
+194,How long is проспект Вернадского (дублёр) in the Moscow area?,A,4700.0,1410.0,14100.0,470.0,9400.0
+195,How long is Юго-Восточная хорда in the Moscow area?,C,5970.0,59700.0,19900.0,1990.0,39800.0
+196,How long is Совхозная улица in the Moscow area?,C,380.0,1140.0,3800.0,11400.0,7600.0
+197,How long is Велозаводская улица in the Moscow area?,E,100.0,1400.0,2100.0,210.0,700.0
+198,How long is улица Сайкина in the Moscow area?,D,1800.0,1200.0,100.0,600.0,180.0
+199,How long is Волгоградский проспект (дублёр) in the Moscow area?,A,3300.0,990.0,330.0,9900.0,6600.0
+200,How long is Поречная улица in the Moscow area?,E,250.0,7500.0,5000.0,750.0,2500.0
+201,How long is Кременчугская улица in the Moscow area?,D,23100.0,2310.0,770.0,7700.0,15400.0
+202,How long is Багратионовский проезд in the Moscow area?,B,1800.0,600.0,180.0,100.0,1200.0
+203,How long is улица Барклая (дублёр) in the Moscow area?,C,390.0,2600.0,1300.0,130.0,3900.0
+204,How long is улица Барклая in the Moscow area?,C,520.0,15600.0,5200.0,1560.0,10400.0
+205,How long is 2-я улица Машиностроения in the Moscow area?,D,7000.0,1050.0,350.0,3500.0,10500.0
+206,How long is Строгинское шоссе in the Moscow area?,D,3600.0,120.0,2400.0,1200.0,360.0
+207,How long is Новощукинская улица in the Moscow area?,E,5700.0,570.0,3800.0,190.0,1900.0
+208,How long is Живописная улица in the Moscow area?,B,21600.0,10800.0,3240.0,1080.0,32400.0
+209,How long is улица Добролюбова in the Moscow area?,C,570.0,190.0,1900.0,3800.0,5700.0
+210,How long is Менделеевская улица in the Moscow area?,B,3600.0,1200.0,120.0,360.0,2400.0
+211,How long is Сусоколовское шоссе in the Moscow area?,B,210.0,700.0,2100.0,100.0,1400.0
+212,How long is Огородный проезд in the Moscow area?,C,360.0,7200.0,3600.0,10800.0,1080.0
+213,How long is улица Фонвизина in the Moscow area?,B,390.0,1300.0,2600.0,130.0,3900.0
+214,How long is улица Павла Корчагина in the Moscow area?,D,330.0,3300.0,110.0,1100.0,2200.0
+215,How long is Старообрядческая улица in the Moscow area?,B,110.0,1100.0,3300.0,330.0,2200.0
+216,How long is улица Рогожский Посёлок in the Moscow area?,A,900.0,270.0,1800.0,2700.0,100.0
+217,How long is Волоколамское шоссе in the Moscow area?,D,1740.0,580.0,11600.0,5800.0,17400.0
+218,How long is Малый Песчаный переулок in the Moscow area?,C,1800.0,1200.0,600.0,180.0,100.0
+219,How long is Пятигорская улица in the Moscow area?,D,240.0,2400.0,100.0,800.0,1600.0
+220,How long is Рязанский проспект (дублёр) in the Moscow area?,C,300.0,2000.0,1000.0,3000.0,100.0
+221,How long is Ярославское шоссе (дублёр) in the Moscow area?,C,870.0,290.0,2900.0,5800.0,8700.0
+222,How long is Марксистская улица in the Moscow area?,E,220.0,6600.0,660.0,4400.0,2200.0
+223,How long is улица Хачатуряна in the Moscow area?,C,390.0,2600.0,1300.0,3900.0,130.0
+224,How long is Ленинский проспект (дублёр) in the Moscow area?,B,14200.0,7100.0,21300.0,2130.0,710.0
+225,How long is Шелепихинское шоссе in the Moscow area?,E,180.0,5400.0,540.0,3600.0,1800.0
+226,How long is Лужнецкий проезд in the Moscow area?,D,300.0,2000.0,100.0,1000.0,3000.0
+227,How long is улица Мнёвники in the Moscow area?,D,1380.0,9200.0,460.0,4600.0,13800.0
+228,How long is Аминьевское шоссе in the Moscow area?,D,150.0,450.0,4500.0,1500.0,3000.0
+229,How long is Можайское шоссе (дублёр) in the Moscow area?,D,2600.0,130.0,3900.0,1300.0,390.0
+230,How long is Старопетровский проезд in the Moscow area?,A,2900.0,870.0,290.0,8700.0,5800.0
+231,How long is Симферопольский проезд in the Moscow area?,D,240.0,1600.0,100.0,800.0,2400.0
+232,How long is Нагатинская набережная in the Moscow area?,B,12900.0,4300.0,8600.0,1290.0,430.0
+233,How long is проспект Маршала Жукова in the Moscow area?,A,7800.0,15600.0,23400.0,780.0,2340.0
+234,How long is бульвар Генерала Карбышева in the Moscow area?,A,2400.0,720.0,7200.0,4800.0,240.0
+235,How long is 4-й Войковский проезд in the Moscow area?,D,800.0,1200.0,120.0,400.0,100.0
+236,How long is 2-я Радиаторская улица in the Moscow area?,A,600.0,100.0,1800.0,1200.0,180.0
+237,How long is Кронштадтский бульвар in the Moscow area?,E,1290.0,430.0,8600.0,12900.0,4300.0
+238,How long is Ростовская набережная in the Moscow area?,B,100.0,400.0,1200.0,120.0,800.0
+239,How long is 1-й Вражский переулок in the Moscow area?,C,100.0,600.0,200.0,100.0,400.0
+240,How long is 1-й Кожуховский проезд in the Moscow area?,A,800.0,240.0,1600.0,100.0,2400.0
+241,How long is 2-й Кожуховский проезд in the Moscow area?,C,100.0,2400.0,800.0,240.0,1600.0
+242,How long is Боровское шоссе in the Moscow area?,D,380.0,11400.0,1140.0,3800.0,7600.0
+243,How long is Боровское шоссе (дублёр) in the Moscow area?,D,100.0,100.0,200.0,100.0,300.0
+244,How long is Широкий проезд in the Moscow area?,A,1600.0,4800.0,480.0,3200.0,160.0
+245,How long is Проспект Мира (дублёр) in the Moscow area?,C,100.0,300.0,1000.0,2000.0,3000.0
+246,How long is Автозаводская площадь in the Moscow area?,E,100.0,800.0,1200.0,120.0,400.0
+247,How long is улица Ремизова in the Moscow area?,D,4000.0,6000.0,600.0,2000.0,200.0
+248,How long is Автозаводская улица in the Moscow area?,B,270.0,900.0,1800.0,2700.0,100.0
+249,"How long is МКАД, 44-й километр in the Moscow area?",E,1200.0,800.0,120.0,100.0,400.0
+250,"How long is МКАД, 42-й километр in the Moscow area?",B,120.0,400.0,1200.0,800.0,100.0
+251,"How long is МКАД, 41-й километр in the Moscow area?",E,300.0,200.0,100.0,100.0,100.0
+252,"How long is МКАД, 46-й километр in the Moscow area?",A,400.0,120.0,1200.0,100.0,800.0
+253,"How long is МКАД, 47-й километр in the Moscow area?",E,100.0,100.0,900.0,600.0,300.0
+254,How long is проезд Серебрякова in the Moscow area?,E,7200.0,720.0,240.0,4800.0,2400.0
+255,How long is Рязанский проспект in the Moscow area?,E,870.0,8700.0,5800.0,290.0,2900.0
+256,How long is проспект Академика Сахарова in the Moscow area?,E,1600.0,2400.0,100.0,240.0,800.0
+257,How long is Ленинградский проспект (дублёр) in the Moscow area?,E,200.0,100.0,100.0,300.0,100.0
+258,How long is Балтийская улица in the Moscow area?,D,170.0,3400.0,510.0,1700.0,5100.0
+259,How long is площадь Рогожская Застава in the Moscow area?,B,3000.0,1000.0,100.0,300.0,2000.0
+260,How long is Оружейный переулок in the Moscow area?,C,120.0,1200.0,400.0,100.0,800.0
+261,How long is Садовая-Кудринская улица in the Moscow area?,A,900.0,2700.0,270.0,1800.0,100.0
+262,How long is Баррикадная улица in the Moscow area?,B,4200.0,1400.0,420.0,2800.0,140.0
+263,How long is Дубининская улица in the Moscow area?,B,690.0,2300.0,6900.0,4600.0,230.0
+264,How long is 3-й Автозаводский проезд in the Moscow area?,C,3600.0,5400.0,1800.0,180.0,540.0
+265,How long is улица Линии Октябрьской Железной Дороги in the Moscow area?,B,5700.0,1900.0,190.0,3800.0,570.0
+266,How long is Дмитровское шоссе (дублёр) in the Moscow area?,C,270.0,100.0,900.0,1800.0,2700.0
+267,How long is улица Народного Ополчения in the Moscow area?,A,1800.0,540.0,3600.0,5400.0,180.0
+268,How long is Северо-западная хорда in the Moscow area?,A,300.0,100.0,600.0,100.0,900.0
+269,How long is Карамышевский проезд in the Moscow area?,E,100.0,200.0,300.0,100.0,100.0
+270,How long is Песчаная улица in the Moscow area?,A,1800.0,3600.0,540.0,5400.0,180.0
+271,How long is Мытная улица in the Moscow area?,B,130.0,1300.0,3900.0,2600.0,390.0
+272,How long is Большая Садовая улица in the Moscow area?,A,700.0,100.0,210.0,1400.0,2100.0
+273,How long is Триумфальная площадь in the Moscow area?,D,1000.0,1500.0,100.0,500.0,150.0
+274,How long is 1-й Магистральный тупик in the Moscow area?,D,3000.0,100.0,2000.0,1000.0,300.0
+275,How long is Украинский бульвар in the Moscow area?,E,210.0,2100.0,100.0,1400.0,700.0
+276,How long is Гостиничный проезд in the Moscow area?,E,0.0,100.0,0.0,100.0,0.0
+277,How long is Ботаническая улица in the Moscow area?,E,9600.0,960.0,6400.0,320.0,3200.0
+278,How long is Варшавское шоссе (дублёр) in the Moscow area?,C,16500.0,11000.0,5500.0,550.0,1650.0
+279,How long is Сигнальный проезд in the Moscow area?,D,470.0,1410.0,9400.0,4700.0,14100.0
+280,How long is Северо-Восточная хорда in the Moscow area?,B,92700.0,30900.0,61800.0,9270.0,3090.0
+281,How long is Валаамская улица in the Moscow area?,C,220.0,4400.0,2200.0,660.0,6600.0
+282,How long is 3-я Песчаная улица in the Moscow area?,C,140.0,420.0,1400.0,4200.0,2800.0
+283,How long is улица Кожевнический Вражек in the Moscow area?,B,11700.0,3900.0,1170.0,390.0,7800.0
+284,How long is Рябиновая улица in the Moscow area?,D,5600.0,280.0,840.0,2800.0,8400.0
+285,How long is Долгоруковская улица in the Moscow area?,E,7800.0,260.0,780.0,5200.0,2600.0
+286,How long is 11-я улица Текстильщиков in the Moscow area?,E,0.0,0.0,100.0,100.0,0.0
+287,How long is Раменский бульвар in the Moscow area?,D,7500.0,750.0,250.0,2500.0,5000.0
+288,How long is Зубовская улица in the Moscow area?,D,100.0,100.0,400.0,200.0,600.0
+289,How long is проезд Девичьего Поля in the Moscow area?,B,1800.0,600.0,180.0,1200.0,100.0
+290,How long is Чонгарский бульвар in the Moscow area?,B,14400.0,4800.0,9600.0,1440.0,480.0
+291,How long is Смоленская улица in the Moscow area?,A,400.0,800.0,120.0,1200.0,100.0
+292,How long is улица Плющиха in the Moscow area?,A,4500.0,13500.0,1350.0,450.0,9000.0
+293,How long is Новокрымский проезд in the Moscow area?,C,600.0,100.0,200.0,400.0,100.0
+294,How long is Графитный проезд in the Moscow area?,E,120.0,1200.0,100.0,800.0,400.0
+295,How long is Спартаковская площадь in the Moscow area?,C,100.0,120.0,400.0,1200.0,800.0
+296,How long is Электродный проезд in the Moscow area?,E,4200.0,6300.0,630.0,210.0,2100.0
+297,How long is улица Лётчика Бабушкина in the Moscow area?,E,3600.0,5400.0,540.0,180.0,1800.0
+298,How long is Енисейская улица in the Moscow area?,D,4800.0,7200.0,240.0,2400.0,720.0
+299,How long is улица Олеко Дундича in the Moscow area?,C,750.0,7500.0,2500.0,250.0,5000.0
+300,How long is проспект Будённого in the Moscow area?,E,11700.0,1170.0,7800.0,390.0,3900.0
+301,How long is Мосфильмовская улица in the Moscow area?,B,15900.0,5300.0,10600.0,1590.0,530.0
+302,"How long is МКАД, 43-й километр in the Moscow area?",E,100.0,300.0,100.0,200.0,100.0
+303,How long is улица Миклухо-Маклая in the Moscow area?,A,6800.0,2040.0,680.0,13600.0,20400.0
+304,How long is улица Вильгельма Пика in the Moscow area?,D,5400.0,8100.0,270.0,2700.0,810.0
+305,How long is Смоленская площадь in the Moscow area?,E,0.0,0.0,100.0,100.0,0.0
+306,How long is Радужная улица in the Moscow area?,A,600.0,1800.0,180.0,1200.0,100.0
+307,How long is проектируемый проезд № 6334 in the Moscow area?,A,300.0,100.0,900.0,100.0,600.0
+308,How long is проектируемый проезд № 6335 in the Moscow area?,A,200.0,400.0,100.0,100.0,600.0
+309,How long is Рубцовская набережная in the Moscow area?,D,100.0,300.0,3000.0,1000.0,2000.0
+310,How long is Рубцов переулок in the Moscow area?,C,130.0,2600.0,1300.0,3900.0,390.0
+311,How long is Николоямская улица in the Moscow area?,C,1410.0,470.0,4700.0,14100.0,9400.0
+312,How long is Южнопортовая улица in the Moscow area?,D,10200.0,15300.0,1530.0,5100.0,510.0
+313,How long is 2-й Кабельный проезд in the Moscow area?,A,1400.0,4200.0,420.0,140.0,2800.0
+314,How long is Измайловское шоссе in the Moscow area?,A,4800.0,14400.0,1440.0,9600.0,480.0
+315,How long is Каланчёвская улица in the Moscow area?,A,2000.0,6000.0,600.0,4000.0,200.0
+316,How long is Грохольский переулок in the Moscow area?,A,1700.0,510.0,3400.0,170.0,5100.0
+317,How long is Комсомольская площадь in the Moscow area?,D,1200.0,120.0,100.0,400.0,800.0
+318,How long is проектируемый проезд № 4423 in the Moscow area?,E,100.0,600.0,100.0,900.0,300.0
+319,How long is проектируемый проезд № 6095 in the Moscow area?,B,5100.0,1700.0,510.0,3400.0,170.0
+320,How long is Самотёчная улица in the Moscow area?,B,900.0,300.0,100.0,600.0,100.0
+321,How long is улица Хамовнический Вал in the Moscow area?,C,7200.0,4800.0,2400.0,240.0,720.0
+322,How long is улица Доватора in the Moscow area?,A,1300.0,130.0,2600.0,3900.0,390.0
+323,How long is Саввинская набережная in the Moscow area?,E,4200.0,6300.0,210.0,630.0,2100.0
+324,How long is 2-й переулок Тружеников in the Moscow area?,D,600.0,100.0,900.0,300.0,100.0
+325,How long is Смоленская набережная in the Moscow area?,D,160.0,4800.0,3200.0,1600.0,480.0
+326,How long is Краснопресненская набережная in the Moscow area?,A,2700.0,5400.0,270.0,810.0,8100.0
+327,How long is улица Вавилова in the Moscow area?,D,2910.0,970.0,29100.0,9700.0,19400.0
+328,How long is улица Кравченко in the Moscow area?,B,240.0,800.0,1600.0,100.0,2400.0
+329,How long is Большая Филёвская улица in the Moscow area?,E,360.0,7200.0,1080.0,10800.0,3600.0
+330,How long is Мукомольный проезд in the Moscow area?,E,100.0,0.0,0.0,100.0,0.0
+331,How long is проектируемый проезд № 2017 in the Moscow area?,D,5000.0,250.0,7500.0,2500.0,750.0
+332,How long is Большая Почтовая улица in the Moscow area?,A,4000.0,12000.0,8000.0,1200.0,400.0
+333,How long is Вернисажная улица in the Moscow area?,A,1300.0,390.0,2600.0,3900.0,130.0
+334,How long is Фестивальная улица in the Moscow area?,A,700.0,210.0,2100.0,100.0,1400.0
+335,How long is Песчаная площадь in the Moscow area?,E,200.0,300.0,100.0,100.0,100.0
+336,How long is улица Куусинена in the Moscow area?,B,6600.0,2200.0,220.0,4400.0,660.0
+337,How long is улица Народного Ополчения (дублёр) in the Moscow area?,E,130.0,390.0,2600.0,3900.0,1300.0
+338,How long is Батайская улица in the Moscow area?,D,100.0,200.0,100.0,100.0,300.0
+339,How long is Пролетарский проспект in the Moscow area?,A,3300.0,330.0,990.0,9900.0,6600.0
+340,How long is Кантемировская улица in the Moscow area?,A,17000.0,5100.0,1700.0,51000.0,34000.0
+341,How long is 2-й Поперечный проезд in the Moscow area?,E,100.0,100.0,0.0,0.0,0.0
+342,How long is Устьинский проезд in the Moscow area?,A,1400.0,420.0,4200.0,140.0,2800.0
+343,How long is Миллионная улица in the Moscow area?,C,120.0,3600.0,1200.0,2400.0,360.0
+344,How long is проезд Апакова in the Moscow area?,B,600.0,300.0,100.0,900.0,100.0
+345,How long is Большая Пироговская улица in the Moscow area?,D,310.0,6200.0,9300.0,3100.0,930.0
+346,How long is улица Еланского in the Moscow area?,B,1600.0,800.0,240.0,2400.0,100.0
+347,How long is Волоколамское шоссе (дублёр) in the Moscow area?,C,15300.0,1530.0,5100.0,10200.0,510.0
+348,How long is Измайловский проезд in the Moscow area?,B,9600.0,3200.0,320.0,6400.0,960.0
+349,How long is 2-я Прядильная улица in the Moscow area?,E,100.0,600.0,400.0,100.0,200.0
+350,How long is Университетская площадь in the Moscow area?,B,1500.0,500.0,150.0,1000.0,100.0
+351,How long is 2-й Красногвардейский проезд in the Moscow area?,D,100.0,270.0,1800.0,900.0,2700.0
+352,How long is Калужская площадь in the Moscow area?,E,200.0,100.0,100.0,300.0,100.0
+353,How long is улица Серпуховский Вал in the Moscow area?,E,390.0,3900.0,130.0,2600.0,1300.0
+354,How long is 15-й проезд Марьиной Рощи in the Moscow area?,E,1200.0,120.0,100.0,800.0,400.0
+355,How long is переулок Хользунова in the Moscow area?,A,1000.0,3000.0,300.0,2000.0,100.0
+356,How long is Перовская улица in the Moscow area?,D,630.0,210.0,6300.0,2100.0,4200.0
+357,How long is шоссе Энтузиастов (дублёр) in the Moscow area?,E,4600.0,230.0,690.0,6900.0,2300.0
+358,How long is Звёздный бульвар in the Moscow area?,E,19500.0,13000.0,650.0,1950.0,6500.0
+359,How long is Иловайская улица in the Moscow area?,A,2400.0,720.0,7200.0,240.0,4800.0
+360,How long is улица Знаменка in the Moscow area?,A,200.0,100.0,400.0,100.0,600.0
+361,How long is 1-й Южнопортовый проезд in the Moscow area?,D,300.0,100.0,100.0,100.0,200.0
+362,How long is Балаклавский проспект in the Moscow area?,C,12900.0,8600.0,4300.0,430.0,1290.0
+363,How long is 1-й Поперечный проезд in the Moscow area?,E,0.0,100.0,0.0,100.0,0.0
+364,How long is Воробьёвское шоссе in the Moscow area?,D,100.0,900.0,100.0,300.0,600.0
+365,How long is Рязанский проезд in the Moscow area?,E,200.0,300.0,100.0,100.0,100.0
+366,How long is улица Зацепский Вал in the Moscow area?,A,300.0,100.0,900.0,600.0,100.0
+367,How long is Валовая улица in the Moscow area?,C,1500.0,100.0,500.0,150.0,1000.0
+368,How long is 1-я Владимирская улица in the Moscow area?,D,400.0,100.0,100.0,200.0,600.0
+369,How long is Химкинский бульвар in the Moscow area?,D,1800.0,100.0,2700.0,900.0,270.0
+370,How long is улица Красина in the Moscow area?,A,1500.0,3000.0,4500.0,150.0,450.0
+371,How long is Иваньковское шоссе in the Moscow area?,D,2000.0,300.0,100.0,1000.0,3000.0
+372,How long is Москворецкая набережная in the Moscow area?,E,210.0,2100.0,1400.0,100.0,700.0
+373,How long is Кремлёвская набережная in the Moscow area?,E,100.0,1200.0,800.0,120.0,400.0
+374,How long is площадь Васильевский Спуск in the Moscow area?,B,600.0,300.0,100.0,900.0,100.0
+375,How long is Донецкая улица in the Moscow area?,E,8400.0,1260.0,12600.0,420.0,4200.0
+376,How long is Нижняя Краснохолмская улица in the Moscow area?,C,0.0,0.0,0.0,100.0,100.0
+377,How long is Садовническая набережная in the Moscow area?,D,1110.0,7400.0,370.0,3700.0,11100.0
+378,How long is Алабяно-Балтийский тоннель in the Moscow area?,E,1800.0,1200.0,180.0,100.0,600.0
+379,How long is 3-я Фрунзенская улица in the Moscow area?,C,4200.0,2800.0,1400.0,140.0,420.0
+380,How long is проектируемый проезд № 2236 in the Moscow area?,D,390.0,130.0,3900.0,1300.0,2600.0
+381,How long is Братиславская улица in the Moscow area?,E,3600.0,540.0,180.0,5400.0,1800.0
+382,How long is Серебряническая набережная in the Moscow area?,B,900.0,300.0,100.0,100.0,600.0
+383,How long is Самотёчная эстакада in the Moscow area?,C,100.0,100.0,200.0,600.0,400.0
+384,How long is Новослободская улица in the Moscow area?,D,4200.0,140.0,420.0,1400.0,2800.0
+385,How long is 2-я Магистральная улица in the Moscow area?,C,540.0,180.0,1800.0,3600.0,5400.0
+386,How long is 3-я Магистральная улица in the Moscow area?,C,3300.0,2200.0,1100.0,330.0,110.0
+387,How long is проспект Генерала Дорохова in the Moscow area?,C,35600.0,1780.0,17800.0,53400.0,5340.0
+388,How long is улица Коровий Вал in the Moscow area?,B,900.0,300.0,100.0,100.0,600.0
+389,How long is Садовая-Триумфальная улица in the Moscow area?,A,400.0,1200.0,100.0,800.0,120.0
+390,How long is Верхняя Сыромятническая улица in the Moscow area?,A,1500.0,4500.0,3000.0,450.0,150.0
+391,How long is Большая Никитская улица in the Moscow area?,A,5800.0,17400.0,580.0,11600.0,1740.0
+392,How long is Проточный переулок in the Moscow area?,A,1400.0,420.0,2800.0,140.0,4200.0
+393,How long is улица Шкулёва in the Moscow area?,C,1020.0,6800.0,3400.0,340.0,10200.0
+394,How long is Арбатская площадь in the Moscow area?,E,100.0,100.0,0.0,0.0,0.0
+395,How long is улица Кибальчича in the Moscow area?,A,5500.0,550.0,16500.0,11000.0,1650.0
+396,How long is проспект Маршала Жукова (дублёр) in the Moscow area?,D,450.0,150.0,4500.0,1500.0,3000.0
+397,How long is Театральный проезд in the Moscow area?,D,0.0,100.0,0.0,0.0,100.0
+398,How long is Лубянская площадь in the Moscow area?,D,100.0,1600.0,240.0,800.0,2400.0
+399,How long is Новоданиловский проезд in the Moscow area?,A,1400.0,2800.0,420.0,140.0,4200.0
+400,How long is 1-й Красногвардейский проезд in the Moscow area?,D,3000.0,450.0,150.0,1500.0,4500.0
+401,How long is Дубнинская улица in the Moscow area?,C,3300.0,110.0,1100.0,330.0,2200.0
+402,How long is Орлово-Давыдовский переулок in the Moscow area?,C,100.0,120.0,400.0,800.0,1200.0
+403,How long is Кировоградская улица in the Moscow area?,B,12600.0,4200.0,420.0,1260.0,8400.0
+404,How long is Сумская улица in the Moscow area?,A,2300.0,4600.0,230.0,6900.0,690.0
+405,How long is улица 1812 Года in the Moscow area?,B,9800.0,4900.0,490.0,14700.0,1470.0
+406,How long is Богородское шоссе in the Moscow area?,A,10300.0,20600.0,1030.0,3090.0,30900.0
+407,How long is проспект Ветеранов in the Moscow area?,A,5100.0,15300.0,10200.0,1530.0,510.0
+408,How long is Староможайское шоссе in the Moscow area?,A,700.0,100.0,1400.0,210.0,2100.0
+409,How long is улица Антонова-Овсеенко in the Moscow area?,E,600.0,100.0,400.0,100.0,200.0
+410,How long is улица Подвойского in the Moscow area?,B,100.0,1000.0,3000.0,2000.0,300.0
+411,How long is 3-й Крутицкий переулок in the Moscow area?,D,2800.0,140.0,420.0,1400.0,4200.0
+412,How long is улица Нижние Мнёвники in the Moscow area?,A,4500.0,450.0,13500.0,1350.0,9000.0
+413,How long is Шлюзовая набережная in the Moscow area?,B,180.0,1800.0,5400.0,3600.0,540.0
+414,How long is улица Солянка in the Moscow area?,A,1300.0,130.0,390.0,2600.0,3900.0
+415,How long is Лубянский проезд in the Moscow area?,D,100.0,300.0,100.0,100.0,200.0
+416,How long is площадь Ильинские Ворота in the Moscow area?,C,600.0,100.0,200.0,100.0,400.0
+417,How long is улица Серёгина in the Moscow area?,B,1800.0,900.0,100.0,270.0,2700.0
+418,How long is Театральная аллея in the Moscow area?,B,100.0,300.0,900.0,600.0,100.0
+419,How long is Рузская улица in the Moscow area?,B,320.0,3200.0,6400.0,960.0,9600.0
+420,How long is Щербаковская улица in the Moscow area?,C,6300.0,630.0,2100.0,210.0,4200.0
+421,How long is Судостроительная улица in the Moscow area?,E,14600.0,2190.0,21900.0,730.0,7300.0
+422,How long is 1-й Саратовский проезд in the Moscow area?,A,900.0,2700.0,1800.0,100.0,270.0
+423,How long is Берниковская набережная in the Moscow area?,A,300.0,100.0,900.0,600.0,100.0
+424,How long is Николоямская набережная in the Moscow area?,B,1200.0,600.0,180.0,100.0,1800.0
+425,How long is Кронштадтский бульвар (дублёр) in the Moscow area?,B,1800.0,900.0,270.0,2700.0,100.0
+426,How long is Остаповский проезд in the Moscow area?,A,700.0,210.0,1400.0,100.0,2100.0
+427,How long is Большая Черкизовская улица (дублёр) in the Moscow area?,A,1100.0,2200.0,330.0,110.0,3300.0
+428,How long is Электролитный проезд in the Moscow area?,E,490.0,9800.0,14700.0,1470.0,4900.0
+429,How long is Пехотная улица in the Moscow area?,D,510.0,170.0,5100.0,1700.0,3400.0
+430,How long is проектируемый проезд № 1432 in the Moscow area?,D,300.0,100.0,100.0,100.0,200.0
+431,How long is Волжский бульвар in the Moscow area?,A,11200.0,22400.0,1120.0,3360.0,33600.0
+432,How long is проспект Багратиона in the Moscow area?,C,22200.0,2220.0,7400.0,14800.0,740.0
+433,How long is Шелепихинская набережная in the Moscow area?,B,3200.0,1600.0,4800.0,480.0,160.0
+434,How long is Щёлковское шоссе (дублёр) in the Moscow area?,C,540.0,3600.0,1800.0,180.0,5400.0
+435,How long is Моховая улица in the Moscow area?,E,800.0,120.0,1200.0,100.0,400.0
+436,How long is Никулинская улица in the Moscow area?,E,190.0,570.0,3800.0,5700.0,1900.0
+437,How long is Ткацкая улица in the Moscow area?,A,2000.0,4000.0,600.0,200.0,6000.0
+438,How long is Щукинская улица in the Moscow area?,D,110.0,2200.0,3300.0,1100.0,330.0
+439,How long is улица Ильинка in the Moscow area?,C,130.0,390.0,1300.0,2600.0,3900.0
+440,How long is Красная площадь in the Moscow area?,B,1500.0,500.0,100.0,1000.0,150.0
+441,How long is Крылатская улица in the Moscow area?,B,6400.0,3200.0,9600.0,960.0,320.0
+442,How long is площадь Савёловского Вокзала in the Moscow area?,E,100.0,100.0,0.0,0.0,0.0
+443,How long is улица Щепкина in the Moscow area?,E,5400.0,8100.0,810.0,270.0,2700.0
+444,How long is улица Мустая Карима in the Moscow area?,E,2600.0,130.0,3900.0,390.0,1300.0
+445,How long is проектируемый проезд № 220 in the Moscow area?,E,100.0,100.0,0.0,0.0,0.0
+446,How long is проектируемый проезд № 1564А in the Moscow area?,D,0.0,100.0,0.0,0.0,100.0
+447,How long is Шоссейная улица in the Moscow area?,E,27000.0,900.0,18000.0,2700.0,9000.0
+448,How long is улица Маши Порываевой in the Moscow area?,C,100.0,900.0,300.0,600.0,100.0
+449,How long is Крутицкая набережная in the Moscow area?,D,3800.0,570.0,5700.0,1900.0,190.0
+450,How long is Планетная улица in the Moscow area?,E,390.0,130.0,3900.0,2600.0,1300.0
+451,How long is Часовая улица in the Moscow area?,B,4800.0,1600.0,160.0,3200.0,480.0
+452,How long is проектируемый проезд № 4965 in the Moscow area?,E,1500.0,1000.0,100.0,150.0,500.0
+453,How long is проектируемый проезд № 2289 in the Moscow area?,E,0.0,100.0,100.0,0.0,0.0
+454,How long is улица Эрисмана in the Moscow area?,D,100.0,100.0,300.0,100.0,200.0
+455,How long is Курьяновская набережная in the Moscow area?,A,800.0,1600.0,100.0,2400.0,240.0
+456,How long is улица Гастелло in the Moscow area?,A,600.0,100.0,1200.0,180.0,1800.0
+457,How long is Красногвардейский бульвар in the Moscow area?,D,12900.0,1290.0,8600.0,4300.0,430.0
+458,How long is улица Новинки in the Moscow area?,B,450.0,1500.0,150.0,4500.0,3000.0
+459,How long is Октябрьская улица in the Moscow area?,D,7000.0,1050.0,350.0,3500.0,10500.0
+460,How long is улица Шаболовка in the Moscow area?,D,670.0,2010.0,13400.0,6700.0,20100.0
+461,How long is улица Лестева in the Moscow area?,E,6000.0,600.0,4000.0,200.0,2000.0
+462,How long is проспект Лихачёва in the Moscow area?,B,110.0,1100.0,330.0,3300.0,2200.0
+463,How long is Коломенская улица in the Moscow area?,A,3600.0,10800.0,360.0,1080.0,7200.0
+464,How long is улица Аносова in the Moscow area?,D,300.0,6000.0,900.0,3000.0,9000.0
+465,How long is Семёновский проезд in the Moscow area?,D,100.0,1800.0,2700.0,900.0,270.0
+466,How long is Пресненская набережная in the Moscow area?,D,100.0,1200.0,1800.0,600.0,180.0
+467,How long is улица Чистова in the Moscow area?,B,300.0,1000.0,100.0,3000.0,2000.0
+468,How long is Локомотивный проезд in the Moscow area?,A,2100.0,4200.0,630.0,210.0,6300.0
+469,How long is Ананьевский переулок in the Moscow area?,B,100.0,400.0,1200.0,800.0,120.0
+470,How long is Костянский переулок in the Moscow area?,C,270.0,2700.0,900.0,1800.0,100.0
+471,How long is площадь Борьбы in the Moscow area?,D,400.0,600.0,100.0,200.0,100.0
+472,How long is улица Образцова in the Moscow area?,A,3400.0,340.0,6800.0,10200.0,1020.0
+473,How long is улица Генерала Тюленева in the Moscow area?,C,900.0,300.0,3000.0,6000.0,9000.0
+474,How long is Страстной бульвар in the Moscow area?,A,900.0,1800.0,100.0,2700.0,270.0
+475,How long is Большой Путинковский переулок in the Moscow area?,B,100.0,200.0,400.0,600.0,100.0
+476,How long is Нарышкинский проезд in the Moscow area?,C,100.0,100.0,100.0,300.0,200.0
+477,How long is Делегатская улица in the Moscow area?,B,390.0,1300.0,3900.0,130.0,2600.0
+478,How long is улица Лобачевского in the Moscow area?,E,520.0,15600.0,1560.0,10400.0,5200.0
+479,How long is Лефортовская набережная in the Moscow area?,E,1600.0,240.0,2400.0,100.0,800.0
+480,How long is Алтуфьевское шоссе (дублёр) in the Moscow area?,C,10500.0,350.0,3500.0,7000.0,1050.0
+481,How long is улица Михайлова in the Moscow area?,E,5100.0,170.0,3400.0,510.0,1700.0
+482,How long is Поклонная улица in the Moscow area?,C,100.0,1200.0,400.0,120.0,800.0
+483,How long is Окская улица in the Moscow area?,B,720.0,2400.0,7200.0,4800.0,240.0
+484,How long is Жуков проезд in the Moscow area?,B,3000.0,1000.0,2000.0,300.0,100.0
+485,How long is Тихорецкий бульвар in the Moscow area?,E,270.0,100.0,2700.0,1800.0,900.0
+486,How long is улица Матросская Тишина in the Moscow area?,A,3100.0,930.0,310.0,6200.0,9300.0
+487,How long is улица Фабрициуса in the Moscow area?,C,510.0,3400.0,1700.0,170.0,5100.0
+488,How long is улица Академика Хохлова in the Moscow area?,C,480.0,3200.0,1600.0,4800.0,160.0
+489,How long is Кольская улица in the Moscow area?,B,100.0,500.0,150.0,1500.0,1000.0
+490,How long is 4-й Лихачёвский переулок in the Moscow area?,E,200.0,100.0,100.0,300.0,100.0
+491,How long is Ореховый бульвар in the Moscow area?,A,700.0,210.0,1400.0,2100.0,100.0
+492,How long is 1-я Радиальная улица in the Moscow area?,D,10000.0,500.0,1500.0,5000.0,15000.0
+493,How long is Солнечногорская улица in the Moscow area?,D,210.0,100.0,2100.0,700.0,1400.0
+494,How long is Белореченская улица in the Moscow area?,D,540.0,3600.0,5400.0,1800.0,180.0
+495,How long is Малахитовая улица in the Moscow area?,E,510.0,170.0,5100.0,3400.0,1700.0
+496,How long is улица Героев Панфиловцев in the Moscow area?,B,210.0,700.0,2100.0,1400.0,100.0
+497,How long is Онежская улица in the Moscow area?,B,6300.0,2100.0,630.0,4200.0,210.0
+498,How long is Строительный проезд in the Moscow area?,A,1700.0,510.0,5100.0,170.0,3400.0
+499,How long is Верейская улица in the Moscow area?,B,960.0,3200.0,9600.0,6400.0,320.0
+500,How long is улица Юных Ленинцев in the Moscow area?,A,2400.0,720.0,7200.0,240.0,4800.0
+501,How long is Краснодарская улица in the Moscow area?,A,1900.0,5700.0,3800.0,570.0,190.0
+502,How long is 2-й Иртышский проезд in the Moscow area?,A,1600.0,4800.0,480.0,3200.0,160.0
+503,How long is Ореховый проезд in the Moscow area?,B,390.0,3900.0,11700.0,7800.0,1170.0
+504,How long is Кусковская улица in the Moscow area?,D,100.0,1500.0,1000.0,500.0,150.0
+505,How long is улица Генерала Белова in the Moscow area?,D,4200.0,420.0,140.0,1400.0,2800.0
+506,How long is улица Маршала Тухачевского in the Moscow area?,E,12600.0,8400.0,1260.0,420.0,4200.0
+507,How long is улица Улофа Пальме in the Moscow area?,E,100.0,2700.0,270.0,1800.0,900.0
+508,How long is Островная улица in the Moscow area?,A,3600.0,7200.0,1080.0,10800.0,360.0
+509,How long is Зеленодольская улица in the Moscow area?,D,100.0,3000.0,2000.0,1000.0,300.0
+510,How long is Лихоборская набережная in the Moscow area?,B,370.0,3700.0,11100.0,7400.0,1110.0
+511,How long is улица Мусоргского in the Moscow area?,E,0.0,100.0,100.0,0.0,0.0
+512,How long is улица Героя России Соломатина in the Moscow area?,D,720.0,7200.0,4800.0,2400.0,240.0
+513,How long is проектируемый проезд № 133 in the Moscow area?,E,600.0,4000.0,200.0,6000.0,2000.0
+514,How long is Дорожная улица in the Moscow area?,A,2100.0,6300.0,4200.0,210.0,630.0
+515,How long is улица Декабристов in the Moscow area?,E,4000.0,6000.0,200.0,600.0,2000.0
+516,How long is Филимонковское шоссе in the Moscow area?,B,190.0,1900.0,5700.0,3800.0,570.0
+517,How long is Молодогвардейская улица in the Moscow area?,E,240.0,1600.0,100.0,2400.0,800.0
+518,How long is Ельнинская улица in the Moscow area?,D,100.0,400.0,600.0,200.0,100.0
+519,How long is Борисовский проезд in the Moscow area?,B,310.0,3100.0,930.0,6200.0,9300.0
+520,How long is Планерная улица in the Moscow area?,D,900.0,600.0,100.0,300.0,100.0
+521,How long is улица Ивана Франко in the Moscow area?,D,280.0,8400.0,5600.0,2800.0,840.0
+522,How long is улица Красных Зорь in the Moscow area?,E,930.0,9300.0,310.0,6200.0,3100.0
+523,How long is улица Татьянин Парк in the Moscow area?,E,630.0,4200.0,6300.0,210.0,2100.0
+524,How long is Ясеневая улица in the Moscow area?,E,100.0,100.0,0.0,0.0,0.0
+525,How long is Домодедовская улица in the Moscow area?,C,2000.0,300.0,1000.0,3000.0,100.0
+526,How long is Ставропольская улица in the Moscow area?,D,5600.0,280.0,840.0,2800.0,8400.0
+527,How long is Перервинский бульвар in the Moscow area?,C,2200.0,110.0,1100.0,330.0,3300.0
+528,How long is 3-й Самотёчный переулок in the Moscow area?,C,900.0,100.0,300.0,600.0,100.0
+529,How long is Сумской проезд in the Moscow area?,B,14700.0,4900.0,9800.0,490.0,1470.0
+530,How long is 1-я Прогонная улица in the Moscow area?,D,100.0,150.0,1500.0,500.0,1000.0
+531,How long is Игральная улица in the Moscow area?,B,390.0,1300.0,130.0,2600.0,3900.0
+532,How long is 3-я Гражданская улица in the Moscow area?,E,7200.0,720.0,4800.0,240.0,2400.0
+533,How long is Цветной бульвар in the Moscow area?,E,240.0,100.0,2400.0,1600.0,800.0
+534,How long is Самотёчная площадь in the Moscow area?,E,0.0,100.0,100.0,0.0,0.0
+535,How long is Краснопролетарская улица in the Moscow area?,E,2100.0,100.0,210.0,1400.0,700.0
+536,How long is улица Петровка in the Moscow area?,A,1000.0,100.0,2000.0,3000.0,300.0
+537,How long is Алымов переулок in the Moscow area?,E,1400.0,210.0,100.0,2100.0,700.0
+538,How long is Просторная улица in the Moscow area?,A,1800.0,3600.0,540.0,5400.0,180.0
+539,How long is улица Ивана Бабушкина in the Moscow area?,C,5700.0,3800.0,1900.0,570.0,190.0
+540,How long is Трифоновская улица in the Moscow area?,D,2400.0,360.0,120.0,1200.0,3600.0
+541,How long is улица Удальцова in the Moscow area?,D,9000.0,300.0,900.0,3000.0,6000.0
+542,How long is улица Новаторов in the Moscow area?,C,3300.0,110.0,1100.0,330.0,2200.0
+543,How long is Нагатинская улица in the Moscow area?,B,16600.0,8300.0,830.0,24900.0,2490.0
+544,How long is улица Волхонка in the Moscow area?,B,2700.0,900.0,1800.0,270.0,100.0
+545,How long is Гоголевский бульвар in the Moscow area?,C,4500.0,3000.0,1500.0,150.0,450.0
+546,How long is площадь Пречистенские Ворота in the Moscow area?,E,100.0,0.0,100.0,0.0,0.0
+547,How long is Пушкинская площадь in the Moscow area?,E,100.0,0.0,0.0,100.0,0.0
+548,How long is Тверская улица in the Moscow area?,A,1300.0,390.0,3900.0,2600.0,130.0
+549,How long is Тверской бульвар in the Moscow area?,A,200.0,100.0,600.0,400.0,100.0
+550,How long is Никитский бульвар in the Moscow area?,A,1900.0,570.0,5700.0,3800.0,190.0
+551,How long is Шипиловская улица in the Moscow area?,B,350.0,3500.0,7000.0,10500.0,1050.0
+552,How long is Сельскохозяйственная улица in the Moscow area?,D,6900.0,230.0,4600.0,2300.0,690.0
+553,How long is улица Маршала Бирюзова in the Moscow area?,B,110.0,1100.0,3300.0,2200.0,330.0
+554,How long is улица Маршала Конева in the Moscow area?,A,2300.0,4600.0,6900.0,230.0,690.0
+555,How long is улица Маршала Рыбалко in the Moscow area?,E,5100.0,510.0,170.0,3400.0,1700.0
+556,How long is Олонецкая улица in the Moscow area?,B,130.0,1300.0,2600.0,390.0,3900.0
+557,How long is Задонский проезд in the Moscow area?,D,870.0,8700.0,290.0,2900.0,5800.0
+558,How long is проектируемый проезд № 5302 in the Moscow area?,A,800.0,240.0,100.0,1600.0,2400.0
+559,How long is улица Мусы Джалиля in the Moscow area?,C,5400.0,810.0,2700.0,270.0,8100.0
+560,How long is Каширское шоссе (дублёр) in the Moscow area?,E,2000.0,100.0,300.0,3000.0,1000.0
+561,How long is улица Маршала Захарова in the Moscow area?,C,120.0,2400.0,1200.0,360.0,3600.0
+562,How long is улица Мельникова in the Moscow area?,C,5700.0,190.0,1900.0,570.0,3800.0
+563,How long is 1-я Дубровская улица in the Moscow area?,C,3600.0,120.0,1200.0,360.0,2400.0
+564,How long is улица Чаянова in the Moscow area?,A,800.0,2400.0,240.0,1600.0,100.0
+565,How long is Васильевская улица in the Moscow area?,E,600.0,100.0,100.0,900.0,300.0
+566,How long is улица Плеханова in the Moscow area?,E,230.0,690.0,6900.0,4600.0,2300.0
+567,How long is 4-я Магистральная улица in the Moscow area?,D,3900.0,390.0,2600.0,1300.0,130.0
+568,How long is 1-я Магистральная улица in the Moscow area?,B,4200.0,2100.0,210.0,6300.0,630.0
+569,How long is 3-й Ирининский переулок in the Moscow area?,B,600.0,200.0,100.0,100.0,400.0
+570,How long is Якиманская набережная in the Moscow area?,E,100.0,300.0,100.0,200.0,100.0
+571,How long is Вельяминовская улица in the Moscow area?,C,330.0,3300.0,1100.0,2200.0,110.0
+572,How long is Мантулинская улица in the Moscow area?,A,900.0,100.0,270.0,2700.0,1800.0
+573,How long is Рочдельская улица in the Moscow area?,B,2700.0,900.0,1800.0,100.0,270.0
+574,How long is Краснодонская улица in the Moscow area?,B,6600.0,2200.0,4400.0,660.0,220.0
+575,How long is Краснокурсантская площадь in the Moscow area?,E,100.0,100.0,200.0,300.0,100.0
+576,How long is Красноказарменная улица in the Moscow area?,A,3900.0,7800.0,1170.0,11700.0,390.0
+577,How long is 1-й Краснокурсантский проезд in the Moscow area?,D,6600.0,4400.0,220.0,2200.0,660.0
+578,How long is Ярославская улица in the Moscow area?,B,4800.0,1600.0,160.0,480.0,3200.0
+579,How long is улица Руставели in the Moscow area?,E,100.0,3000.0,2000.0,300.0,1000.0
+580,How long is Жигулёвская улица in the Moscow area?,A,500.0,1000.0,100.0,150.0,1500.0
+581,How long is Саратовская улица in the Moscow area?,C,230.0,4600.0,2300.0,690.0,6900.0
+582,How long is Шарикоподшипниковская улица in the Moscow area?,E,600.0,6000.0,200.0,4000.0,2000.0
+583,How long is площадь 60-летия СССР in the Moscow area?,E,0.0,100.0,100.0,0.0,0.0
+584,How long is улица Коштоянца in the Moscow area?,C,4200.0,630.0,2100.0,6300.0,210.0
+585,How long is улица Наташи Ковшовой in the Moscow area?,D,6600.0,9900.0,330.0,3300.0,990.0
+586,How long is 1-й Очаковский переулок in the Moscow area?,B,600.0,300.0,900.0,100.0,100.0
+587,How long is Большая Очаковская улица in the Moscow area?,C,14400.0,480.0,4800.0,1440.0,9600.0
+588,How long is улица Академика Капицы in the Moscow area?,E,160.0,3200.0,480.0,4800.0,1600.0
+589,How long is улица Введенского in the Moscow area?,C,11400.0,1140.0,3800.0,7600.0,380.0
+590,How long is Окружной проезд in the Moscow area?,E,6300.0,630.0,210.0,4200.0,2100.0
+591,How long is улица Уткина in the Moscow area?,D,2400.0,1600.0,100.0,800.0,240.0
+592,How long is 8-я улица Соколиной Горы in the Moscow area?,C,600.0,200.0,2000.0,6000.0,4000.0
+593,How long is Симферопольский бульвар in the Moscow area?,E,13500.0,1350.0,450.0,9000.0,4500.0
+594,How long is площадь Краснопресненская Застава in the Moscow area?,E,0.0,100.0,100.0,0.0,0.0
+595,How long is улица Красная Пресня in the Moscow area?,D,330.0,3300.0,2200.0,1100.0,110.0
+596,How long is улица Пресненский Вал in the Moscow area?,A,1200.0,120.0,2400.0,360.0,3600.0
+597,How long is улица Трёхгорный Вал in the Moscow area?,B,210.0,700.0,1400.0,2100.0,100.0
+598,How long is площадь Джавахарлала Неру in the Moscow area?,E,0.0,100.0,100.0,0.0,0.0
+599,How long is 2-й Хорошёвский проезд in the Moscow area?,A,1500.0,4500.0,450.0,3000.0,150.0
+600,How long is улица Маргелова in the Moscow area?,E,170.0,510.0,3400.0,5100.0,1700.0
+601,How long is Спартаковская улица in the Moscow area?,A,1300.0,390.0,130.0,3900.0,2600.0
+602,How long is Краснопрудная улица in the Moscow area?,C,100.0,210.0,700.0,2100.0,1400.0
+603,How long is улица Лобачика in the Moscow area?,C,5200.0,780.0,2600.0,7800.0,260.0
+604,How long is Нижняя Красносельская улица in the Moscow area?,D,7200.0,1080.0,10800.0,3600.0,360.0
+605,How long is улица Академика Анохина in the Moscow area?,B,1920.0,6400.0,12800.0,19200.0,640.0
+606,How long is Тропарёвская улица in the Moscow area?,D,230.0,6900.0,690.0,2300.0,4600.0
+607,How long is Новозаводская улица in the Moscow area?,D,100.0,1800.0,180.0,600.0,1200.0
+608,How long is Большая Грузинская улица in the Moscow area?,B,140.0,1400.0,420.0,4200.0,2800.0
+609,How long is Конюшковская улица in the Moscow area?,C,100.0,1200.0,600.0,1800.0,180.0
+610,How long is Сходненская улица in the Moscow area?,D,540.0,5400.0,180.0,1800.0,3600.0
+611,How long is проектируемый проезд № 134 in the Moscow area?,E,4200.0,6300.0,630.0,210.0,2100.0
+612,How long is проектируемый проезд № 139 in the Moscow area?,C,330.0,2200.0,1100.0,110.0,3300.0
+613,How long is Абельмановская улица in the Moscow area?,A,1400.0,2800.0,140.0,4200.0,420.0
+614,How long is улица Большие Каменщики in the Moscow area?,A,700.0,2100.0,100.0,210.0,1400.0
+615,How long is Новоспасский проезд in the Moscow area?,A,200.0,600.0,100.0,100.0,400.0
+616,How long is улица Гвоздева in the Moscow area?,D,1800.0,180.0,100.0,600.0,1200.0
+617,How long is Кубанская улица in the Moscow area?,A,1200.0,2400.0,3600.0,120.0,360.0
+618,How long is улица Ляпидевского in the Moscow area?,E,4000.0,200.0,6000.0,600.0,2000.0
+619,How long is улица Лавочкина in the Moscow area?,C,3600.0,360.0,1200.0,120.0,2400.0
+620,How long is Болотниковская улица in the Moscow area?,A,7200.0,14400.0,720.0,21600.0,2160.0
+621,How long is Азовская улица in the Moscow area?,D,9800.0,1470.0,14700.0,4900.0,490.0
+622,How long is Зубовская площадь in the Moscow area?,B,600.0,300.0,100.0,900.0,100.0
+623,How long is улица Пречистенка in the Moscow area?,C,420.0,4200.0,1400.0,2800.0,140.0
+624,How long is 3-й Нижнелихоборский проезд in the Moscow area?,A,900.0,100.0,2700.0,1800.0,270.0
+625,How long is улица 26-ти Бакинских Комиссаров in the Moscow area?,E,3900.0,2600.0,390.0,130.0,1300.0
+626,How long is улица Покрышкина in the Moscow area?,C,3000.0,300.0,1000.0,2000.0,100.0
+627,How long is улица Бутлерова in the Moscow area?,C,630.0,210.0,2100.0,6300.0,4200.0
+628,How long is Малая Грузинская улица in the Moscow area?,D,4500.0,3000.0,450.0,1500.0,150.0
+629,How long is Пресненский переулок in the Moscow area?,C,100.0,600.0,200.0,400.0,100.0
+630,How long is улица Прянишникова in the Moscow area?,B,110.0,1100.0,330.0,2200.0,3300.0
+631,How long is Садовнический проезд in the Moscow area?,E,200.0,100.0,300.0,100.0,100.0
+632,How long is Садовническая улица in the Moscow area?,C,2400.0,240.0,800.0,1600.0,100.0
+633,How long is улица Мастеркова in the Moscow area?,C,100.0,100.0,300.0,900.0,600.0
+634,How long is Восточная улица in the Moscow area?,E,100.0,1800.0,1200.0,180.0,600.0
+635,How long is улица Ленинская Слобода in the Moscow area?,C,110.0,330.0,1100.0,2200.0,3300.0
+636,How long is улица Намёткина in the Moscow area?,A,1500.0,450.0,150.0,3000.0,4500.0
+637,How long is Малая Почтовая улица in the Moscow area?,E,800.0,100.0,1200.0,120.0,400.0
+638,How long is Новочеркасский бульвар in the Moscow area?,C,4400.0,660.0,2200.0,6600.0,220.0
+639,How long is улица Маршала Голованова in the Moscow area?,D,9900.0,6600.0,990.0,3300.0,330.0
+640,How long is Новомарьинская улица in the Moscow area?,E,570.0,3800.0,190.0,5700.0,1900.0
+641,How long is Мячковский бульвар in the Moscow area?,B,140.0,1400.0,2800.0,4200.0,420.0
+642,How long is 3-й Угрешский проезд in the Moscow area?,A,3600.0,10800.0,7200.0,360.0,1080.0
+643,How long is 7-я Кожуховская улица in the Moscow area?,C,240.0,100.0,800.0,2400.0,1600.0
+644,How long is 1-я улица Машиностроения in the Moscow area?,E,210.0,1400.0,2100.0,100.0,700.0
+645,How long is Фрунзенская набережная in the Moscow area?,B,290.0,2900.0,5800.0,870.0,8700.0
+646,How long is улица Гурьянова in the Moscow area?,E,600.0,4000.0,6000.0,200.0,2000.0
+647,How long is улица Кухмистерова in the Moscow area?,B,1500.0,500.0,150.0,100.0,1000.0
+648,How long is Хордовый проезд in the Moscow area?,D,180.0,1800.0,1200.0,600.0,100.0
+649,How long is Братеевская улица in the Moscow area?,B,2600.0,1300.0,3900.0,130.0,390.0
+650,How long is Протопоповский переулок in the Moscow area?,C,7800.0,260.0,2600.0,5200.0,780.0
+651,How long is Астраханский переулок in the Moscow area?,C,2700.0,1800.0,900.0,100.0,270.0
+652,How long is улица Ефремова in the Moscow area?,E,510.0,3400.0,5100.0,170.0,1700.0
+653,How long is Кооперативная улица in the Moscow area?,C,3600.0,120.0,1200.0,2400.0,360.0
+654,How long is Краснобогатырская улица in the Moscow area?,D,3000.0,4500.0,450.0,1500.0,150.0
+655,How long is улица Преображенский Вал in the Moscow area?,E,220.0,660.0,6600.0,4400.0,2200.0
+656,How long is Преображенская площадь in the Moscow area?,E,200.0,100.0,100.0,300.0,100.0
+657,How long is улица Измайловский Вал in the Moscow area?,A,4300.0,8600.0,1290.0,430.0,12900.0
+658,How long is 2-й Магистральный тупик in the Moscow area?,C,100.0,1000.0,500.0,150.0,1500.0
+659,How long is улица Академика Волгина in the Moscow area?,C,8700.0,290.0,2900.0,5800.0,870.0
+660,How long is Керченская улица in the Moscow area?,A,3100.0,9300.0,6200.0,930.0,310.0
+661,How long is улица Каховка in the Moscow area?,C,1020.0,10200.0,3400.0,6800.0,340.0
+662,How long is улица Кедрова in the Moscow area?,B,6000.0,2000.0,600.0,200.0,4000.0
+663,How long is улица Москворечье in the Moscow area?,C,7500.0,750.0,2500.0,5000.0,250.0
+664,How long is Подольское шоссе in the Moscow area?,A,700.0,210.0,2100.0,100.0,1400.0
+665,How long is улица Даниловский Вал in the Moscow area?,C,740.0,22200.0,7400.0,2220.0,14800.0
+666,How long is Нагорная улица in the Moscow area?,B,3800.0,1900.0,5700.0,190.0,570.0
+667,How long is улица Хромова in the Moscow area?,B,3200.0,1600.0,480.0,4800.0,160.0
+668,How long is улица Винокурова in the Moscow area?,A,2700.0,270.0,5400.0,810.0,8100.0
+669,How long is Севанская улица in the Moscow area?,E,320.0,9600.0,960.0,6400.0,3200.0
+670,How long is проспект 40 лет Октября in the Moscow area?,A,1300.0,130.0,3900.0,390.0,2600.0
+671,How long is Русаковская улица in the Moscow area?,B,2600.0,1300.0,3900.0,390.0,130.0
+672,How long is Маленковская улица in the Moscow area?,D,1600.0,240.0,2400.0,800.0,100.0
+673,How long is улица Палиха in the Moscow area?,B,600.0,200.0,100.0,400.0,100.0
+674,How long is Лесная улица in the Moscow area?,C,410.0,8200.0,4100.0,12300.0,1230.0
+675,How long is улица Академика Бочвара in the Moscow area?,D,210.0,630.0,4200.0,2100.0,6300.0
+676,How long is улица Маршала Новикова in the Moscow area?,D,570.0,190.0,5700.0,1900.0,3800.0
+677,How long is улица Бехтерева in the Moscow area?,D,280.0,840.0,5600.0,2800.0,8400.0
+678,How long is Дмитровский проезд in the Moscow area?,A,300.0,600.0,100.0,100.0,900.0
+679,How long is Ивановская улица in the Moscow area?,B,1170.0,3900.0,7800.0,11700.0,390.0
+680,How long is улица Костякова in the Moscow area?,B,600.0,200.0,100.0,400.0,100.0
+681,How long is Головинское шоссе in the Moscow area?,E,3600.0,2400.0,120.0,360.0,1200.0
+682,How long is улица Адмирала Макарова in the Moscow area?,A,1700.0,510.0,170.0,5100.0,3400.0
+683,How long is Кленовый бульвар in the Moscow area?,D,450.0,150.0,3000.0,1500.0,4500.0
+684,How long is Херсонская улица in the Moscow area?,A,3500.0,10500.0,350.0,1050.0,7000.0
+685,How long is Перекопская улица in the Moscow area?,E,7200.0,1080.0,360.0,10800.0,3600.0
+686,How long is улица Пржевальского in the Moscow area?,E,1400.0,2100.0,100.0,210.0,700.0
+687,How long is улица Сергея Макеева in the Moscow area?,B,690.0,2300.0,4600.0,230.0,6900.0
+688,How long is 2-я Хуторская улица in the Moscow area?,E,140.0,2800.0,420.0,4200.0,1400.0
+689,How long is Башиловская улица in the Moscow area?,D,4600.0,690.0,230.0,2300.0,6900.0
+690,How long is улица Трофимова in the Moscow area?,C,4200.0,2800.0,1400.0,420.0,140.0
+691,How long is улица Крупской in the Moscow area?,E,3200.0,4800.0,160.0,480.0,1600.0
+692,How long is Нарвская улица in the Moscow area?,D,450.0,4500.0,150.0,1500.0,3000.0
+693,How long is Новоостаповская улица in the Moscow area?,B,540.0,1800.0,180.0,3600.0,5400.0
+694,How long is Онежская улица (дублёр) in the Moscow area?,D,900.0,100.0,100.0,300.0,600.0
+695,How long is 1-я Миусская улица in the Moscow area?,A,1400.0,2800.0,140.0,4200.0,420.0
+696,How long is Новолесная улица in the Moscow area?,D,3000.0,100.0,2000.0,1000.0,300.0
+697,How long is Берёзовая аллея in the Moscow area?,C,3900.0,2600.0,1300.0,390.0,130.0
+698,How long is проезд Нансена in the Moscow area?,B,100.0,700.0,210.0,2100.0,1400.0
+699,How long is улица Госпитальный Вал in the Moscow area?,A,1200.0,2400.0,3600.0,120.0,360.0
+700,How long is Боровая улица in the Moscow area?,D,9600.0,6400.0,320.0,3200.0,960.0
+701,How long is Гольяновская улица in the Moscow area?,D,100.0,210.0,2100.0,700.0,1400.0
+702,How long is улица Богатырский Мост in the Moscow area?,E,33600.0,22400.0,3360.0,1120.0,11200.0
+703,How long is 6-й Лучевой просек in the Moscow area?,D,3600.0,540.0,180.0,1800.0,5400.0
+704,How long is Новороссийская улица in the Moscow area?,C,170.0,3400.0,1700.0,510.0,5100.0
+705,How long is Авангардная улица in the Moscow area?,D,100.0,3000.0,2000.0,1000.0,300.0
+706,How long is улица Зои и Александра Космодемьянских in the Moscow area?,C,360.0,120.0,1200.0,2400.0,3600.0
+707,How long is Малая Семёновская улица in the Moscow area?,C,310.0,6200.0,3100.0,930.0,9300.0
+708,How long is Канатчиковский проезд in the Moscow area?,A,3500.0,1050.0,10500.0,7000.0,350.0
+709,How long is Малая Никитская улица in the Moscow area?,C,210.0,100.0,700.0,1400.0,2100.0
+710,How long is улица Гиляровского in the Moscow area?,C,930.0,9300.0,3100.0,310.0,6200.0
+711,How long is Капельский переулок in the Moscow area?,E,210.0,100.0,1400.0,2100.0,700.0
+712,How long is улица Фридриха Энгельса in the Moscow area?,B,12000.0,4000.0,400.0,8000.0,1200.0
+713,How long is 1-й Ирининский переулок in the Moscow area?,B,900.0,300.0,100.0,600.0,100.0
+714,How long is улица Академика Курчатова in the Moscow area?,A,1700.0,510.0,3400.0,5100.0,170.0
+715,How long is улица Свержевского in the Moscow area?,C,100.0,800.0,400.0,1200.0,120.0
+716,How long is Яузская улица in the Moscow area?,A,300.0,900.0,600.0,100.0,100.0
+717,How long is площадь Яузские Ворота in the Moscow area?,E,100.0,300.0,100.0,200.0,100.0
+718,How long is Яузский бульвар in the Moscow area?,A,1500.0,450.0,150.0,4500.0,3000.0
+719,How long is 1-я Брестская улица in the Moscow area?,B,1500.0,500.0,1000.0,150.0,100.0
+720,How long is улица Грузинский Вал in the Moscow area?,C,1800.0,270.0,900.0,2700.0,100.0
+721,How long is 2-я Брестская улица in the Moscow area?,C,800.0,100.0,400.0,1200.0,120.0
+722,How long is 1-й Рощинский проезд in the Moscow area?,C,5000.0,250.0,2500.0,7500.0,750.0
+723,How long is улица Орджоникидзе in the Moscow area?,B,180.0,1800.0,540.0,3600.0,5400.0
+724,How long is улица Космонавта Волкова in the Moscow area?,E,100.0,2000.0,3000.0,300.0,1000.0
+725,How long is улица Приорова in the Moscow area?,D,350.0,10500.0,1050.0,3500.0,7000.0
+726,How long is Нарышкинская аллея in the Moscow area?,C,1800.0,1200.0,600.0,180.0,100.0
+727,How long is Петровско-Разумовская аллея in the Moscow area?,B,4200.0,1400.0,140.0,420.0,2800.0
+728,How long is Старый Петровско-Разумовский проезд in the Moscow area?,B,4200.0,1400.0,2800.0,420.0,140.0
+729,How long is улица Сретенка in the Moscow area?,E,800.0,120.0,100.0,1200.0,400.0
+730,How long is Самарская улица in the Moscow area?,C,1000.0,1500.0,500.0,150.0,100.0
+731,How long is Духовской переулок in the Moscow area?,D,300.0,100.0,100.0,100.0,200.0
+732,How long is 6-й Загородный проезд in the Moscow area?,C,240.0,2400.0,800.0,1600.0,100.0
+733,How long is Рижский проезд in the Moscow area?,D,5000.0,250.0,750.0,2500.0,7500.0
+734,How long is Маломосковская улица in the Moscow area?,C,360.0,3600.0,1200.0,2400.0,120.0
+735,How long is улица Радио in the Moscow area?,C,2600.0,130.0,1300.0,390.0,3900.0
+736,How long is Большой Трёхгорный переулок in the Moscow area?,A,600.0,180.0,1800.0,1200.0,100.0
+737,How long is улица Заморёнова in the Moscow area?,D,570.0,5700.0,3800.0,1900.0,190.0
+738,How long is улица Нижние Поля in the Moscow area?,D,120.0,360.0,3600.0,1200.0,2400.0
+739,How long is улица Артамонова in the Moscow area?,A,1100.0,330.0,2200.0,3300.0,110.0
+740,How long is Давыдковская улица in the Moscow area?,B,3200.0,1600.0,4800.0,160.0,480.0
+741,How long is Криворожский проезд in the Moscow area?,D,140.0,420.0,2800.0,1400.0,4200.0
+742,How long is Луховицкая улица in the Moscow area?,D,2100.0,100.0,1400.0,700.0,210.0
+743,How long is улица Рогожский Вал in the Moscow area?,C,100.0,300.0,1000.0,2000.0,3000.0
+744,How long is улица Маршала Чуйкова in the Moscow area?,A,2100.0,4200.0,6300.0,630.0,210.0
+745,How long is Новоясеневский проспект in the Moscow area?,C,3600.0,5400.0,1800.0,180.0,540.0
+746,How long is Большой Тишинский переулок in the Moscow area?,B,420.0,1400.0,2800.0,4200.0,140.0
+747,How long is Карамышевская набережная in the Moscow area?,A,1500.0,4500.0,450.0,150.0,3000.0
+748,How long is 3-й Силикатный проезд in the Moscow area?,B,10500.0,3500.0,350.0,7000.0,1050.0
+749,How long is Монтажная улица in the Moscow area?,C,2700.0,270.0,900.0,100.0,1800.0
+750,How long is 4-й Новомихалковский проезд in the Moscow area?,D,210.0,4200.0,630.0,2100.0,6300.0
+751,How long is проезд Черепановых in the Moscow area?,B,1800.0,600.0,100.0,1200.0,180.0
+752,How long is Открытое шоссе in the Moscow area?,B,580.0,5800.0,11600.0,17400.0,1740.0
+753,How long is 4-й Новоподмосковный переулок in the Moscow area?,B,210.0,700.0,100.0,2100.0,1400.0
+754,How long is 6-й Новоподмосковный переулок in the Moscow area?,C,330.0,2200.0,1100.0,3300.0,110.0
+755,How long is Новопетровская улица in the Moscow area?,E,100.0,2000.0,3000.0,300.0,1000.0
+756,How long is бульвар Матроса Железняка in the Moscow area?,C,11600.0,17400.0,5800.0,580.0,1740.0
+757,How long is Вокзальный переулок in the Moscow area?,B,100.0,900.0,270.0,1800.0,2700.0
+758,How long is 2-й Новоподмосковный переулок in the Moscow area?,D,270.0,1800.0,100.0,900.0,2700.0
+759,How long is Бойцовая улица in the Moscow area?,C,600.0,4000.0,2000.0,200.0,6000.0
+760,How long is 4-я Гражданская улица in the Moscow area?,B,3600.0,1200.0,360.0,2400.0,120.0
+761,How long is Весковский переулок in the Moscow area?,C,1200.0,800.0,400.0,100.0,120.0
+762,How long is Снежная улица in the Moscow area?,A,1000.0,300.0,2000.0,3000.0,100.0
+763,How long is Амурская улица in the Moscow area?,E,190.0,5700.0,570.0,3800.0,1900.0
+764,How long is Амурский переулок in the Moscow area?,B,1600.0,800.0,2400.0,240.0,100.0
+765,How long is Лосиноостровская улица in the Moscow area?,B,4500.0,1500.0,3000.0,150.0,450.0
+766,How long is Лукьяновский проезд in the Moscow area?,A,600.0,1800.0,180.0,100.0,1200.0
+767,How long is 1-я Мясниковская улица in the Moscow area?,E,2400.0,120.0,3600.0,360.0,1200.0
+768,How long is бульвар Маршала Рокоссовского in the Moscow area?,A,1900.0,190.0,5700.0,3800.0,570.0
+769,How long is 3-й проезд Подбельского in the Moscow area?,D,180.0,1800.0,1200.0,600.0,100.0
+770,How long is улица Академика Челомея in the Moscow area?,B,1140.0,3800.0,11400.0,7600.0,380.0
+771,How long is улица Воронцовские Пруды in the Moscow area?,E,3800.0,5700.0,570.0,190.0,1900.0
+772,How long is Селезнёвская улица in the Moscow area?,A,1500.0,4500.0,150.0,3000.0,450.0
+773,How long is площадь Петровские Ворота in the Moscow area?,D,0.0,100.0,0.0,0.0,100.0
+774,How long is Петровский бульвар in the Moscow area?,B,2700.0,900.0,1800.0,100.0,270.0
+775,How long is 1-й Коптельский переулок in the Moscow area?,C,480.0,4800.0,1600.0,3200.0,160.0
+776,How long is Банный переулок in the Moscow area?,E,2100.0,210.0,1400.0,100.0,700.0
+777,How long is Большая Переяславская улица in the Moscow area?,B,2600.0,1300.0,130.0,3900.0,390.0
+778,How long is 2-й Крестовский переулок in the Moscow area?,C,900.0,600.0,300.0,100.0,100.0
+779,How long is Водопроводный переулок in the Moscow area?,B,800.0,400.0,1200.0,120.0,100.0
+780,How long is улица Пруд-Ключики in the Moscow area?,D,540.0,3600.0,180.0,1800.0,5400.0
+781,How long is Первомайская улица in the Moscow area?,E,160.0,480.0,4800.0,3200.0,1600.0
+782,How long is Главная аллея in the Moscow area?,A,11100.0,33300.0,22200.0,3330.0,1110.0
+783,How long is улица Балчуг in the Moscow area?,A,200.0,100.0,100.0,600.0,400.0
+784,How long is Бабаевская улица in the Moscow area?,C,2600.0,3900.0,1300.0,130.0,390.0
+785,How long is Малая Филёвская улица in the Moscow area?,E,1440.0,9600.0,14400.0,480.0,4800.0
+786,How long is Рублёвское шоссе (дублёр) in the Moscow area?,C,200.0,6000.0,2000.0,600.0,4000.0
+787,How long is Дербеневская набережная in the Moscow area?,A,4300.0,8600.0,430.0,12900.0,1290.0
+788,How long is Новоданиловская набережная in the Moscow area?,A,6300.0,12600.0,1890.0,18900.0,630.0
+789,How long is улица Воронцово Поле in the Moscow area?,A,1200.0,120.0,3600.0,360.0,2400.0
+790,How long is Покровский бульвар in the Moscow area?,D,8400.0,840.0,5600.0,2800.0,280.0
+791,How long is улица Шверника in the Moscow area?,A,2400.0,7200.0,720.0,240.0,4800.0
+792,How long is Люблинская улица (дублёр) in the Moscow area?,D,1380.0,13800.0,9200.0,4600.0,460.0
+793,How long is Лодочная улица in the Moscow area?,E,570.0,5700.0,3800.0,190.0,1900.0
+794,How long is улица Фомичёвой in the Moscow area?,C,5000.0,7500.0,2500.0,250.0,750.0
+795,How long is Батайский проезд in the Moscow area?,B,6900.0,2300.0,230.0,690.0,4600.0
+796,How long is Солдатская улица in the Moscow area?,E,2400.0,3600.0,360.0,120.0,1200.0
+797,How long is улица Берзарина in the Moscow area?,B,18900.0,6300.0,12600.0,1890.0,630.0
+798,How long is улица Расплетина in the Moscow area?,D,600.0,6000.0,200.0,2000.0,4000.0
+799,How long is улица Маршала Вершинина in the Moscow area?,A,1100.0,330.0,2200.0,110.0,3300.0
+800,How long is улица Максимова in the Moscow area?,D,270.0,5400.0,8100.0,2700.0,810.0
+801,How long is улица Генерала Глаголева in the Moscow area?,C,5000.0,250.0,2500.0,7500.0,750.0
+802,How long is улица Паршина in the Moscow area?,D,570.0,190.0,3800.0,1900.0,5700.0
+803,How long is 3-я Хорошёвская улица in the Moscow area?,C,8400.0,1260.0,4200.0,12600.0,420.0
+804,How long is Воронцовская улица in the Moscow area?,A,500.0,150.0,1500.0,1000.0,100.0
+805,How long is Староволынская улица in the Moscow area?,D,1710.0,17100.0,570.0,5700.0,11400.0
+806,How long is улица Полосухина in the Moscow area?,E,870.0,290.0,8700.0,5800.0,2900.0
+807,How long is Береговой проезд in the Moscow area?,D,5400.0,3600.0,540.0,1800.0,180.0
+808,How long is Новофилёвский проезд in the Moscow area?,A,1300.0,390.0,2600.0,3900.0,130.0
+809,How long is улица Дениса Давыдова in the Moscow area?,E,100.0,180.0,1200.0,1800.0,600.0
+810,How long is улица Можайский Вал in the Moscow area?,D,390.0,130.0,3900.0,1300.0,2600.0
+811,How long is Кастанаевская улица in the Moscow area?,C,2100.0,14000.0,7000.0,21000.0,700.0
+812,How long is Житомирская улица in the Moscow area?,B,180.0,600.0,1200.0,100.0,1800.0
+813,How long is Каспийская улица in the Moscow area?,A,3200.0,9600.0,6400.0,320.0,960.0
+814,How long is Затонная улица in the Moscow area?,E,690.0,4600.0,6900.0,230.0,2300.0
+815,How long is Овчинниковская набережная in the Moscow area?,C,300.0,3000.0,1000.0,100.0,2000.0
+816,How long is Озерковская набережная in the Moscow area?,D,7500.0,750.0,250.0,2500.0,5000.0
+817,How long is Космодамианская набережная in the Moscow area?,E,540.0,3600.0,5400.0,180.0,1800.0
+818,How long is Раушская набережная in the Moscow area?,B,100.0,800.0,240.0,2400.0,1600.0
+819,How long is Новая Басманная улица in the Moscow area?,D,3600.0,5400.0,540.0,1800.0,180.0
+820,How long is улица Александра Лукьянова in the Moscow area?,C,2400.0,100.0,800.0,240.0,1600.0
+821,How long is Старая Басманная улица in the Moscow area?,D,3600.0,540.0,180.0,1800.0,5400.0
+822,How long is Госпитальная улица in the Moscow area?,E,100.0,180.0,1800.0,1200.0,600.0
+823,How long is улица Богородский Вал in the Moscow area?,B,1500.0,500.0,1000.0,100.0,150.0
+824,How long is набережная Ганнушкина in the Moscow area?,E,300.0,3000.0,100.0,2000.0,1000.0
+825,How long is проектируемый проезд № 422 in the Moscow area?,C,100.0,1200.0,400.0,800.0,120.0
+826,How long is Елизаветинский переулок in the Moscow area?,D,120.0,2400.0,3600.0,1200.0,360.0
+827,How long is Токмаков переулок in the Moscow area?,E,1800.0,2700.0,270.0,100.0,900.0
+828,How long is улица Казакова in the Moscow area?,A,2900.0,8700.0,290.0,5800.0,870.0
+829,How long is Нагатинский бульвар in the Moscow area?,E,660.0,4400.0,220.0,6600.0,2200.0
+830,How long is Нежинская улица in the Moscow area?,E,260.0,780.0,5200.0,7800.0,2600.0
+831,How long is проезд Завода Серп и Молот in the Moscow area?,E,510.0,3400.0,5100.0,170.0,1700.0
+832,How long is 1-й Силикатный проезд in the Moscow area?,C,4200.0,6300.0,2100.0,630.0,210.0
+833,How long is Причальный проезд in the Moscow area?,D,180.0,5400.0,540.0,1800.0,3600.0
+834,How long is улица Саляма Адиля in the Moscow area?,D,140.0,2800.0,4200.0,1400.0,420.0
+835,How long is Перовский проезд in the Moscow area?,C,2100.0,100.0,700.0,1400.0,210.0
+836,How long is Душинская улица in the Moscow area?,D,1400.0,210.0,100.0,700.0,2100.0
+837,How long is улица Зорге in the Moscow area?,C,1320.0,8800.0,4400.0,13200.0,440.0
+838,How long is Петровско-Разумовский проезд in the Moscow area?,B,220.0,2200.0,4400.0,660.0,6600.0
+839,How long is улица Верхняя Масловка in the Moscow area?,B,2600.0,1300.0,390.0,3900.0,130.0
+840,How long is 5-й Лучевой просек in the Moscow area?,E,1050.0,10500.0,350.0,7000.0,3500.0
+841,How long is Поперечный просек in the Moscow area?,A,5600.0,16800.0,560.0,11200.0,1680.0
+842,How long is улица Маршала Шапошникова in the Moscow area?,E,900.0,600.0,100.0,100.0,300.0
+843,How long is улица Авиаконструктора Сухого in the Moscow area?,B,270.0,900.0,2700.0,100.0,1800.0
+844,How long is улица Авиаконструктора Микояна in the Moscow area?,E,190.0,5700.0,3800.0,570.0,1900.0
+845,How long is улица Годовикова in the Moscow area?,A,2200.0,6600.0,4400.0,220.0,660.0
+846,How long is улица Бочкова in the Moscow area?,A,1600.0,4800.0,480.0,3200.0,160.0
+847,How long is Большая Юшуньская улица in the Moscow area?,C,7200.0,10800.0,3600.0,360.0,1080.0
+848,How long is улица Павла Андреева in the Moscow area?,E,2000.0,3000.0,300.0,100.0,1000.0
+849,How long is улица Большая Ордынка in the Moscow area?,E,4800.0,480.0,3200.0,160.0,1600.0
+850,How long is Серпуховская площадь in the Moscow area?,D,0.0,100.0,0.0,0.0,100.0
+851,How long is Сущёвская улица in the Moscow area?,E,420.0,140.0,2800.0,4200.0,1400.0
+852,How long is Тихвинская улица in the Moscow area?,A,1500.0,3000.0,450.0,150.0,4500.0
+853,How long is Перуновский переулок in the Moscow area?,D,100.0,200.0,100.0,100.0,300.0
+854,How long is улица Советской Армии in the Moscow area?,B,150.0,500.0,1000.0,100.0,1500.0
+855,How long is набережная Тараса Шевченко in the Moscow area?,C,170.0,510.0,1700.0,3400.0,5100.0
+856,How long is улица Гримау in the Moscow area?,B,120.0,400.0,1200.0,100.0,800.0
+857,How long is Проектируемый 5186-й проезд in the Moscow area?,D,150.0,4500.0,450.0,1500.0,3000.0
+858,How long is Веерная улица in the Moscow area?,B,100.0,500.0,150.0,1500.0,1000.0
+859,How long is Промышленный проезд in the Moscow area?,D,5400.0,180.0,540.0,1800.0,3600.0
+860,How long is Волочаевская улица in the Moscow area?,E,8200.0,1230.0,12300.0,410.0,4100.0
+861,How long is Красноказарменная площадь in the Moscow area?,E,210.0,1400.0,2100.0,100.0,700.0
+862,How long is Танковый проезд in the Moscow area?,E,1400.0,100.0,2100.0,210.0,700.0
+863,How long is 3-й проезд Марьиной Рощи in the Moscow area?,E,100.0,300.0,100.0,200.0,100.0
+864,How long is Стрелецкая улица in the Moscow area?,B,240.0,800.0,100.0,1600.0,2400.0
+865,How long is Гостиничная улица in the Moscow area?,D,560.0,16800.0,11200.0,5600.0,1680.0
+866,How long is улица Строителей in the Moscow area?,D,210.0,1400.0,2100.0,700.0,100.0
+867,How long is улица Панфёрова in the Moscow area?,E,150.0,1000.0,100.0,1500.0,500.0
+868,How long is улица Панфилова in the Moscow area?,C,210.0,4200.0,2100.0,6300.0,630.0
+869,How long is улица Врубеля in the Moscow area?,E,360.0,2400.0,3600.0,120.0,1200.0
+870,How long is улица Коновалова in the Moscow area?,A,1500.0,3000.0,450.0,150.0,4500.0
+871,How long is 2-й Грайвороновский проезд in the Moscow area?,C,5600.0,280.0,2800.0,840.0,8400.0
+872,How long is улица Багрицкого in the Moscow area?,E,8700.0,5800.0,290.0,870.0,2900.0
+873,How long is Выборгская улица in the Moscow area?,B,2400.0,800.0,100.0,240.0,1600.0
+874,How long is 2-й Силикатный проезд in the Moscow area?,C,7200.0,4800.0,2400.0,720.0,240.0
+875,How long is 8-я улица Текстильщиков in the Moscow area?,C,5200.0,780.0,2600.0,7800.0,260.0
+876,How long is 8-й проезд Марьиной Рощи in the Moscow area?,A,500.0,100.0,150.0,1500.0,1000.0
+877,How long is Анненская улица in the Moscow area?,C,270.0,1800.0,900.0,2700.0,100.0
+878,How long is Старомарьинское шоссе in the Moscow area?,E,6000.0,4000.0,600.0,200.0,2000.0
+879,How long is 17-й проезд Марьиной Рощи in the Moscow area?,A,500.0,150.0,100.0,1000.0,1500.0
+880,How long is улица Мясищева in the Moscow area?,D,100.0,3000.0,300.0,1000.0,2000.0
+881,How long is Филёвский бульвар in the Moscow area?,E,7200.0,4800.0,720.0,240.0,2400.0
+882,How long is Большая Декабрьская улица in the Moscow area?,E,150.0,3000.0,4500.0,450.0,1500.0
+883,How long is улица Николаева in the Moscow area?,A,600.0,180.0,100.0,1800.0,1200.0
+884,How long is Ростокинская улица in the Moscow area?,C,1000.0,1500.0,500.0,100.0,150.0
+885,How long is Будайская улица in the Moscow area?,E,110.0,3300.0,330.0,2200.0,1100.0
+886,How long is улица Бажова in the Moscow area?,D,100.0,240.0,1600.0,800.0,2400.0
+887,How long is Веткина улица in the Moscow area?,C,100.0,1600.0,800.0,240.0,2400.0
+888,How long is Средняя Калитниковская улица in the Moscow area?,B,9000.0,3000.0,300.0,6000.0,900.0
+889,How long is Боенский проезд in the Moscow area?,A,300.0,900.0,100.0,100.0,600.0
+890,How long is 14-й проезд Марьиной Рощи in the Moscow area?,B,600.0,200.0,100.0,400.0,100.0
+891,How long is Гончарная набережная in the Moscow area?,C,240.0,1600.0,800.0,100.0,2400.0
+892,How long is Народная улица in the Moscow area?,E,100.0,900.0,100.0,600.0,300.0
+893,How long is Скотопрогонная улица in the Moscow area?,D,2490.0,16600.0,24900.0,8300.0,830.0
+894,How long is площадь Проломная Застава in the Moscow area?,E,0.0,0.0,100.0,100.0,0.0
+895,How long is улица Малая Дмитровка in the Moscow area?,A,600.0,1800.0,100.0,180.0,1200.0
+896,How long is Кожевническая улица in the Moscow area?,C,3000.0,300.0,1000.0,100.0,2000.0
+897,How long is 1-я улица Измайловского Зверинца in the Moscow area?,D,330.0,3300.0,2200.0,1100.0,110.0
+898,How long is Московский проспект in the Moscow area?,A,3300.0,6600.0,990.0,330.0,9900.0
+899,How long is Красностуденческий проезд in the Moscow area?,D,3300.0,2200.0,110.0,1100.0,330.0
+900,How long is 1-я Хуторская улица in the Moscow area?,B,100.0,200.0,600.0,100.0,400.0
+901,How long is Ольховская улица in the Moscow area?,B,3300.0,1100.0,110.0,2200.0,330.0
+902,How long is 1-я Останкинская улица in the Moscow area?,A,3800.0,7600.0,11400.0,1140.0,380.0
+903,How long is улица Борисовские Пруды in the Moscow area?,D,13800.0,9200.0,460.0,4600.0,1380.0
+904,How long is Вятская улица in the Moscow area?,E,1050.0,350.0,10500.0,7000.0,3500.0
+905,How long is Новорязанская улица in the Moscow area?,A,1200.0,120.0,3600.0,360.0,2400.0
+906,How long is 2-я Бауманская улица in the Moscow area?,C,1200.0,180.0,600.0,1800.0,100.0
+907,How long is Электрозаводская улица in the Moscow area?,B,390.0,1300.0,130.0,3900.0,2600.0
+908,How long is Электродная улица in the Moscow area?,B,170.0,1700.0,5100.0,510.0,3400.0
+909,How long is улица Льва Толстого in the Moscow area?,C,100.0,100.0,100.0,200.0,300.0
+910,How long is Котельническая набережная in the Moscow area?,E,1000.0,1500.0,150.0,100.0,500.0
+911,How long is Подгорская набережная in the Moscow area?,E,100.0,600.0,100.0,400.0,200.0
+912,How long is Флотская улица in the Moscow area?,C,7200.0,4800.0,2400.0,240.0,720.0
+913,How long is Песчаный переулок in the Moscow area?,D,330.0,110.0,3300.0,1100.0,2200.0
+914,How long is Мазиловская улица in the Moscow area?,A,900.0,270.0,100.0,2700.0,1800.0
+915,How long is улица Олений Вал in the Moscow area?,C,2800.0,420.0,1400.0,4200.0,140.0
+916,How long is Русаковская набережная in the Moscow area?,B,4200.0,2100.0,210.0,6300.0,630.0
+917,How long is улица Короленко in the Moscow area?,E,2000.0,100.0,300.0,3000.0,1000.0
+918,How long is 3-я улица Бухвостова in the Moscow area?,D,2400.0,100.0,240.0,800.0,1600.0
+919,How long is Гончарный проезд in the Moscow area?,C,400.0,100.0,200.0,100.0,600.0
+920,How long is Малый Гавриков переулок in the Moscow area?,E,100.0,200.0,100.0,300.0,100.0
+921,How long is Авиамоторный проезд in the Moscow area?,E,1000.0,100.0,150.0,1500.0,500.0
+922,How long is улица Семёновский Вал in the Moscow area?,A,600.0,100.0,1200.0,180.0,1800.0
+923,How long is улица Полбина in the Moscow area?,B,280.0,2800.0,8400.0,840.0,5600.0
+924,How long is Софийская набережная in the Moscow area?,A,1700.0,510.0,5100.0,3400.0,170.0
+925,How long is Бережковская набережная in the Moscow area?,A,3100.0,6200.0,9300.0,310.0,930.0
+926,How long is улица 10-летия Октября in the Moscow area?,A,1100.0,330.0,2200.0,3300.0,110.0
+927,How long is Малая Пироговская улица in the Moscow area?,D,0.0,100.0,0.0,0.0,100.0
+928,How long is Лужнецкая набережная in the Moscow area?,E,0.0,0.0,100.0,100.0,0.0
+929,How long is Новодевичья набережная in the Moscow area?,B,3400.0,1700.0,5100.0,510.0,170.0
+930,How long is 1-я Фрунзенская улица in the Moscow area?,E,120.0,800.0,1200.0,100.0,400.0
+931,How long is улица Сергея Эйзенштейна in the Moscow area?,D,100.0,600.0,100.0,200.0,400.0
+932,How long is Продольный проезд in the Moscow area?,E,100.0,400.0,600.0,100.0,200.0
+933,How long is Стрельбищенский переулок in the Moscow area?,C,4500.0,150.0,1500.0,3000.0,450.0
+934,How long is 2-я Рыбинская улица in the Moscow area?,C,100.0,400.0,200.0,600.0,100.0
+935,How long is 1-я Рыбинская улица in the Moscow area?,C,100.0,1600.0,800.0,2400.0,240.0
+936,How long is улица Тёплый Стан in the Moscow area?,C,570.0,3800.0,1900.0,190.0,5700.0
+937,How long is улица Академика Варги in the Moscow area?,E,1050.0,7000.0,350.0,10500.0,3500.0
+938,How long is 2-й Боткинский проезд in the Moscow area?,E,2200.0,3300.0,110.0,330.0,1100.0
+939,How long is 2-я Песчаная улица in the Moscow area?,B,2100.0,700.0,1400.0,210.0,100.0
+940,How long is Научный проезд in the Moscow area?,B,630.0,2100.0,6300.0,4200.0,210.0
+941,How long is улица Демьяна Бедного in the Moscow area?,D,400.0,600.0,100.0,200.0,100.0
+942,How long is Матвеевская улица in the Moscow area?,A,1800.0,180.0,540.0,3600.0,5400.0
+943,How long is улица Сокольнический Вал in the Moscow area?,A,1600.0,160.0,4800.0,3200.0,480.0
+944,How long is Госпитальная площадь in the Moscow area?,B,100.0,200.0,600.0,100.0,400.0
+945,How long is Южный проезд in the Moscow area?,E,0.0,100.0,0.0,100.0,0.0
+946,How long is Орликов переулок in the Moscow area?,E,200.0,300.0,100.0,100.0,100.0
+947,How long is Новохохловская улица in the Moscow area?,C,1290.0,430.0,4300.0,12900.0,8600.0
+948,How long is Луговой проезд in the Moscow area?,A,1100.0,110.0,2200.0,3300.0,330.0
+949,How long is Котляковский проезд in the Moscow area?,D,480.0,160.0,3200.0,1600.0,4800.0
+950,How long is Усачёва улица in the Moscow area?,A,2800.0,5600.0,8400.0,840.0,280.0
+951,How long is Мурманский проезд in the Moscow area?,B,800.0,400.0,120.0,100.0,1200.0
+952,How long is улица Александра Солженицына in the Moscow area?,D,1800.0,270.0,100.0,900.0,2700.0
+953,How long is 1-й Дорожный проезд in the Moscow area?,C,8400.0,280.0,2800.0,5600.0,840.0
+954,How long is Халтуринская улица in the Moscow area?,A,1600.0,3200.0,160.0,4800.0,480.0
+955,How long is 1-й Басманный переулок in the Moscow area?,D,100.0,1200.0,800.0,400.0,120.0
+956,How long is Тимирязевская улица in the Moscow area?,B,8400.0,4200.0,1260.0,12600.0,420.0
+957,How long is Луганская улица in the Moscow area?,A,900.0,1800.0,100.0,2700.0,270.0
+958,How long is улица Речников in the Moscow area?,E,0.0,100.0,0.0,100.0,0.0
+959,How long is Тишинская площадь in the Moscow area?,C,100.0,100.0,100.0,300.0,200.0
+960,How long is Москворецкая улица in the Moscow area?,E,100.0,600.0,400.0,100.0,200.0
+961,How long is Потешная улица in the Moscow area?,E,2400.0,120.0,360.0,3600.0,1200.0
+962,How long is 9-я улица Соколиной Горы in the Moscow area?,C,4500.0,3000.0,1500.0,150.0,450.0
+963,How long is улица Архитектора Власова in the Moscow area?,B,350.0,3500.0,10500.0,1050.0,7000.0
+964,How long is улица Шумкина in the Moscow area?,E,3200.0,160.0,480.0,4800.0,1600.0
+965,How long is Хлебобулочный проезд in the Moscow area?,C,140.0,4200.0,1400.0,2800.0,420.0
+966,How long is улица Гамалеи in the Moscow area?,B,780.0,2600.0,7800.0,5200.0,260.0
+967,How long is Криворожская улица in the Moscow area?,A,1200.0,120.0,360.0,3600.0,2400.0
+968,How long is Котляковская улица in the Moscow area?,C,100.0,2100.0,700.0,210.0,1400.0
+969,How long is 1-й Котляковский переулок in the Moscow area?,A,600.0,1800.0,1200.0,180.0,100.0
+970,How long is улица Талалихина in the Moscow area?,D,270.0,8100.0,810.0,2700.0,5400.0
+971,How long is 2-й Войковский проезд in the Moscow area?,C,5400.0,540.0,1800.0,3600.0,180.0
+972,How long is проектируемый проезд № 770 in the Moscow area?,A,1600.0,160.0,4800.0,3200.0,480.0
+973,How long is Зеленодольский проезд in the Moscow area?,C,120.0,3600.0,1200.0,2400.0,360.0
+974,How long is 5-я Кабельная улица in the Moscow area?,C,2100.0,210.0,700.0,100.0,1400.0
+975,How long is Андроновское шоссе in the Moscow area?,E,140.0,4200.0,2800.0,420.0,1400.0
+976,How long is улица Фадеева in the Moscow area?,C,160.0,480.0,1600.0,4800.0,3200.0
+977,How long is улица Садовники in the Moscow area?,D,330.0,110.0,2200.0,1100.0,3300.0
+978,How long is Отрадная улица in the Moscow area?,D,3800.0,190.0,570.0,1900.0,5700.0
+979,How long is Мирской переулок in the Moscow area?,C,150.0,1500.0,500.0,100.0,1000.0
+980,How long is Джазовая улица in the Moscow area?,D,7200.0,240.0,720.0,2400.0,4800.0
+981,How long is переулок Добролюбова in the Moscow area?,D,0.0,0.0,100.0,0.0,100.0
+982,How long is Винницкая улица in the Moscow area?,D,180.0,3600.0,5400.0,1800.0,540.0
+983,How long is Газгольдерная улица in the Moscow area?,B,6600.0,2200.0,4400.0,660.0,220.0
+984,How long is улица Генерала Дорохова in the Moscow area?,B,360.0,1200.0,3600.0,120.0,2400.0
+985,How long is улица Академика Миллионщикова in the Moscow area?,C,160.0,4800.0,1600.0,480.0,3200.0
+986,How long is 1-й Нагатинский проезд in the Moscow area?,A,700.0,1400.0,210.0,100.0,2100.0
+987,How long is Калибровская улица in the Moscow area?,B,7800.0,2600.0,5200.0,780.0,260.0
+988,How long is улица Академика Комарова in the Moscow area?,C,100.0,1800.0,900.0,2700.0,270.0
+989,How long is проектируемый проезд № 2147 in the Moscow area?,C,3000.0,4500.0,1500.0,450.0,150.0
+990,How long is проезд Олимпийской Деревни in the Moscow area?,E,100.0,1500.0,1000.0,150.0,500.0
+991,How long is проезд Берёзовой Рощи in the Moscow area?,A,1300.0,3900.0,2600.0,390.0,130.0
+992,How long is проектируемый проезд № 5470 in the Moscow area?,B,100.0,300.0,100.0,600.0,900.0
+993,How long is проектируемый проезд № 6414 in the Moscow area?,C,1600.0,240.0,800.0,2400.0,100.0
+994,How long is 1-я улица Бухвостова in the Moscow area?,A,1900.0,570.0,5700.0,3800.0,190.0
+995,How long is улица Лётчика Осканова in the Moscow area?,D,200.0,100.0,100.0,100.0,300.0
+996,How long is 3-й Волоколамский проезд in the Moscow area?,A,800.0,1600.0,2400.0,240.0,100.0
+997,How long is Грайвороновская улица in the Moscow area?,C,8100.0,5400.0,2700.0,810.0,270.0
+998,How long is проезд Главмосстроя in the Moscow area?,E,2800.0,420.0,140.0,4200.0,1400.0
+999,How long is улица Василисы Кожиной in the Moscow area?,B,2200.0,1100.0,330.0,3300.0,110.0
+1000,How long is улица Константина Царёва in the Moscow area?,D,180.0,5400.0,540.0,1800.0,3600.0
+1001,How long is Ходынская улица in the Moscow area?,D,100.0,100.0,900.0,300.0,600.0
+1002,How long is набережная Марка Шагала in the Moscow area?,C,6000.0,300.0,3000.0,9000.0,900.0
+1003,How long is Красноармейская улица in the Moscow area?,C,870.0,8700.0,2900.0,5800.0,290.0
+1004,How long is проектируемый проезд № 1166 in the Moscow area?,E,600.0,100.0,100.0,400.0,200.0
+1005,How long is Госпитальная набережная in the Moscow area?,E,1800.0,180.0,100.0,1200.0,600.0
+1006,How long is проектируемый проезд № 2123 in the Moscow area?,C,1800.0,270.0,900.0,2700.0,100.0
+1007,How long is Теплостанский проезд in the Moscow area?,C,2800.0,420.0,1400.0,4200.0,140.0
+1008,How long is Никулинский проезд in the Moscow area?,A,1200.0,3600.0,360.0,120.0,2400.0
+1009,How long is 2-й Южнопортовый проезд in the Moscow area?,E,6300.0,4200.0,210.0,630.0,2100.0
+1010,How long is проектируемый проезд № 4062 in the Moscow area?,B,960.0,3200.0,320.0,9600.0,6400.0
+1011,How long is улица Академика Петровского in the Moscow area?,E,110.0,330.0,2200.0,3300.0,1100.0
+1012,How long is проектируемый проезд № 1033 in the Moscow area?,C,100.0,100.0,100.0,300.0,200.0
+1013,How long is улица Сергия Радонежского in the Moscow area?,D,100.0,200.0,100.0,100.0,300.0
+1014,How long is Новорогожская улица in the Moscow area?,C,160.0,4800.0,1600.0,3200.0,480.0
+1015,How long is Нововоротниковский переулок in the Moscow area?,E,100.0,300.0,100.0,200.0,100.0
+1016,How long is проектируемый проезд № 64 in the Moscow area?,E,1200.0,120.0,100.0,800.0,400.0
+1017,How long is улица Цандера in the Moscow area?,A,500.0,100.0,1000.0,150.0,1500.0
+1018,How long is улица Неверовского in the Moscow area?,A,200.0,600.0,100.0,100.0,400.0
+1019,How long is Большая Андроньевская улица in the Moscow area?,C,260.0,5200.0,2600.0,7800.0,780.0
+1020,How long is Трубецкая улица in the Moscow area?,C,130.0,390.0,1300.0,2600.0,3900.0
+1021,How long is Большая Спасская улица in the Moscow area?,C,540.0,5400.0,1800.0,180.0,3600.0
+1022,How long is Глухарёв переулок in the Moscow area?,A,400.0,100.0,120.0,800.0,1200.0
+1023,How long is улица Докукина in the Moscow area?,E,15600.0,10400.0,1560.0,520.0,5200.0
+1024,How long is Черноморский бульвар in the Moscow area?,A,2600.0,7800.0,260.0,5200.0,780.0
+1025,How long is улица Санникова in the Moscow area?,C,100.0,100.0,100.0,200.0,300.0
+1026,How long is 1-й Боткинский проезд in the Moscow area?,C,3300.0,2200.0,1100.0,330.0,110.0
+1027,How long is Лубочный переулок in the Moscow area?,C,0.0,0.0,0.0,100.0,100.0
+1028,How long is улица Дубовой Рощи in the Moscow area?,C,600.0,100.0,300.0,900.0,100.0
+1029,How long is Малая Очаковская улица in the Moscow area?,D,6800.0,10200.0,1020.0,3400.0,340.0
+1030,How long is улица Яблочкова in the Moscow area?,B,4000.0,2000.0,6000.0,600.0,200.0
+1031,How long is проектируемый проезд № 6053 in the Moscow area?,E,100.0,400.0,100.0,600.0,200.0
+1032,How long is Докучаев переулок in the Moscow area?,A,500.0,150.0,1000.0,100.0,1500.0
+1033,How long is проектируемый проезд № 1797 in the Moscow area?,D,100.0,400.0,600.0,200.0,100.0
+1034,How long is проезд Добролюбова in the Moscow area?,B,390.0,1300.0,130.0,2600.0,3900.0
+1035,How long is Большая Серпуховская улица in the Moscow area?,C,360.0,3600.0,1200.0,2400.0,120.0
+1036,How long is Устьинская набережная in the Moscow area?,D,900.0,100.0,100.0,300.0,600.0
+1037,How long is 4-я улица Марьиной Рощи in the Moscow area?,C,8400.0,840.0,2800.0,280.0,5600.0
+1038,How long is Беговая аллея in the Moscow area?,A,2300.0,4600.0,690.0,6900.0,230.0
+1039,How long is улица Двинцев in the Moscow area?,B,200.0,2000.0,6000.0,4000.0,600.0
+1040,How long is Малая Ботаническая улица in the Moscow area?,B,100.0,300.0,100.0,900.0,600.0
+1041,How long is Чапаевский переулок in the Moscow area?,C,2600.0,130.0,1300.0,390.0,3900.0
+1042,How long is Тестовская улица in the Moscow area?,D,100.0,900.0,600.0,300.0,100.0
+1043,How long is Коптевский бульвар in the Moscow area?,A,600.0,100.0,1800.0,180.0,1200.0
+1044,How long is Нагорный проезд in the Moscow area?,B,300.0,3000.0,900.0,6000.0,9000.0
+1045,How long is Садовая-Черногрязская улица in the Moscow area?,E,100.0,100.0,600.0,400.0,200.0
+1046,How long is Кутузовский проспект (дублёр) in the Moscow area?,C,800.0,1200.0,400.0,100.0,120.0
+1047,How long is 3-я Мытищинская улица in the Moscow area?,E,600.0,200.0,4000.0,6000.0,2000.0
+1048,How long is бульвар Яна Райниса in the Moscow area?,D,2200.0,110.0,3300.0,1100.0,330.0
+1049,How long is площадь Журавлёва in the Moscow area?,B,100.0,200.0,400.0,100.0,600.0
+1050,How long is Сиреневый бульвар in the Moscow area?,D,480.0,4800.0,160.0,1600.0,3200.0
+1051,How long is Славянский бульвар in the Moscow area?,B,110.0,1100.0,330.0,3300.0,2200.0
+1052,How long is 1-й проезд Марьиной Рощи in the Moscow area?,C,130.0,390.0,1300.0,2600.0,3900.0
+1053,How long is Большая Марфинская улица in the Moscow area?,C,800.0,120.0,400.0,100.0,1200.0
+1054,How long is Преображенская набережная in the Moscow area?,B,270.0,900.0,100.0,1800.0,2700.0
+1055,How long is Милицейский переулок in the Moscow area?,E,120.0,800.0,1200.0,100.0,400.0
+1056,How long is Пермская улица in the Moscow area?,E,11000.0,1650.0,16500.0,550.0,5500.0
+1057,How long is Красноворотский проезд in the Moscow area?,D,200.0,100.0,100.0,100.0,300.0
+1058,How long is улица Маросейка in the Moscow area?,E,100.0,1000.0,150.0,1500.0,500.0
+1059,How long is улица Покровка in the Moscow area?,A,500.0,1500.0,100.0,1000.0,150.0
+1060,How long is Чистопрудный бульвар in the Moscow area?,D,160.0,3200.0,4800.0,1600.0,480.0
+1061,How long is Мясницкая улица in the Moscow area?,E,100.0,2700.0,1800.0,270.0,900.0
+1062,How long is площадь Шарля де Голля in the Moscow area?,D,0.0,100.0,0.0,0.0,100.0
+1063,How long is Сретенский бульвар in the Moscow area?,E,150.0,100.0,1500.0,1000.0,500.0
+1064,How long is площадь Сретенские Ворота in the Moscow area?,E,0.0,100.0,100.0,0.0,0.0
+1065,How long is Институтский переулок in the Moscow area?,E,100.0,0.0,100.0,0.0,0.0
+1066,How long is Саринский проезд in the Moscow area?,D,200.0,100.0,100.0,100.0,300.0
+1067,How long is улица Вересаева in the Moscow area?,C,0.0,0.0,0.0,100.0,100.0
+1068,How long is площадь Земляной Вал in the Moscow area?,A,400.0,120.0,800.0,100.0,1200.0
+1069,How long is улица Маршала Василевского in the Moscow area?,C,300.0,3000.0,1000.0,100.0,2000.0
+1070,How long is Киевская улица in the Moscow area?,D,100.0,100.0,600.0,300.0,900.0
+1071,How long is улица Андрея Карлова in the Moscow area?,C,100.0,100.0,100.0,300.0,200.0
+1072,How long is Коломенское шоссе in the Moscow area?,E,240.0,2400.0,1600.0,100.0,800.0
+1073,How long is Сыромятническая набережная in the Moscow area?,E,0.0,100.0,0.0,100.0,0.0
+1074,How long is набережная Академика Туполева in the Moscow area?,E,160.0,4800.0,480.0,3200.0,1600.0
+1075,How long is проектируемый проезд № 6362 in the Moscow area?,E,100.0,300.0,100.0,200.0,100.0
+1076,How long is Костомаровский переулок in the Moscow area?,A,600.0,180.0,100.0,1800.0,1200.0
+1077,How long is Аргуновская улица in the Moscow area?,B,100.0,600.0,1800.0,1200.0,180.0
+1078,How long is Болотная улица in the Moscow area?,E,0.0,100.0,100.0,0.0,0.0
+1079,How long is Гаражная улица in the Moscow area?,C,100.0,800.0,400.0,1200.0,120.0
+1080,How long is Очаковское шоссе in the Moscow area?,B,15600.0,5200.0,10400.0,520.0,1560.0
+1081,How long is Курская улица in the Moscow area?,C,100.0,800.0,400.0,1200.0,120.0
+1082,How long is площадь Академика Прохорова in the Moscow area?,D,100.0,0.0,0.0,0.0,100.0
+1083,How long is Балакиревский переулок in the Moscow area?,E,3400.0,510.0,5100.0,170.0,1700.0
+1084,How long is улица Охотный Ряд in the Moscow area?,C,100.0,100.0,100.0,300.0,200.0
+1085,How long is улица Сечкина in the Moscow area?,A,3100.0,310.0,930.0,6200.0,9300.0
+1086,How long is Верхняя Радищевская улица in the Moscow area?,E,100.0,1800.0,1200.0,180.0,600.0
+1087,How long is Нижняя Радищевская улица in the Moscow area?,E,100.0,900.0,600.0,100.0,300.0
+1088,How long is шоссе Фрезер in the Moscow area?,E,930.0,9300.0,6200.0,310.0,3100.0
+1089,How long is 1-я Фрезерная улица in the Moscow area?,B,100.0,200.0,100.0,600.0,400.0
+1090,How long is проезд Дубовой Рощи in the Moscow area?,B,720.0,2400.0,4800.0,240.0,7200.0
+1091,How long is Линейный проезд in the Moscow area?,A,300.0,100.0,600.0,100.0,900.0
+1092,How long is Садовая-Триумфальная улица (дублёр) in the Moscow area?,B,100.0,200.0,400.0,100.0,600.0
+1093,How long is Болотная площадь in the Moscow area?,D,1800.0,270.0,2700.0,900.0,100.0
+1094,How long is проектируемый проезд № 137 in the Moscow area?,E,0.0,0.0,100.0,100.0,0.0
+1095,How long is улица Ермакова Роща in the Moscow area?,C,100.0,100.0,300.0,900.0,600.0
+1096,How long is улица Николая Коперника in the Moscow area?,B,810.0,2700.0,5400.0,270.0,8100.0
+1097,How long is Семёновская набережная in the Moscow area?,B,800.0,400.0,100.0,120.0,1200.0
+1098,How long is Золотая улица in the Moscow area?,D,16200.0,2430.0,24300.0,8100.0,810.0
+1099,How long is Складочная улица in the Moscow area?,D,0.0,100.0,0.0,0.0,100.0
+1100,How long is Правая Дворцовая аллея in the Moscow area?,D,100.0,100.0,600.0,200.0,400.0
+1101,How long is Болотная набережная in the Moscow area?,B,100.0,500.0,1500.0,1000.0,150.0
+1102,How long is 3-я Прядильная улица in the Moscow area?,E,300.0,100.0,200.0,100.0,100.0
+1103,"How long is МКАД, 48-й километр in the Moscow area?",E,0.0,0.0,100.0,100.0,0.0
+1104,"How long is МКАД, 49-й километр in the Moscow area?",D,100.0,600.0,900.0,300.0,100.0

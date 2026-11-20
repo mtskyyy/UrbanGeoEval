@@ -1,0 +1,465 @@
+id,question,answer,A,B,C,D
+0,"What is the distance between ""Fare by Chef Alex Guarnaschelli"" and ""Middle School 577"" in the New York area?",D,17.74,7.2,11.98,10.13
+1,"What is the distance between ""Yorkville Finance Station Post Office"" and ""Kabayan Authentic"" in the New York area?",C,7.19,3.28,5.3,2.48
+2,"What is the distance between ""Stage 11"" and ""Santa Barbarita Pizzeria"" in the New York area?",A,5.55,7.53,13.0,8.0
+3,"What is the distance between ""Bento NYC"" and ""Trump Bar"" in the New York area?",B,4.6,1.56,8.25,8.36
+4,"What is the distance between ""New York Diner"" and ""Ridgewood Savings Bank"" in the New York area?",D,16.72,16.02,1.47,8.87
+5,"What is the distance between ""KJUN"" and ""La Sala"" in the New York area?",C,19.95,14.85,12.8,19.63
+6,"What is the distance between ""One Carnegie Hill"" and ""Romney Hall"" in the New York area?",A,12.22,18.57,18.49,17.98
+7,"What is the distance between ""Manhattan Church of Christ"" and ""Feeding Tree Garden"" in the New York area?",B,11.22,10.17,6.31,13.27
+8,"What is the distance between ""Lucille Roberts"" and ""Small Door"" in the New York area?",B,17.04,9.7,16.05,3.11
+9,"What is the distance between ""Citi bike"" and ""Joanne Trattoria"" in the New York area?",A,11.81,4.17,14.91,10.06
+10,"What is the distance between ""Haru Sushi"" and ""New Bell Car Service"" in the New York area?",B,8.67,10.12,13.58,14.39
+11,"What is the distance between ""Wilshire Plaza"" and ""Latham Park"" in the New York area?",D,11.03,14.37,6.3,7.25
+12,"What is the distance between ""Park Place Community Middle School"" and ""Walgreens"" in the New York area?",B,15.74,11.36,3.56,6.55
+13,"What is the distance between ""Brooklyn Boulders Queensbridge"" and ""Olas Coffee Roasters and Cafe"" in the New York area?",A,4.59,7.08,3.66,2.82
+14,"What is the distance between ""C-Town"" and ""Beekman Tower"" in the New York area?",B,4.23,8.81,5.0,3.77
+15,"What is the distance between ""Forest Park"" and ""Elmhurst Care Center"" in the New York area?",B,13.7,7.54,14.76,9.39
+16,"What is the distance between ""Smorgasborg"" and ""Tamá"" in the New York area?",A,3.89,2.39,0.77,2.03
+17,"What is the distance between ""LaRina"" and ""Gold Sounds Bar"" in the New York area?",C,6.16,6.99,3.61,6.01
+18,"What is the distance between ""Beekman Tower"" and ""Elmhurst Branch Queens Borough Public Library"" in the New York area?",B,14.6,7.71,12.26,9.72
+19,"What is the distance between ""Building 594"" and ""The Church of the Virgin Mary"" in the New York area?",B,1.77,3.98,1.96,8.95
+20,"What is the distance between ""Dock 72 Way & Market St"" and ""USPS"" in the New York area?",A,10.0,4.23,8.95,4.32
+21,"What is the distance between ""Mount Olivet Gospel Church"" and ""Universalist Church of New York"" in the New York area?",A,9.11,8.01,2.99,3.26
+22,"What is the distance between ""Seed Brklyn Green House"" and ""Baskin-Robbins"" in the New York area?",C,15.5,14.24,11.45,4.39
+23,"What is the distance between ""Bustan"" and ""Chick It Out ""Khao Man Gai"""" in the New York area?",C,8.43,3.28,5.34,7.98
+24,"What is the distance between ""1.2.1 Fitness"" and ""Natural Blend"" in the New York area?",A,3.58,10.77,1.99,6.14
+25,"What is the distance between ""Barbaco Tio"" and ""Queens Library - Sunnyside Branch"" in the New York area?",D,12.3,14.88,2.91,9.07
+26,"What is the distance between ""The Dead Poet"" and ""Takahachi"" in the New York area?",A,6.65,9.32,8.21,5.02
+27,"What is the distance between ""Citi Bike East 85th Street & 3rd Avenue"" and ""Austin Street Pizza"" in the New York area?",B,18.55,11.44,4.56,13.02
+28,"What is the distance between ""No. 7 Restaurant"" and ""Northern Bell"" in the New York area?",A,4.3,1.99,8.1,7.56
+29,"What is the distance between ""JJ's Asian Fusion"" and ""Citi Bike - West 43rd Street & 6th Avenue"" in the New York area?",C,8.58,6.62,5.53,12.86
+30,"What is the distance between ""Manhattan"" and ""Citi Bike - 62 St / Northern Bl"" in the New York area?",B,12.99,6.82,12.05,4.08
+31,"What is the distance between ""The Marleborough"" and ""Great Bear Tire and Auto Center"" in the New York area?",A,7.28,5.51,4.46,15.25
+32,"What is the distance between ""Stratford Hall"" and ""Riverside Park"" in the New York area?",C,14.42,12.84,9.05,13.4
+33,"What is the distance between ""Sisters"" and ""Ghost"" in the New York area?",D,6.22,1.41,6.97,3.57
+34,"What is the distance between ""Solow Building"" and ""One Carnegie Hill"" in the New York area?",B,6.14,3.29,1.0,6.47
+35,"What is the distance between ""Duane Reade"" and ""Bello's Pharmacy"" in the New York area?",C,9.08,0.93,4.81,12.03
+36,"What is the distance between ""Robert Rosenkranz, DDS"" and ""Lucky Star"" in the New York area?",A,13.52,6.69,16.7,16.23
+37,"What is the distance between ""Well Care Pharmacy"" and ""Juice Press"" in the New York area?",B,12.45,11.45,13.12,8.55
+38,"What is the distance between ""Gong Cha"" and ""Da Long Yi Hot Pot"" in the New York area?",C,2.82,8.85,4.67,10.37
+39,"What is the distance between ""The Church of the Virgin Mary"" and ""Bushwick Flea"" in the New York area?",A,6.07,7.81,0.97,8.74
+40,"What is the distance between ""Platinum Plus Cafe"" and ""Yorkville Finance Station Post Office"" in the New York area?",D,10.47,6.4,4.03,4.99
+41,"What is the distance between ""j &j"" and ""Christian Science Reading Room"" in the New York area?",C,2.94,3.56,7.64,9.56
+42,"What is the distance between ""Amalia Grocery"" and ""Malagueta"" in the New York area?",A,9.45,8.08,12.33,15.9
+43,"What is the distance between ""Blum Eye Center"" and ""Hungry Ghost Coffee"" in the New York area?",A,9.33,13.54,16.1,4.25
+44,"What is the distance between ""Harbs"" and ""Burrito Blvd"" in the New York area?",A,9.5,13.69,5.05,16.32
+45,"What is the distance between ""Sanger Hall"" and ""Buntopia"" in the New York area?",D,2.85,1.42,3.4,5.78
+46,"What is the distance between ""East Mall"" and ""Madame Poupon"" in the New York area?",C,16.42,20.7,13.11,15.32
+47,"What is the distance between ""Franklin Park"" and ""Amsterdam Houses"" in the New York area?",D,19.2,4.36,15.42,11.47
+48,"What is the distance between ""The Bagel Pub"" and ""Mister Everything"" in the New York area?",A,9.98,13.49,2.8,13.83
+49,"What is the distance between ""Exeter"" and ""Normandie Court"" in the New York area?",A,9.29,10.85,12.87,14.92
+50,"What is the distance between ""Tamá"" and ""Trattoria iL Gusto"" in the New York area?",D,18.46,6.94,19.05,11.17
+51,"What is the distance between ""19 Cafe"" and ""Concrete"" in the New York area?",B,6.13,1.05,6.05,7.83
+52,"What is the distance between ""Tudor Park"" and ""ANIK"" in the New York area?",D,7.44,18.2,16.83,14.75
+53,"What is the distance between ""Taqueria Mi Mariachi"" and ""Taipei Produce"" in the New York area?",D,6.16,8.81,5.85,3.46
+54,"What is the distance between ""United Metro Terminals"" and ""KJUN"" in the New York area?",D,8.14,9.78,8.59,3.33
+55,"What is the distance between ""Mumbai Place"" and ""Yayo's"" in the New York area?",D,4.98,6.58,6.04,0.86
+56,"What is the distance between ""Blue Ribbon"" and ""M565 Urban Academy Laboratory High School"" in the New York area?",C,8.75,9.37,2.0,4.52
+57,"What is the distance between ""Financier"" and ""Under Pressure Espresso Bar"" in the New York area?",C,12.33,2.26,4.47,2.29
+58,"What is the distance between ""The Delegate"" and ""Wilshire Plaza"" in the New York area?",C,9.07,2.64,1.64,6.37
+59,"What is the distance between ""Eastern Athletic"" and ""Salsa In Queens"" in the New York area?",A,9.96,12.95,13.63,13.62
+60,"What is the distance between ""Masalawala & Sons"" and ""Budapest Café & Restaurant"" in the New York area?",A,12.05,16.74,7.2,14.92
+61,"What is the distance between ""Hilton Garden Inn"" and ""The Columns"" in the New York area?",A,1.27,9.23,5.66,3.89
+62,"What is the distance between ""Duryea Presbyterian Church"" and ""Site B"" in the New York area?",C,0.7,10.17,4.46,2.41
+63,"What is the distance between ""VITAL Climbing Gym"" and ""Pink Forest"" in the New York area?",A,11.8,16.61,17.92,4.41
+64,"What is the distance between ""Citizens Bank"" and ""Angels Cafe"" in the New York area?",C,10.73,1.41,4.57,7.73
+65,"What is the distance between ""La Cienega"" and ""K&K Super Buffett"" in the New York area?",B,1.57,6.46,3.32,8.53
+66,"What is the distance between ""Mount Sinai Urgent Care"" and ""Sweetleaf"" in the New York area?",A,4.87,2.74,1.35,8.14
+67,"What is the distance between ""Two Boots"" and ""Bamboo Ya"" in the New York area?",D,7.26,12.82,9.57,10.52
+68,"What is the distance between ""Mela Pizza"" and ""Duzan"" in the New York area?",B,6.03,0.82,2.26,8.82
+69,"What is the distance between ""Organic Planet & Pharmacy"" and ""Biergarten"" in the New York area?",A,9.61,8.69,14.83,6.18
+70,"What is the distance between ""Le Pain Quotidien"" and ""Honeybrains"" in the New York area?",B,6.59,1.7,3.54,3.44
+71,"What is the distance between ""Samudra South Indian Restaurant"" and ""Dun Huang"" in the New York area?",B,7.94,4.23,1.35,5.29
+72,"What is the distance between ""Matto Espresso"" and ""Victoria's Secret"" in the New York area?",C,8.28,10.77,3.34,6.8
+73,"What is the distance between ""Friends of Crown Heights Educational Center"" and ""Saint Fidelis of Sigmaringen Roman Catholic Church"" in the New York area?",A,14.0,12.64,10.35,7.67
+74,"What is the distance between ""Hungry Ghost Coffee"" and ""Madman Espresso"" in the New York area?",D,1.42,12.61,6.64,4.9
+75,"What is the distance between ""Sunnyside Pediatrics"" and ""Ditmars Dragon Phoenix"" in the New York area?",D,6.19,11.78,4.89,3.92
+76,"What is the distance between ""Iglesia Cristiana"" and ""Mango Mango"" in the New York area?",A,2.83,6.3,7.38,1.18
+77,"What is the distance between ""Ghost"" and ""Hippodrome"" in the New York area?",B,1.96,5.02,12.49,8.29
+78,"What is the distance between ""The Milling Room"" and ""Jimmy's Diner"" in the New York area?",A,7.56,2.37,11.82,14.04
+79,"What is the distance between ""Orsay"" and ""Arcadia Bar and Kitchen"" in the New York area?",D,4.34,9.14,8.34,2.64
+80,"What is the distance between ""Ops"" and ""Scrappleland"" in the New York area?",B,12.36,5.05,3.1,10.86
+81,"What is the distance between ""East Garden"" and ""ABA Turkish Restaurant"" in the New York area?",A,4.77,6.92,10.2,0.57
+82,"What is the distance between ""Heart of Brooklyn Veterinary Hospital"" and ""Manhattan"" in the New York area?",A,7.8,14.8,12.18,2.68
+83,"What is the distance between ""Gold Sounds Bar"" and ""Taco Beans"" in the New York area?",A,7.31,1.32,3.27,2.47
+84,"What is the distance between ""6 Columbus"" and ""Randalls Island Park"" in the New York area?",B,8.15,6.02,12.26,13.13
+85,"What is the distance between ""Lunetta Pizza & Restaurant"" and ""Sunnyside Pediatrics"" in the New York area?",C,0.97,1.1,5.25,7.61
+86,"What is the distance between ""Citi Bike - Boerum St & Broadway"" and ""Masalawala & Sons"" in the New York area?",C,3.17,12.23,4.78,12.1
+87,"What is the distance between ""Supreme Martial Arts"" and ""The Consulate"" in the New York area?",D,9.39,9.83,3.0,1.99
+88,"What is the distance between ""CityMD"" and ""Characters NYC Bar & Lounge"" in the New York area?",A,7.33,10.65,14.24,0.67
+89,"What is the distance between ""Metro Craft"" and ""Supreme Martial Arts"" in the New York area?",C,8.87,3.39,11.02,14.95
+90,"What is the distance between ""B'klyn Burro"" and ""Court Square Dentistry"" in the New York area?",C,4.89,13.09,7.24,1.68
+91,"What is the distance between ""Gator"" and ""Cafe Plein Air"" in the New York area?",C,1.61,1.42,4.94,11.31
+92,"What is the distance between ""Kumon"" and ""Citi Bike - Boerum St & Broadway"" in the New York area?",D,5.68,10.63,9.38,4.21
+93,"What is the distance between ""Awilda Shipping Inc."" and ""citibike"" in the New York area?",D,10.7,11.79,2.45,5.73
+94,"What is the distance between ""LOFT39"" and ""Ops"" in the New York area?",B,5.93,7.9,11.02,3.6
+95,"What is the distance between ""East River Park Field #6"" and ""Symphony House"" in the New York area?",D,9.05,13.03,12.46,5.17
+96,"What is the distance between ""Trattoria iL Gusto"" and ""Dingplay Event Space"" in the New York area?",A,12.82,16.03,5.89,6.81
+97,"What is the distance between ""Madame Poupon"" and ""Equinox"" in the New York area?",C,5.99,15.93,10.33,15.88
+98,"What is the distance between ""Citi Bike - East 55th Street & 3rd Avenue"" and ""Royal Underground"" in the New York area?",B,8.66,4.4,8.31,10.39
+99,"What is the distance between ""Public School 241"" and ""St. Cyril of Turov Belarusian Orthodox Church"" in the New York area?",C,15.94,9.44,10.47,14.45
+100,"What is the distance between ""New Life Tabernacle"" and ""Medgar Evers College"" in the New York area?",C,4.78,4.08,0.67,8.2
+101,"What is the distance between ""Saint Fidelis of Sigmaringen Roman Catholic Church"" and ""TownePlace Suites"" in the New York area?",A,8.87,5.43,13.4,7.07
+102,"What is the distance between ""ProHEALTH Urgent Care"" and ""NYU Comprehensive Epilepsy Center"" in the New York area?",C,7.88,6.54,0.97,3.83
+103,"What is the distance between ""Taipei Produce"" and ""Exeter"" in the New York area?",B,6.92,9.93,2.01,13.96
+104,"What is the distance between ""New Moon"" and ""Majid"" in the New York area?",B,11.37,6.38,2.9,10.6
+105,"What is the distance between ""Citi Bike - East 67th Street & Park Avenue"" and ""Cassidy's Ale House"" in the New York area?",B,4.61,6.29,8.61,2.53
+106,"What is the distance between ""Alexandra M. Simpson, DDS"" and ""Pollo A La Brasa"" in the New York area?",D,15.73,8.22,16.06,10.24
+107,"What is the distance between ""Astoria Craft"" and ""Salvatoria"" in the New York area?",B,6.08,1.33,3.12,5.39
+108,"What is the distance between ""Ahawith Chesed Cemetery"" and ""96 Park"" in the New York area?",C,11.1,4.92,8.82,15.31
+109,"What is the distance between ""Nonnas 1977"" and ""Sanger Hall"" in the New York area?",D,4.55,4.1,1.58,3.19
+110,"What is the distance between ""Connoly's Parking Lot"" and ""Shiuann Rong Chen DDS"" in the New York area?",D,13.3,13.88,14.34,6.74
+111,"What is the distance between ""Equinox"" and ""Cooper's"" in the New York area?",B,9.15,12.16,9.47,7.45
+112,"What is the distance between ""Pollo A La Brasa"" and ""LA Familia de Dios"" in the New York area?",D,9.43,0.58,11.79,4.98
+113,"What is the distance between ""Angels Cafe"" and ""Amalia Grocery"" in the New York area?",B,15.94,11.46,9.16,4.8
+114,"What is the distance between ""Shake Shack"" and ""Famous Original Ray's Pizza"" in the New York area?",C,2.45,2.49,5.18,2.72
+115,"What is the distance between ""Macy's"" and ""250N10"" in the New York area?",D,0.53,5.3,9.78,4.11
+116,"What is the distance between ""Domino Park Ice Rink"" and ""Spice Kitchen"" in the New York area?",D,10.53,14.55,4.69,6.59
+117,"What is the distance between ""Lagree NY"" and ""Little Poland"" in the New York area?",B,9.31,7.77,4.53,9.25
+118,"What is the distance between ""Louie's Pizza"" and ""Chase"" in the New York area?",C,13.82,10.22,7.05,12.46
+119,"What is the distance between ""We Got Company"" and ""Eladia's Kids"" in the New York area?",B,11.45,4.25,7.93,9.97
+120,"What is the distance between ""Fumo"" and ""Hellbender Nighttime Cafe"" in the New York area?",C,10.0,2.93,7.98,9.49
+121,"What is the distance between ""Cassidy's Ale House"" and ""Baoburg"" in the New York area?",B,3.78,6.26,7.25,1.72
+122,"What is the distance between ""LA Familia de Dios"" and ""CityMD"" in the New York area?",B,8.19,7.09,8.26,13.24
+123,"What is the distance between ""Biergarten"" and ""Glendale United Christian Church"" in the New York area?",D,9.02,5.17,14.92,7.45
+124,"What is the distance between ""Colombo's Pharmacy"" and ""Hanson Place Seventh-Day Adventist Elementary School"" in the New York area?",A,9.05,2.07,6.57,13.67
+125,"What is the distance between ""Dr. Susan Bard"" and ""Nonnas 1977"" in the New York area?",A,3.79,6.3,11.4,10.48
+126,"What is the distance between ""Da Long Yi Hot Pot"" and ""Pret A Manger"" in the New York area?",A,7.3,14.71,10.21,10.53
+127,"What is the distance between ""Myrtle Thai"" and ""16 Handles"" in the New York area?",D,7.39,11.4,13.02,9.78
+128,"What is the distance between ""Famous Original Ray's Pizza"" and ""Six Happiness"" in the New York area?",A,2.46,4.03,7.51,5.76
+129,"What is the distance between ""Little Tigers"" and ""Zam Zam Produce"" in the New York area?",A,5.06,7.77,10.29,12.01
+130,"What is the distance between ""Magnolia Plaza"" and ""Sisters"" in the New York area?",A,1.73,5.96,5.79,0.55
+131,"What is the distance between ""New Choy Hing"" and ""New York Kids Club"" in the New York area?",B,9.84,12.26,19.26,8.53
+132,"What is the distance between ""Square Design"" and ""Roebling Playground"" in the New York area?",C,5.01,8.62,4.0,6.23
+133,"What is the distance between ""Dallas BBQ"" and ""Seed Brklyn Green House"" in the New York area?",B,6.48,9.48,13.21,6.31
+134,"What is the distance between ""Dental Office"" and ""Lise & Vito"" in the New York area?",D,6.7,3.75,9.26,4.83
+135,"What is the distance between ""St. Cyril of Turov Belarusian Orthodox Church"" and ""York Preparatory School"" in the New York area?",D,8.72,17.78,22.59,14.96
+136,"What is the distance between ""S. Feldman Housewares"" and ""Paramount Plaza"" in the New York area?",B,11.11,3.51,5.13,5.19
+137,"What is the distance between ""Plaza Towers Apartments"" and ""Franklin Park"" in the New York area?",D,8.81,16.33,6.02,10.09
+138,"What is the distance between ""Chase"" and ""Lucky Mr. Wonton"" in the New York area?",A,4.19,12.09,3.1,6.09
+139,"What is the distance between ""Colden Garden"" and ""The Monterey"" in the New York area?",A,13.09,7.12,19.0,19.55
+140,"What is the distance between ""Patsy's Pizzeria"" and ""Lucille Roberts"" in the New York area?",B,12.07,10.68,5.77,16.29
+141,"What is the distance between ""The Chalfonte"" and ""Willow Lake Playground"" in the New York area?",A,13.72,15.31,21.35,18.22
+142,"What is the distance between ""Six Happiness"" and ""La Nacional"" in the New York area?",D,12.34,3.08,9.38,8.19
+143,"What is the distance between ""Pret A Manger"" and ""FreeFoods"" in the New York area?",A,6.92,4.09,11.31,5.26
+144,"What is the distance between ""Café Paulette"" and ""LOFT39"" in the New York area?",A,6.99,5.46,4.9,0.63
+145,"What is the distance between ""Sky House"" and ""Congregation Beth Elohim"" in the New York area?",A,8.29,0.65,1.01,4.77
+146,"What is the distance between ""Park Lane South Appartments"" and ""Silvercup Studios Main Lot"" in the New York area?",B,7.82,10.28,5.36,13.63
+147,"What is the distance between ""Vivi Bubble Tea"" and ""Lagree NY"" in the New York area?",A,3.88,9.46,7.69,8.35
+148,"What is the distance between ""Salsa In Queens"" and ""Robert Rosenkranz, DDS"" in the New York area?",D,7.77,13.49,17.49,10.67
+149,"What is the distance between ""Pestana Park Avenue"" and ""Amalgamated Bank"" in the New York area?",A,8.19,6.87,4.17,4.93
+150,"What is the distance between ""Mi Bella Dama"" and ""Triangolo Pizzeria"" in the New York area?",A,4.42,5.96,2.64,10.31
+151,"What is the distance between ""The Consulate"" and ""Romanian Garden"" in the New York area?",C,2.72,11.7,6.28,8.56
+152,"What is the distance between ""Sweetleaf"" and ""Caspary Auditorium"" in the New York area?",D,3.7,7.09,2.91,1.78
+153,"What is the distance between ""250N10"" and ""Mount Olivet Gospel Church"" in the New York area?",D,9.3,6.24,5.55,8.16
+154,"What is the distance between ""Vanderbilt YMCA"" and ""Shell"" in the New York area?",C,12.3,11.27,7.47,1.6
+155,"What is the distance between ""M565 Urban Academy Laboratory High School"" and ""Squarrel Cafe"" in the New York area?",C,3.18,6.84,9.15,17.05
+156,"What is the distance between ""Chopt"" and ""Organic Planet & Pharmacy"" in the New York area?",D,1.32,10.07,4.24,6.19
+157,"What is the distance between ""Nathan's"" and ""Chicken"" in the New York area?",B,11.92,13.31,9.31,10.48
+158,"What is the distance between ""Christian Science Reading Room"" and ""Maspeth Park"" in the New York area?",D,3.44,3.98,11.91,7.27
+159,"What is the distance between ""Dipping Dumplings"" and ""Elder Greene"" in the New York area?",B,3.13,6.16,3.84,13.09
+160,"What is the distance between ""Randalls Island Park"" and ""Connoly's Parking Lot"" in the New York area?",B,10.14,7.9,2.67,14.09
+161,"What is the distance between ""Taco Beans"" and ""Dou Yoga"" in the New York area?",B,5.0,9.64,11.98,6.12
+162,"What is the distance between ""Paris Baguette"" and ""Calle Dao"" in the New York area?",D,7.05,14.43,12.93,10.65
+163,"What is the distance between ""Dou Yoga"" and ""Acacia Network"" in the New York area?",D,4.18,10.61,1.39,2.79
+164,"What is the distance between ""Trump Bar"" and ""Baron's"" in the New York area?",A,8.11,14.54,1.56,6.78
+165,"What is the distance between ""Bethany Lutheran Church"" and ""Platinum Plus Cafe"" in the New York area?",B,6.79,8.77,10.54,15.09
+166,"What is the distance between ""Goldie’s"" and ""Chez Oskar"" in the New York area?",A,5.01,11.3,10.63,8.84
+167,"What is the distance between ""KFC"" and ""Dental Office"" in the New York area?",B,13.88,12.23,10.14,8.43
+168,"What is the distance between ""Sushi W"" and ""Astoria Craft"" in the New York area?",D,5.34,9.86,6.25,2.45
+169,"What is the distance between ""Cooper's"" and ""Blum Eye Center"" in the New York area?",D,9.56,7.96,7.08,2.52
+170,"What is the distance between ""Taco Bell"" and ""1.2.1 Fitness"" in the New York area?",B,8.74,7.06,14.23,12.75
+171,"What is the distance between ""Bar Dalia"" and ""TD Bank"" in the New York area?",B,3.02,5.11,3.38,9.75
+172,"What is the distance between ""The Columns"" and ""Friendly's Super Laundromat"" in the New York area?",C,8.75,2.55,7.31,4.87
+173,"What is the distance between ""Paramount Plaza"" and ""Henry Street Settlement"" in the New York area?",B,4.29,5.33,1.02,2.08
+174,"What is the distance between ""IRT Substation #13"" and ""Refuge Church of Christ"" in the New York area?",B,5.3,8.75,11.18,4.73
+175,"What is the distance between ""Five Leaves"" and ""Citi Bike - Ditmars Bl / 73 St"" in the New York area?",B,8.32,6.8,9.15,9.77
+176,"What is the distance between ""Sammy's Halal Food"" and ""Bustan"" in the New York area?",A,8.25,14.42,14.81,6.33
+177,"What is the distance between ""Public School 26"" and ""Copenhagen"" in the New York area?",A,7.55,1.26,3.54,5.29
+178,"What is the distance between ""Zam Zam Produce"" and ""VFW Post"" in the New York area?",D,11.59,11.24,9.53,6.06
+179,"What is the distance between ""Pumpernickel Bagel & Delicatessan"" and ""Hilton Garden Inn"" in the New York area?",B,6.08,2.34,10.18,8.36
+180,"What is the distance between ""Just Salad"" and ""Venchi"" in the New York area?",D,3.51,7.03,10.02,2.05
+181,"What is the distance between ""York Preparatory School"" and ""j &j"" in the New York area?",B,1.74,4.14,8.9,11.54
+182,"What is the distance between ""Chick-fil-A"" and ""Doral Health & Wellness"" in the New York area?",B,4.74,12.07,6.52,4.23
+183,"What is the distance between ""Walgreens"" and ""La Pequeña"" in the New York area?",B,12.54,8.13,11.52,15.12
+184,"What is the distance between ""Metropolitan Life North Building"" and ""299 Park Avenue"" in the New York area?",C,5.93,8.59,1.92,7.11
+185,"What is the distance between ""Lenox Hill Radiology"" and ""Citi Bike East 85th Street & 3rd Avenue"" in the New York area?",C,3.83,9.6,8.24,14.69
+186,"What is the distance between ""Red Mango"" and ""Chelsea Bagel"" in the New York area?",A,9.31,14.25,2.13,10.89
+187,"What is the distance between ""Glendale United Christian Church"" and ""Wok in the Clouds"" in the New York area?",A,9.73,7.83,12.86,11.69
+188,"What is the distance between ""Sacred Heart Church"" and ""The Palladin"" in the New York area?",C,12.64,1.25,7.31,11.57
+189,"What is the distance between ""Ciao Paisan"" and ""Emanuel United Church of Christ"" in the New York area?",D,21.88,10.99,19.71,15.07
+190,"What is the distance between ""Queens Midtown Tunnel Service Building"" and ""Solow Building"" in the New York area?",C,8.73,7.21,3.11,5.89
+191,"What is the distance between ""Northern Bell"" and ""Fumo"" in the New York area?",C,1.93,5.88,4.15,7.82
+192,"What is the distance between ""Citi Bike - 28th Steet / 41st Avenue"" and ""Dr. Susan Bard"" in the New York area?",A,3.46,9.82,9.03,7.63
+193,"What is the distance between ""Forno Pizzaria E Trattoria"" and ""Stage 11"" in the New York area?",C,13.59,11.73,7.07,14.9
+194,"What is the distance between ""Prestige Lighting"" and ""Prospect Park"" in the New York area?",A,4.31,0.57,1.13,1.17
+195,"What is the distance between ""Curry Mee"" and ""Raku It’s Japanese II"" in the New York area?",B,8.05,12.1,4.8,13.13
+196,"What is the distance between ""Intermediate School 302"" and ""Most Holy Trinity School"" in the New York area?",C,1.42,0.63,6.1,13.58
+197,"What is the distance between ""Natural Blend"" and ""Shake Shack"" in the New York area?",C,12.09,7.17,4.52,11.54
+198,"What is the distance between ""Buckley School"" and ""David Rosen Bakery Supply"" in the New York area?",D,12.91,14.48,3.79,7.18
+199,"What is the distance between ""Mango Mango"" and ""My Treehouse"" in the New York area?",B,18.09,10.53,12.4,6.5
+200,"What is the distance between ""Van Leeuwen"" and ""Kumon"" in the New York area?",C,9.09,9.75,7.39,11.09
+201,"What is the distance between ""Queens Library - Sunnyside Branch"" and ""6 Columbus"" in the New York area?",A,5.98,0.94,13.17,13.05
+202,"What is the distance between ""Panera Bread"" and ""Patsy's Pizzeria"" in the New York area?",B,1.71,3.1,7.98,7.39
+203,"What is the distance between ""Dunningham Triangle"" and ""Plaza Towers Apartments"" in the New York area?",C,4.31,4.43,7.41,3.49
+204,"What is the distance between ""PS 183 Robert Louis Stevenson School Of Discovery"" and ""Manhattan Church of Christ"" in the New York area?",D,7.87,7.2,3.0,1.46
+205,"What is the distance between ""Duzan"" and ""Duane Reade"" in the New York area?",B,11.01,9.47,1.99,15.21
+206,"What is the distance between ""Pick-A-Bagel"" and ""Citi Bike"" in the New York area?",B,9.97,5.27,3.71,9.56
+207,"What is the distance between ""Emanuel United Church of Christ"" and ""Cecily"" in the New York area?",C,12.13,17.24,9.99,14.05
+208,"What is the distance between ""Burrito Blvd"" and ""B'klyn Burro"" in the New York area?",D,10.13,10.28,12.19,7.88
+209,"What is the distance between ""Mister Everything"" and ""Domino Park Ice Rink"" in the New York area?",C,12.9,1.09,6.0,4.48
+210,"What is the distance between ""Tiny Steps Daycare"" and ""Mumbai Place"" in the New York area?",C,6.74,3.02,0.79,7.19
+211,"What is the distance between ""Great Bear Tire and Auto Center"" and ""Public School 26"" in the New York area?",A,5.91,7.7,1.35,11.04
+212,"What is the distance between ""Blue Ridge Home Care"" and ""Hawa"" in the New York area?",C,15.05,16.88,9.36,4.55
+213,"What is the distance between ""Ditmars Dragon Phoenix"" and ""Early Childhood Center"" in the New York area?",C,18.33,4.95,12.33,7.99
+214,"What is the distance between ""My Treehouse"" and ""Lunetta Pizza & Restaurant"" in the New York area?",A,2.88,7.49,6.48,7.18
+215,"What is the distance between ""Elmhurst Care Center"" and ""Stratford Hall"" in the New York area?",C,5.13,7.29,2.33,6.51
+216,"What is the distance between ""Subway"" and ""Dunkin'"" in the New York area?",B,4.24,9.02,8.01,16.11
+217,"What is the distance between ""Salvatoria"" and ""Five Leaves"" in the New York area?",B,2.83,4.76,3.68,2.94
+218,"What is the distance between ""Alma Market"" and ""Steinway Hall"" in the New York area?",D,1.3,12.61,1.06,5.45
+219,"What is the distance between ""Citi Bike - Ditmars Bl / 73 St"" and ""Maretta"" in the New York area?",D,6.38,2.23,5.81,8.91
+220,"What is the distance between ""Victoria's Secret"" and ""Vanderbilt YMCA"" in the New York area?",B,7.64,3.22,2.31,5.05
+221,"What is the distance between ""Small Door"" and ""ProHEALTH Urgent Care"" in the New York area?",B,10.4,2.68,4.35,7.44
+222,"What is the distance between ""Maspeth Park"" and ""Grace United Methodist Church"" in the New York area?",B,1.2,7.31,14.9,12.09
+223,"What is the distance between ""Congregation Ahavath Sholom"" and ""LOVE Korean BBQ"" in the New York area?",D,10.4,16.46,20.18,12.98
+224,"What is the distance between ""16 Handles"" and ""Castro's"" in the New York area?",A,9.75,4.8,4.89,15.6
+225,"What is the distance between ""Gamehaus"" and ""Aces Beer & Soda Distributors"" in the New York area?",C,7.18,13.34,8.52,15.51
+226,"What is the distance between ""Spice Kitchen"" and ""Curry Mee"" in the New York area?",A,10.03,9.07,16.8,2.03
+227,"What is the distance between ""The William Vale"" and ""The Pointe"" in the New York area?",A,8.3,11.23,3.8,1.51
+228,"What is the distance between ""Ocean Fish Market"" and ""Cariño"" in the New York area?",B,1.64,7.06,11.89,3.18
+229,"What is the distance between ""St. Francis Xavier"" and ""Friends of Crown Heights Educational Center"" in the New York area?",C,5.79,5.84,2.72,10.27
+230,"What is the distance between ""Dingplay Event Space"" and ""Magnolia Plaza"" in the New York area?",B,4.83,0.71,2.84,5.0
+231,"What is the distance between ""Pando Park"" and ""Louie's Pizza"" in the New York area?",C,14.24,14.16,8.41,14.44
+232,"What is the distance between ""Eladia's Kids"" and ""Emmaus Evangelical Lutheran Church"" in the New York area?",D,2.03,9.53,8.47,6.85
+233,"What is the distance between ""Yayo's"" and ""Samudra South Indian Restaurant"" in the New York area?",D,16.65,16.57,15.81,10.43
+234,"What is the distance between ""Emmaus Evangelical Lutheran Church"" and ""Gator"" in the New York area?",A,4.88,2.57,5.82,6.71
+235,"What is the distance between ""The Evergreen"" and ""Van Leeuwen"" in the New York area?",A,5.11,0.94,2.05,1.63
+236,"What is the distance between ""Levant"" and ""Vicolina"" in the New York area?",A,4.17,1.36,2.28,5.98
+237,"What is the distance between ""Beauty & Beyond"" and ""Macy's"" in the New York area?",C,8.76,12.06,4.86,3.59
+238,"What is the distance between ""Elmhurst Branch Queens Borough Public Library"" and ""Happy Lamb Hot Pot"" in the New York area?",D,3.3,6.12,2.19,4.83
+239,"What is the distance between ""La Pequeña"" and ""Brooklyn Public Library"" in the New York area?",D,10.54,13.01,13.41,7.22
+240,"What is the distance between ""Happy Lamb Hot Pot"" and ""Central Park Mews"" in the New York area?",D,16.08,6.95,15.84,12.52
+241,"What is the distance between ""Carlton Regency"" and ""Lexington House"" in the New York area?",C,12.7,9.47,11.36,3.97
+242,"What is the distance between ""FreeFoods"" and ""Ooki Sushi"" in the New York area?",C,8.56,2.07,3.61,11.28
+243,"What is the distance between ""The Alameda"" and ""Colden Garden"" in the New York area?",B,16.82,13.34,16.27,11.79
+244,"What is the distance between ""Juice Press"" and ""Le Pain Quotidien"" in the New York area?",A,3.94,2.59,9.78,6.39
+245,"What is the distance between ""Budapest Café & Restaurant"" and ""Dipping Dumplings"" in the New York area?",B,6.97,3.17,4.78,9.36
+246,"What is the distance between ""Citi Bike - East 60th Street & York Avenue"" and ""The Great Georgiana"" in the New York area?",C,11.9,11.65,7.79,0.79
+247,"What is the distance between ""Scrappleland"" and ""Life In Its Poetic Form Christian Ministries"" in the New York area?",D,5.31,3.63,10.96,6.39
+248,"What is the distance between ""Eastern Parkway Branch Brooklyn Public Library"" and ""Ahawith Chesed Cemetery"" in the New York area?",D,9.47,10.89,6.47,5.15
+249,"What is the distance between ""Finback Brewery"" and ""Sumner Playground"" in the New York area?",A,5.94,11.49,2.31,8.26
+250,"What is the distance between ""The Palladin"" and ""Eastern Parkway Branch Brooklyn Public Library"" in the New York area?",B,15.56,10.69,9.56,14.66
+251,"What is the distance between ""Hawa"" and ""Taco Bell"" in the New York area?",D,6.11,2.22,2.98,1.13
+252,"What is the distance between ""Cherry Tavern"" and ""Smorgasborg"" in the New York area?",B,3.25,1.94,7.05,9.01
+253,"What is the distance between ""Saint Irene Chrysovalantou Greek Orthodox Church"" and ""Duryea Presbyterian Church"" in the New York area?",A,11.84,4.7,9.51,8.71
+254,"What is the distance between ""Central Park Mews"" and ""Buckley School"" in the New York area?",C,7.06,3.47,1.61,6.86
+255,"What is the distance between ""Prime Medical Care PC"" and ""Mi Bella Dama"" in the New York area?",A,8.34,4.46,15.71,4.84
+256,"What is the distance between ""Tuk Tuk"" and ""Awilda Shipping Inc."" in the New York area?",B,1.35,8.11,15.71,9.78
+257,"What is the distance between ""The Ephiphany School"" and ""School of Transfiguration"" in the New York area?",D,6.92,3.39,6.63,9.76
+258,"What is the distance between ""Bello's Pharmacy"" and ""Keybar"" in the New York area?",B,7.59,1.24,9.16,8.57
+259,"What is the distance between ""Universalist Church of New York"" and ""United States"" in the New York area?",B,5.8,10.53,16.98,12.96
+260,"What is the distance between ""The View"" and ""Fairview"" in the New York area?",B,3.51,9.32,16.26,3.98
+261,"What is the distance between ""Triangolo Pizzeria"" and ""Desi Grill"" in the New York area?",C,0.8,0.61,4.18,9.47
+262,"What is the distance between ""Vicolina"" and ""Copacabana"" in the New York area?",A,7.31,9.53,9.05,10.53
+263,"What is the distance between ""Omar's Place BK"" and ""Goldie’s"" in the New York area?",C,10.61,8.55,3.82,5.77
+264,"What is the distance between ""Dunkin Donuts"" and ""Tuk Tuk"" in the New York area?",D,8.32,7.83,7.4,2.08
+265,"What is the distance between ""ANIK"" and ""Gamehaus"" in the New York area?",A,4.15,2.17,2.9,7.05
+266,"What is the distance between ""Bright Start"" and ""Serendipity 3"" in the New York area?",D,8.94,5.83,8.71,3.24
+267,"What is the distance between ""Comfort RX Pharmacy"" and ""Vivi Bubble Tea"" in the New York area?",A,2.76,5.16,4.98,6.98
+268,"What is the distance between ""Jimmy's Diner"" and ""Gong Cha"" in the New York area?",C,10.29,5.53,7.19,8.63
+269,"What is the distance between ""Pink Forest"" and ""New Choy Hing"" in the New York area?",A,7.09,6.08,6.15,9.61
+270,"What is the distance between ""Site B"" and ""PS 62 - The Raymond York Elementary School"" in the New York area?",B,13.18,11.21,14.28,3.33
+271,"What is the distance between ""Santa Barbarita Pizzeria"" and ""Dunkin Donuts"" in the New York area?",C,8.49,1.78,6.81,9.8
+272,"What is the distance between ""Baoburg"" and ""Link NYC"" in the New York area?",D,12.42,6.22,2.02,8.84
+273,"What is the distance between ""Taste of Heaven"" and ""Biserica Ortodoxă Română „Sfinții Apostoli Petru și Pavel” New York"" in the New York area?",A,6.29,14.24,11.74,13.7
+274,"What is the distance between ""LOVE Korean BBQ"" and ""Paris Baguette"" in the New York area?",A,10.62,3.99,8.52,8.73
+275,"What is the distance between ""All Night Skate"" and ""Crossbay Deli & Grill"" in the New York area?",C,2.06,9.96,5.65,11.06
+276,"What is the distance between ""FDNY Engine 297/Ladder 130"" and ""Saint Irene Chrysovalantou Greek Orthodox Church"" in the New York area?",D,13.16,11.14,2.35,5.39
+277,"What is the distance between ""NYU Comprehensive Epilepsy Center"" and ""Forno Pizzaria E Trattoria"" in the New York area?",D,4.96,5.31,5.33,7.01
+278,"What is the distance between ""Hellbender Nighttime Cafe"" and ""Finback Brewery"" in the New York area?",A,2.41,8.52,8.43,4.79
+279,"What is the distance between ""Autumn Asian Restaurant"" and ""Dock 72 Way & Market St"" in the New York area?",D,0.66,1.45,6.39,2.52
+280,"What is the distance between ""Anna Silver School"" and ""Metropolitan Life North Building"" in the New York area?",D,5.7,7.5,0.89,2.23
+281,"What is the distance between ""Pressed Juicery"" and ""Little Tigers"" in the New York area?",A,9.99,8.81,3.19,7.17
+282,"What is the distance between ""Arcadia Bar and Kitchen"" and ""Iglesia Cristiana"" in the New York area?",B,8.84,7.32,9.94,11.63
+283,"What is the distance between ""Gotham Point North Tower"" and ""The Seminole"" in the New York area?",B,11.44,4.46,11.45,11.6
+284,"What is the distance between ""12th Street Ale House"" and ""Homemade Taqueria"" in the New York area?",D,16.63,15.76,15.06,12.26
+285,"What is the distance between ""Victoria House"" and ""Sky House"" in the New York area?",D,6.81,5.58,2.8,0.6
+286,"What is the distance between ""Dunkin'"" and ""Williamsburg Bagel"" in the New York area?",B,15.38,7.75,4.47,13.87
+287,"What is the distance between ""Park Avenue Place"" and ""Extra Space Storage"" in the New York area?",A,3.94,6.36,9.33,0.96
+288,"What is the distance between ""Royal Underground"" and ""Citi bike"" in the New York area?",C,5.77,9.1,12.11,5.19
+289,"What is the distance between ""Crossbay Deli & Grill"" and ""Fare by Chef Alex Guarnaschelli"" in the New York area?",D,14.13,12.0,12.87,7.72
+290,"What is the distance between ""Marcy Green Center"" and ""Park Avenue Place"" in the New York area?",B,11.23,5.83,4.87,4.49
+291,"What is the distance between ""Austin Street Pizza"" and ""All Night Skate"" in the New York area?",B,14.53,7.17,9.95,11.56
+292,"What is the distance between ""New York Kids Club"" and ""Comfort RX Pharmacy"" in the New York area?",C,1.93,1.67,5.33,4.12
+293,"What is the distance between ""Symphony House"" and ""Park Lane South Appartments"" in the New York area?",C,16.43,10.47,13.89,15.32
+294,"What is the distance between ""Prince"" and ""California Mexican-Italian Food and Pizza"" in the New York area?",C,4.07,9.05,2.54,10.34
+295,"What is the distance between ""Fairview"" and ""Queens Theater"" in the New York area?",C,8.53,7.23,0.74,4.14
+296,"What is the distance between ""The Little Cool School"" and ""Brooklyn Kendo"" in the New York area?",D,5.0,4.43,1.56,0.54
+297,"What is the distance between ""Henry Street Settlement"" and ""Rainbowland Nursery School"" in the New York area?",A,9.18,7.95,14.21,10.95
+298,"What is the distance between ""Radiance Aesthetics & Wellness"" and ""Omar's Place BK"" in the New York area?",C,1.56,1.13,8.53,4.22
+299,"What is the distance between ""Citi Bike"" and ""12 Chairs Cafe"" in the New York area?",C,1.4,7.19,2.35,1.12
+300,"What is the distance between ""The Rutgers Building"" and ""IRT Substation #13"" in the New York area?",C,8.97,6.89,1.73,7.4
+301,"What is the distance between ""Lucky Mr. Wonton"" and ""Taste of Heaven"" in the New York area?",B,10.18,3.41,11.1,2.45
+302,"What is the distance between ""Amalgamated Bank"" and ""Gotham Point North Tower"" in the New York area?",C,8.74,1.65,6.6,12.8
+303,"What is the distance between ""California Mexican-Italian Food and Pizza"" and ""Chopt"" in the New York area?",D,11.44,10.73,13.58,8.8
+304,"What is the distance between ""299 Park Avenue"" and ""New Life Tabernacle"" in the New York area?",C,11.14,5.17,9.37,5.03
+305,"What is the distance between ""Hops Hill"" and ""Levant"" in the New York area?",C,8.15,5.35,10.27,7.07
+306,"What is the distance between ""Public School 14"" and ""Red Mango"" in the New York area?",D,4.12,13.23,8.92,9.87
+307,"What is the distance between ""Dun Huang"" and ""Two Boots"" in the New York area?",C,5.9,8.36,4.63,9.1
+308,"What is the distance between ""Dayspring Church"" and ""Carlton Regency"" in the New York area?",B,5.51,3.63,1.14,6.25
+309,"What is the distance between ""Iglesia Alento De Vida"" and ""Citi Bike - 28th Steet / 41st Avenue"" in the New York area?",D,11.31,14.34,11.46,6.4
+310,"What is the distance between ""Baskin-Robbins"" and ""Harbs"" in the New York area?",B,12.52,7.62,6.45,10.91
+311,"What is the distance between ""Honeybrains"" and ""Cherry Tavern"" in the New York area?",D,8.39,2.41,6.76,4.35
+312,"What is the distance between ""Desi Grill"" and ""Red Sorghum 夜宴"" in the New York area?",C,2.5,10.95,4.97,12.52
+313,"What is the distance between ""Balkh Shish Kabab House"" and ""Subway"" in the New York area?",C,10.35,5.32,6.82,2.57
+314,"What is the distance between ""Amsterdam Houses"" and ""Robert Bendheim Playground"" in the New York area?",C,6.01,1.01,3.38,0.8
+315,"What is the distance between ""Squarrel Cafe"" and ""Just Salad"" in the New York area?",D,2.85,5.62,14.7,7.21
+316,"What is the distance between ""About Coffee"" and ""Pharmacy"" in the New York area?",D,15.71,6.77,20.56,13.86
+317,"What is the distance between ""4Brothers4Life"" and ""Queens Midtown Tunnel Service Building"" in the New York area?",A,6.4,8.25,10.32,10.09
+318,"What is the distance between ""Romney Hall"" and ""S. Feldman Housewares"" in the New York area?",D,6.41,19.3,18.45,12.76
+319,"What is the distance between ""Takahachi"" and ""Where My Dogs At?"" in the New York area?",A,5.44,9.48,9.28,7.4
+320,"What is the distance between ""Hippodrome"" and ""Park Place Community Middle School"" in the New York area?",A,8.53,7.44,4.08,11.1
+321,"What is the distance between ""Romanian Garden"" and ""New Dimension Church"" in the New York area?",C,2.5,0.55,5.09,0.61
+322,"What is the distance between ""Friendly's Super Laundromat"" and ""Rodney Park Center"" in the New York area?",A,2.11,7.66,8.82,7.25
+323,"What is the distance between ""Grace United Methodist Church"" and ""Mobil"" in the New York area?",D,19.44,15.93,16.66,13.64
+324,"What is the distance between ""Cafe Plein Air"" and ""Financier"" in the New York area?",C,6.94,2.89,8.47,3.55
+325,"What is the distance between ""Aces Beer & Soda Distributors"" and ""St. Joseph's University"" in the New York area?",A,5.47,0.67,2.81,3.23
+326,"What is the distance between ""Mobil"" and ""Barbaco Tio"" in the New York area?",B,7.49,14.41,19.64,9.85
+327,"What is the distance between ""Silvercup Studios Main Lot"" and ""City Fresh Market"" in the New York area?",C,8.23,5.29,3.72,9.74
+328,"What is the distance between ""VFW Post"" and ""Mastro's"" in the New York area?",A,12.76,7.67,5.69,15.93
+329,"What is the distance between ""Kabayan Authentic"" and ""La Cienega"" in the New York area?",A,4.89,2.44,1.26,1.91
+330,"What is the distance between ""Chicken"" and ""A&A Bake Doubles and Roti"" in the New York area?",C,8.79,5.75,10.62,13.62
+331,"What is the distance between ""Roebling Playground"" and ""Regis High School"" in the New York area?",D,13.06,7.08,9.6,8.14
+332,"What is the distance between ""Lise & Vito"" and ""Empire Kitchen"" in the New York area?",C,12.33,11.48,6.13,1.75
+333,"What is the distance between ""Hanson Place Seventh-Day Adventist Elementary School"" and ""Bright Start"" in the New York area?",A,10.08,13.01,7.73,16.36
+334,"What is the distance between ""Doral Health & Wellness"" and ""Luke's Lobster"" in the New York area?",A,9.1,16.58,4.99,15.92
+335,"What is the distance between ""Maretta"" and ""Bethany Lutheran Church"" in the New York area?",D,15.23,12.12,12.35,9.59
+336,"What is the distance between ""Majid"" and ""Bushwick Ice House"" in the New York area?",B,6.97,5.87,8.74,2.01
+337,"What is the distance between ""Wei's"" and ""Public School 14"" in the New York area?",D,14.24,8.96,13.4,6.57
+338,"What is the distance between ""Wok in the Clouds"" and ""Ocean Fish Market"" in the New York area?",D,1.52,12.19,9.32,6.0
+339,"What is the distance between ""Shell"" and ""The Chalfonte"" in the New York area?",B,17.49,9.73,2.53,15.49
+340,"What is the distance between ""Robert Bendheim Playground"" and ""FDNY Engine 297/Ladder 130"" in the New York area?",A,8.99,2.38,13.44,6.69
+341,"What is the distance between ""Where My Dogs At?"" and ""Orsay"" in the New York area?",D,3.69,17.38,8.12,10.4
+342,"What is the distance between ""Calle Dao"" and ""Prince"" in the New York area?",A,7.97,4.44,12.37,6.7
+343,"What is the distance between ""Red Sorghum 夜宴"" and ""Mount Sinai Urgent Care"" in the New York area?",C,1.49,8.35,5.27,3.18
+344,"What is the distance between ""NYPD Central Park Precinct"" and ""PS 183 Robert Louis Stevenson School Of Discovery"" in the New York area?",B,3.98,2.22,4.53,4.06
+345,"What is the distance between ""Willow Lake Playground"" and ""Building 594"" in the New York area?",A,11.59,16.12,13.05,3.9
+346,"What is the distance between ""Regis High School"" and ""Forest Park"" in the New York area?",C,15.84,19.6,12.4,10.23
+347,"What is the distance between ""Baron's"" and ""Well Care Pharmacy"" in the New York area?",C,18.12,11.59,12.74,7.62
+348,"What is the distance between ""NYU College of Nursing, College of Dentistry and School of Engineering"" and ""The Rutgers Building"" in the New York area?",B,10.8,4.54,3.13,12.52
+349,"What is the distance between ""Lexington House"" and ""C-Town"" in the New York area?",B,10.06,2.88,1.66,10.2
+350,"What is the distance between ""New Dimension Church"" and ""Dave's Hot Chicken"" in the New York area?",B,12.37,9.37,5.59,4.68
+351,"What is the distance between ""Popeyes"" and ""Citi Bike - East 55th Street & 3rd Avenue"" in the New York area?",A,2.72,7.05,6.3,0.95
+352,"What is the distance between ""Chez Oskar"" and ""Alexandra M. Simpson, DDS"" in the New York area?",C,15.81,14.78,8.16,10.85
+353,"What is the distance between ""City Fresh Market"" and ""Memorial Sloane - Kettering International Center"" in the New York area?",C,11.3,7.55,5.84,8.66
+354,"What is the distance between ""Daddy Greens"" and ""Prema Yoga"" in the New York area?",D,7.52,7.55,9.12,1.97
+355,"What is the distance between ""Elder Greene"" and ""KFC"" in the New York area?",A,8.3,5.57,7.32,10.19
+356,"What is the distance between ""TownePlace Suites"" and ""Hummus Place"" in the New York area?",D,7.65,11.85,1.09,4.03
+357,"What is the distance between ""citibike"" and ""The Evergreen"" in the New York area?",C,13.94,3.48,6.66,4.32
+358,"What is the distance between ""CityMD Urgent Care"" and ""Panera Bread"" in the New York area?",D,13.63,11.39,10.63,5.8
+359,"What is the distance between ""12 Chairs Cafe"" and ""Sonny's Roti Shop"" in the New York area?",A,12.29,15.06,13.4,15.85
+360,"What is the distance between ""Refuge Church of Christ"" and ""New Carlton Rehabilitation & Nursing Center"" in the New York area?",A,0.88,6.78,6.81,6.83
+361,"What is the distance between ""Empire Kitchen"" and ""Iglesia Alento De Vida"" in the New York area?",D,13.62,12.32,16.43,10.09
+362,"What is the distance between ""Chipotle"" and ""We Got Company"" in the New York area?",A,5.12,6.43,7.52,8.94
+363,"What is the distance between ""La Nacional"" and ""Plug Uglies"" in the New York area?",D,12.15,5.71,10.94,9.77
+364,"What is the distance between ""Latham Park"" and ""Victoria House"" in the New York area?",B,2.93,7.01,1.73,11.52
+365,"What is the distance between ""Cecily"" and ""Citi Bike - Newtown Avenue & 23rd Avenue"" in the New York area?",D,10.76,11.78,4.54,5.61
+366,"What is the distance between ""Citi Bike - Newtown Avenue & 23rd Avenue"" and ""Bar Dalia"" in the New York area?",B,5.25,0.93,4.13,6.54
+367,"What is the distance between ""Joanne Trattoria"" and ""Citibank"" in the New York area?",A,1.61,4.91,6.05,4.95
+368,"What is the distance between ""Cariño"" and ""Eastern Athletic"" in the New York area?",B,5.46,4.35,0.93,6.59
+369,"What is the distance between ""Ridgewood YMCA"" and ""The Milling Room"" in the New York area?",B,18.96,11.13,15.63,15.72
+370,"What is the distance between ""Pharmacy"" and ""Bond Vet"" in the New York area?",C,7.8,10.83,13.99,20.59
+371,"What is the distance between ""Biserica Ortodoxă Română „Sfinții Apostoli Petru și Pavel” New York"" and ""Ridgewood YMCA"" in the New York area?",C,9.31,4.89,8.19,11.19
+372,"What is the distance between ""Rainbowland Nursery School"" and ""Tudor Park"" in the New York area?",B,1.55,9.49,3.62,4.05
+373,"What is the distance between ""K&K Super Buffett"" and ""Citizens Bank"" in the New York area?",A,8.78,3.76,11.1,4.47
+374,"What is the distance between ""Brooklyn Navy Yard Cogeneration"" and ""The Marleborough"" in the New York area?",D,16.57,16.8,17.42,9.72
+375,"What is the distance between ""Bamboo Ya"" and ""Blue Ridge Home Care"" in the New York area?",A,9.89,13.83,2.35,12.98
+376,"What is the distance between ""Life In Its Poetic Form Christian Ministries"" and ""VITAL Climbing Gym"" in the New York area?",A,11.86,9.07,17.91,18.0
+377,"What is the distance between ""Most Holy Trinity School"" and ""JJ's Asian Fusion"" in the New York area?",B,2.87,6.49,13.99,12.76
+378,"What is the distance between ""New Bell Car Service"" and ""Habana Outpost"" in the New York area?",C,8.11,4.38,1.59,2.74
+379,"What is the distance between ""Caspary Auditorium"" and ""Crispy Burger"" in the New York area?",A,4.63,10.13,10.39,10.24
+380,"What is the distance between ""Williamsburg Bagel"" and ""Starbucks"" in the New York area?",D,8.58,3.14,9.02,4.8
+381,"What is the distance between ""Normandie Court"" and ""Dunningham Triangle"" in the New York area?",C,5.38,14.43,6.91,11.13
+382,"What is the distance between ""Crispy Burger"" and ""East Mall"" in the New York area?",B,14.77,13.55,15.0,15.41
+383,"What is the distance between ""Queens Theater"" and ""FDNY Engine 23"" in the New York area?",D,14.17,12.86,19.25,11.74
+384,"What is the distance between ""Acacia Network"" and ""Congregation Ahavath Sholom"" in the New York area?",A,10.66,12.77,4.36,13.74
+385,"What is the distance between ""Brooklyn Public Library"" and ""Sushi W"" in the New York area?",B,5.27,9.18,10.93,13.88
+386,"What is the distance between ""Chelsea Bagel"" and ""East Garden"" in the New York area?",D,5.32,8.76,7.44,3.62
+387,"What is the distance between ""Court Square Dentistry"" and ""Haru Sushi"" in the New York area?",D,7.78,1.67,10.34,5.06
+388,"What is the distance between ""Steinway Hall"" and ""Taqueria Mi Mariachi"" in the New York area?",C,5.42,6.24,7.82,6.29
+389,"What is the distance between ""FDNY Engine 23"" and ""Alma Market"" in the New York area?",B,7.17,5.69,7.06,9.31
+390,"What is the distance between ""Hummus Place"" and ""The Delegate"" in the New York area?",A,3.25,7.25,1.73,6.61
+391,"What is the distance between ""Keybar"" and ""Sunrise Medical Group"" in the New York area?",B,11.33,3.68,5.94,11.47
+392,"What is the distance between ""La Sala"" and ""Ocean Prime Restaurant"" in the New York area?",A,5.82,8.05,4.09,7.49
+393,"What is the distance between ""St. Joseph's University"" and ""St. Francis Xavier"" in the New York area?",C,6.86,8.07,2.01,3.4
+394,"What is the distance between ""Venchi"" and ""LaRina"" in the New York area?",A,8.27,3.84,11.58,10.08
+395,"What is the distance between ""ChargePoint"" and ""Brooklyn Boulders Queensbridge"" in the New York area?",D,6.91,10.31,5.44,3.31
+396,"What is the distance between ""Citibank"" and ""Wei's"" in the New York area?",C,2.55,16.57,8.76,13.6
+397,"What is the distance between ""FDNY Engine 210"" and ""Pumpernickel Bagel & Delicatessan"" in the New York area?",D,1.45,12.97,11.01,6.51
+398,"What is the distance between ""Copacabana"" and ""New York Diner"" in the New York area?",D,5.74,6.53,3.59,2.46
+399,"What is the distance between ""Ridgewood Savings Bank"" and ""Café Paulette"" in the New York area?",C,3.18,4.33,1.54,5.34
+400,"What is the distance between ""Congregation Beth Elohim"" and ""Square Design"" in the New York area?",C,4.45,5.88,0.93,5.74
+401,"What is the distance between ""Early Childhood Center"" and ""Pressed Juicery"" in the New York area?",C,18.11,14.97,10.36,16.53
+402,"What is the distance between ""Bond Vet"" and ""Mela Pizza"" in the New York area?",A,5.22,13.05,11.94,1.65
+403,"What is the distance between ""Ocean Prime Restaurant"" and ""Dallas BBQ"" in the New York area?",A,3.34,11.1,9.27,8.25
+404,"What is the distance between ""Lucky Star"" and ""Sammy's Halal Food"" in the New York area?",D,9.0,6.42,6.05,2.33
+405,"What is the distance between ""Buntopia"" and ""Popeyes"" in the New York area?",B,6.97,9.51,16.44,13.91
+406,"What is the distance between ""Castro's"" and ""Metro Craft"" in the New York area?",D,7.22,2.54,5.51,1.59
+407,"What is the distance between ""Rodney Park Center"" and ""First Reformed Church of Astoria"" in the New York area?",D,8.62,3.41,0.85,7.5
+408,"What is the distance between ""Malagueta"" and ""Hops Hill"" in the New York area?",A,8.77,2.41,3.15,13.2
+409,"What is the distance between ""New Carlton Rehabilitation & Nursing Center"" and ""Dayspring Church"" in the New York area?",C,13.48,2.99,9.47,13.17
+410,"What is the distance between ""Citi Bike - West 43rd Street & 6th Avenue"" and ""Nathan's"" in the New York area?",A,1.38,6.53,6.35,7.35
+411,"What is the distance between ""Extra Space Storage"" and ""Pestana Park Avenue"" in the New York area?",D,9.26,9.51,1.55,4.44
+412,"What is the distance between ""Pier 42 Upland Park"" and ""The View"" in the New York area?",B,8.82,4.52,5.66,11.93
+413,"What is the distance between ""Sumner Playground"" and ""United Metro Terminals"" in the New York area?",C,5.28,10.08,4.03,11.92
+414,"What is the distance between ""Under Pressure Espresso Bar"" and ""BAMcafé"" in the New York area?",B,11.45,9.82,14.52,8.49
+415,"What is the distance between ""Pho Bac"" and ""Citi Bike - 21st St / Hoyt Av S"" in the New York area?",D,10.06,12.59,12.87,5.15
+416,"What is the distance between ""Mastro's"" and ""Tiny Steps Daycare"" in the New York area?",D,5.86,11.52,16.98,9.27
+417,"What is the distance between ""The Pointe"" and ""The Ephiphany School"" in the New York area?",B,4.04,10.51,14.01,15.92
+418,"What is the distance between ""Apostolic Faith Church"" and ""Prestige Lighting"" in the New York area?",D,9.51,7.28,8.59,4.43
+419,"What is the distance between ""Citi Bike - Broadway & West 55th Street"" and ""Ditmars Family Dental"" in the New York area?",B,4.56,6.23,7.21,5.1
+420,"What is the distance between ""Cherokee Finance Station Post Office"" and ""Radiance Aesthetics & Wellness"" in the New York area?",C,6.3,9.08,1.9,0.87
+421,"What is the distance between ""Citi Bike - 62 St / Northern Bl"" and ""Ciao Paisan"" in the New York area?",D,11.28,15.0,2.88,7.38
+422,"What is the distance between ""Honey Locust Park"" and ""Sacred Heart Church"" in the New York area?",C,12.56,9.56,7.1,13.72
+423,"What is the distance between ""Sunrise Medical Group"" and ""Balkh Shish Kabab House"" in the New York area?",C,14.84,7.11,11.13,5.44
+424,"What is the distance between ""Bushwick Ice House"" and ""Pando Park"" in the New York area?",A,6.0,10.51,1.73,9.45
+425,"What is the distance between ""Copenhagen"" and ""NYPD Central Park Precinct"" in the New York area?",B,8.64,9.94,13.01,5.48
+426,"What is the distance between ""David Rosen Bakery Supply"" and ""Pier 42 Upland Park"" in the New York area?",D,1.9,8.17,7.07,4.0
+427,"What is the distance between ""Joey Roses"" and ""Intermediate School 302"" in the New York area?",C,1.89,10.94,9.72,5.1
+428,"What is the distance between ""Ditmars Family Dental"" and ""Daddy Greens"" in the New York area?",C,8.38,5.95,10.87,13.32
+429,"What is the distance between ""Link NYC"" and ""No. 7 Restaurant"" in the New York area?",D,5.59,8.8,12.59,11.38
+430,"What is the distance between ""School of Transfiguration"" and ""Apostolic Faith Church"" in the New York area?",A,10.76,8.4,14.61,18.1
+431,"What is the distance between ""The Monterey"" and ""Honey Locust Park"" in the New York area?",D,4.5,7.94,4.27,2.0
+432,"What is the distance between ""Concrete"" and ""Lenox Hill Radiology"" in the New York area?",C,2.44,10.46,6.64,8.35
+433,"What is the distance between ""Prospect Park"" and ""East River Park Field #6"" in the New York area?",B,3.77,6.5,1.43,4.84
+434,"What is the distance between ""Brooklyn Kendo"" and ""Pho Bac"" in the New York area?",B,12.53,9.58,4.05,7.09
+435,"What is the distance between ""96 Park"" and ""FDNY Engine 210"" in the New York area?",D,13.61,5.66,11.45,10.51
+436,"What is the distance between ""PS 62 - The Raymond York Elementary School"" and ""Brooklyn Navy Yard Cogeneration"" in the New York area?",C,8.52,14.67,11.55,14.56
+437,"What is the distance between ""Homemade Taqueria"" and ""19 Cafe"" in the New York area?",C,11.41,4.49,8.83,10.96
+438,"What is the distance between ""Characters NYC Bar & Lounge"" and ""Matto Espresso"" in the New York area?",A,0.97,5.26,5.32,4.51
+439,"What is the distance between ""BAMcafé"" and ""Myrtle Thai"" in the New York area?",B,6.91,1.08,7.8,4.6
+440,"What is the distance between ""Citi Bike - 21st St / Hoyt Av S"" and ""The Dead Poet"" in the New York area?",C,9.42,0.87,4.66,8.49
+441,"What is the distance between ""Feeding Tree Garden"" and ""Beauty & Beyond"" in the New York area?",C,5.88,5.49,4.25,2.74
+442,"What is the distance between ""Bushwick Flea"" and ""Saint Malachys School"" in the New York area?",C,9.24,1.0,4.09,6.07
+443,"What is the distance between ""Ooki Sushi"" and ""Aji Sushi"" in the New York area?",B,3.79,11.75,13.67,4.87
+444,"What is the distance between ""Starbucks"" and ""Colombo's Pharmacy"" in the New York area?",B,12.46,9.31,8.13,6.95
+445,"What is the distance between ""Memorial Sloane - Kettering International Center"" and ""The Parker Crescent"" in the New York area?",B,9.66,3.06,6.76,1.0
+446,"What is the distance between ""Chick It Out ""Khao Man Gai"""" and ""Chick-fil-A"" in the New York area?",C,9.65,7.45,3.38,9.01
+447,"What is the distance between ""The Great Georgiana"" and ""Citi Bike - East 67th Street & Park Avenue"" in the New York area?",D,5.29,0.75,13.94,8.71
+448,"What is the distance between ""Saint Malachys School"" and ""4Brothers4Life"" in the New York area?",A,2.56,8.65,5.65,9.19
+449,"What is the distance between ""Prema Yoga"" and ""New Moon"" in the New York area?",D,13.93,13.64,10.62,6.82
+450,"What is the distance between ""Habana Outpost"" and ""ChargePoint"" in the New York area?",D,2.58,7.68,3.06,10.48
+451,"What is the distance between ""First Reformed Church of Astoria"" and ""Anna Silver School"" in the New York area?",C,3.0,1.15,7.41,9.14
+452,"What is the distance between ""A&A Bake Doubles and Roti"" and ""The Little Cool School"" in the New York area?",A,0.7,4.48,5.82,5.85
+453,"What is the distance between ""USPS"" and ""About Coffee"" in the New York area?",A,11.38,13.42,13.2,7.66
+454,"What is the distance between ""ABA Turkish Restaurant"" and ""Pick-A-Bagel"" in the New York area?",B,0.66,2.38,4.61,3.56
+455,"What is the distance between ""Luke's Lobster"" and ""Joey Roses"" in the New York area?",D,5.67,7.14,7.98,3.72
+456,"What is the distance between ""The Parker Crescent"" and ""NYU College of Nursing, College of Dentistry and School of Engineering"" in the New York area?",B,6.83,0.9,6.94,3.3
+457,"What is the distance between ""Raku It’s Japanese II"" and ""Citi Bike - East 60th Street & York Avenue"" in the New York area?",D,5.36,3.98,7.85,2.74
+458,"What is the distance between ""Dave's Hot Chicken"" and ""Heart of Brooklyn Veterinary Hospital"" in the New York area?",B,3.22,10.31,3.02,15.69
+459,"What is the distance between ""The Seminole"" and ""The William Vale"" in the New York area?",A,6.35,11.05,13.06,4.49
+460,"What is the distance between ""Middle School 577"" and ""Cherokee Finance Station Post Office"" in the New York area?",B,2.05,6.25,11.34,1.58
+461,"What is the distance between ""Shiuann Rong Chen DDS"" and ""Marcy Green Center"" in the New York area?",B,9.95,12.6,11.65,10.74
+462,"What is the distance between ""Plug Uglies"" and ""CityMD Urgent Care"" in the New York area?",A,5.6,8.15,7.73,3.85
+463,"What is the distance between ""Ainslie"" and ""Blue Ribbon"" in the New York area?",B,13.84,6.67,11.91,0.58

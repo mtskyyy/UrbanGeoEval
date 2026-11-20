@@ -1,0 +1,167 @@
+id,question,answer,A,B,C,D,E
+0,Which POI belongs to type: ferry_terminal?,D,La Mazane,Crèche collective Philippe de Girard,Guichet Transilien,Invalides,Au Général Beuret
+1,Which POI belongs to type: fuel?,D,Saint-Mandé - Fabre d'Eglantine,Crédit Agricole,Grande Loge Féminine de France,Avia,Côté Sushi
+2,Which POI belongs to type: post_office?,B,Blaise-Desgoffe - Vaugirard,Relais La Poste,Le Macareux,Foyer mon Vietnam,Coco Poke Time
+3,Which POI belongs to type: library?,C,Jaipur Palace,Enterprise,CIO,Suguru Ramen,École des Hautes Études Politiques
+4,Which POI belongs to type: kindergarten?,A,Crèche Collective Municipale Monceau,École primaire,Maison Blanche,Mairie du 19e,Oh My French Burger
+5,Which POI belongs to type: restaurant?,A,Famille Géorgienne,Côté Saint-Germain,Paris Centre Georges Pompidou,Grom,FRAC Antenne culturelle
+6,Which POI belongs to type: parking?,B,Collège Paul Valéry,Parking Chalon,Le Bariolé,Pharmacie des Capucines,Odette
+7,Which POI belongs to type: parking_entrance?,E,Dersou,Casse Tout,Lucy's,L'Espace Maindron,Parking Université
+8,Which POI belongs to type: place_of_worship?,A,Adath Shalom,Pramil,Le Magnolia,Fontaine Wallace,Étoile
+9,Which POI belongs to type: bar?,A,Alabama,Trattoria Dell'Angelo,Clavelin,Le Velvet Lounge,Les Vedettes
+10,Which POI belongs to type: cafe?,E,Yummy's,Collège Jean Moulin,La Mia Casa,Loulou de Bastille,Café Varenne
+11,Which POI belongs to type: pub?,B,École Maternelle,La Maison,Institut de la Vue Paris Saint-Joseph,CIC,Le Camion qui Fume
+12,Which POI belongs to type: fast_food?,C,Lorraine - Jean Jaurès,MONK La Taverne de Cluny,Kokodak,Le Berthoud,Ducasse sur Seine
+13,Which POI belongs to type: theatre?,A,Laurette Théâtre,Kebap Haus,Café de Flore,Piccola Mia,Rajah Café
+14,Which POI belongs to type: wine_bar?,B,Au Roi du Café,I Golosi,Le Lumière,La Birreria,Ichiban Sushi
+15,Which POI belongs to type: pharmacy?,C,L'Arsenal,Sushi Ba'r,Pharmacie Pedron,Le Café Néon,Les Volcans
+16,Which POI belongs to type: marketplace?,C,Oenosteria,La Liberté,Marché Lefebvre,McDonald's,McDonald's
+17,Which POI belongs to type: police?,A,Police nationale,Un Air de Famille,Michel Feller,Maxim's,Five Guys
+18,Which POI belongs to type: cinema?,D,Billie Brick,Felicity Aussi,Ménilmontant-Belleville,Max Linder Panorama,Billili
+19,Which POI belongs to type: bicycle_rental?,D,Le Senlis,Ephese,Kastoori,Quai Voltaire,Lüks
+20,Which POI belongs to type: bank?,C,La nociera,Seto,LCL,Bluebird,Bastille - Beaumarchais
+21,Which POI belongs to type: public?,C,Caisse d'Épargne,Société Générale,Agence Nationale de la Recherche,Chez Tante,Columbus Café & Co
+22,Which POI belongs to type: dentist?,C,Kokodak,The Well,Tranchant,Magical Hot Dog,Toc que ville
+23,Which POI belongs to type: atm?,A,CIC,Les Snobs,Photomaton,O'jason,Auto-École du Pré
+24,Which POI belongs to type: sports_centre?,C,Sansé,Les Marches,Les Cercles de la Forme,Perception,Cantine Vagabonde
+25,Which POI belongs to type: doctors?,C,Gustoso,Poké'Up,Maison de Santé Village Jourdain,Lycée des Francs-Bourgeois,Turkish Snack
+26,Which POI belongs to type: drinking_water?,A,Fontaine Wallace- Saint-Spire,Ladess,Vertus Bar à Jus,By Scoot,Le Prélude
+27,Which POI belongs to type: arts_centre?,E,Andy Wahloo,Ekla,Ryo,La Mécanique Ondulatoire,FGO-Barbara
+28,Which POI belongs to type: nightclub?,A,L'Impact,Le Savana,7,Top Food original,Il Posto
+29,Which POI belongs to type: taxi?,B,Sakura,Hôtel de Ville,L'Endroit,Al Punjab,Point d'accès au droit
+30,Which POI belongs to type: retail?,E,Bibliothèque Publique d'Information,The Tea Caddy,Yoga Garden Rive Gauche,Meilleur Coco Thaï,E. Leclerc Relais Netter
+31,Which POI belongs to type: school?,B,Ma Cachette,École maternelle Delambre,Margen's Pub,La Buvette,Au Sauvignon
+32,Which POI belongs to type: veterinary?,B,Pharmacie Anglaise,Clinique Vetinaire,Homer Lobster,Pyrénées - Emmery,Lina's
+33,Which POI belongs to type: community_centre?,E,Pharmacie Actuelle,Le Minet Galent,Hoa Sen,Tomy & Co,Centre social des Rigoles
+34,Which POI belongs to type: fountain?,E,Mairie du 15ème,Bar tabac du Collège de France,AHÓ,Le Christine,Fontaine des Quatre Évêques
+35,Which POI belongs to type: charging_station?,A,Belib Charging Station,Heng Long,Jour Richelieu,Hyang-Ly,Théâtre guignol Anatole
+36,Which POI belongs to type: bureau_de_change?,D,Noir,Kodama,Libshop,Change Master,Beaumarchais - Saint-Gilles
+37,Which POI belongs to type: fitness_centre?,B,My Vegan Hot Dog,Yoga Raspail,Paris | Rue du Four 38,SAMAM,Les Philosophes
+38,Which POI belongs to type: ice_cream?,B,Sabicherie,Amorino,Mon Oncle le Vigneron,Lycée des métiers de l'optique Fresnel,Brûlerie de Varenne
+39,Which POI belongs to type: disused?,B,instants gourmands,Mc Coy,L'Entre Deux,Petit Bao 小包子,Le Club Balmoral
+40,Which POI belongs to type: swingerclub?,B,Hippopotamus,Krash,Li Yuan,Le Cochon à l'Oreille,Clinique vétérinaire Gambetta
+41,Which POI belongs to type: clock?,E,Lancetto,SG,L'Angélus du Canal,Pizza Milano,Centre du cadran solaire formé par l'Obélisque de la Concorde
+42,Which POI belongs to type: college?,E,Point d'eau,Guillaume Brahami,Bibliothèque Claude Lévi-Strauss,La Grande Pharmacie du Pré-Saint-Gervais,Espace Energie
+43,Which POI belongs to type: social_facility?,A,Et si la place était...,Café Nata,Bistrot littéraire Les Cascades,Chez Chen,Square Émile - Chautemps
+44,Which POI belongs to type: car_rental?,E,Le Barav,Le Temple,Résidence Castagnary,Centre ophtalmologique de l'Observatoire,Budget
+45,Which POI belongs to type: language_school?,C,Théâtre aux Mains Nues,Doriimu,N & N formation anglais,Tuk Tuk Naan,Au Phare de Saint-Lazare
+46,Which POI belongs to type: escape_game?,B,Moemachi,Lock Busters,Aujourd'hui Demain,Berliner,Sirène d'Or
+47,Which POI belongs to type: coworking_space?,E,CMG Sports Club,Le Petit Olivier,McDonald's,Ludothèque Nautilude,La galerie
+48,Which POI belongs to type: clinic?,B,Potel et Chabot,"Ramsay santé, pôle de consultations",Le Dorothy,Riviera Fuga,Pari'Gourmand
+49,Which POI belongs to type: workshop?,C,Le Bellan,Pharamond,La Ressourcerie Créative,Gambetta - Saint-Fargeau,Apycem
+50,Which POI belongs to type: social_centre?,E,Au Rendez Vous de Montmatre,Sweatea's,Les Grillades de Buenos Aires,La Ferrandaise,Espace 19 Numérique
+51,Which POI belongs to type: recycling?,E,Dulcinea,Lucky Bastard,La Vache et Le Cuisinier,Sofiane,La Ferme du Rail
+52,Which POI belongs to type: hospital?,A,Clinique Bizet,Maison relais Les Gobelins,Un monde gourmand - traiteur Solidaire,Chevaleret - Tolbiac,Mister Garden Boétie
+53,Which POI belongs to type: university?,E,CIC,La Nouvelle Ève,Western Union,Distributeur,Université PSL
+54,Which POI belongs to type: music_school?,D,Café noisette,Muto Donburi,Le Mathurin,"Polynotes, l'École de Musiques",Sormani
+55,Which POI belongs to type: garden?,C,Basic-Fit,Portugais - Kléber,Jardin Saint-Serge,Planet Grill,Neni Paris
+56,Which POI belongs to type: reception_desk?,A,Guichet Transilien,Compagnie des Vins Surnaturels,Collège privé Blomet,Le 100 ECS,A. Noste
+57,Which POI belongs to type: driving_school?,D,Cafétéria Cochin,Élysées Istanbul,École maternelle Brantôme,CER Jacquier Conduite,Le Cosy
+58,Which POI belongs to type: toilets?,E,Hôpital Pitié Salpêtrière,Le Sergent Recruteur,Siam Square,Le Canon des Gobelins,Jardin Tino Rossi
+59,Which POI belongs to type: music_venue?,B,École élémentaire de la Plaine,Le Petit Journal Saint-Michel,Aux Fourreurs,Total,Babylone
+60,Which POI belongs to type: mode?,E,Société Générale,Princesse,Paris Belleville,Mathurins - Auber,Jean Paul Gaultier
+61,Which POI belongs to type: dojo?,C,Lancetto,Mahatna,Académie de Wing Chun,Topa!,Le Splendid Bar
+62,Which POI belongs to type: studio?,E,Cinéma Chaplin,Crédit Mutuel,Pharmacie Casajuane Vitte,Ty Breiz,RapTz
+63,Which POI belongs to type: dance?,D,CrossFit Louvre III,Naya,Brewberry,School of Tropical Latin Dances,Pharmacie du Parc
+64,Which POI belongs to type: shower?,E,Maison Pinsa,Rong Fa Sushi,Da Paride,Crazy about tea,Bains-douches Meaux
+65,Which POI belongs to type: conference_centre?,E,La Cave de Septime,Oxymore,Yummy House,Le Café Pierre,Marriott Centre de conférence
+66,Which POI belongs to type: park?,C,Pharmacie Chouvin,Pizza Hut,Paris Eiffel Tower,Le Pur',Banger Burger
+67,Which POI belongs to type: internet_cafe?,E,Chez Régine,Le Maria Loca,Robinet d'eau,BRED,Paris Multimedia 12
+68,Which POI belongs to type: car_sharing?,C,New York Café,JUDY the good life,Zipcar,Relais d'Or,Dandelion
+69,Which POI belongs to type: public_office?,D,Evi Evane,Au vieux cèdre,Le Chateaubriand,Bureau des contraventions SNCF,Le Petit Cluster
+70,Which POI belongs to type: pitch?,D,l'etincelle,Cabinet Médical ipso Saint-Martin,L'Amazonial,Gymnase Ronsard,La Clayette
+71,Which POI belongs to type: residential?,E,Paris Édith Piaf,Annexe Maison des Associations IXe,King bubble,Bolkiri,Résidence Universitaire Concordia
+72,Which POI belongs to type: bowling_alley?,C,"École maternelle Émélie, annexe Jomard",Immersion,Avenue Foch;Bowling Foch,Class'croute,Soprano
+73,Which POI belongs to type: playground?,E,Gabriel Sebbag,Indiana,Label Ferme,Villa Yora,Teddybär
+74,Which POI belongs to type: childcare?,D,BRED,Chez l'Africain,Institut National de Recherches Archéologiques Préventives,Kinder école de l'AJEFA,La Fauvette
+75,Which POI belongs to type: post_box?,A,La Poste - Faubourg Saint-Antoine,Carlota,Centre Sportif des Lilas,L'Équerre,Casa Emirante
+76,Which POI belongs to type: nursery?,A,Les Petits Chaperons Rouges,Les Tontons Bringueurs,Parking Zenpark Paris - Danube,Le Rooftop,Pub Gaité
+77,Which POI belongs to type: vehicle_inspection?,C,Gribouille,DentExelens,Autovision,La Brouette,Capillo
+78,Which POI belongs to type: parcel_locker?,D,On partage,La Taquinerie,Chez Magda,Delipop n°8,natumi
+79,Which POI belongs to type: marina?,D,Docteur Pierre Reymond de Gentil,Shifu,Collège privé Fénelon-Sainte-Marie,halte nautique de la Villette,Tham's
+80,Which POI belongs to type: slipway?,D,Bleu Bao,Uma Nota,Arbela 11,Base nautique de la Villette,Le Dix restaurant
+81,Which POI belongs to type: training?,E,Oriental Bowl,CIC,O'Snack,Pharmacie du Marché,Terre & Feu
+82,Which POI belongs to type: dancing_school?,D,Café Kitsune,LCL,JOBO,École de danse Yoga Art thérapie,Chantira
+83,Which POI belongs to type: tanning_salon?,E,Sherry Butt,Le Monaco,Perruche,Collège Wolfgang Amadeus Mozart,Ozuvé
+84,Which POI belongs to type: ice_rink?,A,Patinoire Sonja Henie,Momo House,Marceau Étoile,Café Louise,Woodiz
+85,Which POI belongs to type: sauna?,D,L'Européen,French Home,Häagen-Dazs,Sun City,Skatepark de la Chapelle
+86,Which POI belongs to type: shooting_stand?,E,La Calle Loca,Stratto,Aqueduc - Villette,L'Anecdote,Tir 1000
+87,Which POI belongs to type: toy_library?,D,Accueil de jour Saint-Germain,L'Osteria,Arsenale Di Bastille,Ludothèque Nautilude,Soufflot Panthéon
+88,Which POI belongs to type: cooking_school?,B,Le Negus,Le Foodist,You have Sixty Minutes,BNP Paribas,Rarita
+89,Which POI belongs to type: amusement_arcade?,D,Starbucks,Café Pierre Hermé,On Air,Espot,Cabinet médical
+90,Which POI belongs to type: swimming_pool?,A,Piscine Jacqueline Auriol,Paris | Rue de Medicis 11,Jardin Saint-Serge,Camille,Le Soma (Milton)
+91,Which POI belongs to type: dark-kitchen?,C,La Terrasse Saint-Jacques,Le Saut du Crapaud,Take-Out-Thai /Out Fry by Taster,Relais Poste,Fontaine Wallace
+92,Which POI belongs to type: hackerspace?,B,LCL,Lab86 / Le Petit FabLab de Paris / Ici et Lab,La Crêperie,Les Entretiens,Jinmi
+93,Which POI belongs to type: photo_booth?,B,Japan Eat,Photomaton,Kawamoto,Barclays,CCF
+94,Which POI belongs to type: vending_machine?,B,4 Saisons,20 Minutes,Birdy,Parking Montparnasse Pasteur,Casa Vina
+95,Which POI belongs to type: car_wash?,B,Nina's,Total Wash,Bistrot Melody,Lago,5ème
+96,Which POI belongs to type: personal_service?,D,Picorée,Café Leone,Mikuna,Domicile Clean,Les Saveurs
+97,Which POI belongs to type: school?,B,Barioca,Sup de pub / École supérieure des métiers de l'image,Le Grand Dictionnaire,Vaugirard - Pasteur,Yoru
+98,Which POI belongs to type: shisha?,C,Berliner,Machiya Bento & Pâtisserie,Le Mood,Le Cornichon,Le Week-end
+99,Which POI belongs to type: hookah_lounge?,A,Shisha One,Mamé Kitchen,Qee,Bistrot Saint-Germain,Édouard Pailleron - Simon Bolivar
+100,Which POI belongs to type: money_transfer?,E,Le Gramont,Dr Eymard,Roquette - Folie Regnault,Saigon Hanoi,Transfert d'argent
+101,Which POI belongs to type: community_centre;toy_library?,E,La cabane de Liancourt,BNP Paribas,Virtus,Cimetière de Montmartre,EspaceLudo
+102,Which POI belongs to type: turkish_bath?,C,La Fabrik,L'Ordonnance,Hammam Medina Center,Le goëland d'Aligre,Arachnologie
+103,Which POI belongs to type: stripclub?,D,Publicis Cinémas,École Maternelle,École maternelle Archives,Sexy Girls,Fontaine Wallace
+104,Which POI belongs to type: restaurant;bar;nightclub?,E,Lycée Polyvalent Notre-Dame,Le Vénitien,Le Lys d'or,BNP Paribas,Le Doobie’s
+105,Which POI belongs to type: dormitory?,E,La Vie d'Ange,Le Reilhac,La Terrasse,Starbucks,Foyer La Ruche
+106,Which POI belongs to type: vacant?,E,Montmartre Galabru,Dooplé Danse,QJ - Quartier Jeunes,Gare du Nord,Coco Braise
+107,Which POI belongs to type: art_school?,D,Club Paradisio,Foufou,Tamarin,Académie de la Grande Chaumière,Basic Fit
+108,Which POI belongs to type: motorcycle_parking?,B,Queen Ann,8,Les Mésanges,Librairie Nicole Maruani,Banque Populaire
+109,Which POI belongs to type: boat_rental?,C,Grillades Rouge,Marie Rose,Marin d'Eau Douce,La Banque Postale,Sun City
+110,Which POI belongs to type: parking_space?,A,RATP,Regard - Rennes,Charonne - Faubourg Saint-Antoine,Vague Coffee,Valentina
+111,Which POI belongs to type: luggage_locker?,A,City Locker,Barbot,Sugoï Ramen,La Quintessence,Les Polissons
+112,Which POI belongs to type: construction?,D,Maslow,Tchaikhana de Boukhara,Théâtre Bo,Crèche,L'Alivi
+113,Which POI belongs to type: radiologist?,E,L'Alimentation Générale,Le Lucernaire,New Shangaï,Centre Ressources Théâtre Handicap,Centre d'Imagerie Médicale Le Belvédère
+114,Which POI belongs to type: social_club?,E,La Boissonnerie,Mashil,Bar Devie,Frappé Coffee,Hells Angels Paris
+115,Which POI belongs to type: events_venue?,E,Alabama,La Solita Taverna,Becquetance,La Monella,Galerie des Trois Bornes
+116,Which POI belongs to type: courthouse?,C,Rent-A-Car,Misu,Le cercle,Émeraude Escape,Università italiana Niccolo Cusano
+117,Which POI belongs to type: polling_station?,A,École primaire,Petit Myomy,Médecine Générale,Le Gambetta,India Gate
+118,Which POI belongs to type: bicycle_repair_station?,E,Élysée Boétie,Kissproof Belleville,Petit Hong Kong,La cerise sur le piano,DoctoCyclo
+119,Which POI belongs to type: shelter?,D,Les Caves du Louvre,Boxing club Paris 12,eat Sushi,Sèvres–Lecourbe,Terrass''
+120,Which POI belongs to type: give_box?,D,Au Bon Coin,Café Populaire,Euryale Dehaynin - Loire,La Boutique sans argent,Café Madame
+121,Which POI belongs to type: games?,A,Quiz Room,L'imprévu,LCL,Haochi,Picto
+122,Which POI belongs to type: perfumery?,C,Alora Lounge,The Lab,Parfumerie Burdin,Salles de sport Chaumont-Lepage,Bibliothèque Italie
+123,Which POI belongs to type: monastery?,C,Les Crêpes du Jardin,Restaurant du Musée d'Orsay,Missionnaires de la Charité,LCL,LCL
+124,Which POI belongs to type: compressed_air?,D,Café du Théâtre,Oenosteria,Cours Diderot,Pompe HS,BerbèrHygge
+125,Which POI belongs to type: karaoke_box?,B,Foufou,Karaoke Club,Momentea,Délices wok,Saveurs d'Asie
+126,Which POI belongs to type: bicycle_parking?,D,Arkose Strasbourg Saint-Denis,Dalmania,Café Med,12,Basic-Fit
+127,Which POI belongs to type: fitness_station?,B,Saint-Lazare - Place d'Estienne d'Orves,Rowing-leg,Mayet,Chez Jeannette,Fu de Cha
+128,Which POI belongs to type: cafe;coworking_space?,D,Morry's Bagels,A la Ville de Petrograd,Thaï Thaï Gourmand,Nuage Café (co-working),Le Comptoir Des Résistants
+129,Which POI belongs to type: public_bath?,B,Fouta Djalon,Les Bains d'Orient,One World,Dindon Dandy,Xin Kai Yue
+130,Which POI belongs to type: fairground?,D,Com' À La Maison,Popotes,Harvest,Foire du Trône,Le Rayanais
+131,Which POI belongs to type: prep_school?,C,Institut Vatel,La Parenthèse,TUMO Paris 1,Crédit Agricole,Pharmacie Péron
+132,Which POI belongs to type: baggage_checkin?,E,Les Initiés,Les Petits Ateliers D'éveil,Cent Kilos,Kamer,Geoparts
+133,Which POI belongs to type: events_centre?,D,Western Union,Le Tank,Marché Télégraphe,Salons de l'Aveyron,Caisse d'Épargne
+134,Which POI belongs to type: research_institute?,B,Le Président,L'UTÈS,Le Sacré,Sant Antonio,Fontaine de Jarente
+135,Which POI belongs to type: food_court?,E,Le Voltigeur,Crèche Dénoyez,C'est chouette,Le Constantinople,Place du marché
+136,Which POI belongs to type: car_pooling?,E,Snack Time,Paris Retina Vision,Le Salon de Madame Arthur,Les Bouillottes,AKRAM
+137,Which POI belongs to type: laser_game?,A,Urban Laser,Eight Paris,Hello You,L'Apostrophe,CIC
+138,Which POI belongs to type: Physical training Center?,D,La Cantine du Troquet,HuTong Paris,Société Générale,Sielbleu Paris,Edmond Rostand
+139,Which POI belongs to type: tool_rental?,A,Loxam City,Bar du Marché,L'Alimentari,HSBC,Brasserie Le Corail
+140,Which POI belongs to type: sports_hall?,D,Pharmacie du Tertre,Phalsbourg - Villiers,Banque Populaire,Gymnase Communal Camou,Rivoli - Musée du Louvre
+141,Which POI belongs to type: auction_house?,C,Rameur,Joyti,Christie's,Suzette,L'Hélice
+142,Which POI belongs to type: public_bookcase?,C,Pharmacie Faval,Homer Lobster,La bibliothèque de rue du quartier latin,Saint-Germain-des-Prés,Welcome to Istanbul
+143,Which POI belongs to type: love_hotel?,A,LoveHotel Châtelet,Espace La Rochefoucauld,Café Lulu,La Bonbonnière,BNP Paribas
+144,Which POI belongs to type: art?,D,Taco Loco,BOKBAR,Le Local,l'école Buissonière - Small Gallery,Deniz
+145,Which POI belongs to type: bandstand?,C,Caisse d'Épargne,Murphy's House,Kiosque,Frenchie To Go,Red Grill
+146,Which POI belongs to type: motorcycle_rental?,B,Chez Bob de Tunis,By Scoot,New3dge,Shah,Tékés
+147,Which POI belongs to type: bench?,D,Lac Tana,Le coq et l'élephant,Banque Populaire,La Péniche,Bagnolet - Place Saint-Blaise
+148,Which POI belongs to type: exhibition_centre?,B,Rond-Point des Champs-Élysées,L'Atelier des Lumières,Saigon Hanoi,Louis Blanc - Jemmapes,Boteco
+149,Which POI belongs to type: massage?,D,Les petits chaperons rouges,Le café Jasmin,LCL,Ayothaya,Caisse d'Épargne
+150,Which POI belongs to type: flight_school?,A,Flight in Paris,Le petit relais,Le Petit Liège,Bagelstein,Sushi Shop
+151,Which POI belongs to type: office?,B,Mussubï,Auzou éditions,Foyer de Jeunes Travailleurs Les Hauts de Belleville,Collines d'Asie,Pharmacie Bonnel
+152,Which POI belongs to type: bus_station?,E,Garage Mansart,Parmentier - Hôpital Saint-Louis,Pitzman,Carnet de Voyage,"Gare de Lyon, voie 23"
+153,Which POI belongs to type: casino?,A,Club Barrière Paris,École Maternelle,Le Catrina,Little Baobei,Le Bistrot de Madeleine
+154,Which POI belongs to type: office?,B,Crédit Agricole,Bureau de douane de Paris Principal,Le Petit Cambodge,Poco Loco,Amore & basta
+155,Which POI belongs to type: dog_park?,B,Au Bonheur,Espace canin,Lepic - Armée d'Orient,Casa Naktel,Equipe de développement local
+156,Which POI belongs to type: meeting_point?,D,Pierre Demours - Laugier,La Cantine des Arbustes,Libshop,Junior & Cie,L'Abraise
+157,Which POI belongs to type: resort?,A,Centre Paris anim' InterClub 17,Marco & Co,Biyo Dürüm,Kisoro,Le Camelia
+158,Which POI belongs to type: spa?,E,Sushi Ku,La Taquinerie,Canard Street,La meusoir,Les Jardins Suspendus
+159,Which POI belongs to type: teaching?,C,Qasti Grill,Cajun Factory,Spéos,Edelweiss,Stanzy
+160,Which POI belongs to type: post_depot?,E,Douâa sushi,Gym Studio,Yummy thai,We love coffee,Livingpackets
+161,Which POI belongs to type: townhall?,C,Café Des Frères Prévert,Paris Haussmann,Mairie du 14ème arrondissement,Grand Bowl,TaraTata
+162,Which POI belongs to type: animal_boarding?,A,Arbre à chats,KFC,April,École supérieure d'art dramatique de Paris,Pharmacie centrale Roquette
+163,Which POI belongs to type: waste_basket?,C,BNP Paribas,One and One,Poubelle,Swedish Fit Chaudron,La clairière
+164,Which POI belongs to type: meditation_centre?,A,Centre de méditation Kdampa Paris,Billets Île-de-France,Pasta & Co,Pile ou Face,Le Little
+165,Which POI belongs to type: health_post?,C,Thensurabi,Hide out Station,Cabinet infirmier libéral MR Santé,Flavio,La Nuit Blanche

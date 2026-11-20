@@ -1,0 +1,147 @@
+,A,B,answer,C,D,E,question
+0,Salmon & Bear,Northwood Wharf,B,Italo House,La Bufala,Royal Albert Hotel,Which POI belongs to type: ferry_terminal?
+1,Jingogae Korean,The Clock,A,Abe's Coffee Supply,Doodles Noodles,Rap N' Roll,Which POI belongs to type: restaurant?
+2,Gladesville Police Station,Esperanto House,B,Specialist Orthodontists,Town Hall Hotel,Southern Wok,Which POI belongs to type: library?
+3,11:11 Sweet,Balmain Villege Health,C,Mrs Macquarie's Chair,Fresh & Hot Malatang,Pork Roll,Which POI belongs to type: bench?
+4,The Vic On The Park,Cheers Bar,E,The Leaf Cafe,Apex 24 hour gym,North Bondi Bus Interchange,Which POI belongs to type: bus_station?
+5,Hakiki,Standard Public Weighbridge No. 7,B,Commonwealth Bank,Shot on Military,Matcha Ya,Which POI belongs to type: weighbridge?
+6,Moo Gourmet Burgers,Dashund Coffee,E,Mitch Hotel,Vermuteria,Newmarket Hotel,Which POI belongs to type: pub?
+7,Mosman Police Station,LifeConnect,A,Tesla Supercharger,Adelaide Street Library,Café Cammeray,Which POI belongs to type: police?
+8,D-Zire Dental,C9,D,Fire & Food,Bangarra Dance Theatre,Cheeks,Which POI belongs to type: theatre?
+9,Anytime Fitness,Ada’s Affair,C,Orca Cycle,Street Market Asian Tapas,Simple Simons Coffee House Cafe,Which POI belongs to type: bicycle_rental?
+10,Bondi Skin Cancer Clinic,Idyll Cafe,B,P.E. Dept,Grill'd,Close Street Reserve Dog Off Leash Area,Which POI belongs to type: cafe?
+11,Bitter Phew,Mazzaro Restaurant,D,Bopp & Tone,South Eveleigh Playground,El Jannah,Which POI belongs to type: playground?
+12,Brooklyn Bridge Deli,Cafe Mia,C,7-Eleven,Simon's Pharmacy,Lord Raglan Hotel,Which POI belongs to type: fuel?
+13,Caysorn Thai Restaurant,Holy Trinity,B,Barmuda,Greek Feast,La Cachette,Which POI belongs to type: place_of_worship?
+14,Oporto,Court House,B,Raw Bar,Randwick Doctors Medical Centre,Authentic KL Flavors,Which POI belongs to type: public?
+15,Gladesville RSL,The Forresters,A,Lane Cove Aquatic Leisure Centre,NAB,Q2Dance,Which POI belongs to type: licensed_club?
+16,Little Thai Place,Leichhardt Uniting Church,E,Palace Hotel,Mamma Teresa,Haberfield Post Office,Which POI belongs to type: post_office?
+17,Kiss and Ride,Shell,A,Zushi,Greenwich Library,Birkenhead Medical Centre,Which POI belongs to type: parking?
+18,Commonwealth Bank,Marrickville Metro Shop Post Office,A,Broadview,The Yard Gym,Dr. Tobias Pincock,Which POI belongs to type: bank?
+19,Bondi Junction Medical Practice,Paddington Markets,D,AP House,Caravin,South Head Synagogue,Which POI belongs to type: bar?
+20,Speakeasy,Money Change,B,Presbyterian Church of St Andrew,Pattison's Patisserie,The Marquee,Which POI belongs to type: bureau_de_change?
+21,Baristas Coffee Edgecliff,Either Or,C,Eat St,Mrs & George,Taru Hachi,Which POI belongs to type: food_court?
+22,Wilson,Rossini Cafe,A,Green Mushroom,Piatsa Cafe,Plus Fitness,Which POI belongs to type: parking_entrance?
+23,Glider Garden,Chapter Five,C,Palace Verona Cinema,Treetop Cafe,Busshari Japanese Restaurant,Which POI belongs to type: cinema?
+24,McCafé,Kings Cross Car Park Entrance,C,Guzman y Gomez,Anytime Fitness,Westpac,Which POI belongs to type: fast_food?
+25,SnapMoney,Sakanaya,E,Pablo's Charcoal Chicken & Ribs,Calle Rey,Showring,Which POI belongs to type: stadium?
+26,Kings Lane Sandwiches,Bom Bora Bar,D,Guzman y Gomez,Chemist Warehouse,Wok Master,Which POI belongs to type: pharmacy?
+27,Guzman y Gomez,Payphone,B,Mr B's Hotel,Bills,Watsons Bay Hotel,Which POI belongs to type: telephone?
+28,Leslie Chan Herbalist,Public Coffee,A,Mammas & Papas,Ice Creamery,Yellow,Which POI belongs to type: clinic?
+29,The Loft UTS,One more chocolate shop,E,Reginald Murphy Community Centre,The Royal Leichhardt,Ria Money Transfer Agent,Which POI belongs to type: money_transfer?
+30,The Bondi Relish,Monash IVF Sydney Day Hospital,E,Thai Street Food,7-Eleven,Sydney Marina,Which POI belongs to type: marina?
+31,Leichhardt Community Recycling Centre,Bytes @ ATP,C,Hi Pilates Artarmon,ANZ,Subway,Which POI belongs to type: fitness_centre?
+32,Sushi Hub,Victoria Rd before Sydenham Rd,B,Taplin Park Boat Ramp,Hayes Theatre Co,Tara,Which POI belongs to type: shelter?
+33,Campos Coffee,Quattro Passi,D,Metro Petroleum,Hen and Chicken Bay Boat Ramp,Missenden Road Post Office,Which POI belongs to type: slipway?
+34,Munich Brauhaus,Chemist Warehouse,C,ANZ,Sussex Centre Food Court,Piatsa Cafe,Which POI belongs to type: atm?
+35,"Public Toilet Jubilee Oval Grandstand, Glebe",Favola,C,Pilates,Southern Cross Hotel,Il Espresso,Which POI belongs to type: sports_centre?
+36,Artspace,KFC,A,Cafe Bondi,Apache,Cardea,Which POI belongs to type: arts_centre?
+37,Commonwealth Bank,SUSF The Ledge,D,Pappy's Bar,HOME,Sydney City Lifestyle & Mission Centre,Which POI belongs to type: nightclub?
+38,Bald Rock,My Coffee Room,D,First Drop Café,"Public Toilet Bellevue Cottage, Glebe",WeWork,Which POI belongs to type: toilets?
+39,Piatsa Cafe,Vege4Love,C,Gladesville Fire Station,Pizza M,Commonwealth Bank,Which POI belongs to type: fire_station?
+40,Humm Coffee Roasters,Premium Lanzhou Beef Noodle Soup,C,Tiffany's,Made in Italy,Bar Woolloomooloo,Which POI belongs to type: brothel?
+41,Tew Thai Always Authentic,Sailor Boy,E,Noranise Dining,Chinatown Sizzling House,Summit Car Wash,Which POI belongs to type: car_wash?
+42,myVet,Forest Lodge Hotel,A,Dr Chan,The Vines,KirribilliVillage,Which POI belongs to type: veterinary?
+43,Ria Money Transfer Agent,Land and Environment Court of New South Wales,B,Mjolnir,Doncaster Hotel,Rivareno Gelato,Which POI belongs to type: courthouse?
+44,Red Post Box,Lemongrass Takrai,A,Ice Kirin Bar,Pieno,Town and Country Hotel,Which POI belongs to type: post_box?
+45,Forum Pharmacy,Gloria Jean's,D,Meidy Cafe,Australian Securities Exchange,SCCO Studio,Which POI belongs to type: stock_exchange?
+46,Piccolo Takeaway,Kosuke Ramen,D,Me Banh Mi,Kiara,Zeta Bar,Which POI belongs to type: residential?
+47,Moon Shine,Taxi Stand,B,The Junction,Wilson Parking,Simply The Best,Which POI belongs to type: taxi?
+48,Toppinz,Winghaus,D,The Lab Cafe,Yanada Room,H Pantry,Which POI belongs to type: community_centre?
+49,Karaoke Lounge,Ashfield Denture Clinic,B,Campsie Family Medical Centre,Maranello's Veloce,Seasoning Thai,Which POI belongs to type: dentist?
+50,Bonanza Thai,Dr. Mark Grunwald Surgery,B,Fish at the Rocks,Table Manners Restaurant,Young Henry's,Which POI belongs to type: doctors?
+51,Jules,Buena Vista Hotel,D,Forza Jiu Jitsu,Hertz,C3,Which POI belongs to type: car_rental?
+52,St Vincent de Paul Catholic Church,Summer Hill Fiah & Chips,D,Leichhardt Espresso,Ultimo Recycling Pop-Up,Taxi Stand,Which POI belongs to type: recycling?
+53,White Diamond Hand Car Wash,Vapiano,E,Commonwealth Bank,CofiART,Woollahra Preschool,Which POI belongs to type: kindergarten?
+54,The Picnic Burwood,Don Don,D,Bill Warner Chemist,Jackson's Landing residents pool and gym,Wilde & Co,Which POI belongs to type: swimming_pool?
+55,Gyros Fix,The Renegades,E,Vaura Pilates,Hansang Haymarket,Gelatissimo,Which POI belongs to type: ice_cream?
+56,Chefs Gallery,Brew Ha Ha,D,Buckle Cafe & Distillery,Hunters Hill Town Hall,Regatta Dining,Which POI belongs to type: townhall?
+57,Fragrance Coffee,Yuzu,E,Legal Grounds Cafe,Figo,Cliff Noble Centre,Which POI belongs to type: social_centre?
+58,Baristas,Black Star Pastry,D,Islamic Society of UNSW,University of Notre Dame Australia,Japan Foundation Library,Which POI belongs to type: university?
+59,Taylor's Rooftop Bar,Sydney Unitarian Church,C,Paddington Markets,Koutouki,St Michael's Catholic Church,Which POI belongs to type: marketplace?
+60,Next,Bistro Gadi,E,Forum Pharmacy,Clyde Street Early Leaning Centre,Il Porcellino,Which POI belongs to type: fountain?
+61,Mogo Mogo,Randwick Club,D,Kujira,Bosch Lecture Theatre,Chinatown Sizzling House,Which POI belongs to type: school?
+62,Nelson Hotel,Crocodile Farm Hotel,E,Edmund and Joanna Capon Research Library,Malabar South Indian Cuisine,Bourke Street Bakery,Which POI belongs to type: retail?
+63,Subway,Henrietta,C,Blue River Group,Eve’s Bar,Double Bay Marina,Which POI belongs to type: commercial?
+64,St Anthony's Clovelly,Community of Christ,A,Fish Market Cafe,Eileen O'Connor Catholic College,Fresh Daily on Gordon,Which POI belongs to type: church?
+65,The Tea Cosy,Dairy Bell (Permanently Closed),B,Domino's,Piato Restaurant,Circular Quay 6B,Which POI belongs to type: warehouse?
+66,La Tazzina,Dolphin Square Apartments,E,Commonwealth Bank,Public library (Take one and leave one),Plunge,Which POI belongs to type: dive_centre?
+67,Coogee Fine Foods,M Deli Cafe,E,Illinois Hotel Five Dock,St. Barnabas,Kensington Room,Which POI belongs to type: events_venue?
+68,Tropical Soul Dance Studio,Moshi Moshi,A,Paradise Bakery,Blu Aqua Kiosk,KFC,Which POI belongs to type: dance?
+69,Bangkok Bites,Commonwealth Bank,E,Piazza Dining,door knock,Sydney Kayking Tours,Which POI belongs to type: boat_rental?
+70,Hills Cafe & Bakery,Montessori Preschool of Sydney,B,Spit Roast,Henry Lees,Neutral Bay Kindergarten,Which POI belongs to type: school?
+71,McDonald's,Surry Hills Vet,E,Emperor’s Garden Cakes & Bakery,Eastside Grill & Bar,Adina apartment hotel,Which POI belongs to type: apartments?
+72,Met Cafe,Sydney Community College,B,Eunoia,Anna,Anytime Fitness,Which POI belongs to type: college?
+73,Graze,HEI Schools St Leonard's,D,State Theatre,Epworth House,Ho Jiak,Which POI belongs to type: hotel?
+74,Blackwood,KFC,C,Parking,The Moody Chef,dae jang kum,Which POI belongs to type: parking_space?
+75,Cali Club,The Vanguard,C,Corrective Services NSW,Presbyterian Church of St Andrew,Taste Of Canton,Which POI belongs to type: office?
+76,Nando's,Café Dendu Coffee Day,D,Cafe C&M,City Amusements,Bangarra Dance Theatre,Which POI belongs to type: amusement_arcade?
+77,Pandawa Nasi Bungkus Australia,Shell Reddy Express,E,Domino's,Little Jack Horner,Andpeople,Which POI belongs to type: studio?
+78,McDonald's,Shout,B,Ralph's Cafe,Matthews Food Court,Street Library,Which POI belongs to type: karaoke_box?
+79,Homm,Jefferys Street,D,Bar Pronto,Waranara Early Education Centre,Green Square Dermatology,Which POI belongs to type: childcare?
+80,La Piadina,Thelma & Louise,C,Shell Park,Double Bay Marina,Piccolo Me,Which POI belongs to type: park?
+81,Bronte Kiosk,Saint Luke's Private Hospital,B,Union Hotel,Abbotts Hotel,Sushi Bar @ Pyrmont,Which POI belongs to type: hospital?
+82,Mort Bay Park Dingy Storage Racks,Dr Peter Dayman,D,Diggy Doo’s Kiosk,Commonwealth Defence Force Hospitals,ANZ,Which POI belongs to type: medical administration?
+83,Pinocchio,St Canice’s Kitchen,B,Castlecrag Library,You You Bear Yoghurt,St. Gerasimos Greek Orthodox Church,Which POI belongs to type: social_facility?
+84,Brew Ha Ha,Ashfield Hotel,C,Ground 407 Elizabeth Street,Thrifty,Chargrill Charlie's Marrickville,Which POI belongs to type: shower?
+85,The Cipher Room,Chargrill Charlie's Marrickville,A,Hui Bro’s Cafe,Recharging,Lil Lane Eatery,Which POI belongs to type: escape_game?
+86,Bobby’s Corner,Domain Car Park Toilets,E,Milky Lane,Maopai Dishes of Hotpot,Speaker's Corner,Which POI belongs to type: rostrum?
+87,Bloodwood,Clovelly RSL & Air Force Club,D,Different Drummer,ILSC,Watsons Bay Library,Which POI belongs to type: language_school?
+88,Union Street Yoga,Vixens 272,B,The Famous!,Selera Warisan,Corridor,Which POI belongs to type: stripclub?
+89,Anna,Edmund and Joanna Capon Research Library,C,World Square Loading Dock Entry,Paragon Hotel,Commonwealth Bank,Which POI belongs to type: loading_dock?
+90,Pharmacy Online,BreastScreen NSW,D,McDonald's,"Bike Shed - Bondi Junction, Grafton St",Nomu,Which POI belongs to type: bicycle_parking?
+91,Peaches Pilates,Brews Brothers,A,Golden Age Cinema & Bar,Mom's Chicken,Deccan Flavours,Which POI belongs to type: sports_hall?
+92,Naxeion Cafe,C'ya,E,Collins Lane Cafe,Priceline Pharmacy,Close Street Reserve Dog Off Leash Area,Which POI belongs to type: dog_park?
+93,888 chicken,Montessori Academy,E,Newtown Post Shop,Eleanora Kopalinsky Lawn,Aquarium Wharf,"Which POI belongs to type: Darling Harbour, Aquarium Wharf?"
+94,Tesla Supercharger,Gelatissimo,A,Machi machi,Shelley Street Chemist,The Penny Royal,Which POI belongs to type: charging_station?
+95,Cook Archie's,Kuletos Cocktail Bar,C,UNSW Waste Bin,Leaf Cafe,Paragon Hotel,Which POI belongs to type: waste_basket?
+96,Discover Pharmacy + Compounding,Willis Annex Makerspace,B,Madame nhu,The Black Sheep,Croydon park pharmacy,Which POI belongs to type: hackerspace?
+97,Buena Vista Hotel,Ambi's Chai,E,G&P Asiatic Gourmet,Miniversal,UNSW Village Reception,Which POI belongs to type: reception_desk?
+98,Teddy Tea Break,The Sephardi Synagogue,C,Parks & Recreation Services Quarry Street Depot,Chapter E,Fresh Daily on Gordon,Which POI belongs to type: industrial?
+99,Café de la Fontaine,Flexicar,B,Fu Manchu,Bakery Cafe,Hakiki Turkish Ice Cream,Which POI belongs to type: car_sharing?
+100,Xtra Clubs Marrickville,The Bat & Ball Hotel,A,Pacific Smiles Dental,Japanese Hotspot Buffet,"Public Toilet Overseas Passenger Terminal, Circular Quay West",Which POI belongs to type: sauna?
+101,Bangkok Bay Thai,TAQIZA,D,Bazaar Deli,Gondwana Choirs,Henry Lees,Which POI belongs to type: music_school?
+102,Domino's,Duya Billiards,D,St Michael’s Anglican Church Vaucluse,Australia Post Parcel Locker,Little L,Which POI belongs to type: parcel_locker?
+103,219 Chalmers St,Eat Fuh,A,Jijos Grill,St. Honore Cafe & Bakery,St Michael's Catholic Church,Which POI belongs to type: residential?
+104,ANZ,Sydney Start-up hub,B,Sushi Taro,Hi Striker,Five Star Kebabs,Which POI belongs to type: coworking_space?
+105,Curry Craze,The Italian Style Pizza and Pasta,C,Flour Mill Community Veggie Garden,Ice Zoo,Maki Sushi Bar,Which POI belongs to type: garden?
+106,WY Gaming,little arar,A,The Rose Hotel,Bastardo,Machi machi,Which POI belongs to type: internet_cafe?
+107,BaptistCare HopeStreet,Newtown Central Car Park,C,Street Library,Library Link Pyrmont,Australia Post Parcel Locker,Which POI belongs to type: public_bookcase?
+108,Boxing Works,St. Honore Cafe & Bakery,D,Mosman Bay Marina,BBQ area,Bohäus Cafe,Which POI belongs to type: bbq?
+109,Central Park Gym,Strike Bowling Bar,B,Healthy Ocean Food,Gosh Coffee,Domino's,Which POI belongs to type: bowling_alley?
+110,Pizza Luna,Street Library,D,Coles Local Parking,Forza Jiu Jitsu,My Coffee Room,Which POI belongs to type: dojo?
+111,The Camperdown Hotel,Sushi Hub,E,Tabé Ru,Phuket Thai,Successful Learners Tutoring,Which POI belongs to type: prep_school?
+112,Happy Paws Pethouse,The Impressionists' Seat,A,Rose Borek,Fifteen Coffee,Pino's,Which POI belongs to type: animal_boarding?
+113,Bacio Cucina Italiana,Cafe 70,E,The Norfolk on Cleveland,Pastizzi Cafe,Netball Ring,Which POI belongs to type: pitch?
+114,P&O Fountain,Hatch Espresso,E,World Square Post Shop,Crows Nest Hotel,Outdoor Fitness Hub,Which POI belongs to type: fitness_station?
+115,WeWork,Grafton Street PUDO Bay,B,TerryWhite Chemmart,The Secret Alley,Café parco,Which POI belongs to type: car_pooling?
+116,Guzman y Gomez,Sounds Sydney,E,The Italian Style Pizza and Pasta,John Montagu,Powerpod,Which POI belongs to type: vending_machine?
+117,Alegrias Spanish Tapas,Amp-Up Your Resume,B,Filicudi Restaurant Five Dock,Ashley Dawson-Damer Children’s Art Library,Puppy Playground Dog Daycare,Which POI belongs to type: commercial?
+118,Gibsons Beach Reserve Dinghy Storage Facility,Priceline Pharmacy,A,Moon Phase,Erskineville Turkish,Verandah,Which POI belongs to type: boat_storage?
+119,Puppy Playground Dog Daycare,Stir Crazy Thai,A,Rose Bay Vet Hospital,ANZ,Metro Petroleum,Which POI belongs to type: animal_keeping?
+120,Shirley Road Church,Public Toilet Naremburn Park,E,Master Zhao Hotpot,Gladesville Post Office,Ice Zoo,Which POI belongs to type: ice_rink?
+121,Big mamas,Balmain Villege Health,D,Wynyard Dental Clinic,The Railway Archives,Coffee Alchemy,Which POI belongs to type: archive?
+122,Missenden Road Post Office,Freeway Hotel,C,Body By Berner,Danceworks Sydney,SnapMoney,Which POI belongs to type: yoga_studio?
+123,Kujira,Estate Vaucluse House,D,Number 10,Boat Shed,Neutral Bay Medical Centre,Which POI belongs to type: shed?
+124,Tarban Creek Asylum Cemetery,Kurraba Point,A,Mappen Noodle Bar,MG Coffee Roaster,Next,Which POI belongs to type: cemetery?
+125,Chuan Chuan Hot Pot,Barlume Deli,E,Summer Hill Village Vet,Street Library,Bupa,Which POI belongs to type: nursing_home?
+126,Carmens's on the Park,Haberfield Eye Care Centre,D,Carslisle swim,Volunteer Restoration Workshop,Sixpenny,Which POI belongs to type: workshop?
+127,White Bay Cruise Terminal 4,Sunset Diner,A,Hello Sushi,The Duke of Gloucester Hotel,CoCo Fresh Tea & Juice,Which POI belongs to type: cruise_terminal?
+128,Chef’s Academy,St Patricks,A,Harry's,Street Library,Yiayia's Gone Bad,Which POI belongs to type: cooking_school?
+129,Cafe Leon,The Spot Cafe,C,Transport Information,Leaf Cafe,EVlink,Which POI belongs to type: passenger_information?
+130,The Riverview,Liberty Hall,B,White Rabbit,Gloria’s Portuguese Restaurant,Poketto,Which POI belongs to type: music_venue?
+131,Plan B,Post Office RNSH,E,Pure Bronte,Top Fish & Chips,Habibay,Which POI belongs to type: restaurant;deli?
+132,PlantClinic,Telstra Payphone,A,Hot Spicy Kitchen,Mia & Co.,Zio Pino,Which POI belongs to type: research_institute?
+133,Villa Maria Monastery Graveyard,The Little Kitchen,A,Genius Childcare,Club Fontana,Piazza Dining,Which POI belongs to type: grave_yard?
+134,Delhi O Delhi,The Black Sheep,D,NAB,Triple Menace Studios,Hiscoes Gym,Which POI belongs to type: dancing_school?
+135,Black Star Pastry,KU John J. Carroll Preschool,E,Day & Night Chemist @ Newtown,Community Kids Sydney,Hama Film,Which POI belongs to type: photo_booth?
+136,Waverly Kebab House,Bastardo,E,Thai Paragon,Hunters Hill Dermatology,Michael Mobbs Sustainable House,Which POI belongs to type: house?
+137,MsChief,Kiss & Ride,B,Kebabs,Toppinz,Kujira,Which POI belongs to type: construction?
+138,Crown Sydney,Successful Learners Tutoring,A,Taste of Nanking,Loam,Sushi Hub,Which POI belongs to type: casino?
+139,The Human Sundial,Kafe Kaz,A,Blossoming Lotus,Bella Brutta,Tamarama Kiosk,Which POI belongs to type: clock?
+140,Chemist Warehouse,Bartiga,C,Soak Bathhouse,Ryde Swim School,Four Ate Five,Which POI belongs to type: sauna;spa?
+141,Priceline Pharmacy,Miniversal,B,Food @ SBS,New Star Take-away,101 Kissa,Which POI belongs to type: indoor_play?
+142,Waverley library,White Hill Clinic,E,GoGet,Maopai Dishes of Hotpot,Cheapest Load of Rubbish,Which POI belongs to type: waste_disposal?
+143,Rossin,Grounds of the City,D,Glenayr Avenue PUDO Bay,Putney Beach Swim Site,Bibo,Which POI belongs to type: bathing_place?
+144,Inner West Tool Library,NSW Parliament House Post Office,A,Doss House Whiskey Bar,Maranello's Veloce,Brewtown,Which POI belongs to type: tool_library?
+145,Zushi Sushi,Clinic 16 - Northern Sydney Sexual Health Clinic,C,Water Bird Sanctuary,Top Juice,The Canopy,Which POI belongs to type: nature_reserve?

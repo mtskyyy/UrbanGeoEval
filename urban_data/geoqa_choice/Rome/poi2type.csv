@@ -1,0 +1,73 @@
+id,question,answer,A,B,C,D,E
+0,"Which type do following POIs belong to? POIs: Colonna 58, Bar Latteria, T100, Buscaglione",C,dancing_school,waiting_room,cafe,fixme,bowling_alley
+1,"Which type do following POIs belong to? POIs: IP, Api, Q8, Erg",E,events_venue,conference_centre,cafe,theatre,fuel
+2,"Which type do following POIs belong to? POIs: Dea Roma, Fontana della Ciociara, Fontana dell'Acqua Marcia, Chiocciola di pietra",C,nightclub,school,fountain,parking_entrance,bunker
+3,"Which type do following POIs belong to? POIs: Auditorium Arte, Amici Del Teatro Di Documenti, Le Salette, Lo spazio",C,atm,coworking_space,theatre,community_centre,horse_riding
+4,"Which type do following POIs belong to? POIs: Filmstudio, T. D. S. Teatro del Sole Srl, Alhambra, Multisala Atlantic",A,cinema,left_luggage,trade_school,coworking_space,social_facility
+5,"Which type do following POIs belong to? POIs: Fons Eleonorae, Fonte Egeria, Acqua Angelica, Fontanella nel Parco pubblico",C,charging_station,prison,drinking_water,childcare,trade_school
+6,"Which type do following POIs belong to? POIs: Poste Italiane – Roma Piazza Dante, Poste italiane – Roma 34, Ufficio Postale 55197, Poste italiane",B,animal_shelter,post_office,planetarium,kindergarten,parking_entrance
+7,"Which type do following POIs belong to? POIs: Ciclocasale, Ciclofficina Donchisciotte, Bike Stand, Ciclofficina Centrale Ciclonauti",D,recording_studio,toy_library,motorcycle_parking,bicycle_repair_station,library
+8,"Which type do following POIs belong to? POIs: Arena Aurora, Rialto, ARCI Circolo Concetto Marchesi, Spazio Recherche",D,townhall,toilets,atm,arts_centre,dancing_school
+9,"Which type do following POIs belong to? POIs: Binario 37, Trattoria Pizzeria Bompiani, Le Petit Bio, La Cucaracha",C,public_building,bus_station,restaurant,canteen,fast_food
+10,"Which type do following POIs belong to? POIs: Spunky Centocelle, ZenZero, Beer Style, Malavite",A,pub,dancing_school,library,car_wash,pharmacy
+11,"Which type do following POIs belong to? POIs: Vitale, Farmacia Fabio Massimo, Farmacia Piramide, Nocerino",A,pharmacy,hospital,car_rental,military,studio
+12,"Which type do following POIs belong to? POIs: Gelateria dei Gracchi, Gelateria Della Palma, La Romana, Adelina Gelato",A,ice_cream,stripclub,outdoor_seating,tanning_salon,school
+13,"Which type do following POIs belong to? POIs: Centro Ricerca e Documentazione Arti Visive, Biblioteca del Dipartimento di Scienze politiche (Sede principale Scienze politiche), Biblioteca Facoltà di Architettura - Università Sapienza, Biblioteca della Città metropolitana di Roma Capitale",E,cinema,outdoor_seating,escape_game,toy_library,library
+14,"Which type do following POIs belong to? POIs: Camponeschi, Bar Roma, Bar Tazza D'Oro, Harry's Bar",B,vending_machine,bar,post_office,driving_school,left_luggage
+15,"Which type do following POIs belong to? POIs: Carabinieri Stazione IV Miglio, Posto di Polizia del Colonnato di San Pietro, Carabinieri Stazione EUR, XV Gruppo Cassia Polizia locale di Roma Capitale",A,police,research_institute,sports_centre,animal_shelter,residential
+16,"Which type do following POIs belong to? POIs: Scuola Secondaria di I grado ""Carlo Urbani"", Scuola di Italiano, Liceo scientifico Bertrand Russell, I.C. F.lli Cervi",E,disused,military,dentist,studio,school
+17,"Which type do following POIs belong to? POIs: Crédit Agricole, Monti dei Paschi di Siena, UniCredit, Intesa Sanpaolo",E,studio,animal_breeding,fixme,adult_gaming_centre,bank
+18,"Which type do following POIs belong to? POIs: S.S. Lazio Nuoto - Piscine, Piscina Comunale Alma Nuoto, Fenix, Piscina 25 metri",D,bicycle_rental,temple,courthouse,swimming_pool,cafe
+19,"Which type do following POIs belong to? POIs: Università Roma Tre - Corsi di laurea in Fisica, Botanica, Dipartimento Scienze Politiche, Università La Sapienza - Facoltà di Architettura sede di via E. Gianturco",D,luggage_locker,swimming_pool,car_sharing,university,music_school
+20,"Which type do following POIs belong to? POIs: Staz.ne Metro Cipro, Castel Romano Bus Station, Conca d'Oro, [Terra-vision] Buses for Rome Airport",E,sports_hall,left_luggage,studio,biergarten,bus_station
+21,"Which type do following POIs belong to? POIs: Chiesa del Ss.mo Crocifisso, Santa Maria Assunta al Gianicolo, Moschea Al Huda, Chiesa Pentecostale Dio è Amore",E,clinic,university,cafe,dentist,place_of_worship
+22,"Which type do following POIs belong to? POIs: The Butcher shop, Burger King, Pizza Time, Pizzeria della Piramide",B,bicycle_rental,fast_food,nightclub,townhall,stripclub
+23,"Which type do following POIs belong to? POIs: Annibaliano, Parking Ludovisi, Autorimessa Amicone - Depositi Riuniti, Autorimessa Rendry",C,fountain,bureau_de_change,parking,kitchen,planetarium
+24,"Which type do following POIs belong to? POIs: Parcheggio Aura, Parking Simone Group, Parking Faravelli, Park City",A,parking_entrance,internet_cafe,ice_cream,public_bookcase,payment_centre
+25,"Which type do following POIs belong to? POIs: Postamat, BCC Roma, Euronet, Euronet",A,atm,park,swimming_pool,public,trade_school
+26,"Which type do following POIs belong to? POIs: Palestra comunale, Planet Fitness, Fitvillage, Fondazione Cavalieri di Colombo",B,car_wash,sports_centre,park,payment_terminal,university
+27,"Which type do following POIs belong to? POIs: Municipio IV, Municipio II, Municipio Roma XIV, LabPuzzle!",D,library,bicycle_rental,animal_shelter,townhall,atm
+28,"Which type do following POIs belong to? POIs: Ambulatorio veterinario, Dottor Alessandro Criniti, Veterinario, Ambulatorio Veterinario Ricciotti",A,veterinary,coworking_space,college,animal_breeding,ice_cream
+29,"Which type do following POIs belong to? POIs: Vallati, Ministero dell'Ambiente, Salario, Rione Monti",A,car_sharing,post_office,parking_entrance,temple,fitness_centre
+30,"Which type do following POIs belong to? POIs: Piccole sorelle dell'Agnello, Curia generalizia degli scolopi, Casa Generalizia dei Passionisti, Monastero Santi Quattro Coronati",A,monastery,track,parking,animal_breeding,planetarium
+31,"Which type do following POIs belong to? POIs: Scuola Materna Elivra e Dino Vaselli, Asilo comunale Via Fiuggi-Trilussa, Asilo nido Il semenzaio, Nido Piccoli Monelli",B,prison,kindergarten,public,planetarium,payment_centre
+32,"Which type do following POIs belong to? POIs: Wallenbrecher, Studio Medico Specialistico Prof. Attilio Lioi, Casa di cura Mater Misericordiae, Biorama 77 s.r.l.",C,tanning_salon,police,doctors,nursing_home,boat_rental
+33,"Which type do following POIs belong to? POIs: USI – Tuscolana, Poliambulatorio Della Vittoria, Poliambulatorio Nuovo Regina Margherita, Dott. Alessio Papi",A,clinic,arts_centre,bus_station,recording_studio,bakery
+34,"Which type do following POIs belong to? POIs: Tribunale per i minorenni, Città giudiziaria di Roma, Tribunal Vaticana, Tribunale di sorveglianza di Roma",E,archive,ferry_terminal,doctors,pub,courthouse
+35,"Which type do following POIs belong to? POIs: Centro anziani Vasca Navale, Gruppo Scout FSE Roma 21, Tribe Escape Room, meta",E,recording_studio,boat_rental,fast_food,social_facility,community_centre
+36,"Which type do following POIs belong to? POIs: Wishlist Club, Il Bosco delle Fragole, Circolo Degli Illuminati, Raspoutine Rome",E,hackerspace,events_venue,atm,tanning_salon,nightclub
+37,"Which type do following POIs belong to? POIs: Parcheggio bici autostazione Tibus, Roma San Pietro, Parcheggio Bici Parlamentari, Cipro",A,bicycle_parking,toilets,baking_oven,recreation_center,office
+38,"Which type do following POIs belong to? POIs: Taxi Boncompagni 060609, Taxi Pinciana, Taxi Flora 060609, Taxi Colosseo 060609",C,pinch,adult_gaming_centre,taxi,ranger_station,drinking_water
+39,"Which type do following POIs belong to? POIs: Scuola Superiore per Mediatori Linguistici San Domenico, Polo didattico, DeRose Method Parioli, Istituto superiore per le industrie artistiche",D,fire_station,sauna,recycling,college,money_transfer
+40,"Which type do following POIs belong to? POIs: Villa Strohl Fern, Cedro 1, Parco per bambini, Magnolia",A,park,baking_oven,courthouse,adult_gaming_centre,horse_riding
+41,"Which type do following POIs belong to? POIs: Enel X, Enel - stazione di ricarica, Enel X, Enel – stazione di ricarica",E,ice_cream,garden,club,playground,charging_station
+42,"Which type do following POIs belong to? POIs: Autolavaggio, Autolavaggio a Mano con Cera, Lavaggio a Mano, Talenti dell'autolavaggio",E,animal_breeding,bicycle_repair_station,parking_space,canteen,car_wash
+43,"Which type do following POIs belong to? POIs: Legend Studio, Rai Radio 3, Radio Capital, Rai - CPTV Teulada",E,bicycle_repair_station,language_school,public_building,parking,studio
+44,"Which type do following POIs belong to? POIs: Dental Camos, X-Ray, Dott. Anselmo Carcea, Laboratorio odontotecnico",B,casino,dentist,motorcycle_parking,fitness_centre,recycling
+45,"Which type do following POIs belong to? POIs: Autoscuola Rekord, Autoscuola Pratiche Auto, Hiron autoscuola, Di Marco PMZ",C,social_centre,office,driving_school,archive,payment_terminal
+46,"Which type do following POIs belong to? POIs: Ospedale Pediatrico Bambino Gesù - Sede di via Baldelli, NCL, Studio Odontoiatrico Dominici, Pronto Soccorso Ospedale ""Cristo Re""",C,training,fuel,hospital,canteen,sports_centre
+47,"Which type do following POIs belong to? POIs: Idrocronometro, Totem Contabici, Totem Contabici, Totem Contabici",A,clock,social_facility,public_building,food_court,office
+48,"Which type do following POIs belong to? POIs: Baby Parking, Muse Park Roma Amusement Park, Parco giochi, Il Parco di Lillo",A,playground,public_building,boat_rental,baking_oven,public_bookcase
+49,"Which type do following POIs belong to? POIs: Get Up, Functional Jungle Gym, Palestra Passion Fitness, H2O Fitness Center",E,charging_station,parking_entrance,university,dentist,fitness_centre
+50,"Which type do following POIs belong to? POIs: change, Change, Cambio, Fin Change",D,fast_food,public,vending_machine,bureau_de_change,military
+51,"Which type do following POIs belong to? POIs: WinRent, Colosseum Motorcycle center, Hertz, Locauto",E,library,monastery,track,dancing_school,car_rental
+52,"Which type do following POIs belong to? POIs: Durex, Streetshop24, +ricicli +viaggi (San Giovanni), ATAC",C,casino,dance,vending_machine,community_centre,playground
+53,"Which type do following POIs belong to? POIs: IRPPS-CNR, Istituto italiano di numismatica, Escuela Española de Historia y Arqueología en Roma-CSIC, Deutsches Historisches Institut in Rom",B,fuel,research_institute,cinema,bowling_alley,vending_machine
+54,"Which type do following POIs belong to? POIs: Mercato, MercatoBIO di Aguzzano al Casale Podere Rosa, Campo de' Fiori, Mercato Arabo",C,pharmacy,garden,marketplace,construction,food_court
+55,"Which type do following POIs belong to? POIs: Compost di quartiere, Vestiti usati, +ricicli +viaggi (Cipro), Raccolta pile esauste",D,restaurant,marketplace,payment_terminal,recycling,music_school
+56,"Which type do following POIs belong to? POIs: British Institute of Rome, British Council, Berlitz, Wall Street English",E,bench,recycling,atm,public_bookcase,language_school
+57,"Which type do following POIs belong to? POIs: MUG Roma Tre, AvANa, Famo Cose, LUG Roma Tre",B,stripclub,hackerspace,townhall,ferry_terminal,playground
+58,"Which type do following POIs belong to? POIs: Gruppo Scout Agesci Roma 89, Comunità ellenica di Roma e del Lazio, Centro di Cultura Ecologica, Bencivenga occupato",A,social_centre,public_building,garden,construction,nursing_home
+59,"Which type do following POIs belong to? POIs: puntoslot, Codere, Admiral, Clasi Royal Slot",C,amusement_arcade,pharmacy,adult_gaming_centre,parking_entrance,car_sharing
+60,"Which type do following POIs belong to? POIs: Il bruco e la mela, Baby Club, Asilo nido La trottola, I mirtilli rossi",B,planetarium,childcare,parking,canteen,dance
+61,"Which type do following POIs belong to? POIs: Terme di Roma Internazionale, Mediterraneo, AquaMadre Hammam, el spa",C,sports_centre,police,sauna,money_transfer,college
+62,"Which type do following POIs belong to? POIs: Mensa Dono di Maria, Fondazione Villa Maraini, Emporio della Solidarietà, Caritas Diocesiana",D,motorcycle_rental,veterinary,clinic,social_facility,biergarten
+63,"Which type do following POIs belong to? POIs: Planet Dance, Artem, Santinelli Dance Academy, Molinari Art Center",C,fixme,college,dance,track,horse_riding
+64,"Which type do following POIs belong to? POIs: Salone Gerusalemme, Croce Rossa Italiana - Sala Solferino, Industrie Fluviali, Aranciera di San Sisto",E,payment_terminal,vending_machine,horse_riding,baking_oven,events_venue
+65,"Which type do following POIs belong to? POIs: Fototessera, Phototessera, Fototessera, Fototessera",D,adult_gaming_centre,monastery,kitchen,photo_booth,stripclub
+66,"Which type do following POIs belong to? POIs: Double Stroke, Scuola di Musica Popolare Donna Olimpia, Soundville, Academia Nazionale di Santa Cecilia",D,trade_school,club,parking_entrance,music_school,car_sharing
+67,"Which type do following POIs belong to? POIs: SECRET ROOMS - Escape Room Roma, Escape Room Resolute, Escape Room Campo dei Fiori & Beershop, Game Over Escape Rooms",C,conference_centre,residential,escape_game,hospital,townhall
+68,"Which type do following POIs belong to? POIs: Wonderphone Point, Colli Albani Internet Point, Grangel, Internet",C,ice_cream,dojo,internet_cafe,motorcycle_rental,training
+69,"Which type do following POIs belong to? POIs: Ria, MoneyGram, Western Union, Money transfer",B,post_office,money_transfer,theatre,townhall,bench
+70,"Which type do following POIs belong to? POIs: MEDICHINI LEPANTO, Libreria del Bosco, MEDICHINI LEX, Libreria del Bosco",B,nightclub,public_bookcase,police,research_institute,construction
+71,"Which type do following POIs belong to? POIs: On Movo, M.M. Motoscooter, Motolandia 99, On movo",B,toy_library,motorcycle_rental,social_facility,car_rental,construction

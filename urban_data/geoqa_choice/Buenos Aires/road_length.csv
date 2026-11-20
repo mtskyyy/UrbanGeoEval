@@ -1,0 +1,317 @@
+,A,B,C,D,E,answer,question
+0,220.0,6600.0,660.0,4400.0,2200.0,E,How long is Avenida Forest in the Buenos Aires area?
+1,2600.0,7800.0,5200.0,780.0,260.0,A,How long is Avenida Olazábal in the Buenos Aires area?
+2,230.0,4600.0,6900.0,2300.0,690.0,D,How long is Avenida Combatientes de Malvinas in the Buenos Aires area?
+3,260.0,780.0,5200.0,7800.0,2600.0,E,How long is Avenida Chorroarín in the Buenos Aires area?
+4,4000.0,600.0,2000.0,6000.0,200.0,C,How long is Avenida General Benjamín Victorica in the Buenos Aires area?
+5,11200.0,560.0,5600.0,1680.0,16800.0,C,How long is Avenida Álvarez Thomas in the Buenos Aires area?
+6,240.0,1600.0,2400.0,100.0,800.0,E,How long is Avenida Coronel Niceto Vega in the Buenos Aires area?
+7,590.0,1770.0,11800.0,17700.0,5900.0,E,How long is Avenida Dorrego in the Buenos Aires area?
+8,300.0,9000.0,3000.0,6000.0,900.0,C,How long is Avenida Santa Fe in the Buenos Aires area?
+9,100.0,200.0,100.0,100.0,300.0,D,How long is Calzada Circular Plaza Italia in the Buenos Aires area?
+10,13200.0,1320.0,4400.0,8800.0,440.0,C,How long is Avenida Melián in the Buenos Aires area?
+11,100.0,100.0,600.0,400.0,200.0,E,How long is Avenida García del Río in the Buenos Aires area?
+12,100.0,0.0,0.0,0.0,100.0,D,How long is Pinto in the Buenos Aires area?
+13,500.0,100.0,1500.0,1000.0,150.0,A,How long is Avenida Leopoldo Lugones in the Buenos Aires area?
+14,0.0,100.0,0.0,0.0,100.0,D,How long is Bolívar in the Buenos Aires area?
+15,2100.0,700.0,1400.0,210.0,100.0,B,How long is Avenida de Mayo in the Buenos Aires area?
+16,9300.0,6200.0,310.0,3100.0,930.0,D,How long is Avenida Del Libertador in the Buenos Aires area?
+17,100.0,1600.0,240.0,800.0,2400.0,D,How long is Cerrito in the Buenos Aires area?
+18,1050.0,3500.0,7000.0,350.0,10500.0,B,How long is Avenida 9 de Julio in the Buenos Aires area?
+19,3100.0,930.0,6200.0,310.0,9300.0,A,How long is Avenida Alicia Moreau de Justo in the Buenos Aires area?
+20,100.0,0.0,0.0,100.0,0.0,E,How long is Encarnación Ezcurra in the Buenos Aires area?
+21,140.0,4200.0,1400.0,420.0,2800.0,C,How long is Avenida Boedo in the Buenos Aires area?
+22,2400.0,240.0,1600.0,100.0,800.0,E,How long is Avenida Carlos Calvo in the Buenos Aires area?
+23,100.0,1600.0,240.0,800.0,2400.0,D,How long is Avenida Alvear in the Buenos Aires area?
+24,1500.0,100.0,1000.0,500.0,150.0,D,How long is Doctor Ramón Carrillo in the Buenos Aires area?
+25,9400.0,1410.0,14100.0,470.0,4700.0,E,How long is Autopista 25 de Mayo in the Buenos Aires area?
+26,7200.0,2400.0,4800.0,240.0,720.0,B,How long is Avenida Presidente Sarmiento in the Buenos Aires area?
+27,600.0,100.0,300.0,900.0,100.0,C,How long is Avenida Adolfo Berro in the Buenos Aires area?
+28,240.0,720.0,2400.0,4800.0,7200.0,C,How long is Valentín Alsina in the Buenos Aires area?
+29,23400.0,7800.0,2340.0,780.0,15600.0,B,How long is Avenida Cabildo in the Buenos Aires area?
+30,150.0,4500.0,450.0,1500.0,3000.0,D,How long is Manuela Pedraza in the Buenos Aires area?
+31,18900.0,12600.0,6300.0,630.0,1890.0,C,How long is Avenida San Martín in the Buenos Aires area?
+32,300.0,600.0,100.0,900.0,100.0,A,How long is Miguel Ángel in the Buenos Aires area?
+33,180.0,3600.0,1800.0,540.0,5400.0,C,How long is Avenida Patricias Argentinas in the Buenos Aires area?
+34,9300.0,310.0,3100.0,6200.0,930.0,C,How long is Avenida Díaz Vélez in the Buenos Aires area?
+35,17000.0,5100.0,51000.0,1700.0,34000.0,A,How long is Avenida Juan Bautista Justo in the Buenos Aires area?
+36,100.0,210.0,700.0,2100.0,1400.0,C,How long is Avenida Canónigo Miguel del Corro in the Buenos Aires area?
+37,100.0,2000.0,1000.0,3000.0,300.0,C,How long is Doctor Enrique Finochietto in the Buenos Aires area?
+38,0.0,100.0,0.0,0.0,100.0,D,How long is Coronel Ramón Lorenzo Falcón in the Buenos Aires area?
+39,1600.0,100.0,800.0,240.0,2400.0,C,How long is Lacarra in the Buenos Aires area?
+40,19400.0,29100.0,970.0,9700.0,2910.0,D,How long is Avenida Rivadavia in the Buenos Aires area?
+41,4800.0,480.0,1440.0,14400.0,9600.0,A,How long is Jerónimo Salguero in the Buenos Aires area?
+42,220.0,2200.0,660.0,6600.0,4400.0,B,How long is Avenida Casares in the Buenos Aires area?
+43,100.0,600.0,100.0,200.0,400.0,D,How long is Osorio in the Buenos Aires area?
+44,150.0,1000.0,1500.0,500.0,100.0,D,How long is Avenida Pichincha in the Buenos Aires area?
+45,300.0,100.0,200.0,100.0,100.0,E,How long is Pichincha in the Buenos Aires area?
+46,300.0,100.0,900.0,100.0,600.0,A,How long is Boulevard Rosario Vera Peñaloza in the Buenos Aires area?
+47,100.0,600.0,300.0,900.0,100.0,C,How long is Rosario Vera Peñaloza in the Buenos Aires area?
+48,100.0,100.0,100.0,200.0,300.0,C,How long is Nicasio Oroño in the Buenos Aires area?
+49,4200.0,6300.0,2100.0,210.0,630.0,C,How long is Puente Gerónimo Saccardi in the Buenos Aires area?
+50,100.0,100.0,600.0,200.0,400.0,D,How long is Yerbal in the Buenos Aires area?
+51,100.0,1400.0,210.0,2100.0,700.0,E,How long is José Hernández in the Buenos Aires area?
+52,840.0,8400.0,2800.0,5600.0,280.0,C,How long is Avenida Doctor Ricardo Balbín in the Buenos Aires area?
+53,190.0,3800.0,1900.0,570.0,5700.0,C,How long is Autopista Perito Moreno in the Buenos Aires area?
+54,4800.0,240.0,2400.0,7200.0,720.0,C,How long is General Hornos in the Buenos Aires area?
+55,160.0,3200.0,4800.0,1600.0,480.0,D,How long is Autopista Presidente Arturo Frondizi in the Buenos Aires area?
+56,5400.0,540.0,1800.0,3600.0,180.0,C,How long is Avenida Parque Roberto Goyeneche in the Buenos Aires area?
+57,340.0,6800.0,1020.0,3400.0,10200.0,D,How long is Avenida Presidente Figueroa Alcorta in the Buenos Aires area?
+58,300.0,100.0,100.0,100.0,200.0,D,How long is Intendente Güiraldes in the Buenos Aires area?
+59,600.0,100.0,200.0,400.0,100.0,C,How long is Avenida Intendente Cantilo in the Buenos Aires area?
+60,100.0,2100.0,1400.0,700.0,210.0,D,How long is Avenida La Pampa in the Buenos Aires area?
+61,3800.0,190.0,5700.0,570.0,1900.0,E,How long is Avenida Lafuente in the Buenos Aires area?
+62,11700.0,1170.0,7800.0,3900.0,390.0,D,How long is Avenida Eva Perón in the Buenos Aires area?
+63,150.0,3000.0,1500.0,4500.0,450.0,C,How long is Del Barco Centenera in the Buenos Aires area?
+64,2800.0,420.0,1400.0,4200.0,140.0,C,How long is Avenida Antártida Argentina in the Buenos Aires area?
+65,100.0,300.0,900.0,100.0,600.0,B,How long is Avenida de los Inmigrantes in the Buenos Aires area?
+66,2100.0,630.0,210.0,4200.0,6300.0,A,How long is Autopista Arturo Illia in the Buenos Aires area?
+67,260.0,2600.0,7800.0,5200.0,780.0,B,How long is Avenida Intendente Hernán M. Giralt in the Buenos Aires area?
+68,100.0,100.0,200.0,400.0,600.0,C,How long is Macacha Güemes in the Buenos Aires area?
+69,0.0,100.0,0.0,100.0,0.0,E,How long is 10 de Diciembre de 1983 in the Buenos Aires area?
+70,600.0,300.0,100.0,100.0,900.0,B,How long is Viaducto Carranza in the Buenos Aires area?
+71,210.0,700.0,1400.0,2100.0,100.0,B,How long is Avenida Boyacá in the Buenos Aires area?
+72,3600.0,540.0,5400.0,1800.0,180.0,D,How long is Boyacá in the Buenos Aires area?
+73,2300.0,6900.0,690.0,230.0,4600.0,A,How long is Avenida Elcano in the Buenos Aires area?
+74,7600.0,11400.0,1140.0,380.0,3800.0,E,How long is Avenida de los Incas in the Buenos Aires area?
+75,200.0,100.0,100.0,300.0,100.0,E,How long is Autopista Teniente General Luis Dellepiane in the Buenos Aires area?
+76,1400.0,210.0,700.0,100.0,2100.0,C,How long is Avenida Virrey Vértiz in the Buenos Aires area?
+77,180.0,1800.0,600.0,100.0,1200.0,C,How long is Avenida La Rábida in the Buenos Aires area?
+78,2000.0,600.0,4000.0,200.0,6000.0,A,How long is Avenida Leandro N. Alem in the Buenos Aires area?
+79,900.0,100.0,100.0,600.0,300.0,E,How long is Chonino in the Buenos Aires area?
+80,100.0,1000.0,2000.0,3000.0,300.0,B,How long is Avenida General Eugenio Garzón in the Buenos Aires area?
+81,410.0,4100.0,1230.0,8200.0,12300.0,B,How long is Avenida Escalada in the Buenos Aires area?
+82,600.0,100.0,400.0,200.0,100.0,D,How long is Avenida Manuel Ricardo Trelles in the Buenos Aires area?
+83,3000.0,450.0,4500.0,1500.0,150.0,D,How long is Manuel Ricardo Trelles in the Buenos Aires area?
+84,2600.0,780.0,7800.0,5200.0,260.0,A,How long is Teniente General Donato Álvarez in the Buenos Aires area?
+85,8000.0,12000.0,4000.0,1200.0,400.0,C,How long is Avenida Corrientes in the Buenos Aires area?
+86,6600.0,4400.0,220.0,660.0,2200.0,E,How long is Avenida Pedro Goyena in the Buenos Aires area?
+87,640.0,6400.0,19200.0,12800.0,1920.0,B,How long is Avenida Juan Bautista Alberdi in the Buenos Aires area?
+88,210.0,2100.0,630.0,6300.0,4200.0,B,How long is Avenida Avellaneda in the Buenos Aires area?
+89,3000.0,100.0,2000.0,1000.0,300.0,D,How long is Avenida Callao in the Buenos Aires area?
+90,100.0,100.0,600.0,200.0,400.0,D,How long is Avenida Presidente Manuel Quintana in the Buenos Aires area?
+91,240.0,2400.0,1600.0,100.0,800.0,E,How long is Avenida de los Ombúes in the Buenos Aires area?
+92,7200.0,720.0,4800.0,2400.0,240.0,D,How long is Avenida Crámer in the Buenos Aires area?
+93,800.0,1600.0,240.0,100.0,2400.0,A,How long is Virrey Del Pino in the Buenos Aires area?
+94,150.0,500.0,100.0,1500.0,1000.0,B,How long is Olazábal in the Buenos Aires area?
+95,200.0,400.0,100.0,100.0,600.0,A,How long is Superí in the Buenos Aires area?
+96,5000.0,2500.0,750.0,250.0,7500.0,B,How long is Avenida Belgrano in the Buenos Aires area?
+97,110.0,330.0,1100.0,3300.0,2200.0,C,How long is Avenida Martín García in the Buenos Aires area?
+98,130.0,390.0,1300.0,2600.0,3900.0,C,How long is Avenida Ruiz Huidobro in the Buenos Aires area?
+99,4200.0,140.0,1400.0,420.0,2800.0,C,How long is Avenida Entre Ríos in the Buenos Aires area?
+100,400.0,120.0,1200.0,100.0,800.0,A,How long is Hipólito Yrigoyen in the Buenos Aires area?
+101,220.0,4400.0,6600.0,2200.0,660.0,D,How long is Avenida Carrasco in the Buenos Aires area?
+102,200.0,100.0,100.0,100.0,300.0,D,How long is General César Díaz in the Buenos Aires area?
+103,2300.0,230.0,4600.0,6900.0,690.0,A,How long is Avenida Gaona in the Buenos Aires area?
+104,390.0,130.0,3900.0,1300.0,2600.0,D,How long is Sanabria in the Buenos Aires area?
+105,100.0,100.0,200.0,300.0,100.0,E,How long is San Martín in the Buenos Aires area?
+106,4000.0,1200.0,400.0,12000.0,8000.0,A,How long is Avenida Luis María Campos in the Buenos Aires area?
+107,210.0,2100.0,700.0,1400.0,100.0,C,How long is Avenida Eduardo Madero in the Buenos Aires area?
+108,150.0,500.0,1500.0,1000.0,100.0,B,How long is Bauness in the Buenos Aires area?
+109,100.0,200.0,100.0,100.0,300.0,D,How long is Doctor Pedro Ignacio Rivera in the Buenos Aires area?
+110,1110.0,370.0,11100.0,7400.0,3700.0,E,How long is Avenida General Las Heras in the Buenos Aires area?
+111,500.0,1500.0,100.0,1000.0,150.0,A,How long is Avenida Ángel Gallardo in the Buenos Aires area?
+112,530.0,10600.0,5300.0,1590.0,15900.0,C,How long is Avenida Warnes in the Buenos Aires area?
+113,600.0,900.0,300.0,100.0,100.0,C,How long is Avenida Honduras in the Buenos Aires area?
+114,100.0,300.0,900.0,600.0,100.0,B,How long is Medrano in the Buenos Aires area?
+115,100.0,200.0,100.0,300.0,100.0,E,How long is Boedo in the Buenos Aires area?
+116,200.0,100.0,100.0,100.0,300.0,D,How long is Díaz Colodrero in the Buenos Aires area?
+117,150.0,500.0,100.0,1500.0,1000.0,B,How long is Avenida Franklin Delano Roosevelt in the Buenos Aires area?
+118,3800.0,1140.0,11400.0,7600.0,380.0,A,How long is Avenida Congreso in the Buenos Aires area?
+119,900.0,2700.0,1800.0,100.0,270.0,A,How long is Lima in the Buenos Aires area?
+120,5200.0,15600.0,1560.0,10400.0,520.0,A,How long is Avenida Caseros in the Buenos Aires area?
+121,750.0,250.0,2500.0,7500.0,5000.0,C,How long is Avenida Independencia in the Buenos Aires area?
+122,630.0,6300.0,4200.0,210.0,2100.0,E,How long is Segurola in the Buenos Aires area?
+123,430.0,8600.0,12900.0,1290.0,4300.0,E,How long is Avenida Chiclana in the Buenos Aires area?
+124,200.0,100.0,600.0,400.0,100.0,A,How long is Avenida Sánchez de Loria in the Buenos Aires area?
+125,700.0,21000.0,7000.0,2100.0,14000.0,C,How long is Avenida Don Pedro de Mendoza in the Buenos Aires area?
+126,100.0,200.0,100.0,400.0,600.0,B,How long is Avenida Emilio Castro in the Buenos Aires area?
+127,6900.0,2300.0,690.0,230.0,4600.0,B,How long is Manuel Ugarte in the Buenos Aires area?
+128,0.0,0.0,100.0,100.0,0.0,E,How long is Nahuel Huapi in the Buenos Aires area?
+129,15600.0,520.0,5200.0,10400.0,1560.0,C,How long is Avenida Córdoba in the Buenos Aires area?
+130,420.0,140.0,2800.0,4200.0,1400.0,E,How long is Nogoyá in the Buenos Aires area?
+131,360.0,1200.0,3600.0,120.0,2400.0,B,How long is Avenida del Campo in the Buenos Aires area?
+132,15200.0,7600.0,760.0,2280.0,22800.0,B,How long is Avenida de los Constituyentes in the Buenos Aires area?
+133,500.0,100.0,1000.0,1500.0,150.0,A,How long is Avenida Guzmán in the Buenos Aires area?
+134,9300.0,310.0,930.0,3100.0,6200.0,D,How long is Avenida Federico Lacroze in the Buenos Aires area?
+135,200.0,600.0,400.0,100.0,100.0,A,How long is Avenida Crucero Belgrano in the Buenos Aires area?
+136,16000.0,2400.0,800.0,8000.0,24000.0,D,How long is Avenida Costanera Rafael Obligado in the Buenos Aires area?
+137,810.0,2700.0,270.0,8100.0,5400.0,B,How long is Mariano Acosta in the Buenos Aires area?
+138,3000.0,450.0,1500.0,150.0,4500.0,C,How long is Avenida Lacarra in the Buenos Aires area?
+139,9600.0,14400.0,480.0,4800.0,1440.0,D,How long is Avenida Francisco Bilbao in the Buenos Aires area?
+140,36300.0,12100.0,3630.0,1210.0,24200.0,B,How long is Avenida Amancio Alcorta in the Buenos Aires area?
+141,150.0,100.0,1000.0,1500.0,500.0,E,How long is Avenida Leopoldo Marechal in the Buenos Aires area?
+142,480.0,9600.0,4800.0,14400.0,1440.0,C,How long is Monroe in the Buenos Aires area?
+143,100.0,1200.0,1800.0,180.0,600.0,E,How long is Avenida Comodoro Py in the Buenos Aires area?
+144,210.0,100.0,700.0,1400.0,2100.0,C,How long is Avenida Doctor José María Ramos Mejía in the Buenos Aires area?
+145,5100.0,1700.0,170.0,510.0,3400.0,B,How long is Autopista Doctor Ricardo Balbín in the Buenos Aires area?
+146,7200.0,360.0,3600.0,10800.0,1080.0,C,How long is Paseo del Bajo - Presidente Dr. Raúl R. Alfonsín in the Buenos Aires area?
+147,5800.0,8700.0,290.0,2900.0,870.0,D,How long is Avenida Doctor Honorio Pueyrredón in the Buenos Aires area?
+148,500.0,150.0,100.0,1000.0,1500.0,A,How long is Varela in the Buenos Aires area?
+149,100.0,1200.0,800.0,400.0,120.0,D,How long is Coronel Apolinario Figueroa in the Buenos Aires area?
+150,900.0,100.0,100.0,600.0,300.0,E,How long is Ecuador in the Buenos Aires area?
+151,170.0,510.0,3400.0,1700.0,5100.0,D,How long is Avenida Paseo Colón in the Buenos Aires area?
+152,500.0,15000.0,1500.0,10000.0,5000.0,E,How long is Avenida San Juan in the Buenos Aires area?
+153,1500.0,1000.0,150.0,100.0,500.0,E,How long is Cecilia Grierson in the Buenos Aires area?
+154,6400.0,3200.0,320.0,960.0,9600.0,B,How long is Álvarez Jonte in the Buenos Aires area?
+155,630.0,6300.0,4200.0,2100.0,210.0,D,How long is Gavilán in the Buenos Aires area?
+156,1000.0,150.0,500.0,100.0,1500.0,C,How long is Avenida Almafuerte in the Buenos Aires area?
+157,310.0,930.0,9300.0,6200.0,3100.0,E,How long is Avenida Presidente Ramón S. Castillo in the Buenos Aires area?
+158,400.0,100.0,600.0,100.0,200.0,E,How long is Avenida Maipú in the Buenos Aires area?
+159,570.0,3800.0,1900.0,190.0,5700.0,C,How long is Avenida General Francisco Fernández de La Cruz in the Buenos Aires area?
+160,1080.0,10800.0,7200.0,360.0,3600.0,E,How long is Avellaneda in the Buenos Aires area?
+161,100.0,200.0,100.0,400.0,600.0,B,How long is Avenida General Paz in the Buenos Aires area?
+162,100.0,1400.0,210.0,2100.0,700.0,E,How long is Carlos Pellegrini in the Buenos Aires area?
+163,4200.0,1400.0,2800.0,420.0,140.0,B,How long is Avenida Intendente Bullrich in the Buenos Aires area?
+164,170.0,1700.0,5100.0,510.0,3400.0,B,How long is Avenida Pueyrredón in the Buenos Aires area?
+165,960.0,9600.0,320.0,3200.0,6400.0,D,How long is Crisólogo Larralde in the Buenos Aires area?
+166,100.0,800.0,1200.0,400.0,120.0,D,How long is Avenida Bruix in the Buenos Aires area?
+167,100.0,0.0,100.0,0.0,0.0,E,How long is Bermúdez in the Buenos Aires area?
+168,800.0,2400.0,100.0,240.0,1600.0,A,How long is Avenida Juramento in the Buenos Aires area?
+169,5700.0,3800.0,1900.0,190.0,570.0,C,How long is Combate de los Pozos in the Buenos Aires area?
+170,100.0,0.0,0.0,100.0,0.0,E,How long is Gabriela González Gass in the Buenos Aires area?
+171,9000.0,900.0,300.0,3000.0,6000.0,D,How long is Avenida Juan de Garay in the Buenos Aires area?
+172,400.0,100.0,600.0,200.0,100.0,D,How long is Lima Oeste in the Buenos Aires area?
+173,10800.0,7200.0,360.0,1080.0,3600.0,E,How long is Avenida España in the Buenos Aires area?
+174,390.0,3900.0,2600.0,1300.0,130.0,D,How long is Avenida Ingeniero Huergo in the Buenos Aires area?
+175,1500.0,150.0,100.0,1000.0,500.0,E,How long is Emilio Castro in the Buenos Aires area?
+176,1500.0,150.0,500.0,1000.0,100.0,C,How long is Alberto Chejolán in the Buenos Aires area?
+177,6800.0,3400.0,10200.0,340.0,1020.0,B,How long is Avenida Directorio in the Buenos Aires area?
+178,1200.0,120.0,360.0,2400.0,3600.0,A,How long is Portela in the Buenos Aires area?
+179,400.0,120.0,100.0,1200.0,800.0,A,How long is Avenida Castro Barros in the Buenos Aires area?
+180,540.0,3600.0,1800.0,180.0,5400.0,C,How long is Calle 12 in the Buenos Aires area?
+181,9000.0,300.0,900.0,3000.0,6000.0,D,How long is Avenida Varela in the Buenos Aires area?
+182,2000.0,200.0,600.0,6000.0,4000.0,A,How long is Avenida Castañares in the Buenos Aires area?
+183,160.0,480.0,1600.0,3200.0,4800.0,C,How long is General José Gervasio Artigas in the Buenos Aires area?
+184,210.0,2100.0,630.0,4200.0,6300.0,B,How long is Avenida Hipólito Yrigoyen in the Buenos Aires area?
+185,480.0,4800.0,160.0,3200.0,1600.0,E,How long is Avenida Riestra in the Buenos Aires area?
+186,15000.0,10000.0,1500.0,5000.0,500.0,D,How long is La Pampa in the Buenos Aires area?
+187,2200.0,660.0,220.0,4400.0,6600.0,A,How long is Nazca in the Buenos Aires area?
+188,5000.0,7500.0,250.0,2500.0,750.0,D,How long is Avenida Olivera in the Buenos Aires area?
+189,100.0,600.0,100.0,200.0,400.0,D,How long is Avenida Tilcara in the Buenos Aires area?
+190,2100.0,210.0,100.0,700.0,1400.0,D,How long is Crámer in the Buenos Aires area?
+191,10800.0,3600.0,7200.0,360.0,1080.0,B,How long is Avenida Coronel Esteban Bonorino in the Buenos Aires area?
+192,100.0,240.0,1600.0,800.0,2400.0,D,How long is Hipólito Vieytes in the Buenos Aires area?
+193,3300.0,110.0,330.0,1100.0,2200.0,D,How long is Avenida Vélez Sársfield in the Buenos Aires area?
+194,1400.0,210.0,700.0,100.0,2100.0,C,How long is Avenida del Barco Centenera in the Buenos Aires area?
+195,4800.0,240.0,720.0,7200.0,2400.0,E,How long is Avenida Francisco Beiró in the Buenos Aires area?
+196,5800.0,290.0,2900.0,8700.0,870.0,C,How long is Avenida Salvador María del Carril in the Buenos Aires area?
+197,500.0,1000.0,150.0,1500.0,100.0,A,How long is Avenida Monroe in the Buenos Aires area?
+198,7600.0,380.0,1140.0,11400.0,3800.0,E,How long is Avenida Nazca in the Buenos Aires area?
+199,100.0,200.0,600.0,100.0,400.0,B,How long is Avenida Corea in the Buenos Aires area?
+200,7400.0,370.0,1110.0,3700.0,11100.0,D,How long is Avenida Carabobo in the Buenos Aires area?
+201,330.0,2200.0,3300.0,110.0,1100.0,E,How long is Avenida San Pedrito in the Buenos Aires area?
+202,3200.0,480.0,160.0,4800.0,1600.0,E,How long is Avenida Cobo in the Buenos Aires area?
+203,100.0,900.0,300.0,100.0,600.0,C,How long is Avenida Daract in the Buenos Aires area?
+204,4600.0,2300.0,6900.0,690.0,230.0,B,How long is Avenida José María Moreno in the Buenos Aires area?
+205,3200.0,1600.0,4800.0,160.0,480.0,B,How long is Avenida Asamblea in the Buenos Aires area?
+206,800.0,100.0,1600.0,2400.0,240.0,A,How long is Avenida Pavón in the Buenos Aires area?
+207,6600.0,220.0,660.0,4400.0,2200.0,E,How long is Avenida La Plata in the Buenos Aires area?
+208,180.0,600.0,100.0,1200.0,1800.0,B,How long is Avenida Calabria in the Buenos Aires area?
+209,0.0,100.0,0.0,0.0,100.0,D,How long is Padre M. L. Migone in the Buenos Aires area?
+210,250.0,750.0,2500.0,5000.0,7500.0,C,How long is Avenida de los Italianos in the Buenos Aires area?
+211,400.0,12000.0,4000.0,1200.0,8000.0,C,How long is Avenida Brasil in the Buenos Aires area?
+212,3100.0,310.0,9300.0,6200.0,930.0,A,How long is Avenida Triunvirato in the Buenos Aires area?
+213,100.0,300.0,100.0,200.0,100.0,E,How long is Huergo in the Buenos Aires area?
+214,100.0,600.0,1200.0,180.0,1800.0,B,How long is Avenida Cerviño in the Buenos Aires area?
+215,2700.0,270.0,900.0,100.0,1800.0,C,How long is Avenida Olleros in the Buenos Aires area?
+216,250.0,750.0,2500.0,5000.0,7500.0,C,How long is Avenida Perito Moreno in the Buenos Aires area?
+217,2400.0,240.0,1600.0,100.0,800.0,E,How long is Tilcara in the Buenos Aires area?
+218,270.0,100.0,1800.0,2700.0,900.0,E,How long is Avenida Curapaligüe in the Buenos Aires area?
+219,100.0,2700.0,900.0,270.0,1800.0,C,How long is Doctor Juan Felipe Aranguren in the Buenos Aires area?
+220,6600.0,4400.0,2200.0,220.0,660.0,C,How long is Avenida Sáenz in the Buenos Aires area?
+221,180.0,1800.0,600.0,1200.0,100.0,C,How long is Azucena Villaflor in the Buenos Aires area?
+222,320.0,3200.0,6400.0,9600.0,960.0,B,How long is Padre Carlos Mugica in the Buenos Aires area?
+223,3000.0,100.0,1000.0,2000.0,300.0,C,How long is Avenida Presidente Roque Sáenz Peña in the Buenos Aires area?
+224,2800.0,140.0,420.0,4200.0,1400.0,E,How long is Bernardo de Irigoyen in the Buenos Aires area?
+225,6000.0,600.0,4000.0,2000.0,200.0,D,How long is Avenida Suárez in the Buenos Aires area?
+226,8100.0,5400.0,810.0,2700.0,270.0,D,How long is Avenida Australia in the Buenos Aires area?
+227,0.0,0.0,100.0,0.0,100.0,D,How long is Murillo in the Buenos Aires area?
+228,150.0,3000.0,4500.0,450.0,1500.0,E,How long is Avenida Raúl Scalabrini Ortiz in the Buenos Aires area?
+229,100.0,300.0,200.0,100.0,100.0,E,How long is Renée Slotopolsky de Epelbaum in the Buenos Aires area?
+230,200.0,100.0,100.0,100.0,300.0,D,How long is Avenida Colombia in the Buenos Aires area?
+231,4600.0,690.0,6900.0,2300.0,230.0,D,How long is Avenida Belisario Roldán in the Buenos Aires area?
+232,150.0,1000.0,100.0,1500.0,500.0,E,How long is Avenida Costanera Doctor Tristán Achával Rodríguez in the Buenos Aires area?
+233,100.0,1800.0,2700.0,270.0,900.0,E,How long is Avenida Benito Pérez Galdós in the Buenos Aires area?
+234,4200.0,420.0,140.0,2800.0,1400.0,E,How long is Emilio Mitre in the Buenos Aires area?
+235,100.0,2000.0,1000.0,300.0,3000.0,C,How long is Avenida Acoyte in the Buenos Aires area?
+236,330.0,3300.0,1100.0,2200.0,110.0,C,How long is Rosario in the Buenos Aires area?
+237,210.0,2100.0,1400.0,100.0,700.0,E,How long is Aimé Painé in the Buenos Aires area?
+238,1100.0,110.0,330.0,3300.0,2200.0,A,How long is Rodríguez Peña in the Buenos Aires area?
+239,600.0,900.0,300.0,100.0,100.0,C,How long is Avenida Vernet in the Buenos Aires area?
+240,100.0,100.0,900.0,600.0,300.0,E,How long is Remedios in the Buenos Aires area?
+241,210.0,700.0,100.0,1400.0,2100.0,B,How long is Herrera in the Buenos Aires area?
+242,3600.0,360.0,120.0,1200.0,2400.0,D,How long is Avenida Elvira Rawson de Dellepiane in the Buenos Aires area?
+243,800.0,1600.0,100.0,240.0,2400.0,A,How long is Julieta Lanteri in the Buenos Aires area?
+244,400.0,100.0,800.0,120.0,1200.0,A,How long is Avenida General Mosconi in the Buenos Aires area?
+245,300.0,900.0,100.0,600.0,100.0,A,How long is Lima Este in the Buenos Aires area?
+246,0.0,0.0,0.0,100.0,100.0,C,How long is Avenida Bernardo de Irigoyen in the Buenos Aires area?
+247,4400.0,660.0,2200.0,220.0,6600.0,C,How long is Avenida Manuel Augusto Montes de Oca in the Buenos Aires area?
+248,1300.0,2600.0,130.0,390.0,3900.0,A,How long is Avenida Almirante Brown in the Buenos Aires area?
+249,360.0,120.0,2400.0,1200.0,3600.0,D,How long is Puente Nicolás Avellaneda in the Buenos Aires area?
+250,13200.0,4400.0,1320.0,440.0,8800.0,B,How long is Avenida Regimiento de Patricios in the Buenos Aires area?
+251,100.0,0.0,0.0,0.0,100.0,D,How long is Gilardo Gilardi in the Buenos Aires area?
+252,140.0,420.0,4200.0,1400.0,2800.0,D,How long is Balbastro in the Buenos Aires area?
+253,900.0,300.0,100.0,600.0,100.0,B,How long is Avenida Garmendia in the Buenos Aires area?
+254,120.0,360.0,2400.0,3600.0,1200.0,E,How long is Avenida Jujuy in the Buenos Aires area?
+255,170.0,5100.0,1700.0,510.0,3400.0,C,How long is Avenida General Iriarte in the Buenos Aires area?
+256,10200.0,1020.0,6800.0,340.0,3400.0,E,How long is Avenida Jorge Newbery in the Buenos Aires area?
+257,240.0,100.0,800.0,2400.0,1600.0,C,How long is Avenida Coronel Díaz in the Buenos Aires area?
+258,2400.0,1600.0,240.0,100.0,800.0,E,How long is Salta in the Buenos Aires area?
+259,600.0,100.0,400.0,200.0,100.0,D,How long is Avenida John Fitzgerald Kennedy in the Buenos Aires area?
+260,900.0,600.0,100.0,300.0,100.0,D,How long is Avenida Colonia in the Buenos Aires area?
+261,100.0,0.0,0.0,0.0,100.0,D,How long is Baigorria in the Buenos Aires area?
+262,130.0,2600.0,390.0,1300.0,3900.0,D,How long is Galván in the Buenos Aires area?
+263,4800.0,3200.0,1600.0,160.0,480.0,C,How long is Avenida Ernesto Tornquist in the Buenos Aires area?
+264,3000.0,2000.0,100.0,1000.0,300.0,D,How long is Venezuela in the Buenos Aires area?
+265,15000.0,10000.0,1500.0,500.0,5000.0,E,How long is Juana Manso in the Buenos Aires area?
+266,420.0,140.0,4200.0,1400.0,2800.0,D,How long is Cuenca in the Buenos Aires area?
+267,4800.0,14400.0,1440.0,9600.0,480.0,A,How long is Juan Agustín García in the Buenos Aires area?
+268,2000.0,4000.0,600.0,200.0,6000.0,A,How long is Suárez in the Buenos Aires area?
+269,300.0,100.0,200.0,100.0,100.0,E,How long is Teniente General Juan Domingo Perón in the Buenos Aires area?
+270,480.0,1600.0,160.0,4800.0,3200.0,B,How long is Brasil in the Buenos Aires area?
+271,800.0,120.0,1200.0,100.0,400.0,E,How long is Avenida Teniente General Donato Álvarez in the Buenos Aires area?
+272,270.0,2700.0,100.0,900.0,1800.0,D,How long is Ávalos in the Buenos Aires area?
+273,5100.0,3400.0,510.0,1700.0,170.0,D,How long is Punta Arenas in the Buenos Aires area?
+274,700.0,1400.0,2100.0,210.0,100.0,A,How long is Fray Cayetano Rodríguez in the Buenos Aires area?
+275,210.0,2100.0,700.0,1400.0,100.0,C,How long is Mercedes in the Buenos Aires area?
+276,100.0,100.0,900.0,300.0,600.0,D,How long is Avenida Presidente Julio A. Roca in the Buenos Aires area?
+277,100.0,0.0,0.0,100.0,0.0,E,How long is Constitución in the Buenos Aires area?
+278,210.0,1400.0,2100.0,100.0,700.0,E,How long is Juramento in the Buenos Aires area?
+279,600.0,100.0,200.0,100.0,400.0,C,How long is Córdoba in the Buenos Aires area?
+280,2700.0,100.0,270.0,900.0,1800.0,D,How long is Congreso in the Buenos Aires area?
+281,100.0,200.0,300.0,100.0,100.0,E,How long is Blanco Encalada in the Buenos Aires area?
+282,400.0,800.0,120.0,100.0,1200.0,A,How long is Avenida Donado in the Buenos Aires area?
+283,100.0,200.0,100.0,100.0,300.0,D,How long is Marta Lynch in the Buenos Aires area?
+284,180.0,1800.0,1200.0,600.0,100.0,D,How long is Andrés Bello in the Buenos Aires area?
+285,100.0,100.0,600.0,900.0,300.0,E,How long is Túnel Gustavo Cerati in the Buenos Aires area?
+286,5100.0,170.0,1700.0,510.0,3400.0,C,How long is Avenida Doctor Rómulo Naón in the Buenos Aires area?
+287,400.0,200.0,100.0,600.0,100.0,B,How long is Defensa in the Buenos Aires area?
+288,5800.0,2900.0,8700.0,290.0,870.0,B,How long is Pavón in the Buenos Aires area?
+289,300.0,100.0,900.0,100.0,600.0,A,How long is Castro Barros in the Buenos Aires area?
+290,600.0,100.0,900.0,100.0,300.0,E,How long is Morelos in the Buenos Aires area?
+291,800.0,240.0,2400.0,1600.0,100.0,A,How long is Acoyte in the Buenos Aires area?
+292,1300.0,2600.0,3900.0,130.0,390.0,A,How long is Riobamba in the Buenos Aires area?
+293,1000.0,500.0,150.0,100.0,1500.0,B,How long is Avenida Valentín Alsina in the Buenos Aires area?
+294,100.0,200.0,400.0,100.0,600.0,B,How long is Treinta y Tres Orientales in the Buenos Aires area?
+295,800.0,100.0,1200.0,400.0,120.0,D,How long is Luis Viale in the Buenos Aires area?
+296,200.0,400.0,600.0,100.0,100.0,A,How long is Avenida Teniente General Luís Dellepiane in the Buenos Aires area?
+297,2700.0,900.0,270.0,1800.0,100.0,B,How long is Bartolomé Mitre in the Buenos Aires area?
+298,2700.0,100.0,270.0,1800.0,900.0,E,How long is Avenida Medrano in the Buenos Aires area?
+299,100.0,0.0,100.0,0.0,0.0,E,How long is Paz Soldán in the Buenos Aires area?
+300,200.0,300.0,100.0,100.0,100.0,E,How long is Zamudio in the Buenos Aires area?
+301,600.0,200.0,400.0,100.0,100.0,B,How long is Tandil in the Buenos Aires area?
+302,400.0,100.0,120.0,800.0,1200.0,A,How long is Pedernera in the Buenos Aires area?
+303,100.0,0.0,0.0,0.0,100.0,D,How long is Arturo Antonio Dresco in the Buenos Aires area?
+304,0.0,100.0,100.0,0.0,0.0,E,How long is Trinidad Guevara in the Buenos Aires area?
+305,200.0,100.0,100.0,100.0,300.0,D,How long is Río Cuarto in the Buenos Aires area?
+306,100.0,200.0,600.0,400.0,100.0,B,How long is Cavia in the Buenos Aires area?
+307,0.0,0.0,100.0,0.0,100.0,D,How long is Emilio Pettorutti in the Buenos Aires area?
+308,2500.0,7500.0,750.0,250.0,5000.0,A,How long is Lascano in the Buenos Aires area?
+309,900.0,300.0,100.0,100.0,600.0,B,How long is Leopoldo Marechal in the Buenos Aires area?
+310,900.0,300.0,100.0,100.0,600.0,B,How long is Vilela in the Buenos Aires area?
+311,0.0,0.0,100.0,0.0,100.0,D,How long is Lafuente in the Buenos Aires area?
+312,100.0,0.0,0.0,100.0,0.0,E,How long is Virrey Melo in the Buenos Aires area?
+313,270.0,100.0,1800.0,2700.0,900.0,E,How long is Paso Bajo Nivel Balbin Gatica - Goyeneche in the Buenos Aires area?
+314,100.0,210.0,700.0,1400.0,2100.0,C,How long is Azopardo in the Buenos Aires area?
+315,100.0,200.0,100.0,300.0,100.0,E,How long is Acceso Presidente Perón in the Buenos Aires area?

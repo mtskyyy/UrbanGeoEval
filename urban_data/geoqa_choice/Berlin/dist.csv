@@ -1,0 +1,474 @@
+id,question,answer,A,B,C,D
+0,"What is the distance between ""Shakespeareplatz"" and ""Kiezsporthalle Alfred-Döblin-Straße"" in the Berlin area?",B,22.94,17.23,20.79,15.72
+1,"What is the distance between ""KGA Dreieck Nord"" and ""3"" in the Berlin area?",D,7.54,11.52,3.24,9.76
+2,"What is the distance between ""Internistische Praxis Dr. med. Susanne Preiß"" and ""Die mit den Kirschen"" in the Berlin area?",C,4.43,6.24,10.28,2.82
+3,"What is the distance between ""Kiezsporthalle Alfred-Döblin-Straße"" and ""Spreebogenpark"" in the Berlin area?",B,7.58,12.78,10.53,18.03
+4,"What is the distance between ""Casino Berlin"" and ""Soul Kitchen von Sibel"" in the Berlin area?",D,14.63,3.95,14.7,6.91
+5,"What is the distance between ""Am Bülowbogen"" and ""Kita Hausburgviertel"" in the Berlin area?",A,6.74,10.23,14.64,4.41
+6,"What is the distance between ""Unternehmensgruppe Brüder Schlau"" and ""Konrad-Zuse-Schule"" in the Berlin area?",D,11.97,12.5,14.22,6.47
+7,"What is the distance between ""Berlin Greenpark"" and ""Kleingartenkolonie Eschenallee"" in the Berlin area?",B,2.43,5.09,0.74,8.33
+8,"What is the distance between ""Hundeauslaufgebiet Grunewald"" and ""Balli"" in the Berlin area?",A,7.34,2.53,1.23,10.22
+9,"What is the distance between ""Praxisgemeinschaft Moritzplatz"" and ""Chicken Club"" in the Berlin area?",D,9.68,8.98,11.75,3.96
+10,"What is the distance between ""G&S Productions - rock'n'roll music production"" and ""Falafel Jakoub"" in the Berlin area?",C,6.85,7.05,2.64,7.34
+11,"What is the distance between ""Die Lynar"" and ""KGA Nordpol II"" in the Berlin area?",D,5.73,8.58,0.52,2.72
+12,"What is the distance between ""Россия"" and ""Umspannwerk Wedding"" in the Berlin area?",B,4.12,5.71,3.95,9.71
+13,"What is the distance between ""Kita Edgar Berlin"" and ""Yoga Sky Berlin"" in the Berlin area?",C,12.7,12.3,6.67,7.81
+14,"What is the distance between ""Café Answer"" and ""FANKoch"" in the Berlin area?",A,7.71,11.0,2.79,10.0
+15,"What is the distance between ""Herman Belgian Bar"" and ""Cafe Mila"" in the Berlin area?",B,1.71,4.64,8.49,7.82
+16,"What is the distance between ""Heidenpeters"" and ""Hautarztpraxis am Bayerischen Platz"" in the Berlin area?",B,9.38,6.3,1.33,13.99
+17,"What is the distance between ""Sparda-Bank"" and ""Mokalola"" in the Berlin area?",C,7.41,13.72,12.32,15.3
+18,"What is the distance between ""Ionah"" and ""Degussa Bank"" in the Berlin area?",A,6.74,2.83,0.76,3.85
+19,"What is the distance between ""Mega Wraps Döner"" and ""Berliner Volksbank"" in the Berlin area?",B,10.56,7.8,15.7,1.98
+20,"What is the distance between ""Kokoro Dojo"" and ""Sparda-Bank"" in the Berlin area?",D,5.15,5.79,4.1,8.8
+21,"What is the distance between ""Zahnarztpraxis Irina Lin"" and ""Xantener Eck"" in the Berlin area?",C,15.63,8.03,9.17,2.88
+22,"What is the distance between ""Pizzaroni"" and ""Kita 'Wilde 13'"" in the Berlin area?",D,6.95,7.01,6.37,9.17
+23,"What is the distance between ""Verkehrs Campus"" and ""Evangelische Kindertagesstätte"" in the Berlin area?",B,16.52,9.15,5.81,2.74
+24,"What is the distance between ""Pflanzenschutzamt"" and ""Kleingartenanlage Paradies"" in the Berlin area?",C,15.49,4.94,8.37,3.45
+25,"What is the distance between ""Adrijan Smoking Lounge"" and ""Gabriele C. Müller"" in the Berlin area?",A,14.06,15.29,9.42,12.3
+26,"What is the distance between ""My Asia Küche"" and ""Qadmous"" in the Berlin area?",B,15.39,13.62,17.43,12.11
+27,"What is the distance between ""Thai Tasty"" and ""Lipschitzgrill"" in the Berlin area?",D,10.67,18.53,19.16,12.2
+28,"What is the distance between ""Soul Kitchen von Sibel"" and ""Telecenter 24"" in the Berlin area?",B,8.8,4.91,12.6,8.49
+29,"What is the distance between ""Tilda"" and ""The Hat Bar"" in the Berlin area?",C,10.27,15.12,7.34,4.41
+30,"What is the distance between ""Windburger"" and ""Café Info-Station"" in the Berlin area?",C,1.64,0.76,5.79,4.0
+31,"What is the distance between ""Charité-Standort Thielallee/Garystraße"" and ""Am Bülowbogen"" in the Berlin area?",A,8.04,6.53,13.79,13.51
+32,"What is the distance between ""Bärlin Company"" and ""Praxis Dr. med. Tonio Gottlieb"" in the Berlin area?",A,8.92,12.4,5.66,16.85
+33,"What is the distance between ""Max & Moritz"" and ""Istanbul Grill"" in the Berlin area?",D,1.17,10.73,5.77,3.0
+34,"What is the distance between ""Aral"" and ""Anno64"" in the Berlin area?",B,5.35,7.36,14.13,4.22
+35,"What is the distance between ""interkular gGmbH"" and ""Motor-Yacht-Club Tegel e. V."" in the Berlin area?",B,20.3,15.14,9.44,9.09
+36,"What is the distance between ""Zia Maria"" and ""Café Non"" in the Berlin area?",D,5.61,11.38,8.53,10.02
+37,"What is the distance between ""Maide Manti"" and ""Eis-Café Vannini"" in the Berlin area?",A,6.0,11.77,11.17,11.31
+38,"What is the distance between ""Theater o.N."" and ""Zia Maria"" in the Berlin area?",B,5.85,1.22,4.04,3.41
+39,"What is the distance between ""Pizza e Pasta"" and ""Smooches"" in the Berlin area?",B,16.39,9.2,2.55,10.93
+40,"What is the distance between ""tante boukje"" and ""Skatespot Flat @Mauerpark"" in the Berlin area?",D,4.06,4.0,8.09,7.04
+41,"What is the distance between ""Stadtkinder"" and ""Yogi Haus"" in the Berlin area?",A,7.07,5.18,2.72,9.66
+42,"What is the distance between ""Simplay"" and ""Palliativgarten"" in the Berlin area?",D,5.43,13.69,6.36,8.3
+43,"What is the distance between ""Balli"" and ""Königreichssaal Jehovas Zeugen"" in the Berlin area?",C,1.12,12.06,4.15,1.25
+44,"What is the distance between ""Altayeb Grillhaus"" and ""Muro Döner Kebap"" in the Berlin area?",A,4.79,10.08,1.61,12.74
+45,"What is the distance between ""Tandoor Haus"" and ""Praxi Dr. Naoum"" in the Berlin area?",C,8.11,2.52,9.43,6.31
+46,"What is the distance between ""Mehrgenerationshaus Gneisenaustraße"" and ""GinChilla Bar"" in the Berlin area?",C,10.86,9.73,4.36,8.95
+47,"What is the distance between ""Stützrad gGmbH"" and ""Cafe Dostlar"" in the Berlin area?",D,7.53,1.83,6.69,3.48
+48,"What is the distance between ""Schlemmerküche"" and ""Max & Moritz"" in the Berlin area?",D,5.16,13.05,5.26,10.16
+49,"What is the distance between ""KGA am Anger"" and ""Россия"" in the Berlin area?",D,8.13,15.13,14.89,10.65
+50,"What is the distance between ""BücherboXX"" and ""Ficken3000"" in the Berlin area?",A,7.9,14.73,10.09,2.76
+51,"What is the distance between ""Grillstand HBF"" and ""Beim Dicken"" in the Berlin area?",B,7.84,3.37,7.02,10.53
+52,"What is the distance between ""Deutsch-Französischer Kindergarten / Jardin d’enfants franco-allemand"" and ""Friedrichstadt-Passagen (Q 207)"" in the Berlin area?",B,12.04,5.7,12.8,7.56
+53,"What is the distance between ""Coffee House"" and ""Fahrbibliothek Berlin-Mitte, Grundschule am Arkonaplatz"" in the Berlin area?",B,12.74,6.21,8.04,4.33
+54,"What is the distance between ""Euronet"" and ""BücherboXX"" in the Berlin area?",B,7.69,4.78,10.05,9.72
+55,"What is the distance between ""Hautarztpraxis am Bayerischen Platz"" and ""Cadadia"" in the Berlin area?",D,10.21,9.96,0.76,4.28
+56,"What is the distance between ""Kampfkunstwerkstatt"" and ""Charlotte-Wolff-Kolleg"" in the Berlin area?",B,12.29,8.53,10.25,3.96
+57,"What is the distance between ""Vietnam Imbiss"" and ""Windburger"" in the Berlin area?",C,12.31,16.31,8.7,5.18
+58,"What is the distance between ""Madami"" and ""Die Hand"" in the Berlin area?",D,13.83,7.39,11.47,8.67
+59,"What is the distance between ""Auszeit"" and ""Kokoro Dojo"" in the Berlin area?",C,7.73,8.74,1.44,8.82
+60,"What is the distance between ""Perelsplatz"" and ""Søstrene Grene"" in the Berlin area?",B,1.53,5.99,7.02,13.95
+61,"What is the distance between ""See-Tank"" and ""interkular gGmbH"" in the Berlin area?",D,11.63,8.21,6.8,9.36
+62,"What is the distance between ""let's talk about juice!"" and ""KEH Bibliothek"" in the Berlin area?",C,14.18,14.86,8.49,15.04
+63,"What is the distance between ""Amtsgericht Kreuzberg"" and ""BVG Busbetriebshof Müllerstraße"" in the Berlin area?",A,7.36,9.09,11.52,5.65
+64,"What is the distance between ""Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof"" and ""KT"" in the Berlin area?",A,17.91,23.2,14.0,11.15
+65,"What is the distance between ""Isotop"" and ""Mega Wraps Döner"" in the Berlin area?",D,2.79,2.86,4.86,1.33
+66,"What is the distance between ""Sommerbad Mariendorf"" and ""Mediaspree"" in the Berlin area?",A,7.43,13.59,14.2,0.61
+67,"What is the distance between ""Eiscafé Monheim"" and ""Schlesisch Blau"" in the Berlin area?",A,8.44,4.46,6.49,0.8
+68,"What is the distance between ""Kita Cookis"" and ""Kita ""bewegte Kinder e.V."""" in the Berlin area?",C,10.2,12.08,5.63,2.64
+69,"What is the distance between ""KGA Einsamkeit"" and ""Rathauspassagen"" in the Berlin area?",C,13.79,11.59,6.45,13.59
+70,"What is the distance between ""Kleingartenanlage Paradies"" and ""Freiluftkino Rehberge"" in the Berlin area?",A,12.31,14.66,7.52,6.79
+71,"What is the distance between ""Wallaby"" and ""Bavarian"" in the Berlin area?",C,10.42,12.61,5.74,7.57
+72,"What is the distance between ""Nördliche Kalkalpen Laub- und Nadelwaldregion"" and ""Dorfaue"" in the Berlin area?",B,0.74,4.43,1.43,7.83
+73,"What is the distance between ""Yoga Sky Berlin"" and ""Soul Food & Coffee"" in the Berlin area?",D,4.22,3.22,2.99,0.74
+74,"What is the distance between ""Zwei Bären"" and ""Julius"" in the Berlin area?",B,10.13,3.53,10.04,10.56
+75,"What is the distance between ""Eis-Café Vannini"" and ""Aral"" in the Berlin area?",C,12.23,0.62,5.84,2.26
+76,"What is the distance between ""DHL"" and ""Crossroads"" in the Berlin area?",D,4.34,15.11,4.74,11.92
+77,"What is the distance between ""Anno64"" and ""North Andes Coffee"" in the Berlin area?",C,12.12,9.24,7.33,10.63
+78,"What is the distance between ""Curry Junction"" and ""Stock & Stein"" in the Berlin area?",C,6.91,0.75,2.19,7.14
+79,"What is the distance between ""Asia Imbiss Saigon"" and ""Apotheke Q205"" in the Berlin area?",C,7.75,11.67,9.99,3.13
+80,"What is the distance between ""KEH Bibliothek"" and ""My moon"" in the Berlin area?",B,12.44,10.77,14.18,14.67
+81,"What is the distance between ""Inegöl Köftecisi"" and ""Onkologische Schwerpunktpraxis"" in the Berlin area?",B,3.58,1.14,7.92,5.65
+82,"What is the distance between ""Apotheke in der Metropole"" and ""ARZ"" in the Berlin area?",A,15.98,14.32,14.72,19.3
+83,"What is the distance between ""Die Hand"" and ""zia maria"" in the Berlin area?",B,8.56,0.56,1.61,4.9
+84,"What is the distance between ""Zum Elefanten"" and ""Tommy's Tobewelt"" in the Berlin area?",A,7.6,4.68,15.44,9.62
+85,"What is the distance between ""Tasty Döner 63"" and ""Biberstand"" in the Berlin area?",B,4.98,6.36,4.6,2.57
+86,"What is the distance between ""The Kitchen"" and ""soopoollim"" in the Berlin area?",B,9.31,8.02,11.72,2.17
+87,"What is the distance between ""Cadadia"" and ""Eiscafé Monheim"" in the Berlin area?",C,12.73,8.49,5.66,11.05
+88,"What is the distance between ""KomaF"" and ""Dr.med.Viktor Czaika"" in the Berlin area?",B,5.06,9.61,14.84,15.62
+89,"What is the distance between ""Deutsche Bahn"" and ""Katz&Maus"" in the Berlin area?",D,13.68,3.74,4.09,6.45
+90,"What is the distance between ""Pizza e pasta"" and ""Resonanz"" in the Berlin area?",C,4.23,9.45,6.93,13.13
+91,"What is the distance between ""Prinzen-Eck"" and ""Pizza e pasta"" in the Berlin area?",C,7.4,6.45,2.42,9.24
+92,"What is the distance between ""DeBatchi"" and ""Casino Berlin"" in the Berlin area?",D,3.01,8.79,2.7,5.46
+93,"What is the distance between ""29-151"" and ""KITA ""Weiße Taube"""" in the Berlin area?",A,7.65,8.79,4.35,6.34
+94,"What is the distance between ""Kaukasus Bergwald"" and ""Unternehmensgruppe Brüder Schlau"" in the Berlin area?",B,5.8,13.77,6.62,10.25
+95,"What is the distance between ""TA"" and ""Bim & Boom Kinderspielland"" in the Berlin area?",C,11.53,18.41,13.82,8.82
+96,"What is the distance between ""Wohnheim Danckelmannstraße"" and ""Landgericht Berlin"" in the Berlin area?",B,9.05,1.48,8.01,2.79
+97,"What is the distance between ""Bavaria Automobile"" and ""Karl-Förster-Garten"" in the Berlin area?",A,16.58,24.28,21.09,23.64
+98,"What is the distance between ""Motor-Yacht-Club Tegel e. V."" and ""Tilda"" in the Berlin area?",C,16.25,13.23,10.48,2.64
+99,"What is the distance between ""Apotheke Q205"" and ""Pinelli"" in the Berlin area?",C,6.34,12.04,4.59,1.79
+100,"What is the distance between ""Parkplatz für Busse"" and ""Praxis für Allgemeinmedizin"" in the Berlin area?",A,4.38,11.75,8.42,7.44
+101,"What is the distance between ""Bim & Boom Kinderspielland"" and ""KGA Einsamkeit"" in the Berlin area?",C,12.54,2.89,6.71,13.03
+102,"What is the distance between ""Beach Zone Lichtenberg"" and ""Kalyon"" in the Berlin area?",B,9.38,12.18,14.23,17.32
+103,"What is the distance between ""KGA Neuland I"" and ""Polizei Abschnitt 34"" in the Berlin area?",C,20.82,10.41,14.85,9.42
+104,"What is the distance between ""Rosarote Tiger"" and ""KGA Grönland"" in the Berlin area?",A,9.77,14.03,14.23,17.63
+105,"What is the distance between ""Freizeit e.V."" and ""Otto-Nagel-Gymnasium"" in the Berlin area?",A,16.17,10.24,12.07,8.69
+106,"What is the distance between ""Siemens Verwaltungsgebäude"" and ""Fromet-und-Moses-Mendelssohn-Platz"" in the Berlin area?",B,5.44,9.74,12.84,2.89
+107,"What is the distance between ""Freie Universität Berlin Fachbereich Veterinärmedizin"" and ""Waldbühne"" in the Berlin area?",A,9.86,5.72,17.76,8.22
+108,"What is the distance between ""Gigi's Lounge"" and ""Fundbüro"" in the Berlin area?",C,10.76,10.77,8.67,5.38
+109,"What is the distance between ""Atila's Kebap Haus 2"" and ""Caritas Kleiderkammer"" in the Berlin area?",C,8.0,10.64,13.24,6.52
+110,"What is the distance between ""Fahrbibliothek Berlin-Mitte, Grundschule am Arkonaplatz"" and ""Brło Brwhouse"" in the Berlin area?",B,5.94,4.49,2.66,1.32
+111,"What is the distance between ""Amazon Hub Locker"" and ""Zaika"" in the Berlin area?",B,9.22,4.07,2.9,5.16
+112,"What is the distance between ""Skatespot Flat @Mauerpark"" and ""Asia Imbiss"" in the Berlin area?",C,2.75,2.65,4.01,8.99
+113,"What is the distance between ""Ankunftszentrum für Asylsuchende"" and ""Hochschule für Technik und Wirtschaft Berlin Campus Wilhelminenhof"" in the Berlin area?",B,13.13,19.13,14.29,13.17
+114,"What is the distance between ""Heijala-Land"" and ""Ford Ristow"" in the Berlin area?",A,9.17,11.52,11.97,15.8
+115,"What is the distance between ""Konrad-Zuse-Schule"" and ""Inselspitze Stralau"" in the Berlin area?",C,6.06,15.92,11.55,4.76
+116,"What is the distance between ""Lothar Lübke und Brigitte Lübke"" and ""Leben Lernen"" in the Berlin area?",B,7.76,4.13,11.97,12.11
+117,"What is the distance between ""Best of Grill"" and ""Syrtaki"" in the Berlin area?",A,7.01,1.27,8.11,10.7
+118,"What is the distance between ""Feuer- und Rettungswache Zehlendorf"" and ""Fiedler Haustechnik"" in the Berlin area?",C,23.22,21.17,15.82,12.01
+119,"What is the distance between ""Kinderladen Schneckenhaus"" and ""Segafredo"" in the Berlin area?",B,6.6,3.63,0.54,1.98
+120,"What is the distance between ""BVG Busbetriebshof Müllerstraße"" and ""Evangelischer Kirchhof St. Johannis und Heiland"" in the Berlin area?",D,7.66,7.01,6.15,1.84
+121,"What is the distance between ""Lebenshilfe"" and ""Bavaria Automobile"" in the Berlin area?",D,22.9,19.52,21.87,16.76
+122,"What is the distance between ""Zeitenträumer"" and ""Bertha Berlin"" in the Berlin area?",D,3.17,15.19,2.58,9.06
+123,"What is the distance between ""Nem & More"" and ""Curry Junction"" in the Berlin area?",B,1.01,3.18,5.58,8.37
+124,"What is the distance between ""Schule am Schillerpark"" and ""Kita Springmäuse"" in the Berlin area?",D,14.64,23.25,19.4,16.76
+125,"What is the distance between ""Karl-Förster-Garten"" and ""Haus H"" in the Berlin area?",B,18.64,14.44,15.78,19.15
+126,"What is the distance between ""Club der polnischen Versager"" and ""Café Veranda"" in the Berlin area?",A,4.35,2.59,5.63,12.04
+127,"What is the distance between ""KITA ""Weiße Taube"""" and ""Madami"" in the Berlin area?",A,12.28,13.89,7.09,7.48
+128,"What is the distance between ""Fiedler Haustechnik"" and ""B"" in the Berlin area?",B,3.71,7.29,10.37,1.61
+129,"What is the distance between ""b-ware! ladenkino"" and ""Café Answer"" in the Berlin area?",B,12.19,5.17,11.35,3.68
+130,"What is the distance between ""Pinelli"" and ""Zahnklinik Medeco"" in the Berlin area?",D,8.75,2.72,1.5,3.95
+131,"What is the distance between ""Kaia"" and ""Maczey"" in the Berlin area?",C,2.97,0.57,8.43,2.22
+132,"What is the distance between ""Heinz-Galinski-Schule"" and ""Elefantentor"" in the Berlin area?",A,5.53,9.07,11.03,1.41
+133,"What is the distance between ""Kleingartenanlage Wiesengrund"" and ""Kita Kinderwelt"" in the Berlin area?",D,9.36,14.45,15.88,12.27
+134,"What is the distance between ""Inselspitze Stralau"" and ""Goebelplatz"" in the Berlin area?",D,20.68,7.32,19.31,14.76
+135,"What is the distance between ""Studienkreis"" and ""DHL"" in the Berlin area?",A,8.77,13.05,2.52,15.66
+136,"What is the distance between ""Antep Etoğlu Sofrasi"" and ""Katholische Kindertagesstätte St. Konrad"" in the Berlin area?",C,1.9,12.73,5.95,11.98
+137,"What is the distance between ""Suppenküche"" and ""Lou"" in the Berlin area?",A,10.35,15.94,5.91,13.91
+138,"What is the distance between ""Evangelische Kindertagesstätte"" and ""Pan Africa"" in the Berlin area?",C,8.81,8.62,5.81,9.78
+139,"What is the distance between ""Die mit den Kirschen"" and ""Mahlzeit"" in the Berlin area?",D,8.16,7.3,10.12,3.31
+140,"What is the distance between ""Heimweh"" and ""Asia Imbiss Saigon"" in the Berlin area?",B,12.38,10.94,5.63,4.1
+141,"What is the distance between ""Resonanz"" and ""Two Trick Pony"" in the Berlin area?",C,6.92,7.44,3.9,9.0
+142,"What is the distance between ""Rebart"" and ""Kita Kleine Kinderwelt"" in the Berlin area?",C,18.59,18.28,15.91,20.73
+143,"What is the distance between ""Automatencasino"" and ""Best of Grill"" in the Berlin area?",A,3.62,11.2,9.34,5.96
+144,"What is the distance between ""North Andes Coffee"" and ""tabaCCenter"" in the Berlin area?",A,5.3,4.14,11.59,8.24
+145,"What is the distance between ""Leben Lernen"" and ""Rote Lilly"" in the Berlin area?",D,10.68,4.37,7.23,5.41
+146,"What is the distance between ""Palliativgarten"" and ""bring"" in the Berlin area?",A,1.61,3.9,3.71,9.22
+147,"What is the distance between ""soopoollim"" and ""KochRaum INSTINCT"" in the Berlin area?",B,2.43,4.64,11.65,10.78
+148,"What is the distance between ""Gabriele C. Müller"" and ""Stehcafé 72"" in the Berlin area?",D,9.28,15.7,16.54,11.48
+149,"What is the distance between ""Spätzle-Club"" and ""Adrijan Smoking Lounge"" in the Berlin area?",B,2.3,3.58,1.24,1.6
+150,"What is the distance between ""FitnessCenter aTB"" and ""Lothar Lübke und Brigitte Lübke"" in the Berlin area?",B,6.71,5.59,7.37,1.51
+151,"What is the distance between ""Forstamt Grunewald"" and ""Johanna-Eck-Schule"" in the Berlin area?",C,13.75,1.95,7.57,10.53
+152,"What is the distance between ""tabaCCenter"" and ""Namsan"" in the Berlin area?",A,2.67,9.23,5.86,8.21
+153,"What is the distance between ""Studentenwohnheim Sewanstraße"" and ""Beach Zone Lichtenberg"" in the Berlin area?",D,1.23,10.67,12.39,4.56
+154,"What is the distance between ""Otto-Nagel-Gymnasium"" and ""Freie Universität Berlin Fachbereich Veterinärmedizin"" in the Berlin area?",A,23.11,21.59,24.78,16.58
+155,"What is the distance between ""Hangmee"" and ""Vino e Libri"" in the Berlin area?",D,8.1,5.84,8.66,4.12
+156,"What is the distance between ""International Gospel Center"" and ""Rosengarten"" in the Berlin area?",B,11.15,7.71,9.02,9.08
+157,"What is the distance between ""Luise-Henriette-Schule"" and ""Marlene-Dietrich-Platz"" in the Berlin area?",C,2.56,8.18,4.88,7.26
+158,"What is the distance between ""FANKoch"" and ""Ärztehaus"" in the Berlin area?",C,4.7,3.87,2.22,10.07
+159,"What is the distance between ""Pflege-Träger GmbH Ambulanter Pflegedienst"" and ""Studienkreis"" in the Berlin area?",B,8.35,2.64,4.56,7.29
+160,"What is the distance between ""Berliner Volksbank"" and ""Café Odor"" in the Berlin area?",C,4.05,3.1,6.84,2.04
+161,"What is the distance between ""Burger Vision"" and ""Aapka"" in the Berlin area?",C,6.73,17.62,13.38,19.38
+162,"What is the distance between ""Springteufel Kinder- und Schülerladen"" and ""Tempelhofer Krug"" in the Berlin area?",B,9.38,3.68,2.39,10.11
+163,"What is the distance between ""Sparkasse"" and ""Restorani Tbilisi"" in the Berlin area?",A,6.23,3.68,8.27,9.86
+164,"What is the distance between ""Jugendclub Liebig 19"" and ""Familienzentrum Einhorn"" in the Berlin area?",B,7.24,1.17,7.91,5.74
+165,"What is the distance between ""acht&dreissig"" and ""Giuseppe"" in the Berlin area?",C,13.47,12.55,10.43,14.86
+166,"What is the distance between ""Rosengarten"" and ""Schule am Schillerpark"" in the Berlin area?",D,12.53,7.94,7.48,4.66
+167,"What is the distance between ""Friedhof Reinickendorf"" and ""Axis Offices"" in the Berlin area?",B,5.67,11.65,5.16,13.3
+168,"What is the distance between ""Syrtaki"" and ""Don Sushi"" in the Berlin area?",D,14.07,3.63,11.9,9.76
+169,"What is the distance between ""Don Sushi"" and ""My Asia Küche"" in the Berlin area?",A,11.21,3.58,13.84,9.7
+170,"What is the distance between ""Niziplioglu Baklavari"" and ""Backshop Cafe am Deutschen Theater"" in the Berlin area?",C,5.7,1.02,3.63,6.53
+171,"What is the distance between ""High Park"" and ""Kaukasus Bergwald"" in the Berlin area?",A,7.25,14.73,2.91,3.46
+172,"What is the distance between ""Lernstatt e.V."" and ""Starbucks"" in the Berlin area?",A,4.37,5.72,7.13,3.45
+173,"What is the distance between ""Thyssen-Krupp Aufzüge Nordost"" and ""Kleingartenkolonie POG"" in the Berlin area?",C,3.01,16.01,9.18,13.53
+174,"What is the distance between ""Rollheimer"" and ""Sommerbad Mariendorf"" in the Berlin area?",A,3.25,8.77,5.7,5.69
+175,"What is the distance between ""Rathauspassagen"" and ""Zwischenpumpwerk Johannisthal"" in the Berlin area?",C,10.62,13.13,9.24,13.59
+176,"What is the distance between ""Relay"" and ""Rudow Automobile"" in the Berlin area?",B,7.37,13.77,21.64,11.7
+177,"What is the distance between ""Lützowplatz"" and ""Königliche Gartenakademie"" in the Berlin area?",A,6.49,10.72,9.13,8.31
+178,"What is the distance between ""Yogi Haus"" and ""Belyzium Kakao Manufaktur"" in the Berlin area?",D,7.15,2.53,6.15,4.78
+179,"What is the distance between ""Bar Basta"" and ""Coréen"" in the Berlin area?",D,1.73,2.15,5.11,0.76
+180,"What is the distance between ""Paint your style"" and ""Abacus Apotheke"" in the Berlin area?",C,11.7,9.77,7.04,1.68
+181,"What is the distance between ""Zwischenstation"" and ""Zentrum für Neurologie Charlottenburg"" in the Berlin area?",B,1.33,4.45,1.04,6.37
+182,"What is the distance between ""Como en casa"" and ""Zentrum Arresalah"" in the Berlin area?",A,6.19,1.97,14.08,11.9
+183,"What is the distance between ""Kita Zwergenland"" and ""Naturhof Malchow"" in the Berlin area?",C,12.71,15.3,10.39,12.01
+184,"What is the distance between ""Café Odor"" and ""Kinderzahnarzt Dr. Monzer Solyman"" in the Berlin area?",D,12.91,13.33,13.12,5.92
+185,"What is the distance between ""Bertha Berlin"" and ""Spätzle-Club"" in the Berlin area?",C,8.47,5.74,2.75,10.72
+186,"What is the distance between ""Kaiser-Wilhelm"" and ""Bistro 125"" in the Berlin area?",B,2.45,8.4,13.84,1.36
+187,"What is the distance between ""The Wall Comedy Club Berlin"" and ""Beck's Bäckerei & Bistro"" in the Berlin area?",A,1.62,4.56,3.05,9.2
+188,"What is the distance between ""Kita Springmäuse"" and ""Johann-August-Zeune-Schule für Blinde"" in the Berlin area?",C,18.01,5.44,12.76,6.06
+189,"What is the distance between ""Lou"" and ""Kinderladen Schneckenhaus"" in the Berlin area?",D,6.05,10.28,1.21,5.1
+190,"What is the distance between ""3"" and ""Jobcenter"" in the Berlin area?",A,9.03,10.43,13.32,7.79
+191,"What is the distance between ""Lucca"" and ""Heimweh"" in the Berlin area?",D,12.27,8.18,8.39,5.81
+192,"What is the distance between ""MVZ am Moritzplatz"" and ""Mekong Küche"" in the Berlin area?",B,1.1,3.63,10.39,0.62
+193,"What is the distance between ""DZ-Bank"" and ""Dog-Station"" in the Berlin area?",C,14.83,4.17,7.28,10.44
+194,"What is the distance between ""The Heinrichs"" and ""Sandwich Art"" in the Berlin area?",B,0.54,3.39,10.26,8.3
+195,"What is the distance between ""Kita ""bewegte Kinder e.V."""" and ""Bibliothek des Deutschen Bundestages"" in the Berlin area?",D,7.01,12.07,7.24,4.34
+196,"What is the distance between ""Sushi Shop"" and ""Kampfkunstwerkstatt"" in the Berlin area?",B,16.78,15.83,13.46,17.62
+197,"What is the distance between ""Smooches"" and ""Zahnarzt Moabit"" in the Berlin area?",A,6.78,13.12,3.67,2.45
+198,"What is the distance between ""Hubschrauber-Landeplatz der Bundesregierung Berlin-Tegel (Nord)"" and ""Nördliche Kalkalpen Laub- und Nadelwaldregion"" in the Berlin area?",C,17.43,5.08,12.08,11.17
+199,"What is the distance between ""Ficken3000"" and ""let's talk about juice!"" in the Berlin area?",A,2.99,1.22,8.59,1.18
+200,"What is the distance between ""Bar Sigismondo"" and ""Nem & More"" in the Berlin area?",A,4.12,9.6,2.04,2.3
+201,"What is the distance between ""Bistro 125"" and ""Suppenküche"" in the Berlin area?",C,12.95,2.98,5.27,12.87
+202,"What is the distance between ""Caritas Kleiderkammer"" and ""Yogibar"" in the Berlin area?",D,15.57,9.25,10.6,7.97
+203,"What is the distance between ""Fraunhofer-Institut für Nachrichtentechnik"" and ""KGA Dreieck Nord"" in the Berlin area?",D,9.15,8.51,6.8,10.75
+204,"What is the distance between ""Naturhof Malchow"" and ""Graefestraße/Boeckhstraße"" in the Berlin area?",B,8.13,10.41,13.77,7.16
+205,"What is the distance between ""Atma"" and ""Herman Belgian Bar"" in the Berlin area?",D,16.9,4.86,11.95,9.41
+206,"What is the distance between ""Saz Bar"" and ""Atma"" in the Berlin area?",D,7.84,19.74,8.59,12.15
+207,"What is the distance between ""Z"" and ""Luise-Henriette-Schule"" in the Berlin area?",D,3.86,4.56,13.83,6.62
+208,"What is the distance between ""El Amigo Taqueria"" and ""Kaffefreunde"" in the Berlin area?",C,1.45,9.43,4.9,0.71
+209,"What is the distance between ""Beim Dicken"" and ""Ärztehaus Neubritzer Tor"" in the Berlin area?",C,5.32,8.83,10.27,17.31
+210,"What is the distance between ""Ali Döner"" and ""Atelier de la danse"" in the Berlin area?",A,4.55,9.71,1.69,6.3
+211,"What is the distance between ""Reinfelder-Schule"" and ""Mitteres Nordamerika"" in the Berlin area?",C,12.56,13.04,5.69,8.09
+212,"What is the distance between ""Smartroom Escape Room Berlin"" and ""Simplay"" in the Berlin area?",C,15.24,12.09,10.94,15.44
+213,"What is the distance between ""Bilgisaray"" and ""Gartn"" in the Berlin area?",B,1.5,6.3,13.56,7.37
+214,"What is the distance between ""City Car Wash"" and ""Jolesch"" in the Berlin area?",A,6.87,13.18,14.72,5.14
+215,"What is the distance between ""Café Non"" and ""Tierarztpraxis am Amalienpark"" in the Berlin area?",D,13.15,15.71,12.59,11.26
+216,"What is the distance between ""Biberstand"" and ""Innogy"" in the Berlin area?",B,14.86,9.59,16.15,13.27
+217,"What is the distance between ""Trödelmarkt"" and ""Siu Lam Wing Chun Schule"" in the Berlin area?",A,6.54,0.51,1.26,8.18
+218,"What is the distance between ""zia maria"" and ""Tasty Döner 63"" in the Berlin area?",A,11.89,14.5,14.46,17.72
+219,"What is the distance between ""Prager Platz"" and ""Quartier am Segelfliegerdamm"" in the Berlin area?",D,7.53,11.48,21.29,13.45
+220,"What is the distance between ""Mediaspree"" and ""KGA Zur Elf"" in the Berlin area?",B,6.47,5.29,1.18,9.73
+221,"What is the distance between ""Kita Kinderwelt"" and ""Kulturmarkthalle"" in the Berlin area?",A,10.3,2.56,5.73,7.93
+222,"What is the distance between ""Miss Sporty"" and ""Alter Schwede"" in the Berlin area?",A,7.38,10.86,13.4,3.57
+223,"What is the distance between ""Lesbenberatung"" and ""Sommergarten"" in the Berlin area?",D,11.12,3.25,4.48,7.57
+224,"What is the distance between ""Bavarian"" and ""Bilgisaray"" in the Berlin area?",D,9.41,8.39,9.59,2.24
+225,"What is the distance between ""Jolesch"" and ""Altayeb Grillhaus"" in the Berlin area?",D,1.35,1.11,4.97,3.44
+226,"What is the distance between ""Helmutstal"" and ""Uferpromenade"" in the Berlin area?",D,5.21,3.97,9.01,1.82
+227,"What is the distance between ""Zietenplatz"" and ""Relay"" in the Berlin area?",A,1.82,9.59,0.53,4.05
+228,"What is the distance between ""Mustafa's Gemüse Kebap"" and ""Omdur - Sudanese Streetfood Restaurant"" in the Berlin area?",C,5.32,6.4,3.9,10.51
+229,"What is the distance between ""The Hat Bar"" and ""Paint your style"" in the Berlin area?",B,15.01,8.7,11.63,11.07
+230,"What is the distance between ""Lichtenberg Apotheke"" and ""Charité-Standort Thielallee/Garystraße"" in the Berlin area?",A,16.15,18.76,19.24,9.29
+231,"What is the distance between ""Familienzentrum Einhorn"" and ""Automatencasino"" in the Berlin area?",D,7.76,10.79,1.45,3.59
+232,"What is the distance between ""Praxis für Allgemeinmedizin"" and ""Antep Etoğlu Sofrasi"" in the Berlin area?",B,3.37,8.7,2.0,1.16
+233,"What is the distance between ""SENECA INTENSIV Studios"" and ""Spuntino"" in the Berlin area?",C,10.14,9.83,12.33,10.84
+234,"What is the distance between ""Charlotte-Wolff-Kolleg"" and ""Spreegold"" in the Berlin area?",D,8.65,3.84,6.83,2.13
+235,"What is the distance between ""Hauptstadtkinder"" and ""Reisebank"" in the Berlin area?",B,2.68,6.02,1.79,8.11
+236,"What is the distance between ""Wustrower Park"" and ""Maifeld"" in the Berlin area?",A,19.42,12.15,22.01,13.79
+237,"What is the distance between ""Aapka"" and ""Michael Heine"" in the Berlin area?",C,7.06,6.74,9.21,6.32
+238,"What is the distance between ""Kleine Ungeheuer"" and ""Bhf. Vineta"" in the Berlin area?",B,6.03,8.77,9.85,15.61
+239,"What is the distance between ""Christian und Sonja Bohle"" and ""Dharma Mati"" in the Berlin area?",D,4.18,9.08,3.88,6.08
+240,"What is the distance between ""Bambus China Restaurant"" and ""Tribeca Ice Cream"" in the Berlin area?",B,2.95,6.81,2.84,1.2
+241,"What is the distance between ""Eetcafé"" and ""Enterprise"" in the Berlin area?",D,11.8,22.15,23.0,15.28
+242,"What is the distance between ""Muro Döner Kebap"" and ""Praxis Ayşe-Bettina Linder & Dr. med. Susanne Bücker"" in the Berlin area?",C,4.95,12.0,10.08,17.73
+243,"What is the distance between ""Katz&Maus"" and ""einLaden"" in the Berlin area?",B,10.24,5.05,6.06,1.13
+244,"What is the distance between ""The Noodle Town hand pulled noodles"" and ""Rebart"" in the Berlin area?",A,6.03,8.59,0.59,12.39
+245,"What is the distance between ""Sandwich Art"" and ""Zwischenstation"" in the Berlin area?",A,4.84,11.54,2.78,12.83
+246,"What is the distance between ""Sportcasino Schöneberg"" and ""Bar Sigismondo"" in the Berlin area?",B,16.26,8.95,13.59,13.7
+247,"What is the distance between ""Kleingartenkolonie Eschenallee"" and ""Freizeit e.V."" in the Berlin area?",A,14.79,19.28,12.26,16.98
+248,"What is the distance between ""Evangelische Dorfkirchengemeinde Britz"" and ""Strandbad Tegelsee"" in the Berlin area?",D,24.13,12.22,12.56,19.44
+249,"What is the distance between ""Katholische Kindertagesstätte St. Konrad"" and ""Sportcasino Schöneberg"" in the Berlin area?",B,8.45,1.19,3.67,3.51
+250,"What is the distance between ""B"" and ""Prager Platz"" in the Berlin area?",D,9.18,3.75,5.26,2.12
+251,"What is the distance between ""Lerchen & Eulen"" and ""Kaiser-Wilhelm"" in the Berlin area?",C,3.26,9.71,5.23,4.12
+252,"What is the distance between ""Spielothek"" and ""FitnessCenter aTB"" in the Berlin area?",A,7.0,4.08,11.58,11.35
+253,"What is the distance between ""Søstrene Grene"" and ""Fraunhofer-Institut für Nachrichtentechnik"" in the Berlin area?",A,3.14,11.03,4.77,9.85
+254,"What is the distance between ""Norderoog"" and ""Lebenshilfe"" in the Berlin area?",D,19.54,6.26,18.42,13.37
+255,"What is the distance between ""Polizei Abschnitt 13"" and ""Kasse"" in the Berlin area?",B,10.9,13.12,19.37,11.48
+256,"What is the distance between ""einLaden"" and ""Niziplioglu Baklavari"" in the Berlin area?",C,14.0,2.65,8.0,2.39
+257,"What is the distance between ""Schenckendorffplatz"" and ""Grundschule Am Insulaner"" in the Berlin area?",A,10.26,11.36,7.4,12.33
+258,"What is the distance between ""Caffè Kamee"" and ""DZ-Bank"" in the Berlin area?",B,21.34,14.07,8.33,15.53
+259,"What is the distance between ""Elefantentor"" and ""Rosarote Tiger"" in the Berlin area?",A,3.56,9.68,10.09,6.99
+260,"What is the distance between ""Saki Sushi"" and ""tante boukje"" in the Berlin area?",A,6.93,8.43,14.89,2.27
+261,"What is the distance between ""Tommy's Tobewelt"" and ""Smartroom Escape Room Berlin"" in the Berlin area?",B,8.95,7.1,12.93,8.38
+262,"What is the distance between ""Metropole"" and ""Zahnarztpraxis Sabrina Roedel"" in the Berlin area?",A,15.88,12.85,8.77,8.25
+263,"What is the distance between ""KochRaum INSTINCT"" and ""Kita Elfenbein"" in the Berlin area?",A,5.74,9.98,13.26,0.6
+264,"What is the distance between ""Dr. med. Sabine Jung"" and ""George Chirilas"" in the Berlin area?",C,14.03,13.11,7.0,15.0
+265,"What is the distance between ""Kita Kleine Kinderwelt"" and ""Sicula Bar"" in the Berlin area?",B,15.42,12.4,4.46,17.76
+266,"What is the distance between ""Rote Lilly"" and ""Kita Cookis"" in the Berlin area?",B,11.97,5.11,3.53,2.19
+267,"What is the distance between ""Fundbüro"" and ""Bewegungsstudio"" in the Berlin area?",D,6.64,13.31,1.66,5.72
+268,"What is the distance between ""Schlesisch Blau"" and ""Coffee House"" in the Berlin area?",D,1.99,4.27,8.24,6.37
+269,"What is the distance between ""Asia Imbiss"" and ""Hauptstadtkinder"" in the Berlin area?",C,7.55,9.03,4.89,12.74
+270,"What is the distance between ""Gotxa"" and ""Theater o.N."" in the Berlin area?",B,12.26,4.8,12.62,1.81
+271,"What is the distance between ""Kuki's"" and ""Office Reiner Opoku"" in the Berlin area?",D,14.16,15.8,10.11,8.51
+272,"What is the distance between ""Dr. Kathrin Lehmann"" and ""Stadtkinder"" in the Berlin area?",A,5.31,11.04,1.88,3.7
+273,"What is the distance between ""Office Reiner Opoku"" and ""EKT - Roter Boller e.V."" in the Berlin area?",B,5.24,1.69,3.04,3.57
+274,"What is the distance between ""Dog-Station"" and ""Kinderladen Tigerente"" in the Berlin area?",C,4.93,13.84,6.18,12.05
+275,"What is the distance between ""ARZ"" and ""El Amigo Taqueria"" in the Berlin area?",A,14.61,21.71,19.58,19.92
+276,"What is the distance between ""Michael Heine"" and ""DeBatchi"" in the Berlin area?",D,11.35,18.03,23.81,16.44
+277,"What is the distance between ""workish.berlin"" and ""Asteria"" in the Berlin area?",D,1.9,5.34,8.18,6.84
+278,"What is the distance between ""Shamrock Pub"" and ""Juju"" in the Berlin area?",B,17.78,15.92,17.25,9.74
+279,"What is the distance between ""Trattoria Il Gusto Italiano"" and ""Zeitenträumer"" in the Berlin area?",D,9.26,18.23,8.15,13.92
+280,"What is the distance between ""Jobcenter"" and ""Kolonie Kaninchenfarm"" in the Berlin area?",C,17.01,5.9,10.36,4.94
+281,"What is the distance between ""Julius"" and ""Postbank"" in the Berlin area?",C,3.82,12.83,6.67,13.07
+282,"What is the distance between ""Superhero Records & Café"" and ""Mon Reve"" in the Berlin area?",B,9.34,7.31,15.03,5.74
+283,"What is the distance between ""Rudow Automobile"" and ""Schleuse Mühlendamm"" in the Berlin area?",D,13.25,13.17,13.31,11.36
+284,"What is the distance between ""Stehcafé 72"" and ""Auszeit"" in the Berlin area?",C,1.49,6.13,7.18,13.79
+285,"What is the distance between ""KGA Zur Elf"" and ""Lichtenberg Apotheke"" in the Berlin area?",A,6.81,5.02,13.45,4.5
+286,"What is the distance between ""Nichtschwimmer"" and ""Helmutstal"" in the Berlin area?",D,17.97,7.43,18.32,10.92
+287,"What is the distance between ""Falafel Jakoub"" and ""Lerchen & Eulen"" in the Berlin area?",A,1.62,4.69,2.91,8.84
+288,"What is the distance between ""Coffee Station"" and ""Bärlin Company"" in the Berlin area?",B,12.6,14.0,15.31,6.69
+289,"What is the distance between ""Wiesenflora deutsches Mittelgebirge"" and ""KGA Neuland I"" in the Berlin area?",C,15.95,8.85,10.67,14.78
+290,"What is the distance between ""Spreegold"" and ""Commerzbank"" in the Berlin area?",D,4.95,9.93,1.88,3.15
+291,"What is the distance between ""Spreebogenpark"" and ""Reinfelder-Schule"" in the Berlin area?",A,7.82,15.48,13.34,6.27
+292,"What is the distance between ""bring"" and ""Hansa Stuben"" in the Berlin area?",D,13.58,1.33,11.7,7.02
+293,"What is the distance between ""Enterprise"" and ""Zum Elefanten"" in the Berlin area?",A,11.52,9.18,5.99,6.94
+294,"What is the distance between ""Freiluftkino Rehberge"" and ""Hundeauslaufgebiet Grunewald"" in the Berlin area?",C,6.28,12.32,10.44,3.02
+295,"What is the distance between ""Belyzium Kakao Manufaktur"" and ""Vita Apotheke"" in the Berlin area?",A,2.23,9.06,3.29,9.83
+296,"What is the distance between ""Ford Ristow"" and ""Nordgriechenland – Gebirge"" in the Berlin area?",D,6.36,19.39,11.49,13.83
+297,"What is the distance between ""Kita Moissistraße"" and ""Dennewitzplatz"" in the Berlin area?",B,20.48,14.24,7.53,16.59
+298,"What is the distance between ""Peter Krause"" and ""Bar Basta"" in the Berlin area?",D,14.49,9.47,2.74,10.65
+299,"What is the distance between ""Vino e Libri"" and ""Zahnarztpraxis Irina Lin"" in the Berlin area?",C,3.26,0.75,6.49,9.45
+300,"What is the distance between ""Coréen"" and ""Superhero Records & Café"" in the Berlin area?",B,9.91,4.77,6.0,9.56
+301,"What is the distance between ""Siu Lam Wing Chun Schule"" and ""Apotheke in der Metropole"" in the Berlin area?",C,3.83,2.58,8.68,3.92
+302,"What is the distance between ""Mahlzeit"" and ""Euronet"" in the Berlin area?",A,2.42,5.16,6.62,1.15
+303,"What is the distance between ""Tribeca Ice Cream"" and ""Mister Subs"" in the Berlin area?",D,4.66,8.85,5.38,2.28
+304,"What is the distance between ""Wedding Grillhaus"" and ""Pizza e Pasta"" in the Berlin area?",B,7.71,4.82,10.27,10.43
+305,"What is the distance between ""Jing Yang"" and ""29-151"" in the Berlin area?",A,9.33,3.98,6.8,3.74
+306,"What is the distance between ""Bewegungsstudio"" and ""Christian und Sonja Bohle"" in the Berlin area?",C,6.32,1.04,3.65,4.58
+307,"What is the distance between ""Comeniusplatz"" and ""Halle 22"" in the Berlin area?",B,19.52,11.96,8.72,16.93
+308,"What is the distance between ""Direktion 6 Verkehrsermittlungsdienst"" and ""Kleingartenanlage Roedernaue 1916 e.V."" in the Berlin area?",B,15.13,12.83,8.86,8.58
+309,"What is the distance between ""Internationale Schule Berlin"" and ""Direktion 6 Verkehrsermittlungsdienst"" in the Berlin area?",C,23.23,20.42,15.24,16.87
+310,"What is the distance between ""Zentrum für Neurologie Charlottenburg"" and ""Taverna Karagiosis"" in the Berlin area?",B,9.6,2.69,3.66,7.27
+311,"What is the distance between ""Deutsche Bank Investment & FinanzCenter"" and ""Eis Toto"" in the Berlin area?",B,5.8,7.1,9.5,2.7
+312,"What is the distance between ""Praxis Ayşe-Bettina Linder & Dr. med. Susanne Bücker"" and ""CashZone"" in the Berlin area?",B,3.93,1.23,7.95,4.88
+313,"What is the distance between ""Hansa Stuben"" and ""Heidenpeters"" in the Berlin area?",C,16.43,7.14,13.79,15.11
+314,"What is the distance between ""Hochschule für Technik und Wirtschaft Berlin Campus Wilhelminenhof"" and ""KGA Drosselgarten"" in the Berlin area?",A,4.23,9.33,5.97,7.01
+315,"What is the distance between ""Tempelhofer Krug"" and ""Sparkasse"" in the Berlin area?",C,15.27,5.45,11.49,5.02
+316,"What is the distance between ""Gasthaus Figl"" and ""SENECA INTENSIV Studios"" in the Berlin area?",C,3.88,14.47,9.97,6.63
+317,"What is the distance between ""CashZone"" and ""Saki Sushi"" in the Berlin area?",A,4.26,8.28,8.64,11.07
+318,"What is the distance between ""KGA Grönland"" and ""Lukas-Kita"" in the Berlin area?",A,12.5,8.9,15.04,18.45
+319,"What is the distance between ""Xantener Eck"" and ""Trattoria á Muntagnola"" in the Berlin area?",C,0.6,5.41,2.48,5.92
+320,"What is the distance between ""Zwischenpumpwerk Johannisthal"" and ""Die Lynar"" in the Berlin area?",C,9.09,9.11,13.27,10.57
+321,"What is the distance between ""Bibliothek des Deutschen Bundestages"" and ""Mega Bistro"" in the Berlin area?",C,5.22,19.07,11.15,17.15
+322,"What is the distance between ""Golden Glory Germany"" and ""b-ware! ladenkino"" in the Berlin area?",B,10.21,4.02,9.33,10.52
+323,"What is the distance between ""Commerzbank"" and ""Angelika Walew"" in the Berlin area?",B,4.88,3.09,8.88,1.11
+324,"What is the distance between ""Zahnarzt Moabit"" and ""Spielothek"" in the Berlin area?",C,1.3,5.63,3.22,7.34
+325,"What is the distance between ""Eis Toto"" and ""Jubi-Stübchen"" in the Berlin area?",A,6.41,1.26,2.47,8.65
+326,"What is the distance between ""Quartier am Segelfliegerdamm"" and ""Schenckendorffplatz"" in the Berlin area?",B,23.47,20.13,14.45,13.12
+327,"What is the distance between ""GinChilla Bar"" and ""Trattoria Il Gusto Italiano"" in the Berlin area?",B,6.48,10.48,13.42,3.82
+328,"What is the distance between ""Ärztehaus Neubritzer Tor"" and ""Gotxa"" in the Berlin area?",B,5.49,3.21,10.78,8.54
+329,"What is the distance between ""Siemenssiedlung HoKa III"" and ""Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof"" in the Berlin area?",C,16.77,22.13,23.77,19.65
+330,"What is the distance between ""Freie Universität Berlin"" and ""KGA am Anger"" in the Berlin area?",B,20.94,16.27,13.12,19.1
+331,"What is the distance between ""Ballettschule und Tanzschule Sylvia Hadrich"" and ""Schlemmerküche"" in the Berlin area?",D,0.6,11.5,11.95,4.59
+332,"What is the distance between ""Café Komorebi"" and ""Miss Sporty"" in the Berlin area?",B,6.89,3.04,4.22,6.16
+333,"What is the distance between ""Schloss Britz"" and ""Thyssen-Krupp Aufzüge Nordost"" in the Berlin area?",D,11.17,18.59,13.03,16.03
+334,"What is the distance between ""Baraka"" and ""Grillstand HBF"" in the Berlin area?",B,11.86,5.02,7.0,1.49
+335,"What is the distance between ""Reisebank"" and ""Wu's"" in the Berlin area?",A,9.01,11.04,5.68,3.89
+336,"What is the distance between ""KT"" and ""PSt"" in the Berlin area?",B,8.01,6.91,14.23,4.49
+337,"What is the distance between ""Guadalajara"" and ""Atila's Kebap Haus 2"" in the Berlin area?",A,11.39,18.17,9.0,18.06
+338,"What is the distance between ""Jubi-Stübchen"" and ""Maide Manti"" in the Berlin area?",B,9.98,7.01,8.76,2.16
+339,"What is the distance between ""Berliner Toilette"" and ""G&S Productions - rock'n'roll music production"" in the Berlin area?",A,4.61,10.96,1.2,3.22
+340,"What is the distance between ""Strandbad Tegelsee"" and ""Kommandantenhaus"" in the Berlin area?",A,12.38,11.15,14.28,17.02
+341,"What is the distance between ""Paloma Bar"" and ""KomaF"" in the Berlin area?",C,3.41,7.31,1.06,6.97
+342,"What is the distance between ""Königliche Gartenakademie"" and ""Zietenplatz"" in the Berlin area?",C,4.73,14.42,8.48,10.26
+343,"What is the distance between ""Landgericht Berlin"" and ""Balkanhalbinsel – Wälder und Gebüsche"" in the Berlin area?",A,7.95,5.76,5.9,0.58
+344,"What is the distance between ""Praxis Dr. med. Tonio Gottlieb"" and ""workish.berlin"" in the Berlin area?",B,19.34,14.19,22.0,7.31
+345,"What is the distance between ""Arndt tuning"" and ""Kleingartenanlage Wiesengrund"" in the Berlin area?",A,11.43,13.58,12.37,5.66
+346,"What is the distance between ""Immertreu"" and ""Fräulein Wild"" in the Berlin area?",A,3.99,8.0,11.65,1.55
+347,"What is the distance between ""Tele-Internetcafé Sonnenallee"" and ""MVZ am Moritzplatz"" in the Berlin area?",B,2.42,4.05,7.96,4.95
+348,"What is the distance between ""Wu's"" and ""Deutsche Bank Investment & FinanzCenter"" in the Berlin area?",B,20.39,13.08,14.93,6.52
+349,"What is the distance between ""Spuntino"" and ""The Noodle Town hand pulled noodles"" in the Berlin area?",A,7.28,9.36,10.53,1.95
+350,"What is the distance between ""Gartn"" and ""The Heinrichs"" in the Berlin area?",C,13.88,1.77,8.72,13.59
+351,"What is the distance between ""Vita Apotheke"" and ""Berliner Toilette"" in the Berlin area?",C,12.6,6.28,8.47,14.08
+352,"What is the distance between ""Brło Brwhouse"" and ""Ali Döner"" in the Berlin area?",C,3.83,2.56,4.91,6.2
+353,"What is the distance between ""Kleingartenkolonie POG"" and ""Freie Universität Berlin"" in the Berlin area?",A,7.19,13.82,11.37,9.36
+354,"What is the distance between ""Cafe Dostlar"" and ""Kaffee-Haus Madlen"" in the Berlin area?",D,12.14,8.01,9.46,4.43
+355,"What is the distance between ""Kulturmarkthalle"" and ""Feuer- und Rettungswache Zehlendorf"" in the Berlin area?",D,20.11,20.33,23.8,17.07
+356,"What is the distance between ""Cafe Mila"" and ""Gestrandet an der Jannowitzbrücke"" in the Berlin area?",C,6.63,8.63,4.27,0.65
+357,"What is the distance between ""Café Info-Station"" and ""EXAKT"" in the Berlin area?",B,7.33,3.33,5.08,8.95
+358,"What is the distance between ""Happy Sportsbar"" and ""Al-Kalif"" in the Berlin area?",B,14.66,7.92,11.12,0.58
+359,"What is the distance between ""Umspannwerk Wedding"" and ""Comeniusplatz"" in the Berlin area?",B,12.78,7.07,11.9,1.96
+360,"What is the distance between ""Dharma Mati"" and ""Immertreu"" in the Berlin area?",A,10.13,3.57,14.37,8.61
+361,"What is the distance between ""Dr.med.Viktor Czaika"" and ""Zahnarztpraxis Dr. Anne Kehler"" in the Berlin area?",A,7.15,11.22,9.34,1.24
+362,"What is the distance between ""Tierarztpraxis am Amalienpark"" and ""The Wall Comedy Club Berlin"" in the Berlin area?",C,3.44,6.6,7.55,2.43
+363,"What is the distance between ""Dorfaue"" and ""Arndt tuning"" in the Berlin area?",A,10.12,4.45,15.12,2.13
+364,"What is the distance between ""Uferpromenade"" and ""Perelsplatz"" in the Berlin area?",D,7.92,13.51,14.06,10.2
+365,"What is the distance between ""Juju"" and ""Roberta"" in the Berlin area?",D,6.62,4.2,5.32,10.49
+366,"What is the distance between ""Café Veranda"" and ""City Car Wash"" in the Berlin area?",B,9.49,10.81,4.29,18.34
+367,"What is the distance between ""Zahnklinik Medeco"" and ""Verkehrs Campus"" in the Berlin area?",B,15.8,9.52,6.91,6.13
+368,"What is the distance between ""Kinder Kochspaß. Kochschule & Familienrestaurant"" and ""Inegöl Köftecisi"" in the Berlin area?",B,13.99,9.06,11.16,5.15
+369,"What is the distance between ""Kaffee-Haus Madlen"" and ""Siemenssiedlung HoKa III"" in the Berlin area?",B,20.55,15.12,14.2,22.0
+370,"What is the distance between ""Königreichssaal Jehovas Zeugen"" and ""Siemens Verwaltungsgebäude"" in the Berlin area?",B,18.59,14.76,18.56,11.74
+371,"What is the distance between ""Axis Offices"" and ""International Gospel Center"" in the Berlin area?",D,5.18,3.06,6.45,4.12
+372,"What is the distance between ""Garten- und Siedlerfreunde Anlage Blankenburg e.V."" and ""Amtsgericht Kreuzberg"" in the Berlin area?",D,16.07,16.79,13.54,10.54
+373,"What is the distance between ""Segafredo"" and ""Coffee Station"" in the Berlin area?",C,4.33,3.27,5.54,2.44
+374,"What is the distance between ""Gustav-Meyer-Schule"" and ""Deutsch-Französischer Kindergarten / Jardin d’enfants franco-allemand"" in the Berlin area?",C,2.5,4.33,8.45,14.2
+375,"What is the distance between ""Zentrum Arresalah"" and ""Metropole"" in the Berlin area?",A,2.81,8.1,4.44,9.73
+376,"What is the distance between ""Haus H"" and ""Wustrower Park"" in the Berlin area?",A,18.86,13.43,16.56,21.09
+377,"What is the distance between ""Two Trick Pony"" and ""Gasthaus Figl"" in the Berlin area?",D,3.59,6.35,4.48,0.87
+378,"What is the distance between ""Zum Friedenauer"" and ""Rüdiger Berndt"" in the Berlin area?",A,10.54,15.46,12.35,17.83
+379,"What is the distance between ""Telecenter 24"" and ""Zum Friedenauer"" in the Berlin area?",B,3.06,6.43,1.44,4.42
+380,"What is the distance between ""Taverna Karagiosis"" and ""Trödelmarkt"" in the Berlin area?",B,6.79,5.52,9.36,4.03
+381,"What is the distance between ""Kinderladen Tigerente"" and ""Hangmee"" in the Berlin area?",C,3.87,7.95,5.26,2.95
+382,"What is the distance between ""Lukas-Kita"" and ""Kita Moissistraße"" in the Berlin area?",A,14.92,20.41,18.02,12.69
+383,"What is the distance between ""Gestrandet an der Jannowitzbrücke"" and ""Deutsche Bahn"" in the Berlin area?",B,2.87,5.55,9.79,9.93
+384,"What is the distance between ""Motz-Wohnwagen"" and ""Café Komorebi"" in the Berlin area?",C,8.6,1.07,4.3,11.8
+385,"What is the distance between ""Loeperplatz"" and ""Berlin Greenpark"" in the Berlin area?",C,4.83,10.15,7.18,6.09
+386,"What is the distance between ""Kommandantenhaus"" and ""Nichtschwimmer"" in the Berlin area?",B,10.74,7.62,14.13,13.18
+387,"What is the distance between ""Johanna-Eck-Schule"" and ""Ankunftszentrum für Asylsuchende"" in the Berlin area?",B,16.39,15.01,12.34,8.12
+388,"What is the distance between ""Crossroads"" and ""Como en casa"" in the Berlin area?",D,2.33,17.71,9.11,10.23
+389,"What is the distance between ""Istanbul Grill"" and ""Kita Edgar Berlin"" in the Berlin area?",C,4.07,2.66,6.23,12.32
+390,"What is the distance between ""Postbank"" and ""Saz Bar"" in the Berlin area?",A,4.64,10.94,10.15,8.31
+391,"What is the distance between ""Mister Subs"" and ""Peter Krause"" in the Berlin area?",B,4.21,7.54,2.27,4.4
+392,"What is the distance between ""Omdur - Sudanese Streetfood Restaurant"" and ""Club der polnischen Versager"" in the Berlin area?",B,5.61,4.64,0.82,3.26
+393,"What is the distance between ""Mega Bistro"" and ""Tao Dan"" in the Berlin area?",A,10.13,3.47,6.03,13.76
+394,"What is the distance between ""Innogy"" and ""Kleine Ungeheuer"" in the Berlin area?",C,12.41,12.46,5.69,8.02
+395,"What is the distance between ""Al-Kalif"" and ""Wesereck"" in the Berlin area?",A,2.58,8.73,6.97,10.28
+396,"What is the distance between ""Qadmous"" and ""Kuki's"" in the Berlin area?",D,9.51,5.44,7.43,2.56
+397,"What is the distance between ""Kolonie Kaninchenfarm"" and ""Gustav-Meyer-Schule"" in the Berlin area?",C,12.85,3.96,5.52,7.1
+398,"What is the distance between ""Grundschule Am Insulaner"" and ""Friedhof Reinickendorf"" in the Berlin area?",D,8.69,9.77,21.03,13.06
+399,"What is the distance between ""Nordgriechenland – Gebirge"" and ""Pflanzenschutzamt"" in the Berlin area?",D,3.91,8.84,15.66,7.86
+400,"What is the distance between ""Fromet-und-Moses-Mendelssohn-Platz"" and ""Brixplatz"" in the Berlin area?",A,9.57,11.35,16.93,3.44
+401,"What is the distance between ""Sicula Bar"" and ""Caffè Kamee"" in the Berlin area?",D,12.49,8.2,3.03,10.21
+402,"What is the distance between ""Graefestraße/Boeckhstraße"" and ""Internationale Schule Berlin"" in the Berlin area?",D,12.26,12.63,13.04,7.11
+403,"What is the distance between ""Angelika Walew"" and ""acht&dreissig"" in the Berlin area?",A,1.69,6.45,5.7,3.38
+404,"What is the distance between ""Rüdiger Berndt"" and ""Parkplatz für Busse"" in the Berlin area?",A,5.26,9.26,6.26,13.02
+405,"What is the distance between ""Johann-August-Zeune-Schule für Blinde"" and ""Wiesenflora deutsches Mittelgebirge"" in the Berlin area?",A,0.78,2.38,5.61,7.88
+406,"What is the distance between ""Abacus Apotheke"" and ""Dr. Sörensen Praxis für Rheumatologie"" in the Berlin area?",A,23.42,22.06,20.06,21.62
+407,"What is the distance between ""Brixplatz"" and ""TA"" in the Berlin area?",B,9.98,4.77,3.18,1.04
+408,"What is the distance between ""Kiez Kaffee Kraft"" and ""The Kitchen"" in the Berlin area?",D,6.83,7.94,14.7,10.18
+409,"What is the distance between ""Kebap 63"" and ""Pizzaroni"" in the Berlin area?",A,6.07,12.36,7.26,12.59
+410,"What is the distance between ""Friedrichstadt-Passagen (Q 207)"" and ""Forstamt Grunewald"" in the Berlin area?",B,4.1,9.58,14.45,16.41
+411,"What is the distance between ""Backshop Cafe am Deutschen Theater"" and ""Dr. Kathrin Lehmann"" in the Berlin area?",C,2.52,0.53,3.66,5.11
+412,"What is the distance between ""Kristall Apotheke"" and ""Guadalajara"" in the Berlin area?",C,7.28,8.99,4.26,9.46
+413,"What is the distance between ""Gio's Georgische Küche"" and ""Jugendclub Liebig 19"" in the Berlin area?",C,2.56,7.03,3.5,2.43
+414,"What is the distance between ""Kita Hausburgviertel"" and ""Sorgenfrei"" in the Berlin area?",B,5.46,8.58,2.82,11.69
+415,"What is the distance between ""Zaika"" and ""Baraka"" in the Berlin area?",C,2.14,7.65,5.4,7.09
+416,"What is the distance between ""Zum Straßenfeger"" and ""Lernstatt e.V."" in the Berlin area?",C,9.79,7.31,4.9,6.39
+417,"What is the distance between ""Mitteres Nordamerika"" and ""Garten- und Siedlerfreunde Anlage Blankenburg e.V."" in the Berlin area?",B,20.11,17.51,11.94,18.43
+418,"What is the distance between ""Degussa Bank"" and ""Kinder Kochspaß. Kochschule & Familienrestaurant"" in the Berlin area?",C,8.57,9.15,7.03,2.09
+419,"What is the distance between ""Kasse"" and ""Norderoog"" in the Berlin area?",C,12.55,14.82,7.69,12.58
+420,"What is the distance between ""George Chirilas"" and ""Burger Vision"" in the Berlin area?",B,6.37,9.41,14.52,3.56
+421,"What is the distance between ""Lipschitzgrill"" and ""Gigi's Lounge"" in the Berlin area?",D,9.45,20.99,10.78,16.53
+422,"What is the distance between ""Kalyon"" and ""Vietnam Imbiss"" in the Berlin area?",D,1.43,8.12,1.63,3.06
+423,"What is the distance between ""Asteria"" and ""Wedding Grillhaus"" in the Berlin area?",B,6.99,2.82,9.63,4.89
+424,"What is the distance between ""Tao Dan"" and ""Motz-Wohnwagen"" in the Berlin area?",A,9.34,16.79,8.27,5.17
+425,"What is the distance between ""Yogibar"" and ""Ballettschule und Tanzschule Sylvia Hadrich"" in the Berlin area?",C,12.58,3.5,9.67,14.61
+426,"What is the distance between ""Ärztehaus"" and ""Praxisgemeinschaft Moritzplatz"" in the Berlin area?",D,13.47,9.27,4.09,6.45
+427,"What is the distance between ""Wesereck"" and ""Aslan"" in the Berlin area?",C,12.6,7.35,4.82,0.78
+428,"What is the distance between ""Roberta"" and ""Lucca"" in the Berlin area?",D,6.88,12.41,2.51,7.81
+429,"What is the distance between ""EXAKT"" and ""Gio's Georgische Küche"" in the Berlin area?",C,3.78,4.36,6.11,7.79
+430,"What is the distance between ""Mon Reve"" and ""Zum Straßenfeger"" in the Berlin area?",B,8.02,4.17,7.87,8.87
+431,"What is the distance between ""EKT - Roter Boller e.V."" and ""Thai Tasty"" in the Berlin area?",D,12.23,6.84,8.17,5.91
+432,"What is the distance between ""Kita Elfenbein"" and ""Amazon Hub Locker"" in the Berlin area?",B,16.12,9.12,15.71,12.33
+433,"What is the distance between ""Evangelischer Kirchhof St. Johannis und Heiland"" and ""Jelbi"" in the Berlin area?",B,12.52,5.62,3.49,10.48
+434,"What is the distance between ""Halle 22"" and ""Rollheimer"" in the Berlin area?",C,14.61,12.81,10.98,6.3
+435,"What is the distance between ""Dennewitzplatz"" and ""Loeperplatz"" in the Berlin area?",C,15.12,0.98,8.13,10.69
+436,"What is the distance between ""Dr. Sörensen Praxis für Rheumatologie"" and ""Dr. med. Sabine Jung"" in the Berlin area?",D,1.75,3.2,3.1,7.22
+437,"What is the distance between ""Goebelplatz"" and ""Lützowplatz"" in the Berlin area?",B,11.96,6.19,1.16,1.28
+438,"What is the distance between ""Schleuse Mühlendamm"" and ""Heinz-Galinski-Schule"" in the Berlin area?",C,11.95,5.07,10.41,16.67
+439,"What is the distance between ""My moon"" and ""Sushi Shop"" in the Berlin area?",C,6.02,0.95,2.67,8.75
+440,"What is the distance between ""PSt"" and ""Wohnheim Danckelmannstraße"" in the Berlin area?",B,2.3,7.11,3.25,9.59
+441,"What is the distance between ""Bhf. Vineta"" and ""cocoro"" in the Berlin area?",D,11.55,13.62,14.12,7.9
+442,"What is the distance between ""Marlene-Dietrich-Platz"" and ""Hubschrauber-Landeplatz der Bundesregierung Berlin-Tegel (Nord)"" in the Berlin area?",A,8.22,15.14,10.07,11.94
+443,"What is the distance between ""Kinderzahnarzt Dr. Monzer Solyman"" and ""Tele-Internetcafé Sonnenallee"" in the Berlin area?",D,4.59,14.28,5.81,7.03
+444,"What is the distance between ""Starbucks"" and ""Stützrad gGmbH"" in the Berlin area?",C,8.04,3.13,1.87,6.64
+445,"What is the distance between ""Kleingartenanlage Roedernaue 1916 e.V."" and ""Heijala-Land"" in the Berlin area?",D,8.36,11.0,10.14,3.64
+446,"What is the distance between ""Onkologische Schwerpunktpraxis"" and ""Kebap 63"" in the Berlin area?",C,5.81,7.58,3.66,10.13
+447,"What is the distance between ""Alter Schwede"" and ""Prinzen-Eck"" in the Berlin area?",D,4.17,10.77,13.61,6.65
+448,"What is the distance between ""Bar Italia"" and ""Jing Yang"" in the Berlin area?",A,5.65,2.94,3.79,13.29
+449,"What is the distance between ""Aslan"" and ""Pflege-Träger GmbH Ambulanter Pflegedienst"" in the Berlin area?",C,6.03,17.81,11.37,18.96
+450,"What is the distance between ""Balkanhalbinsel – Wälder und Gebüsche"" and ""High Park"" in the Berlin area?",A,7.27,14.14,0.8,12.37
+451,"What is the distance between ""Maczey"" and ""Shamrock Pub"" in the Berlin area?",D,13.7,12.07,17.34,15.74
+452,"What is the distance between ""Jelbi"" and ""Kita Mittelstraße"" in the Berlin area?",D,6.0,1.67,5.91,6.97
+453,"What is the distance between ""Chicken Club"" and ""Kristall Apotheke"" in the Berlin area?",A,5.58,11.87,9.55,8.4
+454,"What is the distance between ""Sommergarten"" and ""Tandoor Haus"" in the Berlin area?",B,7.8,13.65,7.61,19.85
+455,"What is the distance between ""KGA Nordpol II"" and ""Shakespeareplatz"" in the Berlin area?",A,6.09,8.79,13.18,8.84
+456,"What is the distance between ""Kita Mittelstraße"" and ""Schloss Britz"" in the Berlin area?",A,7.69,10.61,8.82,12.4
+457,"What is the distance between ""Beck's Bäckerei & Bistro"" and ""Lesbenberatung"" in the Berlin area?",A,8.56,2.53,12.77,1.0
+458,"What is the distance between ""Giuseppe"" and ""Kiez Kaffee Kraft"" in the Berlin area?",C,17.16,5.84,12.79,15.83
+459,"What is the distance between ""Zahnarztpraxis Dr. Anne Kehler"" and ""Golden Glory Germany"" in the Berlin area?",C,2.05,2.01,5.25,11.04
+460,"What is the distance between ""Zahnarztpraxis Sabrina Roedel"" and ""Wallaby"" in the Berlin area?",B,15.23,17.6,20.18,23.37
+461,"What is the distance between ""Polizei Abschnitt 34"" and ""Evangelische Dorfkirchengemeinde Britz"" in the Berlin area?",A,6.79,11.83,9.61,2.51
+462,"What is the distance between ""Mokalola"" and ""Bambus China Restaurant"" in the Berlin area?",D,5.39,4.74,7.4,2.99
+463,"What is the distance between ""Sorgenfrei"" and ""Polizei Abschnitt 13"" in the Berlin area?",B,8.34,13.12,14.3,15.17
+464,"What is the distance between ""Praxi Dr. Naoum"" and ""Isotop"" in the Berlin area?",B,9.07,4.51,10.1,1.76
+465,"What is the distance between ""Mekong Küche"" and ""See-Tank"" in the Berlin area?",B,0.82,8.31,5.39,2.03
+466,"What is the distance between ""Pan Africa"" and ""Springteufel Kinder- und Schülerladen"" in the Berlin area?",C,5.22,9.81,3.81,2.37
+467,"What is the distance between ""Atelier de la danse"" and ""Ionah"" in the Berlin area?",B,6.26,2.61,1.16,7.62
+468,"What is the distance between ""Waldbühne"" and ""Z"" in the Berlin area?",D,14.2,11.11,8.82,6.86
+469,"What is the distance between ""Kita 'Wilde 13'"" and ""Happy Sportsbar"" in the Berlin area?",A,8.38,14.19,14.16,14.5
+470,"What is the distance between ""KGA Drosselgarten"" and ""Kita Zwergenland"" in the Berlin area?",D,0.69,5.56,6.7,3.89
+471,"What is the distance between ""Trattoria á Muntagnola"" and ""Studentenwohnheim Sewanstraße"" in the Berlin area?",C,7.72,15.88,11.54,9.09
+472,"What is the distance between ""Kaffefreunde"" and ""Zwei Bären"" in the Berlin area?",C,11.62,7.45,4.29,7.83

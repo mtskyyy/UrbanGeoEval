@@ -1,0 +1,489 @@
+id,question,answer,A,B,C,D
+0,"What is the name of POI located at address: شارع الشيخ زايد, الصفا 1, الصفا, دبي, الإمارات العربية المتحدة?",B,Masjid Salman Al Farsi,Emarat,Wall Street Exchange,Emirates NBD
+1,"What is the name of POI located at address: شارع أم سقيم, البرشاء, البرشاء 1, دبي, الإمارات العربية المتحدة?",A,اينوك,امارات,Apachi Restaurant & Cafe,Five Guys
+2,"What is the name of POI located at address: سوق التوابل, ديرة, الرأس, دبي, الإمارات العربية المتحدة?",B,Emirates Bank,Spice Souk,RTA Public Parking,Baskin-Robbins
+3,"What is the name of POI located at address: شارع الشيخ راشد, Culture Village, الجداف, دبي, الإمارات العربية المتحدة?",B,National Bank Of Abudhabi,Emarat,ستاربكس,RAKBANK
+4,"What is the name of POI located at address: شارع عود ميثاء, بر دبي, عود ميثاء, دبي, الإمارات العربية المتحدة?",B,Health Avenue Polyclinics,EPPCO,EPPCO | 49 | Al-Ain Dubai Rd,du
+5,"What is the name of POI located at address: شارع الوصل, المنارة, دبي, الإمارات العربية المتحدة?",D,مركز شرطة نايف,Anjappar,RTA Public Parking,امارات
+6,"What is the name of POI located at address: Petrol Station Access, بر دبي, الميناء, دبي, الإمارات العربية المتحدة?",A,Emarat,RTA Public Parking,Kids Palace Nursery,Burger King
+7,"What is the name of POI located at address: شارع جميرا, جميرا 3, جميرا, دبي, الإمارات العربية المتحدة?",D,Massimo's Italian Restaurant,Sind Punjab Restaurant,Mall View Palace,ايبكو
+8,"What is the name of POI located at address: شارع بني ياس, ديرة, الرأس, دبي, الإمارات العربية المتحدة?",A,Dubai Old Souk - Abra dock,AL Razouki Money Exchange,Elevation Burger,Papa Roti
+9,"What is the name of POI located at address: شارع الشيخ راشد, بر دبي, عود ميثاء, دبي, الإمارات العربية المتحدة?",C,ستاربكس,Aster Medical Centre,ايبكو,Mawlana
+10,"What is the name of POI located at address: شارع 16, بر دبي, عود ميثاء, دبي, الإمارات العربية المتحدة?",A,Chi,Lebanos,Al Ansari Exchange,Layers Rent a Car
+11,"What is the name of POI located at address: 24b شارع, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",B,Lulu Exchange,RTA Public Parking,Lassi King,
+12,"What is the name of POI located at address: 24b شارع, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",D,kösebasi,EPPCO | 49 | Al-Ain Dubai Rd,Karma Kafé,RTA Public Parking
+13,"What is the name of POI located at address: 24b شارع, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",C,Emirates NBD,Chill Out Lounge,RTA Public Parking,Eton University
+14,"What is the name of POI located at address: طريق خالد بن الوليد, بر دبي, المنخول, دبي, الإمارات العربية المتحدة?",B,Simitchi coffee shop,Union National Bank,Hunters Room & Grill,Wall Street Exchange Centre
+15,"What is the name of POI located at address: 6a شارع, ديرة, نايف, ديرة, دبي, الإمارات العربية المتحدة?",B,Spice Souk,Afghan Kabab House,ايبكو,Calicut Notebook
+16,"What is the name of POI located at address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",D,مرسى دبي,Panoor,Al Khayma,Bayt Al Baghdadi
+17,"What is the name of POI located at address: شارع بني ياس, ديرة, الرأس, دبي, الإمارات العربية المتحدة?",A,Al Ras Public Library,RTA Public Parking,Adukkala restaurant,Panino
+18,"What is the name of POI located at address: 33a شارع, ند شما, الراشدية, دبي, الإمارات العربية المتحدة?",A,Pizza Hut,مطعم السند البنجاب,Emirates NBD,HM Fitness
+19,"What is the name of POI located at address: ممشى المارينا, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,Pizza Hut,Cafe Bateel,Mall View Palace,Lassi King
+20,"What is the name of POI located at address: Marina Promenade, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",D,Undeground Parking,ENOC,Life Pharmacy,Cityport Cafe
+21,"What is the name of POI located at address: ممشى المارينا, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",A,Spinneys Park,Marina Quays,Ardh Al Naseem Pharmacy,Emirates NBD
+22,"What is the name of POI located at address: Wheelchair access, وسط مدينة دبي, دبي, الإمارات العربية المتحدة?",B,Hor-Al-Anz Primary Health Centre,Margaux,F&S (Falafel & Schwarma),Embassy
+23,"What is the name of POI located at address: Wheelchair access, وسط مدينة دبي, دبي, الإمارات العربية المتحدة?",C,RTA Public Parking,Carter's,The Meat Co.,Subway
+24,"What is the name of POI located at address: شارع عود ميثاء, زعبيل, دبي, الإمارات العربية المتحدة?",B,Wild Wadi Waterpark,اينوك,Deira Old Souk,Prime Medical Centre
+25,"What is the name of POI located at address: الحديقة المائية وايلد وادي, شارع جميرا, أم سقيم 3, أم سقيم, دبي, الإمارات العربية المتحدة?",D,اينوك,Dosa Plaza,Mother Pharmacy,Wild Wadi Waterpark
+26,"What is the name of POI located at address: شارع الشيخ زايد, تلال الإمارات, جبل علي 1, دبي, الإمارات العربية المتحدة?",A,Hi Way Auto Service,Sangeetha Vegetarian Restaurant,The Rivington Grill,GCC Exchange
+27,"What is the name of POI located at address: شارع الشيخ زايد, الصفا 1, الصفا, دبي, الإمارات العربية المتحدة?",A,Burger King,Emirates Bank,Deira Old Souk,Yots Sports Lounge
+28,"What is the name of POI located at address: طريق خالد بن الوليد, بر دبي, المنخول, دبي, الإمارات العربية المتحدة?",C,Shiraaz Nights,Decebal,Golden Sands,Merelli's
+29,"What is the name of POI located at address: 1a شارع, بر دبي, المنخول, دبي, الإمارات العربية المتحدة?",B,Le Parisien,Kumarakam,Chowking,Mashreq
+30,"What is the name of POI located at address: شارع 318, القوز الصناعية 1, مجتمع القوز, دبي, الإمارات العربية المتحدة?",A,مطبخ الهنوف الشعبي,RTA Public Parking,Royal Dining,Caribou
+31,"What is the name of POI located at address: شارع مراكش, القرهود, دبي, الإمارات العربية المتحدة?",C,RTA Public Parking,Caravan Restaurant,Al Mawakeb School,Emirates NBD
+32,"What is the name of POI located at address: 43a شارع, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة?",D,Cityport Cafe,German Limbtech Orthopaedic,Starbucks,تمت ازالته
+33,"What is the name of POI located at address: شارع 8, بر دبي, عود ميثاء, دبي, الإمارات العربية المتحدة?",B,ENOC Car Wash,Adukkala restaurant,اينوك,Blends
+34,"What is the name of POI located at address: مطار محطة 02 الطريق., مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",D,Nahda Sahara Pharmacy,Red Tomato Pizza,Undeground Parking,"Airport Taxi Stand, Dubai Airport Terminal 02"
+35,"What is the name of POI located at address: شارع الصفا, البدع, دبي, الإمارات العربية المتحدة?",B,Arabella,إينوك,Mashreq,RTA Public Parking
+36,"What is the name of POI located at address: دبي مول, شارع المركز المالي, وسط مدينة دبي, دبي, الإمارات العربية المتحدة?",D,Starbucks,HSBC,مطعم السند البنجاب,Cinema Parking Dubai Mall
+37,"What is the name of POI located at address: The Walk at Jumeirah Beach Residence, Jumeirah Beach Residence, مرسى دبي, دبي, الإمارات العربية المتحدة?",C,Cityport Cafe,Subway,Arabella,Arabian Ranches Golf Club
+38,"What is the name of POI located at address: شارع الشيخ راشد, Culture Village, الجداف, دبي, الإمارات العربية المتحدة?",C,Samad Al Iraqi,Dosa Plaza,Subway,Oasis Court
+39,"What is the name of POI located at address: شارع عود ميثاء, زعبيل, دبي, الإمارات العربية المتحدة?",B,Hamria Shopping Centre,Subway,PRo suraj,Kitchen Cafe
+40,"What is the name of POI located at address: محطة 03 وقوف السيارات, مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",A,مبنى 3,RTA Public Parking,Danial Star Restaurant,Welcare Hospital
+41,"What is the name of POI located at address: طريق خالد بن الوليد, بر دبي, أم هرير, دبي, الإمارات العربية المتحدة?",D,Al Zeal Gym,ريم البوادي,Karama Park,Dubai Islamic Bank
+42,"What is the name of POI located at address: 3a شارع, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",D,VOX Cinemas,Mother Pharmacy,Emirates NBD,HSBC
+43,"What is the name of POI located at address: 3a شارع, القوز, القوز 1, دبي, الإمارات العربية المتحدة?",C,Ardh Al Naseem Pharmacy,Farooj,امارات,Palm Valley
+44,"What is the name of POI located at address: شارع الخماري, جميرا 3, جميرا, دبي, الإمارات العربية المتحدة?",D,مطعم مكسين,Calicut Paragon,Aspin Nursery,Samaa Medical Centre
+45,"What is the name of POI located at address: شارع البروج, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",C,Operation Falafel,AL Razouki Money Exchange,Welcare Hospital,Cavalli Club
+46,"What is the name of POI located at address: طريق المصلى, ديرة, نايف, ديرة, دبي, الإمارات العربية المتحدة?",C,Papa Roti,RTA Public Parking,Sixt Car Rental,Haagen-Dazs
+47,"What is the name of POI located at address: شارع آل مكتوم, ديرة, الرقة, ديرة, دبي, الإمارات العربية المتحدة?",D,Baskin-Robbins,Lila Cafe,Palm Valley,Thanawiya Post Office
+48,"What is the name of POI located at address: شارع مستشفى المكتوم, ديرة, نايف, دبي, الإمارات العربية المتحدة?",B,Apachi Restaurant & Cafe,مستشفى المكتوم,ستاربكس,Emirates NBD
+49,"What is the name of POI located at address: 9, Shoreline Street, نخلة جميرا, دبي, الإمارات العربية المتحدة?",C,ستاربكس,@Falafel,Costa Coffee,RTA Public Parking
+50,"What is the name of POI located at address: شارع JBR, Jumeirah Beach Residence, مرسى دبي, دبي, الإمارات العربية المتحدة?",C,Hey Pesto,Emirates NBD,Al Khayma,Deira Old Souk
+51,"What is the name of POI located at address: شارع الفلك, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",D,Calicut Notebook,Il Caffe di Roma,Subway,Vapiano
+52,"What is the name of POI located at address: 7 Street, ذا فيوز, الثنية 3, دبي, الإمارات العربية المتحدة?",B,امارات,Caribou,Stefano's,Shower
+53,"What is the name of POI located at address: شارع 28, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة?",B,RTA Public Parking,Park View,Subway,New Wide Range
+54,"What is the name of POI located at address: شارع 31, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة?",B,الدفاع المدني القوز,Nahda Sahara Pharmacy,Kamat Vegeterian Restaurant,Blends
+55,"What is the name of POI located at address: شارع 26, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة?",D,Shower,The Irish Village,The Lime Tree Cafe - Jumeirah 1,Palm Valley
+56,"What is the name of POI located at address: شارع 26, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة?",D,RTA Public Parking,Public Library,Puranmal,Al Zeal Gym
+57,"What is the name of POI located at address: شارع عمان, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة?",D,Al Safeer,Express car wash,Bombay Chowpaty,Dosa Plaza
+58,"What is the name of POI located at address: شارع عمان, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة?",B,Lulu Exchange,Bombay Chowpaty,Kids Palace Nursery,Costa Coffee
+59,"What is the name of POI located at address: شارع عمان, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة?",C,امارات,China Star Restaurant,Anjappar,RTA Public Parking
+60,"What is the name of POI located at address: شارع عمان, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة?",A,Chow King,Apachi Restaurant & Cafe,Paratha king,مطعم السند البنجاب
+61,"What is the name of POI located at address: شارع عمان, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة?",D,RTA Public Parking,Cinnabon,Marina Quays,HSBC
+62,"What is the name of POI located at address: شارع عمان, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة?",D,Grayling UAE,byky,Elevation Burger,Life Pharmacy
+63,"What is the name of POI located at address: شارع عمان, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة?",A,Ahl Almandi,Five Guys,Bur Dubai Abra Station,Bank Of Baroda
+64,"What is the name of POI located at address: شارع عمان, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة?",C,Ponderosa Steakhouse,EPPCO | 49 | Al-Ain Dubai Rd,Panoor,I.A.U - Islamic Azad University
+65,"What is the name of POI located at address: شارع عمان, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة?",C,The Meat Co.,GCC Exchange,Ardh Al Naseem Pharmacy,Vapiano
+66,"What is the name of POI located at address: شارع الشيخ محمد بن راشد, وسط مدينة دبي, دبي, الإمارات العربية المتحدة?",D,Bamboo Lagoon,Nando's,RTA Public Parking,Nezesaussie
+67,"What is the name of POI located at address: 042205858, شارع دمشق, القصيص الصناعية 1, القصيص الصناعية, دبي, الإمارات العربية المتحدة?",B,AbuHail Gym,Kumarakom Restaurant,50,Operation Falafel
+68,"What is the name of POI located at address: شارع عمان, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة?",B,Golden Fork Restaurant,اينوك,RTA Public Parking,China Star Restaurant
+69,"What is the name of POI located at address: شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",B,Al Neel Exchange,Nando's,Shawarmaji Restaurant and Coffee Shop,Caribou
+70,"What is the name of POI located at address: 44c شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",D,Tikka Cafe,RTA Public Parking,Grand Parking,New Medical Centre
+71,"What is the name of POI located at address: 44c شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",A,Foodlands,Dubai Herbal And Treatment Centre,Spice Souk,I.A.U - Islamic Azad University
+72,"What is the name of POI located at address: شارع أبو هيل, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",C,Belhasa Driving Institute,RAKBANK,دجاج كنتاكي,
+73,"What is the name of POI located at address: شارع أبو هيل, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",B,Madras Vegetarian Restaurant,Emarat,Life Pharmacy,Bazerkan
+74,"What is the name of POI located at address: Al Qasr Hotel, الصفوح 1, قرية المعرفة, دبي, الإمارات العربية المتحدة?",C,Grayling UAE,Awani,Khaymat Al Bahar,Merelli's
+75,"What is the name of POI located at address: شارع الشيخ محمد بن راشد, وسط مدينة دبي, دبي, P.O. Box 9770, الإمارات العربية المتحدة?",C,Life Pharmacy,Keerthi,Asado,ستاربكس
+76,"What is the name of POI located at address: Wheelchair access, وسط مدينة دبي, دبي, الإمارات العربية المتحدة?",A,The Rivington Grill,I.A.U - Islamic Azad University,Mall View Palace,مدرسة مانشستر للأعمال
+77,"What is the name of POI located at address: 81, شارع الأسد, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",C,Kumarakom Restaurant,Kids Palace Nursery,NAYAS Restaurant & Cafe,Shake Shack
+78,"What is the name of POI located at address: شارع الملك سلمان بن عبدالعزيز آل سعود, مدينة دبي للإعلام, قرية المعرفة, دبي, الإمارات العربية المتحدة?",A,Circle,Stefano's,Taza,ماكدونالدز
+79,"What is the name of POI located at address: شارع الملك سلمان بن عبدالعزيز آل سعود, ميناء دبي, مرسى دبي, دبي, الإمارات العربية المتحدة?",C,Burger King,le Pirate,Bussola,Arabian Ranches Golf Club
+80,"What is the name of POI located at address: شارع 19, بر دبي, أم هرير, دبي, الإمارات العربية المتحدة?",B,2000 Restaurant,German Limbtech Orthopaedic,Platform Fitness 3,Al-Manhal Kindergarten
+81,"What is the name of POI located at address: شارع الأسد, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",C,2000 Restaurant,Al Zeal Gym,Costa,Al Ansari Exchange
+82,"What is the name of POI located at address: شارع الملك سلمان بن عبدالعزيز آل سعود, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",D,Health Avenue Polyclinics,Better Grill,Papa John's,Costa Coffee
+83,"What is the name of POI located at address: شارع العراء, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",B,تيم هورتونز,Panino,Car Parking - Souk Madinat Jumeirah,RTA Public Parking
+84,"What is the name of POI located at address: 1b شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",B,Cirque du Soir,Hor-Al-Anz Primary Health Centre,Foodlands,RTA Public Parking
+85,"What is the name of POI located at address: 1b شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",C,كنيسة القديسة مريم الكاثوليكية,Emirates NBD,PRo suraj,Surfer's Kitchen
+86,"What is the name of POI located at address: شارع 42, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",B,دجاج كنتاكي,Madras Vegetarian Restaurant,Foodlands,مطبخ الهنوف الشعبي
+87,"What is the name of POI located at address: شارع 39, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",B,RTA Public Parking,Southern Spice Restaurant,Grand Parking,ايبكو
+88,"What is the name of POI located at address: 30b شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",D,Pars,Hamria Shopping Centre,Bamboo Lagoon,Aster Medical Centre
+89,"What is the name of POI located at address: 30b شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",D,Life Pharmacy,اينوك,Costa,Aster Pharmacy
+90,"What is the name of POI located at address: 30b شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",C,RTA Public Parking,@Falafel,AL Razouki Money Exchange,Haagen-Dazs
+91,"What is the name of POI located at address: 30b شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",B,Emarat,UAE Exchange,Arabella Pharmacy,Bamboo Lagoon
+92,"What is the name of POI located at address: 1b شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",C,AOC French Brasserie,Ponderosa Steakhouse,Engima Car Rental,Calicut Paragon
+93,"What is the name of POI located at address: 1b شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",C,RTA Public Parking,I.A.U - Islamic Azad University,AL Sakka Car Rental,Wall Street Exchange
+94,"What is the name of POI located at address: شارع أبو هيل, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",A,AbuHail Gym,Gateway Towers,Southern Spice Restaurant,Aroos Damascus
+95,"What is the name of POI located at address: شارع الوحيدة, ديرة, الممزر, دبي, الإمارات العربية المتحدة?",C,The Irish Village,Cityport Cafe,Dubai Islamic Bank,Al Ghurair Exchange
+96,"What is the name of POI located at address: 26a شارع, القصيص, دبي, الإمارات العربية المتحدة?",A,Union National Bank,Bussola,Ahl Almandi,RAKBANK
+97,"What is the name of POI located at address: 19a شارع, الطوار 1, الطوار, دبي, الإمارات العربية المتحدة?",A,اينوك,Hanco H,Mithash Sweets,2000 Restaurant
+98,"What is the name of POI located at address: شارع 12, بر دبي, أم هرير, دبي, الإمارات العربية المتحدة?",A,50,Seven Stones,Roxy Cinemas,RTA Public Parking
+99,"What is the name of POI located at address: Emergency, بر دبي, أم هرير, دبي, الإمارات العربية المتحدة?",A,مستشفى راشد,RTA Public Parking,Emirates NBD,Sarpino's
+100,"What is the name of POI located at address: شارع 10, بر دبي, أم هرير, دبي, الإمارات العربية المتحدة?",A,كنيسة القديسة مريم الكاثوليكية,Al Naseem Pharmacy,@Falafel,ميناء صيد جميرا
+101,"What is the name of POI located at address: شارع 13, النهدة, دبي, الإمارات العربية المتحدة?",D,RTA Public Parking,F&S (Falafel & Schwarma),Circle,Emirates NBD
+102,"What is the name of POI located at address: 22a شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",B,Samaa Medical Centre,ChinaTown Restaurant,Five Guys,Rimal Parking P3
+103,"What is the name of POI located at address: شارع 1, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",B,Blends,Blue Mountain,ستاربكس,Golden Fork
+104,"What is the name of POI located at address: 22a شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",C,McDonald's,RTA Public Parking,UAE Exchange,Pars
+105,"What is the name of POI located at address: شارع 18, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",B,Skyler's Place,Layers Rent a Car,Express car wash,الدفاع المدني القوز
+106,"What is the name of POI located at address: طريق الاتحاد, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",A,Commercial Bank of Dubai,RTA Public Parking,Keerthi,Cirque du Soir
+107,"What is the name of POI located at address: 44c شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",A,Flex Gym,Sports City,ZatarWZeit,Al Badia
+108,"What is the name of POI located at address: 34b شارع, السطوة, دبي, الإمارات العربية المتحدة?",D,Toscana,IVF & Women Clinic,RTA Public Parking,GEMS Wellington Primary School
+109,"What is the name of POI located at address: شارع الفلك, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",C,Parking Building,Starbucks,M:ZONE,Citibank
+110,"What is the name of POI located at address: Street 2, جميرا, دبي, الإمارات العربية المتحدة?",B,Sixt Car Rental,ميناء صيد جميرا,Costa Coffee,Life Pharmacy
+111,"What is the name of POI located at address: شارع الغربى, Jumeirah Beach Residence, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,UAE Exchange,Five Guys,Aprons & Hammers,Paratha king
+112,"What is the name of POI located at address: شارع الغربى, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",D,Al Khayma,Red Tomato Pizza,ChinaTown Restaurant,Marina Quays
+113,"What is the name of POI located at address: دبي مارينا, الثنية 5, دبي, 473828, الإمارات العربية المتحدة?",A,AOC French Brasserie,Asado,Silver Eagle Restaurant,بيت المندي
+114,"What is the name of POI located at address: دبي مارينا, الثنية 5, دبي, 473828, الإمارات العربية المتحدة?",C,Cinema Parking Dubai Mall,Dubai Islamic Bank,Infini Pool Lounge,Cafe Bateel
+115,"What is the name of POI located at address: دبي مارينا, الثنية 5, دبي, 473828, الإمارات العربية المتحدة?",C,Al Arrab,Pepper & Crab,Rococo,إينوك
+116,"What is the name of POI located at address: دبي مارينا, الثنية 5, دبي, 473828, الإمارات العربية المتحدة?",D,Moda Cafe,Aprons & Hammers,Grand Parking,The Hub
+117,"What is the name of POI located at address: B2, 7a شارع, ديرة, الخبيصي, دبي, 41974, الإمارات العربية المتحدة?",B,NKD Pizza,Future Star BMT LLC,Dubai Islamic Bank,Dubai Old Souk - Abra dock
+118,"What is the name of POI located at address: شارع عمان, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة?",B,Chowking,ENOC Car Wash,Le Parisien,Il Caffe di Roma
+119,"What is the name of POI located at address: شارع 7, مدينة دبي للإعلام 2, الثنية 3, دبي, الإمارات العربية المتحدة?",C,Fun City,Shiraaz Nights,Nando's,Cinema Parking Dubai Mall
+120,"What is the name of POI located at address: شارع البروج, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",C,RTA Public Parking,Arabian Ranches Golf Club,Vista Rooftop Bar & Restaurant,Silver Eagle Restaurant
+121,"What is the name of POI located at address: شارع لطيفة بنت حمدان, القوز الصناعية 1, مجتمع القوز, دبي, الإمارات العربية المتحدة?",D,ZatarWZeit,RTA Public Parking,Pizza Inn,الدفاع المدني القوز
+122,"What is the name of POI located at address: 35a شارع, بر دبي, المنخول, دبي, الإمارات العربية المتحدة?",D,Deira Old Souk,Afghan Kabab House,RTA Public Parking,Al Mankhool Library
+123,"What is the name of POI located at address: شارع الشيخ صباح الأحمد الجابر الصباح, بر دبي, المنخول, دبي, الإمارات العربية المتحدة?",C,بيت المندي,Nezesaussie,Nashwan,Fisherman's Wharf
+124,"What is the name of POI located at address: شارع الطراد, جميرا 3, جميرا, دبي, الإمارات العربية المتحدة?",B,Calicut Notebook,McDonald's,Paragon,Baskin-Robbins
+125,"What is the name of POI located at address: شارع البيلي, جميرا 3, جميرا, دبي, الإمارات العربية المتحدة?",D,Spinneys Park,Chow King,Spice Souk,Boots Pharmacy
+126,"What is the name of POI located at address: 108, 4a شارع, الصفا 2, الصفا, دبي, الإمارات العربية المتحدة?",A,Arabella Pharmacy,UAE Exchange,Budget,LIFE Pharmacy
+127,"What is the name of POI located at address: شارع الوصل, جميرا 3, جميرا, دبي, P O BOX 3766, الإمارات العربية المتحدة?",A,HSBC,VOX Cinemas,Skyler's Place,Marina Mall Parking
+128,"What is the name of POI located at address: شارع الوصل, جميرا 3, جميرا, دبي, الإمارات العربية المتحدة?",B,La Dolce Vota,Eat & Drink,ميناء صيد جميرا,Red Tomato Pizza
+129,"What is the name of POI located at address: شارع الوصل, الصفا 2, الصفا, دبي, الإمارات العربية المتحدة?",A,Modern Veterinary Clinic,Paratha king,RTA Public Parking,Aster Pharmacy
+130,"What is the name of POI located at address: شارع القدس, مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",C,The Lime Tree Cafe - Jumeirah 1,Marina Mall Parking,Emirates NBD,Cinema Parking Dubai Mall
+131,"What is the name of POI located at address: شارع القدس, مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",D,Boots Pharmacy,50,Thanawiya Post Office,Emirates NBD
+132,"What is the name of POI located at address: طريق المطار الداخلي, مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",B,Apachi Restaurant & Cafe,Emirates NBD,Life Pharmacy,Paratha king
+133,"What is the name of POI located at address: طريق المطار الداخلي, مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",C,Kebabji,Shooters Billiard Cafe,HSBC,"Airport Taxi Stand, Dubai Airport Terminal 02"
+134,"What is the name of POI located at address: شارع جميرا, أم سقيم 3, أم سقيم, دبي, الإمارات العربية المتحدة?",C,Kitchen Cafe,Grand Parking,Surfer's Kitchen,La Dolce Vota
+135,"What is the name of POI located at address: شارع جميرا, أم سقيم 3, أم سقيم, دبي, الإمارات العربية المتحدة?",A,Dhow & Lagoon Kitchen,China Sea,nextbike,byky
+136,"What is the name of POI located at address: شارع جميرا, أم سقيم 3, أم سقيم, دبي, الإمارات العربية المتحدة?",B,Spice Souk,Wave View Café,Nashwan,ستاربكس
+137,"What is the name of POI located at address: دبي, الإمارات العربية المتحدة?",B,Organic Café,آيلاند بيتش كلوب,Golden Fork,Nando's
+138,"What is the name of POI located at address: JLT Cluster W, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",D,RTA Public Parking,Bhavna,معبد هندوسي,Lebanos
+139,"What is the name of POI located at address: شارع الربيع, ذا فيوز, الصفوح 2, دبي, الإمارات العربية المتحدة?",A,Organic Café,Puranmal,Caribou,Costa
+140,"What is the name of POI located at address: شارع الربيع, ذا فيوز, الصفوح 2, دبي, الإمارات العربية المتحدة?",A,ستاربكس,Nando's,DHL,Pizza Hut
+141,"What is the name of POI located at address: 92, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",B,Danial Star Restaurant,Pizza Hut,Aster Clinic,Emirates NBD
+142,"What is the name of POI located at address: 106, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",A,ZatarWZeit,ايبكو,Fun City,Tikka Cafe
+143,"What is the name of POI located at address: شارع جميرا, أم سقيم 2, أم سقيم, دبي, الإمارات العربية المتحدة?",A,طهران,Aspin Nursery,Layers Rent a Car,RTA Public Parking
+144,"What is the name of POI located at address: اينوك, Petrol Station Access, البرشاء شمال, البرشاء 3, دبي, الإمارات العربية المتحدة?",D,Bistro 55,ماكدونالدز,Al Badia,McDonald's
+145,"What is the name of POI located at address: شارع الشيخ زايد, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",A,ProWash,Fisherman's Wharf,خان مرجان,Five Guys
+146,"What is the name of POI located at address: Arabian Ranches Colf Club, المرابع العربية, وادي الصفا 6, دبي, الإمارات العربية المتحدة?",D,امارات,مركز شرطة نايف,Mashreq,Arabian Ranches Golf Club
+147,"What is the name of POI located at address: شارع الممشى, Jumeirah Beach Residence, مرسى دبي, دبي, الإمارات العربية المتحدة?",A,The Butcher Shop & Grill,Subway,Fun City,Nando's
+148,"What is the name of POI located at address: شارع الملك سلمان بن عبدالعزيز آل سعود, Jumeirah Beach Residence, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,Express car wash,ستاربكس,Aster Medical Centre,Circle
+149,"What is the name of POI located at address: شارع الممشى, Jumeirah Beach Residence, مرسى دبي, دبي, الإمارات العربية المتحدة?",C,Cityport Cafe,Let's wok,Starbucks,ايبكو
+150,"What is the name of POI located at address: Desert Spring Village Residence Street, Desert Spring Village, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",A,Paragon,Table 9,Al Mawakeb School,Emirates NBD
+151,"What is the name of POI located at address: ممشى المارينا, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,Cafe Fiesta Zone,Aquara Restaurant & Lounge,Undeground Parking,RTA Public Parking
+152,"What is the name of POI located at address: شارع الحبوب, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",C,RTA Public Parking,Aster Medical Centre,Yots Sports Lounge,Kayaloram
+153,"What is the name of POI located at address: شارع الحبوب, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",C,Costa Coffee,First Med,Bob’s Fish and Chips,Online Trading Academy
+154,"What is the name of POI located at address: شارع الحيمر, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",C,Bazerkan,Massimo's Italian Restaurant,Budget,ماكدونالدز
+155,"What is the name of POI located at address: شارع السيورة, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",A,RAK Bank,مستشفى الإمارات,Eggspectation,خان مرجان
+156,"What is the name of POI located at address: شارع الملك سلمان بن عبدالعزيز آل سعود, ميناء دبي, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,Carter's,Barasti,Undeground Parking,House of Noodles
+157,"What is the name of POI located at address: شارع الغربى, Jumeirah Beach Residence, مرسى دبي, دبي, الإمارات العربية المتحدة?",D,Puranmal,West 14th,RTA Public Parking,ستاربكس
+158,"What is the name of POI located at address: شارع الفرقد, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",D,RTA Public Parking,اينوك,مركز شرطة نايف,Al Safeer
+159,"What is the name of POI located at address: شارع الفرقد, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",B,IVF & Women Clinic,Costa,Arabella,Shower
+160,"What is the name of POI located at address: شارع الفرقد, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",B,NAYAS Restaurant & Cafe,Golden Dragon,The Fridge,Engima Car Rental
+161,"What is the name of POI located at address: شارع الفرقد, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",A,Kamat Vegeterian Restaurant,Blends,RTA Public Parking,Shawarmaji Restaurant and Coffee Shop
+162,"What is the name of POI located at address: شارع الفرقد, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",B,معبد هندوسي,Seven Stones,Aspin Nursery,UAE Exchange
+163,"What is the name of POI located at address: شارع الفرقد, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",A,Subway,RTA Public Parking,Margaux,الدفاع المدني القوز
+164,"What is the name of POI located at address: شارع الحبوب, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,Aprons & Hammers,Pampered Pets,Food Court (south),Ardh Al Naseem Pharmacy
+165,"What is the name of POI located at address: ممشى المارينا, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,Burger King,Kitchen Cafe,Modern Veterinary Clinic,Costa Coffee
+166,"What is the name of POI located at address: 3, شارع الحبوب, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",A,Blends,مدرسة مانشستر للأعمال,China Gate (Hot Pot),The Food Square
+167,"What is the name of POI located at address: شارع الحبوب, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",D,Bagets & more,مبنى 3,Flex Gym,Potato Hut
+168,"What is the name of POI located at address: شارع الحبوب, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",C,Hor-Al-Anz Primary Health Centre,RTA Public Parking,Life Pharmacy,Emirates Driving Institute
+169,"What is the name of POI located at address: شارع الشيخ زايد, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",A,Costa,AL Razouki Money Exchange,RTA Public Parking,le Pirate
+170,"What is the name of POI located at address: شارع الخريف 2, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",C,Roxy Cinemas,Aster Medical Centre,Rock Bottom,Arasco Coffee
+171,"What is the name of POI located at address: شارع 20, البرشاء, البرشاء 1, دبي, الإمارات العربية المتحدة?",C,Caribou,Panoor,Mall View Palace,Zaatar W Zeit
+172,"What is the name of POI located at address: West Beach Palm Jumeirah, نخلة جميرا, دبي, الإمارات العربية المتحدة?",C,Merelli's,Emarat,West 14th,White Falcon Restaurant
+173,"What is the name of POI located at address: Rimal 4, شارع الملك سلمان بن عبدالعزيز آل سعود, Jumeirah Beach Residence, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,kösebasi,Rimal Parking P2,Awani,Pizza Hut
+174,"What is the name of POI located at address: Rimal 5, شارع الملك سلمان بن عبدالعزيز آل سعود, Jumeirah Beach Residence, مرسى دبي, دبي, الإمارات العربية المتحدة?",A,Rimal Parking P3,Samaa Medical Centre,Bur Dubai Abra Station,Emirates Driving Institute
+175,"What is the name of POI located at address: شارع JBR, Jumeirah Beach Residence, مرسى دبي, دبي, الإمارات العربية المتحدة?",D,Citibank,Let's wok,RTA Public Parking,Murjan Parking P1
+176,"What is the name of POI located at address: Bahar 2, شارع الغربى, Jumeirah Beach Residence, مرسى دبي, دبي, الإمارات العربية المتحدة?",D,Margaux,RTA Public Parking,Table 9,Rimal Parking P1
+177,"What is the name of POI located at address: Bahar 2, شارع الغربى, Jumeirah Beach Residence, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,RTA Public Parking,Bahar Parking P4,Embassy,Rimal Parking P3
+178,"What is the name of POI located at address: طريق دبي - العين, ميدان, ند الشبا, دبي, الإمارات العربية المتحدة?",B,RTA Public Parking,ايبكو,HSBC,Emirates NBD
+179,"What is the name of POI located at address: شارع الشيخ صباح الأحمد الجابر الصباح, بر دبي, الجافلية, دبي, الإمارات العربية المتحدة?",D,ماكدونالدز,The Food Square,RTA Public Parking,Golden Fork
+180,"What is the name of POI located at address: Kunooz 4 Street, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة?",B,2000 Restaurant,The Fridge,Bamboo Lagoon,Spice Souk
+181,"What is the name of POI located at address: ممشى المارينا, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,HM Fitness,byky,Carter's,Emarat
+182,"What is the name of POI located at address: شارع الشيخ راشد, بر دبي, أم هرير, دبي, الإمارات العربية المتحدة?",C,Sind Punjab Restaurant,Vapiano,خان مرجان,Golden Fork
+183,"What is the name of POI located at address: شارع الشيخ محمد بن راشد, وسط مدينة دبي, دبي, الإمارات العربية المتحدة?",D,Emirates NBD,Charlies Sub,The Track Meydan Golf,Armani/Amal
+184,"What is the name of POI located at address: شارع بني ياس, ديرة, رقة البطين, دبي, الإمارات العربية المتحدة?",D,Najeela,Lebanos,Pappa Rotti,Table 9
+185,"What is the name of POI located at address: شارع بني ياس, ديرة, رقة البطين, دبي, الإمارات العربية المتحدة?",D,Al Arrab,RTA Public Parking,Costa,Ashiana
+186,"What is the name of POI located at address: شارع الملك سلمان بن عبدالعزيز آل سعود, ميناء دبي, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,Ravi,Hunters Room & Grill,Orient Exchange,Belhasa Driving Institute
+187,"What is the name of POI located at address: شارع الشيخ راشد, بر دبي, عود ميثاء, دبي, الإمارات العربية المتحدة?",A,Carter's,RTA Public Parking,Amanos Restaurant and Cafe,HSBC
+188,"What is the name of POI located at address: شارع 2, القرهود, دبي, الإمارات العربية المتحدة?",A,The Irish Village,Express car wash,بيت المندي,Infini Pool Lounge
+189,"What is the name of POI located at address: شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",C,Karama Park,Toscana,Cavalli Club,RTA Public Parking
+190,"What is the name of POI located at address: شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",C,NKD Pizza,I.A.U - Islamic Azad University,Cirque du Soir,Bussola
+191,"What is the name of POI located at address: شارع 4ب, المنارة, دبي, الإمارات العربية المتحدة?",D,RTA Public Parking,Awani,كابول دربار,Chill Out Lounge
+192,"What is the name of POI located at address: ممشى المارينا, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,ميناء صيد جميرا,Zaatar W Zeit,Armani/Amal,Emirates NBD
+193,"What is the name of POI located at address: ممشى المارينا, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",D,Sports City,Cirque du Soir,RTA Public Parking,Moda Cafe
+194,"What is the name of POI located at address: ممشى المارينا, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",C,Roxy Cinemas,I.A.U - Islamic Azad University,NKD Pizza,Taza
+195,"What is the name of POI located at address: ممشى المارينا, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,امارات,Fisherman's Wharf,Dubai Mall Cinema Parking P3,كنيسة القديسة مريم الكاثوليكية
+196,"What is the name of POI located at address: شارع النهدة, النهدة, دبي, الإمارات العربية المتحدة?",A,النادي الأهلي الرياضي,RTA Public Parking,Mashreq,The Food Square
+197,"What is the name of POI located at address: شارع 7, المنارة, دبي, 6656, الإمارات العربية المتحدة?",A,Reem Al Bawadi (Sheikh Zayed Road Branch),Anapoorna Vegetarian Restaurant,ايبكو,Pizza Hut
+198,"What is the name of POI located at address: شارع جميرا, جميرا 3, جميرا, دبي, الإمارات العربية المتحدة?",D,NAYAS Restaurant & Cafe,Lebanos,Dubai Islamic Bank,Amanos Restaurant and Cafe
+199,"What is the name of POI located at address: شارع الشيخ محمد بن راشد, وسط مدينة دبي, دبي, الإمارات العربية المتحدة?",B,مستشفى الإمارات,ريم البوادي,مستشفى راشد,Ajanta Restaurant
+200,"What is the name of POI located at address: 29a شارع, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة?",C,ENOC,امارات,Karama Park,The Lime Tree Cafe - Jumeirah 1
+201,"What is the name of POI located at address: شارع 35, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة?",B,I.A.U - Islamic Azad University,Lulu Exchange,West 14th,RTA Public Parking
+202,"What is the name of POI located at address: شارع الكرامة, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة?",B,Karama Park,Ajanta Restaurant,RTA Public Parking,Aster Medical Centre
+203,"What is the name of POI located at address: 43a شارع, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة?",A,Himalaya Restaurant,palm jumira,Vapiano,Ajanta Restaurant
+204,"What is the name of POI located at address: شارع الكرامة, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة?",C,Costa,Bagets & more,Sind Punjab Restaurant,Al Zeal Gym
+205,"What is the name of POI located at address: شارع الفصول, مدينة دبي للإعلام 2, الثنية 1, دبي, 6834, الإمارات العربية المتحدة?",D,Karachi Darbar,اينوك,Eton University,Lila Cafe
+206,"What is the name of POI located at address: شارع الرئيسي, أم سقيم 3, أم سقيم, دبي, الإمارات العربية المتحدة?",B,RTA Public Parking,Kids Palace Nursery,الدفاع المدني القوز,Al Neel Exchange
+207,"What is the name of POI located at address: شارع 3, البرشاء, البرشاء 1, دبي, الإمارات العربية المتحدة?",B,Papa Roti,Shawarmaji Restaurant and Coffee Shop,مستشفى الإمارات,Citibank
+208,"What is the name of POI located at address: شارع 51, جميرا, دبي, الإمارات العربية المتحدة?",A,مطعم مكسين,Modern Veterinary Clinic,Cavalli Club,Adukkala restaurant
+209,"What is the name of POI located at address: شارع الصفا, البدع, دبي, الإمارات العربية المتحدة?",C,ستاربكس,RTA Public Parking,Life Pharmacy,Lila Cafe
+210,"What is the name of POI located at address: شارع الوصل, سيتي ووك, الوصل, دبي, الإمارات العربية المتحدة?",C,Emirates NBD,Shiraaz Nights,Emirates Bank,Tayyab Restaurant
+211,"What is the name of POI located at address: سوق مدينة جميرا, Madinat Jumeirah, الصفوح 1, أم سقيم, دبي, الإمارات العربية المتحدة?",B,Dubai Islamic Bank,Car Parking - Souk Madinat Jumeirah,Amanos Restaurant and Cafe,LIFE Pharmacy
+212,"What is the name of POI located at address: طريق خالد بن الوليد, بر دبي, الحمرية, دبي, الإمارات العربية المتحدة?",B,Vaibhav,Aryaa's,Rimal Parking P1,مرسى دبي
+213,"What is the name of POI located at address: 11b شارع, بر دبي, الحمرية, دبي, الإمارات العربية المتحدة?",C,بيت المندي,AL Razouki Money Exchange,Oasis Court,Bagets & more
+214,"What is the name of POI located at address: طريق خالد بن الوليد, بر دبي, الحمرية, دبي, الإمارات العربية المتحدة?",B,Yuraku,Al Ghurair Exchange,Future Star BMT LLC,Vista Rooftop Bar & Restaurant
+215,"What is the name of POI located at address: شارع علي بن أبي طالب, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",B,Red Tomato Pizza,معبد شرينثجي,كنيسة القديسة مريم الكاثوليكية,McDonald's
+216,"What is the name of POI located at address: Building 1, Metro Link, وسط مدينة دبي, دبي, الإمارات العربية المتحدة?",D,ETISALAT Public Phone,Bombay Chowpaty,Subway,Hey Pesto
+217,"What is the name of POI located at address: شارع اليمامة, وسط مدينة دبي, دبي, الإمارات العربية المتحدة?",A,Karma Kafé,The Greens Fountain,Panda Chinese,Pizza Inn
+218,"What is the name of POI located at address: دبي مول, شارع المركز المالي, وسط مدينة دبي, دبي, الإمارات العربية المتحدة?",A,Dubai Mall Cinema Parking P5,Kebabji,ستاربكس,Al Ghurair Construction Readymix
+219,"What is the name of POI located at address: دبي مول, شارع المركز المالي, وسط مدينة دبي, دبي, الإمارات العربية المتحدة?",A,Dubai Mall Cinema Parking P3,Pizza Inn,Keerthi,Mashreq
+220,"What is the name of POI located at address: شارع البروج, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",A,Oregano,La Gaufrette,Life Pharmacy,Emirates NBD
+221,"What is the name of POI located at address: شارع القدس, الطوار 2, الطوار, دبي, الإمارات العربية المتحدة?",A,اينوك,Community Pharmacy,Al Badia,Emirates NBD
+222,"What is the name of POI located at address: شارع دمشق, الطوار 2, الطوار, دبي, الإمارات العربية المتحدة?",C,Silver Eagle Restaurant,Fisherman's Wharf,Public Library,Emirates Driving Institute
+223,"What is the name of POI located at address: شارع الصفا, Sheikh Zayed Road, السطوة, دبي, الإمارات العربية المتحدة?",C,Cafe Fiesta Zone,Hatam Al Thai,Express car wash,Puranmal
+224,"What is the name of POI located at address: شارع الصفا, Sheikh Zayed Road, السطوة, دبي, الإمارات العربية المتحدة?",D,Anapoorna Vegetarian Restaurant,Emarat,UAE Exchange,BP Grand Lube
+225,"What is the name of POI located at address: دبي مول, شارع المركز المالي, وسط مدينة دبي, دبي, الإمارات العربية المتحدة?",A,Grand Parking,Golden Fork,Seven Stones,Pappa Rotti
+226,"What is the name of POI located at address: دبي مول, شارع المركز المالي, وسط مدينة دبي, دبي, الإمارات العربية المتحدة?",A,Grand Parking,ENOC Car Wash,Surfer's Kitchen,كابول دربار
+227,"What is the name of POI located at address: طريق خالد بن الوليد, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",D,Dubai Herbal And Treatment Centre,Car Parking - Souk Madinat Jumeirah,UAE Exchange,Aster Medical Centre
+228,"What is the name of POI located at address: شارع 25ب, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",A,مطعم السند البنجاب,The Fridge,Charlies Sub,ريم البوادي
+229,"What is the name of POI located at address: شارع 21أ, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",B,Pepper & Crab,Golden Fork Restaurant,Better Grill,Panoor
+230,"What is the name of POI located at address: شارع الرفاع, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",D,Orient Exchange,RTA Public Parking,Future Star BMT LLC,Puranmal
+231,"What is the name of POI located at address: 28, 25c شارع, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",C,Zpizza,Foodlands,Bhavna,RTA Public Parking
+232,"What is the name of POI located at address: شارع الشيخ زايد, القوز 3, مجتمع القوز, دبي, الإمارات العربية المتحدة?",B,Southern Spice Restaurant,National Bank Of Abudhabi,Dubai Herbal And Treatment Centre,Life Pharmacy
+233,"What is the name of POI located at address: شارع الاسبيج, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",C,Puranmal,RTA Public Parking,Mithash Sweets,Paragon
+234,"What is the name of POI located at address: شارع الاسبيج, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",A,Sukh Sagar,Mother Pharmacy,Reem Al Bawadi (Sheikh Zayed Road Branch),Thanawiya Post Office
+235,"What is the name of POI located at address: شارع الاسبيج, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",A,Chavadi,Vaibhav,HSBC,RTA Public Parking
+236,"What is the name of POI located at address: طريق خالد بن الوليد, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",A,كابول دربار,Emirates NBD,ايبكو,Ravi
+237,"What is the name of POI located at address: شارع الاسبيج, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",A,Sangeetha Vegetarian Restaurant,Sind Punjab Restaurant,Rimal Parking P3,Anjappar
+238,"What is the name of POI located at address: 25c شارع, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",C,RTA Public Parking,ZatarWZeit,Vaibhav,Rimal Parking P1
+239,"What is the name of POI located at address: شارع الفهيدي, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",A,Emirates NBD,Public Library,ماكدونالدز,RTA Public Parking
+240,"What is the name of POI located at address: شارع علي بن أبي طالب, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",B,@Falafel,معبد هندوسي,Bhavna,Mawlana
+241,"What is the name of POI located at address: شارع الرفاع, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",D,Mawlana,Pappa Rotti,Life Pharmacy,Emirates Driving Institute
+242,"What is the name of POI located at address: شارع الرفاع, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",B,Bussola,Belhasa Driving Institute,Rock Bottom,AOC French Brasserie
+243,"What is the name of POI located at address: شارع النهضة (26), بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",D,2000 Restaurant,House of Pops,HSBC,Hotel Vasantha Bhavan
+244,"What is the name of POI located at address: 7, شارع الفهيدي, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",C,RTA Public Parking,Papa Roti,Puranmal,Let's wok
+245,"What is the name of POI located at address: شارع الفهيدي, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",C,Costa Coffee,UAE Exchange,Lassi King,Lila Cafe
+246,"What is the name of POI located at address: شارع الشيخ زايد, القوز 3, مجتمع القوز, دبي, الإمارات العربية المتحدة?",C,Boots Pharmacy,Community Pharmacy,Emirates NBD,Deira Old Souk
+247,"What is the name of POI located at address: Al Quoz Central Street, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة?",B,Welcare Hospital,Al Ghurair Construction Readymix,Costa Coffee,Reem Al Bawadi (Sheikh Zayed Road Branch)
+248,"What is the name of POI located at address: شارع النهار 2, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",B,Subway,Royal Dining,Pizza Inn,Joseph Qusais Polyclinic
+249,"What is the name of POI located at address: Zaabeel, D72, زعبيل, دبي, 2666, الإمارات العربية المتحدة?",D,RTA Public Parking,مبنى 3,Apachi Restaurant & Cafe,Dubai Herbal And Treatment Centre
+250,"What is the name of POI located at address: 6a شارع, ديرة, نايف, ديرة, دبي, الإمارات العربية المتحدة?",D,ماكدونالدز,Nashwan,ZatarWZeit,مركز شرطة نايف
+251,"What is the name of POI located at address: شارع اليمامة, وسط مدينة دبي, دبي, الإمارات العربية المتحدة?",A,Souk al Bahar,دجاج كنتاكي,Panoor,Al Naseem Pharmacy
+252,"What is the name of POI located at address: شارع 11, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة?",B,Subway,F&S (Falafel & Schwarma),Sadaf Parking P2,Emirates Driving Institute
+253,"What is the name of POI located at address: طريق خالد بن الوليد, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة?",C,RTA Public Parking,Al Badia,palm jumira,Stefano's
+254,"What is the name of POI located at address: Al Qasr Hotel, الصفوح 1, قرية المعرفة, دبي, الإمارات العربية المتحدة?",B,Nezesaussie,Toscana,Life Pharmacy,مدرسة مانشستر للأعمال
+255,"What is the name of POI located at address: شارع الرولة, بر دبي, الرفاعة, دبي, الإمارات العربية المتحدة?",D,Mawlana,LIFE Pharmacy,outdoor sport,Mashreq
+256,"What is the name of POI located at address: 1, شارع البرشاء 2, البرشاء, البرشاء 1, دبي, الإمارات العربية المتحدة?",B,معبد هندوسي,Food Court (south),Aappa Kadai,West 14th
+257,"What is the name of POI located at address: شارع الكويت, بر دبي, الرفاعة, دبي, الإمارات العربية المتحدة?",A,IVF & Women Clinic,byky,Budget,Lila Cafe
+258,"What is the name of POI located at address: شارع الرولة, بر دبي, الرفاعة, دبي, الإمارات العربية المتحدة?",C,امارات,Burger King,Multifood Restaurant & Cafeteria,Emarat
+259,"What is the name of POI located at address: 3a شارع, القوز, القوز 1, دبي, الإمارات العربية المتحدة?",D,Sukh Sagar,EPPCO,Bank of Baroda,Cafe Fiesta Zone
+260,"What is the name of POI located at address: 3a شارع, القوز, القوز 1, دبي, الإمارات العربية المتحدة?",C,RTA Public Parking,EPPCO,HM Fitness,Al Ghurair Exchange
+261,"What is the name of POI located at address: شارع الشيخ خليفة بن زايد, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة?",A,Burger King,Emarat,RTA Public Parking,Brix Desserts
+262,"What is the name of POI located at address: شارع 38, القصيص, دبي, 47602, الإمارات العربية المتحدة?",D,Pars,Karma Kafé,RTA Public Parking,Joseph Qusais Polyclinic
+263,"What is the name of POI located at address: 12, 32a شارع, القصيص, دبي, الإمارات العربية المتحدة?",D,Marina Mall Parking,Elevation Burger,ماكدونالدز,Al Naseem Pharmacy
+264,"What is the name of POI located at address: 20b شارع, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة?",B,Emirates NBD,Saravana Bhavan,Emirates Bank,Subway
+265,"What is the name of POI located at address: شارع 10, ديرة, البطين, دبي, الإمارات العربية المتحدة?",A,ALLRED SAFFRON,ZatarWZeit,Al-Manhal Kindergarten,Bamboo Lagoon
+266,"What is the name of POI located at address: Metro Link, وسط مدينة دبي, دبي, الإمارات العربية المتحدة?",C,AL Razouki Money Exchange,Subway,HSBC,"Airport Taxi Stand, Dubai Airport Terminal 02"
+267,"What is the name of POI located at address: شارع 7, القصيص الصناعية 1, القصيص الصناعية, دبي, الإمارات العربية المتحدة?",D,BurgerFuel,Le Parisien,Aster Medical Centre,Bank of Baroda
+268,"What is the name of POI located at address: مضمار ميدان, ند الشبا 1, ند الشبا, دبي, الإمارات العربية المتحدة?",A,The Track Meydan Golf,ايبكو,AL Sakka Car Rental,Golden Dragon
+269,"What is the name of POI located at address: شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",A,ستاربكس,Engima Car Rental,Middlesex Clock Tower,Costa Coffee
+270,"What is the name of POI located at address: جادة البادية, مجتمع رأس الخور الجديد, دبي فيستيفال سيتي, دبي, الإمارات العربية المتحدة?",C,Dubai Mall Cinema Parking P5,Emirates NBD,Al Badia,Elevation Burger
+271,"What is the name of POI located at address: مدينة دبي للإعلام 2, الثنية 3, دبي, الإمارات العربية المتحدة?",C,Khaymat Al Bahar,Emirates NBD,The Greens Fountain,ايبكو
+272,"What is the name of POI located at address: 20c شارع, الصفا 1, الصفا, دبي, الإمارات العربية المتحدة?",B,Bhavna,The English College,Table 9,Royal Dining
+273,"What is the name of POI located at address: Jumeirah Fishing Harbour, جميرا, دبي, الإمارات العربية المتحدة?",B,Feras Aldiyafa Sweets,Brix Desserts,Maxx Burgers,Emirates NBD
+274,"What is the name of POI located at address: شارع جميرا, جميرا, دبي, الإمارات العربية المتحدة?",D,NKD Pizza,إينوك,RTA Public Parking,The Lime Tree Cafe - Jumeirah 1
+275,"What is the name of POI located at address: A1/1, Semmer A Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة?",D,Nando's,Boots Pharmacy,Feri Kasif Tehroon,Costa
+276,"What is the name of POI located at address: A1/1, Semmer A Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة?",C,House of Noodles,Burger King,HSBC,RTA Public Parking
+277,"What is the name of POI located at address: A1/1, Semmer A Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة?",C,Al Ras Public Library,Nashwan,Orient Exchange,ماكدونالدز
+278,"What is the name of POI located at address: A-1/2, Semmer A Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة?",D,Cafe Fiesta Zone,Blue Mountain,Costa,Al Arrab
+279,"What is the name of POI located at address: شارع السطوة, السطوة, دبي, الإمارات العربية المتحدة?",B,Kamat Vegeterian Restaurant,Ravi,Circle,Hanco H
+280,"What is the name of POI located at address: 57a شارع, بر دبي, الجافلية, دبي, الإمارات العربية المتحدة?",A,Pars,معبد هندوسي,Arabella Pharmacy,BurgerFuel
+281,"What is the name of POI located at address: 40c شارع, رقة البطين, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",A,China Gate (Hot Pot),Etisalat,Baskin-Robbins,Dubai Bowling Centre
+282,"What is the name of POI located at address: شارع آل مكتوم, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",C,Seven Stones,Hey Pesto,China Sea,EPPCO | 49 | Al-Ain Dubai Rd
+283,"What is the name of POI located at address: Palm Jumeirah Broadwalk, نخلة جميرا, دبي, الإمارات العربية المتحدة?",A,nextbike,النادي الأهلي الرياضي,RAKBANK,Bombay Chowpaty
+284,"What is the name of POI located at address: B&, Marina Promenade, دبي مارينا, مرسى دبي, دبي, 32923, الإمارات العربية المتحدة?",D,RTA Public Parking,Loca,Mother Pharmacy,Massimo's Italian Restaurant
+285,"What is the name of POI located at address: 9, شارع الحبوب, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,HSBC,Better Grill,Table 9,RTA Public Parking
+286,"What is the name of POI located at address: ممشى المارينا, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",C,Silver Eagle Restaurant,امارات,Sarpino's,Le Parisien
+287,"What is the name of POI located at address: شارع الغربى, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",A,Pepper & Crab,Kumarakam,Marina Mall Parking,Sadaf Parking P2
+288,"What is the name of POI located at address: ممشى المارينا, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",C,HSBC,Hotel Vasantha Bhavan,La Gaufrette,The Hub
+289,"What is the name of POI located at address: ممشى المارينا, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,Dubai Mall Cinema Parking P5,Bazerkan,RTA Public Parking,Tikka Cafe
+290,"What is the name of POI located at address: ممشى المارينا, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",A,Loca,Sports City,Bahar Parking P4,Ardh Al Naseem Pharmacy
+291,"What is the name of POI located at address: شارع الضالع, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",C,HSBC,Dubai Mall Cinema Parking P5,Health Avenue Polyclinics,Al Arrab
+292,"What is the name of POI located at address: 25, شارع دمشق, القصيص الصناعية 1, القصيص الصناعية, دبي, الإمارات العربية المتحدة?",B,AbuHail Gym,RAKBANK,China Sea,Engima Car Rental
+293,"What is the name of POI located at address: شارع الفالح, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",A,مستشفى الإمارات,Caravan Restaurant,آيلاند بيتش كلوب,RTA Public Parking
+294,"What is the name of POI located at address: شارع الملك سلمان بن عبدالعزيز آل سعود, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",C,BP Grand Lube,ستاربكس,Embassy,RTA Public Parking
+295,"What is the name of POI located at address: 116, 34d شارع, أم سقيم 1, أم سقيم, دبي, الإمارات العربية المتحدة?",D,Emarat,Grand Parking,RTA Public Parking,Aspin Nursery
+296,"What is the name of POI located at address: JLT Cluster P, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",C,ايبكو,Reef Deira,Mister Baker,Kebabji
+297,"What is the name of POI located at address: شارع صلاح الدين, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",D,Al Mawakeb School,McDonald's,Golden Dragon,Prime Medical Centre
+298,"What is the name of POI located at address: شارع الممشى, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,RTA Public Parking,Roxy Cinemas,The Lime Tree Cafe - Jumeirah 1,Asado
+299,"What is the name of POI located at address: شارع الغربى, Jumeirah Beach Residence, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,Golden Dragon,The Food Square,Park View,Il Caffe di Roma
+300,"What is the name of POI located at address: JBR Jogging Track, The Beach, مرسى دبي, دبي, الإمارات العربية المتحدة?",A,Awani,Let's wok,Margaux,Red Tomato Pizza
+301,"What is the name of POI located at address: JBR Jogging Track, The Beach, مرسى دبي, دبي, الإمارات العربية المتحدة?",A,Shake Shack,Belhasa Driving Institute,كنيسة القديسة مريم الكاثوليكية,Vapiano
+302,"What is the name of POI located at address: JBR Jogging Track, The Beach, مرسى دبي, دبي, الإمارات العربية المتحدة?",D,Massimo's Italian Restaurant,Il Caffe di Roma,McDonald's,House of Pops
+303,"What is the name of POI located at address: شارع الممشى, The Beach, مرسى دبي, دبي, الإمارات العربية المتحدة?",A,Merelli's,le Pirate,Joseph Qusais Polyclinic,GCC Exchange
+304,"What is the name of POI located at address: شارع الممشى, مرسى دبي, دبي, الإمارات العربية المتحدة?",C,House of Pops,Nando's,ستاربكس,ميناء صيد جميرا
+305,"What is the name of POI located at address: شارع الممشى, The Beach, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,RTA Public Parking,Operation Falafel,Lassi King,Apachi Restaurant & Cafe
+306,"What is the name of POI located at address: شارع الممشى, The Beach, مرسى دبي, دبي, الإمارات العربية المتحدة?",D,Bamboo Lagoon,ايبكو,Orient Exchange,Pappa Rotti
+307,"What is the name of POI located at address: شارع الممشى, Jumeirah Beach Residence, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,La Dolce Vota,kösebasi,HSBC,RTA Public Parking
+308,"What is the name of POI located at address: شارع الممشى, مرسى دبي, دبي, الإمارات العربية المتحدة?",A,La Dolce Vota,Red Tomato Pizza,Arabella,Yots Sports Lounge
+309,"What is the name of POI located at address: شارع الملك سلمان بن عبدالعزيز آل سعود, Jumeirah Beach Residence, مرسى دبي, دبي, الإمارات العربية المتحدة?",D,Wall Street Exchange,Rococo,مستشفى المكتوم,Le Parisien
+310,"What is the name of POI located at address: شارع الملك سلمان بن عبدالعزيز آل سعود, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,Joseph Qusais Polyclinic,Kebabji,McDonald's,Grayling UAE
+311,"What is the name of POI located at address: ممشى المارينا, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",C,بيت المندي,Vapiano,Decebal,RTA Public Parking
+312,"What is the name of POI located at address: ممشى المارينا, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",C,Costa,Aryaa's,le Pirate,GCC Exchange
+313,"What is the name of POI located at address: شارع السبع, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",C,ريم البوادي,Brix Desserts,Saravanaa Bhojan Shala,Souk al Bahar
+314,"What is the name of POI located at address: شارع ثواب, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,HSBC,Society,The Food Square,Oregano
+315,"What is the name of POI located at address: JBR Jogging Track, The Beach, مرسى دبي, دبي, الإمارات العربية المتحدة?",D,Cinnabon,Table 9,Lila Cafe,Aprons & Hammers
+316,"What is the name of POI located at address: 4a شارع, ديرة, رقة البطين, دبي, الإمارات العربية المتحدة?",C,Merelli's,Pars,Mawlana,Vista Rooftop Bar & Restaurant
+317,"What is the name of POI located at address: طريق دبي - العين, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة?",D,Grand Parking,ايبكو,Mom's Food,EPPCO | 49 | Al-Ain Dubai Rd
+318,"What is the name of POI located at address: JBR Jogging Track, The Beach, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,Al Ras Public Library,outdoor sport,ZatarWZeit,Wall Street Exchange
+319,"What is the name of POI located at address: The Walk at Jumeirah Beach Residence, Jumeirah Beach Residence, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,Aquara Restaurant & Lounge,BurgerFuel,Al Rostamani Exchange,Emarat
+320,"What is the name of POI located at address: شارع الممشى, Jumeirah Beach Residence, مرسى دبي, دبي, الإمارات العربية المتحدة?",C,ستاربكس,Panda Chinese,Subway,RTA Public Parking
+321,"What is the name of POI located at address: شارع الممشى, Jumeirah Beach Residence, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,Cafe Bateel,Il Caffe di Roma,Welcare Hospital,Golden Fork Restaurant
+322,"What is the name of POI located at address: JBR Jogging Track, The Beach, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,Al Rostamani Exchange,Shower,Emirates NBD,byky
+323,"What is the name of POI located at address: شارع المرسى, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",D,Paragon,RTA Public Parking,Samaa Medical Centre,Marina Mall Parking
+324,"What is the name of POI located at address: 3a شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",A,Hamria Shopping Centre,Danial Star Restaurant,Arabella,Sports City
+325,"What is the name of POI located at address: 6d شارع, السطوة, دبي, الإمارات العربية المتحدة?",A,Al-Manhal Kindergarten,China Star Restaurant,Shooters Billiard Cafe,Hotel Vasantha Bhavan
+326,"What is the name of POI located at address: شارع 8, الطوار 1, الطوار, دبي, الإمارات العربية المتحدة?",D,Wall Street Exchange Centre,RTA Public Parking,Cafe Bateel,Parking Building
+327,"What is the name of POI located at address: JBR Jogging Track, The Beach, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,ETISALAT Public Phone,Eggspectation,RTA Public Parking,Potato Hut
+328,"What is the name of POI located at address: 3a شارع, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",A,Bur Dubai Abra Station,Parking Building,Fun City,بيت المندي
+329,"What is the name of POI located at address: شارع بني ياس, ديرة, البطين, دبي, الإمارات العربية المتحدة?",B,Burger King,Deira Old Souk,Bob’s Fish and Chips,Hi Way Auto Service
+330,"What is the name of POI located at address: شارع البروج, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",B,Hatam Al Thai,Subway,مركز شرطة نايف,
+331,"What is the name of POI located at address: Meadows Village, تلال الإمارات, دبي, الإمارات العربية المتحدة?",D,Wall Street Exchange Centre,Wild Wadi Waterpark,Dubai Islamic Bank,Costa
+332,"What is the name of POI located at address: شارع الأصايل, تلال الإمارات, الثنية 4, دبي, الإمارات العربية المتحدة?",D,معبد شرينثجي,ProWash,ميناء صيد جميرا,McDonald's
+333,"What is the name of POI located at address: شارع الأصايل, تلال الإمارات, الثنية 4, دبي, الإمارات العربية المتحدة?",A,ستاربكس,Subway,Sangeetha Vegetarian Restaurant,Life Pharmacy
+334,"What is the name of POI located at address: شارع عمان, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة?",D,مبنى 3,Emirates NBD,Amanos Restaurant and Cafe,Paratha king
+335,"What is the name of POI located at address: 23a شارع, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",C,Lulu Exchange,معبد هندوسي,Dubai Islamic Bank,Nezesaussie
+336,"What is the name of POI located at address: طريق أبو بكر الصديق, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",A,Anapoorna Vegetarian Restaurant,اينوك,Al-Manhal Kindergarten,Massimo's Italian Restaurant
+337,"What is the name of POI located at address: طريق أبو بكر الصديق, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",C,RTA Public Parking,HSBC,Calicut Notebook,Al Ghurair Exchange
+338,"What is the name of POI located at address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",D,Nahda Sahara Pharmacy,Lila Cafe,ستاربكس,Saravana Bhavan
+339,"What is the name of POI located at address: شارع 26, ديرة, المطينة, دبي, الإمارات العربية المتحدة?",B,Mall View Palace,Najeela,Golden Dragon,AbuHail Gym
+340,"What is the name of POI located at address: شارع الجزيرة, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",D,kösebasi,Rimal Parking P3,RTA Public Parking,Aroos Damascus
+341,"What is the name of POI located at address: شارع الرقة, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",B,Agemono,Haagen-Dazs,Dubai Mall Cinema Parking P3,Margaux
+342,"What is the name of POI located at address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",C,Al Neel Exchange,Emirates NBD,Silver Eagle Restaurant,The Rivington Grill
+343,"What is the name of POI located at address: طريق أبو بكر الصديق, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",C,Le Parisien,الدفاع المدني القوز,Mashreq Bank,Life Pharmacy
+344,"What is the name of POI located at address: 42a شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",A,Mother Pharmacy,RTA Public Parking,Karachi Darbar,Rock Bottom
+345,"What is the name of POI located at address: طريق أبو بكر الصديق, ديرة, المطينة, دبي, الإمارات العربية المتحدة?",A,Life Pharmacy,Chavadi,Kitchen Cafe,RTA Public Parking
+346,"What is the name of POI located at address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",C,Emirates NBD,ماكدونالدز,Karachi Darbar,HM Fitness
+347,"What is the name of POI located at address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",B,Nando's,Farooj,Wimpy's,Kebabji
+348,"What is the name of POI located at address: 18a شارع, ديرة, الرقة, ديرة, دبي, الإمارات العربية المتحدة?",A,Hatam Al Thai,Hor-Al-Anz Primary Health Centre,HSBC,Kumarakam
+349,"What is the name of POI located at address: 18a شارع, ديرة, الرقة, ديرة, دبي, الإمارات العربية المتحدة?",C,Eggspectation,National Bank Of Abudhabi,Shiraaz Nights,Hi Way Auto Service
+350,"What is the name of POI located at address: شارع 14, ديرة, الرقة, ديرة, دبي, الإمارات العربية المتحدة?",B,Dhow & Lagoon Kitchen,GCC Exchange,Bur Dubai Abra Station,Deira Old Souk
+351,"What is the name of POI located at address: طريق أبو بكر الصديق, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",D,Reef Deira,RTA Public Parking,Arabian Ranches Golf Club,First Med
+352,"What is the name of POI located at address: طريق أبو بكر الصديق, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",A,HSBC,palm jumira,2000 Restaurant,Thanawiya Post Office
+353,"What is the name of POI located at address: شارع صلاح الدين, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",D,50,Engima Car Rental,Dubai Herbal And Treatment Centre,پریمیئر تشخیصی مرکز
+354,"What is the name of POI located at address: شارع صلاح الدين, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",B,Cityport Cafe,2000 Restaurant,Nashwan,Arasco Coffee
+355,"What is the name of POI located at address: شارع صلاح الدين, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",A,Taza,NAYAS Restaurant & Cafe,Domino's,Fisherman's Wharf
+356,"What is the name of POI located at address: شارع الجزيرة, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",B,Rimal Parking P1,Burger King,Aquara Restaurant & Lounge,le Pirate
+357,"What is the name of POI located at address: 5b شارع, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",A,Elevation Burger,RTA Public Parking,مطبخ الهنوف الشعبي,le Pirate
+358,"What is the name of POI located at address: 5b شارع, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",B,HSBC,Nando's,Habib Bank AG Zurich,Life Pharmacy
+359,"What is the name of POI located at address: 5b شارع, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",B,Fisherman's Wharf,Chowking,Costa,Citibank
+360,"What is the name of POI located at address: المرقبات, دبي, الإمارات العربية المتحدة?",C,Calicut Notebook,Cafe Fiesta Zone,McDonald's,Zpizza
+361,"What is the name of POI located at address: 40a شارع, رقة البطين, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",C,Better Grill,Asado,Sports City,Aryaa's
+362,"What is the name of POI located at address: شارع الرشيد, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",A,Wall Street Exchange,Express car wash,Panoor,Al Badia
+363,"What is the name of POI located at address: شارع مستشفى المكتوم, ديرة, نايف, دبي, الإمارات العربية المتحدة?",B,Aroos Damascus,Emirates NBD,Bazerkan,Al Badia
+364,"What is the name of POI located at address: طريق السبخة, السبخة, ديرة, الضغاية, ديرة, دبي, الإمارات العربية المتحدة?",C,Shooters Billiard Cafe,Silver Eagle Restaurant,Wimpy's,First Med
+365,"What is the name of POI located at address: شارع نايف, السبخة, ديرة, السبخة, ديرة, دبي, الإمارات العربية المتحدة?",C,China Gate (Hot Pot),Eggspectation,Wall Street Exchange Centre,Dubai Cruise Terminal 2
+366,"What is the name of POI located at address: شارع بني ياس, ديرة, الرقة, ديرة, دبي, الإمارات العربية المتحدة?",C,Life Pharmacy,ALLRED SAFFRON,Danial Star Restaurant,Orient Exchange
+367,"What is the name of POI located at address: شارع صلاح الدين, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",A,Yuraku,Foodlands,RTA Public Parking,دجاج كنتاكي
+368,"What is the name of POI located at address: 12b شارع, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",D,Mom's Food,Sind Punjab Restaurant,Yots Sports Lounge,ماكدونالدز
+369,"What is the name of POI located at address: شارع المرقبات, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",C,RTA Public Parking,AL Sakka Car Rental,Samad Al Iraqi,Khaymat Al Bahar
+370,"What is the name of POI located at address: 13b شارع, ديرة, المطينة, دبي, الإمارات العربية المتحدة?",C,Lulu Exchange,RTA Public Parking,Masjid Salman Al Farsi,Operation Falafel
+371,"What is the name of POI located at address: شارع 4, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",B,Haagen-Dazs,Bamboo Lagoon,Rococo,Prime Medical Centre
+372,"What is the name of POI located at address: شارع المرقبات, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",B,Silver Eagle Restaurant,Domino's,Vaibhav,RTA Public Parking
+373,"What is the name of POI located at address: شارع المرقبات, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",C,2000 Restaurant,Ashiana,بيت المندي,Hamria Shopping Centre
+374,"What is the name of POI located at address: شارع المرقبات, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",A,LIFE Pharmacy,German Limbtech Orthopaedic,كابول دربار,Kumarakom Restaurant
+375,"What is the name of POI located at address: شارع صلاح الدين, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",A,Emirates NBD,مدرسة مانشستر للأعمال,Pizza Inn,Himalaya Restaurant
+376,"What is the name of POI located at address: شارع 14, ديرة, الرقة, ديرة, دبي, الإمارات العربية المتحدة?",A,McDonald's,ستاربكس,ميناء صيد جميرا,Masjid Salman Al Farsi
+377,"What is the name of POI located at address: شارع 14, ديرة, الرقة, ديرة, دبي, الإمارات العربية المتحدة?",D,Southern Spice Restaurant,RTA Public Parking,Baskin-Robbins,Al Dahab Exchange
+378,"What is the name of POI located at address: شارع 14, ديرة, الرقة, ديرة, دبي, الإمارات العربية المتحدة?",D,du,Seven Stones,Silver Eagle Restaurant,Al Neel Exchange
+379,"What is the name of POI located at address: شارع بني ياس, ديرة, الرقة, ديرة, دبي, الإمارات العربية المتحدة?",D,Lulu Exchange,RTA Public Parking,Spinneys Park,Bank Of Baroda
+380,"What is the name of POI located at address: طريق أبو بكر الصديق, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",B,Operation Falafel,Al Ansari Exchange,Let's wok,Fisherman's Wharf
+381,"What is the name of POI located at address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",C,White Falcon Restaurant,Aster Medical Centre,Lulu Exchange,Grand Parking
+382,"What is the name of POI located at address: شارع صلاح الدين, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",D,Cityport Cafe,Danial Star Restaurant,Orient Exchange,Pizza Inn
+383,"What is the name of POI located at address: شارع صلاح الدين, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",D,AbuHail Gym,Dubai Mall Cinema Parking P3,Arabian Ranches Golf Club,RTA Public Parking
+384,"What is the name of POI located at address: شارع صلاح الدين, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",C,Costa Coffee,Puranmal,RTA Public Parking,Emirates Bank
+385,"What is the name of POI located at address: شارع صلاح الدين, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",C,Mashreq Bank,Starbucks,RTA Public Parking,IVF & Women Clinic
+386,"What is the name of POI located at address: شارع صلاح الدين, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",C,Chowking,Dubai Herbal And Treatment Centre,RTA Public Parking,امارات
+387,"What is the name of POI located at address: شارع المطينة, ديرة, المطينة, دبي, الإمارات العربية المتحدة?",D,Lila Cafe,Kamat Vegeterian Restaurant,Fisherman's Wharf,RTA Public Parking
+388,"What is the name of POI located at address: شارع 24, ديرة, المطينة, دبي, الإمارات العربية المتحدة?",C,Citibank,Grand Parking,RTA Public Parking,Embassy
+389,"What is the name of POI located at address: شارع 26, ديرة, المطينة, دبي, الإمارات العربية المتحدة?",A,RTA Public Parking,Boots Pharmacy,Mother Pharmacy,Kamat Vegeterian Restaurant
+390,"What is the name of POI located at address: شارع 26, ديرة, المطينة, دبي, الإمارات العربية المتحدة?",D,امارات,Palm Valley,First Med,RTA Public Parking
+391,"What is the name of POI located at address: 35a شارع, ديرة, المطينة, دبي, الإمارات العربية المتحدة?",D,Burger King,مبنى 3,HSBC,RTA Public Parking
+392,"What is the name of POI located at address: 22c شارع, ديرة, المطينة, دبي, الإمارات العربية المتحدة?",C,The Irish Village,Brix Desserts,RTA Public Parking,Carter's
+393,"What is the name of POI located at address: 22c شارع, ديرة, المطينة, دبي, الإمارات العربية المتحدة?",B,Grayling UAE,RTA Public Parking,China Gate (Hot Pot),
+394,"What is the name of POI located at address: 22c شارع, ديرة, المطينة, دبي, الإمارات العربية المتحدة?",C,Aster Medical Centre,Foodlands,RTA Public Parking,
+395,"What is the name of POI located at address: 22c شارع, ديرة, المطينة, دبي, الإمارات العربية المتحدة?",D,RAK Bank,مطعم مكسين,Budget,RTA Public Parking
+396,"What is the name of POI located at address: 22c شارع, ديرة, المطينة, دبي, الإمارات العربية المتحدة?",B,Panoor,RTA Public Parking,Dosa Plaza,Shooters Billiard Cafe
+397,"What is the name of POI located at address: Zone 123A, شارع 29, ديرة, المطينة, دبي, الإمارات العربية المتحدة?",D,مطعم السند البنجاب,Emarat,New Wide Range,RTA Public Parking
+398,"What is the name of POI located at address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",B,Emirates NBD,RTA Public Parking,Merelli's,
+399,"What is the name of POI located at address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",D,مستشفى الإمارات,Sangeetha Vegetarian Restaurant,Grayling UAE,RTA Public Parking
+400,"What is the name of POI located at address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",B,Subway,RTA Public Parking,Emarat,The Food Square
+401,"What is the name of POI located at address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",A,RTA Public Parking,Orient Exchange,Le Parisien,Saravanaa Bhojan Shala
+402,"What is the name of POI located at address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",B,Burger King,RTA Public Parking,دجاج كنتاكي,Parking Building
+403,"What is the name of POI located at address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",A,RTA Public Parking,Charlies Sub,Bayt Al Baghdadi,Costa
+404,"What is the name of POI located at address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",B,Shawarmaji Restaurant and Coffee Shop,RTA Public Parking,Wild Wadi Waterpark,Caribou
+405,"What is the name of POI located at address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",C,ستاربكس,Mother Pharmacy,RTA Public Parking,Bur Dubai Abra Station
+406,"What is the name of POI located at address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",B,Pizza Hut,RTA Public Parking,Samaa Medical Centre,
+407,"What is the name of POI located at address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",B,The Irish Village,RTA Public Parking,Citibank,خان مرجان
+408,"What is the name of POI located at address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",A,RTA Public Parking,Chavadi,Ardh Al Naseem Pharmacy,Arabian Ranches Golf Club
+409,"What is the name of POI located at address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",A,RTA Public Parking,Pampered Pets,Lila Cafe,Joseph Qusais Polyclinic
+410,"What is the name of POI located at address: Burj Najar Mall, 10a شارع, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",A,RTA Public Parking,Caribou,Golden Sands,Operation Falafel
+411,"What is the name of POI located at address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",B,Aryaa's,RTA Public Parking,Merelli's,Fun City
+412,"What is the name of POI located at address: شارع 33, ديرة, المطينة, دبي, الإمارات العربية المتحدة?",C,Ahl Almandi,Pappa Rotti,RTA Public Parking,
+413,"What is the name of POI located at address: 45c شارع, رقة البطين, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",D,Aprons & Hammers,Cafe Fiesta Zone,Emirates NBD,China Star Restaurant
+414,"What is the name of POI located at address: شارع آل مكتوم, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",B,ستاربكس,White Falcon Restaurant,Reef Deira,The Hub
+415,"What is the name of POI located at address: 13a شارع, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",B,RTA Public Parking,Ponderosa Steakhouse,National Bank Of Abudhabi,Dosa Plaza
+416,"What is the name of POI located at address: 13a شارع, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",D,Kids Palace Nursery,kösebasi,RTA Public Parking,Caravan Restaurant
+417,"What is the name of POI located at address: شارع 20, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",A,Tayyab Restaurant,RTA Public Parking,Rimal Parking P3,Al Arrab
+418,"What is the name of POI located at address: شارع 3, البرشاء, البرشاء 1, دبي, الإمارات العربية المتحدة?",A,Red Tomato Pizza,HSBC,Pizza Hut,Mashreq Bank
+419,"What is the name of POI located at address: شارع 8, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",C,Kamat Vegeterian Restaurant,Brix Desserts,McDonald's,F&S (Falafel & Schwarma)
+420,"What is the name of POI located at address: شارع 8, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",C,النادي الأهلي الرياضي,McDonald's,دجاج كنتاكي,Costa
+421,"What is the name of POI located at address: شارع 8, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",D,Blends,Kitchen Cafe,Caravan Restaurant,Nando's
+422,"What is the name of POI located at address: شارع 8, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",B,Shower,Maxx Burgers,معبد هندوسي,Nezesaussie
+423,"What is the name of POI located at address: شارع 8, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",B,Tikka Cafe,Cinnabon,Etisalat,Bank of Baroda
+424,"What is the name of POI located at address: شارع بني ياس, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",C,RTA Public Parking,Masjid Salman Al Farsi,تيم هورتونز,Burger King
+425,"What is the name of POI located at address: شارع 8, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",B,HSBC,Fun City,ايبكو,Bank of Baroda
+426,"What is the name of POI located at address: شارع 8, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",B,Kayaloram,VOX Cinemas,RTA Public Parking,Baskin-Robbins
+427,"What is the name of POI located at address: شارع بني ياس, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",A,Subway,ستاربكس,دجاج كنتاكي,Afghan Kabab House
+428,"What is the name of POI located at address: شارع بني ياس, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",A,Charlies Sub,Massimo's Italian Restaurant,Moda Cafe,House of Pops
+429,"What is the name of POI located at address: شارع 8, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",C,Etisalat,RTA Public Parking,Panda Chinese,LIFE Pharmacy
+430,"What is the name of POI located at address: شارع 8, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",D,Wave View Café,Bayt Al Baghdadi,پریمیئر تشخیصی مرکز,DHL
+431,"What is the name of POI located at address: شارع 8, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",D,Table 9,RTA Public Parking,ENOC Car Wash,Emirates Driving Institute
+432,"What is the name of POI located at address: شارع 8, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",B,Madras Vegetarian Restaurant,Papa Roti,Aquara Restaurant & Lounge,Burger King
+433,"What is the name of POI located at address: شارع 8, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",B,ProArt Gallery,Etisalat,كنيسة القديسة مريم الكاثوليكية,RTA Public Parking
+434,"What is the name of POI located at address: شارع 8, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",B,Skyler's Place,du,RTA Public Parking,Emirates Driving Institute
+435,"What is the name of POI located at address: 36b شارع, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",A,RTA Public Parking,Arasco Coffee,Emirates Driving Institute,Wall Street Exchange Centre
+436,"What is the name of POI located at address: 22b شارع, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",C,IVF & Women Clinic,Let's wok,RTA Public Parking,
+437,"What is the name of POI located at address: شارع الجزيرة, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",D,Pizza Hut,ChinaTown Restaurant,McDonald's,RTA Public Parking
+438,"What is the name of POI located at address: شارع الرقة, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",B,Barasti,RTA Public Parking,Dubai Cruise Terminal 2,Spice Souk
+439,"What is the name of POI located at address: شارع الرقة, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",C,Al Rostamani Exchange,Mithash Sweets,RTA Public Parking,Blends
+440,"What is the name of POI located at address: شارع الرقة, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",A,RTA Public Parking,Pepper & Crab,Al Neel Exchange,
+441,"What is the name of POI located at address: شارع الرقة, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",B,Golden Dragon,RTA Public Parking,مستشفى راشد,Dubai Islamic Bank
+442,"What is the name of POI located at address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",B,ستاربكس,Reef Deira,Dubai Mall Cinema Parking P3,RTA Public Parking
+443,"What is the name of POI located at address: شارع المطينة, ديرة, المطينة, ديرة, دبي, الإمارات العربية المتحدة?",B,آيلاند بيتش كلوب,Aster Clinic,Palm Valley,NAYAS Restaurant & Cafe
+444,"What is the name of POI located at address: شارع 14, ديرة, الرقة, ديرة, دبي, الإمارات العربية المتحدة?",A,Baskin-Robbins,ChinaTown Restaurant,Al Badia,Rimal Parking P3
+445,"What is the name of POI located at address: شارع 14, ديرة, الرقة, ديرة, دبي, الإمارات العربية المتحدة?",C,GCC Exchange,Papa John's,Al Rostamani Exchange,RTA Public Parking
+446,"What is the name of POI located at address: شارع 10, البرشاء, البرشاء 1, دبي, الإمارات العربية المتحدة?",C,Hor-Al-Anz Primary Health Centre,إينوك,Tikka Cafe,Barasti
+447,"What is the name of POI located at address: شارع 8, البرشاء, البرشاء 1, دبي, الإمارات العربية المتحدة?",D,Ahl Almandi,Wild Wadi Waterpark,Union National Bank,Bistro 55
+448,"What is the name of POI located at address: شارع المرسى, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",A,Feri Kasif Tehroon,Hi Way Auto Service,Cirque du Soir,Vapiano
+449,"What is the name of POI located at address: شارع المرسى, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",D,Aster Medical Centre,GCC Exchange,Prime Medical Centre,Citibank
+450,"What is the name of POI located at address: شارع المرسى, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",A,Shooters Billiard Cafe,Barasti,RTA Public Parking,Blends
+451,"What is the name of POI located at address: شارع المعرفة, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",D,Arasco Coffee,House of Noodles,McDonald's,Pizza Hut
+452,"What is the name of POI located at address: شارع المعرفة, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",A,Skyler's Place,Mithash Sweets,Farooj,ENOC
+453,"What is the name of POI located at address: شارع الفلك, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",D,پریمیئر تشخیصی مرکز,Aroos Damascus,Il Caffe di Roma,Undeground Parking
+454,"What is the name of POI located at address: 20b شارع, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة?",B,Life Pharmacy,Aappa Kadai,Five Guys,New Medical Centre
+455,"What is the name of POI located at address: 20b شارع, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة?",B,AL Razouki Money Exchange,Calicut Paragon,Hatam Al Thai,Kayaloram
+456,"What is the name of POI located at address: شارع جميرا, جميرا, دبي, الإمارات العربية المتحدة?",D,تمت ازالته,Afghan Kabab House,Hotel Vasantha Bhavan,ProArt Gallery
+457,"What is the name of POI located at address: 20b شارع, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة?",C,Emirates NBD,Cinnabon,Keerthi,Puranmal
+458,"What is the name of POI located at address: 20b شارع, بر دبي, الكرامة, دبي, الإمارات العربية المتحدة?",B,Life Pharmacy,Kayaloram,Sarpino's,Shake Shack
+459,"What is the name of POI located at address: enoc petrol station, شارع 2 ديسمبر, جميرا, دبي, الإمارات العربية المتحدة?",A,ENOC,Hamria Shopping Centre,HSBC,Seven Stones
+460,"What is the name of POI located at address: شارع بني ياس, ديرة, الرقة, دبي, الإمارات العربية المتحدة?",A,ETISALAT Public Phone,ريم البوادي,Lila Cafe,Embassy
+461,"What is the name of POI located at address: شارع بني ياس, ديرة, الرقة, دبي, الإمارات العربية المتحدة?",D,House of Noodles,The English College,Circle,Arasco Coffee
+462,"What is the name of POI located at address: شارع 6, ديرة, الرقة, ديرة, دبي, الإمارات العربية المتحدة?",D,Costa,RTA Public Parking,Blue Mountain,Agemono
+463,"What is the name of POI located at address: شارع عمر بن الخطاب, ديرة, الرقة, ديرة, دبي, الإمارات العربية المتحدة?",A,RTA Public Parking,The Greens Fountain,Future Star BMT LLC,Life Pharmacy
+464,"What is the name of POI located at address: شارع عمر بن الخطاب, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",C,ماكدونالدز,2000 Restaurant,RTA Public Parking,
+465,"What is the name of POI located at address: شارع عمر بن الخطاب, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",D,Prime Medical Centre,Palm Valley,Aspin Nursery,RTA Public Parking
+466,"What is the name of POI located at address: الطريق الصناعية, بر دبي, الميناء, دبي, الإمارات العربية المتحدة?",A,Dubai Cruise Terminal 2,RTA Public Parking,اينوك,Southern Spice Restaurant
+467,"What is the name of POI located at address: شارع المرسى, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",D,Roxy Cinemas,Aroos Damascus,Caribou,Stefano's
+468,"What is the name of POI located at address: شارع المرسى, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",C,Bur Dubai Abra Station,مطبخ الهنوف الشعبي,Hanco H,Shower
+469,"What is the name of POI located at address: شارع المرسى, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",C,Bazerkan,Pizza Hut,Let's wok,Aster Clinic
+470,"What is the name of POI located at address: شارع المرسى, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",D,Grand Parking,ALLRED SAFFRON,Arabian Ranches Golf Club,Community Pharmacy
+471,"What is the name of POI located at address: شارع المرسى, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,اينوك,Papa John's,ChinaTown Restaurant,Saravana Bhavan
+472,"What is the name of POI located at address: شارع المرسى, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",D,Kayaloram,Community Pharmacy,Stefano's,Habib Bank AG Zurich
+473,"What is the name of POI located at address: شارع المرسى, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",D,EPPCO,Loca,HSBC,Bagets & more
+474,"What is the name of POI located at address: شارع الصويب, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",C,Shooters Billiard Cafe,Armani/Amal,Life Pharmacy,مطبخ الهنوف الشعبي
+475,"What is the name of POI located at address: شارع المرسى, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",C,Pizza Hut,DHL,Simitchi coffee shop,Park View
+476,"What is the name of POI located at address: شارع المرسى, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",C,Shiraaz Nights,Embassy,Feras Aldiyafa Sweets,Fisherman's Wharf
+477,"What is the name of POI located at address: شارع الملك سلمان بن عبدالعزيز آل سعود, Jumeirah Beach Residence, مرسى دبي, دبي, الإمارات العربية المتحدة?",A,Baskin-Robbins,Lulu Exchange,Hey Pesto,Cavalli Club
+478,"What is the name of POI located at address: شارع الملك سلمان بن عبدالعزيز آل سعود, Park Island, مرسى دبي, دبي, الإمارات العربية المتحدة?",D,Sangeetha Vegetarian Restaurant,AL Sakka Car Rental,اينوك,@Falafel
+479,"What is the name of POI located at address: شارع الملك سلمان بن عبدالعزيز آل سعود, Park Island, مرسى دبي, دبي, الإمارات العربية المتحدة?",A,Platform Fitness 3,RTA Public Parking,Asado,McDonald's
+480,"What is the name of POI located at address: شارع الملك سلمان بن عبدالعزيز آل سعود, Park Island, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,إينوك,Zpizza,Dubai Old Souk - Abra dock,Marina Mall Parking
+481,"What is the name of POI located at address: شارع الملك سلمان بن عبدالعزيز آل سعود, Park Island, مرسى دبي, دبي, الإمارات العربية المتحدة?",C,Nezesaussie,Karma Kafé,Mom's Food,Apachi Restaurant & Cafe
+482,"What is the name of POI located at address: شارع البروج, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",D,Aster Medical Centre,DHL,Tikka Cafe,I.A.U - Islamic Azad University
+483,"What is the name of POI located at address: شارع البروج, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",D,Grand Parking,Car Parking - Souk Madinat Jumeirah,palm jumira,Eton University
+484,"What is the name of POI located at address: شارع البروج, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",A,Online Trading Academy,Engima Car Rental,Car Parking - Souk Madinat Jumeirah,Marina Quays
+485,"What is the name of POI located at address: Block 2B - Michigan State University & Offices, شارع البروج, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",B,Cinnabon,مدرسة مانشستر للأعمال,Wimpy's,ENOC Car Wash
+486,"What is the name of POI located at address: الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",D,Al Ras Public Library,Cafe Bateel,China Sea,Middlesex Clock Tower
+487,"What is the name of POI located at address: شارع الشيخ زايد, مدينة دبي للإنترنت, قرية المعرفة, دبي, الإمارات العربية المتحدة?",C,معبد هندوسي,Bazerkan,House of Noodles,Nahda Sahara Pharmacy

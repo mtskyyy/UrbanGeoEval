@@ -1,0 +1,222 @@
+id,question,answer,A,B,C,D,E
+0,Which POI belongs to type: bicycle_rental?,D,Ping Pong,Hakkasan,Pillar Box Montessori Nursery,Westminster Bridge Road,The Argyll Arms
+1,Which POI belongs to type: advice?,B,Westferry Circus Car Park,Citizens' Advice Bureau,Sushi Friends,Brixton Brewery Tap Room,Selecta
+2,Which POI belongs to type: library?,E,Margot,Highbury Park Post Office,Mr Kong,Hotto Potto,Greenwich Centre Library
+3,Which POI belongs to type: pub?,C,Eat Well,Fulham Broadway,Tank & Paddle,Chojo,The Old Fire Station
+4,Which POI belongs to type: disused_pub?,A,Golden Lion,Cycle parking,Perfetta Pizzeria,Locker InPost,Savage Garden LDN
+5,Which POI belongs to type: bar?,A,The Moniker,Wahaca,Hatton Garden Car Park,CLF Theatre,La Rose Clinic
+6,Which POI belongs to type: cinema?,C,LEON,Monument Street,Everyman Chelsea,F45 Training,Caffè Nero
+7,Which POI belongs to type: cafe?,C,Flavours Gelato,Zia Lucia,Carhartt Coffee,JIJI,Bella Italia
+8,Which POI belongs to type: parking?,E,Tukdin,K2 Chicken,Abilio’s Café and Deli,Davy's,Red River UK Ltd
+9,Which POI belongs to type: fuel?,D,Café Rouge,The Wellington Clinic,Ellis Stockwell,TotalEnergies,Villa Cafe
+10,Which POI belongs to type: public_bookcase?,E,The Colonel Fawcett,Migue's Tapas Bar & Restaurant,itsu,Warden Car Park,Childrens Free Library
+11,Which POI belongs to type: university?,D,Engineering Cafe,Big Papa's Peri Peri,Kebab Empire,National Heart and Lung Institute,Platform 1 Cafe
+12,Which POI belongs to type: toilets?,B,Lucky Fish Bar,Queen's Crescent,The Coal Shed,Passyunk Avenue,Nero Express
+13,Which POI belongs to type: restaurant?,A,Beiteddine Express,Marko's Espresso,Black Sheep Coffee,Leone,Safedale Pharmacy
+14,Which POI belongs to type: place_of_worship?,E,Finsbury Square Car Park,The Common E2,Long 6lack,London Coffee Bank,The Salvation Army International HQ
+15,Which POI belongs to type: old_pub?,B,Junkyard Golf,The Fettler & Firkin,CrossFit,Source London,Starbucks
+16,Which POI belongs to type: pharmacy?,B,KFC,Day Lewis Pharmacy,Kensington Post Office,Louise Blouin Foundation,Surgery
+17,Which POI belongs to type: post_office?,E,Miso,Ichikokudo Hokkaido Ramen,Marylebone Library,Bloomsbury Fitness,Hoxton Post Office
+18,Which POI belongs to type: stripclub?,B,Flip & Sear,Platinum Lace,Westbury Hotel,The Baltic Medical Centre,Pizza East
+19,Which POI belongs to type: doctors?,A,Patient First Social Enterprise,Tasty Grill,Vagabond,Anchor Brewhouse Horselydown,Bird
+20,Which POI belongs to type: dead_pub?,A,The Alma,Project68,The Montagu,Devonshire Terrace,Brat
+21,Which POI belongs to type: sports_centre?,D,Snowflake,Patient First Social Enterprise,Memories of India,Park Sports Hyde Park,Coffee To The People
+22,Which POI belongs to type: ferry_terminal?,B,Starbucks,Royal Wharf,Regents Park Practice,Coffee Republic,London Welsh Bar
+23,Which POI belongs to type: fast_food?,D,Andalucia Tapas,Limburg Road,Mary's Cafe,L'Amentine,Vauxhall Street
+24,Which POI belongs to type: waste_disposal?,B,The Pear Tree,Old Ford Lock Rubbish Disposal,Bariba,Boxing Fitness Gym,Busaba
+25,Which POI belongs to type: garden?,D,MOTH Club,The Gallery,Jubilee Market (Borough Market),Nannies' Lawn,Metro's
+26,Which POI belongs to type: bus_station?,A,Stockwell Bus Garage Office,Crosstown,Le Garrick,LEON,Basketball court
+27,Which POI belongs to type: boating?,A,The Boathouse,One root bakery,Malmin Dental,Alba,Asylum Travern
+28,Which POI belongs to type: office?,E,Simpson Street,Exhibition Road Museums 1,City Kebab,Gourmet Burger Kitchen,Revere
+29,Which POI belongs to type: school?,A,James Allen's Preparatory School,S&B Car Hire Services,Bismillah Hotel,Kennington Park Post Office,Olivomare
+30,Which POI belongs to type: college?,E,High Holborn Post Office,Urban Botanica,Frantoio,Wild Heart Bar & Shokudo,Ebrahim College
+31,Which POI belongs to type: kindergarten?,C,Soho Car Hire,Phone Booth Book Exchange,Mouse House Montessori Nursery,Rose Pharmacy,Lamb Tavern
+32,Which POI belongs to type: bicycle_parking?,A,Clapham High Street Station,Garden Square Dental Practice,Bobo & Wild,Cavus Baba Sofrasi,Wyndham Road Post Office
+33,Which POI belongs to type: theatre?,B,The Mitre,Hackney showroom,Wigmore Medical,Siirgista Bros,Chelsea Green
+34,Which POI belongs to type: bakery?,C,Hatton Garden Car Park,Lee Valley VeloPark,Bread Ahead,Webber Street,Bagelicious
+35,Which POI belongs to type: arts_centre?,D,Elite Peri Peri,The Old Dairy Cafe,La Capannina,Manor Studio,EAT.
+36,Which POI belongs to type: public?,A,Clapham Community Project,Grapple Collective,Naish Court Youth and Community Trust,Marcella,Ninetyeight Bar & Lounge
+37,Which POI belongs to type: playground?,B,Turquoise Island,Brunswick Estate Play Area,Amorino,BAD Studios,The Gym
+38,Which POI belongs to type: bank?,E,The Salad Project,La Fortuna,Five Guys,The Ragged Canteen At Beaconsfield,Société Générale
+39,Which POI belongs to type: atm?,E,The Kitchen Counter,National Bank of Kuwait,Clapham Library,Yeotown,Sainsbury
+40,Which POI belongs to type: police?,B,Cafe Nouf,Park Police,Aubaine,JinJiang,Bel & Nev
+41,Which POI belongs to type: nature_reserve?,B,Chinese Association of Tower Hamlets,Bug Hotel,28°-50° Wine Workshop & Kitchen,Dudleys,Battersea Grill
+42,Which POI belongs to type: dentist?,C,Brushfield Street,Ciao Italian Kitchen,Waldron Dental Clinic,pilpel,Pizzeria on the Green
+43,Which POI belongs to type: nightclub?,B,Fast Food Bar,Paradise London,Starbucks,Badger Badger,Piatto
+44,Which POI belongs to type: housing_office?,E,Vermuteria,Alderney Street,Wagamama,The Mokapot House,North Lambeth Area Housing Office
+45,Which POI belongs to type: car_sharing?,D,Mandaloun,E7 Movement,Joe & The Juice,Streetcar,Caffe Concerto
+46,Which POI belongs to type: fire_station?,C,Ahmers,The Vine,Dowgate Fire Station,Exmouth Food Market,Dark Arts Coffee
+47,Which POI belongs to type: veterinary?,C,Belgrove Street,Pret A Manger,Medivet,Fish Game,The Star Tavern
+48,Which POI belongs to type: fitness_centre?,E,Soho Radio,Valentino,Climpson's Arch,Bluethroat Brixton,énergie Fitness
+49,Which POI belongs to type: community_centre?,E,Space Studios,Rosebery Practice,Crol & Co Coffee,Faro Pharmacy,Russia Culture House/Rossotrudnichestvo
+50,Which POI belongs to type: warehouse?,A,Sala. International Records Management,Parkway,Cook Daily,The Rose and Crown,All Good Beer
+51,Which POI belongs to type: social_facility?,A,The Larder Ministries,Birleys,Currency Exchange,Proper Tacos,Sichuan PoPo 婆婆面
+52,Which POI belongs to type: hospital?,A,King's College Hospital Emergency Department,Courtenay Chemists,Agenda,Pasta Nostra,The Compton Arms
+53,Which POI belongs to type: post_box?,C,Aloha,Pack Send,Kensington High Street/Kensington Church St.,Spaghetti House,Lucky Club
+54,Which POI belongs to type: clinic?,A,GHB Clinic,Ichiba,Chelsea Library,Love Pinsa,Source London
+55,Which POI belongs to type: bureau_de_change?,B,Wagamama,Global Exchange,Los Molinos,Westminster Bridge Road,Bank of Ireland
+56,Which POI belongs to type: office?,A,Prince's Foundation for Building Community,Munich Cricket Club,Mineiro,Reliable Hire,The Abingdon
+57,Which POI belongs to type: gambling?,C,Lower Marsh,Chain Coffee Master,Game Nation,Taste Soul Good,Pulia
+58,Which POI belongs to type: disused?,E,Islington Metal Weddings,All Bar One,Metro's Fried Chicken,Mel's Cafe,The Black Cap
+59,Which POI belongs to type: clock?,A,Eynsford College,Capital Hire,Brockley Jack Theatre,Dom's Subs,Coco di Mama
+60,Which POI belongs to type: fountain?,E,St. Martin's Close,Mi Casa,Three Wheels Coffee,Maxwell‘s Bar & Grill,Swire Fountain
+61,Which POI belongs to type: slipway?,B,Goddard,Putney Embankment,The Ivy,Franco Manca,New Cottage
+62,Which POI belongs to type: livery_hall?,E,Delice de France,Frsshh,Twin English Centre London,The Hammersmith Ram,Saddlers' Hall
+63,Which POI belongs to type: water_point?,B,Greggs,Old Ford Lock Water Point,Pitta Maria,Chopstix,Harrow Road GP Practice
+64,Which POI belongs to type: taxi_point?,D,Bartons,Kennington Road,Lantana,Kwik Cars,Wonderful House
+65,Which POI belongs to type: dance?,B,Edgeware Road Station,Lanterns School of the Performing Arts,Alliance Sports Lounge,Chinwag,@sohoplace
+66,Which POI belongs to type: ice_cream?,E,Vital Ingredient,La Primavera,Corner Café,"Grosvenor Casino, The Gloucester",La Gelatiera
+67,Which POI belongs to type: learned_society;library?,D,Hullabaloo,Marko's Espresso,Snowflake Gelato,Linnean Society,Manor Health Centre
+68,Which POI belongs to type: learned_society?,D,Nova Cafe,Belushi's London Bridge,Camden Coffee House,Royal Astronomical Society,Workable
+69,Which POI belongs to type: business?,D,Barclays,Capitan Veggie,Wandsworth Medical Centre,Dependent Broadcast,HFC
+70,Which POI belongs to type: language_school?,A,Rose of York Language School,Caffè Nero Express,Flock,Chopstix,Urban Botanica
+71,Which POI belongs to type: employment_agency?,A,Fairstaff,Templar,Spencer Park,Chourangi,Pret A Manger
+72,Which POI belongs to type: car_rental?,A,Chepstow Cars,Jose Pizarro,elixis,Red Rooster,Baldwin Street
+73,Which POI belongs to type: music_venue?,D,Alliance Sports Lounge,AudiopleXus Studio,Joe Public,Jamboree,Holmfield House Children's Centre
+74,Which POI belongs to type: adult_gaming_centre?,E,Doric Arch,Buenos Aires Cafe,Vapiano,Cellar Gascon,Admiral
+75,Which POI belongs to type: residential?,E,Colicci Street,Shepherd's Bush Market,Flat Iron,Platform,Dragon Court
+76,Which POI belongs to type: money_transfer?,E,Metro's Fried Chicken,Boyds Grill & Wine Bar,Café Vienna,Grab 'N' Go Counter,Western Union
+77,Which POI belongs to type: courthouse?,C,Dirty Martini,Truedan,Bow Coroner's Court,Starbucks,Golden Tiger
+78,Which POI belongs to type: food_court?,A,Senior Common Room,Venue 229,Birkenhead Street,Believ,Westbourne Park Road
+79,Which POI belongs to type: hall?,C,Granger and Co,Alumni Visitor Centre,Trinity Tenants Hall,Le Péché Mignon,Crispies
+80,Which POI belongs to type: recycling?,A,TRAID,Leadbellys,Nasrul-Lahi-i-Fathi Society of Nigeria,Cottage Chicken,itsu
+81,Which POI belongs to type: events_venue?,C,Alounak,Babur to go,MOTH Club,Nostos Coffee,Aubaine
+82,Which POI belongs to type: shelter?,D,Hoop and Grapes,The Brunel,Coinstar,Old London Bridge alcove,Fancy Funkin Chicken
+83,Which POI belongs to type: music_venue?,E,Vue Islington,Bellucci,89 Portsmouth Road,Source London,The Tabernacle
+84,Which POI belongs to type: taxi?,E,Ruh Dental,Spice Fusion,Hummus Bros,Source London,Mini Cab @ Clapham Junction
+85,Which POI belongs to type: bench?,A,Boat bench,National Bank of Kuwait,itsu,Hache,South Parade
+86,Which POI belongs to type: private_club?,E,TRAID,Stratford Post Office,Oka,Everyday Sunshine,Boodle's
+87,Which POI belongs to type: drinking_water?,C,Alfreda Street,Morley's,St Johns Wood Church Gardens,Pret a Porter,Spice Merchants
+88,Which POI belongs to type: car_wash?,D,The London Improv Theatre,The Grosvenor Victoria Casino,Côte Brasserie,Waves,Bella Italia
+89,Which POI belongs to type: massage_parlour?,E,Getti,Starbucks,Pizza Toscana,Mona Lisa,T's Massage
+90,Which POI belongs to type: gallery?,B,Cento Alla Torre,OTT Creative Co-Op,N°N°,Peyote,Pho Inn
+91,Which POI belongs to type: commercial?,B,Pizza Union,Mr Resistor,Square Pizza,Machiya,The Cody Dock Bar
+92,Which POI belongs to type: medical_centre?,C,Kanpai,Barbican Dental Centre,Strouts Place Medical Centre,Café Paradiso,Riverside Terrace Cafe
+93,Which POI belongs to type: casino?,C,Bbar,SOI • THAI,Casino Colony Club,STK Steakhouse,Westerns Laundry
+94,Which POI belongs to type: social_club?,A,Turkish & Cypriot Social Club,Unit 16,Du Boisson Dance Studios,Corner Corner,Fox In A Box
+95,Which POI belongs to type: childcare?,C,Uba,Davy's Wine Vaults,Abacus Ark,Golden Shalimar,Mona Lisa
+96,Which POI belongs to type: spa?,D,Lebanese Grill,Clapham Leisure Centre,Three Wheels Coffee,Robert Thai Therapy & Spa,Sir John Cass Hall
+97,Which POI belongs to type: composting?,E,The Plough,Phillies,Fora,Mooboo,Abbey Gardens Green House & Shed
+98,Which POI belongs to type: Childrens Centre?,A,Ladywell Surestart,SMSH BN London,Franco's,Darjeeling Express,Redemption Roasters
+99,Which POI belongs to type: studio?,C,Fitness First,Poplar Dental,Outset Studio - Hoxton,Imperial College Health Centre,Source London
+100,Which POI belongs to type: storage?,C,Equatorial Sundial,Bank Restaurant & Bar,City Store Self Storage,Bow West Organisation,Kenko Sushi
+101,Which POI belongs to type: information?,B,Gunpowder,Braille Map,Mount Pleasant Post Office,Ryoshinkan Iaido and Jodo Dojo,Vasiniko
+102,Which POI belongs to type: parking_entrance?,D,nature play garden,Annapurna,The Hand in Hand,London Dock Basement Parking,Care Dental Platinum
+103,Which POI belongs to type: marketplace?,A,West Hampstead Farmers' Market,London Digestive Centre,Browns,The East Turkish Kebab,Montessori Community School
+104,Which POI belongs to type: conference_centre?,C,Underground Bicycle Parking,Sixes Social Cricket,London Art House,The Little Yellow Door,Barclays
+105,Which POI belongs to type: charging_station?,A,Hackney/Bocking Street,"Arts Catalyst Centre for Arts, Science, and Technology",Picturehouse Central,QPark Chinatown,Foundation for International Education
+106,Which POI belongs to type: self_storage?,D,Nǎng,Brera,Resident's Gym,A&A Self Storage & Services Offices,Morrisons Pharmacy
+107,Which POI belongs to type: Nightclub?,E,Ali Baba,EAT.,Ottoman,The River Cafe,Infernos
+108,Which POI belongs to type: serviced_office?,E,Afters Original,Andalucia Cafe & Patisserie,Chapati & Karak,TRAID,Shakespeare House
+109,Which POI belongs to type: health_centre?,B,The Dolphin,Surrey Docks Health Centre,Canto Court,itsu,Recolight
+110,Which POI belongs to type: training?,E,Wabi Shebele,"Catholic Church of St Joseph, Bunhill Row",Herne Hill Car Wash & Valeting Centre,Barbican Centre (Cinema),Bodydoctor
+111,Which POI belongs to type: school?,A,Manor School,East Hill Pharmacy,Footstool,Osteria Basilico,Crowndale Road Post Office
+112,Which POI belongs to type: depot?,E,Source London,Main Reception,Reception Desk,Farmer J,Staff Yard
+113,Which POI belongs to type: bowling_alley?,D,Mosque of the Embassy of Qatar,East India Dock Day Nursery,Rustic Coffee,All Star Lanes (Holborn),The Windmill
+114,Which POI belongs to type: driving_school?,E,Geales,Bottega Sicula,Pret A Manger,Pizza Mania,HGVC
+115,Which POI belongs to type: sauna?,B,The Chilled Eskimo,Rooftop Saunas,Stepney Green Station,Fitness First,The Hoxton Hound
+116,Which POI belongs to type: marina?,A,Imperial Wharf Marina,Walworth Town Hall Community Space,Ca'puccino,Pearl City,Taste of China
+117,Which POI belongs to type: ticket_validator?,D,Langthorne Health Centre,Wasabi,Pastada,Chancery Lane,SushiSamba Covent Garden
+118,Which POI belongs to type: community_centre?,C,Slug and Lettuce,Monsoon,Camden Chinese Community Centre,AudiopleXus Studio,Dirty Bones
+119,Which POI belongs to type: archives?,C,Duke of Cornwall,Le Paris Grill,BT Archives,Merkamo Vegan Stand,KFC
+120,Which POI belongs to type: social_club?,B,Kingsland Dental Surgery,BBC Club,Roman Bagel Cafe,Birdwatch,Royal Grill Cafe
+121,Which POI belongs to type: swimming_pool?,B,Panino Gusto,Brixton Recreation Centre,London Dental Implant,Brixton Hill Post Office,Source London
+122,Which POI belongs to type: hospital_department?,B,Omnibus Cafe Bar,Gamma Knife & Reproductive Medice,Brunswick Estate Play Area,Cheeky Burger,England's Grace
+123,Which POI belongs to type: post_depot?,D,The Ox,London Smiling,Zoo Bar & Club,West End Delivery Office,Tealby’s
+124,Which POI belongs to type: apartments?,E,Benihana,Souk Mediterranean,Tommy Flynns,itsu,Shillington Old School
+125,Which POI belongs to type: adult_education?,B,Good As Gold,Skola,Royal Avenue 2,Northeastern University London,Hafez
+126,Which POI belongs to type: sanitary_dump_station?,E,Egg & Bun,Hugs and Bites,Fazenda,The Golden Lion,Victoria Park Old Ford Lock Elsan Point
+127,Which POI belongs to type: government?,E,High Grade Coffee,Caffe Bianco,Westminster Physiotherapy Centre,Queensway Dental Practice,HM Revenue and Customs
+128,Which POI belongs to type: art_gallery?,D,Providence Row Housing Association,Al-Hudaa Islamic Prayer Group,Free Library,The Courtauld Gallery,Akhtar Health Store
+129,Which POI belongs to type: residential?,C,Starbucks,Wildflower,26 - 37 Exeter House,The Burger Cafe,Cafe Mandalay
+130,Which POI belongs to type: comedy?,C,Parlour,Cirque Le Soir,Top Secret Comedy Club,Lauries Caribbean Food,The Hydrant
+131,Which POI belongs to type: boat_rental?,E,Green Light Pharmacy,1Rebel Bayswater,Jam Circus,The Organic Yogi,Boat Hire at Battersea Park
+132,Which POI belongs to type: therapists?,A,The Vale Practice,Munich Cricket Club,Jamies,Putney Bridge Dental Centre,The Cadogan Arms
+133,Which POI belongs to type: hackerspace?,D,Brixton Hill,Starbucks,Five Guys,Limehouse Labs,The Union Bar
+134,Which POI belongs to type: prep_school?,B,Roasting Plant Coffee,Mathnasium,Pizza Toscana,Panda Oriental,Greenwich Chicken Hut
+135,Which POI belongs to type: fitness_station?,B,Beijing House,De Beauvoir Estate gym trail,bikehangar,Glorious Life Gospel Center,Granger & Co.
+136,Which POI belongs to type: garage?,C,Horatio’s,Moko Made,New Street Police Garage,N°N°,Abilio’s Café and Deli
+137,Which POI belongs to type: vending_machine?,C,Desire Coffee & Bistro,BikeAway,Photo-Me,arebyte Studios LCI,Forman's Deli
+138,Which POI belongs to type: shoe_shine?,A,Shoe Shine,Katara Cafe,MDM Club,The Belgravia,Shell
+139,Which POI belongs to type: coworking_space?,C,Curry House CoCo Ichibanya,Sushi Show,Workable,Pret A Manger,The Color Company
+140,Which POI belongs to type: printers?,A,The Color Company,Tottenham Court Road Car Park,Starbucks,Palatino,Petit Pas
+141,Which POI belongs to type: interior?,E,Nuffield Health Fitness & Wellbeing,Natural Kitchen,Pret A Manger,Mail Boxes Etc.,Marlows Carpets
+142,Which POI belongs to type: printer?,A,Huguenot Editions,Olympic Coffee,Costa Express,Murray Grove Post Office,Crystal Charcoal Grill
+143,Which POI belongs to type: tanning?,E,ubitricity,Salisbury House,Simply Indian,Nua,Kiwi Sun
+144,Which POI belongs to type: escape_game?,D,UCL Science Library,Starbucks,Taste of India,Hinthut,Fogg's City Tavern
+145,Which POI belongs to type: warehouse?,C,Cibaeña 2 España,Disraeli Road,El Madero,Grand Union – Chancery Lane,Little Sister
+146,Which POI belongs to type: tailor?,C,St James Caffe,Westbridge Road,Pret a Porter,Marylebone Library,Barclays
+147,Which POI belongs to type: plumber?,B,Tossed,Pimlico Plumbers,Bun & Sum,The Ivy,Pera
+148,Which POI belongs to type: amusement_arcade?,B,Foreign Exchange Corporation,NQ64,TSB,BabaBoom,Babbo
+149,Which POI belongs to type: social_centre?,B,Kwik Cars,Bede centre,Change Please,PizzaExpress,Spectrum
+150,Which POI belongs to type: dormitory?,C,Drummond Street,Westfield London Car Park B,Hawkridge House,Gordon Ramsay Bread Street Kitchen,Pardis Restaurant
+151,Which POI belongs to type: student_union?,E,Lloyds Bank,PizzaExpress,Piggy's,碳鲜生（柒味）Mr Charcoal Restaurant,unite students
+152,Which POI belongs to type: student_accommodation?,A,Britannia Student Services,Murray Grove Post Office,Roti King,St James Caffe,CaliFlow
+153,Which POI belongs to type: swingerclub?,D,Pret A Manger,Shuk,Danube Kebab Point,Vault,Mrs Chews
+154,Which POI belongs to type: no?,E,8slices Pizzeria,Exhibition Road,Vauxhall Walk,Yume,Gifts on the Green
+155,Which POI belongs to type: photo_booth?,E,Fish in a Tie,The Telephone Exchange,Udderlicious,Com Viet,Photo-Me
+156,Which POI belongs to type: retail?,C,Nipperkin,The Good Life Eatery,Olan Trust,East London Cabaret Theatre,Los Mochis London City
+157,Which POI belongs to type: construction?,A,Pan Pacific,Swallow Coffee Shop,Small Steps Big Minds,Rack and Bone Smokehouse and Grill,Lillie Bridge Depot (London Underground)
+158,Which POI belongs to type: shed?,E,Lion and Unicorn,TGS Delicatessen,New Cross Road Baptist Church,Fireaway Pizza,Dream Shed - Jane Gifford
+159,Which POI belongs to type: left_luggage?,D,Golden Fish Bar,The Gender Hormone Clinic,Sexi Coffi,Left Luggage,Costa
+160,Which POI belongs to type: monastery?,C,Safari Restaurant,Lambeth Palace Road,St. Margaret's Convent,GoBoat Rental,Wild Bean Cafe
+161,Which POI belongs to type: lost_property?,D,London City Island Post Room,Chosen Bun,City Slots,Tourist Office and Left Luggage,ATA Delight
+162,Which POI belongs to type: luggage_locker?,B,Kennington Tube Station,Kings Cross Luggage,Le Pho,tipsy,Knoops
+163,Which POI belongs to type: mall?,A,Shopping Palace,Crossharbour Montessori,Little Ochie,Docklands Diner,toothlondon
+164,Which POI belongs to type: escape_game?,B,Rheidol Rooms,AIM Escape Rooms,Restored K6 phone booth,Cheeky Scone,Brix Fried Chicken
+165,Which POI belongs to type: dojo?,B,Cafe Muse,Xen Do,Black Sheep Coffee,Epic Graduate School,The Bell
+166,Which POI belongs to type: tanning_salon?,E,Ladurée,Mailboxes Etc,Ria,TotalEnergies,Instinct
+167,Which POI belongs to type: music_school?,B,MOTH Club,World Heart Beat,Skygarden - Darwin Brasserie,Happy Valley,Fire Brigade Pier
+168,Which POI belongs to type: internet_cafe?,E,The Breakfast Club,Store Street Espresso,Osteria Napoletana,PizzaExpress,SideQuest Gamers Hub
+169,Which POI belongs to type: telephone?,A,Visionary BritMuseum,Osteria Basilico,Streatham Place,Hichki,Golborne Pharmacy
+170,Which POI belongs to type: restaurant;pub?,E,Mama Pollo,Movers and Shapers,Look Mum No Hands,The Good Life Eatery,Le Gothique
+171,Which POI belongs to type: pitch?,A,Jubilee Place Mall Table Tennis,Central House,ubitricity,Starbucks,Farmer J
+172,Which POI belongs to type: motorcycle_parking?,D,Westminster Bridge Road Post Office,La costa cafe,Jamaican Jerk Chicken,Motorcycle parking,Steak and Company
+173,Which POI belongs to type: sports_hall?,C,Café Noir,Hatton Garden,Boxing Fitness Gym,Empire Square,NHS Dentist
+174,Which POI belongs to type: information_centre?,C,Zia Lucia,Midpoint Restaurant,HS2 in Camden,City Exchange Net,Astral Café
+175,Which POI belongs to type: reception_desk?,C,Kennington Dental Surgery,The Fulham Medical Centre,Greenwich Students' Union,Peabody Estate,Gazelle Dates
+176,Which POI belongs to type: waste_transfer_station?,A,Environmental Waste Management,Royal National Lifeboat Institution (RNLI),Blank Street Coffee,Forno Brixton,Tanzeel
+177,Which POI belongs to type: parcel_locker?,A,Locker InPost,Venchi,F45 Training,Passport Health Hampstead Travel Clinic,Cafe Blanca
+178,Which POI belongs to type: dive_centre?,C,Burger King,Açai Carioca,DiverCity SCUBA,Mr Dandy,Brickwood Cafe
+179,Which POI belongs to type: canteen?,A,Olive Dining at Buxton School,sven,Kulu Kulu,Mansons Pharmacy,The Hand in Hand
+180,Which POI belongs to type: karaoke_box?,D,More Yoga,Caffe Paradiso,The Tankard,The Voice Karaoke,400 rabbits
+181,Which POI belongs to type: miniature_golf?,C,Beagle,Forge,Junkyard Golf,Aintree Street,CW Medicines
+182,Which POI belongs to type: park?,B,Max Cafe,Birdwatch,York Way,OSE Open School East,Howick Place
+183,Which POI belongs to type: weathervane?,D,Doppio Coffee,La Forchetta,Nando's,The Brixton Heron,Moo Cantina Pimlico
+184,Which POI belongs to type: horse_riding?,B,Ding Tea,Mudchute Equestrian Centre,The Black Heart,Cozzo,Coram Street
+185,Which POI belongs to type: archive?,E,Pilpel Aldgate,Canary Wall,La Pia Pizza,Islamic Relief,Newham Archive and Local Studies Library
+186,Which POI belongs to type: hookah_lounge?,A,Shisha Stop,Total Chi Yoga,British Transport Police,The Oyster Shed,Source London
+187,Which POI belongs to type: concert_hall?,E,Koya Ko,Cigalon,Wingmans,Meze Mangal Turkish restaurant,Hall One
+188,Which POI belongs to type: research_institute?,B,Rocket,The Alan Turing Institute,Big Red,LEON,Dermafaye
+189,Which POI belongs to type: dog_park?,A,Newby Place Dog Park,La Forchetta,The Goat,The Abbey Tap,Eat Tokyo
+190,Which POI belongs to type: bird_hide?,D,Cafe Hope,Milk Cool,Source London,Bird watching area,Sushi TONARI
+191,Which POI belongs to type: animal_boarding?,D,Millbank Millennium Pier,Park Corner Brasserie,Wasabi,Ponyo’s House,Thurloe Street Dental
+192,Which POI belongs to type: industrial?,B,City Road,Street Cleansing Depot,Besborough Family Hub,Sen Noods,Altmore Dental Practice
+193,Which POI belongs to type: townhall?,D,Chez Antoinette,Bun & Sum,Regis Snack Bar,Hampstead Town Hall Centre,Photo-Me
+194,Which POI belongs to type: animal_shelter?,E,Taca,Mu Mu,Burgers & Hotdogs,River Street,Celia Hammond Animal Trust
+195,Which POI belongs to type: pool_table?,D,apostrophe,Sketch,The Surprise,Grosvenor Arms,Cafe Parisienne
+196,Which POI belongs to type: art_school?,B,Chino Latino,art-K Wandsworth,Pentameter's theatre,Grey,Skylon
+197,Which POI belongs to type: lounge?,A,Departure Lounge,Jungla London,Source London,Temper,Babzen
+198,Which POI belongs to type: coffee?,D,Battersea Dental Care,Salteñas Martin,Champagne + Fromage,Mehmet Efendi,Flat Earth
+199,Which POI belongs to type: vehicle_inspection?,A,General Motors,City Road,Mazi,Texaco,Peri Peri Grill
+200,Which POI belongs to type: Nutritionist?,C,Bianca Road Brew Co.,The Athenian,By-cecilia Dieteticienne Nutritionniste,Forge,Granier Bakery Cafe
+201,Which POI belongs to type: meadow?,D,Il Cucciolo,Victoria Rise,Oatis,Barber-Surgeons Meadow,Ashbourne College
+202,Which POI belongs to type: fixme?,B,Monier Road,Bpas,Chatkhara,Pizza Hut Delivery,London Radio Cars
+203,Which POI belongs to type: weather_dial?,B,Elvis's Bistro & Takeaway,Weather-Vane-Dial,Caffè Nero,Parliament Hill Farmers' Market,Fountain & Lavender Mosaic
+204,Which POI belongs to type: indoor_play?,C,The Courtauld Gallery,Pimlico Sainsbury's,Discovery Planet,Core Flex Pilates,Selekt Chicken
+205,Which POI belongs to type: animal_keeping?,E,East India Dock Preschool,Trade,Embody Wellness,The Medical Clinic,horses
+206,Which POI belongs to type: parking_space?,E,Venchi,Smith's Cocktail Bar,Franco Manca,Modern Coffee,Scooters rental
+207,Which POI belongs to type: animal_enclosure?,D,Green Light Pharmacy,Marina Cafe,Flat Iron,Fruit bats,Don't Tell Dad
+208,Which POI belongs to type: picnic_table?,A,Dog Owners Meetup,F45 Training,Johnnie's Fish Bar & Kebab House,Amorino,McDonald's
+209,Which POI belongs to type: fitness_centre;sports_centre;swimming_pool?,A,Vauxhall Leisure Centre,Broadcasting House,PizzaExpress,Queensway,Blythe House Archive and Library Reading Room
+210,Which POI belongs to type: kick-scooter_parking?,E,Story Works,Carrafini,The Lincoln Arms,The Tommy Flowers,E-Scooter Parking
+211,Which POI belongs to type: university?,D,NatWest,Carpark @ Kilburn Market,Sequoia Lounge,Scape Canalside,Morley's
+212,Which POI belongs to type: passenger_information?,B,De Beauvoir Surgery,Departures board,Believ,Sonria Dental Clinic,BikeAway
+213,Which POI belongs to type: trade_school?,A,Media Prospects,Greggs,The Sultan,Brixton Library,Akash
+214,Which POI belongs to type: payment_terminal?,A,Coinstar,Dion,ACE Pizza,itsu,Neat
+215,Which POI belongs to type: lost_property_office?,E,Blank Street Coffee,Nailour Estate,Bubbleology,Palm Court Brasserie,Transport for London Lost Property Office
+216,Which POI belongs to type: loading_dock?,B,Cafe Mano,Ned Loading Bay,Sticks'n'Sushi,Fireaway Pizza,Don Pepe
+217,Which POI belongs to type: indoor_gaming?,A,Quiz Boxing,Windmill Green Estate,BBVA,Iensai,Merkurs
+218,Which POI belongs to type: family_rom?,B,Light Centre Moorgate,Winnie the Pooh Family Room,Pret A Manger,Pull Up Bar,Din Tai Fung
+219,Which POI belongs to type: retail?,C,Zionly Manna Vegan Caribbean Cafe,Fujiyama,Vintners Yard,Visitor Parking,Exxtra Cars
+220,Which POI belongs to type: waste_basket?,E,Brixton Road Restaurant & Grill,Chicha,EAT.,Benihana,General waste

@@ -1,0 +1,501 @@
+id,question,answer,A,B,C,D
+0,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,GANT,Märkische Schweiz,Rosengarten,Asia-Imbiss
+1,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Jetpak,Siedlung Eigene Scholle,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof,Evangelischer Friedhof Weißensee
+2,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,AWO-Kita Grashüpfer,Uferpark Stralau,Michaelkirchplatz,Polizeiübungsgelände „Fighting City Ruhleben“
+3,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Balkanhalbinsel,Clubhaus - Berliner Tennis-Club Grün-Gold Berlin,Brosepark,Wache I
+4,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Heimatmuseum (Mitte Museum am Gesundbrunnen),Siemens Energy Gasturbinenwerk Berlin,Verladerampe,Trainingszentrum Oberspree
+5,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Bahn-Landwirtschaft,Tierfriedhof im Wiesengrund,KGA Südpol,Berlin Greenpark
+6,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Pippi Langstrumpf,FB Geowissenschaften,Satou-Sabally-Court,Seelgrabenpark
+7,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Parkfriedhof Neukölln,Halle 20,Georg-von-Giesche-Schule,Akzisemauer
+8,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Leinestraße / Weisestraße,KGA Pferdemarkt,Kita Tausendfüßler,Stadtbad Lankwitz
+9,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Truman Plaza,Erika-Heß-Eisstadion,Tierfriedhof im Wiesengrund,Deutsches Technikmuseum Depot
+10,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,GuD Marzahn,Bahnhof Berlin Nordost,KGA Aufbau,Wasserturm
+11,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Pavillion Picnic-Area,Kreativitätsgrundschule Berlin-Treptow,Adalbertstraße/Naunynstraße,Havelland Express
+12,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Clay-Schule,Freiluftkino Rehberge,KiK,Dreiecksplatz
+13,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Herrfurthplatz,Biergarten Weltwirtschaft,Maria-von-Maltzan-Platz,Friedhof II der Sophiengemeinde Berlin
+14,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Gemeindepark Lankwitz,Berliner Schützengesellschaft 1882,Schustehruspark,Kindertagesstätte Buntstift
+15,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Richard-Wagner-Platz,Landeskriminalamt Berlin,Sochos Sportanlage,Hauptgebäude
+16,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Siemenssiedlung HoKa III,Britzer Wiesen,Oranienplatz,KGA Wiesengrund
+17,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Justizvollzugsanstalt Plötzensee,KGA Wiesenhöhe,Berlin International School,Altberliner Imbis
+18,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Maria Heimsuchung Caritas Klinikum Pankow,Vattenfall Deutschlandzentrale,Россия,Wartenberger Imbiss
+19,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Sorgenfrei,A&K,Oberstufenzentrum Kraftfahrzeugtechnik,6
+20,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Wohnanlage Lichtenberg,Kita Im Grünen,Schweizerische Botschaft,"Kleingärtnerverein ""Am Außenring"""
+21,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Hermann-Stöhr-Platz,Steinecke,Lenné-Meyer-Garten,Jagdschloss Grunewald
+22,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Waldstraße,Amalienpark,McDonald's,Rückhaltebecken Stubenrauchstraße
+23,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Oskar & Helene,Himalaja-Glanzfasan,Schönbrunn,Grundschule am Königsgraben
+24,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Silberstein-Grundschule,Günter-Schwannecke-Spielplatz,Dorfanger Alt-Reinickendorf,Welle
+25,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Lebenshilfe,Zufriedenheit,Friedhof der Märzgefallenen,Ehemalige französische Panzerverladung
+26,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,"Jugend-, Kultur- und Informartionzentrum Wasserturm e.V.",Dreifaltigkeitskirche,Plansche Plänterwald,KGA Einigkeit
+27,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Freiwillige Feuerwehr Wilhelmsruh,Wadzeck-Stiftung,SD 63,H&D Doctor's
+28,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Schulsportanlage Wiesenstr. 56,Schule am Tierpark,Deutsches Herzzentrum der Charité - Standort Augustenburger Platz,Kolonie Spreegrund
+29,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Kita I der Evangelischen Paulus-Kirchengemeinde Tempelhof,"Jugendschiff ""ReMiLi""",Polizeiübungsgelände „Fighting City Ruhleben“,Kita Zwergenland
+30,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Crispy Döner,Botschaft der Ukraine,Gemeinschaftsunterkunft Columbiadamm,Rudolf-Hildebrand-Grundschule
+31,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,U Schönleinstraße,Eulen,Haus E,Sophienwerder
+32,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Mettmannplatz,Bahn-Landwirtschaft Eitelstraße,BSR Recyclinghof Lengeder Straße,"EKG, Kreislauflabor, Sonografie (Funktionsdiagnostik)"
+33,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Kluwe,BUND Bundesgeschäftsstelle,St. Paul I,ehemals Güterbahnhof Halensee
+34,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,City Toilette,Willkommensschule TXL,Bhf. Südkreuz West,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof
+35,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Bauteil H1 rd (rund),Römischer Hof,Landesruderverband - Leistungszentrum,Georg von Rauch-Haus
+36,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Café Schöneweile,Gartencenter Holland,MVZ Medeco Berlin Dahlem,Kleingartenverein Kolonie Alt-Schöneberg e. V.
+37,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Betriebshof Weißensee,Lids,Döberitzer Grünzug,Beluga
+38,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Fromet-und-Moses-Mendelssohn-Platz,Johann-von-Neumann-Haus,Friedenthalpark,KGA Frischauf
+39,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Kirchhof der evangelischen St. Andreas und St. Markus Gemeinde,Schule am Schloss,Quartier Idunastraße,Domicil
+40,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Physikalisch-Technische Bundesanstalt,Kolonie am Tegeler See,Haus 8,Buckower Spatzen Bewegungskindergarten
+41,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Fußgängerzone mit Stadtmöbeln,Kindertagesstätte Kuno-Fischer-Straße,Kreativhütte,Sonntagsfrieden
+42,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Staatsoper Unter den Linden,Gartenfreunde e.V.,Informationsort Schwerbelastungskörper,Friedhof Koppelweg
+43,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Mediaspree,Paul-und-Charlotte-Kniese-Gemeinschaftsschule,Don-Bosco-Zentrum Berlin,S-Bahn Gleichrichterunterwerk Heidelberger Platz
+44,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Parkplatz am Elsterplatz,Grabmalwerkstatt - Steinmetzmeister Arno Schroeter,Thelen Technopark,Humboldt-Universität Campus Nord
+45,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Schlackenloch,Umspannwerk Marzahn,KGA Dreieck Nord,Paul- und Charlotte Kniese-Schule
+46,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Loxxess,City Toilette,Kita Riemenschneiderweg,DDR-Museum
+47,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Autohaus Wegener,Evangelische Journalistenschule,Kriegsgräber 2. Weltkrieg,Ostseeplatz
+48,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Birkbuschgarten,Kindergarten Hansa Spatzen,Wohnpark St. Teresa,Boschpoler Platz
+49,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Flower-Tower,Reisebank,Gartenarbeitsschule Friedrichshain-Kreuzberg,Ballwand
+50,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,The Garden Living,Kolonie Pascalstraße,Victor-Klemperer-Kolleg,Kolonie Frieden
+51,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,DIDIM,Volvo Truck Center Ost Betrieb Berlin,Kulturforum,Bundespräsidialamt
+52,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Hermann-Ehlers-Platz,Schaltstation Heerstrasse,Berliner Toilette,Gedenkstätte NS-Zwangsarbeit für die Evangelische Kirche - Friedhofslager Berlin-Neukölln
+53,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,"ehem. Motorenhöhenprüfstand, AG Supramolekulare Systeme SMS (HU)",Imbiss Oase,KGA Spreegrund Süd,KGA Nordpol II
+54,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,BVG Omnibusbetriebshof Cicerostraße,"Zentralasiatisches Gebirge Altai, Tienshan und Pamir",ND 57,Baustelle Freiheits- und Einheitsdenkmal
+55,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,KGA Bahnhof Reinickendorf,Pavillon am Ufer,Kolonie Lebensfreude,Euromaster
+56,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Kepler-Schule,KGA Neuland I,Hans-und-Hilde-Coppi-Gymnasium,Kleingartenkolonie Oeynhausen
+57,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Östlicher Himalaya Wälder,Kolonie Saatwinkler Damm,Kita Tischlerzeile,Cabuwazi
+58,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Max-Taut-Schule,Spreebogenpark,Friedensgarten I,TV Blau-Weiß Biesdorf e.V.
+59,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Park am Nordbahnhof,Kindertagesstätte Buntstift,Koppel,Riller & Schnauck
+60,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Hyazinthara,Reuterplatz,Nacktbadestelle,Unternehmensgruppe Brüder Schlau
+61,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Boschpoler Platz,Neuer St. Jacobi-Friedhof,RBO InMitten gGmbH,Villa Bell
+62,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Heeresbäckerei,degewo-Stadion,Vogelsang,Rosengarten
+63,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Grünzug Südpanke,Emmauskirchhof,Kissinger Platz,KGA Parkheim
+64,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Berliner Toilette,Station Food,Kleingartenkolonie Kissingen,Althoffplatz
+65,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,TK Blau-Gold Steglitz e.V.,BVG-Betriebshof Britz,KGA Fronhoferstraße,Johanna-Gerdes-Grundschule
+66,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Wühlischplatz,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof,Richard-Wagner-Platz,Lichtenberg Carré
+67,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Kindergarten Schatzinsel,Haus 9,Kamelien und Azaleen,Evangelische Dorfkirchengemeinde Britz
+68,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,ehemaliger Palast der Republik,Bim & Boom Kinderspielland,Rathaus Zehlendorf,Willy-Kressmann-Stadion
+69,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Passfoto sofort,Gemeinschaftsschule,Freiluftkino Rehberge,Kolonie Jungbrunnen
+70,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Humanistische Kindertagesstätte Prenzlzwerge,Bouché Gewerbepark,Rathaus Treptow,Imbiss Oase
+71,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Chemie Vertrieb Berlin,Breitenbach-Höfe,Museum für Fotografie,Bundesarchiv Berlin-Lichterfelde
+72,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Berliner Toilette,Bauteil G2,Elefantentor,KGA Schönholz II
+73,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Berliner Toilette,Stützpunktwache Haselhorst,Änderungsschneiderei,Sportanlage Gustav Böß
+74,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,KGA Späthstraße,KGA Möbius,Besselpark,Robert-Reinick-Grundschule
+75,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Kinder- und Jugendheim Florian Geyer,Michalak & Schotte GmbH Bosch Car Service,Lindenhof,Gartenfreunde e.V.
+76,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Heide-Grundschule Haus II,Kasse,Friedrichstadt-Passagen (Q 207),Umspannwerk Marzahn
+77,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Elise-Tilse-Park,Stadtteilbibliothek Reinickendorf West,Gesellschaft für soziales & betreutes Wohnen,Seniorenwohnhaus Charlottenstraße 85
+78,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Ilse-Kiez,Kita Zwergenland,A&O Berlin Hauptbahnhof,Mittelmeergebiet
+79,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,KGA Kuckucksheim I,Allee-Hotel Berlin,P13,Peter-Witte-Grundschule
+80,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Reinfelder-Schule,Kleingartenanlage Sorgenfrei,Kleingartenanlage Müllers Ruh,Haus 5 - Kastanienhaus
+81,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Geschwister Scholl Str.,Griechischer Park,KGA Am Steinberg,GSL Metallhandelsgesellschaft
+82,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Rosengarten,KGA Neuchateller Straße,The Corner,Hackesches Quartier
+83,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,KGA Treseburg,Bandouri - Bistro am Himalaya,Quartier Wir,Akazienwäldchen
+84,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,U Rosenthaler Platz Süd,SNACCI,Happy Mini Pizza,Das RADhaus Pankow
+85,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Orchidee-Blumen,KGA Olympia,KGA Nordland,Universum Landes-Ausstellungs-Park
+86,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Schleidenplatz,Parkhaus Rathauspassagen,Ostseeplatz,Leipziger Platz
+87,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Kiriat-Bialik-Sporthalle,Balli,Schwimmhalle der Russischen Botschaft,Zeppelinplatz
+88,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Südpark,Kita Springmäuse,VfB Fortuna Biesdorf,Kandelaber
+89,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Volvo Truck Center Ost Betrieb Berlin,Mezitli-Park,Pumpwerk Wedding,Waldstraße
+90,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,KGA Dreilinden,Berliner Toilette,Outdoor Spree 1,KGV Falkenhöhe 1932
+91,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Hotmobil - Energie in Bewegung,Rudolfplatz,DB Sicherheit,KGA Dreieck
+92,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Kleingartenanlage Bodenreform,Ganztagsbereich Scharmützelsee-Grundschule,Albatros-Schule,Sheraton Berlin Grand Hotel Esplanade
+93,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,KGA Dahmshof Abschnitt2,Informationszentrum Tempelhof,Streuobstwiese,Volkradpassage
+94,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Renée-Sintenis-Platz,Kolonie Bleibtreu II,Kolonie Lindenblüte,Johann-von-Neumann-Haus
+95,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Esso,KGV Langes Höhe,Sporthalle Max-Taut-Schule,Der Holländer
+96,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Albrecht'sche Erben,Berliner-Kindl-Schultheiss-Brauerei,Kolonie Feldschlößchen,Business and Innovation Center next to Freie Universität Berlin Campus
+97,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Humanistische Kindertagesstätte Adlershofer Marktspatzen,Wæschefabrik,Triest-Park,Konrad-Zuse-Schule
+98,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Guten Dag Korean Fried Chicken,DB Reisezentrum,ehemaliger Palast der Republik,Otto-Nagel-Gymnasium
+99,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Kleingartenanlage Silberlinde,KGA Dreieck Nord,U-Bahn Gleichrichterwerk Gleisdreieck,Rosarote Tiger
+100,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Friedhof Lankwitz,WD 23,Hochschule für Wirtschaft und Recht Berlin – Campus Schöneberg,Radiodata GmbH
+101,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Vertretung des Freistaats Thüringen beim Bund,Platz des 18. März,"Bundesministerium für Wirtschaft und Klimaschutz, Abteilung 4: Industriepolitik",Viktoriaplatz
+102,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Kolonie Virchow e.V.,Haus S,Friedhof Adlershof,Waldschule Plänterwald
+103,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Otto-Hahn-Schule,St. Hedwigs Friedhof III,Haus der Musik,P9
+104,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Adass Jisroel Gemeindefriedhof,Paracelsus-Bad,Hanns-Braun-Platz,Neckarhof
+105,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Paul-Schneider-Grundschule,Bayer AG Pharmaceuticals Division,ND 49,DIDIM
+106,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Antonplatz,IPH Berlin,Hans-Peter Schmidt Tiefbau GmbH,Theodor-Wolff-Park
+107,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Kaiser-Wilhelm-Gedächtnis-Friedhof,KGA Dreieck Nord,Duke Billard & More,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof
+108,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Freie Universität Berlin Fachbereich Veterinärmedizin,RWG I,Pyrenäen und Iberische Halbinsel – Atlantische Heide,Strandbad Plötzensee
+109,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Café im Bienenstock,Empore Halle 18,Kleingartenanlage Frieden e. V. Berlin-Weißensee,Sportplatz Thurgauer Straße
+110,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Alexianer St. Joseph Krankenhaus Berlin-Weißensee,Effizienzhaus-Plus mit Elektromobilität,Justizvollzugsanstalt für Frauen Berlin,Europcar
+111,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,KGA Hochspannung,Kita Rappelkiste,Bauteil K2,Hort der Hugo-Heimann-Grundschule
+112,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Kita Sonnenkäfer,Ehemalige Zapf Umzüge,Grünzug Heidekampgraben,Eigenland
+113,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Berliner Toilette,Haus des Deutschen Handwerks,SV Lichtenberg 47 e.V.,Alter Friedhof der St.-Jacobi-Kirchengemeinde
+114,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Charité – Campus Benjamin Franklin,Sommeridyll e.V.,Treptow-Kolleg,BerlinCampus
+115,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Grünzug Heidekampgraben,Rathauspassagen,Hertha BSC Fan Shop,Humboldt Palais am Hegelplatz
+116,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Dircksenstraße/Rochstraße,Station 8,Nazareth,Königreichssaal Jehovas Zeugen
+117,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Bundesministerium des Innern und für Heimat,Jelbi,Seniorenhaus Bethel,Rosengarten
+118,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Lichtungszone,Helsingforser Platz,Guter Wille,Hein-Moeller-Schule Oberstufenzentrum Energietechnik II
+119,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Mittenmang,Flughafen Berlin-Tempelhof,U Schönleinstraße,Alter Park
+120,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Calzedonia,Kita Die schlauen Mäuschen,Turngemeinde in Berlin 1848,Hisab's Döner Kebab
+121,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Messelpark,Happy Mini Pizza,Immer 365 Kaffe & Presse,Haus Diercks
+122,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Frog Oase,Jägerstraße/Friedrichstraße,Östlicher Himalaya Wälder,Berliner Toilette
+123,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Imbiss Oase,Friedhof Ruhleben,BVG Omnibusbetriebshof Cicerostraße,dm
+124,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Western Comfort,St. Fidelis Kirche,Dreifaltigkeits-Friedhof,Rudolf-Hildebrand-Grundschule
+125,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Kleingartenanlage Späthswalde,Grünanlage Eichenhain,Branitzer Platz,Jugendfreizeiteinrichtung Schottenburg
+126,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Messelpark,Senioren Wohnpark Lichtenberg,Arbeiterstrand,Kiezbeete
+127,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Siemens Schaltwerk,Kiriat-Bialik-Sporthalle,Business School Berlin,Georgina
+128,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Kleingartenanlage Mariengrund,Wilma-Rudolph-Oberschule,KGA Aufbau,Elbekies Mühlberg
+129,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Weidenbaum,KGA Wilhelms Ruh,Anonyme Beisetzungen,Amtsgericht Charlottenburg
+130,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Kolonie Albrechtshöhe,P5,Trusepark,Truman Plaza
+131,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Brauerplatz,Riesenschildkröten,"Bez.-Amt Neukölln von Berlin, Naturschutz- u. Grünflächenamt",Eastern Comfort
+132,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,HSH Hotel Apartments Mitte,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof,KGA Weinviertel,Plansche Plänterwald
+133,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,BVG Busbetriebshof Müllerstraße,Grill'N'Chill,24/7 Service Store,Großer Tiergarten
+134,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Kaukasus,KGA Freiheit,Alfred-Rühl-Haus,Grazer Platz
+135,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Karparten oberhalb der Waldgrenze,Sportcafé Mitte,Kleingartenanlage Gartenfreunde Wuhlheide,Bibelgemeinde Berlin
+136,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,HIT Ullrich,Atila's Kebap Haus,Kant-Oberschule,Ratswaage
+137,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,GANT,Bahnhofsmission,KGA Stolz von Rixdorf,Innung für Metall- und Kunststofftechnik Berlin
+138,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Messelpark,Café Old Style Simit Evi,Kleingartenanlage Felsenfest,SNACCI
+139,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Kleingartenanlage Sembritzkistraße,KGA Reichsstraße,burger 1,Nord-Grundschule
+140,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,SHK-Kompetenzzentrum,Bavaria Automobile,Haus Malta,BMKS
+141,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Boschpoler Platz,Westkaukasus Hochgebirge,Südliches Torhaus,Bauteil H2 rd (rund)
+142,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Ev. Kita Dreieinigkeit,Birkbuschgarten,Stefan-Heym-Platz,Bundesministerium des Innern und für Heimat
+143,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,KGA Spandauer Berg,Rothenburg-Grundschule,Dorotheenstädtisch-Friedrichswerderscher Friedhof,Alexa
+144,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Lichtenberg Apotheke,Berliner Toilette,Invalidenpark,Harzer Eck
+145,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,EW,QH Colonnades,Bahnhof-Apotheke Friedrichshain,FU Institut f. Pharmazie
+146,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Hartmut-Spittler-Fachklinik,Kiriat-Bialik-Sporthalle,Grundschule an der Pulvermühle,Quartier Wir
+147,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,August Storck,Pretty World,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof,U Schönleinstraße
+148,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Harry-Bresslau-Park,Pfadfinderheim Marienhöhe,Wohnanlage Wotanstraße,Neues Leben e.V.
+149,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,KGA Alpental,Bürgerpark Pankow,Dr. Janusz Korczak-Haus am Tierpark,Sirius Business Park Berlin-Gartenfeld
+150,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Kita Starke Kinder,Vodafone,Biesdorfer Kreuz,Schule am Tierpark
+151,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Kleingartenanlage Lunapark II,Modeschule Berlin,KGA Flora,Kleingartenkolonie Mannheim
+152,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Ev. Kindertagesstätte der Patmos-Kirchengemeinde Steglitz,BVG Kundenzentrum,Spielplatz Curtiusstraße,Tonerdumping
+153,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Mark-Twain-Grundschule,Brosepark,Paracelsus-Bad,Humanistische Kita Bornsdorfer Straße
+154,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Halle 19,Berliner Union-Film,Friedrichstraße/Kronenstraße,Kleiner Tiergarten
+155,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Wasserturm Bergstraße,Johann-August-Zeune-Schule für Blinde,Treptow-Kolleg,ESV Lok Berlin-Schöneweide
+156,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Bauausrüstungen + Service Behnke & Sänger GmbH,Schul-Drehscheibe Wustrower Straße,ehemalige JVA Plötzensee (Haus 3),PrimaVita
+157,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Agnes,"Kleingartenanlage ""Steintal""",Jugendfreizeiteinrichtung,VoltAir
+158,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Evangelischer Kirchhof St. Johannis und Heiland,Straßen- und Grünflächenamt Pankow,Lagerpflanzen der Mittelgebirge,Humboldt-Universität zu Berlin - Standort Dahlem
+159,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,BahnBuchShop,Eurofoil Paper Coating GmbH,Kleingartenanlage Hermannsruh,Charité Campus Virchow Klinikum
+160,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Rosenfelder Ring,Kinderzentrum Lindenhof,Rafih,Rosengarten
+161,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Kita unter den Kastanien,S-Bahn Gleichrichterunterwerk Lehrter Bahnhof,Kita Kinderwelt,Griechischer Park
+162,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Produktionstechnisches Zentrum Berlin (PTZ),Wartheplatz,Beethoven-Gymnasium,Am Wasserbunker
+163,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Kolonie Martha Baer,Rossmann,Nordamerika,KGA Gute Hoffnung
+164,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Rohrnetzbetriebsstelle Jungfernheide,Kleingartenanlage Gartenfreunde Wuhlheide,Kleingartenanlage Karl-Fischer-Weg,Thomas Weiß & Co. Bautischlerei GmbH
+165,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Eisenbahnersportverein Lokomotive Berlin-Mitte,Rosarote Tiger,Siedlerverein Harmonie,Grundschule im Gutspark
+166,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Berliner Hochschule für Technik,KGA Eichtal,McDonald's,KGA Hochspannung
+167,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Gare Française,Steppenadler,Haus E,Friedhof Adlershof
+168,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Spielplatz Kohlrauschstraße,Gymnasium Steglitz,Kleingartenanlage Frohsinn,P 3
+169,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Märkische Schweiz,Stellwerk Nordbahnhof,Kleingartenanlage Alt-Lankwitz,Kriegsgräber 2. Weltkrieg
+170,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Wiesenburg,Hauptwache,Getränke Preuss Münchhagen GmbH,"Maskeneule, Südbuscheule, Rostkauz"
+171,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Audi Zentrum Berlin,Gleichstromunterwerk Priesterweg,Kleingartenanlage Niederschöneweide,MyPlace-SelfStorage
+172,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Friedhof Pankow I,Kleingartenanlage Treptows Ruh,Schule An der Heide,Jörg Eckart Autohandel
+173,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Droste-Hülshoff-Oberschule,Eurofoil Paper Coating GmbH,Bahlsen GmbH & Co. KG,Sankt Nicolai und Sankt Marien Friedhof II
+174,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,ehem. Containerbahnhof Frankfurter Allee,Hunkemöller,Siemensstadt Park,Shurgard Self-Storage
+175,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Mittelmeergebiet Kakteen,Tagesförderstätte Harbigstraße,Robin Hood,Breitenbachplatz
+176,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Bismarckplatz,Eckernförder Platz,Haus F,Spreebogenpark
+177,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Empore Halle 18,Balkanhalbinsel,Kleingartenanlage Aprikosensteig,Grundschule an der alten Feuerwache
+178,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Orankeseepark,Kolonie Bleibtreu II,Outdoor Spree 1,Arbeiterstrand
+179,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Tropische Nutzpflanzen,Tasty 63,Kleiner Tiergarten,Wiener Feinbäcker Heberer
+180,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Pazifisches Nordamerika,Fahrradgarage,Haus 22,PankowPark
+181,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Zamenhofpark,Seelgrabenpark,Burgerzimmer XIII,Rosengarten
+182,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,KWT,2,Rosengarten,Schule am Schillerpark
+183,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Pumpwerk Treptow,Sportanlage Paul-Heyse-Straße,Kindergarten Falkenberg,High Park
+184,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Just 4 You,BSR Flächenreinigung Regionalstelle VR 42,Bärliner Tierfriedhof,Freie Universität Berlin
+185,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Westhalle,Reifen-Center GmbH Berlin Marzahn,Historische Fallschirm-Sprunganlage,Haselhorst 13
+186,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Paul- und Charlotte Kniese-Schule,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof,Polizei Abschnitt 13,Schinkelpavillon
+187,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof,Erika-Heß-Eisstadion,Schiller-Bibliothek,Der Diplomatenpark
+188,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,‚Unilab‘-Schülerlabor (HU),Wyhikel Nutzfahrzeuge,Hangar/Halle 6,Vitanas Senioren Centrum Am Bäkepark
+189,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Gartenfreunde e.V.,Taverna Argo,Kita Rathauspromenade,Kiezgarten
+190,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Jugendverkehrsschule Hohenschönhausen,Wissenschaftszentrum Berlin für Sozialforschung,Südpark,Zentraler Abfallplatz
+191,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Biesdorfer Kreuz,Georgina,Kleingartenanlage Waldland Oberspree,Ankunftszentrum für Asylsuchende
+192,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Business and Innovation Center next to Freie Universität Berlin Campus,Schiffsentlader 2,Rudolf-Wissell-Grundschule,Denns BioMarkt
+193,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Pathologie,Johanna-Gerdes-Grundschule,Wartesaal,Familienzentrum Ritterburg
+194,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Golf Resort Berlin Pankow,King Kebap,Anonyme Beisetzungen,Teigmeister
+195,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,KGA Saatwinkel Wiese Süd,Fritz-Lesch-Sportanlage,Akademie der Künste,Wagendorf Lohmühle
+196,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,KGA Kolonie Friede und Arbeit,Kleingartenanlage Sorgenfrei,Maschinenhaus 4,Pfegewohnheim Haus Leonore
+197,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Dora-Duncker-Park,Teltow-Grundschule,Schlittschuhverleih,Baustelle A100
+198,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Baustelle A100,Famos,FB Politik- und Sozialwissenschaften,KGA Lindenbaum
+199,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Parkhaus Charité,Wildspitz,System der krautigen Pflanzen,Cubix
+200,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Bauteil H1 rd (rund),ehem. Steilkurve,Franz-Klühs-Park,Kolonie Waldschule
+201,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Jelbi-Station Daumstr./Rhenaniastr.,Finkenpark,Kleingartenanlage Giselastraße,Kolonie Pascalstraße
+202,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Gebäude 10,Haus 12,recordsale.de,Paracelsusplatz
+203,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,BSR Regionalzentrum RF1 (VR 11 & 13),Bauteil K2,MV Berolina (Hundesportverein),Freizeit- und Erholungszentrum (FEZ)
+204,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Niemeier Mietstation,Stadtgarten Biesdorf,Kita Schwiebusser Straße 5,Pyrenäen und Iberische Halbinsel – Gebirge
+205,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Luisenstädtischer Friedhof I,Bauteil G1,Quartier Idunastraße,PLTFRM.Berlin
+206,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Emanuel-Lasker-Schule,Galerie Bastian Berlin,Reiswerder,Kleingartenkolonie Oeynhausen
+207,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,GSL Metallhandelsgesellschaft,Softball Field 2,August-Heyn-Gartenarbeitsschule Neukölln,Kleingartenkolonie Canova e.V.
+208,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Richard-Wagner-Platz,PSK Ortsgruppe Berlin-Hohenschönhausen,Adenauerplatz,Grill Time
+209,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Hauptzollamt Berlin ZA Marzahn,Kita Lichterfelde,Station Berlin,Bauteil A1
+210,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Torstraße/U Rosenthaler Platz,Volkspark Wilmersdorf,Tropische Nutzpflanzen,Fiori Belli
+211,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Marx-Engels-Forum,Borchert Dach und Fassade,Grundschule an der Bäke,Kolonie Goldregen
+212,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Sankt Anna,Bäcker Wiedemann,Kolonie Burenland,Stadion Britz-Süd
+213,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Johann-August-Zeune-Schule für Blinde,East-Side-Park,Graefestraße/Urbanstraße,Haus 9
+214,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Bandouri - Bistro am Himalaya,Borsigtor,Graefekiez,Point Markt
+215,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Schwimmhalle am Helene-Weigel-Platz „Helmut Behrendt“,Schule am Grünen Grund,Bröndby-Oberschule,International Gospel Center
+216,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Halle 20,Jugendcafé Laiv,Auferstehungskirchhof,Humanistische Kindertagesstätte Adlershofer Marktspatzen
+217,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Jobcenter,Volvo Truck Center Ost Betrieb Berlin,Sodexo SCS GmbH,WD 21
+218,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Ballwand,Parkhaus Rathauspassagen,Kunstrasenplatz 3,Россия
+219,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Urban Gardening Adlershof,Lise-Meitner-Haus Institut für Physik (HU),Spielplatz Karpfenteichstraße,4
+220,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Kolonie Karl-Lange-Brücke Nord,Kleingartenanlage Am Hederichweg,Seelgrabenpark,NTT Berlin 1 Data Center
+221,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Autobahnmeisterei Berlin,Annahme,Jugendklub Klinke,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof
+222,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Hoffmann-von-Fallersleben-Platz,Werkstatt der Berliner Feuerwehr,Gebäude 3aII,Berliner Hochschule für Technik
+223,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Coca-Cola European Partners Deutschland GmbH,"Fahrradparkplatz an der Volkswagen Universitätsbibliothek, Haupteingang, Westseite, 03B",SMP Vermietservice,Gärtnerhaus
+224,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Caritas-Hospiz Pankow,Sommerbad Neukölln,Jugendverkehrsschule Sachsendamm,Sophie-Brahe-Schule (Gemeinschaftsschule)
+225,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Zirkus Mond,Sonderforschungsbereich 626,Berliner Feuerwehr FW Pankow,Zum Würfel IV
+226,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,S Friedrichsfelde Ost,Dunant-Grundschule,KGA Oranke,BSR Betriebshof
+227,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,BLUME-Messnetz,Kleingartenanlage Niederschöneweide,Berlin 2 Data Center,Waldfriedhof Dahlem
+228,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Berliner Toilette,Kita Wedellstraße,Evangelische Schule Lichtenberg (Grundschule),BVB-Mitarbeiterparkplatz
+229,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,ehemaliges Kino Sojus,Großer Tiergarten,Michalak & Schotte GmbH Bosch Car Service,Integrierte Sekundarschule Hagenbeck
+230,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Wiesenflora deutsches Mittelgebirge,Kindergarten Pinocchio,Historische Fallschirm-Sprunganlage,Umspannwerk Rubens
+231,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Kleingartenanlage Am Mississippi,SaGeMa GmbH Erdwirtschaft & Kompostierung,Städtisches Bootshaus Reinickendorf,Hans im Glück
+232,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Volvo Truck Center Ost Betrieb Berlin,Auferstehungskirchhof,Walter-Husemann-Sportplatz,Otto-Hahn-Platz
+233,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Umwelt- und Naturschutzamt,"Fahrradparkplatz an der Volkswagen Universitätsbibliothek, Haupteingang, Westseite, 02B",Seelgrabenpark,Alexa
+234,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Giraffe-Hochhaus,Kleingartenanlage Giselastraße,Südliches Torhaus,Jugendplatz
+235,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Axis Offices,Grüntaler Flanier Nord,Star,Tropische Farne
+236,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Tietzer Strolche,Cecilienhaus,Landschaftspark,Geschützter Spielplatz
+237,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Pia Olymp Mädchensportzentrum,Volkspark Rehberge,Kleingartenanlage Am Mississippi,Kita F.A.I.R. play
+238,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Haus 4,Nördliche Kalkalpen oberhalb der Waldgrenze,Gymnasium Tiergarten,Alte Liebe Tempelhof
+239,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Kita Weydemeyerstraße,Niemeier Mietstation,Wohnheim Augustenburger Platz,Universum Landes-Ausstellungs-Park
+240,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Kleingartenanlage Hamburg,Haus 31,Kleingartenanlage Gartenfreunde Wuhlheide-Lichtenberg e.V.,Kriegsgräber 2. Weltkrieg
+241,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,KGA Saatwinkel Wiese Süd,Hafen Lankwitz,Max-Delbrück-Centrum für Molekulare Medizin,Birkbuschgarten
+242,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Betriebshof Lichtenberg,Siedlung Akazienhain,Friedensplatz,Gedenkstätte NS-Zwangsarbeit für die Evangelische Kirche - Friedhofslager Berlin-Neukölln
+243,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Ruth-Cohn-Schule,Scharfenberg,Friedhof II der Domgemeinde,Neckarhof
+244,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Ersatzschulbau Kopernikus-Schule (Integrierte Sekundarschule),Kindertagesstätte Sankt Georg,Gretel-Bergmann-Sporthalle,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof
+245,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Römischer Hof,Messe Berlin,dm,Haus 15
+246,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Fröbel-Kindergarten Inselkinder,Dragonerareal,Emil Fischer,Baumschule
+247,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Kinder- und Jugendheim Florian Geyer,Europa-Center am Forum,Atila's Kebap Haus,Diakoniewerk Simeon
+248,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Seniorenresidenz Villa Clay,Wismarplatz,Kleingartenkolonie POG,KGA Scherbeneck
+249,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Haus der Familie,Nippon Gases Deutschland GmbH,Tropische Farne,Best Of Kebab
+250,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Kleingartenanlage Neuer Garten II,TE Connectivity,Oberlandpark,Sprengelpark
+251,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Kleingartenanlage Rixdorfer Straße,Berliner Toilette,Fahrradgarage,Gutshof Falkenberg
+252,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Aquawista,Schul-Drehscheibe Wustrower Straße,EKT - Steglitzer Kinderkreisel e.V.,Halle 8
+253,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Ehemaliges Polizeipräsidium,Freiwillige Feuerwehr Altglienicke,Schneebeseitigung Nord,Wohnanlage Lichtenberg
+254,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Yachthafen Stralau,6,Bruno-Baum-Grünzug,St. Paul I
+255,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Star,Borsigtor,Lietzenseepark,Grün- und Erholungsanlage Adam-von-Trott-Straße
+256,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Yachthafen Stralau,Kleingartenanlage Grüne Weide,Moritzplatz,Elise-Tilse-Park
+257,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Baracke 6,Reinhardtplatz,Platz am Wilden Eber,Knittel
+258,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,KGA Am Schloßpark I,Schul-Drehscheibe Wustrower Straße,Vattenfall Fernwärme,KGA Nordpol II
+259,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Kriegsgräber 2. Weltkrieg,Haus 20,Apenninen,Curanum
+260,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Westflügel,KGA Rütli,Dietrich-Bonhoeffer-Grundschule,GutsMuths-Grundschule
+261,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Kindertagesstätte Sankt Georg,Direktion 3,Kleingartenanlage Alt-Lankwitz,KGA Dreieck Nord II
+262,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Erika-Heß-Eisstadion,SMP Vermietservice,Seelgrabenpark,Kolonie am Flughafen
+263,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Alfred-Rühl-Haus,Wasserschutzpolizei Wache Ost,Auto Reell,ASB Wasserrettungsstation Saatwinkel
+264,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Cabuwazi,Tierheim Berlin,Montessori Kinderhaus,KGA Rübezahl
+265,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Theodor-Heuss-Platz,KGA Kolonie Feldblume,Kandelaber,2
+266,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Feuer- und Rettungswache Lichterfelde,Villa Folke Bernadotte,VoltAir,dm
+267,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Fernheizwerk Neukölln,Pavillon der Einheit,Welle,Erweiterung Bergmannkiez-Gemeinschaftsschule
+268,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Virgin,Harry-Bresslau-Park,Dalhoff Straßen- und Tiefbau,Campus Charité Mitte
+269,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Umspannwerk Biesdorf Nord,"Umweltbundesamt, Standort Bismarckplatz",Parkplatz für Anlieger der Insel Scharfenberg,Speisekammer
+270,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,MBU Skatepark,Elsterplatz,Schule im Ostseekarree,GSL Metallhandelsgesellschaft
+271,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Integrierte Sekundarschule Hagenbeck,Kindergarten Blumenstadt,Humanistische Kindertagesstätte Adlershofer Marktspatzen,Netto Marken-Discount
+272,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Graefestraße/Boeckhstraße,Denkmal des polnischen Soldaten und deutschen Antifaschisten,Haus 20,Wartheplatz
+273,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Mathematikgebäude,Châlet Suisse,QH Straight,Spielplatz Roedernallee/Kienhorstpark
+274,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,TennisClub Wilmersdorf,Golgatha,Schustehruspark,Autohaus Domes GbR
+275,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Internationales Kultur Centrum ufaFabrik Berlin,Freiwillige Feuerwehr Wilhelmsruh,KGA Vor den Toren I,SaGeMa GmbH Erdwirtschaft & Kompostierung
+276,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Kleingartenanlage Fortschritt,Career Center (HU),DSTRCT Berlin,14
+277,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Happy Mini Pizza,Wat Thai Thaikulturzentrum,Seniorenheim Am Tierpark,Rossmann
+278,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Siedlungsgemeinschaft Bornholmer Sandwüste,Abnehmeranlage Ost,Hamburger Bahnhof,Kin Za
+279,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Berliner Union-Film,Friedhof der evangelischen Kirchengemeinde Berlin-Hohenschönhausen,Jugend- und Familienzentrum JeverNeun,Messelpark
+280,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Brunnenplatz,Tuchollaplatz,Kleingartenanlage Ehrliche Arbeit,DRK Kliniken Berlin Westend
+281,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Gärtnerei Haase,RBO InMitten gGmbH,Angelfreunde Freibad e.V.,Grundschule an der alten Feuerwache
+282,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Lietzenseepark,Baustelle A100,essanelle,Nasses Dreieck
+283,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Familienzentrum „Hand in Hand“,Spielplatz Grüntaler End,Evangelische Journalistenschule,Spanische Botschaft
+284,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Altobstanlage,Neuer Zwölf-Apostel-Kirchhof,Haus der Familie,Backwerk
+285,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Living Spree,Domicil,Spielplatz Bildungscampus Schöneberger Linse,Bauteil H2 rd (rund)
+286,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Stellwerk Nordbahnhof,Ballwand,OfficeLab-Campus Adlershof,Lichtungszone
+287,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Wartheplatz,Curry 36,Hotel Albrechtshof,Seepark
+288,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,KGA Golfplatz,Moa Bogen,Praxis Fera 1,Wartheplatz
+289,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Ibis Berlin Messe,Humboldt-Universität Campus Nord,TU Berlin - Campus Dahlem,Kolonie Friedland I
+290,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,BVG Omnibusbetriebshof Cicerostraße,Sochos Sportanlage,Akzisemauer,Strandbad Halensee
+291,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,SIXT,Hans-Peter Schmidt Tiefbau GmbH,Kleingartenanlage Reichsbahn Niederschöneweide,Märkisches Museum
+292,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Rohrbruchwiesen II,Schutzgemeinschaft Deutscher Wald,Haus Diercks,Asanta
+293,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Reinfelder-Schule,Friedhof Ruhleben,McDonald's,Kleingartenanlage Rixdorfer Straße
+294,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Amalienpark,KGA Valwiger Straße,Marianne-Cohn-Schule,Koppel
+295,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Werderscher Markt,Immunologische Tagesklinik,nuture Mini ART Golf,Orchideen
+296,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,LAT,"FB Biologie, Chemie, Pharmazie",Kleingartenanlage Volkspark Malchow,Kita Wasserflöhe
+297,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Umweltbildungsfläche,Rollheimer,Jahnplatz,Dreifaltigkeitsfriedhof III
+298,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Tennisclub Lichterfelde 77 e. V.,essanelle,P9,Siedlung Am Grunewald
+299,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Freie Universität Berlin Fachbereich Veterinärmedizin,Urnen Berg Garten,Schadow-Haus,Angewandte System Technik
+300,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,4,Bockbrauerei,Kolonie Odertal,Kleingartenanlage Sternwarte 1911
+301,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Beethoven-Gymnasium,Hansa-Grundschule,KGA Schweizerland,Bibelgemeinde Berlin
+302,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Friedenauer Höhe,Cabuwazi,Heeresbäckerei,Kolonie Alpenrose
+303,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,14. Schule (Integrierte Sekundarschule),Schwimmhalle am Helene-Weigel-Platz „Helmut Behrendt“,3aIV,Landgut der Domäne Dahlem
+304,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Der Original Berliner Trödelmarkt,Old Texas Town,Recyclinghof Nordring,Kita am Gleis
+305,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Georg Lemke GmbH & Co KG,Haus Diercks,Kleingartenkolonie Mannheim,RWG I
+306,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,KGA Aufbau,Fröbel-Kindergarten Inselkinder,Crellemarkt,KGA Eichtal
+307,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,KGA Singdrosselsteig 4 - Beussel'sche Erben e.V.,R.4drast.Maß.,Am Waldessaum e.V.,KKP Elektroanlagenbau
+308,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Johannaplatz,BSC Eintracht / Südring 1931,Karlshofer Wiese / Lehmannshof,Wassertorplatz Süd
+309,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,KGA Gute Hoffnung,Rettungswagenstützpunkt Rummelsburg,Freiwillige Feuerwehr Heinersdorf,Spittelkolonnaden
+310,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,"Fahrradparkplatz an der Volkswagen Universitätsbibliothek, Haupteingang, Westseite, 03B",Heilig-Kreuz-Friedhof,Neiss Sicherheitstechnik,St. Thomas-Friedhof (Alter Teil)
+311,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Corrensplatz,Sportplatz Kleine Hamburger Straße,KGA Bäketal,Ringo's Grill
+312,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Westhalle,Kolonie Frieden,Hort der Bouché-Schule,Jelbi
+313,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Kita Notenhopser,Sommerbad Neukölln,S-Bahn Gleichrichterunterwerk Schöneweide,Vivre Ensemble - gemeinsam Leben
+314,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Volkspark Prenzlauer Berg,Garten der Blumen und Wasserspiele,Hackesches Quartier,BVB-Mitarbeiterparkplatz
+315,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Erich-Kästner-Grundschule,Berliner Wasserbetriebe,Empore Halle 18,Güterbahnhof Tempelhof
+316,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Kleingartenanlage Florafreunde,Friedhof der evangelischen Kirchengemeinde Berlin-Hohenschönhausen,Bauteil K2,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof
+317,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Niemeier Mietstation,REWE,Kleingartenanlage Luisengärten,AS+BE Asphalt- und Betonstraßenbau
+318,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Lise-Meitner-Haus Institut für Physik (HU),Erich + Jahn Motorsport,Kleingartenkolonie Blaupunkt,Linienstraße/Rosenthaler Straße
+319,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Hans-Baluschek-Park,Uferstudios für Zeitgenössischen Tanz,Schmollerplatz,Kita Lingulino
+320,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Schwimmhalle Baumschulenweg,Teppichhaus,Landesruderverband - Leistungszentrum,Thomashöhe
+321,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Kleingartenkolonie Alt Rheingau,Großer Tiergarten,Joachim-Fahl-Haus,Heilige-Geist-Gemeinde
+322,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Ringberlin,Wochenmarkt Breslauer Platz,PST Grundbau GmbH,Kleingartenanlage Giselastraße
+323,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Kooperative Leitstelle der Polizei und Feuerwehr Berlin,Elefantentor,Gewerbepark Daumstraße,Bernd-Ryke-Grundschule
+324,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Molkenmarkt,Anonyme Beisetzungen,Shakespeare Company Berlin,ehemaliger Palast der Republik
+325,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Autohaus Domes GbR,Berliner Toilette,Treppenhaus Parkhaus,Kita Jeverstraße
+326,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,DEKRA,Berlin Recycling,Gleichrichterwerk 801 Nalepastraße,myflower
+327,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Alte Börse Marzahn,MyPlace-SelfStorage,Anneliese-und-Georg-Groscurth-Platz,Umweltbildungsfläche
+328,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Kunsthaus,Dreifaltigkeitsfriedhof III,Ruhestätte Marienschwestern,Physikalisch-Technische Bundesanstalt
+329,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Mercedes-Benz AG Werk Berlin,Badestelle Scharfenberg,dopa Diamond Tools,KGA Sandkrug II
+330,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Kirchenspielplatz,Alter Park,Ehemalige Berliner Kunstfeuerwerkerei Deichmann & Co.,Krippe Haveleckchen
+331,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Universum Landes-Ausstellungs-Park,KGA Resedenstraße,Friedrichswerdersche Kirche,U Schloßstraße
+332,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Kleingartenanlage Frohsinn,OASE Hort,Friedrichstadt-Passagen (Q 207),Kolonie Odertal
+333,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Eisenbahn-Landwirtschaft Bezirk Berlin e.V. Lichterfelde Ost,Bauteil F1,BVB-Busparkplatz,Lagerpflanzen der Mittelgebirge
+334,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Kegelsportgaststätte Völkerfreundschaft,Müller-Zeiner,AM,Good-Life-Handels GmbH
+335,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Kleingartenanlage Lehrter Straße,"Bundesministerium für Wirtschaft und Klimaschutz, Abteilung 4: Industriepolitik",KGA Waldesgrund,Kolonie Roseneck e.V.
+336,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Rohrbruchwiesen I,Kleingartenanlage Mariental 2,Flussbad Berlin Testfilter,VoltAir
+337,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Berliner Toilette,ehemals Güterbahnhof Halensee,Dachdeckereinkauf,Kolonie Sommerheim
+338,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Psychiatrische Institutsambulanz [Haus 17],KGA Dahlemer Wiese Nord,Gemeindehaus der ev. Kirchengemeinde Epiphanien,KGA Heideschlößchen
+339,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,‚Unilab‘-Schülerlabor (HU),Oasis Berlin,KGA Heimaterde,Humboldt Palais am Hegelplatz
+340,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Volkspark Jungfernheide,14,Vereinigung für Jugendhilfe - Förderbereich Treptow Orionstraße,Kindergärten City
+341,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Puccini Hofgärten,MC Alt Stralau,Rudolph-Wilde-Park,Erich-Kästner-Grundschule
+342,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Blumental Hausboot,EKT - Kinderhaus Waldschulallee e.V.,Rosengarten,Jochen-Klepper-Park
+343,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Kleingartenanlage Treidelweg,Landesamt für Einwanderung,Kita Wiesenstraße,Cosy Wash
+344,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Schöneberg Automobile,Pflanzen van Holland,Kleingartenanlage Alt Ruhleben 1,Bodenfilteranlage 06 / Autobahn A113
+345,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Hisab's Döner Kebab,Kita Filandastraße,Alea 101,Vogelsang
+346,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Schul-Umwelt-Zentrum Mitte - Gartenarbeitsschule Wedding,Bistro 63,Fiori Belli,Hyrcanische Wälder
+347,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,DLRG - Jugend und Ausbildungszentrum,Kolonie Friedland I,Stadtteil-Kita High-Deck,Öffentliche Toilette
+348,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Japanische Laube,Frankfurter Allee Süd,Kita Am Haselbusch,Otto-Weidt-Platz
+349,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,KGA Wasserturm,"Aserbaidschan Steppe, Halbwüste, Salzvegetation",Anneliese-und-Georg-Groscurth-Platz,Frankfurter Allee Süd
+350,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Kleingartenanlage Straße vor Schönholz,Industriesalon Schöneweide,Grundschule unter dem Regenbogen,Zwischenpumpwerk Columbiadamm
+351,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Kita Firlefanz,Bauteil C Empfangshalle,Ridesharing,MV Berolina (Hundesportverein)
+352,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Landeskriminalamt Berlin,Grünzug Südpanke,Futuro 13,Humboldthain Grundschule
+353,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Berliner Toilette,REWE,Kleingartenanlage Britzer Allee,Kurt-Tucholsky-Oberschule
+354,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Berliner Toilette,Arnswalder Platz,Kriegsgräber 2. Weltkrieg,Berlin Metropolitan School
+355,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Brunnenplatz,Gärtnerei B. & S. Emmerich,Sophie-Brahe-Schule (Gemeinschaftsschule),Schmollerplatz
+356,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Konrad-Zuse-Schule,Friedhof an der Lilienthalstraße,Schlosspark Charlottenburg,Berliner Wasserbetriebe
+357,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,KGA Roßtrappe,Remondis Industriepark,Kleingartenverein am Rohrdamm e.V.,Oberbaum City
+358,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,wheego,Zeltplatz Saatwinkel,Kleingartenkolonie Frohsinn,King Kebap
+359,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Kienhorstpark,Parkhaus Charité,Labor Berlin,Schneebeseitigung Nord
+360,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Siemens,Recyclinghof Fischerstraße,Georg-von-Giesche-Schule,Gleichrichterunterwerk Jungfernheide
+361,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,KGA Papestraße,Strausberger Platz,KGA Dreieck,Münsterlandplatz
+362,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Baracke 6,Japanische Laube,Siemens Schaltwerk,LAT
+363,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Kita Lichtenzwerge,Annie Heuser Waldorfschule,Private Kant-Grundschule,Waldfriedhof Dahlem
+364,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Haus Wolfgang Raeder,Kita Milchbartpiraten,Familiengräber im Walde,Freiaplatz
+365,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Waldfrieden 1,Rudower Straße Teil I,Balkanhalbinsel – Wälder und Gebüsche,Schinkelplatz
+366,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Aldi,Siegfried-Aufhäuser-Platz,Kita Paster-Behrens-Straße,Suzuki Autohaus
+367,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Heimatmuseum (Mitte Museum am Gesundbrunnen),Graefestraße/Planufer,Friedrichsruher Platz,ehem. Omnibus-Betriebshof
+368,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Kolonie Lebensfreude,Maschinenhaus 4,Bäcker Wiedemann,Sportplatz Thurgauer Straße
+369,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Evangelische Schule Berlin-Mitte,Kleingartenanlage Fortschritt,Gewerbehof Hermares,FHC
+370,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Siedlung Zum Berggeist,Johann-von-Neumann-Haus,Balkanhalbinsel – Gebirge,Freie Waldorfschule Berlin-Südost
+371,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Global Village,Kolumbarium (Urnenhalle),Antik & Buchmarkt am Bodemuseum,NNW-Platz
+372,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Wohnanlage Lichtenberg,Dora-Duncker-Park,Amazon logistics,Osterkirche
+373,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Bim & Boom Kinderspielland,Rosengarten,Heckengarten,KGA Neue Zeit
+374,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,WD 23,Dom Aquarée,Reitclub Grunewald,Pferdehof Falkenberg
+375,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Kolonie Friedland I,ehem. Containerbahnhof Frankfurter Allee,Haus M,Vattenfall Fernwärme
+376,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Heinz-Graffunder-Park,Sozialgericht Berlin,Eisenbahnersportverein Lokomotive Berlin-Mitte,Rosa-Parks-Haus
+377,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Kleingartenanlage Gartenfreunde Wuhlheide,Halle 16,"Kleingärtnerverein ""Am Außenring""",Kleingartenanlage Giselastraße
+378,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Klostergarten,Wilhelmsaue,U-Bahn Gleichrichterwerk Seidelstraße,KulturKiosk
+379,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Richardplatz,Biesdorfer Kreuz,Neuer Friedhof Friedrichsfelde,Zentrale Urgesteinsalpen
+380,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Springpfuhlpark,Krankenhaus des Maßregelvollzugs Berlin,Gleislinse Schöneweide,Haus 11
+381,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,FSE Pflegeeinrichtung Treptow-Johannisthal,Easy Lodges,Kleingartenanlage Niederschöneweide,Paracelsus-Bad
+382,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Wochenmarkt Eberbacher Straße / Rüdesheimer Platz,Kleingartenkolonie Canova e.V.,ServiceStore DB,"Institut für Biologie, Pflanzenphysiologie und Mikrobiologie"
+383,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Amtsgericht Kreuzberg,Alter Park,Kleingartenanlage Lunapark I,Kleingartenanlage 750 Jahre Berlin
+384,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,TV Blau-Weiß Biesdorf e.V.,KGA Siedlung X,Polizeidirektion 2- Abschnitt 26,Signal Iduna
+385,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,VKU-Forum,Tokio Sushi,Mittelmeergebiet,P&G Manufacturing Berlin GmbH (Gillette)
+386,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Eulen,Frankenturm,Arkonaplatz,TK
+387,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Haus C,Südosteuropa Steppengebiet,Schwesterngräber,arko
+388,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Reuterplatz,Direktion 1 Referat Verbrechensbekämpfung,Padel FC,Kleingartenanlage Mariental 2
+389,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Gelbgrüne Panther,KGA Wiesengrund,Brickhub,Kanalbetriebsstelle Wedding
+390,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Thyssen-Krupp Aufzüge Nordost,Jelbi Landschaftspark Adlershof/Hermann-Dorner-Allee,Bauteil H2 lg (lang),Teehaus
+391,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Golgatha,WD 23,City Toilette,Asia-Imbiss
+392,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,KiezKlub Pankow,Asia Food,Haus 5 - Kastanienhaus,Station Food
+393,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Sommeridyll e.V.,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof,Biergarten-Quelle,EJF - Lebensraum Darßer Straße - LRDS
+394,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Friedrich-Drake-Grundschule,Neiss Sicherheitstechnik,Kleingartenanlage Oranke e.V.,Tasty 63
+395,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Barenboim-Said-Akademie,Wiesengrund,Johann-von-Neumann-Haus,Friedhof Ruhleben
+396,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,"Kleingartenanlage ""Alwin Bielefeldt""",Lebenshilfe,Schlosspark-Klinik,Nazareth-Kirchhof II
+397,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Kolonie Königsgraben,Berliner Toilette,Sonnenblumen-Grundschule,Freie Waldorfschule Berlin-Südost
+398,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Warenhaus Rudolph Hertzog,James-Simon-Park,Aktiv-Schuh,Thyssen-Krupp Aufzüge Nordost
+399,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Dreifaltigkeitskirchhof II,Reisebank,Friedhofskapelle,Kita Hausburgviertel
+400,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,DRK Kliniken Berlin Mitte,Global Village,Zeughaus,Thomashöhe
+401,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Grundschule in der Köllnischen Heide,Jüdischer Friedhof Berlin-Weißensee,Hubschrauber-Landeplatz der Bundesregierung Berlin-Tegel (Nord),Fürstenhof
+402,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,KGA Familiengärten,Bauteil A1,Berlin Metropolitan School,Märchenbrunnen
+403,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Asia-Imbiss,Neiss Sicherheitstechnik,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof,Lidl
+404,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Krippe Haveleckchen,"Maskeneule, Südbuscheule, Rostkauz",Kleingartenanlage Blockdamm,Emil Fischer
+405,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Hans Englert OHG - Elektronik Leiterplatten Geraetebau,Maria-von-Maltzan-Platz,"Bundesministerium für Wirtschaft und Klimaschutz, Abteilung 4: Industriepolitik",Quartierspark Warnitzer Bogen
+406,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Gästehaus des Harnack-Hauses,Abstellanlage Hundekehle,Guter Wille,Dorfkirche Friedrichsfelde
+407,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,KGA Lankwitz Hafen,Bauern- und Nutzpflanzen,Bundesanstalt für Materialforschung und -prüfung (BAM),Deutsches Herzzentrum der Charité - Standort Augustenburger Platz
+408,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Bundesministerium für Ernährung und Landwirtschaft,HIT Ullrich,Bluestar Rechenzentrum,Biergarten Britzer Mühle
+409,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Søstrene Grene,Haus 17,Kita Fiorino,Waldstadion
+410,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Anton-Schmaus-Haus,Wirtschaftshof Neukölln,Von-der-Schulenburg-Park,OSZ TIEM
+411,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Dircksenstraße/Rochstraße,Bundesanstalt für Materialforschung und -prüfung (BAM),Silberstein-Grundschule,Kinderhaus Berlin-Mitte
+412,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Kita Moissistraße,Dresdener Straße,Karl-Marx-Platz,Griechischer Park
+413,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Berliner Schützengesellschaft 1882,Halle 20,Reichsbahnbunker Friedrichstraße,Tennisclub Berlin-Oberspree e.V.
+414,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Neue Wache,Museumsdorf Düppel,Fechtsportzentrum PSV Berlin e.V.,Kaukasus – Hochgebirge
+415,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Späth'sche Baumschulen,Georg-von-Giesche-Schule,Gesundheitszentrum eins - alles für die Gesundheit,Schweizerische Botschaft
+416,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Taverna Argo,Villa Garbáty,Sozialgericht Berlin,Baracke 2
+417,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Kolonie Sanssouci,Haus 23,Dalhoff Straßen- und Tiefbau,Paul-Jestram-Sportanlage
+418,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,EKT - Kinderhaus Waldschulallee e.V.,Koppel,Kornversuchsspeicher,Gymnasium Steglitz
+419,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Jobcenter Berlin-Lichtenberg,Berliner Tennis-Club '92,Nichtschwimmer,Hellenische Gemeinde
+420,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,TAP,Quartier Wir,Artists Village 1,JKW Grenzallee
+421,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Bienenheim,KGA Westend,Paulinen Krankenhaus,Jörg Eckart Autohandel
+422,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Stand Up Paddling Verleih,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof,A&O Berlin Hauptbahnhof,Kleingartenanlage Am Freibad Oberspree
+423,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Hansa-Grundschule,Begonien,Kleingartenanlage Paradies,KGA Papestraße
+424,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Sparrplatz,BSR Ostpreußendamm,Kriegsgräber 1. Weltkrieg,Luise-Henriette-Schule
+425,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Kindertagesstätte Kirschnerweg,Jacob-und-Wilhelm-Grimm-Zentrum,Schleidenplatz,Ehemaliges Polizeipräsidium
+426,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Kita Filandastraße,Ratswaage,Ausstellung,Ehemaliges Polizeipräsidium
+427,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,BA,Droste-Hülshoff-Oberschule,Haus 1 - Akazienhaus,Effizienzhaus-Plus mit Elektromobilität
+428,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Albert-Gutzmann-Schule,Kolonie Frieden,Bromelien-Annex,Gleichrichterwerk 702 Adlershof
+429,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Leinestraße / Weisestraße,Bürohaus Tristan,TC Blau-Gold Wuhlheide,Physikalisch-Technische Bundesanstalt
+430,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Gedenkstätte Berlin-Hohenschönhausen,Haus Elisabeth,Leibniz-Institut für Zoo- und Wildtierforschung,MSA - Auer GmbH
+431,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Tornado Antriebe,Julia von Bodelschwingh Haus,Friedhof der Evangelischen Kirchengemeinde Alt-Stralau,High Park
+432,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Capitain Petzel,Kranoldplatz,Präsidentendreieck,City Toilette
+433,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Physikalische Chemie,Kaiser-Wilhelm-Gedächtnis-Friedhof,Teppichhaus,Hotel ZOE
+434,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,KGA Möbius,Kleingartenanlage Felsenfest,Humanistische Kindertagesstätte Adlershofer Marktspatzen,Ford
+435,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Denkmal für die ermordeten Juden Europas,Kolonie Sonnenbad e.V.,DB Regio Nordost,The Wilhelm
+436,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Orankeseepark,Gleichrichterwerk 801 Nalepastraße,Bahn-Landwirtschaft Bezirk Berlin e.V. Unterbezirk Steglitz,Jobcenter Berlin-Lichtenberg
+437,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Die Bunte Wille,Schloss Britz,ehemaliger Lokschuppen NME,Köllnischer Park
+438,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Sportanlage Fredersdorfer Straße,Kleingartenanlage Hermannsruh,Kleingartenanlage Parkstraße,KGA Kolonie Borussia
+439,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Osthalle,Friedrichstraße/Taubenstraße,KGA Bismarcksruh,Golden Gate
+440,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Freie Waldorfschule am Prenzlauer Berg,Kleingartenkolonie Maxstraße,Ludwig-Bechstein-Grundschule,Thyssen-Krupp Aufzüge Nordost
+441,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Loeperplatz,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof,Betriebsfeuerwehr Messe Berlin,Kleingartenanlage Alte Sternwarte
+442,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Auswärtiges Amt,Kloster St. Augustinus,Wissenschaftszentrum Berlin für Sozialforschung,Schule am Pappelhof
+443,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Bohm und Bohm GmbH,Bauteil C Empfangshalle,Burgerzimmer XIII,An der Nordbahn e.V.
+444,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Tropische Nutzpflanzen,Marschallbrücke,Finkenpark,Victor-Klemperer-Kolleg
+445,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Kleingartenanlage Steinreich,Rudow Automobile,KGA Valwiger Straße,Eleganz
+446,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Hauptstadtpflege Haus Franckepark,VKU-Forum,Marienplatz,A&O Berlin Hauptbahnhof
+447,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Sportschlule Lothar Nest e.V.,Schwesterngräber,Kita Springmäuse,Volkspark Schönholzer Heide
+448,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Landesruderverband - Leistungszentrum,Cecilienhaus,Parkidyll,Kleingartenanlage Am Mississippi
+449,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Großer Tiergarten,Mariannenplatz,Oskar-Heinroth-Grundschule,Jugendstrafanstalt Berlin
+450,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Kita Paster-Behrens-Straße,Annemirl-Bauer-Platz,S-Bahn Gleichrichterunterwerk Adlershof,Volkspark Hasenheide
+451,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Wohnheim Danckelmannstraße,Polizei Abschnitt 31,Friedhof II der Sophiengemeinde Berlin,Freilandlabor Steglitz
+452,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Feuerwache Marzahn,Parlament der Bäume,Cabuwazi,Trainingszentrum Oberspree
+453,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,"""Fischerdorf""",Mammutblatt,Friedhofskapelle,Nelly-Sachs-Park
+454,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Helsingforser Platz,Knausplatz,Leo-Lionni-Grundschule,Renault Retail Group Deutschland GmbH
+455,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Spar Express,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof,Hans im Glück,Zeppelinplatz
+456,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Zirkus Mond,Bayerischer Platz,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof,Kranoldplatz
+457,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Nacktbadestelle,Kolonie Bleibtreu II,Kolonie Pfefferluch,BSR Recyclinghof Asgardstraße
+458,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Heizkraftwerk Reuter,Pestalozzi-Schule,Tischlerei Klabunde,Le Minh
+459,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Friedrich-Ludwig-Jahn-Sportpark,Ford Ristow,Sporthalle der Polizei,Station Berlin - Pforte
+460,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Kita Milchbartpiraten,dopa Diamond Tools,Schleuse Mühlendamm,Brauerei Berliner Berg
+461,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Kolonie Edelweiß,Polizeiübungsgelände „Fighting City Ruhleben“,Kluwe,KGA Wallensteinstraße
+462,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Russisch-Orthodoxer Friedhof,Oberlandstraße/Atelier Gardens,Bosepark,Restaurantschiff Patio
+463,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Westlicher Himalaya Gebirgsstauden,Brunnenplatz,Jugendverkehrsschule Pankow,Kopfbau West
+464,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Parkhaus Rathauspassagen,Adass Jisroel Gemeindefriedhof,Knorr-Bremse,Bauteil A1 Quer
+465,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Sophie-Brahe-Schule (Gemeinschaftsschule),BPD Bouwfonds Immobilienentwicklung,Kleingartenanlage Am Volkspark Prenzlauer Berg e.V.,Adapt Apartments
+466,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Zentraler Festplatz Berlin,Jagdschloss Grunewald,Max-Born-Institut,Bedürfnisanstalt Elbestraße & Sonnenallee
+467,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Sportplatz Cornelius-Fredericks-Straße,Schleuseninsel,Bürgermeister-Ziethen-Grundschule,Körnerplatz
+468,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Kindertagesstätte Mariendorf-Ost,Dreifaltigkeitskirche,Spielplatz Roedernallee/Kienhorstpark,Großer Tiergarten
+469,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,12. Schule mit sonderpädagogischem Förderschwerpunkt,BWB,Call a Bike,Kleingartenanlage Sembritzkistraße
+470,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Bito,Radiodata GmbH,Stade Napoléon,Ridesharing
+471,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Kita Raumschiff Orion,Bundesamt für zentrale Dienste und offene Vermögensfragen,Südöstliche Balkanhalbinsel – Gebirgsvorland,Ida-Wolff-Krankenhaus
+472,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Reinickendorfer Füchse,Gelato Karabella,Reineke-Fuchs-Grundschule,"Kleingartenanlage ""Steintal"""
+473,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Auto Puls,Biergarten Weltwirtschaft,Coubertinplatz,BRAL
+474,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Heinrich-Heine-Platz,Kronprinzenpalais,Zum Würfel IV,Malzfabrik
+475,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Kreativitätsgrundschule Berlin-Treptow,Kapelle,Lietzensee-Grundschule,Umspannwerk Jägerstraße
+476,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,DSTRCT Berlin,Richardplatz,Kleingartenanlage Sternwarte 1911,Kaninchenfeld
+477,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Berliner Toilette,Ehrenhof,Gewerbepark Karlshorst,Marienpark
+478,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,KGA Saatwinkel,Viktoria-Luise-Platz,Heizwerk Scharnhorststraße,Fleischfressende Pflanzen
+479,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Kleingartenanlage Ehrliche Arbeit,Klaustaler Platz,Tiefer Grund I,Feuerwache Hohenschönhausen
+480,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Bodenfilteranlage 06 / Autobahn A113,Kleingartenanlage Sanssouci,Bauteil 5,Hans-Böckler-Schule
+481,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Wiesenburg,KGA Dahmshof Abschnitt2,Kulturzentrum Gutshof Britz,Sportcafé Mitte
+482,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Tierpark Berlin,Holzwurmhaus,Strela-Platz,Kita Debora
+483,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,"""Fischerdorf""",Institutsgebäude Süd,Berliner Toilette,Kita Wiesenstraße
+484,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Bayer AG Pharmaceuticals Division,Kleingartenanlage Anschluß Röder e.V.,Bröndby-Oberschule,Bürgermeister-Ziethen-Grundschule
+485,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Jacob-und-Wilhelm-Grimm-Zentrum,Berliner Wasserbetriebe,Garbáty-Fabrik,LWerk Brauerstraße
+486,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Gleislinse Schöneweide,Volkradpassage,Marcus Knospe Wertstoffhandel,Rosengarten
+487,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,"Fahrradparkplatz an der Volkswagen Universitätsbibliothek, Haupteingang, Westseite, 01A",AVUS,KGA Am Schloßpark II,Familienzentrum Waldemarstraße
+488,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Freiligrathstraße,Kita Flanaganstraße,Lenné-Meyer-Garten,Domäne Dahlem
+489,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Gartensiedlung Wilhelmstrand,Brain Box Berlin,EDEKA,Italienischer Garten
+490,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Finanzamt Mitte/Tiergarten und Nigerianische Botschaft,KGA Treseburg,Museum Lichtenberg im Stadthaus,Kita am Gleis
+491,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Kleingartenanlage Felsenfest,Australien und Neuseeland,Riller & Schnauck,Kreativitätsgrundschule Berlin-Karlshorst
+492,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Adina Apartment Hotel Berlin Mitte,Fritz-Karsen-Schule,Am Bülowbogen,Meteorologische Station / Ballonhalle
+493,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Kolonie Martha Baer,Autohaus Treptow,Kiek mal,Umspannwerk Marzahn
+494,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Berliner Toilette,Schlesischer Busch,Osthalle,Autohaus Treptow
+495,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,A,Fröhliche Eintracht,pitstop,P1,Energie-Museum
+496,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,D,Jugendtreff YO!22,Oberlandstraße/Atelier Gardens,Biotronik SE & Co. KG,Naturpark Schöneberger Südgelände
+497,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Laser-Mikrotechnologie,Humanistische Kita Bornsdorfer Straße,Freie Universität Berlin,Borsigtor
+498,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,B,Ehemalige Zapf Umzüge,Campus Charité Mitte,Tonerdumping,Gemeinschaftsunterkunft Kiefholzstraße
+499,Which of the following AOIs (Area of Interest) in Berlin is likely to have the largest area?,C,Medical School Berlin,Halske Sonnengärten,Schillerpark,Brüder-Grimm-Grundschule

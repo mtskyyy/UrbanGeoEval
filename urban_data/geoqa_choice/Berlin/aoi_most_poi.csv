@@ -1,0 +1,380 @@
+id,question,answer,A,B,C,D
+0,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Schwimmhalle Baumschulenweg,Paul-Schneider-Grundschule,Preußenpark,Press & Books
+1,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,KGA Papestraße,Gesundheits- und Sozialzentrum Moabit,Kleingartenkolonie Canova e.V.,Hanns-Braun-Platz
+2,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Urnenfriedhof Seestraße,3B Pharmaceuticals Labor- & Forschungsgebäude,Kita Albatros,KGA Am Hohenzollernkanal e.V.
+3,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Wilhelmsaue,Siemens Energy Gasturbinenwerk Berlin,DRK Kliniken Berlin Mitte,Baustelle A100
+4,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Dauerkolonie Birkenwäldchen,Blumental Hausboot,Viktoriapark,Max-Planck-Institut für Bildungsforschung
+5,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Treptower Park,Moabiter Stadtgarten,Kita Heidekampweg,P13a
+6,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Deutsche Bahn,WD 23,Zentrale Urgesteinsalpen,Sportpark Neues Ufer
+7,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Siemens-Villa,Teehaus,BEWAG Hauptanschluß,Charité Campus Virchow Klinikum
+8,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Wilma-Rudolph-Oberschule,Berliner Hochschule für Technik,Haus 20,Neuer Zwölf-Apostel-Kirchhof
+9,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Curanum,Rüdesheimer Platz,Halle 7.3,Carl-Legien-Schule
+10,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Polizeidirektion 2 / Polizeiakademie,Truman Plaza,Kulturschiff Paula,Bärliner Tierfriedhof
+11,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Kleingartenanlage Alte Sternwarte,GutsMuths-Grundschule,Alter Park,Zeppelinplatz
+12,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Zoo Berlin,KGA Holzweg,Kleingartenverein Eigenheim,Haus1
+13,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,James-Simon-Park,Waldschule Plänterwald,ehemaliger Palast der Republik,Bahntower
+14,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,SV Lichtenberg 47 e.V.,"Kleingartenanlage ""Alwin Bielefeldt""",Clusterkern 8,Tommy's Imbiss
+15,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Sowjetisches Ehrenmal Tiergarten,Hubertussportplatz,Endoskopie (Innere) [Haus 10],Bromelien
+16,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Kombibad Gropiusstadt,Kleingartenanlage Biesenhorst II,Frankfurter Allee Süd,Kleingartenkolonie Canova e.V.
+17,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Kaiseradler,Alte Fischerhütte,Körnerpark,Herbert-Krause-Park
+18,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Zeughaus,Rathauspark,Halle 7.3,Gewerbepark Daumstraße
+19,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Sheraton Berlin Grand Hotel Esplanade,Halle 8,Allegra,Kleingartenverein am Rohrdamm e.V.
+20,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Haus Wolfgang Raeder,Strandbad Tegelsee,Rheingau Gymnasium,Kita Manteuffelstraße
+21,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Langemarckhalle,Abenteuerzentrum im Grunewald,Marx-Engels-Forum,Westhalle
+22,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Ida-Wolff-Krankenhaus,Bethanien,Römischer Hof,Reinhardtplatz
+23,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Kleingartenanlage Anton's Ruh,Loeperplatz,Bernkastler Platz,Werner-Seelenbinder-Sportpark
+24,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Köllnischer Park,Agentur für Arbeit,Reitplatz Düppel,Pathologie
+25,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Albrecht-Dürer-Gymnasium,Freiaplatz,Museum Lichtenberg im Stadthaus,Kindertagesstätte Am Carlsgarten
+26,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,ehem. Kabelwerk Oberspree,Erich + Jahn Motorsport,Ärztezentrum 5Morgen,Heinrich von Stephan Gemeinschaftsschule
+27,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Insel der Jugend,Grünzug Heidekampgraben,Kleingartenanlage Paradies,Westlicher Himalaya Wald
+28,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Kienhorstpark,Kita Wirbelzwirbel,Ankunftszentrum für Asylsuchende,Kleingartenanlage Treidelweg
+29,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Universität der Künste Berlin,EUREF-Campus,LWerk Brauerstraße,P&B Press&Books
+30,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Landschaftspark Wartenberger Feldmark,Naturpark Schöneberger Südgelände,Wäschelager WBK,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof
+31,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Montessori-Kinderhaus,BeachMitte,Strandbar-Plateau,B
+32,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Kino International,Fritz-Karsen-Schule,Kleingartenanlage Rixdorfer Straße,Kleingartenanlage Silberlinde
+33,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Vodafone,Topographie des Terrors,Botschaft der Republik Polen,Oberstufenzentrum Bürowirtschaft II Abteilung 2
+34,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Erwin-Schrödinger-Zentrum,Radiodata GmbH,Freiwillige Feuerwehr Wilhelmsruh,Gleislinse Schöneweide
+35,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Vivantes Klinikum - Neukölln,Dreifaltigkeitskirchhof II,Dorotheenstädtisch-Friedrichswerderscher Friedhof,U Südstern/Fontanepromenade
+36,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Siemens AG Meßgerätewerk Berlin Ro7,Bandouri - Bistro am Himalaya,Gemeindepark Lankwitz,Die Slups
+37,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Kleingartenanlage Akazienwäldchen,Schmetterlingsplatz,Grill'N'Chill,Rathauspassagen
+38,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Cubix,Kiezgarten,Großer Tiergarten,wheego
+39,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,DB Regio Nordost,Wriezener Freiraum-Labor,Neuer St. Jacobi-Friedhof,Umspannwerk Zille
+40,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Weddingplatz,Backwerk,KGA Gemütlichkeit,Begonienplatz
+41,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,VITA domus - Buckow,Hackesches Quartier,Helene-Haeusler-Schule,Städtisches Bootshaus Reinickendorf
+42,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,BLUME-Messnetz,Messe Berlin,Friedhof II der Sophiengemeinde Berlin,Kleingartenverein Alte Ziegenweide e.V.
+43,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,methline,VITA domus - Buckow,Georgen-Parochial Gemeinde Friedhof I,Akademie der Künste
+44,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Bayer AG Pharmaceuticals Division,Dorfanger Alt-Reinickendorf,Bundesanstalt für Materialforschung und -prüfung – Zweiggelände Fabeckstraße,Esso
+45,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,KGA Rönnestraße,"Kleingärtnerverein ""Am Außenring""",Kleingartenanlage Am Volkspark Prenzlauer Berg e.V.,Lausitzer Platz
+46,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Berliner Schwimmverein von 1878 e. V.,Humboldt-Universität zu Berlin Institut für Biologie Botanik und Arboretum,Quartier 207,Kleingartenanlage Oberer Damm
+47,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Quartier 206,Wäscherei Tempo,Friedhof Wilmersdorf,Affenhaus
+48,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Sankt-Mauritius-Gemeinde,Sportanlage Gustav Böß,Perelsplatz,DLRG - Jugend und Ausbildungszentrum
+49,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Bauteil 5,Kleingartenkolonie Canova e.V.,Villa Bell,P9
+50,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Grundschule am Nordhafen,Museumsinsel,E-N,Am Berg
+51,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Reuterplatz,Berliner Toilette,Sophienwerder,Naturhof Malchow
+52,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Schloss Britz,Askanischer Platz,Forstamt Grunewald,Kleingartenanlage Kuckucksheim II
+53,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Waldbühne,Kulturzentrum Gutshof Britz,Grundschule am Königsgraben,Evangelische Kirchengemeinde Am Lietzensee
+54,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Wochenmarkt Breslauer Platz,Villa Frieske,Seniorenheim Steglitz,Erika-Heß-Eisstadion
+55,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Gesundheitszentrum Prerower Platz,Bauern- und Nutzpflanzen,Kita Kreuzgraben,Kleingartenanlage Paradies
+56,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Memoriam-Garten,Deutsche Bahn,DHL Zustellbasis Berlin-Marzahn,Lagerbaracke
+57,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Z,Kickerworld Berlin,JKW Grenzallee,Feratti-Gebäude
+58,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Sanatorium West,Universitätsbibliothek TU Berlin (Zentralbibliothek),Kleingartenanlage Heinrichsruh,LAT
+59,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,EDEKA,Victoriastadt,BSR Recyclinghof Hegauer Weg,Trabrennbahn Karlshorst
+60,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,MyFlower,Am Brocken II e.V.,Kolonie Pfefferluch,Schloßpark Lichterfelde
+61,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Marx-Engels-Forum,Marzahn Grill,Gare Française,Bockbrauerei
+62,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,3B Pharmaceuticals Labor- & Forschungsgebäude,Georg-Kolbe-Hain,Kleingartenanlage Sonntagsfreunde,Deutsches Technikmuseum Berlin
+63,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Produktionstechnisches Zentrum Berlin (PTZ),Museum Charlottenburg-Wilmersdorf in der Villa Oppenheim,Betriebshof Weißensee,Park am Gleisdreieck - Westpark
+64,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Kleingartenverein am Rohrdamm e.V.,Rohrnetzbetriebsstelle Jungfernheide,Alter Friedhof der St.-Jacobi-Kirchengemeinde,Kleingartenanlage Akazienwäldchen
+65,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Jochen-Klepper-Park,P11,Neuer St. Jacobi-Friedhof,Siemens
+66,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Grüner Campus Malchow,Berliner Schwimmverein von 1878 e. V.,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof,Mediaspree
+67,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Shakespeare Company Berlin,Leipziger Platz,"Kleingartenanlage ""Steintal""",Thelen Technopark
+68,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Fernheizwerk Neukölln,Parkhaus Rathauspassagen,Haus Wolfgang Raeder,Eckert Reisebedarf
+69,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Humboldt-Universität zu Berlin - Campus Mitte,Familienzentrum Waldemarstraße,P4,Gartenstadt Karlshorst
+70,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Haus 23,KGA Weinviertel Kolonie,Dachsheide,Henriettenplatz
+71,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,A,Kiezsporthalle Alfred-Döblin-Straße,Elsterplatz,Klostergarten
+72,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Hein-Moeller-Schule Oberstufenzentrum Energietechnik II,A-F,Museum für Fotografie,Kita Rathenower Straße 15
+73,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Langemarckhalle,Steppenadler,Mathematikgebäude,Zentrale des Bundesnachrichtendienstes
+74,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Wache I,KGA Wilhelms Ruh,Wasserturm,Telefunken-Hochhaus
+75,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Station 14 A und B,Bildungs- und Verwaltungszentrum Friedrichsfelde,Bohm und Bohm GmbH,Asanta
+76,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Trusepark,Tuchollaplatz,Siedlung Deutsche Scholle,"Kleingärtnerverein ""Am Außenring"""
+77,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Grundschule an der alten Feuerwache,Hochschule für Technik und Wirtschaft Berlin Campus Wilhelminenhof,Kleingartenanlage Silberlinde,Lehnepark
+78,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Landgut der Domäne Dahlem,Bosepark,Gartenanlage Ruhwald,Arnswalder Platz
+79,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,KGA Spreeblick,Kleingartenanlage Freudental,Zoobogen,Kita El Mundo de los Niños
+80,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Kita Rappelkiste,Sportanlage Paul-Heyse-Straße,Paracelsusplatz,ThyssenKrupp Plastics
+81,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Wirtschaftshof Neukölln,"ehem. Motorenhöhenprüfstand, AG Supramolekulare Systeme SMS (HU)",Trabrennbahn Karlshorst,Le Minh
+82,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Airport-Squash,Spree-Palais am Dom,JKW Grenzallee,Feuer- und Rettungswache Zehlendorf
+83,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Wasserspielplatz,Relay,Kontorhaus-Mitte,Schauwerkstatt
+84,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,P&B Books,Häusliche Pflege Meißner & Walter GmbH,Schule an der Jungfernheide,Eckert
+85,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Erstaufnahmeheim Forckenbeck,Bundesministerium für Digitales und Verkehr,Planacker,Rossmann
+86,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Wirtschaftswissenschaftliche Fakultät der HU,Pekinger Platz,"Städtischer Friedhof Schöneberg II, Friedhof Eythstraße",Osram-Brücke
+87,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Z,Jacob-und-Wilhelm-Grimm-Zentrum,TV Blau-Weiß Biesdorf e.V.,Haubitz
+88,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Apostolische Nuntiatur in Deutschland,Mettmannplatz,HFT,St. Thomas-Friedhof (Alter Teil)
+89,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Kulturforum,Kleingartenanlage Alte Sternwarte,Reisebank,KGA Papestraße - Block 1
+90,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,South Rock,Pocketpark,Private Kant-Grundschule,Markusplatz
+91,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Gewerbepark Plauener Straße,Das Neue Gartenfeld,Kita Lichtenzwerge,MyPlace-SelfStorage
+92,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,KGA Bahnhof Reinickendorf,Friedrich-Ebert-Sportanlage,Auferstehungskirchhof,Wartheplatz
+93,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Jugendplatz,Hans-Böckler-Schule,Schauspielerin Elisabeth Bergner Park,Kindergarten Planufer 81
+94,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Affenhaus,Kinderbunter Bauernhof,Kinderzentrum Lindenhof,Uferpromenade
+95,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Kindergärten City,Kleingartenanlage Mariengrund,Kleingartenverein Kolonie Alt-Schöneberg e. V.,Hermann-Ehlers-Platz
+96,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Mark-Twain-Grundschule,Kolonie Marienfelder Weg,Hertzbergplatz,Hans Englert OHG - Elektronik Leiterplatten Geraetebau
+97,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Top Tegel,Siemens,Haus Berlin,Abwasserpumpwerk Chausseestraße
+98,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Späth'sche Baumschulen,Thelen Technopark,Maras Eis Frühstückshaus,Dachsheide
+99,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Turn- und Freizeitzentrum „Wulle“,Sorgenfrei,Internationales Kultur Centrum ufaFabrik Berlin,Tunnelleitzentrale Tegel
+100,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Kita Schwiebusser Straße 5,Schwimmhalle Sewanstraße,Bernkastler Platz,Der Original Berliner Trödelmarkt
+101,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Kindergarten Pfiffikus,ADAC-Trainingsplatz,Bauhaus Berlin-Kurfürstendamm,Böcklerpark
+102,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Calzedonia,Horst-Korber-Sportzentrum,KGA Westend,Erwin-Barth-Platz
+103,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,DB Premium Lounge,Britzer Garten,Michaelskirchengemeinde,Kultur GATE
+104,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Abnehmeranlage Ost,Lasker-Sportplatz,Kleingartenanlage Grüner Grund,Gewerbepark Plauener Straße
+105,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Wohnheim Allee der Kosmonauten,Kunsthaus 2,Schule für Gesundheits- und Krankenpflege,Rheinsteinpark
+106,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,GoWest,SV Zehlendorfer Wespen 1911 e.V.,KGA Holderbusch,Theodor-Wolff-Park
+107,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Rosengarten,Institut für Zeitgeschichte,Haus 8,Erwin-Barth-Platz
+108,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Gesundheitszentrum Marzahn ""Ernst-Ludwig Heim""",Brixplatz,Grundschule unter dem Regenbogen,Kinderbunter Bauernhof
+109,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Robert-Stolz-Anlage,Schule am Zille-Park,Bauteil H1 lg (lang),DRK Kliniken Berlin Westend
+110,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Luisen-Carree,Jelbi,Fraunhofer-Institut für Nachrichtentechnik,Bezirksgärtnerei Charlottenburg-Wilmersdorf
+111,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Kunsthochschule Berlin-Weißensee,Fernheizwerk Neukölln,Sankt-Marien-Krankenhaus,Charité-Untersuchungsstelle für Mitarbeitende
+112,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Wagendorf Lohmühle,Regenpumpwerk Friedrichsfelde,Westliches Taurushochgebirge,Seniorenzentrum Bethel Lichterfelde
+113,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Anhalter Hochbunker,"Kleingärtnerverein Feldtmannsburg e.V. ""Feldtmannsburg Bezirk I""",City Camping,Tagesförderstätte Harbigstraße
+114,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Von-der-Schulenburg-Park,IPH Berlin,Kolonie Karl-Lange-Brücke Nord,TennisClub Wilmersdorf
+115,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Oberstufenzentrum Bürowirtschaft II Abteilung 2,Technischer Dienst I (TD 1 3639),Wohnanlage Lichtenberg,Haus der Musik
+116,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Schilling-Schule,Kleingartenkolonie Samoa e.V.,KGA Ilsegärten,Dathepromenade
+117,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,KGA Königsdamm,Kommandantenhaus,Pastor-Niemöller-Platz,Spreehöfe
+118,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Römischer Hof,Ehemalige französische Panzerverladung,Wache I,Karlshorster Friedhof
+119,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Vereinshaus,Parkplatz am Elsterplatz,Kleingartenanlage Alt Ruhleben 1,Kreativitätsgrundschule Berlin-Karlshorst
+120,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,BSR Flächenreinigung Regionalstelle VR 42,A,Stellwerk Nordbahnhof,Flughafen Berlin-Tegel Otto Lilienthal
+121,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,St. Fidelis Kirche,Turngemeinde in Berlin 1848,Sankt-Marien-Krankenhaus,Normalschuppen W 540
+122,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Annemirl-Bauer-Platz,S-Bahn Gleichrichterunterwerk Heidelberger Platz,1. Bereitschaftspolizeiabteilung,Bauteil B Abfertigungshalle
+123,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Christian Dunkel GmbH,Fachärztezentrum Pankow,Fiedler Haustechnik,Jelbi
+124,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Rosengarten,Bim & Boom Kinderspielland,Lichtenberg Bürgeramt IV,P+R Berlin-Lichtenberg
+125,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Steglitz Park-Center,"Fahrradparkplatz an der Volkswagen Universitätsbibliothek, Haupteingang, Westseite, 01A",Paul-Schmidt-Schule,Sommerbad Pankow
+126,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,UNITANK,Airport-Squash,Uferstudios für Zeitgenössischen Tanz,Chemiegebäude
+127,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Hans-Dietrich-Genscher-Haus,ehem. Evangelisches Diakoniewerk Königin Elisabeth,Kleingartenanlage Schüßler,Bahnhofsverwaltung
+128,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Breitenbach-Höfe,Paul-Gerhardt-Stift,Dreifaltigkeitskirchhof II,Institutsgebäude Süd
+129,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Evangelische Schule Lichtenberg (Grundschule),Kant-Dreieck,Kindertagesstätte Mariendorf-Ost,Weidenbaum
+130,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Schmetterlingsplatz,Marianne-Cohn-Schule,Volkspark Prenzlauer Berg,Kommandantenhaus
+131,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Virchow-Gästehaus der Charité,Biergarten Britzer Mühle,Garnisonkirchplatz,Erika-Gräfin-von-Brockdorff-Platz
+132,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Freizeit- und Erholungszentrum (FEZ),Mark-Twain-Grundschule,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof,Evangelische Schule Lichtenberg (Grundschule)
+133,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Grüntaler Flanier Nord,Landessportbund,Kita Raumschiff Orion,Mauerpark
+134,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Boels,Umspannwerk Poelchaustrasse,Lids,Peter-Ustinov-Schule
+135,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,MVZ Medeco Berlin Dahlem,Berliner Stadtreinigung,"Jerusalems- und Neue Kirche, Friedhof V",Janusz-Korczak-Bibliothek
+136,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Berliner Union-Film,Michaelkirchplatz,Friedhof Baumschulenweg,BSR Regionalzentrum RF2
+137,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Kleingartenanlage Sorgenfrei,Kundenparkplatz AOK,Kreativitätsgrundschule Berlin-Treptow,Schuldrehscheibe Werneuchener Wiese
+138,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Vapiano,Haus 4,Rummelsburger Ufer,Schlosspark Theater
+139,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,KGA Kolonie Friedland 33,Jugend- und Familienzentrum JeverNeun,KGA Möbius,Park an der Spree
+140,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Schule am Regenweiher,Krienickepark,RAW-Gelände,Kindertagesstätte Mariendorf-Ost
+141,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Kindertagesstätte Entdeckerland,Lücke Laden,Sommerbad Neukölln,Volkspark Schönholzer Heide
+142,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Martin-Luther-Krankenhaus,Fröbel-Kindergarten mittendrin,Krankentransport Spree-Ambulance,Tennisclub Lichterfelde 77 e. V.
+143,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Paul-Gerhardt-Stift,Lohmühleninsel,Tennisklub Grün-Weiß,Sporthalle Max-Taut-Schule
+144,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Pocketpark,Kita Starke Kinder,A,REWE
+145,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,City Toilette,Thalia-Grundschule,Internationaler Tennis Club,Technologie- und Gründerzentrum Spreeknie TGS
+146,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,ESV Lok Berlin-Schöneweide,Messe Berlin,Kanalbetriebsstelle Marzahn,Autobahnmeisterei Berlin-Tempelhof
+147,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Asanta,Westhafen,Umspannwerk Britz,Mehrschichtige Zone
+148,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Autohaus Richter,Gartenanlage Ruhwald,Vereinsheim,KGA Neuköllnische Wiesen
+149,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,European School of Management and Technology Berlin,Spreebogenpark,nextbike,Vivantes Klinikum - Neukölln
+150,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,"Polizeidirektion 3, Kriminalpolizei",Kleingartenanlage Sorgenfrei,Wolfgang-Köhler-Haus,Vertretung des Freistaats Thüringen beim Bund
+151,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,KGA Kuckucksheim I,Berlin-Brandenburgische Akademie der Wissenschaften,Boschen und Oetting,Ringberlin
+152,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Strandbad Tegelsee,Haus Dorotheenstadt,Lehnepark,Flugaussichtsplattform TXL
+153,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Haus 22,"Anästhesieambulanz, Chirurgische Ambulanz, Gefäßzentrum [Haus8]",U Südstern/Fontanepromenade,Friedhof Adlershof
+154,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Friedhofskapelle,P6,Planacker,ADAC-Trainingsplatz
+155,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Polizei Abschnitt 12,"Hochschule für Technik und Wirtschaft, Campus Treskowallee",Kita Hoppetosse,Koppenplatz
+156,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Baustelle A100,Europa-Center am Forum,Stadtbad Tempelhof,Franckepark
+157,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Siemenssiedlung HoKa III,Bosepark,dopa Diamond Tools,Halle 20
+158,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Bärliner Bärchis,Wegedorn Zentrum,U Museumsinsel,Agentur für Arbeit
+159,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Sportforum Berlin,Holzheizkraftwerk Berlin-Neukölln,Kolonie Buchenweg,Friedrichsruher Platz
+160,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Alea 101,Kaukasus – Hochgebirge,Mariannenplatz,Schule für Gesundheits- und Krankenpflege
+161,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,St. Nicolai- und St. Marien-Friedhof I,38. Schule Grundschule Lichtenberg,Ehemalige Müllverladestation Helmholtzstraße,Star
+162,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,KGA Stolz von Rixdorf,Kleingartenanlage Neuseeland,Parkhaus Berlin Hauptbahnhof,Großer Tiergarten
+163,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,KGA Sommerglück,Gemeinschaftsunterkunft Paul-Schwenk-Straße,EW,Dora-Duncker-Park
+164,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Ostelbien 2,Dienstleistungs- und Gewerbezentrum,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof,Ringlokschuppen Pankow-Heinersdorf
+165,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Studentendorf Adlershof,Friedhof Dahlem-Dorf,Umspannstation 3.1,Wasserspielplatz
+166,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Mendelssohn-Bartholdy-Park,Kindergarten Blumenstadt,Das Center am Potsdamer Platz,KGA ELW Halenseestraße
+167,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Zille-Haus,Athletik und Ballspiel Club Zentrum Berlin,Softball Field 2,Kita Ernststraße
+168,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,P+R Berlin-Lichtenberg,Kita im Haus der Familie,Siemensstadt Park,Soldauer Platz
+169,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Kulturzentrum Gutshof Britz,Schreibfeder-Passage,Alea 101,Ruth Andreas-Friedrich-Park
+170,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Berlin Metropolitan School,Kleingartenanlage Am E-Werk,Kapelle,Rodelbahn
+171,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Erbbegräbnisse,Parkhaus Rathauspassagen,Adam-Ries-Grundschule,Dragonerareal
+172,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Heinz-Graffunder-Park,Bouché Gewerbepark,Friedhof Columbiadamm,Industriesalon Schöneweide
+173,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Look Catering UG,Kleingartenanlage Märkische Aue,Hangar/Halle 7,Zementwerk Berlin Hauptwerk
+174,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Kinder- und Jugendfreizeiteinrichtung Siegfriedstraße,Bernkastler Platz,Deutsch-Französischer Kindergarten / Jardin d’enfants franco-allemand,S Friedrichstraße
+175,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Kultur- und Technologie-Zentrum Rathenau,Körnerplatz,KGA Aufbau,Stadtbad Tempelhof
+176,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Grünflächenamt,Eierhäuschen,Grüntaler Flanier Nord,Nährstoffreiches Moor
+177,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Bouché Gewerbepark,Messelpark,General Aviation Terminal,SPORT CAFE Restaurant
+178,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Rossmann,Friedhof der Karl-Bonhoeffer-Nervenklinik,Schmetterlingsplatz,Alte Börse Marzahn
+179,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,M,Lessinghöhe,EMH,Siemens
+180,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Treskowhöfe,KGA Grabenwinkel,Hertz,Himalaya Hochgebirge
+181,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Kleingartenanlage Schüßler,Rosenfelder Ring,Friedhof Pankow I,Storkower Bogen
+182,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Frankfurter Allee Süd,Sankt Nicolai und Sankt Marien Friedhof II,Koppel,POCO
+183,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Alea 101,Informationsort Schwerbelastungskörper,Gewerbegebiet Herzbergstraße,Berliner Toilette
+184,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Polizeiübungsgelände „Fighting City Ruhleben“,St. Hedwigs Friedhof III,PENNY,U Schloßstraße
+185,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Lindt,Treptower Park,Rohrbruchwiesen II,ehemaliger Palast der Republik
+186,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,KGA Hochspannung,Reitplatz Düppel,Oberstufenzentrum Informations- und Medizintechnik,Landschaftspark Johannisthal/Adlershof
+187,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Hertha BSC Fan Shop,Anton-Saefkow-Sporthalle,Mauerpark,Kita Lichterfelde
+188,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Kleingartenanlage Seddiner Straße,Grundschule am Weißensee,Wiener Feinbäcker Heberer,Fröhliche Eintracht
+189,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Kamelien und Azaleen,Curry 36,Markthalle Alexanderplatz,Automeister-Berlin
+190,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Parkplatz für Anlieger der Insel Scharfenberg,Siemens Verwaltungsgebäude,Ostflügel,Spree-Palais am Dom
+191,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Tiergarten-Dreieck,Spielplatz Karpfenteichstraße,Grünzug Heidekampgraben,Kleingartenanlage Paradies
+192,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Sportplatz Allee der Kosmonauten 131,Alexa,Willy-Kressmann-Stadion,Großer Windkanal
+193,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Spreewaldplatz,Altes Kraftwerk Rummelsburg,Boschen und Oetting,Helsingforser Platz
+194,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,The Garden Living,Scharmützelsee-Grundschule,Maschinenhaus 4,KGA Einigkeit I
+195,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Ärztehaus am Stadtpark,Plaza San Rafael del Sur,Yachthafen Stralau,Autohaus Jörg Lessing GmbH
+196,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Wühlischplatz,Visiting Creatives Studios,Kurt-Tucholsky-Oberschule,TV Blau-Weiß Biesdorf e.V.
+197,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Zwischenpumpwerk Columbiadamm,Schmiede,Kita Raupe Nimmersatt,Truman Plaza
+198,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Turnhalle 2,DHL Zustellbasis,Studentenwohnheim Eichkamp,Rathaus Treptow
+199,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Bez.-Amt Neukölln von Berlin, Naturschutz- u. Grünflächenamt",Kita Wirbelzwirbel,K,Sandkrug I
+200,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Carl-Orff-Grundschule,Panke Schule,Nikolaiviertel,Gewerbehof Heidestraße
+201,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Dathe-Oberschule,Heinrich-Zille-Grundschule (Filiale Lausitzer Platz),Der Holländer,Heide-Grundschule Haus II
+202,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Hector-Peterson-Schule,Eckert,Gartenarbeitsschule Friedrichshain-Kreuzberg,Großer Tiergarten
+203,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,SportPark Poststadion,Kurt-Tucholsky-Grundschule,Schilleroase,Deutsch-Französischer Kindergarten / Jardin d’enfants franco-allemand
+204,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Humboldthain Grundschule,Zeughaus,Museumsinsel,P+R Berlin-Lichtenberg
+205,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,JUGI-Hessenring,Fdl BNO,Wohnpark Karlshorst,Berlin Metropolitan School
+206,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Parkfriedhof Neukölln,Von-der-Schulenburg-Park,Monbijoupark,Neu Helgoland
+207,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Finkenpark,Kleingartenanlage Neuseeland,Akazienwäldchen,Gesundheitszentrum eins - alles für die Gesundheit
+208,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Kraftwerk Berlin-Wilmersdorf,Kita Methfesselstraße 14,Tierpark Berlin,Anna-Essinger-Gemeinschaftsschule (Grundstufe)
+209,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Kriegsgräber 2. Weltkrieg,Schiller-Bibliothek,Wilhelm-von-Siemens-Gymnasium,Mendel-Grundschule
+210,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Gedenkstätte Berlin-Hohenschönhausen,Kanalbetriebsstelle Wedding,Christian Dunkel GmbH,Villa Morgenstern
+211,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Am Hohenzollernkanal,Kleingartenanlage Grüne Aue,14,Herrfurthplatz
+212,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Jugendclub Rainbow,Kiosk,P 2,Heizkraftwerk Mitte
+213,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Jugendcafé Laiv,Postbahnhof,Servicegebäude Süd,Bauteil H2 lg (lang)
+214,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Netto Marken-Discount,Bärensiedlung,Thyssen-Krupp Aufzüge Nordost,City Toilette
+215,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Kleingartenanlage Grüne Aue,Reinhardtplatz,Funkhaus Berlin,Gartenfreunde e.V.
+216,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Innsbrucker Platz,Pflegeheim Käthe-Kollwitz,Theodor-Heuss-Platz,Seepark
+217,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Umwelt- und Naturschutzamt,Freizeit e.V.,Theodor-Heuss-Platz,Elsterplatz
+218,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Güterbahnhof Reinickendorf,Kolonie Bleibtreu II,Johann-von-Neumann-Haus,Am Wanderweg
+219,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Waldbühne,Bauteil 7,Kita Ernststraße,Osthalle
+220,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Weltspielplatz im Treptower Park,Westhalle,Oberlandstraße/Atelier Gardens,Schule am Grünen Grund
+221,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Alte Liebe Tempelhof,wheego,Haus der Parität,KGA Am Steinberg
+222,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Depot,Orchidee-Blumen,Eisenbahn-Landwirtschaft Bezirk Berlin e.V. Lichterfelde Ost,Burgerzimmer XIII
+223,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,High Park,Sportplatz Scharnweberstraße,Ernst-Reuter-Sportfeld,Kommandantenhaus
+224,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Thomas-Michael-Höhn-Haus (ehem. Zuckermuseum),Siemens Dynamowerk,Oskar Helene Park,Evangelisches Krankenhaus Königin Elisabeth Herzberge
+225,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,BSR Recyclinghof Lengeder Straße,Zietenplatz,Katholische Höfe,Albrecht'sche Erben
+226,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Berliner Ensemble,Ganztagsbereich Scharmützelsee-Grundschule,Little Big Dogs,Lackierservice Schumann
+227,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Parkplatz am Elsterplatz,Hagebuttenfirtel,Alfred-Nobel-Schule - Filiale,Maschinenhaus 4
+228,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Gewerbehof Heidestraße,Postplatz,SchuleEins,Rosengarten
+229,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Kindergarten Planufer 81,Naturhof Malchow,Kita am Gleis,Hochbunker Eiswaldtstraße
+230,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Fennpfuhlpark,McPaper,Freie Universität Berlin,Siedlung Wasserweg
+231,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Nordhafenpark West,Schule am Pappelhof,ServiceStore DB,ESV Lok Berlin-Schöneweide
+232,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Berufsfeuerwache Neukölln,Heide-Grundschule,Adolf-Scheidt-Platz,Praxis Fera 1
+233,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,KGA Gute Hoffnung,Kulturfabrik,Oberstufenzentrum Handel 1,Golden Gate
+234,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Bauteil 7,Bito,Fehrbelliner Platz,Märchenbrunnen
+235,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Polizei Abschnitt 34,Hanns-Braun-Platz,Winterfeldtplatz,Pia Olymp Mädchensportzentrum
+236,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Berliner Toilette,Jugendfreizeiteinrichtung Schottenburg,Friedhof der St. Hedwig und St. Pius Gemeinde,Baustelle Freiheits- und Einheitsdenkmal
+237,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Fromet-und-Moses-Mendelssohn-Platz,Bernhard-Grzimek-Grundschule,Freie Universität Berlin,Sonderforschungsbereich 626
+238,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Ossi Eck,Dinarisches Gebirge,Friedrichstadt-Passagen (Q 207),Berliner Toilette
+239,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Marienpark,Autohaus Jörg Lessing GmbH,Zentrale Urgesteinsalpen,Just 4 You
+240,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Technologie- und Gründerzentrum Spreeknie TGS,Museum Lichtenberg im Stadthaus,Breitscheidplatz,Polizei Abschnitt 44
+241,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Steinecke,Haus C,Ernst-Reuter-Platz,Villa Folke Bernadotte
+242,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,S Friedrichsfelde Ost,Franz-Mehring-Platz,Kita Kinderwelt,Heizkraftwerk Lichterfelde
+243,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Kopfbau West,S Bürknersfelde,Kolonie Bergfrieden,Focus Teleport Berlin
+244,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Lenné-Dreieck,Wenden-Park,Kloster St. Augustinus,Olivaer Platz
+245,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,VoltAir,Antonplatz,Spielplatz Grüntaler End,AlpinClub Berlin - Geschäftsstelle
+246,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Wilhelmsaue,Käthe-Dorsch-Haus,KGA Heimat,"Umweltbundesamt, Standort Bismarckplatz"
+247,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Hagenplatz,Siemens Röhrenwerk,Turnhalle 2,Singer109
+248,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Forstamt Grunewald,Hansaplatz,Schule an der Victoriastadt,Evangelische Kindertagesstätte Oberlin
+249,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Wippdrechsler,Bauausrüstungen + Service Behnke & Sänger GmbH,Freizeit- und Erholungszentrum (FEZ),Kranoldplatz
+250,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Humboldt-Universität Campus Nord,Nördliche Kalkalpen oberhalb der Waldgrenze,Hanna-Renate-Laurien-Platz,Rütli-Spielplatz
+251,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Bismarckplatz,Hanne-Sobek-Sportplatz,Ravelinplatz,Händelplatz
+252,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Mercure Hotel Berlin City,Mexikoplatz,Pfadfinderheim Marienhöhe,Freie Waldorfschule am Prenzlauer Berg
+253,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,LWerk Brauerstraße,Kita des Pestalozzi-Fröbel-Hauses,Alexianer St. Joseph Krankenhaus Berlin-Weißensee,Anwohner Parkplatz
+254,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Scoom,Kreativitätsgrundschule Berlin-Karlshorst,Platz der Märzrevolution,Olympischer Platz
+255,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Coubertinplatz,Maria-Rimkus-Haus,Protest-Gecekondu am Kottbusser Tor,RAW-Gelände
+256,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Oberhofer Platz,Johannaplatz,Haus 20,KGA Delfter Ufer
+257,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Station Food,KGA Pflanzersheim,Leipziger Platz,Lidl
+258,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Motel One,Flughafen Berlin-Tegel Otto Lilienthal,Karmielplatz,Parkfriedhof Marzahn
+259,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Freiligrathstraße,BVG,Betty-Hirsch-Platz,Umspannwerk Marzahn
+260,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Innsbrucker Platz,Kita Jeverstraße,James-Simon-Park,DSTRCT Berlin
+261,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Werderscher Markt,Fritz-Karsen-Schule,Stadtteilbibliothek Reinickendorf West,EKT - Kinderhaus Waldschulallee e.V.
+262,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Wismarplatz,KGA Formosa,Berliner Hochschule für Technik,Reitclub Grunewald
+263,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Zeughaus,Campus Charité Mitte,Pyrenäen und Iberische Halbinsel – Wälder u. Gebüsche,Kita Krokofant
+264,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Zietara,Kleine Ritterburg,Betriebshof Indira-Gandhi-Straße,KGA Hochspannung
+265,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,KGA Einheit,Friedhof St. Philippus Apostel,Südpark,Hort der Hugo-Heimann-Grundschule
+266,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Kolonie Bergfrieden,Afrika,Storkower Bogen,Grundschule im Blumenviertel
+267,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Mittenmang,Großer Tiergarten,Kinderzentrum Lindenhof,Graefestraße/Planufer
+268,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Grüne Baracke,Alte Fischerhütte,Nördliche Kalkalpen,Reichsbahnausbesserungswerk Niederschöneweide
+269,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Kuczka,Europa-Center am Forum,Alfred-Nobel-Schule - Filiale,Oberbaum City
+270,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Norderoog,City Kiosk,Lietzenseepark,Bauteil K2
+271,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,B,degewo-Stadion,Klinikum im Friedrichshain,Antik & Buchmarkt am Bodemuseum
+272,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Haus 22,Alfred-Rühl-Haus,Geschwister Scholl Str.,Maria-Rimkus-Haus
+273,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Nordgriechenland – Gebirge,S-Bahn Gleichrichterunterwerk Olympiastadion,Spreebogenpark,Villa Frieske
+274,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Bundesministerium der Verteidigung,Bouché Gewerbepark,Himmelbeet,Moa Bogen
+275,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Humboldt-Universität zu Berlin - Standort Dahlem,Der Holländer,Askanischer Platz,KGA Kuckucksheim I
+276,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Haus C,Holzmarkt,Anton-Saefkow-Park,Werkstatt der Berliner Feuerwehr
+277,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Haus T,Aniland,Schmetterlingsplatz,Produktionstechnisches Zentrum Berlin (PTZ)
+278,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Sukkulenten,Betriebshof für Elektrobusse,Gewerbepark Georg Knorr,Kleingartenanlage Mühlberg
+279,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Torstraße/U Rosenthaler Platz,Bruno-Taut-Schule,Abnehmeranlage Ost,Alexanderplatz
+280,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Business School Berlin,Kleingartenanlage Waldland Oberspree,Sperrmüllcontainer,Schlosspark Charlottenburg
+281,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Gierkeplatz,Helsingforser Platz,Cabuwazi,Kolonie Lindenblüte
+282,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Spring-Siedlung,Das Neue Gartenfeld,Baracke 5,KGA Königsdamm
+283,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Kolonie Lebensfreude,DSTRCT Berlin,Deutsche Bahn DB Kommunikationstechnik,Kooperative Leitstelle Feuerwehr und Polizei (Standort NGW)
+284,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Robinson-Schule,Sankt-Annen-Kirchhof,TC Grün-Weiss Baumschulenweg e.V.,Parkhaus Rathauspassagen
+285,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Barnim-Gymnasium Berlin,Gendarmenmarkt,Horst-Korber-Sportzentrum,Pavillon am Ufer
+286,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Washingtonplatz,Garbáty-Fabrik,"Bahn-Landwirtschaft Unterbezirk Steglitz e.V,",Kita Augustenburger Platz
+287,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Sportplatz Kreuznacher Str.,S Perleberger Brücke,Wäschelager WBK,Jelbi-Station U Haselhorst
+288,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Wiesenflora deutsches Mittelgebirge,Schule am Regenweiher,FW Charlottenburg- Nord (BF 3600),Jelbi-Station S+U Lichtenberg
+289,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Jelbi-Station Daumstr./Rhenaniastr.,Humanistische Kita Bornsdorfer Straße,Koppel,KGA Valwiger Straße
+290,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Oasis Berlin,Bahn-Landwirtschaft Schönholz 1,W,Club Tegel
+291,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Strandbad Halensee,Adass Jisroel Gemeindefriedhof,Wohnpark St. Marien,Haus L
+292,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Lindt,Lausitzer Platz,KGA Bismarcksruh,Wochenmarkt Bundesplatz
+293,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Crellemarkt,Gemeinschaftsunterkunft Flüchtlinge (MUF),ESV Lok Berlin-Schöneweide,Karl-Marx-Platz
+294,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Siemens Dynamowerk,Flughafen Berlin-Tempelhof,Historische Müllverbrennungsanlage der US Air Force,South Rock
+295,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Gleichrichterwerk 206 Eberswalder Straße,Grill,Gleichrichterwerk 207 Bösebrücke,Kleingartenanlage Rixdorfer Straße
+296,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Lenné-Meyer-Garten,Strandbad Tegelsee,Hanna-Renate-Laurien-Platz,Station Berlin - Pforte
+297,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Gebrüder-Montgolfier-Gymnasium,Dom Aquarée,Burger Point,Eckernförder Platz
+298,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Museumsinsel,TennisClub Wilmersdorf,Strandbad Plötzensee,Eulen
+299,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Haus der Kulturen der Welt,EDEKA,Verladerampe,Alfred-Rühl-Haus
+300,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Fünf Morgen,Westhafen,Berlinovo Studentenapartments Rhinstraße,Haus 22
+301,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,WD 23,Jagdschloss Grunewald,KGA Aufbau,Heidelberger Sand und Kies - Umschlagsplatz Treptow
+302,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Kolonie Feldschlößchen,Heinrich-Zille-Grundschule (Filiale Lausitzer Platz),Arkonaplatz,Dreiecksplatz
+303,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Savignyplatz,Mediterrano Cantina Estación,Eugeniu-Botnari-Platz,KGA Zur freien Stunde
+304,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Rosa-Luxemburg-Str./Hirtenstraße,380 kV-Kabel Terminal Berlin,Hoffmann-von-Fallersleben-Platz,Schuldrehscheibe Werneuchener Wiese
+305,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Kleingartenanlage Forsthausallee,Ankunftszentrum für Asylsuchende,Jelbi,Ankerklause
+306,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Friedrichsruher Platz,KGA Ruhwald,Kita Rappelkiste,Empfangshalle
+307,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Dolgenseepromenade,Kroatische Botschaft,Jugend-Kultur-Bunker,Polizei Abschnitt 13
+308,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Kita Zwergenland,Charkiw-Park,Jugendclub UFO,Mittelmeergebiet Kakteen
+309,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Clay-Schule,Autohaus Berolina,Richardplatz,Wochenmarkt Roederplatz
+310,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Wirtschaftswissenschaftliche Fakultät der HU,Ganztagsbereich Scharmützelsee-Grundschule,Wittenbergplatz,KGA Gesundheitspflege
+311,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Geschichtspark Ehemaliges Zellengefängnis Moabit,Hundeauslaufgebiet Jungfernheide,Ehemaliges Polizeipräsidium,Stadtpark Steglitz
+312,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,"Spielplatz ""Obstsalat""",KGA Nordpol II,Erweiterungsbau,Trabrennbahn Karlshorst
+313,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof,Gartenarbeitsschule Friedrichshain-Kreuzberg,Kita Schwiebusser Straße 5,Umkleiden
+314,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof,Landschaftspark Herzberge,Sportanlage Fredersdorfer Straße,Kleingartenanlage Märkische Aue
+315,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Steinmetzmeisterei,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof,Biergarten-Quelle,EBU Dienstleistungs- GmbH
+316,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Kita Ernststraße,TC Grün-Weiss Baumschulenweg e.V.,Autohaus Berolina,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof
+317,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,"Gesundheitszentrum Marzahn ""Ernst-Ludwig Heim""",Schlosspark-Klinik,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof,KGA Rönnestraße
+318,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Rosengarten,Wasserturm,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof,DIDIM
+319,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof,BerlinCampus,Berliner Toilette,Humboldt-Universität Campus Nord
+320,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof,Martin-Luther-Krankenhaus,Jelbi Heidestraße,Bauteil B Abfertigungshalle
+321,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Jobcenter Berlin-Lichtenberg,Evangelische Kita St.Thomas,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof,Feuchtzone
+322,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Parkstadt Karlshorst,Hochschule für Technik und Wirtschaft Berlin Campus Wilhelminenhof,Industriesalon Schöneweide,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof
+323,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Justizvollzugsanstalt Plötzensee,KGA Spandauer Berg,Domicil,Wissenschafts- und Wirtschaftsstandort Berlin-Adlershof
+324,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,GSL Metallhandelsgesellschaft,Staatsbibliothek zu Berlin,Stadion auf dem Wurfplatz,Berliner Hochschule für Technik
+325,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,"Jerusalems- und Neue Kirche, Friedhof V",Max-Planck-Institut für Bildungsforschung,Bildungs- und Verwaltungszentrum Friedrichsfelde,Kaukasus und Südwestasien
+326,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Total,Gärtnerei Haase,Berliner Toilette,Schlosspark Niederschönhausen
+327,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Volkspark Jungfernheide,Kolonie Hinckeldey,Bouché Gewerbepark,Kiddies International
+328,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Pumpwerk Tegel,Biesdorfer Kreuz,Gutshof Falkenberg,Institut für Japanologie der HU
+329,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Wasserturm Bergstraße,Energie-Museum,Seilgarten im Grunewald,Friedhof Baumschulenweg
+330,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Max-Born-Institut,Strandbad Halensee,Buckower Spatzen Bewegungskindergarten,Jelbi-Station U Haselhorst
+331,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Victoriastadt,Flughafen Tempelhof,Kooperative Leitstelle Feuerwehr und Polizei (Standort NGW),Autohaus Wegener
+332,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Berliner Schloss,Südliche Kalkalpen – Vorland,Bosepark,BSC Kickers 1900
+333,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Heinrich-Hertz-Gymnasium,RAW-Gelände,KGA Freies Land,KGA Einigkeit I
+334,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Max-Planck-Institut für Bildungsforschung,Rohrnetzbetriebsstelle Mitte,Wismarplatz,Hauptgebäude
+335,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Uferpromenade,Bockbrauerei,Park am Gleisdreieck - Ostpark,Parkplatz P1 Tierpark Eingang Schloß
+336,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Elsterplatz,Mediaspree,Schlackenloch,Gartensiedlung Wilhelmstrand
+337,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Friedhof Baumschulenweg,Bürgerpark Pankow,Kleingartenanlage Vogelhain,Evangelisches Krankenhaus Königin Elisabeth Herzberge
+338,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Angelsportverein Wilhelmina 90 e.V.,Umspannwerk Wuhlheide,Spatzennest,Kombibad Seestraße
+339,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Friedhofsgärtnerei Rademacher,Rudolph-Wilde-Park,Bohr- und Sprengtechnik Adolf Alexander,Wildstyle Shop
+340,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Neue Wache,P10,Wochenmarkt Boxhagener Platz,Justizvollzugsanstalt Tegel
+341,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Stadtpark Steglitz,Kleingartenverein Rosengarten Marzahn e.V.,Förderschule am Falkenberg,Fürstenhof
+342,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Praxis Fera 1,Nordwestdeutsche Heide,Ringo's Grill,Graefekiez
+343,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Justizvollzugsanstalt für Frauen Berlin,Graefestraße/Planufer,Kleingartenkolonie Grüne Aue e.V.,Humboldt-Universität Campus Nord
+344,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Nord-Süd-Grünzug,Humanistische Kindertagesstätte Prenzlzwerge,Humboldt-Universität Campus Nord,Fries Bodensysteme GmbH
+345,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Fröbel-Kindergarten mittendrin,Änderungsschneiderei,S Friedrichstraße,Großer Tiergarten
+346,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Großer Tiergarten,Janusz-Korczak-Schule,Friedhof II der Sophiengemeinde Berlin,Bahnentladestelle Oiltanking
+347,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Kiezsporthalle Alfred-Döblin-Straße,Volkspark Wilmersdorf,Großer Tiergarten,Museum Berlin-Karlshorst
+348,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Akademie der Künste,Russisch-Orthodoxer Friedhof,Innung für Metall- und Kunststofftechnik Berlin,Märchenbrunnen
+349,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Kleingartenanlage Siegfriedslust,Gropius Passagen,Kita Rehberge,Kunsthochschule Berlin-Weißensee
+350,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Sonntagsfrieden,Karlshofer Wiese / Lehmannshof,Volkspark Rehberge,Pekinger Platz
+351,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Steglitz Park-Center,Haus 3 - Kiefernhaus,Alfred-Nobel-Schule,Hochschule für Wirtschaft und Recht Berlin – Campus Schöneberg
+352,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Großer Stern,Freie Universität Berlin,Kolonie Pfefferluch,Rollheimer
+353,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Kleingartenanlage Semmelweis,Oberlandpark,The Garden Living,Freie Universität Berlin
+354,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Bauteil C Empfangshalle,Preußisches Landwirtshaus,Freie Universität Berlin,Wochenmarkt Eberbacher Straße / Rüdesheimer Platz
+355,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Bereitschaftspolizei, 13. Einsatzhundertschaft",Humboldt-Universität zu Berlin - Campus Mitte,Nazareth-Kirchhof II,Bluestar Rechenzentrum
+356,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Humboldt-Universität zu Berlin - Campus Mitte,Biergarten Britzer Mühle,Branitzer Platz,Leinestraße / Weisestraße
+357,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Adlerplatz,Maria Heimsuchung Caritas Klinikum Pankow,Humboldt-Universität zu Berlin - Campus Mitte,Breitenbachplatz
+358,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Karlsgarten-Grundschule,Autobahnmeisterei Berlin-Tempelhof,Traglufthalle,Pfegewohnheim Haus Leonore
+359,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Rudolph-Wilde-Park,Haubitz,Uferstudios für Zeitgenössischen Tanz,Zentrale des Bundesnachrichtendienstes
+360,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,JKW Grenzallee,Bahn-Landwirtschaft,Bäkepark,D&N Kraftwerkstechnik GmbH
+361,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Wolfgang-Köhler-Haus,Natur & Kunst GmbH Steinmetzwerkstätten,"Gelbflügelara, Blaulatzata",Landschaftspark Johannisthal/Adlershof
+362,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Ehemalige Müllverladestation Helmholtzstraße,Sochos Sportanlage,Park am Plötzensee,Die Lynar
+363,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Bethanien,Wühlischplatz,"Spielplatz ""Obstsalat""",Kalthalle
+364,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Kita Schwanheimer Straße,Pia Olymp Mädchensportzentrum,Max-Planck-Gymnasium,Kasernengelände Am Treptower Park
+365,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Oberbaum City,Tanzwerkstatt No Limit,Jugendfreizeiteinrichtung Schottenburg,Volkspark Humboldthain
+366,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,SIXT,HFT,Universität der Künste Berlin,KGA Am Anger
+367,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Ladeturm der ehemaligen Dampfmühle F. W. Schütt,Affenhaus,BeachMitte,Villa Garbáty
+368,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Volkspark Wilmersdorf,Spinnenspielplatz,Havelmüller Grundschule,Loeperplatz
+369,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"LTTC ""Rot-Weiß"" e.V.",Evangelisches Krankenhaus Königin Elisabeth Herzberge,Baustelle A100,Linienstraße/Rosenthaler Straße
+370,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Platz des 18. März,BA,Empfangshalle,Johann-August-Zeune-Schule für Blinde
+371,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Paul-Schneider-Grundschule,Berger Beton,Winterfeldtplatz,Lützowplatz
+372,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Peter-Frankenfeld-Schule,Kita Heidemühler Rasselbande,Siemens Mobility,Campus Steglitz
+373,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Haus Diercks,Kita Adlerküken,Freie Universität Berlin,Grundschule im Blumenviertel
+374,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Arnswalder Platz,I. Französischer Friedhof,Freie Universität Berlin,Centro Park Hotel Berlin Neukölln
+375,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,UNITANK,Cosy Wash,Charité – Campus Benjamin Franklin,Speichertechnologiezentrum & Wohnhaus
+376,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Allianz Campus Berlin,Berlin Metropolitan School,KGA Spreeblick,Kombibad Seestraße
+377,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Kleingartenanlage Grünstreifen,KGA Stichkanal Mulde,Oberbaum City,Hort der Hugo-Heimann-Grundschule
+378,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Tischlerei Raschke GmbH,Berliner Toilette,Biotronik SE & Co. KG,Oberbaum City

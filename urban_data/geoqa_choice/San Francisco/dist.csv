@@ -1,0 +1,451 @@
+id,question,answer,A,B,C,D
+0,"What is the distance between ""Cafe du Soleil"" and ""The Fuzzy Place"" in the San Francisco area?",A,1.47,8.23,3.08,6.79
+1,"What is the distance between ""Encore Karaoke"" and ""Bissap Baobab"" in the San Francisco area?",A,3.31,9.45,7.23,11.14
+2,"What is the distance between ""¡Unamas! Mexican Grill"" and ""Little Ark"" in the San Francisco area?",C,5.84,11.82,4.28,11.15
+3,"What is the distance between ""Battery Marcus Miller"" and ""Medico-Dental Building"" in the San Francisco area?",A,6.2,1.63,8.03,9.52
+4,"What is the distance between ""East Housing"" and ""Trailblazer Tavern"" in the San Francisco area?",A,5.1,2.77,10.36,4.01
+5,"What is the distance between ""The Inn at Union Square San Francisco"" and ""McDonald's"" in the San Francisco area?",C,5.79,6.94,2.21,3.38
+6,"What is the distance between ""Adrian Hotel"" and ""Saint James Episcopal Church"" in the San Francisco area?",C,7.8,11.55,4.54,6.34
+7,"What is the distance between ""Aub Zam Zam"" and ""La Connessa"" in the San Francisco area?",A,4.37,11.28,8.58,2.3
+8,"What is the distance between ""Forest Hill Christian Church"" and ""Archbishop Riordan High School"" in the San Francisco area?",A,2.5,4.71,8.53,1.54
+9,"What is the distance between ""Public Glass"" and ""Focus Clinic"" in the San Francisco area?",B,14.38,7.23,9.0,8.45
+10,"What is the distance between ""The Sequoias"" and ""The Palms"" in the San Francisco area?",A,2.78,3.87,6.32,4.26
+11,"What is the distance between ""Claire Lilienthal Madison Campus"" and ""Anglo Bank Building"" in the San Francisco area?",C,2.38,1.42,4.92,1.72
+12,"What is the distance between ""Oasis"" and ""Galleria Park Hotel"" in the San Francisco area?",D,5.38,9.19,7.15,2.19
+13,"What is the distance between ""Joseph D Basso Podiatrist"" and ""Enterprise Car Rental Parking"" in the San Francisco area?",C,10.7,12.18,5.51,12.77
+14,"What is the distance between ""Urban Remedy"" and ""Chase"" in the San Francisco area?",D,3.37,7.73,1.65,0.67
+15,"What is the distance between ""Archbishop Riordan High School"" and ""Golden Gate Park Golf Course"" in the San Francisco area?",B,0.9,6.34,0.68,5.03
+16,"What is the distance between ""Capital One 360 Café"" and ""Lands End Trail Eagles Point, 916 El Camino Del Mar, San Francisco, CA 94121, USA"" in the San Francisco area?",D,4.83,5.15,9.88,8.02
+17,"What is the distance between ""Poter Hotel"" and ""Mary Ellen Pleasant Memorial Park"" in the San Francisco area?",B,5.15,1.63,7.17,2.88
+18,"What is the distance between ""Pilgrim Community Church"" and ""Stormwater / Roofwater Management Bioswales"" in the San Francisco area?",D,6.37,4.89,6.06,1.27
+19,"What is the distance between ""Boba Guys"" and ""Oyugu Sushi"" in the San Francisco area?",D,2.35,12.9,10.57,6.94
+20,"What is the distance between ""Sunset Indian Cusine"" and ""Dental Care SF"" in the San Francisco area?",D,7.04,3.91,5.65,1.97
+21,"What is the distance between ""Minako"" and ""Kuma Sushi + Sake"" in the San Francisco area?",C,9.71,3.78,2.68,1.6
+22,"What is the distance between ""Alhamra"" and ""LEG-STRETCH"" in the San Francisco area?",B,11.93,4.89,6.05,11.29
+23,"What is the distance between ""Simply SF"" and ""Wasabi Bistro"" in the San Francisco area?",A,2.71,1.3,7.15,7.26
+24,"What is the distance between ""Aquatic Park Bocce Ball"" and ""Propagation"" in the San Francisco area?",D,1.3,1.06,3.8,2.25
+25,"What is the distance between ""Jackson Square Dentist"" and ""Star 101.3 KIOI"" in the San Francisco area?",B,4.44,2.18,9.23,0.5
+26,"What is the distance between ""Mission Creek Cafe"" and ""Roosevelt Tamale Parlor"" in the San Francisco area?",D,8.96,3.52,8.26,1.24
+27,"What is the distance between ""Sakesan"" and ""Sushi Chef"" in the San Francisco area?",A,5.51,6.99,2.37,12.21
+28,"What is the distance between ""Fiery"" and ""Lake Merced Church of Christ"" in the San Francisco area?",B,4.24,3.25,7.46,6.97
+29,"What is the distance between ""Lands End Trail Eagles Point, 916 El Camino Del Mar, San Francisco, CA 94121, USA"" and ""C. Q. Noodle"" in the San Francisco area?",C,2.72,4.43,1.23,2.19
+30,"What is the distance between ""Ninth Church of Christian Scientist"" and ""Vantaggio Suites"" in the San Francisco area?",D,15.12,10.05,6.19,7.8
+31,"What is the distance between ""Golden Gateway Tennis & Swim Club"" and ""Zebra"" in the San Francisco area?",D,9.58,17.16,5.24,11.98
+32,"What is the distance between ""Campus - San Francisco"" and ""Lily Cai Chinese Dance Company"" in the San Francisco area?",D,8.51,6.7,5.99,1.07
+33,"What is the distance between ""CorePower Yoga"" and ""Golden King Vietnamese Restaurant"" in the San Francisco area?",D,1.18,0.57,9.17,2.51
+34,"What is the distance between ""Vantaggio Suites"" and ""Joe DiMaggio Playground"" in the San Francisco area?",B,7.15,1.88,4.44,7.48
+35,"What is the distance between ""Dr. Jennifer Katz, inc. · Speech · Language Pathology"" and ""The Knockout"" in the San Francisco area?",A,0.59,4.88,4.83,8.54
+36,"What is the distance between ""Unity Spiritual Center"" and ""Robin Williams Meadow"" in the San Francisco area?",B,7.05,4.33,11.03,10.6
+37,"What is the distance between ""Hamu Studio"" and ""Tacolicious"" in the San Francisco area?",B,4.34,2.63,3.64,5.69
+38,"What is the distance between ""King of Noodles"" and ""East West Bank"" in the San Francisco area?",B,8.77,1.06,2.37,3.32
+39,"What is the distance between ""Mucky Duck"" and ""Réveille"" in the San Francisco area?",C,11.99,12.46,4.65,6.95
+40,"What is the distance between ""Citibank"" and ""Ria"" in the San Francisco area?",A,6.1,2.99,10.88,4.34
+41,"What is the distance between ""CORE MVMT"" and ""Masala Dosa"" in the San Francisco area?",D,7.59,5.41,6.54,2.85
+42,"What is the distance between ""Jade Cafe"" and ""Taxi Stand at Hotel Kabuki"" in the San Francisco area?",B,3.76,2.71,6.34,7.05
+43,"What is the distance between ""Le Cafe du Soleil"" and ""Taxi Stand at Caltrain Station at 4th and King St"" in the San Francisco area?",D,10.94,9.3,8.6,3.17
+44,"What is the distance between ""The Writing Salon"" and ""Bubba Gump Shrimp Company"" in the San Francisco area?",A,7.32,14.12,4.73,9.06
+45,"What is the distance between ""Squeezd To Go"" and ""Peet's Coffee"" in the San Francisco area?",A,7.5,10.53,4.08,11.33
+46,"What is the distance between ""The Cinch Saloon"" and ""Citibank"" in the San Francisco area?",A,5.78,3.97,8.82,10.45
+47,"What is the distance between ""Noodle In A Haystack"" and ""Sunflower"" in the San Francisco area?",C,1.08,10.54,6.57,9.84
+48,"What is the distance between ""San Francisco Paint Source"" and ""The Sequoias"" in the San Francisco area?",C,2.02,0.55,3.74,6.39
+49,"What is the distance between ""O'Keeffe's"" and ""Boulevard"" in the San Francisco area?",C,1.94,9.99,6.41,14.13
+50,"What is the distance between ""Gourmet Carousel"" and ""Bernal Heights post office"" in the San Francisco area?",B,7.31,4.98,1.21,3.75
+51,"What is the distance between ""The Sanctuary"" and ""Office Depot"" in the San Francisco area?",C,1.95,7.31,4.29,5.64
+52,"What is the distance between ""Canyon Market"" and ""Action Rentals"" in the San Francisco area?",A,4.5,6.56,5.55,8.99
+53,"What is the distance between ""Boulevard"" and ""Yee's Restaurant"" in the San Francisco area?",B,9.18,1.32,8.64,2.38
+54,"What is the distance between ""Wells Fargo"" and ""BATS Improv"" in the San Francisco area?",C,12.35,13.26,9.44,14.17
+55,"What is the distance between ""San Francisco Junior Academy"" and ""Geography Department Map Library"" in the San Francisco area?",A,3.05,9.28,4.61,8.17
+56,"What is the distance between ""San Francisco Inn"" and ""The Abbey"" in the San Francisco area?",C,8.28,3.16,1.42,2.82
+57,"What is the distance between ""Takahashi"" and ""Bryant Navigation Center"" in the San Francisco area?",C,8.27,2.95,1.29,6.83
+58,"What is the distance between ""EA Cafe"" and ""Allstars"" in the San Francisco area?",A,3.55,0.69,6.48,6.72
+59,"What is the distance between ""Budget"" and ""Hot Yoga"" in the San Francisco area?",B,7.07,0.63,6.1,8.54
+60,"What is the distance between ""Burger King"" and ""Bobaville"" in the San Francisco area?",A,7.24,2.18,13.72,2.48
+61,"What is the distance between ""Il Borgo"" and ""85°C"" in the San Francisco area?",C,10.42,13.05,6.89,11.34
+62,"What is the distance between ""Corona Heights Park"" and ""SF LGBT Center"" in the San Francisco area?",B,3.27,1.49,9.02,4.63
+63,"What is the distance between ""Lyft"" and ""Chevron"" in the San Francisco area?",A,4.67,0.93,11.32,10.97
+64,"What is the distance between ""Wheel Works"" and ""510"" in the San Francisco area?",A,1.52,7.8,6.06,5.57
+65,"What is the distance between ""Walgreens"" and ""Cumaica Coffee"" in the San Francisco area?",A,4.78,9.51,9.24,11.52
+66,"What is the distance between ""Turtle Tower"" and ""Hard Knox Cafe"" in the San Francisco area?",B,0.75,5.98,7.7,13.01
+67,"What is the distance between ""Bahn Mi King"" and ""Jane On Larkin"" in the San Francisco area?",C,8.23,5.29,2.27,9.74
+68,"What is the distance between ""The Heath"" and ""My Doctor Medical Group"" in the San Francisco area?",D,11.16,7.76,4.26,5.55
+69,"What is the distance between ""DAMNFiNE pizza"" and ""Ristorante Fior d'Italia"" in the San Francisco area?",A,8.92,7.54,7.72,6.48
+70,"What is the distance between ""The Grant Hotel"" and ""Konko Church of San Francisco"" in the San Francisco area?",B,7.27,1.71,3.59,3.74
+71,"What is the distance between ""Lava Java"" and ""Hong Kee & Kim"" in the San Francisco area?",D,10.12,11.59,2.53,5.82
+72,"What is the distance between ""Bini’s Kitchen"" and ""Ben & Jerry's"" in the San Francisco area?",C,0.82,7.63,3.31,7.42
+73,"What is the distance between ""Golden Gate Office Solutions"" and ""Paid Parking"" in the San Francisco area?",A,10.3,13.2,4.66,11.47
+74,"What is the distance between ""Firefly"" and ""SteppingStone"" in the San Francisco area?",B,8.81,4.84,1.89,9.45
+75,"What is the distance between ""KeyMe"" and ""Mr. Pickle's Sandwich Shop"" in the San Francisco area?",A,6.32,12.02,12.15,8.68
+76,"What is the distance between ""San Francisco Community Alternative School"" and ""Public Glass"" in the San Francisco area?",D,7.63,11.06,6.65,3.31
+77,"What is the distance between ""Griffith Pump Station"" and ""Moscone Recreation Center"" in the San Francisco area?",D,13.96,17.49,17.15,9.76
+78,"What is the distance between ""Taxi Stand at Parc 55 (along Eddy St)"" and ""Project Open Hand"" in the San Francisco area?",D,5.67,3.61,1.95,0.89
+79,"What is the distance between ""Mission Bay Dental"" and ""Ta Kioh Buddhist Temple"" in the San Francisco area?",B,1.2,8.25,3.08,11.46
+80,"What is the distance between ""Hong Kee & Kim"" and ""CorePower Yoga"" in the San Francisco area?",D,9.19,9.36,9.29,3.3
+81,"What is the distance between ""Sessions at the Presidio"" and ""Sammie Cafe"" in the San Francisco area?",D,6.16,8.81,5.85,3.12
+82,"What is the distance between ""Dos Piñas"" and ""Zentarou Sushi & Sake Bar"" in the San Francisco area?",C,12.29,7.72,5.61,12.4
+83,"What is the distance between ""BMO"" and ""The Crafty Fox"" in the San Francisco area?",A,2.82,5.55,10.03,1.88
+84,"What is the distance between ""Fillmore Billiards"" and ""United Nations Cafe"" in the San Francisco area?",A,1.67,6.45,3.65,3.5
+85,"What is the distance between ""the Gateway vistaWest"" and ""Hybrid Repair"" in the San Francisco area?",C,15.27,0.63,7.65,2.11
+86,"What is the distance between ""Oriental Seafood Restaurant"" and ""Coca-Cola"" in the San Francisco area?",C,11.33,13.76,9.09,5.93
+87,"What is the distance between ""North East Medical Services (NEMS)"" and ""In-N-Out Burger"" in the San Francisco area?",C,8.93,4.68,1.21,4.52
+88,"What is the distance between ""Star 101.3 KIOI"" and ""Tratto"" in the San Francisco area?",D,8.0,8.41,5.0,1.74
+89,"What is the distance between ""Fili-taste"" and ""Horse Feather"" in the San Francisco area?",A,5.28,3.1,10.31,11.6
+90,"What is the distance between ""Union Square Sports Bar"" and ""Aub Zam Zam"" in the San Francisco area?",B,7.74,3.88,5.36,9.02
+91,"What is the distance between ""San Francisco Surgical Arts"" and ""Ha-Ra"" in the San Francisco area?",C,7.16,5.96,2.33,3.66
+92,"What is the distance between ""The Phone Booth"" and ""SFSU Pool"" in the San Francisco area?",D,13.48,4.42,8.3,6.24
+93,"What is the distance between ""Oyugu Sushi"" and ""O'Keeffe's"" in the San Francisco area?",C,8.86,11.01,3.48,11.08
+94,"What is the distance between ""Beach Chalet Athletic Fields Playground"" and ""The Urban School of San Francisco"" in the San Francisco area?",D,9.02,10.12,7.8,5.46
+95,"What is the distance between ""Building 50"" and ""Archdiocese of San Francisco"" in the San Francisco area?",B,7.06,2.09,4.97,6.26
+96,"What is the distance between ""Hyde Street Pier"" and ""Signature Hotel S.F."" in the San Francisco area?",B,7.49,3.74,1.33,10.58
+97,"What is the distance between ""Gourmet Kitchen"" and ""Yubalance"" in the San Francisco area?",A,5.95,7.77,7.82,10.33
+98,"What is the distance between ""Baden-Joost Mini Park"" and ""Midtown Terrace Park and Sutro Recreation Center"" in the San Francisco area?",D,8.72,1.28,1.54,2.47
+99,"What is the distance between ""Chutney"" and ""Encore Karaoke"" in the San Francisco area?",B,7.44,0.81,7.98,2.25
+100,"What is the distance between ""Bread N' Chu"" and ""Patio Español"" in the San Francisco area?",A,8.12,3.06,6.05,11.83
+101,"What is the distance between ""Mona Lisa"" and ""Noodle In A Haystack"" in the San Francisco area?",B,9.03,5.72,8.23,10.42
+102,"What is the distance between ""The Knockout"" and ""Little Free Library"" in the San Francisco area?",D,12.55,5.33,4.31,6.33
+103,"What is the distance between ""Earth Tone Cafe"" and ""El Rincon Yucateco"" in the San Francisco area?",A,5.55,7.98,11.91,8.37
+104,"What is the distance between ""Oki Sushi"" and ""Szechuan Cuisine"" in the San Francisco area?",B,8.26,5.11,2.5,7.88
+105,"What is the distance between ""Chipotle"" and ""Starlight 2 Christian Preschool"" in the San Francisco area?",B,6.8,11.05,7.5,6.72
+106,"What is the distance between ""Peaches Patties"" and ""Christian Science Reading Room"" in the San Francisco area?",C,5.95,11.48,9.12,5.61
+107,"What is the distance between ""Paid Parking"" and ""Robert Pender Park"" in the San Francisco area?",A,3.01,10.06,7.88,9.13
+108,"What is the distance between ""Exchange Block Building"" and ""Water Treatment Plant"" in the San Francisco area?",A,7.27,10.64,3.28,14.08
+109,"What is the distance between ""Carl Hotel"" and ""Saint Mary's Chinese Mission"" in the San Francisco area?",A,5.04,2.84,8.28,6.13
+110,"What is the distance between ""Young Men's Christian Association Chinese Building"" and ""Marina Lounge"" in the San Francisco area?",A,2.92,9.19,9.93,1.37
+111,"What is the distance between ""10th Planet Jiu Jitsu - San Francisco"" and ""The Heath"" in the San Francisco area?",D,0.86,2.6,0.76,4.77
+112,"What is the distance between ""City Sports Club"" and ""Le Cafe du Soleil"" in the San Francisco area?",B,8.68,6.12,13.18,11.84
+113,"What is the distance between ""USPS"" and ""St Thomas Apostle Pre-school and Pre-k Learning Center"" in the San Francisco area?",C,16.46,15.75,8.49,2.88
+114,"What is the distance between ""Mel's Kitchen"" and ""KeyMe"" in the San Francisco area?",D,10.3,2.65,15.95,8.07
+115,"What is the distance between ""Civic Center Garage"" and ""Squeezd To Go"" in the San Francisco area?",A,7.81,2.86,14.85,9.48
+116,"What is the distance between ""Hong Kong Clay Pot Restaurant"" and ""Mission Creek Cafe"" in the San Francisco area?",D,7.61,1.46,6.44,4.47
+117,"What is the distance between ""Yosemite Plaza"" and ""Cafe du Nord"" in the San Francisco area?",B,11.25,5.66,3.52,13.51
+118,"What is the distance between ""Little Ark"" and ""Cafe la Flore"" in the San Francisco area?",A,3.94,5.2,0.73,2.63
+119,"What is the distance between ""Stern Grove"" and ""Cumberland Presbyterian Chinese Church"" in the San Francisco area?",B,10.6,9.06,16.13,6.81
+120,"What is the distance between ""Ta Kioh Buddhist Temple"" and ""Taxi Stand at Hyatt Regency"" in the San Francisco area?",D,10.18,0.69,1.33,7.21
+121,"What is the distance between ""Kanteen"" and ""Urban Remedy"" in the San Francisco area?",C,8.42,1.75,3.38,1.79
+122,"What is the distance between ""Pandora Karaoke Bar"" and ""Saint Anthony - Immaculate Conception"" in the San Francisco area?",B,8.69,4.09,7.64,8.48
+123,"What is the distance between ""Zentarou Sushi & Sake Bar"" and ""Stern Grove"" in the San Francisco area?",D,8.43,7.29,10.63,3.2
+124,"What is the distance between ""Robert Pender Park"" and ""Women's Resource Center"" in the San Francisco area?",D,5.34,11.2,11.26,8.89
+125,"What is the distance between ""Just Won Ton"" and ""Tilak"" in the San Francisco area?",D,1.39,6.66,3.17,5.09
+126,"What is the distance between ""Dental Care SF"" and ""Boba Guys"" in the San Francisco area?",C,8.16,4.47,5.74,13.43
+127,"What is the distance between ""Building 37"" and ""Maltby Electric Supply Co., Inc."" in the San Francisco area?",D,8.09,8.19,10.78,3.63
+128,"What is the distance between ""Trailblazer Tavern"" and ""Red & White Fleet"" in the San Francisco area?",C,4.29,6.1,2.58,4.16
+129,"What is the distance between ""Christian Science Reading Room"" and ""Starbucks"" in the San Francisco area?",C,11.94,14.35,7.5,4.09
+130,"What is the distance between ""Avis"" and ""Tasty Coffee"" in the San Francisco area?",B,3.3,6.91,9.37,14.78
+131,"What is the distance between ""Potrero Hill Health Center"" and ""Pho 2000"" in the San Francisco area?",D,2.74,9.27,8.05,3.71
+132,"What is the distance between ""Loving Hut"" and ""Walgreens"" in the San Francisco area?",D,4.57,6.74,0.91,3.11
+133,"What is the distance between ""Bryant Navigation Center"" and ""Calle-11"" in the San Francisco area?",B,9.06,1.45,4.0,4.79
+134,"What is the distance between ""Tratto"" and ""U.S. Bank"" in the San Francisco area?",B,8.52,6.38,10.39,9.05
+135,"What is the distance between ""Pacific Gas and Electric Company General Office Building Annex"" and ""Club Wyndham Canterbury"" in the San Francisco area?",C,3.77,3.88,1.48,5.76
+136,"What is the distance between ""United Nations Cafe"" and ""Chef Joe's Culinary Salon"" in the San Francisco area?",A,1.92,5.01,5.44,3.02
+137,"What is the distance between ""Cafe Envy"" and ""Torraku Ramen"" in the San Francisco area?",B,6.8,4.26,1.03,11.07
+138,"What is the distance between ""Dr. William L. Cobb Elementary School/Preschool"" and ""Golden Gateway Tennis & Swim Club"" in the San Francisco area?",A,3.89,2.84,6.14,9.85
+139,"What is the distance between ""California Fish Market"" and ""Think Tank Learning"" in the San Francisco area?",B,1.28,7.73,6.2,12.06
+140,"What is the distance between ""SteppingStone"" and ""Lynn Mojica, DMD, P. C."" in the San Francisco area?",D,2.68,0.82,9.31,7.57
+141,"What is the distance between ""Red & White Fleet"" and ""Il Borgo"" in the San Francisco area?",B,5.06,3.84,8.37,6.84
+142,"What is the distance between ""White Swan Inn"" and ""1601 Bar And Kitchen"" in the San Francisco area?",D,3.48,4.61,6.22,2.07
+143,"What is the distance between ""ColorBloq"" and ""Jonell's"" in the San Francisco area?",D,3.07,0.6,8.74,1.71
+144,"What is the distance between ""Tan Bella"" and ""Jade Cafe"" in the San Francisco area?",A,1.76,9.52,3.06,6.51
+145,"What is the distance between ""La Cuisine Cafe"" and ""City View"" in the San Francisco area?",D,6.63,7.09,8.5,1.83
+146,"What is the distance between ""The Little Chihuahua"" and ""Coffee Cantata"" in the San Francisco area?",C,5.73,7.28,1.22,5.06
+147,"What is the distance between ""Marina Lounge"" and ""Bayfront Park"" in the San Francisco area?",D,7.98,2.25,11.5,5.89
+148,"What is the distance between ""Peet's Coffee"" and ""The Lotus Method"" in the San Francisco area?",D,6.8,7.95,4.11,2.98
+149,"What is the distance between ""Cafe la Flore"" and ""Rhea’s Cafe"" in the San Francisco area?",B,2.81,5.96,9.82,8.1
+150,"What is the distance between ""Nute's"" and ""Trax"" in the San Francisco area?",A,4.46,8.15,3.54,3.25
+151,"What is the distance between ""Round Table Pizza"" and ""Chipotle"" in the San Francisco area?",A,2.42,4.31,6.52,7.26
+152,"What is the distance between ""The Palms"" and ""Chinatown / Him Mark Lai Branch Library"" in the San Francisco area?",B,9.82,2.12,3.65,8.27
+153,"What is the distance between ""Sunset Movement Arts"" and ""Pasilla Mexican Grill"" in the San Francisco area?",D,1.31,3.66,5.82,8.88
+154,"What is the distance between ""Cumberland Presbyterian Chinese Church"" and ""Park Gym"" in the San Francisco area?",A,2.9,4.97,8.29,8.57
+155,"What is the distance between ""Taylor Street Coffee Shop"" and ""Turtle Tower"" in the San Francisco area?",B,6.9,0.6,6.49,3.39
+156,"What is the distance between ""Slice House by Tony Gemignani"" and ""Double Decker"" in the San Francisco area?",D,7.45,9.3,4.49,2.67
+157,"What is the distance between ""San Francisco Chronicle Building"" and ""First Christian Church"" in the San Francisco area?",C,4.78,10.74,2.77,0.79
+158,"What is the distance between ""Focus Clinic"" and ""Jackson Fillmore Trattoria"" in the San Francisco area?",B,0.92,2.95,1.2,5.87
+159,"What is the distance between ""Bayfront Park"" and ""2175 Market"" in the San Francisco area?",A,3.91,6.66,7.72,11.89
+160,"What is the distance between ""Chef Joe's Culinary Salon"" and ""New Strangers Home Baptist Church"" in the San Francisco area?",C,2.53,8.9,1.2,2.4
+161,"What is the distance between ""Little Joe's Pizzeria"" and ""Templo de la Fe"" in the San Francisco area?",D,5.4,2.16,7.2,4.21
+162,"What is the distance between ""Fermentation Lab"" and ""The Phone Booth"" in the San Francisco area?",C,0.94,0.77,4.05,1.52
+163,"What is the distance between ""Noeteca"" and ""Taxi Stand at Parc 55 (along Eddy St)"" in the San Francisco area?",A,4.62,11.89,8.52,3.35
+164,"What is the distance between ""Balompié Cafe"" and ""Best Tile"" in the San Francisco area?",A,2.94,9.36,6.39,1.77
+165,"What is the distance between ""The Lotus Method"" and ""Taxi Stand at San Francisco Superior Court (along Polk Street)"" in the San Francisco area?",C,4.34,5.09,3.42,2.16
+166,"What is the distance between ""Plentea"" and ""The Alcove Theater"" in the San Francisco area?",C,8.79,10.29,2.73,1.18
+167,"What is the distance between ""Rincon Hill Dog Park"" and ""Dr. William L. Cobb Elementary School/Preschool"" in the San Francisco area?",B,6.16,4.32,11.41,1.05
+168,"What is the distance between ""Double Decker"" and ""Subway"" in the San Francisco area?",A,3.21,10.08,7.22,6.13
+169,"What is the distance between ""Golden Gate Bridge Toll Plaza"" and ""Avis"" in the San Francisco area?",C,3.63,8.82,6.24,2.35
+170,"What is the distance between ""Golden Gate Urgent Care"" and ""Nick The Greek"" in the San Francisco area?",B,6.48,4.29,1.21,9.43
+171,"What is the distance between ""Hotel Riu Plaza Fisherman´s Wharf"" and ""Yosemite Plaza"" in the San Francisco area?",D,7.26,12.81,12.28,9.14
+172,"What is the distance between ""Konko Church of San Francisco"" and ""Panorama Park"" in the San Francisco area?",C,8.31,3.17,5.88,11.81
+173,"What is the distance between ""Hybrid Repair"" and ""Lyft"" in the San Francisco area?",A,2.66,0.95,6.64,8.01
+174,"What is the distance between ""UCSF Dental School"" and ""California Fish Market"" in the San Francisco area?",D,11.12,11.37,9.94,3.57
+175,"What is the distance between ""The UPS Store"" and ""Pilgrim Community Church"" in the San Francisco area?",B,17.51,9.65,4.28,7.07
+176,"What is the distance between ""Taxi Stand at San Francisco Superior Court (along Polk Street)"" and ""Little Angels"" in the San Francisco area?",D,6.02,3.54,11.45,4.63
+177,"What is the distance between ""Hotel Isabel"" and ""Eureka"" in the San Francisco area?",A,3.51,11.29,7.01,6.45
+178,"What is the distance between ""Caffé Sport"" and ""Suzu Noodle House"" in the San Francisco area?",A,2.61,9.87,4.93,9.54
+179,"What is the distance between ""CBS Interactive"" and ""Vogue Theatre"" in the San Francisco area?",B,7.49,4.38,7.35,6.07
+180,"What is the distance between ""Manivanh Thai Restaurant"" and ""DAMNFiNE pizza"" in the San Francisco area?",B,15.31,8.12,10.12,5.07
+181,"What is the distance between ""Brick & Beam"" and ""Tulare Park"" in the San Francisco area?",C,10.64,10.74,6.82,8.27
+182,"What is the distance between ""Bank of America"" and ""Kezar Pizzetta"" in the San Francisco area?",D,10.26,8.62,6.69,2.95
+183,"What is the distance between ""Cistern at Folsom & 16th"" and ""Corona Heights Park"" in the San Francisco area?",B,10.01,2.04,9.41,8.9
+184,"What is the distance between ""Pazzia"" and ""Bini’s Kitchen"" in the San Francisco area?",A,0.9,7.63,4.49,4.92
+185,"What is the distance between ""Lynn Mojica, DMD, P. C."" and ""Fillmore Billiards"" in the San Francisco area?",B,7.24,5.19,6.96,2.07
+186,"What is the distance between ""Butterfly Joint"" and ""Westside Community Services"" in the San Francisco area?",C,12.79,10.84,8.05,2.15
+187,"What is the distance between ""Mr. Pickle's Sandwich Shop"" and ""Rooster & Rice"" in the San Francisco area?",C,11.19,1.57,4.65,3.16
+188,"What is the distance between ""Best Tile"" and ""Joseph D Basso Podiatrist"" in the San Francisco area?",B,13.08,5.66,12.24,0.86
+189,"What is the distance between ""Music City Academy"" and ""Epic Church"" in the San Francisco area?",C,0.84,5.04,7.08,1.42
+190,"What is the distance between ""One Fifty Parker Avenue School"" and ""Frances Hotel"" in the San Francisco area?",D,0.56,5.09,7.62,3.68
+191,"What is the distance between ""Club Wyndham Canterbury"" and ""Music City"" in the San Francisco area?",A,0.6,4.17,2.41,7.33
+192,"What is the distance between ""Pho 2000"" and ""Spice 24"" in the San Francisco area?",B,6.7,3.49,7.46,2.23
+193,"What is the distance between ""Toppu Ramen & Dim Sum House"" and ""Chaat Cafe Express"" in the San Francisco area?",C,7.83,8.69,0.87,6.05
+194,"What is the distance between ""Lam Hoa Thun"" and ""The Writing Salon"" in the San Francisco area?",A,1.5,7.4,8.57,8.97
+195,"What is the distance between ""Chin up bar"" and ""café suspiro"" in the San Francisco area?",B,8.56,3.66,8.46,9.63
+196,"What is the distance between ""Sun Kwong Restaurant"" and ""The Rumpus Room"" in the San Francisco area?",D,5.51,5.13,6.25,1.6
+197,"What is the distance between ""3R Automotive"" and ""Embarcadero Center 1"" in the San Francisco area?",D,7.49,10.22,4.15,5.58
+198,"What is the distance between ""Delah Coffee"" and ""Sunday Bird"" in the San Francisco area?",A,3.01,7.72,9.05,8.82
+199,"What is the distance between ""café suspiro"" and ""ColorBloq"" in the San Francisco area?",D,8.47,3.37,7.07,1.51
+200,"What is the distance between ""1601 Bar And Kitchen"" and ""Mish House"" in the San Francisco area?",B,7.59,1.9,7.08,3.56
+201,"What is the distance between ""C. Q. Noodle"" and ""Family"" in the San Francisco area?",B,9.32,2.89,5.95,9.36
+202,"What is the distance between ""Harbor Light Center"" and ""Center For African And American Art and Culture"" in the San Francisco area?",D,8.05,9.2,5.27,1.97
+203,"What is the distance between ""Rooster & Rice"" and ""La Sarrasine"" in the San Francisco area?",D,0.91,6.3,8.57,2.53
+204,"What is the distance between ""The Rumpus Room"" and ""Z & Y Restaurant"" in the San Francisco area?",B,9.01,1.61,3.32,9.11
+205,"What is the distance between ""The Urban School of San Francisco"" and ""Kelly Cullen Community"" in the San Francisco area?",C,10.56,6.35,3.05,6.2
+206,"What is the distance between ""The Fuzzy Place"" and ""Fili-taste"" in the San Francisco area?",B,9.53,5.63,7.21,12.25
+207,"What is the distance between ""Lupa Trattoria"" and ""Obscenity Bar & Lounge"" in the San Francisco area?",B,6.8,4.75,6.08,6.07
+208,"What is the distance between ""Lakewood Apartments at Lake Merced"" and ""Canyon Market"" in the San Francisco area?",A,5.94,2.54,8.09,3.41
+209,"What is the distance between ""My Doctor Medical Group"" and ""The Little Chihuahua"" in the San Francisco area?",A,3.23,10.81,0.67,6.42
+210,"What is the distance between ""Medico-Dental Building"" and ""Muriel Leff Mini Park"" in the San Francisco area?",D,8.03,6.78,12.59,4.95
+211,"What is the distance between ""Galleria Park Hotel"" and ""Takahashi"" in the San Francisco area?",D,7.09,4.0,5.57,2.5
+212,"What is the distance between ""The Abbey"" and ""San Francisco Chronicle Building"" in the San Francisco area?",B,6.97,0.66,6.53,5.2
+213,"What is the distance between ""Restorante Milano"" and ""Cassava"" in the San Francisco area?",D,5.86,5.31,4.49,1.02
+214,"What is the distance between ""San Francisco Adventist School"" and ""Beach Chalet Athletic Fields Playground"" in the San Francisco area?",B,10.59,7.09,0.77,2.36
+215,"What is the distance between ""Archdiocese of San Francisco"" and ""33 New Montgomery"" in the San Francisco area?",A,2.0,3.83,5.07,9.95
+216,"What is the distance between ""Chinese United Methodist Church"" and ""Oyama Karate"" in the San Francisco area?",C,9.34,4.72,8.05,12.19
+217,"What is the distance between ""Women's Resource Center"" and ""Mountain Lake Park"" in the San Francisco area?",C,7.69,10.33,5.79,3.0
+218,"What is the distance between ""Civic Center Inn"" and ""Building 50"" in the San Francisco area?",A,2.35,4.62,4.94,7.53
+219,"What is the distance between ""Propagation"" and ""Sessions at the Presidio"" in the San Francisco area?",C,5.42,6.24,3.11,6.29
+220,"What is the distance between ""Richardson Hall"" and ""Balompié Cafe"" in the San Francisco area?",B,4.87,1.23,7.75,6.17
+221,"What is the distance between ""Taqueria San Francisco"" and ""Alhamra"" in the San Francisco area?",C,6.63,2.83,1.76,3.92
+222,"What is the distance between ""Trax"" and ""Fermentation Lab"" in the San Francisco area?",B,0.96,2.24,9.35,9.39
+223,"What is the distance between ""GetzWell Pediatrics"" and ""Super Duper Burgers"" in the San Francisco area?",B,8.63,5.2,2.8,6.26
+224,"What is the distance between ""Pasilla Mexican Grill"" and ""Just Won Ton"" in the San Francisco area?",C,13.39,3.04,8.89,11.1
+225,"What is the distance between ""Just Digital Coin Bitcoin ATM"" and ""Sanppo Sushi"" in the San Francisco area?",B,6.6,2.68,0.97,4.66
+226,"What is the distance between ""St Thomas Apostle Pre-school and Pre-k Learning Center"" and ""City Sports Club"" in the San Francisco area?",C,7.06,12.27,5.47,8.94
+227,"What is the distance between ""Sheba Piano Lounge"" and ""Hinodeya Ramen & Bar"" in the San Francisco area?",D,0.8,4.74,6.01,2.18
+228,"What is the distance between ""Taxi Stand at Kimpton Buchanan Hotel"" and ""The Mortimer"" in the San Francisco area?",D,9.38,4.96,8.44,1.56
+229,"What is the distance between ""Allstars"" and ""Pacific Rim Conference Room"" in the San Francisco area?",D,2.67,12.83,7.34,5.22
+230,"What is the distance between ""Gelato"" and ""Sakesan"" in the San Francisco area?",B,12.36,5.73,9.23,4.8
+231,"What is the distance between ""Notre Dame Des Victoires Grammar School"" and ""Cafe du Soleil"" in the San Francisco area?",D,4.95,2.06,9.06,1.11
+232,"What is the distance between ""Yubalance"" and ""Plentea"" in the San Francisco area?",C,2.43,2.09,6.54,7.45
+233,"What is the distance between ""American Grilled Cheese Kitchen"" and ""Boom Boom Room"" in the San Francisco area?",A,3.56,2.23,11.2,4.78
+234,"What is the distance between ""Pierre's Auto Body"" and ""Willie B. Kennedy Apartments"" in the San Francisco area?",C,7.36,8.17,3.68,7.81
+235,"What is the distance between ""19th Avenue Chinese Baptist Church"" and ""Pacific Gas and Electric Company General Office Building Annex"" in the San Francisco area?",A,7.83,4.89,4.18,6.67
+236,"What is the distance between ""First Christian Church"" and ""Harbor Light Center"" in the San Francisco area?",C,8.64,6.22,2.13,1.13
+237,"What is the distance between ""Suzu Noodle House"" and ""Family Dentistry"" in the San Francisco area?",D,1.21,2.57,11.69,5.8
+238,"What is the distance between ""Sunset Branch Library"" and ""All Hallows Chapel"" in the San Francisco area?",B,2.18,7.98,15.15,6.84
+239,"What is the distance between ""PetsHotel"" and ""Il Canto Cafe"" in the San Francisco area?",C,8.96,1.41,4.06,2.38
+240,"What is the distance between ""Cornell Hotel de France"" and ""Hotel Mayfair"" in the San Francisco area?",C,7.13,2.64,1.18,7.68
+241,"What is the distance between ""Horse Feather"" and ""UCSF Dental School"" in the San Francisco area?",B,2.27,1.05,4.31,8.69
+242,"What is the distance between ""Belle Cora"" and ""Hunan Chef Chinese Cuisine"" in the San Francisco area?",C,2.23,10.41,6.73,10.13
+243,"What is the distance between ""Tpumps"" and ""The Valencia Room"" in the San Francisco area?",A,5.03,0.9,7.13,2.56
+244,"What is the distance between ""Old San Francisco Mint"" and ""The Sanctuary"" in the San Francisco area?",D,4.76,8.19,2.8,0.79
+245,"What is the distance between ""Sam's American Eatery"" and ""Gelato"" in the San Francisco area?",D,5.16,11.31,7.36,3.47
+246,"What is the distance between ""The Valencia Room"" and ""Sunset Movement Arts"" in the San Francisco area?",C,1.05,11.36,5.93,5.01
+247,"What is the distance between ""El Rincon Yucateco"" and ""Mel's Kitchen"" in the San Francisco area?",A,0.74,4.99,5.33,1.76
+248,"What is the distance between ""Frances Hotel"" and ""Old San Francisco Mint"" in the San Francisco area?",C,5.44,10.2,2.38,4.37
+249,"What is the distance between ""Mio Preschool Too"" and ""The Marrakech Magic Theater"" in the San Francisco area?",C,1.02,9.51,2.81,1.85
+250,"What is the distance between ""Bissap Baobab"" and ""Shizen"" in the San Francisco area?",C,4.61,7.15,0.84,6.86
+251,"What is the distance between ""Spice 24"" and ""Hertz"" in the San Francisco area?",C,1.97,10.9,6.06,8.1
+252,"What is the distance between ""Signature Hotel S.F."" and ""Sunset Branch Library"" in the San Francisco area?",B,10.86,6.2,9.96,10.12
+253,"What is the distance between ""Action Rentals"" and ""Forest Hill Christian Church"" in the San Francisco area?",D,8.48,12.23,1.77,4.74
+254,"What is the distance between ""Local Diner"" and ""Dim Sum Club"" in the San Francisco area?",C,10.05,9.78,2.43,7.27
+255,"What is the distance between ""LEG-STRETCH"" and ""The Hive"" in the San Francisco area?",D,9.79,0.78,7.3,2.65
+256,"What is the distance between ""Kelly Cullen Community"" and ""Hotel Riu Plaza Fisherman´s Wharf"" in the San Francisco area?",D,1.2,7.88,1.63,2.78
+257,"What is the distance between ""Taxi Stand at Hotel Kabuki"" and ""Postscript"" in the San Francisco area?",A,2.53,1.35,1.53,8.38
+258,"What is the distance between ""Water Treatment Plant"" and ""Richardson Hall"" in the San Francisco area?",C,0.94,9.41,5.62,7.76
+259,"What is the distance between ""Cumaica Coffee"" and ""The Cinch Saloon"" in the San Francisco area?",C,8.76,9.85,3.69,9.47
+260,"What is the distance between ""SF LGBT Center"" and ""San Francisco Inn"" in the San Francisco area?",B,2.23,1.24,7.0,6.33
+261,"What is the distance between ""Taxi Stand at Caltrain Station at 4th and King St"" and ""Le Sandwich"" in the San Francisco area?",C,6.48,6.81,3.12,4.79
+262,"What is the distance between ""Mitchell's Ice Cream"" and ""Civic Center Garage"" in the San Francisco area?",A,4.04,2.92,5.03,7.91
+263,"What is the distance between ""Tulare Park"" and ""Building 37"" in the San Francisco area?",C,14.04,8.63,7.06,4.51
+264,"What is the distance between ""Café Broadway"" and ""Bank of America"" in the San Francisco area?",B,6.23,3.28,7.04,4.59
+265,"What is the distance between ""Sushi Uma"" and ""Charlie's Cafe"" in the San Francisco area?",A,6.21,8.37,2.85,9.9
+266,"What is the distance between ""Taxi Stand at Hyatt Regency (along Drumm St)"" and ""Firefly"" in the San Francisco area?",D,3.27,13.19,9.79,6.04
+267,"What is the distance between ""Banh Mi Viet"" and ""Blush! Wine Bar"" in the San Francisco area?",B,8.83,1.47,7.49,4.58
+268,"What is the distance between ""Seven Square Taproom"" and ""Fiery"" in the San Francisco area?",A,9.05,1.29,2.89,4.06
+269,"What is the distance between ""Curran Theatre"" and ""Poter Hotel"" in the San Francisco area?",D,3.68,5.11,8.2,1.19
+270,"What is the distance between ""Westside Community Services"" and ""Taxi Stand at Kimpton Buchanan Hotel"" in the San Francisco area?",C,7.14,9.84,2.06,6.85
+271,"What is the distance between ""Chevron"" and ""Golden Gate Valley Branch Library"" in the San Francisco area?",B,4.11,0.98,4.41,5.16
+272,"What is the distance between ""Boom Boom Room"" and ""Post & Parcel"" in the San Francisco area?",A,4.01,8.18,6.36,10.67
+273,"What is the distance between ""New Strangers Home Baptist Church"" and ""Tpumps"" in the San Francisco area?",D,11.11,6.45,10.73,3.6
+274,"What is the distance between ""Anglo Bank Building"" and ""Baden-Joost Mini Park"" in the San Francisco area?",D,12.81,1.97,2.53,7.58
+275,"What is the distance between ""Johannes Vermeer Apartments"" and ""Pier 3"" in the San Francisco area?",B,7.89,1.99,6.43,4.76
+276,"What is the distance between ""Music City"" and ""Griffith Pump Station"" in the San Francisco area?",B,1.9,7.88,0.56,11.12
+277,"What is the distance between ""Sanppo Sushi"" and ""Oriental Seafood Restaurant"" in the San Francisco area?",C,4.7,4.14,6.42,3.37
+278,"What is the distance between ""Jane On Larkin"" and ""Sweetheart Cafe"" in the San Francisco area?",D,7.55,5.17,8.66,1.43
+279,"What is the distance between ""Wayne W. Lee D.D.S. General Dentistry"" and ""North East Medical Services (NEMS)"" in the San Francisco area?",C,13.05,3.79,7.05,9.81
+280,"What is the distance between ""Savor"" and ""Taquería Estrella"" in the San Francisco area?",B,4.23,2.28,5.0,3.77
+281,"What is the distance between ""Dim Sum Club"" and ""Chong Qing Xiao Mian"" in the San Francisco area?",C,4.23,5.95,1.66,6.95
+282,"What is the distance between ""East West Bank"" and ""The Page"" in the San Francisco area?",C,5.22,2.49,4.11,9.76
+283,"What is the distance between ""Embarcadero Center 1"" and ""Unity Spiritual Center"" in the San Francisco area?",C,4.63,5.72,9.54,11.44
+284,"What is the distance between ""Bobaville"" and ""Cafe Envy"" in the San Francisco area?",D,5.2,5.05,17.7,10.16
+285,"What is the distance between ""Little Free Library"" and ""Slice House by Tony Gemignani"" in the San Francisco area?",D,4.46,9.68,10.11,2.86
+286,"What is the distance between ""Center For African And American Art and Culture"" and ""CBS Interactive"" in the San Francisco area?",A,3.29,8.49,9.66,9.62
+287,"What is the distance between ""The White House Garage"" and ""La Cuisine Cafe"" in the San Francisco area?",B,3.93,1.37,3.96,6.95
+288,"What is the distance between ""Robin Williams Meadow"" and ""The Inn at Union Square San Francisco"" in the San Francisco area?",C,6.99,8.26,4.8,7.32
+289,"What is the distance between ""La Sarrasine"" and ""Sushi Uma"" in the San Francisco area?",D,11.09,1.53,2.38,4.02
+290,"What is the distance between ""True Sunshine Episcopal Church"" and ""Morty's"" in the San Francisco area?",C,2.8,7.29,1.69,6.54
+291,"What is the distance between ""Ristorante Fior d'Italia"" and ""Empero Taste"" in the San Francisco area?",B,4.31,8.46,13.93,13.9
+292,"What is the distance between ""Moscone Recreation Center"" and ""Lakewood Apartments at Lake Merced"" in the San Francisco area?",C,7.16,8.55,11.09,8.6
+293,"What is the distance between ""Milk Tea Lab"" and ""Lam Hoa Thun"" in the San Francisco area?",C,2.55,6.78,1.43,6.89
+294,"What is the distance between ""Mish House"" and ""222 Taylor"" in the San Francisco area?",C,7.71,9.3,2.75,10.05
+295,"What is the distance between ""Pacific Rim Conference Room"" and ""Gym"" in the San Francisco area?",D,13.3,13.88,14.34,6.88
+296,"What is the distance between ""Super Duper"" and ""Little Joe's Pizzeria"" in the San Francisco area?",C,10.44,8.2,5.55,10.74
+297,"What is the distance between ""Chestnut Coffee Roastery"" and ""East Housing"" in the San Francisco area?",A,1.17,6.62,4.54,3.58
+298,"What is the distance between ""Willie B. Kennedy Apartments"" and ""Hotel G"" in the San Francisco area?",C,9.75,7.37,1.91,7.55
+299,"What is the distance between ""Hunan Chef Chinese Cuisine"" and ""Moon Fung Chinese Herbs Ginseng & Tea"" in the San Francisco area?",D,3.41,6.36,2.63,5.42
+300,"What is the distance between ""Coffee Cantata"" and ""Taqueria San Francisco"" in the San Francisco area?",B,2.0,4.18,2.57,3.26
+301,"What is the distance between ""City Center Inn & Suites"" and ""San Francisco Adventist School"" in the San Francisco area?",B,12.97,7.19,4.05,0.64
+302,"What is the distance between ""Dragon Beaux"" and ""Proactiv"" in the San Francisco area?",C,8.05,11.4,5.77,12.83
+303,"What is the distance between ""Sammie Cafe"" and ""Philz Coffee"" in the San Francisco area?",B,2.01,4.32,9.14,6.92
+304,"What is the distance between ""Dancing Yak"" and ""Wooden Coffeehouse"" in the San Francisco area?",B,8.85,2.44,5.12,0.95
+305,"What is the distance between ""Family Dentistry"" and ""Oki Sushi"" in the San Francisco area?",C,2.09,1.16,7.15,11.66
+306,"What is the distance between ""U.S. Bank"" and ""Manivanh Thai Restaurant"" in the San Francisco area?",C,12.41,8.49,6.36,2.63
+307,"What is the distance between ""2175 Market"" and ""Torpedo Wharf"" in the San Francisco area?",A,5.91,3.51,3.46,10.43
+308,"What is the distance between ""Fresh Market"" and ""Round Table Pizza"" in the San Francisco area?",C,8.2,5.25,1.44,6.57
+309,"What is the distance between ""La Connessa"" and ""Dragon Beaux"" in the San Francisco area?",C,4.13,5.83,7.32,3.33
+310,"What is the distance between ""The Mortimer"" and ""Barry's"" in the San Francisco area?",C,8.49,9.72,3.04,6.85
+311,"What is the distance between ""Joe DiMaggio Playground"" and ""Claire Lilienthal Madison Campus"" in the San Francisco area?",C,8.56,0.55,4.38,10.68
+312,"What is the distance between ""Saint Anthony - Immaculate Conception"" and ""Capital One 360 Café"" in the San Francisco area?",A,4.68,10.56,12.11,7.45
+313,"What is the distance between ""Muriel Leff Mini Park"" and ""Wheel Works"" in the San Francisco area?",C,4.66,7.81,3.73,0.75
+314,"What is the distance between ""Bob's Donuts"" and ""DeLise Dessert cafe"" in the San Francisco area?",B,4.49,1.7,9.41,2.94
+315,"What is the distance between ""BATS Improv"" and ""Peaches Patties"" in the San Francisco area?",B,8.5,3.53,6.95,4.59
+316,"What is the distance between ""Tancca"" and ""Fanoos"" in the San Francisco area?",A,0.95,3.53,4.5,8.4
+317,"What is the distance between ""Sunday Bird"" and ""Bahn Mi King"" in the San Francisco area?",B,1.78,3.56,1.14,10.6
+318,"What is the distance between ""R & G Lounge"" and ""Golden Gate Bridge Toll Plaza"" in the San Francisco area?",D,13.02,9.51,3.95,6.37
+319,"What is the distance between ""Ben & Jerry's"" and ""Mio Preschool Too"" in the San Francisco area?",A,5.14,1.51,6.63,10.69
+320,"What is the distance between ""Pacific Cafe"" and ""Tancca"" in the San Francisco area?",B,6.74,7.71,9.86,10.61
+321,"What is the distance between ""Cracked & Battered"" and ""American Grilled Cheese Kitchen"" in the San Francisco area?",C,4.2,9.78,2.21,9.93
+322,"What is the distance between ""City View"" and ""Koshland Park Community Garden"" in the San Francisco area?",A,3.04,3.99,0.8,1.89
+323,"What is the distance between ""Oasis Inn"" and ""Dahlia Garden"" in the San Francisco area?",B,9.17,3.46,5.5,2.47
+324,"What is the distance between ""Barry's"" and ""Minako"" in the San Francisco area?",C,4.25,5.07,1.18,8.27
+325,"What is the distance between ""Jackson Fillmore Trattoria"" and ""San Francisco Junior Academy"" in the San Francisco area?",A,8.38,14.49,5.5,9.58
+326,"What is the distance between ""Chinatown Restaurant"" and ""CORE MVMT"" in the San Francisco area?",C,9.43,9.88,4.33,9.75
+327,"What is the distance between ""Rhea’s Cafe"" and ""Simply SF"" in the San Francisco area?",B,6.04,1.2,6.94,6.38
+328,"What is the distance between ""Shizen"" and ""Potrero Hill Health Center"" in the San Francisco area?",D,7.04,6.37,6.77,2.56
+329,"What is the distance between ""Chase"" and ""Richmond Dental Care"" in the San Francisco area?",A,6.08,3.89,11.6,3.56
+330,"What is the distance between ""Office Depot"" and ""Rodeway Inn Civic Center"" in the San Francisco area?",C,7.31,0.97,3.29,6.28
+331,"What is the distance between ""Hooker Alley (Nob Hill) Community Garden"" and ""19th Avenue Chinese Baptist Church"" in the San Francisco area?",B,7.58,6.67,12.45,14.11
+332,"What is the distance between ""Fida Market"" and ""Aquatic Park Bocce Ball"" in the San Francisco area?",B,7.06,4.49,2.18,7.66
+333,"What is the distance between ""Fanoos"" and ""Local Diner"" in the San Francisco area?",A,1.33,2.62,7.06,6.36
+334,"What is the distance between ""Eagle Cafe"" and ""The Coffee Movement"" in the San Francisco area?",B,11.65,6.92,2.4,10.74
+335,"What is the distance between ""DeLise Dessert cafe"" and ""Sheba Piano Lounge"" in the San Francisco area?",D,8.81,6.33,6.02,3.08
+336,"What is the distance between ""Yully Building"" and ""Curran Theatre"" in the San Francisco area?",A,1.0,7.52,6.77,5.03
+337,"What is the distance between ""Chinatown / Him Mark Lai Branch Library"" and ""W San Francisco"" in the San Francisco area?",C,7.7,7.76,1.38,7.84
+338,"What is the distance between ""Philz Coffee"" and ""Bob's Donuts"" in the San Francisco area?",B,10.85,4.98,12.87,7.29
+339,"What is the distance between ""Yee's Restaurant"" and ""Banh Mi Viet"" in the San Francisco area?",C,9.07,6.99,3.7,8.59
+340,"What is the distance between ""Park Gym"" and ""Dancing Yak"" in the San Francisco area?",A,2.55,9.91,8.35,9.91
+341,"What is the distance between ""Kezar Pizzetta"" and ""Cracked & Battered"" in the San Francisco area?",C,9.74,9.24,5.29,11.13
+342,"What is the distance between ""Morty's"" and ""Mitchell's Ice Cream"" in the San Francisco area?",A,4.23,11.16,12.01,9.22
+343,"What is the distance between ""Publico Urban Taqueria"" and ""Golden Gate Urgent Care"" in the San Francisco area?",A,4.29,6.61,5.43,2.94
+344,"What is the distance between ""Réveille"" and ""Just Digital Coin Bitcoin ATM"" in the San Francisco area?",A,4.56,0.83,9.76,8.26
+345,"What is the distance between ""Gym"" and ""Restorante Milano"" in the San Francisco area?",B,11.82,9.72,11.65,10.74
+346,"What is the distance between ""McDonald's"" and ""Civic Center Inn"" in the San Francisco area?",D,2.6,4.47,4.67,1.23
+347,"What is the distance between ""Torraku Ramen"" and ""Chutney"" in the San Francisco area?",B,8.03,2.46,1.24,6.85
+348,"What is the distance between ""Kuma Sushi + Sake"" and ""Kingdom of Dumpling"" in the San Francisco area?",A,7.53,3.74,12.24,6.11
+349,"What is the distance between ""Oyama Karate"" and ""Earth Tone Cafe"" in the San Francisco area?",D,6.15,6.53,10.11,2.29
+350,"What is the distance between ""Obscenity Bar & Lounge"" and ""Dos Piñas"" in the San Francisco area?",D,7.5,10.03,8.09,2.62
+351,"What is the distance between ""Mountain Lake Park"" and ""Hooker Alley (Nob Hill) Community Garden"" in the San Francisco area?",C,6.97,8.91,5.21,0.5
+352,"What is the distance between ""Hotel G"" and ""Hyde Street Pier"" in the San Francisco area?",D,3.97,1.39,3.86,2.66
+353,"What is the distance between ""Auspicious Clouds | Heavy Fog"" and ""Savor"" in the San Francisco area?",C,10.93,10.06,5.43,11.02
+354,"What is the distance between ""Coca-Cola"" and ""Fraternite Notre Dame Mary of Nazareth House"" in the San Francisco area?",A,1.26,6.75,3.88,6.3
+355,"What is the distance between ""Charlie's Cafe"" and ""Gourmet Carousel"" in the San Francisco area?",A,4.75,12.48,11.08,0.86
+356,"What is the distance between ""Moon Fung Chinese Herbs Ginseng & Tea"" and ""Royal Ground Coffee"" in the San Francisco area?",D,11.04,1.38,12.2,4.41
+357,"What is the distance between ""Torpedo Wharf"" and ""Beach Chalet Soccer Fields"" in the San Francisco area?",C,12.96,7.21,5.77,13.75
+358,"What is the distance between ""Le Sandwich"" and ""Mona Lisa"" in the San Francisco area?",C,5.4,6.04,0.52,7.26
+359,"What is the distance between ""Taco Bell"" and ""Cole Valley Fitness"" in the San Francisco area?",D,5.68,7.48,8.0,3.38
+360,"What is the distance between ""Hertz"" and ""Grasslands Bar & Lounge"" in the San Francisco area?",A,1.63,6.71,0.56,6.62
+361,"What is the distance between ""Masala Dosa"" and ""Union Square Sports Bar"" in the San Francisco area?",C,6.99,13.11,5.57,7.98
+362,"What is the distance between ""Bay Wheels"" and ""Kanteen"" in the San Francisco area?",D,9.51,5.21,4.73,2.39
+363,"What is the distance between ""Roosevelt Tamale Parlor"" and ""Tan Bella"" in the San Francisco area?",B,7.7,2.43,9.05,5.53
+364,"What is the distance between ""In-N-Out Burger"" and ""Noeteca"" in the San Francisco area?",D,3.83,14.28,1.19,7.04
+365,"What is the distance between ""Rodeway Inn Civic Center"" and ""3R Automotive"" in the San Francisco area?",A,4.53,9.27,0.62,2.3
+366,"What is the distance between ""Pier 3"" and ""The Grant Hotel"" in the San Francisco area?",A,1.62,6.35,7.73,7.8
+367,"What is the distance between ""Golden Gate Park Golf Course"" and ""One Fifty Parker Avenue School"" in the San Francisco area?",D,7.74,7.33,3.37,4.76
+368,"What is the distance between ""Eureka"" and ""Battery Marcus Miller"" in the San Francisco area?",D,12.5,11.19,8.45,4.86
+369,"What is the distance between ""Starlight 2 Christian Preschool"" and ""Wayne W. Lee D.D.S. General Dentistry"" in the San Francisco area?",C,6.06,1.71,4.89,2.35
+370,"What is the distance between ""Family"" and ""San Francisco Surgical Arts"" in the San Francisco area?",C,4.25,11.14,5.15,9.03
+371,"What is the distance between ""222 Taylor"" and ""Rincon Hill Dog Park"" in the San Francisco area?",B,5.99,1.8,5.99,0.54
+372,"What is the distance between ""Il Canto Cafe"" and ""USPS"" in the San Francisco area?",B,6.77,0.89,4.84,6.66
+373,"What is the distance between ""The Coffee Movement"" and ""Toppu Ramen & Dim Sum House"" in the San Francisco area?",A,6.75,1.66,9.68,8.95
+374,"What is the distance between ""W San Francisco"" and ""Hotel Isabel"" in the San Francisco area?",A,1.13,2.27,4.19,7.75
+375,"What is the distance between ""Bernal Heights post office"" and ""Magain David"" in the San Francisco area?",B,8.3,5.52,6.53,3.1
+376,"What is the distance between ""Imperial Gardens Sea Food"" and ""Chin up bar"" in the San Francisco area?",C,2.56,13.56,8.68,10.51
+377,"What is the distance between ""Kingdom of Dumpling"" and ""Pacific Cafe"" in the San Francisco area?",D,1.14,11.11,11.88,4.23
+378,"What is the distance between ""Neck of the Woods"" and ""Mission Temporary Branch, San Francisco Public Library"" in the San Francisco area?",B,2.58,5.03,6.11,7.87
+379,"What is the distance between ""Japanese American Association of Northern California"" and ""Yully Building"" in the San Francisco area?",A,1.49,3.5,3.87,6.27
+380,"What is the distance between ""Superior Palace"" and ""Gourmet Kitchen"" in the San Francisco area?",A,8.12,6.37,5.59,11.2
+381,"What is the distance between ""Szechuan Cuisine"" and ""Taxi Stand at Hyatt Regency (along Drumm St)"" in the San Francisco area?",A,8.01,4.63,11.41,15.89
+382,"What is the distance between ""Koshland Park Community Garden"" and ""Belle Cora"" in the San Francisco area?",B,6.16,3.31,1.19,8.35
+383,"What is the distance between ""Geography Department Map Library"" and ""Imperial Gardens Sea Food"" in the San Francisco area?",D,8.92,13.0,9.34,6.35
+384,"What is the distance between ""Think Tank Learning"" and ""Burger King"" in the San Francisco area?",D,2.58,7.45,2.17,5.02
+385,"What is the distance between ""Project Open Hand"" and ""Nute's"" in the San Francisco area?",B,1.35,5.01,11.04,6.43
+386,"What is the distance between ""Sushi Chef"" and ""Taco Bell"" in the San Francisco area?",D,4.02,7.89,6.51,1.95
+387,"What is the distance between ""Sunflower"" and ""Café Broadway"" in the San Francisco area?",B,11.13,4.02,8.08,1.57
+388,"What is the distance between ""Shed A"" and ""Carl Hotel"" in the San Francisco area?",C,13.32,9.74,5.94,7.37
+389,"What is the distance between ""Taquería Estrella"" and ""Wells Fargo"" in the San Francisco area?",A,5.78,7.24,9.72,7.52
+390,"What is the distance between ""Royal Ground Coffee"" and ""Campus - San Francisco"" in the San Francisco area?",D,6.41,8.06,7.06,4.39
+391,"What is the distance between ""Mission Temporary Branch, San Francisco Public Library"" and ""Notre Dame Des Victoires Grammar School"" in the San Francisco area?",B,6.91,4.35,11.69,0.6
+392,"What is the distance between ""Beach Chalet Soccer Fields"" and ""Adrian Hotel"" in the San Francisco area?",A,8.4,1.21,15.42,5.68
+393,"What is the distance between ""Tasty Coffee"" and ""Milk Tea Lab"" in the San Francisco area?",B,3.13,4.56,10.03,2.4
+394,"What is the distance between ""YakiniQ Cafe"" and ""Seven Square Taproom"" in the San Francisco area?",D,9.11,10.55,10.16,2.85
+395,"What is the distance between ""Cassava"" and ""Bay Wheels"" in the San Francisco area?",A,3.12,10.46,1.87,5.58
+396,"What is the distance between ""Lily Cai Chinese Dance Company"" and ""Neck of the Woods"" in the San Francisco area?",B,6.02,3.87,2.81,1.21
+397,"What is the distance between ""The Alcove Theater"" and ""True Sunshine Episcopal Church"" in the San Francisco area?",D,4.19,6.36,5.51,1.04
+398,"What is the distance between ""Zebra"" and ""San Francisco Paint Source"" in the San Francisco area?",C,15.75,16.79,10.46,18.26
+399,"What is the distance between ""Tacolicious"" and ""Mission Bay Dental"" in the San Francisco area?",D,0.82,6.16,1.71,2.92
+400,"What is the distance between ""Templo de la Fe"" and ""Jackson Square Dentist"" in the San Francisco area?",D,12.17,11.04,8.82,4.97
+401,"What is the distance between ""Bubba Gump Shrimp Company"" and ""Sun Kwong Restaurant"" in the San Francisco area?",A,1.96,6.81,6.3,7.51
+402,"What is the distance between ""Perry's"" and ""Caffé Sport"" in the San Francisco area?",C,7.49,7.18,1.63,3.58
+403,"What is the distance between ""Subway"" and ""PetsHotel"" in the San Francisco area?",B,5.44,2.69,5.55,4.04
+404,"What is the distance between ""Ha-Ra"" and ""10th Planet Jiu Jitsu - San Francisco"" in the San Francisco area?",A,1.89,5.31,6.28,2.92
+405,"What is the distance between ""Cole Valley Fitness"" and ""Dr. Jennifer Katz, inc. · Speech · Language Pathology"" in the San Francisco area?",A,3.11,5.19,0.96,6.85
+406,"What is the distance between ""Ria"" and ""YakiniQ Cafe"" in the San Francisco area?",C,7.23,5.95,2.76,6.88
+407,"What is the distance between ""Magain David"" and ""Music City Academy"" in the San Francisco area?",D,9.68,4.02,4.0,2.52
+408,"What is the distance between ""Enterprise Car Rental Parking"" and ""Cornell Hotel de France"" in the San Francisco area?",D,6.59,3.31,6.66,2.12
+409,"What is the distance between ""Golden Gate Valley Branch Library"" and ""Johannes Vermeer Apartments"" in the San Francisco area?",B,6.18,1.69,3.52,5.49
+410,"What is the distance between ""The Crafty Fox"" and ""Lava Java"" in the San Francisco area?",B,7.88,2.89,4.2,4.31
+411,"What is the distance between ""Saint James Episcopal Church"" and ""Ninth Church of Christian Scientist"" in the San Francisco area?",C,13.13,1.89,5.86,12.3
+412,"What is the distance between ""Taxi Stand at Hyatt Regency"" and ""Oasis"" in the San Francisco area?",B,9.09,1.94,9.65,8.26
+413,"What is the distance between ""85°C"" and ""Sam's American Eatery"" in the San Francisco area?",A,7.76,14.02,5.32,3.82
+414,"What is the distance between ""Hot Yoga"" and ""The UPS Store"" in the San Francisco area?",A,1.53,7.63,6.06,5.62
+415,"What is the distance between ""33 New Montgomery"" and ""White Swan Inn"" in the San Francisco area?",A,0.87,3.83,5.14,7.74
+416,"What is the distance between ""Vogue Theatre"" and ""City Center Inn & Suites"" in the San Francisco area?",D,11.42,7.52,7.87,3.56
+417,"What is the distance between ""Hard Knox Cafe"" and ""Publico Urban Taqueria"" in the San Francisco area?",D,3.84,11.74,5.52,7.01
+418,"What is the distance between ""Ape Do Good Printing"" and ""Shed A"" in the San Francisco area?",D,8.98,1.5,7.08,3.23
+419,"What is the distance between ""510"" and ""the Gateway vistaWest"" in the San Francisco area?",B,7.88,0.86,1.77,3.14
+420,"What is the distance between ""Kanbar Center"" and ""Cistern at Folsom & 16th"" in the San Francisco area?",B,4.87,1.15,7.69,9.02
+421,"What is the distance between ""The Marrakech Magic Theater"" and ""Slice House"" in the San Francisco area?",A,3.62,11.55,6.04,1.11
+422,"What is the distance between ""Hotel Mayfair"" and ""Japanese American Association of Northern California"" in the San Francisco area?",C,2.55,6.42,1.0,3.43
+423,"What is the distance between ""Little Angels"" and ""Bread N' Chu"" in the San Francisco area?",D,6.48,8.89,14.67,7.44
+424,"What is the distance between ""Saint Mary's Chinese Mission"" and ""Golden Gate Office Solutions"" in the San Francisco area?",A,1.53,9.39,6.92,4.0
+425,"What is the distance between ""Stormwater / Roofwater Management Bioswales"" and ""Sunset Indian Cusine"" in the San Francisco area?",B,8.45,4.74,0.74,6.37
+426,"What is the distance between ""Calle-11"" and ""Oasis Inn"" in the San Francisco area?",D,8.98,7.23,7.81,1.46
+427,"What is the distance between ""All Hallows Chapel"" and ""Native Plant Nursery"" in the San Francisco area?",B,12.61,9.76,13.03,16.65
+428,"What is the distance between ""Epic Church"" and ""Perry's"" in the San Francisco area?",D,5.62,8.39,8.05,1.24
+429,"What is the distance between ""Richmond Dental Care"" and ""Pazzia"" in the San Francisco area?",B,4.95,5.96,11.45,10.04
+430,"What is the distance between ""Proactiv"" and ""Chestnut Coffee Roastery"" in the San Francisco area?",A,8.53,0.8,7.22,11.02
+431,"What is the distance between ""Lake Merced Church of Christ"" and ""¡Unamas! Mexican Grill"" in the San Francisco area?",B,17.36,11.47,4.75,8.11
+432,"What is the distance between ""Patio Español"" and ""Mucky Duck"" in the San Francisco area?",B,1.77,5.81,10.09,7.66
+433,"What is the distance between ""SFSU Pool"" and ""Loving Hut"" in the San Francisco area?",C,11.23,6.48,4.68,2.98
+434,"What is the distance between ""Panorama Park"" and ""Exchange Block Building"" in the San Francisco area?",A,3.6,1.41,4.9,7.48
+435,"What is the distance between ""The Page"" and ""Fida Market"" in the San Francisco area?",B,9.18,1.68,7.38,9.23
+436,"What is the distance between ""Nick The Greek"" and ""Lupa Trattoria"" in the San Francisco area?",C,9.44,2.04,5.82,11.21
+437,"What is the distance between ""Wasabi Bistro"" and ""Budget"" in the San Francisco area?",C,5.51,8.26,3.59,10.33
+438,"What is the distance between ""Wooden Coffeehouse"" and ""Super Duper"" in the San Francisco area?",C,2.85,8.01,1.43,8.37
+439,"What is the distance between ""Slice House"" and ""Broadway Studios"" in the San Francisco area?",D,12.19,0.87,3.3,4.91
+440,"What is the distance between ""Starbucks"" and ""King of Noodles"" in the San Francisco area?",D,12.91,10.23,2.08,6.48
+441,"What is the distance between ""Blush! Wine Bar"" and ""Eagle Cafe"" in the San Francisco area?",C,12.16,1.61,5.7,2.08
+442,"What is the distance between ""Native Plant Nursery"" and ""Ape Do Good Printing"" in the San Francisco area?",A,9.16,16.73,16.97,14.03
+443,"What is the distance between ""Golden King Vietnamese Restaurant"" and ""YMCA"" in the San Francisco area?",B,3.12,9.42,7.46,17.4
+444,"What is the distance between ""Dahlia Garden"" and ""Young Men's Christian Association Chinese Building"" in the San Francisco area?",D,9.94,3.41,2.33,5.14
+445,"What is the distance between ""Post & Parcel"" and ""Superior Palace"" in the San Francisco area?",D,12.84,10.48,12.45,8.93
+446,"What is the distance between ""Midtown Terrace Park and Sutro Recreation Center"" and ""Pierre's Auto Body"" in the San Francisco area?",A,1.82,2.98,3.96,8.67
+447,"What is the distance between ""Maltby Electric Supply Co., Inc."" and ""Kanbar Center"" in the San Francisco area?",B,2.25,1.25,8.22,5.04
+448,"What is the distance between ""YMCA"" and ""San Francisco Community Alternative School"" in the San Francisco area?",B,8.34,3.94,10.92,6.6
+449,"What is the distance between ""Mary Ellen Pleasant Memorial Park"" and ""Boudin Bakery & Museum"" in the San Francisco area?",C,4.99,7.5,2.56,8.26

@@ -1,0 +1,856 @@
+id,question,answer,A,B,C,D
+0,"In the Rome area, which road directly reaches Lungotevere degli Altoviti?",C,Via di Grotta di Gregna,Piazza di Porta San Giovanni,Piazza di Ponte Umberto Primo,Lungotevere dei Sangallo
+1,"In the Rome area, which road cannot directly reach Piazza di Ponte Umberto Primo?",B,Piazza dei Tribunali,Viale Umberto Tupini,Lungotevere degli Altoviti,Piazza del Porto di Ripetta
+2,"In the Rome area, which road cannot directly reach Via dei Gracchi?",C,Piazza della Libertà,Lungotevere Michelangelo,Via Ulisse Aldrovandi,Via Virginio Orsini
+3,"In the Rome area, which road cannot directly reach Lungotevere Michelangelo?",C,Via dei Gracchi,Lungotevere Arnaldo da Brescia,Piazzale Prenestino,Piazza della Libertà
+4,"In the Rome area, which road directly reaches Via Ruggero di Lauria?",C,Via Girolamo Induno,Via dei Gordiani,Via Candia,Via Cicladi
+5,"In the Rome area, which road directly reaches Via Francesco Caracciolo?",D,Via Gregorio Undicesimo,Piazzale Labicano,Via del Forte Bravetta,Via Ruggero di Lauria
+6,"In the Rome area, which road cannot directly reach Piazza di Porta San Giovanni?",C,Piazza di Santa Croce in Gerusalemme,Piazza di San Giovanni in Laterano,Piazza dei Giureconsulti,Via Magnagrecia
+7,"In the Rome area, which road cannot directly reach Piazzale Appio?",D,Via Faleria,Via Magnagrecia,Via Appia Nuova,Via Dessiè
+8,"In the Rome area, which road cannot directly reach Via Cavour?",B,Piazza dell'Esquilino,Via Col di Rezia,Via Farini,Via degli Annibaldi
+9,"In the Rome area, which road directly reaches Via degli Annibaldi?",D,Via Quirino Majorana,Via Temistocle Calzecchi Onesti,Corso Vittorio Emanuele Secondo,Via Cavour
+10,"In the Rome area, which road cannot directly reach Viale dello Scalo San Lorenzo?",C,Largo Settimio Passamonti,Piazzale Labicano,Via Nicaragua,Via dei Reti
+11,"In the Rome area, which road directly reaches Largo Settimio Passamonti?",C,Via Val Maira,Piazza Istria,Piazza di Porta Maggiore,Lungotevere Federico Fellini
+12,"In the Rome area, which road cannot directly reach Via Marmorata?",C,Piazza di Porta San Paolo,Piazzale Ostiense,Via Damiano Chiesa,Via Galvani
+13,"In the Rome area, which road cannot directly reach Piazzale Ostiense?",C,Via Marmorata,Viale Marco Polo,Piazza Acilia,Via Ostiense
+14,"In the Rome area, which road directly reaches Via Adriano Fiori?",A,Viale Kant,Via Collatina Vecchia,Via delle Sette Chiese,Viale delle Mura Latine
+15,"In the Rome area, which road directly reaches Via Michelangelo Tilli?",C,Via Val di Lanzo,Via di San Sebastiano,Via Adriano Fiori,Via Mario Fani
+16,"In the Rome area, which road directly reaches Piazzale Giulio Douhet?",B,Via dei Faggi,Viale dell'Aeronautica,Piazza di San Pancrazio,Viale Marco Polo
+17,"In the Rome area, which road directly reaches Viale dell'Aeronautica?",A,Viale dell'Arte,Via Girolamo Induno,Piazza di Santa Croce in Gerusalemme,Piazza Barcellona
+18,"In the Rome area, which road cannot directly reach Piazza della Rovere?",D,Sottovia Lungotevere in Sassia,Lungotevere in Sassia,Via del Gianicolo,Via di Porta San Sebastiano
+19,"In the Rome area, which road directly reaches Lungotevere in Sassia?",C,Viale Ventuno Aprile,Via del Castro Laurenziano,Piazza della Rovere,Via dell'Esquilino
+20,"In the Rome area, which road cannot directly reach Via Latina?",C,Via Cilicia,Via Talamone,Piazza dei Tribunali,Via Acaia
+21,"In the Rome area, which road directly reaches Via Cameria?",B,Viale Tirreno,Viale delle Mura Latine,Via Faleria,Lungotevere delle Armi
+22,"In the Rome area, which road cannot directly reach Viale Leonardo da Vinci?",A,Via Generale Roberto Bencivenga,Via Giovannipoli,Largo Leonardo da Vinci,Via delle Sette Chiese
+23,"In the Rome area, which road cannot directly reach Via delle Sette Chiese?",A,Via Vittorio Montiglio,Via Cristoforo Colombo,Via Ostiense,Via Ardeatina
+24,"In the Rome area, which road directly reaches Piazza del Lavoro?",A,Via Cristoforo Colombo,Via Odoardo Beccari,Via Ruggero di Lauria,Viale della Serenissima
+25,"In the Rome area, which road cannot directly reach Via Cristoforo Colombo?",A,Via delle Vigne Nuove,Via Giovanni Genocchi,Piazza Guglielmo Marconi,Piazza del Lavoro
+26,"In the Rome area, which road cannot directly reach Viale di Porta Ardeatina?",C,Via Appia Antica,Viale delle Terme di Caracalla,Via Cesare De Lollis,Via Cristoforo Colombo
+27,"In the Rome area, which road cannot directly reach Viale delle Terme di Caracalla?",C,Viale Guido Baccelli,Via Cristoforo Colombo,Via Talamone,Via Odoardo Beccari
+28,"In the Rome area, which road cannot directly reach Viale Giustiniano Imperatore?",C,Via Cristoforo Colombo,Via Alessandro Severo,Via Albenga,Largo Leonardo da Vinci
+29,"In the Rome area, which road directly reaches Via Tito?",A,Via Cristoforo Colombo,Viale Giovanni Falcone e Paolo Borsellino,Via Tripoli,Piazza del Risorgimento
+30,"In the Rome area, which road directly reaches Largo Enea Bortolotti?",B,Viale Vaticano,Viale Guglielmo Marconi,Via Appia Nuova,Via di Porta Cavalleggeri
+31,"In the Rome area, which road cannot directly reach Viale Guglielmo Marconi?",B,Lungotevere di Pietra Papa,Viale Egidio Galbani,Via Temistocle Calzecchi Onesti,Via Cristoforo Colombo
+32,"In the Rome area, which road directly reaches Via dei Caduti Senza Croce?",A,Via Ostiense,Lungotevere Federico Fellini,Ponte Palatino,Piazza dei Cinquecento
+33,"In the Rome area, which road cannot directly reach Viale Tiziano?",C,Piazzale delle Belle Arti,Via Enrico Chiaradia,Via Marmorata,Viale Maresciallo Pilsudski
+34,"In the Rome area, which road cannot directly reach Piazzale delle Belle Arti?",C,Viale Tiziano,Lungotevere delle Navi,Via Cassia Nuova,Viale Bruno Buozzi
+35,"In the Rome area, which road cannot directly reach Piazza della Libertà?",D,Lungotevere Michelangelo,Via dei Gracchi,Ponte Regina Margherita,Via del Foro Italico
+36,"In the Rome area, which road directly reaches Piazza dei Tribunali?",C,Via Attilio Regolo,Via Cilicia,Lungotevere dei Mellini,Piazza della Stazione Prenestina
+37,"In the Rome area, which road directly reaches Lungotevere dei Mellini?",B,Piazza Barcellona,Piazza dei Tribunali,Via Cesare Frugoni,Via Benedetto Quattordicesimo
+38,"In the Rome area, which road cannot directly reach Via Venti Settembre?",D,Piazza delle Finanze,Corso d'Italia,Largo di Santa Susanna,Piazzale Giulio Douhet
+39,"In the Rome area, which road cannot directly reach Largo di Santa Susanna?",C,Via Leonida Bissolati,Via Barberini,Via Arduino,Via Venti Settembre
+40,"In the Rome area, which road cannot directly reach Via del Mandrione?",A,Via di Porta San Lorenzo,Via Tuscolana,Via Casilina,Salita del Mandrione
+41,"In the Rome area, which road cannot directly reach Via Casilina?",D,Via delle Camelie,Piazza del Pigneto,Via Gallarate,Via degli Orti della Farnesina
+42,"In the Rome area, which road cannot directly reach Via di San Marco?",A,Lungotevere Guglielmo Oberdan,Via Florida,Piazza del Gesù,Via del Teatro di Marcello
+43,"In the Rome area, which road cannot directly reach Via del Teatro di Marcello?",C,Via Luigi Petroselli,Piazza d'Aracoeli,Corso d'Italia,Via di San Marco
+44,"In the Rome area, which road cannot directly reach Via Giulio Aristide Sartorio?",C,Piazza Lorenzo Lotto,Via Ardeatina,Viale Manlio Gelsomini,Viale di Tor Marancia
+45,"In the Rome area, which road cannot directly reach Piazza Lorenzo Lotto?",B,Viale del Caravaggio,Via Val Brembana,Via Giulio Aristide Sartorio,Viale di Tor Marancia
+46,"In the Rome area, which road cannot directly reach Viale di Tor Marancia?",B,Piazza Elio Rufino,Via Marmorata,Via Giulio Aristide Sartorio,Via Cristoforo Colombo
+47,"In the Rome area, which road cannot directly reach Via Giacinto Carini?",A,Vicolo della Basilica,Via Fratelli Bonnet,Via Oreste Regnoli,Via Carlo Bontemps
+48,"In the Rome area, which road directly reaches Via Oreste Regnoli?",B,Via Nola,Viale dei Quattro Venti,Piazza della Bocca della Verità,Via Luisa di Savoia
+49,"In the Rome area, which road directly reaches Via Bartolo da Sassoferrato?",A,Via Aurelia,Via dei Prati Fiscali,Via delle Tre Fontane,Viale di Tor Marancia
+50,"In the Rome area, which road cannot directly reach Via Aurelia?",C,Via di Boccea,Via Agostino Richelmy,Via Emanuele Filiberto,Via Baldo degli Ubaldi
+51,"In the Rome area, which road directly reaches Via Milano?",D,Via Fabio Massimo,Piazza di Cinecittà,Via Trionfale,Via del Tritone
+52,"In the Rome area, which road cannot directly reach Via del Tritone?",C,Piazza Barberini,Via Sistina,Piazza Eugenio Biffi,Via Milano
+53,"In the Rome area, which road directly reaches Via Filippo Parlatore?",D,Via delle Sette Chiese,Lungotevere dei Pierleoni,Via Galla Placidia,Largo Girolamo Cocconi
+54,"In the Rome area, which road directly reaches Largo Girolamo Cocconi?",C,Via Frascati,Largo di Santa Susanna,Via Vincenzo Cesati,Piazza di Porta Capena
+55,"In the Rome area, which road directly reaches Passeggiata del Gianicolo?",A,Via Garibaldi,Via dei Ramni,Via Alessandro Vessella,Piazza Pia
+56,"In the Rome area, which road directly reaches Via Garibaldi?",B,Piazza del Colosseo,Viale delle Mura Gianicolensi,Via della Magliana,Lungotevere Raffaello Sanzio
+57,"In the Rome area, which road cannot directly reach Lungotevere Arnaldo da Brescia?",B,Ponte Regina Margherita,Passeggiata del Gianicolo,Lungotevere Michelangelo,Lungotevere in Augusta
+58,"In the Rome area, which road directly reaches Via Luisa di Savoia?",C,Viale del Pattinaggio,Viale Manzoni,Lungotevere Arnaldo da Brescia,Piazza di Porta San Paolo
+59,"In the Rome area, which road directly reaches Via Vincenzo Cesati?",B,Piazza Barberini,Via Girolamo Cocconi,Via Val Maira,Piazzale delle Belle Arti
+60,"In the Rome area, which road directly reaches Via Sergio Primo?",B,Via Monselice,Galleria Principe Amedeo Savoia - Aosta,Piazza del Gesù,Via del Foro Olitorio
+61,"In the Rome area, which road directly reaches Galleria Principe Amedeo Savoia - Aosta?",A,Via Sergio Primo,Via Don Orione,Via Luigi Zambarelli,Via Stelvio
+62,"In the Rome area, which road cannot directly reach Via Ostiense?",C,Via del Gazometro,Viale Giustiniano Imperatore,Via Ardeatina,Via dei Caduti Senza Croce
+63,"In the Rome area, which road cannot directly reach Via Quirino Majorana?",A,Via Bernardino Telesio,Circonvallazione Gianicolense,Via Oderisi da Gubbio,Via Portuense
+64,"In the Rome area, which road cannot directly reach Via Portuense?",C,Via del Trullo,Via di Pozzo Pantaleo,Piazzale Labicano,Via Bernardino Ramazzini
+65,"In the Rome area, which road cannot directly reach Circonvallazione Tuscolana?",A,Via di Porta Pertusa,Viale Anicio Gallo,Viale Spartaco,Viale Tito Labieno
+66,"In the Rome area, which road cannot directly reach Viale Anicio Gallo?",A,Via Maiella,Via del Quadraro,Viale Spartaco,Circonvallazione Tuscolana
+67,"In the Rome area, which road cannot directly reach Via Giuseppe Spina?",A,Via Cipriano Facchinetti,Largo Cardinal Domenico Ferrata,Via Leone Tredicesimo,Via Aurelia Antica
+68,"In the Rome area, which road cannot directly reach Via Leone Tredicesimo?",C,Via Giuseppe Spina,Via del Forte Bravetta,Via Giacomo Puccini,Via Vitellia
+69,"In the Rome area, which road cannot directly reach Via Anastasio Secondo?",A,Via del Teatro di Marcello,Via Pietro Ciriaci,Via Giacinto de Vecchi Pieralice,Viale degli Ammiragli
+70,"In the Rome area, which road cannot directly reach Via Pietro Ciriaci?",D,Via Anastasio Secondo,Via Agostino Richelmy,Via Aurelia,Via del Teatro di Marcello
+71,"In the Rome area, which road directly reaches Largo Alessandro Vessella?",A,Via Alfredo Catalani,Piazza Epiro,Piazzetta del Bel Respiro,Viale dell'Oceano Indiano
+72,"In the Rome area, which road cannot directly reach Via Alessandro Vessella?",B,Via Alfredo Catalani,Via della Pineta Sacchetti,Viale Somalia,Largo Alessandro Vessella
+73,"In the Rome area, which road cannot directly reach Via Alfredo Catalani?",B,Via Salaria,Largo di Porta San Pancrazio,Largo Alessandro Vessella,Via Prato della Signora
+74,"In the Rome area, which road cannot directly reach Viale di Trastevere?",B,Viale Glorioso,Via Ardeatina,Via Carlo Porta,Via Carlo Tavolacci
+75,"In the Rome area, which road directly reaches Via Carlo Porta?",C,Piazza di Porta Capena,Largo Enea Bortolotti,Via Ettore Rolli,Via Acaia
+76,"In the Rome area, which road cannot directly reach Viale America?",D,Viale dell'Arte,Via Cristoforo Colombo,Viale Umberto Tupini,Via di Torrevecchia
+77,"In the Rome area, which road cannot directly reach Viale Beethoven?",B,Viale America,Viale dello Stadio Olimpico,Viale Europa,Viale della Civiltà del Lavoro
+78,"In the Rome area, which road directly reaches Viale della Civiltà del Lavoro?",C,Via degli Orti di Cesare,Via Ignazio Pettinengo,Via Cristoforo Colombo,Via Salvino Sernesi
+79,"In the Rome area, which road directly reaches Via Mocenigo?",A,Via Candia,Via Nazionale,Via dell'Esquilino,Viale Parioli
+80,"In the Rome area, which road cannot directly reach Via Candia?",A,Via Carlo Tavolacci,Via Mocenigo,Via Leone Quarto,Via Santamaura
+81,"In the Rome area, which road directly reaches Via della Stazione Ostiense?",B,Piazzale Don Giovanni Minzoni,Piazzale dei Partigiani,Via Giovanni Barracco,Piazzale Clodio
+82,"In the Rome area, which road directly reaches Piazzale dei Partigiani?",C,Piazza di Porta San Paolo,Piazza Cavour,Viale Marco Polo,Via del Circo Massimo
+83,"In the Rome area, which road cannot directly reach Via Maddaloni?",C,Via Teano,Via di Acqua Bullicante,Piazza dell'Indipendenza,Piazza della Marranella
+84,"In the Rome area, which road cannot directly reach Via Teano?",D,Via Maddaloni,Via Anagni,Via dei Gordiani,Via Farini
+85,"In the Rome area, which road cannot directly reach Via Tiburtina?",D,Via della Lega Lombarda,Via dei Reti,Via Galla Placidia,Via Simone Mosca
+86,"In the Rome area, which road cannot directly reach Via Cipriano Facchinetti?",A,Piazza San Giovanni di Dio,Via Riccardo Zampieri,Via Tiburtina,Piazza Riccardo Balsamo Crivelli
+87,"In the Rome area, which road directly reaches Via Val Maira?",B,Via Aldo Manuzio,Via dei Prati Fiscali,Via delle Sette Chiese,Via Pietro Ciriaci
+88,"In the Rome area, which road cannot directly reach Via dei Prati Fiscali?",A,Viale del Muro Torto,Via Val Maira,Via Cavriglia,Via Salaria
+89,"In the Rome area, which road cannot directly reach Via Salaria?",B,Viale Liegi,Via Populonia,Via Ruggero Giovannelli,Via dei Prati Fiscali
+90,"In the Rome area, which road cannot directly reach Circonvallazione Casilina?",D,Via Casilina,Via L'Aquila,Via Prenestina,Via Nicolò Piccolomini
+91,"In the Rome area, which road cannot directly reach Viale Jonio?",B,Via dei Prati Fiscali,Via Filippo Civinini,Via della Cecchina,Viale Pantelleria
+92,"In the Rome area, which road directly reaches Via Lampedusa?",A,Viale Jonio,Piazzale Don Giovanni Minzoni,Via Nazionale,Via Cola di Rienzo
+93,"In the Rome area, which road directly reaches Via Camesena?",B,Viale Beethoven,Via Beniamino Andreatta,Via di Bravetta,Via Collatina Vecchia
+94,"In the Rome area, which road cannot directly reach Viale Tirreno?",A,Via Emanuele Filiberto,Corso Sempione,Via Nomentana,Viale Pantelleria
+95,"In the Rome area, which road directly reaches Via Martana?",A,Viale Tirreno,Piazzale Metronio,Lungotevere Federico Fellini,Piazza Albania
+96,"In the Rome area, which road directly reaches Piazza Pia?",B,Lungotevere di Pietra Papa,Piazza Adriana,Via Lorenzo il Magnifico,Via dello Statuto
+97,"In the Rome area, which road directly reaches Borgo Sant'Angelo?",C,Via Luigi Canina,Via Nairobi,Via di Porta Castello,Via dei Campi Sportivi
+98,"In the Rome area, which road directly reaches Via Giovanni Barracco?",D,Viale Beethoven,Via Satrico,Piazza Vittorio Emanuele Secondo,Viale Ventuno Aprile
+99,"In the Rome area, which road directly reaches Largo Rodolfo Lanciani?",D,Piazza Venezia,Via Emanuele Filiberto,Sottovia Lungotevere in Sassia,Via dei Monti Tiburtini
+100,"In the Rome area, which road cannot directly reach Via Trionfale?",C,Via Igea,Via di Torrevecchia,Viale Regina Elena,Via Bernardino Telesio
+101,"In the Rome area, which road cannot directly reach Circonvallazione Clodia?",C,Piazzale Clodio,Circonvallazione Trionfale,Via Quinto Publicio,Largo Trionfale
+102,"In the Rome area, which road cannot directly reach Circonvallazione Trionfale?",B,Viale delle Medaglie d'Oro,Via Carlo Porta,Circonvallazione Clodia,Piazzale degli Eroi
+103,"In the Rome area, which road cannot directly reach Via Andrea Doria?",B,Via Leone Quarto,Via Luigi Zambarelli,Piazzale degli Eroi,Circonvallazione Trionfale
+104,"In the Rome area, which road cannot directly reach Viale delle Medaglie d'Oro?",C,Via Marziale,Via Mario Romagnoli,Piazzale Sisto V,Circonvallazione Trionfale
+105,"In the Rome area, which road cannot directly reach Piazzale degli Eroi?",A,Viale Parioli,Via Cipro,Circonvallazione Trionfale,Via Vittor Pisani
+106,"In the Rome area, which road cannot directly reach Via dello Statuto?",C,Largo Brancaccio,Piazza Vittorio Emanuele Secondo,Piazza Adriana,Via Merulana
+107,"In the Rome area, which road cannot directly reach Largo Brancaccio?",D,Via Cavour,Via Merulana,Via dello Statuto,Via Virgilio
+108,"In the Rome area, which road cannot directly reach Via Merulana?",D,Largo Brancaccio,Via Liberiana,Via Labicana,Via Tagliamento
+109,"In the Rome area, which road cannot directly reach Via Conte Verde?",B,Piazza Vittorio Emanuele Secondo,Piazza Santa Maria della Pietà,Via di Santa Croce in Gerusalemme,Viale Manzoni
+110,"In the Rome area, which road cannot directly reach Viale Manzoni?",B,Via Giovanni Giolitti,Piazza Albania,Via Principe Eugenio,Sottopasso Turbigo
+111,"In the Rome area, which road cannot directly reach Via di Santa Croce in Gerusalemme?",B,Via Statilia,Via del Circo Massimo,Via Eleniana,Piazza di Santa Croce in Gerusalemme
+112,"In the Rome area, which road cannot directly reach Via Nomentana?",B,Viale Tirreno,Piazza Lauro de Bosis,Viale Ventuno Aprile,Via Alessandro Torlonia
+113,"In the Rome area, which road cannot directly reach Via Arturo Graf?",B,Viale Kant,Via di Villa Bonelli,Via Ugo Ojetti,Via Nomentana
+114,"In the Rome area, which road cannot directly reach Viale Kant?",D,Via Arturo Graf,Via Nomentana,Via Spinoza,Via Ostiense
+115,"In the Rome area, which road cannot directly reach Viale Ferdinando Baldelli?",A,Via Marcello Provenzale,Viale di San Paolo,Via Temistocle Calzecchi Onesti,Via Tullio Levi Civita
+116,"In the Rome area, which road cannot directly reach Viale di San Paolo?",A,Viale Anicio Gallo,Lungotevere di San Paolo,Viale Ferdinando Baldelli,Via Tullio Levi Civita
+117,"In the Rome area, which road cannot directly reach Via Temistocle Calzecchi Onesti?",B,Viale Guglielmo Marconi,Via Saverio Mercadante,Viale di San Paolo,Via Tullio Levi Civita
+118,"In the Rome area, which road cannot directly reach Via Tullio Levi Civita?",B,Via Temistocle Calzecchi Onesti,Via Florida,Viale di San Paolo,Viale Ferdinando Baldelli
+119,"In the Rome area, which road cannot directly reach Via Prenestina?",D,Via Ettore Fieramosca,Circonvallazione Casilina,Via di Portonaccio,Via Pietro Lupi
+120,"In the Rome area, which road cannot directly reach Via Tor de' Schiavi?",D,Via dei Faggi,Viale della Primavera,Viale della Serenissima,Via delle Isole Curzolane
+121,"In the Rome area, which road cannot directly reach Viale della Serenissima?",D,Via Prenestina,Via Tor de' Schiavi,Viale della Venezia Giulia,Via Lampedusa
+122,"In the Rome area, which road cannot directly reach Via del Porto Fluviale?",D,Via Antonio Pacinotti,Via Ostiense,Via Girolamo Benzoni,Via di Donna Olimpia
+123,"In the Rome area, which road cannot directly reach Via Girolamo Benzoni?",B,Circonvallazione Ostiense,Via Igino Giordani,Via Giacinto Pullino,Largo Angelo Fochetti
+124,"In the Rome area, which road cannot directly reach Viale Regina Margherita?",C,Viale Liegi,Viale del Policlinico,Via Quattro Novembre,Via Po
+125,"In the Rome area, which road cannot directly reach Viale Liegi?",A,Via Ennio Bonifazi,Via Vincenzo Bellini,Via Salaria,Piazza Ungheria
+126,"In the Rome area, which road cannot directly reach Viale delle Mura Latine?",C,Via Cameria,Viale delle Terme di Caracalla,Circonvallazione Tiburtina,Via Druso
+127,"In the Rome area, which road cannot directly reach Via Druso?",C,Largo dell'Amba Aradam,Via della Navicella,Via Virginio Orsini,Viale delle Terme di Caracalla
+128,"In the Rome area, which road cannot directly reach Viale Somalia?",C,Viale Libia,Via delle Valli,Via Riccardo Zampieri,Via Alessandro Vessella
+129,"In the Rome area, which road cannot directly reach Via delle Valli?",C,Viale Libia,Viale Etiopia,Piazza di Porta Maggiore,Piazza Conca d'Oro
+130,"In the Rome area, which road cannot directly reach Viale Libia?",C,Via delle Valli,Viale Somalia,Via della Madonna del Riposo,Piazza Istria
+131,"In the Rome area, which road cannot directly reach Viale Etiopia?",B,Viale Libia,Piazza Edoardo Persico,Via delle Valli,Via Tembien
+132,"In the Rome area, which road cannot directly reach Via Principe Eugenio?",C,Viale Manzoni,Piazza Vittorio Emanuele Secondo,Via dei Durantini,Via di Porta Maggiore
+133,"In the Rome area, which road cannot directly reach Via di Porta Maggiore?",D,Via Principe Eugenio,Piazza di Porta Maggiore,Viale Manzoni,Via del Foro Italico
+134,"In the Rome area, which road cannot directly reach Via di Bravetta?",C,Via Aurelia Antica,Via del Fosso di Bravetta,Via di Villa Betania,Via della Casetta Mattei
+135,"In the Rome area, which road directly reaches Via del Fosso di Bravetta?",C,Via della Ferratella in Laterano,Via Oderisi da Gubbio,Via di Bravetta,Via di Pietralata
+136,"In the Rome area, which road cannot directly reach Via Silvestri?",B,Via della Nocetta,Via Roberto Morra di Lavriano,Vicolo Silvestri,Via di Bravetta
+137,"In the Rome area, which road cannot directly reach Via del Gazometro?",C,Via delle Conce,Via Antonio Pacinotti,Via di Casal dei Pazzi,Via Ostiense
+138,"In the Rome area, which road cannot directly reach Via delle Conce?",D,Via del Porto Fluviale,Via del Gazometro,Via Antonio Pacinotti,Via Cerveteri
+139,"In the Rome area, which road cannot directly reach Via Antonio Pacinotti?",C,Piazza della Radio,Via Portuense,Via del Serafico,Via delle Conce
+140,"In the Rome area, which road cannot directly reach Piazzale di Porta Pia?",B,Via Venti Settembre,Via dei Gordiani,Sottovia Ignazio Guidi,Corso d'Italia
+141,"In the Rome area, which road cannot directly reach Viale del Policlinico?",B,Via Giovanni Battista Morgagni,Via dei Sommozzatori,Via Venti Settembre,Viale Regina Margherita
+142,"In the Rome area, which road cannot directly reach Corso d'Italia?",D,Via Pinciana,Piazza Fiume,Via Antonio Salandra,Via Britannia
+143,"In the Rome area, which road cannot directly reach Viale Regina Elena?",C,Viale del Policlinico,Piazzale del Verano,Viale delle Milizie,Via Giovanni Battista Morgagni
+144,"In the Rome area, which road cannot directly reach Via Giovanni Battista Morgagni?",B,Viale Regina Elena,Via del Castro Laurenziano,Viale del Policlinico,Viale Regina Margherita
+145,"In the Rome area, which road cannot directly reach Circonvallazione Aurelia?",A,Piazza Monte Grappa,Piazza di Villa Carpegna,Circonvallazione Cornelia,Via Aurelia
+146,"In the Rome area, which road cannot directly reach Circonvallazione Cornelia?",A,Via del Gianicolo,Via di Boccea,Largo di Boccea,Via Bartolo da Sassoferrato
+147,"In the Rome area, which road cannot directly reach Viale dell'Umanesimo?",B,Viale Umberto Tupini,Viale Pantelleria,Via Cristoforo Colombo,Viale dei Primati Sportivi
+148,"In the Rome area, which road cannot directly reach Via Nairobi?",D,Viale dell'Umanesimo,Piazzale dell'Umanesimo,Largo Sri Lanka,Via Santamaura
+149,"In the Rome area, which road directly reaches Piazzale dell'Umanesimo?",A,Via Nairobi,Via Fratelli Archibugi,Via Rodolfo Lanciani,Via di Torre Rossa
+150,"In the Rome area, which road cannot directly reach Piazzale Roberto Ardigò?",D,Via di Grotta Perfetta,Via Attilio Ambrosini,Via Laurentina,Viale Spartaco
+151,"In the Rome area, which road cannot directly reach Via di Grotta Perfetta?",B,Piazzale Roberto Ardigò,Via Oderisi da Gubbio,Viale del Tintoretto,Via Ardeatina
+152,"In the Rome area, which road cannot directly reach Via Attilio Ambrosini?",B,Via di Grotta Perfetta,Piazza Walter Rossi,Piazzale del Caravaggio,Via Accademia degli Agiati
+153,"In the Rome area, which road cannot directly reach Via dell'Arco di Travertino?",A,Via Ignazio Pettinengo,Via di Porta Furba,Via Appia Nuova,Via Tuscolana
+154,"In the Rome area, which road cannot directly reach Via di Porta Furba?",D,Via di Tor Pignattara,Salita del Mandrione,Via degli Angeli,Viale di San Paolo
+155,"In the Rome area, which road cannot directly reach Via Tuscolana?",C,Via dei Pisoni,Via dell'Arco di Travertino,Largo Domenico De Dominicis,Viale Tito Labieno
+156,"In the Rome area, which road cannot directly reach Viale Palmiro Togliatti?",B,Via Papiria,Via Portuense,Viale dei Romanisti,Circonvallazione Tuscolana
+157,"In the Rome area, which road cannot directly reach Piazza di Cinecittà?",C,Circonvallazione Tuscolana,Via Orazio Pulvillo,Via Pietro Maffi,Viale Tito Labieno
+158,"In the Rome area, which road cannot directly reach Largo Damiano Chiesa?",B,Via Attilio Friggeri,Via Tuscolana,Via Damiano Chiesa,Via Ugo De Carolis
+159,"In the Rome area, which road cannot directly reach Via Attilio Friggeri?",C,Largo Damiano Chiesa,Via della Balduina,Circonvallazione Trionfale,Via Ugo De Carolis
+160,"In the Rome area, which road cannot directly reach Via Ugo De Carolis?",B,Via della Balduina,Viale Giovanni Falcone e Paolo Borsellino,Via Attilio Friggeri,Largo Damiano Chiesa
+161,"In the Rome area, which road cannot directly reach Via Tagliamento?",D,Via Po,Via Chiana,Via Sebino,Piazza Gondar
+162,"In the Rome area, which road cannot directly reach Via Chiana?",C,Via Panama,Via Sebino,Via di Casal Boccone,Via Salaria
+163,"In the Rome area, which road cannot directly reach Via Sebino?",A,Via dell'Esquilino,Via Chiana,Piazza Verbano,Via Tagliamento
+164,"In the Rome area, which road cannot directly reach Via Girolamo Cocconi?",C,Via Vincenzo Cesati,Via Collatina,Via Veturia,Via Prenestina
+165,"In the Rome area, which road cannot directly reach Via Collatina?",D,Via Girolamo Cocconi,Via di Grotta di Gregna,Viale della Venezia Giulia,Piazza Bartolomeo Gastaldi
+166,"In the Rome area, which road cannot directly reach Circonvallazione Gianicolense?",D,Piazzale Enrico Dunant,Via Bernardino Ramazzini,Via del Casaletto,Via Vittorio Emanuele Orlando
+167,"In the Rome area, which road cannot directly reach Piazza San Giovanni di Dio?",A,Piazza della Bocca della Verità,Via Federico Ozanam,Via di Val Tellina,Circonvallazione Gianicolense
+168,"In the Rome area, which road cannot directly reach Via di Val Tellina?",C,Via Federico Ozanam,Via Bernardino Ramazzini,Viale Manzoni,Circonvallazione Gianicolense
+169,"In the Rome area, which road cannot directly reach Via Federico Ozanam?",B,Piazza San Giovanni di Dio,Via del Serafico,Circonvallazione Gianicolense,Via di Val Tellina
+170,"In the Rome area, which road cannot directly reach Via di Tor Pignattara?",C,Piazza della Marranella,Via Casilina,Via Sassi di San Giuliano,Via di Porta Furba
+171,"In the Rome area, which road cannot directly reach Piazza della Marranella?",C,Via di Tor Pignattara,Via Casilina,Salita del Mandrione,Via Maddaloni
+172,"In the Rome area, which road directly reaches Via Filomusi Guelfi?",B,Largo Magnanapoli,Viale Palmiro Togliatti,Via di Pietralata,Viale dell'Università
+173,"In the Rome area, which road cannot directly reach Via Papiria?",D,Via Filomusi Guelfi,Via di Centocelle,Viale Palmiro Togliatti,Via Ravenna
+174,"In the Rome area, which road cannot directly reach Viale Tito Labieno?",A,Viale Giovanni Falcone e Paolo Borsellino,Via Tuscolana,Via Orazio Pulvillo,Circonvallazione Tuscolana
+175,"In the Rome area, which road cannot directly reach Via Orazio Pulvillo?",D,Via Tuscolana,Piazza Quinto Curzio,Piazza di Cinecittà,Via Marcello Provenzale
+176,"In the Rome area, which road cannot directly reach Via dei Castani?",D,Via delle Camelie,Piazza dei Castani,Piazza dei Mirti,Via Saverio Mercadante
+177,"In the Rome area, which road cannot directly reach Piazza dei Castani?",C,Piazza dei Gerani,Via dei Faggi,Viale Europa,Via dei Castani
+178,"In the Rome area, which road cannot directly reach Via dei Faggi?",A,Via Giovanni Paisiello,Via Tor de' Schiavi,Piazza dei Castani,Via dei Sesami
+179,"In the Rome area, which road cannot directly reach Via Nemorense?",B,Via Tripoli,Viale Tiziano,Piazza Istria,Piazza Acilia
+180,"In the Rome area, which road cannot directly reach Via Tripoli?",B,Viale Libia,Via Attilio Regolo,Piazza Istria,Via Tembien
+181,"In the Rome area, which road cannot directly reach Piazza Istria?",D,Via Tripoli,Viale Eritrea,Corso Trieste,Lungotevere Grande Ammiraglio Thaon di Revel
+182,"In the Rome area, which road directly reaches Piazzetta del Bel Respiro?",B,Piazza Riccardo Balsamo Crivelli,Circonvallazione Gianicolense,Via Suor Celestina Donati,Via Appia Pignatelli
+183,"In the Rome area, which road cannot directly reach Viale dei Colli Portuensi?",C,Via dei Grottoni,Via Portuense,Piazzale dell'Umanesimo,Viale Isacco Newton
+184,"In the Rome area, which road directly reaches Via Virginia Agnelli?",B,Via Cola di Rienzo,Via Bernardino Ramazzini,Via della Magliana,Ponte del Risorgimento
+185,"In the Rome area, which road cannot directly reach Via Bernardino Ramazzini?",C,Via di Val Tellina,Circonvallazione Gianicolense,Via Uruguay,Via Portuense
+186,"In the Rome area, which road cannot directly reach Via Magnagrecia?",C,Via Gallia,Via Gabi,Viale del Policlinico,Via Soana
+187,"In the Rome area, which road cannot directly reach Via Gallia?",A,Piazza Bartolomeo Romano,Via Magnagrecia,Piazzale Metronio,Via Britannia
+188,"In the Rome area, which road cannot directly reach Via Soana?",A,Viale del Pattinaggio,Piazza Tarquinia,Via Britannia,Via Cerveteri
+189,"In the Rome area, which road cannot directly reach Via Britannia?",C,Via Magnagrecia,Via Gallia,Via Campania,Via Soana
+190,"In the Rome area, which road cannot directly reach Piazzale Clodio?",D,Viale Angelico,Lungotevere Guglielmo Oberdan,Circonvallazione Clodia,Viale dell'Agricoltura
+191,"In the Rome area, which road cannot directly reach Viale Giuseppe Mazzini?",A,Lungotevere Michelangelo,Viale dei Cavalieri di Vittorio Veneto,Piazzale Clodio,Viale Angelico
+192,"In the Rome area, which road cannot directly reach Viale dei Cavalieri di Vittorio Veneto?",A,Via del Foro Italico,Viale Giovanni Falcone e Paolo Borsellino,Viale Giuseppe Mazzini,Via Trionfale
+193,"In the Rome area, which road cannot directly reach Viale Europa?",C,Via Cristoforo Colombo,Piazza Barcellona,Via Gerardo Chiaromonte,Viale Beethoven
+194,"In the Rome area, which road cannot directly reach Piazza Irnerio?",B,Via Baldo degli Ubaldi,Via Emanuele Filiberto,Via Aurelia,Via di Boccea
+195,"In the Rome area, which road cannot directly reach Via Baldo degli Ubaldi?",B,Via Giacinto de Vecchi Pieralice,Via Prato della Signora,Piazza Irnerio,Via Angelo Emo
+196,"In the Rome area, which road cannot directly reach Via di Boccea?",B,Circonvallazione Cornelia,Via Igea,Via Gregorio Undicesimo,Via Aurelia
+197,"In the Rome area, which road cannot directly reach Lungotevere di Pietra Papa?",C,Piazza Enrico Fermi,Lungotevere degli Inventori,Via Angelo Emo,Viale Guglielmo Marconi
+198,"In the Rome area, which road cannot directly reach Piazza Enrico Fermi?",B,Via Francesco Grimaldi,Via Sassi di San Giuliano,Viale Guglielmo Marconi,Piazza della Radio
+199,"In the Rome area, which road cannot directly reach Lungotevere degli Inventori?",B,Piazza Antonio Meucci,Via Baldo degli Ubaldi,Piazza Enrico Fermi,Viale Guglielmo Marconi
+200,"In the Rome area, which road cannot directly reach Piazzale Enrico Dunant?",D,Viale dei Quattro Venti,Via di Donna Olimpia,Circonvallazione Gianicolense,Via del Gianicolo
+201,"In the Rome area, which road cannot directly reach Piazza dell'Esquilino?",A,Via Domenico Tardini,Via Cavour,Via dell'Esquilino,Via Agostino Depretis
+202,"In the Rome area, which road directly reaches Via dell'Esquilino?",A,Via Cavour,Largo Alessandro Caravillani,Sottopasso Turbigo,Piazza Conca d'Oro
+203,"In the Rome area, which road directly reaches Via del Forte Braschi?",A,Via Mattia Battistini,Via Antonio Stoppani,Via Cesare Spellanzon,Viale Liegi
+204,"In the Rome area, which road cannot directly reach Via Mattia Battistini?",D,Via di San Cleto Papa,Via Suor Celestina Donati,Via del Forte Braschi,Via Latina
+205,"In the Rome area, which road cannot directly reach Via di Portonaccio?",C,Via Latino Silvio,Via Prenestina,Via Ugo De Carolis,Largo Preneste
+206,"In the Rome area, which road cannot directly reach Largo Preneste?",B,Via Prenestina,Via Appia Pignatelli,Via di Acqua Bullicante,Via di Portonaccio
+207,"In the Rome area, which road cannot directly reach Via Giovanni Volpato?",B,Via Ettore Rolli,Via Arduino,Piazza della Radio,Via degli Orti di Cesare
+208,"In the Rome area, which road cannot directly reach Piazza della Radio?",D,Viale Guglielmo Marconi,Via Oderisi da Gubbio,Via Antonio Pacinotti,Via dei Ramni
+209,"In the Rome area, which road directly reaches Via di Casal Boccone?",A,Via Nomentana,Ponte Duca d'Aosta,Viale Paolo Boselli,Via della Madonna del Riposo
+210,"In the Rome area, which road directly reaches Via del Casale di San Basilio?",B,Piazzale delle Belle Arti,Via Nomentana,Largo di Porta San Pancrazio,Via Vincenzo Bellini
+211,"In the Rome area, which road cannot directly reach Viale Manlio Gelsomini?",D,Via Galvani,Piazza Albania,Piazza dell'Emporio,Via di Torrevecchia
+212,"In the Rome area, which road cannot directly reach Piazza dell'Emporio?",B,Via Galvani,Via Col di Rezia,Viale Manlio Gelsomini,Via Marmorata
+213,"In the Rome area, which road cannot directly reach Via Galvani?",A,Piazzale di Ponte Milvio,Via Marmorata,Piazza dell'Emporio,Viale Manlio Gelsomini
+214,"In the Rome area, which road cannot directly reach Viale Castro Pretorio?",A,Via Andrea Millevoi,Sottovia Ignazio Guidi,Viale dell'Università,Via del Castro Pretorio
+215,"In the Rome area, which road cannot directly reach Via del Castro Pretorio?",B,Viale Castro Pretorio,Via Luigi Petroselli,Viale dell'Università,Via Marsala
+216,"In the Rome area, which road cannot directly reach Viale dell'Università?",D,Piazzale del Verano,Viale Ippocrate,Via del Castro Laurenziano,Salita del Mandrione
+217,"In the Rome area, which road cannot directly reach Viale della Venezia Giulia?",C,Viale della Serenissima,Via Collatina,Largo Enzo Fioritto,Piazza della Stazione Prenestina
+218,"In the Rome area, which road cannot directly reach Via Po?",C,Viale Regina Margherita,Via Tagliamento,Via Faenza,Via Carlo Zecchi
+219,"In the Rome area, which road cannot directly reach Circonvallazione Ostiense?",C,Via Girolamo Benzoni,Via Cristoforo Colombo,Via di Pietralata,Largo Angelo Fochetti
+220,"In the Rome area, which road cannot directly reach Largo Angelo Fochetti?",B,Circonvallazione Ostiense,Piazza Monte Grappa,Via Giacinto Pullino,Via Girolamo Benzoni
+221,"In the Rome area, which road cannot directly reach Via Giacinto Pullino?",C,Largo Giovanni Ansaldo,Via Girolamo Benzoni,Viale Antonino di San Giuliano,Largo Angelo Fochetti
+222,"In the Rome area, which road cannot directly reach Via dei Durantini?",C,Via Tiburtina,Via dei Monti Tiburtini,Via Francesco Marconi,Via di Pietralata
+223,"In the Rome area, which road directly reaches Via dei Monti Tiburtini?",C,Via Accademia degli Agiati,Via Tor de' Schiavi,Via dei Durantini,Via Ruggero Giovannelli
+224,"In the Rome area, which road cannot directly reach Viale Ippocrate?",C,Piazzale delle Provincie,Viale dell'Università,Via Attilio Regolo,Viale Regina Margherita
+225,"In the Rome area, which road cannot directly reach Piazzale del Verano?",C,Viale Regina Margherita,Viale dell'Università,Via Stresa,Viale Regina Elena
+226,"In the Rome area, which road directly reaches Via Francesco Grimaldi?",B,Via Tito,Via Oderisi da Gubbio,Via Quinto Publicio,Piazzale dell'Acqua Acetosa
+227,"In the Rome area, which road cannot directly reach Via Oderisi da Gubbio?",A,Via Sebino,Via Quirino Majorana,Via Giuseppe Veronese,Via Francesco Grimaldi
+228,"In the Rome area, which road cannot directly reach Via Cerveteri?",B,Via Soana,Corso Vittorio Emanuele II,Piazza dei Re di Roma,Piazza Tarquinia
+229,"In the Rome area, which road cannot directly reach Piazza Tarquinia?",B,Via Soana,Via Giovanni Volpato,Via Ceneda,Via Cerveteri
+230,"In the Rome area, which road cannot directly reach Via Ugo Ojetti?",B,Piazza Pier Carlo Talenti,Viale Altiero Spinelli,Via Arturo Graf,Via Luigi Capuana
+231,"In the Rome area, which road cannot directly reach Via dei Grottoni?",D,Via della Magliana Nuova,Viale dei Colli Portuensi,Via Portuense,Viale Tirreno
+232,"In the Rome area, which road cannot directly reach Piazza Adriana?",C,Via Triboniano,Piazza Pia,Viale Marx,Via Crescenzio
+233,"In the Rome area, which road directly reaches Via Triboniano?",D,Via Alfonso Torelli,Via di Torre Rossa,Piazza del Risorgimento,Via Crescenzio
+234,"In the Rome area, which road cannot directly reach Via Crescenzio?",D,Piazza Cola di Rienzo,Via Triboniano,Via Terenzio,Via dell'Ippodromo di Tor di Valle
+235,"In the Rome area, which road cannot directly reach Piazza di Porta Capena?",A,Via Lazzaro Spallanzani,Via della Navicella,Largo delle Vittime del Terrorismo,Viale Guido Baccelli
+236,"In the Rome area, which road cannot directly reach Viale Aventino?",D,Piazza di Porta Capena,Via Celio Vibenna,Via del Circo Massimo,Largo Trionfale
+237,"In the Rome area, which road directly reaches Via Celio Vibenna?",D,Largo Nicola Spinelli,Via Enrico Chiaradia,Via Virginio Orsini,Viale Aventino
+238,"In the Rome area, which road cannot directly reach Via Vitellia?",B,Via Pio Foà,Viale Isacco Newton,Via del Forte Bravetta,Via di Donna Olimpia
+239,"In the Rome area, which road cannot directly reach Via Ottavio Gasparri?",B,Via Leone Tredicesimo,Via Luigi Roncinotto,Via Vitellia,Via del Forte Bravetta
+240,"In the Rome area, which road cannot directly reach Via del Forte Bravetta?",A,Largo Valtournanche,Via Ottavio Gasparri,Via Leone Tredicesimo,Via Silvestri
+241,"In the Rome area, which road cannot directly reach Via Abate Ugone?",B,Piazza di San Pancrazio,Largo Girolamo Cocconi,Piazza di Donna Olimpia,Via di Donna Olimpia
+242,"In the Rome area, which road cannot directly reach Via di Donna Olimpia?",D,Via Vitellia,Piazzale Enrico Dunant,Via Abate Ugone,Piazza Lodi
+243,"In the Rome area, which road cannot directly reach Piazza di Donna Olimpia?",A,Viale dell'Oceano Pacifico,Via di Donna Olimpia,Via Federico Ozanam,Via Abate Ugone
+244,"In the Rome area, which road cannot directly reach Piazza dei Giuochi Delfici?",C,Via di Vigna Stelluti,Via Cassia,Viale Palmiro Togliatti,Via della Camilluccia
+245,"In the Rome area, which road cannot directly reach Via della Camilluccia?",A,Largo Enzo Fioritto,Via Edmondo De Amicis,Via dei Colli della Farnesina,Piazza dei Giuochi Delfici
+246,"In the Rome area, which road cannot directly reach Via La Spezia?",B,Piazza Lodi,Piazza Barberini,Via Acireale,Via Nola
+247,"In the Rome area, which road cannot directly reach Via Monza?",A,Via Arenula,Via Taranto,Via La Spezia,Via Aosta
+248,"In the Rome area, which road cannot directly reach Via Nola?",A,Viale dell'Agricoltura,Viale Castrense,Via Monza,Via La Spezia
+249,"In the Rome area, which road cannot directly reach Via Appia Pignatelli?",D,Via Appia Nuova,Via dell'Almone,Via Erode Attico,Piazzale Prenestino
+250,"In the Rome area, which road cannot directly reach Via Erode Attico?",C,Via Appia Pignatelli,Via Ardeatina,Largo di Porta San Pancrazio,Via di Tor Carbone
+251,"In the Rome area, which road cannot directly reach Via Gregorio Settimo?",D,Piazza Pio Undicesimo,Via Leone Tredicesimo,Piazza di Villa Carpegna,Piazzale Giuseppe Garibaldi
+252,"In the Rome area, which road cannot directly reach Piazza Pio Undicesimo?",C,Via Anastasio Secondo,Via di Porta Cavalleggeri,Via Vincenzo Bellini,Via Gregorio Settimo
+253,"In the Rome area, which road cannot directly reach Via Luigi Settembrini?",A,Via Pasquale Baffi,Ponte Giacomo Matteotti,Lungotevere delle Armi,Piazza delle Cinque Giornate
+254,"In the Rome area, which road cannot directly reach Piazza delle Cinque Giornate?",D,Via Lepanto,Via Luigi Settembrini,Piazza Giuseppe Mazzini,Viale Tiziano
+255,"In the Rome area, which road cannot directly reach Lungotevere delle Armi?",B,Via Luigi Settembrini,Piazza Enrico Fermi,Ponte Giacomo Matteotti,Piazza delle Cinque Giornate
+256,"In the Rome area, which road cannot directly reach Ponte Giacomo Matteotti?",A,Via Pastrengo,Via Luigi Settembrini,Piazza delle Cinque Giornate,Lungotevere delle Armi
+257,"In the Rome area, which road cannot directly reach Viale Parioli?",A,Via di Villa Severini,Piazza Ungheria,Viale della Moschea,Via Antonio Stoppani
+258,"In the Rome area, which road cannot directly reach Piazza Ungheria?",C,Via Antonio Bertoloni,Viale Parioli,Corso Sempione,Via Giovanni Paisiello
+259,"In the Rome area, which road cannot directly reach Piazza dell'Alberone?",D,Via Appia Nuova,Via Gela,Via Veturia,Via Nazionale
+260,"In the Rome area, which road cannot directly reach Via Gela?",D,Via Appia Nuova,Via Tuscolana,Via Monselice,Via Silvio D'Amico
+261,"In the Rome area, which road cannot directly reach Via Appia Nuova?",D,Via Gela,Piazza dell'Alberone,Piazza di Ponte Lungo,Via Triboniano
+262,"In the Rome area, which road cannot directly reach Via Laurentina?",C,Via dei Corazzieri,Viale Pico della Mirandola,Via Marmorata,Piazzale Giulio Douhet
+263,"In the Rome area, which road cannot directly reach Via Luigi Capuana?",C,Viale Jonio,Via Ugo Ojetti,Ponte Vittorio Emanuele Secondo,Piazza Pier Carlo Talenti
+264,"In the Rome area, which road cannot directly reach Piazza Pier Carlo Talenti?",A,Piazzale Clodio,Viale Jonio,Via Luigi Capuana,Via Ugo Ojetti
+265,"In the Rome area, which road cannot directly reach Via Panama?",C,Via Chiana,Largo Bangladesh,Via Alessandro Severo,Piazza Ungheria
+266,"In the Rome area, which road cannot directly reach Via Emanuele Filiberto?",B,Piazza di Porta San Giovanni,Largo Trionfale,Piazza di Santa Croce in Gerusalemme,Via Statilia
+267,"In the Rome area, which road cannot directly reach Via Valco di San Paolo?",D,Via Ostiense,Via Silvio D'Amico,Viale Guglielmo Marconi,Via Cesare Baronio
+268,"In the Rome area, which road cannot directly reach Via Silvio D'Amico?",A,Viale Tiziano,Via Ostiense,Via Valco di San Paolo,Via Gaspare Gozzi
+269,"In the Rome area, which road cannot directly reach Via Beniamino Andreatta?",A,Piazza Eugenio Biffi,Via di Portonaccio,Piazzale Giovanni Spadolini,Via Camesena
+270,"In the Rome area, which road directly reaches Via Statilia?",B,Viale Gioacchino Rossini,Via di Santa Croce in Gerusalemme,Via Appia Pignatelli,Ponte del Risorgimento
+271,"In the Rome area, which road cannot directly reach Via Acaia?",C,Piazza Armenia,Via Cilicia,Via Romagna,Via Satrico
+272,"In the Rome area, which road cannot directly reach Via Cilicia?",D,Via Latina,Via Acaia,Viale Marco Polo,Via Pastrengo
+273,"In the Rome area, which road cannot directly reach Viale Giulio Cesare?",C,Viale delle Milizie,Via Marcantonio Colonna,Via Cassia Nuova,Via Duilio
+274,"In the Rome area, which road cannot directly reach Via Lepanto?",C,Viale Giulio Cesare,Via Giuseppe Ferrari,Via del Trullo,Piazza delle Cinque Giornate
+275,"In the Rome area, which road cannot directly reach Via Marcantonio Colonna?",B,Piazza Cola di Rienzo,Ponte del Risorgimento,Via Lepanto,Viale Giulio Cesare
+276,"In the Rome area, which road cannot directly reach Via Fratelli Bonnet?",D,Viale delle Mura Gianicolensi,Via Giacinto Carini,Via Calandrelli,Via di Centocelle
+277,"In the Rome area, which road cannot directly reach Via delle Tre Fontane?",C,Via Laurentina,Viale di Val Fiorita,Largo delle Sette Chiese,Viale dell'Arte
+278,"In the Rome area, which road directly reaches Viale dell'Agricoltura?",D,Piazzale Sisto V,Viale della Serenissima,Via Anastasio Secondo,Via delle Tre Fontane
+279,"In the Rome area, which road directly reaches Viale del Pattinaggio?",A,Viale dell'Agricoltura,Via di Val Tellina,Via Ruggero Giovannelli,Via Pastrengo
+280,"In the Rome area, which road cannot directly reach Via degli Angeli?",A,Via Tagliamento,Via di Tor Pignattara,Via di Centocelle,Via di Porta Furba
+281,"In the Rome area, which road cannot directly reach Via della Navicella?",C,Piazzale Metronio,Piazza di Porta Capena,Lungotevere in Augusta,Via Druso
+282,"In the Rome area, which road cannot directly reach Largo dell'Amba Aradam?",D,Piazzale Metronio,Via Druso,Piazza di Porta Metronia,Via Crescenzio
+283,"In the Rome area, which road cannot directly reach Piazza di Porta Metronia?",B,Largo dell'Amba Aradam,Via del Forte Bravetta,Via Druso,Via della Navicella
+284,"In the Rome area, which road cannot directly reach Piazzale Metronio?",B,Via Gallia,Via di Pozzo Pantaleo,Piazza di Porta Metronia,Via Druso
+285,"In the Rome area, which road cannot directly reach Viale delle Milizie?",A,Lungotevere dei Vallati,Viale Angelico,Via Leone Quarto,Viale Giulio Cesare
+286,"In the Rome area, which road cannot directly reach Via Barletta?",B,Viale Angelico,Via dei Cerchi,Viale Giulio Cesare,Viale delle Milizie
+287,"In the Rome area, which road cannot directly reach Viale Angelico?",D,Piazzale Maresciallo Giardino,Viale delle Milizie,Piazzale Clodio,Via di Porta Portese
+288,"In the Rome area, which road cannot directly reach Via Leone Quarto?",D,Via Cola di Rienzo,Viale Vaticano,Piazza del Risorgimento,Via Maddaloni
+289,"In the Rome area, which road cannot directly reach Largo Trionfale?",C,Circonvallazione Clodia,Piazzale Clodio,Via Lampedusa,Via Trionfale
+290,"In the Rome area, which road cannot directly reach Via Aosta?",B,Via Monza,Piazzale Clodio,Piazza dei Re di Roma,Via Taranto
+291,"In the Rome area, which road cannot directly reach Via Taranto?",C,Piazza Ragusa,Via Aosta,Piazza Armenia,Via Monza
+292,"In the Rome area, which road directly reaches Via di Casal Rotondo?",B,Via Napoleone Terzo,Via Appia Nuova,Via Antonio Bertoloni,Lungotevere Michelangelo
+293,"In the Rome area, which road directly reaches Via Pizzo di Calabria?",D,Via di Casal de' Pazzi,Via Giacinto de Vecchi Pieralice,Piazza di Porta Capena,Via Appia Nuova
+294,"In the Rome area, which road cannot directly reach Piazza della Repubblica?",D,Via Vittorio Emanuele Orlando,Viale Luigi Einaudi,Via Giuseppe Romita,Via Ferdinando di Savoia
+295,"In the Rome area, which road directly reaches Via Vittorio Emanuele Orlando?",B,Via dei Monti Tiburtini,Piazza della Repubblica,Via Mario Fani,Circonvallazione della Stazione Tiburtina
+296,"In the Rome area, which road cannot directly reach Via del Foro Olitorio?",C,Via del Teatro di Marcello,Lungotevere dei Pierleoni,Via Lepanto,Via Luigi Petroselli
+297,"In the Rome area, which road cannot directly reach Via Luigi Petroselli?",B,Via del Teatro di Marcello,Viale America,Via dei Cerchi,Piazza della Bocca della Verità
+298,"In the Rome area, which road cannot directly reach Via Francesco Marconi?",D,Via Alessandro Settimo,Via Cogoleto,Via Tommaso Zigliara,Viadotto della Magliana
+299,"In the Rome area, which road cannot directly reach Via Tommaso Zigliara?",C,Via Pietro Maffi,Via Francesco Marconi,Via Santamaura,Via Cogoleto
+300,"In the Rome area, which road cannot directly reach Via Cogoleto?",D,Via di Torrevecchia,Via Francesco Marconi,Via Tommaso Zigliara,Via Anton Maria Valsalva
+301,"In the Rome area, which road directly reaches Via di Santa Maria in Cosmedin?",C,Via Emilio Morosini,Via delle Cave,Via della Greca,Largo delle Vittime del Terrorismo
+302,"In the Rome area, which road cannot directly reach Via della Greca?",A,Via Ulisse Aldrovandi,Piazza della Bocca della Verità,Via di Santa Maria in Cosmedin,Via dell'Ara Massima di Ercole
+303,"In the Rome area, which road cannot directly reach Piazza della Bocca della Verità?",A,Via Elio Donato,Via della Greca,Via di Santa Maria in Cosmedin,Via dei Cerchi
+304,"In the Rome area, which road cannot directly reach Via dell'Ara Massima di Ercole?",C,Via dei Cerchi,Via della Greca,Piazzale Eugenio Morelli,Via del Circo Massimo
+305,"In the Rome area, which road cannot directly reach Via del Circo Massimo?",A,Via Antonio Bertoloni,Via dell'Ara Massima di Ercole,Via della Greca,Viale Aventino
+306,"In the Rome area, which road cannot directly reach Piazza del Risorgimento?",D,Via Crescenzio,Via di Porta Castello,Via Cola di Rienzo,Via Federico Ozanam
+307,"In the Rome area, which road cannot directly reach Via Cola di Rienzo?",D,Piazza del Risorgimento,Via Fabio Massimo,Via Virgilio,Via Leonida Bissolati
+308,"In the Rome area, which road directly reaches Via Fabio Massimo?",A,Via Cola di Rienzo,Via Camillo Serafini,Via Virgilio,Piazza Bartolomeo Gastaldi
+309,"In the Rome area, which road cannot directly reach Piazza Cola di Rienzo?",A,Piazzale delle Provincie,Via Cola di Rienzo,Via Virgilio,Piazza Cavour
+310,"In the Rome area, which road cannot directly reach Ponte Regina Margherita?",C,Piazza della Libertà,Lungotevere in Augusta,Via Acciaioli,Lungotevere Arnaldo da Brescia
+311,"In the Rome area, which road directly reaches Lungotevere in Augusta?",A,Lungotevere Arnaldo da Brescia,Piazzale dei Partigiani,Corso d'Italia,Via Luisa di Savoia
+312,"In the Rome area, which road cannot directly reach Piazza Cavour?",D,Piazza del Porto di Ripetta,Piazza Cola di Rienzo,Via Crescenzio,Via degli Annibaldi
+313,"In the Rome area, which road directly reaches Piazza del Porto di Ripetta?",C,Via delle Fosse di Castello,Via Cipriano Facchinetti,Piazza Cavour,Viale Bruno Buozzi
+314,"In the Rome area, which road cannot directly reach Piazza Giuseppe Mazzini?",A,Piazza dell'Emporio,Piazza Monte Grappa,Piazza delle Cinque Giornate,Via Giuseppe Ferrari
+315,"In the Rome area, which road cannot directly reach Via Giuseppe Ferrari?",C,Via Lepanto,Piazza Giuseppe Mazzini,Via Cassino,Piazza delle Cinque Giornate
+316,"In the Rome area, which road directly reaches Via Mario Romagnoli?",A,Viale delle Medaglie d'Oro,Via Principe Eugenio,Viale Regina Margherita,Via Nicaragua
+317,"In the Rome area, which road cannot directly reach Via Marziale?",D,Viale delle Medaglie d'Oro,Piazza Giovenale,Via Elio Donato,Viale di Trastevere
+318,"In the Rome area, which road cannot directly reach Via di Porta Pertusa?",C,Via Benedetto Quattordicesimo,Viale Vaticano,Viale Luca Gaurico,Via Aurelia
+319,"In the Rome area, which road cannot directly reach Piazza Lauro de Bosis?",A,Via Domenico Tardini,Ponte Duca d'Aosta,Lungotevere Maresciallo Diaz,Lungotevere Maresciallo Cadorna
+320,"In the Rome area, which road cannot directly reach Ponte Duca d'Aosta?",A,Lungotevere di Pietra Papa,Lungotevere Grande Ammiraglio Thaon di Revel,Lungotevere Flaminio,Piazza Lauro de Bosis
+321,"In the Rome area, which road directly reaches Via Alghero?",D,Via di Casal Boccone,Via Vittorio Montiglio,Via del Cappellaccio,Piazza Lodi
+322,"In the Rome area, which road cannot directly reach Piazza Ragusa?",C,Via Alghero,Via Taranto,Via Dessiè,Via Monselice
+323,"In the Rome area, which road cannot directly reach Piazza Lodi?",B,Via La Spezia,Via del Foro Olitorio,Via del Mandrione,Via Casilina
+324,"In the Rome area, which road directly reaches Via Gabi?",C,Via Benedetto Quattordicesimo,Via Vittorio Veneto,Via Magnagrecia,Viale delle Provincie
+325,"In the Rome area, which road cannot directly reach Piazza Vittorio Emanuele Secondo?",C,Via Conte Verde,Via Gioberti,Via del Forte Trionfale,Via Napoleone Terzo
+326,"In the Rome area, which road directly reaches Via Domenico Fontana?",D,Via Giovanni Volpato,Via Catanzaro,Viale dell'Atletica,Via Merulana
+327,"In the Rome area, which road cannot directly reach Piazza di San Giovanni in Laterano?",B,Via Domenico Fontana,Via Beata Maria de Mattias,Via Merulana,Piazza di Porta San Giovanni
+328,"In the Rome area, which road cannot directly reach Via di Vigna Murata?",C,Via Ardeatina,Via Laurentina,Via della Ferratella in Laterano,Via dei Corazzieri
+329,"In the Rome area, which road cannot directly reach Via dei Corazzieri?",C,Via dei Sommozzatori,Via di Vigna Murata,Via Filippo Parlatore,Via Laurentina
+330,"In the Rome area, which road cannot directly reach Piazza Monte Gennaro?",A,Via dell'Acqua Marcia,Via della Bufalotta,Via delle Vigne Nuove,Viale Adriatico
+331,"In the Rome area, which road directly reaches Via della Bufalotta?",B,Piazza Monte Baldo,Via della Cecchina,Via Lampedusa,Viale di Porta Ardeatina
+332,"In the Rome area, which road cannot directly reach Viale Adriatico?",D,Piazza Monte Gennaro,Via Col di Rezia,Via Lampedusa,Via dei Campi Sportivi
+333,"In the Rome area, which road cannot directly reach Viale dei Quattro Venti?",C,Piazzale Enrico Dunant,Via di Donna Olimpia,Largo Enea Bortolotti,Via Oreste Regnoli
+334,"In the Rome area, which road directly reaches Via Ridolfino Venuti?",D,Lungotevere dei Fiorentini,Via Sebastiano Vinci,Via Panisperna,Viale Ventuno Aprile
+335,"In the Rome area, which road cannot directly reach Viale Ventuno Aprile?",B,Via Nomentana,Piazza Edoardo Persico,Via Giovanni Barracco,Piazza Bologna
+336,"In the Rome area, which road cannot directly reach Via Ravenna?",D,Via Alessandro Torlonia,Piazza Bologna,Via Catanzaro,Via Roberto Morra di Lavriano
+337,"In the Rome area, which road cannot directly reach Piazza Bologna?",D,Viale delle Provincie,Via Lorenzo il Magnifico,Via Livorno,Via delle Fornaci
+338,"In the Rome area, which road cannot directly reach Via di Pietralata?",C,Via dell'Acqua Marcia,Via dei Durantini,Via Acaia,Via dei Monti di Pietralata
+339,"In the Rome area, which road cannot directly reach Via Ettore Rolli?",A,Circonvallazione Gianicolense,Via Carlo Porta,Via degli Orti di Cesare,Via Giovanni Volpato
+340,"In the Rome area, which road cannot directly reach Via degli Stradivari?",D,Via Ettore Rolli,Via Aldo Manuzio,Lungotevere Testaccio,Via Baldo degli Ubaldi
+341,"In the Rome area, which road cannot directly reach Via Aldo Manuzio?",D,Via Nicola Zabaglia,Via Galvani,Lungotevere Testaccio,Via Celio Vibenna
+342,"In the Rome area, which road cannot directly reach Lungotevere Testaccio?",D,Ponte Sublicio,Via Aldo Manuzio,Via degli Stradivari,Piazza del Lavoro
+343,"In the Rome area, which road cannot directly reach Via Nicola Zabaglia?",B,Via Galvani,Piazza Ungheria,Piazza Vittorio Bottego,Via Aldo Manuzio
+344,"In the Rome area, which road cannot directly reach Viale della Primavera?",B,Via dei Faggi,Via di Porta San Sebastiano,Via Tor de' Schiavi,Via Casilina
+345,"In the Rome area, which road directly reaches Via Talamone?",C,Via Carlo Tavolacci,Viale Pantelleria,Via Latina,Via Virginio Orsini
+346,"In the Rome area, which road cannot directly reach Viale dell'Arte?",B,Largo Sri Lanka,Lungotevere Aventino,Viale della Letteratura,Viale America
+347,"In the Rome area, which road directly reaches Via Giovannipoli?",A,Largo delle Sette Chiese,Piazza della Libertà,Via delle Isole Curzolane,Via Barletta
+348,"In the Rome area, which road directly reaches Via di Santa Maria Maggiore?",D,Via Honduras,Via Pietro Ciriaci,Via di Casal de' Pazzi,Via Cavour
+349,"In the Rome area, which road cannot directly reach Via Farini?",B,Via Gioberti,Piazza dei Re di Roma,Via Cavour,Piazza Vittorio Emanuele Secondo
+350,"In the Rome area, which road cannot directly reach Via Gioberti?",C,Via Giovanni Giolitti,Via Farini,Viale della Letteratura,Piazza Vittorio Emanuele Secondo
+351,"In the Rome area, which road cannot directly reach Via delle Quattro Fontane?",B,Via Ventiquattro Maggio,Lungotevere Federico Fellini,Via Nazionale,Via Venti Settembre
+352,"In the Rome area, which road cannot directly reach Via Ventiquattro Maggio?",A,Viale Libia,Via Nazionale,Via delle Quattro Fontane,Via Venti Settembre
+353,"In the Rome area, which road directly reaches Via Lorenzo il Magnifico?",D,Piazza Guglielmo Marconi,Piazzetta del Bel Respiro,Viale Marco Polo,Circonvallazione Nomentana
+354,"In the Rome area, which road cannot directly reach Circonvallazione Nomentana?",C,Via Livorno,Via Guido Mazzoni,Piazza Riccardo Balsamo Crivelli,Via Lorenzo il Magnifico
+355,"In the Rome area, which road cannot directly reach Piazza Oderico da Pordenone?",D,Via Giovanni Genocchi,Largo delle Sette Chiese,Viale Guglielmo Massaia,Viale Altiero Spinelli
+356,"In the Rome area, which road directly reaches Via Giovanni Genocchi?",C,Via Pietro Lupi,Via del Foro Olitorio,Piazza Oderico da Pordenone,Via Gela
+357,"In the Rome area, which road cannot directly reach Circonvallazione Appia?",A,Piazza di San Giovanni in Laterano,Piazza Camillo Finocchiaro Aprile,Via Siria,Via Cesare Baronio
+358,"In the Rome area, which road directly reaches Via Siria?",D,Lungotevere Michelangelo,Via della Magliana Nuova,Via Stelvio,Circonvallazione Appia
+359,"In the Rome area, which road cannot directly reach Via di Santa Costanza?",B,Via Nomentana,Via di Centocelle,Piazza Istria,Piazza di Santa Costanza
+360,"In the Rome area, which road directly reaches Piazza di Santa Costanza?",C,Viale Vaticano,Via Bartolo da Sassoferrato,Via di Santa Costanza,Via Vincenzo Bellini
+361,"In the Rome area, which road directly reaches Via Livorno?",D,Piazza del Risorgimento,Via Antonio Stoppani,Via Nicola Zabaglia,Circonvallazione Nomentana
+362,"In the Rome area, which road cannot directly reach Lungotevere Grande Ammiraglio Thaon di Revel?",D,Lungotevere Flaminio,Piazzale Cardinal Consalvi,Viale Tiziano,Via Agostino Depretis
+363,"In the Rome area, which road cannot directly reach Lungotevere Flaminio?",A,Via Adelaide Aglietta,Via Cesare Fracassini,Lungotevere Grande Ammiraglio Thaon di Revel,Ponte Duca d'Aosta
+364,"In the Rome area, which road cannot directly reach Lungotevere dell'Acqua Acetosa?",B,Via Sassi di San Giuliano,Via Alessandro Settimo,Lungotevere Salvo D'Acquisto,Via Uruguay
+365,"In the Rome area, which road directly reaches Via Sassi di San Giuliano?",C,Via Lazzaro Spallanzani,Via Oreste Regnoli,Lungotevere dell'Acqua Acetosa,Via del Gianicolo
+366,"In the Rome area, which road directly reaches Via dei Campi Sportivi?",B,Via Albenga,Piazzale dell'Acqua Acetosa,Via Crescenzio,Corso Vittorio Emanuele II
+367,"In the Rome area, which road directly reaches Via dell'Agonistica?",B,Via di San Pancrazio,Viale della Moschea,Via Luigi Capuana,Via Gregorio Undicesimo
+368,"In the Rome area, which road cannot directly reach Via Alessandro Torlonia?",B,Via Ravenna,Viale Glorioso,Via Catanzaro,Via Nomentana
+369,"In the Rome area, which road directly reaches Via Catanzaro?",A,Via Alessandro Torlonia,Via Bartolo Longo,Via Adriano Fiori,Piazza Santa Maria della Pietà
+370,"In the Rome area, which road cannot directly reach Piazzale Valerio Massimo?",D,Viale delle Provincie,Via Tiburtina,Piazzale delle Provincie,Via delle Valli
+371,"In the Rome area, which road cannot directly reach Viale delle Provincie?",C,Piazzale delle Provincie,Via Tiburtina,Lungotevere di San Paolo,Piazza Bologna
+372,"In the Rome area, which road directly reaches Via della Pisana?",A,Via di Bravetta,Via Tuscolana,Viale dei Monfortani,Viale delle Mura Gianicolensi
+373,"In the Rome area, which road cannot directly reach Via Aurelia Antica?",A,Piazza Salerno,Via del Casale di San Pio Quinto,Via di Bravetta,Largo Cardinal Domenico Ferrata
+374,"In the Rome area, which road cannot directly reach Via della Casetta Mattei?",B,Via di Bravetta,Via del Castro Pretorio,Via Poggio Verde,Via Portuense
+375,"In the Rome area, which road directly reaches Via Camillo Serafini?",D,Via Tullio Levi Civita,Ponte Sublicio,Largo di Santa Susanna,Via Silvestri
+376,"In the Rome area, which road directly reaches Via del Tempio degli Arvali?",D,Via Benedetto Quattordicesimo,Via Michelangelo Tilli,Piazza di Ponte Umberto Primo,Via del Trullo
+377,"In the Rome area, which road cannot directly reach Via del Trullo?",D,Via del Tempio degli Arvali,Via della Magliana,Via Portuense,Viale delle Terme di Caracalla
+378,"In the Rome area, which road cannot directly reach Via della Magliana?",B,Via del Tempio degli Arvali,Via Cipriano Facchinetti,Via del Trullo,Via del Fosso della Magliana
+379,"In the Rome area, which road directly reaches Via Luigi Dasti?",D,Via Stresa,Piazza Pitagora,Via dei Durantini,Via della Magliana
+380,"In the Rome area, which road directly reaches Viale di Val Fiorita?",C,Piazza Acilia,Via Collatina,Via delle Tre Fontane,Largo Brancaccio
+381,"In the Rome area, which road directly reaches Via Arduino?",C,Viale America,Corso Trieste,Via della Lega Lombarda,Via Francesco Marconi
+382,"In the Rome area, which road cannot directly reach Via della Lega Lombarda?",B,Piazzale delle Provincie,Piazza del Risorgimento,Via Arduino,Via Tiburtina
+383,"In the Rome area, which road cannot directly reach Via Ardeatina?",D,Via Erode Attico,Via di Vigna Murata,Via di Tor Carbone,Largo di Boccea
+384,"In the Rome area, which road cannot directly reach Via Appia Antica?",C,Via Ardeatina,Via di San Sebastiano,Via Val Brembana,Viale di Porta Ardeatina
+385,"In the Rome area, which road directly reaches Via San Martino della Battaglia?",A,Viale Castro Pretorio,Via Acaia,Via di Tor Pignattara,Salita del Mandrione
+386,"In the Rome area, which road directly reaches Lungotevere delle Navi?",C,Via Luigi Mercantini,Viale dei Quattro Venti,Viale delle Belle Arti,Circonvallazione Aurelia
+387,"In the Rome area, which road cannot directly reach Viale delle Belle Arti?",D,Viale Bruno Buozzi,Piazzale delle Belle Arti,Via Ulisse Aldrovandi,Viale Gioacchino Rossini
+388,"In the Rome area, which road cannot directly reach Piazza Barcellona?",A,Circonvallazione Casilina,Via delle Tre Fontane,Viale Europa,Viale Umberto Tupini
+389,"In the Rome area, which road cannot directly reach Viale Umberto Tupini?",C,Piazza Barcellona,Viale della Tecnica,Lungotevere Grande Ammiraglio Thaon di Revel,Viale dell'Umanesimo
+390,"In the Rome area, which road cannot directly reach Via della Balduina?",B,Piazza della Balduina,Via Arturo Graf,Via Trionfale,Via Ugo De Carolis
+391,"In the Rome area, which road cannot directly reach Piazza Salerno?",D,Via Bari,Via Lazzaro Spallanzani,Via Giovanni Battista Morgagni,Via dei Cerchi
+392,"In the Rome area, which road directly reaches Via Lazzaro Spallanzani?",A,Piazza Salerno,Piazza Giovenale,Via della Casetta Mattei,Via Latino Silvio
+393,"In the Rome area, which road cannot directly reach Via di Grotta di Gregna?",C,Viale Sacco e Vanzetti,Via Collatina,Via Filippo Civinini,Via Collatina Vecchia
+394,"In the Rome area, which road directly reaches Via Collatina Vecchia?",B,Piazza dei Castani,Via di Grotta di Gregna,Via Antonio Sant'Elia,Viale dei Quattro Venti
+395,"In the Rome area, which road cannot directly reach Viale Antonino di San Giuliano?",A,Circonvallazione Tuscolana,Via del Foro Italico,Via dei Colli della Farnesina,Piazzale della Farnesina
+396,"In the Rome area, which road cannot directly reach Via dei Colli della Farnesina?",D,Via della Camilluccia,Viale Antonino di San Giuliano,Piazzale della Farnesina,Via Giuseppe Spina
+397,"In the Rome area, which road cannot directly reach Piazzale della Farnesina?",C,Via dei Colli della Farnesina,Viale Antonino di San Giuliano,Via del Tritone,Viale Paolo Boselli
+398,"In the Rome area, which road cannot directly reach Via del Serafico?",D,Via Laurentina,Viale del Tintoretto,Viale Erminio Spalla,Via Sassi di San Giuliano
+399,"In the Rome area, which road directly reaches Viale Erminio Spalla?",A,Viale del Tintoretto,Piazza dell'Esquilino,Via Casilina,Via Pastrengo
+400,"In the Rome area, which road cannot directly reach Viale del Tintoretto?",A,Piazza John Kennedy,Via del Serafico,Via di Grotta Perfetta,Viale Erminio Spalla
+401,"In the Rome area, which road directly reaches Via Ennio Bonifazi?",D,Piazza San Giovanni di Dio,Via Oderisi da Gubbio,Viale Luigi Einaudi,Via di Boccea
+402,"In the Rome area, which road cannot directly reach Via di Vigna Stelluti?",A,Circonvallazione Aurelia,Via di Villa Severini,Piazza dei Giuochi Delfici,Via Cassia Nuova
+403,"In the Rome area, which road directly reaches Via Pietro Lupi?",C,Lungotevere Michelangelo,Largo Benedetto Bompiani,Corso di Francia,Piazzale Cardinal Consalvi
+404,"In the Rome area, which road cannot directly reach Viale di Tor di Quinto?",B,Piazzale di Ponte Milvio,Via del Porto Fluviale,Via Pietro Lupi,Via Civita Castellana
+405,"In the Rome area, which road cannot directly reach Via Anagni?",A,Viale Umberto Tupini,Viale della Primavera,Via dei Gordiani,Via Tor de' Schiavi
+406,"In the Rome area, which road cannot directly reach Via del Quadraro?",B,Via Appia Nuova,Piazza della Radio,Viale Anicio Gallo,Viale Spartaco
+407,"In the Rome area, which road cannot directly reach Viale Spartaco?",D,Circonvallazione Tuscolana,Via del Quadraro,Viale Tito Labieno,Via Anagni
+408,"In the Rome area, which road directly reaches Via dell'Almone?",B,Via del Porto Fluviale,Via Appia Nuova,Via Celio Vibenna,Viale Altiero Spinelli
+409,"In the Rome area, which road cannot directly reach Via di San Cleto Papa?",D,Via Suor Celestina Donati,Via Mattia Battistini,Via Alessandro Settimo,Galleria Principe Amedeo Savoia - Aosta
+410,"In the Rome area, which road directly reaches Via Suor Celestina Donati?",C,Piazza Ungheria,Corso Sempione,Via di San Cleto Papa,Piazza di Ponte Lungo
+411,"In the Rome area, which road cannot directly reach Via Satrico?",D,Via Acaia,Piazza Epiro,Via Populonia,Viale Glorioso
+412,"In the Rome area, which road directly reaches Viale dell'Industria?",C,Via Luigi Roncinotto,Lungotevere di San Paolo,Viale dell'Atletica,Via di Porta Castello
+413,"In the Rome area, which road directly reaches Viale della Letteratura?",C,Via Magnagrecia,Via di Donna Olimpia,Viale dell'Arte,Circonvallazione Tiburtina
+414,"In the Rome area, which road directly reaches Viale della Grande Muraglia?",B,Via della Navicella,Viale dell'Oceano Pacifico,Via Po,Via dei Caduti Senza Croce
+415,"In the Rome area, which road cannot directly reach Viale dell'Oceano Pacifico?",B,Viale Egeo,Lungotevere Arnaldo da Brescia,Via della Tecnica,Viale della Grande Muraglia
+416,"In the Rome area, which road cannot directly reach Via degli Orti di Cesare?",B,Viale di Trastevere,Piazza Ungheria,Circonvallazione Gianicolense,Via Giovanni Volpato
+417,"In the Rome area, which road cannot directly reach Viale delle Mura Gianicolensi?",B,Via Carlo Bontemps,Via Nicaragua,Via Calandrelli,Via Fratelli Bonnet
+418,"In the Rome area, which road cannot directly reach Via Calandrelli?",D,Via Fratelli Bonnet,Viale delle Mura Gianicolensi,Via Emilio Morosini,Lungotevere Grande Ammiraglio Thaon di Revel
+419,"In the Rome area, which road cannot directly reach Via Civita Castellana?",A,Piazzale Don Giovanni Minzoni,Lungotevere Maresciallo Diaz,Viale di Tor di Quinto,Corso di Francia
+420,"In the Rome area, which road cannot directly reach Lungotevere Maresciallo Diaz?",C,Viale di Tor di Quinto,Piazzale Maresciallo Diaz,Viale di Val Fiorita,Via Civita Castellana
+421,"In the Rome area, which road cannot directly reach Via Ugo Guido Mondolfo?",D,Via di Villa Bonelli,Via della Magliana,Via della Magliana Nuova,Viale Bruno Buozzi
+422,"In the Rome area, which road directly reaches Via del Fosso della Magliana?",D,Piazza Monte Gennaro,Via Cesare De Lollis,Via Vittorio Emanuele Orlando,Via della Magliana
+423,"In the Rome area, which road cannot directly reach Via Agostino Richelmy?",A,Via del Circo Massimo,Via Anastasio Secondo,Via Pietro Ciriaci,Via Aurelia
+424,"In the Rome area, which road directly reaches Via Gregorio Undicesimo?",A,Via di Boccea,Piazza della Libertà,Via Carlo Zecchi,Via al Quarto Miglio
+425,"In the Rome area, which road cannot directly reach Via Antonio Salandra?",C,Via Campania,Corso d'Italia,Via di Pietralata,Via Giacomo Puccini
+426,"In the Rome area, which road cannot directly reach Via Campania?",C,Via Giacomo Puccini,Via Romagna,Via del Serafico,Via Antonio Salandra
+427,"In the Rome area, which road cannot directly reach Via Giacomo Puccini?",C,Via Campania,Corso d'Italia,Viale Altiero Spinelli,Via Pinciana
+428,"In the Rome area, which road cannot directly reach Via Pinciana?",A,Via delle Quattro Fontane,Via Giovanni Paisiello,Via Giacomo Puccini,Corso d'Italia
+429,"In the Rome area, which road cannot directly reach Via del Mare?",A,Via Ferdinando di Savoia,Via dell'Ippodromo di Tor di Valle,Via Cicladi,Via Ostiense
+430,"In the Rome area, which road directly reaches Lungotevere Vittorio Gassman?",B,Lungotevere Gianicolense,Via Antonio Pacinotti,Via Salvatore Valitutti,Viale dell'Industria
+431,"In the Rome area, which road directly reaches Via Pieve di Cadore?",D,Via Emanuele Filiberto,Circonvallazione Tuscolana,Via dei Colli della Farnesina,Via Mario Fani
+432,"In the Rome area, which road cannot directly reach Via Mario Fani?",C,Via Trionfale,Via Stresa,Via Giovannipoli,Via Pieve di Cadore
+433,"In the Rome area, which road cannot directly reach Via Cassia?",A,Via Alberto Bolognetti,Via degli Orti della Farnesina,Piazzale di Ponte Milvio,Piazza dei Giuochi Delfici
+434,"In the Rome area, which road cannot directly reach Via Gargano?",B,Via Stelvio,Piazza dei Tribunali,Via Nomentana,Via Monte Subasio
+435,"In the Rome area, which road cannot directly reach Via Monte Subasio?",B,Via Gargano,Via Girolamo Cocconi,Via Nomentana,Viale Tirreno
+436,"In the Rome area, which road directly reaches Via Igino Giordani?",D,Via Nomentana,Via Barletta,Via di Santa Costanza,Via di Grotta di Gregna
+437,"In the Rome area, which road directly reaches Piazza dei Giureconsulti?",C,Viale dell'Oceano Indiano,Piazzale delle Belle Arti,Via di Boccea,Via del Gazometro
+438,"In the Rome area, which road directly reaches Via di San Pancrazio?",B,Via della Tecnica,Piazza di San Pancrazio,Via Eleniana,Viale della Tecnica
+439,"In the Rome area, which road cannot directly reach Via della Tecnica?",C,Viale della Tecnica,Viale della Grande Muraglia,Lungotevere degli Altoviti,Viale dell'Oceano Pacifico
+440,"In the Rome area, which road cannot directly reach Via Beata Maria de Mattias?",C,Via Gallia,Piazza Epiro,Viale Bruno Buozzi,Piazzale Metronio
+441,"In the Rome area, which road cannot directly reach Largo delle Sette Chiese?",A,Largo Brindisi,Via Giovannipoli,Piazza Bartolomeo Romano,Piazza Oderico da Pordenone
+442,"In the Rome area, which road cannot directly reach Corso Trieste?",D,Via Chiana,Piazza Istria,Via Nomentana,Lungotevere delle Navi
+443,"In the Rome area, which road directly reaches Viale Guglielmo Massaia?",D,Via dello Statuto,Largo delle Terme di Caracalla,Via delle Conce,Piazza Oderico da Pordenone
+444,"In the Rome area, which road directly reaches Via Santamaura?",D,Lungotevere Raffaello Sanzio,Via Lepanto,Via Sistina,Via Candia
+445,"In the Rome area, which road cannot directly reach Viale Vaticano?",D,Via Benedetto Quattordicesimo,Via Leone Quarto,Via di Porta Pertusa,Viale Giovanni Falcone e Paolo Borsellino
+446,"In the Rome area, which road directly reaches Via Stresa?",D,Piazzale Cardinal Consalvi,Via del Casaletto,Lungotevere di Pietra Papa,Via della Camilluccia
+447,"In the Rome area, which road directly reaches Via Giovanni Amendola?",B,Via Agostino Depretis,Viale Luigi Einaudi,Via Vincenzo Cesati,Via dell'Acqua Marcia
+448,"In the Rome area, which road cannot directly reach Via di Torrevecchia?",C,Via Anton Maria Valsalva,Viale dei Monfortani,Piazza di Cinecittà,Via Simone Mosca
+449,"In the Rome area, which road cannot directly reach Viale Paolo Boselli?",A,Viale Aventino,Via del Foro Italico,Piazzale della Farnesina,Viale Tommaso Tittoni
+450,"In the Rome area, which road directly reaches Via Carlo Zecchi?",D,Via al Quarto Miglio,Piazza dei Giureconsulti,Piazza del Gesù,Via Po
+451,"In the Rome area, which road cannot directly reach Via di Casal de' Pazzi?",B,Viale Egidio Galbani,Via degli Stradivari,Via Bartolo Longo,Via di Casal dei Pazzi
+452,"In the Rome area, which road directly reaches Via Bartolo Longo?",A,Via di Casal de' Pazzi,Piazza delle Finanze,Via Anton Maria Valsalva,Via Nicolò Piccolomini
+453,"In the Rome area, which road directly reaches Via Giacinto de Vecchi Pieralice?",D,Via del Circo Massimo,Piazza Irnerio,Via delle Fornaci,Via Anastasio Secondo
+454,"In the Rome area, which road directly reaches Via Carlo Alberto Dalla Chiesa?",C,Via di Porta San Sebastiano,Via Luigi Petroselli,Viale delle Milizie,Viale Glorioso
+455,"In the Rome area, which road directly reaches Via Virgilio?",A,Via Cola di Rienzo,Via La Spezia,Piazza dell'Emporio,Via dell'Ara Massima di Ercole
+456,"In the Rome area, which road cannot directly reach Via dei Gordiani?",D,Via Anagni,Via Teano,Via Casilina,Via di San Marco
+457,"In the Rome area, which road cannot directly reach Via Eugenio di Mattei?",D,Via Sebastiano Vinci,Piazza Santa Maria della Pietà,Via Trionfale,Via Luigi Zambarelli
+458,"In the Rome area, which road cannot directly reach Viale della Moschea?",D,Viale Parioli,Viale dei Parioli,Via del Foro Italico,Via dell'Amba Aradam
+459,"In the Rome area, which road cannot directly reach Via di Valle Melaina?",D,Via dei Prati Fiscali,Viale Tirreno,Via delle Vigne Nuove,Via Marsala
+460,"In the Rome area, which road directly reaches Lungotevere Salvo D'Acquisto?",A,Lungotevere dell'Acqua Acetosa,Lungotevere Testaccio,Via Leone Quarto,Viale Ferdinando Baldelli
+461,"In the Rome area, which road cannot directly reach Via Uruguay?",A,Via Riccardo Zampieri,Corso di Francia,Lungotevere Salvo D'Acquisto,Lungotevere dell'Acqua Acetosa
+462,"In the Rome area, which road directly reaches Via Giovanni Zanardini?",A,Via Michelangelo Tilli,Lungotevere Grande Ammiraglio Thaon di Revel,Via di Valle Aurelia,Viale di Val Fiorita
+463,"In the Rome area, which road cannot directly reach Lungotevere Guglielmo Oberdan?",A,Via Garibaldi,Piazzale Maresciallo Giardino,Piazzale Clodio,Viale Angelico
+464,"In the Rome area, which road cannot directly reach Piazzale Maresciallo Giardino?",A,Via Guido Mazzoni,Piazzale Clodio,Lungotevere Guglielmo Oberdan,Viale Angelico
+465,"In the Rome area, which road directly reaches Via Labicana?",A,Via Merulana,Ponte Garibaldi,Via Nemea,Lungotevere Testaccio
+466,"In the Rome area, which road cannot directly reach Viale Egeo?",B,Viale dell'Oceano Pacifico,Piazza dei Giuochi Delfici,Viale di Val Fiorita,Viale dei Primati Sportivi
+467,"In the Rome area, which road directly reaches Viale dell'Oceano Indiano?",A,Viale Egeo,Via Taranto,Ponte Mammolo,Via Nazionale
+468,"In the Rome area, which road cannot directly reach Viale dei Primati Sportivi?",A,Via Magnagrecia,Viale dell'Oceano Pacifico,Viale della Tecnica,Viale Umberto Tupini
+469,"In the Rome area, which road directly reaches Via Cesare Frugoni?",C,Via Federico di Donato,Via Giovanni Genocchi,Via Ostiense,Via Vittor Pisani
+470,"In the Rome area, which road cannot directly reach Via Monselice?",A,Viale dell'Atletica,Via Tuscolana,Piazza Ragusa,Via Gela
+471,"In the Rome area, which road cannot directly reach Viale dei Parioli?",A,Lungotevere in Augusta,Viale della Moschea,Viale Parioli,Piazza Santiago del Cile
+472,"In the Rome area, which road directly reaches Via dei Monti di Pietralata?",A,Via di Pietralata,Via degli Orti della Farnesina,Via Don Orione,Via del Casale di San Basilio
+473,"In the Rome area, which road directly reaches Via dell'Acqua Marcia?",C,Via Druso,Via dei Pisoni,Via Cassino,Piazzale Don Giovanni Minzoni
+474,"In the Rome area, which road cannot directly reach Via delle Vigne Nuove?",A,Lungotevere Grande Ammiraglio Thaon di Revel,Via delle Isole Curzolane,Piazza Monte Gennaro,Via di Valle Melaina
+475,"In the Rome area, which road directly reaches Piazza Edoardo Persico?",B,Via Vitellia,Via Igino Giordani,Piazza di Porta San Giovanni,Via Temistocle Calzecchi Onesti
+476,"In the Rome area, which road cannot directly reach Piazza dei Re di Roma?",D,Via Aosta,Via Cerveteri,Via Appia Nuova,Piazza Fiume
+477,"In the Rome area, which road directly reaches Via di Decima?",D,Via Casilina,Via Pasquale Baffi,Via Nemorense,Via Ostiense
+478,"In the Rome area, which road directly reaches Viale dei Romanisti?",C,Via Suor Celestina Donati,Piazza Bartolomeo Gastaldi,Viale Palmiro Togliatti,Piazza d'Aracoeli
+479,"In the Rome area, which road cannot directly reach Via Romagna?",B,Via Venti Settembre,Via della Pisana,Via Po,Via Campania
+480,"In the Rome area, which road cannot directly reach Rotatoria Benigno Zaccagnini?",C,Viale Altiero Spinelli,Via Adelaide Aglietta,Via degli Annibaldi,Via Gerardo Chiaromonte
+481,"In the Rome area, which road directly reaches Viale Altiero Spinelli?",D,Piazza Michele da Carbonara,Via di Portonaccio,Circonvallazione della Stazione Tiburtina,Rotatoria Benigno Zaccagnini
+482,"In the Rome area, which road cannot directly reach Via Pio Foà?",A,Via Gregorio Undicesimo,Via Francesco Catel,Via Luigi Zambarelli,Via Vitellia
+483,"In the Rome area, which road directly reaches Via della Cecchina?",C,Viale Somalia,Piazza Michele da Carbonara,Viale Jonio,Via Cavour
+484,"In the Rome area, which road directly reaches Via di Torre Rossa?",C,Largo Enzo Fioritto,Via delle Quattro Fontane,Via Aurelia Antica,Via Magnagrecia
+485,"In the Rome area, which road directly reaches Via Gerardo Chiaromonte?",D,Via Tor de' Schiavi,Via del Forte Bravetta,Salita del Mandrione,Rotatoria Benigno Zaccagnini
+486,"In the Rome area, which road directly reaches Via Adelaide Aglietta?",A,Piazzale Giovanni Spadolini,Via della Pisana,Via Rodolfo Lanciani,Piazza Alfonso Capecelatro
+487,"In the Rome area, which road cannot directly reach Viale Luigi Einaudi?",B,Piazza dei Cinquecento,Ponte Duca d'Aosta,Piazza della Repubblica,Via Giovanni Amendola
+488,"In the Rome area, which road directly reaches Largo delle Terme di Caracalla?",A,Viale delle Terme di Caracalla,Via della Cecchina,Via di Vigna Murata,Via Vitellia
+489,"In the Rome area, which road cannot directly reach Via Gallarate?",A,Via Lepanto,Via del Mandrione,Piazza Lodi,Via Casilina
+490,"In the Rome area, which road directly reaches Piazza Camillo Finocchiaro Aprile?",D,Piazza delle Cinque Giornate,Via Antonio Salandra,Via Giuseppe Ferrari,Via Appia Nuova
+491,"In the Rome area, which road directly reaches Via Terenzio?",A,Via Crescenzio,Viale dei Romanisti,Via Vittorio Emanuele Orlando,Via Temistocle Calzecchi Onesti
+492,"In the Rome area, which road cannot directly reach Via di Porta Castello?",A,Piazzale della Farnesina,Piazza del Risorgimento,Borgo Sant'Angelo,Via Crescenzio
+493,"In the Rome area, which road cannot directly reach Viale della Tecnica?",C,Via della Tecnica,Viale Umberto Tupini,Via Luigi Dasti,Viale dei Primati Sportivi
+494,"In the Rome area, which road cannot directly reach Piazza Pitagora?",C,Via Antonio Bertoloni,Via Francesco Siacci,Piazza Bartolomeo Romano,Viale Bruno Buozzi
+495,"In the Rome area, which road cannot directly reach Via Antonio Bertoloni?",B,Viale Bruno Buozzi,Viale Guglielmo Massaia,Piazza Pitagora,Via Giovanni Paisiello
+496,"In the Rome area, which road cannot directly reach Viale Bruno Buozzi?",A,Viale America,Piazzale Don Giovanni Minzoni,Via Antonio Bertoloni,Piazzale delle Belle Arti
+497,"In the Rome area, which road cannot directly reach Via Pietro Maffi?",D,Piazza Alfonso Capecelatro,Via Marcello Provenzale,Via Tommaso Zigliara,Via Populonia
+498,"In the Rome area, which road directly reaches Ponte del Risorgimento?",B,Via Tembien,Lungotevere Guglielmo Oberdan,Corso Vittorio Emanuele II,Via di Portonaccio
+499,"In the Rome area, which road cannot directly reach Via Virginio Orsini?",A,Via Luigi Roncinotto,Viale Giulio Cesare,Piazza della Libertà,Via dei Gracchi
+500,"In the Rome area, which road cannot directly reach Piazzale di Ponte Milvio?",D,Via Cassia,Viale di Tor di Quinto,Via degli Orti della Farnesina,Via dei Sommozzatori
+501,"In the Rome area, which road cannot directly reach Via degli Orti della Farnesina?",D,Via Nemea,Piazzale di Ponte Milvio,Via Cassia,Via Rosa Guarnieri Carducci
+502,"In the Rome area, which road directly reaches Via dei Reti?",B,Circonvallazione Trionfale,Via Tiburtina,Via Anagni,Via Giacinto de Vecchi Pieralice
+503,"In the Rome area, which road directly reaches Via delle Isole Curzolane?",B,Via dei Ramni,Via delle Vigne Nuove,Piazza Vittorio Emanuele Secondo,Viale delle Provincie
+504,"In the Rome area, which road cannot directly reach Via Conca d'Oro?",C,Largo Valtournanche,Piazza Conca d'Oro,Viale Manzoni,Viale Tirreno
+505,"In the Rome area, which road cannot directly reach Via Furio Cicogna?",C,Via Giovanni Palombini,Via Tiburtina,Via di Porta San Lorenzo,Viale Egidio Galbani
+506,"In the Rome area, which road cannot directly reach Via Giovanni Palombini?",C,Via Furio Cicogna,Viale Egidio Galbani,Piazza del Gesù,Via di Casal dei Pazzi
+507,"In the Rome area, which road cannot directly reach Viale Egidio Galbani?",C,Via Furio Cicogna,Via di Casal de' Pazzi,Via Flaminia Nuova,Via Giovanni Palombini
+508,"In the Rome area, which road directly reaches Via di Casal dei Pazzi?",A,Via Giovanni Palombini,Via Vittorio Emanuele Orlando,Largo Guido Mazzoni,Viale Giulio Cesare
+509,"In the Rome area, which road directly reaches Via di San Sebastiano?",C,Via del Porto Fluviale,Via Trionfale,Via Ardeatina,Via del Mandrione
+510,"In the Rome area, which road directly reaches Via Giovanni Schiaparelli?",C,Piazzale Giuseppe Garibaldi,Via del Pigneto,Viale Bruno Buozzi,Via Giovanni Gussone
+511,"In the Rome area, which road directly reaches Via Alfonso Torelli?",D,Via Taranto,Via Gioberti,Via Leone Tredicesimo,Via di Portonaccio
+512,"In the Rome area, which road cannot directly reach Piazzale delle Provincie?",A,Viale Aventino,Piazzale Valerio Massimo,Via della Lega Lombarda,Viale delle Provincie
+513,"In the Rome area, which road cannot directly reach Piazza di San Pancrazio?",B,Via di San Pancrazio,Via Aldo Manuzio,Via Vitellia,Via Abate Ugone
+514,"In the Rome area, which road cannot directly reach Via Francesco Catel?",C,Via Luigi Zambarelli,Via Federico Ozanam,Via dell'Agonistica,Via Pio Foà
+515,"In the Rome area, which road cannot directly reach Via Luigi Zambarelli?",C,Circonvallazione Gianicolense,Via Ludovica Albertoni,Via di Santa Croce in Gerusalemme,Via Francesco Catel
+516,"In the Rome area, which road directly reaches Piazzale Prenestino?",A,Piazza di Porta Maggiore,Via della Stazione Ostiense,Via Vittorio Emanuele Orlando,Via del Porto Fluviale
+517,"In the Rome area, which road cannot directly reach Piazza di Porta Maggiore?",C,Via Casilina,Piazza di Santa Croce in Gerusalemme,Via Oderisi da Gubbio,Piazzale Prenestino
+518,"In the Rome area, which road directly reaches Ponte Sublicio?",B,Lungotevere degli Altoviti,Lungotevere Testaccio,Via Cristoforo Colombo,Viale Giuseppe Mazzini
+519,"In the Rome area, which road directly reaches Viale Enrico De Nicola?",A,Largo Giovanni Montemartini,Via Leonida Bissolati,Via Giovanni Palombini,Via Rodolfo Lanciani
+520,"In the Rome area, which road cannot directly reach Largo Giovanni Montemartini?",C,Via Volturno,Viale Luigi Einaudi,Via Bernardino Ramazzini,Viale Enrico De Nicola
+521,"In the Rome area, which road directly reaches Via Bari?",B,Via Attilio Regolo,Piazzale delle Provincie,Via Aurelia Antica,Via Crescenzio
+522,"In the Rome area, which road directly reaches Via Carlo Livi?",C,Viale della Stazione Prenestina,Viale Maresciallo Pilsudski,Via di Torrevecchia,Via Maddaloni
+523,"In the Rome area, which road cannot directly reach Via Anton Maria Valsalva?",A,Via dei Gordiani,Via Augusto Tebaldi,Via di Torrevecchia,Via Giovanni Stefano Bonacossa
+524,"In the Rome area, which road directly reaches Via Marcello Provenzale?",C,Piazzale Eugenio Morelli,Via Calandrelli,Via di Torrevecchia,Via Pietro Ciriaci
+525,"In the Rome area, which road directly reaches Viale Sacco e Vanzetti?",A,Via di Grotta di Gregna,Via Ugo Guido Mondolfo,Piazza Galeno,Via del Quadraro
+526,"In the Rome area, which road directly reaches Vicolo Silvestri?",B,Via di Porta San Lorenzo,Via Silvestri,Viale Pico della Mirandola,Via Cicladi
+527,"In the Rome area, which road directly reaches Viale Pantelleria?",B,Viale Pantelleria,Viale Jonio,Largo Brindisi,Via Carlo Livi
+528,"In the Rome area, which road directly reaches Via Cardinal Pacca?",A,Via del Casale di San Pio Quinto,Piazza Camillo Finocchiaro Aprile,Piazza Pier Carlo Talenti,Via Solferino
+529,"In the Rome area, which road directly reaches Via del Casale di San Pio Quinto?",B,Piazza Pia,Via Aurelia Antica,Via Giovanni Schiaparelli,Viale delle Medaglie d'Oro
+530,"In the Rome area, which road directly reaches Via degli Oppii?",C,Via dei Castani,Via del Castro Laurenziano,Via di Porta Furba,Piazza Barberini
+531,"In the Rome area, which road cannot directly reach Via di Centocelle?",A,Via Fabio Massimo,Via degli Angeli,Via Papiria,Via Casilina
+532,"In the Rome area, which road directly reaches Via Alessandro Settimo?",D,Via del Foro Olitorio,Via Maiella,Via Druso,Via Francesco Marconi
+533,"In the Rome area, which road directly reaches Via Cipro?",D,Via di Vigna Stelluti,Via Crescenzio,Via Celio Vibenna,Viale degli Ammiragli
+534,"In the Rome area, which road directly reaches Viale Isacco Newton?",A,Viale dei Colli Portuensi,Via Marcello Provenzale,Via di Villa Betania,Piazza Fiume
+535,"In the Rome area, which road directly reaches Via dell'Ippodromo di Tor di Valle?",A,Via del Mare,Largo Brindisi,Via Dessiè,Viale Carlo Felice
+536,"In the Rome area, which road directly reaches Viale Castrense?",B,Largo Brancaccio,Via Acireale,Via del Gazometro,Via dei Gracchi
+537,"In the Rome area, which road directly reaches Via Igea?",B,Via del Trullo,Piazza Walter Rossi,Via Mario Fani,Via Elio Donato
+538,"In the Rome area, which road cannot directly reach Via di Pozzo Pantaleo?",B,Via Quirino Majorana,Via Cola di Rienzo,Via Portuense,Via Giuseppe Veronese
+539,"In the Rome area, which road cannot directly reach Via Giuseppe Veronese?",A,Via Giacinto Carini,Via Oderisi da Gubbio,Via di Pozzo Pantaleo,Via Portuense
+540,"In the Rome area, which road cannot directly reach Via Flaminia?",A,Largo Bangladesh,Piazzale delle Belle Arti,Corso di Francia,Via Nicaragua
+541,"In the Rome area, which road cannot directly reach Corso di Francia?",C,Via Pietro Lupi,Via Civita Castellana,Viale Guido Baccelli,Via Uruguay
+542,"In the Rome area, which road cannot directly reach Viale Maresciallo Pilsudski?",A,Via Giovanni Amendola,Via del Sacro Cuore di Maria,Via Guidubaldo del Monte,Piazzale del Parco della Rimembranza
+543,"In the Rome area, which road cannot directly reach Via Veturia?",C,Via Appia Nuova,Piazza dell'Alberone,Via Stelvio,Via Tuscolana
+544,"In the Rome area, which road cannot directly reach Piazza Antonio Meucci?",D,Via Oderisi da Gubbio,Lungotevere degli Inventori,Via della Magliana,Viale Enrico De Nicola
+545,"In the Rome area, which road directly reaches Via delle Fornaci?",A,Via di Porta Cavalleggeri,Piazza Oderico da Pordenone,Viale Maresciallo Pilsudski,Via di Porta Furba
+546,"In the Rome area, which road directly reaches Via Ruggero Giovannelli?",D,Via Fratelli Archibugi,Via Quinto Publicio,Via Nicolò Piccolomini,Via Salaria
+547,"In the Rome area, which road cannot directly reach Via della Pineta Sacchetti?",A,Via Candia,Via Alberto Bolognetti,Via Francesco Marconi,Via del Forte Braschi
+548,"In the Rome area, which road cannot directly reach Via Tembien?",A,Via di Santa Maria in Cosmedin,Via Tripoli,Viale Etiopia,Via Nomentana
+549,"In the Rome area, which road cannot directly reach Largo delle Vittime del Terrorismo?",A,Viale Luca Gaurico,Piazza di Porta Capena,Viale delle Terme di Caracalla,Viale Guido Baccelli
+550,"In the Rome area, which road directly reaches Via Guidubaldo del Monte?",C,Piazza dei Giuochi Delfici,Piazza dei Tribunali,Via Filippo Civinini,Via Triboniano
+551,"In the Rome area, which road cannot directly reach Via L'Aquila?",D,Circonvallazione Casilina,Via del Pigneto,Via Prenestina,Via Giovanni Palombini
+552,"In the Rome area, which road cannot directly reach Sottopasso Turbigo?",B,Viale Manzoni,Via Federico Ozanam,Via Marsala,Via Giovanni Giolitti
+553,"In the Rome area, which road cannot directly reach Via Marsala?",B,Via di Porta San Lorenzo,Via Bernardino Ramazzini,Sottopasso Turbigo,Via del Castro Pretorio
+554,"In the Rome area, which road directly reaches Via Acireale?",D,Via Carlo Alberto Dalla Chiesa,Viale Liegi,Via del Mare,Viale Castrense
+555,"In the Rome area, which road directly reaches Piazza Alfonso Capecelatro?",B,Viale degli Ammiragli,Via Pietro Maffi,Via Vittor Pisani,Piazza delle Finanze
+556,"In the Rome area, which road directly reaches Via Simone Mosca?",B,Via di Porta Pinciana,Via di Torrevecchia,Piazza di Porta San Giovanni,Piazzale delle Belle Arti
+557,"In the Rome area, which road directly reaches Via di Villa Severini?",D,Via Gregorio Settimo,Viale Ventuno Aprile,Piazza Armenia,Via Cassia Nuova
+558,"In the Rome area, which road cannot directly reach Via Cassia Nuova?",A,Piazza Ragusa,Via Flaminia Nuova,Via di Vigna Stelluti,Via di Villa Severini
+559,"In the Rome area, which road directly reaches Via Duilio?",D,Via Tor de' Schiavi,Via di Porta San Lorenzo,Piazzale Don Giovanni Minzoni,Viale Giulio Cesare
+560,"In the Rome area, which road cannot directly reach Via Solferino?",B,Piazza dell'Indipendenza,Piazza di Ponte Umberto Primo,Largo Giovanni Montemartini,Via Volturno
+561,"In the Rome area, which road directly reaches Via Volturno?",C,Via Calandrelli,Via dei Platani,Via Solferino,Corso di Francia
+562,"In the Rome area, which road cannot directly reach Piazza del Pigneto?",D,Via del Pigneto,Via Casilina,Via L'Aquila,Circonvallazione Clodia
+563,"In the Rome area, which road directly reaches Via Col di Rezia?",A,Viale Adriatico,Viale dei Primati Sportivi,Via Gargano,Via Accademia degli Agiati
+564,"In the Rome area, which road directly reaches Piazza Conca d'Oro?",C,Viale Vaticano,Via Ettore Romagnoli,Via delle Valli,Via Monselice
+565,"In the Rome area, which road cannot directly reach Via dei Cerchi?",A,Via di Villa Severini,Via Luigi Petroselli,Via dell'Ara Massima di Ercole,Piazza della Bocca della Verità
+566,"In the Rome area, which road cannot directly reach Via Vittorio Veneto?",A,Via dei Gordiani,Piazza Barberini,Piazzale Brasile,Via Leonida Bissolati
+567,"In the Rome area, which road cannot directly reach Via Leonida Bissolati?",D,Via Barberini,Via Vittorio Veneto,Largo di Santa Susanna,Via dei Caduti Senza Croce
+568,"In the Rome area, which road directly reaches Via Ettore Fieramosca?",B,Galleria Principe Amedeo Savoia - Aosta,Via Prenestina,Via della Pisana,Via Principe Eugenio
+569,"In the Rome area, which road directly reaches Largo Domenico De Dominicis?",A,Via Ettore Fieramosca,Circonvallazione Nomentana,Via Eugenio di Mattei,Via Giuseppe Ferrari
+570,"In the Rome area, which road directly reaches Via Faleria?",D,Largo Gaetano La Loggia,Via Alfonso Torelli,Via Alessandro Severo,Piazzale Appio
+571,"In the Rome area, which road cannot directly reach Piazza di Santa Croce in Gerusalemme?",C,Piazza di Porta Maggiore,Via Emanuele Filiberto,Largo dell'Amba Aradam,Viale Carlo Felice
+572,"In the Rome area, which road directly reaches Via Eleniana?",A,Via di Santa Croce in Gerusalemme,Via del Gazometro,Via Sistina,Piazza della Repubblica
+573,"In the Rome area, which road cannot directly reach Piazza Barberini?",D,Via Sistina,Via del Tritone,Via Vittorio Veneto,Via dell'Aeroporto
+574,"In the Rome area, which road cannot directly reach Via Sistina?",D,Via di Porta Pinciana,Via Ferdinando di Savoia,Via del Tritone,Largo Rodolfo Lanciani
+575,"In the Rome area, which road cannot directly reach Via Nazionale?",A,Piazza Cuba,Via Panisperna,Via Ventiquattro Maggio,Largo Magnanapoli
+576,"In the Rome area, which road cannot directly reach Largo Magnanapoli?",A,Circonvallazione Clodia,Via Quattro Novembre,Via Ventiquattro Maggio,Via Nazionale
+577,"In the Rome area, which road directly reaches Piazza Bartolomeo Romano?",B,Corso Sempione,Largo delle Sette Chiese,Viale Glorioso,Via della Tecnica
+578,"In the Rome area, which road directly reaches Via Populonia?",B,Via della Balduina,Via Satrico,Via del Foro Italico,Via Francesco Siacci
+579,"In the Rome area, which road directly reaches Via Catania?",A,Piazza Salerno,Via Castelguidone,Via Valco di San Paolo,Via Francesco Siacci
+580,"In the Rome area, which road directly reaches Piazza Gimma?",D,Ponte Palatino,Via Girolamo Cocconi,Viale Tirreno,Piazza Gondar
+581,"In the Rome area, which road directly reaches Viale Eritrea?",A,Piazza Istria,Piazza dei Giuochi Delfici,Via Rosa Guarnieri Carducci,Via Trionfale
+582,"In the Rome area, which road directly reaches Via Nicaragua?",C,Via Ceneda,Via degli Angeli,Via Flaminia,Piazzale Labicano
+583,"In the Rome area, which road directly reaches Via Poggio Verde?",A,Via della Casetta Mattei,Piazza Edoardo Persico,Viale delle Mura Gianicolensi,Via Casilina
+584,"In the Rome area, which road directly reaches Via della Nocetta?",C,Viale dell'Umanesimo,Viale Tirreno,Via Silvestri,Via dei Sesami
+585,"In the Rome area, which road directly reaches Via Demetriade?",C,Via dei Sesami,Via Cesare Baronio,Via Frascati,Via Bernardino Telesio
+586,"In the Rome area, which road directly reaches Viale Carlo Felice?",D,Viale Anicio Gallo,Via Sebastiano Vinci,Via Enrico Chiaradia,Via Nola
+587,"In the Rome area, which road directly reaches Via Caltagirone?",C,Via Alessandro Torlonia,Via Aurelia,Via La Spezia,Piazzale Maresciallo Diaz
+588,"In the Rome area, which road directly reaches Via Barberini?",C,Largo Bangladesh,Via Virgilio,Largo di Santa Susanna,Via Quirino Majorana
+589,"In the Rome area, which road directly reaches Largo Cardinal Domenico Ferrata?",C,Piazza dei Quiriti,Via Federico Ozanam,Via Aurelia Antica,Piazza Cola di Rienzo
+590,"In the Rome area, which road cannot directly reach Viale del Caravaggio?",A,Largo Trionfale,Piazzale del Caravaggio,Piazza Elio Rufino,Piazza Lorenzo Lotto
+591,"In the Rome area, which road cannot directly reach Piazza Elio Rufino?",D,Via Cristoforo Colombo,Viale di Tor Marancia,Piazza Lorenzo Lotto,Circonvallazione Gianicolense
+592,"In the Rome area, which road cannot directly reach Via dei Ramni?",D,Via Cesare De Lollis,Piazzale Sisto V,Via Tiburtina,Via Tullio Levi Civita
+593,"In the Rome area, which road directly reaches Via Antonio Stoppani?",D,Viale delle Mura Gianicolensi,Via Cassia Nuova,Piazza Irnerio,Viale Parioli
+594,"In the Rome area, which road cannot directly reach Via Sebastiano Vinci?",A,Piazza del Risorgimento,Via Carlo Livi,Via Eugenio di Mattei,Via di Torrevecchia
+595,"In the Rome area, which road cannot directly reach Via Giovanni Stefano Bonacossa?",C,Via Anton Maria Valsalva,Via di Torrevecchia,Piazzale del Caravaggio,Via Augusto Tebaldi
+596,"In the Rome area, which road directly reaches Via Galla Placidia?",D,Piazza dei Giuochi Delfici,Piazzale Clodio,Via di Villa Severini,Via Tiburtina
+597,"In the Rome area, which road directly reaches Via Cesare Fracassini?",A,Lungotevere Flaminio,Piazza Giuseppe Gioachino Belli,Via del Gianicolo,Via Vincenzo Cesati
+598,"In the Rome area, which road directly reaches Vicolo delle Sette Chiese?",C,Via Demetriade,Piazza Quinto Curzio,Via Ardeatina,Via Appia Pignatelli
+599,"In the Rome area, which road cannot directly reach Via della Magliana Nuova?",C,Via Ugo Guido Mondolfo,Via dei Grottoni,Via Quattro Novembre,Via di Villa Bonelli
+600,"In the Rome area, which road cannot directly reach Via di Villa Bonelli?",A,Viale di San Paolo,Via della Magliana Nuova,Via della Magliana,Via Ugo Guido Mondolfo
+601,"In the Rome area, which road cannot directly reach Via Generale Roberto Bencivenga?",A,Via Giacinto Pullino,Via di Pietralata,Via Val Brembana,Via Nomentana
+602,"In the Rome area, which road directly reaches Piazza Monte Grappa?",C,Via Agostino Depretis,Via Camesena,Piazza Giuseppe Mazzini,Piazza Epiro
+603,"In the Rome area, which road directly reaches Viale dei Monfortani?",D,Via Giuseppe Spina,Viale del Muro Torto,Via Conte Verde,Via Trionfale
+604,"In the Rome area, which road cannot directly reach Via di Acqua Bullicante?",C,Largo Preneste,Piazza della Marranella,Piazza Acilia,Via Maddaloni
+605,"In the Rome area, which road directly reaches Piazza Guglielmo Marconi?",C,Via Francesco Marconi,Piazza Fiume,Via Cristoforo Colombo,Via Celio Vibenna
+606,"In the Rome area, which road directly reaches Piazza Gondar?",B,Lungotevere Guglielmo Oberdan,Piazza Gimma,Via Quinto Publicio,Piazza Eugenio Biffi
+607,"In the Rome area, which road directly reaches Via Cicladi?",A,Viadotto della Magliana,Via Fabio Massimo,Via Cesare De Lollis,Largo delle Terme di Caracalla
+608,"In the Rome area, which road cannot directly reach Via Benedetto Quattordicesimo?",C,Via Aurelia,Via di Porta Pertusa,Via di Casal Rotondo,Viale Vaticano
+609,"In the Rome area, which road cannot directly reach Via di Porta Portese?",A,Via di Santa Croce in Gerusalemme,Via Jacopa de' Settesoli,Via Girolamo Induno,Piazza di Porta Portese
+610,"In the Rome area, which road cannot directly reach Via Girolamo Induno?",D,Via di Porta Portese,Viale di Trastevere,Via Jacopa de' Settesoli,Via Aurelia
+611,"In the Rome area, which road directly reaches Via Jacopa de' Settesoli?",B,Corso Vittorio Emanuele II,Via di Porta Portese,Via Marsala,Viale Glorioso
+612,"In the Rome area, which road directly reaches Via del Pigneto?",D,Via del Serafico,Via Flaminia Nuova,Via Vittorio Montiglio,Piazza del Pigneto
+613,"In the Rome area, which road directly reaches Via del Forte Trionfale?",A,Via Pieve di Cadore,Piazza Vittorio Bottego,Largo di Santa Susanna,Via Alessandro Vessella
+614,"In the Rome area, which road directly reaches Corso del Rinascimento?",B,Via dei Prati Fiscali,Corso Vittorio Emanuele Secondo,Viale Giovanni Falcone e Paolo Borsellino,Viale Etiopia
+615,"In the Rome area, which road cannot directly reach Corso Vittorio Emanuele Secondo?",D,Corso del Rinascimento,Piazza Venezia,Via Acciaioli,Via Silvestri
+616,"In the Rome area, which road cannot directly reach Viale Guido Baccelli?",A,Via Appia Antica,Largo delle Terme di Caracalla,Viale delle Terme di Caracalla,Largo Enzo Fioritto
+617,"In the Rome area, which road cannot directly reach Piazzale del Parco della Rimembranza?",D,Via del Sacro Cuore di Maria,Viale Maresciallo Pilsudski,Via della Fonte dell'Acqua Acetosa,Via Girolamo Cocconi
+618,"In the Rome area, which road cannot directly reach Via della Fonte dell'Acqua Acetosa?",A,Viale Giulio Cesare,Via Antonio Sant'Elia,Viale Maresciallo Pilsudski,Piazzale del Parco della Rimembranza
+619,"In the Rome area, which road cannot directly reach Via del Sacro Cuore di Maria?",A,Largo Preneste,Via Francesco Siacci,Viale Maresciallo Pilsudski,Via della Fonte dell'Acqua Acetosa
+620,"In the Rome area, which road directly reaches Piazza di Porta Portese?",C,Piazza Alfonso Capecelatro,Via degli Stradivari,Via di Porta Portese,Viale della Piramide Cestia
+621,"In the Rome area, which road cannot directly reach Via Giovanni Paisiello?",D,Via Saverio Mercadante,Via Antonio Bertoloni,Via Pinciana,Via La Spezia
+622,"In the Rome area, which road directly reaches Piazza Quinto Curzio?",D,Largo Girolamo Cocconi,Via di Porta Cavalleggeri,Piazza dell'Indipendenza,Via Orazio Pulvillo
+623,"In the Rome area, which road directly reaches Via Quinto Publicio?",D,Piazzale degli Eroi,Viale Libia,Via di Porta San Sebastiano,Viale Palmiro Togliatti
+624,"In the Rome area, which road directly reaches Salita del Mandrione?",D,Via Virginio Orsini,Via Ettore Fieramosca,Piazza dei Gerani,Via del Mandrione
+625,"In the Rome area, which road directly reaches Via Rosa Guarnieri Carducci?",D,Lungotevere dei Fiorentini,Corso del Rinascimento,Via del Mandrione,Via Cristoforo Colombo
+626,"In the Rome area, which road directly reaches Via di Porta San Sebastiano?",D,Largo Gaetano La Loggia,Piazza Fiume,Via Mario Romagnoli,Via Appia Antica
+627,"In the Rome area, which road directly reaches Via Angelo Emo?",B,Via Acciaioli,Via Baldo degli Ubaldi,Via Giovanni Paisiello,Via dei Monti Tiburtini
+628,"In the Rome area, which road cannot directly reach Viale degli Ammiragli?",D,Via Cipro,Via Anastasio Secondo,Via Angelo Emo,Viale Giuseppe Mazzini
+629,"In the Rome area, which road directly reaches Via di Porta San Lorenzo?",B,Piazzale Roberto Ardigò,Piazzale Sisto V,Via Celio Vibenna,Via Caltagirone
+630,"In the Rome area, which road cannot directly reach Piazzale Sisto V?",D,Via dei Ramni,Via di Porta San Lorenzo,Via Marsala,Piazza Camillo Finocchiaro Aprile
+631,"In the Rome area, which road directly reaches Via Ettore Romagnoli?",B,Via Sebino,Via Nomentana,Via Nola,Galleria Principe Amedeo Savoia - Aosta
+632,"In the Rome area, which road cannot directly reach Via Alberto Bergamini?",C,Via Cesare Spellanzon,Piazza Riccardo Balsamo Crivelli,Via Giacinto Carini,Piazza Edoardo Persico
+633,"In the Rome area, which road directly reaches Via del Cappellaccio?",C,Via Maiella,Via delle Tre Fontane,Viadotto della Magliana,Circonvallazione Cornelia
+634,"In the Rome area, which road directly reaches Via Ignazio Pettinengo?",D,Piazza Santa Maria della Pietà,Via Nazionale,Via Saverio Mercadante,Via Alfonso Torelli
+635,"In the Rome area, which road directly reaches Viale Gioacchino Rossini?",D,Viale Marco Polo,Viale della Letteratura,Via Statilia,Via Ulisse Aldrovandi
+636,"In the Rome area, which road directly reaches Via Ulisse Aldrovandi?",C,Via Attilio Friggeri,Via Crescenzio,Viale delle Belle Arti,Via Flaminia
+637,"In the Rome area, which road cannot directly reach Via Riccardo Zampieri?",C,Piazza Riccardo Balsamo Crivelli,Via Tiburtina,Viale Giustiniano Imperatore,Via Cipriano Facchinetti
+638,"In the Rome area, which road directly reaches Via Acciaioli?",C,Via Ettore Fieramosca,Sottovia Lungotevere in Sassia,Corso Vittorio Emanuele Secondo,Via Filippo Parlatore
+639,"In the Rome area, which road directly reaches Lungotevere dei Fiorentini?",A,Corso Vittorio Emanuele II,Via Nicola Zabaglia,Via Giovanni Palombini,Piazza Camillo Finocchiaro Aprile
+640,"In the Rome area, which road directly reaches Corso Vittorio Emanuele II?",B,Via Pinciana,Lungotevere dei Fiorentini,Largo delle Vittime del Terrorismo,Viale dell'Umanesimo
+641,"In the Rome area, which road directly reaches Lungotevere dei Vallati?",C,Largo Rodolfo Lanciani,Lungotevere Testaccio,Ponte Giuseppe Mazzini,Via Tagliamento
+642,"In the Rome area, which road directly reaches Ponte Giuseppe Mazzini?",B,Piazza Verbano,Lungotevere Gianicolense,Via della Bufalotta,Piazza Euclide
+643,"In the Rome area, which road directly reaches Lungotevere dei Sangallo?",A,Ponte Principe Amedeo Savoia Aosta,Via Giovannipoli,Via Cassia Nuova,Via di Porta San Lorenzo
+644,"In the Rome area, which road directly reaches Ponte Principe Amedeo Savoia Aosta?",A,Lungotevere dei Sangallo,Piazza Adriana,Via della Madonna del Riposo,Piazza delle Finanze
+645,"In the Rome area, which road cannot directly reach Largo di Torre Argentina?",A,Via Francesco Siacci,Via Arenula,Corso Vittorio Emanuele Secondo,Via Florida
+646,"In the Rome area, which road directly reaches Lungotevere Raffaello Sanzio?",C,Piazza di Cinecittà,Via di Donna Olimpia,Viale di Trastevere,Via del Foro Italico
+647,"In the Rome area, which road directly reaches Lungotevere dei Pierleoni?",D,Via Pieve di Cadore,Via di Santa Costanza,Piazza Bologna,Ponte Garibaldi
+648,"In the Rome area, which road directly reaches Piazza del Colosseo?",A,Via degli Annibaldi,Via Marmorata,Via Stelvio,Piazza di Porta Portese
+649,"In the Rome area, which road cannot directly reach Via Bernardino Telesio?",A,Via Panama,Via Trionfale,Circonvallazione Trionfale,Largo Trionfale
+650,"In the Rome area, which road directly reaches Ponte Garibaldi?",D,Via Vincenzo Bellini,Piazza della Marranella,Piazza del Lavoro,Lungotevere dei Pierleoni
+651,"In the Rome area, which road directly reaches Viale Giovanni Falcone e Paolo Borsellino?",B,Piazza dei Re di Roma,Viale dei Cavalieri di Vittorio Veneto,Via Faenza,Via Uruguay
+652,"In the Rome area, which road directly reaches Piazza di Santa Maria Maggiore?",C,Corso Trieste,Via dei Sommozzatori,Via Liberiana,Piazza Cola di Rienzo
+653,"In the Rome area, which road directly reaches Via Liberiana?",C,Via Enrico Chiaradia,Via della Nocetta,Piazza di Santa Maria Maggiore,Via Roberto Morra di Lavriano
+654,"In the Rome area, which road directly reaches Via Faenza?",B,Via Giacinto Carini,Via Appia Nuova,Via Francesco Grimaldi,Via del Fosso della Magliana
+655,"In the Rome area, which road directly reaches Via della Ferratella in Laterano?",B,Largo Magnanapoli,Via dell'Amba Aradam,Via Milano,Largo Brindisi
+656,"In the Rome area, which road directly reaches Via dell'Amba Aradam?",C,Piazza Bartolomeo Gastaldi,Via Milano,Via della Ferratella in Laterano,Via dei Monti di Pietralata
+657,"In the Rome area, which road directly reaches Via Cesare De Lollis?",B,Lungotevere Arnaldo da Brescia,Via dei Ramni,Via Cassia,Via Orazio Pulvillo
+658,"In the Rome area, which road directly reaches Piazza Epiro?",A,Via Beata Maria de Mattias,Via di Portonaccio,Viale dell'Aeronautica,Viale Egeo
+659,"In the Rome area, which road directly reaches Largo Valtournanche?",A,Via Conca d'Oro,Viale dell'Industria,Via Attilio Ambrosini,Corso Vittorio Emanuele Secondo
+660,"In the Rome area, which road directly reaches Corso Sempione?",C,Largo dell'Amba Aradam,Largo Cardinal Domenico Ferrata,Viale Tirreno,Via Giuseppe Romita
+661,"In the Rome area, which road directly reaches Via Val di Lanzo?",B,Via Conca d'Oro,Via Val Maira,Rotatoria Benigno Zaccagnini,Via Quinto Publicio
+662,"In the Rome area, which road cannot directly reach Via Stelvio?",D,Via Gargano,Piazza Monte Baldo,Viale Adriatico,Via Chiana
+663,"In the Rome area, which road directly reaches Piazza Monte Baldo?",A,Via Stelvio,Viale Antonino di San Giuliano,Via Bartolo Longo,Via Ruggero di Lauria
+664,"In the Rome area, which road directly reaches Via del Gianicolo?",A,Piazza della Rovere,Via Flaminia Nuova,Vicolo Silvestri,Via del Fosso di Bravetta
+665,"In the Rome area, which road directly reaches Lungotevere Gianicolense?",D,Circonvallazione Cornelia,Lungotevere Grande Ammiraglio Thaon di Revel,Via Beniamino Andreatta,Ponte Giuseppe Mazzini
+666,"In the Rome area, which road cannot directly reach Via di Porta Cavalleggeri?",A,Via Civita Castellana,Piazza Pio Undicesimo,Via delle Fornaci,Via Aurelia
+667,"In the Rome area, which road directly reaches Via Carlo Tavolacci?",B,Via di Boccea,Viale di Trastevere,Piazza Giovenale,Circonvallazione Appia
+668,"In the Rome area, which road directly reaches Piazzale Brasile?",C,Via Guidubaldo del Monte,Viale Marco Polo,Via Vittorio Veneto,Lungotevere dell'Acqua Acetosa
+669,"In the Rome area, which road cannot directly reach Via di Porta Pinciana?",D,Largo del Tritone,Piazzale Brasile,Via Sistina,Vicolo della Basilica
+670,"In the Rome area, which road directly reaches Largo del Tritone?",D,Largo Angelo Fochetti,Piazza della Radio,Piazza dei Gerani,Via di Porta Pinciana
+671,"In the Rome area, which road directly reaches Piazza d'Aracoeli?",C,Lungotevere Testaccio,Viale Giovanni Falcone e Paolo Borsellino,Via del Teatro di Marcello,Viale Sacco e Vanzetti
+672,"In the Rome area, which road directly reaches Piazza Venezia?",D,Via Mario Fani,Via del Foro Olitorio,Via Nola,Corso Vittorio Emanuele Secondo
+673,"In the Rome area, which road directly reaches Lungotevere della Farnesina?",C,Via delle Isole Curzolane,Via del Trullo,Ponte Garibaldi,Viale Regina Elena
+674,"In the Rome area, which road directly reaches Piazza Giuseppe Gioachino Belli?",C,Via Fratelli Archibugi,Lungotevere della Farnesina,Viale di Trastevere,Via Girolamo Induno
+675,"In the Rome area, which road directly reaches Via Maiella?",C,Via Federico di Donato,Via della Tecnica,Via Nomentana,Viale Manlio Gelsomini
+676,"In the Rome area, which road directly reaches Via Agostino Depretis?",B,Viale Angelico,Piazza dell'Esquilino,Via Attilio Ambrosini,Via dei Platani
+677,"In the Rome area, which road cannot directly reach Via Val Brembana?",D,Via di Pietralata,Via Generale Roberto Bencivenga,Via Nomentana,Via Giuseppe Veronese
+678,"In the Rome area, which road cannot directly reach Lungotevere di San Paolo?",D,Viale Guglielmo Marconi,Via Ostiense,Viale di San Paolo,Circonvallazione Trionfale
+679,"In the Rome area, which road directly reaches Via Gaspare Gozzi?",C,Via di San Cleto Papa,Largo Sri Lanka,Via Silvio D'Amico,Via Collatina Vecchia
+680,"In the Rome area, which road directly reaches Piazza Vittorio Bottego?",D,Viale del Pattinaggio,Via Cilicia,Sottovia Lungotevere in Sassia,Via Nicola Zabaglia
+681,"In the Rome area, which road directly reaches Via dei Sommozzatori?",C,Piazzale Cardinal Consalvi,Piazza Pier Carlo Talenti,Via dei Corazzieri,Piazza Alfonso Capecelatro
+682,"In the Rome area, which road directly reaches Piazza Eugenio Biffi?",A,Circonvallazione Ostiense,Via al Quarto Miglio,Via del Casale di San Basilio,Piazza dell'Alberone
+683,"In the Rome area, which road directly reaches Piazza Michele da Carbonara?",C,Via Lepanto,Viale Gioacchino Rossini,Piazza Eugenio Biffi,Via Salvino Sernesi
+684,"In the Rome area, which road directly reaches Piazza Fiume?",A,Via Salaria,Piazza di Donna Olimpia,Via Alessandro Vessella,Piazzale del Parco della Rimembranza
+685,"In the Rome area, which road directly reaches Via Vincenzo Bellini?",A,Viale Liegi,Via Luigi Mercantini,Lungotevere degli Altoviti,Viale Manlio Gelsomini
+686,"In the Rome area, which road directly reaches Via Quattro Novembre?",B,Viale Castro Pretorio,Piazza Venezia,Via del Castro Pretorio,Lungotevere dei Vallati
+687,"In the Rome area, which road directly reaches Via Panisperna?",B,Piazza d'Aracoeli,Via Nazionale,Piazza Barcellona,Via delle Cave
+688,"In the Rome area, which road directly reaches Largo Giovanni Ansaldo?",B,Piazza Vittorio Bottego,Via Giacinto Pullino,Via Faleria,Piazzale Manila
+689,"In the Rome area, which road cannot directly reach Via del Foro Italico?",D,Circonvallazione Salaria,Viale Tommaso Tittoni,Viale Antonino di San Giuliano,Via della Pisana
+690,"In the Rome area, which road directly reaches Piazza Cuba?",D,Ponte Mammolo,Via Quinto Publicio,Via di San Sebastiano,Via Panama
+691,"In the Rome area, which road directly reaches Piazzale dell'Acqua Acetosa?",D,Via di Santa Maria Maggiore,Via di Porta San Sebastiano,Piazza Acilia,Via Enrico Elia
+692,"In the Rome area, which road directly reaches Via Enrico Elia?",D,Via Giuseppe Zanardelli,Viale della Tecnica,Viale Altiero Spinelli,Lungotevere dell'Acqua Acetosa
+693,"In the Rome area, which road directly reaches Via Antonio Sant'Elia?",D,Via Cameria,Via Bartolo Longo,Via Abate Ugone,Via della Fonte dell'Acqua Acetosa
+694,"In the Rome area, which road directly reaches Piazzale Cardinal Consalvi?",B,Via Filippo Civinini,Lungotevere Grande Ammiraglio Thaon di Revel,Via Dessiè,Viale Regina Margherita
+695,"In the Rome area, which road directly reaches Piazzale Manila?",B,Via Tagliamento,Piazzale Cardinal Consalvi,Vicolo Silvestri,Piazzale Labicano
+696,"In the Rome area, which road directly reaches Piazzale Don Giovanni Minzoni?",C,Via Filippo Parlatore,Via Talamone,Viale Bruno Buozzi,Piazza delle Cinque Giornate
+697,"In the Rome area, which road directly reaches Piazza Bartolomeo Gastaldi?",B,Lungotevere Flaminio,Piazzale Don Giovanni Minzoni,Via della Tecnica,Viale di Porta Ardeatina
+698,"In the Rome area, which road cannot directly reach Via Francesco Siacci?",A,Largo di Santa Susanna,Via del Sacro Cuore di Maria,Piazza Pitagora,Piazza Euclide
+699,"In the Rome area, which road directly reaches Via Filippo Civinini?",D,Via Virginia Agnelli,Via della Tecnica,Via Crescenzio,Via Giovanni Schiaparelli
+700,"In the Rome area, which road directly reaches Piazza Euclide?",B,Piazzale di Porta Pia,Via del Sacro Cuore di Maria,Corso del Rinascimento,Largo Enea Bortolotti
+701,"In the Rome area, which road directly reaches Via Roberto Morra di Lavriano?",D,Viale di Trastevere,Via delle Camelie,Via Quinto Publicio,Lungotevere Federico Fellini
+702,"In the Rome area, which road cannot directly reach Lungotevere Maresciallo Cadorna?",A,Piazza Istria,Piazza Lauro de Bosis,Lungotevere Federico Fellini,Via Roberto Morra di Lavriano
+703,"In the Rome area, which road directly reaches Lungotevere Federico Fellini?",C,Via L'Aquila,Via Agostino Depretis,Via Roberto Morra di Lavriano,Viale Parioli
+704,"In the Rome area, which road directly reaches Via Carlo Bontemps?",D,Rotatoria Benigno Zaccagnini,Piazza di Porta Portese,Via Teodorico,Viale delle Mura Gianicolensi
+705,"In the Rome area, which road directly reaches Piazza Albania?",C,Via Lepanto,Piazza Lorenzo Lotto,Via del Circo Massimo,Viale dei Romanisti
+706,"In the Rome area, which road directly reaches Via Frascati?",A,Via Demetriade,Via Virginio Orsini,Lungotevere dell'Acqua Acetosa,Via Gallia
+707,"In the Rome area, which road cannot directly reach Piazza di Villa Carpegna?",C,Via Gregorio Settimo,Circonvallazione Aurelia,Viale Isacco Newton,Via di Torre Rossa
+708,"In the Rome area, which road directly reaches Vicolo della Basilica?",C,Via Nemea,Via Adriano Fiori,Via Appia Pignatelli,Viale Pantelleria
+709,"In the Rome area, which road cannot directly reach Largo Guido Mazzoni?",D,Via Teodorico,Via Arduino,Via Guido Mazzoni,Via Adriano Fiori
+710,"In the Rome area, which road directly reaches Piazzale Labicano?",A,Viale dello Scalo San Lorenzo,Via Tommaso Zigliara,Viale dell'Industria,Sottovia Ignazio Guidi
+711,"In the Rome area, which road directly reaches Largo Benedetto Bompiani?",C,Via della Cecchina,Largo Valtournanche,Via Cristoforo Colombo,Via della Balduina
+712,"In the Rome area, which road cannot directly reach Via Giovanni Giolitti?",B,Via Gioberti,Piazza d'Aracoeli,Sottopasso Turbigo,Viale Manzoni
+713,"In the Rome area, which road directly reaches Piazza dell'Indipendenza?",B,Via Alessandro Settimo,Via Solferino,Via Galla Placidia,Via delle Fornaci
+714,"In the Rome area, which road directly reaches Via Cassino?",C,Viale Aventino,Via Collatina Vecchia,Via dell'Acqua Marcia,Passeggiata del Gianicolo
+715,"In the Rome area, which road directly reaches Via Salvatore Valitutti?",D,Via Quinto Publicio,Piazza di Porta San Giovanni,Via Tommaso Zigliara,Via Tiburtina
+716,"In the Rome area, which road directly reaches Largo Sri Lanka?",D,Ponte Giuseppe Mazzini,Piazza delle Finanze,Via Salvatore Valitutti,Via Nairobi
+717,"In the Rome area, which road cannot directly reach Via Elio Donato?",B,Via Ugo De Carolis,Piazza di Santa Croce in Gerusalemme,Piazza Giovenale,Via Marziale
+718,"In the Rome area, which road directly reaches Piazza Giovenale?",B,Via Duilio,Via Elio Donato,Via Cesare Frugoni,Via dei Gordiani
+719,"In the Rome area, which road directly reaches Piazza della Balduina?",C,Via Celio Vibenna,Via Tito,Via Mario Romagnoli,Via Ostiense
+720,"In the Rome area, which road directly reaches Via Edmondo De Amicis?",D,Via delle Cave,Via Tommaso Zigliara,Piazza Epiro,Viale dello Stadio Olimpico
+721,"In the Rome area, which road directly reaches Piazza Santa Maria della Pietà?",C,Via Col di Rezia,Piazzale di Ponte Milvio,Via Eugenio di Mattei,Piazza di San Pancrazio
+722,"In the Rome area, which road directly reaches Largo Nicola Spinelli?",D,Piazzale dell'Umanesimo,Via Gregorio Settimo,Via Teodorico,Via Giacomo Carissimi
+723,"In the Rome area, which road directly reaches Via Giacomo Carissimi?",B,Via Giuseppe Veronese,Largo Nicola Spinelli,Via Marmorata,Via Sebino
+724,"In the Rome area, which road directly reaches Via Augusto Tebaldi?",D,Via Silvio D'Amico,Via della Tecnica,Piazza Bologna,Via Anton Maria Valsalva
+725,"In the Rome area, which road directly reaches Via Cesare Spellanzon?",D,Viale Altiero Spinelli,Via delle Quattro Fontane,Viale Giulio Cesare,Via Alberto Bergamini
+726,"In the Rome area, which road directly reaches Via Luigi Canina?",C,Lungotevere in Augusta,Ponte del Risorgimento,Via Flaminia,Via degli Orti di Cesare
+727,"In the Rome area, which road directly reaches Viale Tommaso Tittoni?",B,Piazza del Risorgimento,Via del Foro Italico,Via Valco di San Paolo,Via Maddaloni
+728,"In the Rome area, which road directly reaches Viale dello Stadio Olimpico?",D,Viale dei Colli Portuensi,Galleria Principe Amedeo Savoia - Aosta,Largo dell'Amba Aradam,Piazzale Clodio
+729,"In the Rome area, which road directly reaches Via dei Sesami?",C,Via Roberto Morra di Lavriano,Circonvallazione Gianicolense,Via dei Faggi,Via Simone Mosca
+730,"In the Rome area, which road directly reaches Piazza dei Mirti?",B,Lungotevere delle Navi,Via dei Platani,Via degli Angeli,Ponte Sublicio
+731,"In the Rome area, which road directly reaches Via Giovanni Gussone?",B,Viale di San Paolo,Via dei Castani,Lungotevere Ripa,Piazza Bologna
+732,"In the Rome area, which road cannot directly reach Via Damiano Chiesa?",D,Largo Damiano Chiesa,Via di Valle Aurelia,Via Vittorio Montiglio,Via Vincenzo Cesati
+733,"In the Rome area, which road directly reaches Via Vittorio Montiglio?",C,Via Orazio Pulvillo,Via Lepanto,Via della Pineta Sacchetti,Largo Giovanni Montemartini
+734,"In the Rome area, which road directly reaches Via di Valle Aurelia?",B,Largo Trionfale,Via Damiano Chiesa,Via delle Conce,Via di Porta San Sebastiano
+735,"In the Rome area, which road directly reaches Via Lucio Sestio?",B,Largo Giovanni Montemartini,Via Tuscolana,Via del Forte Braschi,Piazzale Valerio Massimo
+736,"In the Rome area, which road directly reaches Via dell'Aeroporto?",D,Via Val Maira,Via Monte Subasio,Piazza John Kennedy,Via Tuscolana
+737,"In the Rome area, which road directly reaches Via Flaminia Nuova?",A,Via Cassia Nuova,Via delle Camelie,Viale Carlo Felice,Via Acciaioli
+738,"In the Rome area, which road directly reaches Via Cesare Pascarella?",D,Viale Adriatico,Via del Quadraro,Via Alessandro Torlonia,Viale di Trastevere
+739,"In the Rome area, which road directly reaches Via Emilio Morosini?",A,Via Calandrelli,Via della Madonna del Riposo,Via Cardinal Pacca,Via Laurentina
+740,"In the Rome area, which road directly reaches Piazzale Maresciallo Diaz?",A,Lungotevere Maresciallo Diaz,Via di Porta Pertusa,Via Val Brembana,Piazza Pier Carlo Talenti
+741,"In the Rome area, which road directly reaches Via Ludovico Altieri?",C,Largo Valtournanche,Via Andrea Millevoi,Via della Madonna del Riposo,Viale dei Romanisti
+742,"In the Rome area, which road directly reaches Via Alberto Bolognetti?",B,Via Marcello Provenzale,Via della Pineta Sacchetti,Lungotevere Salvo D'Acquisto,Via Guidubaldo del Monte
+743,"In the Rome area, which road directly reaches Via Domenico Tardini?",C,Via Carlo Tavolacci,Via Salaria,Via della Pineta Sacchetti,Via dei Pisoni
+744,"In the Rome area, which road directly reaches Via Salvino Sernesi?",D,Viale Manlio Gelsomini,Via Bernardino Ramazzini,Rotatoria Benigno Zaccagnini,Largo Maestri del Lavoro
+745,"In the Rome area, which road directly reaches Largo Maestri del Lavoro?",C,Galleria Principe Amedeo Savoia - Aosta,Piazza di San Giovanni in Laterano,Viale Guglielmo Marconi,Via Cipro
+746,"In the Rome area, which road directly reaches Piazza dei Gerani?",B,Via Ignazio Pettinengo,Via dei Castani,Viale Sacco e Vanzetti,Piazza Bartolomeo Gastaldi
+747,"In the Rome area, which road cannot directly reach Via delle Camelie?",D,Via Tor de' Schiavi,Via dei Castani,Via Casilina,Viale Tiziano
+748,"In the Rome area, which road directly reaches Largo Volumnia?",D,Via del Circo Massimo,Piazza Pio Undicesimo,Ponte Palatino,Via Tuscolana
+749,"In the Rome area, which road cannot directly reach Via Latino Silvio?",C,Piazza della Stazione Prenestina,Viale della Stazione Prenestina,Via delle Sette Chiese,Via di Portonaccio
+750,"In the Rome area, which road directly reaches Via Castelguidone?",C,Via dei Monti di Pietralata,Largo di Boccea,Via di Portonaccio,Via dei Prati Fiscali
+751,"In the Rome area, which road directly reaches Via Cesare Baronio?",C,Via Salaria,Via Giovanni Battista Morgagni,Circonvallazione Appia,Borgo Sant'Angelo
+752,"In the Rome area, which road directly reaches Via della Batteria Nomentana?",A,Via Nomentana,Via L'Aquila,Piazzale delle Belle Arti,Viale Liegi
+753,"In the Rome area, which road directly reaches Via Vittor Pisani?",D,Via della Madonna del Riposo,Largo Trionfale,Piazza di Donna Olimpia,Piazzale degli Eroi
+754,"In the Rome area, which road directly reaches Via della Madonna del Riposo?",D,Via della Navicella,Via Girolamo Induno,Via Silvestri,Via Aurelia
+755,"In the Rome area, which road directly reaches Viale Glorioso?",A,Viale di Trastevere,Via Virginia Agnelli,Piazza Lorenzo Lotto,Via delle Cave
+756,"In the Rome area, which road directly reaches Piazza delle Finanze?",C,Piazza Amba Alagi,Via Chiana,Via Venti Settembre,Via Satrico
+757,"In the Rome area, which road directly reaches Via Verrio Flacco?",C,Via dei Colli della Farnesina,Piazza Bologna,Via di Portonaccio,Via di Porta Pertusa
+758,"In the Rome area, which road directly reaches Via Accademia degli Agiati?",D,Via delle Cave,Via Nemorense,Via Girolamo Benzoni,Via Attilio Ambrosini
+759,"In the Rome area, which road directly reaches Piazzale del Caravaggio?",B,Viale di Porta Ardeatina,Via Attilio Ambrosini,Viale della Grande Muraglia,Largo Amerigo Petrucci
+760,"In the Rome area, which road directly reaches Via del Casaletto?",B,Circonvallazione Nomentana,Via Portuense,Via delle Vigne Nuove,Via di San Sebastiano
+761,"In the Rome area, which road directly reaches Via Pastrengo?",A,Via Venti Settembre,Via Ruggero di Lauria,Viale della Venezia Giulia,Piazzale delle Belle Arti
+762,"In the Rome area, which road directly reaches Via Giuseppe Zanardelli?",A,Piazza di Ponte Umberto Primo,Viale dei Cavalieri di Vittorio Veneto,Via Igea,Largo Brancaccio
+763,"In the Rome area, which road directly reaches Via Alessandro Severo?",C,Viale Castrense,Via di Bravetta,Via Cristoforo Colombo,Via della Navicella
+764,"In the Rome area, which road directly reaches Viale della Stazione Prenestina?",B,Via Cesare Frugoni,Via Latino Silvio,Via Lorenzo il Magnifico,Viale Jonio
+765,"In the Rome area, which road cannot directly reach Piazza della Stazione Prenestina?",A,Via Pizzo di Calabria,Viale della Stazione Prenestina,Viale della Venezia Giulia,Via Latino Silvio
+766,"In the Rome area, which road directly reaches Piazza Santiago del Cile?",A,Viale Parioli,Corso Trieste,Piazza Quinto Curzio,Piazza della Balduina
+767,"In the Rome area, which road cannot directly reach Piazza Riccardo Balsamo Crivelli?",C,Via Cipriano Facchinetti,Via Alberto Bergamini,Ponte Mammolo,Via Riccardo Zampieri
+768,"In the Rome area, which road directly reaches Via Spinoza?",D,Via Cassino,Piazza Edoardo Persico,Circonvallazione della Stazione Tiburtina,Viale Kant
+769,"In the Rome area, which road directly reaches Via Annia Regilla?",A,Via Appia Nuova,Via Napoleone Terzo,Via Principe Eugenio,Via di Valle Aurelia
+770,"In the Rome area, which road directly reaches Lungotevere Ripa?",B,Via Simone Mosca,Ponte Sublicio,Via Cavour,Via Gerardo Chiaromonte
+771,"In the Rome area, which road directly reaches Viadotto della Magliana?",D,Via di Tor Pignattara,Largo Magnanapoli,Piazza dei Gerani,Via del Cappellaccio
+772,"In the Rome area, which road directly reaches Piazza dei Cinquecento?",A,Viale Luigi Einaudi,Piazza Lodi,Viale Liegi,Via Eugenio di Mattei
+773,"In the Rome area, which road directly reaches Piazza Armenia?",A,Via Acaia,Piazza dei Cinquecento,Via Lazzaro Spallanzani,Via di Villa Severini
+774,"In the Rome area, which road directly reaches Viale Pico della Mirandola?",D,Via Gallarate,Circonvallazione Casilina,Via Ignazio Pettinengo,Via Laurentina
+775,"In the Rome area, which road directly reaches Piazza Acilia?",C,Via di Villa Bonelli,Largo Enea Bortolotti,Via Nemorense,Via Ludovico Altieri
+776,"In the Rome area, which road directly reaches Piazza Verbano?",D,Viale Luca Gaurico,Via Faleria,Viale Castrense,Piazza Acilia
+777,"In the Rome area, which road directly reaches Via dei Platani?",B,Via Odoardo Beccari,Piazza dei Mirti,Viale Isacco Newton,Via dei Monti di Pietralata
+778,"In the Rome area, which road directly reaches Piazzale Giovanni Spadolini?",C,Via Giovanni Giolitti,Via dei Monti di Pietralata,Via Adelaide Aglietta,Via Gregorio Settimo
+779,"In the Rome area, which road directly reaches Via Guido Mazzoni?",A,Largo Guido Mazzoni,Via del Foro Olitorio,Viale della Letteratura,Piazza Pia
+780,"In the Rome area, which road directly reaches Via Venti settembre?",A,Largo di Santa Susanna,Via Virginio Orsini,Via Taranto,Lungotevere Raffaello Sanzio
+781,"In the Rome area, which road directly reaches Via di Tor Carbone?",A,Via Ardeatina,Via Antonio Sant'Elia,Viale Giustiniano Imperatore,Via Fratelli Bonnet
+782,"In the Rome area, which road directly reaches Via Andrea Millevoi?",A,Via Ardeatina,Via Giacinto Pullino,Via Poggio Verde,Via Cesare Pascarella
+783,"In the Rome area, which road directly reaches Piazza Amba Alagi?",C,Viale America,Via Monte Subasio,Via Tripoli,Lungotevere dei Mellini
+784,"In the Rome area, which road cannot directly reach Via Florida?",B,Largo di Torre Argentina,Via dei Gracchi,Via di San Marco,Via Arenula
+785,"In the Rome area, which road directly reaches Piazza del Gesù?",B,Via Girolamo Cocconi,Via Florida,Via Cilicia,Via Enrico Elia
+786,"In the Rome area, which road cannot directly reach Via Odoardo Beccari?",A,Viale Enrico De Nicola,Via Cristoforo Colombo,Via Luigi Roncinotto,Viale delle Terme di Caracalla
+787,"In the Rome area, which road cannot directly reach Via Albenga?",A,Largo Giovanni Montemartini,Via Don Orione,Piazza di Ponte Lungo,Via Appia Nuova
+788,"In the Rome area, which road directly reaches Piazza di Ponte Lungo?",C,Via dell'Amba Aradam,Piazza Gondar,Via Appia Nuova,Via del Circo Massimo
+789,"In the Rome area, which road directly reaches Via della Traspontina?",C,Via Pietro Ciriaci,Via Cesare Baronio,Ponte Vittorio Emanuele Secondo,Via Aosta
+790,"In the Rome area, which road directly reaches Ponte Vittorio Emanuele Secondo?",B,Piazza di Ponte Lungo,Via della Traspontina,Via dell'Ippodromo di Tor di Valle,Piazza Galeno
+791,"In the Rome area, which road directly reaches Ponte Palatino?",D,Piazza Gimma,Piazza Guglielmo Marconi,Lungotevere Guglielmo Oberdan,Lungotevere Aventino
+792,"In the Rome area, which road directly reaches Lungotevere Aventino?",B,Viale America,Ponte Palatino,Via Barberini,Via Acaia
+793,"In the Rome area, which road directly reaches Largo Brindisi?",D,Via Luigi Capuana,Via Cesare De Lollis,Via Aldo Manuzio,Via Faenza
+794,"In the Rome area, which road directly reaches Largo Amerigo Petrucci?",D,Via Ludovico Altieri,Viale Kant,Via di Casal Boccone,Lungotevere Aventino
+795,"In the Rome area, which road directly reaches Viale del Muro Torto?",A,Corso d'Italia,Via dello Statuto,Piazza Pitagora,Piazzale Prenestino
+796,"In the Rome area, which road cannot directly reach Circonvallazione Salaria?",D,Via Alfredo Catalani,Via del Foro Italico,Circonvallazione Nomentana,Via Adelaide Aglietta
+797,"In the Rome area, which road directly reaches Largo Gaetano La Loggia?",D,Via Anton Maria Valsalva,Via Alessandro Settimo,Via Triboniano,Via Pasquale Baffi
+798,"In the Rome area, which road directly reaches Via Pasquale Baffi?",A,Largo Gaetano La Loggia,Via Silvestri,Lungotevere Federico Fellini,Via del Castro Pretorio
+799,"In the Rome area, which road cannot directly reach Piazza di Porta San Paolo?",D,Viale della Piramide Cestia,Via Marmorata,Piazzale Ostiense,Ponte Vittorio Emanuele Secondo
+800,"In the Rome area, which road directly reaches Via Ceneda?",D,Piazza dell'Emporio,Piazza Barberini,Via della Balduina,Piazza Tarquinia
+801,"In the Rome area, which road directly reaches Viale Marx?",B,Via Ugo Ojetti,Viale Kant,Viale di Val Fiorita,Via Attilio Ambrosini
+802,"In the Rome area, which road directly reaches Via Rodolfo Lanciani?",A,Via Ridolfino Venuti,Largo Leonardo da Vinci,Viale Tiziano,Via del Sacro Cuore di Maria
+803,"In the Rome area, which road directly reaches Piazza Galeno?",C,Via Temistocle Calzecchi Onesti,Via Carlo Porta,Viale Regina Margherita,Via Faenza
+804,"In the Rome area, which road directly reaches Via delle Fosse di Castello?",D,Via dell'Almone,Viale di Tor Marancia,Via Ulisse Aldrovandi,Piazza Adriana
+805,"In the Rome area, which road directly reaches Piazza Silvio d'Amico?",D,Via Mattia Battistini,Via di San Sebastiano,Via Furio Cicogna,Via Silvio D'Amico
+806,"In the Rome area, which road directly reaches Largo Leonardo da Vinci?",D,Lungotevere degli Altoviti,Via di Grotta Perfetta,Piazza Giuseppe Mazzini,Viale Giustiniano Imperatore
+807,"In the Rome area, which road directly reaches Piazzale Tommaso Edison?",B,Via Nemorense,Viale Guglielmo Marconi,Piazza dell'Indipendenza,Via Generale Roberto Bencivenga
+808,"In the Rome area, which road cannot directly reach Viale Marco Polo?",A,Via degli Orti della Farnesina,Piazzale Ostiense,Via Cilicia,Piazzale dei Partigiani
+809,"In the Rome area, which road directly reaches Via Saverio Mercadante?",C,Piazza Giuseppe Mazzini,Viale della Tecnica,Via Giovanni Paisiello,Via Attilio Regolo
+810,"In the Rome area, which road directly reaches Via Dessiè?",C,Via Carlo Zecchi,Via di San Sebastiano,Piazza Amba Alagi,Via Appia Pignatelli
+811,"In the Rome area, which road directly reaches Via Giuseppe Romita?",D,Via Marmorata,Galleria Principe Amedeo Savoia - Aosta,Ponte Sublicio,Piazza della Repubblica
+812,"In the Rome area, which road directly reaches Via Prato della Signora?",B,Via Adelaide Aglietta,Via Alfredo Catalani,Via Acciaioli,Via Antonio Stoppani
+813,"In the Rome area, which road directly reaches Via Honduras?",C,Via Cavour,Piazza di Ponte Umberto Primo,Via del Foro Italico,Piazzale Metronio
+814,"In the Rome area, which road directly reaches Via del Castro Laurenziano?",A,Viale dell'Università,Via di Porta Maggiore,Viale delle Belle Arti,Lungotevere delle Armi
+815,"In the Rome area, which road directly reaches Via Luigi Mercantini?",C,Lungotevere Guglielmo Oberdan,Via Alessandro Severo,Viale delle Mura Gianicolensi,Largo Giovanni Ansaldo
+816,"In the Rome area, which road directly reaches Piazzale Eugenio Morelli?",C,Viale Maresciallo Pilsudski,Viale delle Mura Gianicolensi,Via Federico di Donato,Via Francesco Catel
+817,"In the Rome area, which road directly reaches Via Ludovica Albertoni?",D,Via delle Fornaci,Via Verrio Flacco,Via Camesena,Via Luigi Zambarelli
+818,"In the Rome area, which road directly reaches Via Teodorico?",C,Via Furio Cicogna,Via dei Platani,Largo Guido Mazzoni,Largo Valtournanche
+819,"In the Rome area, which road directly reaches Via Napoleone Terzo?",A,Piazza Vittorio Emanuele Secondo,Via Ravenna,Via Pietro Maffi,Via di Valle Melaina
+820,"In the Rome area, which road directly reaches Piazza San Bernardo?",A,Via Vittorio Emanuele Orlando,Via di Casal dei Pazzi,Ponte Giuseppe Mazzini,Piazza Albania
+821,"In the Rome area, which road directly reaches Circonvallazione della Stazione Tiburtina?",D,Via San Martino della Battaglia,Via Cristoforo Colombo,Via Attilio Friggeri,Circonvallazione Tiburtina
+822,"In the Rome area, which road directly reaches Circonvallazione Tiburtina?",C,Via degli Oppii,Piazza del Risorgimento,Circonvallazione della Stazione Tiburtina,Viale Erminio Spalla
+823,"In the Rome area, which road directly reaches Ponte Mammolo?",D,Via Galvani,Via Virginia Agnelli,Via Mocenigo,Via Tiburtina
+824,"In the Rome area, which road directly reaches Largo Alessandro Caravillani?",A,Circonvallazione Cornelia,Viale Isacco Newton,Via dei Prati Fiscali,Largo Settimio Passamonti
+825,"In the Rome area, which road directly reaches Largo di Boccea?",B,Via dei Ramni,Circonvallazione Cornelia,Via Terenzio,Piazza dei Giuochi Delfici
+826,"In the Rome area, which road directly reaches Via Don Orione?",A,Via Albenga,Piazzale Eugenio Morelli,Via Volturno,Via Catania
+827,"In the Rome area, which road directly reaches Via Enrico Chiaradia?",D,Via Salaria,Via Talamone,Largo Leonardo da Vinci,Viale Tiziano
+828,"In the Rome area, which road directly reaches Via dei Pisoni?",C,Via Gabi,Corso Vittorio Emanuele Secondo,Via Tuscolana,Via del Fosso di Bravetta
+829,"In the Rome area, which road directly reaches Via Nemea?",D,Piazza Edoardo Persico,Via Lampedusa,Via Giovanni Giolitti,Via degli Orti della Farnesina
+830,"In the Rome area, which road directly reaches Viale dell'Atletica?",A,Via Laurentina,Piazzale Roberto Ardigò,Via di Centocelle,Viale delle Mura Latine
+831,"In the Rome area, which road directly reaches Via Nicolò Piccolomini?",C,Via dell'Ara Massima di Ercole,Via Verrio Flacco,Via di Villa Betania,Piazzale di Porta Pia
+832,"In the Rome area, which road directly reaches Via di Villa Betania?",B,Via degli Orti di Cesare,Via Nicolò Piccolomini,Via Giovanni Schiaparelli,Piazzale delle Provincie
+833,"In the Rome area, which road directly reaches Via Luigi Roncinotto?",A,Via Odoardo Beccari,Via Emilio Morosini,Via Nairobi,Via Catanzaro
+834,"In the Rome area, which road directly reaches Via Arenula?",D,Piazzale Clodio,Via Liberiana,Via di Val Tellina,Largo di Torre Argentina
+835,"In the Rome area, which road cannot directly reach Sottovia Ignazio Guidi?",C,Piazzale di Porta Pia,Viale Castro Pretorio,Via Augusto Tebaldi,Viale del Policlinico
+836,"In the Rome area, which road directly reaches Largo Enzo Fioritto?",A,Viale Guido Baccelli,Viale Adriatico,Via Portuense,Piazzale degli Eroi
+837,"In the Rome area, which road directly reaches Piazzale Giuseppe Garibaldi?",C,Via del Serafico,Piazza del Colosseo,Largo di Porta San Pancrazio,Piazzale Labicano
+838,"In the Rome area, which road directly reaches Largo di Porta San Pancrazio?",A,Piazzale Giuseppe Garibaldi,Viale Marco Polo,Piazza di Villa Carpegna,Via Demetriade
+839,"In the Rome area, which road directly reaches Piazza John Kennedy?",C,Via Ugo Ojetti,Piazza Edoardo Persico,Viale della Letteratura,Via della Cecchina
+840,"In the Rome area, which road directly reaches Viale della Piramide Cestia?",A,Piazza di Porta San Paolo,Piazza Gondar,Via di San Pancrazio,Largo Trionfale
+841,"In the Rome area, which road directly reaches Largo Bangladesh?",A,Via Panama,Via Giovanni Zanardini,Via Romagna,Via della Nocetta
+842,"In the Rome area, which road directly reaches Piazza dei Quiriti?",C,Via Vittorio Emanuele Orlando,Galleria Principe Amedeo Savoia - Aosta,Via Attilio Regolo,Via Quirino Majorana
+843,"In the Rome area, which road directly reaches Via Attilio Regolo?",B,Via Nemea,Piazza dei Quiriti,Via Cogoleto,Via Antonio Stoppani
+844,"In the Rome area, which road directly reaches Piazza Walter Rossi?",A,Via Igea,Piazza di Santa Costanza,Via dei Caduti Senza Croce,Via Cipriano Facchinetti
+845,"In the Rome area, which road directly reaches Via Cavriglia?",A,Via dei Prati Fiscali,Via Attilio Regolo,Via Veturia,Viale Vaticano
+846,"In the Rome area, which road directly reaches Via dei Monti Lessini?",C,Via Filippo Civinini,Piazza Lodi,Viale Jonio,Via Britannia
+847,"In the Rome area, which road directly reaches Via Fratelli Archibugi?",D,Via Verrio Flacco,Viale Giustiniano Imperatore,Viale Ventuno Aprile,Via Flaminia
+848,"In the Rome area, which road directly reaches Viale Luca Gaurico?",C,Lungotevere degli Altoviti,Piazza Guglielmo Marconi,Via Francesco de Suppé,Via Francesco Siacci
+849,"In the Rome area, which road directly reaches Via Francesco de Suppé?",D,Via Odoardo Beccari,Via Cipriano Facchinetti,Via Generale Roberto Bencivenga,Viale Luca Gaurico
+850,"In the Rome area, which road directly reaches Via Ferdinando di Savoia?",D,Largo Volumnia,Piazzale Giuseppe Garibaldi,Via Solferino,Via Sistina
+851,"In the Rome area, which road directly reaches Via delle Cave?",C,Piazza dell'Emporio,Viale Regina Margherita,Via Appia Nuova,Via Gioberti
+852,"In the Rome area, which road directly reaches Sottovia Lungotevere in Sassia?",C,Via della Magliana,Via Vittor Pisani,Piazza della Rovere,Viale della Serenissima
+853,"In the Rome area, which road directly reaches Via Federico di Donato?",D,Largo delle Terme di Caracalla,Viale Luca Gaurico,Circonvallazione Trionfale,Piazzale Eugenio Morelli
+854,"In the Rome area, which road directly reaches Via al Quarto Miglio?",C,Piazza Albania,Piazza di Porta Capena,Via Appia Nuova,Via Monza

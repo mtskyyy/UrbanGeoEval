@@ -1,0 +1,312 @@
+,A,B,C,D,question,answer
+0,ถนนอู่ทองนอก,ถนนหน้าพระลาน,ถนนพระจันทร์,ถนนราชินี,"In the Bangkok area, which road cannot directly reach ถนนหน้าพระธาตุ?",A
+1,ถนนจักรเพชร,ถนนพระพิพิธ,ถนนหน้าพระธาตุ,ถนนรางน้ำ,"In the Bangkok area, which road cannot directly reach ถนนราชินี?",D
+2,ถนนสวรรคโลก,ถนนราชวงศ์,ถนนจักรวรรดิ์,ถนนเจริญกรุง,"In the Bangkok area, which road cannot directly reach ถนนเยาวราช?",A
+3,ถนนเยาวราช,ถนนพาหุรัด,ถนนจันทน์,ถนนสนามไชย,"In the Bangkok area, which road cannot directly reach ถนนเจริญกรุง?",B
+4,ถนนดวงพิทักษ์,สะพานพระพุทธยอดฟ้า,ถนนมหาพฤฒาราม,ซอยจุฬาลงกรณ์ 12,"In the Bangkok area, which road directly reaches ถนนข้าวหลาม?",C
+5,ถนนพระรามที่ 4,ถนนจันทน์,ถนนกำแพงเพชร 6,ทางคู่ขนานลอยฟ้าบรมราชชนนี,"In the Bangkok area, which road directly reaches ซอยโปลิศสภา?",A
+6,ถนนเจริญเมือง,ถนนสิบสามห้าง,ซอยเพชรเกษม 4,ถนนจักรเพชร,"In the Bangkok area, which road directly reaches ถนนสะพานพุทธ?",D
+7,ถนนเยาวราช,ถนนรพช. นนทบุรี 4007,ถนนสะพานพุทธ,ถนนมหาราช,"In the Bangkok area, which road cannot directly reach ถนนจักรเพชร?",B
+8,ถนนรัชดาภิเษก,ถนนสี่พระยา,ซอยสุขุมวิท 3,ถนนสาทรเหนือ,"In the Bangkok area, which road cannot directly reach ถนนพระรามที่ 4?",C
+9,ซอยลาดพร้าววังหิน 61,ถนนหยดน้ำ,ถนนเจริญกรุง,ถนนบรรทัดทอง,"In the Bangkok area, which road directly reaches ถนนมิตรภาพไทย-จีน?",C
+10,ถนนเพชรบุรี,ซอยเพชรบุรี 31,ถนนราชดำริ,ถนนดินแดง,"In the Bangkok area, which road cannot directly reach ถนนราชปรารภ?",B
+11,ถนนบวรนิเวศน์,ถนนดินแดงตัดใหม่,ถนนวิภาวดีรังสิต,ถนนราชปรารภ,"In the Bangkok area, which road cannot directly reach ถนนดินแดง?",A
+12,ถนนจันทน์,ถนนสวนผัก,ถนนเทอดไท,ถนนเทอดดำริ,"In the Bangkok area, which road directly reaches ซอยจันทน์ 16?",A
+13,ซอยรามคำแหง 21,ถนนนราธิวาสราชนครินทร์,ถนนพระอาทิตย์,ถนนหลานหลวง,"In the Bangkok area, which road directly reaches ซอยนราธิวาสราชนครินทร์ 14?",B
+14,ซอยจรัญสนิทวงศ์ 65,ถนนตีทอง,ถนนราชวิถี,ซอยจรัญสนิทวงศ์ 75,"In the Bangkok area, which road cannot directly reach ถนนจรัญสนิทวงศ์?",B
+15,ถนนเพชรเกษม,ถนนประชาราษฎร์ สาย1,ถนนจักรพรรดิพงษ์,ถนนจรัญสนิทวงศ์,"In the Bangkok area, which road directly reaches ถนนวงศ์สว่าง?",D
+16,ถนนพระรามที่ 1,ถนนนครไชยศรี,ถนนรางน้ำ,ถนนโยธี,"In the Bangkok area, which road cannot directly reach ถนนพญาไท?",B
+17,ถนนเพชรเกษม,ถนนพญาไท,ถนนกำแพงเพชร 6,ซอยประชาสงเคราะห์ 28,"In the Bangkok area, which road directly reaches ถนนโยธี?",B
+18,ถนนท้ายวัง,ถนนกำแพงเพชร 1,ถนนย่านพหลโยธิน,ทางคู่ขนานลอยฟ้าบรมราชชนนี,"In the Bangkok area, which road directly reaches ถนนกำแพงเพชร 3?",B
+19,ซอยวิภาวดีรังสิต 3,ถนนตะนาว,ถนนดินแดง,ทางพิเศษเฉลิมมหานคร,"In the Bangkok area, which road cannot directly reach ถนนวิภาวดีรังสิต?",B
+20,ถนนมไหสวรรย์,วงเวียนอนุสาวรีย์ชัยสมรภูมิ,ถนนจรัญสนิทวงศ์,ถนนกำแพงเพชร 5,"In the Bangkok area, which road cannot directly reach ถนนราชวิถี?",A
+21,ถนนพญาไท,ถนนวุฒากาศ,ถนนราชวิถี,ถนนพหลโยธิน,"In the Bangkok area, which road cannot directly reach วงเวียนอนุสาวรีย์ชัยสมรภูมิ?",B
+22,ถนนคู่ขนานทางพิเศษประจิมรัถยา,ถนนบรมราชชนนี,ถนนรุ่งประชา,ถนนสวนผัก,"In the Bangkok area, which road cannot directly reach ถนนสิรินธร?",D
+23,ถนนเตชะวนิช,ซอยจรัญสนิทวงศ์ 75,ถนนเทอดพระเกียรติ,ถนนชัยพฤกษ์,"In the Bangkok area, which road cannot directly reach ถนนคู่ขนานทางพิเศษประจิมรัถยา?",A
+24,ถนนกรุงธนบุรี,ถนนพระรามที่ 6,ถนนกรุงเทพอภิวัฒน์,ถนนกำแพงเพชร 2,"In the Bangkok area, which road cannot directly reach ถนนกำแพงเพชร?",A
+25,ถนนโยธี,ถนนจรัสเมือง,ถนนนิคมมักกะสัน,ถนนเศรษฐศิริ,"In the Bangkok area, which road cannot directly reach ถนนพระรามที่ 6?",C
+26,ถนนประชาอุทิศ,ถนนทรัพย์,ถนนวัฒนธรรม,ถนนรัชดาภิเษก,"In the Bangkok area, which road cannot directly reach ถนนเทียมร่วมมิตร?",B
+27,ถนนรัชดาภิเษก,ถนนเทอดดำริ,ถนนเทียมร่วมมิตร,ถนนพระราม 9,"In the Bangkok area, which road cannot directly reach ถนนวัฒนธรรม?",B
+28,ซอยสุขุมวิท 55,ซอยสุขุมวิท 26,ถนนจักรพรรดิพงษ์,ถนนเพลินจิต,"In the Bangkok area, which road cannot directly reach ถนนสุขุมวิท?",C
+29,ถนนมิตรภาพไทย-จีน,ถนนรัชดาภิเษก,ถนนเพชรบุรี,ถนนสุขุมวิท,"In the Bangkok area, which road cannot directly reach ถนนอโศกมนตรี?",A
+30,ถนนเพชรเกษม,ซอยสาธุประดิษฐ์ 34,ถนนสุทธิสารวินิจฉัย,ถนนนราธิวาสราชนครินทร์,"In the Bangkok area, which road cannot directly reach ถนนรัชดาภิเษก?",B
+31,ถนนกัลยาณไมตรี,ถนนราชดำเนินใน,ถนนเฟื่องนคร,ถนนเจริญกรุง,"In the Bangkok area, which road cannot directly reach ถนนสนามไชย?",C
+32,ถนนเจริญกรุง,ถนนมหาราช,ถนนสนามไชย,ถนนสมเด็จพระปิ่นเกล้า,"In the Bangkok area, which road cannot directly reach ถนนท้ายวัง?",D
+33,ถนนกรุงเกษม,ซอยปรีดี พนมยงค์ 31,ถนนพิษณุโลก,ถนนศรีอยุธยา,"In the Bangkok area, which road cannot directly reach ถนนนครราชสีมา?",B
+34,ถนนสวรรคโลก,ถนนพระรามที่ 5,ถนนนครราชสีมา,ถนนเจริญรัถ,"In the Bangkok area, which road cannot directly reach ถนนพิษณุโลก?",D
+35,ถนนอาจณรงค์,ถนนสุนทรโกษา,ถนนพระรามที่ 4,ถนนประชาราษฎร์ สาย 1,"In the Bangkok area, which road cannot directly reach ถนนเกษมราษฎร์?",D
+36,ถนนพระรามที่ 4,ถนนกัลยาณไมตรี,ซอยสุขุมวิท 62,ซอยสุขุมวิท 50,"In the Bangkok area, which road cannot directly reach ถนนทางรถไฟสายเก่าปากน้ำ?",B
+37,ถนนอำนวยสงคราม,ถนนเทอดดำริ,ถนนพระรามที่ 6,ทางคู่ขนานลอยฟ้าบรมราชชนนี,"In the Bangkok area, which road cannot directly reach ถนนเศรษฐศิริ?",D
+38,ซอยรัชดาภิเษก 18,ถนนประชาสงเคราะห์,ซอย 20 มิถุนา,ทางลัดถนนสาทรเหนือ-ถนนสุรวงศ์,"In the Bangkok area, which road cannot directly reach ถนนประชาราษฎร์บำเพ็ญ?",D
+39,ถนนวงเวียนยี่สิบสองกรกฎาคม,ซอยรัชดาภิเษก 18,ถนนสุทธิสารวินิจฉัย,ซอยลาดพร้าว 64,"In the Bangkok area, which road cannot directly reach ซอย 20 มิถุนา?",A
+40,ถนนหน้าพระธาตุ,ถนนรัชดาภิเษก,ถนนประชาราษฎร์บำเพ็ญ,ซอย 20 มิถุนา,"In the Bangkok area, which road cannot directly reach ซอยรัชดาภิเษก 18?",A
+41,ถนนประชาราษฎร์บำเพ็ญ,ซอยประชาราษฎร์บำเพ็ญ 24,ถนนเลียบรั้ว รฟม.,ถนนประดิษฐ์มนูธรรม,"In the Bangkok area, which road cannot directly reach ถนนประชาอุทิศ?",D
+42,ถนนเทียมร่วมมิตร,ถนนสาทรเหนือ,ถนนประชาราษฎร์บำเพ็ญ,ถนนประชาอุทิศ,"In the Bangkok area, which road cannot directly reach ซอยประชาราษฎร์บำเพ็ญ 24?",B
+43,ถนนหลานหลวง,ถนนนครสวรรค์,ประชาสงเคราะห์ 45,ถนนนครราชสีมา,"In the Bangkok area, which road cannot directly reach ถนนลูกหลวง?",C
+44,ถนนราชินี,ถนนพระสุเมรุ,ถนนเพชรเกษม,ถนนตะนาว,"In the Bangkok area, which road cannot directly reach ถนนราชดำเนินกลาง?",C
+45,ถนนคู่ขนานทางพิเศษประจิมรัถยา,ถนนเฟื่องนคร,ถนนบวรนิเวศน์,ถนนราชดำเนินกลาง,"In the Bangkok area, which road cannot directly reach ถนนตะนาว?",A
+46,ถนนราชวิถี,ถนนริมคลองประปาฝั่งขวา,ถนนศรีอยุธยา,ถนนสุโขทัย,"In the Bangkok area, which road cannot directly reach ถนนสวรรคโลก?",B
+47,ถนนอโศกมนตรี,ถนนมหานคร,ถนนพระรามที่ 4,ถนนจรัสเมือง,"In the Bangkok area, which road cannot directly reach ถนนจารุเมือง?",A
+48,ถนนเกษมราษฎร์,ถนนบรรทัดทอง,ถนนจารุเมือง,ถนนพระรามที่ 6,"In the Bangkok area, which road cannot directly reach ถนนจรัสเมือง?",A
+49,ถนนราชดำริ,ซอยเลียบคลองผดุงกรุงเกษม,ถนนมเหสักข์,ถนนเจริญกรุง,"In the Bangkok area, which road cannot directly reach ถนนสีลม?",B
+50,ถนนสีลม,ถนนสุรวงศ์,ถนนอินทรพิทักษ์,ถนนสาทรเหนือ,"In the Bangkok area, which road cannot directly reach ทางลัดถนนสาทรเหนือ-ถนนสุรวงศ์?",C
+51,ถนนราชดำริ,ถนนพญาไท,ซอยนราธิวาสราชนครินทร์ 22,ถนนอังรีดูนังต์,"In the Bangkok area, which road cannot directly reach ถนนพระรามที่ 1?",C
+52,ถนนศรีอยุธยา,ถนนพระรามที่ 1,ถนนสารสิน,ถนนราชปรารภ,"In the Bangkok area, which road cannot directly reach ถนนราชดำริ?",A
+53,ถนนพระรามที่ 1,ถนนหลังสวน,ถนนราชดำริ,ถนนประดิพัทธ์,"In the Bangkok area, which road cannot directly reach ถนนเพลินจิต?",D
+54,ถนนพระรามที่ 4,ถนนเจริญกรุง,ถนนมหาเศรษฐ์,ถนนเพชรบุรี,"In the Bangkok area, which road cannot directly reach ถนนสุรวงศ์?",D
+55,ถนนพระรามที่ 4,ถนนสุรวงศ์,ถนนพระรามที่ 1,ประชาสงเคราะห์ 45,"In the Bangkok area, which road cannot directly reach ถนนอังรีดูนังต์?",D
+56,ถนนพญาไท,ถนนเพชรพระราม,ซอยประดิพัทธ์ 4,ถนนพระรามที่ 6,"In the Bangkok area, which road cannot directly reach ถนนเพชรบุรี?",C
+57,ถนนทหาร,ถนนปากน้ำกระโจมทอง,ถนนสาลีรัฐวิภาค,ถนนพระรามที่ 6,"In the Bangkok area, which road cannot directly reach ถนนประดิพัทธ์?",B
+58,ถนนสวรรคโลก,ซอยจุฬาลงกรณ์ 12,ถนนเศรษฐศิริ,ถนนประดิพัทธ์,"In the Bangkok area, which road cannot directly reach ถนนเทอดดำริ?",B
+59,ถนนเตชะวนิช,ซอยเสนาร่วม,ถนนประดิพัทธ์,ถนนทหาร,"In the Bangkok area, which road cannot directly reach ถนนพระรามที่ 5?",B
+60,ถนนทหาร,ถนนพระรามที่ 6,ถนนปูนซิเมนต์ไทย,ถนนสุรวงศ์,"In the Bangkok area, which road cannot directly reach ถนนเตชะวนิช?",D
+61,ถนนสามเสน,ซอยโปลิศสภา,ถนนเตชะวนิช,ถนนพระรามที่ 5,"In the Bangkok area, which road cannot directly reach ถนนทหาร?",B
+62,ถนนราชินี,ถนนพิชัย,ถนนร่วมจิตต์,ถนนพระรามที่ 5,"In the Bangkok area, which road cannot directly reach ถนนอำนวยสงคราม?",A
+63,ถนนพระรามที่ 4,ถนนทางรถไฟสายเก่าปากน้ำ,ถนนอาจณรงค์,ถนนนนทรี,"In the Bangkok area, which road cannot directly reach ถนนกล้วยน้ำไท?",D
+64,ถนนสมเด็จเจ้าพระยา,ถนนบำรุงเมือง,ถนนอิสรภาพ,ถนนลาดหญ้า,"In the Bangkok area, which road cannot directly reach ถนนท่าดินแดง?",B
+65,พระราม 9 ซอย 17,ถนนท่าดินแดง,ถนนเจริญนคร,ถนนลาดหญ้า,"In the Bangkok area, which road cannot directly reach ถนนสมเด็จเจ้าพระยา?",A
+66,ถนนบรมราชชนนี,ถนนอังรีดูนังต์,ถนนจักรพงษ์,ถนนราชินี,"In the Bangkok area, which road cannot directly reach ถนนสมเด็จพระปิ่นเกล้า?",B
+67,ถนนลาดพร้าว,ถนนรุ่งประชา,ถนนสิรินธร,ถนนจรัญสนิทวงศ์,"In the Bangkok area, which road cannot directly reach ถนนบรมราชชนนี?",A
+68,ถนนเจริญรัถ,ถนนกรุงธนบุรี,ถนนหลังสวน,วงเวียนใหญ่,"In the Bangkok area, which road cannot directly reach ถนนสมเด็จพระเจ้าตากสิน?",C
+69,ถนนเจริญกรุง,ถนนเจริญนคร,ถนนอู่ทองนอก,ถนนรัชดาภิเษก,"In the Bangkok area, which road cannot directly reach ถนนมไหสวรรย์?",C
+70,ถนนจตุรทิศ,ถนนราชปรารภ,ถนนสุโขทัย,ถนนสามเสน,"In the Bangkok area, which road cannot directly reach ถนนศรีอยุธยา?",C
+71,ถนนจรัญสนิทวงศ์,ถนนวังหลัง,ซอยลาดพร้าว 64,ถนนอิสรภาพ,"In the Bangkok area, which road cannot directly reach ถนนพรานนก?",C
+72,ถนนอรุณอมรินทร์,ซอยฟาร์มวัฒนา,ถนนพรานนก,ถนนอิสรภาพ,"In the Bangkok area, which road cannot directly reach ถนนวังหลัง?",B
+73,ถนนวังเดิม,ถนนปากน้ำฝั่งเหนือ,ถนนพรานนก,ถนนลาดหญ้า,"In the Bangkok area, which road cannot directly reach ถนนอิสรภาพ?",B
+74,ถนนพระรามที่ 6,ถนนชัยพฤกษ์,ถนนกำแพงเพชร 5,ถนนเทอดดำริ,"In the Bangkok area, which road cannot directly reach ถนนนครไชยศรี?",B
+75,ซอยกรุงเทพ-นนทบุรี 13,ถนนนครไชยศรี,ถนนสุโขทัย,ถนนอำนวยสงคราม,"In the Bangkok area, which road cannot directly reach ถนนพิชัย?",A
+76,ถนนสุขุมวิท 71,ซอยเอกมัย 5,ซอยสุขุมวิท 63,ถนนประชาอุทิศ,"In the Bangkok area, which road cannot directly reach ซอยปรีดี พนมยงค์ 31?",D
+77,วงเวียนอนุสาวรีย์ชัยสมรภูมิ,ซอยสุขุมวิท 55,ซอยปรีดี พนมยงค์ 31,ซอยสุขุมวิท 63,"In the Bangkok area, which road cannot directly reach ซอยเอกมัย 5?",A
+78,ซอยเอกมัย 5,ซอยทองหล่อ 20,ถนนสุขุมวิท,ซอยเพชรบุรี 47,"In the Bangkok area, which road cannot directly reach ซอยสุขุมวิท 63?",D
+79,ถนนสามเสน,ถนนพระรามที่ 5,ถนนสมเด็จเจ้าพระยา,ถนนขาว,"In the Bangkok area, which road cannot directly reach ถนนสุโขทัย?",C
+80,ซอยจันทน์ 27,ถนนจันทน์,ถนนสุโขทัย,ซอยสาทร 11,"In the Bangkok area, which road cannot directly reach ซอยจันทน์ 18/7?",C
+81,ถนนจันทน์,ซอยจันทน์ 18/7,ซอยสาธุประดิษฐ์ 20,ถนนดินแดง-บึงมักกะสัน,"In the Bangkok area, which road cannot directly reach ซอยจันทน์ 27?",D
+82,ถนนเย็นจิต,ซอยเพชรเกษม 4,ถนนสาธุประดิษฐ์,ถนนเจริญราษฎร์,"In the Bangkok area, which road cannot directly reach ถนนจันทน์?",B
+83,ถนนประชาสงเคราะห์,ถนนพระราม 9,ถนนกำแพงเพชร 1,ถนนอโศก-ดินแดง,"In the Bangkok area, which road cannot directly reach ถนนจตุรทิศ?",C
+84,ถนนดินแดง,ถนนเอกชัย,ถนนจตุรทิศ,ถนนอโศก-ดินแดง,"In the Bangkok area, which road cannot directly reach ถนนประชาสงเคราะห์?",B
+85,ถนนดินแดง,ถนนรัชดาภิเษก,ถนนวรจักร,ถนนประชาสงเคราะห์,"In the Bangkok area, which road cannot directly reach ถนนอโศก-ดินแดง?",C
+86,ถนนนครไชยศรี,ถนนอำนวยสงคราม,ถนนนครราชสีมา,ซอยสุขุมวิท 40,"In the Bangkok area, which road cannot directly reach ถนนร่วมจิตต์?",D
+87,ซอยจันทน์ 18/7,ถนนพหลโยธิน,ถนนประชาสุข,ถนนวิภาวดีรังสิต,"In the Bangkok area, which road cannot directly reach ถนนสุทธิสารวินิจฉัย?",A
+88,ถนนวัฒนธรรม,ถนนรัชดาภิเษก,บางกรวย-ไทรน้อย 17,ถนนประดิษฐ์มนูธรรม,"In the Bangkok area, which road cannot directly reach ถนนพระราม 9?",C
+89,ถนนบรมราชชนนี (ทางขนาน),ถนนพระราม 9,ถนนมหาพฤฒาราม,ถนนริมคลองประปาฝั่งขวา,"In the Bangkok area, which road directly reaches ถนนประดิษฐ์มนูธรรม?",B
+90,วงเวียนอนุสาวรีย์ชัยสมรภูมิ,ถนนอิสรภาพ,ซอยลาดพร้าววังหิน 61,ถนนตรีเพชร,"In the Bangkok area, which road directly reaches ซอยลาดพร้าววังหิน 48?",C
+91,ถนนบางกรวย-จงถนอม,ซอยลาดพร้าววังหิน 61,ถนนโชคชัย 4,ซอยลาดพร้าววังหิน 48,"In the Bangkok area, which road cannot directly reach ถนนลาดพร้าววังหิน?",A
+92,ถนนเพชรพระราม,ถนนลาดพร้าววังหิน,ซอยลาดพร้าววังหิน 48,ถนนรัชดาภิเษก,"In the Bangkok area, which road cannot directly reach ซอยลาดพร้าววังหิน 61?",A
+93,ถนนประชาธิปก,ถนนราชวิถี,ถนนเศรษฐศิริ,ถนนประดิพัทธ์,"In the Bangkok area, which road cannot directly reach ถนนกำแพงเพชร 5?",A
+94,ถนนสุรวงศ์,ถนนชิดลม,ถนนรัชดาภิเษก,ซอยนราธิวาสราชนครินทร์ 17,"In the Bangkok area, which road cannot directly reach ถนนนราธิวาสราชนครินทร์?",B
+95,ถนนเกษมราษฎร์,ถนนบำรุงเมือง,ถนนพระพิพิธ,ถนนเจริญกรุง,"In the Bangkok area, which road cannot directly reach ถนนอัษฎางค์?",A
+96,ซอยเพชรบุรี 47,ถนนมิตรพันธ์,ถนนนครราชสีมา,ถนนสามเสน,"In the Bangkok area, which road cannot directly reach ถนนกรุงเกษม?",A
+97,ถนนวิสุทธิกษัตริย์,ถนนประชาธิปไตย,ถนนดินสอ,ถนนกรุงเกษม,"In the Bangkok area, which road cannot directly reach ถนนประชาธิปไตย?",B
+98,ถนนวิสุทธิกษัตริย์,ถนนหลานหลวง,ซอยพหลโยธิน 5,ถนนบำรุงเมือง,"In the Bangkok area, which road cannot directly reach ถนนจักรพรรดิพงษ์?",C
+99,ถนนหลานหลวง,ถนนราชดำเนินกลาง,ถนนจักรพรรดิพงษ์,ถนนคู่ขนานทางพิเศษประจิมรัถยา,"In the Bangkok area, which road cannot directly reach ถนนราชดำเนินนอก?",D
+100,ถนนจักรพรรดิพงษ์,ถนนสาทรเหนือ,สะพานพระราม 8,ถนนประชาธิปไตย,"In the Bangkok area, which road cannot directly reach ถนนวิสุทธิกษัตริย์?",B
+101,ซอยประชาสงเคราะห์ 28,ถนนพระอาทิตย์,ถนนทหาร,ถนนพิษณุโลก,"In the Bangkok area, which road cannot directly reach ถนนสามเสน?",A
+102,ถนนอโศก-ดินแดง,ซอยจุฬาลงกรณ์ 12,ถนนพระรามที่ 1,ถนนเจริญเมือง,"In the Bangkok area, which road cannot directly reach ถนนบรรทัดทอง?",A
+103,ถนนรัชดาภิเษก,ซอยสาธุประดิษฐ์ 20,ถนนราชดำเนินนอก,ซอยนราธิวาสราชนครินทร์ 22,"In the Bangkok area, which road cannot directly reach ถนนสาธุประดิษฐ์?",C
+104,ซอยเพชรเกษม 23,ซอยเพชรเกษม 4,ถนนราชพฤกษ์,ซอยบางขนุน 5,"In the Bangkok area, which road cannot directly reach ถนนเพชรเกษม?",D
+105,บางกรวย-ไทรน้อย 17,ถนนเทอดพระเกียรติ,ถนนมิตรภาพไทย-จีน,ถนนบางไผ่พัฒนา – แยกวัดทองนาปรัง,"In the Bangkok area, which road cannot directly reach ถนนบางกรวย-ไทรน้อย?",C
+106,ถนนสิบสามห้าง,ถนนรพช. นนทบุรี 4007,ถนนบางกรวย-ไทรน้อย,ถนนเทอดพระเกียรติ,"In the Bangkok area, which road cannot directly reach ถนนบางกรวย-จงถนอม?",A
+107,ถนนบางกรวย-ไทรน้อย,ถนนบางกรวย-จงถนอม,ถนนนครไชยศรี,ถนนคู่ขนานทางพิเศษประจิมรัถยา,"In the Bangkok area, which road cannot directly reach ถนนเทอดพระเกียรติ?",C
+108,ถนนบางไผ่พัฒนา – แยกวัดตึก,ถนนบางกรวย-ไทรน้อย,บางกรวย-ไทรน้อย 17,ถนนจรัญสนิทวงศ์,"In the Bangkok area, which road cannot directly reach ถนนบางไผ่พัฒนา – แยกวัดทองนาปรัง?",D
+109,ถนนคู่ขนานทางพิเศษประจิมรัถยา,ถนนบางไผ่พัฒนา – แยกวัดทองนาปรัง,ถนนบางกรวย-ไทรน้อย,ถนนลาดพร้าววังหิน,"In the Bangkok area, which road cannot directly reach บางกรวย-ไทรน้อย 17?",D
+110,ถนนเกษมราษฎร์,ถนนสุนทรโกษา,ซอยสุขุมวิท 26,ถนนกล้วยน้ำไท,"In the Bangkok area, which road cannot directly reach ถนนอาจณรงค์?",C
+111,ถนนอาจณรงค์,ถนนเกษมราษฎร์,ถนนพระรามที่ 4,สะพานข้ามแยกศิริราช,"In the Bangkok area, which road cannot directly reach ถนนสุนทรโกษา?",D
+112,ถนนวรจักร,ถนนลาดหญ้า,ถนนเจริญรัถ,ถนนมไหสวรรย์,"In the Bangkok area, which road cannot directly reach ถนนเจริญนคร?",A
+113,ถนนเจริญราษฎร์,ถนนสุรศักดิ์,ถนนสวนพลู,ถนนนครสวรรค์,"In the Bangkok area, which road cannot directly reach ถนนสาทรใต้?",D
+114,ถนนสุรศักดิ์,ซอยบางขนุน 5,ถนนเจริญราษฎร์,ถนนพระรามที่ 4,"In the Bangkok area, which road cannot directly reach ถนนสาทรเหนือ?",B
+115,ถนนอรุณอมรินทร์,ถนนสมเด็จเจ้าพระยา,วงเวียนใหญ่,ซอยวิภาวดีรังสิต 16,"In the Bangkok area, which road cannot directly reach ถนนประชาธิปก?",D
+116,ซอยสุขุมวิท 42,ถนนสี่พระยา,ถนนพระรามที่ 4,ถนนมหาเศรษฐ์,"In the Bangkok area, which road cannot directly reach ถนนมหานคร?",A
+117,ถนนประดิษฐ์มนูธรรม,ถนนพหลโยธิน,ถนนประดิพัทธ์,ถนนสุทธิสารวินิจฉัย,"In the Bangkok area, which road cannot directly reach ถนนสาลีรัฐวิภาค?",A
+118,ซอยพหลโยธิน 2,ถนนบ้านหม้อ,วงเวียนอนุสาวรีย์ชัยสมรภูมิ,ถนนลาดพร้าว,"In the Bangkok area, which road cannot directly reach ถนนพหลโยธิน?",B
+119,ถนนสาทรเหนือ,ถนนสีลม,ซอยเจริญราษฎร์ 7,ถนนสุรศักดิ์,"In the Bangkok area, which road cannot directly reach ถนนเจริญราษฎร์?",B
+120,ซอยพหลโยธิน 5,ถนนเจริญกรุง,ถนนนางลิ้นจี่,ถนนนราธิวาสราชนครินทร์,"In the Bangkok area, which road cannot directly reach ถนนพระรามที่ 3?",A
+121,ถนนทรงวาด,สะพานข้ามแยกศิริราช,ถนนวังหลัง,ถนนสมเด็จพระปิ่นเกล้า,"In the Bangkok area, which road cannot directly reach ถนนอรุณอมรินทร์?",A
+122,ถนนปากน้ำกระโจมทอง,ถนนพรานนก,ถนนลาดพร้าว,ถนนปากน้ำฝั่งเหนือ,"In the Bangkok area, which road cannot directly reach ถนนพรานนก-พุทธมณฑลสาย 4?",C
+123,ถนนรัชดาภิเษก,ถนนพระราม 9,ซอยลาดพร้าว 64,ถนนพหลโยธิน,"In the Bangkok area, which road cannot directly reach ถนนลาดพร้าว?",B
+124,ถนนกำแพงเพชร 7,ถนนพระราม 9,ถนนพหลโยธิน,ถนนเพชรบุรี,"In the Bangkok area, which road cannot directly reach ถนนเพชรอุทัย?",C
+125,ถนนกำแพงเพชร 2,ถนนกำแพงเพชร,ถนนกรุงเทพอภิวัฒน์,ถนนสนามไชย,"In the Bangkok area, which road cannot directly reach ถนนกำแพงเพชร 6?",D
+126,ถนนกำแพงเพชร,สะพานพระราม 8,ถนนเศรษฐศิริ,ถนนจารุเมือง,"In the Bangkok area, which road directly reaches ถนนกรุงเทพอภิวัฒน์?",A
+127,ถนนราชปรารภ,ถนนกำแพงเพชร 7,ซอยเพชรบุรี 31,ซอยจรัญสนิทวงศ์ 75,"In the Bangkok area, which road cannot directly reach ถนนนิคมมักกะสัน?",D
+128,ถนนสิบสามห้าง,ถนนประชาธิปไตย,ถนนดินสอ,ถนนข้าวหลาม,"In the Bangkok area, which road cannot directly reach ถนนพระสุเมรุ?",D
+129,ถนนสามเสน,ถนนพระสุเมรุ,วงเวียนใหญ่,ถนนเจ้าฟ้า,"In the Bangkok area, which road cannot directly reach ถนนพระอาทิตย์?",C
+130,ถนนกัลปพฤกษ์,ถนนรัชดาภิเษก,ถนนรถไฟ,ถนนเพชรเกษม,"In the Bangkok area, which road cannot directly reach ถนนราชพฤกษ์?",C
+131,ถนนสนามไชย,ถนนจักรเพชร,ถนนชิดลม,ถนนราชินี,"In the Bangkok area, which road cannot directly reach ถนนมหาราช?",C
+132,ถนนจอมทอง,ถนนประชาธิปไตย,ถนนพระสุเมรุ,ถนนราชดำเนินกลาง,"In the Bangkok area, which road cannot directly reach ถนนดินสอ?",A
+133,ถนนพาหุรัด,ถนนมหาราช,ถนนตีทอง,ถนนเจริญกรุง,"In the Bangkok area, which road cannot directly reach ถนนตรีเพชร?",B
+134,ซอยฟาร์มวัฒนา,ถนนบำรุงเมือง,ถนนตรีเพชร,ถนนเจริญกรุง,"In the Bangkok area, which road cannot directly reach ถนนตีทอง?",A
+135,ซอยเพชรบุรี 47,ถนนสนามไชย,ถนนบำรุงเมือง,ถนนอัษฎางค์,"In the Bangkok area, which road cannot directly reach ถนนกัลยาณไมตรี?",A
+136,ซอยรัชดาภิเษก 18,ถนนอัษฎางค์,ถนนกรุงเกษม,ถนนตะนาว,"In the Bangkok area, which road cannot directly reach ถนนบำรุงเมือง?",A
+137,ซอยสุขุมวิท 61,ถนนสาทรเหนือ,ถนนเจริญราษฎร์,ถนนสาทรใต้,"In the Bangkok area, which road cannot directly reach ถนนสุรศักดิ์?",A
+138,ถนนราชดำเนินนอก,ถนนไมตรีจิตต์,ถนนกรุงเกษม,ถนนพิษณุโลก,"In the Bangkok area, which road cannot directly reach ถนนนครสวรรค์?",B
+139,ถนนลูกหลวง,ถนนกรุงเกษม,ถนนทรงสวัสดิ์,ถนนราชดำเนินกลาง,"In the Bangkok area, which road cannot directly reach ถนนหลานหลวง?",C
+140,ถนนยุคล 2,ถนนกรุงเกษม,ถนนราชปรารภ,ถนนพลับพลาไชย,"In the Bangkok area, which road cannot directly reach ถนนหลวง?",C
+141,ถนนบำรุงเมือง,ถนนไมตรีจิตต์,ถนนหลวง,ซอยปรีดี พนมยงค์ 31,"In the Bangkok area, which road cannot directly reach ถนนพลับพลาไชย?",D
+142,ถนนวงเวียนยี่สิบสองกรกฎาคม,ถนนพระรามที่ 4,ถนนพลับพลาไชย,ถนนหลวง,"In the Bangkok area, which road cannot directly reach ถนนไมตรีจิตต์?",B
+143,ถนนยุคล 2,ถนนเจริญกรุง,ถนนหลวง,ถนนสิบสามห้าง,"In the Bangkok area, which road cannot directly reach ถนนเสือป่า?",D
+144,ถนนหลวง,ถนนสามเสน,ถนนเสือป่า,ถนนบำรุงเมือง,"In the Bangkok area, which road cannot directly reach ถนนยุคล 2?",B
+145,ถนนทรงวาด,ถนนดวงพิทักษ์,ถนนเสือป่า,ถนนเยาวราช,"In the Bangkok area, which road cannot directly reach ถนนราชวงศ์?",B
+146,ถนนพหลโยธิน,ถนนมิตรพันธ์,ถนนอัษฎางค์,ซอยสุขุมวิท 61,"In the Bangkok area, which road directly reaches ถนนวงเวียนยี่สิบสองกรกฎาคม?",B
+147,ถนนกรุงเกษม,ถนนวงเวียนยี่สิบสองกรกฎาคม,ถนนหลวง,ถนนตะนาว,"In the Bangkok area, which road cannot directly reach ถนนมิตรพันธ์?",D
+148,ถนนอัษฎางค์,ถนนนครราชสีมา,ถนนดินสอ,ถนนราชพฤกษ์,"In the Bangkok area, which road directly reaches ถนนอู่ทองนอก?",B
+149,ถนนหลวง,ถนนอาจณรงค์,ถนนสุขุมวิท,ถนนเทอดดำริ,"In the Bangkok area, which road directly reaches ซอยสุขุมวิท 39?",C
+150,ซอยสุขุมวิท 39,ซอย 20 มิถุนา,ซอยทองหล่อ 20,ถนนพระจันทร์,"In the Bangkok area, which road directly reaches ซอยทองหล่อ 13?",A
+151,ถนนรัชดาภิเษก,ถนนสุนทรโกษา,ซอยเจริญราษฎร์ 7,ถนนพระรามที่ 3,"In the Bangkok area, which road cannot directly reach ถนน ณ ระนอง?",C
+152,ถนนพญาไท,ถนนวัฒนธรรม,ถนนพรานนก-พุทธมณฑลสาย 4,ถนนสามเสน,"In the Bangkok area, which road directly reaches ถนนรางน้ำ?",A
+153,ถนนหลังสวน,ถนนราชดำริ,ถนนวิทยุ,ถนนลาดพร้าววังหิน,"In the Bangkok area, which road cannot directly reach ถนนสารสิน?",D
+154,ถนนเชื้อเพลิง,ถนนมหาราช,ถนนสนามไชย,ถนนหน้าพระธาตุ,"In the Bangkok area, which road cannot directly reach ถนนหน้าพระลาน?",A
+155,สะพานพระพุทธยอดฟ้า,ถนนพระรามที่ 3,ซอยนราธิวาสราชนครินทร์ 17,ถนนจันทน์,"In the Bangkok area, which road cannot directly reach ถนนนางลิ้นจี่?",A
+156,ถนน ณ ระนอง,ถนนบำรุงเมือง,ถนนหลวง,ถนนเจริญกรุง,"In the Bangkok area, which road cannot directly reach ถนนวรจักร?",A
+157,ถนนมหาพฤฒาราม,ถนนพระรามที่ 4,ถนนพญาไท,ถนนมหาเศรษฐ์,"In the Bangkok area, which road cannot directly reach ถนนสี่พระยา?",A
+158,ถนนเพลินจิต,ซอยสาธุประดิษฐ์ 20,ถนนแฉล้มนิมิตร,ถนนเยาวราช,"In the Bangkok area, which road directly reaches ถนนชิดลม?",A
+159,ประชาสงเคราะห์ 45,ทางพิเศษศรีรัช,ถนนประชาสงเคราะห์,ถนนสุทธิสารวินิจฉัย,"In the Bangkok area, which road cannot directly reach ถนนประชาสุข?",B
+160,ถนนลาดพร้าว,ถนนสุทธิสารวินิจฉัย,ซอยนราธิวาสราชนครินทร์ 14,ซอย 20 มิถุนา,"In the Bangkok area, which road cannot directly reach ซอยลาดพร้าว 64?",C
+161,ถนนหน้าพระลาน,ถนนหน้าพระธาตุ,ซอยพหลโยธิน 5,ถนนมหาราช,"In the Bangkok area, which road cannot directly reach ถนนพระจันทร์?",C
+162,ถนนบรรทัดทอง,ถนนหลานหลวง,ซอยสุขุมวิท 42,ถนนประชาธิปก,"In the Bangkok area, which road directly reaches ซอยจุฬาลงกรณ์ 12?",A
+163,ซอยนราธิวาสราชนครินทร์ 22,ถนนท่าดินแดง,ถนนพหลโยธิน,ถนนเจริญนคร,"In the Bangkok area, which road directly reaches ซอยพหลโยธิน 5?",C
+164,ถนนจารุเมือง,ถนนวิสุทธิกษัตริย์,ถนนสามเสน,ถนนอโศก-ดินแดง,"In the Bangkok area, which road directly reaches ถนนเจริญเมือง?",A
+165,ซอยจันทน์ 16,ซอยประชาสงเคราะห์ 28,ซอยประชาชื่น 6,ถนนพาณิชยการธนบุรี,"In the Bangkok area, which road directly reaches ถนนประชาชื่น?",C
+166,ถนนเลียบทางรถไฟสายใต้,ถนนริมคลองประปาฝั่งขวา,ถนนกรุงเทพ-นนทบุรี,ถนนเตชะวนิช,"In the Bangkok area, which road cannot directly reach ถนนประชาราษฎร์ สาย 2?",A
+167,ถนนเตชะวนิช,ถนนเทอดดำริ,ถนนประชาราษฎร์ สาย 2,ซอยจุฬาลงกรณ์ 12,"In the Bangkok area, which road cannot directly reach ถนนปูนซิเมนต์ไทย?",D
+168,ซอยจันทร์ 18/7 แยก 1,ถนนทหาร,ถนนเย็นจิต,ซอยจันทน์ 18/7,"In the Bangkok area, which road cannot directly reach ซอยเย็นจิต 12?",B
+169,ถนนจันทน์,ซอยจันทร์ 18/7 แยก 1,ซอยเย็นจิต 12,วงเวียนใหญ่,"In the Bangkok area, which road cannot directly reach ถนนเย็นจิต?",D
+170,ซอยเย็นจิต 12,สะพานพระราม 8,ถนนเย็นจิต,ซอยจันทน์ 18/7,"In the Bangkok area, which road cannot directly reach ซอยจันทร์ 18/7 แยก 1?",B
+171,ถนนสุรวงศ์,ถนนมหานคร,ถนนมเหสักข์,ถนนเพชรอุทัย,"In the Bangkok area, which road cannot directly reach ถนนมหาเศรษฐ์?",D
+172,ถนนสุรวงศ์,ถนนสีลม,ซอยลาดพร้าว 64,ถนนมหาเศรษฐ์,"In the Bangkok area, which road cannot directly reach ถนนมเหสักข์?",C
+173,ถนนหลังสวน,ถนนข้าวหลาม,ถนนทางรถไฟสายเก่าปากน้ำ,ถนนจารุเมือง,"In the Bangkok area, which road directly reaches ซอยสุขุมวิท 50?",C
+174,ถนนทางรถไฟสายเก่าปากน้ำ,ถนนเจริญเมือง,ซอยเจริญราษฎร์ 7,ถนนวิภาวดีรังสิต,"In the Bangkok area, which road directly reaches ซอยสุขุมวิท 62?",A
+175,ถนนพหลโยธิน,ถนนสาทรใต้,ถนนวิภาวดีรังสิต,ถนนสุรศักดิ์,"In the Bangkok area, which road directly reaches ซอยเสนาร่วม?",A
+176,ถนนทรัพย์,ซอยทองหล่อ 20,ถนนประชาราษฎร์บำเพ็ญ,ถนนประดิพัทธ์,"In the Bangkok area, which road directly reaches ซอยประดิพัทธ์ 4?",D
+177,ถนนพระรามที่ 4,ถนนบางกรวย-ไทรน้อย,ถนนอรุณอมรินทร์,ซอยสาธุประดิษฐ์ 20,"In the Bangkok area, which road directly reaches ซอยอิสรภาพ 42?",C
+178,ถนนจอมทอง,ถนนกรุงเทพ-นนทบุรี,ถนนเทอดไท,ถนนเอกชัย,"In the Bangkok area, which road cannot directly reach ถนนวุฒากาศ?",B
+179,ถนนทางรถไฟสายเก่าปากน้ำ,ถนนจอมทอง,ซอยประชาชื่น 6,ถนนสวนพลู,"In the Bangkok area, which road directly reaches ถนนเอกชัย?",B
+180,ถนนสุขสวัสดิ์,ซอยจอมทอง 19,ถนนแปลงนาม,ถนนวุฒากาศ,"In the Bangkok area, which road cannot directly reach ถนนจอมทอง?",C
+181,ถนนจักรวรรดิ์,ถนนยุคล 2,ถนนเทอดไท,ถนนจอมทอง,"In the Bangkok area, which road directly reaches ซอยจอมทอง 19?",D
+182,ซอยเพชรเกษม 23,ถนนปูนซิเมนต์ไทย,ถนนอินทรพิทักษ์,ถนนวุฒากาศ,"In the Bangkok area, which road cannot directly reach ถนนเทอดไท?",B
+183,ถนนพระรามที่ 3,วงเวียนใหญ่,ซอยปรีดี พนมยงค์ 31,ถนนกัลยาณไมตรี,"In the Bangkok area, which road directly reaches ถนนอินทรพิทักษ์?",B
+184,ถนนจรัสเมือง,ถนนทรงสวัสดิ์,ถนนประชาราษฎร์ สาย 1,ถนนกำแพงเพชร 6,"In the Bangkok area, which road directly reaches ถนนกำแพงเพชร 2?",D
+185,ถนนฉิมพลี,ถนนเลียบทางรถไฟสายใต้,ถนนบางขุนนนท์,ถนนแก้วเงินทอง,"In the Bangkok area, which road cannot directly reach ถนนฉิมพลี?",A
+186,ถนนรุ่งประชา,ถนนบางพรม,ซอยจรัญสนิทวงศ์ 35,ถนนปากน้ำฝั่งเหนือ,"In the Bangkok area, which road cannot directly reach ถนนแก้วเงินทอง?",A
+187,ถนนจรัญสนิทวงศ์,ถนนราชวงศ์,ซอยสุขุมวิท 62,ถนนมไหสวรรย์,"In the Bangkok area, which road directly reaches ถนนเลียบทางรถไฟสายใต้?",A
+188,ถนนสวนผัก,ถนนบางขุนนนท์,ถนนฉิมพลี,ถนนนิคมมักกะสัน,"In the Bangkok area, which road cannot directly reach ถนนชัยพฤกษ์?",D
+189,ถนนชัยพฤกษ์,ถนนจักรวรรดิ์,ถนนจรัญสนิทวงศ์,ถนนฉิมพลี,"In the Bangkok area, which road cannot directly reach ถนนบางขุนนนท์?",B
+190,ถนนสุรวงศ์,ถนนเย็นจิต,ถนนรองเมือง,ถนนชัยพฤกษ์,"In the Bangkok area, which road directly reaches ถนนสวนผัก?",D
+191,ถนนประชาราษฎร์ สาย1,ถนนบางกรวย-ไทรน้อย,ถนนวุฒากาศ,ถนนตะนาว,"In the Bangkok area, which road directly reaches ถนนเฟื่องนคร?",D
+192,ถนนอัษฎางค์,ถนนประชาราษฎร์ สาย 2,ถนนประชาราษฎร์ สาย1,ถนนสามเสน,"In the Bangkok area, which road cannot directly reach ถนนประชาราษฎร์ สาย 1?",A
+193,ถนนกำแพงเพชร 7,ถนนชัยพฤกษ์,ซอยประชาราษฎร์สาย 1 ซอย 24,ถนนพิบูลสงคราม,"In the Bangkok area, which road directly reaches ถนนประชาราษฎร์ สาย1?",D
+194,ถนนประชาราษฎร์ สาย1,ถนนดินสอ,ถนนวรจักร,ซอยเพชรเกษม 23,"In the Bangkok area, which road directly reaches ถนนพิบูลสงคราม?",A
+195,ถนนเจริญนคร,ถนนเจ้าฟ้า,ถนนสมเด็จเจ้าพระยา,ถนนท่าดินแดง,"In the Bangkok area, which road cannot directly reach ถนนลาดหญ้า?",B
+196,ซอยสุขุมวิท 39,ถนนเจริญเมือง,ถนนมิตรพันธ์,ซอยบางขนุน 5,"In the Bangkok area, which road directly reaches ถนนราชพฤกษ์ (ทางขนาน)?",D
+197,ถนนลาดพร้าว,ถนนเอกชัย,ถนนเจริญนคร,ถนนจอมทอง,"In the Bangkok area, which road directly reaches ถนนกรุงธนบุรี?",C
+198,ซอยลาดพร้าววังหิน 48,ซอยสาธุประดิษฐ์ 20,ซอยจันทน์ 27,ถนนจันทน์,"In the Bangkok area, which road cannot directly reach ซอยจันทน์ 43?",A
+199,ถนนมหาราช,ถนนสี่พระยา,ถนนประชาอุทิศ,ถนนสวนผัก,"In the Bangkok area, which road directly reaches ถนนทรัพย์?",B
+200,ถนนแก้วเงินทอง,ซอยจรัญสนิทวงศ์ 35,ถนนกำแพงเพชร 6,ถนนพรานนก-พุทธมณฑลสาย 4,"In the Bangkok area, which road cannot directly reach ถนนปากน้ำฝั่งเหนือ?",C
+201,ถนนประชาธิปก,ถนนจรัญสนิทวงศ์,ถนนปากน้ำฝั่งเหนือ,ถนนแก้วเงินทอง,"In the Bangkok area, which road cannot directly reach ซอยจรัญสนิทวงศ์ 35?",A
+202,ถนนหน้าพระลาน,ถนนแก้วเงินทอง,ถนนพิษณุโลก,ถนนเจริญเมือง,"In the Bangkok area, which road directly reaches ถนนบางพรม?",B
+203,ถนนสามเสน,ถนนพลับพลาไชย,ถนนสาทรเหนือ,ซอยสุขุมวิท 61,"In the Bangkok area, which road directly reaches ถนนขาว?",A
+204,ซอยจันทร์ 18/7 แยก 1,ถนนทหาร,ซอยปรีดี พนมยงค์ 31,ถนนพระรามที่ 4,"In the Bangkok area, which road directly reaches ซอยสุขุมวิท 26?",D
+205,ถนนอิสรภาพ,วงเวียนใหญ่,ซอยสุขุมวิท 63,ถนนพระอาทิตย์,"In the Bangkok area, which road directly reaches ซอยทองหล่อ 20?",C
+206,ถนนพระรามที่ 4,ซอยนราธิวาสราชนครินทร์ 17,ถนนสารสิน,ถนนเพลินจิต,"In the Bangkok area, which road cannot directly reach ถนนวิทยุ?",B
+207,ถนนประชาสงเคราะห์,ทางพิเศษเฉลิมมหานคร,ถนนพหลโยธิน-ดินแดง,ถนนเทียมร่วมมิตร,"In the Bangkok area, which road directly reaches ซอยประชาสงเคราะห์ 28?",A
+208,ถนนเจริญเมือง,ถนนรพช. นนทบุรี 4007,ถนนประชาสุข,ถนนนางลิ้นจี่,"In the Bangkok area, which road directly reaches ประชาสงเคราะห์ 45?",C
+209,ถนนสาธุประดิษฐ์,ซอยอรรถกระวี,ถนนนเรศ,ซอยสุขุมวิท 62,"In the Bangkok area, which road directly reaches ซอยสาธุประดิษฐ์ 34?",A
+210,ถนนราชพฤกษ์ (ทางขนาน),ถนนสาธุประดิษฐ์,ซอยจันทน์ 43,ซอยจันทน์ 27,"In the Bangkok area, which road cannot directly reach ซอยสาธุประดิษฐ์ 20?",A
+211,ถนนสังคมสงเคราะห์,ถนนโชคชัย 4,ถนนนครราชสีมา,ซอยปรีดี พนมยงค์ 31,"In the Bangkok area, which road directly reaches ถนนสุขุมวิท 71?",D
+212,ถนนเจริญราษฎร์,ถนนประชาราษฎร์บำเพ็ญ,ซอยพหลโยธิน 2,ถนนพระรามที่ 4,"In the Bangkok area, which road directly reaches ถนนแฉล้มนิมิตร?",A
+213,ถนนเจริญกรุง,ถนนราชดำเนินนอก,ถนนแฉล้มนิมิตร,ถนนเจริญราษฎร์,"In the Bangkok area, which road cannot directly reach ซอยเจริญกรุง 107?",B
+214,ถนนประชาราษฎร์บำเพ็ญ,ถนนบวรนิเวศน์,ซอยจันทน์ 42,ทางคู่ขนานลอยฟ้าบรมราชชนนี,"In the Bangkok area, which road directly reaches ซอยลาดพร้าว 80 แยก 22?",A
+215,ถนนปากน้ำกระโจมทอง,ถนนเพชรบุรี,ถนนพระราม 9,ถนนกำแพงเพชร 7,"In the Bangkok area, which road cannot directly reach ถนนเพชรพระราม?",A
+216,ถนนโชคชัย 4,ถนนบางไผ่พัฒนา – แยกวัดตึก,ถนนพระรามที่ 4,ถนนสมเด็จพระเจ้าตากสิน,"In the Bangkok area, which road directly reaches ถนนสังคมสงเคราะห์?",A
+217,ถนนสังคมสงเคราะห์,ซอยจันทร์ 18/7 แยก 1,ถนนลาดพร้าววังหิน,ถนนลาดพร้าว,"In the Bangkok area, which road cannot directly reach ถนนโชคชัย 4?",B
+218,ถนนพระรามที่ 4,ถนนศรีอยุธยา,ถนนพิษณุโลก,ถนนวัฒนธรรม,"In the Bangkok area, which road directly reaches ถนนเชื้อเพลิง?",A
+219,ซอยประชาชื่น 6,ถนนมหาเศรษฐ์,ถนนเจริญนคร,ถนนทรงสวัสดิ์,"In the Bangkok area, which road directly reaches ถนนริมคลองประปาฝั่งขวา?",A
+220,ซอยเอกมัย 5,ถนนพระรามที่ 5,ถนนริมคลองประปาฝั่งขวา,ถนนวังหลัง,"In the Bangkok area, which road directly reaches ซอยประชาชื่น 6?",C
+221,ถนนหน้าพระลาน,ถนนจรัญสนิทวงศ์,ถนนสนามไชย,ถนนราชดำเนินกลาง,"In the Bangkok area, which road cannot directly reach ถนนราชดำเนินใน?",B
+222,ถนนนราธิวาสราชนครินทร์,ถนนอรุณอมรินทร์,ถนนอังรีดูนังต์,ถนนวิภาวดีรังสิต,"In the Bangkok area, which road directly reaches ถนนวังเดิม?",B
+223,ทางพิเศษศรีรัช,ถนนประชาธิปไตย,ถนนอิสรภาพ,วงเวียนใหญ่,"In the Bangkok area, which road directly reaches ซอยอิสรภาพ 44?",C
+224,ถนนพระรามที่ 4,ถนนโชคชัย 4,ถนนข้าวหลาม,ถนนเจริญกรุง,"In the Bangkok area, which road cannot directly reach ถนนมหาพฤฒาราม?",B
+225,ถนนหลวง,ถนนเจริญกรุง,ถนนบำรุงเมือง,ซอยทองหล่อ 20,"In the Bangkok area, which road cannot directly reach ถนนมหาไชย?",D
+226,ถนนเพชรอุทัย,ถนนนิคมมักกะสัน,ถนนอโศก-ดินแดง,ถนนบรมราชชนนี,"In the Bangkok area, which road cannot directly reach ถนนกำแพงเพชร 7?",D
+227,ถนนสุขุมวิท,ซอยสุขุมวิท 3,ซอยทองหล่อ 13,ซอยเอกมัย 5,"In the Bangkok area, which road cannot directly reach ซอยสุขุมวิท 55?",B
+228,ถนนสุรศักดิ์,ซอยสุขุมวิท 42,ถนนอาจณรงค์,ถนนสาธุประดิษฐ์,"In the Bangkok area, which road directly reaches ซอยสาธุประดิษฐ์ 19?",D
+229,ถนนพระรามที่ 1,ถนนนราธิวาสราชนครินทร์,ซอยสุขุมวิท 22,ถนนจอมทอง,"In the Bangkok area, which road directly reaches ซอยนราธิวาสราชนครินทร์ 22?",B
+230,ถนนเลียบรั้ว รฟม.,ถนนเทอดไท,ถนนลาดพร้าววังหิน,ซอยสุขุมวิท 50,"In the Bangkok area, which road directly reaches ซอยเพชรเกษม 23?",B
+231,ถนนสาทรใต้,ซอยงามดูพลี,ถนนนางลิ้นจี่,ถนนบางกรวย-จงถนอม,"In the Bangkok area, which road cannot directly reach ถนนสวนพลู?",D
+232,ถนนอำนวยสงคราม,ถนนสวนพลู,ถนนนางลิ้นจี่,ถนนนราธิวาสราชนครินทร์,"In the Bangkok area, which road cannot directly reach ซอยนราธิวาสราชนครินทร์ 17?",A
+233,ถนนพระรามที่ 4,ถนนท้ายวัง,ถนนทางรถไฟสายเก่าปากน้ำ,ซอยสุขุมวิท 40,"In the Bangkok area, which road cannot directly reach ซอยมหาวิทยาลัยกรุงเทพ?",B
+234,ถนนรางน้ำ,ถนนสิรินธร,ถนนอโศกมนตรี,ถนนบางไผ่พัฒนา – แยกวัดทองนาปรัง,"In the Bangkok area, which road directly reaches ถนนบางไผ่พัฒนา – แยกวัดตึก?",D
+235,ถนนพาณิชยการธนบุรี,ถนนบางพรม,ถนนทรงวาด,ซอยมหาวิทยาลัยกรุงเทพ,"In the Bangkok area, which road directly reaches ซอยสุขุมวิท 40?",D
+236,ถนนเทียมร่วมมิตร,ถนนสนามไชย,พระราม 9 ซอย 17,ถนนประชาอุทิศ,"In the Bangkok area, which road cannot directly reach ถนนเลียบรั้ว รฟม.?",B
+237,ซอยเพชรบุรี 38/1,ถนนกรุงธนบุรี,ถนนกำแพงเพชร 1,ถนนจอมทอง,"In the Bangkok area, which road directly reaches ถนนสุขสวัสดิ์?",D
+238,ถนนพระพิทักษ์,ถนนอาจณรงค์,ถนนประชาอุทิศ,ถนนวงศ์สว่าง,"In the Bangkok area, which road directly reaches ถนนบ้านหม้อ?",A
+239,ซอยบางขนุน 5,ซอยปรีดี พนมยงค์ 31,ถนนราชดำเนินกลาง,ถนนเกษมราษฎร์,"In the Bangkok area, which road directly reaches ถนนรพช. นนทบุรี 4007?",A
+240,ถนนรพช. นนทบุรี 4007,ถนนมหานคร,ถนนอังรีดูนังต์,ถนนประชาธิปไตย,"In the Bangkok area, which road directly reaches ซอยบางขนุน 5?",A
+241,ถนนประชาสงเคราะห์,ถนนสุขุมวิท,ถนนพระพิทักษ์,ถนนราชดำเนินนอก,"In the Bangkok area, which road directly reaches ซอยอรรถกวี?",B
+242,ทางคู่ขนานลอยฟ้าบรมราชชนนี,ถนนประชาธิปก,ซอยเจริญกรุง 107,ถนนอิสรภาพ,"In the Bangkok area, which road directly reaches ซอยเพชรเกษม 4?",D
+243,ซอยประชาสงเคราะห์ 28,ถนนพระราม 9,ถนนพระรามที่ 4,ถนนเศรษฐศิริ,"In the Bangkok area, which road directly reaches ซอยงามดูพลี?",C
+244,ซอยอิสรภาพ 42,ถนนเจริญนคร,ถนนโชคชัย 4,ถนนริมคลองประปาฝั่งขวา,"In the Bangkok area, which road directly reaches ถนนเจริญรัถ?",B
+245,ซอยลาดพร้าววังหิน 48,บางกรวย-ไทรน้อย 17,ถนนเพชรบุรี,ซอยจันทน์ 18/7,"In the Bangkok area, which road directly reaches ซอยเพชรบุรี 38/1?",C
+246,ถนนอรุณอมรินทร์,ซอยจอมทอง 19,ถนนสุทธาวาส,ถนนอิสรภาพ,"In the Bangkok area, which road cannot directly reach ถนนรถไฟ?",B
+247,ถนนอิสรภาพ,ซอยสาธุประดิษฐ์ 20,ถนนจรัญสนิทวงศ์,ถนนรถไฟ,"In the Bangkok area, which road cannot directly reach ถนนสุทธาวาส?",B
+248,ถนนจันทน์,ถนนวรจักร,ซอยเจริญราษฎร์ 7,ถนนพระพิพิธ,"In the Bangkok area, which road directly reaches ซอยจันทน์ 42?",A
+249,ถนนเพลินจิต,ถนนสุขุมวิท,ถนนจอมทอง,ถนนเทอดไท,"In the Bangkok area, which road directly reaches ถนนอ่อนนุช?",B
+250,ถนนตะนาว,ถนนราชวงศ์,ซอยจอมทอง 19,ถนนลาดหญ้า,"In the Bangkok area, which road directly reaches ถนนทรงวาด?",B
+251,ซอยเจริญราษฎร์ 7,ถนนกรุงเทพ-นนทบุรี,ซอยลาดพร้าววังหิน 61,ถนนกรุงเกษม,"In the Bangkok area, which road directly reaches ซอยประชาราษฎร์สาย 1 ซอย 24?",B
+252,ถนนประดิพัทธ์,ถนนศรีอยุธยา,ถนนแก้วเงินทอง,ถนนรัชดาภิเษก,"In the Bangkok area, which road directly reaches ถนนนนทรี?",D
+253,ซอยประชาราษฎร์สาย 1 ซอย 24,ซอยกรุงเทพ-นนทบุรี 13,ถนนพระอาทิตย์,ถนนประชาราษฎร์ สาย 2,"In the Bangkok area, which road cannot directly reach ถนนกรุงเทพ-นนทบุรี?",C
+254,ถนนกรุงเทพ-นนทบุรี,ซอยกรุงเทพ-นนทบุรี 13,ถนนราชวงศ์,ซอยลาดพร้าว 80 แยก 22,"In the Bangkok area, which road directly reaches ซอยกรุงเทพ-นนทบุรี 13?",A
+255,ถนนรองเมือง,ถนนเจริญราษฎร์,ถนนเจริญกรุง,ถนนรถไฟ,"In the Bangkok area, which road directly reaches ถนนแปลงนาม?",C
+256,ซอยพหลโยธิน 2,ซอยจรัญสนิทวงศ์ 75,ซอยลาดพร้าววังหิน 48,ถนนพระรามที่ 4,"In the Bangkok area, which road directly reaches ถนนทรงสวัสดิ์?",D
+257,ถนนเกษมราษฎร์,ซอยงามดูพลี,ซอยลาดพร้าววังหิน 48,ถนนตรีเพชร,"In the Bangkok area, which road directly reaches ถนนพาหุรัด?",D
+258,ถนนไมตรีจิตต์,ถนนราชดำเนินใน,ถนนพระราม 9,ถนนนครราชสีมา,"In the Bangkok area, which road directly reaches ซอยพระราม 9 ซอย 17?",C
+259,ถนนพรานนก-พุทธมณฑลสาย 4,ถนนราชินี,ซอยสุขุมวิท 36,ถนนเลียบทางรถไฟสายใต้,"In the Bangkok area, which road directly reaches ถนนพระพิพิธ?",B
+260,ถนนพิชัย,ถนนลูกหลวง,ถนนพหลโยธิน,ซอยเพชรบุรี 31,"In the Bangkok area, which road directly reaches ซอยวิภาวดีรังสิต 3?",C
+261,ถนนนราธิวาสราชนครินทร์,ถนนเกษมราษฎร์,ถนนพระรามที่ 3,ถนนนิคมมักกะสัน,"In the Bangkok area, which road directly reaches ซอยเพชรบุรี 31?",D
+262,ถนนเพชรพระราม,ซอยจรัญสนิทวงศ์ 35,ถนนพระจันทร์,ถนนสุขุมวิท,"In the Bangkok area, which road directly reaches ซอยสุขุมวิท 42?",D
+263,ซอยสุขุมวิท 40,ถนนสุขุมวิท,ถนนตรีเพชร,ซอยจันทน์ 16,"In the Bangkok area, which road directly reaches ซอยสุขุมวิท 3?",B
+264,ถนนสุนทรโกษา,ถนนพระอาทิตย์,ซอยจันทร์ 18/7 แยก 1,ถนนสวนผัก,"In the Bangkok area, which road directly reaches ถนนเจ้าฟ้า?",B
+265,ถนนอำนวยสงคราม,วงเวียนใหญ่,ถนนเพลินจิต,ถนนพระอาทิตย์,"In the Bangkok area, which road directly reaches ถนนหลังสวน?",C
+266,ถนนสี่พระยา,ถนนหลวง,ถนนพญาไท,ถนนเกษมราษฎร์,"In the Bangkok area, which road directly reaches ถนนนเรศ?",A
+267,ถนนดินแดง,ถนนเลียบทางรถไฟสายใต้,ถนนสามเสน,ซอยประชาราษฎร์สาย 1 ซอย 24,"In the Bangkok area, which road directly reaches ถนนพหลโยธิน-ดินแดง?",A
+268,ถนนไมตรีจิตต์,ซอยนราธิวาสราชนครินทร์ 22,ถนนทรงวาด,ถนนเยาวราช,"In the Bangkok area, which road directly reaches ถนนจักรวรรดิ์?",D
+269,ซอยโปลิศสภา,ถนนพระรามที่ 5,ถนนกล้วยน้ำไท,ถนนตะนาว,"In the Bangkok area, which road directly reaches ถนนบวรนิเวศน์?",D
+270,ถนนนางลิ้นจี่,ถนนสาทรใต้,ถนนหลังสวน,ถนนพระสุเมรุ,"In the Bangkok area, which road directly reaches ถนนสิบสามห้าง?",D
+271,ถนนจรัสเมือง,ถนนบวรนิเวศน์,ถนนปากน้ำฝั่งเหนือ,ถนนประชาชื่น,"In the Bangkok area, which road directly reaches ถนนรองเมือง?",A
+272,ซอยเสนาร่วม,ถนนพรานนก-พุทธมณฑลสาย 4,ถนนกำแพงเพชร 3,ซอยบางขนุน 5,"In the Bangkok area, which road directly reaches ถนนกำแพงเพชร 1?",C
+273,ถนนวัฒนธรรม,ซอยมหาวิทยาลัยกรุงเทพ,ซอยจันทน์ 18/7,ซอยสุขุมวิท 36,"In the Bangkok area, which road directly reaches ซอยสาทร 11?",C
+274,ถนนอินทรพิทักษ์,ถนนลาดหญ้า,ถนนสมเด็จพระเจ้าตากสิน,ถนนประชาชื่น,"In the Bangkok area, which road cannot directly reach วงเวียนใหญ่?",D
+275,ถนนรางน้ำ,ซอยอรรถกระวี,ถนนสุขุมวิท,ประชาสงเคราะห์ 45,"In the Bangkok area, which road directly reaches ถนนดวงพิทักษ์?",C
+276,ถนนหลานหลวง,ถนนจรัญสนิทวงศ์,ทางยกระดับอุตราภิมุข,ถนนโยธี,"In the Bangkok area, which road directly reaches ถนนพาณิชยการธนบุรี?",B
+277,ถนนประชาธิปก,ถนนท่าดินแดง,ซอยจันทน์ 43,ถนนบรมราชชนนี,"In the Bangkok area, which road directly reaches ถนนบรมราชชนนี (ทางขนาน)?",D
+278,ถนนชัยพฤกษ์,ถนนคู่ขนานทางพิเศษประจิมรัถยา,ถนนสิรินธร,ถนนบรมราชชนนี,"In the Bangkok area, which road cannot directly reach ถนนรุ่งประชา?",A
+279,ถนนบ้านหม้อ,ซอยจันทน์ 43,ถนนจักรเพชร,ถนนพระราม 9,"In the Bangkok area, which road directly reaches ถนนพระพิทักษ์?",A
+280,ถนนมหานคร,ถนนประชาราษฎร์บำเพ็ญ,ถนนพระรามที่ 4,ซอยเพชรบุรี 38/1,"In the Bangkok area, which road directly reaches ซอยฟาร์มวัฒนา?",C
+281,ถนนสุขุมวิท,ซอยรัชดาภิเษก 18,ถนนพาหุรัด,ถนนประชาราษฎร์ สาย 2,"In the Bangkok area, which road directly reaches ซอยสุขุมวิท 36?",A
+282,ถนนจตุรทิศ,ถนนดินแดง-บึงมักกะสัน,ถนนดินแดง,ถนนสังคมสงเคราะห์,"In the Bangkok area, which road cannot directly reach ถนนดินแดงตัดใหม่?",D
+283,ซอยประชาราษฎร์สาย 1 ซอย 24,ถนนดินแดง,ถนนปากน้ำฝั่งเหนือ,ซอยอิสรภาพ 42,"In the Bangkok area, which road directly reaches ถนนดินแดง-บึงมักกะสัน?",B
+284,ทางพิเศษประจิมรัถยา,ถนนดินแดง,ถนนรางน้ำ,ถนนพระพิทักษ์,"In the Bangkok area, which road directly reaches ถนนมิตรไมตรี?",B
+285,ถนนจรัญสนิทวงศ์,ถนนสมเด็จพระเจ้าตากสิน,ถนนประชาราษฎร์บำเพ็ญ,ถนนราชดำเนินนอก,"In the Bangkok area, which road directly reaches ซอยจรัญสนิทวงศ์ 75?",A
+286,ถนนอ่อนนุช,ถนนทางรถไฟสายเก่าปากน้ำ,ถนนเกษมราษฎร์,ถนนพรานนก-พุทธมณฑลสาย 4,"In the Bangkok area, which road directly reaches ถนนปากน้ำกระโจมทอง?",D
+287,ถนนเสือป่า,ถนนประชาธิปก,ถนนนราธิวาสราชนครินทร์,ถนนสังคมสงเคราะห์,"In the Bangkok area, which road directly reaches สะพานพระพุทธยอดฟ้า?",B
+288,ถนนประดิษฐ์มนูธรรม,ถนนวุฒากาศ,ถนนพาหุรัด,ถนนสิรินธร,"In the Bangkok area, which road directly reaches ซอยจรัญสนิทวงศ์ 65?",D
+289,ซอยสุขุมวิท 39,ถนนสุขุมวิท,ถนนวิทยุ,ถนนบรมราชชนนี,"In the Bangkok area, which road directly reaches ซอยสุขุมวิท 61?",B
+290,ถนนอรุณอมรินทร์,ถนนพระรามที่ 4,ถนนสนามไชย,ถนนประดิษฐ์มนูธรรม,"In the Bangkok area, which road directly reaches ซอยรามคำแหง 21?",D
+291,ทางพิเศษเฉลิมมหานคร,ถนนสุรวงศ์,ถนนสามเสน,ถนนสุขุมวิท,"In the Bangkok area, which road directly reaches ซอยสุขุมวิท 22?",D
+292,ถนนเทอดไท,ถนนบำรุงเมือง,ซอยลาดพร้าววังหิน 61,ถนนพหลโยธิน,"In the Bangkok area, which road directly reaches ซอยพหลโยธิน 2?",D
+293,ถนนอรุณอมรินทร์,ถนนรุ่งประชา,ถนนจักรพรรดิพงษ์,ถนนเจริญราษฎร์,"In the Bangkok area, which road directly reaches ซอยเจริญราษฎร์ 7?",D
+294,ถนนลาดพร้าววังหิน,ถนนแปลงนาม,ถนนบรรทัดทอง,ถนนอรุณอมรินทร์,"In the Bangkok area, which road directly reaches สะพานข้ามแยกศิริราช?",D
+295,ถนนประชาอุทิศ,ถนนรัชดาภิเษก,ถนนพระรามที่ 1,ถนนเพชรอุทัย,"In the Bangkok area, which road directly reaches ซอยวิภาวดีรังสิต 16?",B
+296,ถนนสุนทรโกษา,ซอยลาดพร้าว 64,ถนนเลียบรั้ว รฟม.,ถนนเพชรอุทัย,"In the Bangkok area, which road directly reaches พระราม 9 ซอย 17?",C
+297,ซอยจันทร์ 18/7 แยก 1,ถนนชัยพฤกษ์,ถนนสมเด็จพระปิ่นเกล้า,ถนนร่วมจิตต์,"In the Bangkok area, which road directly reaches ถนนจักรพงษ์?",C
+298,ซอยลาดพร้าว 64,ถนนประชาอุทิศ,ซอยเลียบคลองผดุงกรุงเกษม,ถนนเจ้าฟ้า,"In the Bangkok area, which road directly reaches ถนนหยดน้ำ?",D
+299,ซอยรัชดาภิเษก 18,ถนนปากน้ำกระโจมทอง,ถนนบางไผ่พัฒนา – แยกวัดตึก,ทางคู่ขนานลอยฟ้าบรมราชชนนี,"In the Bangkok area, which road directly reaches สะพานพระราม 8?",D
+300,ถนนสมเด็จพระปิ่นเกล้า,ซอยจอมทอง 19,อุโมงค์ทางลอดวัน แบงค็อก,ถนนท่าดินแดง,"In the Bangkok area, which road directly reaches ทางคู่ขนานลอยฟ้าบรมราชชนนี?",A
+301,ถนนเตชะวนิช,ซอยสุขุมวิท 36,ถนนตรีเพชร,ถนนวิภาวดีรังสิต,"In the Bangkok area, which road directly reaches ทางพิเศษเฉลิมมหานคร?",D
+302,ซอยจันทน์ 27,ถนนริมคลองประปาฝั่งขวา,ถนนวิภาวดีรังสิต,ซอยลาดพร้าว 80 แยก 22,"In the Bangkok area, which road directly reaches ทางยกระดับอุตราภิมุข?",C
+303,ถนนพระพิพิธ,ถนนราชพฤกษ์,ถนนแปลงนาม,ซอยจันทน์ 43,"In the Bangkok area, which road directly reaches ถนนกัลปพฤกษ์?",B
+304,ถนนหน้าพระลาน,ถนนสุขุมวิท,ถนนตรีเพชร,ถนนพระรามที่ 6,"In the Bangkok area, which road directly reaches ถนนย่านพหลโยธิน?",D
+305,ถนนลาดพร้าว,ถนนบรรทัดทอง,ซอยสุขุมวิท 3,ทางพิเศษเฉลิมมหานคร,"In the Bangkok area, which road directly reaches อุโมงค์ทางลอดวัน แบงค็อก?",D
+306,ซอยลาดพร้าววังหิน 48,ซอยเพชรบุรี 38/1,ถนนสวรรคโลก,ถนนพระรามที่ 4,"In the Bangkok area, which road directly reaches ซอยอรรถกระวี?",D
+307,ถนนประชาธิปไตย,ถนนดินแดง,ถนนเทอดไท,ถนนหลวง,"In the Bangkok area, which road directly reaches ซอยเลียบคลองผดุงกรุงเกษม?",D
+308,ซอยเจริญกรุง 107,ถนนพิษณุโลก,ถนนสุรวงศ์,ถนนเพชรบุรี,"In the Bangkok area, which road directly reaches ซอยเพชรบุรี 47?",D
+309,ทางพิเศษศรีรัช,ถนนมเหสักข์,ถนนประชาธิปไตย,ซอยสุขุมวิท 61,"In the Bangkok area, which road directly reaches ทางพิเศษประจิมรัถยา?",A
+310,ถนนอโศกมนตรี,ถนนวุฒากาศ,ถนนชัยพฤกษ์,ทางพิเศษประจิมรัถยา,"In the Bangkok area, which road directly reaches ทางพิเศษศรีรัช?",D

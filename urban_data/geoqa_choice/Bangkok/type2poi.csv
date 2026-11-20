@@ -1,0 +1,123 @@
+,A,answer,B,C,D,E,question
+0,ท่าเรือตลิ่งชัน,A,239/12,Starbucks,Gen Japanese Charcoal Grill,Bei Otto,Which POI belongs to type: ferry_terminal?
+1,คาเฟ่ อเมซอน,D,villa health shop,สามย่านมิตรทาวน์ฮอลล์,ฟูจิ,60's Tree Bar,Which POI belongs to type: restaurant?
+2,ธนาคารกรุงเทพ,D,Cascade Sport Club,อู่คลองเตย,Baanchao Yoga,Flow House Bangkok 2.0,Which POI belongs to type: school?
+3,Rice & Noodles,E,Ibrahim Restaurant,Mad Sugar,Old German Beer House,เชลล์,Which POI belongs to type: fuel?
+4,Oxa Pub & Restaurant,A,คาเฟ่ อเมซอน,ธนาคารนครหลวงไทย,Lumpini Place,Curious M Caffe,Which POI belongs to type: bar?
+5,Sukhumvit Vet,E,Mikkeller,MK Restaurants,ATM ธนาคารทหารไทย,Printa Cafe,Which POI belongs to type: cafe?
+6,San Kyu,C,play yard,Huachiew TCM,TLP Pharmacy,วัฒนาพานิช,Which POI belongs to type: hospital?
+7,Dakasi,B,สำนักงานเขตห้วยขวาง,คอนโดปาร์คแลนด์จรัญ-ปิ่นเกล้า,S&P,S&P Simply Delicious,Which POI belongs to type: townhall?
+8,ธนาคารกรุงเทพ,C,ธนาคารกรุงเทพ,เทียนจงฝอเอวี้ยน,ร้านอีสานลมโชย,ธนาคารทหารไทย,Which POI belongs to type: place_of_worship?
+9,เชลล์,C,Thank You Cup,Thailand Post,ธนาคารไทยพาณิชย์,BBQ Plaza,Which POI belongs to type: post_office?
+10,Meet Candy,D,Dentalwise,ATM ธนาคารกสิกรไทย,EKM6,true house,Which POI belongs to type: food_court?
+11,คณะสัตวแพทยศาสตร์,A,CHULATUTOR จุฬาติวเตอร์ - IELTS TOEIC CU-TEP GED SAT,Mahasan Cafe,อะเบาท์ทูธเดนทัลคลินิก,ถนนจันทน์ใต้ (ขาออก),Which POI belongs to type: university?
+12,เค.ดี. รักษาสัตว์,A,Boots,ZeaZabKitchen,Berlin Currywurst,Tutto Matto,Which POI belongs to type: veterinary?
+13,ราชพฤกษ์คลินิก,B,The Platform,Thailand Sarang Korean Church,The Clubhouse,Sumi Grand,Which POI belongs to type: events_venue?
+14,ห้องสมุดวิศวะกรรมศาสตร์,A,Starbucks,Tantimedh Kindergarten,Absolute Studio | Gaysorn Amarin,Katsuya,Which POI belongs to type: library?
+15,อาคารจอดรถเมเจอร์เอกมัย,A,เต่าบิน,Pier 39,Street food,E-motion,Which POI belongs to type: parking?
+16,Century Movie plaza,B,Tuctuc,ท่าเรือวัดคลองเตยนอก,รสชาติกะเพรา,UOB,Which POI belongs to type: taxi?
+17,นายฮั่ง,C,ชอนมัน,Narcissus,True Coffee,Sanguansap Mansion,Which POI belongs to type: nightclub?
+18,Dalian,E,N10 Cafe,กรุงศรี,ปตท,ศาลพระภูมิ,Which POI belongs to type: bicycle_rental;place_of_worship?
+19,Chester's,D,Bonchon Chicken,อาซั้ง ก๋วยเตี๋ยวลูกชิ้นปลา,eXta Plus Pharmacy,Gloria Jean's coffee,Which POI belongs to type: pharmacy?
+20,อี่โภชนา,C,Spirit,Irish Pub,ธนาคารกสิกร,ครัวอัปษร,Which POI belongs to type: pub?
+21,Kalamansi Kafe,E,ธนาคารกสิกรไทย,ธนาคารกรุงเทพ,Soho House,The Pizza Company,Which POI belongs to type: fast_food?
+22,Roots at Sathorn,E,ร้านขายน้ำ,โรงอาหาร,Alley cat,ที่ซ่อน,Which POI belongs to type: shelter?
+23,เมโกะ สาขาทองหล่อ,C,UOB,Police Support Unit สน.ย่อยจตุรัส,The Coffee Club,beef and beer,Which POI belongs to type: police?
+24,Victory tattoo studio,C,Letter52 Cafe,ธนาคารกรุงไทย,UCC Cafe,Vertigo,Which POI belongs to type: bank?
+25,Santa Fe Steak,B,Yannawa Fire Station,Settore ecclesiastico in Thailand (CCT),สะพานเจริญผล,Mimy's,Which POI belongs to type: fire_station?
+26,รถไฟฟ้าใต้ดิน สถานีกำเเพงเพชร,D,1919Bangkok,สตาร์บัคส์,The First Steps International Pre-School,อี่โภชนา,Which POI belongs to type: kindergarten?
+27,บ้านสกุลทอง,E,food Court,บิ๊กไก่,เส้นทองเอก,ท่ารถวัดหัวลำโพง,Which POI belongs to type: bus_station?
+28,Yummy Yummy,D,SHINJI Matcha & Dojo,cookery,กองบังคับการตำรวจรถไฟ,Tonkatsu Aoki,Which POI belongs to type: office?
+29,Western Union,B,Saithip Swimming Pool,Dr. Khaosan Clinic International,HOBS Iconsiam the Pleasing Taste By the River,My friend's bar,Which POI belongs to type: swimming_pool?
+30,Dentalista Dental Clinic,C,อาคารเอ็มเพลส,Water dispenser,Subway,ทองเดโช (ชุมชนเลื่อนฤทธิ),Which POI belongs to type: drinking_water?
+31,กินเลน,B,CIMB,ธนาคารกรุงไทย,Hummus Head,C3 Church Bangkok,Which POI belongs to type: atm?
+32,AJ Club - Video & Internet,A,McDonald's,Bangkok Bar,Cafe Mezzo,สถานีตำรวจนครบาลปทุมวัน,Which POI belongs to type: video_arcade?
+33,กรุงศรี,D,Sudachi Sushi,Fresh Milk Coffe,Silom Sauna - สีลมเซาว์น่า,Naruto,Which POI belongs to type: sauna?
+34,Victory Hub,C,คาเฟ่ อเมซอน,Monkey Wash,BrewLab Cafe Roompini,Nai Uu Pork Leg Stew,Which POI belongs to type: car_wash?
+35,Wine Connection,C,Starbucks,Absolute Studio | RSU Tower Sukhumvit,Chu,Bei Otto,Which POI belongs to type: sports_centre?
+36,Krungsri IMAX,A,The Pizza Company,เจ๊เอ็ง หมูสะเต๊กห่อใบตอง,เจ๊ฟาง,ร้านมุ่ยหลี,Which POI belongs to type: cinema?
+37,Madame @Langsuan,C,เสน่ห์,หอนาฬิกาห้วยขวาง,Desi Beats,Monkey Wash,Which POI belongs to type: clock?
+38,UOB,C,ตั้งใจ,KTC Clinic,อีท แอม อาร์ - สาขาเอ็มบีเค เซ็นเตอร์,The Coffee Club,Which POI belongs to type: clinic?
+39,49 plus 2,A,วิน จุฬาฯ 15,Caffe 352,ธนาคารกรุงเทพ,Escapade,Which POI belongs to type: residential?
+40,Fran's,B,Subway,ส้มตำ ยำ,วัดสะพาน,Phibun Wet Park,Which POI belongs to type: parking_space;fast_food?
+41,Sushi Sekiji,B,วิทยาลัยสารพัดช่างธนบุรี,Lahour Restaurant,Viet Cafe and restaurant,ธนาคารทหารไทย,Which POI belongs to type: college?
+42,โรงเรียนส่งเสริมภาษาจีน,A,ท่าเรือไอคอนสยาม 4,วัดอรุณราชวราราม,Dairy Queen,อาหารตามสั่ง,Which POI belongs to type: language_school?
+43,UOB,C,ห้องสมุดพระองค์เจ้าวิวัฒนไชย,Chula Hospital Station,Taling pling,ไปรษณีย์สาขามหาวิทยาลัยราชภัฏจันทรเกษม,Which POI belongs to type: bicycle_rental?
+44,Masjid Jawa,E,Water Purity,ร้านอาหารญี่ปุ่นเทนโดะ,McDonald's,babies genius,Which POI belongs to type: training?
+45,Karmakamet,D,Din Tai Fung,Coffeöl,BIC IVF Clinic,Mos Burger,Which POI belongs to type: doctors?
+46,The Hop Bangkok,A,เข้ม-ข้น พาหุรัด,สวีทตี้ เรสเตอรองก์,Swensen's,Starbucks,Which POI belongs to type: dance?
+47,Why 97,C,เชลล์,Western Union,ธนาคารธนชาต,Bangsue Police Station,Which POI belongs to type: money_transfer?
+48,SOL,A,McDonald's,Rolling Roasters,Bonkura Izakaya,Pro Wash,Which POI belongs to type: arts_centre?
+49,Meow Meow,B,Victory Hub,Liquid,Great Punjab,Starbucks,Which POI belongs to type: marketplace?
+50,134 Green House Cafe,D,play yard,Smileland,Calypso Cabaret,A.H.P.,Which POI belongs to type: theatre?
+51,NAGA,E,คาเฟ่ อเมซอน,Oasis,KFC,โรงพยาบาลกรุงเทพ,Which POI belongs to type: dentist?
+52,Thai Restaurant,B,Bangkok Bank,Dark bar,ท่าวังหลัง,ไอศครีมโฮมเมด พี่แลก - ปภาภัทรไอศกรีม,Which POI belongs to type: bureau_de_change?
+53,Iron Balls,E,Kynd Kulture,อาคารสงเคราะห์,Dine in the dark,Siam Paragon Bicycle Parking,Which POI belongs to type: bicycle_parking?
+54,Pink Skatepark,B,Victory tattoo studio,Cool Chilli,Little Hut Thai Food & Waffle,เชลล์,Which POI belongs to type: internet_cafe?
+55,บ้าน,B,Chamchan Oriental Spa,Tsu Nami,Korean Dessert Cafe,ลิโด้ คอนเนกต์,Which POI belongs to type: spa?
+56,Cafe Bangrak,C,8855 Restaurant & Bar,ไมอามี่ อพาร์ทเมนท์,Hinaya,Texas Chicken,Which POI belongs to type: residential?
+57,Curvistan,B,จุดเช่าเรือ กิจกรรมทางน้ำ,คาเฟ่ อเมซอน,Hemingway's Bangkok,ธนาคารกสิกรไทย,Which POI belongs to type: boat_rental?
+58,ลิโด้ คอนเนกต์,A,Police Support Unit สน.ย่อยจตุรัส,Joy Luck Club,วัดม่วงแค,Mitu Massage,Which POI belongs to type: music_venue?
+59,ธนาคารกรุงเทพ,C,ตลาดสดเกียรติทงชัย,ห้องน้ำสวนแก้ว,Yummy Yummy,Da Mamma,Which POI belongs to type: toilets?
+60,โครงการไทยนิยมมั่งคง,D,กองบังคับการตำรวจนครบาล ๕,Street Restaurants,S16 Residences,SESAME Shabu Shabu,Which POI belongs to type: apartments?
+61,La Dotta,D,Bur Bar ก๋าน & บาร์ซุป,ธนาคารกรุงเทพ,waiting room,Dent-Mate co ltd,Which POI belongs to type: bench?
+62,โรงเรียนวัดดีดวด,C,บ้านฟลูต,Communal Showers,after you,Spaghetti Factory,Which POI belongs to type: shower?
+63,ToT,A,ส้มตำสาวอุบล,Shahazad,ก๋วยเตี๋ยวไก่ตุ๋น,73 Bar,Which POI belongs to type: telephone?
+64,Foony Kam Jai,B,Sompong Thai Cooking School,Pharmanet Drugstore,Sizzler,CIMB,Which POI belongs to type: school?
+65,วงเวียนช้าง,A,เป็ดตุ๋นเจ้าท่า,ธนาคารกรุงไทย,ซับเวย์,Ha yen naam soa,Which POI belongs to type: fountain?
+66,วัวล้วนๆไม่มีควายผสม สาขาสุทธิสาร,A,ข้าวแกงอาม่า,เค.ดี. รักษาสัตว์,Saboten,Boots,Which POI belongs to type: ice_cream?
+67,Number One,E,Sunrise Tacos,บิ๊กไก่,Saravana Bhavan,Nana Chart Food & Beer Garden,Which POI belongs to type: biergarten?
+68,Superrich Thailand,E,Kurasu Bangkok Stand,ATM กรุงศรี,Daddy's Coffee,็ต้นไม้รูปหัวใจ,Which POI belongs to type: park?
+69,The Reading Room,E,ATM ธนาคารกสิกรไทย,Red Deep,ตื่น Tuen Home Cafe,Ma:D Social Entepreneurs Hub,Which POI belongs to type: coworking_space?
+70,ป.ธนาทาว์เวอร์,C,YaYa Coffee Shop,Quarter 39,Hamakatsu,"Modern International School, Bangkok",Which POI belongs to type: construction?
+71,Little Pea,A,Mook Restaurant,Sizzler,Taxi - Tuctuc,Caffe Nero,Which POI belongs to type: playground?
+72,Ptt,E,Starbucks,Mikka Cafe,doc club & pub,CrossFit Naga,Which POI belongs to type: fitness_centre?
+73,Coffee Wing,D,Segafredo Zanetti,Angels Four,Claustrophobia Escape Room,McDonald's,Which POI belongs to type: escape_game?
+74,ศาลแรงงาน และ ศาลแขวงปทุมวัน,A,ผงชูรส,GUGU Chicken,Citibank,Caffè Corsini,Which POI belongs to type: courthouse?
+75,Mala X,C,Starbucks,Crazy House,Amomo,Gluck,Which POI belongs to type: stripclub?
+76,kinniku gyudon restaurant,D,โรงพยาบาลมิตรภาพ,นิตยาไก่ย่าง,สนามมวยเวทีสถานีโทรทัศน์สีกองทัพบกช่อง 7,KFC,Which POI belongs to type: stadium?
+77,AfterSkool,B,All Together Suite Hotel,Bean & Us,Maroosh,Kogane,Which POI belongs to type: hotel?
+78,TYME Restaurant,D,Mrs Balbir,Caffeine Lover,บจก.พี.ไทยแลนด์แมชินเนอรี่,Coffee/คอฟฟี่/咖啡,Which POI belongs to type: vehicle_inspection?
+79,POR Sam Pao,E,Flava,Mekhong Mystique Restaurant & Bar,Caffeine Lover,Fatboy's Motorbike Rental,Which POI belongs to type: car_rental?
+80,Baan Glom Gig,C,Hamakatsu,First Aid,เบญจบริรักษ์เวช คลินิก,Maestro 39 Residence,Which POI belongs to type: first_aid?
+81,Baan Nual,D,Cactus Club,Pakalolo Cannabis Bar & Dispensary - Tha Maharaj,สนามยิงปืน หน่วยบัญชาการรักษาดินแดน,มัสยิดต้นสน,Which POI belongs to type: military?
+82,W Ploenchit Wellness Center,E,นิตยาไก่ย่าง,คำนึงคำตาล,วิน จุฬาฯ 9,ห้างหุ้นส่วนจำกัด ย่งลิบง้วนการไฟฟ้า,Which POI belongs to type: retail?
+83,Fuji,B,Meree Entertainment,Dolly Churro,เชลล์,Street food restaurant,Which POI belongs to type: soapy_massage?
+84,ขูฃิเก็น,E,Bangkok Smile,Nara Thai Cuisine,Moon House,SKB Tutor,Which POI belongs to type: cram_school?
+85,Sukishi,B,ลานออกกําลังกาย,Good noodle soup,Outer Room,Thanachart Bank,Which POI belongs to type: fitness_station?
+86,ร้านอาหารสวนสน-โกอ่าง,B,Goon Studio,Ibaby Fertility & Genetic Center,Silom Sauna - สีลมเซาว์น่า,The Pantry Bake with Love,Which POI belongs to type: studio?
+87,วินประดิพัทธ์ 17,A,Value Plus,Sam Cafe',Herringbone,Starbucks,Which POI belongs to type: motorcycle_station?
+88,ธนาคารกรุงไทย,D,penguin likes chocolate,China Town Scala,Uma Devi Shrine,Taco Bell,Which POI belongs to type: shrine?
+89,Pool bar,A,Coco Chaophraya,ธนาคารออมสิน,อิทธิ ไอศกรีม,Goodjob,Which POI belongs to type: pitch?
+90,วิน มอเตอร์ไซค์ ตลาดโพธิ์สามต้น,D,Bangkok Smile Dental Clinic,Paragon Cineplex,Hair Scalp Center,แดก​ ดิ้น,Which POI belongs to type: hair loss clinic?
+91,ร้านมุ่ยหลี,E,Avocado Farm By Mom,Golden Coffee,โรงเรียนวัดชลอ,Postcode 10400 5/12,Which POI belongs to type: post_box?
+92,PAKATÔRN Academy,A,โยตาอาหารเจ,Forklift cafe,พบหน้า,Starbucks,Which POI belongs to type: prep_school?
+93,Boots,B,ศาลเจ้าโจซือก๋ง (วัดซุ่นเฮงยี่),Street food restaurant,CoCoICHIBANYA,Starbucks,Which POI belongs to type: monastery?
+94,Soho House,A,โรงเรียนวัดใหม่อมตรส,Sistheory Clinic,ผัดไท อร่อยมาก,ท่าเรือสวัสดี,Which POI belongs to type: community_centre?
+95,THAI OCEAN ACADEMY,A,Kin Buffet & Shabu,Gosse Bangkok,นาทอง เทอเรส บาร์ แอนด์ เรสเตอรองค์,ข้าวแกงป้าภู,Which POI belongs to type: dive_centre?
+96,ร้านน้ำเต้าหู้หย่งเหอ,D,พรรณไม้บึงน้ำจืด,The Pizza Company,Usagi Club,ATM ธนาคารทหารไทย,Which POI belongs to type: karaoke_box?
+97,Starbucks,C,Starbucks,Dog Park 49,La Dotta,น้องญาดา,Which POI belongs to type: dog_park?
+98,คณะศิลปกรรมศาสตร์,B,ถ้ำแม่พระ,Octagon Bar,Western Union,ราชพฤกษ์คลินิก,Which POI belongs to type: garden?
+99,Yi Fang,D,Romane,Chang,อภิชัย,Rolling Roasters,Which POI belongs to type: recycling?
+100,คริสเตียน ชิลเดรน'ส เฮ้าส์,A,โรงละครเคแบงก์สยามพิฆเนศ,คณะศิลปกรรมศาสตร์,Sunny Bear Eat,ธนาคารกรุงไทย,Which POI belongs to type: childcare?
+101,โรงอาหารจุลจักรพงษ์,D,Wonderwall,ท่าวังหลัง,โรงเรียนสอนทำอาหาร ครัวเจ๊ง้อ,AKA,Which POI belongs to type: cooking_school?
+102,Ristorante,D,Spaghettini,Taste,Total VR Arcade,-273° Coffee,Which POI belongs to type: amusement_arcade?
+103,ไก่โตเกียว,C,ธนาคารทหารไทย,บ้านแมวไทย,ห้องสมุดคณะวิทยาศาสตร์,We For You @7,Which POI belongs to type: animal_shelter?
+104,Peaberry Thai,D,Bangkok Pub Crawl,Royal Oak,Andy & Fine. Photo House.,Coco Chaophraya,Which POI belongs to type: photo_booth?
+105,ธนาคารกสิกรไทย,B,หอประชุมศูนย์บริการวิชาการ มหาวิทยาลัยศรีนครินทรวิโรฒ,Guss Damn Good,Chit Hole Surawong,แม่วารี,Which POI belongs to type: conference_centre?
+106,Tippa,E,so..coffee,คาเฟ่ อเมซอน,くろ田 Kuroda คูโรดะ,Wood Bar,Which POI belongs to type: brothel?
+107,ท่าปล่อยรถสาย 16,A,tazu shabu,อาคารจอดรถเมเจอร์เอกมัย,สระว่ายน้ำบ้านสมเด็จ,โกอ้วน,Which POI belongs to type: industrial?
+108,Himali Cha Cha & Son,C,Sukishi,7 Eleven,Hempmade - Cannabis Store & Chillin Hub/ 大麻店/ Weed Dispensary & Lounge,Taburete,Which POI belongs to type: vending_machine?
+109,Odean Crab Noodles,B,Double DD House,คาเฟ่ อเมซอน,Śrī Bhavan,Livid Coffee Roasters,Which POI belongs to type: reception_desk?
+110,Queen of Curry,E,ตวง ติ่มซำ,วิน มอเตอร์ไซค์ วัดหงส์,Crepes & Co.,จุดนัดพบ 8,Which POI belongs to type: meeting_point?
+111,ธนาคารอาคารสงเคราะห์ สำนักงานใหญ่,E,ขนมจีนบางลำพู ตรอกตั้งฮั่วเส็ง,Shenanigans Irish Sportsbar,T.House,Lost and Found Room,Which POI belongs to type: lost_property_office?
+112,ธนาคารไทยพาณิชย์,C,ศาลท้าวมหาพรหม,บ้านฟลูต,สถานีตำรวจนครบาลสำราญราษฎร์,The Rice Paddy,Which POI belongs to type: music_school?
+113,School Coffee X Warm Batch Roasters,B,ChargePoint,Yummy Yummy,Clean Water,Baan Samyan,Which POI belongs to type: charging_station?
+114,โรงเรียนนวดแผนโบราณเชตวัน,D,Thanachart Bank,Inthanin Coffee,WoodView Ressort,Funarium,Which POI belongs to type: resort?
+115,Varasupha Executive Apartments,D,Ohsho Osaka,Tom N Toms,ฌาปนสถานตำรวจ,ตลาดโบ๊เบ๊,Which POI belongs to type: crematorium?
+116,Happy bar,D,งานป้องกันและบรรเทาสาธารณภัย เทศบาลเมืองบางกรวย,โรงพยาบาลมิตรภาพ,DL Motorcycle rental,BAR B Q Plaza,Which POI belongs to type: motorcycle_rental?
+117,โครงการไทยนิยมมั่งคง,A,Tim Hortons,Maggie Choo,TRUST Cafe and Studio,Coqoon,Which POI belongs to type: social_facility?
+118,Swensen's,C,Rastabaan,Charan 92 Horse Riding,ลาบอุบล,The Tang,Which POI belongs to type: horse_riding?
+119,AKA,C,Guss Damn Good,Lock Box MRT Chatuchak,Bonkura Izakaya,Pro Language,Which POI belongs to type: parcel_locker?
+120,Groove & Grit Golf Bar,A,The Bronx Bar and Cafe,ราชวงศ์,Birds,เต่าบิน,Which POI belongs to type: miniature_golf?
+121,Hempmade - Cannabis Store & Chillin Hub/ 大麻店/ Weed Dispensary & Lounge,A,Take a Shot,จุดบริการแท็กซี่ เกตเวย์ เอกมัย,ไปรษณีย์ สนามเป้า,Taco Bell,Which POI belongs to type: Cannabis store?

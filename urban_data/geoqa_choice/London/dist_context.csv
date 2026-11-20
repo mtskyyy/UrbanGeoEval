@@ -1,0 +1,1426 @@
+id,question,answer,A,B,C,D
+0,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Libano. Detailed address: 76, Balham High Road, Balham, London Borough of Wandsworth, London, Greater London, SW12 9AG, United Kingdom
+2. Cinnamon Village. Detailed address: 114, Fortess Road, Tufnell Park, London Borough of Camden, London, Greater London, NW5 2HL, United Kingdom",A,12.12,14.17,17.22,8.01
+1,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Anytime Fitness. Detailed address: Unit B, Meridian South, Birdwood Avenue, Hither Green, London Borough of Lewisham, London, Greater London, SE13 6UR, United Kingdom
+2. Dalston Roofpark. Detailed address: 18-22, Ashwin Street, De Beauvoir Town, Dalston, London Borough of Hackney, London, Greater London, E8 3DL, United Kingdom",C,6.48,6.81,11.98,4.79
+2,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gynaecology and Fetal Medicine London. Detailed address: 86, Harley Street, East Marylebone, Marylebone, Camden Town, City of Westminster, Greater London, W1G 7HS, United Kingdom
+2. Lord Nelson. Detailed address: 243, Union Street, Bankside, The Borough, London Borough of Southwark, London, Greater London, SE1 0LR, United Kingdom",D,2.6,9.61,11.34,3.63
+3,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Breast Screening. Detailed address: 94-104, Denmark Hill, Camberwell, London Borough of Southwark, London, Greater London, SE5 8RX, United Kingdom
+2. Muffin Man Tea Shop. Detailed address: 12, Wrights Lane, Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W8 5SW, United Kingdom",B,6.34,7.6,14.29,11.87
+4,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Catch Lounge. Detailed address: 40, Liverpool Street, Bishopsgate, City of London, Greater London, EC2M 7QN, United Kingdom
+2. little bird. Detailed address: Arch 48, Ropewalk, Bermondsey Spa, Old Kent Road, London Borough of Southwark, London, Greater London, SE1 3FF, United Kingdom",D,8.3,3.1,5.24,2.04
+5,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lord Nelson. Detailed address: 243, Union Street, Bankside, The Borough, London Borough of Southwark, London, Greater London, SE1 0LR, United Kingdom
+2. Joe & The Juice. Detailed address: 809, Fulham Road, Hurlingham, Fulham, London Borough of Hammersmith and Fulham, London, Greater London, SW6 5HE, United Kingdom",A,7.78,4.43,4.67,14.56
+6,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Machine Gun Corps Memorial. Detailed address: Piccadilly Underpass, Belgravia, London, Greater London, W1J 7NT, United Kingdom
+2. University College London. Detailed address: Courtauld Building, 33, Cleveland Street, Saint Giles, Fitzrovia, London Borough of Camden, London, Greater London, W1W 7FF, United Kingdom",C,5.4,4.63,2.06,4.4
+7,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Marugame Udon. Detailed address: Argyll Street, Soho, London, Greater London, W1F 7TB, United Kingdom
+2. KOL. Detailed address: 9, Seymour Street, Marylebone, London, Greater London, W1H 7BA, United Kingdom",B,3.74,1.2,5.36,7.74
+8,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Capital Kebab House. Detailed address: 63, The Cut, South Bank, Waterloo, London Borough of Lambeth, London, Greater London, SE1 8LL, United Kingdom
+2. Borshtch n Tears. Detailed address: 46, Beauchamp Place, Hans Town, Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, SW3 1NQ, United Kingdom",D,1.74,1.3,7.15,4.02
+9,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hows Building. Detailed address: Cherry Park Lane, Coppermaker Square, Stratford, London Borough of Newham, London, Greater London, E20 1NP, United Kingdom
+2. The Museum of Philatelic History. Detailed address: 41, Devonshire Place, East Marylebone, Marylebone, Camden Town, London, Greater London, W1G 6JY, United Kingdom",B,17.14,10.18,16.3,16.33
+10,"What is the straight-line distance between the following two locations? (Unit is km)
+1. St Mark's Vicarage. Detailed address: 114, Hamilton Terrace, Maida Vale, London, Greater London, NW8 9UT, United Kingdom
+2. Sebright School. Detailed address: Audrey Street, Haggerston, London Borough of Hackney, London, Greater London, E2 8QH, United Kingdom",C,4.63,9.28,8.1,10.44
+11,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Coomer Place. Detailed address: Coomer Road, Cleam Attlee Court, West Kensington, London Borough of Hammersmith and Fulham, London, Greater London, SW6 7SD, United Kingdom
+2. Wellington Road. Detailed address: St. John's Wood, London, Greater London, NW8 9SL, United Kingdom",C,7.49,12.02,5.87,12.28
+12,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Edgar Wallace. Detailed address: 40, Essex Street, St Clement Danes, Holborn, London, Greater London, WC2R 3JF, United Kingdom
+2. Trowers & Hamlins. Detailed address: 3, Bunhill Row, Saint Luke's, Finsbury, London Borough of Islington, London, Greater London, EC1Y 8YZ, United Kingdom",C,7.71,9.3,1.85,8.15
+13,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Wolfpack. Detailed address: 53, Lonsdale Road, Queen's Park, London Borough of Brent, London, Greater London, NW6 6RA, United Kingdom
+2. Lincolns. Detailed address: 2, Gate Street, Gray's Inn, Holborn, London Borough of Camden, London, Greater London, WC2A 3HP, United Kingdom",C,0.69,10.05,6.37,10.07
+14,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cuppacino. Detailed address: Grant Road, Clapham Junction, London Borough of Wandsworth, London, Greater London, SW11 2NU, United Kingdom
+2. Pimlico Center For Alexander Technique. Detailed address: Moreton Street, Pimlico, London, Greater London, SW1V 2NY, United Kingdom",D,2.02,7.68,0.91,3.58
+15,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bethnal Green Nature Reserve. Detailed address: Punderson's Gardens, Bethnal Green, London Borough of Tower Hamlets, London, Greater London, E2 9RP, United Kingdom
+2. Duke Shore Wharf. Detailed address: Narrow Street, Limehouse, London Borough of Tower Hamlets, London, Greater London, E14 8BP, United Kingdom",A,2.94,9.28,4.61,8.17
+16,"What is the straight-line distance between the following two locations? (Unit is km)
+1. All Bar One. Detailed address: 46, Leicester Square, Seven Dials, Bloomsbury, London, Greater London, WC2H 7LU, United Kingdom
+2. SWP. Detailed address: King Street, Canning Town, London Borough of Newham, London, Greater London, E13 8DB, United Kingdom",B,9.03,10.48,13.81,14.58
+17,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Museum of Philatelic History. Detailed address: 41, Devonshire Place, East Marylebone, Marylebone, Camden Town, London, Greater London, W1G 6JY, United Kingdom
+2. Agenda 21 Architects. Detailed address: 2-4, Sebastian Street, Saint Luke's, Clerkenwell, London Borough of Islington, London, Greater London, EC1V 0JD, United Kingdom",D,0.5,4.53,6.97,3.46
+18,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kings Wharf. Detailed address: 301, Kingsland Road, De Beauvoir Town, Haggerston, London Borough of Hackney, London, Greater London, E8 4DG, United Kingdom
+2. The Royal Foundation of St. Katharine. Detailed address: 2, Butcher Row, Ratcliffe, Limehouse, London Borough of Tower Hamlets, London, Greater London, E14 8DS, United Kingdom",C,6.13,5.16,3.82,5.59
+19,"What is the straight-line distance between the following two locations? (Unit is km)
+1. University College London. Detailed address: Courtauld Building, 33, Cleveland Street, Saint Giles, Fitzrovia, London Borough of Camden, London, Greater London, W1W 7FF, United Kingdom
+2. Puffin House. Detailed address: 78, Carlton Vale, Queen's Park, London Borough of Brent, London, Greater London, NW6 5GX, United Kingdom",D,6.26,0.55,7.24,4.08
+20,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fox In A Box. Detailed address: Dalston Square, De Beauvoir Town, Dalston, London Borough of Hackney, London, Greater London, E8 3BQ, United Kingdom
+2. Blue Marlin Fish Bar. Detailed address: 17, Staplehurst Road, Cordwell Estate, Hither Green, London Borough of Lewisham, London, Greater London, SE13 5ND, United Kingdom",D,16.01,4.03,5.61,11.52
+21,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ubitricity. Detailed address: Albert Gardens, Ratcliffe, Stepney, London Borough of Tower Hamlets, London, Greater London, E1 0LL, United Kingdom
+2. King Charles I. Detailed address: 55-57, Northdown Street, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, N1 9BL, United Kingdom",D,3.91,11.66,11.15,5.47
+22,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ladybird. Detailed address: 70, Upper Street, Angel, Islington, London Borough of Islington, London, Greater London, N1 0NU, United Kingdom
+2. Sandwich Plus. Detailed address: 21, Harbour Exchange Square, Isle of Dogs, London Borough of Tower Hamlets, London, Greater London, E14 9GE, United Kingdom",A,7.36,12.48,11.08,0.86
+23,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Patmore Estate. Detailed address: Patmore Street, Patmore Estate, London Borough of Wandsworth, London, Greater London, SW8 4JG, United Kingdom
+2. Cygnet House North. Detailed address: 18, Chrisp Street, Poplar, London Borough of Tower Hamlets, London, Greater London, E14 6NZ, United Kingdom",C,2.48,15.42,9.62,4.09
+24,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Emmanuel Evangelical Church. Detailed address: Tufton Street, Westminster, Millbank, London, Greater London, SW1P 3RB, United Kingdom
+2. Wraps and Wings. Detailed address: 3, West Ham Lane, Stratford, London Borough of Newham, London, Greater London, E15 4PH, United Kingdom",A,10.32,14.77,7.28,7.46
+25,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mildreds. Detailed address: 9-11, Jamestown Road, Chalk Farm, London Borough of Camden, London, Greater London, NW1 7BW, United Kingdom
+2. Busy Bees. Detailed address: 62, Loampit Hill, Deptford, London Borough of Lewisham, London, Greater London, SE13 7SX, United Kingdom",C,15.06,4.6,11.84,6.43
+26,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pizza Hut Delivery. Detailed address: 174, Garratt Lane, Earlsfield, London Borough of Wandsworth, London, Greater London, SW18 4ED, United Kingdom
+2. nature play garden. Detailed address: Abbotsbury Road, Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W14 8EL, United Kingdom",C,12.06,0.83,6.18,3.44
+27,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Angel Kebab Burger Pizza. Detailed address: 133, Essex Road, Canonbury, Islington, London Borough of Islington, London, Greater London, N1 8LX, United Kingdom
+2. The Hour Glass. Detailed address: Beaconsfield Road, Browning Estate, Walworth, London Borough of Southwark, London, Greater London, SE17 2EN, United Kingdom",C,12.06,9.85,6.0,9.47
+28,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Limes. Detailed address: Putney Heath, Putney, London Borough of Wandsworth, London, Greater London, SW15 3NG, United Kingdom
+2. Growing Communities. Detailed address: Mackintosh Lane, Homerton, London Borough of Hackney, London, Greater London, E9 6AB, United Kingdom",C,10.9,21.2,16.25,9.31
+29,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mudchute Equestrian Centre. Detailed address: The Valley, Cubitt Town, Isle of Dogs, London Borough of Tower Hamlets, London, Greater London, E14 3BA, United Kingdom
+2. Glass Fountain. Detailed address: Three Nun Court, Barbican, City of London, Greater London, EC2V 7HY, United Kingdom",B,13.72,6.4,7.79,2.48
+30,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Muburakiya. Detailed address: 108, Seymour Place, Marylebone, London, Greater London, W1H 1NJ, United Kingdom
+2. Sutherland House. Detailed address: Highlands Heath, Putney Village, Roehampton, London Borough of Wandsworth, London, Greater London, SW15 3TY, United Kingdom",D,13.99,6.63,7.17,9.26
+31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Borough Crown & Bridge Ltd. Detailed address: 31, Bramshot Avenue, Royal Standard, East Greenwich, Royal Borough of Greenwich, London, Greater London, SE7 7HY, United Kingdom
+2. Bistro Union. Detailed address: Narbonne Avenue, Abbeville Village, Clapham, London Borough of Lambeth, London, Greater London, SW4 9LQ, United Kingdom",A,11.65,13.12,8.8,15.62
+32,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Good's Way. Detailed address: Goods Way, King's Cross, London Borough of Camden, London, Greater London, N1C 4DP, United Kingdom
+2. Grill Feast. Detailed address: 135B, High Street, Plaistow, London Borough of Newham, London, Greater London, E13 9HH, United Kingdom",D,3.25,3.54,3.13,10.48
+33,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Pembroke Castle. Detailed address: 150, Gloucester Avenue, Primrose Hill, Chalk Farm, London Borough of Camden, London, Greater London, NW1 8LA, United Kingdom
+2. Constancia. Detailed address: 52, Tanner Street, Bermondsey Village, Old Kent Road, London Borough of Southwark, London, Greater London, SE1 3PH, United Kingdom",C,9.52,13.55,7.1,10.85
+34,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Be At One. Detailed address: 85, Battersea Rise, Clapham Junction, London Borough of Wandsworth, London, Greater London, SW11 1HW, United Kingdom
+2. Perfect Fried Chicken. Detailed address: 183, New Cross Road, Telegraph Hill, New Cross Gate, London Borough of Lewisham, London, Greater London, SE14 5DG, United Kingdom",B,0.8,8.56,12.54,2.5
+35,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fit4less. Detailed address: Highbury & Islington, 555, Liverpool Road, Lower Holloway, Highbury, London Borough of Islington, London, Greater London, N7 8NP, United Kingdom
+2. Bella Italia. Detailed address: Cranbourn Street, Seven Dials, Bloomsbury, City of Westminster, Greater London, WC2H 7NG, United Kingdom",C,8.62,7.09,4.56,3.41
+36,"What is the straight-line distance between the following two locations? (Unit is km)
+1. London Bridge Cycle Park. Detailed address: Weston Street, Bermondsey Village, The Borough, London Borough of Southwark, London, Greater London, SE1 3QQ, United Kingdom
+2. Chatime. Detailed address: 11, Harbour Exchange Square, Isle of Dogs, London Borough of Tower Hamlets, London, Greater London, E14 9GE, United Kingdom",D,0.85,1.22,2.12,4.84
+37,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bella Italia. Detailed address: Cranbourn Street, Seven Dials, Bloomsbury, City of Westminster, Greater London, WC2H 7NG, United Kingdom
+2. Caffe Paradiso. Detailed address: 45, Shad Thames, Butler's Wharf, Bermondsey, London Borough of Southwark, London, Greater London, SE1 2NJ, United Kingdom",C,9.14,1.15,3.89,11.03
+38,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Hasaniya Moroccan Women's Centre. Detailed address: Golborne Road, North Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W10 5PE, United Kingdom
+2. Sonigra Pharmacy. Detailed address: 44, Well Street, Victoria Park Village, Hackney, London Borough of Hackney, London, Greater London, E9 7PX, United Kingdom",C,5.75,5.61,10.69,5.95
+39,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Halifax. Detailed address: White City Depot, Shepherd's Bush Library and Work Zone, Shepherd's Bush, London Borough of Hammersmith and Fulham, London, Greater London, W12 7BF, United Kingdom
+2. Corner Café. Detailed address: 219, Garratt Lane, Earlsfield, London Borough of Wandsworth, London, Greater London, SW18 4DT, United Kingdom",D,13.17,0.94,3.98,6.88
+40,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Brows & Nails HQ. Detailed address: 71, D'Arblay Street, Soho, London, Greater London, W1F 8EG, United Kingdom
+2. Shuttleworth Park. Detailed address: Galleywall Road, South Bermondsey, Bermondsey, London Borough of Southwark, London, Greater London, SE16 3LT, United Kingdom",B,0.76,5.8,0.86,4.75
+41,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Source London. Detailed address: Downs Park Road, Shacklewell, London Borough of Hackney, London, Greater London, E8 2HY, United Kingdom
+2. Saint Espresso. Detailed address: 214, Baker Street, Marylebone, London, Greater London, NW1 5RT, United Kingdom",A,7.03,12.18,1.28,12.06
+42,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chelsea Medical Services. Detailed address: 45, Rosary Gardens, The Boltons, South Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, SW7 4NJ, United Kingdom
+2. Torriano Meeting House. Detailed address: 99, Torriano Avenue, Tufnell Park, London Borough of Camden, London, Greater London, NW5 2RX, United Kingdom",B,13.07,7.42,5.61,9.35
+43,"What is the straight-line distance between the following two locations? (Unit is km)
+1. SparklySmile. Detailed address: 19, Montpelier Vale, Blackheath Village, Blackheath, London Borough of Lewisham, London, Greater London, SE3 0TA, United Kingdom
+2. Café de Nata. Detailed address: 209-210, Chalk Farm Road, Chalk Farm, London Borough of Camden, London, Greater London, NW1 8AB, United Kingdom",B,11.12,13.53,7.86,7.95
+44,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Holy Ghost Catholic Primary School. Detailed address: Nightingale Square, Balham, London Borough of Wandsworth, London, Greater London, SW12 8QJ, United Kingdom
+2. Walworth Telephone Exchange. Detailed address: Clarence House, 12, Merrow Street, Browning Estate, Walworth, London Borough of Southwark, London, Greater London, SE17 2NJ, United Kingdom",D,11.87,12.9,10.58,6.16
+45,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Grill Feast. Detailed address: 135B, High Street, Plaistow, London Borough of Newham, London, Greater London, E13 9HH, United Kingdom
+2. Black Sheep Coffee. Detailed address: Euston Road, King's Cross, London Borough of Camden, London, Greater London, NW1 2RY, United Kingdom",D,17.21,6.55,9.21,10.36
+46,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Herne Hill Post Office. Detailed address: 31-39, Norwood Road, Dulwich Village, London Borough of Southwark, London, Greater London, SE24 9AA, United Kingdom
+2. America Square Conference Centre. Detailed address: 1, America Square, Aldgate, City of London, Greater London, EC3N 2LS, United Kingdom",C,13.39,3.04,6.86,11.1
+47,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Empire Empire. Detailed address: 16, All Saints Road, Notting Hill, Royal Borough of Kensington and Chelsea, London, Greater London, W11 1HH, United Kingdom
+2. Manresa Road. Detailed address: World's End, Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, SW3 6LR, United Kingdom",D,11.61,5.45,5.81,4.14
+48,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Suzu House. Detailed address: 170-172, Hammersmith Road, Brook Green, London Borough of Hammersmith and Fulham, London, Greater London, W6 8DB, United Kingdom
+2. Pizza Corner. Detailed address: 276, Uxbridge Road, Shepherd's Bush, London Borough of Hammersmith and Fulham, London, Greater London, W12 7JA, United Kingdom",B,5.06,1.61,8.37,6.84
+49,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lemonade by Lemonica. Detailed address: Stratford Place, Stratford New Town, Stratford, London Borough of Newham, London, Greater London, E20 1GR, United Kingdom
+2. Zaza's. Detailed address: 108a, Whitechapel Road, Whitechapel, London Borough of Tower Hamlets, London, Greater London, E1 1JE, United Kingdom",C,9.16,10.8,4.91,8.93
+50,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Grosvenor Hotel Garage. Detailed address: Reeves Mews, Mayfair, London, Greater London, W1K 2EH, United Kingdom
+2. Bagel Master. Detailed address: 34, Cremer Street, Shoreditch, London Borough of Hackney, London, Greater London, E2 8GG, United Kingdom",C,11.19,1.57,5.81,3.16
+51,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Three Lions. Detailed address: 125, South Lambeth Road, Stockwell, London Borough of Lambeth, London, Greater London, SW8 1XA, United Kingdom
+2. TRAID. Detailed address: Dalston Lane, De Beauvoir Town, Dalston, London Borough of Hackney, London, Greater London, E8 2PE, United Kingdom",D,2.58,13.43,12.85,8.26
+52,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ghion Cafe. Detailed address: North End Road, Walham Green, West Kensington, London Borough of Hammersmith and Fulham, London, Greater London, SW6 1NL, United Kingdom
+2. Mr Chippy. Detailed address: 353, High Road Leytonstone, Cann Hall, Leytonstone, London Borough of Waltham Forest, London, Greater London, E11 4JT, United Kingdom",C,9.07,17.66,16.42,8.59
+53,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pizza Corner. Detailed address: 276, Uxbridge Road, Shepherd's Bush, London Borough of Hammersmith and Fulham, London, Greater London, W12 7JA, United Kingdom
+2. Assenheims. Detailed address: Pure, 8, London Bridge Street, Bermondsey Village, The Borough, London Borough of Southwark, London, Greater London, SE1 9SG, United Kingdom",C,11.34,14.9,9.83,13.05
+54,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Oglon Day Nursery. Detailed address: 177, Kensal Road, North Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W10 5DD, United Kingdom
+2. Brown Hart Gardens. Detailed address: Mayfair, London, Greater London, W1K 6WP, United Kingdom",B,5.59,4.18,5.3,11.13
+55,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Saint Espresso. Detailed address: 214, Baker Street, Marylebone, London, Greater London, NW1 5RT, United Kingdom
+2. Mudchute Equestrian Centre. Detailed address: The Valley, Cubitt Town, Isle of Dogs, London Borough of Tower Hamlets, London, Greater London, E14 3BA, United Kingdom",D,7.28,15.42,6.24,10.9
+56,"What is the straight-line distance between the following two locations? (Unit is km)
+1. K10. Detailed address: 3, Appold Street, Broadgate, City of London, Greater London, EC2A 2AF, United Kingdom
+2. Tasty. Detailed address: 109, Trafalgar Road, East Greenwich, Royal Borough of Greenwich, London, Greater London, SE10 9TS, United Kingdom",D,3.99,0.64,2.89,7.05
+57,"What is the straight-line distance between the following two locations? (Unit is km)
+1. muan. Detailed address: Le Brixton Deli, 4th Avenue, Brixton, London Borough of Lambeth, London, Greater London, SW9 8PS, United Kingdom
+2. Rosa's Thai Cafe. Detailed address: 77, The Cut, South Bank, Waterloo, London Borough of Lambeth, London, Greater London, SE1 8LL, United Kingdom",B,2.41,4.46,1.61,7.14
+58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Beach Blanket Babylon. Detailed address: 45, Ledbury Road, Westbourne Green, Maida Hill, Royal Borough of Kensington and Chelsea, London, Greater London, W11 2AJ, United Kingdom
+2. inamo. Detailed address: 134-136, Wardour Street, Soho, London, Greater London, W1F 8ZS, United Kingdom",B,3.12,4.49,7.46,9.35
+59,"What is the straight-line distance between the following two locations? (Unit is km)
+1. KOL. Detailed address: 9, Seymour Street, Marylebone, London, Greater London, W1H 7BA, United Kingdom
+2. Orchid Pizza. Detailed address: 287, Battersea Park Road, Clapham Junction, London Borough of Wandsworth, London, Greater London, SW11 4LX, United Kingdom",D,9.82,9.02,6.5,4.51
+60,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Tredegar Practice. Detailed address: 35, St Stephen's Road, Old Ford, Bow, London Borough of Tower Hamlets, London, Greater London, E3 5FF, United Kingdom
+2. Green Light Pharmacy. Detailed address: 29, Winchester Road, Swiss Cottage, Belsize Park, London Borough of Camden, London, Greater London, NW3 3NG, United Kingdom",C,7.75,7.49,9.88,16.93
+61,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Water House. Detailed address: 30-32, Albion Street, Canada Water, Rotherhithe, London Borough of Southwark, London, Greater London, SE16 7JQ, United Kingdom
+2. Bright Horizons. Detailed address: Latchmere Road, Battersea, London Borough of Wandsworth, London, Greater London, SW11 2DX, United Kingdom",C,3.55,12.2,8.39,10.31
+62,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pimlico Tandoori. Detailed address: 38, Moreton Street, Pimlico, London, Greater London, SW1V 2PB, United Kingdom
+2. The Whale Tea. Detailed address: 5 Continents, 56, The Mall, Stratford New Town, Stratford, London Borough of Newham, London, Greater London, E15 1XE, United Kingdom",D,9.34,16.35,7.74,11.16
+63,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Enish Africa. Detailed address: Old Kent Road, Peckham, London Borough of Southwark, London, Greater London, SE15 1JB, United Kingdom
+2. Fleet Tandoori. Detailed address: Fleet Road, South End Green, Belsize Park, London Borough of Camden, London, Greater London, NW3 2QH, United Kingdom",B,9.18,10.36,7.38,9.23
+64,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Trowers & Hamlins. Detailed address: 3, Bunhill Row, Saint Luke's, Finsbury, London Borough of Islington, London, Greater London, EC1Y 8YZ, United Kingdom
+2. The ClementJames Centre. Detailed address: IntoUniversity, 95, Sirdar Road, Lancaster West Estate, North Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W11 4EG, United Kingdom",D,15.99,12.24,14.49,8.77
+65,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Clarendon Cocktail Cellar. Detailed address: 52, Cambridge Street, Pimlico, London, Greater London, SW1V 4QQ, United Kingdom
+2. Underground Bicycle Parking. Detailed address: Westferry Circus, Canary Wharf, London Borough of Tower Hamlets, London, Greater London, E14 8RP, United Kingdom",A,8.35,13.35,13.06,11.05
+66,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Koshari Street. Detailed address: 56, St. Martin's Lane, Seven Dials, Bloomsbury, London, Greater London, WC2N 4EA, United Kingdom
+2. Pizza Verde. Detailed address: Lewisham Way, New Cross, London Borough of Lewisham, London, Greater London, SE8 4QE, United Kingdom",B,9.66,8.16,2.59,4.92
+67,"What is the straight-line distance between the following two locations? (Unit is km)
+1. East India Club. Detailed address: 1, King Street, St. James's, Mayfair, City of Westminster, Greater London, SW1Y 6QG, United Kingdom
+2. Comber Park. Detailed address: Badsworth Road, Camberwell, London Borough of Southwark, London, Greater London, SE5 0LB, United Kingdom",A,4.38,3.36,0.72,2.44
+68,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kam's Chicken. Detailed address: Wandsworth Road, Clapham, London Borough of Lambeth, London, Greater London, SW8 4PA, United Kingdom
+2. Tudor Rose Court. Detailed address: 35, Fann Street, Barbican, City of London, Greater London, EC2Y 8DY, United Kingdom",A,6.47,11.26,4.54,3.58
+69,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Shiv. Detailed address: 309, Regent Street, East Marylebone, Fitzrovia, Camden Town, City of Westminster, Greater London, W1B 3BL, United Kingdom
+2. St. Martin's Close. Detailed address: Camden Street, Kentish Town, London Borough of Camden, London, Greater London, NW1 0JA, United Kingdom",A,2.45,6.55,6.08,4.45
+70,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Osprey Estate. Detailed address: Egret House, Tawny Way, Osprey Estate, Rotherhithe, London Borough of Southwark, London, Greater London, SE16 2NG, United Kingdom
+2. Skelton House. Detailed address: Newington Green Primary School, Matthias Road, Newington Green, Highbury, London Borough of Islington, London, Greater London, N16 8NP, United Kingdom",C,3.83,9.42,6.99,11.42
+71,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sichwan Popo. Detailed address: 35, Earl's Court Road, Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W8 6ED, United Kingdom
+2. Al Hasaniya Moroccan Women's Centre. Detailed address: Golborne Road, North Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W10 5PE, United Kingdom",B,8.5,2.95,6.95,4.59
+72,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Candella Tea Room. Detailed address: 34, Kensington Church Street, Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W8 4BQ, United Kingdom
+2. Hum Yoga. Detailed address: Lyell Street, London City Island, Blackwall, London Borough of Tower Hamlets, London, Greater London, E14 0SZ, United Kingdom",A,13.78,6.7,6.69,16.02
+73,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Braille Map. Detailed address: Bermondsey Village, The Borough, London Borough of Southwark, London, Greater London, SE1 2AP, United Kingdom
+2. Good's Way. Detailed address: Goods Way, King's Cross, London Borough of Camden, London, Greater London, N1C 4DP, United Kingdom",B,11.45,4.54,1.38,2.54
+74,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fitness First. Detailed address: Broadgate Circle, Broadgate, City of London, Greater London, EC2M 2QS, United Kingdom
+2. Eico Pharmacy. Detailed address: 97, Highgate Road, Maitland Park, Kentish Town, London Borough of Camden, London, Greater London, NW5 1TR, United Kingdom",D,11.09,1.53,2.38,5.86
+75,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Eico Pharmacy. Detailed address: 97, Highgate Road, Maitland Park, Kentish Town, London Borough of Camden, London, Greater London, NW5 1TR, United Kingdom
+2. Ladybird. Detailed address: 70, Upper Street, Angel, Islington, London Borough of Islington, London, Greater London, N1 0NU, United Kingdom",B,8.37,3.55,5.36,9.9
+76,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Russell Road Playground. Detailed address: Russell Gardens Mews, Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W14 8EU, United Kingdom
+2. 4 Merchant Square. Detailed address: 4, Merchant Square, Paddington, London, Greater London, W2 1AS, United Kingdom",A,3.57,8.24,10.2,4.76
+77,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Murray Grove Post Office. Detailed address: 96-97, Murray Grove, Hoxton, London Borough of Hackney, London, Greater London, N1 7QP, United Kingdom
+2. easyGym. Detailed address: Denmark Hill, Camberwell, London Borough of Southwark, London, Greater London, SE5 8RT, United Kingdom",C,1.75,2.7,6.5,12.41
+78,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dragon King. Detailed address: 4, Kirtling Street, Nine Elms, London Borough of Wandsworth, London, Greater London, SW11 8DG, United Kingdom
+2. Green Dental Care. Detailed address: Cabul Road, Battersea, London Borough of Wandsworth, London, Greater London, SW11 2PN, United Kingdom",A,2.66,10.12,4.15,5.07
+79,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mohawk House. Detailed address: 4, Gernon Road, Lanfranc Estate, Mile End, London Borough of Tower Hamlets, London, Greater London, E3 5QT, United Kingdom
+2. The Viaduct Tavern. Detailed address: 126, Newgate Street, West Smithfield, City of London, Greater London, EC1A 7AA, United Kingdom",C,7.48,9.7,4.65,7.34
+80,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Radha Krishna Cultural Centre. Detailed address: Water Lane, Stratford New Town, Maryland, London Borough of Newham, London, Greater London, E15 4NH, United Kingdom
+2. Sichwan Popo. Detailed address: 35, Earl's Court Road, Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W8 6ED, United Kingdom",C,12.35,13.26,15.23,14.17
+81,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Citi. Detailed address: Savinvest, 25, Canada Square, Canary Wharf, London Borough of Tower Hamlets, London, Greater London, E14 5LB, United Kingdom
+2. The Royal Mews. Detailed address: Buckingham Palace Garden, Chapel Street, Belgravia, London, Greater London, SW1X 7BY, United Kingdom",B,12.61,8.79,15.67,5.34
+82,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Amersham Arms. Detailed address: 388, New Cross Road, New Cross, London Borough of Lewisham, London, Greater London, SE14 6TY, United Kingdom
+2. Camino. Detailed address: 2, Curtain Road, Shoreditch, London Borough of Hackney, London, Greater London, EC2A 3BL, United Kingdom",D,7.95,4.11,13.97,6.15
+83,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Amalfi. Detailed address: 25, Argyll Street, Soho, City of Westminster, Greater London, W1F 7TU, United Kingdom
+2. Lininiya. Detailed address: 66, Cricklewood Broadway, Kilburn, London Borough of Camden, London, Greater London, NW2 3EP, United Kingdom",C,14.38,11.22,6.6,8.5
+84,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Stick & Bowl. Detailed address: 31, Kensington High Street, South Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W8 5NP, United Kingdom
+2. Maze. Detailed address: 10-13, Grosvenor Square, Mayfair, London, Greater London, W1K 5AE, United Kingdom",B,4.99,2.85,10.47,5.5
+85,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bermondsey Farmers' Market. Detailed address: Tower Bridge Road, Bermondsey Village, Old Kent Road, London Borough of Southwark, London, Greater London, SE1 3NG, United Kingdom
+2. LayaLina. Detailed address: 2-3, Beauchamp Place, Hans Town, Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, SW3 1NQ, United Kingdom",B,9.39,5.87,4.27,0.58
+86,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Boots. Detailed address: 129–133, Kingsway, Gray's Inn, Holborn, London Borough of Camden, London, Greater London, WC2B 6NH, United Kingdom
+2. Newham Music. Detailed address: Westfield Stratford City, Station Lane, Stratford, London Borough of Newham, London, Greater London, E20 1EE, United Kingdom",C,1.65,0.87,8.3,12.8
+87,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Guildhall. Detailed address: Aldermanbury, Barbican, City of London, Greater London, EC2V 5AF, United Kingdom
+2. Love My Human. Detailed address: 330, King's Road, World's End, Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, SW3 5UR, United Kingdom",B,7.87,6.58,9.09,2.19
+88,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mill House Buildings. Detailed address: Daily Cafe, 23, Three Colts Lane, Globe Town, Bethnal Green, London Borough of Tower Hamlets, London, Greater London, E2 6JL, United Kingdom
+2. East Greenwich Jetty. Detailed address: Mudlarks Boulevard, Greenwich Peninsula, Royal Borough of Greenwich, London, Greater London, SE10 0UD, United Kingdom",A,5.77,4.51,12.86,1.21
+89,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Host. Detailed address: Watling Street, St Paul's, City of London, Greater London, EC4M 9BW, United Kingdom
+2. Young Prince. Detailed address: 448, Roman Road, Old Ford, Bow, London Borough of Tower Hamlets, London, Greater London, E3 5LU, United Kingdom",B,8.72,4.64,3.62,9.74
+90,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Patty & Bun. Detailed address: 205, Richmond Road, Hackney, London Borough of Hackney, London, Greater London, E8 3FF, United Kingdom
+2. Masala Zone Piccadilly Circus. Detailed address: 224, Piccadilly Circus, Saint Giles, Bloomsbury, London, Greater London, W1J 9HP, United Kingdom",D,11.77,12.6,2.26,6.52
+91,"What is the straight-line distance between the following two locations? (Unit is km)
+1. easyGym. Detailed address: Denmark Hill, Camberwell, London Borough of Southwark, London, Greater London, SE5 8RT, United Kingdom
+2. The Three Lions. Detailed address: 125, South Lambeth Road, Stockwell, London Borough of Lambeth, London, Greater London, SW8 1XA, United Kingdom",A,2.21,3.78,4.1,3.35
+92,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Apollo House. Detailed address: Munro Terrace, Cremourne Estate, Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, SW10 0DW, United Kingdom
+2. Gynaecology and Fetal Medicine London. Detailed address: 86, Harley Street, East Marylebone, Marylebone, Camden Town, City of Westminster, Greater London, W1G 7HS, United Kingdom",D,8.57,3.46,10.59,4.69
+93,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dalmeny Court. Detailed address: 8, Duke Street St James's, St. James's, Mayfair, London, Greater London, SW1Y 6DB, United Kingdom
+2. Muburakiya. Detailed address: 108, Seymour Place, Marylebone, London, Greater London, W1H 1NJ, United Kingdom",B,3.92,2.26,8.91,10.07
+94,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Little Venice Pilates & Physiotherapy. Detailed address: 28, Bristol Gardens, Westbourne Green, Maida Vale, London, Greater London, W9 2JQ, United Kingdom
+2. Powerleague. Detailed address: Selsdon Way, Cubitt Town, Isle of Dogs, London Borough of Tower Hamlets, London, Greater London, E14 9QD, United Kingdom",C,9.14,19.93,12.29,19.37
+95,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Grays Inn Post Office. Detailed address: 24-28, Gray's Inn Road, Gray's Inn, Holborn, London Borough of Camden, London, Greater London, WC1X 8HR, United Kingdom
+2. RBS. Detailed address: 8, Eastcheap, Monument, City of London, Greater London, EC3M 1BN, United Kingdom",C,7.49,3.08,2.07,7.86
+96,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Seang Lee. Detailed address: Battersea Park Road, Clapham Junction, London Borough of Wandsworth, London, Greater London, SW11 4LT, United Kingdom
+2. waterfall. Detailed address: The Boulevard, Imperial Wharf, London Borough of Hammersmith and Fulham, London, Greater London, SW6 2GW, United Kingdom",B,4.21,1.86,9.49,3.42
+97,"What is the straight-line distance between the following two locations? (Unit is km)
+1. London Fire Brigade Pop-up Museum. Detailed address: 26, Lambeth High Street, Kennington Cross, Lambeth, London Borough of Lambeth, London, Greater London, SE1 7AG, United Kingdom
+2. Beach Blanket Babylon. Detailed address: 45, Ledbury Road, Westbourne Green, Maida Hill, Royal Borough of Kensington and Chelsea, London, Greater London, W11 2AJ, United Kingdom",B,1.18,6.0,0.57,12.0
+98,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Quadrato Restaurant. Detailed address: 46, Westferry Circus, Canary Wharf, London Borough of Tower Hamlets, London, Greater London, E14 8RS, United Kingdom
+2. Honest Burgers. Detailed address: 8, Nelson Road, Greenwich Town Centre, East Greenwich, Royal Borough of Greenwich, London, Greater London, SE10 9JB, United Kingdom",C,1.88,2.13,3.14,5.8
+99,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bush House (North West Wing). Detailed address: 57, Aldwych, St Clement Danes, Holborn, London, Greater London, WC2B 4PJ, United Kingdom
+2. Lansbury Lawrence Primary School. Detailed address: Cordelia Street, Poplar, London Borough of Tower Hamlets, London, Greater London, E14 6DZ, United Kingdom",C,11.97,1.76,6.99,10.08
+100,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Forest Island. Detailed address: Forest Lane, Forest Gate, London Borough of Newham, London, Greater London, E7 0NE, United Kingdom
+2. Ritz Pharmacy. Detailed address: 43, Heath Street, Vale of Health, Belsize Park, London Borough of Camden, London, Greater London, NW3 6UP, United Kingdom",D,9.03,8.81,11.14,14.14
+101,"What is the straight-line distance between the following two locations? (Unit is km)
+1. LayaLina. Detailed address: 2-3, Beauchamp Place, Hans Town, Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, SW3 1NQ, United Kingdom
+2. Host. Detailed address: Watling Street, St Paul's, City of London, Greater London, EC4M 9BW, United Kingdom",C,2.92,11.35,5.27,8.76
+102,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ritchie Street Group Practice. Detailed address: Ritchie Street, Angel, Barnsbury, London Borough of Islington, London, Greater London, N1 0DG, United Kingdom
+2. Nipa. Detailed address: Lancaster Terrace, Paddington, London, Greater London, W2 2TY, United Kingdom",A,5.32,11.91,10.11,6.53
+103,"What is the straight-line distance between the following two locations? (Unit is km)
+1. HSBC UK. Detailed address: 465, Bethnal Green Road, Globe Town, Bethnal Green, London Borough of Tower Hamlets, London, Greater London, E2 9QW, United Kingdom
+2. Enterprise. Detailed address: Baltimore Wharf, Millwall, Isle of Dogs, London Borough of Tower Hamlets, London, Greater London, E14 9EP, United Kingdom",A,4.48,1.0,6.76,10.16
+104,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Station Cafe. Detailed address: 23, Staplehurst Road, Cordwell Estate, Hither Green, London Borough of Lewisham, London, Greater London, SE13 5ND, United Kingdom
+2. Angel Kebab Burger Pizza. Detailed address: 133, Essex Road, Canonbury, Islington, London Borough of Islington, London, Greater London, N1 8LX, United Kingdom",A,11.74,15.3,18.4,8.76
+105,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Consular Section of Iranian Embassy. Detailed address: 50, Kensington Court, South Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W8 5DB, United Kingdom
+2. Morpeth School. Detailed address: Portman Place, Globe Town, Bethnal Green, London Borough of Tower Hamlets, London, Greater London, E2 0PX, United Kingdom",C,12.64,17.35,10.09,4.17
+106,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lyndhurst Primary School. Detailed address: Grove Lane, Denmark Hill, Camberwell, London Borough of Southwark, London, Greater London, SE5 8SN, United Kingdom
+2. Apollo House. Detailed address: Munro Terrace, Cremourne Estate, Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, SW10 0DW, United Kingdom",C,9.66,3.72,6.29,13.97
+107,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cafe at the Library. Detailed address: Darfield Road, Crofton Park, Brockley, London Borough of Lewisham, London, Greater London, SE4 1ER, United Kingdom
+2. BIT Bourbon Steam Burgers (in Sunday Up Market). Detailed address: Brick Lane, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, E1 6SB, United Kingdom",C,1.36,1.7,7.64,15.5
+108,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gong cha. Detailed address: 304, Creek Road, Greenwich Town Centre, Royal Borough of Greenwich, London, Greater London, SE10 9SW, United Kingdom
+2. Dragon King. Detailed address: 4, Kirtling Street, Nine Elms, London Borough of Wandsworth, London, Greater London, SW11 8DG, United Kingdom",B,15.33,8.81,11.21,13.3
+109,"What is the straight-line distance between the following two locations? (Unit is km)
+1. BP. Detailed address: 15-25, Parkgate Road, Battersea, London Borough of Wandsworth, London, Greater London, SW11 4NP, United Kingdom
+2. Koshari Street. Detailed address: 56, St. Martin's Lane, Seven Dials, Bloomsbury, London, Greater London, WC2N 4EA, United Kingdom",C,9.86,1.65,4.61,1.51
+110,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lion and Unicorn. Detailed address: 42-44, Gaisford Street, Kentish Town, London Borough of Camden, London, Greater London, NW5 2ED, United Kingdom
+2. Anytime Fitness. Detailed address: Unit B, Meridian South, Birdwood Avenue, Hither Green, London Borough of Lewisham, London, Greater London, SE13 6UR, United Kingdom",D,10.94,9.3,12.71,14.5
+111,"What is the straight-line distance between the following two locations? (Unit is km)
+1. London South Bank University. Detailed address: Borough Road, Elephant and Castle, London Borough of Southwark, London, Greater London, SE1 1DR, United Kingdom
+2. St Stephen's Church of England Primary School. Detailed address: Dorset Road, Oval, London Borough of Lambeth, London, Greater London, SW8 1EJ, United Kingdom",B,4.34,2.53,3.64,5.69
+112,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Patisserie D'or. Detailed address: 39, Lee High Road, Cordwell Estate, Hither Green, London Borough of Lewisham, London, Greater London, SE13 5NS, United Kingdom
+2. Seang Lee. Detailed address: Battersea Park Road, Clapham Junction, London Borough of Wandsworth, London, Greater London, SW11 4LT, United Kingdom",C,6.36,14.56,10.47,2.62
+113,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sky Apartments. Detailed address: Homerton Road, Clapton Park, Hackney Wick, London Borough of Hackney, London, Greater London, E9 5FA, United Kingdom
+2. E.ON Energy GMV. Detailed address: Horn Link Way, Greenwich Millennium Village, East Greenwich, Royal Borough of Greenwich, London, Greater London, SE10 0JW, United Kingdom",D,5.35,3.22,14.09,7.53
+114,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nationwide. Detailed address: 100, Museum Street, Seven Dials, Bloomsbury, London Borough of Camden, London, Greater London, WC1A 1PB, United Kingdom
+2. Total Chi Yoga. Detailed address: 243, Baker Street, Marylebone, London, Greater London, NW1 5RS, United Kingdom",D,1.45,5.66,0.68,2.48
+115,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Coco di Mama. Detailed address: 55, Bishopsgate, City of London, Greater London, EC2N 3AS, United Kingdom
+2. Lucky Chip. Detailed address: 44, Essex Road, Canonbury, Islington, London Borough of Islington, London, Greater London, N1 2SF, United Kingdom",D,9.24,6.78,9.74,2.75
+116,"What is the straight-line distance between the following two locations? (Unit is km)
+1. DF Tacos. Detailed address: 15, Hanbury Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, E1 6QR, United Kingdom
+2. Crate Brewery & Pizza. Detailed address: 43, White Post Lane, Fish Island, Bow, London Borough of Tower Hamlets, London, Greater London, E9 5EN, United Kingdom",B,6.72,4.34,9.03,2.46
+117,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Royal Mews. Detailed address: Buckingham Palace Garden, Chapel Street, Belgravia, London, Greater London, SW1X 7BY, United Kingdom
+2. Harben Parade. Detailed address: Harrold House, 25, Finchley Road, Swiss Cottage, South Hampstead, London Borough of Camden, London, Greater London, NW3 6JX, United Kingdom",C,8.43,10.8,5.55,4.31
+118,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Love My Human. Detailed address: 330, King's Road, World's End, Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, SW3 5UR, United Kingdom
+2. Manila's Best Eatery. Detailed address: 331, North End Road, Walham Green, West Kensington, London Borough of Hammersmith and Fulham, London, Greater London, SW6 1NP, United Kingdom",B,6.31,1.93,3.66,7.62
+119,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bagel Master. Detailed address: 34, Cremer Street, Shoreditch, London Borough of Hackney, London, Greater London, E2 8GG, United Kingdom
+2. Fitness First. Detailed address: Broadgate Circle, Broadgate, City of London, Greater London, EC2M 2QS, United Kingdom",D,3.21,6.3,8.57,1.44
+120,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tam’s Vineyard & Jazz Bar. Detailed address: 10, George Street, Wood Wharf, Isle of Dogs, London Borough of Tower Hamlets, London, Greater London, E14 9YL, United Kingdom
+2. Coffee Republic. Detailed address: 214, Portobello Road, Notting Hill, Royal Borough of Kensington and Chelsea, London, Greater London, W11 1EA, United Kingdom",A,13.42,17.26,6.12,16.56
+121,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Old City Arms. Detailed address: Hammersmith Bridge, Hammersmith, London Borough of Hammersmith and Fulham, London, Greater London, W6 9DF, United Kingdom
+2. The Friendly Society. Detailed address: 79, Wardour Street, Soho, City of Westminster, Greater London, W1D 4JG, United Kingdom",D,2.1,2.27,11.85,7.13
+122,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Harben Parade. Detailed address: Harrold House, 25, Finchley Road, Swiss Cottage, South Hampstead, London Borough of Camden, London, Greater London, NW3 6JX, United Kingdom
+2. Block D. Detailed address: 4A, Wyvil Road, Vauxhall, London Borough of Lambeth, London, Greater London, SW8 2TH, United Kingdom",C,11.33,1.34,7.84,4.78
+123,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gauden Road. Detailed address: Clapham, London Borough of Lambeth, London, Greater London, SW4 6LP, United Kingdom
+2. Catch Lounge. Detailed address: 40, Liverpool Street, Bishopsgate, City of London, Greater London, EC2M 7QN, United Kingdom",B,10.15,6.78,9.05,12.05
+124,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Crate Brewery & Pizza. Detailed address: 43, White Post Lane, Fish Island, Bow, London Borough of Tower Hamlets, London, Greater London, E9 5EN, United Kingdom
+2. Flame House. Detailed address: 113, Cricklewood Broadway, London Borough of Barnet, London, Greater London, NW2 3JG, United Kingdom",A,13.36,20.69,20.66,5.79
+125,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Enough To Feed An Elephant. Detailed address: 17, Lower Marsh, Waterloo, London Borough of Lambeth, London, Greater London, SE1 7RJ, United Kingdom
+2. Migue's Tapas Bar & Restaurant. Detailed address: 40-42, Brixton Road, Myatt's Fields, Oval, London Borough of Lambeth, London, Greater London, SW9 6BT, United Kingdom",A,2.34,9.95,0.51,1.15
+126,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sizzling Chopstick. Detailed address: 2, Silvertown Way, Canning Town, London Borough of Newham, London, Greater London, E16 1ED, United Kingdom
+2. L'Oculto Cocina. Detailed address: Brockley Road, Crofton Park, Brockley, London Borough of Lewisham, London, Greater London, SE4 2SA, United Kingdom",A,6.87,11.37,11.35,12.0
+127,"What is the straight-line distance between the following two locations? (Unit is km)
+1. RBS. Detailed address: 8, Eastcheap, Monument, City of London, Greater London, EC3M 1BN, United Kingdom
+2. King Valley Fried Chicken House. Detailed address: 56, Gibbon Road, Tappesfield Estate, Nunhead, London Borough of Southwark, London, Greater London, SE15 3XE, United Kingdom",C,11.65,4.13,5.42,2.4
+128,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Oi Vita Pizzeria. Detailed address: 67, Newington Green Road, Newington Green, Highbury, London Borough of Islington, London, Greater London, N1 4QU, United Kingdom
+2. Macaw House. Detailed address: 46, Cambridge Road, Queen's Park, London Borough of Brent, London, Greater London, NW6 5GP, United Kingdom",A,7.52,15.09,6.26,2.8
+129,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jia - Dim Sum. Detailed address: 1, Harrington Road, The Boltons, Brompton, Royal Borough of Kensington and Chelsea, London, Greater London, SW7 3ES, United Kingdom
+2. muan. Detailed address: Le Brixton Deli, 4th Avenue, Brixton, London Borough of Lambeth, London, Greater London, SW9 8PS, United Kingdom",B,9.46,5.62,1.52,13.08
+130,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Market Thai. Detailed address: 240A, Portobello Road, Lancaster West Estate, North Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W11 1LL, United Kingdom
+2. Farmer J. Detailed address: 1, Finsbury Avenue, Broadgate, City of London, Greater London, EC2M 2PB, United Kingdom",D,1.24,1.2,3.18,8.41
+131,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lininiya. Detailed address: 66, Cricklewood Broadway, Kilburn, London Borough of Camden, London, Greater London, NW2 3EP, United Kingdom
+2. Fernandez & Wells. Detailed address: 55, Duke Street, Mayfair, London, Greater London, W1K 5NR, United Kingdom",A,6.17,3.94,1.89,3.99
+132,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hyde Park Coach and Car Park. Detailed address: Bayswater Road, Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W2 4HP, United Kingdom
+2. Museum Gardens. Detailed address: Roman Road, Globe Town, Bethnal Green, London Borough of Tower Hamlets, London, Greater London, E2 0HR, United Kingdom",A,9.65,12.67,11.91,7.5
+133,"What is the straight-line distance between the following two locations? (Unit is km)
+1. St Agnes RC Primary School. Detailed address: Rainhill Way, Bromley-by-Bow, Bow, London Borough of Tower Hamlets, London, Greater London, E3 3ER, United Kingdom
+2. Wigmore Mansion. Detailed address: Pelican State, 92, Wigmore Street, East Marylebone, Mayfair, London, Greater London, W1U 3RF, United Kingdom",A,9.3,14.63,7.88,4.86
+134,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Selwyn Primary School. Detailed address: Selwyn Road, Plaistow, London Borough of Newham, London, Greater London, E13 0ES, United Kingdom
+2. Hyde Park Coach and Car Park. Detailed address: Bayswater Road, Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W2 4HP, United Kingdom",C,8.55,12.09,15.18,8.6
+135,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Devotion Coffee Experts. Detailed address: Clapham Junction, London Borough of Wandsworth, London, Greater London, SW11 1UA, United Kingdom
+2. London Bridge Cycle Park. Detailed address: Weston Street, Bermondsey Village, The Borough, London Borough of Southwark, London, Greater London, SE1 3QQ, United Kingdom",D,11.53,15.23,11.17,7.51
+136,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lisson Grove Health Centre. Detailed address: 3, Gateforth Street, St. John's Wood, London, Greater London, NW8 8EH, United Kingdom
+2. Housing Office. Detailed address: Featley Road, Loughborough Estate, Loughborough Junction, London Borough of Lambeth, London, Greater London, SW9 7LN, United Kingdom",D,11.66,11.63,2.43,7.71
+137,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Balans Soho Society. Detailed address: 16A, Clapham Common South Side, Clapham Park, Clapham, London Borough of Lambeth, London, Greater London, SW4 7AB, United Kingdom
+2. Emmanuel Evangelical Church. Detailed address: Tufton Street, Westminster, Millbank, London, Greater London, SW1P 3RB, United Kingdom",C,1.08,9.65,3.99,1.82
+138,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Winsland Street. Detailed address: Tanner Lane, Paddington, London, Greater London, W2 1DL, United Kingdom
+2. Champagne Bar. Detailed address: 40, Liverpool Street, Bishopsgate, City of London, Greater London, EC2M 7QN, United Kingdom",B,13.91,6.58,5.53,12.59
+139,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sutherland House. Detailed address: Highlands Heath, Putney Village, Roehampton, London Borough of Wandsworth, London, Greater London, SW15 3TY, United Kingdom
+2. R.S. Hispaniola. Detailed address: Victoria Embankment, Covent Garden, Waterloo, London, Greater London, WC2N 5DJ, United Kingdom",A,9.91,14.22,13.66,7.88
+140,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Caledonian Park. Detailed address: Clock Tower, Clock View Crescent, Holloway, London Borough of Islington, London, Greater London, N7 9TP, United Kingdom
+2. Alderney Building. Detailed address: XX Place Health Centre, 275, Bancroft Road, Globe Town, Stepney, London Borough of Tower Hamlets, London, Greater London, E1 4DG, United Kingdom",B,7.37,6.12,9.0,8.45
+141,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Natural Kitchen. Detailed address: 26, Tudor Street, Blackfriars, City of London, Greater London, EC4Y 0AY, United Kingdom
+2. Amersham Arms. Detailed address: 388, New Cross Road, New Cross, London Borough of Lewisham, London, Greater London, SE14 6TY, United Kingdom",D,7.78,12.85,1.1,6.61
+142,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Thomas Buxton Primary School. Detailed address: Buxton Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, E1 5AR, United Kingdom
+2. Citi. Detailed address: Savinvest, 25, Canada Square, Canary Wharf, London Borough of Tower Hamlets, London, Greater London, E14 5LB, United Kingdom",D,7.84,5.23,0.68,3.87
+143,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Corner Café. Detailed address: 219, Garratt Lane, Earlsfield, London Borough of Wandsworth, London, Greater London, SW18 4DT, United Kingdom
+2. Tower Pharmacy. Detailed address: 50, Wapping Lane, St. George in the East, Wapping, London Borough of Tower Hamlets, London, Greater London, E1W 2RL, United Kingdom",A,11.04,4.49,9.46,5.28
+144,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hoop and Grapes. Detailed address: 47, Aldgate High Street, Aldgate, London Borough of Tower Hamlets, London, Greater London, EC3N 1AL, United Kingdom
+2. Venchi. Detailed address: Circus Road West, Nine Elms, London Borough of Wandsworth, London, Greater London, SW11 8EN, United Kingdom",B,13.16,6.05,9.45,0.56
+145,"What is the straight-line distance between the following two locations? (Unit is km)
+1. L'Oculto Cocina. Detailed address: Brockley Road, Crofton Park, Brockley, London Borough of Lewisham, London, Greater London, SE4 2SA, United Kingdom
+2. Loves Company. Detailed address: St. Agnes Well, Saint Luke's, Finsbury, London Borough of Islington, London, Greater London, EC1V 2NR, United Kingdom",D,4.83,2.09,1.32,8.34
+146,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Newham Music. Detailed address: Westfield Stratford City, Station Lane, Stratford, London Borough of Newham, London, Greater London, E20 1EE, United Kingdom
+2. Clarendon Cocktail Cellar. Detailed address: 52, Cambridge Street, Pimlico, London, Greater London, SW1V 4QQ, United Kingdom",A,11.14,9.22,3.62,5.98
+147,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Viva Afrik. Detailed address: 138, High Road Leytonstone, Cann Hall, London Borough of Waltham Forest, London, Greater London, E15 1UA, United Kingdom
+2. Brushfield Street. Detailed address: Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, EC2M 4QH, United Kingdom",D,9.47,5.68,13.29,6.93
+148,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Arthur Murray Dance Center. Detailed address: Arthur Murray Dance Studios, 77, Baker Street, Marylebone, London, Greater London, W1U 6RF, United Kingdom
+2. The Works Cafe. Detailed address: 384, Abbott Road, Bromley-by-Bow, Poplar, London Borough of Tower Hamlets, London, Greater London, E14 0UX, United Kingdom",D,4.73,4.16,5.21,10.26
+149,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mowgli Street Food. Detailed address: Westfield Stratford City, Station Lane, Stratford, London Borough of Newham, London, Greater London, E20 1EE, United Kingdom
+2. Caffè Nero. Detailed address: 3, Cathedral Street, Bankside, The Borough, London Borough of Southwark, London, Greater London, SE1 9DE, United Kingdom",A,7.01,1.75,13.34,0.52
+150,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lemoge Clinic. Detailed address: 57, Salusbury Road, Queen's Park, London Borough of Brent, London, Greater London, NW6 6NJ, United Kingdom
+2. Burdett Estate Mosque. Detailed address: 6, Masjid Lane, Burdett Estate, Limehouse, London Borough of Tower Hamlets, London, Greater London, E14 7UD, United Kingdom",D,14.92,10.52,9.19,12.52
+151,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Villa Rosa. Detailed address: 9, Craven Road, Paddington, London, Greater London, W2 3BP, United Kingdom
+2. Cephas Street. Detailed address: Globe Town, Bethnal Green, London Borough of Tower Hamlets, London, Greater London, E1 4HJ, United Kingdom",B,11.12,8.5,1.23,15.9
+152,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Relish. Detailed address: 8, John Islip Street, Millbank, London, Greater London, SW1P 4PY, United Kingdom
+2. Balans Soho Society. Detailed address: 16A, Clapham Common South Side, Clapham Park, Clapham, London Borough of Lambeth, London, Greater London, SW4 7AB, United Kingdom",A,3.23,6.63,6.92,1.51
+153,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Five Bros Burgers & Wings. Detailed address: 165, Globe Road, Globe Town, Bethnal Green, London Borough of Tower Hamlets, London, Greater London, E2 0LJ, United Kingdom
+2. Britannia Pharmacy. Detailed address: 151, East Ferry Road, Cubitt Town, Isle of Dogs, London Borough of Tower Hamlets, London, Greater London, E14 3BT, United Kingdom",D,10.37,11.61,1.81,4.48
+154,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sonigra Pharmacy. Detailed address: 44, Well Street, Victoria Park Village, Hackney, London Borough of Hackney, London, Greater London, E9 7PX, United Kingdom
+2. King's Academy. Detailed address: Hinton Road, Loughborough Junction, London Borough of Lambeth, London, Greater London, SW9 8RR, United Kingdom",A,8.98,14.48,6.62,3.79
+155,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Elasko. Detailed address: 4, Fairmont Avenue, New Providence Wharf, Blackwall, London Borough of Tower Hamlets, London, Greater London, E14 9JB, United Kingdom
+2. BP. Detailed address: 15-25, Parkgate Road, Battersea, London Borough of Wandsworth, London, Greater London, SW11 4NP, United Kingdom",A,11.81,17.44,16.52,18.9
+156,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Coffee Republic. Detailed address: 214, Portobello Road, Notting Hill, Royal Borough of Kensington and Chelsea, London, Greater London, W11 1EA, United Kingdom
+2. Maddock Pharmacy. Detailed address: Maddock Way, Brandon Estate, Elephant and Castle, London Borough of Southwark, London, Greater London, SE17 3NH, United Kingdom",B,9.46,8.08,4.28,7.07
+157,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Wright's Lane. Detailed address: Wrights Lane, Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W8 5SW, United Kingdom
+2. Double Bench. Detailed address: Fen Court, Leadenhall Market, City of London, Greater London, EC3M 5AF, United Kingdom",A,7.86,3.84,5.73,9.99
+158,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Alderney Building. Detailed address: XX Place Health Centre, 275, Bancroft Road, Globe Town, Stepney, London Borough of Tower Hamlets, London, Greater London, E1 4DG, United Kingdom
+2. East India Club. Detailed address: 1, King Street, St. James's, Mayfair, City of Westminster, Greater London, SW1Y 6QG, United Kingdom",C,1.2,13.53,6.79,11.12
+159,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Colston House. Detailed address: 10, Morris Road, Poplar, London Borough of Tower Hamlets, London, Greater London, E14 6FF, United Kingdom
+2. Agnes Riley Gardens. Detailed address: Clarence Avenue, Abbeville Village, Clapham, London Borough of Lambeth, London, Greater London, SW4 8LX, United Kingdom",D,10.03,6.45,5.32,11.34
+160,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lucky Chip. Detailed address: 44, Essex Road, Canonbury, Islington, London Borough of Islington, London, Greater London, N1 2SF, United Kingdom
+2. Hogg & Son Pharmacy. Detailed address: 25, Kendal Street, Paddington, London, Greater London, W2 2AW, United Kingdom",C,7.55,9.7,5.24,9.38
+161,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Perfect Fried Chicken. Detailed address: 183, New Cross Road, Telegraph Hill, New Cross Gate, London Borough of Lewisham, London, Greater London, SE14 5DG, United Kingdom
+2. Murray Grove Post Office. Detailed address: 96-97, Murray Grove, Hoxton, London Borough of Hackney, London, Greater London, N1 7QP, United Kingdom",B,14.44,6.93,9.09,9.67
+162,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Brioche Coffee & Brunch. Detailed address: Bright Food & Wine, North End Road, West Kensington, London Borough of Hammersmith and Fulham, London, Greater London, W14 9LU, United Kingdom
+2. SparklySmile. Detailed address: 19, Montpelier Vale, Blackheath Village, Blackheath, London Borough of Lewisham, London, Greater London, SE3 0TA, United Kingdom",B,7.71,15.14,8.01,17.04
+163,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Silk Sound. Detailed address: 13, Berwick Street, Soho, City of Westminster, Greater London, W1F 0DW, United Kingdom
+2. London Hilton on Park Lane. Detailed address: 22, Park Lane, Mayfair, London, Greater London, W1K 1BE, United Kingdom",C,4.25,8.88,1.37,4.35
+164,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tudor Rose Court. Detailed address: 35, Fann Street, Barbican, City of London, Greater London, EC2Y 8DY, United Kingdom
+2. Four Thieves. Detailed address: 51, Lavender Gardens, Clapham Junction, London Borough of Wandsworth, London, Greater London, SW11 1DJ, United Kingdom",B,15.49,7.91,2.77,10.36
+165,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Best Mangal. Detailed address: 323, Gray's Inn Road, King's Cross, London Borough of Camden, London, Greater London, WC1X 8PX, United Kingdom
+2. Villa Rosa. Detailed address: 9, Craven Road, Paddington, London, Greater London, W2 3BP, United Kingdom",B,12.0,4.2,2.53,2.64
+166,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Murger Han City. Detailed address: 10, Philpot Lane, Monument, City of London, Greater London, EC3M 8AA, United Kingdom
+2. Kate's Cafe & Restaurant. Detailed address: 174, Balaam Street, Plaistow, London Borough of Newham, London, Greater London, E13 8RD, United Kingdom",B,10.14,7.73,2.67,14.09
+167,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chatime. Detailed address: 11, Harbour Exchange Square, Isle of Dogs, London Borough of Tower Hamlets, London, Greater London, E14 9GE, United Kingdom
+2. Berkeley Street Bar. Detailed address: 30, Berkeley Street, St. James's, Mayfair, London, Greater London, W1J 8EN, United Kingdom",A,8.95,14.83,16.54,15.39
+168,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Double Bench. Detailed address: Fen Court, Leadenhall Market, City of London, Greater London, EC3M 5AF, United Kingdom
+2. Côte Brasserie. Detailed address: 47, Kensington Court, South Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W8 5DU, United Kingdom",C,1.81,5.15,7.55,11.4
+169,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Camino. Detailed address: 2, Curtain Road, Shoreditch, London Borough of Hackney, London, Greater London, EC2A 3BL, United Kingdom
+2. Empire Empire. Detailed address: 16, All Saints Road, Notting Hill, Royal Borough of Kensington and Chelsea, London, Greater London, W11 1HH, United Kingdom",B,5.03,8.54,5.29,13.36
+170,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jim & Tonic at The Print House. Detailed address: 133, High Street, Three Mills, Stratford, London Borough of Newham, London, Greater London, E15 2RB, United Kingdom
+2. Ria. Detailed address: 75, Baker Street, Marylebone, London, Greater London, W1U 6AT, United Kingdom",B,16.47,10.35,3.99,3.9
+171,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Arco Knightsbridge. Detailed address: 7, Pavilion Road, Hans Town, Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, SW1X 0HD, United Kingdom
+2. Mildreds. Detailed address: 9-11, Jamestown Road, Chalk Farm, London Borough of Camden, London, Greater London, NW1 7BW, United Kingdom",A,4.56,2.14,1.34,6.54
+172,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Richmond Way. Detailed address: Brook Green, London Borough of Hammersmith and Fulham, London, Greater London, W14 0AR, United Kingdom
+2. Happy Kids Dental Marylebone. Detailed address: 74-78, Seymour Place, Marylebone, London, Greater London, W1H 2DG, United Kingdom",A,4.31,10.17,9.78,8.74
+173,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Green Dental Care. Detailed address: Cabul Road, Battersea, London Borough of Wandsworth, London, Greater London, SW11 2PN, United Kingdom
+2. Iro Sushi. Detailed address: 110, Blackheath Road, Royal Borough of Greenwich, London, Greater London, SE10 8DA, United Kingdom",C,18.59,7.72,10.77,18.1
+174,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Works Cafe. Detailed address: 384, Abbott Road, Bromley-by-Bow, Poplar, London Borough of Tower Hamlets, London, Greater London, E14 0UX, United Kingdom
+2. Boots. Detailed address: 129–133, Kingsway, Gray's Inn, Holborn, London Borough of Camden, London, Greater London, WC2B 6NH, United Kingdom",C,4.17,4.93,7.75,13.43
+175,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Open Kitchen. Detailed address: Hoxton Street, Shoreditch, London Borough of Hackney, London, Greater London, E14 0AF, United Kingdom
+2. Lee Valley VeloPark. Detailed address: Velo Place, Stratford, London Borough of Newham, London, Greater London, E20 3AB, United Kingdom",A,5.0,3.06,6.05,11.83
+176,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pizza Verde. Detailed address: Lewisham Way, New Cross, London Borough of Lewisham, London, Greater London, SE8 4QE, United Kingdom
+2. Spagnoletti. Detailed address: 23-27, Euston Road, King's Cross, London Borough of Camden, London, Greater London, NW1 2SD, United Kingdom",C,7.04,12.59,9.34,2.49
+177,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Alma Road. Detailed address: Wandsworth, London Borough of Wandsworth, London, Greater London, SW18 1AN, United Kingdom
+2. Relish. Detailed address: 8, John Islip Street, Millbank, London, Greater London, SW1P 4PY, United Kingdom",B,0.82,5.18,4.04,7.63
+178,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Himalaya Indian Takeaway. Detailed address: Ravenswood Road, Balham, London Borough of Wandsworth, London, Greater London, SW12 9PN, United Kingdom
+2. Coomer Place. Detailed address: Coomer Road, Cleam Attlee Court, West Kensington, London Borough of Hammersmith and Fulham, London, Greater London, SW6 7SD, United Kingdom",A,5.46,2.24,13.03,3.58
+179,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chick Chick Crew. Detailed address: 25, North Colonnade, Canary Wharf, London Borough of Tower Hamlets, London, Greater London, E14 5HS, United Kingdom
+2. The Pembroke Castle. Detailed address: 150, Gloucester Avenue, Primrose Hill, Chalk Farm, London Borough of Camden, London, Greater London, NW1 8LA, United Kingdom",D,15.74,9.1,8.61,10.23
+180,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Blackheath Montessori Centre. Detailed address: Independents Road, Blackheath Village, Blackheath, London Borough of Lewisham, London, Greater London, SE3 9LF, United Kingdom
+2. Circus. Detailed address: 27-29, Endell Street, Seven Dials, Bloomsbury, London Borough of Camden, London, Greater London, WC2H 9BA, United Kingdom",C,7.49,15.11,10.66,4.32
+181,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fred's. Detailed address: 358, Brockley Road, Crofton Park, Brockley, London Borough of Lewisham, London, Greater London, SE4 2BY, United Kingdom
+2. Five Bros Burgers & Wings. Detailed address: 165, Globe Road, Globe Town, Bethnal Green, London Borough of Tower Hamlets, London, Greater London, E2 0LJ, United Kingdom",C,12.19,6.24,8.01,12.17
+182,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Falcon Wharf. Detailed address: 34, Lombard Road, Battersea, London Borough of Wandsworth, London, Greater London, SW11 3RF, United Kingdom
+2. The Goodsyard. Detailed address: Lucozade Power League, Braithwaite Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, E1 6GJ, United Kingdom",C,4.72,4.38,9.24,11.41
+183,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Iro Sushi. Detailed address: 110, Blackheath Road, Royal Borough of Greenwich, London, Greater London, SE10 8DA, United Kingdom
+2. Jia - Dim Sum. Detailed address: 1, Harrington Road, The Boltons, Brompton, Royal Borough of Kensington and Chelsea, London, Greater London, SW7 3ES, United Kingdom",B,13.15,11.31,6.47,13.9
+184,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Faraday House. Detailed address: York Rise, Dartmouth Park, London Borough of Camden, London, Greater London, NW5 1SP, United Kingdom
+2. Patmore Estate. Detailed address: Patmore Street, Patmore Estate, London Borough of Wandsworth, London, Greater London, SW8 4JG, United Kingdom",C,2.45,5.54,9.07,10.22
+185,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Beatrix House. Detailed address: 208, Old Brompton Road, The Boltons, Earl's Court, Royal Borough of Kensington and Chelsea, London, Greater London, SW5 0BS, United Kingdom
+2. Stadium Store. Detailed address: Marshgate Lane, Stratford, London Borough of Newham, London, Greater London, E20 2ST, United Kingdom",B,7.55,13.1,9.75,14.55
+186,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Raj of Kensington. Detailed address: 1, Abingdon Road, Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W8 6AH, United Kingdom
+2. The Art Academy London. Detailed address: 165A, Mermaid Court, Bankside, The Borough, London Borough of Southwark, London, Greater London, SE1 1HR, United Kingdom",C,9.85,15.32,7.34,2.8
+187,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gwendwr Gardens. Detailed address: 17, Gwendwr Road, Barons Keep, West Kensington, London Borough of Hammersmith and Fulham, London, Greater London, W14 9BQ, United Kingdom
+2. Hardwick House. Detailed address: Waterfront Drive, Chelsea Waterfront, London Borough of Hammersmith and Fulham, London, Greater London, SW10 0BF, United Kingdom",A,2.46,6.55,0.67,6.42
+188,"What is the straight-line distance between the following two locations? (Unit is km)
+1. nature play garden. Detailed address: Abbotsbury Road, Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W14 8EL, United Kingdom
+2. Mathnasium. Detailed address: 122, Northcote Road, Clapham Junction, London Borough of Wandsworth, London, Greater London, SW11 6QU, United Kingdom",B,8.2,5.96,1.01,13.45
+189,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Brushfield Street. Detailed address: Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, EC2M 4QH, United Kingdom
+2. Nationwide. Detailed address: 100, Museum Street, Seven Dials, Bloomsbury, London Borough of Camden, London, Greater London, WC1A 1PB, United Kingdom",C,11.1,4.92,3.18,4.7
+190,"What is the straight-line distance between the following two locations? (Unit is km)
+1. CBC Radio Canada. Detailed address: 43-51, Little Titchfield Street, East Marylebone, Fitzrovia, Camden Town, City of Westminster, Greater London, W1W 7BY, United Kingdom
+2. Maureen's Brixton Kitchen. Detailed address: 52, Railton Road, Brixton, London Borough of Lambeth, London, Greater London, SE24 0LF, United Kingdom",D,13.29,10.03,8.09,6.94
+191,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Morpeth School. Detailed address: Portman Place, Globe Town, Bethnal Green, London Borough of Tower Hamlets, London, Greater London, E2 0PX, United Kingdom
+2. Jamaican High Commission. Detailed address: 1-2, Prince Consort Road, Knightsbridge, London, Greater London, SW7 2BP, United Kingdom",C,2.14,11.12,9.26,15.92
+192,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Oak Lodge School. Detailed address: 101, Nightingale Lane, Balham, London Borough of Wandsworth, London, Greater London, SW12 8NA, United Kingdom
+2. Fenton Close. Detailed address: 6, Fenton Close, Rhodes Estate, Dalston, London Borough of Hackney, London, Greater London, E8 3AS, United Kingdom",B,11.09,12.36,13.86,15.51
+193,"What is the straight-line distance between the following two locations? (Unit is km)
+1. MR PORTER Steakhouse, Bar & Lounge London. Detailed address: Galvin at Windows, 22, Park Lane, Mayfair, London, Greater London, W1K 1BE, United Kingdom
+2. Train Fitness. Detailed address: Pocock Street, Bankside, The Borough, London Borough of Southwark, London, Greater London, SE1 0BJ, United Kingdom",A,3.49,1.75,7.45,7.73
+194,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Northampton Square. Detailed address: Clerkenwell Green, Clerkenwell, London Borough of Islington, London, Greater London, EC1V 0HN, United Kingdom
+2. Natural Kitchen. Detailed address: 26, Tudor Street, Blackfriars, City of London, Greater London, EC4Y 0AY, United Kingdom",D,3.69,9.48,7.98,1.65
+195,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Oval Dental Clinic. Detailed address: 330, Kennington Park Road, Oval, London Borough of Lambeth, London, Greater London, SE11 4PP, United Kingdom
+2. Pizza Hut Delivery. Detailed address: 174, Garratt Lane, Earlsfield, London Borough of Wandsworth, London, Greater London, SW18 4ED, United Kingdom",C,8.81,1.45,6.44,5.08
+196,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Meta. Detailed address: 11-21, Canal Reach, King's Cross, London Borough of Camden, London, Greater London, N1C 4BQ, United Kingdom
+2. Lemoge Clinic. Detailed address: 57, Salusbury Road, Queen's Park, London Borough of Brent, London, Greater London, NW6 6NJ, United Kingdom",C,1.53,9.73,5.36,3.48
+197,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Gun. Detailed address: 54, Brushfield Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, E1 6AG, United Kingdom
+2. Holy Cow. Detailed address: 166, Battersea Park Road, Battersea, London Borough of Wandsworth, London, Greater London, SW11 4ND, United Kingdom",B,13.01,7.69,14.93,14.31
+198,"What is the straight-line distance between the following two locations? (Unit is km)
+1. MK Carlton. Detailed address: Bassett Lane, Fish Island, Bow, London Borough of Tower Hamlets, London, Greater London, E3 2GY, United Kingdom
+2. Mill House Buildings. Detailed address: Daily Cafe, 23, Three Colts Lane, Globe Town, Bethnal Green, London Borough of Tower Hamlets, London, Greater London, E2 6JL, United Kingdom",D,10.06,10.43,5.84,3.17
+199,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Farmer J. Detailed address: 1, Finsbury Avenue, Broadgate, City of London, Greater London, EC2M 2PB, United Kingdom
+2. Amalfi. Detailed address: 25, Argyll Street, Soho, City of Westminster, Greater London, W1F 7TU, United Kingdom",A,3.93,1.17,9.32,9.75
+200,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Duke Shore Wharf. Detailed address: Narrow Street, Limehouse, London Borough of Tower Hamlets, London, Greater London, E14 8BP, United Kingdom
+2. Whitechapel Road Market. Detailed address: Court Street, Whitechapel, London Borough of Tower Hamlets, London, Greater London, E1 1DG, United Kingdom",D,8.92,9.34,4.11,2.13
+201,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pret A Manger. Detailed address: 13, Clifton Road, St. John's Wood, London, Greater London, W9 1SZ, United Kingdom
+2. Chick Chick Crew. Detailed address: 25, North Colonnade, Canary Wharf, London Borough of Tower Hamlets, London, Greater London, E14 5HS, United Kingdom",D,5.38,14.12,6.72,11.27
+202,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Le Poisson De Mer Deef. Detailed address: Dulwich Village, London Borough of Southwark, London, Greater London, SE21 7BT, United Kingdom
+2. Double J's. Detailed address: 333, Euston Road, Fitzrovia, London Borough of Camden, London, Greater London, NW1 3AD, United Kingdom",C,14.81,15.34,8.97,5.08
+203,"What is the straight-line distance between the following two locations? (Unit is km)
+1. LEON. Detailed address: 101, Euston Road, Saint Pancras, London Borough of Camden, London, Greater London, NW1 2RA, United Kingdom
+2. The Lea Surgery. Detailed address: Homerton High Street, Homerton, London Borough of Hackney, London, Greater London, E9 6DL, United Kingdom",A,6.24,1.35,1.53,8.38
+204,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Teviot Street. Detailed address: Teviot, Poplar, London Borough of Tower Hamlets, London, Greater London, E14 6QZ, United Kingdom
+2. Fox In A Box. Detailed address: Dalston Square, De Beauvoir Town, Dalston, London Borough of Hackney, London, Greater London, E8 3BQ, United Kingdom",A,5.27,6.49,3.46,9.21
+205,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hogg & Son Pharmacy. Detailed address: 25, Kendal Street, Paddington, London, Greater London, W2 2AW, United Kingdom
+2. Dillons. Detailed address: 82, Gower Street, Saint Giles, Bloomsbury, London Borough of Camden, London, Greater London, WC1E 6EG, United Kingdom",D,6.72,6.53,10.4,2.54
+206,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Empress. Detailed address: 141, Leman Street, East Smithfield, Whitechapel, London Borough of Tower Hamlets, London, Greater London, E1 8EY, United Kingdom
+2. Prospect. Detailed address: Guy's and St Thomas' NHS Foundation Trust Education Centre, 75-79, York Road, South Bank, Waterloo, London Borough of Lambeth, London, Greater London, SE1 7NJ, United Kingdom",B,5.16,3.47,11.32,6.25
+207,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Van Gogh Primary School (Infants). Detailed address: Gosling Way, Cowley Estate, Oval, London Borough of Lambeth, London, Greater London, SW9 6LA, United Kingdom
+2. Fetal Medicine Centre. Detailed address: 137, Harley Street, East Marylebone, Marylebone, Camden Town, City of Westminster, Greater London, W1G 7LB, United Kingdom",A,5.97,7.3,3.11,1.19
+208,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Lea Surgery. Detailed address: Homerton High Street, Homerton, London Borough of Hackney, London, Greater London, E9 6DL, United Kingdom
+2. The Old City Arms. Detailed address: Hammersmith Bridge, Hammersmith, London Borough of Hammersmith and Fulham, London, Greater London, W6 9DF, United Kingdom",C,9.43,9.88,14.5,9.75
+209,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pimlico Center For Alexander Technique. Detailed address: Moreton Street, Pimlico, London, Greater London, SW1V 2NY, United Kingdom
+2. Radha Krishna Cultural Centre. Detailed address: Water Lane, Stratford New Town, Maryland, London Borough of Newham, London, Greater London, E15 4NH, United Kingdom",A,11.84,7.24,15.82,9.72
+210,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Soane's Stable Block. Detailed address: National Army Museum, Ormonde Gate, Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, SW3 4HA, United Kingdom
+2. West Hampstead North Junction. Detailed address: Black Path, West Hampstead, London Borough of Camden, London, Greater London, NW6 1PN, United Kingdom",C,10.45,11.68,7.42,0.6
+211,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Canary Wall. Detailed address: 312, Trinidad Street, Limehouse, London Borough of Tower Hamlets, London, Greater London, E14 8AB, United Kingdom
+2. Gong cha. Detailed address: 304, Creek Road, Greenwich Town Centre, Royal Borough of Greenwich, London, Greater London, SE10 9SW, United Kingdom",D,10.8,10.27,10.39,3.35
+212,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Paveley House. Detailed address: Calshot Street, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, N1 9XH, United Kingdom
+2. Lanark Medical Centre. Detailed address: 165, Lanark Road, Maida Vale, London, Greater London, W9 1NZ, United Kingdom",C,8.98,1.8,4.79,5.98
+213,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Eneko Basque Kitchen & Bar. Detailed address: 1, Aldwych, St Clement Danes, Holborn, London, Greater London, WC2B 4BZ, United Kingdom
+2. Thai West Café. Detailed address: 87, Brewer Street, Soho, City of Westminster, Greater London, W1F 9UA, United Kingdom",A,1.23,5.84,5.2,2.63
+214,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jamaican High Commission. Detailed address: 1-2, Prince Consort Road, Knightsbridge, London, Greater London, SW7 2BP, United Kingdom
+2. Selwyn Primary School. Detailed address: Selwyn Road, Plaistow, London Borough of Newham, London, Greater London, E13 0ES, United Kingdom",D,17.15,9.94,19.19,14.39
+215,"What is the straight-line distance between the following two locations? (Unit is km)
+1. East Greenwich Jetty. Detailed address: Mudlarks Boulevard, Greenwich Peninsula, Royal Borough of Greenwich, London, Greater London, SE10 0UD, United Kingdom
+2. Channelsea Island. Detailed address: Canning Road, Mill Meads, West Ham, London Borough of Newham, London, Greater London, E15 3FA, United Kingdom",B,7.8,3.52,6.34,7.7
+216,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Honi Poke. Detailed address: 4-6, New London Street, Aldgate, City of London, Greater London, EC3R 7NA, United Kingdom
+2. Station Cafe. Detailed address: 23, Staplehurst Road, Cordwell Estate, Hither Green, London Borough of Lewisham, London, Greater London, SE13 5ND, United Kingdom",C,5.88,5.49,8.46,2.74
+217,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Guildhall School of Music and Drama. Detailed address: The Heron, 5, Moor Lane, Barbican, City of London, Greater London, EC2Y 9AP, United Kingdom
+2. Faraday House. Detailed address: York Rise, Dartmouth Park, London Borough of Camden, London, Greater London, NW5 1SP, United Kingdom",D,3.88,9.27,0.62,5.52
+218,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hardwick House. Detailed address: Waterfront Drive, Chelsea Waterfront, London Borough of Hammersmith and Fulham, London, Greater London, SW10 0BF, United Kingdom
+2. The Westbridge Hotel. Detailed address: 335-337, High Street, Stratford, London Borough of Newham, London, Greater London, E15 2TF, United Kingdom",A,14.15,10.01,17.63,7.28
+219,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kennington Fish Bar. Detailed address: 56, Kennington Park Road, Browning Estate, Elephant and Castle, London Borough of Southwark, London, Greater London, SE11 4RS, United Kingdom
+2. The Oval Dental Clinic. Detailed address: 330, Kennington Park Road, Oval, London Borough of Lambeth, London, Greater London, SE11 4PP, United Kingdom",C,4.31,4.43,1.03,3.49
+220,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Berkeley Street Bar. Detailed address: 30, Berkeley Street, St. James's, Mayfair, London, Greater London, W1J 8EN, United Kingdom
+2. Caribbean Cuisine. Detailed address: 218, Hornsey Road, Lower Holloway, Holloway, London Borough of Islington, London, Greater London, N7 7LL, United Kingdom",C,8.52,9.66,6.04,4.66
+221,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Masala Zone Piccadilly Circus. Detailed address: 224, Piccadilly Circus, Saint Giles, Bloomsbury, London, Greater London, W1J 9HP, United Kingdom
+2. Frankie's. Detailed address: Fulham Road, Wandon Estate, Fulham, London Borough of Hammersmith and Fulham, London, Greater London, SW6 1HS, United Kingdom",C,3.47,3.05,4.99,2.25
+222,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sandwich Plus. Detailed address: 21, Harbour Exchange Square, Isle of Dogs, London Borough of Tower Hamlets, London, Greater London, E14 9GE, United Kingdom
+2. Gauden Road. Detailed address: Clapham, London Borough of Lambeth, London, Greater London, SW4 6LP, United Kingdom",A,8.85,5.28,15.07,4.86
+223,"What is the straight-line distance between the following two locations? (Unit is km)
+1. horses. Detailed address: Auckland Street, Kennington Cross, Vauxhall, London Borough of Lambeth, London, Greater London, SE11 5AD, United Kingdom
+2. Richmond Way. Detailed address: Brook Green, London Borough of Hammersmith and Fulham, London, Greater London, W14 0AR, United Kingdom",D,1.73,5.7,9.23,6.94
+224,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Little Bromwood. Detailed address: Ramsden Road, Balham, London Borough of Wandsworth, London, Greater London, SW12 8RQ, United Kingdom
+2. Colston House. Detailed address: 10, Morris Road, Poplar, London Borough of Tower Hamlets, London, Greater London, E14 6FF, United Kingdom",C,14.59,9.52,12.13,18.03
+225,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Underground Bicycle Parking. Detailed address: Westferry Circus, Canary Wharf, London Borough of Tower Hamlets, London, Greater London, E14 8RP, United Kingdom
+2. Alma Road. Detailed address: Wandsworth, London Borough of Wandsworth, London, Greater London, SW18 1AN, United Kingdom",A,12.17,4.92,16.59,18.16
+226,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Young Vegans Pie & Mash. Detailed address: 60, Camden Lock Place, Primrose Hill, Chalk Farm, London Borough of Camden, London, Greater London, NW1 8AF, United Kingdom
+2. Bermondsey Farmers' Market. Detailed address: Tower Bridge Road, Bermondsey Village, Old Kent Road, London Borough of Southwark, London, Greater London, SE1 3NG, United Kingdom",D,0.91,11.65,9.25,6.67
+227,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Little Ochi. Detailed address: 113, Dulwich Road, Herne Hill, London Borough of Lambeth, London, Greater London, SE24 0NG, United Kingdom
+2. Elasko. Detailed address: 4, Fairmont Avenue, New Providence Wharf, Blackwall, London Borough of Tower Hamlets, London, Greater London, E14 9JB, United Kingdom",C,6.11,16.28,9.13,12.24
+228,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nightingale Community Centre. Detailed address: 19, Della Path, Lower Clapton, Clapton, London Borough of Hackney, London, Greater London, E5 8PL, United Kingdom
+2. St Agnes RC Primary School. Detailed address: Rainhill Way, Bromley-by-Bow, Bow, London Borough of Tower Hamlets, London, Greater London, E3 3ER, United Kingdom",C,1.48,6.35,4.46,7.12
+229,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Train Fitness. Detailed address: Pocock Street, Bankside, The Borough, London Borough of Southwark, London, Greater London, SE1 0BJ, United Kingdom
+2. Herne Hill Post Office. Detailed address: 31-39, Norwood Road, Dulwich Village, London Borough of Southwark, London, Greater London, SE24 9AA, United Kingdom",D,1.31,3.66,8.32,5.62
+230,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Local Community Compost Facility. Detailed address: Birch Grove, Cann Hall, Leytonstone, London Borough of Waltham Forest, London, Greater London, E11 4YG, United Kingdom
+2. Little Venice Pilates & Physiotherapy. Detailed address: 28, Bristol Gardens, Westbourne Green, Maida Vale, London, Greater London, W9 2JQ, United Kingdom",A,13.74,8.81,6.16,18.94
+231,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Caffe Paradiso. Detailed address: 45, Shad Thames, Butler's Wharf, Bermondsey, London Borough of Southwark, London, Greater London, SE1 2NJ, United Kingdom
+2. Young Vegans Pie & Mash. Detailed address: 60, Camden Lock Place, Primrose Hill, Chalk Farm, London Borough of Camden, London, Greater London, NW1 8AF, United Kingdom",C,10.6,0.89,6.5,2.66
+232,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ritz Pharmacy. Detailed address: 43, Heath Street, Vale of Health, Belsize Park, London Borough of Camden, London, Greater London, NW3 6UP, United Kingdom
+2. Roseford Court. Detailed address: 34, Shepherds Bush Green, Shepherd's Bush, London Borough of Hammersmith and Fulham, London, Greater London, W12 8RA, United Kingdom",C,0.7,8.19,6.63,10.81
+233,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jessel House. Detailed address: Vincent Street, Millbank, London, Greater London, SW1P 4HL, United Kingdom
+2. Forest Island. Detailed address: Forest Lane, Forest Gate, London Borough of Newham, London, Greater London, E7 0NE, United Kingdom",C,5.41,15.45,12.52,9.52
+234,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Blenheim and Elgin Crescents Garden. Detailed address: Lansdowne Road, Lancaster West Estate, Notting Hill, Royal Borough of Kensington and Chelsea, London, Greater London, W11 2LE, United Kingdom
+2. Nightingale Community Centre. Detailed address: 19, Della Path, Lower Clapton, Clapton, London Borough of Hackney, London, Greater London, E5 8PL, United Kingdom",B,8.05,11.36,15.58,6.01
+235,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Score Leisure Centre. Detailed address: 2, Coronation Square, Leyton, London Borough of Waltham Forest, London, Greater London, E10 5UN, United Kingdom
+2. Eneko Basque Kitchen & Bar. Detailed address: 1, Aldwych, St Clement Danes, Holborn, London, Greater London, WC2B 4BZ, United Kingdom",B,14.13,9.04,10.66,4.75
+236,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Windsor. Detailed address: 2, New London Street, Aldgate, City of London, Greater London, EC3R 7NA, United Kingdom
+2. Libano. Detailed address: 76, Balham High Road, Balham, London Borough of Wandsworth, London, Greater London, SW12 9AG, United Kingdom",B,14.59,8.7,3.8,2.96
+237,"What is the straight-line distance between the following two locations? (Unit is km)
+1. King Charles I. Detailed address: 55-57, Northdown Street, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, N1 9BL, United Kingdom
+2. The Drunken Butler. Detailed address: 20, Rosebery Avenue, Little Italy, Clerkenwell, London Borough of Islington, London, Greater London, EC1R 4TA, United Kingdom",A,1.15,7.94,7.3,6.2
+238,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The ClementJames Centre. Detailed address: IntoUniversity, 95, Sirdar Road, Lancaster West Estate, North Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W11 4EG, United Kingdom
+2. Falcon Wharf. Detailed address: 34, Lombard Road, Battersea, London Borough of Wandsworth, London, Greater London, SW11 3RF, United Kingdom",B,2.68,5.31,10.79,0.54
+239,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Colab Tavern. Detailed address: 16, Harper Road, The Borough, London Borough of Southwark, London, Greater London, SE1 6RP, United Kingdom
+2. All Bar One. Detailed address: 46, Leicester Square, Seven Dials, Bloomsbury, London, Greater London, WC2H 7LU, United Kingdom",B,9.05,2.91,10.1,8.23
+240,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Black Box. Detailed address: 93, Great Eastern Street, Shoreditch, London Borough of Hackney, London, Greater London, EC2A 3HZ, United Kingdom
+2. Braille Map. Detailed address: Bermondsey Village, The Borough, London Borough of Southwark, London, Greater London, SE1 2AP, United Kingdom",B,3.35,2.33,7.08,5.51
+241,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Total Chi Yoga. Detailed address: 243, Baker Street, Marylebone, London, Greater London, NW1 5RS, United Kingdom
+2. Hoop and Grapes. Detailed address: 47, Aldgate High Street, Aldgate, London Borough of Tower Hamlets, London, Greater London, EC3N 1AL, United Kingdom",C,2.45,10.18,5.95,8.36
+242,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Earls Court Surgery. Detailed address: 269, Old Brompton Road, The Boltons, Earl's Court, Royal Borough of Kensington and Chelsea, London, Greater London, SW5 9JA, United Kingdom
+2. Patty & Bun. Detailed address: 205, Richmond Road, Hackney, London Borough of Hackney, London, Greater London, E8 3FF, United Kingdom",B,6.99,11.14,14.87,19.1
+243,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Burdett Estate Mosque. Detailed address: 6, Masjid Lane, Burdett Estate, Limehouse, London Borough of Tower Hamlets, London, Greater London, E14 7UD, United Kingdom
+2. Arundel House. Detailed address: 98, Cornwall Gardens, South Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, SW7 4BQ, United Kingdom",B,14.2,11.47,18.63,4.0
+244,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Halcyon London International School. Detailed address: 33, Seymour Place, Marylebone, London, Greater London, W1H 7NW, United Kingdom
+2. Thomas's Kensington Preparatory School. Detailed address: 17-19, Cottesmore Gardens, South Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W8 5PR, United Kingdom",C,8.66,8.27,2.6,7.94
+245,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Via Arkadia. Detailed address: Heath Street, Vale of Health, Belsize Park, London Borough of Camden, London, Greater London, NW3 1DN, United Kingdom
+2. Jessel House. Detailed address: Vincent Street, Millbank, London, Greater London, SW1P 4HL, United Kingdom",B,6.3,7.87,5.95,10.4
+246,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Caribbean Cuisine. Detailed address: 218, Hornsey Road, Lower Holloway, Holloway, London Borough of Islington, London, Greater London, N7 7LL, United Kingdom
+2. Ecology Centre. Detailed address: Abbotsbury Road, Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W14 8EL, United Kingdom",C,7.05,16.2,9.0,10.75
+247,"What is the straight-line distance between the following two locations? (Unit is km)
+1. South Quay Plaza. Detailed address: Hampton Tower, 75, Marsh Wall, Isle of Dogs, London Borough of Tower Hamlets, London, Greater London, E14 9SH, United Kingdom
+2. Gun Wharves. Detailed address: 86, Wapping Lane, Wapping, London Borough of Tower Hamlets, London, Greater London, E1W 2RX, United Kingdom",A,2.77,8.21,4.43,6.22
+248,"What is the straight-line distance between the following two locations? (Unit is km)
+1. West Hampstead North Junction. Detailed address: Black Path, West Hampstead, London Borough of Camden, London, Greater London, NW6 1PN, United Kingdom
+2. Oak Lodge School. Detailed address: 101, Nightingale Lane, Balham, London Borough of Wandsworth, London, Greater London, SW12 8NA, United Kingdom",B,13.64,11.49,7.06,4.56
+249,"What is the straight-line distance between the following two locations? (Unit is km)
+1. St Edwards Convent. Detailed address: St Edward's Convent of Mercy, 11, Harewood Avenue, Marylebone, London, Greater London, NW1 6LD, United Kingdom
+2. Halcyon London International School. Detailed address: 33, Seymour Place, Marylebone, London, Greater London, W1H 7NW, United Kingdom",D,8.3,7.33,6.82,0.9
+250,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Whitechapel Road Market. Detailed address: Court Street, Whitechapel, London Borough of Tower Hamlets, London, Greater London, E1 1DG, United Kingdom
+2. Embassy of Portugal. Detailed address: Halkin Place, Belgravia, London, Greater London, SW1X 8PS, United Kingdom",C,2.56,13.56,7.17,10.51
+251,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tasty. Detailed address: 109, Trafalgar Road, East Greenwich, Royal Borough of Greenwich, London, Greater London, SE10 9TS, United Kingdom
+2. The Lunch Box. Detailed address: 134, Hammersmith Road, Brook Green, London Borough of Hammersmith and Fulham, London, Greater London, W6 8BS, United Kingdom",D,19.82,7.49,7.41,15.29
+252,"What is the straight-line distance between the following two locations? (Unit is km)
+1. E.ON Energy GMV. Detailed address: Horn Link Way, Greenwich Millennium Village, East Greenwich, Royal Borough of Greenwich, London, Greater London, SE10 0JW, United Kingdom
+2. St Edwards Convent. Detailed address: St Edward's Convent of Mercy, 11, Harewood Avenue, Marylebone, London, Greater London, NW1 6LD, United Kingdom",D,12.09,17.16,21.05,13.23
+253,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Senior Common Room. Detailed address: Sherfield Building, Dangoor Plaza, Knightsbridge, London, Greater London, SW7 2BT, United Kingdom
+2. Mogul. Detailed address: Rotherhithe Street, Rotherhithe, London Borough of Southwark, London, Greater London, SE16 5SW, United Kingdom",B,15.1,9.33,11.91,15.15
+254,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Vital Ingredient. Detailed address: 25, Old Broad Street, Bishopsgate, City of London, Greater London, EC2N 1HQ, United Kingdom
+2. Best Mangal. Detailed address: 323, Gray's Inn Road, King's Cross, London Borough of Camden, London, Greater London, WC1X 8PX, United Kingdom",D,10.51,6.01,7.83,3.12
+255,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Black Sheep Coffee. Detailed address: Euston Road, King's Cross, London Borough of Camden, London, Greater London, NW1 2RY, United Kingdom
+2. The Guildhall. Detailed address: Aldermanbury, Barbican, City of London, Greater London, EC2V 5AF, United Kingdom",B,0.94,2.67,4.53,3.98
+256,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Quick Stop. Detailed address: 119A, Deptford High Street, Hughesfield Estate, Deptford, London Borough of Lewisham, London, Greater London, SE8 4NS, United Kingdom
+2. Sizzling Chopstick. Detailed address: 2, Silvertown Way, Canning Town, London Borough of Newham, London, Greater London, E16 1ED, United Kingdom",A,4.79,10.68,3.19,10.16
+257,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Joe & The Juice. Detailed address: 809, Fulham Road, Hurlingham, Fulham, London Borough of Hammersmith and Fulham, London, Greater London, SW6 5HE, United Kingdom
+2. Putney Plaza. Detailed address: Grand Tower, 1, Plaza Gardens, Putney Plaza, Putney, London Borough of Wandsworth, London, Greater London, SW15 2DF, United Kingdom",D,3.78,2.99,4.57,1.81
+258,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Institut français du Royaume-Uni (Language Centre). Detailed address: 13, Cromwell Place, The Boltons, Brompton, Royal Borough of Kensington and Chelsea, London, Greater London, SW7 2JB, United Kingdom
+2. Caledonian Park. Detailed address: Clock Tower, Clock View Crescent, Holloway, London Borough of Islington, London, Greater London, N7 9TP, United Kingdom",D,9.73,10.88,14.38,6.82
+259,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lee Valley VeloPark. Detailed address: Velo Place, Stratford, London Borough of Newham, London, Greater London, E20 3AB, United Kingdom
+2. Tasty Vybz. Detailed address: 26, Upton Lane, Forest Gate, London Borough of Newham, London, Greater London, E7 9LN, United Kingdom",B,7.66,2.9,10.09,6.44
+260,"What is the straight-line distance between the following two locations? (Unit is km)
+1. B Bagel Bakery Bar. Detailed address: 236D, Fulham Road, The Boltons, Brompton, Royal Borough of Kensington and Chelsea, London, Greater London, SW10 9NB, United Kingdom
+2. Piggy's. Detailed address: 1, Air Street, St. James's, Mayfair, City of Westminster, Greater London, W1J 0LA, United Kingdom",D,2.53,8.9,1.49,4.22
+261,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Poké Shack. Detailed address: 44, Kensington Church Street, Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W8 4BQ, United Kingdom
+2. Tonkotsu Ramen Bar. Detailed address: 6, Arches Lane, London Borough of Wandsworth, London, Greater London, SW11 8AB, United Kingdom",C,8.05,11.4,3.98,6.57
+262,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cinnamon Village. Detailed address: 114, Fortess Road, Tufnell Park, London Borough of Camden, London, Greater London, NW5 2HL, United Kingdom
+2. K10. Detailed address: 3, Appold Street, Broadgate, City of London, Greater London, EC2A 2AF, United Kingdom",C,10.55,2.88,5.57,12.96
+263,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Arundel House. Detailed address: 98, Cornwall Gardens, South Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, SW7 4BQ, United Kingdom
+2. Waterman's Green. Detailed address: Putney Public Slipway, Putney, London Borough of Wandsworth, London, Greater London, SW15 1EL, United Kingdom",D,7.61,7.37,6.39,3.85
+264,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Agnes Riley Gardens. Detailed address: Clarence Avenue, Abbeville Village, Clapham, London Borough of Lambeth, London, Greater London, SW4 8LX, United Kingdom
+2. Mile End Community Garden. Detailed address: 33-39, Grove Road, Mile End, London Borough of Tower Hamlets, London, Greater London, E3 5BD, United Kingdom",C,4.66,7.81,11.14,12.7
+265,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Spianata. Detailed address: 12, Moorfields, Moorgate, London Borough of Islington, City of London, Greater London, EC2M 6XQ, United Kingdom
+2. Candella Tea Room. Detailed address: 34, Kensington Church Street, Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W8 4BQ, United Kingdom",A,7.4,10.43,3.48,11.78
+266,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lift Coffee Shoreditch. Detailed address: 73, Rivington Street, Shoreditch, London Borough of Hackney, London, Greater London, EC2A 3AY, United Kingdom
+2. Himalaya Indian Takeaway. Detailed address: Ravenswood Road, Balham, London Borough of Wandsworth, London, Greater London, SW12 9PN, United Kingdom",D,5.62,2.85,4.66,9.97
+267,"What is the straight-line distance between the following two locations? (Unit is km)
+1. AudiopleXus Studio. Detailed address: Fairfield Road, Old Ford, Bow, London Borough of Tower Hamlets, London, Greater London, E3 2ZL, United Kingdom
+2. Gourmet Oriental. Detailed address: 338, Harrow Road, Westbourne Green, Maida Vale, London, Greater London, W9 3TA, United Kingdom",A,12.09,8.97,8.57,15.63
+268,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Maze. Detailed address: 10-13, Grosvenor Square, Mayfair, London, Greater London, W1K 5AE, United Kingdom
+2. Hult International Business School - Graduate Campus. Detailed address: 37-38, John Street, Gray's Inn, Holborn, London Borough of Camden, London, Greater London, WC1N 2ES, United Kingdom",A,2.68,5.6,9.74,9.39
+269,"What is the straight-line distance between the following two locations? (Unit is km)
+1. St Quintin Children's Centre. Detailed address: 90, Highlever Road, Silchester Estate, North Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W10 6PN, United Kingdom
+2. JCB. Detailed address: 3, Deanery Street, Mayfair, London, Greater London, W1K 1AU, United Kingdom",B,1.29,5.11,9.42,6.18
+270,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Woburn Place Car Park. Detailed address: Coram Street, Saint Pancras, London Borough of Camden, London, Greater London, WC1N 1HA, United Kingdom
+2. Le Relais De Venise L'Entrecote. Detailed address: 120, Marylebone Lane, Marylebone, London, Greater London, W1U 2PP, United Kingdom",B,5.12,1.81,8.35,6.51
+271,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Westbridge Hotel. Detailed address: 335-337, High Street, Stratford, London Borough of Newham, London, Greater London, E15 2TF, United Kingdom
+2. Dalmeny Court. Detailed address: 8, Duke Street St James's, St. James's, Mayfair, London, Greater London, SW1Y 6DB, United Kingdom",A,9.96,8.32,4.74,12.95
+272,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kembers & Lawrence. Detailed address: 10-11, Camberwell Green, Camberwell, London Borough of Southwark, London, Greater London, SE5 7AF, United Kingdom
+2. Coco di Mama. Detailed address: 55, Bishopsgate, City of London, Greater London, EC2N 3AS, United Kingdom",C,10.26,11.0,4.54,8.62
+273,"What is the straight-line distance between the following two locations? (Unit is km)
+1. itsu. Detailed address: Great Peter Street, Westminster, Millbank, London, Greater London, SW1P 2BN, United Kingdom
+2. Brewmaster. Detailed address: Saint Martin's Court, Seven Dials, Bloomsbury, City of Westminster, Greater London, WC2N 4AJ, United Kingdom",B,7.21,1.6,5.05,9.53
+274,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tasty Vybz. Detailed address: 26, Upton Lane, Forest Gate, London Borough of Newham, London, Greater London, E7 9LN, United Kingdom
+2. Blake's. Detailed address: 496, Harrow Road, West Kilburn, Maida Hill, London, Greater London, W9 3NA, United Kingdom",D,21.61,19.38,9.76,15.98
+275,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Save The Date. Detailed address: Abbot Street, Dalston, London Borough of Hackney, London, Greater London, E8 3DP, United Kingdom
+2. Bad Moon Cafe. Detailed address: 159A, Great Dover Street, Bermondsey Village, The Borough, London Borough of Southwark, London, Greater London, SE1 4GZ, United Kingdom",B,7.97,5.72,12.84,13.4
+276,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ladywell Kebab & Steak House. Detailed address: 109, Ladywell Road, Ladywell, London Borough of Lewisham, London, Greater London, SE13 7JA, United Kingdom
+2. PizzaExpress. Detailed address: 93, Euston Road, Saint Pancras, London Borough of Camden, London, Greater London, NW1 2RA, United Kingdom",B,16.86,10.85,12.56,5.26
+277,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mudra Yoga. Detailed address: Shelford Place, Brownswood Park, Stoke Newington, London Borough of Hackney, London, Greater London, N16 9HS, United Kingdom
+2. Tam’s Vineyard & Jazz Bar. Detailed address: 10, George Street, Wood Wharf, Isle of Dogs, London Borough of Tower Hamlets, London, Greater London, E14 9YL, United Kingdom",B,6.1,8.12,6.47,7.07
+278,"What is the straight-line distance between the following two locations? (Unit is km)
+1. South London Makerspace. Detailed address: 41, Norwood Road, Dulwich Village, London Borough of Southwark, London, Greater London, SE24 9AJ, United Kingdom
+2. Capital Kebab House. Detailed address: 63, The Cut, South Bank, Waterloo, London Borough of Lambeth, London, Greater London, SE1 8LL, United Kingdom",B,1.29,5.67,6.94,2.98
+279,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Macaw House. Detailed address: 46, Cambridge Road, Queen's Park, London Borough of Brent, London, Greater London, NW6 5GP, United Kingdom
+2. Wolfpack. Detailed address: 53, Lonsdale Road, Queen's Park, London Borough of Brent, London, Greater London, NW6 6RA, United Kingdom",C,8.52,2.52,0.9,6.18
+280,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Champagne Bar. Detailed address: 40, Liverpool Street, Bishopsgate, City of London, Greater London, EC2M 7QN, United Kingdom
+2. Our Newham Learning & Skills. Detailed address: 1, Woodford Road, Forest Gate, London Borough of Newham, London, Greater London, E7 0DH, United Kingdom",C,10.6,13.14,8.32,3.29
+281,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Wok to Walk. Detailed address: 129, Baker Street, Marylebone, London, Greater London, W1U 6SA, United Kingdom
+2. Lemonade by Lemonica. Detailed address: Stratford Place, Stratford New Town, Stratford, London Borough of Newham, London, Greater London, E20 1GR, United Kingdom",A,10.73,14.23,15.36,15.26
+282,"What is the straight-line distance between the following two locations? (Unit is km)
+1. London Coffee Bank. Detailed address: 81, Abbey Road, St. John's Wood, London, Greater London, NW8 0AE, United Kingdom
+2. Smiths Bar and Grill. Detailed address: 25, Sheldon Square, Paddington Central, Paddington, London, Greater London, W2 6EP, United Kingdom",A,2.11,7.94,9.85,9.48
+283,"What is the straight-line distance between the following two locations? (Unit is km)
+1. R.S. Hispaniola. Detailed address: Victoria Embankment, Covent Garden, Waterloo, London, Greater London, WC2N 5DJ, United Kingdom
+2. London South Bank University. Detailed address: Borough Road, Elephant and Castle, London Borough of Southwark, London, Greater London, SE1 1DR, United Kingdom",D,7.78,5.48,5.72,1.52
+284,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mile End Community Garden. Detailed address: 33-39, Grove Road, Mile End, London Borough of Tower Hamlets, London, Greater London, E3 5BD, United Kingdom
+2. Umbrella Rooms. Detailed address: 241, Shaftesbury Avenue, Saint Giles, Bloomsbury, London Borough of Camden, London, Greater London, WC2H 8EH, United Kingdom",A,6.38,7.8,9.93,2.15
+285,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Manila's Best Eatery. Detailed address: 331, North End Road, Walham Green, West Kensington, London Borough of Hammersmith and Fulham, London, Greater London, SW6 1NP, United Kingdom
+2. Honi Poke. Detailed address: 4-6, New London Street, Aldgate, City of London, Greater London, EC3R 7NA, United Kingdom",C,6.74,15.54,8.98,4.57
+286,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Young Prince. Detailed address: 448, Roman Road, Old Ford, Bow, London Borough of Tower Hamlets, London, Greater London, E3 5LU, United Kingdom
+2. Senior Common Room. Detailed address: Sherfield Building, Dangoor Plaza, Knightsbridge, London, Greater London, SW7 2BT, United Kingdom",B,9.56,10.62,18.3,16.38
+287,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bishop's Bridge Road East. Detailed address: Bishop's Bridge Road, Westbourne Green, Paddington, London, Greater London, W2 6DZ, United Kingdom
+2. Earls Court Surgery. Detailed address: 269, Old Brompton Road, The Boltons, Earl's Court, Royal Borough of Kensington and Chelsea, London, Greater London, SW5 9JA, United Kingdom",D,1.54,7.88,5.82,3.21
+288,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Orchid Pizza. Detailed address: 287, Battersea Park Road, Clapham Junction, London Borough of Wandsworth, London, Greater London, SW11 4LX, United Kingdom
+2. Locker InPost. Detailed address: Viking Hotel, 162, Romford Road, Maryland, London Borough of Newham, London, Greater London, E15 4LD, United Kingdom",C,9.85,8.67,14.06,6.55
+289,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Manresa Road. Detailed address: World's End, Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, SW3 6LR, United Kingdom
+2. Open Kitchen. Detailed address: Hoxton Street, Shoreditch, London Borough of Hackney, London, Greater London, E14 0AF, United Kingdom",C,6.82,14.67,7.87,6.48
+290,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lanark Medical Centre. Detailed address: 165, Lanark Road, Maida Vale, London, Greater London, W9 1NZ, United Kingdom
+2. Kings Wharf. Detailed address: 301, Kingsland Road, De Beauvoir Town, Haggerston, London Borough of Hackney, London, Greater London, E8 4DG, United Kingdom",C,9.4,10.67,7.57,6.4
+291,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Princess Street Group Practice. Detailed address: Princess Street, Browning Estate, Elephant and Castle, London Borough of Southwark, London, Greater London, SE1 6HH, United Kingdom
+2. Chelsea Medical Services. Detailed address: 45, Rosary Gardens, The Boltons, South Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, SW7 4NJ, United Kingdom",C,13.41,6.8,5.62,12.79
+292,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Trinity Laban Conservatoire of Music and Dance. Detailed address: College Way, Greenwich Town Centre, East Greenwich, Royal Borough of Greenwich, London, Greater London, SE10 9JF, United Kingdom
+2. Borough Crown & Bridge Ltd. Detailed address: 31, Bramshot Avenue, Royal Standard, East Greenwich, Royal Borough of Greenwich, London, Greater London, SE7 7HY, United Kingdom",B,5.19,2.05,8.32,4.55
+293,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hampstead Parochial Church of England Primary School. Detailed address: Holly Bush Vale, Vale of Health, Belsize Park, London Borough of Camden, London, Greater London, NW3 6TX, United Kingdom
+2. Oasis Play. Detailed address: Priory Grove, Stockwell, London Borough of Lambeth, London, Greater London, SW8 2PD, United Kingdom",B,15.14,9.84,15.4,5.03
+294,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cranmer Road. Detailed address: Oval, London Borough of Lambeth, London, Greater London, SW9 6EG, United Kingdom
+2. Vox Arms. Detailed address: Voxonica, Drysdale Street, Shoreditch, London Borough of Hackney, London, Greater London, E2 8AF, United Kingdom",D,10.99,1.41,10.87,5.85
+295,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Imperial Cinema. Detailed address: Exhibition Road, Brompton, Royal Borough of Kensington and Chelsea, London, Greater London, SW7 2AZ, United Kingdom
+2. Kembers & Lawrence. Detailed address: 10-11, Camberwell Green, Camberwell, London Borough of Southwark, London, Greater London, SE5 7AF, United Kingdom",B,5.13,6.54,1.86,14.01
+296,"What is the straight-line distance between the following two locations? (Unit is km)
+1. waterfall. Detailed address: The Boulevard, Imperial Wharf, London Borough of Hammersmith and Fulham, London, Greater London, SW6 2GW, United Kingdom
+2. Pimlico Tandoori. Detailed address: 38, Moreton Street, Pimlico, London, Greater London, SW1V 2PB, United Kingdom",C,6.95,7.53,3.65,5.95
+297,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Walworth Telephone Exchange. Detailed address: Clarence House, 12, Merrow Street, Browning Estate, Walworth, London Borough of Southwark, London, Greater London, SE17 2NJ, United Kingdom
+2. Beatrix House. Detailed address: 208, Old Brompton Road, The Boltons, Earl's Court, Royal Borough of Kensington and Chelsea, London, Greater London, SW5 0BS, United Kingdom",D,12.62,11.95,7.81,6.64
+298,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Curry Hut. Detailed address: Chrisp Street, Poplar, London Borough of Tower Hamlets, London, Greater London, E14 6AQ, United Kingdom
+2. Stuart Hall Library. Detailed address: Rootstein Hopkins Parade Ground, Millbank, London, Greater London, SW1P 4RJ, United Kingdom",D,14.24,5.12,5.45,8.36
+299,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Market House. Detailed address: 443 - 445, Coldharbour Lane, Brixton, London Borough of Lambeth, London, Greater London, SW9 8LN, United Kingdom
+2. DF Tacos. Detailed address: 15, Hanbury Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, E1 6QR, United Kingdom",D,6.14,14.87,8.26,7.15
+300,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Grand. Detailed address: 1, Dover Street, St. James's, Mayfair, London, Greater London, W1S 4NN, United Kingdom
+2. Nando's. Detailed address: 57-63, Westbourne Grove, Westbourne Green, Bayswater, London, Greater London, W2 4UA, United Kingdom",D,0.53,11.53,10.21,3.57
+301,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cleveland Square. Detailed address: Westbourne Green, Paddington, London, Greater London, W2 6DD, United Kingdom
+2. Blenheim and Elgin Crescents Garden. Detailed address: Lansdowne Road, Lancaster West Estate, Notting Hill, Royal Borough of Kensington and Chelsea, London, Greater London, W11 2LE, United Kingdom",A,1.89,4.17,0.71,6.36
+302,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Block D. Detailed address: 4A, Wyvil Road, Vauxhall, London Borough of Lambeth, London, Greater London, SW8 2TH, United Kingdom
+2. Little Bromwood. Detailed address: Ramsden Road, Balham, London Borough of Wandsworth, London, Greater London, SW12 8RQ, United Kingdom",A,3.97,8.45,6.12,8.36
+303,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Maureen's Brixton Kitchen. Detailed address: 52, Railton Road, Brixton, London Borough of Lambeth, London, Greater London, SE24 0LF, United Kingdom
+2. Winsland Street. Detailed address: Tanner Lane, Paddington, London, Greater London, W2 1DL, United Kingdom",D,12.4,12.29,6.58,7.9
+304,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fetal Medicine Centre. Detailed address: 137, Harley Street, East Marylebone, Marylebone, Camden Town, City of Westminster, Greater London, W1G 7LB, United Kingdom
+2. Soane's Stable Block. Detailed address: National Army Museum, Ormonde Gate, Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, SW3 4HA, United Kingdom",A,4.06,11.21,8.47,9.83
+305,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Royal Academy. Detailed address: 6, Burlington Gardens, St. James's, Mayfair, London, Greater London, W1S 3ET, United Kingdom
+2. Pearfield House. Detailed address: Highbury New Park, Taverner Square, Highbury, London Borough of Islington, London, Greater London, N5 2DG, United Kingdom",C,3.77,3.88,5.59,0.69
+306,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Umbrella Rooms. Detailed address: 241, Shaftesbury Avenue, Saint Giles, Bloomsbury, London Borough of Camden, London, Greater London, WC2H 8EH, United Kingdom
+2. South Quay Plaza. Detailed address: Hampton Tower, 75, Marsh Wall, Isle of Dogs, London Borough of Tower Hamlets, London, Greater London, E14 9SH, United Kingdom",C,11.58,1.77,7.78,3.14
+307,"What is the straight-line distance between the following two locations? (Unit is km)
+1. High Holborn Post Office. Detailed address: 181, High Holborn, Seven Dials, Bloomsbury, London Borough of Camden, London, Greater London, WC1V 7RL, United Kingdom
+2. Westbridge Road. Detailed address: Battersea, London Borough of Wandsworth, London, Greater London, SW11 3NW, United Kingdom",B,7.45,5.37,9.81,13.05
+308,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Zaza's. Detailed address: 108a, Whitechapel Road, Whitechapel, London Borough of Tower Hamlets, London, Greater London, E1 1JE, United Kingdom
+2. Cheshire Street. Detailed address: Dunbridge Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, E2 6GS, United Kingdom",A,0.67,6.75,3.88,6.3
+309,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Piatto. Detailed address: 495, Battersea Park Road, Battersea, London Borough of Wandsworth, London, Greater London, SW11 4ND, United Kingdom
+2. MR PORTER Steakhouse, Bar & Lounge London. Detailed address: Galvin at Windows, 22, Park Lane, Mayfair, London, Greater London, W1K 1BE, United Kingdom",A,3.85,9.36,10.61,0.72
+310,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mogul. Detailed address: Rotherhithe Street, Rotherhithe, London Borough of Southwark, London, Greater London, SE16 5SW, United Kingdom
+2. Sake Sushi. Detailed address: 268, Poyser Street, Globe Town, Bethnal Green, London Borough of Tower Hamlets, London, Greater London, E2 9RF, United Kingdom",C,5.91,8.55,2.76,10.16
+311,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Happy Kids Dental Marylebone. Detailed address: 74-78, Seymour Place, Marylebone, London, Greater London, W1H 2DG, United Kingdom
+2. Cafe at the Library. Detailed address: Darfield Road, Crofton Park, Brockley, London Borough of Lewisham, London, Greater London, SE4 1ER, United Kingdom",A,11.23,18.07,17.65,18.7
+312,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Caledonia Fish & Chips Chinese Takeaway. Detailed address: Caledonian Road, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, N1 0SH, United Kingdom
+2. Enoteca da Luca. Detailed address: Devonshire Square, City of London, Greater London, EC2M 4AE, United Kingdom",C,2.23,10.41,3.42,10.13
+313,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Glass Fountain. Detailed address: Three Nun Court, Barbican, City of London, Greater London, EC2V 7HY, United Kingdom
+2. Princess Street Group Practice. Detailed address: Princess Street, Browning Estate, Elephant and Castle, London Borough of Southwark, London, Greater London, SE1 6HH, United Kingdom",D,5.2,9.88,5.05,2.42
+314,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Busy Bees. Detailed address: 62, Loampit Hill, Deptford, London Borough of Lewisham, London, Greater London, SE13 7SX, United Kingdom
+2. Cranmer Road. Detailed address: Oval, London Borough of Lambeth, London, Greater London, SW9 6EG, United Kingdom",B,3.67,6.39,13.82,8.92
+315,"What is the straight-line distance between the following two locations? (Unit is km)
+1. JCB. Detailed address: 3, Deanery Street, Mayfair, London, Greater London, W1K 1AU, United Kingdom
+2. Euston Square Gardens West. Detailed address: Euston Road, Saint Pancras, London Borough of Camden, London, Greater London, WC1H 0AX, United Kingdom",B,10.03,2.48,8.68,4.21
+316,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Four Thieves. Detailed address: 51, Lavender Gardens, Clapham Junction, London Borough of Wandsworth, London, Greater London, SW11 1DJ, United Kingdom
+2. The Suzu House. Detailed address: 170-172, Hammersmith Road, Brook Green, London Borough of Hammersmith and Fulham, London, Greater London, W6 8DB, United Kingdom",D,1.79,13.04,9.16,5.12
+317,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Embassy of Portugal. Detailed address: Halkin Place, Belgravia, London, Greater London, SW1X 8PS, United Kingdom
+2. Van Gogh Primary School (Infants). Detailed address: Gosling Way, Cowley Estate, Oval, London Borough of Lambeth, London, Greater London, SW9 6LA, United Kingdom",D,2.81,9.63,8.46,4.16
+318,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Arthur Lovell Court. Detailed address: 4, Lovat Close, Burdett Estate, Limehouse, London Borough of Tower Hamlets, London, Greater London, E14 7GR, United Kingdom
+2. MG Motor UK. Detailed address: 47-48, Piccadilly, St. James's, Mayfair, London, Greater London, W1J 0DS, United Kingdom",D,1.33,14.49,0.69,7.71
+319,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Locker InPost. Detailed address: Viking Hotel, 162, Romford Road, Maryland, London Borough of Newham, London, Greater London, E15 4LD, United Kingdom
+2. Poké Shack. Detailed address: 44, Kensington Church Street, Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W8 4BQ, United Kingdom",B,20.17,15.14,21.45,21.02
+320,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Smiths Bar and Grill. Detailed address: 25, Sheldon Square, Paddington Central, Paddington, London, Greater London, W2 6EP, United Kingdom
+2. Source London. Detailed address: Downs Park Road, Shacklewell, London Borough of Hackney, London, Greater London, E8 2HY, United Kingdom",C,13.07,3.41,8.55,4.59
+321,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cardinal Place. Detailed address: Roof Garden, Cardinal Walk, Cardinal Place, Victoria, London, Greater London, SW1E 5JE, United Kingdom
+2. Hampstead Parochial Church of England Primary School. Detailed address: Holly Bush Vale, Vale of Health, Belsize Park, London Borough of Camden, London, Greater London, NW3 6TX, United Kingdom",C,1.54,3.14,7.06,14.87
+322,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Venchi. Detailed address: Circus Road West, Nine Elms, London Borough of Wandsworth, London, Greater London, SW11 8EN, United Kingdom
+2. Teviot Street. Detailed address: Teviot, Poplar, London Borough of Tower Hamlets, London, Greater London, E14 6QZ, United Kingdom",C,4.6,15.07,10.09,8.66
+323,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Stadium Store. Detailed address: Marshgate Lane, Stratford, London Borough of Newham, London, Greater London, E20 2ST, United Kingdom
+2. The Tredegar Practice. Detailed address: 35, St Stephen's Road, Old Ford, Bow, London Borough of Tower Hamlets, London, Greater London, E3 5FF, United Kingdom",D,3.99,3.86,3.97,1.32
+324,"What is the straight-line distance between the following two locations? (Unit is km)
+1. PizzaExpress. Detailed address: 93, Euston Road, Saint Pancras, London Borough of Camden, London, Greater London, NW1 2RA, United Kingdom
+2. De Nadas. Detailed address: Rivington Street, Shoreditch, London Borough of Hackney, London, Greater London, EC2A 3QQ, United Kingdom",C,9.13,1.25,3.3,4.7
+325,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Le Cochonnet. Detailed address: 1, Lauderdale Road, Kensal Town, Maida Vale, London, Greater London, W9 1LU, United Kingdom
+2. Capeesh. Detailed address: 4, Pan Peninsula Square, Cubitt Town, Isle of Dogs, London Borough of Tower Hamlets, London, Greater London, E14 9HN, United Kingdom",B,7.43,12.38,13.79,4.56
+326,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Green Light Pharmacy. Detailed address: 29, Winchester Road, Swiss Cottage, Belsize Park, London Borough of Camden, London, Greater London, NW3 3NG, United Kingdom
+2. Osprey Estate. Detailed address: Egret House, Tawny Way, Osprey Estate, Rotherhithe, London Borough of Southwark, London, Greater London, SE16 2NG, United Kingdom",D,13.55,5.83,16.11,10.5
+327,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 108 Brasserie. Detailed address: 108, Marylebone Lane, Marylebone, London, Greater London, W1U 2PP, United Kingdom
+2. Arco Knightsbridge. Detailed address: 7, Pavilion Road, Hans Town, Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, SW1X 0HD, United Kingdom",B,3.74,2.05,6.0,3.49
+328,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Galvanisers Union. Detailed address: 2, Devas Street, Bromley-by-Bow, Poplar, London Borough of Tower Hamlets, London, Greater London, E3 3FD, United Kingdom
+2. LEON. Detailed address: 101, Euston Road, Saint Pancras, London Borough of Camden, London, Greater London, NW1 2RA, United Kingdom",B,3.76,8.07,14.6,6.34
+329,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sake Sushi. Detailed address: 268, Poyser Street, Globe Town, Bethnal Green, London Borough of Tower Hamlets, London, Greater London, E2 9RF, United Kingdom
+2. Blackheath Montessori Centre. Detailed address: Independents Road, Blackheath Village, Blackheath, London Borough of Lewisham, London, Greater London, SE3 9LF, United Kingdom",D,3.51,6.33,6.91,8.44
+330,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fitaly. Detailed address: 389, Kensington High Street, Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W14 8NL, United Kingdom
+2. Grosvenor Hotel Garage. Detailed address: Reeves Mews, Mayfair, London, Greater London, W1K 2EH, United Kingdom",A,4.03,1.18,6.8,6.69
+331,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gun Wharves. Detailed address: 86, Wapping Lane, Wapping, London Borough of Tower Hamlets, London, Greater London, E1W 2RX, United Kingdom
+2. The Empress. Detailed address: 141, Leman Street, East Smithfield, Whitechapel, London Borough of Tower Hamlets, London, Greater London, E1 8EY, United Kingdom",A,1.12,8.66,4.28,5.86
+332,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Wigmore Mansion. Detailed address: Pelican State, 92, Wigmore Street, East Marylebone, Mayfair, London, Greater London, W1U 3RF, United Kingdom
+2. Hows Building. Detailed address: Cherry Park Lane, Coppermaker Square, Stratford, London Borough of Newham, London, Greater London, E20 1NP, United Kingdom",D,12.86,3.38,8.32,10.42
+333,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gaucho. Detailed address: 1, Bell Inn Yard, Leadenhall Market, City of London, Greater London, EC3V 0BL, United Kingdom
+2. Wright's Lane. Detailed address: Wrights Lane, Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W8 5SW, United Kingdom",D,11.83,12.21,9.37,7.61
+334,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mr Chippy. Detailed address: 353, High Road Leytonstone, Cann Hall, Leytonstone, London Borough of Waltham Forest, London, Greater London, E11 4JT, United Kingdom
+2. Grays Inn Post Office. Detailed address: 24-28, Gray's Inn Road, Gray's Inn, Holborn, London Borough of Camden, London, Greater London, WC1X 8HR, United Kingdom",B,1.89,9.07,14.75,16.58
+335,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pirate Castle. Detailed address: Southampton Bridge, Primrose Hill, Chalk Farm, London Borough of Camden, London, Greater London, NW1 7DT, United Kingdom
+2. Arthur Lovell Court. Detailed address: 4, Lovat Close, Burdett Estate, Limehouse, London Borough of Tower Hamlets, London, Greater London, E14 7GR, United Kingdom",D,5.1,2.89,14.55,8.79
+336,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Enoteca da Luca. Detailed address: Devonshire Square, City of London, Greater London, EC2M 4AE, United Kingdom
+2. Zam's chicken. Detailed address: Queen's Crescent, Maitland Park, Gospel Oak, London Borough of Camden, London, Greater London, NW5 4ED, United Kingdom",B,3.41,6.31,3.07,2.63
+337,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tower Pharmacy. Detailed address: 50, Wapping Lane, St. George in the East, Wapping, London Borough of Tower Hamlets, London, Greater London, E1W 2RL, United Kingdom
+2. Murger Han City. Detailed address: 10, Philpot Lane, Monument, City of London, Greater London, EC3M 8AA, United Kingdom",B,7.94,1.91,3.29,9.13
+338,"What is the straight-line distance between the following two locations? (Unit is km)
+1. inamo. Detailed address: 134-136, Wardour Street, Soho, London, Greater London, W1F 8ZS, United Kingdom
+2. Institut français du Royaume-Uni (Language Centre). Detailed address: 13, Cromwell Place, The Boltons, Brompton, Royal Borough of Kensington and Chelsea, London, Greater London, SW7 2JB, United Kingdom",D,4.59,6.6,8.34,3.58
+339,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Clockwork Private Health Centre. Detailed address: Narrow Kitchen, 396, Mare Street, Lower Clapton, Hackney, London Borough of Hackney, London, Greater London, E8 1HP, United Kingdom
+2. Market House. Detailed address: 443 - 445, Coldharbour Lane, Brixton, London Borough of Lambeth, London, Greater London, SW9 8LN, United Kingdom",A,10.58,18.47,6.53,13.86
+340,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Holy Cow. Detailed address: 166, Battersea Park Road, Battersea, London Borough of Wandsworth, London, Greater London, SW11 4ND, United Kingdom
+2. Thomas Exchange Global. Detailed address: 23-27, The Arcade, Bishopsgate, City of London, Greater London, EC2M 7QN, United Kingdom",A,7.26,1.38,13.56,14.41
+341,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Red Planet Pizza. Detailed address: 167, Ladbroke Grove, Lancaster West Estate, North Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W10 6HJ, United Kingdom
+2. Fel Fel. Detailed address: 135, Bermondsey Street, Bermondsey Village, Old Kent Road, London Borough of Southwark, London, Greater London, SE1 3UW, United Kingdom",C,4.34,12.7,9.19,10.66
+342,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Museum Gardens. Detailed address: Roman Road, Globe Town, Bethnal Green, London Borough of Tower Hamlets, London, Greater London, E2 0HR, United Kingdom
+2. Newcommon House. Detailed address: Ingestre Road, Ingestre Road Estate, Tufnell Park, London Borough of Camden, London, Greater London, NW5 1XG, United Kingdom",A,6.93,8.99,13.61,12.57
+343,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mudchute Park & Farm. Detailed address: Marvelous Meadows, Nature Trail, Cubitt Town, Isle of Dogs, London Borough of Tower Hamlets, London, Greater London, E14 3HP, United Kingdom
+2. Royal Academy. Detailed address: 6, Burlington Gardens, St. James's, Mayfair, London, Greater London, W1S 3ET, United Kingdom",A,9.14,6.67,8.07,4.89
+344,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Caffè Nero. Detailed address: 3, Cathedral Street, Bankside, The Borough, London Borough of Southwark, London, Greater London, SE1 9DE, United Kingdom
+2. Ladywell Kebab & Steak House. Detailed address: 109, Ladywell Road, Ladywell, London Borough of Lewisham, London, Greater London, SE13 7JA, United Kingdom",B,2.66,7.35,3.22,10.84
+345,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 1 Medici Courtyard. Detailed address: WatchHouse Hanover, 2-3, Medici Courtyard, East Marylebone, Mayfair, London, Greater London, W1S 1BR, United Kingdom
+2. Silk Sound. Detailed address: 13, Berwick Street, Soho, City of Westminster, Greater London, W1F 0DW, United Kingdom",C,4.63,4.02,0.76,7.25
+346,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tonkotsu Ramen Bar. Detailed address: 6, Arches Lane, London Borough of Wandsworth, London, Greater London, SW11 8AB, United Kingdom
+2. Kam's Chicken. Detailed address: Wandsworth Road, Clapham, London Borough of Lambeth, London, Greater London, SW8 4PA, United Kingdom",D,9.2,7.22,7.34,1.52
+347,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Blue Marlin Fish Bar. Detailed address: 17, Staplehurst Road, Cordwell Estate, Hither Green, London Borough of Lewisham, London, Greater London, SE13 5ND, United Kingdom
+2. Fit4less. Detailed address: Highbury & Islington, 555, Liverpool Road, Lower Holloway, Highbury, London Borough of Islington, London, Greater London, N7 8NP, United Kingdom",A,13.24,15.57,11.65,18.7
+348,"What is the straight-line distance between the following two locations? (Unit is km)
+1. St Stephen's Church of England Primary School. Detailed address: Dorset Road, Oval, London Borough of Lambeth, London, Greater London, SW8 1EJ, United Kingdom
+2. Pirate Castle. Detailed address: Southampton Bridge, Primrose Hill, Chalk Farm, London Borough of Camden, London, Greater London, NW1 7DT, United Kingdom",C,0.82,1.71,6.99,12.64
+349,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Circus. Detailed address: 27-29, Endell Street, Seven Dials, Bloomsbury, London Borough of Camden, London, Greater London, WC2H 9BA, United Kingdom
+2. Halifax. Detailed address: White City Depot, Shepherd's Bush Library and Work Zone, Shepherd's Bush, London Borough of Hammersmith and Fulham, London, Greater London, W12 7BF, United Kingdom",A,6.89,9.01,14.57,3.09
+350,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Oasis Play. Detailed address: Priory Grove, Stockwell, London Borough of Lambeth, London, Greater London, SW8 2PD, United Kingdom
+2. Water Gardens. Detailed address: Waterfront Drive, Chelsea Waterfront, London Borough of Hammersmith and Fulham, London, Greater London, SW10 0BF, United Kingdom",A,3.62,7.74,7.33,9.82
+351,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Enterprise. Detailed address: Baltimore Wharf, Millwall, Isle of Dogs, London Borough of Tower Hamlets, London, Greater London, E14 9EP, United Kingdom
+2. Gaucho. Detailed address: 1, Bell Inn Yard, Leadenhall Market, City of London, Greater London, EC3V 0BL, United Kingdom",D,6.74,3.28,9.31,5.21
+352,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bright Horizons. Detailed address: Latchmere Road, Battersea, London Borough of Wandsworth, London, Greater London, SW11 2DX, United Kingdom
+2. Hot Yoga Brixton. Detailed address: Coldharbour Lane, Brixton, London Borough of Lambeth, London, Greater London, SW9 8GL, United Kingdom",D,8.49,9.72,9.22,3.9
+353,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Fountain & Ink. Detailed address: 52, Stamford Street, Bankside, The Borough, London Borough of Southwark, London, Greater London, SE1 9LX, United Kingdom
+2. Be At One. Detailed address: 85, Battersea Rise, Clapham Junction, London Borough of Wandsworth, London, Greater London, SW11 1HW, United Kingdom",C,13.61,8.06,6.64,4.9
+354,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kate's Cafe & Restaurant. Detailed address: 174, Balaam Street, Plaistow, London Borough of Newham, London, Greater London, E13 8RD, United Kingdom
+2. Enough To Feed An Elephant. Detailed address: 17, Lower Marsh, Waterloo, London Borough of Lambeth, London, Greater London, SE1 7RJ, United Kingdom",C,17.5,16.46,9.99,6.65
+355,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Le Relais De Venise L'Entrecote. Detailed address: 120, Marylebone Lane, Marylebone, London, Greater London, W1U 2PP, United Kingdom
+2. Brioche Coffee & Brunch. Detailed address: Bright Food & Wine, North End Road, West Kensington, London Borough of Hammersmith and Fulham, London, Greater London, W14 9LU, United Kingdom",D,11.39,2.85,6.98,4.95
+356,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 4 Merchant Square. Detailed address: 4, Merchant Square, Paddington, London, Greater London, W2 1AS, United Kingdom
+2. Soho Theatre. Detailed address: 21, Dean Street, Soho, City of Westminster, Greater London, W1D 3NE, United Kingdom",C,5.64,7.31,2.71,4.35
+357,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ecology Centre. Detailed address: Abbotsbury Road, Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W14 8EL, United Kingdom
+2. The Galvanisers Union. Detailed address: 2, Devas Street, Bromley-by-Bow, Poplar, London Borough of Tower Hamlets, London, Greater London, E3 3FD, United Kingdom",C,20.97,8.86,13.74,19.38
+358,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Agenda 21 Architects. Detailed address: 2-4, Sebastian Street, Saint Luke's, Clerkenwell, London Borough of Islington, London, Greater London, EC1V 0JD, United Kingdom
+2. Mudchute Park & Farm. Detailed address: Marvelous Meadows, Nature Trail, Cubitt Town, Isle of Dogs, London Borough of Tower Hamlets, London, Greater London, E14 3HP, United Kingdom",A,7.32,12.45,1.82,14.11
+359,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ocean Blue. Detailed address: Wandsworth Road, Vauxhall, London Borough of Lambeth, London, Greater London, SW8 2LA, United Kingdom
+2. Red Planet Pizza. Detailed address: 167, Ladbroke Grove, Lancaster West Estate, North Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W10 6HJ, United Kingdom",B,1.19,7.19,3.76,0.63
+360,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Torriano Meeting House. Detailed address: 99, Torriano Avenue, Tufnell Park, London Borough of Camden, London, Greater London, NW5 2RX, United Kingdom
+2. Bishop's Bridge Road East. Detailed address: Bishop's Bridge Road, Westbourne Green, Paddington, London, Greater London, W2 6DZ, United Kingdom",D,6.85,10.72,10.37,5.15
+361,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Euro Car Park. Detailed address: 2-24, Kensington High Street, South Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W8 4PT, United Kingdom
+2. Arthur Murray Dance Center. Detailed address: Arthur Murray Dance Studios, 77, Baker Street, Marylebone, London, Greater London, W1U 6RF, United Kingdom",A,2.93,6.36,9.33,0.96
+362,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Clapham Leisure Centre. Detailed address: Bicycle Mews, Clapham, London Borough of Lambeth, London, Greater London, SW4 6FF, United Kingdom
+2. HSBC UK. Detailed address: 465, Bethnal Green Road, Globe Town, Bethnal Green, London Borough of Tower Hamlets, London, Greater London, E2 9QW, United Kingdom",C,11.47,5.17,8.83,11.72
+363,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Here East North. Detailed address: Waterden Road, East Wick, Hackney Wick, London Borough of Hackney, London, Greater London, E15 2GZ, United Kingdom
+2. Northampton Square. Detailed address: Clerkenwell Green, Clerkenwell, London Borough of Islington, London, Greater London, EC1V 0HN, United Kingdom",A,6.04,2.68,7.91,5.03
+364,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fenton Close. Detailed address: 6, Fenton Close, Rhodes Estate, Dalston, London Borough of Hackney, London, Greater London, E8 3AS, United Kingdom
+2. Texaco. Detailed address: 177-189, Creek Road, Greenwich Town Centre, Royal Borough of Greenwich, London, Greater London, SE8 3BU, United Kingdom",C,12.11,3.18,8.03,10.56
+365,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Powerleague. Detailed address: Selsdon Way, Cubitt Town, Isle of Dogs, London Borough of Tower Hamlets, London, Greater London, E14 9QD, United Kingdom
+2. KFC. Detailed address: Haverstock Hill, South End Green, Belsize Park, London Borough of Camden, London, Greater London, NW3 4PT, United Kingdom",C,10.85,15.69,12.32,14.92
+366,"What is the straight-line distance between the following two locations? (Unit is km)
+1. MG Motor UK. Detailed address: 47-48, Piccadilly, St. James's, Mayfair, London, Greater London, W1J 0DS, United Kingdom
+2. Meta. Detailed address: 11-21, Canal Reach, King's Cross, London Borough of Camden, London, Greater London, N1C 4BQ, United Kingdom",A,3.41,8.26,2.04,9.65
+367,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Thai West Café. Detailed address: 87, Brewer Street, Soho, City of Westminster, Greater London, W1F 9UA, United Kingdom
+2. South London Makerspace. Detailed address: 41, Norwood Road, Dulwich Village, London Borough of Southwark, London, Greater London, SE24 9AJ, United Kingdom",B,2.81,7.0,9.82,8.1
+368,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Viaduct Tavern. Detailed address: 126, Newgate Street, West Smithfield, City of London, Greater London, EC1A 7AA, United Kingdom
+2. Machine Gun Corps Memorial. Detailed address: Piccadilly Underpass, Belgravia, London, Greater London, W1J 7NT, United Kingdom",C,8.56,0.55,3.7,10.68
+369,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Spagnoletti. Detailed address: 23-27, Euston Road, King's Cross, London Borough of Camden, London, Greater London, NW1 2SD, United Kingdom
+2. La Patisserie D'or. Detailed address: 39, Lee High Road, Cordwell Estate, Hither Green, London Borough of Lewisham, London, Greater London, SE13 5NS, United Kingdom",A,11.08,17.54,3.57,15.85
+370,"What is the straight-line distance between the following two locations? (Unit is km)
+1. St. Martin's Close. Detailed address: Camden Street, Kentish Town, London Borough of Camden, London, Greater London, NW1 0JA, United Kingdom
+2. Black Box. Detailed address: 93, Great Eastern Street, Shoreditch, London Borough of Hackney, London, Greater London, EC2A 3HZ, United Kingdom",C,6.21,2.44,4.07,6.97
+371,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Westbridge Road. Detailed address: Battersea, London Borough of Wandsworth, London, Greater London, SW11 3NW, United Kingdom
+2. Shiv. Detailed address: 309, Regent Street, East Marylebone, Fitzrovia, Camden Town, City of Westminster, Greater London, W1B 3BL, United Kingdom",B,6.11,4.75,0.7,11.11
+372,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Comber Park. Detailed address: Badsworth Road, Camberwell, London Borough of Southwark, London, Greater London, SE5 0LB, United Kingdom
+2. Bethnal Green Nature Reserve. Detailed address: Punderson's Gardens, Bethnal Green, London Borough of Tower Hamlets, London, Greater London, E2 9RP, United Kingdom",D,8.13,8.26,2.77,6.42
+373,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Flame House. Detailed address: 113, Cricklewood Broadway, London Borough of Barnet, London, Greater London, NW2 3JG, United Kingdom
+2. Mexfield Road. Detailed address: Wandsworth, London Borough of Wandsworth, London, Greater London, SW15 2RQ, United Kingdom",B,18.85,10.97,6.28,16.0
+374,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fel Fel. Detailed address: 135, Bermondsey Street, Bermondsey Village, Old Kent Road, London Borough of Southwark, London, Greater London, SE1 3UW, United Kingdom
+2. Cuppacino. Detailed address: Grant Road, Clapham Junction, London Borough of Wandsworth, London, Greater London, SW11 2NU, United Kingdom",D,2.04,11.95,10.85,7.35
+375,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Thomas's Kensington Preparatory School. Detailed address: 17-19, Cottesmore Gardens, South Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W8 5PR, United Kingdom
+2. Thomas Buxton Primary School. Detailed address: Buxton Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, E1 5AR, United Kingdom",B,12.88,8.86,11.97,1.78
+376,"What is the straight-line distance between the following two locations? (Unit is km)
+1. William Evans Ltd. Detailed address: St. James's Place, St. James's, Mayfair, London, Greater London, SW1A 1NS, United Kingdom
+2. Lyndhurst Primary School. Detailed address: Grove Lane, Denmark Hill, Camberwell, London Borough of Southwark, London, Greater London, SE5 8SN, United Kingdom",B,2.69,5.32,2.31,10.6
+377,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Patara - Oxford Circus. Detailed address: 3-7, Maddox Street, East Marylebone, Mayfair, London, Greater London, W1S 2QB, United Kingdom
+2. Ocean Blue. Detailed address: Wandsworth Road, Vauxhall, London Borough of Lambeth, London, Greater London, SW8 2LA, United Kingdom",C,2.99,8.62,4.12,9.9
+378,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Channelsea Island. Detailed address: Canning Road, Mill Meads, West Ham, London Borough of Newham, London, Greater London, E15 3FA, United Kingdom
+2. Mohawk House. Detailed address: 4, Gernon Road, Lanfranc Estate, Mile End, London Borough of Tower Hamlets, London, Greater London, E3 5QT, United Kingdom",A,2.68,3.74,1.6,8.73
+379,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Riverfront pub. Detailed address: BFI Southbank, 1, Charlie Chaplin Walk, South Bank, Waterloo, London Borough of Lambeth, London, Greater London, SE1 8XR, United Kingdom
+2. Canary Wall. Detailed address: 312, Trinidad Street, Limehouse, London Borough of Tower Hamlets, London, Greater London, E14 8AB, United Kingdom",A,6.13,9.76,5.0,1.41
+380,"What is the straight-line distance between the following two locations? (Unit is km)
+1. little bird. Detailed address: Arch 48, Ropewalk, Bermondsey Spa, Old Kent Road, London Borough of Southwark, London, Greater London, SE1 3FF, United Kingdom
+2. Lift Coffee Shoreditch. Detailed address: 73, Rivington Street, Shoreditch, London Borough of Hackney, London, Greater London, EC2A 3AY, United Kingdom",A,3.01,5.04,4.34,9.68
+381,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Design Centre. Detailed address: Harbour Avenue, Sands End, London Borough of Hammersmith and Fulham, London, Greater London, SW10 0XE, United Kingdom
+2. Good Manners. Detailed address: Grosvenor Avenue, Newington Green, Highbury, London Borough of Islington, London, Greater London, N5 2NL, United Kingdom",D,13.07,2.76,12.77,10.3
+382,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 1 West India Quay. Detailed address: 26, Hertsmere Road, Canary Wharf, London Borough of Tower Hamlets, London, Greater London, E14 4AX, United Kingdom
+2. London Fire Brigade Pop-up Museum. Detailed address: 26, Lambeth High Street, Kennington Cross, Lambeth, London Borough of Lambeth, London, Greater London, SE1 7AG, United Kingdom",D,9.29,3.42,9.36,7.04
+383,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fernandez & Wells. Detailed address: 55, Duke Street, Mayfair, London, Greater London, W1K 5NR, United Kingdom
+2. Caledonia Fish & Chips Chinese Takeaway. Detailed address: Caledonian Road, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, N1 0SH, United Kingdom",B,6.16,3.47,1.19,8.35
+384,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fatoush. Detailed address: 183, Edgware Road, Paddington, London, Greater London, W2 1ET, United Kingdom
+2. Pret A Manger. Detailed address: 13, Clifton Road, St. John's Wood, London, Greater London, W9 1SZ, United Kingdom",B,3.81,1.12,2.73,8.86
+385,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Wellington Road. Detailed address: St. John's Wood, London, Greater London, NW8 9SL, United Kingdom
+2. PureGym. Detailed address: 84, Theobalds Road, Gray's Inn, Holborn, London Borough of Camden, London, Greater London, WC1X 8RW, United Kingdom",D,11.51,9.87,9.54,4.03
+386,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Five Guys. Detailed address: 182, Clapham High Street, Clapham Park, Clapham, London Borough of Lambeth, London, Greater London, SW4 7UG, United Kingdom
+2. Stick & Bowl. Detailed address: 31, Kensington High Street, South Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W8 5NP, United Kingdom",C,12.19,3.31,5.71,0.87
+387,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cephas Street. Detailed address: Globe Town, Bethnal Green, London Borough of Tower Hamlets, London, Greater London, E1 4HJ, United Kingdom
+2. Fred's. Detailed address: 358, Brockley Road, Crofton Park, Brockley, London Borough of Lewisham, London, Greater London, SE4 2BY, United Kingdom",A,7.61,10.83,13.63,2.57
+388,"What is the straight-line distance between the following two locations? (Unit is km)
+1. America Square Conference Centre. Detailed address: 1, America Square, Aldgate, City of London, Greater London, EC3N 2LS, United Kingdom
+2. Oi Vita Pizzeria. Detailed address: 67, Newington Green Road, Newington Green, Highbury, London Borough of Islington, London, Greater London, N1 4QU, United Kingdom",D,1.39,6.66,3.17,4.21
+389,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dalston Roofpark. Detailed address: 18-22, Ashwin Street, De Beauvoir Town, Dalston, London Borough of Hackney, London, Greater London, E8 3DL, United Kingdom
+2. The Colab Tavern. Detailed address: 16, Harper Road, The Borough, London Borough of Southwark, London, Greater London, SE1 6RP, United Kingdom",D,0.75,11.8,7.26,5.74
+390,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Honest Burgers. Detailed address: 8, Nelson Road, Greenwich Town Centre, East Greenwich, Royal Borough of Greenwich, London, Greater London, SE10 9JB, United Kingdom
+2. zaffrani. Detailed address: 47, Cross Street, Canonbury, Islington, London Borough of Islington, London, Greater London, N1 2DP, United Kingdom",D,13.39,10.67,4.8,9.11
+391,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Shuttleworth Park. Detailed address: Galleywall Road, South Bermondsey, Bermondsey, London Borough of Southwark, London, Greater London, SE16 3LT, United Kingdom
+2. Gwendwr Gardens. Detailed address: 17, Gwendwr Road, Barons Keep, West Kensington, London Borough of Hammersmith and Fulham, London, Greater London, W14 9BQ, United Kingdom",A,10.25,12.13,15.47,11.82
+392,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cygnet House North. Detailed address: 18, Chrisp Street, Poplar, London Borough of Tower Hamlets, London, Greater London, E14 6NZ, United Kingdom
+2. William Evans Ltd. Detailed address: St. James's Place, St. James's, Mayfair, London, Greater London, SW1A 1NS, United Kingdom",D,6.12,11.03,16.45,8.74
+393,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Assenheims. Detailed address: Pure, 8, London Bridge Street, Bermondsey Village, The Borough, London Borough of Southwark, London, Greater London, SE1 9SG, United Kingdom
+2. Breast Screening. Detailed address: 94-104, Denmark Hill, Camberwell, London Borough of Southwark, London, Greater London, SE5 8RX, United Kingdom",C,11.34,1.01,3.82,8.92
+394,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Migue's Tapas Bar & Restaurant. Detailed address: 40-42, Brixton Road, Myatt's Fields, Oval, London Borough of Lambeth, London, Greater London, SW9 6BT, United Kingdom
+2. Euro Car Park. Detailed address: 2-24, Kensington High Street, South Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W8 4PT, United Kingdom",B,11.23,5.9,4.87,4.49
+395,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Growing Communities. Detailed address: Mackintosh Lane, Homerton, London Borough of Hackney, London, Greater London, E9 6AB, United Kingdom
+2. Local Community Compost Facility. Detailed address: Birch Grove, Cann Hall, Leytonstone, London Borough of Waltham Forest, London, Greater London, E11 4YG, United Kingdom",C,5.42,6.24,3.42,6.29
+396,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sebright School. Detailed address: Audrey Street, Haggerston, London Borough of Hackney, London, Greater London, E2 8QH, United Kingdom
+2. MK Carlton. Detailed address: Bassett Lane, Fish Island, Bow, London Borough of Tower Hamlets, London, Greater London, E3 2GY, United Kingdom",A,3.18,6.66,7.72,7.98
+397,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Euston Square Gardens West. Detailed address: Euston Road, Saint Pancras, London Borough of Camden, London, Greater London, WC1H 0AX, United Kingdom
+2. One Tree Hill allotments. Detailed address: Honor Oak Park, Crofton Park, Honor Oak, London Borough of Lewisham, London, Greater London, SE23 3LB, United Kingdom",D,12.33,15.18,4.21,10.27
+398,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lincolns. Detailed address: 2, Gate Street, Gray's Inn, Holborn, London Borough of Camden, London, Greater London, WC2A 3HP, United Kingdom
+2. 1 West India Quay. Detailed address: 26, Hertsmere Road, Canary Wharf, London Borough of Tower Hamlets, London, Greater London, E14 4AX, United Kingdom",D,10.12,11.59,2.53,6.86
+399,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bad Moon Cafe. Detailed address: 159A, Great Dover Street, Bermondsey Village, The Borough, London Borough of Southwark, London, Greater London, SE1 4GZ, United Kingdom
+2. Mowgli Street Food. Detailed address: Westfield Stratford City, Station Lane, Stratford, London Borough of Newham, London, Greater London, E20 1EE, United Kingdom",D,1.67,11.79,8.88,7.59
+400,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Piggy's. Detailed address: 1, Air Street, St. James's, Mayfair, City of Westminster, Greater London, W1J 0LA, United Kingdom
+2. Piatto. Detailed address: 495, Battersea Park Road, Battersea, London Borough of Wandsworth, London, Greater London, SW11 4ND, United Kingdom",A,4.62,11.3,6.43,2.4
+401,"What is the straight-line distance between the following two locations? (Unit is km)
+1. TRAID. Detailed address: Dalston Lane, De Beauvoir Town, Dalston, London Borough of Hackney, London, Greater London, E8 2PE, United Kingdom
+2. Pulse Pharmacy. Detailed address: Clapham Road, Stockwell Park, Stockwell, London Borough of Lambeth, London, Greater London, SW9 9BB, United Kingdom",B,13.37,9.13,11.69,6.91
+402,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Soho Theatre. Detailed address: 21, Dean Street, Soho, City of Westminster, Greater London, W1D 3NE, United Kingdom
+2. Guildhall School of Music and Drama. Detailed address: The Heron, 5, Moor Lane, Barbican, City of London, Greater London, EC2Y 9AP, United Kingdom",C,7.31,0.97,2.99,6.28
+403,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Maddock Pharmacy. Detailed address: Maddock Way, Brandon Estate, Elephant and Castle, London Borough of Southwark, London, Greater London, SE17 3NH, United Kingdom
+2. Sushi Katana. Detailed address: Freemasons Road, Canning Town, London Borough of Newham, London, Greater London, E16 3PG, United Kingdom",D,6.37,4.89,6.06,9.63
+404,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Prince's School of Traditional Arts. Detailed address: 19-22, Charlotte Road, Shoreditch, London Borough of Hackney, London, Greater London, EC2A 3SG, United Kingdom
+2. High Holborn Post Office. Detailed address: 181, High Holborn, Seven Dials, Bloomsbury, London Borough of Camden, London, Greater London, WC1V 7RL, United Kingdom",C,6.06,1.71,3.13,5.08
+405,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Loves Company. Detailed address: St. Agnes Well, Saint Luke's, Finsbury, London Borough of Islington, London, Greater London, EC1V 2NR, United Kingdom
+2. 108 Brasserie. Detailed address: 108, Marylebone Lane, Marylebone, London, Greater London, W1U 2PP, United Kingdom",C,0.67,3.07,4.44,9.05
+406,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Texaco. Detailed address: 177-189, Creek Road, Greenwich Town Centre, Royal Borough of Greenwich, London, Greater London, SE8 3BU, United Kingdom
+2. Via Arkadia. Detailed address: Heath Street, Vale of Health, Belsize Park, London Borough of Camden, London, Greater London, NW3 1DN, United Kingdom",B,12.03,13.99,15.93,10.29
+407,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Goodsyard. Detailed address: Lucozade Power League, Braithwaite Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, E1 6GJ, United Kingdom
+2. Sky Apartments. Detailed address: Homerton Road, Clapton Park, Hackney Wick, London Borough of Hackney, London, Greater London, E9 5FA, United Kingdom",D,2.31,9.82,2.05,4.42
+408,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pulse Pharmacy. Detailed address: Clapham Road, Stockwell Park, Stockwell, London Borough of Lambeth, London, Greater London, SW9 9BB, United Kingdom
+2. itsu. Detailed address: Great Peter Street, Westminster, Millbank, London, Greater London, SW1P 2BN, United Kingdom",B,4.95,2.94,9.06,0.99
+409,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Skelton House. Detailed address: Newington Green Primary School, Matthias Road, Newington Green, Highbury, London Borough of Islington, London, Greater London, N16 8NP, United Kingdom
+2. Lisson Grove Health Centre. Detailed address: 3, Gateforth Street, St. John's Wood, London, Greater London, NW8 8EH, United Kingdom",B,1.06,6.7,8.82,4.71
+410,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lansbury Lawrence Primary School. Detailed address: Cordelia Street, Poplar, London Borough of Tower Hamlets, London, Greater London, E14 6DZ, United Kingdom
+2. Holy Ghost Catholic Primary School. Detailed address: Nightingale Square, Balham, London Borough of Wandsworth, London, Greater London, SW12 8QJ, United Kingdom",D,19.4,18.74,18.8,12.18
+411,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hult International Business School - Graduate Campus. Detailed address: 37-38, John Street, Gray's Inn, Holborn, London Borough of Camden, London, Greater London, WC1N 2ES, United Kingdom
+2. Clapham Leisure Centre. Detailed address: Bicycle Mews, Clapham, London Borough of Lambeth, London, Greater London, SW4 6FF, United Kingdom",B,13.73,6.48,11.3,9.23
+412,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Honeywell Schools. Detailed address: Honeywell Junior School, Honeywell Road, Clapham Junction, London Borough of Wandsworth, London, Greater London, SW11 6EF, United Kingdom
+2. St Mark's Vicarage. Detailed address: 114, Hamilton Terrace, Maida Vale, London, Greater London, NW8 9UT, United Kingdom",B,10.73,8.73,3.69,7.14
+413,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nando's. Detailed address: 57-63, Westbourne Grove, Westbourne Green, Bayswater, London, Greater London, W2 4UA, United Kingdom
+2. B Bagel Bakery Bar. Detailed address: 236D, Fulham Road, The Boltons, Brompton, Royal Borough of Kensington and Chelsea, London, Greater London, SW10 9NB, United Kingdom",A,3.41,0.78,11.25,5.68
+414,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Stuart Hall Library. Detailed address: Rootstein Hopkins Parade Ground, Millbank, London, Greater London, SW1P 4RJ, United Kingdom
+2. Collingwood Community Centre. Detailed address: Barnsley Street, Globe Town, Bethnal Green, London Borough of Tower Hamlets, London, Greater London, E1 5GF, United Kingdom",D,9.87,1.24,9.93,6.17
+415,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Putney Plaza. Detailed address: Grand Tower, 1, Plaza Gardens, Putney Plaza, Putney, London Borough of Wandsworth, London, Greater London, SW15 2DF, United Kingdom
+2. 1 Medici Courtyard. Detailed address: WatchHouse Hanover, 2-3, Medici Courtyard, East Marylebone, Mayfair, London, Greater London, W1S 1BR, United Kingdom",C,5.98,5.3,7.5,4.13
+416,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hot Yoga Brixton. Detailed address: Coldharbour Lane, Brixton, London Borough of Lambeth, London, Greater London, SW9 8GL, United Kingdom
+2. Notes. Detailed address: Bank Street, Canary Wharf, London Borough of Tower Hamlets, London, Greater London, E14 5HL, United Kingdom",C,4.97,14.64,7.9,2.35
+417,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rama Dracula Wine House. Detailed address: 224, High Road Leytonstone, Cann Hall, London Borough of Waltham Forest, London, Greater London, E11 3HU, United Kingdom
+2. Starbucks. Detailed address: Feilden House, Westfield Way, Globe Town, Mile End, London Borough of Tower Hamlets, London, Greater London, E1 4NP, United Kingdom",A,4.48,7.16,2.0,9.45
+418,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Brown Hart Gardens. Detailed address: Mayfair, London, Greater London, W1K 6WP, United Kingdom
+2. Wok to Walk. Detailed address: 129, Baker Street, Marylebone, London, Greater London, W1U 6SA, United Kingdom",B,5.72,1.05,4.12,4.03
+419,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Hour Glass. Detailed address: Beaconsfield Road, Browning Estate, Walworth, London Borough of Southwark, London, Greater London, SE17 2EN, United Kingdom
+2. The Windsor. Detailed address: 2, New London Street, Aldgate, City of London, Greater London, EC3R 7NA, United Kingdom",B,10.45,2.8,8.82,6.37
+420,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hum Yoga. Detailed address: Lyell Street, London City Island, Blackwall, London Borough of Tower Hamlets, London, Greater London, E14 0SZ, United Kingdom
+2. Devotion Coffee Experts. Detailed address: Clapham Junction, London Borough of Wandsworth, London, Greater London, SW11 1UA, United Kingdom",C,21.33,10.32,13.44,8.1
+421,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Capeesh. Detailed address: 4, Pan Peninsula Square, Cubitt Town, Isle of Dogs, London Borough of Tower Hamlets, London, Greater London, E14 9HN, United Kingdom
+2. Chick Chicken. Detailed address: 5A, Clifton Rise, New Cross, London Borough of Lewisham, London, Greater London, SE14 6EP, United Kingdom",A,3.0,10.48,10.15,8.26
+422,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Café de Nata. Detailed address: 209-210, Chalk Farm Road, Chalk Farm, London Borough of Camden, London, Greater London, NW1 8AB, United Kingdom
+2. Curry Hut. Detailed address: Chrisp Street, Poplar, London Borough of Tower Hamlets, London, Greater London, E14 6AQ, United Kingdom",A,9.66,4.72,8.09,11.62
+423,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Good Manners. Detailed address: Grosvenor Avenue, Newington Green, Highbury, London Borough of Islington, London, Greater London, N5 2NL, United Kingdom
+2. Russell Road Playground. Detailed address: Russell Gardens Mews, Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W14 8EU, United Kingdom",D,14.04,11.84,5.1,9.97
+424,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Collingwood Community Centre. Detailed address: Barnsley Street, Globe Town, Bethnal Green, London Borough of Tower Hamlets, London, Greater London, E1 5GF, United Kingdom
+2. The Riverfront pub. Detailed address: BFI Southbank, 1, Charlie Chaplin Walk, South Bank, Waterloo, London Borough of Lambeth, London, Greater London, SE1 8XR, United Kingdom",B,10.42,4.41,9.23,0.5
+425,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Puffin House. Detailed address: 78, Carlton Vale, Queen's Park, London Borough of Brent, London, Greater London, NW6 5GX, United Kingdom
+2. Bush House (North West Wing). Detailed address: 57, Aldwych, St Clement Danes, Holborn, London, Greater London, WC2B 4PJ, United Kingdom",C,2.76,12.97,5.69,10.63
+426,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Art Academy London. Detailed address: 165A, Mermaid Court, Bankside, The Borough, London Borough of Southwark, London, Greater London, SE1 1HR, United Kingdom
+2. Here East North. Detailed address: Waterden Road, East Wick, Hackney Wick, London Borough of Hackney, London, Greater London, E15 2GZ, United Kingdom",C,10.83,12.01,7.03,9.22
+427,"What is the straight-line distance between the following two locations? (Unit is km)
+1. zaffrani. Detailed address: 47, Cross Street, Canonbury, Islington, London Borough of Islington, London, Greater London, N1 2DP, United Kingdom
+2. Lion and Unicorn. Detailed address: 42-44, Gaisford Street, Kentish Town, London Borough of Camden, London, Greater London, NW5 2ED, United Kingdom",C,8.68,10.79,2.8,5.6
+428,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Our Newham Learning & Skills. Detailed address: 1, Woodford Road, Forest Gate, London Borough of Newham, London, Greater London, E7 0DH, United Kingdom
+2. Woburn Place Car Park. Detailed address: Coram Street, Saint Pancras, London Borough of Camden, London, Greater London, WC1N 1HA, United Kingdom",A,10.99,12.71,4.52,18.82
+429,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Brewmaster. Detailed address: Saint Martin's Court, Seven Dials, Bloomsbury, City of Westminster, Greater London, WC2N 4AJ, United Kingdom
+2. London Coffee Bank. Detailed address: 81, Abbey Road, St. John's Wood, London, Greater London, NW8 0AE, United Kingdom",A,4.9,11.95,10.5,8.69
+430,"What is the straight-line distance between the following two locations? (Unit is km)
+1. De Nadas. Detailed address: Rivington Street, Shoreditch, London Borough of Hackney, London, Greater London, EC2A 3QQ, United Kingdom
+2. Viva Afrik. Detailed address: 138, High Road Leytonstone, Cann Hall, London Borough of Waltham Forest, London, Greater London, E15 1UA, United Kingdom",D,9.56,0.89,10.07,6.61
+431,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sushi Katana. Detailed address: Freemasons Road, Canning Town, London Borough of Newham, London, Greater London, E16 3PG, United Kingdom
+2. ubitricity. Detailed address: Albert Gardens, Ratcliffe, Stepney, London Borough of Tower Hamlets, London, Greater London, E1 0LL, United Kingdom",B,8.45,5.04,0.74,6.37
+432,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rosa's Thai Cafe. Detailed address: 77, The Cut, South Bank, Waterloo, London Borough of Lambeth, London, Greater London, SE1 8LL, United Kingdom
+2. Water House. Detailed address: 30-32, Albion Street, Canada Water, Rotherhithe, London Borough of Southwark, London, Greater London, SE16 7JQ, United Kingdom",C,7.98,6.27,3.86,9.84
+433,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Double J's. Detailed address: 333, Euston Road, Fitzrovia, London Borough of Camden, London, Greater London, NW1 3AD, United Kingdom
+2. Enish Africa. Detailed address: Old Kent Road, Peckham, London Borough of Southwark, London, Greater London, SE15 1JB, United Kingdom",C,9.03,9.01,6.94,9.26
+434,"What is the straight-line distance between the following two locations? (Unit is km)
+1. King's Academy. Detailed address: Hinton Road, Loughborough Junction, London Borough of Lambeth, London, Greater London, SW9 8RR, United Kingdom
+2. Le Poisson De Mer Deef. Detailed address: Dulwich Village, London Borough of Southwark, London, Greater London, SE21 7BT, United Kingdom",D,7.07,8.17,5.25,1.94
+435,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mathnasium. Detailed address: 122, Northcote Road, Clapham Junction, London Borough of Wandsworth, London, Greater London, SW11 6QU, United Kingdom
+2. The Prince's School of Traditional Arts. Detailed address: 19-22, Charlotte Road, Shoreditch, London Borough of Hackney, London, Greater London, EC2A 3SG, United Kingdom",A,9.69,2.38,13.44,6.69
+436,"What is the straight-line distance between the following two locations? (Unit is km)
+1. London Hilton on Park Lane. Detailed address: 22, Park Lane, Mayfair, London, Greater London, W1K 1BE, United Kingdom
+2. The Edgar Wallace. Detailed address: 40, Essex Street, St Clement Danes, Holborn, London, Greater London, WC2R 3JF, United Kingdom",C,8.76,5.36,2.69,5.42
+437,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mexfield Road. Detailed address: Wandsworth, London Borough of Wandsworth, London, Greater London, SW15 2RQ, United Kingdom
+2. Rama Dracula Wine House. Detailed address: 224, High Road Leytonstone, Cann Hall, London Borough of Waltham Forest, London, Greater London, E11 3HU, United Kingdom",D,13.14,19.2,15.26,18.06
+438,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Starbucks. Detailed address: Feilden House, Westfield Way, Globe Town, Mile End, London Borough of Tower Hamlets, London, Greater London, E1 4NP, United Kingdom
+2. The Grand. Detailed address: 1, Dover Street, St. James's, Mayfair, London, Greater London, W1S 4NN, United Kingdom",D,8.91,9.82,14.7,7.32
+439,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Côte Brasserie. Detailed address: 47, Kensington Court, South Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W8 5DU, United Kingdom
+2. AudiopleXus Studio. Detailed address: Fairfield Road, Old Ford, Bow, London Borough of Tower Hamlets, London, Greater London, E3 2ZL, United Kingdom",B,17.88,12.17,16.99,15.31
+440,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Royal Foundation of St. Katharine. Detailed address: 2, Butcher Row, Ratcliffe, Limehouse, London Borough of Tower Hamlets, London, Greater London, E14 8DS, United Kingdom
+2. Cleveland Square. Detailed address: Westbourne Green, Paddington, London, Greater London, W2 6DD, United Kingdom",C,3.01,7.35,9.8,13.58
+441,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Constancia. Detailed address: 52, Tanner Street, Bermondsey Village, Old Kent Road, London Borough of Southwark, London, Greater London, SE1 3PH, United Kingdom
+2. Ghion Cafe. Detailed address: North End Road, Walham Green, West Kensington, London Borough of Hammersmith and Fulham, London, Greater London, SW6 1NL, United Kingdom",B,16.74,8.76,14.18,10.53
+442,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Newcommon House. Detailed address: Ingestre Road, Ingestre Road Estate, Tufnell Park, London Borough of Camden, London, Greater London, NW5 1XG, United Kingdom
+2. Cardinal Place. Detailed address: Roof Garden, Cardinal Walk, Cardinal Place, Victoria, London, Greater London, SW1E 5JE, United Kingdom",C,14.43,10.81,6.63,2.02
+443,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Wraps and Wings. Detailed address: 3, West Ham Lane, Stratford, London Borough of Newham, London, Greater London, E15 4PH, United Kingdom
+2. Five Guys. Detailed address: 182, Clapham High Street, Clapham Park, Clapham, London Borough of Lambeth, London, Greater London, SW4 7UG, United Kingdom",B,14.75,13.03,11.84,15.54
+444,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Housing Office. Detailed address: Featley Road, Loughborough Estate, Loughborough Junction, London Borough of Lambeth, London, Greater London, SW9 7LN, United Kingdom
+2. Paveley House. Detailed address: Calshot Street, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, N1 9XH, United Kingdom",D,14.73,2.33,0.66,7.27
+445,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Metro's Dark Kitchen. Detailed address: Brookmill Road, Deptford, London Borough of Lewisham, London, Greater London, SE8 4JJ, United Kingdom
+2. Le Cochonnet. Detailed address: 1, Lauderdale Road, Kensal Town, Maida Vale, London, Greater London, W9 1LU, United Kingdom",B,17.7,13.59,6.48,18.57
+446,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fleet Tandoori. Detailed address: Fleet Road, South End Green, Belsize Park, London Borough of Camden, London, Greater London, NW3 2QH, United Kingdom
+2. The Limes. Detailed address: Putney Heath, Putney, London Borough of Wandsworth, London, Greater London, SW15 3NG, United Kingdom",C,7.66,19.25,11.94,14.8
+447,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Muffin Man Tea Shop. Detailed address: 12, Wrights Lane, Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W8 5SW, United Kingdom
+2. horses. Detailed address: Auckland Street, Kennington Cross, Vauxhall, London Borough of Lambeth, London, Greater London, SE11 5AD, United Kingdom",C,8.37,6.8,5.26,7.77
+448,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Drunken Butler. Detailed address: 20, Rosebery Avenue, Little Italy, Clerkenwell, London Borough of Islington, London, Greater London, EC1R 4TA, United Kingdom
+2. Fatoush. Detailed address: 183, Edgware Road, Paddington, London, Greater London, W2 1ET, United Kingdom",B,8.47,3.99,9.23,11.45
+449,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Zam's chicken. Detailed address: Queen's Crescent, Maitland Park, Gospel Oak, London Borough of Camden, London, Greater London, NW5 4ED, United Kingdom
+2. The Fountain & Ink. Detailed address: 52, Stamford Street, Bankside, The Borough, London Borough of Southwark, London, Greater London, SE1 9LX, United Kingdom",D,11.04,12.2,4.26,5.66
+450,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Roseford Court. Detailed address: 34, Shepherds Bush Green, Shepherd's Bush, London Borough of Hammersmith and Fulham, London, Greater London, W12 8RA, United Kingdom
+2. Brows & Nails HQ. Detailed address: 71, D'Arblay Street, Soho, London, Greater London, W1F 8EG, United Kingdom",A,6.07,14.03,1.89,10.61
+451,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cheshire Street. Detailed address: Dunbridge Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, E2 6GS, United Kingdom
+2. The Gun. Detailed address: 54, Brushfield Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, E1 6AG, United Kingdom",B,6.9,0.95,6.49,3.39
+452,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ria. Detailed address: 75, Baker Street, Marylebone, London, Greater London, W1U 6AT, United Kingdom
+2. Fitaly. Detailed address: 389, Kensington High Street, Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W14 8NL, United Kingdom",D,11.11,7.29,2.15,4.39
+453,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pearfield House. Detailed address: Highbury New Park, Taverner Square, Highbury, London Borough of Islington, London, Greater London, N5 2DG, United Kingdom
+2. Consular Section of Iranian Embassy. Detailed address: 50, Kensington Court, South Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W8 5DB, United Kingdom",C,2.41,12.11,8.56,10.35
+454,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gourmet Oriental. Detailed address: 338, Harrow Road, Westbourne Green, Maida Vale, London, Greater London, W9 3TA, United Kingdom
+2. Patara - Oxford Circus. Detailed address: 3-7, Maddox Street, East Marylebone, Mayfair, London, Greater London, W1S 2QB, United Kingdom",C,6.83,9.06,3.78,11.01
+455,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Lunch Box. Detailed address: 134, Hammersmith Road, Brook Green, London Borough of Hammersmith and Fulham, London, Greater London, W6 8BS, United Kingdom
+2. Score Leisure Centre. Detailed address: 2, Coronation Square, Leyton, London Borough of Waltham Forest, London, Greater London, E10 5UN, United Kingdom",A,15.97,17.86,19.84,19.72
+456,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nipa. Detailed address: Lancaster Terrace, Paddington, London, Greater London, W2 2TY, United Kingdom
+2. Jim & Tonic at The Print House. Detailed address: 133, High Street, Three Mills, Stratford, London Borough of Newham, London, Greater London, E15 2RB, United Kingdom",C,14.26,16.24,11.77,16.81
+457,"What is the straight-line distance between the following two locations? (Unit is km)
+1. King Valley Fried Chicken House. Detailed address: 56, Gibbon Road, Tappesfield Estate, Nunhead, London Borough of Southwark, London, Greater London, SE15 3XE, United Kingdom
+2. The Market Thai. Detailed address: 240A, Portobello Road, Lancaster West Estate, North Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W11 1LL, United Kingdom",C,9.86,5.25,12.14,10.78
+458,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Notes. Detailed address: Bank Street, Canary Wharf, London Borough of Tower Hamlets, London, Greater London, E14 5HL, United Kingdom
+2. Little Ochi. Detailed address: 113, Dulwich Road, Herne Hill, London Borough of Lambeth, London, Greater London, SE24 0NG, United Kingdom",C,9.71,3.78,8.18,1.6
+459,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Frankie's. Detailed address: Fulham Road, Wandon Estate, Fulham, London Borough of Hammersmith and Fulham, London, Greater London, SW6 1HS, United Kingdom
+2. Spianata. Detailed address: 12, Moorfields, Moorgate, London Borough of Islington, City of London, Greater London, EC2M 6XQ, United Kingdom",A,8.22,3.92,4.71,2.74
+460,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Thomas Exchange Global. Detailed address: 23-27, The Arcade, Bishopsgate, City of London, Greater London, EC2M 7QN, United Kingdom
+2. Metro's Dark Kitchen. Detailed address: Brookmill Road, Deptford, London Borough of Lewisham, London, Greater London, SE8 4JJ, United Kingdom",C,5.43,12.49,6.96,12.64
+461,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Waterman's Green. Detailed address: Putney Public Slipway, Putney, London Borough of Wandsworth, London, Greater London, SW15 1EL, United Kingdom
+2. St Quintin Children's Centre. Detailed address: 90, Highlever Road, Silchester Estate, North Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W10 6PN, United Kingdom",D,2.95,1.07,13.7,5.91
+462,"What is the straight-line distance between the following two locations? (Unit is km)
+1. BIT Bourbon Steam Burgers (in Sunday Up Market). Detailed address: Brick Lane, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, E1 6SB, United Kingdom
+2. Quick Stop. Detailed address: 119A, Deptford High Street, Hughesfield Estate, Deptford, London Borough of Lewisham, London, Greater London, SE8 4NS, United Kingdom",C,9.31,11.84,5.71,12.63
+463,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Friendly Society. Detailed address: 79, Wardour Street, Soho, City of Westminster, Greater London, W1D 4JG, United Kingdom
+2. Marugame Udon. Detailed address: Argyll Street, Soho, London, Greater London, W1F 7TB, United Kingdom",C,2.91,5.41,0.53,2.49
+464,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Whale Tea. Detailed address: 5 Continents, 56, The Mall, Stratford New Town, Stratford, London Borough of Newham, London, Greater London, E15 1XE, United Kingdom
+2. Ritchie Street Group Practice. Detailed address: Ritchie Street, Angel, Barnsbury, London Borough of Islington, London, Greater London, N1 0DG, United Kingdom",A,7.5,11.88,13.07,4.26
+465,"What is the straight-line distance between the following two locations? (Unit is km)
+1. KFC. Detailed address: Haverstock Hill, South End Green, Belsize Park, London Borough of Camden, London, Greater London, NW3 4PT, United Kingdom
+2. Kennington Fish Bar. Detailed address: 56, Kennington Park Road, Browning Estate, Elephant and Castle, London Borough of Southwark, London, Greater London, SE11 4RS, United Kingdom",C,5.38,14.43,8.21,11.13
+466,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Borshtch n Tears. Detailed address: 46, Beauchamp Place, Hans Town, Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, SW3 1NQ, United Kingdom
+2. Mudra Yoga. Detailed address: Shelford Place, Brownswood Park, Stoke Newington, London Borough of Hackney, London, Greater London, N16 9HS, United Kingdom",A,8.7,3.68,5.51,1.08
+467,"What is the straight-line distance between the following two locations? (Unit is km)
+1. SWP. Detailed address: King Street, Canning Town, London Borough of Newham, London, Greater London, E13 8DB, United Kingdom
+2. Imperial Cinema. Detailed address: Exhibition Road, Brompton, Royal Borough of Kensington and Chelsea, London, Greater London, SW7 2AZ, United Kingdom",C,6.52,9.84,13.89,10.54
+468,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chick Chicken. Detailed address: 5A, Clifton Rise, New Cross, London Borough of Lewisham, London, Greater London, SE14 6EP, United Kingdom
+2. CBC Radio Canada. Detailed address: 43-51, Little Titchfield Street, East Marylebone, Fitzrovia, Camden Town, City of Westminster, Greater London, W1W 7BY, United Kingdom",B,15.17,8.6,5.61,2.48
+469,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bistro Union. Detailed address: Narbonne Avenue, Abbeville Village, Clapham, London Borough of Lambeth, London, Greater London, SW4 9LQ, United Kingdom
+2. Save The Date. Detailed address: Abbot Street, Dalston, London Borough of Hackney, London, Greater London, E8 3DP, United Kingdom",C,6.51,7.29,11.29,17.84
+470,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dillons. Detailed address: 82, Gower Street, Saint Giles, Bloomsbury, London Borough of Camden, London, Greater London, WC1E 6EG, United Kingdom
+2. Vital Ingredient. Detailed address: 25, Old Broad Street, Bishopsgate, City of London, Greater London, EC2N 1HQ, United Kingdom",A,3.48,11.06,6.36,10.67
+471,"What is the straight-line distance between the following two locations? (Unit is km)
+1. PureGym. Detailed address: 84, Theobalds Road, Gray's Inn, Holborn, London Borough of Camden, London, Greater London, WC1X 8RW, United Kingdom
+2. Clockwork Private Health Centre. Detailed address: Narrow Kitchen, 396, Mare Street, Lower Clapton, Hackney, London Borough of Hackney, London, Greater London, E8 1HP, United Kingdom",C,6.66,2.57,5.4,11.69
+472,"What is the straight-line distance between the following two locations? (Unit is km)
+1. One Tree Hill allotments. Detailed address: Honor Oak Park, Crofton Park, Honor Oak, London Borough of Lewisham, London, Greater London, SE23 3LB, United Kingdom
+2. Honeywell Schools. Detailed address: Honeywell Junior School, Honeywell Road, Clapham Junction, London Borough of Wandsworth, London, Greater London, SW11 6EF, United Kingdom",A,7.91,9.46,2.33,2.25
+473,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Vox Arms. Detailed address: Voxonica, Drysdale Street, Shoreditch, London Borough of Hackney, London, Greater London, E2 8AF, United Kingdom
+2. Quadrato Restaurant. Detailed address: 46, Westferry Circus, Canary Wharf, London Borough of Tower Hamlets, London, Greater London, E14 8RS, United Kingdom",B,2.26,4.23,2.6,1.38
+474,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Britannia Pharmacy. Detailed address: 151, East Ferry Road, Cubitt Town, Isle of Dogs, London Borough of Tower Hamlets, London, Greater London, E14 3BT, United Kingdom
+2. Raj of Kensington. Detailed address: 1, Abingdon Road, Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, W8 6AH, United Kingdom",D,6.36,5.51,14.76,12.84

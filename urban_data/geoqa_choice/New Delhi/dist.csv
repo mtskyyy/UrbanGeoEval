@@ -1,0 +1,449 @@
+id,question,answer,A,B,C,D
+0,"What is the distance between ""St. Paul's School"" and ""World Trade Centre"" in the New Delhi area?",B,5.65,2.27,5.4,0.68
+1,"What is the distance between ""Red Rose Public School"" and ""Inter University Accelerator Centre"" in the New Delhi area?",A,3.79,11.39,2.72,9.39
+2,"What is the distance between ""Sanjay Van gate (near IIFT)"" and ""Baskin-Robbins"" in the New Delhi area?",C,10.94,12.86,5.54,3.85
+3,"What is the distance between ""Adyar Ananda Bhavan"" and ""Krissh Travel World"" in the New Delhi area?",C,12.5,3.48,5.21,6.95
+4,"What is the distance between ""Puducherry House"" and ""DDA Park"" in the New Delhi area?",C,15.66,4.31,9.07,13.26
+5,"What is the distance between ""India Gate Fountain"" and ""Hawkerz Boxx"" in the New Delhi area?",D,2.72,14.85,11.72,7.64
+6,"What is the distance between ""DDA Park"" and ""Chacha Nehru Bhavan"" in the New Delhi area?",B,6.56,3.74,1.22,9.19
+7,"What is the distance between ""Om bhojanalaya"" and ""Yes Bank"" in the New Delhi area?",C,11.39,6.19,4.49,7.78
+8,"What is the distance between ""Igniter Cafe"" and ""Ritu Medicos"" in the New Delhi area?",D,1.92,5.13,6.44,8.96
+9,"What is the distance between ""Domino's"" and ""NG Pharmacy"" in the New Delhi area?",A,5.2,8.35,9.74,1.83
+10,"What is the distance between ""ICICI Bank"" and ""Auro"" in the New Delhi area?",C,10.41,11.2,3.41,2.46
+11,"What is the distance between ""police colony park"" and ""Champa Park"" in the New Delhi area?",B,10.42,7.86,4.19,5.75
+12,"What is the distance between ""St. Pauls Church"" and ""Green Field School"" in the New Delhi area?",C,16.2,11.75,9.78,15.29
+13,"What is the distance between ""Sarvodaya Enclave Park"" and ""Shopping Complex"" in the New Delhi area?",D,10.9,8.43,13.1,7.23
+14,"What is the distance between ""RBL Bank"" and ""Jangid Brahaman Temple"" in the New Delhi area?",B,3.04,1.71,8.53,6.9
+15,"What is the distance between ""NCUI Auditorium"" and ""sabarmati dhaba"" in the New Delhi area?",D,2.48,11.46,3.25,4.66
+16,"What is the distance between ""Haldiram's"" and ""Pasta Town"" in the New Delhi area?",A,8.83,2.1,3.38,5.01
+17,"What is the distance between ""Netaji Nagar Post Office"" and ""NIHFW Munirka"" in the New Delhi area?",D,3.85,1.39,5.85,2.82
+18,"What is the distance between ""The Mother's International School"" and ""Gargi College"" in the New Delhi area?",B,5.22,2.23,7.93,0.85
+19,"What is the distance between ""Capital Taxi Service"" and ""Amar Tourist Taxi Service"" in the New Delhi area?",B,1.32,6.84,12.23,8.8
+20,"What is the distance between ""Markazi Masjid"" and ""Cafe Coffee Day"" in the New Delhi area?",B,2.44,6.68,9.07,2.84
+21,"What is the distance between ""Ram Yantra"" and ""Presidential Estate"" in the New Delhi area?",C,6.02,0.95,2.38,8.75
+22,"What is the distance between ""Metro Hospital and Heart Institute"" and ""Preet Medicos"" in the New Delhi area?",C,0.74,7.24,1.94,9.21
+23,"What is the distance between ""RPS Sheikh Sarai Park"" and ""Deputy Director of Education"" in the New Delhi area?",C,1.09,6.1,3.5,8.79
+24,"What is the distance between ""Vasant Vihar District Park"" and ""Shaheed Bhagat Singh Park"" in the New Delhi area?",B,1.79,7.94,0.54,4.52
+25,"What is the distance between ""Indian Agricultural Research Institute"" and ""Main Building"" in the New Delhi area?",C,7.02,14.02,10.68,7.76
+26,"What is the distance between ""Shree Adya Katyayani Shaktipeeth Mandir"" and ""N Block Market"" in the New Delhi area?",B,11.24,7.92,4.86,2.86
+27,"What is the distance between ""Food Court!"" and ""Dalchini"" in the New Delhi area?",B,10.13,2.94,5.62,10.76
+28,"What is the distance between ""The Dental Clinic"" and ""Studio Khirki"" in the New Delhi area?",A,2.0,6.83,9.89,5.48
+29,"What is the distance between ""Dunkin'"" and ""The Beer Cafe"" in the New Delhi area?",A,9.47,16.57,13.59,10.45
+30,"What is the distance between ""Ratna Nursery"" and ""Zumrudpur Market"" in the New Delhi area?",B,10.59,3.11,7.59,10.45
+31,"What is the distance between ""Shopping Complex"" and ""Mother Dairy"" in the New Delhi area?",D,7.8,0.51,0.95,3.89
+32,"What is the distance between ""School of social sciences 1"" and ""Electric Substation"" in the New Delhi area?",A,1.85,4.9,9.15,4.05
+33,"What is the distance between ""NIC"" and ""Canara Bank"" in the New Delhi area?",B,0.95,6.86,2.44,9.95
+34,"What is the distance between ""Yes Bank & ATM"" and ""Four Directions"" in the New Delhi area?",C,6.5,8.95,4.36,2.99
+35,"What is the distance between ""Preet Medicos"" and ""Nescafe"" in the New Delhi area?",A,4.13,1.04,9.78,5.81
+36,"What is the distance between ""Konfidential"" and ""KFC"" in the New Delhi area?",A,5.15,10.85,2.63,12.88
+37,"What is the distance between ""D-8 Park"" and ""Masala Mix"" in the New Delhi area?",D,9.6,11.31,3.39,4.58
+38,"What is the distance between ""High Commission of the Republic of Namibia"" and ""E Block Market, DDA Munirka"" in the New Delhi area?",A,2.05,3.41,0.96,4.04
+39,"What is the distance between ""Wow! Momo"" and ""The Clay Oven Restaurant"" in the New Delhi area?",D,4.87,8.39,6.17,1.08
+40,"What is the distance between ""Dharam Marg Dispensary Complex"" and ""House Of Senco (Festive Edit)"" in the New Delhi area?",A,6.15,11.26,2.79,2.75
+41,"What is the distance between ""Electric Substation"" and ""Block 23"" in the New Delhi area?",D,10.84,1.04,1.14,5.52
+42,"What is the distance between ""Raja Ram Market"" and ""Baby Doux"" in the New Delhi area?",A,11.3,5.98,8.84,17.85
+43,"What is the distance between ""Baskin-Robbins"" and ""Mahadev Food Corner"" in the New Delhi area?",C,4.87,10.02,8.63,6.47
+44,"What is the distance between ""Palm Trees Park in L Block Lajoat Nagar 3"" and ""CB block"" in the New Delhi area?",A,6.58,11.52,9.93,4.95
+45,"What is the distance between ""ABN Travels & Forex"" and ""Medeor Hospital"" in the New Delhi area?",D,9.18,5.67,0.69,2.87
+46,"What is the distance between ""Naval Officers Mess"" and ""Dharam Marg Dispensary Complex"" in the New Delhi area?",D,13.51,10.16,9.68,5.99
+47,"What is the distance between ""Barista"" and ""Shri Narayan Mandir"" in the New Delhi area?",A,4.49,12.22,10.49,3.03
+48,"What is the distance between ""Presidential Estate"" and ""Bharat Sevak Samaj Public School"" in the New Delhi area?",C,2.96,3.07,4.19,5.28
+49,"What is the distance between ""Indian Oil"" and ""Sethi's Grill"" in the New Delhi area?",A,0.92,2.11,4.25,3.54
+50,"What is the distance between ""Gupta Market"" and ""Getafix"" in the New Delhi area?",B,3.03,1.31,8.74,3.42
+51,"What is the distance between ""Jangid Brahaman Temple"" and ""Kiko-bā"" in the New Delhi area?",C,4.98,6.85,3.89,2.82
+52,"What is the distance between ""Department of Management Studies"" and ""Dr Lal Path Labs"" in the New Delhi area?",A,6.85,3.1,10.55,4.21
+53,"What is the distance between ""Street Food Park"" and ""Giani Ice Cream"" in the New Delhi area?",B,10.36,2.57,10.19,7.03
+54,"What is the distance between ""Bhartishreepeetham Sarveshwar Temple"" and ""Institute of Brain and Spine"" in the New Delhi area?",B,8.05,10.09,7.57,16.55
+55,"What is the distance between ""Picnic hut Ground"" and ""College of Nursing"" in the New Delhi area?",B,16.81,12.55,4.92,17.46
+56,"What is the distance between ""Project Monitoring Group"" and ""इस्लामिया केंद्र भारत"" in the New Delhi area?",C,4.75,5.84,2.21,0.79
+57,"What is the distance between ""Delhi Orthodox Centre"" and ""Sanjeevani Enclave"" in the New Delhi area?",D,7.65,16.93,19.25,15.25
+58,"What is the distance between ""Saket Cultural Club"" and ""Kathak Kendra"" in the New Delhi area?",C,4.05,3.1,8.48,2.04
+59,"What is the distance between ""Shri Shri Satyanarayan Mandir"" and ""Saint Mary's Junior School"" in the New Delhi area?",D,6.5,1.24,10.07,3.85
+60,"What is the distance between ""South Indian Fast Food"" and ""Big Yellow Door"" in the New Delhi area?",C,12.05,4.01,7.35,3.19
+61,"What is the distance between ""Jindal Dental Care"" and ""Sanjay Van gate (near IIFT)"" in the New Delhi area?",A,5.18,7.23,7.37,10.01
+62,"What is the distance between ""Agarwal Sweets"" and ""All American Diner"" in the New Delhi area?",B,1.32,9.24,11.51,2.2
+63,"What is the distance between ""Institute of Brain and Spine"" and ""Cultured"" in the New Delhi area?",D,1.76,12.08,11.17,4.94
+64,"What is the distance between ""Department of Textile Technology"" and ""Shri Gopi Kutir"" in the New Delhi area?",C,10.06,7.96,4.75,11.56
+65,"What is the distance between ""AKU’s The Brrgrr Co."" and ""Shri Kamal Medicos"" in the New Delhi area?",A,5.85,0.69,8.4,7.88
+66,"What is the distance between ""Malviya Nagar, Main Market"" and ""Dargah Hazrat Khwaja"" in the New Delhi area?",C,10.73,9.03,7.11,9.03
+67,"What is the distance between ""Akshara"" and ""Laidback Cafe"" in the New Delhi area?",C,13.02,17.73,10.97,4.02
+68,"What is the distance between ""Sunder Niwas"" and ""National Handicrafts Museum"" in the New Delhi area?",A,6.92,14.73,10.09,2.76
+69,"What is the distance between ""Ryan International School"" and ""Ethiopian Cultural Centre"" in the New Delhi area?",C,9.53,14.12,7.4,4.69
+70,"What is the distance between ""Egg Shell Roundabout"" and ""Gulabi Shiv Mandir"" in the New Delhi area?",D,4.36,7.09,4.66,1.58
+71,"What is the distance between ""Dhaula Kuan Service Station"" and ""Pragati Maidan"" in the New Delhi area?",D,5.61,11.25,7.36,8.94
+72,"What is the distance between ""Woodhouse Café"" and ""Jai Shri Krishna"" in the New Delhi area?",D,4.39,9.29,5.01,1.92
+73,"What is the distance between ""Blue Frog"" and ""Markazi Masjid"" in the New Delhi area?",A,9.1,5.84,10.98,15.13
+74,"What is the distance between ""momo shop"" and ""Dentistry Redefined"" in the New Delhi area?",B,12.47,4.95,4.0,0.73
+75,"What is the distance between ""Panchsheel Enclave Post Office"" and ""Ashirbad Snacks Corner"" in the New Delhi area?",A,1.51,9.32,5.14,3.93
+76,"What is the distance between ""Chhatarpur Mandir"" and ""The Heaven Box"" in the New Delhi area?",D,12.54,12.38,10.71,5.91
+77,"What is the distance between ""Burger Singh"" and ""Afghan Restaurant"" in the New Delhi area?",A,0.77,6.45,2.77,7.04
+78,"What is the distance between ""Alliance Francaise"" and ""Kendriya Vidyalaya, RK Puram Sector-4"" in the New Delhi area?",A,5.52,3.73,6.97,13.06
+79,"What is the distance between ""Buddha Jayanti Park"" and ""Apostolic Nunciature"" in the New Delhi area?",D,5.71,5.56,5.02,2.42
+80,"What is the distance between ""Apollo Pharmacy"" and ""Zingo Star"" in the New Delhi area?",A,4.75,8.27,7.97,2.99
+81,"What is the distance between ""Imperfecto"" and ""Naval Officers Mess"" in the New Delhi area?",B,8.67,5.84,10.63,10.98
+82,"What is the distance between ""Getafix"" and ""Gangsta Pizzeria"" in the New Delhi area?",B,9.41,4.53,0.55,10.71
+83,"What is the distance between ""Om Sri Sai Snacks"" and ""CGHS Wellness Centre Lodhi Road II"" in the New Delhi area?",B,6.53,5.43,9.43,3.26
+84,"What is the distance between ""Netaji Nagar Allopathic Dispensary"" and ""Burger King"" in the New Delhi area?",A,0.73,3.38,4.14,4.9
+85,"What is the distance between ""Brahma Kumaris"" and ""India Gate Fountain"" in the New Delhi area?",A,8.7,11.65,0.79,16.05
+86,"What is the distance between ""Embassy of Switzerland"" and ""Sultan Garhi Tomb"" in the New Delhi area?",D,6.03,7.03,2.34,8.45
+87,"What is the distance between ""Thakur Vatika"" and ""NBCC plaza"" in the New Delhi area?",A,0.98,6.11,2.8,7.29
+88,"What is the distance between ""Flavours Restaurant"" and ""Smokeys"" in the New Delhi area?",B,10.02,3.85,1.56,11.07
+89,"What is the distance between ""FITSO Swimming Pool"" and ""Army Research and Referral Hospital"" in the New Delhi area?",A,3.62,7.01,9.01,7.73
+90,"What is the distance between ""Synergy Building"" and ""Igniter Cafe"" in the New Delhi area?",C,10.32,8.92,5.43,1.4
+91,"What is the distance between ""The Centenary Methodist Church"" and ""Picnic hut Ground"" in the New Delhi area?",B,16.95,10.48,14.52,17.95
+92,"What is the distance between ""South Campus Police Station"" and ""Punjab National Bank"" in the New Delhi area?",B,8.8,2.66,3.78,10.33
+93,"What is the distance between ""Mom Hand Momos"" and ""Himachal Bhawan Dining Hall"" in the New Delhi area?",C,2.92,5.38,7.6,8.73
+94,"What is the distance between ""Arpan Hospital"" and ""Veterinary Hospital Moti Bagh"" in the New Delhi area?",B,7.35,9.57,12.99,13.5
+95,"What is the distance between ""Sultan Garhi Tomb"" and ""Department of Textile Technology"" in the New Delhi area?",D,4.07,10.7,10.58,5.66
+96,"What is the distance between ""Gargi College"" and ""Thakur Vatika"" in the New Delhi area?",D,11.35,0.84,5.61,3.69
+97,"What is the distance between ""Kochar Enterprises Money Changer"" and ""Moktoo"" in the New Delhi area?",B,2.63,1.65,6.98,7.27
+98,"What is the distance between ""Federation of Indian Chambers of Commerce and Industry Federation House"" and ""Ganga Dhaba"" in the New Delhi area?",A,10.62,4.33,17.64,7.78
+99,"What is the distance between ""Kiko-bā"" and ""Welcome Point"" in the New Delhi area?",D,8.36,5.63,5.21,2.95
+100,"What is the distance between ""Kartar Singh Market"" and ""Begum Zaidi Market Moti Bagh - North Facing"" in the New Delhi area?",D,2.4,8.38,2.35,3.37
+101,"What is the distance between ""CGHS, Malviya Nagar"" and ""Tumble House"" in the New Delhi area?",A,3.98,7.11,1.96,6.16
+102,"What is the distance between ""CRPF Saurya Mess"" and ""Hauz Khas Madrasa North Wing"" in the New Delhi area?",B,3.51,4.77,10.65,6.21
+103,"What is the distance between ""IIT - Block I"" and ""Konfidential"" in the New Delhi area?",B,12.37,4.81,3.71,3.57
+104,"What is the distance between ""M.C.W. Center, NDMC Dispensary, Sarojini Nagar"" and ""Big B's"" in the New Delhi area?",A,4.26,9.07,9.32,1.05
+105,"What is the distance between ""Anna Dosa Point"" and ""Kutty's"" in the New Delhi area?",B,7.87,6.18,12.65,3.95
+106,"What is the distance between ""What A Comic Show!"" and ""QD All Day Diner"" in the New Delhi area?",A,9.43,2.3,17.25,13.07
+107,"What is the distance between ""IndusInd Bank"" and ""Yana Medicos"" in the New Delhi area?",B,7.1,5.49,3.2,1.74
+108,"What is the distance between ""BADMINTON COURT"" and ""AK Clinics"" in the New Delhi area?",C,10.93,12.06,7.23,2.55
+109,"What is the distance between ""Ice Bakery"" and ""Fuchi: Chinese, Tibetan and Nepali food"" in the New Delhi area?",D,0.73,4.22,5.03,1.92
+110,"What is the distance between ""CB block"" and ""Hauz Khas Medresse Mosque"" in the New Delhi area?",B,5.97,2.63,1.26,4.54
+111,"What is the distance between ""Sukhmani Hospital"" and ""PVR Saket"" in the New Delhi area?",C,1.57,8.92,4.04,2.36
+112,"What is the distance between ""Fire Station"" and ""Cafe 27 Rooftop Bar"" in the New Delhi area?",A,5.77,7.04,7.02,13.33
+113,"What is the distance between ""Bloom Café & Cakery"" and ""MAAC"" in the New Delhi area?",C,11.37,0.63,3.5,6.67
+114,"What is the distance between ""Sethi's Grill"" and ""Park with swings in J Block Lajpat Nagar 3"" in the New Delhi area?",A,4.81,3.43,1.8,3.48
+115,"What is the distance between ""Cafe Mitro"" and ""Chocolateria San Churro"" in the New Delhi area?",A,9.49,10.98,3.47,2.6
+116,"What is the distance between ""Central Bank of India"" and ""Tea Moments"" in the New Delhi area?",A,6.87,5.57,1.0,10.86
+117,"What is the distance between ""Southy"" and ""Healthskool Pharmacy"" in the New Delhi area?",B,3.43,1.64,6.69,3.64
+118,"What is the distance between ""SBM Toilets"" and ""Depaul's"" in the New Delhi area?",C,9.39,8.18,7.18,8.88
+119,"What is the distance between ""Olympia Gym"" and ""Alliance Francaise"" in the New Delhi area?",B,2.65,7.44,13.95,2.12
+120,"What is the distance between ""Sparsh Homeopathic Clinic"" and ""Sista’s"" in the New Delhi area?",B,7.92,9.18,16.28,15.39
+121,"What is the distance between ""Crysta IVF Fertility Center"" and ""ccd"" in the New Delhi area?",B,8.42,7.27,3.48,12.04
+122,"What is the distance between ""Nescafé"" and ""CGHS Dispensary Lodhi Road Aliganj"" in the New Delhi area?",A,3.04,9.73,5.48,6.99
+123,"What is the distance between ""Medicine House"" and ""Nirmal Medical Centre"" in the New Delhi area?",C,9.78,6.66,8.68,15.06
+124,"What is the distance between ""Zaika Muradabadi"" and ""Dr Choudary Pet Clinic"" in the New Delhi area?",B,3.64,8.02,12.57,0.85
+125,"What is the distance between ""Shri Krishna Medicos"" and ""Akshay Medicos"" in the New Delhi area?",B,1.1,2.58,8.85,4.67
+126,"What is the distance between ""Sarathi South Indian Family restaurant"" and ""The Dental Clinic"" in the New Delhi area?",C,12.36,12.55,5.31,10.85
+127,"What is the distance between ""Maanmati Polyclinic"" and ""Ecom Express"" in the New Delhi area?",A,4.89,6.93,8.12,11.08
+128,"What is the distance between ""The Helpline Pharmacy"" and ""NIC"" in the New Delhi area?",D,9.71,4.66,13.44,7.15
+129,"What is the distance between ""Bank of India"" and ""Sanjay clinic "" in the New Delhi area?",A,6.44,10.28,10.06,11.03
+130,"What is the distance between ""Mahadev Food Corner"" and ""Neethi Medical Store"" in the New Delhi area?",B,16.34,11.1,15.03,8.81
+131,"What is the distance between ""The Pinnacle School"" and ""Woodhouse Café"" in the New Delhi area?",C,9.92,4.17,2.04,6.25
+132,"What is the distance between ""Himachal Bhawan Dining Hall"" and ""South Indian Fast Food"" in the New Delhi area?",D,6.88,5.33,2.61,10.29
+133,"What is the distance between ""Arya Samaj Mandir"" and ""Guardian Dental"" in the New Delhi area?",D,3.49,1.47,12.4,4.61
+134,"What is the distance between ""Andhra Bank"" and ""Sulabh Toilet Complex"" in the New Delhi area?",C,5.42,8.24,6.78,12.66
+135,"What is the distance between ""Social"" and ""National Institute of TB and Respiratory Diseases"" in the New Delhi area?",D,8.04,8.35,0.79,2.84
+136,"What is the distance between ""Anmol Multispeciality Polyclinic and Diagnostic Center"" and ""The For'Est"" in the New Delhi area?",B,13.87,6.72,3.49,1.07
+137,"What is the distance between ""Masala Mix"" and ""Dunkin'"" in the New Delhi area?",A,4.24,6.91,1.78,7.22
+138,"What is the distance between ""Ashirbad Snacks Corner"" and ""NCUI Auditorium"" in the New Delhi area?",A,3.4,4.72,7.77,0.77
+139,"What is the distance between ""Bhogal Buddha Vihar"" and ""CRPF Saurya Mess"" in the New Delhi area?",B,15.8,10.7,9.06,6.54
+140,"What is the distance between ""Mirambika"" and ""Panchsheel Club"" in the New Delhi area?",A,0.78,8.32,1.99,1.99
+141,"What is the distance between ""The Clay Oven Restaurant"" and ""Rosewalk - Premium Birthing, Feminine care"" in the New Delhi area?",A,1.67,4.37,9.14,9.32
+142,"What is the distance between ""Pragati Maidan"" and ""Supreme Court Metro Station"" in the New Delhi area?",B,6.57,0.74,2.43,6.6
+143,"What is the distance between ""SodaBottleOpenerWala"" and ""Gupta Market"" in the New Delhi area?",A,4.14,2.5,2.86,7.46
+144,"What is the distance between ""Toxic"" and ""Havmor"" in the New Delhi area?",B,5.81,3.0,6.62,9.79
+145,"What is the distance between ""College of Nursing"" and ""Embassy of Uzbekistan"" in the New Delhi area?",A,4.41,5.92,9.84,6.78
+146,"What is the distance between ""Kidwai Bhuvan"" and ""Maanmati Polyclinic"" in the New Delhi area?",D,11.46,1.36,2.55,7.41
+147,"What is the distance between ""Moets"" and ""very good restaurant and no expensive"" in the New Delhi area?",B,15.53,10.25,7.62,15.88
+148,"What is the distance between ""Kendriya Vidyalaya, RK Puram, Sector-2"" and ""Prakash Deep"" in the New Delhi area?",A,8.16,12.13,0.78,12.39
+149,"What is the distance between ""Shri Narayan Mandir"" and ""Subway"" in the New Delhi area?",C,5.5,5.62,0.99,4.86
+150,"What is the distance between ""Big Yellow Door"" and ""D-8 Park"" in the New Delhi area?",C,2.96,5.19,6.88,12.53
+151,"What is the distance between ""DGD Sangam Vihar D Block"" and ""Play Area in Children's(Chaudhary) Park"" in the New Delhi area?",C,6.08,1.53,7.41,2.23
+152,"What is the distance between ""Guru Nanak Institute for comparative Study for region"" and ""D 6 Park"" in the New Delhi area?",B,11.74,3.81,1.11,2.25
+153,"What is the distance between ""Havmor"" and ""Wafflesome"" in the New Delhi area?",A,2.89,6.53,8.73,1.77
+154,"What is the distance between ""Embassy of Uzbekistan"" and ""Ratna Nursery"" in the New Delhi area?",B,13.41,6.42,4.39,4.68
+155,"What is the distance between ""Potenza"" and ""Shri Krishna Medicos"" in the New Delhi area?",B,11.53,6.11,9.66,0.71
+156,"What is the distance between ""Gurudwara Moti Bagh Sahib"" and ""Shri Sankatmochan Hanuman Mandir"" in the New Delhi area?",C,9.66,2.87,6.75,1.99
+157,"What is the distance between ""The For'Est"" and ""Axis Bank"" in the New Delhi area?",B,12.2,9.08,13.06,6.09
+158,"What is the distance between ""Noble High School"" and ""Sukhmani Hospital"" in the New Delhi area?",A,2.48,6.08,9.19,7.36
+159,"What is the distance between ""Parliament Visitor Parking"" and ""Malviya Nagar, Main Market"" in the New Delhi area?",D,10.18,7.58,1.66,8.82
+160,"What is the distance between ""Visitors' parking"" and ""High Commission of Australia"" in the New Delhi area?",C,4.0,10.21,6.19,11.96
+161,"What is the distance between ""Green Chick Chop"" and ""Bhagwan Das Nursery"" in the New Delhi area?",C,11.95,6.29,8.71,15.19
+162,"What is the distance between ""Jose Martin Sarvodya Vidyalya"" and ""Sorento"" in the New Delhi area?",C,13.2,4.51,6.75,10.9
+163,"What is the distance between ""President Estate Clinic"" and ""Money Changer"" in the New Delhi area?",A,2.44,4.45,8.76,4.15
+164,"What is the distance between ""Gendox Hospital"" and ""Apollo Pharmacy"" in the New Delhi area?",A,9.08,3.17,2.08,2.58
+165,"What is the distance between ""Punjab National Bank"" and ""JSMK Clinic"" in the New Delhi area?",C,11.05,14.14,6.36,14.21
+166,"What is the distance between ""Depaul's"" and ""Potenza"" in the New Delhi area?",C,12.78,8.74,7.84,9.43
+167,"What is the distance between ""Jamun Wala Park"" and ""Shree Adya Katyayani Shaktipeeth Mandir"" in the New Delhi area?",D,11.43,1.56,1.49,4.76
+168,"What is the distance between ""MCD Parking"" and ""Hindustan Petroleum"" in the New Delhi area?",D,7.47,1.58,6.5,8.44
+169,"What is the distance between ""Coffee Spot"" and ""Theatre Kunzum 1"" in the New Delhi area?",B,8.02,4.81,12.56,12.35
+170,"What is the distance between ""Keventers"" and ""BSF Hospital"" in the New Delhi area?",B,1.32,2.89,1.37,7.5
+171,"What is the distance between ""Shri Sankatmochan Hanuman Mandir"" and ""AKU’s The Brrgrr Co."" in the New Delhi area?",D,10.5,3.37,2.57,4.31
+172,"What is the distance between ""Kathi Roll Corner 44"" and ""Bahumukh"" in the New Delhi area?",D,7.06,13.6,8.06,6.09
+173,"What is the distance between ""Shiv Mandir"" and ""Brahma Kumaris"" in the New Delhi area?",C,10.29,8.39,4.43,2.07
+174,"What is the distance between ""Corporation Bank"" and ""Domino's"" in the New Delhi area?",B,13.32,5.51,13.44,7.07
+175,"What is the distance between ""Biriyani"" and ""Street Food Park"" in the New Delhi area?",C,6.07,1.64,2.59,0.59
+176,"What is the distance between ""Pasta Town"" and ""Shri Durga Mandir"" in the New Delhi area?",B,9.0,5.8,10.62,11.96
+177,"What is the distance between ""Batra Medicos"" and ""HP"" in the New Delhi area?",C,10.9,1.07,8.15,9.55
+178,"What is the distance between ""Nawaab's Kitchen"" and ""Berco's"" in the New Delhi area?",B,6.03,3.08,4.34,5.18
+179,"What is the distance between ""बांग्लादेश का उच्चायोग"" and ""Palm Trees Park in L Block Lajoat Nagar 3"" in the New Delhi area?",D,13.79,4.28,3.84,7.09
+180,"What is the distance between ""National Museum"" and ""The Mother's International School"" in the New Delhi area?",A,8.09,13.05,12.32,13.5
+181,"What is the distance between ""Dills Chawla Chik-Inn"" and ""Gurudwara Moti Bagh Sahib"" in the New Delhi area?",A,7.42,6.42,13.5,2.6
+182,"What is the distance between ""Healthskool Pharmacy"" and ""Synergy Building"" in the New Delhi area?",D,9.95,3.28,8.32,2.27
+183,"What is the distance between ""Sri Raghavendra Swamy Math"" and ""California Burrito"" in the New Delhi area?",D,0.75,13.67,1.13,7.17
+184,"What is the distance between ""Robotics Training and Workshop"" and ""Blue Tokai Cafe"" in the New Delhi area?",A,4.15,1.24,7.21,5.31
+185,"What is the distance between ""Chocolateria San Churro"" and ""Om bhojanalaya"" in the New Delhi area?",A,2.59,10.34,3.75,4.83
+186,"What is the distance between ""KC Restaurant"" and ""health care medicos"" in the New Delhi area?",A,7.59,13.81,9.99,3.23
+187,"What is the distance between ""House Of Senco (Festive Edit)"" and ""Peeja"" in the New Delhi area?",B,14.94,7.0,10.78,1.3
+188,"What is the distance between ""juST aPanchsheel Park Hotel"" and ""National Museum"" in the New Delhi area?",A,7.72,10.03,6.48,6.43
+189,"What is the distance between ""Meeting Point Park"" and ""St. Paul's School"" in the New Delhi area?",A,4.95,1.73,6.55,2.01
+190,"What is the distance between ""Wafflesome"" and ""Raja Ram Market"" in the New Delhi area?",C,9.69,10.46,7.89,4.94
+191,"What is the distance between ""Rosewalk - Premium Birthing, Feminine care"" and ""Jai Baba Ki"" in the New Delhi area?",C,6.06,4.56,1.3,7.39
+192,"What is the distance between ""Rustic Cafe"" and ""CGHS, Malviya Nagar"" in the New Delhi area?",D,10.66,11.23,1.93,7.37
+193,"What is the distance between ""Big B's"" and ""Safdarjung Hospital"" in the New Delhi area?",D,1.47,1.87,9.77,6.27
+194,"What is the distance between ""Blue Tokai Cafe"" and ""AIIMS Urban Health Centre"" in the New Delhi area?",C,12.11,1.73,4.82,7.94
+195,"What is the distance between ""Bharat Petroleum"" and ""M.C.W. Center, NDMC Dispensary, Sarojini Nagar"" in the New Delhi area?",A,2.36,5.03,6.86,3.89
+196,"What is the distance between ""Inter University Accelerator Centre"" and ""Sunder Niwas"" in the New Delhi area?",B,14.73,7.16,10.05,9.72
+197,"What is the distance between ""Guppy"" and ""Fire Station"" in the New Delhi area?",A,4.26,8.35,5.82,8.6
+198,"What is the distance between ""Morellos"" and ""Aka Gaka"" in the New Delhi area?",C,9.15,1.78,6.84,0.91
+199,"What is the distance between ""High Commission of Australia"" and ""School of social sciences 1"" in the New Delhi area?",A,6.61,13.18,10.54,3.13
+200,"What is the distance between ""Money Changer"" and ""Om Sri Sai Snacks"" in the New Delhi area?",C,13.17,3.22,8.3,13.37
+201,"What is the distance between ""Chowringhee"" and ""Bhatnagar International School"" in the New Delhi area?",A,6.65,11.59,2.11,12.14
+202,"What is the distance between ""Fuchi: Chinese, Tibetan and Nepali food"" and ""Capital Taxi Service"" in the New Delhi area?",D,4.17,10.52,4.5,6.08
+203,"What is the distance between ""Talkatora Stadium"" and ""Jamun Wala Park"" in the New Delhi area?",D,14.61,6.62,3.08,10.49
+204,"What is the distance between ""State Bank of India"" and ""Pizza Hut"" in the New Delhi area?",B,13.65,6.82,12.37,9.7
+205,"What is the distance between ""Park with swings in J Block Lajpat Nagar 3"" and ""Biriyani"" in the New Delhi area?",A,4.31,7.6,7.85,6.14
+206,"What is the distance between ""Bahumukh"" and ""Indian Oil"" in the New Delhi area?",A,9.49,12.23,14.25,5.14
+207,"What is the distance between ""Sorento"" and ""Yes Bank & ATM"" in the New Delhi area?",D,3.12,2.47,11.36,7.25
+208,"What is the distance between ""Phoolwati Jain Poly Clinic"" and ""Gonzo"" in the New Delhi area?",B,0.74,3.46,2.07,7.99
+209,"What is the distance between ""NG Pharmacy"" and ""State Bank of India"" in the New Delhi area?",D,13.73,8.02,4.87,7.1
+210,"What is the distance between ""Chemist shop"" and ""Kathi Roll Corner 44"" in the New Delhi area?",B,9.09,3.31,1.14,7.64
+211,"What is the distance between ""Four Directions"" and ""Zaika Muradabadi"" in the New Delhi area?",B,12.9,6.64,13.75,0.66
+212,"What is the distance between ""Sanjeevani Enclave"" and ""NCS Ground"" in the New Delhi area?",C,3.93,1.19,6.35,14.07
+213,"What is the distance between ""Shumran Lines"" and ""Kendriya Vidyalaya, RK Puram, Sector-2"" in the New Delhi area?",B,3.7,6.77,4.96,5.23
+214,"What is the distance between ""Japan Foundation"" and ""SadhwaniHQ"" in the New Delhi area?",D,5.21,7.83,6.91,2.55
+215,"What is the distance between ""Tivoli Garden"" and ""What A Comic Show!"" in the New Delhi area?",D,4.76,10.74,11.62,7.09
+216,"What is the distance between ""BongTaste"" and ""Laidback Café"" in the New Delhi area?",C,7.89,2.86,0.65,7.69
+217,"What is the distance between ""The Waffle Co."" and ""Corporation Bank"" in the New Delhi area?",C,6.94,1.79,9.54,13.42
+218,"What is the distance between ""KFC"" and ""Morellos"" in the New Delhi area?",D,12.99,8.73,1.26,6.58
+219,"What is the distance between ""CGHS Wellness Centre Chankyapuri"" and ""CGHS Dispensary Zakir Husain Road"" in the New Delhi area?",A,4.34,6.98,1.73,10.77
+220,"What is the distance between ""National Institute of TB and Respiratory Diseases"" and ""Gendox Hospital"" in the New Delhi area?",A,1.94,5.91,4.81,8.22
+221,"What is the distance between ""Alfonso"" and ""Barbeque Nation"" in the New Delhi area?",A,1.84,6.95,5.4,9.03
+222,"What is the distance between ""Kathak Kendra"" and ""Srishti Apartments"" in the New Delhi area?",D,12.91,13.33,13.12,10.24
+223,"What is the distance between ""Delegation of the European Union"" and ""Olympia Gym"" in the New Delhi area?",B,11.4,9.52,16.31,2.01
+224,"What is the distance between ""Block 23"" and ""Bawa Potteries"" in the New Delhi area?",D,12.9,5.58,9.18,8.21
+225,"What is the distance between ""NCS Ground"" and ""Puducherry House"" in the New Delhi area?",C,4.35,1.55,2.5,7.78
+226,"What is the distance between ""Sulabh Toilet Complex"" and ""Panchsheel Enclave Post Office"" in the New Delhi area?",C,10.23,1.18,8.34,7.28
+227,"What is the distance between ""Blue Tokai Coffee Roasters"" and ""Good Earth"" in the New Delhi area?",B,9.02,6.78,8.29,4.3
+228,"What is the distance between ""Bikaner Sweets"" and ""Nathu Sweets"" in the New Delhi area?",B,6.82,8.48,16.3,1.59
+229,"What is the distance between ""Krissh Travel World"" and ""Alfonso"" in the New Delhi area?",D,12.14,14.45,4.67,9.87
+230,"What is the distance between ""Wok In The Clouds"" and ""Robotics Training and Workshop"" in the New Delhi area?",D,3.6,7.31,13.64,9.66
+231,"What is the distance between ""The Beer Cafe"" and ""PVR DFL Promenade Cinema"" in the New Delhi area?",D,16.58,1.0,11.06,8.63
+232,"What is the distance between ""Sitaram Bhawan"" and ""Ryan International School"" in the New Delhi area?",C,13.54,2.54,6.85,11.79
+233,"What is the distance between ""AIIMS Urban Health Centre"" and ""Keventers"" in the New Delhi area?",B,5.1,2.43,3.57,9.34
+234,"What is the distance between ""Nescafe"" and ""Crysta IVF Fertility Center"" in the New Delhi area?",D,12.59,2.36,6.61,5.31
+235,"What is the distance between ""QD All Day Diner"" and ""Blue Tokai Coffee Roasters"" in the New Delhi area?",A,6.95,11.7,13.63,3.68
+236,"What is the distance between ""Skin & Hair Care"" and ""Bloom Café & Cakery"" in the New Delhi area?",C,11.01,3.05,6.18,12.22
+237,"What is the distance between ""Govt. Girls Senior Secondary School"" and ""Wok In The Clouds"" in the New Delhi area?",C,8.62,4.23,5.15,2.8
+238,"What is the distance between ""Centre For Behavioural Sciences"" and ""Cafe Mitro"" in the New Delhi area?",C,3.83,10.73,7.45,13.59
+239,"What is the distance between ""Starbucks"" and ""Arogya Rejuvenating Point"" in the New Delhi area?",C,14.89,13.46,7.84,2.68
+240,"What is the distance between ""Talwar Medical Centre"" and ""Kochar Enterprises Money Changer"" in the New Delhi area?",A,2.74,0.97,5.99,4.14
+241,"What is the distance between ""Baby Doux"" and ""SodaBottleOpenerWala"" in the New Delhi area?",B,6.7,0.52,7.3,3.75
+242,"What is the distance between ""Central Government Office Complex"" and ""Indian Oil Petrol Pump"" in the New Delhi area?",C,11.7,9.77,6.2,1.68
+243,"What is the distance between ""AK Clinics"" and ""Out Of The Box (OTB)"" in the New Delhi area?",A,5.66,11.02,1.28,4.0
+244,"What is the distance between ""Mahi-Mandavi Hostel"" and ""SADBHAVNA PARK"" in the New Delhi area?",B,3.65,5.12,12.92,11.01
+245,"What is the distance between ""Sanjay clinic "" and ""Blue Frog"" in the New Delhi area?",A,3.63,8.2,4.55,4.61
+246,"What is the distance between ""B-6 Market, Safdarjung Enclave"" and ""Government Boys Senior Secondary School"" in the New Delhi area?",A,3.94,2.04,5.85,11.87
+247,"What is the distance between ""Welcome Point"" and ""B-6 Market, Safdarjung Enclave"" in the New Delhi area?",A,0.65,3.19,1.79,4.44
+248,"What is the distance between ""Practice Area"" and ""Shumran Lines"" in the New Delhi area?",A,12.15,18.25,15.4,6.57
+249,"What is the distance between ""Army Research and Referral Hospital"" and ""Tomb Of Balban"" in the New Delhi area?",A,7.72,6.8,11.63,4.62
+250,"What is the distance between ""डाक निदेशालय"" and ""DGD Sangam Vihar D Block"" in the New Delhi area?",D,11.89,7.33,20.2,13.06
+251,"What is the distance between ""Cafe Tesu"" and ""CCD and Other Shops"" in the New Delhi area?",B,2.53,3.46,1.0,8.6
+252,"What is the distance between ""Prachin Shiv Shakti Durga Mandir"" and ""Moonshine Cafe & Bar"" in the New Delhi area?",D,7.11,8.24,9.54,3.57
+253,"What is the distance between ""Zumrudpur Market"" and ""Bharti Vidya Bhawan"" in the New Delhi area?",A,7.13,15.08,3.25,2.14
+254,"What is the distance between ""Arogya Rejuvenating Point"" and ""डाक निदेशालय"" in the New Delhi area?",A,10.17,5.37,14.58,5.77
+255,"What is the distance between ""Sutlej Hostel (Men's)"" and ""Kartar Singh Market"" in the New Delhi area?",C,6.44,5.59,1.12,5.92
+256,"What is the distance between ""PVR Select Citywalk"" and ""Flavours Restaurant"" in the New Delhi area?",D,7.35,1.2,1.76,4.44
+257,"What is the distance between ""Holy Family Syro-Malabar Church"" and ""Awarapan Cafe"" in the New Delhi area?",D,1.48,11.63,8.0,9.08
+258,"What is the distance between ""HDFC Bank"" and ""टंकुश"" in the New Delhi area?",D,13.72,12.01,7.45,6.24
+259,"What is the distance between ""Ram mandir"" and ""PVR Select Citywalk"" in the New Delhi area?",A,5.23,6.58,6.79,10.14
+260,"What is the distance between ""PVR Saket"" and ""Coffee Spot"" in the New Delhi area?",A,4.85,1.1,8.88,7.88
+261,"What is the distance between ""Moonshine Cafe & Bar"" and ""Chhatarpur Mandir"" in the New Delhi area?",D,13.18,4.21,1.09,5.82
+262,"What is the distance between ""Tomb Of Balban"" and ""Shamshi park"" in the New Delhi area?",A,1.21,4.1,9.09,2.18
+263,"What is the distance between ""School of Interntional Studies"" and ""Visitors' parking"" in the New Delhi area?",B,6.41,1.64,3.8,4.75
+264,"What is the distance between ""Pusarla Venkata Sindhu Indoor Stadium"" and ""D-8"" in the New Delhi area?",A,7.31,12.77,12.18,0.51
+265,"What is the distance between ""Bhagwan Das Nursery"" and ""TechStack"" in the New Delhi area?",C,9.84,1.86,6.47,5.0
+266,"What is the distance between ""D 6 Park"" and ""156A (East)"" in the New Delhi area?",A,6.4,14.34,0.8,4.67
+267,"What is the distance between ""Vishwa Yuvak Kendra"" and ""Arpan Hospital"" in the New Delhi area?",A,11.15,7.22,13.57,3.69
+268,"What is the distance between ""Laidback Café"" and ""Cafe Turtle"" in the New Delhi area?",C,1.09,6.51,3.55,5.36
+269,"What is the distance between ""Safdarjung Hospital"" and ""Chowringhee"" in the New Delhi area?",A,1.5,0.51,6.55,7.17
+270,"What is the distance between ""Theatre Kunzum 1"" and ""Parliament Visitor Parking"" in the New Delhi area?",C,7.77,15.35,9.75,6.97
+271,"What is the distance between ""JSMK Clinic"" and ""momo shop"" in the New Delhi area?",B,2.93,5.47,4.42,6.85
+272,"What is the distance between ""Bharti School of Telecom Technology and Management"" and ""Central Government Office Complex"" in the New Delhi area?",D,11.63,9.15,14.07,6.47
+273,"What is the distance between ""Veer Savarkar Park"" and ""School of Computer and System Sciences"" in the New Delhi area?",D,8.69,4.41,3.84,7.34
+274,"What is the distance between ""Chacha Nehru Bhavan"" and ""Rose Garden"" in the New Delhi area?",C,5.27,5.7,1.89,8.68
+275,"What is the distance between ""HP"" and ""Govt. Girls Senior Secondary School"" in the New Delhi area?",B,7.53,6.34,0.96,10.09
+276,"What is the distance between ""Mother Dairy"" and ""Mirambika"" in the New Delhi area?",B,1.52,3.29,0.94,8.5
+277,"What is the distance between ""Champa Park"" and ""St. Pauls Church"" in the New Delhi area?",A,8.34,3.11,1.06,4.27
+278,"What is the distance between ""Ashiq Allah Dargah"" and ""Federation of Indian Chambers of Commerce and Industry Federation House"" in the New Delhi area?",D,14.22,8.33,14.89,12.08
+279,"What is the distance between ""Theatre Kunzum 2"" and ""Bank of India"" in the New Delhi area?",D,2.62,10.03,2.59,6.86
+280,"What is the distance between ""Netaji Apartments, 156A (East)"" and ""Karakoram"" in the New Delhi area?",C,6.83,7.94,2.24,6.84
+281,"What is the distance between ""World Trade Centre"" and ""Pusarla Venkata Sindhu Indoor Stadium"" in the New Delhi area?",B,10.03,6.76,9.72,14.6
+282,"What is the distance between ""Awarapan Cafe"" and ""Shiv Mandir"" in the New Delhi area?",D,12.26,14.31,8.48,7.41
+283,"What is the distance between ""Base Hospital Delhi Cantt"" and ""KC Restaurant"" in the New Delhi area?",A,3.82,0.63,1.37,5.13
+284,"What is the distance between ""Nathu Sweets"" and ""Guru Harkrishan Polyclinic Bangla Sahib"" in the New Delhi area?",B,12.1,4.1,2.69,6.46
+285,"What is the distance between ""Rose Garden"" and ""Sarvodaya Enclave Park"" in the New Delhi area?",D,7.81,6.53,5.04,1.98
+286,"What is the distance between ""PMExperto"" and ""Triveni Garden"" in the New Delhi area?",A,5.7,12.22,8.27,1.71
+287,"What is the distance between ""Delhi Development Authority Green Area"" and ""The British School"" in the New Delhi area?",A,6.57,7.49,12.35,12.84
+288,"What is the distance between ""Guru Harkrishan Polyclinic Bangla Sahib"" and ""Shri Shiv Shakti Mandir"" in the New Delhi area?",B,20.36,13.15,19.9,17.4
+289,"What is the distance between ""The Garden Restaurant"" and ""Barista"" in the New Delhi area?",D,10.46,1.94,15.04,8.23
+290,"What is the distance between ""Talkatora Garden"" and ""Chanakya Rail Enclave"" in the New Delhi area?",B,2.53,4.61,10.78,11.45
+291,"What is the distance between ""Subway"" and ""Vishwa Yuvak Kendra"" in the New Delhi area?",C,2.15,4.39,5.54,2.25
+292,"What is the distance between ""Naivedyam restaurant"" and ""Prachin Shiv Shakti Durga Mandir"" in the New Delhi area?",C,4.72,4.85,3.62,8.58
+293,"What is the distance between ""Shri Kamal Medicos"" and ""Theatre Kunzum 2"" in the New Delhi area?",A,3.88,0.89,0.55,9.38
+294,"What is the distance between ""NDMC Dispensary"" and ""Anupam Chemist"" in the New Delhi area?",A,9.59,14.71,3.41,15.15
+295,"What is the distance between ""All American Diner"" and ""Chemist shop"" in the New Delhi area?",C,8.54,9.01,3.66,2.57
+296,"What is the distance between ""MAAC"" and ""Sarathi South Indian Family restaurant"" in the New Delhi area?",A,4.62,0.8,9.2,7.54
+297,"What is the distance between ""ccd"" and ""Nerds Of Comedy"" in the New Delhi area?",D,10.46,3.9,9.68,11.88
+298,"What is the distance between ""इस्लामिया केंद्र भारत"" and ""Block 2"" in the New Delhi area?",C,8.69,13.04,5.84,3.07
+299,"What is the distance between ""Mapel Tree Cafe"" and ""Kidwai Bhuvan"" in the New Delhi area?",B,7.18,12.85,7.23,9.12
+300,"What is the distance between ""Supreme Court Metro Station"" and ""Cafe Tesu"" in the New Delhi area?",C,5.98,4.56,9.68,3.05
+301,"What is the distance between ""SPUHC, Jawahar park"" and ""Southy"" in the New Delhi area?",D,10.12,0.83,5.81,2.84
+302,"What is the distance between ""Shri Shiv Shakti Mandir"" and ""Social"" in the New Delhi area?",B,3.03,5.17,12.27,3.2
+303,"What is the distance between ""Jai Shri Krishna"" and ""Akshara"" in the New Delhi area?",A,11.85,4.15,8.12,5.12
+304,"What is the distance between ""ndmc community centre"" and ""Pandit Ji Partha Hut"" in the New Delhi area?",A,3.51,6.17,1.42,8.25
+305,"What is the distance between ""Prakash Deep"" and ""School of Interntional Studies"" in the New Delhi area?",A,11.25,19.04,7.62,16.27
+306,"What is the distance between ""Shri Gopi Kutir"" and ""Japan Foundation"" in the New Delhi area?",D,3.82,2.26,11.18,8.04
+307,"What is the distance between ""Pandit Ji Partha Hut"" and ""SBM Toilets"" in the New Delhi area?",A,7.66,3.62,9.74,3.94
+308,"What is the distance between ""VS Chemist and Cosmetics"" and ""Nescafé"" in the New Delhi area?",C,3.49,2.18,4.63,11.91
+309,"What is the distance between ""Mandi House Gol Chakkar Park"" and ""Delhi Orthodox Centre"" in the New Delhi area?",A,12.57,7.9,9.98,14.1
+310,"What is the distance between ""Pizza Hut"" and ""Metro Hospital and Heart Institute"" in the New Delhi area?",A,7.81,11.13,14.14,10.99
+311,"What is the distance between ""N Block Market"" and ""Saket Cultural Club"" in the New Delhi area?",A,4.53,10.56,1.98,6.99
+312,"What is the distance between ""Gulabi Shiv Mandir"" and ""Embassy of Switzerland"" in the New Delhi area?",B,1.65,5.4,4.45,3.74
+313,"What is the distance between ""Air Force Auditorium"" and ""Haldiram's"" in the New Delhi area?",B,2.51,10.01,3.83,5.64
+314,"What is the distance between ""Sri Ram School, RK Puram"" and ""Talkatora Stadium"" in the New Delhi area?",B,0.68,7.19,4.0,8.63
+315,"What is the distance between ""National Handicrafts Museum"" and ""HyperTrack"" in the New Delhi area?",B,15.97,9.73,8.59,15.98
+316,"What is the distance between ""Hauz Khas Medresse Mosque"" and ""MCD Parking"" in the New Delhi area?",A,5.26,12.14,1.95,12.54
+317,"What is the distance between ""Government Boys Senior Secondary School"" and ""दिल्ली नगर निगम आदर्श प्राथमिक सह शिक्षा विद्यालय"" in the New Delhi area?",B,7.89,4.03,7.55,2.25
+318,"What is the distance between ""Srishti Apartments"" and ""Abhimanch"" in the New Delhi area?",B,5.81,13.61,16.69,18.46
+319,"What is the distance between ""Axis Bank"" and ""Netaji Nagar Allopathic Dispensary"" in the New Delhi area?",C,10.09,3.62,6.16,9.8
+320,"What is the distance between ""Cultured"" and ""The Waffle Company Cafe"" in the New Delhi area?",D,8.35,5.62,10.14,4.08
+321,"What is the distance between ""Tea Moments"" and ""Shri Shri Satyanarayan Mandir"" in the New Delhi area?",B,18.64,10.97,13.04,10.02
+322,"What is the distance between ""D-8"" and ""SIT, IIT Delhi"" in the New Delhi area?",B,11.57,4.88,10.12,7.3
+323,"What is the distance between ""Sumona"" and ""Anmol Multispeciality Polyclinic and Diagnostic Center"" in the New Delhi area?",D,9.66,10.76,8.78,4.26
+324,"What is the distance between ""Indraprastha Apartments"" and ""Bharat Petroleum"" in the New Delhi area?",B,10.52,5.95,0.55,13.65
+325,"What is the distance between ""SK Medicos"" and ""Central Bank of India"" in the New Delhi area?",B,1.13,4.49,8.35,7.27
+326,"What is the distance between ""Bhagwan Mahavir Vanasthali Park"" and ""Mahi-Mandavi Hostel"" in the New Delhi area?",D,0.95,9.62,1.37,6.74
+327,"What is the distance between ""Indian Punch"" and ""The Waffle Co."" in the New Delhi area?",B,15.29,10.06,4.2,7.24
+328,"What is the distance between ""Block 2"" and ""PMExperto"" in the New Delhi area?",C,7.39,4.82,2.73,3.92
+329,"What is the distance between ""Junior School Ground"" and ""FITSO Swimming Pool"" in the New Delhi area?",D,7.62,1.1,7.81,5.55
+330,"What is the distance between ""Jai Baba Ki"" and ""Academy Of Retail Excellence"" in the New Delhi area?",A,7.67,5.59,12.16,11.31
+331,"What is the distance between ""Begum Zaidi Market Moti Bagh - North Facing"" and ""Indian Agricultural Research Institute"" in the New Delhi area?",A,6.17,13.87,13.99,3.15
+332,"What is the distance between ""Giani Ice Cream"" and ""Naivedyam restaurant"" in the New Delhi area?",D,7.18,10.4,7.53,2.59
+333,"What is the distance between ""Yes Bank"" and ""Toxic"" in the New Delhi area?",C,3.81,8.71,4.85,6.06
+334,"What is the distance between ""DDA Flats"" and ""Vasant Vihar District Park"" in the New Delhi area?",A,6.02,0.68,3.98,10.67
+335,"What is the distance between ""Deputy Director of Education"" and ""Shipra Hostel"" in the New Delhi area?",C,10.75,14.2,7.12,14.15
+336,"What is the distance between ""ATM"" and ""Doctor Singh's Multispecialty Dental Clinic"" in the New Delhi area?",A,9.02,16.3,4.98,14.92
+337,"What is the distance between ""CCD and Other Shops"" and ""Sri Ram School, RK Puram"" in the New Delhi area?",B,8.08,6.03,13.52,9.98
+338,"What is the distance between ""Abhimanch"" and ""Junior School Ground"" in the New Delhi area?",D,10.39,7.96,1.06,3.05
+339,"What is the distance between ""Dentistry Redefined"" and ""CGHS Wellness Centre Chankyapuri"" in the New Delhi area?",D,11.49,7.47,2.97,5.32
+340,"What is the distance between ""Zingo Star"" and ""Centre For Behavioural Sciences"" in the New Delhi area?",B,9.23,4.42,7.65,10.27
+341,"What is the distance between ""Kotak Mahindra Bank"" and ""Mapel Tree Cafe"" in the New Delhi area?",C,13.56,5.78,9.17,7.68
+342,"What is the distance between ""Gate 35, No entry for foreigners"" and ""Imperfecto"" in the New Delhi area?",C,11.89,9.9,6.98,3.61
+343,"What is the distance between ""CGHS Dispensary Zakir Husain Road"" and ""NDMC Dispensary"" in the New Delhi area?",B,6.21,0.7,5.09,3.3
+344,"What is the distance between ""Main Building"" and ""Talkatora Garden"" in the New Delhi area?",D,1.21,1.84,5.32,8.71
+345,"What is the distance between ""BSF Hospital"" and ""The Pinnacle School"" in the New Delhi area?",B,4.9,3.97,1.43,1.9
+346,"What is the distance between ""Cafe 27 Rooftop Bar"" and ""Wow! Momo"" in the New Delhi area?",C,7.07,0.99,4.53,3.62
+347,"What is the distance between ""Neethi Medical Store"" and ""Police assistance booth"" in the New Delhi area?",B,16.36,12.31,7.15,4.32
+348,"What is the distance between ""The Heaven Box"" and ""Air Force Auditorium"" in the New Delhi area?",D,7.92,9.31,11.14,5.39
+349,"What is the distance between ""Auro"" and ""Kotak Mahindra Bank"" in the New Delhi area?",D,6.83,9.32,3.15,5.23
+350,"What is the distance between ""Lebanese Point"" and ""The Garden Restaurant"" in the New Delhi area?",C,17.7,9.75,10.92,5.03
+351,"What is the distance between ""Ethiopian Cultural Centre"" and ""Guru Nanak Institute for comparative Study for region"" in the New Delhi area?",C,7.64,3.3,5.1,6.28
+352,"What is the distance between ""Sassi"" and ""Phoolwati Jain Poly Clinic"" in the New Delhi area?",D,3.57,3.15,6.14,1.4
+353,"What is the distance between ""Akshay Medicos"" and ""Jose Martin Sarvodya Vidyalya"" in the New Delhi area?",D,11.63,4.49,2.95,5.67
+354,"What is the distance between ""HyperTrack"" and ""Mosque"" in the New Delhi area?",C,10.75,3.3,8.85,10.54
+355,"What is the distance between ""Amar Tourist Taxi Service"" and ""Holy Family Syro-Malabar Church"" in the New Delhi area?",D,5.8,8.92,4.58,1.26
+356,"What is the distance between ""Nirmal Medical Centre"" and ""Lebanese Point"" in the New Delhi area?",A,0.81,3.68,2.88,6.48
+357,"What is the distance between ""Gonzo"" and ""Ram mandir"" in the New Delhi area?",B,6.34,5.01,2.52,9.72
+358,"What is the distance between ""Veterinary Hospital Moti Bagh"" and ""Sri Raghavendra Swamy Math"" in the New Delhi area?",D,7.28,3.18,5.97,1.06
+359,"What is the distance between ""SIT, IIT Delhi"" and ""Red Rose Public School"" in the New Delhi area?",A,2.98,0.95,7.72,10.19
+360,"What is the distance between ""Kharbanda Polyclinic"" and ""Burger Singh"" in the New Delhi area?",D,11.62,13.05,9.21,6.27
+361,"What is the distance between ""IGL"" and ""juST aPanchsheel Park Hotel"" in the New Delhi area?",B,4.21,1.78,6.22,0.76
+362,"What is the distance between ""Hauz Khas Madrasa North Wing"" and ""Delegation of the European Union"" in the New Delhi area?",C,6.5,6.75,3.79,2.2
+363,"What is the distance between ""E Block Market, DDA Munirka"" and ""Dhaula Kuan Service Station"" in the New Delhi area?",B,8.87,4.57,5.77,1.17
+364,"What is the distance between ""Play Area in Children's(Chaudhary) Park"" and ""The Helpline Pharmacy"" in the New Delhi area?",A,4.42,6.49,1.41,11.2
+365,"What is the distance between ""Dr Lal Path Labs"" and ""Indraprastha Apartments"" in the New Delhi area?",A,6.87,5.58,11.19,2.14
+366,"What is the distance between ""Canara Bank"" and ""Skin & Hair Care"" in the New Delhi area?",D,6.85,8.79,6.19,2.86
+367,"What is the distance between ""Bharat Sevak Samaj Public School"" and ""बांग्लादेश का उच्चायोग"" in the New Delhi area?",A,2.36,3.96,10.25,7.27
+368,"What is the distance between ""SadhwaniHQ"" and ""RPS Sheikh Sarai Park"" in the New Delhi area?",D,4.07,0.8,9.18,2.54
+369,"What is the distance between ""Ecom Express"" and ""Agarwal Sweets"" in the New Delhi area?",A,0.83,2.93,6.75,6.33
+370,"What is the distance between ""Gangsta Pizzeria"" and ""NDMC Gymnasium"" in the New Delhi area?",A,6.89,9.48,9.31,0.98
+371,"What is the distance between ""Cafe Coffee Day"" and ""Indian Punch"" in the New Delhi area?",B,2.4,5.0,2.02,9.37
+372,"What is the distance between ""All India Medicos"" and ""RBL Bank"" in the New Delhi area?",D,4.06,11.34,13.29,6.69
+373,"What is the distance between ""TechStack"" and ""Rustic Cafe"" in the New Delhi area?",D,12.12,5.07,4.58,8.26
+374,"What is the distance between ""Tumble House"" and ""Sumona"" in the New Delhi area?",B,10.84,4.94,0.62,0.86
+375,"What is the distance between ""Dalchini"" and ""Bhogal Buddha Vihar"" in the New Delhi area?",C,12.88,5.82,7.61,9.27
+376,"What is the distance between ""Indusind bank atm"" and ""Noble High School"" in the New Delhi area?",D,6.46,0.73,4.34,7.45
+377,"What is the distance between ""Community Park, RK Puram Sector-1"" and ""Mandi House Gol Chakkar Park"" in the New Delhi area?",C,3.09,11.88,8.69,14.68
+378,"What is the distance between ""Barbeque Nation"" and ""K.D. Taxi Service"" in the New Delhi area?",B,6.31,8.87,13.77,6.59
+379,"What is the distance between ""CGHS Wellness Centre Lodhi Road II"" and ""Green Chick Chop"" in the New Delhi area?",A,6.29,11.95,4.11,2.98
+380,"What is the distance between ""Indian Oil Petrol Pump"" and ""IGL"" in the New Delhi area?",A,6.55,1.11,8.53,1.51
+381,"What is the distance between ""Good Earth"" and ""Department of Management Studies"" in the New Delhi area?",C,9.14,8.93,7.6,4.76
+382,"What is the distance between ""Ganga Dhaba"" and ""Meeting Point Park"" in the New Delhi area?",D,9.12,7.07,1.62,3.94
+383,"What is the distance between ""very good restaurant and no expensive"" and ""Netaji Nagar Post Office"" in the New Delhi area?",D,0.73,3.71,7.22,6.3
+384,"What is the distance between ""Yana Medicos"" and ""ABN Travels & Forex"" in the New Delhi area?",C,9.22,5.13,1.8,9.35
+385,"What is the distance between ""SADBHAVNA PARK"" and ""Sutlej Hostel (Men's)"" in the New Delhi area?",C,2.9,1.08,4.33,9.22
+386,"What is the distance between ""Kendriya Vidyalaya, RK Puram Sector-4"" and ""Sitaram Bhawan"" in the New Delhi area?",B,7.98,6.77,10.3,5.21
+387,"What is the distance between ""Smokeys"" and ""Ice Bakery"" in the New Delhi area?",C,7.2,10.28,6.29,1.0
+388,"What is the distance between ""The Kathi's"" and ""Andhra Bank"" in the New Delhi area?",C,12.63,12.8,10.5,15.12
+389,"What is the distance between ""Sista’s"" and ""IIT - Block I"" in the New Delhi area?",A,5.31,7.74,2.96,10.39
+390,"What is the distance between ""Bharti Vidya Bhawan"" and ""Veer Savarkar Park"" in the New Delhi area?",C,8.04,0.59,4.08,10.61
+391,"What is the distance between ""Palika Maternity Hospital"" and ""Delhi Development Authority Green Area"" in the New Delhi area?",A,2.29,5.15,4.42,0.54
+392,"What is the distance between ""Hawkerz Boxx"" and ""Jindal Dental Care"" in the New Delhi area?",B,6.62,0.51,2.72,5.65
+393,"What is the distance between ""Afghan Restaurant"" and ""Adyar Ananda Bhavan"" in the New Delhi area?",C,9.75,4.86,3.32,11.19
+394,"What is the distance between ""Bhatnagar International School"" and ""Moets"" in the New Delhi area?",A,8.93,15.93,16.8,13.86
+395,"What is the distance between ""Qutub Minar Complex"" and ""Community Park, RK Puram Sector-1"" in the New Delhi area?",C,2.33,6.63,4.04,9.38
+396,"What is the distance between ""Kutty's"" and ""Bikanere"" in the New Delhi area?",A,4.98,11.94,2.25,9.18
+397,"What is the distance between ""दिल्ली नगर निगम आदर्श प्राथमिक सह शिक्षा विद्यालय"" and ""Base Hospital Delhi Cantt"" in the New Delhi area?",B,5.29,7.59,3.45,12.47
+398,"What is the distance between ""Ritu Medicos"" and ""All India Medicos"" in the New Delhi area?",D,9.37,2.87,9.35,5.3
+399,"What is the distance between ""Out Of The Box (OTB)"" and ""Rainbow Health and Fitness Shoppee"" in the New Delhi area?",C,2.82,7.59,3.97,11.38
+400,"What is the distance between ""Bikaner Bus Depot"" and ""President Estate Clinic"" in the New Delhi area?",D,0.51,1.1,2.3,3.21
+401,"What is the distance between ""Nerds Of Comedy"" and ""SK Medicos"" in the New Delhi area?",B,14.57,7.31,13.5,12.7
+402,"What is the distance between ""K.D. Taxi Service"" and ""IIT - Zanskar"" in the New Delhi area?",C,3.17,10.92,6.16,3.04
+403,"What is the distance between ""sabarmati dhaba"" and ""Guppy"" in the New Delhi area?",D,3.53,12.99,12.47,7.32
+404,"What is the distance between ""Panchsheel Club"" and ""The Centenary Methodist Church"" in the New Delhi area?",B,11.67,6.02,0.72,1.59
+405,"What is the distance between ""Green Field School"" and ""Qutub Minar Complex"" in the New Delhi area?",D,9.59,5.78,9.03,2.33
+406,"What is the distance between ""Peeja"" and ""Kharbanda Polyclinic"" in the New Delhi area?",C,11.69,14.12,7.23,13.53
+407,"What is the distance between ""टंकुश"" and ""Bhartishreepeetham Sarveshwar Temple"" in the New Delhi area?",B,8.32,3.45,6.72,4.42
+408,"What is the distance between ""NDMC Gymnasium"" and ""Tivoli Garden"" in the New Delhi area?",D,6.52,15.42,7.75,12.81
+409,"What is the distance between ""Doctor Singh's Multispecialty Dental Clinic"" and ""Food Court!"" in the New Delhi area?",C,9.53,3.09,6.35,2.21
+410,"What is the distance between ""Rainbow Health and Fitness Shoppee"" and ""ndmc community centre"" in the New Delhi area?",C,10.76,11.45,4.57,0.68
+411,"What is the distance between ""Bikanere"" and ""Alkauser ( best biryani)"" in the New Delhi area?",B,7.6,1.84,0.9,5.98
+412,"What is the distance between ""Bawa Potteries"" and ""Ashiq Allah Dargah"" in the New Delhi area?",D,7.72,3.67,6.84,1.42
+413,"What is the distance between ""PVR DFL Promenade Cinema"" and ""SPUHC, Jawahar park"" in the New Delhi area?",C,3.83,9.69,8.22,1.56
+414,"What is the distance between ""Karakoram"" and ""Bhagwan Mahavir Vanasthali Park"" in the New Delhi area?",D,9.0,4.57,8.2,6.2
+415,"What is the distance between ""Shri Durga Mandir"" and ""HDFC Bank"" in the New Delhi area?",D,11.64,10.79,1.31,5.21
+416,"What is the distance between ""The Waffle Company Cafe"" and ""Bikaner Bus Depot"" in the New Delhi area?",C,1.04,13.9,6.42,5.21
+417,"What is the distance between ""Mosque"" and ""Ram Yantra"" in the New Delhi area?",B,11.11,4.75,12.44,1.6
+418,"What is the distance between ""Moktoo"" and ""Nawaab's Kitchen"" in the New Delhi area?",D,7.2,8.34,3.01,1.02
+419,"What is the distance between ""Aka Gaka"" and ""BADMINTON COURT"" in the New Delhi area?",A,6.38,11.57,4.9,0.8
+420,"What is the distance between ""Shipra Hostel"" and ""Project Monitoring Group"" in the New Delhi area?",A,9.59,12.33,12.48,16.0
+421,"What is the distance between ""Shaheed Bhagat Singh Park"" and ""Practice Area"" in the New Delhi area?",C,1.18,7.35,5.16,1.86
+422,"What is the distance between ""Facilitation Kiosk"" and ""Mom Hand Momos"" in the New Delhi area?",A,3.1,8.81,8.04,7.67
+423,"What is the distance between ""Triveni Garden"" and ""police colony park"" in the New Delhi area?",A,7.76,2.03,9.68,6.06
+424,"What is the distance between ""Berco's"" and ""The Kathi's"" in the New Delhi area?",B,9.31,4.05,8.88,8.35
+425,"What is the distance between ""DGD, Khanpur"" and ""Gate 35, No entry for foreigners"" in the New Delhi area?",A,11.74,16.18,19.05,5.62
+426,"What is the distance between ""Studio Khirki"" and ""Batra Medicos"" in the New Delhi area?",C,6.33,3.88,1.37,4.97
+427,"What is the distance between ""Hindustan Petroleum"" and ""Netaji Apartments, 156A (East)"" in the New Delhi area?",C,7.79,7.91,4.45,11.02
+428,"What is the distance between ""Saint Mary's Junior School"" and ""Bikaner Sweets"" in the New Delhi area?",C,3.18,1.07,2.2,8.78
+429,"What is the distance between ""NBCC plaza"" and ""Palika Maternity Hospital"" in the New Delhi area?",C,14.5,8.8,6.89,12.6
+430,"What is the distance between ""Police assistance booth"" and ""VS Chemist and Cosmetics"" in the New Delhi area?",B,4.17,9.84,12.68,4.03
+431,"What is the distance between ""Burger King"" and ""South Campus Police Station"" in the New Delhi area?",B,8.61,1.89,0.64,7.16
+432,"What is the distance between ""Chanakya Rail Enclave"" and ""High Commission of the Republic of Namibia"" in the New Delhi area?",C,4.07,4.83,3.16,1.81
+433,"What is the distance between ""CGHS Dispensary Lodhi Road Aliganj"" and ""BongTaste"" in the New Delhi area?",B,8.61,5.45,4.18,7.54
+434,"What is the distance between ""Alkauser ( best biryani)"" and ""Starbucks"" in the New Delhi area?",C,8.25,5.04,3.27,5.55
+435,"What is the distance between ""Shamshi park"" and ""Bharti School of Telecom Technology and Management"" in the New Delhi area?",B,4.73,3.63,7.59,0.76
+436,"What is the distance between ""Anupam Chemist"" and ""Anna Dosa Point"" in the New Delhi area?",D,16.42,7.54,6.53,8.69
+437,"What is the distance between ""156A (East)"" and ""Egg Shell Roundabout"" in the New Delhi area?",D,2.8,1.5,3.7,5.48
+438,"What is the distance between ""Dr Choudary Pet Clinic"" and ""Talwar Medical Centre"" in the New Delhi area?",B,15.98,9.03,6.27,1.15
+439,"What is the distance between ""School of Computer and System Sciences"" and ""DDA Flats"" in the New Delhi area?",C,3.2,8.72,5.91,3.32
+440,"What is the distance between ""NIHFW Munirka"" and ""Facilitation Kiosk"" in the New Delhi area?",C,5.2,2.07,3.45,8.53
+441,"What is the distance between ""Laidback Cafe"" and ""Arya Samaj Mandir"" in the New Delhi area?",D,2.45,7.64,7.63,6.27
+442,"What is the distance between ""Medeor Hospital"" and ""ICICI Bank"" in the New Delhi area?",A,3.02,5.09,4.49,6.01
+443,"What is the distance between ""Cafe Turtle"" and ""Sparsh Homeopathic Clinic"" in the New Delhi area?",A,5.84,7.34,13.48,7.99
+444,"What is the distance between ""health care medicos"" and ""Indusind bank atm"" in the New Delhi area?",D,1.41,12.79,13.5,6.01
+445,"What is the distance between ""California Burrito"" and ""ATM"" in the New Delhi area?",A,11.25,12.27,7.23,3.75
+446,"What is the distance between ""The British School"" and ""Buddha Jayanti Park"" in the New Delhi area?",C,1.06,6.26,2.01,9.26
+447,"What is the distance between ""Dargah Hazrat Khwaja"" and ""DGD, Khanpur"" in the New Delhi area?",A,9.1,5.95,7.28,8.19

@@ -1,0 +1,1405 @@
+,A,answer,B,C,D,question
+0,5.57,A,2.03,2.22,10.74,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 八方雲集. Detailed address: 97, 信義路六段, 國業里, 信義區, 信義商圈, 臺北市, 11085, 臺灣
+2. 出口. Detailed address: 新生北停車場, 新生北路二段101巷, 中原里, 中山區, 南西商圈, 臺北市, 10469, 臺灣"
+1,0.67,C,11.27,4.36,1.06,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 劉山東牛肉麵. Detailed address: 2, 開封街一段14巷, 黎明里, 中正區, 台北站前, 臺北市, 100, 臺灣
+2. 聖光眼科診所. Detailed address: 南京東路四段179巷, 東勢里, 松山區, 中崙, 臺北市, 105409, 臺灣"
+2,6.8,B,3.83,9.26,10.48,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 星巴克. Detailed address: 承德路一段, 黎明里, 中正區, 台北站前, 臺北市, 10041, 臺灣
+2. 莫凡彼. Detailed address: 民生東路四段, 精忠里, 松山區, 下埤頭, 臺北市, 10574, 臺灣"
+3,3.51,B,1.47,3.99,2.99,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 臺北轉運站(華陰街). Detailed address: 華陰街, 建明里, 大同區, 後車頭, 臺北市, 10349, 臺灣
+2. 天仁茗茶. Detailed address: 民權西路, 集英里, 中山區, 雙連, 臺北市, 10365, 臺灣"
+4,5.86,C,8.93,4.5,3.35,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 風味香港灘. Detailed address: 三民路96巷, 富泰里, 松山區, 臺北市, 10573, 臺灣
+2. 人从众. Detailed address: 永康街10巷, 永康里, 大安區, 古亭, 臺北市, 106007, 臺灣"
+5,1.89,A,6.65,9.6,5.87,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 拉亞漢堡. Detailed address: 7, 南京東路二段138巷, 朱園里, 中山區, 朱厝崙, 臺北市, 104, 臺灣
+2. 好甘心診所. Detailed address: 30, 公園路, 黎明里, 中正區, 台北站前, 臺北市, 100008, 臺灣"
+6,10.33,B,3.53,9.84,10.87,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 王樣力麒花園. Detailed address: 明台產物保險, 松江路150巷, 中吉里, 中山區, 朱厝崙, 臺北市, 104092, 臺灣
+2. 雍雋品. Detailed address: 70之1號, 南海路, 龍興里, 中正區, 龍匣口, 臺北市, 100, 臺灣"
+7,1.23,C,9.57,5.76,9.26,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 上海商業儲蓄銀行. Detailed address: 171號-6, 松德路, 安康里, 信義區, 信義商圈, 臺北市, 110, 臺灣
+2. 翰樺萱早餐. Detailed address: 內湖路三段115巷, 金龍里, 內湖區, 臺北市, 11455, 臺灣"
+8,2.14,D,10.5,8.9,3.88,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 陽信商業銀行. Detailed address: 143, 復興北路, 中正里, 松山區, 中崙, 臺北市, 105, 臺灣
+2. 歐鄉咖啡館. Detailed address: 忠孝東路五段524巷, 松光里, 信義區, 興雅, 臺北市, 11081, 臺灣"
+9,0.7,D,11.08,9.23,5.55,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 雅祥公園(松信路50巷口). Detailed address: 松信路, 雅祥里, 信義區, 興雅, 臺北市, 11069, 臺灣
+2. 乾杯列車. Detailed address: 承德路一段, 黎明里, 中正區, 台北站前, 臺北市, 10041, 臺灣"
+10,5.05,C,2.58,0.54,5.33,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ABV% 加勒比海精釀啤酒餐廳. Detailed address: 11, 忠孝東路四段216巷19弄, 車層里, 大安區, 車罾, 臺北市, 106, 臺灣
+2. 五福小館. Detailed address: 242, 延吉街241巷, 光信里, 大安區, 車罾, 臺北市, 10696, 臺灣"
+11,13.53,B,6.56,5.23,3.3,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 忠孝大廈A座. Detailed address: 243號, 忠孝東路三段, 誠安里, 大安區, 東區商圈, 臺北市, 106, 臺灣
+2. 謝氏宗祠. Detailed address: 39號, 仰德大道一段12巷, 岩山里, 士林區, 石角, 臺北市, 111, 臺灣"
+12,1.46,A,5.04,6.01,8.84,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 華新公園. Detailed address: 革新公園, 松隆路, 敦厚里, 信義區, 興雅, 臺北市, 110072, 臺灣
+2. 健安新城. Detailed address: 3號, 三民路80巷, 自強里, 松山區, 臺北市, 105, 臺灣"
+13,10.5,C,6.49,4.16,8.12,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 阿娥水餃. Detailed address: 9, 南京東路二段21巷, 中原里, 中山區, 南西商圈, 臺北市, 104, 臺灣
+2. 六號水門. Detailed address: 撫遠街389巷, 莊敬里, 松山區, 下塔悠, 臺北市, 10591, 臺灣"
+14,0.57,C,9.89,4.71,12.7,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 大來小館. Detailed address: 麗水街, 永康里, 大安區, 古亭, 臺北市, 106007, 臺灣
+2. 貴吾堂. Detailed address: 基隆路一段35巷9弄, 雅祥里, 信義區, 興雅, 臺北市, 11069, 臺灣"
+15,2.89,A,1.84,8.28,7.29,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 起上小法師 - 牛舌炭燒專門店. Detailed address: 6號, 八德路三段74巷, 敦化里, 松山區, 中崙, 臺北市, 10559, 臺灣
+2. 樹咖啡. Detailed address: 金山南路一段110巷, 文祥里, 中正區, 華山, 臺北市, 10057, 臺灣"
+16,1.64,B,3.06,6.38,5.36,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 阿宗雞肉飯. Detailed address: 新生北路三段25巷, 新福里, 中山區, 下埤頭, 臺北市, 10470, 臺灣
+2. 臺灣銀行. Detailed address: 21, 紹興南街, 東門里, 中正區, 華山, 臺北市, 100, 臺灣"
+17,1.99,C,5.11,3.76,8.49,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 林森南路禮拜堂. Detailed address: 2, 林森南路, 幸福里, 中正區, 華山, 臺北市, 100, 臺灣
+2. 民權光復路口(東北側). Detailed address: 民權東路四段, 精忠里, 松山區, 下埤頭, 臺北市, 10573, 臺灣"
+18,2.73,B,1.37,7.88,6.43,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 協和大樓. Detailed address: 367號, 復興北路, 民有里, 松山區, 下埤頭, 臺北市, 105, 臺灣
+2. 昇陽十里華. Detailed address: 象神花坊, 10, 松江路133巷, 中央里, 中山區, 朱厝崙, 臺北市, 10485, 臺灣"
+19,9.5,B,3.46,10.51,5.47,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 小王子二號店. Detailed address: 建國北路二段258巷, 松江里, 中山區, 下埤頭, 臺北市, 104477, 臺灣
+2. 樂群二堤頂大道口. Detailed address: 樂群二路, 金泰里, 中山區, 下塔悠, 臺北市, 104052, 臺灣"
+20,3.86,A,4.91,8.82,6.92,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 水剌韓式料理. Detailed address: 30, 基湖路35巷, 西湖里, 內湖區, 臺北市, 114, 臺灣
+2. YMCA幼兒園. Detailed address: 永吉路, 永春里, 信義區, 潭美, 臺北市, 110044, 臺灣"
+21,1.88,A,6.1,2.92,4.53,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 蘋果203brunch. Detailed address: 88, 延平南路, 光復里, 中正區, 城內, 臺北市, 100413, 臺灣
+2. 嘟嘟房林森公園場 (南京東路出入口). Detailed address: 嘟嘟房林森公園場, 新生北路二段28巷, 康樂里, 中山區, 南西商圈, 臺北市, 104012, 臺灣"
+22,5.64,C,9.85,2.72,5.35,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 五福小館. Detailed address: 242, 延吉街241巷, 光信里, 大安區, 車罾, 臺北市, 10696, 臺灣
+2. 泛亞商務中心. Detailed address: 174, 南京東路二段, 朱園里, 中山區, 朱厝崙, 臺北市, 104, 臺灣"
+23,10.03,D,4.4,10.65,2.98,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 彭園湘菜館. Detailed address: 380, 林森北路, 聚盛里, 中山區, 南西商圈, 臺北市, 10491, 臺灣
+2. 老張牛肉麵. Detailed address: 105, 愛國東路, 永康里, 大安區, 古亭, 臺北市, 106, 臺灣"
+24,6.53,D,7.12,7.25,2.07,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 創義麵. Detailed address: 62, 敦化南路一段160巷, 光武里, 大安區, 東區商圈, 臺北市, 106, 臺灣
+2. 天津葱抓餅. Detailed address: 1, 永康街6巷, 永康里, 大安區, 古亭, 臺北市, 106, 臺灣"
+25,7.89,C,6.43,4.2,6.98,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 萬利大廈. Detailed address: 永和豆漿大王, 50之2, 長安東路二段, 興亞里, 中山區, 朱厝崙, 臺北市, 104, 臺灣
+2. 澹寧居. Detailed address: 10號, 松勤街140巷, 三犁里, 信義區, 信義商圈, 臺北市, 110, 臺灣"
+26,1.02,C,0.55,2.93,5.73,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 大信藥局. Detailed address: 6, 林森北路159巷, 正義里, 中山區, 南西商圈, 臺北市, 104008, 臺灣
+2. 誇許早午餐. Detailed address: 復興南路自行車道(西側), 龍圖里, 大安區, 東區商圈, 臺北市, 106625, 臺灣"
+27,3.53,A,8.32,6.67,10.69,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 內湖江南郵局i郵箱. Detailed address: 瑞光路316巷, 港墘里, 內湖區, 臺北市, 114063, 臺灣
+2. 富元小館. Detailed address: 八德路四段36巷, 復盛里, 松山區, 車罾, 臺北市, 10560, 臺灣"
+28,6.52,C,2.04,4.75,12.43,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 台北橋頭滷肉飯. Detailed address: 延平北路三段, 景星里, 大同區, 雙連, 臺北市, 10375, 臺灣
+2. 中國信託商業銀行. Detailed address: 90, 中山北路六段, 忠誠里, 士林區, 蘭雅, 臺北市, 111, 臺灣"
+29,3.21,D,4.07,6.77,1.11,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 辛亥路橋下停車場. Detailed address: 建國快速道路, 龍坡里, 大安區, 古亭, 臺北市, 10660, 臺灣
+2. 小威廉. Detailed address: 5號, 永康街23巷45弄, 福住里, 大安區, 古亭, 臺北市, 106, 臺灣"
+30,4.4,B,2.46,5.59,7.53,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 烤蘋果派的方法. Detailed address: 建國南路一段, 和安里, 大安區, 東區商圈, 臺北市, 10603, 臺灣
+2. 神召會中心. Detailed address: 長春路, 中山里, 中山區, 南西商圈, 臺北市, 104012, 臺灣"
+31,10.04,D,3.92,7.55,2.53,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 義料.之外. Detailed address: 1, 長安東路二段36巷, 興亞里, 中山區, 華山, 臺北市, 104096, 臺灣
+2. 哈打奶奶立吞處. Detailed address: 11, 光復南路200巷, 華聲里, 大安區, 車罾, 臺北市, 106, 臺灣"
+32,6.09,A,12.29,0.6,10.56,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 捷運士林站(2號出口). Detailed address: 中山北路五段505巷46弄, 福林里, 士林區, 石角, 臺北市, 11111, 臺灣
+2. 法豆鮮焙咖啡. Detailed address: 210, 南京東路五段, 新聚里, 松山區, 興雅, 臺北市, 105, 臺灣"
+33,10.9,C,11.44,3.67,5.46,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 涮鍋里. Detailed address: 17, 松智路, 西村里, 信義區, 信義商圈, 臺北市, 110, 臺灣
+2. 中正幼兒園. Detailed address: 濟南路二段48巷, 幸市里, 中正區, 華山, 臺北市, 10062, 臺灣"
+34,7.36,D,8.89,7.32,1.12,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 好棒棒平價快炒. Detailed address: 271, 復興南路一段, 仁慈里, 大安區, 東區商圈, 臺北市, 106, 臺灣
+2. 香茅廚泰式餐廳. Detailed address: 39, 復興南路一段, 中崙里, 松山區, 中崙, 臺北市, 105, 臺灣"
+35,4.35,C,8.97,2.37,5.12,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Zoo Cafe 動物園野餐咖啡. Detailed address: 15, 仁愛路四段345巷5弄, 車層里, 大安區, 車罾, 臺北市, 106, 臺灣
+2. 珍味臭臭鍋. Detailed address: 合江街31巷, 朱馥里, 中山區, 朱厝崙, 臺北市, 10487, 臺灣"
+36,1.25,B,6.86,3.41,9.06,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 辛發亭. Detailed address: 1, 安平街, 仁勇里, 士林區, 臺北市, 111, 臺灣
+2. 高媽媽. Detailed address: 安和路二段35巷, 通安里, 大安區, 車罾, 臺北市, 106047, 臺灣"
+37,5.83,B,3.68,1.33,2.42,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 敦化八德路口. Detailed address: 敦化南路一段, 福成里, 松山區, 中崙, 臺北市, 105408, 臺灣
+2. 新南大藥房. Detailed address: 67, 天水路, 建功里, 大同區, 後車頭, 臺北市, 103007, 臺灣"
+38,8.71,B,5.66,3.43,8.96,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 國華人壽商業大樓. Detailed address: 2之1號, 民權東路三段, 江寧里, 中山區, 下埤頭, 臺北市, 104, 臺灣
+2. 內湖庄役場會議室. Detailed address: 342號, 內湖路二段, 湖濱里, 內湖區, 臺北市, 114, 臺灣"
+39,8.69,B,3.85,8.24,8.92,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 臺北杭南郵局i郵箱. Detailed address: 杭州南路一段, 幸福里, 中正區, 華山, 臺北市, 10054, 臺灣
+2. 50嵐. Detailed address: 南京東路五段, 吉祥里, 松山區, 興雅, 臺北市, 10561, 臺灣"
+40,5.65,B,3.88,8.77,8.21,"What is the straight-line distance between the following two locations? (Unit is km)
+1. PIZZA HUT必勝客. Detailed address: 信義路六段, 松友里, 信義區, 信義商圈, 臺北市, 11085, 臺灣
+2. 陽信商業銀行. Detailed address: 143, 復興北路, 中正里, 松山區, 中崙, 臺北市, 105, 臺灣"
+41,5.53,B,2.35,10.02,1.21,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 永豐商業銀行. Detailed address: 316, 仁愛路四段, 光信里, 大安區, 車罾, 臺北市, 106, 臺灣
+2. 天鮮餐廚. Detailed address: 36, 伊通街19巷, 朱園里, 中山區, 朱厝崙, 臺北市, 104096, 臺灣"
+42,6.36,D,1.41,2.07,4.02,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 臺大金華大廈. Detailed address: 80號, 金華街, 錦泰里, 大安區, 龍匣口, 臺北市, 106, 臺灣
+2. 協和大樓. Detailed address: 367號, 復興北路, 民有里, 松山區, 下埤頭, 臺北市, 105, 臺灣"
+43,1.98,A,9.77,9.42,4.79,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 第二好吃私房菜. Detailed address: 吉林路, 新生里, 中山區, 朱厝崙, 臺北市, 10467, 臺灣
+2. 台北橋頭滷肉飯. Detailed address: 延平北路三段, 景星里, 大同區, 雙連, 臺北市, 10375, 臺灣"
+44,10.29,B,5.58,13.41,0.94,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 昶泰松仁停車場. Detailed address: 松仁路, 安康里, 信義區, 信義商圈, 臺北市, 110062, 臺灣
+2. 玉山石. Detailed address: 柯達大飯店台北二店, 139, 中山北路二段, 聚葉里, 中山區, 雙連, 臺北市, 104, 臺灣"
+45,10.32,D,10.6,8.61,3.4,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 大勝牙醫診所. Detailed address: 復興南路二段, 龍淵里, 大安區, 六張犁, 臺北市, 10663, 臺灣
+2. 冠京華. Detailed address: 南京東路四段133巷4弄, 聯合新邨, 松山區, 中崙, 臺北市, 105411, 臺灣"
+46,4.38,D,6.87,3.08,1.31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 新八珍燒臘. Detailed address: 4號, 南京東路五段23巷, 東光里, 松山區, 中崙, 臺北市, 105, 臺灣
+2. 大腕燒肉. Detailed address: 22, 敦化南路一段177巷, 建安里, 大安區, 東區商圈, 臺北市, 106, 臺灣"
+47,2.97,A,6.99,7.05,6.08,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 貨運站停車場. Detailed address: 臺北松山機場, 340-9, 敦化北路, 精忠里, 松山區, 下埤頭, 臺北市, 10548, 臺灣
+2. 西安公園. Detailed address: 德明財經大學, 56, 環山路一段, 西湖里, 內湖區, 下塔悠, 臺北市, 114, 臺灣"
+48,4.17,A,8.93,11.09,8.05,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 永裕大廈. Detailed address: 全家便利商店, 63, 博愛路, 光復里, 中正區, 城內, 臺北市, 100005, 臺灣
+2. 敦南企業家大樓. Detailed address: 5號, 臥龍街, 虎嘯里, 大安區, 六張犁, 臺北市, 106, 臺灣"
+49,4.32,A,8.83,0.87,2.45,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 瑞安自助餐. Detailed address: 瑞安街208巷, 新龍里, 大安區, 臺北市, 10664, 臺灣
+2. HI SUN DA. Detailed address: 忠孝東路五段, 永春里, 信義區, 興雅, 臺北市, 110044, 臺灣"
+50,7.87,D,5.35,5.77,3.51,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 樂群二堤頂大道口. Detailed address: 樂群二路, 金泰里, 中山區, 下塔悠, 臺北市, 104052, 臺灣
+2. 第一商業銀行. Detailed address: 16, 光復北路, 復勢里, 松山區, 車罾, 臺北市, 105, 臺灣"
+51,1.97,B,3.47,6.8,2.27,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 翁記水煎包. Detailed address: 南京東路五段123巷4弄, 東光里, 松山區, 東區商圈, 臺北市, 10582, 臺灣
+2. 台北富邦商業銀行. Detailed address: 61, 仁愛路二段, 幸市里, 中正區, 華山, 臺北市, 100, 臺灣"
+52,1.82,A,6.03,7.8,8.15,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 聖光眼科診所. Detailed address: 南京東路四段179巷, 東勢里, 松山區, 中崙, 臺北市, 105409, 臺灣
+2. 天下三絕. Detailed address: 復興南路一段219巷, 仁愛里, 大安區, 東區商圈, 臺北市, 10691, 臺灣"
+53,4.0,D,7.64,2.67,1.28,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 台新國際商業銀行. Detailed address: 7, 羅斯福路一段, 新營里, 中正區, 龍匣口, 臺北市, 100215, 臺灣
+2. 中華路意麺担仔麺. Detailed address: 中華路二段441巷, 永昌里, 中正區, 龍匣口, 臺北市, 10881, 臺灣"
+54,6.8,B,5.29,1.32,6.92,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 國泰世華銀行大樓. Detailed address: 國泰世華商業銀行, 85, 仁愛路四段, 仁愛里, 大安區, 東區商圈, 臺北市, 106, 臺灣
+2. 福德清心盧. Detailed address: 圓山市景步道, 劍潭里, 中山區, 大龍峒, 臺北市, 11103, 臺灣"
+55,0.68,C,4.18,2.25,9.92,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 台灣聯通. Detailed address: 413, 林森北路, 聚盛里, 中山區, 南西商圈, 臺北市, 10491, 臺灣
+2. 城中分館. Detailed address: 46, 濟南路二段, 幸市里, 中正區, 華山, 臺北市, 10056, 臺灣"
+56,5.51,A,12.26,12.05,7.66,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 興雅國小. Detailed address: 9, 基隆路一段83巷, 雅祥里, 信義區, 興雅, 臺北市, 110, 臺灣
+2. 中化製藥. Detailed address: 館前路, 黎明里, 中正區, 台北站前, 臺北市, 100007, 臺灣"
+57,7.73,D,6.01,7.13,4.25,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 勤大樓. Detailed address: 國立臺灣師範大學和平校區, 162, 和平東路一段, 古莊里, 大安區, 古亭, 臺北市, 106308, 臺灣
+2. 國華人壽商業大樓. Detailed address: 2之1號, 民權東路三段, 江寧里, 中山區, 下埤頭, 臺北市, 104, 臺灣"
+58,5.75,A,2.17,9.93,2.03,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 福德清心盧. Detailed address: 圓山市景步道, 劍潭里, 中山區, 大龍峒, 臺北市, 11103, 臺灣
+2. 公館山營區. Detailed address: 6號, 文德街66巷113弄, 瑞陽里, 內湖區, 臺北市, 114, 臺灣"
+59,2.82,A,8.86,5.24,9.1,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 東京時光. Detailed address: 22號, 天祥路47巷, 集英里, 中山區, 雙連, 臺北市, 104, 臺灣
+2. 裕園華廈. Detailed address: 78號, 八德路二段300巷, 埤頭里, 中山區, 中崙, 臺北市, 104, 臺灣"
+60,11.44,C,9.35,5.19,8.62,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 大佳碼頭. Detailed address: 行動巨蛋廣場, 大佳里, 中山區, 下埤頭, 臺北市, 10404, 臺灣
+2. 內湖翌莊薑母鴨. Detailed address: 民權東路六段136巷, 寶湖里, 內湖區, 潭美, 臺北市, 11466, 臺灣"
+61,3.94,B,2.49,1.06,9.74,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 南京世家. Detailed address: 全家便利商店, 146, 建國北路一段, 朱園里, 中山區, 朱厝崙, 臺北市, 104, 臺灣
+2. 統一名廈. Detailed address: 鴻嘉珠寶, 39, 延平北路二段, 朝陽里, 大同區, 大稻埕, 臺北市, 103009, 臺灣"
+62,9.55,B,8.54,11.35,13.02,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 翰樺萱早餐. Detailed address: 內湖路三段115巷, 金龍里, 內湖區, 臺北市, 11455, 臺灣
+2. 阿豬媽. Detailed address: 承德路一段, 黎明里, 中正區, 台北站前, 臺北市, 10041, 臺灣"
+63,8.58,A,16.18,7.09,2.82,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Times. Detailed address: 基河路, 福佳里, 士林區, 社子, 臺北市, 11160, 臺灣
+2. 崇德富邨. Detailed address: 9號, 崇德街31巷5弄, 黎順里, 信義區, 六張犁, 臺北市, 110, 臺灣"
+64,3.84,B,0.87,4.73,6.97,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 富邦藝樹都更基地. Detailed address: 6號, 敦化南路一段161巷5弄, 建安里, 大安區, 東區商圈, 臺北市, 106, 臺灣
+2. 福安大廈. Detailed address: 3號, 光復南路260巷, 正聲里, 大安區, 車罾, 臺北市, 106, 臺灣"
+65,10.79,C,8.37,4.16,1.18,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 一蘭拉麵. Detailed address: 97, 松仁路, 安康里, 信義區, 信義商圈, 臺北市, 11073, 臺灣
+2. 皇膳餐廳. Detailed address: 仁愛路二段, 文北里, 中正區, 華山, 臺北市, 10060, 臺灣"
+66,1.55,A,4.68,2.8,6.07,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 皇膳餐廳. Detailed address: 仁愛路二段, 文北里, 中正區, 華山, 臺北市, 10060, 臺灣
+2. 西班牙大眾酒場. Detailed address: 52-1, 安東街, 誠安里, 大安區, 東區商圈, 臺北市, 10654, 臺灣"
+67,12.11,C,3.14,4.67,9.78,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 瑞星大樓. Detailed address: 華南商業銀行, 112, 中山北路二段, 集英里, 中山區, 雙連, 臺北市, 10449, 臺灣
+2. 華璞建設都更建地. Detailed address: 610之5號, 光復南路, 通化里, 大安區, 三張犁, 臺北市, 106, 臺灣"
+68,3.01,D,6.81,4.94,1.41,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 圓圓幼兒園. Detailed address: 20號, 慶城街, 中正里, 松山區, 中崙, 臺北市, 105, 臺灣
+2. 禮仁通商大樓仁座. Detailed address: 148號, 忠孝東路四段, 建倫里, 大安區, 東區商圈, 臺北市, 106, 臺灣"
+69,9.71,D,8.26,9.07,5.27,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 溜冰場. Detailed address: 南京東路四段, 美仁里, 松山區, 中崙, 臺北市, 10553, 臺灣
+2. 美而美早餐店. Detailed address: 福港街, 福中里, 士林區, 社子, 臺北市, 11169, 臺灣"
+70,7.47,C,6.88,1.42,4.05,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 惠周診所. Detailed address: 96, 大北路, 仁勇里, 士林區, 臺北市, 111, 臺灣
+2. 大木屋. Detailed address: 福華路141巷, 德華里, 士林區, 蘭雅, 臺北市, 11158, 臺灣"
+71,11.47,D,5.17,8.66,3.93,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 萬通商業大樓. Detailed address: 200號, 松江路, 中吉里, 中山區, 朱厝崙, 臺北市, 104, 臺灣
+2. 劍潭古寺. Detailed address: 6號, 北安路805巷, 北安里, 中山區, 下塔悠, 臺北市, 104, 臺灣"
+72,2.31,C,2.02,0.74,4.81,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 哈打奶奶立吞處. Detailed address: 11, 光復南路200巷, 華聲里, 大安區, 車罾, 臺北市, 106, 臺灣
+2. 成家小館. Detailed address: 仁愛路四段300巷35弄, 敦煌里, 大安區, 車罾, 臺北市, 10696, 臺灣"
+73,4.97,A,8.41,6.74,2.47,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 立安復健科. Detailed address: 130, 大東路, 仁勇里, 士林區, 臺北市, 111, 臺灣
+2. 安泰商業銀行. Detailed address: 復興北路自行車道(南京-長安西側), 力行里, 中山區, 中崙, 臺北市, 10552, 臺灣"
+74,8.31,B,6.81,10.12,11.58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 官邸旅館. Detailed address: 102之16號, 文林路, 仁勇里, 士林區, 臺北市, 111, 臺灣
+2. 玫瑰欣欣大樓. Detailed address: 8號, 光復南路473巷, 中興里, 信義區, 三張犁, 臺北市, 110, 臺灣"
+75,4.92,C,10.59,6.04,12.2,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 雍雋品. Detailed address: 70之1號, 南海路, 龍興里, 中正區, 龍匣口, 臺北市, 100, 臺灣
+2. 信義354號綠地. Detailed address: 華銀總行大樓, 123, 松仁路, 安康里, 信義區, 信義商圈, 臺北市, 110, 臺灣"
+76,4.7,C,3.97,2.02,5.36,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 大坑公園. Detailed address: 67號, 民權東路六段191巷, 湖興里, 內湖區, 五分, 臺北市, 114, 臺灣
+2. ViVi PARK《昆陽街停車場》. Detailed address: 68號, 昆陽街, 西新里, 南港區, 潭美, 臺北市, 115, 臺灣"
+77,5.67,B,2.99,7.19,5.09,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 瀧厚炙燒熟成牛排. Detailed address: 99, 民生東路五段, 東榮里, 松山區, 中崙, 臺北市, 105028, 臺灣
+2. Hotdog and Bagel. Detailed address: 18, 大直街57巷, 大直里, 中山區, 下塔悠, 臺北市, 104, 臺灣"
+78,7.14,A,13.51,13.5,8.97,"What is the straight-line distance between the following two locations? (Unit is km)
+1. TOROS. Detailed address: 中正路187巷, 福林里, 士林區, 石角, 臺北市, 11111, 臺灣
+2. 柒號咖啡. Detailed address: 10號, 南昌路一段59巷, 龍福里, 中正區, 龍匣口, 臺北市, 100, 臺灣"
+79,6.73,B,3.78,9.2,0.91,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 芯. Detailed address: 四維路48巷, 德安里, 大安區, 東區商圈, 臺北市, 10685, 臺灣
+2. 富爸爸豬腳大王. Detailed address: 雙城街, 恆安里, 中山區, 雙連, 臺北市, 104029, 臺灣"
+80,0.94,C,5.78,2.19,4.32,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 37號海鮮粥. Detailed address: 37, 和平東路三段1巷, 群賢里, 大安區, 六張犁, 臺北市, 106102, 臺灣
+2. Honey Secret 甜蜜密 - 台北信義店. Detailed address: 12號, 松壽路, 西村里, 信義區, 信義商圈, 臺北市, 110, 臺灣"
+81,7.11,D,10.59,5.59,3.05,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 八二三砲戰紀念公園. Detailed address: 八二三臺海戰役勝利紀念碑, 中山北路四段, 劍潭里, 中山區, 大龍峒, 臺北市, 11166, 臺灣
+2. 第二停車場. Detailed address: 臺北松山機場, 340-9, 敦化北路, 精忠里, 松山區, 下埤頭, 臺北市, 10548, 臺灣"
+82,2.02,A,7.22,0.66,6.26,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sappho Live. Detailed address: 1, 安和路一段102巷, 敦安里, 大安區, 車罾, 臺北市, 106, 臺灣
+2. 啤痞微型精釀啤酒吧. Detailed address: 8, 永吉路, 敦厚里, 信義區, 興雅, 臺北市, 110, 臺灣"
+83,2.18,A,4.53,8.47,4.42,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 鯊魚咬吐司. Detailed address: 信陽街, 黎明里, 中正區, 台北站前, 臺北市, 100007, 臺灣
+2. 可喜漢堡. Detailed address: 223之2, 金華街, 錦安里, 大安區, 古亭, 臺北市, 106, 臺灣"
+84,6.42,D,8.02,6.28,4.94,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 西班牙大眾酒場. Detailed address: 52-1, 安東街, 誠安里, 大安區, 東區商圈, 臺北市, 10654, 臺灣
+2. World Gym健身俱樂部. Detailed address: 8, 內湖路一段32巷, 金泰里, 中山區, 下塔悠, 臺北市, 104, 臺灣"
+85,2.57,B,1.07,3.29,9.01,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 朱崙公園. Detailed address: 龍江路55巷, 力行里, 中山區, 中崙, 臺北市, 10490, 臺灣
+2. 西華飯店都更改建工程. Detailed address: 111號, 民生東路三段, 民有里, 松山區, 下埤頭, 臺北市, 105, 臺灣"
+86,7.58,D,7.23,2.6,1.31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 觀音岩. Detailed address: 巨石園步道, 松友里, 信義區, 信義商圈, 臺北市, 11080, 臺灣
+2. 國美信義花園A. Detailed address: 21號, 忠孝東路五段236巷, 安康里, 信義區, 信義商圈, 臺北市, 110, 臺灣"
+87,4.4,B,2.51,6.28,0.64,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 植物園. Detailed address: 和平西路二段, 龍興里, 中正區, 龍匣口, 臺北市, 10079, 臺灣
+2. 天龍三溫暖. Detailed address: 73, 重慶北路一段, 圓環, 建功里, 大同區, 後車頭, 臺北市, 103016, 臺灣"
+88,4.07,A,9.64,8.15,7.08,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 保全診所. Detailed address: 64, 保安街, 延平里, 大同區, 大稻埕, 臺北市, 103009, 臺灣
+2. 捷運士林站(2號出口). Detailed address: 中山北路五段505巷46弄, 福林里, 士林區, 石角, 臺北市, 11111, 臺灣"
+89,5.48,B,4.23,10.39,9.74,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 金宴. Detailed address: 植福路, 金泰里, 中山區, 下塔悠, 臺北市, 11442, 臺灣
+2. 馥田鐵板燒. Detailed address: 龍江路37巷, 力行里, 中山區, 中崙, 臺北市, 10490, 臺灣"
+90,12.31,C,12.38,4.38,1.92,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 鐵丸十三堂. Detailed address: 昆陽街140巷, 新光里, 南港區, 潭美, 臺北市, 11558, 臺灣
+2. 溜冰場. Detailed address: 南京東路四段, 美仁里, 松山區, 中崙, 臺北市, 10553, 臺灣"
+91,1.72,D,8.36,3.28,5.1,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 丸林魯肉飯. Detailed address: 農安街, 新庄里, 中山區, 下埤頭, 臺北市, 10470, 臺灣
+2. 信義廣場地下停車場 (機車). Detailed address: 76號, 松廉路, 西村里, 信義區, 信義商圈, 臺北市, 110, 臺灣"
+92,8.08,B,3.37,6.77,5.31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 天下三絕. Detailed address: 復興南路一段219巷, 仁愛里, 大安區, 東區商圈, 臺北市, 10691, 臺灣
+2. 老圓環油飯. Detailed address: 長安西路, 建明里, 大同區, 後車頭, 臺北市, 103016, 臺灣"
+93,7.14,C,7.1,3.27,7.48,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kirikan. Detailed address: 明水路581巷, 永安里, 中山區, 下塔悠, 臺北市, 10466, 臺灣
+2. 妞呀小廚. Detailed address: 2, 南京東路三段256巷20弄, 中正里, 松山區, 中崙, 臺北市, 105, 臺灣"
+94,3.68,D,6.38,8.63,1.49,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 赤峰街教會. Detailed address: 赤峰街33巷, 光能里, 大同區, 建成, 臺北市, 10352, 臺灣
+2. 拉亞漢堡. Detailed address: 7, 南京東路二段138巷, 朱園里, 中山區, 朱厝崙, 臺北市, 104, 臺灣"
+95,5.8,C,7.1,1.83,3.72,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 昇陽十里華. Detailed address: 象神花坊, 10, 松江路133巷, 中央里, 中山區, 朱厝崙, 臺北市, 10485, 臺灣
+2. 檢驗發證大樓. Detailed address: 濟南路一段, 幸福里, 中正區, 華山, 臺北市, 100219, 臺灣"
+96,11.24,D,13.23,13.86,6.38,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 築の藏 東京築地市場丼飯店. Detailed address: 2-1, 仁愛路四段345巷15弄, 車層里, 大安區, 車罾, 臺北市, 106, 臺灣
+2. 東成牙醫診所. Detailed address: 23, 小北街, 仁勇里, 士林區, 臺北市, 111, 臺灣"
+97,11.24,D,13.05,11.35,6.64,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 永筑埕光. Detailed address: 174號, 民族西路, 揚雅里, 大同區, 大龍峒, 臺北市, 103, 臺灣
+2. 華銀總行大樓. Detailed address: 123, 松仁路, 安康里, 信義區, 信義商圈, 臺北市, 110, 臺灣"
+98,4.0,D,8.14,7.29,1.69,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Honey Secret 甜蜜密 - 台北信義店. Detailed address: 12號, 松壽路, 西村里, 信義區, 信義商圈, 臺北市, 110, 臺灣
+2. 貴州小吃. Detailed address: 富陽街21巷, 黎平里, 信義區, 六張犁, 臺北市, 11054, 臺灣"
+99,0.68,C,8.19,5.24,8.9,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 台北數位產業園區. Detailed address: 承德路三段285巷, 保安里, 大同區, 大龍峒, 臺北市, 10367, 臺灣
+2. 將作城心. Detailed address: 89號, 南昌路二段, 南福里, 中正區, 古亭, 臺北市, 100, 臺灣"
+100,5.33,A,11.58,10.29,4.1,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 安安鍋貼水餃館. Detailed address: 忠孝東路五段236巷, 廣居里, 信義區, 信義商圈, 臺北市, 11025, 臺灣
+2. 大佳碼頭. Detailed address: 行動巨蛋廣場, 大佳里, 中山區, 下埤頭, 臺北市, 10404, 臺灣"
+101,5.85,B,4.36,9.05,3.16,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 阿國切仔麵. Detailed address: 錦西街, 集英里, 中山區, 雙連, 臺北市, 10365, 臺灣
+2. 九兩雞排王. Detailed address: 吉祥路, 吉祥里, 松山區, 興雅, 臺北市, 10561, 臺灣"
+102,7.5,D,6.61,8.84,2.93,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 印度小吃真好吃. Detailed address: 1, 中山北路三段, 圓山里, 中山區, 大龍峒, 臺北市, 104, 臺灣
+2. Simple Kaffa. Detailed address: 27, 忠孝東路二段, 光華商場, 梅花里, 中正區, 華山, 臺北市, 100, 臺灣"
+103,1.16,D,0.6,6.83,3.18,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 臺灣銀行. Detailed address: 21, 紹興南街, 東門里, 中正區, 華山, 臺北市, 100, 臺灣
+2. 永豐商業銀行. Detailed address: 316, 仁愛路四段, 光信里, 大安區, 車罾, 臺北市, 106, 臺灣"
+104,0.76,C,5.7,4.41,2.25,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 文德三號公園(江南街71巷16弄). Detailed address: 江南街71巷16弄, 瑞光里, 內湖區, 臺北市, 114063, 臺灣
+2. PIZZA HUT必勝客. Detailed address: 信義路六段, 松友里, 信義區, 信義商圈, 臺北市, 11085, 臺灣"
+105,3.78,C,15.76,7.79,6.19,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 三興國小. Detailed address: 基隆路二段, 嘉興里, 信義區, 六張犁, 臺北市, 110606, 臺灣
+2. Go Station - 孚海國際車業站. Detailed address: 延平北路五段302巷, 葫東里, 士林區, 社子, 臺北市, 103035, 臺灣"
+106,1.08,B,6.53,10.97,14.3,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 貿七社區. Detailed address: 29號, 內湖路二段179巷46弄, 湖濱里, 內湖區, 臺北市, 114, 臺灣
+2. 僑安大廈. Detailed address: 177號, 信義路四段, 敦安里, 大安區, 車罾, 臺北市, 106, 臺灣"
+107,8.34,D,1.99,12.73,5.04,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 莫凡彼. Detailed address: 民生東路四段, 精忠里, 松山區, 下埤頭, 臺北市, 10574, 臺灣
+2. 捷運小南門站(1號出口). Detailed address: 愛國西路, 建國里, 中正區, 龍匣口, 臺北市, 100213, 臺灣"
+108,10.41,C,10.08,3.07,1.58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 信義354號綠地. Detailed address: 華銀總行大樓, 123, 松仁路, 安康里, 信義區, 信義商圈, 臺北市, 110, 臺灣
+2. 台玻大樓. Detailed address: 261, 南京東路三段, 中正里, 松山區, 中崙, 臺北市, 105405, 臺灣"
+109,5.81,C,6.77,1.08,9.03,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 妞呀小廚. Detailed address: 2, 南京東路三段256巷20弄, 中正里, 松山區, 中崙, 臺北市, 105, 臺灣
+2. 湛爐咖啡. Detailed address: 忠孝東路四段, 仁愛里, 大安區, 東區商圈, 臺北市, 106070, 臺灣"
+110,4.97,D,8.45,10.05,6.35,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 延平涼州街口. Detailed address: 平樂陸橋, 南芳里, 大同區, 大稻埕, 臺北市, 10348, 臺灣
+2. 臺北醫學大學. Detailed address: 吳興街220巷, 雙和里, 信義區, 三張犁, 臺北市, 11031, 臺灣"
+111,4.51,D,6.4,2.41,7.58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 內湖庄役場會議室. Detailed address: 342號, 內湖路二段, 湖濱里, 內湖區, 臺北市, 114, 臺灣
+2. 首相. Detailed address: 28號, 忠孝東路二段64巷, 幸福里, 中正區, 華山, 臺北市, 100, 臺灣"
+112,10.67,C,2.52,6.88,10.8,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 榮、和漢酒餚. Detailed address: 重慶北路一段83巷, 圓環, 建功里, 大同區, 建成, 臺北市, 103016, 臺灣
+2. 胖雞醬淋. Detailed address: 江南街71巷16弄, 港墘里, 內湖區, 臺北市, 114063, 臺灣"
+113,5.79,D,2.05,1.02,7.4,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 成家小館. Detailed address: 仁愛路四段300巷35弄, 敦煌里, 大安區, 車罾, 臺北市, 10696, 臺灣
+2. 祥瑞牙醫診所. Detailed address: 485, 文林路, 福佳里, 士林區, 石角, 臺北市, 111, 臺灣"
+114,8.54,A,5.71,9.66,14.72,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 羅媽媽便當店. Detailed address: 成功路四段30巷28弄, 內湖里, 內湖區, 臺北市, 114015, 臺灣
+2. 雅晴牙醫診所. Detailed address: 127, 延平北路二段, 延平里, 大同區, 大稻埕, 臺北市, 103009, 臺灣"
+115,7.28,A,11.07,3.24,10.45,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 五月花旅舍. Detailed address: 1號, 中華路一段1巷, 光復里, 中正區, 台北站前, 臺北市, 100, 臺灣
+2. 仙樹公園綠地. Detailed address: 116號, 內湖路一段285巷69弄, 西湖里, 內湖區, 下塔悠, 臺北市, 114, 臺灣"
+116,4.77,B,1.39,7.51,2.94,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 金賢手工臭豆腐. Detailed address: 龍江路37巷, 力行里, 中山區, 中崙, 臺北市, 10490, 臺灣
+2. 惠比寿 燒鳥酒場. Detailed address: 1, 民權東路三段60巷3弄, 江寧里, 中山區, 下埤頭, 臺北市, 105401, 臺灣"
+117,1.94,A,3.46,4.91,4.93,"What is the straight-line distance between the following two locations? (Unit is km)
+1. I'm PASTA. Detailed address: 2之1, 南京東路二段115巷3弄, 中央里, 中山區, 朱厝崙, 臺北市, 104, 臺灣
+2. 榮、和漢酒餚. Detailed address: 重慶北路一段83巷, 圓環, 建功里, 大同區, 建成, 臺北市, 103016, 臺灣"
+118,3.94,D,9.86,1.43,2.74,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 美味早點站. Detailed address: 東新街80巷, 成福里, 南港區, 潭美, 臺北市, 11569, 臺灣
+2. 翁記水煎包. Detailed address: 南京東路五段123巷4弄, 東光里, 松山區, 東區商圈, 臺北市, 10582, 臺灣"
+119,8.8,D,6.77,0.6,2.86,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 麥味登. Detailed address: 忠孝東路五段236巷10弄, 廣居里, 信義區, 興雅, 臺北市, 11025, 臺灣
+2. 慶隆商務俱樂部. Detailed address: 293-1, 復興南路一段, 仁慈里, 大安區, 東區商圈, 臺北市, 10665, 臺灣"
+120,6.9,C,1.89,0.86,6.97,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 大埔鐵板燒. Detailed address: 永吉路, 五全里, 信義區, 興雅, 臺北市, 11069, 臺灣
+2. 松德精神科診所. Detailed address: 108, 松德路, 安康里, 信義區, 信義商圈, 臺北市, 110, 臺灣"
+121,5.48,B,3.91,9.56,11.48,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 雅晴牙醫診所. Detailed address: 127, 延平北路二段, 延平里, 大同區, 大稻埕, 臺北市, 103009, 臺灣
+2. 沛沛彤早餐店. Detailed address: 忠孝東路四段77巷, 光武里, 大安區, 東區商圈, 臺北市, 106070, 臺灣"
+122,4.7,A,1.58,1.55,10.81,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 楊記大餛飩. Detailed address: 延吉街137巷, 華聲里, 大安區, 車罾, 臺北市, 10694, 臺灣
+2. 民權國中(民權西路). Detailed address: 1, 重慶北路三段, 隆和里, 大同區, 雙連, 臺北市, 10362, 臺灣"
+123,14.72,B,9.0,7.77,2.08,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 中華路意麺担仔麺. Detailed address: 中華路二段441巷, 永昌里, 中正區, 龍匣口, 臺北市, 10881, 臺灣
+2. 宜品素食. Detailed address: 104, 昆陽街, 西新里, 南港區, 潭美, 臺北市, 115, 臺灣"
+124,4.01,A,6.86,6.08,2.92,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 鬍鬚張. Detailed address: 62, 寧夏路, 星明里, 大同區, 建成, 臺北市, 103019, 臺灣
+2. 雅室牛排. Detailed address: 1, 仁愛路四段105巷, 建倫里, 大安區, 東區商圈, 臺北市, 10689, 臺灣"
+125,14.64,B,7.96,12.9,4.55,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Go Station - 孚海國際車業站. Detailed address: 延平北路五段302巷, 葫東里, 士林區, 社子, 臺北市, 103035, 臺灣
+2. 麥味登. Detailed address: 忠孝東路五段236巷10弄, 廣居里, 信義區, 興雅, 臺北市, 11025, 臺灣"
+126,8.03,B,2.06,6.62,0.85,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 樂業停車場. Detailed address: 樂業街15巷, 虎嘯里, 大安區, 六張犁, 臺北市, 10675, 臺灣
+2. 銀河堂讚岐烏龍麵. Detailed address: 6, 延吉街137巷, 華聲里, 大安區, 車罾, 臺北市, 106, 臺灣"
+127,6.76,B,2.41,7.29,4.38,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 老張牛肉麵. Detailed address: 105, 愛國東路, 永康里, 大安區, 古亭, 臺北市, 106, 臺灣
+2. 小張龜山島現撈海鮮. Detailed address: 73, 遼寧街, 力行里, 中山區, 中崙, 臺北市, 104, 臺灣"
+128,9.78,B,2.01,3.41,6.08,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 九兩雞排王. Detailed address: 吉祥路, 吉祥里, 松山區, 興雅, 臺北市, 10561, 臺灣
+2. 芯. Detailed address: 四維路48巷, 德安里, 大安區, 東區商圈, 臺北市, 10685, 臺灣"
+129,4.06,D,4.41,10.09,2.74,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 阿維麵線. Detailed address: 四平商圈, 四平街, 中央里, 中山區, 朱厝崙, 臺北市, 104075, 臺灣
+2. 氣象署圖書室. Detailed address: 交通部中央氣象署, 64, 公園路, 建國里, 中正區, 龍匣口, 臺北市, 100006, 臺灣"
+130,10.75,B,7.79,11.27,3.25,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 松德精神科診所. Detailed address: 108, 松德路, 安康里, 信義區, 信義商圈, 臺北市, 110, 臺灣
+2. 立安復健科. Detailed address: 130, 大東路, 仁勇里, 士林區, 臺北市, 111, 臺灣"
+131,11.05,D,6.02,0.53,4.33,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 亞洲藝術中心. Detailed address: 樂群三路, 成功里, 中山區, 下塔悠, 臺北市, 104052, 臺灣
+2. LOTUS Bar. Detailed address: 78, 長安東路二段, 朱園里, 中山區, 朱厝崙, 臺北市, 104, 臺灣"
+132,3.76,C,7.59,1.42,5.45,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 臨沂帝國. Detailed address: 6號, 新生南路一段54巷, 幸市里, 中正區, 華山, 臺北市, 100, 臺灣
+2. 臺大金華大廈. Detailed address: 80號, 金華街, 錦泰里, 大安區, 龍匣口, 臺北市, 106, 臺灣"
+133,7.7,D,8.06,4.97,3.65,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 阿勳鹹粥. Detailed address: 240, 吉林路, 中庄里, 中山區, 朱厝崙, 臺北市, 10467, 臺灣
+2. 橘子樹托嬰中心. Detailed address: 2, 瑞安街208巷, 新龍里, 大安區, 臺北市, 106, 臺灣"
+134,5.79,D,11.58,2.11,4.3,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 台北君悅酒店停車場 (專用入口). Detailed address: 君悅酒店, 2, 松壽路, 西村里, 信義區, 信義商圈, 臺北市, 11051, 臺灣
+2. 阿勳鹹粥. Detailed address: 240, 吉林路, 中庄里, 中山區, 朱厝崙, 臺北市, 10467, 臺灣"
+135,9.89,B,6.32,4.38,8.53,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 東石鮮蚵. Detailed address: 寧夏路, 星明里, 大同區, 建成, 臺北市, 103019, 臺灣
+2. 池上便當. Detailed address: 內湖路一段411巷9弄, 麗山里, 內湖區, 臺北市, 11444, 臺灣"
+136,3.43,C,6.48,1.46,9.4,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 垃圾場. Detailed address: 松山高中, 156, 基隆路一段, 新仁里, 信義區, 興雅, 臺北市, 10070, 臺灣
+2. 新佑泉診所. Detailed address: 508, 忠孝東路五段, 松光里, 信義區, 信義商圈, 臺北市, 110, 臺灣"
+137,0.67,D,8.81,5.43,1.76,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 新南大藥房. Detailed address: 67, 天水路, 建功里, 大同區, 後車頭, 臺北市, 103007, 臺灣
+2. 新生長安路口. Detailed address: 新生高架道路, 興亞里, 中山區, 南西商圈, 臺北市, 10484, 臺灣"
+138,10.06,B,4.39,10.6,6.7,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 雅室牛排. Detailed address: 1, 仁愛路四段105巷, 建倫里, 大安區, 東區商圈, 臺北市, 10689, 臺灣
+2. 保全診所. Detailed address: 64, 保安街, 延平里, 大同區, 大稻埕, 臺北市, 103009, 臺灣"
+139,8.76,B,5.85,2.67,2.96,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 常殷至善園. Detailed address: 111號, 延平北路一段, 朝陽里, 大同區, 後車頭, 臺北市, 103, 臺灣
+2. 興雅國小. Detailed address: 9, 基隆路一段83巷, 雅祥里, 信義區, 興雅, 臺北市, 110, 臺灣"
+140,4.94,B,8.45,14.95,15.45,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 雨聲街165巷口. Detailed address: 雨聲街, 名山里, 士林區, 石角, 臺北市, 11146, 臺灣
+2. 三興國小. Detailed address: 基隆路二段, 嘉興里, 信義區, 六張犁, 臺北市, 110606, 臺灣"
+141,8.15,B,2.31,8.72,4.64,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 儂納小吃. Detailed address: 12, 南京東路三段109巷, 復華里, 中山區, 朱厝崙, 臺北市, 10410, 臺灣
+2. 銀座杏子豬排. Detailed address: 承德路一段, 黎明里, 中正區, 台北站前, 臺北市, 10041, 臺灣"
+142,5.41,C,2.44,1.18,5.67,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 未來館. Detailed address: 松江路, 新庄里, 中山區, 下埤頭, 臺北市, 10472, 臺灣
+2. 柏美大廈. Detailed address: 品鍋臭臭鍋, 民權東路二段152巷, 松江里, 中山區, 朱厝崙, 臺北市, 10477, 臺灣"
+143,10.2,B,6.18,1.22,4.17,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 新佑泉診所. Detailed address: 508, 忠孝東路五段, 松光里, 信義區, 信義商圈, 臺北市, 110, 臺灣
+2. 肉老大. Detailed address: 錦西街, 集英里, 中山區, 雙連, 臺北市, 10365, 臺灣"
+144,7.1,B,5.11,10.95,12.9,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 馥田鐵板燒. Detailed address: 龍江路37巷, 力行里, 中山區, 中崙, 臺北市, 10490, 臺灣
+2. 太平洋土魠魚羹王. Detailed address: 福德路, 仁勇里, 士林區, 臺北市, 11162, 臺灣"
+145,9.07,B,2.6,7.79,8.0,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 芳田咖哩義大利麵. Detailed address: 八德路二段, 中正里, 松山區, 中崙, 臺北市, 105408, 臺灣
+2. 萬家鄉. Detailed address: 和平東路二段175巷, 龍生里, 大安區, 六張犁, 臺北市, 10664, 臺灣"
+146,8.09,D,13.02,12.07,5.55,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 六號水門. Detailed address: 撫遠街389巷, 莊敬里, 松山區, 下塔悠, 臺北市, 10591, 臺灣
+2. 鷄笑. Detailed address: 承德路一段, 黎明里, 中正區, 台北站前, 臺北市, 10041, 臺灣"
+147,6.29,A,1.8,8.7,13.34,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 天龍三溫暖. Detailed address: 73, 重慶北路一段, 圓環, 建功里, 大同區, 後車頭, 臺北市, 103016, 臺灣
+2. 婕登藥局. Detailed address: 饒河街觀光夜市, 饒河街, 慈祐里, 松山區, 潭美, 臺北市, 10566, 臺灣"
+148,9.6,D,3.06,7.78,4.21,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 冠京華. Detailed address: 南京東路四段133巷4弄, 聯合新邨, 松山區, 中崙, 臺北市, 105411, 臺灣
+2. 劉山東牛肉麵. Detailed address: 2, 開封街一段14巷, 黎明里, 中正區, 台北站前, 臺北市, 100, 臺灣"
+149,7.53,C,7.24,4.01,9.08,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 蘿莎娜. Detailed address: 八德路三段8巷, 敦化里, 松山區, 中崙, 臺北市, 105408, 臺灣
+2. 廣炒. Detailed address: 泉州街, 龍光里, 中正區, 龍匣口, 臺北市, 100056, 臺灣"
+150,9.95,D,2.67,15.85,8.51,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 台灣基督長老會士林教會. Detailed address: 文林路421巷, 福德里, 士林區, 石角, 臺北市, 11111, 臺灣
+2. 北捷昆陽站i郵箱. Detailed address: 忠孝東路六段403巷, 合成里, 南港區, 潭美, 臺北市, 11558, 臺灣"
+151,7.5,D,0.82,13.66,6.24,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 華銀總行大樓. Detailed address: 123, 松仁路, 安康里, 信義區, 信義商圈, 臺北市, 110, 臺灣
+2. 帝國花園廣場. Detailed address: 星聚點, 83, 延平北路二段, 朝陽里, 大同區, 大稻埕, 臺北市, 103009, 臺灣"
+152,11.43,D,2.56,0.9,3.92,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 古亭國中. Detailed address: 465, 中華路二段, 永功里, 中正區, 龍匣口, 臺北市, 10072, 臺灣
+2. 王樣力麒花園. Detailed address: 明台產物保險, 松江路150巷, 中吉里, 中山區, 朱厝崙, 臺北市, 104092, 臺灣"
+153,4.31,D,3.12,2.81,1.58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 保霞宮. Detailed address: 21, 松江路226巷, 中庄里, 中山區, 朱厝崙, 臺北市, 104, 臺灣
+2. 長春慶城街口. Detailed address: 長春路, 松基里, 松山區, 中崙, 臺北市, 10547, 臺灣"
+154,8.58,C,9.33,5.28,3.7,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 金毓通地上權工程 (B區). Detailed address: 崇聖大樓, 4, 忠孝西路一段, 黎明里, 中正區, 台北站前, 臺北市, 10041, 臺灣
+2. 昶泰松仁停車場. Detailed address: 松仁路, 安康里, 信義區, 信義商圈, 臺北市, 110062, 臺灣"
+155,9.55,D,3.99,5.97,1.71,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 中央藝文公園. Detailed address: 杭州北路, 光華商場, 梅花里, 中正區, 華山, 臺北市, 10058, 臺灣
+2. 五月花旅舍. Detailed address: 1號, 中華路一段1巷, 光復里, 中正區, 台北站前, 臺北市, 100, 臺灣"
+156,7.57,C,7.58,3.3,8.35,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 雷記燒臘. Detailed address: 196, 信安街, 黎平里, 信義區, 六張犁, 臺北市, 110, 臺灣
+2. 新八珍燒臘. Detailed address: 4號, 南京東路五段23巷, 東光里, 松山區, 中崙, 臺北市, 105, 臺灣"
+157,0.87,C,6.32,3.61,2.32,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 富生二公園. Detailed address: 3號, 永吉路120巷80巷, 敦厚里, 信義區, 興雅, 臺北市, 110, 臺灣
+2. 五常國中. Detailed address: 1, 復興北路430巷, 下埤里, 中山區, 下埤頭, 臺北市, 10476, 臺灣"
+158,4.92,A,11.13,1.02,12.76,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 老鼎旺. Detailed address: 四維路52巷, 德安里, 大安區, 東區商圈, 臺北市, 10684, 臺灣
+2. Chang Yang. Detailed address: 蔣經國總統圖書館, 301, 北安路, 劍潭里, 中山區, 下埤頭, 臺北市, 104, 臺灣"
+159,7.05,A,14.29,1.37,13.65,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 其實豆製所. Detailed address: 274, 瑞安街, 龍生里, 大安區, 臺北市, 106, 臺灣
+2. 小籠包. Detailed address: 89, 大南路, 義信里, 士林區, 社子, 臺北市, 111, 臺灣"
+160,9.96,B,8.75,6.45,14.06,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 世貿公園大廈. Detailed address: 32號, 松德路307巷, 松友里, 信義區, 信義商圈, 臺北市, 110, 臺灣
+2. 百齡右岸河濱公園. Detailed address: 基隆河右岸自行車道, 福中里, 士林區, 社子, 臺北市, 11169, 臺灣"
+161,4.83,B,2.76,7.37,4.32,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 大安國宅. Detailed address: 地下停車場, 建國南路二段79巷, 新龍里, 大安區, 東區商圈, 臺北市, 10659, 臺灣
+2. 信義351號綠地. Detailed address: 遠雄金融中心, 1, 松高路, 西村里, 信義區, 興雅, 臺北市, 11073, 臺灣"
+162,2.11,D,3.39,1.95,4.8,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 滿佳香漢堡店. Detailed address: 大北路, 仁勇里, 士林區, 臺北市, 11162, 臺灣
+2. 星巴克. Detailed address: 承德路一段, 黎明里, 中正區, 台北站前, 臺北市, 10041, 臺灣"
+163,9.43,D,3.39,15.48,8.28,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 廟口厚切牛排. Detailed address: 延平北路三段, 國順里, 大同區, 大龍峒, 臺北市, 10375, 臺灣
+2. 金龍公園. Detailed address: 金龍路112巷, 金龍里, 內湖區, 臺北市, 11455, 臺灣"
+164,1.42,B,4.46,2.22,12.24,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 濱江實驗國中. Detailed address: 262, 樂群二路, 金泰里, 中山區, 下塔悠, 臺北市, 10462, 臺灣
+2. 圓山藏美. Detailed address: 180號, 承德路三段, 至聖里, 大同區, 大龍峒, 臺北市, 103, 臺灣"
+165,4.51,D,5.63,4.32,2.66,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 咖啡弄. Detailed address: 42, 敦化南路一段187巷, 建安里, 大安區, 東區商圈, 臺北市, 106, 臺灣
+2. 滙豐(台灣)商業銀行. Detailed address: 266, 松江路, 中庄里, 中山區, 朱厝崙, 臺北市, 104, 臺灣"
+166,10.67,D,3.19,9.98,5.92,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 美而美早餐店. Detailed address: 福港街, 福中里, 士林區, 社子, 臺北市, 11169, 臺灣
+2. 富富の正. Detailed address: 金山南路一段110巷, 文祥里, 中正區, 華山, 臺北市, 10057, 臺灣"
+167,5.0,D,9.58,3.93,2.75,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 可喜漢堡. Detailed address: 223之2, 金華街, 錦安里, 大安區, 古亭, 臺北市, 106, 臺灣
+2. Zoo Cafe 動物園野餐咖啡. Detailed address: 15, 仁愛路四段345巷5弄, 車層里, 大安區, 車罾, 臺北市, 106, 臺灣"
+168,7.49,B,5.75,11.68,4.34,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 上台北. Detailed address: 7~9, 杭州南路一段, 幸福里, 中正區, 華山, 臺北市, 100024, 臺灣
+2. TOROS. Detailed address: 中正路187巷, 福林里, 士林區, 石角, 臺北市, 11111, 臺灣"
+169,8.48,C,5.35,1.0,8.13,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Simple Kaffa. Detailed address: 27, 忠孝東路二段, 光華商場, 梅花里, 中正區, 華山, 臺北市, 100, 臺灣
+2. 元大商業銀行. Detailed address: 109, 松江路, 朱園里, 中山區, 朱厝崙, 臺北市, 104, 臺灣"
+170,9.84,C,7.4,2.25,7.4,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 首相. Detailed address: 28號, 忠孝東路二段64巷, 幸福里, 中正區, 華山, 臺北市, 100, 臺灣
+2. 怡亨酒店. Detailed address: 370, 敦化南路一段, 德安里, 大安區, 東區商圈, 臺北市, 10684, 臺灣"
+171,0.5,B,3.13,8.64,0.83,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 吉富早餐. Detailed address: 瑞安街, 龍生里, 大安區, 臺北市, 10659, 臺灣
+2. 新光三越A4停車場 (汽車入口). Detailed address: 鼎泰豐, 19, 松高路, 西村里, 信義區, 興雅, 臺北市, 110, 臺灣"
+172,7.48,C,10.06,2.06,7.49,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 法豆鮮焙咖啡. Detailed address: 210, 南京東路五段, 新聚里, 松山區, 興雅, 臺北市, 105, 臺灣
+2. 蒟蒻綠豆湯. Detailed address: 玉成街, 萬福里, 南港區, 潭美, 臺北市, 11082, 臺灣"
+173,2.47,B,4.74,7.49,9.21,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 民權國中(民權西路). Detailed address: 1, 重慶北路三段, 隆和里, 大同區, 雙連, 臺北市, 10362, 臺灣
+2. 立祥牙醫. Detailed address: 110, 復興南路二段, 龍陣里, 大安區, 東區商圈, 臺北市, 106, 臺灣"
+174,8.27,B,0.67,2.68,5.56,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 貴吾堂. Detailed address: 基隆路一段35巷9弄, 雅祥里, 信義區, 興雅, 臺北市, 11069, 臺灣
+2. 齋心坊素食小吃. Detailed address: 松山路, 四育里, 信義區, 潭美, 臺北市, 11068, 臺灣"
+175,8.1,B,3.0,4.86,4.23,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 北安町. Detailed address: 北安路, 北安里, 中山區, 下塔悠, 臺北市, 104050, 臺灣
+2. 雨聲街165巷口. Detailed address: 雨聲街, 名山里, 士林區, 石角, 臺北市, 11146, 臺灣"
+176,5.26,C,11.09,3.92,2.07,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 怡情園. Detailed address: 民族東路, 新庄里, 中山區, 下埤頭, 臺北市, 104058, 臺灣
+2. 撫遠公園. Detailed address: 莊敬里, 松山區, 下塔悠, 臺北市, 10591, 臺灣"
+177,9.63,D,2.45,7.52,4.15,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 原動室. Detailed address: 臺北機廠鐵道博物館園區, 48, 市民大道五段, 新仁里, 信義區, 興雅, 臺北市, 110055, 臺灣
+2. 紀汎希. Detailed address: 悅禾泰式養身舒壓SPA會館, 97, 中山北路一段, 正得里, 中山區, 南西商圈, 臺北市, 104, 臺灣"
+178,10.83,B,3.02,5.02,6.58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 第一商業銀行. Detailed address: 16, 光復北路, 復勢里, 松山區, 車罾, 臺北市, 105, 臺灣
+2. 天香素食. Detailed address: 福德街221巷, 中行里, 信義區, 臺北市, 11079, 臺灣"
+179,7.15,B,3.42,11.07,2.0,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 新中華大樓. Detailed address: 華南商業銀行, 南京東路三段, 復華里, 中山區, 中崙, 臺北市, 10595, 臺灣
+2. 辛亥路橋下停車場. Detailed address: 建國快速道路, 龍坡里, 大安區, 古亭, 臺北市, 10660, 臺灣"
+180,6.01,C,11.59,4.22,7.78,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ASI南洋風味館. Detailed address: 酒泉街28巷, 至聖里, 大同區, 大龍峒, 臺北市, 10369, 臺灣
+2. 19臻味茶苑. Detailed address: 19, 金山南路二段13巷, 永康里, 大安區, 古亭, 臺北市, 106, 臺灣"
+181,9.05,B,7.23,5.13,2.4,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 蘭州整宅. Detailed address: 15號, 昌吉街61巷35弄, 揚雅里, 大同區, 大龍峒, 臺北市, 103, 臺灣
+2. 世貿公園大廈. Detailed address: 32號, 松德路307巷, 松友里, 信義區, 信義商圈, 臺北市, 110, 臺灣"
+182,10.46,C,11.27,4.28,2.22,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 基督教新生教團重慶教會. Detailed address: 民權西路144巷, 民權里, 大同區, 雙連, 臺北市, 103, 臺灣
+2. 福林國小. Detailed address: 75, 福志路, 福志里, 士林區, 石角, 臺北市, 11141, 臺灣"
+183,2.71,B,5.7,9.79,9.14,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 台北南天宮五府千歲. Detailed address: 松山路650巷15弄, 松隆里, 信義區, 信義商圈, 臺北市, 11080, 臺灣
+2. 保霞宮. Detailed address: 21, 松江路226巷, 中庄里, 中山區, 朱厝崙, 臺北市, 104, 臺灣"
+184,1.02,B,2.51,9.57,7.15,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 台北富邦商業銀行. Detailed address: 61, 仁愛路二段, 幸市里, 中正區, 華山, 臺北市, 100, 臺灣
+2. 通安區民活動中心. Detailed address: 通安街, 通安里, 大安區, 六張犁, 臺北市, 10680, 臺灣"
+185,2.12,A,5.17,7.24,6.21,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 阿豬媽. Detailed address: 承德路一段, 黎明里, 中正區, 台北站前, 臺北市, 10041, 臺灣
+2. 植物園. Detailed address: 和平西路二段, 龍興里, 中正區, 龍匣口, 臺北市, 10079, 臺灣"
+186,8.67,D,2.91,7.45,1.73,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 可不可熟成紅茶. Detailed address: 182-2, 長春路, 中央里, 中山區, 朱厝崙, 臺北市, 104, 臺灣
+2. 創義麵. Detailed address: 62, 敦化南路一段160巷, 光武里, 大安區, 東區商圈, 臺北市, 106, 臺灣"
+187,5.48,A,11.3,10.0,3.71,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 北醫謝記小籠包. Detailed address: 吳興街, 三張里, 信義區, 三張犁, 臺北市, 11031, 臺灣
+2. Mimosa. Detailed address: 赤峰街23巷, 光能里, 大同區, 建成, 臺北市, 103014, 臺灣"
+188,5.17,C,4.57,2.54,4.67,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 新光三越A4停車場 (汽車入口). Detailed address: 鼎泰豐, 19, 松高路, 西村里, 信義區, 興雅, 臺北市, 110, 臺灣
+2. Sunny Heart Coffee. Detailed address: 忠孝東路三段251巷8弄, 誠安里, 大安區, 東區商圈, 臺北市, 10666, 臺灣"
+189,10.24,C,5.23,7.86,14.6,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 內湖三總郵局i郵箱. Detailed address: 325, 成功路二段, 湖興里, 內湖區, 臺北市, 114, 臺灣
+2. 小茅屋四川店. Detailed address: 5-6, 麗水街, 永康里, 大安區, 古亭, 臺北市, 106, 臺灣"
+190,3.36,A,4.77,2.09,6.77,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 西安公園. Detailed address: 德明財經大學, 56, 環山路一段, 西湖里, 內湖區, 下塔悠, 臺北市, 114, 臺灣
+2. 全球人壽企業總部建築基地. Detailed address: 富錦街77巷6弄, 精忠里, 松山區, 下埤頭, 臺北市, 10548, 臺灣"
+191,9.02,B,3.83,4.89,0.65,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 多加精緻早午餐. Detailed address: 莊敬路325巷, 三張里, 信義區, 三張犁, 臺北市, 11058, 臺灣
+2. 城市車旅三創生活園區場. Detailed address: 八德路一段43巷, 光華商場, 梅花里, 中正區, 華山, 臺北市, 100013, 臺灣"
+192,3.59,A,2.48,2.24,7.35,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Q Burger 中山吉林店. Detailed address: 吉林路393巷, 新喜里, 中山區, 下埤頭, 臺北市, 10470, 臺灣
+2. 楊記大餛飩. Detailed address: 延吉街137巷, 華聲里, 大安區, 車罾, 臺北市, 10694, 臺灣"
+193,2.03,A,7.54,4.33,6.17,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 檢驗發證大樓. Detailed address: 濟南路一段, 幸福里, 中正區, 華山, 臺北市, 100219, 臺灣
+2. 萬通商業大樓. Detailed address: 200號, 松江路, 中吉里, 中山區, 朱厝崙, 臺北市, 104, 臺灣"
+194,1.49,A,6.6,5.58,3.33,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 松錦二號公園. Detailed address: 17號, 民生東路二段127巷, 中庄里, 中山區, 朱厝崙, 臺北市, 104, 臺灣
+2. 朱崙公園. Detailed address: 龍江路55巷, 力行里, 中山區, 中崙, 臺北市, 10490, 臺灣"
+195,4.93,B,0.52,5.05,2.12,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 中山華府名廈. Detailed address: The Daft House, 中山北路一段, 民安里, 中山區, 南西商圈, 臺北市, 10444, 臺灣
+2. 臺大醫院兒童醫療大樓. Detailed address: 國立臺灣大學醫學院附設醫院, 1, 常德街, 黎明里, 中正區, 城內, 臺北市, 10048, 臺灣"
+196,5.37,A,12.57,2.61,6.75,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 河雙21號河濱公園. Detailed address: 基隆河右岸自行車道, 洲美里, 北投區, 社子, 臺北市, 111063, 臺灣
+2. 長安富裕大樓. Detailed address: 新丼, 66, 長安西路, 建明里, 大同區, 南西商圈, 臺北市, 103, 臺灣"
+197,6.99,B,5.72,1.24,9.15,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 北捷昆陽站i郵箱. Detailed address: 忠孝東路六段403巷, 合成里, 南港區, 潭美, 臺北市, 11558, 臺灣
+2. 民權建國路口. Detailed address: 民權東路三段, 行仁里, 中山區, 下埤頭, 臺北市, 104477, 臺灣"
+198,7.3,A,6.07,15.28,12.63,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 嘟嘟房林森公園場 (南京東路出入口). Detailed address: 嘟嘟房林森公園場, 新生北路二段28巷, 康樂里, 中山區, 南西商圈, 臺北市, 104012, 臺灣
+2. 香月美食. Detailed address: 成功路四段30巷, 內湖里, 內湖區, 臺北市, 11489, 臺灣"
+199,8.26,D,6.62,7.21,2.89,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 松山龍城市場i郵箱. Detailed address: 光復北路190巷, 龍田里, 松山區, 中崙, 臺北市, 105411, 臺灣
+2. 彭園湘菜館. Detailed address: 380, 林森北路, 聚盛里, 中山區, 南西商圈, 臺北市, 10491, 臺灣"
+200,10.08,C,7.88,5.85,7.51,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 大木屋. Detailed address: 福華路141巷, 德華里, 士林區, 蘭雅, 臺北市, 11158, 臺灣
+2. 儂納小吃. Detailed address: 12, 南京東路三段109巷, 復華里, 中山區, 朱厝崙, 臺北市, 10410, 臺灣"
+201,10.65,C,13.72,8.01,5.13,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 士林馥記烤鴨. Detailed address: 中正路, 福德里, 士林區, 社子, 臺北市, 111, 臺灣
+2. 一蘭拉麵. Detailed address: 97, 松仁路, 安康里, 信義區, 信義商圈, 臺北市, 11073, 臺灣"
+202,0.76,B,2.64,7.72,9.86,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 苔毛咖啡. Detailed address: 345, 嘉興街, 芳和里, 大安區, 六張犁, 臺北市, 106, 臺灣
+2. 信義分隊. Detailed address: 台北市政府消防局, 1, 松仁路, 興雅里, 信義區, 興雅, 臺北市, 11073, 臺灣"
+203,1.28,A,6.76,7.07,6.02,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 藏壽司. Detailed address: 12, 館前路, 黎明里, 中正區, 台北站前, 臺北市, 100, 臺灣
+2. 大信藥局. Detailed address: 6, 林森北路159巷, 正義里, 中山區, 南西商圈, 臺北市, 104008, 臺灣"
+204,3.4,D,3.74,7.99,5.82,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 舊衣回收箱. Detailed address: 永樂布業商場, 21, 迪化街一段, 永樂里, 大同區, 大稻埕, 臺北市, 103012, 臺灣
+2. 金宴. Detailed address: 植福路, 金泰里, 中山區, 下塔悠, 臺北市, 11442, 臺灣"
+205,7.24,B,2.66,5.78,0.51,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 大安一次變電所. Detailed address: 14號, 仁愛路四段27巷, 仁愛里, 大安區, 東區商圈, 臺北市, 106, 臺灣
+2. 摩宿. Detailed address: 76之2號, 新生北路二段, 中山里, 中山區, 南西商圈, 臺北市, 104, 臺灣"
+206,8.04,C,14.29,6.78,1.88,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 永和豆漿大王. Detailed address: 社正路, 社子里, 士林區, 社子, 臺北市, 11165, 臺灣
+2. 大來小館. Detailed address: 麗水街, 永康里, 大安區, 古亭, 臺北市, 106007, 臺灣"
+207,6.53,B,2.53,4.22,9.75,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 元大商業銀行. Detailed address: 109, 松江路, 朱園里, 中山區, 朱厝崙, 臺北市, 104, 臺灣
+2. 築の藏 東京築地市場丼飯店. Detailed address: 2-1, 仁愛路四段345巷15弄, 車層里, 大安區, 車罾, 臺北市, 106, 臺灣"
+208,7.78,C,8.69,2.08,6.02,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 揚昇松江苑. Detailed address: 60, 松江路, 興亞里, 中山區, 朱厝崙, 臺北市, 104096, 臺灣
+2. 延吉公寓. Detailed address: 4之2號, 延吉街22巷, 吉仁里, 松山區, 中崙, 臺北市, 105, 臺灣"
+209,1.46,A,4.68,8.14,6.76,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 衛理幼兒園. Detailed address: 新生南路一段, 民輝里, 大安區, 華山, 臺北市, 10062, 臺灣
+2. 惠安烏龍麵. Detailed address: 遼寧街, 力行里, 中山區, 中崙, 臺北市, 10488, 臺灣"
+210,6.47,A,7.95,9.77,8.88,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 金甌滷味. Detailed address: 師大路39巷, 龍泉里, 大安區, 古亭, 臺北市, 10645, 臺灣
+2. 一品小吃. Detailed address: 通河東街一段6巷, 福華里, 士林區, 大龍峒, 臺北市, 111054, 臺灣"
+211,4.43,D,10.38,6.25,2.52,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 鍋貼. Detailed address: 龍江路, 下埤里, 中山區, 下埤頭, 臺北市, 10476, 臺灣
+2. WOWffizi Cafe&Bistro 烏菲茲餐酒館. Detailed address: 南京西路18巷4弄, 建泰里, 大同區, 南西商圈, 臺北市, 103014, 臺灣"
+212,9.94,C,12.8,5.42,2.3,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 宏冠土魠魚羹. Detailed address: 龍江路37巷, 力行里, 中山區, 中崙, 臺北市, 10490, 臺灣
+2. 通河東街2段10巷口. Detailed address: 百齡右岸越堤坡道, 後港里, 士林區, 社子, 臺北市, 11165, 臺灣"
+213,3.33,A,10.82,1.17,6.42,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 福林國小. Detailed address: 75, 福志路, 福志里, 士林區, 石角, 臺北市, 11141, 臺灣
+2. ASI南洋風味館. Detailed address: 酒泉街28巷, 至聖里, 大同區, 大龍峒, 臺北市, 10369, 臺灣"
+214,2.34,A,8.52,3.6,8.55,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 長安富裕大樓. Detailed address: 新丼, 66, 長安西路, 建明里, 大同區, 南西商圈, 臺北市, 103, 臺灣
+2. 忠孝大廈A座. Detailed address: 243號, 忠孝東路三段, 誠安里, 大安區, 東區商圈, 臺北市, 106, 臺灣"
+215,12.94,D,12.31,0.51,5.32,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 信義廣場地下停車場 (機車). Detailed address: 76號, 松廉路, 西村里, 信義區, 信義商圈, 臺北市, 110, 臺灣
+2. 鯊魚咬吐司. Detailed address: 信陽街, 黎明里, 中正區, 台北站前, 臺北市, 100007, 臺灣"
+216,12.3,C,12.31,5.79,12.65,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 好甘心診所. Detailed address: 30, 公園路, 黎明里, 中正區, 台北站前, 臺北市, 100008, 臺灣
+2. 地下停車場＿. Detailed address: 95, 文昌路, 福佳里, 士林區, 社子, 臺北市, 111, 臺灣"
+217,1.1,D,2.65,2.99,6.0,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 珍味臭臭鍋. Detailed address: 合江街31巷, 朱馥里, 中山區, 朱厝崙, 臺北市, 10487, 臺灣
+2. 羅媽媽便當店. Detailed address: 成功路四段30巷28弄, 內湖里, 內湖區, 臺北市, 114015, 臺灣"
+218,5.08,C,5.4,1.63,5.78,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 慈聖宮. Detailed address: 臨6之1號, 甘州街64巷, 延平里, 大同區, 大稻埕, 臺北市, 103, 臺灣
+2. 臺北藝術園區-臺北市立美術館擴建工程. Detailed address: 水晶情人橋, 圓山里, 中山區, 大龍峒, 臺北市, 10452, 臺灣"
+219,2.46,C,5.92,9.29,2.72,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 瑞興商業銀行. Detailed address: 64, 重慶南路一段, 光復里, 中正區, 城內, 臺北市, 10045, 臺灣
+2. 華南商業銀行. Detailed address: 成功路四段, 清白里, 內湖區, 臺北市, 11489, 臺灣"
+220,5.83,A,11.32,1.61,2.34,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 城中分館. Detailed address: 46, 濟南路二段, 幸市里, 中正區, 華山, 臺北市, 10056, 臺灣
+2. 頤園素食小館. Detailed address: 內湖路一段91巷, 西康里, 內湖區, 下塔悠, 臺北市, 11442, 臺灣"
+221,6.12,A,8.57,2.25,9.88,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 內湖翌莊薑母鴨. Detailed address: 民權東路六段136巷, 寶湖里, 內湖區, 潭美, 臺北市, 11466, 臺灣
+2. 金湘台灣小吃. Detailed address: 14, 新生南路一段, 光華商場, 梅花里, 中正區, 華山, 臺北市, 100, 臺灣"
+222,7.66,D,4.36,8.32,0.65,"What is the straight-line distance between the following two locations? (Unit is km)
+1. HI SUN DA. Detailed address: 忠孝東路五段, 永春里, 信義區, 興雅, 臺北市, 110044, 臺灣
+2. 真味肉圓. Detailed address: 玉成街42巷, 合成里, 南港區, 潭美, 臺北市, 11562, 臺灣"
+223,8.6,B,3.34,9.23,7.27,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 敦南企業家大樓. Detailed address: 5號, 臥龍街, 虎嘯里, 大安區, 六張犁, 臺北市, 106, 臺灣
+2. 來福大廈. Detailed address: 118, 南京東路五段, 吉祥里, 松山區, 興雅, 臺北市, 10561, 臺灣"
+224,3.86,D,1.98,1.98,0.94,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 忠孝芳鄰中庭花園. Detailed address: 虎林街30巷2弄, 四育里, 信義區, 潭美, 臺北市, 10566, 臺灣
+2. 系統電子工業股份有限公司. Detailed address: 1號, 堤頂大道一段, 湖元里, 內湖區, 潭美, 臺北市, 114, 臺灣"
+225,8.57,C,6.55,3.49,0.84,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 幸福久久窩. Detailed address: 32號, 懷寧街, 黎明里, 中正區, 台北站前, 臺北市, 100, 臺灣
+2. 國泰世華銀行大樓. Detailed address: 國泰世華商業銀行, 85, 仁愛路四段, 仁愛里, 大安區, 東區商圈, 臺北市, 106, 臺灣"
+226,5.68,D,6.25,5.78,1.79,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 裕園華廈. Detailed address: 78號, 八德路二段300巷, 埤頭里, 中山區, 中崙, 臺北市, 104, 臺灣
+2. 大安森林公園. Detailed address: 主步道, 龍門里, 大安區, 古亭, 臺北市, 10659, 臺灣"
+227,7.38,B,5.27,3.36,13.23,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 劍潭古寺. Detailed address: 6號, 北安路805巷, 北安里, 中山區, 下塔悠, 臺北市, 104, 臺灣
+2. 大安一次變電所. Detailed address: 14號, 仁愛路四段27巷, 仁愛里, 大安區, 東區商圈, 臺北市, 106, 臺灣"
+228,9.88,D,10.32,6.63,3.24,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 擎天大廈. Detailed address: 15之11號, 南京東路五段, 東光里, 松山區, 中崙, 臺北市, 105, 臺灣
+2. 阿曼風尚. Detailed address: 10號, 民生東路一段70巷, 中山里, 中山區, 南西商圈, 臺北市, 104, 臺灣"
+229,7.4,B,4.91,8.18,12.41,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 亞信乒乓. Detailed address: 瑞安街222巷, 新龍里, 大安區, 臺北市, 10659, 臺灣
+2. 卡洛貍健康餐盒. Detailed address: 60, 行善路, 湖元里, 內湖區, 潭美, 臺北市, 114, 臺灣"
+230,6.15,C,9.5,2.02,5.12,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 長春慶城街口. Detailed address: 長春路, 松基里, 松山區, 中崙, 臺北市, 10547, 臺灣
+2. 烤蘋果派的方法. Detailed address: 建國南路一段, 和安里, 大安區, 東區商圈, 臺北市, 10603, 臺灣"
+231,10.97,C,11.6,6.94,5.45,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 台南港口土魠魚羹. Detailed address: 福港街, 福中里, 士林區, 社子, 臺北市, 11169, 臺灣
+2. 賈家道口燒雞. Detailed address: 延吉街242巷, 光信里, 大安區, 車罾, 臺北市, 10696, 臺灣"
+232,7.43,D,3.6,0.63,1.91,"What is the straight-line distance between the following two locations? (Unit is km)
+1. LOTUS Bar. Detailed address: 78, 長安東路二段, 朱園里, 中山區, 朱厝崙, 臺北市, 104, 臺灣
+2. 丸林魯肉飯. Detailed address: 農安街, 新庄里, 中山區, 下埤頭, 臺北市, 10470, 臺灣"
+233,3.83,B,1.66,4.54,3.21,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 五常國中. Detailed address: 1, 復興北路430巷, 下埤里, 中山區, 下埤頭, 臺北市, 10476, 臺灣
+2. 聚葉公園. Detailed address: 1號, 林森北路399巷, 聚葉里, 中山區, 南西商圈, 臺北市, 104, 臺灣"
+234,3.2,A,0.57,5.31,1.32,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 川普. Detailed address: 32號, 民生東路三段, 朱馥里, 中山區, 朱厝崙, 臺北市, 104, 臺灣
+2. 永裕大廈. Detailed address: 全家便利商店, 63, 博愛路, 光復里, 中正區, 城內, 臺北市, 100005, 臺灣"
+235,0.8,D,5.09,8.45,1.96,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 湛爐咖啡. Detailed address: 忠孝東路四段, 仁愛里, 大安區, 東區商圈, 臺北市, 106070, 臺灣
+2. 台北君悅酒店停車場 (專用入口). Detailed address: 君悅酒店, 2, 松壽路, 西村里, 信義區, 信義商圈, 臺北市, 11051, 臺灣"
+236,10.8,D,3.13,13.24,5.31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 東吳大學城中校區. Detailed address: 2號, 延平南路129巷, 建國里, 中正區, 城內, 臺北市, 100, 臺灣
+2. 三興合署大樓. Detailed address: 吳興街156巷2弄, 景勤里, 信義區, 三張犁, 臺北市, 11041, 臺灣"
+237,3.0,D,1.18,9.74,4.23,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 一之鄉. Detailed address: 仁愛路四段, 正聲里, 大安區, 車罾, 臺北市, 106062, 臺灣
+2. 藏壽司. Detailed address: 12, 館前路, 黎明里, 中正區, 台北站前, 臺北市, 100, 臺灣"
+238,9.45,B,4.82,11.75,3.27,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 龍泉段集合式住宅. Detailed address: 83之6號, 羅斯福路二段, 古莊里, 大安區, 古亭, 臺北市, 106, 臺灣
+2. 華新公園. Detailed address: 革新公園, 松隆路, 敦厚里, 信義區, 興雅, 臺北市, 110072, 臺灣"
+239,2.5,D,5.7,5.53,0.63,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 東成牙醫診所. Detailed address: 23, 小北街, 仁勇里, 士林區, 臺北市, 111, 臺灣
+2. 士林馥記烤鴨. Detailed address: 中正路, 福德里, 士林區, 社子, 臺北市, 111, 臺灣"
+240,2.02,D,6.03,2.35,3.57,"What is the straight-line distance between the following two locations? (Unit is km)
+1. CLOUDSET. Detailed address: 兆豐隆地產, 大安路一段84巷, 仁愛里, 大安區, 東區商圈, 臺北市, 106070, 臺灣
+2. 統一大樓. Detailed address: 624號, 林森北路, 圓山里, 中山區, 雙連, 臺北市, 104, 臺灣"
+241,1.59,A,4.59,8.33,8.33,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 火焰骰子牛. Detailed address: 饒河街觀光夜市, 饒河街, 慈祐里, 松山區, 潭美, 臺北市, 10566, 臺灣
+2. 名冠動物醫院. Detailed address: 207, 中坡南路, 中行里, 信義區, 臺北市, 110, 臺灣"
+242,1.84,D,3.81,11.85,4.89,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 50嵐. Detailed address: 南京東路五段, 吉祥里, 松山區, 興雅, 臺北市, 10561, 臺灣
+2. 鬍鬚張. Detailed address: 62, 寧夏路, 星明里, 大同區, 建成, 臺北市, 103019, 臺灣"
+243,11.22,B,5.74,12.3,3.42,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 頤園素食小館. Detailed address: 內湖路一段91巷, 西康里, 內湖區, 下塔悠, 臺北市, 11442, 臺灣
+2. 衛理幼兒園. Detailed address: 新生南路一段, 民輝里, 大安區, 華山, 臺北市, 10062, 臺灣"
+244,1.98,C,1.57,4.03,8.99,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 樂 古早味蛋糕. Detailed address: 81, 大南路, 義信里, 士林區, 社子, 臺北市, 111, 臺灣
+2. 優卡輕食. Detailed address: 16, 伊通街106巷, 中央里, 中山區, 朱厝崙, 臺北市, 104, 臺灣"
+245,7.68,C,8.18,2.76,6.63,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 老圓環油飯. Detailed address: 長安西路, 建明里, 大同區, 後車頭, 臺北市, 103016, 臺灣
+2. 宏冠土魠魚羹. Detailed address: 龍江路37巷, 力行里, 中山區, 中崙, 臺北市, 10490, 臺灣"
+246,0.95,C,3.89,6.07,13.03,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 西湖實驗國中. Detailed address: 27, 環山路一段, 西湖里, 內湖區, 下塔悠, 臺北市, 114, 臺灣
+2. 私立延平中學. Detailed address: 275, 建國南路一段, 和安里, 大安區, 東區商圈, 臺北市, 106, 臺灣"
+247,8.78,D,2.53,5.32,4.16,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 撫遠公園. Detailed address: 莊敬里, 松山區, 下塔悠, 臺北市, 10591, 臺灣
+2. 希望廣場. Detailed address: 日月亭希望園區場, 55, 八德路一段, 光華商場, 梅花里, 中正區, 華山, 臺北市, 100013, 臺灣"
+248,0.95,C,9.11,2.32,8.97,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 民有派出所. Detailed address: 162, 民權東路三段, 民有里, 松山區, 下埤頭, 臺北市, 105, 臺灣
+2. 德惠鵝肉日式. Detailed address: 36, 錦州街, 聚盛里, 中山區, 雙連, 臺北市, 104, 臺灣"
+249,7.49,C,4.62,2.03,7.8,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 健安新城. Detailed address: 3號, 三民路80巷, 自強里, 松山區, 臺北市, 105, 臺灣
+2. 富邦藝樹都更基地. Detailed address: 6號, 敦化南路一段161巷5弄, 建安里, 大安區, 東區商圈, 臺北市, 106, 臺灣"
+250,9.42,C,5.29,3.77,7.65,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 三興合署大樓. Detailed address: 吳興街156巷2弄, 景勤里, 信義區, 三張犁, 臺北市, 11041, 臺灣
+2. 文經大樓. Detailed address: 建國北路二段64巷, 中央里, 中山區, 朱厝崙, 臺北市, 104075, 臺灣"
+251,11.26,D,5.51,0.95,3.53,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 民權光復路口(東北側). Detailed address: 民權東路四段, 精忠里, 松山區, 下埤頭, 臺北市, 10573, 臺灣
+2. 丼魂. Detailed address: 雙連街1巷, 雙連里, 大同區, 建成, 臺北市, 10354, 臺灣"
+252,17.19,B,9.47,12.11,1.97,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 澹寧居. Detailed address: 10號, 松勤街140巷, 三犁里, 信義區, 信義商圈, 臺北市, 110, 臺灣
+2. 河雙21號河濱公園. Detailed address: 基隆河右岸自行車道, 洲美里, 北投區, 社子, 臺北市, 111063, 臺灣"
+253,7.86,D,5.17,4.5,1.7,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 賈家道口燒雞. Detailed address: 延吉街242巷, 光信里, 大安區, 車罾, 臺北市, 10696, 臺灣
+2. 安安鍋貼水餃館. Detailed address: 忠孝東路五段236巷, 廣居里, 信義區, 信義商圈, 臺北市, 11025, 臺灣"
+254,4.43,A,7.68,8.4,11.21,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 丼魂. Detailed address: 雙連街1巷, 雙連里, 大同區, 建成, 臺北市, 10354, 臺灣
+2. 亞洲藝術中心. Detailed address: 樂群三路, 成功里, 中山區, 下塔悠, 臺北市, 104052, 臺灣"
+255,3.85,D,7.47,0.53,1.64,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 德昇商業大樓. Detailed address: 台灣新生報, 38, 復興北路, 力行里, 中山區, 中崙, 臺北市, 10552, 臺灣
+2. 松錦二號公園. Detailed address: 17號, 民生東路二段127巷, 中庄里, 中山區, 朱厝崙, 臺北市, 104, 臺灣"
+256,8.8,C,6.44,1.76,8.24,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 婕登藥局. Detailed address: 饒河街觀光夜市, 饒河街, 慈祐里, 松山區, 潭美, 臺北市, 10566, 臺灣
+2. 鐵丸十三堂. Detailed address: 昆陽街140巷, 新光里, 南港區, 潭美, 臺北市, 11558, 臺灣"
+257,8.27,B,1.35,8.27,4.41,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 帝國花園廣場. Detailed address: 星聚點, 83, 延平北路二段, 朝陽里, 大同區, 大稻埕, 臺北市, 103009, 臺灣
+2. 金毓通地上權工程 (B區). Detailed address: 崇聖大樓, 4, 忠孝西路一段, 黎明里, 中正區, 台北站前, 臺北市, 10041, 臺灣"
+258,2.25,C,4.65,5.86,2.01,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 宏吉大廈. Detailed address: 100, 南京東路一段, 正義里, 中山區, 南西商圈, 臺北市, 104008, 臺灣
+2. 觀音岩. Detailed address: 巨石園步道, 松友里, 信義區, 信義商圈, 臺北市, 11080, 臺灣"
+259,5.26,B,6.43,13.89,8.1,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 卡多摩嬰童館. Detailed address: 重慶北路三段113巷, 揚雅里, 大同區, 大龍峒, 臺北市, 103626, 臺灣
+2. 雷記燒臘. Detailed address: 196, 信安街, 黎平里, 信義區, 六張犁, 臺北市, 110, 臺灣"
+260,3.01,B,1.27,8.0,7.49,"What is the straight-line distance between the following two locations? (Unit is km)
+1. WOWffizi Cafe&Bistro 烏菲茲餐酒館. Detailed address: 南京西路18巷4弄, 建泰里, 大同區, 南西商圈, 臺北市, 103014, 臺灣
+2. 義料.之外. Detailed address: 1, 長安東路二段36巷, 興亞里, 中山區, 華山, 臺北市, 104096, 臺灣"
+261,8.29,D,10.26,6.4,2.38,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 北捷中正紀念堂站i郵箱. Detailed address: 羅斯福路一段, 新營里, 中正區, 龍匣口, 臺北市, 100031, 臺灣
+2. 森之豆. Detailed address: 瑞安街135巷, 龍陣里, 大安區, 六張犁, 臺北市, 10664, 臺灣"
+262,13.19,C,3.72,5.58,3.49,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 池上便當. Detailed address: 內湖路一段411巷9弄, 麗山里, 內湖區, 臺北市, 11444, 臺灣
+2. 凱恩斯岩燒餐廳. Detailed address: 四維路48巷, 德安里, 大安區, 東區商圈, 臺北市, 10685, 臺灣"
+263,4.58,B,3.15,6.9,10.03,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 八珍小吃. Detailed address: 敦化北路244巷, 民有里, 松山區, 下埤頭, 臺北市, 10541, 臺灣
+2. 內湖江南郵局i郵箱. Detailed address: 瑞光路316巷, 港墘里, 內湖區, 臺北市, 114063, 臺灣"
+264,1.8,D,8.43,7.1,3.98,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mo-Mo Paradise. Detailed address: 1, 承德路一段, 建明里, 大同區, 後車頭, 臺北市, 10351, 臺灣
+2. The Chips. Detailed address: 37, 光復南路280巷, 正聲里, 大安區, 車罾, 臺北市, 106, 臺灣"
+265,3.02,A,9.93,1.93,1.77,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 松勁樓. Detailed address: 東吳大學, 70, 臨溪路, 福林里, 士林區, 石角, 臺北市, 111, 臺灣
+2. 台南港口土魠魚羹. Detailed address: 福港街, 福中里, 士林區, 社子, 臺北市, 11169, 臺灣"
+266,13.4,C,2.44,5.42,12.44,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 路易沙. Detailed address: 和平東路二段118巷, 龍淵里, 大安區, 公館, 臺北市, 106213, 臺灣
+2. 星廚湯麵. Detailed address: 民族東路, 圓山里, 中山區, 大龍峒, 臺北市, 104439, 臺灣"
+267,8.21,C,7.08,1.07,4.33,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 摩斯漢堡. Detailed address: 132, 忠孝東路二段, 幸市里, 中正區, 華山, 臺北市, 10053, 臺灣
+2. 30讚500CC. Detailed address: 南京東路二段24巷, 興亞里, 中山區, 南西商圈, 臺北市, 10484, 臺灣"
+268,8.64,B,1.11,8.07,3.36,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 天津葱抓餅. Detailed address: 1, 永康街6巷, 永康里, 大安區, 古亭, 臺北市, 106, 臺灣
+2. 臺北杭南郵局i郵箱. Detailed address: 杭州南路一段, 幸福里, 中正區, 華山, 臺北市, 10054, 臺灣"
+269,8.99,D,11.35,10.8,7.42,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 胖雞醬淋. Detailed address: 江南街71巷16弄, 港墘里, 內湖區, 臺北市, 114063, 臺灣
+2. 瑞興商業銀行. Detailed address: 64, 重慶南路一段, 光復里, 中正區, 城內, 臺北市, 10045, 臺灣"
+270,2.79,D,6.31,2.8,0.58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 茂聯實業廣場. Detailed address: 星展（台灣）商業銀行, 158, 新生南路一段, 三愛里, 中正區, 華山, 臺北市, 100015, 臺灣
+2. Times永康街平面停車場. Detailed address: 永康街47巷, 福住里, 大安區, 古亭, 臺北市, 106009, 臺灣"
+271,7.47,A,6.13,10.14,12.88,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 松竹梅壽司. Detailed address: 華齡街17巷, 福華里, 士林區, 大龍峒, 臺北市, 11163, 臺灣
+2. 內湖三總郵局i郵箱. Detailed address: 325, 成功路二段, 湖興里, 內湖區, 臺北市, 114, 臺灣"
+272,4.3,D,1.15,10.31,3.24,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 淡水/光華/指南客運大直站. Detailed address: 75號, 樂群三路, 成功里, 中山區, 下塔悠, 臺北市, 104, 臺灣
+2. 行天宮圖書館. Detailed address: 力霸, 9, 敦化北路120巷, 中正里, 松山區, 中崙, 臺北市, 105020, 臺灣"
+273,5.88,B,2.48,8.69,6.41,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 玉山商業銀行. Detailed address: 89, 南京東路五段, 東光里, 松山區, 興雅, 臺北市, 105, 臺灣
+2. 八方雲集. Detailed address: 97, 信義路六段, 國業里, 信義區, 信義商圈, 臺北市, 11085, 臺灣"
+274,5.28,B,7.33,9.41,8.59,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 天香素食. Detailed address: 福德街221巷, 中行里, 信義區, 臺北市, 11079, 臺灣
+2. 東石鮮蚵. Detailed address: 寧夏路, 星明里, 大同區, 建成, 臺北市, 103019, 臺灣"
+275,14.4,D,8.38,10.48,6.57,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 小茅屋四川店. Detailed address: 5-6, 麗水街, 永康里, 大安區, 古亭, 臺北市, 106, 臺灣
+2. 惠周診所. Detailed address: 96, 大北路, 仁勇里, 士林區, 臺北市, 111, 臺灣"
+276,6.66,B,2.46,5.61,7.2,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 統一大樓. Detailed address: 624號, 林森北路, 圓山里, 中山區, 雙連, 臺北市, 104, 臺灣
+2. 元大花園廣場. Detailed address: 3號, 龍江街46巷, 力行里, 中山區, 朱厝崙, 臺北市, 104, 臺灣"
+277,10.06,C,14.7,7.57,9.85,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 台北好好看. Detailed address: 慈愛動物醫院, 1, 寧夏路, 星明里, 大同區, 建成, 臺北市, 103019, 臺灣
+2. 修德國小. Detailed address: 86, 東新街118巷, 成福里, 南港區, 潭美, 臺北市, 115, 臺灣"
+278,6.7,A,14.47,9.72,9.37,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 謝氏宗祠. Detailed address: 39號, 仰德大道一段12巷, 岩山里, 士林區, 石角, 臺北市, 111, 臺灣
+2. 幸福久久窩. Detailed address: 32號, 懷寧街, 黎明里, 中正區, 台北站前, 臺北市, 100, 臺灣"
+279,1.18,D,16.23,12.8,8.27,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 正旅館 藍. Detailed address: JUNTO • 同, 22, 館前路, 黎明里, 中正區, 台北站前, 臺北市, 10047, 臺灣
+2. 貿七社區. Detailed address: 29號, 內湖路二段179巷46弄, 湖濱里, 內湖區, 臺北市, 114, 臺灣"
+280,5.84,D,9.88,3.75,7.38,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 737豬血糕. Detailed address: 內湖路一段737巷, 港富里, 內湖區, 臺北市, 11446, 臺灣
+2. 舊衣回收箱. Detailed address: 永樂布業商場, 21, 迪化街一段, 永樂里, 大同區, 大稻埕, 臺北市, 103012, 臺灣"
+281,4.13,A,6.09,6.98,10.52,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 北安專業涼麵. Detailed address: 北安路559巷, 大直里, 中山區, 下塔悠, 臺北市, 10462, 臺灣
+2. 大心. Detailed address: 長安西路19巷2弄, 民安里, 中山區, 南西商圈, 臺北市, 103014, 臺灣"
+282,4.72,C,5.05,7.0,11.75,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 啤痞微型精釀啤酒吧. Detailed address: 8, 永吉路, 敦厚里, 信義區, 興雅, 臺北市, 110, 臺灣
+2. 台灣基督長老會士林教會. Detailed address: 文林路421巷, 福德里, 士林區, 石角, 臺北市, 11111, 臺灣"
+283,3.99,A,8.48,10.84,10.13,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 全球人壽企業總部建築基地. Detailed address: 富錦街77巷6弄, 精忠里, 松山區, 下埤頭, 臺北市, 10548, 臺灣
+2. 慈聖宮. Detailed address: 臨6之1號, 甘州街64巷, 延平里, 大同區, 大稻埕, 臺北市, 103, 臺灣"
+284,9.55,B,7.31,11.02,9.37,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 中國信託商業銀行. Detailed address: 90, 中山北路六段, 忠誠里, 士林區, 蘭雅, 臺北市, 111, 臺灣
+2. 鼎泰豐. Detailed address: 忠孝東路三段, 誠安里, 大安區, 東區商圈, 臺北市, 10654, 臺灣"
+285,7.8,B,3.46,1.52,0.82,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 經典牙醫診所. Detailed address: 47, 溫州街, 大學里, 大安區, 公館, 臺北市, 106, 臺灣
+2. I'm PASTA. Detailed address: 2之1, 南京東路二段115巷3弄, 中央里, 中山區, 朱厝崙, 臺北市, 104, 臺灣"
+286,3.07,A,9.23,8.24,4.17,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 玫瑰欣欣大樓. Detailed address: 8號, 光復南路473巷, 中興里, 信義區, 三張犁, 臺北市, 110, 臺灣
+2. 萬利大廈. Detailed address: 永和豆漿大王, 50之2, 長安東路二段, 興亞里, 中山區, 朱厝崙, 臺北市, 104, 臺灣"
+287,3.66,C,8.69,1.33,7.64,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 摩宿. Detailed address: 76之2號, 新生北路二段, 中山里, 中山區, 南西商圈, 臺北市, 104, 臺灣
+2. 怡情園. Detailed address: 民族東路, 新庄里, 中山區, 下埤頭, 臺北市, 104058, 臺灣"
+288,8.25,C,5.21,0.88,5.09,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 捷運小南門站(1號出口). Detailed address: 愛國西路, 建國里, 中正區, 龍匣口, 臺北市, 100213, 臺灣
+2. 蘋果203brunch. Detailed address: 88, 延平南路, 光復里, 中正區, 城內, 臺北市, 100413, 臺灣"
+289,7.8,C,9.51,1.52,9.06,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 私立延平中學. Detailed address: 275, 建國南路一段, 和安里, 大安區, 東區商圈, 臺北市, 106, 臺灣
+2. 泰順公園. Detailed address: 0453, 泰順街27巷, 龍坡里, 大安區, 古亭, 臺北市, 10645, 臺灣"
+290,6.68,B,4.68,12.44,7.4,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 通河東街2段10巷口. Detailed address: 百齡右岸越堤坡道, 後港里, 士林區, 社子, 臺北市, 11165, 臺灣
+2. 八珍小吃. Detailed address: 敦化北路244巷, 民有里, 松山區, 下埤頭, 臺北市, 10541, 臺灣"
+291,7.08,D,6.17,2.89,1.41,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 惠安烏龍麵. Detailed address: 遼寧街, 力行里, 中山區, 中崙, 臺北市, 10488, 臺灣
+2. 義大利女巫咖啡酒吧. Detailed address: 10, 新生南路一段54巷, 幸市里, 中正區, 華山, 臺北市, 100, 臺灣"
+292,7.94,B,1.68,4.82,6.75,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 阿曼風尚. Detailed address: 10號, 民生東路一段70巷, 中山里, 中山區, 南西商圈, 臺北市, 104, 臺灣
+2. 永筑埕光. Detailed address: 174號, 民族西路, 揚雅里, 大同區, 大龍峒, 臺北市, 103, 臺灣"
+293,11.56,C,9.94,4.94,6.75,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 信義351號綠地. Detailed address: 遠雄金融中心, 1, 松高路, 西村里, 信義區, 興雅, 臺北市, 11073, 臺灣
+2. 東京時光. Detailed address: 22號, 天祥路47巷, 集英里, 中山區, 雙連, 臺北市, 104, 臺灣"
+294,1.47,B,4.37,3.3,8.6,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 仙樹公園綠地. Detailed address: 116號, 內湖路一段285巷69弄, 西湖里, 內湖區, 下塔悠, 臺北市, 114, 臺灣
+2. 福德抽水站. Detailed address: 18號, 中山北路五段756巷, 福志里, 士林區, 石角, 臺北市, 111, 臺灣"
+295,3.1,B,0.99,5.78,2.75,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 大三鱻快炒店. Detailed address: 6, 民生東路一段23巷, 聚盛里, 中山區, 南西商圈, 臺北市, 104, 臺灣
+2. 基督教新生教團重慶教會. Detailed address: 民權西路144巷, 民權里, 大同區, 雙連, 臺北市, 103, 臺灣"
+296,3.86,A,2.66,6.58,2.33,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 鷄笑. Detailed address: 承德路一段, 黎明里, 中正區, 台北站前, 臺北市, 10041, 臺灣
+2. 松山龍城市場i郵箱. Detailed address: 光復北路190巷, 龍田里, 松山區, 中崙, 臺北市, 105411, 臺灣"
+297,4.45,D,8.4,0.7,3.31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 警衛室. Detailed address: 國立臺灣師範大學和平校區, 162, 和平東路一段, 古莊里, 大安區, 古亭, 臺北市, 106308, 臺灣
+2. 常殷至善園. Detailed address: 111號, 延平北路一段, 朝陽里, 大同區, 後車頭, 臺北市, 103, 臺灣"
+298,7.02,B,3.92,11.34,6.77,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 建成國中地下停車場. Detailed address: 建成國中, 37-1, 長安西路, 建明里, 大同區, 南西商圈, 臺北市, 10351, 臺灣
+2. 大勝牙醫診所. Detailed address: 復興南路二段, 龍淵里, 大安區, 六張犁, 臺北市, 10663, 臺灣"
+299,10.64,C,8.35,3.13,4.87,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 富元小館. Detailed address: 八德路四段36巷, 復盛里, 松山區, 車罾, 臺北市, 10560, 臺灣
+2. 吉富早餐. Detailed address: 瑞安街, 龍生里, 大安區, 臺北市, 10659, 臺灣"
+300,7.96,A,4.6,15.03,14.02,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 紀汎希. Detailed address: 悅禾泰式養身舒壓SPA會館, 97, 中山北路一段, 正得里, 中山區, 南西商圈, 臺北市, 104, 臺灣
+2. 大坑公園. Detailed address: 67號, 民權東路六段191巷, 湖興里, 內湖區, 五分, 臺北市, 114, 臺灣"
+301,9.85,D,6.2,9.52,4.52,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 萬家鄉. Detailed address: 和平東路二段175巷, 龍生里, 大安區, 六張犁, 臺北市, 10664, 臺灣
+2. 阿宗雞肉飯. Detailed address: 新生北路三段25巷, 新福里, 中山區, 下埤頭, 臺北市, 10470, 臺灣"
+302,9.41,C,4.91,2.08,8.89,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 田中園. Detailed address: 瑞安街208巷25弄, 龍圖里, 大安區, 東區商圈, 臺北市, 10664, 臺灣
+2. 蘿莎娜. Detailed address: 八德路三段8巷, 敦化里, 松山區, 中崙, 臺北市, 105408, 臺灣"
+303,1.01,A,8.37,6.93,2.89,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Chips. Detailed address: 37, 光復南路280巷, 正聲里, 大安區, 車罾, 臺北市, 106, 臺灣
+2. 美生牙醫. Detailed address: 21, 敦化南路一段, 敦化里, 松山區, 中崙, 臺北市, 105408, 臺灣"
+304,1.1,D,9.03,11.19,4.26,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 天仁茗茶. Detailed address: 民權西路, 集英里, 中山區, 雙連, 臺北市, 10365, 臺灣
+2. Dick Place. Detailed address: 瑞安街31巷, 龍雲里, 大安區, 東區商圈, 臺北市, 106, 臺灣"
+305,6.57,D,6.86,9.79,1.86,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Civic Boulevard Car Park (Fuxing-Dunhua). Detailed address: 市民大道四段, 光武里, 大安區, 中崙, 臺北市, 10556, 臺灣
+2. 田中園. Detailed address: 瑞安街208巷25弄, 龍圖里, 大安區, 東區商圈, 臺北市, 10664, 臺灣"
+306,7.92,B,4.85,11.17,10.58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 鼎泰豐. Detailed address: 忠孝東路三段, 誠安里, 大安區, 東區商圈, 臺北市, 10654, 臺灣
+2. 水剌韓式料理. Detailed address: 30, 基湖路35巷, 西湖里, 內湖區, 臺北市, 114, 臺灣"
+307,5.29,A,8.07,9.21,11.03,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 蒟蒻綠豆湯. Detailed address: 玉成街, 萬福里, 南港區, 潭美, 臺北市, 11082, 臺灣
+2. 摩斯漢堡. Detailed address: 132, 忠孝東路二段, 幸市里, 中正區, 華山, 臺北市, 10053, 臺灣"
+308,8.43,D,5.76,5.09,0.55,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 銀河堂讚岐烏龍麵. Detailed address: 6, 延吉街137巷, 華聲里, 大安區, 車罾, 臺北市, 106, 臺灣
+2. 168排骨飯. Detailed address: 延吉街, 吉仁里, 松山區, 車罾, 臺北市, 10559, 臺灣"
+309,4.76,A,10.98,1.07,9.35,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 中坡市民路口(東北側). Detailed address: 中坡北路, 玉成里, 南港區, 潭美, 臺北市, 11562, 臺灣
+2. 小王子二號店. Detailed address: 建國北路二段258巷, 松江里, 中山區, 下埤頭, 臺北市, 104477, 臺灣"
+310,11.35,D,1.14,5.9,4.5,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 信義分局. Detailed address: 信義路五段, 西村里, 信義區, 信義商圈, 臺北市, 110615, 臺灣
+2. 龍泉段集合式住宅. Detailed address: 83之6號, 羅斯福路二段, 古莊里, 大安區, 古亭, 臺北市, 106, 臺灣"
+311,4.61,D,10.37,9.82,3.25,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 廁所. Detailed address: 濱江街, 新庄里, 中山區, 下埤頭, 臺北市, 104058, 臺灣
+2. 世華商業大樓. Detailed address: 4號, 新生南路一段52巷, 幸市里, 中正區, 華山, 臺北市, 100, 臺灣"
+312,10.02,C,7.15,4.6,6.38,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 富爸爸豬腳大王. Detailed address: 雙城街, 恆安里, 中山區, 雙連, 臺北市, 104029, 臺灣
+2. 茉莉漢堡. Detailed address: 588, 瑞光路, 西湖里, 內湖區, 臺北市, 114, 臺灣"
+313,1.57,A,2.85,9.26,5.8,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 韓鶴亭. Detailed address: 新光人壽保險摩天大樓, 66, 忠孝西路一段, 黎明里, 中正區, 台北站前, 臺北市, 10018, 臺灣
+2. 北捷中正紀念堂站i郵箱. Detailed address: 羅斯福路一段, 新營里, 中正區, 龍匣口, 臺北市, 100031, 臺灣"
+314,6.41,B,3.22,0.74,8.45,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 神召會中心. Detailed address: 長春路, 中山里, 中山區, 南西商圈, 臺北市, 104012, 臺灣
+2. 素食. Detailed address: 信義路四段30巷, 住安里, 大安區, 東區商圈, 臺北市, 10665, 臺灣"
+315,7.86,B,1.13,5.25,3.37,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 東京國際飯店. Detailed address: 37號, 長春路, 中山里, 中山區, 南西商圈, 臺北市, 104, 臺灣
+2. 南京世家. Detailed address: 全家便利商店, 146, 建國北路一段, 朱園里, 中山區, 朱厝崙, 臺北市, 104, 臺灣"
+316,10.01,C,4.66,7.67,10.13,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 修德國小. Detailed address: 86, 東新街118巷, 成福里, 南港區, 潭美, 臺北市, 115, 臺灣
+2. 台北數位產業園區. Detailed address: 承德路三段285巷, 保安里, 大同區, 大龍峒, 臺北市, 10367, 臺灣"
+317,3.17,D,5.68,4.51,1.74,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 洪德昌蔘藥行. Detailed address: 永吉路, 永春里, 信義區, 潭美, 臺北市, 110044, 臺灣
+2. 臺北市府公務停車場 (松壽路入口). Detailed address: 臺北市政府, 1, 市府路, 西村里, 信義區, 興雅, 臺北市, 11008, 臺灣"
+318,3.26,C,7.78,0.61,3.66,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 中山地下街. Detailed address: 2-1, 南京西路25巷, 光能里, 大同區, 南西商圈, 臺北市, 104, 臺灣
+2. 宏吉大廈. Detailed address: 100, 南京東路一段, 正義里, 中山區, 南西商圈, 臺北市, 104008, 臺灣"
+319,2.04,A,7.08,0.97,0.96,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 景綸通商大樓. Detailed address: 415之3號, 信義路四段, 中興里, 信義區, 三張犁, 臺北市, 110, 臺灣
+2. 擎天大廈. Detailed address: 15之11號, 南京東路五段, 東光里, 松山區, 中崙, 臺北市, 105, 臺灣"
+320,4.0,A,6.68,1.55,10.56,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 逸仙樓. Detailed address: 67, 南京東路二段, 中吉里, 中山區, 朱厝崙, 臺北市, 104091, 臺灣
+2. 苔毛咖啡. Detailed address: 345, 嘉興街, 芳和里, 大安區, 六張犁, 臺北市, 106, 臺灣"
+321,3.27,A,7.71,8.94,4.99,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 玉山石. Detailed address: 柯達大飯店台北二店, 139, 中山北路二段, 聚葉里, 中山區, 雙連, 臺北市, 104, 臺灣
+2. CLOUDSET. Detailed address: 兆豐隆地產, 大安路一段84巷, 仁愛里, 大安區, 東區商圈, 臺北市, 106070, 臺灣"
+322,3.69,A,8.66,6.58,11.64,"What is the straight-line distance between the following two locations? (Unit is km)
+1. YMCA幼兒園. Detailed address: 永吉路, 永春里, 信義區, 潭美, 臺北市, 110044, 臺灣
+2. 民有派出所. Detailed address: 162, 民權東路三段, 民有里, 松山區, 下埤頭, 臺北市, 105, 臺灣"
+323,8.17,D,2.55,11.75,3.79,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 國泰世華商業銀行. Detailed address: 149, 羅斯福路三段, 古莊里, 大安區, 古亭, 臺北市, 106, 臺灣
+2. 多加精緻早午餐. Detailed address: 莊敬路325巷, 三張里, 信義區, 三張犁, 臺北市, 11058, 臺灣"
+324,8.05,C,10.13,2.55,7.1,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hotdog and Bagel. Detailed address: 18, 大直街57巷, 大直里, 中山區, 下塔悠, 臺北市, 104, 臺灣
+2. 路易莎咖啡. Detailed address: 中正路, 舊佳里, 士林區, 石角, 臺北市, 11111, 臺灣"
+325,8.86,D,6.36,7.66,1.7,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 國泰建設大樓. Detailed address: 國泰世華商業銀行, 141, 民生東路二段, 松江里, 中山區, 朱厝崙, 臺北市, 104, 臺灣
+2. 中山華府名廈. Detailed address: The Daft House, 中山北路一段, 民安里, 中山區, 南西商圈, 臺北市, 10444, 臺灣"
+326,4.91,B,1.97,6.61,3.01,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 卡洛貍健康餐盒. Detailed address: 60, 行善路, 湖元里, 內湖區, 潭美, 臺北市, 114, 臺灣
+2. Subway. Detailed address: 松德路, 廣居里, 信義區, 信義商圈, 臺北市, 11075, 臺灣"
+327,1.76,C,9.46,5.24,6.95,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 崇德富邨. Detailed address: 9號, 崇德街31巷5弄, 黎順里, 信義區, 六張犁, 臺北市, 110, 臺灣
+2. 隆美禮御. Detailed address: 191號, 民生西路, 星明里, 大同區, 建成, 臺北市, 103, 臺灣"
+328,4.51,B,3.27,0.72,4.67,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 19臻味茶苑. Detailed address: 19, 金山南路二段13巷, 永康里, 大安區, 古亭, 臺北市, 106, 臺灣
+2. 蒸籠坊. Detailed address: 仁愛路四段512巷, 興隆里, 信義區, 興雅, 臺北市, 110201, 臺灣"
+329,8.59,B,3.65,10.83,1.1,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 立祥牙醫. Detailed address: 110, 復興南路二段, 龍陣里, 大安區, 東區商圈, 臺北市, 106, 臺灣
+2. 瀧厚炙燒熟成牛排. Detailed address: 99, 民生東路五段, 東榮里, 松山區, 中崙, 臺北市, 105028, 臺灣"
+330,9.43,C,5.82,3.33,8.25,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 國美信義花園A. Detailed address: 21號, 忠孝東路五段236巷, 安康里, 信義區, 信義商圈, 臺北市, 110, 臺灣
+2. 貨運站停車場. Detailed address: 臺北松山機場, 340-9, 敦化北路, 精忠里, 松山區, 下埤頭, 臺北市, 10548, 臺灣"
+331,0.77,B,3.29,8.4,8.67,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 乾杯列車. Detailed address: 承德路一段, 黎明里, 中正區, 台北站前, 臺北市, 10041, 臺灣
+2. 其實豆製所. Detailed address: 274, 瑞安街, 龍生里, 大安區, 臺北市, 106, 臺灣"
+332,6.52,B,5.51,8.28,10.62,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dick Place. Detailed address: 瑞安街31巷, 龍雲里, 大安區, 東區商圈, 臺北市, 106, 臺灣
+2. 北安專業涼麵. Detailed address: 北安路559巷, 大直里, 中山區, 下塔悠, 臺北市, 10462, 臺灣"
+333,1.37,B,4.61,7.58,7.9,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 軔缸中心. Detailed address: 臺北機廠鐵道博物館園區, 48, 市民大道五段, 新仁里, 信義區, 興雅, 臺北市, 110055, 臺灣
+2. 勤大樓. Detailed address: 國立臺灣師範大學和平校區, 162, 和平東路一段, 古莊里, 大安區, 古亭, 臺北市, 106308, 臺灣"
+334,10.01,B,3.0,1.98,4.54,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 小威廉. Detailed address: 5號, 永康街23巷45弄, 福住里, 大安區, 古亭, 臺北市, 106, 臺灣
+2. 台北好好看. Detailed address: 慈愛動物醫院, 1, 寧夏路, 星明里, 大同區, 建成, 臺北市, 103019, 臺灣"
+335,9.08,D,5.95,4.05,2.62,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 元大花園廣場. Detailed address: 3號, 龍江街46巷, 力行里, 中山區, 朱厝崙, 臺北市, 104, 臺灣
+2. 新華爾街大樓. Detailed address: 台北市護理師護士公會, 34, 館前路, 黎明里, 中正區, 台北站前, 臺北市, 100007, 臺灣"
+336,1.27,B,3.53,8.99,7.01,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 安泰商業銀行. Detailed address: 復興北路自行車道(南京-長安西側), 力行里, 中山區, 中崙, 臺北市, 10552, 臺灣
+2. 洪德昌蔘藥行. Detailed address: 永吉路, 永春里, 信義區, 潭美, 臺北市, 110044, 臺灣"
+337,2.55,B,5.42,12.18,1.94,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 一品小吃. Detailed address: 通河東街一段6巷, 福華里, 士林區, 大龍峒, 臺北市, 111054, 臺灣
+2. 玉山商業銀行. Detailed address: 89, 南京東路五段, 東光里, 松山區, 興雅, 臺北市, 105, 臺灣"
+338,5.11,C,5.38,2.43,1.07,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Times永康街平面停車場. Detailed address: 永康街47巷, 福住里, 大安區, 古亭, 臺北市, 106009, 臺灣
+2. 怡和大廈. Detailed address: Converse, 忠孝東路四段147巷, 建安里, 大安區, 東區商圈, 臺北市, 106429, 臺灣"
+339,5.98,B,2.44,7.96,4.76,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 惠比寿 燒鳥酒場. Detailed address: 1, 民權東路三段60巷3弄, 江寧里, 中山區, 下埤頭, 臺北市, 105401, 臺灣
+2. 翠林越南餐廳. Detailed address: 16, 忠孝東路三段10巷, 民輝里, 大安區, 華山, 臺北市, 10652, 臺灣"
+340,9.08,B,2.08,3.81,3.91,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 宜品素食. Detailed address: 104, 昆陽街, 西新里, 南港區, 潭美, 臺北市, 115, 臺灣
+2. 大埔鐵板燒. Detailed address: 永吉路, 五全里, 信義區, 興雅, 臺北市, 11069, 臺灣"
+341,11.18,B,4.66,2.41,9.11,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 僑安大廈. Detailed address: 177號, 信義路四段, 敦安里, 大安區, 車罾, 臺北市, 106, 臺灣
+2. 廁所. Detailed address: 濱江街, 新庄里, 中山區, 下埤頭, 臺北市, 104058, 臺灣"
+342,3.11,A,9.73,7.69,7.69,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 歐鄉咖啡館. Detailed address: 忠孝東路五段524巷, 松光里, 信義區, 興雅, 臺北市, 11081, 臺灣
+2. 垃圾桶. Detailed address: 敦化南路一段, 建倫里, 大安區, 東區商圈, 臺北市, 10689, 臺灣"
+343,10.05,D,9.05,8.92,2.7,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 誇許早午餐. Detailed address: 復興南路自行車道(西側), 龍圖里, 大安區, 東區商圈, 臺北市, 106625, 臺灣
+2. 阿維麵線. Detailed address: 四平商圈, 四平街, 中央里, 中山區, 朱厝崙, 臺北市, 104075, 臺灣"
+344,3.85,C,8.17,5.97,2.2,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 碧湖國小圖書室. Detailed address: 100, 金龍路, 內湖里, 內湖區, 臺北市, 114, 臺灣
+2. 芳田咖哩義大利麵. Detailed address: 八德路二段, 中正里, 松山區, 中崙, 臺北市, 105408, 臺灣"
+345,7.98,A,6.96,4.77,0.55,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 三商巧福. Detailed address: 中正路335巷, 福德里, 士林區, 石角, 臺北市, 111045, 臺灣
+2. 涮鍋里. Detailed address: 17, 松智路, 西村里, 信義區, 信義商圈, 臺北市, 110, 臺灣"
+346,8.15,B,5.06,8.72,12.52,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 實踐大學台北校區. Detailed address: 70, 大直街, 大直里, 中山區, 下塔悠, 臺北市, 10462, 臺灣
+2. 忠孝芳鄰中庭花園. Detailed address: 虎林街30巷2弄, 四育里, 信義區, 潭美, 臺北市, 10566, 臺灣"
+347,7.93,B,1.17,4.86,2.26,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 福安大廈. Detailed address: 3號, 光復南路260巷, 正聲里, 大安區, 車罾, 臺北市, 106, 臺灣
+2. 軔缸中心. Detailed address: 臺北機廠鐵道博物館園區, 48, 市民大道五段, 新仁里, 信義區, 興雅, 臺北市, 110055, 臺灣"
+348,1.61,C,10.61,6.32,10.58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 沛沛彤早餐店. Detailed address: 忠孝東路四段77巷, 光武里, 大安區, 東區商圈, 臺北市, 106070, 臺灣
+2. 碧湖國小圖書室. Detailed address: 100, 金龍路, 內湖里, 內湖區, 臺北市, 114, 臺灣"
+349,1.37,C,4.63,2.67,4.27,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 隆美禮御. Detailed address: 191號, 民生西路, 星明里, 大同區, 建成, 臺北市, 103, 臺灣
+2. 憲兵332營. Detailed address: 8, 重慶南路二段6巷, 南門里, 中正區, 龍匣口, 臺北市, 10066, 臺灣"
+350,0.92,A,5.6,5.59,2.31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 捷運士林停車場. Detailed address: 文林路, 仁勇里, 士林區, 臺北市, 11162, 臺灣
+2. Times. Detailed address: 基河路, 福佳里, 士林區, 社子, 臺北市, 11160, 臺灣"
+351,9.46,B,2.68,0.6,4.55,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 憲兵332營. Detailed address: 8, 重慶南路二段6巷, 南門里, 中正區, 龍匣口, 臺北市, 10066, 臺灣
+2. 揚昇松江苑. Detailed address: 60, 松江路, 興亞里, 中山區, 朱厝崙, 臺北市, 104096, 臺灣"
+352,4.49,A,1.94,1.32,2.55,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 香茅廚泰式餐廳. Detailed address: 39, 復興南路一段, 中崙里, 松山區, 中崙, 臺北市, 105, 臺灣
+2. 北安町. Detailed address: 北安路, 北安里, 中山區, 下塔悠, 臺北市, 104050, 臺灣"
+353,15.06,D,13.89,1.15,7.17,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 金龍公園. Detailed address: 金龍路112巷, 金龍里, 內湖區, 臺北市, 11455, 臺灣
+2. 老鼎旺. Detailed address: 四維路52巷, 德安里, 大安區, 東區商圈, 臺北市, 10684, 臺灣"
+354,13.07,B,5.19,0.65,1.43,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 泰順公園. Detailed address: 0453, 泰順街27巷, 龍坡里, 大安區, 古亭, 臺北市, 10645, 臺灣
+2. 未來館. Detailed address: 松江路, 新庄里, 中山區, 下埤頭, 臺北市, 10472, 臺灣"
+355,7.89,A,10.7,5.21,13.71,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 柒號咖啡. Detailed address: 10號, 南昌路一段59巷, 龍福里, 中正區, 龍匣口, 臺北市, 100, 臺灣
+2. 真茶自慢. Detailed address: 3, 忠孝東路六段428巷, 新光里, 南港區, 潭美, 臺北市, 115, 臺灣"
+356,10.35,B,2.47,5.03,6.75,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 新生長安路口. Detailed address: 新生高架道路, 興亞里, 中山區, 南西商圈, 臺北市, 10484, 臺灣
+2. 阿嬌海鮮料理. Detailed address: 大安路二段15巷, 住安里, 大安區, 東區商圈, 臺北市, 106475, 臺灣"
+357,8.21,B,4.52,8.06,11.47,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mimosa. Detailed address: 赤峰街23巷, 光能里, 大同區, 建成, 臺北市, 103014, 臺灣
+2. 風味香港灘. Detailed address: 三民路96巷, 富泰里, 松山區, 臺北市, 10573, 臺灣"
+358,5.07,C,8.58,1.67,7.01,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 中化製藥. Detailed address: 館前路, 黎明里, 中正區, 台北站前, 臺北市, 100007, 臺灣
+2. 東京國際飯店. Detailed address: 37號, 長春路, 中山里, 中山區, 南西商圈, 臺北市, 104, 臺灣"
+359,3.65,A,6.18,7.78,6.36,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 太平洋土魠魚羹王. Detailed address: 福德路, 仁勇里, 士林區, 臺北市, 11162, 臺灣
+2. 怡客咖啡廳. Detailed address: 松江路, 松江里, 中山區, 朱厝崙, 臺北市, 10468, 臺灣"
+360,9.92,B,4.71,6.94,8.64,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 垃圾桶. Detailed address: 敦化南路一段, 建倫里, 大安區, 東區商圈, 臺北市, 10689, 臺灣
+2. 卡多摩嬰童館. Detailed address: 重慶北路三段113巷, 揚雅里, 大同區, 大龍峒, 臺北市, 103626, 臺灣"
+361,7.79,C,1.53,2.84,4.34,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 美生牙醫. Detailed address: 21, 敦化南路一段, 敦化里, 松山區, 中崙, 臺北市, 105408, 臺灣
+2. Q Burger 中山吉林店. Detailed address: 吉林路393巷, 新喜里, 中山區, 下埤頭, 臺北市, 10470, 臺灣"
+362,2.74,B,5.64,7.34,4.57,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 福州世祖胡椒餅. Detailed address: 13, 重慶南路一段, 光復里, 中正區, 台北站前, 臺北市, 100, 臺灣
+2. 北醫謝記小籠包. Detailed address: 吳興街, 三張里, 信義區, 三張犁, 臺北市, 11031, 臺灣"
+363,4.29,B,6.55,11.18,8.11,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 中國醫藥大學附設醫院臺北分院. Detailed address: 成功路四段30巷, 內湖里, 內湖區, 臺北市, 11489, 臺灣
+2. 第二好吃私房菜. Detailed address: 吉林路, 新生里, 中山區, 朱厝崙, 臺北市, 10467, 臺灣"
+364,3.66,B,4.82,8.27,2.11,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 華璞建設都更建地. Detailed address: 610之5號, 光復南路, 通化里, 大安區, 三張犁, 臺北市, 106, 臺灣
+2. 東吳大學城中校區. Detailed address: 2號, 延平南路129巷, 建國里, 中正區, 城內, 臺北市, 100, 臺灣"
+365,4.93,C,0.74,1.87,8.93,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 人从众. Detailed address: 永康街10巷, 永康里, 大安區, 古亭, 臺北市, 106007, 臺灣
+2. 37號海鮮粥. Detailed address: 37, 和平東路三段1巷, 群賢里, 大安區, 六張犁, 臺北市, 106102, 臺灣"
+366,10.23,D,1.74,10.25,3.46,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 出口. Detailed address: 新生北停車場, 新生北路二段101巷, 中原里, 中山區, 南西商圈, 臺北市, 10469, 臺灣
+2. Kirikan. Detailed address: 明水路581巷, 永安里, 中山區, 下塔悠, 臺北市, 10466, 臺灣"
+367,7.79,D,3.37,1.14,2.19,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 臺大醫院兒童醫療大樓. Detailed address: 國立臺灣大學醫學院附設醫院, 1, 常德街, 黎明里, 中正區, 城內, 臺北市, 10048, 臺灣
+2. 警衛室. Detailed address: 國立臺灣師範大學和平校區, 162, 和平東路一段, 古莊里, 大安區, 古亭, 臺北市, 106308, 臺灣"
+368,7.33,D,11.72,6.88,4.95,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 怡客咖啡廳. Detailed address: 松江路, 松江里, 中山區, 朱厝崙, 臺北市, 10468, 臺灣
+2. 泰泰小館. Detailed address: 福華路153巷, 德華里, 士林區, 蘭雅, 臺北市, 11158, 臺灣"
+369,8.72,B,3.98,5.2,6.98,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 聚葉公園. Detailed address: 1號, 林森北路399巷, 聚葉里, 中山區, 南西商圈, 臺北市, 104, 臺灣
+2. 濱江實驗國中. Detailed address: 262, 樂群二路, 金泰里, 中山區, 下塔悠, 臺北市, 10462, 臺灣"
+370,6.12,C,6.45,1.28,5.88,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 迷客夏. Detailed address: 師大路, 龍泉里, 大安區, 古亭, 臺北市, 10645, 臺灣
+2. 瑞安自助餐. Detailed address: 瑞安街208巷, 新龍里, 大安區, 臺北市, 10664, 臺灣"
+371,13.37,C,1.82,5.56,3.67,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 香月美食. Detailed address: 成功路四段30巷, 內湖里, 內湖區, 臺北市, 11489, 臺灣
+2. 中嶽殿. Detailed address: 濱江街180巷, 大佳里, 中山區, 下埤頭, 臺北市, 104068, 臺灣"
+372,2.18,A,7.91,8.3,6.18,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 義食屋. Detailed address: 329, 復興南路二段, 臥龍里, 大安區, 六張犁, 臺北市, 106, 臺灣
+2. 吳大牛蕉糖茶飲. Detailed address: 忠孝東路三段217巷6弄, 昌隆里, 大安區, 東區商圈, 臺北市, 10666, 臺灣"
+373,8.11,C,10.23,2.76,4.72,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 大安森林公園. Detailed address: 主步道, 龍門里, 大安區, 古亭, 臺北市, 10659, 臺灣
+2. 圓圓幼兒園. Detailed address: 20號, 慶城街, 中正里, 松山區, 中崙, 臺北市, 105, 臺灣"
+374,6.63,A,4.95,9.65,2.12,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 晶湯匙. Detailed address: 1, 承德路一段, 建明里, 大同區, 後車頭, 臺北市, 10351, 臺灣
+2. 文德三號公園(江南街71巷16弄). Detailed address: 江南街71巷16弄, 瑞光里, 內湖區, 臺北市, 114063, 臺灣"
+375,10.22,C,5.23,2.72,4.22,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 森之豆. Detailed address: 瑞安街135巷, 龍陣里, 大安區, 六張犁, 臺北市, 10664, 臺灣
+2. 林森南路禮拜堂. Detailed address: 2, 林森南路, 幸福里, 中正區, 華山, 臺北市, 100, 臺灣"
+376,9.05,C,4.51,2.22,6.83,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 中正幼兒園. Detailed address: 濟南路二段48巷, 幸市里, 中正區, 華山, 臺北市, 10062, 臺灣
+2. 義食屋. Detailed address: 329, 復興南路二段, 臥龍里, 大安區, 六張犁, 臺北市, 106, 臺灣"
+377,5.97,B,3.07,4.64,1.68,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 西華飯店都更改建工程. Detailed address: 111號, 民生東路三段, 民有里, 松山區, 下埤頭, 臺北市, 105, 臺灣
+2. 景綸通商大樓. Detailed address: 415之3號, 信義路四段, 中興里, 信義區, 三張犁, 臺北市, 110, 臺灣"
+378,1.0,A,4.41,7.02,8.13,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 十方齋素食館. Detailed address: 10, 松江路108巷, 興亞里, 中山區, 朱厝崙, 臺北市, 104, 臺灣
+2. 上台北. Detailed address: 7~9, 杭州南路一段, 幸福里, 中正區, 華山, 臺北市, 100024, 臺灣"
+379,3.01,A,1.56,4.66,1.73,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 天鮮餐廚. Detailed address: 36, 伊通街19巷, 朱園里, 中山區, 朱厝崙, 臺北市, 104096, 臺灣
+2. 晉來自助餐. Detailed address: 17, 基隆路二段, 景聯里, 信義區, 三張犁, 臺北市, 110, 臺灣"
+380,8.37,D,7.58,9.19,4.47,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 蒸籠坊. Detailed address: 仁愛路四段512巷, 興隆里, 信義區, 興雅, 臺北市, 110201, 臺灣
+2. 便當店. Detailed address: 同安街80巷, 網溪里, 中正區, 古亭, 臺北市, 10085, 臺灣"
+381,2.76,C,3.18,1.53,3.38,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 中國通商大樓. Detailed address: 112, 長安東路二段, 朱園里, 中山區, 朱厝崙, 臺北市, 104, 臺灣
+2. 茂聯實業廣場. Detailed address: 星展（台灣）商業銀行, 158, 新生南路一段, 三愛里, 中正區, 華山, 臺北市, 100015, 臺灣"
+382,4.06,A,10.64,7.65,5.2,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 地下停車場＿. Detailed address: 95, 文昌路, 福佳里, 士林區, 社子, 臺北市, 111, 臺灣
+2. 延平涼州街口. Detailed address: 平樂陸橋, 南芳里, 大同區, 大稻埕, 臺北市, 10348, 臺灣"
+383,0.84,B,5.23,13.11,4.04,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 行天宮圖書館. Detailed address: 力霸, 9, 敦化北路120巷, 中正里, 松山區, 中崙, 臺北市, 105020, 臺灣
+2. 台灣神學院. Detailed address: 20, 仰德大道二段2巷, 永福里, 士林區, 石角, 臺北市, 111, 臺灣"
+384,13.18,B,7.18,12.27,5.42,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 點一杯 金格食品. Detailed address: 483, 文林路, 福佳里, 士林區, 石角, 臺北市, 111, 臺灣
+2. 一之鄉. Detailed address: 仁愛路四段, 正聲里, 大安區, 車罾, 臺北市, 106062, 臺灣"
+385,3.57,A,1.27,8.66,9.56,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 來福大廈. Detailed address: 118, 南京東路五段, 吉祥里, 松山區, 興雅, 臺北市, 10561, 臺灣
+2. 淡水/光華/指南客運大直站. Detailed address: 75號, 樂群三路, 成功里, 中山區, 下塔悠, 臺北市, 104, 臺灣"
+386,8.49,D,1.64,1.53,4.03,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 嘟嘟房林森公園場 (行人出入口). Detailed address: 嘟嘟房林森公園場, 新生北路二段28巷, 康樂里, 中山區, 南西商圈, 臺北市, 104012, 臺灣
+2. 樂 古早味蛋糕. Detailed address: 81, 大南路, 義信里, 士林區, 社子, 臺北市, 111, 臺灣"
+387,11.66,B,5.42,2.93,10.27,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 泛亞商務中心. Detailed address: 174, 南京東路二段, 朱園里, 中山區, 朱厝崙, 臺北市, 104, 臺灣
+2. 737豬血糕. Detailed address: 內湖路一段737巷, 港富里, 內湖區, 臺北市, 11446, 臺灣"
+388,8.58,D,5.05,8.04,2.36,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 小張龜山島現撈海鮮. Detailed address: 73, 遼寧街, 力行里, 中山區, 中崙, 臺北市, 104, 臺灣
+2. 赤峰街教會. Detailed address: 赤峰街33巷, 光能里, 大同區, 建成, 臺北市, 10352, 臺灣"
+389,0.58,B,2.25,0.87,5.56,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 一龍園廣東燒腊. Detailed address: 龍江路, 朱崙里, 中山區, 朱厝崙, 臺北市, 10490, 臺灣
+2. 晶湯匙. Detailed address: 1, 承德路一段, 建明里, 大同區, 後車頭, 臺北市, 10351, 臺灣"
+390,6.65,C,8.23,3.92,8.11,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 齋心坊素食小吃. Detailed address: 松山路, 四育里, 信義區, 潭美, 臺北市, 11068, 臺灣
+2. 雅苑明萃皮膚科診所. Detailed address: 72, 民權東路三段, 江寧里, 中山區, 下埤頭, 臺北市, 10476, 臺灣"
+391,10.32,B,4.08,7.05,1.6,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 168排骨飯. Detailed address: 延吉街, 吉仁里, 松山區, 車罾, 臺北市, 10559, 臺灣
+2. 印度小吃真好吃. Detailed address: 1, 中山北路三段, 圓山里, 中山區, 大龍峒, 臺北市, 104, 臺灣"
+392,6.95,A,10.59,12.27,1.99,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 泰泰小館. Detailed address: 福華路153巷, 德華里, 士林區, 蘭雅, 臺北市, 11158, 臺灣
+2. 起上小法師 - 牛舌炭燒專門店. Detailed address: 6號, 八德路三段74巷, 敦化里, 松山區, 中崙, 臺北市, 10559, 臺灣"
+393,5.32,A,1.87,7.32,9.66,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 橘子樹托嬰中心. Detailed address: 2, 瑞安街208巷, 新龍里, 大安區, 臺北市, 106, 臺灣
+2. 廟口厚切牛排. Detailed address: 延平北路三段, 國順里, 大同區, 大龍峒, 臺北市, 10375, 臺灣"
+394,13.22,C,9.52,5.92,4.26,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 景聯廣場. Detailed address: 0365, 松勤街, 景聯里, 信義區, 三張犁, 臺北市, 110501, 臺灣
+2. 蘭州整宅. Detailed address: 15號, 昌吉街61巷35弄, 揚雅里, 大同區, 大龍峒, 臺北市, 103, 臺灣"
+395,8.83,C,5.46,1.88,5.39,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 凱恩斯岩燒餐廳. Detailed address: 四維路48巷, 德安里, 大安區, 東區商圈, 臺北市, 10685, 臺灣
+2. Pasta West east. Detailed address: 慶城街, 中正里, 松山區, 中崙, 臺北市, 10550, 臺灣"
+396,7.75,C,1.29,2.78,0.75,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 中嶽殿. Detailed address: 濱江街180巷, 大佳里, 中山區, 下埤頭, 臺北市, 104068, 臺灣
+2. Civic Boulevard Car Park (Fuxing-Dunhua). Detailed address: 市民大道四段, 光武里, 大安區, 中崙, 臺北市, 10556, 臺灣"
+397,9.53,C,9.38,3.41,0.84,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 慶隆商務俱樂部. Detailed address: 293-1, 復興南路一段, 仁慈里, 大安區, 東區商圈, 臺北市, 10665, 臺灣
+2. 火焰骰子牛. Detailed address: 饒河街觀光夜市, 饒河街, 慈祐里, 松山區, 潭美, 臺北市, 10566, 臺灣"
+398,13.55,D,11.72,12.37,8.31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 路易莎咖啡. Detailed address: 中正路, 舊佳里, 士林區, 石角, 臺北市, 11111, 臺灣
+2. 樂業停車場. Detailed address: 樂業街15巷, 虎嘯里, 大安區, 六張犁, 臺北市, 10675, 臺灣"
+399,15.41,D,5.2,13.84,7.79,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 台灣神學院. Detailed address: 20, 仰德大道二段2巷, 永福里, 士林區, 石角, 臺北市, 111, 臺灣
+2. 景聯廣場. Detailed address: 0365, 松勤街, 景聯里, 信義區, 三張犁, 臺北市, 110501, 臺灣"
+400,11.36,C,10.98,4.92,11.44,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 新華爾街大樓. Detailed address: 台北市護理師護士公會, 34, 館前路, 黎明里, 中正區, 台北站前, 臺北市, 100007, 臺灣
+2. 官邸旅館. Detailed address: 102之16號, 文林路, 仁勇里, 士林區, 臺北市, 111, 臺灣"
+401,1.72,A,8.49,8.48,9.66,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 桌椅. Detailed address: 松山高中, 156, 基隆路一段, 新仁里, 信義區, 興雅, 臺北市, 10070, 臺灣
+2. 中坡市民路口(東北側). Detailed address: 中坡北路, 玉成里, 南港區, 潭美, 臺北市, 11562, 臺灣"
+402,7.25,A,4.12,12.87,9.87,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 茉莉漢堡. Detailed address: 588, 瑞光路, 西湖里, 內湖區, 臺北市, 114, 臺灣
+2. 迷客夏. Detailed address: 師大路, 龍泉里, 大安區, 古亭, 臺北市, 10645, 臺灣"
+403,1.06,A,6.9,5.08,7.73,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 台玻大樓. Detailed address: 261, 南京東路三段, 中正里, 松山區, 中崙, 臺北市, 105405, 臺灣
+2. 中國通商大樓. Detailed address: 112, 長安東路二段, 朱園里, 中山區, 朱厝崙, 臺北市, 104, 臺灣"
+404,9.65,B,4.27,3.17,5.36,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 30讚500CC. Detailed address: 南京東路二段24巷, 興亞里, 中山區, 南西商圈, 臺北市, 10484, 臺灣
+2. 滿佳香漢堡店. Detailed address: 大北路, 仁勇里, 士林區, 臺北市, 11162, 臺灣"
+405,5.01,C,3.27,0.69,3.1,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 世華商業大樓. Detailed address: 4號, 新生南路一段52巷, 幸市里, 中正區, 華山, 臺北市, 100, 臺灣
+2. 中央藝文公園. Detailed address: 杭州北路, 光華商場, 梅花里, 中正區, 華山, 臺北市, 10058, 臺灣"
+406,9.88,B,1.96,7.85,9.54,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 富富の正. Detailed address: 金山南路一段110巷, 文祥里, 中正區, 華山, 臺北市, 10057, 臺灣
+2. 嘟嘟房林森公園場 (行人出入口). Detailed address: 嘟嘟房林森公園場, 新生北路二段28巷, 康樂里, 中山區, 南西商圈, 臺北市, 104012, 臺灣"
+407,6.51,C,0.86,4.04,9.64,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pasta West east. Detailed address: 慶城街, 中正里, 松山區, 中崙, 臺北市, 10550, 臺灣
+2. Cama. Detailed address: 內湖路一段, 麗山里, 內湖區, 下塔悠, 臺北市, 11444, 臺灣"
+408,10.78,D,8.77,8.78,3.97,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 肉老大. Detailed address: 錦西街, 集英里, 中山區, 雙連, 臺北市, 10365, 臺灣
+2. 點一杯 金格食品. Detailed address: 483, 文林路, 福佳里, 士林區, 石角, 臺北市, 111, 臺灣"
+409,9.82,C,1.59,4.17,11.88,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 第二停車場. Detailed address: 臺北松山機場, 340-9, 敦化北路, 精忠里, 松山區, 下埤頭, 臺北市, 10548, 臺灣
+2. 捷運士林停車場. Detailed address: 文林路, 仁勇里, 士林區, 臺北市, 11162, 臺灣"
+410,9.06,B,2.11,5.51,8.48,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 名冠動物醫院. Detailed address: 207, 中坡南路, 中行里, 信義區, 臺北市, 110, 臺灣
+2. 桌椅. Detailed address: 松山高中, 156, 基隆路一段, 新仁里, 信義區, 興雅, 臺北市, 10070, 臺灣"
+411,2.82,D,6.21,0.52,1.59,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 吳大牛蕉糖茶飲. Detailed address: 忠孝東路三段217巷6弄, 昌隆里, 大安區, 東區商圈, 臺北市, 10666, 臺灣
+2. Sappho Live. Detailed address: 1, 安和路一段102巷, 敦安里, 大安區, 車罾, 臺北市, 106, 臺灣"
+412,1.73,C,12.34,6.44,1.96,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 統一名廈. Detailed address: 鴻嘉珠寶, 39, 延平北路二段, 朝陽里, 大同區, 大稻埕, 臺北市, 103009, 臺灣
+2. 西湖實驗國中. Detailed address: 27, 環山路一段, 西湖里, 內湖區, 下塔悠, 臺北市, 114, 臺灣"
+413,5.24,A,9.41,12.39,11.59,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 店小二池上便當. Detailed address: 131, 長春路, 中吉里, 中山區, 朱厝崙, 臺北市, 104, 臺灣
+2. 一極鮮熱炒. Detailed address: 95-5, 福國路, 德華里, 士林區, 蘭雅, 臺北市, 111, 臺灣"
+414,1.11,A,4.4,6.2,3.37,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 城市車旅三創生活園區場. Detailed address: 八德路一段43巷, 光華商場, 梅花里, 中正區, 華山, 臺北市, 100013, 臺灣
+2. 店小二池上便當. Detailed address: 131, 長春路, 中吉里, 中山區, 朱厝崙, 臺北市, 104, 臺灣"
+415,3.41,A,7.58,1.87,8.32,"What is the straight-line distance between the following two locations? (Unit is km)
+1. World Gym健身俱樂部. Detailed address: 8, 內湖路一段32巷, 金泰里, 中山區, 下塔悠, 臺北市, 104, 臺灣
+2. 八二三砲戰紀念公園. Detailed address: 八二三臺海戰役勝利紀念碑, 中山北路四段, 劍潭里, 中山區, 大龍峒, 臺北市, 11166, 臺灣"
+416,0.86,B,7.44,15.23,5.11,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 便當店. Detailed address: 同安街80巷, 網溪里, 中正區, 古亭, 臺北市, 10085, 臺灣
+2. 天增. Detailed address: 50, 大南路, 義信里, 士林區, 社子, 臺北市, 111, 臺灣"
+417,3.54,A,2.44,1.47,2.2,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 怡亨酒店. Detailed address: 370, 敦化南路一段, 德安里, 大安區, 東區商圈, 臺北市, 10684, 臺灣
+2. 中山地下街. Detailed address: 2-1, 南京西路25巷, 光能里, 大同區, 南西商圈, 臺北市, 104, 臺灣"
+418,0.58,D,0.75,0.52,3.48,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 延吉公寓. Detailed address: 4之2號, 延吉街22巷, 吉仁里, 松山區, 中崙, 臺北市, 105, 臺灣
+2. 扶輪親恩公園. Detailed address: 民權大橋, 民權東路六段, 湖元里, 內湖區, 潭美, 臺北市, 11466, 臺灣"
+419,6.22,C,3.18,1.04,8.37,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 大心. Detailed address: 長安西路19巷2弄, 民安里, 中山區, 南西商圈, 臺北市, 103014, 臺灣
+2. 台灣聯通. Detailed address: 413, 林森北路, 聚盛里, 中山區, 南西商圈, 臺北市, 10491, 臺灣"
+420,4.07,B,1.25,8.59,5.35,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 素食. Detailed address: 信義路四段30巷, 住安里, 大安區, 東區商圈, 臺北市, 10665, 臺灣
+2. 路易沙. Detailed address: 和平東路二段118巷, 龍淵里, 大安區, 公館, 臺北市, 106213, 臺灣"
+421,8.79,D,7.64,7.83,3.83,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 希望廣場. Detailed address: 日月亭希望園區場, 55, 八德路一段, 光華商場, 梅花里, 中正區, 華山, 臺北市, 100013, 臺灣
+2. 首席公館. Detailed address: 136, 松仁路, 三張里, 信義區, 信義商圈, 臺北市, 11058, 臺灣"
+422,0.61,D,1.55,8.2,5.69,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 三來素食館. Detailed address: 23, 武昌街一段, 光復里, 中正區, 城內, 臺北市, 100003, 臺灣
+2. 三商巧福. Detailed address: 中正路335巷, 福德里, 士林區, 石角, 臺北市, 111045, 臺灣"
+423,2.54,B,4.58,12.26,7.72,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 星廚湯麵. Detailed address: 民族東路, 圓山里, 中山區, 大龍峒, 臺北市, 104439, 臺灣
+2. 亞信乒乓. Detailed address: 瑞安街222巷, 新龍里, 大安區, 臺北市, 10659, 臺灣"
+424,11.11,C,5.87,4.33,0.87,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 小籠包. Detailed address: 89, 大南路, 義信里, 士林區, 社子, 臺北市, 111, 臺灣
+2. 臺北轉運站(華陰街). Detailed address: 華陰街, 建明里, 大同區, 後車頭, 臺北市, 10349, 臺灣"
+425,5.6,C,1.62,3.42,10.31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 滿藝廚房. Detailed address: 台北101購物中心, 45, 市府路, 西村里, 信義區, 信義商圈, 臺北市, 11001, 臺灣
+2. 經典牙醫診所. Detailed address: 47, 溫州街, 大學里, 大安區, 公館, 臺北市, 106, 臺灣"
+426,8.77,D,3.0,5.54,0.85,"What is the straight-line distance between the following two locations? (Unit is km)
+1. NOTCH咖啡工坊. Detailed address: 6, 信陽街, 黎明里, 中正區, 台北站前, 臺北市, 100007, 臺灣
+2. 建成國中地下停車場. Detailed address: 建成國中, 37-1, 長安西路, 建明里, 大同區, 南西商圈, 臺北市, 10351, 臺灣"
+427,7.4,D,7.91,3.33,6.14,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 系統電子工業股份有限公司. Detailed address: 1號, 堤頂大道一段, 湖元里, 內湖區, 潭美, 臺北市, 114, 臺灣
+2. 正旅館 藍. Detailed address: JUNTO • 同, 22, 館前路, 黎明里, 中正區, 台北站前, 臺北市, 10047, 臺灣"
+428,10.87,D,4.06,10.72,6.7,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 天增. Detailed address: 50, 大南路, 義信里, 士林區, 社子, 臺北市, 111, 臺灣
+2. 中國醫藥大學附設醫院臺北分院. Detailed address: 成功路四段30巷, 內湖里, 內湖區, 臺北市, 11489, 臺灣"
+429,10.67,C,9.89,4.67,7.85,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cama. Detailed address: 內湖路一段, 麗山里, 內湖區, 下塔悠, 臺北市, 11444, 臺灣
+2. 金賢手工臭豆腐. Detailed address: 龍江路37巷, 力行里, 中山區, 中崙, 臺北市, 10490, 臺灣"
+430,2.48,A,8.68,5.21,8.23,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 禮仁通商大樓仁座. Detailed address: 148號, 忠孝東路四段, 建倫里, 大安區, 東區商圈, 臺北市, 106, 臺灣
+2. 國泰建設大樓. Detailed address: 國泰世華商業銀行, 141, 民生東路二段, 松江里, 中山區, 朱厝崙, 臺北市, 104, 臺灣"
+431,6.5,A,3.01,1.6,13.72,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 一極鮮熱炒. Detailed address: 95-5, 福國路, 德華里, 士林區, 蘭雅, 臺北市, 111, 臺灣
+2. 臺大地藏庵. Detailed address: 1, 常德街, 黎明里, 中正區, 城內, 臺北市, 10048, 臺灣"
+432,6.36,C,8.2,2.59,1.26,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 樹咖啡. Detailed address: 金山南路一段110巷, 文祥里, 中正區, 華山, 臺北市, 10057, 臺灣
+2. 大三鱻快炒店. Detailed address: 6, 民生東路一段23巷, 聚盛里, 中山區, 南西商圈, 臺北市, 104, 臺灣"
+433,0.66,C,8.62,3.39,10.64,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 雅苑明萃皮膚科診所. Detailed address: 72, 民權東路三段, 江寧里, 中山區, 下埤頭, 臺北市, 10476, 臺灣
+2. 辛發亭. Detailed address: 1, 安平街, 仁勇里, 士林區, 臺北市, 111, 臺灣"
+434,7.09,C,9.04,5.32,2.16,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sunny Heart Coffee. Detailed address: 忠孝東路三段251巷8弄, 誠安里, 大安區, 東區商圈, 臺北市, 10666, 臺灣
+2. 小學日燒肉丼. Detailed address: 內湖路一段437巷4弄, 麗山里, 內湖區, 臺北市, 11444, 臺灣"
+435,5.48,B,0.92,7.63,1.94,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 怡和大廈. Detailed address: Converse, 忠孝東路四段147巷, 建安里, 大安區, 東區商圈, 臺北市, 106429, 臺灣
+2. 德昇商業大樓. Detailed address: 台灣新生報, 38, 復興北路, 力行里, 中山區, 中崙, 臺北市, 10552, 臺灣"
+436,2.84,A,5.58,8.96,9.44,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 阿嬌海鮮料理. Detailed address: 大安路二段15巷, 住安里, 大安區, 東區商圈, 臺北市, 106475, 臺灣
+2. 阿娥水餃. Detailed address: 9, 南京東路二段21巷, 中原里, 中山區, 南西商圈, 臺北市, 104, 臺灣"
+437,11.0,D,11.21,8.36,5.49,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 臺北藝術園區-臺北市立美術館擴建工程. Detailed address: 水晶情人橋, 圓山里, 中山區, 大龍峒, 臺北市, 10452, 臺灣
+2. 富生二公園. Detailed address: 3號, 永吉路120巷80巷, 敦厚里, 信義區, 興雅, 臺北市, 110, 臺灣"
+438,2.09,A,3.37,6.9,9.71,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 翠林越南餐廳. Detailed address: 16, 忠孝東路三段10巷, 民輝里, 大安區, 華山, 臺北市, 10652, 臺灣
+2. 福州世祖胡椒餅. Detailed address: 13, 重慶南路一段, 光復里, 中正區, 台北站前, 臺北市, 100, 臺灣"
+439,0.78,D,5.13,0.57,1.87,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 圓山藏美. Detailed address: 180號, 承德路三段, 至聖里, 大同區, 大龍峒, 臺北市, 103, 臺灣
+2. 輪鞋競速場. Detailed address: 基隆河左岸自行車道, 葫東里, 士林區, 社子, 臺北市, 11169, 臺灣"
+440,5.95,D,5.98,8.75,2.87,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 民權建國路口. Detailed address: 民權東路三段, 行仁里, 中山區, 下埤頭, 臺北市, 104477, 臺灣
+2. 和風食堂. Detailed address: 12號, 前港街, 前港里, 士林區, 社子, 臺北市, 11163, 臺灣"
+441,7.06,B,4.18,1.09,2.2,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 華南商業銀行. Detailed address: 成功路四段, 清白里, 內湖區, 臺北市, 11489, 臺灣
+2. 美味早點站. Detailed address: 東新街80巷, 成福里, 南港區, 潭美, 臺北市, 11569, 臺灣"
+442,2.04,C,3.72,6.56,13.18,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 公館山營區. Detailed address: 6號, 文德街66巷113弄, 瑞陽里, 內湖區, 臺北市, 114, 臺灣
+2. 大安國宅. Detailed address: 地下停車場, 建國南路二段79巷, 新龍里, 大安區, 東區商圈, 臺北市, 10659, 臺灣"
+443,1.45,A,9.15,6.91,8.61,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 臺北市府公務停車場 (松壽路入口). Detailed address: 臺北市政府, 1, 市府路, 西村里, 信義區, 興雅, 臺北市, 11008, 臺灣
+2. 雅祥公園(松信路50巷口). Detailed address: 松信路, 雅祥里, 信義區, 興雅, 臺北市, 11069, 臺灣"
+444,4.71,A,8.62,11.42,10.23,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 將作城心. Detailed address: 89號, 南昌路二段, 南福里, 中正區, 古亭, 臺北市, 100, 臺灣
+2. 原動室. Detailed address: 臺北機廠鐵道博物館園區, 48, 市民大道五段, 新仁里, 信義區, 興雅, 臺北市, 110055, 臺灣"
+445,3.01,B,1.27,5.3,3.43,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 柏美大廈. Detailed address: 品鍋臭臭鍋, 民權東路二段152巷, 松江里, 中山區, 朱厝崙, 臺北市, 10477, 臺灣
+2. 瑞星大樓. Detailed address: 華南商業銀行, 112, 中山北路二段, 集英里, 中山區, 雙連, 臺北市, 10449, 臺灣"
+446,11.63,B,6.82,2.54,5.18,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 輪鞋競速場. Detailed address: 基隆河左岸自行車道, 葫東里, 士林區, 社子, 臺北市, 11169, 臺灣
+2. 古亭國中. Detailed address: 465, 中華路二段, 永功里, 中正區, 龍匣口, 臺北市, 10072, 臺灣"
+447,2.24,B,4.02,8.41,7.67,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 廣炒. Detailed address: 泉州街, 龍光里, 中正區, 龍匣口, 臺北市, 100056, 臺灣
+2. 咖啡弄. Detailed address: 42, 敦化南路一段187巷, 建安里, 大安區, 東區商圈, 臺北市, 106, 臺灣"
+448,4.85,A,3.04,7.96,8.51,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 百齡右岸河濱公園. Detailed address: 基隆河右岸自行車道, 福中里, 士林區, 社子, 臺北市, 11169, 臺灣
+2. 新中華大樓. Detailed address: 華南商業銀行, 南京東路三段, 復華里, 中山區, 中崙, 臺北市, 10595, 臺灣"
+449,7.95,C,2.71,1.65,0.56,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 水云濮人文食堂. Detailed address: 新生北路二段60巷, 中山里, 中山區, 南西商圈, 臺北市, 104012, 臺灣
+2. 一龍園廣東燒腊. Detailed address: 龍江路, 朱崙里, 中山區, 朱厝崙, 臺北市, 10490, 臺灣"
+450,2.54,A,7.12,9.65,7.21,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 高媽媽. Detailed address: 安和路二段35巷, 通安里, 大安區, 車罾, 臺北市, 106047, 臺灣
+2. 金甌滷味. Detailed address: 師大路39巷, 龍泉里, 大安區, 古亭, 臺北市, 10645, 臺灣"
+451,11.25,D,11.41,4.74,3.53,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 革新公園. Detailed address: 松隆路, 敦厚里, 信義區, 興雅, 臺北市, 110072, 臺灣
+2. 可不可熟成紅茶. Detailed address: 182-2, 長春路, 中央里, 中山區, 朱厝崙, 臺北市, 104, 臺灣"
+452,5.52,D,9.38,6.1,2.52,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 貴州小吃. Detailed address: 富陽街21巷, 黎平里, 信義區, 六張犁, 臺北市, 11054, 臺灣
+2. 垃圾場. Detailed address: 松山高中, 156, 基隆路一段, 新仁里, 信義區, 興雅, 臺北市, 10070, 臺灣"
+453,8.2,B,6.0,11.74,4.72,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ViVi PARK《昆陽街停車場》. Detailed address: 68號, 昆陽街, 西新里, 南港區, 潭美, 臺北市, 115, 臺灣
+2. 實踐大學台北校區. Detailed address: 70, 大直街, 大直里, 中山區, 下塔悠, 臺北市, 10462, 臺灣"
+454,2.82,B,4.05,2.43,6.77,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 滙豐(台灣)商業銀行. Detailed address: 266, 松江路, 中庄里, 中山區, 朱厝崙, 臺北市, 104, 臺灣
+2. 松勁樓. Detailed address: 東吳大學, 70, 臨溪路, 福林里, 士林區, 石角, 臺北市, 111, 臺灣"
+455,4.86,D,7.84,14.57,9.08,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 祥瑞牙醫診所. Detailed address: 485, 文林路, 福佳里, 士林區, 石角, 臺北市, 111, 臺灣
+2. 台北南天宮五府千歲. Detailed address: 松山路650巷15弄, 松隆里, 信義區, 信義商圈, 臺北市, 11080, 臺灣"
+456,2.25,D,3.16,10.25,4.79,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 臺北醫學大學. Detailed address: 吳興街220巷, 雙和里, 信義區, 三張犁, 臺北市, 11031, 臺灣
+2. 水云濮人文食堂. Detailed address: 新生北路二段60巷, 中山里, 中山區, 南西商圈, 臺北市, 104012, 臺灣"
+457,8.34,D,2.54,7.35,4.42,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 通安區民活動中心. Detailed address: 通安街, 通安里, 大安區, 六張犁, 臺北市, 10680, 臺灣
+2. 三來素食館. Detailed address: 23, 武昌街一段, 光復里, 中正區, 城內, 臺北市, 100003, 臺灣"
+458,5.02,B,1.82,7.39,0.74,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 義大利女巫咖啡酒吧. Detailed address: 10, 新生南路一段54巷, 幸市里, 中正區, 華山, 臺北市, 100, 臺灣
+2. 敦化八德路口. Detailed address: 敦化南路一段, 福成里, 松山區, 中崙, 臺北市, 105408, 臺灣"
+459,0.88,C,9.0,5.56,10.6,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 扶輪親恩公園. Detailed address: 民權大橋, 民權東路六段, 湖元里, 內湖區, 潭美, 臺北市, 11466, 臺灣
+2. 臨沂帝國. Detailed address: 6號, 新生南路一段54巷, 幸市里, 中正區, 華山, 臺北市, 100, 臺灣"
+460,0.56,A,4.53,3.98,2.47,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 氣象署圖書室. Detailed address: 交通部中央氣象署, 64, 公園路, 建國里, 中正區, 龍匣口, 臺北市, 100006, 臺灣
+2. 台新國際商業銀行. Detailed address: 7, 羅斯福路一段, 新營里, 中正區, 龍匣口, 臺北市, 100215, 臺灣"
+461,5.11,C,10.64,3.49,0.58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 晉來自助餐. Detailed address: 17, 基隆路二段, 景聯里, 信義區, 三張犁, 臺北市, 110, 臺灣
+2. 十方齋素食館. Detailed address: 10, 松江路108巷, 興亞里, 中山區, 朱厝崙, 臺北市, 104, 臺灣"
+462,1.28,D,8.54,9.24,2.34,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 真味肉圓. Detailed address: 玉成街42巷, 合成里, 南港區, 潭美, 臺北市, 11562, 臺灣
+2. 滿藝廚房. Detailed address: 台北101購物中心, 45, 市府路, 西村里, 信義區, 信義商圈, 臺北市, 11001, 臺灣"
+463,9.34,C,3.26,5.52,1.74,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 八德素食. Detailed address: 14, 建國南路一段, 朱園里, 中山區, 朱厝崙, 臺北市, 10608, 臺灣
+2. 永和豆漿大王. Detailed address: 社正路, 社子里, 士林區, 社子, 臺北市, 11165, 臺灣"
+464,12.07,D,6.03,9.32,4.5,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 瑞穗銀行. Detailed address: 68, 忠孝東路五段, 興雅里, 信義區, 興雅, 臺北市, 110419, 臺灣
+2. 國泰世華商業銀行. Detailed address: 149, 羅斯福路三段, 古莊里, 大安區, 古亭, 臺北市, 106, 臺灣"
+465,8.64,B,6.56,10.52,4.58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 小學日燒肉丼. Detailed address: 內湖路一段437巷4弄, 麗山里, 內湖區, 臺北市, 11444, 臺灣
+2. Mo-Mo Paradise. Detailed address: 1, 承德路一段, 建明里, 大同區, 後車頭, 臺北市, 10351, 臺灣"
+466,4.79,A,8.05,2.48,10.95,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chang Yang. Detailed address: 蔣經國總統圖書館, 301, 北安路, 劍潭里, 中山區, 下埤頭, 臺北市, 104, 臺灣
+2. 好棒棒平價快炒. Detailed address: 271, 復興南路一段, 仁慈里, 大安區, 東區商圈, 臺北市, 106, 臺灣"
+467,7.79,B,2.72,8.34,5.95,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 真茶自慢. Detailed address: 3, 忠孝東路六段428巷, 新光里, 南港區, 潭美, 臺北市, 115, 臺灣
+2. 革新公園. Detailed address: 松隆路, 敦厚里, 信義區, 興雅, 臺北市, 110072, 臺灣"

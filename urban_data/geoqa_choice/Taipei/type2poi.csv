@@ -1,0 +1,128 @@
+,A,B,C,answer,D,E,question
+0,朱宗慶打擊樂教學中心,幸福,臺北田徑場(北寧路側),C,金仙蝦捲飯,兆豐國際商業銀行,Which POI belongs to type: bicycle_rental?
+1,星巴克,Simple Kaffa,正鋒自助餐,C,元大商業銀行,石棚土地公,Which POI belongs to type: restaurant?
+2,佐藤養助地,肯德基,三禾行飲食,D,臺灣新光商業銀行,臨江街夜市(通化街101巷口),Which POI belongs to type: bank?
+3,拉麵 らぁ麺-魚堺,采。時代 義式冰淇淋,Casa del Fresco,C,金華國中合作社附設幼兒園,正宗專業潤餅,Which POI belongs to type: cafe?
+4,吉思咖啡,福祥公園,開小伙,C,Nanoray,國泰世華商業銀行,Which POI belongs to type: fast_food?
+5,何家大碗公涼麵,豪記專業牛肉麵,大台北牙醫診所,C,點咖啡,丹堤咖啡,Which POI belongs to type: dentist?
+6,萬春堂藥房,烤蘋果派的方法,李白居,A,二吉軒豆乳,芝山岩牛肉麵,Which POI belongs to type: pharmacy?
+7,山林美食館,玉山商業銀行,鳥居町,E,洪十一擔仔麵,鴻海酒店,Which POI belongs to type: pub?
+8,彼得好咖啡,佩皮文理補習班,錢櫃,C,阿里不達太監羊 羊肉爐,肯德基,Which POI belongs to type: karaoke_box?
+9,台灣中油,嘟嘟房 世貿一館站,口味坊,A,北港豆花,Sandra’s音樂夢工場,Which POI belongs to type: fuel?
+10,仁愛敦南圓環(東南側),松山車站地下停車場,仁愛魚丸冬粉,E,玉山商業銀行,建成派出所,Which POI belongs to type: police?
+11,三鷹日本料理,北海道旭川拉麵,尼米曉春,E,老店三鮮意麵,北醫神泉,Which POI belongs to type: fountain?
+12,清靜山福德宮,德先生的早午餐,享初精緻早午餐,A,天圓藝術生活,HOSEI,Which POI belongs to type: place_of_worship?
+13,築間幸福鍋物,遠東國際商業銀行,活肺操場裏,C,敦化南路派出所,臺灣銀行,Which POI belongs to type: stadium?
+14,永春分館,彰化商業銀行,享巷,A,Raw Cafe,天然臺湘菜館,Which POI belongs to type: library?
+15,露易 沙咖啡,黃記麻辣蚵仔麵線,Resoran Indonesia Rasa,E,天心中醫診所,台北郵局第五郵政代辦所,Which POI belongs to type: post_office?
+16,麵皇,BURGER OUT,新眼光眼科診所,D,花旗信義大樓地下停車場,打卡咖啡館,Which POI belongs to type: parking_entrance?
+17,看電車咖啡館,美而美,中正中隊華山分隊,C,朱崙復興北路口,清香火鍋城,Which POI belongs to type: fire_station?
+18,正義新城自助會 義村里里民活動中心,李記食堂,天璽石頭火鍋,D,歐華酒店附設停車場,737炸烤之家,Which POI belongs to type: parking?
+19,Comebuy,潘國揮牙醫,寶師傅,E,臺北田徑場(北寧路側),美麗華影城,Which POI belongs to type: cinema?
+20,松江公園,八方雲集,宙斯冰霸,C,南西尚安醫美診所,緣心豆花專賣店,Which POI belongs to type: ice_cream?
+21,還我牛美式炭烤牛排餐廳,游泳池 (B2),華南商業銀行,B,錢都涮涮鍋,新東南海鮮餐廳,Which POI belongs to type: swimming_pool?
+22,iPasta,GEORGE HOUSE 世界精品咖啡專賣,小米酒咖啡館,D,回收場,第一劇場魚丸店,Which POI belongs to type: recycling?
+23,臺北地方法院,愛.熟成21牛肉麵,錦安市場,C,大直街94巷,八方雲集,Which POI belongs to type: marketplace?
+24,台北市召會ㄧ會所,すき家,田圆小倌蔬食制作厨房,E,二姊甜不辣,私立丘山幼兒園,Which POI belongs to type: kindergarten?
+25,"Findbook.TW, Ecowork Inc.",珍咖啡坊,沐樂咖啡,A,台灣小小吃,福客,Which POI belongs to type: office?
+26,中山北路二段62巷口,Give Me Pie,石研室石頭火鍋,E,巷果華,和平亭,Which POI belongs to type: shelter?
+27,Cafe De Gear,鴻海酒店,植蘊Planté武昌,E,富台公園,FRANK,Which POI belongs to type: nightclub?
+28,茶湯會,臺灣新光商業銀行,咖食堂,E,Tutto Fresco,傳愛經典中醫,Which POI belongs to type: clinic?
+29,卓莉手工釀啤酒泰食餐廳,台北車站北門B1置物櫃,兆豐國際商業銀行,E,麥當勞,飲料飯賣機,Which POI belongs to type: vending_machine?
+30,威爾貝克手烘咖啡,燒鳥バル鶏匠,開丼,E,誠興食堂,棟發鼓亭,Which POI belongs to type: arts_centre?
+31,慶城海南雞飯,台灣聯通太原場,華南商業銀行,C,民族延平路口,康寧雞腿達人,Which POI belongs to type: atm?
+32,興雅國中地下停車場,南港抓餅,悅香亭美食餐廳,C,阿寶飽,痴漢堡,Which POI belongs to type: food_court?
+33,杏昌診所,東榮里里民活動中心,可爾姿女性運動館,B,崁頂廟口湯圓,Street Food,Which POI belongs to type: community_centre?
+34,三禾米粉湯,八號極品海鮮餐廳,Qburger,D,計程車下客處,醉紅樓潮州菜館,Which POI belongs to type: taxi?
+35,北極星小葉,美濃屋,路米動物醫院,E,四平手工包子,捷運劍南路站(植福),Which POI belongs to type: bus_station?
+36,金年華三温暖,樂群二明水路口_1,江蘇水煎包,A,北方大陸餅,品味香滷味-八德店,Which POI belongs to type: sauna?
+37,杏慈診所,阿洲手擀皮水餃店,GOGOCAR,C,興安魷魚嘴羹,Mister Donut,Which POI belongs to type: car_rental?
+38,創義麵,遠東大廈停車場,佑仁動物醫院,C,小李子牛肉麵,新田鰻味屋,Which POI belongs to type: veterinary?
+39,憲兵二O二指揮部,麻古茶坊,T&T Coffee,A,吳興街394巷口,請客樓,Which POI belongs to type: military?
+40,春天連鎖藥局,素食茄汁牛肉麵,臺灣珠寶藝術學院,C,芋香園,樂町屋,Which POI belongs to type: prep_school?
+41,藍田養生月子餐,池上便當,華欣家畜醫院,D,VAVA GAGA,本村韓式炸雞,Which POI belongs to type: bbq?
+42,師大藥局,法式修頌,阿角紅燒肉,E,新新公園(昆陽街60巷),慶隆商務俱樂部,Which POI belongs to type: hackerspace?
+43,金湘台灣小吃,漫畫王一江店,Time Point,B,Miss Energy,元氣早餐,Which POI belongs to type: rental_book?
+44,保時潔專業汽車美容,楊記大餛飩,吾星級,A,正港魯肉飯,玉山商業銀行,Which POI belongs to type: car_wash?
+45,英皇牙醫診所,麗山國小圖書室,內湖運動中心,D,World Gym健身俱樂部,留蘭香自助餐,Which POI belongs to type: fitness_centre?
+46,新越越南麵食館,大戸屋,敦化八德路口,E,Chappii,樂學堂,Which POI belongs to type: events_venue?
+47,華南商業銀行,銷魂麵舖,上班族美而美,E,咖啡思美妲,榮清耳鼻喉科診所,Which POI belongs to type: doctors?
+48,中山老人住宅,花彘醺,這味泰泰,A,義麵坊,加里曼丹娘惹美食,Which POI belongs to type: social_facility?
+49,玉山商業銀行,不鳥穀共同工作空間,健業藥局,B,慶豐台式自助餐,醜小鴨,Which POI belongs to type: coworking_space?
+50,燒肉龍,金年華三温暖,四國讚岐烏龍麵,D,Fuljoy 機電工程工作室,甲禾牙醫,Which POI belongs to type: studio?
+51,古都刈包油飯,仁里居,戴記福建涼麵,E,信興自助餐,Preussen,Which POI belongs to type: bar?
+52,清水越南河粉,中原民生路口,烤蕃薯,C,353釣蝦場,那良麵,Which POI belongs to type: stall?
+53,楊記早餐,OK忠訓,佐曼咖啡,B,大老爺私房菜,泰比咖啡,Which POI belongs to type: detective?
+54,L'ERBOLARIO,鹿港小鎮,嘟嘟房 世貿一館站 (出口),A,元大商業銀行,北捷中山國中站i郵箱,Which POI belongs to type: perfume?
+55,點光咖啡,冰豆,pizzahot,D,美堤碼頭,雲城泰式料理,Which POI belongs to type: ferry_terminal?
+56,富允牛排館,華泰商業銀行,公用電話,C,富興園,冰豆,Which POI belongs to type: telephone?
+57,倍爾牙醫診所,華安宮,鼎泰豐,E,BOBBY & FRIENDS. CAFE 巴比咖啡,臺灣高等法院民事庭,Which POI belongs to type: courthouse?
+58,成都川菜小吃,吉野家,Wayne's New York,D,卡卡城 桌上遊戲休閒館 士林店,國泰世華商業銀行,Which POI belongs to type: amusement_arcade?
+59,Qtime,大鵬灣食堂,宜品港式粥面,A,新光三越A4停車場 (汽車出口),陶板屋,Which POI belongs to type: internet_cafe?
+60,捷運忠孝新生站i郵箱,流動廁所,臺北迪化街郵局,B,良朋牙醫診所,寄杯咖啡,Which POI belongs to type: toilets?
+61,大姆鍋,順泰藥局,貓森旅,C,路易莎,銘傳大學(中山北路五段280巷口),Which POI belongs to type: animal_boarding?
+62,SAFFRON 46,五桐號,許記生煎包,E,大三鱻快炒店,滑板場,Which POI belongs to type: pitch?
+63,民生社區垃圾桶1,易家鯊魚麵,路易莎咖啡,A,立馨牙醫診所,遠東國際商業銀行,Which POI belongs to type: waste_basket?
+64,丹提咖啡,郵筒,劉家飯糰,B,Oolong Tea Project,台北振天宮,Which POI belongs to type: post_box?
+65,全羅道韓式拌飯,Taipei 101置物櫃,我家牛排,B,摩斯漢堡,丫田廚房,Which POI belongs to type: luggage_locker?
+66,K-Chef 韓廚食坊,松旺臭豆腐,四海游龍,E,黑毛屋本家,祈福鐘,Which POI belongs to type: bell?
+67,國泰世華商業銀行,樂智樓垃圾桶,Casa del Fresco,E,第一商業銀行,城市車旅三創生活園區場,Which POI belongs to type: motorcycle_parking?
+68,中正親子館,1996 台灣茶葉飲品專賣店,雞肉本家,A,彰化商業銀行,陽春麵,Which POI belongs to type: playground?
+69,元大商業銀行,來來豆漿,和茜甘味處,E,陳記營養早餐店,曾德祥住宅新建工程,Which POI belongs to type: construction?
+70,酒食歐風朝,霸味薑母鴨,慈音古早味阿婆飯糰,D,台北車站B1置物櫃,林映聲川,Which POI belongs to type: locker?
+71,老台客食麵,士林官邸置物櫃,加州風洋食館,B,皇騰粥麵館,漢堡王,Which POI belongs to type: lock?
+72,頂呱呱,韓記牛肉拉麵,音樂廳,C,2011 Teppanyaki &Wine,臺北大龍老人住宅i郵箱,Which POI belongs to type: theatre?
+73,京好,銘傳大學基河校區,正典鐵板燒,B,蛙喜廚房BRUNCH PASTA,銷魂麵舖,Which POI belongs to type: university?
+74,潮肉壽喜燒,遠東國際商業銀行,素素如意素食、點心,E,南港路三段80巷,中華語文研習所,Which POI belongs to type: language_school?
+75,錦城漫畫影音租售館,澳盛銀行,台北富邦商業銀行,A,龜記,台北地下街,Which POI belongs to type: book_rental?
+76,Raw Cafe,荷蘭小鬆餅長安店,趙素芳婦產科,E,南港路三段130巷口,Go Station 換電站 - 中油福林站,Which POI belongs to type: charging_station?
+77,享 鍋酒館,三玉天玄宮,快樂頌,C,激安的食事酒場,國泰世華商業銀行,Which POI belongs to type: bench?
+78,國榮桌球,臺北橋下停車場,無老鍋市民店,A,周董燒肉飯,世紀豆漿,Which POI belongs to type: sports_centre?
+79,好朋友手工刀削麵,來來漢堡總匯,北門小吃,D,橘子樹托嬰中心,早安美芝城,Which POI belongs to type: childcare?
+80,本場香川宮武讃岐烏龍麵;壽司郎,汀州飯包,天和鮮物 LiGHT 365,E,真好味燒臘,遊客中心,Which POI belongs to type: construction?
+81,宅急便,非比教會,143 POLARIS,A,Power Sandwich,Chillax beer bar,Which POI belongs to type: delivery?
+82,地球村美日語,Jolly,志順蚵仔麵線,E,胖共生,慶生醫院,Which POI belongs to type: hospital?
+83,陶板屋,正品快炒店,MoneyGram BIN Express,C,里長伯麻辣臭豆腐,傑伯咖啡,Which POI belongs to type: money_transfer?
+84,星巴克,烤師傅,社子消防分隊,E,玉山商業銀行,中正區公所,Which POI belongs to type: townhall?
+85,安德睿 食代義廊,自由之鐘,MK,B,八方雲集,Achilles Gym,Which POI belongs to type: clock?
+86,快照機,中國銀行,怡客咖啡,A,森田牙醫,台北市中山托嬰中心,Which POI belongs to type: photo_booth?
+87,碧興宮,王寵惠墓園,玄玄麵店,B,仁愛延吉路口(西北側),利隆餅店,Which POI belongs to type: grave_yard?
+88,南昌公園,民生植物區,景福宮,B,胖哥乾麵,中國信託商業銀行,Which POI belongs to type: garden?
+89,行道會台北榮耀堂,星巴克,計程車上客處,D,砂池,貳分之一串燒丼飯,Which POI belongs to type: common?
+90,和平東路三段341巷口,星巴克,丞祖胡椒餅,C,飲料飯賣機,秋吉串燒,Which POI belongs to type: deli?
+91,臺北士林福林路Alifei郵箱,冠軍淺艇堡,華北神學院,C,永和四海豆漿大王,吉米棧,Which POI belongs to type: school?
+92,國防部醫務所,愛買廁所,胖老爹,D,北棟自行車停車場,瓦城 Thai Town,Which POI belongs to type: bicycle_parking?
+93,鐘樓,nkụ,After 5 and Later,A,小樂天餃子館,臺北四維里辦公室i郵箱,Which POI belongs to type: school?
+94,和鳴南樂社,陽明診所,臺北安和郵局i郵箱,A,河內美食,彰化商業銀行,Which POI belongs to type: bandstand?
+95,簡報室,專獵牛排,亞洲南洋料理,A,大呼過癮臭臭鍋,鹿家莊,Which POI belongs to type: conference_centre?
+96,這味泰泰,Flipout trampoline arena,好奇營養豆花 大直店,B,抓抓族,大直粥品,Which POI belongs to type: indoor_play?
+97,士林清潔隊後港分隊,珍味臭臭鍋,東松排骨,A,生蠔哥,普莉斯茶館,Which POI belongs to type: waste_transfer_station?
+98,麥當勞,東吳大學雙溪吸煙區,石壁家,B,香連鐵板料理,五雞盒飯,Which POI belongs to type: smoking_area?
+99,全安藥房,碧湖公園,阿花蕎麥麵,E,游壽司,松勁樓,Which POI belongs to type: dormitory?
+100,元大商業銀行,北大牛排,武烈士祠,C,電影資料中心,國禎牙醫,Which POI belongs to type: shrine?
+101,北方餃子館,楊記大混沌,現烤蛋糕,C,Islandwood Breakfast,餵我早餐,Which POI belongs to type: biergarten?
+102,愛燴家精緻外燴,雞窩,鴻記,D,高爾夫球場,誠誌堂,Which POI belongs to type: miniature_golf?
+103,傳奇鍋,必取選物販賣機,The Label,B,建成牙醫,後港派出所,Which POI belongs to type: amusement_archard?
+104,大苑子,麗山高中天文臺,慶陳雞,B,阿華大腸麵線臭豆腐,弗列斯,Which POI belongs to type: planetarium?
+105,和平金山路口,上海商業儲蓄銀行,安心藥局,D,Hansum,等等早午餐,Which POI belongs to type: hookah_lounge?
+106,小北方美食館,肯德基,隨緣素食,E,植物園,垂釣區,Which POI belongs to type: fishing?
+107,天狗日式串燒,健康大樓機車停車場,卓樂音樂學堂,C,涮乃葉,築間幸福鍋物,Which POI belongs to type: music_school?
+108,薺元小館,中正圖書館,春水堂人文茶館,B,公園飯包,懷食便當,Which POI belongs to type: university?
+109,皇品葉記港式燒臘,健康素食,碉堡,E,大條,精華舞集,Which POI belongs to type: dance?
+110,德威國際牙醫口腔醫院,醜小鴨,服務中心,C,周記麵食,明勝公園,Which POI belongs to type: reception_desk?
+111,大台北駕訓班,軒園滷味,捷運後山埤站(1號出口),A,九福堡早餐店,五弄一番,Which POI belongs to type: driving_school?
+112,Curista Coffee 奎士咖啡,極蜆鍋物,逸鮮棧,E,新眼光眼科診所,森川專業車體美研,Which POI belongs to type: vehicle_inspection?
+113,漫畫王一江店,紙街,泰順街大樹下甜品攤,D,議題製造所,酒食無雙,Which POI belongs to type: coworking_space?
+114,臺北明倫社會住宅i郵箱,飲水機,Cama,B,亞瑟蘭印度料理,光華玉市,Which POI belongs to type: drinking_water?
+115,故宮郵局,學德堂中醫診所,壽司爸,B,甲吧麵飯,gonna+,Which POI belongs to type: clince?
+116,國泰世華商業銀行,琥珀中醫診所,麥當勞,E,蔡媽媽素食,碉堡,Which POI belongs to type: bunker?
+117,新葡苑,天吉屋,臺北成功郵局i郵箱,E,鄭文彥牙醫,圓山舊兒童樂園,Which POI belongs to type: park?
+118,丹提咖啡,ATM,味珍香異國風味小棧,E,文湖國小,小圓桌,Which POI belongs to type: table?
+119,臺北龍江路郵局i郵箱,我家牛排,錢都涮涮鍋,D,濃州居和刀,山嵐拉麵,Which POI belongs to type: dojo?
+120,臺灣新光商業銀行,生命河基督教會,御蓮斎,D,X issues 商務展演空間,合作金庫商業銀行,Which POI belongs to type: exhibition_centre?
+121,廣誠素食,士林名山里郵局i郵箱,熊霸自助餐,B,台中商業銀行,合點壽司,Which POI belongs to type: parcel_locker?
+122,員山觀景樓,喬治工商,湘帝牛肉麵,A,Ice PaPa,柏登牙醫,Which POI belongs to type: residential?
+123,活力早餐,魚心日本料理 (鰻魚),半分屋敷串燒酒場,E,躍獅安和藥局,住海邊潛水中心 L.N.T.O DIVE CENTER,Which POI belongs to type: dive_centre?
+124,華南商業銀行,米尼司早餐吧,中國信託商業銀行,D,垃圾場,三德幼兒園,Which POI belongs to type: waste_disposal?
+125,好吃王雞肉,失物招領處,北平西來順,B,petit doux 微兜 Café Bistro,アツアツ,Which POI belongs to type: payment_centre?
+126,游泳池淋浴間,八方雲集,臺北市藝文推廣處,A,出口,捷運劍南路站(2號出口),Which POI belongs to type: shower?

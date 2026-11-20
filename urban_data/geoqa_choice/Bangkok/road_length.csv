@@ -1,0 +1,318 @@
+,A,answer,B,C,D,E,question
+0,2400.0,A,4800.0,7200.0,720.0,240.0,How long is ถนนพิษณุโลก in the Bangkok area?
+1,610.0,E,12200.0,18300.0,1830.0,6100.0,How long is ถนนพระราม 9 in the Bangkok area?
+2,47100.0,E,1570.0,4710.0,31400.0,15700.0,How long is ทางพิเศษศรีรัช in the Bangkok area?
+3,2040.0,D,13600.0,680.0,6800.0,20400.0,How long is ถนนจตุรทิศ in the Bangkok area?
+4,3300.0,D,2200.0,330.0,1100.0,110.0,How long is ถนนหน้าพระธาตุ in the Bangkok area?
+5,1600.0,A,3200.0,480.0,160.0,4800.0,How long is ถนนราชินี in the Bangkok area?
+6,1300.0,A,130.0,3900.0,2600.0,390.0,How long is ถนนวิสุทธิกษัตริย์ in the Bangkok area?
+7,1080.0,E,360.0,7200.0,10800.0,3600.0,How long is สะพานพระราม 8 in the Bangkok area?
+8,2520.0,D,16800.0,840.0,8400.0,25200.0,How long is ถนนเจริญกรุง in the Bangkok area?
+9,1600.0,B,800.0,100.0,240.0,2400.0,How long is ถนนเยาวราช in the Bangkok area?
+10,1400.0,E,2100.0,210.0,100.0,700.0,How long is ถนนรองเมือง in the Bangkok area?
+11,100.0,B,300.0,100.0,900.0,600.0,How long is ถนนจักรพงษ์ in the Bangkok area?
+12,400.0,A,120.0,800.0,100.0,1200.0,How long is ถนนเจ้าฟ้า in the Bangkok area?
+13,24300.0,B,8100.0,2430.0,16200.0,810.0,How long is ถนนเพชรบุรี in the Bangkok area?
+14,100.0,D,300.0,100.0,100.0,200.0,How long is ถนนข้าวหลาม in the Bangkok area?
+15,100.0,E,300.0,100.0,200.0,100.0,How long is ซอยโปลิศสภา in the Bangkok area?
+16,900.0,E,100.0,600.0,100.0,300.0,How long is ซอยเลียบคลองผดุงกรุงเกษม in the Bangkok area?
+17,180.0,D,540.0,3600.0,1800.0,5400.0,How long is ถนนสาทรใต้ in the Bangkok area?
+18,100.0,D,3000.0,2000.0,1000.0,300.0,How long is ถนนสาทรเหนือ in the Bangkok area?
+19,930.0,B,9300.0,2790.0,27900.0,18600.0,How long is ทางพิเศษเฉลิมมหานคร in the Bangkok area?
+20,27300.0,C,18200.0,9100.0,2730.0,910.0,How long is ถนนพระรามที่ 4 in the Bangkok area?
+21,5160.0,E,34400.0,1720.0,51600.0,17200.0,How long is ถนนรัชดาภิเษก in the Bangkok area?
+22,38000.0,C,5700.0,19000.0,1900.0,57000.0,How long is ถนนพระรามที่ 3 in the Bangkok area?
+23,230.0,D,690.0,4600.0,2300.0,6900.0,How long is ถนนอโศก-ดินแดง in the Bangkok area?
+24,1500.0,B,500.0,100.0,150.0,1000.0,How long is ถนนจักรเพชร in the Bangkok area?
+25,180.0,D,100.0,1200.0,600.0,1800.0,How long is ถนนสะพานพุทธ in the Bangkok area?
+26,400.0,A,120.0,1200.0,100.0,800.0,How long is สะพานพระพุทธยอดฟ้า in the Bangkok area?
+27,300.0,E,200.0,100.0,100.0,100.0,How long is ถนนแปลงนาม in the Bangkok area?
+28,1500.0,A,4500.0,450.0,3000.0,150.0,How long is ถนนประชาธิปก in the Bangkok area?
+29,660.0,D,220.0,4400.0,2200.0,6600.0,How long is ถนนสมเด็จพระปิ่นเกล้า in the Bangkok area?
+30,0.0,E,100.0,0.0,100.0,0.0,How long is ถนนหยดน้ำ in the Bangkok area?
+31,9300.0,A,18600.0,2790.0,930.0,27900.0,How long is ทางคู่ขนานลอยฟ้าบรมราชชนนี in the Bangkok area?
+32,8200.0,B,4100.0,12300.0,1230.0,410.0,How long is ถนนเจริญราษฎร์ in the Bangkok area?
+33,5100.0,B,1700.0,3400.0,170.0,510.0,How long is ถนนดินแดง in the Bangkok area?
+34,5400.0,B,1800.0,540.0,3600.0,180.0,How long is ถนนวัฒนธรรม in the Bangkok area?
+35,400.0,A,100.0,1200.0,120.0,800.0,How long is ถนนจักรวรรดิ์ in the Bangkok area?
+36,5100.0,C,3400.0,1700.0,510.0,170.0,How long is ถนนสมเด็จเจ้าพระยา in the Bangkok area?
+37,17600.0,D,880.0,26400.0,8800.0,2640.0,How long is ถนนกำแพงเพชร 7 in the Bangkok area?
+38,280.0,D,8400.0,840.0,2800.0,5600.0,How long is ทางพิเศษฉลองรัช in the Bangkok area?
+39,2370.0,C,23700.0,7900.0,15800.0,790.0,How long is ถนนสุขุมวิท in the Bangkok area?
+40,5400.0,B,2700.0,810.0,270.0,8100.0,How long is ถนนประดิษฐ์มนูธรรม in the Bangkok area?
+41,3000.0,E,100.0,300.0,2000.0,1000.0,How long is ถนนราษฎร์บูรณะ in the Bangkok area?
+42,100.0,B,200.0,100.0,400.0,600.0,How long is ถนนมิตรภาพไทย-จีน in the Bangkok area?
+43,15300.0,D,10200.0,1530.0,5100.0,510.0,How long is ถนนราชวิถี in the Bangkok area?
+44,24600.0,C,820.0,8200.0,2460.0,16400.0,How long is ถนนพหลโยธิน in the Bangkok area?
+45,4900.0,A,14700.0,1470.0,9800.0,490.0,How long is ถนนลาดพร้าว in the Bangkok area?
+46,890.0,D,17800.0,2670.0,8900.0,26700.0,How long is ถนนวิภาวดีรังสิต in the Bangkok area?
+47,1200.0,C,400.0,4000.0,8000.0,12000.0,How long is ทางยกระดับอุตราภิมุข in the Bangkok area?
+48,13200.0,D,1320.0,8800.0,4400.0,440.0,How long is ถนนกำแพงเพชร 2 in the Bangkok area?
+49,420.0,B,1400.0,2800.0,140.0,4200.0,How long is ถนนไมตรีจิตต์ in the Bangkok area?
+50,3000.0,E,4500.0,150.0,450.0,1500.0,How long is ถนนราชปรารภ in the Bangkok area?
+51,430.0,B,4300.0,8600.0,1290.0,12900.0,How long is ถนนศรีอยุธยา in the Bangkok area?
+52,290.0,D,5800.0,8700.0,2900.0,870.0,How long is ถนนนราธิวาสราชนครินทร์ in the Bangkok area?
+53,780.0,C,5200.0,2600.0,260.0,7800.0,How long is ซอยนราธิวาสราชนครินทร์ 14 in the Bangkok area?
+54,210.0,D,100.0,1400.0,700.0,2100.0,How long is ซอยจันทน์ 16 in the Bangkok area?
+55,6900.0,E,690.0,4600.0,230.0,2300.0,How long is ซอยสุขุมวิท 63 in the Bangkok area?
+56,0.0,E,0.0,100.0,100.0,0.0,How long is วงเวียนอนุสาวรีย์ชัยสมรภูมิ in the Bangkok area?
+57,1200.0,B,4000.0,8000.0,12000.0,400.0,How long is ถนนพญาไท in the Bangkok area?
+58,7700.0,A,2310.0,15400.0,770.0,23100.0,How long is ถนนพระรามที่ 6 in the Bangkok area?
+59,380.0,D,7600.0,11400.0,3800.0,1140.0,How long is ถนนกัลปพฤกษ์ in the Bangkok area?
+60,870.0,C,26100.0,8700.0,2610.0,17400.0,How long is ถนนราชพฤกษ์ in the Bangkok area?
+61,300.0,D,100.0,100.0,100.0,200.0,How long is วงเวียนใหญ่ in the Bangkok area?
+62,3600.0,C,180.0,1800.0,540.0,5400.0,How long is ถนนลาดหญ้า in the Bangkok area?
+63,1410.0,D,9400.0,470.0,4700.0,14100.0,How long is ถนนบรมราชชนนี in the Bangkok area?
+64,4200.0,D,420.0,2800.0,1400.0,140.0,How long is ถนนบรมราชชนนี (ทางขนาน) in the Bangkok area?
+65,720.0,C,7200.0,2400.0,240.0,4800.0,How long is ถนนสิรินธร in the Bangkok area?
+66,16500.0,B,5500.0,11000.0,550.0,1650.0,How long is ถนนอรุณอมรินทร์ in the Bangkok area?
+67,3200.0,E,480.0,160.0,4800.0,1600.0,How long is สะพานข้ามแยกศิริราช in the Bangkok area?
+68,1500.0,D,100.0,1000.0,500.0,150.0,How long is ถนนบ้านหม้อ in the Bangkok area?
+69,1890.0,C,12600.0,6300.0,18900.0,630.0,How long is ถนนกรุงธนบุรี in the Bangkok area?
+70,270.0,D,8100.0,5400.0,2700.0,810.0,How long is ถนนประชาราษฎร์ สาย 1 in the Bangkok area?
+71,4200.0,D,630.0,6300.0,2100.0,210.0,How long is ถนนวงศ์สว่าง in the Bangkok area?
+72,50700.0,B,16900.0,33800.0,5070.0,1690.0,How long is ถนนจรัญสนิทวงศ์ in the Bangkok area?
+73,1230.0,C,8200.0,4100.0,410.0,12300.0,How long is ถนนเพชรเกษม in the Bangkok area?
+74,540.0,C,10800.0,5400.0,16200.0,1620.0,How long is ถนนสมเด็จพระเจ้าตากสิน in the Bangkok area?
+75,300.0,B,3000.0,900.0,9000.0,6000.0,How long is ถนนโยธี in the Bangkok area?
+76,700.0,A,210.0,2100.0,1400.0,100.0,How long is ถนนพรานนก in the Bangkok area?
+77,800.0,A,2400.0,1600.0,240.0,100.0,How long is ถนนเพชรพระราม in the Bangkok area?
+78,10200.0,C,340.0,3400.0,6800.0,1020.0,How long is ถนนเทียมร่วมมิตร in the Bangkok area?
+79,140.0,B,1400.0,420.0,2800.0,4200.0,How long is ถนนดินแดงตัดใหม่ in the Bangkok area?
+80,6900.0,C,4600.0,2300.0,230.0,690.0,How long is ถนนเชื้อเพลิง in the Bangkok area?
+81,1600.0,A,160.0,3200.0,480.0,4800.0,How long is ถนนเพลินจิต in the Bangkok area?
+82,440.0,C,8800.0,4400.0,13200.0,1320.0,How long is ถนนวิทยุ in the Bangkok area?
+83,300.0,E,100.0,200.0,100.0,100.0,How long is ถนนทรงสวัสดิ์ in the Bangkok area?
+84,700.0,A,1400.0,100.0,2100.0,210.0,How long is ถนนประชาราษฎร์ สาย1 in the Bangkok area?
+85,12800.0,D,19200.0,1920.0,6400.0,640.0,How long is ถนนเทอดดำริ in the Bangkok area?
+86,1290.0,D,8600.0,430.0,4300.0,12900.0,How long is ถนนกำแพงเพชร 3 in the Bangkok area?
+87,7800.0,A,23400.0,15600.0,780.0,2340.0,How long is ถนนกำแพงเพชร 5 in the Bangkok area?
+88,2300.0,A,690.0,230.0,4600.0,6900.0,How long is ถนนราชดำเนินนอก in the Bangkok area?
+89,100.0,B,1000.0,300.0,3000.0,2000.0,How long is ทางลัดถนนสาทรเหนือ-ถนนสุรวงศ์ in the Bangkok area?
+90,390.0,C,3900.0,1300.0,130.0,2600.0,How long is ถนนบำรุงเมือง in the Bangkok area?
+91,0.0,E,0.0,100.0,100.0,0.0,How long is ซอยเพชรบุรี 47 in the Bangkok area?
+92,10500.0,C,7000.0,3500.0,1050.0,350.0,How long is ถนนกำแพงเพชร 6 in the Bangkok area?
+93,8400.0,E,280.0,840.0,5600.0,2800.0,How long is ถนนนิคมมักกะสัน in the Bangkok area?
+94,800.0,E,1200.0,100.0,120.0,400.0,How long is ซอยเพชรบุรี 31 in the Bangkok area?
+95,300.0,A,900.0,100.0,600.0,100.0,How long is อุโมงค์ทางลอดวัน แบงค็อก in the Bangkok area?
+96,300.0,C,900.0,3000.0,9000.0,6000.0,How long is ถนนสุขุมวิท 71 in the Bangkok area?
+97,1200.0,B,400.0,800.0,120.0,100.0,How long is ทางคู่ขนานถนนประดิษฐ์มนูธรรม in the Bangkok area?
+98,870.0,B,8700.0,26100.0,17400.0,2610.0,How long is ถนนคู่ขนานทางพิเศษประจิมรัถยา in the Bangkok area?
+99,1000.0,A,300.0,3000.0,100.0,2000.0,How long is ถนนมไหสวรรย์ in the Bangkok area?
+100,100.0,E,2700.0,270.0,1800.0,900.0,How long is ถนนราชพฤกษ์ (ทางขนาน) in the Bangkok area?
+101,6000.0,E,900.0,9000.0,300.0,3000.0,How long is ถนนอาจณรงค์ in the Bangkok area?
+102,200.0,E,6000.0,4000.0,600.0,2000.0,How long is ถนนพรานนก-พุทธมณฑลสาย 4 in the Bangkok area?
+103,120.0,D,2400.0,3600.0,1200.0,360.0,How long is ถนนทรงวาด in the Bangkok area?
+104,7500.0,E,250.0,5000.0,750.0,2500.0,How long is ถนนสีลม in the Bangkok area?
+105,420.0,C,4200.0,1400.0,140.0,2800.0,How long is ถนนกำแพงเพชร in the Bangkok area?
+106,240.0,D,1600.0,100.0,800.0,2400.0,How long is ถนนรถไฟ in the Bangkok area?
+107,3600.0,D,360.0,2400.0,1200.0,120.0,How long is ซอยเพชรบุรี 38/1 in the Bangkok area?
+108,2100.0,A,6300.0,210.0,630.0,4200.0,How long is ซอยสุขุมวิท 39 in the Bangkok area?
+109,23700.0,D,15800.0,2370.0,7900.0,790.0,How long is ทางพิเศษประจิมรัถยา in the Bangkok area?
+110,18000.0,E,600.0,1800.0,12000.0,6000.0,How long is ถนนเจริญนคร in the Bangkok area?
+111,3200.0,E,480.0,4800.0,160.0,1600.0,How long is ถนนอโศกมนตรี in the Bangkok area?
+112,100.0,D,200.0,100.0,100.0,300.0,How long is ถนนสาลีรัฐวิภาค in the Bangkok area?
+113,4600.0,B,2300.0,230.0,690.0,6900.0,How long is ซอยพหลโยธิน 2 in the Bangkok area?
+114,7800.0,E,260.0,780.0,5200.0,2600.0,How long is ถนนกรุงเทพอภิวัฒน์ in the Bangkok area?
+115,100.0,B,900.0,2700.0,1800.0,270.0,How long is ถนนพิบูลสงคราม in the Bangkok area?
+116,2700.0,C,1800.0,900.0,270.0,100.0,How long is ถนนดินแดง-บึงมักกะสัน in the Bangkok area?
+117,210.0,E,2100.0,100.0,1400.0,700.0,How long is ถนนอินทรพิทักษ์ in the Bangkok area?
+118,2200.0,A,4400.0,220.0,6600.0,660.0,How long is ถนนราชดำริ in the Bangkok area?
+119,2000.0,D,300.0,100.0,1000.0,3000.0,How long is ซอยสุขุมวิท 55 in the Bangkok area?
+120,6900.0,E,690.0,230.0,4600.0,2300.0,How long is ถนนลูกหลวง in the Bangkok area?
+121,3300.0,D,2200.0,330.0,1100.0,110.0,How long is ซอยสุขุมวิท 50 in the Bangkok area?
+122,0.0,E,100.0,0.0,100.0,0.0,How long is ซอยอรรถกระวี in the Bangkok area?
+123,240.0,C,1600.0,800.0,100.0,2400.0,How long is ถนนสุนทรโกษา in the Bangkok area?
+124,11400.0,D,380.0,7600.0,3800.0,1140.0,How long is ถนนเลียบทางรถไฟสายใต้ in the Bangkok area?
+125,0.0,E,0.0,100.0,100.0,0.0,How long is ทางพิเศษสายพระราม 3 - ดาวคะนอง - วงแหวนรอบนอกตะวันตก in the Bangkok area?
+126,500.0,A,150.0,100.0,1000.0,1500.0,How long is ถนนสุทธาวาส in the Bangkok area?
+127,510.0,C,1530.0,5100.0,10200.0,15300.0,How long is ถนนสามเสน in the Bangkok area?
+128,270.0,C,100.0,900.0,2700.0,1800.0,How long is ถนนพระสุเมรุ in the Bangkok area?
+129,2400.0,B,800.0,100.0,1600.0,240.0,How long is ถนนสารสิน in the Bangkok area?
+130,100.0,D,150.0,1000.0,500.0,1500.0,How long is ถนนราชวงศ์ in the Bangkok area?
+131,2850.0,C,950.0,9500.0,28500.0,19000.0,How long is ถนนทางรถไฟสายเก่าปากน้ำ in the Bangkok area?
+132,840.0,C,8400.0,2800.0,280.0,5600.0,How long is ถนนเอกชัย in the Bangkok area?
+133,10600.0,A,21200.0,31800.0,3180.0,1060.0,How long is ถนนพาณิชยการธนบุรี in the Bangkok area?
+134,5200.0,C,7800.0,2600.0,780.0,260.0,How long is ถนนฉิมพลี in the Bangkok area?
+135,1600.0,A,3200.0,4800.0,160.0,480.0,How long is ถนนชัยพฤกษ์ in the Bangkok area?
+136,550.0,E,11000.0,16500.0,1650.0,5500.0,How long is ซอยจอมทอง 19 in the Bangkok area?
+137,17100.0,D,11400.0,1710.0,5700.0,570.0,How long is ถนนนนทรี in the Bangkok area?
+138,1140.0,E,7600.0,380.0,11400.0,3800.0,How long is ซอยสาธุประดิษฐ์ 34 in the Bangkok area?
+139,18900.0,E,12600.0,630.0,1890.0,6300.0,How long is ซอยลาดพร้าว 80 แยก 22 in the Bangkok area?
+140,2700.0,A,810.0,5400.0,8100.0,270.0,How long is ถนนสังคมสงเคราะห์ in the Bangkok area?
+141,2700.0,B,900.0,100.0,270.0,1800.0,How long is ซอยลาดพร้าววังหิน 48 in the Bangkok area?
+142,340.0,B,3400.0,6800.0,10200.0,1020.0,How long is ถนนริมคลองประปาฝั่งขวา in the Bangkok area?
+143,420.0,D,12600.0,8400.0,4200.0,1260.0,How long is ถนนบางไผ่พัฒนา – แยกวัดตึก in the Bangkok area?
+144,10200.0,B,5100.0,1530.0,510.0,15300.0,How long is ถนนปากน้ำกระโจมทอง in the Bangkok area?
+145,610.0,B,6100.0,1830.0,12200.0,18300.0,How long is ถนนโชคชัย 4 in the Bangkok area?
+146,15600.0,C,1560.0,5200.0,10400.0,520.0,How long is ซอยบางขนุน 5 in the Bangkok area?
+147,3300.0,B,1100.0,2200.0,110.0,330.0,How long is ถนน ณ ระนอง in the Bangkok area?
+148,18800.0,E,2820.0,28200.0,940.0,9400.0,How long is ถนนบางกรวย-ไทรน้อย in the Bangkok area?
+149,470.0,C,14100.0,4700.0,9400.0,1410.0,How long is ถนนบางไผ่พัฒนา – แยกวัดทองนาปรัง in the Bangkok area?
+150,1590.0,D,530.0,15900.0,5300.0,10600.0,How long is ถนนสวนผัก in the Bangkok area?
+151,6600.0,E,220.0,660.0,4400.0,2200.0,How long is ถนนสาธุประดิษฐ์ in the Bangkok area?
+152,7200.0,B,3600.0,360.0,1080.0,10800.0,How long is ซอยเจริญราษฎร์ 7 in the Bangkok area?
+153,270.0,B,2700.0,5400.0,810.0,8100.0,How long is ถนนประชาอุทิศ in the Bangkok area?
+154,170.0,D,3400.0,5100.0,1700.0,510.0,How long is ถนนท่าดินแดง in the Bangkok area?
+155,6300.0,B,2100.0,210.0,4200.0,630.0,How long is ซอยสุขุมวิท 62 in the Bangkok area?
+156,900.0,B,300.0,100.0,100.0,600.0,How long is ซอยรามคำแหง 21 in the Bangkok area?
+157,10200.0,D,510.0,1530.0,5100.0,15300.0,How long is ถนนนครไชยศรี in the Bangkok area?
+158,11900.0,A,3570.0,35700.0,23800.0,1190.0,How long is ถนนเทอดไท in the Bangkok area?
+159,8100.0,B,2700.0,5400.0,270.0,810.0,How long is ถนนประชาชื่น in the Bangkok area?
+160,1560.0,D,520.0,15600.0,5200.0,10400.0,How long is ถนนลาดพร้าววังหิน in the Bangkok area?
+161,220.0,D,660.0,4400.0,2200.0,6600.0,How long is ถนนบางพรม in the Bangkok area?
+162,180.0,E,1200.0,1800.0,100.0,600.0,How long is ถนนท้ายวัง in the Bangkok area?
+163,1100.0,A,110.0,3300.0,330.0,2200.0,How long is ถนนสนามไชย in the Bangkok area?
+164,4400.0,B,2200.0,6600.0,660.0,220.0,How long is ถนนนครราชสีมา in the Bangkok area?
+165,1200.0,A,3600.0,360.0,2400.0,120.0,How long is ถนนเกษมราษฎร์ in the Bangkok area?
+166,360.0,B,1200.0,120.0,3600.0,2400.0,How long is ถนนเศรษฐศิริ in the Bangkok area?
+167,260.0,D,5200.0,780.0,2600.0,7800.0,How long is ซอย 20 มิถุนา in the Bangkok area?
+168,6000.0,E,4000.0,600.0,200.0,2000.0,How long is ซอยรัชดาภิเษก 18 in the Bangkok area?
+169,470.0,D,9400.0,1410.0,4700.0,14100.0,How long is ถนนประชาราษฎร์บำเพ็ญ in the Bangkok area?
+170,240.0,C,4800.0,2400.0,7200.0,720.0,How long is ซอยประชาราษฎร์บำเพ็ญ 24 in the Bangkok area?
+171,480.0,C,3200.0,1600.0,4800.0,160.0,How long is ถนนตะนาว in the Bangkok area?
+172,100.0,D,180.0,1200.0,600.0,1800.0,How long is ถนนราชดำเนินกลาง in the Bangkok area?
+173,3800.0,B,1900.0,570.0,5700.0,190.0,How long is ถนนสวรรคโลก in the Bangkok area?
+174,900.0,A,270.0,1800.0,2700.0,100.0,How long is ถนนจรัสเมือง in the Bangkok area?
+175,2200.0,D,3300.0,330.0,1100.0,110.0,How long is ถนนจารุเมือง in the Bangkok area?
+176,8100.0,B,2700.0,810.0,5400.0,270.0,How long is ถนนพระรามที่ 1 in the Bangkok area?
+177,3200.0,C,4800.0,1600.0,160.0,480.0,How long is ถนนอังรีดูนังต์ in the Bangkok area?
+178,2600.0,D,130.0,3900.0,1300.0,390.0,How long is ถนนสุรวงศ์ in the Bangkok area?
+179,6900.0,B,2300.0,690.0,4600.0,230.0,How long is ถนนประดิพัทธ์ in the Bangkok area?
+180,120.0,D,2400.0,360.0,1200.0,3600.0,How long is ถนนทหาร in the Bangkok area?
+181,1200.0,A,2400.0,120.0,3600.0,360.0,How long is ถนนเตชะวนิช in the Bangkok area?
+182,10500.0,E,1050.0,7000.0,350.0,3500.0,How long is ถนนพระรามที่ 5 in the Bangkok area?
+183,4400.0,C,220.0,2200.0,6600.0,660.0,How long is ถนนอำนวยสงคราม in the Bangkok area?
+184,100.0,E,120.0,800.0,1200.0,400.0,How long is ถนนกล้วยน้ำไท in the Bangkok area?
+185,1470.0,B,4900.0,14700.0,9800.0,490.0,How long is ถนนอิสรภาพ in the Bangkok area?
+186,1000.0,A,300.0,3000.0,2000.0,100.0,How long is ถนนวังหลัง in the Bangkok area?
+187,4600.0,B,2300.0,6900.0,690.0,230.0,How long is ถนนพิชัย in the Bangkok area?
+188,1800.0,E,2700.0,270.0,100.0,900.0,How long is ซอยเอกมัย 5 in the Bangkok area?
+189,6300.0,B,2100.0,630.0,210.0,4200.0,How long is ซอยปรีดี พนมยงค์ 31 in the Bangkok area?
+190,2400.0,C,120.0,1200.0,3600.0,360.0,How long is ถนนสุโขทัย in the Bangkok area?
+191,3000.0,A,900.0,9000.0,6000.0,300.0,How long is ถนนจันทน์ in the Bangkok area?
+192,140.0,D,4200.0,420.0,1400.0,2800.0,How long is ซอยจันทน์ 18/7 in the Bangkok area?
+193,2200.0,C,3300.0,1100.0,330.0,110.0,How long is ซอยจันทน์ 27 in the Bangkok area?
+194,11600.0,E,17400.0,580.0,1740.0,5800.0,How long is ถนนประชาสงเคราะห์ in the Bangkok area?
+195,900.0,A,1800.0,2700.0,100.0,270.0,How long is ถนนร่วมจิตต์ in the Bangkok area?
+196,1380.0,D,9200.0,13800.0,4600.0,460.0,How long is ถนนสุทธิสารวินิจฉัย in the Bangkok area?
+197,1020.0,C,340.0,3400.0,10200.0,6800.0,How long is ซอยลาดพร้าววังหิน 61 in the Bangkok area?
+198,2400.0,B,800.0,1600.0,240.0,100.0,How long is ถนนอัษฎางค์ in the Bangkok area?
+199,1400.0,D,2100.0,100.0,700.0,210.0,How long is ถนนประชาธิปไตย in the Bangkok area?
+200,840.0,C,8400.0,2800.0,5600.0,280.0,How long is ถนนกรุงเกษม in the Bangkok area?
+201,1800.0,D,100.0,1200.0,600.0,180.0,How long is ถนนจักรพรรดิพงษ์ in the Bangkok area?
+202,7800.0,D,5200.0,260.0,2600.0,780.0,How long is ถนนบรรทัดทอง in the Bangkok area?
+203,8000.0,A,800.0,16000.0,24000.0,2400.0,How long is ถนนบางกรวย-จงถนอม in the Bangkok area?
+204,150.0,B,1500.0,4500.0,3000.0,450.0,How long is ถนนเทอดพระเกียรติ in the Bangkok area?
+205,3800.0,C,190.0,1900.0,5700.0,570.0,How long is บางกรวย-ไทรน้อย 17 in the Bangkok area?
+206,1400.0,D,100.0,210.0,700.0,2100.0,How long is ถนนมหานคร in the Bangkok area?
+207,100.0,C,1500.0,500.0,1000.0,150.0,How long is ถนนหลานหลวง in the Bangkok area?
+208,1200.0,E,180.0,100.0,1800.0,600.0,How long is ถนนเพชรอุทัย in the Bangkok area?
+209,1800.0,D,100.0,1200.0,600.0,180.0,How long is ซอยสุขุมวิท 42 in the Bangkok area?
+210,300.0,A,600.0,100.0,900.0,100.0,How long is ซอยสุขุมวิท 3 in the Bangkok area?
+211,3200.0,E,4800.0,480.0,160.0,1600.0,How long is ถนนพระอาทิตย์ in the Bangkok area?
+212,4200.0,C,210.0,2100.0,6300.0,630.0,How long is ถนนมหาราช in the Bangkok area?
+213,1200.0,D,180.0,100.0,600.0,1800.0,How long is ถนนดินสอ in the Bangkok area?
+214,1800.0,D,180.0,1200.0,600.0,100.0,How long is ถนนตีทอง in the Bangkok area?
+215,180.0,D,1800.0,1200.0,600.0,100.0,How long is ถนนตรีเพชร in the Bangkok area?
+216,120.0,E,800.0,1200.0,100.0,400.0,How long is ถนนกัลยาณไมตรี in the Bangkok area?
+217,200.0,A,100.0,600.0,400.0,100.0,How long is ถนนสุรศักดิ์ in the Bangkok area?
+218,120.0,C,800.0,400.0,1200.0,100.0,How long is ถนนนครสวรรค์ in the Bangkok area?
+219,190.0,D,5700.0,570.0,1900.0,3800.0,How long is ถนนหลวง in the Bangkok area?
+220,2400.0,C,100.0,800.0,240.0,1600.0,How long is ถนนพลับพลาไชย in the Bangkok area?
+221,100.0,E,100.0,300.0,200.0,100.0,How long is ถนนเสือป่า in the Bangkok area?
+222,240.0,E,2400.0,1600.0,100.0,800.0,How long is ถนนยุคล 2 in the Bangkok area?
+223,100.0,E,200.0,100.0,300.0,100.0,How long is ถนนวงเวียนยี่สิบสองกรกฎาคม in the Bangkok area?
+224,110.0,B,1100.0,330.0,2200.0,3300.0,How long is ถนนมิตรพันธ์ in the Bangkok area?
+225,100.0,B,1000.0,3000.0,2000.0,300.0,How long is ถนนอู่ทองนอก in the Bangkok area?
+226,410.0,B,4100.0,1230.0,8200.0,12300.0,How long is ซอยทองหล่อ 13 in the Bangkok area?
+227,600.0,B,2000.0,6000.0,4000.0,200.0,How long is ถนนรางน้ำ in the Bangkok area?
+228,120.0,C,100.0,400.0,1200.0,800.0,How long is ถนนหน้าพระลาน in the Bangkok area?
+229,8400.0,E,280.0,840.0,5600.0,2800.0,How long is ถนนนางลิ้นจี่ in the Bangkok area?
+230,2100.0,C,1400.0,700.0,100.0,210.0,How long is ถนนวรจักร in the Bangkok area?
+231,1000.0,A,300.0,2000.0,100.0,3000.0,How long is ถนนสี่พระยา in the Bangkok area?
+232,1000.0,C,100.0,500.0,150.0,1500.0,How long is ถนนหลังสวน in the Bangkok area?
+233,100.0,E,400.0,600.0,100.0,200.0,How long is ถนนชิดลม in the Bangkok area?
+234,510.0,D,3400.0,5100.0,1700.0,170.0,How long is ถนนมิตรไมตรี in the Bangkok area?
+235,10800.0,E,7200.0,1080.0,360.0,3600.0,How long is ถนนประชาสุข in the Bangkok area?
+236,390.0,C,11700.0,3900.0,7800.0,1170.0,How long is ซอยลาดพร้าว 64 in the Bangkok area?
+237,1300.0,A,130.0,390.0,3900.0,2600.0,How long is ถนนพระจันทร์ in the Bangkok area?
+238,220.0,C,660.0,2200.0,6600.0,4400.0,How long is ซอยจุฬาลงกรณ์ 12 in the Bangkok area?
+239,1170.0,B,3900.0,7800.0,390.0,11700.0,How long is ซอยพหลโยธิน 5 in the Bangkok area?
+240,100.0,B,700.0,2100.0,210.0,1400.0,How long is ถนนเจริญเมือง in the Bangkok area?
+241,3200.0,B,1600.0,480.0,160.0,4800.0,How long is ถนนประชาราษฎร์ สาย 2 in the Bangkok area?
+242,3000.0,D,100.0,2000.0,1000.0,300.0,How long is ถนนปูนซิเมนต์ไทย in the Bangkok area?
+243,2600.0,D,3900.0,130.0,1300.0,390.0,How long is ซอยเย็นจิต 12 in the Bangkok area?
+244,100.0,D,600.0,100.0,200.0,400.0,How long is ถนนเย็นจิต in the Bangkok area?
+245,1400.0,B,700.0,100.0,210.0,2100.0,How long is ซอยจันทร์ 18/7 แยก 1 in the Bangkok area?
+246,1000.0,D,150.0,100.0,500.0,1500.0,How long is ถนนมหาเศรษฐ์ in the Bangkok area?
+247,100.0,E,300.0,100.0,200.0,100.0,How long is ถนนมเหสักข์ in the Bangkok area?
+248,100.0,C,600.0,300.0,900.0,100.0,How long is ซอยประดิพัทธ์ 4 in the Bangkok area?
+249,9600.0,D,320.0,6400.0,3200.0,960.0,How long is ซอยเสนาร่วม in the Bangkok area?
+250,2600.0,B,1300.0,390.0,3900.0,130.0,How long is ซอยอิสรภาพ 42 in the Bangkok area?
+251,160.0,E,4800.0,480.0,3200.0,1600.0,How long is ถนนจอมทอง in the Bangkok area?
+252,610.0,C,18300.0,6100.0,1830.0,12200.0,How long is ถนนวุฒากาศ in the Bangkok area?
+253,5400.0,A,16200.0,1620.0,540.0,10800.0,How long is ถนนแก้วเงินทอง in the Bangkok area?
+254,2200.0,A,220.0,660.0,4400.0,6600.0,How long is ถนนบางขุนนนท์ in the Bangkok area?
+255,100.0,D,800.0,120.0,400.0,1200.0,How long is ถนนเฟื่องนคร in the Bangkok area?
+256,4500.0,E,150.0,450.0,3000.0,1500.0,How long is ซอยจันทน์ 43 in the Bangkok area?
+257,300.0,B,1000.0,100.0,2000.0,3000.0,How long is ถนนทรัพย์ in the Bangkok area?
+258,6600.0,D,9900.0,330.0,3300.0,990.0,How long is ซอยจรัญสนิทวงศ์ 35 in the Bangkok area?
+259,400.0,A,100.0,1200.0,120.0,800.0,How long is ถนนปากน้ำฝั่งเหนือ in the Bangkok area?
+260,400.0,A,800.0,120.0,1200.0,100.0,How long is ถนนขาว in the Bangkok area?
+261,390.0,D,11700.0,1170.0,3900.0,7800.0,How long is ซอยสุขุมวิท 26 in the Bangkok area?
+262,1300.0,A,2600.0,3900.0,130.0,390.0,How long is ซอยทองหล่อ 20 in the Bangkok area?
+263,7800.0,C,780.0,2600.0,5200.0,260.0,How long is ซอยประชาสงเคราะห์ 28 in the Bangkok area?
+264,570.0,C,5700.0,1900.0,3800.0,190.0,How long is ประชาสงเคราะห์ 45 in the Bangkok area?
+265,210.0,D,630.0,6300.0,2100.0,4200.0,How long is ซอยสาธุประดิษฐ์ 20 in the Bangkok area?
+266,3100.0,A,310.0,6200.0,9300.0,930.0,How long is ซอยเจริญกรุง 107 in the Bangkok area?
+267,1620.0,E,16200.0,10800.0,540.0,5400.0,How long is ถนนแฉล้มนิมิตร in the Bangkok area?
+268,100.0,E,0.0,100.0,0.0,0.0,How long is ซอยประชาชื่น 6 in the Bangkok area?
+269,700.0,A,210.0,2100.0,100.0,1400.0,How long is ถนนราชดำเนินใน in the Bangkok area?
+270,360.0,E,120.0,3600.0,2400.0,1200.0,How long is ถนนวังเดิม in the Bangkok area?
+271,480.0,C,3200.0,1600.0,160.0,4800.0,How long is ซอยอิสรภาพ 44 in the Bangkok area?
+272,500.0,A,150.0,1000.0,100.0,1500.0,How long is ถนนมหาพฤฒาราม in the Bangkok area?
+273,210.0,D,100.0,1400.0,700.0,2100.0,How long is ถนนมหาไชย in the Bangkok area?
+274,5800.0,E,870.0,8700.0,290.0,2900.0,How long is ซอยสาธุประดิษฐ์ 19 in the Bangkok area?
+275,5600.0,D,840.0,8400.0,2800.0,280.0,How long is ซอยนราธิวาสราชนครินทร์ 22 in the Bangkok area?
+276,1600.0,D,100.0,240.0,800.0,2400.0,How long is ซอยเพชรเกษม 23 in the Bangkok area?
+277,2700.0,A,8100.0,270.0,810.0,5400.0,How long is ถนนสวนพลู in the Bangkok area?
+278,1000.0,A,100.0,3000.0,2000.0,300.0,How long is ซอยนราธิวาสราชนครินทร์ 17 in the Bangkok area?
+279,900.0,D,600.0,100.0,300.0,100.0,How long is ซอยมหาวิทยาลัยกรุงเทพ in the Bangkok area?
+280,900.0,A,2700.0,270.0,100.0,1800.0,How long is ซอยสุขุมวิท 40 in the Bangkok area?
+281,12900.0,D,430.0,1290.0,4300.0,8600.0,How long is ถนนรพช. นนทบุรี 4007 in the Bangkok area?
+282,330.0,E,2200.0,110.0,3300.0,1100.0,How long is ถนนเลียบรั้ว รฟม. in the Bangkok area?
+283,400.0,D,100.0,600.0,200.0,100.0,How long is ถนนสุขสวัสดิ์ in the Bangkok area?
+284,1110.0,E,11100.0,370.0,7400.0,3700.0,How long is ซอยอรรถกวี in the Bangkok area?
+285,3400.0,A,10200.0,6800.0,340.0,1020.0,How long is ซอยเพชรเกษม 4 in the Bangkok area?
+286,3000.0,E,4500.0,450.0,150.0,1500.0,How long is ซอยงามดูพลี in the Bangkok area?
+287,15600.0,C,520.0,5200.0,10400.0,1560.0,How long is ถนนเจริญรัถ in the Bangkok area?
+288,230.0,D,6900.0,4600.0,2300.0,690.0,How long is ซอยจันทน์ 42 in the Bangkok area?
+289,100.0,E,300.0,100.0,200.0,100.0,How long is ถนนอ่อนนุช in the Bangkok area?
+290,1230.0,E,410.0,12300.0,8200.0,4100.0,How long is ถนนดวงพิทักษ์ in the Bangkok area?
+291,200.0,E,100.0,300.0,100.0,100.0,How long is ถนนพระพิพิธ in the Bangkok area?
+292,100.0,B,600.0,1800.0,1200.0,180.0,How long is ถนนกำแพงเพชร 1 in the Bangkok area?
+293,100.0,E,100.0,0.0,0.0,0.0,How long is ด่านบางกรวย in the Bangkok area?
+294,450.0,C,150.0,1500.0,3000.0,4500.0,How long is ซอยประชาราษฎร์สาย 1 ซอย 24 in the Bangkok area?
+295,3000.0,A,900.0,9000.0,300.0,6000.0,How long is ถนนกรุงเทพ-นนทบุรี in the Bangkok area?
+296,300.0,A,100.0,600.0,900.0,100.0,How long is ถนนย่านพหลโยธิน in the Bangkok area?
+297,1500.0,A,150.0,450.0,4500.0,3000.0,How long is ซอยกรุงเทพ-นนทบุรี 13 in the Bangkok area?
+298,5600.0,D,840.0,280.0,2800.0,8400.0,How long is ซอยพระราม 9 ซอย 17 in the Bangkok area?
+299,0.0,D,0.0,100.0,0.0,100.0,How long is พระราม 9 ซอย 17 in the Bangkok area?
+300,300.0,A,600.0,900.0,100.0,100.0,How long is ถนนพาหุรัด in the Bangkok area?
+301,0.0,D,100.0,0.0,0.0,100.0,How long is ถนนพระพิทักษ์ in the Bangkok area?
+302,1050.0,D,7000.0,10500.0,3500.0,350.0,How long is ซอยวิภาวดีรังสิต 3 in the Bangkok area?
+303,600.0,C,100.0,200.0,400.0,100.0,How long is ถนนนเรศ in the Bangkok area?
+304,1800.0,A,180.0,540.0,5400.0,3600.0,How long is ถนนพหลโยธิน-ดินแดง in the Bangkok area?
+305,100.0,D,300.0,100.0,100.0,200.0,How long is ถนนบวรนิเวศน์ in the Bangkok area?
+306,100.0,E,300.0,100.0,200.0,100.0,How long is ถนนสิบสามห้าง in the Bangkok area?
+307,1200.0,A,3600.0,360.0,2400.0,120.0,How long is ซอยสาทร 11 in the Bangkok area?
+308,3400.0,E,5100.0,510.0,170.0,1700.0,How long is ถนนรุ่งประชา in the Bangkok area?
+309,0.0,D,0.0,100.0,0.0,100.0,How long is ซอยฟาร์มวัฒนา in the Bangkok area?
+310,6200.0,E,310.0,9300.0,930.0,3100.0,How long is ซอยสุขุมวิท 36 in the Bangkok area?
+311,600.0,B,6000.0,1800.0,18000.0,12000.0,How long is ซอยจรัญสนิทวงศ์ 75 in the Bangkok area?
+312,5300.0,A,530.0,10600.0,15900.0,1590.0,How long is ซอยจรัญสนิทวงศ์ 65 in the Bangkok area?
+313,0.0,D,100.0,0.0,0.0,100.0,How long is ซอยสุขุมวิท 61 in the Bangkok area?
+314,100.0,D,0.0,0.0,0.0,100.0,How long is ซอยสุขุมวิท 22 in the Bangkok area?
+315,9200.0,B,4600.0,1380.0,460.0,13800.0,How long is ซอยวิภาวดีรังสิต 16 in the Bangkok area?
+316,5700.0,D,190.0,570.0,1900.0,3800.0,How long is ทางพิเศษสายบางนา-อาจณรงค์ in the Bangkok area?

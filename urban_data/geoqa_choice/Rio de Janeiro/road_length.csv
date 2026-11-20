@@ -1,0 +1,626 @@
+,A,B,C,D,E,answer,question
+0,240.0,100.0,2400.0,1600.0,800.0,E,How long is Túnel Zuzu Angel in the Rio de Janeiro area?
+1,500.0,100.0,150.0,1000.0,1500.0,A,How long is Rua Geísa Firmo Gonçalves in the Rio de Janeiro area?
+2,9900.0,990.0,6600.0,330.0,3300.0,E,How long is Autoestrada Engenheiro Fernando Mac Dowell in the Rio de Janeiro area?
+3,66300.0,22100.0,6630.0,2210.0,44200.0,B,How long is Avenida Brasil in the Rio de Janeiro area?
+4,100.0,100.0,0.0,0.0,0.0,E,How long is Viaduto de Manguinhos in the Rio de Janeiro area?
+5,1060.0,10600.0,31800.0,21200.0,3180.0,B,How long is Linha Amarela in the Rio de Janeiro area?
+6,400.0,200.0,100.0,100.0,600.0,B,How long is Avenida Bento Ribeiro Dantas in the Rio de Janeiro area?
+7,100.0,100.0,200.0,100.0,300.0,D,How long is Rua Sizenando Nabuco in the Rio de Janeiro area?
+8,18900.0,6300.0,630.0,1890.0,12600.0,B,How long is Avenida Ayrton Senna in the Rio de Janeiro area?
+9,3900.0,2600.0,1300.0,130.0,390.0,C,How long is Mergulhão Billy Blanco in the Rio de Janeiro area?
+10,150.0,3000.0,450.0,4500.0,1500.0,E,How long is Avenida das Américas in the Rio de Janeiro area?
+11,1300.0,390.0,3900.0,130.0,2600.0,A,How long is Avenida Brigadeiro Trompowski in the Rio de Janeiro area?
+12,100.0,400.0,200.0,600.0,100.0,C,How long is Viaduto Engenheiro Edno Machado in the Rio de Janeiro area?
+13,4600.0,690.0,230.0,6900.0,2300.0,E,How long is Estrada da Barra da Tijuca in the Rio de Janeiro area?
+14,200.0,300.0,100.0,100.0,100.0,E,How long is Rua Guajara-Mirim in the Rio de Janeiro area?
+15,570.0,3800.0,5700.0,1900.0,190.0,D,How long is Rua Leopoldina Rego in the Rio de Janeiro area?
+16,400.0,600.0,200.0,100.0,100.0,C,How long is Viaduto São Damião in the Rio de Janeiro area?
+17,3400.0,170.0,1700.0,5100.0,510.0,C,How long is Avenida Marechal Rondon in the Rio de Janeiro area?
+18,68700.0,45800.0,22900.0,6870.0,2290.0,C,How long is Estrada da Gávea in the Rio de Janeiro area?
+19,210.0,700.0,2100.0,1400.0,100.0,B,How long is Rua Engenheiro Amandino de Carvalho in the Rio de Janeiro area?
+20,2600.0,130.0,3900.0,1300.0,390.0,D,How long is Avenida José Silva de Azevedo Neto in the Rio de Janeiro area?
+21,420.0,4200.0,2800.0,140.0,1400.0,E,How long is Avenida Luís Carlos Prestes in the Rio de Janeiro area?
+22,1110.0,7400.0,11100.0,3700.0,370.0,D,How long is Avenida Niemeyer in the Rio de Janeiro area?
+23,2100.0,210.0,100.0,700.0,1400.0,D,How long is Rua Teodoro da Silva in the Rio de Janeiro area?
+24,100.0,300.0,100.0,900.0,600.0,B,How long is Rua Luís Barbosa in the Rio de Janeiro area?
+25,2500.0,750.0,250.0,7500.0,5000.0,A,How long is Estrada Japoré in the Rio de Janeiro area?
+26,23700.0,15800.0,2370.0,7900.0,790.0,D,How long is Estrada do Outeiro Santo in the Rio de Janeiro area?
+27,510.0,1530.0,5100.0,10200.0,15300.0,C,How long is Estrada Intendente Magalhães in the Rio de Janeiro area?
+28,360.0,10800.0,1080.0,3600.0,7200.0,D,How long is Rua Xavier Curado in the Rio de Janeiro area?
+29,590.0,1770.0,11800.0,17700.0,5900.0,E,How long is Avenida Duque de Caxias in the Rio de Janeiro area?
+30,1000.0,1500.0,150.0,100.0,500.0,E,How long is Rua Carvalho de Souza in the Rio de Janeiro area?
+31,300.0,100.0,100.0,200.0,100.0,E,How long is Rua Fancisco Batista in the Rio de Janeiro area?
+32,19500.0,6500.0,1950.0,650.0,13000.0,B,How long is Rua Carolina Machado in the Rio de Janeiro area?
+33,100.0,400.0,600.0,100.0,200.0,E,How long is Viaduto Novo de Bento Ribeiro in the Rio de Janeiro area?
+34,0.0,100.0,100.0,0.0,0.0,E,How long is Rua Américo Brasiliense in the Rio de Janeiro area?
+35,4500.0,3000.0,150.0,1500.0,450.0,D,How long is Estrada do Portela in the Rio de Janeiro area?
+36,3400.0,10200.0,340.0,1020.0,6800.0,A,How long is Avenida Ministro Edgard Romero in the Rio de Janeiro area?
+37,180.0,1800.0,1200.0,100.0,600.0,E,How long is Rua Dagmar da Fonseca in the Rio de Janeiro area?
+38,0.0,0.0,100.0,0.0,100.0,D,How long is Rua Maria Freitas in the Rio de Janeiro area?
+39,1600.0,100.0,240.0,2400.0,800.0,E,How long is Rua São Francisco Xavier in the Rio de Janeiro area?
+40,2400.0,1200.0,3600.0,360.0,120.0,B,How long is Rua Vinte e Quatro de Maio in the Rio de Janeiro area?
+41,100.0,100.0,200.0,600.0,400.0,C,How long is Rua Silva Freire in the Rio de Janeiro area?
+42,4800.0,1600.0,160.0,480.0,3200.0,B,How long is Túnel Noel Rosa in the Rio de Janeiro area?
+43,900.0,100.0,600.0,100.0,300.0,E,How long is Rua São Paulo in the Rio de Janeiro area?
+44,6800.0,340.0,3400.0,10200.0,1020.0,C,How long is Rua Goiás in the Rio de Janeiro area?
+45,4600.0,230.0,6900.0,2300.0,690.0,D,How long is Rua Arquias Cordeiro in the Rio de Janeiro area?
+46,700.0,100.0,1400.0,2100.0,210.0,A,How long is Rua Doutor Padilha in the Rio de Janeiro area?
+47,4000.0,600.0,6000.0,200.0,2000.0,E,How long is Rua Piauí in the Rio de Janeiro area?
+48,4200.0,6300.0,2100.0,630.0,210.0,C,How long is Avenida Amaro Cavalcanti in the Rio de Janeiro area?
+49,3700.0,7400.0,1110.0,370.0,11100.0,A,How long is Rua Dias da Cruz in the Rio de Janeiro area?
+50,980.0,2940.0,29400.0,19600.0,9800.0,E,How long is Avenida Marechal Fontenelle in the Rio de Janeiro area?
+51,100.0,200.0,100.0,100.0,300.0,D,How long is Viaduto Antigo de Bento Ribeiro in the Rio de Janeiro area?
+52,150.0,450.0,4500.0,3000.0,1500.0,E,How long is Rua Antônio Raposo in the Rio de Janeiro area?
+53,9800.0,14700.0,4900.0,1470.0,490.0,C,How long is Estrada Marechal Alencastro in the Rio de Janeiro area?
+54,100.0,200.0,300.0,100.0,100.0,E,How long is Rua das Turquesas in the Rio de Janeiro area?
+55,100.0,400.0,200.0,600.0,100.0,C,How long is Rua Rio das Pedras in the Rio de Janeiro area?
+56,4000.0,12000.0,8000.0,1200.0,400.0,A,How long is Estrada São Pedro de Alcântara in the Rio de Janeiro area?
+57,4000.0,200.0,600.0,6000.0,2000.0,E,How long is Estrada da Água Branca in the Rio de Janeiro area?
+58,100.0,1600.0,800.0,2400.0,240.0,C,How long is Rua Salustiano Silva in the Rio de Janeiro area?
+59,100.0,600.0,1800.0,1200.0,180.0,B,How long is Viaduto de Magalhães Bastos in the Rio de Janeiro area?
+60,0.0,0.0,0.0,100.0,100.0,C,How long is Praça Montese in the Rio de Janeiro area?
+61,2200.0,3300.0,110.0,330.0,1100.0,E,How long is Avenida General Oswaldo Cordeiro de Farias in the Rio de Janeiro area?
+62,7800.0,2600.0,5200.0,260.0,780.0,B,How long is Rua das Camélias in the Rio de Janeiro area?
+63,5700.0,1900.0,3800.0,190.0,570.0,B,How long is Rua Pinto Teles in the Rio de Janeiro area?
+64,8400.0,840.0,5600.0,2800.0,280.0,D,How long is Estrada do Camboatá in the Rio de Janeiro area?
+65,240.0,800.0,1600.0,100.0,2400.0,B,How long is Rua Torres Homem in the Rio de Janeiro area?
+66,25000.0,3750.0,12500.0,1250.0,37500.0,C,How long is Avenida Pastor Martin Luther King Junior in the Rio de Janeiro area?
+67,0.0,100.0,100.0,0.0,0.0,E,How long is Rua dos Rubis in the Rio de Janeiro area?
+68,600.0,400.0,200.0,100.0,100.0,C,How long is Praça das Esmeraldas in the Rio de Janeiro area?
+69,100.0,600.0,300.0,100.0,900.0,C,How long is Rua Doutor Luís Bicalho in the Rio de Janeiro area?
+70,500.0,1000.0,1500.0,150.0,100.0,A,How long is Rua dos Topázios in the Rio de Janeiro area?
+71,3900.0,11700.0,390.0,1170.0,7800.0,A,How long is Estrada do Otaviano in the Rio de Janeiro area?
+72,100.0,600.0,1200.0,1800.0,180.0,B,How long is Rua Leopoldino de Oliveira in the Rio de Janeiro area?
+73,400.0,1200.0,120.0,100.0,800.0,A,How long is Rua Domingos Fernades in the Rio de Janeiro area?
+74,360.0,1200.0,3600.0,120.0,2400.0,B,How long is Rua Luíza de Carvalho in the Rio de Janeiro area?
+75,5700.0,38000.0,19000.0,1900.0,57000.0,C,How long is Avenida Dom Hélder Câmara in the Rio de Janeiro area?
+76,700.0,100.0,210.0,1400.0,2100.0,A,How long is Avenida Ernani Cardoso in the Rio de Janeiro area?
+77,210.0,2100.0,1400.0,100.0,700.0,E,How long is Rua Cerqueira Daltro in the Rio de Janeiro area?
+78,400.0,200.0,100.0,600.0,100.0,B,How long is Rua Florentina in the Rio de Janeiro area?
+79,100.0,300.0,2000.0,3000.0,1000.0,E,How long is Rua Barão in the Rio de Janeiro area?
+80,400.0,1200.0,120.0,100.0,800.0,A,How long is Praça Seca in the Rio de Janeiro area?
+81,380.0,11400.0,1140.0,7600.0,3800.0,E,How long is Rua Cândido Benício in the Rio de Janeiro area?
+82,3900.0,1300.0,390.0,2600.0,130.0,B,How long is Rua Godofredo Viana in the Rio de Janeiro area?
+83,100.0,2700.0,1800.0,900.0,270.0,D,How long is Rua Guilhermina in the Rio de Janeiro area?
+84,300.0,600.0,100.0,900.0,100.0,A,How long is Rua General Clarindo in the Rio de Janeiro area?
+85,200.0,400.0,600.0,100.0,100.0,A,How long is Rua Guineza in the Rio de Janeiro area?
+86,900.0,100.0,300.0,600.0,100.0,C,How long is Rua Pedro Domingues in the Rio de Janeiro area?
+87,400.0,200.0,100.0,600.0,100.0,B,How long is Rua Angelina in the Rio de Janeiro area?
+88,4500.0,3000.0,1500.0,450.0,150.0,C,How long is Rua João Pinheiro in the Rio de Janeiro area?
+89,400.0,200.0,600.0,100.0,100.0,B,How long is Rua Silvana in the Rio de Janeiro area?
+90,600.0,180.0,1800.0,100.0,1200.0,A,How long is Rua das Oficinas Jornalista Luiz Mendes in the Rio de Janeiro area?
+91,260.0,5200.0,780.0,2600.0,7800.0,D,How long is Rua José dos Reis in the Rio de Janeiro area?
+92,2700.0,100.0,900.0,270.0,1800.0,C,How long is Rua Henrique Scheid in the Rio de Janeiro area?
+93,100.0,200.0,100.0,300.0,100.0,E,How long is Viaduto da Abolição in the Rio de Janeiro area?
+94,3900.0,7800.0,1170.0,11700.0,390.0,A,How long is Avenida João Ribeiro in the Rio de Janeiro area?
+95,900.0,100.0,600.0,100.0,300.0,E,How long is Viaduto Estrada Velha da Pavuna in the Rio de Janeiro area?
+96,3660.0,36600.0,24400.0,12200.0,1220.0,D,How long is Avenida Vicente de Carvalho in the Rio de Janeiro area?
+97,100.0,0.0,100.0,0.0,0.0,E,How long is Praça Aquidauana in the Rio de Janeiro area?
+98,5300.0,530.0,10600.0,15900.0,1590.0,A,How long is Avenida Meriti in the Rio de Janeiro area?
+99,0.0,0.0,100.0,0.0,100.0,D,How long is Praça Avanhandava in the Rio de Janeiro area?
+100,100.0,100.0,0.0,0.0,0.0,E,How long is Praça Rubey Wanderley in the Rio de Janeiro area?
+101,1900.0,3800.0,190.0,570.0,5700.0,A,How long is Estrada Padre Roser in the Rio de Janeiro area?
+102,800.0,120.0,1200.0,100.0,400.0,E,How long is Rua Gabriel Lisboa in the Rio de Janeiro area?
+103,870.0,17400.0,8700.0,26100.0,2610.0,C,How long is Estrada Adhemar Bebiano in the Rio de Janeiro area?
+104,100.0,400.0,200.0,100.0,600.0,C,How long is Estrada do Timbó in the Rio de Janeiro area?
+105,100.0,100.0,600.0,300.0,900.0,D,How long is Viaduto João XXIII in the Rio de Janeiro area?
+106,100.0,400.0,100.0,600.0,200.0,E,How long is Praça Manuel Ortigão in the Rio de Janeiro area?
+107,10800.0,1620.0,5400.0,540.0,16200.0,C,How long is Avenida do Braz de Pina in the Rio de Janeiro area?
+108,200.0,600.0,400.0,100.0,100.0,A,How long is Viaduto Luiz Carlos da Vila in the Rio de Janeiro area?
+109,3400.0,340.0,10200.0,6800.0,1020.0,A,How long is Estrada do Pau-Ferro in the Rio de Janeiro area?
+110,1100.0,330.0,110.0,2200.0,3300.0,A,How long is Rua Santo Antônio in the Rio de Janeiro area?
+111,22800.0,11400.0,1140.0,3420.0,34200.0,B,How long is Estrada dos Bandeirantes in the Rio de Janeiro area?
+112,3500.0,1050.0,7000.0,350.0,10500.0,A,How long is Avenida Comandante Guaranys in the Rio de Janeiro area?
+113,330.0,3300.0,9900.0,6600.0,990.0,B,How long is Avenida Imperatriz Leopoldina in the Rio de Janeiro area?
+114,100.0,0.0,100.0,0.0,0.0,E,How long is Rua Antônio Americano in the Rio de Janeiro area?
+115,390.0,1170.0,11700.0,7800.0,3900.0,E,How long is Estrada do Gabinal in the Rio de Janeiro area?
+116,26100.0,17400.0,2610.0,870.0,8700.0,E,How long is Rua Edgard Werneck in the Rio de Janeiro area?
+117,2430.0,8100.0,24300.0,810.0,16200.0,B,How long is Avenida Tenente Coronel Muniz de Aragão in the Rio de Janeiro area?
+118,1000.0,3000.0,100.0,300.0,2000.0,A,How long is Rua Cabuçu in the Rio de Janeiro area?
+119,200.0,100.0,100.0,300.0,100.0,E,How long is Rua Dona Romana in the Rio de Janeiro area?
+120,240.0,800.0,100.0,2400.0,1600.0,B,How long is Rua Porto Alegre in the Rio de Janeiro area?
+121,110.0,330.0,2200.0,3300.0,1100.0,E,How long is Rua Uruguai in the Rio de Janeiro area?
+122,0.0,100.0,0.0,0.0,100.0,D,How long is Rua Barão de Vassouras in the Rio de Janeiro area?
+123,1200.0,1800.0,180.0,100.0,600.0,E,How long is Rua Visconde de Santa Isabel in the Rio de Janeiro area?
+124,4200.0,6300.0,2100.0,210.0,630.0,C,How long is Rua Barão do Bom Retiro in the Rio de Janeiro area?
+125,1800.0,600.0,100.0,1200.0,180.0,B,How long is Rua Uberaba in the Rio de Janeiro area?
+126,360.0,1200.0,120.0,3600.0,2400.0,B,How long is Rua Gastão Penalva in the Rio de Janeiro area?
+127,100.0,600.0,100.0,400.0,200.0,E,How long is Rua Paula Brito in the Rio de Janeiro area?
+128,240.0,800.0,2400.0,100.0,1600.0,B,How long is Rua Dois de Fevereiro in the Rio de Janeiro area?
+129,2700.0,900.0,270.0,100.0,1800.0,B,How long is Rua Daniel Carneiro in the Rio de Janeiro area?
+130,100.0,800.0,120.0,1200.0,400.0,E,How long is Rua Hermengarda in the Rio de Janeiro area?
+131,100.0,400.0,600.0,100.0,200.0,E,How long is Rua Cônego Tobias in the Rio de Janeiro area?
+132,100.0,700.0,1400.0,210.0,2100.0,B,How long is Rua Bráulio Cordeiro in the Rio de Janeiro area?
+133,0.0,100.0,0.0,0.0,100.0,D,How long is Rua Camboriú in the Rio de Janeiro area?
+134,0.0,100.0,0.0,100.0,0.0,E,How long is Rua Medina in the Rio de Janeiro area?
+135,100.0,200.0,100.0,300.0,100.0,E,How long is Rua Ana Barbosa in the Rio de Janeiro area?
+136,100.0,100.0,0.0,0.0,0.0,E,How long is Rua Miguel Gama in the Rio de Janeiro area?
+137,150.0,500.0,1500.0,100.0,1000.0,B,How long is Avenida Bruxelas in the Rio de Janeiro area?
+138,2100.0,630.0,4200.0,6300.0,210.0,A,How long is Avenida Teixeira de Castro in the Rio de Janeiro area?
+139,0.0,100.0,0.0,0.0,100.0,D,How long is Rua Bonsucesso in the Rio de Janeiro area?
+140,100.0,2400.0,800.0,1600.0,240.0,C,How long is Rua Dona Isabel in the Rio de Janeiro area?
+141,2000.0,100.0,3000.0,300.0,1000.0,E,How long is Avenida Paris in the Rio de Janeiro area?
+142,400.0,100.0,1200.0,120.0,800.0,A,How long is Avenida Além Paraíba in the Rio de Janeiro area?
+143,100.0,100.0,200.0,100.0,300.0,D,How long is Rua Engenheiro Arthur Moura in the Rio de Janeiro area?
+144,100.0,100.0,600.0,300.0,900.0,D,How long is Viaduto São Cosme in the Rio de Janeiro area?
+145,1200.0,3600.0,2400.0,360.0,120.0,A,How long is Rua Nicarágua in the Rio de Janeiro area?
+146,3000.0,1500.0,450.0,150.0,4500.0,B,How long is Rua Santa Basilissa in the Rio de Janeiro area?
+147,360.0,1200.0,2400.0,3600.0,120.0,B,How long is Rua Felisbelo Freire in the Rio de Janeiro area?
+148,100.0,0.0,100.0,0.0,0.0,E,How long is Rua Conde de Agrolongo in the Rio de Janeiro area?
+149,100.0,100.0,600.0,900.0,300.0,E,How long is Rua José Maurício in the Rio de Janeiro area?
+150,100.0,100.0,300.0,200.0,100.0,E,How long is Rua Venina in the Rio de Janeiro area?
+151,0.0,100.0,0.0,0.0,100.0,D,How long is Rua Leônidas in the Rio de Janeiro area?
+152,100.0,270.0,1800.0,900.0,2700.0,D,How long is Rua Carinhanha in the Rio de Janeiro area?
+153,400.0,100.0,600.0,200.0,100.0,D,How long is Rua Concórdia in the Rio de Janeiro area?
+154,100.0,100.0,0.0,0.0,0.0,E,How long is Rua Castanheiro in the Rio de Janeiro area?
+155,39300.0,1310.0,3930.0,13100.0,26200.0,D,How long is Avenida Salvador Allende in the Rio de Janeiro area?
+156,3300.0,330.0,1100.0,2200.0,110.0,C,How long is Rua Maxwell in the Rio de Janeiro area?
+157,130.0,1300.0,3900.0,390.0,2600.0,B,How long is Rua Barão de Mesquita in the Rio de Janeiro area?
+158,300.0,100.0,200.0,100.0,100.0,E,How long is Estrada do Guanumbi in the Rio de Janeiro area?
+159,15000.0,1500.0,5000.0,500.0,10000.0,C,How long is Rua Araguaia in the Rio de Janeiro area?
+160,400.0,8000.0,12000.0,4000.0,1200.0,D,How long is Rua André Rocha in the Rio de Janeiro area?
+161,100.0,100.0,200.0,100.0,300.0,D,How long is Rua Nacional in the Rio de Janeiro area?
+162,2200.0,4400.0,220.0,660.0,6600.0,A,How long is Avenida Engenheiro Richard in the Rio de Janeiro area?
+163,100.0,300.0,100.0,200.0,100.0,E,How long is Rua Manuela Barbosa in the Rio de Janeiro area?
+164,400.0,800.0,100.0,120.0,1200.0,A,How long is Rua Constança Barbosa in the Rio de Janeiro area?
+165,360.0,120.0,3600.0,2400.0,1200.0,E,How long is Rua Magalhães Couto in the Rio de Janeiro area?
+166,2900.0,870.0,5800.0,8700.0,290.0,A,How long is Rua Intendente Cunha Menezes in the Rio de Janeiro area?
+167,100.0,0.0,0.0,0.0,100.0,D,How long is Rua Silva Rabelo in the Rio de Janeiro area?
+168,130.0,3900.0,2600.0,1300.0,390.0,D,How long is Viaduto Castro Alves in the Rio de Janeiro area?
+169,100.0,300.0,100.0,900.0,600.0,B,How long is Rua Carolina Méier in the Rio de Janeiro area?
+170,600.0,100.0,400.0,200.0,100.0,D,How long is Rua Santa Fé in the Rio de Janeiro area?
+171,1400.0,210.0,100.0,700.0,2100.0,D,How long is Rua Lucídio Lago in the Rio de Janeiro area?
+172,110.0,1100.0,2200.0,3300.0,330.0,B,How long is Rua Coração de Maria in the Rio de Janeiro area?
+173,1200.0,100.0,600.0,1800.0,180.0,C,How long is Rua Capitão Rezende in the Rio de Janeiro area?
+174,170.0,5100.0,1700.0,510.0,3400.0,C,How long is Rua Ferreira de Andrade in the Rio de Janeiro area?
+175,100.0,100.0,300.0,200.0,100.0,E,How long is Rua Carlos Costa in the Rio de Janeiro area?
+176,300.0,2000.0,1000.0,100.0,3000.0,C,How long is Rua Souza Barros in the Rio de Janeiro area?
+177,900.0,300.0,600.0,100.0,100.0,B,How long is Saída 05 in the Rio de Janeiro area?
+178,100.0,100.0,900.0,300.0,600.0,D,How long is Rua Lagoa Redonda in the Rio de Janeiro area?
+179,3300.0,990.0,9900.0,330.0,6600.0,A,How long is Rua Álvaro de Miranda in the Rio de Janeiro area?
+180,3200.0,160.0,1600.0,480.0,4800.0,C,How long is Avenida Albérico Diniz in the Rio de Janeiro area?
+181,1400.0,420.0,140.0,2800.0,4200.0,A,How long is Rua Fernandes Sampaio in the Rio de Janeiro area?
+182,5500.0,11000.0,1650.0,16500.0,550.0,A,How long is Avenida dos Italianos in the Rio de Janeiro area?
+183,1530.0,5100.0,15300.0,10200.0,510.0,B,How long is Avenida Geremário Dantas in the Rio de Janeiro area?
+184,140.0,4200.0,420.0,2800.0,1400.0,E,How long is Rua Baronesa in the Rio de Janeiro area?
+185,180.0,600.0,1800.0,100.0,1200.0,B,How long is Rua Gastão Taveira in the Rio de Janeiro area?
+186,0.0,0.0,100.0,0.0,100.0,D,How long is Travessa Almerinda Freitas in the Rio de Janeiro area?
+187,6000.0,300.0,9000.0,3000.0,900.0,D,How long is Avenida Embaixador Abelardo Bueno in the Rio de Janeiro area?
+188,210.0,100.0,1400.0,700.0,2100.0,D,How long is Curva Chico Anysio in the Rio de Janeiro area?
+189,290.0,8700.0,2900.0,5800.0,870.0,C,How long is Estrada Coronel Pedro Corrêa in the Rio de Janeiro area?
+190,16200.0,540.0,1620.0,10800.0,5400.0,E,How long is Avenida Engenheiro Souza Filho in the Rio de Janeiro area?
+191,100.0,900.0,300.0,600.0,100.0,C,How long is Avenida Engenheiro Hermano Jordão Freire in the Rio de Janeiro area?
+192,1200.0,800.0,100.0,400.0,120.0,D,How long is Rua Alberto Samuel Mercante in the Rio de Janeiro area?
+193,4230.0,42300.0,28200.0,1410.0,14100.0,E,How long is Estrada de Jacarepaguá in the Rio de Janeiro area?
+194,120.0,800.0,400.0,100.0,1200.0,C,How long is Avenida Nelson Mufarrej in the Rio de Janeiro area?
+195,400.0,100.0,1200.0,800.0,120.0,A,How long is Via Parque da Lagoa da Tijuca in the Rio de Janeiro area?
+196,330.0,990.0,3300.0,6600.0,9900.0,C,How long is Estrada Marechal Miguel Salazar Mendes de Morais in the Rio de Janeiro area?
+197,2300.0,690.0,6900.0,230.0,4600.0,A,How long is Avenida Nelson Cardoso in the Rio de Janeiro area?
+198,0.0,100.0,0.0,100.0,0.0,E,How long is Largo do Tanque in the Rio de Janeiro area?
+199,200.0,100.0,100.0,100.0,300.0,D,How long is Praça Araci Cabral da Rocha in the Rio de Janeiro area?
+200,900.0,100.0,100.0,300.0,600.0,D,How long is Rua Ipinambés in the Rio de Janeiro area?
+201,150.0,500.0,1000.0,1500.0,100.0,B,How long is Rua Imbuí in the Rio de Janeiro area?
+202,270.0,2700.0,900.0,100.0,1800.0,C,How long is Rua Bacairis in the Rio de Janeiro area?
+203,400.0,120.0,1200.0,100.0,800.0,A,How long is Rua Apiacás in the Rio de Janeiro area?
+204,200.0,100.0,100.0,100.0,300.0,D,How long is Rua Aciás in the Rio de Janeiro area?
+205,0.0,0.0,100.0,100.0,0.0,E,How long is Praça Jauru in the Rio de Janeiro area?
+206,150.0,1500.0,500.0,100.0,1000.0,C,How long is Rua Ariperana in the Rio de Janeiro area?
+207,2400.0,800.0,16000.0,24000.0,8000.0,E,How long is Estrada do Rio Grande in the Rio de Janeiro area?
+208,100.0,240.0,800.0,2400.0,1600.0,C,How long is Estrada Curumaú in the Rio de Janeiro area?
+209,900.0,100.0,270.0,1800.0,2700.0,A,How long is Rua Padre Ventura in the Rio de Janeiro area?
+210,600.0,100.0,180.0,1200.0,1800.0,A,How long is Rua Professora Francisca Piragibe in the Rio de Janeiro area?
+211,100.0,150.0,1500.0,500.0,1000.0,D,How long is Rua José de Souza Baeta in the Rio de Janeiro area?
+212,300.0,9000.0,900.0,6000.0,3000.0,E,How long is Estrada do Catonho in the Rio de Janeiro area?
+213,100.0,800.0,2400.0,1600.0,240.0,B,How long is Rua Euzébio de Almeida in the Rio de Janeiro area?
+214,540.0,3600.0,180.0,5400.0,1800.0,E,How long is Avenida Jambeiro in the Rio de Janeiro area?
+215,2400.0,1200.0,360.0,120.0,3600.0,B,How long is Rua Domingos Lopes in the Rio de Janeiro area?
+216,100.0,180.0,600.0,1800.0,1200.0,C,How long is Rua Maria José in the Rio de Janeiro area?
+217,100.0,100.0,200.0,300.0,100.0,E,How long is Rua Alberto Silva in the Rio de Janeiro area?
+218,3400.0,5100.0,170.0,510.0,1700.0,E,How long is Rua João Romeiro in the Rio de Janeiro area?
+219,8200.0,24600.0,820.0,16400.0,2460.0,A,How long is Rua João Vicente in the Rio de Janeiro area?
+220,6000.0,3000.0,300.0,900.0,9000.0,B,How long is Estrada do Tindiba in the Rio de Janeiro area?
+221,370.0,11100.0,3700.0,7400.0,1110.0,C,How long is Rua Professor Henrique Costa in the Rio de Janeiro area?
+222,160.0,4800.0,3200.0,480.0,1600.0,E,How long is Avenida Prefeito Mendes de Morais in the Rio de Janeiro area?
+223,1600.0,800.0,100.0,2400.0,240.0,B,How long is Avenida Vice-Presidente José Alencar in the Rio de Janeiro area?
+224,600.0,100.0,100.0,200.0,400.0,D,How long is Rua Sargento Peixoto in the Rio de Janeiro area?
+225,200.0,300.0,100.0,100.0,100.0,E,How long is Praça do Bandolim in the Rio de Janeiro area?
+226,360.0,2400.0,120.0,1200.0,3600.0,D,How long is Rua Mandina in the Rio de Janeiro area?
+227,100.0,1200.0,120.0,800.0,400.0,E,How long is Avenida Novo Rio in the Rio de Janeiro area?
+228,900.0,100.0,600.0,100.0,300.0,E,How long is Rua Lopo Saraiva in the Rio de Janeiro area?
+229,500.0,100.0,1000.0,150.0,1500.0,A,How long is Mergulhão Clara Nunes in the Rio de Janeiro area?
+230,600.0,100.0,900.0,300.0,100.0,D,How long is Rua Camatiá in the Rio de Janeiro area?
+231,0.0,0.0,100.0,100.0,0.0,E,How long is Rua Armando Gonzaga in the Rio de Janeiro area?
+232,100.0,300.0,100.0,900.0,600.0,B,How long is Rua Angelo Dantas in the Rio de Janeiro area?
+233,2400.0,1600.0,100.0,240.0,800.0,E,How long is Rua Maria Lopes in the Rio de Janeiro area?
+234,17100.0,570.0,5700.0,1710.0,11400.0,C,How long is Rua Lins de Vasconcelos in the Rio de Janeiro area?
+235,27800.0,83400.0,2780.0,8340.0,55600.0,A,How long is Estrada das Furnas in the Rio de Janeiro area?
+236,0.0,100.0,0.0,0.0,100.0,D,How long is Largo do Pechincha in the Rio de Janeiro area?
+237,360.0,1200.0,2400.0,3600.0,120.0,B,How long is Avenida João Cabral de Melo Neto in the Rio de Janeiro area?
+238,100.0,100.0,300.0,100.0,200.0,D,How long is Avenida Ricardo Eugênio Boechat in the Rio de Janeiro area?
+239,400.0,100.0,800.0,1200.0,120.0,A,How long is Avenida Adalgisa Colombo in the Rio de Janeiro area?
+240,900.0,2700.0,100.0,1800.0,270.0,A,How long is Avenida Carlos Zara in the Rio de Janeiro area?
+241,1000.0,500.0,100.0,1500.0,150.0,B,How long is Avenida Paulo Goulart in the Rio de Janeiro area?
+242,3000.0,2000.0,1000.0,300.0,100.0,C,How long is Avenida José Wilker in the Rio de Janeiro area?
+243,630.0,210.0,6300.0,4200.0,2100.0,E,How long is Estrada do Capenha in the Rio de Janeiro area?
+244,270.0,8100.0,5400.0,2700.0,810.0,D,How long is Rua Teixeira Ribeiro in the Rio de Janeiro area?
+245,2200.0,1100.0,330.0,110.0,3300.0,B,How long is Rua Barreiros in the Rio de Janeiro area?
+246,500.0,1500.0,100.0,1000.0,150.0,A,How long is Rua Pereira Landim in the Rio de Janeiro area?
+247,4800.0,1600.0,480.0,3200.0,160.0,B,How long is Rua Cardoso de Morais in the Rio de Janeiro area?
+248,1000.0,150.0,500.0,100.0,1500.0,C,How long is Rua André Pinto in the Rio de Janeiro area?
+249,180.0,540.0,3600.0,5400.0,1800.0,E,How long is Rua Nerval de Gouvêa in the Rio de Janeiro area?
+250,570.0,190.0,3800.0,5700.0,1900.0,E,How long is Rua Conde de Bonfim in the Rio de Janeiro area?
+251,3000.0,4500.0,450.0,1500.0,150.0,D,How long is Rua Jubaí in the Rio de Janeiro area?
+252,100.0,200.0,600.0,100.0,400.0,B,How long is Viaduto Jornalista Armando Nogueira in the Rio de Janeiro area?
+253,100.0,200.0,300.0,100.0,100.0,E,How long is Rua Luiz Carlos in the Rio de Janeiro area?
+254,100.0,2700.0,900.0,270.0,1800.0,C,How long is Rua Borja Reis in the Rio de Janeiro area?
+255,240.0,100.0,1600.0,800.0,2400.0,D,How long is Rua Adolfo Bergamini in the Rio de Janeiro area?
+256,8200.0,410.0,12300.0,1230.0,4100.0,E,How long is Avenida Oliveira Belo in the Rio de Janeiro area?
+257,900.0,270.0,1800.0,100.0,2700.0,A,How long is Rua do Lazer in the Rio de Janeiro area?
+258,300.0,100.0,1000.0,2000.0,3000.0,C,How long is Largo da Penha in the Rio de Janeiro area?
+259,2800.0,4200.0,1400.0,140.0,420.0,C,How long is Rua Monsenhor Alves Rocha in the Rio de Janeiro area?
+260,1200.0,600.0,1800.0,180.0,100.0,B,How long is Rua Ibiapina in the Rio de Janeiro area?
+261,100.0,100.0,0.0,0.0,0.0,E,How long is Avenida Brás de Pina in the Rio de Janeiro area?
+262,210.0,1400.0,100.0,2100.0,700.0,E,How long is Rua Engenheiro Mario de Carvalho in the Rio de Janeiro area?
+263,2600.0,3900.0,130.0,1300.0,390.0,D,How long is Rua Manoel Vitorino in the Rio de Janeiro area?
+264,120.0,360.0,1200.0,3600.0,2400.0,C,How long is Rua Cachambi in the Rio de Janeiro area?
+265,600.0,100.0,200.0,400.0,100.0,C,How long is Rua Santiago Guerra in the Rio de Janeiro area?
+266,100.0,0.0,0.0,0.0,100.0,D,How long is Rua Carlos Lacerda in the Rio de Janeiro area?
+267,0.0,0.0,100.0,100.0,0.0,E,How long is Rua Ibaté in the Rio de Janeiro area?
+268,100.0,1200.0,600.0,1800.0,180.0,C,How long is Rua Ivan de Oliveira Lima in the Rio de Janeiro area?
+269,100.0,600.0,300.0,100.0,900.0,C,How long is Rua da Abolição in the Rio de Janeiro area?
+270,400.0,600.0,100.0,200.0,100.0,D,How long is Rua Monteiro da Luz in the Rio de Janeiro area?
+271,11700.0,1170.0,35100.0,23400.0,3510.0,A,How long is Avenida Menezes Côrtes in the Rio de Janeiro area?
+272,2200.0,1100.0,3300.0,110.0,330.0,B,How long is Rua Barão de São Francisco in the Rio de Janeiro area?
+273,0.0,100.0,100.0,0.0,0.0,E,How long is Rua Nossa Senhora de Lourdes in the Rio de Janeiro area?
+274,130.0,2600.0,3900.0,390.0,1300.0,E,How long is Avenida Olof Palme in the Rio de Janeiro area?
+275,340.0,10200.0,6800.0,3400.0,1020.0,D,How long is Rua Leopoldo Bulhões in the Rio de Janeiro area?
+276,100.0,400.0,100.0,200.0,600.0,D,How long is Rua Eurico Souza Leão in the Rio de Janeiro area?
+277,400.0,8000.0,1200.0,4000.0,12000.0,D,How long is Avenida dos Democráticos in the Rio de Janeiro area?
+278,100.0,3000.0,300.0,1000.0,2000.0,D,How long is Rua Arlindo Janot in the Rio de Janeiro area?
+279,100.0,200.0,300.0,100.0,100.0,E,How long is Estrada de Gericinó in the Rio de Janeiro area?
+280,100.0,0.0,100.0,0.0,0.0,E,How long is Marginal Avenida Brasil in the Rio de Janeiro area?
+281,0.0,0.0,0.0,100.0,100.0,C,How long is Avenida Lobo Junior in the Rio de Janeiro area?
+282,1200.0,800.0,400.0,120.0,100.0,C,How long is Rua Fernando Esquerdo in the Rio de Janeiro area?
+283,100.0,600.0,200.0,400.0,100.0,C,How long is Rua Conde de Azambuja in the Rio de Janeiro area?
+284,100.0,700.0,1400.0,2100.0,210.0,B,How long is Avenida Júlio de Sá Bierrenbach in the Rio de Janeiro area?
+285,12000.0,400.0,4000.0,1200.0,8000.0,C,How long is Estrada dos Três Rios in the Rio de Janeiro area?
+286,150.0,1500.0,3000.0,4500.0,450.0,B,How long is Rua José Bonifácio in the Rio de Janeiro area?
+287,2000.0,100.0,3000.0,300.0,1000.0,E,How long is Rua Honório in the Rio de Janeiro area?
+288,100.0,100.0,100.0,300.0,200.0,C,How long is Ponte Cardeal Dom Eugênio de Araújo Sales in the Rio de Janeiro area?
+289,150.0,500.0,1000.0,100.0,1500.0,B,How long is Rua Diomedes Trota in the Rio de Janeiro area?
+290,0.0,100.0,100.0,0.0,0.0,E,How long is Rua 23 de Agosto in the Rio de Janeiro area?
+291,300.0,100.0,100.0,100.0,200.0,D,How long is Rua Amaro Hamati in the Rio de Janeiro area?
+292,290.0,8700.0,870.0,2900.0,5800.0,D,How long is Avenida Itaóca in the Rio de Janeiro area?
+293,100.0,1200.0,600.0,180.0,1800.0,C,How long is Rua Sargento Silva Nunes in the Rio de Janeiro area?
+294,270.0,810.0,5400.0,2700.0,8100.0,D,How long is Rua Abrahão Jabour in the Rio de Janeiro area?
+295,1800.0,2700.0,270.0,100.0,900.0,E,How long is Rua Degas in the Rio de Janeiro area?
+296,100.0,200.0,100.0,300.0,100.0,E,How long is Rua Pedras Altas in the Rio de Janeiro area?
+297,300.0,100.0,100.0,100.0,200.0,D,How long is Rua Cesar Muzio in the Rio de Janeiro area?
+298,300.0,100.0,200.0,100.0,100.0,E,How long is Rua Tapevi in the Rio de Janeiro area?
+299,3000.0,300.0,100.0,2000.0,1000.0,E,How long is Rua da Pedreira in the Rio de Janeiro area?
+300,190.0,570.0,1900.0,5700.0,3800.0,C,How long is Rua Padre Manoel de Nóbrega in the Rio de Janeiro area?
+301,120.0,1200.0,100.0,800.0,400.0,E,How long is Avenida Jornalista Tim Lopes in the Rio de Janeiro area?
+302,510.0,170.0,1700.0,3400.0,5100.0,C,How long is Estrada do Barro Vermelho in the Rio de Janeiro area?
+303,7400.0,370.0,11100.0,1110.0,3700.0,E,How long is Avenida Heróis do Gueto de Varsóvia in the Rio de Janeiro area?
+304,100.0,0.0,100.0,0.0,0.0,E,How long is Avenida Antonio Gallotti in the Rio de Janeiro area?
+305,900.0,300.0,600.0,100.0,100.0,B,How long is Praça Barão de Drummond in the Rio de Janeiro area?
+306,330.0,1100.0,110.0,3300.0,2200.0,B,How long is Rua Pedro Calmon in the Rio de Janeiro area?
+307,600.0,100.0,100.0,200.0,400.0,D,How long is Rua Gandavo in the Rio de Janeiro area?
+308,1200.0,180.0,1800.0,100.0,600.0,E,How long is Rua Ibiraci in the Rio de Janeiro area?
+309,100.0,100.0,400.0,200.0,600.0,D,How long is Avenida Boulevard Ilha Pura in the Rio de Janeiro area?
+310,1400.0,2800.0,420.0,140.0,4200.0,A,How long is Rua Lino Teixeira in the Rio de Janeiro area?
+311,360.0,3600.0,2400.0,120.0,1200.0,E,How long is Rua Conselheiro Mayrink in the Rio de Janeiro area?
+312,1500.0,500.0,150.0,1000.0,100.0,B,How long is Avenida Ivo Pitanguy in the Rio de Janeiro area?
+313,0.0,100.0,0.0,100.0,0.0,E,How long is Rua Rodrigo Melo Franco in the Rio de Janeiro area?
+314,1190.0,35700.0,23800.0,3570.0,11900.0,E,How long is TransOlímpica in the Rio de Janeiro area?
+315,100.0,240.0,800.0,1600.0,2400.0,C,How long is Estrada Calmete in the Rio de Janeiro area?
+316,1200.0,400.0,800.0,100.0,120.0,B,How long is Rua da Ventura in the Rio de Janeiro area?
+317,840.0,8400.0,280.0,5600.0,2800.0,E,How long is Avenida dos Mananciais in the Rio de Janeiro area?
+318,120.0,400.0,100.0,800.0,1200.0,B,How long is Rua Marangá in the Rio de Janeiro area?
+319,100.0,100.0,200.0,100.0,300.0,D,How long is Rua Brasilina in the Rio de Janeiro area?
+320,110.0,330.0,3300.0,2200.0,1100.0,E,How long is Rua Getúlio in the Rio de Janeiro area?
+321,0.0,100.0,100.0,0.0,0.0,E,How long is Rua Chaves Pinheiro in the Rio de Janeiro area?
+322,6500.0,1950.0,13000.0,650.0,19500.0,A,How long is Estrada do Guerenguê in the Rio de Janeiro area?
+323,100.0,3000.0,300.0,1000.0,2000.0,D,How long is Travessa Adriano dos Passos in the Rio de Janeiro area?
+324,180.0,100.0,600.0,1800.0,1200.0,C,How long is Avenida Nova York in the Rio de Janeiro area?
+325,120.0,400.0,1200.0,800.0,100.0,B,How long is Rua Gerson Ferreira in the Rio de Janeiro area?
+326,2300.0,4600.0,6900.0,230.0,690.0,A,How long is Estrada do Engenho da Pedra in the Rio de Janeiro area?
+327,120.0,3600.0,1200.0,2400.0,360.0,C,How long is Rua Araçá in the Rio de Janeiro area?
+328,780.0,260.0,7800.0,5200.0,2600.0,E,How long is Estrada do Engenho d'Água in the Rio de Janeiro area?
+329,1000.0,300.0,2000.0,100.0,3000.0,A,How long is Avenida Sargento Isanor de Campos in the Rio de Janeiro area?
+330,360.0,3600.0,2400.0,1200.0,120.0,D,How long is Estrada do Engenho Novo in the Rio de Janeiro area?
+331,2000.0,200.0,4000.0,6000.0,600.0,A,How long is Rua Otacílio Pedro Vasco in the Rio de Janeiro area?
+332,230.0,690.0,2300.0,4600.0,6900.0,C,How long is Estrada do Colégio in the Rio de Janeiro area?
+333,300.0,100.0,600.0,900.0,100.0,A,How long is Praça Panamericana in the Rio de Janeiro area?
+334,300.0,3000.0,2000.0,100.0,1000.0,E,How long is Rua do Trabalho in the Rio de Janeiro area?
+335,5200.0,260.0,780.0,2600.0,7800.0,D,How long is Avenida Pirpirituba in the Rio de Janeiro area?
+336,450.0,1500.0,3000.0,150.0,4500.0,B,How long is Rua Carumbé in the Rio de Janeiro area?
+337,9000.0,3000.0,6000.0,900.0,300.0,B,How long is Rua Doutor Noguchi in the Rio de Janeiro area?
+338,750.0,7500.0,2500.0,250.0,5000.0,C,How long is Rua Francisco Portela in the Rio de Janeiro area?
+339,14700.0,9800.0,1470.0,490.0,4900.0,E,How long is Estrada Pau da Fome in the Rio de Janeiro area?
+340,810.0,270.0,5400.0,2700.0,8100.0,D,How long is Rua General Fonseca Ramos in the Rio de Janeiro area?
+341,160.0,4800.0,1600.0,3200.0,480.0,C,How long is Rua Marcos de Macedo in the Rio de Janeiro area?
+342,3800.0,5700.0,570.0,1900.0,190.0,D,How long is Rua Comandante Vergueiro da Cruz in the Rio de Janeiro area?
+343,600.0,4000.0,2000.0,200.0,6000.0,C,How long is Estrada dos Teixeiras in the Rio de Janeiro area?
+344,270.0,810.0,2700.0,5400.0,8100.0,C,How long is Rua Piraquara in the Rio de Janeiro area?
+345,5100.0,510.0,1700.0,3400.0,170.0,C,How long is Rua Agenor Porto in the Rio de Janeiro area?
+346,390.0,1300.0,3900.0,2600.0,130.0,B,How long is Rua Cracituba in the Rio de Janeiro area?
+347,5600.0,280.0,8400.0,840.0,2800.0,E,How long is Rua Américo Rocha in the Rio de Janeiro area?
+348,5000.0,7500.0,250.0,2500.0,750.0,D,How long is Avenida Monsenhor Félix in the Rio de Janeiro area?
+349,300.0,1000.0,3000.0,2000.0,100.0,B,How long is Rua Gramané in the Rio de Janeiro area?
+350,3000.0,1500.0,150.0,450.0,4500.0,B,How long is Avenida Moacyr Barbosa in the Rio de Janeiro area?
+351,0.0,0.0,0.0,100.0,100.0,C,How long is Rua Capitão Mário Barbedo in the Rio de Janeiro area?
+352,1600.0,3200.0,160.0,4800.0,480.0,A,How long is Estrada do Rio Pequeno in the Rio de Janeiro area?
+353,800.0,240.0,1600.0,2400.0,100.0,A,How long is Via Parque in the Rio de Janeiro area?
+354,3000.0,1000.0,300.0,2000.0,100.0,B,How long is Rua Divisória in the Rio de Janeiro area?
+355,3200.0,160.0,480.0,1600.0,4800.0,D,How long is Rua Sapopemba in the Rio de Janeiro area?
+356,100.0,100.0,900.0,300.0,600.0,D,How long is Rua Gita in the Rio de Janeiro area?
+357,960.0,3200.0,320.0,9600.0,6400.0,B,How long is Rua Comendador Siqueira in the Rio de Janeiro area?
+358,13500.0,450.0,4500.0,9000.0,1350.0,C,How long is Rua São Miguel in the Rio de Janeiro area?
+359,500.0,1000.0,1500.0,150.0,100.0,A,How long is Rua Marechal Trompowski in the Rio de Janeiro area?
+360,9000.0,1350.0,450.0,4500.0,13500.0,D,How long is Estrada Rodrigues Caldas in the Rio de Janeiro area?
+361,390.0,130.0,3900.0,2600.0,1300.0,E,How long is Rua Elias da Silva in the Rio de Janeiro area?
+362,0.0,0.0,0.0,100.0,100.0,C,How long is Viaduto Compositor Wilson Batista in the Rio de Janeiro area?
+363,390.0,2600.0,1300.0,3900.0,130.0,C,How long is Rua João Barbalho in the Rio de Janeiro area?
+364,1200.0,1800.0,600.0,180.0,100.0,C,How long is Praça Edmundo Rego in the Rio de Janeiro area?
+365,2200.0,1100.0,110.0,330.0,3300.0,B,How long is Estrada da Soca in the Rio de Janeiro area?
+366,340.0,6800.0,10200.0,3400.0,1020.0,D,How long is Estrada Meringuava in the Rio de Janeiro area?
+367,0.0,0.0,100.0,100.0,0.0,E,How long is Largo do Jacaré in the Rio de Janeiro area?
+368,1600.0,3200.0,160.0,4800.0,480.0,A,How long is Rua Álvares de Azevedo in the Rio de Janeiro area?
+369,360.0,120.0,3600.0,2400.0,1200.0,E,How long is Viaduto Procurador José Alves de Morais in the Rio de Janeiro area?
+370,720.0,7200.0,2400.0,4800.0,240.0,C,How long is Estrada Henrique de Melo in the Rio de Janeiro area?
+371,270.0,100.0,900.0,1800.0,2700.0,C,How long is Rua Amália Franco in the Rio de Janeiro area?
+372,0.0,100.0,100.0,0.0,0.0,E,How long is Rua Henrique de Albuquerque in the Rio de Janeiro area?
+373,4200.0,1400.0,2800.0,140.0,420.0,B,How long is Avenida General Benedito da Silveira in the Rio de Janeiro area?
+374,1600.0,4800.0,3200.0,480.0,160.0,A,How long is Rua das Rosas in the Rio de Janeiro area?
+375,2200.0,1100.0,330.0,110.0,3300.0,B,How long is Rua das Margaridas in the Rio de Janeiro area?
+376,1800.0,900.0,270.0,2700.0,100.0,B,How long is Rua Venceslau in the Rio de Janeiro area?
+377,100.0,900.0,300.0,100.0,600.0,C,How long is Travessa Comendador Filips in the Rio de Janeiro area?
+378,500.0,150.0,100.0,1000.0,1500.0,A,How long is Rua Alexandre Ramos in the Rio de Janeiro area?
+379,4200.0,1400.0,2800.0,420.0,140.0,B,How long is Rua Mapendi in the Rio de Janeiro area?
+380,100.0,2000.0,300.0,1000.0,3000.0,D,How long is Rua Alberto Soares Sampaio in the Rio de Janeiro area?
+381,3600.0,540.0,180.0,1800.0,5400.0,D,How long is Estrada Macembu in the Rio de Janeiro area?
+382,480.0,4800.0,3200.0,1600.0,160.0,D,How long is Estrada do Bananal in the Rio de Janeiro area?
+383,240.0,7200.0,2400.0,720.0,4800.0,C,How long is Rua Miguel Burnier in the Rio de Janeiro area?
+384,100.0,1400.0,210.0,2100.0,700.0,E,How long is Rua General Galieni in the Rio de Janeiro area?
+385,910.0,18200.0,9100.0,2730.0,27300.0,C,How long is Estrada do Engenho Velho in the Rio de Janeiro area?
+386,22600.0,11300.0,3390.0,1130.0,33900.0,B,How long is Estrada do Cafundá in the Rio de Janeiro area?
+387,5800.0,8700.0,290.0,2900.0,870.0,D,How long is Rua da Tranquilidade in the Rio de Janeiro area?
+388,5600.0,2800.0,8400.0,280.0,840.0,B,How long is Estrada Manoel Nogueira de Sá in the Rio de Janeiro area?
+389,3700.0,370.0,1110.0,11100.0,7400.0,A,How long is Rua do Cacau in the Rio de Janeiro area?
+390,160.0,3200.0,4800.0,480.0,1600.0,E,How long is Rua Cairuçu in the Rio de Janeiro area?
+391,1300.0,130.0,390.0,3900.0,2600.0,A,How long is Estrada da Ligação in the Rio de Janeiro area?
+392,510.0,3400.0,170.0,1700.0,5100.0,D,How long is Rua Ipadu in the Rio de Janeiro area?
+393,3000.0,1000.0,300.0,2000.0,100.0,B,How long is Rua São Sebastião in the Rio de Janeiro area?
+394,1700.0,5100.0,170.0,3400.0,510.0,A,How long is Rua Mirinduba in the Rio de Janeiro area?
+395,190.0,570.0,5700.0,3800.0,1900.0,E,How long is Rua Jurubaíba in the Rio de Janeiro area?
+396,1600.0,480.0,3200.0,160.0,4800.0,A,How long is Estrada do Sapê in the Rio de Janeiro area?
+397,1100.0,110.0,3300.0,2200.0,330.0,A,How long is Rua do Queimado in the Rio de Janeiro area?
+398,0.0,0.0,100.0,0.0,100.0,D,How long is Praça Evaristo Gomes da Silva in the Rio de Janeiro area?
+399,900.0,100.0,270.0,1800.0,2700.0,A,How long is Rua Frei Bento in the Rio de Janeiro area?
+400,1200.0,100.0,800.0,400.0,120.0,D,How long is Rua Átila da Silveira in the Rio de Janeiro area?
+401,100.0,100.0,900.0,600.0,300.0,E,How long is Rua Filomena Fragoso in the Rio de Janeiro area?
+402,1800.0,540.0,5400.0,180.0,3600.0,A,How long is Rua Carlos Xavier in the Rio de Janeiro area?
+403,3600.0,360.0,120.0,2400.0,1200.0,E,How long is Rua Dona Clara in the Rio de Janeiro area?
+404,780.0,7800.0,260.0,2600.0,5200.0,D,How long is Rua Luís Beltrão in the Rio de Janeiro area?
+405,6800.0,10200.0,1020.0,3400.0,340.0,D,How long is Rua Quiririm in the Rio de Janeiro area?
+406,6600.0,4400.0,2200.0,220.0,660.0,C,How long is Rua Capitão Menezes in the Rio de Janeiro area?
+407,3900.0,130.0,2600.0,390.0,1300.0,E,How long is Rua das Dálias in the Rio de Janeiro area?
+408,6600.0,9900.0,330.0,3300.0,990.0,D,How long is Rua Soldado Arlindo Santos in the Rio de Janeiro area?
+409,1800.0,540.0,5400.0,180.0,3600.0,A,How long is Estrada da Fontinha in the Rio de Janeiro area?
+410,100.0,120.0,800.0,400.0,1200.0,D,How long is Rua Aladim in the Rio de Janeiro area?
+411,100.0,200.0,600.0,400.0,100.0,B,How long is Rua dos Lilases in the Rio de Janeiro area?
+412,7800.0,5200.0,780.0,260.0,2600.0,E,How long is Rua Tejo in the Rio de Janeiro area?
+413,450.0,4500.0,3000.0,1500.0,150.0,D,How long is Rua Ana Teles in the Rio de Janeiro area?
+414,2000.0,3000.0,100.0,300.0,1000.0,E,How long is Rua Cirilo da Silveira in the Rio de Janeiro area?
+415,10500.0,7000.0,1050.0,3500.0,350.0,D,How long is Rua Florianópolis in the Rio de Janeiro area?
+416,180.0,1800.0,1200.0,600.0,100.0,D,How long is Rua Parintins in the Rio de Janeiro area?
+417,3200.0,4800.0,160.0,480.0,1600.0,E,How long is Rua Maratuba in the Rio de Janeiro area?
+418,3900.0,1300.0,2600.0,130.0,390.0,B,How long is Rua Aripua in the Rio de Janeiro area?
+419,1400.0,100.0,2100.0,700.0,210.0,D,How long is Rua São Bernardo in the Rio de Janeiro area?
+420,330.0,3300.0,2200.0,1100.0,110.0,D,How long is Rua Pereira da Rocha in the Rio de Janeiro area?
+421,800.0,120.0,1200.0,100.0,400.0,E,How long is Rua das Turmalinas in the Rio de Janeiro area?
+422,3700.0,370.0,7400.0,1110.0,11100.0,A,How long is Rua Caiuá in the Rio de Janeiro area?
+423,120.0,100.0,400.0,1200.0,800.0,C,How long is Viaduto Prefeito Negrão de Lima in the Rio de Janeiro area?
+424,600.0,6000.0,4000.0,200.0,2000.0,E,How long is Rua Conselheiro Galvão in the Rio de Janeiro area?
+425,100.0,900.0,300.0,600.0,100.0,C,How long is Viaduto Negrão de Lima in the Rio de Janeiro area?
+426,5900.0,17700.0,11800.0,590.0,1770.0,A,How long is Estrada Comandante Luiz Souto in the Rio de Janeiro area?
+427,600.0,4000.0,2000.0,200.0,6000.0,C,How long is Rua da Chácara in the Rio de Janeiro area?
+428,13200.0,1980.0,6600.0,19800.0,660.0,C,How long is Rua Clarimundo de Melo in the Rio de Janeiro area?
+429,1800.0,2700.0,100.0,900.0,270.0,D,How long is Rua Pirangi in the Rio de Janeiro area?
+430,150.0,450.0,4500.0,3000.0,1500.0,E,How long is Estrada Coronel Vieira in the Rio de Janeiro area?
+431,220.0,4400.0,6600.0,2200.0,660.0,D,How long is Rua Cetima in the Rio de Janeiro area?
+432,3600.0,120.0,360.0,1200.0,2400.0,D,How long is Rua Gomensoro in the Rio de Janeiro area?
+433,140.0,4200.0,1400.0,420.0,2800.0,C,How long is Rua Ministro Moreira de Abreu in the Rio de Janeiro area?
+434,3400.0,6800.0,340.0,1020.0,10200.0,A,How long is Rua Paranapanema in the Rio de Janeiro area?
+435,100.0,1400.0,2100.0,700.0,210.0,D,How long is Rua Engenheiro Francisco Passos in the Rio de Janeiro area?
+436,210.0,4200.0,2100.0,6300.0,630.0,C,How long is Rua Doutor Luís Gaudie Ley in the Rio de Janeiro area?
+437,2700.0,1800.0,100.0,900.0,270.0,D,How long is Estrada da Equitação in the Rio de Janeiro area?
+438,15000.0,500.0,5000.0,1500.0,10000.0,C,How long is Rua Uranos in the Rio de Janeiro area?
+439,5400.0,540.0,3600.0,180.0,1800.0,E,How long is Rua Marquês de Jacarepaguá in the Rio de Janeiro area?
+440,210.0,1400.0,100.0,2100.0,700.0,E,How long is Rua Aristides Caire in the Rio de Janeiro area?
+441,750.0,2500.0,250.0,5000.0,7500.0,B,How long is Rua Moacir de Almeida in the Rio de Janeiro area?
+442,420.0,12600.0,1260.0,8400.0,4200.0,E,How long is Rua Virgem Peregrina in the Rio de Janeiro area?
+443,2000.0,200.0,600.0,6000.0,4000.0,A,How long is Estrada da Curicica in the Rio de Janeiro area?
+444,100.0,400.0,200.0,100.0,600.0,C,How long is Rua Iguaçu in the Rio de Janeiro area?
+445,220.0,660.0,4400.0,6600.0,2200.0,E,How long is Rua Oliva Maia in the Rio de Janeiro area?
+446,700.0,1400.0,2100.0,210.0,100.0,A,How long is Rua Sidônio Paes in the Rio de Janeiro area?
+447,1000.0,1500.0,100.0,150.0,500.0,E,How long is Rua Desembargador Gastão Macedo in the Rio de Janeiro area?
+448,840.0,280.0,8400.0,2800.0,5600.0,D,How long is Rua Geminiano Góis in the Rio de Janeiro area?
+449,100.0,300.0,200.0,100.0,100.0,E,How long is Praça Mac Gregor in the Rio de Janeiro area?
+450,2400.0,800.0,100.0,240.0,1600.0,B,How long is Rua Guilherme Moreira in the Rio de Janeiro area?
+451,600.0,200.0,6000.0,2000.0,4000.0,D,How long is Estrada Caribu in the Rio de Janeiro area?
+452,510.0,3400.0,170.0,5100.0,1700.0,E,How long is Rua Ituverava in the Rio de Janeiro area?
+453,1600.0,3200.0,480.0,4800.0,160.0,A,How long is Rua Comandante Rubens Silva in the Rio de Janeiro area?
+454,4600.0,230.0,690.0,6900.0,2300.0,E,How long is Estrada da Uruçanga in the Rio de Janeiro area?
+455,240.0,2400.0,720.0,4800.0,7200.0,B,How long is Avenida Otávio Malta in the Rio de Janeiro area?
+456,20100.0,670.0,2010.0,6700.0,13400.0,D,How long is Estrada do Itanhangá in the Rio de Janeiro area?
+457,3400.0,5100.0,1700.0,170.0,510.0,C,How long is Via Light in the Rio de Janeiro area?
+458,400.0,100.0,200.0,600.0,100.0,C,How long is Rua Lívio Barreto in the Rio de Janeiro area?
+459,400.0,800.0,100.0,1200.0,120.0,A,How long is Rua Cândido de Figueiredo in the Rio de Janeiro area?
+460,1700.0,510.0,170.0,3400.0,5100.0,A,How long is Rua Paturi in the Rio de Janeiro area?
+461,660.0,2200.0,220.0,4400.0,6600.0,B,How long is Rua Atininga in the Rio de Janeiro area?
+462,100.0,600.0,300.0,900.0,100.0,C,How long is Rua Pacífico Pereira in the Rio de Janeiro area?
+463,240.0,7200.0,4800.0,720.0,2400.0,E,How long is Rua Tenente Serafim in the Rio de Janeiro area?
+464,180.0,1800.0,540.0,3600.0,5400.0,B,How long is Rua Picuí in the Rio de Janeiro area?
+465,780.0,260.0,2600.0,5200.0,7800.0,C,How long is Rua dos Diamantes in the Rio de Janeiro area?
+466,2600.0,1300.0,390.0,130.0,3900.0,B,How long is Rua General Jerônimo Furtado in the Rio de Janeiro area?
+467,3000.0,6000.0,9000.0,900.0,300.0,A,How long is Rua Ururaí in the Rio de Janeiro area?
+468,260.0,2600.0,5200.0,780.0,7800.0,B,How long is Estrada Mapuá in the Rio de Janeiro area?
+469,1400.0,140.0,4200.0,2800.0,420.0,A,How long is Rua do Radialista in the Rio de Janeiro area?
+470,150.0,1500.0,3000.0,450.0,4500.0,B,How long is Rua Antonieta Campos da Paz in the Rio de Janeiro area?
+471,270.0,900.0,1800.0,100.0,2700.0,B,How long is Rua Mirataia in the Rio de Janeiro area?
+472,5600.0,2800.0,8400.0,840.0,280.0,B,How long is Rua Retiro dos Artistas in the Rio de Janeiro area?
+473,11800.0,590.0,17700.0,5900.0,1770.0,D,How long is Estrada Boiúna in the Rio de Janeiro area?
+474,8700.0,2900.0,870.0,290.0,5800.0,B,How long is Rua Frei Rodovalho in the Rio de Janeiro area?
+475,3600.0,7200.0,10800.0,360.0,1080.0,A,How long is Rua João Bruno Lobo in the Rio de Janeiro area?
+476,170.0,1700.0,510.0,5100.0,3400.0,B,How long is Rua Goianinha in the Rio de Janeiro area?
+477,200.0,100.0,100.0,600.0,400.0,A,How long is Rua Quaxima in the Rio de Janeiro area?
+478,400.0,120.0,1200.0,100.0,800.0,A,How long is Rua Padre Manso in the Rio de Janeiro area?
+479,180.0,1800.0,540.0,5400.0,3600.0,B,How long is Rua Assis Carneiro in the Rio de Janeiro area?
+480,1600.0,240.0,800.0,2400.0,100.0,C,How long is Rua Arauá in the Rio de Janeiro area?
+481,300.0,100.0,100.0,100.0,200.0,D,How long is Rua Inhamuns in the Rio de Janeiro area?
+482,4400.0,6600.0,2200.0,660.0,220.0,C,How long is Rua Urucuia in the Rio de Janeiro area?
+483,7500.0,5000.0,2500.0,750.0,250.0,C,How long is Estrada da Gávea Pequena in the Rio de Janeiro area?
+484,210.0,2100.0,4200.0,630.0,6300.0,B,How long is Rua Marina in the Rio de Janeiro area?
+485,100.0,900.0,2700.0,270.0,1800.0,B,How long is Rua das Tulipas in the Rio de Janeiro area?
+486,1000.0,500.0,100.0,1500.0,150.0,B,How long is Rua Euclides Faria in the Rio de Janeiro area?
+487,490.0,1470.0,9800.0,14700.0,4900.0,E,How long is Avenida de Nazareth in the Rio de Janeiro area?
+488,2400.0,120.0,1200.0,360.0,3600.0,C,How long is Rua Lima Barreto in the Rio de Janeiro area?
+489,100.0,120.0,400.0,1200.0,800.0,C,How long is Rua Pajurá in the Rio de Janeiro area?
+490,8700.0,870.0,5800.0,2900.0,290.0,D,How long is Rua Guiraréia in the Rio de Janeiro area?
+491,6000.0,2000.0,4000.0,200.0,600.0,B,How long is Estrada Santa Efigênia in the Rio de Janeiro area?
+492,3000.0,450.0,150.0,4500.0,1500.0,E,How long is Avenida Monte Cruzeiro in the Rio de Janeiro area?
+493,120.0,100.0,800.0,400.0,1200.0,D,How long is Rua Capitão Cader Matori in the Rio de Janeiro area?
+494,8400.0,5600.0,840.0,2800.0,280.0,D,How long is Estrada Marechal Mallet in the Rio de Janeiro area?
+495,1000.0,3000.0,2000.0,300.0,100.0,A,How long is Avenida Nossa Senhora da Penha in the Rio de Janeiro area?
+496,300.0,600.0,100.0,900.0,100.0,A,How long is Rua São João Bernardo in the Rio de Janeiro area?
+497,4400.0,13200.0,1320.0,440.0,8800.0,A,How long is Estrada do Itararé in the Rio de Janeiro area?
+498,140.0,4200.0,2800.0,420.0,1400.0,E,How long is Rua das Safiras in the Rio de Janeiro area?
+499,2900.0,870.0,5800.0,290.0,8700.0,A,How long is Estrada João Paulo in the Rio de Janeiro area?
+500,100.0,2000.0,300.0,3000.0,1000.0,E,How long is Rua Pompílio de Albuquerque in the Rio de Janeiro area?
+501,360.0,2400.0,120.0,1200.0,3600.0,D,How long is Avenida Edison Passos in the Rio de Janeiro area?
+502,0.0,100.0,0.0,100.0,0.0,E,How long is Estrada Velha da Tijuca in the Rio de Janeiro area?
+503,0.0,0.0,0.0,100.0,100.0,C,How long is Rua Igaratá in the Rio de Janeiro area?
+504,100.0,120.0,1200.0,400.0,800.0,D,How long is Rua Clara Nunes in the Rio de Janeiro area?
+505,100.0,100.0,300.0,200.0,100.0,E,How long is Praça do Valqueire in the Rio de Janeiro area?
+506,100.0,500.0,150.0,1500.0,1000.0,B,How long is Praça Quinze de Novembro in the Rio de Janeiro area?
+507,100.0,2100.0,1400.0,210.0,700.0,E,How long is Rua Andrade Figueira in the Rio de Janeiro area?
+508,0.0,0.0,0.0,100.0,100.0,C,How long is Rua Joaquim de Queiroz in the Rio de Janeiro area?
+509,240.0,100.0,2400.0,800.0,1600.0,D,How long is Rua André Azevedo in the Rio de Janeiro area?
+510,300.0,2000.0,100.0,1000.0,3000.0,D,How long is Rua do Engenho Novo in the Rio de Janeiro area?
+511,3600.0,540.0,180.0,1800.0,5400.0,D,How long is Rua Ana Neri in the Rio de Janeiro area?
+512,3300.0,1100.0,110.0,330.0,2200.0,B,How long is Rua Francisco Bernardino in the Rio de Janeiro area?
+513,2200.0,330.0,1100.0,110.0,3300.0,C,How long is Rua Vilela Tavares in the Rio de Janeiro area?
+514,0.0,0.0,100.0,100.0,0.0,E,How long is Rua Canelinha in the Rio de Janeiro area?
+515,100.0,200.0,400.0,600.0,100.0,B,How long is Rua Gôndola in the Rio de Janeiro area?
+516,1800.0,900.0,2700.0,100.0,270.0,B,How long is Rua General Savaget in the Rio de Janeiro area?
+517,1200.0,600.0,180.0,100.0,1800.0,B,How long is Rua Caviana in the Rio de Janeiro area?
+518,100.0,500.0,1000.0,1500.0,150.0,B,How long is Rua Padre Telêmaco in the Rio de Janeiro area?
+519,200.0,600.0,100.0,100.0,400.0,A,How long is Rua Olímpia do Couto in the Rio de Janeiro area?
+520,100.0,300.0,600.0,100.0,900.0,B,How long is Estrada do Campo da Areia in the Rio de Janeiro area?
+521,1500.0,450.0,150.0,3000.0,4500.0,A,How long is Rua Paraná in the Rio de Janeiro area?
+522,330.0,110.0,3300.0,2200.0,1100.0,E,How long is Rua Dois de Maio in the Rio de Janeiro area?
+523,400.0,600.0,100.0,100.0,200.0,E,How long is Rua Euzébio de Matos in the Rio de Janeiro area?
+524,2200.0,1100.0,3300.0,110.0,330.0,B,How long is Estrada General Canrobert Pereira da Costa in the Rio de Janeiro area?
+525,100.0,100.0,100.0,200.0,300.0,C,How long is Rua Bernardo de Vasconcelos in the Rio de Janeiro area?
+526,100.0,200.0,100.0,600.0,400.0,B,How long is Rua Soldado Simplício de Lara in the Rio de Janeiro area?
+527,390.0,1300.0,130.0,2600.0,3900.0,B,How long is Rua Viúva Cláudio in the Rio de Janeiro area?
+528,1200.0,120.0,2400.0,3600.0,360.0,A,How long is Boulevard 28 de Setembro in the Rio de Janeiro area?
+529,120.0,1200.0,100.0,400.0,800.0,D,How long is Praça Helley Batista in the Rio de Janeiro area?
+530,1800.0,180.0,1200.0,600.0,100.0,D,How long is Rua Propícia in the Rio de Janeiro area?
+531,300.0,100.0,100.0,600.0,900.0,A,How long is Avenida Juan Manuel Fangio in the Rio de Janeiro area?
+532,1200.0,120.0,100.0,800.0,400.0,E,How long is Avenida Julio Furtado in the Rio de Janeiro area?
+533,270.0,100.0,2700.0,1800.0,900.0,E,How long is Rua Magalhães Castro in the Rio de Janeiro area?
+534,300.0,100.0,900.0,600.0,100.0,A,How long is Rua Miranda e Brito in the Rio de Janeiro area?
+535,800.0,120.0,400.0,1200.0,100.0,C,How long is Rua São Ricardo in the Rio de Janeiro area?
+536,1000.0,1500.0,150.0,100.0,500.0,E,How long is Rua Agostinho Barbalho in the Rio de Janeiro area?
+537,100.0,1600.0,800.0,2400.0,240.0,C,How long is Rua Itamarati in the Rio de Janeiro area?
+538,2400.0,240.0,800.0,1600.0,100.0,C,How long is Rua Sidônio Pais in the Rio de Janeiro area?
+539,100.0,200.0,100.0,600.0,400.0,B,How long is Rua Valerio in the Rio de Janeiro area?
+540,100.0,100.0,600.0,300.0,900.0,D,How long is Rua Barão do Bananal in the Rio de Janeiro area?
+541,100.0,2400.0,1600.0,800.0,240.0,D,How long is Rua Tirol in the Rio de Janeiro area?
+542,240.0,2400.0,100.0,800.0,1600.0,D,How long is Rua Gurupi in the Rio de Janeiro area?
+543,110.0,3300.0,330.0,1100.0,2200.0,D,How long is Rua Borda do Mato in the Rio de Janeiro area?
+544,300.0,900.0,600.0,100.0,100.0,A,How long is Rua José do Patrocínio in the Rio de Janeiro area?
+545,100.0,700.0,2100.0,1400.0,210.0,B,How long is Rua Garibaldi in the Rio de Janeiro area?
+546,100.0,180.0,1800.0,600.0,1200.0,D,How long is Rua Marechal José Bevilacqua in the Rio de Janeiro area?
+547,100.0,210.0,1400.0,2100.0,700.0,E,How long is Rua Violeta in the Rio de Janeiro area?
+548,100.0,240.0,800.0,2400.0,1600.0,C,How long is Rua Fontoura Chaves in the Rio de Janeiro area?
+549,1800.0,100.0,270.0,900.0,2700.0,D,How long is Rua Pedro de Carvalho in the Rio de Janeiro area?
+550,210.0,100.0,1400.0,2100.0,700.0,E,How long is Avenida Professor Plinio Bastos in the Rio de Janeiro area?
+551,100.0,0.0,100.0,0.0,0.0,E,How long is Rua Capitão Couto Menezes in the Rio de Janeiro area?
+552,1700.0,5100.0,3400.0,510.0,170.0,A,How long is Estrada da Pedra Bonita in the Rio de Janeiro area?
+553,100.0,900.0,600.0,100.0,300.0,E,How long is Avenida Boulevard da Barra Olímpica in the Rio de Janeiro area?
+554,5400.0,8100.0,2700.0,270.0,810.0,C,How long is Rua Torres de Oliveira in the Rio de Janeiro area?
+555,1200.0,120.0,360.0,2400.0,3600.0,A,How long is Rua Luís Coutinho Cavalcante in the Rio de Janeiro area?
+556,4400.0,220.0,660.0,2200.0,6600.0,D,How long is Rua Aurélio Valporto in the Rio de Janeiro area?
+557,100.0,100.0,300.0,200.0,100.0,E,How long is Rua Bertha Lutz in the Rio de Janeiro area?
+558,1200.0,2400.0,360.0,120.0,3600.0,A,How long is Rua Maricá in the Rio de Janeiro area?
+559,1800.0,100.0,2700.0,270.0,900.0,E,How long is Rua Pedro Teles in the Rio de Janeiro area?
+560,9600.0,480.0,14400.0,4800.0,1440.0,D,How long is Rua Silva Vale in the Rio de Janeiro area?
+561,100.0,300.0,200.0,100.0,100.0,E,How long is Rua Manacá in the Rio de Janeiro area?
+562,400.0,100.0,120.0,800.0,1200.0,A,How long is Rua Apodi in the Rio de Janeiro area?
+563,300.0,200.0,100.0,100.0,100.0,E,How long is Rua Adeque in the Rio de Janeiro area?
+564,400.0,1200.0,100.0,120.0,800.0,A,How long is Rua Engenheiro Nicanor Pereira in the Rio de Janeiro area?
+565,0.0,100.0,0.0,0.0,100.0,D,How long is Rua Alfeu Faria Casto in the Rio de Janeiro area?
+566,100.0,800.0,400.0,1200.0,120.0,C,How long is Rua Cupertino in the Rio de Janeiro area?
+567,100.0,400.0,600.0,200.0,100.0,D,How long is Rua Bento Gonçalves in the Rio de Janeiro area?
+568,400.0,100.0,1200.0,800.0,120.0,A,How long is Rua José Domingues in the Rio de Janeiro area?
+569,140.0,420.0,1400.0,2800.0,4200.0,C,How long is Rua Cacequi in the Rio de Janeiro area?
+570,100.0,0.0,0.0,0.0,100.0,D,How long is Rua Jacaraú in the Rio de Janeiro area?
+571,460.0,1380.0,13800.0,4600.0,9200.0,D,How long is Rua Davi in the Rio de Janeiro area?
+572,1500.0,100.0,150.0,1000.0,500.0,E,How long is Rua Padre Roma in the Rio de Janeiro area?
+573,300.0,600.0,100.0,900.0,100.0,A,How long is Rua Feliciano de Aguiar in the Rio de Janeiro area?
+574,1300.0,130.0,3900.0,2600.0,390.0,A,How long is Rua Miguel Ângelo in the Rio de Janeiro area?
+575,10800.0,7200.0,360.0,1080.0,3600.0,E,How long is Rua Ferreira Chaves in the Rio de Janeiro area?
+576,1080.0,3600.0,7200.0,10800.0,360.0,B,How long is Rua Soldado Bernardino da Silva in the Rio de Janeiro area?
+577,1300.0,130.0,3900.0,2600.0,390.0,A,How long is Rua Almeida e Sousa in the Rio de Janeiro area?
+578,900.0,100.0,300.0,100.0,600.0,C,How long is Rua Alexandre Calaza in the Rio de Janeiro area?
+579,1800.0,600.0,180.0,1200.0,100.0,B,How long is Rua Castro Alves in the Rio de Janeiro area?
+580,100.0,300.0,100.0,600.0,900.0,B,How long is Rua Herculano Pena in the Rio de Janeiro area?
+581,1800.0,900.0,100.0,2700.0,270.0,B,How long is Rua Creso in the Rio de Janeiro area?
+582,300.0,100.0,100.0,100.0,200.0,D,How long is Rua Adalgisa Aleixo in the Rio de Janeiro area?
+583,100.0,200.0,300.0,100.0,100.0,E,How long is Rua Sirici in the Rio de Janeiro area?
+584,100.0,100.0,0.0,0.0,0.0,E,How long is Rua Latife Luvizaro in the Rio de Janeiro area?
+585,5400.0,3600.0,540.0,180.0,1800.0,E,How long is Rua Nova in the Rio de Janeiro area?
+586,100.0,100.0,300.0,100.0,200.0,D,How long is Rua São Guilherme de Norwich in the Rio de Janeiro area?
+587,300.0,100.0,100.0,200.0,100.0,E,How long is Rua Atituba in the Rio de Janeiro area?
+588,0.0,100.0,100.0,0.0,0.0,E,How long is Rua Rui das Dores in the Rio de Janeiro area?
+589,100.0,900.0,300.0,100.0,600.0,C,How long is Rua Francisco Valle in the Rio de Janeiro area?
+590,300.0,600.0,100.0,900.0,100.0,A,How long is Rua Melo Morais in the Rio de Janeiro area?
+591,400.0,600.0,200.0,100.0,100.0,C,How long is Rua Athaly Aguiar in the Rio de Janeiro area?
+592,100.0,300.0,600.0,900.0,100.0,B,How long is Avenida Adauto Botelho in the Rio de Janeiro area?
+593,440.0,1320.0,8800.0,13200.0,4400.0,E,How long is Estrada da Canoa in the Rio de Janeiro area?
+594,600.0,1200.0,1800.0,180.0,100.0,A,How long is Rua Francisco de Paula in the Rio de Janeiro area?
+595,2600.0,780.0,260.0,7800.0,5200.0,A,How long is Rua Franz Weissman in the Rio de Janeiro area?
+596,200.0,400.0,100.0,100.0,600.0,A,How long is Rua Fernão Cardim in the Rio de Janeiro area?
+597,2400.0,240.0,800.0,1600.0,100.0,C,How long is Rua Gaspar Viana in the Rio de Janeiro area?
+598,800.0,400.0,120.0,1200.0,100.0,B,How long is Rua Glaziou in the Rio de Janeiro area?
+599,0.0,100.0,0.0,0.0,100.0,D,How long is Rua Francisca Vidal in the Rio de Janeiro area?
+600,100.0,0.0,0.0,100.0,0.0,E,How long is Rua Comandante Possolo in the Rio de Janeiro area?
+601,100.0,100.0,0.0,0.0,0.0,E,How long is Rua Vasco da Gama in the Rio de Janeiro area?
+602,0.0,0.0,0.0,100.0,100.0,C,How long is Rua Samuel das Neves in the Rio de Janeiro area?
+603,100.0,300.0,900.0,100.0,600.0,B,How long is Rua Teixeira de Macedo in the Rio de Janeiro area?
+604,0.0,0.0,100.0,100.0,0.0,E,How long is Rua Guaporé in the Rio de Janeiro area?
+605,0.0,100.0,0.0,100.0,0.0,E,How long is Rua Otacílio Novais in the Rio de Janeiro area?
+606,510.0,3400.0,1700.0,170.0,5100.0,C,How long is Rua Doutor Alfredo Barcelos in the Rio de Janeiro area?
+607,0.0,0.0,0.0,100.0,100.0,C,How long is Rua Engenheiro Nazareth in the Rio de Janeiro area?
+608,660.0,6600.0,220.0,2200.0,4400.0,D,How long is Avenida Jaime Poggi in the Rio de Janeiro area?
+609,100.0,240.0,800.0,2400.0,1600.0,C,How long is Viaduto de Deodoro in the Rio de Janeiro area?
+610,100.0,600.0,100.0,300.0,900.0,D,How long is Rua Firmino Fragoso in the Rio de Janeiro area?
+611,100.0,0.0,0.0,0.0,100.0,D,How long is Praça Saiqui in the Rio de Janeiro area?
+612,400.0,200.0,600.0,100.0,100.0,B,How long is Rua Doutor Garnier in the Rio de Janeiro area?
+613,0.0,100.0,100.0,0.0,0.0,E,How long is Largo da Macumba in the Rio de Janeiro area?
+614,1200.0,100.0,800.0,120.0,400.0,E,How long is Rua Oliveira Serpa in the Rio de Janeiro area?
+615,100.0,400.0,600.0,200.0,100.0,D,How long is Rua Rogério Jonas Zylbersztajn in the Rio de Janeiro area?
+616,600.0,400.0,200.0,100.0,100.0,C,How long is Rua Novo Horizonte da Vila do João in the Rio de Janeiro area?
+617,3300.0,1100.0,110.0,330.0,2200.0,B,How long is Rua Quito in the Rio de Janeiro area?
+618,300.0,600.0,100.0,100.0,900.0,A,How long is Rua Pinto Guedes in the Rio de Janeiro area?
+619,0.0,100.0,100.0,0.0,0.0,E,How long is Rua Ary Kerner in the Rio de Janeiro area?
+620,0.0,0.0,0.0,100.0,100.0,C,How long is Largo dos Pilares in the Rio de Janeiro area?
+621,270.0,1800.0,100.0,2700.0,900.0,E,How long is Rua Major Suckow in the Rio de Janeiro area?
+622,0.0,0.0,100.0,100.0,0.0,E,How long is Rua Santiago in the Rio de Janeiro area?
+623,0.0,0.0,0.0,100.0,100.0,C,How long is Rua Guaianazes in the Rio de Janeiro area?
+624,200.0,300.0,100.0,100.0,100.0,E,How long is Rua Santos Melo in the Rio de Janeiro area?

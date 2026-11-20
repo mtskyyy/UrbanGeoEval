@@ -1,0 +1,137 @@
+id,question,answer,A,B,C,D,E
+0,Which POI belongs to type: cafe?,A,Costantino Café,Teatro Duse,ATM,Timothy,Mike's Restaurant
+1,Which POI belongs to type: fuel?,E,Golosseum,BNL,Kilmoon,Deutsches Historisches Institut in Rom,IP
+2,Which POI belongs to type: fountain?,E,Da Meo Patacca,Q8,Café dei Coronari,Caffè Brioche E Fantasia,Fontana dei Libri
+3,Which POI belongs to type: theatre?,A,Teatro Duse,Snackbar,Fiore - Pizzeria,Trattoria Tavernelle,Bar Roma
+4,Which POI belongs to type: cinema?,B,L'Angolo del Caffè,Nuovo Sacher,Biblioteca Joyce Lussu,Accademia Nazionale dei Sartori,Trattoria da Loreto
+5,Which POI belongs to type: drinking_water?,D,Barrio Tango,"Biblioteca di Ingegneria dell'informazione, elettronica e telecomunicazioni",Bar Roma,Piazza Pietro Thouar,Farmacia Acquario
+6,Which POI belongs to type: post_office?,A,Ufficio postale 55981 – Roma Montesacro,Dance & Co.,Officine San Giovanni,Biblioteca di Scienze giuridiche - Centro Studi Giuridici Italo-Cinese,Farmacia Eredi Dott. Montagna
+7,Which POI belongs to type: bicycle_repair_station?,A,Ciclocasale,Bar Latteria,Planet Dance,Escopazzo,Scuola di Italiano
+8,Which POI belongs to type: arts_centre?,E,Next,XV Gruppo Cassia Polizia locale di Roma Capitale,Saltimbocca,Doris,Fortezza Est
+9,Which POI belongs to type: restaurant?,D,Villa Fulvia,Macro 138,Caffè Cavour,Fatti di farina,Likeat – Café Restaurant
+10,Which POI belongs to type: pub?,B,Antica Caffetteria Cerelli,Bar della Salute,Bags Free,Roma 49,Fitness center
+11,Which POI belongs to type: pharmacy?,E,Billy's Ice,Caffe Niagara,Monastero San Sisto Vecchio,Al Tinello d'Abruzzo,Farmacia Trinità dei Monti
+12,Which POI belongs to type: ice_cream?,C,Circolo Speleologico Romano - Biblioteca,Stendal Bar,Glauco,Caffè della Scala,Eni
+13,Which POI belongs to type: library?,D,Bowling Roma,City kaffè,Monastero San Sisto Vecchio,Biblioteca interdipartimentale di Medicina - sede F. Ghilarducci,Teatro Trastevere
+14,Which POI belongs to type: bar?,C,BNL,Paste e Vino Osteria,Panamino,Giulietta,Kit Soccorso Bici
+15,Which POI belongs to type: police?,D,La Locanda del Prosciutto,La Cabala,Bar Baffo Caffè Vergnano,Carabinieri,Pizza & Pizze
+16,Which POI belongs to type: school?,A,Scuola Media Statale Dante Alighieri,Ristorante Caffè Lo Zodiaco,UniCredit Bank,Taverna al Bcco,Forno Conti
+17,Which POI belongs to type: bank?,B,Gelateria la Romana,Crédit Agricole,Alla Rampa dei Gracchi,Kiki's Kitchen,Hoppiness
+18,Which POI belongs to type: swimming_pool?,E,La Scottona,McDonald's,Burger King,Senza Piombo,S.S. Lazio Nuoto - Piscine
+19,Which POI belongs to type: university?,E,GianGusto,Anytime fitness,Apulia,Las Tapas,Piazza Ercoli Lab
+20,Which POI belongs to type: bus_station?,B,Sicily,110open,Dipartimento Scienze Statistiche,Caffetteria Berti dal 1951,Rai Radio 2
+21,Which POI belongs to type: place_of_worship?,B,Fiamma,San Fulgenzio,Dolce idea,IP,Hong Yang
+22,Which POI belongs to type: fast_food?,C,Manhattan Cafè,Nando's Pizzeria Popolare,Paradiso Pizzestre,Green Bar,Pizzeria Fiammetta
+23,Which POI belongs to type: parking?,B,Ambulatorio San Gallicano,Garage Posteggio Troiano,Tuk Tuk Ride,Casa Manco,La Casetta
+24,Which POI belongs to type: parking_entrance?,E,Cappella Sistina,Celio,Il Marchese,Centro Anziani Parrocchietta,Mercato Rionale
+25,Which POI belongs to type: atm?,D,Joseph,Eni,Arlù,Monte dei paschi di Siena,Biblioteca di Scienze giuridiche - Sede Filosofia del Diritto
+26,Which POI belongs to type: sports_centre?,B,Fantasia di pizza,Centro Sportivo Santa Maria,Farmacia Gatti,Cadorin,Biblioteca dell'Accademia nazionale delle Scienze
+27,Which POI belongs to type: townhall?,E,Betto e Mary,Pontificio Istituto Biblico,Ludel,Tassoni,LabPuzzle!
+28,Which POI belongs to type: veterinary?,D,Napoletano's Parioli,Terrazza Borromini (rooftop),Bon Bon,Ambulatorio Veterinario,Luciano e Sandro
+29,Which POI belongs to type: car_sharing?,C,Osteria della carne,Old Bridge Gelateria,Lepanto,Life,Tiepolo - Bistro Bottiglieria
+30,Which POI belongs to type: monastery?,E,Residenti Via di Villa Ruffo,Capitan Cosmo,Kishi,Klass,Monastero di San Lorenzo in Panisperna
+31,Which POI belongs to type: kindergarten?,E,Gelarte,Sarap Ottaviano,Eni,Fatamorgana,Asilo Nido La Mongolfiera
+32,Which POI belongs to type: doctors?,B,Vivi Villa Pamphilij,Sal Oftamologia,Blue Ice,Big Bar,Caffè MondoQui
+33,Which POI belongs to type: clinic?,E,Monte dei Paschi di Siena,Terre e Domus,Farmacia Celani,La Valle Del Sacco,Ematolab
+34,Which POI belongs to type: courthouse?,D,Soundville,Zio Pachino,Iris Bar,Tribunale militare di Roma,Q8
+35,Which POI belongs to type: community_centre?,A,Gruppo Scout FSE Roma 21,Caffé Parnaso,Enel X,ROMA TUSCOLANA C,Antica DOMUS
+36,Which POI belongs to type: toilets?,E,Caffè Nori,Bar,Archivio Storico Capitolino,Gellatteria del Viale,Castel Sant'Angelo
+37,Which POI belongs to type: nightclub?,D,Bar,Postamat,Renato Tredicine,28DiVino Jazz,Piacere Molise
+38,Which POI belongs to type: bicycle_parking?,C,Fol,Poliambulatorio Tempesta,Cipro,Macello,Banca Popolare di Sondrio
+39,Which POI belongs to type: taxi?,C,Haiku,Cooperarativa Pescatori Terracina,Taxi Emporio 060609,Intesa Sanpaolo,Ba'Ghetto
+40,Which POI belongs to type: college?,E,Caffè La Gioia Del Gusto,Caffè Lincoln,Total,Il Lucano,Accademia Nazionale dei Sartori
+41,Which POI belongs to type: animal_shelter?,B,Centro Anziani Parrocchietta,Arca di Noè,Belli E Brilli,Pizza in Trevi,Ristorante Pizzeria I Fratelli
+42,Which POI belongs to type: park?,E,South Indian restaurant,Monkey Bar,Blackmarket Hall,Chiù Sapore,Magnolia
+43,Which POI belongs to type: charging_station?,B,NICK,Enel,Mangio,Settimio al'Arancio,Nag's Head
+44,Which POI belongs to type: car_wash?,D,T-Bar Ostiense,Bunker di Mussolini,Ristorante Nduja,Talenti dell'autolavaggio,WinRent
+45,Which POI belongs to type: studio?,B,Osteria Romana,Music Garage Studio,Biblioteca Paolo Baffi,Banca del Fucino,Cicilardone a Monte Crauso
+46,Which POI belongs to type: dentist?,E,GianGusto Piadineria,IP,McCafé,Angelino ai Fori,Giancotti
+47,Which POI belongs to type: driving_school?,D,IP,Er Faciolaro,BNL,Autoscuola Piccioni,eni
+48,Which POI belongs to type: hospital?,D,Bar Molise,Pescheria del mare,T. D. S. Teatro del Sole Srl,Pronto Soccorso Ospedale Oftalmico,Admiral
+49,Which POI belongs to type: clock?,D,Libreria del Bosco,ENI,Taxi San Pantaleo,Idrocronometro,Bar
+50,Which POI belongs to type: ferry_terminal?,A,Ponte Cavour,Eni,Scomodo Food & Music-Saint Lawrence,Formaessenza,Monte dei paschi di Siena
+51,Which POI belongs to type: playground?,A,Parco giochi,Cagliari,La Caraffa,Angolo Sciarra,I Gemelli
+52,Which POI belongs to type: temple?,A,Tempio di Augusto,T-Bone Station,Autorimessa Esquilino,The Druid's Den,Moby Dick
+53,Which POI belongs to type: fitness_centre?,D,El paisano,Trattoria Pigneto,Mediateca delle Terre,Anytime Fitness,Intesa Sanpaolo
+54,Which POI belongs to type: bureau_de_change?,B,Intesa Sanpaolo,Tax free,Wellness Town,Chiesa di San Nicola,Pizza nader
+55,Which POI belongs to type: car_rental?,E,Gentle Boozers,Il Ritrovo del gusto,Banca Popolare de Sondrio,Trenta Formiche,WinRent
+56,Which POI belongs to type: Lasergame?,D,Libreria Degli Studenti,Eni,I Vicini Bistrot,Q-Zar Roma,Academy Of visual Arts
+57,Which POI belongs to type: vending_machine?,B,Ristorante De Coccio,Streetshop24,Chihana sushi restaurant,Istituto Europeo di Design,La Strega Nocciola
+58,Which POI belongs to type: public?,C,Biblioteca Fabrizio Giovenale,Parafarmacia Pulker,"Circolo PD Grottaperfetta ""Nilde Jotti""",La Renella,Theatre Café
+59,Which POI belongs to type: nursing_home?,B,Er Pulentaro,Comunità di Capodarco,Tamoil,Quattro Fontane,Little India
+60,Which POI belongs to type: residential?,E,Vestiti usati,Circolo “Sport Libero”,Bar Fantasia,Il Fiammifero Strano,Villa Riccio
+61,Which POI belongs to type: disused?,D,Caffe Peru,Caffe Fontana,Kishi,Green Pizza,Ufficio Postale 55668 – Roma 94
+62,Which POI belongs to type: parking_space?,D,Cafè Chic,Centro Sociale Anziani,La Vita è un Mozzico,C.D.,Trecaffè
+63,Which POI belongs to type: bowling_alley?,D,La Scala in Trastevere,Il gelato di Alessandra,Cocktail Bar,Bowling Roma,Park City
+64,Which POI belongs to type: research_institute?,A,Istituto italiano di numismatica,Bar Carbonetti,Total,Blue Bar,Pinseria Breschini
+65,Which POI belongs to type: marketplace?,A,MercatoBIO di Aguzzano al Casale Podere Rosa,Antica Spezieria di Santa Maria della Scala,Bar delle Grazie,Senior Jag Cafè,Migusta
+66,Which POI belongs to type: yoga?,B,50 Kalo di Ciro Salvo,Istituto Yoga Universale,Creperia Michelangelo,L'Angoletto,Alibaba Kebab
+67,Which POI belongs to type: public_building?,B,Da Marco,Direzione Parco Regionale dell'Appia Antica,BNL,Halal Fried Chicken,Porto Corallo
+68,Which POI belongs to type: planetarium?,A,Planetario di Roma,Q8,la Cucina di Pastella,Le 2 Colonne,De Sanctis
+69,Which POI belongs to type: recycling?,B,Che pizza c'è,Compost di quartiere,Bar La Torretta,il Girdiano ai fori,Farmacia a Garbatella Gimigliano
+70,Which POI belongs to type: pitch?,C,Halley,Le Scalette,Strike Skatepark,Teatrosala vignoli,All'antica torretta
+71,Which POI belongs to type: office?,D,Dal Paino,Bar Angeli,LaPiada,AKT srl,Rosamunda's
+72,Which POI belongs to type: bunker?,E,Don Nino,Trani,L'Isola dei Sardi due,Anfiteatro Quercia del Tasso,Bunker di Mussolini
+73,Which POI belongs to type: language_school?,A,Berlitz,Rifugio romano,Burger King,Il Seminterrato di via Siena,Good Good pizzeria
+74,Which POI belongs to type: hackerspace?,A,MUG Roma Tre,Il Galeone,Locauto,Carabinieri Stazione San Giovanni,Gelatomania
+75,Which POI belongs to type: construction?,C,BOSCO - Officine del Tartufo,Antico Caffe del Brasile - Torrefazione,Ampliamento Lumsa,Mile Restaurant,Enel - stazione di ricarica
+76,Which POI belongs to type: university?,D,Piazzale Farnesina,La Cioccolateria,Autolavaggio Issam Walyo,John Cabot University - Guarini Campus,Fontana di Clemente XII
+77,Which POI belongs to type: food_court?,E,Associazione culturale Chandra Surya YOGA,Nogu Teatro,Arno,Micci,Le Comptoir
+78,Which POI belongs to type: pinch?,A,Club 70,Giardino Wok,GianGusto Piadineria,Ristorante Wine Bar De’ Penitenzieri,Emporio della Solidarietà
+79,Which POI belongs to type: social_centre?,C,Bar Thouar,Farmacia Bianchini,Bencivenga occupato,Corsetti,Pizza e Kebab
+80,Which POI belongs to type: adult_gaming_centre?,C,Bar Della Vite,Tre Scalini,Admiral,Enel,Farmacia Germanico
+81,Which POI belongs to type: childcare?,B,Fontana della Pigna,Asilo nido La trottola,La Terrazza Caffarelli,Bar caffetteria,Fatamorgana Centro Storico
+82,Which POI belongs to type: left_luggage?,D,Farmacia Cinecittà,Sea Food Attanasio,All'antica torretta,Bags Free,Chinappi
+83,Which POI belongs to type: sauna?,A,Apollion sauna,Jackie O',Autolavaggio Issam Walyo,Poste Italiane,Asilo comunale Giulio Cesare
+84,Which POI belongs to type: social_facility?,B,Suore Missionarie del Sacro Costato,Emporio della Solidarietà,Trapizzino Mercato Centrale Roma,Antico Caffè della Pigna (Bike Friendly),Postamat
+85,Which POI belongs to type: bicycle_rental?,B,ZenZero,Roma Tre In Bici,Mercato Trionfale-Musei Vaticani,Pizza Rustica,Ente Nazionale Giuseppini del Murialdo San Paolo
+86,Which POI belongs to type: conference_centre?,D,Bar siciliano,Tam Tam,Antics Osteria Di Pietra,Sala Ospiti,Bella Napoli
+87,Which POI belongs to type: ranger_station?,C,Poste italiane – Roma 114,Il Milionario,Guardiaparco,Halal Fried Chicken,Emporio della Solidarietà
+88,Which POI belongs to type: dance?,E,Stazione Taxi Gemelli,Sundarban,Tazza dOro,Enel,Malika
+89,Which POI belongs to type: events_venue?,C,Molo 29,Hayashi Sushi,Il Seminterrato di via Siena,Pizza pizza pizza,Bar Pasticceria Tavola Calda
+90,Which POI belongs to type: photo_booth?,A,Fototessera,Farmacia Eredi Dott. Montagna,Hotel87,Avalon,Iari the Vino
+91,Which POI belongs to type: military?,D,McDonald's,Sichuan Haozi,Giolitti,Reggimento Carabinieri a Cavallo,Per me
+92,Which POI belongs to type: toy_library?,B,Dott. Alessio Papi,Ludoteca municipale Ludomagicabù,Bakery House - Ponte Milvio,Farmacia Leopardi,Alice
+93,Which POI belongs to type: club?,D,Il Garigliano,Mozzichi,Esso,Associazione Culturale Garbatella 44,Fernanda
+94,Which POI belongs to type: music_school?,C,Gelateria La Paloma,Open Baladin,Scuola Popolare di Musica di Testaccio,ARCI Circolo Concetto Marchesi,Ospedale Pediatrico Bambino Gesù - Sede di via Baldelli
+95,Which POI belongs to type: waiting_room?,D,IP,Scuola di Musica Popolare Donna Olimpia,Beirut,Sala Attesa 2,Conca D'oro
+96,Which POI belongs to type: canteen?,A,Mensa,Santa Maria del Rosario,Miura,Barcibo & Enoteca,Il Cambero
+97,Which POI belongs to type: payment_terminal?,B,L'elementare,Parking,Steccolecco,Ristochicco,Rue Burger Roma Marconi
+98,Which POI belongs to type: escape_game?,C,Ice Dream Factory,Ippokrates,Escape Room Centocelle - Fugacemente - Time Adventures,Fonte Egeria,Costarica
+99,Which POI belongs to type: internet_cafe?,C,Il Chicco Magico,Toil,Wonderphone Point,Trattoria Pigneto,Sofia
+100,Which POI belongs to type: boat_rental?,C,McDonald's,Bar Asti,Noleggio barche,Casa mia in Trastevere,Municipio Roma I
+101,Which POI belongs to type: coworking_space?,B,Sapporo Sardi,Casa delle Tecnologie emergenti (CTE),Old Trafford,T-Bone Station,Roma Appia Nuova A
+102,Which POI belongs to type: recording_studio?,C,Il vigneto,La Pantera Rosa,Exit Music Studios,Bar Amore di Zucca Fabio,Sciascia Caffè
+103,Which POI belongs to type: recreation_center?,A,"Associazione Culturale ""Il Paiolo""",Cybo Roma,Argot,Ristorante Bar Alì Babà,Scuola primaria Martiri della libertà
+104,Which POI belongs to type: baking_oven?,D,San Giovanni Bosco,Pizza e Mozzarella,Gelateria,Forno Procaccini,Il Vero Alfredo
+105,Which POI belongs to type: casino?,A,Vegas Dream,Il Pomo d'Oro,"Ristorante pizza caffè ""Rita""",Trattoria da Valentino,Banca Intesa
+106,Which POI belongs to type: tanning_salon?,A,New Black Body,Artigiano del Caffè,Fukui,Fontana,Santa Libbirata- La Carretteria
+107,Which POI belongs to type: money_transfer?,E,Cesare,Wu Xin,BNL,Farmacia Casalbertone,Ria
+108,Which POI belongs to type: public_bookcase?,E,Caffè e Dolcezze,Reale,Teatro San Luca,Ambulatorio Veterinario Ricciotti,Libreria del Bosco
+109,Which POI belongs to type: archive?,D,Bimbi Bar,Biblioteca Centrale Ragazzi,Poste Italiane,Archivio Storico Capitolino,Banca di Credito Cooperativa di Roma
+110,Which POI belongs to type: amusement_arcade?,C,Asilo comunale Giulio Cesare,Bar Dò Brasil,Tesla,Mamma Pizza,Manaish oriental bakery
+111,Which POI belongs to type: dojo?,B,Bar Mezzaluna,Aikido Dojo Shinkokyu,Sazio,Pier 21,Hotel87
+112,Which POI belongs to type: sports_hall?,E,Da Simo Pane e Vino,Antica Spezieria di Santa Maria della Scala,L’isola d’oro,Ozium,New Center Gym
+113,Which POI belongs to type: payment_centre?,A,Cartoleria Daniele,Banca Popolare di Sondrio,Burger King,Ristorante Eleonora d’Arborea,Dott.ssa Simona Guglielmucci
+114,Which POI belongs to type: fire_station?,D,Le Due Torri,Q8,Anytime Fitness,Squadra Antiincendio San Camillo,Ambulatorio Veterinario
+115,Which POI belongs to type: kitchen?,B,Sixty Café,Fellini,L'Arcangelo,Café dei Coronari,Cicilardone a Monte Crauso
+116,Which POI belongs to type: trade_school?,A,CPIA Roma 1 - Sede via Policastro,Dulcamara,Eni,Bar Conti,Don Nino
+117,Which POI belongs to type: garden?,D,Banca Popolare di Vicenza,Ciacco & Bacco,UBI Banca,Roseto,Che pizza c'è
+118,Which POI belongs to type: residential?,C,Banca Popolare di Milano,Taxi Mignanelli 060609,Vittoria Résidence,B.Ro Beef Bar,Annibaliano
+119,Which POI belongs to type: dancing_school?,A,Crazy Gang School,Ar Buchetto,Gran Caffè Balduina,Mascalzone Panino,BellaCarne Kosher Restaurant
+120,Which POI belongs to type: prison?,B,Massimo D'Azeglio,"Casa Reclusione Roma ""Rebibbia""",Osteria con Cucina,Roma 49,V Bar
+121,Which POI belongs to type: track?,C,La Santa Sete,Dolci Pensieri,Lanz,UniCredit Bank,Il Chiodo Fisso
+122,Which POI belongs to type: post_depot?,B,Piccola Hong Kong,DHL,Gemelli CURAE,L'Orange - Restaurant Wine Bar,OK WOK
+123,Which POI belongs to type: outdoor_seating?,D,Al Padovano,Gelateria Corona,Ristorante Ragno d'Oro,Il Gianfornaio,Warm
+124,Which POI belongs to type: motorcycle_rental?,A,On Movo,Don Orione,Pizzeria del Gufetto,Il Girasole,Etnico Peruviano
+125,Which POI belongs to type: biergarten?,D,MEDICHINI LEX,Sacco segreto,Il gusto giusto,L’Incontro,Caffè Silvestri
+126,Which POI belongs to type: animal_breeding?,D,Osteria la sol fa,Snack Bar Quadrifoglio,Bulldog Inn Rome,Allevamento Caput Mundi,Losteria carolina
+127,Which POI belongs to type: fixme?,C,L'Angolo,IC Parco degli Acquedotti,Malia,Domitius,Padre Pio Nomentana
+128,Which POI belongs to type: stripclub?,B,Wanted,Cica Cica Boom,Cucina Abruzzese Pizzeria,Pizza al Castelletto,Friends Bar
+129,Which POI belongs to type: bakery?,E,IP,Eni,Restaurant Teatro Centrale,Trattoria Pesci Fritti,Forno Conti
+130,Which POI belongs to type: horse_riding?,B,Pescheria del mare,Cavalieri Appia Antica,Asilo nido La trottola,BPER Banca,UniCredit Bank
+131,Which POI belongs to type: training?,C,Haus garten Bagel Bar,"L""appuntamento",British School,Da Matilde,Frumento
+132,Which POI belongs to type: motorcycle_parking?,E,Bar Mi Vida,Ampliamento Lumsa,Medsalus,UniCredit Bank,Parcheggio motocicli e ciclomotori
+133,Which POI belongs to type: art_school?,A,Academy Of visual Arts,Gemelli CURAE,Samurai Ramen,La Prosciutteria,Appero' (Lounge Bar Cafe')
+134,Which POI belongs to type: bench?,E,Gelateria Steccolecco,UniCredit Bank,Riccardo Taliani,Il Baffetto,Panchina Rossa 1522
+135,Which POI belongs to type: luggage_locker?,C,Ufficio Postale di Roma 161,Bar Stella,Stow your bags,Yellow Bar,Playground

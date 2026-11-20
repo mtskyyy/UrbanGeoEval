@@ -1,0 +1,307 @@
+,A,B,C,D,question,answer
+0,市府路,仁愛敦南圓環,文德路101巷,逸仙路,"In the Taipei area, which road cannot directly reach 仁愛路四段?",C
+1,仁愛路四段,金龍路,延平北路四段,松智路,"In the Taipei area, which road directly reaches 仁愛敦南圓環?",A
+2,港墘路,堤頂大道一段,堤頂大道二段,新生高架道路,"In the Taipei area, which road cannot directly reach 舊宗路二段?",D
+3,民權東路六段,中山北路六段,舊宗路二段,南京東路六段,"In the Taipei area, which road cannot directly reach 堤頂大道一段?",B
+4,健康路,內湖路二段103巷,迴轉道,南京東路二段,"In the Taipei area, which road directly reaches 百齡橋?",C
+5,市民大道四段,鄭州路,長安東路二段,百齡橋,"In the Taipei area, which road cannot directly reach 迴轉道?",C
+6,重陽路,成功路二段,福國路,市民大道七段,"In the Taipei area, which road cannot directly reach 向陽路?",C
+7,八德路四段,成功路二段,師大路,重陽路,"In the Taipei area, which road cannot directly reach 南港路二段?",C
+8,市民大道六段,至善路二段,至善路一段,迴轉道,"In the Taipei area, which road cannot directly reach 故宮路?",A
+9,瑞安街23巷,福林路,金山北路,濟南路三段,"In the Taipei area, which road directly reaches 至善路二段?",B
+10,基隆路車行地下道,重慶北路四段,南京東路五段,市民大道六段,"In the Taipei area, which road cannot directly reach 基隆路一段?",B
+11,迴轉道,市民大道二段,市民大道四段,環山路三段,"In the Taipei area, which road cannot directly reach 市民大道三段?",D
+12,市民大道五段,市民大道三段,復興南路一段,仁愛路二段,"In the Taipei area, which road cannot directly reach 市民大道四段?",D
+13,重慶北路二段,復興北路,鄭州路,北平西路,"In the Taipei area, which road cannot directly reach 重慶北路一段?",B
+14,中山北路一段,天水路,延平北路一段,大安路二段,"In the Taipei area, which road cannot directly reach 長安西路?",D
+15,忠孝東路四段,迴轉道,延平北路一段,承德路一段,"In the Taipei area, which road cannot directly reach 鄭州路?",A
+16,林森南路,中山北路一段,蘭州街,杭州南路一段,"In the Taipei area, which road cannot directly reach 忠孝東路一段?",C
+17,濟南路一段,東門圓環,中山北路一段,崇德街,"In the Taipei area, which road cannot directly reach 中山南路?",D
+18,新明路298巷,忠孝東路一段,中山南路,市民大道一段,"In the Taipei area, which road cannot directly reach 中山北路一段?",A
+19,中山南路,松江路,重慶北路一段,忠孝西路二段,"In the Taipei area, which road cannot directly reach 忠孝西路一段?",B
+20,南海路,和平西路一段,愛國西路,杭州南路二段,"In the Taipei area, which road cannot directly reach 重慶南路二段?",D
+21,重慶南路二段,羅斯福路二段,新明路298巷,羅斯福路公車專用道,"In the Taipei area, which road cannot directly reach 和平西路一段?",C
+22,辛亥路二段,南海路,重慶南路二段,汀州路二段,"In the Taipei area, which road cannot directly reach 重慶南路三段?",A
+23,南門圓環,重慶南路一段,中正橋,公園路,"In the Taipei area, which road cannot directly reach 愛國西路?",C
+24,愛國西路,襄陽路,貴陽街一段,環山路一段,"In the Taipei area, which road cannot directly reach 重慶南路一段?",D
+25,中山北路二段,基隆路一段,松德路,信義路六段,"In the Taipei area, which road cannot directly reach 信義路五段?",A
+26,莊敬路,民權東路四段,松高路,信義路五段,"In the Taipei area, which road cannot directly reach 松智路?",B
+27,松智路,新生北路一段62巷,莊敬路,崇德街,"In the Taipei area, which road cannot directly reach 吳興街225巷?",B
+28,信義路五段,松仁路,吳興街225巷,北安路,"In the Taipei area, which road cannot directly reach 莊敬路?",D
+29,仁愛路四段,港墘路,陽光街,基湖路,"In the Taipei area, which road cannot directly reach 瑞光路?",A
+30,堤頂大道二段,環山路二段,內湖路一段,忠孝東路三段,"In the Taipei area, which road cannot directly reach 港墘路?",D
+31,忠孝東路六段,文德路208巷,堤頂大道二段,文湖街,"In the Taipei area, which road cannot directly reach 內湖路一段?",A
+32,文德路101巷,陽光街,環山路三段,內湖路一段,"In the Taipei area, which road cannot directly reach 文德路208巷?",C
+33,文德路208巷,成功路四段,內湖路二段,內湖路二段179巷,"In the Taipei area, which road cannot directly reach 文德路?",D
+34,內湖路二段,建國南路一段,文德路208巷,內湖路二段103巷,"In the Taipei area, which road cannot directly reach 文德路101巷?",B
+35,文德路101巷,東寧路,文德路,內湖路二段103巷,"In the Taipei area, which road cannot directly reach 內湖路二段?",B
+36,環山路三段,文德路101巷,內湖路二段179巷,仁愛路一段,"In the Taipei area, which road cannot directly reach 內湖路二段103巷?",D
+37,長春路,民生東路二段,庫倫街,錦州橋,"In the Taipei area, which road cannot directly reach 新生北路二段?",C
+38,八德路一段,民族西路,南京東路一段,吉林路,"In the Taipei area, which road cannot directly reach 新生北路一段?",B
+39,新生北路一段,南京西路,新生北路二段,民生東路二段,"In the Taipei area, which road cannot directly reach 南京東路一段?",D
+40,南京東路一段,中華路一段,建國北路一段,松江路,"In the Taipei area, which road cannot directly reach 南京東路二段?",B
+41,重陽橋,四維路154巷,承德路六段,承德路四段,"In the Taipei area, which road cannot directly reach 中正路?",B
+42,劍潭路,敦煌路,重慶北路四段,寧夏路,"In the Taipei area, which road cannot directly reach 承德路四段?",D
+43,承德路四段,復興北路,福國路,重慶北路四段,"In the Taipei area, which road cannot directly reach 承德路六段?",B
+44,承德路四段,承德路六段,中山北路六段,中正路,"In the Taipei area, which road cannot directly reach 重慶北路四段?",C
+45,仁愛路一段,敦煌路,林森北路,濟南路一段,"In the Taipei area, which road cannot directly reach 林森南路?",B
+46,杭州南路一段,東豐街,中山南路,林森南路,"In the Taipei area, which road cannot directly reach 濟南路一段?",B
+47,中山北路一段,杭州北路,中山北路三段,林森北路,"In the Taipei area, which road cannot directly reach 北平東路?",C
+48,羅斯福路公車專用道,市民大道二段,錦州街,民生東路一段,"In the Taipei area, which road cannot directly reach 林森北路?",A
+49,撫遠街,成功路二段,舊宗路一段,忠誠路一段,"In the Taipei area, which road cannot directly reach 民權東路六段?",D
+50,瑞光路,民權東路六段,行善路,延平北路一段,"In the Taipei area, which road cannot directly reach 民權東路六段56巷?",D
+51,三元街,南海路,泉州街,濟南路三段,"In the Taipei area, which road cannot directly reach 汀州路一段?",D
+52,中華路二段,松壽路,汀州路二段,汀州路一段,"In the Taipei area, which road cannot directly reach 泉州街?",B
+53,泉州街,中正橋,重慶南路三段,慶城街,"In the Taipei area, which road cannot directly reach 汀州路二段?",D
+54,市民大道五段,瑞光路,濟南路二段,重慶南路三段,"In the Taipei area, which road directly reaches 中正橋?",D
+55,建國北路二段,金龍路,松江路,林森北路,"In the Taipei area, which road cannot directly reach 長春路?",B
+56,八德路二段,民權東路四段,南京東路四段,延吉街,"In the Taipei area, which road cannot directly reach 敦化北路?",D
+57,忠孝東路三段,新生南路一段,八德路一段,承德路三段,"In the Taipei area, which road cannot directly reach 忠孝東路二段?",D
+58,濟南路二段,新湖二路,八德路一段,新生高架道路,"In the Taipei area, which road cannot directly reach 金山南路一段?",B
+59,東豐街,仁愛路四段,市民大道四段,新生南路一段,"In the Taipei area, which road cannot directly reach 大安路一段?",D
+60,25A 台北交流道,敦化南路一段,復興南路一段,大安路一段,"In the Taipei area, which road cannot directly reach 東豐街?",A
+61,復興南路二段78巷,復興南路二段,大安路二段,忠孝西路一段,"In the Taipei area, which road cannot directly reach 瑞安街23巷?",D
+62,敦化南路二段63巷,大安路二段,庫倫街,瑞安街23巷,"In the Taipei area, which road cannot directly reach 四維路154巷?",C
+63,瑞安街23巷,中正橋,四維路154巷,復興南路二段151巷,"In the Taipei area, which road cannot directly reach 大安路二段?",B
+64,民權西路,長安東路一段,延平北路三段,延平北路一段,"In the Taipei area, which road cannot directly reach 延平北路二段?",B
+65,敦化南路一段,承德路二段,重慶北路一段,延平北路一段,"In the Taipei area, which road cannot directly reach 南京西路?",A
+66,鄭州路,汀州路一段,延平北路二段,天水路,"In the Taipei area, which road cannot directly reach 延平北路一段?",B
+67,市民大道一段,松智路,延平北路一段,和平東路一段,"In the Taipei area, which road directly reaches 天水路?",C
+68,林森北路,仰德大道一段,松江路,吉林路,"In the Taipei area, which road cannot directly reach 德惠街?",B
+69,樂群一路,內湖路一段,南京東路六段,瑞光路,"In the Taipei area, which road cannot directly reach 基湖路?",C
+70,環山路二段,文湖街,中山北路二段,內湖路一段,"In the Taipei area, which road cannot directly reach 環山路一段?",C
+71,安和路一段,信義路四段,南港路三段,敦化南路二段63巷,"In the Taipei area, which road cannot directly reach 安和路二段?",C
+72,通化街170巷,敦化南路二段,安和路二段,安和路一段,"In the Taipei area, which road cannot directly reach 安和路二段171巷?",D
+73,八德路三段,信義路四段294巷,市民大道四段,仁愛路四段,"In the Taipei area, which road cannot directly reach 延吉街?",B
+74,忠孝東路五段,大安路一段,逸仙路,仁愛路二段,"In the Taipei area, which road cannot directly reach 忠孝東路四段?",D
+75,環河北路一段,復興北路,敦化北路,建國北路二段,"In the Taipei area, which road cannot directly reach 民生東路三段?",A
+76,濱江街出口匝道,松江路,新生北路二段,吉林路,"In the Taipei area, which road cannot directly reach 民生東路二段?",A
+77,錦州街,興安街,建國北路三段,濟南路二段,"In the Taipei area, which road cannot directly reach 建國北路二段?",D
+78,通化街,安和路二段171巷,通化街170巷,涼州街,"In the Taipei area, which road cannot directly reach 樂利路?",D
+79,信義路四段294巷,安和路二段171巷,光復南路,樂利路,"In the Taipei area, which road cannot directly reach 通化街170巷?",C
+80,通化街170巷,信義路四段294巷,和平東路三段,樂利路,"In the Taipei area, which road cannot directly reach 通化街?",C
+81,通化街170巷,25B 台北交流道,通化街,信義路四段,"In the Taipei area, which road cannot directly reach 信義路四段294巷?",B
+82,基隆路二段,中華路一段,通化街,信義路四段294巷,"In the Taipei area, which road cannot directly reach 通化街171巷?",B
+83,東興路,民生圓環,塔悠路,中坡北路,"In the Taipei area, which road cannot directly reach 八德路四段?",B
+84,復興南路二段148巷,市民大道三段,建國南路二段,信義路三段,"In the Taipei area, which road cannot directly reach 建國南路一段?",A
+85,忠孝東路三段,忠孝東路四段,市民大道四段,迴轉道,"In the Taipei area, which road cannot directly reach 復興南路一段?",D
+86,建國北路一段,市民大道三段,復興南路一段,承德路二段,"In the Taipei area, which road cannot directly reach 八德路二段?",D
+87,興安街,和平東路一段,八德路二段,民生東路三段,"In the Taipei area, which road cannot directly reach 復興北路?",B
+88,松高路,仁愛路四段,信義路五段,農安街,"In the Taipei area, which road cannot directly reach 市府路?",D
+89,松智路,松仁路,南門圓環,忠孝東路五段22巷,"In the Taipei area, which road cannot directly reach 松高路?",C
+90,重慶北路二段,重慶北路三段,成功路二段,民權西路,"In the Taipei area, which road cannot directly reach 台北大橋?",C
+91,南京東路五段,25A 台北交流道,重慶北路二段,民族西路,"In the Taipei area, which road cannot directly reach 重慶北路三段?",A
+92,重慶北路三段,延平北路二段,濟南路二段,中山北路三段,"In the Taipei area, which road cannot directly reach 民權西路?",C
+93,民權西路,堤頂大道二段,台北大橋,南京西路,"In the Taipei area, which road cannot directly reach 重慶北路二段?",B
+94,中山北路三段,八德路四段,八德路二段,光復北路,"In the Taipei area, which road cannot directly reach 八德路三段?",A
+95,市府路,安和路一段,八德路三段,忠孝東路四段,"In the Taipei area, which road cannot directly reach 敦化南路一段?",A
+96,南京東路三段,承德路四段,敦化北路,南京東路五段,"In the Taipei area, which road cannot directly reach 南京東路四段?",B
+97,敦化北路,龍江路,復興北路,內湖路二段,"In the Taipei area, which road cannot directly reach 南京東路三段?",D
+98,建國快速道路,中華路二段,新生南路三段,辛亥路一段,"In the Taipei area, which road cannot directly reach 辛亥路二段?",B
+99,庫倫街,新生南路三段,樂群一路,信義一號道路,"In the Taipei area, which road directly reaches 辛亥路一段?",B
+100,和平東路一段,新生南路二段,基隆路二段,辛亥路二段,"In the Taipei area, which road cannot directly reach 新生南路三段?",C
+101,新生北路一段,八德路二段,金山北路,忠孝東路五段743巷,"In the Taipei area, which road cannot directly reach 八德路一段?",D
+102,民權東路五段,忠孝東路三段,仁愛路三段,信義路二段,"In the Taipei area, which road cannot directly reach 新生南路一段?",A
+103,建國北路二段,南京東路二段,敦化南路一段,八德路二段,"In the Taipei area, which road cannot directly reach 建國北路一段?",C
+104,和平東路三段,杭州南路一段,崇德街,吳興街225巷,"In the Taipei area, which road cannot directly reach 信安街?",B
+105,南京東路六段,中華路一段,吳興街225巷,市民大道八段,"In the Taipei area, which road directly reaches 崇德街?",C
+106,重慶北路二段,延平北路三段,承德路二段,寧夏路,"In the Taipei area, which road cannot directly reach 民生西路?",B
+107,市民大道高架道路,東興路,南京東路六段,基隆路一段,"In the Taipei area, which road cannot directly reach 正氣橋?",C
+108,永吉路,基隆路一段,八德路四段,新生北路一段62巷,"In the Taipei area, which road cannot directly reach 東興路?",D
+109,基隆路一段,羅斯福路一段,松山路,正氣橋,"In the Taipei area, which road cannot directly reach 永吉路?",B
+110,忠孝東路五段,中華路二段,松德路,松隆路,"In the Taipei area, which road cannot directly reach 松山路?",B
+111,永吉路,中坡北路,松山路,大安路一段,"In the Taipei area, which road cannot directly reach 松隆路?",D
+112,信義路六段,建民橋,松山路,信義路五段,"In the Taipei area, which road cannot directly reach 松德路?",B
+113,松山路,新生北路一段62巷,松德路,信義路五段,"In the Taipei area, which road cannot directly reach 信義路六段?",B
+114,25B 台北交流道,新生北路一段,民生東路二段,民族東路,"In the Taipei area, which road cannot directly reach 松江路?",A
+115,林森北路,松江路,舊宗路二段,建國北路三段,"In the Taipei area, which road cannot directly reach 農安街?",C
+116,吉林路,建民橋,新生北路二段,建國北路三段,"In the Taipei area, which road cannot directly reach 民權東路二段?",B
+117,農安街,德惠街,民權東路二段,和平東路二段,"In the Taipei area, which road cannot directly reach 新生北路三段?",D
+118,復興北路,新生北路三段,新生北路二段,林森北路,"In the Taipei area, which road cannot directly reach 民權東路一段?",A
+119,農安街,民族西路,承德路五段,民權西路,"In the Taipei area, which road cannot directly reach 中山北路三段?",C
+120,中山北路一段,中山北路三段,內湖路二段,長春路,"In the Taipei area, which road cannot directly reach 中山北路二段?",C
+121,松高路,延平北路四段,八德路四段,松隆路,"In the Taipei area, which road cannot directly reach 松信路?",B
+122,文德路,八德路四段,南京東路五段,健康路,"In the Taipei area, which road cannot directly reach 塔悠路?",A
+123,南京東路四段,忠孝東路二段,光復北路,塔悠路,"In the Taipei area, which road cannot directly reach 健康路?",B
+124,民權東路四段,健康路,民權東路五段,忠孝東路一段,"In the Taipei area, which road cannot directly reach 三民路?",D
+125,民生東路五段,劍潭路,南京東路四段,南京東路五段,"In the Taipei area, which road cannot directly reach 光復北路?",B
+126,行愛路,民權東路六段,台北大橋,撫遠街,"In the Taipei area, which road cannot directly reach 民權東路五段?",C
+127,民權東路五段,民權東路六段,北安路,塔悠路,"In the Taipei area, which road cannot directly reach 撫遠街?",C
+128,長春路,仁愛路二段,錦州街,南京東路二段,"In the Taipei area, which road cannot directly reach 吉林路?",B
+129,建國南路二段151巷,市民大道三段,市民大道二段,新生北路一段62巷,"In the Taipei area, which road cannot directly reach 金山北路?",A
+130,金山北路,碧山路,林森北路,市民大道三段,"In the Taipei area, which road cannot directly reach 市民大道二段?",B
+131,金山北路,新生北路一段,市民大道三段,樂業街,"In the Taipei area, which road cannot directly reach 新生北路一段62巷?",D
+132,長安西路,敦化南路二段,南京西路,承德路二段,"In the Taipei area, which road cannot directly reach 承德路一段?",B
+133,中山北路四段,民權西路,南京西路,民生西路,"In the Taipei area, which road cannot directly reach 承德路二段?",A
+134,中山高速公路,基隆路一段,松信路,市民大道五段,"In the Taipei area, which road cannot directly reach 市民大道六段?",A
+135,光復南路,基隆路一段,濟南路一段,東興路,"In the Taipei area, which road cannot directly reach 市民大道五段?",C
+136,福國路,中正路,環河北路二段,福德路,"In the Taipei area, which road cannot directly reach 中山北路五段?",C
+137,成功路四段,劍潭路,新生南路三段,復興南路二段78巷,"In the Taipei area, which road directly reaches 基河路?",B
+138,台北大橋,錦州橋,林森北路,新生北路二段,"In the Taipei area, which road cannot directly reach 錦州街?",A
+139,錦州街,仰德大道一段,新生北路二段,林森北路,"In the Taipei area, which road cannot directly reach 錦州橋?",B
+140,貴陽街一段,福國路,忠誠路一段,25A 台北交流道,"In the Taipei area, which road directly reaches 承德路五段?",B
+141,中山北路六段,辛亥路二段,福華路,承德路六段,"In the Taipei area, which road cannot directly reach 福國路?",B
+142,建國南路二段151巷,瑞安街23巷,復興南路二段,長安西路,"In the Taipei area, which road cannot directly reach 復興南路二段78巷?",D
+143,辛亥路二段,瑞安街23巷,復興南路二段148巷,中山高速公路,"In the Taipei area, which road cannot directly reach 復興南路二段?",D
+144,杭州南路二段,羅斯福路一段,環山路一段,金山南路二段,"In the Taipei area, which road cannot directly reach 金華街?",C
+145,羅斯福路二段,愛國東路,市民大道一段,羅斯福路公車專用道,"In the Taipei area, which road cannot directly reach 杭州南路二段?",C
+146,福州街,羅斯福路二段,杭州南路二段,南港路二段,"In the Taipei area, which road cannot directly reach 潮州街?",D
+147,信義路二段,新生南路三段,新生南路一段,信義路六段,"In the Taipei area, which road cannot directly reach 新生南路二段?",D
+148,金山南路二段,新生南路二段,和平東路二段,建國南路二段,"In the Taipei area, which road cannot directly reach 和平東路一段?",D
+149,中山北路四段,新生南路三段,和平東路一段,新生南路二段,"In the Taipei area, which road cannot directly reach 和平東路二段?",A
+150,重陽路,成功路二段,延平北路一段,南港路二段,"In the Taipei area, which road cannot directly reach 南港路三段?",C
+151,民權東路六段,市民大道高架道路,康寧路一段,陽光街,"In the Taipei area, which road cannot directly reach 成功路二段?",B
+152,南港路二段,民權東路一段,成功路二段,南港路三段,"In the Taipei area, which road cannot directly reach 重陽路?",B
+153,陽光街,康寧路一段,文德路,信義路三段,"In the Taipei area, which road cannot directly reach 成功路三段?",D
+154,南海路,汀州路一段,泉州街,承德路四段,"In the Taipei area, which road cannot directly reach 三元街?",D
+155,東興路,重慶南路三段,和平西路二段,汀州路一段,"In the Taipei area, which road cannot directly reach 南海路?",A
+156,明水路,市民大道高架道路,中正路,濱江街,"In the Taipei area, which road directly reaches 大直橋?",D
+157,新生北路三段,松江路,大直橋,通化街170巷,"In the Taipei area, which road cannot directly reach 濱江街?",D
+158,民生圓環,濟南路一段,民生東路四段,光復北路,"In the Taipei area, which road cannot directly reach 民生東路五段?",B
+159,莊敬路,民生東路五段,光復北路,民生東路三段,"In the Taipei area, which road cannot directly reach 民生東路四段?",A
+160,南京西路,建國南路二段,市民大道七段,福州街,"In the Taipei area, which road directly reaches 東新街?",C
+161,重慶南路一段,東新街,中坡北路,市民大道八段,"In the Taipei area, which road cannot directly reach 市民大道七段?",A
+162,忠孝東路五段,向陽路,通化街,東新街,"In the Taipei area, which road cannot directly reach 忠孝東路六段?",C
+163,陽光街,成功路三段,金湖路,濟南路二段,"In the Taipei area, which road cannot directly reach 康寧路一段?",D
+164,舊宗路二段,康寧路一段,成功路三段,信義一號道路,"In the Taipei area, which road cannot directly reach 陽光街?",D
+165,延平北路三段,民族西路,涼州街,延平北路五段,"In the Taipei area, which road cannot directly reach 延平北路四段?",C
+166,延平北路四段,中正路,興安街,延平北路六段,"In the Taipei area, which road cannot directly reach 延平北路五段?",C
+167,環河北路二段,和平西路二段,延平北路五段,重慶北路三段,"In the Taipei area, which road cannot directly reach 酒泉街?",B
+168,延平北路四段,市民大道高架道路,延平北路二段,民族西路,"In the Taipei area, which road cannot directly reach 延平北路三段?",B
+169,重慶北路三段,環河北路二段,中山北路三段,通化街171巷,"In the Taipei area, which road cannot directly reach 民族西路?",D
+170,南京東路六段,行善路,新明路298巷,福州街,"In the Taipei area, which road cannot directly reach 舊宗路一段?",D
+171,南京東路六段,建國南路二段151巷,南港路二段,舊宗路一段,"In the Taipei area, which road cannot directly reach 新明路298巷?",B
+172,承德路一段,舊宗路一段,堤頂大道一段,新明路298巷,"In the Taipei area, which road cannot directly reach 南京東路六段?",A
+173,建國北路一段,忠孝東路一段,長安東路一段,龍江路,"In the Taipei area, which road cannot directly reach 長安東路二段?",B
+174,承德路二段,建國北路三段,敦化北路,民權東路四段,"In the Taipei area, which road cannot directly reach 民權東路三段?",A
+175,中山北路四段,復興北路,建國北路三段,基河路,"In the Taipei area, which road cannot directly reach 民族東路?",D
+176,建國北路二段,民權東路二段,松江路,松信路,"In the Taipei area, which road cannot directly reach 建國北路三段?",D
+177,松高路,忠孝東路五段,松壽路,瑞安街23巷,"In the Taipei area, which road cannot directly reach 松仁路?",D
+178,基隆路車行地下道,東寧路,忠孝東路六段,松信路,"In the Taipei area, which road cannot directly reach 忠孝東路五段?",B
+179,松隆路,基隆路一段,建國南路二段,忠孝東路五段,"In the Taipei area, which road cannot directly reach 基隆路車行地下道?",C
+180,林森北路,中山北路二段,健康路,新生北路二段,"In the Taipei area, which road cannot directly reach 民生東路一段?",C
+181,新生北路一段,安和路二段171巷,四維路170巷,信義路四段,"In the Taipei area, which road cannot directly reach 敦化南路二段?",A
+182,信安街,和平東路二段,凱達格蘭大道,樂業街,"In the Taipei area, which road cannot directly reach 和平東路三段?",C
+183,四維路170巷,復興南路二段,復興南路二段148巷,泉州街,"In the Taipei area, which road cannot directly reach 復興南路二段151巷?",D
+184,復興南路二段151巷,松山路,復興南路二段,瑞安街71巷,"In the Taipei area, which road cannot directly reach 復興南路二段148巷?",B
+185,潮州街,環山路一段,和平東路一段,金華街,"In the Taipei area, which road cannot directly reach 金山南路二段?",B
+186,市府路,仁愛路三段,基隆路一段,松智路,"In the Taipei area, which road cannot directly reach 松壽路?",B
+187,東興路,南京東路四段,成功路五段,三民路,"In the Taipei area, which road cannot directly reach 南京東路五段?",C
+188,市民大道七段,市民大道六段,八德路四段,重慶北路一段,"In the Taipei area, which road cannot directly reach 中坡北路?",D
+189,復興南路一段,忠孝東路二段,建國南路一段,復興南路二段148巷,"In the Taipei area, which road cannot directly reach 忠孝東路三段?",D
+190,民生東路一段,忠孝東路四段,八德路三段,信義路四段,"In the Taipei area, which road cannot directly reach 光復南路?",A
+191,成功路三段,金龍路,金湖路,松智路,"In the Taipei area, which road cannot directly reach 成功路五段?",D
+192,康寧路一段,成功路五段,成功路三段,崇德街,"In the Taipei area, which road cannot directly reach 金湖路?",D
+193,成功路五段,碧山路,重慶北路三段,成功路三段,"In the Taipei area, which road cannot directly reach 金龍路?",C
+194,樂群二路,內湖路一段,南京東路一段,舊宗路二段,"In the Taipei area, which road cannot directly reach 堤頂大道二段?",C
+195,八德路二段,重陽路,松江路,新生北路一段,"In the Taipei area, which road cannot directly reach 渭水路?",B
+196,舊宗路一段,行善路,行愛路,興安街,"In the Taipei area, which road cannot directly reach 新湖二路?",D
+197,和平西路一段,舊宗路一段,民權東路六段56巷,新湖二路,"In the Taipei area, which road cannot directly reach 行善路?",A
+198,中山北路一段,民權東路六段,行善路,民權東路五段,"In the Taipei area, which road cannot directly reach 行愛路?",A
+199,長安東路二段,愛國西路,凱達格蘭大道,南門圓環,"In the Taipei area, which road cannot directly reach 公園路?",A
+200,東門圓環,公園路,德行西路,松智路,"In the Taipei area, which road directly reaches 南門圓環?",B
+201,中山南路,市民大道八段,金華街,愛國東路,"In the Taipei area, which road cannot directly reach 羅斯福路一段?",B
+202,羅斯福路一段,金山南路二段,杭州南路二段,林森北路,"In the Taipei area, which road cannot directly reach 愛國東路?",D
+203,公園路,杭州北路,東門圓環,重慶南路一段,"In the Taipei area, which road cannot directly reach 凱達格蘭大道?",B
+204,環河北路二段,建國南路二段151巷,建國南路一段,辛亥路二段,"In the Taipei area, which road cannot directly reach 建國南路二段?",A
+205,三民路,民權東路五段,敦化北路,成功路二段,"In the Taipei area, which road cannot directly reach 民權東路四段?",D
+206,松仁路,承德路一段,市民大道二段,中山北路一段,"In the Taipei area, which road cannot directly reach 市民大道一段?",A
+207,敦煌路,劍潭路,庫倫街,東門圓環,"In the Taipei area, which road cannot directly reach 承德路三段?",D
+208,忠孝西路一段,忠孝西路二段,中華路一段,公園路,"In the Taipei area, which road cannot directly reach 塔城街?",D
+209,中華路一段,忠孝西路一段,福國路,塔城街,"In the Taipei area, which road cannot directly reach 忠孝西路二段?",C
+210,復興南路一段,忠孝西路一段,忠孝西路二段,塔城街,"In the Taipei area, which road cannot directly reach 中華路一段?",A
+211,吉祥路,八德路四段,市民大道五段,南門圓環,"In the Taipei area, which road cannot directly reach 東寧路?",D
+212,逸仙路,東寧路,南京東路五段,八德路四段,"In the Taipei area, which road cannot directly reach 吉祥路?",A
+213,羅斯福路二段,新生南路一段,濟南路一段,杭州南路一段,"In the Taipei area, which road cannot directly reach 濟南路二段?",A
+214,市民大道高架道路,建國南路一段,新生南路一段,濟南路二段,"In the Taipei area, which road cannot directly reach 濟南路三段?",A
+215,敦化南路二段,長安東路二段,長安西路,中山北路一段,"In the Taipei area, which road cannot directly reach 長安東路一段?",A
+216,八德路二段,長安東路二段,南京東路三段,南京東路四段,"In the Taipei area, which road cannot directly reach 龍江路?",D
+217,復興南路一段,樂利路,天水路,民生西路,"In the Taipei area, which road directly reaches 復興南路一段340巷?",A
+218,中山北路二段,市民大道七段,八德路二段,大安路一段,"In the Taipei area, which road directly reaches 市民大道八段?",B
+219,信安街,復興南路二段78巷,南京東路五段,敦化南路二段63巷,"In the Taipei area, which road directly reaches 和平東路三段228巷?",A
+220,基隆路高架道路,水源路,敦化南路二段,樂業街,"In the Taipei area, which road cannot directly reach 基隆路二段?",B
+221,和平東路三段,麥帥一橋,和平東路二段,塔城街,"In the Taipei area, which road directly reaches 樂業街?",A
+222,延平北路三段,敦化南路二段,四維路154巷,安和路二段,"In the Taipei area, which road cannot directly reach 敦化南路二段63巷?",A
+223,中坡北路,內湖路一段,北安路,樂群一路,"In the Taipei area, which road cannot directly reach 敬業三路?",A
+224,明水路,敬業三路,堤頂大道二段,松山路,"In the Taipei area, which road cannot directly reach 樂群二路?",D
+225,敦化南路一段,安和路二段,信義路四段,文湖街,"In the Taipei area, which road cannot directly reach 安和路一段?",D
+226,環河北路一段,重慶北路二段,明水路,延平北路二段,"In the Taipei area, which road cannot directly reach 涼州街?",C
+227,復興南路二段151巷,安和路二段171巷,民權東路一段,敦化南路二段,"In the Taipei area, which road cannot directly reach 四維路170巷?",C
+228,環山路三段,北安路,民族西路,中山北路三段,"In the Taipei area, which road cannot directly reach 中山北路四段?",A
+229,福州街,忠孝西路一段,潮州街,杭州南路二段,"In the Taipei area, which road cannot directly reach 羅斯福路公車專用道?",B
+230,仰德大道一段,和平東路一段,潮州街,和平西路一段,"In the Taipei area, which road cannot directly reach 羅斯福路二段?",A
+231,羅斯福路二段,承德路四段,羅斯福路公車專用道,羅斯福路一段,"In the Taipei area, which road cannot directly reach 福州街?",B
+232,大安路二段,信義路五段,涼州街,信義路四段294巷,"In the Taipei area, which road cannot directly reach 信義路四段?",C
+233,民生東路三段,金山南路二段,新生南路二段,金山南路一段,"In the Taipei area, which road cannot directly reach 信義路二段?",A
+234,福德路,仁愛路三段,重慶南路一段,環山路三段,"In the Taipei area, which road directly reaches 寶慶路?",C
+235,松隆路,南海路,三元街,泉州街,"In the Taipei area, which road cannot directly reach 和平西路二段?",A
+236,延平北路一段,基隆路車行地下道,新生南路一段,環山路三段,"In the Taipei area, which road directly reaches 仁愛路三段?",C
+237,東門圓環,愛國東路,中山北路三段,杭州北路,"In the Taipei area, which road directly reaches 仁愛路一段?",A
+238,大直橋,松隆路,中華路一段,民族西路,"In the Taipei area, which road directly reaches 衡陽路?",C
+239,泉州街,內湖路一段,環山路二段,環山路一段,"In the Taipei area, which road cannot directly reach 文湖街?",A
+240,環山路一段,港墘路,重慶北路四段,環山路三段,"In the Taipei area, which road cannot directly reach 環山路二段?",C
+241,長安西路,內湖路二段179巷,環山路二段,內湖路二段103巷,"In the Taipei area, which road cannot directly reach 環山路三段?",A
+242,延平北路五段,金龍隧道,內湖路二段103巷,內湖路二段,"In the Taipei area, which road cannot directly reach 內湖路二段179巷?",A
+243,松山路,陽光街,和平東路一段,南京東路一段,"In the Taipei area, which road directly reaches 師大路?",C
+244,酒泉街,金龍隧道,環河北路一段,民生西路,"In the Taipei area, which road cannot directly reach 環河北路二段?",B
+245,寶慶路,濱江街,承德路三段,南京東路二段,"In the Taipei area, which road directly reaches 庫倫街?",C
+246,濟南路一段,延平北路六段,忠孝東路一段,濟南路二段,"In the Taipei area, which road cannot directly reach 杭州南路一段?",B
+247,忠誠路一段,莊敬路,中山北路五段,福國路,"In the Taipei area, which road cannot directly reach 中山北路六段?",B
+248,忠孝東路一段,中山北路六段,文林路,汀州路一段,"In the Taipei area, which road directly reaches 忠誠路一段?",B
+249,福華路,天水路,文林路,建民橋,"In the Taipei area, which road cannot directly reach 德行西路?",B
+250,福國路,德行西路,明水路,建民橋,"In the Taipei area, which road cannot directly reach 福華路?",C
+251,向陽路,內湖路二段179巷,八德路三段,東新街,"In the Taipei area, which road directly reaches 金龍隧道?",B
+252,瑞安街71巷,建國南路二段,敦煌路,復興南路二段78巷,"In the Taipei area, which road cannot directly reach 建國南路二段151巷?",C
+253,和平東路二段,建國南路二段151巷,健康路,復興南路二段148巷,"In the Taipei area, which road cannot directly reach 瑞安街71巷?",C
+254,金龍隧道,成功路五段,德行西路,建民橋,"In the Taipei area, which road directly reaches 建民橋?",C
+255,忠孝東路四段,金華街,仁愛路四段,松高路,"In the Taipei area, which road cannot directly reach 逸仙路?",B
+256,崇德街,復興南路一段,建國南路二段,復興南路二段,"In the Taipei area, which road cannot directly reach 信義路三段?",A
+257,市民大道三段,民族西路,涼州街,環河北路二段,"In the Taipei area, which road cannot directly reach 環河北路一段?",A
+258,復興南路二段,辛亥路二段,承德路六段,建國南路二段,"In the Taipei area, which road cannot directly reach 建國快速道路?",C
+259,安和路二段,松高路,民權東路五段,中山南路,"In the Taipei area, which road directly reaches 忠孝東路五段22巷?",B
+260,復興北路,龍江路,新生南路二段,建國北路二段,"In the Taipei area, which road cannot directly reach 興安街?",C
+261,塔城街,文林路,延平北路五段,文德路208巷,"In the Taipei area, which road directly reaches 延平北路六段?",C
+262,至善路二段,仰德大道一段,吉祥路,中正路,"In the Taipei area, which road cannot directly reach 福林路?",C
+263,中正路,福林路,中山北路五段,酒泉街,"In the Taipei area, which road cannot directly reach 福德路?",D
+264,基河路,吳興街225巷,承德路四段,承德路三段,"In the Taipei area, which road cannot directly reach 劍潭路?",B
+265,八德路三段,中山北路四段,內湖路一段,故宮路,"In the Taipei area, which road cannot directly reach 北安路?",A
+266,樂群二路,樂群一路,北安路,忠孝東路七段,"In the Taipei area, which road cannot directly reach 明水路?",D
+267,民生東路二段,中華路二段,和平東路三段228巷,成功路三段,"In the Taipei area, which road directly reaches 成功路四段?",D
+268,杭州南路二段,庫倫街,建民橋,公園路,"In the Taipei area, which road directly reaches 襄陽路?",D
+269,堤頂大道二段,基湖路,台北大橋,敬業三路,"In the Taipei area, which road cannot directly reach 樂群一路?",C
+270,濟南路二段,林森南路,金山南路一段,麥帥一橋,"In the Taipei area, which road directly reaches 仁愛路二段?",C
+271,南京東路三段,重慶北路一段,民族東路,基隆路高架道路,"In the Taipei area, which road directly reaches 北平西路?",B
+272,中正橋,新生北路二段,東寧路,民生西路,"In the Taipei area, which road directly reaches 寧夏路?",D
+273,重慶南路一段,中山南路,承德路一段,松高路,"In the Taipei area, which road directly reaches 貴陽街一段?",A
+274,福國路,辛亥路二段,文林北路,德行西路,"In the Taipei area, which road cannot directly reach 文林路?",B
+275,文林路,松信路,潮州街,民生東路二段,"In the Taipei area, which road directly reaches 文林北路?",A
+276,建國北路二段,信義一號道路,仁愛路四段,南海路,"In the Taipei area, which road directly reaches 信義一號道路?",C
+277,百齡橋,忠孝東路五段,辛亥路二段,水源路,"In the Taipei area, which road directly reaches 中華路二段?",D
+278,信義路二段,中華路二段,東興路,安和路一段,"In the Taipei area, which road directly reaches 水源路?",B
+279,承德路三段,濱江街出口匝道,敦化南路二段63巷,金龍路,"In the Taipei area, which road directly reaches 碧山路?",D
+280,東寧路,仁愛敦南圓環,忠孝東路五段,瑞安街71巷,"In the Taipei area, which road directly reaches 忠孝東路五段743巷?",C
+281,莊敬路,師大路,忠孝東路六段,市民大道高架道路,"In the Taipei area, which road directly reaches 忠孝東路七段?",C
+282,承德路一段,濱江街,麥帥一橋,林森南路,"In the Taipei area, which road directly reaches 濱江街出口匝道?",B
+283,新生南路三段,忠孝西路一段,信義一號道路,文湖街,"In the Taipei area, which road directly reaches 館前路?",B
+284,故宮路,重陽橋,金湖路,凱達格蘭大道,"In the Taipei area, which road directly reaches 至善路一段?",A
+285,仁愛路一段,中山南路,民權東路三段,凱達格蘭大道,"In the Taipei area, which road cannot directly reach 東門圓環?",C
+286,新生高架道路,杭州南路二段,民權東路二段,塔悠路,"In the Taipei area, which road directly reaches 信義路一段?",B
+287,延平北路三段,建國北路三段,松智路,三元街,"In the Taipei area, which road directly reaches 五常街?",B
+288,光復南路,福林路,羅斯福路公車專用道,瑞光路,"In the Taipei area, which road directly reaches 仰德大道一段?",B
+289,承德路五段,民權東路二段,成功路二段,松壽路,"In the Taipei area, which road directly reaches 新明路?",C
+290,南京東路四段,民權西路,基河路,故宮路,"In the Taipei area, which road directly reaches 蘭州街?",B
+291,民權東路六段,三民路,信義路四段294巷,建國南路二段,"In the Taipei area, which road directly reaches 民生圓環?",B
+292,三民路,樂群一路,金龍隧道,承德路四段,"In the Taipei area, which road directly reaches 敦煌路?",D
+293,中正路,八德路二段,民族西路,陽光街,"In the Taipei area, which road directly reaches 重陽橋?",A
+294,市府路,麥帥一橋,天水路,北平東路,"In the Taipei area, which road directly reaches 杭州北路?",D
+295,大直橋,辛亥路一段,麥帥二橋,東寧路,"In the Taipei area, which road directly reaches 麥帥一橋?",C
+296,忠孝西路一段,市民大道,堤頂大道一段,興安街,"In the Taipei area, which road directly reaches 麥帥二橋?",C
+297,民生東路五段,基隆路二段,信義路三段,碧山路,"In the Taipei area, which road directly reaches 基隆路高架道路?",B
+298,忠孝東路六段,中山高速公路,新生北路一段62巷,至善路二段,"In the Taipei area, which road directly reaches 台北交流道?",B
+299,信義路五段,和平東路二段,台北交流道,松壽路,"In the Taipei area, which road directly reaches 中山高速公路?",C
+300,重慶北路三段,瑞安街23巷,民生西路,信義路六段,"In the Taipei area, which road directly reaches 25A 台北交流道?",A
+301,正氣橋,羅斯福路公車專用道,德惠街,文湖街,"In the Taipei area, which road directly reaches 市民大道高架道路?",A
+302,忠孝東路四段,和平東路一段,羅斯福路公車專用道,市民大道高架道路,"In the Taipei area, which road directly reaches 市民大道?",D
+303,中山北路四段,金山南路一段,新生北路二段,和平西路二段,"In the Taipei area, which road cannot directly reach 新生高架道路?",D
+304,福州街,敦化北路,重慶北路四段,敦化南路二段63巷,"In the Taipei area, which road directly reaches 慶城街?",B
+305,涼州街,重慶北路四段,八德路一段,北平西路,"In the Taipei area, which road directly reaches 25B 台北交流道?",B

@@ -1,0 +1,267 @@
+id,question,answer,A,B,C,D,E
+0,How long is Portola Drive in the San Francisco area?,C,9400.0,1410.0,4700.0,14100.0,470.0
+1,How long is Sunset Boulevard in the San Francisco area?,B,9000.0,4500.0,450.0,13500.0,1350.0
+2,How long is Cesar Chavez Street in the San Francisco area?,C,9600.0,1440.0,4800.0,480.0,14400.0
+3,How long is James Lick Freeway in the San Francisco area?,B,1290.0,4300.0,8600.0,12900.0,430.0
+4,How long is Lake Merced Boulevard in the San Francisco area?,C,18900.0,12600.0,6300.0,630.0,1890.0
+5,How long is Bayshore Boulevard in the San Francisco area?,A,7800.0,2340.0,780.0,15600.0,23400.0
+6,How long is Sloat Boulevard in the San Francisco area?,D,1050.0,7000.0,350.0,3500.0,10500.0
+7,How long is Bryant Street in the San Francisco area?,D,8400.0,280.0,840.0,2800.0,5600.0
+8,How long is San Jose Avenue in the San Francisco area?,D,14400.0,9600.0,480.0,4800.0,1440.0
+9,How long is Brotherhood Way in the San Francisco area?,B,9000.0,3000.0,900.0,300.0,6000.0
+10,How long is John F Foran Freeway in the San Francisco area?,D,7400.0,1110.0,370.0,3700.0,11100.0
+11,How long is Junipero Serra Boulevard in the San Francisco area?,A,1900.0,3800.0,570.0,190.0,5700.0
+12,How long is Potrero Avenue in the San Francisco area?,D,230.0,690.0,4600.0,2300.0,6900.0
+13,How long is Harrison Street in the San Francisco area?,C,6200.0,310.0,3100.0,930.0,9300.0
+14,How long is Southern Embarcadero Freeway in the San Francisco area?,A,1600.0,4800.0,3200.0,480.0,160.0
+15,How long is John F Kennedy Drive in the San Francisco area?,B,11800.0,5900.0,17700.0,590.0,1770.0
+16,How long is 36th Avenue in the San Francisco area?,D,1500.0,150.0,100.0,500.0,1000.0
+17,How long is Market Street in the San Francisco area?,E,940.0,18800.0,28200.0,2820.0,9400.0
+18,How long is Lincoln Way in the San Francisco area?,C,11000.0,16500.0,5500.0,1650.0,550.0
+19,How long is Lombard Street in the San Francisco area?,B,240.0,2400.0,7200.0,4800.0,720.0
+20,How long is Richardson Avenue in the San Francisco area?,D,100.0,200.0,100.0,100.0,300.0
+21,How long is Kezar Drive in the San Francisco area?,A,1100.0,2200.0,3300.0,330.0,110.0
+22,How long is Monterey Boulevard in the San Francisco area?,D,2730.0,27300.0,910.0,9100.0,18200.0
+23,How long is Alemany Boulevard in the San Francisco area?,D,23000.0,3450.0,1150.0,11500.0,34500.0
+24,How long is Palmetto Avenue in the San Francisco area?,C,100.0,100.0,100.0,300.0,200.0
+25,How long is The Embarcadero in the San Francisco area?,C,660.0,13200.0,6600.0,19800.0,1980.0
+26,How long is Battery Street in the San Francisco area?,C,110.0,330.0,1100.0,2200.0,3300.0
+27,How long is Geary Boulevard in the San Francisco area?,E,29700.0,19800.0,990.0,2970.0,9900.0
+28,How long is Howard Street in the San Francisco area?,B,390.0,1300.0,2600.0,3900.0,130.0
+29,How long is Hawthorne Street in the San Francisco area?,C,900.0,100.0,300.0,600.0,100.0
+30,How long is Presidio Parkway in the San Francisco area?,C,190.0,570.0,1900.0,5700.0,3800.0
+31,How long is Sagamore Street in the San Francisco area?,D,180.0,100.0,1200.0,600.0,1800.0
+32,How long is Rousseau Street in the San Francisco area?,D,600.0,100.0,400.0,200.0,100.0
+33,How long is Polk Street in the San Francisco area?,D,4800.0,7200.0,720.0,2400.0,240.0
+34,How long is Skyline Boulevard in the San Francisco area?,C,15600.0,1560.0,5200.0,520.0,10400.0
+35,How long is Great Highway in the San Francisco area?,C,11600.0,580.0,5800.0,1740.0,17400.0
+36,How long is Fillmore Street in the San Francisco area?,E,11700.0,7800.0,390.0,1170.0,3900.0
+37,How long is 3rd Street in the San Francisco area?,C,27200.0,40800.0,13600.0,1360.0,4080.0
+38,How long is Phelps Street in the San Francisco area?,E,0.0,100.0,0.0,100.0,0.0
+39,How long is John Muir Drive in the San Francisco area?,E,6200.0,9300.0,310.0,930.0,3100.0
+40,How long is Fell Street in the San Francisco area?,A,2000.0,600.0,4000.0,200.0,6000.0
+41,How long is Broadway in the San Francisco area?,A,5700.0,11400.0,17100.0,1710.0,570.0
+42,How long is El Camino del Mar in the San Francisco area?,B,100.0,1000.0,2000.0,300.0,3000.0
+43,How long is Crossover Drive in the San Francisco area?,C,100.0,1800.0,900.0,2700.0,270.0
+44,How long is Park Presidio Bypass Drive in the San Francisco area?,D,100.0,2100.0,210.0,700.0,1400.0
+45,How long is Industrial Street in the San Francisco area?,B,2200.0,1100.0,3300.0,330.0,110.0
+46,How long is Ocean Avenue in the San Francisco area?,E,2370.0,15800.0,23700.0,790.0,7900.0
+47,How long is Holloway Avenue in the San Francisco area?,B,5000.0,2500.0,250.0,750.0,7500.0
+48,How long is Laguna Honda Boulevard in the San Francisco area?,B,5200.0,2600.0,7800.0,780.0,260.0
+49,How long is Columbus Avenue in the San Francisco area?,E,750.0,5000.0,7500.0,250.0,2500.0
+50,How long is Powell Street in the San Francisco area?,E,570.0,5700.0,190.0,3800.0,1900.0
+51,How long is Cyril Magnin Street in the San Francisco area?,C,100.0,100.0,100.0,200.0,300.0
+52,How long is Martin Luther King Junior Drive in the San Francisco area?,B,14700.0,4900.0,490.0,1470.0,9800.0
+53,How long is North Point Street in the San Francisco area?,D,290.0,8700.0,870.0,2900.0,5800.0
+54,How long is Van Ness Avenue in the San Francisco area?,C,600.0,6000.0,2000.0,200.0,4000.0
+55,How long is Digby Street in the San Francisco area?,D,0.0,100.0,0.0,0.0,100.0
+56,How long is Bosworth Street in the San Francisco area?,B,3000.0,1500.0,4500.0,450.0,150.0
+57,How long is San Francisco – Oakland Bay Bridge in the San Francisco area?,A,2200.0,660.0,220.0,4400.0,6600.0
+58,How long is Park Presidio Boulevard in the San Francisco area?,D,2600.0,130.0,3900.0,1300.0,390.0
+59,How long is Veterans Boulevard in the San Francisco area?,C,390.0,3900.0,1300.0,2600.0,130.0
+60,How long is Winston Drive in the San Francisco area?,B,480.0,1600.0,3200.0,4800.0,160.0
+61,How long is Guerrero Street in the San Francisco area?,B,340.0,3400.0,10200.0,6800.0,1020.0
+62,How long is Octavia Boulevard in the San Francisco area?,B,2100.0,700.0,100.0,1400.0,210.0
+63,How long is Washington Street in the San Francisco area?,B,600.0,200.0,100.0,100.0,400.0
+64,How long is Newhall Street in the San Francisco area?,E,100.0,0.0,100.0,0.0,0.0
+65,How long is Valencia Street in the San Francisco area?,A,5200.0,520.0,10400.0,15600.0,1560.0
+66,How long is O'Farrell Street in the San Francisco area?,C,1600.0,240.0,800.0,2400.0,100.0
+67,How long is Grant Avenue in the San Francisco area?,C,400.0,100.0,200.0,600.0,100.0
+68,How long is Lyon Street in the San Francisco area?,E,0.0,0.0,100.0,100.0,0.0
+69,How long is Franklin Street in the San Francisco area?,C,4800.0,3200.0,1600.0,160.0,480.0
+70,How long is Keith Street in the San Francisco area?,D,0.0,0.0,100.0,0.0,100.0
+71,How long is Lane Street in the San Francisco area?,E,100.0,0.0,0.0,100.0,0.0
+72,How long is Sansome Street in the San Francisco area?,D,5400.0,180.0,540.0,1800.0,3600.0
+73,How long is Great Highway Extension in the San Francisco area?,E,440.0,13200.0,8800.0,1320.0,4400.0
+74,How long is Evans Avenue in the San Francisco area?,D,410.0,8200.0,12300.0,4100.0,1230.0
+75,How long is Judah Street in the San Francisco area?,A,7900.0,15800.0,2370.0,23700.0,790.0
+76,How long is Treasure Island Road in the San Francisco area?,C,1200.0,800.0,400.0,120.0,100.0
+77,How long is Taraval Street in the San Francisco area?,D,18300.0,12200.0,610.0,6100.0,1830.0
+78,How long is Sickles Avenue in the San Francisco area?,E,600.0,100.0,100.0,900.0,300.0
+79,How long is Twin Peaks Boulevard in the San Francisco area?,D,2010.0,670.0,13400.0,6700.0,20100.0
+80,How long is Innes Avenue in the San Francisco area?,D,270.0,100.0,1800.0,900.0,2700.0
+81,How long is Webster Street in the San Francisco area?,D,9000.0,6000.0,300.0,3000.0,900.0
+82,How long is 18th Street in the San Francisco area?,B,490.0,4900.0,9800.0,1470.0,14700.0
+83,How long is Geneva Avenue in the San Francisco area?,C,260.0,5200.0,2600.0,780.0,7800.0
+84,How long is Circular Avenue in the San Francisco area?,D,100.0,3000.0,2000.0,1000.0,300.0
+85,How long is Nancy Pelosi Drive in the San Francisco area?,E,6900.0,690.0,4600.0,230.0,2300.0
+86,How long is Division Street in the San Francisco area?,E,2700.0,270.0,1800.0,100.0,900.0
+87,How long is 30th Street in the San Francisco area?,D,3200.0,4800.0,160.0,1600.0,480.0
+88,How long is 17th Street in the San Francisco area?,C,1740.0,580.0,5800.0,11600.0,17400.0
+89,How long is South Hill Boulevard in the San Francisco area?,C,570.0,3800.0,1900.0,5700.0,190.0
+90,How long is Mission Street in the San Francisco area?,A,9300.0,18600.0,2790.0,930.0,27900.0
+91,How long is Harney Way in the San Francisco area?,A,400.0,1200.0,100.0,120.0,800.0
+92,How long is Washington Boulevard in the San Francisco area?,E,0.0,0.0,100.0,100.0,0.0
+93,How long is Terry A. François Boulevard in the San Francisco area?,B,1800.0,900.0,2700.0,100.0,270.0
+94,How long is Jerrold Avenue in the San Francisco area?,B,6200.0,3100.0,310.0,930.0,9300.0
+95,How long is Executive Park Boulevard in the San Francisco area?,B,3600.0,1200.0,120.0,2400.0,360.0
+96,How long is Park Boulevard in the San Francisco area?,E,540.0,180.0,5400.0,3600.0,1800.0
+97,How long is 16th Street in the San Francisco area?,E,13600.0,680.0,20400.0,2040.0,6800.0
+98,How long is Infantry Terrace in the San Francisco area?,D,100.0,300.0,100.0,100.0,200.0
+99,How long is Golden Gate Bridge in the San Francisco area?,B,100.0,800.0,2400.0,1600.0,240.0
+100,How long is Fulton Street in the San Francisco area?,B,29400.0,14700.0,1470.0,44100.0,4410.0
+101,How long is Gilman Avenue in the San Francisco area?,D,5400.0,180.0,540.0,1800.0,3600.0
+102,How long is Paul Avenue in the San Francisco area?,E,100.0,300.0,2000.0,3000.0,1000.0
+103,How long is Mariposa Street in the San Francisco area?,D,270.0,1800.0,100.0,900.0,2700.0
+104,How long is Anza Street in the San Francisco area?,E,100.0,1600.0,2400.0,240.0,800.0
+105,How long is Stanyan Street in the San Francisco area?,C,3800.0,570.0,1900.0,5700.0,190.0
+106,How long is Divisadero Street in the San Francisco area?,E,13600.0,680.0,2040.0,20400.0,6800.0
+107,How long is Post Street in the San Francisco area?,A,5000.0,500.0,15000.0,1500.0,10000.0
+108,How long is 13th Street in the San Francisco area?,C,270.0,2700.0,900.0,100.0,1800.0
+109,How long is Duboce Avenue in the San Francisco area?,E,1200.0,120.0,100.0,800.0,400.0
+110,How long is Otis Street in the San Francisco area?,D,100.0,100.0,200.0,100.0,300.0
+111,How long is 7th Avenue in the San Francisco area?,E,100.0,150.0,1000.0,1500.0,500.0
+112,How long is 19th Avenue in the San Francisco area?,E,540.0,1620.0,16200.0,10800.0,5400.0
+113,How long is 6th Street in the San Francisco area?,A,700.0,1400.0,100.0,210.0,2100.0
+114,How long is Brannan Street in the San Francisco area?,C,190.0,5700.0,1900.0,570.0,3800.0
+115,How long is O'Shaughnessy Boulevard in the San Francisco area?,B,5700.0,1900.0,570.0,190.0,3800.0
+116,How long is Woodside Avenue in the San Francisco area?,C,100.0,2700.0,900.0,1800.0,270.0
+117,How long is 7th Street in the San Francisco area?,A,2500.0,250.0,750.0,7500.0,5000.0
+118,How long is Mississippi Street in the San Francisco area?,C,120.0,100.0,400.0,800.0,1200.0
+119,How long is Silver Avenue in the San Francisco area?,D,20100.0,2010.0,13400.0,6700.0,670.0
+120,How long is McAllister Street in the San Francisco area?,C,1800.0,1200.0,600.0,180.0,100.0
+121,How long is Masonic Avenue in the San Francisco area?,B,6800.0,3400.0,340.0,10200.0,1020.0
+122,How long is 11th Street in the San Francisco area?,A,1300.0,3900.0,2600.0,390.0,130.0
+123,How long is South Van Ness Avenue in the San Francisco area?,C,930.0,310.0,3100.0,9300.0,6200.0
+124,How long is 24th Street in the San Francisco area?,A,4200.0,420.0,1260.0,12600.0,8400.0
+125,How long is Arguello Boulevard in the San Francisco area?,A,5000.0,15000.0,10000.0,500.0,1500.0
+126,How long is California Street in the San Francisco area?,C,660.0,13200.0,6600.0,19800.0,1980.0
+127,How long is Dolores Street in the San Francisco area?,A,5200.0,10400.0,15600.0,1560.0,520.0
+128,How long is Gough Street in the San Francisco area?,C,370.0,11100.0,3700.0,7400.0,1110.0
+129,How long is Clement Street in the San Francisco area?,C,200.0,600.0,2000.0,6000.0,4000.0
+130,How long is 25th Avenue in the San Francisco area?,B,200.0,2000.0,6000.0,4000.0,600.0
+131,How long is Hyde Street in the San Francisco area?,D,580.0,17400.0,11600.0,5800.0,1740.0
+132,How long is Bay Street in the San Francisco area?,D,4800.0,240.0,7200.0,2400.0,720.0
+133,How long is Castro Street in the San Francisco area?,E,290.0,8700.0,5800.0,870.0,2900.0
+134,How long is Main Street in the San Francisco area?,E,210.0,2100.0,1400.0,100.0,700.0
+135,How long is Turk Boulevard in the San Francisco area?,C,9300.0,310.0,3100.0,6200.0,930.0
+136,How long is Balboa Street in the San Francisco area?,B,7000.0,3500.0,10500.0,350.0,1050.0
+137,How long is 14th Avenue in the San Francisco area?,E,10500.0,350.0,1050.0,7000.0,3500.0
+138,How long is Presidio Boulevard in the San Francisco area?,A,1900.0,190.0,5700.0,3800.0,570.0
+139,How long is Presidio Avenue in the San Francisco area?,A,200.0,100.0,100.0,400.0,600.0
+140,How long is Chain of Lakes Drive East in the San Francisco area?,E,170.0,3400.0,510.0,5100.0,1700.0
+141,How long is Clayton Street in the San Francisco area?,A,1200.0,120.0,2400.0,360.0,3600.0
+142,How long is San Bruno Avenue in the San Francisco area?,E,10200.0,340.0,1020.0,6800.0,3400.0
+143,How long is 14th Street in the San Francisco area?,D,300.0,900.0,9000.0,3000.0,6000.0
+144,How long is Frederick Street in the San Francisco area?,B,5400.0,1800.0,180.0,3600.0,540.0
+145,How long is 5th Street in the San Francisco area?,A,1100.0,330.0,3300.0,110.0,2200.0
+146,How long is Vicente Street in the San Francisco area?,B,13500.0,4500.0,450.0,9000.0,1350.0
+147,How long is Haight Street in the San Francisco area?,E,8100.0,270.0,810.0,5400.0,2700.0
+148,How long is La Playa Street in the San Francisco area?,D,110.0,3300.0,330.0,1100.0,2200.0
+149,How long is Santa Clara Avenue in the San Francisco area?,E,5700.0,190.0,570.0,3800.0,1900.0
+150,How long is Cervantes Boulevard in the San Francisco area?,C,240.0,2400.0,800.0,100.0,1600.0
+151,How long is Folsom Street in the San Francisco area?,E,18000.0,900.0,27000.0,2700.0,9000.0
+152,How long is Plymouth Avenue in the San Francisco area?,B,930.0,3100.0,6200.0,9300.0,310.0
+153,How long is Broad Street in the San Francisco area?,B,400.0,200.0,600.0,100.0,100.0
+154,How long is West Portal Avenue in the San Francisco area?,C,330.0,3300.0,1100.0,110.0,2200.0
+155,How long is 10th Street in the San Francisco area?,D,2400.0,100.0,240.0,800.0,1600.0
+156,How long is Persia Avenue in the San Francisco area?,A,4900.0,1470.0,9800.0,490.0,14700.0
+157,How long is 2nd Street in the San Francisco area?,B,2600.0,1300.0,390.0,3900.0,130.0
+158,How long is King Street in the San Francisco area?,B,7800.0,2600.0,260.0,780.0,5200.0
+159,How long is 4th Street in the San Francisco area?,D,510.0,5100.0,3400.0,1700.0,170.0
+160,How long is Owens Street in the San Francisco area?,B,2600.0,1300.0,390.0,130.0,3900.0
+161,How long is Noriega Street in the San Francisco area?,E,7200.0,1080.0,10800.0,360.0,3600.0
+162,How long is Fremont Street in the San Francisco area?,A,300.0,900.0,100.0,600.0,100.0
+163,How long is Townsend Street in the San Francisco area?,D,300.0,900.0,9000.0,3000.0,6000.0
+164,How long is Stockton Street in the San Francisco area?,A,1000.0,3000.0,100.0,2000.0,300.0
+165,How long is Union Street in the San Francisco area?,B,390.0,3900.0,1170.0,7800.0,11700.0
+166,How long is 8th Street in the San Francisco area?,D,1400.0,100.0,210.0,700.0,2100.0
+167,How long is New Montgomery Street in the San Francisco area?,D,400.0,600.0,100.0,200.0,100.0
+168,How long is Montgomery Street in the San Francisco area?,A,800.0,100.0,240.0,2400.0,1600.0
+169,How long is Taylor Street in the San Francisco area?,D,1800.0,180.0,100.0,600.0,1200.0
+170,How long is Golden Gate Avenue in the San Francisco area?,D,340.0,6800.0,10200.0,3400.0,1020.0
+171,How long is Pennsylvania Avenue in the San Francisco area?,E,450.0,150.0,3000.0,4500.0,1500.0
+172,How long is Charles J. Brenham Place in the San Francisco area?,E,0.0,0.0,100.0,100.0,0.0
+173,How long is 9th Street in the San Francisco area?,C,330.0,110.0,1100.0,3300.0,2200.0
+174,How long is Larkin Street in the San Francisco area?,A,900.0,100.0,270.0,2700.0,1800.0
+175,How long is Spear Street in the San Francisco area?,D,1600.0,240.0,2400.0,800.0,100.0
+176,How long is Front Street in the San Francisco area?,D,100.0,600.0,400.0,200.0,100.0
+177,How long is Pine Street in the San Francisco area?,D,180.0,5400.0,540.0,1800.0,3600.0
+178,How long is Saint Francis Boulevard in the San Francisco area?,E,140.0,4200.0,420.0,2800.0,1400.0
+179,How long is Euclid Avenue in the San Francisco area?,E,2200.0,3300.0,110.0,330.0,1100.0
+180,How long is Bush Street in the San Francisco area?,E,690.0,4600.0,6900.0,230.0,2300.0
+181,How long is Mason Street in the San Francisco area?,C,330.0,6600.0,3300.0,9900.0,990.0
+182,How long is Marina Boulevard in the San Francisco area?,E,330.0,2200.0,110.0,3300.0,1100.0
+183,How long is Lincoln Boulevard in the San Francisco area?,E,30600.0,1020.0,20400.0,3060.0,10200.0
+184,How long is Merchant Road in the San Francisco area?,E,210.0,1400.0,2100.0,100.0,700.0
+185,How long is Davis Street in the San Francisco area?,E,0.0,100.0,0.0,100.0,0.0
+186,How long is Clipper Street in the San Francisco area?,B,9900.0,3300.0,330.0,6600.0,990.0
+187,How long is Sheridan Avenue in the San Francisco area?,D,140.0,2800.0,420.0,1400.0,4200.0
+188,How long is Dewey Boulevard in the San Francisco area?,D,210.0,2100.0,100.0,700.0,1400.0
+189,How long is Diamond Street in the San Francisco area?,E,100.0,300.0,100.0,200.0,100.0
+190,How long is Cargo Way in the San Francisco area?,C,100.0,100.0,100.0,300.0,200.0
+191,How long is 47th Avenue in the San Francisco area?,C,100.0,1800.0,900.0,2700.0,270.0
+192,How long is Clarendon Avenue in the San Francisco area?,A,3200.0,6400.0,9600.0,960.0,320.0
+193,How long is Channel Street in the San Francisco area?,C,120.0,2400.0,1200.0,360.0,3600.0
+194,How long is Hunters Point Boulevard in the San Francisco area?,B,100.0,800.0,240.0,2400.0,1600.0
+195,How long is Jackson Street in the San Francisco area?,E,180.0,1200.0,1800.0,100.0,600.0
+196,How long is Claremont Boulevard in the San Francisco area?,A,700.0,100.0,1400.0,2100.0,210.0
+197,How long is Oakdale Avenue in the San Francisco area?,B,5600.0,2800.0,280.0,8400.0,840.0
+198,How long is Jamestown Avenue in the San Francisco area?,B,5000.0,2500.0,7500.0,250.0,750.0
+199,How long is Turk Street in the San Francisco area?,A,2200.0,220.0,660.0,4400.0,6600.0
+200,How long is Yerba Buena Avenue in the San Francisco area?,D,180.0,5400.0,3600.0,1800.0,540.0
+201,How long is McCoppin Street in the San Francisco area?,D,100.0,300.0,100.0,100.0,200.0
+202,How long is Cortland Avenue in the San Francisco area?,E,8400.0,280.0,5600.0,840.0,2800.0
+203,How long is Nevada Street in the San Francisco area?,C,1600.0,100.0,800.0,240.0,2400.0
+204,How long is Alabama Street in the San Francisco area?,E,2200.0,3300.0,110.0,330.0,1100.0
+205,How long is Sutter Street in the San Francisco area?,D,150.0,4500.0,3000.0,1500.0,450.0
+206,How long is Roosevelt Way in the San Francisco area?,B,900.0,300.0,100.0,100.0,600.0
+207,How long is Oak Street in the San Francisco area?,D,130.0,390.0,3900.0,1300.0,2600.0
+208,How long is Laguna Street in the San Francisco area?,C,100.0,600.0,200.0,100.0,400.0
+209,How long is Mansell Street in the San Francisco area?,D,190.0,570.0,5700.0,1900.0,3800.0
+210,How long is Palou Avenue in the San Francisco area?,B,330.0,1100.0,2200.0,3300.0,110.0
+211,How long is Quint Street in the San Francisco area?,E,300.0,100.0,200.0,100.0,100.0
+212,How long is Clay Street in the San Francisco area?,A,500.0,100.0,150.0,1000.0,1500.0
+213,How long is Bacon Street in the San Francisco area?,C,100.0,100.0,200.0,400.0,600.0
+214,How long is Sacramento Street in the San Francisco area?,B,6300.0,2100.0,630.0,4200.0,210.0
+215,How long is Diamond Heights Boulevard in the San Francisco area?,E,900.0,300.0,6000.0,9000.0,3000.0
+216,How long is 30th Avenue in the San Francisco area?,D,100.0,1400.0,2100.0,700.0,210.0
+217,How long is Ashbury Street in the San Francisco area?,E,420.0,140.0,4200.0,2800.0,1400.0
+218,How long is Mission Bay Drive in the San Francisco area?,B,1800.0,600.0,180.0,100.0,1200.0
+219,How long is Pacheco Street in the San Francisco area?,E,4800.0,3200.0,480.0,160.0,1600.0
+220,How long is 10th Avenue in the San Francisco area?,A,2600.0,260.0,780.0,5200.0,7800.0
+221,How long is Panorama Drive in the San Francisco area?,D,410.0,12300.0,8200.0,4100.0,1230.0
+222,How long is 1st Street in the San Francisco area?,A,300.0,100.0,900.0,100.0,600.0
+223,How long is Geary Street in the San Francisco area?,B,120.0,1200.0,2400.0,360.0,3600.0
+224,How long is Kearny Street in the San Francisco area?,B,120.0,400.0,1200.0,100.0,800.0
+225,How long is Beale Street in the San Francisco area?,D,900.0,100.0,600.0,300.0,100.0
+226,How long is Blanken Avenue in the San Francisco area?,B,420.0,1400.0,140.0,2800.0,4200.0
+227,How long is Evelyn Way in the San Francisco area?,B,180.0,600.0,1800.0,1200.0,100.0
+228,How long is Visitacion Avenue in the San Francisco area?,D,450.0,1350.0,13500.0,4500.0,9000.0
+229,How long is 20th Street in the San Francisco area?,A,1100.0,110.0,330.0,3300.0,2200.0
+230,How long is Hayes Street in the San Francisco area?,A,300.0,100.0,900.0,100.0,600.0
+231,How long is Miraloma Drive in the San Francisco area?,A,1300.0,2600.0,130.0,390.0,3900.0
+232,How long is 34th Avenue in the San Francisco area?,D,100.0,150.0,1500.0,500.0,1000.0
+233,How long is Legion of Honor Drive in the San Francisco area?,D,9600.0,960.0,6400.0,3200.0,320.0
+234,How long is Drumm Street in the San Francisco area?,A,400.0,120.0,100.0,800.0,1200.0
+235,How long is Macalla Road in the San Francisco area?,B,100.0,700.0,210.0,1400.0,2100.0
+236,How long is Essex Street in the San Francisco area?,C,100.0,100.0,100.0,200.0,300.0
+237,How long is Girard Road in the San Francisco area?,C,130.0,2600.0,1300.0,3900.0,390.0
+238,How long is Illinois Street in the San Francisco area?,A,3900.0,11700.0,390.0,7800.0,1170.0
+239,How long is Halleck Street in the San Francisco area?,A,900.0,100.0,270.0,2700.0,1800.0
+240,How long is Scott Street in the San Francisco area?,E,0.0,100.0,0.0,100.0,0.0
+241,How long is 41st Avenue in the San Francisco area?,D,0.0,100.0,0.0,0.0,100.0
+242,How long is Spruce Street in the San Francisco area?,C,0.0,0.0,0.0,100.0,100.0
+243,How long is Mayfair Drive in the San Francisco area?,B,1800.0,600.0,180.0,1200.0,100.0
+244,How long is Leavenworth Street in the San Francisco area?,C,240.0,100.0,800.0,1600.0,2400.0
+245,How long is Kobbe Avenue in the San Francisco area?,E,100.0,0.0,100.0,0.0,0.0
+246,How long is Point Lobos Avenue in the San Francisco area?,C,630.0,4200.0,2100.0,210.0,6300.0
+247,How long is Vista Access Road in the San Francisco area?,D,0.0,0.0,100.0,0.0,100.0
+248,How long is Jones Street in the San Francisco area?,C,240.0,2400.0,800.0,100.0,1600.0
+249,How long is Indiana Street in the San Francisco area?,C,150.0,4500.0,1500.0,450.0,3000.0
+250,How long is Teresita Boulevard in the San Francisco area?,A,4000.0,8000.0,1200.0,12000.0,400.0
+251,How long is Cornwall Street in the San Francisco area?,E,100.0,0.0,100.0,0.0,0.0
+252,How long is Amador Street in the San Francisco area?,D,100.0,0.0,0.0,0.0,100.0
+253,How long is Crescent Avenue in the San Francisco area?,E,0.0,0.0,100.0,100.0,0.0
+254,How long is Eureka Street in the San Francisco area?,D,100.0,0.0,0.0,0.0,100.0
+255,How long is Vermont Street in the San Francisco area?,A,300.0,900.0,100.0,100.0,600.0
+256,How long is Ellis Street in the San Francisco area?,E,1200.0,100.0,120.0,800.0,400.0
+257,How long is Addison Street in the San Francisco area?,D,120.0,100.0,1200.0,400.0,800.0
+258,How long is Lyell Street in the San Francisco area?,B,600.0,200.0,100.0,400.0,100.0
+259,How long is Collins Street in the San Francisco area?,E,100.0,0.0,100.0,0.0,0.0
+260,How long is 37th Avenue in the San Francisco area?,A,200.0,100.0,600.0,400.0,100.0
+261,How long is San Pablo Avenue in the San Francisco area?,D,100.0,0.0,0.0,0.0,100.0
+262,How long is Starr King Way in the San Francisco area?,D,100.0,100.0,200.0,100.0,300.0
+263,How long is Kirkham Street in the San Francisco area?,E,100.0,300.0,100.0,200.0,100.0
+264,How long is Anza Avenue in the San Francisco area?,E,0.0,100.0,0.0,100.0,0.0
+265,How long is Crestlake Drive in the San Francisco area?,E,100.0,0.0,0.0,100.0,0.0

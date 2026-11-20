@@ -1,0 +1,44 @@
+id,question,answer,A,B,C,D,E
+0,"Which type do following POIs belong to? POIs: The Bowton House Café, Mum Café and Bakery, chaudhry tea  stall, Sardar-Ji-Baksh Coffee and Company",E,public_building,post_box,veterinary,bus_station,cafe
+1,"Which type do following POIs belong to? POIs: ICICI Bank, Canara Bank, IndusInd Bank, Yes Bank",E,office,fire_station,dentist,fuel,bank
+2,"Which type do following POIs belong to? POIs: Carmel Convent School, Soami Nagar Pre-Primary School, Govt. Girls Senior Secondary School, Jose Martin Sarvodya Vidyalya",A,school,House,veterinary,blood_bank,pub
+3,"Which type do following POIs belong to? POIs: PVR Select Citywalk, PVR Premiere Cinema, Inox, IRCON",B,amusement_arcade,cinema,dentist,parking,bus_station
+4,"Which type do following POIs belong to? POIs: Daksh Chinese Corner, Tea Moments, Doner Daddy, Haldiram's",A,fast_food,commercial,crematorium,garden,kindergarten
+5,"Which type do following POIs belong to? POIs: Indian Oil, Bharat Petroleum, Indian Oil, Qutub Service Station",C,indoor_play,fast_food,fuel,post_depot,parking
+6,"Which type do following POIs belong to? POIs: Jawahar Vyapar Bhavan - IRCTC Office, Kidwai Bhuvan, Bharat Sanchar Bhuvan - BSNL HQ, Vittalbhai Patel House",E,fire_station,restaurant,childcare,weighbridge,commercial
+7,"Which type do following POIs belong to? POIs: Anglow, Pulpssy, Gatsby, Gola Sizzlers",B,recycling,restaurant,telephone,social_centre,courthouse
+8,"Which type do following POIs belong to? POIs: DLF South Court Mall, MGF Metropolitan Mall, Shopping Complex, Bhansalsons",B,college,retail,bicycle_rental,taxi,pub
+9,"Which type do following POIs belong to? POIs: U.A. Medicos, Apollo Pharmacy, Anand Chemist, All India Chemist",A,pharmacy,social_facility,food_court,veterinary,social_centre
+10,"Which type do following POIs belong to? POIs: ICICI Bank, State Bank of India, HDFC Bank, Standard Chartered",B,recycling,atm,crematorium,house,bar
+11,"Which type do following POIs belong to? POIs: Neptune Hospital, Research & Referal Hospital, Manchanda Hospital, Bhagwati Hospital",C,office,school,hospital,university,taxi
+12,"Which type do following POIs belong to? POIs: DSUI Parking, Palika Bhawan, USO parking, Parliament Visitor Parking",D,townhall,crematorium,toilets,parking,motorcycle_parking
+13,"Which type do following POIs belong to? POIs: Amrit vani mandir, Chhatarpur Mandir, Moluddin Chishti Dargah, Shri Shani Dev Mandir",A,place_of_worship,bicycle_parking,recycling,marketplace,fast_food
+14,"Which type do following POIs belong to? POIs: Aryabhat College, Sri Aurobindo College, Dyal Singh College, JD Institute of Fashion Technology",C,cafe;coworking_space,post_box,college,social_centre,arts_centre
+15,"Which type do following POIs belong to? POIs: Little Millennium, Klub dé Niños, Scottish Early Years, todllers townn",B,police,kindergarten,marketplace,blood_bank,amusement_arcade
+16,"Which type do following POIs belong to? POIs: B-6 Market, Safdarjung Enclave, Central Market, Green Park Market, E Block Market",C,library,crematorium,marketplace,fitness_centre,post_box
+17,"Which type do following POIs belong to? POIs: Delhi Police — Mehrauli, South Campus Police Station, DCP Residence, Pink Booth",B,university,police,escape_game,townhall,post_office
+18,"Which type do following POIs belong to? POIs: Aquarium, Elma'ls Bar & lounge, Perch Wine & Coffee Bar, Toxic",B,escape_game,bar,university,drinking_water,parking
+19,"Which type do following POIs belong to? POIs: ndmc community centre, Holiday Club, Village Saidulajaib Welfare Association, Young Women's Christian Association",E,toilets,indoor_play,events_venue,bicycle_parking,community_centre
+20,"Which type do following POIs belong to? POIs: Amar Tourist Taxi Service, Avon Tourist Taxi Service, Auto Rickshaw Stand, Capital Taxi Service",B,hospital,taxi,sauna,events_venue,commercial
+21,"Which type do following POIs belong to? POIs: Keventers, Keventers, Keventers, Twist Bell Turkish Ice-cream",A,ice_cream,commercial,telephone,place_of_worship,car_rental
+22,"Which type do following POIs belong to? POIs: Vivekananda yoga Anusandhana samsthana, Play Laser Tag, Climb Central Delhi, NDMC Gymnasium",C,veterinary,cafe,sports_centre,school,commercial
+23,"Which type do following POIs belong to? POIs: Chemical Engineering Department, Civil Engineering Department, Seminar Hall, Mechanical Engineering Department",B,restaurant,commercial,toilets,industrial,fast_food
+24,"Which type do following POIs belong to? POIs: baba juice , Water cooler, Main building water cooler, water supply",C,nightclub,school,drinking_water,amusement_arcade,pub
+25,"Which type do following POIs belong to? POIs: Kaffeine, Imperfecto, Tipsy Room, Monkey Bar",D,library,fast_food,hospital,pub,apartments
+26,"Which type do following POIs belong to? POIs: Theatre Kunzum 2, Akshara, Theatre Kunzum 1, Oddbird Theatre",A,theatre,training,fuel,ice_cream,office
+27,"Which type do following POIs belong to? POIs: cult.fit, Musclemania, Steel Muscle, Stamina Gym",C,park,taxi,fitness_centre,post_depot,fast_food;bar
+28,"Which type do following POIs belong to? POIs: Elinore Aesthetic, Sure Dental, Doctor Singh's Multispecialty Dental Clinic, Doctor Khanna Dental Clinic",D,apartments,drinking_water,motorcycle_parking,dentist,commercial
+29,"Which type do following POIs belong to? POIs: Vasant Vihar Sub-Post Office, Panchsheel Enclave Post Office, Blue Dart, डाक निदेशालय",E,school,recycling,toilets,house,post_office
+30,"Which type do following POIs belong to? POIs: Aam Aadmi Mohalla Clinic, Vishwa Yuvak Kendra, CGHS Dispensary North Avenue, Unit V Indian Spinal Injuries Centre",E,pharmacy,recycling,library,post_office,clinic
+31,"Which type do following POIs belong to? POIs: Dog And Pet Clinic, The Pet's Paradise, Dr Choudary Pet Clinic, Veterinary Hospital Moti Bagh",C,community_centre,bicycle_rental,veterinary,prep_school,language_school
+32,"Which type do following POIs belong to? POIs: Bharti School, IIT - Playgrounds, IIT - Zanskar, IIT - Block I",D,events_venue,theatre,bus_station,bicycle_parking,college
+33,"Which type do following POIs belong to? POIs: Hebe Health Clinic, Doctor Anjana Bhargava, Arogya Rejuvenating Point, Anchal Sharda",B,fast_food;bar,doctors,toilets,atm,nightclub
+34,"Which type do following POIs belong to? POIs: Money Changer, Roshan Forex, Veer Forex Tour & Travels, Batra Travel n Forex",E,garden,industrial,college,motorcycle_parking,bureau_de_change
+35,"Which type do following POIs belong to? POIs: Sulabh Toilet Complex, Sulabh Toilet Complex, Sulabh Shauchalaya, SBM Toilets",A,toilets,retail,fast_food,commercial,arts_centre
+36,"Which type do following POIs belong to? POIs: Red Coloured Gazebo, Colourful designer gazebo, Gupta Market, Brown Coloured Gazebo",C,commercial,playground,shelter,university,post_office
+37,"Which type do following POIs belong to? POIs: SmartBike, Yulu, SmartBike, SmartBike",D,townhall,pharmacy,fast_food,bicycle_rental,residential
+38,"Which type do following POIs belong to? POIs: BADMINTON COURT, D-8 Park, Sanjay Van gate (near IIFT), Deer park",B,recycling,park,apartments,fixme,retail
+39,"Which type do following POIs belong to? POIs: Batra Hospital and Medical Research Centre Blood Bank, Moolchand hospitals blood bank, Pushpawati Singhania Research Institute Blood bank, Rotary Blood Bank, Tughlakabad",B,amusement_arcade,blood_bank,food_court,bicycle_rental,school
+40,"Which type do following POIs belong to? POIs: Playing Area in Vasant Kunj Children Park, Play Area in Children's(Chaudhary) Park, Tumble House, Playing Area in Champa Park",C,taxi,atm,playground,office,doctors
+41,"Which type do following POIs belong to? POIs: Sankhyiki, Delhi Institute Of Digital Marketing, RSG Classes, Adarsh Educational Education Centre",A,prep_school,food_court,music_school,college,bus_station
+42,"Which type do following POIs belong to? POIs: J & K Bank, Astrology, Faber & Bosch, House Of Senco (Festive Edit)",C,events_venue,doctors,fixme,marketplace,bureau_de_change

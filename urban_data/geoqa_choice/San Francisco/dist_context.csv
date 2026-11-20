@@ -1,0 +1,1363 @@
+id,question,answer,A,B,C,D
+0,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Da Pan. Detailed address: 3995, Alemany Boulevard, San Francisco, California, 94132, United States
+2. gram. Detailed address: Winston Drive, San Francisco, California, 94132, United States",D,8.49,7.6,9.81,2.04
+1,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chorus. Detailed address: 30, Otis Street, Hayes Valley, Mission District, San Francisco, California, 94103, United States
+2. Millennium Lofts. Detailed address: Millennium Tower, 301, Mission Street, Transbay, South of Market, San Francisco, California, 94105, United States",D,7.97,6.23,1.16,2.85
+2,"What is the straight-line distance between the following two locations? (Unit is km)
+1. RT Rotisserie. Detailed address: 101, Oak Street, Hayes Valley, San Francisco, California, 94102, United States
+2. Edward Siyahanian, DDS. Detailed address: 2386, 15th Avenue, West Portal, San Francisco, California, 94116, United States",D,8.18,1.91,1.27,5.64
+3,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Beach Chalet Soccer Fields. Detailed address: John F Kennedy Drive, San Francisco, California, 94121, United States
+2. Sacred Heart Cathedral Preparatory School. Detailed address: Willow Street, Japantown, San Francisco, California, 94164, United States",C,14.8,12.79,7.74,2.65
+4,"What is the straight-line distance between the following two locations? (Unit is km)
+1. George Sterling Park. Detailed address: Greenwich Street, Russian Hill, San Francisco, California, 90214, United States
+2. Hotel Isabel. Detailed address: SOMA Pilipinas - Filipino Cultural Heritage District, Geary Street, Tenderloin, South of Market, San Francisco, California, 94102, United States",D,7.06,7.31,6.05,2.61
+5,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Taxi Stand at Oracle Park. Detailed address: 750, 2nd Street, South Beach, South of Market, San Francisco, California, 94107, United States
+2. Lily Cai Chinese Dance Company. Detailed address: Marina Boulevard, Marina District, San Francisco, California, 94123, United States",D,1.9,10.54,6.26,4.71
+6,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bunn Mike Vietnamese Sandwiches. Detailed address: 16th Street, San Francisco, California, 90103, United States
+2. Eric Quezada Center for Culture and Politics. Detailed address: 518, 522, Valencia Street, Mission District, San Francisco, California, 94110, United States",D,8.03,9.59,7.64,1.78
+7,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Commercial Union Assurance Building. Detailed address: 315, Montgomery Street, Union Square, South of Market, San Francisco, California, 94104, United States
+2. Most Holy Redeemer Parking Lot. Detailed address: Diamond Street, Castro District, San Francisco, California, 94114, United States",B,10.17,4.65,8.52,9.39
+8,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mission Ink. Detailed address: 2440, Mission Street, Mission District, San Francisco, California, 94110, United States
+2. Sichuan House. Detailed address: 5037, Geary Boulevard, Richmond District, San Francisco, California, 94121, United States",B,9.06,5.4,9.23,1.87
+9,"What is the straight-line distance between the following two locations? (Unit is km)
+1. gram. Detailed address: Winston Drive, San Francisco, California, 94132, United States
+2. Sushi Time. Detailed address: 2275, Market Street, Duboce Triangle, Mission District, San Francisco, California, 94114, United States",A,5.75,11.93,12.2,3.09
+10,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Barry's. Detailed address: 2280, Market Street, Duboce Triangle, Mission District, San Francisco, California, 94114, United States
+2. Mixto Latin Cuisine. Detailed address: 3914, Judah Street, Outer Sunset, Sunset District, San Francisco, California, 94166, United States",D,10.98,12.98,2.42,6.3
+11,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tommy’s Mexican Restaurant. Detailed address: 5929, Geary Boulevard, Richmond District, San Francisco, California, 94121, United States
+2. Proper Food. Detailed address: 588, Mission Bay Boulevard North, Mission Bay, South of Market, San Francisco, California, 94158, United States",A,8.17,2.45,12.49,11.42
+12,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sababa. Detailed address: 329, Kearny Street, Union Square, South of Market, San Francisco, California, 94108, United States
+2. C2 Education. Detailed address: 300C, West Portal Avenue, Saint Francis Wood, San Francisco, California, 94127, United States",C,9.35,4.56,8.23,6.5
+13,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Independence High School. Detailed address: 1350, 7th Avenue, Inner Sunset, San Francisco, California, 94122, United States
+2. San Francisco Fire Station 8. Detailed address: 36, Bluxome Street, South Beach, South of Market, San Francisco, California, 94107, United States",A,6.09,3.32,8.66,12.69
+14,"What is the straight-line distance between the following two locations? (Unit is km)
+1. MB360. Detailed address: 1200, 4th Street, Mission Bay, South of Market, San Francisco, California, 94158, United States
+2. Hamilton Square Baptist Church. Detailed address: 1212, Geary Boulevard, Japantown, Western Addition, San Francisco, California, 94164, United States",B,7.27,3.15,10.34,4.34
+15,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Walgreens. Detailed address: 825, Market Street, Union Square, South of Market, San Francisco, California, 94103, United States
+2. EscapeSF. Detailed address: 602, Kearny Street, Union Square, South of Market, San Francisco, California, 94108, United States",A,0.97,8.22,6.0,5.12
+16,"What is the straight-line distance between the following two locations? (Unit is km)
+1. uccello Lounge. Detailed address: Dr. Tom Waddell Place, Civic Center, San Francisco, California, 94102, United States
+2. HOP-KICK. Detailed address: 12th Avenue, Richmond District, San Francisco, California, 94129, United States",C,6.5,6.69,4.63,1.71
+17,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Spuntino. Detailed address: Columbus Avenue, North Beach, San Francisco, California, 94133, United States
+2. Sakura Apartments. Detailed address: Japanese Cultural and Community Center of Northern California, 1840, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States",D,8.39,1.28,9.4,2.38
+18,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Over the Moon. Detailed address: 2144, Chestnut Street, Marina District, San Francisco, California, 94123, United States
+2. Skylark. Detailed address: 3089, 16th Street, Mission District, San Francisco, California, 90110, United States",B,7.55,4.25,10.29,3.03
+19,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plaid. Detailed address: 1098, Harrison Street, West SoMa, South of Market, San Francisco, California, 94103, United States
+2. A.P. Giannini Plaza. Detailed address: Commercial Union Assurance Building, 315, Montgomery Street, Union Square, South of Market, San Francisco, California, 94104, United States",C,8.75,3.18,1.83,3.44
+20,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sushi Time. Detailed address: 2275, Market Street, Duboce Triangle, Mission District, San Francisco, California, 94114, United States
+2. Las Palmeras. Detailed address: Mission Street, Mission District, San Francisco, California, 94110, United States",B,6.38,1.72,3.64,8.86
+21,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Burke & Black. Detailed address: 380, Golden Gate Avenue, Civic Center, South of Market, San Francisco, California, 94102, United States
+2. Coffee Cantata. Detailed address: 1708, Haight Street, Haight-Ashbury, San Francisco, California, 94117, United States",C,4.86,9.33,3.25,7.94
+22,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Back to Sports. Detailed address: 342, West Portal Avenue, Saint Francis Wood, San Francisco, California, 94127, United States
+2. Yucatasia. Detailed address: Mission Street, Mission District, San Francisco, California, 90110, United States",C,11.25,2.43,5.22,9.95
+23,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hotel Warfield. Detailed address: Turk Street, Tenderloin, South of Market, San Francisco, California, 94104, United States
+2. MB360. Detailed address: 1200, 4th Street, Mission Bay, South of Market, San Francisco, California, 94158, United States",A,2.05,7.85,6.19,0.61
+24,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bonita. Detailed address: 3600, 16th Street, Duboce Triangle, Mission District, San Francisco, California, 94114, United States
+2. Regal Stonestown Galleria. Detailed address: 3251, 20th Avenue, Balboa Terrace, San Francisco, California, 94132, United States",D,12.72,12.58,11.78,5.43
+25,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Calvary Apostolic Church. Detailed address: 1869, Oakdale Avenue, Silver Terrace, Bayview District, San Francisco, California, 94124, United States
+2. Mollie Stone's. Detailed address: 635, Portola Drive, Midtown Terrace, San Francisco, California, 94127, United States",D,2.17,10.56,9.34,5.07
+26,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 18th Street Station. Detailed address: 4304, 18th Street, Castro District, San Francisco, California, 94114, United States
+2. Kama Sushi. Detailed address: 1497, Church Street, Noe Valley, Mission District, San Francisco, California, 94131, United States",A,1.8,3.2,6.56,5.53
+27,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Réveille Coffee Co.. Detailed address: 200, Columbus Avenue, Chinatown, San Francisco, California, 94133, United States
+2. Good Prospect Community Garden. Detailed address: Santa Marina Street, Bernal Heights, San Francisco, California, 94110, United States",D,0.86,13.89,5.24,6.5
+28,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Brocklebank Garage. Detailed address: 1040, Sacramento Street, Chinatown, South of Market, San Francisco, California, 94109, United States
+2. San Francisco Grace Christian Church. Detailed address: 4508, Irving Street, Sunset District, San Francisco, California, 94122, United States",D,12.8,11.43,4.89,9.13
+29,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Franklin Pharmacy. Detailed address: 1506;1508;1510, Franklin Street, Japantown, Western Addition, San Francisco, California, 94164, United States
+2. Piraat Pizzeria & Rotisserie. Detailed address: 696, Sutter Street, Lower Nob Hill, South of Market, San Francisco, California, 94102, United States",A,1.04,8.57,8.78,8.8
+30,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fresh Bay Cafe. Detailed address: 3659;3661, Buchanan Street, Marina District, San Francisco, California, 94123, United States
+2. Noe Bagels. Detailed address: 3931;3933, 24th Street, Noe Valley, Mission District, San Francisco, California, 94114, United States",A,5.83,7.47,11.22,10.23
+31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chase. Detailed address: 2nd Street, Transbay, South of Market, San Francisco, California, 94105, United States
+2. Sandy's Muffulettas. Detailed address: 1457, Haight Street, Haight-Ashbury, San Francisco, California, 94177, United States",A,4.52,0.66,7.41,5.86
+32,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Alkain Hotel. Detailed address: SOMA Pilipinas - Filipino Cultural Heritage District, Geary Street, Tenderloin, South of Market, San Francisco, California, 94102, United States
+2. Youngblood-Coleman Playground. Detailed address: Lane Street, Bayview District, San Francisco, California, 94188, United States",B,12.15,5.22,1.02,6.34
+33,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bay Area Smash Room. Detailed address: 1005, Market Street, Tenderloin, South of Market, San Francisco, California, 94103, United States
+2. Toast Eatery. Detailed address: 1748, Church Street, Noe Valley, Mission District, San Francisco, California, 94131, United States",C,6.48,10.57,4.56,2.93
+34,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Harlot. Detailed address: 46, Minna Street, Transbay, South of Market, San Francisco, California, 94105, United States
+2. Dental Health of San Francisco. Detailed address: 2415;2421;2427, Noriega Street, Sunset District, San Francisco, California, 94116, United States",D,12.46,10.32,14.02,8.96
+35,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Robert Pender Park. Detailed address: Juan Bautista Circle, Parkmerced, San Francisco, California, 94132, United States
+2. Station I. Detailed address: 131, 8th Street, West SoMa, South of Market, San Francisco, California, 94103, United States",D,13.45,4.92,2.26,8.74
+36,"What is the straight-line distance between the following two locations? (Unit is km)
+1. One Card Value Station. Detailed address: San Francisco State University, 1600, Holloway Avenue, San Francisco, California, 94132, United States
+2. Chevron. Detailed address: 1790, Lombard Street, Cow Hollow, San Francisco, California, 94123, United States",C,6.12,4.66,9.74,16.25
+37,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Korean Martial Arts Center. Detailed address: 1414, Ocean Avenue, Ingleside, San Francisco, California, 94112, United States
+2. Zion Lutheran Church. Detailed address: 495, 9th Avenue, Inner Richmond, Richmond District, San Francisco, California, 94118, United States",A,6.14,12.12,3.38,11.18
+38,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Seniore's Pizza. Detailed address: 456, Haight Street, Lower Haight, Western Addition, San Francisco, California, 94117, United States
+2. El Burrito Express. Detailed address: 1812, Divisadero Street, Lower Pacific Heights, Western Addition, San Francisco, California, 94115, United States",D,6.62,6.14,7.5,1.81
+39,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Crazy Horse Gentlemen's Club. Detailed address: 980, Market Street, Tenderloin, South of Market, San Francisco, California, 94102, United States
+2. 333 Bush. Detailed address: 333, Bush Street, Union Square, South of Market, San Francisco, California, 94108, United States",B,3.69,1.06,7.59,8.63
+40,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ENO Wine Bar. Detailed address: 335, Powell Street, Union Square, South of Market, San Francisco, California, 94102, United States
+2. Saison Cellar & Wine Bar: Member's Cellar. Detailed address: 228, Townsend Street, South Beach, South of Market, San Francisco, California, 94107, United States",A,1.7,9.28,0.65,6.16
+41,"What is the straight-line distance between the following two locations? (Unit is km)
+1. San Francisco Chinese Parent Committee School. Detailed address: 827;829, Stockton Street, Chinatown, South of Market, San Francisco, California, 94108, United States
+2. Family Dentistry. Detailed address: 3520, Balboa Street, Outer Richmond, San Francisco, California, 94121, United States",C,11.06,5.46,8.05,1.63
+42,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Youngblood-Coleman Playground. Detailed address: Lane Street, Bayview District, San Francisco, California, 94188, United States
+2. Twelve Hundred California. Detailed address: 1200, California Street, Lower Nob Hill, South of Market, San Francisco, California, 94164, United States",A,6.44,1.61,4.68,4.6
+43,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Great Northern. Detailed address: 119, Utah Street, South of Market, San Francisco, California, 94103, United States
+2. Crepe Cafe. Detailed address: Pier 39, Fisherman's Wharf, San Francisco, California, 94133, United States",D,1.56,11.11,8.22,4.67
+44,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bail Hotline Bail Bonds. Detailed address: SOMA Pilipinas - Filipino Cultural Heritage District, Geary Street, Tenderloin, South of Market, San Francisco, California, 94102, United States
+2. Machine Shop. Detailed address: 20th Street, Pier 70, San Francisco, California, 94158, United States",D,6.21,7.08,4.62,2.25
+45,"What is the straight-line distance between the following two locations? (Unit is km)
+1. JW Marriott. Detailed address: 515, Mason Street, Union Square, South of Market, San Francisco, California, 94102, United States
+2. The Pacific. Detailed address: 2121, Webster Street, Pacific Heights, San Francisco, California, 94115, United States",D,9.41,6.88,6.1,1.99
+46,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cha Cha Cha. Detailed address: 2327, Mission Street, Mission District, San Francisco, California, 94110, United States
+2. Michael J. Perona, D.D.S.. Detailed address: 188, Spear Street, Rincon Hill, South of Market, San Francisco, California, 94105, United States",C,6.63,6.77,4.17,7.09
+47,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Supremo's Pizza. Detailed address: 6th Street, West SoMa, South of Market, San Francisco, California, 94104, United States
+2. Unlimited Biking. Detailed address: 765, Beach Street, Fisherman's Wharf, San Francisco, California, 90214, United States",C,1.24,9.99,3.01,9.1
+48,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bay View Boat Club. Detailed address: 489, Terry A. François Boulevard, Mission Bay, South of Market, San Francisco, California, 94158, United States
+2. Burger King Parking. Detailed address: Bayshore Boulevard, Bayview District, San Francisco, California, 94124, United States",A,3.38,4.64,7.3,6.67
+49,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Coca-Cola. Detailed address: Salesforce Transit Center, 425, Mission Street, Transbay, South of Market, San Francisco, California, 94105, United States
+2. Richmond Neighborhood Family Dental. Detailed address: 3585, Balboa Street, Outer Richmond, San Francisco, California, 94121, United States",C,5.45,1.5,8.9,14.42
+50,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Amasia Hide's Sushi Bar. Detailed address: 149, Noe Street, Western Addition, San Francisco, California, 94143, United States
+2. Gateway Middle School. Detailed address: 1512, Golden Gate Avenue, Fillmore District, Western Addition, San Francisco, California, 94115, United States",B,9.09,1.41,7.98,7.83
+51,"What is the straight-line distance between the following two locations? (Unit is km)
+1. New Traditions Elementary School. Detailed address: 2049, Grove Street, Haight-Ashbury, San Francisco, California, 94117, United States
+2. Elite Educational Institute. Detailed address: 1410, Irving Street, Inner Sunset, San Francisco, California, 94122, United States",D,9.48,5.73,4.71,2.32
+52,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Transbay Tube. Detailed address: San Francisco, California, United States
+2. Casa de la Raza. Detailed address: Mission-Bartlett Garage, 3255, 21st Street, Mission District, San Francisco, California, 94110, United States",A,7.99,3.82,1.42,12.84
+53,"What is the straight-line distance between the following two locations? (Unit is km)
+1. McAllister Hotel. Detailed address: 268;270;272, McAllister Street, Civic Center, South of Market, San Francisco, California, 94102, United States
+2. Landmark Building A. Detailed address: Radhaus, 2, Marina Boulevard, Marina District, San Francisco, California, 94123, United States",A,3.17,4.66,6.9,8.65
+54,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bank of America. Detailed address: 1844, Market Street, Western Addition, San Francisco, California, 94102, United States
+2. Little Original Joe's. Detailed address: 393, West Portal Avenue, Saint Francis Wood, San Francisco, California, 94127, United States",A,5.58,1.85,9.64,9.4
+55,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lucky Creation. Detailed address: 854, Washington Street, Chinatown, San Francisco, California, 94113, United States
+2. Ming Garden. Detailed address: 700, Monterey Boulevard, Westwood Park, San Francisco, California, 94127, United States",C,11.98,9.16,8.03,13.71
+56,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 77 Chinese Cuisine & Hawaiian. Detailed address: 77, Battery Street, Transbay, South of Market, San Francisco, California, 94111, United States
+2. Los Hermanos. Detailed address: 2024;2026;2032, Chestnut Street, Marina District, San Francisco, California, 94123, United States",B,10.18,3.41,1.0,1.22
+57,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Good Luck Dim Sum. Detailed address: 736, Clement Street, Inner Richmond, Richmond District, San Francisco, California, 94118, United States
+2. Aces. Detailed address: 998, Sutter Street, Lower Nob Hill, South of Market, San Francisco, California, 94109, United States",C,5.9,9.84,4.49,11.63
+58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Power Exchange. Detailed address: 220, Jones Street, Tenderloin, South of Market, San Francisco, California, 94102, United States
+2. Gehl Studio. Detailed address: 20th Street, Mission District, San Francisco, California, 90110, United States",B,6.77,2.71,6.8,4.13
+59,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Union Square. Detailed address: Garage, Post Street, Union Square, South of Market, San Francisco, California, 94108, United States
+2. George Sterling Park. Detailed address: Greenwich Street, Russian Hill, San Francisco, California, 90214, United States",C,5.24,9.44,1.88,6.1
+60,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Regal Stonestown Galleria. Detailed address: 3251, 20th Avenue, Balboa Terrace, San Francisco, California, 94132, United States
+2. Mighty Pilates. Detailed address: 3650;3652;3654;3656;3658;3660;3662;3664, Sacramento Street, Presidio Heights, San Francisco, California, 94118, United States",D,0.63,0.94,4.3,6.8
+61,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Most Holy Redeemer Parking Lot. Detailed address: Diamond Street, Castro District, San Francisco, California, 94114, United States
+2. Little Hollywood Park. Detailed address: Little Hollywood Children’s Play Area, Lathrop Avenue, Little Hollywood, San Francisco, California, 94134, United States",C,2.58,11.47,6.51,0.84
+62,"What is the straight-line distance between the following two locations? (Unit is km)
+1. All Star Cafe. Detailed address: 1500, Market Street, Hayes Valley, San Francisco, California, 94102, United States
+2. USCGC Aspen. Detailed address: 1, Fresnel Way, Buoy Depot, San Francisco, California, 94130, United States",A,6.32,1.59,9.22,0.94
+63,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Taxi Stand at Grand Hyatt (along Sutter St in front of Starbucks). Detailed address: 395, Sutter Street, Union Square, South of Market, San Francisco, California, 94108, United States
+2. Bistro Gambrinus. Detailed address: 1813, Fulton Street, North of Panhandle, San Francisco, California, 94117, United States",B,7.64,3.85,9.48,5.31
+64,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Arden Wood. Detailed address: 445, Wawona Street, West Portal, San Francisco, California, 94127, United States
+2. Japanese American Association of Northern California. Detailed address: 1759, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States",B,0.7,6.67,13.75,4.3
+65,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mezzanine. Detailed address: 444, Jessie Street, West SoMa, South of Market, San Francisco, California, 94103, United States
+2. Hardwood Bar & Smokery. Detailed address: 680, 8th Street, West SoMa, South of Market, San Francisco, California, 94103, United States",B,8.79,1.37,5.53,5.73
+66,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rossi Pool. Detailed address: 600, Arguello Boulevard, Inner Richmond, Richmond District, San Francisco, California, 94118, United States
+2. First Republic. Detailed address: 10;18;2;22, Battery Street, Transbay, South of Market, San Francisco, California, 94111, United States",C,10.94,10.22,5.36,11.7
+67,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Coffee Cantata. Detailed address: 1708, Haight Street, Haight-Ashbury, San Francisco, California, 94117, United States
+2. Mo's Grill. Detailed address: 1322, Grant Avenue, North Beach, San Francisco, California, 94113, United States",D,9.92,7.12,10.35,5.04
+68,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Polam Federal Credit Union. Detailed address: 5923, Geary Boulevard, Richmond District, San Francisco, California, 94121, United States
+2. St. Regis Hotel Lobby Bar. Detailed address: 125, 3rd Street, Transbay, South of Market, San Francisco, California, 94105, United States",A,7.23,12.92,11.09,2.58
+69,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pier 9. Detailed address: Herb Caen Way..., Telegraph Hill, San Francisco, California, 94111, United States
+2. Tang Fat Enterprises Company. Detailed address: 1338, Stockton Street, North Beach, San Francisco, California, 94133, United States",B,8.61,1.05,6.79,3.84
+70,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ristorante Parma. Detailed address: 3314, Steiner Street, Marina District, San Francisco, California, 94123, United States
+2. Just For You. Detailed address: 732, 22nd Street, Dogpatch, San Francisco, California, 94107, United States",C,4.72,12.35,6.34,13.69
+71,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Starbucks. Detailed address: 1, Letterman Drive, San Francisco, California, 94129, United States
+2. El Corazón Café. Detailed address: 2301;2303, Mission Street, Mission District, San Francisco, California, 90110, United States",B,1.79,5.11,9.17,11.77
+72,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Taqueria Castillo. Detailed address: 86, McAllister Street, Tenderloin, South of Market, San Francisco, California, 94102, United States
+2. Glen Park Mail Depot. Detailed address: 2912, Diamond Street, Glen Park, San Francisco, California, 94131, United States",A,5.62,4.02,8.48,7.24
+73,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hotel Union. Detailed address: 811, Geary Street, Lower Nob Hill, South of Market, San Francisco, California, 94109, United States
+2. U-Haul. Detailed address: James Lick Freeway, Portola, Bayview District, San Francisco, California, 94134, United States",B,14.36,6.93,11.88,8.94
+74,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Snowbird Coffee. Detailed address: 1352A, 9th Avenue, Inner Sunset, San Francisco, California, 94122, United States
+2. Cafe Insalata. Detailed address: 209, Jackson Street, Financial District, San Francisco, California, 94111, United States",C,4.09,11.27,6.94,2.86
+75,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Taxi Stand at Hilton Financial District. Detailed address: 750, Kearny Street, Chinatown, San Francisco, California, 94108, United States
+2. OddJob. Detailed address: 1337, Mission Street, Civic Center, South of Market, San Francisco, California, 94103, United States",B,0.79,2.32,6.18,5.23
+76,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Danny Coyles. Detailed address: 668, Haight Street, Lower Haight, Western Addition, San Francisco, California, 94117, United States
+2. Feng Cha. Detailed address: 99, Mission Street, Union Square, South of Market, San Francisco, California, 94104, United States",B,10.53,2.99,8.9,7.16
+77,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mo's Grill. Detailed address: 1322, Grant Avenue, North Beach, San Francisco, California, 94113, United States
+2. St. Francis Yacht Club. Detailed address: 700, Marina Boulevard, San Francisco, California, 94123, United States",B,1.85,3.61,8.76,10.46
+78,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Spicy King. Detailed address: Waverly Place, Chinatown, South of Market, San Francisco, California, 94108, United States
+2. Vinorosso Enoteca. Detailed address: Anderson Street, Bernal Heights, San Francisco, California, 94110, United States",D,13.54,1.64,0.6,6.15
+79,"What is the straight-line distance between the following two locations? (Unit is km)
+1. My Cup of Tea (Cool Tea Bar). Detailed address: 2666, Ocean Avenue, Balboa Terrace, San Francisco, California, 94127, United States
+2. Pizzeria & Grill. Detailed address: Bay Street, Fisherman's Wharf, San Francisco, California, 94133, United States",A,9.76,5.94,12.52,15.18
+80,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Saison Cellar & Wine Bar: Member's Cellar. Detailed address: 228, Townsend Street, South Beach, South of Market, San Francisco, California, 94107, United States
+2. Voice of Christ Church. Detailed address: 680, Guerrero Street, Mission District, San Francisco, California, 94143, United States",C,1.52,7.26,3.33,10.74
+81,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hotel Isabel. Detailed address: SOMA Pilipinas - Filipino Cultural Heritage District, Geary Street, Tenderloin, South of Market, San Francisco, California, 94102, United States
+2. Tenderloin Police Station. Detailed address: 301, Eddy Street, Tenderloin, South of Market, San Francisco, California, 94102, United States",C,4.34,3.09,0.54,2.29
+82,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chevron. Detailed address: 1790, Lombard Street, Cow Hollow, San Francisco, California, 94123, United States
+2. Gangnam Korean BBQ. Detailed address: The Cafe, Underground Parking Entrance, Balboa Terrace, San Francisco, California, 94312, United States",C,12.4,7.59,9.03,14.94
+83,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Saint Aidans Episcopal Church. Detailed address: Douglass Street, Noe Valley, San Francisco, California, 94131, United States
+2. Hôtel Biron. Detailed address: 45, Rose Street, Hayes Valley, San Francisco, California, 94102, United States",C,10.61,10.0,3.37,6.75
+84,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Java on Ocean Cafe. Detailed address: 1700, Ocean Avenue, Westwood Park, San Francisco, California, 94112, United States
+2. Fort Point Beer Company. Detailed address: 742, Valencia Street, Mission District, San Francisco, California, 90110, United States",A,5.24,10.99,11.18,1.39
+85,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Elite Educational Institute. Detailed address: 1410, Irving Street, Inner Sunset, San Francisco, California, 94122, United States
+2. Pupuseria El Golazo. Detailed address: Geneva Avenue, Crocker-Amazon, San Francisco, California, 94134, United States",A,6.75,2.81,8.36,4.11
+86,"What is the straight-line distance between the following two locations? (Unit is km)
+1. San Francisco Fire Credit Union. Detailed address: 3201, California Street, Laurel Heights, San Francisco, California, 94118, United States
+2. CorePower Yoga. Detailed address: 150, Van Ness Avenue, Hayes Valley, San Francisco, California, 94102, United States",B,10.26,2.7,4.95,0.87
+87,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 76. Detailed address: Ocean Avenue, Ingleside, San Francisco, California, 94112, United States
+2. Shoshin Sushi. Detailed address: 2450, Clement Street, Seacliff, Richmond District, San Francisco, California, 94121, United States",C,5.53,4.31,7.17,10.17
+88,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Credo. Detailed address: 358;360, Pine Street, Transbay, South of Market, San Francisco, California, 94111, United States
+2. Nara Sushi. Detailed address: 1515, Polk Street, Polk Gulch, San Francisco, California, 94109, United States",D,8.04,3.29,8.31,1.67
+89,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Serra Mortuary. Detailed address: 1465, Valencia Street, Mission District, San Francisco, California, 94110, United States
+2. SIT & REACH. Detailed address: 9th Avenue, Inner Richmond, Richmond District, San Francisco, California, 94129, United States",B,12.28,5.93,9.46,9.1
+90,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tony's Cable Car. Detailed address: 2500, Geary Boulevard, Anza Vista, Western Addition, San Francisco, California, 94115, United States
+2. Toyama. Detailed address: 3727;3729, Geary Boulevard, Jordan Park, Richmond District, San Francisco, California, 94118, United States",C,8.61,5.12,1.3,5.41
+91,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lush Lounge. Detailed address: 1221, Polk Street, Polk Gulch, San Francisco, California, 94164, United States
+2. Fresh Bay Cafe. Detailed address: 3659;3661, Buchanan Street, Marina District, San Francisco, California, 94123, United States",B,5.71,2.1,4.99,4.22
+92,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ming Garden. Detailed address: 700, Monterey Boulevard, Westwood Park, San Francisco, California, 94127, United States
+2. Walker Theater. Detailed address: 25, Van Ness Avenue, Hayes Valley, San Francisco, California, 94102, United States",A,5.6,3.33,13.08,9.34
+93,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Senator. Detailed address: 515, Ellis Street, Little Saigon, South of Market, San Francisco, California, 94102, United States
+2. Fort Scott Field. Detailed address: Storey Avenue, San Francisco, California, 94129, United States",D,3.85,1.97,9.65,5.65
+94,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Livat Mall. Detailed address: SOMA Pilipinas - Filipino Cultural Heritage District, Geary Street, Tenderloin, South of Market, San Francisco, California, 94102, United States
+2. Arguello Pet Hospital. Detailed address: 530, Arguello Boulevard, Jordan Park, Richmond District, San Francisco, California, 94118, United States",A,4.38,9.2,9.97,10.22
+95,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Contigo Kitchen + Cava. Detailed address: Castro Street, Noe Valley, Mission District, San Francisco, California, 94114, United States
+2. Temple United Methodist Church. Detailed address: Shields Street, Ocean View, San Francisco, California, 94132, United States",A,4.97,11.85,2.31,3.03
+96,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Orale Orale. Detailed address: 113, Sacramento Street, Financial District, San Francisco, California, 94111, United States
+2. Sullivan Funeral and Cremation Services. Detailed address: 2254, Market Street, Duboce Triangle, Mission District, San Francisco, California, 94143, United States",D,11.17,5.52,6.96,4.49
+97,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mamacita. Detailed address: 2317, Chestnut Street, Marina District, San Francisco, California, 94123, United States
+2. Purely Physical Fitness. Detailed address: 25th Street, Noe Valley, Mission District, San Francisco, California, 94110, United States",B,10.07,5.69,1.71,4.42
+98,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dorothy Day Community. Detailed address: 54;70, McAllister Street, Tenderloin, South of Market, San Francisco, California, 94102, United States
+2. San Francisco Fire Station 28. Detailed address: 1814, Stockton Street, North Beach, San Francisco, California, 94133, United States",B,4.68,2.39,4.08,5.32
+99,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Valencia Dental. Detailed address: 3532, 20th Street, Mission District, San Francisco, California, 94110, United States
+2. Kanbar Performing Arts Center. Detailed address: 44, Page Street, Hayes Valley, San Francisco, California, 94102, United States",C,3.1,6.4,1.76,8.38
+100,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Arkansas Friendship Community Garden. Detailed address: Arkansas Street, Potrero Hill, San Francisco, California, 90103, United States
+2. Sutter Pub & Restaurant. Detailed address: 700, Sutter Street, Lower Nob Hill, South of Market, San Francisco, California, 94108, United States",B,5.24,3.73,6.31,9.55
+101,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Live Sushi Bar. Detailed address: 2001, 17th Street, Potrero Hill, Mission District, San Francisco, California, 90103, United States
+2. Good Luck Dim Sum. Detailed address: 736, Clement Street, Inner Richmond, Richmond District, San Francisco, California, 94118, United States",D,2.08,2.28,8.43,5.95
+102,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Good Prospect Community Garden. Detailed address: Santa Marina Street, Bernal Heights, San Francisco, California, 94110, United States
+2. Local's Fitness. Detailed address: 2940, Geary Boulevard, Laurel Heights, San Francisco, California, 94118, United States",B,10.22,5.38,8.34,7.26
+103,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Eagle Cafe. Detailed address: Pier 39, Fisherman's Wharf, San Francisco, California, 94133, United States
+2. The Bagel Bakery. Detailed address: Townsend Street, South Beach, South of Market, San Francisco, California, 94017, United States",D,6.93,9.45,7.32,3.63
+104,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Marvan's Cell Care iPhone iPad Samsung Google Pixel LG HTC MacBook & Laptop Repair Store. Detailed address: 1812, Irving Street, San Francisco, California, 94122, United States
+2. Sushi Sheng. Detailed address: 118;124;126, West Portal Avenue, West Portal, San Francisco, California, 94127, United States",A,2.83,4.88,4.65,10.33
+105,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ella Hill Hutch Community Center. Detailed address: Buchanan Street Mall, Fillmore District, Western Addition, San Francisco, California, 95115, United States
+2. HPC Ductchman's Flat Cannabis Dispensary. Detailed address: 2542;2544, 3rd Street, Dogpatch, San Francisco, California, 94158, United States",C,9.42,11.55,4.34,7.68
+106,"What is the straight-line distance between the following two locations? (Unit is km)
+1. China Express. Detailed address: 24th Street, Mission District, San Francisco, California, 94110, United States
+2. Danny Coyles. Detailed address: 668, Haight Street, Lower Haight, Western Addition, San Francisco, California, 94117, United States",C,8.77,7.42,2.52,6.8
+107,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 333 Bush. Detailed address: 333, Bush Street, Union Square, South of Market, San Francisco, California, 94108, United States
+2. Aptos Middle School. Detailed address: 105, Aptos Avenue, Balboa Terrace, San Francisco, California, 94127, United States",D,5.3,5.47,4.97,8.73
+108,"What is the straight-line distance between the following two locations? (Unit is km)
+1. El Corazón Café. Detailed address: 2301;2303, Mission Street, Mission District, San Francisco, California, 90110, United States
+2. Open House. Detailed address: 75, Laguna Street, Western Addition, San Francisco, California, 94143, United States",B,8.82,1.39,3.1,3.97
+109,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Casa de la Raza. Detailed address: Mission-Bartlett Garage, 3255, 21st Street, Mission District, San Francisco, California, 94110, United States
+2. Presidio Religious Activities Center. Detailed address: 1389, Storey Avenue, San Francisco, California, 94129, United States",A,7.24,11.14,8.88,4.44
+110,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Warwick San Francisco. Detailed address: The European, 490;498, Geary Street, Union Square, South of Market, San Francisco, California, 94108, United States
+2. Oceanside Water Pollution Control Plant. Detailed address: 3500, Great Highway, San Francisco, California, 94132, United States",B,4.4,10.57,5.14,17.02
+111,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Local's Fitness. Detailed address: 2940, Geary Boulevard, Laurel Heights, San Francisco, California, 94118, United States
+2. La Taqueria. Detailed address: 2889, Mission Street, Mission District, San Francisco, California, 94110, United States",B,6.24,4.52,0.84,9.4
+112,"What is the straight-line distance between the following two locations? (Unit is km)
+1. San Francisco Lawn Bowling Club. Detailed address: Bowling Green Drive, Richmond District, San Francisco, California, 94118, United States
+2. Stock Exchange Tower. Detailed address: 155, Sansome Street, Transbay, South of Market, San Francisco, California, 94111, United States",B,3.47,5.69,0.71,4.48
+113,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cream. Detailed address: 3106, 16th Street, Mission District, San Francisco, California, 94103, United States
+2. One Card Value Station. Detailed address: San Francisco State University, 1600, Holloway Avenue, San Francisco, California, 94132, United States",C,3.79,9.94,6.9,11.12
+114,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Stu's Kitchen. Detailed address: 403, Eddy Street, Tenderloin, South of Market, San Francisco, California, 94102, United States
+2. San Francisco Chinese Parent Committee School. Detailed address: 827;829, Stockton Street, Chinatown, South of Market, San Francisco, California, 94108, United States",A,1.24,4.58,5.26,4.68
+115,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Station I. Detailed address: 131, 8th Street, West SoMa, South of Market, San Francisco, California, 94103, United States
+2. Cats Coronado Hotel. Detailed address: 373;377, Ellis Street, Tenderloin, South of Market, San Francisco, California, 94102, United States",C,2.14,7.42,0.81,5.54
+116,"What is the straight-line distance between the following two locations? (Unit is km)
+1. USF Seed Library. Detailed address: University of San Francisco, 2130, Fulton Street, Haight-Ashbury, San Francisco, California, 94117, United States
+2. Telescope Coffee. Detailed address: 451, 9th Street, West SoMa, South of Market, San Francisco, California, 94103, United States",A,3.81,9.8,8.53,1.64
+117,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Schools of the Sacred Heart San Francisco. Detailed address: Broadway, Pacific Heights, San Francisco, California, 94123, United States
+2. Mandalay. Detailed address: 4348, California Street, Presidio Terrace, Richmond District, San Francisco, California, 94118, United States",D,0.96,10.43,7.26,2.88
+118,"What is the straight-line distance between the following two locations? (Unit is km)
+1. New Hollywood Bakery & Restaurant. Detailed address: Pacific Avenue, Chinatown, San Francisco, California, 94113, United States
+2. LEG-STRETCH. Detailed address: 10th Avenue, Richmond District, San Francisco, California, 94129, United States",B,13.55,5.66,10.49,0.57
+119,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Final final. Detailed address: Lombard Street, Marina District, San Francisco, California, 94123, United States
+2. City Grazing. Detailed address: Cargo Way, Bayview District, San Francisco, California, 94188, United States",A,8.79,14.4,11.56,1.19
+120,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Asthma & Allergy Clinic of Marin and SF Inc.. Detailed address: 6850, Geary Boulevard, Outer Richmond, San Francisco, California, 94121, United States
+2. Farley's. Detailed address: 1315, 18th Street, Potrero Hill, San Francisco, California, 94107, United States",A,8.76,6.11,2.62,2.29
+121,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Biscoff. Detailed address: Pier 39, Fisherman's Wharf, San Francisco, California, 94133, United States
+2. Saap Ver. Detailed address: 88, Division Street, South of Market, San Francisco, California, 94103, United States",A,4.49,11.27,10.65,3.48
+122,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lanna Thai Cuisine. Detailed address: 1245, Noriega Street, Golden Gate Heights, Sunset District, San Francisco, California, 94122, United States
+2. Valencia Cyclery. Detailed address: 1077, Valencia Street, Mission District, San Francisco, California, 94110, United States",B,10.06,4.98,3.8,7.99
+123,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Michael J. Perona, D.D.S.. Detailed address: 188, Spear Street, Rincon Hill, South of Market, San Francisco, California, 94105, United States
+2. House of Nanking. Detailed address: 919, Kearny Street, Chinatown, San Francisco, California, 94113, United States",B,6.81,1.21,7.03,7.72
+124,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tang Fat Enterprises Company. Detailed address: 1338, Stockton Street, North Beach, San Francisco, California, 94133, United States
+2. Motel 6. Detailed address: 2850, Van Ness Avenue, Russian Hill, San Francisco, California, 90214, United States",A,1.46,3.28,8.14,6.31
+125,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Yucatasia. Detailed address: Mission Street, Mission District, San Francisco, California, 90110, United States
+2. Aha! Fresh. Detailed address: 4007, 24th Street, Noe Valley, Mission District, San Francisco, California, 94114, United States",C,9.11,9.65,1.65,7.41
+126,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Telescope Coffee. Detailed address: 451, 9th Street, West SoMa, South of Market, San Francisco, California, 94103, United States
+2. Réveille Coffee Co.. Detailed address: 200, Columbus Avenue, Chinatown, San Francisco, California, 94133, United States",C,0.52,9.19,2.82,6.39
+127,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Creative Montessori Preschool. Detailed address: 3101, Vicente Street, San Francisco, California, 94166, United States
+2. Marvan's Cell Care iPhone iPad Samsung Google Pixel LG HTC MacBook & Laptop Repair Store. Detailed address: 1812, Irving Street, San Francisco, California, 94122, United States",B,10.34,3.48,9.01,10.04
+128,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gene Friend Recreation Center. Detailed address: SOMA Pilipinas - Filipino Cultural Heritage District, Geary Street, Tenderloin, South of Market, San Francisco, California, 94102, United States
+2. SF Coin Gold & Stamp Buyer. Detailed address: 303, 12th Avenue, Inner Richmond, Richmond District, San Francisco, California, 94129, United States",D,11.63,8.28,6.85,5.71
+129,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Vasquez Coffee Company. Detailed address: Blue Greenway, Bayview District, San Francisco, California, 94188, United States
+2. Blackwood. Detailed address: 2150, Chestnut Street, Marina District, San Francisco, California, 94123, United States",A,7.91,6.17,9.26,3.83
+130,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Stock Exchange Tower. Detailed address: 155, Sansome Street, Transbay, South of Market, San Francisco, California, 94111, United States
+2. Wag Hotels. Detailed address: 25, 14th Street, Mission District, San Francisco, California, 94103, United States",A,2.82,9.71,6.13,4.49
+131,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Contract Station #11. Detailed address: Golden Gate Avenue, North of Panhandle, San Francisco, California, 94118, United States
+2. True Sunshine Episcopal Church. Detailed address: 1430, Mason Street, Nob Hill, San Francisco, California, 94133, United States",B,2.28,3.89,11.31,11.32
+132,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Poc-Chuc. Detailed address: 2886;2888, 16th Street, Mission District, San Francisco, California, 90110, United States
+2. Creative Montessori Preschool. Detailed address: 3101, Vicente Street, San Francisco, California, 94166, United States",B,2.17,7.93,5.48,1.92
+133,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Café Rito. Detailed address: 335, Powell Street, Union Square, South of Market, San Francisco, California, 94102, United States
+2. Spicy King. Detailed address: Waverly Place, Chinatown, South of Market, San Francisco, California, 94108, United States",D,2.37,4.76,2.26,0.73
+134,"What is the straight-line distance between the following two locations? (Unit is km)
+1. HOP-KICK. Detailed address: 12th Avenue, Richmond District, San Francisco, California, 94129, United States
+2. Help-U-Grow Preschool. Detailed address: 3830, Noriega Street, Outer Sunset, Sunset District, San Francisco, California, 94166, United States",D,12.27,7.17,10.85,4.84
+135,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hybrid Repair. Detailed address: 2330, Lane Street, Silver Terrace, Bayview District, San Francisco, California, 94124, United States
+2. Warwick San Francisco. Detailed address: The European, 490;498, Geary Street, Union Square, South of Market, San Francisco, California, 94108, United States",C,9.2,0.68,6.78,4.27
+136,"What is the straight-line distance between the following two locations? (Unit is km)
+1. SF Coin Gold & Stamp Buyer. Detailed address: 303, 12th Avenue, Inner Richmond, Richmond District, San Francisco, California, 94129, United States
+2. SOMA Centre. Detailed address: 236, 8th Street, West SoMa, South of Market, San Francisco, California, 94103, United States",A,5.33,3.57,4.25,10.14
+137,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cafe Insalata. Detailed address: 209, Jackson Street, Financial District, San Francisco, California, 94111, United States
+2. Buddha. Detailed address: Washington Street, Chinatown, San Francisco, California, 94113, United States",B,4.03,0.62,8.09,2.47
+138,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Buttermilk Southern Kitchen. Detailed address: 2848, 23rd Street, Mission District, San Francisco, California, 94110, United States
+2. Cafe Da Fónk. Detailed address: 300, De Haro Street, Potrero Hill, San Francisco, California, 90103, United States",C,2.89,4.22,1.41,4.29
+139,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Moscone Convention Center West. Detailed address: SOMA Pilipinas - Filipino Cultural Heritage District, Geary Street, Tenderloin, South of Market, San Francisco, California, 94102, United States
+2. Carousel. Detailed address: Kezar Drive, Cole Valley, San Francisco, California, 94117, United States",D,13.0,3.95,12.02,5.04
+140,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fort Scott Field. Detailed address: Storey Avenue, San Francisco, California, 94129, United States
+2. Enterprise Brewing Company. Detailed address: 1150, Howard Street, West SoMa, South of Market, San Francisco, California, 94103, United States",A,6.31,8.46,11.73,11.76
+141,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Little Hollywood Park. Detailed address: Little Hollywood Children’s Play Area, Lathrop Avenue, Little Hollywood, San Francisco, California, 94134, United States
+2. Saint Thomas School. Detailed address: 3801, Balboa Street, Outer Richmond, San Francisco, California, 94121, United States",D,5.01,17.79,19.05,11.51
+142,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bay Wheels. Detailed address: Precita Avenue, Bernal Heights, Mission District, San Francisco, California, 94110, United States
+2. The Chieftain Irish Pub & Restaurant. Detailed address: 198, 5th Street, West SoMa, South of Market, San Francisco, California, 94103, United States",A,3.84,10.04,8.52,6.02
+143,"What is the straight-line distance between the following two locations? (Unit is km)
+1. San Francisco Fire Station 28. Detailed address: 1814, Stockton Street, North Beach, San Francisco, California, 94133, United States
+2. SoMa West Skate Park. Detailed address: Duboce Avenue, Mission District, San Francisco, California, 90110, United States",B,9.87,3.73,11.14,8.11
+144,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Noe Valley Station. Detailed address: 4083, 24th Street, Noe Valley, Mission District, San Francisco, California, 94114, United States
+2. Le Marais Bakery Market Cafe. Detailed address: 1138, Sutter Street, Polk Gulch, San Francisco, California, 94164, United States",C,1.58,11.91,4.28,5.53
+145,"What is the straight-line distance between the following two locations? (Unit is km)
+1. City College of San Francisco - Fort Mason Center. Detailed address: 2 Building B, Marina Boulevard, Marina District, San Francisco, California, 94123, United States
+2. Live Sushi Bar. Detailed address: 2001, 17th Street, Potrero Hill, Mission District, San Francisco, California, 90103, United States",A,5.29,3.71,2.4,7.75
+146,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Prospect. Detailed address: 300, Spear Street, Rincon Hill, South of Market, San Francisco, California, 94105, United States
+2. Sunset Indian Cusine. Detailed address: 642, Irving Street, Inner Sunset, San Francisco, California, 94122, United States",C,9.71,1.15,7.11,5.26
+147,"What is the straight-line distance between the following two locations? (Unit is km)
+1. C2 Education. Detailed address: 300C, West Portal Avenue, Saint Francis Wood, San Francisco, California, 94127, United States
+2. Cafe 450 Eurest Dining. Detailed address: 450, Golden Gate Avenue, Civic Center, San Francisco, California, 94102, United States",A,6.59,14.45,7.78,11.0
+148,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Randolph Yip, DDS. Detailed address: 4800;4804, Geary Boulevard, Inner Richmond, Richmond District, San Francisco, California, 94118, United States
+2. Metropolitan Bank. Detailed address: 1351, Powell Street, Chinatown, San Francisco, California, 94133, United States",A,5.63,2.1,12.63,2.24
+149,"What is the straight-line distance between the following two locations? (Unit is km)
+1. HAND-WALK. Detailed address: Middle Drive West, Sunset District, San Francisco, California, 94121, United States
+2. Joe and the Juice. Detailed address: 235, Montgomery Street, Union Square, South of Market, San Francisco, California, 94104, United States",C,2.07,3.43,8.62,5.19
+150,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Landmark Building A. Detailed address: Radhaus, 2, Marina Boulevard, Marina District, San Francisco, California, 94123, United States
+2. Independence High School. Detailed address: 1350, 7th Avenue, Inner Sunset, San Francisco, California, 94122, United States",B,10.14,5.54,8.69,2.79
+151,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 50 Beale Street. Detailed address: 50, Beale Street, Transbay, South of Market, San Francisco, California, 94105, United States
+2. Robert Pender Park. Detailed address: Juan Bautista Circle, Parkmerced, San Francisco, California, 94132, United States",A,10.84,17.13,9.79,16.71
+152,"What is the straight-line distance between the following two locations? (Unit is km)
+1. IHOP. Detailed address: 200, Beach Street, Fisherman's Wharf, San Francisco, California, 94133, United States
+2. Peninsula Sea Food Restaurant. Detailed address: 631;637;641, Jackson Street, Chinatown, San Francisco, California, 94113, United States",B,6.01,1.44,3.56,6.48
+153,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Voice of Christ Church. Detailed address: 680, Guerrero Street, Mission District, San Francisco, California, 94143, United States
+2. Peet's Coffee. Detailed address: 1400, Mission Street, Civic Center, South of Market, San Francisco, California, 94103, United States",D,5.31,9.51,7.22,1.79
+154,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ace parking. Detailed address: The Embarcadero, Financial District, San Francisco, California, 94111, United States
+2. Bay View Boat Club. Detailed address: 489, Terry A. François Boulevard, Mission Bay, South of Market, San Francisco, California, 94158, United States",A,3.02,5.46,9.75,9.61
+155,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Los Hermanos. Detailed address: 2024;2026;2032, Chestnut Street, Marina District, San Francisco, California, 94123, United States
+2. Mezzanine. Detailed address: 444, Jessie Street, West SoMa, South of Market, San Francisco, California, 94103, United States",D,4.52,4.89,9.95,3.26
+156,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ENTRANCE Parking (2nd Floor). Detailed address: Sutter Stockton Garage, 444, Stockton Street, Union Square, South of Market, San Francisco, California, 94108, United States
+2. Bank of America. Detailed address: 1844, Market Street, Western Addition, San Francisco, California, 94102, United States",D,6.06,4.77,5.35,2.57
+157,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The UPS Store. Detailed address: Clay Street, Financial District, San Francisco, California, 94111, United States
+2. La Traviata. Detailed address: 2854, Mission Street, Mission District, San Francisco, California, 94110, United States",D,9.43,7.74,2.14,5.23
+158,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Yolo. Detailed address: 333, 11th Street, West SoMa, Mission District, San Francisco, California, 94103, United States
+2. The Civic. Detailed address: 101, Polk Street, Civic Center, San Francisco, California, 94102, United States",B,7.45,0.83,2.52,8.82
+159,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 46. Detailed address: Serrano Drive, Parkmerced, San Francisco, California, 94132, United States
+2. San Francisco Lawn Bowling Club. Detailed address: Bowling Green Drive, Richmond District, San Francisco, California, 94118, United States",D,10.27,12.37,9.09,5.87
+160,"What is the straight-line distance between the following two locations? (Unit is km)
+1. East West Bank. Detailed address: 1241, Stockton Street, Chinatown, San Francisco, California, 94113, United States
+2. Bay Area Smash Room. Detailed address: 1005, Market Street, Tenderloin, South of Market, San Francisco, California, 94103, United States",A,1.7,3.59,8.56,5.09
+161,"What is the straight-line distance between the following two locations? (Unit is km)
+1. El Burrito Express. Detailed address: 1812, Divisadero Street, Lower Pacific Heights, Western Addition, San Francisco, California, 94115, United States
+2. Taxi Stand at Fairmont Hotel. Detailed address: 900, Mason Street, Lower Nob Hill, South of Market, San Francisco, California, 94108, United States",D,7.42,7.17,9.82,2.63
+162,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Family Dentistry. Detailed address: 3520, Balboa Street, Outer Richmond, San Francisco, California, 94121, United States
+2. Bubba Gump Shrimp Company. Detailed address: Pier 39, Fisherman's Wharf, San Francisco, California, 94133, United States",B,3.85,8.55,2.22,9.96
+163,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Oceanside Water Pollution Control Plant. Detailed address: 3500, Great Highway, San Francisco, California, 94132, United States
+2. Ritz Hotel. Detailed address: 225, Taylor Street, Tenderloin, South of Market, San Francisco, California, 94102, United States",D,5.41,14.72,6.87,10.38
+164,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Coqueta. Detailed address: Pier 5, The Embarcadero, Financial District, San Francisco, California, 94111, United States
+2. The Valencia Room. Detailed address: 645;647, Valencia Street, Mission District, San Francisco, California, 90110, United States",C,6.27,6.9,4.56,11.91
+165,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bubba Gump Shrimp Company. Detailed address: Pier 39, Fisherman's Wharf, San Francisco, California, 94133, United States
+2. Grace. Detailed address: 151, 3rd Street, Transbay, South of Market, San Francisco, California, 94103, United States",D,9.96,7.4,4.08,2.95
+166,"What is the straight-line distance between the following two locations? (Unit is km)
+1. FedEx Office. Detailed address: 303, 2nd Street, Rincon Hill, South of Market, San Francisco, California, 94105, United States
+2. Marathon. Detailed address: 4501, Geary Boulevard, Inner Richmond, Richmond District, San Francisco, California, 94118, United States",B,10.84,6.39,12.23,14.09
+167,"What is the straight-line distance between the following two locations? (Unit is km)
+1. U-Haul. Detailed address: James Lick Freeway, Portola, Bayview District, San Francisco, California, 94134, United States
+2. Moscone Convention Center West. Detailed address: SOMA Pilipinas - Filipino Cultural Heritage District, Geary Street, Tenderloin, South of Market, San Francisco, California, 94102, United States",D,3.32,4.67,11.56,6.45
+168,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Caffe Pazzo. Detailed address: 2, Henry Adams Street, South of Market, San Francisco, California, 94103, United States
+2. Chicos Pizza. Detailed address: 468, Ellis Street, Tenderloin, South of Market, San Francisco, California, 94102, United States",B,7.6,1.91,3.06,4.89
+169,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sushi Sheng. Detailed address: 118;124;126, West Portal Avenue, West Portal, San Francisco, California, 94127, United States
+2. Prospect. Detailed address: 300, Spear Street, Rincon Hill, South of Market, San Francisco, California, 94105, United States",A,8.75,15.61,6.63,3.71
+170,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Chieftain Irish Pub & Restaurant. Detailed address: 198, 5th Street, West SoMa, South of Market, San Francisco, California, 94103, United States
+2. Purple Iris Physical Therapy. Detailed address: 1404, Church Street, Noe Valley, Mission District, San Francisco, California, 94110, United States",B,2.79,4.17,7.69,7.44
+171,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sacred Heart Cathedral Preparatory School. Detailed address: Willow Street, Japantown, San Francisco, California, 94164, United States
+2. 145 TL Residences. Detailed address: 145, Leavenworth Street, Tenderloin, South of Market, San Francisco, California, 94102, United States",B,4.58,0.8,3.57,3.77
+172,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Saint Mark's Lutheran Church. Detailed address: 1135, O'Farrell Street, Japantown, Western Addition, San Francisco, California, 94164, United States
+2. Merced Branch Library. Detailed address: 155, Winston Drive, Ingleside Terraces, San Francisco, California, 94132, United States",B,4.11,7.81,11.0,9.42
+173,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hôtel Biron. Detailed address: 45, Rose Street, Hayes Valley, San Francisco, California, 94102, United States
+2. Linea Cafe. Detailed address: 3147, 18th Street, Mission District, San Francisco, California, 94110, United States",D,6.47,9.11,6.74,1.33
+174,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rams Peer Wellness Center. Detailed address: 1282, Market Street, Civic Center, South of Market, San Francisco, California, 94102, United States
+2. Pink Elephant. Detailed address: 142, Minna Street, Transbay, South of Market, San Francisco, California, 94105, United States",D,8.93,6.84,9.27,1.7
+175,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Yogi Sushi House. Detailed address: 406, Dewey Boulevard, Forest Hill, San Francisco, California, 94116, United States
+2. Zona Rosa. Detailed address: 2337, Market Street, Castro District, Mission District, San Francisco, California, 94114, United States",B,9.15,2.88,7.5,5.22
+176,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Civic. Detailed address: 101, Polk Street, Civic Center, San Francisco, California, 94102, United States
+2. Pier 9. Detailed address: Herb Caen Way..., Telegraph Hill, San Francisco, California, 94111, United States",B,4.84,3.18,5.09,4.32
+177,"What is the straight-line distance between the following two locations? (Unit is km)
+1. St. Francis Yacht Club. Detailed address: 700, Marina Boulevard, San Francisco, California, 94123, United States
+2. 4505 Burgers & BBQ. Detailed address: 705, Divisadero Street, North of Panhandle, San Francisco, California, 94117, United States",C,5.35,0.92,3.53,2.4
+178,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kama Sushi. Detailed address: 1497, Church Street, Noe Valley, Mission District, San Francisco, California, 94131, United States
+2. Barry's. Detailed address: 2280, Market Street, Duboce Triangle, Mission District, San Francisco, California, 94114, United States",D,8.48,6.9,5.26,2.04
+179,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Little Henry's. Detailed address: 3600, Balboa Street, Outer Richmond, San Francisco, California, 94121, United States
+2. Alchemist. Detailed address: 679, 3rd Street, South Beach, South of Market, San Francisco, California, 94107, United States",B,2.68,9.2,15.95,5.24
+180,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Internet Archive Scanning Center. Detailed address: Clement Street, Inner Richmond, Richmond District, San Francisco, California, 94118, United States
+2. RT Rotisserie. Detailed address: 101, Oak Street, Hayes Valley, San Francisco, California, 94102, United States",C,1.88,7.45,4.51,7.08
+181,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cafe Da Fónk. Detailed address: 300, De Haro Street, Potrero Hill, San Francisco, California, 90103, United States
+2. Franklin Pharmacy. Detailed address: 1506;1508;1510, Franklin Street, Japantown, Western Addition, San Francisco, California, 94164, United States",A,3.14,7.06,10.41,4.65
+182,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Limoncello. Detailed address: 1400, Sutter Street, Japantown, Western Addition, San Francisco, California, 94109, United States
+2. Ladle & Leaf. Detailed address: 221, Montgomery Street, Transbay, South of Market, San Francisco, California, 94108, United States",C,5.06,6.94,1.9,6.64
+183,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Langton Community Garden. Detailed address: Howard Street, West SoMa, South of Market, San Francisco, California, 94103, United States
+2. San Francisco Paint Source. Detailed address: 150, Pennsylvania Avenue, Dogpatch, San Francisco, California, 94107, United States",A,1.97,5.72,9.7,9.12
+184,"What is the straight-line distance between the following two locations? (Unit is km)
+1. OddJob. Detailed address: 1337, Mission Street, Civic Center, South of Market, San Francisco, California, 94103, United States
+2. Café Rito. Detailed address: 335, Powell Street, Union Square, South of Market, San Francisco, California, 94102, United States",C,4.41,4.13,1.44,4.46
+185,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 7D Experience. Detailed address: Pier 39, Fisherman's Wharf, San Francisco, California, 94133, United States
+2. Kumon. Detailed address: 235, West Portal Avenue, West Portal, San Francisco, California, 94127, United States",A,9.5,3.25,3.34,13.34
+186,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Blackwood. Detailed address: 2150, Chestnut Street, Marina District, San Francisco, California, 94123, United States
+2. Caffe Pazzo. Detailed address: 2, Henry Adams Street, South of Market, San Francisco, California, 94103, United States",B,11.66,4.62,1.56,8.55
+187,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Presidio Religious Activities Center. Detailed address: 1389, Storey Avenue, San Francisco, California, 94129, United States
+2. Saint Mark's Lutheran Church. Detailed address: 1135, O'Farrell Street, Japantown, Western Addition, San Francisco, California, 94164, United States",D,7.9,2.34,11.16,5.09
+188,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chinese Congregational Church. Detailed address: Walter U. Lum Place, Chinatown, San Francisco, California, 94113, United States
+2. Oodle Yunnan Rice Noodle. Detailed address: 3420, Balboa Street, Outer Richmond, San Francisco, California, 94121, United States",C,1.57,3.26,8.17,2.6
+189,"What is the straight-line distance between the following two locations? (Unit is km)
+1. San Francisco Fire Station 7. Detailed address: 2300, Folsom Street, Mission District, San Francisco, California, 94110, United States
+2. Revel Systems. Detailed address: Columbus Avenue, Chinatown, San Francisco, California, 94133, United States",D,11.46,2.22,11.3,4.18
+190,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Las Palmeras. Detailed address: Mission Street, Mission District, San Francisco, California, 94110, United States
+2. Alamo. Detailed address: Mason O'Farrell Garage, 325, Mason Street, Union Square, South of Market, San Francisco, California, 94102, United States",D,1.54,7.05,2.65,3.7
+191,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sandy's Muffulettas. Detailed address: 1457, Haight Street, Haight-Ashbury, San Francisco, California, 94177, United States
+2. Little Lady Bugs Playhouse. Detailed address: 1209, Palou Avenue, Bayview District, San Francisco, California, 94188, United States",B,9.89,7.08,2.34,1.95
+192,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lily Cai Chinese Dance Company. Detailed address: Marina Boulevard, Marina District, San Francisco, California, 94123, United States
+2. Bonita. Detailed address: 3600, 16th Street, Duboce Triangle, Mission District, San Francisco, California, 94114, United States",A,4.73,10.77,11.76,12.34
+193,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sullivan Funeral and Cremation Services. Detailed address: 2254, Market Street, Duboce Triangle, Mission District, San Francisco, California, 94143, United States
+2. Maggie McGarrys. Detailed address: 1353, Grant Avenue, North Beach, San Francisco, California, 94113, United States",C,9.82,8.74,4.37,8.87
+194,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Oasis Grill. Detailed address: SOMA Pilipinas - Filipino Cultural Heritage District, Geary Street, Tenderloin, South of Market, San Francisco, California, 94102, United States
+2. Dosa Corner. Detailed address: 1499, Valencia Street, Mission District, San Francisco, California, 94110, United States",B,9.48,4.08,1.22,10.33
+195,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Church of Perfect Liberty. Detailed address: 65, Merced Avenue, Forest Hill, San Francisco, California, 94127, United States
+2. ace parking. Detailed address: The Embarcadero, Financial District, San Francisco, California, 94111, United States",B,15.25,7.99,6.9,13.81
+196,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Queen Wilhelmina Tulip Garden. Detailed address: John F Kennedy Drive, San Francisco, California, 94121, United States
+2. San Francisco Fire Station 31. Detailed address: 441, 12th Avenue, Inner Richmond, Richmond District, San Francisco, California, 94118, United States",D,0.51,6.21,5.98,3.51
+197,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ape Do Good Printing. Detailed address: 1672, 15th Street, Mission District, San Francisco, California, 94103, United States
+2. Krav Maga Institute. Detailed address: Gough Street, Japantown, Western Addition, San Francisco, California, 94102, United States",C,4.56,3.14,1.3,5.7
+198,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Restorante Milano. Detailed address: 1444;1446;1448, Pacific Avenue, Nob Hill, San Francisco, California, 94109, United States
+2. Dr. Marcus Coplin ND - Neuropathic Healthcare. Detailed address: Ames Street, Mission District, San Francisco, California, 94110, United States",A,4.48,9.37,6.12,9.86
+199,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mama's on Washington Square. Detailed address: 1701, Stockton Street, North Beach, San Francisco, California, 94133, United States
+2. Taxi Stand at Oracle Park. Detailed address: 750, 2nd Street, South Beach, South of Market, San Francisco, California, 94107, United States",B,5.35,2.92,5.86,4.7
+200,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Powder Shaved Snow. Detailed address: 260, Divisadero Street, North of Panhandle, Western Addition, San Francisco, California, 94177, United States
+2. Lanna Thai Cuisine. Detailed address: 1245, Noriega Street, Golden Gate Heights, Sunset District, San Francisco, California, 94122, United States",D,0.59,10.01,7.95,4.05
+201,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sunset Indian Cusine. Detailed address: 642, Irving Street, Inner Sunset, San Francisco, California, 94122, United States
+2. Walgreens. Detailed address: 825, Market Street, Union Square, South of Market, San Francisco, California, 94103, United States",D,13.5,8.44,4.32,5.65
+202,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Vinorosso Enoteca. Detailed address: Anderson Street, Bernal Heights, San Francisco, California, 94110, United States
+2. Moby Dick. Detailed address: 4049, 18th Street, Castro District, Mission District, San Francisco, California, 94143, United States",C,4.53,1.81,2.91,10.15
+203,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mission Police Station. Detailed address: 630, Valencia Street, Mission District, San Francisco, California, 90110, United States
+2. 601 Leavenworth Street. Detailed address: 706, Geary Street, Lower Nob Hill, South of Market, San Francisco, California, 94102, United States",B,8.86,2.7,9.67,8.18
+204,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 4505 Burgers & BBQ. Detailed address: 705, Divisadero Street, North of Panhandle, San Francisco, California, 94117, United States
+2. USF Seed Library. Detailed address: University of San Francisco, 2130, Fulton Street, Haight-Ashbury, San Francisco, California, 94117, United States",A,1.22,3.89,7.14,9.21
+205,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Taqueria Can-cun. Detailed address: 3211, Mission Street, Bernal Heights, San Francisco, California, 94110, United States
+2. Taqueria Castillo. Detailed address: 86, McAllister Street, Tenderloin, South of Market, San Francisco, California, 94102, United States",C,8.57,2.62,4.01,7.56
+206,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Officers' Terrace. Detailed address: Infantry Terrace, San Francisco, California, 94129, United States
+2. Pa'ina. Detailed address: 1865, Post Street, Japantown, Western Addition, San Francisco, California, 94115, United States",B,4.79,2.87,5.6,9.65
+207,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Wag Hotels. Detailed address: 25, 14th Street, Mission District, San Francisco, California, 94103, United States
+2. Pacific Bay Inn. Detailed address: 474;480, O'Farrell Street, Tenderloin, South of Market, San Francisco, California, 94102, United States",A,1.96,7.46,9.49,3.77
+208,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Saucy Asian. Detailed address: 3801, 17th Street, Castro District, Mission District, San Francisco, California, 94114, United States
+2. Mama's on Washington Square. Detailed address: 1701, Stockton Street, North Beach, San Francisco, California, 94133, United States",A,4.7,3.09,9.35,8.61
+209,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Bagel Bakery. Detailed address: Townsend Street, South Beach, South of Market, San Francisco, California, 94017, United States
+2. Focus Clinic. Detailed address: 100, Pine Street, Transbay, South of Market, San Francisco, California, 94111, United States",B,6.76,1.7,9.09,5.89
+210,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Little Chihuahua. Detailed address: 581, Valencia Street, Mission District, San Francisco, California, 94110, United States
+2. Saint John the Evangelist Roman Catholic Church. Detailed address: Saint Mary's Avenue, St. Mary's Park, San Francisco, California, 94110, United States",D,8.8,5.9,6.86,3.32
+211,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Four Seasons Valet Parking Entrance. Detailed address: 757, Market Street, Union Square, South of Market, San Francisco, California, 94103, United States
+2. International Food Court. Detailed address: Kearny Street, Union Square, South of Market, San Francisco, California, 94108, United States",C,4.31,7.32,0.52,8.52
+212,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Modern Thai. Detailed address: 1247, Polk Street, Polk Gulch, San Francisco, California, 94164, United States
+2. Quickly. Detailed address: Taraval Street, San Francisco, California, 94116, United States",B,1.45,7.13,5.57,5.11
+213,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The House of Hummus. Detailed address: 5, Masonic Avenue, Laurel Heights, San Francisco, California, 94118, United States
+2. Hi Tops. Detailed address: 2247, Market Street, Duboce Triangle, Mission District, San Francisco, California, 94114, United States",B,0.65,2.38,8.11,5.52
+214,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Zante Pizza & Indian Cuisine. Detailed address: 3849, Mission Street, Bernal Heights, San Francisco, California, 94110, United States
+2. LittleNepal. Detailed address: 925, Cortland Avenue, Bernal Heights, San Francisco, California, 94110, United States",C,4.92,1.86,0.83,7.11
+215,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sakura Apartments. Detailed address: Japanese Cultural and Community Center of Northern California, 1840, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States
+2. Embarcadero SAFE Navigation Center. Detailed address: 555, Beale Street, Rincon Hill, South of Market, San Francisco, California, 94017, United States",D,7.11,9.83,1.1,3.77
+216,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bistro Gambrinus. Detailed address: 1813, Fulton Street, North of Panhandle, San Francisco, California, 94117, United States
+2. Ristorante Parma. Detailed address: 3314, Steiner Street, Marina District, San Francisco, California, 94123, United States",B,9.2,2.83,7.73,10.41
+217,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gehl Studio. Detailed address: 20th Street, Mission District, San Francisco, California, 90110, United States
+2. Grand Hyatt San Francisco. Detailed address: 345, Stockton Street, Union Square, South of Market, San Francisco, California, 94108, United States",C,11.41,0.59,3.41,5.04
+218,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mr Eco Wash. Detailed address: 3490, Cesar Chavez Street, Mission District, San Francisco, California, 94110, United States
+2. Restorante Milano. Detailed address: 1444;1446;1448, Pacific Avenue, Nob Hill, San Francisco, California, 94109, United States",B,7.11,5.24,11.0,10.96
+219,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Coco. Detailed address: 650, Market Street, Union Square, South of Market, San Francisco, California, 94104, United States
+2. Lomo Libre. Detailed address: 1824, Irving Street, San Francisco, California, 94122, United States",B,15.07,7.14,10.38,4.93
+220,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nara Sushi. Detailed address: 1515, Polk Street, Polk Gulch, San Francisco, California, 94109, United States
+2. Getaround. Detailed address: 444, Stockton Street, Union Square, South of Market, San Francisco, California, 94108, United States",D,4.45,4.61,8.86,1.26
+221,"What is the straight-line distance between the following two locations? (Unit is km)
+1. True Sunshine Episcopal Church. Detailed address: 1430, Mason Street, Nob Hill, San Francisco, California, 94133, United States
+2. Panchitas. Detailed address: 3091, 16th Street, Mission District, San Francisco, California, 90110, United States",D,6.15,7.21,5.18,3.65
+222,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mollie Stone's. Detailed address: 635, Portola Drive, Midtown Terrace, San Francisco, California, 94127, United States
+2. Hamilton Memorial Church of God in Christ. Detailed address: Geary Boulevard, Anza Vista, Western Addition, San Francisco, California, 94115, United States",D,7.69,1.9,5.36,4.35
+223,"What is the straight-line distance between the following two locations? (Unit is km)
+1. GeoSpatial Analysis Lab (GsAL). Detailed address: 2130, Fulton Street, Haight-Ashbury, San Francisco, California, 94117, United States
+2. Scott's Chowder House. Detailed address: 1325, Fillmore Street, Fillmore District, Western Addition, San Francisco, California, 94115, United States",D,3.11,6.5,4.56,1.75
+224,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 145 TL Residences. Detailed address: 145, Leavenworth Street, Tenderloin, South of Market, San Francisco, California, 94102, United States
+2. Lyft. Detailed address: 1464, Kansas Street, Potrero Terrace, San Francisco, California, 94110, United States",A,3.64,1.25,6.21,7.61
+225,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Golden Flower. Detailed address: 667, Jackson Street, Chinatown, San Francisco, California, 94113, United States
+2. Asthma & Allergy Clinic of Marin and SF Inc.. Detailed address: 6850, Geary Boulevard, Outer Richmond, San Francisco, California, 94121, United States",C,4.6,3.38,7.84,5.97
+226,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Brahma Kumaris Meditation Center. Detailed address: 401, Baker Street, North of Panhandle, San Francisco, California, 94117, United States
+2. Shabu club. Detailed address: 951, Clement Street, Inner Richmond, Richmond District, San Francisco, California, 94118, United States",C,5.84,4.1,2.63,7.59
+227,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cafe Elena. Detailed address: Steuart Street, Financial District, San Francisco, California, 94111, United States
+2. Fresco Pizza Grill Shawerma. Detailed address: 1338, Polk Street, Polk Gulch, San Francisco, California, 94164, United States",C,4.31,1.27,2.35,7.12
+228,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Piraat Pizzeria & Rotisserie. Detailed address: 696, Sutter Street, Lower Nob Hill, South of Market, San Francisco, California, 94102, United States
+2. Hard Rock Cafe. Detailed address: Pier 39, Fisherman's Wharf, San Francisco, California, 94133, United States",A,2.2,9.55,5.46,5.16
+229,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Xiao Yu's Kitchen. Detailed address: 560, Balboa Street, Inner Richmond, Richmond District, San Francisco, California, 94118, United States
+2. Nani's Cafe. Detailed address: Geary Boulevard, Laurel Heights, San Francisco, California, 94118, United States",A,1.53,6.7,4.06,3.27
+230,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 3rd and Army. Detailed address: Indiana Street, Potrero Terrace, San Francisco, California, 94124, United States
+2. FedEx Office. Detailed address: 303, 2nd Street, Rincon Hill, South of Market, San Francisco, California, 94105, United States",C,8.58,11.42,4.11,5.78
+231,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Delarosa. Detailed address: 37, Yerba Buena Lane, Union Square, South of Market, San Francisco, California, 94103, United States
+2. Grupo El Salvador. Detailed address: 3020, Mission Street, Mission District, San Francisco, California, 94110, United States",C,1.59,10.12,4.27,2.71
+232,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Duster's. Detailed address: Vallejo Street, North Beach, San Francisco, California, 94113, United States
+2. San Francisco SPCA Veterinary Hospital - Mission Campus. Detailed address: 201, Alabama Street, Mission District, San Francisco, California, 94103, United States",D,6.98,11.31,1.76,3.51
+233,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dosa Corner. Detailed address: 1499, Valencia Street, Mission District, San Francisco, California, 94110, United States
+2. Eagle Cafe. Detailed address: Pier 39, Fisherman's Wharf, San Francisco, California, 94133, United States",B,9.98,6.68,10.94,10.27
+234,"What is the straight-line distance between the following two locations? (Unit is km)
+1. San Francisco Fire Station 36. Detailed address: 109, Oak Street, Hayes Valley, San Francisco, California, 94102, United States
+2. Church of Perfect Liberty. Detailed address: 65, Merced Avenue, Forest Hill, San Francisco, California, 94127, United States",D,6.87,12.68,3.0,4.71
+235,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ladle & Leaf. Detailed address: 221, Montgomery Street, Transbay, South of Market, San Francisco, California, 94108, United States
+2. 76. Detailed address: Ocean Avenue, Ingleside, San Francisco, California, 94112, United States",B,1.78,8.78,11.43,5.18
+236,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sol Lux Alpha. Detailed address: 685, Florida Street, Mission District, San Francisco, California, 94110, United States
+2. Columbus Inn. Detailed address: Columbus Avenue & Francisco Street, Columbus Avenue, Fisherman's Wharf, San Francisco, California, 94133, United States",B,9.26,4.83,0.52,1.76
+237,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Purple Iris Physical Therapy. Detailed address: 1404, Church Street, Noe Valley, Mission District, San Francisco, California, 94110, United States
+2. Toy Soldier. Detailed address: 52, Pine Street, Union Square, South of Market, San Francisco, California, 94108, United States",A,5.22,9.09,12.02,0.83
+238,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Marilyn Reed Lucia Child Care Study Center. Detailed address: 610, Parnassus Avenue, Inner Sunset, San Francisco, California, 94122, United States
+2. Hybrid Repair. Detailed address: 2330, Lane Street, Silver Terrace, Bayview District, San Francisco, California, 94124, United States",D,4.49,9.86,12.6,7.03
+239,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Buddha. Detailed address: Washington Street, Chinatown, San Francisco, California, 94113, United States
+2. Brahma Kumaris Meditation Center. Detailed address: 401, Baker Street, North of Panhandle, San Francisco, California, 94117, United States",D,2.53,10.12,5.14,3.82
+240,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gateway Middle School. Detailed address: 1512, Golden Gate Avenue, Fillmore District, Western Addition, San Francisco, California, 94115, United States
+2. Battery Davis. Detailed address: Skyline Boulevard, San Francisco, California, 94166, United States",C,4.36,13.96,9.0,15.31
+241,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Little Free Library. Detailed address: 1300,1310,1320,1330,1340,1350,1360, 4th Street, Mission Bay, South of Market, San Francisco, California, 94158, United States
+2. Tinto. Detailed address: 1152, Valencia Street, Mission District, San Francisco, California, 94110, United States",B,8.36,3.24,8.88,8.56
+242,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Pacific. Detailed address: 2121, Webster Street, Pacific Heights, San Francisco, California, 94115, United States
+2. Brocklebank Garage. Detailed address: 1040, Sacramento Street, Chinatown, South of Market, San Francisco, California, 94109, United States",B,4.12,2.03,0.85,6.97
+243,"What is the straight-line distance between the following two locations? (Unit is km)
+1. SoMa West Skate Park. Detailed address: Duboce Avenue, Mission District, San Francisco, California, 90110, United States
+2. Gene Friend Recreation Center. Detailed address: SOMA Pilipinas - Filipino Cultural Heritage District, Geary Street, Tenderloin, South of Market, San Francisco, California, 94102, United States",C,9.46,4.67,1.59,9.58
+244,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Citibank. Detailed address: Grant Avenue, Chinatown, San Francisco, California, 94113, United States
+2. Central Coffee and Tea. Detailed address: 1686;1688;1690;1692;1694;1696, Hayes Street, North of Panhandle, San Francisco, California, 94177, United States",B,8.88,4.11,6.86,11.84
+245,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Happy Donuts. Detailed address: 1794-A, Haight Street, Haight-Ashbury, San Francisco, California, 94117, United States
+2. Sweetheart Cafe. Detailed address: 909, Grant Avenue, Chinatown, San Francisco, California, 94113, United States",C,7.28,10.12,4.9,9.09
+246,"What is the straight-line distance between the following two locations? (Unit is km)
+1. House of Nanking. Detailed address: 919, Kearny Street, Chinatown, San Francisco, California, 94113, United States
+2. Back to Sports. Detailed address: 342, West Portal Avenue, Saint Francis Wood, San Francisco, California, 94127, United States",B,1.54,8.67,3.48,15.09
+247,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Page & Laguna Community Garden. Detailed address: Page Street, Western Addition, San Francisco, California, 94143, United States
+2. Mission Ink. Detailed address: 2440, Mission Street, Mission District, San Francisco, California, 94110, United States",B,9.66,1.82,5.4,5.99
+248,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gourmet Carousel. Detailed address: 1553;1555;1557;1559, Franklin Street, Japantown, Western Addition, San Francisco, California, 94164, United States
+2. Wipeout bar & grill. Detailed address: Pier 39, Fisherman's Wharf, San Francisco, California, 94133, United States",C,6.04,0.89,2.51,4.34
+249,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Saint John the Evangelist Episcopal Church. Detailed address: Caledonia Street, Mission District, San Francisco, California, 90110, United States
+2. Travelodge by Fishermans Wharf. Detailed address: 1201, Columbus Avenue, Fisherman's Wharf, San Francisco, California, 94133, United States",C,0.51,6.7,4.33,9.06
+250,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Masala Dosa. Detailed address: 1375, 9th Avenue, Inner Sunset, San Francisco, California, 94122, United States
+2. uccello Lounge. Detailed address: Dr. Tom Waddell Place, Civic Center, San Francisco, California, 94102, United States",B,10.38,4.45,7.42,9.43
+251,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hamilton Memorial Church of God in Christ. Detailed address: Geary Boulevard, Anza Vista, Western Addition, San Francisco, California, 94115, United States
+2. Golden Gate Park. Detailed address: Overlook Drive, Richmond District, San Francisco, California, 94121, United States",B,1.45,3.79,2.64,6.43
+252,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ritz Hotel. Detailed address: 225, Taylor Street, Tenderloin, South of Market, San Francisco, California, 94102, United States
+2. San Francisco Fire Station 3. Detailed address: 1067, Post Street, Lower Nob Hill, South of Market, San Francisco, California, 94109, United States",B,2.29,0.76,6.01,4.84
+253,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Krav Maga Institute. Detailed address: Gough Street, Japantown, Western Addition, San Francisco, California, 94102, United States
+2. Post Taylor Garage. Detailed address: Derby Street, Lower Nob Hill, South of Market, San Francisco, California, 94108, United States",D,3.04,4.71,3.24,1.49
+254,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Grupo El Salvador. Detailed address: 3020, Mission Street, Mission District, San Francisco, California, 94110, United States
+2. Cha Cha Cha. Detailed address: 2327, Mission Street, Mission District, San Francisco, California, 94110, United States",C,2.46,6.29,1.22,5.38
+255,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ebenezer / herchurch Lutheran Church. Detailed address: 678, Portola Drive, Midtown Terrace, San Francisco, California, 94127, United States
+2. Fitlife. Detailed address: Bay Street, Fisherman's Wharf, San Francisco, California, 94133, United States",B,5.24,7.57,5.76,10.74
+256,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Salt Water Pumping Station #2. Detailed address: McDowell Road Southwest, San Francisco, California, 94123, United States
+2. Power Exchange. Detailed address: 220, Jones Street, Tenderloin, South of Market, San Francisco, California, 94102, United States",B,10.92,3.01,9.44,0.69
+257,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Toast Eatery. Detailed address: 1748, Church Street, Noe Valley, Mission District, San Francisco, California, 94131, United States
+2. Bunn Mike Vietnamese Sandwiches. Detailed address: 16th Street, San Francisco, California, 90103, United States",D,5.22,8.02,4.99,3.37
+258,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mission Plaza. Detailed address: Accounting & Taxes, Mission Street, Mission District, San Francisco, California, 90110, United States
+2. JW Marriott. Detailed address: 515, Mason Street, Union Square, South of Market, San Francisco, California, 94102, United States",D,0.54,1.01,7.81,2.76
+259,"What is the straight-line distance between the following two locations? (Unit is km)
+1. HPC Ductchman's Flat Cannabis Dispensary. Detailed address: 2542;2544, 3rd Street, Dogpatch, San Francisco, California, 94158, United States
+2. 50 Beale Street. Detailed address: 50, Beale Street, Transbay, South of Market, San Francisco, California, 94105, United States",D,8.86,0.58,2.25,3.83
+260,"What is the straight-line distance between the following two locations? (Unit is km)
+1. First Republic. Detailed address: 10;18;2;22, Battery Street, Transbay, South of Market, San Francisco, California, 94111, United States
+2. Bay Wheels. Detailed address: Precita Avenue, Bernal Heights, Mission District, San Francisco, California, 94110, United States",D,2.05,10.05,11.63,5.03
+261,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Green Hairstreak Corridor - Quintara Steps. Detailed address: Quintara Street, Inner Parkside, San Francisco, California, 94116, United States
+2. Alkain Hotel. Detailed address: SOMA Pilipinas - Filipino Cultural Heritage District, Geary Street, Tenderloin, South of Market, San Francisco, California, 94102, United States",D,13.67,0.81,11.91,6.71
+262,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sisters Coffee Shop. Detailed address: 506, Castro Street, Castro District, Mission District, San Francisco, California, 94114, United States
+2. Nopa Montessori. Detailed address: 2104, Hayes Street, Haight-Ashbury, San Francisco, California, 94177, United States",C,5.76,7.31,1.99,9.68
+263,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Just For You. Detailed address: 732, 22nd Street, Dogpatch, San Francisco, California, 94107, United States
+2. Starlight 2 Christian Preschool. Detailed address: 3155, Vicente Street, San Francisco, California, 94116, United States",A,10.12,6.41,16.39,11.46
+264,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chicos Pizza. Detailed address: 468, Ellis Street, Tenderloin, South of Market, San Francisco, California, 94102, United States
+2. China Express. Detailed address: 24th Street, Mission District, San Francisco, California, 94110, United States",B,9.68,3.64,11.06,8.65
+265,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Anza Branch Library. Detailed address: 550, 37th Avenue, Outer Richmond, San Francisco, California, 94121, United States
+2. Calvary Apostolic Church. Detailed address: 1869, Oakdale Avenue, Silver Terrace, Bayview District, San Francisco, California, 94124, United States",B,6.01,10.06,2.32,2.06
+266,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nani's Cafe. Detailed address: Geary Boulevard, Laurel Heights, San Francisco, California, 94118, United States
+2. Little Chihuahua. Detailed address: 581, Valencia Street, Mission District, San Francisco, California, 94110, United States",D,5.27,10.09,6.59,3.14
+267,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Would You Believe? Cocktails. Detailed address: Geary Boulevard, Inner Richmond, Richmond District, San Francisco, California, 94118, United States
+2. Avenues San Francisco. Detailed address: 3606, Taraval Street, Sunset District, San Francisco, California, 94166, United States",B,10.98,5.34,8.32,12.38
+268,"What is the straight-line distance between the following two locations? (Unit is km)
+1. El Castillito. Detailed address: 2092, Mission Street, Mission District, San Francisco, California, 90110, United States
+2. Little Breakfast. Detailed address: 3275, 22nd Street, Mission District, San Francisco, California, 94110, United States",A,0.93,5.05,8.53,5.03
+269,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Annie’s Hot Dogs & Snacks. Detailed address: Kezar Drive, Cole Valley, San Francisco, California, 94117, United States
+2. Penthouse Club San Francisco. Detailed address: 412, Broadway, Telegraph Hill, San Francisco, California, 94133, United States",A,5.83,3.96,3.98,8.84
+270,"What is the straight-line distance between the following two locations? (Unit is km)
+1. San Francisco Paint Source. Detailed address: 150, Pennsylvania Avenue, Dogpatch, San Francisco, California, 94107, United States
+2. Chorus. Detailed address: 30, Otis Street, Hayes Valley, Mission District, San Francisco, California, 94103, United States",B,5.78,2.41,4.74,6.17
+271,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Help-U-Grow Preschool. Detailed address: 3830, Noriega Street, Outer Sunset, Sunset District, San Francisco, California, 94166, United States
+2. Officers' Terrace. Detailed address: Infantry Terrace, San Francisco, California, 94129, United States",A,6.05,9.41,4.34,7.5
+272,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sweetheart Cafe. Detailed address: 909, Grant Avenue, Chinatown, San Francisco, California, 94113, United States
+2. Bi-Rite Creamery. Detailed address: 3692, 18th Street, Castro District, Mission District, San Francisco, California, 94110, United States",A,4.11,8.16,1.61,12.03
+273,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pa'ina. Detailed address: 1865, Post Street, Japantown, Western Addition, San Francisco, California, 94115, United States
+2. The Postal Chase. Detailed address: 912, Cole Street, Cole Valley, San Francisco, California, 94117, United States",C,3.99,6.79,2.66,1.43
+274,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kumon. Detailed address: 235, West Portal Avenue, West Portal, San Francisco, California, 94127, United States
+2. Cool Tea Bar. Detailed address: 103, Waverly Place, Chinatown, South of Market, San Francisco, California, 94108, United States",A,8.22,2.07,3.56,4.17
+275,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pier E. Detailed address: San Francisco – Oakland Bay Bridge, Rincon Hill, South of Market, San Francisco, California, 94017, United States
+2. Aida Hotel. Detailed address: 1083;1087, Market Street, Tenderloin, South of Market, San Francisco, California, 94102, United States",B,10.48,4.62,6.42,11.11
+276,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tsubasa Sushi. Detailed address: 429, Gough Street, Western Addition, San Francisco, California, 94102, United States
+2. Van Ness Cafe & Gyros. Detailed address: 826, Van Ness Avenue, Civic Center, San Francisco, California, 94109, United States",B,2.74,0.71,4.0,3.68
+277,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Spro. Detailed address: 500, Church Street, Duboce Triangle, Mission District, San Francisco, California, 94143, United States
+2. Bini's Kitchen. Detailed address: Market Street, Union Square, South of Market, San Francisco, California, 94104, United States",A,3.66,6.0,5.61,8.21
+278,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tenderloin Police Station. Detailed address: 301, Eddy Street, Tenderloin, South of Market, San Francisco, California, 94102, United States
+2. Schools of the Sacred Heart San Francisco. Detailed address: Broadway, Pacific Heights, San Francisco, California, 94123, United States",C,10.06,8.17,2.24,6.27
+279,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Max's Opera Cafe. Detailed address: 601, Van Ness Avenue, Civic Center, San Francisco, California, 94102, United States
+2. Yogi Sushi House. Detailed address: 406, Dewey Boulevard, Forest Hill, San Francisco, California, 94116, United States",B,12.15,5.07,1.72,3.58
+280,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Penthouse Club San Francisco. Detailed address: 412, Broadway, Telegraph Hill, San Francisco, California, 94133, United States
+2. 1073 Howard. Detailed address: SOMA Pilipinas - Filipino Cultural Heritage District, Geary Street, Tenderloin, South of Market, San Francisco, California, 94102, United States",C,7.81,7.73,2.27,7.44
+281,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Grand Hyatt San Francisco. Detailed address: 345, Stockton Street, Union Square, South of Market, San Francisco, California, 94108, United States
+2. Hotel Warfield. Detailed address: Turk Street, Tenderloin, South of Market, San Francisco, California, 94104, United States",D,5.37,5.09,2.73,0.69
+282,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Unlimited Biking. Detailed address: 765, Beach Street, Fisherman's Wharf, San Francisco, California, 90214, United States
+2. Begoni Bistro. Detailed address: 615;617, Jackson Street, Chinatown, San Francisco, California, 94113, United States",C,8.08,3.36,1.81,4.01
+283,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Le Marais Bakery Market Cafe. Detailed address: 1138, Sutter Street, Polk Gulch, San Francisco, California, 94164, United States
+2. Happy Donuts. Detailed address: 1794-A, Haight Street, Haight-Ashbury, San Francisco, California, 94117, United States",B,4.78,3.53,6.89,2.39
+284,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Wipeout bar & grill. Detailed address: Pier 39, Fisherman's Wharf, San Francisco, California, 94133, United States
+2. Basil Thai Resaurant & Bar. Detailed address: SOMA Pilipinas - Filipino Cultural Heritage District, Geary Street, Tenderloin, South of Market, San Francisco, California, 94102, United States",D,9.31,7.02,7.47,3.72
+285,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hyde Street Harbor. Detailed address: Jefferson Street, Fisherman's Wharf, San Francisco, California, 94133, United States
+2. Taylor Hotel San Francisco. Detailed address: 615, Taylor Street, Lower Nob Hill, South of Market, San Francisco, California, 94102, United States",B,4.16,2.33,7.37,5.09
+286,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Arguello Pet Hospital. Detailed address: 530, Arguello Boulevard, Jordan Park, Richmond District, San Francisco, California, 94118, United States
+2. Transbay Tube. Detailed address: San Francisco, California, United States",C,6.6,11.76,9.58,15.48
+287,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rochambeau Playground. Detailed address: 24th Avenue, Seacliff, Richmond District, San Francisco, California, 94121, United States
+2. The Senator. Detailed address: 515, Ellis Street, Little Saigon, South of Market, San Francisco, California, 94102, United States",A,6.14,9.84,8.52,4.45
+288,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Amigos. Detailed address: 500, Ellis Street, Little Saigon, South of Market, San Francisco, California, 94102, United States
+2. Credo. Detailed address: 358;360, Pine Street, Transbay, South of Market, San Francisco, California, 94111, United States",C,8.29,9.08,1.38,4.59
+289,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mandel Hall. Detailed address: 440, Ellis Street, Tenderloin, South of Market, San Francisco, California, 94102, United States
+2. Hyde Street Harbor. Detailed address: Jefferson Street, Fisherman's Wharf, San Francisco, California, 94133, United States",C,10.16,5.4,2.64,10.07
+290,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Little Original Joe's. Detailed address: 393, West Portal Avenue, Saint Francis Wood, San Francisco, California, 94127, United States
+2. Compass Children's Center. Detailed address: 140;144;156, Leavenworth Street, Tenderloin, South of Market, San Francisco, California, 94102, United States",A,7.12,1.41,12.06,4.72
+291,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Obscenity Bar & Lounge. Detailed address: 562, Sutter Street, Union Square, South of Market, San Francisco, California, 94108, United States
+2. All Star Cafe. Detailed address: 1500, Market Street, Hayes Valley, San Francisco, California, 94102, United States",C,7.62,9.39,1.78,9.41
+292,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Avenues San Francisco. Detailed address: 3606, Taraval Street, Sunset District, San Francisco, California, 94166, United States
+2. GoHealth Urgent Care. Detailed address: 2288, Market Street, Duboce Triangle, Mission District, San Francisco, California, 94143, United States",C,10.98,10.37,6.85,13.68
+293,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Charles Schwab Building. Detailed address: 211, Main Street, Rincon Hill, South of Market, San Francisco, California, 94105, United States
+2. Mission Plaza. Detailed address: Accounting & Taxes, Mission Street, Mission District, San Francisco, California, 90110, United States",A,3.73,5.68,9.33,0.77
+294,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Toy Soldier. Detailed address: 52, Pine Street, Union Square, South of Market, San Francisco, California, 94108, United States
+2. Little Delhi. Detailed address: 83, Eddy Street, Union Square, South of Market, San Francisco, California, 94102, United States",B,7.68,0.93,5.63,3.54
+295,"What is the straight-line distance between the following two locations? (Unit is km)
+1. CorePower Yoga. Detailed address: 150, Van Ness Avenue, Hayes Valley, San Francisco, California, 94102, United States
+2. 18th Street Station. Detailed address: 4304, 18th Street, Castro District, San Francisco, California, 94114, United States",A,2.39,8.36,5.75,8.55
+296,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Postal Chase. Detailed address: 912, Cole Street, Cole Valley, San Francisco, California, 94117, United States
+2. Taqueria Can-cun. Detailed address: 3211, Mission Street, Bernal Heights, San Francisco, California, 94110, United States",B,6.34,3.45,10.46,5.05
+297,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chinatown Parking. Detailed address: Pacific Avenue, Chinatown, San Francisco, California, 94113, United States
+2. The Phoenix. Detailed address: 811, Valencia Street, Mission District, San Francisco, California, 94110, United States",A,4.3,1.73,2.87,7.37
+298,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Proper Food. Detailed address: 588, Mission Bay Boulevard North, Mission Bay, South of Market, San Francisco, California, 94158, United States
+2. Would You Believe? Cocktails. Detailed address: Geary Boulevard, Inner Richmond, Richmond District, San Francisco, California, 94118, United States",A,6.99,2.23,10.61,5.48
+299,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Saap Ver. Detailed address: 88, Division Street, South of Market, San Francisco, California, 94103, United States
+2. Victor's Pizzeria & Restaurant. Detailed address: 1411, Polk Street, Polk Gulch, San Francisco, California, 94164, United States",C,1.51,4.62,2.7,1.22
+300,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Columbus Inn. Detailed address: Columbus Avenue & Francisco Street, Columbus Avenue, Fisherman's Wharf, San Francisco, California, 94133, United States
+2. Pier E. Detailed address: San Francisco – Oakland Bay Bridge, Rincon Hill, South of Market, San Francisco, California, 94017, United States",A,4.06,5.63,5.87,7.81
+301,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Aces. Detailed address: 998, Sutter Street, Lower Nob Hill, South of Market, San Francisco, California, 94109, United States
+2. Arkansas Friendship Community Garden. Detailed address: Arkansas Street, Potrero Hill, San Francisco, California, 90103, United States",D,2.13,1.25,0.71,3.83
+302,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hall of Justice. Detailed address: SOMA Pilipinas - Filipino Cultural Heritage District, Geary Street, Tenderloin, South of Market, San Francisco, California, 94102, United States
+2. 46. Detailed address: Serrano Drive, Parkmerced, San Francisco, California, 94132, United States",C,14.61,16.03,9.24,12.3
+303,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Aha! Fresh. Detailed address: 4007, 24th Street, Noe Valley, Mission District, San Francisco, California, 94114, United States
+2. Tony's Cable Car. Detailed address: 2500, Geary Boulevard, Anza Vista, Western Addition, San Francisco, California, 94115, United States",C,6.24,8.96,3.67,8.45
+304,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Toyama. Detailed address: 3727;3729, Geary Boulevard, Jordan Park, Richmond District, San Francisco, California, 94118, United States
+2. Powder Shaved Snow. Detailed address: 260, Divisadero Street, North of Panhandle, Western Addition, San Francisco, California, 94177, United States",D,9.35,9.28,9.91,2.24
+305,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Twelve Hundred California. Detailed address: 1200, California Street, Lower Nob Hill, South of Market, San Francisco, California, 94164, United States
+2. Hotel Union. Detailed address: 811, Geary Street, Lower Nob Hill, South of Market, San Francisco, California, 94109, United States",B,4.96,0.65,4.18,7.31
+306,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Brothers Pizza. Detailed address: 3627, Taraval Street, Sunset District, San Francisco, California, 94116, United States
+2. Sababa. Detailed address: 329, Kearny Street, Union Square, South of Market, San Francisco, California, 94108, United States",B,15.21,10.45,7.65,3.55
+307,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Zion Lutheran Church. Detailed address: 495, 9th Avenue, Inner Richmond, Richmond District, San Francisco, California, 94118, United States
+2. Serra Mortuary. Detailed address: 1465, Valencia Street, Mission District, San Francisco, California, 94110, United States",B,7.95,5.32,10.8,2.78
+308,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hardwood Bar & Smokery. Detailed address: 680, 8th Street, West SoMa, South of Market, San Francisco, California, 94103, United States
+2. Amigos. Detailed address: 500, Ellis Street, Little Saigon, South of Market, San Francisco, California, 94102, United States",A,1.81,4.78,9.81,6.46
+309,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Japanese Cultural and Community Center of Northern California. Detailed address: 1840, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States
+2. Union Square. Detailed address: Garage, Post Street, Union Square, South of Market, San Francisco, California, 94108, United States",B,9.44,2.07,6.66,9.02
+310,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Francisca Club. Detailed address: 595, Sutter Street, Union Square, South of Market, San Francisco, California, 94108, United States
+2. Japanese Cultural and Community Center of Northern California. Detailed address: 1840, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States",B,8.27,1.86,3.89,9.5
+311,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Central Coffee and Tea. Detailed address: 1686;1688;1690;1692;1694;1696, Hayes Street, North of Panhandle, San Francisco, California, 94177, United States
+2. ENTRANCE Parking (2nd Floor). Detailed address: Sutter Stockton Garage, 444, Stockton Street, Union Square, South of Market, San Francisco, California, 94108, United States",C,1.27,10.61,3.71,6.93
+312,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Little Breakfast. Detailed address: 3275, 22nd Street, Mission District, San Francisco, California, 94110, United States
+2. Lucky Creation. Detailed address: 854, Washington Street, Chinatown, San Francisco, California, 94113, United States",C,2.46,10.4,4.57,3.11
+313,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pupuseria El Golazo. Detailed address: Geneva Avenue, Crocker-Amazon, San Francisco, California, 94134, United States
+2. 3rd and Army. Detailed address: Indiana Street, Potrero Terrace, San Francisco, California, 94124, United States",A,5.23,8.4,11.35,9.76
+314,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fresco Pizza Grill Shawerma. Detailed address: 1338, Polk Street, Polk Gulch, San Francisco, California, 94164, United States
+2. Little Free Library. Detailed address: 1300,1310,1320,1330,1340,1350,1360, 4th Street, Mission Bay, South of Market, San Francisco, California, 94158, United States",B,6.99,3.22,8.3,6.19
+315,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Taxi Stand at Macy's Union Square (along Geary St Entrance). Detailed address: 251, Geary Street, Union Square, South of Market, San Francisco, California, 94102, United States
+2. Working Girls’ Cafe. Detailed address: Mission Street, Transbay, South of Market, San Francisco, California, 94105, United States",A,1.28,4.53,3.52,6.78
+316,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Farley's. Detailed address: 1315, 18th Street, Potrero Hill, San Francisco, California, 94107, United States
+2. Little Artistas. Detailed address: 1513, Church Street, Noe Valley, Mission District, San Francisco, California, 94110, United States",C,7.91,7.45,3.24,7.85
+317,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bi-Rite Creamery. Detailed address: 3692, 18th Street, Castro District, Mission District, San Francisco, California, 94110, United States
+2. Tommy’s Mexican Restaurant. Detailed address: 5929, Geary Boulevard, Richmond District, San Francisco, California, 94121, United States",D,3.76,2.49,10.42,5.46
+318,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Building 102. Detailed address: 102, Fort Mason 10, San Francisco, California, 94123, United States
+2. Bail Hotline Bail Bonds. Detailed address: SOMA Pilipinas - Filipino Cultural Heritage District, Geary Street, Tenderloin, South of Market, San Francisco, California, 94102, United States",D,1.81,2.35,11.61,3.96
+319,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cats Coronado Hotel. Detailed address: 373;377, Ellis Street, Tenderloin, South of Market, San Francisco, California, 94102, United States
+2. Salt Water Pumping Station #2. Detailed address: McDowell Road Southwest, San Francisco, California, 94123, United States",B,1.09,2.88,5.81,4.14
+320,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Emporium SF. Detailed address: 616, Divisadero Street, North of Panhandle, Western Addition, San Francisco, California, 95115, United States
+2. City College of San Francisco - Fort Mason Center. Detailed address: 2 Building B, Marina Boulevard, Marina District, San Francisco, California, 94123, United States",A,3.52,5.57,8.93,1.89
+321,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cantoo Latin Asian Rotisserie. Detailed address: 570;572, O'Farrell Street, Little Saigon, South of Market, San Francisco, California, 94102, United States
+2. Xiao Yu's Kitchen. Detailed address: 560, Balboa Street, Inner Richmond, Richmond District, San Francisco, California, 94118, United States",D,8.38,11.56,12.22,4.56
+322,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Aida Hotel. Detailed address: 1083;1087, Market Street, Tenderloin, South of Market, San Francisco, California, 94102, United States
+2. Cash & Carry. Detailed address: Plum Street, Hayes Valley, Mission District, San Francisco, California, 94103, United States",B,6.92,1.25,2.5,2.48
+323,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Machine Shop. Detailed address: 20th Street, Pier 70, San Francisco, California, 94158, United States
+2. McAllister Hotel. Detailed address: 268;270;272, McAllister Street, Civic Center, South of Market, San Francisco, California, 94102, United States",A,3.54,10.71,9.58,6.58
+324,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dumpling Time Thrive City. Detailed address: 191, Warriors Way, Mission Bay, South of Market, San Francisco, California, 94158, United States
+2. Sweet Joanna’s Cafe & Bakery. Detailed address: Howard Street, Rincon Hill, South of Market, San Francisco, California, 94105, United States",D,6.58,7.11,6.47,2.62
+325,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cafe 450 Eurest Dining. Detailed address: 450, Golden Gate Avenue, Civic Center, San Francisco, California, 94102, United States
+2. Valencia Dental. Detailed address: 3532, 20th Street, Mission District, San Francisco, California, 94110, United States",B,0.82,2.56,4.32,9.37
+326,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Oodle Yunnan Rice Noodle. Detailed address: 3420, Balboa Street, Outer Richmond, San Francisco, California, 94121, United States
+2. Contract Station #11. Detailed address: Golden Gate Avenue, North of Panhandle, San Francisco, California, 94118, United States",A,4.16,1.31,9.33,11.03
+327,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Stable Cafe. Detailed address: 2128, Folsom Street, Mission District, San Francisco, California, 94110, United States
+2. Saucy Asian. Detailed address: 3801, 17th Street, Castro District, Mission District, San Francisco, California, 94114, United States",D,5.53,4.54,6.81,1.38
+328,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Shabu club. Detailed address: 951, Clement Street, Inner Richmond, Richmond District, San Francisco, California, 94118, United States
+2. Star India. Detailed address: 3721;3747, Geary Boulevard, Jordan Park, Richmond District, San Francisco, California, 94118, United States",A,0.92,7.28,2.82,5.92
+329,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Battery Davis. Detailed address: Skyline Boulevard, San Francisco, California, 94166, United States
+2. Langton Community Garden. Detailed address: Howard Street, West SoMa, South of Market, San Francisco, California, 94103, United States",B,8.67,10.52,16.11,8.7
+330,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Van Ness Cafe & Gyros. Detailed address: 826, Van Ness Avenue, Civic Center, San Francisco, California, 94109, United States
+2. Palmer's. Detailed address: Clay Street, Pacific Heights, San Francisco, California, 94115, United States",B,4.14,1.43,5.78,2.84
+331,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Saint John the Evangelist Roman Catholic Church. Detailed address: Saint Mary's Avenue, St. Mary's Park, San Francisco, California, 94110, United States
+2. New Traditions Elementary School. Detailed address: 2049, Grove Street, Haight-Ashbury, San Francisco, California, 94117, United States",C,2.71,12.04,4.89,7.78
+332,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gangnam Korean BBQ. Detailed address: The Cafe, Underground Parking Entrance, Balboa Terrace, San Francisco, California, 94312, United States
+2. Orthodontics Pediatric Dentistry. Detailed address: 823, Taraval Street, West Portal, San Francisco, California, 94116, United States",B,4.79,1.66,4.91,3.23
+333,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ballast Point Tasting Room & Kitchen. Detailed address: 16th Street, Mission Bay, San Francisco, California, 94158, United States
+2. Lazarus Data Recovery. Detailed address: 2630, Judah Street, Sunset District, San Francisco, California, 94121, United States",C,4.41,5.65,8.56,2.93
+334,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Japanese American Association of Northern California. Detailed address: 1759, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States
+2. Crazy Horse Gentlemen's Club. Detailed address: 980, Market Street, Tenderloin, South of Market, San Francisco, California, 94102, United States",A,1.73,7.91,5.13,4.83
+335,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Provident Credit Union. Detailed address: 701, Sacramento Street, Chinatown, South of Market, San Francisco, California, 94108, United States
+2. Stu's Kitchen. Detailed address: 403, Eddy Street, Tenderloin, South of Market, San Francisco, California, 94102, United States",D,3.08,3.25,9.14,1.38
+336,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Moby Dick. Detailed address: 4049, 18th Street, Castro District, Mission District, San Francisco, California, 94143, United States
+2. Korean Martial Arts Center. Detailed address: 1414, Ocean Avenue, Ingleside, San Francisco, California, 94112, United States",C,5.76,7.78,4.56,8.83
+337,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Zona Rosa. Detailed address: 2337, Market Street, Castro District, Mission District, San Francisco, California, 94114, United States
+2. Healthy U. Detailed address: 1600, Holloway Avenue, San Francisco, California, 94132, United States",B,11.45,6.05,4.06,0.99
+338,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Compass Children's Center. Detailed address: 140;144;156, Leavenworth Street, Tenderloin, South of Market, San Francisco, California, 94102, United States
+2. Black Sugar. Detailed address: 320, O'Farrell Street, Tenderloin, South of Market, San Francisco, California, 94102, United States",C,8.03,1.79,0.54,4.52
+339,"What is the straight-line distance between the following two locations? (Unit is km)
+1. San Francisco Visitor Information Center. Detailed address: Hallidie Plaza, Union Square, South of Market, San Francisco, California, 94102, United States
+2. Yosemite Plaza. Detailed address: 1580;1582;1584, Wallace Avenue, Silver Terrace, Bayview District, San Francisco, California, 94188, United States",C,11.85,3.56,6.58,12.35
+340,"What is the straight-line distance between the following two locations? (Unit is km)
+1. YAMO. Detailed address: 3406, 18th Street, Mission District, San Francisco, California, 94110, United States
+2. Taxi Stand at Macy's Union Square (along Geary St Entrance). Detailed address: 251, Geary Street, Union Square, South of Market, San Francisco, California, 94102, United States",D,8.78,5.51,5.38,3.03
+341,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fort Point Beer Company. Detailed address: 742, Valencia Street, Mission District, San Francisco, California, 90110, United States
+2. Burke & Black. Detailed address: 380, Golden Gate Avenue, Civic Center, South of Market, San Francisco, California, 94102, United States",C,6.33,9.26,2.33,9.57
+342,"What is the straight-line distance between the following two locations? (Unit is km)
+1. San Francisco SPCA Veterinary Hospital - Mission Campus. Detailed address: 201, Alabama Street, Mission District, San Francisco, California, 94103, United States
+2. Brothers Pizza. Detailed address: 3627, Taraval Street, Sunset District, San Francisco, California, 94116, United States",B,6.92,8.65,1.02,6.32
+343,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Richmond Neighborhood Family Dental. Detailed address: 3585, Balboa Street, Outer Richmond, San Francisco, California, 94121, United States
+2. Chase. Detailed address: 2nd Street, Transbay, South of Market, San Francisco, California, 94105, United States",A,8.59,15.3,4.77,5.46
+344,"What is the straight-line distance between the following two locations? (Unit is km)
+1. élan. Detailed address: 839, Howard Street, Union Square, South of Market, San Francisco, California, 94107, United States
+2. Golden Flower. Detailed address: 667, Jackson Street, Chinatown, San Francisco, California, 94113, United States",B,5.43,1.53,6.8,3.77
+345,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tom Waddell Urban Health Clinic. Detailed address: 220, Golden Gate Avenue, Tenderloin, South of Market, San Francisco, California, 94102, United States
+2. Papa's Kitchen. Detailed address: 1705, Haight Street, Haight-Ashbury, San Francisco, California, 94117, United States",D,6.68,6.22,6.42,3.5
+346,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Glen Park Mail Depot. Detailed address: 2912, Diamond Street, Glen Park, San Francisco, California, 94131, United States
+2. élan. Detailed address: 839, Howard Street, Union Square, South of Market, San Francisco, California, 94107, United States",D,12.7,13.52,11.57,6.09
+347,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hard Rock Cafe. Detailed address: Pier 39, Fisherman's Wharf, San Francisco, California, 94133, United States
+2. Mr Eco Wash. Detailed address: 3490, Cesar Chavez Street, Mission District, San Francisco, California, 94110, United States",C,2.18,12.59,6.76,8.99
+348,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Papa's Kitchen. Detailed address: 1705, Haight Street, Haight-Ashbury, San Francisco, California, 94117, United States
+2. 7D Experience. Detailed address: Pier 39, Fisherman's Wharf, San Francisco, California, 94133, United States",C,11.01,7.98,5.81,12.21
+349,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Focus Clinic. Detailed address: 100, Pine Street, Transbay, South of Market, San Francisco, California, 94111, United States
+2. Delarosa. Detailed address: 37, Yerba Buena Lane, Union Square, South of Market, San Francisco, California, 94103, United States",C,4.68,4.1,0.86,5.07
+350,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Phoenix. Detailed address: 811, Valencia Street, Mission District, San Francisco, California, 94110, United States
+2. Saint Aidans Episcopal Church. Detailed address: Douglass Street, Noe Valley, San Francisco, California, 94131, United States",A,2.13,10.13,4.57,4.15
+351,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mighty Pilates. Detailed address: 3650;3652;3654;3656;3658;3660;3662;3664, Sacramento Street, Presidio Heights, San Francisco, California, 94118, United States
+2. Zante Pizza & Indian Cuisine. Detailed address: 3849, Mission Street, Bernal Heights, San Francisco, California, 94110, United States",B,0.67,5.81,12.35,10.76
+352,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Black Sugar. Detailed address: 320, O'Farrell Street, Tenderloin, South of Market, San Francisco, California, 94102, United States
+2. Buttermilk Southern Kitchen. Detailed address: 2848, 23rd Street, Mission District, San Francisco, California, 94110, United States",B,5.54,3.53,5.25,5.59
+353,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fitlife. Detailed address: Bay Street, Fisherman's Wharf, San Francisco, California, 94133, United States
+2. Sharon Building. Detailed address: 55, New Montgomery Street, Transbay, South of Market, San Francisco, California, 94105, United States",B,7.95,2.2,9.17,8.74
+354,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Yosemite Plaza. Detailed address: 1580;1582;1584, Wallace Avenue, Silver Terrace, Bayview District, San Francisco, California, 94188, United States
+2. Queen Wilhelmina Tulip Garden. Detailed address: John F Kennedy Drive, San Francisco, California, 94121, United States",A,11.51,12.52,9.4,14.8
+355,"What is the straight-line distance between the following two locations? (Unit is km)
+1. City College of San Francisco John Adams Campus. Detailed address: 1860, Hayes Street, Haight-Ashbury, San Francisco, California, 94117, United States
+2. Final final. Detailed address: Lombard Street, Marina District, San Francisco, California, 94123, United States",B,1.39,2.72,10.21,4.93
+356,"What is the straight-line distance between the following two locations? (Unit is km)
+1. North Beach Pizza. Detailed address: 3054, Taraval Street, Sunset District, San Francisco, California, 94166, United States
+2. Southpaw. Detailed address: 2170, Mission Street, Mission District, San Francisco, California, 90110, United States",B,2.19,7.35,3.6,10.22
+357,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Valencia Room. Detailed address: 645;647, Valencia Street, Mission District, San Francisco, California, 90110, United States
+2. Harlot. Detailed address: 46, Minna Street, Transbay, South of Market, San Francisco, California, 94105, United States",B,6.66,3.55,9.09,10.41
+358,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Taylor Hotel San Francisco. Detailed address: 615, Taylor Street, Lower Nob Hill, South of Market, San Francisco, California, 94102, United States
+2. San Francisco Visitor Information Center. Detailed address: Hallidie Plaza, Union Square, South of Market, San Francisco, California, 94102, United States",A,0.52,2.37,2.28,3.76
+359,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Diamond Heights Shopping Center. Detailed address: Safeway, 5290, Diamond Heights Boulevard, Diamond Heights, San Francisco, California, 94131, United States
+2. Anza Branch Library. Detailed address: 550, 37th Avenue, Outer Richmond, San Francisco, California, 94121, United States",D,8.89,13.63,13.03,6.4
+360,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kanbar Performing Arts Center. Detailed address: 44, Page Street, Hayes Valley, San Francisco, California, 94102, United States
+2. Provident Credit Union. Detailed address: 701, Sacramento Street, Chinatown, South of Market, San Francisco, California, 94108, United States",A,2.57,4.45,1.35,10.39
+361,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Noe Bagels. Detailed address: 3931;3933, 24th Street, Noe Valley, Mission District, San Francisco, California, 94114, United States
+2. Overtime. Detailed address: 4134, Geary Boulevard, Inner Richmond, Richmond District, San Francisco, California, 94118, United States",A,4.43,6.02,5.66,7.06
+362,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pacific Bay Inn. Detailed address: 474;480, O'Farrell Street, Tenderloin, South of Market, San Francisco, California, 94102, United States
+2. Livat Mall. Detailed address: SOMA Pilipinas - Filipino Cultural Heritage District, Geary Street, Tenderloin, South of Market, San Francisco, California, 94102, United States",C,7.03,4.42,0.5,1.95
+363,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Merced Branch Library. Detailed address: 155, Winston Drive, Ingleside Terraces, San Francisco, California, 94132, United States
+2. Ebenezer / herchurch Lutheran Church. Detailed address: 678, Portola Drive, Midtown Terrace, San Francisco, California, 94127, United States",A,2.78,8.79,6.46,1.66
+364,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Eric Quezada Center for Culture and Politics. Detailed address: 518, 522, Valencia Street, Mission District, San Francisco, California, 94110, United States
+2. Rossi Pool. Detailed address: 600, Arguello Boulevard, Inner Richmond, Richmond District, San Francisco, California, 94118, United States",C,6.31,11.18,3.58,6.67
+365,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Grace. Detailed address: 151, 3rd Street, Transbay, South of Market, San Francisco, California, 94103, United States
+2. Orale Orale. Detailed address: 113, Sacramento Street, Financial District, San Francisco, California, 94111, United States",D,4.8,3.33,3.06,1.05
+366,"What is the straight-line distance between the following two locations? (Unit is km)
+1. SIT & REACH. Detailed address: 9th Avenue, Inner Richmond, Richmond District, San Francisco, California, 94129, United States
+2. Internet Archive Scanning Center. Detailed address: Clement Street, Inner Richmond, Richmond District, San Francisco, California, 94118, United States",A,0.6,1.87,8.09,4.68
+367,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Enterprise Brewing Company. Detailed address: 1150, Howard Street, West SoMa, South of Market, San Francisco, California, 94103, United States
+2. The Charles Schwab Building. Detailed address: 211, Main Street, Rincon Hill, South of Market, San Francisco, California, 94105, United States",C,7.4,6.33,2.17,5.07
+368,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Carousel. Detailed address: Kezar Drive, Cole Valley, San Francisco, California, 94117, United States
+2. Mission Police Station. Detailed address: 630, Valencia Street, Mission District, San Francisco, California, 90110, United States",C,5.53,7.48,3.22,2.07
+369,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Healthy U. Detailed address: 1600, Holloway Avenue, San Francisco, California, 94132, United States
+2. Page & Laguna Community Garden. Detailed address: Page Street, Western Addition, San Francisco, California, 94143, United States",C,10.47,2.55,7.39,5.18
+370,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Crown Burger. Detailed address: 3rd Street, Bayview District, San Francisco, California, 94124, United States
+2. The House of Hummus. Detailed address: 5, Masonic Avenue, Laurel Heights, San Francisco, California, 94118, United States",C,14.22,10.89,6.93,3.54
+371,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Overtime. Detailed address: 4134, Geary Boulevard, Inner Richmond, Richmond District, San Francisco, California, 94118, United States
+2. HAND-WALK. Detailed address: Middle Drive West, Sunset District, San Francisco, California, 94121, United States",C,5.71,9.9,3.19,0.63
+372,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Motel 6. Detailed address: 2850, Van Ness Avenue, Russian Hill, San Francisco, California, 90214, United States
+2. Diamond Heights Shopping Center. Detailed address: Safeway, 5290, Diamond Heights Boulevard, Diamond Heights, San Francisco, California, 94131, United States",B,12.4,6.61,2.34,1.87
+373,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Edward Siyahanian, DDS. Detailed address: 2386, 15th Avenue, West Portal, San Francisco, California, 94116, United States
+2. Cafe Elena. Detailed address: Steuart Street, Financial District, San Francisco, California, 94111, United States",D,5.41,0.92,15.29,8.78
+374,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Metropolitan Bank. Detailed address: 1351, Powell Street, Chinatown, San Francisco, California, 94133, United States
+2. The Great Northern. Detailed address: 119, Utah Street, South of Market, San Francisco, California, 94103, United States",C,8.79,5.52,3.29,6.75
+375,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Walker Theater. Detailed address: 25, Van Ness Avenue, Hayes Valley, San Francisco, California, 94102, United States
+2. Java on Ocean Cafe. Detailed address: 1700, Ocean Avenue, Westwood Park, San Francisco, California, 94112, United States",D,11.75,12.94,11.84,6.65
+376,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lomo Libre. Detailed address: 1824, Irving Street, San Francisco, California, 94122, United States
+2. Plentea. Detailed address: 1515, 3rd Street, Mission Bay, South of Market, San Francisco, California, 94158, United States",D,0.98,0.57,2.58,7.83
+377,"What is the straight-line distance between the following two locations? (Unit is km)
+1. International Food Court. Detailed address: Kearny Street, Union Square, South of Market, San Francisco, California, 94108, United States
+2. Starbucks. Detailed address: 1, Letterman Drive, San Francisco, California, 94129, United States",D,8.77,1.73,9.1,4.1
+378,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Metric Motors. Detailed address: 1480, Howard Street, Civic Center, South of Market, San Francisco, California, 94103, United States
+2. Annie’s Hot Dogs & Snacks. Detailed address: Kezar Drive, Cole Valley, San Francisco, California, 94117, United States",A,3.82,6.27,5.85,10.84
+379,"What is the straight-line distance between the following two locations? (Unit is km)
+1. twisted. Detailed address: 2322, Lombard Street, Cow Hollow, San Francisco, California, 94123, United States
+2. Noe Valley Station. Detailed address: 4083, 24th Street, Noe Valley, Mission District, San Francisco, California, 94114, United States",C,0.63,0.95,5.39,6.72
+380,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Golden Gate Park. Detailed address: Overlook Drive, Richmond District, San Francisco, California, 94121, United States
+2. Saint John the Evangelist Episcopal Church. Detailed address: Caledonia Street, Mission District, San Francisco, California, 90110, United States",A,5.33,10.29,12.25,7.29
+381,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lazarus Data Recovery. Detailed address: 2630, Judah Street, Sunset District, San Francisco, California, 94121, United States
+2. Dumpling Time Thrive City. Detailed address: 191, Warriors Way, Mission Bay, South of Market, San Francisco, California, 94158, United States",B,5.06,8.98,2.73,12.76
+382,"What is the straight-line distance between the following two locations? (Unit is km)
+1. San Francisco Fire Station 31. Detailed address: 441, 12th Avenue, Inner Richmond, Richmond District, San Francisco, California, 94118, United States
+2. Building 102. Detailed address: 102, Fort Mason 10, San Francisco, California, 94123, United States",B,12.25,4.62,3.4,3.37
+383,"What is the straight-line distance between the following two locations? (Unit is km)
+1. LittleNepal. Detailed address: 925, Cortland Avenue, Bernal Heights, San Francisco, California, 94110, United States
+2. San Francisco Fire Credit Union. Detailed address: 3201, California Street, Laurel Heights, San Francisco, California, 94118, United States",B,3.32,6.1,3.11,13.04
+384,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Quickly. Detailed address: Taraval Street, San Francisco, California, 94116, United States
+2. Lush Lounge. Detailed address: 1221, Polk Street, Polk Gulch, San Francisco, California, 94164, United States",C,13.57,14.52,7.11,4.93
+385,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dr. Marcus Coplin ND - Neuropathic Healthcare. Detailed address: Ames Street, Mission District, San Francisco, California, 94110, United States
+2. Gourmet Carousel. Detailed address: 1553;1555;1557;1559, Franklin Street, Japantown, Western Addition, San Francisco, California, 94164, United States",C,5.81,5.17,3.76,6.43
+386,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Southpaw. Detailed address: 2170, Mission Street, Mission District, San Francisco, California, 90110, United States
+2. Vasquez Coffee Company. Detailed address: Blue Greenway, Bayview District, San Francisco, California, 94188, United States",C,7.89,6.31,3.71,10.68
+387,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hamilton Square Baptist Church. Detailed address: 1212, Geary Boulevard, Japantown, Western Addition, San Francisco, California, 94164, United States
+2. Amasia Hide's Sushi Bar. Detailed address: 149, Noe Street, Western Addition, San Francisco, California, 94143, United States",D,8.78,8.82,6.0,2.27
+388,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Little Lady Bugs Playhouse. Detailed address: 1209, Palou Avenue, Bayview District, San Francisco, California, 94188, United States
+2. The Hyde Out. Detailed address: 1068, Hyde Street, Lower Nob Hill, San Francisco, California, 94164, United States",A,7.39,1.12,14.85,13.22
+389,"What is the straight-line distance between the following two locations? (Unit is km)
+1. St. Regis Hotel Lobby Bar. Detailed address: 125, 3rd Street, Transbay, South of Market, San Francisco, California, 94105, United States
+2. City Park. Detailed address: 750, Bush Street, Lower Nob Hill, South of Market, San Francisco, California, 94108, United States",A,0.87,4.12,3.34,7.42
+390,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mixto Latin Cuisine. Detailed address: 3914, Judah Street, Outer Sunset, Sunset District, San Francisco, California, 94166, United States
+2. YAMO. Detailed address: 3406, 18th Street, Mission District, San Francisco, California, 94110, United States",C,11.14,10.16,7.43,4.3
+391,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nopa Montessori. Detailed address: 2104, Hayes Street, Haight-Ashbury, San Francisco, California, 94177, United States
+2. Cantoo Latin Asian Rotisserie. Detailed address: 570;572, O'Farrell Street, Little Saigon, South of Market, San Francisco, California, 94102, United States",B,6.02,3.54,1.85,1.87
+392,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mandalay. Detailed address: 4348, California Street, Presidio Terrace, Richmond District, San Francisco, California, 94118, United States
+2. Sol Lux Alpha. Detailed address: 685, Florida Street, Mission District, San Francisco, California, 94110, United States",B,8.64,5.45,0.59,0.51
+393,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Basil Thai Resaurant & Bar. Detailed address: SOMA Pilipinas - Filipino Cultural Heritage District, Geary Street, Tenderloin, South of Market, San Francisco, California, 94102, United States
+2. Taxi Stand at Hilton Financial District. Detailed address: 750, Kearny Street, Chinatown, San Francisco, California, 94108, United States",B,10.12,2.21,10.08,5.19
+394,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Traviata. Detailed address: 2854, Mission Street, Mission District, San Francisco, California, 94110, United States
+2. Da Pan. Detailed address: 3995, Alemany Boulevard, San Francisco, California, 94132, United States",C,3.09,3.03,6.29,1.1
+395,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Palmer's. Detailed address: Clay Street, Pacific Heights, San Francisco, California, 94115, United States
+2. twisted. Detailed address: 2322, Lombard Street, Cow Hollow, San Francisco, California, 94123, United States",C,6.49,2.21,1.11,6.27
+396,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Little Artistas. Detailed address: 1513, Church Street, Noe Valley, Mission District, San Francisco, California, 94110, United States
+2. Snowbird Coffee. Detailed address: 1352A, 9th Avenue, Inner Sunset, San Francisco, California, 94122, United States",D,9.2,10.57,2.81,3.92
+397,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Millennium Lofts. Detailed address: Millennium Tower, 301, Mission Street, Transbay, South of Market, San Francisco, California, 94105, United States
+2. Park Terrace. Detailed address: 325, Berry Street, Mission Bay, South of Market, San Francisco, California, 94158, United States",C,4.66,0.52,1.92,5.83
+398,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Alchemist. Detailed address: 679, 3rd Street, South Beach, South of Market, San Francisco, California, 94107, United States
+2. Poc-Chuc. Detailed address: 2886;2888, 16th Street, Mission District, San Francisco, California, 90110, United States",B,4.58,2.62,0.92,9.25
+399,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Scott's Chowder House. Detailed address: 1325, Fillmore Street, Fillmore District, Western Addition, San Francisco, California, 94115, United States
+2. Sisters Coffee Shop. Detailed address: 506, Castro Street, Castro District, Mission District, San Francisco, California, 94114, United States",A,2.37,10.28,3.41,7.03
+400,"What is the straight-line distance between the following two locations? (Unit is km)
+1. USCGC Aspen. Detailed address: 1, Fresnel Way, Buoy Depot, San Francisco, California, 94130, United States
+2. Allstars Donuts & Burgers. Detailed address: 290, Golden Gate Avenue, Tenderloin, South of Market, San Francisco, California, 94102, United States",C,3.75,7.86,5.62,2.77
+401,"What is the straight-line distance between the following two locations? (Unit is km)
+1. LEG-STRETCH. Detailed address: 10th Avenue, Richmond District, San Francisco, California, 94129, United States
+2. East West Bank. Detailed address: 1241, Stockton Street, Chinatown, San Francisco, California, 94113, United States",A,5.47,7.39,2.58,7.36
+402,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Shoshin Sushi. Detailed address: 2450, Clement Street, Seacliff, Richmond District, San Francisco, California, 94121, United States
+2. Biscoff. Detailed address: Pier 39, Fisherman's Wharf, San Francisco, California, 94133, United States",A,7.33,9.84,3.01,4.64
+403,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Victor's Pizzeria & Restaurant. Detailed address: 1411, Polk Street, Polk Gulch, San Francisco, California, 94164, United States
+2. The UPS Store. Detailed address: Clay Street, Financial District, San Francisco, California, 94111, United States",B,0.81,2.16,10.05,6.01
+404,"What is the straight-line distance between the following two locations? (Unit is km)
+1. San Francisco Fire Station 8. Detailed address: 36, Bluxome Street, South Beach, South of Market, San Francisco, California, 94107, United States
+2. San Francisco Fire Station 36. Detailed address: 109, Oak Street, Hayes Valley, San Francisco, California, 94102, United States",B,0.54,2.17,6.95,7.31
+405,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sharon Building. Detailed address: 55, New Montgomery Street, Transbay, South of Market, San Francisco, California, 94105, United States
+2. The Francisca Club. Detailed address: 595, Sutter Street, Union Square, South of Market, San Francisco, California, 94108, United States",C,4.98,7.96,0.8,7.14
+406,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tinto. Detailed address: 1152, Valencia Street, Mission District, San Francisco, California, 94110, United States
+2. Mamacita. Detailed address: 2317, Chestnut Street, Marina District, San Francisco, California, 94123, United States",B,3.99,5.37,9.65,1.2
+407,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hi Tops. Detailed address: 2247, Market Street, Duboce Triangle, Mission District, San Francisco, California, 94114, United States
+2. City College of San Francisco John Adams Campus. Detailed address: 1860, Hayes Street, Haight-Ashbury, San Francisco, California, 94117, United States",B,8.14,1.67,9.64,8.36
+408,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Panchitas. Detailed address: 3091, 16th Street, Mission District, San Francisco, California, 90110, United States
+2. Stable Cafe. Detailed address: 2128, Folsom Street, Mission District, San Francisco, California, 94110, United States",A,0.59,3.38,4.02,3.95
+409,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Taxi Stand at Fairmont Hotel. Detailed address: 900, Mason Street, Lower Nob Hill, South of Market, San Francisco, California, 94108, United States
+2. North Beach Pizza. Detailed address: 3054, Taraval Street, Sunset District, San Francisco, California, 94166, United States",A,9.55,7.24,13.98,11.06
+410,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Embarcadero SAFE Navigation Center. Detailed address: 555, Beale Street, Rincon Hill, South of Market, San Francisco, California, 94017, United States
+2. Mandel Hall. Detailed address: 440, Ellis Street, Tenderloin, South of Market, San Francisco, California, 94102, United States",B,5.62,2.2,5.63,8.35
+411,"What is the straight-line distance between the following two locations? (Unit is km)
+1. San Francisco Fire Station 3. Detailed address: 1067, Post Street, Lower Nob Hill, South of Market, San Francisco, California, 94109, United States
+2. Metric Motors. Detailed address: 1480, Howard Street, Civic Center, South of Market, San Francisco, California, 94103, United States",D,4.05,7.72,5.24,1.5
+412,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dental Health of San Francisco. Detailed address: 2415;2421;2427, Noriega Street, Sunset District, San Francisco, California, 94116, United States
+2. Taxi Stand at Grand Hyatt (along Sutter St in front of Starbucks). Detailed address: 395, Sutter Street, Union Square, South of Market, San Francisco, California, 94108, United States",D,4.91,13.81,10.4,8.33
+413,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Alamo. Detailed address: Mason O'Farrell Garage, 325, Mason Street, Union Square, South of Market, San Francisco, California, 94102, United States
+2. De Young Café. Detailed address: 50, Hagiwara Tea Garden Drive, Richmond District, San Francisco, California, 94118, United States",D,3.85,11.64,6.9,5.41
+414,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Valencia Cyclery. Detailed address: 1077, Valencia Street, Mission District, San Francisco, California, 94110, United States
+2. Chinese Congregational Church. Detailed address: Walter U. Lum Place, Chinatown, San Francisco, California, 94113, United States",D,9.63,0.75,7.83,4.51
+415,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Revel Systems. Detailed address: Columbus Avenue, Chinatown, San Francisco, California, 94133, United States
+2. Dunn-Edwards Paints. Detailed address: SOMA Pilipinas - Filipino Cultural Heritage District, Geary Street, Tenderloin, South of Market, San Francisco, California, 94102, United States",B,0.99,2.2,7.95,0.51
+416,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sichuan House. Detailed address: 5037, Geary Boulevard, Richmond District, San Francisco, California, 94121, United States
+2. El Castillito. Detailed address: 2092, Mission Street, Mission District, San Francisco, California, 90110, United States",B,3.79,5.1,1.23,0.58
+417,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Aptos Middle School. Detailed address: 105, Aptos Avenue, Balboa Terrace, San Francisco, California, 94127, United States
+2. San Francisco Fire Station 7. Detailed address: 2300, Folsom Street, Mission District, San Francisco, California, 94110, United States",C,9.02,12.05,5.61,12.78
+418,"What is the straight-line distance between the following two locations? (Unit is km)
+1. A.P. Giannini Plaza. Detailed address: Commercial Union Assurance Building, 315, Montgomery Street, Union Square, South of Market, San Francisco, California, 94104, United States
+2. Dorothy Day Community. Detailed address: 54;70, McAllister Street, Tenderloin, South of Market, San Francisco, California, 94102, United States",A,1.52,6.61,3.2,5.33
+419,"What is the straight-line distance between the following two locations? (Unit is km)
+1. International House. Detailed address: 860, Sutter Street, Lower Nob Hill, South of Market, San Francisco, California, 94109, United States
+2. Marini Plaza. Detailed address: Union Street, North Beach, San Francisco, California, 94133, United States",D,7.14,3.92,4.6,1.34
+420,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rocco's Cafe. Detailed address: SOMA Pilipinas - Filipino Cultural Heritage District, Geary Street, Tenderloin, South of Market, San Francisco, California, 94102, United States
+2. Emporium SF. Detailed address: 616, Divisadero Street, North of Panhandle, Western Addition, San Francisco, California, 95115, United States",D,5.51,10.01,8.7,2.57
+421,"What is the straight-line distance between the following two locations? (Unit is km)
+1. City Grazing. Detailed address: Cargo Way, Bayview District, San Francisco, California, 94188, United States
+2. Limoncello. Detailed address: 1400, Sutter Street, Japantown, Western Addition, San Francisco, California, 94109, United States",C,2.18,12.91,6.57,9.09
+422,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Hungry Spot. Detailed address: 2077, Hayes Street, Haight-Ashbury, San Francisco, California, 94177, United States
+2. Randolph Yip, DDS. Detailed address: 4800;4804, Geary Boulevard, Inner Richmond, Richmond District, San Francisco, California, 94118, United States",B,3.62,1.98,6.58,9.65
+423,"What is the straight-line distance between the following two locations? (Unit is km)
+1. City Park. Detailed address: 750, Bush Street, Lower Nob Hill, South of Market, San Francisco, California, 94108, United States
+2. Coqueta. Detailed address: Pier 5, The Embarcadero, Financial District, San Francisco, California, 94111, United States",A,1.48,4.3,4.54,4.73
+424,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Saint Thomas School. Detailed address: 3801, Balboa Street, Outer Richmond, San Francisco, California, 94121, United States
+2. Green Hairstreak Corridor - Quintara Steps. Detailed address: Quintara Street, Inner Parkside, San Francisco, California, 94116, United States",A,3.85,9.36,9.14,7.71
+425,"What is the straight-line distance between the following two locations? (Unit is km)
+1. NooBowl. Detailed address: SOMA Pilipinas - Filipino Cultural Heritage District, Geary Street, Tenderloin, South of Market, San Francisco, California, 94102, United States
+2. Max's Opera Cafe. Detailed address: 601, Van Ness Avenue, Civic Center, San Francisco, California, 94102, United States",B,5.27,1.35,7.78,5.59
+426,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Purely Physical Fitness. Detailed address: 25th Street, Noe Valley, Mission District, San Francisco, California, 94110, United States
+2. KNEE LIFT. Detailed address: Middle Drive West, Sunset District, San Francisco, California, 94121, United States",C,9.62,10.91,6.05,11.66
+427,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dunn-Edwards Paints. Detailed address: SOMA Pilipinas - Filipino Cultural Heritage District, Geary Street, Tenderloin, South of Market, San Francisco, California, 94102, United States
+2. Beach Chalet Soccer Fields. Detailed address: John F Kennedy Drive, San Francisco, California, 94121, United States",A,9.53,12.6,13.8,12.14
+428,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Soma Pizza. Detailed address: 483, 3rd Street, South Beach, South of Market, San Francisco, California, 94017, United States
+2. Seniore's Pizza. Detailed address: 456, Haight Street, Lower Haight, Western Addition, San Francisco, California, 94117, United States",C,7.83,8.93,3.14,11.09
+429,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Taqueria. Detailed address: 2889, Mission Street, Mission District, San Francisco, California, 94110, United States
+2. Rocco's Cafe. Detailed address: SOMA Pilipinas - Filipino Cultural Heritage District, Geary Street, Tenderloin, South of Market, San Francisco, California, 94102, United States",D,7.76,4.19,5.31,2.92
+430,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Joe & The Juice. Detailed address: 50, California Street, Transbay, South of Market, San Francisco, California, 94111, United States
+2. Spuntino. Detailed address: Columbus Avenue, North Beach, San Francisco, California, 94133, United States",D,5.5,3.91,5.03,1.25
+431,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Skylark. Detailed address: 3089, 16th Street, Mission District, San Francisco, California, 90110, United States
+2. My Cup of Tea (Cool Tea Bar). Detailed address: 2666, Ocean Avenue, Balboa Terrace, San Francisco, California, 94127, United States",B,10.38,5.88,13.77,9.37
+432,"What is the straight-line distance between the following two locations? (Unit is km)
+1. De Young Café. Detailed address: 50, Hagiwara Tea Garden Drive, Richmond District, San Francisco, California, 94118, United States
+2. The Hungry Spot. Detailed address: 2077, Hayes Street, Haight-Ashbury, San Francisco, California, 94177, United States",B,6.73,1.64,4.1,3.53
+433,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Star India. Detailed address: 3721;3747, Geary Boulevard, Jordan Park, Richmond District, San Francisco, California, 94118, United States
+2. Soma Pizza. Detailed address: 483, 3rd Street, South Beach, South of Market, San Francisco, California, 94017, United States",B,4.44,5.58,7.51,2.32
+434,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sweet Joanna’s Cafe & Bakery. Detailed address: Howard Street, Rincon Hill, South of Market, San Francisco, California, 94105, United States
+2. Tsubasa Sushi. Detailed address: 429, Gough Street, Western Addition, San Francisco, California, 94102, United States",A,3.09,4.32,6.2,6.04
+435,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Orthodontics Pediatric Dentistry. Detailed address: 823, Taraval Street, West Portal, San Francisco, California, 94116, United States
+2. ENO Wine Bar. Detailed address: 335, Powell Street, Union Square, South of Market, San Francisco, California, 94102, United States",B,13.51,7.68,12.42,13.52
+436,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Marathon. Detailed address: 4501, Geary Boulevard, Inner Richmond, Richmond District, San Francisco, California, 94118, United States
+2. Crown Burger. Detailed address: 3rd Street, Bayview District, San Francisco, California, 94124, United States",A,8.22,6.33,13.35,1.14
+437,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pizzeria & Grill. Detailed address: Bay Street, Fisherman's Wharf, San Francisco, California, 94133, United States
+2. Spro. Detailed address: 500, Church Street, Duboce Triangle, Mission District, San Francisco, California, 94143, United States",D,11.0,9.24,6.69,4.95
+438,"What is the straight-line distance between the following two locations? (Unit is km)
+1. San Francisco Grace Christian Church. Detailed address: 4508, Irving Street, Sunset District, San Francisco, California, 94122, United States
+2. Ella Hill Hutch Community Center. Detailed address: Buchanan Street Mall, Fillmore District, Western Addition, San Francisco, California, 95115, United States",D,10.6,4.98,3.48,7.05
+439,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sutter Pub & Restaurant. Detailed address: 700, Sutter Street, Lower Nob Hill, South of Market, San Francisco, California, 94108, United States
+2. Supremo's Pizza. Detailed address: 6th Street, West SoMa, South of Market, San Francisco, California, 94104, United States",C,5.33,7.67,0.9,6.78
+440,"What is the straight-line distance between the following two locations? (Unit is km)
+1. KNEE LIFT. Detailed address: Middle Drive West, Sunset District, San Francisco, California, 94121, United States
+2. Little Henry's. Detailed address: 3600, Balboa Street, Outer Richmond, San Francisco, California, 94121, United States",B,8.58,1.07,6.97,4.87
+441,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Travelodge by Fishermans Wharf. Detailed address: 1201, Columbus Avenue, Fisherman's Wharf, San Francisco, California, 94133, United States
+2. Arden Wood. Detailed address: 445, Wawona Street, West Portal, San Francisco, California, 94127, United States",D,3.99,3.21,12.53,8.98
+442,"What is the straight-line distance between the following two locations? (Unit is km)
+1. William Penn Hotel. Detailed address: 156;160;166, Eddy Street, Tenderloin, South of Market, San Francisco, California, 94104, United States
+2. Marilyn Reed Lucia Child Care Study Center. Detailed address: 610, Parnassus Avenue, Inner Sunset, San Francisco, California, 94122, United States",C,9.38,7.64,5.0,8.0
+443,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Open House. Detailed address: 75, Laguna Street, Western Addition, San Francisco, California, 94143, United States
+2. Citibank. Detailed address: Grant Avenue, Chinatown, San Francisco, California, 94113, United States",B,1.6,3.2,6.35,4.61
+444,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Temple United Methodist Church. Detailed address: Shields Street, Ocean View, San Francisco, California, 94132, United States
+2. Masala Dosa. Detailed address: 1375, 9th Avenue, Inner Sunset, San Francisco, California, 94122, United States",C,12.92,9.41,5.02,2.3
+445,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Starlight 2 Christian Preschool. Detailed address: 3155, Vicente Street, San Francisco, California, 94116, United States
+2. Over the Moon. Detailed address: 2144, Chestnut Street, Marina District, San Francisco, California, 94123, United States",B,3.61,8.85,2.45,3.57
+446,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cool Tea Bar. Detailed address: 103, Waverly Place, Chinatown, South of Market, San Francisco, California, 94108, United States
+2. Contigo Kitchen + Cava. Detailed address: Castro Street, Noe Valley, Mission District, San Francisco, California, 94114, United States",B,13.3,5.38,3.94,1.54
+447,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Peet's Coffee. Detailed address: 1400, Mission Street, Civic Center, South of Market, San Francisco, California, 94103, United States
+2. Tom Waddell Urban Health Clinic. Detailed address: 220, Golden Gate Avenue, Tenderloin, South of Market, San Francisco, California, 94102, United States",C,5.7,2.33,0.75,8.69
+448,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Marini Plaza. Detailed address: Union Street, North Beach, San Francisco, California, 94133, United States
+2. Rochambeau Playground. Detailed address: 24th Avenue, Seacliff, Richmond District, San Francisco, California, 94121, United States",C,12.56,12.52,6.73,4.32
+449,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Park Terrace. Detailed address: 325, Berry Street, Mission Bay, South of Market, San Francisco, California, 94158, United States
+2. Hall of Justice. Detailed address: SOMA Pilipinas - Filipino Cultural Heritage District, Geary Street, Tenderloin, South of Market, San Francisco, California, 94102, United States",C,7.97,2.74,0.78,4.8
+450,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Maggie McGarrys. Detailed address: 1353, Grant Avenue, North Beach, San Francisco, California, 94113, United States
+2. GeoSpatial Analysis Lab (GsAL). Detailed address: 2130, Fulton Street, Haight-Ashbury, San Francisco, California, 94117, United States",B,10.04,4.62,1.58,9.21
+451,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Burger King Parking. Detailed address: Bayshore Boulevard, Bayview District, San Francisco, California, 94124, United States
+2. Commercial Union Assurance Building. Detailed address: 315, Montgomery Street, Union Square, South of Market, San Francisco, California, 94104, United States",A,5.34,13.15,11.83,3.16
+452,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Newcomer High School. Detailed address: Jackson Street, Pacific Heights, San Francisco, California, 94123, United States
+2. Oasis Grill. Detailed address: SOMA Pilipinas - Filipino Cultural Heritage District, Geary Street, Tenderloin, South of Market, San Francisco, California, 94102, United States",B,7.24,2.9,6.54,8.49
+453,"What is the straight-line distance between the following two locations? (Unit is km)
+1. GoHealth Urgent Care. Detailed address: 2288, Market Street, Duboce Triangle, Mission District, San Francisco, California, 94143, United States
+2. Newcomer High School. Detailed address: Jackson Street, Pacific Heights, San Francisco, California, 94123, United States",C,8.5,8.64,3.1,7.56

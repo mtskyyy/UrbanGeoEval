@@ -1,0 +1,376 @@
+id,question,answer,A,B,C,D,E
+0,How long is FDR Drive in the New York area?,C,18000.0,2700.0,9000.0,27000.0,900.0
+1,How long is West 79th Street in the New York area?,B,4600.0,2300.0,230.0,6900.0,690.0
+2,How long is Columbus Circle in the New York area?,E,0.0,100.0,0.0,100.0,0.0
+3,How long is Central Park West in the New York area?,B,1320.0,4400.0,8800.0,13200.0,440.0
+4,How long is East 73rd Street in the New York area?,C,900.0,600.0,300.0,100.0,100.0
+5,How long is Columbus Avenue in the New York area?,A,1100.0,330.0,110.0,2200.0,3300.0
+6,How long is 9th Avenue in the New York area?,E,100.0,0.0,100.0,0.0,0.0
+7,How long is West 59th Street in the New York area?,D,900.0,100.0,100.0,300.0,600.0
+8,How long is 1st Avenue in the New York area?,D,10500.0,7000.0,350.0,3500.0,1050.0
+9,How long is East 45th Street in the New York area?,B,5100.0,1700.0,510.0,170.0,3400.0
+10,How long is East 71st Street in the New York area?,D,600.0,100.0,100.0,300.0,900.0
+11,How long is Park Avenue South in the New York area?,A,700.0,1400.0,210.0,100.0,2100.0
+12,How long is Park Avenue in the New York area?,D,1460.0,4380.0,29200.0,14600.0,43800.0
+13,How long is Park Avenue Tunnel in the New York area?,C,1000.0,100.0,500.0,150.0,1500.0
+14,How long is Brooklyn-Queens Expressway in the New York area?,A,8100.0,24300.0,16200.0,2430.0,810.0
+15,How long is Williamsburg Street East in the New York area?,B,800.0,400.0,1200.0,100.0,120.0
+16,How long is Williamsburg Street West in the New York area?,D,6000.0,600.0,200.0,2000.0,4000.0
+17,How long is Tillary Street in the New York area?,E,100.0,1000.0,1500.0,150.0,500.0
+18,How long is Marcy Avenue in the New York area?,C,2600.0,3900.0,1300.0,390.0,130.0
+19,How long is McGuinness Boulevard in the New York area?,B,550.0,5500.0,16500.0,11000.0,1650.0
+20,How long is Ash Street in the New York area?,C,100.0,600.0,300.0,100.0,900.0
+21,How long is Cherry Street in the New York area?,A,300.0,600.0,900.0,100.0,100.0
+22,How long is Kent Avenue in the New York area?,D,750.0,7500.0,250.0,2500.0,5000.0
+23,How long is Broadway in the New York area?,D,113600.0,17040.0,5680.0,56800.0,170400.0
+24,How long is North Conduit Avenue in the New York area?,A,900.0,270.0,100.0,2700.0,1800.0
+25,How long is Linden Boulevard in the New York area?,C,720.0,14400.0,7200.0,21600.0,2160.0
+26,How long is Jackie Robinson Parkway in the New York area?,C,500.0,1500.0,5000.0,10000.0,15000.0
+27,How long is Whitestone Expressway Service Road in the New York area?,E,9300.0,6200.0,310.0,930.0,3100.0
+28,How long is Whitestone Expressway in the New York area?,B,480.0,1600.0,3200.0,4800.0,160.0
+29,How long is Long Island Expressway in the New York area?,C,26700.0,890.0,8900.0,17800.0,2670.0
+30,How long is Horace Harding Expressway in the New York area?,C,540.0,1620.0,5400.0,16200.0,10800.0
+31,How long is Grand Central Parkway in the New York area?,D,1620.0,540.0,10800.0,5400.0,16200.0
+32,How long is Astoria Boulevard in the New York area?,D,24300.0,2430.0,16200.0,8100.0,810.0
+33,How long is Ditmars Boulevard in the New York area?,D,12800.0,19200.0,1920.0,6400.0,640.0
+34,How long is Queens Boulevard in the New York area?,C,52200.0,5220.0,17400.0,1740.0,34800.0
+35,How long is 94th Street in the New York area?,C,3400.0,170.0,1700.0,510.0,5100.0
+36,How long is Van Wyck Expressway in the New York area?,E,9900.0,6600.0,330.0,990.0,3300.0
+37,How long is Woodhaven Boulevard in the New York area?,C,15800.0,23700.0,7900.0,790.0,2370.0
+38,How long is Astoria Boulevard South in the New York area?,A,1100.0,330.0,3300.0,110.0,2200.0
+39,How long is Cypress Hills Street in the New York area?,E,7600.0,11400.0,380.0,1140.0,3800.0
+40,How long is 80th Avenue in the New York area?,A,700.0,210.0,1400.0,100.0,2100.0
+41,How long is 56th Avenue in the New York area?,A,700.0,1400.0,2100.0,210.0,100.0
+42,How long is 58th Street in the New York area?,B,410.0,4100.0,8200.0,1230.0,12300.0
+43,How long is Queensboro Bridge (Upper Level) in the New York area?,C,100.0,1800.0,900.0,2700.0,270.0
+44,How long is Queensboro Bridge Exit in the New York area?,E,100.0,0.0,100.0,0.0,0.0
+45,How long is East 62nd Street in the New York area?,B,800.0,400.0,1200.0,120.0,100.0
+46,How long is Brooklyn-Queens Expressway West in the New York area?,E,690.0,4600.0,6900.0,230.0,2300.0
+47,How long is Astoria Boulevard North in the New York area?,B,2000.0,1000.0,100.0,300.0,3000.0
+48,How long is Park Drive East in the New York area?,B,4200.0,2100.0,6300.0,630.0,210.0
+49,How long is College Point Boulevard in the New York area?,E,3090.0,20600.0,30900.0,1030.0,10300.0
+50,How long is 15th Avenue in the New York area?,E,390.0,3900.0,130.0,2600.0,1300.0
+51,How long is Jewel Avenue in the New York area?,A,4100.0,1230.0,410.0,8200.0,12300.0
+52,How long is Brooklyn-Queens Expressway East in the New York area?,B,4800.0,1600.0,160.0,480.0,3200.0
+53,How long is York Street in the New York area?,D,100.0,2100.0,210.0,700.0,1400.0
+54,How long is Northern Boulevard in the New York area?,C,2640.0,26400.0,8800.0,880.0,17600.0
+55,How long is 23rd Avenue in the New York area?,C,5100.0,510.0,1700.0,3400.0,170.0
+56,How long is 86th Street in the New York area?,B,1800.0,900.0,2700.0,270.0,100.0
+57,How long is Ed Koch Queensboro Bridge Lower Roadway in the New York area?,A,1100.0,330.0,110.0,2200.0,3300.0
+58,How long is Queensboro Plaza in the New York area?,D,800.0,100.0,1200.0,400.0,120.0
+59,How long is Robert F. Kennedy Bridge in the New York area?,C,360.0,3600.0,1200.0,2400.0,120.0
+60,How long is Hoyt Avenue North in the New York area?,B,100.0,300.0,600.0,900.0,100.0
+61,How long is Union Turnpike in the New York area?,B,380.0,3800.0,11400.0,7600.0,1140.0
+62,How long is Sands Street in the New York area?,B,2700.0,900.0,100.0,1800.0,270.0
+63,How long is Laurel Hill Boulevard in the New York area?,B,25200.0,8400.0,2520.0,840.0,16800.0
+64,How long is Borden Avenue in the New York area?,D,530.0,15900.0,1590.0,5300.0,10600.0
+65,How long is Hunters Point Avenue in the New York area?,A,1200.0,120.0,2400.0,3600.0,360.0
+66,How long is Avenue C in the New York area?,C,6000.0,900.0,3000.0,9000.0,300.0
+67,How long is East 59th Street in the New York area?,C,2000.0,300.0,1000.0,3000.0,100.0
+68,How long is Queensboro Bridge Outer Roadway in the New York area?,B,4400.0,2200.0,220.0,660.0,6600.0
+69,How long is Ed Koch Queensboro Bridge Lower Level in the New York area?,E,300.0,200.0,100.0,100.0,100.0
+70,How long is East 60th Street in the New York area?,B,2700.0,900.0,100.0,1800.0,270.0
+71,How long is East 79th Street in the New York area?,C,600.0,4000.0,2000.0,200.0,6000.0
+72,How long is Manhattan Bridge in the New York area?,D,600.0,100.0,100.0,200.0,400.0
+73,How long is South Conduit Avenue in the New York area?,E,100.0,1500.0,1000.0,150.0,500.0
+74,How long is Roebling Street in the New York area?,D,100.0,2000.0,3000.0,1000.0,300.0
+75,How long is 102nd Street in the New York area?,A,400.0,800.0,120.0,1200.0,100.0
+76,How long is Fulton Mall in the New York area?,C,2100.0,1400.0,700.0,210.0,100.0
+77,How long is 24th Avenue in the New York area?,D,4800.0,3200.0,160.0,1600.0,480.0
+78,How long is 29th Street in the New York area?,E,600.0,100.0,100.0,900.0,300.0
+79,How long is 21st Street in the New York area?,D,3210.0,1070.0,21400.0,10700.0,32100.0
+80,How long is 50th Avenue in the New York area?,D,100.0,100.0,600.0,300.0,900.0
+81,How long is Highland Boulevard in the New York area?,D,6300.0,4200.0,210.0,2100.0,630.0
+82,How long is Havemeyer Street in the New York area?,D,100.0,100.0,200.0,100.0,300.0
+83,How long is 1st Avenue Tunnel in the New York area?,C,120.0,2400.0,1200.0,360.0,3600.0
+84,How long is Amsterdam Avenue in the New York area?,D,120.0,3600.0,2400.0,1200.0,360.0
+85,How long is West 75th Street in the New York area?,E,0.0,100.0,0.0,100.0,0.0
+86,How long is 3rd Avenue in the New York area?,E,8100.0,810.0,5400.0,270.0,2700.0
+87,How long is East 31st Street in the New York area?,D,1800.0,2700.0,100.0,900.0,270.0
+88,How long is Williamsburg Bridge in the New York area?,C,450.0,150.0,1500.0,3000.0,4500.0
+89,How long is Queensboro Bridge Approach in the New York area?,C,300.0,2000.0,1000.0,3000.0,100.0
+90,How long is Ed Koch Queensboro Bridge Upper Level in the New York area?,A,800.0,1600.0,240.0,100.0,2400.0
+91,How long is 6th Avenue in the New York area?,A,3900.0,11700.0,390.0,1170.0,7800.0
+92,How long is West 36th Street in the New York area?,E,600.0,400.0,100.0,100.0,200.0
+93,How long is Henry Hudson Parkway in the New York area?,B,1800.0,900.0,2700.0,100.0,270.0
+94,How long is West 60th Street in the New York area?,B,600.0,300.0,100.0,100.0,900.0
+95,How long is Madison Avenue in the New York area?,B,11100.0,3700.0,370.0,7400.0,1110.0
+96,How long is East 85th Street in the New York area?,E,100.0,100.0,0.0,0.0,0.0
+97,How long is Vernon Boulevard in the New York area?,E,9200.0,460.0,13800.0,1380.0,4600.0
+98,How long is Review Avenue in the New York area?,A,2500.0,7500.0,750.0,250.0,5000.0
+99,How long is Queens-Midtown Expressway in the New York area?,B,110.0,1100.0,3300.0,2200.0,330.0
+100,How long is Rust Street in the New York area?,B,1400.0,700.0,100.0,2100.0,210.0
+101,How long is Atlantic Avenue in the New York area?,D,55800.0,1860.0,5580.0,18600.0,37200.0
+102,How long is Sackman Street in the New York area?,E,100.0,100.0,200.0,300.0,100.0
+103,How long is East New York Avenue in the New York area?,D,510.0,3400.0,170.0,1700.0,5100.0
+104,How long is Jamaica Avenue in the New York area?,E,670.0,13400.0,20100.0,2010.0,6700.0
+105,How long is Fulton Street in the New York area?,C,17200.0,2580.0,8600.0,25800.0,860.0
+106,How long is Wythe Avenue in the New York area?,E,3000.0,150.0,450.0,4500.0,1500.0
+107,How long is Clymer Street in the New York area?,D,100.0,100.0,300.0,100.0,200.0
+108,How long is Cross Bay Boulevard in the New York area?,C,390.0,3900.0,1300.0,130.0,2600.0
+109,How long is Pulaski Bridge in the New York area?,E,3900.0,390.0,130.0,2600.0,1300.0
+110,How long is East 97th Street in the New York area?,D,180.0,100.0,1200.0,600.0,1800.0
+111,How long is Queens Plaza South in the New York area?,E,120.0,360.0,2400.0,3600.0,1200.0
+112,How long is Eastern Parkway in the New York area?,E,1110.0,3330.0,33300.0,22200.0,11100.0
+113,How long is Pitkin Avenue in the New York area?,A,13700.0,27400.0,1370.0,4110.0,41100.0
+114,How long is Junction Boulevard in the New York area?,C,450.0,13500.0,4500.0,1350.0,9000.0
+115,How long is East 37th Street in the New York area?,B,5100.0,1700.0,510.0,170.0,3400.0
+116,How long is 57th Avenue in the New York area?,C,200.0,6000.0,2000.0,4000.0,600.0
+117,How long is West 73rd Street in the New York area?,C,100.0,100.0,100.0,300.0,200.0
+118,How long is West 81st Street in the New York area?,C,480.0,160.0,1600.0,3200.0,4800.0
+119,How long is Lexington Avenue in the New York area?,D,11100.0,1110.0,7400.0,3700.0,370.0
+120,How long is East 24th Street in the New York area?,E,300.0,200.0,100.0,100.0,100.0
+121,How long is North 11th Street in the New York area?,B,2600.0,1300.0,130.0,3900.0,390.0
+122,How long is 82nd Street in the New York area?,A,2300.0,6900.0,4600.0,690.0,230.0
+123,How long is South Conduit Boulevard in the New York area?,C,210.0,100.0,700.0,2100.0,1400.0
+124,How long is Bedford Avenue in the New York area?,A,5800.0,580.0,1740.0,17400.0,11600.0
+125,How long is Maurice Avenue in the New York area?,A,3100.0,9300.0,6200.0,310.0,930.0
+126,How long is 114th Street in the New York area?,D,100.0,0.0,0.0,0.0,100.0
+127,How long is 34th Avenue in the New York area?,A,14800.0,29600.0,44400.0,4440.0,1480.0
+128,How long is Malba Drive in the New York area?,C,140.0,4200.0,1400.0,2800.0,420.0
+129,How long is Crescent Street in the New York area?,C,530.0,1590.0,5300.0,15900.0,10600.0
+130,How long is 81st Street in the New York area?,B,310.0,3100.0,9300.0,6200.0,930.0
+131,How long is Metropolitan Avenue in the New York area?,D,2220.0,66600.0,44400.0,22200.0,6660.0
+132,How long is Central Park South in the New York area?,D,2400.0,120.0,3600.0,1200.0,360.0
+133,How long is Van Sinderen Avenue in the New York area?,E,100.0,1500.0,1000.0,150.0,500.0
+134,How long is Flatbush Avenue Extension in the New York area?,E,270.0,2700.0,1800.0,100.0,900.0
+135,How long is Manhattan Bridge lower level in the New York area?,E,300.0,100.0,100.0,200.0,100.0
+136,How long is Aqueduct Road in the New York area?,B,4000.0,2000.0,6000.0,200.0,600.0
+137,How long is LaGuardia Road in the New York area?,E,2700.0,100.0,270.0,1800.0,900.0
+138,How long is Marine Terminal Road in the New York area?,A,1100.0,110.0,3300.0,2200.0,330.0
+139,How long is Meeker Avenue in the New York area?,A,2200.0,220.0,660.0,4400.0,6600.0
+140,How long is Nostrand Avenue in the New York area?,E,330.0,6600.0,990.0,9900.0,3300.0
+141,How long is DeKalb Avenue in the New York area?,A,2300.0,230.0,4600.0,690.0,6900.0
+142,How long is West 34th Street in the New York area?,E,600.0,100.0,100.0,400.0,200.0
+143,How long is Honeywell Street in the New York area?,D,110.0,330.0,3300.0,1100.0,2200.0
+144,How long is Bayside Avenue in the New York area?,B,6300.0,2100.0,210.0,4200.0,630.0
+145,How long is 138th Street in the New York area?,A,600.0,180.0,1800.0,100.0,1200.0
+146,How long is Lefferts Boulevard in the New York area?,B,23700.0,7900.0,790.0,15800.0,2370.0
+147,How long is 14th Avenue in the New York area?,E,11700.0,390.0,1170.0,7800.0,3900.0
+148,How long is 20th Avenue in the New York area?,D,700.0,21000.0,2100.0,7000.0,14000.0
+149,How long is East Broadway in the New York area?,E,1500.0,100.0,150.0,1000.0,500.0
+150,How long is Riverside Drive in the New York area?,C,360.0,3600.0,1200.0,120.0,2400.0
+151,How long is South Street in the New York area?,E,1400.0,100.0,2100.0,210.0,700.0
+152,How long is West 62nd Street in the New York area?,B,210.0,700.0,1400.0,2100.0,100.0
+153,How long is Manhattan Avenue in the New York area?,B,7200.0,3600.0,10800.0,1080.0,360.0
+154,How long is 49th Street in the New York area?,C,330.0,3300.0,1100.0,110.0,2200.0
+155,How long is Main Street in the New York area?,D,33000.0,1100.0,3300.0,11000.0,22000.0
+156,How long is West 42nd Street in the New York area?,A,300.0,100.0,600.0,100.0,900.0
+157,How long is Central Road in the New York area?,B,600.0,300.0,100.0,900.0,100.0
+158,How long is Buffalo Avenue in the New York area?,B,900.0,300.0,100.0,100.0,600.0
+159,How long is 48th Street in the New York area?,D,1920.0,19200.0,12800.0,6400.0,640.0
+160,How long is Woodside Avenue in the New York area?,B,8400.0,4200.0,1260.0,420.0,12600.0
+161,How long is Roosevelt Avenue in the New York area?,E,34200.0,5130.0,51300.0,1710.0,17100.0
+162,How long is Bowne Street in the New York area?,A,2500.0,7500.0,750.0,5000.0,250.0
+163,How long is 32nd Avenue in the New York area?,D,730.0,2190.0,21900.0,7300.0,14600.0
+164,How long is Willets Point Boulevard in the New York area?,A,1300.0,3900.0,130.0,2600.0,390.0
+165,How long is Kissena Boulevard in the New York area?,B,120.0,1200.0,360.0,2400.0,3600.0
+166,How long is New Lots Avenue in the New York area?,D,4600.0,230.0,690.0,2300.0,6900.0
+167,How long is Fountain Avenue in the New York area?,D,2200.0,3300.0,330.0,1100.0,110.0
+168,How long is West End Avenue in the New York area?,A,1900.0,190.0,570.0,5700.0,3800.0
+169,How long is 127th Street in the New York area?,D,6000.0,600.0,200.0,2000.0,4000.0
+170,How long is 11th Avenue in the New York area?,D,170.0,3400.0,5100.0,1700.0,510.0
+171,How long is Rikers Island Bridge in the New York area?,E,930.0,310.0,6200.0,9300.0,3100.0
+172,How long is Rockaway Boulevard in the New York area?,B,5800.0,2900.0,290.0,870.0,8700.0
+173,How long is 80th Street in the New York area?,C,1050.0,350.0,3500.0,10500.0,7000.0
+174,How long is 39th Avenue in the New York area?,A,1500.0,150.0,450.0,4500.0,3000.0
+175,How long is Liberty Avenue in the New York area?,D,29800.0,4470.0,44700.0,14900.0,1490.0
+176,How long is Hillside Avenue in the New York area?,D,110.0,3300.0,2200.0,1100.0,330.0
+177,How long is 31st Avenue in the New York area?,D,240.0,7200.0,720.0,2400.0,4800.0
+178,How long is Utica Avenue in the New York area?,E,210.0,6300.0,630.0,4200.0,2100.0
+179,How long is Flatbush Avenue in the New York area?,E,5200.0,7800.0,260.0,780.0,2600.0
+180,How long is 27th Avenue in the New York area?,E,450.0,3000.0,4500.0,150.0,1500.0
+181,How long is Washington Avenue in the New York area?,C,420.0,8400.0,4200.0,12600.0,1260.0
+182,How long is 97th Street Transverse in the New York area?,E,360.0,2400.0,120.0,3600.0,1200.0
+183,How long is 5th Avenue in the New York area?,E,24600.0,820.0,16400.0,2460.0,8200.0
+184,How long is 141st Street in the New York area?,E,330.0,2200.0,3300.0,110.0,1100.0
+185,How long is Pennsylvania Avenue in the New York area?,E,3600.0,360.0,2400.0,120.0,1200.0
+186,How long is East 14th Street in the New York area?,B,4500.0,1500.0,150.0,3000.0,450.0
+187,How long is Forest Parkway in the New York area?,D,150.0,3000.0,450.0,1500.0,4500.0
+188,How long is East 23rd Street in the New York area?,D,210.0,2100.0,100.0,700.0,1400.0
+189,How long is Booth Memorial Avenue in the New York area?,E,510.0,5100.0,170.0,3400.0,1700.0
+190,How long is 7th Avenue in the New York area?,B,1080.0,3600.0,360.0,10800.0,7200.0
+191,How long is 9th Street in the New York area?,C,100.0,1200.0,600.0,1800.0,180.0
+192,How long is East 106th Street in the New York area?,A,300.0,600.0,900.0,100.0,100.0
+193,How long is Grand Army Plaza in the New York area?,D,100.0,200.0,100.0,100.0,300.0
+194,How long is East 86th Street in the New York area?,B,100.0,700.0,210.0,2100.0,1400.0
+195,How long is East 34th Street in the New York area?,E,180.0,1200.0,1800.0,100.0,600.0
+196,How long is Bushwick Avenue in the New York area?,A,5400.0,540.0,10800.0,16200.0,1620.0
+197,How long is Cooper Street in the New York area?,B,6600.0,3300.0,330.0,9900.0,990.0
+198,How long is Cypress Avenue in the New York area?,B,15400.0,7700.0,23100.0,770.0,2310.0
+199,How long is Cooper Avenue in the New York area?,A,7800.0,780.0,2340.0,15600.0,23400.0
+200,How long is 43rd Avenue in the New York area?,D,110.0,3300.0,2200.0,1100.0,330.0
+201,How long is 11th Street in the New York area?,C,420.0,4200.0,1400.0,140.0,2800.0
+202,How long is 31st Street in the New York area?,E,20400.0,680.0,13600.0,2040.0,6800.0
+203,How long is Parsons Boulevard in the New York area?,C,12600.0,630.0,6300.0,1890.0,18900.0
+204,How long is 44th Drive in the New York area?,E,2000.0,3000.0,100.0,300.0,1000.0
+205,How long is Jackson Avenue in the New York area?,D,150.0,4500.0,3000.0,1500.0,450.0
+206,How long is Grand Avenue in the New York area?,B,12300.0,4100.0,1230.0,410.0,8200.0
+207,How long is Maspeth Avenue in the New York area?,D,310.0,930.0,9300.0,3100.0,6200.0
+208,How long is 56th Road in the New York area?,C,810.0,8100.0,2700.0,270.0,5400.0
+209,How long is 72nd Avenue in the New York area?,D,100.0,270.0,2700.0,900.0,1800.0
+210,How long is 74th Street in the New York area?,B,120.0,400.0,800.0,1200.0,100.0
+211,How long is 35th Avenue in the New York area?,E,11400.0,1140.0,7600.0,380.0,3800.0
+212,How long is Steinway Street in the New York area?,A,4800.0,480.0,1440.0,9600.0,14400.0
+213,How long is 39th Street in the New York area?,C,190.0,570.0,1900.0,3800.0,5700.0
+214,How long is Vanderbilt Avenue in the New York area?,B,5100.0,1700.0,510.0,3400.0,170.0
+215,How long is 19th Avenue in the New York area?,E,1050.0,350.0,7000.0,10500.0,3500.0
+216,How long is Greenpoint Avenue in the New York area?,D,430.0,8600.0,12900.0,4300.0,1290.0
+217,How long is McGuinness Boulevard South in the New York area?,E,360.0,120.0,3600.0,2400.0,1200.0
+218,How long is Myrtle Avenue in the New York area?,B,71700.0,23900.0,7170.0,2390.0,47800.0
+219,How long is Ashland Place in the New York area?,E,2100.0,1400.0,210.0,100.0,700.0
+220,How long is Navy Street in the New York area?,A,800.0,100.0,240.0,1600.0,2400.0
+221,How long is Union Street in the New York area?,D,410.0,12300.0,8200.0,4100.0,1230.0
+222,How long is 4th Avenue in the New York area?,A,2500.0,750.0,7500.0,250.0,5000.0
+223,How long is Van Dam Street in the New York area?,B,100.0,1000.0,2000.0,300.0,3000.0
+224,How long is 69th Street in the New York area?,B,1410.0,4700.0,14100.0,470.0,9400.0
+225,How long is Sutter Avenue in the New York area?,D,20400.0,680.0,13600.0,6800.0,2040.0
+226,How long is Rockaway Avenue in the New York area?,B,1710.0,5700.0,570.0,11400.0,17100.0
+227,How long is East 57th Street in the New York area?,B,180.0,600.0,1800.0,1200.0,100.0
+228,How long is 86th Street Transverse in the New York area?,D,160.0,480.0,4800.0,1600.0,3200.0
+229,How long is West 86th Street in the New York area?,A,700.0,100.0,210.0,2100.0,1400.0
+230,How long is 23rd Street in the New York area?,A,1100.0,110.0,3300.0,330.0,2200.0
+231,How long is West 72nd Street in the New York area?,A,1300.0,2600.0,130.0,390.0,3900.0
+232,How long is East 72nd Street in the New York area?,D,100.0,210.0,2100.0,700.0,1400.0
+233,How long is 65th Place in the New York area?,D,3300.0,330.0,2200.0,1100.0,110.0
+234,How long is Hamilton Place in the New York area?,A,2100.0,630.0,210.0,4200.0,6300.0
+235,How long is Central Avenue in the New York area?,B,290.0,2900.0,870.0,5800.0,8700.0
+236,How long is Flushing Avenue in the New York area?,B,680.0,6800.0,2040.0,13600.0,20400.0
+237,How long is 30th Avenue in the New York area?,C,350.0,7000.0,3500.0,10500.0,1050.0
+238,How long is Penelope Avenue in the New York area?,A,1300.0,3900.0,130.0,2600.0,390.0
+239,How long is 63rd Drive in the New York area?,A,1600.0,160.0,480.0,4800.0,3200.0
+240,How long is Linden Place in the New York area?,A,1000.0,300.0,3000.0,100.0,2000.0
+241,How long is Division Avenue in the New York area?,A,3000.0,900.0,9000.0,6000.0,300.0
+242,How long is York Avenue in the New York area?,A,2300.0,6900.0,4600.0,690.0,230.0
+243,How long is Corona Avenue in the New York area?,B,6900.0,2300.0,690.0,4600.0,230.0
+244,How long is Fresh Pond Road in the New York area?,C,1350.0,450.0,4500.0,9000.0,13500.0
+245,How long is 61st Street in the New York area?,E,160.0,4800.0,480.0,3200.0,1600.0
+246,How long is Borinquen Place in the New York area?,C,240.0,1600.0,800.0,100.0,2400.0
+247,How long is Grand Street in the New York area?,D,14700.0,9800.0,490.0,4900.0,1470.0
+248,How long is Union Avenue in the New York area?,C,990.0,9900.0,3300.0,330.0,6600.0
+249,How long is Sanford Avenue in the New York area?,C,110.0,3300.0,1100.0,330.0,2200.0
+250,How long is Yellowstone Boulevard in the New York area?,A,3600.0,7200.0,1080.0,10800.0,360.0
+251,How long is 69th Road in the New York area?,E,100.0,1400.0,210.0,2100.0,700.0
+252,How long is Nassau Street in the New York area?,C,100.0,800.0,400.0,1200.0,120.0
+253,How long is Roosevelt Island Bridge in the New York area?,B,800.0,400.0,100.0,120.0,1200.0
+254,How long is 36th Avenue in the New York area?,C,690.0,6900.0,2300.0,4600.0,230.0
+255,How long is 108th Street in the New York area?,A,5400.0,16200.0,540.0,1620.0,10800.0
+256,How long is 31st Drive in the New York area?,E,300.0,100.0,100.0,200.0,100.0
+257,How long is East 96th Street in the New York area?,D,180.0,100.0,1800.0,600.0,1200.0
+258,How long is East 63rd Street in the New York area?,B,1500.0,500.0,150.0,1000.0,100.0
+259,How long is Humboldt Street in the New York area?,E,100.0,0.0,100.0,0.0,0.0
+260,How long is Highland Place in the New York area?,A,1000.0,100.0,3000.0,2000.0,300.0
+261,How long is Eldert Lane in the New York area?,C,100.0,2700.0,900.0,1800.0,270.0
+262,How long is 59th Avenue in the New York area?,D,100.0,120.0,800.0,400.0,1200.0
+263,How long is Astoria Park South in the New York area?,A,600.0,1800.0,180.0,1200.0,100.0
+264,How long is Hoyt Avenue South in the New York area?,C,1200.0,180.0,600.0,100.0,1800.0
+265,How long is Samuel Dickstein Plaza in the New York area?,E,100.0,0.0,0.0,100.0,0.0
+266,How long is Montgomery Street in the New York area?,C,100.0,1400.0,700.0,2100.0,210.0
+267,How long is 51st Street in the New York area?,C,600.0,400.0,200.0,100.0,100.0
+268,How long is Box Street in the New York area?,E,600.0,100.0,100.0,400.0,200.0
+269,How long is 68th Street in the New York area?,B,400.0,200.0,600.0,100.0,100.0
+270,How long is Howard Avenue in the New York area?,B,2700.0,900.0,100.0,270.0,1800.0
+271,How long is East 58th Street in the New York area?,D,100.0,100.0,200.0,100.0,300.0
+272,How long is Classon Avenue in the New York area?,D,200.0,4000.0,6000.0,2000.0,600.0
+273,How long is Vandervoort Avenue in the New York area?,E,3000.0,2000.0,300.0,100.0,1000.0
+274,How long is 117th Street in the New York area?,D,100.0,0.0,0.0,0.0,100.0
+275,How long is East 42nd Street in the New York area?,D,1400.0,210.0,100.0,700.0,2100.0
+276,How long is 37th Avenue in the New York area?,D,100.0,0.0,0.0,0.0,100.0
+277,How long is 79th Street Transverse in the New York area?,D,100.0,180.0,1800.0,600.0,1200.0
+278,How long is East 61st Street in the New York area?,C,100.0,100.0,200.0,400.0,600.0
+279,How long is Sutton Place in the New York area?,A,200.0,600.0,400.0,100.0,100.0
+280,How long is East Houston Street in the New York area?,D,510.0,170.0,3400.0,1700.0,5100.0
+281,How long is Avenue D in the New York area?,C,7200.0,720.0,2400.0,4800.0,240.0
+282,How long is West 57th Street in the New York area?,B,240.0,800.0,2400.0,100.0,1600.0
+283,How long is Rodney Street in the New York area?,D,1400.0,2100.0,210.0,700.0,100.0
+284,How long is Hudson Avenue in the New York area?,C,400.0,600.0,200.0,100.0,100.0
+285,How long is Lee Avenue in the New York area?,B,100.0,600.0,180.0,1800.0,1200.0
+286,How long is Plaza Street West in the New York area?,E,0.0,100.0,0.0,100.0,0.0
+287,How long is Plaza Street East in the New York area?,E,0.0,100.0,100.0,0.0,0.0
+288,How long is Provost Street in the New York area?,E,170.0,5100.0,3400.0,510.0,1700.0
+289,How long is Varick Avenue in the New York area?,D,400.0,600.0,100.0,200.0,100.0
+290,How long is Varick Street in the New York area?,D,600.0,100.0,100.0,300.0,900.0
+291,How long is Lafayette Avenue in the New York area?,E,4200.0,2800.0,140.0,420.0,1400.0
+292,How long is Lombardy Street in the New York area?,C,800.0,1200.0,400.0,120.0,100.0
+293,How long is Conduit Boulevard in the New York area?,D,100.0,600.0,900.0,300.0,100.0
+294,How long is North Portland Avenue in the New York area?,B,400.0,200.0,100.0,100.0,600.0
+295,How long is Forest Park Drive in the New York area?,A,900.0,1800.0,100.0,270.0,2700.0
+296,How long is Thomson Avenue in the New York area?,A,500.0,1000.0,1500.0,100.0,150.0
+297,How long is 55th Avenue in the New York area?,D,5400.0,3600.0,180.0,1800.0,540.0
+298,How long is 132nd Street in the New York area?,A,1400.0,2800.0,4200.0,420.0,140.0
+299,How long is 59th Street in the New York area?,D,1800.0,1200.0,100.0,600.0,180.0
+300,How long is 57th Place in the New York area?,E,0.0,100.0,0.0,100.0,0.0
+301,How long is Gardner Avenue in the New York area?,D,100.0,200.0,100.0,100.0,300.0
+302,How long is 27th Street in the New York area?,A,200.0,100.0,100.0,600.0,400.0
+303,How long is Forest Avenue in the New York area?,C,12900.0,430.0,4300.0,1290.0,8600.0
+304,How long is 8th Street in the New York area?,D,600.0,100.0,100.0,300.0,900.0
+305,How long is Vermont Place in the New York area?,B,1200.0,400.0,120.0,800.0,100.0
+306,How long is Seaver Way in the New York area?,C,1800.0,180.0,600.0,1200.0,100.0
+307,How long is 33rd Street in the New York area?,A,2000.0,4000.0,600.0,6000.0,200.0
+308,How long is 126th Street in the New York area?,B,1500.0,500.0,1000.0,150.0,100.0
+309,How long is East 20th Street in the New York area?,D,140.0,4200.0,420.0,1400.0,2800.0
+310,How long is Franklin Avenue in the New York area?,C,300.0,2000.0,1000.0,3000.0,100.0
+311,How long is Wallabout Street in the New York area?,A,1000.0,300.0,100.0,3000.0,2000.0
+312,How long is West 66th Street in the New York area?,E,130.0,3900.0,390.0,2600.0,1300.0
+313,How long is 65th Street Transverse in the New York area?,D,9300.0,6200.0,930.0,3100.0,310.0
+314,How long is Queens Plaza North in the New York area?,E,1200.0,180.0,100.0,1800.0,600.0
+315,How long is 73rd Place in the New York area?,B,100.0,300.0,600.0,900.0,100.0
+316,How long is West 65th Street in the New York area?,C,1800.0,180.0,600.0,100.0,1200.0
+317,How long is Avenue A in the New York area?,C,3800.0,5700.0,1900.0,190.0,570.0
+318,How long is Main Avenue in the New York area?,E,300.0,100.0,100.0,200.0,100.0
+319,How long is 2nd Avenue in the New York area?,D,7800.0,780.0,5200.0,2600.0,260.0
+320,How long is Avenue B in the New York area?,E,870.0,5800.0,8700.0,290.0,2900.0
+321,How long is 8th Avenue in the New York area?,E,300.0,100.0,100.0,200.0,100.0
+322,How long is 51st Avenue in the New York area?,E,5200.0,780.0,260.0,7800.0,2600.0
+323,How long is Gold Street in the New York area?,A,400.0,100.0,800.0,120.0,1200.0
+324,How long is Franklin Street in the New York area?,D,780.0,5200.0,260.0,2600.0,7800.0
+325,How long is Rogers Avenue in the New York area?,E,260.0,5200.0,780.0,7800.0,2600.0
+326,How long is Fleet Street in the New York area?,A,1800.0,3600.0,5400.0,540.0,180.0
+327,How long is Juniper Boulevard South in the New York area?,C,6800.0,10200.0,3400.0,1020.0,340.0
+328,How long is Pacific Street in the New York area?,B,900.0,300.0,600.0,100.0,100.0
+329,How long is Baxter Avenue in the New York area?,D,2100.0,210.0,100.0,700.0,1400.0
+330,How long is Commercial Street in the New York area?,E,100.0,100.0,600.0,900.0,300.0
+331,How long is Bridgewater Street in the New York area?,B,1000.0,500.0,1500.0,150.0,100.0
+332,How long is 54th Street in the New York area?,D,900.0,600.0,100.0,300.0,100.0
+333,How long is 55th Drive in the New York area?,B,100.0,700.0,210.0,2100.0,1400.0
+334,How long is East 65th Street in the New York area?,B,4000.0,2000.0,6000.0,200.0,600.0
+335,How long is Kingsland Avenue in the New York area?,D,1500.0,150.0,1000.0,500.0,100.0
+336,How long is East 49th Street in the New York area?,D,150.0,1000.0,100.0,500.0,1500.0
+337,How long is Tunnel Exit Street in the New York area?,E,100.0,0.0,0.0,100.0,0.0
+338,How long is East 66th Street in the New York area?,E,6000.0,4000.0,200.0,600.0,2000.0
+339,How long is Monitor Street in the New York area?,E,120.0,800.0,100.0,1200.0,400.0
+340,How long is Brooklyn Avenue in the New York area?,C,100.0,100.0,100.0,300.0,200.0
+341,How long is 55th Street in the New York area?,C,100.0,2100.0,700.0,210.0,1400.0
+342,How long is 41st Avenue in the New York area?,C,480.0,4800.0,1600.0,3200.0,160.0
+343,How long is Taylor Street in the New York area?,A,200.0,600.0,100.0,100.0,400.0
+344,How long is Tunnel Approach Street in the New York area?,E,100.0,100.0,300.0,200.0,100.0
+345,How long is East 36th Street in the New York area?,D,1800.0,180.0,100.0,600.0,1200.0
+346,How long is North 10th Street in the New York area?,D,3000.0,450.0,4500.0,1500.0,150.0
+347,How long is Norman Avenue in the New York area?,E,0.0,0.0,100.0,100.0,0.0
+348,How long is Dane Place in the New York area?,E,100.0,300.0,100.0,200.0,100.0
+349,How long is Prospect Park West in the New York area?,B,2800.0,1400.0,420.0,140.0,4200.0
+350,How long is West 49th Street in the New York area?,E,5400.0,180.0,3600.0,540.0,1800.0
+351,How long is East 46th Street in the New York area?,C,480.0,3200.0,1600.0,4800.0,160.0
+352,How long is West 46th Street in the New York area?,E,450.0,150.0,3000.0,4500.0,1500.0
+353,How long is Doris C. Freedman Place in the New York area?,C,0.0,0.0,0.0,100.0,100.0
+354,How long is East 84th Street in the New York area?,E,200.0,100.0,100.0,300.0,100.0
+355,How long is East 53rd Street in the New York area?,C,1500.0,1000.0,500.0,150.0,100.0
+356,How long is West 50th Street in the New York area?,C,100.0,210.0,700.0,2100.0,1400.0
+357,How long is East 50th Street in the New York area?,E,2400.0,100.0,1600.0,240.0,800.0
+358,How long is East 30th Street in the New York area?,C,100.0,240.0,800.0,2400.0,1600.0
+359,How long is West 53rd Street in the New York area?,E,3300.0,2200.0,330.0,110.0,1100.0
+360,How long is East 54th Street in the New York area?,E,2400.0,100.0,240.0,1600.0,800.0
+361,How long is West 54th Street in the New York area?,D,1800.0,2700.0,270.0,900.0,100.0
+362,How long is Boody Street in the New York area?,A,400.0,1200.0,120.0,800.0,100.0
+363,How long is 62nd Drive in the New York area?,D,100.0,100.0,300.0,100.0,200.0
+364,How long is Eliot Avenue in the New York area?,E,0.0,0.0,100.0,100.0,0.0
+365,How long is Hell Gate Circle in the New York area?,D,330.0,3300.0,2200.0,1100.0,110.0
+366,How long is West 58th Street in the New York area?,B,1400.0,700.0,100.0,210.0,2100.0
+367,How long is North 14th Street in the New York area?,C,100.0,100.0,300.0,900.0,600.0
+368,How long is West 45th Street in the New York area?,E,100.0,2000.0,300.0,3000.0,1000.0
+369,How long is 63rd Road in the New York area?,E,100.0,100.0,0.0,0.0,0.0
+370,How long is 63rd Avenue in the New York area?,E,0.0,0.0,100.0,100.0,0.0
+371,How long is West 37th Street in the New York area?,B,100.0,200.0,100.0,400.0,600.0
+372,How long is East 35th Street in the New York area?,A,200.0,100.0,400.0,100.0,600.0
+373,How long is Schermerhorn Street in the New York area?,B,100.0,700.0,1400.0,210.0,2100.0
+374,How long is Front Street in the New York area?,C,1800.0,100.0,600.0,180.0,1200.0

@@ -1,0 +1,501 @@
+id,question,answer,A,B,C,D
+0,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Cross Keys Practice Centre (Royal Academy of Music),Good Space,Morgan Stanley,Bilton Towers
+1,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Lord Nelson,Copeland Park & Bussey Building,Basire Street Playground,Admiral House
+2,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,St Botolph-without-Bishopsgate,Montague House,Jubilee Line Prestons Road Shaft,Templemead House
+3,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Capital East Phase I,Thorpe Lodge,Templar Crescent,Grumbles
+4,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,The Dome Hyde Park,"Royal College of Art, Kensington",2012 Gardens,Platform 9¾
+5,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Hopewell Square,Kensal Rise Constitutional Club,Victory House,William Grigg's Garden
+6,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,The Lamb,Legacy House,Ashburnham Tower,Buchanan House
+7,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,King Square Gardens,Eckerd College London Study Centre,Nisa Local,Colley House
+8,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,M (outdoor Seating),HM Government,CEMEX,Cobourg Street Substation / TfL Euston Offices
+9,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Clevedon Mansions,London Academy of Music and Dramatic Art,Kokon To Zai,Norfolk Towers Hotel
+10,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,George IV,Marble Arch House,Prologis Business Park,Phoenix Upper School
+11,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Muse,St Stephen's Close,The Shed,Brantwood House
+12,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Heaven Sent Nursery,Harriet House,"Instituto Español ""Vicente Cañada Blanch""",Spain
+13,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Prestwich Terrace,The Henry Hotel,George IV,St Martins Lane Hotel
+14,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Southernwood Retail Park,SUSHINOEN,Courtauld House,Camelot House
+15,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Wapping Pier,Creffield House,Wash House Yard,UCL East
+16,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Mawdley House,Core Arts,City Wharf,Lutyens House
+17,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Carlisle Mansions,Balmoral Hotel,The Cube,Alleyn House
+18,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Drake House,Walworth Telephone Exchange,Savills,"Department for Environment, Food and Rural Affairs"
+19,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Winkworth Cottages,Arvon Road allotments,Honor Oak Group Practice,Long & Waterson
+20,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Gateway Road Household Reuse and Recycling Centre,One Stratford,Brick Lane School,Swiss Cottage Open Space
+21,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Sushi Murasaki,Woolpack House,Clapton Park Methodist Church,Sculpture Garden
+22,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Science Museum,Lord's Media Centre,Argun Printers & Stationers,Adrian House
+23,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Aspen Court Care Home,Moules Court,Blackmore House,Glendore House
+24,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Central Synagogue London,Pink Mews,Prendergast Ladywell School,Bamford
+25,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Waterside,Patmore Estate,Ivory House West,University College London
+26,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Old Ford Primary - A Paradigm Academy,Grove Hall Park,Honiton House,Saint Paul's Green
+27,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Eynsford House Community Garden,We Lend Cash,Jubilee Line Ventilation Shaft,Thomas More House
+28,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Mile End Park Dog Agility Trail,Westferry House,Moorfields Eye Hospital (City Road campus),Fleet House
+29,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,The Henry Hotel,28°-50° Wine Workshop & Kitchen,Flemings Mayfair Hotel,Newham College London
+30,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Holy Ghost Catholic Primary School,Lincoln Plaza,James Purdey & Sons,"King's College London, Strand Campus"
+31,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Shaftesbury House,Old Tram Depot,Field House,Queen's Gardens
+32,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,16 Babmaes Street,Marathon Science School,Killick Street Health Centre,Delvaux
+33,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Amico Bio,Ink,Former Baptist Chapel,Grace Baptist Church
+34,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Miller House,Lock & Co,St Pancras Cruising Club Dry Dock,English Russian Nursery Vishenka
+35,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Drayton Park Primary School,Auckland Road allotments,Union Chapel,Westway Sports Centre
+36,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Hyde Park Coach and Car Park,Old Swan Pier,Aga Khan Centre,The Bath House (27-29)
+37,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Kenyon House,Howard House,St Barnabas' CofE Primary School,String Court
+38,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Nell Gwyn Ltd,Honeywell Road Estate,Mitre Bridge Industrial Estate,Better Brows
+39,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Gloucester Square,Amazon Web Services (LHR14),One Canada Square,Handmaids Of The Sacred Heart Of Jesus
+40,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,St Anne's Churchyard,Leman Locke,Cambium,Astor Hyde Park Hostel
+41,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Champlain House,The Marylebone,Church of our Most Holy Redeemer,Archbishop Tenison's School
+42,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Bank Station - Cannon Street entrance,Poplar Shahjalal Mosque,Plowright House,York Mansions
+43,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Leighton House Museum,Victoria House,St Stephen's Close,Celtic House
+44,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Sail Court,The Loxfords,Duncan House,Windle & Moodie
+45,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,The Greene Man,Sandqvist,Claridge's,The Church of Jesus Christ of Latter-day Saints
+46,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Paul,Mandela Way Industrial Area,Clerkenwell and Bunhill Wards Police Station,Bramcote Nature
+47,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Missenden House,Braham Street Park,Marlborough House,Bemerton Estate
+48,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Roseate House Hotel,Great War Gun Emplacement,275 kV Switch House,River Place Health Centre
+49,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Bethnal Green Gardens,Hampstead Green,Levanter House,Fortune Theatre
+50,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Wandsworth Cemetery,Daubeney Fields,Central Perks Mobiles,St Peter Elgin Avenue
+51,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Flashpoint Centre Play,Berry House,Bloomberg Place - Walbrook Square,Creffield House
+52,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Pippa Pop-ins,Battersea High Street Estate,Compton Park,American International Church
+53,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,V V Rouleaux,Church of our Most Holy Redeemer,Riverside West,Trafalgar Theatre
+54,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Emerald Apartments,The Old Ivy House,Caldwell Gardens Estate,Waterstones
+55,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Gallery 83,Kings Cross telephone exchange,Knowlton House,Neal's Yard Remedies
+56,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Our Lady & St Catherine of Siena,South London Clutch and Gearbox Centre,Crabtree Boat Club,Wessex Gardens
+57,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Cubitt Town Primary School,Coqfighter,St. Leonard's Priory Park,Princess Court
+58,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Esso,Mandalay Picton House Hotel,Jane Austen House,Meadowbank Area SMI
+59,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Angel In The Fields,Elizabeth House,Thirst Bar,The Grey Coat Hospital
+60,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Newton Medical Centre,Prince Regent Court,Thirty Casson Square,Lauriston Road Cemetery
+61,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Saint George's Fields,West End Central Police Station,Knot Court,Watermead House
+62,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Willesden Green Baptist Church,The Music Box,Eleanor House,Harrington Court
+63,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Cleary Gardens,Raj Mahal Sweets,Compton Terrace Gardens,Ashworth Mansions
+64,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Banglatown Cash and Carry,Aquarius Golf Club,Wellington Hospital - North,Cadogan Clinic
+65,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,The Alwyne Castle,Green Zone,Chadworth House Estate,Augustus Building
+66,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,St James' Gardens,Nero Express,Chelsea Embankment Gardens,Bloc Salon
+67,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Kairos community trust,Lillie Road Recreation Ground,Vincent Street,Balmoral Apartments
+68,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Shoreditch Studios,10 Old Burlington Street,Westminster Abbey,Seymour Mews House
+69,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Bradfield Court,Herne Hill Road Medical Practice,Aberconway House,Wac Arts
+70,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Marland House,Middle Dartrey Walk,Ann Tayler Children's Centre,Russell Road Kitchen Garden
+71,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Bow Road Police Station,The Roy Shaw Centre,Cleve House,Moore House
+72,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Acland Burghley School,London Care (Westminster),Hackney Children & Baby Bank,Dolby Europe Ltd
+73,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,The Great Commission Ministry,School 21,Caxton House,St Mary's Church of England Primary School
+74,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Army Reserve Centre,Duke of York Public House,Capital Concrete,Archbishop Tenison's School
+75,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Sara Lane Studios,The Dog and Duck,Campden Hill Gate,Tower Hamlets Cemetery Park
+76,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Robinson House,Eternity Europe Ltd,Latimer Alternative Provision Academy,The Amadeus
+77,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Cantium Retail Park,Goldblatts,Azhar Academy Girls School,North Quay
+78,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,The Plumbers Arms,Peri Peri Original,Milner House,Outdoor gym
+79,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Compton House,First Barber,King Solomon Academy - Youngers Years Site,Boswell Court
+80,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,King's Quay,Arden Estate,Athree Spa,X Globe
+81,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Kingston House North,Pathe Building,Proud House,The St Mary’s Office
+82,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,150 Bishopsgate,The Zetter Townhouse Marylebone,The Camden School for Girls,Ringmer House
+83,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Luca,Adrian House,St George's CofE Primary School,Matson House
+84,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,7-10 Hanover Square,Soho Coffee Co.,Collingham Child & Family Centre,Phileas Fox Nursery School
+85,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Reiss,Nail'd It,Swedenborg Gardens,Bupa Dental Care
+86,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Judith Kerr Primary School,Sleaford House,Leonard Court,Farrells
+87,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Silverlock Tenants Hall,Christ Church Primary,Leyton Square,Helm House
+88,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,St. Frideswides,Hyde Park Talbot Square,Padbury House,Meadowbank Area SMI
+89,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,East India Club,Pasley Park,Rose Cottage,Lambeth Fire Station
+90,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,London City Suites,55 Broadway,Copes,Masumin's Kiosk
+91,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Odyssey House School - Bloomsbury,House of Mistry,Lord Byron,Chiltern Firehouse
+92,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Soho Place,Mavor House,Traid,"St Mary's, Kilburn"
+93,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Starbucks,The SLB,Hanover Flats,Victor Cazalet House
+94,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Institute of Economic Affairs,Temple Cycles,Pyra,Wapping Women's Centre
+95,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Raleigh House,Clapton Park Children's Centre,Footpatrol,Costa
+96,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Westminster Citizens Advice Bureau,Moules Court,Blessed Sacrament RC Primary School,David Roberts Art Foundation
+97,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Edgo House,Queen's College Preparatory School,Blackwall Transport Complex,Windmill
+98,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Coppermaker Square,The Lightwell,Hampstead Telephone Exchange,KPMG
+99,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Marlyn Lodge,Lampard House,Good Housekeeping Institute,Lyle Park
+100,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Western Riverside Refuse and Recycling Centre,Meadowbank Area SMI,King's Yard Energy Centre,Cabot Place Shopping Centre
+101,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Stillness Infant & Junior Schools,Hartland Estate,Lower Clapton Health Centre,The Cedar
+102,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Edward Woods Estate,Costcutter,Residence of the Belgian Ambassador,Motcombs
+103,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Bridge House,St Anne's Churchyard,Wanstead Flats,Slate House
+104,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Tiller Leisure Centre,Woodcock House,Hide Hackney,The Pilgrm Hotel
+105,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Fountain House,Moore Flats,The London Chest Hospital,University College London
+106,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Bank of Friendship,St Saviour's and St Olave's Church of England School,Friary Estate,The Cherry Trees School
+107,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,North Garden,Mortimer Hall,Grove Hall Park,Newham College London
+108,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Castlehaven Open Space,Beckett's Wharf,Giannasso,Welsh House
+109,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Argyll Point,Pakeman Primary School,Westminster Kingsway College,Addey and Stanhope School
+110,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,St John's Church of England Primary School,Rocket Products,Pieminister,Park West
+111,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,55 Ebury Street,St Joseph's Catholic Primary and Nursery School,Ascensis Tower,Paddington Fire Station
+112,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Westminster Magistrates' Court,Rutland House,Camden Service Centre,Diverso
+113,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,St Johns War Memorial,The Gore Hotel,Cocoro,Aspect Court
+114,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Market Place Vauxhall,Dhaka Motors,"The Canterbury, Oxford & Bermondsey Club",Donnington Court
+115,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,PizzaExpress,Lawes House,The Palm Tree,The Eagle
+116,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,MV Dana,Centre for Health and Human Performance,"Mondragon House, Old Vicarage",Brunchies
+117,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Russell Square Mansions,Bow Metcall Centre (Metropolitan Police Central Communications Command),Holmsbury House,Wine & Vape
+118,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Barlow Place Car Park,WB De Lane Lea,John F Kennedy Special School,Fairgate House
+119,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Bayford Street Industrial Centre,Park Grand Paddington Court,Tor Pettersen & Partners Ltd,Melbreak House
+120,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Wavelengths,Boswell Court,Rosina Carwash,Queens Court
+121,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Brett Manor,Crawford Mansions,Chiltonian Industrial Estate,My Place
+122,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Freemasons Road Midwifery Centre,Pembroke Square,Pudding Mill Lane Substation,Jacob House
+123,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Justines Place,Rennie Cottages,Yates Court,Thomas Buxton Primary School
+124,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Avro Court,Westminster Registry Office,Green Street Garden,London College of Fashion (Hackney Campus)
+125,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,HSS Hire,Cleveland Gardens,Coincraft,Paragon Gardens
+126,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Camden Arts Centre,Carmine Wharf,The Post Building,Tideway (Blackfriars Bridge Foreshore)
+127,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Stodmarsh House,The Athenaeum Club,Teviot Community Hall,Rotheley House
+128,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Travis Perkins,Guildhall School of Music and Drama,Alexandra Resource Centre,Sicily
+129,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Stonebridge Gardens,Sturdy House,Blackhorse Road Allotments,Courtville House
+130,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Kettle Yard,The Mulberry Bush,Old Ale Mug House,Victoria Point
+131,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Fantasy Factory,London Eye Ice Cream,Paul Rhodes Bakery Ltd,Kentish Town Health Centre
+132,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Ashby Court,Tonga High Commission,Gefen Sports,Al-Risaalah Mosque & Islington Islamic Centre
+133,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,New Cross Fire Station,Texaco,Challis House,Ladybower Court
+134,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Royal Connections,General Dental Council,Kestrel House,JCB
+135,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Go Chisou,Tottenhall,City Hall,Enstar House
+136,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,The Sloane Club,Berkeley Court Hotel,We Lend Cash,Flamstead House
+137,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Hackney Marsh Adventure Playground,Fleet House,Hood House,Anchor Retail Park
+138,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Institute of Practitioners in Advertising,St Alfege Park,Durward House,Burgess House
+139,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Felix Point,Brandon Estate,Beatrice Webb House,Varana
+140,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Tamplin Mews Gardens,Lawton Road Car Park,Runnymede House,Jean Darling House
+141,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Argyle Square Gardens,Berjaya Eden Park Hotel,Carlisle Lane car park,CeX
+142,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Shoreditch Park Primary School,Bloomberg Place - Walbrook Square,The Oiler Bar,6-52 Ford Street
+143,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Ebury Gate,Morley's,Forest Gate Community School,Station Square
+144,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Store Street Espresso,Danica Brass Limited,Arthur Lovell Court,Culvert House 4
+145,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Brioni,Springvale Estate,Point West,Davies & Vaughan
+146,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Southwark Metals,Meadowbank Area SMI,Diversity Garden,Westmead Garden
+147,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,The Round House,Stoke Newington School & Sixth Form,Grosvenor Gardens,Rosendale Primary School
+148,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Brompton Cross District Shopping Centre.,Royal Mile Whiskies,St Barnabas,Caldwell Gardens Estate
+149,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Stephen Hawking School,Nando's,Swinford Gardens (42-51),The Ridgmount Practice
+150,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Folkestone Gardens,QA Limited,NTR Metals,The Tramshed
+151,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,The Albany,Ryno,Network Theatre,Watermead House
+152,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,The Liberty,Whitechapel Road Market,Cumberland Mills,Olivet Deptford Baptist Church
+153,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Vauxhall Square,Royal Pharmaceutical Society,Stig Motors,Hackney Downs Studios
+154,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Sasal House,Haddonhall Estate,Abbot's Wharf,Park Lodge
+155,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,St Paul's Church,Olaf Court,Monkey Puzzle,Chang's Hot Pot
+156,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Headmasters,Kyoto Garden,The Skylark Cafe,Shepherd Court
+157,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Anelca Clinic,East India Dock Naval Row Car Park,Southwood Court,Craven Cottage
+158,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Arup,Whitney House,Capezio,City Road Substation
+159,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Rosebery Square East,SAM Mobile Repair,London East Alternative Provision,St John at Hackney Churchyard Gardens
+160,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,St Matthews Church,St Saviour's Church of England Primary School,"Saint Patrick's Church, Soho Square",Forest Lane Park
+161,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,IMMERSIVE LDN,Busaba,Caldwell Gardens Estate,Casson Apartments
+162,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,South Kilburn Open Space,St Mary's Church of England primary school,Lodge,Marathon Science School
+163,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Ufford Street Gardens,Bemerton Estate,Bow Corner Food & Wine,Two Southbank Place
+164,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Berjaya Eden Park Hotel,Royal Aeronautical Society,Gothic Court,Hallam House
+165,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Make Space Studios,Store Car Park,Hilton London Green Park,Queen's Gardens
+166,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Aberach House,London College of Massage,Wavelength Leisure Pool,Wapping Gardens
+167,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Victory Community Park,Landward Court,St Dunstan-in-the-West Garden,Lellers
+168,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Reiss,GPS House,Block 19.04,Warwick Community Hall
+169,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Hobbs,Geamos,Lynn Athletic Boxing Club,Goodge Street News
+170,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Starbucks,Bull in a China Shop,The Albert,Crofton Park Railway Garden
+171,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Queensberry House,Mossbourne Community Academy,Mudan Natural Health,Hanover Square
+172,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Reverspective,Harcourt Buildings,Elev-8 Performance Improvement Ltd,Latimer House
+173,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Caernarvon House,Blandford Square,330 Clapham Road,Hankey Garden
+174,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Windward House,Barclays,Erskine House,Royal Victoria Dock Floating Garden
+175,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Wash House Yard,Gas Light and Coke Company Memorial Garden,Kingsgate Workshops,SAE Institute
+176,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Wendy's Garden,Celebrity Dry Cleaners,Ceram Court,Our Lady of Sorrows
+177,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Costcutter,The Treverton Estate,Vintage Threads,Gate Lodge
+178,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,University College London,The Urban Adventure Base,Hilborough Court,The Risen Christ and All Souls
+179,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Guildford House,Clapham Common Skatepark,Rochelle Street Primary School House,Girling House
+180,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Yalta Memorial Garden,Beatrix House,Hungarian Cultural Centre London,Sue Godfrey Nature Park
+181,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Asia House,Beormund Primary School,Notting Hill Prep School,Melrose House
+182,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Beatrice Webb House,Iconic Images,68-90 Fern Street,Molasses House East
+183,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,St Alfege with St Peter's Church of England Primary School,Burr Road Car Park,Chapter Westminster London,Peters Court
+184,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Terrence Higgins Trust,Eastwood House,Diamond Gardens,Veolia
+185,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Morpeth Mansions,Oriana House,Côte Brasserie,93-115 St James's Crescent
+186,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Rothley Court,Burdett House,Kingsmead House,Lanarkslea House
+187,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Amory House,Londis,Brian Haughton,Cassia Point
+188,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Warehaus,The Chapel,Duke's Caffé,Hamiltons Gallery
+189,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,The Prostate Centre,The Kooples,Portlands Place,University College London
+190,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Unique24.co.uk,Mounts Cottage,Mind the Game,Union Arms
+191,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,The Greencoat Boy,Leytonstone War Memorial And Gardens,Chelsea Yacht & Boat Co Ltd,Surrey Docks Farm
+192,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Wildlife Garden,Moore Flats,M&Co.,Bigoli Fresh Pasta
+193,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,North View,R.O.S.E Community Clubroom,Barnsbury Estate Community Centre,Cromwell Hospital
+194,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Office of the Secretary of State for Wales,Hammersmith Police Station,Saatchi Gallery,Tesco Express
+195,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,UK Baha'i Community,Bigland Green Primary School,Up West British Adult Shop,Embassy of Panama
+196,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Standbrook House,Stepney Green Gardens,Casa di Stephano,Two
+197,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Holland Park Pre-Prep & Nursery,20-hair,Loris Community Garden,London Medical
+198,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Somewhere,Copperfield House / Simko House,Liberty London,1 Morpeth Terrace
+199,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,The Landmark,Pearce House,Meridian Adventure Play Centre,Swiss Cottage Library
+200,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Norfolk Plaza Hotel,Big Easy,Pancras Square Leisure Centre,Somewhere
+201,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Westminster Magistrates' Court,Grove Hall Park,The Book House,The Ordinary
+202,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Royal Lancaster,The Church of the Lord (Aladura),Cherubim & Seraphim Church,Mary Evans Picture Library
+203,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Crossbones Graveyard,Mulberry House,Hesketh House,Harley Street Centre for Women
+204,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,The Latymer Christian Centre,WeWork,Islamic Centre of England,Shephards Bookbinders
+205,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Caffè Nero,Lapworth Court,Sainsbury's Local,Casadei
+206,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Maldron Hotel Shoreditch,Lord Estates,The Rug Company,Eurostar Departures
+207,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Carlton Court,Alexandra Road Park,The Butchery,Kimberley Road Substation
+208,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Artillery House,Birch House,Orbit Beers Brewery,HSBC Rowing Club
+209,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Mudie House,Alexandra Lodge,The Cenotaph,National Grid London Connection Earl's Court Shaft
+210,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Benjamin Franklin House,Spire London,Haymarket Hotel,Millfields Community School
+211,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Fleet House,Suvlaki,Balthazar London,Primrose Hill School
+212,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Artillery Mansions,Porchester Court,Hurlingham School,Morden Wharf Bus Garage
+213,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Esther Building,Regent Sounds Studio,Sylvester Studio,British Collections
+214,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Lanark Medical Centre,Childline,Purday House,Westbourne Green Open Space
+215,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Aberconway House,Spinnaker House,The Bramcote,The Swan
+216,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,HS2 Phase 1,Balmoral Apartments,Petrocchi,zapp
+217,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Churchill Gardens Adults & Social Club,Islington Police Station,Leyton Mills Retail Rark,Thai Pot
+218,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,West End Court,375 Kensington High Street,Depicool,Castlemaine Tower
+219,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Crossrail Pudding Mill Lane shaft,Queen Mary Universtiy Whitechapel Campus,Natwest,Templar House
+220,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Wisteria Apartments,Old Admiralty Building,Wickway Community Centre,Streakers Dry Cleaners
+221,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Lulworth Gardens,Crosby,Ellison Apartments,Village
+222,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Laser House,Embassy of France,Atelier Court Central,The Coffee Tree
+223,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Mulberry Court,Middle Temple Garden,Athena Court,Tabernacle School
+224,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,St John's House,Frater,Court 8,Cantium Retail Park
+225,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Westminster School,Naylor House,The Bumble Bees,Notting Hill Prep School
+226,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Brondesbury Park Open Space,The Rock & Sole Plaice,Hubbards Cupboards,Sungate Lodge
+227,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Landin House,Planet E9,Pushkin House,Citadines Trafalgar Square
+228,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Nine Elms Telephone Exchange,Phileas Fox Nursery School,Furlong Court,Sun Wharf
+229,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Molasses House West,Cranfield Court,The Brown Collection,Hotel Columbus
+230,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,"Goldsmiths, University of London Campus",Hurford Salvi Carr,Richardson House,Highbury Quadrant Primary School
+231,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,J.H. Kenyon,R7,Supreme Council 33rd Degree,Shaftesbury Theatre
+232,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Grey House,Severn House,Camberwell Delivery Office,Evangelical Reformed Church
+233,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,The Jackalope,Italian Embassy (Defence),Greenwich Pier,Naval and Military Club
+234,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Lord's Cricket Ground,Ebury Bridge project,Daunt Books,Granville Mansions
+235,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Spex,The Fulham Bilingual,Hopton House,Daniels Silver & Marcasite
+236,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Teviot Community Centre,Drake House,Ilderton Primary School,Virginia Quay Settlers Monument
+237,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,St Mary Magdalen,By The Bridge,Hilton London Green Park,Centre for Health and Human Performance
+238,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Old Brompton Road Substation,The Little Coffee Tree,Mr. Fogg's Tavern,Princess Court
+239,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,St Mary of Eton,Euro Car Parks,Fourth Plinth,The Leaning House
+240,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Mudchute Park & Farm,Better Brows,Reed.co.uk,The Workshops
+241,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Supreme Council 33rd Degree,Orchard Primary School,Newington Green Primary School,The Kensington Arcade
+242,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Kennard House,Ebrahim College,Trinity Hall,Michigan Building
+243,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Bellamy's,Tamplin Mews Gardens,Busaba,Admiralty House
+244,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,St Quintin Children's Centre,Church of Saint Peter,Bird in Bush BMX Track,Melbury Court
+245,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,London Film School,Charles I,Ixworth House,Kensington Row
+246,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,MAC Cosmetics,Tesco Express,New London Synagogue,Prologis Business Park
+247,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Nash House,Millennium Leisure Park,Tudor Court Hotel,Arab British Chamber of Commerce
+248,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Pearce House,Nell Gwynn Nursery School and East Peckham Children's Centre,Greenway,Skippers Yard
+249,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,IKB Travel,The Princess Grace Hospital,Rosebay House,L.O.N.B.
+250,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Institute of Zoology,Colicci Hotdogs,Rushmore Primary School,NatWest
+251,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,St Stephen's Canonbury,Coombe House,Johnson Lodge,Kensal Green Backpackers
+252,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Dock East,Lambeth City Learning Centre,The Stafford,Gainsborough Hotel
+253,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Gloucester House,Waterman's Green,Summit House,Great War Gun Emplacement
+254,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Thunderbird Fried Chicken,Wedgewood Apartments,Red Lion Café,Benthal Primary School
+255,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Hackney Children & Baby Bank,Lipsync,The Rookery,Odeon Luxe Leicester Square
+256,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Algar House,Cantelowes Gardens,Bulgari Hotel,Darent House
+257,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,St Paul's Way Centre,Joseph Grimaldi Park,Milliner House,Marland House
+258,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Clapton Pond,South Africa House,Chris Braithwaite House,Pino Workshop
+259,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Unite Students - Angel Lane,Shoreditch Studios,Ancillary Pump House (Station B),West London Mission
+260,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Queen Elizabeth II Jubilee School,Leman Locke,Saint Anne's,Oracle Capital Group
+261,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,No. 1 Palace Street,Alexandra House,The Bath House,The Sweet Collab
+262,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Gay's The Word,The Capital Hotel,A&S Jewellers,The Princess Grace Hospital
+263,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Continental Hotel,General Dental Council,Sainsbury's,Hilton Building
+264,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Phoenix Court (Oval Village),Kestrel House,Muslim Halal Butcher,Shah
+265,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Blank Street Coffee,Tumbling Bay Playground,The Flower Shop,Barber Barber
+266,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Herbert Mansions,The Broad Walk Cafe,Acol Bridge Club & Academy,33
+267,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Pendant Court,1-6 Addison Park Mansions,Bowry House,Byron's
+268,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Kilburn Park Post Office,St Pancras Place,Pan Peninsula,Bridgewater House
+269,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,2012 Gardens,Fulham Cemetery,Battersea High Street Estate,White City Living
+270,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,King's College School Boat Club,Johnson's Drawdock,Ridley House,Park Court
+271,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Westminster School Playing Field,College Green,King's College London Honor Oak Park Sports Ground,Prince's Gate Garden
+272,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Falkland Place Open Space,Appleford,Lichfield House,Westminster Register Office
+273,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Integrated Medical Centre,M&S Food,Western Riverside Refuse and Recycling Centre,The Darlington Hyde Park
+274,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Burtt House,The Nehru Centre,LSBU Business School,Official residence of the Ambassador of Finland
+275,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,University College London,Pho,Selwyn House,Merano
+276,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Bank of America,L'Express,Crispin,Gower Hotel
+277,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Ousia,Peter the Great Memorial,Paddington Street Gardens South,St Marylebone Substation
+278,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,The Alliance,Elliott House,John Wilkes,"London Metropolitan University, Holloway Campus"
+279,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,The Kilburn Arms,Samvo House,Beauvale,The London Dermatology Centre
+280,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Wharton House,Maze Hill Allotments,Crowland House,London Bridge Substation
+281,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,iQ The Arcade,Casadei,claire's,Turnham Academy
+282,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Holland & Holland,Cayley Primary School,Railway Viaduct Spur,Grosvenor Square
+283,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Paveley House,Talacre Town Green,Burlington Parade,1st Choice Properties
+284,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Holborn Police Station,South East London Combined Heat & Power,Rowstock,downmarket_
+285,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Chrisp Street Market Redevelopment,Cobourg Primary School,Gibon House,The Electric Beach
+286,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Boyce House,Bacon's College,J.H. Kenyon,Pleasant Place Garden
+287,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Mansell Street Substation,Blackwall Tunnel Southern Gatehouse,Holland Park Estate,Glory and Honour
+288,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Saint Anne's,Oak Lodge School,Goldhurst House,Paddington Recreation Ground
+289,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Balthazar Boulangerie,La Tagliata,Acacia Business Centre,Hermit Parade
+290,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Westminster Leaving Care Service,Clerkenwell and Bunhill Wards Police Station,Beormund Primary School,50 Brook Green
+291,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Highbury Island,Hogarth Court,The Gore Hotel,Wolfson Foundation
+292,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Christ Apostolic Church,Guardhouse,Deanery Road Nursery,Southwark Metals
+293,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Colefax Group plc,The UCL Academy,Cayman Court,Agenda 21 Architects
+294,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Larch Court,Lilestone House,Maria Fidelis Convent School,Calvary Charismatic Baptist Church
+295,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Celestial Church of Christ,St Thomas's Recreation Ground,Cantelupe,John F Kennedy Special School
+296,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,HS2 Phase 1,Shu Xiang Ge Hot Pot,Dumbarton Court Public Open Space,St Clement and St James C of E Primary School
+297,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,The Prince Regent,Canal Park,White + Green,Reedworth Street Open Space
+298,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Ashley Hotel,Temple Kiosk,Regeneration Development Site,Haggerston Baths
+299,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Mini allotments - under construction,Satan's Whiskers,Twist,Wellington Road Open Space
+300,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Amarcord,Tongue & Brisket,Leyland House,Pakeman Primary School
+301,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Marco Polo Tower,Malet Street Gardens,Soroptimist International Greater London,The Palm Tree
+302,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Barham House,One Hyde Park,52 Grosvenor Gardens,United House
+303,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Ping Pong,The Sutton Arms,Docklands Court,"Former St Mark's School,"
+304,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Queen's Park Court,Indigo Mews,LPT2 - New Cross Substation,Queen's Crescent Library
+305,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Greenwich Yacht Club,La Pizzica,Temple Mills Depot,Britannia Village Community Hall
+306,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Powis Square,Tadpoles Nursery,2012 Gardens,Institute of Advanced Legal Studies
+307,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,London East Alternative Provision,Quarter House,Aberdeen Place B Substation,Christian Union Almshouses
+308,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Kingly Court,Warehaus,Molinare,Merrick Square
+309,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Arborfield House,demolished: shops,Lapworth Court,Clarendon and Lansdowne Garden
+310,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Copper Box,Portland Place School,London Zoo Entrance,Rubicon Court
+311,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Bramwell House,Northways Parade,High Commission of India,H. Stain Ltd
+312,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Spire London,Butterfield Green,The Terrace by Megans,L'Atelier de Joel Robuchon
+313,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Joe & The Juice,The Phoenix Hostel,Dunbar Wharf,Victor House
+314,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Good Space,Hammersmith BMX Track,George Carter,University College School
+315,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Tanning Shop,Andrew Edmunds,Wardell Apartments,Central Foundation Boys' School
+316,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Westminster Kingsway College,St Lawrence Court,Avondale Park,ABBA Arena
+317,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Miller House,William Morris Sixth Form,68 and Boston,Fish & chips shack
+318,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Royal Artillery Memorial,English Martyrs Roman Catholic Primary School,St Matthew's Church Bayswater,Gainsborough House
+319,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Vicarage,High Commission of Canada,Kingsgate House,Bow Bus Garage
+320,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Nando's,Kingsway Telephone Exchange,ie:music,The Slug and Lettuce
+321,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Gielgud Theatre,1-17 Tutelage Court,Broadwick Silks,St James-the-Less
+322,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Crimean War Memorial,City Inn Express,Thornhill Primary School,Dorset Square Hotel
+323,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Ironmongers' Hall,The White Horse,Bronte House,Legacy House
+324,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Stephen Jones,Shelter,St Luke's Square,Park West
+325,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Site B,Grafton House,Mail Boxes ETC.,Marlborough House
+326,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Still & Star,Rochester House,GAM,Zoo Treats
+327,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Nag's Head,Drake House,Mulberry Stepney Green Mathematics and Computing College,Butterfly Lane Nursery
+328,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Lewis Cubitt Square,Algar House,Regis House,Jobcentre Plus
+329,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Courtauld House,Savoy,Virginia Court,Gary Ingham
+330,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Blackburn House,Scotts Sufferance Wharf,Meyrick House,Moorgreen House
+331,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Bond Mansions (Portobello Square),Lavender Pond Nature Park,Manor Centre,Lodge
+332,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Teviot Community Centre,University College London,Hall,Fulham Delivery Office
+333,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Hyde Park Residence,Leslie Forster House,Kensal Green Telephone Exchange,Xi'an Impression
+334,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Carter Lane Gardens,Broughton House,Colley House,Lucienne Court
+335,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Ptarmigan,The Newark,Oi Polloi,Brighton College Prep Kensington
+336,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Upper Crust,Peabody Estate,Audley Square House,Parsons Green Sports & Social Club
+337,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Pleasant Place Garden,Brick Kiln 2,Goldwell House,Silverthorne Loft Apartments
+338,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,The Londoner,Elvin House,Jenkins Hotel,Saint Silas
+339,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Sabera & Co,Jean Darling House,Malmesbury Primary School,Abercorn School (prep)
+340,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Edwardes Square,The Westbridge Hotel,Prince's Square Gardens,Bistro Olivo
+341,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Middle Temple Hall,Stephenson House,Styles Gardens (71-86),St Stephen's Church of England Primary School
+342,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Wandle Recreation Centre,Richard Neale House,Esca House,Hermitage House
+343,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Bankside Yards,Thistle Marble Arch,Highbury Quadrant Primary School,Brettenham House
+344,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Amazon Salon,Nelson House,High Commission of Botswana,Eridge House
+345,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Baden-Powell House,Guinness Trust Housing Association Estate,Wyke Estate Community Hall,Invergarry House
+346,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Strand Palace Hotel,Prior Street Allotments,Athena Court,Great War Gun Emplacement
+347,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Embassy of Slovakia,Rigg House,Icknield House,London Rowing Club
+348,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Orion Business Centre,New Concordia Wharf,George IV,The Clock House
+349,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Barton House,Fernie House,The Factory,Toolstation
+350,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Springvale Estate,Hornsey Street Reuse and Recycling Centre,The Greene Man,Millennium Health Centre
+351,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Flemings Mayfair Hotel,The Dublin Castle,Fish & chips shack,Car Park 3 (non arena parking)
+352,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Paultons House,King Square Gardens,The Cavendish School,Poplar Works
+353,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,My Place,Hilton London Metropole,Darwin House,Wickford House
+354,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,90-104 Berwick Street,Mossbourne Riverside Academy,Worcester House,Beaumont Walk
+355,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,The Queen’s Club,St Anne's and Guardian Angels Catholic Primary School,Curlew House,Royal Mail Depot
+356,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,The Good Neighbour,English Martyrs Roman Catholic Primary School,Seyed Nakhjavani,South Hampstead High School
+357,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Prince's Gate Garden,Museum of the Home,Plaistow Hub,Broughton House
+358,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,URS/Scott Wilson,Risborough House,Kokura,Machine Gun Corps Memorial
+359,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Lombard Wharf,Falconbrook Primary School,Russia Dock Woodland,Mon Plaisir
+360,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Access Self Storage Fulham Broadway,St Mary's Church Vicarage,Crossrail Pudding Mill substation,Ulster University London (QABS)
+361,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Kwik-Fit,Westminster Cathedral,Stratford Police Station,"1-12, 21-32 Dethick Court"
+362,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Navis House,"St Mary the Virgin, Primrose Hill",Maroush Gardens,British Academy of Film and Television Arts
+363,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,St Mary Abbots Gardens,100 Putney Common,Moorfields Eye Hospital (City Road campus),The Island
+364,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Chalfont Court,University College London,Bussell Building,Ivanhoe House
+365,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Gibraltar House,Abbot House,Kenzo,Crédit Agricole - Corporate & Investment Bank
+366,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Brymon Court,Nuffield House,Kensington Aldridge Academy,Pollard Close
+367,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Kingston House South 1-32,E. Klein & Co,The Washington Mayfair Hotel,The Academy
+368,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Ornamental Garden,Densham Green,Glengall Business Centre,Amhurst Road Car Park
+369,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,EIFA International School,Monmouth Coffee Company,Hilgrove Estate,Our Lady of Dolours Catholic Primary
+370,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Official Residence of the Ambassador of Burma,Wedge House,Vinegar Yard,Royal Hill Estate
+371,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Battersea Exchange,OYO London 24 Sussex,Augustine Court,Alara
+372,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Culvert House 2,Ascot Hyde Park Hotel,"King's College London, Guy's Campus",Burtt House
+373,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Manor Methodist Church,Saudi Health Office,LSBU Business School,Battersea Exchange
+374,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Stodmarsh House,Brook Green,St. James’s Café,Regent Square Gardens
+375,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Kenyon House,Mamma Santissima,Chambers Wharf (Thames Tideway),Churchill Gardens Youth Club
+376,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,The Wesley,132kV Gas Insulated Switchgear,Avonmore Primary School,Cooper House
+377,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Joben Court,The Rusty Bike,Honor Oak Adventure Playground,Gordonbrock Primary School
+378,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Shrewsbury Gardens,One Church Square,Bridge Avenue Mansions,Mudmee
+379,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Jobcentre Plus,The Cricklewood Lodge,Plimsoll Building,HS2 Phase 1
+380,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Rituals,The Nellie Dean of Soho,Gibbons,Trafalgar Chambers
+381,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Harper House,York Hall Leisure Centre,Goat Tavern,Poplar Riverside
+382,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,HCA Laboratories,Tower Hamlets BMX,Victor Cazalet House,Chrisp Street Market Redevelopment
+383,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Mohley House,Princess Court,Sargasso Court,Joe Richards House
+384,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Bromley Pressure Reduction System,Stratford Padel Club,St Paul's Way Trust School,William Baffin Court
+385,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Selsey,The Canvas,Marian Court,Leathermarket Gardens
+386,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Our Lady of Sorrows,Stepney Green Court (C),Tudor Court Hotel,South Bank Printmakers
+387,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,6-52 Ford Street,"Department for Environment, Food and Rural Affairs",Saint Gabriel's College,Beacon Bingo Overflow Car Park
+388,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Southwark Street,St Luke's Square,Kensington Primary Academy,Stem
+389,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Royal College of Midwives,Green Light Pharmacy,Roper's Garden,George Mews Car Park
+390,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,More House School,Naval and Military Club,Lennox Gardens,Halstow Primary School
+391,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Royal Institution,Heybridge,ASK Italian,Dean's Yard
+392,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Twentieth Century House,AirW1,Nutford House,Pizza Sophia
+393,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Brunel the Sandwich Shop,LPT2 - New Cross Substation,Tideway (Heathwall Pumping Station),The Birkbeck Centre
+394,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Riverlight One,Bryanston Court (flats 55-120),Ben Uri,47-70 Morland Estate
+395,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Aubaine,The Gridiron,Westbourne Gardens,London Canal Museum
+396,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Thames Christian School,Stourcliffe Close,Deptford Ambulance Station,Clareville House
+397,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Gastigny House,Bow Road Station,Sail Court,Sandwell Mansions
+398,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,South Coast Eyewear,Stephen House,Carlton Primary School,Notting Hill Prep School
+399,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,13-38 Pepys House,Langley House,Eleanor House,Frognal Parade
+400,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Bow Substation,Madison House,North Paddington Telephone Exchange,Thomas Road Industrial Estate
+401,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,100 Wardour Street,The Urswick School,Anson House,Umbrella Rooms
+402,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,The Barber’s House,Piccadilly Theatre,New Hope Christian Church,Lexington Water Tower
+403,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Centre for Children & Young People with Disabilities,Thomas Coulter House,Jolly Gardeners,Dulwich Park
+404,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Saint Monica's,Iqra Primary School,Thames Electrical,Finsbury Health Centre
+405,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,"Cultural, Health and Military Attachés of the Embassy of the Sultanate of Oman",Look Lovely London,Gardiner House,Old Southwark Fire Station
+406,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,The Tile Shop,St Mark's Centre,Canal & River Trust,Arnhem Wharf
+407,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Carlyle House,St Luke's Square,Patmore Estate,In Spitalfields
+408,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Westminster Quaker Meeting House,Gallery Hyde Park Hostel,Battersea Roof Garden,Chelsea Island
+409,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Portlands,Verde SW1,Coatis,Torriano Estate
+410,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Kingswell,Britannia Village Community Hall,Clevedon Mansions,All Star Tennis
+411,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Chartwell Business Park,Chicken Shop,Visage Apartments,"Mondragon House, Old Vicarage"
+412,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Bistro Olivo,Acacia Nursery,Burbage House,Rosendale Primary School
+413,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Former St Luke's Chapel,St. Pauls,Ukrainian Catholic Cathedral of The Holy Family in Exile,Robert
+414,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Kaleidoscope,Camden Square,Ascensis Tower,Byng Place Apartments
+415,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Prince of Wales Gate,Lambeth Palace Garden,Akenside Court,Cleopatra's Needle
+416,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Connor Court,The Soho Hotel,Alderbrook Primary School,Fox Primary School
+417,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Ptarmigan,The Kilburn Park School,Ping Pong,Clapton Bus Garage
+418,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Rainbow Family Centre,The Lamb and Flag,Burcham Street Community Centre,Tate & Lyle Sugars
+419,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Old Football Pitches,Springvale Estate,Over Under Coffee,Our Lady of Grace RC Church
+420,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Rushey Green Nursery,Martin Luther King Young People's Partnership,Meerkats,Broadway Cafe
+421,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Union Car Parks,Cowslip Meadow,St Michael,Brady House
+422,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,27 Knightsbridge,London Medical,Residence of the Ambassador of Greece,The Quiet Night Inn
+423,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,The White Horse,Activity Den,University College London,N1 Laser & Beauty Clinic
+424,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Bonne Bouche Coffee Shop,Thomas's Battersea,Apostrophe,Westminster Abbey
+425,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Britley House,London East Alternative Provision,Z Cafe,Victor House
+426,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Fired Earth,Jazz After Dark,Texaco,inamo
+427,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Rose Garden,Lanark Mansions,Margery Street Estate,Newington Green
+428,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Manoukian Music Centre,Omescape,Asquith House,Vale House
+429,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Shepherd's Bush Market tube station,Hither Green Water Tower,Westerham House,Gray's Inn
+430,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Wharfedale Court,Viet Food,Shoreditch Heights,Mossbourne Victoria Park Academy
+431,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Warner House,St Mark's Vicarage,Block B1,Ashburton Triangle
+432,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Frampton House,Norland North Open Space,Wandsworth Quarry,Fielding Street Allotments
+433,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Eurostar Departures,Randolph Court,Christ Apostolic Church,Doddle
+434,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,British Transport Police,The Sumner Hotel,Old Nick,Wild Honey
+435,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Denmark Place Baptist Church,The Clarence,Fulham Primary School,Latchmere Estate
+436,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Embassy of Brazil,Samuel Lewis Trust Dwellings,Valve House,Maxilla Walk
+437,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,National Grid London Connection Earl's Court Shaft,RoomZzz Aparthotel,Keeper's House,Diverso
+438,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Shoreditch Fire Station,Brandon Estate,Confluence Park,Muzey
+439,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,The Duke of Sussex,Berghem Mews Business Village,Steak+,Thornwill House
+440,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,London Heart Centre,Bagel Factory,Woodmans Mews Community Garden,St. Augustine's Sports Centre
+441,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Southbank Centre,Hampstead Green,"Roman Catholic Church of Our Lady, Queen of Heaven",Manbey Street Games Court
+442,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Hatch Waffles,"Goldsmiths, University of London Campus",Cameron House,Spivack Chemist
+443,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Walters House,Aral House,Saint Columba's,Bankside Hotel Autograph Collection
+444,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Chesham House,Macready House,Norwest House,New Cross Station Maintenance Yard
+445,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Redemption Roasters,Gateway Central/ West,Queen's Park Pharmacy,Pub Licasity
+446,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Waldron Health Centre,Outback,Willesden Post Office,The Windmill
+447,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Masons House,The Amadeus,The Michael Palin Centre,Caviar House & Prunier
+448,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Jimmy Jacks,Flotilla House,Wagamama,Regent House
+449,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Marlow House,Westbourne Grove Church,Paul Smith,Jubilee Gardens
+450,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Lettsom Estate,Euston Square Gardens West,The Wellesley,Brick Lane Jamme Masjid
+451,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Hawley Primary School,St Mark's Church,KingswayPark Hotel at Park Avenue,Bonner Primary School
+452,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Giraffe Stop,Faraday Gardens,Euro Car Parks,Westminster Telephone Exchange
+453,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,The Plough,University College London,Sticks n Sushi,Muslim Halal Live Chicken and Poultry
+454,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Azhar Academy Girls School,Brunel Museum,Bushfield House,Northumberland House
+455,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Metropolitan Police Garages,Britannia Leisure Centre,Lantana Heights,Willesden Sports Centre
+456,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Village,Long Wall Ecology Garden,"137 Detachment, SW London Army Cadet Force",Builders Arms
+457,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Kingfisher House,Stepney Green Court (G),The Fulham Bilingual,Third Age Project
+458,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,St Mary's Churchyard,Elgar House,The Kensington,Putney Lawn Tennis Club
+459,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Inner Temple Garden,Pond Farm Estate,The Indians Next Door,St Luke's Church of England School
+460,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Gascoyne Estate,The Ahoy Centre,Charles House,Winkworth Cottages
+461,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Shepherd's Bush Market,Stone House,Embassy of Turkey,Bush Industrial Estate
+462,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Swanlea School,Jobcentre Plus,N Leytonstone,Hide Hackney
+463,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,La Dolce,BLANC,Woolpack House,Theatre Royal Haymarket
+464,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,St Peter's Eaton Square CE Primary School,The St Mary’s Office,Hampson Way,The Liberty
+465,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Southwark Inclusive Learning Centre,Holly Place,Children's Play Pavilion and Park,Marlborough House
+466,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Manbey Street Games Court,Endell Street Dental Care,The Bath House,High Commission of Cameroon
+467,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Brandon Baptist Church,Togo,The Winch,Airways Hotel
+468,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Coleherne Court,Bright Horizons Nursery,Wapping Green,Parliament Square
+469,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Brookfield House,Newham College London,Osteria Ambrosia,Rotherhithe Business Estate
+470,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,The Hayward,The London Vein Institute,Russell Square Mansions,Turpin House
+471,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Nuffield House,Quaker Court,Bottles,Pipe Bridge
+472,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Paddy Power,Church Green,The Actors Centre,Kidbrooke Village
+473,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Stonebridge Gardens,Hammersley House,Chelsea Manor Court,Pret A Manger
+474,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Stratford Studios,Glebe Mansions,Wilmington Square,High Commission of Botswana
+475,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Sonder – Chelsea Green,Cabot Square,Eveline Lowe Primary School,The Sylvans
+476,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Roman Way Industrial Estate,Tower of London,Kensington Aldridge Academy,The Perimeter
+477,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Fazenda,Fish & chips shack,St Mary Magdalene CE Primary School,Whitehall Garden
+478,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Old Southwark Fire Station,Natural History Museum,Galaxy Nails,Lao Café
+479,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Plaistow Place,Garlinge House,Bramwell House,Marquis of Granby
+480,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Trowbridge Estate,St. John's Road,Leo's Den Nursery,St Mary's House
+481,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Darent House,The Garden School,Saint Anne's,Medway House
+482,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Marcon Court,Repton House,Society of Designer Craftsmen,Dominique's
+483,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Bunel House,New River Baptist Church,Westminster Telephone Exchange,Railton House
+484,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Datapoint Business Centre,The Ritz London,BT,The Salvation Army
+485,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Central Synagogue London,Royal Brompton Hospital,Handel Mansions,Vesage Court
+486,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Willow Court,Embassy of Angola,Bernard Hegarty Lodge,Nicholls & Pearce Ltd
+487,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Little Dorrit Park,Swinbrook Estate,Gresham Baptist Chapel,Bryer Court
+488,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,St. Andrews Building,Sunbury Workshops,Brisbane Road,Tarkett
+489,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,InterContinental London - The O2,Spitalfields City Farm,Prior Weston Primary School and Children's Centre,Princess Glass
+490,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Cavendish Square,Mayfair House,Camden People's Theatre,Redbrick Estate
+491,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,A,Southside Quarter,Mile End Park Active Zone,Greenleaf Close,Thorpe Lodge
+492,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Cathedral Hall,Dale House,Pret A Manger,Soho Health Centre
+493,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Stourcliffe Close,James Wolfe Primary School and Centre for the Deaf (Royal Hill Campus),Three.,Parson's Green Nursery
+494,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Miné Mané,The Comedy Pub,Alliance Medical Imaging Centre,Hertfords Mayfair Apartments
+495,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Bow Enterprise Park,Moorfields Eye Hospital,Ergon House,Davril
+496,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,The Grove Apartments,St Joseph's Catholic Infant & Junior School,Electric House,Hubbards Cupboards
+497,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,D,Harry's Bar,The Eagle,The Windsor Castle,Hooper Square
+498,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,C,Kensal Rise Baptist Tabernacle,Starbucks,Leconfield House,London Vision Clinic
+499,Which of the following AOIs (Area of Interest) in London is likely to have the largest area?,B,Regent House,Fulham Ambulance Station,Paul,Sotheby Mews Day Centre

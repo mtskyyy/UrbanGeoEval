@@ -1,0 +1,729 @@
+id,question,answer,A,B,C,D
+0,"In the Berlin area, which road cannot directly reach Siemensdamm?",C,Rohrdamm,Jakob-Kaiser-Platz,Luxemburger Straße,Nonnendammallee
+1,"In the Berlin area, which road cannot directly reach Nonnendammallee?",B,Siemensdamm,Wiener Straße,Otternbuchtstraße,Rohrdamm
+2,"In the Berlin area, which road cannot directly reach Breitenbachplatz?",C,Schorlemerallee,Südwestkorso,Friedenauer Brücke,Schildhornstraße
+3,"In the Berlin area, which road cannot directly reach Schorlemerallee?",D,Podbielskiallee,Breitenbachplatz,Englerallee,Schulstraße
+4,"In the Berlin area, which road directly reaches Oderbruchstraße?",B,Dohnagestell,Hohenschönhauser Straße,Karlshorster Straße,Allee der Kosmonauten
+5,"In the Berlin area, which road cannot directly reach Landsberger Allee?",C,Danziger Straße,Storkower Straße,Scheidemannstraße,Ebertystraße
+6,"In the Berlin area, which road cannot directly reach Märkische Allee?",B,Alt-Biesdorf,Buschallee,Bitterfelder Straße,Mehrower Allee
+7,"In the Berlin area, which road cannot directly reach Heinrich-Mann-Straße?",D,Heinrich-Mann-Platz,Hermann-Hesse-Straße,Schönholzer Straße,Röblingstraße
+8,"In the Berlin area, which road directly reaches Heinrich-Mann-Platz?",D,Mehringdamm,Reginhardstraße,Gustav-Holzmann-Straße,Heinrich-Mann-Straße
+9,"In the Berlin area, which road cannot directly reach Ernst-Reuter-Platz?",C,Marchstraße,Straße des 17. Juni,Rixdorfer Straße,Bismarckstraße
+10,"In the Berlin area, which road directly reaches Marchstraße?",C,Reichstagufer,Kiefholzstraße,Ernst-Reuter-Platz,Minna-Cauer-Straße
+11,"In the Berlin area, which road cannot directly reach Alt-Moabit?",B,Beusselstraße,Karl-Liebknecht-Straße,Invalidenstraße,Stromstraße
+12,"In the Berlin area, which road cannot directly reach Invalidenstraße?",C,Hessische Straße,Platz vor dem Neuen Tor,Habelschwerdter Allee,Brunnenstraße
+13,"In the Berlin area, which road cannot directly reach Manfred-von-Richthofen-Straße?",C,Boelckestraße,Tempelhofer Damm,Ferdinand-Friedensburg-Platz,Werner-Voß-Damm
+14,"In the Berlin area, which road cannot directly reach Tempelhofer Damm?",B,Ordensmeisterstraße,Minna-Todenhagen-Straße,Attilastraße,Alt-Tempelhof
+15,"In the Berlin area, which road directly reaches Parchimer Allee?",A,Fulhamer Allee,Treskowallee,Rathausstraße,Frankfurter Allee
+16,"In the Berlin area, which road cannot directly reach Buschkrugallee?",D,Parchimer Allee,Karl-Marx-Straße,Blaschkoallee,Hannoversche Straße
+17,"In the Berlin area, which road cannot directly reach Wallstraße?",C,Fischerinsel,Neue Roßstraße,Ben-Gurion-Straße,Inselstraße
+18,"In the Berlin area, which road directly reaches Inselstraße?",C,Uhlandstraße,Munsterdamm,Köpenicker Straße,Levetzowstraße
+19,"In the Berlin area, which road cannot directly reach Warschauer Straße?",A,Französische Straße,Frankfurter Allee,Grünberger Straße,Boxhagener Straße
+20,"In the Berlin area, which road cannot directly reach Frankfurter Allee?",A,Raoul-Wallenberg-Straße,Petersburger Straße,Ruschestraße,Atzpodienstraße
+21,"In the Berlin area, which road cannot directly reach Karl-Marx-Allee?",A,Königin-Elisabeth-Straße,Friedrichsberger Straße,Straße der Pariser Kommune,Petersburger Straße
+22,"In the Berlin area, which road cannot directly reach Petersburger Straße?",D,Landsberger Allee,Bersarinplatz,Karl-Marx-Allee,Prinzregent-Ludwig-Brücke
+23,"In the Berlin area, which road cannot directly reach Kurt-Schumacher-Platz?",A,Am Postfenn,Scharnweberstraße,Kurt-Schumacher-Damm,Kapweg
+24,"In the Berlin area, which road cannot directly reach Gotthardstraße?",C,Aroser Allee,Kapweg,Nonnendammallee,Teichstraße
+25,"In the Berlin area, which road cannot directly reach Müllerstraße?",A,Ernst-Ruska-Ufer,Transvaalstraße,Scharnweberstraße,Sellerstraße
+26,"In the Berlin area, which road cannot directly reach Kapweg?",C,Gotthardstraße,Kurt-Schumacher-Platz,Straße vor Schönholz,Müllerstraße
+27,"In the Berlin area, which road cannot directly reach Mehringdamm?",D,Tempelhofer Ufer,Wilhelmstraße,Gitschiner Straße,Fennbrücke
+28,"In the Berlin area, which road cannot directly reach Gneisenaustraße?",C,Mehringdamm,Zossener Straße,Weißenseer Weg,Hasenheide
+29,"In the Berlin area, which road cannot directly reach Yorckstraße?",D,Mehringdamm,Gneisenaustraße,Goebenstraße,Marzahner Promenade
+30,"In the Berlin area, which road cannot directly reach Prenzlauer Allee?",A,Schildhornstraße,Prenzlauer Promenade,Wisbyer Straße,Danziger Straße
+31,"In the Berlin area, which road cannot directly reach Ostseestraße?",A,Heinersdorfer Straße,Wisbyer Straße,Kniprodestraße,Prenzlauer Allee
+32,"In the Berlin area, which road cannot directly reach Prenzlauer Promenade?",C,Kissingenstraße,Langhansstraße,Komturstraße,Prenzlauer Allee
+33,"In the Berlin area, which road cannot directly reach Wisbyer Straße?",C,Prenzlauer Allee,Stahlheimer Straße,Osloer Straße,Neumannstraße
+34,"In the Berlin area, which road cannot directly reach Scharnweberstraße?",A,Zechliner Straße,Antonienstraße,Afrikanische Straße,Kurt-Schumacher-Damm
+35,"In the Berlin area, which road cannot directly reach Ollenhauerstraße?",A,Alt-Biesdorf,Lindauer Allee,Waldstraße,Kurt-Schumacher-Damm
+36,"In the Berlin area, which road cannot directly reach Kurt-Schumacher-Damm?",B,Ollenhauerstraße,Wisbyer Straße,Heckerdamm,Jakob-Kaiser-Platz
+37,"In the Berlin area, which road cannot directly reach Teilestraße?",B,Gottlieb-Dunkel-Straße,Filandastraße,Komturstraße,Ordensmeisterstraße
+38,"In the Berlin area, which road cannot directly reach Komturstraße?",B,Germaniastraße,Schivelbeiner Straße,Ordensmeisterstraße,Ullsteinstraße
+39,"In the Berlin area, which road cannot directly reach Ordensmeisterstraße?",B,Attilastraße,Holteistraße,Tempelhofer Damm,Mariendorfer Damm
+40,"In the Berlin area, which road cannot directly reach Heinrich-von-Gagern-Straße?",C,Yitzhak-Rabin-Straße,Scheidemannstraße,Steglitzer Damm,Paul-Löbe-Allee
+41,"In the Berlin area, which road cannot directly reach Yitzhak-Rabin-Straße?",B,Straße des 17. Juni,Louise-Schroeder-Platz,Heinrich-von-Gagern-Straße,Scheidemannstraße
+42,"In the Berlin area, which road cannot directly reach Scheidemannstraße?",B,Yitzhak-Rabin-Straße,Alt-Mariendorf,Heinrich-von-Gagern-Straße,John-Foster-Dulles-Allee
+43,"In the Berlin area, which road cannot directly reach John-Foster-Dulles-Allee?",C,Yitzhak-Rabin-Straße,Spreeweg,Otternbuchtstraße,Scheidemannstraße
+44,"In the Berlin area, which road cannot directly reach Straße des 17. Juni?",B,Ebertstraße,Dörpfeldstraße,Einsteinufer,Ernst-Reuter-Platz
+45,"In the Berlin area, which road cannot directly reach Einsteinufer?",D,Cauerstraße,Straße des 17. Juni,Fasanenstraße,Am Oberbaum
+46,"In the Berlin area, which road cannot directly reach Fasanenstraße?",D,Straße des 17. Juni,Einsteinufer,Hardenbergstraße,Onkel-Tom-Straßen-Brücke
+47,"In the Berlin area, which road cannot directly reach Brandenburgische Straße?",D,Olivaer Platz,Konstanzer Straße,Hohenzollerndamm,Dahlemer Weg
+48,"In the Berlin area, which road cannot directly reach Berliner Straße?",C,Seidelstraße,Potsdamer Straße,Rhenaniastraße,Neheimer Straße
+49,"In the Berlin area, which road cannot directly reach Blissestraße?",B,Laubacher Straße,Fischerhüttenstraße,Berliner Straße,Uhlandstraße
+50,"In the Berlin area, which road cannot directly reach Hohenzollerndamm?",B,Nachodstraße,Halskestraße,Seesener Straße,Uhlandstraße
+51,"In the Berlin area, which road cannot directly reach Konstanzer Straße?",A,Platz der Vereinten Nationen,Brandenburgische Straße,Westfälische Straße,Hohenzollerndamm
+52,"In the Berlin area, which road cannot directly reach Kurfürstendamm?",B,Tauentzienstraße,Andreasstraße,Halenseestraße,Wielandstraße
+53,"In the Berlin area, which road cannot directly reach Lewishamstraße?",A,Weitlingstraße,Brandenburgische Straße,Kantstraße,Kaiser-Friedrich-Straße
+54,"In the Berlin area, which road cannot directly reach Seesener Straße?",D,Rudolstädter Straße,Westfälische Straße,Joachim-Friedrich-Straße,Bismarckstraße
+55,"In the Berlin area, which road cannot directly reach Westfälische Straße?",B,Kurfürstendamm,Prendener Straße,Seesener Straße,Brandenburgische Straße
+56,"In the Berlin area, which road cannot directly reach Joachim-Friedrich-Straße?",C,Kurfürstendamm,Holtzendorffstraße,Exerzierstraße,Seesener Straße
+57,"In the Berlin area, which road cannot directly reach Suarezstraße?",A,Platz vor dem Neuen Tor,Bismarckstraße,Holtzendorffstraße,Kantstraße
+58,"In the Berlin area, which road cannot directly reach Kantstraße?",B,Leibnizstraße,Mariendorfer Damm,Hardenbergstraße,Suarezstraße
+59,"In the Berlin area, which road cannot directly reach Neue Kantstraße?",B,Messedamm,Südostallee,Kantstraße,Suarezstraße
+60,"In the Berlin area, which road cannot directly reach Ebertstraße?",D,Potsdamer Straße,Behrenstraße,Stresemannstraße,Siemensdamm
+61,"In the Berlin area, which road cannot directly reach Leipziger Platz?",C,Stresemannstraße,Potsdamer Straße,Pablo-Picasso-Straße,Ebertstraße
+62,"In the Berlin area, which road cannot directly reach Stresemannstraße?",A,Schmiljanstraße,Ebertstraße,Wilhelmstraße,Leipziger Platz
+63,"In the Berlin area, which road cannot directly reach Potsdamer Straße?",B,Teltower Damm,Morgensternstraße,Ebertstraße,Clayallee
+64,"In the Berlin area, which road cannot directly reach Seestraße?",C,Louise-Schroeder-Platz,Saatwinkler Damm,Scheringstraße,Beusselstraße
+65,"In the Berlin area, which road cannot directly reach Beusselstraße?",D,Siemensstraße,Huttenstraße,Seestraße,An der Schillingbrücke
+66,"In the Berlin area, which road cannot directly reach Saatwinkler Damm?",C,Gartenfelder Straße,Seestraße,Clayallee,Beusselstraße
+67,"In the Berlin area, which road cannot directly reach Bachstraße?",C,Stromstraße,Altonaer Straße,Bismarckstraße,Straße des 17. Juni
+68,"In the Berlin area, which road cannot directly reach Altonaer Straße?",D,Levetzowstraße,Bachstraße,Großer Stern,Rhenaniastraße
+69,"In the Berlin area, which road cannot directly reach Stromstraße?",A,Königsberger Straße,Turmstraße,Altonaer Straße,Perleberger Straße
+70,"In the Berlin area, which road cannot directly reach Franklinstraße?",C,Salzufer,Helmholtzstraße,Romain-Rolland-Straße,Gotzkowskybrücke
+71,"In the Berlin area, which road cannot directly reach Salzufer?",B,Franklinstraße,Hermannplatz,Straße des 17. Juni,Helmholtzstraße
+72,"In the Berlin area, which road cannot directly reach Luxemburger Straße?",A,Messedamm,Schulstraße,Föhrer Straße,Amrumer Straße
+73,"In the Berlin area, which road cannot directly reach Schulstraße?",A,Konrad-Adenauer-Straße,Müllerstraße,Exerzierstraße,Luxemburger Straße
+74,"In the Berlin area, which road cannot directly reach Leibnizstraße?",D,Giesebrechtstraße,Bismarckstraße,Kantstraße,Dominicusstraße
+75,"In the Berlin area, which road cannot directly reach Otto-Suhr-Allee?",B,Spandauer Damm,Hohenschönhauser Straße,Ernst-Reuter-Platz,Wintersteinstraße
+76,"In the Berlin area, which road cannot directly reach Cauerstraße?",B,Otto-Suhr-Allee,Gehrenseestraße,Leibnizstraße,Einsteinufer
+77,"In the Berlin area, which road directly reaches Tauentzienstraße?",C,Pasewalker Straße,Vorarlberger Damm,Kurfürstendamm,Kottbusser Tor
+78,"In the Berlin area, which road cannot directly reach Joachimsthaler Straße?",C,Lietzenburger Straße,Kurfürstendamm,Wagner-Régeny-Straße,Bundesallee
+79,"In the Berlin area, which road cannot directly reach Sickingenstraße?",A,Thaerstraße,Siemensstraße,Wiebestraße,Neues Ufer
+80,"In the Berlin area, which road cannot directly reach Siemensstraße?",D,Halskestraße,Beusselstraße,Erna-Samuel-Straße,Olivaer Platz
+81,"In the Berlin area, which road cannot directly reach Turmstraße?",B,Rathenower Straße,Schönholzer Straße,Stromstraße,Huttenstraße
+82,"In the Berlin area, which road cannot directly reach Wintersteinstraße?",B,Otto-Suhr-Allee,Saarstraße,Richard-Wagner-Straße,Sömmeringstraße
+83,"In the Berlin area, which road cannot directly reach Richard-Wagner-Straße?",B,Otto-Suhr-Allee,Hermannplatz,Bismarckstraße,Wintersteinstraße
+84,"In the Berlin area, which road cannot directly reach Minna-Cauer-Straße?",A,Ebertystraße,Invalidenstraße,Tunnel Tiergarten Spreebogen,Heidestraße
+85,"In the Berlin area, which road cannot directly reach Tunnel Tiergarten Spreebogen?",D,Invalidenstraße,Schöneberger Ufer,Kemperplatz,Grunerstraße
+86,"In the Berlin area, which road cannot directly reach Messedamm?",B,Königin-Elisabeth-Straße,Scheringstraße,Alte Jafféstraße,Jafféstraße
+87,"In the Berlin area, which road cannot directly reach Masurenallee?",D,Theodor-Heuss-Platz,Messedamm,Neue Kantstraße,Berliner Allee
+88,"In the Berlin area, which road cannot directly reach Unter den Eichen?",B,Drakestraße,Raoul-Wallenberg-Straße,Habelschwerdter Allee,Thielallee
+89,"In the Berlin area, which road cannot directly reach Dahlemer Weg?",C,Thielallee,Berliner Straße,Sewanstraße,Unter den Eichen
+90,"In the Berlin area, which road cannot directly reach Thielallee?",D,Unter den Eichen,Pacelliallee,Saargemünder Straße,Thulestraße
+91,"In the Berlin area, which road cannot directly reach Paulsborner Straße?",D,Brandenburgische Straße,Westfälische Straße,Seesener Straße,Harzer Straße
+92,"In the Berlin area, which road cannot directly reach Badensche Straße?",C,Bundesallee,Berliner Straße,Föhrer Straße,Martin-Luther-Straße
+93,"In the Berlin area, which road cannot directly reach Bundesallee?",A,Reißeckstraße,Joachimsthaler Straße,Hohenzollerndamm,Rheinstraße
+94,"In the Berlin area, which road cannot directly reach Kaiserdamm?",D,Sophie-Charlotte-Platz,Bismarckstraße,Königin-Elisabeth-Straße,Raoul-Wallenberg-Straße
+95,"In the Berlin area, which road cannot directly reach Königin-Elisabeth-Straße?",A,Ehrlichstraße,Messedamm,Spandauer Damm,Knobelsdorffstraße
+96,"In the Berlin area, which road cannot directly reach Luisenplatz?",D,Spandauer Damm,Otto-Suhr-Allee,Kaiser-Friedrich-Straße,Halenseestraße
+97,"In the Berlin area, which road cannot directly reach Kaiser-Friedrich-Straße?",A,Sömmeringstraße,Bismarckstraße,Luisenplatz,Otto-Suhr-Allee
+98,"In the Berlin area, which road cannot directly reach Spandauer Damm?",A,Yorckstraße,Rominter Allee,Freiheit,Charlottenburger Chaussee
+99,"In the Berlin area, which road cannot directly reach Detmolder Straße?",B,Blissestraße,Eldenaer Straße,Rudolstädter Straße,Wexstraße
+100,"In the Berlin area, which road cannot directly reach Rudolstädter Straße?",D,Detmolder Straße,Hohenzollerndamm,Seesener Straße,Annenstraße
+101,"In the Berlin area, which road cannot directly reach Mecklenburgische Straße?",D,Rudolstädter Straße,Uhlandstraße,Blissestraße,Urbanstraße
+102,"In the Berlin area, which road cannot directly reach Uhlandstraße?",B,Berliner Straße,Friedrich-Olbricht-Damm,Hohenzollerndamm,Lietzenburger Straße
+103,"In the Berlin area, which road cannot directly reach Nachodstraße?",C,Bundesallee,Hohenstaufenstraße,Bismarckstraße,Hohenzollerndamm
+104,"In the Berlin area, which road cannot directly reach Fürstenbrunner Weg?",D,Königin-Elisabeth-Straße,Otternbuchtstraße,Spandauer Damm,Ringstraße
+105,"In the Berlin area, which road cannot directly reach Knausstraße?",D,Feuerbachstraße,Bismarckstraße,Feuerbachbrücke,Wisbyer Straße
+106,"In the Berlin area, which road cannot directly reach Saarstraße?",C,Schmiljanstraße,Knausstraße,Wagner-Régeny-Allee,Friedenauer Brücke
+107,"In the Berlin area, which road cannot directly reach Kaiserin-Augusta-Allee?",D,Neues Ufer,Sömmeringstraße,Mierendorffplatz,Piesporter Straße
+108,"In the Berlin area, which road cannot directly reach Lise-Meitner-Straße?",A,Kochstraße,Kaiserin-Augusta-Allee,Tegeler Weg,Sömmeringstraße
+109,"In the Berlin area, which road cannot directly reach Mierendorffplatz?",B,Osnabrücker Straße,Schönower Straße,Lise-Meitner-Straße,Sömmeringstraße
+110,"In the Berlin area, which road cannot directly reach Sömmeringstraße?",C,Lise-Meitner-Straße,Mierendorffplatz,Am Tierpark,Wintersteinstraße
+111,"In the Berlin area, which road cannot directly reach Drakestraße?",B,Königsberger Straße,Antonienstraße,Hindenburgdamm,Goerzallee
+112,"In the Berlin area, which road cannot directly reach Habelschwerdter Allee?",C,Unter den Eichen,Drakestraße,Barfusstraße,Altensteinstraße
+113,"In the Berlin area, which road cannot directly reach Teplitzer Straße?",B,Hohenzollerndamm,Tunnelstraße,Clayallee,Hagenstraße
+114,"In the Berlin area, which road cannot directly reach Clayallee?",C,Teplitzer Straße,Hüttenweg,Königin-Elisabeth-Straße,Berliner Straße
+115,"In the Berlin area, which road cannot directly reach Rheinbabenallee?",C,Hundekehlestraße,Clayallee,Garystraße,Platz am Wilden Eber
+116,"In the Berlin area, which road cannot directly reach Nürnberger Straße?",B,Kurfürstendamm,Stralauer Platz,Spichernstraße,Budapester Straße
+117,"In the Berlin area, which road cannot directly reach Lietzenburger Straße?",B,Olivaer Platz,Schivelbeiner Straße,Joachimsthaler Straße,Bundesallee
+118,"In the Berlin area, which road cannot directly reach Knobelsdorffstraße?",B,Königin-Elisabeth-Straße,Ahrensfelder Chaussee,Sophie-Charlotten-Straße,Reichsstraße
+119,"In the Berlin area, which road cannot directly reach Teltower Damm?",C,Schönower Straße,Machnower Straße,Tunnelstraße,Mühlenstraße
+120,"In the Berlin area, which road cannot directly reach Klingsorstraße?",B,Filandastraße,Holteistraße,Hindenburgdamm,Albrechtstraße
+121,"In the Berlin area, which road cannot directly reach Albrechtstraße?",B,Schloßstraße,Reichweindamm,Siemensstraße,Grunewaldstraße
+122,"In the Berlin area, which road cannot directly reach Filandastraße?",B,Klingsorstraße,Lichtenberger Straße,Albrechtstraße,Bergstraße
+123,"In the Berlin area, which road cannot directly reach Königin-Luise-Straße?",C,Altensteinstraße,Clayallee,Lützowplatz,Grunewaldstraße
+124,"In the Berlin area, which road cannot directly reach Pacelliallee?",D,Platz am Wilden Eber,Thielallee,Königin-Luise-Straße,Ordensmeisterstraße
+125,"In the Berlin area, which road cannot directly reach Bismarckstraße?",C,Richard-Wagner-Straße,Suarezstraße,Pistoriusstraße,Steglitzer Damm
+126,"In the Berlin area, which road cannot directly reach Schloßstraße / Sophie-Charlotte-Platz?",B,Kaiserdamm,Marchstraße,Suarezstraße,Bismarckstraße
+127,"In the Berlin area, which road cannot directly reach Goebenstraße?",B,Yorckstraße,Plauener Straße,Pallasstraße,Potsdamer Straße
+128,"In the Berlin area, which road cannot directly reach Pallasstraße?",D,Goebenstraße,Potsdamer Straße,Hohenstaufenstraße,Stromstraße
+129,"In the Berlin area, which road cannot directly reach Hauptstraße?",B,Markgrafendamm,Paul-Schneider-Straße,Martin-Luther-Straße,Blockdammweg
+130,"In the Berlin area, which road cannot directly reach Dominicusstraße?",B,Hauptstraße,Plauener Straße,Martin-Luther-Straße,John-F.-Kennedy-Platz
+131,"In the Berlin area, which road cannot directly reach Lindenstraße?",B,Gitschiner Straße,Wolfener Straße,Zossener Straße,Rudi-Dutschke-Straße
+132,"In the Berlin area, which road cannot directly reach Tempelhofer Ufer?",B,Mehringdamm,Ebertstraße,Lindenstraße,Möckernstraße
+133,"In the Berlin area, which road cannot directly reach Gitschiner Straße?",B,Mehringdamm,Silbersteinstraße,Tempelhofer Ufer,Baerwaldstraße
+134,"In the Berlin area, which road cannot directly reach Zossener Straße?",D,Tempelhofer Ufer,Lindenstraße,Gneisenaustraße,Lahnstraße
+135,"In the Berlin area, which road cannot directly reach Wilhelmstraße?",D,Anhalter Straße,Behrenstraße,Gitschiner Straße,Lützowufer
+136,"In the Berlin area, which road cannot directly reach Amrumer Straße?",C,Afrikanische Straße,Föhrer Straße,Granitzstraße,Seestraße
+137,"In the Berlin area, which road cannot directly reach Afrikanische Straße?",C,Müllerstraße,Seestraße,Oberbaumstraße,Amrumer Straße
+138,"In the Berlin area, which road cannot directly reach Bundesplatz?",D,Südwestkorso,Bundesallee,Wexstraße,Röblingstraße
+139,"In the Berlin area, which road cannot directly reach Wexstraße?",D,Detmolder Straße,Bundesallee,Hauptstraße,Hermannstraße
+140,"In the Berlin area, which road cannot directly reach Wiebestraße?",A,Südstern,Kaiserin-Augusta-Allee,Huttenstraße,Sickingenstraße
+141,"In the Berlin area, which road cannot directly reach Huttenstraße?",C,Neues Ufer,Turmstraße,Thaerstraße,Wiebestraße
+142,"In the Berlin area, which road cannot directly reach Pankstraße?",D,Badstraße,Prinzenallee,Reinickendorfer Straße,Daimlerstraße
+143,"In the Berlin area, which road cannot directly reach Badstraße?",B,Behmstraße,Robert-Uhrig-Straße,Brunnenstraße,Exerzierstraße
+144,"In the Berlin area, which road cannot directly reach Prinzenallee?",C,Osloer Straße,Wollankstraße,Bleicheroder Straße,Bornholmer Straße
+145,"In the Berlin area, which road cannot directly reach Bornholmer Straße?",C,Wisbyer Straße,Prinzenallee,Lise-Meitner-Straße,Berliner Straße
+146,"In the Berlin area, which road cannot directly reach Osloer Straße?",C,Bornholmer Straße,Residenzstraße,Zechliner Straße,Provinzstraße
+147,"In the Berlin area, which road cannot directly reach Schwedenstraße?",D,Koloniestraße,Residenzstraße,Exerzierstraße,Nollendorfplatz
+148,"In the Berlin area, which road cannot directly reach Residenzstraße?",A,Roelckestraße,Reginhardstraße,Schwedenstraße,Holländerstraße
+149,"In the Berlin area, which road cannot directly reach Teichstraße?",B,Lübener Weg,Edelweißstraße,Roedernallee,Gotthardstraße
+150,"In the Berlin area, which road directly reaches Roedernallee?",B,Messedamm,Lindauer Allee,Imbuschweg,Feldtmannstraße
+151,"In the Berlin area, which road cannot directly reach Lindauer Allee?",C,Roedernallee,Humboldtstraße,Gitschiner Straße,Hauptstraße
+152,"In the Berlin area, which road cannot directly reach Transvaalstraße?",D,Dohnagestell,Barfusstraße,Afrikanische Straße,Lindenthaler Allee
+153,"In the Berlin area, which road cannot directly reach Barfusstraße?",A,Markstraße,Aroser Allee,Transvaalstraße,Müllerstraße
+154,"In the Berlin area, which road cannot directly reach Rohrdamm?",B,Nonnendammallee,Caroline-Michaelis-Straße,Fürstenbrunner Weg,Otternbuchtstraße
+155,"In the Berlin area, which road cannot directly reach Otternbuchtstraße?",B,Paulsternstraße,Lützowplatz,Rohrdamm,Nonnendammallee
+156,"In the Berlin area, which road cannot directly reach Paulsternstraße?",C,Otternbuchtstraße,Nonnendammallee,Nachodstraße,Gartenfelder Straße
+157,"In the Berlin area, which road cannot directly reach Hohenstaufenstraße?",A,Wartenberger Weg,Nachodstraße,Pallasstraße,Martin-Luther-Straße
+158,"In the Berlin area, which road cannot directly reach Martin-Luther-Straße?",C,Hohenstaufenstraße,John-F.-Kennedy-Platz,Reißeckstraße,Lietzenburger Straße
+159,"In the Berlin area, which road cannot directly reach Dillenburger Straße?",B,Breitenbachplatz,Elsa-Brändström-Straße,Südwestkorso,Schildhornstraße
+160,"In the Berlin area, which road cannot directly reach Südwestkorso?",A,Wartenberger Weg,Wiesbadener Straße,Dillenburger Straße,Breitenbachplatz
+161,"In the Berlin area, which road cannot directly reach Schildhornstraße?",A,Nöldnerstraße,Südwestkorso,Lepsiusstraße,Breitenbachplatz
+162,"In the Berlin area, which road cannot directly reach Prellerweg?",C,Arnulfstraße,Munsterdamm,Memhardstraße,Röblingstraße
+163,"In the Berlin area, which road cannot directly reach Grazer Damm?",B,Munsterdamm,Kottbusser Tor,Vorarlberger Damm,Prellerweg
+164,"In the Berlin area, which road cannot directly reach Munsterdamm?",D,Prellerweg,Steglitzer Damm,Halskestraße,Invalidenstraße
+165,"In the Berlin area, which road cannot directly reach Holzhauser Straße?",D,Seidelstraße,Conradstraße,Bernauer Straße,Wolfener Straße
+166,"In the Berlin area, which road cannot directly reach Seidelstraße?",B,Bernauer Straße,Kurfürstenstraße,Holzhauser Straße,Berliner Straße
+167,"In the Berlin area, which road cannot directly reach Bernauer Straße?",A,Tunnel Tiergarten Spreebogen,Brunnenstraße,Seidelstraße,Gartenfelder Straße
+168,"In the Berlin area, which road directly reaches Lessingstraße?",B,Mecklenburgische Straße,Alt-Moabit,Hertastraße,Kaiserdamm
+169,"In the Berlin area, which road cannot directly reach Vorarlberger Damm?",C,Rubensstraße,Grazer Damm,Heinrich-Mann-Straße,Sachsendamm
+170,"In the Berlin area, which road cannot directly reach Emmentaler Straße?",A,Eisenhutweg,Aroser Allee,Residenzstraße,Gotthardstraße
+171,"In the Berlin area, which road cannot directly reach Torstraße?",A,Kniprodestraße,Friedrichstraße,Schönhauser Allee,Rosa-Luxemburg-Straße
+172,"In the Berlin area, which road cannot directly reach Friedrichstraße?",C,Rudi-Dutschke-Straße,Torstraße,Rothenbachstraße,Breite Straße
+173,"In the Berlin area, which road cannot directly reach Chausseestraße?",B,Liesenstraße,Reißeckstraße,Zinnowitzer Straße,Torstraße
+174,"In the Berlin area, which road cannot directly reach Hannoversche Straße?",D,Friedrichstraße,Chausseestraße,Platz vor dem Neuen Tor,Hasenheide
+175,"In the Berlin area, which road cannot directly reach Grunewaldstraße?",D,Hauptstraße,Schloßstraße,Bayerischer Platz,Konrad-Adenauer-Straße
+176,"In the Berlin area, which road cannot directly reach Reichsstraße?",C,Steubenplatz,Spandauer Damm,Am Juliusturm,Theodor-Heuss-Platz
+177,"In the Berlin area, which road cannot directly reach Steubenplatz?",D,Bolivarallee,Olympische Straße,Reichsstraße,Ludwigsfelder Straße
+178,"In the Berlin area, which road cannot directly reach Schützenstraße?",B,Glinkastraße,Falkenberger Straße,Leipziger Straße,Friedrichstraße
+179,"In the Berlin area, which road cannot directly reach Leipziger Straße?",A,Halenseestraße,Schützenstraße,Leipziger Platz,Mühlendamm
+180,"In the Berlin area, which road cannot directly reach Glinkastraße?",B,Französische Straße,Rhinstraße,Reichstagufer,Behrenstraße
+181,"In the Berlin area, which road cannot directly reach Axel-Springer-Straße?",B,Leipziger Straße,Bruno-Baum-Straße,Gertraudenstraße,Oranienstraße
+182,"In the Berlin area, which road cannot directly reach Rudi-Dutschke-Straße?",A,Neues Ufer,Lindenstraße,Axel-Springer-Straße,Friedrichstraße
+183,"In the Berlin area, which road cannot directly reach Oranienstraße?",B,Lindenstraße,Kanalstraße,Rudi-Dutschke-Straße,Adalbertstraße
+184,"In the Berlin area, which road cannot directly reach Anhalter Straße?",A,Katzbachstraße,Schöneberger Straße,Stresemannstraße,Wilhelmstraße
+185,"In the Berlin area, which road cannot directly reach Schöneberger Straße?",B,Bundesallee,Joachimsthaler Straße,Manteuffelstraße,Anhalter Straße
+186,"In the Berlin area, which road cannot directly reach Memhardstraße?",B,Rosa-Luxemburg-Straße,Röblingstraße,Alexanderstraße,Karl-Liebknecht-Straße
+187,"In the Berlin area, which road cannot directly reach Alexanderstraße?",B,Brückenstraße,Emmentaler Straße,Memhardstraße,Otto-Braun-Straße
+188,"In the Berlin area, which road cannot directly reach Karl-Liebknecht-Straße?",D,Mollstraße,Memhardstraße,Spandauer Straße,Nüßlerstraße
+189,"In the Berlin area, which road cannot directly reach Grellstraße?",B,Hosemannstraße,Schönhauser Allee,Storkower Straße,Prenzlauer Allee
+190,"In the Berlin area, which road cannot directly reach Storkower Straße?",D,Thaerstraße,Michelangelostraße,Greifswalder Straße,Prenzlauer Allee
+191,"In the Berlin area, which road cannot directly reach Greifswalder Straße?",D,Am Friedrichshain,Ostseestraße,Otto-Braun-Straße,Dorotheenstraße
+192,"In the Berlin area, which road cannot directly reach Kniprodestraße?",A,Ehrlichstraße,Danziger Straße,Am Friedrichshain,Berliner Allee
+193,"In the Berlin area, which road cannot directly reach Berliner Allee?",A,Steubenplatz,Rennbahnstraße,Buschallee,Kniprodestraße
+194,"In the Berlin area, which road cannot directly reach Danziger Straße?",A,Schwedenstraße,Landsberger Allee,Schönhauser Allee,Greifswalder Straße
+195,"In the Berlin area, which road cannot directly reach Holzmarktstraße?",C,An der Michaelbrücke,Strausberger Platz,Seehofstraße,Brückenstraße
+196,"In the Berlin area, which road cannot directly reach Stralauer Straße?",A,Wagner-Régeny-Allee,Brückenstraße,Holzmarktstraße,Alexanderstraße
+197,"In the Berlin area, which road cannot directly reach Brückenstraße?",A,Paul-Löbe-Allee,Heinrich-Heine-Straße,Alexanderstraße,Holzmarktstraße
+198,"In the Berlin area, which road cannot directly reach Klingelhöferstraße?",C,Stülerstraße,Hofjägerallee,Gotzkowskystraße,Tiergartenstraße
+199,"In the Berlin area, which road cannot directly reach Stülerstraße?",A,Feldtmannstraße,Klingelhöferstraße,Tiergartenstraße,Hofjägerallee
+200,"In the Berlin area, which road cannot directly reach Hofjägerallee?",D,Klingelhöferstraße,Tiergartenstraße,Stülerstraße,Kissingenstraße
+201,"In the Berlin area, which road cannot directly reach Tiergartenstraße?",D,Ben-Gurion-Straße,Klingelhöferstraße,Tunnel Tiergarten Spreebogen,Gersdorfstraße
+202,"In the Berlin area, which road cannot directly reach Friedrichsberger Straße?",B,Karl-Marx-Allee,Kottbusser Straße,Strausberger Platz,Straße der Pariser Kommune
+203,"In the Berlin area, which road cannot directly reach Andreasstraße?",C,Karl-Marx-Allee,Koppenstraße,Dudenstraße,Friedrichsberger Straße
+204,"In the Berlin area, which road cannot directly reach Strausberger Platz?",B,Andreasstraße,Kurfürstenstraße,Holzmarktstraße,An der Michaelbrücke
+205,"In the Berlin area, which road cannot directly reach Platz der Luftbrücke?",A,Wiebestraße,Mehringdamm,Tempelhofer Damm,Columbiadamm
+206,"In the Berlin area, which road cannot directly reach Dudenstraße?",D,Katzbachstraße,Tempelhofer Damm,Mehringdamm,Spichernstraße
+207,"In the Berlin area, which road cannot directly reach Neue Roßstraße?",A,Gertraudenstraße,Annenstraße,Fischerinsel,Heinrich-Heine-Straße
+208,"In the Berlin area, which road cannot directly reach Heinrich-Heine-Straße?",A,Treskowstraße,Neue Roßstraße,Prinzenstraße,Köpenicker Straße
+209,"In the Berlin area, which road cannot directly reach Prinzenstraße?",C,Heinrich-Heine-Straße,Annenstraße,Grenzallee,Baerwaldstraße
+210,"In the Berlin area, which road cannot directly reach Annenstraße?",A,Otto-Suhr-Allee,Neue Roßstraße,Prinzenstraße,Leuschnerdamm
+211,"In the Berlin area, which road cannot directly reach Pankower Allee?",D,Reginhardstraße,Provinzstraße,Residenzstraße,Grellstraße
+212,"In the Berlin area, which road cannot directly reach Reginhardstraße?",A,Ella-Barowsky-Straße,Residenzstraße,Emmentaler Straße,Markstraße
+213,"In the Berlin area, which road cannot directly reach Aroser Allee?",B,Gotthardstraße,Eichborndamm,Barfusstraße,Lindauer Allee
+214,"In the Berlin area, which road cannot directly reach Alarichstraße?",D,Attilastraße,Manteuffelstraße,Kaiserstraße,Paul-Löbe-Allee
+215,"In the Berlin area, which road cannot directly reach Kaiserstraße?",D,Ringstraße,Rathausstraße,Alarichstraße,Humboldtstraße
+216,"In the Berlin area, which road cannot directly reach Rathausstraße?",A,Lepsiusstraße,Alt-Mariendorf,Ringstraße,Kaiserstraße
+217,"In the Berlin area, which road cannot directly reach Waldstraße?",D,Wittestraße,Eichborndamm,Ollenhauerstraße,Pistoriusstraße
+218,"In the Berlin area, which road cannot directly reach Blücherstraße?",C,Baerwaldstraße,Zossener Straße,Salzufer,Urbanstraße
+219,"In the Berlin area, which road cannot directly reach Urbanstraße?",D,Zossener Straße,Sonnenallee,Kottbusser Damm,Minna-Cauer-Straße
+220,"In the Berlin area, which road cannot directly reach Laubacher Straße?",A,Kulmer Straße,Blissestraße,Südwestkorso,Schildhornstraße
+221,"In the Berlin area, which road cannot directly reach Flughafenstraße?",A,Leonorenstraße,Karl-Marx-Straße,Columbiadamm,Hermannstraße
+222,"In the Berlin area, which road cannot directly reach Hermannstraße?",D,Hertastraße,Hermannplatz,Flughafenstraße,Langhansstraße
+223,"In the Berlin area, which road directly reaches Michelangelostraße?",B,Edisonstraße,Kniprodestraße,Lietzenburger Straße,Hermannplatz
+224,"In the Berlin area, which road cannot directly reach Elsenstraße?",C,Am Treptower Park,Alt-Treptow,Jafféstraße,Puschkinallee
+225,"In the Berlin area, which road cannot directly reach Alt-Stralau?",C,Tunnelstraße,Kynaststraße,Schwedenstraße,Markgrafendamm
+226,"In the Berlin area, which road cannot directly reach Markgrafendamm?",D,Alt-Stralau,Hauptstraße,Stralauer Allee,Kaiserdamm
+227,"In the Berlin area, which road cannot directly reach Stralauer Allee?",D,Oberbaumstraße,Alt-Stralau,Elsenstraße,Indira-Gandhi-Straße
+228,"In the Berlin area, which road cannot directly reach Wiener Straße?",C,Sonnenallee,Skalitzer Straße,Südwestkorso,Oranienstraße
+229,"In the Berlin area, which road cannot directly reach Skalitzer Straße?",D,Oranienstraße,Gitschiner Straße,Kottbusser Tor,Bersarinplatz
+230,"In the Berlin area, which road cannot directly reach Adalbertstraße?",C,Bethaniendamm,Engeldamm,Rummelsburger Straße,Kottbusser Tor
+231,"In the Berlin area, which road cannot directly reach Josef-Orlopp-Straße?",D,Möllendorffstraße,Storkower Straße,Siegfriedstraße,Sundgauer Straße
+232,"In the Berlin area, which road cannot directly reach Möllendorffstraße?",A,Lindenthaler Allee,Herzbergstraße,Loeperplatz,Gürtelstraße
+233,"In the Berlin area, which road cannot directly reach Schloßstraße?",B,Unter den Eichen,Nöldnerstraße,Wolfensteindamm,Albrechtstraße
+234,"In the Berlin area, which road cannot directly reach Rhinstraße?",A,Neue Späthstraße,Alt-Friedrichsfelde,Wartenberger Straße,Landsberger Allee
+235,"In the Berlin area, which road cannot directly reach Sundgauer Straße?",C,Mühlenstraße,Berliner Straße,Dachdeckerweg,Dahlemer Weg
+236,"In the Berlin area, which road cannot directly reach Bülowstraße?",C,Goebenstraße,Kulmer Straße,Bethaniendamm,Karl-Heinrich-Ulrichs-Straße
+237,"In the Berlin area, which road cannot directly reach Kulmer Straße?",C,Potsdamer Straße,Bülowstraße,Heinrich-Heine-Straße,Goebenstraße
+238,"In the Berlin area, which road cannot directly reach Königsberger Straße?",B,Morgensternstraße,Buckower Damm,Goerzallee,Giesensdorfer Straße
+239,"In the Berlin area, which road cannot directly reach Ostpreußendamm?",C,Morgensternstraße,Giesensdorfer Straße,Preußstraße,Prinzregent-Ludwig-Brücke
+240,"In the Berlin area, which road cannot directly reach Argentinische Allee?",D,Onkel-Tom-Straßen-Brücke,Riemeisterstraße,Löhleinstraße,Wisbyer Straße
+241,"In the Berlin area, which road cannot directly reach Fischerhüttenstraße?",D,Argentinische Allee,Potsdamer Chaussee,Potsdamer Straße,Brandenburgische Straße
+242,"In the Berlin area, which road cannot directly reach Straße der Pariser Kommune?",D,Friedenstraße,Rüdersdorfer Straße,Karl-Marx-Allee,Schloßstraße / Sophie-Charlotte-Platz
+243,"In the Berlin area, which road cannot directly reach Friedenstraße?",B,Karl-Marx-Allee,Fehrbelliner Platz,Straße der Pariser Kommune,Mariendorfer Damm
+244,"In the Berlin area, which road cannot directly reach Platz der Vereinten Nationen?",B,Am Friedrichshain,Turmstraße,Landsberger Allee,Otto-Braun-Straße
+245,"In the Berlin area, which road cannot directly reach Mollstraße?",A,Daumstraße,Prenzlauer Allee,Otto-Braun-Straße,Landsberger Allee
+246,"In the Berlin area, which road cannot directly reach Hansastraße?",B,Darßer Straße,Am Tierpark,Giersstraße,Buschallee
+247,"In the Berlin area, which road directly reaches Suermondtstraße?",D,Mirbachplatz,Kochstraße,Onkel-Tom-Straßen-Brücke,Hansastraße
+248,"In the Berlin area, which road cannot directly reach Buschallee?",B,Hansastraße,Steglitzer Damm,Berliner Allee,Konrad-Wolf-Straße
+249,"In the Berlin area, which road cannot directly reach Darßer Straße?",B,Hansastraße,Johannisthaler Chaussee,Roelckestraße,Falkenberger Chaussee
+250,"In the Berlin area, which road cannot directly reach Falkenberger Chaussee?",D,Seehausener Straße,Pablo-Picasso-Straße,Darßer Straße,Friedrichsberger Straße
+251,"In the Berlin area, which road cannot directly reach Malchower Weg?",C,Wartenberger Straße,Darßer Straße,Schönhauser Allee,Falkenberger Chaussee
+252,"In the Berlin area, which road cannot directly reach Prendener Straße?",D,Egon-Erwin-Kisch-Straße,Falkenberger Chaussee,Wartenberger Weg,Knausstraße
+253,"In the Berlin area, which road cannot directly reach Seehausener Straße?",D,Pablo-Picasso-Straße,Falkenberger Chaussee,Prendener Straße,Sewanstraße
+254,"In the Berlin area, which road cannot directly reach Otto-Braun-Straße?",C,Strausberger Platz,Am Friedrichshain,Zingster Straße,Greifswalder Straße
+255,"In the Berlin area, which road cannot directly reach Onkel-Tom-Straße?",C,Onkel-Tom-Straßen-Brücke,Argentinische Allee,Rheinstraße,Hüttenweg
+256,"In the Berlin area, which road cannot directly reach Onkel-Tom-Straßen-Brücke?",A,Puschkinallee,Potsdamer Straße,Onkel-Tom-Straße,Argentinische Allee
+257,"In the Berlin area, which road cannot directly reach Britzer Damm?",B,Mohriner Allee,Tempelhofer Damm,Tempelhofer Weg,Blaschkoallee
+258,"In the Berlin area, which road cannot directly reach Tempelhofer Weg?",A,Preysingstraße,Gottlieb-Dunkel-Straße,Britzer Damm,Gradestraße
+259,"In the Berlin area, which road cannot directly reach Fulhamer Allee?",A,Leibnizstraße,Parchimer Allee,Tempelhofer Weg,Britzer Damm
+260,"In the Berlin area, which road cannot directly reach Pablo-Picasso-Straße?",C,Hohenschönhauser Straße,Bitterfelder Straße,Emmentaler Straße,Seehausener Straße
+261,"In the Berlin area, which road cannot directly reach Egon-Erwin-Kisch-Straße?",D,Falkenberger Chaussee,Wartenberger Weg,Pablo-Picasso-Straße,Langhansstraße
+262,"In the Berlin area, which road cannot directly reach Plauener Straße?",B,Marzahner Straße,Treskowstraße,Ferdinand-Schultze-Straße,Rhinstraße
+263,"In the Berlin area, which road cannot directly reach Reinickendorfer Straße?",A,Gotzkowskystraße,Fennstraße,Müllerstraße,Osloer Straße
+264,"In the Berlin area, which road cannot directly reach Fennstraße?",D,Michael-Brückner-Straße,Müllerstraße,Fennbrücke,Alt-Treptow
+265,"In the Berlin area, which road cannot directly reach Gürtelstraße?",A,Treskowallee,Boxhagener Straße,Möllendorffstraße,Holteistraße
+266,"In the Berlin area, which road cannot directly reach Konrad-Wolf-Straße?",C,Weißenseer Weg,Zechliner Straße,Tino-Schwierzina-Straße,Hauptstraße
+267,"In the Berlin area, which road cannot directly reach Hohenschönhauser Straße?",B,Pablo-Picasso-Straße,Urbanstraße,Bitterfelder Straße,Konrad-Wolf-Straße
+268,"In the Berlin area, which road cannot directly reach Weißenseer Weg?",A,Aroser Allee,Roederplatz,Herzbergstraße,Hohenschönhauser Straße
+269,"In the Berlin area, which road cannot directly reach Marzahner Straße?",C,Gärtnerstraße,Rhinstraße,Alte Jafféstraße,Plauener Straße
+270,"In the Berlin area, which road cannot directly reach Gärtnerstraße?",C,Marzahner Straße,Rhinstraße,Michael-Brückner-Straße,Ferdinand-Schultze-Straße
+271,"In the Berlin area, which road cannot directly reach Exerzierstraße?",A,Kleine Eiswerderstraße,Koloniestraße,Schwedenstraße,Reinickendorfer Straße
+272,"In the Berlin area, which road cannot directly reach Baerwaldstraße?",B,Urbanstraße,Perleberger Straße,Gitschiner Straße,Prinzenstraße
+273,"In the Berlin area, which road cannot directly reach Louise-Schroeder-Platz?",D,Reginhardstraße,Seestraße,Reinickendorfer Straße,Alt-Treptow
+274,"In the Berlin area, which road cannot directly reach Gustav-Meyer-Allee?",C,Wiesenstraße,Brunnenstraße,Otternbuchtstraße,Scheringstraße
+275,"In the Berlin area, which road cannot directly reach Gleimstraße?",B,Brunnenstraße,Raoul-Wallenberg-Straße,Schönhauser Allee,Gustav-Meyer-Allee
+276,"In the Berlin area, which road cannot directly reach Brunnenstraße?",C,Rosenthaler Straße,Hochstraße,Rummelsburger Straße,Torstraße
+277,"In the Berlin area, which road cannot directly reach Alboinstraße?",C,Arnulfstraße,Alboinplatz,Schulstraße,Schöneberger Straße
+278,"In the Berlin area, which road cannot directly reach Ebertystraße?",D,Conrad-Blenkle-Straße,Eldenaer Straße,Landsberger Allee,Raoul-Wallenberg-Straße
+279,"In the Berlin area, which road cannot directly reach Conrad-Blenkle-Straße?",C,Ebertystraße,Kniprodestraße,Detmolder Straße,Landsberger Allee
+280,"In the Berlin area, which road cannot directly reach Königsheideweg?",C,Johannisthaler Chaussee,Segelfliegerdamm,Rudolstädter Straße,Neue Späthstraße
+281,"In the Berlin area, which road cannot directly reach Sterndamm?",C,Michael-Brückner-Straße,Stubenrauchstraße,Heinersdorfer Straße,Südostallee
+282,"In the Berlin area, which road cannot directly reach Mühlenstraße?",C,Florastraße,Sundgauer Straße,Grellstraße,Teltower Damm
+283,"In the Berlin area, which road cannot directly reach Stahlheimer Straße?",A,Hardenbergstraße,Neumannstraße,Schönhauser Allee,Eberswalder Straße
+284,"In the Berlin area, which road cannot directly reach Wichertstraße?",C,Schönhauser Allee,Grellstraße,Wilhelminenhofstraße,Behmstraße
+285,"In the Berlin area, which road cannot directly reach Kurfürstenstraße?",B,Budapester Straße,Feldtmannstraße,Karl-Heinrich-Ulrichs-Straße,Potsdamer Straße
+286,"In the Berlin area, which road cannot directly reach Karl-Heinrich-Ulrichs-Straße?",D,Bülowstraße,Lützowplatz,Nollendorfplatz,Wollankstraße
+287,"In the Berlin area, which road cannot directly reach Grenzallee?",A,Malteserstraße,Buschkrugallee,Karl-Marx-Straße,Bergiusstraße
+288,"In the Berlin area, which road cannot directly reach Dammweg?",A,Nüßlerstraße,Köpenicker Landstraße,Sonnenallee,Grenzallee
+289,"In the Berlin area, which road cannot directly reach Sonnenallee?",A,Wiesenstraße,Baumschulenstraße,Dammweg,Südostallee
+290,"In the Berlin area, which road cannot directly reach Kiefholzstraße?",D,Treptower Straße,Elsenstraße,Wildenbruchstraße,Teplitzer Straße
+291,"In the Berlin area, which road cannot directly reach Südostallee?",A,Blaschkoallee,Rixdorfer Straße,Sterndamm,Baumschulenstraße
+292,"In the Berlin area, which road cannot directly reach Rixdorfer Straße?",A,Richard-Wagner-Straße,Karlshorster Straße,Britzer Straße,Eisenacher Straße
+293,"In the Berlin area, which road cannot directly reach Neue Späthstraße?",B,Baumschulenstraße,Ernst-Reuter-Platz,Königsheideweg,Späthstraße
+294,"In the Berlin area, which road cannot directly reach Späthstraße?",B,Blaschkoallee,Oranienstraße,Neue Späthstraße,Buschkrugallee
+295,"In the Berlin area, which road cannot directly reach Seehofstraße?",A,Heinrich-Heine-Straße,Berliner Straße,Dahlemer Weg,Mühlenstraße
+296,"In the Berlin area, which road cannot directly reach Budapester Straße?",D,Kurfürstenstraße,Stülerstraße,Nürnberger Straße,Bergiusstraße
+297,"In the Berlin area, which road cannot directly reach Baumschulenstraße?",B,Kiefholzstraße,Herkulesbrücke,Neue Krugallee,Neue Späthstraße
+298,"In the Berlin area, which road cannot directly reach Alt-Tempelhof?",C,Germaniastraße,Tempelhofer Damm,Mirbachplatz,Manteuffelstraße
+299,"In the Berlin area, which road cannot directly reach Manteuffelstraße?",B,Alt-Tempelhof,Rothenbachstraße,Attilastraße,Schöneberger Straße
+300,"In the Berlin area, which road cannot directly reach Neuköllner Straße?",A,Hansabrücke,Fritz-Erler-Allee,Zwickauer Damm,Stubenrauchstraße
+301,"In the Berlin area, which road directly reaches Zwickauer Damm?",B,Gustav-Holzmann-Straße,Neuköllner Straße,Michelangelostraße,Gustav-Meyer-Allee
+302,"In the Berlin area, which road cannot directly reach Stubenrauchstraße?",D,Königsheideweg,Sterndamm,Neuköllner Straße,Kopernikusstraße
+303,"In the Berlin area, which road cannot directly reach Hasenheide?",B,Hermannplatz,Paulstraße,Gneisenaustraße,Karl-Marx-Straße
+304,"In the Berlin area, which road cannot directly reach Karl-Marx-Straße?",B,Silbersteinstraße,Puschkinallee,Lahnstraße,Flughafenstraße
+305,"In the Berlin area, which road cannot directly reach Hermannplatz?",A,Transvaalstraße,Hermannstraße,Sonnenallee,Urbanstraße
+306,"In the Berlin area, which road cannot directly reach Gotzkowskystraße?",B,Gotzkowskybrücke,Harzer Straße,Hansabrücke,Alt-Moabit
+307,"In the Berlin area, which road cannot directly reach An der Urania?",C,Kurfürstenstraße,Kleiststraße,Harzer Straße,Lützowplatz
+308,"In the Berlin area, which road cannot directly reach Lützowplatz?",D,An der Urania,Karl-Heinrich-Ulrichs-Straße,Lützowstraße,Lindenthaler Allee
+309,"In the Berlin area, which road cannot directly reach Spandauer Straße?",C,Karl-Liebknecht-Straße,Hackescher Markt,Marienfelder Allee,Grunerstraße
+310,"In the Berlin area, which road cannot directly reach Unter den Linden?",B,Universitätsstraße,Puschkinallee,Karl-Liebknecht-Straße,Glinkastraße
+311,"In the Berlin area, which road cannot directly reach Leonorenstraße?",C,Siemensstraße,Paul-Schneider-Straße,Gartenstraße,Kaiser-Wilhelm-Straße
+312,"In the Berlin area, which road cannot directly reach Kaiser-Wilhelm-Straße?",D,Leonorenstraße,Lankwitzer Straße,Paul-Schneider-Straße,Tegeler Weg
+313,"In the Berlin area, which road cannot directly reach Paul-Schneider-Straße?",C,Kaiser-Wilhelm-Straße,Kamenzer Damm,Treskowstraße,Malteserstraße
+314,"In the Berlin area, which road cannot directly reach Olivaer Platz?",D,Konstanzer Straße,Kurfürstendamm,Brandenburgische Straße,Alboinstraße
+315,"In the Berlin area, which road cannot directly reach Paulstraße?",A,Beusselstraße,John-Foster-Dulles-Allee,Spreeweg,Rathenower Straße
+316,"In the Berlin area, which road cannot directly reach Rathenower Straße?",B,Paulstraße,Lückstraße,Alt-Moabit,Turmstraße
+317,"In the Berlin area, which road cannot directly reach Thulestraße?",C,Am Steinberg,Neumannstraße,Malchower Weg,Prenzlauer Promenade
+318,"In the Berlin area, which road cannot directly reach Am Steinberg?",D,Pistoriusstraße,Treskowstraße,Prenzlauer Promenade,Englerallee
+319,"In the Berlin area, which road cannot directly reach Wittestraße?",D,Antonienstraße,Waldstraße,Eichborndamm,Kulmer Straße
+320,"In the Berlin area, which road cannot directly reach Kleiststraße?",C,Nürnberger Straße,An der Urania,Anna-Louisa-Karsch-Straße,Kurfürstendamm
+321,"In the Berlin area, which road cannot directly reach Steglitzer Damm?",B,Munsterdamm,Raoul-Wallenberg-Straße,Bismarckstraße,Albrechtstraße
+322,"In the Berlin area, which road cannot directly reach Silbersteinstraße?",D,Karl-Marx-Straße,Hertastraße,Lahnstraße,Schloßstraße
+323,"In the Berlin area, which road cannot directly reach Lahnstraße?",C,Silbersteinstraße,Karl-Marx-Straße,Lindauer Allee,Grenzallee
+324,"In the Berlin area, which road cannot directly reach Fritz-Erler-Allee?",A,Fennstraße,Neuköllner Straße,Lipschitzallee,Johannisthaler Chaussee
+325,"In the Berlin area, which road cannot directly reach Johannisthaler Chaussee?",C,Rudower Straße,Buckower Damm,Hindenburgdamm,Fritz-Erler-Allee
+326,"In the Berlin area, which road directly reaches Lipschitzallee?",C,Hansabrücke,Bülowstraße,Rudower Straße,Otternbuchtstraße
+327,"In the Berlin area, which road cannot directly reach Rennbahnstraße?",D,Roelckestraße,Berliner Allee,Parkstraße,Sickingenbrücke
+328,"In the Berlin area, which road cannot directly reach Roelckestraße?",C,Pistoriusstraße,Hosemannstraße,Fischerhüttenstraße,Ostseestraße
+329,"In the Berlin area, which road directly reaches Löhleinstraße?",A,Argentinische Allee,Wintersteinstraße,Anhalter Straße,Ostpreußendamm
+330,"In the Berlin area, which road cannot directly reach Finckensteinallee?",D,Karwendelstraße,Ringstraße,Carstennstraße,Gallwitzallee
+331,"In the Berlin area, which road cannot directly reach Parkstraße?",B,Berliner Allee,Scheidemannstraße,Piesporter Straße,Rennbahnstraße
+332,"In the Berlin area, which road cannot directly reach Behmstraße?",B,Hochstraße,Wiebestraße,Wichertstraße,Schönhauser Allee
+333,"In the Berlin area, which road cannot directly reach Hochstraße?",D,Behmstraße,Badstraße,Reinickendorfer Straße,Bundesplatz
+334,"In the Berlin area, which road cannot directly reach Halskestraße?",C,Munsterdamm,Siemensstraße,Giesensdorfer Straße,Albrechtstraße
+335,"In the Berlin area, which road cannot directly reach Mariendorfer Damm?",B,Ordensmeisterstraße,Karl-Liebknecht-Straße,Reißeckstraße,Ullsteinstraße
+336,"In the Berlin area, which road cannot directly reach Attilastraße?",A,Finckensteinallee,Arnulfstraße,Röblingstraße,Mariendorfer Damm
+337,"In the Berlin area, which road cannot directly reach Holteistraße?",C,Gürtelstraße,Kopernikusstraße,Budapester Straße,Boxhagener Straße
+338,"In the Berlin area, which road cannot directly reach Kopernikusstraße?",C,Boxhagener Straße,Holteistraße,Anhalter Straße,Warschauer Straße
+339,"In the Berlin area, which road cannot directly reach Boxhagener Straße?",D,Wismarplatz,Warschauer Straße,Kynaststraße,Hochstraße
+340,"In the Berlin area, which road cannot directly reach Wismarplatz?",A,Am Friedrichshain,Boxhagener Straße,Grünberger Straße,Warschauer Straße
+341,"In the Berlin area, which road cannot directly reach Grünberger Straße?",A,Gotthardstraße,Straße der Pariser Kommune,Warschauer Straße,Wismarplatz
+342,"In the Berlin area, which road cannot directly reach Mühlendamm?",C,Stralauer Straße,Breite Straße,Atzpodienstraße,Grunerstraße
+343,"In the Berlin area, which road cannot directly reach Breite Straße?",B,Damerowstraße,Fritz-Erler-Allee,Leipziger Straße,Französische Straße
+344,"In the Berlin area, which road cannot directly reach Fischerinsel?",B,Neue Roßstraße,Leuschnerdamm,Mühlendamm,Wallstraße
+345,"In the Berlin area, which road cannot directly reach Ben-Gurion-Straße?",D,Potsdamer Straße,Kemperplatz,Tunnel Tiergarten Spreebogen,Neue Kantstraße
+346,"In the Berlin area, which road cannot directly reach Kemperplatz?",A,Wismarplatz,Tunnel Tiergarten Spreebogen,Ben-Gurion-Straße,Ebertstraße
+347,"In the Berlin area, which road cannot directly reach Köpenicker Landstraße?",D,Karlshorster Straße,Neue Krugallee,Minna-Todenhagen-Straße,Schillstraße
+348,"In the Berlin area, which road directly reaches Neue Krugallee?",A,Köpenicker Landstraße,Teilestraße,Dorfstraße,Eisenacher Straße
+349,"In the Berlin area, which road cannot directly reach Rosa-Luxemburg-Straße?",B,Torstraße,Friedenstraße,Memhardstraße,Schönhauser Allee
+350,"In the Berlin area, which road cannot directly reach Schönhauser Allee?",C,Eberswalder Straße,Stahlheimer Straße,Fritz-Erler-Allee,Rosa-Luxemburg-Straße
+351,"In the Berlin area, which road cannot directly reach Markstraße?",B,Haßlingerweg,Bülowstraße,Holländerstraße,Reginhardstraße
+352,"In the Berlin area, which road cannot directly reach Holländerstraße?",C,Residenzstraße,Markstraße,Karl-Heinrich-Ulrichs-Straße,Aroser Allee
+353,"In the Berlin area, which road cannot directly reach Siegfriedstraße?",A,Rominter Allee,Landsberger Allee,Herzbergstraße,Josef-Orlopp-Straße
+354,"In the Berlin area, which road cannot directly reach Liebenwalder Straße?",A,Daimlerstraße,Landsberger Allee,Siegfriedstraße,Konrad-Wolf-Straße
+355,"In the Berlin area, which road cannot directly reach Am Tierpark?",A,Gärtnerstraße,Alfred-Kowalke-Straße,Alt-Friedrichsfelde,Sewanstraße
+356,"In the Berlin area, which road cannot directly reach Alt-Friedrichsfelde?",D,Rosenfelder Straße,Gensinger Straße,Am Tierpark,Inselstraße
+357,"In the Berlin area, which road cannot directly reach Eberswalder Straße?",A,Daumstraße,Danziger Straße,Schönhauser Allee,Stahlheimer Straße
+358,"In the Berlin area, which road cannot directly reach Köpenicker Straße?",C,Am Oberbaum,Rudolf-Rühl-Allee,Prenzlauer Promenade,Ernst-Ruska-Ufer
+359,"In the Berlin area, which road directly reaches Glienicker Weg?",C,Groß-Berliner Damm,Oberbaumstraße,Adlergestell,Ordensmeisterstraße
+360,"In the Berlin area, which road cannot directly reach Adlergestell?",D,Michael-Brückner-Straße,Otto-Franke-Straße,Köpenicker Straße,Spandauer Damm
+361,"In the Berlin area, which road cannot directly reach Hermann-Dorner-Allee?",B,Rudower Chaussee,Gustav-Holzmann-Straße,Eisenhutweg,Igo-Etrich-Straße
+362,"In the Berlin area, which road cannot directly reach Rudower Chaussee?",A,Parkstraße,Wagner-Régeny-Straße,Michael-Brückner-Straße,Dörpfeldstraße
+363,"In the Berlin area, which road cannot directly reach Eisenhutweg?",A,Potsdamer Straße,Hermann-Dorner-Allee,Rudower Chaussee,Stubenrauchstraße
+364,"In the Berlin area, which road cannot directly reach Florastraße?",D,Mühlenstraße,Berliner Straße,Wollankstraße,Malchower Weg
+365,"In the Berlin area, which road cannot directly reach Französische Straße?",D,Breite Straße,Hannah-Arendt-Straße,Friedrichstraße,Alarichstraße
+366,"In the Berlin area, which road cannot directly reach Am Friedrichshain?",D,Danziger Straße,Kniprodestraße,Otto-Braun-Straße,Andreasstraße
+367,"In the Berlin area, which road cannot directly reach Oberbaumstraße?",B,Warschauer Straße,Groß-Berliner Damm,Stralauer Allee,Mühlenstraße
+368,"In the Berlin area, which road cannot directly reach Reinhardtstraße?",B,Konrad-Adenauer-Straße,Franklinstraße,Luisenstraße,Friedrichstraße
+369,"In the Berlin area, which road cannot directly reach Luisenstraße?",D,Hannoversche Straße,Wilhelmstraße,Platz vor dem Neuen Tor,Otto-Franke-Straße
+370,"In the Berlin area, which road cannot directly reach Igo-Etrich-Straße?",D,Wagner-Régeny-Straße,Wagner-Régeny-Allee,Groß-Berliner Damm,Schöneberger Straße
+371,"In the Berlin area, which road cannot directly reach Groß-Berliner Damm?",C,Sterndamm,Igo-Etrich-Straße,Romain-Rolland-Straße,Rudower Chaussee
+372,"In the Berlin area, which road cannot directly reach Feldtmannstraße?",A,Ruschestraße,Malchower Chaussee,Nüßlerstraße,Piesporter Straße
+373,"In the Berlin area, which road cannot directly reach Malchower Chaussee?",C,Piesporter Straße,Dorfstraße,Strausberger Platz,Feldtmannstraße
+374,"In the Berlin area, which road cannot directly reach Nüßlerstraße?",B,Roelckestraße,Straße vor Schönholz,Malchower Chaussee,Darßer Straße
+375,"In the Berlin area, which road cannot directly reach Michael-Brückner-Straße?",B,Sterndamm,Königsberger Straße,Dörpfeldstraße,Adlergestell
+376,"In the Berlin area, which road cannot directly reach Dörpfeldstraße?",B,Michael-Brückner-Straße,Altonaer Straße,Rudower Chaussee,Adlergestell
+377,"In the Berlin area, which road cannot directly reach Rosenthaler Straße?",D,Brunnenstraße,Torstraße,Hackescher Markt,Friesenstraße
+378,"In the Berlin area, which road directly reaches Kastanienallee?",D,Buschallee,Kölner Damm,Eisenacher Straße,Invalidenstraße
+379,"In the Berlin area, which road cannot directly reach Hüttenweg?",C,Onkel-Tom-Straße,Koenigsallee,Exerzierstraße,Clayallee
+380,"In the Berlin area, which road cannot directly reach Koenigsallee?",D,Fontanestraße,Hüttenweg,Hubertusallee,Schulstraße
+381,"In the Berlin area, which road cannot directly reach Hannah-Arendt-Straße?",B,Französische Straße,Tunnel Tiergarten Spreebogen,Ebertstraße,Wilhelmstraße
+382,"In the Berlin area, which road cannot directly reach Schmiljanstraße?",A,Pablo-Picasso-Straße,Wiesbadener Straße,Rheinstraße,Saarstraße
+383,"In the Berlin area, which road cannot directly reach Rheinstraße?",A,Kopernikusstraße,Bundesallee,Saarstraße,Schöneberger Straße
+384,"In the Berlin area, which road cannot directly reach Wilhelminenhofstraße?",D,Ostendstraße,Karlshorster Straße,Siemensstraße,Platz am Wilden Eber
+385,"In the Berlin area, which road cannot directly reach Edisonstraße?",A,Hofjägerallee,Treskowallee,Ostendstraße,Spreestraße
+386,"In the Berlin area, which road directly reaches Ostendstraße?",C,Marzahner Promenade,Saargemünder Straße,Edisonstraße,Gustav-Adolf-Straße
+387,"In the Berlin area, which road cannot directly reach Vulkanstraße?",D,Ruschestraße,Josef-Orlopp-Straße,Herzbergstraße,Wilhelmstraße
+388,"In the Berlin area, which road cannot directly reach Herzbergstraße?",D,Vulkanstraße,Weißenseer Weg,Möllendorffstraße,Hasenheide
+389,"In the Berlin area, which road cannot directly reach Ringstraße?",A,Ben-Gurion-Straße,Gersdorfstraße,Karwendelstraße,Finckensteinallee
+390,"In the Berlin area, which road cannot directly reach Karwendelstraße?",B,Finckensteinallee,Atzpodienstraße,Ringstraße,Drakestraße
+391,"In the Berlin area, which road cannot directly reach Carstennstraße?",A,Elsenstraße,Finckensteinallee,Luzerner Straße,Ringstraße
+392,"In the Berlin area, which road cannot directly reach Hagenstraße?",A,Fennstraße,Koenigsallee,Teplitzer Straße,Fontanestraße
+393,"In the Berlin area, which road directly reaches Fontanestraße?",D,Rahel-Hirsch-Straße,Westfälische Straße,Rüdersdorfer Straße,Koenigsallee
+394,"In the Berlin area, which road cannot directly reach Granitzstraße?",D,Prenzlauer Promenade,Kissingenstraße,Rothenbachstraße,Pistoriusstraße
+395,"In the Berlin area, which road cannot directly reach Rothenbachstraße?",C,Granitzstraße,Romain-Rolland-Straße,Spandauer Straße,Prenzlauer Promenade
+396,"In the Berlin area, which road cannot directly reach Hindenburgdamm?",A,Olivaer Platz,Drakestraße,Königsberger Straße,Goerzallee
+397,"In the Berlin area, which road cannot directly reach Goerzallee?",D,Königsberger Straße,Hindenburgdamm,Drakestraße,Gottlieb-Dunkel-Straße
+398,"In the Berlin area, which road cannot directly reach Birkbuschstraße?",C,Klingsorstraße,Wolfensteindamm,Budapester Straße,Prinzregent-Ludwig-Brücke
+399,"In the Berlin area, which road cannot directly reach Gersdorfstraße?",D,Röblingstraße,Attilastraße,Kaiserstraße,Preußstraße
+400,"In the Berlin area, which road cannot directly reach Wildenbruchstraße?",D,Harzer Straße,Sonnenallee,Elsenstraße,Blücherstraße
+401,"In the Berlin area, which road directly reaches Erkstraße?",B,Pastor-Niemöller-Platz,Wildenbruchstraße,Röblingstraße,Romain-Rolland-Straße
+402,"In the Berlin area, which road cannot directly reach Reichpietschufer?",B,Herkulesbrücke,Thaerstraße,Schöneberger Ufer,Potsdamer Straße
+403,"In the Berlin area, which road cannot directly reach Schöneberger Ufer?",D,Reichpietschufer,Schöneberger Straße,Hallesches Ufer,Möllendorffstraße
+404,"In the Berlin area, which road cannot directly reach Kolonnenstraße?",D,Dudenstraße,Wilhelm-Kabus-Straße,Katzbachstraße,Roedernallee
+405,"In the Berlin area, which road cannot directly reach Katzbachstraße?",B,Yorckstraße,Volkradstraße,Kolonnenstraße,Dudenstraße
+406,"In the Berlin area, which road cannot directly reach Boelckestraße?",B,Dudenstraße,Kurfürstenstraße,Werner-Voß-Damm,Kolonnenstraße
+407,"In the Berlin area, which road cannot directly reach Ruschestraße?",B,Frankfurter Allee,Scheringstraße,Josef-Orlopp-Straße,Vulkanstraße
+408,"In the Berlin area, which road directly reaches Fehrbelliner Platz?",D,Exerzierstraße,Gottlieb-Dunkel-Straße,Ordensmeisterstraße,Brandenburgische Straße
+409,"In the Berlin area, which road cannot directly reach Güntzelstraße?",C,Hohenzollerndamm,Uhlandstraße,Ben-Gurion-Straße,Bundesallee
+410,"In the Berlin area, which road cannot directly reach Gradestraße?",A,Osteweg,Rixdorfer Straße,Gottlieb-Dunkel-Straße,Tempelhofer Weg
+411,"In the Berlin area, which road cannot directly reach Karlshorster Straße?",C,Wilhelminenhofstraße,Schnellerstraße,Parchimer Allee,Siemensstraße
+412,"In the Berlin area, which road cannot directly reach Schnellerstraße?",A,Föhrer Straße,Minna-Todenhagen-Straße,Fennstraße,Köpenicker Landstraße
+413,"In the Berlin area, which road cannot directly reach Piesporter Straße?",A,Schildhornstraße,Malchower Chaussee,Berliner Allee,Parkstraße
+414,"In the Berlin area, which road cannot directly reach Schönower Straße?",B,Machnower Straße,Charlottenburger Chaussee,Mühlenstraße,Teltower Damm
+415,"In the Berlin area, which road cannot directly reach Blaschkoallee?",D,Britzer Damm,Buschkrugallee,Späthstraße,Oberfeldstraße
+416,"In the Berlin area, which road cannot directly reach Potsdamer Chaussee?",A,Axel-Springer-Straße,Fischerhüttenstraße,Potsdamer Straße,Lindenthaler Allee
+417,"In the Berlin area, which road cannot directly reach Lindenthaler Allee?",A,Burgstraße,Clauertstraße,Argentinische Allee,Potsdamer Straße
+418,"In the Berlin area, which road directly reaches Rudower Straße?",B,Hansabrücke,Lipschitzallee,Stubenrauchstraße,Germaniastraße
+419,"In the Berlin area, which road cannot directly reach Gehrenseestraße?",B,Hohenschönhauser Straße,Messedamm,Bitterfelder Straße,Wartenberger Straße
+420,"In the Berlin area, which road cannot directly reach Bitterfelder Straße?",D,Gehrenseestraße,Märkische Allee,Pablo-Picasso-Straße,Pacelliallee
+421,"In the Berlin area, which road cannot directly reach Langhansstraße?",A,Buckower Damm,Berliner Allee,Greifswalder Straße,Gustav-Adolf-Straße
+422,"In the Berlin area, which road cannot directly reach Ullsteinstraße?",C,Rixdorfer Straße,Gradestraße,Imbuschweg,Komturstraße
+423,"In the Berlin area, which road cannot directly reach Gottlieb-Dunkel-Straße?",D,Gradestraße,Tempelhofer Weg,Rixdorfer Straße,Am Juliusturm
+424,"In the Berlin area, which road cannot directly reach Wiesbadener Straße?",D,Breite Straße,Bundesallee,Laubacher Straße,Igo-Etrich-Straße
+425,"In the Berlin area, which road cannot directly reach Sickingenbrücke?",A,Lietzenburger Straße,Sickingenstraße,Neues Ufer,Lise-Meitner-Straße
+426,"In the Berlin area, which road cannot directly reach Olbersstraße?",B,Sickingenbrücke,Herzbergstraße,Lise-Meitner-Straße,Tegeler Weg
+427,"In the Berlin area, which road cannot directly reach Mariendorfer Weg?",A,Ostendstraße,Gottlieb-Dunkel-Straße,Hertastraße,Hermannstraße
+428,"In the Berlin area, which road cannot directly reach Hertastraße?",B,Silbersteinstraße,Teplitzer Straße,Mariendorfer Weg,Hermannstraße
+429,"In the Berlin area, which road cannot directly reach Röblingstraße?",A,Großbeerenstraße,Arnulfstraße,Attilastraße,Gersdorfstraße
+430,"In the Berlin area, which road cannot directly reach Rüdersdorfer Straße?",C,Grünberger Straße,Koppenstraße,Bornholmer Straße,Straße der Pariser Kommune
+431,"In the Berlin area, which road cannot directly reach Feuerbachstraße?",D,Thorwaldsenstraße,Bismarckstraße,Knausstraße,Kantstraße
+432,"In the Berlin area, which road cannot directly reach Feuerbachbrücke?",D,Bismarckstraße,Feuerbachstraße,Knausstraße,Mollstraße
+433,"In the Berlin area, which road cannot directly reach An der Michaelbrücke?",B,Strausberger Platz,Alarichstraße,Holzmarktstraße,Köpenicker Straße
+434,"In the Berlin area, which road cannot directly reach Lepsiusstraße?",C,Laubacher Straße,Schildhornstraße,Blockdammweg,Grunewaldstraße
+435,"In the Berlin area, which road cannot directly reach Pistoriusstraße?",A,Schildhornstraße,Roelckestraße,Berliner Allee,Parkstraße
+436,"In the Berlin area, which road cannot directly reach Bergstraße?",D,Joachim-Tiburtius-Brücke,Thorwaldsenstraße,Prellerweg,Schildhornstraße
+437,"In the Berlin area, which road cannot directly reach Rummelsburger Straße?",A,Prellerweg,Edisonstraße,Alfred-Kowalke-Straße,Sewanstraße
+438,"In the Berlin area, which road cannot directly reach An der Wuhlheide?",A,Otto-Suhr-Allee,Rummelsburger Straße,Treskowallee,Edisonstraße
+439,"In the Berlin area, which road cannot directly reach Treskowallee?",A,Ferdinand-Friedensburg-Platz,Rummelsburger Straße,Am Tierpark,An der Wuhlheide
+440,"In the Berlin area, which road cannot directly reach Halenseestraße?",C,Messedamm,Hubertusallee,Lindenthaler Allee,Kurfürstendamm
+441,"In the Berlin area, which road cannot directly reach Giesebrechtstraße?",A,Gotthardstraße,Leibnizstraße,Olivaer Platz,Kurfürstendamm
+442,"In the Berlin area, which road cannot directly reach Hundekehlestraße?",A,Alt-Mariendorf,Berkaer Straße,Breite Straße,Warnemünder Straße
+443,"In the Berlin area, which road cannot directly reach Warnemünder Straße?",B,Hundekehlestraße,Schmiljanstraße,Berkaer Straße,Breite Straße
+444,"In the Berlin area, which road cannot directly reach Berkaer Straße?",A,Munsterdamm,Breite Straße,Warnemünder Straße,Hohenzollerndamm
+445,"In the Berlin area, which road cannot directly reach Heidestraße?",C,Sellerstraße,Fennbrücke,Wagner-Régeny-Allee,Perleberger Straße
+446,"In the Berlin area, which road cannot directly reach Perleberger Straße?",A,Fulhamer Allee,Heidestraße,Ellen-Epstein-Straße,Stromstraße
+447,"In the Berlin area, which road cannot directly reach Fennbrücke?",A,Provinzstraße,Fennstraße,Perleberger Straße,Heidestraße
+448,"In the Berlin area, which road cannot directly reach Franzensbader Straße?",C,Berkaer Straße,Hohenzollerndamm,Kottbusser Tor,Hubertusallee
+449,"In the Berlin area, which road cannot directly reach Kottbusser Damm?",C,Sonnenallee,Hermannplatz,Kurt-Schumacher-Damm,Kottbusser Straße
+450,"In the Berlin area, which road cannot directly reach Arnulfstraße?",D,Attilastraße,Alboinstraße,Alarichstraße,Finckensteinallee
+451,"In the Berlin area, which road cannot directly reach Hedwig-Dohm-Straße?",A,Preußenallee,Ella-Barowsky-Straße,Sachsendamm,Wilhelm-Kabus-Straße
+452,"In the Berlin area, which road directly reaches Sachsendamm?",A,Hedwig-Dohm-Straße,Alarichstraße,Hannoversche Straße,Langhansstraße
+453,"In the Berlin area, which road cannot directly reach Gustav-Adolf-Straße?",D,Langhansstraße,Prenzlauer Promenade,Rennbahnstraße,Bernauer Straße
+454,"In the Berlin area, which road cannot directly reach Altensteinstraße?",D,Podbielskiallee,Schorlemerallee,Königin-Luise-Straße,Ebertstraße
+455,"In the Berlin area, which road cannot directly reach Podbielskiallee?",B,Platz am Wilden Eber,Parchimer Allee,Altensteinstraße,Schorlemerallee
+456,"In the Berlin area, which road cannot directly reach Lankwitzer Straße?",C,Großbeerenstraße,Morgensternstraße,Malteserstraße,Kamenzer Damm
+457,"In the Berlin area, which road cannot directly reach Großbeerenstraße?",D,Alt-Mariendorf,Daimlerstraße,Rathausstraße,Lahnstraße
+458,"In the Berlin area, which road directly reaches Proskauer Straße?",C,Koloniestraße,Am Tierpark,Eldenaer Straße,Heinrich-Heine-Straße
+459,"In the Berlin area, which road directly reaches Alte Jafféstraße?",D,Breite Straße,Seehausener Straße,Plauener Straße,Messedamm
+460,"In the Berlin area, which road cannot directly reach Hosemannstraße?",D,Ostseestraße,Grellstraße,Roelckestraße,Andreasstraße
+461,"In the Berlin area, which road cannot directly reach Humboldtstraße?",C,Kurt-Schumacher-Platz,Lindauer Allee,Bulgarische Straße,Ollenhauerstraße
+462,"In the Berlin area, which road directly reaches Heckerdamm?",D,Wallstraße,Ernst-Reuter-Platz,Hermann-Hesse-Straße,Friedrich-Olbricht-Damm
+463,"In the Berlin area, which road directly reaches Hessische Straße?",C,Kaiserdamm,Neue Späthstraße,Hannoversche Straße,Kamenzer Damm
+464,"In the Berlin area, which road directly reaches Goerdelerdamm?",C,Buchholzer Straße,Gustav-Meyer-Allee,Jakob-Kaiser-Platz,Fasanenstraße
+465,"In the Berlin area, which road directly reaches Reichweindamm?",B,Birkbuschstraße,Goerdelerdamm,Brandenburgische Straße,Salzufer
+466,"In the Berlin area, which road cannot directly reach Föhrer Straße?",A,Boxhagener Straße,An der Putlitzbrücke,Stromstraße,Luxemburger Straße
+467,"In the Berlin area, which road cannot directly reach Helmholtzstraße?",D,Franklinstraße,Salzufer,Gotzkowskybrücke,Holzhauser Straße
+468,"In the Berlin area, which road cannot directly reach Liesenstraße?",D,Chausseestraße,Gartenstraße,Müllerstraße,Eisenhutweg
+469,"In the Berlin area, which road directly reaches Hansabrücke?",C,Gleimstraße,Friedrichstraße,Gotzkowskybrücke,Wiener Straße
+470,"In the Berlin area, which road cannot directly reach Gotzkowskybrücke?",B,Gotzkowskystraße,Großbeerenstraße,Franklinstraße,Helmholtzstraße
+471,"In the Berlin area, which road cannot directly reach Hardenbergstraße?",C,Kantstraße,Joachimsthaler Straße,Birkbuschstraße,Fasanenstraße
+472,"In the Berlin area, which road cannot directly reach Hubertusallee?",C,Teplitzer Straße,Paulsborner Straße,Holzhauser Straße,Kurfürstendamm
+473,"In the Berlin area, which road directly reaches Osnabrücker Straße?",C,Wiener Straße,Parkstraße,Mierendorffplatz,Bleicheroder Straße
+474,"In the Berlin area, which road cannot directly reach Tegeler Weg?",B,Lise-Meitner-Straße,Mehrower Allee,Olbersstraße,Osnabrücker Straße
+475,"In the Berlin area, which road cannot directly reach Neues Ufer?",C,Sickingenbrücke,Kaiserin-Augusta-Allee,Imbuschweg,Sickingenstraße
+476,"In the Berlin area, which road directly reaches Friedrich-Olbricht-Damm?",D,Buschkrugallee,Stargarder Straße,Gehrenseestraße,Saatwinkler Damm
+477,"In the Berlin area, which road directly reaches Sylter Straße?",B,Schillstraße,Seestraße,Prellerweg,Gersdorfstraße
+478,"In the Berlin area, which road directly reaches Dohnagestell?",A,Transvaalstraße,Karl-Liebknecht-Straße,Köpenicker Chaussee,Steubenplatz
+479,"In the Berlin area, which road cannot directly reach An der Putlitzbrücke?",B,Föhrer Straße,Parkstraße,Nordufer,Perleberger Straße
+480,"In the Berlin area, which road directly reaches Nordufer?",C,Breitenbachplatz,Roedernallee,Föhrer Straße,Rahel-Hirsch-Straße
+481,"In the Berlin area, which road directly reaches Friedrich-Krause-Ufer?",D,Lückstraße,Buschkrugallee,Schönower Straße,Föhrer Straße
+482,"In the Berlin area, which road cannot directly reach Provinzstraße?",B,Straße vor Schönholz,Marzahner Chaussee,Pankower Allee,Osloer Straße
+483,"In the Berlin area, which road cannot directly reach Koloniestraße?",B,Schwedenstraße,Prinzenstraße,Osloer Straße,Badstraße
+484,"In the Berlin area, which road directly reaches Lübener Weg?",D,Bitterfelder Straße,Herzbergstraße,Luxemburger Straße,Teichstraße
+485,"In the Berlin area, which road cannot directly reach Columbiadamm?",C,Friesenstraße,Flughafenstraße,Hohenstaufenstraße,Platz der Luftbrücke
+486,"In the Berlin area, which road directly reaches Friesenstraße?",C,Güntzelstraße,Jafféstraße,Columbiadamm,Olivaer Platz
+487,"In the Berlin area, which road directly reaches Freiheit?",C,Marzahner Chaussee,Luzerner Straße,Spandauer Damm,Friedenauer Brücke
+488,"In the Berlin area, which road cannot directly reach Thorwaldsenstraße?",A,Rheinbabenallee,Feuerbachstraße,Knausstraße,Prellerweg
+489,"In the Berlin area, which road cannot directly reach Scheringstraße?",A,Attilastraße,Liesenstraße,Wiesenstraße,Gartenstraße
+490,"In the Berlin area, which road cannot directly reach Gartenstraße?",A,Paul-Löbe-Allee,Scheringstraße,Liesenstraße,Bernauer Straße
+491,"In the Berlin area, which road cannot directly reach Wiesenstraße?",B,Scheringstraße,Leipziger Straße,Gustav-Meyer-Allee,Hochstraße
+492,"In the Berlin area, which road cannot directly reach Zinnowitzer Straße?",D,Caroline-Michaelis-Straße,Julie-Wolfthorn-Straße,Chausseestraße,Grenzallee
+493,"In the Berlin area, which road cannot directly reach Julie-Wolfthorn-Straße?",A,Eichkampstraße,Caroline-Michaelis-Straße,Zinnowitzer Straße,Bernauer Straße
+494,"In the Berlin area, which road cannot directly reach Caroline-Michaelis-Straße?",D,Invalidenstraße,Zinnowitzer Straße,Julie-Wolfthorn-Straße,Machnower Straße
+495,"In the Berlin area, which road cannot directly reach Lützowstraße?",A,Falkenberger Straße,Lützowplatz,Potsdamer Straße,Lützowufer
+496,"In the Berlin area, which road cannot directly reach Sophie-Charlotten-Straße?",A,Bachstraße,Spandauer Damm,Sophie-Charlotte-Platz,Knobelsdorffstraße
+497,"In the Berlin area, which road directly reaches Sophie-Charlotte-Platz?",D,Nöldnerstraße,Alboinplatz,Amrumer Straße,Sophie-Charlotten-Straße
+498,"In the Berlin area, which road cannot directly reach An der Schillingbrücke?",C,Stralauer Platz,Bethaniendamm,Spichernstraße,Andreasstraße
+499,"In the Berlin area, which road cannot directly reach Stralauer Platz?",D,Andreasstraße,An der Schillingbrücke,Mühlenstraße,Marzahner Chaussee
+500,"In the Berlin area, which road cannot directly reach Wollankstraße?",B,Florastraße,Danziger Straße,Prinzenallee,Schönholzer Straße
+501,"In the Berlin area, which road cannot directly reach Puschkinallee?",A,Pablo-Picasso-Straße,Schlesische Straße,Alt-Treptow,Elsenbrücke
+502,"In the Berlin area, which road cannot directly reach Schlesische Straße?",B,Köpenicker Straße,Dohnagestell,Puschkinallee,Am Oberbaum
+503,"In the Berlin area, which road cannot directly reach Am Oberbaum?",C,Köpenicker Straße,Skalitzer Straße,Wilhelmstraße,Schlesische Straße
+504,"In the Berlin area, which road cannot directly reach Schlichtallee?",A,Hertastraße,Lückstraße,Hauptstraße,Nöldnerstraße
+505,"In the Berlin area, which road cannot directly reach Lückstraße?",B,Nöldnerstraße,Sylter Straße,Sewanstraße,Weitlingstraße
+506,"In the Berlin area, which road cannot directly reach Sewanstraße?",B,Lückstraße,Kulmer Straße,Volkradstraße,Am Tierpark
+507,"In the Berlin area, which road directly reaches Volkradstraße?",C,Gitschiner Straße,Spichernstraße,Rummelsburger Straße,Grunerstraße
+508,"In the Berlin area, which road cannot directly reach Marzahner Chaussee?",B,Gensinger Straße,Stülerstraße,Allee der Kosmonauten,Rhinstraße
+509,"In the Berlin area, which road cannot directly reach Clauertstraße?",D,Berlepschstraße,Ludwigsfelder Straße,Lindenthaler Allee,Piesporter Straße
+510,"In the Berlin area, which road directly reaches Giesensdorfer Straße?",D,Potsdamer Brücke,Neue Späthstraße,Hedwig-Dohm-Straße,Ostpreußendamm
+511,"In the Berlin area, which road cannot directly reach Morgensternstraße?",D,Königsberger Straße,Ostpreußendamm,Lankwitzer Straße,Martin-Luther-Straße
+512,"In the Berlin area, which road cannot directly reach Rominter Allee?",D,Trakehner Allee,Olympische Straße,Charlottenburger Chaussee,Fischerinsel
+513,"In the Berlin area, which road cannot directly reach Olympische Straße?",B,Steubenplatz,John-F.-Kennedy-Platz,Rominter Allee,Preußenallee
+514,"In the Berlin area, which road cannot directly reach Trakehner Allee?",C,Passenheimer Straße,Flatowallee,Manteuffelstraße,Rominter Allee
+515,"In the Berlin area, which road cannot directly reach Schönholzer Straße?",A,Königsheideweg,Heinrich-Mann-Straße,Grabbeallee,Breite Straße
+516,"In the Berlin area, which road cannot directly reach Grabbeallee?",A,Gitschiner Straße,Hermann-Hesse-Straße,Heinrich-Mann-Straße,Pastor-Niemöller-Platz
+517,"In the Berlin area, which road directly reaches Grumbkowstraße?",A,Blankenburger Straße,Schönhauser Allee,Einsteinufer,Pasewalker Straße
+518,"In the Berlin area, which road cannot directly reach Blankenburger Straße?",B,Romain-Rolland-Straße,Huttenstraße,Heinersdorfer Straße,Dietzgenstraße
+519,"In the Berlin area, which road directly reaches Buchholzer Straße?",A,Blankenburger Straße,Siemensstraße,Marchstraße,Eisenhutweg
+520,"In the Berlin area, which road directly reaches Heinersdorfer Straße?",A,Blankenburger Straße,Kopernikusstraße,Bolivarallee,Leipziger Straße
+521,"In the Berlin area, which road cannot directly reach Ortnitstraße?",B,Heinersdorfer Straße,Hannoversche Straße,Blankenburger Straße,Malchower Chaussee
+522,"In the Berlin area, which road cannot directly reach Indira-Gandhi-Straße?",B,Weißenseer Weg,Am Steinberg,Berliner Allee,Hansastraße
+523,"In the Berlin area, which road cannot directly reach Wartenberger Weg?",D,Malchower Chaussee,Prendener Straße,Dorfstraße,Damerowstraße
+524,"In the Berlin area, which road cannot directly reach Wartenberger Straße?",D,Falkenberger Chaussee,Hauptstraße,Malchower Weg,Münzstraße
+525,"In the Berlin area, which road directly reaches Conradstraße?",C,Wiesbadener Straße,Pacelliallee,Holzhauser Straße,Roedernallee
+526,"In the Berlin area, which road directly reaches Ludwigsfelder Straße?",A,Berlepschstraße,Lützowplatz,Suarezstraße,Clayallee
+527,"In the Berlin area, which road cannot directly reach Berlepschstraße?",D,Clauertstraße,Machnower Straße,Ludwigsfelder Straße,Leipziger Straße
+528,"In the Berlin area, which road cannot directly reach Engeldamm?",B,Köpenicker Straße,Westfälische Straße,Annenstraße,Adalbertstraße
+529,"In the Berlin area, which road cannot directly reach Kochstraße?",B,Wilhelmstraße,Lindenstraße,Rudi-Dutschke-Straße,Friedrichstraße
+530,"In the Berlin area, which road cannot directly reach Marienfelder Allee?",D,Preysingstraße,Großbeerenstraße,Daimlerstraße,Ellen-Epstein-Straße
+531,"In the Berlin area, which road cannot directly reach Preysingstraße?",A,Fennbrücke,Großbeerenstraße,Malteserstraße,Marienfelder Allee
+532,"In the Berlin area, which road cannot directly reach Gartenfelder Straße?",A,Friedrich-Olbricht-Damm,Paulsternstraße,Bernauer Straße,Neheimer Straße
+533,"In the Berlin area, which road cannot directly reach Neheimer Straße?",B,Bernauer Straße,Langhansstraße,Gartenfelder Straße,Berliner Straße
+534,"In the Berlin area, which road directly reaches Daimlerstraße?",C,Oberbaumstraße,Straße vor Schönholz,Großbeerenstraße,Buschkrugallee
+535,"In the Berlin area, which road directly reaches Sellerstraße?",D,Wismarplatz,Frankfurter Allee,Fennbrücke,Müllerstraße
+536,"In the Berlin area, which road cannot directly reach Prinzregent-Ludwig-Brücke?",D,Birkbuschstraße,Ostpreußendamm,Siemensstraße,Mariendorfer Damm
+537,"In the Berlin area, which road cannot directly reach Ferdinand-Schultze-Straße?",C,Landsberger Allee,Plauener Straße,Behrenstraße,Gärtnerstraße
+538,"In the Berlin area, which road cannot directly reach Poelchaustraße?",C,Allee der Kosmonauten,Märkische Allee,Schnellerstraße,Bruno-Baum-Straße
+539,"In the Berlin area, which road directly reaches Gensinger Straße?",A,Marzahner Chaussee,Hertastraße,Thorwaldsenstraße,Giersstraße
+540,"In the Berlin area, which road cannot directly reach Marzahner Promenade?",C,Bruno-Baum-Straße,Landsberger Allee,Wisbyer Straße,Märkische Allee
+541,"In the Berlin area, which road cannot directly reach Alt-Biesdorf?",C,Märkische Allee,Grabensprung,Transvaalstraße,Oberfeldstraße
+542,"In the Berlin area, which road directly reaches Oberfeldstraße?",D,Giersstraße,Badensche Straße,Alfred-Kowalke-Straße,Alt-Biesdorf
+543,"In the Berlin area, which road cannot directly reach Allee der Kosmonauten?",C,Marzahner Chaussee,Poelchaustraße,Alexanderstraße,Rhinstraße
+544,"In the Berlin area, which road directly reaches Bentschener Weg?",A,Märkische Allee,Zingster Straße,Spreestraße,Grunerstraße
+545,"In the Berlin area, which road directly reaches Ehrlichstraße?",C,Königin-Luise-Straße,Otternbuchtstraße,Treskowallee,Malchower Weg
+546,"In the Berlin area, which road cannot directly reach Neumannstraße?",C,Stahlheimer Straße,Elsa-Brändström-Straße,Hagenstraße,Thulestraße
+547,"In the Berlin area, which road directly reaches Blankenburger Pflasterweg?",D,Annemarie-Renger-Straße,Grunerstraße,Birkbuschstraße,Dorfstraße
+548,"In the Berlin area, which road cannot directly reach Dorfstraße?",A,Bayerischer Platz,Wartenberger Weg,Ahrensfelder Chaussee,Blankenburger Pflasterweg
+549,"In the Berlin area, which road directly reaches Bundesstraße 2?",C,Johannisthaler Chaussee,Gneisenaustraße,Dorfstraße,Wiener Straße
+550,"In the Berlin area, which road cannot directly reach Spreeweg?",B,Großer Stern,Bismarckstraße,Paulstraße,John-Foster-Dulles-Allee
+551,"In the Berlin area, which road cannot directly reach Ernst-Ruska-Ufer?",C,Wegedornstraße,Hermann-Dorner-Allee,Wielandstraße,Köpenicker Straße
+552,"In the Berlin area, which road directly reaches Münzstraße?",D,Wagner-Régeny-Allee,Spreeweg,Herkulesbrücke,Memhardstraße
+553,"In the Berlin area, which road cannot directly reach Daumstraße?",A,Seesener Straße,Gartenfelder Straße,Ferdinand-Friedensburg-Platz,Rhenaniastraße
+554,"In the Berlin area, which road cannot directly reach Grunerstraße?",B,Alexanderstraße,Gotthardstraße,Otto-Braun-Straße,Spandauer Straße
+555,"In the Berlin area, which road directly reaches Am Postfenn?",C,Hermann-Hesse-Straße,Hosemannstraße,Heerstraße,Berkaer Straße
+556,"In the Berlin area, which road cannot directly reach Heerstraße?",A,Holteistraße,Am Postfenn,Flatowallee,Passenheimer Straße
+557,"In the Berlin area, which road cannot directly reach Mohriner Allee?",C,Britzer Straße,Buckower Damm,Rothenbachstraße,Britzer Damm
+558,"In the Berlin area, which road cannot directly reach Buckower Damm?",C,Dachdeckerweg,Gutschmidtstraße,Alexanderstraße,Mohriner Allee
+559,"In the Berlin area, which road directly reaches Bergiusstraße?",A,Grenzallee,Kniprodestraße,Elsenbrücke,Prinzenallee
+560,"In the Berlin area, which road directly reaches Tunnelstraße?",B,Berliner Allee,Alt-Stralau,Passenheimer Straße,Otto-Franke-Straße
+561,"In the Berlin area, which road cannot directly reach Kynaststraße?",B,Boxhagener Straße,Reinickendorfer Straße,Tunnelstraße,Alt-Stralau
+562,"In the Berlin area, which road directly reaches Harzer Straße?",C,Hohenstaufenstraße,Bundesstraße 2,Treptower Straße,Wilhelm-Kabus-Straße
+563,"In the Berlin area, which road cannot directly reach Treptower Straße?",C,Harzer Straße,Sonnenallee,Rudolstädter Straße,Kiefholzstraße
+564,"In the Berlin area, which road cannot directly reach Treskowstraße?",C,Am Steinberg,Prenzlauer Promenade,Martin-Luther-Straße,Tino-Schwierzina-Straße
+565,"In the Berlin area, which road cannot directly reach Tino-Schwierzina-Straße?",D,Rennbahnstraße,Am Steinberg,Treskowstraße,Lichtenberger Straße
+566,"In the Berlin area, which road cannot directly reach Straße vor Schönholz?",B,Edelweißstraße,Luzerner Straße,Heinrich-Mann-Straße,Emmentaler Straße
+567,"In the Berlin area, which road cannot directly reach Behrenstraße?",C,Glinkastraße,Ebertstraße,Hubertusallee,Wilhelmstraße
+568,"In the Berlin area, which road directly reaches Gallwitzallee?",B,Gürtelstraße,Paul-Schneider-Straße,Garystraße,Barfusstraße
+569,"In the Berlin area, which road cannot directly reach Malteserstraße?",B,Paul-Schneider-Straße,Paulsborner Straße,Kamenzer Damm,Preysingstraße
+570,"In the Berlin area, which road cannot directly reach Kamenzer Damm?",A,Hermann-Hesse-Straße,Lankwitzer Straße,Malteserstraße,Paul-Schneider-Straße
+571,"In the Berlin area, which road cannot directly reach Wilhelm-Kabus-Straße?",C,Hedwig-Dohm-Straße,Kolonnenstraße,Ferdinand-Friedensburg-Platz,Ella-Barowsky-Straße
+572,"In the Berlin area, which road directly reaches Ella-Barowsky-Straße?",D,Trakehner Allee,Proskauer Straße,Zossener Straße,Hedwig-Dohm-Straße
+573,"In the Berlin area, which road directly reaches Richard-von-Weizsäcker-Platz?",B,Burgstraße,Kolonnenstraße,Rudolf-Rühl-Allee,Alt-Mariendorf
+574,"In the Berlin area, which road cannot directly reach Segelfliegerdamm?",D,Sterndamm,Königsheideweg,Stubenrauchstraße,Pastor-Niemöller-Platz
+575,"In the Berlin area, which road cannot directly reach Eldenaer Straße?",D,Loeperplatz,Ebertystraße,Proskauer Straße,Prenzlauer Promenade
+576,"In the Berlin area, which road directly reaches Loeperplatz?",B,Mühlenstraße,Eldenaer Straße,Tegeler Weg,Lübener Weg
+577,"In the Berlin area, which road directly reaches Weitlingstraße?",B,Fischerinsel,Rosenfelder Straße,Antonienstraße,Köpenicker Landstraße
+578,"In the Berlin area, which road cannot directly reach Rosenfelder Straße?",B,Frankfurter Allee,Wilhelmstraße,Weitlingstraße,Robert-Uhrig-Straße
+579,"In the Berlin area, which road cannot directly reach Robert-Uhrig-Straße?",D,Rummelsburger Straße,Rosenfelder Straße,Alfred-Kowalke-Straße,Karlshorster Straße
+580,"In the Berlin area, which road cannot directly reach Kissingenstraße?",B,Granitzstraße,Lützowstraße,Neumannstraße,Prenzlauer Promenade
+581,"In the Berlin area, which road directly reaches Antonienstraße?",A,Wittestraße,Mariendorfer Weg,Romain-Rolland-Straße,Finckensteinallee
+582,"In the Berlin area, which road directly reaches Rudolf-Rühl-Allee?",D,Altensteinstraße,Prinzenstraße,Hasenheide,Waldowallee
+583,"In the Berlin area, which road cannot directly reach Waldowallee?",A,Luisenplatz,Treskowallee,Köpenicker Straße,Rudolf-Rühl-Allee
+584,"In the Berlin area, which road cannot directly reach Thaerstraße?",A,Rathenower Straße,Eldenaer Straße,Ebertystraße,Storkower Straße
+585,"In the Berlin area, which road directly reaches Eichborndamm?",A,Waldstraße,Volkradstraße,Glinkastraße,Gersdorfstraße
+586,"In the Berlin area, which road directly reaches Saargemünder Straße?",C,An der Putlitzbrücke,Münzstraße,Thielallee,Teplitzer Straße
+587,"In the Berlin area, which road directly reaches Charlottenburger Chaussee?",B,Wallstraße,Rominter Allee,Tegeler Weg,Güntzelstraße
+588,"In the Berlin area, which road directly reaches Gutschmidtstraße?",D,Blücherstraße,Emmentaler Straße,Dorfstraße,Fritz-Erler-Allee
+589,"In the Berlin area, which road cannot directly reach Rubensstraße?",A,Behmstraße,Hauptstraße,Vorarlberger Damm,Rheinstraße
+590,"In the Berlin area, which road directly reaches Raoul-Wallenberg-Straße?",B,Kniprodestraße,Märkische Allee,Wilhelm-Kabus-Straße,Rüdersdorfer Straße
+591,"In the Berlin area, which road directly reaches Grabensprung?",B,Halenseestraße,Alt-Biesdorf,Heinrich-von-Gagern-Straße,Gleimstraße
+592,"In the Berlin area, which road directly reaches Am Studio?",D,Müllerstraße,Seestraße,Leonorenstraße,Rudower Chaussee
+593,"In the Berlin area, which road directly reaches Elsenbrücke?",C,Hohenschönhauser Straße,Königin-Elisabeth-Straße,Puschkinallee,Lindenthaler Allee
+594,"In the Berlin area, which road directly reaches Garystraße?",B,Platz vor dem Neuen Tor,Clayallee,Giesebrechtstraße,Leibnizstraße
+595,"In the Berlin area, which road cannot directly reach Bethaniendamm?",B,Adalbertstraße,Anna-Louisa-Karsch-Straße,Köpenicker Straße,An der Schillingbrücke
+596,"In the Berlin area, which road cannot directly reach Möckernstraße?",A,Heinrich-Mann-Platz,Tempelhofer Ufer,Yorckstraße,Hallesches Ufer
+597,"In the Berlin area, which road directly reaches Hertzstraße?",C,Sterndamm,Florastraße,Hauptstraße,Lewishamstraße
+598,"In the Berlin area, which road cannot directly reach Reichstagufer?",D,Unter den Linden,Glinkastraße,Friedrichstraße,Groß-Berliner Damm
+599,"In the Berlin area, which road directly reaches Elsa-Brändström-Straße?",A,Berliner Straße,Straße der Pariser Kommune,Saatwinkler Damm,Schillstraße
+600,"In the Berlin area, which road directly reaches Dietzgenstraße?",C,Wiebestraße,Hohenzollerndamm,Hermann-Hesse-Straße,Bitterfelder Straße
+601,"In the Berlin area, which road cannot directly reach Hermann-Hesse-Straße?",D,Blankenburger Straße,Grabbeallee,Pastor-Niemöller-Platz,Louise-Schroeder-Platz
+602,"In the Berlin area, which road cannot directly reach Platz vor dem Neuen Tor?",B,Invalidenstraße,Marzahner Straße,Hannoversche Straße,Luisenstraße
+603,"In the Berlin area, which road cannot directly reach Hallesches Ufer?",D,Schöneberger Straße,Tunnel Tiergarten Spreebogen,Möckernstraße,Olivaer Platz
+604,"In the Berlin area, which road directly reaches Zingster Straße?",D,Möckernstraße,Landsberger Allee,Sickingenstraße,Darßer Straße
+605,"In the Berlin area, which road cannot directly reach Romain-Rolland-Straße?",C,Blankenburger Straße,Rothenbachstraße,Alt-Moabit,Rennbahnstraße
+606,"In the Berlin area, which road directly reaches Triftstraße?",C,Oranienburger Straße,Axel-Springer-Straße,Holzhauser Straße,Güntzelstraße
+607,"In the Berlin area, which road cannot directly reach Nöldnerstraße?",A,Platz am Wilden Eber,Schlichtallee,Lückstraße,Karlshorster Straße
+608,"In the Berlin area, which road cannot directly reach Potsdamer Platz?",A,Huttenstraße,Ben-Gurion-Straße,Stresemannstraße,Potsdamer Straße
+609,"In the Berlin area, which road cannot directly reach Dorotheenstraße?",C,Wilhelmstraße,Scheidemannstraße,Marienfelder Allee,Luisenstraße
+610,"In the Berlin area, which road cannot directly reach Wagner-Régeny-Allee?",D,Igo-Etrich-Straße,Groß-Berliner Damm,Wagner-Régeny-Straße,Egon-Erwin-Kisch-Straße
+611,"In the Berlin area, which road cannot directly reach Wagner-Régeny-Straße?",A,Fürstenbrunner Weg,Wagner-Régeny-Allee,Rudower Chaussee,Igo-Etrich-Straße
+612,"In the Berlin area, which road cannot directly reach Giersstraße?",D,Falkenberger Straße,Hansastraße,Berliner Allee,Am Feuchten Winkel
+613,"In the Berlin area, which road cannot directly reach Machnower Straße?",B,Teltower Damm,Oranienburger Straße,Berlepschstraße,Schönower Straße
+614,"In the Berlin area, which road cannot directly reach Oranienburger Straße?",C,Hackescher Markt,Universitätsstraße,Hohenzollerndamm,Ollenhauerstraße
+615,"In the Berlin area, which road directly reaches Universitätsstraße?",B,Reißeckstraße,Oranienburger Straße,Alfredstraße,Ebertystraße
+616,"In the Berlin area, which road cannot directly reach Alfred-Kowalke-Straße?",B,Robert-Uhrig-Straße,Rothenbachstraße,Rummelsburger Straße,Am Tierpark
+617,"In the Berlin area, which road cannot directly reach Marktstraße?",B,Karlshorster Straße,Seehofstraße,Boxhagener Straße,Kynaststraße
+618,"In the Berlin area, which road directly reaches Wegedornstraße?",C,Scharnweberstraße,Unter den Eichen,Rudower Chaussee,Ostendstraße
+619,"In the Berlin area, which road directly reaches Osteweg?",A,Luzerner Straße,Grenzallee,Oderbruchstraße,Britzer Brücke
+620,"In the Berlin area, which road directly reaches Luzerner Straße?",C,Kaiser-Wilhelm-Straße,Röblingstraße,Osteweg,Barfusstraße
+621,"In the Berlin area, which road directly reaches Werbellinstraße?",B,Sophie-Charlotten-Straße,Karl-Marx-Straße,Levetzowstraße,Wollankstraße
+622,"In the Berlin area, which road directly reaches Britzer Straße?",D,Dachdeckerweg,Bergstraße,Mollstraße,Mohriner Allee
+623,"In the Berlin area, which road cannot directly reach Germaniastraße?",C,Komturstraße,Alt-Tempelhof,Wiesenstraße,Oberlandstraße
+624,"In the Berlin area, which road directly reaches Gertraudenstraße?",A,Leipziger Straße,Hannah-Arendt-Straße,Theodor-Heuss-Platz,Köpenicker Landstraße
+625,"In the Berlin area, which road directly reaches Werner-Voß-Damm?",A,Boelckestraße,Mariendorfer Weg,Rothenbachstraße,Märkische Allee
+626,"In the Berlin area, which road directly reaches Kölner Damm?",A,Johannisthaler Chaussee,Wilhelmstraße,Igo-Etrich-Straße,Perleberger Straße
+627,"In the Berlin area, which road cannot directly reach Konrad-Adenauer-Straße?",C,Reinhardtstraße,Otto-von-Bismarck-Allee,Ernst-Ruska-Ufer,Kapelle-Ufer
+628,"In the Berlin area, which road cannot directly reach Kapelle-Ufer?",D,Rahel-Hirsch-Straße,Reinhardtstraße,Friedrich-List-Ufer,Gensinger Straße
+629,"In the Berlin area, which road cannot directly reach Blockdammweg?",A,Petersburger Straße,Hauptstraße,Ehrlichstraße,Rummelsburger Landstraße
+630,"In the Berlin area, which road directly reaches Rummelsburger Landstraße?",C,Kurfürstenstraße,Luisenstraße,Blockdammweg,Kaiserstraße
+631,"In the Berlin area, which road directly reaches Am Feuchten Winkel?",D,Rheinbabenallee,Bundesplatz,Michael-Brückner-Straße,Pasewalker Straße
+632,"In the Berlin area, which road directly reaches Pasewalker Straße?",B,Kamenzer Damm,Am Feuchten Winkel,Gersdorfstraße,Straße vor Schönholz
+633,"In the Berlin area, which road cannot directly reach Joachim-Tiburtius-Brücke?",B,Schildhornstraße,Perleberger Straße,Bergstraße,Filandastraße
+634,"In the Berlin area, which road directly reaches Koppenstraße?",C,Kniprodestraße,Warschauer Straße,Andreasstraße,Nonnendammallee
+635,"In the Berlin area, which road directly reaches Kanalstraße?",B,An der Schillingbrücke,Stubenrauchstraße,Burgstraße,Memhardstraße
+636,"In the Berlin area, which road cannot directly reach Köpenicker Chaussee?",C,Gustav-Holzmann-Straße,Rummelsburger Straße,Wiesenstraße,Minna-Todenhagen-Straße
+637,"In the Berlin area, which road cannot directly reach Minna-Todenhagen-Straße?",B,Köpenicker Chaussee,Baumschulenstraße,Schnellerstraße,Köpenicker Landstraße
+638,"In the Berlin area, which road directly reaches Passenheimer Straße?",B,Altonaer Straße,Trakehner Allee,Michelangelostraße,Dudenstraße
+639,"In the Berlin area, which road cannot directly reach Roederplatz?",D,Herzbergstraße,Weißenseer Weg,Möllendorffstraße,Garystraße
+640,"In the Berlin area, which road directly reaches Ahrensfelder Chaussee?",C,Cauerstraße,Rudolstädter Straße,Dorfstraße,Stralauer Allee
+641,"In the Berlin area, which road cannot directly reach Rüdigerstraße?",C,Josef-Orlopp-Straße,Siegfriedstraße,Alte Jafféstraße,Atzpodienstraße
+642,"In the Berlin area, which road directly reaches Lorenzstraße?",B,Erna-Samuel-Straße,Lankwitzer Straße,Otto-Suhr-Allee,Florastraße
+643,"In the Berlin area, which road cannot directly reach Bruno-Baum-Straße?",D,Marzahner Promenade,Landsberger Allee,Poelchaustraße,Mariendorfer Damm
+644,"In the Berlin area, which road directly reaches Zechliner Straße?",A,Konrad-Wolf-Straße,Johannisthaler Chaussee,Glienicker Weg,Lückstraße
+645,"In the Berlin area, which road directly reaches Wolfener Straße?",B,Zwickauer Damm,Wuhletalstraße,Heckerdamm,Schönower Straße
+646,"In the Berlin area, which road directly reaches Kleine Eiswerderstraße?",D,Luxemburger Straße,Ferdinand-Friedensburg-Platz,Erkstraße,Daumstraße
+647,"In the Berlin area, which road directly reaches Bolivarallee?",B,Saatwinkler Damm,Steubenplatz,Prellerweg,Morgensternstraße
+648,"In the Berlin area, which road directly reaches John-F.-Kennedy-Platz?",B,Suarezstraße,Dominicusstraße,Ordensmeisterstraße,Passenheimer Straße
+649,"In the Berlin area, which road directly reaches Otto-von-Bismarck-Allee?",A,Konrad-Adenauer-Straße,Olbersstraße,Rosenthaler Straße,Am Oberbaum
+650,"In the Berlin area, which road cannot directly reach Nollendorfplatz?",B,Karl-Heinrich-Ulrichs-Straße,Rudower Straße,Kleiststraße,Bülowstraße
+651,"In the Berlin area, which road cannot directly reach Damerowstraße?",C,Breite Straße,Bleicheroder Straße,Teplitzer Straße,Pasewalker Straße
+652,"In the Berlin area, which road cannot directly reach Pastor-Niemöller-Platz?",B,Friedrich-Engels-Straße,Marienfelder Allee,Grabbeallee,Hermann-Hesse-Straße
+653,"In the Berlin area, which road directly reaches Wuhletalstraße?",D,Bulgarische Straße,Ollenhauerstraße,Elsenbrücke,Wolfener Straße
+654,"In the Berlin area, which road directly reaches Ellen-Epstein-Straße?",D,Stromstraße,Glienicker Weg,Neuköllner Straße,Erna-Samuel-Straße
+655,"In the Berlin area, which road directly reaches Annemarie-Renger-Straße?",C,Stralauer Platz,Kemperplatz,Otto-von-Bismarck-Allee,Bergiusstraße
+656,"In the Berlin area, which road cannot directly reach Anna-Louisa-Karsch-Straße?",C,Spandauer Straße,Burgstraße,Breitenbachplatz,Hackescher Markt
+657,"In the Berlin area, which road directly reaches Burgstraße?",D,Franklinstraße,Gärtnerstraße,Unter den Linden,Monbijouplatz
+658,"In the Berlin area, which road cannot directly reach Jafféstraße?",B,Messedamm,Filandastraße,Eichkampstraße,Heerstraße
+659,"In the Berlin area, which road directly reaches Platanenallee?",D,Boxhagener Straße,Karl-Marx-Straße,Weiskopffstraße,Knobelsdorffstraße
+660,"In the Berlin area, which road directly reaches Flatowallee?",B,Werbellinstraße,Trakehner Allee,Britzer Damm,Nöldnerstraße
+661,"In the Berlin area, which road directly reaches Leuschnerdamm?",A,Annenstraße,Rominter Allee,Halenseestraße,Attilastraße
+662,"In the Berlin area, which road directly reaches Bleicheroder Straße?",A,Breite Straße,Indira-Gandhi-Straße,Britzer Brücke,Gotzkowskybrücke
+663,"In the Berlin area, which road cannot directly reach Alt-Treptow?",A,Kottbusser Straße,Bulgarische Straße,Puschkinallee,Elsenstraße
+664,"In the Berlin area, which road cannot directly reach Hackescher Markt?",A,Ferdinand-Schultze-Straße,Spandauer Straße,Oranienburger Straße,Anna-Louisa-Karsch-Straße
+665,"In the Berlin area, which road directly reaches Eichkampstraße?",C,Wiener Straße,Florastraße,Jafféstraße,Emmentaler Straße
+666,"In the Berlin area, which road directly reaches Falkenberger Straße?",D,Zossener Straße,Schillstraße,Antonienstraße,Berliner Allee
+667,"In the Berlin area, which road directly reaches Haselhorster Damm?",D,Nollendorfplatz,Blaschkoallee,Preysingstraße,Gartenfelder Straße
+668,"In the Berlin area, which road cannot directly reach Alt-Mariendorf?",D,Rathausstraße,Mariendorfer Damm,Großbeerenstraße,Daimlerstraße
+669,"In the Berlin area, which road directly reaches Atzpodienstraße?",D,Neue Späthstraße,Reichstagufer,Giesensdorfer Straße,Rüdigerstraße
+670,"In the Berlin area, which road cannot directly reach Rahel-Hirsch-Straße?",C,Alt-Moabit,Kapelle-Ufer,Humboldtstraße,Friedrich-List-Ufer
+671,"In the Berlin area, which road cannot directly reach Friedrich-List-Ufer?",D,Rahel-Hirsch-Straße,Invalidenstraße,Kapelle-Ufer,Salzufer
+672,"In the Berlin area, which road directly reaches Weiskopffstraße?",A,An der Wuhlheide,Riemeisterstraße,Fürstenbrunner Weg,Kapelle-Ufer
+673,"In the Berlin area, which road directly reaches Am Nordgraben?",C,Pablo-Picasso-Straße,Bornholmer Straße,Oranienburger Straße,Hohenschönhauser Straße
+674,"In the Berlin area, which road directly reaches Paul-Löbe-Allee?",C,Tempelhofer Weg,Gustav-Meyer-Allee,Heinrich-von-Gagern-Straße,Goerzallee
+675,"In the Berlin area, which road cannot directly reach Theodor-Heuss-Platz?",B,Masurenallee,Luzerner Straße,Reichsstraße,Kaiserdamm
+676,"In the Berlin area, which road directly reaches Wolfensteindamm?",C,Behrenstraße,John-Foster-Dulles-Allee,Birkbuschstraße,Karl-Liebknecht-Straße
+677,"In the Berlin area, which road directly reaches Spichernstraße?",A,Bundesallee,Julie-Wolfthorn-Straße,Kapweg,Heinrich-Mann-Platz
+678,"In the Berlin area, which road cannot directly reach Platz am Wilden Eber?",A,Friedrich-Olbricht-Damm,Pacelliallee,Rheinbabenallee,Warnemünder Straße
+679,"In the Berlin area, which road directly reaches Holtzendorffstraße?",D,Brückenstraße,Wilhelm-Kabus-Straße,Dammweg,Joachim-Friedrich-Straße
+680,"In the Berlin area, which road directly reaches Friedenauer Brücke?",D,Kapweg,Imbuschweg,Lentzeallee,Saarstraße
+681,"In the Berlin area, which road directly reaches Rhenaniastraße?",C,Glienicker Weg,Sylter Straße,Daumstraße,Greifswalder Straße
+682,"In the Berlin area, which road cannot directly reach Ferdinand-Friedensburg-Platz?",D,Nonnendammallee,Daumstraße,Am Juliusturm,Brandenburgische Straße
+683,"In the Berlin area, which road directly reaches Am Juliusturm?",B,Blaschkoallee,Ferdinand-Friedensburg-Platz,Budapester Straße,Eldenaer Straße
+684,"In the Berlin area, which road directly reaches Lützowufer?",D,Alt-Biesdorf,Otto-Suhr-Allee,Osloer Straße,Lützowstraße
+685,"In the Berlin area, which road directly reaches Lentzeallee?",D,Sophie-Charlotte-Platz,Hansabrücke,Andreasstraße,Dillenburger Straße
+686,"In the Berlin area, which road directly reaches Mirbachplatz?",B,Langhansstraße,Pistoriusstraße,Altensteinstraße,Danziger Straße
+687,"In the Berlin area, which road directly reaches Britzer Brücke?",C,Eldenaer Straße,Tiergartenstraße,Britzer Damm,Klingelhöferstraße
+688,"In the Berlin area, which road directly reaches Preußstraße?",C,Platz der Vereinten Nationen,Heerstraße,Grellstraße,Monbijouplatz
+689,"In the Berlin area, which road directly reaches Schillstraße?",D,Falkenberger Chaussee,Schillstraße,Altensteinstraße,Lützowplatz
+690,"In the Berlin area, which road directly reaches Potsdamer Brücke?",C,Schloßstraße / Sophie-Charlotte-Platz,Rheinbabenallee,Lützowufer,Louise-Schroeder-Platz
+691,"In the Berlin area, which road directly reaches Bersarinplatz?",A,Petersburger Straße,Neue Späthstraße,Kissingenstraße,Falkenberger Chaussee
+692,"In the Berlin area, which road directly reaches Gustav-Holzmann-Straße?",A,Hauptstraße,Andreasstraße,Fischerinsel,Morgensternstraße
+693,"In the Berlin area, which road directly reaches Stargarder Straße?",A,Prenzlauer Allee,Sachsendamm,Zechliner Straße,Rennbahnstraße
+694,"In the Berlin area, which road directly reaches Schivelbeiner Straße?",D,Friedrich-List-Ufer,Am Studio,Blankenburger Pflasterweg,Behmstraße
+695,"In the Berlin area, which road directly reaches Alboinplatz?",D,Lipschitzallee,Neue Krugallee,Thielallee,Alboinstraße
+696,"In the Berlin area, which road directly reaches Haßlingerweg?",D,Spandauer Straße,Boelckestraße,Hannah-Arendt-Straße,Markstraße
+697,"In the Berlin area, which road directly reaches Erna-Samuel-Straße?",A,Ellen-Epstein-Straße,Spichernstraße,Wisbyer Straße,Bethaniendamm
+698,"In the Berlin area, which road directly reaches Kottbusser Straße?",A,Kottbusser Tor,Ebertystraße,Glienicker Weg,Charlottenburger Chaussee
+699,"In the Berlin area, which road directly reaches Eisenacher Straße?",D,Provinzstraße,Baumschulenstraße,Wildenbruchstraße,Rixdorfer Straße
+700,"In the Berlin area, which road directly reaches Reißeckstraße?",B,Wilhelmstraße,Mariendorfer Damm,Edelweißstraße,Falkenberger Chaussee
+701,"In the Berlin area, which road directly reaches Oberlandstraße?",B,Hosemannstraße,Silbersteinstraße,Daumstraße,Harzer Straße
+702,"In the Berlin area, which road directly reaches Wielandstraße?",C,Marzahner Promenade,Giesensdorfer Straße,Kurfürstendamm,Heinrich-Heine-Straße
+703,"In the Berlin area, which road directly reaches Herkulesbrücke?",A,Reichpietschufer,Holteistraße,Sömmeringstraße,Bitterfelder Straße
+704,"In the Berlin area, which road cannot directly reach Kottbusser Tor?",B,Kottbusser Straße,Blaschkoallee,Adalbertstraße,Skalitzer Straße
+705,"In the Berlin area, which road directly reaches Südstern?",A,Baerwaldstraße,Badstraße,Leipziger Straße,Conradstraße
+706,"In the Berlin area, which road directly reaches Otto-Franke-Straße?",A,Adlergestell,Reißeckstraße,Andreasstraße,Kleine Eiswerderstraße
+707,"In the Berlin area, which road directly reaches Schönholzer Weg?",A,Hauptstraße,Nöldnerstraße,Mecklenburgische Straße,Schöneberger Ufer
+708,"In the Berlin area, which road cannot directly reach Edelweißstraße?",D,Hauptstraße,Schönholzer Weg,Straße vor Schönholz,Conradstraße
+709,"In the Berlin area, which road directly reaches Dachdeckerweg?",C,Bergiusstraße,Tino-Schwierzina-Straße,Buckower Damm,Goerzallee
+710,"In the Berlin area, which road directly reaches Alfredstraße?",A,Frankfurter Allee,Kolonnenstraße,Lichtenberger Straße,Schnellerstraße
+711,"In the Berlin area, which road directly reaches Bayreuther Straße?",A,Kurfürstenstraße,Katzbachstraße,Drakestraße,Alt-Tempelhof
+712,"In the Berlin area, which road directly reaches Riemeisterstraße?",B,Holländerstraße,Argentinische Allee,Puschkinallee,Rohrdamm
+713,"In the Berlin area, which road directly reaches Levetzowstraße?",D,Bundesstraße 2,Urbanstraße,Prinzenstraße,Altonaer Straße
+714,"In the Berlin area, which road directly reaches Spreestraße?",D,Dorotheenstraße,Kanalstraße,Daumstraße,Schnellerstraße
+715,"In the Berlin area, which road cannot directly reach Großer Stern?",A,Föhrer Straße,Straße des 17. Juni,Hofjägerallee,Spreeweg
+716,"In the Berlin area, which road cannot directly reach Jakob-Kaiser-Platz?",B,Kurt-Schumacher-Damm,Platanenallee,Siemensdamm,Goerdelerdamm
+717,"In the Berlin area, which road directly reaches Englerallee?",D,Elsa-Brändström-Straße,Koenigsallee,Sonnenallee,Schorlemerallee
+718,"In the Berlin area, which road directly reaches Bayerischer Platz?",B,An der Wuhlheide,Grunewaldstraße,Potsdamer Brücke,Tunnel Alexanderplatz
+719,"In the Berlin area, which road directly reaches Preußenallee?",B,Schönower Straße,Olympische Straße,Bernauer Straße,Sellerstraße
+720,"In the Berlin area, which road directly reaches Am Treptower Park?",B,Mühlenstraße,Elsenstraße,Marchstraße,Kaiser-Friedrich-Straße
+721,"In the Berlin area, which road directly reaches Tunnel Alexanderplatz?",B,Koppenstraße,Grunerstraße,Vulkanstraße,Richard-Wagner-Straße
+722,"In the Berlin area, which road directly reaches Imbuschweg?",B,Heckerdamm,Johannisthaler Chaussee,Silbersteinstraße,Sylter Straße
+723,"In the Berlin area, which road directly reaches Friedrich-Engels-Straße?",B,Sömmeringstraße,Pastor-Niemöller-Platz,Alboinstraße,Rheinbabenallee
+724,"In the Berlin area, which road directly reaches Mehrower Allee?",A,Märkische Allee,Südostallee,Bleicheroder Straße,Anhalter Straße
+725,"In the Berlin area, which road directly reaches Bulgarische Straße?",B,Rüdigerstraße,Alt-Treptow,Ostendstraße,Haßlingerweg
+726,"In the Berlin area, which road directly reaches Lichtenberger Straße?",C,Granitzstraße,Badensche Straße,Strausberger Platz,Tempelhofer Ufer
+727,"In the Berlin area, which road directly reaches Monbijouplatz?",A,Burgstraße,Glienicker Weg,Einsteinufer,Friedrichstraße

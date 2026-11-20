@@ -1,0 +1,332 @@
+id,question,answer,A,B,C,D,E
+0,Which of the following POIs is closest to POI 鉄板鍋づくし located in the Tokyo area?,C,鮨八,カラオケの鉄人,専売ビル,登龍,西原歯科医院
+1,Which of the following POIs is closest to POI Asahi Park 外神田第1駐輪場 located in the Tokyo area?,C,好美味黄燜鶏,銀時計,餃子屋壱番,風林,共立講堂
+2,Which of the following POIs is closest to POI エー・ティー・エックス located in the Tokyo area?,D,タイムズ,日比谷パレス,時任,銀蔵,私立山脇学園高等学校
+3,Which of the following POIs is closest to POI 松原薬局北口店 located in the Tokyo area?,A,小松歯科,笹塚敬老館,ENEOS,永福寺,江崎デンタルクリニック
+4,Which of the following POIs is closest to POI あさひ児童遊園 located in the Tokyo area?,C,ゼネラル,サントリー,タリーズコーヒー,Tony Roma's,楽膳坊
+5,Which of the following POIs is closest to POI 松田医院 located in the Tokyo area?,C,あさひ調剤薬局,ホルモン十条タンセイ,加賀浴場,王子消防,マクドナルド
+6,Which of the following POIs is closest to POI 新宿三丁目駅自転車駐輪場 located in the Tokyo area?,D,西武信用金庫,創価学会,代々木敬老館,Lounge Yoki東京,スギ薬局
+7,Which of the following POIs is closest to POI 六献 located in the Tokyo area?,E,Solasto,素材屋,タイムズ,上島珈琲店,Hop-Scotch Tokyo
+8,Which of the following POIs is closest to POI CASINO QUEST located in the Tokyo area?,C,聚豊楼,かずいち,バグース,躻,Camellia 椿山荘
+9,Which of the following POIs is closest to POI ねぎし located in the Tokyo area?,D,マクドナルド,Otri,渋谷千駄ヶ谷郵便局,ポードベペ,みみ
+10,Which of the following POIs is closest to POI 瑞光寺 located in the Tokyo area?,B,ルネ新宿御苑タワー,沈黙の焼肉,私立学習院女子高等科,みずほ銀行,加賀廣
+11,Which of the following POIs is closest to POI 江戶路 located in the Tokyo area?,C,広島銀行東京支店,麦酒倶楽部 ポパイ,富士㐂（ふじき） 人形町店,内山歯科医院,八房海上稲荷神社
+12,Which of the following POIs is closest to POI そば助 located in the Tokyo area?,C,MITOYA,吉葉,朝日信用金庫,国際こども図書館,プリモプリマ
+13,Which of the following POIs is closest to POI 八丁 located in the Tokyo area?,A,アートプロモーション,ドトールコーヒーショップ,本覚寺,タリーズコーヒー,リアン弥生
+14,Which of the following POIs is closest to POI 渋谷珈琲研究所 located in the Tokyo area?,B,東山保育園,渋谷みどり薬局,あいおいニッセイ同和損保恵比寿ビル,INTERSECT BY LEXUS - TOKYO,NHK Promotion
+15,Which of the following POIs is closest to POI くすのき皮膚科 located in the Tokyo area?,E,徳殿公園,なごみ薬局,セブンイレブン 豊島南長崎5丁目店,串味,etna
+16,Which of the following POIs is closest to POI CAFE HAGI located in the Tokyo area?,C,高田馬場第一保育園,kimitier 87,タイのラーメン,Amazon Hub ロッカー - さんごいろ,Sumicco
+17,Which of the following POIs is closest to POI 元祖寿司 located in the Tokyo area?,D,マクドナルド,国立能楽堂,Otri,Bar Composition,日高屋
+18,Which of the following POIs is closest to POI 東京恩惠敎会 located in the Tokyo area?,B,大星湯,中央図書館,風来居,kimitier 87,茶道会館
+19,Which of the following POIs is closest to POI Nakano Dance School located in the Tokyo area?,D,東京科学大学　附属科学技術高等学校,円居 (まどい),高輪消防署三光出張所,Savoy Pizza,農業・食品産業技術総合研究機構生物系特定産業技術研究支援センター東京事務所
+20,Which of the following POIs is closest to POI あおきクリニック located in the Tokyo area?,E,夢,フードハットプラス,ニチレイフーズ,龍盛,JOY FIT 24
+21,Which of the following POIs is closest to POI 文京学院短期大学 located in the Tokyo area?,C,喜代松,アーバネックス小石川春日,文京学院大学（経営学部）,龍泉寺,スジャ屋
+22,Which of the following POIs is closest to POI 日本大学（理工学部）駿河台校舎 located in the Tokyo area?,E,まーじゃんパーク,麹町警察署乾門警備派出所,Chicken Place,ラクーア自転車駐輪場D,中央大学駿河台記念館
+23,Which of the following POIs is closest to POI 中台幼稚園 located in the Tokyo area?,E,エニタイムフィットネス,常盤台北口公園,セブンイレブン 板橋西台2丁目店,出井川緑道西,延命寺
+24,Which of the following POIs is closest to POI 金沢工業大学大学院　虎ノ門キャンパス located in the Tokyo area?,A,愛宕デンタルオフィス,豆虎,Milieu,丸の内警察署,玄品 以蟹茂
+25,Which of the following POIs is closest to POI ビリーザキッド located in the Tokyo area?,C,ヨギヨ,東福寺,ホワイトハウス,ピュア,東京東信用金庫
+26,Which of the following POIs is closest to POI 若葉在宅介護支援センター located in the Tokyo area?,C,天香回味,タイムズ,若葉湯(廃業),外濠接骨院,ことり食堂
+27,Which of the following POIs is closest to POI 北京亭 located in the Tokyo area?,C,十八番,Beer Bar TOR,珈琲エリカ,大栄パーク,セブン-イレブン 千代田三番町店
+28,Which of the following POIs is closest to POI ビレッジ千駄木 located in the Tokyo area?,D,西日暮里二丁目ひろば館,本駒込二郵便局,駐車場出入口,だもんで,富阪83
+29,Which of the following POIs is closest to POI たら福 located in the Tokyo area?,B,杉並和泉二郵便局,さ加本そば店,世田谷桜上水一郵便局,下高井戸子供園,ワイズマート梅ヶ丘店お客様専用駐輪場
+30,Which of the following POIs is closest to POI サンマルクカフェ located in the Tokyo area?,B,Tokyo Arts and Space,小諸そば,人形町駐車場,丸の内警察署桔梗門警備派出所,帝国湯
+31,Which of the following POIs is closest to POI 都市再生機構東日本支社 located in the Tokyo area?,A,五右衛門,そば処 松乃家,中野中央一郵便局,ファーコス薬局,長生館湯(跡)
+32,Which of the following POIs is closest to POI すし光琳 located in the Tokyo area?,C,ドナ,第三方面本部,MARUTA Udagawacho,Offf botanical table,Pizza Slice
+33,Which of the following POIs is closest to POI 和幸 located in the Tokyo area?,E,文京区区民センター,HOOKAH,湯パーク日暮里(廃業),本駒込保育園,BARクラウン
+34,Which of the following POIs is closest to POI Lemon House Café located in the Tokyo area?,E,四谷警察署南元町警備派出所,PRONTO,美竹の丘・しぶや,スピリタス,Iguaçu
+35,Which of the following POIs is closest to POI ふく竹 located in the Tokyo area?,E,ソウルバード,HIBIYA SAROH,竹井幸彦,金鈴,すしざんまい 新館
+36,Which of the following POIs is closest to POI Yorimichiya Mouuu located in the Tokyo area?,D,目白台運動公園,善仁寺,牛込成城幼稚園,藤本歯科,伊藤園
+37,Which of the following POIs is closest to POI Sasafune Donmaru located in the Tokyo area?,B,三杉稲荷神社,Mixue,豊島千川一郵便局,保育園シラスクニ北池袋,目白荒井歯科
+38,Which of the following POIs is closest to POI 郵便ポスト located in the Tokyo area?,A,線條手打餃子専門店,五色湯,さくらさくみらい 上池袋,ダイマス,板橋幸町郵便局
+39,Which of the following POIs is closest to POI Ayana located in the Tokyo area?,D,Bondi Café,AKIデンタルクリニック,恵比寿プライムスクエアタワー南,Hokkaido Soup Curry Suage SHIBUYA,あおば医院
+40,Which of the following POIs is closest to POI ハロー薬局 located in the Tokyo area?,A,なかい歯科医院,白髭神社,青龍神社,共栄幼稚園,ぽぽろ
+41,Which of the following POIs is closest to POI 麵処 晴 located in the Tokyo area?,C,鶏よし,坂本自動車 明治通り沿い駐車場,Craft Ramen BiT,スタジオパセラ,東京消防庁　音無川寮
+42,Which of the following POIs is closest to POI Salud Familia located in the Tokyo area?,A,Trattoria Mode,愛育幼稚園,Regionale,石花,港区立白金台幼稚園
+43,Which of the following POIs is closest to POI 小菅八幡宮 located in the Tokyo area?,E,みらい,亀有信用金庫,やまぴー,オリジン弁当,葛飾小菅郵便局
+44,Which of the following POIs is closest to POI 大手町タワー located in the Tokyo area?,B,もみ屋,スターバックス,検察官適格審査会,KANEKO DENTAL CLINIC,神田天丼家
+45,Which of the following POIs is closest to POI 西新宿在宅介護支援センター located in the Tokyo area?,D,参宮橋脊椎外科病院,中央3丁目,ラーメン七福屋,すき家 西新宿五丁目駅前店,渋谷区立幡ケ谷授産場
+46,Which of the following POIs is closest to POI 桐野歯科 located in the Tokyo area?,B,小伝馬町郵便局,明神下神田川 本店,しょうりき,上島珈琲店,よしむら歯科
+47,Which of the following POIs is closest to POI くすりの福太郎 located in the Tokyo area?,A,ヨガ教室 Asakusa Yoga 浅草,ダイドードリンコ,セブンイレブン 墨田本所4丁目店,勝運寺,吉野家
+48,Which of the following POIs is closest to POI エニタイムフィットネス located in the Tokyo area?,C,永倉公衆便所,エピナール,ピポット,上総屋,はなび
+49,Which of the following POIs is closest to POI みずほ銀行 located in the Tokyo area?,E,根津幼稚園,SAPIX,久堅児童館,牛しゃぶ　ますだや,大虎
+50,Which of the following POIs is closest to POI Ringer Hut located in the Tokyo area?,A,牛込警察署 矢来町地域安全センター,いわい,小石川郵便局,法政大学（経営学部）,のう天気
+51,Which of the following POIs is closest to POI PRONTO located in the Tokyo area?,B,コインパーク谷中,ほるもん道場ポパイ,セリオ歯科医院,神田明神ホール,入谷2丁目第1 月極駐車場
+52,Which of the following POIs is closest to POI 旬彩 藤 located in the Tokyo area?,A,亀三天神町会会館,江東橋際公衆便所,中川児童館,Cafe883,セブン-イレブン亀戸昭和橋通り店
+53,Which of the following POIs is closest to POI つじ田 located in the Tokyo area?,E,足立堂接骨院,橋場不動院,藍染公園,ことぶき,金龍堂
+54,Which of the following POIs is closest to POI ママれもん錦糸町 located in the Tokyo area?,B,UR賃貸住宅 立花1丁目,麺屋 中川會,大島四丁目団地3,AZEST本所吾妻橋,バインミー
+55,Which of the following POIs is closest to POI マクドナルド located in the Tokyo area?,E,こやま寿司,スタジオマウス,前島歯科医院,Subway,みのや
+56,Which of the following POIs is closest to POI カレーもある located in the Tokyo area?,E,林檎の樹,幡ケ谷保育園,横浜銀行,タパスとタパス,チャイナー飯店
+57,Which of the following POIs is closest to POI 江戸清 located in the Tokyo area?,D,明治記念館,参議院第二別館（永田町駅2番出口）,こしひかり,大高薬局,ル・パン
+58,Which of the following POIs is closest to POI ヴォードール located in the Tokyo area?,D,たばこ食堂,Universal Bakes and Cafe,CBD (coffee),佐伯医院,初音湯(廃業)
+59,Which of the following POIs is closest to POI IL Mercato located in the Tokyo area?,D,一蘭,駒形どぜう 本店,飯塚 新大橋3丁目,アカス,スギ薬局
+60,Which of the following POIs is closest to POI コジマオリエンタルキッチン located in the Tokyo area?,A,地蔵橋東児童遊園,かつや,加藤歯科,すなだ どんどん,東京駅丸の内北口タクシー乗り場
+61,Which of the following POIs is closest to POI 一番 located in the Tokyo area?,B,KAKYO,レンテッツァ,studio moani,セブン-イレブン 港区芝浦ふ頭店,Matsuoka Dental Clinic
+62,Which of the following POIs is closest to POI 専勝寺 located in the Tokyo area?,E,かぶら屋,正法寺,あきやま歯科医院,博ちゃん,つるや
+63,Which of the following POIs is closest to POI ねぎま三ぞう located in the Tokyo area?,E,ゆで太郎,石橋信夫記念ホール,竹寿し,久松歩道橋,インターバンクの外貨両替
+64,Which of the following POIs is closest to POI 早川歯科 located in the Tokyo area?,A,錦戸部屋,三筋湯,東駒形コミュニティ会館,アンナ英語教室,明治座
+65,Which of the following POIs is closest to POI 修禅院 located in the Tokyo area?,B,本授寺,東漸院,関東農政局東京農政事務所東京統計・情報センター,コスモ石油,不動院
+66,Which of the following POIs is closest to POI 渋谷区 スポーツセンター located in the Tokyo area?,D,エネオス,カフェ・ベローチェ,セイジョー,渋谷区総合ケアコミュニティせせらぎ地域型在宅介護支援センター,さくら
+67,Which of the following POIs is closest to POI 松下歯科医院 located in the Tokyo area?,B,願行寺,Cafe de Roche,KDX御茶ノ水ビル,あんばいや,上野郵便局
+68,Which of the following POIs is closest to POI ぽけっとランド located in the Tokyo area?,E,エルアージュ小石川,らーめん金椋,千代田区役所和泉橋出張所,東京文化会館,小谷歯科
+69,Which of the following POIs is closest to POI Mahlzeit located in the Tokyo area?,D,ユニマットパーキング,千年の宴,恒源餃子,ゲーテ・インスティトゥート東京,上島珈琲店
+70,Which of the following POIs is closest to POI 浅草橋ゴルフスクール located in the Tokyo area?,B,Tap Marche,麺やまるとも,ガパオ,一風堂,洋食煉瓦亭
+71,Which of the following POIs is closest to POI 一番 located in the Tokyo area?,D,天米,未来台所,Asahi CALPIS,TOMO,コカ・コーラ
+72,Which of the following POIs is closest to POI 駒場劇場 located in the Tokyo area?,E,ボルテックス,青葉学園 和敬寮,アロハ テーブル,天理教原宿分教団,菱田屋酒場
+73,Which of the following POIs is closest to POI 世田谷若林三郵便局 located in the Tokyo area?,D,江本歯科クリニック,区営住宅弦巻四丁目第二アパート,乗泉寺 世田谷別院,サトウ歯科,ガスト
+74,Which of the following POIs is closest to POI エガワ眼科 located in the Tokyo area?,A,純吟,御園医院,東京労働局(第一庁舎),天王寺歴代墓域,鮨いづ
+75,Which of the following POIs is closest to POI KIZAN located in the Tokyo area?,D,Rojiura Curry SAMURAI.,北方領土問題対策協会,宮内庁内郵便局,優優,焼肉京城
+76,Which of the following POIs is closest to POI 朝日新聞東京本社 located in the Tokyo area?,C,屋上庭園,浜松町クレアタワー,築地市場駅地下駐輪場,日比谷 松本楼,聖カタリナ病院
+77,Which of the following POIs is closest to POI ニュー早苗 located in the Tokyo area?,A,日本外国語専門学校,キッチン早苗,私立学習院女子高等科,Shaero,中央法律専門学校
+78,Which of the following POIs is closest to POI ユニマットパーキング板橋駅前 located in the Tokyo area?,C,豊島区いけよんの郷在宅介護支援センター,割烹 加瀬政,同心房,加賀浴場,太陽の子保育園
+79,Which of the following POIs is closest to POI ドトールコーヒーショップ located in the Tokyo area?,B,浜町緑道内公衆便所,Rehearsal Studio NODE,台東三筋郵便局,タコリッコ大手町ビル店,カロッツェ
+80,Which of the following POIs is closest to POI 青唐爽麺 ハルク located in the Tokyo area?,D,雑司ケ谷幼稚園,Saishoku kenbi,パラッツォ9ルーリヨ,串カツ田中,ドラッグストア スマイル
+81,Which of the following POIs is closest to POI バーミヤン located in the Tokyo area?,A,マクドナルド,Konde Dental Clinic,中華 萬興,区立中部すこやか福祉センター,落合保健センター
+82,Which of the following POIs is closest to POI サンマルクカフェ located in the Tokyo area?,D,日本調剤,久堅児童館,カナルカフェ,チョウタリ,ウエルシア文京根津店
+83,Which of the following POIs is closest to POI Jazz bar 琥珀 located in the Tokyo area?,B,目黒警察署大橋交番,Lad’s Dining,フレッシュネスバーガー,渋谷区ケアコミュニティ原宿の丘在宅介護支援センター,AMGスタジオ
+84,Which of the following POIs is closest to POI 湯島歯科医院 located in the Tokyo area?,B,五島人,ゆしま食堂,なか卯,マ プール,上野七郵便局
+85,Which of the following POIs is closest to POI 神田たまごけん located in the Tokyo area?,E,阿佐ヶ谷北保育園,セブンイレブン 中野野方2丁目店,松浦整形外科,和田北公園,ロッキーカナイ
+86,Which of the following POIs is closest to POI 加藤メディカルクリニック located in the Tokyo area?,D,法泉寺,なりひら歯科医院,ウィラサクレックムエタイスクール,アトム調剤薬局,寿児童館
+87,Which of the following POIs is closest to POI 小菅東保育園 located in the Tokyo area?,D,千草園駐車場,セブンイレブン 足立東和1丁目店,かみの屋,まつだいら歯科医院,第四富士の湯
+88,Which of the following POIs is closest to POI 三好弥 located in the Tokyo area?,B,野方警察署 上高田交番,ケンタッキーフライドチキン,パレ・ド・リーヴ花見橋,野方1丁目,日産レンタカー
+89,Which of the following POIs is closest to POI 三井のリパーク located in the Tokyo area?,E,板橋四郵便局,鳳生寺,王子警察署 王子駅前交番,在宅介護支援センター新田,ようがんや
+90,Which of the following POIs is closest to POI Switch Cofee located in the Tokyo area?,C,フレッシュネスバーガー,日本キリスト教団 豊沢教会,エネオス,ふどう幼稚園,ゆで太郎
+91,Which of the following POIs is closest to POI くらまえ橋郵便局 located in the Tokyo area?,D,そば七,庁舎うるおい広場,みどり在宅介護支援センター,にほんばし蔵前郵便局,Chengdu House
+92,Which of the following POIs is closest to POI 貢茶 located in the Tokyo area?,D,千代,ECCジュニア,勝運寺,ROX DOME,博ちゃん
+93,Which of the following POIs is closest to POI 立川保育園 located in the Tokyo area?,D,江東ＹＭＣＡ幼稚園,Toyota Rental a Car TCAT,墨田区精神障害者地域生活支援センター友の家,前島歯科医院,巣山歯科
+94,Which of the following POIs is closest to POI 華蔵院 located in the Tokyo area?,A,宮前公園(荒川区),北区立上中里つつじ荘在宅介護支援センター,富久萬,足立双葉幼稚園,のとや
+95,Which of the following POIs is closest to POI 林デジタル工務店 located in the Tokyo area?,B,第一幼児教育専門学校 2号館,ツルハドラッグ,要町駅路上自転車駐車場,PEN新宿区高田馬場3丁目第2,目白台運動公園
+96,Which of the following POIs is closest to POI てけてけ located in the Tokyo area?,A,鳥貴族,TOKYO β 西大島,ウエノ整形外科,すこやか本所保育園,ガリシア森下エストゥディオ
+97,Which of the following POIs is closest to POI バーガーキング located in the Tokyo area?,B,国際協力機構広尾センター,マツモトキヨシ,杉本歯科クリニック,青山牛彩,喫煙所
+98,Which of the following POIs is closest to POI コスモ石油 located in the Tokyo area?,D,東京国際フォーラム（メトロD5出口）,飯倉いきいきプラザ,ウォーターズ竹芝前,Mahou,郵便ポスト
+99,Which of the following POIs is closest to POI 養生乃はり located in the Tokyo area?,D,鶴巻幼稚園,自然環境局千鳥ヶ淵戦没者墓苑管理事務所,サントリー,中町ことぶき館,新宿歴史博物館
+100,Which of the following POIs is closest to POI 新潟ラーメン located in the Tokyo area?,E,旧市ヶ谷商業高校,上智大学（総合人間科学部）,伊藤園,金沢浴場,ヤキニクヒロミヤ
+101,Which of the following POIs is closest to POI ファミリーマート 中野弥生町二丁目店 located in the Tokyo area?,B,城西診療所,社会福祉法人ケアネット　特別養護老人ホーム弥生ホーム,マクドナルド,ファミリーマート 中野中央一丁目店,オバケンプレミアム
+102,Which of the following POIs is closest to POI 清隆寺 located in the Tokyo area?,A,Akagi Cafe,park station,文京区小石川福祉作業所,THE CENTER TOKYO,Oto no ha
+103,Which of the following POIs is closest to POI 銀のさら located in the Tokyo area?,A,小島町茶房,百万石,一龍,金華,時忘れじの塔
+104,Which of the following POIs is closest to POI カナ・カジャ located in the Tokyo area?,B,夢矢,Bar StONE'S,入の湯(跡),鮨 みひろ,御茶ノ水呼吸ケアクリニック
+105,Which of the following POIs is closest to POI 岡部歯科医院 located in the Tokyo area?,C,宮坂2-4-10,ENEOS,三昭薬品,永福町西幸モータープール西,笹塚敬老館
+106,Which of the following POIs is closest to POI コーセイ浅草橋薬局 located in the Tokyo area?,C,日本橋ふくしま館 MIDETTE,えしょう,村田皮膚科,焼小籠包ドラゴン,駒形どぜう
+107,Which of the following POIs is closest to POI 人形町保育園 located in the Tokyo area?,E,カミヤスタンド,八丁堀3丁目クリニック,心行寺,両国交番,マツモトキヨシ
+108,Which of the following POIs is closest to POI 北新宿第一ことぶき館 located in the Tokyo area?,A,北新宿第一児童館,ガリシア新宿WEST,Tokori Shinjuku Nowa Yakiniku,昭和保育園,西戸山公園野球場
+109,Which of the following POIs is closest to POI ケバブ＆カレーBOX located in the Tokyo area?,B,笠置そば,ポードベペ,渋谷千駄ヶ谷郵便局,RINGO’S SALOON,みみ
+110,Which of the following POIs is closest to POI Bar M's located in the Tokyo area?,C,東大農学部際,ダイドードリンコ,天ぷら 味の天豊,松翁 (まつおう),都立精神保健福祉センター
+111,Which of the following POIs is closest to POI 小諸そば located in the Tokyo area?,A,中川薬局,Abbey Road,松ヶ丘暫定自転車置場,ヤマタネ芝浦オフィス,富士ソフト汐留ビル
+112,Which of the following POIs is closest to POI Baru & Dining Gohan located in the Tokyo area?,E,区民ひろば西巣鴨第二 (旧・西巣鴨児童館),味の店,金子歯科,音羽幼稚園,Issa Foodiun Bar
+113,Which of the following POIs is closest to POI Miwa located in the Tokyo area?,B,ジェイフィルム,みどり薬局,酒場 ヤスキチ,同福楼,浅草茶房
+114,Which of the following POIs is closest to POI 本所歯科 located in the Tokyo area?,E,東京文具共和会館,リベルテ スカイツリー ウエスト,KINSHICHO SMILE DENTAL CLINIC,阿里山,本所会館長寿室
+115,Which of the following POIs is closest to POI Tsukiji located in the Tokyo area?,C,カフェ・ベローチェ,SYFORME MORISHITAⅡ2,箱崎川第二公園,新とみ,スナックYuki
+116,Which of the following POIs is closest to POI 和風すなっく 山海 located in the Tokyo area?,C,電話ボックス,讃岐うどん直白,北斗,Earth,ポッカサッポロ
+117,Which of the following POIs is closest to POI Sono located in the Tokyo area?,D,久堅保育園,細部医院,東京科学大学（歯学部）,エニタイムフィットネス,黒兵衛 (Kurobe)
+118,Which of the following POIs is closest to POI AZABU GOSPEL CHURCH located in the Tokyo area?,B,日高屋,すし栄,手打ち 蓮,佐渡ヶ島へ渡れ,PARK100
+119,Which of the following POIs is closest to POI ホ夕テん家 located in the Tokyo area?,B,朝日湯(跡),いちご中野ノースビル,ミウラパーキング高円寺南4丁目第1,エムアイセミナーハウス,宮園保育園
+120,Which of the following POIs is closest to POI 瑞泰寺 located in the Tokyo area?,B,四谷大塚 巣鴨校舎,栄松院,IGO音楽教室,リアン弥生,小石川四丁目児童遊園
+121,Which of the following POIs is closest to POI 鮨かね located in the Tokyo area?,B,みずほ銀行,スター薬局,文京グリーンコート郵便局,天徳湯(跡),日暮里駅前郵便局
+122,Which of the following POIs is closest to POI 一宮メンタルクリニック located in the Tokyo area?,E,BISTRO PIN,鉄板焼 Tamaya,岡村屋,いずみ歯科クリニック,スターバックス
+123,Which of the following POIs is closest to POI 読売テレビエンタープライズ located in the Tokyo area?,B,リビオレゾン勝どきNEX,汐留シティセンター郵便局,芝公園,Pri,中華料理　菊凰
+124,Which of the following POIs is closest to POI 日本ウェルネス保育専門学校 located in the Tokyo area?,A,麻雀たぬ,絶滅メディア博物館（楓ビル）,セブン-イレブン 千代田三番町店,COIN PARK,画廊 成田光房
+125,Which of the following POIs is closest to POI MY Shokudo Dining & Sakaba located in the Tokyo area?,B,京橋病院,Bar Espanol YEBRA,東京ミッドタウン日比谷,青二才,千吉
+126,Which of the following POIs is closest to POI 卜口函 located in the Tokyo area?,E,和幸,Gracia,チョルラド,村さ来,屋台料理 盛栄
+127,Which of the following POIs is closest to POI 文京千駄木の郷 located in the Tokyo area?,C,兄弟接骨院,下谷警察署 清水坂 地域安全センター,保健サービスセンター本郷支所,さしがや保育園,西日暮里ひろば館
+128,Which of the following POIs is closest to POI 寿司信 located in the Tokyo area?,B,MATSUI ORTHODONTIC CLINIC,CoCo壱番屋,ドラッグセガミ,女子美術大学短期大学部,野方児童館
+129,Which of the following POIs is closest to POI ととしぐれ located in the Tokyo area?,B,天竺屋台,CoCo壱番屋,南青山保育園,渋谷恵比寿郵便局,NHK西門前
+130,Which of the following POIs is closest to POI Wailele located in the Tokyo area?,E,Japenese Ice Ouca (Only in Jp),表参道GROUND,東山老人いこいの家,富ヶ谷三本杉公園,千両
+131,Which of the following POIs is closest to POI 宮代学園 located in the Tokyo area?,B,志田町保育園,私立広尾学園高等学校 (Hiroo Gakuen Senior High School),Number A,松井歯科,モンスーンカフェ
+132,Which of the following POIs is closest to POI へぎそば宍倉 located in the Tokyo area?,E,グラーティアリゴ,渋谷本町五郵便局,から揚げ専門 から好し,ほりこし幼稚園,孝林
+133,Which of the following POIs is closest to POI 五右衛門 located in the Tokyo area?,D,サブウェイ,保育園 めでぃぶる北上野,蘭氏食苑,西鶴,根津寿会館
+134,Which of the following POIs is closest to POI 日暮里幼稚園 located in the Tokyo area?,C,荒川さつき会館,北区立東田端図書館,赤門会 日本語学校,藍染保育園,サンタケ
+135,Which of the following POIs is closest to POI 大松矯正歯科 located in the Tokyo area?,B,香教寺,カフェ・ベローチェ,池袋警察署 上池袋交番,新宿下落合四郵便局,高松第一保育園
+136,Which of the following POIs is closest to POI 晴海歯科 located in the Tokyo area?,A,杉並区立 和田堀会館,和食つくしん坊,永福北保育園,みやしろ幼稚園,Nek Nek
+137,Which of the following POIs is closest to POI トルナーレ内科外科 located in the Tokyo area?,C,コロラド,ひら井,ハッスルラーメン,和合餃子,社会福祉法人むつみ会　むつみ園
+138,Which of the following POIs is closest to POI 常陽銀行 located in the Tokyo area?,E,三井のリパーク 入谷2丁目第2,カレー大使館,Couzt Cafe,細打うどん竹や,銀だこ大衆酒場
+139,Which of the following POIs is closest to POI 江戸前寿司 桜荘 located in the Tokyo area?,B,みずほ銀行,THIRD PLACE,Ono Grill,石川クリニック,サントリー
+140,Which of the following POIs is closest to POI オリジン弁当 located in the Tokyo area?,D,江東区富岡北地区集会所,川南幼稚園,NTTドコモ墨田ビル,麻雀　シャローム,ママれもん錦糸町
+141,Which of the following POIs is closest to POI Domino's located in the Tokyo area?,A,なかい歯科医院,白髭神社,青龍神社,ぽぽろ,共栄幼稚園
+142,Which of the following POIs is closest to POI 鮨与志 located in the Tokyo area?,E,ポキボウルクラブトウキョウ,Glitch,学内関係者用駐輪場,すき家,バグース
+143,Which of the following POIs is closest to POI エニタイムフィットネス located in the Tokyo area?,A,Tanta Roba,このえ第二本駒込保育園,新大塚駅路上自転車駐車場,礫川公園,タージ マハル
+144,Which of the following POIs is closest to POI 幾寅 located in the Tokyo area?,B,ごはんがススム食堂 Trattoria di WATARI-NO,Sono,庄や (Shoya),播磨坂事業所,Berlitz
+145,Which of the following POIs is closest to POI 養傳寺 located in the Tokyo area?,C,上野七郵便局,かたぎり塾,常在寺,織恩,田端ふれあい館
+146,Which of the following POIs is closest to POI COPAIN located in the Tokyo area?,E,中野区立本町図書館,タイムズ,上高田台公園,野方1丁目,スロットジパング
+147,Which of the following POIs is closest to POI 松屋 located in the Tokyo area?,C,マクドナルド,TOKYO β 西大島,まーじゃん千点棒,法華寺,すみだ中和こころ保育園
+148,Which of the following POIs is closest to POI ラ　ペスケーラ　マリスケリア located in the Tokyo area?,E,うらやま,神田神保町3丁目,法務総合研究所,すき家,スターバックス
+149,Which of the following POIs is closest to POI あぐり located in the Tokyo area?,E,清流寺,タリーズコーヒー,Little Nap Coffee Roasters,文化浴泉,くんなまし
+150,Which of the following POIs is closest to POI 錦糸町ビューティクリニック located in the Tokyo area?,E,普門院,Denny's,ノースウェイブコーヒー,本所警察署 廐橋地域安全センター,まこと寿司
+151,Which of the following POIs is closest to POI 三井住友銀行 located in the Tokyo area?,C,丸の内警察署皇居前警備派出所,Legends,エキスパート倶楽部,タリーズコーヒー,Garb Ventrl
+152,Which of the following POIs is closest to POI soba/udon/noodle located in the Tokyo area?,D,目白台児童館,白百合学園幼稚園,国立東京学芸大学附属竹早中学校,NTTル・パルク矢来町駐車場,chez ACIO
+153,Which of the following POIs is closest to POI COLLABO CAFE HONPO located in the Tokyo area?,C,ボルツ,聚豊楼,AKB48劇場,ドトールコーヒーショップ,家家家
+154,Which of the following POIs is closest to POI 出山寺 located in the Tokyo area?,E,十八番,梅若公園内公衆便所,フレンズ薬局,居酒屋三村房,くすりの福太郎
+155,Which of the following POIs is closest to POI coffee & roaster located in the Tokyo area?,D,レストナック幼稚園,八幡神社,梅丘パークホール,マツモトキヨシ,エス・エス動物病院
+156,Which of the following POIs is closest to POI 牛込警察署八幡前交番 located in the Tokyo area?,B,伊勢路,くすりの福太郎,積徳寺,グロービジョン,半蔵門胃腸クリニック
+157,Which of the following POIs is closest to POI CLUB REDICE located in the Tokyo area?,C,戸山いつきの杜,カプリチョーサ,FOURTY FIVE TOKYO,よろい保育園,内藤町けやき公園
+158,Which of the following POIs is closest to POI ＳＳＳ１５ located in the Tokyo area?,E,Shake tree,小川医院,ガリシア清澄白河,Noodles and dining bar,飯塚 新大橋3丁目
+159,Which of the following POIs is closest to POI インドネシアレストラン CABE (チャベ) located in the Tokyo area?,D,MeGuro,Bitto,ガリシア御殿山,中華麺・飯 太楼,楓の森 メンタルクリニック
+160,Which of the following POIs is closest to POI ひらい歯科医院 located in the Tokyo area?,E,EAT GOOD PLACE,災害時給水ステーション,どらっぐぱぱす 滝野川店,FRESHNESS BURGER,割烹 加瀬政
+161,Which of the following POIs is closest to POI ゆしま食堂 located in the Tokyo area?,E,織恩,キープアンドタッチ,焼きそば専門 みかさ,秋葉原DEM内科クリニック,梅園
+162,Which of the following POIs is closest to POI タパスとタパス located in the Tokyo area?,D,coin park,千原児童遊園地,松見坂公園,渋谷区役所前駐車場 歩行者出入口5,カレーもある
+163,Which of the following POIs is closest to POI 夜宴迷宮 located in the Tokyo area?,E,個太郎塾,Berth Coffee,台東区立老人福祉センター,興和一橋ビル,バグース
+164,Which of the following POIs is closest to POI 中華料理 栄福 located in the Tokyo area?,C,ジュネス(エントランス側),Wings Burger,なんじゃもんじゃ,行成稲荷,墨田区立若宮公園
+165,Which of the following POIs is closest to POI ムギハナ located in the Tokyo area?,D,Cafe Di Espresso,幡ケ谷第三保育園,池ノ上産婦人科,こしんじ,松涛幼稚園
+166,Which of the following POIs is closest to POI Hashiya located in the Tokyo area?,E,Ristorante Hamasaki,440 Broadway Taco,NHK Global Media Service,ディップパレス,スターバックス
+167,Which of the following POIs is closest to POI トウショウドラッグ located in the Tokyo area?,A,明神下神田川 本店,Da Mau,Tahitian Restaurant & Bar Papeete,一番どり,寿司富
+168,Which of the following POIs is closest to POI 三菱UFJ信託銀行 located in the Tokyo area?,A,タパス＆タパス,恵比寿プライムスクエアタワー北,代々木警察署代々木公園交番,マクドナルド,菅刈公園
+169,Which of the following POIs is closest to POI 原子力安全基盤機構解析評価部 located in the Tokyo area?,E,千代田区立日比谷図書文化館,赤坂パークビルヂング,マツモトキヨシ,すし処 宮葉,福祉医療機構
+170,Which of the following POIs is closest to POI RACCOON located in the Tokyo area?,E,彩,榮立院,南麻布保育園,乃木坂駅暫定自転車等置場,貢茶
+171,Which of the following POIs is closest to POI 板橋警察署 茂呂交番 located in the Tokyo area?,C,ときわ浴場(跡),enejet,みんなのリハビリデイサービス,オリジン弁当,氷川台第二保育園
+172,Which of the following POIs is closest to POI 麺屋つる located in the Tokyo area?,C,四つ木保育園,モスバーガー,新元素,プリマベーラ青戸（青戸8丁目）,葛飾堀切八郵便局
+173,Which of the following POIs is closest to POI 焼肉岡本 located in the Tokyo area?,A,あぷろ,入谷老人福祉館,SASAYA CAFE,安昌寺,鬼久保歯科医院
+174,Which of the following POIs is closest to POI 三休 located in the Tokyo area?,A,ゆし松,とめ手羽,東上野乳児保育園,工14号館図書室,天ぷら三定
+175,Which of the following POIs is closest to POI 洋食ヨシカミ located in the Tokyo area?,E,第一勧業信用組合,AZEST本所吾妻橋,フォースター浅草今戸,絆,ヨガ教室 Asakusa Yoga 浅草
+176,Which of the following POIs is closest to POI 中沢歯科医院 located in the Tokyo area?,C,おむらい保育園,コーラルリーフ,錦糸薬局,ちよだ鮨,麺響 万蕾
+177,Which of the following POIs is closest to POI 天祖神社 located in the Tokyo area?,B,私立東京立正中学校,前田歯科医院,ファミリーマート 中野本町五丁目店,愛成学園,なみのゆ
+178,Which of the following POIs is closest to POI 文京向丘郵便局 located in the Tokyo area?,C,第五方面本部,だし職人渾身のだし,文京学院短期大学,千人塚,本駒込西保育園
+179,Which of the following POIs is closest to POI Ciel located in the Tokyo area?,A,大塚警察署 目白台交番,西池袋第一保育園,東京ヘレン・ケラー協会点字出版所,カレーの店,新大塚駅路上自転車駐車場
+180,Which of the following POIs is closest to POI 女川 located in the Tokyo area?,B,千石西児童館,大塚の森 総合診療室,豊島区南池袋在宅介護支援センター,クリエイト,たけだ歯科医院
+181,Which of the following POIs is closest to POI ヘルチェック日本橋 located in the Tokyo area?,C,玉尾稲荷神社,中央新川二郵便局,エクセルシオール カフェ,おふくろ亭,harbs lumine yurakucho
+182,Which of the following POIs is closest to POI 町田商店 located in the Tokyo area?,E,ラファエラ食堂,こうなん保育園,光林禅寺,田町駅西口第2・第3暫定自転車駐車場,ジャマン スパイス ケバブ
+183,Which of the following POIs is closest to POI 中央区立 日本橋小学校温水プール located in the Tokyo area?,E,バンダイナムコスタジオ,CoCo壱番屋,クオリティライフ両国,Bless Coffee,富士㐂（ふじき） 人形町店
+184,Which of the following POIs is closest to POI サイゼリヤ located in the Tokyo area?,D,宮内庁内郵便局,築地永谷コーポラス,善処稲荷大明神,나고야 빈쵸,カフェ・ベローチェ
+185,Which of the following POIs is closest to POI 明宝ビル有料駐車場 located in the Tokyo area?,C,Corcovado,みみ,MIZUHO,マクドナルド,鶴の湯
+186,Which of the following POIs is closest to POI ウエルシア located in the Tokyo area?,B,共生会希望の家,東京東信用金庫 八広支店,トモズ,東漸寺,向島警察署白鬚橋交番
+187,Which of the following POIs is closest to POI まんま located in the Tokyo area?,B,天狗,Mijas Curry House,西戸山公園野球場,早稲田鶴巻町パーキング,たけ家
+188,Which of the following POIs is closest to POI マツモトキヨシ located in the Tokyo area?,A,Hey,HANA,おひげ寿司,国際協力銀行本店,まこつ
+189,Which of the following POIs is closest to POI 海鮮三崎港 located in the Tokyo area?,D,たいさんぼくのトイレ,九州電力 恵比寿荘,EPILOGUE,てんや,みつばち保育園
+190,Which of the following POIs is closest to POI 坪田塾 located in the Tokyo area?,D,ヒューリック九段ビル,新鶯亭,牛角,東京倶楽部,小石川一郵便局
+191,Which of the following POIs is closest to POI 中川屋本店 located in the Tokyo area?,A,北千住郵便局,緑町保育園,千草園駐車場,釜山,明王院
+192,Which of the following POIs is closest to POI ウェル西新宿デンタルクリニック located in the Tokyo area?,B,サブウェイ,Tahitian Noni Cafe,マクドナルド,Café de Marielle,初台保育園
+193,Which of the following POIs is closest to POI 青原寺 located in the Tokyo area?,C,清風園,橋場保育園,東中野3丁目,Comunhão Espírita Cristã Francisco Cândido Xavier,くすのき皮膚科
+194,Which of the following POIs is closest to POI リンガーハット located in the Tokyo area?,C,ひろせ内科外科クリニック,大勝湯,ケンタッキーフライドチキン,7号館,熊野前保育園
+195,Which of the following POIs is closest to POI 興産信用金庫 located in the Tokyo area?,A,ヴォクセル,Fuji Communication,モスバーガー,ねむ猫,丸紅ビル
+196,Which of the following POIs is closest to POI 響 located in the Tokyo area?,E,芝浦幼稚園,品川区立大崎図書館分館,ジョナサン,東品川児童センター,マツモトキヨシ
+197,Which of the following POIs is closest to POI COFFEE 金龍 located in the Tokyo area?,A,スターバックス,妙見山別院,安昌寺,ぱぱす,CC4441
+198,Which of the following POIs is closest to POI 潮江院 located in the Tokyo area?,E,キングケバブ,白鬚公衆便所,金龍源餃子房,香港楼,慶養禅寺
+199,Which of the following POIs is closest to POI カフェ・ド・アラビカ located in the Tokyo area?,E,栄湯(跡),中野1丁目ステーション,方南交番,江戸丸,旭湯(跡)
+200,Which of the following POIs is closest to POI 日本電子専門学校 5号館 located in the Tokyo area?,B,永田小児科,チャリチャリ,nano,ALL SEASONS COFFEE,Jay Ganesha Bar
+201,Which of the following POIs is closest to POI 雅 located in the Tokyo area?,A,セブン銀行,さるやまキッチン,BISRROT,北海道,白山浴場
+202,Which of the following POIs is closest to POI 伝説のすた丼屋 located in the Tokyo area?,E,瀬佐味亭,鶏ジロー,SaunaLab Kanda,さいとう内科・循環器クリニック,バグース
+203,Which of the following POIs is closest to POI 八重洲駐車場 located in the Tokyo area?,D,日本橋消防署人形町出張所,リバーシティ西ブロック,丸の内パークイン,郵便ポスト,東興楼
+204,Which of the following POIs is closest to POI 中小企業金融公庫池袋支店 located in the Tokyo area?,C,JOY FIT 24,雑司が谷児童館,JELLY JELLY CAFE,ドラッグセイムス,池袋警察署 上池袋交番
+205,Which of the following POIs is closest to POI 福昌寺本堂 located in the Tokyo area?,A,Falafel Brothers 恵比寿,目黒信用金庫 本店,嶮暮帰,出光,sede tharros
+206,Which of the following POIs is closest to POI Roar Coffee located in the Tokyo area?,D,つくだ保育園,ラ　ペスケーラ　マリスケリア,Tea ginza,四川食洞,MK Farmers & Grill
+207,Which of the following POIs is closest to POI 東京ヘレン・ケラー協会点字出版所 located in the Tokyo area?,E,新目白通郵便局,日本電子専門学校 3号館,トモズ,Ciel,東京ヘレンケラー協会点字図書館
+208,Which of the following POIs is closest to POI 台湾麺線 located in the Tokyo area?,C,和食＆ワイン　びいどろ亭,竹芝桟橋,新橋四郵便局,日生薬局,はしご
+209,Which of the following POIs is closest to POI このえ駒込小規模保育園 located in the Tokyo area?,A,スギ薬局,城北ひまわり幼稚園,東福寺,東京東信用金庫,ふくの湯
+210,Which of the following POIs is closest to POI Mendokoro Hanada Miso Ramen located in the Tokyo area?,D,区民ひろば西巣鴨第二 (旧・西巣鴨児童館),戸塚警察署下落合三丁目駐在所,音羽幼稚園,茶花,万来軒
+211,Which of the following POIs is closest to POI 豊島区立巣鴨図書館 located in the Tokyo area?,A,天理教 龍芳分教会,マツモトキヨシ,千石保育園,日の出湯(跡),アイリス・ハート
+212,Which of the following POIs is closest to POI 小泉歯科クリニック located in the Tokyo area?,E,養福寺,三菱UFJ銀行,富士らーめん,サルガム,みとや 鶯谷店
+213,Which of the following POIs is closest to POI マチガイネッ サンドウィッチズ located in the Tokyo area?,D,紅楼夢,千吉,PASTA & BAR ATSU,バグース,銀時計
+214,Which of the following POIs is closest to POI メーヤウ located in the Tokyo area?,B,千原児童遊園地,ヒカリ薬局,ゲーテ・インスティトゥート東京,レジディア市ヶ谷,すき家
+215,Which of the following POIs is closest to POI Micky’s Cafe located in the Tokyo area?,D,小石川消防署,東京科学大学（歯学部）,神楽坂飯店,文京区立本郷在宅介護支援センター,パネイラ
+216,Which of the following POIs is closest to POI 近未来餃子H located in the Tokyo area?,D,渋谷保育園,本家かまどや,上目黒氷川神社,RUBIA Tokyo Shibuya Fine-Mexican,代々木八幡駅(2)
+217,Which of the following POIs is closest to POI 鉄板焼 夕煙 located in the Tokyo area?,D,SYFORME MORISHITAⅡ2,ビューカード外貨両替センター,駒形どぜう,コーラスライン,新日本橋駅前郵便局
+218,Which of the following POIs is closest to POI ドトールコーヒーショップ located in the Tokyo area?,D,スタジオ21,華,ビストロ備前,Bar StONE'S,あとらす
+219,Which of the following POIs is closest to POI コーラルリーフ located in the Tokyo area?,C,両国子育てひろば,まーじゃん千点棒,妙縁寺,てらだ歯科クリニック,つくばエクスプレス浅草駅北自転車駐車場
+220,Which of the following POIs is closest to POI 龍岡 located in the Tokyo area?,E,道らく,我家,日本橋観光桟橋,宮内庁内郵便局,米本珈琲
+221,Which of the following POIs is closest to POI 一新亭 located in the Tokyo area?,C,ティールームクローバー,コスモ,すし栄,アラジン,うなぎ 色川
+222,Which of the following POIs is closest to POI 後楽橋横 located in the Tokyo area?,D,おむすび権米衛,菱和パレス九段,東京大学（理学部）,町田商店,こやま
+223,Which of the following POIs is closest to POI 三社神社 located in the Tokyo area?,E,豊島区立中央図書館,さいわい保育園,板橋駅自転車駐車場バイク置場奥,興産信用金庫,池袋第三保育園
+224,Which of the following POIs is closest to POI 日本橋ふくしま館 MIDETTE located in the Tokyo area?,B,白石矯正歯科,スギ薬局,お茶の水矯正歯科,二重橋前駅(メトロ4番出口),箱崎川第二公園
+225,Which of the following POIs is closest to POI ガスト located in the Tokyo area?,B,鉄平,トラストパーク,気象庁;東京管区気象台,こなもんや,新川在宅介護支援センター
+226,Which of the following POIs is closest to POI 天外天 located in the Tokyo area?,C,大久保湯,養老乃瀧,おかちまちバル,愛和ケアサービス,Siam Celadon
+227,Which of the following POIs is closest to POI かっぽうや 鷹 located in the Tokyo area?,B,カフェはなのき,El Shaddai Gallery,早稲田大学西早稲田キャンパス,すみれ幼稚園,トルコアズ
+228,Which of the following POIs is closest to POI 富士そば located in the Tokyo area?,E,コクミン薬局,四谷警察署大京町交番,柏木医科クリニック,三平,Mariage Frères
+229,Which of the following POIs is closest to POI しゃぶしゃぶ和葉 located in the Tokyo area?,C,東京大学（農学部）,みなと亭,カラオケダイニングZIP,Earth,Keel's Bar
+230,Which of the following POIs is closest to POI シルバーファーン東京クリニック located in the Tokyo area?,A,カフェ・ベローチェ,丸の内警察署桔梗門警備派出所,人形町駐車場,LEXE秋葉原EAST,A&A認定ベクターワークスカフェジャパン
+231,Which of the following POIs is closest to POI 牛込たかむら歯科医院 located in the Tokyo area?,C,日高屋 江戸川橋店,genten市ヶ谷店,社会福祉法人恩賜財団東京都同胞援護会　特別養護老人ホーム原町ホーム,はながこい,やすべえ
+232,Which of the following POIs is closest to POI ささき眼科 located in the Tokyo area?,E,麦,サンパレス鶯谷,生駒軒,潮江院,ふぐ　季節料理　松もと
+233,Which of the following POIs is closest to POI Copain located in the Tokyo area?,B,第四方面本部,ちよだ鮨,福寿幼稚園,北海道產,二松学舎大学　九段3号館
+234,Which of the following POIs is closest to POI 向島郵便局 located in the Tokyo area?,D,セブンイレブン 墨田文花店,千住水素ステーション,屋形船山田屋,メイクスデザイン東向島,すみだ厚生会館福祉作業所
+235,Which of the following POIs is closest to POI ヤミヤミカリー located in the Tokyo area?,C,高円寺FLATS,あずさ,フラワー薬局,野方3丁目,光徳院
+236,Which of the following POIs is closest to POI 西浅草郵便局 located in the Tokyo area?,E,らーめん亭 朝日山,内藤動物病院,甲斐,せいしんどう薬局,ちゃま
+237,Which of the following POIs is closest to POI 平和祈念館 located in the Tokyo area?,D,青葉台四丁目街かど公園,ピザハット,旭幼稚園,ガスト,目黒中町郵便局
+238,Which of the following POIs is closest to POI Beer Bar TOR located in the Tokyo area?,A,日本下水道事業団関東・北陸総合事務所,山ぎし 西片店,北京亭,Tokyo Style Noodle,尾花
+239,Which of the following POIs is closest to POI 麺勇軒 located in the Tokyo area?,D,電話ボックス,カレコ,都立精神保健福祉センター,北斗,松翁
+240,Which of the following POIs is closest to POI プレイランド located in the Tokyo area?,D,三祉会平和保育園,気楽,第二富士見湯,ちよだ鮨,マツモトキヨシ
+241,Which of the following POIs is closest to POI 丸子餃子製作所 located in the Tokyo area?,C,金吾寿司,天祖神社,かき小屋,中川歯科,野方学院幼稚園
+242,Which of the following POIs is closest to POI まかない located in the Tokyo area?,C,九段坂病院,大泉寺,神楽坂在寮,航空幕僚監部,マリカ
+243,Which of the following POIs is closest to POI 珈琲専門店 東亜 located in the Tokyo area?,D,ダイドードリンコ,経堂駐車場,笹塚敬老館,Anytime Fitness,永福寺
+244,Which of the following POIs is closest to POI 花びし located in the Tokyo area?,B,NTTデータ駒場研修センター,さくら,FIL# -gyoza and coffee-,代田八幡神社鳥居,杉並区立あすなろ作業所
+245,Which of the following POIs is closest to POI プドーステーション located in the Tokyo area?,B,鶴の湯(廃業),LUUP,Verde Regalo,コート・ダジュール,北海道の米と汁
+246,Which of the following POIs is closest to POI 自販機 located in the Tokyo area?,C,三宿薬局,山崎湯,さくらパーキング代沢1,フォンテーヌ・アイ,越川医院
+247,Which of the following POIs is closest to POI Metropolitan Grill located in the Tokyo area?,E,ジョンノホットク（新大久保店）,東京スクールオブビジネス,代々木警察署不動前交番,中野消防署宮園出張所,Junisoh
+248,Which of the following POIs is closest to POI のんべい横丁 located in the Tokyo area?,E,渋谷富ヶ谷一郵便局,恵比寿プライムスクエアタワー北,青山スタジオ,スタジオ池尻,nikuyano daidokoro
+249,Which of the following POIs is closest to POI 新橋保育園 located in the Tokyo area?,E,港白金台郵便局,正光院,渋谷南東急ビル,目黒警察署,440 Broadway Taco
+250,Which of the following POIs is closest to POI Cafe Chales located in the Tokyo area?,D,金福源,海鮮どんぶり 銀はち,カフェ 摩天楼珈琲 シェアリングコーヒーショップ 日本橋,バグース,カフェ・ベローチェ
+251,Which of the following POIs is closest to POI なんてん located in the Tokyo area?,E,タイムズ,Restaurant TSUMURA,Gaia Bitcoin ATM,ウェンディーズ,ロジェ
+252,Which of the following POIs is closest to POI Golf Perfomance located in the Tokyo area?,A,高記,日生薬局,Vietnam Alice,COCOROTUS FOODTRUCK【慶應義塾大学病院店】※一般不可,SITA
+253,Which of the following POIs is closest to POI 金瓶梅 located in the Tokyo area?,B,UR賃貸住宅 リバーハープコート南千住(1),吉原USAGI バニーラバー,仁家,あらかわエコセンター(2),長泉寺
+254,Which of the following POIs is closest to POI 新月 located in the Tokyo area?,D,エネオス,ホウエイコート秋葉原,GENKI,来應寺,すみれ
+255,Which of the following POIs is closest to POI 家庭料理のお店 わいわい located in the Tokyo area?,D,ココカラファイン,まんてん,二葉南元保育園,御嶽神社;伏見稲荷神社,海鮮名菜 香宮
+256,Which of the following POIs is closest to POI あさくさ薬局 located in the Tokyo area?,E,Cafe Laurier,幸楽湯,台東リバーサイド スポーツセンター,なかや,浅草 熟成味噌らーめん のりあき 美々
+257,Which of the following POIs is closest to POI よしはら皮膚科クリニック located in the Tokyo area?,A,リラクゼーション健康,セブンイレブン 墨田業平1丁目店,アンナ音楽教室,三筋老人福祉館,ジョナサン
+258,Which of the following POIs is closest to POI パチンコグランパ大久保 located in the Tokyo area?,A,山内農場,五右衛門,らぁ麺やまぐち,ベイブリッジ・スタジオ,マリーペットクリニック
+259,Which of the following POIs is closest to POI そば起琉 located in the Tokyo area?,E,戸山いつきの杜,よろい保育園,かおり内科クリニック,内藤町けやき公園,FOURTY FIVE TOKYO
+260,Which of the following POIs is closest to POI マロニエ located in the Tokyo area?,C,東大浅野,ワダ歯科,駒込警察署 浅嘉交番,四谷大塚 巣鴨校舎,向陵稲荷神社
+261,Which of the following POIs is closest to POI 向島四郵便局 located in the Tokyo area?,D,東京都墨田区本所2丁目17-4,おんだ,セレスト訪問看護ステーション,ほたる,ベイ薬局
+262,Which of the following POIs is closest to POI よしひら歯科クリニック located in the Tokyo area?,E,神経科土田病院,みどり,酒彩 香の里,外手湯(跡),一番太鼓
+263,Which of the following POIs is closest to POI veloce cV located in the Tokyo area?,C,正八幡神社,フォレスト北の丸,寺内公園,かすが野,技術研究本部
+264,Which of the following POIs is closest to POI 本所1-6-5 located in the Tokyo area?,D,三井のリパーク,本所消防署緑出張所,もつ焼 角吉,吉葉,真照寺
+265,Which of the following POIs is closest to POI カフェ・ド・クリエ located in the Tokyo area?,E,本郷五郵便局,国家公務員共済組合連合会,妙足院,ニッポンレンタカー,中国ラーメン長洲商人
+266,Which of the following POIs is closest to POI てんや located in the Tokyo area?,B,東京湾マリーナ,ドレミファクラブ,塩崎保育園,Landry and Cafe,砂町保育園
+267,Which of the following POIs is closest to POI マツモトキヨシ located in the Tokyo area?,C,新宿三つの木保育園,新宿戸山郵便局,素多亜,Comunhão Espírita Cristã Francisco Cândido Xavier,社会福祉法人渋谷区社会福祉事業団渋谷区あやめの苑・代々木
+268,Which of the following POIs is closest to POI すし酒場 きんのだし located in the Tokyo area?,A,Hey,国際協力銀行本店,またの歯科診療室,FUTURE 児童園 日本橋,すき家
+269,Which of the following POIs is closest to POI Rehearsal Studio NODE located in the Tokyo area?,A,千代田せいが保育園,スターバックス,珈琲亭羅巣,笠間稲荷神社,台東三筋郵便局
+270,Which of the following POIs is closest to POI 双葉幼稚園 located in the Tokyo area?,C,炭火焼鳥 とりもと,江東区深川老人福祉センター森下分館,法乗院 深川 ゑんま堂,あすなろ,ファミリーマート木場六丁目店
+271,Which of the following POIs is closest to POI Pasta Blue Berry located in the Tokyo area?,B,dining stand SEMPRE,あきは,一橋大学千代田キャンパス,法真寺,アイン薬局
+272,Which of the following POIs is closest to POI 鉄板王国 located in the Tokyo area?,A,Bar Composition,やきとり鳥八,RINGO’S SALOON,LAITIER,CoCo壱番屋
+273,Which of the following POIs is closest to POI 西安麺荘秦唐記 located in the Tokyo area?,A,たいよう軒,装道礼法きもの学院,May peace prevail on Earth,スターバックス,麹町保育園
+274,Which of the following POIs is closest to POI 宇田川レンタルスタジオ located in the Tokyo area?,C,whyte,双葉の園保育園,博多水炊き,改良湯,椿森神社
+275,Which of the following POIs is closest to POI 小山歯科 located in the Tokyo area?,C,Nikken Athlete Studio,すみれ 季節料理,かまどか,Satsuki,生協食堂
+276,Which of the following POIs is closest to POI クスリの龍生堂 北新宿店 located in the Tokyo area?,B,西新宿保育園,かっぽうや 鷹,ワインとフランス料理 リエーブル,早稲田大学西早稲田キャンパス,新宿御苑新宿門【西側】
+277,Which of the following POIs is closest to POI かたつもりKUCHE located in the Tokyo area?,A,馬橋保育園,COCONI IRU,銀のさら,和田図書サービスコーナー,後藤歯科クリニック
+278,Which of the following POIs is closest to POI ナムコ located in the Tokyo area?,B,杉並区 高円寺体育館,いきなり！ステーキ,東光寺,常昌院,中野区立野方図書館
+279,Which of the following POIs is closest to POI かつ屋 located in the Tokyo area?,D,熊ぼっこ,おひげ寿司,国際協力銀行本店,Hey,和田珈琲店
+280,Which of the following POIs is closest to POI 両国BEAR located in the Tokyo area?,C,業平一丁目町会会館,個太郎塾,北斎お休み処,ダイドードリンコ,小諸そば
+281,Which of the following POIs is closest to POI Katsuya Shibuya located in the Tokyo area?,B,平禄寿司,MARUHACHI,文化浴泉,渋谷区立富ケ谷図書館,清流寺
+282,Which of the following POIs is closest to POI トイレ located in the Tokyo area?,E,高砂湯,アサヒ飲料,トヨタモビリティ東京 池袋店,小石川消防署,Nakiryu
+283,Which of the following POIs is closest to POI Barquinho located in the Tokyo area?,D,渋谷東二郵便局,双葉の園保育園,元代々木郵便局,Bistro Rojura,さくら亭
+284,Which of the following POIs is closest to POI Perk Shop located in the Tokyo area?,E,Spice cafe,ハヤシヤ,あみ清乗船場,ダイドードリンコ,エネオス
+285,Which of the following POIs is closest to POI 蔵前薬局 located in the Tokyo area?,C,庁舎うるおい広場,緑幼稚園,Square Cafe,はしや,高橋歯科
+286,Which of the following POIs is closest to POI エコロパーク後楽園 located in the Tokyo area?,B,久堅児童館,大虎,恵さき,根津児童館,日本調剤
+287,Which of the following POIs is closest to POI 重見歯科 located in the Tokyo area?,E,東京大学弥生講堂アネックス,北山咖啡,PATATI-PATATA,ばんび,どりーむ
+288,Which of the following POIs is closest to POI 南長崎第二保育園 located in the Tokyo area?,D,練馬総合病院医療の質向上研究所,東京富士大学 短期大学部,桜ケ池不動尊,リ ジェネレーションジム,タイムズカーシェア
+289,Which of the following POIs is closest to POI 南インド料理 ムット located in the Tokyo area?,C,カフェはなのき,新楽園,かっぽうや 鷹,新宿コズミックセンター,すみれ幼稚園
+290,Which of the following POIs is closest to POI 素多亜 located in the Tokyo area?,E,牛込警察署戸山町交番,渋谷区あやめの苑・代々木在宅介護支援センター,Comunhão Espírita Cristã Francisco Cândido Xavier,四谷警察署大京町交番,マツモトキヨシ
+291,Which of the following POIs is closest to POI 赤堤幼稚園 located in the Tokyo area?,E,フォンテーヌ・アイ,山崎湯,重役室,Rico de Kitchen,六所神社
+292,Which of the following POIs is closest to POI 教員研修センター(東京事務所) located in the Tokyo area?,D,三井のリパーク,Cossott’e SP,望,241 TORANOMON,自然環境局皇居外苑管理事務所
+293,Which of the following POIs is closest to POI Shake Shack located in the Tokyo area?,E,KITSUNE,大橋老人いこいの家,代々木八幡敬老館,Carapa,クレープ
+294,Which of the following POIs is closest to POI 文京福祉センター江戸川橋 located in the Tokyo area?,A,新雅,常立寺,グッドフレンズベンチ,MACHON,サイゼリヤ
+295,Which of the following POIs is closest to POI 東京餃子櫻 located in the Tokyo area?,C,コンシェリア駒沢THE RESIDENCE,藤井内科医院,およべ,石原胃腸科肛門科クリニック,のぞみ保育園
+296,Which of the following POIs is closest to POI 麺屋鈴春 located in the Tokyo area?,C,駐車場出入口,ロイヤルホスト,有料自習室CUBE,はなまるうどん,くみ薬局
+297,Which of the following POIs is closest to POI そば処松月庵 located in the Tokyo area?,A,バグース,わさび,デニーズ,本郷郵便局,ゆうレディースクリニック
+298,Which of the following POIs is closest to POI フジ国際語学院 located in the Tokyo area?,B,しん城,ほっともっと,東光院,ビストロリアン,みのり屋米店
+299,Which of the following POIs is closest to POI ビストロリアン located in the Tokyo area?,A,NC,Domani iL resto,フジ国際語学院,せいしんどう薬局,光源寺
+300,Which of the following POIs is closest to POI ゲバゲバゲバーン located in the Tokyo area?,C,西教寺,祭,季節料理 よし,キッチンレタス,向津歯科医院
+301,Which of the following POIs is closest to POI なかや寿司 located in the Tokyo area?,D,外濠接骨院,本郷児童館,総合研究大学院大学,カラオケコートダジュール,福勝寺
+302,Which of the following POIs is closest to POI 長谷川中野サービスステーション located in the Tokyo area?,C,みゆき歯科クリニック,平和苑 燒肉,熊埜御堂耳鼻咽喉科,新宿こだま保育園,中野消防署 宮園出張所
+303,Which of the following POIs is closest to POI Shiro located in the Tokyo area?,A,ディアーナ,三峯神社,猿楽町SSビル東,電話ボックス,日本亭
+304,Which of the following POIs is closest to POI 純福音めぐみ教会 located in the Tokyo area?,A,満月,台東松が谷郵便局,東京大学医学部附属病院,神田キリスト教診療所,産業会館
+305,Which of the following POIs is closest to POI Knuttel House located in the Tokyo area?,A,ウィズブック保育園,山ざき,稲富歯科,BON東京浅草,バッハ
+306,Which of the following POIs is closest to POI 妻戀神社 located in the Tokyo area?,E,高砂湯,BeGood野方,ごはん&カフェ きみと,etna,田辺薬局
+307,Which of the following POIs is closest to POI タイムズ located in the Tokyo area?,A,手打ちうどん家康浅草店,廣樂寺,川勇,FASTGYM,佳山明生健康カラオケクリニック
+308,Which of the following POIs is closest to POI スナック ハンター located in the Tokyo area?,A,北斗,猿楽町SSビル東,蔵前警察署浅草橋五丁目交番,スナック琴音,東京大学（農学部）
+309,Which of the following POIs is closest to POI のんき located in the Tokyo area?,C,牛込神楽坂デンタルオフィス,ホテルニューオータニ内郵便局,灯花,エクセルシオール,金沢浴場
+310,Which of the following POIs is closest to POI たん清 located in the Tokyo area?,E,老知ファン,好仁会薬局,四丁目クリニック,ドトールコーヒーショップ,Burness Style
+311,Which of the following POIs is closest to POI 城山ふれあいの家 located in the Tokyo area?,D,旭湯(跡),Chambre La Neige,らーめん大,中野1丁目ステーション,もうやんカレー
+312,Which of the following POIs is closest to POI うたごえ喫茶 ボイス located in the Tokyo area?,E,駒込富士神社,時忘れじの塔,ひぐらしガーデン,小石川鮨亭,千駄木整形外科
+313,Which of the following POIs is closest to POI Asakusa Sky Stay located in the Tokyo area?,C,てらだ歯科クリニック,おふくろ亭,コーラルリーフ,房,タイムズ
+314,Which of the following POIs is closest to POI ベール located in the Tokyo area?,D,おおくぼ歯科医院,ピアノフォルテ,農学生命科学図書館,PUB来夢,浅草橋デンタルクリニック
+315,Which of the following POIs is closest to POI めいどりーみん located in the Tokyo area?,D,カフェ メイプル,ポキボウルクラブトウキョウ,レッドゲートリーディングアカデミー,バグース,金福源
+316,Which of the following POIs is closest to POI りそな銀行 located in the Tokyo area?,D,スターバックス,泰寿院,ゆいの森あらかわ,六文そば 日暮里第1号店,本郷消防署根津出張所
+317,Which of the following POIs is closest to POI 三好弥 located in the Tokyo area?,D,久木留医院,東京国税局荒川税務署,キャッスル食堂,亀,曙湯
+318,Which of the following POIs is closest to POI Eau de Vie located in the Tokyo area?,A,新宿第一生命ビル内郵便局,宝仙学園幼稚園,Guys Soul Yoyogi Yakiniku,ハンス,本町敬老館
+319,Which of the following POIs is closest to POI 商工組合中央金庫押上支店 located in the Tokyo area?,E,Kirin,浅草リトルシアタ,ファミリーマート 墨田亀沢二丁目店,加藤メディカルクリニック,なりひら歯科医院
+320,Which of the following POIs is closest to POI ユニスマイル薬局 located in the Tokyo area?,E,竹寿し,カフェ・ベローチェ,NTT,廚菓子くろぎ,インターバンクの外貨両替
+321,Which of the following POIs is closest to POI タイムズ located in the Tokyo area?,B,天ぷらみや川,俺流塩らーめん,枝光学園幼稚園,Trattoria Mode,COCOROTUS FOODTRUCK【アベマタワーよこ店】
+322,Which of the following POIs is closest to POI 飛騰 located in the Tokyo area?,D,清風園,Comunhão Espírita Cristã Francisco Cândido Xavier,橋場保育園,東灯,etna
+323,Which of the following POIs is closest to POI 西巣鴨第二保育園 located in the Tokyo area?,C,大勝軒,飛鳥すみれ幼稚園,東京電力パワーグリッド 大塚事務所,かごの屋,板橋駅自転車駐車場
+324,Which of the following POIs is closest to POI デイサービスピーナッツ located in the Tokyo area?,C,ル・パルク,救世軍婦人寮,サンシャワー,落合中野眼科,酒と小料理 胡坐
+325,Which of the following POIs is closest to POI 笑笑 located in the Tokyo area?,D,Meme meal,ぱぱす薬局,グランフォース上野入谷,ちばチャン,スターバックス
+326,Which of the following POIs is closest to POI poulet frit located in the Tokyo area?,E,絆麺,神田橋公園,法泉寺,BIZcomfort,Travelex
+327,Which of the following POIs is closest to POI 外手児童館 located in the Tokyo area?,D,両国橋際公衆便所,芳賀クリニック,リーチ麻雀 あざみ,本所警察署 廐橋地域安全センター,EXE Girl's Bar
+328,Which of the following POIs is closest to POI タブチ located in the Tokyo area?,D,ＳＳＳ３７,東京国税局杉並税務署,和田北公園,祭り太鼓,ハローストレージ杉並阿佐ヶ谷
+329,Which of the following POIs is closest to POI 小竹眼科 located in the Tokyo area?,B,Laguna Dental Clinic,杉目庵,高三学童クラブ,金子歯科,和泉町幼稚園
+330,Which of the following POIs is closest to POI 日本赤十字医療センター located in the Tokyo area?,E,港白金三郵便局,郵便ポスト,松栄 恵比寿,Tokyo Salon,タリーズコーヒー

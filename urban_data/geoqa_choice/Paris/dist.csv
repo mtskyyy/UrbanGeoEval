@@ -1,0 +1,485 @@
+id,question,answer,A,B,C,D
+0,"What is the distance between ""Atelier 103"" and ""Il Wine Bar"" in the Paris area?",C,10.92,12.33,6.85,3.33
+1,"What is the distance between ""Pret A Manger"" and ""L’Art Maniac"" in the Paris area?",D,9.29,1.14,9.2,4.66
+2,"What is the distance between ""La Manifattura"" and ""La Scala"" in the Paris area?",C,5.53,7.8,3.67,10.29
+3,"What is the distance between ""Pharmacie Monte-Cristo"" and ""Théâtre de la Gaîté-Montparnasse"" in the Paris area?",D,6.7,3.88,7.09,5.78
+4,"What is the distance between ""Groupe scolaire Saint-Jean-Gabriel"" and ""Logements Les Fêtes"" in the Paris area?",D,10.4,2.02,0.72,3.53
+5,"What is the distance between ""Hôtel de Châtillon"" and ""École élémentaire Parmentier R"" in the Paris area?",C,8.97,7.5,1.84,8.95
+6,"What is the distance between ""Maison de la Justice et du Droit"" and ""Skate Park - La Dalle"" in the Paris area?",D,4.72,8.05,3.99,2.81
+7,"What is the distance between ""Centre sportif des Lilas"" and ""Jardin de l'Hospice Debrousse"" in the Paris area?",D,3.37,7.87,8.52,2.01
+8,"What is the distance between ""La Focacceria"" and ""La cuisine par Giovanni Passerini"" in the Paris area?",D,4.26,5.82,1.63,2.95
+9,"What is the distance between ""L'Émir"" and ""Bistrot 65"" in the Paris area?",C,9.69,6.67,3.22,8.4
+10,"What is the distance between ""Jardins de l'Avenue Foch"" and ""Crèche"" in the Paris area?",B,1.95,7.61,5.43,10.98
+11,"What is the distance between ""Institut Libre d'Etude des Relations Internationales"" and ""Brasserie Bar La Fac"" in the Paris area?",D,8.58,9.02,4.37,5.58
+12,"What is the distance between ""Al Assil"" and ""Dr Albo"" in the Paris area?",D,9.7,12.91,12.51,4.94
+13,"What is the distance between ""Il Wine Bar"" and ""Food Store"" in the Paris area?",D,3.45,6.16,4.56,1.71
+14,"What is the distance between ""Le Panier des Batignolles"" and ""Cosi"" in the Paris area?",A,4.48,7.72,8.72,7.15
+15,"What is the distance between ""Délit."" and ""Un Gavroche en Vadrouille"" in the Paris area?",D,10.15,1.46,9.07,5.59
+16,"What is the distance between ""Le Tempo"" and ""Ambassade d'Espagne"" in the Paris area?",D,4.23,10.81,4.74,6.36
+17,"What is the distance between ""La Poste"" and ""Tabac du Temple"" in the Paris area?",C,5.38,2.26,1.05,5.09
+18,"What is the distance between ""Yersin"" and ""Hôtel Paris-Nord"" in the Paris area?",C,9.35,8.91,5.61,12.51
+19,"What is the distance between ""Square Miss.Tic"" and ""Lumière"" in the Paris area?",A,2.95,8.8,8.34,5.59
+20,"What is the distance between ""Cimetière de Picpus"" and ""Tour Sapporo"" in the Paris area?",B,10.77,3.28,9.26,4.98
+21,"What is the distance between ""Le Chalet Savoyard"" and ""Libre & Bon"" in the Paris area?",C,9.24,13.85,6.26,14.0
+22,"What is the distance between ""Michi Ramen"" and ""Kozy Bosquet"" in the Paris area?",B,6.3,3.24,6.39,7.66
+23,"What is the distance between ""Le Centenaire"" and ""Dame Nation"" in the Paris area?",B,6.71,2.26,4.7,1.31
+24,"What is the distance between ""Star Food"" and ""Fondue Dragon"" in the Paris area?",D,8.69,6.71,5.01,1.85
+25,"What is the distance between ""Le Président"" and ""FM Logistic"" in the Paris area?",D,10.09,4.92,4.48,6.46
+26,"What is the distance between ""Les Terrasses Philidor"" and ""Fondation Charles de Gaulle"" in the Paris area?",B,3.13,6.28,3.84,13.09
+27,"What is the distance between ""Sushi Q"" and ""Le Panier des Batignolles"" in the Paris area?",B,1.97,4.88,10.26,6.48
+28,"What is the distance between ""Le Cinquante-Huit"" and ""Da May Fa"" in the Paris area?",A,2.38,9.22,8.88,5.08
+29,"What is the distance between ""Yuxiangting"" and ""Le Brazza"" in the Paris area?",B,8.67,3.68,8.86,6.69
+30,"What is the distance between ""La Cantine des Pyrénées"" and ""Cafe Boca"" in the Paris area?",A,3.22,4.3,2.15,6.71
+31,"What is the distance between ""Tennis Reims - Asnières"" and ""Poste électrique de Coriolis"" in the Paris area?",D,15.16,12.32,13.52,9.19
+32,"What is the distance between ""La Cantine De Sam"" and ""Star Food"" in the Paris area?",B,5.64,3.19,7.55,8.47
+33,"What is the distance between ""Réaumur - Sentier"" and ""Sushi House"" in the Paris area?",A,0.85,6.78,4.01,4.66
+34,"What is the distance between ""Haies - Réunion"" and ""École Maternelle des Renaudes"" in the Paris area?",D,14.06,1.45,15.13,8.25
+35,"What is the distance between ""Dr Albo"" and ""Le Bar à sushi Izumi"" in the Paris area?",B,4.51,6.95,9.84,10.51
+36,"What is the distance between ""Jardin Jean-Michel Rosenfeld"" and ""Hôtel Métropolitain"" in the Paris area?",D,8.58,7.77,1.96,0.9
+37,"What is the distance between ""Biscuit"" and ""La pince à cornichons"" in the Paris area?",B,11.59,3.85,6.01,9.0
+38,"What is the distance between ""Crèche collective"" and ""Groupe scolaire Saint-Jean-Gabriel"" in the Paris area?",D,6.39,10.63,1.07,3.98
+39,"What is the distance between ""Lycée général Claude Monet"" and ""Douces Maternelles"" in the Paris area?",D,8.7,3.33,8.85,1.5
+40,"What is the distance between ""Splendid Hôtel"" and ""Résidence sociale Convention"" in the Paris area?",A,1.26,5.78,7.94,5.29
+41,"What is the distance between ""Chez Ly"" and ""La Cime"" in the Paris area?",D,2.19,5.03,7.42,3.17
+42,"What is the distance between ""Regard du Chaudron"" and ""Cimetière de Picpus"" in the Paris area?",A,3.65,1.59,1.79,5.16
+43,"What is the distance between ""Mi Tierra"" and ""Institut Libre d'Etude des Relations Internationales"" in the Paris area?",B,3.14,1.65,5.45,4.92
+44,"What is the distance between ""Pharmacie Goncourt"" and ""Babel Dwichs"" in the Paris area?",D,5.36,3.98,7.85,2.3
+45,"What is the distance between ""Oxymore"" and ""Le Rallye Étoile"" in the Paris area?",A,4.39,0.5,8.65,0.92
+46,"What is the distance between ""À Mon Café"" and ""Hôtel du comte Walewski"" in the Paris area?",C,11.42,9.5,6.12,11.51
+47,"What is the distance between ""Au Vieux Colombier"" and ""Mi.k.do Bar"" in the Paris area?",B,9.09,4.17,5.17,2.96
+48,"What is the distance between ""La maison kangourou - Temple"" and ""Traiteur Chen Wang"" in the Paris area?",C,1.68,10.96,5.68,13.05
+49,"What is the distance between ""Résidence Simon Bolivar"" and ""À Mon Café"" in the Paris area?",D,7.4,4.03,5.51,3.06
+50,"What is the distance between ""École élémentaire Parmentier R"" and ""Résidence du Pont-aux-Biches"" in the Paris area?",A,0.94,5.85,4.48,8.67
+51,"What is the distance between ""Hôpital Rothschild"" and ""Maison de l'esport"" in the Paris area?",C,0.58,9.8,2.52,3.6
+52,"What is the distance between ""Black and White"" and ""Café Nata"" in the Paris area?",B,2.9,1.04,8.01,3.19
+53,"What is the distance between ""Le Carrousel de la Tour Eiffel"" and ""Square Marcel Rajman"" in the Paris area?",B,13.46,6.8,9.02,5.17
+54,"What is the distance between ""Memo"" and ""Élysées Ponthieu"" in the Paris area?",A,5.47,8.38,1.03,10.37
+55,"What is the distance between ""L'Atelier Saisonnier"" and ""Ovanac"" in the Paris area?",D,8.12,11.84,10.01,4.27
+56,"What is the distance between ""Bistro les Quatre Saisons"" and ""Mi Tierra"" in the Paris area?",D,5.55,4.47,7.68,2.07
+57,"What is the distance between ""L'Éléphant du Nil"" and ""Bistrot Augustin"" in the Paris area?",A,3.38,4.53,4.86,1.07
+58,"What is the distance between ""Mercure - Paris Bastille"" and ""Maison du Sept"" in the Paris area?",A,1.5,7.77,5.0,5.66
+59,"What is the distance between ""Résidence Santé Oasis"" and ""Le Royal Cambronne"" in the Paris area?",C,11.21,4.71,5.97,13.28
+60,"What is the distance between ""Hôtel Amelot de Bisseuil"" and ""Institut de l'Assomption"" in the Paris area?",A,4.78,9.32,8.21,7.32
+61,"What is the distance between ""Pharmacie de Tocqueville"" and ""Haies - Réunion"" in the Paris area?",C,13.52,0.66,7.56,10.77
+62,"What is the distance between ""404"" and ""L'Interlude"" in the Paris area?",A,2.82,1.65,9.76,9.76
+63,"What is the distance between ""Hôtel de Beauharnais"" and ""Jardins de l'Avenue Foch"" in the Paris area?",A,3.26,8.0,0.98,6.62
+64,"What is the distance between ""École élémentaire Jean-François Lépine"" and ""Sorbonne Université"" in the Paris area?",C,1.35,6.12,4.49,9.11
+65,"What is the distance between ""Élysées Ponthieu"" and ""Al Bayader"" in the Paris area?",A,2.87,5.6,10.24,7.75
+66,"What is the distance between ""Castor Club"" and ""Comptoir Change Opera"" in the Paris area?",B,5.27,2.24,6.4,8.34
+67,"What is the distance between ""Caserne des Tourelles"" and ""Le Tempo"" in the Paris area?",A,2.2,9.42,5.85,7.65
+68,"What is the distance between ""Petit - Manin"" and ""Biglove - Big Mamma"" in the Paris area?",B,6.09,3.5,2.45,10.18
+69,"What is the distance between ""Le Nazir"" and ""El Menzel"" in the Paris area?",D,11.23,5.64,5.25,3.29
+70,"What is the distance between ""Ambassade de Singapour"" and ""Ambassade de Chypre"" in the Paris area?",A,1.41,3.18,7.84,6.66
+71,"What is the distance between ""Climbing District Bastille"" and ""Pizza Hut"" in the Paris area?",D,6.86,7.35,0.57,2.18
+72,"What is the distance between ""Gemini Family"" and ""Cafeteria"" in the Paris area?",C,8.49,11.08,4.94,0.92
+73,"What is the distance between ""Café Vigouroux"" and ""Deux Point Zéro"" in the Paris area?",B,5.24,1.12,2.04,4.07
+74,"What is the distance between ""Centre d'imagerie médicale Nollet"" and ""Hokkaido"" in the Paris area?",B,12.59,6.32,7.8,10.83
+75,"What is the distance between ""Square Marcel Rajman"" and ""Lycée général Claude Monet"" in the Paris area?",C,8.68,8.66,4.09,9.18
+76,"What is the distance between ""Logements Charles Delescluze"" and ""Conservatoire du 15e Frédéric Chopin"" in the Paris area?",D,5.21,10.3,10.17,6.7
+77,"What is the distance between ""Poulet champion"" and ""La Cantine De Sam"" in the Paris area?",A,2.85,7.07,4.39,8.93
+78,"What is the distance between ""Au salon de danse"" and ""La Bonne Composition"" in the Paris area?",C,11.02,1.87,4.65,9.97
+79,"What is the distance between ""Cleanik' Car"" and ""Rent a Car"" in the Paris area?",B,1.52,6.54,12.28,5.26
+80,"What is the distance between ""Porte de Vanves"" and ""Église Orthodoxe des Trois-Saints-Docteurs"" in the Paris area?",A,1.53,4.69,2.68,5.14
+81,"What is the distance between ""Chapelle Notre-Dame des Malades"" and ""Les Petits Chaperons Rouges"" in the Paris area?",D,9.29,7.88,4.28,2.04
+82,"What is the distance between ""Kapunka"" and ""Théâtre de l'Athénée - Louis-Jouvet"" in the Paris area?",A,1.52,6.71,5.71,5.82
+83,"What is the distance between ""Fontaine Wallace"" and ""La Poste"" in the Paris area?",C,1.28,7.44,3.62,9.25
+84,"What is the distance between ""Pasta & Fagioli"" and ""Le Narval"" in the Paris area?",D,9.63,3.46,7.17,4.47
+85,"What is the distance between ""La Scala"" and ""Paris/Paul Barruel/44"" in the Paris area?",C,2.82,8.85,5.11,10.37
+86,"What is the distance between ""Deux Point Zéro"" and ""Monsieur Antoine"" in the Paris area?",B,8.28,1.98,5.1,7.6
+87,"What is the distance between ""Bistrot Augustin"" and ""MGEN"" in the Paris area?",A,0.77,1.73,6.0,5.65
+88,"What is the distance between ""Api Poke Bowl"" and ""Le bap"" in the Paris area?",A,4.78,1.77,1.63,2.46
+89,"What is the distance between ""Fabienne Robichon"" and ""Banque BCP"" in the Paris area?",B,1.0,5.47,2.64,6.79
+90,"What is the distance between ""Le nul part ailleurs"" and ""Matamata Coffee"" in the Paris area?",C,5.29,4.32,1.68,8.48
+91,"What is the distance between ""Kozy Bosquet"" and ""Label Ferme"" in the Paris area?",A,2.28,6.92,9.15,4.57
+92,"What is the distance between ""Chez eating"" and ""Les Cercles de la forme"" in the Paris area?",C,8.93,9.8,3.54,6.62
+93,"What is the distance between ""ibis Paris Père-Lachaise"" and ""Les Terrasses Philidor"" in the Paris area?",C,3.91,1.01,2.11,6.39
+94,"What is the distance between ""Centre Médico-Social Ridder"" and ""Le Bouquet"" in the Paris area?",A,1.3,8.56,6.86,8.53
+95,"What is the distance between ""Matamata Coffee"" and ""Le Beaucé"" in the Paris area?",C,7.36,3.09,0.87,4.75
+96,"What is the distance between ""Modern' Est"" and ""Consulat général d'Haïti"" in the Paris area?",B,6.48,3.67,6.31,0.74
+97,"What is the distance between ""Chutney Bites"" and ""Pharmacie de Tocqueville"" in the Paris area?",C,11.06,11.6,3.69,7.79
+98,"What is the distance between ""Église Saint-Joseph-Artisan"" and ""Résidence Marsoulan"" in the Paris area?",C,10.51,1.77,4.73,8.12
+99,"What is the distance between ""Ponpon"" and ""Palmarium"" in the Paris area?",C,5.1,2.95,1.12,2.52
+100,"What is the distance between ""Cojean"" and ""Pharmacie Sefiani"" in the Paris area?",A,1.9,6.4,9.12,3.2
+101,"What is the distance between ""Institut de l'Assomption"" and ""Église Saint-Joseph-Artisan"" in the Paris area?",A,5.64,9.48,9.28,7.4
+102,"What is the distance between ""La Truffière"" and ""Théâtre de l'Œuvre"" in the Paris area?",A,4.31,10.15,6.63,6.09
+103,"What is the distance between ""1K"" and ""Hôtel de Beauharnais"" in the Paris area?",A,3.19,8.13,9.61,10.35
+104,"What is the distance between ""Poste électrique de Coriolis"" and ""Sorbonne Université - Site Pitié-Salpétrière"" in the Paris area?",C,8.66,4.0,2.28,8.27
+105,"What is the distance between ""Résidence du Pont-aux-Biches"" and ""Marché des Batignolles"" in the Paris area?",D,1.48,8.0,4.88,3.73
+106,"What is the distance between ""FM Logistic"" and ""École Élémentaire Hyppolite Maindron"" in the Paris area?",C,1.36,6.66,2.57,6.06
+107,"What is the distance between ""Hôtel du comte Walewski"" and ""Splendid Hôtel"" in the Paris area?",D,6.92,9.06,5.02,2.5
+108,"What is the distance between ""Monsieur M"" and ""Jeux d'enfants (privé) de la Villa des Hauts de Belleville"" in the Paris area?",A,4.13,2.53,10.17,8.61
+109,"What is the distance between ""RATP Sous Station Électrique"" and ""Centre sportif Croix Nivert"" in the Paris area?",A,5.39,13.26,12.62,3.5
+110,"What is the distance between ""Kiosque à journaux"" and ""Église Saint-Martin des Champs"" in the Paris area?",A,4.35,11.51,7.99,8.27
+111,"What is the distance between ""Traiteur Chez Madame Lin"" and ""Centre d'Accueil et de Médiation Relationnelle Educative et Sociale - CAMRES"" in the Paris area?",C,11.82,2.54,5.28,7.22
+112,"What is the distance between ""Division 14"" and ""Marché d'Aligre"" in the Paris area?",A,3.28,10.4,1.65,2.01
+113,"What is the distance between ""Paris/Paul Barruel/44"" and ""Laxman"" in the Paris area?",D,5.03,7.23,3.11,1.22
+114,"What is the distance between ""Espace canin"" and ""Square de la rue Pixérécourt"" in the Paris area?",B,8.24,1.13,6.85,6.94
+115,"What is the distance between ""Atelier de propreté"" and ""Institut de l'Audition"" in the Paris area?",A,1.34,7.62,7.62,8.84
+116,"What is the distance between ""Foyer d'Arenberg"" and ""MK2 Nation"" in the Paris area?",D,5.86,11.52,10.06,4.11
+117,"What is the distance between ""BNP Paribas"" and ""Iris du Liban"" in the Paris area?",D,6.01,9.68,11.03,4.0
+118,"What is the distance between ""Bioburger"" and ""Le Nazir"" in the Paris area?",A,4.75,2.1,5.87,8.0
+119,"What is the distance between ""École primaire"" and ""Castor Club"" in the Paris area?",C,1.91,10.47,3.32,2.39
+120,"What is the distance between ""Babylone café"" and ""The Feel"" in the Paris area?",B,11.48,8.31,15.02,13.15
+121,"What is the distance between ""Mina Mahal"" and ""Biscuit"" in the Paris area?",B,13.52,6.26,1.28,13.39
+122,"What is the distance between ""Maison My"" and ""Winner's Chicken"" in the Paris area?",A,5.25,11.99,4.3,12.5
+123,"What is the distance between ""École primaire privée Sainte-Geneviève"" and ""Résidence Vaucouleurs"" in the Paris area?",D,5.88,10.06,7.96,3.24
+124,"What is the distance between ""Le Bouquet"" and ""La Manifattura"" in the Paris area?",C,5.63,2.4,0.89,7.01
+125,"What is the distance between ""Un Gavroche en Vadrouille"" and ""La Halle aux Grains"" in the Paris area?",C,1.23,3.79,2.22,7.21
+126,"What is the distance between ""Hokkaido"" and ""Elgi"" in the Paris area?",C,11.44,6.03,3.6,1.62
+127,"What is the distance between ""L'art du quotidien"" and ""Kubri"" in the Paris area?",A,4.8,9.07,0.59,2.03
+128,"What is the distance between ""Tokyotori"" and ""La maison kangourou - Temple"" in the Paris area?",B,10.96,3.57,2.62,10.56
+129,"What is the distance between ""La Marguerite"" and ""La Banque Postale"" in the Paris area?",B,7.33,1.71,7.67,9.41
+130,"What is the distance between ""Conservatoire du 15e Frédéric Chopin"" and ""Square Aristide Cavaillé-Coll"" in the Paris area?",D,9.21,11.65,14.14,6.68
+131,"What is the distance between ""Parolerie - cabinet d’expériences linguistiques"" and ""Gare du Nord - Denain"" in the Paris area?",A,1.13,7.81,4.65,5.19
+132,"What is the distance between ""Rent a Car"" and ""Ateliers artistiques"" in the Paris area?",C,11.99,2.58,5.28,1.3
+133,"What is the distance between ""MK2 Nation"" and ""Résidence Simon Bolivar"" in the Paris area?",A,3.48,6.74,9.16,9.81
+134,"What is the distance between ""Pasta & Co"" and ""Momo House"" in the Paris area?",C,2.56,8.18,1.15,7.26
+135,"What is the distance between ""École Maternelle des Renaudes"" and ""Yookoso"" in the Paris area?",D,0.52,4.38,7.66,1.54
+136,"What is the distance between ""Institut de l'Audition"" and ""Parc de Bercy"" in the Paris area?",C,8.56,7.99,1.8,9.54
+137,"What is the distance between ""Royal Bar des Amis"" and ""Pharmacie Sébag"" in the Paris area?",A,2.72,5.99,1.41,6.64
+138,"What is the distance between ""Pharmacie Haggiac"" and ""N & C"" in the Paris area?",C,7.34,3.72,5.03,5.96
+139,"What is the distance between ""Le Brazza"" and ""Basic Fit"" in the Paris area?",D,5.36,13.42,15.5,7.66
+140,"What is the distance between ""Lycée Carnot"" and ""Les Jardins d'Éole"" in the Paris area?",B,2.01,4.34,1.11,3.29
+141,"What is the distance between ""Henri Chevreau - Couronnes"" and ""Crème"" in the Paris area?",D,9.26,7.69,1.49,2.72
+142,"What is the distance between ""Le Saint-Denis"" and ""Le Centenaire"" in the Paris area?",B,9.37,1.38,6.75,4.79
+143,"What is the distance between ""Café Nata"" and ""Kokodak"" in the Paris area?",A,6.11,5.19,3.25,8.76
+144,"What is the distance between ""Pedzouille"" and ""Babylone café"" in the Paris area?",B,8.68,5.73,8.14,10.81
+145,"What is the distance between ""Chouquette"" and ""Délices des milles saveurs"" in the Paris area?",D,12.36,10.53,9.3,5.01
+146,"What is the distance between ""Crème"" and ""Le Président"" in the Paris area?",C,3.33,7.47,2.03,8.97
+147,"What is the distance between ""Ateliers artistiques"" and ""HSBC"" in the Paris area?",D,1.69,1.14,6.6,2.93
+148,"What is the distance between ""Da May Fa"" and ""Caisse d'Épargne"" in the Paris area?",C,7.5,9.02,2.31,3.68
+149,"What is the distance between ""Sorbonne Université"" and ""Église Notre-Dame-de-La-Salette"" in the Paris area?",C,14.05,8.05,6.37,7.49
+150,"What is the distance between ""École Supérieure de l'Image et du Son"" and ""Réaumur - Sentier"" in the Paris area?",D,3.01,2.78,3.0,1.65
+151,"What is the distance between ""Société Générale"" and ""École Supérieure de l'Image et du Son"" in the Paris area?",C,12.06,13.1,5.26,1.25
+152,"What is the distance between ""Crèche Parentale Capucine et Papillon"" and ""Oxymore"" in the Paris area?",D,10.4,12.52,10.9,5.64
+153,"What is the distance between ""L’Étoile du Kashmir"" and ""Loutsa"" in the Paris area?",B,1.32,3.48,6.23,5.45
+154,"What is the distance between ""La Halle aux Grains"" and ""L'art du quotidien"" in the Paris area?",A,3.41,10.52,1.42,0.66
+155,"What is the distance between ""UNIC"" and ""Studéa Paris Grande Bibliothèque"" in the Paris area?",D,4.9,15.74,3.28,8.27
+156,"What is the distance between ""SG"" and ""L’Épicier"" in the Paris area?",D,3.41,3.87,3.25,0.52
+157,"What is the distance between ""Le Rallye Étoile"" and ""James Hetfeeld’s"" in the Paris area?",C,1.95,9.11,4.04,1.19
+158,"What is the distance between ""Le Calbar"" and ""Café Vigouroux"" in the Paris area?",B,7.94,2.42,7.03,7.48
+159,"What is the distance between ""Tabac du Temple"" and ""Krash"" in the Paris area?",A,1.0,3.61,6.17,6.15
+160,"What is the distance between ""Le Paris Paris"" and ""Cabinet paramédical Tolbiac"" in the Paris area?",A,3.84,8.15,5.91,8.45
+161,"What is the distance between ""Jour Boétie"" and ""Le Calbar"" in the Paris area?",A,5.37,2.02,3.87,3.08
+162,"What is the distance between ""Momo House"" and ""Le Gamin"" in the Paris area?",C,5.08,10.07,2.74,4.2
+163,"What is the distance between ""La Scarpetta"" and ""Place Pigalle"" in the Paris area?",B,10.09,4.22,10.62,9.26
+164,"What is the distance between ""McDonald's"" and ""La Marguerite"" in the Paris area?",D,10.16,2.11,10.24,4.05
+165,"What is the distance between ""Krash"" and ""Dame Jane"" in the Paris area?",B,5.38,2.37,9.65,7.63
+166,"What is the distance between ""Clinique Vétérinaire"" and ""Henri Chevreau - Couronnes"" in the Paris area?",D,6.86,3.55,6.79,1.09
+167,"What is the distance between ""Jardin Frédéric Dard"" and ""Crèche collective"" in the Paris area?",A,5.63,4.18,2.58,13.07
+168,"What is the distance between ""Sure Hotel"" and ""Mairie du 20e arrondissement"" in the Paris area?",C,5.28,1.2,3.55,7.98
+169,"What is the distance between ""Le Mansart"" and ""Lhassa"" in the Paris area?",B,2.5,3.86,7.89,7.56
+170,"What is the distance between ""Jardin des rues Maronites-Pressoir"" and ""Hôpital Rothschild"" in the Paris area?",A,3.01,7.99,6.43,8.64
+171,"What is the distance between ""Résidence Paname"" and ""Monument commémoratif de la campagne de Tunisie 1942-1943"" in the Paris area?",D,9.03,9.52,9.82,4.77
+172,"What is the distance between ""Iris du Liban"" and ""Eattos"" in the Paris area?",A,5.56,3.32,3.85,4.24
+173,"What is the distance between ""Extension du jardin"" and ""Hôtel Donon"" in the Paris area?",A,1.99,5.08,7.85,3.48
+174,"What is the distance between ""Studéa Paris Grande Bibliothèque"" and ""Hôtel Le Vavasseur"" in the Paris area?",A,7.48,5.47,8.48,6.58
+175,"What is the distance between ""Chez Malou"" and ""Société Générale"" in the Paris area?",A,5.68,2.53,1.23,10.22
+176,"What is the distance between ""Biglove - Big Mamma"" and ""Centre Médico-Social Ridder"" in the Paris area?",C,9.31,2.86,5.12,12.16
+177,"What is the distance between ""Publiphone"" and ""Clinique Vétérinaire"" in the Paris area?",D,3.02,9.27,5.1,2.06
+178,"What is the distance between ""Lycée privé Sainte-Ursule-Louise de Bettignies"" and ""Le Casse Noix"" in the Paris area?",A,3.7,5.52,8.51,10.72
+179,"What is the distance between ""Supersonic"" and ""Poke House"" in the Paris area?",C,8.08,9.27,2.34,8.62
+180,"What is the distance between ""L'aller retour"" and ""Turquoise Istanbul"" in the Paris area?",C,6.91,1.03,2.45,9.78
+181,"What is the distance between ""Starbucks"" and ""Lycée privé Sainte-Ursule-Louise de Bettignies"" in the Paris area?",A,8.04,12.95,6.71,3.66
+182,"What is the distance between ""ACMS"" and ""Auditorium de la Cité de l'architecture et du patrimoine"" in the Paris area?",A,8.63,4.62,3.24,13.67
+183,"What is the distance between ""La Ruche"" and ""Communauté des Oblates de l'Assomption"" in the Paris area?",B,7.51,6.33,4.03,10.52
+184,"What is the distance between ""Ambassade de Chypre"" and ""Square de la Place de la Réunion"" in the Paris area?",C,10.02,6.79,8.03,2.7
+185,"What is the distance between ""Le Royal 17"" and ""BNP Paribas"" in the Paris area?",C,6.26,4.56,3.25,7.83
+186,"What is the distance between ""Poke House"" and ""Iovine's"" in the Paris area?",A,1.58,2.83,6.12,2.75
+187,"What is the distance between ""La Belle Hortense"" and ""Pharmacie des Dames"" in the Paris area?",D,9.35,2.03,9.87,3.89
+188,"What is the distance between ""Centre sportif Croix Nivert"" and ""Groupe Scolaire des Pyrénées"" in the Paris area?",A,8.17,6.01,6.99,15.36
+189,"What is the distance between ""Yora"" and ""Earth’K"" in the Paris area?",B,6.18,2.2,6.01,9.33
+190,"What is the distance between ""Square Sainte-Odile"" and ""Centre sportif des Lilas"" in the Paris area?",D,3.3,5.48,6.48,7.56
+191,"What is the distance between ""Logements Les Fêtes"" and ""Gare de Lyon-Diderot"" in the Paris area?",A,3.72,10.41,8.52,8.73
+192,"What is the distance between ""Pharmacie des Dames"" and ""Le Friedland"" in the Paris area?",A,1.93,7.44,6.15,6.07
+193,"What is the distance between ""Coligny"" and ""Square Florence Blumenthal"" in the Paris area?",C,4.3,13.01,5.61,1.87
+194,"What is the distance between ""Relais Odéon"" and ""La Piccola Sicilia"" in the Paris area?",C,11.66,0.76,4.62,3.42
+195,"What is the distance between ""Résidence Marsoulan"" and ""Atelier de propreté"" in the Paris area?",A,0.87,3.02,8.34,4.34
+196,"What is the distance between ""Central"" and ""Hôpital Tenon"" in the Paris area?",D,8.66,10.39,2.73,7.51
+197,"What is the distance between ""Banque BCP"" and ""Chez Papa"" in the Paris area?",A,5.16,9.27,11.64,10.2
+198,"What is the distance between ""Chabrol - d'Hauteville"" and ""Centre de Vaccinations internationales"" in the Paris area?",D,2.99,2.45,6.07,1.48
+199,"What is the distance between ""Tennis municipal couvert des Sept Arpents"" and ""Le Carrousel de la Tour Eiffel"" in the Paris area?",C,9.55,14.83,8.48,10.39
+200,"What is the distance between ""Miznon"" and ""Yuxiangting"" in the Paris area?",B,5.8,1.18,7.24,3.79
+201,"What is the distance between ""Marché Président Wilson"" and ""Jouvence"" in the Paris area?",D,5.46,1.71,10.45,6.43
+202,"What is the distance between ""Sessad Le Passage"" and ""Eight Paris"" in the Paris area?",C,0.69,6.16,2.0,6.29
+203,"What is the distance between ""Théâtre de la Gaîté-Montparnasse"" and ""Pharmacie Conti"" in the Paris area?",A,8.01,3.7,12.11,1.96
+204,"What is the distance between ""Label Ferme"" and ""Le Lac de l'Ouest"" in the Paris area?",A,2.89,0.61,7.4,0.91
+205,"What is the distance between ""Ikuzo"" and ""Les jeunes heures"" in the Paris area?",C,6.98,7.09,4.79,1.5
+206,"What is the distance between ""Le Machon d'Henri"" and ""Blanca"" in the Paris area?",B,1.66,3.05,7.38,4.17
+207,"What is the distance between ""Le Comptoir du Relais"" and ""Saint-Ambroise"" in the Paris area?",A,2.76,5.74,4.3,7.0
+208,"What is the distance between ""Le Gamin"" and ""Compose"" in the Paris area?",B,7.38,2.3,0.74,7.83
+209,"What is the distance between ""Le Casse Noix"" and ""Mamou"" in the Paris area?",D,8.65,11.72,11.7,3.72
+210,"What is the distance between ""Hôtel Antinéa"" and ""Logements Charles Delescluze"" in the Paris area?",C,10.63,1.71,2.87,7.39
+211,"What is the distance between ""Les Jardins d'Éole"" and ""Les Plateaux Sauvages"" in the Paris area?",B,8.74,2.74,6.11,1.48
+212,"What is the distance between ""Ursule et Zoé"" and ""Chez Rita"" in the Paris area?",B,12.72,8.06,10.07,15.28
+213,"What is the distance between ""Communauté des Oblates de l'Assomption"" and ""Novotel Paris Vaugirand Montparnasse"" in the Paris area?",D,4.65,7.34,7.4,0.61
+214,"What is the distance between ""Fondation Charles de Gaulle"" and ""Regard du Chaudron"" in the Paris area?",B,10.19,5.17,7.83,7.92
+215,"What is the distance between ""École nationale supérieure d'architecture de Paris-Belleville"" and ""École primaire privée Sainte-Geneviève"" in the Paris area?",B,8.45,3.72,1.62,11.47
+216,"What is the distance between ""Clinique du Sport"" and ""Église Saint-Nicolas du Chardonnet"" in the Paris area?",B,8.95,1.25,8.32,9.0
+217,"What is the distance between ""Bibliothèque François Mitterrand"" and ""L'Éléphant du Nil"" in the Paris area?",A,2.97,1.28,10.87,7.81
+218,"What is the distance between ""Le Friedland"" and ""Gemini Family"" in the Paris area?",A,4.18,1.01,9.82,10.2
+219,"What is the distance between ""Bistrot 65"" and ""Crèche Collective Châteaudun"" in the Paris area?",B,1.91,3.0,2.01,10.87
+220,"What is the distance between ""Zen"" and ""Chez Malou"" in the Paris area?",D,4.78,1.45,6.28,2.85
+221,"What is the distance between ""James Hetfeeld’s"" and ""Le Y"" in the Paris area?",B,9.06,1.3,8.35,6.58
+222,"What is the distance between ""Madito"" and ""Gang Seng"" in the Paris area?",C,10.41,9.42,5.1,9.48
+223,"What is the distance between ""Cosi"" and ""Les Cercles de la Forme"" in the Paris area?",B,6.94,3.58,1.59,5.31
+224,"What is the distance between ""Le Mandarin de Rambuteau"" and ""Musée du Quai Branly - Jacques-Chirac"" in the Paris area?",D,5.19,9.27,7.33,4.28
+225,"What is the distance between ""Les Plateaux Sauvages"" and ""Jardin d'Alleray-Procession"" in the Paris area?",B,1.99,6.88,14.0,14.54
+226,"What is the distance between ""Dame Nation"" and ""La Focacceria"" in the Paris area?",A,2.83,4.24,5.96,1.53
+227,"What is the distance between ""Délice"" and ""Poco Loco"" in the Paris area?",C,3.4,2.3,0.81,6.99
+228,"What is the distance between ""Le Bistro...t d'Antoine"" and ""Parolerie - cabinet d’expériences linguistiques"" in the Paris area?",C,10.16,9.43,3.63,2.04
+229,"What is the distance between ""Eight Paris"" and ""Jour Boétie"" in the Paris area?",D,6.74,1.25,5.06,3.23
+230,"What is the distance between ""L'Événement Gourmet"" and ""La Truffière"" in the Paris area?",C,8.44,0.98,2.4,6.52
+231,"What is the distance between ""Auditorium de la Cité de l'architecture et du patrimoine"" and ""Banque Populaire"" in the Paris area?",D,4.88,6.62,4.74,3.84
+232,"What is the distance between ""Lupo"" and ""Petit Gangnam"" in the Paris area?",B,10.95,5.8,10.67,10.75
+233,"What is the distance between ""Sushi House"" and ""ADA"" in the Paris area?",D,9.0,7.15,8.06,2.02
+234,"What is the distance between ""Pizza Del Maestro"" and ""404"" in the Paris area?",B,8.25,2.83,6.16,6.32
+235,"What is the distance between ""Square de la Place de la Réunion"" and ""RATP Sous Station Électrique"" in the Paris area?",C,7.03,3.84,2.58,4.06
+236,"What is the distance between ""Au Son des Guitares"" and ""Le Saint-Denis"" in the Paris area?",C,6.25,6.85,2.5,6.54
+237,"What is the distance between ""Prunier"" and ""Asia Story"" in the Paris area?",D,6.78,6.55,2.33,7.75
+238,"What is the distance between ""Winner's Chicken"" and ""Ottoman corner"" in the Paris area?",B,9.38,6.35,8.42,13.98
+239,"What is the distance between ""La Banque Postale"" and ""La Focaccia"" in the Paris area?",B,9.58,3.01,6.22,8.09
+240,"What is the distance between ""Novotel Paris Vaugirand Montparnasse"" and ""Résidence sociale Françoise Seligmann"" in the Paris area?",D,11.42,10.3,4.47,6.35
+241,"What is the distance between ""Ottoman corner"" and ""Supersonic"" in the Paris area?",C,4.53,4.32,2.35,0.64
+242,"What is the distance between ""École élémentaire d'Oran"" and ""Square Miss.Tic"" in the Paris area?",D,2.13,12.42,2.02,5.49
+243,"What is the distance between ""Conservatoire"" and ""Pharmacie Choiseul"" in the Paris area?",D,6.83,5.55,1.86,3.68
+244,"What is the distance between ""La cuisine par Giovanni Passerini"" and ""Le Métro"" in the Paris area?",A,6.46,13.08,4.67,11.21
+245,"What is the distance between ""Pharmacie Bravo"" and ""Théâtre du Petit Monde"" in the Paris area?",A,3.43,8.95,9.93,5.15
+246,"What is the distance between ""La Brasserie de l’Isle Saint-Louis"" and ""Fabienne Robichon"" in the Paris area?",D,2.68,4.28,5.49,1.35
+247,"What is the distance between ""Résidence sociale Françoise Seligmann"" and ""Hôtel Antinéa"" in the Paris area?",A,0.71,8.15,7.73,3.85
+248,"What is the distance between ""The Beans on Fire"" and ""Starbucks"" in the Paris area?",D,0.72,3.07,3.64,6.81
+249,"What is the distance between ""Repair café BricoParis"" and ""L'aller retour"" in the Paris area?",A,3.7,2.62,8.33,2.29
+250,"What is the distance between ""Iovine's"" and ""Pharmacie Monte-Cristo"" in the Paris area?",B,2.62,5.34,1.29,1.5
+251,"What is the distance between ""Comptoir Change Opera"" and ""Pink Koï"" in the Paris area?",D,3.0,3.77,6.31,1.17
+252,"What is the distance between ""Crèche"" and ""École nationale supérieure d'architecture de Paris-Belleville"" in the Paris area?",C,7.83,8.32,2.52,9.48
+253,"What is the distance between ""Pharmacie Conti"" and ""Pharmacie du Marché"" in the Paris area?",D,6.18,11.42,4.57,9.68
+254,"What is the distance between ""Église Orthodoxe des Trois-Saints-Docteurs"" and ""Résidence Belleville"" in the Paris area?",C,10.28,2.37,7.89,4.89
+255,"What is the distance between ""Le Drapeau"" and ""Đòong Café"" in the Paris area?",B,8.77,4.16,1.96,9.66
+256,"What is the distance between ""Rodchenko"" and ""Afendi"" in the Paris area?",D,6.69,0.68,4.0,1.9
+257,"What is the distance between ""Brasserie Floderer"" and ""Chouquette"" in the Paris area?",C,0.88,7.73,4.65,3.18
+258,"What is the distance between ""CFA IGS"" and ""Jardin Frédéric Dard"" in the Paris area?",B,5.0,2.12,1.22,6.12
+259,"What is the distance between ""Cabinet paramédical Tolbiac"" and ""Tomy & Co"" in the Paris area?",C,12.46,8.65,5.91,9.08
+260,"What is the distance between ""École élémentaire privée Bossuet-Notre-Dame"" and ""École maternelle Présentation"" in the Paris area?",A,1.96,7.26,9.57,5.17
+261,"What is the distance between ""Hôtel Donon"" and ""Caserne des Tourelles"" in the Paris area?",C,9.53,7.77,3.77,10.82
+262,"What is the distance between ""Cafeteria"" and ""Al Assil"" in the Paris area?",B,2.46,1.43,6.74,6.5
+263,"What is the distance between ""The Feel"" and ""La Scarpetta"" in the Paris area?",D,9.12,7.52,11.14,4.41
+264,"What is the distance between ""La Piccola Sicilia"" and ""Sushi Q"" in the Paris area?",D,9.27,10.78,8.63,7.12
+265,"What is the distance between ""La Focaccia"" and ""Chapelle Notre-Dame des Malades"" in the Paris area?",B,6.02,2.04,8.82,0.81
+266,"What is the distance between ""Petit Gangnam"" and ""Mount Everest"" in the Paris area?",A,3.1,8.96,9.61,5.23
+267,"What is the distance between ""Résidence Vaucouleurs"" and ""UNIC"" in the Paris area?",B,10.94,5.25,10.21,8.45
+268,"What is the distance between ""1000 & 1 Délices"" and ""Olio e Farina"" in the Paris area?",A,4.82,1.38,8.71,2.78
+269,"What is the distance between ""Loutsa"" and ""Marché Président Wilson"" in the Paris area?",B,0.82,3.39,10.07,6.85
+270,"What is the distance between ""École Élémentaire Hyppolite Maindron"" and ""Surcouf - Université"" in the Paris area?",A,3.53,6.63,6.5,10.98
+271,"What is the distance between ""La Casa"" and ""Le Bistrot De La Place"" in the Paris area?",C,9.17,1.84,3.61,0.54
+272,"What is the distance between ""Lush"" and ""Bistro les Quatre Saisons"" in the Paris area?",D,5.32,5.7,5.44,2.08
+273,"What is the distance between ""Villa Belleville"" and ""Résidence Angoulême"" in the Paris area?",D,6.32,5.96,7.83,0.7
+274,"What is the distance between ""Made in Italy"" and ""Ponpon"" in the Paris area?",C,0.87,9.29,1.78,3.23
+275,"What is the distance between ""Le Globe Diderot"" and ""Sakata"" in the Paris area?",A,6.38,7.31,3.67,9.83
+276,"What is the distance between ""Local poubelle"" and ""1K"" in the Paris area?",D,4.96,5.31,5.33,3.09
+277,"What is the distance between ""Le Potager du Père Thierry"" and ""La Brasserie de l’Isle Saint-Louis"" in the Paris area?",B,4.95,3.62,10.51,6.06
+278,"What is the distance between ""Pizza Hut"" and ""Maisie café"" in the Paris area?",C,1.76,8.04,5.42,9.61
+279,"What is the distance between ""École Ganénou"" and ""Capucine"" in the Paris area?",D,3.95,6.99,3.77,5.34
+280,"What is the distance between ""Sakata"" and ""La Crêperie Bretonne"" in the Paris area?",A,4.46,11.78,8.5,2.13
+281,"What is the distance between ""Préfecture de Police"" and ""Réservoir des Lilas"" in the Paris area?",B,0.68,4.8,10.55,10.62
+282,"What is the distance between ""Qooto Qooto Resto"" and ""Espace canin"" in the Paris area?",B,2.05,3.42,1.98,11.3
+283,"What is the distance between ""Le Narval"" and ""Restaurant Sidi Rached"" in the Paris area?",D,0.63,3.05,7.91,1.88
+284,"What is the distance between ""Le Royal Cambronne"" and ""Qooto Qooto Resto"" in the Paris area?",D,3.89,11.93,8.11,6.19
+285,"What is the distance between ""P'tit Louis"" and ""Le Royal 17"" in the Paris area?",A,5.0,11.95,4.05,7.02
+286,"What is the distance between ""Résidence sociale Convention"" and ""École élémentaire privée Bossuet-Notre-Dame"" in the Paris area?",C,12.68,8.36,5.61,9.1
+287,"What is the distance between ""Le Lac de l'Ouest"" and ""Pret A Manger"" in the Paris area?",B,6.47,2.38,1.18,9.73
+288,"What is the distance between ""Hôtel Le Vavasseur"" and ""ibis Paris Père-Lachaise"" in the Paris area?",B,9.56,6.93,8.97,9.75
+289,"What is the distance between ""La Villa des livres"" and ""Atelier 103"" in the Paris area?",B,6.55,5.1,7.57,10.26
+290,"What is the distance between ""Collège Jean-Jacques Rousseau"" and ""Orange Voltaire"" in the Paris area?",A,3.31,10.53,10.34,10.85
+291,"What is the distance between ""Al Bayader"" and ""Prunier"" in the Paris area?",B,11.81,3.91,6.06,8.21
+292,"What is the distance between ""Atomic Cat"" and ""Paris | Rue Ravignan 1bis"" in the Paris area?",B,3.49,4.45,9.41,10.48
+293,"What is the distance between ""Ovanac"" and ""La Villa des livres"" in the Paris area?",A,0.93,6.19,4.22,2.67
+294,"What is the distance between ""École privée catholique Sainte-Marguerite"" and ""L'Événement Gourmet"" in the Paris area?",A,1.07,5.11,3.16,7.53
+295,"What is the distance between ""Phenice"" and ""Petit - Manin"" in the Paris area?",D,0.58,9.05,11.52,3.75
+296,"What is the distance between ""Parc de Bercy"" and ""Square Sainte-Odile"" in the Paris area?",C,5.46,13.0,8.72,5.96
+297,"What is the distance between ""Étoile-Wagram"" and ""Le Mandarin de Rambuteau"" in the Paris area?",D,2.58,12.38,2.13,4.7
+298,"What is the distance between ""Thouin - Cardinal Lemoine"" and ""L'Atelier Saisonnier"" in the Paris area?",B,5.58,2.03,6.97,0.62
+299,"What is the distance between ""OUI FM"" and ""P'tit Louis"" in the Paris area?",D,3.77,3.86,2.91,1.86
+300,"What is the distance between ""École élémentaire Saint-Maur"" and ""Assurance Maladie"" in the Paris area?",C,8.11,9.69,3.08,4.38
+301,"What is the distance between ""Nagoya Vouillé"" and ""Le Drapeau"" in the Paris area?",D,8.13,2.87,12.0,4.32
+302,"What is the distance between ""Caisse d'Épargne"" and ""Patrick Mouily"" in the Paris area?",D,8.57,12.8,8.29,6.2
+303,"What is the distance between ""Tour Sapporo"" and ""Résidence Paname"" in the Paris area?",B,6.79,3.84,5.65,11.31
+304,"What is the distance between ""Hôpital Maison-Blanche"" and ""Local poubelle"" in the Paris area?",D,10.57,6.54,10.36,3.66
+305,"What is the distance between ""Théâtre de l'Athénée - Louis-Jouvet"" and ""Les 5 Saisons"" in the Paris area?",B,11.33,4.25,11.91,6.18
+306,"What is the distance between ""Patrick Mouily"" and ""Memo"" in the Paris area?",A,4.36,9.68,5.42,8.46
+307,"What is the distance between ""École et Collège Modigliani"" and ""Division 14"" in the Paris area?",A,8.47,15.91,13.4,15.38
+308,"What is the distance between ""Paris | Rue Ravignan 1bis"" and ""CMG Sports Club"" in the Paris area?",A,4.51,6.0,1.67,6.42
+309,"What is the distance between ""Le Longchamp"" and ""ACMS"" in the Paris area?",D,3.32,12.66,2.66,5.24
+310,"What is the distance between ""Les Cercles de la forme"" and ""L'Émir"" in the Paris area?",D,5.32,5.85,3.41,1.65
+311,"What is the distance between ""Hôtel des 5 diamants"" and ""Jardin de la Gare de Charonne"" in the Paris area?",D,10.06,12.59,12.87,5.12
+312,"What is the distance between ""Police nationale"" and ""La Ruche"" in the Paris area?",B,6.15,4.47,8.25,9.18
+313,"What is the distance between ""École Élémentaire Belzunce"" and ""Hôpital Maison-Blanche"" in the Paris area?",D,9.79,6.61,4.4,2.1
+314,"What is the distance between ""LPR LE PRE ST GERVAIS LES LIONS"" and ""Institut privé de préparation aux études supérieures"" in the Paris area?",D,8.43,1.53,10.95,5.47
+315,"What is the distance between ""Thierry Biton"" and ""Royal Bar des Amis"" in the Paris area?",A,6.44,12.96,7.94,5.46
+316,"What is the distance between ""Banque Populaire"" and ""Typica"" in the Paris area?",B,7.59,4.87,8.82,0.51
+317,"What is the distance between ""Fondue Dragon"" and ""Le Bistro...t d'Antoine"" in the Paris area?",A,4.93,12.69,3.65,11.49
+318,"What is the distance between ""Asia Story"" and ""Crèche Parentale Capucine et Papillon"" in the Paris area?",B,7.93,0.63,1.98,6.23
+319,"What is the distance between ""Babel Dwichs"" and ""Monsieur M"" in the Paris area?",D,7.53,2.06,4.9,0.75
+320,"What is the distance between ""Douces Maternelles"" and ""Michel Servet"" in the Paris area?",D,6.79,1.64,3.18,4.92
+321,"What is the distance between ""Le Y"" and ""Vin & Marée"" in the Paris area?",A,3.92,9.19,8.54,11.22
+322,"What is the distance between ""Olio e Farina"" and ""Thouin - Cardinal Lemoine"" in the Paris area?",D,2.89,0.84,3.75,1.85
+323,"What is the distance between ""Timhotel Montmartre"" and ""LPR LE PRE ST GERVAIS LES LIONS"" in the Paris area?",C,10.0,2.93,5.18,9.49
+324,"What is the distance between ""Brasserie Bar La Fac"" and ""Beer Station"" in the Paris area?",B,12.46,5.29,8.13,6.95
+325,"What is the distance between ""Dunya"" and ""Lush"" in the Paris area?",D,3.11,1.68,1.49,4.19
+326,"What is the distance between ""L'Interlude"" and ""Lupo"" in the Paris area?",D,2.26,6.04,7.09,1.03
+327,"What is the distance between ""Jeux d'enfants (privé) de la Villa des Hauts de Belleville"" and ""École élémentaire d'Oran"" in the Paris area?",B,2.27,3.91,2.23,0.63
+328,"What is the distance between ""Les jardins de Presbourg"" and ""Le Chalet Savoyard"" in the Paris area?",C,8.28,10.83,6.71,7.92
+329,"What is the distance between ""Fruttini"" and ""Liban Bienvenue"" in the Paris area?",A,1.1,3.42,8.5,2.97
+330,"What is the distance between ""La pince à cornichons"" and ""Fontaine Charlemagne"" in the Paris area?",D,5.38,0.77,3.56,2.12
+331,"What is the distance between ""Hôtel Métropolitain"" and ""Promenade Thérèse Pierre"" in the Paris area?",D,0.8,14.01,10.46,6.81
+332,"What is the distance between ""Les jeunes heures"" and ""Résidence Santé Oasis"" in the Paris area?",A,3.65,5.1,8.35,8.19
+333,"What is the distance between ""Chez Papa"" and ""Chez Pradel"" in the Paris area?",D,5.09,1.96,10.09,3.17
+334,"What is the distance between ""École maternelle Présentation"" and ""Lycée Carnot"" in the Paris area?",A,5.32,9.32,9.83,2.35
+335,"What is the distance between ""Les Salons d'Hortense"" and ""Bibliothèque François Mitterrand"" in the Paris area?",D,13.49,11.82,9.26,6.92
+336,"What is the distance between ""Le faubourg"" and ""Climbing District Bastille"" in the Paris area?",C,5.63,6.34,0.54,3.3
+337,"What is the distance between ""Food Store"" and ""Le nul part ailleurs"" in the Paris area?",A,3.76,2.16,8.49,5.04
+338,"What is the distance between ""Bang Kok Thailand"" and ""Publiphone"" in the Paris area?",C,13.15,3.19,6.14,13.82
+339,"What is the distance between ""Esplanade Renée Lebas"" and ""Central"" in the Paris area?",B,11.81,5.68,3.18,7.05
+340,"What is the distance between ""Traiteur Chen Wang"" and ""Bang Kok Thailand"" in the Paris area?",B,1.76,2.98,7.04,6.28
+341,"What is the distance between ""Surcouf - Université"" and ""Le Machon d'Henri"" in the Paris area?",B,7.81,2.1,6.42,6.8
+342,"What is the distance between ""Saïko"" and ""Maison & Services"" in the Paris area?",A,5.08,7.93,12.74,9.97
+343,"What is the distance between ""Aux Lyonnais"" and ""Rooftop M"" in the Paris area?",C,3.88,6.36,2.41,8.63
+344,"What is the distance between ""Capucine"" and ""Cantina di Luca"" in the Paris area?",B,7.23,2.06,9.85,7.06
+345,"What is the distance between ""N & C"" and ""Maison My"" in the Paris area?",A,5.46,1.5,2.17,9.4
+346,"What is the distance between ""Rooftop M"" and ""Zen"" in the Paris area?",B,6.53,2.24,7.48,7.51
+347,"What is the distance between ""Théâtre de l'Œuvre"" and ""McDonald's"" in the Paris area?",C,3.92,4.58,0.6,4.25
+348,"What is the distance between ""Église Notre-Dame-de-La-Salette"" and ""Modern' Est"" in the Paris area?",B,4.82,6.3,12.68,12.33
+349,"What is the distance between ""La Cime"" and ""Martine Lambert"" in the Paris area?",C,8.83,3.5,1.9,3.1
+350,"What is the distance between ""Square de la rue Pixérécourt"" and ""Au salon de danse"" in the Paris area?",C,14.32,8.67,6.82,3.51
+351,"What is the distance between ""Monsieur Antoine"" and ""Madito"" in the Paris area?",C,2.08,8.85,1.02,5.61
+352,"What is the distance between ""Marché des Batignolles"" and ""Hôtel des 5 diamants"" in the Paris area?",B,12.53,7.14,4.05,1.33
+353,"What is the distance between ""Rosa Bonheur sur Seine"" and ""Jardin des rues Maronites-Pressoir"" in the Paris area?",A,5.03,6.91,10.31,11.06
+354,"What is the distance between ""Mam'Ayoka Pajol"" and ""Yora"" in the Paris area?",C,9.83,0.76,3.71,9.39
+355,"What is the distance between ""Gang Seng"" and ""École primaire"" in the Paris area?",C,6.05,10.57,4.77,6.83
+356,"What is the distance between ""Consulat général d'Haïti"" and ""Porte de Vanves"" in the Paris area?",A,6.11,3.01,4.39,1.47
+357,"What is the distance between ""Maison & Services"" and ""Kapunka"" in the Paris area?",D,7.69,9.53,8.47,2.37
+358,"What is the distance between ""L’Épicier"" and ""1000 & 1 Délices"" in the Paris area?",B,0.86,1.82,6.34,4.91
+359,"What is the distance between ""Résidence Belleville"" and ""Centre sportif Bréguet"" in the Paris area?",D,4.52,7.78,10.34,2.37
+360,"What is the distance between ""Sushi Star"" and ""Académie de Wing Chun"" in the Paris area?",A,1.02,5.46,4.94,6.64
+361,"What is the distance between ""Elgi"" and ""Callesol"" in the Paris area?",D,5.81,1.4,9.38,4.52
+362,"What is the distance between ""Fontaine Charlemagne"" and ""Urban Laser"" in the Paris area?",C,6.35,9.04,3.36,8.31
+363,"What is the distance between ""Le Ballu"" and ""Le Globe Diderot"" in the Paris area?",C,2.88,11.28,5.58,10.07
+364,"What is the distance between ""Gare du Nord - Denain"" and ""Chez eating"" in the Paris area?",D,6.42,3.15,3.9,1.44
+365,"What is the distance between ""Marché d'Aligre"" and ""Buste de Frédérick Lemaître"" in the Paris area?",C,3.68,5.32,2.36,7.44
+366,"What is the distance between ""Jardin de l'Hospice Debrousse"" and ""Hôtel Vernet"" in the Paris area?",D,7.08,13.25,11.58,8.07
+367,"What is the distance between ""Les 5 Saisons"" and ""Repair café BricoParis"" in the Paris area?",C,2.91,3.51,0.84,7.97
+368,"What is the distance between ""Jardin d'Alleray-Procession"" and ""Police nationale"" in the Paris area?",B,1.76,3.52,11.32,7.17
+369,"What is the distance between ""Yookoso"" and ""Centre d'imagerie médicale Nollet"" in the Paris area?",D,5.77,6.48,8.99,1.53
+370,"What is the distance between ""Théâtre du Petit Monde"" and ""Maison de la Justice et du Droit"" in the Paris area?",A,5.02,1.85,3.78,12.06
+371,"What is the distance between ""Mi.k.do Bar"" and ""Atomic Cat"" in the Paris area?",C,7.01,3.1,0.99,7.66
+372,"What is the distance between ""Crèche Collective"" and ""Black and White"" in the Paris area?",A,6.13,7.08,12.57,3.57
+373,"What is the distance between ""Tomy & Co"" and ""La Cantine des Pyrénées"" in the Paris area?",D,7.53,3.29,2.07,5.98
+374,"What is the distance between ""Salle Pleyel"" and ""Les jardins de Presbourg"" in the Paris area?",B,5.41,0.7,6.8,5.84
+375,"What is the distance between ""Urban Laser"" and ""Centre de Vaccinations Tiphaine"" in the Paris area?",D,10.53,5.86,1.26,3.05
+376,"What is the distance between ""Palmarium"" and ""Poulet champion"" in the Paris area?",D,7.85,9.8,7.6,2.01
+377,"What is the distance between ""CMG Sports Club"" and ""Thierry Biton"" in the Paris area?",B,6.72,1.14,6.75,4.74
+378,"What is the distance between ""Mamou"" and ""Chutney Bites"" in the Paris area?",B,4.57,2.13,8.0,8.32
+379,"What is the distance between ""Académie de Wing Chun"" and ""Cleanik' Car"" in the Paris area?",C,8.85,2.81,3.98,1.89
+380,"What is the distance between ""Turquoise Istanbul"" and ""2R2C Fabrique artistique RueWatt"" in the Paris area?",C,7.39,11.4,5.97,3.16
+381,"What is the distance between ""Callesol"" and ""Chabrol - d'Hauteville"" in the Paris area?",A,5.43,7.83,11.16,9.31
+382,"What is the distance between ""Poco Loco"" and ""Made in Italy"" in the Paris area?",C,6.67,10.45,4.14,11.48
+383,"What is the distance between ""Pharmacie Sébag"" and ""Nagoya Vouillé"" in the Paris area?",A,6.98,13.82,11.37,9.36
+384,"What is the distance between ""Ambassade d'Irlande"" and ""Paris Bastille"" in the Paris area?",B,1.8,5.98,13.4,2.31
+385,"What is the distance between ""Laxman"" and ""Délit."" in the Paris area?",B,6.73,2.48,4.09,7.46
+386,"What is the distance between ""Délices des milles saveurs"" and ""Saïko"" in the Paris area?",A,1.12,6.43,7.52,8.94
+387,"What is the distance between ""Place Pigalle"" and ""BRED"" in the Paris area?",D,4.64,8.74,7.56,2.29
+388,"What is the distance between ""Centre sportif Bréguet"" and ""École élémentaire Saint-Maur"" in the Paris area?",B,8.67,1.59,6.39,3.95
+389,"What is the distance between ""Avé Maria"" and ""Phenice"" in the Paris area?",D,9.71,9.45,3.46,2.16
+390,"What is the distance between ""Hôpital Tenon"" and ""Sure Hotel"" in the Paris area?",A,3.65,9.1,5.19,1.84
+391,"What is the distance between ""Petits Champs"" and ""Le Petit Gorille"" in the Paris area?",A,4.43,11.08,12.19,9.42
+392,"What is the distance between ""Réservoir des Lilas"" and ""Hôtel de Châtillon"" in the Paris area?",D,2.61,11.29,8.92,3.9
+393,"What is the distance between ""Pharmacie du Marché"" and ""Délice"" in the Paris area?",C,12.7,13.45,6.22,13.41
+394,"What is the distance between ""Presse"" and ""Villa Belleville"" in the Paris area?",D,14.35,12.48,13.58,6.52
+395,"What is the distance between ""Assurance Maladie"" and ""Rosa Bonheur sur Seine"" in the Paris area?",D,2.58,7.68,3.06,5.87
+396,"What is the distance between ""Chez Pradel"" and ""Crèche Collective"" in the Paris area?",C,3.77,7.96,1.97,9.83
+397,"What is the distance between ""Mount Everest"" and ""Les Salons d'Hortense"" in the Paris area?",B,6.9,2.41,10.35,5.0
+398,"What is the distance between ""Musée du Quai Branly - Jacques-Chirac"" and ""Fruttini"" in the Paris area?",A,2.37,8.84,8.79,5.69
+399,"What is the distance between ""Pharmacie Sefiani"" and ""Pharmacie Principale"" in the Paris area?",B,5.82,0.65,3.29,5.51
+400,"What is the distance between ""Groupe Scolaire des Pyrénées"" and ""CFA IGS"" in the Paris area?",A,4.03,1.32,2.47,8.16
+401,"What is the distance between ""Le Tub"" and ""Fontaine Wallace"" in the Paris area?",C,9.72,6.79,3.79,8.63
+402,"What is the distance between ""Résidence Angoulême"" and ""Préfecture de Police"" in the Paris area?",A,2.19,6.62,3.63,8.58
+403,"What is the distance between ""Paris Bastille"" and ""Square des Grès"" in the Paris area?",C,6.74,4.46,3.0,4.84
+404,"What is the distance between ""Michel Servet"" and ""Jardin Jean-Michel Rosenfeld"" in the Paris area?",A,3.42,8.33,7.83,1.29
+405,"What is the distance between ""Kokodak"" and ""Le faubourg"" in the Paris area?",B,6.91,2.14,0.52,5.16
+406,"What is the distance between ""Centre de Vaccinations Tiphaine"" and ""Fontaine d'eau potable"" in the Paris area?",D,4.06,6.24,8.0,1.93
+407,"What is the distance between ""ADA"" and ""Conservatoire"" in the Paris area?",A,1.01,3.58,4.55,5.33
+408,"What is the distance between ""Gastronomique Libanais"" and ""Le Mansart"" in the Paris area?",C,8.79,5.78,3.22,7.1
+409,"What is the distance between ""Lhassa"" and ""Le Tub"" in the Paris area?",D,7.72,4.1,5.16,2.11
+410,"What is the distance between ""Hôtel Paris-Nord"" and ""Presse"" in the Paris area?",D,7.35,3.21,2.83,5.58
+411,"What is the distance between ""École maternelle Jacquier"" and ""Collège Jean-Jacques Rousseau"" in the Paris area?",D,6.13,2.47,13.35,8.6
+412,"What is the distance between ""Riz Djondjon"" and ""Amanie"" in the Paris area?",C,10.57,11.97,5.21,11.77
+413,"What is the distance between ""HSBC"" and ""Bistro Le Centenaire"" in the Paris area?",B,5.27,2.95,6.04,8.98
+414,"What is the distance between ""Earth’K"" and ""École Ganénou"" in the Paris area?",D,12.88,8.66,9.67,5.12
+415,"What is the distance between ""Jardin de la Gare de Charonne"" and ""Hôtel Amelot de Bisseuil"" in the Paris area?",C,9.42,0.87,3.87,8.49
+416,"What is the distance between ""Pink Koï"" and ""Maison Louvard"" in the Paris area?",D,6.12,5.54,4.22,1.37
+417,"What is the distance between ""Hôtel Montana"" and ""Mercure - Paris Bastille"" in the Paris area?",A,3.69,8.81,1.03,7.17
+418,"What is the distance between ""Skate Park - La Dalle"" and ""Miznon"" in the Paris area?",C,9.4,12.62,4.71,5.79
+419,"What is the distance between ""Mairie du 20e arrondissement"" and ""Travaux gare d'Austerlitz"" in the Paris area?",A,3.72,4.91,10.95,6.05
+420,"What is the distance between ""Cantina di Luca"" and ""Le Ballu"" in the Paris area?",A,2.78,4.08,6.86,5.67
+421,"What is the distance between ""Église Saint-Nicolas du Chardonnet"" and ""Ambassade d'Irlande"" in the Paris area?",C,1.4,7.19,5.13,1.12
+422,"What is the distance between ""Gare de Lyon-Diderot"" and ""École maternelle Jacquier"" in the Paris area?",A,4.37,2.81,7.05,10.23
+423,"What is the distance between ""Église Saint-Martin des Champs"" and ""Hôtel Montana"" in the Paris area?",D,5.1,7.1,8.05,1.11
+424,"What is the distance between ""Maison du Sept"" and ""Foyer d'Arenberg"" in the Paris area?",C,0.68,6.44,2.31,9.17
+425,"What is the distance between ""Pharmacie Principale"" and ""Petits Champs"" in the Paris area?",C,10.35,5.02,3.05,8.46
+426,"What is the distance between ""El Inti : Productos Peruanos"" and ""École élémentaire Jean-François Lépine"" in the Paris area?",B,8.59,2.54,7.1,8.14
+427,"What is the distance between ""Le Bistrot De La Place"" and ""OUI FM"" in the Paris area?",B,5.44,0.69,5.7,2.82
+428,"What is the distance between ""Libre & Bon"" and ""Gastronomique Libanais"" in the Paris area?",A,3.41,7.61,9.79,9.84
+429,"What is the distance between ""Le Mozart"" and ""Square Joël Le Tac"" in the Paris area?",C,1.93,5.88,3.59,7.82
+430,"What is the distance between ""BRED"" and ""Avé Maria"" in the Paris area?",B,9.02,5.45,1.73,9.56
+431,"What is the distance between ""Centre de Vaccinations internationales"" and ""Dunya"" in the Paris area?",B,4.28,2.17,8.36,5.94
+432,"What is the distance between ""Compose"" and ""Pasta & Fagioli"" in the Paris area?",C,9.4,6.64,2.61,4.45
+433,"What is the distance between ""Chez Rita"" and ""Au Vieux Colombier"" in the Paris area?",D,11.14,3.56,11.94,5.36
+434,"What is the distance between ""L’Art Maniac"" and ""La Casa"" in the Paris area?",A,3.38,8.31,10.8,6.61
+435,"What is the distance between ""Promenade Thérèse Pierre"" and ""Extension du jardin"" in the Paris area?",C,2.99,2.52,5.99,11.87
+436,"What is the distance between ""Eattos"" and ""Au Son des Guitares"" in the Paris area?",D,6.96,7.78,8.73,3.36
+437,"What is the distance between ""L'UTÈS"" and ""Relais Odéon"" in the Paris area?",C,4.11,5.29,1.55,5.19
+438,"What is the distance between ""Monument commémoratif de la campagne de Tunisie 1942-1943"" and ""Coligny"" in the Paris area?",A,4.89,10.32,3.21,3.13
+439,"What is the distance between ""Institut privé de préparation aux études supérieures"" and ""El Inti : Productos Peruanos"" in the Paris area?",A,1.44,8.26,4.71,3.78
+440,"What is the distance between ""Buste de Frédérick Lemaître"" and ""Tennis Reims - Asnières"" in the Paris area?",D,6.92,0.57,9.53,5.69
+441,"What is the distance between ""Vin & Marée"" and ""Le Reilhac"" in the Paris area?",C,8.41,6.28,4.59,8.81
+442,"What is the distance between ""Le Métro"" and ""Pizza Del Maestro"" in the Paris area?",D,7.13,1.18,5.88,2.77
+443,"What is the distance between ""Pharmacie Choiseul"" and ""Étoile-Wagram"" in the Paris area?",C,6.57,10.62,2.99,5.39
+444,"What is the distance between ""Saint-Ambroise"" and ""Pharmacie Haggiac"" in the Paris area?",A,3.05,9.08,7.65,10.22
+445,"What is the distance between ""Hôpital Croix Saint-Simon"" and ""Esplanade Renée Lebas"" in the Paris area?",B,7.83,2.0,3.93,6.97
+446,"What is the distance between ""Basic Fit"" and ""Le Potager du Père Thierry"" in the Paris area?",A,5.77,9.07,12.53,12.34
+447,"What is the distance between ""Orange Voltaire"" and ""Folie information Villette L9"" in the Paris area?",A,3.4,10.07,5.73,0.64
+448,"What is the distance between ""MGEN"" and ""La Goulette"" in the Paris area?",A,3.15,10.5,8.24,8.79
+449,"What is the distance between ""Kubri"" and ""Pharmacie Goncourt"" in the Paris area?",A,0.8,8.05,4.8,2.71
+450,"What is the distance between ""Restaurant Sidi Rached"" and ""Sushi Star"" in the Paris area?",D,3.45,7.3,3.12,6.07
+451,"What is the distance between ""Lumière"" and ""Le Mozart"" in the Paris area?",A,6.43,1.99,8.1,7.56
+452,"What is the distance between ""Cafe Boca"" and ""L'UTÈS"" in the Paris area?",D,5.07,8.44,8.66,2.23
+453,"What is the distance between ""Maisie café"" and ""SG"" in the Paris area?",B,4.76,1.98,4.86,0.88
+454,"What is the distance between ""Le petit Cervantès"" and ""Salle Pleyel"" in the Paris area?",B,14.07,6.49,4.7,3.6
+455,"What is the distance between ""La Goulette"" and ""Pharmacie Bravo"" in the Paris area?",C,6.66,7.63,2.31,9.34
+456,"What is the distance between ""Blanca"" and ""Ikuzo"" in the Paris area?",C,3.27,1.81,5.3,6.69
+457,"What is the distance between ""Fontaine d'eau potable"" and ""L’Étoile du Kashmir"" in the Paris area?",D,7.38,7.53,7.48,4.68
+458,"What is the distance between ""Square des Grès"" and ""Centre sportif Angélique Duchemin"" in the Paris area?",C,7.93,6.75,1.61,8.2
+459,"What is the distance between ""Les Cercles de la Forme"" and ""Le Cinquante-Huit"" in the Paris area?",C,7.86,5.43,3.03,1.89
+460,"What is the distance between ""Square Florence Blumenthal"" and ""Hôpital Croix Saint-Simon"" in the Paris area?",D,8.26,10.5,1.42,4.2
+461,"What is the distance between ""Liban Bienvenue"" and ""Ursule et Zoé"" in the Paris area?",C,2.1,1.81,4.73,10.53
+462,"What is the distance between ""Crèche Collective Châteaudun"" and ""La Belle Hortense"" in the Paris area?",C,5.88,7.66,2.6,4.83
+463,"What is the distance between ""Maison de l'esport"" and ""Ambassade de Singapour"" in the Paris area?",B,14.13,6.32,8.78,2.97
+464,"What is the distance between ""Afendi"" and ""Cojean"" in the Paris area?",D,3.05,5.43,5.5,0.76
+465,"What is the distance between ""Maison Louvard"" and ""Le petit Cervantès"" in the Paris area?",A,5.29,8.28,2.5,10.71
+466,"What is the distance between ""Dame Jane"" and ""Api Poke Bowl"" in the Paris area?",B,10.93,5.34,12.05,8.86
+467,"What is the distance between ""Amanie"" and ""École privée catholique Sainte-Marguerite"" in the Paris area?",C,13.71,11.86,6.52,8.9
+468,"What is the distance between ""Beer Station"" and ""Brasserie Floderer"" in the Paris area?",A,4.29,6.57,8.26,2.07
+469,"What is the distance between ""La Bonne Composition"" and ""Rodchenko"" in the Paris area?",C,8.39,9.86,3.2,1.36
+470,"What is the distance between ""Ambassade d'Espagne"" and ""Yersin"" in the Paris area?",D,4.99,6.77,8.42,2.87
+471,"What is the distance between ""Centre d'Accueil et de Médiation Relationnelle Educative et Sociale - CAMRES"" and ""Mam'Ayoka Pajol"" in the Paris area?",C,8.87,8.36,1.65,3.39
+472,"What is the distance between ""El Menzel"" and ""Pedzouille"" in the Paris area?",D,3.72,4.63,5.65,1.96
+473,"What is the distance between ""Jouvence"" and ""The Beans on Fire"" in the Paris area?",D,6.46,6.65,1.45,5.07
+474,"What is the distance between ""Travaux gare d'Austerlitz"" and ""École et Collège Modigliani"" in the Paris area?",D,2.55,9.71,6.41,4.52
+475,"What is the distance between ""2R2C Fabrique artistique RueWatt"" and ""Traiteur Chez Madame Lin"" in the Paris area?",C,4.8,4.89,0.8,4.91
+476,"What is the distance between ""Đòong Café"" and ""Michi Ramen"" in the Paris area?",B,5.45,4.11,2.61,11.9
+477,"What is the distance between ""Le bap"" and ""Aux Lyonnais"" in the Paris area?",C,9.83,10.53,2.86,8.87
+478,"What is the distance between ""Le Bar à sushi Izumi"" and ""Tokyotori"" in the Paris area?",C,1.91,1.51,3.82,1.08
+479,"What is the distance between ""Martine Lambert"" and ""Riz Djondjon"" in the Paris area?",B,8.56,3.65,4.75,8.82
+480,"What is the distance between ""Typica"" and ""Le Paris Paris"" in the Paris area?",C,7.62,7.27,2.44,9.73
+481,"What is the distance between ""Le Reilhac"" and ""Le Comptoir du Relais"" in the Paris area?",B,1.35,2.53,8.49,8.12
+482,"What is the distance between ""Bistro Le Centenaire"" and ""Sessad Le Passage"" in the Paris area?",B,11.11,5.13,8.75,10.79
+483,"What is the distance between ""Le Petit Gorille"" and ""Mina Mahal"" in the Paris area?",D,8.52,8.42,6.27,1.44

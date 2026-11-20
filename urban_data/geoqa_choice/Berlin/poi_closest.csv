@@ -1,0 +1,224 @@
+id,question,answer,A,B,C,D,E
+0,Which of the following POIs is closest to POI Sportsbar located in the Berlin area?,B,Curry 36,Kupferkanne,Vietin Bank,Divabar,Fine Turbine
+1,Which of the following POIs is closest to POI TING-Schule located in the Berlin area?,C,Shell,Tqijiquan,El Pasto,ATZ Therapie,Kita Cheburashka
+2,Which of the following POIs is closest to POI Buffalo Grill located in the Berlin area?,B,Paracas,Apotheke am Adenauerplatz,Ruthje,La Bocca di Culaccino,Praxis für Radioonkologie und Strahlentherapie
+3,Which of the following POIs is closest to POI Zero Stress Pizza located in the Berlin area?,D,GleisBeet,Janine Bräuer,Arrow Tag Berlin,Gemeinschaftspraxis LP10,Beat81
+4,Which of the following POIs is closest to POI Mother's Heart located in the Berlin area?,D,Tierärzte-Kreuzberg,Reisebank,Hai Coffee,Santa Maria,Orthopädie Kreuzberg
+5,Which of the following POIs is closest to POI Randori located in the Berlin area?,D,Detmolder Hausärztliche Gemeinschaftspraxis,Shell,Benedict,Fahrschule Aras,Slumberland
+6,Which of the following POIs is closest to POI Kinderladen Yong (EKT) located in the Berlin area?,E,Kita des Ev. Kirchenkreises Neukölln,EKT - Puck e.V.,Schönes Café,Janine Bräuer,Donau 115
+7,Which of the following POIs is closest to POI Kumpir located in the Berlin area?,D,Eisderix,Masha’s,Pony-Saloon,Paşa Lounge,Kletterholz
+8,Which of the following POIs is closest to POI Pizza Star located in the Berlin area?,D,Sabine Pohlentz,Tortuga Cycles & Café,Jasper's,Galbi-House,Bösebrücke
+9,Which of the following POIs is closest to POI Berliner Marcus Bräu located in the Berlin area?,E,Parzelle der Stadtmacher China/Deutschland,Brewdog Mitte,Kaffe,Schinkel Bar,Angry Chicken
+10,Which of the following POIs is closest to POI VBB-Fahrkarten located in the Berlin area?,A,Deutsche Bahn,Grenzeck,Oderquelle,BornhomZwei,Interkulturelles Zentrum für Dialog und Bildung e.V.
+11,Which of the following POIs is closest to POI E-Werk located in the Berlin area?,E,Westberlin,Gimme Gelato,Berlin Pavillon am Reichstag,Baret,La Via del Muro
+12,Which of the following POIs is closest to POI Dr. Ingrid Ispas located in the Berlin area?,E,Spendenbrücke Ukraine,Café Schmus,Joseph Roth Diele,Mala Junta,Café Samsun
+13,Which of the following POIs is closest to POI The Coffee Man located in the Berlin area?,D,Agip,Creative Atelier,Meeet-Mitte,Orient Station,Milano
+14,Which of the following POIs is closest to POI La Gino located in the Berlin area?,C,Raum der Stille,Prinzeneck,betahaus,Gründungsbrunnen,Museumsrestaurant Anhalt
+15,Which of the following POIs is closest to POI The Yard located in the Berlin area?,D,Curry at the Wall,Mom's Kitchen,Tante Fichte,Mahlzeit Kreuzberg,Exchange AG
+16,Which of the following POIs is closest to POI Luise located in the Berlin area?,A,Café Butter,Brotfabrik,FLAX,45057,Casa Fantasia
+17,Which of the following POIs is closest to POI Chén Ché located in the Berlin area?,D,Meindentist,Postbank,Restaurant Grenzfall,John & Jane‘s,Orthopädische Praxis Mitte
+18,Which of the following POIs is closest to POI Forum Café located in the Berlin area?,A,Baret,Curry at the Wall,Merlin-Apotheke,Bäckerei Bacco,Mizu Ramen
+19,Which of the following POIs is closest to POI Das Versteck located in the Berlin area?,A,Ebe Ano,Eiscafé Monheim,The Bar Fox,Euronet,Persepolis
+20,Which of the following POIs is closest to POI Candyman located in the Berlin area?,B,studio4a,Victoria,A-Arbeitsmedizin,Zum Paddenwirt,EKT - Erdnuckel e.V.
+21,Which of the following POIs is closest to POI Rappelkiste located in the Berlin area?,A,Cafe Fräulein Dietrich,Thakali Haus,Mesopotamia,Total,Lucca
+22,Which of the following POIs is closest to POI Cafe Palladin located in the Berlin area?,B,HaiWays,Ashtanga Yoga Schule,CJD Berlin,Trödelmarkt John-F.-Kennedy-Platz,Berlinchen City
+23,Which of the following POIs is closest to POI LAP Coffee located in the Berlin area?,B,Ebert,Phở Nguyên 68,Genki-Sushi,Evangelische Kita St. Ursula,Hauskrankenpflege Dietmar Depner
+24,Which of the following POIs is closest to POI The Wash Bar located in the Berlin area?,B,Jute Bäckerei,Puffle Bees,Fraunhofer Institut für Zuverlässigkeit und Mikrointegration,The Grand,Café Flora
+25,Which of the following POIs is closest to POI Melita located in the Berlin area?,C,Snackpoint,Balli Restaurant,Burgees Smashburger,Märchenbrunnen,Stella Diskret
+26,Which of the following POIs is closest to POI Postbank located in the Berlin area?,E,Pho Co,Tröpfelbrunnen,Tajj Of India,noisy Rooms,Tropica Grillhaus
+27,Which of the following POIs is closest to POI IV located in the Berlin area?,E,Anne Schmidt,Euronet,Apotheke am Friedrichshain,Mama Vân,Weinberg
+28,Which of the following POIs is closest to POI Spiel & Sport located in the Berlin area?,D,Gül Bistro,Balli Restaurant,Snackpoint,Neukölln Camii,Bärenbrunnen
+29,"Which of the following POIs is closest to POI Bildagentur für Kunst, Kultur und Geschichte located in the Berlin area?",C,Café Nea,Kleine Schwester,Müsterek meyhane,Café im Bode-Museum,Zentrale 31
+30,Which of the following POIs is closest to POI Sparkasse located in the Berlin area?,C,Indian Dhaba Mira,Ristorante Bocca Felice,Kottbusser Tor,Ökomarkt am Südstern,Cafe Martha
+31,Which of the following POIs is closest to POI Smile Shine located in the Berlin area?,B,Kinderland,Ebe Ano,Persepolis,petrocelli,W. Vetter
+32,Which of the following POIs is closest to POI Unsere Apotheke located in the Berlin area?,B,Da Giorgio,Dr. Kazak,Baharat Falafel,Shell,Die Glückstupfen
+33,Which of the following POIs is closest to POI Crafterie located in the Berlin area?,C,Happylab Berlin,Einfahrt West,Hauptstadt Crossfit,Schalenbrunnen,Back & Food
+34,Which of the following POIs is closest to POI März located in the Berlin area?,A,Dolce Freddo,Bornholm's Gartenlokal,World of Pizza,Gemeinschaftspraxis Arkonaplatz,Adar Kebap & Pizza
+35,Which of the following POIs is closest to POI Cafe Aroma located in the Berlin area?,E,Deutsches Rotes Kreuz,Taverna Athene,Burger King,Ahenam,Iyengar Yoga Zentrum
+36,Which of the following POIs is closest to POI Avicenna Klinik located in the Berlin area?,B,Brikz,Gabiko,Birkeneck,Lenhardt,Josephinen Apotheke
+37,Which of the following POIs is closest to POI Aral located in the Berlin area?,D,Freudberg,Postbahnhof,Supreme Black Rental Cars,Fahrschule F36,Christa Kupfer
+38,Which of the following POIs is closest to POI The Mood Burger located in the Berlin area?,B,Geist im Glas,Bi Nuu,The Fizz,Laser Limbo,Aprilkind
+39,Which of the following POIs is closest to POI Kit Kat Club located in the Berlin area?,C,KreativitätsGrundschule Berlin-Friedrichshain,Amazon Hub Locker Dagame,Melancholie 2,Shi-Mai,Marktlokal
+40,Which of the following POIs is closest to POI F!sh&Ch!ps located in the Berlin area?,E,Goodtime,Yoga Hub Berlin,Holzmarkt25,Schokoladen,Pergamon
+41,Which of the following POIs is closest to POI Orient Eck located in the Berlin area?,D,Allego,Das Hoven,7 Schwestern,Casino 36,Andreas-Kirchsaal
+42,Which of the following POIs is closest to POI Orthomed Berlin located in the Berlin area?,A,Bartholomäus Gabrys,Wochenmarkt Koppenstraße,EagleCoach,Shiatsu Schule Kreuzberg,Tierarztpraxis Laskawy
+43,Which of the following POIs is closest to POI Sumi located in the Berlin area?,D,Raphael Will,Safran Grill,Haus der Schlange,KuBIS gGmbH,Elementblock (Elementwürfel)
+44,Which of the following POIs is closest to POI Shapesty located in the Berlin area?,D,Brandenburger Tor,Caffè Focacceria San Francesco,Bundesnachrichtendienst,sunu,Brauhaus Georgbräu
+45,Which of the following POIs is closest to POI OP-Zentrum Spichernstraße located in the Berlin area?,A,Kids Fun Palace,Mr. Chai Wala,Hotel Interconti,Weisse Rose,Sensual Massage
+46,Which of the following POIs is closest to POI Haba Digitalwerkstatt located in the Berlin area?,D,Euronet,Käfer Dachgarten-Restaurant im Deutschen Bundestag,Kita Kindersorpresa,Nhat Long,Ngon
+47,Which of the following POIs is closest to POI City Quartier Dom-Aquarée Berlin Radisson Collection located in the Berlin area?,D,republik-berlin,Hotel Kubrat,Marral,Radisson,Kapelle
+48,Which of the following POIs is closest to POI Café Pförtner located in the Berlin area?,E,EKT Eisbär,"""Die Arche""",Public City,GSG Parkstrom,The Base
+49,Which of the following POIs is closest to POI Marjellchen located in the Berlin area?,D,Via Nova,Restaurantschiff Capt'n Schillow,Pad Thai,QBA,Biss45
+50,Which of the following POIs is closest to POI Sushi Yana located in the Berlin area?,B,Blue Nordic Coffee,Berliner Bier-Akademie,Yoga Vidya Center Berlin-Wilmersdorf,Brikz,King George
+51,Which of the following POIs is closest to POI Euronet located in the Berlin area?,B,Kos House,Sabine Quack,Zaza Mittagstisch,Zahnarzt Dr. Kalinke,Gasthaus Parkblick
+52,Which of the following POIs is closest to POI Berliner Volksbank located in the Berlin area?,D,i-café,De Santi,Cicchetti da Rosa (Salumeria Rosa),Fitness First,Lancini
+53,Which of the following POIs is closest to POI Gloria Event Center located in the Berlin area?,A,Charlotte I,Obentrautstraße / Möckernstraße,The Greens,Van Loon,India Club Restaurant
+54,Which of the following POIs is closest to POI Kleine Kneipe located in the Berlin area?,A,Schneiderei,Alexa Mittenzweig / Dr. med. Suresh Naidu,Hot Dog,Die Schule,freude
+55,Which of the following POIs is closest to POI Al-Faruk located in the Berlin area?,D,T.viet,Primitiv Bar,Viktoria-Bad Damensauna,Sonkei,Denizen
+56,Which of the following POIs is closest to POI Supreme Beef located in the Berlin area?,D,Fine Turbine,Mishba,Möllendorff-Apotheke,Adanus,Dr. med. Ayhan Dogan
+57,Which of the following POIs is closest to POI Imren located in the Berlin area?,E,Allego,Falafel Dream 2010,Flink,LAFLAVA,Tropical Cocktail
+58,Which of the following POIs is closest to POI PD Dr. med. W. E. Platz located in the Berlin area?,C,Poseidon,Berliner Toilette,Wolfs Inn,Dr. med. Gisela Fuß,Marshall-Haus
+59,Which of the following POIs is closest to POI Försters located in the Berlin area?,B,Schwarze Pumpe,Euronet,Amazon Hub Locker,die Brücke,EMS Sport und Bewegung
+60,Which of the following POIs is closest to POI Spreeblick located in the Berlin area?,A,Zille-Destille,Innogy,Berliner Wappen,Euronet,The Dry Gin and Beef Club
+61,Which of the following POIs is closest to POI Kame located in the Berlin area?,A,Bar96,Gasthaus Stelzeneder,Kita Beerenkinder,Coffeebar am Audimax,Zum Landsknecht
+62,Which of the following POIs is closest to POI Kamala located in the Berlin area?,B,Brandenburger Tor,Humboldtbar,Bundesnachrichtendienst,Escape Zone Berlin,Caffè Focacceria San Francesco
+63,Which of the following POIs is closest to POI My moon located in the Berlin area?,A,Raum für Kultur Dialog und Bildung,Cafe Luise,Bistro Femo,Elterninitiativ-Kindertagesstätte am Schillerpark,Die Arche
+64,Which of the following POIs is closest to POI Mescidi Aksa Camii located in the Berlin area?,E,"Fahrbibliothek Berlin-Mitte, Rudolf-Wissell-Grundschule",Marc Leetz,Bar Lenciaga,Kita Fidibus,Al-Daz
+65,Which of the following POIs is closest to POI K6 located in the Berlin area?,C,"Wohnheim, Soziale Wohnhilfe",Neptunbrunnen,Bull,Café am Kulturforum,Mein Freund Harvey
+66,Which of the following POIs is closest to POI Himalaya located in the Berlin area?,B,Salumeria Rosa,Amor Pflegedienst,Japanese Summer Food Pop Up Store,ESCP Bibliothek am Campus Berlin,Petersburg Art Space
+67,Which of the following POIs is closest to POI Berliner Kriminaltheater located in the Berlin area?,D,Beat81,JOHN REED Fitness,The Fizz,Umspannwerk Ost,Kita der Ev. Kirchengem. Bartholomäus
+68,Which of the following POIs is closest to POI Quanto Basta located in the Berlin area?,C,Praxis Dr. Birkner,KITA Kaiser-Friedrich-Straße,Spielsalon,Berlin International University of Applied Sciences,Feast
+69,Which of the following POIs is closest to POI Club Lala 203 located in the Berlin area?,C,Beef Fabrik,Brunnen Kranoldplatz,KOR,EKT - Kita am Karpfenteich /Clara Petudio e.V.,"Dr.med. Irmgard Wiecha, Augenheilkunde"
+70,Which of the following POIs is closest to POI KD-Bank - Bank f. Kirche u. Diakonie located in the Berlin area?,D,Mutter Hoppe,Reichstag,Gleis 11,La femme,Amazon Hub Locker
+71,Which of the following POIs is closest to POI Trancina located in the Berlin area?,A,Willis,elf Gaststätte,Amazon Hub Locker,Dent GmbH Zahntechnisches Labor,Lemon Grass Scent
+72,Which of the following POIs is closest to POI Bar Tolucci located in the Berlin area?,C,Das Büdchen,Pretty Hill,Tierarztpraxis Dr. med. vet. Gerald Schmid,Kita der Ev. Kirchengem. Kaiser-Wilhelm-Gedächtnis,Kaplan
+73,Which of the following POIs is closest to POI Sunshine located in the Berlin area?,E,Coda,ver.di Kantine,Grüne Apotheke,I Kän Rad,Classic
+74,Which of the following POIs is closest to POI Nonna's located in the Berlin area?,E,Restaurant im Hamburger Bahnhof,The Barn,KreuzBurger,Spätzle-Club,Restaurant Nolle
+75,Which of the following POIs is closest to POI Seume-Apotheke located in the Berlin area?,A,Süß war gestern,soulbay Berlin,HAPPA,Theater an der Parkaue,Acapulco
+76,Which of the following POIs is closest to POI Wie zuhause in Italien located in the Berlin area?,E,Nina Turtschak-Liwschitz,Coffee Drink Your Monkey,Kita Raduga,Kleine Charlotte,Kindercafé Wunderland
+77,Which of the following POIs is closest to POI Lookma Berlin located in the Berlin area?,C,Kleine Freiheit,Kumpir Club,Casino 36,MASTAN,Andreas-Kirchsaal
+78,Which of the following POIs is closest to POI Stadtbad Oderberger Straße located in the Berlin area?,A,Kaminbar,Sword Master Noodle,Aki Tatsu,Melis Coffee,Kalle
+79,Which of the following POIs is closest to POI Wilde Hummeln located in the Berlin area?,A,Bistro Femo,Kinderwunschpraxis am Innsbrucker Platz,Cafe Pinjo,Hey Schnecke,Rudi's Fahrschule
+80,Which of the following POIs is closest to POI Tresen-Treff located in the Berlin area?,D,El Caracol,Martin Moldrzyk,Stagger Lee,Magic Bite,Georg
+81,Which of the following POIs is closest to POI Dr. med. Katharina Kräutlein located in the Berlin area?,A,Laser Skin,Öffentliche Toilette,Tavernaki Ousia Privatrestaurant,Billardaire,Kantine WZB
+82,Which of the following POIs is closest to POI The Mood Burger located in the Berlin area?,E,Shell Recharge,St. Michaels Restaurant,Sin City Tabledance,Palais am Funkturm,Tanzschule Traumtänzer
+83,Which of the following POIs is closest to POI Artistania Atelier located in the Berlin area?,A,Plattenladen,EGO Cafe bar,Kinderladen Knulp,Blaue Stunde Tagesbar,Kulturhaus Bouché e.V.
+84,Which of the following POIs is closest to POI Café Viet Nam located in the Berlin area?,D,Buddhistisches Zentrum Bodhicharya Deutschland e.V.,Libero,Familienbegegnungsstätte Lichtenberger Brücke Berlin,Seniorenzentrum Haus am Leoperplatz,Barg
+85,Which of the following POIs is closest to POI Fahrschule Freundl located in the Berlin area?,C,Apotheke in der Metropole,Kinderladen Lilo Leopard,Caritas Berlin,Werner-Bockelmann-Haus,Nachbarschaftshaus
+86,Which of the following POIs is closest to POI Fleury Café Epicerie located in the Berlin area?,A,Beat81,TU Berlin Fachgebiet Kraftfahrzeuge,Weekend Club,Fischfabrik,Grill Royal
+87,Which of the following POIs is closest to POI Nutela Rosé located in the Berlin area?,E,Satt & Glücklich,Kita des Ev. Kirchenkreises Neukölln,Schönes Café,Janine Bräuer,Familienpizza
+88,Which of the following POIs is closest to POI Korn & Karamell located in the Berlin area?,C,Das Büdchen,Berliner Bier-Akademie,Tierarztpraxis Dr. med. vet. Gerald Schmid,Burger & Döner City,Pretty Hill
+89,Which of the following POIs is closest to POI Subhero located in the Berlin area?,B,BLOCK HOUSE,Tune Up,Urbayn,Fürst Bismarck Apotheke,Mirbach
+90,Which of the following POIs is closest to POI Ein Moment located in the Berlin area?,C,"Hals-, Nasen-, Ohrenheilkunde",Kinderpraxis Denise Bosch Rosa,35 services,Magnet MVZ Berlin,Restaurant im Futurium
+91,Which of the following POIs is closest to POI Carl's located in the Berlin area?,E,Zahnarztpraxis Heidt,Paul und Klärchen,Green Door,Dedem,Mr. Gyros
+92,Which of the following POIs is closest to POI Gemeinschaftspraxis Dr. med. Pustelnik located in the Berlin area?,A,Berliner Volksbank,Diakonisches Werk Berlin e.V.,Gimme Gelato,CODE University of Applied Sciences,Good Morning Coffee
+93,Which of the following POIs is closest to POI Himali located in the Berlin area?,C,ev. Kita Viktoria-Luise,Café ParkGenuss,Mela,Steinskulptur und Brunnen,Back Baron
+94,Which of the following POIs is closest to POI MVZ Gesundbrunnen located in the Berlin area?,C,Maczey,LAFLAVA,Dafne Apotheke,Falafel Dream 2010,Allego
+95,Which of the following POIs is closest to POI Loco Chicken located in the Berlin area?,D,Café to Go,Billard House,Fine Turbine,Praxis PERLE,Lang Van
+96,Which of the following POIs is closest to POI MotionLab.Berlin located in the Berlin area?,B,Die Hand,Urban Street Gym,Hotpot & Nudeln Kreuzberg,Bar 51,Paramount Fitness
+97,Which of the following POIs is closest to POI Zille Stube located in the Berlin area?,B,Pizza Hut,Spreeblick,Berliner Wappen,Malu,Innogy
+98,Which of the following POIs is closest to POI N25 located in the Berlin area?,E,Café Laelia,Lernraum,Rodi,Perlin,tanzApartment Studio
+99,Which of the following POIs is closest to POI Slice Society located in the Berlin area?,D,Electric Social,Adonia,Kulturbrauerei,lê lê,Media University
+100,Which of the following POIs is closest to POI Creperie im Nikolaiviertel located in the Berlin area?,E,Bistro Medina,X-Terrain,Berliner Wappen,Las Malvinas,Zum Nußbaum
+101,Which of the following POIs is closest to POI Öz Samsun located in the Berlin area?,A,Ria,ZweiMalVier,Blaue Stunde Tagesbar,Praxis Khalaf,Fliegendes Theater
+102,Which of the following POIs is closest to POI Belushi's Berlin located in the Berlin area?,C,Kinderhaus Berlin-Mitte,Fahrschule Grip,1820,Immertreu,Theater im Palais
+103,Which of the following POIs is closest to POI Der Cupcakeladen located in the Berlin area?,C,Mala Junta,Sperantza,Mattea,Kumpelnest 3000,Zentrum für Bewegung und Heilwege am Park
+104,Which of the following POIs is closest to POI luzia located in the Berlin area?,B,Orthopädie Kreuzberg,Santa Maria,L 18,Hai Coffee,Foto.fix fotoautomat
+105,Which of the following POIs is closest to POI McDonald's located in the Berlin area?,C,Die Biber KBS e.V.,Volkshochschule Reinickendorf,Libanesischer Imbiss,Reisebank,Deutsche Bahn
+106,Which of the following POIs is closest to POI Kame located in the Berlin area?,B,Dr. Feick,good q,Rathaus/Mitte,Bistro DönerWerk,Käfer Dachgarten-Restaurant im Deutschen Bundestag
+107,Which of the following POIs is closest to POI Döner & Köfte located in the Berlin area?,D,Imbiss,Schöneberger Kuschelbärchen,cielo di berlino,Schöneburger,Ibero-Amerikanisches Institut
+108,Which of the following POIs is closest to POI Stadtteilladen Zielona Góra located in the Berlin area?,E,Bonsoir Frühstückscafé,burgerme,Private Roof Club,Verschenkebox,Mokofuk
+109,Which of the following POIs is closest to POI EFX Sport-Gruppe - Fitness located in the Berlin area?,E,Zad,Deutsche Bahn,Tapas y más,Ulle,Hoftheater Kreuzberg
+110,Which of the following POIs is closest to POI Street Players located in the Berlin area?,A,Rosa und Karl - Sozialistisches Lokal,Zum Krokodil,Dr. med. Wolfgang Heckmann,Edible Alchemy,Aral
+111,Which of the following POIs is closest to POI Car Wash 36 located in the Berlin area?,A,Tangotanzen macht schön,Cafe Martha,TT inside,KollektivBar ES,Sandwich Art
+112,Which of the following POIs is closest to POI Euronet located in the Berlin area?,E,A Cabana,Kindergarten Gerne Gross,Amazon Hub Locker,Galão A Pastelaria,Maria Bonita
+113,Which of the following POIs is closest to POI Europasalon located in the Berlin area?,B,Krötenbüblein,Vulkan Stern,Cafe Aroma,Vets for cats,Kunstbibliothek
+114,Which of the following POIs is closest to POI Birgit Landgrebe located in the Berlin area?,A,Magic Bite,Laser Skin,Deutsche Bahn,Andreas Kretschmer,Kuchen Zeit
+115,Which of the following POIs is closest to POI Enefese located in the Berlin area?,D,Gaststätte am Kreuzberg,La Sardegna,Ambulantes Pflegerisches Zentrum,Lucca,Osteria Caruso
+116,Which of the following POIs is closest to POI Gap located in the Berlin area?,E,The Meat,Wulle,Star,Dres. Gertz & Focke,Bungs
+117,Which of the following POIs is closest to POI Café Carşı located in the Berlin area?,B,Goodies,KOR,Ä,Regionalmarkt am Kranoldplatz,Zum Nussbaum
+118,Which of the following POIs is closest to POI ADAC Café located in the Berlin area?,C,Berliner Volksbank,Fahrschule Tempo,Kia Chi,La Caleta,Zahnarztpraxis Herrn
+119,Which of the following POIs is closest to POI Vino e Libri located in the Berlin area?,C,Kamala,Kim999,Guice,Jasmin Apotheke,Maison Viet
+120,Which of the following POIs is closest to POI Hey Schnecke located in the Berlin area?,D,LAP coffee,Bistro Femo,Romero,EKT - Dachsbau,Café Mom & Son
+121,Which of the following POIs is closest to POI Friedrich-Wilhelm Apotheke located in the Berlin area?,C,MO.VE,Praxis am Volkspark Schöneberg,Dr. med. Cornelius J. Rottacker,Fahrschule Fahrpraxis,Flemmi
+122,Which of the following POIs is closest to POI John Reed Bötzow located in the Berlin area?,C,KreativitätsGrundschule Friedrichshain,Euronet,Augustiner auf Bötzow Wirtshaus,Berliner Dom,Kunsthaus
+123,Which of the following POIs is closest to POI Gorillas located in the Berlin area?,E,Ilona Reh,Molly Malones,republik-berlin,Lecko'Mio,Mac's Kebap
+124,Which of the following POIs is closest to POI Lotos Yoga Berlin - YOGA LOFT located in the Berlin area?,E,Final Bistro,Studentenclub Schlauch,Barrel Weinbar,Augen-Tagesklinik,Golden Fleece
+125,Which of the following POIs is closest to POI Nea Knosso located in the Berlin area?,C,Fahrschule Fahrpraxis,Knopf & Knöpfchen,Dr. med. Carola Stein,Der Neue Oldtimer,Bass Restaurant
+126,Which of the following POIs is closest to POI Kugelbrunnen located in the Berlin area?,E,Illuminati Escape,New Asia Food,Kuchel Eck,Top Ten Budo Akademie,Dunkin'
+127,Which of the following POIs is closest to POI Bodhicitta located in the Berlin area?,D,Einstein Kaffee,Kita ZwergNasen,Gemeinde Gierkezeile,Fuwa Fuwa,Kids Fun Palace
+128,Which of the following POIs is closest to POI weRK36 located in the Berlin area?,A,Shell,Aral,Dirk Trimpe,Bella Italia,Blues Garage
+129,Which of the following POIs is closest to POI Der Alte Fritz located in the Berlin area?,A,Tudo,Pizza Max,Z-Bar,Chupenga,Fitzroy
+130,Which of the following POIs is closest to POI Bu Kon located in the Berlin area?,A,Popel Bühne,Marco Michael,torten & schnittchen,Napoljonska,Piano e.V.
+131,"Which of the following POIs is closest to POI Dr. Ewa Noutsias, Ehet Yenice located in the Berlin area?",A,OsteoPro,Resonanz,Fahri;Fee,General Post Office,Patientenbibliothek
+132,Which of the following POIs is closest to POI Trio located in the Berlin area?,C,Kita Zwergenbaude I,Apotheke am Strausberger Platz,Bar 3,Forum Café,Jasper's
+133,"Which of the following POIs is closest to POI Kompetenzzentrum für Zahnimplantate, Herr Dr. Gutsche & Kollegen located in the Berlin area?",D,Westberlin,Fotofix,Food Lounge Berlin,Das Kaffeehaus,Back & Cafe Flott
+134,Which of the following POIs is closest to POI Davaajargal Yumjee Mätz located in the Berlin area?,A,The Door,Clinica Vita,Sing-Le,Harald Genieser,Bootsverleih Neuer See
+135,Which of the following POIs is closest to POI Medizin mobil Nord located in the Berlin area?,B,Orient Academy,Dr. med. Uta Siegel,Kita Estrellitas,Elisas Sex Kino Berlin,Trattoria Italiano
+136,Which of the following POIs is closest to POI Terrazza Portofino located in the Berlin area?,D,Kinder- und Jugend-Beteiligungsbüro,Salon Babette,Chirurgische Praxis Hofmann & Wierth,Volkskammer,Dr. Weibrecht
+137,Which of the following POIs is closest to POI dolce located in the Berlin area?,C,Zum Paddenwirt,Raum der Stille,Keyser Soze,Black Coffee,Friendly Society Berlin (Kulturkaufhaus)
+138,Which of the following POIs is closest to POI Vaust located in the Berlin area?,E,House of Healing Café,Blunck Pâtisserie,nau,Café con Amore,Union Jack The Whisky Pub
+139,Which of the following POIs is closest to POI Club Amor located in the Berlin area?,A,Ärztinnen Friedrichshain - Gemeinschaftspraxis Dr. med. Antonia Schmid und Katrin Stöber,Cafe Palme,Ekstase Massagesalon,Familienzentrum FUN,The Room
+140,Which of the following POIs is closest to POI Café Köstlich located in the Berlin area?,C,Vereinshaus Bahn-Landwirtschaft Charlottenburg,Sophie / Spandau,Answer,Kinderladen Charlottenburg,Dr. med. Rolf Uhlig
+141,Which of the following POIs is closest to POI Hellas Feinkost located in the Berlin area?,D,Qui 31,Walle,Frau Bünger macht Mittag,Clara Vere,Joli Cafe
+142,Which of the following POIs is closest to POI Aftab located in the Berlin area?,C,Waldorfkindergarten Wedding,Euronet,Yedo,Sword Master Noodle,Vineria Carvalho
+143,Which of the following POIs is closest to POI Mamida located in the Berlin area?,C,torten & schnittchen,Arztpraxis Driesener Straße,Bu Kon,Vino e Libri,Max & Moritz
+144,Which of the following POIs is closest to POI Cobui located in the Berlin area?,E,Eisfee,Kinderladen Großstadtpflänzchen,Knopf & Knöpfchen,Kleine Knöpfe,Sarah Scheiner
+145,Which of the following POIs is closest to POI La Femme located in the Berlin area?,E,Kvartira Nr. 62,Pflegedienst Mitte,Pyramidengarten,Moghul Rikschas,Viktoria-Bad Damensauna
+146,Which of the following POIs is closest to POI Unikum located in the Berlin area?,B,Amigo,ambulante dienste e.V - Beratungsbüro West,Maria,Kita el caracol/gestaltpäd. Kindergarten e.V.,Witty's
+147,Which of the following POIs is closest to POI Magic Bite located in the Berlin area?,B,Green Door,Mr. Gyros,EKG - Detmolder Straße 17,El Caracol,Viet Kitchen
+148,Which of the following POIs is closest to POI The Small Garden located in the Berlin area?,E,Hähnchenhaus,Museumsrestaurant Anhalt,Hopfingerbräu im Palais,Café zur Alten Zicke,world of gaming
+149,Which of the following POIs is closest to POI Carlotta Bar located in the Berlin area?,B,Regenbogenhaus,Dr. Heike Wachtel,Egon-Erwin-Kisch-Bibliothek,Crêpes à manger,Euronet
+150,Which of the following POIs is closest to POI Fadi located in the Berlin area?,E,EKT Nervensägen,Innogy,Zahnklinik Medeco,Ziyade,Your Best Shot
+151,Which of the following POIs is closest to POI Interkulturelles Haus Pankow located in the Berlin area?,E,Zum Gesundbrunner,Allego,Berliner Sparkasse,BGFF,Freie Grundschule Pfefferwerk
+152,Which of the following POIs is closest to POI Masculine - Dr. med. Aref Elseweifi located in the Berlin area?,B,Walter; Inge,WonderWaffel,Cafe Lounge,Kinderladen Knulp,Blaue Stunde Tagesbar
+153,Which of the following POIs is closest to POI Katharina Keil located in the Berlin area?,E,Mis Kebap,Mmaah,Zum Frosch,Be-Emobil,AnCom Kitchen
+154,Which of the following POIs is closest to POI Le Bar Tabac located in the Berlin area?,C,DHL Packstation,Bikram Yoga Berlin-Mitte,Schmerzzentrum Berlin,Kinder- und Jugendbereich im Olof-Palme-Zentrum,Atopia Berlin
+155,Which of the following POIs is closest to POI Jägerstr./ Friedrichstr. located in the Berlin area?,C,Rivabar,Möwenbrunnen,Exclusive Coffee,Restaurant im Futurium,Integrationsfachdienst Mitte
+156,Which of the following POIs is closest to POI kaffeebar located in the Berlin area?,B,Hausarztpraxis Christine Müller,Absinth,Hajo Hantel,Lola's Tapas,Euronet
+157,Which of the following POIs is closest to POI Jatz located in the Berlin area?,D,Praxis Hofrichter,UUU,Kinderladen Klapperkiste,Zen Zentrum Berlin,TU Berlin Institut für Bauingenieurwesen
+158,Which of the following POIs is closest to POI Eis Bar located in the Berlin area?,B,Kita Bienchen,Bronco Caffee,Studio House Berlin,Z-Bar,Süßfein
+159,Which of the following POIs is closest to POI Radiologie Berlin-Mitte located in the Berlin area?,A,McFit,Himmel 8,BowlingCenter am Alexanderplatz,Reichtumsuhr,Naturerfahrungsraum Robinienwäldchen
+160,Which of the following POIs is closest to POI Vulkan Stern located in the Berlin area?,D,Imren Grill,Overslize Pizza,Fahrschule Rainer Sperling,Falafel Dream 2010,Ya Hala
+161,Which of the following POIs is closest to POI Rotbohnen located in the Berlin area?,E,Madame Ngo,Salumeria Rosa,Petersburg Art Space,ESCP Bibliothek am Campus Berlin,Zur Mieze
+162,Which of the following POIs is closest to POI Suppeto located in the Berlin area?,A,Kieztreff Koepjohann,Schule bei der Botschaft der Russischen Föderation,Exit Game,Coron & Bar,Kinder- und Jugendclub go
+163,Which of the following POIs is closest to POI Toms Wurst located in the Berlin area?,B,Kunkel,Boyberry Berlin,Restaurant M,Celbis,Einstein Kaffee
+164,Which of the following POIs is closest to POI Fit T9 Frauenfitness located in the Berlin area?,B,City Kino Wedding im Centre Français,Annette Voeste,U Reinickendorfer Straße,Affengruppe,Gelbes Schloss
+165,Which of the following POIs is closest to POI Humboldt-Apotheke located in the Berlin area?,A,Artedoc,Vera-Brittain-Ufer,Fotofix,Praxis für Augenheilkunde Dr. Claudia Scherer & Kollegen,MeinDentist
+166,Which of the following POIs is closest to POI Malakeh located in the Berlin area?,E,Grillstation,Leckerback Café,Mabuhay,Katzbachpiraten,Alte Forno Cafe
+167,Which of the following POIs is closest to POI Kinderladen Mainzelmännchen located in the Berlin area?,B,Jaro Theater,Paul und Klärchen,Robbengatter,Kinderladen Trotzköpfchen,Shell
+168,Which of the following POIs is closest to POI Buck & Breck located in the Berlin area?,B,El Rief,Makerspace,Frittenwerk,Kantine im Berliner Ensemble,Schneiders Filmclub
+169,Which of the following POIs is closest to POI Café Liebling located in the Berlin area?,D,Thai Sushi & More,cafézinho espresso-bar,Kühlspot Social Club,Höschen,Euronet
+170,Which of the following POIs is closest to POI Salumeria Veneto located in the Berlin area?,B,Hot Spot,Berliner Eisbär,Byblos,Kieser Training,Das Büdchen
+171,Which of the following POIs is closest to POI Tagesbar located in the Berlin area?,C,Zum Dortmunder,Spreepferdchen Waldorforientierte Kita,eyemed Berlin,Yangguofu,Berliner Volksbank
+172,Which of the following POIs is closest to POI Habibi located in the Berlin area?,E,AHA-Berlin e.V.,therapiezentrum working motion physio/ergo,L'Osteria,Atrium Chirurgicum,Schöneburger
+173,Which of the following POIs is closest to POI Meeet West located in the Berlin area?,C,MusikPlus!,Wilde Hummeln,Zahnarztpraxis Dr. Gamig,Grolman / Uhland,Blackmore's - Berlins Musikzimmer
+174,Which of the following POIs is closest to POI Chimneys located in the Berlin area?,D,Spro,Schneiders Filmclub,Mensa,Beyond,Europcar
+175,Which of the following POIs is closest to POI Seven Coffee located in the Berlin area?,E,Trödler,Strike Lanes Lounge Bowling,Mirami,Bhf. Friedrichstraße,GPB College Mitte
+176,Which of the following POIs is closest to POI Café la Porte - die drei Engel located in the Berlin area?,A,Café Gold Stück,Freddy Fresh,Krankenhaus Weißensee,MarienBurgerie,Bistro 125
+177,Which of the following POIs is closest to POI East Kebap located in the Berlin area?,D,Tierarztpraxis Laskawy,Die Laube,Kleiner Frieder,Amazon Hub Locker,Pizza Stop
+178,Which of the following POIs is closest to POI BoBoQ located in the Berlin area?,C,Kaspertheater Rixdorf,Karl und Karla e. V.,Imren,Dr. Nüket Hohmann,Liegestuhl
+179,Which of the following POIs is closest to POI Tomasa located in the Berlin area?,A,Psychosomatisches Zentrum der Schlafpraxis Berlin,Eisfee,Knopf & Knöpfchen,Canova,Fahrschule Fahrpraxis
+180,Which of the following POIs is closest to POI Jelbi Mobility Hub S+U Zoologischer Garten located in the Berlin area?,C,Wassertreppe,248,Chutney,Asia Snack,Rico Falafel
+181,Which of the following POIs is closest to POI Salzufer located in the Berlin area?,E,SpVgg Tiergarten 58,Kindergarten Schlumpfenland,9:00 pm,Carl & Sophie,Hotcats-Club
+182,Which of the following POIs is closest to POI KFC located in the Berlin area?,D,Hähnchenhaus,Technikmuseum,Zille Stube,Saddleback Berlin,Wurst
+183,Which of the following POIs is closest to POI Zum Guten Hirten located in the Berlin area?,B,Hans-Peter Fusenig,"Kindergarten ""Zum guten Hirten""",Agaplesion Bethanien Sophienhaus,Sprint,Hausarzt Innsbrucker Platz
+184,Which of the following POIs is closest to POI Vivolo Ole located in the Berlin area?,D,Euronet,Marinehaus,Intermezzo,Restauration 1840,Aromi e sapori
+185,Which of the following POIs is closest to POI Markthalle Pfefferberg located in the Berlin area?,D,Bank für Sozialwirtschaft,Zur Laterne,Gewölbe Sauna,Kink,DHL Packstation
+186,Which of the following POIs is closest to POI Asiagourmet located in the Berlin area?,D,Royals Tea,Cafeteria KSES,Bistro Vital,Besenkammer,Säälchen im Holzmarkt
+187,Which of the following POIs is closest to POI Spielsalon located in the Berlin area?,A,Manzana,Kita Die kleinen Füchse,Ateliers,Zahnzentrum Wedding,Döner Center
+188,Which of the following POIs is closest to POI Coffee Pony located in the Berlin area?,E,Beach 61 (Bar),Potemkin,Ästhetikwelt-Berlin,Eis Bär,Efsane
+189,Which of the following POIs is closest to POI MediosApotheke Hackescher Markt located in the Berlin area?,C,Club R8,Espresso House,Hackescher Markt,Wild Tales,Ännchen von Tharau
+190,Which of the following POIs is closest to POI Cali Bocca located in the Berlin area?,D,Restaurantschiff Capt'n Schillow,Türkisches Vereinsheim,Yalda Eiscafé,Mondo Pazzo,ishin
+191,Which of the following POIs is closest to POI Funkturm-Lounge located in the Berlin area?,B,Haus Eichkamp,Messesnack Kleiner Stern,Yoga & More,Piccolina,Total Access
+192,Which of the following POIs is closest to POI Boxsport Berlin e.V. located in the Berlin area?,B,Katzbachpiraten,Euronet,St. Franziskus - Kapelle,Akka,Weisse Rose
+193,Which of the following POIs is closest to POI Brgrs Brgrs located in the Berlin area?,D,Metropol,Drei Brunnenbecken,Studio:B,Simply,Firuze
+194,Which of the following POIs is closest to POI Xua Quan located in the Berlin area?,C,Club Sternchen,noisy Rooms,Nest,Yoga School Berlin,Desha - Aceto Lokanta
+195,Which of the following POIs is closest to POI Bami 789 located in the Berlin area?,C,Crêpes à manger,BLN Athletics,Safe,Abgedreht Klub,Restaurant Freischwimmer
+196,Which of the following POIs is closest to POI Islamisches Kulturzentrum der Bosniaken in Berlin located in the Berlin area?,B,Ayhan's Küche,Maroush,Ristorante Nabil,Life Berlin,Deutsche Bahn
+197,Which of the following POIs is closest to POI Kral Pizza located in the Berlin area?,E,"Albatros - Barrierefrei Leben gGmbH, Mobidat",Deutsche Bahn,Volkshochschule Reinickendorf,Sparkasse,Libanesischer Imbiss
+198,Which of the following POIs is closest to POI Tudo located in the Berlin area?,A,Knutschfleck,Z-Bar,Nachtclub,Einstein Kaffee,Vineria Carvalho
+199,Which of the following POIs is closest to POI Wedding Apotheke located in the Berlin area?,A,MVZ Wedding,Rudolfs im Forum,Amelie,Syrisch-Orthodoxe Kirche von Antiochien St. Izozoel,Gelbes Schloss
+200,Which of the following POIs is closest to POI Smoozery Berlin located in the Berlin area?,B,Kita an der Technischen Universität Berlin,Udagawa,Ingeborg-Bachmann-Bibliothek,Benedict,Dr. med. Tilmann Brauns
+201,Which of the following POIs is closest to POI Mela located in the Berlin area?,D,Steinskulptur und Brunnen,Beach 61 (Bar),Back Baron,Garda Pizza,Viktoria Eis
+202,Which of the following POIs is closest to POI Rummels Perle located in the Berlin area?,B,Burger Zimmer,Jugendhaus Chip,Brauhaus Südstern,W Pizza,teledisko
+203,Which of the following POIs is closest to POI Churrolade Neukölln located in the Berlin area?,E,Masha’s,Harvest,tamusikatelier,Dr. med. Dorothea Assenov-Lammert,Kumpir
+204,Which of the following POIs is closest to POI Ristorante Pizzeria Garda located in the Berlin area?,E,Curry Wolf,A-Arbeitsmedizin,Theater im Nikolaiviertel,Lola's Tapas,Art.City.People
+205,Which of the following POIs is closest to POI Daisies located in the Berlin area?,E,Viet Bowl,Euronet,Cocina,Pro Seniore Residenz Am Märchenbrunnen,Azem
+206,Which of the following POIs is closest to POI ocelot located in the Berlin area?,E,Takumi Nine,Kantine im Berliner Ensemble,Cuccis,TU Berlin Institut für Bauingenieurwesen,Asia & Sushi 7778
+207,Which of the following POIs is closest to POI Central located in the Berlin area?,D,The Barn,Euronet,Liegewiese,Subway,Escendo Pizzeria
+208,"Which of the following POIs is closest to POI Aikido-Zentrum, Horst Späthling located in the Berlin area?",E,Monsieur Toche,Euronet,OASE,Papa Nô,Beat81
+209,Which of the following POIs is closest to POI SVEDA located in the Berlin area?,B,Spreegold,KURHAUS BERLIN,Mjalt,Apotheke am Gartenplatz,Bahadin der Solidaritätsverein
+210,Which of the following POIs is closest to POI Getreide/Gemüse located in the Berlin area?,B,Mensa UdK Jazz-Mensa,Wochenmarkt,One piece Of cake,Pavement,Don Camillo
+211,Which of the following POIs is closest to POI Nour located in the Berlin area?,C,Hotpot & Nudeln,KomaF,Daizu,T.viet,HOPE Seniorenzentrum
+212,Which of the following POIs is closest to POI Kollektivbibliothek located in the Berlin area?,A,Theaterspielraum Bethanien,Café Fleurs,Beratung Barrierefrei Studieren,Urban-Krankenhaus,Shezan
+213,Which of the following POIs is closest to POI Ryong located in the Berlin area?,E,International,Bryk Bar,Brunnenquelle,Institut für Kunst- und Bildgeschichte,Kaffee Burger
+214,Which of the following POIs is closest to POI Gemeinde Gierkezeile located in the Berlin area?,A,UMC English Language International Congregation Berlin,Kita der Evangelischen Kirchengemeinde Am Lietzensee,SpVgg Tiergarten 58,893 Ryōtei Japanese Restaurant,Joli Cafe
+215,Which of the following POIs is closest to POI Julian & Elisa located in the Berlin area?,A,Erdinger am Gendarmenmarkt,Milano Vice,Bona Peiser,Hansa-Tonstudios,Sonnenuhr
+216,Which of the following POIs is closest to POI cultivation.space located in the Berlin area?,A,Kantine,Kiezgurke,KiTa Kleine Wölkchen,Praxis Hofrichter,TU Berlin Institut für Bauingenieurwesen
+217,Which of the following POIs is closest to POI Mirbach located in the Berlin area?,E,Kinderladen Spieltraum,Coppi Cabana,Bücherzelle,Zirkus Zack,Bärlinomat
+218,Which of the following POIs is closest to POI Polizeistation located in the Berlin area?,A,Casino 36,Sandwich Art,KinderFan,Ristorante Nabil,Cafe Martha
+219,Which of the following POIs is closest to POI Yoga am Arnimplatz located in the Berlin area?,E,Tatlises Grill,Berliner Sparkasse,Allego,Herbstlaube,Begegnungsstätte
+220,Which of the following POIs is closest to POI Bungs located in the Berlin area?,D,Mail Boxes Etc.,Wulle,KuchenZeit,Gap,ES
+221,Which of the following POIs is closest to POI Fedora located in the Berlin area?,E,Agip,Cafe Lion,Royal Casino,Anka,Burgermeister
+222,Which of the following POIs is closest to POI Private View located in the Berlin area?,B,Erdreich,Mondo Pazzo,Pad Thai,Prager Apotheke,Kathmandu Dabali

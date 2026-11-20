@@ -1,0 +1,501 @@
+id,question,answer,A,B,C,D
+0,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Ingresso al Palatino,Tennis Team Vianello,Chiesa di San Giuseppe dei Falegnami al Foro Romano,Mercato Navigatori
+1,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Chiesa di San Giovanni dei Fiorentini,Casali Mellini,Museo Storico dell'Arma del Genio,Annibaliano
+2,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,ASD Nuova Leonina Pietralata,Oratorio del Gonfalone,Ambasciata di Germania presso la Santa Sede,Lotto 8
+3,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Torre delle Milizie,Villa Flora,Mausoleo degli Equinozi,Autodemolizioni Rozzi
+4,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Concordia Parking,Giardini dell'Accademia Filarmonica Romana,Piazza di Monte Savello,Palazzo Pescatori Serventi
+5,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Palazzo Albani,TwentyOne Hotel,New Generation Hostel,Mura Aureliane
+6,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Chiesa del Bambin Gesù a via Urbana,Padiglione 36,San Lorenzo in Damaso,Stabilimento OCV Atelier
+7,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Giardino Francesco Albani,Pontificio Collegio Americano del Nord,Palazzo di Bernich a Via Aureliana,Foro Boario
+8,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Stanza della Segnatura,Associazione Polisportiva Olimpiclub,Foresteria Santa Scolastica,Chiesa di Santa Maria Mediatrice
+9,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Pizzeria di Quartiere,Basilica di Sant'Antonio da Padova all'Esquilino,Istituto professionale Carlo Moneta,Cantieri linea C
+10,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Reale Circolo Cannottieri Tevere Remo (Sede Sociale),Monumento alla Resistenza,Parco Leopoldo Tossini,Palazzo Santacroce
+11,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Chiesa di San Gregorio della Divina Pietà,Giardino Francesco Albani,Carrefour,Foresteria universitaria
+12,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Arco di Tito,Istituto Professionale Vincenzo Gioberti,Museo storico della fisica Enrico Fermi,Vip Garden
+13,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Catacombe di San Callisto,Basilica di Santa Pudenziana al Viminale,San Rocco all'Augusteo,Lotto 6
+14,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Basilica di San Marco,Università Roma Tre - Dipartimento di Scienze,Giardino di Villa Wolkonsky,San Lorenzo de’ Speziali in Miranda
+15,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Ex-Mattatoio,Largo Pietro Caporilli,Palazzo Severoli,Parco di Centocelle
+16,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Palazzo del Commendatore del Santo Spirito in Sassia,Villino Levi,Comando Legione Carabinieri Lazio,Presidio ospedaliero George Eastman
+17,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Paoloni Ceramiche,BNL,Sant’Eustachio in Campo Marzio,Villa Carpegna
+18,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Ente Nazionale di Previdenza ed Assistenza dei Medici e degli Odontoiatri - Fondazione Enpam,Chiesa di Santa Maria della Pace,Parco Edoardo Valentini,Parrocchia San Pietro e Paolo
+19,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,scuola di arrampicata,I bambini nel mondo,Questura di Roma - Prima Sezione Volanti,Taggia
+20,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Castel Sant’Angelo,Lotto 23,Palazzo Costaguti,Corte dei Conti
+21,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Di Cesare Combustibili Srl.,Torretta Valadier,Immobili su Borgo Santo Spirito contigui alla Curia dei Gesuiti,Questura di Roma - Divisione personale
+22,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Giardino Lorenzo Achille Scotto,Santissimo Nome di Maria al Foro Traiano,Battistero Lateranense,Scuola Svizzera di Roma
+23,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Area Sosta Camper Romae,ASL Roma 2 - Poliambulatorio,Chiesa di San Giovanni dei Fiorentini,Centro Sportivo Le Magnolie
+24,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Parco Robert Baden-Powell,Palazzo Esercito,AMA Vasca Navale,Hotel Luce
+25,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Circoli Canottieri Tevere Remo,Mercato del Pigneto,Chiesa di Santa Maria della Mercede e Sant’Adriano Martire,Piazza Cuba
+26,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Addax,Laboratorio centrale Croce Rossa Italiana,Palazzo Valentini,Le Mura
+27,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Chiesa dei Santi Giorgio e Martiri inglesi,Forte Portuense,Gazzella dama,Piazzale di Villa Giulia
+28,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Mura Aureliane,Foresteria Santa Scolastica,Rambla vertical,Consolato Ucraina
+29,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Piazza Sempione,Ambasciata del Qatar,Basilica del Sacro Cuore di Cristo Re,Scuola elementare Nazario Sauro
+30,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Palazzo del Monte di Pietà,Ciclorimessa,Pontificio Collegio Armeno a Roma,Basilica di Nostra Signora di Guadalupe e San Filippo Martire
+31,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Giardino citta dell'utopia,Porta San Pancrazio,Parco Leopoldo Tossini,Palazzo Farnese
+32,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,"Scuola primaria Statale ""Alessandro Malaspina""",ex Chiesa di San Lorenzo da Brindisi,Hotel Lazio,Parrocchia S. Achille
+33,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Chiesa di Santa Francesca Romana,ASL Roma 1,Nuovo Tuscolo Sporting Club,A.S.D. Roma Road Runners Club
+34,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Colonna della Pace a Santa Maria Maggiore,Chiesa di Santa Maria Immacolata e San Giovanni Berchmans,Mercatino,Santa Barbara dei Librai
+35,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Coati,Centro Direzionale Argonauta,Teatro,Piazza Tuscolo
+36,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Hotel Mariano,Hotel Darival,Palazzo Albani,Pewex
+37,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Casino di Villa Altieri,Autodemolizioni Monti,Banca d'Italia - Centro Guido Carli,Giardino Monsignor Desiderio Nobels
+38,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Casa dei Vallati,Parco Tevere Magliana,Piscina Blu Time,Sala Operativa - Comitato CRI Area metropoli di Roma Capitale
+39,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Baby Luna Park,Parco Filippo Teoli,Arco dei Quattro Venti,Università Sapienza di Roma - Facoltà di Ingegneria
+40,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Chiesa di Gesù Divino Lavoratore,A.S.D History Roma 3Z 1983,Syntonia Palace,Duke
+41,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Piazza Oderico da Pordenone,Taxi Don Minzoni 060609,Villa Blanc,Musei Vaticani
+42,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Campo nomadi Via dei Gordiani,Chiesa di San Luigi dei Francesi,Virgin Active,Banca d'Italia
+43,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Cinema Ambassade,Ambasciata della Corea del Nord,Istituto tecnico Blaise Pascal - succursale,Chiesa di San Tommaso in Formis all’Arco di Dolabella
+44,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Santissimo Sacramento al Tritone,Piazzale di Ponte Milvio,Istituto Professionale Via Domizia Lucilla sede associata,Crypta Balbi
+45,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Padiglione 24,Sapienza Università di Roma - Facoltà di Economia e Ingegneria,Comprensorio Santa Maria della Pietà,Fontana del porto di Ripetta
+46,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Oly Hotel,Courtyard by Marriott Rome Central Park,Portico dei Leoni,Casina di Raffaello
+47,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Caserma Salvo D'Acquisto,Palazzo Baldoca Muccioli,Oratorio dei Filippini,Casa del Girasole
+48,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Parco Egerio,Torre dei Margani,Scuola primaria Enrico Toti,Palazzo Caetani
+49,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Lotto 32,Piazza del Gesù,Palazzo Mazzei Emo,Ex Ospedale Teutonico
+50,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Largo Antonio Cavallaro,Macello III,Basilica di Santa Maria Ausiliatrice,Istituto Professionale Circonvallazione Casilina succursale
+51,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Stanza di Eliodoro,Chiesa di Trinità dei Monti,Box auto Via Oslavia,Convento di Santi Alessio e Bonifacio
+52,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Agenzia delle Entrate,Cappella Corpus Christi della Curia generalizia dei Cappucci,ex Ministero delle Finanze,Santa Susanna alle Terme di Diocleziano
+53,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Sala di Costantino,Scuola Carabinieri,Ex Cinodromo,"IIS Pacinotti Archimede - sede Liceo ""Archimede"""
+54,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Villa Blanc,Palazzo di Spagna,Complesso Incis - 1 Lotto,Pratone di Torre Spaccata
+55,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Corte Suprema di Cassazione,Piazza del Gesù,Dumbopark,100 Montaditos
+56,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Liceo Via delle Sette Chiese,Palazzo del Quirinale,In's Mercato,Giardino Pietro Lombardi
+57,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Chiesa di Santa Silvia,Cinema dei Piccoli,Basilica costantiniana di S. Agnese,Parco della Pace tra i Popoli
+58,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Campo allenamento Unità Cinofile,Piazza Ungheria,Da Roberto e Loretta,Giardino Piero Piccioni
+59,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Chiesa della Santissima Trinità degli Spagnoli,ELIS,Missionari Redentoristi,Palazzo Mancini
+60,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Teatro Capranica,Stazione Tiburtina,Saccheria Sonnino,EY
+61,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Chiesa di Sant'Orsola,Accademia di Danimarca,Da Roberto e Loretta,Centro Universitario Sportivo Roma
+62,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Acquedotto Claudio,Padiglione 36,Parco Tor di Quinto,Mediaset
+63,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,I.I.S.S. Giorgio Ambrosoli - Sede I.P.S.I.A. Europa,Palazzo Altemps,Portico dei Leoni,Mercato rionale Cinecittà
+64,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,San Teodoro al Palatino,Monastero monache benedettine,Scuola Media Statale Leonardo da Vinci,Santa Marta al Collegio Romano
+65,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Giardino di Villa Medici,Monastero Agostiniano delle Suore di Santa Lucia in Selci,Lotto 12,Chiesa di Santa Maria Annunziata
+66,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,"Istituto Paritario ""A. Ruiz""",Kings of Rome,USI – Prati,Basilica di San Lorenzo in Lucina
+67,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Chiesa di San Giovanni Battista in Collatino,Villino Pignatelli,Chiesa di Santa Caterina della Rota,Giardini Nuccitelli - Persiani
+68,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Lotto 6,Acea Magliana,Arco di Travertino,Circolo Tennis della Stampa
+69,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Eni,Serfin,Motorizzazione Civile,Parcheggio
+70,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Chiesa di Santo Spirito in Sassia,Parking Via Giulia,Palazzo Muti Bussi,Excalibur Assisi
+71,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Castel Sant’Angelo,Movimento dei Focolari,Eni,Parco del 628
+72,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Mondi,Monumento a San Francesco,Pontificia Università Gregoriana,Ministero delle infrastrutture e della mobilità sostenibili
+73,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Oranghi,Scuola paritaria - Scuola Materna,In Casa,Scuola secondaria di I grado don Giuseppe Morosini
+74,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Hotel Atlantico,Villa Hüffer,Villa Santa Maria,IX Legione GdF - parcheggio
+75,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Villa Lais,Trianon,Chiesa di Sant'Anna dei Palafrenieri,Chiesa di San Giuseppe a Capo le Case
+76,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Palazzetto Venezia,Dumbopark,Croce Rossa Italiana - Sala Solferino,Hotel Novecento
+77,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Comando Militare Territoriale - Regione Militare Centrale,I.N.A.I.L.,Piazza Capizucchi,Marronaro
+78,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Lotto 28,Circolo sportivo Polizia di Stato,Pontificio Collegio Americano del Nord,"Liceo Scientifico ""Giovanni Keplero"""
+79,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Largo dello Scautismo,Musei Vaticani,Casa dei Vallati,Piccole Terme
+80,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Largo Padre Leonardo Bello,Associazione Culturale Casale Podere Rosa,Pontificio Seminario Francese,Parco dei Padri Passionisti
+81,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Casa dell'Acqua,Pantheon,"ITCG ""Carlo Matteucci"" - Succursale",Liceo Virgilio
+82,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,"Scuola primaria e dell'infanzia ""Gigi Proietti""",CREA Centro di Ricerca per la Patologia Vegetale,"Asilo nido comunale ""Mais e Girasole""",Hotel San Francesco
+83,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Ciclorimessa,Ufficio Postale Nomentano,"Liceo di Stato ""Eugenio Montale""",Arco di Carlo Magno
+84,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Palazzetto dello Sport,Lotto 32,Giardino Quadrato,Palazzetto Sala Fioravanti
+85,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Piazza Tuscolo,Lotto 23,Farmacia Vaticana,Laboratorio centrale Croce Rossa Italiana
+86,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Parcheggio Buonvisi,Centro di riabilitazione Vaclav Vojta,Largo Lenin,Parco Feronia
+87,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Cercocebi,Edicola,Colonna della Pace a Santa Maria Maggiore,Serfin
+88,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Casina del Lago,Impianti sportivi Acqua Acetosa,San Giovanni Battista dei Genovesi,Serre dei Giardini Vaticani
+89,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Largo Chigi,Golden Tulip Rome Piram,Parco Mattia Preti,Complesso Vignola Mattei
+90,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,ENEA,Hotel Cilicia,Liceo classico Francesco Vivona,Chiosco Caffè
+91,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Padiglione 2,Accademia di Romania Istituzione Culturale Straniera,Palazzo Lovatelli,Mercato del Pigneto
+92,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Praetextatus Catacombs,Pineta Palace Hotel,Aspresso,Padiglione Melo
+93,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Palazzetto Sala Fioravanti,Cantiere della Centralità Metropolitana Pietralata,Circoli Canottieri Tevere Remo,Torre del primo meridiano d'italia
+94,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Spinner,Torraccio della Cecchina,Chiesa di Santa Silvia,Brontolo
+95,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Palazzo Falconieri,Società Geologica Italiana,Basilica di San Sebastiano fuori le mura,Corpo Centrale
+96,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Villa Paganini,Teatro delle Arti,Parrocchia Santissimo Redentore,Ingresso al Palatino
+97,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,ZooBar,Casa dei Cavalieri di Rodi,Convento Internazionale Agostiniano,Studi Tv Palatino
+98,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Centro Sportivo G. Fiorini,In Casa,Villa Vecchia,Basilica di Santa Croce in Gerusalemme
+99,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Necropoli di Via Pierantoni,Nuovo Trasporto Viaggiatori,"IIS Pacinotti Archimede - sede Liceo ""Archimede""",Teatro Italia
+100,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Istituto Svedese,Istituto Salesiano San Callisto,Base di Costanzo II,Propilei Egizi
+101,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Pontificio Seminario Romano Minore,Chiesa della Beata Vergine Maria del Carmine,Ex Cinodromo,Piazza del Biscione
+102,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Ospedale Britannico,Giardino Luigi Bigiarelli,"I.C. Mario Lodi - Plesso ""Giorgio Morandi""",Chiesa dell'Annunziatella
+103,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Chiesa dei Santi Martino e Sebastiano degli Svizzeri,Libera Università Internazionale degli Studi Sociali (LUISS) Guido Carli,Hotel Bernini Bristol,IP
+104,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Basilica di Santa Maria Maggiore,Libera Università Internazionale degli Studi Sociali (LUISS) Guido Carli,Istituto Professionale Via Sarandi,Casa Madre Nazarena
+105,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Piazzale Tommaso Edison,Terme di Diocleziano,Mercato rionale coperto,San Giovanni Battista de Rossi
+106,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Sala delle Provincie d'Essai,"Palasport ""Aurelio Santoro""",Hotel Luce,Chiesa di San Giuseppe dei Falegnami al Foro Romano
+107,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Piazza Roselle,San Marcello al Corso,Liceo Gelasio Caetani,Piazza Carlo Alberto Scotti
+108,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Total,Giardino citta dell'utopia,La Villetta,Excel Roma Montemario
+109,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Parco Atleti Azzurri d'Italia,Bocciofila Sabaudia,Parco della Serenissima,Piazzale di Ponte Milvio
+110,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Torre dei Margani,Piazza Albina,Parco Regionale Urbano del Pineto,Phil's Slow Smoked American Barbecue
+111,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Clinica Valle Giulia,Mercato Comunale Casal De' Pazzi,Dumbopark,Arco di Tito
+112,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Resti di Mura Serviane,Piazza Dei Cavalieri Di Malta,Museo delle Mura,Mercato Magna Grecia – Metronio
+113,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,City Dog Parioli,NH Collection Roma Vittorio Veneto ****,Giardino di Villa Wolkonsky,Villa Margherita
+114,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Istituto Pio IX,"Istituto d'Istruzione Superiore ""Giosuè Carducci"" - sede “Piero Gobetti”",Palazzetto di Flaminio Ponzio,Chiesa di San Pellegrino in Naumachia
+115,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Centro Bocciofilo,Stadio dei Marmi,Giardino Angelo Antonio Camilli,7 Retitalia
+116,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Parco Centrale dell'Eur,Palazzo Senatorio,Santa Maria del Carmine e San Giuseppe al Casaletto,Casa di Santa Brigida
+117,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Aeronautica Militare R.E.S.I.A. Forte Appia,Chiesa di Santa Maria Liberatrice,Ambasciata dell'Afghanistan,Pontificio Seminario Romano Minore
+118,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Soleluna Cafè,INAIL – Sede Roma Laurentino,Edificio diroccato,Casino di Villa Gabrielli al Gianicolo
+119,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Mercato Rionale,"Istituto comprensivo statale ""Largo Cocconi""",Chiesa della Beata Vergine Maria del Carmine,Guardia di finanza – Comando Generale
+120,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Sapienza Università di Roma - Facoltà di Ingegneria,Parcheggio di scambio S. Maria del Soccorso,Basilica di San Sisto Vecchio,Istituto Comprensivo Anna Celli
+121,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Istituto comprensivo Rita Levi Montalcini,Orto Botanico,Colonnacce,ASL Roma 1 - Servizio tutela salute mentale e riabilitazione età evolutiva
+122,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Altare della Patria,Piramide,2ª torre dell'acqua,Casina del Vignola Boccapaduli
+123,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Chiesa di Sant'Agnese in Agone,Parco Domenico Taverna,Ciclofficina Green Project,Dirección General de los Legionarios de Cristo
+124,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Hotel Silva,Palazzina Samoggia,Lotto 25,Liceo Scientifico Statale Plinio Seniore
+125,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Mercatino,Torre di Capo di Bove,Parco di Vigna Rosati,Retitalia
+126,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,In's Mercato,Brontolo,Palazzo Moroni a Trevi,Agenzia delle Entrate
+127,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Parco Talenti,Palazzo Valentini,Santa Maria d'Itria,Lotto 6
+128,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Padiglione Antonini,Istituto San Giuseppe Calasanzio,Tempio del Divo Giulio,Comando Militare Territoriale - Regione Militare Centrale
+129,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,IGT Lottery,Studio Legale Tomassoni,Palazzo Medici Clarelli,Ambasciata Britannica
+130,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Lotto 59,Rovine Chiesa di San Nicola a Capo di Bove,Hotel Bled,Istituto comprensivo Rita Levi Montalcini
+131,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Villa Santa Maria,Parco della Serenissima,Ciak Hostel,Chiesa della Beata Vergine Maria del Carmine
+132,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Commissariato Ponte Milvio,Complesso Vignola Mattei,Scuola primaria Giosuè Carducci,Parco delle Energie
+133,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Esso,Santa Maria Regina Apostolorum,Ministero dell'Istruzione e del Merito,Ospedale Cristo Re
+134,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Palazzo Senatorio,Palazzetto Altemps,Chiesa San Tommaso Moro,Scuola elementare Via Andrea Torre
+135,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Santa Maria Nova,Sala Riunioni,Basilica di San Lorenzo fuori le Mura,San Sebastiano al Palatino
+136,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,PIM,Istituto comprensivo Guido Milanesi,Acea Monte Mario 2,Padiglione Melograno
+137,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Parco Giancarlo Sbragia,Parco del Turismo,Ex-Mattatoio,Palazzo Alberini
+138,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Edicola,"Liceo Scientifico ""Giovanni Keplero""",Lotto 8,Chiesa di Santa Caterina da Siena
+139,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Palazzo Alberini,Complesso Incis - 2 Lotto,Mercato dei Fiori,Istituto Europeo Di Design (IED)
+140,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Basilica di San Pietro in Vincoli,Hotel Bernini Bristol,Piazza Antonio Mancini,Panalight
+141,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Officine ATAC,Cisterna Romana della Via Colombo,Il nido di girogirotondo,Palazzo Pichi
+142,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Casino di Villa Sforza,Lotto 14,Villa Ada,Cinema Avorio
+143,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Istituto Villa Flaminia,Piazza Ungheria,Chiesa di Santa Maria della Pietà,Centro anziani Teresa Frassinelli
+144,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Ristorante Ulpia,Basilica del Sacro Cuore di Gesù a Castro Pretorio,Salario Center,Caffè del parco
+145,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Chiesa Evangelica Valdese,Torraccio della Cecchina,L'Isola Felice,Forte Portuense
+146,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Miliarum Aureum,Parco Guido Gori ed Antonio Righi,Giardino Antonio Maccanico,Forum Austriaco di Cultura
+147,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Scuola primaria Giovanni Cagliero,Palazzo San Macuto,Nuovo Cinema Aquila,Posta Centrale Vaticana
+148,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Istituto comprensivo Guido Milanesi,Sant’Angelo in Pescheria,Hertz Vaticano,Giardino di Villa Wolkonsky
+149,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Santa Maria della Luce,Casa Cantoniera del Sellaretto,Residenza dell'Ambasciatore della Repubblica Federale di Germania,UnipolSai (ex Fondiaria-SAI)
+150,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Convento di Santa Dorotea,Parco di Villa Grazioli,Santissimo Sacramento al Tritone,Tempio delle Ninfe
+151,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Palazzo Serlupi Crescenzi,Romana Lieviti,Torre del Fiscale,Santa Maria in Cappella
+152,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Navigatori Civic Center,Piazza Testaccio,Distretto sanitario 8,Ambasciata della Federazione Russa
+153,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Istituto Poligrafico e Zecca dello Stato,Palazzo Cimarra,St. Mary's Pub,Padiglione 36
+154,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,idrovora,Giardino Ludovico Tuminello,Taggia,Centro sportivo Roma Uno
+155,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Tennis Team Vianello,Carrefour,Villa Mazzanti,Scuola Sportiva ELIS
+156,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Chiesa di Santa Prisca,Principessa Mafalda,RAI - Centro di Produzione TV Via Teulada,Lotto 14
+157,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,parco della chiesa,Circolo Antico Tiro A Volo,Liceo Lucio Anneo Seneca succursale,Giardino Mario Zicchieri
+158,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Piazza Umberto Elia Terracini,Torre del Fiscale,Horti Sallustiani,Palazzo detto dei Propilei (nord)
+159,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Parco di San Gregorio al Celio,Basilica di Santa Pudenziana al Viminale,ISTAT Ufficio regionale Lazio,Monk Club
+160,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Oratorio del Crocifisso,Piazza Michele da Carbonara,Cabina ACEI Roma Casilina,Rimessa ATAC Portonaccio
+161,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Palazzetto dello Sport,Largo Giuseppe Pella,Ex stazione Olimpico/Farnesina,Monumento Funerario Rabirii
+162,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Piazza della Cancelleria,Squash Roma,Chiesa delle Piccole Sorelle di Gesù,Impianti sportivi Acqua Acetosa
+163,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Centro di raccolta AMA,Padiglione Bouganville,Campo da calcetto Parrocchietta,Municipio Roma V
+164,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Ufficio postale 55528 – Roma 99,Civetteria,Caserma degli Svizzeri,Scuola primaria Giovanni Pascoli
+165,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Asilo Il Sole,Cantiere della Centralità Metropolitana Pietralata,Praetorium et officia Gendarmerie,Santi Vincenzo e Anastasio a Fontana di Trevi
+166,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Scuola primaria Fausto Cecconi,Casa di Procura dell‘Ordine Teutonico,Giardini di Via Sannio,RAI - Teatro delle Vittorie
+167,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Palazzo Cerri,Scuola primaria Carlo Pisacane - Scuola secondaria Rosa Parks,Giardini Nuccitelli - Persiani,Hotel Flora
+168,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Il mercatino delle rose,Casa di Augusto,Parco Montebruno,Piazza del Biscione
+169,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Circolo sportivo RAI,Ristorante Ulpia,Il Fiorista,Pineta Sacchetti
+170,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Il Tempo,Chiesa di Sant'Atanasio a Via Tiburtina,Colonnato del Bernini,Edicola
+171,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Palazzo Lucchesi,Clinica Parioli,Mercato di Via Rosa Guarnieri Carducci,Præside Palatium
+172,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Chiesa di Santa Maria della Mercede e Sant’Adriano Martire,Edicola,Radisson Blu,Piazza dei Coronari
+173,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Palazzo Capranica,Piazza di Monte Savello,Casa Aglietti,Ambasciata di Palestina
+174,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Lotto 23,Chiostro di Santa Maria della Pace,Mura Aureliane,Centro anziani De Magistris
+175,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Lichi del Nilo,La Villa Roma,Locali antidoping,Palazzo del Belvedere
+176,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Palazzo di Propaganda Fide,Municipio Roma V - Sala del Consiglio,Mercato di San Saba,Convento frati domenicani
+177,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Giudice di pace di Roma - settore civile,Il Parco che non c'è,Agenzia delle Entrate-Riscossione,Il Taggino
+178,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Roma Termini Piastra,Istituto Massimiliano Massimo,San Lorenzo,Area Cani
+179,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Università Roma Tre - Ex Tommaseo,Convento di San'Onofrio,Beauty Mall,Impianti sportivi Acqua Acetosa
+180,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Casino di Villa Altieri,Libera Università Internazionale degli Studi Sociali (LUISS) Guido Carli,CREA,Ottaviano
+181,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Piazza di Monte Savello,Scuola San Giovanni Evangelista,Villa Miani,Convento di San Francesco a Ripa
+182,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Todis,Scuola paritaria - Scuola Materna,Santa Maria Porta Paradisi,Padiglione Acacia
+183,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,"Grattacheccaro ""Alla Fonte d'Oro""",Villa Mazzanti,Tempio di Esculapio,ACEA
+184,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Propilei Egizi,Piazza Carlo Forlanini,Liceo classico e scientifico Socrate,Mura serviane
+185,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Giardino Francesco Evangelista,Villa Blanc,Largo Hiroshima e Nagasaki,Centro San Lorenzo
+186,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Palazzo Scanderbeg,Croce Rossa Italiana - Comitato Regionale Lazio,Palazzo Piacentini,Angelo Mai
+187,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Chiosco Caffè,Piazza Ragusa,Istituto Portoghese di Sant'Antonio,Foro Italico
+188,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Piazza Regina Margherita,Palazzo Frascara,Scuola secondaria L. Carroll,Di Cesare Combustibili Srl.
+189,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Palazzo Bourbon Artom,ACEA,DisCo Lazio,Basilica di San Giovanni in Laterano
+190,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,San Carlo alle Quattro Fontane,Torre delle Milizie,Mercato Rionale Gordiani,Torre del Giudizio
+191,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Mercato Talenti,Teatro delle Arti,"Scuola Materna ""Mandorlo Incantato""",Manforte
+192,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Palazzo della Consulta,Tre Fontane,Chiesa della Beata Vergine Maria del Carmine,Palazzo Mattei di Giove
+193,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Chiesa dei Santi Vitale e Compagni Martiri in Fovea,"Scuola secondaria di primo grado ""Antonio Gramsci""",Palazzo Baracchini,Golden Tulip Rome Piram
+194,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Tempio di Antonino e Faustina,Chiesa di San Francesco Saverio alla Garbatella,INPS,Casa di Cura Villa Pia
+195,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Monastero di San Saba,Chiesa di San Vincenzo de Paoli all'Aventino,San Lorenzo in Piscibus,Torre dei Margani
+196,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Distaccamento San Giovanni,Musei Vaticani,Piazza di Santa Maria Liberatrice,Parco Savello
+197,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Lotto 32,Arco di Costantino,Chiesa di Santa Maria dell'Orto,San Valentino
+198,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,TH Roma – Carpegna Palace Domus Mariae Hotel,Colonnato del Bernini,Parco dei Martiri di Forte Bravetta,Convento di San Lorenzo in Panisperna
+199,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Grande Cisterna,Piante e Fiori Irene,Criminalpol,Sant'Eusebio all'Esquilino
+200,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Basilica di Santa Cecilia in Trastevere,Al vicoletto,Lotto 61,A.S.D. Certosa Calcio
+201,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Piazza della Bocca della Verità,Piazzale Victor Hugo,Parco di Forte Ardeatino,Istituto Tecnico Industriale Statale Enrico Fermi
+202,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Istituto Filippo Smaldone,Pizzeria da Remo,Sacristia,Effetto In
+203,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Monumento a Giuseppe Mazzini,Acquedotto Claudio,Palazzo Dotti,Tamoil
+204,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Zen Garden,Palazzo Excelsior,Istituto professionale Carlo Moneta,Istituto Professionale Via Acireale
+205,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Ente Nazionale per l'Assistenza al Volo,Istituto paritario San Benedetto,Piazza di Sant'Anselmo,Istituto Santa Dorotea
+206,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Casa d'esercizi dei Passionisti,Scuola secondaria Daniele Manin,Chiesa Cristiana Evangelica,Palazzo Ruggeri
+207,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Terminal Park,Chiesa di Santa Maria in Monserrato degli Spagnoli,Casino di Villa Giustiniani Massimo,Piazza Pollarola
+208,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Carrefour,Ospedale Nuovo Regina Margherita,Parco Alessandro Tassoni,Villa Albani
+209,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Ambasciata d'Etiopia,Stazione radiotrasmittente di Monte Ciocci,Casa di Pietro Paolo della Zecca,Casa di cura Marco Polo
+210,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Chiesa di Santo Spirito in Sassia,Chiesa Nuova,Pontificio Collegio Americano del Nord,Palatium Apostolicum
+211,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Parco Feronia,Torre del Grillo,Cafè de Parc,Fondazione Don Gnocchi - Centro Santa Maria della Pace
+212,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Casa di Santa Brigida,Basilica Iulia,Fermentum,Cappella di San Romano
+213,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Esso,Chiesa di San Luigi Gonzaga,The St. Regis Roma,Scuola elementare Nazario Sauro
+214,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Largo di Villa Peretti,Palazzetto Sala Fioravanti,Scuola secondaria Via Torre Annunziata,Stazione Roma San Paolo
+215,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Colonnato del Bernini,Palazzo Varese,Parcheggio di scambio Ponte Mammolo,Casa dei Cavalieri di Rodi
+216,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,"Palazzo Massimo ""di Pirro""",Associazione Sportiva Dilettantistica Atletico 2000,Piazzale di Porta Pia,Tamoil
+217,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,"Istituto Comprensivo ""Giuseppe Bagnera""",Giardini Nuccitelli - Persiani,CiampaCavallo,Palazzo Cenci Bolognetti
+218,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Area Cani,Opera nazionale della madre e dell'infanzia,Piazza di Santa Caterina della Rota,Hotel Cilicia
+219,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,New Generation Hostel,Villa Poniatowski,Giardini del Celio,Convento dei Passionisti di San Lorenzo in Palatio
+220,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Istituto Professionale Vincenzo Gioberti,Chiesa di Santo Stefano del Cacco,Piante e Fiori Irene,Acea Monte Mario 1
+221,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Teatro Parrocchia Sant'Atanasio,Meucci20,I. C. Alfieri Lante della Rovere,Caserma Goffredo Zignani
+222,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Candy Cream,Chiesa di Sant'Agapito,Lampoon,Sant'Alfonso dei Liguori
+223,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Parcheggio Clienti Euronics,Laboratorio centrale Croce Rossa Italiana,Vigna San Sebastiano,Largo Giuseppe Testa
+224,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,47 Boutique Hotel,Palazzina Bezzi,Municipio Roma XIII,Palazzo Poli
+225,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Chiesa di Santa Maria Regina dei Cuori,FS Magliana,Torretta Valadier,Bocciofila Sabaudia
+226,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Tempio del Divo Giulio,Sant’Angelo in Pescheria,Bisonte Europeo,Liceo Gelasio Caetani
+227,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Tumuli degli Orazi,Religiosi di San Vincenzo de' Paoli,Palazzo Scanderbeg,Largo Alfredo Oriani
+228,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Largo dell'Arma di Cavalleria,Curia Generalizia dei Gesuiti,Monastero di San Tommaso in Formis,Cacciarella
+229,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Largo José Artigas,Oratorio del Crocifisso,Palazzo Della Valle,Chiesa di San Giuseppe a Capo le Case
+230,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Centro Maria Adelaide,Istituto tecnico industriale Giovanni Giorgi,Servizi tecnici Esercito,Palazzo Mancini
+231,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Centro idrico Casilino,Giardino Piero Taruffi,Mura serviane,La Cannoleria Siciliana
+232,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Direzione Radio Vaticana,Istituto di Analisi dei Sistemi ed Informatica Antonio Ruberti,Punto informativo. Parco regionale dell'Appia Antica,Lampoon
+233,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,pizzeria Baffetto 2,"Caserma militare ""Giuseppe Albanese Ruffo""",Chiesa di Santa Maria Immacolata,Liceo Classico Dante Alighieri
+234,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Giardino di Viale Tiziano,Ristorante Ulpia,Insula dell'Ara Coeli,Preseminario San Pio X
+235,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Parco Prampolini,Ospedale generale Madre Giuseppina Vannini,Padiglione Marchiafava,Commissariato Tuscolano
+236,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Chiosco Caffè,Centro commerciale Roma Casal Bertone,Circolo sportivo RAI,Casa di Raffaello
+237,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Mausoleo di Cecilia Metella,"Scuola dell'Infanzia Comunale ""Ranocchio Scarabocchio""",Chiesa del Bambin Gesù a via Urbana,Sant’Angelo in Pescheria
+238,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Lumsa,Santissimo Nome di Maria al Foro Traiano,Acea Gianicolo,Euronics Nova
+239,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Municipio Roma V,Hotel Cilicia,Villa Paganini,Comprensorio militare Via Labicana
+240,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Istituto professionale Roberto Rossellini,Sepolcri repubblicani di Via Statilia,Virgin Active Roma Calasanzio,Serra monumentale ottocentesca
+241,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Forte Trionfale,Parco Samuel Hahnemann,Istituto Cesare Baronio,Casa provincializia delle Piccole sorelle dei poveri
+242,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Giardino Giuseppe Mazzullo,Scuola paritaria Cavanis,Scuola primaria Via Fiuggi,AMA - Sede di Zona 1B
+243,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Liceo Classico Dante Alighieri,Tumuli degli Orazi,Palazzo Astalli,Hotel Mercure - Delta Colosseo
+244,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Cisco Collatino,Parco Ettore Fieramosca,Piazza Margana,Oranghi
+245,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,IP,Università Cattolica del Sacro Cuore,Istituto Centrale per la Grafica,Serfin
+246,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Romana Lieviti,Palazzi Podesti a Piazza Vittorio Emanuele II,Palazzetto di Pistrucci a Via Cavour,Corte di appello di Roma - Sezione Famiglie
+247,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Liceo Artistico Alessandro Caravillani,Residenza per studenti Vasca Navale,Lampoon,Istituto Viale Tor Marancia sede associata
+248,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Parco Sofia,Parco Tashunka Witko Cavallo Pazzo,Scuola Federico Di Donato,Istituto tecnico industriale Giovanni Giorgi
+249,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Chiesa di San Filippo Neri in Eurosia,Piazza Lugo,Giardino Alessandro Pavia,Acquedotto Claudio
+250,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Largo Alfredo Oriani,Chiesa di Santa Maria del Terzo Millennio alle Tre Fontane,Parcheggio AMA,Parrocchia di San Vincenzo Pallotti
+251,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,IP,M.a.S.,Centro sportivo comunale Ferdinando Persiani - Fernando Nuccitelli,Badia primaziale di Sant'Anselmo
+252,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Parcheggio di viale Carso (ex AMA),Palazzo dei Gruppi,Padiglione Antonini,Palazzo Manfredi
+253,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,DoubleTree by Hilton Rome Monti,Biblioteca Giordano Bruno,Palazzo Muti Berardi,Palazzo San Macuto
+254,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Residenza Padri Gesuiti (Civilità Cattolica),Chiesa dell'Annunziatella,Scuola Federico Di Donato,Monumento Funerario Hilarus Fuscus
+255,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Parco Giordano Sangalli,Chiesa di Santa Maria della Mercede e Sant’Adriano Martire,Mercato rionale,Palazzo dei Tribunali
+256,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Lotto 61,Gendarmeria vaticana presso San Giovanni in Laterano,Parco Madre Teresa di Calcutta,Ex area artigianale Via dei Lucani
+257,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Largo Carlo Salinari,Chiesa di Sante Perpetua e Felicita,Complesso Incis - 2 Lotto,Giardino Domenico Pertica
+258,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Mondial Dance,Lutech Advanced Solutions,Piazza del Teatro di Pompeo,Palazzina Samoggia
+259,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Centro anziani Teresa Frassinelli,DoubleTree by Hilton Rome Monti,Scuola primaria Via Fiuggi,palazzo Lavagi Pacelli
+260,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Presidio sanitario Distretto 5,Via Emilio Morosini,Centro di Ricerca per gli Alimenti e la Nutrizione,Palazzo Maccarani Odescalchi
+261,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Liceo Via delle Sette Chiese,San Paolo District,Porta Maggiore,Liceo Statale Vittorio Gassman
+262,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Scuola primaria Giuseppe Verdi,Ospedale San Giovanni - Presidio Addolorata,Istituto Comprensivo Anna Celli,Palazzo Madama
+263,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Palazzo Venezia,Istituto Santa Dorotea,Tempio di Antonino e Faustina,Parco Oreste Leonardi
+264,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Piazza del Paradiso,Ippodromo delle Capannelle,Circo Massimo,Il Messaggero
+265,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Giardino Maurizio Arena,Parco Vittore Arnaldo Marchi,Mura Serviane,Parco dei Padri Passionisti
+266,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Il Capriccio Del Fiore,Palazzo Wedekind,Laboratorio 3,Propilei neoclassici
+267,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Via Vai Bar - Bistrot,Sala Riunioni,Canile comunale Ponte Marconi,Portico degli Dei Consenti
+268,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Unione Militare,Romana Lieviti,Centro diurno Opera Sante De Sanctis,Agenzia del Demanio
+269,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Mausoleo di Sant'Urbano martire,Istituto Viale Tor Marancia sede associata,Caserma Giovanni Romagnoli,Monumento a Nicola Spedalieri
+270,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Basilica di San Sebastiano fuori le mura,Chiesa dei Santi Fabiano e Venanzio,Arco di Settimio Severo,Parco Giordano Sangalli
+271,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Chiesa di Sant'Onofrio al Gianicolo,Curia Generalizia dei Gesuiti,Chiesa della Natività di Nostro Signore Gesù Cristo,Santa Maria in Tempulo
+272,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Piazza di Santa Caterina della Rota,Chiesa di San Patrizio a Villa Ludovisi,Vigili del Fuoco - 9° Distaccamento Massimo Frosi,Palazzo Altemps
+273,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,"I.C. Mario Lodi - Plesso ""Giorgio Morandi""",Horta maestra,Porta Turrionis,Gesù Nazareno all’Argentina
+274,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Villa York,Comprensorio militare Via Labicana,Villa Magnolia Relais,Mercato Rionale
+275,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Giardino Vincenzo Fasolo,Palazzo Capizucchi,Teatro all'aperto Ettore Scola,Chiesa di Santa Maria Immacolata
+276,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,UniCredit Bank,idrovora,Civetteria,Reale Istituto Neerlandese
+277,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Sepolcro del Giovinetto Quinto Sulpicio Massimo,Spinner,Foro Italico,International Fund for Agricultural Development (IFAD)
+278,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Piazza Riccardo Balsamo Crivelli,Istituto Tecnico Industriale Statale Enrico Fermi,Serra monumentale ottocentesca,Sacristia
+279,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Chiesa di Santa Maria della Mercede e Sant’Adriano Martire,Villa Armonia,Sapienza Università di Roma - Facoltà di Economia e Ingegneria,W Rome
+280,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,"Liceo Classico Torquato Tasso, Liceo Scientifico Augusto Righi",Sepolcro del Giovinetto Quinto Sulpicio Massimo,Tempio di Iside a via Labicana,Parco della Torre
+281,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Sant'Alfonso dei Liguori,IGT Lottery,Ciclofficina Green Project,Cisalfa Sport
+282,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Scuola Federico Di Donato,Sant'Eusebio all'Esquilino,Scuola Primaria Europa,"IIS Pacinotti Archimede - sede Liceo ""Archimede"""
+283,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Chiesa di Santo Stefano del Cacco,"Missionari Comboniani, Distretto della Curia Generalizia",Casa provincializia delle Piccole sorelle dei poveri,Cappella di Sant'Anna
+284,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Museo Storico dell'Arma del Genio,IP,Ambasciata del Messico,Palazzo degli Accetti
+285,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Chiesa di San Francesco a Ripa,Palazzo Sciarra Colonna di Carbognano,Religiosi di San Vincenzo de' Paoli,Largo Castel del Piano
+286,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Arco di Travertino,Chiesa e Santuario di San Giovanni Battista de La Salle,Chiesa dei Santi Martino e Sebastiano degli Svizzeri,Villa Lais
+287,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Manifattura Pontificia dei Tabacchi,Elefanti asiatici,Università La Sapienza - Facoltà di Architettura - Sede Valle Giulia,Palazzo dell'antica Zecca
+288,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Villa Pirandello,Palazzina D'Archinto,Pizzeria da Remo,Campo da calcio
+289,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,XIII Gruppo Aurelio Polizia Locale di Roma Capitale,Acea Castro Pretorio,Colonna di Foca,Santissimo Sacramento al Tritone
+290,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Giardino Largo Messico,Casale Ceribelli,Piazza Retta,Sfioratore di Piena Almone
+291,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Parco Don Giovanni Scorza,Parco Maria Rosaria Lopez,Parcheggio clienti,Largo Rosario Angelo Livatino
+292,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Piazza Paolo Diacono,Hotel Camplus,Italferr S.p.A.,Biblioteca Hertziana
+293,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Palazzo del Belvedere,Giardino Edoardo Weiss,Roma Termini Piastra,Hotel Viminale
+294,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Piazza del Campidoglio,Aspresso,San Lazzaro in Borgo,Casa per feria Mysterium Christi
+295,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Chiesa di Santa Maria della Pietà,Isola Tiberina,Cappella del Monastero Mater Ecclesiae,Palazzo Capizucchi
+296,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Civetteria,scuola elementare Giuseppe Tosi,Splendide Royal,Scuola secondaria Macinghi-Strozzi
+297,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Villa Farinacci,Ospedale Carlo Forlanini,Chiesa di Sant'Egidio a Borgo,Casa dell'Acqua
+298,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Teatro Brancaccio,Parco Mattia Preti,Hotel Sisto V,Scuola Materna Regina Angelorum
+299,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Casa Bacciarini,Conad,Ospedale Israelitico,Lotto 62
+300,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Policlinico Umberto I - Clinica odontoiatrica,Lichi del Nilo,Cortile del Maresciallo,"Istituto Paritario ""A. Ruiz"""
+301,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Bowling Brunswick,Campo base Linea C,Hotel Select,Parco Carlo Ciocci
+302,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Tempio di Esculapio,Convento di San Pietro in Montorio,Giardino Danilo di Veglia,San Pio X
+303,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Liceo Scientifico Giuseppe Peano,Largo Giuseppe Vitetti,Parco Donatella Colasanti,Policlinico Umberto I
+304,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Lacus Curtius,Giardino di Villa Wolkonsky,Parco Feronia,Stadio Olimpico
+305,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,CSOA Spartaco,Corte dei Conti,Beauty Mall,Abbazia di San Paolo fuori le mura
+306,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Largo Guglielmo Henzen,Istituto Professionale Via Acireale,Edificio ditta di pulizie,Nucleo sommozzatori di Roma
+307,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Padiglione 4,Giardini di Palazzo Barberini,Caserma Cefalonia Corfù,Moon River
+308,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Palazzo Valentini,Circo Massimo,Basilica di Santa Prassede,Museo dell'Ara Pacis
+309,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Pontificio Collegio Americano del Nord,Accademia della Scherma,Parco Maria Rosaria Lopez,SSD L'Airone
+310,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Conad,Casina del Salvi,Enel,Chiesa dei Santi Sette Fondatori
+311,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Piazza Sante de Sanctis,San Lorenzo in Damaso,Parco Giancarlo Sbragia,Palazzo Fioravanti
+312,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Casa Tarpea,Chiesa della Santissima Annunziata a Via Ardeatina,Casa Cantoniera del Sellaretto,Complesso Incis - 1 Lotto
+313,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Mercato Magna Grecia – Metronio,Banca d'Italia - Centro Guido Carli,La Torre Sporting Club,Monte Testaccio
+314,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Parcheggio di scambio Ponte Mammolo,Commissariato San Giovanni,Scuola Materna Caleidoscopio,Ospedale generale Madre Giuseppina Vannini
+315,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Tempio di Apollo,Chiesa di San Silvestro al Quirinale,Villa Colonna,Palazzo di Bernich a Via Aureliana
+316,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Santa Maria del Carmine e San Giuseppe al Casaletto,San Ippolito a Villa Massimo,Scuderie da Tiro,Giardino citta dell'utopia
+317,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Giardini del Quirinale,Casa dei Vallati,Villa Lazzaroni,Foresteria Santa Scolastica
+318,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Largo San rocco,Liceo Scientifico Stanislao Cannizzaro succursale,Teatro Orione,Dem
+319,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Centro InfoSapienza,IP,Nuovo Mercato Esquilino,Magliana
+320,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Pontificio Collegio Beda,Palazzo del Collegio Spagnolo,Via Vai Bar - Bistrot,Santa Brigida
+321,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Palazzo Gabrielli Borromeo,Casale di Giovio,Palazzetto dello Sport,Stabilimento OCV Atelier
+322,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Domus Helena,Municipio Roma V,Ministero della Marina,Chiesa di San Girolamo a Corviale
+323,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Chiesa di Santa Maria dell'Orazione e Morte,Palazzo Sciarra Colonna di Carbognano,Acquedotto Neroniano,Quattro Venti
+324,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Presidenza del Consiglio dei Ministri (Uffici),Edicola,Largo Lamberto Loria,Largo Leo Longanesi
+325,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Via Vai Bar - Bistrot,Oratorio dell'Arciconfraternita del Santissimo Sacramento,Mercato di Via Sannio,Mercato Monte Mario Thouar
+326,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Convento delle Suore Sacramentine di Maria Ausiliatrice,Italvia Automobili Due,Retitalia,Vivai Mondo Verde
+327,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Asilo,Guardia di Finanza - 1° Nucleo Roma,Manforte,Liceo artistico Roma 2
+328,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Casa Generalizia Sant'Anna al Laterano,Giardino dei Cedrati,Villino Pignatelli,Deutsche Bank
+329,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Chiesa di Sant'Antonio in Campo Marzio,Felini,St. Stephen's School,Ambasciata dello Yemen
+330,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Obelisco Flaminio,Giardino Martiri di Via Fani,Villa Santa Maria,Policlinico Italia
+331,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Tipografia Vaticana,Stadio Rugby Tre Fontane campo 1,Giardino Edoardo Weiss,Parco Francesco Cozza
+332,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Stanza di Eliodoro,Radisson Blu,Circolo bocciofilo,Acea Belsito
+333,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Palazzo Armellini Cesi,Chiesa di Nostra Signora di Lourdes a Tor Marancia,IceVillage,Palazzina B
+334,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Chiesa di Sant'Anna dei Palafrenieri,La7,Ministero dell'Istruzione e del Merito,Mura Aureliane
+335,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Casale La Cacciarella,Padiglione Antonini,"Grattacheccaro ""Sora Maria""",Roma Convention Center La Nuvola
+336,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,INPS Roma EUR,Pineta Sacchetti,Palazzo Frangipane,Padiglione 9A
+337,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Moschea di Roma,Magazzino,Parco degli Acquedotti,Scuola Elementare Caterina Usai
+338,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Torre delle Milizie,Sala Operativa - Comitato CRI Area metropoli di Roma Capitale,Terme di Diocleziano,Parco Lineare delle Mura
+339,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Guanaco,Téatro de 'Servi,Hotel Santa Prisca,Università Sapienza di Roma - Facoltà di Ingegneria
+340,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Studio Hangloose,Palazzo dell'antica Zecca,Pratone di Torre Spaccata,Villa Blanc
+341,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Ex-Parcheggio clienti Lidl,Città dell'Utopia,Terme di Diocleziano,Istituto Piccole Ancelle del sacro cuore
+342,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Sudigiri,Borgo ragazzi don Bosco,Liceo scientifico Farnesina - sede Robilant,Art Café
+343,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Istituto Poligrafico e Zecca dello Stato,Fontana del porto di Ripetta,Pizzeria Trattoria La Contea,Istituto Centrale per la Grafica
+344,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Villa Madama,Santa Maria d'Itria,Sfioratore di Piena Grottaperfetta,Monumento Funerario Colombario
+345,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Roma Convention Center La Nuvola,Padiglione Ippocastano,Palazzo dei Pupazzi,Tipografia Vaticana
+346,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Ippodromo delle Capannelle,Chiesa Parrocchiale della Trasfigurazione di Nostro Signore Gesù Cristo,Area Sosta Camper Romae,Hotel Bled
+347,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Torraccio o Trullo dei Massimi,Hortus Urbis,Auditorium del Massimo,ex Ministero delle Finanze
+348,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Esso,Scuderie da Tiro,Palazzo Montemartini,Villino Rasponi
+349,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,UnipolSai (ex Fondiaria-SAI),Giardini Nuccitelli - Persiani,Chiesa di Santa Lucia in Selci,Deposito Magliana
+350,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Ambasciata degli Stati Uniti d'America,Monastero di Tor de' Specchi,Dem,Giardino della Villa Massimo
+351,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Ippodromo delle Capannelle,Cabaretta shopping center and outlet,Lotto 12,Scuola primaria Aldo Fabrizi
+352,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Piazza Bainsizza,Cassa Nazionale del Notariato,Chiesa di Sant'Agapito,Religiosi di San Vincenzo de' Paoli
+353,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Circolo ARCA,Ariston Hotel,Edicola Ghingo,Il mercatino delle rose
+354,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Chiesa di Santa Maria della Pace,Giardino Liberato,Istituto Tecnico Von Neumann succursale (ex Meucci),Foro Traiano
+355,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Istituto Comprensivo Piazza Winckelmann,Parco Giovannipoli,Ponte della Musica,Liceo Scientifico Giuseppe Peano
+356,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Palazzo Manfredi,Ippodromo di Tor di Valle,"Piscina ""Delfino""",Convento Santa Sabina
+357,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Edicola,Acea Monte Mario 1,Cantieri Metro C - Stazione Porta Metronia,Università Roma Tre - Dipartimento di Matematica e Fisica
+358,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Porta Asinaria,Passetto di Borgo,8° Reggimento Lancieri di Montebello,Giardino Giuseppe Mazzullo
+359,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Foresteria universitaria,Area Cani,Palazzo Boncomapagni Corcos,Portico degli Dei Consenti
+360,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,ENEL,Roma Porta San Paolo,Piazzale delle Provincie,Città Futura
+361,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Palazzo Massimo,Scuderie da Tiro,Liceo Maria Montessori,Conad
+362,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Chiesa di San Roberto Bellarmino,Coati,Il giardino dei pulcini,Snack Bar Igea
+363,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Convento di Santa Maria in Aventino o del Priorato,Accademia di Belle Arti di Roma - Sede di Campo Boario,Università Roma Tre - Scuola di Lettere Filosofia Lingue,BNL
+364,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Convento di San'Onofrio,Sacello dei Cappuccini,Istituto Pio IX,Servizio Tossicodipendenze
+365,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Padiglione 90 bis San Filippo Neri,Caserma Salvo D'Acquisto,Pinacoteca Vaticana,Ex Stazione Trastevere
+366,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Palazzo Costaguti,Giardino della Villa Massimo,Palazzo Dama,Istituto Superiore di Sanità
+367,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Kings of Rome,Coati,Chiesa di San Biagio della Pagnotta,Distaccamento San Giovanni
+368,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Parcheggio clienti,Piazza Retta,Istituto professionale Teresa Confalonieri succursale,Scala dell'Arce Capitolina
+369,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Chiesa di Santa Maria in Grottapinta,Scuderie da Tiro,Acea Lanciani,Padiglione 24
+370,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Sepolcro del Giovinetto Quinto Sulpicio Massimo,Palazzo del Collegio Spagnolo,Ceramica,Villa Bonelli
+371,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,L'Osservatore Romano,Il Capriccio,Giardino Domenico Pertica,Lotto 3
+372,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Casa di Raffaello,Parco Feronia,Policlinico militare Celio,Giardino Lorenzo Achille Scotto
+373,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Box auto Via Oslavia,Largo Alfredo Oriani,Chiesa di Sant'Agnese in Agone,Largo Ginnasi
+374,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Ambasciata di Albania,Università Roma Tre - Dipartimenti di Ingegneria,DisCo Lazio,Largo Castel del Piano
+375,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Padiglione 9B,Elemosineria Apostolica,Piramide,Mercato rionale Tuscolano III
+376,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Chiesa di Sant’Omobono,Giardino Albert Sabin,Santi Vincenzo e Anastasio a Fontana di Trevi,Dipartimento dei Vigili del Fuoco
+377,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Giardino Pilade Adriano Forcella,Casa di cura San Giuseppe,Torre Millina,Via di Santa Dorotea
+378,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Procura Generale delle Suore Missionarie Pallotine,Torre di Centocelle,Parco Via Columella,Basilica di San Giovanni in Laterano
+379,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Palatium Apostolicum,Grotta di Lourdes,Chiesa di San Romano martire,Il Castello dei Piccoli
+380,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,TH Roma – Carpegna Palace Domus Mariae Hotel,LUMSA,Giardino Lorenzo Achille Scotto,Ippolito Nievo
+381,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Mercato Rionale Portonaccio I,Parco Marcella e Maurizio Ferrara,Ex caserma Guido Reni,Courtyard by Marriott Rome Central Park
+382,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,La Villa Roma,Agenzia delle Entrate,Acea Magliana 2,Mercato rionale
+383,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,istituto Santa Maria Consolatrice,Chiesa dei Santi Sette Fondatori,Chiesa del Sacro Cuore di Gesù,Hotel Camplus
+384,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Pian Due Torri,Centrale Telecom Ardeatina,Istituto Tecnico Nautico Marcantonio Colonna,Edificio diroccato
+385,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Best Western Plus Hotel Spring House,Mercato Tormarancia,Monumento ad Anita Garibaldi,Palazzo della Consulta
+386,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Amedio mondo dei fiori,Stanza di Eliodoro,Palazzo Giustiniani,Convento di Sant'Isidoro
+387,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Casa Madre Nazarena,Largo Alessandro Toja,Chiesa di Santa Maria dei Miracoli,Areti Quirinale
+388,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Mercato Torpignattara,Chiesa di San Filippo Neri in Eurosia,Eliporto del Vaticano,Chiesa di San Giuseppe di Cluny
+389,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Scuola primaria Giosuè Carducci,Centro Ippico Villa Borghese,Il Pettirosso,Centro Studi Penitenziari
+390,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Edificio diroccato,Capella Santa Monica degli Agostiniani,San Giovanni a Porta Latina,Chiesa del Corpus Domini
+391,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Kuwait Petroleum Italia S.p.a.,Piazza Dante,Roma Convention Center La Nuvola,Istituto nazionale di statistica
+392,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Torre Lazzaroni,Giardino del Lago,Centro Federale Valco San Paolo,Santa Maria in Aracoeli
+393,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Palazzo del Grillo,Sant’Ivo dei Bretoni,Piazza Cesare Cantù,Biblioteca della Pontificia Università della Santa Croce
+394,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Complesso natatorio del Foro Italico,Guanaco,Casino di Villa Altieri,Palazzo di Propaganda Fide
+395,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Scuola primaria Ermenegildo Pistelli,Zen Garden,Centro di raccolta AMA Villa Gordiani,Rinascente
+396,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Sepolcro del fornaio Eurisace,Chiesa di San Romano martire,Chiesa dei Santi Aquila e Priscilla,Casa di Santa Brigida
+397,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Casa Cantoniera del Sellaretto,Collegio Missionario Rosmini,Palazzo degli Accetti,Casa cantoniera
+398,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Forum Austriaco di Cultura,Edicola,Largo Piero Bargellini,Giardino Liberato
+399,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,"Scuola Primaria ""Via Lione""",Parco Lineare delle Mura,Ponte Neroniano,Roma Convention Center La Nuvola
+400,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Biblioteca del Senato Giovanni Spadolini - Palazzo della Minerva,Piazza Buenos Aires,Parco Giordano Cerro,IX Legione Guardia di Finanza
+401,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Umberto Re d'Italia,Air Music di Costantini Claudio,Chiesa di San Giovanni Battista Decollato,"Grattacheccaro ""Sora Lella"""
+402,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Appio Legnami,Federazione Italiana Giuoco Calcio,Parco della Fontana dell'Acqua Acetosa,Stadio Olimpico
+403,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Clinica Villa Benedetta,Carrozzeria Cavacece,Centro sportivo comunale Ferdinando Persiani - Fernando Nuccitelli,Pontificia Universitas Antonianum
+404,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Largo Padre Leonardo Bello,Caserma Salvo D'Acquisto,Palazzo Capranica,Futsal Arena - Pala GEMS
+405,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Centro bocciofilo,Edicola,Areti Tor di Quinto,Lotto 43
+406,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Croce Rossa Italiana - Sala Solferino,Piazza Dei Cavalieri Di Malta,"Istituto Professionale di Stato ""Confalonieri""",Villa Spada
+407,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Museo Centrale del Risorgimento,Istituto artistico Caravaggio,Edicola AnGi,Aqua Neroniana
+408,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Area sacra dell'Argentina,Chiesa dei Santi Nereo e Achilleo,Rome War Cemetery,Centro Maria Adelaide
+409,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Convento di San'Onofrio,Oranghi,Ospedale Santo Spirito in Sassia,Giardini Viale Pinturicchio
+410,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Mercato Flaminio II,Complesso Integrato Columbus,Piazza di Ponte Sant'Angelo,Piazza Andrea Doria Pamphili
+411,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,ENI,Circolo bocciofilo,Palazzo Giustiniani,Guardia di Finanza - Reparto T.L.A. dei Reparti Speciali
+412,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Monumento Funerario del Frontespizio,Sepolcro a piramide,Sant'Ivo alla Sapienza,Kings of Rome
+413,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Mercato rionale Carlo Calisse,Monumento Funerario Rabirii,Chiesa dei Santi Sette Fondatori,Basilica di San Lorenzo in Lucina
+414,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Centro universitario sportivo La Sapienza,Gruppo Castaldi,Liceo scientifico Teresa Gullace,Centri sportivi privati
+415,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Chiosco Caffè,Giardino Americano,Caserma Castro Pretorio,Burger King
+416,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Piramide,Ospedale San Giovanni,Ospizio di Santa Marta,Strike Spa
+417,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,"Scuola Secondaria di I grado ""Giuseppe Berto""",Questura di Roma,Palazzo del Viminale,Piazzale Victor Hugo
+418,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Santa Maria del Buon Consiglio,Fonte Egeria,Roma Capitale - Dipartimento Patrimonio e Politiche Abitative,"Scuola secondaria di primo grado ""Antonio Gramsci"""
+419,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Piazzale delle Provincie,Ex Cinodromo,San Rocco all'Augusteo,Obelisco Lateranense
+420,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Clinica Guarnieri,Parco Giochi Donna Olimpia (Villa Pamphili),Ninfeo Villa dei Quintili,Parco Kolbe
+421,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Scuola Germanica Roma,Atrio dei Quattro Cancelli,Lacus Curtius,Giardino di Viale Tiziano
+422,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Giardino Armida Barelli,Casa Generalizia Sant'Anna al Laterano,"Liceo di Stato ""Eugenio Montale""",Edicola da Francesca
+423,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Chiesa dei Santi Fabiano e Venanzio,Claretti Legno,Palazzetto Albertoni,Magazzino e Spogliatoi
+424,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Piazza Castroreale,Praetextatus Catacombs,Andiamo a teatro,Municipio Roma V - Sala del Consiglio
+425,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Villa Appia Antica,Chiesa di San Francesco di Paola ai Monti,Parco Valle dell'Aniene,Lo Zodiaco
+426,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Lutech Advanced Solutions,Pantheon,Chiesa di Santa Maria del Priorato,ASL Roma 1 - Servizio tutela salute mentale e riabilitazione età evolutiva
+427,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Parco Caduti del Corpo nazionale dei Vigili del Fuoco,Ambiente 4,Monumento ai caduti di Menichelli Corrado (sec. XX),Reale Istituto Neerlandese
+428,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Parco Age & Scarpelli,ex Chiesa di San Giovanni in Ayno,Serra monumentale ottocentesca,Giardino Angelo Galafati
+429,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Brucomela,Scuola primaria Romolo Balzani,Casa di Santa Francesca Romana a Ponte Rotto,Istituto Villa Flaminia
+430,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Basilica di Santa Maria Ausiliatrice,Chiesa e Santuario di San Giovanni Battista de La Salle,Palazzetto di Sisto V,Palazzo Alberini
+431,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Scuola Sacro Cuore,Croce Rossa Italiana - Sala Solferino,Complesso Monumentale Santa Agnese fuori le mura,Casa dei Cavalieri di Rodi
+432,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Palazzina Rosa Emilio,Società Sportiva Dilettantistica Vita,Museo dei Fori Imperiali,Centro Primario di distribuzione Roma EUR
+433,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,La Pelanda,Scuola primaria Gianni Rodari,Parco Dario Rubinaccio,Torraccio della Cecchina
+434,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Mausoleo Ossario Garibaldino,Cantiere Metro C - Stazione,Virgin Active Roma Calasanzio,Autodemolizioni Rozzi
+435,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,CiampaCavallo,Parco Tor di Quinto,Ente Nazionale di Previdenza ed Assistenza dei Medici e degli Odontoiatri - Fondazione Enpam,Villa Bau
+436,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Mausoleo di Costanza,ISTAT Ufficio regionale Lazio,Monumento alla Resistenza,Villino di Rudinì
+437,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Piazza Camerino,Scuola primaria Vincenzo Cuoco,Piazza del Quirinale,Giardino Omero Ranelletti
+438,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Santa Maria del Rosario e San Pietro Chanel,Città dell'Altra Economia,Parco Regionale Urbano del Pineto,Villa Gordiani
+439,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Scuola dell'infanzia e primaria Statale,Piazzale del Verano,Scuola Giulio Cesare,Palazzo Caetani
+440,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Municipio Roma III,Istituto Tecnico Agrario Statale Giuseppe Garibaldi,Terrazza Tevere,Casino del Graziano
+441,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Largo Guglielmo Henzen,Palazzo di Pietro Carnevale a Piazza Esquilino,Lotto 54,Scuola secondaria di primo grado Rosa Parks
+442,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Parco Morelli,Parco di Porta Capena,Centro di Ricerca per gli Alimenti e la Nutrizione,Dar Poeta Al Casale
+443,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Edicola,Chiesa di Santa Teresa del Bambin Gesù in Panfilo,Edicola De Simone,Parco Morelli
+444,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Complesso natatorio del Foro Italico,Parco di Villa Berta,Procura della Repubblica di Roma,Parco della Solidarietà
+445,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Palazzo Giorgioli,Casale,Santa Susanna alle Terme di Diocleziano,Casale Ceribelli
+446,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Panorama,Serra monumentale ottocentesca,Piazza Ragusa,Istituto Tecnico Via di Bravetta 541
+447,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Giardino di Sant'Alessio,Parcheggio dipendenti,Catacombe di San Callisto,Piazza Vittorio Emanuele Secondo
+448,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Basilica di Sant'Anastasia al Palatino,Dar Poeta Al Casale,Parco Pier Paolo Pasolini,Giardino Giapponese
+449,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Stazione San Lorenzo,Santa Barbara dei Librai,Piazza Bartolomeo Romano,Tempio di Alatri
+450,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Santi Martiri dell'Uganda a Poggio Ameno,Parking Faravelli,Chiesa di Santa Maria in Transpontina,Chiesa di Santa Caterina da Siena
+451,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Parco Roberto Almagià,Sudigiri,Liceo scientifico Farnesina - sede Robilant,Santi Marcellino e Pietro al Laterano
+452,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,"Palazzo Massimo ""di Pirro""","Aleph Rome Hotel, Curio Collection by Hilton",Palazzo Cenci Bolognetti,Monastero Agostiniano delle Suore di Santa Lucia in Selci
+453,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Palazzina Rosa Emilio,Chiesa di Santa Chiara a Vigna Clara,Arco degli Acetari,Parco Donatella Colasanti
+454,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Caritas,Tennis Club Sant'Agnese,Scuola secondaria di I grado don Giuseppe Morosini,Palazzo del Governo Vecchio
+455,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,San Benedetto,Dipartimento dell'Amministrazione Penitenziaria,ex-Chiesa San Filippo Neri,Hotel Giglio dell'Opera
+456,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Chiesa di San Tommaso in Formis all’Arco di Dolabella,Sala di Costantino,Lotto 42,Parco Giovannipoli
+457,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Cacciarella,Vivai Mondo Verde,Casino di Villa Giustiniani Massimo,Scout Shop La Tenda
+458,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Lotto 32,Sepolcro di Largo Talamo,Roadhouse,Chiesa di San Bonaventura
+459,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,A.S.D. Certosa Calcio,BNL,Centri sportivi UMTS,Centro Congressi Frentani
+460,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Palazzo della Dataria,Piante e Fiori Irene,Piazza Camillo Re,St. Mary's Pub
+461,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Scuola secondaria Vincenzo Bellini,Banca UBAE,Largo dello Scautismo,Mura Aureliane
+462,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Associazione Culturale Casale Podere Rosa,Trianon,Tempio di Esculapio,Ex Snia Viscosa
+463,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Scuola secondaria Francesco Petrarca,Gifar,Ambasciata di Algeria,Guardie per l'ambiente
+464,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Adoro Otium Hotel,Lichi del Nilo,Istituto Superiore Antincendi,Chiesa di Trinità dei Monti
+465,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Ambulatorio Madre Giuseppina Vannini,Università Roma Tre - Scuola di Lettere Filosofia Lingue,Scuola secondaria Piersanti Mattarella,Locali antidoping
+466,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Chiesa di Nostra Signora di Lourdes a Tor Marancia,Temple of Hadrian,Centro Remiero,Parco Garbatella
+467,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Basilica di San Paolo fuori le mura,Parco della Caffarella,Palazzo degli Accetti,Oly Hotel
+468,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Largo dell'Arma di Cavalleria,Scuola secondaria Via Torre Annunziata,Beauty Mall,Acea Lanciani
+469,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Caserma Dobrej,Colonnato del Bernini,Cappella di Santa Maria del Carmine,Istituto professionale Roberto Rossellini (succursale)
+470,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Palazzo della Sapienza,Istituto Massimiliano Massimo,"Scuola Secondaria di I grado ""Giuseppe Berto""",Monastero Santissimo Corpo di Cristo
+471,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Scuola Elementare Gian Giacomo Badini,BNL,Palazzo Massimo,Lotto 60
+472,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Radio Rai,Dirección General de los Legionarios de Cristo,Chiesa di Santa Maria del Suffragio,Palazzo Albertoni
+473,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Stazione Metro Valle Aurelia,Parco della Serenissima,Villa Anna Maria,Istituto Villa Flaminia
+474,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Residenza dell'Ambasciatore della Repubblica Federale di Germania,Piazza Ragusa,Palazzo di Giustizia,Pewex
+475,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Ambasciata dell'Iran,Chiesa di San Vincenzo de Paoli all'Aventino,Liceo scientifico Farnesina - sede Robilant,Criminalpol
+476,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Largo Carlo Salinari,Centro Direzionale FF.SS.,ex Chiesa di San Giovanni in Ayno,Casa Cantoniera del Sellaretto
+477,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Kings of Rome,Parco Costa Rica,Tre Fontane,Largo Giuseppe Testa
+478,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Palazzo di Gaetano Koch a Via Esquilino,Mura Aureliane,McDonald's,Parco Paolo Renzi
+479,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Centro Recupero Fauna Selvatica,Complesso Integrato Columbus,Sepolcro di M. Servilio Quarto,I. C. Alfieri Lante della Rovere
+480,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Quattro Venti,Chiesa di Sant'Antonio Abate all'Esquilino,Presidio sanitario Via Monza,Centro di Produzione TV Dear
+481,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Cinema dei Piccoli,Chiesa di Santa Maria Annunziata,Riservato Polizia di Stato,Palazzetto Capocci
+482,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Campo da calcetto Parrocchietta,Vigili del fuoco - distaccamento Roma EUR,Hotel Viminale,St. Mary's Pub
+483,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Scuola primaria Renzo Pezzani,Vivaio Effezeta,Ambasciata della Repubblica di Corea,Commissariato San Basilio V
+484,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Villa Colonna,Convento di San Francesco a Ripa,Palatium Apostolicum,IP
+485,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Istituto artistico Caravaggio,Piazza Roselle,Porto Fluviale Occupato,Basilica di San Clemente al Laterano
+486,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Palazzo Borromeo,Acquedotto Claudio,Poliambulatorio Via Bresadola,Propilei Egizi
+487,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Circolo sportivo Polizia di Stato,Aeroporto di Roma-Urbe,Antiquarium Forense,Basilica di Santa Maria del Popolo
+488,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Complesso Incis - 1 Lotto,Chiesa di Santa Lucia,The St. Regis Roma,ENI
+489,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Lotto 15,Teatro Mongiovino,Parco di Porta Capena,Piazzale Clodio
+490,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Hotel Center 2,Pontificio Collegio Maronita,Istituto nazionale per le malattie infettive Lazzaro Spallanzani,San Raffaele Portuense
+491,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Palazzi Podesti a Piazza Vittorio Emanuele II,Residenza Centro ELIS,ACEA,Piazza dei Navigatori
+492,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Giardino Danilo di Veglia,Esso,Caserma Giovanni Romagnoli,"ITCG ""Carlo Matteucci"" - Succursale"
+493,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,C,Poste Vaticane,Tempio di Apollo,Collegio romano,Ufficio Postale Nomentano
+494,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Asilo Alessandro Marcucci,Mura Leonine,Hotel Mercure - Delta Colosseo,ENI
+495,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Auditorium del Massimo,Piazzale Pier Luigi Nervi,Xian Du,Mausoleo di Campo Barbarico
+496,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Tempio delle Ninfe,Scuola primaria G. Quasimodo,Chiesa di San Vincenzo de Paoli all'Aventino,Tomba di Priscilla
+497,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,A,Istituto Istruzione Superiore “Via dei Papareschi”,Giardini di Viale Carlo Felice,Repsol,Casa Generalizia Sant'Anna al Laterano
+498,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,D,Monumento a Garibaldi,Farmacia Vaticana,Collegio romano,Ippodromo delle Capannelle
+499,Which of the following AOIs (Area of Interest) in Rome is likely to have the largest area?,B,Basilica di San Marco,Monastero Agostiniano delle Suore di Santa Lucia in Selci,Studio Hangloose,la tipografia s.r.l.

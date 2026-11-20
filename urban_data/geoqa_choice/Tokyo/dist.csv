@@ -1,0 +1,486 @@
+id,question,answer,A,B,C,D
+0,"What is the distance between ""大金星"" and ""ナガタ歯科"" in the Tokyo area?",B,0.64,3.79,10.95,2.8
+1,"What is the distance between ""吉野寿司"" and ""ギン酒場"" in the Tokyo area?",C,4.52,7.59,2.09,9.82
+2,"What is the distance between ""ビッグエコー"" and ""夢矢"" in the Tokyo area?",D,7.73,4.37,3.55,1.69
+3,"What is the distance between ""天王寺駐在所"" and ""アスクかなめ町保育園"" in the Tokyo area?",A,7.59,0.67,12.86,6.42
+4,"What is the distance between ""いちらん"" and ""津崎"" in the Tokyo area?",B,9.88,3.58,10.67,11.35
+5,"What is the distance between ""ナガタ歯科"" and ""CIRCLES新橋"" in the Tokyo area?",B,3.16,4.13,2.44,5.26
+6,"What is the distance between ""南国酒家 迎賓館"" and ""ライブカーサ両国北斎通り"" in the Tokyo area?",D,16.33,15.4,3.03,9.56
+7,"What is the distance between ""パークサイド毛利"" and ""Time Heights Yushima"" in the Tokyo area?",A,4.41,1.1,6.62,10.8
+8,"What is the distance between ""アジア文化会館"" and ""江東塩浜郵便局"" in the Tokyo area?",B,4.61,9.3,4.45,7.94
+9,"What is the distance between ""王子神谷雲母保育園"" and ""オリジン弁当"" in the Tokyo area?",A,8.34,11.87,9.88,9.66
+10,"What is the distance between ""Break24h"" and ""東京ガス"" in the Tokyo area?",A,12.79,15.61,20.05,6.63
+11,"What is the distance between ""江東潮見郵便局"" and ""ミスタードーナツ"" in the Tokyo area?",B,13.83,17.29,22.84,11.77
+12,"What is the distance between ""みその薬局"" and ""Asahi CALPIS"" in the Tokyo area?",A,10.06,8.66,14.16,12.76
+13,"What is the distance between ""いわさき"" and ""かつの湯(跡)"" in the Tokyo area?",C,6.55,12.78,8.06,13.1
+14,"What is the distance between ""帝京大学"" and ""石田ビル"" in the Tokyo area?",D,12.09,11.06,14.92,8.22
+15,"What is the distance between ""ケンタッキーフライドチキン"" and ""ちょこざっぷ"" in the Tokyo area?",A,5.74,3.95,1.21,7.81
+16,"What is the distance between ""江東区立毛利小学校"" and ""妙正寺川公園運動広場"" in the Tokyo area?",C,16.3,20.24,13.35,15.81
+17,"What is the distance between ""博多満月"" and ""Italian Tomato Cafe Jr."" in the Tokyo area?",D,3.77,2.52,1.87,5.4
+18,"What is the distance between ""Bizflex"" and ""共同ビル (万世)"" in the Tokyo area?",D,9.48,5.73,4.71,2.16
+19,"What is the distance between ""好茶"" and ""Yakiniku Stadium Jan Ikebukuro East Entrance"" in the Tokyo area?",D,11.82,15.45,11.49,7.84
+20,"What is the distance between ""共同ビル (万世)"" and ""練馬区立 開進第二小学校"" in the Tokyo area?",A,10.93,15.74,8.36,4.11
+21,"What is the distance between ""竜閑さくら橋際街角広場"" and ""アジア文化会館"" in the Tokyo area?",D,8.04,3.29,8.31,4.92
+22,"What is the distance between ""天下一品"" and ""桜上水薬局"" in the Tokyo area?",C,10.95,12.52,5.05,11.71
+23,"What is the distance between ""高橋歯科"" and ""武蔵家"" in the Tokyo area?",D,7.83,3.79,9.94,4.83
+24,"What is the distance between ""日興パレス東武練馬"" and ""花井会館"" in the Tokyo area?",D,4.88,3.05,14.82,9.1
+25,"What is the distance between ""天狗"" and ""シアターGロッソ"" in the Tokyo area?",A,10.72,8.77,12.94,15.55
+26,"What is the distance between ""サイゼリヤ"" and ""後楽ラーメン"" in the Tokyo area?",C,9.06,4.79,6.07,10.5
+27,"What is the distance between ""文京区立駕籠町小学校"" and ""ハイツわかば"" in the Tokyo area?",A,10.47,16.9,4.97,3.58
+28,"What is the distance between ""目黒区立不動児童館"" and ""スターバックス"" in the Tokyo area?",D,19.83,11.44,9.21,15.74
+29,"What is the distance between ""かるび家"" and ""MATOI"" in the Tokyo area?",B,12.61,11.43,15.67,5.34
+30,"What is the distance between ""佐藤第一薬局"" and ""洋 歯科クリニック"" in the Tokyo area?",C,5.03,4.33,7.51,3.28
+31,"What is the distance between ""Rehearsal Studio NODE"" and ""東京建物 Brillia HALL"" in the Tokyo area?",D,11.61,2.88,2.07,6.61
+32,"What is the distance between ""シティハイツ祐天寺"" and ""世田谷消防団第11分団第１防災機材格納庫"" in the Tokyo area?",B,7.51,5.78,13.51,12.42
+33,"What is the distance between ""カラオケ まねきねこ"" and ""りそな銀行 (Resona Bank)"" in the Tokyo area?",A,8.77,12.6,1.39,3.97
+34,"What is the distance between ""吉原"" and ""共栄ビル"" in the Tokyo area?",D,6.89,8.2,19.35,14.52
+35,"What is the distance between ""用賀2丁目公園"" and ""西新井栄町2丁目駐輪場"" in the Tokyo area?",C,24.8,20.15,21.66,17.15
+36,"What is the distance between ""むさし"" and ""銀座6丁目-SQUARE(木挽町通り)"" in the Tokyo area?",A,7.65,1.95,15.57,5.64
+37,"What is the distance between ""MS Building"" and ""足立区立鹿浜菜の花中学校"" in the Tokyo area?",C,4.22,2.37,9.15,12.22
+38,"What is the distance between ""香源"" and ""博多満月"" in the Tokyo area?",D,10.02,12.79,3.74,5.24
+39,"What is the distance between ""六本木グランドタワーレジデンス"" and ""富士ソフト秋葉原ビル"" in the Tokyo area?",A,5.19,2.1,12.63,2.24
+40,"What is the distance between ""備前屋"" and ""ハクシュプラザ健康ステーション"" in the Tokyo area?",B,22.56,19.88,24.77,23.75
+41,"What is the distance between ""善光寺"" and ""聖路加国際病院"" in the Tokyo area?",D,7.46,11.71,10.62,5.59
+42,"What is the distance between ""なかざわ内科"" and ""菊屋"" in the Tokyo area?",D,7.42,9.81,1.46,4.63
+43,"What is the distance between ""MAGAZINES"" and ""たいあん"" in the Tokyo area?",D,8.98,0.88,8.41,7.1
+44,"What is the distance between ""尾久在宅介護支援センター"" and ""日本電気計器検定所"" in the Tokyo area?",A,11.87,19.36,7.86,4.43
+45,"What is the distance between ""そば処 若松"" and ""サンライズ"" in the Tokyo area?",D,16.48,12.65,13.54,15.32
+46,"What is the distance between ""ナマステ"" and ""好茶"" in the Tokyo area?",A,11.25,17.42,4.51,14.04
+47,"What is the distance between ""定食 角"" and ""王子神谷雲母保育園"" in the Tokyo area?",C,17.24,14.43,11.91,8.94
+48,"What is the distance between ""巣鴨駅北口白山通り自転車駐車場"" and ""湘南メディカル記念病院"" in the Tokyo area?",A,6.45,2.84,5.16,8.28
+49,"What is the distance between ""ボルツ"" and ""マルカート"" in the Tokyo area?",C,20.82,11.23,12.91,5.87
+50,"What is the distance between ""Load parking"" and ""須賀乃湯(跡)"" in the Tokyo area?",B,17.45,12.44,10.75,17.35
+51,"What is the distance between ""蘭奢待"" and ""北町薬局"" in the Tokyo area?",D,6.67,6.18,7.11,2.16
+52,"What is the distance between ""金寿司"" and ""日本海庄屋"" in the Tokyo area?",A,15.11,7.83,9.44,18.31
+53,"What is the distance between ""社会福祉法人台東区社会福祉事業団特別養護老人ホーム蔵前"" and ""ハイスクールマーヤ"" in the Tokyo area?",A,8.17,11.21,12.81,12.38
+54,"What is the distance between ""代田2パーキング"" and ""番田歯科医院"" in the Tokyo area?",C,14.55,1.05,6.69,1.53
+55,"What is the distance between ""Hobson's"" and ""高橋歯科"" in the Tokyo area?",A,2.41,5.53,5.73,6.61
+56,"What is the distance between ""代々木警察署初台駅前交番"" and ""浅草ビアホール D's diner"" in the Tokyo area?",B,15.61,10.34,12.15,9.41
+57,"What is the distance between ""Be:rl ビィアール"" and ""シェイドヒル"" in the Tokyo area?",A,12.83,20.65,19.95,10.22
+58,"What is the distance between ""築地場外市場"" and ""日の丸交通"" in the Tokyo area?",D,6.28,1.42,10.96,4.4
+59,"What is the distance between ""入間湯"" and ""キリンビバレッジ"" in the Tokyo area?",D,18.34,8.53,18.29,12.82
+60,"What is the distance between ""吉澤・川辺ビル"" and ""金光教中野教会"" in the Tokyo area?",D,5.9,7.12,14.94,9.19
+61,"What is the distance between ""ひろと家"" and ""入間湯"" in the Tokyo area?",C,7.76,19.55,15.08,20.07
+62,"What is the distance between ""第一勧業信用組合"" and ""一ノ橋際公衆トイレ"" in the Tokyo area?",B,11.14,8.72,11.88,7.31
+63,"What is the distance between ""善福寺川緑地"" and ""Arrow Parking"" in the Tokyo area?",A,1.49,4.31,3.63,5.53
+64,"What is the distance between ""KAMA KAMA"" and ""カフェ ド クルーセ"" in the Tokyo area?",C,3.13,2.71,8.27,13.77
+65,"What is the distance between ""家系 武の極み"" and ""岩瀬内内科循環器科クリニック"" in the Tokyo area?",C,7.9,14.89,13.44,17.82
+66,"What is the distance between ""ほのぼの亭"" and ""豚野郎"" in the Tokyo area?",C,8.82,4.71,1.81,6.74
+67,"What is the distance between ""山椒"" and ""城南信用金庫"" in the Tokyo area?",C,12.63,3.69,9.0,7.24
+68,"What is the distance between ""おなかいっぱい"" and ""市ヶ谷薬局"" in the Tokyo area?",B,1.39,3.4,10.86,1.07
+69,"What is the distance between ""南阿佐谷すずらん緑地"" and ""カテリーナ三田タワースイートイーストアーク"" in the Tokyo area?",D,17.91,5.76,18.88,11.71
+70,"What is the distance between ""MATOI"" and ""ファミリーマート 江北二丁目店"" in the Tokyo area?",A,8.03,5.26,10.8,4.31
+71,"What is the distance between ""鈴木薬局"" and ""根津食堂"" in the Tokyo area?",D,10.06,2.19,10.43,4.09
+72,"What is the distance between ""UENO11 Social Plaza"" and ""藤田マンション"" in the Tokyo area?",B,7.48,4.11,5.15,10.41
+73,"What is the distance between ""聖路加国際病院"" and ""秋葉原鴻池ビル"" in the Tokyo area?",A,3.46,5.24,1.62,0.83
+74,"What is the distance between ""ユアーパーキング"" and ""なかざわ内科"" in the Tokyo area?",A,5.9,12.92,11.09,2.58
+75,"What is the distance between ""伊藤園"" and ""ひろと家"" in the Tokyo area?",A,5.52,12.99,2.76,7.63
+76,"What is the distance between ""南蔵院前公衆便所"" and ""ふく田"" in the Tokyo area?",C,4.29,2.87,6.33,12.55
+77,"What is the distance between ""堀ビル"" and ""やまとビル"" in the Tokyo area?",B,11.51,4.04,7.96,2.7
+78,"What is the distance between ""私立 東京女学館小学校 中学校 高等学校"" and ""全国都市会館"" in the Tokyo area?",D,11.12,9.94,9.22,3.47
+79,"What is the distance between ""富士見ビル"" and ""ハイム大熊"" in the Tokyo area?",C,7.8,6.79,11.37,13.7
+80,"What is the distance between ""エナザビル"" and ""アイ・アンド・イー日本橋ビル"" in the Tokyo area?",D,8.65,13.78,0.99,5.98
+81,"What is the distance between ""Konnoubashi Hiroba"" and ""すずき歯科医院"" in the Tokyo area?",A,7.98,2.95,13.65,4.52
+82,"What is the distance between ""立正佼成会 港教会"" and ""バンザイ"" in the Tokyo area?",B,4.22,11.27,9.89,15.37
+83,"What is the distance between ""Pay phone"" and ""国際こども図書館"" in the Tokyo area?",B,7.0,10.15,3.97,13.18
+84,"What is the distance between ""ルーブル三田"" and ""シティハイツ祐天寺"" in the Tokyo area?",D,12.52,0.85,1.74,5.49
+85,"What is the distance between ""コカ・コーラ"" and ""トモズ"" in the Tokyo area?",D,13.2,9.68,5.89,8.18
+86,"What is the distance between ""ドトールコーヒーショップ"" and ""銀漢亭"" in the Tokyo area?",C,9.9,5.62,3.31,5.71
+87,"What is the distance between ""成宗変電所"" and ""Times"" in the Tokyo area?",A,14.37,15.55,19.86,8.56
+88,"What is the distance between ""Tachikichi Shibuya"" and ""ふたご"" in the Tokyo area?",C,17.51,13.25,15.83,9.18
+89,"What is the distance between ""池尻保育園"" and ""山椒"" in the Tokyo area?",D,13.92,3.77,0.69,6.21
+90,"What is the distance between ""全国都市会館"" and ""新宿サンエービル"" in the Tokyo area?",D,5.9,0.71,6.12,3.95
+91,"What is the distance between ""CIRCLES新橋"" and ""鮨処 さく山"" in the Tokyo area?",C,8.63,8.83,5.05,9.5
+92,"What is the distance between ""フェニックス浜松町"" and ""OnePark"" in the Tokyo area?",B,5.33,6.56,10.17,11.77
+93,"What is the distance between ""Mitsui Gardens Libray"" and ""中野区立本町図書館"" in the Tokyo area?",D,8.92,13.0,9.34,6.15
+94,"What is the distance between ""大衆酒場 魚多"" and ""山田屋"" in the Tokyo area?",D,15.11,3.93,4.28,7.35
+95,"What is the distance between ""マンボー"" and ""Cocofuku"" in the Tokyo area?",A,12.0,19.48,4.02,7.25
+96,"What is the distance between ""炭の魂"" and ""みずほ銀行"" in the Tokyo area?",C,8.13,4.17,5.76,1.07
+97,"What is the distance between ""D'sVARIE初台ビル"" and ""東京湾岸警察署中川水上派出所"" in the Tokyo area?",D,17.65,17.57,12.28,15.65
+98,"What is the distance between ""観音寺"" and ""マルヤス酒場"" in the Tokyo area?",C,6.69,9.88,2.04,7.01
+99,"What is the distance between ""本郷図書館"" and ""塚田農場"" in the Tokyo area?",A,3.07,1.19,9.71,4.43
+100,"What is the distance between ""シアターGロッソ"" and ""千代松"" in the Tokyo area?",B,5.58,6.96,9.27,14.23
+101,"What is the distance between ""日本郵政公社法人営業推進本部東日本法人営業推進本部;日本郵政公社郵便輸送センター東日本郵便輸送センター;日本郵政公社健康管理室本社健康管理室;日本郵政公社国際郵便決済センター"" and ""Tokumakotokaishika Kyosei Dental Clinic"" in the Tokyo area?",D,12.24,10.33,8.88,4.7
+102,"What is the distance between ""セレーサ駒込"" and ""新宿区立大久保三角公園"" in the Tokyo area?",D,8.38,7.83,11.73,5.15
+103,"What is the distance between ""ほっともっと"" and ""ねぎし"" in the Tokyo area?",C,8.16,7.72,11.08,6.41
+104,"What is the distance between ""野方警察署"" and ""Coffee House LOFT"" in the Tokyo area?",B,15.28,10.07,3.08,11.68
+105,"What is the distance between ""中野区立 向台小学校"" and ""松本ビル"" in the Tokyo area?",C,11.12,12.25,7.09,11.3
+106,"What is the distance between ""杉玉"" and ""K"" in the Tokyo area?",D,9.51,6.28,4.11,5.26
+107,"What is the distance between ""ぎんのとら"" and ""レオパレス サクラパークA"" in the Tokyo area?",B,6.02,12.55,14.3,16.57
+108,"What is the distance between ""マルヤス酒場"" and ""ケンタッキーフライドチキン"" in the Tokyo area?",D,1.93,8.84,10.49,5.49
+109,"What is the distance between ""東京ガス"" and ""マンション"" in the Tokyo area?",B,20.62,17.83,22.28,22.76
+110,"What is the distance between ""デニーズ"" and ""浜作"" in the Tokyo area?",C,8.42,11.2,14.68,16.55
+111,"What is the distance between ""鮨処 さく山"" and ""くるくる"" in the Tokyo area?",A,8.4,5.73,10.4,12.52
+112,"What is the distance between ""Tosei Hotel Cocone"" and ""高田馬場公園"" in the Tokyo area?",A,6.53,8.52,10.04,11.16
+113,"What is the distance between ""天然温泉 凌天の湯 御宿 野乃浅草別邸"" and ""枕橋際公衆便所"" in the Tokyo area?",B,2.77,0.76,5.11,2.55
+114,"What is the distance between ""阿波や壱兆"" and ""品川警察署天王洲交番"" in the Tokyo area?",B,7.99,13.58,12.33,15.29
+115,"What is the distance between ""おっくす"" and ""本郷図書館"" in the Tokyo area?",C,9.02,7.8,1.11,8.45
+116,"What is the distance between ""セブンイレブン 豊島南長崎5丁目店"" and ""文京宮下公園"" in the Tokyo area?",A,5.19,1.95,3.99,11.47
+117,"What is the distance between ""秋葉原野村ビル"" and ""YAMAZAKI BUILDING"" in the Tokyo area?",B,6.41,1.41,4.31,8.86
+118,"What is the distance between ""香港園"" and ""エクセルシオール カフェ"" in the Tokyo area?",A,4.92,9.81,3.02,11.83
+119,"What is the distance between ""銀漢亭"" and ""赤城幼稚園"" in the Tokyo area?",D,6.47,9.55,7.9,2.06
+120,"What is the distance between ""乃木公園"" and ""Uogashi Nihon ichi. Standing Sushi bar"" in the Tokyo area?",C,8.86,6.42,3.66,10.37
+121,"What is the distance between ""キリンビバレッジ"" and ""吉野寿司"" in the Tokyo area?",C,8.89,19.93,12.21,16.96
+122,"What is the distance between ""マンション"" and ""FineTime Coffee Roaster"" in the Tokyo area?",D,23.64,16.98,14.73,21.24
+123,"What is the distance between ""ギン酒場"" and ""お好み焼 きじ"" in the Tokyo area?",C,10.6,9.14,6.34,11.15
+124,"What is the distance between ""占春園"" and ""トランスゲイト"" in the Tokyo area?",C,9.66,2.4,4.5,11.18
+125,"What is the distance between ""Pepper Lunch"" and ""上海厨房"" in the Tokyo area?",D,1.93,11.01,1.82,3.22
+126,"What is the distance between ""珈琲館"" and ""大金星"" in the Tokyo area?",C,11.56,2.95,7.84,11.25
+127,"What is the distance between ""郵便ポスト"" and ""あらかわエコセンター（1）"" in the Tokyo area?",D,2.6,0.83,10.29,6.84
+128,"What is the distance between ""WILLRENA TOKYO NEGISHI"" and ""マンダムグループ東京日本橋ビル"" in the Tokyo area?",B,1.21,4.95,12.62,11.38
+129,"What is the distance between ""目利きの銀次"" and ""ロイヤルホスト"" in the Tokyo area?",B,16.11,20.91,13.55,21.94
+130,"What is the distance between ""東品川児童センター"" and ""おっくす"" in the Tokyo area?",D,18.5,8.75,14.55,12.31
+131,"What is the distance between ""東化ビル"" and ""Premium Cube 菊川"" in the Tokyo area?",C,5.69,14.83,7.21,10.79
+132,"What is the distance between ""コートダジュール"" and ""ふじ岡"" in the Tokyo area?",C,14.81,7.36,12.52,7.81
+133,"What is the distance between ""鍛冶町2丁目"" and ""杉玉"" in the Tokyo area?",B,3.25,8.06,10.98,1.33
+134,"What is the distance between ""サンライズ"" and ""あれどめ ひび セーフ"" in the Tokyo area?",B,9.2,13.72,7.73,10.41
+135,"What is the distance between ""三井住友銀行"" and ""翔栄ファームカフェ"" in the Tokyo area?",A,6.37,4.22,11.8,12.52
+136,"What is the distance between ""元 おたふく→つんく♂の店→"" and ""松の鮨"" in the Tokyo area?",A,6.11,13.62,3.96,12.46
+137,"What is the distance between ""荒川区立諏訪台中学校"" and ""葛飾区立 木根川小学校"" in the Tokyo area?",D,7.66,12.92,10.0,6.24
+138,"What is the distance between ""千代松"" and ""Pay phone"" in the Tokyo area?",D,6.56,3.26,3.89,1.15
+139,"What is the distance between ""Arrow Parking"" and ""練馬区立 仲町小学校"" in the Tokyo area?",D,9.84,3.01,11.78,6.65
+140,"What is the distance between ""かつの湯(跡)"" and ""Nico 25 To Go"" in the Tokyo area?",C,14.62,5.85,7.0,14.32
+141,"What is the distance between ""青山住宅"" and ""春日自転車駐車場"" in the Tokyo area?",D,11.98,10.91,1.69,5.98
+142,"What is the distance between ""水谷ビル"" and ""荒川区立諏訪台中学校"" in the Tokyo area?",D,1.6,6.61,5.23,3.1
+143,"What is the distance between ""神田児童館"" and ""My Hamburger Watanabe"" in the Tokyo area?",A,7.71,2.9,6.8,4.26
+144,"What is the distance between ""吉村内科"" and ""尾久在宅介護支援センター"" in the Tokyo area?",D,9.61,13.76,1.21,7.17
+145,"What is the distance between ""くすりの福太郎"" and ""Tachikichi Shibuya"" in the Tokyo area?",D,7.3,8.09,7.15,9.94
+146,"What is the distance between ""上野池之端立田ビル"" and ""大番児童遊園"" in the Tokyo area?",B,1.89,6.15,8.93,3.48
+147,"What is the distance between ""Time Heights Yushima"" and ""江東区立 第四砂町小学校"" in the Tokyo area?",B,11.92,5.81,8.43,2.08
+148,"What is the distance between ""ちょこざっぷ"" and ""練馬区立 光が丘夏の雲小学校"" in the Tokyo area?",B,7.44,13.52,20.68,17.45
+149,"What is the distance between ""西光院"" and ""宗圓寺"" in the Tokyo area?",C,10.25,13.49,12.27,6.22
+150,"What is the distance between ""城南信用金庫"" and ""いちらん"" in the Tokyo area?",C,2.97,2.37,6.23,3.33
+151,"What is the distance between ""パーキングスクエア"" and ""WILLRENA TOKYO NEGISHI"" in the Tokyo area?",B,9.79,3.21,8.48,8.11
+152,"What is the distance between ""ハイム大熊"" and ""堀ビル"" in the Tokyo area?",B,8.16,6.96,4.64,10.61
+153,"What is the distance between ""錦"" and ""用賀2丁目公園"" in the Tokyo area?",D,13.88,17.01,7.74,11.23
+154,"What is the distance between ""荒川区立冠新道図書サービスステーション"" and ""もつ焼 元希"" in the Tokyo area?",D,5.75,6.18,1.26,4.8
+155,"What is the distance between ""上野特選劇場"" and ""マンボー"" in the Tokyo area?",C,11.58,5.3,6.33,4.13
+156,"What is the distance between ""旅館浅草指月"" and ""上野池之端立田ビル"" in the Tokyo area?",D,5.51,10.01,8.7,2.11
+157,"What is the distance between ""私立 日本大学豊山女子 中学校 高等学校"" and ""パレスサイドビルディング"" in the Tokyo area?",A,11.4,18.65,17.4,6.39
+158,"What is the distance between ""Uogashi Nihon ichi. Standing Sushi bar"" and ""牛若"" in the Tokyo area?",A,6.56,12.24,14.49,13.74
+159,"What is the distance between ""BASSO"" and ""マーメイドコーヒー"" in the Tokyo area?",C,11.58,1.77,8.34,3.14
+160,"What is the distance between ""高輪変電所"" and ""五反野 親水緑道"" in the Tokyo area?",C,21.41,8.75,15.78,11.64
+161,"What is the distance between ""マルカート"" and ""Konnoubashi Hiroba"" in the Tokyo area?",B,17.89,11.23,5.59,4.44
+162,"What is the distance between ""中野区立本町図書館"" and ""Naruse"" in the Tokyo area?",C,10.51,1.77,3.29,4.3
+163,"What is the distance between ""Cocofuku"" and ""西光院"" in the Tokyo area?",B,11.24,8.46,10.93,5.14
+164,"What is the distance between ""Bistro Grasso"" and ""墨田区精神障害者地域生活支援センター友の家"" in the Tokyo area?",B,11.56,3.79,7.39,8.54
+165,"What is the distance between ""大衆酒場 かぼちゃ"" and ""タ．カーポ"" in the Tokyo area?",C,11.47,10.74,7.35,0.79
+166,"What is the distance between ""アーク森ビル内郵便局"" and ""Troll"" in the Tokyo area?",B,9.84,4.38,2.38,5.94
+167,"What is the distance between ""あらかわエコセンター（1）"" and ""はじめ歯科"" in the Tokyo area?",D,10.4,17.63,17.09,12.95
+168,"What is the distance between ""日の丸交通"" and ""ドミール北新宿Ⅱ"" in the Tokyo area?",B,7.68,10.59,4.66,17.51
+169,"What is the distance between ""りそな銀行"" and ""門前茶屋"" in the Tokyo area?",A,5.54,4.1,3.19,3.83
+170,"What is the distance between ""Times"" and ""三番町葵ビル"" in the Tokyo area?",C,3.59,1.69,6.29,9.21
+171,"What is the distance between ""大森歯科医院"" and ""立正佼成会 港教会"" in the Tokyo area?",C,20.36,7.33,15.18,11.54
+172,"What is the distance between ""和幸"" and ""KAMA KAMA"" in the Tokyo area?",A,12.24,19.71,19.89,13.35
+173,"What is the distance between ""松の鮨"" and ""コートダジュール"" in the Tokyo area?",D,11.87,12.9,10.58,9.56
+174,"What is the distance between ""豚野郎"" and ""虎ノ門ヒルズ局前"" in the Tokyo area?",A,3.94,1.55,5.12,1.5
+175,"What is the distance between ""プライム中野坂上"" and ""霞が関コモンゲート 西館"" in the Tokyo area?",A,6.48,3.39,4.79,2.37
+176,"What is the distance between ""SMART EXCHANGE"" and ""車"" in the Tokyo area?",C,9.65,13.13,11.82,14.1
+177,"What is the distance between ""安岡歯科"" and ""ほたる"" in the Tokyo area?",D,7.42,12.76,9.92,6.21
+178,"What is the distance between ""FineTime Coffee Roaster"" and ""富士見ビル"" in the Tokyo area?",C,18.79,9.85,15.43,13.5
+179,"What is the distance between ""上海厨房"" and ""輝太郎"" in the Tokyo area?",B,12.07,7.18,14.5,0.5
+180,"What is the distance between ""ふくの鳥"" and ""隅田公園自転車駐車場"" in the Tokyo area?",D,9.95,14.18,10.18,7.31
+181,"What is the distance between ""隅田公園自転車駐車場"" and ""しんやまの家"" in the Tokyo area?",A,12.47,5.05,17.3,20.3
+182,"What is the distance between ""玉川マンション"" and ""マンション ニュー高輪"" in the Tokyo area?",C,11.45,3.58,6.87,2.77
+183,"What is the distance between ""本町幼稚園"" and ""Sol Bangkok"" in the Tokyo area?",B,8.82,12.39,14.44,8.46
+184,"What is the distance between ""魚たか"" and ""第十方面本部"" in the Tokyo area?",C,9.01,1.24,6.09,11.08
+185,"What is the distance between ""フルーツガーデン旬果"" and ""Eddy's Ice Cream"" in the Tokyo area?",D,9.32,5.89,5.37,7.28
+186,"What is the distance between ""目黒区立東山児童館"" and ""かもん"" in the Tokyo area?",C,4.03,6.45,5.47,8.23
+187,"What is the distance between ""金光教中野教会"" and ""セレーサ駒込"" in the Tokyo area?",D,6.05,14.37,2.54,7.81
+188,"What is the distance between ""岩瀬内内科循環器科クリニック"" and ""松屋"" in the Tokyo area?",B,12.54,11.37,13.05,7.86
+189,"What is the distance between ""包蔵庵"" and ""江東潮見郵便局"" in the Tokyo area?",B,15.7,18.44,15.66,20.38
+190,"What is the distance between ""ウェスティンホテル東京"" and ""ココホテル 銀座一丁目"" in the Tokyo area?",D,13.7,11.31,13.7,6.04
+191,"What is the distance between ""Who's Food's"" and ""ふくの鳥"" in the Tokyo area?",B,8.23,6.11,10.48,2.51
+192,"What is the distance between ""五反野 親水緑道"" and ""大塚ビル"" in the Tokyo area?",D,18.55,6.73,10.53,12.93
+193,"What is the distance between ""NTT蔵前ビル"" and ""コリーヌ祐天寺"" in the Tokyo area?",D,16.21,8.86,12.78,11.12
+194,"What is the distance between ""Da Filo"" and ""東京東信用金庫"" in the Tokyo area?",C,2.53,10.83,3.73,10.27
+195,"What is the distance between ""山陰海鮮 炉端かば"" and ""スタジオじゃっく"" in the Tokyo area?",A,5.82,3.92,1.38,10.07
+196,"What is the distance between ""西新井栄町2丁目駐輪場"" and ""日比谷パークセンター"" in the Tokyo area?",B,4.37,11.84,14.58,5.44
+197,"What is the distance between ""銀座沼津港"" and ""三井住友信託銀行"" in the Tokyo area?",B,6.39,9.92,14.57,5.43
+198,"What is the distance between ""一都"" and ""きらぼし銀行"" in the Tokyo area?",D,17.5,13.93,8.64,10.75
+199,"What is the distance between ""ハーモニーテラス豊島Ⅱ"" and ""占春園"" in the Tokyo area?",B,5.67,4.23,8.58,7.64
+200,"What is the distance between ""JKSバイクパーク秋葉原駐車場"" and ""蛇の目寿司"" in the Tokyo area?",D,11.55,11.12,9.52,6.43
+201,"What is the distance between ""かもん"" and ""青山薬局"" in the Tokyo area?",C,7.18,0.72,4.46,1.44
+202,"What is the distance between ""練馬区立 光が丘夏の雲小学校"" and ""定食 角"" in the Tokyo area?",A,8.18,14.33,11.47,10.1
+203,"What is the distance between ""ドミール北新宿Ⅱ"" and ""藤和中野コープ"" in the Tokyo area?",B,5.27,1.64,0.7,7.78
+204,"What is the distance between ""江東区立 第四砂町小学校"" and ""大久保ビル"" in the Tokyo area?",D,9.84,6.28,5.9,11.97
+205,"What is the distance between ""海神"" and ""代々木警察署初台駅前交番"" in the Tokyo area?",B,4.87,1.74,7.69,9.02
+206,"What is the distance between ""竹谷ビル"" and ""浜松町スクエア"" in the Tokyo area?",B,4.81,3.7,9.57,9.26
+207,"What is the distance between ""葛飾区立 木根川小学校"" and ""私立 東京女学館小学校 中学校 高等学校"" in the Tokyo area?",A,13.72,19.44,17.2,9.11
+208,"What is the distance between ""塚田農場"" and ""フランシスコヴィラ"" in the Tokyo area?",C,22.28,17.57,14.8,19.36
+209,"What is the distance between ""駒場野公園"" and ""ドトールコーヒーショップ"" in the Tokyo area?",A,11.01,15.55,6.95,7.99
+210,"What is the distance between ""オリジン弁当"" and ""家系 武の極み"" in the Tokyo area?",C,1.82,7.98,3.92,1.01
+211,"What is the distance between ""匠"" and ""銀座沼津港"" in the Tokyo area?",B,10.38,2.73,6.6,10.5
+212,"What is the distance between ""妙正寺川公園運動広場"" and ""竹谷ビル"" in the Tokyo area?",A,6.95,7.97,14.54,5.01
+213,"What is the distance between ""FASTGYM24"" and ""昌平"" in the Tokyo area?",C,3.29,17.09,11.26,13.38
+214,"What is the distance between ""スタジオじゃっく"" and ""喜之帆"" in the Tokyo area?",C,7.76,6.63,3.09,7.17
+215,"What is the distance between ""ヴェッセル木場南11号棟"" and ""東京拘置所"" in the Tokyo area?",C,16.32,17.91,10.65,11.76
+216,"What is the distance between ""花の華"" and ""りそな銀行"" in the Tokyo area?",A,3.1,8.28,2.16,5.86
+217,"What is the distance between ""大圓寺"" and ""鈴常ビル"" in the Tokyo area?",B,10.22,5.63,8.34,7.26
+218,"What is the distance between ""練馬区立 仲町小学校"" and ""帝京大学"" in the Tokyo area?",A,4.23,3.3,10.65,11.27
+219,"What is the distance between ""秋葉原Y'sビル"" and ""ユーコーポ"" in the Tokyo area?",C,18.11,15.12,10.29,12.44
+220,"What is the distance between ""福泉禅寺"" and ""コーポ荻窪"" in the Tokyo area?",B,1.03,3.04,8.45,5.33
+221,"What is the distance between ""香取神社"" and ""高徳寺"" in the Tokyo area?",B,23.07,16.09,18.93,8.91
+222,"What is the distance between ""品川警察署天王洲交番"" and ""経堂地区会館"" in the Tokyo area?",B,8.74,11.22,17.21,18.89
+223,"What is the distance between ""社会福祉法人渋谷区社会福祉事業団渋谷区あやめの苑・代々木"" and ""風風らーめん"" in the Tokyo area?",A,4.58,9.89,2.34,1.06
+224,"What is the distance between ""御徒町南口駅前広場自転車駐車場"" and ""天下一品"" in the Tokyo area?",A,11.26,14.37,13.63,5.56
+225,"What is the distance between ""ミサワ薬局"" and ""ダイコクドラッグ"" in the Tokyo area?",B,19.45,14.56,21.15,13.37
+226,"What is the distance between ""みなと薬局"" and ""元 おたふく→つんく♂の店→"" in the Tokyo area?",B,1.76,0.77,5.11,7.77
+227,"What is the distance between ""石田ビル"" and ""京橋大栄ビル"" in the Tokyo area?",D,8.85,3.38,1.18,6.15
+228,"What is the distance between ""みずほ銀行"" and ""桜川敬老館"" in the Tokyo area?",B,11.58,5.53,10.32,11.23
+229,"What is the distance between ""Proud Tower Kiba Koen"" and ""玉川マンション"" in the Tokyo area?",D,9.19,12.34,15.26,11.12
+230,"What is the distance between ""K"" and ""大衆酒場 かぼちゃ"" in the Tokyo area?",B,6.97,0.93,6.53,5.2
+231,"What is the distance between ""麺処いのこ"" and ""山陰海鮮 炉端かば"" in the Tokyo area?",A,15.71,17.01,22.47,20.02
+232,"What is the distance between ""稚内漁港×稚内牧場"" and ""みとや"" in the Tokyo area?",C,6.03,12.89,8.66,5.15
+233,"What is the distance between ""Kakinuma"" and ""Gion kahara"" in the Tokyo area?",C,10.47,7.24,12.26,19.24
+234,"What is the distance between ""湘南メディカル記念病院"" and ""セブンイレブン 豊島南長崎5丁目店"" in the Tokyo area?",C,16.28,9.39,10.62,17.39
+235,"What is the distance between ""竹の湯"" and ""甲田"" in the Tokyo area?",A,5.66,3.48,11.35,7.96
+236,"What is the distance between ""目黒区中央町１丁目"" and ""学習塾 マイスクール"" in the Tokyo area?",B,9.43,11.21,8.82,8.95
+237,"What is the distance between ""マンション ニュー高輪"" and ""大圓寺"" in the Tokyo area?",D,5.24,5.33,13.9,10.23
+238,"What is the distance between ""サントリー"" and ""キープアンドタッチ"" in the Tokyo area?",A,4.34,9.16,8.11,11.97
+239,"What is the distance between ""Sol Bangkok"" and ""富士見児童館"" in the Tokyo area?",D,12.92,3.5,11.94,6.19
+240,"What is the distance between ""東京湾岸警察署中川水上派出所"" and ""社会福祉法人手をつなぐ福祉会第五しょうぶ福祉作業所"" in the Tokyo area?",A,6.25,4.37,4.68,13.99
+241,"What is the distance between ""あれどめ ひび セーフ"" and ""食為鮮"" in the Tokyo area?",C,4.72,12.35,6.5,13.69
+242,"What is the distance between ""キープアンドタッチ"" and ""稚内漁港×稚内牧場"" in the Tokyo area?",A,8.04,0.63,15.35,5.03
+243,"What is the distance between ""My Hamburger Watanabe"" and ""味噌らーめんの店 しなり丸"" in the Tokyo area?",C,4.05,13.33,7.33,6.43
+244,"What is the distance between ""ラフィスタ錦糸町II"" and ""CAFE CUPOLA mejiro"" in the Tokyo area?",D,15.95,10.07,6.79,11.13
+245,"What is the distance between ""315 Mid Point"" and ""目黒区立不動児童館"" in the Tokyo area?",B,3.19,1.01,5.56,6.64
+246,"What is the distance between ""松本ビル"" and ""日興パレス東武練馬"" in the Tokyo area?",B,5.23,9.59,4.73,15.25
+247,"What is the distance between ""Tokumakotokaishika Kyosei Dental Clinic"" and ""中野区役所"" in the Tokyo area?",C,9.21,10.07,6.76,14.28
+248,"What is the distance between ""安安"" and ""代田幼稚園"" in the Tokyo area?",A,14.53,10.7,21.67,22.11
+249,"What is the distance between ""唐苑"" and ""御徒町南口駅前広場自転車駐車場"" in the Tokyo area?",D,12.84,6.53,19.04,11.55
+250,"What is the distance between ""足立区立鹿浜菜の花中学校"" and ""Proud Tower Kiba Koen"" in the Tokyo area?",A,12.5,19.22,13.89,10.13
+251,"What is the distance between ""ヒロオパークホームズ"" and ""南阿佐谷すずらん緑地"" in the Tokyo area?",C,3.07,15.53,9.42,2.7
+252,"What is the distance between ""翔栄ファームカフェ"" and ""奥戸地区センター"" in the Tokyo area?",D,24.31,19.94,17.51,16.51
+253,"What is the distance between ""都営上十条アパート"" and ""Maruhon"" in the Tokyo area?",C,1.67,1.28,7.4,4.8
+254,"What is the distance between ""はじめ歯科"" and ""JKSバイクパーク秋葉原駐車場"" in the Tokyo area?",A,12.62,16.78,20.28,8.8
+255,"What is the distance between ""OnePark"" and ""東化ビル"" in the Tokyo area?",C,3.44,13.36,7.31,12.19
+256,"What is the distance between ""くるくる"" and ""香港園"" in the Tokyo area?",D,6.47,16.45,9.76,14.39
+257,"What is the distance between ""Floresta"" and ""ユアーパーキング"" in the Tokyo area?",B,7.5,8.69,3.96,16.44
+258,"What is the distance between ""珈琲エリカ"" and ""てんや"" in the Tokyo area?",D,11.12,13.07,9.19,5.99
+259,"What is the distance between ""東京建物 Brillia HALL"" and ""うぃず千住大橋駅前保育園"" in the Tokyo area?",D,10.32,5.15,1.32,7.29
+260,"What is the distance between ""TOS CURRY"" and ""Eggslut"" in the Tokyo area?",D,5.58,19.17,6.05,12.81
+261,"What is the distance between ""タイムズ"" and ""むさしの薬局"" in the Tokyo area?",D,17.16,16.48,11.27,9.62
+262,"What is the distance between ""味噌らーめんの店 しなり丸"" and ""日高屋"" in the Tokyo area?",A,6.52,10.31,7.73,7.8
+263,"What is the distance between ""Eddy's Ice Cream"" and ""いわさき"" in the Tokyo area?",C,12.84,15.02,7.64,1.58
+264,"What is the distance between ""エクセルシオール カフェ"" and ""唐苑"" in the Tokyo area?",B,13.03,10.47,11.66,8.46
+265,"What is the distance between ""文京宮下公園"" and ""刀削麺・小籠包専門店"" in the Tokyo area?",A,5.86,10.06,3.39,2.45
+266,"What is the distance between ""DKY12ビル"" and ""Tosei Hotel Cocone"" in the Tokyo area?",D,2.05,2.98,11.63,6.01
+267,"What is the distance between ""金太郎"" and ""鍛冶町2丁目"" in the Tokyo area?",C,6.33,10.62,8.94,15.27
+268,"What is the distance between ""トランスゲイト"" and ""セブンスターマンション"" in the Tokyo area?",C,2.91,6.31,8.9,6.67
+269,"What is the distance between ""ふたご"" and ""松が谷福祉会館"" in the Tokyo area?",C,0.82,1.71,6.54,12.64
+270,"What is the distance between ""金瓶梅PLATINUM"" and ""中原保育園"" in the Tokyo area?",B,18.85,13.54,16.15,6.19
+271,"What is the distance between ""共栄ビル"" and ""芝日景有楽ビル"" in the Tokyo area?",C,9.81,21.05,16.45,9.62
+272,"What is the distance between ""シンガリ"" and ""汐留ビルディング"" in the Tokyo area?",A,4.83,12.12,3.38,11.18
+273,"What is the distance between ""レオパレス サクラパークA"" and ""福泉禅寺"" in the Tokyo area?",A,8.91,3.75,11.56,13.2
+274,"What is the distance between ""桜川敬老館"" and ""観音寺"" in the Tokyo area?",A,5.83,11.99,12.31,9.72
+275,"What is the distance between ""洋風居酒屋チムニー"" and ""南国酒家 迎賓館"" in the Tokyo area?",C,11.42,2.26,4.33,9.18
+276,"What is the distance between ""きらぼし銀行"" and ""Hobson's"" in the Tokyo area?",A,3.2,2.08,9.95,4.52
+277,"What is the distance between ""赤城幼稚園"" and ""一都"" in the Tokyo area?",A,8.18,14.88,11.8,5.32
+278,"What is the distance between ""谷口ビル"" and ""フェニックス浜松町"" in the Tokyo area?",B,10.49,5.71,12.61,6.78
+279,"What is the distance between ""セントヒルズ白山"" and ""中野区立 向台小学校"" in the Tokyo area?",C,5.51,12.4,7.17,1.76
+280,"What is the distance between ""アスクかなめ町保育園"" and ""麺処いのこ"" in the Tokyo area?",D,10.01,7.28,1.27,5.67
+281,"What is the distance between ""Italian Tomato Cafe Jr."" and ""城東警察署亀戸駅前交番"" in the Tokyo area?",C,4.99,10.36,11.3,15.23
+282,"What is the distance between ""大番児童遊園"" and ""パークサイド毛利"" in the Tokyo area?",A,9.15,1.69,5.57,12.98
+283,"What is the distance between ""三井住友信託銀行"" and ""安安"" in the Tokyo area?",B,6.09,13.16,12.24,6.2
+284,"What is the distance between ""番田歯科医院"" and ""トップ"" in the Tokyo area?",D,6.14,1.91,11.82,7.17
+285,"What is the distance between ""かつや"" and ""揚げ太郎"" in the Tokyo area?",D,4.19,5.42,4.69,8.22
+286,"What is the distance between ""ミスタードーナツ"" and ""如意輪観世音"" in the Tokyo area?",A,14.33,8.64,21.09,13.4
+287,"What is the distance between ""レヴィールシティ西新宿"" and ""ポケットパーク"" in the Tokyo area?",B,6.33,2.39,6.95,8.11
+288,"What is the distance between ""モーゼスさんのケバブ 鶯谷駅前店"" and ""フランクバー"" in the Tokyo area?",A,6.68,2.53,4.63,3.27
+289,"What is the distance between ""経堂地区会館"" and ""三井住友銀行"" in the Tokyo area?",A,12.74,9.33,10.27,19.36
+290,"What is the distance between ""新宿区立大久保三角公園"" and ""葛飾区立一之台中学校"" in the Tokyo area?",B,17.41,13.59,19.41,19.9
+291,"What is the distance between ""練馬区立 開進第二小学校"" and ""秋葉原野村ビル"" in the Tokyo area?",A,11.34,16.28,4.83,9.76
+292,"What is the distance between ""コーポ荻窪"" and ""山口ビル"" in the Tokyo area?",D,9.53,11.29,14.15,12.8
+293,"What is the distance between ""第十方面本部"" and ""珈琲エリカ"" in the Tokyo area?",B,4.63,8.42,7.14,11.81
+294,"What is the distance between ""Living room"" and ""天王寺駐在所"" in the Tokyo area?",B,11.16,4.31,2.3,7.76
+295,"What is the distance between ""ニュー恵比寿台ハイツ"" and ""新宿区立 戸山小学校"" in the Tokyo area?",B,1.19,6.05,11.56,4.03
+296,"What is the distance between ""ほたる"" and ""EX THEATER ROPPONGI"" in the Tokyo area?",D,16.96,4.48,16.26,9.7
+297,"What is the distance between ""揚げ太郎"" and ""緑町保育園"" in the Tokyo area?",A,8.82,12.12,0.86,3.71
+298,"What is the distance between ""EX THEATER ROPPONGI"" and ""荒川区立冠新道図書サービスステーション"" in the Tokyo area?",D,11.04,3.96,5.71,9.27
+299,"What is the distance between ""Canelé de CHIANTI"" and ""錦"" in the Tokyo area?",B,0.9,3.15,0.68,5.03
+300,"What is the distance between ""川島医院"" and ""ちょい飲み焼鳥日高"" in the Tokyo area?",A,8.53,4.64,1.1,0.7
+301,"What is the distance between ""Hwaian Cafe"" and ""BAR 藍"" in the Tokyo area?",B,7.02,9.48,11.25,7.47
+302,"What is the distance between ""コインパーク北大塚第5"" and ""安岡歯科"" in the Tokyo area?",D,5.05,5.04,9.14,1.9
+303,"What is the distance between ""食為鮮"" and ""阿波や壱兆"" in the Tokyo area?",A,10.17,6.41,16.39,11.46
+304,"What is the distance between ""ダイコクドラッグ"" and ""Hwaian Cafe"" in the Tokyo area?",C,12.44,1.52,6.82,4.34
+305,"What is the distance between ""東京拘置所"" and ""三井のリパーク"" in the Tokyo area?",C,11.12,9.96,15.86,9.76
+306,"What is the distance between ""高田馬場公園"" and ""築地場外市場"" in the Tokyo area?",D,12.54,12.4,2.79,8.05
+307,"What is the distance between ""中原保育園"" and ""Bosco"" in the Tokyo area?",B,15.85,9.15,12.82,11.59
+308,"What is the distance between ""鈴木小児科クリニック"" and ""蘭奢待"" in the Tokyo area?",D,8.99,15.73,16.67,11.18
+309,"What is the distance between ""国際こども図書館"" and ""Canelé de CHIANTI"" in the Tokyo area?",B,1.54,3.63,8.53,5.32
+310,"What is the distance between ""松屋"" and ""伊藤園"" in the Tokyo area?",A,8.06,3.27,6.41,10.69
+311,"What is the distance between ""オーベル薬局"" and ""ほっともっと"" in the Tokyo area?",A,12.79,5.86,13.72,20.52
+312,"What is the distance between ""新宿区立 戸山小学校"" and ""プライム中野坂上"" in the Tokyo area?",D,6.32,9.09,7.53,1.43
+313,"What is the distance between ""たいあん"" and ""ヴェッセル木場南11号棟"" in the Tokyo area?",A,11.55,5.26,14.86,10.49
+314,"What is the distance between ""やまとビル"" and ""成宗変電所"" in the Tokyo area?",B,2.58,7.61,6.06,5.62
+315,"What is the distance between ""Troll"" and ""みなと薬局"" in the Tokyo area?",B,7.12,4.17,2.66,0.55
+316,"What is the distance between ""新宿サンエービル"" and ""ルーブル三田"" in the Tokyo area?",A,6.63,12.4,3.61,7.59
+317,"What is the distance between ""スターバックス"" and ""川島医院"" in the Tokyo area?",D,7.79,20.5,20.96,14.81
+318,"What is the distance between ""枕橋際公衆便所"" and ""珈琲館"" in the Tokyo area?",C,1.13,9.0,3.31,1.4
+319,"What is the distance between ""虎ノ門ヒルズ局前"" and ""巣鴨駅北口白山通り自転車駐車場"" in the Tokyo area?",A,7.53,13.32,8.55,13.67
+320,"What is the distance between ""高徳寺"" and ""デニーズ"" in the Tokyo area?",C,10.03,9.32,5.16,11.35
+321,"What is the distance between ""ユーコーポ"" and ""グランドメゾン白金レジデンス"" in the Tokyo area?",D,7.75,5.41,9.01,3.13
+322,"What is the distance between ""マクドナルド"" and ""大衆酒場 魚多"" in the Tokyo area?",B,13.89,7.28,8.88,14.69
+323,"What is the distance between ""緑町保育園"" and ""Living room"" in the Tokyo area?",A,1.59,5.1,2.6,0.64
+324,"What is the distance between ""輝太郎"" and ""東都パーク"" in the Tokyo area?",B,3.5,5.24,7.37,7.61
+325,"What is the distance between ""世田谷消防団第11分団第１防災機材格納庫"" and ""プレスティージ"" in the Tokyo area?",A,6.71,9.28,0.65,10.66
+326,"What is the distance between ""ふく田"" and ""鈴木小児科クリニック"" in the Tokyo area?",B,16.14,9.38,2.41,13.78
+327,"What is the distance between ""よみうりホール"" and ""Luxe Dining HAPUNA"" in the Tokyo area?",A,5.84,7.97,3.6,4.77
+328,"What is the distance between ""後楽ラーメン"" and ""花の華"" in the Tokyo area?",D,5.86,1.83,12.87,9.38
+329,"What is the distance between ""コスモ"" and ""シンガリ"" in the Tokyo area?",B,9.1,2.15,5.91,10.04
+330,"What is the distance between ""日比谷パークセンター"" and ""むさし"" in the Tokyo area?",A,6.85,2.8,4.56,4.76
+331,"What is the distance between ""市ヶ谷薬局"" and ""目黒区立中央体育館"" in the Tokyo area?",A,8.66,4.44,10.28,11.79
+332,"What is the distance between ""YAMAZAKI BUILDING"" and ""レヴィールシティ西新宿"" in the Tokyo area?",C,11.59,11.42,7.18,13.37
+333,"What is the distance between ""北町薬局"" and ""東京富士大学 短期大学部"" in the Tokyo area?",D,10.28,7.54,1.98,3.37
+334,"What is the distance between ""マンダムグループ東京日本橋ビル"" and ""ニュー恵比寿台ハイツ"" in the Tokyo area?",A,7.1,9.59,3.65,8.16
+335,"What is the distance between ""日高屋"" and ""TOS CURRY"" in the Tokyo area?",D,3.59,11.55,7.27,5.03
+336,"What is the distance between ""ノーブル江古田"" and ""パーキングスクエア"" in the Tokyo area?",C,9.37,12.46,6.66,10.84
+337,"What is the distance between ""刀削麺・小籠包専門店"" and ""ビッグエコー"" in the Tokyo area?",A,11.4,14.11,9.67,10.13
+338,"What is the distance between ""ハイツわかば"" and ""セントヒルズ白山"" in the Tokyo area?",D,7.38,18.11,18.79,11.42
+339,"What is the distance between ""Yakiniku Stadium Jan Ikebukuro East Entrance"" and ""海神"" in the Tokyo area?",B,2.25,4.61,8.22,1.06
+340,"What is the distance between ""山田屋"" and ""日本橋ぼんぼり"" in the Tokyo area?",D,6.93,10.61,10.11,5.17
+341,"What is the distance between ""トモズ"" and ""Taco Bell"" in the Tokyo area?",A,3.43,7.54,1.82,7.58
+342,"What is the distance between ""セカンドアベニューヴィル"" and ""ヒロオパークホームズ"" in the Tokyo area?",B,12.64,6.28,4.56,3.11
+343,"What is the distance between ""桜上水薬局"" and ""Who's Food's"" in the Tokyo area?",D,9.47,12.67,19.12,14.26
+344,"What is the distance between ""大久保ビル"" and ""東白鬚公園"" in the Tokyo area?",D,13.39,3.97,2.13,9.49
+345,"What is the distance between ""松が谷福祉会館"" and ""Bar Chanti Pop"" in the Tokyo area?",C,2.89,5.1,0.94,4.86
+346,"What is the distance between ""東京富士大学 短期大学部"" and ""ミサワ薬局"" in the Tokyo area?",C,18.77,6.43,14.31,12.26
+347,"What is the distance between ""タリーズコーヒー"" and ""Mitsui Gardens Libray"" in the Tokyo area?",A,3.28,9.28,4.61,8.17
+348,"What is the distance between ""Studio Life"" and ""鈴木薬局"" in the Tokyo area?",C,7.72,6.66,11.96,19.44
+349,"What is the distance between ""てんや"" and ""還生薬局"" in the Tokyo area?",B,7.64,3.53,5.89,8.24
+350,"What is the distance between ""Bosco"" and ""日本郵政公社法人営業推進本部東日本法人営業推進本部;日本郵政公社郵便輸送センター東日本郵便輸送センター;日本郵政公社健康管理室本社健康管理室;日本郵政公社国際郵便決済センター"" in the Tokyo area?",B,3.77,2.68,7.45,8.56
+351,"What is the distance between ""藤和中野コープ"" and ""秋葉原Y'sビル"" in the Tokyo area?",B,12.15,8.85,15.91,1.72
+352,"What is the distance between ""貴美"" and ""かわだ"" in the Tokyo area?",B,8.7,4.03,5.16,10.86
+353,"What is the distance between ""Taco Bell"" and ""池尻保育園"" in the Tokyo area?",B,4.89,2.02,8.53,8.48
+354,"What is the distance between ""東都パーク"" and ""サイゼリヤ"" in the Tokyo area?",A,8.27,2.95,1.07,15.66
+355,"What is the distance between ""麵屋武一"" and ""315 Mid Point"" in the Tokyo area?",C,12.91,4.29,9.61,6.25
+356,"What is the distance between ""ロイヤルホスト"" and ""ほのぼの亭"" in the Tokyo area?",B,17.46,14.29,6.84,11.62
+357,"What is the distance between ""還生薬局"" and ""みその薬局"" in the Tokyo area?",B,9.56,2.66,1.15,10.52
+358,"What is the distance between ""鈴常ビル"" and ""妙見屋ビル"" in the Tokyo area?",B,6.24,3.98,0.84,9.4
+359,"What is the distance between ""富士見児童館"" and ""佐藤第一薬局"" in the Tokyo area?",D,14.64,3.27,10.32,7.57
+360,"What is the distance between ""学習塾 マイスクール"" and ""D'sVARIE初台ビル"" in the Tokyo area?",A,8.29,12.21,14.1,9.75
+361,"What is the distance between ""三番町葵ビル"" and ""ハーモニーテラス豊島Ⅱ"" in the Tokyo area?",C,3.7,10.0,7.75,13.32
+362,"What is the distance between ""すずき歯科医院"" and ""京風 大ちゃん"" in the Tokyo area?",D,15.56,4.49,15.57,11.51
+363,"What is the distance between ""バンザイ"" and ""南蔵院前公衆便所"" in the Tokyo area?",D,2.76,1.02,12.3,7.67
+364,"What is the distance between ""白鬚公園"" and ""私立 日本大学豊山女子 中学校 高等学校"" in the Tokyo area?",C,20.12,5.29,13.26,20.29
+365,"What is the distance between ""ふじ岡"" and ""カラオケ まねきねこ"" in the Tokyo area?",C,9.75,7.37,2.21,7.55
+366,"What is the distance between ""Bar Chanti Pop"" and ""竹の湯"" in the Tokyo area?",A,3.71,2.6,5.44,10.36
+367,"What is the distance between ""浜作"" and ""BASSO"" in the Tokyo area?",A,5.85,7.8,9.93,2.15
+368,"What is the distance between ""Luxe Dining HAPUNA"" and ""社会福祉法人渋谷区社会福祉事業団渋谷区あやめの苑・代々木"" in the Tokyo area?",D,0.66,14.72,2.24,7.26
+369,"What is the distance between ""麗郷"" and ""代田2パーキング"" in the Tokyo area?",A,2.82,7.08,4.61,9.27
+370,"What is the distance between ""京橋大栄ビル"" and ""フォンテーヌ原宿ビル"" in the Tokyo area?",C,10.68,13.85,5.9,10.99
+371,"What is the distance between ""フランクバー"" and ""金太郎"" in the Tokyo area?",B,14.56,7.0,1.73,9.81
+372,"What is the distance between ""Premium Cube 菊川"" and ""ウェスティンホテル東京"" in the Tokyo area?",C,16.59,2.63,9.93,6.98
+373,"What is the distance between ""東光高岳"" and ""ナマステ"" in the Tokyo area?",C,10.64,10.74,6.68,8.27
+374,"What is the distance between ""ハイスクールマーヤ"" and ""Vivienne池袋店"" in the Tokyo area?",B,5.21,0.6,3.07,2.46
+375,"What is the distance between ""夢矢"" and ""コカ・コーラ"" in the Tokyo area?",B,6.82,2.48,4.63,5.5
+376,"What is the distance between ""Naruse"" and ""社会福祉法人台東区社会福祉事業団特別養護老人ホーム蔵前"" in the Tokyo area?",D,17.21,3.11,3.82,9.73
+377,"What is the distance between ""しんやまの家"" and ""和幸"" in the Tokyo area?",B,17.75,16.12,14.11,18.5
+378,"What is the distance between ""アイ・アンド・イー日本橋ビル"" and ""ホテル・サンモリッツ・エコ"" in the Tokyo area?",A,4.72,3.37,6.63,6.14
+379,"What is the distance between ""むさしの薬局"" and ""Floresta"" in the Tokyo area?",C,1.59,8.9,3.27,5.27
+380,"What is the distance between ""秋葉原鴻池ビル"" and ""白鬚公園"" in the Tokyo area?",B,9.04,4.91,10.21,8.83
+381,"What is the distance between ""練馬区立 開進第四中学校"" and ""吉原"" in the Tokyo area?",B,16.57,11.37,6.84,13.39
+382,"What is the distance between ""東白鬚公園"" and ""谷口ビル"" in the Tokyo area?",B,9.55,4.92,6.31,8.58
+383,"What is the distance between ""ちょい飲み焼鳥日高"" and ""ときわ食堂"" in the Tokyo area?",B,2.25,4.46,9.66,3.38
+384,"What is the distance between ""東京湾岸警察署"" and ""桜上水ガーデンズ H棟"" in the Tokyo area?",B,11.62,13.8,6.86,5.9
+385,"What is the distance between ""麹蔵"" and ""麗郷"" in the Tokyo area?",D,9.46,12.28,6.35,5.06
+386,"What is the distance between ""日本海庄屋"" and ""目利きの銀次"" in the Tokyo area?",C,4.93,6.25,3.18,1.52
+387,"What is the distance between ""津崎"" and ""天狗"" in the Tokyo area?",B,19.38,11.66,17.12,5.19
+388,"What is the distance between ""グランドメゾン白金レジデンス"" and ""文京区立駕籠町小学校"" in the Tokyo area?",C,14.16,12.96,9.9,14.53
+389,"What is the distance between ""Nico 25 To Go"" and ""香源"" in the Tokyo area?",C,6.08,14.73,7.14,1.52
+390,"What is the distance between ""セブンスターマンション"" and ""DKY12ビル"" in the Tokyo area?",C,10.94,2.2,3.25,10.22
+391,"What is the distance between ""銀座6丁目-SQUARE(木挽町通り)"" and ""麵屋武一"" in the Tokyo area?",D,10.16,2.58,2.68,3.71
+392,"What is the distance between ""炉端焼き司"" and ""コインパーク北大塚第5"" in the Tokyo area?",A,11.16,6.5,12.31,13.01
+393,"What is the distance between ""CAFE CUPOLA mejiro"" and ""MAGAZINES"" in the Tokyo area?",C,3.25,13.76,6.87,9.14
+394,"What is the distance between ""浅草ビアホール D's diner"" and ""モーゼスさんのケバブ 鶯谷駅前店"" in the Tokyo area?",B,3.89,1.88,7.37,3.43
+395,"What is the distance between ""うぃず千住大橋駅前保育園"" and ""東光高岳"" in the Tokyo area?",C,7.5,14.0,9.63,8.26
+396,"What is the distance between ""城東警察署亀戸駅前交番"" and ""炭の魂"" in the Tokyo area?",D,6.54,6.54,6.18,5.04
+397,"What is the distance between ""Gion kahara"" and ""神田児童館"" in the Tokyo area?",D,10.13,14.11,12.66,6.3
+398,"What is the distance between ""芝日景有楽ビル"" and ""NTT蔵前ビル"" in the Tokyo area?",A,6.44,12.86,7.65,12.24
+399,"What is the distance between ""扇大橋病院"" and ""炉端焼き司"" in the Tokyo area?",D,0.63,10.35,12.81,6.96
+400,"What is the distance between ""シェイドヒル"" and ""ラフィスタ錦糸町II"" in the Tokyo area?",C,3.1,8.38,10.76,17.95
+401,"What is the distance between ""フランシスコヴィラ"" and ""扇大橋病院"" in the Tokyo area?",B,16.36,19.52,15.91,18.56
+402,"What is the distance between ""青山薬局"" and ""そば処 若松"" in the Tokyo area?",B,7.53,5.68,9.21,9.26
+403,"What is the distance between ""桜上水ガーデンズ H棟"" and ""Bizflex"" in the Tokyo area?",B,14.4,12.59,6.3,7.78
+404,"What is the distance between ""トップ"" and ""卜口函"" in the Tokyo area?",D,5.41,5.67,8.18,0.9
+405,"What is the distance between ""ホテル・サンモリッツ・エコ"" and ""セカンドアベニューヴィル"" in the Tokyo area?",B,20.02,12.18,14.1,9.21
+406,"What is the distance between ""三井のリパーク"" and ""都営上十条アパート"" in the Tokyo area?",D,9.68,1.04,12.82,7.57
+407,"What is the distance between ""妙見屋ビル"" and ""旅館浅草指月"" in the Tokyo area?",D,4.19,7.76,2.5,0.86
+408,"What is the distance between ""中野区役所"" and ""ＨＦ浜松町ビルディング"" in the Tokyo area?",B,8.51,10.26,2.99,9.24
+409,"What is the distance between ""一ノ橋際公衆トイレ"" and ""奥戸皮膚科医院"" in the Tokyo area?",C,21.64,8.87,13.97,11.81
+410,"What is the distance between ""りそな銀行 (Resona Bank)"" and ""金寿司"" in the Tokyo area?",C,21.75,12.97,16.77,19.2
+411,"What is the distance between ""スギ薬局"" and ""サントリー"" in the Tokyo area?",B,15.04,13.63,10.06,5.65
+412,"What is the distance between ""昭和シェル"" and ""香取神社"" in the Tokyo area?",D,11.93,11.04,10.51,17.08
+413,"What is the distance between ""洋 歯科クリニック"" and ""Rehearsal Studio NODE"" in the Tokyo area?",A,11.62,17.27,18.0,17.34
+414,"What is the distance between ""マーメイドコーヒー"" and ""オーベル薬局"" in the Tokyo area?",C,6.22,14.65,8.39,15.39
+415,"What is the distance between ""浜松町スクエア"" and ""吉澤・川辺ビル"" in the Tokyo area?",C,11.73,9.33,5.34,7.94
+416,"What is the distance between ""ハクシュプラザ健康ステーション"" and ""かるび家"" in the Tokyo area?",D,22.1,15.23,14.1,21.0
+417,"What is the distance between ""山口ビル"" and ""東京湾岸警察署"" in the Tokyo area?",D,5.27,2.93,10.09,8.02
+418,"What is the distance between ""お好み焼 きじ"" and ""タイムズ"" in the Tokyo area?",A,6.89,14.26,7.94,13.24
+419,"What is the distance between ""第二木内ビル"" and ""青山住宅"" in the Tokyo area?",A,3.68,2.03,11.34,6.42
+420,"What is the distance between ""春日自転車駐車場"" and ""江東区立毛利小学校"" in the Tokyo area?",D,10.94,4.67,3.33,6.0
+421,"What is the distance between ""HABURASHI-BEER AND POTATO-"" and ""やまと保育園"" in the Tokyo area?",D,3.5,12.98,15.8,10.91
+422,"What is the distance between ""ファミリーマート 江北二丁目店"" and ""昭和シェル"" in the Tokyo area?",A,9.32,11.29,15.71,12.33
+423,"What is the distance between ""目黒区立中央体育館"" and ""大森歯科医院"" in the Tokyo area?",C,23.8,14.3,20.79,24.21
+424,"What is the distance between ""東京東信用金庫"" and ""本町幼稚園"" in the Tokyo area?",D,8.16,17.5,20.52,14.98
+425,"What is the distance between ""日本電気計器検定所"" and ""上野特選劇場"" in the Tokyo area?",C,1.37,4.57,8.26,11.79
+426,"What is the distance between ""コリーヌ祐天寺"" and ""高輪変電所"" in the Tokyo area?",D,1.54,7.05,2.65,3.62
+427,"What is the distance between ""Coffee House LOFT"" and ""洋風居酒屋チムニー"" in the Tokyo area?",C,4.41,4.13,2.77,4.46
+428,"What is the distance between ""宗圓寺"" and ""乃木公園"" in the Tokyo area?",D,13.71,1.81,3.56,6.8
+429,"What is the distance between ""日本橋ぼんぼり"" and ""おなかいっぱい"" in the Tokyo area?",C,14.12,11.73,9.17,2.9
+430,"What is the distance between ""ベルグ赤堤壱番館"" and ""練馬区立神明ふれあい緑地"" in the Tokyo area?",B,14.95,11.59,19.4,5.27
+431,"What is the distance between ""ＨＦ浜松町ビルディング"" and ""善光寺"" in the Tokyo area?",C,7.59,14.5,6.5,12.84
+432,"What is the distance between ""蛇の目寿司"" and ""かつや"" in the Tokyo area?",B,3.47,8.68,5.77,12.11
+433,"What is the distance between ""やまと保育園"" and ""貴美"" in the Tokyo area?",B,8.21,7.05,10.07,10.04
+434,"What is the distance between ""霞が関コモンゲート 西館"" and ""善福寺川緑地"" in the Tokyo area?",C,17.6,14.22,11.09,15.98
+435,"What is the distance between ""江東塩浜郵便局"" and ""SMART EXCHANGE"" in the Tokyo area?",C,10.81,9.41,5.45,7.62
+436,"What is the distance between ""ねぎし"" and ""Kakinuma"" in the Tokyo area?",D,5.86,3.23,2.41,6.8
+437,"What is the distance between ""墨田区精神障害者地域生活支援センター友の家"" and ""Studio Life"" in the Tokyo area?",D,7.98,15.85,11.5,13.01
+438,"What is the distance between ""練馬区立神明ふれあい緑地"" and ""水谷ビル"" in the Tokyo area?",A,14.06,11.72,19.93,8.14
+439,"What is the distance between ""大塚ビル"" and ""六本木グランドタワーレジデンス"" in the Tokyo area?",B,3.62,1.84,6.58,9.65
+440,"What is the distance between ""タ．カーポ"" and ""味坊炭火鍋羊肉店"" in the Tokyo area?",B,11.72,8.48,6.22,1.13
+441,"What is the distance between ""如意輪観世音"" and ""マクドナルド"" in the Tokyo area?",B,1.6,5.54,4.61,4.18
+442,"What is the distance between ""花井会館"" and ""第二木内ビル"" in the Tokyo area?",D,7.22,4.44,6.12,9.08
+443,"What is the distance between ""カテリーナ三田タワースイートイーストアーク"" and ""ぎんのとら"" in the Tokyo area?",D,10.03,4.0,3.04,6.84
+444,"What is the distance between ""Vivienne池袋店"" and ""郵便ポスト"" in the Tokyo area?",B,2.73,1.38,5.43,6.03
+445,"What is the distance between ""ライブカーサ両国北斎通り"" and ""中部児童館"" in the Tokyo area?",D,0.6,1.64,15.74,7.97
+446,"What is the distance between ""甲田"" and ""Pepper Lunch"" in the Tokyo area?",B,9.19,6.71,10.98,10.52
+447,"What is the distance between ""汐留ビルディング"" and ""麹蔵"" in the Tokyo area?",B,7.95,4.28,10.8,2.78
+448,"What is the distance between ""奥戸皮膚科医院"" and ""東品川児童センター"" in the Tokyo area?",D,12.22,14.99,23.08,16.34
+449,"What is the distance between ""菊屋"" and ""Load parking"" in the Tokyo area?",B,14.8,9.42,14.68,4.3
+450,"What is the distance between ""卜口函"" and ""金瓶梅PLATINUM"" in the Tokyo area?",C,4.31,1.27,2.41,7.12
+451,"What is the distance between ""富士ソフト秋葉原ビル"" and ""アイサワビル"" in the Tokyo area?",A,7.01,14.89,5.52,12.07
+452,"What is the distance between ""パレスサイドビルディング"" and ""Break24h"" in the Tokyo area?",A,5.15,11.61,3.8,10.33
+453,"What is the distance between ""京風 大ちゃん"" and ""アーク森ビル内郵便局"" in the Tokyo area?",C,4.4,1.72,9.16,16.4
+454,"What is the distance between ""フォンテーヌ原宿ビル"" and ""練馬区立 開進第四中学校"" in the Tokyo area?",C,12.13,11.67,9.39,8.3
+455,"What is the distance between ""アイサワビル"" and ""ベルグ赤堤壱番館"" in the Tokyo area?",A,6.26,8.22,4.43,1.56
+456,"What is the distance between ""みとや"" and ""包蔵庵"" in the Tokyo area?",B,14.08,11.78,8.77,4.27
+457,"What is the distance between ""風風らーめん"" and ""HABURASHI-BEER AND POTATO-"" in the Tokyo area?",B,13.22,6.64,3.04,1.12
+458,"What is the distance between ""ときわ食堂"" and ""吉村内科"" in the Tokyo area?",C,10.3,13.27,9.35,16.98
+459,"What is the distance between ""もつ焼 元希"" and ""天然温泉 凌天の湯 御宿 野乃浅草別邸"" in the Tokyo area?",D,6.72,6.91,1.99,3.24
+460,"What is the distance between ""味坊炭火鍋羊肉店"" and ""第一勧業信用組合"" in the Tokyo area?",D,7.55,12.79,2.84,5.38
+461,"What is the distance between ""藤田マンション"" and ""Be:rl ビィアール"" in the Tokyo area?",D,5.82,5.25,4.43,2.69
+462,"What is the distance between ""武蔵家"" and ""竜閑さくら橋際街角広場"" in the Tokyo area?",C,11.21,9.17,7.52,0.97
+463,"What is the distance between ""Maruhon"" and ""エナザビル"" in the Tokyo area?",A,7.91,4.65,8.84,11.17
+464,"What is the distance between ""葛飾区立一之台中学校"" and ""MS Building"" in the Tokyo area?",A,8.27,15.99,4.5,14.48
+465,"What is the distance between ""BAR 藍"" and ""野方警察署"" in the Tokyo area?",B,13.28,10.78,12.24,5.19
+466,"What is the distance between ""昌平"" and ""ボルツ"" in the Tokyo area?",D,8.31,13.13,8.08,6.29
+467,"What is the distance between ""Eggslut"" and ""カフェ・ベローチェ"" in the Tokyo area?",B,2.0,5.42,9.52,8.72
+468,"What is the distance between ""奥戸地区センター"" and ""東雲"" in the Tokyo area?",A,12.92,20.87,16.15,16.34
+469,"What is the distance between ""車"" and ""スギ薬局"" in the Tokyo area?",D,2.77,13.7,4.97,10.12
+470,"What is the distance between ""カフェ ド クルーセ"" and ""目黒区中央町１丁目"" in the Tokyo area?",B,8.36,9.69,17.23,2.32
+471,"What is the distance between ""代田幼稚園"" and ""Da Filo"" in the Tokyo area?",B,16.6,14.86,11.19,11.22
+472,"What is the distance between ""ココホテル 銀座一丁目"" and ""UENO11 Social Plaza"" in the Tokyo area?",D,9.55,1.02,6.32,3.79
+473,"What is the distance between ""Asahi CALPIS"" and ""備前屋"" in the Tokyo area?",D,23.17,23.77,23.46,16.38
+474,"What is the distance between ""報知住宅"" and ""Bistro Grasso"" in the Tokyo area?",C,3.68,12.13,7.74,14.6
+475,"What is the distance between ""中部児童館"" and ""コスモ"" in the Tokyo area?",D,4.53,3.57,10.15,7.78
+476,"What is the distance between ""根津食堂"" and ""FASTGYM24"" in the Tokyo area?",C,9.96,10.52,5.5,9.62
+477,"What is the distance between ""東雲"" and ""よみうりホール"" in the Tokyo area?",D,8.38,3.2,3.39,2.19
+478,"What is the distance between ""ポケットパーク"" and ""ノーブル江古田"" in the Tokyo area?",C,10.89,7.27,4.28,0.69
+479,"What is the distance between ""かわだ"" and ""駒場野公園"" in the Tokyo area?",C,16.09,6.74,11.28,16.34
+480,"What is the distance between ""社会福祉法人手をつなぐ福祉会第五しょうぶ福祉作業所"" and ""フルーツガーデン旬果"" in the Tokyo area?",C,11.77,3.49,6.42,2.34
+481,"What is the distance between ""門前茶屋"" and ""報知住宅"" in the Tokyo area?",B,3.9,9.74,17.35,8.08
+482,"What is the distance between ""カフェ・ベローチェ"" and ""匠"" in the Tokyo area?",D,9.45,7.98,6.35,1.78
+483,"What is the distance between ""須賀乃湯(跡)"" and ""目黒区立東山児童館"" in the Tokyo area?",A,12.63,16.37,10.41,13.7
+484,"What is the distance between ""喜之帆"" and ""くすりの福太郎"" in the Tokyo area?",C,4.54,5.37,7.36,5.41

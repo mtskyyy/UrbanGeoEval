@@ -1,0 +1,578 @@
+id,question,answer,A,B,C,D
+0,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Северное Тушино,корпус Е,ГСК «Автолюбитель-2»,"ТЛЦ ""Южный порт"""
+1,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,парк Красная Пресня,АПМ-2,Снегоплавильный пункт,"Апартаменты ""Нахимовский 21"""
+2,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"ГСК ""Вознесенский""",Звёздный,Корсар,Детская музыкальная школа имени М. И. Глинки
+3,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,8 Oz,"Дворец спорта ""Динамо""",Жилой комплекс «Nagatino i-Land»,Фестиваль
+4,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,1-й мкр. Марьинского Парка,квартал Грайвороново 90А,Парк Хаус,СК ЦСКА
+5,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Ботанический сад МГУ,Типография МГУ,Заря 2,Институт иностранных языков РУДН
+6,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Московская Областная Детская Клиническая Травматолого-ортопедическая Больница,"ОАО ""Фабрика производства платков""",Главное здание РУДН,"Торговый центр ""Варшавский"""
+7,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Студенческий центр МЭИ, корпус № 1",Дизайн-завод,Учебный корпус №2,Церковь Двенадцати Апостолов
+8,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Милан,Специальная школа-интернат №1,MR group,Воронцовский парк
+9,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Государственный центральный музей современной истории России,Юго-Восточная хорда,Погибшим во Второй мировой войне,Ереван Плаза
+10,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Городская поликлиника № 5. Филиал 1,"Торговый комплекс ""Марьинский""",Пожарно-спасательный отряд 203,Лермонтовский сквер
+11,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Гаражный комплекс «Гудок»,ГЭС-2,"Колледж современных технологий имени Героя Советского Союза М.Ф. Панова""",Российский государственный социальный университет
+12,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Ракетный бульвар,Выставочно-деловой центр компании «Теремъ»,"Торговый центр ""Капитолий""",Управление Министерства внутренних дел по ЗАО г.Москвы
+13,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,ОАО «Мосгороптторг»,МариЭль,Монастырь Святого Франциска Ассизского,Сыромятнический тоннель
+14,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,"ЖК ""Просторная 7""",Торговый центр «Панорама»,Яузский лесопарк,Московский государственный гуманитарный университет имени М. А. Шолохова
+15,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Л-153,ТПУ Аминьевское шоссе,Фундамент мыльни (Дома садовника),"Жилой комплекс ""ФилиЧета-2"""
+16,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Ашхабад,"Торгово-развлекательный комплекс ""Глобал Сити""",Бизнес-центр «Алкон II»,13й корпус
+17,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Платовский сквер,Жилой комплекс «LIFE – Ботанический сад 2»,Телецентр «Останкино» АСК-1,Парк имени Воровского
+18,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,100+ Пансионат для пожилых людей,Дом охотника и рыболова,"ГСК № 3, ГСК № 31 «Печатник»",3й корпус
+19,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,"Бизнес-центр ""Павловский""",Пожарная часть,"ВШЭ, школа дизайна","Бизнес-центр ""ЛИРА"""
+20,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,"Управление ФНС России по г. Москве, ЮВАО, №23",Cult by Gravion,ОАО «Мосгороптторг»,Petrovsky Apart House
+21,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,парк 65-летия Победы,Конференц-зал (МИРЭА),Универ Сити,Потешный дворец
+22,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Галерея-ограда с воротами,Роснефть,парк Зюзино,AFI Square
+23,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Океания,Russtar,"Торговый корпус ""Евромаг""",Жилой комплекс «Nagatino i-Land»
+24,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Поликлиника №134 филиал №2,Московский международный онкологический центр,Будапешт,Центральный дом архитектора
+25,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Эталон,Гостиничный комплекс Измайлово,Янтарь,МГПУ (экономический факультет)
+26,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Стрелецкая слобода,Давыдково,"ГСК ""Эврика""",Тайницкий Сад
+27,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Корпус химического факультета,Микояновский,"НИИ ""Восход""",Багратионовский
+28,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Школа № 1228. Корпус № 4,Капитолий,Пицца-фабрика,корпус №10(Б)
+29,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Гостиничный комплекс Измайлово,Центр кинологической службы,Кинотеатр 5D,Neo Geo
+30,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Спорт кафе,Куйбышевское плодоовощное объединение,"Торговый центр ""Вега""",Гимназия №1570
+31,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Бизнес-центр «Станколит»,Депо Молл,Фундаментальная библиотека МГУ,Реатэкс
+32,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,"Автостоянка ""Прогресс""",Школьный парк,"Торговый центр ""Тимирязевский""",Буревестник
+33,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,"Торговый комплекс ""Депо Молл""",Федеральная служба по интеллектуальной собственности,8-й микрорайон Тёплого Стана,Учебный корпус №2
+34,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Торговый центр ""Наутилус""",Московский государственный лингвистический университет,АПМ-3,Андрееевский
+35,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Тишинская площадь,Городская поликлиника № 220,"Школа № 2107. Здание ""На Мещанской""",Жилые палаты Гранатного двора
+36,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Научно-техническая библиотека НИУ МЭИ,Жар-птица,"Рынок ""Спектр""",Лукойл
+37,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Ленинградский рынок,Останкинский совхоз декоративного садоводства,ABC склад,Таганская
+38,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Северная башня,Штаб ВДВ России,Минская улица,"Жилой комплекс ""Level Южнопортовая"""
+39,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,1-й микрорайон Тёплого Стана,Мусульманское кладбище,"Бизнес-центр ""Принт""",Художественный
+40,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Гимназия Марьина Роща имени В. Ф. Орлова. Учебный корпус 35,"Торговый центр ""Нептун""",Конечная станция ГУП «Мосгортранс»,"Клубная резиденция ""Astris"""
+41,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,"ГБУЗ Дкц № 1 ДЗМ, филиал № 1",Жилой комплекс «Второй Нагатинский»,"Торговый центр ""Калужский""",ДжиДжиГриль
+42,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Всероссийский НИИ авиационных материалов,Корпус 17,"Торговый центр ""Времена года""",Государственный центральный музей современной истории России
+43,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,"База хранения ГБУ ""Автомобильные дороги""",Central City Tower,Торговый центр «Конфетти»,парк-отель «Остров фантазий»
+44,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Микрорайон № 2,Академия государственной противопожарной службы МЧС России,Военно-дипломатическая академия Генштаба ВС РФ,Чапаевский парк
+45,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Верхняя причальная стенка шлюза №9,Корпус 10,80 мкр. р-на Бутырский,Москва-Сити
+46,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,"Торговый дом ""Арколь""","ФИЦ питания, биотехнологии и безопасности пищи","Школа ""Покровский квартал""",Ритейл Парк
+47,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Терминально-логистический центр «Ховрино»,Церковь Казанской Божией Матери,Мини Молл,ГБОУ Школа №825
+48,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Торговый центр «Черемушки»,Храм Всех преподобных отцев Киево-Печерских в Старых Черемушках,Семёновский парк,"Торговый дом ""Преображенский"""
+49,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Айсберг,Автостоянка №38,2-й мкр. Марьинского Парка,"Научно-исследовательский центр космической гидрометеорологии ""Планета"""
+50,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,4-й мкр. Марьинского Парка,Школа №1220,НПЦ интервенционной кардиоангиологии,9й корпус
+51,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Паталого-анатомический корпус №8,8-й мкр. Марьинского Парка,Газпромнефть,Северная башня
+52,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Дом настоятеля,Административно-хозяйственная часть,Татнефть,9-й мкр. Марьинского Парка
+53,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Бассейн Сеченовского университета,НИИ технической физики и автоматизации,29 отряд федеральной противопожарной службы по городу Москве,Вещевой рынок Коньково
+54,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Сосенки,Семинарский корпус,Бензоколонка-1,Корпус 9
+55,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Торговый комплекс ""Принц плаза""","Бизнес–центр ""Контакт""",посольство Финляндии,Поликлиника ГКБ №1
+56,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Рынок ""Спектр""",ЧДОУ Детский сад №36 ОАО РЖД,Мира,Войсковая часть № 5129 Росгвардии
+57,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Торгово-развлекательный центр ""Спектр""",Постоянное представительство Республики Ингушетия при Президенте Российской Федерации,"Торговый центр ""Тропарёво""",Проходная №2 МГТУ им Н.Э.Баумана
+58,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Жилой квартал «Jazz»,Бассейн спорткомплекса НИУ МЭИ,Mandarin,Кони-Айленд
+59,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Жилой комплекс ""Tate""",Парк Хаус Братеево,Завод холодильного машиностроения «Искра»,"Универмаг ""Марьинский"""
+60,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,2ой корпус,Жилой комплекс «На Мельникова»,парк Друзья леса,"Центр дизайна ""Ленинградский"""
+61,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Школа № 498. Школьный корпус Марксистская улица, дом 9, корпус 2","Торговый центр ""Каспий""",Московский завод плавленых сыров «Карат»,Крон
+62,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,ГУК Зона В,Россика,Пожарная часть № 38,Лесная трапеза
+63,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Микрорайон № 3,"Бизнес-центр ""Домус""",Красный Куб,"Пушкинская школа № 1500. Отделение ""Сретенка"""
+64,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Рогожское кладбище,"Бизнес-центр ""Омега-Плаза""",Калитниковское кладбище,"Московский научно-практический центр медицинской реабилитации, восстановительной и спортивной медицины"
+65,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Потешный дворец,Сунели,Соколиная охота,"Торговый центр ""Город"", 1-я очередь"
+66,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Подстанция №24 скорой и неотложной медицинской помощи им. А.С. Пучкова,Загородный,Жилой комплекс «Савёловский Сити»,Балчуг Кемпински
+67,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Психоневрологический диспансер № 9,Школа № 1329,"Жилой комплекс ""Авиатика""",Центр международной торговли
+68,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,НИИ технической физики и автоматизации,Мемориально-парковый комплекс героев Первой мировой войны,Институт проблем управления им. В.А. Трапезникова РАН,"Жилой комплекс ""Архитектор"""
+69,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Школа спортивной гимнастики,"Бытовой городок ГБУ ""Жилищник""",Береговой-2 k1,Марьинский пассаж
+70,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Типография,Магистральные тепловые сети,"Торговая галерея ""Акрополь""",Московский локомотиворемонтный завод
+71,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Квартальная тепловая станция «Покровское-Стрешнево»,ОРП,парк Кузьминки,Вещевой рынок Коньково
+72,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Берег Яузы,Роснефть,"Деловой центр ""Пречистенка""",Паркинг
+73,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Общежитие «Горняк-1»,"Российская Академия живописи, ваяния и зодчества Ильи Глазунова",Дом студента на Нарвской,Жилой комплекс «Данилов дом»
+74,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"ГСК ""Строитель""","Бизнес-центр ""Миллениум Хаус""",Технокомспецстрой,Префектура ЮАО
+75,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,"Культурный центр ""Салют""",Станция Соколиная Гора,ГПК «Багратион»,Московский машиностроительный завод «Авангард»
+76,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Торгово-развлекательный комплекс ""Глобал Сити""",Жилой комплекс «Оливковый Дом»,Свобода Мебель,Конгресс-парк «Волынское»
+77,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,площадь Славы,Меркурий,Мичуринский сад,МФЮА
+78,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Комсомолец,Жилой комплекс «Barkli Residence»,Центральный дом журналиста,МГТУ ГА
+79,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Жилой комплекс ""Английский квартал""",КПП,Sunflower,Balchug Residence
+80,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Teboil,Хапиловская,Покровско-Стрешневская дистанция электроснабжения,"Микрорайон ""Видное-4"""
+81,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Техцентр ""Сервис-Авто""",Апарт-отель YE’S Ботанический сад,Starlite Diner,Будь здоров
+82,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Padre's corndog,площадь Московско-Минской дивизии,Чухлинка,Царицыно
+83,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Городская поликлиника № 107,Гараж,Успенская звонница,Противотуберкулезный диспансер №13
+84,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Научный центр неврологии РАМН,ФГУП НИИ Графит,Школа им. Ф. М. Достоевского. Учебный корпус № 10,"Бизнес-парк ""Калибр"""
+85,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Инфекционная клиническая больница №1,Общежитие РУДН,"МЦК ""Ботанический сад""",6-й микрорайон Тёплого Стана
+86,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Пищеблок,"ГСК ""Полет""",Институт иностранных языков РУДН,Центральный государственный архив Московской области
+87,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Школа № 2099. Дошкольное здание,ТЦ «Дубровка»,Театр,"Бизнес-центр ""Кутузовъ Холл"""
+88,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Алмаз - место встречи,"Универмаг ""Марьинский""",АиБ принт типография,Галатекс-Восток
+89,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Парк Казачьей славы,Строительный рынок Каширский двор-1,Бюро судебно-медицинской экспертизы,АУЗ №2 НИУ ВШЭ «Кочна»
+90,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,АльтраВита,"Торговый центр ""Персей детский""",Крокодил,Гарант
+91,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Торговый центр «Конфетти»,Лесопарк «Кусково»,"Многофункциональный комплекс ""Легенда Цветного""",Павелецкая
+92,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Автокомбинат №12,Институт тонких химических технологий имени М.В. Ломоносова,корпус №12,"ТЛЦ ""Южный порт"""
+93,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Торговый центр Москва,"Деловой центр ""Парк Победы""",АиБ принт типография,"Жилой комплекс ""LIFE-Волжская"""
+94,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Москва-Тянья,Лукойл,Психиатрическая клиническая больница №1 им. Н. А. Алексеева,Мосводоканал. Служба насосных станций.
+95,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,ГСК Инициативный,Гараж Госплана,часовня Николы Чудотворца,Марко Поло Пресня
+96,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Торговый комплекс ""Твин Плаза""",Автобаза Жилищник района Преображенское,Детский сад № 1618,Цифровое материаловедение
+97,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Галатекс-Восток,Корпус Амстердам,"Бизнес-центр ""Принт""",Гименей
+98,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,"Школа № 1228 ""Лефортово"". Корпус ""Аленький цветочек""","Московский автомобильный завод ""Москвич""","Многофункциональный комплекс ""Онегин""",Автобаза № 1
+99,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Учебно-спортивный комплекс «Искра»,"Торговый центр ""Корабль""",парк Зюзино,Зелёный лабиринт
+100,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,ГСК «Север»,Антроповский сквер,Многофункциональный комплекс Neva Towers,Парк имени 50-летия Октября
+101,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Московский Планетарий,Главный учебный корпус,19-й корпус НИИЯФ МГУ,Космосити
+102,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Океания,Стена скорби,Чебуречная,6-ой таксомоторный парк
+103,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Институт русского языка им. А. С. Пушкина,Роснефть,West Park,"Торгово-деловой комплекс ""Тульский"""
+104,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Лукойл,Вкусный,"Торгово-развлекательный центр ""Мичуринский""",Буревестник
+105,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Жилой комплекс «Флотилия»,Церковь преподобного Серафима Саровского и Анны Кашинской,Торговый центр «Юго-западный»,Московская типография Гознак
+106,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Черкизовский пассаж,Вятские бани,"Бизнес-центр ""Варшавка Sky""",Сквер ветеранов
+107,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Бизнес-центр ""Интеграл""","Жилой комплекс ""Kinetik""",Административный корпус,ЧДОУ Детский сад №36 ОАО РЖД
+108,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Торговый центр ""Альбатрос""",Депо Центробанка РФ,"Торговый дом ""Преображенский""",Корпус «F»
+109,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,ТЦ «Измайловский пассаж»,НПО «Компас»,6-й отдел полиции на метрополитене,"Жилой комплекс ""Level Южнопортовая"""
+110,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Торговый центр ""Парк 11""",Центральный научно-исследовательский геологоразведочный институт цветных и благородных металлов,Корпорация «ВНИИЭМ»,Скорая медицинская помощь «СНП 03»
+111,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Врачебно-физкультурный диспансер №6,ДЭЗ,"Торгово-развлекательный комплекс ""Глобал Сити""",Маркет
+112,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Российский Государственный Социальный Университет,"Санаторий ""Сокольники""",6-й мкр. Марьинского Парка,"Конно-спортивный клуб ""Орион"""
+113,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Комбинат «Сигнал» Росрезерва,Виварно-экспериментальный комплекс,Константино-Еленинская башня,"Рынок ""Братиславский"""
+114,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Красногвардейская ярмарка,1-й микрорайон Тёплого Стана,Спортивный комплекс (гимнастический),"филиал ГУП ""Мосгортранс"""
+115,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,2-й микрорайон Тёплого Стана,Электродепо «Сокол»,"Жилой комплекс «Михайлова, 31»",Пончики
+116,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Квантум парк,площадь Абельмановская Застава,Культурный центр ЗИЛ,Монастырь Святого Франциска Ассизского
+117,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Центр образования №1404 ""Гамма""",Бюро судебно-медицинской экспертизы,Столовая №10,Жилой комплекс «Glorax Aura Белорусская»
+118,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Дом Тарковского,Парк Школьников,Автологистический комплекс,slok.su
+119,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,"ГСК ""Онега 4-5""",Профессиональный экономико-технологический лицей №339,29 отряд федеральной противопожарной службы по городу Москве,Мозаика
+120,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,корпус №3,"Торговый центр ""Звёздочка""",Городская клиническая больница имени братьев Бахрушиных,Усадьба Банная
+121,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Сенатская башня,НИУ МЭИ. Общежитие №14,Церковь св. Пантелеимона при Центральном военном клиническом госпитале ФСБ РФ,Веранда танцев
+122,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Школа № 1525,"Автобаза ГУП ""Жилищник Мещанского района""",Черёмушки,Пожарная часть №2 (3-?)
+123,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,ECOS group,Жирафы,Яблоневый сад,Музей изобразительных искусств им. Пушкина
+124,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Корпус «G»,ЦветОК,Дом ткани x7,Бизнес-парк «5 Донской проезд»
+125,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Премьер,"Дом культуры ""Стимул""",Лосиноостровский электротехнический завод (ЛОЭТЗ) - филиал ОАО «ЭЛТЕЗА»,Сады Зарядья
+126,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,"Жилой комплекс ""Forst""",Городской туалет,"Торгово-административный центр ""Гавань""",ЦТП №317/059
+127,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Тяговая подстанция метрополитена Т-10,Городок художников,Дворец водных видов спорта «Лужники»,Оружейная башня
+128,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Жилой комплекс Интонация,Торговый центр «Петровский»,Образцов-парк,Гараж научно-производственного объединения «Красная звезда»
+129,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,корпус Б,ГБОУ Школа № 293 им. А. Т. Твардовского,Нефтьмагистраль,Всероссийский НИИ авиационных материалов
+130,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Автомастер,Московско-Курский отдел материально-технического обеспечения,Детский бронхолегочный санаторий №15,3 корпус
+131,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Московский завод специализированных автомобилей,Федеральный центр гигиены и эпидемиологии,3-й микрорайон Тёплого Стана,Юго-Западная транспортная прокуратура
+132,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Центральная киностудия детских и юношеских фильмов им. М. Горького,Лукойл,Московский электродный завод,Городской сборный пункт
+133,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Городская клиническая больница № 24. Перинатальный центр,Институт русского языка им. А. С. Пушкина,детский парк на Сумском проезде,Твинстор
+134,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,АПМ-10,Семьдесят седьмой,Московский Радиозавод,Строительный рынок Каширский двор-1
+135,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,"ГБОУ школа № 504, зд. Варшавское",Пандора,Ареал,храм Преображения Господня
+136,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Лечебно-реабилитационный центр Росздрава,Строймеханизация-900,Бизнес-парк «Орджоникидзе 11»,Сервисное локомотивное депо Москва-Сортировочная
+137,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Автостоянка МГСА № 53 ""Авто""",Ibis,Жилой комплекс «Carré Blanc»,ГСК «Автолюбитель-3»
+138,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Общежитие №1,"Торговый центр ""Ключевой""",Жилой комплекс «Portland»,Фестивальный парк
+139,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,ТЭЦ-16,Больница №1 (РЖД),Бум,Стадион Фили
+140,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,"Бизнес-центр ""Ростэк""",Штаб ВДВ России,Жилой комплекс «Balance»,12-й мкр. Марьинского Парка
+141,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Пицца & Гирос,9-й мкр. Марьинского Парка,Новый корпус,slok.su
+142,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Торгово-развлекательный центр «Калейдоскоп»,"Деловой центр ""Пречистенка""",Корпус физического факультета,Бизнес-центр «Дукат Плейс 3»
+143,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Сквер Молодых Семей,Слава,"Жилой комплекс ""Плеханова 11""",Спорт кафе
+144,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,"Муниципальная автостоянка ""Сатурн-3""","ГСК ""Эврика""","Торговый центр ""Город"", 2-я очередь",Дом Апраксиных — Трубецких
+145,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Свиблово,КПП,Москва Красносельская,Севастопольская площадь
+146,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,ГБОУ школа № 224 дошкольное отделение,"Бизнес-центр ""Авиамоторная 50""","офисный центр ""9 акров""",ФОК с аквапарком
+147,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Обувь-Сити,Стоматологическая поликлиника,Европолис,Минская улица
+148,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,ГЭС-1,Научно-технический центр,Николаевка,Дропин
+149,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Бизнес-центр «Дельта Плаза»,Детская поликлиника №52 Филиал 1,Мостранссклад,Дюссельдорфский парк
+150,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Shawarma Bar,Московская обойная фабрика,Жилой комплекс «Soho+Noho»,Симоновский районный суд
+151,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"бизнес-центр ""Кругозор""",Храм святых равноапостольных Кирилла и Мефодия,Отдел МВД России по району Дорогомилово г. Москвы,Стадион имени Эдуарда Стрельцова
+152,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Рио,Тушинский машиностроительный завод,"ГБУЗ Дкц № 1 ДЗМ, филиал № 1","Конечная автобусная станция ""Ледовый дворец"""
+153,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,19-й корпус НИИЯФ МГУ,Жилой комплекс «Barkli Residence»,Торговый комплекс «Вятский»,Проходная
+154,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,"Бизнес-центр ""Ольховский""",Подстанция скорой помощи №6 им. А. С. Пучкова,Новая Олимпийская Деревня,Бизнес-центр «Park Place Moscow»
+155,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Торговый центр ""Каспий""",Белка,Дом Наркомфина,Роснефть
+156,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Лесопарк «Кусково»,Жилой комплекс «Второй Нагатинский»,Музей русского лубка и наивного искусства,"Торгово-развлекательный центр ""Москворечье"""
+157,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Студенческий центр МЭИ, корпус № 1",Сквер ТАСС,"Бизнес-центр ""На Новой Басманной""",Угрешский
+158,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Ковчег,Гимназия Марьина Роща имени В. Ф. Орлова. Учебный корпус 35,"Жилой комплекс ""Остров""","Дом культуры ""Компрессор"""
+159,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Бизнес-центр ""Ольховский""",Бизнес-центр «Алкон II»,Автостоянка №32,Бизнес-центр «Аврора»
+160,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Московский индустриальный банк,Бизнес-центр «Алкон»,"""На Береговом"" (Мой Адрес)","МЦК ""Ботанический сад"""
+161,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,25-й Государственный научно-исследовательский институт химмотологии Министерства обороны Российской Федерации,Школа № 1101. Дошкольное отделение 3/8,Царская башня,"Троицкая линия Московского метрополитена, станция Вавиловская"
+162,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Корпус Т,"Жилой комплекс ""Имперский дом""",Жилой квартал «Монс»,"Бизнес-центр ""Серпуховской двор"""
+163,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,НПО «Гелиймаш»,Ясли-сад №1135,Смоленский пассаж 2,Жилой комплекс «Sydney City»
+164,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Башня пирата,"Торговый центр ""Тиара""",Московский издательско-полиграфический колледж имени И. Фёдорова,Колледж Московского университета им. С. Ю. Витте
+165,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Сквер на Хавской,Парк Олимпийской деревни,"Научно-производственное объединение ""Базальт""",6-й микрорайон Тёплого Стана
+166,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Спортивный центр МГУПИ,Институт биоорганической химии РАН,Российская академия музыки имени Гнесиных,4-й «А» микрорайон Тёплого Стана
+167,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,4-й микрорайон Тёплого Стана,"Центр образования № 1828 ""Сабурово""",ФОК на Таганке,Авторемонтный завод №5
+168,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,8-й микрорайон Тёплого Стана,Королёва 13,Московский университет им. С. Ю. Витте,Корпус З
+169,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Детский Таганский парк,Физкультурно-оздоровительный комплекс «Динамика» СЗАО,Институт нанотехнологий микроэлектроники,Снегоплавильный пункт
+170,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,ОАО «Союзцветметавтоматика»,Главное управление федеральной службы судебных приставов,Лукойл,Нефтьмагистраль
+171,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,ОМВД Печатники,Корпус Амстердам,Всероссийский научно-исследовательский институт авиационных материалов,Комбинат «Сигнал» Росрезерва
+172,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Бизнес–центр ""Контакт""",Корпус Венеция,Субурган и Пагода рая с молитвенным барабаном,Бизнес-центр «The Yard»
+173,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Приемная комиссия,"Жилой комплекс ""Тринити-2""",Клубные Резиденции «River Residences»,Корпус Сингапур
+174,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,ДжиДжиГриль,Театр Российской армии,"Торгово-развлекательный центр ""Браво""",Бизнес-центр «Stendhal»
+175,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,8-й микрорайон Тёплого Стана,Школа с углубленным изучением отдельных предметов № 1234,Северный речной пассажирский порт,№2106
+176,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Сквер у кинотеатра «Баку»,Южный речной порт,"Бизнес-центр ""Омега-2"" корп. A",ОМВД Печатники
+177,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,9й корпус,Новая Олимпийская Деревня,Московский пивобезалкогольный комбинат «Очаково»,корпус №7
+178,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Жилой комплекс ""Доминион""",Stone Дмитровская,Благовещенский собор,"Бизнес-центр ""Port-Plaza"""
+179,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Дикси,Столовая №10,Жилой комплекс «Кленовый дом»,Сквер Шмелёва
+180,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Жилой комплекс ""Тринити-2""",парк «Сказка»,Ваганьковское кладбище,Войсковая часть № 5129 Росгвардии
+181,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Unix,"Жилой комплекс ""Шуваловский""","Школа ""Покровский квартал"". Здание на Лялином",Симоновский районный суд
+182,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Центр международной торговли,"Пушкинская школа № 1500. Отделение ""Сретенка""",Деловой квартал Bankside,"Парк ""Братеевская пойма"""
+183,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Экомаркет,"Народный парк ""Ховрино""",Медвежий угол,Крылатские холмы
+184,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Московское Подворье Троице-Сергиевой лавры,22-й км Киевского шоссе,"Многофункциональный комплекс ""Легенда Цветного""",Школа №493
+185,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"ППК ""Роскадастр""",площадь Академика Басова,Государственная публичная научно-техническая библиотека России,Школа №1262
+186,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Жилой комплекс «Level Амурская»,Московский Паркинг,Стоматологическая поликлиника № 11,Nova
+187,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,ГСК Стрелец,"Торговый центр ""Метр квадратный""",ГСК «Балтиец»,Ангара
+188,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Поликлиника № 115. Филиал № 4,НПП Квант,Психиатрическая клиническая больница №1 им. Н. А. Алексеева,Upside towers
+189,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Торгово-деловой комплекс ""Тульский""","Деловой центр ""Диапазон""","Жилой комплекс ""Режиссер""",Купол
+190,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,КПП №4,Посольство Гвинеи,Детская городская поликлиника №99,"Торгово-развлекательный центр ""Галеон"""
+191,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Корпус Сингапур,ОАО «РСК МиГ». Инженерный центр «ОКБ им. А. И. Микояна» и опытное производство,Эльбрус,Olympia park
+192,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Корпус «M»,"Торговый центр ""Зенит""",Бизнес-центр «The Yard»,Ак Барс Банк
+193,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Жилой комплекс ""Дипломат""",Школа № 1529 имени А. С. Грибоедова. Здание № 5,Symphony 34,Здоровая Москва
+194,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Стадион имени Эдуарда Стрельцова,"Парк ""Печатники""",Автостоянка № 4 МГСА САО,Рассвет
+195,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Торговый комплекс ""Твин Плаза""",Мосхимфармпрепараты,Родное искусство,"Спортивный комплекс ""Чертаново"""
+196,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Adagio,Автостоянка МГСА № 135,3-й корпус,"Московский завод ""Кристалл"""
+197,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,площадь Киевского Вокзала,Институт иностранных языков РУДН,ООО «ПриемКабеля24»,Химический завод
+198,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,ВТБ Страхование,"Школа ""Венда""",Лечебно-диагностический центр по урологии при ГКБ № 1,Роснефть
+199,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Марьинский пассаж,Семейный доктор,Жилой комплекс «1147»,Ступа преумножения счастья и добродетели
+200,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Военный университет (ВУ МО РФ),"Логистический центр ""Славянский мир""","Жилой комплекс ""Перовское 2""","Жилой комплекс ""Soul"""
+201,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,ГСК Москвич,Школа № 56 имени академика В.А. Легасова. Дошкольный корпус,Лана Авто,БЦ Березка № 10
+202,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Кузьминки Молл,Ясли-сад №1135,Медсанчасть № 26,Квант
+203,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,"Жилой комплекс ""Береговой""","ЖК ""Дом в Сокольниках""",Екатерининский парк,Ракета
+204,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,ДОСААФ,"Сквер, прилегающий к Лазоревому проезду","Студенческий центр МЭИ, корпус № 1",Нефтьмагистраль
+205,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Сад будущего,Российская академия народного хозяйства и государственной службы при Президенте РФ,Московская чайная фабрика,169-й бетонный завод
+206,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Раменка,Интерклуб РУДН,Следственный изолятор №3,Парк Петра Алексеева
+207,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Mercedes Benz МБ-Беляево,"Жилой комплекс ""Коперник""",Институт проблем управления им. В.А. Трапезникова РАН,Храм в честь святого праведного Симеона Верхотурского
+208,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Выставка достижений народного хозяйства,Городская поликлиника № 6. Филиал №3,Лукойл,"парк ""Новодевичьи пруды"""
+209,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Усадьба Трубецких в Хамовниках,"Транспортная служба ГБУ ""Жилищник Останкинского района""",Научный центр экспертизы средств медицинского применения,Велосквер Нагорный
+210,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Жилой комплекс «Измайловский 11»,Нова Клиник,Торговый центр «Савёловский»,ФГКУ Поликлиника № 6 ФСБ России
+211,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,"Бизнес-центр ""Саммит""",Храм святителя Николая в Сабурове,Часовня в память о погибших моряках и путешественниках в честь Святителя Николы Угодника,Парк Останкино
+212,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Асфальтстрой,Больница №1 УД Президента РФ,1-й мкр. Марьинского Парка,Российский государственный университет им. А. Н. Косыгина
+213,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Автостанция «ВДНХ»,"Бизнес-центр ""Белая площадь""",Мозаика,"Жилой комплекс ""Новохохловская 15"""
+214,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,парк Спорта,Жилой комплекс «Аэробус»,Инфекционная клиническая больница №1,Смоленский пассаж 2
+215,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,МГТС Петровский-1 ТУ,"Бизнес-центр ""Саммит""",Детский сад 2242 Института Физической Химии и Электрохимии им. Фрумкина А.Н.,Благовещенский собор
+216,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Жилой комплекс «Вестердам»,"парк ""Новодевичьи пруды""","Транспортная служба ГБУ ""Жилищник Останкинского района""",Чебуречная
+217,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,МФЮА,жертвам 1905 года,Храм Святого Луки,Московский государственный агроинженерный университет имени В. П. Горячкина
+218,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Дом охотника и рыболова,Музей-заповедник «Коломенское»,станция Пресня,Храм Сорока Севастийских Мучеников
+219,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,"Администрация парка ""Садовники""",8-й «А» микрорайон Тёплого Стана,Автостоянка № 135 МГСА СЗАО,"Центр городской культуры ""Правда"""
+220,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,ГСК «Клён»,Nevsky Plaza,Центральный архив РУДН,МПО им. И. Румянцева
+221,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Колледж Московского университета им. С. Ю. Витте,Центральный Московский ипподром,Парк Сосенки,Школа №1223
+222,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Московский финансово-юридический университет,Российская телевизионная и радиовещательная сеть,Городская клиническая больница имени С. П. Боткина,Shell
+223,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Российский государственный архив литературы и искусства,"Жилой комплекс ""Soul""",Гоголевский бульвар,ГСК Метростроевец
+224,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Бизнес-центр «W-Plaza»,корпус А,Центральный государственный архив Московской области,Жилой комплекс «Вдохновение»
+225,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Жилой комплекс «Первый Дубровский»,БЦ Березка № 10,Суворовский,парк Кузьминки
+226,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,корпус А,АО Радий,КПП №1,"Деловой центр ""Twist"""
+227,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Общежитие Трёхгорной мануфактуры,Лаборатория прудового рыбоводства,Спорт комплекс МИИТ,корпус Б
+228,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Гимназия №1570,Ростест-Москва,Касса платформы Москворечье РЖД,корпус В
+229,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Московский дворец молодежи,Средняя Арсенальная башня,Институт органической химии им. Н. Д. Зелинского РАН,Океания
+230,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Бизнес-центр ""Яузская, 5""",Научно-практический психоневрологический центр им. З. П. Соловьёва,бассейн КСК Луч,корпус №19
+231,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Школа № 1279,Российские космические системы,Колобок,Храм Николая Чудотворца в Новой Слободе
+232,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Научно-методический центр МЭИ,Колледж сервиса и туризма № 29,Язвенка,проектируемый проезд № 3736
+233,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Юность,Снегоплавильный пункт,Центральный стадион «Динамо» им. Льва Яшина,Китайгородская стена
+234,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,MR group,Градирни,Братеевский каскадный парк,корпус №10(Б)
+235,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Городской туалет,Жилой квартал «Монс»,Гараж,Психиатрическая клиническая больница №1 им. Н. А. Алексеева
+236,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Клинический госпиталь ГУВД,ГУП Автокомбинат санитарного транспорта «Мосавтосантранс» – автобаза № 2,Общежитие училища им. Гнесиных,ЦИАМ им. Баранова
+237,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,СИМ-Сузуки,"Деловой квартал ""Даниловская мануфактура 1867""","Столовая ""Мосгортранс""","ГСК ""Заря"""
+238,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,НИИ Контур,Городская клиническая больница имени С. С. Юдина. Территория К4,НИИ неотложной детской хирургии и травматологии,Квартальная тепловая станция «Покровское-Стрешнево»
+239,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Школа 541,Российский государственный университет им. А. Н. Косыгина,Хлебозавод 9,Жилой комплекс «Дом при Академии Наук»
+240,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Вкусный,Парк Победы,Южный речной порт,Автобаза ГУП «Мосавтохолод» – филиал № 1
+241,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,"Муниципальная автостоянка ""Сатурн-3""",Детский сад №864,Государственный университет по землеустройству,"Автостоянка ""Горка"""
+242,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Царицыно,8ое общежитие,Очаковский район контактной сети,Прокуратура ЮАО
+243,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Т-37,Лефортовские бани,Сад им. Н. Э. Баумана,Парк Хаус
+244,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,ГБУЗ МНПЦДК ДЗМ филиал Черемушкинский,АвтоСпецЦентр (Таганка),Высшая школа экономики. Факультет гуманитарных наук,"АУК ""Трифоновский"" НИУ ВШЭ"
+245,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Собор Иверской иконы Божией Матери,Дом-музей М. Ю. Лермонтова,МЖК Сабурово,Российский центр судебно-медицинской экспертизы
+246,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Филевский парк,8 Oz,Гамма АРТ,Кадетская школа-интернат №69
+247,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Жилой комплекс «RedSide»,МЦД-3,Московский государственный лингвистический университет,Институт органической химии им. Н. Д. Зелинского РАН
+248,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Институт элементоорганических соединений им. А. Н. Несмеянова РАН,Колледж современного управления,Школа № 1231 имени В. Д. Поленова. Дошкольный корпус,ГБОУ Школа № 293 им. А. Т. Твардовского
+249,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,"Входной павильон ""Дом садовника""",Московское производственное объединение «Металлист»,Бизнес-центр «Станколит»,"АУК ""Трифоновский"" НИУ ВШЭ"
+250,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"ГБУ ""Жилищник района Аэропорт""",Берёзовая роща,"Жилой комплекс ""Родной город""",Жилой комплекс «Бадаевский»
+251,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,ГОУ Технический Колледж №21,"Администрация парка ""Садовники""",Университет правительства Москвы,АО Радий
+252,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Надкладезная часовня,"Бизнес-центр ""Верейская Плаза""",РСУ МЭИ № 1 треста Вузремстроймонтаж,Научно-исследовательский институт резиновых и полимерных изделий
+253,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Посольство Гвинеи,ЦТП № 322/037,Бизнес-парк,Московский научно-практический центр наркологии
+254,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Корпус Г,5-й мкр. Марьинского Парка,"Спортивный комплекс ""Ледовый""",Центр повышения квалификации специалистов здравоохранения
+255,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,7-й мкр. Марьинского Парка,ООО «Америя -Фуд»,Российский биотехнологический университет,НТП «Соколиная гора» МИРЭА
+256,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,ДЭЗ,Храм Всех Святых в земле Российской просиявших,Веранда танцев,Жилой комплекс «LIFE-Кутузовский»
+257,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Московский монетный двор,Красная Стрела,"АО ""НПЦ Газотурбостроения ""Салют""",Черёмушки
+258,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Хлебозавод №15,Айсберри,Корпус С,Городская поликлиника №64 Филиал 1
+259,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Морг,Торговый центр «Петровский»,Лукойл,Национальный исследовательский ядерный университет «МИФИ»
+260,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Neo Geo,Жилой комплекс «Shome»,АПМ-2,Деловой квартал «Симоновский»
+261,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Нескучный сад,Центр образования №1447,BBQ Kitchen,Всероссийский Научно-Исследовательский Институт по Переработке Нефти
+262,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Центральная киностудия детских и юношеских фильмов им. М. Горького,Больница № 19,"Деловой центр ""Эрмитаж Плаза""",Московский государственный медико-стоматологический университет имени А.И. Евдокимова
+263,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Братеевский каскадный парк,Корпус 11,Турист,Московский государственный строительный университет
+264,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,ЦКБ РЖД им. Семашко,"Логистический центр ""Царицыно""","Парк ""Печатники""",Электродепо Владыкино
+265,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Часовня святого благоверного князя Димитрия Донского,Корпус Н,Олимпийский комплекс «Лужники»,Профессиональный экономико-технологический лицей №339
+266,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Парк имени 850-летия Москвы,Лукойл,8 строение - Пищеблок,Ангара
+267,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Жилой комплекс «Лебедь»,Радуга ООО,Опытный завод МЭИ,Калининская участковая ветеринарная лечебница
+268,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,сквер Мстислава Ростроповича,Усадьба Банная,Парк Братеевская Набережная,Министерство здравоохранения Российской Федерации
+269,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Жилой комплекс «Донской Олимп»,Мусоросортировочный комплекс,Учебная площадка,станция Пресня
+270,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Ходынское поле,ООО Палмира Электроникс,Московский дворец молодежи,парк Спорта
+271,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,"Курчатовская школа корпус ""Ромашка""",Центральный военный клинический госпиталь,"Жилой Комплекс ""Лица""",Газпромнефть
+272,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,ГПК «Заречное»,"Центр дополнительного образования детей ""Парк Новослободский""",ОАО «Биопрепарат-Центр»,Жилой комплекс «NOW. Квартал на набережной»
+273,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Газпромнефть,Технологический колледж №28,Технопарк Nagatino i-Land,Brookes Moscow
+274,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,6-й автобусный парк ГУП «Мосгортранс»,"Столовая ""Мосгортранс""",Дом аспиранта и стажёра МГУ,"Парк ""Надежда"""
+275,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Спортивная школа олимпийского резерва №27 «Сокол»,Высоко-Петровский монастырь,Zoo Парк Экспресс,Вятские бани
+276,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Красногвардейские пруды,Жилой комплекс «Хорошёвский»,Входной павильон 1E,Mercedes Benz МБ-Беляево
+277,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,16 корпус - Урология,Храм святых равноапостольных Кирилла и Мефодия,Церковь Казанской Божией Матери,Никольский единоверческий монастырь
+278,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Жилой комплекс «Ever»,"Гаражный кооператив ""Маёвец""",Всероссийский научно-исследовательский институт автоматики им. Н. Л. Духова,Городок художников
+279,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,"Театр — Сцена ""Мельников""","Памп-трек ""Фукусима""",Красный Пролетарий,Сосенки
+280,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Московская государственная консерватория,Яузский лесопарк,парк VIII,Геронтологический центр Очаково-Матвеевское
+281,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Торгово-развлекательный центр ""Райкин плаза""",Московский городской университет. Колледж Арбат,Корпус физического факультета,Диана
+282,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Роснефть,Галерея Аэропорт,Северо-восточная хорда,Церковь Двенадцати Апостолов
+283,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Техцентр,Центральная энергетическая таможня,Европолис,Университетская клиническая больница №3
+284,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Всероссийский центр медицины катастроф ФГУ «Защита»,Футбольный манеж,"Жилой комплекс ""Авиатика""",Vasilchuki Chaihona №1
+285,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Рождественский бульвар,Газпромнефть,Центр кинологической службы УВД по ЗАО г. Москвы,"Конечная станция ""Карамышевская набережная"""
+286,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Многофункциональный деловой комплекс ""Монарх-Центр""",Тяговая подстанция «Октябрьская»,"Романовская школа, дошкольное отделение № 4 Семицветик",Портал
+287,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Жилой комплекс «Кленовый дом»,Локобанк,Школа,Делегатский парк
+288,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Жилой комплекс «LIFE – Ботанический сад 2»,4-й микрорайон Тёплого Стана,"ОАО ""Мосгаз""",Пресненский парк
+289,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Бизнес-центр «РГР»,"ГСК ""Сирена""",Бизнес-центр «Нижегородский»,Академия хорового искусства имени В.С. Попова
+290,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Жилой комплекс ""Литератор""",Государственная публичная научно-техническая библиотека России,Многофункциональный центр предоставления государственных и муниципальных услуг района Сокольники,ФГБУ «НМИЦ ТО им. Н. Н. Приорова» Минздрава России
+291,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,"Торговый центр ""Зенит""",Пожарная часть,Юго-Восточная хорда,Дизайн-завод
+292,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Екатерининский парк,"ГБОУ школа № 504, зд. Варшавское",Бизнес-центр «Центр-Т»,Жилой комплекс «Наследие»
+293,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Первая образцовая типография,"Бизнес-центр ""Миллениум Хаус""","Жилой комплекс ""Дом 56""",Teboil
+294,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Жилой комплекс «LIFE-Кутузовский»,"Деловой центр ""Новь""","Корпус ""Д""",Петровский парк
+295,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Центр кинологической службы,Московское машиностроительное предприятие им. В. В. Чернышёва,Велостанция,Парк «Дубовая роща»
+296,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,АСК «Медвежата»,Ваш восход,Территория Фитнеса,Городская клиническая онкологическая больница №1 Филиал №1
+297,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Главное здание РГБ,Калипсо,Концертный зал им. П. И. Чайковского,опытное производство
+298,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Бизнес–центр ""Контакт""",Бизнес-центр «Станколит»,"ДДТ ""На Таганке""","Жилой комплекс ""Доминион"""
+299,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Железнодорожный колледж № 52,ГСК «Мост»,Легкоатлетическо-футбольный комплекс ЦСКА,Корпус 1
+300,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Технодинамика,Лефортовский парк,9-й квартал Новых Черёмушек,ТЭЦ-12
+301,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,slok.su,Сигнал,УВД по ЗАО г.Москвы,Бизнес-центр «Центр-Т»
+302,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Teboil,Российская академия музыки имени Гнесиных,"Центр образования №1404 ""Гамма""",Электродепо Свиблово
+303,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Московский пивобезалкогольный комбинат «Очаково»,Медицинский научно-образовательный центр МГУ,Mosenka park towers,Старое Покровское кладбище
+304,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Жилой посёлок «Преображенское»,La Villa,Автоколонна №3,"Жилой комплекс ""На Циолковского"""
+305,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Институт русского языка им. А. С. Пушкина,ИКСИ,Малый газон,Арма
+306,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Московский городской научно-практический центр борьбы с туберкулезом. Клиника № 1,Главное здание РГБ,Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации,4-й батальон полка ДПС
+307,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Caffe'del Parco,Российский центр судебно-медицинской экспертизы,"Школа № 630 имени дважды Героя Советского Союза Г.П. Кравченко. Здание ""На Ленинском""","Бизнес-центр ""Skylight"""
+308,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,GlowSubs,Бизнес-центр «Аврора»,Храм святых мучеников Анатолия и Протолеона,Войсковая часть ВВ МВД РФ
+309,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Береговой-2 k1,"Бизнес-центр ""Голубая жемчужина""","Многофункциональный комплекс ""Легенда Цветного""",Академия «Спартак» по футболу имeни Ф. Ф. Черенкова
+310,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Покровское-Стрешнево,ОРП,Департамент здравоохранения г. Москвы,Фундаментальная библиотека МГУ
+311,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Авторынок Южный порт,Комендантская башня,Жилой комплекс «RedSide»,Гостиничный комплекс Измайлово
+312,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,"Школа ""Покровский квартал"". Детский сад № 2","Бизнес-центр ""М-Стиль Офис""",5-й микрорайон Тёплого Стана,"Торгово-развлекательный центр ""Москворечье"""
+313,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,"Ярмарка ""Московские сезоны""",Хоумсклад,"Деловой квартал ""Красная Роза""",Храм святителя Николая в Сабурове
+314,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Владыкинский механический завод,Строймастер,Газпромнефть,Корпус 1
+315,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Романовская школа, дошкольное отделение № 4 Семицветик",Хавско-Шаболовский жилой массив,Корпус 9,Копытные Африки
+316,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Теплотехнический научно-исследовательский институт,Специальное конструкторско-технологическое бюро по электрохимии с опытным заводом,"Деловой квартал ""Даниловская мануфактура 1867""",Поликлиника №134 филиал №2
+317,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Роснефть,Центральный дом журналиста,Храм святителя Льва Великого,"Бизнес-центр ""Омега-2"" корп. A"
+318,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Доходный дом К. С. Клингсланда,Хлебозавод 9,"Многофункциональный жилой комплекс ""Фили Град""","Административный Корпус, Бухгалтерия"
+319,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Московский завод полиметаллов,Всероссийский Научно-Исследовательский Институт по Переработке Нефти,Пожарная часть №3,"Бизнес-центр ""Сущевский"""
+320,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Институт астрономии Российской академии наук,"Бизнес-парк ""Калибр""",Сопричастность,Жилой комплекс «D1»
+321,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,8 Oz,Жилой Комплекс «City Park»,EcoLoft,"Обувная фабрика ""Ralf Ringer"""
+322,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Луч,25-й Государственный научно-исследовательский институт химмотологии Министерства обороны Российской Федерации,Научно-клинический центр оториноларингологии ФМБА России,Питомник Главного ботанического сада РАН
+323,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Корпус «L»,Бизнес-центр «Дукат Плейс 3»,Автохозяйство №3 ГУ МВД РФ,"ПАСК ""Весна"""
+324,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Авиационный комплекс им. С. В. Ильюшина,Автомобильная база ГБУ Жилищник района Богородское,Центр кинологической службы УВД по ЗАО г. Москвы,Дом-причта Старообрядческой Остоженской общины
+325,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Московский государственный юридический университет имени О. Е. Кутафина,Гормедтехника,Морг,Колледж гостиничного хозяйcтва
+326,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Роддом,парк Красная Пресня,Лайн у Курского вокзала,Автостоянка № 4 МГСА
+327,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Villagio Estate,"Корпус ""Д""",Торговый комплекс «Охотный ряд»,корпус Б
+328,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Жилой комплекс ""Перовское 2""","Торгово-развлекательный центр ""Москворечье""",Входной павильон «Воробьевы Горы»,квартал Грайвороново 90А
+329,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Деловой центр ""Эрмитаж Плаза""","ФГУП ""Автотранспортный комбинат""",Монастырская выпечка,Торгово-гостиничный комплекс
+330,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Городня-1,См-Клиника,Парк Олимпийской деревни,Учебный корпус №2
+331,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Торгово-развлекательный центр ""Райкин плаза""","Бизнес-центр ""Минская Плаза""",Фестиваль,Мостранссклад
+332,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Перехватывающая парковка № 9182,корпус В,Московский колледж железнодорожного транспорта,НИИ неотложной детской хирургии и травматологии
+333,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Московский областной научно-исследовательский клинический институт им. М. Ф. Владимировского,Жилой комплекс «Савёловский Сити»,Тайницкая башня,Храма Благоверного Александра Невского
+334,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Жилой комплекс «Вавилова, 4»","Общественно-деловой центр ""Atlantic""",Центральная энергетическая таможня,Спасская башня
+335,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Московский государственный гуманитарный университет имени М. А. Шолохова,"ЦС ""Локомотив""",7-й и 7-й «А» микрорайоны Тёплого Стана,Оружейная башня
+336,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Детская Школа Искусств им. А.С. Даргомыжского,Центральный клинический военный госпиталь ФСБ РФ (Терапевтическое отделение),Суворовский парк,Жилой квартал «Jazz»
+337,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Жилой комплекс ""Академия Люкс""","БЦ ""Эйлер""",Уютный дом,ОМВД по району Преображенское
+338,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Жилой комплекс ""ВеллХаус на Ленинском""",Лефортовский районный суд ЮВАО города Москвы,Детская Школа Искусств им. А.С. Даргомыжского,Всероссийский НИИ сельскохозяйственной биотехнологии РАСХН
+339,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Раменка,Главное управление экономической безопасности и противодействия коррупции,Субурган и Пагода рая с молитвенным барабаном,Национальный исследовательский ядерный университет «МИФИ»
+340,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Таганская,ОУС-308,Сквер Ветеранов,Микрорайон №11
+341,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Му-Му,Медицинский колледж №1,Тушинский машиностроительный завод,Школа №830 дошкольное отделение Незабудка-2
+342,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Апарт-отель «Досфлота, 10»","Деловой центр ""Полиграфбанксервис""",ВТБ Страхование,Пироговская школа
+343,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,"Бизнес-центр ""Минская Плаза""",19-й корпус НИИЯФ МГУ,"Общественно-деловой центр ""Atlantic""",ОАО «Природоведение и школа»
+344,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Сад «Эрмитаж»,Посольство исламской республики Мавритания,"ГСК ""Связьспецстрой""",корпус №82
+345,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Гуманитарный институт,Федеральный институт промышленной собственности,Никольская башня,Жилой комплекс «Влюблино»
+346,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Научно-исследовательский машиностроительный институт,Московский государственный медико-стоматологический университет имени А.И. Евдокимова,Физкультурно-оздоровительный комплекс Курьяновской станции аэрации,Производственно техническая база
+347,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Сквер «Огородная слобода»,ЗАО Группа компаний ТВЕМА,Российский государственный университет социальных технологий,Министерство спорта Российской Федерации
+348,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Детская школа искусств №4,Хлебный Дом,Арка главного входа в ЦПКиО им. Горького,Программа реновации жилья
+349,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Жилой комплекс ""Доминион""",Центральный научно-исследовательский радиотехнический институт имени академика А.И. Берга,"Бизнес-центр ""Крымский Вал""",Жилой комплекс «Freedom»
+350,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,СОК Плавательный Бассейн,Научно-исследовательский институт спортивно-технических изделий,Московский академический художественный лицей,Фондовая оранжерея Главного ботанического сада
+351,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Храм святомученика Петра,"Московский завод ""Кристалл""",Рио,"Рублёво-Архангельская линия Московского метрополитена, станция Звенигородская"
+352,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Портал,Жилой комплекс «Савёловский Сити»,Тойота центр Битца,ДОСААФ
+353,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Офисный центр ""На Барабанном""",Жилой комплекс «Аэробус»,"Жилой комплекс ""Ahead""",Набатная башня
+354,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Торговый центр ""Водный""",Школа № 1273. Корпус школьного образования №2,У-Сервис Infinity,100+ Пансионат для пожилых людей
+355,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Корпус 1,Государственный университет просвещения,"Театр — Сцена ""Мельников""","Торговый центр ""Дарья"""
+356,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,площадь Проломная Застава,Выставочный комплекс на Красной Пресне,ВШ №824,Вкусный
+357,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Нефтьмагистраль,ГосМКБ «Вымпел» им. И. И. Торопова,Лукойл,ТЦ «Дубровка»
+358,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Издательство Наука,"Бизнес-центр ""Дом на Маяковке""",Бизнес-центр «Интерьер»,Московское машиностроительное предприятие им. В. В. Чернышёва
+359,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,корпус М,Жилой комплекс «Алые Паруса»,корпус №19,ГУП Автокомбинат санитарного транспорта «Мосавтосантранс» – автобаза № 2
+360,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Vivaldi Plaza,Управа района «Очаково-Матвеевское»,"Стадион ""Связист""",ЖелдорАльянс
+361,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Жилой комплекс «Измайловский 11»,8-й «А» микрорайон Тёплого Стана,Жилой комплекс «Поколение»,"Автохозяйство №6 ЦТО ФКУ ""ГЦХТиСО ГУ МВД России по г. Москве"""
+362,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,ГУП «Горзеленхоз №2»,Федеральная таможенная служба,ОБ ДПС по САО,Первый Московский приборостроительный завод им. В. А. Казакова
+363,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Парк «Автомобилист»,Производство компании Пи-Эль Косметикс,АО «Объединенная энергетическая компания»,Звезда Фабрициуса
+364,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Троицкая линия Московского метрополитена, станция Вавиловская",Гончаровский парк,Очаковский район контактной сети,"Школа № 2107. Здание школы ""Школа им. В. М. Комарова"""
+365,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Мемориально-парковый комплекс героев Первой мировой войны,"Бизнес-центр ""Бастион""",Храм Сорока Севастийских Мучеников,Жилой комплекс «Измайловский 11»
+366,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Парк у пруда Бекет,Olymp Junior,Сквер Дмитрия Михайлика,Психиатрическая клиническая больница №1 им. Н. А. Алексеева
+367,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,СОК Плавательный Бассейн,Пансион для дворянских детей,Океания,корпус №2
+368,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,8 корпус,станция Черкизово,"Клинико-диагностическая лаборатория, научный центр психического здоровья",Диспетчерский пункт ГКУ ЦОДД
+369,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Российская телевизионная и радиовещательная сеть,Дом Правительства Российской Федерации,Жилой комплекс «Маяковский»,Жилой комплекс «Байконур»
+370,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Парк имени Шкулёва,Московский инновационный университет,Жилой комплекс «Пресня Сити»,Бизнес-парк «Ямское поле»
+371,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Фазотрон-НИИР,Ледовый дворец Сокольники,"Жилой комплекс ""LIFE-Волжская""","Торгово-развлекательный комплекс ""Marï"""
+372,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Корпус 1,Пост охраны автостоянки,Воронцовский парк,Институт физиологии растений им. К. А. Тимирязева
+373,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Пожарно-спасательный отряд 202,Московский городской университет. Колледж Арбат,Роснефть,Тимирязевский парк
+374,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,парк Спорта,ГПК «Багратион»,корпус №18(17),Жилой комплекс «Царская площадь»
+375,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Автобаза № 2 Управления делами Президента РФ,slok.su,Композит Строй,"Жилой комплекс ""Золотые ключи 2"""
+376,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Рособоронэкспорт,"Жилой комплекс ""Мосфильмовский""",Московский областной научно-исследовательский клинический институт им. М. Ф. Владимировского,"Бизнес-центр ""Персона-Грата"""
+377,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,"Производственно-техническая база ГБУ ""Жилищник"" района Лефортово",Медсанчасть ГУВД МО,Стадион Фили,Космос
+378,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Жилой комплекс «LIFE-Ботанический сад»,"Жилой комплекс ""Береговой""",Дом Апраксиных — Трубецких,Корея-Авто
+379,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Галатекс-Восток,Спортивный центр ЦСК ВМФ,Альянстрансатом,Айсберг
+380,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Жилой Комплекс ""Зодиак""","Троицкая линия Московского метрополитена, станция Вавиловская",Детский сад № 295,Верхняя причальная стенка шлюза №9
+381,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Кабельный завод НПП Спецкабель,Московский городской университет. Колледж Арбат,Старшая школа,Жилой комплекс «На Мельникова»
+382,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Центр Лучевой Диагностики,Жилой комплекс «Хорошёвский»,Первый автокомбинат,Цифровое материаловедение
+383,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,"Бизнес-центр ""Капитал""",Легкое дыхание,Жилой квартал «Jazz»,ГБОУ Школа №825
+384,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Жилой комплекс «Резиденции Архитекторов»,Сенатский дворец,Научно-исследовательский институт строительной физики,ГосМКБ «Вымпел» им. И. И. Торопова
+385,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Автоэксперт,ГБОУ Школа № 825,Московский Паркинг,Жилой комплекс «Поколение»
+386,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Социально-реабилитационный центр «Алтуфьево»,Институт биоорганической химии РАН,Дом птиц,"Культурно-деловой комплекс ""Большевик"""
+387,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,"Жилой комплекс ""Миракс Парк""",Сервис пром строй 2000,Красногвардейские пруды,Миусский парк
+388,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Автомобильная база ГБУ Жилищник района Богородское,Газпромнефть,Сбербанк-Сити,Центр образования №1447
+389,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Социально-реабилитационный центр ветеранов войн и вооруженных сил. Отделение ""Екатерининский парк""","Бизнес-парк ""Аквамарин III""",Московский автомобильно-дорожный государственный технический университет,ОБ ДПС по САО
+390,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Школа № 1525,"Городская поликлиника № 62, филиал № 1",Автостоянка № 32 МГСА,Корпус К
+391,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Аквамарин II,посольство Финляндии,Нефтьмагистраль,Герпетический центр
+392,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Бизнес-центр «Нижегородский»,Научно-исследовательский институт строительной физики,Храм Илии Пророка в Черкизове,"Бизнес-центр ""Сокольники плаза"""
+393,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Военно-дипломатическая академия Генштаба ВС РФ,"Парк ""Зарядье""","Бизнес-центр ""Кутузовъ Холл""",ЦНИИ Электроника
+394,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Центр театра и кино под руководством Никиты Михалкова,Тематический парк «Остров мечты»,Чебуречная,Самотёчный бульвар
+395,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Artplay,Поликлиническое отделение №1,Корпус 9 - хирургический,Своды
+396,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Беклемишевская башня,Школа № 67,"Бизнес-центр ""Poklonka Place""",Штаб ВДВ России
+397,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,"ТЭС ""Международная""",отделение гемодиализа ГКБ №1,"Центр психолого-медико-социального сопровождения ""Раменки""",Трёхгорная мануфактура
+398,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Миссионерский центр имени преподобного Иосифа Волоцкого,"Техцентр ""Сервис-Авто""",Жилой комплекс «Nagatino i-Land»,АПМ-3
+399,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Комплекс апартаментов «Технопарк»,Виноград,Комсомолец,Нефтьмагистраль
+400,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Конечная станция ""улица Лебедева""","Жилой комплекс ""Черняховского 19""","филиал ГУП ""Мосгортранс""","ОАО ""Московское Электрооборудование и Лифты"""
+401,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Российская академия народного хозяйства и государственной службы при Президенте РФ,Жилой комплекс «Level Амурская»,Лукойл,Центральное здание
+402,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Жилой комплекс «Талисман на Водном»,Магистральные тепловые сети,Василина,Культурный центр им. И. М. Астахова
+403,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Российский Государственный Социальный Университет,"Многофункциональный комплекс ""Легион-III""","Бизнес-центр ""H2O Plaza""",Медицинское училище №15
+404,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,площадь Расковой,Жилой комплекс «Букинист»,"Жилой комплекс ""Опера Хаус""",Особняк И.Прохорова
+405,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Православная часовня св. великомученика и целителя Пантелеймона в Отрадном,"Бизнес-центр ""Легион 1""",Солдатенковский парк,Корпус «K»
+406,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Колледж сервиса и туризма № 29,Бизнес зал,Корпус Б,Жилой комплекс Green Park
+407,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Бизнес-центр ""Павловский""",Сад «Эрмитаж»,Корпус 8,"Культурный центр ""Вдохновение"""
+408,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Перовский парк,Жилой комплекс «Семеновский парк»,ЧУЗ «ЦКБ «РЖД-Медицина»,Бизнес-центр «Центр-Т»
+409,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Пожарная часть №2 (3-?),"Банно-прачечный комбинат ""Новость""",Жилой комплекс «Наследие»,Brookes Moscow
+410,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Фрезер,Институт иностранных языков РУДН,Тропарёвский лесопарк,Управление ЗАГС по Московской области
+411,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Подводная лодка,Братеевский каскадный парк,"Жилой комплекс ""Открытый парк""","Торгово-развлекательный центр ""Мичуринский"""
+412,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Концертный зал,"ЖК ""Просторная 7""","Многофункциональный комплекс ""Суворов Плаза""","Жилой комплекс ""Лосиноостровский парк"""
+413,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Городская поликлиника № 220,Китайгородская стена,Ярмарка с Каруселью,АФР-1
+414,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Кременчугский-1,Никольская башня,Автостоянка №38,Корпорация «ВНИИЭМ»
+415,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Бизнес-центр «Юсупов двор»,Mandarin,Роснефть,Театральный художественно-технический колледж
+416,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Ново-Алексеевский монастырь,Жилой комплекс RiverSky,Москино Тула,Московский лакокрасочный завод Оливеста
+417,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Russtar Arena,Жилой комплекс «Level Донской»,Хавско-Шаболовский жилой массив,Жилой комплекс Will Towers
+418,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Яблоневый сад,PEKO,Даниловское кладбище,"Жилой комплекс ""На Циолковского"""
+419,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Башня B,"Торговый центр ""Варшавский""",Городская клиническая больница имени братьев Бахрушиных,Жилой комплекс «1147»
+420,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Корпус Санкт-Петербург,"ГБУ ""Автомобильные дороги СВАО""",Олимпийский центр имeни братьев Знаменских,Медицинский колледж №1
+421,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Подводная лодка Новосибирский комсомолец,Московская нефтебаза. Участок №4,"Бизнес-парк ""ИТКОЛ-Текстильщики""",Москва-Сити
+422,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Реабилитационно-образовательный центр № 76,ВТБ Арена парк,Рабоче-вентиляционный ствол Люблинско-Дмитровской линии Московского метрополитена,Московский опытный светотехнический завод
+423,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Московский университет им. С. Ю. Витте,Жилой комплекс «Полянка/44»,"тир ""Викинг""","Спортивный парк ""Динамо"""
+424,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Морг,Школа № 1279,"Бизнес-центр ""Сокольники плаза""",Олимпийский центр имeни братьев Знаменских
+425,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Жилой комплекс «LIFE – Ботанический сад 2»,"НИИ ""Аэропроект""",Курьяново,Театр сатиры
+426,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,"Полиграфический комплекс ""Красная звезда""",КПП,Овощная опытная станция имени В. И. Эдельштейна,Больница № 4
+427,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,ФИЯР,"Московский научно-практический центр медицинской реабилитации, восстановительной и спортивной медицины",Независимость Mazda,Московский машиностроительный завод «Авангард»
+428,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,9-й мкр. Марьинского Парка,Луч,НИИ вычислительных комплексов им. М.А. Карцева,"Бизнес-центр ""Буревестник"""
+429,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Жилой комплекс «Атмосфера»,"Бизнес-центр ""Лотос""",Психоневрологический диспансер № 9,"Зона отдыха ""Оленьи пруды"""
+430,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Бизнес-парк ""Фактория""",Храм Похвалы Пресвятой Богородицы в Зябликове,"Школа № 2107. Здание ""На Мещанской""",Shell
+431,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Жилой комплекс «Лефортово парк»,Конкорс станции Рижская,2 корпус,ГСК-3 «Автовладелец»
+432,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Красный Пролетарий,Гараж,Жилой комплекс «Пётр I»,Институт металлургии и материаловедения им. А.А. Байкова РАН
+433,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Бизнес-центр «Юникон»,"Офисный центр ""Новодмитровский""",Мостранссклад,"Жилой комплекс «Новочерёмушкинская, 17»"
+434,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Московский машиностроительный завод ""Знамя""",РадиоВТУЗ МАИ,Травматологическое отделение ГКБ №1,Производственная база СМУ №5 Мосметростроя
+435,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Ярмарочный комплекс ""Царицынский""",НИИ скорой помощи им. Н. В. Склифосовского,Официальная резиденция Посла Республики Куба,Московский завод электромеханической аппаратуры
+436,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Тропарёвский лесопарк,Физкультурно-оздоровительный комплекс Курьяновской станции аэрации,Савёловский парк,ТЭЦ ЗИЛ
+437,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Квант,Мичуринский сад,КПП 3,"МЦД-1, станция Окружная"
+438,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Федеральный центр гигиены и эпидемиологии,ЖелдорАльянс,СНТ «Огородник»,Всероссийский научно-исследовательский институт железнодорожного транспорта
+439,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,27-я гв. Севастопольская отд. мсбр,Лукойл Арена,Школа № 56,Жилой комплекс «ВТБ Арена парк»
+440,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Усадьба Цурикова,Бизнес-центр «Park Place Moscow»,Депо Три вокзала,Аминьевские бани
+441,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Электродепо Аминьевское,Красная Стрела,Физкультурно-оздоровительный комплекс Курьяновской станции аэрации,"ГСК ""Прудовой"""
+442,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Академия повышения квалификации и профессиональной переподготовки работников образования,"Бизнес-центр «Островная, 2»",Российский научный центр рентгенорадиологии,Большой розарий
+443,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Парк Дружбы,Центр продаж и обслуживания МГТС,"ГУ ""ИПГ""",ОВД Сокольники
+444,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Парк Останкино,"Бизнес-центр ""Легион 1""",Цепочная карусель,Жилой комплекс «Полянка/44»
+445,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Общежитие в/ч 3795 ВВ МВД,Парк Северного речного вокзала,Храм Преображения Господня в Старом Беляеве,Центр информационных технологий и систем органов исполнительной власти
+446,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Бизнес-центр ""Марр плаза""",КПП 3,Дом культуры «Конгресс-центр»,Центральная энергетическая таможня
+447,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Сад «Эрмитаж»,Московский финансово-юридический университет,Бизнес-центр «Платформа»,"Деловой центр ""Новь"""
+448,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Жилой комплекс ""LIFE-Волжская""",ОБ ДПС ГИБДД УМВД по ЮЗАО,Часовня Иверской иконы Божией Матери,ГСК-7
+449,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Корпус «S»,парк Акведук,Старое Покровское кладбище,Квартал «Искра-Парк»
+450,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,TriBeCa apartments,ФОК с аквапарком,Триумфальная арка,"Научно-производственное объединение ""Базальт"""
+451,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,корпус Д,Российская телевизионная и радиовещательная сеть,Входной павильон 1D,Бизнес-центр На Балакиревском
+452,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Управление кабельных сетей Северо-западного округа,Нефтьмагистраль,Набатная башня,Shell
+453,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Клиника лечебного питания,Пиратские лодки,Турист,Жилой комплекс Lion Gate
+454,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Рижский сад,Бизнес-центр «Stendhal»,Учебно-спортивный комплекс «Искра»,4 Спецбатальон ГИБДД
+455,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,"Концерн ""Радиотехнические и информационные системы""",парк Зюзино,Жилой комплекс «Савёловский Сити»,Бульвар архитекторов
+456,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Уютный дом,НПО Алмаз,Центр педагогического мастерства,Лучик
+457,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Общежитие № 1 НИУ ВШЭ,Корпус Т,Olympia park,площадь Победы
+458,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Газпром метан,"Притоннельные сооружения на перегоне между станциями ""Народное Ополчение"" и ""Бульвар Генерала Карбышева"" Рублёво-Архангельской линии Московского метрополитена",Корпус «L»,Жилой комплекс «Тринити»
+459,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Жилой комплекс ""Very""",DHL,Центр переподготовки и повышения квалификации,ОАО «Союзцветметавтоматика»
+460,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Газойл,Академическая,Барклай Плаза,Центральный архив РУДН
+461,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Храм святителя Льва Великого,Торговый комплекс «Вятский»,Нефтьмагистраль,Поликлиника Московской городской онкологической больницы №62
+462,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Жилой комплекс «Пресня Сити»,Российский научный центр рентгенорадиологии,Школа № 152. Детский сад № 286,Газпромнефть
+463,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Колледж сервиса и туризма № 29,Российский государственный университет им. А. Н. Косыгина,"Бизнес-центр ""Империал парк""",Жилой комплекс «Kazakov Grand Loft»
+464,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Ледовый дворец Сокольники,Детский сад №2342,Дукс,Рождественский бульвар
+465,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Бизнес-парк «Ямское поле»,Жилой комплекс «Страна.Заречная»,Ластоногие,Технический пожарно-спасательный колледж №57
+466,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Московско-Курский отдел материально-технического обеспечения,ОАНО Школа Ника,Жилой комплекс «NV/9 Artkvartal»,Дукс
+467,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Парк имени 850-летия Москвы,корпус М,Русский мех,"ОВД ""Текстильщики"""
+468,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Собор Успения Пресвятой Богородицы,Жилой квартал «Only»,Татнефть,Бизнес-центр «Смена»
+469,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Сибинтек,"ЖК ""Врубеля, 4""",Семинарский корпус,Постоянное Представительство Республики Адыгея при Президенте РФ
+470,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Кондитерская фабрика «Тирольские пироги»,Главное здание РУДН,Станция Соколиная Гора,Управа района «Очаково-Матвеевское»
+471,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Базы Департамента жилищно-коммунального хозяйства города Москвы,Гостиничный комплекс Измайлово,Входной павильон 1D,"Всероссийский научно-исследовательский институт пивоваренной, безалкогольной и винодельческой промышленности"
+472,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,ВШ №824,"Жилой комплекс ""Барклая, 6""","Деловой центр ""Стримлайн Плаза""",Жилой комплекс «Измайловский 11»
+473,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Техническая школа Мосметростроя,"Юнит технический центр BMW, Mersedes, Audi, Porsche",Бизнес-центр «Платформа»,ДЭЗ
+474,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Робомойка,Детский черкизовский парк,Жилой комплекс «Семеновский парк»,Московский научно-практический центр наркологии
+475,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Институт высшей нервной деятельности и нейрофизиологии РАН,Поликлиника №45,Жилой комплекс «Level Амурская»,"Храм святителя Иннокентия, митрополита Московского в Бескудникове"
+476,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Мандарин,Средняя школа,Нефтьмагистраль,"Муниципальная автостоянка ""Металлург - Станколит"""
+477,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,корпус №21,Высшая школа бизнеса,станция Пресня,Центр современного искусства Винзавод
+478,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Жилой комплекс «Лефорт»,Объединённый архив,Центральный государственный архив Московской области,ТП
+479,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Sunflower,Жилой комплекс «Сигнальный 16»,Новопушкинский сквер,Роснефть
+480,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Станция перегрузки мусора №3 ГУП ""Экотехпром""",3-й микрорайон Тёплого Стана,Жилой комплекс «D1»,Школа № 199. Дошкольное отделение № 7
+481,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,корпус №12,"Торгово-развлекательный комплекс ""Глобал Сити""",Российская детская клиническая больница,Красный Пролетарий
+482,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,развлекательный центр Луч,Усадьба Свиблово,Сосенки,Гимназия №1570
+483,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Паталогоанатомическое отделение,Жилой комплекс «Влюблино»,Депо Три вокзала,Апарт-отель YE’S Ботанический сад
+484,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Бизнес-центр «Союз деловых людей»,"Студенческий центр МЭИ, корпус № 2","Жилой комплекс ""Яуза Парк""","Жилой комплекс ""Эдельвейс"""
+485,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,169-й бетонный завод,Российская академия музыки имени Гнесиных,Усадьба Цурикова,"Бизнес-центр ""Академик"""
+486,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,СШОР «Спартак»,ГСК Метростроевец,"Пожарная часть № 16, отдельный пост",Столовая №10
+487,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,СК МПО им. И. И. Румянцева,Бизнес-центр «Нижегородский»,ГСК Инициативный,Фонда
+488,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,парк Никулино,Жилой квартал «Only»,Жилой комплекс Интонация,Второй Кавалерский Корпус
+489,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,ГПК «Филёвский Парк»,Воскресенские ворота,Останкинский завод бараночных изделий,Жилой квартал «Береговой»
+490,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,больница Центросоюза РФ,"НОУ ""Школа св. Георгия""",Локобанк,"""На Береговом"" (Мой Адрес)"
+491,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Парк имени 50-летия Октября,Ростест-Москва,14 корпус,Автостоянка №67
+492,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Детский сад 2242 Института Физической Химии и Электрохимии им. Фрумкина А.Н.,Парк Сосенки,9-й мкр. Марьинского Парка,ГЭС-2
+493,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Завод железобетонных изделий №6 ЛСР Строительство,Электродепо Красная Пресня,Гигант,"Многофункциональный жилой комплекс ""Золотой"""
+494,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Сквер Шмелёва,Коммунальник,Комбинат обслуживания художников,Медсанчасть № 1 ФГБУЗ ЦМСЧ № 119 ФМБА России
+495,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Больница №1 (РЖД),Суперметалл,Башня B,Космосити
+496,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Жилой комплекс «Freedom»,РП-3805,храм Преображения Господня,Корпус гидрологии
+497,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Петровский путевой дворец,Парк «Тюфелева роща»,169-й бетонный завод,Бизнес-центр «Немецкая слобода»
+498,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Во! Клуб,Ледовый дворец Сокольники,Поликлиника ДКБ им. Н.А. Семашко,Эгодом
+499,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"ГБУ ""Автомобильные дороги Северо-Восточного административного округа""",Жилой комплекс «Соседи 21/19»,Ваш восход,Московская чайная фабрика
+500,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Пятницкое кладбище,Экран,ЛеФорт,Жилой комплекс «LIFE-Кутузовский»
+501,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Центр защиты информации и специальной связи ФСБ РФ,квартал Грайвороново 90А,парк Акведук,"Бизнес-центр ""Минская Плаза"""
+502,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Ботанический сад МГУ «Аптекарский огород»,Заочный факультет МГЛУ,Газпромнефть,"Посольство Индии. Консульский отдел, экономический и коммерческий отдел."
+503,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Сервис пром строй 2000,"Жилой комплекс ""Ahead""",Москва-Каланчёвская,"Школа №1282 ""Сокольники"""
+504,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Москва-Рижская,Дирекция по обеспечению деятельности государственных учреждений здравоохранения Западного административного округа города Москвы,Метеор,Детская поликлиника №39 Филиал №3
+505,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Храм святителя Льва Великого,Школа № 627 имени генерала Д. Д. Лелюшенко. Учебный корпус № 6,Микрорайон № 4,Вещевой рынок Коньково
+506,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,ПКиО Измайлово,Бизнес-парк «Ямское поле»,Парк Викторенко,Многофункциональный центр предоставления государственных и муниципальных услуг района Очаково-Матвеевское
+507,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Школа водных видов спорта,Угловая Арсенальная башня,Жилой комплекс «Balance»,Детская поликлиника №89
+508,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Заочный факультет МГЛУ,Усадьба Измайлово,Самокат,"Бизнес-центр ""Отрадный"""
+509,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,ЖК «Hill8»,Вымпел,Посольство Перу,"Кафедра биофизики биологического факультета, кафедра радиоэкологии и экотоксикологии факультета почвоведения"
+510,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Коммунарская линия Московского метрополитена,Московский машиностроительный завод «Знамя»,Люблинский сквер,Нефтьмагистраль
+511,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Жилой комплекс «Счастье на Ломоносовском»,Храм святителя Льва Великого,Чистый город,Научно-практический психоневрологический центр им. З. П. Соловьёва
+512,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Пансионат ветеранов войны,"Школа № 630 имени дважды Героя Советского Союза Г.П. Кравченко. Здание ""На Варшавке""",Городские резиденции «Spires»,"Дворец культуры ""Прожектор"""
+513,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Городская поликлиника № 107,"Троицкая линия Московского метрополитена, станция Вавиловская",Старый Английский Двор,Гребной канал
+514,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Воронцовский парк,"Школа № 2123 имени Мигеля Эрнандеса. Корпус ""Стодесятая""",Государственный академический университет гуманитарных наук,Жилой комплекс «Новоданиловская набережная 8»
+515,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Южный речной вокзал,Гимназия Марьина Роща имени В. Ф. Орлова. Учебный корпус 35,Жилой комплекс «Люблинский парк»,Компьютерная томография
+516,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Бизнес-центр «Аврора»,парк Зюзино,"АСК ""Витязь""",Московский архитектурный институт
+517,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Парк скульптур,"Офис-парк ""Красносельский""",Школа № 1158. Корпус дошкольного образования «Д.А.Р.»,Жилой комплекс «Level Донской»
+518,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,The Patricks,Травматологическое отделение ГКБ №1,Сквер по Кутузовскому проспекту,Holiday Inn Sokolniki
+519,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Жилой комплекс «Квартал Домашний»,Вкусно — и точка,"Бизнес-центр ""Яузская, 5""",ГУП Автокомбинат санитарного транспорта «Мосавтосантранс» – автобаза № 2
+520,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Веранда танцев,Паталогоанатомическое отделение,корпус №66,"Жилой комплекс «Новочерёмушкинская, 17»"
+521,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Радуга ООО,Стрелецкая слобода,"Культурный центр ""Салют""",Автобаза № 1
+522,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Крокодил,Межрайонный отдел вневедомственной охраны по ЮАО,"Офис-парк ""Шереметьевский""","Торговый центр ""Ключевой"""
+523,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,"Жилой комплекс ""Logos""",Красный монетный двор,Бизнес-центр «Станколит»,Альбатрос
+524,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Школа № 1529 имени А. С. Грибоедова. Здание № 5,Мира,Хамовнический районный суд г.Москвы,Бизнес-центр «Stendhal»
+525,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Арт пространство ""Авиатор""",Жилой комплекс «Лефорт»,Российский государственный университет им. А. Н. Косыгина,Газгольдеры
+526,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Медицинское училище №15,"Бизнес-центр ""Ольховский""",Дом Наркомфина,Жилой комплекс «Balance»
+527,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Башня пирата,Russtar Arena,Бизнес-центр Вилла-Рива,Жилой комплекс «Небо»
+528,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Дропин,Детский Таганский парк,Музей русского лубка и наивного искусства,"Деловой центр ""Кузнецкий мост 17"""
+529,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Бизнес-центр ""Белая площадь""",Колледж архитектуры и менеджмента в строительстве №17,Гамма АРТ,Российский Государственный Социальный Университет
+530,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,"Бизнес-центр ""Бастион""",Дом Бакст,"ООО НПК ""ЦНИИшерсть""","Жилой комплекс ""Дом Лаврушинский"""
+531,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,ТЭЦ ЗИЛ,"Жилой комплекс «Пресненский вал, 21»",Научно-исследовательский институт системной биологии и медицины» Роспотребнадзора,ДорохоFF
+532,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,6-й отдел полиции на метрополитене,Корпус физического факультета,Центральный стадион «Динамо» им. Льва Яшина,Терминально-логистический центр «Ховрино»
+533,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,"ЖК ""Дом в Сокольниках""",Лукойл,Парк Школьников,Петровская башня
+534,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Жилой комплекс «Флотилия»,Космосити,Новоекатерининский сквер,"Городской технопарк ""Перерва"""
+535,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Школа №90 «Многопрофильный образовательный комплекс» имени Героя Советского Союза Е. Г. Ларикова,Жилой комплекс «Play»,Автогородок,4-й мкр. Марьинского Парка
+536,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Портал,Вкусный,"Деловой центр ""Парк Победы""",Парк Хуамин
+537,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Строительный рынок Каширский двор-2,Жилой комплекс «Квартал 38А»,Школа № 67,Государственный университет просвещения
+538,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Жилой комплекс «Жизнь на Плющихе»,Производственно-технический центр пожарной и аварийно-спасательной техники,"Жилой комплекс ""Квартал Румянцево""",станция Пресня
+539,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Парк имени Воровского,80 мкр. р-на Бутырский,"Торгово-развлекательный центр ""Райкин плаза""",Институт стоматологии им. Е.В. Боровского
+540,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,НИИ скорой помощи им. Н. В. Склифосовского,Академия хорового искусства имени В.С. Попова,Жилой комплекс «Новохохловская 15»,"Жилой комплекс ""Квартал Метроном"""
+541,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Общежитие МГУПС(МИИТ),"ГСК ""Звезда""","Бизнес-центр ""Wall Street""",Жилой комплекс «Sydney City»
+542,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Объединенный институт высоких температур РАН,Музейный магазин,Жилой комплекс «Titul на Серебрянической»,Отдел внешних церковных связей
+543,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Арена Чертаново,Стена скорби,Хованское северное кладбище,НИИ скорой помощи им. Н. В. Склифосовского
+544,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Дизайн-завод,"Место встречи ""Баку""",Автобаза №1 Мосавтосантранса (Скорая помощь),Учебно-экспериментальная теплоэлектроцентраль НИУ МЭИ
+545,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Детская городская поликлиника №46,Юг,Галактика,Магистраль Плаза
+546,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,"Автостоянка ""Надежда""",Ракета,Концертный зал им. П. И. Чайковского,Димари
+547,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Офисный центр ""На Барабанном""",Жилой комплекс «Второй Нагатинский»,Петровская башня,Газпромнефть
+548,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Деловой центр ""Парк Победы""",Сквер Воинов-победителей,Учебная площадка,"Жилой комплекс ""Перовское 2"""
+549,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Тайницкая башня,"СП ""Гимназия""","Технопарк ""IQ-Park""",Программа реновации жилья
+550,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Детский сад 1780 РАН,"Бизнес-центр ""Академик""",Медицинский научно-образовательный центр МГУ,Московский почтамт
+551,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,"церковь в честь святителя Тихона, Патриарха Всероссийского с нижним храмом Вячеслава Чешского",церковь в честь великомученика Георгия Победоносца,Жилой комплекс «Волоколамское 24»,Корпорация «ВНИИЭМ»
+552,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,корпус №82,Эталон,"Квартал ""Lucky+""","Обувная фабрика ""Ralf Ringer"""
+553,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Саларьево,Жилой комплекс «Скай Форт»,Кассы Кремля,больница Центросоюза РФ
+554,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,КПП,Жилой комплекс «Вереск»,Академия государственной противопожарной службы МЧС России,8ое общежитие
+555,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,ГУК Зона Б,Жилой комплекс «Михалковский»,АвтоСпецЦентр (Таганка),"ФИЦ питания, биотехнологии и безопасности пищи"
+556,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Сквер ветеранов,Геликон-опера,Очаковский молочный завод,Микрорайон № 1
+557,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Жилой комплекс «ТопХиллc»,Жилой комплекс «Наследие»,"Корпус ""В""",Жилой квартал «FAMOUS»
+558,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,Городская поликлиника № 5. Филиал 1,Интерклуб РУДН,Храм Всех Святых в Филях,Жилой комплекс «Матвеевский парк»
+559,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Врачебно-физкультурный диспансер №6,Политехнический колледж № 31,Мегасфера,Генеральный штаб Вооружённых Сил Российской Федерации
+560,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Префектура Северного Административного округа г.Москвы,Площадь М. В. Ломоносова,Московский международный онкологический центр,Корпус «G»
+561,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Жилой комплекс ""Перовское 2""",Государственный научно-исследовательский институт гражданской авиации,Конечная автобусная и троллейбусная станция «ВВЦ-Южная»,Шахматный домик
+562,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Конечная автобусная станция «ВВЦ-Северная»,Москвич,Железнодорожный колледж № 52,КПП
+563,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Meliora place,"Торговый комплекс ""Депо Молл""",81 мкр р-на Бутырский,Северо-западный район электрических сетей
+564,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Бизнес-центр ""Академика Королёва 13""",Жилой комплекс «Shome»,Федеральная таможенная служба,станция Владыкино-Московское
+565,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,Леоновское кладбище,Московский Планетарий,Интернационалист,Москва-Товарная
+566,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Экстра-М,Московское медицинское училище №18,Колледж имени Маршала В.И. Чуйкова,Биоконтроль
+567,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,"Офисный центр ""Передний двор""",Базы Департамента жилищно-коммунального хозяйства города Москвы,"Учебно-спортивный центр ""Труд""","ЦС ""Локомотив"""
+568,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,B,См-Клиника,"Бизнес-центр ""Даниловский форт""",Нефтьмагистраль,Школа №1223
+569,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Бизнес-центр ""Чайка-Плаза""",КПП 3,Будапешт,The Баssейн
+570,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,СпортEX,КПП 4,Государственный астрономический институт им. П. К. Штернберга МГУ,Российский государственный архив литературы и искусства
+571,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,Большой розарий,"Торговый центр ""Капитолий""",Газпромнефть,Детская психоневрологическая больница № 32
+572,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,D,ДГУП «Гормост.фонтаны»,Московский Радиозавод,Москворецкий пивоваренный завод,Георгиевский сквер
+573,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Проходная МИИТ,Центр информационных технологий и систем органов исполнительной власти,Бизнес-центр «Академический»,Береговой-2 k1
+574,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Radisson Blu Leninsky Prospect Hotel, Moscow",В память гибели Великого князя Сергея Александровича,Роддом,Институт высшей нервной деятельности и нейрофизиологии РАН
+575,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,C,Фиалка,Клубные Резиденции «River Residences»,"Жилой комплекс ""Корона-Эйр""","Центр специального назначения в области обеспечения безопасности дорожного движения, МВД РФ"
+576,Which of the following AOIs (Area of Interest) is likely to contain the most POIs?,A,"Жилой комплекс ""Корона""",Новая Заря,Аквасити,Студенческое Общежитие № 6 МГУПП

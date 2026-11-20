@@ -1,0 +1,501 @@
+id,question,answer,A,B,C,D
+0,"What is the name of AOI located at address: 14b شارع, بر دبي, الرفاعة, دبي, الإمارات العربية المتحدة?",C,Dubai Creek Golf And Yacht Club Residences,Airbus,مقبرة الرفاعة,Home to Home Hotel Apartments
+1,"What is the name of AOI located at address: مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",A,Concourse C,Galadari Printing Press,Central Park (City Walk),Dubai Police Plant
+2,"What is the name of AOI located at address: شارع جميرا, أم سقيم 3, أم سقيم, دبي, الإمارات العربية المتحدة?",C,Concourse B,منطقة ممنوعة,Jumeirah Beach Hotel,Apron F
+3,"What is the name of AOI located at address: شارع 2, القرهود, دبي, الإمارات العربية المتحدة?",D,Al Nakheel 1,Boutique 7,RHS Logistics,ملعب خور دبي للغولف
+4,"What is the name of AOI located at address: شارع جميرا, أم سقيم 3, أم سقيم, دبي, الإمارات العربية المتحدة?",A,برج العرب جميرا,Elegance House,JLT Cluster E,Zabeel Tower
+5,"What is the name of AOI located at address: مضمار جبل علي, شارع 40ب, البرشاء, البرشاء 3, دبي, الإمارات العربية المتحدة?",C,امارات,مدرسة جميرا الإنكليزية,Jebel Ali Horse Race Track,AB Plaza
+6,"What is the name of AOI located at address: شارع 17, ديرة, الرقة, دبي, الإمارات العربية المتحدة?",A,Dubai Municipality,تلال الإمارات,Social Hotel,Dubai Police Plant
+7,"What is the name of AOI located at address: مطحم هوت, شارع الدرميت, أم سقيم 2, أم سقيم, دبي, الإمارات العربية المتحدة?",A,حديقة أم سقيم,Capital School,Damas Gold Refinery,South Ridge
+8,"What is the name of AOI located at address: شارع 89, السطوة, دبي, الإمارات العربية المتحدة?",A,حديقة الخزّان,Dubai School for Secondary Education for Boys,Shatha Tower,سكي دبي
+9,"What is the name of AOI located at address: شارع 27, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",A,ديرة سيتي سنتر,Sheikh Marwan Tower,اينوك,Jumeirah Lakes Towers Park
+10,"What is the name of AOI located at address: 39, شارع النهدة, القصيص, دبي, الإمارات العربية المتحدة?",A,Dubai Youth Hostel,Galadari Printing Press,ACE Hardware,sheikha latifa building
+11,"What is the name of AOI located at address: شارع عمان, القصيص, دبي, الإمارات العربية المتحدة?",C,Vue de Lac K3,حديقة الوصل,Lulu Hypermarket,Al Moosawi Oriental
+12,"What is the name of AOI located at address: شارع الخليج, بر دبي, الشندغة, دبي, الإمارات العربية المتحدة?",B,Sheikh Colony Building 5,Heritage Village,DNATA,Fairmont North Residence
+13,"What is the name of AOI located at address: Alfie's, شارع مركز التجارة, مركز التجاري 2, المركز التجاري, دبي, الإمارات العربية المتحدة?",C,Latifa Tower,District Cooling Plant,Emirates Towers,3E
+14,"What is the name of AOI located at address: شارع البورصة, مركز التجاري 2, المركز التجاري, دبي, الإمارات العربية المتحدة?",D,MiNC Apartments,Al Bustan Center & Residence,Future Star BMT LLC,Emirates Towers SE
+15,"What is the name of AOI located at address: شارع البورصة, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",A,Emirates Towers W,1,Coopers National Paints,Hotel Vasantha Bhavan
+16,"What is the name of AOI located at address: 2b شارع, ديرة, الخبيصي, دبي, الإمارات العربية المتحدة?",C,Hyatt Golf Park,Dubai National School,S.S.Lootah Building,Savoy Central Hotel Apartments
+17,"What is the name of AOI located at address: شارع 20, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",D,Murjan 6,Green View 2,flying carpet express ware house,Port Saeed Mosque
+18,"What is the name of AOI located at address: 13a شارع, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",D,Mercure Dubai Barsha Heights,لؤلؤة دبي,Al Safa Art and Design Library,ايبكو
+19,"What is the name of AOI located at address: طريق صلاح الدين, ديرة, الخبيصي, دبي, الإمارات العربية المتحدة?",D,valley key,سوق مدينة جميرا,3E,امارات
+20,"What is the name of AOI located at address: شارع آل مكتوم, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",D,Al Zafrana,Sheikh Colony Building 4,Vista Tower,Dnata Building
+21,"What is the name of AOI located at address: A-301, 13b شارع, ديرة, بور سعيد, ديرة, دبي, الإمارات العربية المتحدة?",C,Al Safa Art and Design Library,سوق مدينة جميرا,Al Shoala Building,Sahara Tower
+22,"What is the name of AOI located at address: 73a شارع, جميرا, دبي, الإمارات العربية المتحدة?",B,Aspin Tower,Mercato Shopping Mall,Rainbow 2,The Belvedere Residences
+23,"What is the name of AOI located at address: شارع اليمامة, وسط مدينة دبي, دبي, الإمارات العربية المتحدة?",C,مسجد دبي الكبير,Sheikh Colony Building 6,فندق العنوان داون تاون,مقبرة الرقة
+24,"What is the name of AOI located at address: وسط مدينة دبي, دبي, الإمارات العربية المتحدة?",A,The Lofts - Emaar,Oasis Residence,Iranian Hospital Dubai,Gusais Housing Substation
+25,"What is the name of AOI located at address: شارع المركز المالي - المستوى العلوي, وسط مدينة دبي, دبي, الإمارات العربية المتحدة?",C,Garden Villas,Al Badia Golf Club,Building 6,JLT Cluster X
+26,"What is the name of AOI located at address: شارع وادي الصفا 6, المرابع العربية, وادي الصفا 6, دبي, الإمارات العربية المتحدة?",C,Al Telal,برج العرب جميرا,Arabian Ranches Community Center,Medlink Clinic
+27,"What is the name of AOI located at address: Meadows 4, تلال الإمارات, ميدوز 4, دبي, الإمارات العربية المتحدة?",D,Riviera Hotel,مقبرة الرقة,Shaikh Abdullah Al Mualla Building,Par 3 course and driving range
+28,"What is the name of AOI located at address: Terminal 03 Arrival, مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",A,Concourse B,Al Rais Shoping Centre,Emirates Identity Authority Center,Laguna Tower
+29,"What is the name of AOI located at address: فندق مدينة جميرا ميناء السلام, Madinat Jumeirah, الصفوح 1, أم سقيم, دبي, الإمارات العربية المتحدة?",A,Fort Island,Nadd Al Hamar Primary School,حديقة الصفا 2,Dubai Flower Centre
+30,"What is the name of AOI located at address: 8a شارع, الصفا 2, الصفا, دبي, الإمارات العربية المتحدة?",B,Al Moosa Tower,حديقة الصفا 2,مستشفى دبي,Beach Centre
+31,"What is the name of AOI located at address: شارع بني ياس, ديرة, رقة البطين, دبي, الإمارات العربية المتحدة?",A,Dubai Chamber,Babu home,Al Hassani Tower,South Ridge
+32,"What is the name of AOI located at address: Nisreen 2 street, تلال الإمارات, الثنية 4, دبي, الإمارات العربية المتحدة?",A,تلال الإمارات,Mosque,Al Ghaf 1,Al Tayer Building
+33,"What is the name of AOI located at address: Costa Coffee, شارع الملك سلمان بن عبدالعزيز آل سعود, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",D,AB Plaza,Dubai Airport Free Zone Authority Headquarters,مسجد سلامة صالح بن لوتاه رمز 222,Thomson Reuters
+34,"What is the name of AOI located at address: شارع الملك سلمان بن عبدالعزيز آل سعود, ميناء دبي, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,Sheikh Colony Building D,ذا ويستن,Execujet Hangar,Dubai Customs head office
+35,"What is the name of AOI located at address: شارع البدع, الوصل, دبي, الإمارات العربية المتحدة?",A,Mazaya Shopping Centre,JLT Cluster T,Al Noor Tower 1,Grand Belle Vue
+36,"What is the name of AOI located at address: شارع البدع, الوصل, دبي, الإمارات العربية المتحدة?",D,Mazaya Shopping Centre,Ramee Rose Hotel,Four Points by Sheraton,مسجد الصفا
+37,"What is the name of AOI located at address: UAE Storages, 402 - Emarat Atrium Building, شارع الشيخ زايد, الوصل, دبي, الإمارات العربية المتحدة?",C,Paid Parking 1,34,Emarat Atrium,Four Points by Sheraton
+38,"What is the name of AOI located at address: شارع البدع, الوصل, دبي, الإمارات العربية المتحدة?",A,Al Wasl Centre,35,سوق السيارات دبي,Twin Tower
+39,"What is the name of AOI located at address: شارع أم عمارة, الوصل, دبي, الإمارات العربية المتحدة?",A,Emarat,Port Saeed Mosque,Emarat Atrium,Amal Exchange الأمل للصرافة
+40,"What is the name of AOI located at address: شارع الشيخ زايد, الوصل, دبي, PO Box 118737, الإمارات العربية المتحدة?",D,Al Moosawi Oriental,ديرة سيتي سنتر,Sheikh Colony Building 1,Villa Rotana
+41,"What is the name of AOI located at address: ملعب خور دبي للغولف, شارع 2, القرهود, دبي, الإمارات العربية المتحدة?",D,Al Shoroq Private School,Desert Rose Hotel Apartments,امارات,Dubai Creek Golf And Yacht Club Residences
+42,"What is the name of AOI located at address: شارع بني ياس, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",D,JLT Cluster Z,Emirates International School,Emirates SkyCargo,Dubai Creek Golf And Yacht Club Residences
+43,"What is the name of AOI located at address: 1, شارع الشيخ زايد, البرشاء, البرشاء 1, دبي, الإمارات العربية المتحدة?",D,Dal Group,Al Hawai Twin Towers,Beach Centre,سكي دبي
+44,"What is the name of AOI located at address: Shoreline Street, نخلة جميرا, دبي, الإمارات العربية المتحدة?",B,Rainbow 2,Tanzanite,فندق أمباسادور,Gulf Oasis Hotel Apartments
+45,"What is the name of AOI located at address: شارع الفرد - السعفة A, Signature Villas Frond A, Palm Jumeirah, نخلة جميرا, دبي, الإمارات العربية المتحدة?",D,Millenium Executive Tower,MiNC Apartments,Concourse C,Diamond
+46,"What is the name of AOI located at address: Terminal 03 Arrival, مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",D,Al Safa Art and Design Library,italco,JLT Cluster T,مبنى 3
+47,"What is the name of AOI located at address: مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",A,مبنى 1,The Emirates Academy Of Hospitality Management,JLT Cluster N,Dubai Grand Hotel by Fortune
+48,"What is the name of AOI located at address: طريق المطار الداخلي, مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",A,Dubai Flower Centre,الحديقة المائية وايلد وادي,حديقة النهدة,مدرسة عمر بن الخطاب
+49,"What is the name of AOI located at address: مطار محطة 02 الطريق., مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",C,Latifa Tower,Al Satwa Park 3,المبنى ٢,MiNC Apartments
+50,"What is the name of AOI located at address: Emirates Engineering Parking Building, شارع القدس, الطوار 2, الطوار, دبي, الإمارات العربية المتحدة?",A,Emirates Engineering Department,Alrahmah,Carlton Tower Hotel,Dubai Police Plant
+51,"What is the name of AOI located at address: 19c شارع, ديرة, نايف, ديرة, دبي, الإمارات العربية المتحدة?",A,مقبرة الرقة,National Bonds Plaza,Mozna Building,Al Gurg Tower 1
+52,"What is the name of AOI located at address: شارع آل مكتوم, ديرة, الرقة, ديرة, دبي, الإمارات العربية المتحدة?",C,Dr. Khalifa Tower,Dubai Government Workshop,Private Parking,Heritage Village
+53,"What is the name of AOI located at address: Naser Mohd Naser Al Sayea Trading Co., 18a شارع, ديرة, الرقة, ديرة, دبي, الإمارات العربية المتحدة?",B,تلال الإمارات,Amal Exchange الأمل للصرافة,Sheikh Colony Building 14,مدرسة رافلز الدولية
+54,"What is the name of AOI located at address: شارع 18, ديرة, الرقة, ديرة, دبي, الإمارات العربية المتحدة?",A,Riviera Hotel,حديقة الخزّان,Al Kharbash Tower,ايبكو
+55,"What is the name of AOI located at address: شارع 18, ديرة, الرقة, ديرة, دبي, الإمارات العربية المتحدة?",D,المحكمةالعليا,Al Shoala Building,Sheikh Colony Building 12,Carlton Tower Hotel
+56,"What is the name of AOI located at address: Parking dubai naser, شارع البرج, ديرة, نايف, ديرة, دبي, الإمارات العربية المتحدة?",D,Jumeirah Baccalaureate School,Sheikh Colony Building 9,Century Plaza,RTA Public Parking
+57,"What is the name of AOI located at address: شارع 18, ديرة, نايف, ديرة, دبي, الإمارات العربية المتحدة?",C,2,Karama Medica Centre,Al Futtaim Mosque,Galadari Printing Press
+58,"What is the name of AOI located at address: شارع آل مكتوم, ديرة, الرقة, ديرة, دبي, الإمارات العربية المتحدة?",D,Jumeirah Baccalaureate School,Oceana-The Palm Jumeirah,ديرة سيتي سنتر,sheikha latifa building
+59,"What is the name of AOI located at address: شارع 8, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة?",A,Somali Masjid,Abidos Appartment Hotel,منازل,كلية دبي
+60,"What is the name of AOI located at address: شارع الخليج, ديرة, Al Murar, ديرة, دبي, الإمارات العربية المتحدة?",A,Hyatt Golf Park,Building 6,Al Gurg Tower 1,Emirates SkyCargo
+61,"What is the name of AOI located at address: شارع بني ياس, ديرة, كورنيش ديرة, دبي, الإمارات العربية المتحدة?",C,Saeed Tower - II,Al Jabri Tower A,Hyatt Regency,Spinneys
+62,"What is the name of AOI located at address: طريق أبو بكر الصديق, ديرة, شارع 2, دبي, الإمارات العربية المتحدة?",A,مستشفى دبي,Sheikh Colony Building 5,ستاد مكتوم بن راشد آل مكتوم,District Cooling Plant
+63,"What is the name of AOI located at address: كاريبو كوفي, شارع الأصايل, وسط مدينة دبي, دبي, الإمارات العربية المتحدة?",D,Al Mareef Pvt. Schoo,Al Shahed Tower,JLT Cluster X,Burj Views
+64,"What is the name of AOI located at address: Gateway Avenue, مجتمع رأس الخور الجديد, دبي فيستيفال سيتي, دبي, الإمارات العربية المتحدة?",C,Standpoint Residences - Downtown - Emaar,Al Safa Mosque,C&B site office,8
+65,"What is the name of AOI located at address: شارع الجوزاء, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",C,JGC 3,Babu home,Shatha Tower,فندق العنوان داون تاون
+66,"What is the name of AOI located at address: Swiss Palace, شارع الفلك, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",D,DIC Building 5 (IBM),Dubai Airport Free Zone Authority Building 3 West,Hyatt Regency,Media One Tower
+67,"What is the name of AOI located at address: Sumo, 75b شارع, جميرا, دبي, الإمارات العربية المتحدة?",A,Town Centre Jumeirah,أون باسيف,National Bonds Plaza,Emaar Business Park 1;مؤسسة البترول الوطنية الصينية
+68,"What is the name of AOI located at address: 86, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",D,مقبرة الرقة,Sheikh Colony Building 14,Nakheel Mall,Sheikh Marwan Tower
+69,"What is the name of AOI located at address: Rage Skate Shop, Palm Jumeirah Road, نخلة جميرا, دبي, الإمارات العربية المتحدة?",C,Fairmont The Palm,Dubai Creek Golf And Yacht Club Residences,Nakheel Mall,Al Qusais Health Centre
+70,"What is the name of AOI located at address: شارع الشيخ محمد بن راشد, وسط مدينة دبي, دبي, P. O. Box 31166, الإمارات العربية المتحدة?",B,Al Zafrana,العنوان - دبي مول,Diamond,لؤلؤة دبي
+71,"What is the name of AOI located at address: Lounge Cafe Italiano, شارع المرصد, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",B,المدرسة اليابانية في دبي,Arenco,Pepsi Co.,C&B site office
+72,"What is the name of AOI located at address: شارع المجرات, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",A,DIC Building 4 (Mastercard Building),Thuraya Tower,Dubai Court,Golden Tulip Media Hotel
+73,"What is the name of AOI located at address: 5, شارع الشيخ زايد, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",D,DNATA,JGC 2,JW Marriott Marquis Hotel,DIC Building 5 (IBM)
+74,"What is the name of AOI located at address: Aoowal Opticals, طريق خالد بن الوليد, بر دبي, المنخول, دبي, الإمارات العربية المتحدة?",B,مسجد الشيخ حمدان,Al Gurg Building,Al Dar Star A,Sheikh Colony Building 2
+75,"What is the name of AOI located at address: Boeing Dubai, شارع القدس, مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",A,3E,First Central Hotel Suites,Jumeirah Beach Hotel,مدينة دبي للإنترنت
+76,"What is the name of AOI located at address: شارع البروج, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",C,Salman Farsi Iranian Boys School,Belhasa Driving Centre,Zayed University - Knowledge Village Campus,JLT Cluster M
+77,"What is the name of AOI located at address: شارع الفلك, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",C,Shangri La,Par 3 course and driving range,DPG,Dubai Airport Free Zone Authority Headquarters
+78,"What is the name of AOI located at address: شارع عبدالله عمران تريم, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",C,dnata FreighGates,Skyline Residence Tower,Dell Technologies,ستاد مكتوم بن راشد آل مكتوم
+79,"What is the name of AOI located at address: شارع عبدالله عمران تريم, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",B,Laguna Tower,GE Building,Coopers National Paints,Crystal Blue Building
+80,"What is the name of AOI located at address: شارع البروج, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",B,Amal Exchange الأمل للصرافة,Holiday Inn Express Dubai Internet City,Galadari Printing Press,Mercato Shopping Mall
+81,"What is the name of AOI located at address: Hult International Business School, Dubai, شارع البروج, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",D,Sheikh Colony Building 11,Holiday Inn Express Dubai Internet City,Emirates Towers SE,Injaz Building
+82,"What is the name of AOI located at address: INC Express Shipping, Office M29, طريق المطار الداخلي, مطار دبي الدولي, دبي, 500001, الإمارات العربية المتحدة?",D,مسجد الصفا,Alrahmah,First Central Hotel Suites,dnata FreighGates
+83,"What is the name of AOI located at address: طريق المطار الداخلي, مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",B,Al Meraikhi Tower,Execujet Hangar,Green View Residence 1,Emirates Post
+84,"What is the name of AOI located at address: Arrows and Sparrows Cafe, شارع الربيع, الروضة, الصفوح 2, دبي, الإمارات العربية المتحدة?",B,JLT Cluster P,Emaar Business Park 4,Emirates Engineering Department,Arabian Ranches Golf Club
+85,"What is the name of AOI located at address: شارع الربيع, ذا فيوز, الصفوح 2, دبي, الإمارات العربية المتحدة?",B,Al Hassani Tower,Emaar Business Park 1;مؤسسة البترول الوطنية الصينية,valley key,Chelsea Tower
+86,"What is the name of AOI located at address: Plants & Flowers, شارع الربيع, ذا فيوز, الصفوح 2, دبي, الإمارات العربية المتحدة?",D,Fairmont North Residence,Par 3 course and driving range,Festival City Mall,Emaar Business Park 2
+87,"What is the name of AOI located at address: شارع الشيخ زايد, مدينة دبي للإنترنت, قرية المعرفة, دبي, الإمارات العربية المتحدة?",C,Habib Bank AG Zurich,Boutique 7,Emaar Business Park 3,Spinneys
+88,"What is the name of AOI located at address: شارع الإبداع, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",B,Nakheel Mall,Saeed Tower - II,Dubai Government Workshop,Grand Heights Dubai Hotel Apartments
+89,"What is the name of AOI located at address: شارع الشيخ زايد, Sheikh Zayed Road, الوصل, دبي, الإمارات العربية المتحدة?",A,Al Tayer,JLT Cluster V,Topaz Engineering,The Palace - Downtown Dubai
+90,"What is the name of AOI located at address: 78, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",D,Jumeirah Lakes Towers Park,RTA Public Parking,Nakheel Mall,dxb Tower
+91,"What is the name of AOI located at address: شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",C,JLT Cluster O,Emaar Business Park 3,Skyline Residence Tower,حديقة النهدة
+92,"What is the name of AOI located at address: 76, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",A,Four Points by Sheraton,Sheikh Colony Building 13,The Palladium,Sheikh Colony Building 15
+93,"What is the name of AOI located at address: Al Rostamani International Exchange, شارع الشيخ زايد, الخليج التجاري, وسط مدينة دبي, دبي, الإمارات العربية المتحدة?",D,Rainbow 5,Thuraya Tower,Tanzanite,DNATA
+94,"What is the name of AOI located at address: Knowledge Village Medical Fitness Centre, شارع البروج, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",A,Block 12,Oasis Residence,Grosvenor House,Al Jabri Tower B
+95,"What is the name of AOI located at address: ICCA Dubai, شارع المعرفة, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",C,Grand Shopping Mall,Fortune Grand Hotel Apartments,Block 8,Golden Tower
+96,"What is the name of AOI located at address: 92, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",A,Emirates Grand Hotel Apartments,2,Bin Shabib Mall,Sahara Centre
+97,"What is the name of AOI located at address: شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",D,Mercato Shopping Mall,Time Crystal Hotel Apartments,Dnata Building,Sheikh Ahmed Tower
+98,"What is the name of AOI located at address: 88, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",D,سوق مدينة جميرا,DEWA,MCN Hive,Al Hawai Tower
+99,"What is the name of AOI located at address: 100, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",B,سنشري مول,Dr. Khalifa Tower,Indigo Tower,Silicon Plaza
+100,"What is the name of AOI located at address: 108-110, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",B,Bin Fardan,Shangri La,المدرسة اليابانية في دبي,مسجد فاطمة حسن محمد يوسف بستكي
+101,"What is the name of AOI located at address: 96, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",C,дом Эдика,Al Bakhit Centre,Number One Tower Suites,Antique Museum
+102,"What is the name of AOI located at address: شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",D,Dubai Duty Free Warehouse,Jumeirah Plaza,dnata FreighGates,Al Meraikhi Tower
+103,"What is the name of AOI located at address: 90, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",B,Boutique 7,Chelsea Tower,Gusais Housing Substation,Al Warsan Tower
+104,"What is the name of AOI located at address: شارع الشيخ محمد بن راشد, وسط مدينة دبي, دبي, P.O. Box 9770, الإمارات العربية المتحدة?",C,Block 12,Sheikh Colony Building 13,The Palace - Downtown Dubai,Golden Tower
+105,"What is the name of AOI located at address: الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",A,Le Meridien Villas,مقبرة الرفاعة,SNTTA Emir Tours,Sheikh Saoud Villas
+106,"What is the name of AOI located at address: 3a شارع, القوز 3, مجتمع القوز, دبي, الإمارات العربية المتحدة?",D,Antique Museum,سوق مدينة جميرا,S.S.Lootah Building,Pepsi Co.
+107,"What is the name of AOI located at address: 3a شارع, القوز 3, مجتمع القوز, دبي, الإمارات العربية المتحدة?",C,Al Safa Mosque,Sheikh Colony Building 12,National Refreshment Company,Dubai Creek Golf And Yacht Club Residences
+108,"What is the name of AOI located at address: شارع 22, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة?",B,Al Safa Tower,Coopers National Paints,Dal Group,Crown Plaza Public Parking
+109,"What is the name of AOI located at address: 28, Oryx Doors & Windows, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة?",A,Modern Building Materials Trading,Home to Home Hotel Apartments,JLT Cluster N,MiNC Apartments
+110,"What is the name of AOI located at address: شارع 22, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة?",B,дом Эдика,Choithram,قناة القصبة,Al Tayer
+111,"What is the name of AOI located at address: شارع بني ياس, ديرة, الرقة, دبي, الإمارات العربية المتحدة?",A,"Radisson Blu Hotel, Deira Creek, Dubai",JLT Cluster V,Al Bakhit Centre,العنوان - دبي مول
+112,"What is the name of AOI located at address: Marco Varni, شارع بني ياس, ديرة, الرقة, ديرة, دبي, الإمارات العربية المتحدة?",A,Twin Tower,Nissan,Emarat,Lootah building
+113,"What is the name of AOI located at address: طريق المطار الداخلي, مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",C,JLT Cluster Q,JLT Cluster E,جناح الطيران الملكي,Sarhan Interior Design
+114,"What is the name of AOI located at address: شارع عمان, القصيص الصناعية 3, القصيص الصناعية, دبي, الإمارات العربية المتحدة?",B,Dubai Airport Free Zone Authority Headquarters,Sahara Centre,Par 3 course and driving range,تلال الإمارات
+115,"What is the name of AOI located at address: China House Restaurant, طريق دبي - العين, مجمع مسكن دبي, وادي الصفا 5, دبي, الإمارات العربية المتحدة?",A,Skycourts Towers,Dubai Airport Free Zone Authority Building 1 West,Dubai Airport Terminal 02 Car Parking,Fairmont North Residence
+116,"What is the name of AOI located at address: Durrah Al Madeena Grocery, شارع 15, مجمع مسكن دبي, وادي الصفا 5, دبي, الإمارات العربية المتحدة?",C,JLT Cluster L,Nadd Al Hamar Primary School,Phoenix Building,Silicon Plaza
+117,"What is the name of AOI located at address: Arabian Ranches Colf Club, المرابع العربية, وادي الصفا 6, دبي, الإمارات العربية المتحدة?",C,Madison Residency,Tanzanite,Arabian Ranches Golf Club,Dubai Creek Golf And Yacht Club Residences
+118,"What is the name of AOI located at address: Hotel, Arabian Ranches Colf Club, المرابع العربية, وادي الصفا 6, دبي, الإمارات العربية المتحدة?",B,Emaar Business Park 4,Arabian Ranches Colf Club,Dubai Airport Free Zone Authority Headquarters,Carlton Tower Hotel
+119,"What is the name of AOI located at address: Atlantis the Palm staff accommodation, كحيل بوليفارد, District 10, قرية جميرا الدائرية, دبي, الإمارات العربية المتحدة?",A,Amsa Building,ستاد مكتوم بن راشد آل مكتوم,Gold Land,DPG
+120,"What is the name of AOI located at address: Jumeriah Clinic, كحيل بوليفارد, قرية جميرا الدائرية, دبي, الإمارات العربية المتحدة?",C,Mosque,مسجد السطوة,Karama Medica Centre,Time Crystal Hotel Apartments
+121,"What is the name of AOI located at address: شارع السيف ١, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",B,Nissan,First Central Hotel Suites,Avari Building,Elegance House
+122,"What is the name of AOI located at address: B2, 7a شارع, ديرة, الخبيصي, دبي, 41974, الإمارات العربية المتحدة?",B,تلال الإمارات,Future Star BMT LLC,Golden Tower,Lulu Hypermarket
+123,"What is the name of AOI located at address: Stars House Dental Clinic, 108/1 الطريق, ديرة, الخبيصي, دبي, الإمارات العربية المتحدة?",B,Thuraya Tower,Al Bakhit Centre,2,JLT Cluster O
+124,"What is the name of AOI located at address: Y-Axis Middle East, d1, JLT Cluster D, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",C,Hamreya Park,Grand Heights Dubai Hotel Apartments,Indigo Tower,italco
+125,"What is the name of AOI located at address: 24c شارع, بر دبي, الرفاعة, دبي, الإمارات العربية المتحدة?",D,Sheikh Colony Building 13,Phoenix Building,Ghubaiba Parking,منازل
+126,"What is the name of AOI located at address: شارع الشيخ راشد, بر دبي, الرفاعة, دبي, الإمارات العربية المتحدة?",C,Al Bustan Center & Residence,The Lofts - Emaar,International Modern Hospital,Rainbow 2
+127,"What is the name of AOI located at address: 19 street, شارع 19, بر دبي, الرفاعة, دبي, الإمارات العربية المتحدة?",B,Saif Belhasa Building,Fortune Grand Hotel Apartments,Emaar Business Park 1;مؤسسة البترول الوطنية الصينية,Aspin Tower
+128,"What is the name of AOI located at address: شارع الرولة, بر دبي, الرفاعة, دبي, الإمارات العربية المتحدة?",A,Imperial Suites,Al Tayer,DNATA,White Swan
+129,"What is the name of AOI located at address: شارع الرولة, بر دبي, الرفاعة, دبي, الإمارات العربية المتحدة?",C,Somali Masjid,Emirates Driving Institute,Al Rais Shoping Centre,Al Shoala Building
+130,"What is the name of AOI located at address: Cntel Recording Studio, Room 108, شارع الميناء, بر دبي, الحضيبة, دبي, الإمارات العربية المتحدة?",A,Al Tayer Building,Block 12,Le Meridien Villas,Vue de Lac K3
+131,"What is the name of AOI located at address: Marines Club, شارع الميناء, بر دبي, الرفاعة, دبي, الإمارات العربية المتحدة?",D,3E,JLT Cluster B,JLT Cluster J,"Seaview Hotel, Dubai"
+132,"What is the name of AOI located at address: شارع الميناء, بر دبي, الميناء, دبي, الإمارات العربية المتحدة?",A,Dubai Customs head office,مستشفى دبي,flying carpet express ware house,The Emirates Academy Of Hospitality Management
+133,"What is the name of AOI located at address: 3a شارع, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",D,Tower-A Rostamani,مسجد سلامة صالح بن لوتاه رمز 222,Al Gurg Building,وزارة المالية
+134,"What is the name of AOI located at address: شارع 26, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",C,Jumeirah Beach Hotel,مسجد السطوة,Ghubaiba Parking,Al Nabooda Automobiles
+135,"What is the name of AOI located at address: Wheelchair access, وسط مدينة دبي, دبي, الإمارات العربية المتحدة?",B,Social Hotel,برج بارك,الحديقة المائية وايلد وادي,Alrahmah
+136,"What is the name of AOI located at address: Palm Jumeirah Broadwalk, نخلة جميرا, دبي, الإمارات العربية المتحدة?",D,Choithram's Supermarket,Al Futtaim Mosque,JLT Cluster R,One&Only The Palm
+137,"What is the name of AOI located at address: شارع علي بن أبي طالب, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",A,مسجد دبي الكبير,اكويتي,ذا تيراسز,Somali Masjid
+138,"What is the name of AOI located at address: شارع الخيل الأول, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة?",D,Twin Tower,Belhasa Driving Centre,Rainbow 8,Topaz Engineering
+139,"What is the name of AOI located at address: 5b شارع, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة?",A,Topaz Engineering,JLT Cluster W,Fruits & Vegetable Market,Concourse B
+140,"What is the name of AOI located at address: شارع القدس, مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",B,Dubai Carmel School,Dubai Airport Free Zone Authority Building 2 West,Sheikh Colony Building 2,مدرسة عمر بن الخطاب
+141,"What is the name of AOI located at address: شارع القدس, مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",D,كينجز دبي,Dubai Creek Golf And Yacht Club Residences,Rainbow 3,Dubai Airport Free Zone Authority Building 3 West
+142,"What is the name of AOI located at address: مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",D,Dr. Khalifa Tower,RHS Logistics,MCN Hive,Dubai Airport Free Zone Authority Headquarters
+143,"What is the name of AOI located at address: Health Avenue Polyclinics, شارع الضالع, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",D,JLT Cluster I,Century Plaza,Crown Plaza Public Parking,Grosvenor House
+144,"What is the name of AOI located at address: JLT Outdoor Gym, شارع السرايات, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",A,Jumeirah Lakes Towers Park,JLT Cluster J,DAMAC Executive Heights,Vue de Lac K3
+145,"What is the name of AOI located at address: Eat Zone, JLT Cluster A, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",C,Al Moosawi Oriental,Union Cooperative Society Hypermarket,Dubai Gate 2,JLT Cluster D
+146,"What is the name of AOI located at address: couqley, JLT Cluster A, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",D,Sheikh Colony Building 7,Galadari Printing Press,Art XII,Laguna Tower
+147,"What is the name of AOI located at address: شارع جميرا, أم سقيم 3, أم سقيم, دبي, الإمارات العربية المتحدة?",D,Sheikh Colony Building 8,فندق أمباسادور,مسجد السطوة,Ocean Blue
+148,"What is the name of AOI located at address: شارع جميرا, أم سقيم 3, أم سقيم, دبي, الإمارات العربية المتحدة?",C,Al Jabri Tower A,Festival Tower,Sinbad's Kids Club,Arenco
+149,"What is the name of AOI located at address: شارع جميرا, أم سقيم 3, أم سقيم, دبي, الإمارات العربية المتحدة?",A,الحديقة المائية وايلد وادي,Murjan 6,italco,BALAY
+150,"What is the name of AOI located at address: شارع السرايات, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",A,Damas Gold Refinery,Diamond,ملعب خور دبي للغولف,Deema Residence
+151,"What is the name of AOI located at address: ذا فيوز, مدينة دبي للإعلام 2, الصفوح 2, دبي, الإمارات العربية المتحدة?",A,Mosque,مجمّع الذهب والألماس,الخليج التجاري,Oasis Residence
+152,"What is the name of AOI located at address: شارع 19, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة?",D,Sinbad's Kids Club,Grand Belle Vue,Qusais Manzil,Antique Museum
+153,"What is the name of AOI located at address: Costa, طريق المطار, مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",D,Al Jabri Tower A,Festival City Mall,italco,مقر طيران الإمارات
+154,"What is the name of AOI located at address: شارع 17, أم رمول, دبي, الإمارات العربية المتحدة?",C,Sheikh Colony Building 14,Emirates Towers,Hobby Centre,Sahara Centre
+155,"What is the name of AOI located at address: القرهود, دبي, الإمارات العربية المتحدة?",D,15,Aspin Tower,مقر طيران الإمارات,flying carpet express ware house
+156,"What is the name of AOI located at address: القرهود, دبي, الإمارات العربية المتحدة?",A,italco,Paid Parking 1,Time Crystal Hotel Apartments,Skyline Residence Tower
+157,"What is the name of AOI located at address: شارع 5, أم رمول, دبي, الإمارات العربية المتحدة?",A,Dubai Duty Free Warehouse,Dubai Airport Free Zone Authority Building 3 West,Pullman Deira City Centre,Babu home
+158,"What is the name of AOI located at address: سوق الفواكه والخضروات, شارع الشيخ محمد بن زايد, مجتمع رأس الخور الجديد, رأس الخور الصناعية 3, دبي, الإمارات العربية المتحدة?",D,3,مسجد راشد عبدالله حمد الفطيم,Al Fahad,Union Cooperative Society Hypermarket
+159,"What is the name of AOI located at address: Petrol Station Access, مجتمع رأس الخور الجديد, دبي فيستيفال سيتي, دبي, الإمارات العربية المتحدة?",B,American International School,اينوك,مدرسة جميرا الإنكليزية,White Swan
+160,"What is the name of AOI located at address: شارع جميرا, جميرا 3, جميرا, دبي, الإمارات العربية المتحدة?",C,Execujet Hangar,Dubai Customs head office,Taste of Arabia,Rainbow 2
+161,"What is the name of AOI located at address: Petrol Station Access, البرشاء شمال, البرشاء 3, دبي, الإمارات العربية المتحدة?",C,المدرسة اليابانية في دبي,Oasis Residence,اينوك,Apple International School
+162,"What is the name of AOI located at address: شارع الشيخ زايد, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",D,Par 3 course and driving range,Topaz Engineering,JLT Cluster I,ايبكو
+163,"What is the name of AOI located at address: emirates driving school, 11a شارع, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة?",B,Sinbad's Kids Club,Emirates Driving Institute,الحديقة المائية وايلد وادي,The Lofts - Emaar
+164,"What is the name of AOI located at address: 2b شارع, بر دبي, الحضيبة, دبي, الإمارات العربية المتحدة?",B,مسجد الشيخ حمدان,Crowne Plaza Dubai Jumeirah Hotel,DNATA,مدرسة عمر بن الخطاب
+165,"What is the name of AOI located at address: تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",C,Millenium Tower,JLT Cluster Y,JLT Cluster Q,Golden Tower
+166,"What is the name of AOI located at address: Outotec Dubai, Unit 3702, JLT Cluster Y, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",A,JLT Cluster Y,Al Safa Mosque,Topaz Engineering,مدرسة الصفا البريطانية
+167,"What is the name of AOI located at address: تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",B,Al Adab Iranian Private School For Boys,JLT Cluster P,Dubai Municipality,DIC Building 5 (IBM)
+168,"What is the name of AOI located at address: 2801, JLT Cluster W, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",D,Fairmont North Residence,JLT Cluster J,Sheikh Colony Building A,JLT Cluster W
+169,"What is the name of AOI located at address: شارع السرايات, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",A,JLT Cluster Z,GE Building,Private Parking,"Radisson Blu Hotel, Deira Creek, Dubai"
+170,"What is the name of AOI located at address: تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",C,Paradise Residence,Studio M Arabian Plaza Hotel & Hotel Apartments,JLT Cluster S,Time Crystal Hotel Apartments
+171,"What is the name of AOI located at address: 3305 1 Lake Plaza, JLT Cluster T, تلال الإمارات, أبراج بحيرات الجميرا, دبي, 113431, الإمارات العربية المتحدة?",B,AB Plaza,JLT Cluster T,حديقة الخزّان,The Royal Oceanic
+172,"What is the name of AOI located at address: تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",A,JLT Cluster V,American International School,Arenco,Mohammed Sultan Belshalat Building
+173,"What is the name of AOI located at address: Jumeirah Bay X3, 104, JLT Cluster X, تلال الإمارات, أبراج بحيرات الجميرا, دبي, JLT-PH2-X3A, الإمارات العربية المتحدة?",C,محطة المركز التجاري العالمي,Dubai Scholars School,JLT Cluster X,Emirates Towers SE
+174,"What is the name of AOI located at address: تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",C,DIC Building 4 (Mastercard Building),Rainbow 5,JLT Cluster R,مدرسة جميرا الإنكليزية
+175,"What is the name of AOI located at address: تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",D,Media One Tower,National Refreshment Company,Villa Rotana,JLT Cluster U
+176,"What is the name of AOI located at address: تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",D,Sheikh Colony Building 3,Emarat,ديرة سيتي سنتر,JLT Cluster O
+177,"What is the name of AOI located at address: تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",B,S.S.Lootah Building,JLT Cluster B,Carlton Tower Hotel,Shangri La
+178,"What is the name of AOI located at address: تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",B,Mercato Shopping Mall,JLT Cluster A,Al Rais Shoping Centre,Crown Plaza Public Parking
+179,"What is the name of AOI located at address: تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",B,المبنى ٢,JLT Cluster C,Sheikh Colony Building 2,Savoy Central Hotel Apartments
+180,"What is the name of AOI located at address: Paavo's Pizza, d4, JLT Cluster D, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",B,Festival Tower,JLT Cluster D,Al Meraikhi Tower,Panorama Hotel
+181,"What is the name of AOI located at address: تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",C,Emirates Towers SE,مبنى 3,JLT Cluster E,Al Gurg Building
+182,"What is the name of AOI located at address: Asian Street by Thai, Shop #F5B, JLT Cluster F, تلال الإمارات, أبراج بحيرات الجميرا, دبي, 35114, الإمارات العربية المتحدة?",A,JLT Cluster F,JLT Cluster D,Dynatrade Regency,dnata FreighGates
+183,"What is the name of AOI located at address: تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",B,Dubai National School,JLT Cluster G,2,Emirates Engineering Department
+184,"What is the name of AOI located at address: تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",B,Al Hawai Tower,JLT Cluster H,Blue Tower (HHHR Tower),Tower-B Rostamani
+185,"What is the name of AOI located at address: تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",B,White Swan,JLT Cluster I,Emirates Engineering Department,Emirates Identity Authority Center
+186,"What is the name of AOI located at address: NoWayOut Escape Room Dubai HDS Business Centre, 5, JLT Cluster M, تلال الإمارات, أبراج بحيرات الجميرا, دبي, 00000, الإمارات العربية المتحدة?",C,Cedre Villas A-D,JLT Cluster N,JLT Cluster M,مدرسة الصفا البريطانية
+187,"What is the name of AOI located at address: تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",D,JLT Cluster E,Four Points by Sheraton,Al Jabri Tower A,JLT Cluster K
+188,"What is the name of AOI located at address: تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",B,Bin Fardan,JLT Cluster N,Phoenix Building,Dal Group
+189,"What is the name of AOI located at address: تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",C,Home to Home Hotel Apartments,Al Badia Golf Club,JLT Cluster L,RTA Public Parking
+190,"What is the name of AOI located at address: JLT Cluster K, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",C,مدينة دبي للإنترنت,Ocean Blue,Vue de Lac K3,Sheikh Saoud Villas
+191,"What is the name of AOI located at address: تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",B,Pullman Deira City Centre,JLT Cluster J,Somali Masjid,DAMAC Executive Heights
+192,"What is the name of AOI located at address: Union National Bank, شارع الملك سلمان بن عبدالعزيز آل سعود, دبي مارينا, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,Union Cooperative Supermarket,Sky View Tower,Avari Building,Rainbow 8
+193,"What is the name of AOI located at address: شارع الفصول, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",B,Al Hatoon Tower,Al Hassani Tower,Sinbad's Kids Club,Dynatrade Regency
+194,"What is the name of AOI located at address: Lake Palace, شارع النهار 2, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",B,JLT Cluster N,Sheikha Noora Tower,Lootah building,ذا تيراسز
+195,"What is the name of AOI located at address: شارع الشيخ زايد, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",D,Amal Exchange الأمل للصرافة,Medlink Clinic,Green View 3,Mercure Dubai Barsha Heights
+196,"What is the name of AOI located at address: شارع الفصول, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",D,DIC Building 5 (IBM),Hyatt Regency,Green View 3,Grand Belle Vue
+197,"What is the name of AOI located at address: Good Day Market, شارع الفصول, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",B,Bin Shabib Mall,MiNC Apartments,Galadari Printing Press,Al Zafrana
+198,"What is the name of AOI located at address: Bluemart Supermarket, شارع النبط 1, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",D,JLT Cluster X,Al Meraikhi Tower,Number One Tower Suites,DAMAC Executive Heights
+199,"What is the name of AOI located at address: شارع الربيع 1, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",D,Dynatrade Regency,Emirates Identity Authority Center,DEWA,Al Noor Tower 1
+200,"What is the name of AOI located at address: Speed Way Supermarket, شارع الخريف 2, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",D,Dubai Bowling Centre,Sheikh Colony Building 6,Sheikh Colony Building 13,Al Saraya Apartments
+201,"What is the name of AOI located at address: شارع الربيع 2, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",D,Century Plaza,The Tower Plaza Hotel,Grand Midwest Express Hotel Apartments,Madison Residency
+202,"What is the name of AOI located at address: Lila Cafe, شارع الفصول, مدينة دبي للإعلام 2, الثنية 1, دبي, 6834, الإمارات العربية المتحدة?",C,Boutique 7,مسجد سلامة صالح بن لوتاه رمز 222,MCN Hive,3E
+203,"What is the name of AOI located at address: شارع الخريف 2, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",A,Green View 3,Arabian Ranches Colf Club,Oceana-The Palm Jumeirah,ستاد مكتوم بن راشد آل مكتوم
+204,"What is the name of AOI located at address: شارع عبدالله عمران تريم, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",B,Al Telal,Rose 6,Par 3 course and driving range,Nissan
+205,"What is the name of AOI located at address: شارع الخريف 2, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",A,Green View 2,Skyline Residence Tower,Ascott Park Place,Mercure Dubai Barsha Heights
+206,"What is the name of AOI located at address: شارع الخريف 1, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",A,Arabian Oryx House,IBIS Hotel Dubai Deira City Centre,المبنى ٢,Novotel Hotel
+207,"What is the name of AOI located at address: شارع الربيع 1, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",C,Sheikh Colony Building 14,Home to Home Hotel Apartments,Gulf Oasis Hotel Apartments,Chelsea Tower
+208,"What is the name of AOI located at address: Time Crystal Hotel Apartments, AB Plaza 6, شارع الخيل الأول, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",C,Dubai School for Secondary Education for Boys,Paid Parking 1,AB Plaza 6,وزارة المالية
+209,"What is the name of AOI located at address: شارع الخريف 2, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",D,S.S.Lootah Building,Babu home,Al Moosa Tower 2,Bin Fardan
+210,"What is the name of AOI located at address: شارع الخريف 1, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",D,Golden Tulip Media Hotel,Dubai Grand Hotel by Fortune,اينوك,Deema Residence
+211,"What is the name of AOI located at address: Costa, شارع الفصول, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",C,S.S.Lootah Building,ايبكو,Thuraya Tower,dxb Tower
+212,"What is the name of AOI located at address: ss6248, شارع الخريف 2, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",C,Paid Parking 1,Al Asmawi Building,Miknas Plaza,Sheikh Marwan Tower
+213,"What is the name of AOI located at address: Seven Stones, 15, شارع الربيع 2, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",D,Fairmont The Palm,Babu home,RTA Public Parking,Art XII
+214,"What is the name of AOI located at address: AB Plaza 6, شارع الخيل الأول, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",A,Time Crystal Hotel Apartments,Murjan 6,Dynatrade Regency,Aviation Club Tennis Centre
+215,"What is the name of AOI located at address: ss7271, شارع الخريف 2, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",D,Al Saraya Apartments,Ghubaiba Parking,سنشري مول,Green View Residence 1
+216,"What is the name of AOI located at address: Class Hotel Apartments, شارع الربيع 2, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",C,Dubai Gate 2,Crowne Plaza Dubai Jumeirah Hotel,Elegance House,مدرسة عمر بن الخطاب
+217,"What is the name of AOI located at address: Delegata, شارع الشيخ زايد, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",C,Al Jabri Tower B,Shatha Tower,The One Tower,JLT Cluster K
+218,"What is the name of AOI located at address: Millennium Place Barsha Heights, Service Road, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",A,DEWA,Babu home,Bin Shabib Mall,Dubai Shopping Centre
+219,"What is the name of AOI located at address: Wind West Home, ss13841, شارع الربيع 2, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",D,JLT Cluster F,Al Hatoon Tower,JLT Cluster O,Al Shahed Tower
+220,"What is the name of AOI located at address: مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",B,Al Satwa Park 3,Al Hatoon Tower,International Modern Hospital,منازل
+221,"What is the name of AOI located at address: شارع الربيع 1, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",B,Royal House Building,Al Asmawi Building,سكي دبي,JGC 3
+222,"What is the name of AOI located at address: شارع الخريف 1, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",A,The Belvedere Residences,Emaar Business Park 2,JLT Cluster V,Dubai Youth Hostel
+223,"What is the name of AOI located at address: شارع الربيع 1, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",D,Elegance House,South Ridge,Higher College of Technology (Girls),Crystal Blue Building
+224,"What is the name of AOI located at address: شارع الربيع 1, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",A,Al Mashael Building,Cedre Villas A-D,Al Nakheel 1,مدرسة الاتحاد الخاصة
+225,"What is the name of AOI located at address: شارع الربيع 1, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",B,JLT Cluster Q,National Bonds Plaza,Al Noor Tower 1,Address Montgomerie Hotel
+226,"What is the name of AOI located at address: Good fellas sport bar, شارع الخريف 2, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",B,مدرسة الصفا الثانوية,Ramee Rose Hotel,Iranian Hospital Dubai,Le Meridien Villas
+227,"What is the name of AOI located at address: شارع الربيع 1, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",A,Mohammed Sultan Belshalat Building,Emaar Business Park 1;مؤسسة البترول الوطنية الصينية,سوق السيارات دبي,مقر طيران الإمارات
+228,"What is the name of AOI located at address: شارع الربيع 1, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",B,Al Raffa Police Stn,Avari Building,Rainbow 7,ستاد مكتوم بن راشد آل مكتوم
+229,"What is the name of AOI located at address: Al Barsha Heights, Mashael Building 1, شارع النبط 1, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",C,Ocean Blue,برج بارك,Al Moosawi Oriental,The Lofts - Emaar
+230,"What is the name of AOI located at address: مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",B,Skycourts Towers,Vista Tower,IBIS Hotel Dubai Deira City Centre,Sheikh Colony Building 7
+231,"What is the name of AOI located at address: شارع الربيع 2, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",A,Golden Tulip Media Hotel,JLT Cluster V,Topaz Engineering,JGC 3
+232,"What is the name of AOI located at address: Dusit D2 Kenz Hotel, شارع الخريف 1, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",A,Silicon Plaza,National Refreshment Company,JLT Cluster B,DEWA
+233,"What is the name of AOI located at address: شارع الخريف 1, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",D,Dubai School for Secondary Education for Boys,Sheikh Colony Building 7,مقر طيران الإمارات,Boutique 7
+234,"What is the name of AOI located at address: شارع الربيع 1, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",C,Al Meraikhi Tower,Miknas Plaza,Saif Belhasa Building,Green View 2
+235,"What is the name of AOI located at address: Grand Heights Hotel Apartments, شارع الفصول, مدينة دبي للإعلام 2, الثنية 1, دبي, 502400, الإمارات العربية المتحدة?",A,Grand Heights Dubai Hotel Apartments,Hamdan Sports Complex,Jumeirah Center,Masjid Khadija Mosque
+236,"What is the name of AOI located at address: شارع الخريف 1, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",D,1,Modern Building Materials Trading,DSO Semmer Villas,Paradise Residence
+237,"What is the name of AOI located at address: One Time Laundry, شارع النبط 1, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",B,مسجد راشد عبدالله حمد الفطيم,Oasis Residence,فندق أمباسادور,Royal Ascot
+238,"What is the name of AOI located at address: 10, شارع الربيع 2, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",B,3E,Al Warsan Tower,JLT Cluster M,Paradise Residence
+239,"What is the name of AOI located at address: شارع السهول, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",B,The Belvedere Residences,Home to Home Hotel Apartments,Rainbow 2,Deema Residence
+240,"What is the name of AOI located at address: الروضة, الصفوح 2, دبي, الإمارات العربية المتحدة?",C,Thuraya Tower,Rainbow 7,Al Ghaf 1,One&Only The Palm
+241,"What is the name of AOI located at address: شارع 2, الروضة, الصفوح 2, دبي, الإمارات العربية المتحدة?",C,Jumeirah Mosque,"Seaview Hotel, Dubai",Al Nakheel 1,Union Cooperative Supermarket
+242,"What is the name of AOI located at address: La Gaufrette, شارع السيف 2, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",C,Al Hawai Tower,Zayed University - Knowledge Village Campus,Cayan Business Centre,sheikha latifa building
+243,"What is the name of AOI located at address: Kung Korean Restaurant & Karaoke, شارع الفصول, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",D,قناة القصبة,Oasis Residence,Fairmont North Residence,Social Hotel
+244,"What is the name of AOI located at address: شارع الملك سلمان بن عبدالعزيز آل سعود, Jumeirah Beach Residence, مرسى دبي, دبي, الإمارات العربية المتحدة?",B,Topaz Engineering,Murjan 6,Chelsea Tower,Injaz Building
+245,"What is the name of AOI located at address: Gallus, شارع الملك سلمان بن عبدالعزيز آل سعود, Jumeirah Beach Residence, مرسى دبي, دبي, الإمارات العربية المتحدة?",A,Murjan 5,Sheikh Colony Building 13,Dubai Airport Free Zone Authority Headquarters,Sheikh Colony Building 7
+246,"What is the name of AOI located at address: Xiao Wei Yang Hot Pot (Little Lamb), شارع الفالح, دبي مارينا, مرسى دبي, دبي, 57545, الإمارات العربية المتحدة?",C,المحكمةالعليا,Fairmont North Residence,The Royal Oceanic,Tower-B Rostamani
+247,"What is the name of AOI located at address: Capitol Tower, ss7738, شارع الربيع 2, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",A,Al Fahad,Antique Museum,Grand Midwest Express Hotel Apartments,Taste of Arabia
+248,"What is the name of AOI located at address: شارع عبدالله عمران تريم, مدينة دبي للإعلام 2, الثنية 1, دبي, 502400, الإمارات العربية المتحدة?",B,Mozna Building,Citadines Metro Central Dubai,South Ridge,Jumeirah Center
+249,"What is the name of AOI located at address: Fairmont The Palm, Palm Jumeirah Road, نخلة جميرا, دبي, الإمارات العربية المتحدة?",A,Fairmont North Residence,Al Futtaim Mosque,Address Montgomerie Hotel,Karama Medica Centre
+250,"What is the name of AOI located at address: Palm Jumeirah Road, نخلة جميرا, دبي, الإمارات العربية المتحدة?",A,Fairmont The Palm,ستاد مكتوم بن راشد آل مكتوم,مبنى 3,Jscom Tower
+251,"What is the name of AOI located at address: West Beach Palm Jumeirah, نخلة جميرا, دبي, الإمارات العربية المتحدة?",C,Gusais Housing Substation,Sheikh Colony Building 9,Oceana-The Palm Jumeirah,Taste of Arabia
+252,"What is the name of AOI located at address: Happiness Street, مدينة العرب, دبي, الإمارات العربية المتحدة?",C,مركز الخليج,Sheikh Colony Building 8,Paid Parking 1,شوبا العقارية
+253,"What is the name of AOI located at address: ديرة سيتي سنتر, شارع 27, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",C,DIC Building 5 (IBM),Al Tayer,Pullman Deira City Centre,Riviera Hotel
+254,"What is the name of AOI located at address: شارع الرشيد, ديرة, الممزر, دبي, الإمارات العربية المتحدة?",A,سنشري مول,Salman Farsi Iranian Boys School,Al Tayer Building,Bin Fardan
+255,"What is the name of AOI located at address: شارع الرشيد, ديرة, الممزر, دبي, الإمارات العربية المتحدة?",C,Emirates International School,Tower-A Rostamani,ستاد مكتوم بن راشد آل مكتوم,Al Futtaim Mosque
+256,"What is the name of AOI located at address: B-10, 91 Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة?",A,DSO Semmer Villas,Al Safa Art and Design Library,Social Hotel,International Modern Hospital
+257,"What is the name of AOI located at address: مطار محطة 02 الطريق., مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",B,Blue Tower (HHHR Tower),Dubai Airport Terminal 02 Car Parking,Social Hotel,JLT Cluster N
+258,"What is the name of AOI located at address: مطار محطة 02 الطريق., مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",B,Al Nabooda Automobiles,Dubai Airport Terminal 02 Car Parking,Central Park (City Walk),Rainbow 8
+259,"What is the name of AOI located at address: 1c شارع, ديرة, الممزر, دبي, الإمارات العربية المتحدة?",C,Al Rais Shoping Centre,اكويتي,Dubai School for Secondary Education for Boys,Grand Belle Vue
+260,"What is the name of AOI located at address: Al Ghawas, شارع الوحيدة, ديرة, الممزر, دبي, الإمارات العربية المتحدة?",B,Al Mareef Pvt. Schoo,Al Mamzar Lagoons,Al Safa Mosque,Apron F
+261,"What is the name of AOI located at address: شارع 46, ديرة, الممزر, دبي, الإمارات العربية المتحدة?",A,Islamic Affairs & Charitable Department,DAMAC Executive Heights,Ramee Rose Hotel,Rainbow 4
+262,"What is the name of AOI located at address: مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",C,Dubai Carmel School,Hobby Centre,AWZ International,مبنى 3
+263,"What is the name of AOI located at address: Rhs logistic dafza, شارع القدس, مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",D,General Authority of Sports,Macro Shipping Agency,dnata FreighGates,RHS Logistics
+264,"What is the name of AOI located at address: شارع القدس, مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",D,مدرسة عمر بن الخطاب,Al Mareef Pvt. Schoo,Al Qusais Health Centre,Dal Group
+265,"What is the name of AOI located at address: شارع القدس, مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",D,SS Lootah 2,Al Adab Iranian Private School For Boys,Dubai Creek Golf And Yacht Club Residences,Airbus
+266,"What is the name of AOI located at address: طريق المطار الداخلي, مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",D,Rainbow 8,JLT Cluster S,Al Zafrana,Dafza parking
+267,"What is the name of AOI located at address: جادة البادية, مجتمع رأس الخور الجديد, دبي فيستيفال سيتي, دبي, الإمارات العربية المتحدة?",A,Al Badia Golf Club,Dubai School for Secondary Education for Boys,وزارة المالية,مدرسة الصفا البريطانية
+268,"What is the name of AOI located at address: شارع الرياض, بر دبي, أم هرير, دبي, الإمارات العربية المتحدة?",A,Dubai Court,Grand Midwest Express Hotel Apartments,Private Paid Parking,Crescent English School
+269,"What is the name of AOI located at address: AxxonSoft, Off. 107, شارع دمشق, مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",B,Masjid Khadija Mosque,Shaikh Abdullah Al Mualla Building,16,Arabian Ranches Community Center
+270,"What is the name of AOI located at address: HSBC, طريق المطار الداخلي, مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",B,Nakheel Mall,Dubai Airport Free Zone Authority Building 1 West,16,Sheikh Colony Building 14
+271,"What is the name of AOI located at address: شارع 51, القرهود, دبي, الإمارات العربية المتحدة?",C,italco,Taste of Arabia,garhoud complex tennis court,مسجد الشيخ حمدان
+272,"What is the name of AOI located at address: Madinat Jumeirah, الصفوح 1, أم سقيم, دبي, الإمارات العربية المتحدة?",B,Fortune Grand Hotel Apartments,سوق مدينة جميرا,Bu Haleeba Building,Dal Group
+273,"What is the name of AOI located at address: Madinat Jumeirah, الصفوح 1, أم سقيم, دبي, الإمارات العربية المتحدة?",D,Emirates Driving Institute,Sheikh Colony Building 14,Lootah building,فندق مدينة جميرا ميناء السلام
+274,"What is the name of AOI located at address: شارع الجالي, أم سقيم 3, أم سقيم, دبي, الإمارات العربية المتحدة?",A,The Emirates Academy Of Hospitality Management,وزارة المالية,Saeed Tower - II,Union Cooperative Supermarket
+275,"What is the name of AOI located at address: شارع الشيخ زايد, الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",C,سكي دبي,JLT Cluster N,أكاديمية شرطة دبي,Miknas Plaza
+276,"What is the name of AOI located at address: شارع اليازي, أم سقيم 3, أم سقيم, دبي, الإمارات العربية المتحدة?",A,كينجز دبي,Jscom Tower,عيادة الصفا للأمراض الجلدية,Al Jabri Tower A
+277,"What is the name of AOI located at address: 43, شارع البغلة, أم سقيم 3, أم سقيم, دبي, الإمارات العربية المتحدة?",B,дом Эдика,مدرسة رافلز الدولية,AB Plaza,مدينة دبي للإنترنت
+278,"What is the name of AOI located at address: شارع المركب, أم سقيم 3, أم سقيم, دبي, الإمارات العربية المتحدة?",B,كلية دبي,رافلز وورلد أكاديمي,Number One Tower Suites,Ghubaiba Parking
+279,"What is the name of AOI located at address: Foodland Supermarket, شارع برج خليفة, الخليج التجاري, وسط مدينة دبي, الخليج التجاري, دبي, الإمارات العربية المتحدة?",B,Al Shahed Tower,Millenium Tower,Belhasa Driving Centre,Jumeirah Mosque
+280,"What is the name of AOI located at address: وسط مدينة دبي, دبي, الإمارات العربية المتحدة?",C,Emaar Business Park 3,JLT Cluster N,Standpoint Residences - Downtown - Emaar,Al Moosa Tower
+281,"What is the name of AOI located at address: Cycle Path, أم نهد 2/مدينة هند 2, دبي, الإمارات العربية المتحدة?",D,Gusais Housing Substation,Al Shaali Building,Habib Bank AG Zurich,Hamdan Sports Complex
+282,"What is the name of AOI located at address: شارع الشيخ زايد, البرشاء, مجتمع القوز, دبي, الإمارات العربية المتحدة?",B,Bu Haleeba Building,مول الإمارات,Hyatt Golf Park,Sahara Centre
+283,"What is the name of AOI located at address: شارع الشيخ زايد, القوز الصناعية 3, مجتمع القوز, دبي, الإمارات العربية المتحدة?",D,Pullman Deira City Centre,Emirates Post,Ocean Blue,اكويتي
+284,"What is the name of AOI located at address: شارع الشيخ زايد, القوز 3, مجتمع القوز, دبي, الإمارات العربية المتحدة?",C,Jumeirah Mosque,Rainbow 5,أون باسيف,Le Meridien Villas
+285,"What is the name of AOI located at address: شارع الشيخ زايد, الخليج التجاري, وسط مدينة دبي, دبي, الإمارات العربية المتحدة?",B,Bin Fardan,الخليج التجاري,Time Crystal Hotel Apartments,Four Points by Sheraton
+286,"What is the name of AOI located at address: شارع الشيخ زايد, مدينة دبي للإعلام 2, الثنية 1, دبي, الإمارات العربية المتحدة?",D,Belhasa Driving Centre,Karama Medica Centre,Ghubaiba Parking,مدينة دبي للإنترنت
+287,"What is the name of AOI located at address: الممزر, مدينة الشارقة, الشارقة, الإمارات العربية المتحدة?",D,Al Safa Mosque,дом Эдика,نادي الوصل الرياضي,قناة القصبة
+288,"What is the name of AOI located at address: شارع 2, القرهود, دبي, الإمارات العربية المتحدة?",C,Al Ghaf 1,Sheikh Marwan Tower,Aviation Club Tennis Centre,Golden Tower
+289,"What is the name of AOI located at address: شارع 2, ديرة, شارع 2, ديرة, دبي, الإمارات العربية المتحدة?",D,Union Cooperative Supermarket,Coopers National Paints,Bu Haleeba Building,Belhoul Speciality Hospital
+290,"What is the name of AOI located at address: شارع 2, ديرة, شارع 2, ديرة, دبي, الإمارات العربية المتحدة?",C,JGC 2,"Seaview Hotel, Dubai",مسجد راشد عبدالله حمد الفطيم,Grand Shopping Mall
+291,"What is the name of AOI located at address: 21b شارع, ديرة, أبو هيل, دبي, الإمارات العربية المتحدة?",C,Arabian Ranches Community Center,Fortune,Hamreya Park,JLT Cluster S
+292,"What is the name of AOI located at address: Naif electronics shops area, طريق المصلى, ديرة, نايف, ديرة, دبي, الإمارات العربية المتحدة?",C,Jumeirah Center,Lootah building,Naif Park,IKEA
+293,"What is the name of AOI located at address: 11 Street, تلال الإمارات, الثنية 4, دبي, الإمارات العربية المتحدة?",B,Dubai Airport Terminal 02 Car Parking,Address Montgomerie Hotel,Nadd Al Hamar Primary School,Mercure Dubai Barsha Heights
+294,"What is the name of AOI located at address: شارع 23, بر دبي, الرفاعة, دبي, الإمارات العربية المتحدة?",B,Latifa Tower,Meliã Hotel Dubai,Bin Shabib Mall,Town Centre Jumeirah
+295,"What is the name of AOI located at address: Studio asplusr AS+R Architects, Canal Walk, زعبيل, دبي, الإمارات العربية المتحدة?",D,وزارة المالية,Dubai Airport Terminal 02 Car Parking,Emaar Business Park 2,8
+296,"What is the name of AOI located at address: كارت جروب, 1B, حي دبي للتصميم, زعبيل, دبي, 122110, الإمارات العربية المتحدة?",D,ايبكو,Diamond,Town Centre Jumeirah,1
+297,"What is the name of AOI located at address: زعبيل, دبي, الإمارات العربية المتحدة?",C,Somali Masjid,Mercato Shopping Mall,2,Taste of Arabia
+298,"What is the name of AOI located at address: زعبيل, دبي, الإمارات العربية المتحدة?",D,Emirates Post,Al Zafrana,JLT Cluster H,3
+299,"What is the name of AOI located at address: شارع عود ميثاء, الجداف, دبي, الإمارات العربية المتحدة?",C,منطقة ممنوعة,Al Dar Star B,نادي الوصل الرياضي,حديقة النهدة
+300,"What is the name of AOI located at address: 9, Crescent Drive Street, مجتمع رأس الخور الجديد, دبي فيستيفال سيتي, دبي, الإمارات العربية المتحدة?",C,Crystal Blue Building,Al Nujoom Sports Facilities,Festival City Mall,Emaar Business Park 4
+301,"What is the name of AOI located at address: Festival City Mall, 9, Crescent Drive Street, مجتمع رأس الخور الجديد, دبي فيستيفال سيتي, دبي, الإمارات العربية المتحدة?",D,The Tower Plaza Hotel,DPG,Babu home,Festival Tower
+302,"What is the name of AOI located at address: D Street, واحة دبي للسيليكون, المدينة الدولية, دبي, الإمارات العربية المتحدة?",B,Arabian Ranches Golf Club,Cedre Villas A-D,Zayed University - Knowledge Village Campus,Par 3 course and driving range
+303,"What is the name of AOI located at address: Friends of Udupi, 1a شارع, جبل علي 1, دبي, الإمارات العربية المتحدة?",D,لؤلؤة دبي,وزارة المالية,Execujet Hangar,2
+304,"What is the name of AOI located at address: شارع الجمايل, جبل علي 1, دبي, الإمارات العربية المتحدة?",A,JGC 3,Pullman Deira City Centre,Al Zafrana,Alrahmah
+305,"What is the name of AOI located at address: شارع السرايات, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",D,Citadines Metro Central Dubai,مجمّع الذهب والألماس,قناة القصبة,District Cooling Plant
+306,"What is the name of AOI located at address: شارع الجمايل, جبل علي 1, دبي, الإمارات العربية المتحدة?",B,SS Lootah 2,JGC 2,Rainbow 7,Dubai Government Workshop
+307,"What is the name of AOI located at address: شارع تقاطع الحدائق, تلال الإمارات, جبل علي 1, دبي, الإمارات العربية المتحدة?",B,The Palace - Downtown Dubai,JGC 1,مبنى 1,BALAY
+308,"What is the name of AOI located at address: شارع 11, جميرا, دبي, الإمارات العربية المتحدة?",C,Al Mamzar Lagoons,شوبا العقارية,Jumeirah Mosque,Al Adab Iranian Private School For Boys
+309,"What is the name of AOI located at address: 12, شارع 1, الحدائق, جبل علي 1, دبي, الإمارات العربية المتحدة?",C,Jumeirah Beach Hotel,3,Grand Midwest Express Hotel Apartments,Ascott Park Place
+310,"What is the name of AOI located at address: 15, جادة المهرجان, مجتمع رأس الخور الجديد, دبي فيستيفال سيتي, دبي, الإمارات العربية المتحدة?",B,ستاد مكتوم بن راشد آل مكتوم,ACE Hardware,مسجد سلامة صالح بن لوتاه رمز 222,International Modern Hospital
+311,"What is the name of AOI located at address: جادة المهرجان, مجتمع رأس الخور الجديد, دبي فيستيفال سيتي, دبي, الإمارات العربية المتحدة?",D,مستشفى دبي,Dubai Gate 2,Al Raya Girl's School,IKEA
+312,"What is the name of AOI located at address: سوق الفواكه والخضروات, شارع الشيخ محمد بن زايد, مجتمع رأس الخور الجديد, رأس الخور الصناعية 3, دبي, الإمارات العربية المتحدة?",C,Dell Technologies,JLT Cluster Q,Fruits & Vegetable Market,Al Jabri Tower B
+313,"What is the name of AOI located at address: 10b شارع, جميرا, دبي, الإمارات العربية المتحدة?",D,Al Telal,حديقة الوصل,Beach Centre,Spinneys
+314,"What is the name of AOI located at address: شارع شاطئ الممزر, الممزر, دبي, الإمارات العربية المتحدة?",A,منطقة ممنوعة,South Ridge,JGC 3,Jumeirah Beach Hotel
+315,"What is the name of AOI located at address: 6 Street, مجتمع رأس الخور الجديد, رأس الخور الصناعية 3, دبي, الإمارات العربية المتحدة?",A,سوق السيارات دبي,مسجد فاطمة حسن محمد يوسف بستكي,JLT Cluster Y,Tower-A Rostamani
+316,"What is the name of AOI located at address: شارع المنامة, ند الشبا, ند الشبا 3, دبي, الإمارات العربية المتحدة?",B,35,اينوك,Sheikh Colony Building 6,Jumeirah Lakes Towers Park
+317,"What is the name of AOI located at address: شارع 5, ند الحمر, دبي, الإمارات العربية المتحدة?",D,Jumeirah Mosque,Al Moosa Tower 2,Standpoint Residences - Downtown - Emaar,Belhasa Driving Centre
+318,"What is the name of AOI located at address: 10c شارع, ند الحمر, دبي, الإمارات العربية المتحدة?",D,Skyline Residence Tower,Future Star BMT LLC,Al Tayer Building,Nadd Al Hamar Primary School
+319,"What is the name of AOI located at address: شارع 28, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",D,Dubai Grand Hotel by Fortune,Execujet Hangar,Pepsi Co.,Novotel Hotel
+320,"What is the name of AOI located at address: شارع 28, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",B,Millenium Executive Tower,IBIS Hotel Dubai Deira City Centre,дом Эдика,Emarat
+321,"What is the name of AOI located at address: Galadari, شارع 28, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",C,Sheikh Colony Building 6,Oceana-The Palm Jumeirah,Dubai Shopping Centre,Al Asmawi Building
+322,"What is the name of AOI located at address: شارع 27, ديرة, بور سعيد, دبي, الإمارات العربية المتحدة?",C,Al Shoroq Private School,JLT Cluster G,مسجد الشيخ حمدان,المبنى ٢
+323,"What is the name of AOI located at address: شارع الشيخ محمد بن زايد, ورسان 4, دبي, الإمارات العربية المتحدة?",D,Fairmont The Palm,Mozna Building,Avari Building,Dubai Police Plant
+324,"What is the name of AOI located at address: ديرة, رقة البطين, دبي, الإمارات العربية المتحدة?",A,Al Gurg Tower 1,Elegance House,JGC 1,Aviation Club Tennis Centre
+325,"What is the name of AOI located at address: M2, شارع الشيخ راشد, القرهود, دبي, 8845, الإمارات العربية المتحدة?",D,Block 8,The Belvedere Residences,منطقة ممنوعة,SNTTA Emir Tours
+326,"What is the name of AOI located at address: 13c شارع, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",D,JLT Cluster R,AWZ International,White Swan,Al Raffa Police Stn
+327,"What is the name of AOI located at address: شارع السهل, تلال الإمارات, أبراج بحيرات الجميرا, دبي, 502227, الإمارات العربية المتحدة?",C,Bu Haleeba Building,дом Эдика,The Palladium,Union Cooperative Supermarket
+328,"What is the name of AOI located at address: Kilby Cafe, 1b شارع, الحدائق, جبل علي 1, دبي, الإمارات العربية المتحدة?",A,15,Crystal Blue Building,Home to Home Hotel Apartments,Sinbad's Kids Club
+329,"What is the name of AOI located at address: Flavors Hypermarket, 1b شارع, الحدائق, جبل علي 1, دبي, الإمارات العربية المتحدة?",A,16,Shatha Tower,Zayed University - Knowledge Village Campus,Al Safa Mosque
+330,"What is the name of AOI located at address: شارع 2أ, جبل علي 1, دبي, الإمارات العربية المتحدة?",C,Hamreya Park,The Lofts - Emaar,35,Mosque
+331,"What is the name of AOI located at address: شارع 2, جبل علي 1, دبي, الإمارات العربية المتحدة?",A,34,Thuraya Tower,The One Tower,Islamic Affairs & Charitable Department
+332,"What is the name of AOI located at address: Streaks Mens Saloon, شارع 9, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة?",B,Al Tayer Building,дом Эдика,نادي الوصل الرياضي,JLT Cluster E
+333,"What is the name of AOI located at address: شارع 15, مجمع مسكن دبي, وادي الصفا 5, دبي, الإمارات العربية المتحدة?",D,Galadari Printing Press,Al Satwa Park 3,sheikha latifa building,Abidos Appartment Hotel
+334,"What is the name of AOI located at address: شارع 9, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة?",A,Canary Building,فندق العنوان داون تاون,Madison Residency,Rainbow 6
+335,"What is the name of AOI located at address: شارع الوصل, البدع, دبي, الإمارات العربية المتحدة?",D,Taste of Arabia,Festival City Mall,New Al Safiya,Jumeirah Baccalaureate School
+336,"What is the name of AOI located at address: 8a شارع, جميرا, دبي, الإمارات العربية المتحدة?",B,Sheikh Colony Building 9,Dubai Zoo,Novotel Hotel,برج بارك
+337,"What is the name of AOI located at address: وسط مدينة دبي, دبي, الإمارات العربية المتحدة?",C,Villa Rotana,Block 12,South Ridge,Emirates Post
+338,"What is the name of AOI located at address: 6c شارع, البدع, دبي, الإمارات العربية المتحدة?",B,ديرة سيتي سنتر,حديقة الوصل,فندق مدينة جميرا ميناء السلام,The Belvedere Residences
+339,"What is the name of AOI located at address: 34a شارع, السطوة, دبي, الإمارات العربية المتحدة?",D,Dubai Municipality,Jumeirah Baccalaureate School,Emaar Business Park 3,Al Satwa Park 3
+340,"What is the name of AOI located at address: سيتي ووك, الوصل, دبي, الإمارات العربية المتحدة?",D,BALAY,Al Kharbash Tower,Dubai Zoo,Central Park (City Walk)
+341,"What is the name of AOI located at address: 77b شارع, جميرا, دبي, الإمارات العربية المتحدة?",D,Tower-B Rostamani,مدرسة الصفا الثانوية,Medlink Clinic,Al Shoroq Private School
+342,"What is the name of AOI located at address: 10c شارع, جميرا, دبي, الإمارات العربية المتحدة?",A,Century Plaza,حديقة أم سقيم,C&B site office,Nakheel Mall
+343,"What is the name of AOI located at address: 10c شارع, جميرا, دبي, الإمارات العربية المتحدة?",C,Emirates Grand Hotel Apartments,مسجد السطوة,Jumeirah Plaza,مدرسة الاتحاد الخاصة
+344,"What is the name of AOI located at address: شارع جميرا, جميرا, دبي, الإمارات العربية المتحدة?",D,Al Gurg Building,дом Эдика,Al Bakhit Centre,Jumeirah Center
+345,"What is the name of AOI located at address: 31a شارع, جميرا, دبي, الإمارات العربية المتحدة?",D,Al Bustan Center & Residence,Hobby Centre,Tanzanite,Medlink Clinic
+346,"What is the name of AOI located at address: شارع الوصل, جميرا, دبي, الإمارات العربية المتحدة?",B,Somali Masjid,Iranian Hospital Dubai,Elegance House,Lulu Hypermarket
+347,"What is the name of AOI located at address: جميرا, دبي, الإمارات العربية المتحدة?",B,Al Nakheel 1,Garden Villas,Citadines Metro Central Dubai,Tower-B Rostamani
+348,"What is the name of AOI located at address: جميرا, دبي, الإمارات العربية المتحدة?",D,Hamreya Park,Damas Gold Refinery,Chelsea Tower,ذا تيراسز
+349,"What is the name of AOI located at address: 6b شارع, الوصل, دبي, الإمارات العربية المتحدة?",D,برج العرب جميرا,مسجد الشيخ حمدان,Private Parking,Al Raya Girl's School
+350,"What is the name of AOI located at address: Klaster Language and Communication Hub, الصفا, دبي, الإمارات العربية المتحدة?",A,Al Safa Art and Design Library,1,Nissan,District Cooling Plant
+351,"What is the name of AOI located at address: شارع الاثار, جميرا 3, جميرا, دبي, الإمارات العربية المتحدة?",D,Citadines Metro Central Dubai,AWZ International,Rose 6,Al Safa Mosque
+352,"What is the name of AOI located at address: شارع الطراد, جميرا 3, جميرا, دبي, الإمارات العربية المتحدة?",C,ديرة سيتي سنتر,Dubai Airport Free Zone Authority Building 1 West,Union Cooperative Supermarket,Elegance House
+353,"What is the name of AOI located at address: شارع الطراد, جميرا 3, جميرا, دبي, الإمارات العربية المتحدة?",D,34,مسجد دبي الكبير,Al Nujoom Sports Facilities,Choithram's Supermarket
+354,"What is the name of AOI located at address: 30b شارع, الوصل, دبي, الإمارات العربية المتحدة?",B,Pullman Deira City Centre,مدرسة الصفا الثانوية,Nadd Al Hamar Primary School,Lootah building
+355,"What is the name of AOI located at address: 40a شارع, الوصل, دبي, الإمارات العربية المتحدة?",C,Dubai Youth Hostel,Ocean Blue,المدرسة اليابانية في دبي,dnata FreighGates
+356,"What is the name of AOI located at address: شارع 7, الصفا, دبي, الإمارات العربية المتحدة?",B,Al Mashael Building,مدرسة جميرا الإنكليزية,Dubai School for Secondary Education for Boys,Arabian Ranches Colf Club
+357,"What is the name of AOI located at address: 12a شارع, الصفا 1, الصفا, دبي, الإمارات العربية المتحدة?",D,Dubai Grand Hotel by Fortune,Jumeirah Mosque,Al Shaali Building,مدرسة الاتحاد الخاصة
+358,"What is the name of AOI located at address: 14a شارع, الصفا 1, الصفا, دبي, الإمارات العربية المتحدة?",D,New Al Safiya,Concourse A,Al Noor Tower 1,مدرسة الصفا البريطانية
+359,"What is the name of AOI located at address: شارع 12أ, أم الشيف, دبي, P.O. Box 6446, الإمارات العربية المتحدة?",A,Emirates International School,Sheikh Colony Building 16,Sheikh Colony Building 5,Al Nakheel 1
+360,"What is the name of AOI located at address: شارع الملك سلمان بن عبدالعزيز آل سعود, الصفوح 2, دبي, الإمارات العربية المتحدة?",A,كلية دبي,Choithram's Supermarket,شوبا العقارية,Jumeirah Lakes Towers Park
+361,"What is the name of AOI located at address: الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",B,Media One Tower,Sheikh Saoud Villas,Al Meraikhi Tower,Saeed Tower - II
+362,"What is the name of AOI located at address: الصفوح, قرية المعرفة, دبي, الإمارات العربية المتحدة?",D,Miknas Plaza,مقبرة الرقة,Sheikh Colony Building 15,لؤلؤة دبي
+363,"What is the name of AOI located at address: 12d شارع, جميرا, دبي, الإمارات العربية المتحدة?",A,Beach Centre,The Lofts - Emaar,الخليج التجاري,National Refreshment Company
+364,"What is the name of AOI located at address: Centre for Musical Arts, شارع 4, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة?",A,مجمّع الذهب والألماس,JLT Cluster F,Injaz Building,Iranian Hospital Dubai
+365,"What is the name of AOI located at address: طريق المطار, مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",D,تلال الإمارات,JLT Cluster V,Sheikh Colony Building 9,Concourse A
+366,"What is the name of AOI located at address: The Travel Market LLC, شارع المرقبات, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",D,Hyatt Regency,Sahara Centre,قناة القصبة,Bu Haleeba Building
+367,"What is the name of AOI located at address: 38, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",A,Blue Tower (HHHR Tower),JLT Cluster E,مسجد سلامة صالح بن لوتاه رمز 222,Sheikh Colony Building 10
+368,"What is the name of AOI located at address: شارع الشيخ زايد, الخليج التجاري, وسط مدينة دبي, دبي, الإمارات العربية المتحدة?",B,DPG,JW Marriott Marquis Hotel,Dubai Grand Hotel by Fortune,Alrahmah
+369,"What is the name of AOI located at address: الجداف, دبي, الإمارات العربية المتحدة?",D,Al Safa Tower,Al Mashael Building,Al Zafrana,Dubai Government Workshop
+370,"What is the name of AOI located at address: طريق الاتحاد, بر دبي, أم هرير, دبي, الإمارات العربية المتحدة?",B,Fruits & Vegetable Market,المحكمةالعليا,Rainbow 4,Sheikh Colony Building 2
+371,"What is the name of AOI located at address: Flex Gym, 44c شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",C,Emaar Business Park 1;مؤسسة البترول الوطنية الصينية,Amal Exchange الأمل للصرافة,New Al Safiya,Dubai School for Secondary Education for Boys
+372,"What is the name of AOI located at address: شارع 20, البرشاء شمال, البرشاء 3, دبي, الإمارات العربية المتحدة?",D,Holiday Inn Express Dubai Internet City,فندق أمباسادور,الحديقة المائية وايلد وادي,Emirates Identity Authority Center
+373,"What is the name of AOI located at address: شارع النهضة (26), بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",B,Hotel Vasantha Bhavan,فندق أمباسادور,Emirates Engineering Department,valley key
+374,"What is the name of AOI located at address: شارع الرفاع, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",C,العنوان - دبي مول,Dubai National School,Private Paid Parking,JLT Cluster T
+375,"What is the name of AOI located at address: 21a شارع, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",C,مسجد سلامة صالح بن لوتاه رمز 222,Miknas Plaza,مسجد فاطمة حسن محمد يوسف بستكي,مسجد السطوة
+376,"What is the name of AOI located at address: شارع النهضة (26), بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",B,Dubai Airport Terminal 02 Car Parking,Hotel Vasantha Bhavan,JLT Cluster R,Laguna Tower
+377,"What is the name of AOI located at address: Grand Hypermarket, شارع لطيفة بنت حمدان, القوز الصناعية 1, مجتمع القوز, دبي, الإمارات العربية المتحدة?",D,Savoy Central Hotel Apartments,Vue de Lac K3,Bu Haleeba Building,Grand Shopping Mall
+378,"What is the name of AOI located at address: Kunooz 10 Street, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة?",D,Emarat,garhoud complex tennis court,DPG,Nissan
+379,"What is the name of AOI located at address: 4a شارع, Al Quoz Industrial Area, مجتمع القوز, دبي, الإمارات العربية المتحدة?",D,Sheikh Colony Building 6,Thuraya Tower,Al Shahed Tower,Al Nabooda Automobiles
+380,"What is the name of AOI located at address: Khaleej Times, شارع لطيفة بنت حمدان, القوز الصناعية 1, مجتمع القوز, دبي, الإمارات العربية المتحدة?",A,Galadari Printing Press,Ramee Rose Hotel,عيادة الصفا للأمراض الجلدية,Emirates Towers W
+381,"What is the name of AOI located at address: Abcom solutions, شارع الرولة, بر دبي, الرفاعة, دبي, الإمارات العربية المتحدة?",D,اينوك,JLT Cluster X,سكي دبي,مركز الخليج
+382,"What is the name of AOI located at address: المركز التجاري العالمي, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",B,Madison Residency,محطة المركز التجاري العالمي,Panorma Grand Hotel,Dubai Chamber
+383,"What is the name of AOI located at address: شارع الانجاز, الوصل, دبي, الإمارات العربية المتحدة?",B,Apron F,Emirates Post,Meliã Hotel Dubai,Fort Island
+384,"What is the name of AOI located at address: شارع الشيخ زايد, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",C,Mozna Building,ذا تيراسز,شوبا العقارية,مدرسة الصفا البريطانية
+385,"What is the name of AOI located at address: شارع الشيخ زايد, تلال الإمارات, أبراج بحيرات الجميرا, دبي, الإمارات العربية المتحدة?",C,JLT Cluster O,Crown Plaza Public Parking,مركز دبي للسلع المتعددة,برج العرب جميرا
+386,"What is the name of AOI located at address: شارع الشيخ صباح الأحمد الجابر الصباح, بر دبي, الحمرية, دبي, الإمارات العربية المتحدة?",B,مدرسة الصفا البريطانية,Emarat,Avari Building,Arabian Oryx House
+387,"What is the name of AOI located at address: شارع الرولة, بر دبي, الرفاعة, دبي, الإمارات العربية المتحدة?",D,Al Mulla Warehouse,JLT Cluster O,مدرسة الاتحاد الخاصة,Savoy Central Hotel Apartments
+388,"What is the name of AOI located at address: 3a شارع, القوز, القوز 1, دبي, الإمارات العربية المتحدة?",A,Dubai Bowling Centre,سكي دبي,ايبكو,أكاديمية شرطة دبي
+389,"What is the name of AOI located at address: طريق خالد بن الوليد, بر دبي, الرفاعة, دبي, الإمارات العربية المتحدة?",B,Dubai Gate 2,Panorma Grand Hotel,Dafza parking,كينجز دبي
+390,"What is the name of AOI located at address: Nahda park jogging track, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة?",A,حديقة النهدة,Savoy Central Hotel Apartments,Dafza parking,JLT Cluster R
+391,"What is the name of AOI located at address: شارع 1, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة?",A,Masjid Khadija Mosque,Sheikh Colony Building 16,Macro Shipping Agency,كينجز دبي
+392,"What is the name of AOI located at address: شارع 38, القصيص, دبي, الإمارات العربية المتحدة?",B,Elegance House,Babu home,Dubai Airport Terminal 02 Car Parking,New Al Safiya
+393,"What is the name of AOI located at address: 38c شارع, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",B,Vue de Lac K3,مدرسة عمر بن الخطاب,Rainbow 8,Dubai Customs head office
+394,"What is the name of AOI located at address: 6829, طريق صلاح الدين, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",A,مسجد سلامة صالح بن لوتاه رمز 222,Al Hawai Twin Towers,Abidos Appartment Hotel,Savoy Central Hotel Apartments
+395,"What is the name of AOI located at address: شارع 14, القصيص, دبي, الإمارات العربية المتحدة?",D,Jumeirah Beach Hotel,Address Montgomerie Hotel,Grand Shopping Mall,Al Bustan Center & Residence
+396,"What is the name of AOI located at address: القصيص, دبي, الإمارات العربية المتحدة?",C,Sheikh Colony Building 8,2,Gusais Housing Substation,مركز الخليج
+397,"What is the name of AOI located at address: القصيص, دبي, الإمارات العربية المتحدة?",B,Dubai Gate 2,Sheikh Colony Building 3,Sheikh Colony Building 10,Al Shoroq Private School
+398,"What is the name of AOI located at address: القصيص, دبي, الإمارات العربية المتحدة?",B,International Modern Hospital,Sheikh Colony Building 1,Grand Shopping Mall,Dafza parking
+399,"What is the name of AOI located at address: In king, شارع النهدة, القصيص 2, القصيص, دبي, الإمارات العربية المتحدة?",D,Sheikh Colony Building 1,JLT Cluster H,Al Adab Iranian Private School For Boys,Sheikh Colony Building A
+400,"What is the name of AOI located at address: القصيص, دبي, الإمارات العربية المتحدة?",D,The One Tower,Al Dar Star B,مجمّع الذهب والألماس,Sheikh Colony Building D
+401,"What is the name of AOI located at address: القصيص, دبي, الإمارات العربية المتحدة?",C,Al Mulla Warehouse,Dubai Chamber,Sheikh Colony Building 2,The One Tower
+402,"What is the name of AOI located at address: القصيص, دبي, الإمارات العربية المتحدة?",D,Avari Building,Emarat,JLT Cluster L,Sheikh Colony Building 10
+403,"What is the name of AOI located at address: القصيص, دبي, الإمارات العربية المتحدة?",D,Golden Tower,برج بارك,نادي الوصل الرياضي,Sheikh Colony Building 11
+404,"What is the name of AOI located at address: القصيص, دبي, الإمارات العربية المتحدة?",D,National Bonds Plaza,Union Cooperative Supermarket,Fortune,Sheikh Colony Building 12
+405,"What is the name of AOI located at address: القصيص, دبي, الإمارات العربية المتحدة?",C,Al Adab Iranian Private School For Boys,DIC Building 5 (IBM),Sheikh Colony Building 13,Execujet Hangar
+406,"What is the name of AOI located at address: القصيص, دبي, الإمارات العربية المتحدة?",B,Latifa Tower,Sheikh Colony Building 14,كلية دبي,Media One Tower
+407,"What is the name of AOI located at address: القصيص, دبي, الإمارات العربية المتحدة?",B,Boutique 7,Sheikh Colony Building 15,S.S.Lootah Building,Cayan Business Centre
+408,"What is the name of AOI located at address: القصيص, دبي, الإمارات العربية المتحدة?",D,Al Moosa Tower 2,Hyatt Golf Park,Al Shaali Building,Sheikh Colony Building 16
+409,"What is the name of AOI located at address: القصيص, دبي, الإمارات العربية المتحدة?",B,Naif Park,Sheikh Colony Building 4,Sinbad's Kids Club,JLT Cluster L
+410,"What is the name of AOI located at address: القصيص, دبي, الإمارات العربية المتحدة?",B,Hyatt Golf Park,Sheikh Colony Building 5,Vue de Lac K3,italco
+411,"What is the name of AOI located at address: القصيص, دبي, الإمارات العربية المتحدة?",B,Sheikh Colony Building 13,Sheikh Colony Building 6,Citadines Metro Central Dubai,Emirates Towers SE
+412,"What is the name of AOI located at address: القصيص, دبي, الإمارات العربية المتحدة?",A,Sheikh Colony Building 7,The Lofts - Emaar,Dubai Carmel School,Al Nujoom Sports Facilities
+413,"What is the name of AOI located at address: شارع 38, القصيص, دبي, الإمارات العربية المتحدة?",D,Dubai National School,Nissan,DNATA,Sheikh Colony Building 8
+414,"What is the name of AOI located at address: القصيص, دبي, الإمارات العربية المتحدة?",A,Sheikh Colony Building 9,ذا ويستن,JLT Cluster A,Standpoint Residences - Downtown - Emaar
+415,"What is the name of AOI located at address: شارع بغداد, القصيص, دبي, الإمارات العربية المتحدة?",D,Address Montgomerie Hotel,Belhoul Speciality Hospital,Union Cooperative Society Hypermarket,Capital School
+416,"What is the name of AOI located at address: شارع 6, القصيص, دبي, الإمارات العربية المتحدة?",B,JW Marriott Marquis Hotel,Al Mareef Pvt. Schoo,Social Hotel,Al Jabri Tower A
+417,"What is the name of AOI located at address: شارع 13, القصيص, دبي, الإمارات العربية المتحدة?",D,Al Shoroq Private School,Vista Tower,Panorma Grand Hotel,Crescent English School
+418,"What is the name of AOI located at address: شارع 5, القصيص, دبي, الإمارات العربية المتحدة?",D,Novotel Hotel,Diamond,Sheikh Colony Building 4,Dubai Scholars School
+419,"What is the name of AOI located at address: شارع 6, القصيص, دبي, الإمارات العربية المتحدة?",A,American International School,MCN Hive,JLT Cluster X,Sun & Sands Downtown Hotel
+420,"What is the name of AOI located at address: شارع 13, القصيص, دبي, الإمارات العربية المتحدة?",C,Dubai Airport Free Zone Authority Headquarters,35,Dubai National School,Hotel Vasantha Bhavan
+421,"What is the name of AOI located at address: شارع بغداد, القصيص, دبي, الإمارات العربية المتحدة?",C,مسجد الشيخ حمدان,Naif Park,The Millenium School,Sheikh Colony Building 15
+422,"What is the name of AOI located at address: شارع 14, القصيص, دبي, الإمارات العربية المتحدة?",A,Al Adab Iranian Private School For Boys,16,سكي دبي,مدينة دبي للإنترنت
+423,"What is the name of AOI located at address: شارع بغداد, القصيص, دبي, الإمارات العربية المتحدة?",C,Al Badia Golf Club,Al Moosa Tower,His Highness Sheikh Rashi Al Maktoum Pakistan School,Hamreya Park
+424,"What is the name of AOI located at address: 31, 3b شارع, القصيص, دبي, الإمارات العربية المتحدة?",B,Dubai Carmel School,Al Dar Star A,Hyatt Regency,South Ridge
+425,"What is the name of AOI located at address: شارع 9, القصيص, دبي, الإمارات العربية المتحدة?",D,منازل,Le Meridien Villas,Sheikh Colony Building 10,Al Dar Star B
+426,"What is the name of AOI located at address: 34, شارع 38, القصيص, دبي, الإمارات العربية المتحدة?",D,فندق العنوان داون تاون,Festival Tower,Green View 2,Al Telal
+427,"What is the name of AOI located at address: 12, 32a شارع, القصيص, دبي, الإمارات العربية المتحدة?",A,Qusais Manzil,Four Points by Sheraton,Miknas Plaza,Crystal Blue Building
+428,"What is the name of AOI located at address: شارع 15, القصيص, دبي, الإمارات العربية المتحدة?",C,"Seaview Hotel, Dubai",مبنى 3,Al Jabri Tower A,Mercure Dubai Barsha Heights
+429,"What is the name of AOI located at address: 30a شارع, القصيص, دبي, الإمارات العربية المتحدة?",B,DIC Building 5 (IBM),Al Jabri Tower B,Laguna Tower,DNATA
+430,"What is the name of AOI located at address: 3, 26c شارع, القصيص, دبي, الإمارات العربية المتحدة?",B,AB Plaza 6,Dynatrade Regency,Dubai Duty Free Warehouse,Al Moosa Tower 2
+431,"What is the name of AOI located at address: 39, 26c شارع, القصيص, دبي, الإمارات العربية المتحدة?",A,Rainbow 8,Concourse A,Emirates Towers,Four Points by Sheraton
+432,"What is the name of AOI located at address: 35, 26c شارع, القصيص, دبي, الإمارات العربية المتحدة?",D,Emirates Engineering Department,DIC Building 4 (Mastercard Building),Emirates Driving Institute,Rainbow 6
+433,"What is the name of AOI located at address: 11b شارع, القصيص, دبي, الإمارات العربية المتحدة?",C,عيادة ميكريس لطب الأسنان,His Highness Sheikh Rashi Al Maktoum Pakistan School,Rainbow 2,Sky View Tower
+434,"What is the name of AOI located at address: 37, 26c شارع, القصيص, دبي, الإمارات العربية المتحدة?",C,Future Star BMT LLC,District Cooling Plant,Rainbow 7,مركز دبي للسلع المتعددة
+435,"What is the name of AOI located at address: 11b شارع, القصيص, دبي, الإمارات العربية المتحدة?",A,Rainbow 3,مسجد دبي الكبير,sheikha latifa building,The Tower Plaza Hotel
+436,"What is the name of AOI located at address: 11b شارع, القصيص, دبي, الإمارات العربية المتحدة?",D,Thomson Reuters,AB Plaza 6,اكويتي,Rainbow 1
+437,"What is the name of AOI located at address: Freddy's, شارع دمشق, القصيص 2, القصيص, دبي, الإمارات العربية المتحدة?",B,Al Kazim Building,Dubai Grand Hotel by Fortune,Amsa Building,Al Gurg Tower 1
+438,"What is the name of AOI located at address: 3, 26c شارع, القصيص, دبي, الإمارات العربية المتحدة?",C,International Modern Hospital,أون باسيف,Dynatrade Regency,حديقة النهدة
+439,"What is the name of AOI located at address: 33, 26c شارع, القصيص, دبي, الإمارات العربية المتحدة?",B,Rainbow 2,Rainbow 5,Avari Building,Dubai Creek Golf And Yacht Club Residences
+440,"What is the name of AOI located at address: 28a شارع, القصيص, دبي, الإمارات العربية المتحدة?",B,كينجز دبي,Rainbow 4,Sheikh Colony Building D,Emaar Business Park 2
+441,"What is the name of AOI located at address: Food Court, شارع النهدة, القصيص, دبي, الإمارات العربية المتحدة?",D,Royal House Building,أون باسيف,Sahara Tower,General Authority of Sports
+442,"What is the name of AOI located at address: شارع 10, القصيص, دبي, الإمارات العربية المتحدة?",C,Oasis Residence,Al Mareef Pvt. Schoo,Salman Farsi Iranian Boys School,Sahara Tower
+443,"What is the name of AOI located at address: شارع بغداد, القصيص, دبي, الإمارات العربية المتحدة?",D,مقبرة الرفاعة,Desert Rose Hotel Apartments,حديقة الصفا 2,Higher College of Technology (Girls)
+444,"What is the name of AOI located at address: 59, 19c شارع, القصيص, دبي, الإمارات العربية المتحدة?",C,ذا تيراسز,Al Jabri Tower B,SS Lootah 2,Sheikha Noora Tower
+445,"What is the name of AOI located at address: 19c شارع, القصيص, دبي, الإمارات العربية المتحدة?",B,Dynatrade Regency,BALAY,نادي الوصل الرياضي,Islamic Affairs & Charitable Department
+446,"What is the name of AOI located at address: Union National Bank, 26a شارع, القصيص, دبي, الإمارات العربية المتحدة?",B,Aviation Club Tennis Centre,valley key,فندق مدينة جميرا ميناء السلام,Nissan
+447,"What is the name of AOI located at address: القصيص, دبي, الإمارات العربية المتحدة?",B,MCN Hive,Golden Tower,مستشفى دبي,مدرسة الاتحاد الخاصة
+448,"What is the name of AOI located at address: شارع الخور, ديرة, الضغاية, دبي, الإمارات العربية المتحدة?",C,Apple International School,Al Asmawi Building,Gold Land,National Refreshment Company
+449,"What is the name of AOI located at address: 16b شارع, بر دبي, السوق الكبير, دبي, الإمارات العربية المتحدة?",D,مركز دبي للسلع المتعددة,SNTTA Emir Tours,وزارة المالية,City Centre Al Shindagha
+450,"What is the name of AOI located at address: شارع دمشق, القصيص 2, القصيص, دبي, الإمارات العربية المتحدة?",C,Al Satwa Park 3,JLT Cluster R,Apple International School,Crowne Plaza Dubai Jumeirah Hotel
+451,"What is the name of AOI located at address: 3b شارع, القصيص, دبي, الإمارات العربية المتحدة?",A,Al Qusais Health Centre,حديقة الخزّان,مدرسة الصفا الثانوية,Al Kazim Building
+452,"What is the name of AOI located at address: 21b شارع, القصيص, دبي, الإمارات العربية المتحدة?",B,Social Hotel,Al Masal,Jumeirah Beach Hotel,IKEA
+453,"What is the name of AOI located at address: شارع 13, القصيص, دبي, الإمارات العربية المتحدة?",D,Alrahmah,Thuraya Tower,أون باسيف,Jscom Tower
+454,"What is the name of AOI located at address: Triumph Tourism & Travel LLC, 321, شارع النهدة, القصيص, دبي, الإمارات العربية المتحدة?",B,Gold Land,Mozna Building,дом Эдика,Sheikh Colony Building 11
+455,"What is the name of AOI located at address: 16a شارع, القصيص الصناعية 1, القصيص الصناعية, دبي, الإمارات العربية المتحدة?",D,Al Telal,Bin Shabib Mall,Crescent English School,Al Mulla Warehouse
+456,"What is the name of AOI located at address: 16a شارع, القصيص الصناعية 1, القصيص الصناعية, دبي, الإمارات العربية المتحدة?",D,JLT Cluster D,Ascott Park Place,Al Mareef Pvt. Schoo,Macro Shipping Agency
+457,"What is the name of AOI located at address: شارع بغداد, القصيص 2, القصيص, دبي, الإمارات العربية المتحدة?",C,Al Jabri Tower B,dxb Tower,Bin Shabib Mall,DAMAC Executive Heights
+458,"What is the name of AOI located at address: شارع 5, القصيص الصناعية 1, القصيص الصناعية, دبي, الإمارات العربية المتحدة?",D,Dubai Carmel School,Al Hawai Tower,JLT Cluster L,Al Nujoom Sports Facilities
+459,"What is the name of AOI located at address: 16a شارع, القصيص الصناعية 1, القصيص الصناعية, دبي, الإمارات العربية المتحدة?",C,Galadari Printing Press,Dubai Youth Hostel,Alrahmah,Dubai Bowling Centre
+460,"What is the name of AOI located at address: شارع 1, القصيص الصناعية 1, القصيص الصناعية, دبي, الإمارات العربية المتحدة?",C,مبنى 3,Al Hawai Tower,Sarhan Interior Design,Crescent English School
+461,"What is the name of AOI located at address: 34b شارع, رقة البطين, ديرة, المرقبات, دبي, الإمارات العربية المتحدة?",A,Sun & Sands Downtown Hotel,Paid Parking 1,Amsa Building,Latifa Tower
+462,"What is the name of AOI located at address: Jockey's Pub, شارع 6, ديرة, الرقة, ديرة, دبي, الإمارات العربية المتحدة?",A,Panorama Hotel,كلية دبي,Paid Parking 1,Emirates SkyCargo
+463,"What is the name of AOI located at address: مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",A,Apron F,MCN Hive,Al Raffa Police Stn,Dubai National School
+464,"What is the name of AOI located at address: طريق المطار الداخلي, مطار دبي الدولي, دبي, الإمارات العربية المتحدة?",A,Emirates SkyCargo,Dr. Khalifa Tower,Emaar Business Park 3,مول الإمارات
+465,"What is the name of AOI located at address: 42, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",C,Thomson Reuters,مركز الخليج,Millenium Plaza Downtown,Shatha Tower
+466,"What is the name of AOI located at address: شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",B,Al Badia Golf Club,Crown Plaza Public Parking,Al Qusais Health Centre,فندق أمباسادور
+467,"What is the name of AOI located at address: Blue Queen Spa, شارع 24, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",C,مسجد السطوة,مدرسة الصفا الثانوية,Royal House Building,Garden Villas
+468,"What is the name of AOI located at address: شارع 28, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",A,Al Kazim Building,DEWA,Lootah building,Concourse C
+469,"What is the name of AOI located at address: Belhasa Group of Companies, 210, شارع 28, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",A,Belhasa Building,AB Plaza 6,Dubai Airport Free Zone Authority Building 2 West,Rainbow 6
+470,"What is the name of AOI located at address: طريق الاتحاد, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",B,JLT Cluster I,Studio M Arabian Plaza Hotel & Hotel Apartments,Dal Group,Pullman Deira City Centre
+471,"What is the name of AOI located at address: شارع 9, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",D,The Lofts - Emaar,Dubai Airport Free Zone Authority Headquarters,Studio M Arabian Plaza Hotel & Hotel Apartments,Danat Al Mamzar
+472,"What is the name of AOI located at address: ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",C,Al Saraya Apartments,اينوك,Al Shaali Building,Jumeirah Beach Hotel
+473,"What is the name of AOI located at address: ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",B,Naif Park,AB Plaza,Sheikh Colony Building 8,Apple International School
+474,"What is the name of AOI located at address: شارع 28, ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",C,Elegance House,Al Moosa Tower,Al Zafrana,Choithram's Supermarket
+475,"What is the name of AOI located at address: ديرة, هور العنز, دبي, الإمارات العربية المتحدة?",B,JLT Cluster W,Al Zafrana,اينوك,Emaar Business Park 4
+476,"What is the name of AOI located at address: شارع 18, بر دبي, المنخول, دبي, الإمارات العربية المتحدة?",A,Habib Bank AG Zurich,Murjan 5,Al Asmawi Building,Emirates Towers SE
+477,"What is the name of AOI located at address: 1a شارع, بر دبي, المنخول, دبي, الإمارات العربية المتحدة?",B,International Modern Hospital,Fortune,Imperial Suites,Dynatrade Regency
+478,"What is the name of AOI located at address: شارع 7, بر دبي, المنخول, دبي, الإمارات العربية المتحدة?",B,Al Telal,Desert Rose Hotel Apartments,JLT Cluster R,Al Moosa Tower
+479,"What is the name of AOI located at address: 1a شارع, بر دبي, المنخول, دبي, الإمارات العربية المتحدة?",D,Sheikh Colony Building 3,Emarat Atrium,عيادة الصفا للأمراض الجلدية,Royal Ascot
+480,"What is the name of AOI located at address: شارع 24, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة?",C,سكي دبي,Burj Views,Dubai Carmel School,1
+481,"What is the name of AOI located at address: شارع 26, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة?",C,Al Mulla Warehouse,Rainbow 7,Lootah building,Taste of Arabia
+482,"What is the name of AOI located at address: Al Zahed Pharmaceutical & Medical Equipment, شارع 26, النهدة 2, النهدة, دبي, الإمارات العربية المتحدة?",A,Al Hawai Twin Towers,Ramee Rose Hotel,Sheikh Colony Building 5,Studio M Arabian Plaza Hotel & Hotel Apartments
+483,"What is the name of AOI located at address: 108, شارع جميرا, جميرا 2, جميرا, دبي, 72789, الإمارات العربية المتحدة?",B,Private Parking,عيادة ميكريس لطب الأسنان,Iranian Hospital Dubai,Thomson Reuters
+484,"What is the name of AOI located at address: شارع النعيلة, جميرا 3, جميرا, دبي, الإمارات العربية المتحدة?",D,Mercure Dubai Barsha Heights,Rainbow 3,Damas Gold Refinery,عيادة الصفا للأمراض الجلدية
+485,"What is the name of AOI located at address: 58, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",A,Al Safa Tower,JGC 2,Salman Farsi Iranian Boys School,Amsa Building
+486,"What is the name of AOI located at address: 72, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",B,Al Shahed Tower,Tower-A Rostamani,Sheikh Colony Building 15,Oasis Residence
+487,"What is the name of AOI located at address: 56, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",A,The Tower Plaza Hotel,JLT Cluster W,Silicon Plaza,Dal Group
+488,"What is the name of AOI located at address: 64, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",B,JGC 3,Al Moosa Tower 2,Concourse A,Dubai Municipality
+489,"What is the name of AOI located at address: 54, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",B,Apron F,Millenium Executive Tower,Address Montgomerie Hotel,C&B site office
+490,"What is the name of AOI located at address: Cafe b, 104, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",D,New Al Safiya,Belhasa Driving Centre,The Royal Oceanic,Aspin Tower
+491,"What is the name of AOI located at address: 62, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",C,Mercato Shopping Mall,Sheikh Colony Building 16,Al Moosa Tower,العنوان - دبي مول
+492,"What is the name of AOI located at address: شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",A,Zabeel Tower,نادي الوصل الرياضي,Crystal Blue Building,AWZ International
+493,"What is the name of AOI located at address: Tony rama, 66, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",B,3E,Sahara Tower,Al Ghaf 1,Union Cooperative Society Hypermarket
+494,"What is the name of AOI located at address: 70, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",A,Tower-B Rostamani,Airbus,مسجد السطوة,برج العرب جميرا
+495,"What is the name of AOI located at address: 116, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",A,Al Kharbash Tower,Qusais Manzil,American International School,Dubai School for Secondary Education for Boys
+496,"What is the name of AOI located at address: 36, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",B,The Palladium,Latifa Tower,Shangri La,Al Meraikhi Tower
+497,"What is the name of AOI located at address: شارع السطوة, البدع, دبي, الإمارات العربية المتحدة?",D,Emirates Grand Hotel Apartments,Al Shoroq Private School,Social Hotel,مسجد السطوة
+498,"What is the name of AOI located at address: 24, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",C,Rainbow 1,1,Ascott Park Place,Belhoul Speciality Hospital
+499,"What is the name of AOI located at address: 30, شارع الشيخ زايد, Sheikh Zayed Road, المركز التجاري, دبي, الإمارات العربية المتحدة?",B,Execujet Hangar,White Swan,JLT Cluster W,Time Crystal Hotel Apartments

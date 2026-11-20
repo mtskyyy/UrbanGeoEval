@@ -1,0 +1,368 @@
+id,question,answer,A,B,C,D
+0,"In the New York area, which road cannot directly reach Columbus Avenue?",C,West 79th Street,West 65th Street,Jewel Avenue,Broadway
+1,"In the New York area, which road directly reaches West 59th Street?",A,Columbus Avenue,Juniper Boulevard South,Ash Street,138th Street
+2,"In the New York area, which road cannot directly reach 29th Street?",B,Astoria Boulevard,Maspeth Avenue,Hoyt Avenue North,24th Avenue
+3,"In the New York area, which road directly reaches 24th Avenue?",B,Grand Army Plaza,29th Street,Metropolitan Avenue,Booth Memorial Avenue
+4,"In the New York area, which road cannot directly reach Amsterdam Avenue?",B,Broadway,37th Avenue,West 86th Street,West 79th Street
+5,"In the New York area, which road directly reaches West 75th Street?",D,27th Avenue,Northern Boulevard,1st Avenue Tunnel,Amsterdam Avenue
+6,"In the New York area, which road cannot directly reach Lexington Avenue?",C,East 54th Street,East 57th Street,Clymer Street,East 50th Street
+7,"In the New York area, which road directly reaches East 24th Street?",A,Lexington Avenue,Union Avenue,Astoria Boulevard North,74th Street
+8,"In the New York area, which road cannot directly reach Grand Central Parkway?",A,Park Avenue,Astoria Boulevard North,Union Turnpike,23rd Avenue
+9,"In the New York area, which road cannot directly reach Union Turnpike?",B,Woodhaven Boulevard,Doris C. Freedman Place,Metropolitan Avenue,Queens Boulevard
+10,"In the New York area, which road cannot directly reach 81st Street?",C,Astoria Boulevard South,Roosevelt Avenue,Astoria Park South,Ditmars Boulevard
+11,"In the New York area, which road cannot directly reach Astoria Boulevard South?",C,Boody Street,33rd Street,50th Avenue,81st Street
+12,"In the New York area, which road cannot directly reach East 86th Street?",D,1st Avenue,York Avenue,Park Avenue,Avenue D
+13,"In the New York area, which road cannot directly reach Park Avenue?",B,Classon Avenue,35th Avenue,East 59th Street,East 37th Street
+14,"In the New York area, which road cannot directly reach East 34th Street?",C,3rd Avenue,FDR Drive,Cypress Hills Street,2nd Avenue
+15,"In the New York area, which road cannot directly reach Jackie Robinson Parkway?",B,Jamaica Avenue,Parsons Boulevard,Pennsylvania Avenue,Bushwick Avenue
+16,"In the New York area, which road cannot directly reach Pennsylvania Avenue?",D,Atlantic Avenue,Jamaica Avenue,Pitkin Avenue,27th Avenue
+17,"In the New York area, which road cannot directly reach Jamaica Avenue?",D,Jackie Robinson Parkway,Lefferts Boulevard,Bushwick Avenue,Sands Street
+18,"In the New York area, which road cannot directly reach Bushwick Avenue?",B,Flushing Avenue,West 75th Street,Jamaica Avenue,Pennsylvania Avenue
+19,"In the New York area, which road cannot directly reach Cooper Street?",D,Broadway,Cypress Avenue,Rockaway Avenue,Rikers Island Bridge
+20,"In the New York area, which road cannot directly reach Cooper Avenue?",D,Cooper Street,Myrtle Avenue,Central Avenue,Gold Street
+21,"In the New York area, which road cannot directly reach Cypress Avenue?",C,Cooper Street,Myrtle Avenue,11th Avenue,Flushing Avenue
+22,"In the New York area, which road cannot directly reach 43rd Avenue?",D,11th Street,23rd Street,Vernon Boulevard,Hoyt Avenue North
+23,"In the New York area, which road cannot directly reach 11th Street?",A,2nd Avenue,43rd Avenue,44th Drive,Pulaski Bridge
+24,"In the New York area, which road cannot directly reach 21st Street?",C,Jackson Avenue,Broadway,61st Street,44th Drive
+25,"In the New York area, which road cannot directly reach Laurel Hill Boulevard?",C,65th Place,56th Road,3rd Avenue,48th Street
+26,"In the New York area, which road cannot directly reach 58th Street?",B,Laurel Hill Boulevard,Sutter Avenue,Queens Boulevard,Roosevelt Avenue
+27,"In the New York area, which road cannot directly reach 31st Street?",B,Ditmars Boulevard,Grand Street,Astoria Boulevard North,31st Avenue
+28,"In the New York area, which road cannot directly reach Ditmars Boulevard?",A,Malba Drive,Grand Central Parkway,21st Street,Marine Terminal Road
+29,"In the New York area, which road cannot directly reach Astoria Boulevard?",A,South Street,8th Street,27th Street,29th Street
+30,"In the New York area, which road cannot directly reach Junction Boulevard?",D,Northern Boulevard,34th Avenue,Horace Harding Expressway,East 14th Street
+31,"In the New York area, which road cannot directly reach 94th Street?",A,11th Avenue,Astoria Boulevard,Junction Boulevard,Ditmars Boulevard
+32,"In the New York area, which road cannot directly reach Northern Boulevard?",D,Queens Plaza South,51st Street,48th Street,North 11th Street
+33,"In the New York area, which road directly reaches Bayside Avenue?",D,East 31st Street,Malba Drive,Astoria Boulevard North,Parsons Boulevard
+34,"In the New York area, which road cannot directly reach Parsons Boulevard?",D,Sanford Avenue,14th Avenue,32nd Avenue,Liberty Avenue
+35,"In the New York area, which road cannot directly reach 44th Drive?",D,21st Street,Thomson Avenue,11th Street,61st Street
+36,"In the New York area, which road cannot directly reach Jackson Avenue?",D,43rd Avenue,Queens Boulevard,Queens Plaza South,97th Street Transverse
+37,"In the New York area, which road cannot directly reach Pulaski Bridge?",B,Jackson Avenue,Maspeth Avenue,11th Street,McGuinness Boulevard
+38,"In the New York area, which road cannot directly reach 14th Avenue?",A,59th Street,Parsons Boulevard,127th Street,138th Street
+39,"In the New York area, which road directly reaches 138th Street?",C,Queensboro Plaza,West 59th Street,14th Avenue,Metropolitan Avenue
+40,"In the New York area, which road cannot directly reach Roosevelt Avenue?",C,Parsons Boulevard,Queens Boulevard,Boody Street,Junction Boulevard
+41,"In the New York area, which road cannot directly reach Grand Avenue?",B,80th Street,Franklin Street,Grand Street,54th Street
+42,"In the New York area, which road cannot directly reach Rust Street?",C,57th Place,Flushing Avenue,Union Street,Maspeth Avenue
+43,"In the New York area, which road cannot directly reach Maspeth Avenue?",A,North Conduit Avenue,Grand Avenue,49th Street,61st Street
+44,"In the New York area, which road cannot directly reach 56th Road?",D,Laurel Hill Boulevard,48th Street,49th Street,East 31st Street
+45,"In the New York area, which road cannot directly reach Lefferts Boulevard?",B,Metropolitan Avenue,Kingsland Avenue,Hillside Avenue,Jamaica Avenue
+46,"In the New York area, which road cannot directly reach Liberty Avenue?",A,Lafayette Avenue,Lefferts Boulevard,Rockaway Boulevard,South Conduit Boulevard
+47,"In the New York area, which road cannot directly reach Atlantic Avenue?",C,Brooklyn Avenue,Pennsylvania Avenue,81st Street,4th Avenue
+48,"In the New York area, which road cannot directly reach 72nd Avenue?",A,Hunters Point Avenue,141st Street,Park Drive East,Main Street
+49,"In the New York area, which road directly reaches 141st Street?",B,Corona Avenue,72nd Avenue,Flatbush Avenue Extension,79th Street Transverse
+50,"In the New York area, which road cannot directly reach 74th Street?",C,Queens-Midtown Expressway,57th Avenue,Hamilton Place,Grand Avenue
+51,"In the New York area, which road cannot directly reach 57th Avenue?",C,74th Street,Queens Boulevard,Avenue A,Grand Avenue
+52,"In the New York area, which road cannot directly reach 35th Avenue?",D,Vernon Boulevard,Crescent Street,21st Street,East 45th Street
+53,"In the New York area, which road cannot directly reach Steinway Street?",C,30th Avenue,35th Avenue,Avenue B,Broadway
+54,"In the New York area, which road cannot directly reach 39th Street?",A,West 36th Street,Steinway Street,Queens Boulevard,Greenpoint Avenue
+55,"In the New York area, which road cannot directly reach Bowne Street?",A,Prospect Park West,Roosevelt Avenue,Northern Boulevard,Parsons Boulevard
+56,"In the New York area, which road cannot directly reach Hillside Avenue?",B,Metropolitan Avenue,Marine Terminal Road,Lefferts Boulevard,117th Street
+57,"In the New York area, which road cannot directly reach Vanderbilt Avenue?",A,58th Street,Flatbush Avenue,DeKalb Avenue,Flushing Avenue
+58,"In the New York area, which road cannot directly reach Washington Avenue?",A,57th Place,Kent Avenue,Park Avenue,Clymer Street
+59,"In the New York area, which road cannot directly reach Fulton Street?",A,East 50th Street,Pennsylvania Avenue,Flatbush Avenue,Vanderbilt Avenue
+60,"In the New York area, which road cannot directly reach 20th Avenue?",C,126th Street,Parsons Boulevard,51st Street,127th Street
+61,"In the New York area, which road cannot directly reach College Point Boulevard?",D,20th Avenue,32nd Avenue,Whitestone Expressway Service Road,138th Street
+62,"In the New York area, which road cannot directly reach 127th Street?",A,Cherry Street,11th Avenue,15th Avenue,20th Avenue
+63,"In the New York area, which road cannot directly reach 15th Avenue?",D,College Point Boulevard,127th Street,14th Avenue,Corona Avenue
+64,"In the New York area, which road cannot directly reach 19th Avenue?",B,Rikers Island Bridge,74th Street,81st Street,Ditmars Boulevard
+65,"In the New York area, which road cannot directly reach 31st Avenue?",D,31st Street,33rd Street,Steinway Street,Columbus Avenue
+66,"In the New York area, which road cannot directly reach Broadway?",A,Brooklyn Avenue,West 66th Street,31st Street,Grand Avenue
+67,"In the New York area, which road cannot directly reach McGuinness Boulevard?",A,Flushing Avenue,Meeker Avenue,Greenpoint Avenue,Pulaski Bridge
+68,"In the New York area, which road directly reaches McGuinness Boulevard South?",D,East New York Avenue,31st Drive,Park Avenue South,Greenpoint Avenue
+69,"In the New York area, which road cannot directly reach Greenpoint Avenue?",D,Provost Street,Kingsland Avenue,Manhattan Avenue,57th Avenue
+70,"In the New York area, which road cannot directly reach Rockaway Boulevard?",B,Highland Place,Review Avenue,Cross Bay Boulevard,Atlantic Avenue
+71,"In the New York area, which road cannot directly reach Myrtle Avenue?",B,117th Street,Whitestone Expressway,Fresh Pond Road,Hillside Avenue
+72,"In the New York area, which road cannot directly reach Ashland Place?",A,Fountain Avenue,Navy Street,Myrtle Avenue,DeKalb Avenue
+73,"In the New York area, which road cannot directly reach Navy Street?",B,Nassau Street,East 66th Street,York Street,Flushing Avenue
+74,"In the New York area, which road directly reaches 4th Avenue?",B,Cherry Street,Union Street,50th Avenue,North Portland Avenue
+75,"In the New York area, which road cannot directly reach Union Street?",C,4th Avenue,Roosevelt Avenue,Rockaway Avenue,Northern Boulevard
+76,"In the New York area, which road cannot directly reach Review Avenue?",D,Greenpoint Avenue,Borden Avenue,Laurel Hill Boulevard,East 45th Street
+77,"In the New York area, which road cannot directly reach Van Dam Street?",D,Queens Boulevard,Bridgewater Street,Borden Avenue,Linden Boulevard
+78,"In the New York area, which road cannot directly reach Queensboro Plaza?",A,Thomson Avenue,Northern Boulevard,Jackson Avenue,Queens Boulevard
+79,"In the New York area, which road cannot directly reach Queens Plaza South?",D,Vernon Boulevard,23rd Street,Queens Boulevard,DeKalb Avenue
+80,"In the New York area, which road cannot directly reach Queens Boulevard?",C,63rd Road,Thomson Avenue,Liberty Avenue,108th Street
+81,"In the New York area, which road cannot directly reach Queens-Midtown Expressway?",A,68th Street,74th Street,69th Street,Grand Avenue
+82,"In the New York area, which road cannot directly reach 69th Street?",A,East 84th Street,Queens Boulevard,Grand Avenue,Juniper Boulevard South
+83,"In the New York area, which road cannot directly reach Pitkin Avenue?",D,Sutter Avenue,Howard Avenue,Pennsylvania Avenue,Rodney Street
+84,"In the New York area, which road cannot directly reach Rockaway Avenue?",A,Booth Memorial Avenue,Fulton Street,East New York Avenue,Atlantic Avenue
+85,"In the New York area, which road cannot directly reach Sutter Avenue?",C,South Conduit Boulevard,Rockaway Avenue,West 34th Street,Pitkin Avenue
+86,"In the New York area, which road cannot directly reach Manhattan Avenue?",A,74th Street,Ash Street,Box Street,Greenpoint Avenue
+87,"In the New York area, which road cannot directly reach East 57th Street?",D,Sutton Place,Park Avenue,3rd Avenue,East 79th Street
+88,"In the New York area, which road cannot directly reach Central Park West?",B,West 86th Street,Buffalo Avenue,West 72nd Street,86th Street Transverse
+89,"In the New York area, which road cannot directly reach 86th Street Transverse?",B,5th Avenue,East Houston Street,Central Park West,West 86th Street
+90,"In the New York area, which road cannot directly reach West 86th Street?",A,65th Street Transverse,Central Park West,Columbus Avenue,West End Avenue
+91,"In the New York area, which road cannot directly reach 23rd Street?",A,East 50th Street,43rd Avenue,Jackson Avenue,Queens Plaza South
+92,"In the New York area, which road cannot directly reach Riverside Drive?",A,86th Street,West 79th Street,West 72nd Street,West 86th Street
+93,"In the New York area, which road cannot directly reach West 79th Street?",C,Broadway,West 72nd Street,Avenue B,Amsterdam Avenue
+94,"In the New York area, which road cannot directly reach West 72nd Street?",B,West End Avenue,Humboldt Street,Riverside Drive,Amsterdam Avenue
+95,"In the New York area, which road cannot directly reach East 72nd Street?",C,1st Avenue,York Avenue,Flatbush Avenue,2nd Avenue
+96,"In the New York area, which road cannot directly reach 48th Street?",C,55th Avenue,Laurel Hill Boulevard,Forest Parkway,Queens Boulevard
+97,"In the New York area, which road cannot directly reach Hamilton Place?",A,Rogers Avenue,Borden Avenue,65th Place,Maurice Avenue
+98,"In the New York area, which road cannot directly reach 65th Place?",B,Maurice Avenue,Brooklyn-Queens Expressway West,Laurel Hill Boulevard,Queens Boulevard
+99,"In the New York area, which road cannot directly reach Maurice Avenue?",B,65th Place,Central Park South,69th Street,Hamilton Place
+100,"In the New York area, which road cannot directly reach East New York Avenue?",C,Fulton Street,Rockaway Avenue,Fleet Street,Pitkin Avenue
+101,"In the New York area, which road cannot directly reach Main Street?",D,Booth Memorial Avenue,Jewel Avenue,Northern Boulevard,Dane Place
+102,"In the New York area, which road cannot directly reach Central Avenue?",D,Cooper Avenue,Myrtle Avenue,Cypress Hills Street,14th Avenue
+103,"In the New York area, which road cannot directly reach Cypress Hills Street?",A,Hell Gate Circle,Jamaica Avenue,Cypress Avenue,Central Avenue
+104,"In the New York area, which road cannot directly reach Cross Bay Boulevard?",B,Rockaway Boulevard,East 37th Street,North Conduit Avenue,Pitkin Avenue
+105,"In the New York area, which road cannot directly reach Jewel Avenue?",C,Park Drive East,Main Street,Brooklyn-Queens Expressway,Grand Central Parkway
+106,"In the New York area, which road cannot directly reach Flushing Avenue?",B,Kent Avenue,Avenue D,Broadway,Classon Avenue
+107,"In the New York area, which road cannot directly reach Metropolitan Avenue?",D,Union Avenue,Roebling Street,Wythe Avenue,68th Street
+108,"In the New York area, which road cannot directly reach West End Avenue?",A,Aqueduct Road,West 79th Street,West 72nd Street,West 86th Street
+109,"In the New York area, which road cannot directly reach 7th Avenue?",B,West 57th Street,Willets Point Boulevard,West 53rd Street,West 46th Street
+110,"In the New York area, which road cannot directly reach 30th Avenue?",A,East 54th Street,31st Street,21st Street,8th Street
+111,"In the New York area, which road cannot directly reach Woodhaven Boulevard?",D,63rd Drive,Cooper Avenue,Metropolitan Avenue,West 53rd Street
+112,"In the New York area, which road cannot directly reach Penelope Avenue?",C,80th Street,63rd Drive,Forest Avenue,Woodhaven Boulevard
+113,"In the New York area, which road cannot directly reach 63rd Drive?",D,Queens Boulevard,Woodhaven Boulevard,Penelope Avenue,York Avenue
+114,"In the New York area, which road cannot directly reach Linden Place?",D,Northern Boulevard,Whitestone Expressway Service Road,32nd Avenue,York Avenue
+115,"In the New York area, which road cannot directly reach 32nd Avenue?",A,69th Road,College Point Boulevard,Parsons Boulevard,Union Street
+116,"In the New York area, which road cannot directly reach Division Avenue?",C,Kent Avenue,Wythe Avenue,Van Sinderen Avenue,Marcy Avenue
+117,"In the New York area, which road cannot directly reach Roebling Street?",B,Metropolitan Avenue,Boody Street,Broadway,Division Avenue
+118,"In the New York area, which road cannot directly reach Woodside Avenue?",A,41st Avenue,Baxter Avenue,Roosevelt Avenue,Broadway
+119,"In the New York area, which road cannot directly reach East 79th Street?",C,5th Avenue,79th Street Transverse,East 49th Street,York Avenue
+120,"In the New York area, which road cannot directly reach York Avenue?",A,North 11th Street,East 72nd Street,East 60th Street,East 71st Street
+121,"In the New York area, which road cannot directly reach 82nd Street?",D,Grand Central Parkway,23rd Avenue,Roosevelt Avenue,Jewel Avenue
+122,"In the New York area, which road cannot directly reach Corona Avenue?",D,Broadway,Junction Boulevard,51st Avenue,Steinway Street
+123,"In the New York area, which road cannot directly reach Fresh Pond Road?",C,Myrtle Avenue,Flushing Avenue,Grand Avenue,61st Street
+124,"In the New York area, which road cannot directly reach 61st Street?",D,Fresh Pond Road,59th Street,Maspeth Avenue,Eastern Parkway
+125,"In the New York area, which road cannot directly reach Borinquen Place?",B,Grand Street,West 34th Street,Union Avenue,Marcy Avenue
+126,"In the New York area, which road cannot directly reach Union Avenue?",A,7th Avenue,Broadway,Lee Avenue,Borinquen Place
+127,"In the New York area, which road cannot directly reach Grand Street?",D,Grand Avenue,Bushwick Avenue,Vandervoort Avenue,Park Avenue
+128,"In the New York area, which road cannot directly reach 80th Street?",B,Penelope Avenue,Rockaway Boulevard,Juniper Boulevard South,Grand Avenue
+129,"In the New York area, which road cannot directly reach Sanford Avenue?",B,Main Street,Forest Park Drive,Parsons Boulevard,College Point Boulevard
+130,"In the New York area, which road cannot directly reach Yellowstone Boulevard?",C,69th Road,Queens Boulevard,5th Avenue,Woodhaven Boulevard
+131,"In the New York area, which road cannot directly reach 69th Road?",C,Yellowstone Boulevard,108th Street,Willets Point Boulevard,Queens Boulevard
+132,"In the New York area, which road cannot directly reach Eastern Parkway?",B,Classon Avenue,23rd Street,Atlantic Avenue,Howard Avenue
+133,"In the New York area, which road cannot directly reach Bedford Avenue?",A,East 63rd Street,Fulton Street,Myrtle Avenue,Atlantic Avenue
+134,"In the New York area, which road directly reaches Utica Avenue?",B,Grand Street,Atlantic Avenue,Queensboro Bridge Approach,Whitestone Expressway Service Road
+135,"In the New York area, which road cannot directly reach Flatbush Avenue?",A,Washington Avenue,Lafayette Avenue,7th Avenue,Plaza Street West
+136,"In the New York area, which road cannot directly reach Nassau Street?",D,Gold Street,Flushing Avenue,Navy Street,Rockaway Avenue
+137,"In the New York area, which road directly reaches Booth Memorial Avenue?",A,College Point Boulevard,New Lots Avenue,Hudson Avenue,Bridgewater Street
+138,"In the New York area, which road cannot directly reach 34th Avenue?",D,31st Street,Junction Boulevard,21st Street,Lafayette Avenue
+139,"In the New York area, which road cannot directly reach 36th Avenue?",B,33rd Street,56th Avenue,Vernon Boulevard,Roosevelt Island Bridge
+140,"In the New York area, which road cannot directly reach Vernon Boulevard?",B,51st Avenue,Bowne Street,34th Avenue,Roosevelt Island Bridge
+141,"In the New York area, which road cannot directly reach Roosevelt Island Bridge?",C,Vernon Boulevard,36th Avenue,Queens Plaza South,Main Street
+142,"In the New York area, which road directly reaches 11th Avenue?",A,127th Street,Samuel Dickstein Plaza,Jewel Avenue,50th Avenue
+143,"In the New York area, which road cannot directly reach Park Drive East?",A,East 106th Street,72nd Avenue,Union Turnpike,Jewel Avenue
+144,"In the New York area, which road cannot directly reach 5th Avenue?",C,East 37th Street,West 36th Street,East 84th Street,97th Street Transverse
+145,"In the New York area, which road cannot directly reach 6th Avenue?",B,Union Street,Woodside Avenue,West 49th Street,Central Park South
+146,"In the New York area, which road cannot directly reach 31st Drive?",C,Astoria Boulevard,108th Street,33rd Street,Ditmars Boulevard
+147,"In the New York area, which road cannot directly reach 108th Street?",A,Avenue A,Jewel Avenue,Queens Boulevard,69th Road
+148,"In the New York area, which road directly reaches Manhattan Bridge?",B,Buffalo Avenue,Flatbush Avenue Extension,31st Street,Park Avenue South
+149,"In the New York area, which road cannot directly reach Flatbush Avenue Extension?",D,DeKalb Avenue,Tillary Street,Manhattan Bridge,East 31st Street
+150,"In the New York area, which road cannot directly reach Tillary Street?",C,Gold Street,Manhattan Bridge,Astoria Boulevard,Navy Street
+151,"In the New York area, which road cannot directly reach East 23rd Street?",D,1st Avenue,2nd Avenue,3rd Avenue,Highland Place
+152,"In the New York area, which road cannot directly reach 3rd Avenue?",A,York Street,East 23rd Street,East 30th Street,East 53rd Street
+153,"In the New York area, which road directly reaches 9th Street?",B,Varick Avenue,6th Avenue,Roosevelt Avenue,East 61st Street
+154,"In the New York area, which road cannot directly reach East 96th Street?",B,97th Street Transverse,127th Street,Park Avenue,3rd Avenue
+155,"In the New York area, which road cannot directly reach Meeker Avenue?",D,Vandervoort Avenue,McGuinness Boulevard,Metropolitan Avenue,West 50th Street
+156,"In the New York area, which road directly reaches Humboldt Street?",C,West 73rd Street,Utica Avenue,McGuinness Boulevard,30th Avenue
+157,"In the New York area, which road cannot directly reach Highland Boulevard?",A,41st Avenue,Vermont Place,Jamaica Avenue,Bushwick Avenue
+158,"In the New York area, which road directly reaches Eldert Lane?",C,West 57th Street,86th Street Transverse,Jamaica Avenue,East 20th Street
+159,"In the New York area, which road cannot directly reach Kent Avenue?",B,Flushing Avenue,Rikers Island Bridge,Washington Avenue,North 10th Street
+160,"In the New York area, which road cannot directly reach Williamsburg Street West?",A,LaGuardia Road,Kent Avenue,Lee Avenue,Park Avenue
+161,"In the New York area, which road directly reaches Astoria Park South?",D,Brooklyn-Queens Expressway East,51st Street,Pulaski Bridge,21st Street
+162,"In the New York area, which road cannot directly reach Horace Harding Expressway?",A,Marine Terminal Road,Junction Boulevard,Main Street,108th Street
+163,"In the New York area, which road cannot directly reach East Broadway?",B,Grand Street,Bushwick Avenue,Montgomery Street,Samuel Dickstein Plaza
+164,"In the New York area, which road cannot directly reach Samuel Dickstein Plaza?",C,Grand Street,East Broadway,Rodney Street,Montgomery Street
+165,"In the New York area, which road cannot directly reach Montgomery Street?",C,South Street,Samuel Dickstein Plaza,Kent Avenue,East Broadway
+166,"In the New York area, which road cannot directly reach 51st Street?",C,Woodside Avenue,Northern Boulevard,Hell Gate Circle,Broadway
+167,"In the New York area, which road cannot directly reach Box Street?",B,McGuinness Boulevard,Linden Boulevard,Provost Street,Commercial Street
+168,"In the New York area, which road directly reaches Kissena Boulevard?",A,Sanford Avenue,Schermerhorn Street,East 14th Street,7th Avenue
+169,"In the New York area, which road directly reaches Willets Point Boulevard?",D,Hoyt Avenue North,Sackman Street,Sands Street,Union Street
+170,"In the New York area, which road cannot directly reach Howard Avenue?",A,8th Avenue,Eastern Parkway,Pitkin Avenue,Atlantic Avenue
+171,"In the New York area, which road directly reaches LaGuardia Road?",D,1st Avenue,York Avenue,Maspeth Avenue,94th Street
+172,"In the New York area, which road cannot directly reach Classon Avenue?",A,Lombardy Street,DeKalb Avenue,Lafayette Avenue,Park Avenue
+173,"In the New York area, which road cannot directly reach Vandervoort Avenue?",D,Meeker Avenue,Lombardy Street,Metropolitan Avenue,Schermerhorn Street
+174,"In the New York area, which road cannot directly reach Astoria Boulevard North?",C,49th Street,31st Street,Seaver Way,Steinway Street
+175,"In the New York area, which road cannot directly reach Hoyt Avenue North?",D,21st Street,29th Street,27th Street,Fresh Pond Road
+176,"In the New York area, which road cannot directly reach 117th Street?",D,Myrtle Avenue,Jamaica Avenue,Hillside Avenue,Taylor Street
+177,"In the New York area, which road directly reaches Hunters Point Avenue?",A,Van Dam Street,132nd Street,Jackson Avenue,Myrtle Avenue
+178,"In the New York area, which road cannot directly reach 23rd Avenue?",C,82nd Street,86th Street,Union Avenue,Grand Central Parkway
+179,"In the New York area, which road cannot directly reach Van Sinderen Avenue?",A,East 46th Street,Broadway,Fulton Street,Atlantic Avenue
+180,"In the New York area, which road cannot directly reach East 42nd Street?",C,3rd Avenue,Lexington Avenue,Box Street,West 42nd Street
+181,"In the New York area, which road cannot directly reach 1st Avenue?",C,East 96th Street,East 20th Street,68th Street,East 72nd Street
+182,"In the New York area, which road cannot directly reach Wythe Avenue?",A,59th Street,Division Avenue,North 10th Street,Metropolitan Avenue
+183,"In the New York area, which road directly reaches 37th Avenue?",C,59th Street,73rd Place,Broadway,63rd Road
+184,"In the New York area, which road cannot directly reach Fulton Mall?",D,Flatbush Avenue Extension,Flatbush Avenue,Fulton Street,2nd Avenue
+185,"In the New York area, which road cannot directly reach 79th Street Transverse?",D,5th Avenue,Central Park West,West 81st Street,65th Place
+186,"In the New York area, which road cannot directly reach West 81st Street?",C,Columbus Avenue,79th Street Transverse,McGuinness Boulevard South,Central Park West
+187,"In the New York area, which road cannot directly reach Madison Avenue?",A,Steinway Street,East 79th Street,East 86th Street,East 72nd Street
+188,"In the New York area, which road directly reaches West 34th Street?",D,Bayside Avenue,Grand Street,6th Avenue,East 34th Street
+189,"In the New York area, which road directly reaches East 71st Street?",D,Marine Terminal Road,Central Park South,Yellowstone Boulevard,York Avenue
+190,"In the New York area, which road cannot directly reach East 59th Street?",A,Manhattan Avenue,York Avenue,Lexington Avenue,2nd Avenue
+191,"In the New York area, which road cannot directly reach Sutton Place?",B,1st Avenue,East 50th Street,York Avenue,East 57th Street
+192,"In the New York area, which road directly reaches Avenue D?",C,33rd Street,1st Avenue Tunnel,East Houston Street,East 60th Street
+193,"In the New York area, which road cannot directly reach East Houston Street?",B,Avenue B,63rd Drive,Avenue D,Avenue C
+194,"In the New York area, which road cannot directly reach West 57th Street?",B,9th Avenue,Aqueduct Road,East 57th Street,6th Avenue
+195,"In the New York area, which road cannot directly reach Rodney Street?",B,Borinquen Place,Williamsburg Street East,Broadway,Metropolitan Avenue
+196,"In the New York area, which road cannot directly reach Hudson Avenue?",D,York Street,Navy Street,Front Street,Highland Boulevard
+197,"In the New York area, which road directly reaches York Street?",B,Cherry Street,Navy Street,Cypress Hills Street,Pacific Street
+198,"In the New York area, which road directly reaches Sands Street?",D,Brooklyn-Queens Expressway East,Pennsylvania Avenue,West 62nd Street,Navy Street
+199,"In the New York area, which road cannot directly reach Lee Avenue?",B,Flushing Avenue,Maspeth Avenue,Wallabout Street,Union Avenue
+200,"In the New York area, which road cannot directly reach Nostrand Avenue?",D,Fulton Street,Lafayette Avenue,Atlantic Avenue,West 57th Street
+201,"In the New York area, which road directly reaches Plaza Street West?",C,West 73rd Street,126th Street,Eastern Parkway,Ed Koch Queensboro Bridge Upper Level
+202,"In the New York area, which road cannot directly reach Provost Street?",A,Van Sinderen Avenue,McGuinness Boulevard,Box Street,Greenpoint Avenue
+203,"In the New York area, which road cannot directly reach Varick Avenue?",A,Pennsylvania Avenue,Cherry Street,Lombardy Street,Varick Street
+204,"In the New York area, which road cannot directly reach Varick Street?",D,Meeker Avenue,Bridgewater Street,Varick Avenue,Central Road
+205,"In the New York area, which road cannot directly reach Williamsburg Street East?",A,Astoria Boulevard South,Lee Avenue,Division Avenue,Bedford Avenue
+206,"In the New York area, which road cannot directly reach Lafayette Avenue?",B,Bedford Avenue,63rd Avenue,Classon Avenue,Vanderbilt Avenue
+207,"In the New York area, which road cannot directly reach Lombardy Street?",C,Vandervoort Avenue,Varick Avenue,Fulton Street,Cherry Street
+208,"In the New York area, which road cannot directly reach North Conduit Avenue?",A,East New York Avenue,Pitkin Avenue,Sutter Avenue,Cross Bay Boulevard
+209,"In the New York area, which road directly reaches North Portland Avenue?",B,59th Street,Flushing Avenue,86th Street,Prospect Park West
+210,"In the New York area, which road cannot directly reach Borden Avenue?",A,Queens-Midtown Expressway,Greenpoint Avenue,Hamilton Place,Vernon Boulevard
+211,"In the New York area, which road cannot directly reach Forest Park Drive?",A,Boody Street,Myrtle Avenue,Forest Parkway,Union Turnpike
+212,"In the New York area, which road cannot directly reach Thomson Avenue?",B,44th Drive,Wythe Avenue,Jackson Avenue,Ed Koch Queensboro Bridge Upper Level
+213,"In the New York area, which road cannot directly reach 49th Street?",A,Madison Avenue,Maspeth Avenue,Astoria Boulevard South,Astoria Boulevard North
+214,"In the New York area, which road directly reaches 55th Avenue?",B,Whitestone Expressway,58th Street,21st Street,Cross Bay Boulevard
+215,"In the New York area, which road directly reaches Honeywell Street?",C,Crescent Street,Meeker Avenue,Northern Boulevard,Parsons Boulevard
+216,"In the New York area, which road directly reaches 132nd Street?",B,6th Avenue,14th Avenue,Rikers Island Bridge,Varick Avenue
+217,"In the New York area, which road directly reaches 56th Avenue?",D,Liberty Avenue,132nd Street,Norman Avenue,Maurice Avenue
+218,"In the New York area, which road cannot directly reach 59th Street?",D,56th Avenue,61st Street,Maspeth Avenue,Taylor Street
+219,"In the New York area, which road cannot directly reach Brooklyn-Queens Expressway West?",A,Penelope Avenue,Grand Central Parkway,Brooklyn-Queens Expressway East,30th Avenue
+220,"In the New York area, which road directly reaches 57th Place?",B,Division Avenue,Rust Street,Flatbush Avenue Extension,Roebling Street
+221,"In the New York area, which road cannot directly reach Gardner Avenue?",D,Grand Avenue,Grand Street,Metropolitan Avenue,McGuinness Boulevard
+222,"In the New York area, which road directly reaches Linden Boulevard?",D,58th Street,30th Avenue,Marcy Avenue,South Conduit Boulevard
+223,"In the New York area, which road cannot directly reach Hoyt Avenue South?",B,Astoria Boulevard South,Forest Avenue,Crescent Street,33rd Street
+224,"In the New York area, which road cannot directly reach 27th Street?",B,Hoyt Avenue North,Navy Street,Hoyt Avenue South,Astoria Boulevard
+225,"In the New York area, which road directly reaches Forest Avenue?",A,Metropolitan Avenue,4th Avenue,Ed Koch Queensboro Bridge Lower Level,Eastern Parkway
+226,"In the New York area, which road cannot directly reach 8th Street?",B,Astoria Boulevard,48th Street,27th Avenue,30th Avenue
+227,"In the New York area, which road directly reaches 27th Avenue?",B,Hunters Point Avenue,8th Street,Queensboro Bridge Exit,44th Drive
+228,"In the New York area, which road directly reaches Vermont Place?",D,Rockaway Boulevard,Columbus Avenue,Pulaski Bridge,Highland Boulevard
+229,"In the New York area, which road directly reaches Seaver Way?",A,Northern Boulevard,Kent Avenue,Van Dam Street,Main Avenue
+230,"In the New York area, which road cannot directly reach 33rd Street?",D,36th Avenue,Broadway,35th Avenue,Grand Street
+231,"In the New York area, which road directly reaches 126th Street?",A,20th Avenue,Astoria Boulevard,7th Avenue,Bushwick Avenue
+232,"In the New York area, which road cannot directly reach Whitestone Expressway Service Road?",C,20th Avenue,Malba Drive,East 58th Street,College Point Boulevard
+233,"In the New York area, which road cannot directly reach Crescent Street?",A,39th Street,41st Avenue,34th Avenue,Broadway
+234,"In the New York area, which road directly reaches East 20th Street?",A,Avenue C,Steinway Street,63rd Road,East 50th Street
+235,"In the New York area, which road cannot directly reach Avenue C?",B,East 23rd Street,Main Avenue,East 20th Street,East Houston Street
+236,"In the New York area, which road cannot directly reach Franklin Avenue?",B,Atlantic Avenue,Brooklyn-Queens Expressway West,Lafayette Avenue,Fulton Street
+237,"In the New York area, which road cannot directly reach Wallabout Street?",C,Bedford Avenue,Kent Avenue,132nd Street,Union Avenue
+238,"In the New York area, which road directly reaches South Street?",B,East 50th Street,Montgomery Street,Aqueduct Road,Madison Avenue
+239,"In the New York area, which road cannot directly reach FDR Drive?",D,East 63rd Street,East 34th Street,East 62nd Street,55th Avenue
+240,"In the New York area, which road directly reaches 65th Street Transverse?",B,Rust Street,5th Avenue,29th Street,East 54th Street
+241,"In the New York area, which road directly reaches Queens Plaza North?",C,141st Street,East Broadway,21st Street,Queensboro Plaza
+242,"In the New York area, which road directly reaches East 73rd Street?",A,York Avenue,80th Street,56th Avenue,Varick Street
+243,"In the New York area, which road directly reaches 39th Avenue?",D,South Conduit Boulevard,Union Street,9th Street,Woodside Avenue
+244,"In the New York area, which road cannot directly reach 73rd Place?",D,Myrtle Avenue,Central Avenue,Cooper Avenue,31st Avenue
+245,"In the New York area, which road directly reaches Cherry Street?",A,Lombardy Street,36th Avenue,East 23rd Street,Schermerhorn Street
+246,"In the New York area, which road cannot directly reach Marcy Avenue?",C,Broadway,Division Avenue,23rd Avenue,Borinquen Place
+247,"In the New York area, which road cannot directly reach DeKalb Avenue?",B,Washington Avenue,East 85th Street,Flatbush Avenue Extension,Ashland Place
+248,"In the New York area, which road directly reaches Fountain Avenue?",C,Crescent Street,Main Street,Sutter Avenue,Ed Koch Queensboro Bridge Upper Level
+249,"In the New York area, which road directly reaches New Lots Avenue?",C,39th Avenue,North 11th Street,Fountain Avenue,24th Avenue
+250,"In the New York area, which road cannot directly reach West 65th Street?",B,Amsterdam Avenue,East 86th Street,Broadway,Central Park West
+251,"In the New York area, which road cannot directly reach East 14th Street?",B,1st Avenue,Main Avenue,2nd Avenue,Avenue A
+252,"In the New York area, which road directly reaches Avenue A?",D,East 49th Street,Rust Street,Pacific Street,East 14th Street
+253,"In the New York area, which road cannot directly reach West 42nd Street?",C,6th Avenue,5th Avenue,11th Avenue,East 42nd Street
+254,"In the New York area, which road directly reaches Main Avenue?",B,Avenue C,30th Avenue,Baxter Avenue,59th Avenue
+255,"In the New York area, which road cannot directly reach 2nd Avenue?",D,East 59th Street,East 34th Street,East 65th Street,Greenpoint Avenue
+256,"In the New York area, which road directly reaches Buffalo Avenue?",B,East 65th Street,Eastern Parkway,Laurel Hill Boulevard,Woodhaven Boulevard
+257,"In the New York area, which road directly reaches Avenue B?",C,Metropolitan Avenue,41st Avenue,East 14th Street,East 73rd Street
+258,"In the New York area, which road cannot directly reach 8th Avenue?",A,Rodney Street,West 53rd Street,Columbus Circle,West 57th Street
+259,"In the New York area, which road directly reaches Rikers Island Bridge?",A,19th Avenue,Willets Point Boulevard,Queens Boulevard,West 45th Street
+260,"In the New York area, which road cannot directly reach 51st Avenue?",B,Broadway,Hoyt Avenue South,69th Street,Queens Boulevard
+261,"In the New York area, which road cannot directly reach South Conduit Boulevard?",C,Sutter Avenue,Pitkin Avenue,South Conduit Boulevard,Liberty Avenue
+262,"In the New York area, which road directly reaches Conduit Boulevard?",C,Tunnel Exit Street,80th Avenue,Atlantic Avenue,138th Street
+263,"In the New York area, which road directly reaches Gold Street?",D,Tunnel Approach Street,97th Street Transverse,1st Avenue,Nassau Street
+264,"In the New York area, which road cannot directly reach Franklin Street?",B,Kent Avenue,West 53rd Street,Commercial Street,Greenpoint Avenue
+265,"In the New York area, which road directly reaches Rogers Avenue?",D,Hillside Avenue,Brooklyn Avenue,Park Drive East,Bedford Avenue
+266,"In the New York area, which road directly reaches Clymer Street?",A,Kent Avenue,Borinquen Place,FDR Drive,55th Drive
+267,"In the New York area, which road directly reaches Fleet Street?",B,Forest Avenue,Dane Place,11th Avenue,Front Street
+268,"In the New York area, which road directly reaches Juniper Boulevard South?",C,Borden Avenue,Rockaway Boulevard,69th Street,37th Avenue
+269,"In the New York area, which road directly reaches 50th Avenue?",A,Jackson Avenue,Central Park West,Vandervoort Avenue,North Conduit Avenue
+270,"In the New York area, which road cannot directly reach East 62nd Street?",A,117th Street,FDR Drive,York Avenue,1st Avenue
+271,"In the New York area, which road directly reaches Pacific Street?",A,Rockaway Avenue,59th Street,Ed Koch Queensboro Bridge Upper Level,Manhattan Avenue
+272,"In the New York area, which road cannot directly reach Baxter Avenue?",A,132nd Street,Woodside Avenue,Broadway,Roosevelt Avenue
+273,"In the New York area, which road cannot directly reach East 60th Street?",C,1st Avenue,5th Avenue,Pacific Street,Park Avenue
+274,"In the New York area, which road cannot directly reach Central Park South?",B,6th Avenue,Fleet Street,Columbus Circle,Doris C. Freedman Place
+275,"In the New York area, which road directly reaches 97th Street Transverse?",D,Bushwick Avenue,Woodside Avenue,108th Street,East 96th Street
+276,"In the New York area, which road directly reaches Commercial Street?",B,Rodney Street,Franklin Street,West 60th Street,3rd Avenue
+277,"In the New York area, which road cannot directly reach Bridgewater Street?",A,Williamsburg Street East,Varick Street,Norman Avenue,Kingsland Avenue
+278,"In the New York area, which road directly reaches 80th Avenue?",D,57th Place,Maurice Avenue,31st Avenue,Cooper Avenue
+279,"In the New York area, which road directly reaches 54th Street?",D,9th Street,East 50th Street,73rd Place,Flushing Avenue
+280,"In the New York area, which road directly reaches 55th Drive?",C,61st Street,Rodney Street,Maurice Avenue,Washington Avenue
+281,"In the New York area, which road cannot directly reach East 37th Street?",B,Park Avenue,LaGuardia Road,1st Avenue,Madison Avenue
+282,"In the New York area, which road cannot directly reach East 65th Street?",A,East Houston Street,1st Avenue,York Avenue,Madison Avenue
+283,"In the New York area, which road directly reaches Ed Koch Queensboro Bridge Upper Level?",A,Thomson Avenue,117th Street,Maspeth Avenue,Greenpoint Avenue
+284,"In the New York area, which road directly reaches West 62nd Street?",D,Buffalo Avenue,11th Avenue,East 53rd Street,Columbus Avenue
+285,"In the New York area, which road cannot directly reach Kingsland Avenue?",C,Greenpoint Avenue,Norman Avenue,Tunnel Exit Street,Bridgewater Street
+286,"In the New York area, which road directly reaches 59th Avenue?",B,51st Avenue,Junction Boulevard,Havemeyer Street,Tunnel Exit Street
+287,"In the New York area, which road directly reaches 1st Avenue Tunnel?",D,Grand Street,East 57th Street,Liberty Avenue,1st Avenue
+288,"In the New York area, which road directly reaches Aqueduct Road?",A,Rockaway Boulevard,Wallabout Street,Van Wyck Expressway,Queensboro Bridge Outer Roadway
+289,"In the New York area, which road directly reaches Tunnel Exit Street?",A,East 34th Street,63rd Drive,Marine Terminal Road,9th Avenue
+290,"In the New York area, which road directly reaches Forest Parkway?",C,Cherry Street,63rd Drive,Forest Park Drive,Fulton Street
+291,"In the New York area, which road directly reaches Monitor Street?",B,Ash Street,Greenpoint Avenue,Rogers Avenue,Malba Drive
+292,"In the New York area, which road directly reaches Taylor Street?",B,East 60th Street,Roebling Street,Rockaway Boulevard,Rogers Avenue
+293,"In the New York area, which road directly reaches Tunnel Approach Street?",C,24th Avenue,Baxter Avenue,East 34th Street,Kingsland Avenue
+294,"In the New York area, which road directly reaches 41st Avenue?",D,Flatbush Avenue Extension,Sutter Avenue,Bowne Street,Crescent Street
+295,"In the New York area, which road cannot directly reach East 36th Street?",C,Park Avenue,2nd Avenue,Crescent Street,Lexington Avenue
+296,"In the New York area, which road cannot directly reach Norman Avenue?",D,Kingsland Avenue,Monitor Street,Bridgewater Street,39th Street
+297,"In the New York area, which road cannot directly reach Grand Army Plaza?",D,Prospect Park West,Union Street,5th Avenue,108th Street
+298,"In the New York area, which road directly reaches Prospect Park West?",C,Vanderbilt Avenue,Wythe Avenue,Grand Army Plaza,51st Avenue
+299,"In the New York area, which road cannot directly reach East 63rd Street?",A,32nd Avenue,1st Avenue,2nd Avenue,FDR Drive
+300,"In the New York area, which road cannot directly reach East 49th Street?",B,2nd Avenue,Bushwick Avenue,3rd Avenue,Lexington Avenue
+301,"In the New York area, which road cannot directly reach West 49th Street?",A,8th Street,Broadway,6th Avenue,7th Avenue
+302,"In the New York area, which road cannot directly reach West 46th Street?",B,7th Avenue,4th Avenue,5th Avenue,6th Avenue
+303,"In the New York area, which road cannot directly reach East 46th Street?",B,Madison Avenue,27th Street,Park Avenue,1st Avenue
+304,"In the New York area, which road directly reaches Doris C. Freedman Place?",B,West 59th Street,Central Park South,127th Street,Parsons Boulevard
+305,"In the New York area, which road cannot directly reach East 61st Street?",B,1st Avenue,73rd Place,2nd Avenue,Queensboro Bridge Exit
+306,"In the New York area, which road cannot directly reach West 50th Street?",D,Broadway,6th Avenue,7th Avenue,Park Avenue Tunnel
+307,"In the New York area, which road cannot directly reach East 97th Street?",D,3rd Avenue,2nd Avenue,5th Avenue,McGuinness Boulevard South
+308,"In the New York area, which road cannot directly reach East 45th Street?",D,5th Avenue,Madison Avenue,Lexington Avenue,Woodhaven Boulevard
+309,"In the New York area, which road cannot directly reach East 30th Street?",D,3rd Avenue,Lexington Avenue,Park Avenue South,Myrtle Avenue
+310,"In the New York area, which road cannot directly reach East 66th Street?",C,Madison Avenue,1st Avenue,Rockaway Avenue,3rd Avenue
+311,"In the New York area, which road directly reaches East 85th Street?",A,5th Avenue,East 50th Street,Rogers Avenue,Borinquen Place
+312,"In the New York area, which road directly reaches West 60th Street?",D,East 71st Street,Park Drive East,23rd Avenue,Columbus Avenue
+313,"In the New York area, which road cannot directly reach East 53rd Street?",B,5th Avenue,Manhattan Bridge,Park Avenue,Madison Avenue
+314,"In the New York area, which road cannot directly reach West 53rd Street?",A,Tunnel Exit Street,7th Avenue,8th Avenue,6th Avenue
+315,"In the New York area, which road directly reaches Ed Koch Queensboro Bridge Lower Level?",A,2nd Avenue,Kingsland Avenue,Cross Bay Boulevard,Lafayette Avenue
+316,"In the New York area, which road cannot directly reach West 54th Street?",D,8th Avenue,6th Avenue,7th Avenue,Marine Terminal Road
+317,"In the New York area, which road cannot directly reach East 54th Street?",B,1st Avenue,West 79th Street,Park Avenue,Madison Avenue
+318,"In the New York area, which road directly reaches West 36th Street?",D,Greenpoint Avenue,Honeywell Street,29th Street,5th Avenue
+319,"In the New York area, which road cannot directly reach East 50th Street?",C,Madison Avenue,1st Avenue,East 14th Street,Lexington Avenue
+320,"In the New York area, which road directly reaches Highland Place?",B,New Lots Avenue,Rockaway Boulevard,Van Wyck Expressway,East 96th Street
+321,"In the New York area, which road directly reaches Ash Street?",C,DeKalb Avenue,Vernon Boulevard,Manhattan Avenue,69th Road
+322,"In the New York area, which road directly reaches Brooklyn Avenue?",D,62nd Drive,Manhattan Bridge,Broadway,Atlantic Avenue
+323,"In the New York area, which road directly reaches 68th Street?",D,32nd Avenue,Taylor Street,East 45th Street,30th Avenue
+324,"In the New York area, which road directly reaches Marine Terminal Road?",A,Ditmars Boulevard,South Street,East 97th Street,Franklin Street
+325,"In the New York area, which road directly reaches Havemeyer Street?",A,Marcy Avenue,Avenue A,Gold Street,1st Avenue Tunnel
+326,"In the New York area, which road directly reaches Central Road?",B,Taylor Street,Hell Gate Circle,Queensboro Plaza,West 58th Street
+327,"In the New York area, which road directly reaches Hell Gate Circle?",A,Central Road,West 73rd Street,Doris C. Freedman Place,East 30th Street
+328,"In the New York area, which road cannot directly reach West 66th Street?",D,Broadway,Columbus Avenue,Amsterdam Avenue,15th Avenue
+329,"In the New York area, which road cannot directly reach East 31st Street?",B,Park Avenue,Commercial Street,Lexington Avenue,Madison Avenue
+330,"In the New York area, which road directly reaches 9th Avenue?",B,Astoria Boulevard North,West 57th Street,Pennsylvania Avenue,62nd Drive
+331,"In the New York area, which road directly reaches West 58th Street?",C,Astoria Boulevard South,Vanderbilt Avenue,9th Avenue,Box Street
+332,"In the New York area, which road directly reaches Sackman Street?",D,Myrtle Avenue,Junction Boulevard,Maurice Avenue,East New York Avenue
+333,"In the New York area, which road directly reaches North 10th Street?",C,Union Street,Varick Avenue,Wythe Avenue,Queens Plaza North
+334,"In the New York area, which road directly reaches North 11th Street?",D,West 81st Street,Hell Gate Circle,Queens Boulevard,North 14th Street
+335,"In the New York area, which road directly reaches North 14th Street?",C,Borinquen Place,West 73rd Street,North 11th Street,Gardner Avenue
+336,"In the New York area, which road directly reaches West 45th Street?",B,East 86th Street,7th Avenue,Van Sinderen Avenue,31st Street
+337,"In the New York area, which road directly reaches 62nd Drive?",D,West 34th Street,Willets Point Boulevard,Tunnel Exit Street,Queens Boulevard
+338,"In the New York area, which road directly reaches East 106th Street?",B,Park Avenue Tunnel,1st Avenue,Rockaway Avenue,Havemeyer Street
+339,"In the New York area, which road directly reaches 86th Street?",D,Van Wyck Expressway,59th Avenue,Grand Avenue,23rd Avenue
+340,"In the New York area, which road directly reaches South Conduit Avenue?",D,West 65th Street,Columbus Circle,Ed Koch Queensboro Bridge Lower Level,Cross Bay Boulevard
+341,"In the New York area, which road directly reaches Park Avenue South?",D,Van Dam Street,Lombardy Street,Eldert Lane,East 30th Street
+342,"In the New York area, which road directly reaches 114th Street?",A,Northern Boulevard,Brooklyn Avenue,Marine Terminal Road,6th Avenue
+343,"In the New York area, which road directly reaches 63rd Road?",C,58th Street,East 46th Street,Queens Boulevard,Monitor Street
+344,"In the New York area, which road directly reaches East 58th Street?",B,East 53rd Street,Queensboro Bridge Approach,Flatbush Avenue Extension,Van Dam Street
+345,"In the New York area, which road directly reaches Plaza Street East?",A,Eastern Parkway,Lexington Avenue,Forest Avenue,Pennsylvania Avenue
+346,"In the New York area, which road directly reaches East 35th Street?",A,2nd Avenue,Bushwick Avenue,North 11th Street,Roosevelt Avenue
+347,"In the New York area, which road directly reaches Eliot Avenue?",D,Van Dam Street,Tunnel Approach Street,Grand Street,Queens Boulevard
+348,"In the New York area, which road directly reaches East 84th Street?",B,Forest Avenue,Madison Avenue,31st Avenue,West 54th Street
+349,"In the New York area, which road directly reaches Schermerhorn Street?",D,Fountain Avenue,East 31st Street,9th Avenue,3rd Avenue
+350,"In the New York area, which road directly reaches 55th Street?",B,Central Park West,Flushing Avenue,Highland Place,Horace Harding Expressway
+351,"In the New York area, which road directly reaches Dane Place?",D,East 66th Street,West 36th Street,East 34th Street,Fleet Street
+352,"In the New York area, which road directly reaches Queensboro Bridge Approach?",B,East 73rd Street,East 58th Street,Nassau Street,14th Avenue
+353,"In the New York area, which road directly reaches Queensboro Bridge Outer Roadway?",A,Queens Plaza South,East 85th Street,Franklin Street,6th Avenue
+354,"In the New York area, which road directly reaches West 73rd Street?",A,West 75th Street,West 42nd Street,Taylor Street,31st Avenue
+355,"In the New York area, which road directly reaches Park Avenue Tunnel?",D,West 42nd Street,Queens-Midtown Expressway,Queens Plaza South,Park Avenue
+356,"In the New York area, which road directly reaches Queensboro Bridge Exit?",D,Queens Plaza South,Rockaway Boulevard,2nd Avenue,East 61st Street
+357,"In the New York area, which road directly reaches Front Street?",C,Clymer Street,Williamsburg Street East,Hudson Avenue,Sutter Avenue
+358,"In the New York area, which road directly reaches Brooklyn-Queens Expressway East?",C,108th Street,Liberty Avenue,Grand Central Parkway,Union Avenue
+359,"In the New York area, which road directly reaches Boody Street?",D,North Conduit Avenue,1st Avenue Tunnel,68th Street,Astoria Boulevard South
+360,"In the New York area, which road directly reaches Whitestone Expressway?",D,Malba Drive,Queens-Midtown Expressway,41st Avenue,Astoria Boulevard
+361,"In the New York area, which road directly reaches Van Wyck Expressway?",D,McGuinness Boulevard South,East 106th Street,East 79th Street,Whitestone Expressway
+362,"In the New York area, which road directly reaches Williamsburg Bridge?",A,Brooklyn-Queens Expressway,39th Avenue,Columbus Circle,East 73rd Street
+363,"In the New York area, which road directly reaches Brooklyn-Queens Expressway?",D,Jamaica Avenue,Wallabout Street,Meeker Avenue,Williamsburg Bridge
+364,"In the New York area, which road cannot directly reach Columbus Circle?",B,Broadway,Hunters Point Avenue,8th Avenue,Central Park South
+365,"In the New York area, which road directly reaches 63rd Avenue?",C,Vermont Place,East 24th Street,Queens Boulevard,Astoria Boulevard South
+366,"In the New York area, which road directly reaches Malba Drive?",D,East 73rd Street,Central Road,East 20th Street,Whitestone Expressway Service Road

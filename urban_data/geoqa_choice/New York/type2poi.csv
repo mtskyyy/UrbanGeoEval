@@ -1,0 +1,140 @@
+id,question,answer,A,B,C,D,E
+0,Which POI belongs to type: fast_food?,E,Bushwick Ice House,Di Di Dumpling,Grand Central Atelier,The Grand 35th Avenue Diner,The Halal Guys
+1,Which POI belongs to type: school?,E,Planet Wings,7 Grain Army,Chipotle,Northwell Health Physician Partners,Twelfth Street Academy
+2,Which POI belongs to type: park?,C,Golden Palace Gourmet,The Church of Jesus Christ of Latter-day Saints,Seventieth Street Playground,Mee,Magic Chef
+3,Which POI belongs to type: university?,A,NYU School of Medicine,Martha's Pastries & Cafe,Vite Vinosteria,USPS,David's Check Cashing
+4,Which POI belongs to type: college?,B,Starbucks,Stern College Yeshiva University,Link NYC,al di la Trattoria,Brooklyn Adult Learning Center
+5,Which POI belongs to type: hospital?,B,Biddy's Pub,MRHS Primary Care,Maspeth Station Flushing Post Office,Golden Krust,Tutto Mia Pizza
+6,Which POI belongs to type: place_of_worship?,D,Woori America Bank,Grand Army Plaza Greenmarket,Mea Pharmacy,Mount holy Apostolic Church,tasti D-lite
+7,Which POI belongs to type: post_office?,D,Gowanus Fridge,Il Bambino,La Pizza Italia,United States Post Office,Caracas Arepa Bar
+8,Which POI belongs to type: clinic?,D,Blue-Park Kitchen,Family Health Care,Sonic,Yom's Sunnyside Accupuncture,Salsa Salsa Dance Studio
+9,Which POI belongs to type: research_institute?,E,Luthun,Medical Office,Subway,B-Side,Skirball Institute of Biomolecular Medicine
+10,Which POI belongs to type: restaurant?,C,Pinkberry,TD Bank,Miss Favela,David's Check Cashing,Equity Park
+11,Which POI belongs to type: grave_yard?,D,Papa John's,Bryant Park Public Restroom,The Bearded Lady,Wyckoff-Snediker Cemetery,CityMD
+12,Which POI belongs to type: playground?,B,Modern MD Urgent Care,The Continental Park playground,Ros Niyom Thai,Perk Kafe,Citi Bike - 8 St & Astoria Bl
+13,Which POI belongs to type: arts_centre?,D,Freddie & Peppers,Starbucks,Bareburger,e-flux,New York Institute of Technology
+14,Which POI belongs to type: events_venue?,E,Church of God,Lim's Kitchen,Café Metro,Amali,Cadillac Experience
+15,Which POI belongs to type: cinema?,C,Morton Williams Cafe,Omakase 33,Museum of Modern Art (MoMA) films,d,Kum Kau
+16,Which POI belongs to type: community_centre?,C,Crescent Kitchen,Daddy Greens,Brooklyn Community Pride Center,Sabrosura Latina,Spiritual Healer & Advisor
+17,Which POI belongs to type: fire_station?,E,Midtown Dental Group,Pret A Manger,Bagels & More,Cafe 53,FDNY E 305 L151
+18,Which POI belongs to type: library?,C,MyGym,Inner Enlightenment Spiritist Society,"New York Public Library for the Performing Arts, Dorothy and Lewis B. Cullman Center",Altesi,Matrix
+19,Which POI belongs to type: parking?,C,Amber,Jackson House Restaurant,Centerpark West 53rd Street Parking Garage,Zefe's,Jean Claude II
+20,Which POI belongs to type: public?,B,The Ridgewood Room,Unification Church Headquarters,Slope Fitness,Applebee's,Olympia Chemist
+21,Which POI belongs to type: theatre?,D,East Drive Pharmacy,Oonee,Citibank,Merkin Concert Hall,Citi Bike - East 23rd Street & 1st Avenue
+22,Which POI belongs to type: police?,A,Ninety fourth Precinct Police Station,Rumble,Portofino,ReVision Lounge and Gallery,iKlass Tutoring
+23,Which POI belongs to type: townhall?,E,"Advanced Walk In Foot Care, PLLC",Bow Bridge Boat Landing,Angels Cafe,Y7 Studio,Maspeth Town Hall
+24,Which POI belongs to type: dormitory?,E,Weill Cornell Internal Medicine Associates at Wright,La Choza del Gordo,Romeos,Levelscape,Meredith Wilson Residence Hall
+25,Which POI belongs to type: sports_centre?,A,5 Iron Golf,Ralph's Famous,El Pollo Real,Los Carnales,GMC Temaxcal Deli & Grocery
+26,Which POI belongs to type: fitness_centre?,B,Niforo's Coffee Shop,Retro Fitness,Read 718,Sophie’s,Catch n' Chop
+27,Which POI belongs to type: bicycle_rental?,B,Mama's Empanadas,Citi Bike,Georgia Diner,Harry Cipriani,Safta's
+28,Which POI belongs to type: social_facility?,E,Chrissy's Pizza,Elm Roastery,JCC Chabad of LIC,Frank's Trattoria,United Jewish
+29,Which POI belongs to type: cafe?,C,New York Presbyterian,Chef Toribio,Blank Street Coffee,Sabor A Mexico,Masjid al Taufiq
+30,Which POI belongs to type: bar?,B,Dunkin',The Holler,McDonald's,Ceremony224,Archie's Pizza
+31,Which POI belongs to type: amusement_arcade?,A,Wonderville,"Emmanuel Gelin, M.D.",Juicy Lucy,Saidi Dental,Transmitter Brewing
+32,Which POI belongs to type: bank?,D,Bar LunAtico,Yama Ramen,Gong Cha,Capital One,Pharmacy Apteka
+33,Which POI belongs to type: ice_cream?,A,Maya’s Snackbar,SEY Coffee,Chefday,Dubai Hookah Lounge,La Casa del Mariachi
+34,Which POI belongs to type: pharmacy?,C,Starbucks,Green Leaf,Joseph Pharmacy,Van Leeuwen,Brooklyn High Low
+35,Which POI belongs to type: pub?,E,Legends,Forest Hills Podiatry,Rakka,Chase,Alphaville
+36,Which POI belongs to type: garden?,E,Framework,New York Grill and Deli,Yozi Duck Vermicelli Soup,Juice Stop Cafe,Native Flora Garden expansion
+37,Which POI belongs to type: fountain?,B,Napoli Pizza & Pasta,Blashfield Fountain,Piazza,Subway,Brooklyn Prospect Downtown Elementary School
+38,Which POI belongs to type: common?,C,Ditmas Park Pharmacy,Asthma & Allergy,Andrew Heiskell Plaza,Dr. Elina Kats DDS,Walgreens
+39,Which POI belongs to type: bicycle_parking?,A,Bike Rack,Pera,Medi-Space Drugs,Di Di Dumpling,Bagel Boss
+40,Which POI belongs to type: atm?,E,Domino's,Iglesia Pentecostal El Redil,Intermediate School 292,Baker's Dozen Bagels,Bank of America
+41,Which POI belongs to type: car_sharing?,E,Canteen Delicatessen & Cafe,Kazuza,Magnolia Bakery,Dos Caminos,Zipcar
+42,Which POI belongs to type: ferry_terminal?,C,Da Capo,Ltauha Restaurant,East 90th Street Ferry Terminal,Van Leeuwen,Citi Bike
+43,Which POI belongs to type: drinking_water?,C,Athen's Grill and Restaurant,Evergreen Baptist Church,East 20th Street,Da Mikelle II,Trestle
+44,Which POI belongs to type: kindergarten?,B,taïm mediterranean kitchen,Changing Tomorrow Academy,Fat Goose,Citi Bike - Kent Ave & S 11 St,Rakka
+45,Which POI belongs to type: driving_school?,B,DiWine Bar & Restaurant,One Way Driving LLC,Citi Bike - Broadway / Roebling St,New York Engine Company 229,Suredrugs Pharmacy
+46,Which POI belongs to type: garage?,B,Redbox,Belmont Garage,USPS Post Box,Persepolis,Stern Auditorium
+47,Which POI belongs to type: biergarten?,E,NYPD Tow Pound,Castro's,sLICe,Hiroto,Brooklyn Beergarden
+48,Which POI belongs to type: studio?,B,Havana Central,Bayo Studios,Barzola,Citi Bike - 21 St / 34 Av,Animal Medical Center
+49,Which POI belongs to type: car_rental?,A,Budget Truck Rental,Mooney's Public House,Bar Dalia,The Infamous,Eve & Mike Pharmacy
+50,Which POI belongs to type: prep_school?,E,M&T Bank,Bank of America,Pilates House,Saint Matthias Roman Catholic Church,GMAT & GRE Math Tutor
+51,Which POI belongs to type: fuel?,B,Friends of Crown Heights Educational Center,Conoco,CVS Pharmacy,Prince Ali Juice Bar & Grill,Park Slope Sunday Farmers Market
+52,Which POI belongs to type: parking_entrance?,D,Manhattan Schoolhouse,Billares Sol Y Luna,Congregation of Georgian Jews,Rapid Park,Mount Sinai Pharmacy on Madison
+53,Which POI belongs to type: hackerspace?,E,Krazy Chicken & Pizza,Sunoco,La Villa Café,Cachapas y Mas,Levelscape
+54,Which POI belongs to type: dance?,B,Just Salad,Martha's Dance Center,Citi Bike - Roebling Street & North 4th Street,Bin 71,TD Bank
+55,Which POI belongs to type: slipway?,A,Bank Rock Boat Landing,Equinox,Soccer Stars,City Diner,Nevins Drugs
+56,Which POI belongs to type: dentist?,A,Park Smiles NYC,Citi Bike - Broadway & West 55th Street,Domino's,Mayday Space,Land to Sea
+57,Which POI belongs to type: marketplace?,E,Citi Bike - 104th Street & 38th Avenue,Citi Bike - Grand Street / Henry Street,Bridges MS915,Morton Williams Cafe,Best Fish Market
+58,Which POI belongs to type: indoor_play?,E,The Brew Inn,National Bank of Kuwait,La Vera Pizzeria,Zabar's Cafe,My Gym
+59,Which POI belongs to type: childcare?,E,Dr. Fernando Mariz,Honeycomb,DiNapoli,Secondary School for Law,I Kidz Daycare
+60,Which POI belongs to type: recreation_ground?,D,USPS,Boulevard Animal Clinic,Shogun Sushi,East River Fields,Gregorys Coffee
+61,Which POI belongs to type: taxi?,E,Amor y Amargo,Smashburger,Kikoo,White Castle,International Car Service
+62,Which POI belongs to type: doctors?,C,Evangelistic Church of Our Lord,Teriyaki One,New Age Radiology,La Pequeña,The Spotted Dog
+63,Which POI belongs to type: sauna?,B,The Dermatology Specialists,East Side Club,Forest Hills Medical Services,Panorama Bar,Melody's Piano Bar
+64,Which POI belongs to type: coworking_space?,A,Framework,"Larisa Litvinova, MD",Griddle Cafe & Deli,Tuscany Steakhouse,USPS
+65,Which POI belongs to type: money_transfer?,A,Western Union,African Pride Restaurant,Gregorys Coffee,USPS,Metropolitan Recreation Center
+66,Which POI belongs to type: nightclub?,E,Bagel Express III,Applebee's,Sharlene's Bar,Esciela Hispana Montessori,Kazuza
+67,Which POI belongs to type: veterinary?,E,Baruch Performing Arts Center,Blum Eye Center,Felix Roasting Co.,Hamilton Fish Park Library,The Animal Clinic of new York
+68,Which POI belongs to type: fortune_teller?,E,Dino's Pizza & Pasta,Sing Sing,Cozy Corner,Len3a,Williamsburg Psychic Visions & Life Coach
+69,Which POI belongs to type: public_bookcase?,B,Gracie's Diner,Grammy's Book Nook,E-Chiban,McFadden's Citi Field,Citi Bike - Broadway & West 58th Street
+70,Which POI belongs to type: dojo?,C,Tandoori Hut,Bank of America,Legacy Martial Arts,Jake's Dilemma,Starbucks
+71,Which POI belongs to type: post_box?,B,Saravanaa Bhavan,USPS,Common Country,Italian Village Pizzeria & Restaurant,Capital One
+72,Which POI belongs to type: residential?,E,Kimgane,Apteka Pharmacy,Tío Pio,Sterling National Bank,Faculty House
+73,Which POI belongs to type: animal_boarding?,D,USPS,Western Union,La Chula,Pet Super Nanny,Milo's Yard
+74,Which POI belongs to type: food_court?,A,Cibo Express Food Hall,Miyama,Park Slope Pediatric Dental,Milk & Pull,#1 Natural Juice Bar
+75,Which POI belongs to type: residential?,C,Dr. Liliya Etkina,Gourmet Garden 8,30 Lincoln Plaza Condominium,Kirby Forensic Psychiatric Center,Daughter
+76,Which POI belongs to type: university?,D,Cafe Moca,Skytown,The Smith,Joseph A. Martino Hall,Panorama Bar
+77,Which POI belongs to type: clear?,B,Family Pharmacy,Turtle Bay Cleaners,Mela Pizza,Psychic Reading by Sophia,Church of Park Slope
+78,Which POI belongs to type: stripclub?,A,Sapphire 39,Iglesia Filidelfia,Duane Reade,Pure Paws,Tokogawa
+79,Which POI belongs to type: training?,A,Fred Astare Dancing Studio,Mount Sinai Doctors - Williamsburg,Royal 35 Steakhouse,United States Post Office,Starbucks
+80,Which POI belongs to type: animal_shelter?,D,Gentle Dental Care,California Pizza Kitchen,Mama Pisco Kitchen,Wild Bird Fund,Club Cumming
+81,Which POI belongs to type: warehouse?,B,Yuka Japanese,Amina Foods Wholesale,Bank of America,Centerpark West 58th Parking Garage,Papa John's
+82,Which POI belongs to type: toilets?,D,Green Leaf,MS 935,Conmigo,Tavern on the Green public restrooms,Northwell Health-GoHealth Urgent Care
+83,Which POI belongs to type: car_wash?,B,The Yard,On the Spot,Bunk Sandwiches,Acre,Virgil's Real BBQ
+84,Which POI belongs to type: social_centre?,D,NewYork-Presbyterian Brooklyn Medical Pavilion,Hala Coffee & Kitchen,Advanced Dental Concepts,Knights of Columbus,Dai Hachi Sushi
+85,Which POI belongs to type: music_school?,D,Samaria Pizza,D.O.C. Wine Bar,Cruz del Sur,Real Brave,Citi Bike - Stanhope St / Fairview Av
+86,Which POI belongs to type: karaoke_box?,B,Park Dental,Muse Home Theatre,Yours Sincerely,Redwood Deli,All Saints High School
+87,Which POI belongs to type: store?,B,Yakitori Totto,Stop & Go Mini Mart Co.,United States Post Office,Teriyaki One,16 Handles
+88,Which POI belongs to type: school?,E,Juliette Restaurant,Saltwater Coffee,Citi Bike - Frost St & Meeker St,El Fogon,The Caedmon School
+89,Which POI belongs to type: kindergarten?,E,Citi Bike,Citgo,Renaisance Home Health Care,Stage 15,Day care
+90,Which POI belongs to type: clock?,E,Court Square Park Fountain,Grammy's Book Nook,Grey's Gym,Secret Pour,Time Sculpture
+91,Which POI belongs to type: shelter?,C,Tarros Bar,Yereim Orthodox Chapel,gazebo,NR,Barry's
+92,Which POI belongs to type: miniature_golf?,A,Putting Green,P.S. 243K The Weeksville School,"Dr. Constance Jose, DDS",The Message,Take31
+93,Which POI belongs to type: parcel_locker?,A,Amazon Hub Locker,USPS,A&R Events,Daughter Coffee,United States Post Office
+94,Which POI belongs to type: ice_rink?,E,Chick-fil-A,Citi Bike - Broadway / 12 St,Barcklays Pizza & Pasta,Café Aliada,The Rink
+95,Which POI belongs to type: dog_park?,D,Bank of America,Botte di Vino,Cotton Bean,Bugsy’s Dog Run,Rita & Maria
+96,Which POI belongs to type: adult_gaming_center?,C,Pata Cafe,The Dawson 39,Resorts World Casino NYC,The Graham,Mission Ceviche
+97,Which POI belongs to type: bench?,C,Discovery PitStop,Manor Oktoberfest,Jan Karski's Bench,Sunflower Academy,Win Son Bakery
+98,Which POI belongs to type: bowling_alley?,A,The Gutter,Kaiff,Ridgewood Savings Bank,Yoga Agora,ProHEALTH Urgent Care
+99,Which POI belongs to type: boat_rental?,D,Mockingbird,Subway,Delicias Caleñas,Skyline Princess,New Age Radiology
+100,Which POI belongs to type: fitness_station?,C,Evalyn's Tap House,Coffee & Social Club,The Yoga Room,SEY Coffee,The Turkey's Nest
+101,Which POI belongs to type: planetarium?,B,F45 Training,Hayden Planetarium,Café 52,ZLS BBQ,Burek Pizza
+102,Which POI belongs to type: music_venue?,D,Habana Outpost,Korean Street Foods,Glin Thai Bistro,Studio 151,"Advanced Walk In Foot Care, PLLC"
+103,Which POI belongs to type: telephone?,B,On the Spot,Link NYC,New Apollo,Andrea's Chicken,Ninetieth Precinct Police Station
+104,Which POI belongs to type: vending_machine?,A,KeyMe,69 Bar,Bunton's World Famous,Citi Bike,Scholar's Residence
+105,Which POI belongs to type: hookah_lounge?,C,Lucy's Vietnamese,Wingstop,Layali Dubai,Hala Coffee & Kitchen,Wendy's
+106,Which POI belongs to type: animal_keeping?,A,American Animal Hospital,Matto Espresso,Bontree,San Loco,Subway
+107,Which POI belongs to type: meditation_centre?,C,Irish Whiskey Bar,Dime Bank,Transcendental Meditation,Le Pain Quotidien,Dunkin'
+108,Which POI belongs to type: music?,B,Moore Jackson Community Garden,The Footlight Bar,cafe un deux trois,Subway,Alligator Lounge
+109,Which POI belongs to type: language_school?,D,Northwell Health Physician Partners,Citi Bike,Mansions,Juguemos a Cantar,Soft Swerve
+110,Which POI belongs to type: vehicle_inspection?,B,Mr. Wish,NYS Inspection,Graziella's,Yeshiva Bnos Ahavas Israel,Rossi Pizzeria
+111,Which POI belongs to type: charging_station?,A,ChargePoint,Iglesia Cristiano,Da Francesco,Hungry Ghost,Cardiology Consultants of New York
+112,Which POI belongs to type: recycling?,D,Juice Press,Lower East Side People's Federal Credit Union,The Café @ Cornell Tech,The Environmental Recycling,Jacob's Pickles
+113,Which POI belongs to type: escape_game?,A,The Escape Game New York City,Lulu's Pizza,Bentos,The Sweatshop,FedEx
+114,Which POI belongs to type: karaoke?,E,Carneval,Wangs,HOTYOGA4YOU,Brooklyn Game Lab,Radio Star Karakoe
+115,Which POI belongs to type: cafe;bar?,C,Little Free Library,Pollas A La Brasa Mr. Mario,Book Club,Mirakuya,Gotham Pizza
+116,Which POI belongs to type: dojo?,E,Espresso 77,Pacific Indian Cuisine,USPS,pán,Little Tigers Martial Arts
+117,Which POI belongs to type: radio station?,C,Intermediate School 347,Saint Johns Evangelical Lutheran School,Newtown Radio,Alamo Drafthouse Cinema,Methal Dental Arts
+118,Which POI belongs to type: social_club?,A,Kamway Lodge,Park Slope Collegiate,Hiramasa,Happy Kitchen,TD Bank
+119,Which POI belongs to type: conference_centre?,C,Kissaki Sushi,Med RX Pharmacy,Verizon Executive Education Center,Mr. Wish,Pikliz Cafe & Lounge
+120,Which POI belongs to type: dancing_school?,A,Tutu School,Bellucci's Pizzeria,Faculty House,Misipasta,Dae Dae
+121,Which POI belongs to type: food_sharing?,D,The Cetli House,Sushi D,Citi Bike,Community Fridge,The Nest Fine Desserts
+122,Which POI belongs to type: outdoor_seating?,E,Dunkin' Donuts,Public School 108,Blink Fitness,Lutheran Church of the Ascension,Cafe Terrace
+123,Which POI belongs to type: apartments?,E,City Polytechnic High School,"Babu S. Bangaru, MD",Sunswick,Hi-Tek Car Wash,1 Central Park
+124,Which POI belongs to type: give_box?,C,Trestle,Ferox Fit,NBK Little Gallery,Carmine & Sons Pizzeria & Sports Bar,Häagen-Dazs
+125,Which POI belongs to type: bureau_de_change?,E,Dunkin',Chipotle,Martha's Dance Center,Joypot,Gold & Silver Enterprise
+126,Which POI belongs to type: swimming_pool?,C,Joey's Pizza,Green Leaf's,Metropolitan Pool,Buca di Beppo,Force Fitness
+127,Which POI belongs to type: makerspace?,D,USPS,The Shannon Pot,Chase,The Factory NYC,Paris Baguette
+128,Which POI belongs to type: retail?,A,Magnolia Bakery,Gerry's Place,Western Union,Citi Bike - Graham Ave & Herbert St,Eavesdrop
+129,Which POI belongs to type: pitch?,E,Dun Huang,Stephanie Khan,Cooke School and Institute Lower School,Cup of Brooklyn,Padel Haus
+130,Which POI belongs to type: prison?,A,Brooklyn House Residential Reentry Center,Ave Coffee House,Astoria Provisions,Bishop Memorial Mission,Tarallucci e Vino
+131,Which POI belongs to type: lounge?,B,Polonsky Shakespeare Center,Delta Sky Club,The Esters,Citi Bike,UN Visitors Café
+132,Which POI belongs to type: sports_hall?,E,Citi Bike - 31 Av / 30 St,McDonald's,Fidelity Physical Therapy & Rehabilitation Center,Pat LaFrieda Meat Co,The Baseball Center NYC
+133,Which POI belongs to type: fixme?,C,Spicy Lanka,Kaijitsu,Los Dorados,Jaguar Café Bistro Bar,Ocean Fish Market
+134,Which POI belongs to type: wifi;telephone;device_charging_station?,E,Joe and John's Pizzeria,Federici,Nostrand Coffee Roasters,Chelsea Bagel & Pizzeria,LinkNYC
+135,Which POI belongs to type: monastery?,B,Platinum Plus Cafe,St. Catherine of Siena Priory,Sandwich Girl,THEP,Corner Bistro
+136,Which POI belongs to type: industrial?,B,Ninth Street Espresso,Hugo Neu Schnitzer,Tisch Center for Women's Health,Naruto Ramen,Wing Wagon
+137,Which POI belongs to type: payment_centre?,A,CFSC Checks Cashed,Amazing Smile Dental,Dar 525,Shell,Beer Street South
+138,Which POI belongs to type: part?,D,Le Pain Quotidien,Subway,India Street/Greenpoint,Ned Doyle Wing,Ajisai

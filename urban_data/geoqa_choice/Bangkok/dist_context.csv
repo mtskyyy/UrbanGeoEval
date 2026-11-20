@@ -1,0 +1,1405 @@
+,A,answer,B,C,D,question
+0,3.06,A,5.9,10.26,1.5,"What is the straight-line distance between the following two locations? (Unit is km)
+1. สุกี้เจหรูยี่. Detailed address: ซอยพระยาสิงหเสนี, ชุมชนตรอกสลักหิน, แขวงรองเมือง, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. Cowboy 883 Sushi. Detailed address: ถนนสวนพลู, สวนพลู, แขวงทุ่งมหาเมฆ, เขตสาทร, กรุงเทพมหานคร, 10120, ประเทศไทย"
+1,8.84,D,2.15,3.94,6.76,"What is the straight-line distance between the following two locations? (Unit is km)
+1. พวงแก้ว. Detailed address: ซอยสุขุมวิท 27, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Mama Restaurant. Detailed address: ถนนจักรเพชร, พาหุรัด, แขวงวังบูรพาภิรมย์, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+2,5.07,C,5.05,7.0,11.16,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ไปรษณีย์ไทย. Detailed address: ถนนจรัญสนิทวงศ์, แขวงวัดท่าพระ, เขตบางกอกใหญ่, กรุงเทพมหานคร, 10600, ประเทศไทย
+2. โครงการไทยนิยมมั่งคง. Detailed address: ถนนสุพรรณ, ชุมชนซอยโซดา, แขวงดุสิต, เขตดุสิต, กรุงเทพมหานคร, 10300, ประเทศไทย"
+3,3.44,A,0.86,9.23,11.24,"What is the straight-line distance between the following two locations? (Unit is km)
+1. พิโก ควิกแคช. Detailed address: ซอยลูกหลวง 13, แขวงดุสิต, เขตดุสิต, กรุงเทพมหานคร, 10300, ประเทศไทย
+2. Grande Centre Point Chinatown. Detailed address: ถนนทรงสวัสดิ์, โอเดียน, แขวงสัมพันธวงศ์, เขตสัมพันธวงศ์, กรุงเทพมหานคร, 10100, ประเทศไทย"
+4,7.06,B,5.31,12.87,7.48,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Trust dental clinic. Detailed address: ถนนพหลโยธิน, รัชโยธิน, แขวงจตุจักร, เขตจตุจักร, กรุงเทพมหานคร, 10900, ประเทศไทย
+2. Coconut Bar. Detailed address: ซอยประชาอุทิศ 15, แขวงสามเสนนอก, เขตห้วยขวาง, กรุงเทพมหานคร, 10310, ประเทศไทย"
+5,7.6,D,9.3,6.67,4.95,"What is the straight-line distance between the following two locations? (Unit is km)
+1. All About Coco Homemade Ice Cream. Detailed address: เกาะพหลโยธิน, แขวงทุ่งพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. ศูนย์สร้างสรรค์งานออกแบบ. Detailed address: 1160, ถนนเจริญกรุง, ห้างนายเลิศ, แขวงบางรัก, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+6,3.75,D,13.3,9.39,5.48,"What is the straight-line distance between the following two locations? (Unit is km)
+1. สตาร์บัคส์. Detailed address: 693-695, ถนนสุขุมวิท, The Em District, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Heaven Sauna. Detailed address: 119, ถนนมเหสักข์, ปราโมทย์, แขวงสุริยวงศ์, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+7,2.34,C,11.93,8.0,3.66,"What is the straight-line distance between the following two locations? (Unit is km)
+1. สำนักงานใหญ่บริษัทปูนซิเมนต์ไทย จำกัด (มหาชน). Detailed address: ถนนกรุงเทพอภิวัฒน์, แขวงจตุจักร, เขตจตุจักร, กรุงเทพมหานคร, 10900, ประเทศไทย
+2. ซุ้มประตูเฉลิมพระเกียรติ 6 รอบพระชนมพรรษา. Detailed address: ถนนเยาวราช, โอเดียน, แขวงสัมพันธวงศ์, เขตสัมพันธวงศ์, กรุงเทพมหานคร, 10100, ประเทศไทย"
+8,10.57,C,11.14,5.22,6.76,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Music Sciety. Detailed address: ถนนพญาไท, ชุมชนซอยสมประสงค์ 5, แขวงถนนเพชรบุรี, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. แซ่บ แอนด์ ซีฟู้ด. Detailed address: ที.ที.เอ็น อเวนิว, แขวงช่องนนทรี, เขตยานนาวา, กรุงเทพมหานคร, 10120, ประเทศไทย"
+9,5.14,C,6.65,0.78,5.78,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Radisson Suites. Detailed address: ซอยสุขุมวิท 13, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Jaspal's Residential II. Detailed address: The Local, 32-32/1, ซอยสุขุมวิท 23, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+10,0.75,B,5.73,10.08,9.81,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gecko. Detailed address: ซอยรามบุตรี, พระอาทิตย์, แขวงชนะสงคราม, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. Kinza Gyoza. Detailed address: 2, ถนนสีลม, ศาลาแดง, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+11,1.23,A,3.79,7.66,4.87,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ข้าวมันไก่ตอน. Detailed address: ซอยสุขุมวิท 4, สมาหาร, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. สะพานวิทยุ. Detailed address: ถนนวิทยุ, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+12,3.51,D,6.17,0.66,1.74,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Spark Hotel. Detailed address: 599, ซอยไผ่สิงห์โต, ชุมชนเจริญสุข, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. นิดา แมนชั่น. Detailed address: 39, ซอยพร้อมจิต แยก 2, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+13,8.16,C,10.53,2.77,7.12,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Yakthai Cafe. Detailed address: ถนนเฟื่องนคร, ชุมชนตรอกวิสูตร, แขวงวัดราชบพิธ, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. Salad Pla. Detailed address: ซอยสามเสน 12, แขวงดุสิต, เขตดุสิต, กรุงเทพมหานคร, 10300, ประเทศไทย"
+14,7.14,C,2.59,4.68,0.66,"What is the straight-line distance between the following two locations? (Unit is km)
+1. travel clinic. Detailed address: ซอยราชวิถี 15, ชุมชนซอยสวนเงิน, แขวงทุ่งพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. Siam Wisdom. Detailed address: ซอยสุขุมวิท 31 แยก 4, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+15,7.08,B,1.38,4.95,5.72,"What is the straight-line distance between the following two locations? (Unit is km)
+1. กัญ เฮ้าส์. Detailed address: ซอยสุขุมวิท 53/1, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. ACMEN EKAMAI Complex. Detailed address: Torisawa22, 267/16, ซอยเอกมัย 13, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+16,9.06,D,12.59,12.37,6.02,"What is the straight-line distance between the following two locations? (Unit is km)
+1. วันเวลา ณ เจ้าพระยา. Detailed address: ซอยสามเสน 21, ชุมชนราชพัสดุ, แขวงถนนนครไชยศรี, เขตดุสิต, กรุงเทพมหานคร, 10300, ประเทศไทย
+2. มหาวงษ์เหนือ. Detailed address: 594/45, ซอยมหาวงษ์เหนือ, แขวงดินแดง, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย"
+17,2.48,D,10.95,2.23,5.58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. อี้จาสุกี้หม่าล่า. Detailed address: ถนนประดิพัทธ์, สะพานควาย, แขวงพญาไท, เขตพญาไท, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. JiM's Burger - Burgers and Beers -. Detailed address: ถนนกรุงเกษม, ยศเส, แขวงวัดเทพศิรินทร์, เขตป้อมปราบศัตรูพ่าย, กรุงเทพมหานคร, 10100, ประเทศไทย"
+18,12.29,B,9.15,2.72,15.35,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ทำเนียบเอกอัครราชทูตสหรัฐอเมริกา. Detailed address: 108, ถนนวิทยุ, วิทยุ, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. หมู่บ้านสินชัย. Detailed address: แขวงบางขุนศรี, เขตบางกอกน้อย, กรุงเทพมหานคร, 10700, ประเทศไทย"
+19,9.69,A,12.77,5.06,12.5,"What is the straight-line distance between the following two locations? (Unit is km)
+1. iki haus. Detailed address: ถนนสุขุมวิท 71, แขวงพระโขนงเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 12060, ประเทศไทย
+2. Lee Jae Veg. Detailed address: ซอยเจริญกรุง 14, เยาวราช, แขวงสัมพันธวงศ์, เขตสัมพันธวงศ์, กรุงเทพมหานคร, 10100, ประเทศไทย"
+20,4.3,B,8.27,2.53,3.59,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gypsy's Lips. Detailed address: ซอยรามบุตรี, พระอาทิตย์, แขวงชนะสงคราม, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. Dubai Restaurant. Detailed address: 1, ซอยสุขุมวิท 22, สุขุมวิท, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+21,5.17,B,1.22,7.61,8.25,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cowboy 883 Sushi. Detailed address: ถนนสวนพลู, สวนพลู, แขวงทุ่งมหาเมฆ, เขตสาทร, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. Maison du Vin. Detailed address: ถนนนราธิวาสราชนครินทร์, ละลายทรัพย์, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+22,3.18,B,5.45,2.29,8.75,"What is the straight-line distance between the following two locations? (Unit is km)
+1. บังเอิญ! อร่อย โรตีสายไหม อนุสาวรีย์ชัยฯ. Detailed address: เกาะพหลโยธิน, แขวงทุ่งพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. บางจาก. Detailed address: ซอยสุขุมวิท 26, แขวงคลองตัน, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+23,4.86,B,8.34,3.52,0.58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. BOB Space. Detailed address: 64/1, เอกมัย ๑๐ แยก 2, แขวงพระโขนงเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Black Canyon. Detailed address: ถนนบำรุงเมือง, ยศเส, แขวงคลองมหานาค, เขตป้อมปราบศัตรูพ่าย, กรุงเทพมหานคร, 10100, ประเทศไทย"
+24,6.08,D,15.29,15.57,8.3,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Zorse. Detailed address: ซอยเมธีนิเวศม์, แขวงคลองตัน, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. The GATE. Detailed address: ซอยประตูนกยูง, ชุมชนท่าเตียน, แขวงพระบรมมหาราชวัง, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+25,9.21,C,7.48,4.64,3.54,"What is the straight-line distance between the following two locations? (Unit is km)
+1. วัวล้วนๆไม่มีควายผสม สาขาอนุสาวรีย์ชัยสมรภูมิ (เกาะพญาไท). Detailed address: Victory Point, เกาะพญาไท, แขวงถนนพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. ไชยแพทย์ 25 คลินิก. Detailed address: 1038/1, ถนนพระรามที่ 4, บ่อนไก่, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10120, ประเทศไทย"
+26,8.21,C,6.41,1.75,0.64,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rawabina Lebanese Food. Detailed address: ซอย 100 ปี สยามสมาคม, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. CrossFit Naga. Detailed address: 19, ซอยต่อศักดิ์ 1, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+27,6.28,C,12.12,4.63,7.06,"What is the straight-line distance between the following two locations? (Unit is km)
+1. อินทามระ. Detailed address: Buddy Place, ถนนประชาสุข, แขวงรัชดาภิเษก, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. Mayfair Suites. Detailed address: Best Western Mayfair Suites, ซอยเพชรบุรี 13, แขวงถนนพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย"
+28,2.32,A,1.12,4.53,1.2,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Neil's Tavern. Detailed address: ซอยร่วมฤดี, ชุมชนซอยร่วมฤดี, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. KTB. Detailed address: ถนนสีลม, ละลายทรัพย์, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+29,4.0,B,0.64,5.66,7.95,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Grand President. Detailed address: ซอยสุขุมวิท 11, ชุมชนรื่นฤดี, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. B.B.Building. Detailed address: Emirates, 54, ถนนอโศกมนตรี, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+30,11.18,B,3.24,0.79,10.38,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Disc and Sip. Detailed address: 251/1, ซอยสุขุมวิท 55, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. McDonald's. Detailed address: ซอยพระราม 9 ซอย 1, แขวงห้วยขวาง, เขตห้วยขวาง, กรุงเทพมหานคร, 10310, ประเทศไทย"
+31,4.56,A,10.56,2.09,11.53,"What is the straight-line distance between the following two locations? (Unit is km)
+1. One Yoga Bangkok. Detailed address: No. 712/1, Unit 503, ถนนสุขุมวิท, แขวงคลองตัน, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Arabica Percentage Empire Tower Bangkok. Detailed address: ถนนนราธิวาสราชนครินทร์, ชุมชนเซ็นหลุยส์ 3, แขวงยานนาวา, เขตสาทร, กรุงเทพมหานคร, 10120, ประเทศไทย"
+32,4.68,B,8.76,12.4,14.22,"What is the straight-line distance between the following two locations? (Unit is km)
+1. วัดกันมาตุยาราม. Detailed address: ซอยเจริญกรุง 14, เยาวราช, แขวงสัมพันธวงศ์, เขตสัมพันธวงศ์, กรุงเทพมหานคร, 10100, ประเทศไทย
+2. 13 Coins Tower. Detailed address: แขวงห้วยขวาง, เขตห้วยขวาง, กรุงเทพมหานคร, 10310, ประเทศไทย"
+33,3.76,B,2.3,3.36,6.52,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ยูโรชิน. Detailed address: 173/3;173/4, ซอยสันติภาพ, สันติภาพ, แขวงสี่พระยา, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. บ้านหลังสวน. Detailed address: Urbana Langsuan, 55, ซอยบ้านหลังสวน, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+34,5.07,B,4.05,0.63,9.66,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ไส้กรอกแม่ไก่. Detailed address: 75, ซอยจุฬาลงกรณ์ 3, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. ธนาคารกรุงเทพ. Detailed address: คณะศิลปศาสตร์, 2, ถนนพระจันทร์, ท่าพระจันทร์, แขวงพระบรมมหาราชวัง, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+35,3.59,A,5.99,5.74,1.97,"What is the straight-line distance between the following two locations? (Unit is km)
+1. คณะเศรษฐศาสตร์. Detailed address: 254, ถนนพญาไท, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. ส้มตำสาวอุบล. Detailed address: ซอยราชวิถี 12, ชุมชนซอยสวนเงิน, แขวงทุ่งพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย"
+36,13.17,D,4.42,1.77,9.7,"What is the straight-line distance between the following two locations? (Unit is km)
+1. แฟลตตำรวจดุสิต. Detailed address: สถานีตำรวจนครบาลดุสิต, ถนนพระรามที่ 5, แขวงสวนจิตรลดา, เขตดุสิต, กรุงเทพมหานคร, 10300, ประเทศไทย
+2. Veritz. Detailed address: ซอยสาธุประดิษฐ์ 34 แยก 3, แขวงบางโพงพาง, เขตยานนาวา, กรุงเทพมหานคร, 10120, ประเทศไทย"
+37,11.21,C,7.57,3.58,5.83,"What is the straight-line distance between the following two locations? (Unit is km)
+1. โรงเรียนวัดทองศาลางาม. Detailed address: ซอยเพชรเกษม 20, แขวงปากคลองภาษีเจริญ, เขตภาษีเจริญ, กรุงเทพมหานคร, 10160, ประเทศไทย
+2. ยอดพิมาน. Detailed address: ริเวอร์วอล์ค, บ้านหม้อ, แขวงวังบูรพาภิรมย์, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+38,7.12,B,5.19,7.44,3.01,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mama Restaurant. Detailed address: ถนนจักรเพชร, พาหุรัด, แขวงวังบูรพาภิรมย์, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. RAMEN OZAWA. Detailed address: Urbanion Soi 5, บ้านกลางเมือง สาทร-ตากสิน, เขตจอมทอง, กรุงเทพมหานคร, 10150, ประเทศไทย"
+39,23.28,C,12.4,15.81,23.33,"What is the straight-line distance between the following two locations? (Unit is km)
+1. โรงเรียนวัดสุวรรณคีรี. Detailed address: ซอยชัยพฤกษ์ 2, ชุมชนริมคลองชักพระ, แขวงคลองชักพระ, เขตตลิ่งชัน, กรุงเทพมหานคร, 10170, ประเทศไทย
+2. หมู่บ้านเบลสทาวน์ สุขุมวิท 50. Detailed address: 662/28, ซอยสุขุมวิท 50, ชุมชนเริ่มเจริญ, แขวงพระโขนง, เขตคลองเตย, กรุงเทพมหานคร, 10260, ประเทศไทย"
+40,4.05,A,1.41,6.87,0.62,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ร้านยากรุงเทพ. Detailed address: 380, ซอยประชาสงเคราะห์ 2, แขวงดินแดง, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. Luca Moto. Detailed address: ซอยทองหล่อ 11, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+41,7.96,C,8.24,2.25,5.92,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Liquid. Detailed address: 27, ซอยศาลาแดง 1, ศาลาแดง, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. วัวล้วนๆ ไม่มีควายผสม สาขาเซ็นทรัลเวิลด์ ชั้น7. Detailed address: 999/9, ถนนราชดำริ, แขวงปทุมวัน, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+42,7.63,B,5.53,0.62,9.41,"What is the straight-line distance between the following two locations? (Unit is km)
+1. วัดใหญ่ศรีสุพรรณ. Detailed address: ซอยวัดใหญ่ศรีสุพรรณ 1, ชุมชนวัดประดิษฐาราม, แขวงหิรัญรูจี, เขตธนบุรี, กรุงเทพมหานคร, 10600, ประเทศไทย
+2. ลานจอดไอด้า. Detailed address: ซอยจันทน์ 43 แยก 26-3, เพชรไผ่เงิน, แขวงบางโคล่, เขตบางคอแหลม, กรุงเทพมหานคร, 10120, ประเทศไทย"
+43,1.9,A,3.74,7.74,4.37,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Yakiniku Torakichi. Detailed address: 982/22, ถนนสุขุมวิท, แขวงพระโขนง, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Hungry Poke. Detailed address: 335, ซอยทองหล่อ 17, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+44,5.78,A,13.12,4.09,2.62,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sushiko. Detailed address: ถนนธนิยะ, แขวงสุริยวงศ์, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. วัวล้วนๆไม่มีควายผสม สาขาหน้า รร.เซนต์คาเบรียล. Detailed address: ถนนสามเสน, ชุมชนวัดราชา, แขวงวชิรพยาบาล, เขตดุสิต, กรุงเทพมหานคร, 10300, ประเทศไทย"
+45,7.0,C,9.4,3.2,9.94,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ฮั่วเซ่งฮง. Detailed address: 79, นครไทย ซอย 22, แขวงช่องนนทรี, เขตยานนาวา, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. Pola Pola. Detailed address: ถนนคอนแวนต์, ชุมชนซอยพิพัฒน์ 2, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+46,8.6,C,8.82,6.3,1.87,"What is the straight-line distance between the following two locations? (Unit is km)
+1. เวลาเวียด. Detailed address: ถนนรัชดาภิเษก, แขวงตลาดพลู, เขตธนบุรี, กรุงเทพมหานคร, 10600, ประเทศไทย
+2. ธนาคารกรุงไทย. Detailed address: ถนนพระรามที่ 1, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+47,12.72,A,10.29,18.92,9.62,"What is the straight-line distance between the following two locations? (Unit is km)
+1. สุสานสมาคมเจียงเจ้อ (เซี่ยงไฮ้). Detailed address: วัดไผ่เงินโชตนาราม, 882, ซอยจันทน์ 43, ชุมชนวัดไผ่เงิน, แขวงบางโคล่, เขตบางคอแหลม, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. SJ Infinite 1. Detailed address: i-Store, ถนนพหลโยธิน, แขวงจตุจักร, เขตจตุจักร, กรุงเทพมหานคร, 10900, ประเทศไทย"
+48,3.63,C,5.32,1.34,3.53,"What is the straight-line distance between the following two locations? (Unit is km)
+1. class cafe. Detailed address: ถนนพระรามที่ 4, แขวงคลองตัน, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. west one. Detailed address: ซอยสุขุมวิท 47, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+49,2.29,D,3.46,0.55,5.46,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cafe Bangrak. Detailed address: ถนนสีลม, ศาลาแดง, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. Pui Restaurant. Detailed address: ตรอกวัดตรีทศเทพ, วิสุทธิกษัตริย์, แขวงบ้านพานถม, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+50,5.17,A,10.85,13.1,6.24,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Move on Ekkamai. Detailed address: ถนนสุขุมวิท, แขวงพระโขนง, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. ดิ โอเรียนทัลช็อป. Detailed address: 1027, ถนนเพลินจิต, ราชประสงค์, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+51,2.86,C,10.63,4.34,9.1,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Red Dragon. Detailed address: ซอยสุขุมวิท 4, สมาหาร, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. เภสัชกรวรวิทย์. Detailed address: ถนนจันทน์, ตรอกจันทน์สะพาน 3, แขวงทุ่งวัดดอน, เขตสาทร, กรุงเทพมหานคร, 10120, ประเทศไทย"
+52,2.85,B,4.47,9.7,0.85,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Maison du Vin. Detailed address: ถนนนราธิวาสราชนครินทร์, ละลายทรัพย์, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. Mint Restaurant. Detailed address: ซอยสุขุมวิท 26, แขวงคลองตัน, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+53,13.99,C,2.62,8.35,2.82,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pet World -  Pet Hospital. Detailed address: ซอยวิภาวดีรังสิต 16, ชุมชนริมคลองบางซื่อ 18, แขวงรัชดาภิเษก, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. ย่างเนย สามย่าน. Detailed address: ซอยจุฬาลงกรณ์ 34, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+54,18.84,C,12.43,11.41,4.07,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Iron Hive. Detailed address: 1022, ถนนสุขุมวิท, ชุมชนภูมิจิตร, แขวงพระโขนง, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. ลูกชิ้นหมูฮีโร่. Detailed address: ถนนลาดพร้าววังหิน, แขวงลาดพร้าว, เขตลาดพร้าว, กรุงเทพมหานคร, 10230, ประเทศไทย"
+55,12.48,B,6.34,11.19,8.91,"What is the straight-line distance between the following two locations? (Unit is km)
+1. สถานีตำรวจนครบาลทองหล่อ. Detailed address: ซอยสุขุมวิท 55, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. สถานีตำรวจนครบาลพญาไท. Detailed address: ถนนศรีอยุธยา, ชุมชนซอยแดงบุหงา, แขวงทุ่งพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย"
+56,6.02,B,4.0,2.73,1.21,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fashion walk. Detailed address: Victory Point, เกาะพญาไท, แขวงถนนพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. Lee La. Detailed address: ถนนบริพัตร, ชุมชนบ้านบาตร, แขวงบ้านบาตร, เขตป้อมปราบศัตรูพ่าย, กรุงเทพมหานคร, 10100, ประเทศไทย"
+57,2.79,D,9.25,5.61,3.97,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Krungthai Bank. Detailed address: ถนนสุขุมวิท, แขวงคลองตัน, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. -273° Coffee. Detailed address: ซอยสีลม 3, ชุมชนซอยพิพัฒน์ 2, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+58,9.56,C,8.36,3.98,2.4,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Amritsr Restaurant. Detailed address: ซอยสุขุมวิท 22, สุขุมวิท, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. School Coffee X Warm Batch Roasters. Detailed address: ถนนนราธิวาสราชนครินทร์, ละลายทรัพย์, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+59,3.99,C,6.31,2.18,6.67,"What is the straight-line distance between the following two locations? (Unit is km)
+1. นานาชาติ. Detailed address: ซอยสุขุมวิท 15, ชุมชนรื่นฤดี, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. กัสส์แดมน์กู้ด. Detailed address: 999/9, ถนนราชดำริ, แขวงปทุมวัน, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+60,5.38,C,9.48,6.97,0.79,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kaarom Speciality Coffee. Detailed address: ถนนหลัก, แขวงจตุจักร, เขตจตุจักร, กรุงเทพมหานคร, 10900, ประเทศไทย
+2. Sushi Express. Detailed address: ถนนพระสุเมรุ, แขวงตลาดยอด, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+61,5.15,A,3.91,11.51,3.46,"What is the straight-line distance between the following two locations? (Unit is km)
+1. วิลาศ. Detailed address: ถนนนราธิวาสราชนครินทร์, ละลายทรัพย์, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. Roof Bar. Detailed address: ถนนข้าวสาร, แขวงตลาดยอด, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+62,1.72,A,2.77,9.69,9.67,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dance Synergy. Detailed address: ซอยหลังสวน, หลังสวน, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. Inthanin Coffee. Detailed address: 254, ถนนพญาไท, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+63,0.61,A,8.03,2.85,5.55,"What is the straight-line distance between the following two locations? (Unit is km)
+1. west one. Detailed address: ซอยสุขุมวิท 47, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. สตาร์บัคส์. Detailed address: 693-695, ถนนสุขุมวิท, The Em District, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+64,5.33,A,8.89,11.01,12.7,"What is the straight-line distance between the following two locations? (Unit is km)
+1. เภสัชกรวรวิทย์. Detailed address: ถนนจันทน์, ตรอกจันทน์สะพาน 3, แขวงทุ่งวัดดอน, เขตสาทร, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. นานาชาติ. Detailed address: ซอยสุขุมวิท 15, ชุมชนรื่นฤดี, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+65,12.28,C,3.58,10.45,14.27,"What is the straight-line distance between the following two locations? (Unit is km)
+1. SJ Infinite 1. Detailed address: i-Store, ถนนพหลโยธิน, แขวงจตุจักร, เขตจตุจักร, กรุงเทพมหานคร, 10900, ประเทศไทย
+2. Sathon Plus. Detailed address: ถนนเย็นอากาศ, ประสาทสุข, แขวงช่องนนทรี, เขตยานนาวา, กรุงเทพมหานคร, 10120, ประเทศไทย"
+66,4.09,A,9.0,6.6,10.43,"What is the straight-line distance between the following two locations? (Unit is km)
+1. สถาบันสุขภาพเด็กแห่งชาติมหาราชินี. Detailed address: ซอยราชวิถี 18, ชุมชนซอยสวนเงิน, แขวงทุ่งพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. ยูโรชิน. Detailed address: 173/3;173/4, ซอยสันติภาพ, สันติภาพ, แขวงสี่พระยา, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+67,6.43,B,3.08,0.84,10.65,"What is the straight-line distance between the following two locations? (Unit is km)
+1. SuperRich BTS (Asok). Detailed address: ถนนสุขุมวิท, สมาหาร, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. คณะเศรษฐศาสตร์. Detailed address: 254, ถนนพญาไท, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+68,1.14,C,5.3,3.86,2.77,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Took Lae Dee. Detailed address: ซอยสุขุมวิท 16, ชุมชนเจริญสุข, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. ปราณี กาแฟสด. Detailed address: ตรอกขุนนาวา, ซอยสว่าง, แขวงมหาพฤฒาราม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+69,8.53,B,5.03,6.74,10.24,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ตลาดบางรัก. Detailed address: ซอยเจริญกรุง 46, แขวงบางรัก, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. Villa Market. Detailed address: ซอยสุขุมวิท 11, ชุมชนรื่นฤดี, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+70,7.68,A,9.13,5.65,8.99,"What is the straight-line distance between the following two locations? (Unit is km)
+1. โกบ๊อ To Go. Detailed address: 254, ถนนพญาไท, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. วิเศษไก่ย่าง. Detailed address: ถนนประชาราษฎร์ สาย 1, ชุมชนเชิงสะพานพิบูลสงครามฝั่งซ้าย, แขวงบางซื่อ, เขตบางซื่อ, กรุงเทพมหานคร, 10800, ประเทศไทย"
+71,14.68,C,13.9,7.94,0.78,"What is the straight-line distance between the following two locations? (Unit is km)
+1. IAMSRT Food Court. Detailed address: 17, ถนนพระรามที่ 1, ชุมชนชาวชูชีพ, แขวงรองเมือง, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. Sub-Zero Co-operative Sukhumvit-Ekkamai. Detailed address: 1239, ถนนสุขุมวิท, แขวงพระโขนง, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+72,11.9,D,13.23,4.4,5.63,"What is the straight-line distance between the following two locations? (Unit is km)
+1. dds clinic. Detailed address: ซอยสุขุมวิท 42, ชุมชนริมคลองพระโขนง, แขวงพระโขนง, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Watsons. Detailed address: 79, ถนนรัชดาภิเษก, ชุมชนซอยวารี, แขวงช่องนนทรี, เขตยานนาวา, กรุงเทพมหานคร, 10120, ประเทศไทย"
+73,2.03,A,5.52,3.42,5.31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Grand Dental Clinic. Detailed address: ซอยสุขุมวิท 3, ชุมชนรื่นฤดี, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. ครัวอัปษร. Detailed address: ถนนพระรามที่ 4, บ่อนไก่, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+74,7.44,D,5.58,9.13,2.32,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kinza Gyoza. Detailed address: 2, ถนนสีลม, ศาลาแดง, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. jok prince. Detailed address: 1391, ถนนเจริญกรุง, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+75,1.74,C,5.45,4.38,3.14,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Paradox Bangkok Sukhumvit. Detailed address: 4, ซอยสุขุมวิท 15, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. สถานีไฟฟ้าสี่พระยา. Detailed address: ถนนสว่าง, ซอยสว่าง, แขวงมหาพฤฒาราม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+76,4.0,A,5.23,8.99,2.33,"What is the straight-line distance between the following two locations? (Unit is km)
+1. จ.เจริญเภสัช. Detailed address: 240, ถนนกรุงเกษม, แขวงบางขุนพรหม, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. ภาณุวิลล่า. Detailed address: ถนนภาณุวิลล่า 2, แขวงบางบำหรุ, เขตบางพลัด, กรุงเทพมหานคร, 10700, ประเทศไทย"
+77,0.77,C,11.67,4.12,8.81,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mad Beef. Detailed address: ซอยเจริญกรุง 30, ห้างนายเลิศ, แขวงบางรัก, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. Gypsy's Lips. Detailed address: ซอยรามบุตรี, พระอาทิตย์, แขวงชนะสงคราม, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+78,14.75,D,5.11,17.8,10.81,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Siam India. Detailed address: Asiatique The Riverfront, ซอยเจริญกรุง 99, บ้านใหม่, แขวงวัดพระยาไกร, เขตบางคอแหลม, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. victory secret . Detailed address: ถนนพระราม 9, แขวงบางกะปิ, เขตห้วยขวาง, กรุงเทพมหานคร, 10310, ประเทศไทย"
+79,1.21,C,8.69,3.68,10.39,"What is the straight-line distance between the following two locations? (Unit is km)
+1. street food. Detailed address: ซอยนามชัย, ชุมชนโบสถ์พราหมณ์, แขวงเสาชิงช้า, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. ท่านขุน. Detailed address: ซอยจุฬาลงกรณ์ 42, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+80,0.77,B,6.64,14.11,14.35,"What is the straight-line distance between the following two locations? (Unit is km)
+1. KFC. Detailed address: ซอยสุขุมวิท 61, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. The Pantry Bake with Love. Detailed address: ซอยเกษมสันต์ 2, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+81,2.53,C,14.57,8.97,14.51,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Five wine bar. Detailed address: ซอยสุขุมวิท 26, ชุมชนทรัพย์มโนทัย, แขวงคลองตัน, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. I love Thai food. Detailed address: ถนนรามบุตรี, แขวงตลาดยอด, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+82,3.71,C,18.01,10.14,13.82,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cafe Amazon. Detailed address: ถนนกำแพงเพชร 2, แขวงจตุจักร, เขตจตุจักร, กรุงเทพมหานคร, 10900, ประเทศไทย
+2. สระว่ายน้ำบ้านสมเด็จ. Detailed address: 1061, ซอยอิสรภาพ 15, ชุมชนวัดประดิษฐาราม, แขวงหิรัญรูจี, เขตธนบุรี, กรุงเทพมหานคร, 10600, ประเทศไทย"
+83,1.87,A,9.34,3.9,9.08,"What is the straight-line distance between the following two locations? (Unit is km)
+1. กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์. Detailed address: ถนนกรุงเกษม, แขวงคลองมหานาค, เขตป้อมปราบศัตรูพ่าย, กรุงเทพมหานคร, 10100, ประเทศไทย
+2. ส. เพชรมณี. Detailed address: 23, ตรอกบวรรังษี, ชุมชนหลังวัดราชนัดดา, แขวงบวรนิเวศ, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+84,1.2,B,4.57,5.73,12.5,"What is the straight-line distance between the following two locations? (Unit is km)
+1. อาคาร 50 ปี คณะสัตวแพทยศาสตร์. Detailed address: จุฬาลงกรณ์มหาวิทยาลัย, 254, ถนนพญาไท, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. Thai Jain Association. Detailed address: สาธุประดิษฐ์ 19 แยก 10, ชุมชนสามัคคีรวมใจ, แขวงช่องนนทรี, เขตยานนาวา, กรุงเทพมหานคร, 10120, ประเทศไทย"
+85,5.3,A,11.36,9.59,8.96,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Roast. Detailed address: 335, ซอยทองหล่อ 17, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Sushiko. Detailed address: ถนนธนิยะ, แขวงสุริยวงศ์, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+86,7.29,A,1.94,14.04,3.28,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pranakorn Inn. Detailed address: Sleep Tight Hostel, ตรอกวัดตรีทศเทพ, วิสุทธิกษัตริย์, แขวงบ้านพานถม, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. PTT. Detailed address: ถนนกำแพงเพชร 2, แขวงจตุจักร, เขตจตุจักร, กรุงเทพมหานคร, 10900, ประเทศไทย"
+87,3.63,B,10.42,17.27,6.18,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sushi Express. Detailed address: ถนนพระสุเมรุ, แขวงตลาดยอด, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. Nikko Cafe. Detailed address: ซอยเอกมัย 12, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+88,14.65,C,2.95,8.34,10.47,"What is the straight-line distance between the following two locations? (Unit is km)
+1. โรงเรียนโกศลภัทรวิทย์. Detailed address: ซอยเจริญกรุง 57, แขวงยานนาวา, เขตสาทร, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. เปรมสมบัติ. Detailed address: แขวงดินแดง, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย"
+89,7.99,B,3.29,5.46,1.19,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dine in the dark. Detailed address: 250, ถนนสุขุมวิท, สมาหาร, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. ก๋วยเตี๋ยว 12 ปันนา. Detailed address: ซอยสีลม 3, ชุมชนซอยพิพัฒน์ 2, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+90,12.55,C,2.52,9.75,8.45,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 13 Coins Tower. Detailed address: แขวงห้วยขวาง, เขตห้วยขวาง, กรุงเทพมหานคร, 10310, ประเทศไทย
+2. ตลาดบางรัก. Detailed address: ซอยเจริญกรุง 46, แขวงบางรัก, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+91,3.88,A,9.33,2.39,0.62,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ภูมิเวท เมนชั่น. Detailed address: 7 1, ถนนกะออม, ชุมชนศุภมิตร 2, แขวงวัดโสมนัส, เขตป้อมปราบศัตรูพ่าย, กรุงเทพมหานคร, 10100, ประเทศไทย
+2. บริษัท ฮันสเดนแอนด์คริมสเวอร์ท จำกัด. Detailed address: 96, ซอยพหลโยธิน 5, อารีย์, แขวงพญาไท, เขตพญาไท, กรุงเทพมหานคร, 10400, ประเทศไทย"
+92,9.46,C,10.88,3.09,5.4,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ข้าน้อยขอชาบู. Detailed address: ซอยจุฬาลงกรณ์ 40, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. Yakthai Cafe. Detailed address: ถนนเฟื่องนคร, ชุมชนตรอกวิสูตร, แขวงวัดราชบพิธ, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+93,3.64,B,7.15,1.0,5.64,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lanzhou Noodles. Detailed address: ถนนประชาราษฎร์บำเพ็ญ, แขวงห้วยขวาง, เขตห้วยขวาง, กรุงเทพมหานคร, 10310, ประเทศไทย
+2. Tea.Meat.Bone. Detailed address: ซอยจุฬาลงกรณ์ 15, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+94,10.04,B,5.87,0.82,10.81,"What is the straight-line distance between the following two locations? (Unit is km)
+1. บ้านจอมพลสฤษดิ์ ธนะรัชต์. Detailed address: ซอยประดิพัทธ์ 8, ชุมชนหมู่บ้านประดิพัทธ์วิลล่า, แขวงพญาไท, เขตพญาไท, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. สวนจามจุรี. Detailed address: จุฬาลงกรณ์มหาวิทยาลัย, 254, ถนนพญาไท, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+95,5.7,A,12.58,9.57,2.29,"What is the straight-line distance between the following two locations? (Unit is km)
+1. สะพานวิทยุ. Detailed address: ถนนวิทยุ, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. Tawandang German Brewery. Detailed address: 462/61, ถนนนราธิวาสราชนครินทร์, ชุมชนคาลเท็กซ์, แขวงช่องนนทรี, เขตยานนาวา, กรุงเทพมหานคร, 10120, ประเทศไทย"
+96,5.43,B,1.49,4.08,7.52,"What is the straight-line distance between the following two locations? (Unit is km)
+1. พรชัย. Detailed address: ซอยอรุณอมรินทร์ 47, มหาวงษ์พัฒนา, แขวงบางยี่ขัน, เขตบางพลัด, กรุงเทพมหานคร, 10700, ประเทศไทย
+2. ChaCoolZa. Detailed address: ถนนจักรพงษ์, แขวงตลาดยอด, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+97,3.91,D,3.48,4.96,1.69,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Pantry Bake with Love. Detailed address: ซอยเกษมสันต์ 2, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. คณะรัฐศาสตร์. Detailed address: 254, ถนนพญาไท, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+98,2.24,A,4.33,8.54,7.52,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Saithip Swimming Pool. Detailed address: ซอยสุขุมวิท 58, แขวงพระโขนงใต้, เขตพระโขนง, กรุงเทพมหานคร, 10260, ประเทศไทย
+2. B4. Detailed address: ถนนอาจณรงค์, ชุมชนริมคลองวัดสะพาน, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 12060, ประเทศไทย"
+99,1.29,D,9.41,3.37,6.31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ศศปาฐศาลา. Detailed address: จุฬาลงกรณ์มหาวิทยาลัย, 254, ถนนพญาไท, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. ร้านทองกาญจนา. Detailed address: ชุมชนคลองบางพระครู, แขวงบางอ้อ, เขตบางพลัด, กรุงเทพมหานคร, 10700, ประเทศไทย"
+100,20.31,C,11.68,14.07,18.55,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ไปรษณีย์สาขามหาวิทยาลัยราชภัฏจันทรเกษม. Detailed address: 39/1, ถนนรัชดาภิเษก, แขวงจอมพล, เขตจตุจักร, กรุงเทพมหานคร, 10900, ประเทศไทย
+2. Jones' Salad. Detailed address: 79, นครไทย ซอย 16, แขวงช่องนนทรี, เขตยานนาวา, กรุงเทพมหานคร, 10120, ประเทศไทย"
+101,7.03,D,10.49,5.55,3.07,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Traffic Police box. Detailed address: ถนนนิคมมักกะสัน, ชุมชนโรงเจมักกะสัน, แขวงมักกะสัน, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. หมูทอดเจ๊จง. Detailed address: 2, ถนนสีลม, ศาลาแดง, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+102,0.78,D,9.33,3.01,5.2,"What is the straight-line distance between the following two locations? (Unit is km)
+1. บางจาก. Detailed address: ซอยสุขุมวิท 26, แขวงคลองตัน, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. ข้าน้อยขอชาบู. Detailed address: ซอยจุฬาลงกรณ์ 40, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+103,10.72,C,8.15,3.07,8.68,"What is the straight-line distance between the following two locations? (Unit is km)
+1. สำนักเทศกิจ. Detailed address: ซอยขุมทรัพย์, ชุมชนวัดประยุรวงศ์, แขวงวัดกัลยาณ์, เขตธนบุรี, กรุงเทพมหานคร, 10600, ประเทศไทย
+2. ศาลเจ้าซำซัวก๊กอ๊วง. Detailed address: ซอยจอมสมบูรณ์, ซอยสว่าง, แขวงมหาพฤฒาราม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+104,6.73,A,3.9,3.01,8.3,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sunshine Market. Detailed address: 28, ซอยสุขุมวิท 22, สุขุมวิท, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. โรงงานไทยวาโก้. Detailed address: ชุมชนห้องเย็น, แขวงบางโคล่, เขตบางคอแหลม, กรุงเทพมหานคร, 10120, ประเทศไทย"
+105,9.55,B,7.23,15.13,2.77,"What is the straight-line distance between the following two locations? (Unit is km)
+1. คลินิคหมอไกรลาศ. Detailed address: ถนนประดิพัทธ์, สะพานควาย, แขวงพญาไท, เขตพญาไท, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. Mad Sugar. Detailed address: ซอยเจริญกรุง 26, ห้างนายเลิศ, แขวงบางรัก, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+106,6.15,B,4.5,3.49,5.92,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ISAO. Detailed address: 5, ซอยสุขุมวิท 31, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. สถานีตำรวจนครบาลปทุมวัน. Detailed address: ซอยจุฬาลงกรณ์ 16, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+107,3.54,C,4.29,7.73,9.7,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 八號. Detailed address: 8, ซอยนานา, แขวงป้อมปราบ, เขตป้อมปราบศัตรูพ่าย, กรุงเทพมหานคร, 10100, ประเทศไทย
+2. Sodchuen Bar. Detailed address: ตลาดนัดจตุจักร, ถนนกำแพงเพชร 3, แขวงจตุจักร, เขตจตุจักร, กรุงเทพมหานคร, 10900, ประเทศไทย"
+108,10.8,C,2.68,4.1,5.13,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Thank You Cup. Detailed address: One Bangkok Boulevard, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. Nam Sing. Detailed address: ถนนเยาวราช, เยาวราช, แขวงสัมพันธวงศ์, เขตสัมพันธวงศ์, กรุงเทพมหานคร, 10100, ประเทศไทย"
+109,7.65,C,6.63,3.23,11.07,"What is the straight-line distance between the following two locations? (Unit is km)
+1. แซ่บ แอนด์ ซีฟู้ด. Detailed address: ที.ที.เอ็น อเวนิว, แขวงช่องนนทรี, เขตยานนาวา, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. Five wine bar. Detailed address: ซอยสุขุมวิท 26, ชุมชนทรัพย์มโนทัย, แขวงคลองตัน, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+110,14.23,B,8.61,11.73,1.88,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Balcony. Detailed address: ซอยสีลม 4, แขวงสุริยวงศ์, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. Pet World -  Pet Hospital. Detailed address: ซอยวิภาวดีรังสิต 16, ชุมชนริมคลองบางซื่อ 18, แขวงรัชดาภิเษก, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย"
+111,10.0,D,6.91,8.8,3.59,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fun Cafe and Hostel. Detailed address: ซอยวัดแก้วฟ้า, แพรกบ้านนาย, แขวงมหาพฤฒาราม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. Greens & Cheese. Detailed address: ถนนข้าวสาร, แขวงตลาดยอด, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+112,3.86,A,7.04,5.9,11.4,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Green tea. Detailed address: ตลาดนัดจตุจักร, ถนนกำแพงเพชร 3, แขวงจตุจักร, เขตจตุจักร, กรุงเทพมหานคร, 10900, ประเทศไทย
+2. พาดา เจริญเภสัช. Detailed address: 582/451, ซอยรัชดาภิเษก 3 แยก 4-11, แขวงดินแดง, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย"
+113,8.32,D,13.3,2.54,5.92,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Asian. Detailed address: ซอยรัชดาภิเษก 14 แยก 6, แขวงห้วยขวาง, เขตห้วยขวาง, กรุงเทพมหานคร, 10310, ประเทศไทย
+2. โรงพยาบาลสัตว์แฮปปี้เพ็ท. Detailed address: 750, ถนนสุขุมวิท, แขวงคลองตัน, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+114,7.53,C,12.28,5.81,1.68,"What is the straight-line distance between the following two locations? (Unit is km)
+1. อาคารประสานมิตรธานี. Detailed address: 41, ซอยสุขุมวิท 23, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Banyan Tree Residences Riverside. Detailed address: วัดทองนพคุณ, ซอยสมเด็จเจ้าพระยา 17, ชุมชนเจริญรักษ์ 13, แขวงคลองสาน, เขตคลองสาน, กรุงเทพมหานคร, 10600, ประเทศไทย"
+115,5.67,A,1.74,8.97,2.91,"What is the straight-line distance between the following two locations? (Unit is km)
+1. แฟลตเหลือง. Detailed address: 726/9, ซอยโรงถ่าน, สวนพลู, แขวงทุ่งมหาเมฆ, เขตสาทร, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. เคหะดินแดง 2. Detailed address: แฟลต 46, ซอยประชาสงเคราะห์ 7, แขวงดินแดง, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย"
+116,5.72,D,5.83,3.66,1.74,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nikko Cafe. Detailed address: ซอยเอกมัย 12, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. ra-men kio. Detailed address: ซอยสุขุมวิท 47, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+117,8.16,B,3.96,9.45,0.72,"What is the straight-line distance between the following two locations? (Unit is km)
+1. หมู่บ้านสินชัย. Detailed address: แขวงบางขุนศรี, เขตบางกอกน้อย, กรุงเทพมหานคร, 10700, ประเทศไทย
+2. Switchblade. Detailed address: 101, ถนนตะนาว, แขวงบวรนิเวศ, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+118,1.39,D,5.7,6.28,4.32,"What is the straight-line distance between the following two locations? (Unit is km)
+1. หมู่บ้านเย็นอากาศ. Detailed address: 88 Room for Rent, ซอยหมู่บ้านเย็นอากาศ, แขวงช่องนนทรี, เขตยานนาวา, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. Supalai Park Asoke-Ratchada. Detailed address: ถนนอโศก-ดินแดง, แขวงดินแดง, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย"
+119,13.22,B,6.62,12.1,9.36,"What is the straight-line distance between the following two locations? (Unit is km)
+1. NK Scooter rental. Detailed address: ซอยสวรรค์, สมาหาร, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Prik Pranakorn. Detailed address: 269, ถนนสามเสน, แขวงวัดสามพระยา, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+120,5.46,D,2.74,6.98,4.32,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pork Soup and noodles. Detailed address: ซอยสุขุมวิท 33, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Viet cafe day. Detailed address: 134, ซอยจุฬาลงกรณ์ 48, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+121,6.8,A,10.73,2.84,1.15,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tom Guesthouse Cafe. Detailed address: ซอยงามดูพลี, สวนพลู, แขวงทุ่งมหาเมฆ, เขตสาทร, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. Monster Bar. Detailed address: ซอยสามเสน 2, วิสุทธิกษัตริย์, แขวงบ้านพานถม, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+122,5.45,C,11.09,3.36,6.21,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Island. Detailed address: ซอยสามเสน 4, วิสุทธิกษัตริย์, แขวงบ้านพานถม, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. Rich Coffee. Detailed address: ซอยเพชรบุรี 7, ชุมชนซอยสุเหร่า, แขวงทุ่งพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย"
+123,4.15,D,0.88,7.73,2.27,"What is the straight-line distance between the following two locations? (Unit is km)
+1. BaanBaan Tot. Detailed address: 2/8, ถนนพระรามที่ 4, บ่อนไก่, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. SuperRich BTS (Asok). Detailed address: ถนนสุขุมวิท, สมาหาร, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+124,2.39,A,5.49,6.49,8.53,"What is the straight-line distance between the following two locations? (Unit is km)
+1. วิน ซอยสุขุมวิท 4. Detailed address: ซอยสุขุมวิท 4, สมาหาร, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Bangkok Smile. Detailed address: 30/8, ถนนศาลาแดง, ศาลาแดง, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+125,8.12,D,2.5,2.38,0.67,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ศาลท้าวมหาพรหม. Detailed address: ถนนเพลินจิต, ราชประสงค์, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. ออเดรย์ คาเฟ่. Detailed address: ถนนเพลินจิต, ราชประสงค์, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+126,10.46,D,9.06,7.74,3.81,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bump Coffee Space. Detailed address: 12, ซอยต่อศักดิ์ 1, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Eiffel Pizza Bar. Detailed address: ถนนหลังสวน, หลังสวน, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+127,9.95,D,3.79,3.67,6.53,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Krua Apsorn. Detailed address: 196, ถนนดินสอ, ชุมชนหลังวัดราชนัดดา, แขวงบวรนิเวศ, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. Dine in the dark. Detailed address: 250, ถนนสุขุมวิท, สมาหาร, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+128,6.26,C,10.03,3.99,1.21,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Viet cafe day. Detailed address: 134, ซอยจุฬาลงกรณ์ 48, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. Emma Clinic. Detailed address: 299/10, ถนนอโศกมนตรี, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+129,7.28,C,1.49,3.18,10.04,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ten Ekamai Suites. Detailed address: 33/39, ซอยเอกมัย 10, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Spark Hotel. Detailed address: 599, ซอยไผ่สิงห์โต, ชุมชนเจริญสุข, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+130,1.0,A,7.18,7.71,6.07,"What is the straight-line distance between the following two locations? (Unit is km)
+1. กระทรวงเกษตรและสหกรณ์. Detailed address: ถนนราชดำเนินนอก, นางเลิ้ง, แขวงวัดโสมนัส, เขตป้อมปราบศัตรูพ่าย, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. Sinad Guesthouse. Detailed address: ซอยสามเสน 1, แขวงวัดสามพระยา, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+131,4.7,D,4.19,7.97,6.64,"What is the straight-line distance between the following two locations? (Unit is km)
+1. โรงเรียนกวดวิชานัทจรีย์. Detailed address: ถนนดินสอ, ชุมชนหลังวัดราชนัดดา, แขวงบวรนิเวศ, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. หมู่บ้านเย็นอากาศ. Detailed address: 88 Room for Rent, ซอยหมู่บ้านเย็นอากาศ, แขวงช่องนนทรี, เขตยานนาวา, กรุงเทพมหานคร, 10120, ประเทศไทย"
+132,10.97,B,4.58,11.77,8.74,"What is the straight-line distance between the following two locations? (Unit is km)
+1. อีสานร่มเย็น. Detailed address: ซอยเลิศปัญญา, แขวงถนนพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. ทวีการช่าง. Detailed address: 90, ซอยพระยาศรี, บ้านหม้อ, แขวงวังบูรพาภิรมย์, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+133,8.88,D,9.25,9.75,5.17,"What is the straight-line distance between the following two locations? (Unit is km)
+1. หมู่บ้านเบลสทาวน์ สุขุมวิท 50. Detailed address: 662/28, ซอยสุขุมวิท 50, ชุมชนเริ่มเจริญ, แขวงพระโขนง, เขตคลองเตย, กรุงเทพมหานคร, 10260, ประเทศไทย
+2. Paradox Bangkok Sukhumvit. Detailed address: 4, ซอยสุขุมวิท 15, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+134,4.52,C,6.25,2.42,1.36,"What is the straight-line distance between the following two locations? (Unit is km)
+1. อู่คลองเตย. Detailed address: ถนนเกษมราษฎร์, ชุมชนพัฒนาใหม่, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Torajiro. Detailed address: ซอยพร้อมศรี 1, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+135,13.64,D,15.08,6.19,8.03,"What is the straight-line distance between the following two locations? (Unit is km)
+1. บริษัท ฮันสเดนแอนด์คริมสเวอร์ท จำกัด. Detailed address: 96, ซอยพหลโยธิน 5, อารีย์, แขวงพญาไท, เขตพญาไท, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. วัดโพธิ์เรียง. Detailed address: ซอยจรัญสนิทวงศ์ 18, ชุมชนวัดครุฑ, แขวงบ้านช่างหล่อ, เขตบางกอกน้อย, กรุงเทพมหานคร, 10700, ประเทศไทย"
+136,8.27,C,11.53,6.29,11.64,"What is the straight-line distance between the following two locations? (Unit is km)
+1. บ้านนนนที. Detailed address: ตำบลมหาสวัสดิ์, บ้านคลองขวาง, องค์การบริหารส่วนตำบลมหาสวัสดิ์, อำเภอบางกรวย, จังหวัดนนทบุรี, 11130, ประเทศไทย
+2. พิโก ควิกแคช. Detailed address: ซอยลูกหลวง 13, แขวงดุสิต, เขตดุสิต, กรุงเทพมหานคร, 10300, ประเทศไทย"
+137,5.64,D,3.62,10.34,8.79,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Salad Pla. Detailed address: ซอยสามเสน 12, แขวงดุสิต, เขตดุสิต, กรุงเทพมหานคร, 10300, ประเทศไทย
+2. Sukishi. Detailed address: 79, นครไทย ซอย 16, แขวงช่องนนทรี, เขตยานนาวา, กรุงเทพมหานคร, 10120, ประเทศไทย"
+138,5.35,D,5.7,7.7,2.31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. อาคารเกษม อุทยานิน (รัฐศาสตร์ 60 ปี). Detailed address: ถนนไฮโซ, แขวงปทุมวัน, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. สมาคมกุศลสงเคราะห์. Detailed address: ซอยโจวซือกง, ชุมชนผู้ค้าอะไหล่เก่า, แขวงตลาดน้อย, เขตสัมพันธวงศ์, กรุงเทพมหานคร, 10100, ประเทศไทย"
+139,4.54,B,5.75,3.26,10.68,"What is the straight-line distance between the following two locations? (Unit is km)
+1. โรงงานไทยวาโก้. Detailed address: ชุมชนห้องเย็น, แขวงบางโคล่, เขตบางคอแหลม, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. สวนหินอ่อน วังวินด์เซอร์. Detailed address: จุฬาลงกรณ์มหาวิทยาลัย, 254, ถนนพญาไท, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+140,10.8,C,13.33,5.64,1.1,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mingle. Detailed address: ถนนจักรพงษ์, แขวงตลาดยอด, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. คลินิคหมอไกรลาศ. Detailed address: ถนนประดิพัทธ์, สะพานควาย, แขวงพญาไท, เขตพญาไท, กรุงเทพมหานคร, 10400, ประเทศไทย"
+141,9.41,B,6.31,2.23,7.54,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sathon Plus. Detailed address: ถนนเย็นอากาศ, ประสาทสุข, แขวงช่องนนทรี, เขตยานนาวา, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. ภูมิเวท เมนชั่น. Detailed address: 7 1, ถนนกะออม, ชุมชนศุภมิตร 2, แขวงวัดโสมนัส, เขตป้อมปราบศัตรูพ่าย, กรุงเทพมหานคร, 10100, ประเทศไทย"
+142,9.12,D,8.6,3.95,2.24,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Indian Food. Detailed address: ทางหลัก, แขวงดินแดง, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. จุดจอดรถพยาบาล. Detailed address: ถนนดินแดง, ชุมชนบุญชูศรี, แขวงสามเสนใน, เขตพญาไท, กรุงเทพมหานคร, 10400, ประเทศไทย"
+143,12.27,D,3.61,11.34,7.83,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Korean Dessert Cafe. Detailed address: ถนนรัชดาภิเษก, ชุมชนริมคลองบางซื่อ 18, แขวงรัชดาภิเษก, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. Peachlates. Detailed address: ซอยจุฬาลงกรณ์ 34, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+144,4.58,B,5.67,6.81,12.63,"What is the straight-line distance between the following two locations? (Unit is km)
+1. โครงการไทยนิยมมั่งคง. Detailed address: ถนนสุพรรณ, ชุมชนซอยโซดา, แขวงดุสิต, เขตดุสิต, กรุงเทพมหานคร, 10300, ประเทศไทย
+2. YRC Yoga. Detailed address: 153, ซอยหลังวัดหัวลำโพง, สันติภาพ, แขวงสี่พระยา, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+145,6.12,B,8.03,6.21,3.0,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Watsons. Detailed address: 79, ถนนรัชดาภิเษก, ชุมชนซอยวารี, แขวงช่องนนทรี, เขตยานนาวา, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. ฌาปนสถานตำรวจ. Detailed address: ถนนประชาธิปไตย, วิสุทธิกษัตริย์, แขวงบ้านพานถม, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+146,7.63,B,3.52,10.04,9.8,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ริเวอร์ เฮาส์ คอนโดมิเนียม. Detailed address: ถนนลาดหญ้า, ชุมชนเจริญรักษ์ 13, แขวงคลองสาน, เขตคลองสาน, กรุงเทพมหานคร, 10600, ประเทศไทย
+2. คณะสังคมสงเคราะห์ศาสตร์. Detailed address: มหาวิทยาลัยธรรมศาสตร์ ท่าพระจันทร์, 2, ถนนพระจันทร์, ท่าพระจันทร์, แขวงพระบรมมหาราชวัง, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+147,11.96,D,8.16,1.9,4.41,"What is the straight-line distance between the following two locations? (Unit is km)
+1. JiM's Burger - Burgers and Beers -. Detailed address: ถนนกรุงเกษม, ยศเส, แขวงวัดเทพศิรินทร์, เขตป้อมปราบศัตรูพ่าย, กรุงเทพมหานคร, 10100, ประเทศไทย
+2. Dosa King. Detailed address: ซอยสุขุมวิท 11/1, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+148,14.0,C,13.76,6.94,5.13,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Brainwake.cafe. Detailed address: 27/1, ซอยพร้อมจิต, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Best Banana Roti pancake. Detailed address: ถนนเจริญกรุง, ชุมชนบาหยัน, แขวงวัดพระยาไกร, เขตบางคอแหลม, กรุงเทพมหานคร, 10120, ประเทศไทย"
+149,4.61,B,8.64,11.78,13.74,"What is the straight-line distance between the following two locations? (Unit is km)
+1. B4. Detailed address: ถนนอาจณรงค์, ชุมชนริมคลองวัดสะพาน, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 12060, ประเทศไทย
+2. Korean Dessert Cafe. Detailed address: ถนนรัชดาภิเษก, ชุมชนริมคลองบางซื่อ 18, แขวงรัชดาภิเษก, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย"
+150,8.03,C,3.77,1.32,5.48,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ย่างเนย สามย่าน. Detailed address: ซอยจุฬาลงกรณ์ 34, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. BangkokFA. Detailed address: Lido Connect, แขวงปทุมวัน, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+151,15.88,C,6.64,9.44,12.89,"What is the straight-line distance between the following two locations? (Unit is km)
+1. เดอะ คอนคอร์ด (สุขุมวิท 15). Detailed address: ชุมชนรื่นฤดี, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. วัดบางสะแกนอก. Detailed address: ซอยเทอดไท 33, แขวงตลาดพลู, เขตธนบุรี, กรุงเทพมหานคร, 10600, ประเทศไทย"
+152,12.71,A,14.16,20.41,6.87,"What is the straight-line distance between the following two locations? (Unit is km)
+1. พลีโน่ ราชพฤกษ์-สาทร. Detailed address: บ้านคลองวัดสัก, ตำบลบางขนุน, องค์การบริหารส่วนตำบลบางขนุน, อำเภอบางกรวย, จังหวัดนนทบุรี, 11130, ประเทศไทย
+2. บริษัท วินเนอร์รีเอลตี้ จำกัด. Detailed address: 128/13, ซอยสีลม 6, แขวงสุริยวงศ์, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+153,7.02,C,11.88,5.46,9.4,"What is the straight-line distance between the following two locations? (Unit is km)
+1. UBC II. Detailed address: Starbucks, ถนนสุขุมวิท, แขวงคลองตัน, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. พระราชวังพญาไท. Detailed address: ถนนราชวิถี, ชุมชนซอยสวนเงิน, แขวงทุ่งพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย"
+154,5.15,B,1.26,5.82,6.32,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mad Sugar. Detailed address: ซอยเจริญกรุง 26, ห้างนายเลิศ, แขวงบางรัก, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. ดอยช้าง ณ สามย่าน. Detailed address: 217, ซอยจุฬาลงกรณ์ 50, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+155,6.89,D,0.66,4.91,3.37,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bliss. Detailed address: 131, ซอยพระราม 9 สแควร์, แขวงห้วยขวาง, เขตห้วยขวาง, กรุงเทพมหานคร, 10310, ประเทศไทย
+2. One Yoga Bangkok. Detailed address: No. 712/1, Unit 503, ถนนสุขุมวิท, แขวงคลองตัน, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+156,10.62,B,3.65,11.6,9.52,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Voque. Detailed address: ชุมชนเจริญสุข, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. อาคารนวัตกรรมทางเภสัชศาสตร์. Detailed address: จุฬาลงกรณ์มหาวิทยาลัย, 254, ถนนพญาไท, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+157,7.62,B,0.86,6.75,7.45,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Barcelona Gaudi. Detailed address: ซอยสุขุมวิท 23, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. เดอะ คอนคอร์ด (สุขุมวิท 15). Detailed address: ชุมชนรื่นฤดี, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+158,3.15,D,3.77,1.76,4.96,"What is the straight-line distance between the following two locations? (Unit is km)
+1. RSU Vanit 2 building. Detailed address: ถนนวิทยุ, ชุมชนหลังวัดมักกะสัน, แขวงมักกะสัน, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. honey bear bistro. Detailed address: ซอยเอกมัย 4, แขวงพระโขนงเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+159,1.33,C,9.61,3.24,1.09,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Angoon's Garden. Detailed address: ซอยทองหล่อ 3, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Al Rawche. Detailed address: ซอยสุขุมวิท 5, ชุมชนรื่นฤดี, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+160,7.16,A,0.92,2.02,8.61,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ratchakru Medical Center. Detailed address: ซอยพหลโยธิน 5, อารีย์, แขวงพญาไท, เขตพญาไท, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. แม่วารี. Detailed address: ซอยสุขุมวิท 55, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+161,10.42,C,8.78,3.26,1.5,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ดิ โอเรียนทัลช็อป. Detailed address: 1027, ถนนเพลินจิต, ราชประสงค์, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. โรงเรียนสอนทำอาหาร ครัวเจ๊ง้อ. Detailed address: ถนนมหาเศรษฐ์, หมอเพชรหมอพลอย, แขวงสี่พระยา, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+162,3.72,A,6.76,6.9,5.76,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Texas Chicken. Detailed address: ถนนสามเสน, ชุมชนวัดราชา, แขวงดุสิต, เขตดุสิต, กรุงเทพมหานคร, 10300, ประเทศไทย
+2. Music Sciety. Detailed address: ถนนพญาไท, ชุมชนซอยสมประสงค์ 5, แขวงถนนเพชรบุรี, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย"
+163,1.81,D,9.47,1.44,3.34,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lee La. Detailed address: ถนนบริพัตร, ชุมชนบ้านบาตร, แขวงบ้านบาตร, เขตป้อมปราบศัตรูพ่าย, กรุงเทพมหานคร, 10100, ประเทศไทย
+2. คราวน์ สีลม. Detailed address: 278/102, ซอยสีลม 22, ปราโมทย์, แขวงสุริยวงศ์, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+164,3.76,A,10.14,11.07,7.46,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bijo Japanese Club. Detailed address: ซอยสุขุมวิท 49/4, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. ทำเนียบเอกอัครราชทูตสหรัฐอเมริกา. Detailed address: 108, ถนนวิทยุ, วิทยุ, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+165,11.45,C,3.67,7.94,15.83,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Horse Says Moooo. Detailed address: ซอยสุขุมวิท 33, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. iKOFFIE. Detailed address: ถนนสามเสน, แขวงดุสิต, เขตดุสิต, กรุงเทพมหานคร, 10300, ประเทศไทย"
+166,11.27,C,8.02,4.13,2.28,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Luca Moto. Detailed address: ซอยทองหล่อ 11, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Le Bouchon. Detailed address: ซอยสาทร 1, สวนพลู, แขวงทุ่งมหาเมฆ, เขตสาทร, กรุงเทพมหานคร, 10120, ประเทศไทย"
+167,7.16,C,6.55,0.58,7.85,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Laun. Detailed address: ซอยสามเสน 4, วิสุทธิกษัตริย์, แขวงบ้านพานถม, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. The Clif. Detailed address: Susie Walking Street, แขวงตลาดยอด, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+168,2.33,C,9.2,5.8,0.71,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ถนนจันทน์ใต้ (ขาออก). Detailed address: ถนนนราธิวาสราชนครินทร์, ชุมชนสามัคคีรวมใจ, แขวงช่องนนทรี, เขตยานนาวา, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. Cris'p Pizza. Detailed address: ถนนสุขุมวิท, ชุมชนปิยะวัชร, แขวงพระโขนง, เขตคลองเตย, กรุงเทพมหานคร, 12060, ประเทศไทย"
+169,9.54,B,7.21,5.7,12.45,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Base Sukhumvit 71. Detailed address: i-Store, ซอย ปรีดี พนมยงค์ 2, แขวงพระโขนงเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 12060, ประเทศไทย
+2. อาคารพักอาศัยข้าราชการ สถาบันเทคโนโลยีราชมงคลวิทยาเขตเทคนิคกรุงเทพฯ. Detailed address: แขวงทุ่งวัดดอน, เขตสาทร, กรุงเทพมหานคร, 10120, ประเทศไทย"
+170,0.64,B,4.35,3.0,6.7,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Katak@Tipco (กะต๊าก). Detailed address: พระรามที่ 6 ซอย 39, ชุมชนหมู่บ้านประดิพัทธ์วิลล่า, แขวงพญาไท, เขตพญาไท, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. Major Cineplex Ratchadapisek. Detailed address: ถนนรัชดาภิเษก, แขวงดินแดง, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย"
+171,10.58,B,5.94,1.56,10.25,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dubai Restaurant. Detailed address: 1, ซอยสุขุมวิท 22, สุขุมวิท, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Golden Dome. Detailed address: ซอยรัชดาภิเษก 18, แขวงห้วยขวาง, เขตห้วยขวาง, กรุงเทพมหานคร, 10310, ประเทศไทย"
+172,2.36,B,6.5,2.16,4.25,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Monster Bar. Detailed address: ซอยสามเสน 2, วิสุทธิกษัตริย์, แขวงบ้านพานถม, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. Paradise. Detailed address: ซอยสุขุมวิท 11, ชุมชนรื่นฤดี, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+173,4.73,C,2.05,3.44,9.16,"What is the straight-line distance between the following two locations? (Unit is km)
+1. กัสส์แดมน์กู้ด. Detailed address: 999/9, ถนนราชดำริ, แขวงปทุมวัน, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. UOB. Detailed address: 1249, ถนนเจริญกรุง, ห้างนายเลิศ, แขวงสุริยวงศ์, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+174,7.92,B,6.13,9.52,8.23,"What is the straight-line distance between the following two locations? (Unit is km)
+1. วัวล้วนๆ ไม่มีควายผสม สาขาเซ็นทรัลเวิลด์ ชั้น7. Detailed address: 999/9, ถนนราชดำริ, แขวงปทุมวัน, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. Dental Vision. Detailed address: ซอยหัสดิเสวี, แขวงห้วยขวาง, เขตห้วยขวาง, กรุงเทพมหานคร, 10310, ประเทศไทย"
+175,2.6,B,7.45,11.19,5.2,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mulligans. Detailed address: ถนนข้าวสาร, แขวงตลาดยอด, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. พวงแก้ว. Detailed address: ซอยสุขุมวิท 27, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+176,15.25,D,13.13,7.04,11.76,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ACMEN EKAMAI Complex. Detailed address: Torisawa22, 267/16, ซอยเอกมัย 13, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. เดอะมอลล์ ท่าพระ. Detailed address: ถนนรัชดาภิเษก, แขวงดาวคะนอง, เขตธนบุรี, กรุงเทพมหานคร, 10600, ประเทศไทย"
+177,14.98,B,13.66,9.86,9.21,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kin Buffet & Shabu. Detailed address: 982/22, ถนนสุขุมวิท, แขวงพระโขนง, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. หมูกะทะ. Detailed address: ถนนบรมราชชนนี, แขวงอรุณอมรินทร์, เขตบางกอกน้อย, กรุงเทพมหานคร, 10700, ประเทศไทย"
+178,9.68,C,3.27,4.52,0.81,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lim House. Detailed address: Many Trees, 563, ซอยสวนพลู 1, สวนพลู, แขวงทุ่งมหาเมฆ, เขตสาทร, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์. Detailed address: ถนนกรุงเกษม, แขวงคลองมหานาค, เขตป้อมปราบศัตรูพ่าย, กรุงเทพมหานคร, 10100, ประเทศไทย"
+179,3.68,D,9.35,1.56,7.62,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tea.Meat.Bone. Detailed address: ซอยจุฬาลงกรณ์ 15, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. Kaarom Speciality Coffee. Detailed address: ถนนหลัก, แขวงจตุจักร, เขตจตุจักร, กรุงเทพมหานคร, 10900, ประเทศไทย"
+180,2.84,A,7.6,5.06,8.38,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ยอดพิมาน. Detailed address: ริเวอร์วอล์ค, บ้านหม้อ, แขวงวังบูรพาภิรมย์, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. Le Normandie. Detailed address: 48, ซอยเจริญกรุง 40, แขวงบางรัก, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+181,13.48,A,7.84,6.12,17.54,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Le Luk Condominium. Detailed address: Beat Hotel, ซอยปรีดี พนมยงค์ 3, แขวงพระโขนงเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 12060, ประเทศไทย
+2. สำนักงานที่ดินบางพลัด. Detailed address: ถนนจรัญสนิทวงศ์, มหาวงษ์พัฒนา, แขวงบางยี่ขัน, เขตบางพลัด, กรุงเทพมหานคร, 10700, ประเทศไทย"
+182,7.17,D,10.94,6.56,9.33,"What is the straight-line distance between the following two locations? (Unit is km)
+1. เดอะมอลล์ ท่าพระ. Detailed address: ถนนรัชดาภิเษก, แขวงดาวคะนอง, เขตธนบุรี, กรุงเทพมหานคร, 10600, ประเทศไทย
+2. Barcelona Gaudi. Detailed address: ซอยสุขุมวิท 23, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+183,6.67,C,8.61,2.36,9.46,"What is the straight-line distance between the following two locations? (Unit is km)
+1. icon cineconic. Detailed address: 168;259;289;299, ถนนเจริญนคร, แขวงคลองต้นไทร, เขตคลองสาน, กรุงเทพมหานคร, 10600, ประเทศไทย
+2. อินทนิล. Detailed address: 254, ถนนพญาไท, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+184,7.09,A,14.81,11.81,11.58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Spaghetti Factory. Detailed address: 79, ถนนรัชดาภิเษก, ชุมชนซอยวารี, แขวงช่องนนทรี, เขตยานนาวา, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. เทวาลัยพระวิษณุ. Detailed address: ถนนศิริพงษ์, สุภาพกุล, แขวงสำราญราษฎร์, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+185,5.01,D,11.3,3.23,7.16,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dog Step. Detailed address: 34/1, ซอยสุขุมวิท 50, ชุมชนเริ่มเจริญ, แขวงพระโขนง, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Dance Synergy. Detailed address: ซอยหลังสวน, หลังสวน, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+186,7.22,C,13.14,5.14,12.21,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bamboo Pub. Detailed address: ซอยสุขุมวิท 3, ชุมชนรื่นฤดี, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. อี้จาสุกี้หม่าล่า. Detailed address: ถนนประดิพัทธ์, สะพานควาย, แขวงพญาไท, เขตพญาไท, กรุงเทพมหานคร, 10400, ประเทศไทย"
+187,8.74,B,4.3,11.8,12.17,"What is the straight-line distance between the following two locations? (Unit is km)
+1. MOS Burger. Detailed address: 999/9, ถนนราชดำริ, แขวงปทุมวัน, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. The Family. Detailed address: 1 6, ถนนประชาธิปไตย, วิสุทธิกษัตริย์, แขวงบ้านพานถม, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+188,5.81,D,9.88,9.94,7.53,"What is the straight-line distance between the following two locations? (Unit is km)
+1. มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ พื้นที่พระนครใต้. Detailed address: ซอยเจริญกรุง 57, แขวงยานนาวา, เขตสาทร, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. แฟลตสถานีดับเพลิงดุสิต. Detailed address: ถนนเศรษฐศิริ, ชุมชนซอยสันติสุข, แขวงถนนนครไชยศรี, เขตดุสิต, กรุงเทพมหานคร, 10300, ประเทศไทย"
+189,4.21,C,4.89,6.39,10.06,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hungry Poke. Detailed address: 335, ซอยทองหล่อ 17, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. La Cherie Clinic. Detailed address: 356, ถนนพหลโยธิน, สะพานควาย, แขวงพญาไท, เขตพญาไท, กรุงเทพมหานคร, 10400, ประเทศไทย"
+190,1.31,D,7.99,10.16,3.83,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ศูนย์บริการสาธารณสุข 18 มงคล-วอน วังตาล. Detailed address: 863/2, ซอยจันทน์ 43 แยก 37, เพชรไผ่เงิน, แขวงบางโคล่, เขตบางคอแหลม, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. อาคารเกษม อุทยานิน (รัฐศาสตร์ 60 ปี). Detailed address: ถนนไฮโซ, แขวงปทุมวัน, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+191,0.78,D,9.13,8.64,6.33,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Major Cineplex Ratchadapisek. Detailed address: ถนนรัชดาภิเษก, แขวงดินแดง, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. สุกี้เจหรูยี่. Detailed address: ซอยพระยาสิงหเสนี, ชุมชนตรอกสลักหิน, แขวงรองเมือง, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+192,6.85,D,9.93,6.11,2.03,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sushi Masa. Detailed address: ซอยพญานาค, บ้านครัวเหนือ, แขวงถนนเพชรบุรี, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. RSU Vanit 2 building. Detailed address: ถนนวิทยุ, ชุมชนหลังวัดมักกะสัน, แขวงมักกะสัน, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย"
+193,6.94,C,6.36,3.21,1.86,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Siam Star Hotel. Detailed address: 178/7, ซอยราชปรารภ 5, แขวงถนนพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. บุญมิตร สีลม. Detailed address: 130/12, ซอยสีลม 8, แขวงสุริยวงศ์, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+194,9.17,D,4.65,6.81,1.29,"What is the straight-line distance between the following two locations? (Unit is km)
+1. LKN Grand Apartment. Detailed address: ซอยตลาดเก่ากิ่งเพชร (Soi LKN Grand), บ้านครัวเหนือ, แขวงถนนเพชรบุรี, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. อาคาร 50 ปี คณะสัตวแพทยศาสตร์. Detailed address: จุฬาลงกรณ์มหาวิทยาลัย, 254, ถนนพญาไท, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+195,7.41,D,6.35,8.66,2.79,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Best Banana Roti pancake. Detailed address: ถนนเจริญกรุง, ชุมชนบาหยัน, แขวงวัดพระยาไกร, เขตบางคอแหลม, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. ซันแนดึล. Detailed address: ถนนสุรวงศ์, ปราโมทย์, แขวงสุริยวงศ์, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+196,4.11,A,5.54,1.06,10.9,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ปราณี กาแฟสด. Detailed address: ตรอกขุนนาวา, ซอยสว่าง, แขวงมหาพฤฒาราม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. The Clubhouse. Detailed address: ซอยสุขุมวิท 23, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+197,12.73,D,4.98,11.93,6.01,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Soho Pizza. Detailed address: ซอยสุขุมวิท 55, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Bico. Detailed address: ลานอุทยานนันทนาการ, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+198,11.81,B,7.72,1.65,12.32,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Metropolitan Water Authority. Detailed address: ซอยสุขุมวิท 48/4, ชุมชนเริ่มเจริญ, แขวงพระโขนง, เขตคลองเตย, กรุงเทพมหานคร, 12060, ประเทศไทย
+2. Sathorn Square. Detailed address: สถานทูตเบลเยี่ยม, 98, ถนนสาทรเหนือ, ละลายทรัพย์, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+199,3.46,C,3.15,5.43,0.64,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ปอล. Detailed address: ถนนเพลินจิต, ราชประสงค์, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. ครัวญาดา. Detailed address: ตรอกบวรรังษี, ชุมชนหลังวัดราชนัดดา, แขวงบวรนิเวศ, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+200,4.95,B,1.13,3.23,3.08,"What is the straight-line distance between the following two locations? (Unit is km)
+1. แฟลตสถานีดับเพลิงดุสิต. Detailed address: ถนนเศรษฐศิริ, ชุมชนซอยสันติสุข, แขวงถนนนครไชยศรี, เขตดุสิต, กรุงเทพมหานคร, 10300, ประเทศไทย
+2. แฟลตตำรวจดุสิต. Detailed address: สถานีตำรวจนครบาลดุสิต, ถนนพระรามที่ 5, แขวงสวนจิตรลดา, เขตดุสิต, กรุงเทพมหานคร, 10300, ประเทศไทย"
+201,0.92,C,2.32,5.12,2.55,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ออเดรย์ คาเฟ่. Detailed address: ถนนเพลินจิต, ราชประสงค์, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. ฮั่วเซ่งฮง. Detailed address: 79, นครไทย ซอย 22, แขวงช่องนนทรี, เขตยานนาวา, กรุงเทพมหานคร, 10120, ประเทศไทย"
+202,0.55,D,9.61,12.81,6.07,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bangkok Smile. Detailed address: 30/8, ถนนศาลาแดง, ศาลาแดง, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. Texas Chicken. Detailed address: ถนนสามเสน, ชุมชนวัดราชา, แขวงดุสิต, เขตดุสิต, กรุงเทพมหานคร, 10300, ประเทศไทย"
+203,4.73,A,11.25,10.57,1.3,"What is the straight-line distance between the following two locations? (Unit is km)
+1. XL Tea. Detailed address: เกาะพหลโยธิน, แขวงทุ่งพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. Himali Cha Cha & Son. Detailed address: ซอยสุขุมวิท 31, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+204,7.16,A,10.16,5.73,3.67,"What is the straight-line distance between the following two locations? (Unit is km)
+1. สถาบันโรคผิวหนัง. Detailed address: ถนนราชวิถี, ชุมชนซอยสวนเงิน, แขวงทุ่งพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. Ten Ekamai Suites. Detailed address: 33/39, ซอยเอกมัย 10, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+205,8.33,B,3.67,1.97,5.51,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ก๋วยเตี๋ยวเรือ เยาวราช. Detailed address: 196, ถนนเยาวราช, สำเพ็ง, แขวงสัมพันธวงศ์, เขตสัมพันธวงศ์, กรุงเทพมหานคร, 10100, ประเทศไทย
+2. Original Thai Wonton Mee. Detailed address: ซอยเพชรบุรี 19, แขวงถนนพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10500, ประเทศไทย"
+206,3.02,A,10.94,8.78,5.06,"What is the straight-line distance between the following two locations? (Unit is km)
+1. คาเฟ่ อเมซอน. Detailed address: ถนนบำรุงเมือง, ยศเส, แขวงคลองมหานาค, เขตป้อมปราบศัตรูพ่าย, กรุงเทพมหานคร, 10100, ประเทศไทย
+2. Annapurna. Detailed address: ถนนปั้น, ละลายทรัพย์, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+207,4.9,C,1.99,9.6,11.22,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ศาลพระภูมิ. Detailed address: ถนนกำแพงเพชร 3, แขวงจตุจักร, เขตจตุจักร, กรุงเทพมหานคร, 10900, ประเทศไทย
+2. Roast. Detailed address: 335, ซอยทองหล่อ 17, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+208,5.85,B,1.48,3.15,3.85,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Clubhouse. Detailed address: ซอยสุขุมวิท 23, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Birdhouse Café & Bar. Detailed address: ซอยสุขุมวิท 49/9, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+209,10.59,C,2.21,5.85,6.86,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jeffer. Detailed address: ซอยสุขุมวิท 61, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. porta. Detailed address: 399/4, ซอยสีลม 5, ละลายทรัพย์, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+210,11.85,D,12.11,0.88,4.4,"What is the straight-line distance between the following two locations? (Unit is km)
+1. porta. Detailed address: 399/4, ซอยสีลม 5, ละลายทรัพย์, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. วัวล้วนๆไม่มีควายผสม สาขาอนุสาวรีย์ชัยสมรภูมิ (เกาะพญาไท). Detailed address: Victory Point, เกาะพญาไท, แขวงถนนพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย"
+211,9.42,B,2.5,5.59,9.44,"What is the straight-line distance between the following two locations? (Unit is km)
+1. SCB Exchange. Detailed address: Terminal 21, 88, ถนนสุขุมวิท, สมาหาร, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Moodaengs Ice Cream. Detailed address: ซอยสุขุมวิท 55, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+212,10.82,D,6.41,7.22,3.99,"What is the straight-line distance between the following two locations? (Unit is km)
+1. โรงเรียนวิชากร กรุงเทพมหานคร. Detailed address: ถนนมิตรไมตรี 3, แขวงดินแดง, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. อาคารศิลปวัฒนธรรม. Detailed address: จุฬาลงกรณ์มหาวิทยาลัย, 254, ถนนพญาไท, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+213,5.6,D,5.9,12.01,7.7,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ideo Sathon-Tha Phra. Detailed address: Max valu, ถนนราชพฤกษ์, แขวงบุคคโล, เขตธนบุรี, กรุงเทพมหานคร, 10600, ประเทศไทย
+2. Mahatun Plaza. Detailed address: Lek Optical, 888/21, ถนนเพลินจิต, หลังสวน, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+214,6.51,B,2.5,5.45,4.76,"What is the straight-line distance between the following two locations? (Unit is km)
+1. โรงเรียนสอนทำอาหาร ครัวเจ๊ง้อ. Detailed address: ถนนมหาเศรษฐ์, หมอเพชรหมอพลอย, แขวงสี่พระยา, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. Ootoya Kitchen. Detailed address: 991, ถนนพระรามที่ 1, สยาม, แขวงปทุมวัน, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+215,2.5,D,3.03,14.77,7.32,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pui Restaurant. Detailed address: ตรอกวัดตรีทศเทพ, วิสุทธิกษัตริย์, แขวงบ้านพานถม, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. Five Star. Detailed address: 4/47, ซอยคาวบอย, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+216,2.86,D,2.32,2.14,4.2,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Smokey Cat Coffee Roaster. Detailed address: ถนนสวนพลู, สวนพลู, แขวงทุ่งมหาเมฆ, เขตสาทร, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. ก๋วยเตี๋ยวเรือ เยาวราช. Detailed address: 196, ถนนเยาวราช, สำเพ็ง, แขวงสัมพันธวงศ์, เขตสัมพันธวงศ์, กรุงเทพมหานคร, 10100, ประเทศไทย"
+217,11.02,C,8.06,4.54,8.81,"What is the straight-line distance between the following two locations? (Unit is km)
+1. วัดใหม่ทองเสน. Detailed address: ซอยวัดใหม่ทองเสน, เกียกกาย, แขวงถนนนครไชยศรี, เขตดุสิต, กรุงเทพมหานคร, 10300, ประเทศไทย
+2. พรชัย. Detailed address: ซอยอรุณอมรินทร์ 47, มหาวงษ์พัฒนา, แขวงบางยี่ขัน, เขตบางพลัด, กรุงเทพมหานคร, 10700, ประเทศไทย"
+218,9.25,C,8.77,3.16,8.09,"What is the straight-line distance between the following two locations? (Unit is km)
+1. สถานีตำรวจนครบาลพญาไท. Detailed address: ถนนศรีอยุธยา, ชุมชนซอยแดงบุหงา, แขวงทุ่งพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. Kaoneow Moon Chan Rorge. Detailed address: ซอยสหมิตร, ซอยสว่าง, แขวงมหาพฤฒาราม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+219,8.91,B,2.0,5.1,3.88,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ท่าเรือตากสิน. Detailed address: ถนนกรุงธนบุรี, แขวงคลองต้นไทร, เขตคลองสาน, กรุงเทพมหานคร, 10600, ประเทศไทย
+2. Mekhong Mystique Restaurant & Bar. Detailed address: Asiatique The Riverfront, ซอยเจริญกรุง 99, บ้านใหม่, แขวงวัดพระยาไกร, เขตบางคอแหลม, กรุงเทพมหานคร, 10120, ประเทศไทย"
+220,2.7,A,4.26,10.08,7.17,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Starbucks. Detailed address: 111, ถนนราชดำริ, แขวงปทุมวัน, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. Took Lae Dee. Detailed address: ซอยสุขุมวิท 16, ชุมชนเจริญสุข, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+221,4.9,D,4.03,5.13,9.01,"What is the straight-line distance between the following two locations? (Unit is km)
+1. หมู่บ้านเทวินทร์. Detailed address: ซอยหมู่บ้านเทวินทร์, แขวงวัดท่าพระ, เขตบางกอกใหญ่, กรุงเทพมหานคร, 10600, ประเทศไทย
+2. อาคารประสานมิตรธานี. Detailed address: 41, ซอยสุขุมวิท 23, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+222,6.86,D,7.62,5.63,1.52,"What is the straight-line distance between the following two locations? (Unit is km)
+1. บ้านแสนแสบ. Detailed address: 20/2, ซอยเกษมสันต์ 1, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. คาเฟ่ อเมซอน. Detailed address: ถนนบำรุงเมือง, ยศเส, แขวงคลองมหานาค, เขตป้อมปราบศัตรูพ่าย, กรุงเทพมหานคร, 10100, ประเทศไทย"
+223,10.84,A,13.38,15.44,8.69,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Take a Shot. Detailed address: ซอยเจริญนคร 42, แขวงบางลำภูล่าง, เขตคลองสาน, กรุงเทพมหานคร, 10600, ประเทศไทย
+2. TYST Residence. Detailed address: 115, ซอยเนียมอุทิศ, แขวงดินแดง, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย"
+224,2.74,D,1.07,2.87,4.69,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Manel Lankan. Detailed address: ซอยราชปรารภ 4, ชุมชนริมทางรถไฟมักกะสัน, แขวงมักกะสัน, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. Laun. Detailed address: ซอยสามเสน 4, วิสุทธิกษัตริย์, แขวงบ้านพานถม, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+225,13.96,C,1.36,6.46,12.36,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ลานจอดไอด้า. Detailed address: ซอยจันทน์ 43 แยก 26-3, เพชรไผ่เงิน, แขวงบางโคล่, เขตบางคอแหลม, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. Wattana Suite. Detailed address: Mövenpick Hotel Sukhumvit 15 Bangkok, 47, ซอยสุขุมวิท 15, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+226,11.28,B,5.61,9.12,7.15,"What is the straight-line distance between the following two locations? (Unit is km)
+1. วัดน้อยนางหงษ์. Detailed address: สะพานพระราม 8, มหาวงษ์พัฒนา, แขวงบางยี่ขัน, เขตบางพลัด, กรุงเทพมหานคร, 10700, ประเทศไทย
+2. ตึกคณะเภสัชศาสตร์. Detailed address: ซอยจุฬาลงกรณ์ 64, แขวงปทุมวัน, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+227,8.29,B,9.34,17.01,4.62,"What is the straight-line distance between the following two locations? (Unit is km)
+1. วินไผ่เงิน 43 แยก 43. Detailed address: ซอยจันทน์ 43 แยก 43, เพชรไผ่เงิน, แขวงบางโคล่, เขตบางคอแหลม, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. วัวล้วนๆ สาขาม.หอการค้าไทย. Detailed address: ซอยวิภาวดีรังสิต 2, ชุมชนซอยเพิ่มสินสมบูรณ์สุข, แขวงรัชดาภิเษก, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย"
+228,0.97,A,6.9,2.01,3.95,"What is the straight-line distance between the following two locations? (Unit is km)
+1. สวนหินอ่อน วังวินด์เซอร์. Detailed address: จุฬาลงกรณ์มหาวิทยาลัย, 254, ถนนพญาไท, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. LKN Grand Apartment. Detailed address: ซอยตลาดเก่ากิ่งเพชร (Soi LKN Grand), บ้านครัวเหนือ, แขวงถนนเพชรบุรี, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย"
+229,9.93,B,2.82,1.39,9.23,"What is the straight-line distance between the following two locations? (Unit is km)
+1. TAX. Detailed address: 695-697, ถนนไมตรีจิตต์, แขวงป้อมปราบ, เขตป้อมปราบศัตรูพ่าย, กรุงเทพมหานคร, 10100, ประเทศไทย
+2. ศาลท้าวมหาพรหม. Detailed address: ถนนเพลินจิต, ราชประสงค์, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+230,1.56,D,9.08,8.68,7.47,"What is the straight-line distance between the following two locations? (Unit is km)
+1. เดอะคอร์เนอร์50. Detailed address: 360/14, ซอยสามเสน 4, วิสุทธิกษัตริย์, แขวงบ้านพานถม, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. Bliss. Detailed address: 131, ซอยพระราม 9 สแควร์, แขวงห้วยขวาง, เขตห้วยขวาง, กรุงเทพมหานคร, 10310, ประเทศไทย"
+231,2.74,D,8.41,7.27,5.49,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Supalai Park Asoke-Ratchada. Detailed address: ถนนอโศก-ดินแดง, แขวงดินแดง, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. Préf. Detailed address: ซอยสาทร 11, ชุมชนเซ็นหลุยส์ 3, แขวงยานนาวา, เขตสาทร, กรุงเทพมหานคร, 10120, ประเทศไทย"
+232,6.75,A,1.69,9.12,9.24,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Walden Home Cafe. Detailed address: ถนนสมเด็จเจ้าพระยา, ท่าดินแดง, แขวงคลองสาน, เขตคลองสาน, กรุงเทพมหานคร, 10600, ประเทศไทย
+2. Brainwake.cafe. Detailed address: 27/1, ซอยพร้อมจิต, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+233,0.74,D,12.44,11.45,4.87,"What is the straight-line distance between the following two locations? (Unit is km)
+1. BangkokFA. Detailed address: Lido Connect, แขวงปทุมวัน, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. อู่คลองเตย. Detailed address: ถนนเกษมราษฎร์, ชุมชนพัฒนาใหม่, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+234,12.89,B,5.22,10.28,8.11,"What is the straight-line distance between the following two locations? (Unit is km)
+1. สมาคมกุศลสงเคราะห์. Detailed address: ซอยโจวซือกง, ชุมชนผู้ค้าอะไหล่เก่า, แขวงตลาดน้อย, เขตสัมพันธวงศ์, กรุงเทพมหานคร, 10100, ประเทศไทย
+2. โรงเรียนคลองเตยวิทยา. Detailed address: ซอยศาลเจ้า, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+235,12.97,A,9.32,9.53,8.24,"What is the straight-line distance between the following two locations? (Unit is km)
+1. มายเบด. Detailed address: ถนนรัชดาภิเษก, แขวงจอมพล, เขตจตุจักร, กรุงเทพมหานคร, 10900, ประเทศไทย
+2. พลีโน่ ราชพฤกษ์-สาทร. Detailed address: บ้านคลองวัดสัก, ตำบลบางขนุน, องค์การบริหารส่วนตำบลบางขนุน, อำเภอบางกรวย, จังหวัดนนทบุรี, 11130, ประเทศไทย"
+236,5.68,B,6.8,1.06,13.19,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Heaven Sauna. Detailed address: 119, ถนนมเหสักข์, ปราโมทย์, แขวงสุริยวงศ์, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. Disc and Sip. Detailed address: 251/1, ซอยสุขุมวิท 55, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+237,9.16,A,11.55,6.96,3.43,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dental Vision. Detailed address: ซอยหัสดิเสวี, แขวงห้วยขวาง, เขตห้วยขวาง, กรุงเทพมหานคร, 10310, ประเทศไทย
+2. Dog Step. Detailed address: 34/1, ซอยสุขุมวิท 50, ชุมชนเริ่มเจริญ, แขวงพระโขนง, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+238,1.9,D,7.99,9.98,4.12,"What is the straight-line distance between the following two locations? (Unit is km)
+1. เทวาลัยพระวิษณุ. Detailed address: ถนนศิริพงษ์, สุภาพกุล, แขวงสำราญราษฎร์, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. AKA. Detailed address: 999/9, ถนนราชดำริ, แขวงปทุมวัน, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+239,8.98,C,12.4,10.33,8.06,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Family. Detailed address: 1 6, ถนนประชาธิปไตย, วิสุทธิกษัตริย์, แขวงบ้านพานถม, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. โรงพยาบาลกล้วยน้ำไท. Detailed address: ซอยรูเบีย, ชุมชนภูมิจิตร, แขวงพระโขนง, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+240,4.97,C,8.21,2.24,5.01,"What is the straight-line distance between the following two locations? (Unit is km)
+1. T-One Building. Detailed address: 8, ซอยสุขุมวิท 40, แขวงพระโขนง, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Voque. Detailed address: ชุมชนเจริญสุข, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+241,1.69,B,5.03,1.26,7.56,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cimb Thai. Detailed address: ถนนพระสุเมรุ, บางลำพู, แขวงชนะสงคราม, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. Katak@Tipco (กะต๊าก). Detailed address: พระรามที่ 6 ซอย 39, ชุมชนหมู่บ้านประดิพัทธ์วิลล่า, แขวงพญาไท, เขตพญาไท, กรุงเทพมหานคร, 10400, ประเทศไทย"
+242,8.82,B,10.64,8.48,6.64,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Golden Dome. Detailed address: ซอยรัชดาภิเษก 18, แขวงห้วยขวาง, เขตห้วยขวาง, กรุงเทพมหานคร, 10310, ประเทศไทย
+2. Catsanova. Detailed address: 226/3, ถนนสาธุประดิษฐ์, ชุมชนโสณมัยอร่ามดวง, แขวงบางโคล่, เขตบางคอแหลม, กรุงเทพมหานคร, 10120, ประเทศไทย"
+243,7.85,D,1.13,1.89,3.97,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Original Thai Wonton Mee. Detailed address: ซอยเพชรบุรี 19, แขวงถนนพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. เมธาวลัยศรแดง. Detailed address: ซอยดำเนินกลางใต้, ชุมชนหลังวัดราชนัดดา, แขวงบวรนิเวศ, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+244,14.9,C,16.09,9.29,7.65,"What is the straight-line distance between the following two locations? (Unit is km)
+1. นิดา แมนชั่น. Detailed address: 39, ซอยพร้อมจิต แยก 2, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. วัดนาคกลางวรวิหาร. Detailed address: ซอยอิสรภาพ 42, แขวงวัดอรุณ, เขตบางกอกใหญ่, กรุงเทพมหานคร, 10600, ประเทศไทย"
+245,12.45,C,4.55,10.29,16.01,"What is the straight-line distance between the following two locations? (Unit is km)
+1. honey bear bistro. Detailed address: ซอยเอกมัย 4, แขวงพระโขนงเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Mulligans. Detailed address: ถนนข้าวสาร, แขวงตลาดยอด, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+246,4.7,A,5.92,11.05,8.85,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Koi Thé. Detailed address: 944, ถนนพระรามที่ 4, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. Cimb Thai. Detailed address: ถนนพระสุเมรุ, บางลำพู, แขวงชนะสงคราม, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+247,1.49,C,0.54,7.61,15.58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lee Jae Veg. Detailed address: ซอยเจริญกรุง 14, เยาวราช, แขวงสัมพันธวงศ์, เขตสัมพันธวงศ์, กรุงเทพมหานคร, 10100, ประเทศไทย
+2. Bump Coffee Space. Detailed address: 12, ซอยต่อศักดิ์ 1, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+248,1.29,D,9.21,3.0,4.17,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lonely Batista. Detailed address: 444/2, ซอยรัชดาภิเษก 3 แยก 4-11-5, แขวงดินแดง, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. บ้านแสนแสบ. Detailed address: 20/2, ซอยเกษมสันต์ 1, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+249,5.93,C,18.7,11.69,16.95,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Colors Cafe. Detailed address: ซอยสุขุมวิท 69/1, แขวงพระโขนงเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 12060, ประเทศไทย
+2. Trust dental clinic. Detailed address: ถนนพหลโยธิน, รัชโยธิน, แขวงจตุจักร, เขตจตุจักร, กรุงเทพมหานคร, 10900, ประเทศไทย"
+250,3.31,C,3.12,9.98,13.35,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ลูกชิ้นหมูฮีโร่. Detailed address: ถนนลาดพร้าววังหิน, แขวงลาดพร้าว, เขตลาดพร้าว, กรุงเทพมหานคร, 10230, ประเทศไทย
+2. Amritsr Restaurant. Detailed address: ซอยสุขุมวิท 22, สุขุมวิท, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+251,11.34,C,10.12,5.33,4.21,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Coffee Madness. Detailed address: ถนนจักรพงษ์, แขวงตลาดยอด, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. บุญเลิศ. Detailed address: ถนนนราธิวาสราชนครินทร์, ละลายทรัพย์, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+252,12.39,C,1.26,5.43,7.39,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Siam Wisdom. Detailed address: ซอยสุขุมวิท 31 แยก 4, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Tora. Detailed address: ถนนสุทธิสารวินิจฉัย, ชุมชนริมคลองบางซื่อ 18, แขวงรัชดาภิเษก, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย"
+253,1.71,C,6.4,8.05,9.21,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Escapade. Detailed address: ถนนพระอาทิตย์, พระอาทิตย์, แขวงชนะสงคราม, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. It's Thyme. Detailed address: ซอยสุขุมวิท 16, ชุมชนเจริญสุข, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+254,0.53,C,3.88,6.76,11.31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. โชว์จุ่งลูกหมาก. Detailed address: ซอยสุขุมวิท 36, ชุมชนทรัพย์มโนทัย, แขวงคลองตัน, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ พื้นที่พระนครใต้. Detailed address: ซอยเจริญกรุง 57, แขวงยานนาวา, เขตสาทร, กรุงเทพมหานคร, 10120, ประเทศไทย"
+255,5.3,A,13.19,13.02,8.73,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sukishi. Detailed address: 79, นครไทย ซอย 16, แขวงช่องนนทรี, เขตยานนาวา, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. ธนาคารไทยพาณิชย์. Detailed address: ถนนพญาไท, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+256,3.85,A,5.43,5.83,9.61,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ถ้ำแม่พระ. Detailed address: ถนนคอนแวนต์, ชุมชนซอยพิพัฒน์ 2, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. อีสานร่มเย็น. Detailed address: ซอยเลิศปัญญา, แขวงถนนพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย"
+257,2.62,A,8.12,8.0,7.18,"What is the straight-line distance between the following two locations? (Unit is km)
+1. YRC Yoga. Detailed address: 153, ซอยหลังวัดหัวลำโพง, สันติภาพ, แขวงสี่พระยา, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. My Fav. Detailed address: 54, ซอยสุขุมวิท 4, สมาหาร, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+258,4.83,A,2.4,1.63,0.9,"What is the straight-line distance between the following two locations? (Unit is km)
+1. อาคารนวัตกรรมทางเภสัชศาสตร์. Detailed address: จุฬาลงกรณ์มหาวิทยาลัย, 254, ถนนพญาไท, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. ศูนย์บริการสาธารณสุข 18 มงคล-วอน วังตาล. Detailed address: 863/2, ซอยจันทน์ 43 แยก 37, เพชรไผ่เงิน, แขวงบางโคล่, เขตบางคอแหลม, กรุงเทพมหานคร, 10120, ประเทศไทย"
+259,1.47,D,4.49,7.6,5.58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sizzler. Detailed address: 257, ถนนเจริญนคร, แขวงสำเหร่, เขตธนบุรี, กรุงเทพมหานคร, 10600, ประเทศไทย
+2. Strassen-. Detailed address: ซอยยศเส 2, ยศเส, แขวงวัดเทพศิรินทร์, เขตป้อมปราบศัตรูพ่าย, กรุงเทพมหานคร, 10100, ประเทศไทย"
+260,10.48,C,7.62,4.47,6.76,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Greens & Cheese. Detailed address: ถนนข้าวสาร, แขวงตลาดยอด, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. โกบ๊อ To Go. Detailed address: 254, ถนนพญาไท, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+261,11.55,B,5.31,8.46,6.84,"What is the straight-line distance between the following two locations? (Unit is km)
+1. พาดา เจริญเภสัช. Detailed address: 582/451, ซอยรัชดาภิเษก 3 แยก 4-11, แขวงดินแดง, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. Jeffer. Detailed address: ซอยสุขุมวิท 61, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+262,15.21,C,1.22,9.03,15.13,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ธนาคารทหารไทย. Detailed address: คณะศิลปศาสตร์, 2, ถนนพระจันทร์, ท่าพระจันทร์, แขวงพระบรมมหาราชวัง, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. Dental Signature Emquartier. Detailed address: 4A-10 4th floor, Building A (helix), ซอยสุขุมวิท 35, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+263,11.18,C,11.7,4.08,10.38,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ครัวญาดา. Detailed address: ตรอกบวรรังษี, ชุมชนหลังวัดราชนัดดา, แขวงบวรนิเวศ, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. Soei. Detailed address: ถนนกำแพงเพชร 5, ศาสนา, แขวงพญาไท, เขตพญาไท, กรุงเทพมหานคร, 10400, ประเทศไทย"
+264,2.63,C,6.62,1.59,7.65,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Banyan Tree Residences Riverside. Detailed address: วัดทองนพคุณ, ซอยสมเด็จเจ้าพระยา 17, ชุมชนเจริญรักษ์ 13, แขวงคลองสาน, เขตคลองสาน, กรุงเทพมหานคร, 10600, ประเทศไทย
+2. เกรียงประภาค้าเหล็ก. Detailed address: 74/11, รองเมือง ซอย 1, ชุมชนแฟลตรถไฟ, แขวงรองเมือง, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+265,6.05,D,5.59,3.87,2.3,"What is the straight-line distance between the following two locations? (Unit is km)
+1. คณะรัฐศาสตร์. Detailed address: 254, ถนนพญาไท, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. วิน ซอยสุขุมวิท 4. Detailed address: ซอยสุขุมวิท 4, สมาหาร, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+266,12.04,B,4.25,9.33,8.26,"What is the straight-line distance between the following two locations? (Unit is km)
+1. SuperRich Exchange Station. Detailed address: ถนนเจริญกรุง, เยาวราช, แขวงสัมพันธวงศ์, เขตสัมพันธวงศ์, กรุงเทพมหานคร, 10100, ประเทศไทย
+2. Little Sunshine. Detailed address: ซอยวิทยุ 1, วิทยุ, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+267,4.94,D,1.3,10.66,3.16,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pola Pola. Detailed address: ถนนคอนแวนต์, ชุมชนซอยพิพัฒน์ 2, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. วินไผ่เงิน 43 แยก 43. Detailed address: ซอยจันทน์ 43 แยก 43, เพชรไผ่เงิน, แขวงบางโคล่, เขตบางคอแหลม, กรุงเทพมหานคร, 10120, ประเทศไทย"
+268,3.9,B,2.86,7.19,7.59,"What is the straight-line distance between the following two locations? (Unit is km)
+1. SG Tower. Detailed address: 5, ซอยมหาดเล็กหลวง 3, มหาดเล็กหลวง, แขวงปทุมวัน, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. UBC II. Detailed address: Starbucks, ถนนสุขุมวิท, แขวงคลองตัน, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+269,12.83,D,10.18,1.92,7.92,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Makalin Clinic. Detailed address: ถนนพระสุเมรุ, บางลำพู, แขวงชนะสงคราม, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. Mercy Republic. Detailed address: ซอย 100 ปี สยามสมาคม, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+270,0.95,B,6.5,14.48,2.69,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The three musketbeers. Detailed address: ถนนบำรุงเมือง, แขวงวัดเทพศิรินทร์, เขตป้อมปราบศัตรูพ่าย, กรุงเทพมหานคร, 10100, ประเทศไทย
+2. Spaghetti Factory. Detailed address: 79, ถนนรัชดาภิเษก, ชุมชนซอยวารี, แขวงช่องนนทรี, เขตยานนาวา, กรุงเทพมหานคร, 10120, ประเทศไทย"
+271,11.91,C,8.69,4.65,8.66,"What is the straight-line distance between the following two locations? (Unit is km)
+1. อาคารศิลปวัฒนธรรม. Detailed address: จุฬาลงกรณ์มหาวิทยาลัย, 254, ถนนพญาไท, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. Au Bon Pain. Detailed address: ถนนหน้าพระลาน, ท่าช้าง, แขวงพระบรมมหาราชวัง, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+272,4.08,A,5.31,7.31,8.75,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sub-Zero Co-operative Sukhumvit-Ekkamai. Detailed address: 1239, ถนนสุขุมวิท, แขวงพระโขนง, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Red Dragon. Detailed address: ซอยสุขุมวิท 4, สมาหาร, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+273,6.29,C,6.97,2.93,6.52,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ราชวงศ์. Detailed address: ถนนราชวงศ์, สำเพ็ง, แขวงจักรวรรดิ, เขตสัมพันธวงศ์, กรุงเทพมหานคร, 10100, ประเทศไทย
+2. Makalin Clinic. Detailed address: ถนนพระสุเมรุ, บางลำพู, แขวงชนะสงคราม, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+274,7.22,A,8.86,13.44,5.65,"What is the straight-line distance between the following two locations? (Unit is km)
+1. หลักสูตรนานาชาติ รร.สาธิต มศว ประสานมิตร(ฝ่ายมัธยม). Detailed address: SWUNIPLEX, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. street food. Detailed address: ซอยนามชัย, ชุมชนโบสถ์พราหมณ์, แขวงเสาชิงช้า, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+275,4.86,D,6.27,6.51,1.08,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nam Sing. Detailed address: ถนนเยาวราช, เยาวราช, แขวงสัมพันธวงศ์, เขตสัมพันธวงศ์, กรุงเทพมหานคร, 10100, ประเทศไทย
+2. Vaishno Bhojnalya. Detailed address: ถนนจักรเพชร, พาหุรัด, แขวงวังบูรพาภิรมย์, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+276,8.75,D,1.5,8.79,3.59,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mekhong Mystique Restaurant & Bar. Detailed address: Asiatique The Riverfront, ซอยเจริญกรุง 99, บ้านใหม่, แขวงวัดพระยาไกร, เขตบางคอแหลม, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. Fun Cafe and Hostel. Detailed address: ซอยวัดแก้วฟ้า, แพรกบ้านนาย, แขวงมหาพฤฒาราม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+277,3.77,B,5.16,0.77,6.9,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Roof Bar. Detailed address: ถนนข้าวสาร, แขวงตลาดยอด, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. ราเมนเฮาส์ โมโมทะโร. Detailed address: ถนนธนิยะ, แขวงสุริยวงศ์, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+278,11.78,D,12.87,4.47,7.9,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ซุ้มประตูเฉลิมพระเกียรติ 6 รอบพระชนมพรรษา. Detailed address: ถนนเยาวราช, โอเดียน, แขวงสัมพันธวงศ์, เขตสัมพันธวงศ์, กรุงเทพมหานคร, 10100, ประเทศไทย
+2. อินทามระ. Detailed address: Buddy Place, ถนนประชาสุข, แขวงรัชดาภิเษก, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย"
+279,10.89,C,10.55,7.77,9.18,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Widdershins. Detailed address: ถนนเยาวราช, เยาวราช, แขวงสัมพันธวงศ์, เขตสัมพันธวงศ์, กรุงเทพมหานคร, 10100, ประเทศไทย
+2. Green tea. Detailed address: ตลาดนัดจตุจักร, ถนนกำแพงเพชร 3, แขวงจตุจักร, เขตจตุจักร, กรุงเทพมหานคร, 10900, ประเทศไทย"
+280,8.91,B,5.08,9.6,12.7,"What is the straight-line distance between the following two locations? (Unit is km)
+1. บุญมิตร สีลม. Detailed address: 130/12, ซอยสีลม 8, แขวงสุริยวงศ์, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. จ.เจริญเภสัช. Detailed address: 240, ถนนกรุงเกษม, แขวงบางขุนพรหม, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+281,9.34,C,3.39,2.24,3.7,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Science Centre for Education. Detailed address: ถนนสุขุมวิท, แขวงพระโขนง, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. ญาดา. Detailed address: ซอยพร้อมศักดิ์, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+282,7.31,A,4.67,8.94,5.91,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ธนาคารกรุงไทย. Detailed address: ถนนพระรามที่ 1, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. Fatboy's Motorbike Rental. Detailed address: ซอยสุขุมวิท 65, แขวงพระโขนงเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+283,4.07,A,10.03,2.17,11.45,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Grande Centre Point Chinatown. Detailed address: ถนนทรงสวัสดิ์, โอเดียน, แขวงสัมพันธวงศ์, เขตสัมพันธวงศ์, กรุงเทพมหานคร, 10100, ประเทศไทย
+2. Ideo Sathon-Tha Phra. Detailed address: Max valu, ถนนราชพฤกษ์, แขวงบุคคโล, เขตธนบุรี, กรุงเทพมหานคร, 10600, ประเทศไทย"
+284,3.56,B,1.92,8.06,7.12,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mint Restaurant. Detailed address: ซอยสุขุมวิท 26, แขวงคลองตัน, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Yakiniku Torakichi. Detailed address: 982/22, ถนนสุขุมวิท, แขวงพระโขนง, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+285,8.9,B,3.95,7.14,11.45,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ไชยแพทย์ 25 คลินิก. Detailed address: 1038/1, ถนนพระรามที่ 4, บ่อนไก่, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. Move on Ekkamai. Detailed address: ถนนสุขุมวิท, แขวงพระโขนง, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+286,8.26,D,6.27,15.87,11.47,"What is the straight-line distance between the following two locations? (Unit is km)
+1. I love Thai food. Detailed address: ถนนรามบุตรี, แขวงตลาดยอด, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. iki haus. Detailed address: ถนนสุขุมวิท 71, แขวงพระโขนงเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 12060, ประเทศไทย"
+287,3.41,A,4.6,11.2,4.56,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ส. เพชรมณี. Detailed address: 23, ตรอกบวรรังษี, ชุมชนหลังวัดราชนัดดา, แขวงบวรนิเวศ, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. CIBO. Detailed address: ซอยเกษมสันต์ 2, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+288,10.2,C,13.95,7.55,12.8,"What is the straight-line distance between the following two locations? (Unit is km)
+1. บริษัท ทางด่วนกรุงเทพ จำกัด (มหาชน). Detailed address: ถนนเพชรอุทัย, แขวงบางกะปิ, เขตห้วยขวาง, กรุงเทพมหานคร, 10310, ประเทศไทย
+2. บริษัท หนังสือพิมพ์สากล จำกัด. Detailed address: 21/1, ถนนเจริญกรุง, บ้านหม้อ, แขวงวังบูรพาภิรมย์, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+289,4.11,A,0.74,7.47,11.19,"What is the straight-line distance between the following two locations? (Unit is km)
+1. เมธาวลัยศรแดง. Detailed address: ซอยดำเนินกลางใต้, ชุมชนหลังวัดราชนัดดา, แขวงบวรนิเวศ, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. ฮก หูฉลาม. Detailed address: ถนนสุรวงศ์, ปราโมทย์, แขวงสุริยวงศ์, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+290,2.55,C,3.83,10.15,7.57,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Wow Cafe. Detailed address: ซอยอินทามระ 47, แขวงรัชดาภิเษก, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. Priscilla Ice Cream. Detailed address: 59, ถนนอรุณอมรินทร์, ชุมชนวัดระฆัง, แขวงวัดอรุณ, เขตบางกอกใหญ่, กรุงเทพมหานคร, 10600, ประเทศไทย"
+291,10.36,C,10.23,3.61,1.4,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ราเมนเฮาส์ โมโมทะโร. Detailed address: ถนนธนิยะ, แขวงสุริยวงศ์, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. Pork Soup and noodles. Detailed address: ซอยสุขุมวิท 33, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+292,4.88,A,12.81,8.12,3.64,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Prik Pranakorn. Detailed address: 269, ถนนสามเสน, แขวงวัดสามพระยา, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. ลาบยโส. Detailed address: ถนนเจริญนคร, แขวงคลองต้นไทร, เขตคลองสาน, กรุงเทพมหานคร, 10600, ประเทศไทย"
+293,5.65,B,3.65,7.19,5.55,"What is the straight-line distance between the following two locations? (Unit is km)
+1. วัดนาคกลางวรวิหาร. Detailed address: ซอยอิสรภาพ 42, แขวงวัดอรุณ, เขตบางกอกใหญ่, กรุงเทพมหานคร, 10600, ประเทศไทย
+2. ตึกสันติไมตรีหลังใน. Detailed address: ทำเนียบรัฐบาล, 1, ถนนพิษณุโลก, แขวงดุสิต, เขตดุสิต, กรุงเทพมหานคร, 10300, ประเทศไทย"
+294,9.59,B,5.21,9.51,8.44,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Big Board. Detailed address: ถนนนราธิวาสราชนครินทร์, ละลายทรัพย์, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. ห้องน้ำสวนแก้ว. Detailed address: ถนนหน้าพระลาน, ท่าช้าง, แขวงพระบรมมหาราชวัง, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+295,12.85,B,7.05,14.18,3.29,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Vaishno Bhojnalya. Detailed address: ถนนจักรเพชร, พาหุรัด, แขวงวังบูรพาภิรมย์, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. ISAO. Detailed address: 5, ซอยสุขุมวิท 31, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+296,7.51,D,7.51,3.82,2.28,"What is the straight-line distance between the following two locations? (Unit is km)
+1. อาคารโรงซ่อมอุปกรณ์ส่วนบนรถโดยสาร. Detailed address: โรงงานมักกะสัน, ทางพิเศษเฉลิมมหานคร, ชุมชนริมทางรถไฟมักกะสัน, แขวงมักกะสัน, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. สถาบันสุขภาพเด็กแห่งชาติมหาราชินี. Detailed address: ซอยราชวิถี 18, ชุมชนซอยสวนเงิน, แขวงทุ่งพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย"
+297,7.01,D,10.13,1.45,3.19,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Himali Cha Cha & Son. Detailed address: ซอยสุขุมวิท 31, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. ร้านยากรุงเทพ. Detailed address: 380, ซอยประชาสงเคราะห์ 2, แขวงดินแดง, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย"
+298,6.14,A,1.3,11.3,7.35,"What is the straight-line distance between the following two locations? (Unit is km)
+1. CrossFit Naga. Detailed address: 19, ซอยต่อศักดิ์ 1, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. มอส เบอร์เกอร์. Detailed address: 79, ถนนรัชดาภิเษก, ชุมชนซอยวารี, แขวงช่องนนทรี, เขตยานนาวา, กรุงเทพมหานคร, 10120, ประเทศไทย"
+299,2.98,A,8.37,0.78,7.62,"What is the straight-line distance between the following two locations? (Unit is km)
+1. บุญเลิศ. Detailed address: ถนนนราธิวาสราชนครินทร์, ละลายทรัพย์, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. Starbucks. Detailed address: 111, ถนนราชดำริ, แขวงปทุมวัน, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+300,10.41,C,8.06,7.01,13.61,"What is the straight-line distance between the following two locations? (Unit is km)
+1. บริษัท วินเนอร์รีเอลตี้ จำกัด. Detailed address: 128/13, ซอยสีลม 6, แขวงสุริยวงศ์, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. บ้านจอมพลสฤษดิ์ ธนะรัชต์. Detailed address: ซอยประดิพัทธ์ 8, ชุมชนหมู่บ้านประดิพัทธ์วิลล่า, แขวงพญาไท, เขตพญาไท, กรุงเทพมหานคร, 10400, ประเทศไทย"
+301,9.18,D,6.7,5.35,3.1,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Coffee World. Detailed address: Terminal 21, 88, ถนนสุขุมวิท, สมาหาร, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. ถ้ำแม่พระ. Detailed address: ถนนคอนแวนต์, ชุมชนซอยพิพัฒน์ 2, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+302,12.71,B,8.46,14.65,0.59,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Little Sunshine. Detailed address: ซอยวิทยุ 1, วิทยุ, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. ศาลพระภูมิ. Detailed address: ถนนกำแพงเพชร 3, แขวงจตุจักร, เขตจตุจักร, กรุงเทพมหานคร, 10900, ประเทศไทย"
+303,11.99,D,5.64,1.19,4.35,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ธนาคารอาคารสงเคราะห์. Detailed address: ถนนสุขุมวิท, สุขุมวิท, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. บังเอิญ! อร่อย โรตีสายไหม อนุสาวรีย์ชัยฯ. Detailed address: เกาะพหลโยธิน, แขวงทุ่งพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย"
+304,3.93,C,1.46,4.96,2.42,"What is the straight-line distance between the following two locations? (Unit is km)
+1. -273° Coffee. Detailed address: ซอยสีลม 3, ชุมชนซอยพิพัฒน์ 2, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. haps - Brunch & More. Detailed address: 46/9, ซอยสุขุมวิท 49, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+305,5.73,A,10.89,8.88,0.85,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sathorn Square. Detailed address: สถานทูตเบลเยี่ยม, 98, ถนนสาทรเหนือ, ละลายทรัพย์, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. โรงเรียนวิชากร กรุงเทพมหานคร. Detailed address: ถนนมิตรไมตรี 3, แขวงดินแดง, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย"
+306,16.9,B,9.88,11.74,5.49,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Capri Restaurant & Bar. Detailed address: Asiatique The Riverfront, ซอยเจริญกรุง 99, บ้านใหม่, แขวงวัดพระยาไกร, เขตบางคอแหลม, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. Indian Food. Detailed address: ทางหลัก, แขวงดินแดง, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย"
+307,1.75,A,6.45,4.5,5.77,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mayfair Suites. Detailed address: Best Western Mayfair Suites, ซอยเพชรบุรี 13, แขวงถนนพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. อาคารโรงซ่อมอุปกรณ์ส่วนบนรถโดยสาร. Detailed address: โรงงานมักกะสัน, ทางพิเศษเฉลิมมหานคร, ชุมชนริมทางรถไฟมักกะสัน, แขวงมักกะสัน, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย"
+308,6.39,A,3.15,11.59,1.89,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Cherie Clinic. Detailed address: 356, ถนนพหลโยธิน, สะพานควาย, แขวงพญาไท, เขตพญาไท, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. Roots. Detailed address: 335, ซอยทองหล่อ 17, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+309,1.45,C,9.16,4.54,2.67,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ฮก หูฉลาม. Detailed address: ถนนสุรวงศ์, ปราโมทย์, แขวงสุริยวงศ์, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. สำนักงานเขตธนบุรี. Detailed address: ถนนเทอดไท, ชุมชนตากสินสัมพันธ์, แขวงบางยี่เรือ, เขตธนบุรี, กรุงเทพมหานคร, 10600, ประเทศไทย"
+310,1.9,D,2.2,6.36,8.45,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Inthanin Coffee. Detailed address: 254, ถนนพญาไท, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. Lung Pherm Foodcourt. Detailed address: ซอยวิภาวดีรังสิต 22, แขวงจอมพล, เขตจตุจักร, กรุงเทพมหานคร, 10900, ประเทศไทย"
+311,10.75,B,8.35,13.24,5.79,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ตึกสันติไมตรีหลังใน. Detailed address: ทำเนียบรัฐบาล, 1, ถนนพิษณุโลก, แขวงดุสิต, เขตดุสิต, กรุงเทพมหานคร, 10300, ประเทศไทย
+2. โชว์จุ่งลูกหมาก. Detailed address: ซอยสุขุมวิท 36, ชุมชนทรัพย์มโนทัย, แขวงคลองตัน, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+312,12.71,A,10.19,10.9,20.15,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ร้านฅนเหนือ อาหารเหนือ. Detailed address: ซอยลาดพร้าว 80 แยก 22, แขวงวังทองหลาง, เขตวังทองหลาง, กรุงเทพมหานคร, 10310, ประเทศไทย
+2. สำนักงานเขตบางกอกน้อย. Detailed address: ซอยจรัญสนิทวงศ์ 32, ชุมชนวัดสุวรรณาราม, แขวงศิริราช, เขตบางกอกน้อย, กรุงเทพมหานคร, 10700, ประเทศไทย"
+313,10.97,C,9.89,4.81,1.26,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ญาดา. Detailed address: ซอยพร้อมศักดิ์, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Trinity Silom. Detailed address: Lom Lom Local Dinner, ซอยนราธิวาสราชนครินทร์ 3, ชุมชนซอยพิพัฒน์ 2, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+314,7.91,C,6.3,4.55,6.7,"What is the straight-line distance between the following two locations? (Unit is km)
+1. สำนักงานเขตธนบุรี. Detailed address: ถนนเทอดไท, ชุมชนตากสินสัมพันธ์, แขวงบางยี่เรือ, เขตธนบุรี, กรุงเทพมหานคร, 10600, ประเทศไทย
+2. The Island. Detailed address: ซอยสามเสน 4, วิสุทธิกษัตริย์, แขวงบ้านพานถม, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+315,11.36,C,7.14,5.24,8.52,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al-Khaleej. Detailed address: ซอยสุขุมวิท 5, ชุมชนรื่นฤดี, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. ท่าเรือตากสิน. Detailed address: ถนนกรุงธนบุรี, แขวงคลองต้นไทร, เขตคลองสาน, กรุงเทพมหานคร, 10600, ประเทศไทย"
+316,1.05,C,7.45,4.07,10.4,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ส้มตำสาวอุบล. Detailed address: ซอยราชวิถี 12, ชุมชนซอยสวนเงิน, แขวงทุ่งพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. Wow Cafe. Detailed address: ซอยอินทามระ 47, แขวงรัชดาภิเษก, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย"
+317,7.28,B,4.84,9.65,8.25,"What is the straight-line distance between the following two locations? (Unit is km)
+1. สถานีตำรวจนครบาลปทุมวัน. Detailed address: ซอยจุฬาลงกรณ์ 16, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. Capri Restaurant & Bar. Detailed address: Asiatique The Riverfront, ซอยเจริญกรุง 99, บ้านใหม่, แขวงวัดพระยาไกร, เขตบางคอแหลม, กรุงเทพมหานคร, 10120, ประเทศไทย"
+318,9.53,B,2.83,4.16,9.18,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ก๋วยเตี๋ยว 12 ปันนา. Detailed address: ซอยสีลม 3, ชุมชนซอยพิพัฒน์ 2, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. Walden Home Cafe. Detailed address: ถนนสมเด็จเจ้าพระยา, ท่าดินแดง, แขวงคลองสาน, เขตคลองสาน, กรุงเทพมหานคร, 10600, ประเทศไทย"
+319,5.45,B,7.51,10.66,3.92,"What is the straight-line distance between the following two locations? (Unit is km)
+1. วัดโพธิ์เรียง. Detailed address: ซอยจรัญสนิทวงศ์ 18, ชุมชนวัดครุฑ, แขวงบ้านช่างหล่อ, เขตบางกอกน้อย, กรุงเทพมหานคร, 10700, ประเทศไทย
+2. Siam Star Hotel. Detailed address: 178/7, ซอยราชปรารภ 5, แขวงถนนพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย"
+320,10.19,C,11.72,6.38,7.51,"What is the straight-line distance between the following two locations? (Unit is km)
+1. School Coffee X Warm Batch Roasters. Detailed address: ถนนนราธิวาสราชนครินทร์, ละลายทรัพย์, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. BOB Space. Detailed address: 64/1, เอกมัย ๑๐ แยก 2, แขวงพระโขนงเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+321,11.15,D,10.05,9.54,3.79,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Thai Jain Association. Detailed address: สาธุประดิษฐ์ 19 แยก 10, ชุมชนสามัคคีรวมใจ, แขวงช่องนนทรี, เขตยานนาวา, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. ตึก 2 คณะรัฐศาสตร์. Detailed address: สวนสถิรไมตรี, ถนนไฮโซ, แขวงปทุมวัน, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+322,9.0,B,5.96,8.88,12.27,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ธนาคารกสิกรไทย. Detailed address: ถนนสุรวงศ์, แขวงสุริยวงศ์, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. เวลาเวียด. Detailed address: ถนนรัชดาภิเษก, แขวงตลาดพลู, เขตธนบุรี, กรุงเทพมหานคร, 10600, ประเทศไทย"
+323,9.13,B,4.16,10.73,11.54,"What is the straight-line distance between the following two locations? (Unit is km)
+1. จุดจอดรถพยาบาล. Detailed address: ถนนดินแดง, ชุมชนบุญชูศรี, แขวงสามเสนใน, เขตพญาไท, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. Bankara Ramen. Detailed address: ซอยสุขุมวิท 39, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+324,8.9,D,3.08,0.64,1.65,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Wattana Suite. Detailed address: Mövenpick Hotel Sukhumvit 15 Bangkok, 47, ซอยสุขุมวิท 15, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. ทรัพย์ธานี. Detailed address: ซอยทรัพย์ธานี, แขวงดินแดง, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย"
+325,1.86,A,0.68,6.93,7.63,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ครัวอัปษร. Detailed address: ถนนพระรามที่ 4, บ่อนไก่, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. กะเพรากุ้งล้น ตามรีวิว. Detailed address: ตรอกเกลือ, สันติภาพ, แขวงสี่พระยา, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+326,1.23,B,2.63,8.92,8.58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. เอ ราเม็ง. Detailed address: 2, ถนนสีลม, ศาลาแดง, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. 八號. Detailed address: 8, ซอยนานา, แขวงป้อมปราบ, เขตป้อมปราบศัตรูพ่าย, กรุงเทพมหานคร, 10100, ประเทศไทย"
+327,14.06,C,12.05,6.75,2.64,"What is the straight-line distance between the following two locations? (Unit is km)
+1. เกรียงประภาค้าเหล็ก. Detailed address: 74/11, รองเมือง ซอย 1, ชุมชนแฟลตรถไฟ, แขวงรองเมือง, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. โรงเรียนวัดสุวรรณคีรี. Detailed address: ซอยชัยพฤกษ์ 2, ชุมชนริมคลองชักพระ, แขวงคลองชักพระ, เขตตลิ่งชัน, กรุงเทพมหานคร, 10170, ประเทศไทย"
+328,2.68,A,10.29,8.45,6.08,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bankara Ramen. Detailed address: ซอยสุขุมวิท 39, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Iron Hive. Detailed address: 1022, ถนนสุขุมวิท, ชุมชนภูมิจิตร, แขวงพระโขนง, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+329,1.51,A,4.58,3.51,7.83,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Krisana Borvornluck Law & Accounting Co.,Ltd.. Detailed address: ซอยเพชรบุรี 12/4, บ้านครัวเหนือ, แขวงถนนเพชรบุรี, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. Rang Nam Beef Noodles. Detailed address: ซอยราชปรารภ 14, แขวงมักกะสัน, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย"
+330,3.29,B,1.74,5.19,4.16,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Soei. Detailed address: ถนนกำแพงเพชร 5, ศาสนา, แขวงพญาไท, เขตพญาไท, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. All About Coco Homemade Ice Cream. Detailed address: เกาะพหลโยธิน, แขวงทุ่งพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย"
+331,2.68,C,11.0,3.76,7.8,"What is the straight-line distance between the following two locations? (Unit is km)
+1. McDonald's. Detailed address: ซอยพระราม 9 ซอย 1, แขวงห้วยขวาง, เขตห้วยขวาง, กรุงเทพมหานคร, 10310, ประเทศไทย
+2. ห้องสมุดสื่อสมาคมฝรั่งเศส. Detailed address: ซอยอรุณมักกินนอน, พระเจน, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+332,16.57,C,15.67,9.85,13.2,"What is the straight-line distance between the following two locations? (Unit is km)
+1. สำนักงานเขตบางกอกน้อย. Detailed address: ซอยจรัญสนิทวงศ์ 32, ชุมชนวัดสุวรรณาราม, แขวงศิริราช, เขตบางกอกน้อย, กรุงเทพมหานคร, 10700, ประเทศไทย
+2. Bei Otto. Detailed address: 1, ซอยสุขุมวิท 20, สุขุมวิท, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+333,10.27,A,17.03,3.15,14.71,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Au Bon Pain. Detailed address: ถนนหน้าพระลาน, ท่าช้าง, แขวงพระบรมมหาราชวัง, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. T-One Building. Detailed address: 8, ซอยสุขุมวิท 40, แขวงพระโขนง, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+334,7.4,A,9.51,5.33,2.04,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sodchuen Bar. Detailed address: ตลาดนัดจตุจักร, ถนนกำแพงเพชร 3, แขวงจตุจักร, เขตจตุจักร, กรุงเทพมหานคร, 10900, ประเทศไทย
+2. Happy bar. Detailed address: ถนนข้าวสาร, แขวงตลาดยอด, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+335,12.48,D,10.99,13.22,5.37,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ธนาคารกรุงเทพ. Detailed address: คณะศิลปศาสตร์, 2, ถนนพระจันทร์, ท่าพระจันทร์, แขวงพระบรมมหาราชวัง, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. XL Tea. Detailed address: เกาะพหลโยธิน, แขวงทุ่งพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย"
+336,9.43,B,6.88,7.89,13.33,"What is the straight-line distance between the following two locations? (Unit is km)
+1. KTB. Detailed address: ถนนสีลม, ละลายทรัพย์, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. โรงเรียนวัดทองศาลางาม. Detailed address: ซอยเพชรเกษม 20, แขวงปากคลองภาษีเจริญ, เขตภาษีเจริญ, กรุงเทพมหานคร, 10160, ประเทศไทย"
+337,6.54,A,11.84,11.07,9.46,"What is the straight-line distance between the following two locations? (Unit is km)
+1. นายเม้งบะหมี่ปู เกี๊ยวกุ้งยักษ์ (อารีย์). Detailed address: 7, ซอยอารีย์, อารีย์, แขวงพญาไท, เขตพญาไท, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. The Big Board. Detailed address: ถนนนราธิวาสราชนครินทร์, ละลายทรัพย์, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+338,4.03,B,1.19,6.46,2.46,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Peachlates. Detailed address: ซอยจุฬาลงกรณ์ 34, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. ธนาคารกสิกรไทย. Detailed address: ถนนสุรวงศ์, แขวงสุริยวงศ์, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+339,8.47,B,4.31,11.48,1.31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Amomo. Detailed address: ถนนรัชดาภิเษก, สุขุมวิท, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. ถนนจันทน์ใต้ (ขาออก). Detailed address: ถนนนราธิวาสราชนครินทร์, ชุมชนสามัคคีรวมใจ, แขวงช่องนนทรี, เขตยานนาวา, กรุงเทพมหานคร, 10120, ประเทศไทย"
+340,16.5,C,14.39,8.77,12.81,"What is the straight-line distance between the following two locations? (Unit is km)
+1. โรงเรียนวัดบางโพอมาวาส. Detailed address: ประชาราษฎร์สาย ๑ ซอย 19, ชุมชนราชทรัพย์, แขวงบางซื่อ, เขตบางซื่อ, กรุงเทพมหานคร, 10800, ประเทศไทย
+2. NK Scooter rental. Detailed address: ซอยสวรรค์, สมาหาร, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+341,11.3,C,4.75,6.35,7.56,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rang Nam Beef Noodles. Detailed address: ซอยราชปรารภ 14, แขวงมักกะสัน, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. มายเบด. Detailed address: ถนนรัชดาภิเษก, แขวงจอมพล, เขตจตุจักร, กรุงเทพมหานคร, 10900, ประเทศไทย"
+342,2.64,C,3.32,1.02,7.83,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pala Pizza Romana. Detailed address: ถนนสุขุมวิท, สมาหาร, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. หลักสูตรนานาชาติ รร.สาธิต มศว ประสานมิตร(ฝ่ายมัธยม). Detailed address: SWUNIPLEX, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+343,5.37,A,7.0,2.4,11.95,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ร้านทองกาญจนา. Detailed address: ชุมชนคลองบางพระครู, แขวงบางอ้อ, เขตบางพลัด, กรุงเทพมหานคร, 10700, ประเทศไทย
+2. Krisana Borvornluck Law & Accounting Co.,Ltd.. Detailed address: ซอยเพชรบุรี 12/4, บ้านครัวเหนือ, แขวงถนนเพชรบุรี, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย"
+344,4.84,B,1.83,4.7,5.69,"What is the straight-line distance between the following two locations? (Unit is km)
+1. บ้านหลังสวน. Detailed address: Urbana Langsuan, 55, ซอยบ้านหลังสวน, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. ศศปาฐศาลา. Detailed address: จุฬาลงกรณ์มหาวิทยาลัย, 254, ถนนพญาไท, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+345,11.64,C,2.56,10.32,11.33,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sinad Guesthouse. Detailed address: ซอยสามเสน 1, แขวงวัดสามพระยา, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. Science Centre for Education. Detailed address: ถนนสุขุมวิท, แขวงพระโขนง, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+346,3.04,C,9.37,4.86,11.94,"What is the straight-line distance between the following two locations? (Unit is km)
+1. AKA. Detailed address: 999/9, ถนนราชดำริ, แขวงปทุมวัน, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. Soho Pizza. Detailed address: ซอยสุขุมวิท 55, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+347,3.48,C,4.6,1.43,9.34,"What is the straight-line distance between the following two locations? (Unit is km)
+1. โรงเรียนเศรษฐเสถียร. Detailed address: 137, ถนนพระรามที่ 5, ราชวัตร, แขวงถนนนครไชยศรี, เขตดุสิต, กรุงเทพมหานคร, 10300, ประเทศไทย
+2. วันเวลา ณ เจ้าพระยา. Detailed address: ซอยสามเสน 21, ชุมชนราชพัสดุ, แขวงถนนนครไชยศรี, เขตดุสิต, กรุงเทพมหานคร, 10300, ประเทศไทย"
+348,3.72,A,8.12,8.59,11.21,"What is the straight-line distance between the following two locations? (Unit is km)
+1. My Fav. Detailed address: 54, ซอยสุขุมวิท 4, สมาหาร, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. KFC. Detailed address: ซอยสุขุมวิท 61, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+349,1.21,C,7.92,4.89,1.55,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ศูนย์สังคีตศิลป์. Detailed address: 391, ถนนตะนาว, แพร่งภูธร, แขวงเสาชิงช้า, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. สาทร. Detailed address: ถนนนราธิวาสราชนครินทร์, อาคารสงเคราะห์, แขวงทุ่งมหาเมฆ, เขตสาทร, กรุงเทพมหานคร, 10120, ประเทศไทย"
+350,2.44,A,6.82,6.55,6.68,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Emma Clinic. Detailed address: 299/10, ถนนอโศกมนตรี, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. MOS Burger. Detailed address: 999/9, ถนนราชดำริ, แขวงปทุมวัน, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+351,2.2,B,7.69,13.81,12.01,"What is the straight-line distance between the following two locations? (Unit is km)
+1. บริษัท ฮ.พัฒนาพาณิชย์ (2015) จำกัด. Detailed address: ถนนจตุรทิศ, แขวงบางกะปิ, เขตห้วยขวาง, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. สำนักเทศกิจ. Detailed address: ซอยขุมทรัพย์, ชุมชนวัดประยุรวงศ์, แขวงวัดกัลยาณ์, เขตธนบุรี, กรุงเทพมหานคร, 10600, ประเทศไทย"
+352,2.11,B,0.9,4.97,5.35,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Birdhouse Café & Bar. Detailed address: ซอยสุขุมวิท 49/9, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Hungry Pack. Detailed address: 8/3, ซอยสุขุมวิท 49, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+353,2.23,A,8.08,8.51,0.9,"What is the straight-line distance between the following two locations? (Unit is km)
+1. โรงเรียนคลองเตยวิทยา. Detailed address: ซอยศาลเจ้า, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Grand President. Detailed address: ซอยสุขุมวิท 11, ชุมชนรื่นฤดี, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+354,1.04,B,2.49,3.92,9.81,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Moodaengs Ice Cream. Detailed address: ซอยสุขุมวิท 55, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Coffee World. Detailed address: Terminal 21, 88, ถนนสุขุมวิท, สมาหาร, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+355,6.52,C,10.05,5.42,6.5,"What is the straight-line distance between the following two locations? (Unit is km)
+1. กะเพรากุ้งล้น ตามรีวิว. Detailed address: ตรอกเกลือ, สันติภาพ, แขวงสี่พระยา, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. Angoon's Garden. Detailed address: ซอยทองหล่อ 3, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+356,10.93,C,0.87,5.69,8.03,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Windsor Suites Hotel. Detailed address: ซอยสุขุมวิท 18, สุขุมวิท, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. ริเวอร์ เฮาส์ คอนโดมิเนียม. Detailed address: ถนนลาดหญ้า, ชุมชนเจริญรักษ์ 13, แขวงคลองสาน, เขตคลองสาน, กรุงเทพมหานคร, 10600, ประเทศไทย"
+357,13.81,B,6.34,2.04,13.21,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ดอยช้าง ณ สามย่าน. Detailed address: 217, ซอยจุฬาลงกรณ์ 50, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. Burger King. Detailed address: ถนนรัชดาภิเษก, แขวงดินแดง, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย"
+358,6.48,D,7.27,4.36,5.4,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 15 Sukhumvit Residences. Detailed address: 28, ซอยสุขุมวิท 13, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. วัดกันมาตุยาราม. Detailed address: ซอยเจริญกรุง 14, เยาวราช, แขวงสัมพันธวงศ์, เขตสัมพันธวงศ์, กรุงเทพมหานคร, 10100, ประเทศไทย"
+359,8.54,A,11.44,12.67,11.57,"What is the straight-line distance between the following two locations? (Unit is km)
+1. วิเศษไก่ย่าง. Detailed address: ถนนประชาราษฎร์ สาย 1, ชุมชนเชิงสะพานพิบูลสงครามฝั่งซ้าย, แขวงบางซื่อ, เขตบางซื่อ, กรุงเทพมหานคร, 10800, ประเทศไทย
+2. Pro Language. Detailed address: 246, ถนนสุขุมวิท, สมาหาร, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+360,11.08,C,11.68,8.17,5.48,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ภาณุวิลล่า. Detailed address: ถนนภาณุวิลล่า 2, แขวงบางบำหรุ, เขตบางพลัด, กรุงเทพมหานคร, 10700, ประเทศไทย
+2. อาคารแถบ นีละนิธิ. Detailed address: 254, ถนนพญาไท, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+361,20.82,D,10.56,22.94,15.08,"What is the straight-line distance between the following two locations? (Unit is km)
+1. แดรี่ ควีน. Detailed address: 1050 แขวงบุคคโล เขตธนบุรี, ถนนสมเด็จพระเจ้าตากสิน, แขวงดาวคะนอง, เขตธนบุรี, กรุงเทพมหานคร, 10600, ประเทศไทย
+2. ร้านฅนเหนือ อาหารเหนือ. Detailed address: ซอยลาดพร้าว 80 แยก 22, แขวงวังทองหลาง, เขตวังทองหลาง, กรุงเทพมหานคร, 10310, ประเทศไทย"
+362,11.53,B,8.82,16.4,7.04,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cris'p Pizza. Detailed address: ถนนสุขุมวิท, ชุมชนปิยะวัชร, แขวงพระโขนง, เขตคลองเตย, กรุงเทพมหานคร, 12060, ประเทศไทย
+2. รองเมืองเกาเหลา. Detailed address: ถนนรองเมือง, ชุมชนแฟลตรถไฟ, แขวงรองเมือง, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+363,9.54,A,11.2,2.61,16.21,"What is the straight-line distance between the following two locations? (Unit is km)
+1. โรงเรียนสวนบัว. Detailed address: ซอยอารีย์ 1, อารีย์, แขวงพญาไท, เขตพญาไท, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. บ้านนนนที. Detailed address: ตำบลมหาสวัสดิ์, บ้านคลองขวาง, องค์การบริหารส่วนตำบลมหาสวัสดิ์, อำเภอบางกรวย, จังหวัดนนทบุรี, 11130, ประเทศไทย"
+364,1.27,B,4.09,0.72,1.45,"What is the straight-line distance between the following two locations? (Unit is km)
+1. รองเมืองเกาเหลา. Detailed address: ถนนรองเมือง, ชุมชนแฟลตรถไฟ, แขวงรองเมือง, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. BaanBaan Tot. Detailed address: 2/8, ถนนพระรามที่ 4, บ่อนไก่, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10120, ประเทศไทย"
+365,9.8,D,2.69,12.75,7.63,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Evaime. Detailed address: ซอยทองหล่อ 5, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Widdershins. Detailed address: ถนนเยาวราช, เยาวราช, แขวงสัมพันธวงศ์, เขตสัมพันธวงศ์, กรุงเทพมหานคร, 10100, ประเทศไทย"
+366,1.89,C,2.48,8.58,4.57,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Priscilla Ice Cream. Detailed address: 59, ถนนอรุณอมรินทร์, ชุมชนวัดระฆัง, แขวงวัดอรุณ, เขตบางกอกใหญ่, กรุงเทพมหานคร, 10600, ประเทศไทย
+2. ธนาคารอาคารสงเคราะห์. Detailed address: ถนนสุขุมวิท, สุขุมวิท, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+367,8.81,A,10.87,4.45,2.23,"What is the straight-line distance between the following two locations? (Unit is km)
+1. UOB. Detailed address: 1249, ถนนเจริญกรุง, ห้างนายเลิศ, แขวงสุริยวงศ์, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. Insects in the Backyard. Detailed address: ถนนคู่ขนานทางพิเศษประจิมรัถยา, แขวงบางพลัด, เขตบางพลัด, กรุงเทพมหานคร, 10700, ประเทศไทย"
+368,8.17,D,1.46,11.3,4.28,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ศูนย์สร้างสรรค์งานออกแบบ. Detailed address: 1160, ถนนเจริญกรุง, ห้างนายเลิศ, แขวงบางรัก, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. ข้าวมันไก่ตอน. Detailed address: ซอยสุขุมวิท 4, สมาหาร, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+369,6.77,C,8.09,1.6,5.92,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Le Normandie. Detailed address: 48, ซอยเจริญกรุง 40, แขวงบางรัก, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. วิลาศ. Detailed address: ถนนนราธิวาสราชนครินทร์, ละลายทรัพย์, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+370,8.99,C,11.2,3.95,4.98,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tawandang German Brewery. Detailed address: 462/61, ถนนนราธิวาสราชนครินทร์, ชุมชนคาลเท็กซ์, แขวงช่องนนทรี, เขตยานนาวา, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. CIMB Thai Bank. Detailed address: 33, ถนนสุรวงศ์, แขวงสุริยวงศ์, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+371,7.0,C,5.95,2.96,6.19,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mercy Republic. Detailed address: ซอย 100 ปี สยามสมาคม, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Lonely Batista. Detailed address: 444/2, ซอยรัชดาภิเษก 3 แยก 4-11-5, แขวงดินแดง, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย"
+372,11.67,C,10.29,4.37,0.65,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dosa King. Detailed address: ซอยสุขุมวิท 11/1, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. IAMSRT Food Court. Detailed address: 17, ถนนพระรามที่ 1, ชุมชนชาวชูชีพ, แขวงรองเมือง, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+373,3.92,A,5.49,10.66,1.82,"What is the straight-line distance between the following two locations? (Unit is km)
+1. It's Thyme. Detailed address: ซอยสุขุมวิท 16, ชุมชนเจริญสุข, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. True Coffee. Detailed address: 181, ถนนสุรวงศ์, ปราโมทย์, แขวงสุริยวงศ์, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+374,4.17,D,9.52,16.73,11.54,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The GATE. Detailed address: ซอยประตูนกยูง, ชุมชนท่าเตียน, แขวงพระบรมมหาราชวัง, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. Colors Cafe. Detailed address: ซอยสุขุมวิท 69/1, แขวงพระโขนงเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 12060, ประเทศไทย"
+375,5.72,B,3.26,8.74,7.9,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Five Star. Detailed address: 4/47, ซอยคาวบอย, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. The Balcony. Detailed address: ซอยสีลม 4, แขวงสุริยวงศ์, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+376,1.7,C,0.59,2.81,0.58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Arabica Percentage Empire Tower Bangkok. Detailed address: ถนนนราธิวาสราชนครินทร์, ชุมชนเซ็นหลุยส์ 3, แขวงยานนาวา, เขตสาทร, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. เจ๊อ้วน ตามสั่ง. Detailed address: ซอยชุมชนเทพประทาน, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+377,17.16,D,16.43,18.97,10.98,"What is the straight-line distance between the following two locations? (Unit is km)
+1. บริษัท หนังสือพิมพ์สากล จำกัด. Detailed address: 21/1, ถนนเจริญกรุง, บ้านหม้อ, แขวงวังบูรพาภิรมย์, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. Le Luk Condominium. Detailed address: Beat Hotel, ซอยปรีดี พนมยงค์ 3, แขวงพระโขนงเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 12060, ประเทศไทย"
+378,14.77,C,1.99,7.34,9.05,"What is the straight-line distance between the following two locations? (Unit is km)
+1. คณะสังคมสงเคราะห์ศาสตร์. Detailed address: มหาวิทยาลัยธรรมศาสตร์ ท่าพระจันทร์, 2, ถนนพระจันทร์, ท่าพระจันทร์, แขวงพระบรมมหาราชวัง, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. 15 Sukhumvit Residences. Detailed address: 28, ซอยสุขุมวิท 13, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+379,0.71,C,6.98,2.27,7.49,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Paul Panich. Detailed address: ถนนอาร์ซีเอ, แขวงบางกะปิ, เขตห้วยขวาง, กรุงเทพมหานคร, 10310, ประเทศไทย
+2. SCB Exchange. Detailed address: Terminal 21, 88, ถนนสุขุมวิท, สมาหาร, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+380,0.56,D,8.34,13.92,6.87,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ลิ้มชิวฮวด. Detailed address: 99/42, ซอยนางลิ้นจี่ 5, ชุมชนวัดช่องลม, แขวงช่องนนทรี, เขตยานนาวา, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. กระทรวงเกษตรและสหกรณ์. Detailed address: ถนนราชดำเนินนอก, นางเลิ้ง, แขวงวัดโสมนัส, เขตป้อมปราบศัตรูพ่าย, กรุงเทพมหานคร, 10200, ประเทศไทย"
+381,3.38,B,4.78,11.46,5.81,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pro Language. Detailed address: 246, ถนนสุขุมวิท, สมาหาร, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Ratchakru Medical Center. Detailed address: ซอยพหลโยธิน 5, อารีย์, แขวงพญาไท, เขตพญาไท, กรุงเทพมหานคร, 10400, ประเทศไทย"
+382,6.55,B,3.14,10.45,5.82,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kaoneow Moon Chan Rorge. Detailed address: ซอยสหมิตร, ซอยสว่าง, แขวงมหาพฤฒาราม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. แฟลตเหลือง. Detailed address: 726/9, ซอยโรงถ่าน, สวนพลู, แขวงทุ่งมหาเมฆ, เขตสาทร, กรุงเทพมหานคร, 10120, ประเทศไทย"
+383,5.12,D,0.91,3.42,6.28,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Roots. Detailed address: 335, ซอยทองหล่อ 17, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. travel clinic. Detailed address: ซอยราชวิถี 15, ชุมชนซอยสวนเงิน, แขวงทุ่งพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย"
+384,3.82,B,2.74,10.32,10.58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. CIBO. Detailed address: ซอยเกษมสันต์ 2, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. Always Beer and Wines. Detailed address: ซอยสุขุมวิท 4, สมาหาร, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+385,7.86,D,9.43,11.36,6.15,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ห้องน้ำสวนแก้ว. Detailed address: ถนนหน้าพระลาน, ท่าช้าง, แขวงพระบรมมหาราชวัง, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. Smokey Cat Coffee Roaster. Detailed address: ถนนสวนพลู, สวนพลู, แขวงทุ่งมหาเมฆ, เขตสาทร, กรุงเทพมหานคร, 10120, ประเทศไทย"
+386,13.01,B,5.12,11.32,10.78,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ChaCoolZa. Detailed address: ถนนจักรพงษ์, แขวงตลาดยอด, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. โรงเรียนสวนบัว. Detailed address: ซอยอารีย์ 1, อารีย์, แขวงพญาไท, เขตพญาไท, กรุงเทพมหานคร, 10400, ประเทศไทย"
+387,2.85,D,3.53,0.62,5.22,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Coconut Bar. Detailed address: ซอยประชาอุทิศ 15, แขวงสามเสนนอก, เขตห้วยขวาง, กรุงเทพมหานคร, 10310, ประเทศไทย
+2. Gekko. Detailed address: ซอยสุขุมวิท 16, ชุมชนเจริญสุข, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+388,2.65,A,6.32,8.99,1.3,"What is the straight-line distance between the following two locations? (Unit is km)
+1. haps - Brunch & More. Detailed address: 46/9, ซอยสุขุมวิท 49, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Al-Khaleej. Detailed address: ซอยสุขุมวิท 5, ชุมชนรื่นฤดี, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+389,3.33,A,5.59,5.34,8.08,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gekko. Detailed address: ซอยสุขุมวิท 16, ชุมชนเจริญสุข, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Manel Lankan. Detailed address: ซอยราชปรารภ 4, ชุมชนริมทางรถไฟมักกะสัน, แขวงมักกะสัน, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย"
+390,4.94,A,7.38,7.43,9.34,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Reserve Sukhumvit 61. Detailed address: เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. ลิ้มชิวฮวด. Detailed address: 99/42, ซอยนางลิ้นจี่ 5, ชุมชนวัดช่องลม, แขวงช่องนนทรี, เขตยานนาวา, กรุงเทพมหานคร, 10120, ประเทศไทย"
+391,5.57,C,6.71,2.94,6.36,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ท่านขุน. Detailed address: ซอยจุฬาลงกรณ์ 42, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. Grand Dental Clinic. Detailed address: ซอยสุขุมวิท 3, ชุมชนรื่นฤดี, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+392,11.42,D,12.03,2.04,4.36,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Paradise. Detailed address: ซอยสุขุมวิท 11, ชุมชนรื่นฤดี, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Lanzhou Noodles. Detailed address: ถนนประชาราษฎร์บำเพ็ญ, แขวงห้วยขวาง, เขตห้วยขวาง, กรุงเทพมหานคร, 10310, ประเทศไทย"
+393,11.09,B,3.59,0.89,6.23,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Always Beer and Wines. Detailed address: ซอยสุขุมวิท 4, สมาหาร, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. The Reserve Sukhumvit 61. Detailed address: เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+394,5.21,B,0.64,3.08,6.4,"What is the straight-line distance between the following two locations? (Unit is km)
+1. โรงพยาบาลจักษุ รัตนิน. Detailed address: ถนนอโศกมนตรี, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. บริษัท ทางด่วนกรุงเทพ จำกัด (มหาชน). Detailed address: ถนนเพชรอุทัย, แขวงบางกะปิ, เขตห้วยขวาง, กรุงเทพมหานคร, 10310, ประเทศไทย"
+395,2.86,B,4.86,1.46,3.67,"What is the straight-line distance between the following two locations? (Unit is km)
+1. เปรมสมบัติ. Detailed address: แขวงดินแดง, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. สำนักงานใหญ่บริษัทปูนซิเมนต์ไทย จำกัด (มหาชน). Detailed address: ถนนกรุงเทพอภิวัฒน์, แขวงจตุจักร, เขตจตุจักร, กรุงเทพมหานคร, 10900, ประเทศไทย"
+396,9.02,B,4.77,12.37,1.48,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jones' Salad. Detailed address: 79, นครไทย ซอย 16, แขวงช่องนนทรี, เขตยานนาวา, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. Amomo. Detailed address: ถนนรัชดาภิเษก, สุขุมวิท, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+397,8.48,D,8.95,10.03,2.36,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Clif. Detailed address: Susie Walking Street, แขวงตลาดยอด, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. ราชวงศ์. Detailed address: ถนนราชวงศ์, สำเพ็ง, แขวงจักรวรรดิ, เขตสัมพันธวงศ์, กรุงเทพมหานคร, 10100, ประเทศไทย"
+398,2.35,A,9.33,7.9,5.11,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Strassen-. Detailed address: ซอยยศเส 2, ยศเส, แขวงวัดเทพศิรินทร์, เขตป้อมปราบศัตรูพ่าย, กรุงเทพมหานคร, 10100, ประเทศไทย
+2. Coffee Madness. Detailed address: ถนนจักรพงษ์, แขวงตลาดยอด, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+399,6.92,C,2.7,1.63,7.1,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Villa Market. Detailed address: ซอยสุขุมวิท 11, ชุมชนรื่นฤดี, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. บริษัท ฮ.พัฒนาพาณิชย์ (2015) จำกัด. Detailed address: ถนนจตุรทิศ, แขวงบางกะปิ, เขตห้วยขวาง, กรุงเทพมหานคร, 10400, ประเทศไทย"
+400,4.92,A,2.38,9.49,12.78,"What is the straight-line distance between the following two locations? (Unit is km)
+1. อาคารศิลปกรรม 1. Detailed address: คณะศิลปกรรมศาสตร์, 254, ถนนพญาไท, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. วัดใหญ่ศรีสุพรรณ. Detailed address: ซอยวัดใหญ่ศรีสุพรรณ 1, ชุมชนวัดประดิษฐาราม, แขวงหิรัญรูจี, เขตธนบุรี, กรุงเทพมหานคร, 10600, ประเทศไทย"
+401,7.24,B,10.17,12.91,6.01,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ra-men kio. Detailed address: ซอยสุขุมวิท 47, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. ไปรษณีย์สาขามหาวิทยาลัยราชภัฏจันทรเกษม. Detailed address: 39/1, ถนนรัชดาภิเษก, แขวงจอมพล, เขตจตุจักร, กรุงเทพมหานคร, 10900, ประเทศไทย"
+402,7.69,A,13.93,10.35,14.63,"What is the straight-line distance between the following two locations? (Unit is km)
+1. พระราชวังพญาไท. Detailed address: ถนนราชวิถี, ชุมชนซอยสวนเงิน, แขวงทุ่งพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. สุสานสมาคมเจียงเจ้อ (เซี่ยงไฮ้). Detailed address: วัดไผ่เงินโชตนาราม, 882, ซอยจันทน์ 43, ชุมชนวัดไผ่เงิน, แขวงบางโคล่, เขตบางคอแหลม, กรุงเทพมหานคร, 10120, ประเทศไทย"
+403,5.69,D,12.46,6.56,8.21,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lung Pherm Foodcourt. Detailed address: ซอยวิภาวดีรังสิต 22, แขวงจอมพล, เขตจตุจักร, กรุงเทพมหานคร, 10900, ประเทศไทย
+2. เดอะคอร์เนอร์50. Detailed address: 360/14, ซอยสามเสน 4, วิสุทธิกษัตริย์, แขวงบ้านพานถม, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+404,10.25,C,6.53,4.83,6.95,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ศาลเจ้าซำซัวก๊กอ๊วง. Detailed address: ซอยจอมสมบูรณ์, ซอยสว่าง, แขวงมหาพฤฒาราม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. หมู่บ้านเทวินทร์. Detailed address: ซอยหมู่บ้านเทวินทร์, แขวงวัดท่าพระ, เขตบางกอกใหญ่, กรุงเทพมหานคร, 10600, ประเทศไทย"
+405,2.88,B,5.52,8.71,7.77,"What is the straight-line distance between the following two locations? (Unit is km)
+1. มหาวงษ์เหนือ. Detailed address: 594/45, ซอยมหาวงษ์เหนือ, แขวงดินแดง, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. วัดใหม่ทองเสน. Detailed address: ซอยวัดใหม่ทองเสน, เกียกกาย, แขวงถนนนครไชยศรี, เขตดุสิต, กรุงเทพมหานคร, 10300, ประเทศไทย"
+406,15.08,D,15.5,5.73,9.15,"What is the straight-line distance between the following two locations? (Unit is km)
+1. หมูกะทะ. Detailed address: ถนนบรมราชชนนี, แขวงอรุณอมรินทร์, เขตบางกอกน้อย, กรุงเทพมหานคร, 10700, ประเทศไทย
+2. Neil's Tavern. Detailed address: ซอยร่วมฤดี, ชุมชนซอยร่วมฤดี, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+407,0.6,B,6.07,1.09,11.97,"What is the straight-line distance between the following two locations? (Unit is km)
+1. อาคารพักอาศัยข้าราชการ สถาบันเทคโนโลยีราชมงคลวิทยาเขตเทคนิคกรุงเทพฯ. Detailed address: แขวงทุ่งวัดดอน, เขตสาทร, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. สถานีตำรวจนครบาลทองหล่อ. Detailed address: ซอยสุขุมวิท 55, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+408,11.31,D,9.8,12.08,4.34,"What is the straight-line distance between the following two locations? (Unit is km)
+1. อินทนิล. Detailed address: 254, ถนนพญาไท, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. The Horse Says Moooo. Detailed address: ซอยสุขุมวิท 33, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+409,12.84,D,4.47,6.35,11.11,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Insects in the Backyard. Detailed address: ถนนคู่ขนานทางพิเศษประจิมรัถยา, แขวงบางพลัด, เขตบางพลัด, กรุงเทพมหานคร, 10700, ประเทศไทย
+2. Tom Guesthouse Cafe. Detailed address: ซอยงามดูพลี, สวนพลู, แขวงทุ่งมหาเมฆ, เขตสาทร, กรุงเทพมหานคร, 10120, ประเทศไทย"
+410,7.13,A,14.83,10.61,0.81,"What is the straight-line distance between the following two locations? (Unit is km)
+1. TYST Residence. Detailed address: 115, ซอยเนียมอุทิศ, แขวงดินแดง, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. The three musketbeers. Detailed address: ถนนบำรุงเมือง, แขวงวัดเทพศิรินทร์, เขตป้อมปราบศัตรูพ่าย, กรุงเทพมหานคร, 10100, ประเทศไทย"
+411,2.84,C,15.7,10.15,9.11,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Eiffel Pizza Bar. Detailed address: ถนนหลังสวน, หลังสวน, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. Casa do Soleil. Detailed address: Kaeo Ngoen Thong 20, แขวงคลองชักพระ, เขตตลิ่งชัน, กรุงเทพมหานคร, 10170, ประเทศไทย"
+412,11.47,D,4.51,1.12,3.47,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ตึกคณะเภสัชศาสตร์. Detailed address: ซอยจุฬาลงกรณ์ 64, แขวงปทุมวัน, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. โรงเรียนโกศลภัทรวิทย์. Detailed address: ซอยเจริญกรุง 57, แขวงยานนาวา, เขตสาทร, กรุงเทพมหานคร, 10120, ประเทศไทย"
+413,8.47,D,9.84,4.24,2.01,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ห้องสมุดสื่อสมาคมฝรั่งเศส. Detailed address: ซอยอรุณมักกินนอน, พระเจน, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. Zorse. Detailed address: ซอยเมธีนิเวศม์, แขวงคลองตัน, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+414,0.91,D,14.78,5.1,8.02,"What is the straight-line distance between the following two locations? (Unit is km)
+1. โรงพยาบาลสัตว์แฮปปี้เพ็ท. Detailed address: 750, ถนนสุขุมวิท, แขวงคลองตัน, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Siam India. Detailed address: Asiatique The Riverfront, ซอยเจริญกรุง 99, บ้านใหม่, แขวงวัดพระยาไกร, เขตบางคอแหลม, กรุงเทพมหานคร, 10120, ประเทศไทย"
+415,4.85,D,4.04,5.4,2.07,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ซันแนดึล. Detailed address: ถนนสุรวงศ์, ปราโมทย์, แขวงสุริยวงศ์, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. Thank You Cup. Detailed address: One Bangkok Boulevard, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+416,6.62,C,7.47,1.56,4.03,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Black Canyon. Detailed address: ถนนบำรุงเมือง, ยศเส, แขวงคลองมหานาค, เขตป้อมปราบศัตรูพ่าย, กรุงเทพมหานคร, 10100, ประเทศไทย
+2. Sushi Masa. Detailed address: ซอยพญานาค, บ้านครัวเหนือ, แขวงถนนเพชรบุรี, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย"
+417,0.78,A,8.33,7.24,6.69,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bei Otto. Detailed address: 1, ซอยสุขุมวิท 20, สุขุมวิท, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Rawabina Lebanese Food. Detailed address: ซอย 100 ปี สยามสมาคม, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+418,7.14,A,1.36,5.41,8.9,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bico. Detailed address: ลานอุทยานนันทนาการ, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. แดรี่ ควีน. Detailed address: 1050 แขวงบุคคโล เขตธนบุรี, ถนนสมเด็จพระเจ้าตากสิน, แขวงดาวคะนอง, เขตธนบุรี, กรุงเทพมหานคร, 10600, ประเทศไทย"
+419,3.99,A,2.06,1.41,8.79,"What is the straight-line distance between the following two locations? (Unit is km)
+1. สวนจามจุรี. Detailed address: จุฬาลงกรณ์มหาวิทยาลัย, 254, ถนนพญาไท, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. Sunshine Market. Detailed address: 28, ซอยสุขุมวิท 22, สุขุมวิท, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+420,10.54,B,6.93,4.81,13.75,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Torajiro. Detailed address: ซอยพร้อมศรี 1, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. SuperRich Exchange Station. Detailed address: ถนนเจริญกรุง, เยาวราช, แขวงสัมพันธวงศ์, เขตสัมพันธวงศ์, กรุงเทพมหานคร, 10100, ประเทศไทย"
+421,11.27,D,12.58,3.11,4.58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ทวีการช่าง. Detailed address: 90, ซอยพระยาศรี, บ้านหม้อ, แขวงวังบูรพาภิรมย์, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. สถาบันโรคผิวหนัง. Detailed address: ถนนราชวิถี, ชุมชนซอยสวนเงิน, แขวงทุ่งพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย"
+422,8.72,B,2.85,5.32,6.98,"What is the straight-line distance between the following two locations? (Unit is km)
+1. หมูทอดเจ๊จง. Detailed address: 2, ถนนสีลม, ศาลาแดง, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. Pala Pizza Romana. Detailed address: ถนนสุขุมวิท, สมาหาร, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+423,9.77,B,1.88,8.87,3.89,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ootoya Kitchen. Detailed address: 991, ถนนพระรามที่ 1, สยาม, แขวงปทุมวัน, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. Cafe Bangrak. Detailed address: ถนนสีลม, ศาลาแดง, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+424,11.09,B,5.36,8.51,6.96,"What is the straight-line distance between the following two locations? (Unit is km)
+1. อาคารแถบ นีละนิธิ. Detailed address: 254, ถนนพญาไท, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. Bijo Japanese Club. Detailed address: ซอยสุขุมวิท 49/4, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+425,15.39,C,3.32,9.51,5.2,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hakone. Detailed address: 982/22, ถนนสุขุมวิท, แขวงพระโขนง, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Take a Shot. Detailed address: ซอยเจริญนคร 42, แขวงบางลำภูล่าง, เขตคลองสาน, กรุงเทพมหานคร, 10600, ประเทศไทย"
+426,6.34,A,8.69,13.44,10.6,"What is the straight-line distance between the following two locations? (Unit is km)
+1. victory secret . Detailed address: ถนนพระราม 9, แขวงบางกะปิ, เขตห้วยขวาง, กรุงเทพมหานคร, 10310, ประเทศไทย
+2. Liquid. Detailed address: 27, ซอยศาลาแดง 1, ศาลาแดง, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+427,11.53,A,18.94,10.4,18.82,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Burger King. Detailed address: ถนนรัชดาภิเษก, แขวงดินแดง, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. ไปรษณีย์ไทย. Detailed address: ถนนจรัญสนิทวงศ์, แขวงวัดท่าพระ, เขตบางกอกใหญ่, กรุงเทพมหานคร, 10600, ประเทศไทย"
+428,5.16,A,11.52,8.61,8.77,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fatboy's Motorbike Rental. Detailed address: ซอยสุขุมวิท 65, แขวงพระโขนงเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Ogu Ogu. Detailed address: 57, ถนนวิทยุ, วิทยุ, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+429,7.75,A,0.65,12.36,1.6,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Casa do Soleil. Detailed address: Kaeo Ngoen Thong 20, แขวงคลองชักพระ, เขตตลิ่งชัน, กรุงเทพมหานคร, 10170, ประเทศไทย
+2. Mad Beef. Detailed address: ซอยเจริญกรุง 30, ห้างนายเลิศ, แขวงบางรัก, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+430,9.63,D,5.86,12.28,6.92,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ทรัพย์ธานี. Detailed address: ซอยทรัพย์ธานี, แขวงดินแดง, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. Pranakorn Inn. Detailed address: Sleep Tight Hostel, ตรอกวัดตรีทศเทพ, วิสุทธิกษัตริย์, แขวงบ้านพานถม, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+431,15.77,D,13.23,16.59,10.03,"What is the straight-line distance between the following two locations? (Unit is km)
+1. PTT. Detailed address: ถนนกำแพงเพชร 2, แขวงจตุจักร, เขตจตุจักร, กรุงเทพมหานคร, 10900, ประเทศไทย
+2. Lim House. Detailed address: Many Trees, 563, ซอยสวนพลู 1, สวนพลู, แขวงทุ่งมหาเมฆ, เขตสาทร, กรุงเทพมหานคร, 10120, ประเทศไทย"
+432,5.62,D,5.82,3.83,2.34,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The New Yorker Cafe. Detailed address: ซอยสุขุมวิท 22, สุขุมวิท, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. dds clinic. Detailed address: ซอยสุขุมวิท 42, ชุมชนริมคลองพระโขนง, แขวงพระโขนง, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+433,17.02,D,4.03,3.26,10.13,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Catsanova. Detailed address: 226/3, ถนนสาธุประดิษฐ์, ชุมชนโสณมัยอร่ามดวง, แขวงบางโคล่, เขตบางคอแหลม, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. Asian. Detailed address: ซอยรัชดาภิเษก 14 แยก 6, แขวงห้วยขวาง, เขตห้วยขวาง, กรุงเทพมหานคร, 10310, ประเทศไทย"
+434,6.12,A,10.68,13.67,9.31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ogu Ogu. Detailed address: 57, ถนนวิทยุ, วิทยุ, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. Gecko. Detailed address: ซอยรามบุตรี, พระอาทิตย์, แขวงชนะสงคราม, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+435,13.3,A,19.86,7.74,12.28,"What is the straight-line distance between the following two locations? (Unit is km)
+1. เตี๋ยวหมู เตี๋ยวเนื้อ. Detailed address: Urbanion Soi 5, บ้านกลางเมือง สาทร-ตากสิน, เขตจอมทอง, กรุงเทพมหานคร, 10150, ประเทศไทย
+2. Kin Buffet & Shabu. Detailed address: 982/22, ถนนสุขุมวิท, แขวงพระโขนง, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+436,1.74,C,12.1,4.76,9.58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. True Coffee. Detailed address: 181, ถนนสุรวงศ์, ปราโมทย์, แขวงสุริยวงศ์, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. Mingle. Detailed address: ถนนจักรพงษ์, แขวงตลาดยอด, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+437,1.33,B,9.24,5.59,3.99,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ฌาปนสถานตำรวจ. Detailed address: ถนนประชาธิปไตย, วิสุทธิกษัตริย์, แขวงบ้านพานถม, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย
+2. class cafe. Detailed address: ถนนพระรามที่ 4, แขวงคลองตัน, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+438,1.28,B,5.3,10.83,6.36,"What is the straight-line distance between the following two locations? (Unit is km)
+1. jok prince. Detailed address: 1391, ถนนเจริญกรุง, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. Fashion walk. Detailed address: Victory Point, เกาะพญาไท, แขวงถนนพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย"
+439,11.81,C,13.42,6.94,8.95,"What is the straight-line distance between the following two locations? (Unit is km)
+1. เจ๊อ้วน ตามสั่ง. Detailed address: ซอยชุมชนเทพประทาน, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Krua Apsorn. Detailed address: 196, ถนนดินสอ, ชุมชนหลังวัดราชนัดดา, แขวงบวรนิเวศ, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+440,10.39,D,1.02,11.52,6.66,"What is the straight-line distance between the following two locations? (Unit is km)
+1. คราวน์ สีลม. Detailed address: 278/102, ซอยสีลม 22, ปราโมทย์, แขวงสุริยวงศ์, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. นายเม้งบะหมี่ปู เกี๊ยวกุ้งยักษ์ (อารีย์). Detailed address: 7, ซอยอารีย์, อารีย์, แขวงพญาไท, เขตพญาไท, กรุงเทพมหานคร, 10400, ประเทศไทย"
+441,6.65,A,11.99,5.49,5.17,"What is the straight-line distance between the following two locations? (Unit is km)
+1. สำนักงานที่ดินบางพลัด. Detailed address: ถนนจรัญสนิทวงศ์, มหาวงษ์พัฒนา, แขวงบางยี่ขัน, เขตบางพลัด, กรุงเทพมหานคร, 10700, ประเทศไทย
+2. อาคารศิลปกรรม 1. Detailed address: คณะศิลปกรรมศาสตร์, 254, ถนนพญาไท, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+442,2.64,C,7.55,4.01,8.22,"What is the straight-line distance between the following two locations? (Unit is km)
+1. อาคาร เค จี. Detailed address: 204/12;204/13, ถนนสุรวงศ์, ปราโมทย์, แขวงสี่พระยา, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. Radisson Suites. Detailed address: ซอยสุขุมวิท 13, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+443,3.54,D,5.56,9.36,7.2,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Rawche. Detailed address: ซอยสุขุมวิท 5, ชุมชนรื่นฤดี, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. ธนาคารทหารไทย. Detailed address: คณะศิลปศาสตร์, 2, ถนนพระจันทร์, ท่าพระจันทร์, แขวงพระบรมมหาราชวัง, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+444,6.81,B,4.12,9.12,9.96,"What is the straight-line distance between the following two locations? (Unit is km)
+1. สาทร. Detailed address: ถนนนราธิวาสราชนครินทร์, อาคารสงเคราะห์, แขวงทุ่งมหาเมฆ, เขตสาทร, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. Traffic Police box. Detailed address: ถนนนิคมมักกะสัน, ชุมชนโรงเจมักกะสัน, แขวงมักกะสัน, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย"
+445,5.8,D,13.07,14.74,9.65,"What is the straight-line distance between the following two locations? (Unit is km)
+1. RAMEN OZAWA. Detailed address: Urbanion Soi 5, บ้านกลางเมือง สาทร-ตากสิน, เขตจอมทอง, กรุงเทพมหานคร, 10150, ประเทศไทย
+2. ปอล. Detailed address: ถนนเพลินจิต, ราชประสงค์, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+446,6.25,C,8.42,0.7,2.35,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ส่วนประสานงานข่าวร่วม. Detailed address: 230, ถนนเศรษฐศิริ, ชุมชนซอยสันติสุข, แขวงถนนนครไชยศรี, เขตดุสิต, กรุงเทพมหานคร, 10300, ประเทศไทย
+2. โรงเรียนเศรษฐเสถียร. Detailed address: 137, ถนนพระรามที่ 5, ราชวัตร, แขวงถนนนครไชยศรี, เขตดุสิต, กรุงเทพมหานคร, 10300, ประเทศไทย"
+447,14.72,D,13.58,5.37,7.39,"What is the straight-line distance between the following two locations? (Unit is km)
+1. มอส เบอร์เกอร์. Detailed address: 79, ถนนรัชดาภิเษก, ชุมชนซอยวารี, แขวงช่องนนทรี, เขตยานนาวา, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. ศูนย์สังคีตศิลป์. Detailed address: 391, ถนนตะนาว, แพร่งภูธร, แขวงเสาชิงช้า, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+448,13.39,D,13.77,7.68,5.83,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hungry Pack. Detailed address: 8/3, ซอยสุขุมวิท 49, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. ไส้กรอกแม่ไก่. Detailed address: 75, ซอยจุฬาลงกรณ์ 3, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+449,12.09,C,1.56,5.29,11.52,"What is the straight-line distance between the following two locations? (Unit is km)
+1. เคหะดินแดง 2. Detailed address: แฟลต 46, ซอยประชาสงเคราะห์ 7, แขวงดินแดง, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. อาคาร เค จี. Detailed address: 204/12;204/13, ถนนสุรวงศ์, ปราโมทย์, แขวงสี่พระยา, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+450,3.78,A,1.16,6.6,11.72,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mahatun Plaza. Detailed address: Lek Optical, 888/21, ถนนเพลินจิต, หลังสวน, แขวงลุมพินี, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. กัญ เฮ้าส์. Detailed address: ซอยสุขุมวิท 53/1, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+451,7.0,C,11.19,4.76,11.82,"What is the straight-line distance between the following two locations? (Unit is km)
+1. แม่วารี. Detailed address: ซอยสุขุมวิท 55, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. เอ ราเม็ง. Detailed address: 2, ถนนสีลม, ศาลาแดง, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย"
+452,3.73,C,9.25,5.87,13.78,"What is the straight-line distance between the following two locations? (Unit is km)
+1. วัวล้วนๆ สาขาม.หอการค้าไทย. Detailed address: ซอยวิภาวดีรังสิต 2, ชุมชนซอยเพิ่มสินสมบูรณ์สุข, แขวงรัชดาภิเษก, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. Koi Thé. Detailed address: 944, ถนนพระรามที่ 4, สามย่าน, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+453,3.79,A,7.11,10.29,8.87,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Le Bouchon. Detailed address: ซอยสาทร 1, สวนพลู, แขวงทุ่งมหาเมฆ, เขตสาทร, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. Evaime. Detailed address: ซอยทองหล่อ 5, แขวงคลองตันเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+454,6.13,D,6.29,1.86,3.32,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ตึก 2 คณะรัฐศาสตร์. Detailed address: สวนสถิรไมตรี, ถนนไฮโซ, แขวงปทุมวัน, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. Windsor Suites Hotel. Detailed address: ซอยสุขุมวิท 18, สุขุมวิท, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+455,12.2,D,4.19,16.55,10.02,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Veritz. Detailed address: ซอยสาธุประดิษฐ์ 34 แยก 3, แขวงบางโพงพาง, เขตยานนาวา, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. ส่วนประสานงานข่าวร่วม. Detailed address: 230, ถนนเศรษฐศิริ, ชุมชนซอยสันติสุข, แขวงถนนนครไชยศรี, เขตดุสิต, กรุงเทพมหานคร, 10300, ประเทศไทย"
+456,7.92,D,1.59,16.14,9.28,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Annapurna. Detailed address: ถนนปั้น, ละลายทรัพย์, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. Cafe Amazon. Detailed address: ถนนกำแพงเพชร 2, แขวงจตุจักร, เขตจตุจักร, กรุงเทพมหานคร, 10900, ประเทศไทย"
+457,7.46,A,14.11,3.02,15.3,"What is the straight-line distance between the following two locations? (Unit is km)
+1. iKOFFIE. Detailed address: ถนนสามเสน, แขวงดุสิต, เขตดุสิต, กรุงเทพมหานคร, 10300, ประเทศไทย
+2. เตี๋ยวหมู เตี๋ยวเนื้อ. Detailed address: Urbanion Soi 5, บ้านกลางเมือง สาทร-ตากสิน, เขตจอมทอง, กรุงเทพมหานคร, 10150, ประเทศไทย"
+458,7.56,A,14.62,4.71,3.84,"What is the straight-line distance between the following two locations? (Unit is km)
+1. วัดบางสะแกนอก. Detailed address: ซอยเทอดไท 33, แขวงตลาดพลู, เขตธนบุรี, กรุงเทพมหานคร, 10600, ประเทศไทย
+2. SG Tower. Detailed address: 5, ซอยมหาดเล็กหลวง 3, มหาดเล็กหลวง, แขวงปทุมวัน, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย"
+459,2.92,A,8.23,0.51,4.6,"What is the straight-line distance between the following two locations? (Unit is km)
+1. สระว่ายน้ำบ้านสมเด็จ. Detailed address: 1061, ซอยอิสรภาพ 15, ชุมชนวัดประดิษฐาราม, แขวงหิรัญรูจี, เขตธนบุรี, กรุงเทพมหานคร, 10600, ประเทศไทย
+2. TAX. Detailed address: 695-697, ถนนไมตรีจิตต์, แขวงป้อมปราบ, เขตป้อมปราบศัตรูพ่าย, กรุงเทพมหานคร, 10100, ประเทศไทย"
+460,3.57,C,5.4,8.1,9.52,"What is the straight-line distance between the following two locations? (Unit is km)
+1. วัวล้วนๆไม่มีควายผสม สาขาหน้า รร.เซนต์คาเบรียล. Detailed address: ถนนสามเสน, ชุมชนวัดราชา, แขวงวชิรพยาบาล, เขตดุสิต, กรุงเทพมหานคร, 10300, ประเทศไทย
+2. The New Yorker Cafe. Detailed address: ซอยสุขุมวิท 22, สุขุมวิท, แขวงคลองเตย, เขตคลองเตย, กรุงเทพมหานคร, 10110, ประเทศไทย"
+461,1.88,C,0.68,5.25,6.7,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jaspal's Residential II. Detailed address: The Local, 32-32/1, ซอยสุขุมวิท 23, Asok, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย
+2. Metropolitan Water Authority. Detailed address: ซอยสุขุมวิท 48/4, ชุมชนเริ่มเจริญ, แขวงพระโขนง, เขตคลองเตย, กรุงเทพมหานคร, 12060, ประเทศไทย"
+462,3.96,B,7.9,4.41,2.11,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Préf. Detailed address: ซอยสาทร 11, ชุมชนเซ็นหลุยส์ 3, แขวงยานนาวา, เขตสาทร, กรุงเทพมหานคร, 10120, ประเทศไทย
+2. The Base Sukhumvit 71. Detailed address: i-Store, ซอย ปรีดี พนมยงค์ 2, แขวงพระโขนงเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 12060, ประเทศไทย"
+463,6.85,B,5.11,11.55,7.72,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ธนาคารไทยพาณิชย์. Detailed address: ถนนพญาไท, แขวงวังใหม่, เขตปทุมวัน, กรุงเทพมหานคร, 10330, ประเทศไทย
+2. Paul Panich. Detailed address: ถนนอาร์ซีเอ, แขวงบางกะปิ, เขตห้วยขวาง, กรุงเทพมหานคร, 10310, ประเทศไทย"
+464,8.32,D,5.04,5.17,2.72,"What is the straight-line distance between the following two locations? (Unit is km)
+1. CIMB Thai Bank. Detailed address: 33, ถนนสุรวงศ์, แขวงสุริยวงศ์, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. Bamboo Pub. Detailed address: ซอยสุขุมวิท 3, ชุมชนรื่นฤดี, แขวงคลองเตยเหนือ, เขตวัฒนา, กรุงเทพมหานคร, 10110, ประเทศไทย"
+465,12.59,D,4.19,3.65,7.13,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rich Coffee. Detailed address: ซอยเพชรบุรี 7, ชุมชนซอยสุเหร่า, แขวงทุ่งพญาไท, เขตราชเทวี, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. Sizzler. Detailed address: 257, ถนนเจริญนคร, แขวงสำเหร่, เขตธนบุรี, กรุงเทพมหานคร, 10600, ประเทศไทย"
+466,2.07,D,12.13,10.33,6.99,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Trinity Silom. Detailed address: Lom Lom Local Dinner, ซอยนราธิวาสราชนครินทร์ 3, ชุมชนซอยพิพัฒน์ 2, แขวงสีลม, เขตบางรัก, กรุงเทพมหานคร, 10500, ประเทศไทย
+2. วัดน้อยนางหงษ์. Detailed address: สะพานพระราม 8, มหาวงษ์พัฒนา, แขวงบางยี่ขัน, เขตบางพลัด, กรุงเทพมหานคร, 10700, ประเทศไทย"
+467,6.16,A,3.31,7.94,2.87,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tora. Detailed address: ถนนสุทธิสารวินิจฉัย, ชุมชนริมคลองบางซื่อ 18, แขวงรัชดาภิเษก, เขตดินแดง, กรุงเทพมหานคร, 10400, ประเทศไทย
+2. โรงเรียนวัดบางโพอมาวาส. Detailed address: ประชาราษฎร์สาย ๑ ซอย 19, ชุมชนราชทรัพย์, แขวงบางซื่อ, เขตบางซื่อ, กรุงเทพมหานคร, 10800, ประเทศไทย"

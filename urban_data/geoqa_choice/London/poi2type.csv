@@ -1,0 +1,108 @@
+id,question,answer,A,B,C,D,E
+0,"Which type do following POIs belong to? POIs: Curlew Street, Westminster University, Queen Street 1, Aylward Street",A,bicycle_rental,construction,college,student_union,information
+1,"Which type do following POIs belong to? POIs: Lambeth Archives & Minet Library, Pepys Resource Centre, RHS Lindley Library, Grove Vale Library",E,livery_hall,veterinary,college,hall,library
+2,"Which type do following POIs belong to? POIs: The Angelic, The Red Lion, Euston Flyer, Dartmouth Arms",B,fitness_centre,pub,health_centre,adult_education,mall
+3,"Which type do following POIs belong to? POIs: All Bar One, Be At One, Fitz's, The Saint",E,place_of_worship,library,medical_centre,adult_education,bar
+4,"Which type do following POIs belong to? POIs: Backyard Cinema, Odeon Luxe & Dine, Everyman, The Ronson Theatre",B,loading_dock,cinema,driving_school,park,Nightclub
+5,"Which type do following POIs belong to? POIs: Black Sheep Coffee, Coffee To The People, Lots Larder, Notes",E,disused,adult_gaming_centre,shoe_shine,employment_agency,cafe
+6,"Which type do following POIs belong to? POIs: Tower Hill Car & Coach Park, Edward Square Parking, Cadogan Place NCP, Westfield London Car Park C",E,printers,business,university,vehicle_inspection,parking
+7,"Which type do following POIs belong to? POIs: Shell, Gulf, Texaco, Texaco",D,townhall,trade_school,dog_park,fuel,internet_cafe
+8,"Which type do following POIs belong to? POIs: Trumpington Road Library, Leighton Road Community Book Swap, Rhodes Little Library, Little Free Library",B,vehicle_inspection,public_bookcase,kindergarten,slipway,picnic_table
+9,"Which type do following POIs belong to? POIs: Babylab, BPP Business School, Loughborough University London, Bayes Business School",B,meadow,university,animal_enclosure,post_box,fitness_centre;sports_centre;swimming_pool
+10,"Which type do following POIs belong to? POIs: Jubilee Place Toilets, Blackfriars Millennium Pier, CityLoos, Waterloo Station",B,business,toilets,waste_basket,plumber,residential
+11,"Which type do following POIs belong to? POIs: T. Rex Restaurant, Ohana, Shishlique, Cous Cous Cafe",C,employment_agency,karaoke_box,restaurant,internet_cafe,theatre
+12,"Which type do following POIs belong to? POIs: Calvary Pentecostal Ministries, Globe Town Mosque, Canary Wharf Prayer Room, West London Buddhist Centre",D,luggage_locker,amusement_arcade,playground,place_of_worship,sanitary_dump_station
+13,"Which type do following POIs belong to? POIs: Boots, Bees Pharmacy, Dolphins Pharmacy, North London Health Centre",C,bicycle_rental,social_centre,pharmacy,vehicle_inspection,taxi
+14,"Which type do following POIs belong to? POIs: Onflight Couriers, Hackney Post Office, Strand Post Office, Leytonstone Road Post Office",E,passenger_information,business,government,bureau_de_change,post_office
+15,"Which type do following POIs belong to? POIs: La Capannina, Platinum Lace, The White Horse, The Griffin",D,reception_desk,car_wash,art_school,stripclub,fixme
+16,"Which type do following POIs belong to? POIs: Elsdale Street Surgery, The Golborne Medical Centre, St Paul's Way Medical Centre, Coyne Medical",B,hospital,doctors,bicycle_rental,training,ticket_validator
+17,"Which type do following POIs belong to? POIs: Arundel Arms, The Alma, The Little Crown, Iambic Bar",A,dead_pub,spa,music_school,nightclub,pitch
+18,"Which type do following POIs belong to? POIs: Dolphin Square Sports Centre, Slim Jim's, The Arch Climbing Wall Surrey Quays, Bannatyne's Health Club",A,sports_centre,bicycle_rental,miniature_golf,bureau_de_change,garden
+19,"Which type do following POIs belong to? POIs: Trinity Buoy Wharf, London Waterbus, Festival Pier, St. George Wharf",B,kick-scooter_parking,ferry_terminal,kindergarten,car_wash,canteen
+20,"Which type do following POIs belong to? POIs: Good Pizza, Tortilla, Real Taste, Pizza Hut Delivery",A,fast_food,research_institute,boating,animal_enclosure,events_venue
+21,"Which type do following POIs belong to? POIs: Victoria Park Old Ford Lock Rubbish Disposal, Little Venice Rubbish Disposal, Limehouse Basin Rubbish Disposal, Old Ford Lock Rubbish Disposal",D,post_office,warehouse,library,waste_disposal,garage
+22,"Which type do following POIs belong to? POIs: Nannies' Lawn, Buckingham Palace Garden, The Meadow, The Parade Ground",A,garden,public,office,ferry_terminal,bus_station
+23,"Which type do following POIs belong to? POIs: Green Line Coaches, Victoria Coach Station (Departures), Peckham Bus Station, Megabus Station",C,printer,tanning_salon,bus_station,sports_centre,taxi_point
+24,"Which type do following POIs belong to? POIs: Pegaso showrooms, Revere, Heathside Estate Office, British Interplanetary Society",B,meadow,office,indoor_play,restaurant,livery_hall
+25,"Which type do following POIs belong to? POIs: St. Aloysius' School Nursery, Children's Centre Services SureStart Euston, Our Newham Learning & Skills, Kings Kids Christian School",A,school,casino,storage,shelter,bakery
+26,"Which type do following POIs belong to? POIs: UK College of English, White Lion Centre, Global Banking School, London School of Beauty & Make-Up",C,disused_pub,student_union,college,post_office,pub
+27,"Which type do following POIs belong to? POIs: CASP early birds playgroup, Brunswick Park Nursery, Purple Dragon Nursery, Canada Square Day Nursery",A,kindergarten,sports_centre,karaoke_box,health_centre,marketplace
+28,"Which type do following POIs belong to? POIs: Hoxton Station, Waitrose & Partners, National Theatre, National Theatre",A,bicycle_parking,post_box,police,animal_enclosure,boat_rental
+29,"Which type do following POIs belong to? POIs: Phantom Peak, Finborough Theatre, Backyard Comedy Club, Comedy Store",B,livery_hall,theatre,indoor_gaming,concert_hall,place_of_worship
+30,"Which type do following POIs belong to? POIs: Bread Ahead, Bread Ahead, Bread Ahead, Bread Ahead",E,public,pub,college,park,bakery
+31,"Which type do following POIs belong to? POIs: Hackney Wick Underground, Delight, Nursery Gallery, The NOW Building",A,arts_centre,business,industrial,bicycle_parking,Nutritionist
+32,"Which type do following POIs belong to? POIs: Islington and Finsbury Youth Club, The Park Depot Building, Marian Community Centre, Upper Street Area Housing Office",B,casino,public,art_gallery,boat_rental,ticket_validator
+33,"Which type do following POIs belong to? POIs: Teletubby Land, Grove Adventure Playground, Upper Pepys Park Playground, Big Playground",C,plumber,sports_hall,playground,bus_station,coffee
+34,"Which type do following POIs belong to? POIs: NatWest, Triodos Bank, Metro Bank, Lloyds Bank",C,atm,social_club,bank,studio,fire_station
+35,"Which type do following POIs belong to? POIs: Santander, Post Office Travel Money, The Exchange, NatWest",C,language_school,shelter,atm,archive,Nightclub
+36,"Which type do following POIs belong to? POIs: Stratford Police Station, British Transport Police, Albany Street Police Station, Parks Police",B,social_club,police,post_office,marketplace,music_venue
+37,"Which type do following POIs belong to? POIs: My E20 Dentist, SparklySmile, Blythe Road Dental Practice, Square Mile Dental Centre",E,archives,water_point,bird_hide,monastery,dentist
+38,"Which type do following POIs belong to? POIs: Corsica Studios, Bodo's Schloss, Golden Bee, SheBar",A,nightclub,cinema,fountain,coworking_space,charging_station
+39,"Which type do following POIs belong to? POIs: Zipcar, Zipcar, Zipcar, Zipcar",B,serviced_office,car_sharing,old_pub,public,sanitary_dump_station
+40,"Which type do following POIs belong to? POIs: elizavet, Kensington Veterinary Care, The Hoxton Vet, The Veterinary Practice",B,comedy,veterinary,bakery,escape_game,waste_disposal
+41,"Which type do following POIs belong to? POIs: Light Centre Moorgate, Core Flex Pilates, Psycle, Total Chi Yoga",D,slipway,family_rom,residential,fitness_centre,learned_society;library
+42,"Which type do following POIs belong to? POIs: Cherry Garden Hall, Anatomie Studio, Stepney City Farm, ST. ANNE'S COMMUNITY CENTRE CHILDCARE LTD",B,hospital,community_centre,bakery,fountain,doctors
+43,"Which type do following POIs belong to? POIs: Whitechapel Youth Project, The Larder Ministries, Mind, Magic Care Moments",D,coffee,medical_centre,clinic,social_facility,shoe_shine
+44,"Which type do following POIs belong to? POIs: Elite Social Care Ltd, Bridge Lane Health Centre, National Hospital for Neurology and Neurosurgery at Cleveland Street, Great Ormond Street Outpatients - Zebra and Hippo Clinic Areas",A,hospital,canteen,photo_booth,miniature_golf,passenger_information
+45,"Which type do following POIs belong to? POIs: Palace Gate/Facing Freston Place, Kensington High Street/Kensington Church St., Fedex Express, Mail Boxes Etc",B,information_centre,post_box,therapists,toilets,courthouse
+46,"Which type do following POIs belong to? POIs: Physical Health Clinic, Nuffield Health Fitness & Wellbeing, Passport Health London Bridge Travel Clinic, Sarah Chapman",D,bus_station,indoor_play,arts_centre,clinic,parking_space
+47,"Which type do following POIs belong to? POIs: International Money Exchange, Forexchange, Travelex, Al-Iraqia",D,tanning_salon,luggage_locker,sports_centre,bureau_de_change,waste_transfer_station
+48,"Which type do following POIs belong to? POIs: Johnson Matthey, Grey, bespoke, TIM Group",A,office,indoor_gaming,fast_food,bicycle_parking,picnic_table
+49,"Which type do following POIs belong to? POIs: Dabbers Social Bingo, Game Nation, Hijingo, Mecca Bingo",A,gambling,art_gallery,university,hookah_lounge,parking_entrance
+50,"Which type do following POIs belong to? POIs: Sundial, Human Sundial, Time Spiral, Worls's End",C,water_point,left_luggage,clock,shed,tanning_salon
+51,"Which type do following POIs belong to? POIs: Glass Fountain, Saville Esmé Percy Memorial, William Pitt Byrne Memorial Fountain, Slade Fountain",A,fountain,arts_centre,serviced_office,social_facility,studio
+52,"Which type do following POIs belong to? POIs: Little Venice Water Point, Victoria Park Water Point, Eastway Water Point, City Road Lock Water Point",B,cinema,water_point,language_school,storage,fire_station
+53,"Which type do following POIs belong to? POIs: Royal Academy of Dance, X7eaven Performing Arts, Las Estrellas, Petit Pas",E,telephone,garden,water_point,slipway,dance
+54,"Which type do following POIs belong to? POIs: Amorino, Creams, Brass Monkey, Yoyo's",E,shelter,car_sharing,student_accommodation,fountain,ice_cream
+55,"Which type do following POIs belong to? POIs: Geological Society, Royal Society of Chemistry, Linnean Society, Society of Antiquaries",D,picnic_table,government,coworking_space,learned_society;library,lost_property_office
+56,"Which type do following POIs belong to? POIs: Pshkin House, The Learning Store, Twin English Centre London, LVC School of English",B,car_sharing,language_school,horse_riding,car_wash,theatre
+57,"Which type do following POIs belong to? POIs: Chepstow Cars, SIXT, Enterprise, Enterprise",A,car_rental,miniature_golf,social_club,stripclub,spa
+58,"Which type do following POIs belong to? POIs: Maggy's Slots, Maggy's Slots, Game Nation, City Slots",E,shelter,park,escape_game,housing_office,adult_gaming_centre
+59,"Which type do following POIs belong to? POIs: The Royal Majestic Appartements, Clifton Estate, York Road Estate, Peabody Estate",E,money_transfer,parcel_locker,bicycle_parking,research_institute,residential
+60,"Which type do following POIs belong to? POIs: CashX Money Transfer, Western Union, Monrey, Glo Currency",A,money_transfer,picnic_table,escape_game,office,construction
+61,"Which type do following POIs belong to? POIs: Taylor House Tribunal Hearing Centre, City of London Coroners Court, Lavender Hill Magistrates' Court, Bow Coroner's Court",C,massage_parlour,dentist,courthouse,shelter,fountain
+62,"Which type do following POIs belong to? POIs: Senior Common Room, Junior Common Room, Seven Dials Market, La Placita Mall",D,gallery,post_office,dive_centre,food_court,dance
+63,"Which type do following POIs belong to? POIs: TRAID, TRAID, TRAID, cicon cloth recycle",D,trade_school,composting,post_depot,recycling,garden
+64,"Which type do following POIs belong to? POIs: Noho Showrooms, MOTH Club, Carisbrooke Hall, The Crafted Corner",C,residential,indoor_gaming,events_venue,parking,animal_keeping
+65,"Which type do following POIs belong to? POIs: Kennington Park History Hut, Old London Bridge alcove, Old London Bridge alcove, Clapham South Deep Level Shelter",B,research_institute,shelter,doctors,interior,nature_reserve
+66,"Which type do following POIs belong to? POIs: Finsbury Pavement, G S Minicabs, Thatch Cars, Dial A Craft LTD",B,hospital,taxi,fitness_centre,garden,bench
+67,"Which type do following POIs belong to? POIs: The Olympic Ring benches, Tom's bench, Fairy Glen, Connected Journeys",A,bench,loading_dock,interior,plumber,sanitary_dump_station
+68,"Which type do following POIs belong to? POIs: Pimlico Gardens, Grosvenor Road, Drinking Fountain, Regents Park 2, The Serpentine",D,nightclub,escape_game,adult_gaming_centre,drinking_water,dead_pub
+69,"Which type do following POIs belong to? POIs: Camberwell Car Wash, Hand Car Wash, Complete Clean Hand Car Wash & Vacuum, The Best Hand Car Wash",A,car_wash,storage,dojo,printers,fast_food
+70,"Which type do following POIs belong to? POIs: Battleship Building Reception, Mr Resistor, The Foundry, Trineire Designs",C,sports_centre,waste_disposal,commercial,canteen,pitch
+71,"Which type do following POIs belong to? POIs: The Sportsman Casino, Playboy Club London, Genting Casino, The Palm Beach Casino",E,money_transfer,dead_pub,fountain,hospital_department,casino
+72,"Which type do following POIs belong to? POIs: Eden Montessori Nursery, La Petite Fleur, Busy Angels Day Nursery, Cumberland Road Nursery",C,health_centre,community_centre,childcare,public_bookcase,bicycle_parking
+73,"Which type do following POIs belong to? POIs: Fortress studios, The Warehouse Waterloo, Buzwakk Recording Studio, Pacific Television Centre",A,studio,student_union,prep_school,karaoke_box,monastery
+74,"Which type do following POIs belong to? POIs: Holborn Gate, Decathlon Car Park, Sainsbury's, Selfridges Car Park",B,retail,parking_entrance,adult_education,hospital_department,plumber
+75,"Which type do following POIs belong to? POIs: Apple Market, Exmouth Food Market, spice mountain, Bermondsey Farmers' Market",D,taxi,toilets,parcel_locker,marketplace,fountain
+76,"Which type do following POIs belong to? POIs: The Form Rooms, ILEC Conference Centre, The Foundry, etc.venues",B,loading_dock,conference_centre,sanitary_dump_station,canteen,waste_basket
+77,"Which type do following POIs belong to? POIs: Dion-Enya, Source London, Lynn-Arah, Elektrobay",D,concert_hall,Nightclub,photo_booth,charging_station,tanning_salon
+78,"Which type do following POIs belong to? POIs: Bodydoctor, Explore Learning, Cookery School, Art-K",B,community_centre,training,social_facility,payment_terminal,housing_office
+79,"Which type do following POIs belong to? POIs: 1st Time School of Motoring, Data Cars Driver Training Centre, HGVC, Andy's Driving School",A,driving_school,sanitary_dump_station,car_sharing,swingerclub,sauna
+80,"Which type do following POIs belong to? POIs: Rooftop Saunas, yue float, The Locker Room, London City Island Sauna",D,car_rental,Childrens Centre,toilets,sauna,cafe
+81,"Which type do following POIs belong to? POIs: Brixton Recreation Centre, The Greenwich Centre, Clapham Leisure Centre, Third Space Swimming Pool",C,dojo,serviced_office,swimming_pool,spa,language_school
+82,"Which type do following POIs belong to? POIs: Brockley Main Post Office, London City Island Post Room, West End Delivery Office, Royal Mail",A,post_depot,lost_property_office,loading_dock,restaurant;pub,childcare
+83,"Which type do following POIs belong to? POIs: Sturts Lock Elsan Point, Little Venice Boater Facilities, Victoria Park Old Ford Lock Elsan Point, Actons Lock Elsan Point",C,art_school,fitness_centre,sanitary_dump_station,bank,hackerspace
+84,"Which type do following POIs belong to? POIs: Pedalo, Boat Hire at Battersea Park, GoBoat Rental, Skuna Hot Tub",C,vending_machine,weathervane,boat_rental,office,waste_transfer_station
+85,"Which type do following POIs belong to? POIs: Kumon, Mathnasium, ELS Training, Small Steps Big Minds",C,escape_game,reception_desk,prep_school,fire_station,art_school
+86,"Which type do following POIs belong to? POIs: Dip Bars, Outdoor gym, TGO Outdoor Gym, Gymnastic rings",E,dormitory,residential,ice_cream,childcare,fitness_station
+87,"Which type do following POIs belong to? POIs: Duck Feeder, Costa Express, Lucozade, Photo-Me",D,charging_station,money_transfer,fitness_station,vending_machine,restaurant
+88,"Which type do following POIs belong to? POIs: Shoreditch Exchange, The Factory London, Rentadesk, Idea Space",B,bench,coworking_space,apartments,luggage_locker,car_sharing
+89,"Which type do following POIs belong to? POIs: Las Vegas Arcade, Novelty Automation, Immersive Gamebox, Babylon Park",B,water_point,amusement_arcade,research_institute,gambling,dive_centre
+90,"Which type do following POIs belong to? POIs: Battersea Labour Club, Bede centre, LDN Drop-in, Holmfield House Children's Centre",C,university,adult_gaming_centre,social_centre,money_transfer,university
+91,"Which type do following POIs belong to? POIs: Photo-Me, Photo-Me, Photo-Me, Photo-Me",D,fuel,spa,escape_game,photo_booth,weather_dial
+92,"Which type do following POIs belong to? POIs: Mission: Breakout, AIM Escape Rooms, Fox In A Box, Breakin' Escape Rooms",A,escape_game,school,meadow,government,boating
+93,"Which type do following POIs belong to? POIs: Xen Do, Sung Chuan Kung Fu, Legacy Martial Arts, Ryoshinkan Iaido and Jodo Dojo",D,government,printers,post_box,dojo,public_bookcase
+94,"Which type do following POIs belong to? POIs: Tanning Shop, Instinct, TANtalize Tanning and Tatoos, Ultra Tan",B,bank,tanning_salon,fast_food,Nutritionist,comedy
+95,"Which type do following POIs belong to? POIs: World Heart Beat, Guitar Tuition East London, London City Brass, Point Blank Music Academy",C,garden,toilets,music_school,housing_office,fitness_centre;sports_centre;swimming_pool
+96,"Which type do following POIs belong to? POIs: Daslan, Budul telecom, Tech Lounge Cafe, SideQuest Gamers Hub",C,waste_disposal,university,internet_cafe,pool_table,family_rom
+97,"Which type do following POIs belong to? POIs: Visionary BritMuseum, Restored K6 phone booth, Police Public Callbox, Extra Tall K6",D,left_luggage,research_institute,learned_society,telephone,fast_food
+98,"Which type do following POIs belong to? POIs: Jubilee Place Mall Table Tennis, BMX Track London, Royal Oak (Meanwhile 2) Skatepark, White Grounds Skatepark",C,tanning_salon,Nightclub,pitch,hospital_department,animal_keeping
+99,"Which type do following POIs belong to? POIs: Motorcycle parking, Motorcycle parking, Motocycle parking, Motorcycle parking",E,warehouse,depot,information_centre,parking_space,motorcycle_parking
+100,"Which type do following POIs belong to? POIs: Sleven Fitness, CrossFit Canning Town, pure gym, Miguel's Gymnasium",C,apartments,charging_station,sports_hall,post_depot,office
+101,"Which type do following POIs belong to? POIs: Amazon Celery, Amazon Hub Locker, Yeep, Amazon Hub Locker",E,car_wash,telephone,sports_hall,post_depot,parcel_locker
+102,"Which type do following POIs belong to? POIs: Junkyard Golf, Swingers, Birdies, Puttshack",A,miniature_golf,residential,toilets,gambling,employment_agency
+103,"Which type do following POIs belong to? POIs: Levita House Plantation, Birdwatch, Lambeth Walk Doorstep Green, Mabley Edible Garden",B,government,park,waste_basket,driving_school,ferry_terminal
+104,"Which type do following POIs belong to? POIs: Sticks N Sushi, The Alan Turing Institute, Overseas Development Institute, Thrombosis Research Institute",C,gambling,indoor_gaming,research_institute,kick-scooter_parking,marina
+105,"Which type do following POIs belong to? POIs: Street Cleansing Depot, London Hire, Lewisham Scrap Metal, Royal Docks Metals",E,arts_centre,sanitary_dump_station,university,dentist,industrial
+106,"Which type do following POIs belong to? POIs: Bpas, Geek School, Grow Kings, Heolby & Company",C,vehicle_inspection,car_sharing,fixme,parcel_locker,amusement_arcade

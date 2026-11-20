@@ -1,0 +1,361 @@
+id,question,answer,A,B,C,D
+0,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,ヒンメルブラウ,新宿御苑,目黒区立 中目黒小学校,木下第二ビル
+1,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,NEWしんばしビル,東京原木会館,ニューヒラノビル,Monday
+2,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,南江堂ビル,共同計画ビル,ハビリス駒込,駒沢オリンピック公園総合運動場
+3,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,愛宕フォレストタワー,外神田MNビル,都立明治公園,関口台公園
+4,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,公明党,LaLaテラス南千住,青葉台121,第2ゆたかビル
+5,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,KD Bldg,桜上水北自転車駐車場,豊島五丁目団地,東和ビル
+6,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,防衛省市ヶ谷地区,江北二丁目第2アパート,千住保健総合センター,モリタビル2
+7,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,清見寺,恵比寿プライムスクエア,ライオンズマンション初台,ヨドバシAkiba
+8,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,本郷JKHビル,BiTO AKIBA PLAZA,グランドメゾン西麻布,六番町Kビル
+9,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,中野区もみじ山文化センター,大和ビル,森野ビルディング,出世稲荷神社
+10,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,東京科学大学 湯島キャンパス,三井のリパーク,白子変電所,佐野ビル
+11,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,上野竹内ビル,パークハウス楠郷臺,イオン板橋ショッピングセンター,日光ハイツA棟
+12,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,セントラル共立ビル,西町公園,神田モーリビル,青山学院大学
+13,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,コンフォリア白金高輪,慶應義塾大学 - 三田キャンパス,バンダイ本社ビル,岡田ビル
+14,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,スズキビル東新橋,轟ビル,有楽町ビルヂング,本天沼二丁目第二アパート
+15,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,東京農業大学,武蔵ビル,ベルサール渋谷ファースト,品川タワーレジデンス
+16,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,株式会社カナセ,宝栄内神田ビル,優雅堂,昭和女子大学
+17,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,板橋駅西口自転車駐車場,プラウドタワー亀戸クロス,代官山 T-SITE,飯田ビル
+18,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,渋谷駅前会館(飯島ビル),ルイマーブル乃木坂,雷5656会館,月の輪ビル
+19,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,中野区立武蔵台小学校,東十条グリーンコーポ,大鷹第一ビル,田町センタービル
+20,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,Saion Sakurazaka,新渡戸文化学園,山野井製作所,トキワコーポ
+21,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,上野駅,ゆたか荘,恵比寿NRビル,三井住友銀行東館
+22,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,渡辺ビル,東京セントラル本郷,三井のリパーク,電設健保会館
+23,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,AKIBA Place,Taishidō Junior High School Front Square,プレジオ代田,ミルクホール石川
+24,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,マンション五反田,秋葉原M2ビル,株式会社ユー・エス・イー,富士八重洲ビル
+25,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,リバーサイドNICハイム五反田,J-ROAD,サンパウロビル,半田ビル
+26,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,ON TAP by Edo Tokyo Beer,Big Apple,Times,朝日生命王子ビル
+27,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,金日会館,奥山ビル,神田渡辺ビル,下馬中央公園
+28,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,黎明薬局,DRホームズ北町,アトレ秋葉原1,明治大学 和泉キャンパス
+29,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,アマーレ・しもきた,浄名院,ドン・キホーテ,北区立 滝野川第五小学校
+30,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,宝池山 眞龍寺,新宿公園,松孝商事ビル,迎接院
+31,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,Times,Dia Palace Nishi Asakusa Grand Majest,秋葉原SILビル,齋藤ビル
+32,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,ピットイン100,本町南児童公園,ホテル・ブルーシャトー,A-FRONT
+33,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,国士舘大学 世田谷キャンパス,大京公園,光彩ビルⅠ,コーポ睦
+34,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,タイムズカープラス タイムズ綾瀬駅前第２ステーション,鉄鋼ビルディング,仁誠堂ビル,虎ノ門第二東洋ビル
+35,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,Yachiyo III,サピアタワー,アン ソワソントディセットビルディング芝(アンセットビルディング芝),イントランス本駒込ビル
+36,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,恵比寿リバストーンハイツ,目白スターハイツ,目黒エンペラー,Akihabara Park Bilg
+37,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,アキバあそび館,赤塚ホール,ザ・パークハウス浅草橋タワーレジデンス,錦糸町ビル
+38,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,住友不動産猿楽町ビル,さすがやビル,白石ビル,名店ビル
+39,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,静岡新聞静岡放送ビル,BIG BOX,大手ビル,中有楽ビル
+40,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,イーグルビル,鳩森八幡神社,アークヒルズ,Times
+41,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,culture house,荒川小菅緑地公園,ROX・3G,豊島税務署
+42,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,浅草ROX,Japan Sport Olympic Square,西日暮里六丁目公園,NFKビルディング
+43,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,サンハイム,Air Rise Tower,ドミ小石川ビル,Le-Lion西新宿
+44,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,武田グローバル本社,足立区立栗島中学校,ロイヤル商事本社ビル,稲門ビル
+45,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,相鉄フレッサイン お茶の水神保町,Ritz Hatsudai Bld,ジオ四谷荒木町,九段第2合同庁舎
+46,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,天理教本小台分教会,東邦商工,グローリア田柄,青山ビルヂング
+47,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,第2工業ビル,渋谷第一勧銀共同ビル,西原ビル,すばる目白
+48,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,八千代エンジニヤリング,PaLeTTe,W.I.Tパレス,松本ビル
+49,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,とちの木公園,新宿エルタワー,三菱UFJ練馬寮,東京都立 戸山高等学校
+50,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,LUビル,青山NSビル,MAGNET SHIBUYA,シーメゾン王子神谷
+51,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,台東区立石浜小学校,アムール佐々木,貨物車,三越銀座店
+52,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,芝ビル,北沢公園,三十日堂ビル,国際興業バス 志村営業所
+53,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,YK東上野ビル,gol. STORE TSUBASA,建築会館,とげぬき地蔵尊 高岩寺
+54,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,プレミヤ西新井,三田ステーションビル,成陽ビル,岡光ビル
+55,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,荒川消防署,勝文館ビル,藤ビル,吉川ピアノ教室
+56,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,パトリス神保町,名鉄協商パーキング,パラカ,フレンテ明大前
+57,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,東京 FIVE BLD,品川区立 後地小学校,セクタービル,フラットサイカネ
+58,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,新清ビル,海老原ビル,魚鉄ビル,文京グリーンコート
+59,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,THE RENGA,森嶋ハウス,ラ・スリーゼ,橋本ビル
+60,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,勢至院,中村ビル(NakamuraBldg.),道玄坂センタービル,LEXE Akihabara East
+61,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,私立文京学院大学女子中学・高等学校　体育館,博聖会整形外科,BINGO モディ,新宿区 神田上水公園
+62,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,上の公園,キクチビル,渋谷ビーム,千住東町児童遊園
+63,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,伊藤ビル,サンフジビル,志村第三公園,皆川ビル
+64,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,新宿マインズタワー,KY BLD.,Kakuei Bld.,井門西麻布ビル
+65,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,長島エレガンス第IIIビル,中村,新宿アイランドタワー,島田ビル
+66,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,新宿野村ビル,ファミール赤羽シティアヴェニュー,杉並の家けやき保育園,片岡ビル
+67,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,デザインホテル・ノックス,SUZUMOTO BUILDING,ニュー駿河台ビル,駒込研修所
+68,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,渋谷ホームズ,江東区立辰巳中学校,ホテル・ホワイトシティ23,リード飛鳥山
+69,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,呂アパート,久保ビル,後地クマさん広場,淡路亭
+70,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,MEGURO MARC,尾張屋,Paseo上野御徒町,メトロプラザ
+71,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,山繁コーポラス,日本生命初台ビル,広尾イースト,cocoti
+72,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,表参道ヒルズ,MORIKAWA BLDG 1,第一芝1丁目ビル,タイムズ
+73,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,リルシア東京イースト,エーデルホーフ第3ビル,神保町三井ビルディング,駐車場
+74,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,恭司ビル,栄町公園,梅沢電気商会,東京高等地方簡易裁判所合同庁舎
+75,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,第1ヒロビル,法務省赤れんが棟,ル・フェール南青山,コーポシバタ
+76,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,西新宿パークウエスト,ラ．カザ．ビアンカ,秋葉原センタープレイスビル,コートリィ
+77,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,SEG西新宿本部ビル,中野区立 第二中学校,東武練馬第２ローヤルコーポ,カグラビルズ
+78,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,お茶の水クリスチャンセンター,カットファクトリー,第83東京ビル,COIN PARK
+79,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,ホテル・パティオ,サトウスポーツ,NISHI-SHINJUKU KYOWA BUILDING,ランディック第二虎ノ門ビル
+80,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,ヒューリック神谷町ビル,大島緑道公園,西新ビル,練馬区立 北町西小学校
+81,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,新宿都税事務所,ジュエリークラフト エクラン,三共富士見ビル,もりくま11
+82,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,第3山商ビル iタワー,足立区立 亀田小学校,ライオンズマンション初台第二,Break24h
+83,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,大和公園,中村橋サンパレス,ライオンズマンション西五反田第2,日本教育会館
+84,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,第六天公園,偕楽ビルディング外神田,松岡九段ビル,スリースタービル
+85,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,錦三ビル,鳥居ビル,IVYビル,初穂マンション赤坂
+86,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,金漪ビル,豊島園パークハイツ (Toshimaen Park Hights),aggo's cafe,グランドメゾン麹町
+87,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,ライオンズステーションプラザ半蔵門半蔵門,天理教島栃分教曾,フキクレスト御茶ノ水,鈴木ビル
+88,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,都営扇一丁目第二アパート,桔梗ライオンズマンション平河町,Hello Park,ハウスみゆき
+89,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,JPタワー,仁大ビル,斉藤会館,江東区立第三砂町中学校
+90,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,丸の内ビルディング,内幸町一丁目街区中地区第一種市街地再開発事業,穀粉会館,ANDO BLDG.
+91,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,西船堀公園,ユアーパーキング,立花日英ビル,東京ビルディング
+92,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,グランキューブ,都営辰巳一丁目アパート,齋藤ビル,内原ビル
+93,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,みどり幼稚園,ばんじん通り児童遊園,荒川区立原中学校,大手町フィナンシャルシティノースタワー
+94,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,東田端公園,イストワール祐天寺,樋口本店ビル,農林水産省
+95,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,日テレ四番町ビル 4号館,東放学園映画専門学校,中央合同庁舎第４号館,住宅
+96,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,ダイハツ・ニッセイ池袋ビル,あそか病院,天祖神社,東京倶楽部ビルディング
+97,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,ソシア西葛西,素盞雄神社,なでしこ公園,虎ノ門一丁目ビル
+98,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,西新橋スクエア,アヴニール浅草橋,成等院,コスモM&R
+99,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,新和泉ビル,ホテル・エムワン,新虎ノ門実業会館,錦糸町
+100,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,えこっくる江東 環境学習情報館,東成建設株式会社 ,パルロード3,メトロビル
+101,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,JUST Park,浜松町262ビル,No.R赤坂見附,VORT芝公園2
+102,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,赤坂扇やビル,タイムズ,江戸川区立第七葛西小学校,歌舞伎町公園
+103,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,六本木アークタワーズウエスト,Marble Akasaka,テーオー食品,京橋三貴ビル
+104,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,イーストパークス大島ノーザンスクエア,柳北会館,深沢ハウスD棟,月世界ビル
+105,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,丸の内中央ビル,KZ Building,UFビル3,東光寺
+106,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,赤坂アルトビル,下井ビル,Dormy Inn Hatchobori,東酒類ビル
+107,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,御霊社,池之端すきやビル,第二対翠館ビル,星ビル
+108,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,クアットロ ミツレ,松山ビル,KAMIYA BLDG,赤坂三田ビル/藤会館
+109,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,金波ビル,竹内ビル,タイムズ代田橋11,松岡ビル
+110,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,西徳第一公園,村上歯科婦人科クリニック,ORIENT AKASAKA,オザワビル
+111,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,Canon,東京ポートシティー竹芝オフィスタワー,小林ビル,石塚商事ビル
+112,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,エクセリアシオン,豊島区立 富士見台小学校,アーバン虎ノ門ビル,Parking 1
+113,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,村上歯科クリニック,アークヒルズサウスタワー,河口ビル,AVENUE 浜田山
+114,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,三井のリパーク,玉窓寺墓地,パークサイド東高円寺,神谷町45MTビル
+115,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,朝日ビルヂング,日本アッセンブリーズ・オブ・ゴッド教団,泉ガーデンタワー,メゾン ド ワタナベ
+116,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,東京交通会館,藤木,パークハイツ昭和,浅草消防団第二分団本部
+117,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,Neo,モリカワビル,塚田ビル,虎ノ門40MTビル
+118,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,TOKYU REIT 虎ノ門ビル,都営島根二丁目アパート,損保ジャパン日本興亜渋谷ビル,パークアクシス文京ステージ
+119,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,ザ・レジデンス東京駅前,岩波神保町ビル,山寺のHooters,カーサ徳安
+120,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,フレンテ新宿三丁目,篠田ビル,日土地京橋ビル,Honda
+121,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,新宿サンセイビル,新橋駅前ビル1号館,ECOLOPARK,塩谷ビル
+122,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,ホテル・ウィル,新お茶の水ビル オフィスタワー,秋葉原M2ビル,三井のリパーク
+123,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,歌舞伎町ビル,アティレビル,金刀比羅神社,いなげや駐車場
+124,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,野菊ビル,三崎町ビル,千住ミルディスI番館,ドミールケイ
+125,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,カズミKAYデンタルクリニック,区立下井草南自転車駐車場,蔵前警察署,大横川親水公園
+126,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,KS15ビル,広尾ガーデンヒルズE棟,稲荷神社,ホテル・スイーツ
+127,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,電子ビル,北綾瀬PSSビル,たちばなビル,錦糸町マルイ
+128,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,真英ビル,メインステージ王子,Colon Hotel,ユタカビル
+129,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,MKマンション,グリーンヒルズ2,ニュー錦糸町ビル,プラザ双葉
+130,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,CKビルディング,加平第二公園,東五反田二丁目第3地区第一種市街地再開発事業,手芸あさの
+131,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,O.T.K. building,青山高野ビル,紀尾井町第2山本ビル,林屋ビル
+132,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,寺村包装株式会社,jing,久保ハウス,プラザ西新宿
+133,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,池袋西口センタービル,日本 工業 出版,イサミヤ第2ビル,エミナリア東十条
+134,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,本光寺,SAN Park,TRAD MEJIRO,下谷神社
+135,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,セブン-イレブン,迎接院,ダイバーシティ東京,新橋スクエアビル
+136,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,ヒロオファイブ,アリエス,グランドメゾン恵比寿の杜フロントレジデンス,アバヴ渋谷ビル
+137,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,錦糸町駅前プラザビル,サイレンス錦糸町,エル・アルカサル 目黒,横川南児童遊園
+138,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,KS PLAZA BUILDING,新橋中央ビル,酒井,クレイノハピネス北綾瀬
+139,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,元麻布プレイスA棟,Totsu Park View Plaza,チグサビル,青山自動車工業所
+140,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,トミヤマビル,鮎沢ビル,高田馬場,Kハイツ
+141,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,第一淺井ビル,六本木石渡ビル,DAIKANPLAZA City,ベルハイム赤塚
+142,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,出光,板橋中央総合病院,東京消防庁消防学校,Hilton Tokyo
+143,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,桑田記念児童遊園,芝光和ビルデイング,お茶の水小柳出ビル,東山堂コーポ
+144,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,プラザ錦糸町ビル,オーベルアーバンツ東中野,いきいきプラザ,王子TKビル
+145,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,東京都庁,フラット荻窪,ベルファース東十条,江戸川橋ビル
+146,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,プラスバービル,私立 光塩女子学院 初等科 中等科・高等科,Flower Store 和光園,CS TOWER
+147,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,凸版印刷,デックス東京ビーチ,千代田ファーストビル南館,幸栄ハイツ
+148,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,千束稲荷神社,Novoic House,新宿マルイメン,保科ビル
+149,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,フローレンスハイム,アコード新宿ビル,祐天寺柳沢ビル,Partner
+150,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,イーストビル錦糸町,ボニートビル,ねぎどん,クレール・ソレイユ
+151,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,都営太平南アパート 1号棟,創価学会,コムス世田谷,新田ポンプ所
+152,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,千代田ビル,永井ビル,目黒区立 鷹番小学校,三経85
+153,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,第一志村ビル,長泉寺,HB錦糸町ビル,千石南自転車駐車場
+154,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,ザ・パークハウス上目黒ピアース,フェリーチェ錦糸町,ザ・バレル立田ビルⅠ,ピュア中野坂上
+155,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,ST-Park,タチビル中野,BIC CAMERA,林試の森公園
+156,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,蔵前永谷ビル,大山町クロスポイント周辺地区市街地再開発事業,寿ビル,HONEY BLG
+157,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,昭和商事ビル,高田馬場ビルディング,イイムラビル,さくらの里街かど公園
+158,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,服部ビル,CREO BLDG,中野区立第七中学校,氷川台駅第九自転車駐車場
+159,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,八木ビル,エスポワール南阿佐ヶ谷,NDKロータスビル,MMビル
+160,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,大黒屋ビル,タカダハイツ,共同ビル,第一協和ビル
+161,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,村松,富貴ビル,L-Place南砂,セントラル21ビル
+162,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,Ueno U-One,ECOLOPARK,Cycle Plaza,四つ木聖地苑
+163,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,アドレシア,上野池之端立田ビル,國學院大學,ローレルハイツ
+164,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,天理教,上野鈴乃屋本店ビル,メゾンドソレイユ,京橋三貴ビル
+165,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,K-PLAZA,北沢ののはら広場,Cornes House,原宿CSハウス
+166,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,ツインハイツ,アイサンビル,株式会社ＳＥＨＯ,PLAZA U
+167,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,昌清寺,OAKビル,富士正タワーパーキング,加賀二丁目緑の広場
+168,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,表参道の石灯籠,SUZUMOTO BUILDING,やぶ忠,Paraca
+169,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,千住保健総合センター,小石川車両基地,Repark,池之端会館
+170,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,KS15ビル,徳丸変電所,Club House Kagurazaka,エクセル上野ビル
+171,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,クオーレ青葉台,田柄ハイツ,東洋 巣鴨コーポ,TS仲町ビル
+172,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,KS PLAZA BUILDING,白金ザ・スカイ,信水ビル,電光ビル
+173,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,湯島ミハマビル,坂上ビル,田町センタービル,ユニーブル新宿西
+174,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,長谷川材木店,ヤマトプラザビル,錦糸レジデンス,TOMOビル
+175,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,SHIMA赤坂ビル,ウィステリア7ビル,ホテル・スカイラブ,コスモM&R
+176,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,ハイツ・K,高橋ビル,Park Axis 錦糸町スタイルズ,池之端すきやビル
+177,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,紀文堂ビル,上富士変電所,伊皿子スワローズマンション,サンヤマダ
+178,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,Twin Y’s I,東京警察病院,大和田マンション,堀船第二公園
+179,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,駐車場,平井ふれあい通り駐輪場,Yamada Bldg.,KFビル
+180,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,上野ソシアルビル,カストリ書房,Business Guide-sha,サンライズ赤羽
+181,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,富士神田ビル,上野マルイ,HRCビル,Hotel MYSTAYS PREMIER
+182,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,大山町クロスポイント周辺地区市街地再開発事業,カーサソラール,本郷若井ビル,代々木トライアングル
+183,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,ヤマト港南ビル,エスポワールI,ハトヤビル3,グリーンビル
+184,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,上野御徒町第2時間貸駐車場,北区立稲付中学校,東京信用金庫,松坂屋
+185,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,文京区湯島総合センター,東京女子医科大学,扇南公園,京急第１ビル
+186,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,NPC24H,サンライズビル,中野区役所,ヒューリック新宿五丁目ビル
+187,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,秋葉原UDX,弘道第一公園,Daiwa神田イーストビル,東京堂ビル
+188,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,山本のハンバーグ渋谷食堂,中銀小石川マンシオン,道路代替地,アサンテサーナ
+189,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,レオパレス21本社,東西館ビル本館,台東区立生涯学習センター,新宿カドビル
+190,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,上野不二ビル,ORIENTAL WAVE,秋葉原井上ビル,飯田橋ラムラ
+191,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,赤坂四方ビル,黒島ビル,Suzuki,PMO
+192,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,CONTINENTAL AKASAKA IV,ロイコーポ,東和親水公園,ソシアル湯島ビル
+193,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,豊英ビル,目黒プラザ,江州建設,エクセル湯島ビル
+194,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,メゾン・ララ,MARUZEN湯島,PaletteM,高輪シルバーマンション
+195,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,TG115ビル,浅草聖ヨハネ教会,渋谷三葉ビル,TSツインビル
+196,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,松濤フラッツ,本町南児童公園,吉田ビル,トーア明大前マンション
+197,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,BINO御徒町,ライオンズマンション,Park station,新坂マンション
+198,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,カラオケ館,フラット王子,板橋区立 中台小学校,NAGAFUJI
+199,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,Galettoria,アーバンイマイ,レイクサイドビル,三経55
+200,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,MAISON BRANCHE,飯野ビル,御徒町グリーンハイツ,パークコート青山ザタワー
+201,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,パレス本駒込,丸政ビル,GSハイム中野,北品川クリニック予防医学センター
+202,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,住吉公園,ホテル・シーヘブン,西友浜田山店駐輪場,千代ビル
+203,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,上智大学,GARDENTERRACE KOTOBASHI,エッグスンシングス 原宿店,日本加除出版株式会社　別館
+204,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,メゾンセクレール,ニチエーパーク下北沢,中野セントラルパーク,メルクマール笹塚
+205,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,正徳寺,西宮邸(旧陸奥宗光邸),UMEDA BLDG,タワーホール船堀
+206,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,秋葉原練塀公園,TX秋葉原阪急ビル,コーポ青木,玉英堂
+207,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,イオンフードスタイル,渋谷区立 富谷小学校,キャニオンシティ東洋ビル,エクセルウィング
+208,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,ブランズ六義園,トキビル,MKビル,荒川消防署 汐入出張所
+209,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,和田ビル,チョムチョム秋葉原,パラカ,志村ビル
+210,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,日本電子専門学校 7号館,豪徳寺,アトレ秋葉原2,IKEDA Building
+211,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,Apple Store,赤羽南二丁目児童遊園,メゾン早田,GAITO秋葉原ビル
+212,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,三津元ビル,福八ビル,トピレックプラザ,エイム東京九段ビル
+213,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,駒込寮,オオツカビル,パレスサイドビルディング,芝五ビル
+214,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,AXIA Aoyama,大原第3ビル,メゾンカルム本郷,第一五本木ビル
+215,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,藤田ビル,ララちゃんのおうち,高円寺サマリヤマンション,ゆりのき児童遊園
+216,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,ユアーズ・パーキング 西五反田第4駐車場,Shibue Higashi Park,センターまちや,新田住宅
+217,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,コーポフローラ,瀬川ビル,アーバンフラッツ湯島,山陽企業第2ビル
+218,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,エビススバルビル,日本大学法学部3号館,早稲田大学早稲田キャンパス,仙寿院
+219,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,珍来,ファミリーマート,ひかりハイツ,ラ・ガール駒込
+220,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,(仮称)北区赤羽南B敷地計画,ゲートシティ・ウェストタワー,青柳ビル,Cracia Versecrasia Kikukawa Station Site
+221,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,ヨドバシカメラ,はじまるビル,玉川上水緑道,パークホームズ武蔵小山
+222,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,オンダ浅草橋ビル,ジェイフィールド,プライマルフロント錦糸町,神山フォレスト
+223,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,MIFビル,小林精肉店,パサージュ住吉,補助第85号線（赤羽台2期）
+224,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,タイムズ,THEパームス浅草橋 PARC RE・STA,2,MIYAKO BLDG
+225,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,ワテラス アネックス,滝野川体育館,本所健康センター,神谷会館
+226,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,阿佐ヶ谷北口駅前ビル,妙正寺川公園,アサクラハイツ,大黒屋
+227,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,サンシャインシティ,ファミーユ西五反田東館,世田谷区立 若林小学校,アセンド目黒
+228,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,ウィーンビル,創価学会,都営浜田山四丁目第2アパート15号棟,柳澤邸
+229,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,徳丸スクエア,Tokyo Resort & Sports,私立 鴎友学園女子中学高等学校,𠮷川ビル
+230,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,１０００円ヘアカットサロン ナチュレ,パートナ,TOTO'S駒込,ポンテポルタ千住
+231,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,NEW AKAMON BLDG,日本食品分析センター,ラッキー浅草橋,湯浅
+232,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,Kyodo Corty,湯島台レジデンス,住宅,六本木 藤マンション
+233,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,日本電機株式会社,東京大学 駒場Ⅰキャンパス,HiCity笹塚,セントラル青山
+234,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,関ビル,MORNINGSIDE GINZA,ステラ本郷,板橋区立 富士見台小学校
+235,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,CROSS,早川ビル,ホテル・ムラサキ,神保町サンビルディング
+236,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,墨東変電所,アクアシテイお台場,親和ビル,中野スカイマンション
+237,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,上野東洋ビル,松菱ビル,世田谷区立 駒沢小学校,APA HOTEL
+238,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,秋葉原一棟ビル,ルミエール東十条,相原ハウス,共立女子大学
+239,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,EON BLDG.,ドーミー御茶ノ水,東京ドームシティ,日本橋郵便局
+240,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,お茶の水サンクレール,プレシャス赤塚,住吉ビル,志茂町公園
+241,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,第五政木ビル,千代田区立 九段中等教育学校,明治学院大学（法学部）,ゲストハウス東京中野店
+242,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,パラシオ文京,烏枢沙摩明王,クレール門前仲町,トミーハイツ
+243,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,ニックハイム初台第1,Miyajima BLD,東京スクエアガーデン,練馬区立春日町南地区区民館
+244,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,アウローラ三田,代官山KLAUS,都営若宮三丁目アパート,東京ガーデンテラス紀尾井町
+245,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,小田急サザンタワー,東京都立竹台高等学校,アペルト東中野ビル,墨田区立錦糸小学校
+246,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,セントラル東十条,荒川四ツ木橋緑地少年野球場E面,渋谷パルコ,Plaza 目黒駒場
+247,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,Yanagita Bldg.,三井のリパーク,関田ビル,明治神宮外苑
+248,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,アップルパーク,ヨネックス,ローレルハイツ,2k540 AKI-OKA ARTISAN
+249,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,Lions Hills Tabatafudozaka,シュガーハウス,ポルタ神楽坂,デニーズ
+250,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,御徒町らーめん横丁,半蔵門堀切ビル,目黒区立田道小学校,私立 淑徳中学校 淑徳高等学校
+251,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,ヴァンガードタワー,お肉の店 やまの,東京都立浅草高等学校,世界ビル
+252,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,メトロセンター4番街,林Aマンション,ベルク,グリーンベル
+253,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,経王寺,中野車両基地,ビーンズくるく,池之端すきやビル
+254,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,京王モールアネックス,渋谷アクシュ（SHIBUYA AXSH）,ビーンズてくて,FINE Parking
+255,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,まつばビル,Times,白山四丁目 児童遊園,オーク芝公園
+256,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,大木戸休憩所,若宮八幡神社,ニューホワイト Buil,パソナスクエア
+257,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,渋谷ストリーム,アーク入谷,早稲田武蔵野ビル,内神田金子ビル
+258,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,宝丹ビル,世界聖典普及協会,関東ITソフトウェア健保会館,ビクトリアプラザ高円寺
+259,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,NTSビル,JR恵比寿ビル,かみちParking,park station
+260,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,菅野アパート,あきばお〜,タカシマヤタイムズスクエア,NMF神田岩本町ビル
+261,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,WITH HARAJUKU,萩原ビル,ジョワレ松濤,日新電機株式会社
+262,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,フクヤビル,汐留SIO-SITE,メトロプラザ・３ビル,和合荘
+263,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,東京国際フランス学園,早宮さつき公園,虎屋ビル,宮前公園
+264,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,西尾久四丁目北公園 ボール遊び広場,六本木ヒルズ,アマーレ・しもきた,Loire御茶ノ水
+265,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,東西館ビル本館,eDC第２ビル,東京ミッドタウン,Oak Hostel Ikebukuro
+266,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,フェスタ本郷,文化学園大学,ヤマト運輸,国産タクシー
+267,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,アーバンステージ菊川,亀戸三丁目第3児童遊園,メイホウビル,森田ビル
+268,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,ラフィネお茶の水,Parking a voiture,TOKYO TORCH,横山ビル
+269,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,アサヒグループカルピス恵比寿ビル,目黒セントラルスクエア,グリーンヒルズ,CYCLE PLAZA
+270,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,クレール芝,河合ビル,本橋ビル,大野ビル
+271,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,ホテル・スティング,築地場外市場,パークネット,ザ・パークハウス新宿タワー
+272,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,シティハウス巣鴨,渋谷スクランブルスクエア,板橋区立 志村第四小学校,Fuglen
+273,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,橘湯,千代田区立 千代田小学校,おとなりスタンド＆ワークス,多慶屋 レディス館
+274,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,TOKIWA,向山わんぱく公園,aune池袋,ARK Tower South
+275,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,東京駅一番街,練馬区立旭町二丁目公園,カーサ第二新宿,東京国際情報ビジネス専門学校
+276,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,フルベジ 三軒茶屋村,成田山不動尊,R.Sビル,乙女ロード
+277,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,日本教育学 院光が丘教室,タイムズ,COREDO室町2 (室町古河三井ビルディング),ヤスフットサルスタジアム世田谷
+278,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,総生軒ビル,LUPINAS台東レジデンス,日本生命浜松町クレアタワー,アシュレ駒込
+279,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,子育地蔵尊,メゾンホマレ,株式会社 ナカ・コーポレーション,なぎさテラス
+280,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,Hi-ROOMS 新代田,ザ・パークハウス西麻布レジデンス,Shibuya Sakura Stage,高輪第一ハイツ
+281,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,國學院大學,Abema Towers,プラウド代官山,京急第１ビル
+282,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,シャスターマンション,ヒルサイドテラス C棟,東京港6号・10号・11号埋立地,高田製薬
+283,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,広尾神社,東京港7号埋立地,アムール佐々木,篠田ハイム
+284,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,ロイヤルパレス初台,東京港5号埋立地,東京駅M10出入口,安藤工務店
+285,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,東京港4号埋立地,半蔵門ウッドフィール,elements kitashinjuku EAST,御殿山ハイツ
+286,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,千川駅前パーク1,ワコーレ幡ヶ谷ビル,後閑ビル,東京港1号埋立地
+287,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,セリジェ神宮前,東京湾1号埋め立て地,都営練馬春日町四丁目アパート,牛込弁天公園
+288,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,常盤公園,東京湾1号埋め立て地,こうなん星の公園,花蝶ビル
+289,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,GM-3ビル,板橋区立東板橋図書館,ファミリーマート,東京港14号埋立地
+290,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,ベルエステート東十条,東京港9号埋立地,新宿フロントタワー,新宿区立 愛日小学校
+291,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,目黒区立五本木老人いこいの家,ゼンセン会館,前野ビル,潮見
+292,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,越中島,KISHI BLDG.,白寶ビル,ステージグランデ本郷
+293,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,KW Residence Kojimachi,北綾瀬パークスクエア,アオバダイゲストハウス2,東陽町グリーンハイツ
+294,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,堀荘,カルフール神田,小倉ビル,協和ビル
+295,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,日本郵政ビル,イムーブル希,京橋依田忠ビル,学術総合センター
+296,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,イシカワビル,東京逓信病院,BiTO AKIBA,東京電力パワーグリッド
+297,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,湯島太田ビル,KIPTO,フラワーハウス,品川駅港南商店街
+298,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,品川インターシティ,トキワ荘通り昭和レトロ館,カーサ赤塚,SCビル
+299,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,中之郷児童遊園,anパーク,品川グランドコモンズ,赤坂ビル
+300,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,シンボルプロムナード公園,ヤギビル,プロス西新橋ビル,ラヴィアンコート墨田業平
+301,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,実妙山法成寺,大谷田一丁目団地,Keiyo,東京法務局港出張所
+302,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,三井のリパーク 南青山5丁目第2,王子五丁目団地,タイムズ,国際交流センター
+303,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,ハイム白雲,芝浦運河緑地,代田吹上館,ホテル・ビーガール
+304,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,リリオ,ラフィネお茶の水,渋谷区立幡ヶ谷第四児童遊園地,天王洲水門
+305,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,南砂パブリックハイツ,ナビパーク,メイクスデザイン渋谷本町,ダイアパレス立石
+306,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,高柳ビル,YourELM Aoto,東京都立 桜町高等学校,三井のリパーク
+307,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,都営駒込二丁目アパート,ル・コート松濤,コンフォリア浅草橋,偕成ビル
+308,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,すし銀,虎ノ門ヒルズビジネスタワー,ホテル・エイチセブン,木下ビル
+309,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,はつね広場,玉野ビル,ホテル・ステラビアンカドュエ,新川地区地域熱供給事業営業地域
+310,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,吉原,La Collezione building,コーポ鳥越,SAN Park
+311,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,東京みなと丸のりば,パラガイ ハイツ,箱崎地区地域熱供給事業営業地域,公開空地
+312,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,がってん寿司,東京スカイツリー地区地域熱供給事業営業地域,フレッセ高輪,池本だんだん公園
+313,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,ステーキハウス 鉄板焼 巴,ニュー東和ビル,光が丘団地地区地域熱供給事業営業地域,特別養護老人ホーム 練馬高松園
+314,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,スカイコート高円寺5,篠原ビル,シャレー スイス ミニ,東急歌舞伎町タワー
+315,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,仲見世商店街,千住桜木町公園,HOUSE･K2,JP noie 恵比寿西
+316,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,五反野 桂の木プチテラス,コモレ四谷 YOTSUYA TOWER,山ノ手パレス,エコロジー落合レジデンスⅠ
+317,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,NPRビル上野御徒町,虎ノ門三須ビル,第2本間ビル,法政大学 市ヶ谷キャンパス
+318,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,Mullion,アイリス北綾瀬,赤坂インターシティAIR,イー・パートナーズ池袋駅前ビル
+319,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,ワルトハイム西麻布,SIN-City駒込,中野区立 第二中学校,WACCA池袋
+320,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,都営西新井本町四丁目アパート,駿河台ビル,藤和菊川ホームズ,高橋ビル
+321,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,田町タワー,早川ビル,杉山荘,ReAxesBldg.
+322,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,デジタルハリウッド大学 駿河台キャンパス,西五反田ビル1階,Hotel Little Bird,都築鋼産
+323,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,エコロパーク大塚第5,恩賜上野動物園,マーサヴィレッジプラザ,源長寺
+324,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,中野セントラルパーク,大行ビル,Brillia新宿中落合,日本生命保険相互会社
+325,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,西新宿三丁目西地区,長谷川工業(株),ブリリア文京江戸川橋,ラークハイツ
+326,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,三王ビル,三河島変電所,菊邑 91 ビル,道玄坂二丁目南地区第一種市街地再開発事業
+327,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,ブライズ下北沢,イーストビル,30,原宿パークマンション
+328,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,39,アップル,トラストリンク第Ⅲビル,平河町プラザ
+329,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,西麻布三丁目北東地区第一種市街地再開発事業,メトロセンター4番街,大観音寺,PMO
+330,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,虎ノ門一丁目東地区第一種市街地再開発事業,ネオ・スカイ,ベーカリーカヤシマ,東洋大学国際会館
+331,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,サテライト下北,奥平ビル,齋藤ビル,神田小川町三丁目西部南地区第一種市街地再開発事業
+332,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,源昌寺,藤和芝コープ,グランベネフィスSugamo,三井のリパーク
+333,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,三井のリパーク,Arrow Parking,放射第35号線 歩道整備工事,六本木五丁目西地区第一種市街地再開発事業
+334,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,タイムズ,ピュア・アジアン,稲荷鬼王神社,パーク駐車場
+335,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,メゾンエクレール,一色マンション,Daikanyama Plaza,グリーンビル
+336,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,西土橋ビル,Kojimachi Silk BLDG,イーグルセイコー,三井のリパーク
+337,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,AB赤坂ビル,東京ロイヤルプラザ,私立 京華女子中学校 高等学校,山下ビル
+338,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,竹芝客船ターミナル,Horiuchi,ホテル・パティオ,上中里駅前指定自転車置場A置場
+339,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,新川KHビル,東京都職員白金住宅跡地,ステーションガーデンタワー,ラ・トゥール神楽坂
+340,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,荒川区立 瑞光小学校,明治大学,上沼田第六公園,青葉六本木ビルディング
+341,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,興亜ビル,田村ビル,本郷ビル,グラントウキョウノースタワー
+342,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,ブーゲンビリア新宿,東京パークタワー,文京区立白山二丁目第二児童遊園,小嶋与商店
+343,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,新宿区立富久小学校,都立心身障害者センター,イモトビル,東京大学弥生キャンパス
+344,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,シースペース三ノ輪,東京大学本郷キャンパス,翔和秋葉原ビル,大喜ビル
+345,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,B,日本橋保育園,東京ソラマチ,日本橋井田ビル,GSハイム巣鴨
+346,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,早稲田大学早稲田キャンパス,GINZAナカヤBLDG,三井のリパーク,青山プラザビル
+347,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,東京都庁,ジャンス根岸,練馬区立 豊玉小学校,公園前三橋ビル
+348,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,代々木大山公園,台東区立東泉小学校,新宿中央公園,川松ビル
+349,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,馬事公苑,東京法務局城北出張所,隅田公園,渡辺ビル
+350,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,レオパレス サクラパークB,神宮前五丁目児童遊園地,東洋大学 白山キャンパス,ウノサワ東急ビル
+351,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,天賞堂,菅野ビル,中野駅北口商店街,三田大和屋ビル
+352,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,中野区東中野五丁目計画,COMFORIA 本駒込,立教大学,KM新宿ビル
+353,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,Nemunoki Park,TCG芝第２ビル,東京港14号埋立地,Popolare Kikukawa
+354,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,ルミネエスト新宿,エスカイア錦糸町プラザ,和田ビル,藤井ビル
+355,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,向原ゴルフセンター,芝三田ビル,DUO SCALA AKIHABARA,新宿ゴールデン街
+356,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,A,ツインタワーすみとし住吉館,大山ビル,昭和商事ビル,ルミネエスト新宿
+357,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,The SH one,放射第23号線　工事関係者駐車場,羽根木公園,広尾ガーデンヒルズA棟
+358,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,C,思い出ビル,ソフィア東松原,アルカキット錦糸町,第2川端ビル
+359,Which of the following AOIs (Area of Interest) is likely to contain the most different types of POIs?,D,小島町二丁目団地,Paraca,成増公園,錦糸町PARCO

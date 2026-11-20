@@ -1,0 +1,296 @@
+id,question,answer,A,B,C,D
+0,"In the Dubai area, which road cannot directly reach شارع الخليج?",B,شارع أبو هيل,مطار دبي الدولي,طريق أبو بكر الصديق,طريق المصلى
+1,"In the Dubai area, which road directly reaches شارع الستمي?",C,شارع 46,شارع المنامة,شارع الشناص,شارع حصة
+2,"In the Dubai area, which road cannot directly reach شارع 33?",A,شارع الرازي,شارع 20,شارع الشيخ راشد,شارع الشيخ خليفة بن زايد
+3,"In the Dubai area, which road cannot directly reach شارع الشيخ راشد?",D,شارع 20,شارع بني ياس,طريق الاتحاد,شارع الملتقى
+4,"In the Dubai area, which road cannot directly reach شارع الكويت?",D,شارع الميناء,شارع زعبيل,شارع الشيخ خليفة بن زايد,شارع 201
+5,"In the Dubai area, which road directly reaches 10c شارع?",D,طريق أم حرير,3 Street,شارع الكوتية,شارع الكويت
+6,"In the Dubai area, which road directly reaches شارع 41?",A,شارع البدع,شارع الخليج التجاري 2,91 Street,شارع الخليج
+7,"In the Dubai area, which road cannot directly reach شارع البدع?",B,شارع الانجاز,شارع قصر زعبيل,شارع 41,شارع الإبداع
+8,"In the Dubai area, which road directly reaches شارع 55?",D,شارع عدن,شارع المنامة,3 Street,شارع 65
+9,"In the Dubai area, which road directly reaches شارع 52?",C,شارع 19,شارع السيف,شارع الجافلية 1,شارع الاثار
+10,"In the Dubai area, which road cannot directly reach شارع الجافلية 1?",C,شارع الشيخ خليفة بن زايد,شارع 9,شارع الستمي,شارع 52
+11,"In the Dubai area, which road cannot directly reach طريق أبو بكر الصديق?",D,شارع الرشيد,شارع صلاح الدين,شارع البراحة,شارع الزمرد
+12,"In the Dubai area, which road cannot directly reach شارع الرقة?",A,شارع 63,شارع الجزيرة,طريق أبو بكر الصديق,شارع عمر بن الخطاب
+13,"In the Dubai area, which road cannot directly reach طريق أم هرير?",D,شارع زعبيل,27c شارع,9a شارع,شارع 47
+14,"In the Dubai area, which road directly reaches 9a شارع?",B,شارع السيداف 1,طريق أم هرير,شارع قماشة,شارع علي بن أبي طالب
+15,"In the Dubai area, which road directly reaches شارع 123?",A,شارع أم سقيم,أصيل بوليفارد,Kunooz 9 Street,شارع عمر بن الخطاب
+16,"In the Dubai area, which road cannot directly reach شارع حصة?",A,شارع السهل,شارع 123,شارع الملك سلمان بن عبدالعزيز آل سعود,شارع مدرسة نورد أنجليا الدولية
+17,"In the Dubai area, which road cannot directly reach شارع الشيخ خليفة بن زايد?",A,شارع النبط 1,شارع الكويت,شارع السيف,شارع 3
+18,"In the Dubai area, which road cannot directly reach شارع 20?",A,2b شارع,شارع 33,شارع الشيخ راشد,شارع السطوة
+19,"In the Dubai area, which road directly reaches 64 Street?",A,57 Street,12a شارع,شارع النعايت,برج خليفة
+20,"In the Dubai area, which road cannot directly reach 57 Street?",A,10c شارع,64 Street,52 Street,شارع 51
+21,"In the Dubai area, which road directly reaches 52 Street?",B,نشوان بوليفارد,57 Street,دوار السمك,شارع أم سقيم
+22,"In the Dubai area, which road directly reaches شارع 51?",A,57 Street,مطار دبي الدولي,شارع الشيخ خليفة بن زايد,دوار السطوه
+23,"In the Dubai area, which road directly reaches 67 Street?",B,شارع المرسى,65 Street,شارع 1أ,شارع السماك
+24,"In the Dubai area, which road cannot directly reach 65 Street?",B,شارع 63,شارع الرشيد,56 Street,شارع 66
+25,"In the Dubai area, which road cannot directly reach شارع 63?",A,بوليفارد حلاب,61 Street,شارع 61,65 Street
+26,"In the Dubai area, which road directly reaches شارع الشيخ زايد بن حمدان آل نهيان?",D,شارع 25,شارع المنارة,نشوان بوليفارد,شارع الفرسان
+27,"In the Dubai area, which road directly reaches شارع الفرسان?",C,شارع الميناء,شارع 46,شارع الشيخ زايد بن حمدان آل نهيان,Kunooz 10 Street
+28,"In the Dubai area, which road cannot directly reach شارع 2 ديسمبر?",B,دوار المركز التجاري العالمي,شارع السهل,شارع البدع,شارع الوصل
+29,"In the Dubai area, which road directly reaches شارع الجافلية 2?",B,شارع الراعبي 3,شارع 2 ديسمبر,شارع أم سقيم,27c شارع
+30,"In the Dubai area, which road cannot directly reach شارع زعبيل?",A,شارع الجزيرة,طريق خالد بن الوليد,شارع الكويت,27c شارع
+31,"In the Dubai area, which road directly reaches 27c شارع?",C,شارع 66,شارع البقارة,طريق أم هرير,شارع 82
+32,"In the Dubai area, which road cannot directly reach أصيل بوليفارد?",C,شارع دانا,شارع لولو,شارع 47,شارع جمانة
+33,"In the Dubai area, which road cannot directly reach شارع دانا?",D,بوليفارد حلاب,أدهم بوليفارد,نشوان بوليفارد,شارع الجافلية 2
+34,"In the Dubai area, which road cannot directly reach شارع قماشة?",A,شارع صلاح الدين,بانثيون بوليفارد,نشوان بوليفارد,مياس بوليفارد
+35,"In the Dubai area, which road cannot directly reach 3a شارع?",C,شارع لطيفة بنت حمدان,شارع الخيل الأول,Crescent Drive Street,شارع الزمرد
+36,"In the Dubai area, which road cannot directly reach شارع الواحة?",C,شارع الأصايل,شارع الخيل الأول,شارع المنامة,3a شارع
+37,"In the Dubai area, which road cannot directly reach شارع 24?",B,شارع 5,شارع مدرسة نورد أنجليا الدولية,شارع 15,شارع الميدان
+38,"In the Dubai area, which road directly reaches شارع الميدان?",A,شارع ند الشبا,شارع علي بن أبي طالب,3 Street,طريق أبو بكر الصديق
+39,"In the Dubai area, which road cannot directly reach شارع الميناء?",D,شارع الغبيبة,شارع الوصل,شارع 7,67 Street
+40,"In the Dubai area, which road cannot directly reach طريق الاتحاد?",B,شارع بني ياس,شارع 26,شارع الرياض,شارع الشيخ راشد
+41,"In the Dubai area, which road cannot directly reach شارع عود ميثاء?",B,شارع 12,شارع 52,شارع مستشفى لطيفة,شارع 10
+42,"In the Dubai area, which road cannot directly reach بوليفارد حلاب?",B,شارع قماشة,شارع 44,شارع لولو,شارع دانا
+43,"In the Dubai area, which road cannot directly reach شارع الشيخ محمد بن راشد?",B,شارع العلم,شارع جميرا,شارع المستقبل,شارع المركز المالي
+44,"In the Dubai area, which road directly reaches شارع المدينة القديمة?",B,شارع 52,شارع الشيخ محمد بن راشد,شارع 13,3 Street
+45,"In the Dubai area, which road cannot directly reach شارع المرابع?",A,2b شارع,شارع 26,شارع الخيل الأول,Al Qouz Central Street
+46,"In the Dubai area, which road directly reaches شارع 26?",A,شارع المرابع,Kunooz 10 Street,شارع 46,شارع علي بن أبي طالب
+47,"In the Dubai area, which road directly reaches شارع الزمرد?",D,طريق أم حرير,برج خليفة,3 Street,3a شارع
+48,"In the Dubai area, which road directly reaches Exit 3A?",A,شارع عود ميثاء,شارع الصفا,شارع 5,شارع البورصة
+49,"In the Dubai area, which road cannot directly reach شارع الغبيبة?",B,شارع النهضة (26),شارع البروج,شارع علي بن أبي طالب,شارع الخليج
+50,"In the Dubai area, which road cannot directly reach شارع المنامة?",A,شارع المنارة,شارع 14,شارع ند الحمر,شارع صَنْعَاء
+51,"In the Dubai area, which road directly reaches شارع عدن?",A,شارع المنامة,12a شارع,شارع الثويمة,جسر إنفينيتي
+52,"In the Dubai area, which road cannot directly reach شارع الواجهة البحرية?",A,64 Street,طريق المصلى,شارع الخليج,شارع بني ياس
+53,"In the Dubai area, which road cannot directly reach طريق المصلى?",A,بوليفارد حلاب,شارع البرج,شارع آل مكتوم,شارع الخليج
+54,"In the Dubai area, which road cannot directly reach شارع بني ياس?",D,شارع 17,شارع الخليج,طريق الاتحاد,شارع 16
+55,"In the Dubai area, which road cannot directly reach شارع الوحيدة?",C,طريق الاتحاد,شارع الرشيد,شارع المجلس,1b شارع
+56,"In the Dubai area, which road cannot directly reach شارع الرشيد?",A,شارع الفلك,شارع بغداد,شارع هور العنز,شارع أبو هيل
+57,"In the Dubai area, which road cannot directly reach شارع ند الحمر?",A,طريق خالد بن الوليد,شارع الرباط,شارع المنامة,شارع 23
+58,"In the Dubai area, which road directly reaches شارع حلب?",B,شارع نايف,طريق الدوحة,شارع عمان,شارع 66
+59,"In the Dubai area, which road cannot directly reach شارع دمشق?",B,شارع بغداد,شارع 22,شارع حلب,شارع القدس
+60,"In the Dubai area, which road cannot directly reach شارع الخيل الأول?",C,شارع النعايت,شارع عبدالله عمران تريم,41b شارع,شارع الطباع 2
+61,"In the Dubai area, which road cannot directly reach شارع عبدالله عمران تريم?",C,شارع الربيع,شارع النبط 1,شارع النور,شارع السماك
+62,"In the Dubai area, which road cannot directly reach شارع البروج?",A,شارع الكوتية,شارع المدار,شارع عبدالله عمران تريم,شارع الفلك
+63,"In the Dubai area, which road cannot directly reach شارع مراكش?",D,شارع 5,شارع 1,25c شارع,شارع 30
+64,"In the Dubai area, which road cannot directly reach جادة المهرجان?",B,Grand Avenue,شارع الكوتية,شارع مراكش,جادة البادية
+65,"In the Dubai area, which road cannot directly reach شارع المرقبات?",A,شارع آل مكتوم,108/1 الطريق,شارع الجزيرة,طريق أبو بكر الصديق
+66,"In the Dubai area, which road cannot directly reach 108/1 الطريق?",A,شارع 24,طريق أبو بكر الصديق,شارع المرقبات,طريق الاتحاد
+67,"In the Dubai area, which road cannot directly reach شارع أم الشيف?",C,شارع الوصل,شارع جميرا,27c شارع,شارع البوم
+68,"In the Dubai area, which road cannot directly reach شارع الوصل?",D,شارع الإبداع,شارع أم سقيم,شارع 2 ديسمبر,شارع 23
+69,"In the Dubai area, which road cannot directly reach شارع 8?",D,شارع النهدة,طريق الاتحاد,شارع 27,دوار السطوه
+70,"In the Dubai area, which road cannot directly reach شارع عمر بن الخطاب?",C,شارع الرقة,شارع الرشيد,شارع التابع,شارع نايف
+71,"In the Dubai area, which road cannot directly reach شارع نايف?",A,12a شارع,طريق المصلى,شارع السور,شارع عمر بن الخطاب
+72,"In the Dubai area, which road cannot directly reach شارع الرياض?",A,25c شارع,شارع 19,شارع 12,طريق الاتحاد
+73,"In the Dubai area, which road cannot directly reach شارع السطوة?",B,شارع 49,شارع الأبراج,شارع 20,شارع 41
+74,"In the Dubai area, which road cannot directly reach شارع الإبداع?",D,32c شارع,شارع السطوة,شارع البدع,شارع الشيخ خليفة بن زايد
+75,"In the Dubai area, which road cannot directly reach شارع الأصايل?",B,شارع السهول,شارع 30,شارع المرابع,شارع الينابيع
+76,"In the Dubai area, which road cannot directly reach شارع البرشاء 2?",D,شارع السيداف 1,شارع البرشاء 1,شارع الشيخ زايد,شارع العملات
+77,"In the Dubai area, which road directly reaches شارع المركز المالي?",C,شارع 201,شارع الميدان,شارع الشيخ محمد بن راشد,شارع الانجاز
+78,"In the Dubai area, which road directly reaches 92 Street?",B,شارع الوصل,شارع 82,شارع بيروت,Al Nethra Street
+79,"In the Dubai area, which road cannot directly reach شارع 39?",D,شارع 82,45 Street,52 Street,شارع لولو
+80,"In the Dubai area, which road cannot directly reach شارع 82?",C,شارع 61,91 Street,شارع السفينه,شارع 73
+81,"In the Dubai area, which road cannot directly reach شارع اليمامة?",B,شارع الشيخ محمد بن راشد,شارع الجداف,شارع الأصايل,طريق مراسي
+82,"In the Dubai area, which road cannot directly reach Grand Avenue?",B,جادة المهرجان,شارع 51,Gateway Avenue,Crescent Drive Street
+83,"In the Dubai area, which road cannot directly reach شارع 9?",A,شارع السيداف 1,شارع مراكش,شارع الشيخ صباح الأحمد الجابر الصباح,شارع الجافلية 1
+84,"In the Dubai area, which road cannot directly reach شارع عمان?",A,شارع السرايات,شارع النهدة,شارع بغداد,شارع 9
+85,"In the Dubai area, which road cannot directly reach شارع بغداد?",D,شارع الرشيد,شارع 10,شارع القاهرة,شارع المجلس
+86,"In the Dubai area, which road cannot directly reach شارع القدس?",C,شارع 16,مطار محطة 02 الطريق.,شارع النعايت,شارع بيروت
+87,"In the Dubai area, which road directly reaches شارع بيروت?",B,شارع السنيار,شارع النهدة,شارع أم الشيف,Exit 3A
+88,"In the Dubai area, which road cannot directly reach شارع البرشاء 1?",B,شارع 34,شارع 16,شارع البرشاء 2,شارع الشيخ زايد
+89,"In the Dubai area, which road directly reaches Gateway Avenue?",A,Grand Avenue,Kunooz 8 Street,35a شارع,13a شارع
+90,"In the Dubai area, which road directly reaches شارع الرازي?",B,شارع قماشة,Al Madina Al Tebbia Street,2a شارع,11b شارع
+91,"In the Dubai area, which road directly reaches Al Madina Al Tebbia Street?",D,شارع الأعمال,شارع 27,شارع الميدان,شارع الرازي
+92,"In the Dubai area, which road directly reaches شارع 46?",C,Al Worood 3 Street,معبر الخليج التجاري,شارع الوحيدة,شارع عدن
+93,"In the Dubai area, which road cannot directly reach 1b شارع?",C,شارع أبو هيل,شارع الوحيدة,شارع رأس الخور,شارع 46
+94,"In the Dubai area, which road cannot directly reach طريق خالد بن الوليد?",A,شارع رأس الخور,شارع الميناء,شارع السيف,شارع الغبيبة
+95,"In the Dubai area, which road cannot directly reach شارع الشيخ صباح الأحمد الجابر الصباح?",A,شارع البروج,شارع 9,دوار السطوه,شارع الكويت
+96,"In the Dubai area, which road cannot directly reach شارع النهدة?",B,شارع بيروت,شارع 39,شارع عمان,طريق الاتحاد
+97,"In the Dubai area, which road cannot directly reach ميار بوليفارد?",A,شارع حصة,شارع لولو,شارع جمانة,شارع قماشة
+98,"In the Dubai area, which road cannot directly reach شارع لولو?",B,بوليفارد حلاب,شارع النور,أصيل بوليفارد,كحيل بوليفارد
+99,"In the Dubai area, which road cannot directly reach نشوان بوليفارد?",B,شارع قماشة,10c شارع,شارع لولو,شارع جمانة
+100,"In the Dubai area, which road cannot directly reach طريق الدوحة?",D,شارع عمان,شارع حلب,شارع 25,27c شارع
+101,"In the Dubai area, which road cannot directly reach شارع أبو هيل?",B,شارع القدس,شارع الصكوك,طريق الاتحاد,شارع الرشيد
+102,"In the Dubai area, which road cannot directly reach شارع صلاح الدين?",D,دوار السمك,شارع الجزيرة,طريق أبو بكر الصديق,شارع 54
+103,"In the Dubai area, which road directly reaches جادة البادية?",A,جادة المهرجان,شارع الخميلة,شارع هور العنز,36 Street
+104,"In the Dubai area, which road cannot directly reach شارع آل مكتوم?",D,شارع 14,طريق الاتحاد,شارع عمر بن الخطاب,شارع الشيخ زايد بن حمدان آل نهيان
+105,"In the Dubai area, which road cannot directly reach شارع 19?",D,شارع عود ميثاء,شارع الرياض,شارع 10,شارع بغداد
+106,"In the Dubai area, which road cannot directly reach شارع المستقبل?",A,شارع الشيخ خليفة بن زايد,شارع الشيخ محمد بن راشد,شارع مركز التجارة,شارع برج خليفة
+107,"In the Dubai area, which road cannot directly reach شارع برج خليفة?",A,أدهم بوليفارد,شارع المستقبل,شارع العلم,شارع العهود
+108,"In the Dubai area, which road cannot directly reach شارع الخليج التجاري 1?",B,شارع المستقبل,Kunooz 10 Street,طريق مراسي,شارع الأعمال
+109,"In the Dubai area, which road cannot directly reach بانثيون بوليفارد?",D,شارع لولو,شارع جمانة,شارع قماشة,شارع 22
+110,"In the Dubai area, which road cannot directly reach شارع السيف?",B,شارع الشيخ خليفة بن زايد,شارع المحمل,طريق خالد بن الوليد,شارع الشيخ صباح الأحمد الجابر الصباح
+111,"In the Dubai area, which road directly reaches 39b شارع?",A,شارع الوصل,طريق مراسي,شارع المدينة القديمة,15a شارع
+112,"In the Dubai area, which road cannot directly reach شارع جميرا?",B,5b شارع,شارع 17,شارع الموج,77b شارع
+113,"In the Dubai area, which road cannot directly reach شارع المنارة?",A,شارع 22,شارع جميرا,شارع الوصل,شارع الخيل الأول
+114,"In the Dubai area, which road cannot directly reach شارع الأعمال?",A,شارع السهل,طريق مراسي,شارع الخليج التجاري 2,3 Street
+115,"In the Dubai area, which road directly reaches شارع الخليج التجاري 2?",A,شارع الأعمال,شارع القدس,65 Street,Al Quoz Central Street
+116,"In the Dubai area, which road cannot directly reach شارع مستشفى لطيفة?",A,شارع الغبيبة,شارع عود ميثاء,شارع الزهراوى,طريق الخيل
+117,"In the Dubai area, which road directly reaches شارع الزهراوى?",C,مطار محطة 02 الطريق.,شارع 20,شارع مستشفى لطيفة,شارع عمان
+118,"In the Dubai area, which road cannot directly reach شارع الفلك?",D,شارع النسيم,شارع البروج,شارع الخياي,شارع 14
+119,"In the Dubai area, which road cannot directly reach كحيل بوليفارد?",D,شارع لولو,شارع جمانة,شارع قماشة,33a شارع
+120,"In the Dubai area, which road cannot directly reach شارع العهود?",B,شارع اليمامة,62 Street,شارع برج خليفة,طريق مراسي
+121,"In the Dubai area, which road directly reaches شارع القاهرة?",B,طريق أم حرير,شارع الرشيد,شارع 16,شارع الانجاز
+122,"In the Dubai area, which road directly reaches شارع 3?",B,شارع 66,شارع الشيخ خليفة بن زايد,108/1 الطريق,شارع المدار
+123,"In the Dubai area, which road cannot directly reach شارع الثنية?",C,شارع البيتل,شارع الوصل,Ras Al Khor Road,شارع جميرا
+124,"In the Dubai area, which road directly reaches شارع المرسى?",D,شارع المستقبل,شارع 5,شارع البروج,شارع الملك سلمان بن عبدالعزيز آل سعود
+125,"In the Dubai area, which road cannot directly reach شارع الملك سلمان بن عبدالعزيز آل سعود?",A,شارع صَنْعَاء,شارع حصة,شارع المرسى,شارع النسيم
+126,"In the Dubai area, which road cannot directly reach شارع العلم?",D,طريق مراسي,شارع برج خليفة,شارع الشيخ محمد بن راشد,شارع الحرمل
+127,"In the Dubai area, which road cannot directly reach شارع قصر زعبيل?",C,شارع زعيبل,شارع المستقبل,شارع الفلك,شارع زعبيل
+128,"In the Dubai area, which road cannot directly reach شارع لطيفة بنت حمدان?",D,Al Quoz Central Street,شارع الخيل الأول,3a شارع,شارع حصة
+129,"In the Dubai area, which road cannot directly reach شارع الصفا?",C,شارع 20,شارع السطوة,شارع مستشفى المكتوم,شارع الوصل
+130,"In the Dubai area, which road cannot directly reach شارع 16?",D,مطار محطة 02 الطريق.,شارع القدس,شارع النهدة,شارع البراحة
+131,"In the Dubai area, which road directly reaches مطار محطة 02 الطريق.?",B,شارع الجافلية 1,شارع 16,جسر إنفينيتي,شارع النهضة (26)
+132,"In the Dubai area, which road cannot directly reach شارع السيداف 1?",A,شارع الأعمال,شارع الخيل الأول,شارع البرشاء 2,شارع السبط
+133,"In the Dubai area, which road directly reaches شارع الجمايل?",D,شارع 82,شارع العهود,شارع 17,شارع تقاطع الحدائق
+134,"In the Dubai area, which road directly reaches شارع تقاطع الحدائق?",A,شارع أبراج نخيل,شارع الرياض,3 Street,شارع الرقة
+135,"In the Dubai area, which road cannot directly reach شارع مستشفى المكتوم?",D,شارع آل مكتوم,طريق المصلى,دوار السمك,شارع 54
+136,"In the Dubai area, which road directly reaches طريق المطار?",D,شارع أم سقيم,شارع مركز التجارة,شارع الرشيد,شارع آل مكتوم
+137,"In the Dubai area, which road cannot directly reach شارع السهول?",A,42b Street,شارع الأصايل,شارع تلال الإمارات,مونتجوميري دريف
+138,"In the Dubai area, which road directly reaches مونتجوميري دريف?",B,Kunooz 9 Street,شارع تلال الإمارات,شارع الستمي,شارع الحرمل
+139,"In the Dubai area, which road cannot directly reach شارع تلال الإمارات?",C,شارع الربيع,شارع السهول,شارع الكوتية,مونتجوميري دريف
+140,"In the Dubai area, which road directly reaches شارع العروبة?",C,شارع 18,شارع الخور,شارع جميرا,شارع أم سقيم
+141,"In the Dubai area, which road directly reaches شارع البيتل?",C,شارع الستمي,56 Street,شارع المنارة,3 Street
+142,"In the Dubai area, which road cannot directly reach شارع 10?",B,شارع عود ميثاء,Kunooz 12 Street,شارع 19,شارع النهدة
+143,"In the Dubai area, which road cannot directly reach شارع البوم?",C,شارع السنيار,شارع أم الشيف,شارع العهود,شارع السفينه
+144,"In the Dubai area, which road directly reaches شارع المجلس?",C,شارع البقارة,طريق السبخة,دوار المركز التجاري العالمي,شارع المدار
+145,"In the Dubai area, which road cannot directly reach شارع 22?",B,شارع الجافلية 2,شارع بغداد,Ras Al Khor Road,شارع الجافلية 1
+146,"In the Dubai area, which road directly reaches شارع الراعبي 3?",D,6 Street,Kunooz 12 Street,شارع لولو,شارع الأصايل
+147,"In the Dubai area, which road directly reaches شارع البراحة?",C,شارع الوحيدة,شارع زعبيل,طريق أبو بكر الصديق,شارع 17
+148,"In the Dubai area, which road directly reaches شارع الجداف?",A,Al Jadaf Street,شارع النبط 2,شارع الخياي,61 Street
+149,"In the Dubai area, which road directly reaches Al Jadaf Street?",B,Al Worood 3 Street,شارع الجداف,شارع النسيم,شارع البروج
+150,"In the Dubai area, which road cannot directly reach شارع هور العنز?",A,شارع 3,شارع الحمرية,شارع الرشيد,12a شارع
+151,"In the Dubai area, which road cannot directly reach 12a شارع?",C,طريق أبو بكر الصديق,11b شارع,25c شارع,شارع 7
+152,"In the Dubai area, which road cannot directly reach شارع الشيخ زايد?",C,شارع مركز التجارة,جسر مركز التجارة,Palm Jumeirah Road,شارع البرشاء 2
+153,"In the Dubai area, which road cannot directly reach شارع 18?",B,طريق خالد بن الوليد,شارع 18,شارع الرباط,شارع 7
+154,"In the Dubai area, which road cannot directly reach 11b شارع?",B,12a شارع,شارع برج خليفة,شارع 18,شارع الشيخ خليفة بن زايد
+155,"In the Dubai area, which road cannot directly reach طريق مراسي?",C,شارع العهود,شارع العلم,شارع 41,شارع اليمامة
+156,"In the Dubai area, which road cannot directly reach شارع الخياي?",C,شارع الفلك,شارع النسيم,45 Street,شارع المرسى
+157,"In the Dubai area, which road cannot directly reach شارع الأفنان?",D,3 Street,شارع الأصايل,شارع الينابيع,شارع الثويمة
+158,"In the Dubai area, which road cannot directly reach شارع الينابيع?",D,شارع الأصايل,3 Street,شارع الأفنان,شارع الخميلة
+159,"In the Dubai area, which road cannot directly reach 3 Street?",B,شارع الأعمال,شارع 5,شارع الأفنان,شارع الينابيع
+160,"In the Dubai area, which road directly reaches شارع 47?",C,شارع أم الشيف,شارع 52,شارع ند الحمر,شارع الينابيع
+161,"In the Dubai area, which road cannot directly reach شارع 5?",B,شارع 28أ,شارع العلم,شارع مراكش,شارع 54
+162,"In the Dubai area, which road cannot directly reach دوار السطوه?",B,شارع الشيخ صباح الأحمد الجابر الصباح,شارع بغداد,شارع 2 ديسمبر,شارع السطوة
+163,"In the Dubai area, which road cannot directly reach Al Quoz Central Street?",B,شارع لطيفة بنت حمدان,شارع الدار البيضاء,Kunooz 12 Street,Kunooz 8 Street
+164,"In the Dubai area, which road directly reaches Kunooz 12 Street?",A,Al Quoz Central Street,52 Street,شارع الشيخ زايد,شارع الخليج التجاري 1
+165,"In the Dubai area, which road cannot directly reach شارع الفصول?",A,شارع الخور,شارع النبط 1,شارع النبط 2,شارع الطباع 2
+166,"In the Dubai area, which road directly reaches شارع الطباع 2?",A,شارع الفصول,شارع جمانة,Al Worood 3 Street,شارع البرج
+167,"In the Dubai area, which road directly reaches شارع النبط 1?",B,شارع مراكش,شارع الفصول,1b شارع,شارع الصرفه
+168,"In the Dubai area, which road directly reaches شارع النبط 2?",C,شارع الخيل الأول,طريق الاتحاد,شارع الفصول,نشوان بوليفارد
+169,"In the Dubai area, which road directly reaches شارع الحضيبة?",C,شارع السبط,شارع المحمل,شارع السطوة,شارع الحضيبة
+170,"In the Dubai area, which road directly reaches شارع أم عمارة?",B,شارع 44,شارع الوصل,بوليفارد حلاب,شارع 49
+171,"In the Dubai area, which road directly reaches 77b شارع?",D,شارع المنارة,طريق الاتحاد,ميار بوليفارد,شارع الوصل
+172,"In the Dubai area, which road cannot directly reach شارع السفينه?",C,شارع جميرا,شارع البوم,3 Street,شارع السنيار
+173,"In the Dubai area, which road cannot directly reach شارع السنيار?",D,شارع البوم,شارع السفينه,شارع البيلي,شارع جمانة
+174,"In the Dubai area, which road cannot directly reach شارع البيلي?",B,شارع السنيار,شارع الفرسان,شارع الكوتية,شارع البقارة
+175,"In the Dubai area, which road directly reaches شارع الكوتية?",D,77b شارع,شارع الملك سلمان بن عبدالعزيز آل سعود,شارع الخور,شارع البيلي
+176,"In the Dubai area, which road cannot directly reach شارع المحمل?",C,شارع جميرا,شارع السنيار,شارع السرايات,شارع البقارة
+177,"In the Dubai area, which road directly reaches شارع الثويمة?",D,شارع البورصة,108/1 الطريق,شارع المستقبل,شارع الخيل الأول
+178,"In the Dubai area, which road cannot directly reach شارع 7?",B,شارع الميناء,2a شارع,12a شارع,شارع 18
+179,"In the Dubai area, which road directly reaches شارع النعايت?",C,شارع عود ميثاء,شارع السماك,شارع الشيخ زايد,شارع 28أ
+180,"In the Dubai area, which road directly reaches شارع 73?",C,شارع الشيخ زايد,شارع المحمل,شارع 66,شارع الحرمل
+181,"In the Dubai area, which road cannot directly reach شارع 66?",C,62 Street,شارع 73,شارع البرشاء 2,65 Street
+182,"In the Dubai area, which road directly reaches Kunooz 8 Street?",C,شارع 13,شارع البورصة,Al Quoz Central Street,ميار بوليفارد
+183,"In the Dubai area, which road cannot directly reach شارع النسيم?",D,شارع الملك سلمان بن عبدالعزيز آل سعود,شارع الفلك,شارع الخياي,شارع الرازي
+184,"In the Dubai area, which road directly reaches شارع الحرمل?",A,شارع الأصايل,36 Street,شارع السيداف 1,Al Quoz Central Street
+185,"In the Dubai area, which road cannot directly reach شارع 54?",B,شارع 5,شارع الحمرية,شارع 2 ديسمبر,شارع 9
+186,"In the Dubai area, which road cannot directly reach 15a شارع?",A,شارع 5,شارع 14,شارع ند الحمر,6 Street
+187,"In the Dubai area, which road directly reaches 6 Street?",D,Al Worood 3 Street,شارع 7,شارع المستقبل,15a شارع
+188,"In the Dubai area, which road cannot directly reach شارع 14?",D,شارع آل مكتوم,15a شارع,شارع المنامة,شارع النهضة (26)
+189,"In the Dubai area, which road directly reaches شارع علي بن أبي طالب?",B,شارع حصة,شارع الغبيبة,شارع السهل,شارع الزمرد
+190,"In the Dubai area, which road cannot directly reach شارع النهضة (26)?",D,شارع الخليج,شارع علي بن أبي طالب,شارع الغبيبة,شارع السنيار
+191,"In the Dubai area, which road cannot directly reach شارع الجزيرة?",D,شارع صلاح الدين,شارع المرقبات,شارع الرقة,شارع الصكوك
+192,"In the Dubai area, which road directly reaches طريق صلاح الدين?",B,شارع صَنْعَاء,شارع أبو هيل,42b Street,طريق الخيل
+193,"In the Dubai area, which road directly reaches شارع 12?",B,39b شارع,شارع الرياض,شارع 16,دوار السمك
+194,"In the Dubai area, which road directly reaches شارع 15?",C,شارع جميرا,شارع عود ميثاء,شارع 24,شارع المنارة
+195,"In the Dubai area, which road directly reaches شارع الاثار?",A,شارع الوصل,3 Street,شارع الشناص,شارع عمر بن الخطاب
+196,"In the Dubai area, which road cannot directly reach شارع البقارة?",B,شارع البيلي,شارع الموج,شارع المحمل,شارع الاثار
+197,"In the Dubai area, which road directly reaches شارع مركز التجارة?",C,شارع الصفا,15a شارع,شارع الشيخ زايد,شارع 1
+198,"In the Dubai area, which road cannot directly reach شارع أم سقيم?",B,شارع عبدالله عمران تريم,شارع 14,شارع الوصل,Dubai Science Park Street
+199,"In the Dubai area, which road directly reaches شارع الموج?",C,شارع المرقبات,شارع جزر جميرا 1,شارع جميرا,شارع الرازي
+200,"In the Dubai area, which road directly reaches 2a شارع?",B,أدهم بوليفارد,شارع جميرا,شارع الأصايل,12a شارع
+201,"In the Dubai area, which road directly reaches شارع الانجاز?",C,شارع الوصل,شارع الستمي,شارع البدع,شارع 61
+202,"In the Dubai area, which road directly reaches شارع الملتقى?",D,شارع هور العنز,شارع 73,شارع المدينة القديمة,شارع الانجاز
+203,"In the Dubai area, which road directly reaches شارع 13?",B,شارع النعايت,شارع ند الحمر,شارع الإبداع,Al Madina Al Tebbia Street
+204,"In the Dubai area, which road directly reaches Kunooz 4 Street?",A,Al Qouz Central Street,Al Worood 3 Street,شارع جمانة,شارع أم سقيم
+205,"In the Dubai area, which road cannot directly reach Al Qouz Central Street?",C,Kunooz 4 Street,شارع المرابع,شارع البراحة,Kunooz 2 Street
+206,"In the Dubai area, which road directly reaches Kunooz 2 Street?",C,شارع 30,شارع السنيار,Al Qouz Central Street,شارع لطيفة بنت حمدان
+207,"In the Dubai area, which road directly reaches شارع أبراج نخيل?",D,شارع أبو هيل,شارع الشيخ محمد بن راشد,شارع الأفنان,شارع تقاطع الحدائق
+208,"In the Dubai area, which road directly reaches شارع البورصة?",B,شارع الرازي,شارع الصكوك,طريق أم هرير,شارع الملتقى
+209,"In the Dubai area, which road directly reaches شارع صَنْعَاء?",C,شارع حلب,شارع 15,شارع المنامة,62 Street
+210,"In the Dubai area, which road cannot directly reach طريق السبخة?",B,شارع الخور,شارع النعايت,شارع 18,شارع بني ياس
+211,"In the Dubai area, which road cannot directly reach شارع السماك?",B,شارع عبدالله عمران تريم,نشوان بوليفارد,Al Nethra Street,شارع النور
+212,"In the Dubai area, which road directly reaches Al Nethra Street?",B,شارع الرازي,شارع السماك,Al Nethra Street,شارع الوصل
+213,"In the Dubai area, which road directly reaches Ras Al Khor Road?",C,شارع 15,شارع نايف,36 Street,شارع الموج
+214,"In the Dubai area, which road directly reaches Kunooz 9 Street?",D,شارع البرج,شارع الوحيدة,شارع أم سقيم,Kunooz 10 Street
+215,"In the Dubai area, which road directly reaches شارع النور?",C,شارع الرشيد,شارع الجمايل,شارع الصرفه,شارع 30
+216,"In the Dubai area, which road directly reaches شارع 28أ?",D,شارع 65,شارع 201,2b شارع,شارع 5
+217,"In the Dubai area, which road directly reaches شارع 40?",A,شارع 5,شارع الجزيرة,شارع الخياي,شارع الراعبي 3
+218,"In the Dubai area, which road directly reaches شارع البرج?",D,شارع 51,شارع 25,جادة المهرجان,طريق المصلى
+219,"In the Dubai area, which road directly reaches 5b شارع?",B,طريق أم هرير,شارع جميرا,شارع الربيع,11b شارع
+220,"In the Dubai area, which road directly reaches شارع 65?",D,Palm Jumeirah Road,شارع 123,شارع المدينة القديمة,شارع 55
+221,"In the Dubai area, which road directly reaches 35a شارع?",B,شارع رأس الخور,شارع الشيخ صباح الأحمد الجابر الصباح,شارع البوم,شارع 18
+222,"In the Dubai area, which road directly reaches شارع ند الشبا?",C,Kunooz 2 Street,Al Worood 3 Street,شارع لطيفة بنت حمدان,شارع الخليج التجاري 2
+223,"In the Dubai area, which road directly reaches شارع المدار?",B,شارع 14,شارع البروج,طريق المصلى,طريق أبو بكر الصديق
+224,"In the Dubai area, which road directly reaches شارع 2?",B,32c شارع,شارع الدار البيضاء,شارع عمر بن الخطاب,شارع لولو
+225,"In the Dubai area, which road directly reaches شارع الدار البيضاء?",A,شارع 2,شارع المرقبات,شارع البورصة,شارع 201
+226,"In the Dubai area, which road directly reaches شارع الصكوك?",A,شارع البورصة,شارع الأصايل,67 Street,شارع 33
+227,"In the Dubai area, which road directly reaches شارع 44?",B,Al Nethra Street,شارع 201,شارع 2 ديسمبر,شارع 25
+228,"In the Dubai area, which road cannot directly reach شارع 201?",D,شارع 38,شارع 44,شارع ند الحمر,شارع 20
+229,"In the Dubai area, which road directly reaches شارع الربيع?",A,شارع تلال الإمارات,جادة البادية,شارع الجافلية 2,شارع عمان
+230,"In the Dubai area, which road directly reaches شارع جزر جميرا 1?",B,شارع السفينه,Al Worood 3 Street,شارع 19,49c شارع
+231,"In the Dubai area, which road directly reaches Al Worood 3 Street?",C,شارع 73,شارع الميناء,شارع جزر جميرا 1,شارع الجزيرة
+232,"In the Dubai area, which road directly reaches شارع 23?",A,شارع ند الحمر,مونتجوميري دريف,شارع اليمامة,شارع الحضيبة
+233,"In the Dubai area, which road directly reaches 45 Street?",D,شارع المدار,جسر مركز التجارة,شارع البورصة,شارع 39
+234,"In the Dubai area, which road directly reaches شارع 61?",B,42b Street,شارع 63,شارع المرقبات,شارع حلب
+235,"In the Dubai area, which road directly reaches برج خليفة?",C,64 Street,شارع حلب,شارع العهود,شارع الشيخ زايد بن حمدان آل نهيان
+236,"In the Dubai area, which road directly reaches شارع الأبراج?",D,شارع عدن,طريق الدوحة,41b شارع,طريق مراسي
+237,"In the Dubai area, which road directly reaches شارع الصرفه?",C,شارع 18,شارع الجافلية 1,شارع النور,شارع الثنية
+238,"In the Dubai area, which road cannot directly reach مياس بوليفارد?",D,شارع جمانة,شارع لولو,شارع دانا,شارع 2 ديسمبر
+239,"In the Dubai area, which road directly reaches 25c شارع?",A,شارع مراكش,36 Street,شارع الجزيرة,42b Street
+240,"In the Dubai area, which road directly reaches شارع التابع?",D,77b شارع,شارع الملتقى,شارع المستقبل,شارع عبدالله عمران تريم
+241,"In the Dubai area, which road directly reaches 36 Street?",A,Ras Al Khor Road,56 Street,Kunooz 8 Street,طريق أم حرير
+242,"In the Dubai area, which road directly reaches شارع زعيبل?",A,شارع قصر زعبيل,27c شارع,شارع برج خليفة,شارع الصكوك
+243,"In the Dubai area, which road directly reaches 13a شارع?",C,شارع المرابع,57 Street,شارع الرشيد,Kunooz 4 Street
+244,"In the Dubai area, which road cannot directly reach Crescent Drive Street?",B,معبر الخليج التجاري,5b شارع,جادة البادية,Grand Avenue
+245,"In the Dubai area, which road cannot directly reach أدهم بوليفارد?",B,شارع دانا,شارع ند الحمر,شارع لولو,شارع قماشة
+246,"In the Dubai area, which road directly reaches شارع 17?",B,شارع الرقة,شارع آل مكتوم,شارع الملك سلمان بن عبدالعزيز آل سعود,طريق الدوحة
+247,"In the Dubai area, which road directly reaches شارع 1أ?",B,شارع السماك,شارع أبراج نخيل,شارع الاثار,شارع بيروت
+248,"In the Dubai area, which road directly reaches شارع 49?",C,شارع تقاطع الحدائق,13a شارع,شارع السطوة,شارع 46
+249,"In the Dubai area, which road directly reaches شارع 1?",A,شارع 40,شارع البرشاء 1,شارع الخليج التجاري 2,شارع 19
+250,"In the Dubai area, which road directly reaches شارع 38?",D,6 Street,شارع الفرسان,شارع النور,شارع 201
+251,"In the Dubai area, which road directly reaches شارع المطينة?",D,شارع تقاطع الحدائق,شارع القدس,شارع قماشة,شارع عمر بن الخطاب
+252,"In the Dubai area, which road directly reaches شارع الشناص?",A,شارع الستمي,شارع 44,شارع الزهراوى,طريق السبخة
+253,"In the Dubai area, which road cannot directly reach دوار المركز التجاري العالمي?",B,شارع الشيخ خليفة بن زايد,شارع الجداف,شارع 2 ديسمبر,شارع قصر زعبيل
+254,"In the Dubai area, which road directly reaches جسر إنفينيتي?",C,شارع عمان,شارع جمانة,شارع الخليج,شارع البدع
+255,"In the Dubai area, which road directly reaches طريق أم حرير?",C,49c شارع,شارع 61,طريق أبو بكر الصديق,شارع برج خليفة
+256,"In the Dubai area, which road cannot directly reach دوار السمك?",A,شارع الفرسان,شارع صلاح الدين,شارع مستشفى المكتوم,شارع عمر بن الخطاب
+257,"In the Dubai area, which road directly reaches 32c شارع?",A,شارع الإبداع,2b شارع,مطار محطة 02 الطريق.,شارع السطوة
+258,"In the Dubai area, which road directly reaches شارع الرباط?",A,شارع ند الحمر,شارع النعايت,شارع 26,36 Street
+259,"In the Dubai area, which road directly reaches مطار دبي الدولي?",B,شارع 22,مطار دبي الدولي القادمون,Al Madina Al Tebbia Street,Al Quoz Central Street
+260,"In the Dubai area, which road directly reaches مطار دبي الدولي القادمون?",A,مطار دبي الدولي,12a شارع,شارع القاهرة,شارع المستقبل
+261,"In the Dubai area, which road directly reaches 42b Street?",C,35a شارع,شارع رأس الخور,شارع الحرمل,شارع الستمي
+262,"In the Dubai area, which road directly reaches شارع 27?",C,شارع الغبيبة,شارع 34,شارع 8,64 Street
+263,"In the Dubai area, which road directly reaches معبر الخليج التجاري?",D,أصيل بوليفارد,Al Jadaf Street,شارع 25,Crescent Drive Street
+264,"In the Dubai area, which road directly reaches شارع 30?",B,شارع المجلس,41b شارع,شارع 24,شارع 66
+265,"In the Dubai area, which road directly reaches 49c شارع?",D,شارع 82,شارع 52,شارع الشناص,شارع 30
+266,"In the Dubai area, which road directly reaches شارع رأس الخور?",B,9a شارع,طريق الخيل,جسر إنفينيتي,شارع 46
+267,"In the Dubai area, which road cannot directly reach طريق الخيل?",B,شارع مستشفى لطيفة,شارع 8,شارع الأوركيد,شارع رأس الخور
+268,"In the Dubai area, which road directly reaches Shoreline Street?",B,شارع الطباع 2,Palm Jumeirah Road,جسر مركز التجارة,Al Jadaf Street
+269,"In the Dubai area, which road directly reaches Palm Jumeirah Road?",C,شارع 8,شارع عمر بن الخطاب,Shoreline Street,شارع 33
+270,"In the Dubai area, which road directly reaches شارع مدرسة نورد أنجليا الدولية?",B,108/1 الطريق,شارع حصة,شارع الدار البيضاء,65 Street
+271,"In the Dubai area, which road directly reaches شارع العملات?",C,شارع 17,ميار بوليفارد,شارع الشيخ محمد بن راشد,شارع الشيخ صباح الأحمد الجابر الصباح
+272,"In the Dubai area, which road directly reaches 91 Street?",A,شارع 82,شارع صَنْعَاء,مطار دبي الدولي القادمون,شارع 49
+273,"In the Dubai area, which road directly reaches 61 Street?",D,جادة المهرجان,شارع الشناص,شارع 46,شارع 63
+274,"In the Dubai area, which road directly reaches 62 Street?",D,شارع الشيخ زايد,شارع الكوتية,1b شارع,شارع 66
+275,"In the Dubai area, which road directly reaches 56 Street?",B,شارع الخميلة,65 Street,شارع 1,بانثيون بوليفارد
+276,"In the Dubai area, which road directly reaches شارع السور?",D,شارع المركز المالي,شارع النور,مطار دبي الدولي القادمون,شارع الخور
+277,"In the Dubai area, which road cannot directly reach شارع الخور?",D,طريق السبخة,شارع الخليج,شارع السور,شارع نايف
+278,"In the Dubai area, which road directly reaches شارع السهل?",C,33a شارع,شارع 2 ديسمبر,شارع الخيل الأول,شارع 44
+279,"In the Dubai area, which road directly reaches شارع السرايات?",D,شارع الجافلية 1,شارع 201,شارع 2,شارع الخيل الأول
+280,"In the Dubai area, which road directly reaches 33a شارع?",B,Kunooz 10 Street,شارع ند الحمر,45 Street,شارع الموج
+281,"In the Dubai area, which road directly reaches شارع السبط?",B,شارع 15,شارع السيداف 1,طريق المصلى,6 Street
+282,"In the Dubai area, which road directly reaches شارع 34?",C,طريق الاتحاد,أصيل بوليفارد,شارع البرشاء 1,شارع 27
+283,"In the Dubai area, which road directly reaches شارع 25?",D,شارع البوم,شارع 123,شارع الصرفه,طريق الدوحة
+284,"In the Dubai area, which road cannot directly reach شارع جمانة?",D,أصيل بوليفارد,ميار بوليفارد,بانثيون بوليفارد,شارع مستشفى المكتوم
+285,"In the Dubai area, which road directly reaches 41b شارع?",C,شارع أم الشيف,شارع الواحة,شارع 30,شارع الميناء
+286,"In the Dubai area, which road directly reaches شارع الخميلة?",A,شارع الخيل الأول,طريق أم هرير,2a شارع,شارع الاثار
+287,"In the Dubai area, which road directly reaches شارع الأوركيد?",C,33a شارع,شارع 5,طريق الخيل,شارع لولو
+288,"In the Dubai area, which road directly reaches شارع الحديقة?",A,شارع الوصل,شارع تلال الإمارات,12a شارع,معبر الخليج التجاري
+289,"In the Dubai area, which road directly reaches شارع JBR?",A,شارع الملك سلمان بن عبدالعزيز آل سعود,شارع البيلي,شارع عدن,شارع 27
+290,"In the Dubai area, which road directly reaches Kunooz 10 Street?",D,شارع البرشاء 1,كحيل بوليفارد,شارع الشيخ زايد,Kunooz 9 Street
+291,"In the Dubai area, which road directly reaches جسر مركز التجارة?",D,شارع جزر جميرا 1,Shoreline Street,شارع صَنْعَاء,شارع المستقبل
+292,"In the Dubai area, which road directly reaches Dubai Science Park Street?",B,شارع علي بن أبي طالب,شارع أم سقيم,شارع النهضة (26),شارع المركز المالي
+293,"In the Dubai area, which road directly reaches شارع الحمرية?",B,طريق السبخة,شارع هور العنز,شارع 14,شارع صلاح الدين
+294,"In the Dubai area, which road directly reaches 2b شارع?",D,شارع صلاح الدين,شارع زعبيل,شارع 12,شارع الوصل

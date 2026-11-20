@@ -1,0 +1,91 @@
+id,question,answer,A,B,C,D,E
+0,"Which type do following POIs belong to? POIs: General Fueller, Лукойл, ТиСа, Роснефть",C,glaziery,bus_station,fuel,retail,parking_entrance
+1,"Which type do following POIs belong to? POIs: Московский театр кукол. Камерная сцена, Театр Луны, Арлекин, Русская песня",A,theatre,veterinary_pharmacy,auction_house,business_incubator,shelter
+2,"Which type do following POIs belong to? POIs: Храм святого мученика Порфирия Ефесского, Московский центр Дзэн, 2-я баптистская церковь, Гурудвара",C,bowling_alley,boat_rental,place_of_worship,glaziery,datacenter
+3,"Which type do following POIs belong to? POIs: WakeCup Coffee, О ле, Stars Coffee, CoffeeShots",C,bank,veterinary_pharmacy,cafe,hookah_lounge,music_school
+4,"Which type do following POIs belong to? POIs: Отдел внутренних дел района Даниловский, Участковый пункт полиции № 1, Участковый пункт полиции № 6, Участковый пункт полиции № 22, ОВД ""Люблино""",E,payment_terminal,post_office,dentist,townhall,police
+5,"Which type do following POIs belong to? POIs: СДЭК, Москва 125315, СДЭК, СДЭК",D,marina,clinic,dancing_school,post_office,bowling_alley
+6,"Which type do following POIs belong to? POIs: Марьино, Причал №10, Причал №7, Кленовый бульвар",C,shelter,school,ferry_terminal,roof,playground
+7,"Which type do following POIs belong to? POIs: KFC, Суши-Маркет, Крошка Картошка, Шаурмен",E,pitch,water_park,doctors,studio,fast_food
+8,"Which type do following POIs belong to? POIs: Фуда, Селёдочная, Усадьба, FireLake",B,toilets,restaurant,glaziery,pub,bicycle_repair_station
+9,"Which type do following POIs belong to? POIs: We Cidreria, Ciderella, Уе!бар, Слёзы Берёзы",A,bar,office,training,pub,biergarten
+10,"Which type do following POIs belong to? POIs: Международный акционерный банк, Сбербанк, Сбербанк, ВТБ",C,trampoline_park,bar,bank,dance,nightclub
+11,"Which type do following POIs belong to? POIs: 36,6, Горздрав, Столички, 36,6",A,pharmacy,hookah_lounge,bar,love_hotel,toilets
+12,"Which type do following POIs belong to? POIs: Комитет, Paulaner Brauhaus, Pauwel Kwak, Rolling Barrels",E,studio,kids_area,disc_golf_course,internet_cafe,pub
+13,"Which type do following POIs belong to? POIs: Швейцарская университетская клиника, С-Профи, Клиника на Цветном, Центр остеопатии и гирудотерапии",A,clinic,warehouse,photo_lab,trade_school,dentist
+14,"Which type do following POIs belong to? POIs: Молочно-раздаточный пункт, Молочная кухня, Территориальный центр социального обслуживания «Беговой», филиал «Сокол», Савеловский центр социального обслуживания",A,social_facility,payment_centre,trade_school,car_rental,clinic;doctors
+15,"Which type do following POIs belong to? POIs: Reboot, FitMyBody, X-Fit, World Class",B,social_facility,fitness_centre,laboratory,photo_booth,recycling
+16,"Which type do following POIs belong to? POIs: Автобаня, Аквасити, Tks Amk, Топ-мойка",D,kindergarten,summer_camp,disc_golf_course,car_wash,restaurant
+17,"Which type do following POIs belong to? POIs: Синема Стар, Синема Парк Starlight, Синема Стар, Мир искусства",E,trade_school,escape_game,parking,auction_house,cinema
+18,"Which type do following POIs belong to? POIs: Библиотека им. В.Я. Вульфа, Библиотечно-информационный комплекс, Окружная педагогическая библиотека ЮЗОУО ДО, Библиотека им. Есенина",A,library,veterinary,language_school,bicycle_rental,ferry_terminal
+19,"Which type do following POIs belong to? POIs: Башмет центр, Рисуй, Культурно-выставочный центр ""Гранатный Двор"", Музейно-выставочный центр «Тушино»",C,exhibition_centre,courthouse,arts_centre,hookah_lounge,payment_centre
+20,"Which type do following POIs belong to? POIs: Клинический госпиталь на Яузе, ФГБУ ГНЦ Институт иммунологии, ФГБУ «НМИЦ эндокринологии» Минздрава России (ЭНЦ), ФГБНУ «МГНЦ им. Н.П. Бочкова»",D,official,stripclub,car_wash,hospital,public_service
+21,"Which type do following POIs belong to? POIs: The Dent, Реавиз, НН-Дент, Мой Зубной",E,bowling_alley,marina,dance,music_school,dentist
+22,"Which type do following POIs belong to? POIs: Семейная, KDL, Ситилаб, Центр восстановительной медицины",C,car_wash,stripclub,doctors,exhibition_centre,events_venue
+23,"Which type do following POIs belong to? POIs: Бурлеск, Эгоист Голд, Angels, The Perch",E,dojo,stadium,library,auction_house,stripclub
+24,"Which type do following POIs belong to? POIs: Почта России, 117437, 117632, Ящик РФФИ",B,boat_rental,post_box,stadium,social_facility,marina
+25,"Which type do following POIs belong to? POIs: Детский спортивный клуб Racketball, Bright family, Bigwall Sport, Спарта",B,retail,sports_centre,marketplace,toilets,hospital
+26,"Which type do following POIs belong to? POIs: Свято-Дмитриевское училище сестер милосердия, ФАУ «РосКапСтрой», Новые знания, Московский центр развития кадрового потенциала образования",A,college,ice_rink,roof,industrial,sell
+27,"Which type do following POIs belong to? POIs: Алтай, Банно-оздоровительный комплекс FamilyFitnes, Валентин, Сандуны - Номерные бани",C,library,kiosk,sauna,tanning_salon,fitness_centre
+28,"Which type do following POIs belong to? POIs: Ветеринарный центр Вет, Зайцев+, Зоомедик, ВетДом",C,waste_disposal,public_service,veterinary,official,bureau_de_change
+29,"Which type do following POIs belong to? POIs: Мама, я плыву, Мама, я плыву, Fiji Kids, Manta Club",D,bicycle_parking,auction_house,marina,swimming_pool,language_school
+30,"Which type do following POIs belong to? POIs: ГБОУ ""Школа № 1251 имени генерала Шарля де Голля"", Центр Родник, Хэппи Нэппи, Детский сад № 1284",D,bandstand,shelter,fire_station,kindergarten,dojo
+31,"Which type do following POIs belong to? POIs: АгроНИИПроект, Институт Теоретической и Экспериментальной Физики, ЦНИИчермет им. И.П.Бардина, Институт географии РАН",A,research_institute,office,office,brothel,pub
+32,"Which type do following POIs belong to? POIs: Центр раннего плавания «Поколение», Кампус Нетологии, Эра Инженеров, Fire Ballet Dance Studio",E,research_institute,animal_boarding,vehicle_inspection,ice_rink,training
+33,"Which type do following POIs belong to? POIs: Музыкальная школа №19 им. Н. П. Ракова, Виртуозы, Музыкальная школа № 4, Music Story",E,kids_area,kick-scooter_rental,auction_house,library,music_school
+34,"Which type do following POIs belong to? POIs: Лицей ""Москвич"", Новая гуманитарная школа, Перспектива, Академическая Гимназия",E,glaziery,coworking_space,internet_cafe,fixme,school
+35,"Which type do following POIs belong to? POIs: Ветеринарная аптека, Четыре лапы, Ветеринарная аптека, Дежурная ветеринарная аптека",D,pharmacy,training,club,veterinary_pharmacy,bar
+36,"Which type do following POIs belong to? POIs: Московский художественно-промышленный институт, Московский финансово-юридический университет МФЮА, Православный Свято-Тихоновский гуманитарный университет, НИИ Молекулярной медицины",E,fountain,coworking_space,laboratory,kiosk,university
+37,"Which type do following POIs belong to? POIs: ГСК № 6, Автостоянка №48, Парковка №27, ГСК-34",E,escape_game,karaoke_box,police,industrial,parking
+38,"Which type do following POIs belong to? POIs: Отряд по тушению пожаров на водных объектах, Пожарный поезд ст. Москва-товарная Киевская, 88 пожарно-спасательная часть, Пожарный поезд ст. Москва-товарная Смоленская",A,fire_station,social_centre,outpost,clinic,brothel
+39,"Which type do following POIs belong to? POIs: Принцесса Турандот, Богиня ночи, Базельский фонтан, Женщина под куполом",B,love_hotel,fountain,disc_golf_course,bureau_de_change,police
+40,"Which type do following POIs belong to? POIs: Автоунивер, Смотри вперед, Стрела, Автоунивер",A,driving_school,training,fitness_centre,stadium,sell
+41,"Which type do following POIs belong to? POIs: Общество инвалидов РЭУ-52 района Cокольники, Married and happy, Главное Управление Пенсионного Фонда Российской Федерации №7, Отдел социальной защиты населения района Преображенское",D,office,dog_park,charging_station,social_centre,biergarten
+42,"Which type do following POIs belong to? POIs: Eat Market, Гастромаркет на Маросейке, Центральный рынок, Понаели",D,public_service,sell,hookah_lounge,food_court,yacht_club
+43,"Which type do following POIs belong to? POIs: Мелодия, ЗАПИСАТЬ-ПЕСНЮ.РФ, Racks On, Первое кино",B,courthouse,studio,amusement_arcade,payment_terminal,outpost
+44,"Which type do following POIs belong to? POIs: Мишель, Подушкин, Подушкин, Подушкин",C,ice_cream,pub,love_hotel,fishing,insurance
+45,"Which type do following POIs belong to? POIs: Рынок выходного дня, Экомаркет, Ярмарка выходного дня, Все сезоны",B,bunker,marketplace,outpost,parking,karaoke_box
+46,"Which type do following POIs belong to? POIs: GPStudio, Dance Studio by World Class, Центр эстетического воспитания детей ЦАО, Gold & Dance",B,charging_station,dance,social_centre,bar,prep_school
+47,"Which type do following POIs belong to? POIs: Центр детского творчества ""Замоскворечье"", Клуб ""Феникс"", Только сами, Молодежный инженерный центр",D,kiosk,place_of_worship,bar,community_centre,feeding_place
+48,"Which type do following POIs belong to? POIs: Мировые Судьи, Мировые судьи Тверского района. Судебный участок №369, Мировой судья, судебный участок №396, Мировые судьи района Братеево. Судебный участок №37",A,courthouse,photo_lab,fire_station,trampoline_park,payment_terminal
+49,"Which type do following POIs belong to? POIs: Совет депутатов муниципального округа Южное Тушино, Префектура ЦАО, Муниципалитет муниципального округа Проспект Вернадского, Управа района ""Рязанский""",C,childcare,clinic;doctors,townhall,doctors,shelter
+50,"Which type do following POIs belong to? POIs: 3-я Сокольническая улица, Экваториальные солнечные часы, Аналемматические солнечные часы, Кремлёвские куранты",B,place_of_worship,clock,industrial,supplementary_education,brothel
+51,"Which type do following POIs belong to? POIs: Боулинг, Би Ба Бо, Космик, Планета Боулинг",B,nightclub,bowling_alley,escape_game,laboratory,townhall
+52,"Which type do following POIs belong to? POIs: КидБург, Детский городок, Дом лесных жителей, Fun City",C,courthouse,gaming club,playground,flight_school,language_school
+53,"Which type do following POIs belong to? POIs: Айсберри, Айсберри, Баскин Роббинс, Айсберри",B,park,ice_cream,fitness_centre,marketplace,kick-scooter_rental
+54,"Which type do following POIs belong to? POIs: Курсы МИД, BCLA, Lingvo Studio, ESP Club Moscú",C,stripclub,brothel,language_school,wifihotspot,yacht_club
+55,"Which type do following POIs belong to? POIs: Городской туалет, Городской туалет, Городской туалет, Городской туалет",B,car_rental,toilets,post_office,conference_centre,study
+56,"Which type do following POIs belong to? POIs: Qiwi, Qiwi, Qiwi, Qiwi",B,sports_hall,payment_terminal,official,car_wash,fitness_centre
+57,"Which type do following POIs belong to? POIs: Морозово, Калейдоскоп, Мега-айс, Чемпион",E,research_institute,atm,sports_hall,hospital,ice_rink
+58,"Which type do following POIs belong to? POIs: Дарвиновский музей, Омега-Плаза, Профсоюзная 13012, Метро «Кропоткинская»",C,kiosk,fuel,bicycle_parking,study,post_office
+59,"Which type do following POIs belong to? POIs: Добрые крышечки, Ставмет, Ставмет, Пункт приема металлолома",B,laboratory,recycling,police,bowling_alley,rescue_station
+60,"Which type do following POIs belong to? POIs: Let's go, Крути Педали, 709, Good Bike",B,disc_golf_course,bicycle_rental,playground,waste_disposal,pharmacy
+61,"Which type do following POIs belong to? POIs: Мята Lounge, Мята Platinum, Shishacity, Мята Lounge",E,dancing_school,townhall,gym,music_school,hookah_lounge
+62,"Which type do following POIs belong to? POIs: Скамейка ремёсел, LAVка, Скамейка ремёсел, Качели",D,pub,arts_school,fixme,bench,official
+63,"Which type do following POIs belong to? POIs: Трели, Lights, Склад № 3, Mezzo forte",A,nightclub,photo_lab,flight_school,atm,karaoke_box
+64,"Which type do following POIs belong to? POIs: Пресса, Проездные билеты, Союзпечать, Пресса",B,research_institute,kiosk,fixme,prep_school,fishing
+65,"Which type do following POIs belong to? POIs: Crazy Salsa, Pole house, YouDance, Ивара",D,studio,stripclub,clinic,dancing_school,flight_school
+66,"Which type do following POIs belong to? POIs: Ssollo, Альфакар, Альмак, Avis",E,cafe,club,sell,kiosk,car_rental
+67,"Which type do following POIs belong to? POIs: Building 53, Никаких проблем, ДК Кристалл, Quattro Space",D,retail,coworking_place,vending_machine,events_venue,bicycle_rental
+68,"Which type do following POIs belong to? POIs: Юнистрим, Currency Exchange, обмен валюты, Трансстройбанк",B,public_service,bureau_de_change,translator,sports_centre,dojo
+69,"Which type do following POIs belong to? POIs: Многофункциональный центр предоставления государственных и муниципальных услуг района Тверской, Многофункциональный центр предоставления государственных и муниципальных услуг района Ростокино, Многофункциональный центр предоставления государственных и муниципальных услуг района Аэропорт, Многофункциональный центр предоставления государственных и муниципальных услуг района Дорогомилово",A,public_service,police,brothel,payment_terminal,retail
+70,"Which type do following POIs belong to? POIs: Линзы тут, КофеХауз, Линзы тут, Элекснет",D,internet_cafe,park,bandstand,vending_machine,toilets
+71,"Which type do following POIs belong to? POIs: Слонёнок и пуговка, Муравейник, Бэби-клуб, Детская школа искусств «Юность» отделение ""музыкальный театр""",D,training,yacht_club,biergarten,childcare,driving_school
+72,"Which type do following POIs belong to? POIs: Gector Geek, Colizeum, Центр киберспорта, Colizeum",C,glaziery,tanning_salon,internet_cafe,kick-scooter_rental,fitness_centre
+73,"Which type do following POIs belong to? POIs: Cainiao, СберЛогистика, СДЭК, Яндекс.Маркет",E,warehouse,post_box,food_court,bus_station,parcel_locker
+74,"Which type do following POIs belong to? POIs: Атма йога, Академия Единоборств, Белокаменная, Медведь",D,hospital,stripclub,restaurant,pitch,nightclub
+75,"Which type do following POIs belong to? POIs: Сэр Кот, Зооотель, МЯУ'c, Каникулы Бонифация",D,dentist,childcare,photo_booth,animal_boarding,bandstand
+76,"Which type do following POIs belong to? POIs: АтмоКидс, Клаустрофобия, Клаустрофобия, Quest reality",B,pharmacy,escape_game,recycling,bicycle_parking,arts_centre
+77,"Which type do following POIs belong to? POIs: Сбер, Т-Банк, Райффайзен, Т-банк",C,bowling_alley,bicycle_repair_station,atm,feeding_place,model
+78,"Which type do following POIs belong to? POIs: Веломатрикс, Крути Педали, Велосток, MJsport",D,bicycle_parking,fast_food,vending_machine,bicycle_repair_station,auction_house
+79,"Which type do following POIs belong to? POIs: Psycho Place, Psycho Place, Коворкинг-центр некоммерческих организаций, Индиго кофе",C,dentist,ice_cream,coworking_space,library,bench
+80,"Which type do following POIs belong to? POIs: Юнистрим, Борисоглеб, Юнистрим, Юнистрим",A,money_transfer,doctors,ferry_terminal,customs,parcel_locker
+81,"Which type do following POIs belong to? POIs: Второе дыхание. Мастерская, Rubankov, Фабрика идей, Neuron Hackspace",C,driving_school,ice_rink,hackerspace,kiosk,training
+82,"Which type do following POIs belong to? POIs: Boft, Boft, Дом быта, Boft",B,laboratory,photo_booth,public,bus_station,trampoline_park
+83,"Which type do following POIs belong to? POIs: Krasnaya Presnya Disc Golf Park Target #8, Krasnaya Presnya Disc Golf Park Target #6, Krasnaya Presnya Disc Golf Park Tee #3, Krasnaya Presnya Disc Golf Park Target #1",B,industrial,disc_golf_course,research_institute,clinic;doctors,gaming club
+84,"Which type do following POIs belong to? POIs: King Play, VR home, VR-mania, #виртуальный загс",B,playground,amusement_arcade,roof,yacht_club,hookah_lounge
+85,"Which type do following POIs belong to? POIs: Московский центр переводов, Бюро переводов, Авантаж, Авантаж",C,cooking_workshop,prep_school,translator,biergarten,bar
+86,"Which type do following POIs belong to? POIs: Яндекс заправки, АС 22 кВт #251, Энергия Москвы №107, Green drive",E,trampoline_park,waste_disposal,photo_lab,clock,charging_station
+87,"Which type do following POIs belong to? POIs: In Fighting, САП центр, Костянский 12, САП центр",B,roof,sports_hall,recycling,customs,car_wash
+88,"Which type do following POIs belong to? POIs: Препрег-СКМ, №3, Лингво сервис, Сёмушка",A,fixme,indoor_play,social_centre,laboratory,nightclub
+89,"Which type do following POIs belong to? POIs: Шлюз 6 Икша, Шлюз 2 Темпы, Шлюз 8 Тушино, Шлюз 5 Икша",E,roof,prep_school,training,gaming club,model

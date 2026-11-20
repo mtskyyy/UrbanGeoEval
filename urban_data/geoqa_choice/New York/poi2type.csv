@@ -1,0 +1,79 @@
+id,question,answer,A,B,C,D,E
+0,"Which type do following POIs belong to? POIs: Maya Taqueria, Fields Good Chicken, A&A Bake & Doubles Shop, Dunkin' Donuts",E,pitch,prison,meditation_centre,food_court,fast_food
+1,"Which type do following POIs belong to? POIs: Metropolitan Expeditionary Learning School, School of the Future, Saint Marys School, Our Lady of Sorrows School",E,hackerspace,lounge,theatre,animal_shelter,school
+2,"Which type do following POIs belong to? POIs: Sidney Hillman Playground, Howard Playground, Sol Bloom Playground, Sam Leggio Triangle",B,townhall,park,doctors,cinema,sauna
+3,"Which type do following POIs belong to? POIs: New York Institute of Technology, Devry College, NYU School of Medicine, The Juilliard School",A,university,garden,retail,ferry_terminal,park
+4,"Which type do following POIs belong to? POIs: Bridgeview School of Fine Arts, Baker Theatre Building, American Academy of Dramatic Arts, Boricua College",E,dojo,vehicle_inspection,karaoke_box,clinic,college
+5,"Which type do following POIs belong to? POIs: George Rosenfeld Center for Recovery, Gracie Square Hospital, Manhattan Eye Ear and Throat Hospital, New York Presbyterian Alexandra Cohen Hospital for Women and Newborns",C,parcel_locker,retail,hospital,lounge,cinema
+6,"Which type do following POIs belong to? POIs: Saint Pauls Pentecostal Church, All People's Church of the Apostolic Faith, Christian Universal Baptist Church, Community Bible Evangelical Church",B,lounge,place_of_worship,childcare,playground,fast_food
+7,"Which type do following POIs belong to? POIs: USPS, Rego Park Station Flushing Post Office, Murawski Pharmacy, Halsey Station",C,music,car_wash,post_office,indoor_play,restaurant
+8,"Which type do following POIs belong to? POIs: CityMD, One Brooklyn Health, Broadway Community Family & Children Health Center, Community Healthcare Network",D,playground,indoor_play,garage,clinic,fixme
+9,"Which type do following POIs belong to? POIs: Birds of a Feather, Homemade Taqueria, Ariel's Latin Bistro, One More Thai",D,dog_park,conference_centre,stripclub,restaurant,sauna
+10,"Which type do following POIs belong to? POIs: Peeka Booo, Retired Playground Animals, Zucker Natural Play Area, John Adams Playground",D,park,fast_food,bench,playground,karaoke_box
+11,"Which type do following POIs belong to? POIs: Spoke the Hub Dancing, Soft Surplus, BAX, Oliphant Studios",C,fountain,community_centre,arts_centre,dormitory,residential
+12,"Which type do following POIs belong to? POIs: Chase Lounge, Duggal Greenhouse, Work Heights, Atrium",B,pub,events_venue,sports_centre,prison,planetarium
+13,"Which type do following POIs belong to? POIs: Soapbox Gallery, UA Midway Stadium 9, Nitehawk Cinema, AMC Loews 84th Street 6",C,social_centre,planetarium,cinema,warehouse,veterinary
+14,"Which type do following POIs belong to? POIs: Manhattan Community Board 7, Goddard Riverside Bernie Wohl Center, National Council of Jewish Women New York, GG's Social Trade & Treasure Club",E,dojo,social_facility,atm,drinking_water,community_centre
+15,"Which type do following POIs belong to? POIs: FDNY Engine 294, FDNY Engine 8/Ladder 2/Battalion 8, FDNY Rescue Operations, New York Ladder Company 117",A,fire_station,amusement_arcade,training,fortune_teller,conference_centre
+16,"Which type do following POIs belong to? POIs: Alul Bayt Islamic Library, Queens Library at Mitchell-Linden, Newman Library and Technology Center, Lila Acheson Wallace Library",B,music_venue,library,miniature_golf,sports_hall,coworking_space
+17,"Which type do following POIs belong to? POIs: Centerpark Park Lane Parking Garage, Centerpark East 34th Street Parking Garage, Centerpark East 46th Street Parking Garage, FDNY Fleet Services",D,sports_centre,bicycle_rental,garden,parking,conference_centre
+18,"Which type do following POIs belong to? POIs: Performance Space 122, Brooklyn Paramount, The Town Hall, The Brick",C,karaoke,fuel,theatre,community_centre,ice_cream
+19,"Which type do following POIs belong to? POIs: NYPD 102 PCT, NYPD 110 PCT, 23rd Precinct Police Station, NYPD Transit Special Victims Squad",C,music_venue,bowling_alley,police,post_office,retail
+20,"Which type do following POIs belong to? POIs: Eastern District YMCA, QBK Sports, NYSC, Throwback Fitness",E,garden,police,boat_rental,residential,sports_centre
+21,"Which type do following POIs belong to? POIs: CKO Kickboxing, Brooklyn Wing Tsun, Gym X Boxing, Synergy",B,miniature_golf,fitness_centre,bowling_alley,apartments,bureau_de_change
+22,"Which type do following POIs belong to? POIs: Citi Bike - 23rd Avenue & 31st Street, Citi Bike - East 55th Street & 3rd Avenue, Citi bike, Citi Bike",E,residential,post_office,toilets,marketplace,bicycle_rental
+23,"Which type do following POIs belong to? POIs: Midtown Community Justice Center, Life is Previous (LIP), Fifth Avenue Committee, Macedonia Pantry",B,payment_centre,social_facility,coworking_space,doctors,public_bookcase
+24,"Which type do following POIs belong to? POIs: 19 Cafe, Manhattanville Coffee, Pecoraro Latteria, Earth Shine",A,cafe,post_office,toilets,shelter,miniature_golf
+25,"Which type do following POIs belong to? POIs: Little Rascal Bar, Bartolinos, Ora Wine Bar, Puerto de Manta Restaurant and Bar",E,marketplace,hospital,events_venue,recreation_ground,bar
+26,"Which type do following POIs belong to? POIs: Wonderville, Chuck E. Cheese, Chuck E. Cheese, Tiltz",C,hospital,car_wash,amusement_arcade,cinema,garage
+27,"Which type do following POIs belong to? POIs: Chase, Bank of America, Chase, Popular",D,music_venue,sports_centre,store,bank,stripclub
+28,"Which type do following POIs belong to? POIs: Cold Stone Creamery, Lady Moo Moo Ice Cream, Fruitti Yummi, Figo",D,bench,driving_school,indoor_play,ice_cream,miniature_golf
+29,"Which type do following POIs belong to? POIs: Corner Pharmacy, CVS Pharmacy, Shop Rx Pharmacy, Duane Reade",C,biergarten,clinic,pharmacy,toilets,planetarium
+30,"Which type do following POIs belong to? POIs: Bailey's Corner Pub, The Craic, Blue Haven, Jack's Fire Department",A,pub,taxi,parking,toilets,kindergarten
+31,"Which type do following POIs belong to? POIs: Althea Gibson Sculpture Garden, Magnolia Plaza, Central Garden, Woodland Garden",D,dance,coworking_space,fire_station,garden,clock
+32,"Which type do following POIs belong to? POIs: Chase, Citibank, Bank of America, Bank of America",A,atm,hospital,clinic,toilets,university
+33,"Which type do following POIs belong to? POIs: Long Island City - Gantry Plaza, Brooklyn Navy Yard Ferry Station, India Street/Greenpoint, Roosevelt Island",B,charging_station,ferry_terminal,recycling,atm,drinking_water
+34,"Which type do following POIs belong to? POIs: Carl Schurz Park, Riverside Park 7, Riverside Park 8, Samuel Seabury Playground",B,taxi,drinking_water,animal_boarding,clear,dormitory
+35,"Which type do following POIs belong to? POIs: Discovery PitStop, The Accorn School, Everbrook Academy, Small Wonder",D,fast_food,university,police,kindergarten,vehicle_inspection
+36,"Which type do following POIs belong to? POIs: Motorcycle Safety School, Inc, Adams Auto, Avalon Auto School, Red Hook on the Road",C,cafe,outdoor_seating,driving_school,training,public
+37,"Which type do following POIs belong to? POIs: Radio Maria, Fontanez Recording Studio NYC, ROOT, Stage 14",E,indoor_play,fortune_teller,public_bookcase,cinema,studio
+38,"Which type do following POIs belong to? POIs: Dollar Car Rental, Enterprise, Enterprise, Java Car Services",B,fitness_station,car_rental,wifi;telephone;device_charging_station,cinema,music
+39,"Which type do following POIs belong to? POIs: GMAT & GRE Math Tutor, Kumon Math and Reading, Kumon, Mathnasium",A,prep_school,cafe;bar,kindergarten,bar,ferry_terminal
+40,"Which type do following POIs belong to? POIs: Gas Sale, Conoco, Mobil, BP",E,parking_entrance,toilets,fountain,veterinary,fuel
+41,"Which type do following POIs belong to? POIs: Yorkville Car Park, Murray Park Garage, MPG Parking, MPG",D,wifi;telephone;device_charging_station,social_facility,music,parking_entrance,university
+42,"Which type do following POIs belong to? POIs: Levelscape, TechAhoy, NYC Resistor, GenSpace",E,part,kindergarten,food_court,animal_keeping,hackerspace
+43,"Which type do following POIs belong to? POIs: Green Space, Salsa In Queens, ReVision Lounge and Gallery, Elmekkah Bar and Grill",A,dance,garden,vending_machine,telephone,post_box
+44,"Which type do following POIs belong to? POIs: Tend, Albee Dentalcare, New Smile Astoria, Astoria Modern Family Dental",D,residential,swimming_pool,childcare,dentist,sports_centre
+45,"Which type do following POIs belong to? POIs: Forest Hills Greenmarket, Best Fish Market, Fort Greene Park Greenmarket, Keita West African Market",C,studio,dance,marketplace,police,karaoke
+46,"Which type do following POIs belong to? POIs: Arts and Athletics, Cocoon, My Gym, My Gym",D,vending_machine,prison,community_centre,indoor_play,animal_shelter
+47,"Which type do following POIs belong to? POIs: ABC Child Center, Park Place Day Care, Little Sun People, Brooklyn Game Lab",E,radio station,clinic,playground,parcel_locker,childcare
+48,"Which type do following POIs belong to? POIs: New Bell Car Service, Arecibo, Mexicana Car & Limo Svc, International Car Service",C,clock,driving_school,taxi,outdoor_seating,cafe;bar
+49,"Which type do following POIs belong to? POIs: Forest Hills Podiatry, Dr. Benjamin Paul, Dominick J Anastasio MD, Steven Wallach MD, FACS",B,car_sharing,doctors,dance,playground,dentist
+50,"Which type do following POIs belong to? POIs: Chill Space, East Side Club, Area Infrared Sauna, Russian & Turkish Baths",B,outdoor_seating,sauna,ice_cream,park,kindergarten
+51,"Which type do following POIs belong to? POIs: Nookspace, Spaces, Work Heights, Gran Merci",C,slipway,money_transfer,coworking_space,social_club,dancing_school
+52,"Which type do following POIs belong to? POIs: Payomatic, David's Check Cashing, La Nacional, MoneyGram",D,animal_boarding,give_box,clear,money_transfer,bicycle_rental
+53,"Which type do following POIs belong to? POIs: La Boom, Ceremony224, The Deep End, Dizzy’s Club",C,taxi,studio,nightclub,common,fixme
+54,"Which type do following POIs belong to? POIs: Bond Vet, Upper East Side Veterinary Center, York Veterinary Center, Bond Vet",E,nightclub,retail,music,university,veterinary
+55,"Which type do following POIs belong to? POIs: Psychic Reading, Murry Hill Psychic Solutions, Psychic Readings, Psychic Readings",C,miniature_golf,outdoor_seating,fortune_teller,prison,payment_centre
+56,"Which type do following POIs belong to? POIs: Little Free Library, Little Free Library, Old Stone House Lending Library, Lila's Little Library",D,garage,dentist,karaoke_box,public_bookcase,police
+57,"Which type do following POIs belong to? POIs: Imperial Dragon Karate Dojo, United Tae Kwon Do, Hugo's Taekwondo, Tiger Schulman’s",A,dojo,conference_centre,food_sharing,bar,arts_centre
+58,"Which type do following POIs belong to? POIs: USPS, USPS, USPS, USPS",D,bowling_alley,clear,animal_keeping,post_box,industrial
+59,"Which type do following POIs belong to? POIs: Vacant, Faculty House, Scholar's Residence, Sherpa House",A,residential,garden,garage,social_club,warehouse
+60,"Which type do following POIs belong to? POIs: Fat Puppies Inn, The Doggie Funhouse, PetBuddy Services, Where My Dogs At?",B,dojo,animal_boarding,drinking_water,atm,hackerspace
+61,"Which type do following POIs belong to? POIs: The Plaza Food Hall, Urban Hawker, Kosher in Midtown, Dekalb Market Hall",A,food_court,boat_rental,vehicle_inspection,vending_machine,apartments
+62,"Which type do following POIs belong to? POIs: 30 Lincoln Plaza Condominium, the Arch, Windsor Gardens, ARC Apartments",B,school,residential,college,sauna,marketplace
+63,"Which type do following POIs belong to? POIs: Sapphire 39, Riviera, Sapphire, Pumps",C,miniature_golf,swimming_pool,stripclub,school,pharmacy
+64,"Which type do following POIs belong to? POIs: Paul A. Vallone Queens Animal Care Center, BARC Shelter, Astoria Animal Emergency, Wild Bird Fund",D,ice_rink,research_institute,bench,animal_shelter,amusement_arcade
+65,"Which type do following POIs belong to? POIs: Hand Car Wash Detailing, Central Car Wash, On the Spot, Metro Car Wash & Lube",E,music,park,sports_centre,clear,car_wash
+66,"Which type do following POIs belong to? POIs: Woodbine, Knights of Columbus, VFW Post (Rocco Moreco) Post 2348, VFW Post",A,social_centre,lounge,cafe,residential,bar
+67,"Which type do following POIs belong to? POIs: Clinton Hill School for Piano, Musipire, Brooklyn Guitar School, Song & A Dance",B,hookah_lounge,music_school,miniature_golf,residential,car_sharing
+68,"Which type do following POIs belong to? POIs: 9 Plus KTV & Party, Muse Home Theatre, Karaoke Shout, DIY KTV",B,police,karaoke_box,makerspace,social_facility,university
+69,"Which type do following POIs belong to? POIs: Studio 151, The Brooklyn Monarch, The Adam Space, Nublu Classic",A,music_venue,karaoke_box,wifi;telephone;device_charging_station,fixme,dormitory
+70,"Which type do following POIs belong to? POIs: Link NYC, Link NYC, Link NYC, Link NYC",C,food_sharing,park,telephone,prison,atm
+71,"Which type do following POIs belong to? POIs: OJ2Go, iStore, KeyMe, Community fridge",E,adult_gaming_center,marketplace,prison,telephone,vending_machine
+72,"Which type do following POIs belong to? POIs: Layali Dubai, Egypt, Legacy Hookah Lounge and Bistro, Dream Cafe",D,bar,animal_shelter,retail,hookah_lounge,cafe;bar
+73,"Which type do following POIs belong to? POIs: Juguemos a Cantar, German-American School, Instituto Cervantes, Rennert New York City",D,dentist,dormitory,fast_food,language_school,cafe
+74,"Which type do following POIs belong to? POIs: Tesla Supercharger, ChargePoint, ChargePoint, Bus Charging Station",C,studio,bar,charging_station,fitness_station,prep_school
+75,"Which type do following POIs belong to? POIs: The Environmental Recycling, Redemtion Center, Atlantic Redemption Center, Household Special Waste Drop-Off Site",E,social_club,dojo,prison,pharmacy,recycling
+76,"Which type do following POIs belong to? POIs: Little Free Pantry, Community Fridge, Bushwick Community Fridge, LES Community Fridge",A,food_sharing,music,animal_boarding,animal_keeping,payment_centre
+77,"Which type do following POIs belong to? POIs: Federici, Awilda Shipping Inc., pH7, Los Dorados",B,car_sharing,fixme,money_transfer,ice_cream,veterinary

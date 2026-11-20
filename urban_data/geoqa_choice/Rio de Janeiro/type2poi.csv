@@ -1,0 +1,90 @@
+,A,B,C,D,E,answer,question
+0,Creche Municipal Vila dos Mineiros,Escola Municipal Félix Pacheco,Keiko Sushi,Instituto Nícia Macieira,Dr. Leonardo Baumworcel,E,Which POI belongs to type: doctors?
+1,Santo Antonio de Água Santa,Arca de Noé,Escola Municipal Mozart Lago,McDonald's,Teatro SENAC - Bonsucesso,D,Which POI belongs to type: fast_food?
+2,Centro Educacional Futuro Certo,Assembleia de Deus Missão Vida,BR,Beach Pro Center Fitness,TK Burguer,C,Which POI belongs to type: fuel?
+3,Clube Desportivo Caravana Excursionista,Parque Madureira IV,Escola Municipal Presidente Humberto de Alencar Castelo Branco,Petrobras,Outback Steakhouse,C,Which POI belongs to type: school?
+4,União Espiritual Carlos Chagas,Clínica da Família Mestre Molequinho do Imperio,Clínica da Família Souza Marques,Escola Municipal Hemetério dos Santos,Clínica da Família Maestro Celestino,A,Which POI belongs to type: place_of_worship?
+5,Escola Municipal Maria Mazzetti,Escola Municipal Barão de Macahubas,Mega Expressa Drogaria,Igreja Santa Rita de Cássia,E.D.I. José da Silva Araújo,C,Which POI belongs to type: pharmacy?
+6,Comitê da Terceira Idade,Escola Municipal Lopes Trovão,Capsi Visconde de Sabugosa,Cheirin Bão,Subway,A,Which POI belongs to type: common?
+7,Creche Municipal Tia Tereza,Tenda da Ciência,Memorial Saúde,Dreem Beer Bistro - Méier,Escola Municipal Lauro Sodré,C,Which POI belongs to type: hospital?
+8,Assembleia de Deus,"""UBER"" Maré",Subway,Associação de Moradores e Espaço Cultural Cidade de Deus,Extra,D,Which POI belongs to type: public_building?
+9,Escola Municipal Del Castilho,OLIVA,Escort Motel,Estacionamento Lins Imperial,Veterinária Madureira,C,Which POI belongs to type: love_hotel?
+10,Bar da Dona Maria,Joaquim Restaurante Bar,Rio Decor,Academia New Corpore,Bar do Thomaz,C,Which POI belongs to type: Rio Decor?
+11,Escola Municipal José Pancetti,Escola Municipal Pareto,ESCOLA DE MODA YURI GRANEIRO,Posto Golfe Clube,Restaurante & Bar Cabreras Brasa Pizza Chopp,E,Which POI belongs to type: restaurant?
+12,Igreja Universal do Reino de Deus,Igreja Evangélica Redenção Cristã,Bar Tudo Nosso,Ciep Augusto Pinheiro de Carvalho,Clínica da Família Barbara Starfield,C,Which POI belongs to type: pub?
+13,Centro Educacional Henry Dunant,Curves,Lava jato Luxo,Condomínio Itanhangá,Escola Municipal Odilon de Andrade,C,Which POI belongs to type: car_wash?
+14,Centro de Medicina Nuclear da Guanabara,KINOPLEX,Mototáxi,Creche Escola Lápis de Cor,McDonald's,B,Which POI belongs to type: cinema?
+15,Escola Especial Municipal Maurício de Medeiros,Teatro Multiplan,Pacheco,Creche Municipal Tia Maria do Jongo,Escola Técnica Rezende Rammel,D,Which POI belongs to type: kindergarten?
+16,GS Odontologia,Caixa Econômica Federal,M&C Espetos,Creche Municipal Doutor Sobral Pinto,Escola Municipal Francisco Frias de Mesquita,D,Which POI belongs to type: childcare?
+17,Londres,OKAWARI,Escola Municipal Professor Augusto Cony,Cosechas,1º Grupamento de Socorro Florestal e Meio Ambiente,E,Which POI belongs to type: fire_station?
+18,Casa de Chico,Lanchonete ok,Escola Municipal Marechal Canrobert Pereira da Costa,UPP Rocinha,Escola Municipal Fornovo,D,Which POI belongs to type: police?
+19,Escola Municipal Gustavo Armbrust,Sushi Tropical,Escola Municipal Professora Juracy Silveira,Dona Chica,Shell,D,Which POI belongs to type: cafe?
+20,Escola Municipal Dalva de Oliveira,Feitiço da vila,Farmácia Farmaceutica,Elite Rede de Ensino - Norte Shopping,Banco BMG,E,Which POI belongs to type: bank?
+21,Escola Municipal Professor Augusto Cony,Igreja Universal do Reino de Deus,Escola Municipal Benevenuta Ribeiro,Xodó do Méier,Araguaia Taxis,E,Which POI belongs to type: Ponto de Taxis?
+22,Night Way,Escola Municipal Acre,Assembléia de Deus,Escola Municipal Sobral Pinto,Top 3 Gym,E,Which POI belongs to type: fitness_centre?
+23,Creche Escola Estação do Saber,Igreja São Vicente de Paulo,Skate Plaza Engenhão,Escola Municipal José Marti,Moto Táxi RP,E,Which POI belongs to type: taxi?
+24,Creche Municipal Doutor Sobral Pinto,Araguaia Taxis,Ponto Final: Méier :: Linha 679,McDonald's,Escola Municipal Afrânio Peixoto,C,Which POI belongs to type: bus_station?
+25,Due Café,Metropolitan,Escorregador,Mesas de Damas/Xadrez,Oakberry Açaí bowls,C,Which POI belongs to type: playground?
+26,Correio e Centro de Distribuição,Vino Veritas,Pappa Jack,Feira Livre às quintas,Escola Municipal Diogo Feijó,B,Which POI belongs to type: bar?
+27,Creche Escola Peixinho Sabido,Coreto de Quintino,Farma Dez,Bradesco,Igreja Evangélica Redenção Cristã,B,Which POI belongs to type: shelter?
+28,Megamatte,Cabine de polícia,Banco24Horas,ESCOLA DE MODA YURI GRANEIRO,Blend Steak Bar,C,Which POI belongs to type: atm?
+29,Floresta do Camboatá,Smart Fit,Centro Espírita Humildade e Amor (CEHA),Dentistas,Centro Municipal de Saúde Augusto do Amaral Peixoto,A,Which POI belongs to type: nature_reserve?
+30,Sapucaqui,Boa Saúde,McDonald's norte shopping,Escola Municipal Madre Tereza de Calcutá,Coliseu,E,Which POI belongs to type: community_centre?
+31,Baronesa Táxi,Coxinhas Bragança,Barra Letter,Centro Integrado de Educação Pública Aracy de Almeida (cantora),Ciep João do Rio,C,Which POI belongs to type: post_office?
+32,Lenha da Tijuca,Drogarias Pacheco,Leroy Merlin,Subway,Cruz Souza Xavier,C,Which POI belongs to type: bicycle_parking?
+33,Ciep Deputado José Carlos Brandão Monteiro,1 Por Todos e Todos Por 1,Núcleo de Ginástica Olímpica,Teatro Miguel Falabella,Edifício Álvaro G. Nunes,D,Which POI belongs to type: theatre?
+34,Spoleto,Baile Charme do Viaduto de Madureira,Night Way,Clínica da Família Luiz Celio Pereira,Futuro do Amanhã,C,Which POI belongs to type: brothel?
+35,Megamatte,Academia New Corpore,Sushi Temaki Delivery,Quadriciclo do Pinel,Boa Saúde,D,Which POI belongs to type: bicycle_rental?
+36,Modelo Carioca,Correio e Centro de Distribuição,Chopperia Mangueirinha,Kaique,Promoinfo,E,Which POI belongs to type: parking?
+37,PDC - Saúde,Escola Municipal Pires e Albuquerque,Creche Anna Maria Niemeyer,Bar do Araújo,Instituto Eduacional Terezinha de Jesus,A,Which POI belongs to type: clinic?
+38,Colégio Nacional,Ale,Subway,Le Marché,Creche Municipal Mané Garrincha I,D,Which POI belongs to type: marketplace?
+39,Planeta Bebê,Estacionamento Sul Portão 3,Arca de Noé,Capela Menino Jesus de Praga,Banco24Horas,C,Which POI belongs to type: veterinary?
+40,Colégio Santa Mônica,Itaú,Núcleo de Ginástica Olímpica,COSECHAS,Non Stop Câmbio e Turismo,C,Which POI belongs to type: sports_centre?
+41,Control Move Pilates,Cond. Parque Gabinal III,Escola Municipal Coronel Policial Militar Flavio Martins Albuquerque,Casa do Suco,Creche Escola Lápis de Cor,B,Which POI belongs to type: apartments?
+42,Escola Técnica Estadual Oscar Tenório,Dreem Beer Bistro - Méier,Centro de Tratamento Reumatológico & Esportivo,Escola Municipal Debret,Banco24Horas,A,Which POI belongs to type: college?
+43,ICSOP,Hospital 25 de Dezembro,XV Região Administrativa,Escola Municipal Oswaldo Teixeira,Edifício Sargento Roncalli,C,Which POI belongs to type: townhall?
+44,Parmê,Bartô Galático,Açaí do Pará,Leila Diniz,Empresa de Andorinha,E,Which POI belongs to type: garage?
+45,Assembléia de Deus,Escola Municipal Sérvulo de Lima,UCI,Pappa Jack,Posto 13,E,Which POI belongs to type: toilets?
+46,CRAS Rubens Correa,Caixa Econômica Federal,Moto Taxi Da Paz,Açaí,Ibiza Lounge Beer,A,Which POI belongs to type: social_facility?
+47,Ponto Pet,Igreja Batista Central em Colégio,Creche Municipal Renascer,Skate Plaza Engenhão,Escola Municipal Sobral Pinto,D,Which POI belongs to type: pitch?
+48,Pacheco,Banco do Brasil,Sapekids,Igreja Assembleia de Deus,Creche Escola Peixinho Sabido,C,Which POI belongs to type: events_venue?
+49,Igreja Universal do Reino de Deus Curicica,Lanchonete Fórmula do Suco,Bar da Dona Maria,Açaí da Ponte,Yes! Idiomas,E,Which POI belongs to type: language_school?
+50,Itaú,Sapekids,Bacio di Latte,Drogaria Jurema,Bradesco,C,Which POI belongs to type: ice_cream?
+51,Ministério profético,NOSSA SENHORA DAS MERCES,Escola Municipal Governador Carlos Lacerda,Comitê da Terceira Idade,Sala de Leitura,E,Which POI belongs to type: library?
+52,Banco24Horas,Ciep Coronel Sarmento,Auto Posto Bam Bam,Metropolitan,Shell,D,Which POI belongs to type: music_venue?
+53,ELEVATORIA DE ESGOTOS - AYRTON SENNA,Escola Municipal Miguel Couto,Megasport,Oakberry Açaí bowls,Escola Municipal Thomas Mann,A,Which POI belongs to type: office?
+54,UCI,Escola Municipal Afrânio Peixoto,Escola Municipal Figueiredo Pimentel,Choupana da Calmon,McCafé,D,Which POI belongs to type: nightclub?
+55,Curso Técnico Sebrae,Planet Burger,Estação Vila dos Atletas,The Wall,Creche Municipal Recanto da Cachoeira,C,Which POI belongs to type: industrial?
+56,Ipiranga Esquilos,SOS Animal Carioca,Academia Físico Carioca,Evandro's,Academia da Terceira Idade,E,Which POI belongs to type: fitness_station?
+57,CORREIOS,Escola Municipal Pareto,Bar da Loira,Fusion Fight,Yakissoba Rei e Rainha,A,Which POI belongs to type: post_box?
+58,LInha 254 Madureira >> Praça XV,Jacaré,Drogaria Venâncio,GS Odontologia,Igreja Adventista do Sétimo Dia,D,Which POI belongs to type: dentist?
+59,Escola de Música da Rocinha,Droga Raia,Viva Centro Médico,Escola Municipal Rostham Pedro de Farias,Escola Municipal General João Mendonça Lima,A,Which POI belongs to type: music_school?
+60,Assembléia de Deus,Mi Casa 328,Non Stop Câmbio e Turismo,Itaú,ICTB - Centro de Criação de Animais para Laboratório,C,Which POI belongs to type: bureau_de_change?
+61,Auto Escola MAP,ETE - Escola Técnica Estadual Visconde de Mauá,Shell,Pacheco,Arca de Noé,A,Which POI belongs to type: driving_school?
+62,Creche Municipal José Raimundo de Souza Alves,UNICESUMAR,Centro Municipal de Saúde Itanhanga,Caixa Econômica Federal,Curves,B,Which POI belongs to type: university?
+63,Escola Municipal Rosa Bettiato Záttera,Drogaria Venancio,Gracie Barra,Escola Técnica Vencer,Centro Espírita,C,Which POI belongs to type: dojo?
+64,Igreja São Vicente de Paulo,Estação Azul,Acesso Subsolo,Capsi Eliza Santa Roza,1ª Igreja Batista de Vicente de Carvalho,C,Which POI belongs to type: parking_entrance?
+65,Gabbiano,WW Piscinas & Rações,Escort Motel,Trepa pedra exposto,Cultura Inglesa,D,Which POI belongs to type: military?
+66,Mesas de Damas/Xadrez,Pensão da Mulata,Praça Barão de Drumont,Quiosque do Açaí,Igreja Evangélica Assembléia de Deus,A,Which POI belongs to type: table?
+67,Ciep João do Rio,Creche Municipal Chico Bento,Vila Rodrigues,Escola Municipal Marc Ferrez,Skinão do Méier,C,Which POI belongs to type: residential?
+68,Mesas de Xadrez e Damas,Shell,Caixa Econômica Federal,Bacio di Latte,Escola Municipal Quintino Bocaiuva,A,Which POI belongs to type: picnic_table?
+69,Pracinha das Damas,Reginaldo's Bar,La Plancha,Conexão Villa,BIg Jota,A,Which POI belongs to type: Praça?
+70,Adega do Vinho,Escola Municipal Hélio Smidt,Hertz,Metrô São Conrado,Yes! Idiomas,C,Which POI belongs to type: car_rental?
+71,Escola Municipal Engenho da Rainha,Kumon,Escola Municipal Lins de Vasconcelos,Edifício Álvaro G. Nunes,Seu Zé Lanches,D,Which POI belongs to type: residential?
+72,Só na Brasa,MegaMatte,Bradesco,Paróquia Nossa Senhora de Guadalupe,Creche Municipal Margarida Gabinal,D,Which POI belongs to type: religious?
+73,Kumon,Lanchonete ok,Escola Municipal Professor Ary Quintella,Drogaria Venâncio,Ponto Pet,E,Which POI belongs to type: commercial?
+74,Caps Rubens Correa,Escola Municipal Rostham Pedro de Farias,Burger King,Viktor,Mesas de Xadrez e Damas,D,Which POI belongs to type: industrial?
+75,Clínica da Família Zilda Arns,CASA DE FESTAS ESPAÇO K,Clínica da Família Padre Jose de Azevedo Tiuba,CASA BAUDUCCO,Wakigawa,B,Which POI belongs to type: dance?
+76,Escola Especial Municipal Professora Maria Therezinha de Carvalho Machado,Ipiranga,Estação Olímpica de Engenho de Dentro,Banco24Horas,Escola Municipal São Domingos,C,Which POI belongs to type: train_station?
+77,Paróquia Pai Eterno e São José,SOS Animal Carioca,Carioca Como Você,Escola Municipal Maestro Lorenzo Fernandes,Kumon,E,Which POI belongs to type: prep_school?
+78,CHEIRIN BÃO,ICTB - Centro de Criação de Animais para Laboratório,California Coffee,Mesas de Xadrez e Damas,Escola Municipal Tasso da Silveira,B,Which POI belongs to type: public?
+79,Ponto de Moto-Taxi,Escola Municipal Desembargador Montenegro,Droga Raia,Escola Municipal Raja Gabaglia,Ceará Mares,A,Which POI belongs to type: motorcycle_rental?
+80,Escola Municipal Professor Carneiro Ribeiro,Jacaré,Creche Muncipal Sementinha,Bença Vó Vó Food Truck,Fashion Mall,B,Which POI belongs to type: ferry_terminal?
+81,Caps Ad Iii Paulo da Portela,Taste Lab,Sem Balança,Veterinária Madureira,Banco do Brasil,B,Which POI belongs to type: food_court?
+82,Rio Bike Shop,Escola Municipal Juan Montalvo,Parque Madureira IV,Hot Zone,UPA de Marechal Hermes,D,Which POI belongs to type: amusement_arcade?
+83,Largo da Capela,Smart Fit,Dog Park,Escola Municipal Maria da Silva França,Creche Municipal Guaraciara Rodrigues Diniz,C,Which POI belongs to type: park?
+84,Drogaria Carioca,Acarajé da Maura,Colégio Estadual Professor Joel de Oliveira,Naa! Sushi Bar,Antiga Herbert Richers S/A,E,Which POI belongs to type: studio?
+85,Padaria Principal,Colegio CEDO,ICSOP,Restaurante Reservado,Escola Municipal Ramiz Galvão,A,Which POI belongs to type: bakery?
+86,Camorim Inspeção Veicular,Ser Baby,Tia Helena,Escola Municipal Mozart Lago,Escola Municipal Polônia,A,Which POI belongs to type: vehicle_inspection?
+87,Beco do Frango,Bacio di Latte,ALVO CERTO,Yogoberry,Starbucks,C,Which POI belongs to type: arts_centre?
+88,Churraspao mix,McDonald's,Correio e Centro de Distribuição,Clima de Festa Buffet Infantil,Jaé,E,Which POI belongs to type: vending_machine?

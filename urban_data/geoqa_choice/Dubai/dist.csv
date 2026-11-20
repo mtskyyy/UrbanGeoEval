@@ -1,0 +1,463 @@
+id,question,answer,A,B,C,D
+0,"What is the distance between ""Fit Worx"" and ""ستاربكس"" in the Dubai area?",A,24.15,22.16,20.96,19.18
+1,"What is the distance between ""Unwind Speciality Boardgame Cafe"" and ""Bank of Baroda"" in the Dubai area?",A,21.97,24.23,22.95,13.99
+2,"What is the distance between ""Pancake House International"" and ""Seven Stones"" in the Dubai area?",A,22.85,18.22,24.16,19.8
+3,"What is the distance between ""Olive Oil"" and ""Eat & Drink"" in the Dubai area?",C,14.13,11.01,6.78,14.57
+4,"What is the distance between ""Momo"" and ""Bait Al Mandi Restaurant"" in the Dubai area?",B,18.48,14.21,12.15,21.23
+5,"What is the distance between ""Khalidia Palace Hotel Dubai by Mourouj Gloria"" and ""حديقة الصفا"" in the Dubai area?",C,8.18,15.6,11.34,8.28
+6,"What is the distance between ""Fujiya Restaurant"" and ""AbuHail Gym"" in the Dubai area?",C,9.0,8.95,3.31,0.94
+7,"What is the distance between ""Shehar-e-Karachi Restaurant"" and ""Tiba Rent -A- Car"" in the Dubai area?",C,10.07,7.35,15.34,13.13
+8,"What is the distance between ""Creek Parking"" and ""Panorma Grand Hotel"" in the Dubai area?",B,3.92,1.84,7.83,6.01
+9,"What is the distance between ""Cotti Coffee"" and ""Al Amoor Falafel"" in the Dubai area?",A,5.82,13.49,13.7,7.73
+10,"What is the distance between ""Star One Restaurant"" and ""Dukem"" in the Dubai area?",A,15.47,22.66,19.27,20.7
+11,"What is the distance between ""Theatre by QE2"" and ""Roar"" in the Dubai area?",C,16.37,17.6,22.0,14.14
+12,"What is the distance between ""سوق البحار"" and ""Al Ramoor Oasis"" in the Dubai area?",C,4.31,4.43,10.46,3.49
+13,"What is the distance between ""Burj Al Hamam 2x1"" and ""ADNIF"" in the Dubai area?",B,19.17,27.08,20.45,24.18
+14,"What is the distance between ""Escala House"" and ""بوليفارد"" in the Dubai area?",D,7.74,5.7,10.18,2.49
+15,"What is the distance between ""Shabaka & Senara Fish Restaurant"" and ""Fisherman's Wharf"" in the Dubai area?",A,32.5,24.8,24.52,24.98
+16,"What is the distance between ""Gulf Medical Centre"" and ""Skafos, Al Seef Dubai"" in the Dubai area?",C,4.23,9.6,2.06,7.8
+17,"What is the distance between ""Copper Kettle"" and ""Xennya Terrace"" in the Dubai area?",C,4.6,3.94,2.81,10.08
+18,"What is the distance between ""Dream Dubai"" and ""Malabar Makhan Restaurant"" in the Dubai area?",A,16.29,23.56,13.42,18.91
+19,"What is the distance between ""Dhamaal"" and ""Naif Parking Plalza"" in the Dubai area?",D,3.7,7.09,2.91,1.41
+20,"What is the distance between ""Wendy's"" and ""ICCA Dubai"" in the Dubai area?",A,17.06,21.53,10.49,18.11
+21,"What is the distance between ""Eat & Drink"" and ""Pressman's"" in the Dubai area?",C,13.48,22.5,15.75,9.9
+22,"What is the distance between ""Naif Parking Plalza"" and ""Al Rageh Internet Cafe"" in the Dubai area?",B,4.51,0.73,2.59,6.94
+23,"What is the distance between ""مطعم سلة الصياد"" and ""Kitchen6"" in the Dubai area?",A,7.19,10.0,1.54,0.72
+24,"What is the distance between ""مول الإمارات"" and ""The Oberoi Hotel"" in the Dubai area?",C,4.23,3.77,9.6,17.46
+25,"What is the distance between ""Star Grills"" and ""RO4"" in the Dubai area?",A,23.23,16.16,16.54,18.7
+26,"What is the distance between ""Pizza Hut"" and ""Indiawale Al fahidi"" in the Dubai area?",D,3.85,1.77,14.36,7.0
+27,"What is the distance between ""Sugar Bae"" and ""سوبر ماركت فتح بطاقه دبي"" in the Dubai area?",C,7.69,7.13,8.68,9.77
+28,"What is the distance between ""Life"" and ""Ard Zaytoon"" in the Dubai area?",D,4.7,1.48,7.93,5.74
+29,"What is the distance between ""Al Bar Restaurant"" and ""سوق البحار"" in the Dubai area?",C,5.38,14.43,9.03,11.13
+30,"What is the distance between ""DineBest"" and ""Dampa Feast"" in the Dubai area?",C,14.69,14.99,8.77,12.12
+31,"What is the distance between ""Makeen"" and ""District Cooling Plant"" in the Dubai area?",D,2.5,12.54,7.36,9.92
+32,"What is the distance between ""Shahi Mughdal Restaurant"" and ""Jones the Grocer"" in the Dubai area?",C,17.4,19.16,22.77,15.71
+33,"What is the distance between ""Lucknow Restaurant"" and ""Rumaan Hyderabad"" in the Dubai area?",B,7.21,11.46,15.41,15.49
+34,"What is the distance between ""Residence 23"" and ""Leopards Courier"" in the Dubai area?",A,18.23,12.36,19.14,19.87
+35,"What is the distance between ""DX Team Fitness"" and ""Indian Summer"" in the Dubai area?",B,24.29,17.8,21.71,19.05
+36,"What is the distance between ""Kitchen6"" and ""Le Parisien"" in the Dubai area?",D,22.08,23.88,13.83,17.35
+37,"What is the distance between ""Mazaya 10B"" and ""Seif"" in the Dubai area?",B,24.16,16.65,19.43,22.29
+38,"What is the distance between ""SellAnyCar.com"" and ""Eazy Moving Storage"" in the Dubai area?",D,9.78,5.3,5.17,1.94
+39,"What is the distance between ""Al Wala Rent a Car"" and ""Cocoon Nursery"" in the Dubai area?",A,14.19,13.26,20.1,20.94
+40,"What is the distance between ""اينوك"" and ""Taif Al Khaleej Coffee Shop"" in the Dubai area?",C,11.87,14.45,6.51,13.3
+41,"What is the distance between ""Jambo's Grill Cafe"" and ""Al Hamriya Building"" in the Dubai area?",D,6.4,2.58,4.03,1.15
+42,"What is the distance between ""Super Haveli Roll"" and ""Alma Polyclinic"" in the Dubai area?",C,8.76,13.2,14.32,16.17
+43,"What is the distance between ""Masti"" and ""Costa"" in the Dubai area?",C,17.79,22.08,16.24,18.6
+44,"What is the distance between ""Chili's"" and ""Rawal Pandi Restaurant"" in the Dubai area?",B,4.6,0.53,6.37,6.34
+45,"What is the distance between ""ADNIF"" and ""Domino's"" in the Dubai area?",B,2.88,5.84,1.22,11.55
+46,"What is the distance between ""Emirates NBD ATM"" and ""Grandiose spmk parking"" in the Dubai area?",D,11.03,9.14,22.58,15.92
+47,"What is the distance between ""Danube Home"" and ""Mosque"" in the Dubai area?",B,19.69,26.14,19.37,23.54
+48,"What is the distance between ""El Amoor"" and ""Bourn Hall Clinic"" in the Dubai area?",D,11.25,16.44,10.25,15.38
+49,"What is the distance between ""مطعم إيران زمين"" and ""Seven Hills"" in the Dubai area?",B,18.37,22.35,23.53,19.21
+50,"What is the distance between ""Body Fitness"" and ""Shri Krishna Bhavan"" in the Dubai area?",A,1.27,2.23,4.99,7.82
+51,"What is the distance between ""Bin Sina Pharmacy"" and ""1762 Stripped"" in the Dubai area?",D,5.88,8.8,5.74,10.01
+52,"What is the distance between ""Calisthenics Park"" and ""Sidra 1"" in the Dubai area?",C,5.84,11.82,10.58,18.1
+53,"What is the distance between ""Jones the Grocer"" and ""Dubai Duty Free Currency Exchange"" in the Dubai area?",A,26.89,24.49,19.89,24.46
+54,"What is the distance between ""Karate & Yoga Center"" and ""The butcher shop & grill"" in the Dubai area?",D,20.67,7.03,19.6,14.23
+55,"What is the distance between ""Cafe Devino"" and ""ماكدونالدز"" in the Dubai area?",D,24.52,22.59,13.72,18.55
+56,"What is the distance between ""Careem Bike"" and ""Reif"" in the Dubai area?",B,3.82,2.9,9.28,9.48
+57,"What is the distance between ""British Pub"" and ""Sarhad"" in the Dubai area?",C,18.24,17.01,13.82,8.92
+58,"What is the distance between ""Liz Restaurant"" and ""Barfly by Buddha-Bar Dubai"" in the Dubai area?",D,15.54,19.72,20.93,22.83
+59,"What is the distance between ""Malabar Makhan Restaurant"" and ""Eisbej Dog Park"" in the Dubai area?",D,22.99,24.65,24.37,30.24
+60,"What is the distance between ""Marina Mall (Water Bus)"" and ""W.Select"" in the Dubai area?",D,20.13,16.48,20.1,24.0
+61,"What is the distance between ""Charcoal Garden restaurant and cafe"" and ""The Venue"" in the Dubai area?",D,19.01,9.14,9.35,16.06
+62,"What is the distance between ""Dubai Driving Center"" and ""Poke & Co"" in the Dubai area?",A,10.33,13.1,17.02,17.14
+63,"What is the distance between ""دبي مول"" and ""Creek Parking"" in the Dubai area?",B,10.67,8.19,12.22,6.36
+64,"What is the distance between ""McDavid's Restaurant"" and ""RTA Public Parking"" in the Dubai area?",C,5.13,8.8,0.97,6.51
+65,"What is the distance between ""Roar"" and ""Careem Bike"" in the Dubai area?",D,18.88,10.89,13.59,15.83
+66,"What is the distance between ""Eisbej Dog Park"" and ""Al Khail Medical Center"" in the Dubai area?",B,9.46,7.57,5.28,13.05
+67,"What is the distance between ""Shopping Centre"" and ""Horizon"" in the Dubai area?",B,24.69,18.59,23.91,21.59
+68,"What is the distance between ""Azizi Riviera 58"" and ""Wecare Wrap Kitchen Wrapping"" in the Dubai area?",B,5.03,10.82,5.29,13.36
+69,"What is the distance between ""IKEA"" and ""Palm Views West"" in the Dubai area?",A,25.18,19.39,19.49,20.67
+70,"What is the distance between ""Just Play"" and ""Landmark Restaurant"" in the Dubai area?",C,8.3,8.65,2.21,9.19
+71,"What is the distance between ""Acai & Co."" and ""Dubai Homeopathy Health Centre"" in the Dubai area?",C,3.56,7.22,5.89,2.94
+72,"What is the distance between ""Dr. Tom Nassar"" and ""Kaltumi Restuarant"" in the Dubai area?",C,6.3,14.92,13.86,19.13
+73,"What is the distance between ""ماكدونالدز"" and ""Al Madina Rental"" in the Dubai area?",A,10.97,6.79,18.28,18.82
+74,"What is the distance between ""Cinema Parking Dubai Mall"" and ""The Coffee Club"" in the Dubai area?",C,16.46,5.31,11.75,18.85
+75,"What is the distance between ""Al Karama Medical Fitness Center"" and ""دانكن دونتس"" in the Dubai area?",B,10.94,6.1,13.31,14.05
+76,"What is the distance between ""Zaroob"" and ""Sugar Bae"" in the Dubai area?",B,16.72,18.33,24.06,22.37
+77,"What is the distance between ""Anwaar Medical Center"" and ""L’eto"" in the Dubai area?",B,0.63,2.41,8.96,1.42
+78,"What is the distance between ""Wadi Al Reem Cafe"" and ""Sbarro;DHL"" in the Dubai area?",B,13.4,6.71,9.02,8.96
+79,"What is the distance between ""BQ - French Kitchen & Bar"" and ""Sadaf Persian Restaurant"" in the Dubai area?",B,0.56,4.38,9.78,9.45
+80,"What is the distance between ""Karamteena"" and ""دجاج كنتاكي"" in the Dubai area?",C,23.47,9.53,16.36,21.77
+81,"What is the distance between ""Real Pilates JLT"" and ""Najimuddin Teastall"" in the Dubai area?",C,22.75,24.67,27.63,20.6
+82,"What is the distance between ""Dino's"" and ""Pizza Hut"" in the Dubai area?",C,19.22,22.62,26.17,23.31
+83,"What is the distance between ""Solaire 17"" and ""منازل"" in the Dubai area?",C,5.51,8.26,2.56,10.33
+84,"What is the distance between ""Meokja"" and ""Double Decker Pub"" in the Dubai area?",D,13.47,5.85,8.16,10.29
+85,"What is the distance between ""Protec"" and ""Taste of Arabia"" in the Dubai area?",D,6.48,8.89,14.67,7.47
+86,"What is the distance between ""Veri Peri Portuguese Grill"" and ""Bikanerwala Restaurant and Sweet"" in the Dubai area?",A,2.68,9.69,8.11,8.92
+87,"What is the distance between ""Khalid Hasan Abdulla Restaurant"" and ""Bosporus"" in the Dubai area?",B,24.51,29.72,23.49,24.27
+88,"What is the distance between ""Dubai Duty Free Currency Exchange"" and ""The Underground"" in the Dubai area?",D,23.44,23.85,21.03,28.55
+89,"What is the distance between ""Bluemart"" and ""Al Ain Center"" in the Dubai area?",B,8.33,13.0,19.0,10.59
+90,"What is the distance between ""Horizon"" and ""Empower Energy Solutions, Tecom cp1"" in the Dubai area?",D,12.64,2.49,8.24,6.32
+91,"What is the distance between ""Al Manama Sun Restaurant"" and ""Momo"" in the Dubai area?",A,8.79,2.15,13.69,10.91
+92,"What is the distance between ""Boardwalk"" and ""Right Bite"" in the Dubai area?",A,14.59,11.47,19.6,18.19
+93,"What is the distance between ""Shang Thai"" and ""Pop City"" in the Dubai area?",B,13.33,11.05,12.82,7.63
+94,"What is the distance between ""Marina Terrace (Water Bus)"" and ""Karachi Darbar"" in the Dubai area?",B,19.77,23.66,21.05,18.86
+95,"What is the distance between ""Byky Sports & Leisure Equipment Rental"" and ""Pearl View"" in the Dubai area?",A,1.55,6.79,9.52,5.65
+96,"What is the distance between ""The butcher shop & grill"" and ""Hor-Al-Anz Primary Health Centre"" in the Dubai area?",C,6.21,10.08,12.1,16.55
+97,"What is the distance between ""Sekher Medical Clinic"" and ""Marmar Al Madina Restaurant"" in the Dubai area?",A,14.57,18.44,15.77,20.92
+98,"What is the distance between ""Sweetheart Kitchen"" and ""Selya Rent A Car"" in the Dubai area?",D,13.61,5.66,11.45,7.87
+99,"What is the distance between ""Suvoroff"" and ""Villa"" in the Dubai area?",B,9.75,1.86,9.63,6.32
+100,"What is the distance between ""Delegata"" and ""Chubby Cheeks Nursery"" in the Dubai area?",C,3.45,1.71,0.63,7.39
+101,"What is the distance between ""Wind West Home"" and ""Besix/Six Construct"" in the Dubai area?",C,7.05,0.72,5.32,10.75
+102,"What is the distance between ""Al Khan Pharmacy"" and ""Sweetheart Kitchen"" in the Dubai area?",C,24.33,21.26,27.77,23.68
+103,"What is the distance between ""Karak Time"" and ""Al Madaen Rent a Car"" in the Dubai area?",A,5.66,4.34,1.93,10.06
+104,"What is the distance between ""Ybala Wrq Enab Cafeteria"" and ""Haji Pharmacy"" in the Dubai area?",A,11.95,18.71,8.8,18.62
+105,"What is the distance between ""البرشاء"" and ""دبي مول"" in the Dubai area?",A,13.87,8.62,10.93,19.84
+106,"What is the distance between ""Sukh Sagar"" and ""Ybala Wrq Enab Cafeteria"" in the Dubai area?",D,19.0,5.9,19.91,12.14
+107,"What is the distance between ""Modern Vet"" and ""Cremolata"" in the Dubai area?",B,9.53,10.94,16.21,17.59
+108,"What is the distance between ""Wokinn"" and ""Chili's"" in the Dubai area?",C,23.19,24.59,20.68,23.25
+109,"What is the distance between ""Brummanah Restaurant and Cafe"" and ""Al Warda Al Dahabiya Coffee"" in the Dubai area?",A,4.18,3.26,2.16,7.49
+110,"What is the distance between ""Parking 5"" and ""Rainbow 3"" in the Dubai area?",B,20.31,23.61,20.18,16.16
+111,"What is the distance between ""Kaltumi Restuarant"" and ""Charcoal Garden restaurant and cafe"" in the Dubai area?",C,21.96,17.83,25.34,23.37
+112,"What is the distance between ""Popeyes"" and ""Sultan Dubai Falafel Restaurant"" in the Dubai area?",A,22.46,19.72,17.83,21.52
+113,"What is the distance between ""District 18"" and ""Al Nahda Views"" in the Dubai area?",C,24.73,24.37,32.24,24.72
+114,"What is the distance between ""Civil Defence Station Al Rashidiya"" and ""Dafoos Technical Services"" in the Dubai area?",C,16.33,20.86,18.35,16.59
+115,"What is the distance between ""Sultan Dubai Falafel Restaurant"" and ""Reform Social & Grill"" in the Dubai area?",A,26.06,24.63,18.31,20.12
+116,"What is the distance between ""Kids Playing Area 3"" and ""Al Wala Rent a Car"" in the Dubai area?",D,13.8,24.69,14.09,20.07
+117,"What is the distance between ""IchiRyu Ramen House"" and ""Avis"" in the Dubai area?",C,11.14,5.17,3.91,5.03
+118,"What is the distance between ""Wecare Wrap Kitchen Wrapping"" and ""Protec"" in the Dubai area?",D,5.81,5.45,4.38,0.81
+119,"What is the distance between ""Signature Villas Frond K, Palm Jumeirah"" and ""مدينة صحارى الطبية"" in the Dubai area?",A,31.97,24.77,24.44,24.96
+120,"What is the distance between ""Donaza"" and ""Al Fanar Restaurant & Café"" in the Dubai area?",A,8.44,5.43,13.4,7.07
+121,"What is the distance between ""Escape House"" and ""Fujiya Restaurant"" in the Dubai area?",A,12.83,5.55,5.86,14.22
+122,"What is the distance between ""Skafos, Al Seef Dubai"" and ""مطعم سلة الصياد"" in the Dubai area?",B,10.33,2.47,6.23,4.42
+123,"What is the distance between ""RAK Bank ATM"" and ""Veri Peri Portuguese Grill"" in the Dubai area?",D,12.46,5.02,4.68,8.1
+124,"What is the distance between ""Anglers Apparel"" and ""Union Cooperative Supermarket"" in the Dubai area?",D,0.85,5.43,5.19,8.24
+125,"What is the distance between ""City Social"" and ""Happy Land Restaurant"" in the Dubai area?",C,21.38,23.72,27.02,22.71
+126,"What is the distance between ""Landmark Restaurant"" and ""Gulf Medical Centre"" in the Dubai area?",D,12.14,9.45,19.06,16.86
+127,"What is the distance between ""Jetty Lounge - One & Only"" and ""Camel Car Wash"" in the Dubai area?",B,3.78,11.22,18.66,7.25
+128,"What is the distance between ""Bank Saderat Iran"" and ""Health Spa & Fitness Center"" in the Dubai area?",C,11.04,19.8,17.24,16.29
+129,"What is the distance between ""Pearl View"" and ""Kabab Erbil Iraqi Restaurant Al Muraqqabat"" in the Dubai area?",C,13.72,22.61,20.44,24.44
+130,"What is the distance between ""Al Ain Center"" and ""Belhoul Group"" in the Dubai area?",B,1.18,4.66,10.28,0.77
+131,"What is the distance between ""Green View Residence 1"" and ""Sunrise Building"" in the Dubai area?",C,16.46,13.14,20.78,22.3
+132,"What is the distance between ""Dhe Swagat Cafe"" and ""Bostea"" in the Dubai area?",D,14.19,1.67,10.34,7.9
+133,"What is the distance between ""Mirdif Pharmacy"" and ""Wadi Darbar"" in the Dubai area?",B,12.52,5.96,10.8,5.03
+134,"What is the distance between ""Al Rolla"" and ""بيروت"" in the Dubai area?",A,2.41,8.36,0.7,1.12
+135,"What is the distance between ""Laguna Waterpark"" and ""Ajmal's Perfume Manufacturing & Oudh Processing"" in the Dubai area?",C,5.44,17.1,11.74,6.38
+136,"What is the distance between ""Seif"" and ""Calisthenics Park"" in the Dubai area?",B,14.02,19.02,21.42,23.82
+137,"What is the distance between ""al turath Al maghiribi"" and ""Cotti Coffee"" in the Dubai area?",D,2.87,1.66,10.75,4.68
+138,"What is the distance between ""Sbarro;DHL"" and ""El Amoor"" in the Dubai area?",C,16.28,14.4,18.33,22.86
+139,"What is the distance between ""Villa"" and ""Dubai Islamic Bank ATM"" in the Dubai area?",A,26.18,21.95,22.53,22.28
+140,"What is the distance between ""فلل سبليندور"" and ""Jumeriah Garden 3"" in the Dubai area?",C,13.27,9.5,6.73,8.26
+141,"What is the distance between ""Panorma Grand Hotel"" and ""ذا فيوز 1"" in the Dubai area?",B,20.47,22.07,18.75,15.3
+142,"What is the distance between ""Tipanan Restaurant"" and ""Rental Cars Dubai - Claviscar"" in the Dubai area?",A,2.41,6.1,5.47,9.6
+143,"What is the distance between ""Grills Corner"" and ""Theatre by QE2"" in the Dubai area?",D,13.35,12.59,14.94,9.41
+144,"What is the distance between ""Rainbow 3"" and ""Signature Villas Frond K, Palm Jumeirah"" in the Dubai area?",D,23.06,24.76,24.97,30.99
+145,"What is the distance between ""Empower Energy Solutions, Tecom cp1"" and ""Zoom"" in the Dubai area?",B,13.19,10.85,12.37,13.09
+146,"What is the distance between ""Al Ustad Special Kabab"" and ""Dr. MIchael's Orthodontic Center"" in the Dubai area?",D,20.03,21.06,21.79,14.02
+147,"What is the distance between ""Cremolata"" and ""Zaroob"" in the Dubai area?",A,9.97,12.39,6.08,11.65
+148,"What is the distance between ""Koko Strom"" and ""Dhe Swagat Cafe"" in the Dubai area?",C,22.63,18.47,21.14,23.64
+149,"What is the distance between ""Baskin-Robbins"" and ""Suvoroff"" in the Dubai area?",B,18.5,24.73,19.36,21.78
+150,"What is the distance between ""Limonata"" and ""مدرسة أبو حنيفة للتعليم الاساسي"" in the Dubai area?",A,12.88,18.28,7.97,10.46
+151,"What is the distance between ""Summit Hotel"" and ""Millenium Tower"" in the Dubai area?",C,11.14,16.13,9.43,17.32
+152,"What is the distance between ""Zouzou"" and ""Rental Cars UAE - Dubai"" in the Dubai area?",A,8.7,1.0,3.61,14.94
+153,"What is the distance between ""Alma Polyclinic"" and ""McDavid's Restaurant"" in the Dubai area?",A,17.55,14.4,21.51,11.9
+154,"What is the distance between ""Dubai Driving Centre - Road Test"" and ""ذا ويستن"" in the Dubai area?",A,7.53,13.26,12.35,3.3
+155,"What is the distance between ""% Arabica"" and ""Golden Fork"" in the Dubai area?",A,13.81,11.97,21.12,17.64
+156,"What is the distance between ""مدينة صحارى الطبية"" and ""Laguna Waterpark"" in the Dubai area?",C,14.88,20.7,13.68,17.06
+157,"What is the distance between ""Yateem Group"" and ""مدينة دبي للإعلام"" in the Dubai area?",C,0.91,4.63,8.35,3.15
+158,"What is the distance between ""Tong Thai"" and ""Al Madina"" in the Dubai area?",D,7.57,18.74,14.48,11.75
+159,"What is the distance between ""The Observatory"" and ""IchiRyu Ramen House"" in the Dubai area?",C,24.69,16.2,22.06,20.39
+160,"What is the distance between ""Pop City"" and ""next level"" in the Dubai area?",A,22.89,20.82,17.45,18.91
+161,"What is the distance between ""Marvelous Rent A Car"" and ""Folly by Nick&Scott"" in the Dubai area?",B,21.74,23.41,15.49,16.04
+162,"What is the distance between ""Grosvenor House"" and ""2"" in the Dubai area?",C,22.02,13.09,19.14,14.31
+163,"What is the distance between ""Costa"" and ""Spinneys Park"" in the Dubai area?",A,1.4,6.97,7.71,3.7
+164,"What is the distance between ""Oasis Restaurant"" and ""Modern Vet"" in the Dubai area?",B,13.15,12.05,18.76,16.88
+165,"What is the distance between ""Clemenceau Medical Center"" and ""Tea Garden Cafeteria LLC"" in the Dubai area?",A,9.82,8.75,2.55,16.01
+166,"What is the distance between ""ذا ويستن"" and ""Kind Care Medical Centre"" in the Dubai area?",D,15.18,10.02,2.58,7.97
+167,"What is the distance between ""Matar Rashid Building"" and ""Khalidia Palace Hotel Dubai by Mourouj Gloria"" in the Dubai area?",D,12.74,2.92,2.83,5.3
+168,"What is the distance between ""مدرسة الصفا الثانوية"" and ""Dubai Creek Harbour Sales Center"" in the Dubai area?",C,16.2,15.8,9.35,2.5
+169,"What is the distance between ""1762 Stripped"" and ""Super Haveli Roll"" in the Dubai area?",A,24.44,17.87,21.28,21.69
+170,"What is the distance between ""Pressman's"" and ""مطعم مرمريس التركي"" in the Dubai area?",B,24.78,26.94,21.48,20.36
+171,"What is the distance between ""Al Madina Rental"" and ""Monaco Café & Cafeteria"" in the Dubai area?",B,17.13,18.92,23.39,20.37
+172,"What is the distance between ""Dubai Islamic Bank"" and ""Marshal Fitness"" in the Dubai area?",C,1.24,13.15,8.68,11.52
+173,"What is the distance between ""Frozen Rolls Ice Cream"" and ""Ayyam Al Khair"" in the Dubai area?",D,18.66,21.42,21.07,26.6
+174,"What is the distance between ""Autojet Rent A Car"" and ""Eat and Drink Restaurant"" in the Dubai area?",D,7.36,7.95,3.8,2.13
+175,"What is the distance between ""مسجد الرقة"" and ""West zone warehouse"" in the Dubai area?",C,6.48,0.96,5.0,6.81
+176,"What is the distance between ""Tasty Manna"" and ""Sayad Bahar"" in the Dubai area?",D,8.26,8.46,4.91,3.08
+177,"What is the distance between ""Palm Views West"" and ""Solaire 17"" in the Dubai area?",D,13.56,17.08,17.94,19.33
+178,"What is the distance between ""Telecommunications And Digital Government Regulatory Authority (TDRA)"" and ""Hyatt Golf Park"" in the Dubai area?",C,7.52,6.21,4.56,1.19
+179,"What is the distance between ""Le Parisien"" and ""Cinque"" in the Dubai area?",C,1.08,4.34,3.36,6.41
+180,"What is the distance between ""The Venue"" and ""Tasty Manna"" in the Dubai area?",A,10.13,5.19,11.79,8.24
+181,"What is the distance between ""الخليج التجاري"" and ""Alqusais Garage"" in the Dubai area?",D,11.45,16.88,23.52,15.96
+182,"What is the distance between ""Bilal bin Rabah Mosque"" and ""Heera Technical Works"" in the Dubai area?",A,19.82,16.54,21.38,21.98
+183,"What is the distance between ""Masafi 2"" and ""Road 66"" in the Dubai area?",D,6.04,9.49,0.62,2.16
+184,"What is the distance between ""Dafoos Technical Services"" and ""Al Nokhitha Building"" in the Dubai area?",C,18.22,19.35,21.95,15.0
+185,"What is the distance between ""Karachi Darbar"" and ""Burj Al Hamam 2x1"" in the Dubai area?",D,20.87,22.37,18.19,24.61
+186,"What is the distance between ""Wadi Darbar"" and ""dip n dip Jumeirah"" in the Dubai area?",D,11.33,11.91,2.55,7.05
+187,"What is the distance between ""مطعم القبائل"" and ""Mexican Grill"" in the Dubai area?",A,2.48,8.88,9.89,0.52
+188,"What is the distance between ""Al Basha restaurant"" and ""Jetty Lounge - One & Only"" in the Dubai area?",C,23.74,21.82,22.81,19.48
+189,"What is the distance between ""ICCA Dubai"" and ""Shakespeare & Co"" in the Dubai area?",D,2.64,6.68,5.13,1.58
+190,"What is the distance between ""Keerthi Restaurant"" and ""Wokinn"" in the Dubai area?",A,16.6,21.2,9.37,14.5
+191,"What is the distance between ""mv 46711"" and ""Gothai Restaurant"" in the Dubai area?",D,8.65,18.2,10.83,13.15
+192,"What is the distance between ""Falooda World"" and ""Mirdif Pharmacy"" in the Dubai area?",B,9.37,3.77,10.43,6.83
+193,"What is the distance between ""District Cooling Plant"" and ""سوق التأمين"" in the Dubai area?",D,6.7,17.43,5.99,11.8
+194,"What is the distance between ""Al Amoor Falafel"" and ""ProWash"" in the Dubai area?",D,24.14,21.87,21.32,27.17
+195,"What is the distance between ""Sadaf Persian Restaurant"" and ""Clemenceau Medical Center"" in the Dubai area?",C,6.53,5.66,4.08,9.23
+196,"What is the distance between ""Taif Al Khaleej Coffee Shop"" and ""Subway"" in the Dubai area?",B,9.96,8.58,15.84,5.44
+197,"What is the distance between ""Al Manara Pharmacy"" and ""City Social"" in the Dubai area?",B,23.4,25.15,21.2,22.16
+198,"What is the distance between ""Mosque"" and ""The Club"" in the Dubai area?",D,14.3,14.22,9.96,12.41
+199,"What is the distance between ""Mak's Corner"" and ""Galadari"" in the Dubai area?",D,6.13,6.48,2.81,1.6
+200,"What is the distance between ""Monaco Café & Cafeteria"" and ""Al Mamzar"" in the Dubai area?",C,1.32,4.78,6.33,0.75
+201,"What is the distance between ""Bostea"" and ""RAK Bank ATM"" in the Dubai area?",C,14.39,13.58,6.41,9.7
+202,"What is the distance between ""Belhoul Group"" and ""قناة دبي"" in the Dubai area?",B,15.19,12.39,5.98,16.21
+203,"What is the distance between ""Raheeb Cafeteria"" and ""IL Forno"" in the Dubai area?",B,6.5,1.67,6.16,8.74
+204,"What is the distance between ""Molecular Biology and Genetics Laboratory"" and ""JLT Cluster E"" in the Dubai area?",B,19.15,21.51,22.9,18.06
+205,"What is the distance between ""Seven Stones"" and ""Al Safadi"" in the Dubai area?",C,24.71,23.58,17.06,18.11
+206,"What is the distance between ""Ard Zaytoon"" and ""Grills Corner"" in the Dubai area?",D,16.38,7.09,6.86,13.78
+207,"What is the distance between ""Utility"" and ""Al Rabia Tower"" in the Dubai area?",D,10.33,20.35,18.4,17.47
+208,"What is the distance between ""Al Ahram Pharmacy"" and ""waha community"" in the Dubai area?",D,12.49,16.87,12.92,10.51
+209,"What is the distance between ""Drip Burgers"" and ""Masti"" in the Dubai area?",D,18.19,12.29,19.61,14.85
+210,"What is the distance between ""Samantha Cafè"" and ""UAE Aikido"" in the Dubai area?",A,19.93,15.48,24.64,16.23
+211,"What is the distance between ""Samari Building 1"" and ""Cinema Parking Dubai Mall"" in the Dubai area?",D,15.17,2.75,13.99,9.97
+212,"What is the distance between ""Al Warda Al Dahabiya Coffee"" and ""Whack Wini"" in the Dubai area?",C,18.19,18.55,23.51,16.56
+213,"What is the distance between ""Papa John's"" and ""DX Team Fitness"" in the Dubai area?",A,4.56,2.39,0.77,2.03
+214,"What is the distance between ""Hayat"" and ""Moosa Rent A Car"" in the Dubai area?",A,21.98,15.85,18.85,15.65
+215,"What is the distance between ""TAZA Sheikh Zayed Restaurant"" and ""Hardee's"" in the Dubai area?",A,7.29,2.0,10.07,1.39
+216,"What is the distance between ""ArabLink Exchange Bur Dubai Branch"" and ""Pancake House International"" in the Dubai area?",C,9.33,6.36,1.58,6.81
+217,"What is the distance between ""Ghar Ka Tiffin"" and ""Cafe Devino"" in the Dubai area?",B,3.05,1.41,5.01,7.83
+218,"What is the distance between ""National Bank of Fujairah"" and ""Bluemart"" in the Dubai area?",C,10.42,18.35,13.18,8.23
+219,"What is the distance between ""Abdulla Mohd Yousuf Restaurant"" and ""HealthBay Polyclinic"" in the Dubai area?",A,17.51,14.36,13.83,13.49
+220,"What is the distance between ""waha community"" and ""Tony rama"" in the Dubai area?",A,10.0,14.77,7.28,7.46
+221,"What is the distance between ""Hardee's"" and ""Star One Restaurant"" in the Dubai area?",D,21.62,6.69,7.35,14.51
+222,"What is the distance between ""Health Spa & Fitness Center"" and ""Khalid Hasan Abdulla Restaurant"" in the Dubai area?",C,16.3,21.04,13.53,9.56
+223,"What is the distance between ""Barfly by Buddha-Bar Dubai"" and ""Oasis Restaurant"" in the Dubai area?",B,5.27,9.86,10.93,13.88
+224,"What is the distance between ""Al Madaen Rent a Car"" and ""Asian Street by Thai"" in the Dubai area?",A,28.66,23.72,22.59,22.34
+225,"What is the distance between ""Nahawand"" and ""Kids Playing Area 3"" in the Dubai area?",D,16.63,15.76,15.06,13.62
+226,"What is the distance between ""Selya Rent A Car"" and ""The Tap House"" in the Dubai area?",D,1.45,12.97,11.01,9.31
+227,"What is the distance between ""Villa Amalfi"" and ""Creek Beach"" in the Dubai area?",A,11.4,15.36,5.09,16.04
+228,"What is the distance between ""ENOC Car Wash"" and ""المدينة الأكاديمية"" in the Dubai area?",B,16.51,20.98,16.14,13.51
+229,"What is the distance between ""Fisherman's Wharf"" and ""Al Plaza Pharmacy"" in the Dubai area?",A,20.54,21.74,14.64,15.29
+230,"What is the distance between ""Denny's"" and ""Doner Kebab"" in the Dubai area?",B,24.06,20.33,14.43,12.45
+231,"What is the distance between ""سوبر ماركت فتح بطاقه دبي"" and ""DineBest"" in the Dubai area?",D,5.18,9.11,5.68,7.61
+232,"What is the distance between ""VOX Cinemas"" and ""Autojet Rent A Car"" in the Dubai area?",B,11.91,18.74,11.03,15.24
+233,"What is the distance between ""Lobster Pot"" and ""Anwaar Medical Center"" in the Dubai area?",B,11.49,18.7,15.02,19.75
+234,"What is the distance between ""Al Arif Auto Repairing Garage"" and ""مدرسة الصفا الثانوية"" in the Dubai area?",A,18.08,11.53,19.87,11.46
+235,"What is the distance between ""منازل"" and ""Molecular Biology and Genetics Laboratory"" in the Dubai area?",B,10.45,4.49,8.54,7.07
+236,"What is the distance between ""بيروت"" and ""Sweet Corn"" in the Dubai area?",D,24.02,15.08,14.34,20.06
+237,"What is the distance between ""Thuraya Tower"" and ""فلل سبليندور"" in the Dubai area?",A,10.31,16.32,4.79,2.98
+238,"What is the distance between ""Shree Anandhaas & Aryaas Vegetarian Restaurant"" and ""Delegata"" in the Dubai area?",D,19.2,17.59,23.75,21.98
+239,"What is the distance between ""المدينة الأكاديمية"" and ""Hako Sushi JLT cluster I"" in the Dubai area?",A,25.27,19.87,17.76,20.51
+240,"What is the distance between ""Golden Fork Seafood Restaurant Al Barsha"" and ""Tong Thai"" in the Dubai area?",D,17.67,12.35,16.42,10.57
+241,"What is the distance between ""Kabab Erbil Iraqi Restaurant Al Muraqqabat"" and ""Tapa King"" in the Dubai area?",A,2.43,4.21,4.3,4.98
+242,"What is the distance between ""Zoom"" and ""Emirates Transport"" in the Dubai area?",C,7.66,19.25,13.79,14.8
+243,"What is the distance between ""Cielo Sky Lounge"" and ""Limonata"" in the Dubai area?",B,16.06,23.96,22.65,20.0
+244,"What is the distance between ""Al Rabia Tower"" and ""Mazaya 12"" in the Dubai area?",D,10.31,11.72,1.64,4.76
+245,"What is the distance between ""Cinque"" and ""VOX Cinemas"" in the Dubai area?",C,15.05,19.34,22.78,14.89
+246,"What is the distance between ""AL Fakher Mandi & Traditional Food Restaurant"" and ""Meokja"" in the Dubai area?",B,9.44,4.05,6.33,10.72
+247,"What is the distance between ""Maxzi"" and ""armada pharmacy"" in the Dubai area?",A,7.2,11.34,14.74,2.91
+248,"What is the distance between ""ذا فيوز 2"" and ""Burger King"" in the Dubai area?",A,25.19,21.79,18.12,18.94
+249,"What is the distance between ""Bosporus"" and ""Farooj"" in the Dubai area?",A,28.87,23.89,24.34,21.26
+250,"What is the distance between ""National Refreshment Company"" and ""Dubai Monthly Car Rental"" in the Dubai area?",B,6.7,12.03,7.46,14.52
+251,"What is the distance between ""ذا فيوز 1"" and ""Al Owais building C Block"" in the Dubai area?",A,24.58,23.0,23.11,18.46
+252,"What is the distance between ""AWZ International"" and ""Stone Gallery"" in the Dubai area?",A,22.59,19.24,24.59,21.55
+253,"What is the distance between ""Shri Krishna Bhavan"" and ""Shami"" in the Dubai area?",A,23.75,21.09,18.9,17.14
+254,"What is the distance between ""Hako Sushi JLT cluster I"" and ""TAZA Sheikh Zayed Restaurant"" in the Dubai area?",C,19.8,13.64,20.9,15.26
+255,"What is the distance between ""Bait Al Mandi Restaurant"" and ""Marina Mall (Water Bus)"" in the Dubai area?",A,7.75,6.84,9.05,10.53
+256,"What is the distance between ""Bldg 1"" and ""Villa Amalfi"" in the Dubai area?",D,13.48,14.41,13.04,18.65
+257,"What is the distance between ""Hampton's Cafe"" and ""Karate & Yoga Center"" in the Dubai area?",A,28.13,24.44,23.58,21.61
+258,"What is the distance between ""دانكن دونتس"" and ""UAE Exchange"" in the Dubai area?",A,9.43,11.58,1.58,17.14
+259,"What is the distance between ""Tiba Rent -A- Car"" and ""Ghar Ka Tiffin"" in the Dubai area?",D,24.69,22.82,24.15,29.32
+260,"What is the distance between ""2"" and ""Dr. Hala Fadli Dermatology & Laser Clinic"" in the Dubai area?",C,2.56,2.47,9.34,2.87
+261,"What is the distance between ""Tony rama"" and ""Body Fitness"" in the Dubai area?",C,0.87,1.11,3.54,5.12
+262,"What is the distance between ""Shooters Billiard Cafe"" and ""Xiao Wei Yang International Restaurant"" in the Dubai area?",A,25.53,21.4,20.55,20.61
+263,"What is the distance between ""مجمّع الذهب والألماس"" and ""Anglers Apparel"" in the Dubai area?",C,10.06,1.45,2.66,10.6
+264,"What is the distance between ""Al Nahda Views"" and ""Makeen"" in the Dubai area?",C,13.61,8.06,5.79,2.03
+265,"What is the distance between ""Chubby Cheeks Nursery"" and ""Denny's"" in the Dubai area?",D,16.52,19.04,19.94,23.64
+266,"What is the distance between ""Bourn Hall Clinic"" and ""Karamteena"" in the Dubai area?",B,14.57,19.7,15.45,13.16
+267,"What is the distance between ""City Port Cafe"" and ""Zouzou"" in the Dubai area?",C,11.47,11.72,19.31,20.56
+268,"What is the distance between ""Paavo's Pizza"" and ""Red Rooster"" in the Dubai area?",A,22.15,17.57,24.35,18.82
+269,"What is the distance between ""مطعم مرمريس التركي"" and ""مول الإمارات"" in the Dubai area?",B,11.24,3.86,11.02,10.2
+270,"What is the distance between ""Ayyam Al Khair"" and ""Liz Restaurant"" in the Dubai area?",A,3.08,4.56,11.06,0.84
+271,"What is the distance between ""Domino's"" and ""Al Manama Sun Restaurant"" in the Dubai area?",B,4.53,3.24,9.65,8.64
+272,"What is the distance between ""Taco Taco"" and ""Medicina"" in the Dubai area?",D,20.82,19.55,15.8,14.21
+273,"What is the distance between ""Haji Pharmacy"" and ""HLG Umar"" in the Dubai area?",A,16.19,9.32,9.83,21.66
+274,"What is the distance between ""Millenium Tower"" and ""Bilal bin Rabah Mosque"" in the Dubai area?",A,10.01,13.21,12.66,6.06
+275,"What is the distance between ""Red Rooster"" and ""Just Play"" in the Dubai area?",A,10.5,8.0,16.13,6.76
+276,"What is the distance between ""Camel Car Wash"" and ""Lucknow Restaurant"" in the Dubai area?",C,5.82,9.29,1.54,6.22
+277,"What is the distance between ""Spinneys Park"" and ""Frozen Rolls Ice Cream"" in the Dubai area?",C,4.76,8.29,0.59,1.96
+278,"What is the distance between ""Villeroy & Boch"" and ""Grosvenor House"" in the Dubai area?",B,24.0,27.91,20.93,21.08
+279,"What is the distance between ""The Club"" and ""Star Grills"" in the Dubai area?",B,4.44,10.29,17.22,12.97
+280,"What is the distance between ""ProWash"" and ""Al Basha restaurant"" in the Dubai area?",D,21.96,18.44,16.27,20.6
+281,"What is the distance between ""Al Owais building C Block"" and ""Belhasa Motors"" in the Dubai area?",C,12.19,8.14,6.61,12.17
+282,"What is the distance between ""Heera Technical Works"" and ""Telecommunications And Digital Government Regulatory Authority (TDRA)"" in the Dubai area?",A,22.97,19.1,17.39,20.79
+283,"What is the distance between ""IL Forno"" and ""Masala Mantra"" in the Dubai area?",C,21.96,19.92,26.7,22.11
+284,"What is the distance between ""Al Ghurair Exchange"" and ""Al Manara Pharmacy"" in the Dubai area?",C,16.85,21.71,19.24,16.66
+285,"What is the distance between ""Dubai Homeopathy Health Centre"" and ""Dream Dubai"" in the Dubai area?",D,11.91,1.3,5.7,4.0
+286,"What is the distance between ""Dubai Library"" and ""AWZ International"" in the Dubai area?",B,12.15,5.3,10.74,6.36
+287,"What is the distance between ""Reform Social & Grill"" and ""Al Mariyam Building"" in the Dubai area?",A,24.08,20.73,22.87,21.31
+288,"What is the distance between ""W.Select"" and ""Shabaka & Senara Fish Restaurant"" in the Dubai area?",B,14.27,19.43,12.62,23.1
+289,"What is the distance between ""Leopards Courier"" and ""Ghinwa Restaurant and Cafe"" in the Dubai area?",C,24.82,12.96,17.86,22.83
+290,"What is the distance between ""Reif"" and ""Emirates swimming pool"" in the Dubai area?",C,3.0,12.17,9.05,11.39
+291,"What is the distance between ""Tierra Marble International"" and ""Burj Plaza"" in the Dubai area?",C,11.94,14.35,9.39,4.09
+292,"What is the distance between ""JLT Cluster E"" and ""مقبرة الرقة"" in the Dubai area?",A,27.7,24.56,21.75,23.11
+293,"What is the distance between ""Sarhad"" and ""Al Karama Medical Fitness Center"" in the Dubai area?",B,18.12,15.19,10.48,12.84
+294,"What is the distance between ""Sidra 1"" and ""IKEA"" in the Dubai area?",D,22.34,23.57,16.6,18.21
+295,"What is the distance between ""سوق التأمين"" and ""Masafi 2"" in the Dubai area?",D,24.11,21.4,24.21,26.53
+296,"What is the distance between ""Al Shoala Building"" and ""Shopping Centre"" in the Dubai area?",B,8.77,0.81,2.37,3.32
+297,"What is the distance between ""Folly by Nick&Scott"" and ""مطعم إيران زمين"" in the Dubai area?",D,12.93,1.3,10.06,6.83
+298,"What is the distance between ""Kareem's"" and ""Sukh Sagar"" in the Dubai area?",C,8.53,6.35,2.34,3.37
+299,"What is the distance between ""Rental Cars UAE - Dubai"" and ""Falooda World"" in the Dubai area?",B,8.82,3.56,6.74,9.31
+300,"What is the distance between ""Al Muraqqabat Police Station"" and ""مجمّع الذهب والألماس"" in the Dubai area?",C,14.09,15.23,20.03,23.93
+301,"What is the distance between ""Galadari"" and ""Lokmat Baladna"" in the Dubai area?",A,24.11,16.86,19.36,21.41
+302,"What is the distance between ""hor al anz postoffice"" and ""Hard Rock Cafe"" in the Dubai area?",B,11.51,4.35,10.86,8.27
+303,"What is the distance between ""Dubai Monthly Car Rental"" and ""Al Muraqqabat Police Station"" in the Dubai area?",C,1.97,10.9,3.79,8.1
+304,"What is the distance between ""HealthBay Polyclinic"" and ""Al Aweer Star Restaurant"" in the Dubai area?",C,6.35,16.19,12.66,10.12
+305,"What is the distance between ""Gothai Restaurant"" and ""Mak's Corner"" in the Dubai area?",B,6.68,2.55,8.75,9.47
+306,"What is the distance between ""Doner Kebab"" and ""Shahi Mughdal Restaurant"" in the Dubai area?",D,22.6,16.43,16.59,18.41
+307,"What is the distance between ""Dubai Smile Dental Clinic"" and ""Al Madawala Exchange"" in the Dubai area?",A,6.92,5.79,10.27,2.86
+308,"What is the distance between ""Residence"" and ""Wind West Home"" in the Dubai area?",C,8.52,9.66,2.67,4.66
+309,"What is the distance between ""Rental Cars UAE"" and ""Dubai Driving Center"" in the Dubai area?",A,28.07,23.5,24.71,22.72
+310,"What is the distance between ""dip n dip Jumeirah"" and ""Olive Oil"" in the Dubai area?",B,5.3,7.26,13.25,12.38
+311,"What is the distance between ""Jumeriah Garden 3"" and ""Wellness Village substation"" in the Dubai area?",D,11.87,2.74,6.43,5.02
+312,"What is the distance between ""ستاربكس"" and ""Lobster Pot"" in the Dubai area?",C,16.42,21.47,14.54,21.27
+313,"What is the distance between ""Dubai Bowling Centre"" and ""Acai & Co."" in the Dubai area?",C,9.84,5.26,4.0,9.74
+314,"What is the distance between ""Kind Care Medical Centre"" and ""Tierra Marble International"" in the Dubai area?",C,2.22,10.92,3.88,6.86
+315,"What is the distance between ""HLG Umar"" and ""Keerthi Restaurant"" in the Dubai area?",C,20.74,20.23,16.14,15.05
+316,"What is the distance between ""مقبرة الرقة"" and ""Hobby Centre"" in the Dubai area?",C,4.22,9.6,6.56,1.43
+317,"What is the distance between ""Happy Land Restaurant"" and ""Dr. Tom Nassar"" in the Dubai area?",B,17.27,14.72,12.76,16.26
+318,"What is the distance between ""RTA Public Parking"" and ""مطعم القبائل"" in the Dubai area?",D,12.84,12.42,16.84,13.96
+319,"What is the distance between ""Cocoon Nursery"" and ""Tipanan Restaurant"" in the Dubai area?",A,8.26,6.8,15.81,1.28
+320,"What is the distance between ""Ijaza Cafeteria"" and ""Green hills Indian Restaurant"" in the Dubai area?",A,19.19,12.27,15.62,20.61
+321,"What is the distance between ""Fratelli la Bufala 2x1"" and ""British Pub"" in the Dubai area?",B,0.68,8.08,10.55,10.62
+322,"What is the distance between ""The Manhattan"" and ""ذا تيراسز"" in the Dubai area?",C,19.46,20.25,14.94,12.58
+323,"What is the distance between ""دجاج كنتاكي"" and ""RakBank"" in the Dubai area?",B,8.47,2.16,0.57,3.61
+324,"What is the distance between ""Grandiose spmk parking"" and ""The Observatory"" in the Dubai area?",B,17.03,24.14,18.95,20.0
+325,"What is the distance between ""Masala Mantra"" and ""Papa John's"" in the Dubai area?",B,13.09,6.77,4.61,7.77
+326,"What is the distance between ""Whack Wini"" and ""ArabLink Exchange Bur Dubai Branch"" in the Dubai area?",A,22.07,19.59,23.82,24.99
+327,"What is the distance between ""Subway"" and ""Al Ghurair Exchange"" in the Dubai area?",B,11.45,8.67,4.48,1.9
+328,"What is the distance between ""AbuHail Gym"" and ""Hayat"" in the Dubai area?",B,1.71,4.04,1.37,6.33
+329,"What is the distance between ""Al Khail Medical Center"" and ""Restaurant"" in the Dubai area?",A,21.26,19.76,24.93,15.65
+330,"What is the distance between ""Hobby Centre"" and ""الغاندي للسيارات"" in the Dubai area?",C,16.13,11.42,19.37,13.06
+331,"What is the distance between ""The Oberoi Hotel"" and ""Dubai Driving Centre - Road Test"" in the Dubai area?",D,14.6,7.24,9.72,8.37
+332,"What is the distance between ""Mexican Grill"" and ""Infinity Fountain of AL Seef"" in the Dubai area?",B,7.63,9.35,2.66,15.37
+333,"What is the distance between ""Road 66"" and ""Utility structure"" in the Dubai area?",D,23.82,23.83,23.75,31.46
+334,"What is the distance between ""Indiawale Al fahidi"" and ""Al Rolla"" in the Dubai area?",A,1.36,5.1,7.24,3.8
+335,"What is the distance between ""مطعم ليلى اللبناني"" and ""Emirates NBD ATM"" in the Dubai area?",D,3.41,17.7,7.09,10.18
+336,"What is the distance between ""UAE Exchange"" and ""Life"" in the Dubai area?",D,9.01,12.39,8.67,4.41
+337,"What is the distance between ""Satwa Small API 301"" and ""الخليج التجاري"" in the Dubai area?",C,9.48,11.59,4.63,10.9
+338,"What is the distance between ""UAE Aikido"" and ""Hampton's Cafe"" in the Dubai area?",D,13.84,0.58,9.8,7.55
+339,"What is the distance between ""Shakespeare & Co"" and ""Sekher Medical Clinic"" in the Dubai area?",D,5.0,14.16,7.77,11.36
+340,"What is the distance between ""Union Cooperative Supermarket"" and ""Residence"" in the Dubai area?",A,13.74,14.83,16.54,15.39
+341,"What is the distance between ""Wellness Village substation"" and ""SellAnyCar.com"" in the Dubai area?",A,15.29,18.11,17.55,20.42
+342,"What is the distance between ""McDonald's"" and ""Dubai Smile Dental Clinic"" in the Dubai area?",A,1.21,2.76,5.06,2.93
+343,"What is the distance between ""The Fish & Chips room"" and ""Pappa Rotti"" in the Dubai area?",D,2.42,7.25,6.61,1.27
+344,"What is the distance between ""Burger King"" and ""Conrad Dubai"" in the Dubai area?",B,6.92,9.68,2.01,13.96
+345,"What is the distance between ""Bulgari Residences - Building 3"" and ""Al Khalij Enterprises"" in the Dubai area?",C,12.71,18.61,10.64,8.38
+346,"What is the distance between ""RakBank"" and ""Escape House"" in the Dubai area?",A,3.52,4.61,10.39,0.66
+347,"What is the distance between ""Bikanerwala Restaurant and Sweet"" and ""Samantha Cafè"" in the Dubai area?",B,6.56,3.11,8.3,4.82
+348,"What is the distance between ""Al Rageh Internet Cafe"" and ""Boardwalk"" in the Dubai area?",B,7.36,4.19,2.14,1.53
+349,"What is the distance between ""Indian Summer"" and ""Drip Burgers"" in the Dubai area?",C,14.56,18.07,21.24,22.5
+350,"What is the distance between ""Al Safadi"" and ""Selate"" in the Dubai area?",A,4.64,8.65,1.05,6.75
+351,"What is the distance between ""Fresh & Nice Cafeteria"" and ""Bin Sina Pharmacy"" in the Dubai area?",C,23.53,21.43,18.7,20.47
+352,"What is the distance between ""garhoud complex tennis court"" and ""Welcome Hotel Apartments"" in the Dubai area?",A,2.66,10.02,8.55,10.55
+353,"What is the distance between ""جامعة جميرا"" and ""Villeroy & Boch"" in the Dubai area?",B,21.88,15.71,14.37,8.19
+354,"What is the distance between ""Taste of Arabia"" and ""Jaddaf Star"" in the Dubai area?",A,11.24,12.87,6.05,12.83
+355,"What is the distance between ""Ballers"" and ""District 18"" in the Dubai area?",C,11.45,9.23,17.2,11.01
+356,"What is the distance between ""Emirates swimming pool"" and ""ENOC Car Wash"" in the Dubai area?",D,20.61,19.73,24.01,17.83
+357,"What is the distance between ""حديقة الصفا"" and ""Azizi Riviera 58"" in the Dubai area?",D,9.71,4.95,4.11,7.14
+358,"What is the distance between ""Al Khalij Enterprises"" and ""Al Sabah Tower"" in the Dubai area?",B,21.47,25.41,19.28,22.69
+359,"What is the distance between ""Medicina"" and ""Maxzi"" in the Dubai area?",D,19.64,8.88,18.67,14.2
+360,"What is the distance between ""Sweet Corn"" and ""Baskin-Robbins"" in the Dubai area?",D,19.86,15.54,14.54,21.54
+361,"What is the distance between ""Al Sabah Tower"" and ""The Manhattan"" in the Dubai area?",D,23.31,22.11,22.8,29.98
+362,"What is the distance between ""Double Decker Pub"" and ""Fit Worx"" in the Dubai area?",D,14.81,6.52,0.83,7.91
+363,"What is the distance between ""Al Plaza Pharmacy"" and ""Real Pilates JLT"" in the Dubai area?",A,21.0,22.28,24.61,19.26
+364,"What is the distance between ""Al Madina"" and ""Shooters Billiard Cafe"" in the Dubai area?",D,21.31,24.16,23.53,27.04
+365,"What is the distance between ""King's Collage Health Clinic"" and ""Bert's Cafe"" in the Dubai area?",D,13.09,6.22,4.02,8.76
+366,"What is the distance between ""Infinity Fountain of AL Seef"" and ""Krispy Kreme"" in the Dubai area?",B,15.8,12.0,19.15,4.5
+367,"What is the distance between ""West zone warehouse"" and ""Paradise Residence"" in the Dubai area?",A,8.64,14.27,0.75,11.8
+368,"What is the distance between ""Conrad Dubai"" and ""Al Bar Restaurant"" in the Dubai area?",A,12.35,10.85,15.32,14.92
+369,"What is the distance between ""The Underground"" and ""Siomai House"" in the Dubai area?",A,24.73,21.95,17.3,20.07
+370,"What is the distance between ""Paradise Residence"" and ""National Bank of Fujairah"" in the Dubai area?",C,11.87,6.04,4.29,12.11
+371,"What is the distance between ""Panoor"" and ""King's Collage Health Clinic"" in the Dubai area?",B,15.66,22.97,19.31,15.98
+372,"What is the distance between ""Savoy Central Hotel Apartments"" and ""Bulgari Residences - Building 3"" in the Dubai area?",B,3.76,7.69,14.6,6.34
+373,"What is the distance between ""الغاندي للسيارات"" and ""Ruby"" in the Dubai area?",A,7.45,11.59,5.59,5.55
+374,"What is the distance between ""Al Mariyam Building"" and ""Wadi Al Reem Cafe"" in the Dubai area?",D,2.55,9.71,13.6,6.35
+375,"What is the distance between ""Bank of Baroda"" and ""Dubai Bowling Centre"" in the Dubai area?",D,3.68,14.41,5.13,10.57
+376,"What is the distance between ""Siomai House"" and ""Bank Saderat Iran"" in the Dubai area?",A,1.63,6.66,4.29,3.92
+377,"What is the distance between ""Green hills Indian Restaurant"" and ""Shree Anandhaas & Aryaas Vegetarian Restaurant"" in the Dubai area?",D,0.97,4.47,3.85,2.84
+378,"What is the distance between ""Lokmat Baladna"" and ""Shehar-e-Karachi Restaurant"" in the Dubai area?",A,11.31,14.05,19.08,12.86
+379,"What is the distance between ""next level"" and ""Al Ahram Pharmacy"" in the Dubai area?",B,10.69,6.24,7.93,1.51
+380,"What is the distance between ""Pak Almadina Restaurant"" and ""Cielo Sky Lounge"" in the Dubai area?",C,9.51,7.71,3.62,8.68
+381,"What is the distance between ""Sayad Bahar"" and ""Dubai Islamic Bank"" in the Dubai area?",D,14.12,10.26,9.1,6.45
+382,"What is the distance between ""Rumaan Hyderabad"" and ""Al Rostamani International Exchange"" in the Dubai area?",D,2.93,7.06,4.79,0.95
+383,"What is the distance between ""Farooj"" and ""Byky Sports & Leisure Equipment Rental"" in the Dubai area?",B,15.95,22.44,24.26,18.88
+384,"What is the distance between ""Ajmal's Perfume Manufacturing & Oudh Processing"" and ""Auris Inn Al Muhanna"" in the Dubai area?",A,6.05,12.68,1.38,3.75
+385,"What is the distance between ""Alqusais Garage"" and ""Thuraya Tower"" in the Dubai area?",D,21.96,21.81,21.46,29.42
+386,"What is the distance between ""The Coffee Club"" and ""AL Fakher Mandi & Traditional Food Restaurant"" in the Dubai area?",A,3.09,1.68,10.35,7.85
+387,"What is the distance between ""Creek Beach"" and ""Yateem Group"" in the Dubai area?",A,15.08,21.72,8.37,22.81
+388,"What is the distance between ""Najimuddin Teastall"" and ""Al Siraj Restaurant"" in the Dubai area?",B,5.0,3.07,4.99,5.33
+389,"What is the distance between ""Rental Cars Dubai - Claviscar"" and ""اينوك"" in the Dubai area?",B,14.1,9.42,15.93,15.84
+390,"What is the distance between ""ذا تيراسز"" and ""Utility"" in the Dubai area?",B,10.92,15.3,18.12,22.73
+391,"What is the distance between ""Hor-Al-Anz Primary Health Centre"" and ""Al Soueida Grocery"" in the Dubai area?",A,16.95,12.22,13.29,12.62
+392,"What is the distance between ""Dubai Islamic Bank ATM"" and ""Raheeb Cafeteria"" in the Dubai area?",C,5.71,5.12,10.98,13.35
+393,"What is the distance between ""Hyatt Golf Park"" and ""Adamas"" in the Dubai area?",A,19.39,24.47,15.48,14.56
+394,"What is the distance between ""Al Mamzar"" and ""Al Ras Public Library"" in the Dubai area?",B,10.39,2.77,9.52,10.36
+395,"What is the distance between ""قناة دبي"" and ""garhoud complex tennis court"" in the Dubai area?",B,7.06,12.55,20.18,4.59
+396,"What is the distance between ""Stone Gallery"" and ""Matar Rashid Building"" in the Dubai area?",A,14.24,11.16,6.77,17.94
+397,"What is the distance between ""Gate 1"" and ""Ballers"" in the Dubai area?",A,12.73,10.57,18.23,6.2
+398,"What is the distance between ""Marshal Fitness"" and ""Golden Fork Seafood Restaurant Al Barsha"" in the Dubai area?",D,16.21,21.5,19.19,20.49
+399,"What is the distance between ""Eat and Drink Restaurant"" and ""Pak Almadina Restaurant"" in the Dubai area?",C,22.89,14.31,21.31,17.05
+400,"What is the distance between ""Ghinwa Restaurant and Cafe"" and ""Mamlakat Al Jamal"" in the Dubai area?",D,11.24,2.3,7.3,4.82
+401,"What is the distance between ""Al Madawala Exchange"" and ""Donaza"" in the Dubai area?",A,7.52,14.62,12.64,14.73
+402,"What is the distance between ""Mamlakat Al Jamal"" and ""Mazaya 10B"" in the Dubai area?",A,15.03,16.13,7.41,7.49
+403,"What is the distance between ""Hard Rock Cafe"" and ""Wendy's"" in the Dubai area?",C,4.95,14.91,9.4,14.79
+404,"What is the distance between ""Pappa Rotti"" and ""Health First Pharmacy"" in the Dubai area?",A,8.71,2.16,3.91,11.98
+405,"What is the distance between ""Belhasa Motors"" and ""Dubai Library"" in the Dubai area?",D,10.37,11.61,1.81,3.64
+406,"What is the distance between ""L’eto"" and ""Fratelli la Bufala 2x1"" in the Dubai area?",A,9.39,15.28,10.45,2.14
+407,"What is the distance between ""Tea Garden Cafeteria LLC"" and ""مطعم ليلى اللبناني"" in the Dubai area?",A,14.52,11.65,18.7,9.74
+408,"What is the distance between ""Al Hamba Restaurant"" and ""Starbucks"" in the Dubai area?",A,13.69,16.17,8.35,16.14
+409,"What is the distance between ""الغبيبة"" and ""Panoor"" in the Dubai area?",A,9.92,2.64,5.96,6.07
+410,"What is the distance between ""Right Bite"" and ""Dino's"" in the Dubai area?",C,2.62,12.92,9.86,15.88
+411,"What is the distance between ""Al Hamriya Building"" and ""Marina Terrace (Water Bus)"" in the Dubai area?",C,17.67,19.85,24.85,19.04
+412,"What is the distance between ""Dukem"" and ""hor al anz postoffice"" in the Dubai area?",A,2.01,1.1,0.97,0.75
+413,"What is the distance between ""Rawal Pandi Restaurant"" and ""% Arabica"" in the Dubai area?",A,14.7,11.01,15.89,9.69
+414,"What is the distance between ""Xennya Terrace"" and ""Taco Taco"" in the Dubai area?",D,18.71,17.53,15.34,12.83
+415,"What is the distance between ""Marmar Al Madina Restaurant"" and ""Karak Time"" in the Dubai area?",B,1.78,6.11,5.05,7.67
+416,"What is the distance between ""Asian Street by Thai"" and ""Kareem's"" in the Dubai area?",B,20.17,25.56,20.92,20.47
+417,"What is the distance between ""Eazy Moving Storage"" and ""Residence 23"" in the Dubai area?",B,3.97,8.13,10.45,0.76
+418,"What is the distance between ""Besix/Six Construct"" and ""Savoy Central Hotel Apartments"" in the Dubai area?",C,20.97,8.86,15.96,19.38
+419,"What is the distance between ""Ruby"" and ""Gate 1"" in the Dubai area?",A,23.65,21.62,21.73,18.56
+420,"What is the distance between ""Dubai Creek Harbour Sales Center"" and ""National Refreshment Company"" in the Dubai area?",C,14.68,14.84,9.78,3.48
+421,"What is the distance between ""Tapa King"" and ""Cylingas"" in the Dubai area?",C,12.26,10.5,16.15,8.26
+422,"What is the distance between ""Bert's Cafe"" and ""Dhamaal"" in the Dubai area?",C,24.47,17.96,22.82,15.94
+423,"What is the distance between ""Nemo Watersports Jetski & Flyboard"" and ""Al Khan Pharmacy"" in the Dubai area?",D,17.11,15.56,17.12,22.93
+424,"What is the distance between ""Selate"" and ""Al Ustad Special Kabab"" in the Dubai area?",D,8.18,11.45,4.95,10.24
+425,"What is the distance between ""Poke & Co"" and ""mv 46711"" in the Dubai area?",A,7.07,13.07,10.61,12.79
+426,"What is the distance between ""Al Siraj Restaurant"" and ""Nahawand"" in the Dubai area?",B,9.31,6.15,4.53,9.25
+427,"What is the distance between ""Burj Plaza"" and ""Al Shoala Building"" in the Dubai area?",D,12.91,10.23,2.08,9.13
+428,"What is the distance between ""Dr. MIchael's Orthodontic Center"" and ""Shang Thai"" in the Dubai area?",A,3.62,1.06,1.11,10.57
+429,"What is the distance between ""Starbucks"" and ""Koko Strom"" in the Dubai area?",D,7.75,9.07,8.68,3.3
+430,"What is the distance between ""Moosa Rent A Car"" and ""الغبيبة"" in the Dubai area?",A,20.37,23.78,15.71,24.96
+431,"What is the distance between ""Al Ras Public Library"" and ""Samari Building 1"" in the Dubai area?",B,9.81,12.76,19.56,5.83
+432,"What is the distance between ""Xiao Wei Yang International Restaurant"" and ""Paavo's Pizza"" in the Dubai area?",A,27.56,21.43,21.3,21.22
+433,"What is the distance between ""بوليفارد"" and ""مسجد الرقة"" in the Dubai area?",B,15.48,8.54,5.21,13.95
+434,"What is the distance between ""Seven Hills"" and ""Fresh & Nice Cafeteria"" in the Dubai area?",A,12.49,8.24,10.49,9.95
+435,"What is the distance between ""Emirates Transport"" and ""ذا فيوز 2"" in the Dubai area?",B,23.17,25.22,18.76,21.2
+436,"What is the distance between ""Utility structure"" and ""Al Arif Auto Repairing Garage"" in the Dubai area?",C,24.9,24.45,32.31,24.73
+437,"What is the distance between ""Musabbeh Mohammed Al Mansoori"" and ""Brummanah Restaurant and Cafe"" in the Dubai area?",B,2.67,4.49,7.34,5.87
+438,"What is the distance between ""Golden Fork"" and ""Maraheb"" in the Dubai area?",C,4.64,2.49,6.19,2.72
+439,"What is the distance between ""Sunrise Building"" and ""Escala House"" in the Dubai area?",A,16.43,10.67,24.16,9.08
+440,"What is the distance between ""Yoko Sizzler"" and ""Popeyes"" in the Dubai area?",C,24.68,22.43,25.64,22.72
+441,"What is the distance between ""مدرسة أبو حنيفة للتعليم الاساسي"" and ""McDonald's"" in the Dubai area?",B,0.67,4.15,8.59,12.09
+442,"What is the distance between ""Health First Pharmacy"" and ""Marvelous Rent A Car"" in the Dubai area?",A,23.53,19.78,20.87,16.23
+443,"What is the distance between ""Cylingas"" and ""Yoko Sizzler"" in the Dubai area?",D,21.72,24.45,21.45,23.27
+444,"What is the distance between ""Jaddaf Star"" and ""Technical Architect Conracting"" in the Dubai area?",D,16.97,7.66,10.09,14.35
+445,"What is the distance between ""مدينة دبي للإعلام"" and ""Parking 5"" in the Dubai area?",A,16.27,23.28,18.91,19.53
+446,"What is the distance between ""Adamas"" and ""Satwa Small API 301"" in the Dubai area?",C,16.57,12.29,15.67,13.39
+447,"What is the distance between ""Dampa Feast"" and ""Jambo's Grill Cafe"" in the Dubai area?",C,4.42,3.27,0.85,3.15
+448,"What is the distance between ""Mazaya 12"" and ""Bldg 1"" in the Dubai area?",D,6.79,6.4,8.65,2.2
+449,"What is the distance between ""Al Rostamani International Exchange"" and ""Copper Kettle"" in the Dubai area?",D,23.82,24.88,19.0,21.42
+450,"What is the distance between ""Al Nokhitha Building"" and ""Summit Hotel"" in the Dubai area?",A,3.6,8.73,2.38,6.69
+451,"What is the distance between ""Al Fanar Restaurant & Café"" and ""The Fish & Chips room"" in the Dubai area?",C,19.16,21.5,26.18,19.63
+452,"What is the distance between ""Welcome Hotel Apartments"" and ""البرشاء"" in the Dubai area?",B,19.29,22.77,18.54,15.41
+453,"What is the distance between ""armada pharmacy"" and ""Al Hamba Restaurant"" in the Dubai area?",D,24.23,24.33,22.44,27.8
+454,"What is the distance between ""Al Aweer Star Restaurant"" and ""al turath Al maghiribi"" in the Dubai area?",D,14.07,15.19,1.73,7.24
+455,"What is the distance between ""RO4"" and ""جامعة جميرا"" in the Dubai area?",B,15.76,9.78,6.35,13.57
+456,"What is the distance between ""Krispy Kreme"" and ""Nemo Watersports Jetski & Flyboard"" in the Dubai area?",D,9.13,12.64,9.56,4.76
+457,"What is the distance between ""Al Soueida Grocery"" and ""Rental Cars UAE"" in the Dubai area?",D,11.51,17.92,19.36,14.12
+458,"What is the distance between ""Maraheb"" and ""Ijaza Cafeteria"" in the Dubai area?",B,5.76,13.27,7.51,10.52
+459,"What is the distance between ""Technical Architect Conracting"" and ""Danube Home"" in the Dubai area?",A,19.78,14.2,21.61,16.63
+460,"What is the distance between ""The Tap House"" and ""BQ - French Kitchen & Bar"" in the Dubai area?",C,14.78,10.18,13.57,8.36
+461,"What is the distance between ""Avis"" and ""Unwind Speciality Boardgame Cafe"" in the Dubai area?",D,18.95,18.65,22.09,16.04

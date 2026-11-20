@@ -1,0 +1,498 @@
+id,question,answer,A,B,C,D
+0,"What is the name of POI located at address: 清川橋, 清澄二丁目, 清澄, 江東区, 東京都, 135-0024, 日本?",C,ALBERATA,三井住友銀行,Kygnus,万世橋警察署
+1,"What is the name of POI located at address: 国立科学博物館附属自然教育園, プラチナ通り, 恵比寿三丁目, 白金台四丁目, 品川, 港区, 東京都, 108-0071, 日本?",A,Ntl Park Nature Study,勝林寺,エネオス,Gold's Gym
+2,"What is the name of POI located at address: 駒沢通り　新道坂, 上目黒一丁目, 恵比寿南, 目黒区, 東京都, 153-8622, 日本?",A,Autobacs Nakameguro,東京教会,マクドナルド,永福町天谷総合医院 (Eifuku-cho Amaya Medical Center)
+3,"What is the name of POI located at address: 新宿通り, 麹町三丁目, 麹町, 千代田区, 東京都, 102-0083, 日本?",D,くるみ整骨院,代田教会,磨ゐ土,スターバックス
+4,"What is the name of POI located at address: 東京都港区新橋2-15-5, 新橋仲通り, 新橋二丁目, 新橋, 港区, 東京都, 105-0004, 日本?",A,烏森神社,なか卯,Esso,松屋
+5,"What is the name of POI located at address: 3, 有楽町一丁目, 有楽町, 千代田区, 東京都, 100-0006, 日本?",B,恵比寿神社,東京宝塚劇場,昭和シェル,王子消防署
+6,"What is the name of POI located at address: 日比谷, 有楽町一丁目, 有楽町, 千代田区, 東京都, 100-0006, 日本?",C,救世軍渋谷小隊,渋谷三郵便局,日生劇場,BHARAT
+7,"What is the name of POI located at address: McDonald's, 外堀通り, 新橋一丁目, 新橋, 港区, 東京都, 105-0003, 日本?",D,東京バプテスト教会,ココカラファイン薬局,目黒駒場郵便局,マクドナルド
+8,"What is the name of POI located at address: 清澄通り, 豊海町, 中央区, 東京都, 104-0055, 日本?",C,魚菜　根津　呼友,チャングミ,中央豊海郵便局,えさき
+9,"What is the name of POI located at address: 晴海通り, 勝どき一丁目, 勝どき, 中央区, 東京都, 104-0054, 日本?",D,愛珠幼稚園,板橋警察署 上板橋駅前交番,日本キリスト教団 代々木上原教会,デニーズ
+10,"What is the name of POI located at address: 八ツ山通り, 北品川一丁目, 北品川, 品川区, 東京都, 108-8410, 日本?",D,みどりコミュニティセンター,東京ラーメン 大番,世田谷信用金庫 永福町,Shinagawa Parking Access
+11,"What is the name of POI located at address: 第一京浜, 高輪四丁目, 品川, 港区, 東京都, 108-8611, 日本?",A,けいすけラーメン,小鳥と小動物の病院,小林歯科医院,谷中区民館
+12,"What is the name of POI located at address: 第一京浜, 高輪四丁目, 品川, 港区, 東京都, 108-8611, 日本?",D,ENEOS,北沢税務署,寳福寺,つばめグリル
+13,"What is the name of POI located at address: 中山道, 板橋四丁目, 板橋, 板橋区, 東京都, 173-0004, 日本?",C,圓福寺,手打ちそば 山禅,珈琲館,MATOI
+14,"What is the name of POI located at address: 中山道, 板橋四丁目, 板橋, 板橋区, 東京都, 173-0004, 日本?",C,滝澤医院,世田谷区立 多聞幼稚園,三菱UFJ銀行,
+15,"What is the name of POI located at address: 軽子坂, 揚場町, 新宿区, 東京都, 675-0066, 日本?",D,ジョナサン,杉並浜田山郵便局,コスモ,スターバックス
+16,"What is the name of POI located at address: 代々木淀橋線, 代々木一丁目, 代々木, 渋谷区, 東京都, 151-0053, 日本?",D,後藤歯科医院,尾花,ENEOS,ドトールコーヒーショップ
+17,"What is the name of POI located at address: 庚申通り, 豊玉北五丁目, 練馬区, 東京都, 176-0012, 日本?",B,みずほ銀行,練馬警察署,喫茶・ギャラリー　りんごや,東京らっきょブラザーズ
+18,"What is the name of POI located at address: 駅前広場, 練馬一丁目, 練馬区, 東京都, 176-0001, 日本?",D,稲毛屋,ラーメン花月,ファーストキッチン,練馬タウンサイクル
+19,"What is the name of POI located at address: 外苑西通り, 神宮前二丁目, 神宮前, 渋谷区, 東京都, 150-0001, 日本?",B,三菱UFJ銀行,粥 「喜喜」,Cafe Hatopoppo,フォルクス 世田谷代田店
+20,"What is the name of POI located at address: 外苑西通り, 神宮前二丁目, 神宮前, 渋谷区, 東京都, 150-0001, 日本?",C,増田屋,世田谷消防署 宮の坂出張所,自家焙煎珈琲豆 「ルンバミーア」,三井住友銀行
+21,"What is the name of POI located at address: 外苑西通り, 神宮前二丁目, 神宮前, 渋谷区, 東京都, 150-0001, 日本?",C,マクドナルド,杉並浜田山郵便局,ヘンドリックス・カリー・バー,青山製図専門学校
+22,"What is the name of POI located at address: 外苑西通り, 神宮前三丁目, 神宮前, 渋谷区, 東京都, 150-0001, 日本?",A,えさき,くすりの早宮,スターバックス,Times24
+23,"What is the name of POI located at address: 環七通り, 代田, 世田谷区, 東京都, 155-0033, 日本?",A,フォルクス 世田谷代田店,元木挽橋際公衆便所,Couzt Cafe,けいすけラーメン
+24,"What is the name of POI located at address: 環七通り, 代田, 世田谷区, 東京都, 155-0033, 日本?",C,スターバックス,中田小児科クリニック,ドミノ,渋谷神南郵便局
+25,"What is the name of POI located at address: 上原公園, 上原仲通り, 上原二丁目, 上原, 渋谷区, 東京都, 151-0064, 日本?",B,Aflo french dining Tribes,渋谷区立上原社会教育館,浄土真宗 了然寺,清流寺
+26,"What is the name of POI located at address: 上原仲通り, 上原二丁目, 上原, 渋谷区, 東京都, 151-0064, 日本?",A,日本キリスト教団 代々木上原教会,ビレン,伏見山 正法寺,東京成徳大学中学・高等学校
+27,"What is the name of POI located at address: 井の頭通り, 上原三丁目, 上原, 渋谷区, 東京都, 151-0064, 日本?",C,打越天神北野神社,浜田山デンタルクリニック (Hamadayama Dental Clinic),天理教原宿分教団,シディーク
+28,"What is the name of POI located at address: 靖国通り, 神田須田町一丁目, 神田須田町, 千代田区, 東京都, 102-0000, 日本?",B,ジョリーパスタ,シディーク,ココス,フレッシュネスバーガー
+29,"What is the name of POI located at address: 北本通り, 王子四丁目, 王子, 北区, 東京都, 114-0002, 日本?",D,篠原稲荷神社,渋谷三郵便局,松乃家,王子消防署
+30,"What is the name of POI located at address: 神谷橋庚申通り商店会, 豊島八丁目, 豊島, 北区, 東京都, 114-8526, 日本?",A,城北信用金庫,晴海歯科,すき家,妙像寺
+31,"What is the name of POI located at address: 9号, 豊島八丁目, 豊島, 北区, 東京都, 114-8526, 日本?",D,から好し,歌志軒,和泉福音教会,東京成徳大学中学・高等学校
+32,"What is the name of POI located at address: 北本通り, 王子四丁目, 王子, 北区, 東京都, 114-8526, 日本?",B,自家焙煎珈琲豆 「ルンバミーア」,藍屋,南千住六丁目アパート,読売東京理工医療福祉専門学校
+33,"What is the name of POI located at address: 北本通り, 王子四丁目, 王子, 北区, 東京都, 114-8526, 日本?",A,吉野家,みずほ銀行,佐藤歯科,方南図書館
+34,"What is the name of POI located at address: 本郷赤羽線, 王子本町一丁目, 北区, 東京都, 114-8508, 日本?",B,エネオス,北区役所,法華宗 理性寺,日本キリスト教団 豊沢教会
+35,"What is the name of POI located at address: 甲州街道, 大原二丁目, 大原, 世田谷区, 東京都, 156-0041, 日本?",A,SHELL,Gold's Gym,東京成徳大学中学・高等学校,日本キリスト教団 豊沢教会
+36,"What is the name of POI located at address: 山手通り, 代々木四丁目, 代々木, 渋谷区, 東京都, 151-0053, 日本?",A,コスモ,月島,白山神社,杉並和泉二郵便局
+37,"What is the name of POI located at address: ウエストプロムナード, 青海二丁目, 青海, 江東区, 東京都, 135-0064, 日本?",C,向島消防団 第三分団本部,清水湯,SMBC,浄土真宗 了然寺
+38,"What is the name of POI located at address: 渋谷区特別区道893号線（補助18号線）, 恵比寿西一丁目, 恵比寿西, 渋谷区, 東京都, 150-0021, 日本?",C,小林整形外科医院,板橋警察署 上板橋駅前交番,ROYAL PALACE,マクドナルド
+39,"What is the name of POI located at address: 渋谷区特別区道893号線（補助18号線）, 恵比寿西一丁目, 恵比寿西, 渋谷区, 東京都, 150-0021, 日本?",A,駄菓子バー,珈琲館,琴の富士,乗泉寺 世田谷別院
+40,"What is the name of POI located at address: 渋谷区特別区道893号線（補助18号線）, 恵比寿西一丁目, 恵比寿西, 渋谷区, 東京都, 150-0021, 日本?",B,北沢タウンホール,恵比寿神社,山形医院,乗泉寺 世田谷別院
+41,"What is the name of POI located at address: 駒沢通り, 東三丁目, 恵比寿西一丁目, 恵比寿西, 渋谷区, 東京都, 150-0022, 日本?",C,惟神會本部,吉野家,みずほ銀行,ENEOS
+42,"What is the name of POI located at address: 夕やけ坂, 恵比寿西一丁目, 恵比寿西, 渋谷区, 東京都, 150-0021, 日本?",C,スターバックス,打越天神北野神社,小鳥と小動物の病院,フレッシュネスバーガー
+43,"What is the name of POI located at address: 弦巻通り, 用賀三丁目, 世田谷区, 東京都, 154-0015, 日本?",C,青山製図専門学校,高円寺肉汁うどん,ENEOS,ナンカレー
+44,"What is the name of POI located at address: 茶沢通り, 太子堂五丁目, 世田谷区, 東京都, 154-0004, 日本?",A,清水湯,神楽坂若宮八幡宮,ツルハドラッグ,赤堤幼稚園
+45,"What is the name of POI located at address: 井ノ頭通り, 浜田山三丁目, 浜田山, 杉並区, 東京都, 168-0065, 日本?",D,三菱UFJ銀行,栄寿司 (Sakae Sushi),駒込駅前交番,樺島病院
+46,"What is the name of POI located at address: 環八通り, 上用賀五丁目, 世田谷区, 東京都, 158-0098, 日本?",C,ココカラファイン薬局,焼肉　ホドリ,エネオス,杉並和泉二郵便局
+47,"What is the name of POI located at address: 井ノ頭通り, 浜田山三丁目, 浜田山, 杉並区, 東京都, 168-0065, 日本?",C,圓福寺,珈琲館,杉並西永福郵便局,世田谷ビジネススクエア (Setagaya Business Square)
+48,"What is the name of POI located at address: 駒場通り, 駒場二丁目, 目黒区, 東京都, 153-0041, 日本?",B,ケンタッキーフライドチキン,東京都立目黒区駒場東大前駅公衆便所,東京リバーサイド病院,應慶寺
+49,"What is the name of POI located at address: 言問通り, 上野桜木二丁目, 台東区, 東京都, 110-0002, 日本?",B,吉野家,パティシエ・イナムラショウゾウ,Taco Bell,昭和シェル
+50,"What is the name of POI located at address: 六本木通り, 六本木四丁目, 六本木, 麻布, 港区, 東京都, 106-8107, 日本?",C,代々木上原駅前交番,三輪里稲荷神社 （こんにゃく稲荷）,妙像寺,セイジョー
+51,"What is the name of POI located at address: 三田橋, 三田一丁目, 目黒区, 東京都, 153-8581, 日本?",A,三田丘の上公園,早稲田大学メディアネットワークセンター,まことや,ALBERATA
+52,"What is the name of POI located at address: 芝浦運河通り, 芝浦三丁目, 麻布, 港区, 東京都, 108-0023, 日本?",A,エクセルシオール,西武信用金庫,ガスト,南千住汐入歯科
+53,"What is the name of POI located at address: 2-15, 道路, 品川駅港南商店街, 品川, 港区, 東京都, 108-0075, 日本?",A,吉野家,ENEOS,世田谷信用金庫 永福町,吉田歯科
+54,"What is the name of POI located at address: 環七通り, 和泉一丁目, 和泉, 杉並区, 東京都, 168-0062, 日本?",D,紅蓮,青龍神社,興安寺,ENEOS
+55,"What is the name of POI located at address: 春日通り, 春日一丁目, 文京区, 東京都, 112-0003, 日本?",D,Big Boy,一二三,吉野家,小石川郵便局
+56,"What is the name of POI located at address: 本郷赤羽線, 王子本町一丁目, 北区, 東京都, 114-0022, 日本?",D,早稲田大学西早稲田キャンパス,エクセルシオール カフェ,ヘンドリックス・カリー・バー,北区立中央図書館
+57,"What is the name of POI located at address: 神谷橋庚申通り商店会, 王子五丁目, 王子, 北区, 東京都, 114-8526, 日本?",B,世田谷ビジネススクエア (Setagaya Business Square),後藤歯科医院,不二家レストラン,方南図書館
+58,"What is the name of POI located at address: 東京都立飛鳥高等学校, 北本通り, 王子三丁目, 王子, 北区, 東京都, 114-0002, 日本?",C,サイゼリヤ,朝生歯科医院,会計検査院王子書庫,中村外科医院
+59,"What is the name of POI located at address: 神楽坂通り, 神楽坂一丁目, 神楽坂, 新宿区, 東京都, 162-0825, 日本?",D,自家焙煎珈琲豆 「ルンバミーア」,毛塚,ナンカレー,モスバーガー
+60,"What is the name of POI located at address: 外堀通り, 神楽坂一丁目, 神楽坂, 市谷田町, 新宿区, 東京都, 160-8484, 日本?",D,東京らっきょブラザーズ,Cafe Hatopoppo,松乃家,東京理科大学
+61,"What is the name of POI located at address: 神楽坂通り, 神楽坂三丁目, 神楽坂, 新宿区, 東京都, 162-0825, 日本?",C,早稲田大学前,A&A認定ベクターワークスカフェジャパン,ロイヤルホスト,城北信用金庫
+62,"What is the name of POI located at address: 神楽坂通り, 神楽坂二丁目, 神楽坂, 新宿区, 東京都, 162-0825, 日本?",C,es Cafe / Dining,サブウェイ,牛しゃぶ　ますだや,本仏寺
+63,"What is the name of POI located at address: 神楽坂通り, 神楽坂二丁目, 神楽坂, 新宿区, 東京都, 162-0825, 日本?",C,中野中央一郵便局,和泉福音教会,Drop,樺島病院
+64,"What is the name of POI located at address: 神楽坂通り, 神楽坂二丁目, 神楽坂, 新宿区, 東京都, 162-0825, 日本?",D,尾花,NaCaSa,方南図書館,Grill&Wine RaySam
+65,"What is the name of POI located at address: 神楽坂通り, 神楽坂二丁目, 神楽坂, 新宿区, 東京都, 162-0825, 日本?",C,小松川警察署,エネオス,島ダイニング　潮彩,安安
+66,"What is the name of POI located at address: 見番横丁, 神楽坂三丁目, 神楽坂, 新宿区, 東京都, 162-0825, 日本?",A,Le moccot,佐藤薬局,日本ナザレン教団 下北沢キリスト教会,NaCaSa
+67,"What is the name of POI located at address: 見番横丁, 神楽坂三丁目, 神楽坂, 新宿区, 東京都, 162-0825, 日本?",D,樺島病院,後藤歯科医院,ENEOS,琴の富士
+68,"What is the name of POI located at address: 見番横丁, 神楽坂三丁目, 神楽坂, 新宿区, 東京都, 162-0825, 日本?",D,チャングミ,小鳥と小動物の病院,横浜家系 港屋ラーメン,KUROBA-TEI
+69,"What is the name of POI located at address: 見番横丁, 神楽坂三丁目, 神楽坂, 新宿区, 東京都, 162-0825, 日本?",C,スナック亜紀,ジョナサン,MATOI,東京東信用金庫 八広支店
+70,"What is the name of POI located at address: 見番横丁, 神楽坂三丁目, 神楽坂, 新宿区, 東京都, 162-0825, 日本?",A,ALBERATA,ユニバーサルドラッグ,スターバックス,ドトールコーヒーショップ
+71,"What is the name of POI located at address: 見番横丁, 神楽坂三丁目, 神楽坂, 新宿区, 東京都, 162-0825, 日本?",A,とんかつ　おかむら,代々木上原駅前交番,飯田橋郵便局,大隅記念タワー
+72,"What is the name of POI located at address: 見番横丁, 神楽坂三丁目, 神楽坂, 新宿区, 東京都, 162-0825, 日本?",D,飯田橋郵便局,東京聖テモテ教会,浄土真宗 了然寺,Aflo french dining Tribes
+73,"What is the name of POI located at address: 神楽坂通り, 神楽坂五丁目, 神楽坂, 新宿区, 東京都, 162-0825, 日本?",B,Le moccot,ちゃんこ　黒潮,モスバーガー,惟神會本部
+74,"What is the name of POI located at address: 新坂, 若宮町, 新宿区, 東京都, 160-8484, 日本?",D,日本キリスト教団 経堂緑岡教会,日生劇場,泉歯科 (Izumi Dental Office),神楽坂若宮八幡宮
+75,"What is the name of POI located at address: 瀬田貫井線, 永福一丁目, 永福, 杉並区, 東京都, 168-0064, 日本?",B,マツモトキヨシ,永福町駅前交番,代田橋中央診療所,慈眼院
+76,"What is the name of POI located at address: 瀬田貫井線, 永福一丁目, 永福, 杉並区, 東京都, 168-0064, 日本?",B,南千住汐入歯科,ENEOS,福昌寺,エネオス
+77,"What is the name of POI located at address: 井ノ頭通り, 和泉二丁目, 和泉, 杉並区, 東京都, 156-0063, 日本?",C,慈眼院,杉並区立 浜田山児童館,杉並和泉二郵便局,おやまだ
+78,"What is the name of POI located at address: ときわ通り, 常盤台三丁目, 上板橋三丁目, 上板橋, 板橋区, 東京都, 174-0076, 日本?",A,板橋警察署 上板橋駅前交番,三菱東京UFJ銀行,神楽坂若宮八幡宮,渋谷区立上原社会教育館
+79,"What is the name of POI located at address: 井ノ頭通り, 永福二丁目, 永福, 杉並区, 東京都, 168-0064, 日本?",A,三井住友銀行,ちゃんこ　黒潮,マクドナルド,練馬タウンサイクル
+80,"What is the name of POI located at address: 井ノ頭通り, 浜田山三丁目, 浜田山, 杉並区, 東京都, 168-0065, 日本?",C,ENEOS,恵比寿保育園,みずほ銀行,Couzt Cafe
+81,"What is the name of POI located at address: 靖国通り, 九段北三丁目, 九段北二丁目, 九段北, 千代田区, 東京都, 102-0073, 日本?",C,芝東照宮,大隅記念タワー,attic room YASUKUNI-GAIEN/cafe&dining,愛珠幼稚園
+82,"What is the name of POI located at address: 環状三号線, 麻布台三丁目, 芝三丁目, 麻布, 港区, 東京都, 105-8582, 日本?",B,朝生歯科医院,芝東照宮,中野保健所,杓子稲荷神社
+83,"What is the name of POI located at address: 早大通り, 早稲田鶴巻町, 馬場下町, 新宿区, 東京都, 160-8484, 日本?",A,早稲田大学メディアネットワークセンター,飯田橋郵便局,Esso,NaCaSa
+84,"What is the name of POI located at address: 早大通り, 早稲田鶴巻町, 馬場下町, 新宿区, 東京都, 160-8484, 日本?",A,早稲田鶴巻町パーキング,エネオス,マクドナルド,神田藪蕎麦 (Yabusoba)
+85,"What is the name of POI located at address: 早大通り, 早稲田鶴巻町, 馬場下町, 新宿区, 東京都, 160-8484, 日本?",B,琴の富士,早稲田大学前,ロイヤルホスト,スターバックス
+86,"What is the name of POI located at address: 早大通り, 早稲田鶴巻町, 戸塚町, 新宿区, 東京都, 160-8484, 日本?",A,CAT'S CRADLE,チャングミ,ドトールコーヒーショップ,西武信用金庫 浜田山支店
+87,"What is the name of POI located at address: 早大通り, 早稲田鶴巻町, 馬場下町, 新宿区, 東京都, 160-8484, 日本?",A,ビレン,浄土真宗 了然寺,滝澤医院,ENEOS
+88,"What is the name of POI located at address: 早大通り, 早稲田鶴巻町, 戸塚町, 新宿区, 東京都, 160-8484, 日本?",B,マクドナルド,磨ゐ土,代田橋中央診療所,鉢山公園
+89,"What is the name of POI located at address: 早大通り, 早稲田鶴巻町, 戸塚町, 新宿区, 東京都, 160-8484, 日本?",D,青龍神社,島ダイニング　潮彩,ロッテリア,立喰　はせ川
+90,"What is the name of POI located at address: 早大通り, 早稲田鶴巻町, 馬場下町, 新宿区, 東京都, 160-8484, 日本?",B,マツモトキヨシ,紅蓮,メルシー,練馬和光保育園
+91,"What is the name of POI located at address: 早大通り, 早稲田鶴巻町, 馬場下町, 新宿区, 東京都, 160-8484, 日本?",B,モスバーガー,大隅記念タワー,Kygnus,kitchen Old Bazar
+92,"What is the name of POI located at address: 馬場下町, 新宿区, 東京都, 160-8484, 日本?",D,ENEOS,十日森稲荷神社,鉢山公園,メルシー
+93,"What is the name of POI located at address: 酒場, すずらん通り, 羽根木, 松原一丁目, 世田谷区, 東京都, 156-0063, 日本?",A,ダンダダン,文殊院,真島稲荷神社,ラーメン花月
+94,"What is the name of POI located at address: 井ノ頭通り, 和泉三丁目, 和泉, 杉並区, 東京都, 168-0064, 日本?",A,三菱東京UFJ銀行,伏見山 正法寺,モスバーガー,es Cafe / Dining
+95,"What is the name of POI located at address: 早稲田通り, 馬場下町, 新宿区, 東京都, 160-8484, 日本?",C,NaCaSa,ジョナサン,歌志軒,杉並区立 和田堀会館
+96,"What is the name of POI located at address: 早稲田通り, 馬場下町, 新宿区, 東京都, 160-8484, 日本?",C,中野南台郵便局,宝仙ホール,焼肉　ホドリ,台東区立谷中コミュニティセンター
+97,"What is the name of POI located at address: 早稲田通り, 馬場下町, 新宿区, 東京都, 160-8484, 日本?",D,やなか珈琲店,Couzt Cafe,妙定院,東京らっきょブラザーズ
+98,"What is the name of POI located at address: 早稲田通り, 馬場下町, 新宿区, 東京都, 160-8484, 日本?",B,讃岐うどん すみた,吉村薬局,手打ちそば 山禅,KUROBA-TEI
+99,"What is the name of POI located at address: 早大通り, 早稲田鶴巻町, 馬場下町, 新宿区, 東京都, 160-8484, 日本?",B,聖ヶ丘教会,kitchen Old Bazar,カフェ・ベローチェ,尾崎熊野神社
+100,"What is the name of POI located at address: 井ノ頭通り, 浜田山三丁目, 浜田山, 杉並区, 東京都, 168-0065, 日本?",C,葛飾区立新宿図書センター,吉田歯科,三菱UFJ銀行,シディーク
+101,"What is the name of POI located at address: 井ノ頭通り, 浜田山三丁目, 浜田山, 杉並区, 東京都, 168-0065, 日本?",B,マクドナルド,から好し,デニーズ,尾崎熊野神社
+102,"What is the name of POI located at address: 人見街道, 浜田山三丁目, 浜田山, 杉並区, 東京都, 168-0065, 日本?",B,東京教会,きせきレディースクリニック,マクドナルド,日の出桟橋
+103,"What is the name of POI located at address: 瀬田貫井線, 和泉三丁目, 和泉, 杉並区, 東京都, 168-0064, 日本?",A,永福町 大勝軒,月島,三界寺,スターバックス
+104,"What is the name of POI located at address: 明大通り, 松原二丁目, 世田谷区, 東京都, 156-0043, 日本?",A,スターバックス,滝澤医院,マクドナルド,イオンシネマ
+105,"What is the name of POI located at address: 明大通り, 松原二丁目, 世田谷区, 東京都, 156-0063, 日本?",C,カフェ・ベローチェ,佐藤内科クリニック,昭和信用金庫,もりた歯科クリニック (Morita Dental Clinic)
+106,"What is the name of POI located at address: 人見街道, 浜田山三丁目, 浜田山, 杉並区, 東京都, 168-0065, 日本?",D,ココス,ドトールコーヒーショップ,すき家,ENEOS
+107,"What is the name of POI located at address: 井ノ頭通り, 浜田山三丁目, 浜田山, 杉並区, 東京都, 168-0065, 日本?",D,サカイ食堂,Lafayette St.,永福寺,西武信用金庫 浜田山支店
+108,"What is the name of POI located at address: 北沢川緑道, 赤堤二丁目, 世田谷区, 東京都, 154-0021, 日本?",B,磨ゐ土,天理教 南豊島分教会,法華宗 理性寺,チャングミ
+109,"What is the name of POI located at address: 西福寺通り, 経堂一丁目, 世田谷区, 東京都, 156-0051, 日本?",B,ロッテリア,みずほ銀行,きせきレディースクリニック,ココカラファイン薬局
+110,"What is the name of POI located at address: 春日通り, 小日向四丁目, 文京区, 東京都, 112-0012, 日本?",B,幸福の科学渋谷精舎,餃子の王将,マクドナルド,くるみ整骨院
+111,"What is the name of POI located at address: 下北沢南口商店街, 北沢二丁目, 北沢, 世田谷区, 東京都, 155-0031, 日本?",A,マクドナルド,読売東京理工医療福祉専門学校,くるみ整骨院,災害用飲用水給水所
+112,"What is the name of POI located at address: 瀬田貫井線, 和泉三丁目, 和泉, 杉並区, 東京都, 168-0064, 日本?",A,マツモトキヨシ,パティシエ・イナムラショウゾウ,飯田橋郵便局,ドトールコーヒーショップ
+113,"What is the name of POI located at address: 井ノ頭通り, 和泉三丁目, 和泉, 杉並区, 東京都, 168-0064, 日本?",C,氷川神社,ガスト,世田谷信用金庫 永福町,修誠館 剣道場
+114,"What is the name of POI located at address: 井ノ頭通り, 浜田山三丁目, 浜田山, 杉並区, 東京都, 168-0065, 日本?",A,浜田山キリスト教会,ケンタッキーフライドチキン,えさき,フレッシュネスバーガー
+115,"What is the name of POI located at address: 白山前橋, 成田東二丁目, 成田東, 杉並区, 東京都, 168-0061, 日本?",A,白山神社,フォルクス 世田谷代田店,渋谷福音教会,三田丘の上公園
+116,"What is the name of POI located at address: 瀬田貫井線, 松ノ木, 松ノ木二丁目, 杉並区, 東京都, 166-0014, 日本?",B,聖ヶ丘教会,ウエルシア (WELCIA),正覚寺,ENEOS
+117,"What is the name of POI located at address: 青梅街道, 成田東五丁目, 成田東, 高円寺, 杉並区, 東京都, 166-0004, 日本?",A,みずほ銀行,五大陸（Gotairiku),吉野家,高円寺肉汁うどん
+118,"What is the name of POI located at address: はなみずき通り, 南千住八丁目, 南千住, 荒川区, 東京都, 120-0025, 日本?",B,永福町駅前交番,東京リバーサイド病院,ココス,三井住友銀行
+119,"What is the name of POI located at address: 目黒通り, 鷹番一丁目, 目黒区, 東京都, 152-0003, 日本?",C,文殊院,清流寺,エネオス,海燕
+120,"What is the name of POI located at address: 瀬田貫井線, 永福一丁目, 永福, 杉並区, 東京都, 168-0064, 日本?",B,ジョナサン,杉並永福郵便局,ジョリーパスタ,魚菜　根津　呼友
+121,"What is the name of POI located at address: 瀬田貫井線, 永福一丁目, 永福, 杉並区, 東京都, 168-0064, 日本?",A,永福寺,CAT'S CRADLE,杉並区立 浜田山児童館,小林整形外科医院
+122,"What is the name of POI located at address: むつみばし, 浜田山一丁目, 下高井戸, 杉並区, 東京都, 168-0073, 日本?",B,渋谷区立上原社会教育館,八幡神社,らーめん せい家 経堂店,東京日石オートガス
+123,"What is the name of POI located at address: 環境省, 祝田通り, 霞が関一丁目, 霞が関, 千代田区, 東京都, 100-0013, 日本?",B,渋谷区立上原社会教育館,厚生労働省,世田谷梅丘郵便局,サブウェイ
+124,"What is the name of POI located at address: 人見街道, 浜田山三丁目, 浜田山, 杉並区, 東京都, 168-0065, 日本?",B,ENEOS,杉並浜田山郵便局,ケンタッキーフライドチキン,マクドナルド
+125,"What is the name of POI located at address: 浜田山歩道橋, 浜田山四丁目, 浜田山, 杉並区, 東京都, 168-0065, 日本?",B,手洗所,杉並区立 浜田山児童館,稲毛屋,根の津
+126,"What is the name of POI located at address: 日光街道, 南千住五丁目, 南千住, 荒川区, 東京都, 116-0003, 日本?",D,読売東京理工医療福祉専門学校,赤堤動物病院,代官山公園,南千住六丁目アパート
+127,"What is the name of POI located at address: 立教通り, 池袋三丁目, 西池袋五丁目, 豊島区, 東京都, 171-0043, 日本?",D,ふくみつ歯科医院,Las Chicas,エネオス,118立教通り歯科
+128,"What is the name of POI located at address: 立教通り, 池袋三丁目, 西池袋五丁目, 豊島区, 東京都, 171-0043, 日本?",D,千代田岩本町郵便局,東京聖テモテ教会,北沢タウンホール,佐藤薬局
+129,"What is the name of POI located at address: 明大通り, 松原二丁目, 世田谷区, 東京都, 156-0063, 日本?",B,青山製図専門学校,ココカラファイン,世田谷信用金庫 永福町,Aflo french dining Tribes
+130,"What is the name of POI located at address: 松原大山通り, 松原二丁目, 世田谷区, 東京都, 156-0043, 日本?",B,メルシー,伏見山 正法寺,レストナック幼稚園,東京教会
+131,"What is the name of POI located at address: 松原大山通り, 松原二丁目, 世田谷区, 東京都, 156-0043, 日本?",D,吉野家,スターバックス,城北信用金庫,勝林寺
+132,"What is the name of POI located at address: 松原大山通り, 松原二丁目, 世田谷区, 東京都, 156-0043, 日本?",C,尾花,日高屋,浄徳寺,A&A認定ベクターワークスカフェジャパン
+133,"What is the name of POI located at address: 松原大山通り, 松原二丁目, 世田谷区, 東京都, 156-0043, 日本?",B,Grill&Wine RaySam,延重寺,どらっぐぱぱす,クラップユアハンズ
+134,"What is the name of POI located at address: 都市計画道路補助第154号線（区役所西通り）, 羽根木, 松原六丁目, 世田谷区, 東京都, 154-0022, 日本?",A,北沢税務署,セイジョー,マクドナルド,一二三
+135,"What is the name of POI located at address: 環状2号線, 神田佐久間町一丁目, 外神田一丁目, 外神田, 千代田区, 東京都, 102-0000, 日本?",A,万世橋警察署,エネオス,尾花,安安
+136,"What is the name of POI located at address: 青梅街道, 梅里二丁目, 梅里, 高円寺, 杉並区, 東京都, 166-8588, 日本?",D,赤堤動物病院,おやまだ,みずほ銀行,ジョナサン
+137,"What is the name of POI located at address: 1-2, 祝田通り, 日比谷公園, 千代田区, 東京都, 100-0012, 日本?",D,台東区立谷中コミュニティセンター,Las Chicas,昭和信用金庫,日比谷 松本楼
+138,"What is the name of POI located at address: 川の手通り, 千住曙町, 足立区, 東京都, 120-0023, 日本?",A,ジョリーパスタ,Cucina tirolese per famiglie,エネオス,スターバックス
+139,"What is the name of POI located at address: 墨堤通り, 千住曙町, 足立区, 東京都, 120-0023, 日本?",D,代々木上原駅前交番,救世軍渋谷小隊,スターバックス,ココス
+140,"What is the name of POI located at address: 井ノ頭通り, 大原二丁目, 大原, 世田谷区, 東京都, 156-0041, 日本?",D,東京都立目黒区駒場東大前駅公衆便所,マクドナルド,一二三,羽根木神社
+141,"What is the name of POI located at address: 虎ノ門, 新橋三丁目, 虎ノ門一丁目, 港区, 東京都, 100-8798, 日本?",A,吉野家,早稲田大学西早稲田キャンパス,SHELL,ぱぱす
+142,"What is the name of POI located at address: 外堀通り, 新橋一丁目, 新橋, 港区, 東京都, 105-0003, 日本?",C,大番,讃岐うどん すみた,山本魚吉商店,コインパーク根津第２
+143,"What is the name of POI located at address: 日比谷通り, 新橋三丁目, 西新橋二丁目, 港区, 東京都, 105-0003, 日本?",C,ALBERATA,日の出桟橋,月島,スターバックス
+144,"What is the name of POI located at address: 日比谷通り, 新橋六丁目, 新橋, 港区, 東京都, 105-0004, 日本?",D,中村外科医院,高円寺肉汁うどん,松乃家,モスバーガー
+145,"What is the name of POI located at address: 日比谷通り, 新橋三丁目, 西新橋二丁目, 港区, 東京都, 105-0003, 日本?",B,kitchen Old Bazar,サモサ,スターバックス,戸矢診療所
+146,"What is the name of POI located at address: 新橋仲通り, 新橋二丁目, 新橋, 港区, 東京都, 105-0004, 日本?",D,エネオス,日本写真芸術専門学校,東京ポートボウル,五大陸（Gotairiku)
+147,"What is the name of POI located at address: 東鉄9号付属街路12号線, 梅丘一丁目, 世田谷区, 東京都, 154-0022, 日本?",D,烏森神社,松原湯,清水湯,マクドナルド
+148,"What is the name of POI located at address: 茂呂山通り, 桜川三丁目, 桜川, 板橋区, 東京都, 174-0076, 日本?",C,中渋谷教会,杉の子学園,東京ラーメン 大番,東京成徳大学中学・高等学校
+149,"What is the name of POI located at address: 方南通り, 方南二丁目, 方南, 杉並区, 東京都, 168-0062, 日本?",C,月島,寶蔵寺,松乃家,小石川郵便局
+150,"What is the name of POI located at address: 428, 桜上水四丁目, 世田谷区, 東京都, 168-0073, 日本?",C,ENEOS,安安,昭和信用金庫 桜上水支店,方南図書館
+151,"What is the name of POI located at address: 甲州街道, 下高井戸一丁目, 下高井戸, 杉並区, 東京都, 168-0073, 日本?",A,ENEOS,早稲田大学西早稲田キャンパス,トヨタレンタカー,向島消防団 第三分団本部
+152,"What is the name of POI located at address: 瀬田貫井線, 永福一丁目, 永福, 杉並区, 東京都, 168-0064, 日本?",D,小林歯科医院,歌志軒,ALBERATA,永福稲荷神社
+153,"What is the name of POI located at address: 方南通り, 和泉三丁目, 和泉, 杉並区, 東京都, 168-0061, 日本?",A,Esso,ドトールコーヒーショップ,杉並和泉二郵便局,五大陸（Gotairiku)
+154,"What is the name of POI located at address: 井ノ頭通り, 永福三丁目, 永福, 杉並区, 東京都, 168-0065, 日本?",B,デニーズ,法華宗 理性寺,中央豊海郵便局,エネオス
+155,"What is the name of POI located at address: 本郷通り, 駒込二丁目, 豊島区, 東京都, 114-0015, 日本?",C,KUROBA-TEI,マクドナルド,駒込駅前交番,中野教会
+156,"What is the name of POI located at address: 環七通り, 堀ノ内一丁目, 堀ノ内, 杉並区, 東京都, 168-0062, 日本?",D,朝生歯科医院,寶蔵寺,カフェ・ド・クリエ,方南交番
+157,"What is the name of POI located at address: 本郷通り, 向丘一丁目, 文京区, 東京都, 113-0023, 日本?",D,エネオス,ココス,晴海歯科,願行寺
+158,"What is the name of POI located at address: 権現坂(S坂), 弥生一丁目, 文京区, 東京都, 113-0023, 日本?",A,東京聖テモテ教会,三菱東京UFJ銀行,ココス,浜田山キリスト教会
+159,"What is the name of POI located at address: 文京区根津1-23-16, 不忍通り, 根津一丁目, 文京区, 東京都, 113-0031, 日本?",B,日高屋,根の津,豊島郵便局,杉並永福郵便局
+160,"What is the name of POI located at address: 本郷通り, 向丘一丁目, 文京区, 東京都, 113-0023, 日本?",D,練馬警察署,粥 「喜喜」,ケンタッキーフライドチキン,西教寺
+161,"What is the name of POI located at address: 根津観音通り商店街, 根津一丁目, 文京区, 東京都, 113-0031, 日本?",C,手打ちそば 山禅,山形医院,文京区立　不忍通りふれあい館,北区立中央図書館
+162,"What is the name of POI located at address: 藍染大通り, 根津一丁目, 文京区, 東京都, 113-0031, 日本?",C,駄菓子バー,本仏寺,芋甚,浜田山デンタルクリニック (Hamadayama Dental Clinic)
+163,"What is the name of POI located at address: 根津観音通り商店街, 根津一丁目, 文京区, 東京都, 113-0031, 日本?",A,魚菜　根津　呼友,ドトールコーヒーショップ,フレッシュネスバーガー,みずほ銀行
+164,"What is the name of POI located at address: 根津観音通り商店街, 根津一丁目, 文京区, 東京都, 113-0031, 日本?",C,天理教原宿分教団,世田谷ビジネススクエア (Setagaya Business Square),喫茶・ギャラリー　りんごや,サブウェイ
+165,"What is the name of POI located at address: 根津観音通り商店街, 根津一丁目, 文京区, 東京都, 113-0031, 日本?",D,カフェ・ベローチェ,エネオス,セイジョー,NaCaSa
+166,"What is the name of POI located at address: 根津観音通り商店街, 根津一丁目, 文京区, 東京都, 113-0031, 日本?",A,一二三,ジョナサン,餃子の王将,三菱UFJ銀行
+167,"What is the name of POI located at address: 根津観音通り商店街, 根津一丁目, 文京区, 東京都, 113-0031, 日本?",C,練馬タウンサイクル,スターバックス,コインパーク根津第２,読売東京理工医療福祉専門学校
+168,"What is the name of POI located at address: 谷中キッテ通り, 谷中二丁目, 台東区, 東京都, 113-0031, 日本?",A,カフェ・コパン,東京成徳大学中学・高等学校,まことや,みずほ銀行
+169,"What is the name of POI located at address: 谷中キッテ通り, 谷中二丁目, 台東区, 東京都, 113-0031, 日本?",A,Couzt Cafe,安養院,東京ラーメン 大番,中野教会
+170,"What is the name of POI located at address: 三浦坂, 谷中, 台東区, 東京都, 113-0031, 日本?",A,真島稲荷神社,日本長老教会 杉並教会,Drop,みずほ銀行
+171,"What is the name of POI located at address: 谷中キッテ通り, 谷中二丁目, 台東区, 東京都, 110-0001, 日本?",A,日本郵便趣味協会,Le moccot,稲毛屋,山本魚吉商店
+172,"What is the name of POI located at address: 六阿弥陀道, 谷中二丁目, 台東区, 東京都, 110-0001, 日本?",A,谷中区民館,ドトールコーヒーショップ,クラップユアハンズ,北区立中央図書館
+173,"What is the name of POI located at address: よみせ通り, 千駄木三丁目, 台東区, 東京都, 110-0001, 日本?",C,杉の子学園,ユニバーサルドラッグ,やなか珈琲店,カフェ・ベローチェ
+174,"What is the name of POI located at address: 六阿弥陀道, 谷中三丁目, 台東区, 東京都, 110-0001, 日本?",B,マクドナルド,台東区立谷中コミュニティセンター,大隅記念タワー,上板橋キリスト教会
+175,"What is the name of POI located at address: 中山道, 板橋四丁目, 板橋, 板橋区, 東京都, 173-0004, 日本?",C,三菱東京UFJ銀行,松屋,Times24,ちゃんこ　黒潮
+176,"What is the name of POI located at address: 下北沢駅中央口改札(京王側), 北沢二丁目, 北沢, 世田谷区, 東京都, 155-0031, 日本?",D,日本キリスト教団 永福教会,カナルカフェ,杉並永福郵便局,みずほ銀行
+177,"What is the name of POI located at address: 都市計画道路補助第154号線（区役所西通り）, 羽根木, 松原六丁目, 世田谷区, 東京都, 154-0022, 日本?",A,世田谷消防署 松原出張所,マクドナルド,ENEOS,災害用飲用水給水所
+178,"What is the name of POI located at address: 外堀通り, 内神田二丁目, 内神田, 千代田区, 東京都, 102-0000, 日本?",C,会計検査院王子書庫,モスバーガー,八千代銀行,代官山公園
+179,"What is the name of POI located at address: 神田駅西口通り, 内神田二丁目, 内神田, 千代田区, 東京都, 102-0000, 日本?",D,小林歯科医院,寳福寺,Esso,ラーメン花月
+180,"What is the name of POI located at address: 王将, 下北沢南口商店街, 代沢五丁目, 代沢, 世田谷区, 東京都, 155-9931, 日本?",D,スナック亜紀,ENEOS,下馬福音教会,餃子の王将
+181,"What is the name of POI located at address: 川越街道, 練馬区, 桜川, 板橋区, 東京都, 179-0082, 日本?",D,三菱UFJ銀行,オリジン弁当,ちゃんこ　黒潮,エネオス
+182,"What is the name of POI located at address: 補助第237号線, 錦二丁目, 練馬区, 東京都, 179-0083, 日本?",D,青龍神社,ドトールコーヒーショップ,珈琲館,手洗所
+183,"What is the name of POI located at address: 神泉2号踏切, 駒場一丁目, 目黒区, 東京都, 153-0044, 日本?",C,下馬福音教会,オリジン弁当,イタリアントマト,三菱UFJ銀行
+184,"What is the name of POI located at address: 曳舟川通り, 向島四丁目, 向島, 墨田区, 東京都, 131-8522, 日本?",B,ぱぱす,ロイヤルホスト,金光教麻布教会,みどりコミュニティセンター
+185,"What is the name of POI located at address: 八広新中通り, 八広一丁目, 八広, 墨田区, 東京都, 131-0041, 日本?",C,万世橋警察署,ふくみつ歯科医院,加藤診療所,パティシエ・イナムラショウゾウ
+186,"What is the name of POI located at address: 八広新中通り, 八広一丁目, 八広, 墨田区, 東京都, 131-0041, 日本?",A,つくし薬局,A&A認定ベクターワークスカフェジャパン,世田谷梅丘郵便局,法政大学
+187,"What is the name of POI located at address: 水戸街道, 東向島二丁目, 東向島, 墨田区, 東京都, 131-0046, 日本?",C,ENEOS,日蓮宗 妙祝寺,てらだ歯科クリニック,日本郵便趣味協会
+188,"What is the name of POI located at address: 水戸街道, 東向島二丁目, 東向島, 墨田区, 東京都, 131-0046, 日本?",C,伏見三宝稲荷神社,烏森神社,まとい,愛珠幼稚園
+189,"What is the name of POI located at address: 曳舟川通り, 東向島二丁目, 東向島, 墨田区, 東京都, 131-8522, 日本?",D,エクセルシオール,パティシエ・イナムラショウゾウ,チャングミ,杉の子学園
+190,"What is the name of POI located at address: 曳舟川通り, 東向島二丁目, 東向島, 墨田区, 東京都, 131-8522, 日本?",A,サカイ食堂,118立教通り歯科,時は麺なり,モスバーガー
+191,"What is the name of POI located at address: 八広中央通り, 八広三丁目, 八広, 墨田区, 東京都, 131-0041, 日本?",A,三輪里稲荷神社 （こんにゃく稲荷）,マクドナルド,王子消防署,エネオス
+192,"What is the name of POI located at address: 八広中央通り, 八広三丁目, 八広, 墨田区, 東京都, 131-0041, 日本?",B,海燕,正覚寺,東京理科大学,横浜家系 港屋ラーメン
+193,"What is the name of POI located at address: 八広中央通り, 八広四丁目, 八広, 墨田区, 東京都, 131-0041, 日本?",A,東京東信用金庫 八広支店,ガスト,三輪里稲荷神社 （こんにゃく稲荷）,中野教会
+194,"What is the name of POI located at address: 水戸街道, 東向島二丁目, 東向島, 墨田区, 東京都, 131-0046, 日本?",A,スナック亜紀,松乃家,居酒屋津國屋,佐藤薬局
+195,"What is the name of POI located at address: 地蔵坂通り, 東向島三丁目, 東向島, 墨田区, 東京都, 131-0032, 日本?",D,読売東京理工医療福祉専門学校,羽根木神社,飯田橋郵便局,向島消防団 第三分団本部
+196,"What is the name of POI located at address: 井ノ頭通り, 永福二丁目, 永福, 杉並区, 東京都, 168-0064, 日本?",B,昭和シェル,日本キリスト教団 永福教会,attic room YASUKUNI-GAIEN/cafe&dining,伏見山 正法寺
+197,"What is the name of POI located at address: 井ノ頭通り, 永福三丁目, 永福, 杉並区, 東京都, 168-8570, 日本?",A,山本薬局,Couzt Cafe,ガスト,スナック亜紀
+198,"What is the name of POI located at address: 角筈和泉町線, 和泉二丁目, 和泉, 杉並区, 東京都, 168-0063, 日本?",D,SHELL,Cafe Hatopoppo,紅蓮,ガスト
+199,"What is the name of POI located at address: 第一京浜, 芝五丁目, 麻布, 港区, 東京都, 108-8345, 日本?",C,きらぼし銀行,讃岐うどん すみた,マクドナルド,紅蓮
+200,"What is the name of POI located at address: 桜田通り, 麻布十番三丁目, 三田二丁目, 麻布, 港区, 東京都, 108-8345, 日本?",A,ケンタッキーフライドチキン,千代田岩本町郵便局,ロッテリア,餃子の王将
+201,"What is the name of POI located at address: 環七通り, 和泉一丁目, 和泉, 杉並区, 東京都, 168-0062, 日本?",A,方南図書館,練馬警察署,コスモ,三田丘の上公園
+202,"What is the name of POI located at address: 方南通り, 弥生町六丁目, 中野区, 東京都, 164-0014, 日本?",D,カフェ・ベローチェ,デニーズ,エクセルシオール カフェ,中野南台郵便局
+203,"What is the name of POI located at address: 角田橋, 南台五丁目, 中野区, 東京都, 164-0014, 日本?",D,Cafe FIRST,フレッシュネスバーガー,粥 「喜喜」,多田神社
+204,"What is the name of POI located at address: 方南通り, 弥生町六丁目, 中野区, 東京都, 164-0014, 日本?",D,コインパーク根津第２,レストナック幼稚園,幸福の科学渋谷精舎,寳福寺
+205,"What is the name of POI located at address: 首都高速中央環状線, 代々木四丁目, 東中野, 上落合, 中野区, 東京都, 164-8622, 日本?",D,宗延寺,日本デザイナー学院,横浜家系 港屋ラーメン,エネオス
+206,"What is the name of POI located at address: 井ノ頭通り, 浜田山三丁目, 浜田山, 杉並区, 東京都, 168-0065, 日本?",B,金光教麻布教会,浜田山診療所,世田谷消防署 宮の坂出張所,エネオス
+207,"What is the name of POI located at address: 新宿コズミック通り, 大久保三丁目, 大久保, 戸山, 新宿区, 東京都, 160-8484, 日本?",D,興安寺,向島消防団 第三分団本部,Ntl Park Nature Study,早稲田大学西早稲田キャンパス
+208,"What is the name of POI located at address: 鎌倉通り, 北沢二丁目, 北沢, 世田谷区, 東京都, 155-8668, 日本?",D,下馬福音教会,法華宗 理性寺,Couzt Cafe,世田谷北沢郵便局
+209,"What is the name of POI located at address: けやき通り, 南千住八丁目, 南千住, 荒川区, 東京都, 120-0025, 日本?",A,南千住汐入歯科,たけうち内科,つくし薬局,区立桜台体育館
+210,"What is the name of POI located at address: 汐入中央通り, 南千住八丁目, 南千住, 荒川区, 東京都, 120-0025, 日本?",A,栄寿司 (Sakae Sushi),マクドナルド,りそな銀行,法正寺
+211,"What is the name of POI located at address: 南千住仲通り, 南千住五丁目, 南千住, 荒川区, 東京都, 116-0003, 日本?",C,三菱東京UFJ銀行,ココス,尾花,向島消防団 第三分団本部
+212,"What is the name of POI located at address: 甲州街道, 笹塚二丁目, 笹塚, 渋谷区, 東京都, 151-0073, 日本?",A,ミネ薬局d,向島警察署,吉野家,みずほ銀行
+213,"What is the name of POI located at address: 角筈和泉町線, 方南一丁目, 笹塚二丁目, 笹塚, 渋谷区, 東京都, 151-0073, 日本?",A,BHARAT,吉野家,有明客船ターミナル,東京バプテスト教会
+214,"What is the name of POI located at address: 北町豊玉線, 早宮二丁目, 練馬区, 東京都, 179-0085, 日本?",C,東京らっきょブラザーズ,小山歯科医院,伊藤歯科医院,つばめグリル
+215,"What is the name of POI located at address: 43, 練馬区, 東京都, 179-0085, 日本?",B,藍屋,ジョナサン,代田教会,らーめん せい家 経堂店
+216,"What is the name of POI located at address: 43, 練馬区, 東京都, 179-0085, 日本?",A,城北信用金庫,中央豊海郵便局,中野保健所,練馬タウンサイクル
+217,"What is the name of POI located at address: 47, 練馬区, 東京都, 179-0085, 日本?",D,中野中央一郵便局,ヘンドリックス・カリー・バー,中華丸長,ココス
+218,"What is the name of POI located at address: 放射第35号線（環状八号線（支線））, 北町六丁目, 練馬区, 東京都, 179-0085, 日本?",D,バーミヤン,練馬和光保育園,田崎病院,マクドナルド
+219,"What is the name of POI located at address: 環八通り, 北町六丁目, 練馬区, 東京都, 179-0085, 日本?",C,森島鍼灸接骨院,東京リバーサイド病院,松屋,ドトールコーヒーショップ
+220,"What is the name of POI located at address: 甲州街道, 本町一丁目, 幡ヶ谷二丁目, 幡ヶ谷, 渋谷区, 東京都, 151-0061, 日本?",D,バーミヤン,イムス記念病院,デニーズ,渋谷区初台区民館
+221,"What is the name of POI located at address: 区役所通り, 緑三丁目, 緑, 墨田区, 東京都, 130-0021, 日本?",A,みどりコミュニティセンター,セイジョー,厚生労働省,ENEOS
+222,"What is the name of POI located at address: 京葉道路, 緑四丁目, 緑, 墨田区, 東京都, 130-0021, 日本?",A,トヨタレンタカー,渋谷区立上原社会教育館,東京バプテスト教会,幸福の科学渋谷精舎
+223,"What is the name of POI located at address: ６－１１, 菊川二丁目, 墨田区, 東京都, 130-0024, 日本?",C,CAT'S CRADLE,スプーンハウス,マクドナルド,大出歯科医院
+224,"What is the name of POI located at address: 新大橋通り, 菊川二丁目, 森下, 墨田区, 東京都, 130-0024, 日本?",A,吉野家,マクドナルド,泉歯科 (Izumi Dental Office),松屋
+225,"What is the name of POI located at address: 大妻通り, 九段北三丁目, 三番町, 千代田区, 東京都, 102-0073, 日本?",D,Gold's Gym,ココス,日本郵便趣味協会,Cafe Hatopoppo
+226,"What is the name of POI located at address: 農大通り, 経堂一丁目, 世田谷区, 東京都, 156-0052, 日本?",C,中田小児科クリニック,北沢タウンホール,福昌寺,どらっぐぱぱす
+227,"What is the name of POI located at address: 区立 烏山緑道, 経堂五丁目, 世田谷区, 東京都, 156-0052, 日本?",C,小伝馬町ドラッグ,ガスト,東京日石オートガス,フォルクス 世田谷代田店
+228,"What is the name of POI located at address: 大妻通り, 麹町三丁目, 一番町, 千代田区, 東京都, 102-0082, 日本?",D,とんかつ　おかむら,ココス,東京理科大学,カフェ・ベローチェ
+229,"What is the name of POI located at address: 大妻通り, 麹町三丁目, 一番町, 千代田区, 東京都, 102-0083, 日本?",A,珈琲館,モリバコーヒー 板橋仲宿店,マクドナルド,早稲田大学メディアネットワークセンター
+230,"What is the name of POI located at address: 井ノ頭通り, 浜田山三丁目, 浜田山, 杉並区, 東京都, 168-0065, 日本?",D,妙像寺,代田教会,琴の富士,マスナガ動物病院
+231,"What is the name of POI located at address: 青梅街道, 成田東五丁目, 成田東, 高円寺, 杉並区, 東京都, 166-0004, 日本?",C,城北信用金庫,恵比寿神社,中村外科医院,ツルハドラッグ
+232,"What is the name of POI located at address: 蔵前橋通り, 太平一丁目, 太平, 墨田区, 東京都, 130-0012, 日本?",B,青龍神社,エネオス,清水湯,ENEOS
+233,"What is the name of POI located at address: 滝坂道南廻り, 経堂一丁目, 世田谷区, 東京都, 156-0052, 日本?",B,日本ナザレン教団 下北沢キリスト教会,朝生歯科医院,スターバックス,Drop
+234,"What is the name of POI located at address: 滝坂道南廻り, 経堂一丁目, 世田谷区, 東京都, 156-0052, 日本?",A,日本キリスト教団 経堂緑岡教会,南千住汐入歯科,渋谷神南郵便局,珈琲館
+235,"What is the name of POI located at address: 経堂西通り商店会, 経堂一丁目, 世田谷区, 東京都, 156-0052, 日本?",D,大隅記念タワー,應慶寺,みずほ銀行,修誠館 剣道場
+236,"What is the name of POI located at address: かえで通り, 神田駿河台二丁目, 神田駿河台, 千代田区, 東京都, 102-0000, 日本?",B,恵比寿郵便局,A&A認定ベクターワークスカフェジャパン,サイゼリヤ,佐藤内科クリニック
+237,"What is the name of POI located at address: 慶應仲通り, 芝五丁目, 麻布, 港区, 東京都, 108-8345, 日本?",A,長崎ちゃんぽんリンガーハット,エネオス,Autobacs Nakameguro,ナンカレー
+238,"What is the name of POI located at address: 井ノ頭通り, 浜田山三丁目, 浜田山, 杉並区, 東京都, 168-0065, 日本?",C,マツモトキヨシ,すき家,浜田山デンタルクリニック (Hamadayama Dental Clinic),ロイヤルホスト
+239,"What is the name of POI located at address: 綱坂, 麻布十番三丁目, 三田二丁目, 麻布, 港区, 東京都, 108-0073, 日本?",C,吉村薬局,天理教原宿分教団,居酒屋津國屋,羽根木神社
+240,"What is the name of POI located at address: みゆき通り, 銀座五丁目, 中央区, 東京都, 104-0061, 日本?",C,みずほ銀行,立喰　はせ川,カフェ・ベローチェ,泉歯科 (Izumi Dental Office)
+241,"What is the name of POI located at address: みゆき通り, 銀座六丁目, 中央区, 東京都, 104-0061, 日本?",B,モスバーガー,元木挽橋際公衆便所,ENEOS,みどりコミュニティセンター
+242,"What is the name of POI located at address: 経堂西通り商店会, 経堂一丁目, 世田谷区, 東京都, 156-0052, 日本?",B,エクセルシオール,まことや,ドトールコーヒーショップ,えさき
+243,"What is the name of POI located at address: 調布経堂停車場線, 経堂二丁目, 世田谷区, 東京都, 156-0052, 日本?",D,代沢診療所,三井住友銀行,三菱UFJ銀行,小林歯科医院
+244,"What is the name of POI located at address: 文京区後楽１－３－６１, 外堀通り, 後楽一丁目, 文京区, 東京都, 112-0004, 日本?",D,デニーズ,向島警察署,エネオス,Taco Bell
+245,"What is the name of POI located at address: 神田白山線, 上野七丁目, 台東区, 東京都, 110-8712, 日本?",B,三菱UFJ銀行,尾花,BHARAT,東京門跡別院 満足院
+246,"What is the name of POI located at address: 高稲荷橋, 桜台六丁目, 練馬区, 東京都, 176-0002, 日本?",B,NaCaSa,手打ちそば 山禅,パティシエ・イナムラショウゾウ,白山神社
+247,"What is the name of POI located at address: 川越街道, 練馬区, 桜川, 板橋区, 東京都, 174-0075, 日本?",B,三輪里稲荷神社 （こんにゃく稲荷）,くるみ整骨院,三菱UFJ銀行,から好し
+248,"What is the name of POI located at address: 川越街道, 桜川三丁目, 桜川, 板橋区, 東京都, 174-0075, 日本?",D,くるみ整骨院,天理教原宿分教団,鹿野歯科医院 (Kano Dental Clinic),上板橋キリスト教会
+249,"What is the name of POI located at address: 七軒家通り, 上板橋, 上板橋三丁目, 上板橋, 板橋区, 東京都, 174-0076, 日本?",C,葛飾区立新宿図書センター,中村外科医院,城北信用金庫,大出歯科医院
+250,"What is the name of POI located at address: ときわ通り, 常盤台四丁目, 常盤台, 上板橋, 板橋区, 東京都, 174-0076, 日本?",B,KUROBA-TEI,イムス記念病院,小山歯科医院,朝生歯科医院
+251,"What is the name of POI located at address: ときわ通り, 常盤台四丁目, 常盤台, 上板橋, 板橋区, 東京都, 174-0076, 日本?",A,きらぼし銀行,真島稲荷神社,日比谷 松本楼,きせきレディースクリニック
+252,"What is the name of POI located at address: ときわ通り, 常盤台四丁目, 常盤台, 上板橋, 板橋区, 東京都, 174-0076, 日本?",D,山本魚吉商店,小石川郵便局,KUROBA-TEI,マツモトキヨシ
+253,"What is the name of POI located at address: ときわ通り, 常盤台四丁目, 常盤台, 上板橋, 板橋区, 東京都, 174-0076, 日本?",C,台東区立谷中コミュニティセンター,CAT'S CRADLE,大番,りそな銀行
+254,"What is the name of POI located at address: 松原大山通り, 松原二丁目, 世田谷区, 東京都, 156-0043, 日本?",A,泉歯科 (Izumi Dental Office),アマノ動物病院,日本キリスト教団 富士見丘教会,吉野家
+255,"What is the name of POI located at address: 赤堤通り, 赤堤二丁目, 世田谷区, 東京都, 154-0021, 日本?",D,白髭神社,南千住汐入歯科,ENEOS,創価学会世田谷文化会館
+256,"What is the name of POI located at address: 一本橋, 和泉四丁目, 和泉, 杉並区, 東京都, 168-0063, 日本?",A,和泉福音教会,修誠館 剣道場,吉野家,カトリック松原教会
+257,"What is the name of POI located at address: 方南通り, 堀ノ内一丁目, 堀ノ内, 杉並区, 東京都, 166-0013, 日本?",C,毛塚,杉並区立 浜田山児童館,ぱんだ接骨院,ドトールコーヒーショップ
+258,"What is the name of POI located at address: 熊野橋, 堀ノ内二丁目, 堀ノ内, 杉並区, 東京都, 166-0013, 日本?",A,日本長老教会 杉並教会,森島鍼灸接骨院,聖ヶ丘教会,マツモトキヨシ
+259,"What is the name of POI located at address: 環七通り, 堀ノ内二丁目, 堀ノ内, 杉並区, 東京都, 166-0013, 日本?",D,えさき,ミネ薬局d,自家焙煎珈琲豆 「ルンバミーア」,杉並区立 和田堀会館
+260,"What is the name of POI located at address: 妙法寺商店街, 堀ノ内三丁目, 堀ノ内, 杉並区, 東京都, 166-0013, 日本?",D,オリジン弁当,城北信用金庫,ケンタッキーフライドチキン,晴海歯科
+261,"What is the name of POI located at address: 妙法寺商店街, 堀ノ内三丁目, 堀ノ内, 杉並区, 東京都, 166-0013, 日本?",B,マツモトキヨシ,坪井医院,八幡神社,マスナガ動物病院
+262,"What is the name of POI located at address: 妙法寺商店街, 堀ノ内三丁目, 堀ノ内, 杉並区, 東京都, 166-0013, 日本?",B,早稲田大学西早稲田キャンパス,セイジョー,日本ナザレン教団 下北沢キリスト教会,豊島郵便局
+263,"What is the name of POI located at address: 環七通り, 堀ノ内三丁目, 堀ノ内, 高円寺, 杉並区, 東京都, 166-0011, 日本?",C,エネオス,永福寺,宗延寺,昭和信用金庫 桜上水支店
+264,"What is the name of POI located at address: 荒玉水道道路, 梅里一丁目, 梅里, 高円寺, 杉並区, 東京都, 166-0011, 日本?",D,駒込駅前交番,高級中国四川料理 登龍,attic room YASUKUNI-GAIEN/cafe&dining,本仏寺
+265,"What is the name of POI located at address: 荒玉水道道路, 堀ノ内三丁目, 堀ノ内, 高円寺, 杉並区, 東京都, 166-0011, 日本?",B,中村外科医院,修行寺,法政大学,A&A認定ベクターワークスカフェジャパン
+266,"What is the name of POI located at address: 荒玉水道道路, 梅里一丁目, 梅里, 高円寺, 杉並区, 東京都, 166-0011, 日本?",C,ダンダダン,アマノ動物病院,日蓮宗 妙祝寺,ドトールコーヒーショップ
+267,"What is the name of POI located at address: フィンガーアベニュー, 神南一丁目, 神南, 渋谷区, 東京都, 150-8377, 日本?",A,渋谷神南郵便局,Kygnus,目黒駒場郵便局,Red Lobster
+268,"What is the name of POI located at address: 宇田川通り, 宇田川町, 渋谷区, 東京都, 150-8507, 日本?",D,昭和信用金庫 桜上水支店,オリジン弁当,ドトールコーヒーショップ,チャングミ
+269,"What is the name of POI located at address: 松涛文化村ストリート, 神泉町, 渋谷区, 東京都, 150-0046, 日本?",C,北沢タウンホール,中華丸長,渋谷日本基督会,恵比寿神社
+270,"What is the name of POI located at address: 五日市街道, 成田東二丁目, 成田東, 杉並区, 東京都, 166-0016, 日本?",B,横浜銀行,成三会館,セイジョー,三井住友銀行
+271,"What is the name of POI located at address: 五日市街道, 成田東一丁目, 成田東, 高円寺, 杉並区, 東京都, 166-0014, 日本?",A,オリジン弁当,長崎ちゃんぽんリンガーハット,つくし薬局,向島消防団 第三分団本部
+272,"What is the name of POI located at address: 五日市街道, 成田東二丁目, 成田東, 杉並区, 東京都, 166-0016, 日本?",B,エネオス,高円寺肉汁うどん,文殊院,磨ゐ土
+273,"What is the name of POI located at address: 五日市街道, 成田東二丁目, 成田東, 杉並区, 東京都, 166-0016, 日本?",A,たけうち内科,真島稲荷神社,永福寺,MATOI
+274,"What is the name of POI located at address: Yakura Bridge, 成田西三丁目, 成田西, 杉並区, 東京都, 166-0016, 日本?",A,尾崎熊野神社,十日森稲荷神社,梅丘内科,不二家レストラン
+275,"What is the name of POI located at address: 主要生活道路106号線, 船橋五丁目, 世田谷区, 東京都, 156-0052, 日本?",C,魚菜　根津　呼友,ラーメン花月,飯田歯科医院,小松川警察署
+276,"What is the name of POI located at address: 農大通り, 経堂一丁目, 世田谷区, 東京都, 156-0052, 日本?",B,羽根木神社,らーめん せい家 経堂店,天理教原宿分教団,藍屋
+277,"What is the name of POI located at address: 渋谷経堂線, 宮坂二丁目, 世田谷区, 東京都, 156-0051, 日本?",A,乗泉寺 世田谷別院,チャングミ,創価学会世田谷文化会館,くるみ整骨院
+278,"What is the name of POI located at address: 滝坂道, 豪徳寺一丁目, 世田谷区, 東京都, 154-0021, 日本?",C,てらだ歯科クリニック,マクドナルド,Cucina tirolese per famiglie,マスナガ動物病院
+279,"What is the name of POI located at address: 滝坂道, 豪徳寺一丁目, 世田谷区, 東京都, 154-0022, 日本?",C,マクドナルド,ENEOS,中田小児科クリニック,恵比寿神社
+280,"What is the name of POI located at address: 旧中山道, 仲宿, 板橋, 板橋区, 東京都, 173-0005, 日本?",B,早稲田大学メディアネットワークセンター,おやまだ,羽根木神社,ENEOS
+281,"What is the name of POI located at address: 旧中山道, 仲宿, 板橋, 板橋区, 東京都, 173-0005, 日本?",A,ジョナサン,大番,マクドナルド,ENEOS
+282,"What is the name of POI located at address: 旧中山道, 仲宿, 板橋, 板橋区, 東京都, 173-0005, 日本?",C,松乃家,西武信用金庫,カフェ・ベローチェ,ミネ薬局d
+283,"What is the name of POI located at address: 旧中山道, 仲宿, 板橋, 板橋区, 東京都, 173-0005, 日本?",B,十日森稲荷神社,モリバコーヒー 板橋仲宿店,福昌寺,伊藤歯科医院
+284,"What is the name of POI located at address: 王子新道, 板橋三丁目, 板橋, 板橋区, 東京都, 173-8501, 日本?",B,藍屋,マクドナルド,ドトールコーヒーショップ,けいすけラーメン
+285,"What is the name of POI located at address: 旧中山道, 仲宿, 板橋, 板橋区, 東京都, 173-0005, 日本?",B,南千住汐入歯科,ナンカレー,森島鍼灸接骨院,台東区立谷中コミュニティセンター
+286,"What is the name of POI located at address: 旧中山道, 仲宿, 板橋区, 東京都, 173-0005, 日本?",C,ケンタッキーフライドチキン,朝生歯科医院,文殊院,法華宗 理性寺
+287,"What is the name of POI located at address: 柳原通り, 神田須田町二丁目, 神田須田町, 千代田区, 東京都, 102-0000, 日本?",D,アマノ動物病院,白山神社,浄徳寺,肉の万世
+288,"What is the name of POI located at address: ロッテリア, かえで通り, 神田駿河台二丁目, 神田駿河台, 千代田区, 東京都, 102-0000, 日本?",C,カナルカフェ,ドミノ,ゼッテリア,金光教麻布教会
+289,"What is the name of POI located at address: かえで通り, 神田駿河台二丁目, 神田駿河台, 千代田区, 東京都, 101-0062, 日本?",B,エネオス,スターバックス,早稲田鶴巻町パーキング,ぱぱす
+290,"What is the name of POI located at address: 瀬田貫井線, 和泉三丁目, 和泉, 杉並区, 東京都, 168-0064, 日本?",A,ケンタッキーフライドチキン,磨ゐ土,メルシー,赤堤動物病院
+291,"What is the name of POI located at address: 瀬田貫井線, 永福一丁目, 永福, 杉並区, 東京都, 168-0064, 日本?",C,会計検査院王子書庫,文京区立　不忍通りふれあい館,永福町天谷総合医院 (Eifuku-cho Amaya Medical Center),ヘンドリックス・カリー・バー
+292,"What is the name of POI located at address: 荒玉水道道路, 永福二丁目, 永福, 杉並区, 東京都, 168-0064, 日本?",A,滝澤医院,ダンダダン,スターバックス,まとい
+293,"What is the name of POI located at address: 浜田山歩道橋, 浜田山三丁目, 浜田山, 杉並区, 東京都, 168-0065, 日本?",D,神楽坂若宮八幡宮,Times24,杉の子学園,小林整形外科医院
+294,"What is the name of POI located at address: 12, 外神田六丁目, 外神田, 千代田区, 東京都, 102-0000, 日本?",A,どらっぐぱぱす,ロイヤルホスト,Esso,高円寺肉汁うどん
+295,"What is the name of POI located at address: 中央通り, 外神田五丁目, 外神田, 千代田区, 東京都, 110-0005, 日本?",D,青山製図専門学校,飯田橋郵便局,ちゃんこ　黒潮,マクドナルド
+296,"What is the name of POI located at address: 松原大山通り, 松原二丁目, 世田谷区, 東京都, 156-0043, 日本?",C,Autobacs Nakameguro,西武信用金庫,森島鍼灸接骨院,スターバックス
+297,"What is the name of POI located at address: 松原大山通り, 松原二丁目, 世田谷区, 東京都, 156-0043, 日本?",B,元木挽橋際公衆便所,山形医院,マクドナルド,向島警察署
+298,"What is the name of POI located at address: 松原大山通り, 松原二丁目, 世田谷区, 東京都, 156-0043, 日本?",D,吉野家,北区立中央図書館,谷中区民館,松原湯
+299,"What is the name of POI located at address: 明大前4号踏切, 松原三丁目, 世田谷区, 東京都, 156-0043, 日本?",A,鹿野歯科医院 (Kano Dental Clinic),ジョナサン,日本ナザレン教団 三軒茶屋教会,会計検査院王子書庫
+300,"What is the name of POI located at address: 日大通り（瀬田貫井線）, 松原三丁目, 世田谷区, 東京都, 156-0043, 日本?",D,マクドナルド,すき家,三界寺,サガミ薬品
+301,"What is the name of POI located at address: 日大通り, 赤堤五丁目, 世田谷区, 東京都, 156-8550, 日本?",A,康楽,一二三,代田橋中央診療所,シディーク
+302,"What is the name of POI located at address: シネマ通り, 松原三丁目, 世田谷区, 東京都, 156-0043, 日本?",B,東京ポートボウル,安安,佐藤内科クリニック,法正寺
+303,"What is the name of POI located at address: 江戸通り, 日本橋小伝馬町, 中央区, 東京都, 103-0001, 日本?",D,尾崎熊野神社,みずほ銀行,鉢山公園,小伝馬町ドラッグ
+304,"What is the name of POI located at address: 富ヶ谷1丁目通り, 富ヶ谷一丁目, 富ヶ谷, 渋谷区, 東京都, 151-0063, 日本?",D,吉村薬局,坪井医院,ケンタッキーフライドチキン,松屋
+305,"What is the name of POI located at address: 首都高速中央環状線, 上原一丁目, 元代々木町, 富ヶ谷, 渋谷区, 東京都, 151-0063, 日本?",D,イタリアントマト,田崎病院,三井住友銀行,應慶寺
+306,"What is the name of POI located at address: 上原仲通り, 上原二丁目, 上原, 渋谷区, 東京都, 151-0064, 日本?",A,真木,杉の子学園,日本キリスト教団 永福教会,まとい
+307,"What is the name of POI located at address: 上原仲通り, 上原二丁目, 上原, 渋谷区, 東京都, 151-0064, 日本?",C,東京日石オートガス,方南交番,ドミノ・ピザ,八千代銀行
+308,"What is the name of POI located at address: 池ノ上3号踏切, 北沢一丁目, 北沢, 世田谷区, 東京都, 155-8666, 日本?",D,くすりの早宮,ドトールコーヒーショップ,尾花,池ノ上産婦人科
+309,"What is the name of POI located at address: 茶沢通り, 代沢二丁目, 北沢, 世田谷区, 東京都, 155-9931, 日本?",D,練馬バプテスト教会,世田谷消防署 宮の坂出張所,西武信用金庫,クラップユアハンズ
+310,"What is the name of POI located at address: 徳丸通り, 徳丸, 板橋区, 東京都, 175-0083, 日本?",C,スプーンハウス,鹿野歯科医院 (Kano Dental Clinic),イオンシネマ,ALBERATA
+311,"What is the name of POI located at address: 井ノ頭通り, 大原二丁目, 大原, 世田谷区, 東京都, 156-0041, 日本?",A,代田橋中央診療所,まことや,法華宗 理性寺,渋谷三郵便局
+312,"What is the name of POI located at address: 鎌倉通り, 北沢五丁目, 北沢, 笹塚, 世田谷区, 東京都, 151-0073, 日本?",A,大出歯科医院,清水湯,スターバックス,世田谷北沢郵便局
+313,"What is the name of POI located at address: 瀬田貫井線, 用賀四丁目, 世田谷区, 東京都, 158-0097, 日本?",A,世田谷ビジネススクエア (Setagaya Business Square),すき家,モリバコーヒー 板橋仲宿店,修誠館 剣道場
+314,"What is the name of POI located at address: 道玄坂, 道玄坂二丁目, 道玄坂, 渋谷区, 東京都, 150-0043, 日本?",D,マクドナルド,スナック亜紀,妙定院,ロッテリア
+315,"What is the name of POI located at address: 瀬田貫井線, 和泉三丁目, 和泉, 杉並区, 東京都, 168-0064, 日本?",D,スプーンハウス,松原湯,法華宗 理性寺,稲毛屋
+316,"What is the name of POI located at address: 14, 外神田六丁目, 外神田, 千代田区, 東京都, 102-0000, 日本?",C,代田教会,珈琲館,すき家,世田谷信用金庫 永福町
+317,"What is the name of POI located at address: 15, 宇田川町, 渋谷区, 東京都, 150-0042, 日本?",D,正覚寺,ぱぱす,永福稲荷神社,マクドナルド
+318,"What is the name of POI located at address: 明治通り, 東三丁目, 東, 渋谷区, 東京都, 150-0011, 日本?",A,清流寺,イムス記念病院,ミネ薬局d,紅蓮
+319,"What is the name of POI located at address: 外苑西通り, 広尾五丁目, 南麻布四丁目, 麻布, 港区, 東京都, 106-8514, 日本?",A,三菱東京JFJ銀行 広尾支店,羽根木神社,きらぼし銀行,ガスト
+320,"What is the name of POI located at address: 外苑西通り, 恵比寿二丁目, 恵比寿, 渋谷区, 東京都, 106-8514, 日本?",D,森島鍼灸接骨院,ゼッテリア,尾花,日本キリスト教団 豊沢教会
+321,"What is the name of POI located at address: 恵比寿通り, 恵比寿一丁目, 恵比寿, 渋谷区, 東京都, 150-0013, 日本?",B,坪井医院,みずほ銀行,サカイ食堂,東京理科大学
+322,"What is the name of POI located at address: 旧山手通り, 鉢山町, 渋谷区, 東京都, 153-8622, 日本?",A,東京バプテスト教会,森島鍼灸接骨院,王子消防署,ちゃんこ　黒潮
+323,"What is the name of POI located at address: 神泉2号踏切, 駒場一丁目, 目黒区, 東京都, 153-0044, 日本?",B,エネオス,目黒駒場郵便局,芝東照宮,天理教原宿分教団
+324,"What is the name of POI located at address: 神泉2号踏切, 駒場一丁目, 目黒区, 東京都, 153-0044, 日本?",A,聖徳寺,ジョナサン,目黒駒場郵便局,ぱぱす
+325,"What is the name of POI located at address: 森巌寺川緑道, 代沢二丁目, 代沢, 世田谷区, 東京都, 155-9931, 日本?",B,成三会館,日本キリスト教団 富士見丘教会,正覚寺,東京ラーメン 大番
+326,"What is the name of POI located at address: 第一京浜, 高輪二丁目, 品川, 港区, 東京都, 108-0074, 日本?",B,日本キリスト教団 豊沢教会,正覚寺,メルシー,法正寺
+327,"What is the name of POI located at address: 第一京浜, 三田三丁目, 港区, 東京都, 108-0023, 日本?",C,乗泉寺 世田谷別院,喫茶・ギャラリー　りんごや,なか卯,ドトールコーヒーショップ
+328,"What is the name of POI located at address: 大門通り, 岩本町二丁目, 岩本町, 千代田区, 東京都, 102-0000, 日本?",A,千代田岩本町郵便局,北沢タウンホール,日比谷 松本楼,Kiha
+329,"What is the name of POI located at address: ララガーデン, 赤羽二丁目, 北区, 東京都, 115-0045, 日本?",B,Blondie,讃岐うどん すみた,日生劇場,Aflo french dining Tribes
+330,"What is the name of POI located at address: ふれあい橋, 目黒二丁目, 目黒区, 東京都, 153-0063, 日本?",D,くるみ整骨院,杉の子学園,ココカラファイン薬局,エネオス
+331,"What is the name of POI located at address: 玉川通り, 大橋二丁目, 目黒区, 東京都, 153-0044, 日本?",A,セイジョー,板橋警察署 上板橋駅前交番,三田丘の上公園,餃子の王将
+332,"What is the name of POI located at address: 鮫洲大山線, 三宿二丁目, 世田谷区, 東京都, 154-0005, 日本?",C,日本キリスト教団 経堂緑岡教会,東京教会,世田谷区立 多聞幼稚園,ミネ薬局d
+333,"What is the name of POI located at address: 茶沢通り, 代沢五丁目, 代沢, 世田谷区, 東京都, 155-0032, 日本?",B,読売東京理工医療福祉専門学校,バーミヤン,中央豊海郵便局,Taco Bell
+334,"What is the name of POI located at address: もみじ山通り, 上高田二丁目, 中野区, 東京都, 164-0002, 日本?",A,打越天神北野神社,スターバックス,ALBERATA,Cafe Hatopoppo
+335,"What is the name of POI located at address: 山手通り, 東中野, 中野区, 東京都, 164-0003, 日本?",C,佐藤歯科,Tokyo Salon,中野教会,三菱UFJ銀行
+336,"What is the name of POI located at address: 早稲田通り, 上落合, 上落合三丁目, 上落合, 新宿区, 東京都, 160-8484, 日本?",C,とんかつ　おかむら,白髭神社,ユニバーサルドラッグ,スターバックス
+337,"What is the name of POI located at address: もみじ山通り, 上高田二丁目, 中野区, 東京都, 164-0002, 日本?",D,島ダイニング　潮彩,ENEOS,駄菓子バー,ココス
+338,"What is the name of POI located at address: 早稲田通り, 新井二丁目, 中野区, 東京都, 164-8701, 日本?",D,市谷亀岡八幡宮,ROYAL PALACE,デニーズ,フレッシュネスバーガー
+339,"What is the name of POI located at address: 東京タワー通り, 麻布台二丁目, 麻布台, 麻布, 港区, 東京都, 106-0041, 日本?",B,ドトールコーヒーショップ,Cafe FIRST,ENEOS,kitchen Old Bazar
+340,"What is the name of POI located at address: 中丸通り, 大山西町, 幸町, 板橋区, 東京都, 173-0034, 日本?",B,えさき,田崎病院,佐藤薬局,三井住友銀行
+341,"What is the name of POI located at address: 新宿通り, 麹町四丁目, 麹町, 千代田区, 東京都, 102-0083, 日本?",B,東京都立目黒区駒場東大前駅公衆便所,高級中国四川料理 登龍,佐藤内科クリニック,代官山公園
+342,"What is the name of POI located at address: 千川通り, 上鷺宮四丁目, 中野区, 東京都, 165-0031, 日本?",B,鹿野歯科医院 (Kano Dental Clinic),ENEOS,から好し,中渋谷教会
+343,"What is the name of POI located at address: 城山通り, 経堂五丁目, 世田谷区, 東京都, 156-0052, 日本?",C,三菱UFJ銀行,樺島病院,愛珠幼稚園,ちゃんこ　黒潮
+344,"What is the name of POI located at address: 滝坂道, 梅丘三丁目, 世田谷区, 東京都, 154-0022, 日本?",A,世田谷梅丘郵便局,ラーメン花月,マクドナルド,attic room YASUKUNI-GAIEN/cafe&dining
+345,"What is the name of POI located at address: 世田谷通り, 三軒茶屋二丁目, 世田谷区, 東京都, 154-0024, 日本?",B,モスバーガー,ENEOS,マクドナルド,パティシエ・イナムラショウゾウ
+346,"What is the name of POI located at address: 世田谷通り, 三軒茶屋二丁目, 世田谷区, 東京都, 154-0023, 日本?",B,東京らっきょブラザーズ,日本ナザレン教団 三軒茶屋教会,すずらん薬局,経堂駅前郵便局
+347,"What is the name of POI located at address: 駒留通り, 三軒茶屋二丁目, 世田谷区, 東京都, 154-0011, 日本?",B,赤堤動物病院,戸矢診療所,パティシエ・イナムラショウゾウ,時は麺なり
+348,"What is the name of POI located at address: 野沢通り, 下馬三丁目, 世田谷区, 東京都, 154-0002, 日本?",C,サガミ薬品,つくし薬局,下馬福音教会,Kiha
+349,"What is the name of POI located at address: 茶沢通り, 代沢二丁目, 北沢, 世田谷区, 東京都, 155-8666, 日本?",D,餃子の王将,大隅記念タワー,スプーンハウス,北沢タウンホール
+350,"What is the name of POI located at address: 駒沢通り, 恵比寿西一丁目, 恵比寿西, 渋谷区, 東京都, 150-0022, 日本?",B,早稲田大学西早稲田キャンパス,ケンタッキーフライドチキン,白山神社,セイジョー
+351,"What is the name of POI located at address: 山手通り, 代々木四丁目, 代々木, 渋谷区, 東京都, 151-0053, 日本?",C,長崎ちゃんぽんリンガーハット,修行寺,吉野家,小石川郵便局
+352,"What is the name of POI located at address: 鎌倉通り, 北沢二丁目, 北沢, 世田谷区, 東京都, 155-8668, 日本?",C,マクドナルド,五大陸（Gotairiku),es Cafe / Dining,Red Lobster
+353,"What is the name of POI located at address: 鎌倉通り, 北沢二丁目, 北沢, 世田谷区, 東京都, 155-8668, 日本?",B,きらぼし銀行,日本ナザレン教団 下北沢キリスト教会,会計検査院王子書庫,日本キリスト教団 永福教会
+354,"What is the name of POI located at address: 人形町通り, 日本橋人形町三一丁目, 日本橋人形町, 日本橋堀留町, 中央区, 東京都, 103-0013, 日本?",B,北沢タウンホール,スターバックス,福昌寺,三界寺
+355,"What is the name of POI located at address: 参拝道, 日本橋堀留町一丁目, 日本橋堀留町, 中央区, 東京都, 103-0012, 日本?",D,歌志軒,白髭神社,SHELL,Kiha
+356,"What is the name of POI located at address: 中井橋, 和泉二丁目, 和泉, 杉並区, 東京都, 168-0063, 日本?",D,日生劇場,紅蓮,愛珠幼稚園,レストナック幼稚園
+357,"What is the name of POI located at address: 井ノ頭通り, 浜田山三丁目, 浜田山, 杉並区, 東京都, 168-0065, 日本?",C,マクドナルド,日蓮宗 妙祝寺,ENEOS,方南図書館
+358,"What is the name of POI located at address: 川越街道, 桜川三丁目, 桜川, 板橋区, 東京都, 174-0075, 日本?",B,寳福寺,Red Lobster,日本ナザレン教団 下北沢キリスト教会,方南図書館
+359,"What is the name of POI located at address: 玉川通り, 玉川台一丁目, 世田谷区, 東京都, 154-0014, 日本?",A,ENEOS,加藤診療所,吉野家,三菱UFJ銀行
+360,"What is the name of POI located at address: 12, 桜田通り, 麻布台二丁目, 麻布台, 麻布, 港区, 東京都, 106-0041, 日本?",D,ロイヤルホスト,東京リバーサイド病院,赤堤幼稚園,横浜家系 港屋ラーメン
+361,"What is the name of POI located at address: 432, 桜丘町, 渋谷区, 東京都, 150-0031, 日本?",C,吉野家,ガスト,すき家,氷川神社
+362,"What is the name of POI located at address: 井ノ頭通り, 上原一丁目, 上原, 渋谷区, 東京都, 151-0064, 日本?",D,エネオス,Cafe FIRST,まことや,代々木上原駅前交番
+363,"What is the name of POI located at address: 八雲十中通り, 八雲二丁目, 目黒区, 東京都, 152-0023, 日本?",C,中村外科医院,飯田橋郵便局,氷川神社,神楽坂若宮八幡宮
+364,"What is the name of POI located at address: 茶沢通り, 北沢三丁目, 北沢, 世田谷区, 東京都, 155-8666, 日本?",A,すずらん薬局,みずほ銀行,城北信用金庫,大番
+365,"What is the name of POI located at address: 甲州街道, 笹塚一丁目, 笹塚, 渋谷区, 東京都, 151-0073, 日本?",B,伏見三宝稲荷神社,みずほ銀行,天理教原宿分教団,十日森稲荷神社
+366,"What is the name of POI located at address: 甲州街道, 笹塚二丁目, 笹塚, 渋谷区, 東京都, 151-0073, 日本?",A,小山歯科医院,紅蓮,カトリック赤堤教会,スナック亜紀
+367,"What is the name of POI located at address: 大久保通り, 東中野一丁目, 中野区, 東京都, 164-0003, 日本?",A,中野中央一郵便局,清流寺,東京都立目黒区駒場東大前駅公衆便所,マクドナルド
+368,"What is the name of POI located at address: 青梅街道, 中央二丁目, 中野区, 東京都, 164-8622, 日本?",C,代田教会,長崎ちゃんぽんリンガーハット,宝仙ホール,きせきレディースクリニック
+369,"What is the name of POI located at address: 時は麺なし, 農大通り, 経堂一丁目, 世田谷区, 東京都, 156-0052, 日本?",C,ぱんだ接骨院,イムス記念病院,時は麺なり,浄徳寺
+370,"What is the name of POI located at address: 経堂本町通り, 宮坂二丁目, 世田谷区, 東京都, 156-0051, 日本?",D,ドトールコーヒーショップ,ガスト,村上薬局,世田谷消防署 宮の坂出張所
+371,"What is the name of POI located at address: 中野通り, 新井五丁目, 中野区, 東京都, 165-0024, 日本?",D,珈琲館,区立桜台体育館,西教寺,浄土真宗 了然寺
+372,"What is the name of POI located at address: 春日通り, 南池袋三丁目, 東池袋三丁目, 豊島区, 東京都, 170-0004, 日本?",C,ドトールコーヒーショップ,練馬タウンサイクル,豊島郵便局,立喰　はせ川
+373,"What is the name of POI located at address: 本郷通り, 王子一丁目, 王子, 北区, 東京都, 114-0024, 日本?",C,イムス記念病院,松屋,災害用飲用水給水所,琴の富士
+374,"What is the name of POI located at address: 本郷赤羽線, 王子本町一丁目, 北区, 東京都, 114-8508, 日本?",D,上板橋キリスト教会,ガスト,小石川郵便局,毛塚
+375,"What is the name of POI located at address: 駒沢通り, 五本木三丁目, 目黒区, 東京都, 153-0053, 日本?",A,十日森稲荷神社,まことや,マクドナルド,文殊院
+376,"What is the name of POI located at address: 桜田通り, 麻布台一丁目, 麻布台, 麻布, 港区, 東京都, 105-0001, 日本?",D,マクドナルド,延重寺,マツモトキヨシ,スターバックス
+377,"What is the name of POI located at address: 8時から20時は左折のみ可, 六本木一丁目, 虎ノ門五丁目, 麻布, 港区, 東京都, 105-0002, 日本?",C,モスバーガー,魚菜　根津　呼友,ドトールコーヒーショップ,法正寺
+378,"What is the name of POI located at address: 都市計画道路補助第154号線（区役所西通り）, 梅丘一丁目, 世田谷区, 東京都, 154-0022, 日本?",C,カトリック松原教会,Grill&Wine RaySam,吉田歯科,つくし薬局
+379,"What is the name of POI located at address: 都市計画道路補助第154号線（区役所西通り）, 梅丘一丁目, 世田谷区, 東京都, 154-0022, 日本?",A,佐藤歯科,ガスト,聖ヶ丘教会,三菱東京JFJ銀行 広尾支店
+380,"What is the name of POI located at address: 都市計画道路補助第154号線（区役所西通り）, 梅丘一丁目, 世田谷区, 東京都, 154-0022, 日本?",D,エネオス,マクドナルド,Times24,東京門跡別院 満足院
+381,"What is the name of POI located at address: 滝坂道, 豪徳寺一丁目, 世田谷区, 東京都, 154-0022, 日本?",B,ユニバーサルドラッグ,杓子稲荷神社,杉並区立 浜田山児童館,杉並浜田山郵便局
+382,"What is the name of POI located at address: 滝坂道, 豪徳寺一丁目, 世田谷区, 東京都, 154-0022, 日本?",B,ジョナサン,もりた歯科クリニック (Morita Dental Clinic),小鳥と小動物の病院,安安
+383,"What is the name of POI located at address: 滝坂道, 豪徳寺一丁目, 世田谷区, 東京都, 154-0022, 日本?",A,梅丘内科,早稲田大学前,日本郵便趣味協会,Shinagawa Parking Access
+384,"What is the name of POI located at address: 内記坂, 恵比寿西二丁目, 恵比寿西, 渋谷区, 東京都, 150-0021, 日本?",D,ジョナサン,打越天神北野神社,カフェ・ベローチェ,代官山公園
+385,"What is the name of POI located at address: 原二本通り, 神宮前三丁目, 神宮前, 渋谷区, 東京都, 150-0001, 日本?",A,増田屋,サガミ薬品,居酒屋津國屋,スターバックス
+386,"What is the name of POI located at address: 外堀通り, 神田淡路町二丁目, 神田淡路町, 千代田区, 東京都, 102-0000, 日本?",B,喫茶・ギャラリー　りんごや,神田藪蕎麦 (Yabusoba),ガスト,永福町天谷総合医院 (Eifuku-cho Amaya Medical Center)
+387,"What is the name of POI located at address: 早稲田通り, 神楽坂六丁目, 神楽坂, 新宿区, 東京都, 162-0825, 日本?",B,吉野家,りそな銀行,愛珠幼稚園,スターバックス
+388,"What is the name of POI located at address: 袖摺坂, 横寺町, 新宿区, 東京都, 160-8484, 日本?",A,圓福寺,早稲田鶴巻町パーキング,世田谷ビジネススクエア (Setagaya Business Square),永福稲荷神社
+389,"What is the name of POI located at address: 早稲田通り, 神楽坂六丁目, 神楽坂, 新宿区, 東京都, 162-0825, 日本?",B,目黒駒場郵便局,ガスト,日高屋,大番
+390,"What is the name of POI located at address: 大久保通り, 神楽坂五丁目, 岩戸町, 新宿区, 東京都, 160-8484, 日本?",C,五大陸（Gotairiku),北沢税務署,法正寺,ドミノ
+391,"What is the name of POI located at address: 早稲田通り, 富士見二丁目, 富士見, 千代田区, 東京都, 102-0000, 日本?",B,浜田山キリスト教会,飯田橋郵便局,清流寺,くすりの早宮
+392,"What is the name of POI located at address: 神楽坂通り, 神楽坂一丁目, 神楽坂, 富士見, 新宿区, 東京都, 162-0825, 日本?",A,カナルカフェ,日本郵便趣味協会,ジョリーパスタ,安安
+393,"What is the name of POI located at address: 外堀通り, 神楽坂一丁目, 市谷田町三丁目, 市谷田町, 新宿区, 東京都, 160-8484, 日本?",A,法政大学,ENEOS,みずほ銀行,ココス
+394,"What is the name of POI located at address: 左内坂, 市谷田町一丁目, 市谷田町, 新宿区, 東京都, 160-8484, 日本?",D,ぱんだ接骨院,くすりの早宮,永福稲荷神社,市谷亀岡八幡宮
+395,"What is the name of POI located at address: かえで通り, 神田駿河台二丁目, 神田駿河台, 千代田区, 東京都, 102-0000, 日本?",C,から好し,尾花,エクセルシオール カフェ,寳福寺
+396,"What is the name of POI located at address: 都市計画道路補助第154号線（区役所西通り）, 梅丘一丁目, 世田谷区, 東京都, 154-0022, 日本?",A,ココカラファイン薬局,中田小児科クリニック,高級中国四川料理 登龍,りそな銀行
+397,"What is the name of POI located at address: 赤堤通り, 松原六丁目, 世田谷区, 東京都, 154-0022, 日本?",D,どらっぐぱぱす,天理教 南豊島分教会,泉歯科 (Izumi Dental Office),昭和シェル
+398,"What is the name of POI located at address: 補助54号線, 羽根木, 松原五丁目, 世田谷区, 東京都, 156-0042, 日本?",B,ゼッテリア,佐藤内科クリニック,時は麺なり,Bistro Sarugaku
+399,"What is the name of POI located at address: 茶沢通り, 代沢五丁目, 代沢, 世田谷区, 東京都, 155-9931, 日本?",B,神楽坂若宮八幡宮,まる吉,加藤診療所,修誠館 剣道場
+400,"What is the name of POI located at address: 茶沢通り, 代沢五丁目, 代沢, 世田谷区, 東京都, 155-9931, 日本?",B,みどりコミュニティセンター,代沢診療所,金光教麻布教会,南千住汐入歯科
+401,"What is the name of POI located at address: 茶沢通り, 代沢五丁目, 代沢, 世田谷区, 東京都, 155-0032, 日本?",C,栄寿司 (Sakae Sushi),日高屋,中華丸長,万世橋警察署
+402,"What is the name of POI located at address: 茶沢通り, 代沢四丁目, 代沢, 世田谷区, 東京都, 155-0032, 日本?",C,真木,伏見山 正法寺,アマノ動物病院,北沢タウンホール
+403,"What is the name of POI located at address: 環七通り, 代田, 世田谷区, 東京都, 155-0033, 日本?",C,東京らっきょブラザーズ,永福町駅前交番,代田教会,後藤歯科医院
+404,"What is the name of POI located at address: 駒沢通り, 恵比寿西一丁目, 恵比寿西, 渋谷区, 東京都, 150-0022, 日本?",D,ナンカレー,A&A認定ベクターワークスカフェジャパン,くるみ整骨院,吉野家
+405,"What is the name of POI located at address: 駒沢通り, 恵比寿南一丁目, 恵比寿南, 渋谷区, 東京都, 150-0022, 日本?",B,ジョリーパスタ,三井住友銀行,きせきレディースクリニック,みずほ銀行
+406,"What is the name of POI located at address: 恵比寿銀座通り, 恵比寿南一丁目, 恵比寿南, 渋谷区, 東京都, 150-0022, 日本?",A,ドトールコーヒーショップ,中華丸長,吉野家,くすりの早宮
+407,"What is the name of POI located at address: 池袋谷原線, 平和台三丁目, 練馬区, 東京都, 179-0084, 日本?",C,小山歯科医院,くるみ整骨院,マクドナルド,経堂駅前郵便局
+408,"What is the name of POI located at address: 北町豊玉線, 早宮二丁目, 練馬区, 東京都, 179-0085, 日本?",A,ふくみつ歯科医院,ENEOS,ドミノ・ピザ,根の津
+409,"What is the name of POI located at address: 北町豊玉線, 早宮二丁目, 練馬区, 東京都, 179-0085, 日本?",B,有明客船ターミナル,くすりの早宮,打越天神北野神社,高級中国四川料理 登龍
+410,"What is the name of POI located at address: 北町豊玉線, 練馬二丁目, 練馬区, 東京都, 176-0001, 日本?",A,練馬バプテスト教会,北区立中央図書館,永福町天谷総合医院 (Eifuku-cho Amaya Medical Center),エネオス
+411,"What is the name of POI located at address: 弁天通り商店街, 練馬一丁目, 練馬区, 東京都, 176-0001, 日本?",A,練馬和光保育園,大番,樺島病院,篠原稲荷神社
+412,"What is the name of POI located at address: 台橋通り, 東新町二丁目, 東新町, 板橋区, 東京都, 174-0074, 日本?",C,カナルカフェ,練馬バプテスト教会,安養院,根の津
+413,"What is the name of POI located at address: 神宮前6-31-17, 表参道, 神宮前六丁目, 神宮前, 渋谷区, 東京都, 150-0001, 日本?",C,ドトールコーヒーショップ,くすりの早宮,Gold's Gym,東京門跡別院 満足院
+414,"What is the name of POI located at address: ネッコ坂, 神宮前五丁目, 神宮前, 渋谷区, 東京都, 150-0001, 日本?",C,Aflo french dining Tribes,磨ゐ土,Las Chicas,吉野家
+415,"What is the name of POI located at address: 青山通り, 渋谷四丁目, 渋谷, 渋谷区, 東京都, 150-8366, 日本?",A,Tokyo Salon,マツモトキヨシ,ココカラファイン,世田谷北沢郵便局
+416,"What is the name of POI located at address: 旧渋谷川遊歩道路（キャットストリート）, 神宮前六丁目, 神宮前, 渋谷区, 東京都, 150-0001, 日本?",C,Kiha,青山製図専門学校,スターバックス,北区立中央図書館
+417,"What is the name of POI located at address: 道玄坂小路, 道玄坂二丁目, 道玄坂, 渋谷区, 東京都, 150-0043, 日本?",A,モスバーガー,戸矢診療所,まことや,杉並区立 浜田山児童館
+418,"What is the name of POI located at address: Footway for Oedo Line, 西新宿一丁目, 西新宿, 新宿区, 東京都, 160-8484, 日本?",B,氷川神社,ファーストキッチン,まことや,てらだ歯科クリニック
+419,"What is the name of POI located at address: 神田警察通り, 内神田一丁目, 神田司町二丁目, 千代田区, 東京都, 102-0000, 日本?",B,十日森稲荷神社,Blondie,ココス,三界寺
+420,"What is the name of POI located at address: 蔵前橋通り, 東新小岩三丁目, 葛飾区, 東京都, 124-0023, 日本?",C,佐藤薬局,ジョナサン,吉野家,向島消防団 第三分団本部
+421,"What is the name of POI located at address: 蔵前橋通り, 東新小岩三丁目, 葛飾区, 東京都, 124-0023, 日本?",B,安養院,サイゼリヤ,下馬福音教会,サブウェイ
+422,"What is the name of POI located at address: 白山祝田田町線, 芝五丁目, 麻布, 港区, 東京都, 108-8345, 日本?",A,すき家,山本薬局,Cafe Hatopoppo,日枝神社
+423,"What is the name of POI located at address: 桜田通り, 麻布台三丁目, 東麻布一丁目, 麻布, 港区, 東京都, 105-0011, 日本?",C,東京ポートボウル,Esso,伏見三宝稲荷神社,樺島病院
+424,"What is the name of POI located at address: 環状三号線, 麻布台三丁目, 芝三丁目, 麻布, 港区, 東京都, 105-8582, 日本?",D,寶蔵寺,渋谷福音教会,attic room YASUKUNI-GAIEN/cafe&dining,妙定院
+425,"What is the name of POI located at address: 松原大山通り, 松原二丁目, 世田谷区, 東京都, 156-0043, 日本?",D,ガスト,安養院,ツルハドラッグ,スプーンハウス
+426,"What is the name of POI located at address: 松原大山通り, 松原二丁目, 世田谷区, 東京都, 156-0043, 日本?",D,Big Boy,ファーストキッチン,恵比寿神社,カトリック松原教会
+427,"What is the name of POI located at address: 補助第128号線, 松原四丁目, 世田谷区, 東京都, 156-0044, 日本?",D,三界寺,Couzt Cafe,青龍神社,赤堤幼稚園
+428,"What is the name of POI located at address: 補助第128号線, 松原四丁目, 世田谷区, 東京都, 156-0044, 日本?",A,三界寺,日本長老教会 杉並教会,浄徳寺,ドトールコーヒーショップ
+429,"What is the name of POI located at address: 35, 明治通り, 広尾五丁目, 広尾, 渋谷区, 東京都, 150-0012, 日本?",A,エネオス,ドミノ・ピザ,世田谷消防署 宮の坂出張所,Gold's Gym
+430,"What is the name of POI located at address: くすの木通り, 恵比寿四丁目, 恵比寿, 渋谷区, 東京都, 150-6003, 日本?",B,りそな銀行,金光教麻布教会,正覚寺,日本キリスト教団 代々木上原教会
+431,"What is the name of POI located at address: 駒沢通り, 恵比寿南二丁目, 恵比寿南, 渋谷区, 東京都, 150-0022, 日本?",B,KUROBA-TEI,日高屋,正覚寺,アマノ動物病院
+432,"What is the name of POI located at address: 渋谷区特別区道870号線（野沢通り）, 鉢山町, 渋谷区, 東京都, 150-0035, 日本?",C,駒込駅前交番,根の津,鉢山公園,日本キリスト教団 豊沢教会
+433,"What is the name of POI located at address: 外苑東通り, 麻布台二丁目, 麻布台, 麻布, 港区, 東京都, 106-0041, 日本?",B,南千住六丁目アパート,ラジオ日本,代々木上原駅前交番,宗延寺
+434,"What is the name of POI located at address: 1, 練馬区, 東京都, 176-0002, 日本?",D,芋甚,アマノ動物病院,不二家レストラン,区立桜台体育館
+435,"What is the name of POI located at address: たつみスカイデッキ, 新小岩二丁目, 葛飾区, 東京都, 124-0024, 日本?",A,マクドナルド,浄徳寺,ビレン,北沢タウンホール
+436,"What is the name of POI located at address: 東四つ木コミュニティ通り, 東立石三丁目, 葛飾区, 東京都, 124-0014, 日本?",C,小鳥と小動物の病院,てらだ歯科クリニック,白髭神社,尾花
+437,"What is the name of POI located at address: 新荒川堤防線, 八広六丁目, 八広, 墨田区, 東京都, 131-0041, 日本?",A,日枝神社,篠原稲荷神社,青山製図専門学校,妙定院
+438,"What is the name of POI located at address: 新荒川堤防線, 八広五丁目, 八広, 墨田区, 東京都, 131-0041, 日本?",B,讃岐うどん すみた,寶蔵寺,読売東京理工医療福祉専門学校,マクドナルド
+439,"What is the name of POI located at address: 世田谷通り, 世田谷一丁目, 世田谷区, 東京都, 154-0017, 日本?",B,レストナック幼稚園,マツモトキヨシ,三菱UFJ銀行,延重寺
+440,"What is the name of POI located at address: 渋谷リバーストリート, 渋谷三丁目, 渋谷, 渋谷区, 東京都, 150-0002, 日本?",B,マクドナルド,カフェ・ベローチェ,稲毛屋,真木
+441,"What is the name of POI located at address: 川越街道, 成増二丁目, 板橋区, 東京都, 175-0094, 日本?",C,CAT'S CRADLE,てらだ歯科クリニック,Big Boy,海燕
+442,"What is the name of POI located at address: 渋谷リバーストリート, 渋谷三丁目, 渋谷, 渋谷区, 東京都, 150-0032, 日本?",D,カナルカフェ,恵比寿保育園,葛飾区立新宿図書センター,渋谷三郵便局
+443,"What is the name of POI located at address: 渋谷リバーストリート, 渋谷三丁目, 渋谷, 渋谷区, 東京都, 150-0032, 日本?",B,代々木上原駅前交番,三菱UFJ銀行,モスバーガー,世田谷信用金庫 永福町
+444,"What is the name of POI located at address: 渋谷リバーストリート, 渋谷三丁目, 渋谷, 渋谷区, 東京都, 150-0032, 日本?",D,マツモトキヨシ,佐藤歯科,五大陸（Gotairiku),ドトールコーヒーショップ
+445,"What is the name of POI located at address: 渋谷リバーストリート, 渋谷三丁目, 渋谷, 渋谷区, 東京都, 150-0032, 日本?",A,マクドナルド,真木,スターバックス,
+446,"What is the name of POI located at address: 明治通り, 渋谷三丁目, 渋谷, 渋谷区, 東京都, 150-8510, 日本?",D,歌志軒,世田谷梅丘郵便局,時は麺なり,城南信用金庫渋谷支店
+447,"What is the name of POI located at address: 六郷田無道, 桜丘二丁目, 世田谷区, 東京都, 155-0055, 日本?",A,Lafayette St.,アマノ動物病院,ちゃんこ　黒潮,三菱UFJ銀行
+448,"What is the name of POI located at address: 池袋谷原線, 向原二丁目, 向原, 板橋区, 東京都, 173-0037, 日本?",C,稲毛屋,東京国際基督教教会,ツルハドラッグ,珈琲館
+449,"What is the name of POI located at address: 平和橋通り, 堀切三丁目, 葛飾区, 東京都, 124-0011, 日本?",C,小鳥と小動物の病院,居酒屋津國屋,慈眼院,東京宝塚劇場
+450,"What is the name of POI located at address: 平和橋通り, 堀切三丁目, 葛飾区, 東京都, 124-0011, 日本?",D,北沢タウンホール,西武信用金庫 浜田山支店,代々木上原駅前交番,篠原稲荷神社
+451,"What is the name of POI located at address: 東京ビッグサイト駅改札口, 有明三丁目, 有明, 江東区, 東京都, 135-0063, 日本?",C,松屋,伏見山 正法寺,有明客船ターミナル,災害用飲用水給水所
+452,"What is the name of POI located at address: 新橋日の出ふ頭線, 海岸二丁目, 港区, 東京都, 105-8575, 日本?",C,日本キリスト教団 代々木上原教会,救世軍渋谷小隊,日の出桟橋,Couzt Cafe
+453,"What is the name of POI located at address: 渋谷区特別区道870号線（野沢通り）, 鉢山町, 渋谷区, 東京都, 150-0035, 日本?",C,高級中国四川料理 登龍,不二家レストラン,渋谷福音教会,クラップユアハンズ
+454,"What is the name of POI located at address: 玉川通り, 道玄坂一丁目, 道玄坂, 渋谷区, 東京都, 150-0036, 日本?",B,ぱんだ接骨院,聖ヶ丘教会,すき家,スナック亜紀
+455,"What is the name of POI located at address: 玉川通り, 道玄坂一丁目, 道玄坂, 渋谷区, 東京都, 150-0031, 日本?",B,三菱東京UFJ銀行,カフェ・ド・クリエ,渋谷福音教会,Le moccot
+456,"What is the name of POI located at address: 明治通り, 文花三丁目, 文花, 墨田区, 東京都, 131-0041, 日本?",D,浄徳寺,和泉福音教会,早稲田大学前,向島警察署
+457,"What is the name of POI located at address: 京葉道路, 松島一丁目, 江戸川区, 東京都, 132-0033, 日本?",D,文京区立　不忍通りふれあい館,清水湯,Le moccot,小松川警察署
+458,"What is the name of POI located at address: 玉川通り, 道玄坂一丁目, 道玄坂, 渋谷区, 東京都, 150-0043, 日本?",C,会計検査院王子書庫,えさき,惟神會本部,根の津
+459,"What is the name of POI located at address: 補助第18号線, 桜丘町, 渋谷区, 東京都, 150-0031, 日本?",D,佐藤歯科,青龍神社,イタリアントマト,中渋谷教会
+460,"What is the name of POI located at address: 八幡通り, 猿楽町, 渋谷区, 東京都, 150-0033, 日本?",C,大出歯科医院,サイゼリヤ,サブウェイ,神田藪蕎麦 (Yabusoba)
+461,"What is the name of POI located at address: 870, 鶯谷町, 渋谷区, 東京都, 150-0032, 日本?",C,トヨタレンタカー,聖ヶ丘教会,幸福の科学渋谷精舎,早稲田大学メディアネットワークセンター
+462,"What is the name of POI located at address: 渋谷区特別区道893号線（補助18号線）, 恵比寿西一丁目, 恵比寿西, 渋谷区, 東京都, 150-0021, 日本?",D,桜新町,ENEOS,圓福寺,東京国際基督教教会
+463,"What is the name of POI located at address: 八幡通り, 猿楽町, 渋谷区, 東京都, 150-0034, 日本?",B,ウエルシア (WELCIA),三井住友銀行,永福町駅前交番,天理教原宿分教団
+464,"What is the name of POI located at address: 渋谷さくら坂, 桜丘町, 渋谷区, 東京都, 150-0031, 日本?",D,Red Lobster,浄徳寺,芝東照宮,ジョナサン
+465,"What is the name of POI located at address: しおかぜ通り, 芝浦三丁目, 港区, 東京都, 108-0023, 日本?",A,ロッテリア,マツモトキヨシ,青龍神社,カフェ・ド・クリエ
+466,"What is the name of POI located at address: 恵比寿一番街, 恵比寿四丁目, 恵比寿西一丁目, 恵比寿西, 渋谷区, 東京都, 150-0022, 日本?",D,くるみ整骨院,横浜家系 港屋ラーメン,文殊院,三菱UFJ銀行
+467,"What is the name of POI located at address: 間坂, 桜丘町, 道玄坂, 渋谷区, 東京都, 150-0031, 日本?",B,カフェ・ベローチェ,東京教会,金光教麻布教会,みずほ銀行
+468,"What is the name of POI located at address: 八幡通り, 猿楽町, 渋谷区, 東京都, 150-0034, 日本?",A,エネオス,永福町 大勝軒,Big Boy,
+469,"What is the name of POI located at address: 渋谷区特別区道1076号線（補助18号線）, 恵比寿西二丁目, 恵比寿西, 渋谷区, 東京都, 150-0021, 日本?",C,早稲田大学前,妙定院,恵比寿保育園,東京門跡別院 満足院
+470,"What is the name of POI located at address: 慶應仲通り, 芝五丁目, 麻布, 港区, 東京都, 108-8345, 日本?",C,Autobacs Nakameguro,山形医院,読売東京理工医療福祉専門学校,カトリック赤堤教会
+471,"What is the name of POI located at address: 第一京浜, 芝五丁目, 麻布, 港区, 東京都, 105-0023, 日本?",B,泉歯科 (Izumi Dental Office),三菱UFJ銀行,法正寺,杉並区立 浜田山児童館
+472,"What is the name of POI located at address: 高砂橋, 青戸二丁目, 葛飾区, 東京都, 125-0054, 日本?",D,ロイヤルホスト,モスバーガー,日本ナザレン教団 三軒茶屋教会,青龍神社
+473,"What is the name of POI located at address: 帝釈道, 新宿四丁目, 葛飾区, 東京都, 125-0051, 日本?",C,杉並和泉二郵便局,喫茶・ギャラリー　りんごや,葛飾区立新宿図書センター,スプーンハウス
+474,"What is the name of POI located at address: 駒沢通り, 恵比寿西一丁目, 恵比寿西, 渋谷区, 東京都, 150-0022, 日本?",D,すき家,中野教会,ENEOS,救世軍渋谷小隊
+475,"What is the name of POI located at address: 駒沢通り, 恵比寿南一丁目, 恵比寿南, 渋谷区, 東京都, 150-0022, 日本?",A,フレッシュネスバーガー,打越天神北野神社,小伝馬町ドラッグ,Autobacs Nakameguro
+476,"What is the name of POI located at address: 八幡通り, 猿楽町, 渋谷区, 東京都, 150-0034, 日本?",A,Bistro Sarugaku,浄土真宗 了然寺,NaCaSa,青山製図専門学校
+477,"What is the name of POI located at address: 芝浦運河通り, 芝浦二丁目, 港区, 東京都, 105-0023, 日本?",B,なか卯,東京ポートボウル,マクドナルド,月島
+478,"What is the name of POI located at address: 文化村通り, 道玄坂二丁目, 道玄坂, 渋谷区, 東京都, 150-0043, 日本?",D,ドミノ・ピザ,村上薬局,中田小児科クリニック,不二家レストラン
+479,"What is the name of POI located at address: 渋谷区特別区道1076号線（補助18号線）, 桜丘町, 恵比寿西, 渋谷区, 東京都, 150-0032, 日本?",D,紅蓮,永福寺,ココカラファイン,日本デザイナー学院
+480,"What is the name of POI located at address: 870, 鶯谷町, 渋谷区, 東京都, 150-0032, 日本?",D,ラジオ日本,芝東照宮,昭和信用金庫,日本写真芸術専門学校
+481,"What is the name of POI located at address: 渋谷区特別区道1076号線（補助18号線）, 桜丘町, 恵比寿西, 渋谷区, 東京都, 150-0032, 日本?",B,興安寺,青山製図専門学校,讃岐うどん すみた,もりた歯科クリニック (Morita Dental Clinic)
+482,"What is the name of POI located at address: 渋谷中央通り, 道玄坂一丁目, 道玄坂, 渋谷区, 東京都, 150-0043, 日本?",C,マクドナルド,イムス記念病院,横浜銀行,渋谷区初台区民館
+483,"What is the name of POI located at address: 870, 鶯谷町, 渋谷区, 東京都, 150-0032, 日本?",C,フレッシュネスバーガー,手洗所,青山製図専門学校,東京都立目黒区駒場東大前駅公衆便所
+484,"What is the name of POI located at address: 瀬田貫井線, 桜新町二丁目, 世田谷区, 東京都, 154-8799, 日本?",D,城北信用金庫,篠原稲荷神社,東京日石オートガス,桜新町
+485,"What is the name of POI located at address: 補助128号線, 赤堤一丁目, 世田谷区, 東京都, 154-0021, 日本?",A,村上薬局,ジョナサン,真木,肉の万世
+486,"What is the name of POI located at address: 忠弥坂, 本郷一丁目, 文京区, 東京都, 113-8484, 日本?",D,三菱東京UFJ銀行,みどりコミュニティセンター,世田谷ビジネススクエア (Setagaya Business Square),興安寺
+487,"What is the name of POI located at address: 中杉通り, 中村北三丁目, 練馬区, 東京都, 176-0023, 日本?",D,やなか珈琲店,坪井医院,赤堤動物病院,ぱぱす
+488,"What is the name of POI located at address: 菊坂, 本郷四丁目, 文京区, 東京都, 113-0033, 日本?",C,代々木上原駅前交番,讃岐うどん すみた,海燕,北沢タウンホール
+489,"What is the name of POI located at address: 千川通り, 上鷺宮四丁目, 中野区, 東京都, 165-0031, 日本?",A,三菱UFJ銀行,トヨタレンタカー,浜田山デンタルクリニック (Hamadayama Dental Clinic),マクドナルド
+490,"What is the name of POI located at address: 南田中町旭町線（支線2）（補助第230号線）, 光が丘, 練馬区, 東京都, 179-8799, 日本?",A,三菱UFJ銀行,Grill&Wine RaySam,永福町駅前交番,下馬福音教会
+491,"What is the name of POI located at address: 西福寺通り, 赤堤三丁目, 世田谷区, 東京都, 156-0052, 日本?",C,ケンタッキーフライドチキン,ドミノ,経堂駅前郵便局,昭和信用金庫 桜上水支店
+492,"What is the name of POI located at address: 大久保通り, 中野二丁目, 中野区, 東京都, 164-0011, 日本?",A,中野保健所,栄寿司 (Sakae Sushi),城北信用金庫,晴海歯科
+493,"What is the name of POI located at address: 早稲田通り, 上落合, 上落合三丁目, 上落合, 新宿区, 東京都, 160-8484, 日本?",B,ココカラファイン,三菱東京UFJ銀行,松原湯,餃子の王将
+494,"What is the name of POI located at address: 青梅街道, 本町, 中野区, 東京都, 164-8622, 日本?",D,スターバックス,ユニバーサルドラッグ,後藤歯科医院,西武信用金庫
+495,"What is the name of POI located at address: 赤松通り, 赤堤三丁目, 世田谷区, 東京都, 156-0044, 日本?",A,カトリック赤堤教会,フォルクス 世田谷代田店,ケンタッキーフライドチキン,三界寺
+496,"What is the name of POI located at address: 西福寺通り, 赤堤三丁目, 世田谷区, 東京都, 156-0044, 日本?",D,根の津,鹿野歯科医院 (Kano Dental Clinic),中野中央一郵便局,赤堤動物病院

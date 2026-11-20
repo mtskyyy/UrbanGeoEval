@@ -1,0 +1,603 @@
+,A,B,C,D,question,answer
+0,Viaduto São Cosme,Rua Pereira Landim,Rua Goiás,Rua Felisbelo Freire,"In the Rio de Janeiro area, which road cannot directly reach Rua Leopoldina Rego?",C
+1,Rua Dona Isabel,Rua Marcos de Macedo,Rua Uranos,Rua Xavier Curado,"In the Rio de Janeiro area, which road directly reaches Viaduto São Damião?",C
+2,Avenida Prefeito Mendes de Morais,Avenida Antonio Gallotti,Avenida Adauto Botelho,Rua Borda do Mato,"In the Rio de Janeiro area, which road directly reaches Rua Engenheiro Amandino de Carvalho?",A
+3,Rua Teodoro da Silva,Largo da Macumba,Autoestrada Engenheiro Fernando Mac Dowell,Avenida Niemeyer,"In the Rio de Janeiro area, which road cannot directly reach Estrada da Gávea?",A
+4,Avenida Ministro Edgard Romero,Rua Major Suckow,Rua Antônio Americano,Viaduto de Magalhães Bastos,"In the Rio de Janeiro area, which road directly reaches Rua Dagmar da Fonseca?",A
+5,Via Parque,Rua Carolina Machado,Rua Dagmar da Fonseca,Rua Luíza de Carvalho,"In the Rio de Janeiro area, which road cannot directly reach Avenida Ministro Edgard Romero?",A
+6,Estrada do Engenho Novo,Rua Guineza,Rua Angelina,Viaduto Compositor Wilson Batista,"In the Rio de Janeiro area, which road cannot directly reach Rua Goiás?",A
+7,Rua Conde de Azambuja,Rua Piauí,Rua Padre Ventura,Praça Seca,"In the Rio de Janeiro area, which road directly reaches Rua Doutor Padilha?",B
+8,Avenida General Benedito da Silveira,Avenida General Oswaldo Cordeiro de Farias,Rua Paturi,Rua São Paulo,"In the Rio de Janeiro area, which road directly reaches Praça Montese?",B
+9,Praça Montese,Rua Henrique de Albuquerque,Avenida Ministro Edgard Romero,Praça Quinze de Novembro,"In the Rio de Janeiro area, which road cannot directly reach Avenida General Oswaldo Cordeiro de Farias?",C
+10,Rua das Turmalinas,Estrada da Gávea Pequena,Estrada do Barro Vermelho,Praça das Esmeraldas,"In the Rio de Janeiro area, which road cannot directly reach Rua dos Rubis?",B
+11,Rua Santa Basilissa,Rua Uruguai,Avenida Brasil,Rua dos Rubis,"In the Rio de Janeiro area, which road directly reaches Praça das Esmeraldas?",D
+12,Rua Henrique Scheid,Rua das Tulipas,Rua Cesar Muzio,Rua Conselheiro Galvão,"In the Rio de Janeiro area, which road directly reaches Rua Domingos Fernades?",D
+13,Avenida Olof Palme,Estrada do Colégio,Rua Alberto Samuel Mercante,Rua Domingos Fernades,"In the Rio de Janeiro area, which road directly reaches Rua Leopoldino de Oliveira?",D
+14,Rua Gaspar Viana,Avenida Boulevard Ilha Pura,Rua Florentina,Avenida Dom Hélder Câmara,"In the Rio de Janeiro area, which road cannot directly reach Rua Cerqueira Daltro?",B
+15,Rua Rui das Dores,Rua Gaspar Viana,Rua Torres Homem,Avenida Oliveira Belo,"In the Rio de Janeiro area, which road directly reaches Rua Florentina?",B
+16,Rua Gastão Taveira,Rua Cândido Benício,Rua Parintins,Rua Carlos Xavier,"In the Rio de Janeiro area, which road cannot directly reach Rua Barão?",D
+17,Rua Gaspar Viana,Rua Cupertino,Rua Barão,Estrada Manoel Nogueira de Sá,"In the Rio de Janeiro area, which road directly reaches Praça Seca?",C
+18,Rua Maricá,Estrada Comandante Luiz Souto,Largo do Tanque,Rua Dona Isabel,"In the Rio de Janeiro area, which road cannot directly reach Rua Cândido Benício?",D
+19,Rua Imbuí,Rua Atininga,Avenida dos Democráticos,Estrada Comandante Luiz Souto,"In the Rio de Janeiro area, which road cannot directly reach Rua Godofredo Viana?",C
+20,Rua Ferreira Chaves,Rua General Fonseca Ramos,Rua Capitão Cader Matori,Rua das Oficinas Jornalista Luiz Mendes,"In the Rio de Janeiro area, which road directly reaches Rua Henrique Scheid?",D
+21,Rua Ary Kerner,Rua Henrique Scheid,Rua do Lazer,Rua Ibiraci,"In the Rio de Janeiro area, which road cannot directly reach Avenida Dom Hélder Câmara?",A
+22,Avenida Vicente de Carvalho,Rua Engenheiro Mario de Carvalho,Rua Francisca Vidal,Estrada Coronel Vieira,"In the Rio de Janeiro area, which road cannot directly reach Avenida Pastor Martin Luther King Junior?",C
+23,Rua da Tranquilidade,Rua Ferreira Chaves,Estrada dos Três Rios,Avenida do Braz de Pina,"In the Rio de Janeiro area, which road cannot directly reach Avenida Vicente de Carvalho?",C
+24,Estrada dos Teixeiras,Avenida Meriti,Via Light,Rua Ferreira Chaves,"In the Rio de Janeiro area, which road directly reaches Praça Aquidauana?",B
+25,Estrada Padre Roser,Rua Cetima,Praça Avanhandava,Rua Adolfo Bergamini,"In the Rio de Janeiro area, which road cannot directly reach Avenida Meriti?",D
+26,Viaduto João XXIII,Rua Engenheiro Francisco Passos,Estrada do Bananal,Rua Godofredo Viana,"In the Rio de Janeiro area, which road directly reaches Praça Manuel Ortigão?",A
+27,Rua Comendador Siqueira,Rua Doutor Garnier,Rua das Safiras,Praça Manuel Ortigão,"In the Rio de Janeiro area, which road directly reaches Viaduto João XXIII?",D
+28,Avenida das Américas,Rua Santo Antônio,Estrada dos Bandeirantes,Avenida Vice-Presidente José Alencar,"In the Rio de Janeiro area, which road cannot directly reach Avenida Imperatriz Leopoldina?",A
+29,Rua da Chácara,Rua Dois de Maio,Avenida Comandante Guaranys,Avenida Boulevard Ilha Pura,"In the Rio de Janeiro area, which road directly reaches Rua Santo Antônio?",C
+30,Rua Euclides Faria,Rua Barão do Bom Retiro,Viaduto de Magalhães Bastos,Rua Cairuçu,"In the Rio de Janeiro area, which road directly reaches Rua Porto Alegre?",B
+31,Praça Avanhandava,Rua Porto Alegre,Rua das Dálias,Boulevard 28 de Setembro,"In the Rio de Janeiro area, which road directly reaches Rua Cabuçu?",B
+32,Avenida Monte Cruzeiro,Rua Luís Beltrão,Viaduto Jornalista Armando Nogueira,Rua Vinte e Quatro de Maio,"In the Rio de Janeiro area, which road directly reaches Rua Cônego Tobias?",D
+33,Rua Dias da Cruz,Rua Lins de Vasconcelos,Rua Cônego Tobias,Avenida General Benedito da Silveira,"In the Rio de Janeiro area, which road cannot directly reach Rua Hermengarda?",D
+34,Rua Leopoldina Rego,Estrada Macembu,Avenida Dom Hélder Câmara,Rua Cabuçu,"In the Rio de Janeiro area, which road directly reaches Rua Bráulio Cordeiro?",C
+35,Rua Filomena Fragoso,Estrada dos Três Rios,Rua Bráulio Cordeiro,Rua André Rocha,"In the Rio de Janeiro area, which road directly reaches Rua Camboriú?",C
+36,Avenida Nova York,Avenida Paris,Rua Doutor Padilha,Avenida Bruxelas,"In the Rio de Janeiro area, which road cannot directly reach Rua Dona Isabel?",C
+37,Rua Major Suckow,Rua Alberto Samuel Mercante,Avenida Brasil,Travessa Adriano dos Passos,"In the Rio de Janeiro area, which road directly reaches Avenida Paris?",C
+38,Estrada do Engenho da Pedra,Rua Barreiros,Avenida Brás de Pina,Rua Leopoldina Rego,"In the Rio de Janeiro area, which road cannot directly reach Rua Felisbelo Freire?",C
+39,Avenida Paris,Rua Uranos,Rua Leônidas,Rua Padre Manso,"In the Rio de Janeiro area, which road directly reaches Rua José Maurício?",C
+40,Rua Uranos,Largo da Penha,Travessa Comendador Filips,Rua Piauí,"In the Rio de Janeiro area, which road directly reaches Rua Leônidas?",B
+41,Avenida Brás de Pina,Estrada da Curicica,Rua Capitão Mário Barbedo,Rua Dias da Cruz,"In the Rio de Janeiro area, which road directly reaches Rua Intendente Cunha Menezes?",D
+42,Rua Venceslau,Travessa Comendador Filips,Mergulhão Clara Nunes,Rua Dias da Cruz,"In the Rio de Janeiro area, which road cannot directly reach Rua Magalhães Couto?",C
+43,Rua João Barbalho,Rua Concórdia,Viaduto Castro Alves,Rua Silva Vale,"In the Rio de Janeiro area, which road directly reaches Rua Constança Barbosa?",C
+44,Rua Maxwell,Rua Constança Barbosa,Rua Aristides Caire,Rua Santa Fé,"In the Rio de Janeiro area, which road cannot directly reach Viaduto Castro Alves?",A
+45,Rua Henrique de Albuquerque,Rua Urucuia,Rua Lucídio Lago,Rua Oliveira Serpa,"In the Rio de Janeiro area, which road directly reaches Rua Carolina Méier?",C
+46,Rua Amália Franco,Rua Lucídio Lago,Rua José Bonifácio,Rua Aristides Caire,"In the Rio de Janeiro area, which road cannot directly reach Rua Arquias Cordeiro?",A
+47,Rua Santa Fé,Rua Carolina Méier,Avenida Albérico Diniz,Rua Propícia,"In the Rio de Janeiro area, which road cannot directly reach Rua Lucídio Lago?",C
+48,Rua Aristides Caire,Rua Lucídio Lago,Rua Aladim,Viaduto Castro Alves,"In the Rio de Janeiro area, which road cannot directly reach Rua Santa Fé?",C
+49,Rua Euclides Faria,Rua Arquias Cordeiro,Via Parque,Rua Ana Barbosa,"In the Rio de Janeiro area, which road directly reaches Rua Coração de Maria?",B
+50,Rua Luiz Carlos,Rua Barão de São Francisco,Avenida Dom Hélder Câmara,Rua Doutor Padilha,"In the Rio de Janeiro area, which road cannot directly reach Rua Piauí?",B
+51,Rua Souza Barros,Rua Vinte e Quatro de Maio,Rua Arquias Cordeiro,Rua Cacequi,"In the Rio de Janeiro area, which road cannot directly reach Rua Silva Freire?",D
+52,Rua Cândido Benício,Rua Marangá,Rua Álvaro de Miranda,Praça Seca,"In the Rio de Janeiro area, which road cannot directly reach Rua Baronesa?",C
+53,Avenida Luís Carlos Prestes,Rua Maria Freitas,Rua dos Rubis,Avenida Engenheiro Hermano Jordão Freire,"In the Rio de Janeiro area, which road directly reaches Rua Alberto Samuel Mercante?",A
+54,Estrada do Catonho,Avenida José Silva de Azevedo Neto,Avenida das Américas,Rua Alberto Samuel Mercante,"In the Rio de Janeiro area, which road cannot directly reach Avenida Luís Carlos Prestes?",A
+55,Estrada de Jacarepaguá,Praça Panamericana,Estrada do Itanhangá,Via Light,"In the Rio de Janeiro area, which road cannot directly reach Avenida Engenheiro Souza Filho?",B
+56,Rua Ituverava,Rua Nova,Rua Constança Barbosa,Via Light,"In the Rio de Janeiro area, which road cannot directly reach Estrada de Jacarepaguá?",C
+57,Rua Lívio Barreto,Estrada do Rio Grande,Avenida Geremário Dantas,Viaduto de Deodoro,"In the Rio de Janeiro area, which road cannot directly reach Avenida Nelson Cardoso?",D
+58,Rua Violeta,Rua Ipadu,Avenida Paulo Goulart,Avenida Nelson Cardoso,"In the Rio de Janeiro area, which road directly reaches Praça Araci Cabral da Rocha?",D
+59,Rua Padre Ventura,Rua Mapendi,Estrada dos Bandeirantes,Rua da Abolição,"In the Rio de Janeiro area, which road cannot directly reach Rua Professora Francisca Piragibe?",D
+60,Rua José de Souza Baeta,Rua Filomena Fragoso,Rua André Rocha,Rua Professora Francisca Piragibe,"In the Rio de Janeiro area, which road cannot directly reach Rua Padre Ventura?",B
+61,Estrada Santa Efigênia,Estrada Coronel Pedro Corrêa,Rua Arauá,Rua José dos Reis,"In the Rio de Janeiro area, which road cannot directly reach Estrada dos Bandeirantes?",D
+62,Rua Sidônio Pais,Estrada dos Bandeirantes,Rua Padre Ventura,Rua Mapendi,"In the Rio de Janeiro area, which road cannot directly reach Rua José de Souza Baeta?",A
+63,Rua Dona Clara,Rua Quaxima,Estrada da Água Branca,Rua Padre Manso,"In the Rio de Janeiro area, which road cannot directly reach Rua Domingos Lopes?",C
+64,Rua Capitão Couto Menezes,Rua General Galieni,Rua Marangá,Avenida Professor Plinio Bastos,"In the Rio de Janeiro area, which road directly reaches Rua Maria José?",A
+65,Avenida Adauto Botelho,Rua Sidônio Pais,Rua João Romeiro,Rua Monsenhor Alves Rocha,"In the Rio de Janeiro area, which road directly reaches Rua Alberto Silva?",C
+66,Rua Alberto Silva,Rua Padre Telêmaco,Viaduto Prefeito Negrão de Lima,Rua Clarimundo de Melo,"In the Rio de Janeiro area, which road cannot directly reach Rua João Romeiro?",C
+67,Rua do Radialista,Estrada do Tindiba,Rua Antonieta Campos da Paz,Rua Uruguai,"In the Rio de Janeiro area, which road cannot directly reach Rua Professor Henrique Costa?",D
+68,Avenida Nelson Cardoso,Rua Bráulio Cordeiro,Rua Apiacás,Rua Pajurá,"In the Rio de Janeiro area, which road cannot directly reach Estrada do Tindiba?",B
+69,Praça Edmundo Rego,Rua Barão do Bom Retiro,Rua Barão de Mesquita,Rua Gurupi,"In the Rio de Janeiro area, which road cannot directly reach Avenida Engenheiro Richard?",C
+70,Rua Vinte e Quatro de Maio,Rua Rodrigo Melo Franco,Rua Alexandre Calaza,Avenida Engenheiro Richard,"In the Rio de Janeiro area, which road cannot directly reach Rua Barão do Bom Retiro?",B
+71,Rua da Tranquilidade,TransOlímpica,Rua Arlindo Janot,Rua Sargento Peixoto,"In the Rio de Janeiro area, which road cannot directly reach Avenida Brasil?",A
+72,Rua Goianinha,Rua Gastão Taveira,Estrada Meringuava,Avenida Brasil,"In the Rio de Janeiro area, which road directly reaches Rua Teixeira Ribeiro?",D
+73,Rua Manoel Vitorino,Rua Miguel Ângelo,Rua Carlos Lacerda,Rua Firmino Fragoso,"In the Rio de Janeiro area, which road directly reaches Rua Santiago Guerra?",C
+74,Rua do Cacau,Estrada do Guerenguê,Avenida Júlio de Sá Bierrenbach,Rua Santiago Guerra,"In the Rio de Janeiro area, which road directly reaches Rua Carlos Lacerda?",D
+75,Estrada do Itararé,Rua Miguel Burnier,Avenida Além Paraíba,Avenida Novo Rio,"In the Rio de Janeiro area, which road cannot directly reach Avenida dos Democráticos?",A
+76,Rua Doutor Luís Gaudie Ley,Rua Itamarati,Avenida Niemeyer,Avenida Novo Rio,"In the Rio de Janeiro area, which road directly reaches Avenida Lobo Junior?",A
+77,Rua Guaporé,Avenida Nossa Senhora da Penha,Rua Barão de Vassouras,Rua Venina,"In the Rio de Janeiro area, which road cannot directly reach Avenida do Braz de Pina?",C
+78,Avenida Adalgisa Colombo,Avenida Além Paraíba,Rua Getúlio,Rua Ariperana,"In the Rio de Janeiro area, which road directly reaches Avenida Júlio de Sá Bierrenbach?",A
+79,Avenida José Wilker,Rua São Guilherme de Norwich,Avenida Carlos Zara,Avenida Júlio de Sá Bierrenbach,"In the Rio de Janeiro area, which road cannot directly reach Avenida Adalgisa Colombo?",B
+80,Rua Sargento Silva Nunes,Rua Clarimundo de Melo,Rua Teixeira Ribeiro,Avenida Brasil,"In the Rio de Janeiro area, which road cannot directly reach Avenida Teixeira de Castro?",B
+81,Avenida Monte Cruzeiro,Avenida Brasil,Rua Oliveira Serpa,Rua Jacaraú,"In the Rio de Janeiro area, which road directly reaches Rua Sargento Silva Nunes?",B
+82,Rua Florianópolis,Rua do Queimado,Rua Barão do Bananal,Estrada da Gávea,"In the Rio de Janeiro area, which road directly reaches Autoestrada Engenheiro Fernando Mac Dowell?",D
+83,Marginal Avenida Brasil,Rua Picuí,Avenida do Braz de Pina,Rua Quaxima,"In the Rio de Janeiro area, which road directly reaches Rua Tapevi?",C
+84,Rua Cupertino,Praça das Esmeraldas,Avenida Dom Hélder Câmara,Rua Goiás,"In the Rio de Janeiro area, which road cannot directly reach Rua da Pedreira?",B
+85,Avenida Salvador Allende,Rua Cardoso de Morais,Estrada de Gericinó,Rua Melo Morais,"In the Rio de Janeiro area, which road directly reaches Rua Pedro Calmon?",A
+86,Rua Lopo Saraiva,Estrada da Canoa,Avenida Olof Palme,Estrada Caribu,"In the Rio de Janeiro area, which road directly reaches Rua Abrahão Jabour?",C
+87,Rua Edgard Werneck,Estrada dos Três Rios,Rua Cândido de Figueiredo,Avenida Geremário Dantas,"In the Rio de Janeiro area, which road cannot directly reach Estrada do Gabinal?",C
+88,Estrada de Jacarepaguá,Rua José Domingues,Avenida Ayrton Senna,Rua Guilherme Moreira,"In the Rio de Janeiro area, which road cannot directly reach Avenida Tenente Coronel Muniz de Aragão?",B
+89,Rua Paturi,Rua Creso,TransOlímpica,Avenida Moacyr Barbosa,"In the Rio de Janeiro area, which road directly reaches Rua da Ventura?",B
+90,Viaduto Procurador José Alves de Morais,Rua Paula Brito,Rua Cairuçu,Rua da Ventura,"In the Rio de Janeiro area, which road directly reaches Estrada Calmete?",D
+91,Rua Castro Alves,Rua Pedras Altas,Estrada da Barra da Tijuca,Rua Barão,"In the Rio de Janeiro area, which road directly reaches Rua Marangá?",D
+92,Rua Pajurá,Rua Marechal José Bevilacqua,Rua Nacional,Rua Arquias Cordeiro,"In the Rio de Janeiro area, which road directly reaches Rua José Bonifácio?",D
+93,Rua Dona Isabel,Avenida Bruxelas,Túnel Noel Rosa,Avenida Brasil,"In the Rio de Janeiro area, which road cannot directly reach Avenida Nova York?",C
+94,Estrada Coronel Vieira,Rua Paula Brito,Estrada do Engenho da Pedra,Estrada Adhemar Bebiano,"In the Rio de Janeiro area, which road directly reaches Rua Gerson Ferreira?",C
+95,Rua Luís Barbosa,Rua Jacaraú,Boulevard 28 de Setembro,Rua Barão de São Francisco,"In the Rio de Janeiro area, which road cannot directly reach Praça Barão de Drummond?",B
+96,Rua Barão de Vassouras,Rua Barão de Mesquita,Rua Soldado Arlindo Santos,Praça Barão de Drummond,"In the Rio de Janeiro area, which road cannot directly reach Rua Barão de São Francisco?",C
+97,Rua São Miguel,Rua Pajurá,Estrada do Camboatá,Rua Teodoro da Silva,"In the Rio de Janeiro area, which road directly reaches Avenida Sargento Isanor de Campos?",C
+98,Estrada da Soca,Avenida Sargento Isanor de Campos,Rua Engenheiro Nicanor Pereira,Viaduto de Deodoro,"In the Rio de Janeiro area, which road cannot directly reach Estrada do Camboatá?",A
+99,Rua Alberto Samuel Mercante,Avenida Nelson Cardoso,Avenida João Cabral de Melo Neto,Avenida Nelson Mufarrej,"In the Rio de Janeiro area, which road cannot directly reach Avenida José Silva de Azevedo Neto?",B
+100,Avenida Ayrton Senna,Avenida José Silva de Azevedo Neto,Rua Francisco de Paula,Via Parque,"In the Rio de Janeiro area, which road cannot directly reach Avenida Nelson Mufarrej?",C
+101,Estrada do Tindiba,Rua Engenheiro Arthur Moura,Rua Major Suckow,Estrada dos Três Rios,"In the Rio de Janeiro area, which road directly reaches Rua Lopo Saraiva?",A
+102,Estrada do Otaviano,Estrada dos Três Rios,Rua Olímpia do Couto,Rua Alexandre Ramos,"In the Rio de Janeiro area, which road cannot directly reach Avenida Geremário Dantas?",A
+103,Rua José Domingues,Estrada das Furnas,Rua Garibaldi,Avenida Edison Passos,"In the Rio de Janeiro area, which road cannot directly reach Rua São Miguel?",A
+104,Rua Andrade Figueira,Rua Conde de Bonfim,Rua Garibaldi,Praça Edmundo Rego,"In the Rio de Janeiro area, which road directly reaches Rua Marechal Trompowski?",B
+105,Rua Ipadu,Praça das Esmeraldas,Estrada Rodrigues Caldas,Estrada da Ligação,"In the Rio de Janeiro area, which road cannot directly reach Estrada do Outeiro Santo?",B
+106,Estrada Macembu,Rua Frei Rodovalho,Rua Mapendi,Rua Capitão Rezende,"In the Rio de Janeiro area, which road cannot directly reach Estrada Rodrigues Caldas?",D
+107,Rua do Engenho Novo,Rua Nerval de Gouvêa,Rua Assis Carneiro,Rua João Barbalho,"In the Rio de Janeiro area, which road cannot directly reach Rua Elias da Silva?",A
+108,Rua Elias da Silva,Rua João Barbalho,Rua Goiás,Rua Ariperana,"In the Rio de Janeiro area, which road cannot directly reach Viaduto Compositor Wilson Batista?",D
+109,Rua Maria Freitas,Rua Elias da Silva,Viaduto Compositor Wilson Batista,Rua Clarimundo de Melo,"In the Rio de Janeiro area, which road cannot directly reach Rua João Barbalho?",A
+110,Rua Creso,Estrada da Soca,Estrada do Engenho Velho,Estrada do Tindiba,"In the Rio de Janeiro area, which road cannot directly reach Estrada Meringuava?",A
+111,Estrada do Cafundá,Avenida dos Mananciais,Estrada do Engenho Velho,Estrada da Canoa,"In the Rio de Janeiro area, which road cannot directly reach Estrada da Soca?",D
+112,Avenida Luís Carlos Prestes,Rua Soldado Simplício de Lara,Rua Athaly Aguiar,Estrada da Soca,"In the Rio de Janeiro area, which road cannot directly reach Avenida dos Mananciais?",A
+113,Rua das Safiras,Estrada do Engenho d'Água,Rua Atininga,Estrada dos Teixeiras,"In the Rio de Janeiro area, which road directly reaches Estrada do Rio Pequeno?",D
+114,Avenida Monte Cruzeiro,Rua Concórdia,Estrada da Soca,Rua Apiacás,"In the Rio de Janeiro area, which road cannot directly reach Estrada do Rio Grande?",B
+115,Estrada Boiúna,Rua Ary Kerner,Estrada do Rio Grande,Estrada do Rio Pequeno,"In the Rio de Janeiro area, which road cannot directly reach Estrada dos Teixeiras?",B
+116,Rua Padre Manso,Avenida Adalgisa Colombo,Avenida Ricardo Eugênio Boechat,Avenida Paulo Goulart,"In the Rio de Janeiro area, which road cannot directly reach Avenida Carlos Zara?",A
+117,Rua Euzébio de Matos,Avenida Embaixador Abelardo Bueno,Rua Edgard Werneck,Rua Ibaté,"In the Rio de Janeiro area, which road directly reaches Avenida Paulo Goulart?",B
+118,Rua Gabriel Lisboa,Estrada Coronel Vieira,Rua Comandante Vergueiro da Cruz,Avenida Vicente de Carvalho,"In the Rio de Janeiro area, which road cannot directly reach Avenida Monsenhor Félix?",C
+119,Rua Álvares de Azevedo,Rua Domingos Fernades,Largo do Jacaré,Rua Lino Teixeira,"In the Rio de Janeiro area, which road cannot directly reach Viaduto Procurador José Alves de Morais?",B
+120,Rua Lino Teixeira,Rua Gomensoro,Rua Miguel Ângelo,Largo do Jacaré,"In the Rio de Janeiro area, which road cannot directly reach Rua Álvares de Azevedo?",B
+121,Rua Comendador Siqueira,Rua Lino Teixeira,Rua Dois de Maio,Rua Álvares de Azevedo,"In the Rio de Janeiro area, which road cannot directly reach Largo do Jacaré?",A
+122,Estrada do Capenha,Rua Magalhães Castro,Largo do Jacaré,Rua Álvares de Azevedo,"In the Rio de Janeiro area, which road cannot directly reach Rua Lino Teixeira?",A
+123,Rua Ivan de Oliveira Lima,Avenida Pastor Martin Luther King Junior,Rua Professora Francisca Piragibe,Rua do Lazer,"In the Rio de Janeiro area, which road cannot directly reach Rua José dos Reis?",C
+124,Rua Castro Alves,Rua São Guilherme de Norwich,Rua José dos Reis,Via Light,"In the Rio de Janeiro area, which road directly reaches Rua do Lazer?",C
+125,Rua Olímpia do Couto,Praça Evaristo Gomes da Silva,Rua Amália Franco,Estrada da Fontinha,"In the Rio de Janeiro area, which road cannot directly reach Estrada Henrique de Melo?",A
+126,Estrada Henrique de Melo,Rua Quiririm,Rua Feliciano de Aguiar,Rua Pinto Teles,"In the Rio de Janeiro area, which road cannot directly reach Rua Amália Franco?",C
+127,Praça do Valqueire,Rua Domingos Lopes,Avenida Jambeiro,Rua José Maurício,"In the Rio de Janeiro area, which road cannot directly reach Estrada Intendente Magalhães?",D
+128,Rua Capitão Menezes,Rua Xavier Curado,Avenida General Oswaldo Cordeiro de Farias,Avenida General Benedito da Silveira,"In the Rio de Janeiro area, which road cannot directly reach Rua Henrique de Albuquerque?",A
+129,Rua Marechal Trompowski,Rua Henrique de Albuquerque,Estrada Intendente Magalhães,Avenida General Benedito da Silveira,"In the Rio de Janeiro area, which road cannot directly reach Rua Xavier Curado?",A
+130,Rua Henrique de Albuquerque,Rua Soldado Arlindo Santos,Rua Xavier Curado,Mergulhão Clara Nunes,"In the Rio de Janeiro area, which road cannot directly reach Avenida General Benedito da Silveira?",D
+131,Rua Tejo,Rua Antônio Americano,Rua das Margaridas,Rua das Tulipas,"In the Rio de Janeiro area, which road cannot directly reach Rua das Rosas?",B
+132,Rua Edgard Werneck,Rua Aladim,Rua dos Lilases,Rua das Rosas,"In the Rio de Janeiro area, which road cannot directly reach Rua das Margaridas?",A
+133,Rua Medina,Estrada do Timbó,Rua Magalhães Couto,Travessa Comendador Filips,"In the Rio de Janeiro area, which road cannot directly reach Rua Venceslau?",B
+134,Rua Venceslau,Rua José Domingues,Rua Ibiraci,Rua das Camélias,"In the Rio de Janeiro area, which road directly reaches Travessa Comendador Filips?",A
+135,Estrada do Pau-Ferro,Rua Alexandre Ramos,Rua Florentina,Estrada do Campo da Areia,"In the Rio de Janeiro area, which road cannot directly reach Rua Comendador Siqueira?",C
+136,Praça Avanhandava,Rua Caviana,Rua Comendador Siqueira,Rua Leopoldino de Oliveira,"In the Rio de Janeiro area, which road directly reaches Rua Alexandre Ramos?",C
+137,Rua Mapendi,Rua Alberto Samuel Mercante,Rua Alberto Soares Sampaio,Estrada do Guerenguê,"In the Rio de Janeiro area, which road cannot directly reach Estrada Macembu?",B
+138,Praça Avanhandava,Estrada Macembu,Estrada Rodrigues Caldas,Rua José de Souza Baeta,"In the Rio de Janeiro area, which road cannot directly reach Rua Mapendi?",A
+139,Estrada Rodrigues Caldas,Estrada Macembu,Estrada do Rio Grande,Estrada do Camboatá,"In the Rio de Janeiro area, which road cannot directly reach Rua Alberto Soares Sampaio?",D
+140,Praça Barão de Drummond,Avenida Geremário Dantas,Rua Geminiano Góis,Estrada do Gabinal,"In the Rio de Janeiro area, which road cannot directly reach Estrada dos Três Rios?",A
+141,Estrada dos Três Rios,Estrada da Uruçanga,Rua Araguaia,Rua da Abolição,"In the Rio de Janeiro area, which road cannot directly reach Estrada do Bananal?",D
+142,Rua das Oficinas Jornalista Luiz Mendes,Rua Guilhermina,Rua Angelina,Estrada do Timbó,"In the Rio de Janeiro area, which road directly reaches Rua Miguel Burnier?",D
+143,Rua do Queimado,Estrada do Rio Grande,Estrada do Tindiba,Rua Bacairis,"In the Rio de Janeiro area, which road cannot directly reach Rua Apiacás?",A
+144,Estrada Marechal Miguel Salazar Mendes de Morais,Rua Davi,Estrada do Gabinal,Rua Venina,"In the Rio de Janeiro area, which road cannot directly reach Rua Edgard Werneck?",D
+145,Estrada Boiúna,Estrada da Soca,Estrada do Cafundá,Estrada da Curicica,"In the Rio de Janeiro area, which road cannot directly reach Estrada do Engenho Velho?",D
+146,Rua Cerqueira Daltro,Rua Godofredo Viana,Estrada do Catonho,Estrada do Engenho Velho,"In the Rio de Janeiro area, which road cannot directly reach Estrada do Cafundá?",A
+147,Estrada da Barra da Tijuca,Rua Ary Kerner,Estrada do Bananal,Avenida do Braz de Pina,"In the Rio de Janeiro area, which road directly reaches Rua do Trabalho?",D
+148,Rua Feliciano de Aguiar,Rua Abrahão Jabour,Avenida Salvador Allende,Estrada dos Bandeirantes,"In the Rio de Janeiro area, which road cannot directly reach Avenida Olof Palme?",A
+149,Avenida Marechal Fontenelle,Rua Piraquara,Rua do Cacau,Rua Filomena Fragoso,"In the Rio de Janeiro area, which road cannot directly reach Estrada Manoel Nogueira de Sá?",D
+150,Rua Araçá,Avenida Julio Furtado,Avenida Marechal Fontenelle,Rua General Galieni,"In the Rio de Janeiro area, which road directly reaches Rua do Cacau?",C
+151,Avenida Albérico Diniz,Rua Henrique Scheid,Estrada Manoel Nogueira de Sá,Rua Viúva Cláudio,"In the Rio de Janeiro area, which road directly reaches Rua Piraquara?",C
+152,Rua das Camélias,Avenida Jambeiro,Estrada Japoré,Avenida Novo Rio,"In the Rio de Janeiro area, which road cannot directly reach Rua Cairuçu?",D
+153,Rua Sidônio Paes,Rua Dona Clara,Rua Comandante Vergueiro da Cruz,Estrada Intendente Magalhães,"In the Rio de Janeiro area, which road directly reaches Avenida Jambeiro?",D
+154,Estrada do Outeiro Santo,Estrada do Guanumbi,Rua Ipadu,Estrada do Rio Grande,"In the Rio de Janeiro area, which road cannot directly reach Estrada da Ligação?",B
+155,Estrada da Ligação,Rua Luís Barbosa,Estrada do Outeiro Santo,Estrada Rodrigues Caldas,"In the Rio de Janeiro area, which road cannot directly reach Rua Ipadu?",B
+156,Rua Américo Rocha,Estrada da Ligação,Rua Maria José,Avenida Teixeira de Castro,"In the Rio de Janeiro area, which road directly reaches Rua Mirinduba?",A
+157,Rua Mirinduba,Rua Carolina Machado,Rua Miguel Gama,Rua Igaratá,"In the Rio de Janeiro area, which road cannot directly reach Rua Américo Rocha?",C
+158,Rua Mirinduba,Avenida Albérico Diniz,Estrada Adhemar Bebiano,Rua Baronesa,"In the Rio de Janeiro area, which road directly reaches Rua Jurubaíba?",A
+159,Rua Latife Luvizaro,Rua Átila da Silveira,Ponte Cardeal Dom Eugênio de Araújo Sales,Rua Picuí,"In the Rio de Janeiro area, which road cannot directly reach Rua Carolina Machado?",C
+160,Rua Gita,Rua Marina,Rua Adalgisa Aleixo,Rua João Vicente,"In the Rio de Janeiro area, which road cannot directly reach Rua do Queimado?",B
+161,Rua Monsenhor Alves Rocha,Estrada do Timbó,Estrada Henrique de Melo,Praça Edmundo Rego,"In the Rio de Janeiro area, which road directly reaches Praça Evaristo Gomes da Silva?",C
+162,Estrada das Furnas,Rua Pereira Landim,Estrada do Capenha,Rua Frei Bento,"In the Rio de Janeiro area, which road directly reaches Rua Átila da Silveira?",D
+163,Rua Carolina Machado,Avenida Niemeyer,Rua Rio das Pedras,Rua Átila da Silveira,"In the Rio de Janeiro area, which road cannot directly reach Rua Frei Bento?",B
+164,Rua João Vicente,Rua Dona Clara,Rua Carlos Xavier,Avenida Olof Palme,"In the Rio de Janeiro area, which road cannot directly reach Rua Filomena Fragoso?",D
+165,Rua Santiago,Rua Adalgisa Aleixo,Avenida Duque de Caxias,Rua Filomena Fragoso,"In the Rio de Janeiro area, which road cannot directly reach Rua João Vicente?",A
+166,Rua Agostinho Barbalho,Rua Carlos Xavier,Rua Castro Alves,Rua Filomena Fragoso,"In the Rio de Janeiro area, which road cannot directly reach Rua Dona Clara?",C
+167,Rua Filomena Fragoso,Rua Dona Clara,Estrada Intendente Magalhães,Rua Piraquara,"In the Rio de Janeiro area, which road cannot directly reach Rua Carlos Xavier?",D
+168,Rua das Rosas,Rua Cairuçu,Rua Urucuia,Avenida Luís Carlos Prestes,"In the Rio de Janeiro area, which road cannot directly reach Rua Luís Beltrão?",D
+169,Rua dos Lilases,Rua Canelinha,Rua Capitão Menezes,Rua Amália Franco,"In the Rio de Janeiro area, which road cannot directly reach Rua Quiririm?",B
+170,Rua Ibaté,Rua Euzébio de Almeida,Rua do Trabalho,Rua Cândido Benício,"In the Rio de Janeiro area, which road directly reaches Rua Capitão Menezes?",D
+171,Rua das Tulipas,Rua das Dálias,Rua Cairuçu,Rua Florianópolis,"In the Rio de Janeiro area, which road cannot directly reach Rua das Camélias?",D
+172,Rua das Camélias,Rua Engenheiro Mario de Carvalho,Largo do Tanque,Estrada do Gabinal,"In the Rio de Janeiro area, which road directly reaches Rua das Dálias?",A
+173,Rua Abrahão Jabour,Rua Jubaí,Avenida General Benedito da Silveira,Autoestrada Engenheiro Fernando Mac Dowell,"In the Rio de Janeiro area, which road directly reaches Rua Soldado Arlindo Santos?",C
+174,Avenida Prefeito Mendes de Morais,Estrada Marechal Alencastro,Rua Soldado Arlindo Santos,Rua Comandante Possolo,"In the Rio de Janeiro area, which road cannot directly reach Avenida Duque de Caxias?",A
+175,Rua Sapopemba,Estrada Henrique de Melo,Avenida General Oswaldo Cordeiro de Farias,Estrada Intendente Magalhães,"In the Rio de Janeiro area, which road cannot directly reach Estrada da Fontinha?",C
+176,Rua Geísa Firmo Gonçalves,Rua Marina,Avenida João Cabral de Melo Neto,Praça do Bandolim,"In the Rio de Janeiro area, which road directly reaches Rua Sapopemba?",B
+177,Rua Ana Barbosa,Rua das Margaridas,Rua Aladim,Rua Quiririm,"In the Rio de Janeiro area, which road cannot directly reach Rua dos Lilases?",A
+178,Avenida Engenheiro Souza Filho,Estrada Intendente Magalhães,Rua das Margaridas,Rua dos Lilases,"In the Rio de Janeiro area, which road cannot directly reach Rua Aladim?",A
+179,Rua Inhamuns,Rua Divisória,Rua Luís Beltrão,Rua Urucuia,"In the Rio de Janeiro area, which road cannot directly reach Rua Tejo?",B
+180,Rua Ana Teles,Rua Pinto Teles,Rua Jacaraú,Estrada Intendente Magalhães,"In the Rio de Janeiro area, which road cannot directly reach Rua Cirilo da Silveira?",C
+181,Rua Venina,Rua Dona Isabel,Rua Creso,Rua Cirilo da Silveira,"In the Rio de Janeiro area, which road directly reaches Rua Ana Teles?",D
+182,Rua Honório,Rua Cirilo da Silveira,Rua Amália Franco,Rua Cândido Benício,"In the Rio de Janeiro area, which road cannot directly reach Rua Pinto Teles?",A
+183,Rua Cândido Benício,Rua Teodoro da Silva,Rua Desembargador Gastão Macedo,Rua da Chácara,"In the Rio de Janeiro area, which road cannot directly reach Rua Florianópolis?",B
+184,Rua Bertha Lutz,Rua Florianópolis,Rua Luís Beltrão,Rua Barão,"In the Rio de Janeiro area, which road cannot directly reach Rua Parintins?",A
+185,Estrada Rodrigues Caldas,Avenida Jaime Poggi,Rua Maratuba,Rua Iguaçu,"In the Rio de Janeiro area, which road directly reaches Rua Otacílio Pedro Vasco?",C
+186,Rua Pedro Domingues,Rua Sargento Peixoto,Rua Maratuba,Rua Otacílio Novais,"In the Rio de Janeiro area, which road directly reaches Estrada do Engenho Novo?",C
+187,Estrada do Engenho Novo,Rua Otacílio Pedro Vasco,Praça Seca,Rua São Bernardo,"In the Rio de Janeiro area, which road cannot directly reach Rua Maratuba?",C
+188,Rua São Bernardo,Rua Aripua,Rua Maratuba,Rua Gramané,"In the Rio de Janeiro area, which road cannot directly reach Rua Pereira da Rocha?",C
+189,Rua Andrade Figueira,Rua Aripua,Rua Pereira da Rocha,Rua Maratuba,"In the Rio de Janeiro area, which road cannot directly reach Rua São Bernardo?",A
+190,Estrada Marechal Alencastro,Rua Pereira da Rocha,Rua Quito,Rua São Bernardo,"In the Rio de Janeiro area, which road cannot directly reach Rua Aripua?",C
+191,Rua Cracituba,Rua das Tulipas,Rua Maratuba,Rua Gramané,"In the Rio de Janeiro area, which road cannot directly reach Rua Araçá?",B
+192,Rua Araçá,Rua Guaporé,Avenida Menezes Côrtes,Estrada Japoré,"In the Rio de Janeiro area, which road directly reaches Rua Gramané?",A
+193,Rua Américo Rocha,Rua dos Rubis,Rua Doutor Alfredo Barcelos,Estrada do Guerenguê,"In the Rio de Janeiro area, which road directly reaches Rua das Turmalinas?",B
+194,Rua Nacional,Estrada do Barro Vermelho,Rua Conselheiro Galvão,Rua Ururaí,"In the Rio de Janeiro area, which road cannot directly reach Avenida dos Italianos?",A
+195,Avenida dos Italianos,Avenida Engenheiro Richard,Praça Montese,Rua Monteiro da Luz,"In the Rio de Janeiro area, which road directly reaches Rua Caiuá?",A
+196,Rua Castanheiro,Rua do Queimado,Rua Conselheiro Galvão,Rua Conde de Bonfim,"In the Rio de Janeiro area, which road directly reaches Viaduto Prefeito Negrão de Lima?",C
+197,Rua Domingos Fernades,Avenida Ministro Edgard Romero,Avenida dos Italianos,Rua Francisco Bernardino,"In the Rio de Janeiro area, which road cannot directly reach Rua Conselheiro Galvão?",D
+198,Viaduto Prefeito Negrão de Lima,Rua Maricá,Rua Conselheiro Galvão,Rua Quaxima,"In the Rio de Janeiro area, which road cannot directly reach Viaduto Negrão de Lima?",B
+199,Rua das Tulipas,Rua Florianópolis,Estrada Comandante Luiz Souto,Rua Inhamuns,"In the Rio de Janeiro area, which road cannot directly reach Rua da Chácara?",A
+200,Rua Cândido Benício,Rua Godofredo Viana,Rua da Chácara,Viaduto Novo de Bento Ribeiro,"In the Rio de Janeiro area, which road cannot directly reach Estrada Comandante Luiz Souto?",D
+201,Rua Capitão Rezende,Rua Soldado Simplício de Lara,Travessa Almerinda Freitas,Estrada do Cafundá,"In the Rio de Janeiro area, which road directly reaches Rua Ariperana?",D
+202,Avenida Amaro Cavalcanti,Rua João Barbalho,Rua Carlos Xavier,Rua João Romeiro,"In the Rio de Janeiro area, which road cannot directly reach Rua Clarimundo de Melo?",C
+203,Avenida Itaóca,Estrada Adhemar Bebiano,Rua Miguel Burnier,Rua Ana Teles,"In the Rio de Janeiro area, which road cannot directly reach Estrada do Timbó?",D
+204,Rua Rodrigo Melo Franco,Linha Amarela,Rua Sizenando Nabuco,Rua Mapendi,"In the Rio de Janeiro area, which road directly reaches Avenida Além Paraíba?",B
+205,Rua Cândido de Figueiredo,Estrada do Itararé,Estrada Adhemar Bebiano,Rua General Galieni,"In the Rio de Janeiro area, which road cannot directly reach Avenida Itaóca?",A
+206,Rua Carinhanha,Rua Pirangi,Rua Engenheiro Mario de Carvalho,Rua Coração de Maria,"In the Rio de Janeiro area, which road directly reaches Rua Comandante Vergueiro da Cruz?",B
+207,Avenida Brasil,Rua André Azevedo,Rua Pedro de Carvalho,Rua Comandante Vergueiro da Cruz,"In the Rio de Janeiro area, which road cannot directly reach Rua Pirangi?",C
+208,Rua Doutor Alfredo Barcelos,Rua Felisbelo Freire,Avenida Brasil,Estrada do Engenho Novo,"In the Rio de Janeiro area, which road cannot directly reach Estrada do Engenho da Pedra?",D
+209,Estrada Coronel Vieira,Avenida Engenheiro Richard,Estrada Adhemar Bebiano,Rua Capitão Rezende,"In the Rio de Janeiro area, which road directly reaches Rua Cetima?",A
+210,Rua Cetima,Rua Leônidas,Avenida Monsenhor Félix,Avenida Pastor Martin Luther King Junior,"In the Rio de Janeiro area, which road cannot directly reach Estrada Coronel Vieira?",B
+211,Estrada do Engenho da Pedra,Rua Leopoldo Bulhões,Rua Capitão Mário Barbedo,Avenida Menezes Côrtes,"In the Rio de Janeiro area, which road directly reaches Rua Engenheiro Arthur Moura?",B
+212,Rua Eurico Souza Leão,Rua Guilherme Moreira,Rua Dona Isabel,Rua Engenheiro Arthur Moura,"In the Rio de Janeiro area, which road cannot directly reach Rua Leopoldo Bulhões?",B
+213,Rua Diomedes Trota,Rua Gomensoro,Rua Ministro Moreira de Abreu,Rua Davi,"In the Rio de Janeiro area, which road cannot directly reach Rua Paranapanema?",D
+214,Rua Paranapanema,Viaduto Negrão de Lima,Rua Monsenhor Alves Rocha,Rua Ministro Moreira de Abreu,"In the Rio de Janeiro area, which road cannot directly reach Rua Gomensoro?",B
+215,Estrada do Engenho Novo,Rua São João Bernardo,Rua Paranapanema,Avenida Nossa Senhora da Penha,"In the Rio de Janeiro area, which road cannot directly reach Rua Ministro Moreira de Abreu?",A
+216,Avenida Meriti,Rua da Tranquilidade,Rua Lopo Saraiva,Avenida do Braz de Pina,"In the Rio de Janeiro area, which road cannot directly reach Avenida Oliveira Belo?",C
+217,Avenida Oliveira Belo,Rua Angelina,Estrada São Pedro de Alcântara,Avenida dos Italianos,"In the Rio de Janeiro area, which road directly reaches Rua da Tranquilidade?",A
+218,Praça Mac Gregor,Rua Álvaro de Miranda,Avenida do Braz de Pina,Rua General Jerônimo Furtado,"In the Rio de Janeiro area, which road directly reaches Rua Engenheiro Francisco Passos?",C
+219,Rua Oliva Maia,Avenida Nossa Senhora da Penha,Rua Leopoldina Rego,Avenida Lobo Junior,"In the Rio de Janeiro area, which road directly reaches Rua Doutor Luís Gaudie Ley?",D
+220,Rua Cândido Benício,Avenida Marechal Rondon,Rua Piraquara,Rua Visconde de Santa Isabel,"In the Rio de Janeiro area, which road directly reaches Rua Carumbé?",C
+221,Rua Ibiapina,Rua Euclides Faria,Rua Doutor Noguchi,Rua Constança Barbosa,"In the Rio de Janeiro area, which road cannot directly reach Rua Uranos?",D
+222,Estrada do Barro Vermelho,Rua Uranos,Rua Bráulio Cordeiro,Avenida Pastor Martin Luther King Junior,"In the Rio de Janeiro area, which road directly reaches Rua Doutor Noguchi?",B
+223,Estrada do Barro Vermelho,Estrada do Tindiba,Avenida João Cabral de Melo Neto,Via Light,"In the Rio de Janeiro area, which road directly reaches Rua Marquês de Jacarepaguá?",B
+224,Rua Arquias Cordeiro,Rua Santa Fé,Rua Castro Alves,Rua Dois de Maio,"In the Rio de Janeiro area, which road cannot directly reach Rua Aristides Caire?",D
+225,Rua Padre Manoel de Nóbrega,Saída 05,Estrada Coronel Pedro Corrêa,Rua Teodoro da Silva,"In the Rio de Janeiro area, which road directly reaches Rua Virgem Peregrina?",A
+226,Avenida João Ribeiro,Rua Virgem Peregrina,Rua Barão do Bananal,Rua André Pinto,"In the Rio de Janeiro area, which road cannot directly reach Rua Moacir de Almeida?",D
+227,Rua Padre Telêmaco,Rua Araguaia,Rua Capitão Mário Barbedo,Estrada dos Bandeirantes,"In the Rio de Janeiro area, which road directly reaches Estrada da Curicica?",D
+228,Rua Andrade Figueira,Estrada Marechal Alencastro,Rua Sidônio Paes,Rua Iguaçu,"In the Rio de Janeiro area, which road cannot directly reach Rua Oliva Maia?",B
+229,Rua Itamarati,Rua Iguaçu,Rua Oliva Maia,Avenida José Silva de Azevedo Neto,"In the Rio de Janeiro area, which road cannot directly reach Rua Sidônio Paes?",D
+230,Rua Oliva Maia,Rua Sidônio Paes,Rua Soldado Arlindo Santos,Rua Melo Morais,"In the Rio de Janeiro area, which road cannot directly reach Rua Iguaçu?",C
+231,Rua Barão,Rua Porto Alegre,Avenida Luís Carlos Prestes,Rua Bacairis,"In the Rio de Janeiro area, which road directly reaches Rua Desembargador Gastão Macedo?",A
+232,Rua Tirol,Rua Carinhanha,Praça Mac Gregor,Estrada dos Três Rios,"In the Rio de Janeiro area, which road cannot directly reach Rua Geminiano Góis?",B
+233,Estrada do Capenha,Avenida Ministro Edgard Romero,Rua Armando Gonzaga,Rua Geminiano Góis,"In the Rio de Janeiro area, which road cannot directly reach Estrada do Pau-Ferro?",B
+234,Rua São Guilherme de Norwich,Rua Davi,Rua Geminiano Góis,Estrada Intendente Magalhães,"In the Rio de Janeiro area, which road directly reaches Praça Mac Gregor?",C
+235,Rua Pacífico Pereira,Estrada do Gabinal,Rua São Ricardo,Avenida Amaro Cavalcanti,"In the Rio de Janeiro area, which road directly reaches Rua Guilherme Moreira?",B
+236,Rua Francisco Bernardino,Boulevard 28 de Setembro,Estrada do Gabinal,Rua João Barbalho,"In the Rio de Janeiro area, which road directly reaches Estrada Caribu?",C
+237,Estrada de Jacarepaguá,Rua Silva Rabelo,Rua São Ricardo,Estrada do Bananal,"In the Rio de Janeiro area, which road cannot directly reach Rua Ituverava?",B
+238,Rua Tirol,Rua Alexandre Ramos,Rua Ituverava,Estrada dos Três Rios,"In the Rio de Janeiro area, which road cannot directly reach Rua Comandante Rubens Silva?",B
+239,Rua Ituverava,Estrada do Bananal,Rua São Guilherme de Norwich,Rua Bonsucesso,"In the Rio de Janeiro area, which road cannot directly reach Estrada da Uruçanga?",D
+240,Estrada São Pedro de Alcântara,Estrada do Engenho d'Água,Rua Comandante Vergueiro da Cruz,Rua Manacá,"In the Rio de Janeiro area, which road directly reaches Avenida Otávio Malta?",B
+241,Avenida Otávio Malta,Estrada de Jacarepaguá,Avenida Tenente Coronel Muniz de Aragão,Rua Monteiro da Luz,"In the Rio de Janeiro area, which road cannot directly reach Estrada do Engenho d'Água?",D
+242,Avenida Engenheiro Souza Filho,Estrada da Barra da Tijuca,Estrada de Jacarepaguá,Rua Dias da Cruz,"In the Rio de Janeiro area, which road cannot directly reach Estrada do Itanhangá?",D
+243,Rua Honório,Rua Ipinambés,Estrada de Jacarepaguá,Rua Paranapanema,"In the Rio de Janeiro area, which road directly reaches Via Light?",C
+244,Rua Luís Beltrão,Rua Paturi,Rua Cândido de Figueiredo,Avenida Nelson Cardoso,"In the Rio de Janeiro area, which road cannot directly reach Rua Lívio Barreto?",A
+245,Rua Lívio Barreto,Rua Átila da Silveira,Rua Maria Freitas,Rua Pacífico Pereira,"In the Rio de Janeiro area, which road directly reaches Rua Paturi?",A
+246,Rua Lívio Barreto,Largo da Macumba,Rua Paturi,Avenida Geremário Dantas,"In the Rio de Janeiro area, which road cannot directly reach Rua Cândido de Figueiredo?",B
+247,Rua Mapendi,Estrada Macembu,Rua Clara Nunes,Estrada dos Bandeirantes,"In the Rio de Janeiro area, which road cannot directly reach Estrada do Guerenguê?",C
+248,Rua Barão de Mesquita,Avenida Nelson Mufarrej,Rua Godofredo Viana,Rua Soldado Simplício de Lara,"In the Rio de Janeiro area, which road directly reaches Rua Atininga?",C
+249,Rua do Lazer,Rua Quito,Rua Fernandes Sampaio,Rua Manuela Barbosa,"In the Rio de Janeiro area, which road directly reaches Estrada do Catonho?",C
+250,Rua Sargento Silva Nunes,Rua Pacífico Pereira,Avenida General Oswaldo Cordeiro de Farias,Rua Maxwell,"In the Rio de Janeiro area, which road directly reaches Estrada Japoré?",B
+251,Rua Euzébio de Almeida,Avenida Marechal Fontenelle,Rua Ivan de Oliveira Lima,Avenida Albérico Diniz,"In the Rio de Janeiro area, which road cannot directly reach Rua Pacífico Pereira?",C
+252,Estrada Intendente Magalhães,Avenida Geremário Dantas,Rua Carinhanha,Rua do Cacau,"In the Rio de Janeiro area, which road cannot directly reach Avenida Marechal Fontenelle?",B
+253,Rua Tenente Serafim,Avenida Tenente Coronel Muniz de Aragão,Avenida de Nazareth,Rua Adeque,"In the Rio de Janeiro area, which road cannot directly reach Estrada Marechal Alencastro?",B
+254,Avenida Boulevard Ilha Pura,Estrada Marechal Alencastro,Rua Eurico Souza Leão,Avenida Moacyr Barbosa,"In the Rio de Janeiro area, which road directly reaches Rua Tenente Serafim?",B
+255,Avenida Novo Rio,Avenida Teixeira de Castro,Viaduto São Cosme,Rua Carolina Machado,"In the Rio de Janeiro area, which road directly reaches Rua Picuí?",D
+256,Rua Marcos de Macedo,Rua General Jerônimo Furtado,Rua Ururaí,Praça das Esmeraldas,"In the Rio de Janeiro area, which road cannot directly reach Rua dos Diamantes?",A
+257,Rua Aladim,Rua Creso,Rua Ururaí,Rua Barão de Vassouras,"In the Rio de Janeiro area, which road directly reaches Rua General Jerônimo Furtado?",C
+258,Estrada João Paulo,Rua General Jerônimo Furtado,Rua das Safiras,Rua Carlos Xavier,"In the Rio de Janeiro area, which road cannot directly reach Rua Ururaí?",D
+259,Estrada Rodrigues Caldas,Avenida Menezes Côrtes,Estrada do Campo da Areia,Rua Abrahão Jabour,"In the Rio de Janeiro area, which road directly reaches Estrada Mapuá?",A
+260,Rua André Pinto,Túnel Noel Rosa,Rua Professor Henrique Costa,Viaduto Negrão de Lima,"In the Rio de Janeiro area, which road directly reaches Rua do Radialista?",C
+261,Rua Américo Brasiliense,Rua Retiro dos Artistas,Rua Antonieta Campos da Paz,Rua Professor Henrique Costa,"In the Rio de Janeiro area, which road cannot directly reach Rua Mirataia?",A
+262,Rua Mirataia,Rua Professor Henrique Costa,Praça Avanhandava,Estrada Marechal Miguel Salazar Mendes de Morais,"In the Rio de Janeiro area, which road cannot directly reach Rua Antonieta Campos da Paz?",C
+263,Rua Edgard Werneck,Rua Mirataia,Avenida Engenheiro Souza Filho,Estrada do Tindiba,"In the Rio de Janeiro area, which road cannot directly reach Rua Retiro dos Artistas?",C
+264,Estrada do Engenho Velho,Estrada dos Teixeiras,Estrada Curumaú,Rua Teixeira de Macedo,"In the Rio de Janeiro area, which road cannot directly reach Estrada Boiúna?",D
+265,Avenida Monte Cruzeiro,Rua Herculano Pena,Rua Magalhães Couto,Estrada do Capenha,"In the Rio de Janeiro area, which road directly reaches Estrada Curumaú?",A
+266,Rua Caviana,Rua Creso,Estrada do Guerenguê,Rua Marechal José Bevilacqua,"In the Rio de Janeiro area, which road cannot directly reach Rua André Rocha?",A
+267,Rua do Trabalho,Praça do Valqueire,Rua Honório,Estrada Rodrigues Caldas,"In the Rio de Janeiro area, which road directly reaches Rua Frei Rodovalho?",D
+268,Rua Goianinha,Rua André Rocha,Praça do Bandolim,Rua Firmino Fragoso,"In the Rio de Janeiro area, which road cannot directly reach Rua João Bruno Lobo?",D
+269,Avenida Duque de Caxias,Rua Moacir de Almeida,Rua João Bruno Lobo,Rua Doutor Noguchi,"In the Rio de Janeiro area, which road directly reaches Rua Goianinha?",C
+270,Rua das Camélias,Rua Inhamuns,Avenida Duque de Caxias,Linha Amarela,"In the Rio de Janeiro area, which road directly reaches Avenida Novo Rio?",D
+271,Rua Domingos Lopes,Rua Padre Manso,Estrada dos Três Rios,Viaduto Negrão de Lima,"In the Rio de Janeiro area, which road cannot directly reach Rua Quaxima?",C
+272,Rua Maria Lopes,Rua Quaxima,Rua Angelo Dantas,Avenida Ricardo Eugênio Boechat,"In the Rio de Janeiro area, which road cannot directly reach Rua Padre Manso?",D
+273,Rua Elias da Silva,Avenida Albérico Diniz,Rua Manoel Vitorino,Rua Clarimundo de Melo,"In the Rio de Janeiro area, which road cannot directly reach Rua Assis Carneiro?",B
+274,Rua Edgard Werneck,Estrada dos Bandeirantes,Rua Antonieta Campos da Paz,Rua Doutor Garnier,"In the Rio de Janeiro area, which road cannot directly reach Estrada Marechal Miguel Salazar Mendes de Morais?",D
+275,Rua Lívio Barreto,TransOlímpica,Estrada da Curicica,Rua João Pinheiro,"In the Rio de Janeiro area, which road directly reaches Rua Arauá?",C
+276,Rua da Chácara,Estrada do Engenho da Pedra,Rua Florianópolis,Rua Tejo,"In the Rio de Janeiro area, which road cannot directly reach Rua Inhamuns?",B
+277,Rua Engenheiro Amandino de Carvalho,Rua Tejo,Rua Luís Beltrão,Rua Inhamuns,"In the Rio de Janeiro area, which road cannot directly reach Rua Urucuia?",A
+278,Rua Lopo Saraiva,Avenida Duque de Caxias,Rua Engenheiro Arthur Moura,Rua Francisco Bernardino,"In the Rio de Janeiro area, which road directly reaches Rua General Fonseca Ramos?",B
+279,Avenida Ernani Cardoso,Rua Engenheiro Nicanor Pereira,Rua Elias da Silva,Avenida Dom Hélder Câmara,"In the Rio de Janeiro area, which road cannot directly reach Rua Nerval de Gouvêa?",B
+280,Estrada Meringuava,Rua Marquês de Jacarepaguá,Estrada das Furnas,Estrada do Cafundá,"In the Rio de Janeiro area, which road directly reaches Estrada da Gávea Pequena?",C
+281,Estrada da Barra da Tijuca,Avenida de Nazareth,Avenida Edison Passos,Estrada da Gávea Pequena,"In the Rio de Janeiro area, which road cannot directly reach Estrada das Furnas?",B
+282,Praça das Esmeraldas,Rua Divisória,Rua Xavier Curado,Rua Jubaí,"In the Rio de Janeiro area, which road cannot directly reach Rua Marina?",A
+283,Rua dos Rubis,Estrada do Pau-Ferro,Estrada Intendente Magalhães,Rua Baronesa,"In the Rio de Janeiro area, which road directly reaches Rua Jubaí?",C
+284,Rua das Margaridas,Avenida Monte Cruzeiro,Rua das Camélias,Rua das Rosas,"In the Rio de Janeiro area, which road cannot directly reach Rua das Tulipas?",B
+285,Rua Maria Lopes,Estrada da Fontinha,Rua Goianinha,Rua Uranos,"In the Rio de Janeiro area, which road directly reaches Rua Euclides Faria?",D
+286,Rua Valerio,Avenida Dom Hélder Câmara,Rua Herculano Pena,Estrada Mapuá,"In the Rio de Janeiro area, which road cannot directly reach Rua Padre Manoel de Nóbrega?",D
+287,Estrada São Pedro de Alcântara,Estrada da Equitação,Estrada Marechal Alencastro,Rua Major Suckow,"In the Rio de Janeiro area, which road cannot directly reach Avenida de Nazareth?",D
+288,Rua Dois de Maio,Rua Andrade Figueira,Avenida de Nazareth,Rua Armando Gonzaga,"In the Rio de Janeiro area, which road directly reaches Estrada da Equitação?",C
+289,Avenida de Nazareth,Rua Pacífico Pereira,Estrada da Água Branca,Estrada da Equitação,"In the Rio de Janeiro area, which road cannot directly reach Estrada São Pedro de Alcântara?",B
+290,Avenida Teixeira de Castro,Praça Mac Gregor,Rua Comandante Rubens Silva,Avenida Geremário Dantas,"In the Rio de Janeiro area, which road cannot directly reach Rua Araguaia?",A
+291,Rua Goiás,Rua Dona Clara,Estrada da Ligação,Estrada São Pedro de Alcântara,"In the Rio de Janeiro area, which road directly reaches Rua Lima Barreto?",A
+292,Rua João Bruno Lobo,Estrada do Barro Vermelho,Rua Engenheiro Nazareth,Estrada do Tindiba,"In the Rio de Janeiro area, which road directly reaches Rua Pajurá?",D
+293,Avenida Monsenhor Félix,Rua José Bonifácio,Estrada Calmete,Rua Inhamuns,"In the Rio de Janeiro area, which road directly reaches Rua Guiraréia?",A
+294,Rua dos Rubis,Avenida dos Italianos,Rua Quito,Estrada do Otaviano,"In the Rio de Janeiro area, which road cannot directly reach Estrada do Barro Vermelho?",C
+295,Rua Arlindo Janot,Avenida Além Paraíba,Rua Guajara-Mirim,Rua Manoel Vitorino,"In the Rio de Janeiro area, which road cannot directly reach Linha Amarela?",D
+296,Praça Panamericana,Avenida Dom Hélder Câmara,Linha Amarela,Avenida Itaóca,"In the Rio de Janeiro area, which road cannot directly reach Estrada Adhemar Bebiano?",A
+297,Praça do Valqueire,Estrada Curumaú,Rua Alexandre Ramos,Rua Atininga,"In the Rio de Janeiro area, which road directly reaches Avenida Monte Cruzeiro?",B
+298,Rua Almeida e Sousa,Rua Salustiano Silva,Rua Quiririm,Estrada Marechal Mallet,"In the Rio de Janeiro area, which road cannot directly reach Rua Capitão Cader Matori?",C
+299,Rua Guilherme Moreira,Rua Miguel Gama,Rua Abrahão Jabour,Rua Capitão Cader Matori,"In the Rio de Janeiro area, which road directly reaches Estrada Marechal Mallet?",D
+300,Rua Silva Rabelo,Curva Chico Anysio,Rua Henrique Scheid,Rua Ururaí,"In the Rio de Janeiro area, which road directly reaches Rua Agenor Porto?",D
+301,Avenida Duque de Caxias,Avenida Oliveira Belo,Avenida Nossa Senhora da Penha,Rua Athaly Aguiar,"In the Rio de Janeiro area, which road directly reaches Rua São João Bernardo?",C
+302,Largo da Penha,Avenida do Braz de Pina,Rua Elias da Silva,Rua São João Bernardo,"In the Rio de Janeiro area, which road cannot directly reach Avenida Nossa Senhora da Penha?",C
+303,Rua Borja Reis,Rua Dois de Fevereiro,Rua Davi,Rua Vilela Tavares,"In the Rio de Janeiro area, which road cannot directly reach Rua Dias da Cruz?",C
+304,Rua Diomedes Trota,Rua Oliveira Serpa,Rua Joaquim de Queiroz,Avenida Itaóca,"In the Rio de Janeiro area, which road cannot directly reach Estrada do Itararé?",B
+305,Rua das Safiras,Rua Guineza,Estrada Boiúna,Rua Pedro Calmon,"In the Rio de Janeiro area, which road directly reaches Estrada João Paulo?",A
+306,Rua Conselheiro Galvão,Rua das Turquesas,Rua Comandante Possolo,Rua Ururaí,"In the Rio de Janeiro area, which road cannot directly reach Rua das Safiras?",C
+307,Rua Leopoldo Bulhões,Rua Araçá,Rua dos Diamantes,Rua Tapevi,"In the Rio de Janeiro area, which road directly reaches Rua Cracituba?",B
+308,Rua Capitão Couto Menezes,Rua Assis Carneiro,Avenida Amaro Cavalcanti,Rua Clarimundo de Melo,"In the Rio de Janeiro area, which road cannot directly reach Rua Manoel Vitorino?",A
+309,Rua Adolfo Bergamini,Rua Cacequi,Rua Daniel Carneiro,Rua Clarimundo de Melo,"In the Rio de Janeiro area, which road cannot directly reach Avenida Amaro Cavalcanti?",B
+310,Rua Conde de Bonfim,Rua São Miguel,Estrada das Furnas,Rua Tenente Serafim,"In the Rio de Janeiro area, which road cannot directly reach Avenida Edison Passos?",D
+311,Rua Mandina,Avenida Edison Passos,Rua Felisbelo Freire,Rua Vinte e Quatro de Maio,"In the Rio de Janeiro area, which road directly reaches Estrada Velha da Tijuca?",B
+312,Rua Américo Rocha,Estrada dos Bandeirantes,Largo do Jacaré,Rua Dona Clara,"In the Rio de Janeiro area, which road directly reaches Rua Igaratá?",A
+313,Estrada do Barro Vermelho,Rua Carolina Machado,Rua Gomensoro,Rua Antônio Americano,"In the Rio de Janeiro area, which road directly reaches Rua Clara Nunes?",B
+314,Rua Américo Brasiliense,Rua Rio das Pedras,Rua Silva Rabelo,Rua Clara Nunes,"In the Rio de Janeiro area, which road cannot directly reach Estrada do Portela?",C
+315,Rua Ibiraci,Estrada Marechal Alencastro,Rua Araguaia,Rua Frei Bento,"In the Rio de Janeiro area, which road directly reaches Rua Rio das Pedras?",D
+316,Avenida General Oswaldo Cordeiro de Farias,Rua Pedro de Carvalho,Rua Sapopemba,Rua Luís Barbosa,"In the Rio de Janeiro area, which road directly reaches Praça Quinze de Novembro?",A
+317,Rua São João Bernardo,Rua dos Diamantes,Rua Vinte e Quatro de Maio,Rua Luís Beltrão,"In the Rio de Janeiro area, which road directly reaches Rua dos Topázios?",B
+318,Rua Leopoldino de Oliveira,Rua Engenheiro Nazareth,Rua Andrade Figueira,Avenida Jambeiro,"In the Rio de Janeiro area, which road directly reaches Estrada do Otaviano?",A
+319,Rua Inhamuns,Rua Uranos,Avenida Ministro Edgard Romero,Rua Dona Isabel,"In the Rio de Janeiro area, which road directly reaches Rua Andrade Figueira?",C
+320,Praça Avanhandava,Rua Ferreira Chaves,Mergulhão Clara Nunes,Estrada do Itararé,"In the Rio de Janeiro area, which road directly reaches Rua Joaquim de Queiroz?",D
+321,Rua Pirangi,Estrada do Engenho da Pedra,Rua Doutor Alfredo Barcelos,Rua Jurubaíba,"In the Rio de Janeiro area, which road cannot directly reach Rua André Azevedo?",D
+322,Rua Dois de Maio,Rua Daniel Carneiro,Rua Ana Neri,Rua Francisco Bernardino,"In the Rio de Janeiro area, which road cannot directly reach Rua do Engenho Novo?",B
+323,Rua Conselheiro Mayrink,Rua Francisco Bernardino,Rua do Engenho Novo,Rua Capitão Couto Menezes,"In the Rio de Janeiro area, which road cannot directly reach Rua Ana Neri?",D
+324,Rua Magalhães Castro,Rua do Engenho Novo,Rua Ana Neri,Rua São Miguel,"In the Rio de Janeiro area, which road cannot directly reach Rua Francisco Bernardino?",D
+325,Rua Cândido Benício,Avenida Geremário Dantas,Rua Euzébio de Almeida,Avenida Nelson Cardoso,"In the Rio de Janeiro area, which road cannot directly reach Largo do Tanque?",C
+326,Praça do Valqueire,Avenida Edison Passos,Rua Marechal Trompowski,Rua Garibaldi,"In the Rio de Janeiro area, which road cannot directly reach Rua Conde de Bonfim?",A
+327,Rua Pedro de Carvalho,Rua Dias da Cruz,Rua Lins de Vasconcelos,Rua Comendador Siqueira,"In the Rio de Janeiro area, which road cannot directly reach Rua Vilela Tavares?",D
+328,Rua Cupertino,Rua Tenente Serafim,Rua Olímpia do Couto,Rua Castro Alves,"In the Rio de Janeiro area, which road directly reaches Rua Getúlio?",D
+329,Rua Capitão Rezende,Rua Torres de Oliveira,Rua Degas,Rua Getúlio,"In the Rio de Janeiro area, which road cannot directly reach Rua Cachambi?",B
+330,Rua São João Bernardo,Rua Barão de Mesquita,Rua Rodrigo Melo Franco,Avenida Pastor Martin Luther King Junior,"In the Rio de Janeiro area, which road directly reaches Rua Álvaro de Miranda?",D
+331,Rua Viúva Cláudio,Rua Engenheiro Nazareth,Rua Miguel Gama,Rua André Rocha,"In the Rio de Janeiro area, which road directly reaches Rua Canelinha?",D
+332,Viaduto Negrão de Lima,Rua Américo Rocha,Rua Sapopemba,Rua Mandina,"In the Rio de Janeiro area, which road directly reaches Rua Gôndola?",D
+333,Rua Sidônio Pais,Estrada Caribu,Rua Alfeu Faria Casto,Rua Gôndola,"In the Rio de Janeiro area, which road directly reaches Rua Mandina?",D
+334,Estrada dos Bandeirantes,Rua Maria Freitas,Praça Quinze de Novembro,Rua São Paulo,"In the Rio de Janeiro area, which road directly reaches Rua General Savaget?",C
+335,Estrada do Cafundá,Estrada do Tindiba,Rua Bacairis,Avenida Julio Furtado,"In the Rio de Janeiro area, which road cannot directly reach Rua Caviana?",D
+336,Rua João Romeiro,Avenida Ernani Cardoso,Rua Paula Brito,Rua Clarimundo de Melo,"In the Rio de Janeiro area, which road cannot directly reach Rua Padre Telêmaco?",C
+337,Rua Antônio Americano,Avenida Geremário Dantas,Rua Clara Nunes,Rua General Jerônimo Furtado,"In the Rio de Janeiro area, which road directly reaches Rua Olímpia do Couto?",B
+338,Rua Lino Teixeira,Túnel Noel Rosa,Rua Comendador Siqueira,Rua Barão do Bananal,"In the Rio de Janeiro area, which road directly reaches Estrada do Campo da Areia?",C
+339,Rua José Bonifácio,Estrada dos Teixeiras,Rua General Savaget,Estrada do Pau-Ferro,"In the Rio de Janeiro area, which road directly reaches Estrada do Capenha?",D
+340,Rua André Pinto,Estrada do Engenho da Pedra,Rua Felisbelo Freire,Rua Goiás,"In the Rio de Janeiro area, which road cannot directly reach Rua Barreiros?",D
+341,Rua Comendador Siqueira,Rua Pajurá,Avenida Ernani Cardoso,Avenida Luís Carlos Prestes,"In the Rio de Janeiro area, which road directly reaches Avenida Heróis do Gueto de Varsóvia?",D
+342,Rua Violeta,Rua Torres de Oliveira,Rua Fontoura Chaves,Rua Clarimundo de Melo,"In the Rio de Janeiro area, which road cannot directly reach Rua Paraná?",B
+343,Rua Torres Homem,Rua Marquês de Jacarepaguá,Rua Marina,Avenida Engenheiro Richard,"In the Rio de Janeiro area, which road directly reaches Praça Edmundo Rego?",D
+344,Rua Borja Reis,Rua das Camélias,Avenida Nova York,Rua Maratuba,"In the Rio de Janeiro area, which road directly reaches Rua Pompílio de Albuquerque?",A
+345,Rua Borja Reis,Rua Arquias Cordeiro,Rua Pompílio de Albuquerque,Rua Violeta,"In the Rio de Janeiro area, which road cannot directly reach Rua Monteiro da Luz?",B
+346,Rua Monteiro da Luz,Rua Pompílio de Albuquerque,Rua Dois de Fevereiro,Rua Doutor Noguchi,"In the Rio de Janeiro area, which road cannot directly reach Rua Borja Reis?",D
+347,Rua Domingos Fernades,Rua do Engenho Novo,Largo do Jacaré,Rua Souza Barros,"In the Rio de Janeiro area, which road cannot directly reach Rua Dois de Maio?",A
+348,Rua Silva Freire,Rua Mirataia,Avenida General Oswaldo Cordeiro de Farias,Rua Pedro Domingues,"In the Rio de Janeiro area, which road directly reaches Rua Souza Barros?",A
+349,Praça Saiqui,Rua Manoel Vitorino,Estrada Rodrigues Caldas,Viaduto Procurador José Alves de Morais,"In the Rio de Janeiro area, which road directly reaches Rua Euzébio de Matos?",B
+350,Rua Sidônio Pais,Largo do Jacaré,Estrada General Canrobert Pereira da Costa,Rua Capitão Cader Matori,"In the Rio de Janeiro area, which road directly reaches Rua Bernardo de Vasconcelos?",C
+351,Rua Almeida e Sousa,Estrada do Rio Grande,Rua Conselheiro Galvão,Rua Clara Nunes,"In the Rio de Janeiro area, which road directly reaches Estrada General Canrobert Pereira da Costa?",A
+352,Avenida Antonio Gallotti,Estrada Coronel Pedro Corrêa,Avenida Adalgisa Colombo,Rua Engenheiro Nazareth,"In the Rio de Janeiro area, which road cannot directly reach Avenida Embaixador Abelardo Bueno?",D
+353,Avenida Sargento Isanor de Campos,Rua Pedro Calmon,Estrada dos Bandeirantes,Avenida Embaixador Abelardo Bueno,"In the Rio de Janeiro area, which road cannot directly reach Avenida Salvador Allende?",A
+354,Rua Cerqueira Daltro,Estrada do Rio Grande,Rua André Rocha,Rua Manoel Vitorino,"In the Rio de Janeiro area, which road directly reaches Rua Soldado Simplício de Lara?",B
+355,Rua Lino Teixeira,Rua Camboriú,Rua das Tulipas,Avenida Dom Hélder Câmara,"In the Rio de Janeiro area, which road cannot directly reach Rua Viúva Cláudio?",C
+356,Rua Pacífico Pereira,Rua Dois de Maio,Rua Florianópolis,Rua Carvalho de Souza,"In the Rio de Janeiro area, which road directly reaches Rua Euzébio de Almeida?",A
+357,Rua Pacífico Pereira,Avenida Marechal Fontenelle,Rua Comandante Rubens Silva,Rua Fernandes Sampaio,"In the Rio de Janeiro area, which road cannot directly reach Avenida Albérico Diniz?",C
+358,Rua Fernando Esquerdo,Rua Átila da Silveira,Praça Barão de Drummond,Rua Jacaraú,"In the Rio de Janeiro area, which road directly reaches Boulevard 28 de Setembro?",C
+359,Avenida Amaro Cavalcanti,Rua Torres Homem,Praça Barão de Drummond,Boulevard 28 de Setembro,"In the Rio de Janeiro area, which road cannot directly reach Rua Luís Barbosa?",A
+360,Rua Araguaia,Rua Dona Romana,Praça Rubey Wanderley,Rua Ibiraci,"In the Rio de Janeiro area, which road directly reaches Estrada do Guanumbi?",A
+361,Praça Evaristo Gomes da Silva,Rua Marcos de Macedo,Avenida Ivo Pitanguy,Rua José Maurício,"In the Rio de Janeiro area, which road directly reaches Praça Helley Batista?",C
+362,Largo da Penha,Avenida dos Democráticos,Rua Carinhanha,Avenida Salvador Allende,"In the Rio de Janeiro area, which road directly reaches Avenida Ivo Pitanguy?",D
+363,Rua Francisco Bernardino,Rua Lino Teixeira,Rua Carlos Costa,Rua Manoel Vitorino,"In the Rio de Janeiro area, which road cannot directly reach Rua Magalhães Castro?",D
+364,Rua Felisbelo Freire,Rua Florianópolis,Estrada Comandante Luiz Souto,Avenida Tenente Coronel Muniz de Aragão,"In the Rio de Janeiro area, which road directly reaches Rua Gastão Taveira?",B
+365,Avenida Monsenhor Félix,Rua Américo Brasiliense,Rua João Barbalho,Rua Valerio,"In the Rio de Janeiro area, which road directly reaches Rua Gabriel Lisboa?",A
+366,Rua Athaly Aguiar,Via Parque da Lagoa da Tijuca,Praça do Valqueire,Rua Ituverava,"In the Rio de Janeiro area, which road directly reaches Rua São Ricardo?",D
+367,Rua Santa Fé,Rua Jubaí,Rua Dona Clara,Rua Américo Rocha,"In the Rio de Janeiro area, which road directly reaches Rua Agostinho Barbalho?",C
+368,Estrada do Guerenguê,Rua Salustiano Silva,Rua Pedro Teles,Avenida Ernani Cardoso,"In the Rio de Janeiro area, which road directly reaches Viaduto de Magalhães Bastos?",B
+369,Rua Diomedes Trota,Rua Imbuí,Estrada Marechal Mallet,Rua Sidônio Paes,"In the Rio de Janeiro area, which road directly reaches Rua Itamarati?",D
+370,Rua Diomedes Trota,Rua Cesar Muzio,Rua Padre Manoel de Nóbrega,Rua Teixeira Ribeiro,"In the Rio de Janeiro area, which road directly reaches Rua Valerio?",C
+371,Rua Valerio,Estrada do Bananal,Rua Geminiano Góis,Rua Comandante Rubens Silva,"In the Rio de Janeiro area, which road cannot directly reach Rua Tirol?",A
+372,Rua Gomensoro,Avenida Jambeiro,Avenida Engenheiro Richard,Estrada dos Teixeiras,"In the Rio de Janeiro area, which road directly reaches Rua Gurupi?",C
+373,Rua Gurupi,Avenida Julio Furtado,Rua Teixeira de Macedo,Rua Barão de Mesquita,"In the Rio de Janeiro area, which road cannot directly reach Rua Borda do Mato?",C
+374,Rua Pacífico Pereira,Rua Antônio Raposo,Estrada do Tindiba,Rua Conde de Bonfim,"In the Rio de Janeiro area, which road directly reaches Rua Garibaldi?",D
+375,Estrada do Cafundá,Rua Ipinambés,Avenida Luís Carlos Prestes,Rua Caviana,"In the Rio de Janeiro area, which road cannot directly reach Rua Bacairis?",C
+376,Rua Nerval de Gouvêa,Rua Cândido Benício,Avenida Adalgisa Colombo,Avenida Dom Hélder Câmara,"In the Rio de Janeiro area, which road cannot directly reach Avenida Ernani Cardoso?",C
+377,Rua Paraná,Avenida Ricardo Eugênio Boechat,Rua Fontoura Chaves,Rua Monteiro da Luz,"In the Rio de Janeiro area, which road cannot directly reach Rua Violeta?",B
+378,Rua Torres de Oliveira,Rua Violeta,Estrada da Fontinha,Rua Paraná,"In the Rio de Janeiro area, which road cannot directly reach Rua Fontoura Chaves?",C
+379,Rua Bernardo de Vasconcelos,Rua Vilela Tavares,Rua Dias da Cruz,Rua Lins de Vasconcelos,"In the Rio de Janeiro area, which road cannot directly reach Rua Pedro de Carvalho?",A
+380,Rua Aripua,Rua Doutor Alfredo Barcelos,Rua Ana Teles,Avenida Ayrton Senna,"In the Rio de Janeiro area, which road directly reaches Curva Chico Anysio?",D
+381,Rua Firmino Fragoso,Largo dos Pilares,Avenida Pastor Martin Luther King Junior,Rua Glaziou,"In the Rio de Janeiro area, which road cannot directly reach Avenida João Ribeiro?",A
+382,Estrada Intendente Magalhães,Rua Pereira Landim,Rua Virgem Peregrina,Rua Comandante Possolo,"In the Rio de Janeiro area, which road directly reaches Rua Capitão Couto Menezes?",A
+383,Viaduto de Magalhães Bastos,Rua Concórdia,Praça Quinze de Novembro,Rua Capitão Cader Matori,"In the Rio de Janeiro area, which road cannot directly reach Rua Salustiano Silva?",C
+384,Rua Salustiano Silva,Rua Andrade Figueira,Rua Almeida e Sousa,Avenida Duque de Caxias,"In the Rio de Janeiro area, which road cannot directly reach Rua Concórdia?",B
+385,Rua Cacequi,Rua Clarimundo de Melo,Rua Pacífico Pereira,Estrada Santa Efigênia,"In the Rio de Janeiro area, which road directly reaches Rua Torres de Oliveira?",B
+386,Rua Carolina Machado,Rua Eurico Souza Leão,Rua Aurélio Valporto,Avenida Além Paraíba,"In the Rio de Janeiro area, which road directly reaches Rua Luís Coutinho Cavalcante?",C
+387,Rua Sirici,Rua Arquias Cordeiro,Rua Adalgisa Aleixo,Avenida Brás de Pina,"In the Rio de Janeiro area, which road directly reaches Rua Aurélio Valporto?",A
+388,Rua Geísa Firmo Gonçalves,Rua Luís Barbosa,Avenida Prefeito Mendes de Morais,Estrada da Gávea,"In the Rio de Janeiro area, which road cannot directly reach Avenida Niemeyer?",B
+389,Rua Engenheiro Amandino de Carvalho,Praça do Bandolim,Rua das Turquesas,Rua Pajurá,"In the Rio de Janeiro area, which road directly reaches Avenida Prefeito Mendes de Morais?",A
+390,Avenida Brasil,Rua Chaves Pinheiro,Rua Euzébio de Matos,Rua General Galieni,"In the Rio de Janeiro area, which road directly reaches Rua Marcos de Macedo?",A
+391,Rua Venina,Rua José dos Reis,Rua Otacílio Novais,Rua do Radialista,"In the Rio de Janeiro area, which road directly reaches Rua Ibaté?",B
+392,Rua Comandante Possolo,Rua José dos Reis,Rua Álvaro de Miranda,Rua Ibaté,"In the Rio de Janeiro area, which road cannot directly reach Rua Ivan de Oliveira Lima?",A
+393,Rua Magalhães Castro,Rua Paranapanema,Rua São Miguel,Avenida Otávio Malta,"In the Rio de Janeiro area, which road directly reaches Rua Diomedes Trota?",B
+394,Estrada São Pedro de Alcântara,Rua Araçá,Rua Doutor Noguchi,Avenida Marechal Rondon,"In the Rio de Janeiro area, which road directly reaches Túnel Noel Rosa?",D
+395,Rua Piauí,Estrada João Paulo,Rua São Paulo,Rua Monsenhor Alves Rocha,"In the Rio de Janeiro area, which road directly reaches Avenida Marechal Rondon?",C
+396,Estrada do Engenho Novo,Avenida Marechal Rondon,Ponte Cardeal Dom Eugênio de Araújo Sales,Rua da Ventura,"In the Rio de Janeiro area, which road directly reaches Rua São Paulo?",B
+397,Estrada São Pedro de Alcântara,Rua Andrade Figueira,Avenida Engenheiro Hermano Jordão Freire,Rua Paranapanema,"In the Rio de Janeiro area, which road directly reaches Via Parque?",C
+398,Rua Frei Bento,Rua Pedro Teles,Rua Pinto Teles,Rua Cândido Benício,"In the Rio de Janeiro area, which road cannot directly reach Rua Maricá?",A
+399,Rua Maricá,Estrada João Paulo,Estrada Henrique de Melo,Rua Álvares de Azevedo,"In the Rio de Janeiro area, which road directly reaches Rua Pedro Teles?",A
+400,Rua Pedro Calmon,Rua Arauá,Rua Carolina Machado,Rua Ana Neri,"In the Rio de Janeiro area, which road directly reaches Rua Antônio Raposo?",C
+401,Estrada dos Três Rios,Rua Jurubaíba,Avenida Pastor Martin Luther King Junior,Rua Pereira Landim,"In the Rio de Janeiro area, which road directly reaches Rua Silva Vale?",C
+402,Rua Lima Barreto,Rua Borja Reis,Avenida Amaro Cavalcanti,Rua Dias da Cruz,"In the Rio de Janeiro area, which road cannot directly reach Rua Dois de Fevereiro?",A
+403,Praça Helley Batista,Rua Constança Barbosa,TransOlímpica,Rua Domingos Lopes,"In the Rio de Janeiro area, which road directly reaches Rua Ana Barbosa?",B
+404,Rua Barão do Bom Retiro,Rua João Vicente,Estrada Marechal Alencastro,Avenida Duque de Caxias,"In the Rio de Janeiro area, which road cannot directly reach Rua Manacá?",A
+405,Rua Elias da Silva,Rua José Bonifácio,Rua Luís Coutinho Cavalcante,Estrada São Pedro de Alcântara,"In the Rio de Janeiro area, which road directly reaches Estrada da Água Branca?",D
+406,Rua Leopoldo Bulhões,Rua Marina,Estrada de Jacarepaguá,Rua Engenheiro Arthur Moura,"In the Rio de Janeiro area, which road directly reaches Rua Divisória?",B
+407,Rua Pirangi,Rua João Vicente,Rua Sargento Silva Nunes,Estrada da Gávea,"In the Rio de Janeiro area, which road directly reaches Rua Apodi?",B
+408,Rua Adalgisa Aleixo,Rua Apodi,Rua Soldado Simplício de Lara,Rua do Queimado,"In the Rio de Janeiro area, which road cannot directly reach Rua Gita?",C
+409,Rua Comandante Vergueiro da Cruz,Estrada da Fontinha,Rua Capitão Rezende,Rua Euzébio de Almeida,"In the Rio de Janeiro area, which road directly reaches Praça do Valqueire?",B
+410,Estrada Marechal Alencastro,Estrada da Fontinha,Rua Cachambi,Praça Barão de Drummond,"In the Rio de Janeiro area, which road directly reaches Rua Capitão Mário Barbedo?",A
+411,Viaduto de Deodoro,Estrada do Camboatá,Avenida Sargento Isanor de Campos,Rua General Jerônimo Furtado,"In the Rio de Janeiro area, which road cannot directly reach Rua Engenheiro Nicanor Pereira?",D
+412,Rua José dos Reis,Avenida Pastor Martin Luther King Junior,Rua Arlindo Janot,Rua Iguaçu,"In the Rio de Janeiro area, which road directly reaches Rua Cesar Muzio?",B
+413,Avenida Pastor Martin Luther King Junior,Avenida Adalgisa Colombo,Rua Luíza de Carvalho,Rua Cesar Muzio,"In the Rio de Janeiro area, which road cannot directly reach Rua Engenheiro Mario de Carvalho?",B
+414,Rua Carvalho de Souza,Rua Átila da Silveira,Rua São Guilherme de Norwich,Rua Gastão Penalva,"In the Rio de Janeiro area, which road directly reaches Rua Alfeu Faria Casto?",A
+415,Rua Alfeu Faria Casto,Travessa Almerinda Freitas,Rua Itamarati,Estrada Japoré,"In the Rio de Janeiro area, which road cannot directly reach Rua Carvalho de Souza?",D
+416,Rua Cracituba,Rua Goiás,Avenida Dom Hélder Câmara,Rua da Pedreira,"In the Rio de Janeiro area, which road cannot directly reach Rua Cupertino?",A
+417,Estrada do Bananal,Rua Guilhermina,Rua Lucídio Lago,Estrada Calmete,"In the Rio de Janeiro area, which road directly reaches Rua Bento Gonçalves?",B
+418,Rua Bento Gonçalves,Rua Angelo Dantas,Rua Herculano Pena,Avenida Teixeira de Castro,"In the Rio de Janeiro area, which road directly reaches Rua Guilhermina?",A
+419,Rua Canelinha,Rua das Margaridas,Rua Silvana,Rua Domingos Lopes,"In the Rio de Janeiro area, which road directly reaches Rua José Domingues?",C
+420,Rua João Pinheiro,Rua Guilhermina,Rua Agostinho Barbalho,Rua Goiás,"In the Rio de Janeiro area, which road directly reaches Rua Angelina?",D
+421,Rua Santa Basilissa,Rua Tapevi,Rua Marechal José Bevilacqua,Estrada do Camboatá,"In the Rio de Janeiro area, which road directly reaches Rua Cacequi?",B
+422,Avenida Pastor Martin Luther King Junior,Avenida Marechal Rondon,Avenida Olof Palme,Rua do Radialista,"In the Rio de Janeiro area, which road directly reaches Estrada do Colégio?",A
+423,Rua das Oficinas Jornalista Luiz Mendes,Estrada Adhemar Bebiano,Rua Miguel Ângelo,Avenida Boulevard Ilha Pura,"In the Rio de Janeiro area, which road directly reaches Viaduto Estrada Velha da Pavuna?",B
+424,Rua Conselheiro Mayrink,Avenida Itaóca,Rua Santiago,Viaduto João XXIII,"In the Rio de Janeiro area, which road directly reaches Rua General Galieni?",B
+425,Rua Vilela Tavares,Rua Cabuçu,Rua Átila da Silveira,Praça Manuel Ortigão,"In the Rio de Janeiro area, which road directly reaches Rua Jacaraú?",D
+426,Viaduto São Cosme,Rua do Trabalho,Rua Edgard Werneck,Estrada General Canrobert Pereira da Costa,"In the Rio de Janeiro area, which road directly reaches Rua Davi?",C
+427,Rua Magalhães Couto,Rua Ibaté,Rua General Jerônimo Furtado,Rua Santo Antônio,"In the Rio de Janeiro area, which road directly reaches Avenida Comandante Guaranys?",D
+428,Rua Pedro de Carvalho,Avenida Nova York,Rua Hermengarda,Rua Vilela Tavares,"In the Rio de Janeiro area, which road cannot directly reach Rua Lins de Vasconcelos?",B
+429,Rua Barão de São Francisco,Rua Barão de Mesquita,Rua Carolina Machado,Rua Uruguai,"In the Rio de Janeiro area, which road cannot directly reach Rua Maxwell?",C
+430,Rua Maxwell,Rua Gastão Penalva,Rua João Bruno Lobo,Rua Borda do Mato,"In the Rio de Janeiro area, which road cannot directly reach Rua Barão de Mesquita?",C
+431,Rua Maxwell,Rua Maria Freitas,Rua Teodoro da Silva,Rua das Safiras,"In the Rio de Janeiro area, which road directly reaches Rua Uruguai?",A
+432,Rua Florianópolis,Avenida Amaro Cavalcanti,Rua Cândido Benício,Rua Feliciano de Aguiar,"In the Rio de Janeiro area, which road directly reaches Rua Daniel Carneiro?",B
+433,Rua Viúva Cláudio,Rua Dias da Cruz,Avenida Amaro Cavalcanti,Rua Daniel Carneiro,"In the Rio de Janeiro area, which road cannot directly reach Rua Adolfo Bergamini?",A
+434,Rua da Tranquilidade,Rua Carolina Machado,Rua Cabuçu,Rua Magalhães Castro,"In the Rio de Janeiro area, which road directly reaches Rua Carlos Costa?",D
+435,Avenida Luís Carlos Prestes,Rua Conde de Azambuja,Rua Marcos de Macedo,Rua Almeida e Sousa,"In the Rio de Janeiro area, which road directly reaches Rua Feliciano de Aguiar?",B
+436,Avenida de Nazareth,Rua Viúva Cláudio,Rua Feliciano de Aguiar,Rua Ana Barbosa,"In the Rio de Janeiro area, which road directly reaches Rua Miguel Ângelo?",C
+437,Rua Fernando Esquerdo,Rua 23 de Agosto,Praça Montese,Estrada dos Três Rios,"In the Rio de Janeiro area, which road directly reaches Rua Miguel Gama?",A
+438,Rua Oliveira Serpa,Rua Miguel Gama,Rua Godofredo Viana,Rua Ferreira de Andrade,"In the Rio de Janeiro area, which road cannot directly reach Rua Fernando Esquerdo?",C
+439,Rua Feliciano de Aguiar,Travessa Adriano dos Passos,Rua Oliveira Serpa,Avenida Imperatriz Leopoldina,"In the Rio de Janeiro area, which road cannot directly reach Rua Conde de Azambuja?",D
+440,Avenida Júlio de Sá Bierrenbach,Avenida Brasil,Rua Leopoldina Rego,Viaduto Engenheiro Edno Machado,"In the Rio de Janeiro area, which road directly reaches Avenida Professor Plinio Bastos?",C
+441,Avenida Vicente de Carvalho,Rua dos Topázios,Avenida Nelson Mufarrej,Rua Oliva Maia,"In the Rio de Janeiro area, which road directly reaches Rua Ferreira Chaves?",A
+442,Rua Engenheiro Nazareth,Estrada da Fontinha,Rua Teodoro da Silva,Avenida Vicente de Carvalho,"In the Rio de Janeiro area, which road directly reaches Rua Soldado Bernardino da Silva?",D
+443,Avenida do Braz de Pina,Rua Leônidas,Avenida Lobo Junior,Avenida Nossa Senhora da Penha,"In the Rio de Janeiro area, which road cannot directly reach Largo da Penha?",C
+444,Rua Concórdia,Estrada General Canrobert Pereira da Costa,Rua Capitão Cader Matori,Rua Jurubaíba,"In the Rio de Janeiro area, which road cannot directly reach Rua Almeida e Sousa?",D
+445,Travessa Almerinda Freitas,Avenida Menezes Côrtes,Rua Barão do Bom Retiro,Rua Visconde de Santa Isabel,"In the Rio de Janeiro area, which road cannot directly reach Rua José do Patrocínio?",A
+446,Viaduto Castro Alves,Rua Silva Rabelo,Rua Cirilo da Silveira,Rua Venceslau,"In the Rio de Janeiro area, which road cannot directly reach Rua Medina?",C
+447,Rua Pedro Teles,Rua Aristides Caire,Rua Salustiano Silva,Rua Dona Clara,"In the Rio de Janeiro area, which road directly reaches Rua Capitão Rezende?",B
+448,Rua Coração de Maria,Rua Getúlio,Rua Gandavo,Rua Aristides Caire,"In the Rio de Janeiro area, which road cannot directly reach Rua Castro Alves?",C
+449,Rua Ana Neri,Rua Major Suckow,Estrada João Paulo,Rua Lino Teixeira,"In the Rio de Janeiro area, which road cannot directly reach Rua Conselheiro Mayrink?",C
+450,Rua Araçá,Rua Conde de Azambuja,Viaduto João XXIII,Largo dos Pilares,"In the Rio de Janeiro area, which road directly reaches Travessa Adriano dos Passos?",B
+451,Rua Pacífico Pereira,Rua Paula Brito,Rua Moacir de Almeida,Viaduto Castro Alves,"In the Rio de Janeiro area, which road directly reaches Rua Barão do Bananal?",C
+452,Rua André Rocha,Estrada do Itanhangá,Avenida Salvador Allende,Rua General Fonseca Ramos,"In the Rio de Janeiro area, which road directly reaches Rua Creso?",A
+453,Avenida Professor Plinio Bastos,Rua Gita,Rua do Queimado,Rua João Vicente,"In the Rio de Janeiro area, which road cannot directly reach Rua Adalgisa Aleixo?",A
+454,Rua Latife Luvizaro,Rua Carolina Machado,Rua Cachambi,Rua Aurélio Valporto,"In the Rio de Janeiro area, which road cannot directly reach Rua Sirici?",C
+455,Praça Quinze de Novembro,Rua Torres de Oliveira,Rua Alfeu Faria Casto,Rua Sirici,"In the Rio de Janeiro area, which road directly reaches Rua Latife Luvizaro?",D
+456,Rua Monteiro da Luz,Rua Fancisco Batista,Estrada de Jacarepaguá,Rua Teixeira Ribeiro,"In the Rio de Janeiro area, which road directly reaches Rua Nova?",C
+457,Rua São Ricardo,Rua São João Bernardo,Rua Joaquim de Queiroz,Rua Silvana,"In the Rio de Janeiro area, which road directly reaches Rua São Guilherme de Norwich?",A
+458,Rua André Rocha,Avenida Nelson Cardoso,Rua Marquês de Jacarepaguá,Rua da Ventura,"In the Rio de Janeiro area, which road cannot directly reach Rua Marechal José Bevilacqua?",D
+459,Rua Edgard Werneck,Avenida Nelson Cardoso,Estrada do Cafundá,Rua Godofredo Viana,"In the Rio de Janeiro area, which road cannot directly reach Rua Imbuí?",A
+460,Rua Bacairis,Rua Abrahão Jabour,Estrada Macembu,Praça Saiqui,"In the Rio de Janeiro area, which road directly reaches Rua Ipinambés?",A
+461,Rua Pedro Calmon,Estrada do Tindiba,Rua Capitão Couto Menezes,Rua Lopo Saraiva,"In the Rio de Janeiro area, which road directly reaches Rua Atituba?",B
+462,Estrada do Tindiba,Rua Castro Alves,Rua Aciás,Avenida dos Mananciais,"In the Rio de Janeiro area, which road cannot directly reach Praça Jauru?",B
+463,Rua Desembargador Gastão Macedo,Rua Bertha Lutz,Estrada do Engenho Velho,Rua Cerqueira Daltro,"In the Rio de Janeiro area, which road directly reaches Rua Rui das Dores?",C
+464,Rua das Turmalinas,Avenida Albérico Diniz,Rua Padre Ventura,Avenida Heróis do Gueto de Varsóvia,"In the Rio de Janeiro area, which road directly reaches Rua Fernandes Sampaio?",B
+465,Rua Silva Vale,Rua Piraquara,Rua Constança Barbosa,Rua Ariperana,"In the Rio de Janeiro area, which road directly reaches Rua Francisco Valle?",A
+466,Estrada do Itararé,Rua Mirinduba,Avenida Brasil,Rua Euzébio de Matos,"In the Rio de Janeiro area, which road directly reaches Rua Francisco Portela?",C
+467,Praça Manuel Ortigão,Rua Dias da Cruz,Rua Getúlio,Estrada dos Bandeirantes,"In the Rio de Janeiro area, which road directly reaches Estrada Santa Efigênia?",D
+468,Rua Angelo Dantas,Avenida João Cabral de Melo Neto,Avenida dos Mananciais,Rua Carumbé,"In the Rio de Janeiro area, which road directly reaches Rua Athaly Aguiar?",C
+469,Rua das Margaridas,Rua Barão do Bom Retiro,Rua José do Patrocínio,Rua Alexandre Calaza,"In the Rio de Janeiro area, which road cannot directly reach Rua Visconde de Santa Isabel?",A
+470,Rua Adeque,Estrada da Canoa,Avenida Teixeira de Castro,Rua Camboriú,"In the Rio de Janeiro area, which road directly reaches Estrada da Pedra Bonita?",B
+471,Rua Comandante Possolo,Avenida Sargento Isanor de Campos,Rua Tirol,Estrada da Pedra Bonita,"In the Rio de Janeiro area, which road directly reaches Estrada da Canoa?",D
+472,Avenida Ricardo Eugênio Boechat,Avenida Embaixador Abelardo Bueno,Estrada da Fontinha,Rua Paturi,"In the Rio de Janeiro area, which road directly reaches Rua Francisco de Paula?",B
+473,Avenida Imperatriz Leopoldina,Avenida dos Italianos,Rua Amália Franco,Estrada da Soca,"In the Rio de Janeiro area, which road directly reaches Rua Franz Weissman?",A
+474,Avenida Jaime Poggi,Rua Franz Weissman,Avenida Embaixador Abelardo Bueno,Rua João Romeiro,"In the Rio de Janeiro area, which road cannot directly reach Estrada Coronel Pedro Corrêa?",D
+475,Avenida Salvador Allende,Estrada do Pau-Ferro,Estrada Caribu,Rua Melo Morais,"In the Rio de Janeiro area, which road directly reaches Rua Armando Gonzaga?",B
+476,Rua Francisco Valle,Rua Pajurá,Rua Ana Barbosa,Rua Padre Manso,"In the Rio de Janeiro area, which road directly reaches Rua Maria Lopes?",D
+477,Avenida Carlos Zara,Rua Silvana,Rua Itamarati,Rua Fancisco Batista,"In the Rio de Janeiro area, which road directly reaches Avenida Ricardo Eugênio Boechat?",A
+478,Rua Filomena Fragoso,Rua Dona Isabel,Rua Torres Homem,Avenida Adalgisa Colombo,"In the Rio de Janeiro area, which road directly reaches Avenida José Wilker?",D
+479,Rua Pereira Landim,Rua Cândido Benício,Avenida Dom Hélder Câmara,Rua Quito,"In the Rio de Janeiro area, which road directly reaches Rua Ibiraci?",C
+480,Rua Cachambi,Rua Comandante Rubens Silva,Rua Santiago Guerra,Rua Fernão Cardim,"In the Rio de Janeiro area, which road cannot directly reach Rua Degas?",B
+481,Rua Retiro dos Artistas,Avenida Luís Carlos Prestes,Rua Apiacás,Túnel Noel Rosa,"In the Rio de Janeiro area, which road directly reaches Avenida das Américas?",B
+482,Rua Valerio,Praça Aquidauana,Rua Barão do Bom Retiro,Rua Capitão Menezes,"In the Rio de Janeiro area, which road directly reaches Rua Alexandre Calaza?",C
+483,Rua Franz Weissman,Praça Jauru,Via Light,Avenida Monsenhor Félix,"In the Rio de Janeiro area, which road directly reaches Rua Miranda e Brito?",D
+484,Avenida Meriti,Viaduto Jornalista Armando Nogueira,Avenida Vice-Presidente José Alencar,Rua Tenente Serafim,"In the Rio de Janeiro area, which road directly reaches Estrada Padre Roser?",A
+485,Viaduto de Magalhães Bastos,Rua Gôndola,Rua Hermengarda,Rua Uranos,"In the Rio de Janeiro area, which road directly reaches Rua Ibiapina?",D
+486,Via Light,Rua Uranos,Avenida do Braz de Pina,Rua Carinhanha,"In the Rio de Janeiro area, which road directly reaches Avenida Brás de Pina?",C
+487,Avenida Bruxelas,Rua 23 de Agosto,Rua Francisco de Paula,Rua Engenheiro Mario de Carvalho,"In the Rio de Janeiro area, which road directly reaches Rua Luíza de Carvalho?",D
+488,Rua Engenheiro Nicanor Pereira,Rua Ibiraci,Rua Gandavo,Rua Degas,"In the Rio de Janeiro area, which road cannot directly reach Rua Fernão Cardim?",A
+489,Rua Degas,Estrada do Rio Grande,Praça Rubey Wanderley,Rua Assis Carneiro,"In the Rio de Janeiro area, which road directly reaches Rua Gandavo?",A
+490,Estrada do Guanumbi,Rua Venina,Rua Desembargador Gastão Macedo,Avenida Dom Hélder Câmara,"In the Rio de Janeiro area, which road directly reaches Rua Pedras Altas?",D
+491,Rua da Tranquilidade,Avenida Nelson Cardoso,Rua Honório,Rua Iguaçu,"In the Rio de Janeiro area, which road directly reaches Rua Melo Morais?",D
+492,Rua Cerqueira Daltro,Rua Herculano Pena,Rua Otacílio Novais,Rua Florentina,"In the Rio de Janeiro area, which road cannot directly reach Rua Gaspar Viana?",C
+493,Rua Padre Manoel de Nóbrega,Rua Gaspar Viana,Rua Cerqueira Daltro,Rua Guiraréia,"In the Rio de Janeiro area, which road cannot directly reach Rua Herculano Pena?",D
+494,Rua Venina,Rua José dos Reis,Viaduto Engenheiro Edno Machado,Estrada Santa Efigênia,"In the Rio de Janeiro area, which road directly reaches Rua Guineza?",B
+495,Rua Almeida e Sousa,Rua Santa Basilissa,Rua Padre Telêmaco,Avenida Dom Hélder Câmara,"In the Rio de Janeiro area, which road directly reaches Rua Glaziou?",D
+496,Linha Amarela,Rua Picuí,Rua João Pinheiro,Avenida Otávio Malta,"In the Rio de Janeiro area, which road directly reaches Rua Eurico Souza Leão?",A
+497,Rua Amália Franco,Rua Miguel Burnier,Avenida Dom Hélder Câmara,Rua Marechal Trompowski,"In the Rio de Janeiro area, which road directly reaches Rua Honório?",C
+498,Estrada do Tindiba,Rua Parintins,Estrada da Gávea Pequena,Rua Cachambi,"In the Rio de Janeiro area, which road directly reaches Rua Samuel das Neves?",A
+499,Estrada Adhemar Bebiano,Rua Soldado Bernardino da Silva,Rua Daniel Carneiro,Estrada Calmete,"In the Rio de Janeiro area, which road directly reaches Rua Teixeira de Macedo?",A
+500,Rua Gurupi,Rua Marquês de Jacarepaguá,Avenida do Braz de Pina,Avenida Menezes Côrtes,"In the Rio de Janeiro area, which road directly reaches Rua Guaporé?",C
+501,Rua Professor Henrique Costa,Rua Olímpia do Couto,Estrada dos Bandeirantes,Estrada do Tindiba,"In the Rio de Janeiro area, which road directly reaches Rua Nacional?",C
+502,Rua João Bruno Lobo,Rua Diomedes Trota,Rua Gomensoro,Rua Atituba,"In the Rio de Janeiro area, which road directly reaches Rua Monsenhor Alves Rocha?",C
+503,Rua Valerio,Avenida Itaóca,Rua João Bruno Lobo,Avenida Tenente Coronel Muniz de Aragão,"In the Rio de Janeiro area, which road directly reaches Praça do Bandolim?",C
+504,Estrada General Canrobert Pereira da Costa,Rua Euzébio de Matos,Rua Daniel Carneiro,Avenida do Braz de Pina,"In the Rio de Janeiro area, which road directly reaches Rua Venina?",D
+505,Rua Barão,Praça Rubey Wanderley,Rua Cacequi,Avenida Marechal Fontenelle,"In the Rio de Janeiro area, which road directly reaches Rua Carinhanha?",D
+506,Rua Torres Homem,Rua Oliva Maia,Rua Carlos Costa,Rua José do Patrocínio,"In the Rio de Janeiro area, which road directly reaches Avenida Menezes Côrtes?",D
+507,Rua Mapendi,Rua André Azevedo,Avenida Professor Plinio Bastos,Estrada do Engenho da Pedra,"In the Rio de Janeiro area, which road cannot directly reach Rua Doutor Alfredo Barcelos?",A
+508,Rua Oliveira Serpa,Rua Antonieta Campos da Paz,Rua Bráulio Cordeiro,Avenida Dom Hélder Câmara,"In the Rio de Janeiro area, which road directly reaches Rua João Pinheiro?",D
+509,Viaduto Jornalista Armando Nogueira,Praça Rubey Wanderley,Rua Carolina Machado,Rua Guaianazes,"In the Rio de Janeiro area, which road directly reaches Rua da Abolição?",A
+510,Rua Gramané,Estrada do Capenha,Rua das Rosas,Avenida Imperatriz Leopoldina,"In the Rio de Janeiro area, which road directly reaches Avenida Vice-Presidente José Alencar?",D
+511,Avenida Júlio de Sá Bierrenbach,Viaduto Compositor Wilson Batista,Rua André Rocha,Rua Gastão Penalva,"In the Rio de Janeiro area, which road directly reaches Avenida Antonio Gallotti?",A
+512,Avenida Nelson Mufarrej,Curva Chico Anysio,Rua Felisbelo Freire,Avenida Luís Carlos Prestes,"In the Rio de Janeiro area, which road cannot directly reach Avenida Ayrton Senna?",C
+513,Avenida das Américas,Estrada Japoré,Avenida Ayrton Senna,Estrada da Gávea Pequena,"In the Rio de Janeiro area, which road directly reaches Avenida Moacyr Barbosa?",C
+514,Estrada Curumaú,Rua Nacional,Rua Comandante Vergueiro da Cruz,Avenida do Braz de Pina,"In the Rio de Janeiro area, which road directly reaches Praça Rubey Wanderley?",D
+515,Avenida Heróis do Gueto de Varsóvia,Rua Pereira Landim,Rua Adeque,Estrada da Curicica,"In the Rio de Janeiro area, which road directly reaches Avenida Jornalista Tim Lopes?",A
+516,Estrada do Itanhangá,Rua Ibaté,Avenida Tenente Coronel Muniz de Aragão,Rua Igaratá,"In the Rio de Janeiro area, which road directly reaches Estrada da Barra da Tijuca?",A
+517,Avenida Duque de Caxias,Rua Constança Barbosa,Rua Engenheiro Nicanor Pereira,Estrada do Camboatá,"In the Rio de Janeiro area, which road cannot directly reach Viaduto de Deodoro?",B
+518,Rua Carolina Machado,Rua da Tranquilidade,Avenida dos Mananciais,Rua Maratuba,"In the Rio de Janeiro area, which road directly reaches Rua Firmino Fragoso?",A
+519,Rua Bento Gonçalves,Via Light,Rua das Camélias,Rua Bonsucesso,"In the Rio de Janeiro area, which road directly reaches Praça Saiqui?",C
+520,Rua Rogério Jonas Zylbersztajn,Estrada Rodrigues Caldas,Rua Castro Alves,Rua Canelinha,"In the Rio de Janeiro area, which road directly reaches Avenida Adauto Botelho?",B
+521,Rua General Galieni,Estrada Marechal Alencastro,Largo do Tanque,Rua Carvalho de Souza,"In the Rio de Janeiro area, which road directly reaches Rua Adeque?",B
+522,Avenida Brasil,Rua Oliveira Serpa,Rua Alexandre Ramos,Rua Borda do Mato,"In the Rio de Janeiro area, which road directly reaches Avenida Julio Furtado?",D
+523,Viaduto João XXIII,Rua João Pinheiro,Largo da Penha,Rua Carolina Machado,"In the Rio de Janeiro area, which road directly reaches Rua Fancisco Batista?",D
+524,Estrada Marechal Mallet,Rua Lino Teixeira,Rua Nova,Estrada Japoré,"In the Rio de Janeiro area, which road directly reaches Rua Doutor Garnier?",B
+525,Rua Euzébio de Matos,Rua Comandante Possolo,Autoestrada Engenheiro Fernando Mac Dowell,Rua Barão de São Francisco,"In the Rio de Janeiro area, which road directly reaches Rua Teodoro da Silva?",D
+526,Rua José Domingues,Rua Goiás,Rua Rogério Jonas Zylbersztajn,Rua Pedro Domingues,"In the Rio de Janeiro area, which road cannot directly reach Rua Silvana?",C
+527,Rua Cândido de Figueiredo,Rua das Safiras,Estrada do Engenho d'Água,Estrada Manoel Nogueira de Sá,"In the Rio de Janeiro area, which road directly reaches Rua das Turquesas?",B
+528,Estrada da Gávea,Rua Silva Rabelo,Estrada Coronel Pedro Corrêa,Estrada do Camboatá,"In the Rio de Janeiro area, which road directly reaches Largo da Macumba?",A
+529,Rua Barão de Mesquita,Rua Chaves Pinheiro,Rua General Fonseca Ramos,Rua Dias da Cruz,"In the Rio de Janeiro area, which road directly reaches Rua Manuela Barbosa?",D
+530,Rua Conde de Azambuja,Rua Fernando Esquerdo,Rua Pedras Altas,Rua Ferreira de Andrade,"In the Rio de Janeiro area, which road cannot directly reach Rua Oliveira Serpa?",C
+531,Estrada da Barra da Tijuca,Via Parque,Estrada Intendente Magalhães,Rua Fernando Esquerdo,"In the Rio de Janeiro area, which road directly reaches Rua Ferreira de Andrade?",D
+532,Rua Rogério Jonas Zylbersztajn,Avenida Monsenhor Félix,Rua Silvana,Estrada Coronel Pedro Corrêa,"In the Rio de Janeiro area, which road directly reaches Avenida Jaime Poggi?",D
+533,Via Parque,Rua Cracituba,Rua João Bruno Lobo,Viaduto Novo de Bento Ribeiro,"In the Rio de Janeiro area, which road directly reaches Avenida Engenheiro Hermano Jordão Freire?",A
+534,Praça Quinze de Novembro,Rua Sargento Peixoto,Avenida Boulevard Ilha Pura,Avenida Brasil,"In the Rio de Janeiro area, which road directly reaches Rua Sargento Peixoto?",D
+535,Avenida Oliveira Belo,Rua Uranos,Linha Amarela,Rua Piauí,"In the Rio de Janeiro area, which road directly reaches Rua Arlindo Janot?",C
+536,Avenida Brasil,Rua Padre Telêmaco,Rua do Engenho Novo,Estrada da Uruçanga,"In the Rio de Janeiro area, which road directly reaches Rua Sizenando Nabuco?",A
+537,Rua Honório,Avenida Brigadeiro Trompowski,Rua Fancisco Batista,Rua Comendador Siqueira,"In the Rio de Janeiro area, which road directly reaches Viaduto Engenheiro Edno Machado?",B
+538,Estrada do Bananal,Viaduto Engenheiro Edno Machado,Rua Aciás,Rua Pedras Altas,"In the Rio de Janeiro area, which road directly reaches Avenida Brigadeiro Trompowski?",B
+539,Rua Bertha Lutz,Rua Propícia,Rua Euclides Faria,Rua Angelina,"In the Rio de Janeiro area, which road directly reaches Rua 23 de Agosto?",C
+540,Rua das Oficinas Jornalista Luiz Mendes,Estrada Velha da Tijuca,Rua Carvalho de Souza,Largo do Tanque,"In the Rio de Janeiro area, which road directly reaches Travessa Almerinda Freitas?",C
+541,Rua Castro Alves,Rua Barão do Bananal,Estrada do Portela,Estrada do Rio Grande,"In the Rio de Janeiro area, which road directly reaches Rua Américo Brasiliense?",C
+542,Avenida José Wilker,Rua Carolina Machado,Rua das Dálias,Praça Barão de Drummond,"In the Rio de Janeiro area, which road directly reaches Rua Maria Freitas?",B
+543,Rua São Paulo,Avenida Engenheiro Richard,Rua Barão do Bom Retiro,Rua Silva Freire,"In the Rio de Janeiro area, which road cannot directly reach Rua Vinte e Quatro de Maio?",B
+544,Rua João Vicente,Rua Manoel Vitorino,Rua Alexandre Ramos,Rua Barão,"In the Rio de Janeiro area, which road directly reaches Viaduto Novo de Bento Ribeiro?",A
+545,Rua Cacequi,Praça Jauru,Rua Carvalho de Souza,Estrada do Camboatá,"In the Rio de Janeiro area, which road directly reaches Rua Aciás?",B
+546,Rua Gôndola,Rua Silvana,Avenida Oliveira Belo,Rua Nova,"In the Rio de Janeiro area, which road directly reaches Rua Pedro Domingues?",B
+547,Rua Marechal Trompowski,Rua Henrique Scheid,Rua Soldado Simplício de Lara,Estrada Coronel Pedro Corrêa,"In the Rio de Janeiro area, which road directly reaches Rua das Oficinas Jornalista Luiz Mendes?",B
+548,Rua Pedras Altas,Rua José de Souza Baeta,Rua Xavier Curado,Avenida Meriti,"In the Rio de Janeiro area, which road directly reaches Praça Avanhandava?",D
+549,Rua Lima Barreto,Estrada dos Bandeirantes,Rua Francisco Bernardino,Rua Ipadu,"In the Rio de Janeiro area, which road directly reaches Rua Antônio Americano?",B
+550,Rua Comandante Vergueiro da Cruz,Rua Barão do Bom Retiro,Rua Francisco de Paula,Rua Aurélio Valporto,"In the Rio de Janeiro area, which road directly reaches Rua Padre Roma?",B
+551,Rua Souza Barros,Rua Quito,Praça Panamericana,Rua Francisco Portela,"In the Rio de Janeiro area, which road directly reaches Rua Quito?",C
+552,Rua Quito,Rua Aladim,Rua Fernão Cardim,Avenida Novo Rio,"In the Rio de Janeiro area, which road directly reaches Praça Panamericana?",A
+553,Rua Leopoldina Rego,Rua das Rosas,Rua Marina,Rua Antonieta Campos da Paz,"In the Rio de Janeiro area, which road directly reaches Rua Santa Basilissa?",A
+554,Rua Cardoso de Morais,Estrada São Pedro de Alcântara,Rua Pereira da Rocha,Avenida Além Paraíba,"In the Rio de Janeiro area, which road directly reaches Rua Bonsucesso?",A
+555,Rua Engenheiro Nicanor Pereira,Rua Carlos Lacerda,Rua Bonsucesso,Rua Carlos Xavier,"In the Rio de Janeiro area, which road directly reaches Rua Cardoso de Morais?",C
+556,Rua Bento Gonçalves,Estrada Marechal Alencastro,Rua Lucídio Lago,Rua Dona Isabel,"In the Rio de Janeiro area, which road directly reaches Avenida Bruxelas?",D
+557,Rua Marechal José Bevilacqua,Rua Pedro de Carvalho,Avenida Meriti,Rua Leopoldina Rego,"In the Rio de Janeiro area, which road directly reaches Viaduto São Cosme?",D
+558,Rua Pedro Domingues,Avenida Marechal Fontenelle,Rua Glaziou,Praça Quinze de Novembro,"In the Rio de Janeiro area, which road directly reaches Rua Castanheiro?",B
+559,Rua Vilela Tavares,Avenida Brasil,Rua Atituba,Avenida dos Italianos,"In the Rio de Janeiro area, which road directly reaches Marginal Avenida Brasil?",B
+560,Rua Cirilo da Silveira,Estrada Rodrigues Caldas,Rua Tenente Serafim,Rua Adolfo Bergamini,"In the Rio de Janeiro area, which road directly reaches Estrada de Gericinó?",C
+561,Rua Luís Barbosa,Viaduto São Cosme,Rua General Fonseca Ramos,Viaduto Negrão de Lima,"In the Rio de Janeiro area, which road directly reaches Rua Torres Homem?",A
+562,Rua Barão de Mesquita,Rua Eurico Souza Leão,Rua dos Topázios,Rua Bento Gonçalves,"In the Rio de Janeiro area, which road directly reaches Rua Paula Brito?",A
+563,Rua das Margaridas,Rua das Safiras,Rua Padre Manoel de Nóbrega,Rua Barão de Mesquita,"In the Rio de Janeiro area, which road directly reaches Rua Gastão Penalva?",D
+564,Rua Luís Beltrão,Rua Bertha Lutz,Rua Nacional,Avenida Ayrton Senna,"In the Rio de Janeiro area, which road directly reaches Ponte Cardeal Dom Eugênio de Araújo Sales?",D
+565,Rua Ururaí,Ponte Cardeal Dom Eugênio de Araújo Sales,Rua João Vicente,Rua Lucídio Lago,"In the Rio de Janeiro area, which road directly reaches Rua Propícia?",D
+566,Rua Padre Manso,Avenida das Américas,Rua Dagmar da Fonseca,Rua Carumbé,"In the Rio de Janeiro area, which road directly reaches Rua Angelo Dantas?",A
+567,Rua Angelina,Rua Joaquim de Queiroz,Avenida Pastor Martin Luther King Junior,Estrada do Rio Pequeno,"In the Rio de Janeiro area, which road directly reaches Saída 05?",C
+568,Estrada de Jacarepaguá,Estrada do Timbó,Avenida Niemeyer,Rua Herculano Pena,"In the Rio de Janeiro area, which road directly reaches Rua Geísa Firmo Gonçalves?",C
+569,Rua Angelo Dantas,Rua Dona Romana,Rua Carumbé,Linha Amarela,"In the Rio de Janeiro area, which road directly reaches Rua Guajara-Mirim?",D
+570,Rua Cândido Benício,Rua Amália Franco,Estrada Marechal Mallet,Rua Antonieta Campos da Paz,"In the Rio de Janeiro area, which road directly reaches Mergulhão Clara Nunes?",A
+571,Praça Jauru,Rua Elias da Silva,Autoestrada Engenheiro Fernando Mac Dowell,Rua Pedro de Carvalho,"In the Rio de Janeiro area, which road directly reaches Rua Bertha Lutz?",C
+572,Avenida Adalgisa Colombo,Rua Guaporé,Avenida José Silva de Azevedo Neto,Avenida Geremário Dantas,"In the Rio de Janeiro area, which road directly reaches Largo do Pechincha?",D
+573,Rua São Guilherme de Norwich,Rua Leopoldina Rego,Rua Euzébio de Matos,Rua Clarimundo de Melo,"In the Rio de Janeiro area, which road directly reaches Rua Pereira Landim?",B
+574,Rua Barreiros,Praça Edmundo Rego,Rua Monteiro da Luz,Largo do Tanque,"In the Rio de Janeiro area, which road directly reaches Rua André Pinto?",A
+575,Rua Nacional,Rua dos Rubis,Rua Cachambi,Rua Conde de Bonfim,"In the Rio de Janeiro area, which road directly reaches Rua Ary Kerner?",D
+576,Viaduto João XXIII,Rua Padre Roma,Rua Piauí,Rua Ferreira de Andrade,"In the Rio de Janeiro area, which road directly reaches Rua Luiz Carlos?",C
+577,Rua dos Topázios,Avenida João Ribeiro,Rua Gastão Taveira,Avenida Nova York,"In the Rio de Janeiro area, which road directly reaches Largo dos Pilares?",B
+578,Rua Elias da Silva,Rua Sidônio Pais,Rua Franz Weissman,Rua Daniel Carneiro,"In the Rio de Janeiro area, which road directly reaches Rua Brasilina?",B
+579,Avenida Dom Hélder Câmara,Rua Gerson Ferreira,Rua Alberto Samuel Mercante,Rua Getúlio,"In the Rio de Janeiro area, which road directly reaches Rua Sidônio Pais?",A
+580,Rua Souza Barros,Avenida Pastor Martin Luther King Junior,Praça Montese,Rua Conselheiro Mayrink,"In the Rio de Janeiro area, which road directly reaches Rua Major Suckow?",D
+581,Rua Piauí,Avenida José Silva de Azevedo Neto,Rua Porto Alegre,Estrada do Barro Vermelho,"In the Rio de Janeiro area, which road directly reaches Avenida João Cabral de Melo Neto?",B
+582,Estrada do Engenho Novo,Avenida Dom Hélder Câmara,Rua Miranda e Brito,Rua Diomedes Trota,"In the Rio de Janeiro area, which road directly reaches Rua Vasco da Gama?",B
+583,Rua Joaquim de Queiroz,Rua Adalgisa Aleixo,Estrada Adhemar Bebiano,Rua Vasco da Gama,"In the Rio de Janeiro area, which road directly reaches Rua Amaro Hamati?",C
+584,Avenida Novo Rio,Rua Ariperana,Rua Lopo Saraiva,Rua Barão de São Francisco,"In the Rio de Janeiro area, which road directly reaches Rua Barão de Vassouras?",D
+585,Rua Santiago,Rua das Safiras,Rua Mapendi,Estrada do Engenho da Pedra,"In the Rio de Janeiro area, which road directly reaches Rua Guaianazes?",A
+586,Rua Guaianazes,Rua Guilhermina,Rua Monteiro da Luz,Rua Venceslau,"In the Rio de Janeiro area, which road directly reaches Rua Santiago?",A
+587,Rua São Guilherme de Norwich,Estrada dos Bandeirantes,Rua Edgard Werneck,Estrada Macembu,"In the Rio de Janeiro area, which road directly reaches Rua Otacílio Novais?",B
+588,Rua Atituba,Rua do Cacau,Avenida Ayrton Senna,Rua das Dálias,"In the Rio de Janeiro area, which road directly reaches Avenida Juan Manuel Fangio?",C
+589,Avenida Dom Hélder Câmara,Rua Geísa Firmo Gonçalves,Estrada do Gabinal,Avenida Engenheiro Richard,"In the Rio de Janeiro area, which road directly reaches Rua Engenheiro Nazareth?",A
+590,Avenida Vice-Presidente José Alencar,Rua Piauí,Avenida Dom Hélder Câmara,Rua Cabuçu,"In the Rio de Janeiro area, which road directly reaches Rua Francisca Vidal?",C
+591,Avenida Heróis do Gueto de Varsóvia,Estrada Mapuá,Rua Barão de São Francisco,Rua Aciás,"In the Rio de Janeiro area, which road directly reaches Rua Nossa Senhora de Lourdes?",C
+592,Rua José Domingues,Rua do Trabalho,Estrada da Barra da Tijuca,Avenida Duque de Caxias,"In the Rio de Janeiro area, which road directly reaches Rua Comandante Possolo?",D
+593,Rua Miranda e Brito,Estrada Velha da Tijuca,Rua Adeque,Rua da Abolição,"In the Rio de Janeiro area, which road directly reaches Viaduto Jornalista Armando Nogueira?",D
+594,Rua Rodrigo Melo Franco,Rua Coração de Maria,Viaduto Negrão de Lima,Rua Maricá,"In the Rio de Janeiro area, which road directly reaches Avenida Boulevard Ilha Pura?",A
+595,Rua Athaly Aguiar,Rua Herculano Pena,Rua Garibaldi,Avenida Boulevard Ilha Pura,"In the Rio de Janeiro area, which road directly reaches Rua Rodrigo Melo Franco?",D
+596,Rua Ana Teles,Avenida Boulevard Ilha Pura,Avenida Brasil,Estrada Rodrigues Caldas,"In the Rio de Janeiro area, which road directly reaches TransOlímpica?",C
+597,Rua Lima Barreto,Rua Medina,Rua São Bernardo,Rua Carlos Costa,"In the Rio de Janeiro area, which road directly reaches Rua Silva Rabelo?",B
+598,Avenida Ricardo Eugênio Boechat,Rua Santiago Guerra,Rua Glaziou,Avenida Ayrton Senna,"In the Rio de Janeiro area, which road directly reaches Rua Rogério Jonas Zylbersztajn?",D
+599,Rua Degas,Rua das Dálias,Via Parque da Lagoa da Tijuca,Rua Barão do Bom Retiro,"In the Rio de Janeiro area, which road directly reaches Rua Dona Romana?",D
+600,Largo dos Pilares,Estrada da Soca,Estrada das Furnas,Avenida Dom Hélder Câmara,"In the Rio de Janeiro area, which road directly reaches Rua Chaves Pinheiro?",D
+601,Praça Jauru,Rua Gramané,Rua Cairuçu,Avenida José Silva de Azevedo Neto,"In the Rio de Janeiro area, which road directly reaches Via Parque da Lagoa da Tijuca?",D

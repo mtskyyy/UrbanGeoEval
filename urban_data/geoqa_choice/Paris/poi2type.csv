@@ -1,0 +1,95 @@
+id,question,answer,A,B,C,D,E
+0,"Which type do following POIs belong to? POIs: Hôtel-de-Ville, Place de la Concorde, Musée d'Orsay, Louvre",B,money_transfer,ferry_terminal,motorcycle_rental,bandstand,studio
+1,"Which type do following POIs belong to? POIs: Total Relais du Bel Air, Elan, The Gazoline Stand, Total Mortier",E,construction,wine_bar,drinking_water,mode,fuel
+2,"Which type do following POIs belong to? POIs: Paris LPR Presse DESNOUETTE, Paris Gobelins, Relais Poste, Paris Volontaires / François Bonvin",B,waste_basket,post_office,courthouse,pitch,bicycle_parking
+3,"Which type do following POIs belong to? POIs: Les Fleurs Arctiques, Bibliothèque Forney, Bibliothèque Batignolles, Bibliothèque paroissiale",B,dentist,library,nursery,teaching,shower
+4,"Which type do following POIs belong to? POIs: Les parents zen, Crèche collective municipale Maurice Maignen, Les Nouvelles Crèches, Crèche collective Clisson",B,photo_booth,kindergarten,sports_centre,dancing_school,nightclub
+5,"Which type do following POIs belong to? POIs: Le Chemise, Sushi Hiroshi, Kebab turque, Sant Antonio",D,events_venue,love_hotel,luggage_locker,restaurant,clinic
+6,"Which type do following POIs belong to? POIs: Mairie du 19ème, Rennes Montparnasse, Riquet, Parking Garage de l'Essai",B,hookah_lounge,parking,ice_rink,office,casino
+7,"Which type do following POIs belong to? POIs: Berri Ponthieu, Baudoyer, Maubert Collège des Bernardins, Gare du Nord",A,parking_entrance,bureau_de_change,public_office,car_rental,shisha
+8,"Which type do following POIs belong to? POIs: Église Sainte-Colette des Buttes-Chaumont, Église évangélique baptiste roumaine, Prayer and Revival Center, Salle de Prière",C,compressed_air,motorcycle_parking,place_of_worship,vehicle_inspection,bank
+9,"Which type do following POIs belong to? POIs: Adrienne Bar, Quartier Rouge, La Bonne Place, Au Diable Des Lombards",A,bar,charging_station,parcel_locker,fuel,turkish_bath
+10,"Which type do following POIs belong to? POIs: Boken, SNAFFLE'S, Creperie Saladerie, Café Ruc",D,vehicle_inspection,tanning_salon,hospital,cafe,dog_park
+11,"Which type do following POIs belong to? POIs: Le Point Ephémère, Tiki playa, Les Tanneurs de la Butte, Le Bistrot d'à Côté",C,dance,school,pub,exhibition_centre,ice_rink
+12,"Which type do following POIs belong to? POIs: Brick Lane, Monterosso, Pret A Manger, McDonald's",B,auction_house,fast_food,sports_hall,bus_station,coworking_space
+13,"Which type do following POIs belong to? POIs: La Cigale, Atelier du Verbe, Théâtre aux Mains Nues, L'Européen",A,theatre,parcel_locker,waste_basket,bureau_de_change,studio
+14,"Which type do following POIs belong to? POIs: Pharmacie Derhy, Pharmacie de Bretagne, Pharmacie d'Orsel, Pharmacie du 13ème",A,pharmacy,photo_booth,bar,sports_hall,motorcycle_parking
+15,"Which type do following POIs belong to? POIs: Marché Saxe-Breteuil, Marché Cervantes, Marché Saint-Eustache-Les Halles, Marche Belgrand",B,resort,marketplace,social_facility,bandstand,pub
+16,"Which type do following POIs belong to? POIs: Service de protection et de sécurisation, Police nationale, Police nationale, Préfecture de police",E,drinking_water,driving_school,prep_school,internet_cafe,police
+17,"Which type do following POIs belong to? POIs: Le Lucernaire, UGC Rotonde, UGC Gobelins, Club de l'Étoile",B,public_bath,cinema,shelter,office,community_centre;toy_library
+18,"Which type do following POIs belong to? POIs: Square Simon Bolivar, Mairie du 20ème, Saint-Fiacre - Poissonière, Bréa - Raspail",A,bicycle_rental,retail,fitness_centre,swimming_pool,slipway
+19,"Which type do following POIs belong to? POIs: SG, Crédit Mutuel, Société Générale, Société Générale",B,courthouse,bank,police,dancing_school,radiologist
+20,"Which type do following POIs belong to? POIs: Centre dentaire A’Dent, Belaili, Michèle Koskas, Bismuth",D,public_bookcase,art,sauna,dentist,clock
+21,"Which type do following POIs belong to? POIs: SG, CIC, La Banque Postale, LCL",C,spa,recycling,atm,parking_entrance,turkish_bath
+22,"Which type do following POIs belong to? POIs: Kokyu Ho - Club d'aikido Paris 17, centre sportif Jean Talbot, Les Cercles de la Forme, Centre Sportif Vaugirard-Littré",A,sports_centre,arts_centre,exhibition_centre,marketplace,Physical training Center
+23,"Which type do following POIs belong to? POIs: Centre Laser Courcelles, Espace Kiné Sport, Cabinet Médical ipso Saint-Martin, Centre Médical et Dentaire",C,meditation_centre,car_pooling,doctors,casino,training
+24,"Which type do following POIs belong to? POIs: Fontaine Wallace, Fontaine Wallace, Fontaine Wallace, Fontaine Wallace",A,drinking_water,public,vehicle_inspection,bus_station,spa
+25,"Which type do following POIs belong to? POIs: Institut des Cultures d'Islam, Centre culturel Pouya, Centre culturel suisse, Centre culturel kurde Ahmet-Kaya",A,arts_centre,personal_service,prep_school,money_transfer,fitness_centre
+26,"Which type do following POIs belong to? POIs: Petit Bain, 15 Club, Pamela, L'Arc",E,bicycle_parking,childcare,social_facility,love_hotel,nightclub
+27,"Which type do following POIs belong to? POIs: Gobelins, Étoile-Wagram, Trinité - d'Estienne d'Orves, Saint-Germain des Prés",D,karaoke_box,charging_station,social_centre,taxi,hookah_lounge
+28,"Which type do following POIs belong to? POIs: Collège Privé L'Alma, Halte Garderie, École élémentaire privée Eugène Napoléon, École Jeannine Manuel (Lycée général privé)",B,parking_entrance,school,post_box,place_of_worship,driving_school
+29,"Which type do following POIs belong to? POIs: Cabinet Veterinaire, Domvet nationale, Clinique Vétérinaire, Clinique Vétérinaire",C,nightclub,auction_house,veterinary,prep_school,bench
+30,"Which type do following POIs belong to? POIs: Centre Ressources Théâtre Handicap, Teatro Pazzo, Espace Villa d'Orléans, Annexe Maison des Associations IXe",C,place_of_worship,courthouse,community_centre,vehicle_inspection,shower
+31,"Which type do following POIs belong to? POIs: Fontaine Sainte-Geneviève, Fontaine Wallace, Fontaine du Fellah, Fontaine Wallace -Nathalie Lemel",E,animal_boarding,resort,social_facility,parking_space,fountain
+32,"Which type do following POIs belong to? POIs: Paris/Rome/46, Paris/Pasteur/41, Paris 53 Gambetta Pyrénées, Belib",B,bench,charging_station,public_office,post_box,tanning_salon
+33,"Which type do following POIs belong to? POIs: Change Paris, Multi Change, Transfert d'Argent Change, Maison monétaire de la Bourse",C,community_centre,residential,bureau_de_change,shower,veterinary
+34,"Which type do following POIs belong to? POIs: Brooklyn Fitboxing, CanalCentral, Club Parisien de Self Défense, Studio aopa",A,fitness_centre,animal_boarding,public_office,townhall,exhibition_centre
+35,"Which type do following POIs belong to? POIs: Grom, Amorino, Häagen-Dazs, La glacerie",C,ice_rink,polling_station,ice_cream,car_wash,karaoke_box
+36,"Which type do following POIs belong to? POIs: Secteur X, Le Mask, XKboys, Krash",D,playground,tanning_salon,toy_library,swingerclub,public_office
+37,"Which type do following POIs belong to? POIs: Le gnomon (cadran solaire), Heure légale française, Cadran Solaire de Dali, Petit canon",B,radiologist,clock,kindergarten,swingerclub,school
+38,"Which type do following POIs belong to? POIs: APEP SUP, Institut Dauphine d’Ostéopathie, École de travail O.R.T., Cours Florent",A,college,photo_booth,conference_centre,public,atm
+39,"Which type do following POIs belong to? POIs: Unité Locale du 9e arrondissement, La clepsydre, Accueil de jour Saint-Germain, ESAT Les Cerisiers",D,mode,sports_centre,atm,social_facility,parking_space
+40,"Which type do following POIs belong to? POIs: Rent-A-Car, Paris/Meurthe/1, Europcar, SIXT",B,cooking_school,car_rental,retail,post_office,boat_rental
+41,"Which type do following POIs belong to? POIs: Polylangues, Parolerie - cabinet d’expériences linguistiques, Language Appart', ACWF",D,vehicle_inspection,car_wash,drinking_water,language_school,training
+42,"Which type do following POIs belong to? POIs: Team-Time, The Escape Agency, Majestic, Le Triangle - Escape Game",B,resort,escape_game,radiologist,swimming_pool,college
+43,"Which type do following POIs belong to? POIs: Hubsy République, Studio, Le Laptop Jourdain, Startway Coworking",B,reception_desk,coworking_space,dentist,doctors,charging_station
+44,"Which type do following POIs belong to? POIs: Cabinet de soins infirmiers, Centre Médico Psychologique, Centre de psychologie Ponthieu, Cabinet paramédical Epione",C,public,charging_station,clinic,shower,residential
+45,"Which type do following POIs belong to? POIs: La Ressourcerie Créative, La Ressourcerie des Batignolles, Vélorution, La Textilerie",B,nursery,workshop,theatre,community_centre;toy_library,studio
+46,"Which type do following POIs belong to? POIs: Mouvement Français pour le Planning Familial (confédération), Un Air de Famille, Ingénieurs sans frontières, Alliance Vie",A,social_centre,community_centre,photo_booth,money_transfer,dancing_school
+47,"Which type do following POIs belong to? POIs: Trilib', Poubelle verte, La boîte à vetements, Trilib'",E,office,police,car_sharing,library,recycling
+48,"Which type do following POIs belong to? POIs: Cabinet de Kinésithérapie, Hôpital de Jour pour Enfants, Clinique du Louvre, Hôpital Maison Blanche",C,public,meditation_centre,hospital,stripclub,boat_rental
+49,"Which type do following POIs belong to? POIs: Sorbonne Université - Faculté des Lettres, Institut du Management de l'Information - UTC, LISAA Mode, Brassart",A,university,waste_basket,health_post,community_centre;toy_library,office
+50,"Which type do following POIs belong to? POIs: Miss Marple and Consorts, Cours de guitare classique et jazz, Musik'All, La cerise sur le piano",A,music_school,polling_station,resort,construction,taxi
+51,"Which type do following POIs belong to? POIs: Jardin de Roches et de Pivoines, Square Jules-Durand, Jardin partagé de la Buttte Bergeyre, Le Jardin du Lapin Ouvrier",C,post_office,amusement_arcade,garden,clock,cafe;coworking_space
+52,"Which type do following POIs belong to? POIs: Guichet Transilien, Guichet Transilien, Guichet Transilien, Guichet Transilien",E,parking_space,shooting_stand,parking_entrance,retail,reception_desk
+53,"Which type do following POIs belong to? POIs: Auto-École Gare de l'Est, AUTO ECOLE UNIVERSELLE, Action Permis, Permis Malin",D,photo_booth,wine_bar,cafe;coworking_space,driving_school,prep_school
+54,"Which type do following POIs belong to? POIs: Toilettes des Tuileries, Toilette Tour Eiffel, 1.036, G-082",C,dance,library,toilets,games,pub
+55,"Which type do following POIs belong to? POIs: Institut El Marhomy, Nihon Dojo, Katan'art, Salle de Combat",A,dojo,language_school,theatre,driving_school,public_bath
+56,"Which type do following POIs belong to? POIs: Bopcity, Montmartre Recording, Radio Notre-Dame, Aligre FM - 93.1",E,dentist,ice_rink,polling_station,public_bookcase,studio
+57,"Which type do following POIs belong to? POIs: La Danse Alain et Françoise Chantraine, Mickaël Bilionnière - Cours Hip Hop, Studio DTM - Danse Théâtre et Musique, Makodanse",C,car_wash,bus_station,dance,fitness_station,shelter
+58,"Which type do following POIs belong to? POIs: Bains-Douches Saint-Merri, Bains-douches Meaux, Bains-douches Lacépède, Bains-douches Pyrénées",B,amusement_arcade,shower,post_office,tool_rental,waste_basket
+59,"Which type do following POIs belong to? POIs: Superpublic, Cloud Business Center, Etoile Saint Honoré, Espace Trinité",E,motorcycle_parking,bicycle_parking,pharmacy,bureau_de_change,conference_centre
+60,"Which type do following POIs belong to? POIs: cour du Bon conseil, Square Georges Contenot, Le Génie de la Liberté, Paris Eiffel Tower",E,massage,sports_centre,public,bicycle_repair_station,park
+61,"Which type do following POIs belong to? POIs: Le Danube Palace Café, V.Hive, Argenson et Sept Arpents, Paris-cy",A,internet_cafe,mode,post_box,training,park
+62,"Which type do following POIs belong to? POIs: Paris/République/5, Paris/Lourmel/33, Zipcar, Paris 13 Marché Saint-Germain",D,bicycle_rental,fountain,recycling,car_sharing,flight_school
+63,"Which type do following POIs belong to? POIs: Gymnase Ronsard, Skatepark de la Chapelle, Paris Padel, Skate Park - La Dalle",A,pitch,marina,internet_cafe,courthouse,shelter
+64,"Which type do following POIs belong to? POIs: Crèche Hérold, Crèche Collective, Babilou Les Wagonnets, Tillou Crèche",A,childcare,auction_house,dance,courthouse,love_hotel
+65,"Which type do following POIs belong to? POIs: Autovision, Sécuritest, Autosur, DEKRA",C,park,restaurant,vehicle_inspection,bicycle_rental,office
+66,"Which type do following POIs belong to? POIs: Love, Pickup Station, Felicien, alessandro",A,parcel_locker,fast_food,social_facility,bench,shelter
+67,"Which type do following POIs belong to? POIs: SiyiSama, Centre de formation Laser, Biscuit, Espace Gaele'm",E,spa,teaching,place_of_worship,studio,training
+68,"Which type do following POIs belong to? POIs: École de Danse de la Bibliothèque, Georges et Rosy, École de danse Yoga Art thérapie, Danse Volontaire (Rock4You)",B,residential,dancing_school,hookah_lounge,charging_station,motorcycle_parking
+69,"Which type do following POIs belong to? POIs: Argana Beauty, Centre de bronzage Sun Smile, Ozuvé, Centre de Bronzage SunSmile",A,tanning_salon,dancing_school,amusement_arcade,bandstand,public_bath
+70,"Which type do following POIs belong to? POIs: Eclipse, Les bains du Temple, Star City, Hammam Trèfles du Pré",A,sauna,doctors,swingerclub,music_venue,flight_school
+71,"Which type do following POIs belong to? POIs: Ludomouv, La dame de coeur, Ludothèque Nautilude, Ludomouv",B,bus_station,toy_library,hackerspace,parking_entrance,training
+72,"Which type do following POIs belong to? POIs: Les secrets gourmands de Noémie, Le Foodist, Chefsquare, L'Atelier des Gâteaux",E,bar,bicycle_parking,car_rental,atm,cooking_school
+73,"Which type do following POIs belong to? POIs: Extra Life Café, Mao Golf, MindOut, Virtual Room",B,toy_library,amusement_arcade,community_centre,recycling,spa
+74,"Which type do following POIs belong to? POIs: WoMa, Draft Ateliers, FabClub, FabLab Sorbonne Université",A,hackerspace,vehicle_inspection,shooting_stand,dancing_school,fountain
+75,"Which type do following POIs belong to? POIs: Photomaton, Photomaton, Photomaton, Photomaton",D,school,driving_school,car_rental,photo_booth,office
+76,"Which type do following POIs belong to? POIs: Caisse à billets, Achat, retrait, échange, Prioma Entreprise, Navigo",E,place_of_worship,bench,motorcycle_rental,community_centre;toy_library,vending_machine
+77,"Which type do following POIs belong to? POIs: Cleanik' Car, Total Wash, Soins auto Accacia, Total Wash",B,bicycle_rental,car_wash,bureau_de_change,ice_rink,cafe;coworking_space
+78,"Which type do following POIs belong to? POIs: Le Nuage, Planet Chicha - Le Café, Carré Blanc, Le In",B,fitness_station,hookah_lounge,college,vacant,personal_service
+79,"Which type do following POIs belong to? POIs: Western Union, Dalsan, Asian Exchange, Western Union",C,restaurant,place_of_worship,money_transfer,post_box,cinema
+80,"Which type do following POIs belong to? POIs: Pussy's, Le Cupidon, Vénus Bar, Lady's",A,stripclub,meeting_point,parking_entrance,luggage_locker,college
+81,"Which type do following POIs belong to? POIs: Foyer La Ruche, L, Résidence Universitaire Pierre de Coubertin, Twenty Campus Paris Saint Antoine",C,fast_food,mode,dormitory,sports_centre,nursery
+82,"Which type do following POIs belong to? POIs: Atelier Kim, Atelier baroque, Académie de la Grande Chaumière, Ateliers artistiques",C,sports_centre,recycling,art_school,parking,monastery
+83,"Which type do following POIs belong to? POIs: City Locker, City Locker, Consigne à casques, City Locker",B,radiologist,luggage_locker,give_box,pub,internet_cafe
+84,"Which type do following POIs belong to? POIs: Espace Hamelin, Les Jardins du Pont-Neuf, Le Dernier Étage, Atelier 13 Sévigné",E,nursery,bank,mode,perfumery,events_venue
+85,"Which type do following POIs belong to? POIs: Mairie Annexe du 14e arrondissement, Collège Jean Moulin, Collège Alphonse Daudet, Collège Alphonse Daudet",E,bank,veterinary,cafe,motorcycle_parking,polling_station
+86,"Which type do following POIs belong to? POIs: Pompe en libre service (derrière la grille du parc), Pompe et station de réparation de vélos en libre service, DoctoCyclo, Cyclocube La Bricothèque",A,bicycle_repair_station,hookah_lounge,love_hotel,dentist,community_centre;toy_library
+87,"Which type do following POIs belong to? POIs: Missionnaires de la Charité, Sœurs de la charité dominicaines de la Présentation, Fraternités Monastiques de Jérusalem, Fraternités Monastiques de Jérusalem",B,shisha,monastery,bench,karaoke_box,meeting_point
+88,"Which type do following POIs belong to? POIs: 12, Sambre et Meuse, Abri Alexandrie 02-03, Procession",D,restaurant,vehicle_inspection,marina,bicycle_parking,shooting_stand
+89,"Which type do following POIs belong to? POIs: Le twist, Machine à triceps, Duo adducteurs, Squat Machine",D,dancing_school,car_sharing,vacant,fitness_station,dog_park
+90,"Which type do following POIs belong to? POIs: Wave, Hammam, Les Bains d'Orient, Hammam Club Sauna",D,fountain,stripclub,marina,public_bath,fairground
+91,"Which type do following POIs belong to? POIs: ISCPA, Alveus, Alveus club, Ateliers 62",D,pitch,social_centre,vending_machine,prep_school,hackerspace
+92,"Which type do following POIs belong to? POIs: Anatomie comparée, Institut National de Recherches Archéologiques Préventives, Biochimie, biophysique, L'UTÈS",D,atm,park,cooking_school,research_institute,clock
+93,"Which type do following POIs belong to? POIs: Club Pierre Charron, Club Barrière Paris, Punto Club, Paris Elysées Club",B,games,casino,public_bath,dark-kitchen,nursery

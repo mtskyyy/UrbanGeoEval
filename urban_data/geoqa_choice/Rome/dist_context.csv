@@ -1,0 +1,1453 @@
+id,question,answer,A,B,C,D
+0,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pizzeria Er Panonto. Detailed address: 4-12, Via Enrico Cravero, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia
+2. Bar Alecri. Detailed address: Via Augusto Conti, Monte Mario Alto, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00168, Italia",C,7.4,4.97,10.46,8.62
+1,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Liceo Classico Statale ""Giulio Cesare"". Detailed address: 48, Corso Trieste, Trieste, Municipio Roma II, Roma, Roma Capitale, Lazio, 00198, Italia
+2. Campo da calcio. Detailed address: Viale della Moschea, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00199, Italia",D,4.88,8.0,7.93,2.37
+2,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Il Gianfornaio. Detailed address: Via dei Gracchi, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia
+2. Le Bistro. Detailed address: 26, Via Mario de' Fiori, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",A,1.36,5.42,3.67,9.03
+3,"What is the straight-line distance between the following two locations? (Unit is km)
+1. CasaManco. Detailed address: 66c, Via Aldo Manuzio, Testaccio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia
+2. I Gerani da Peppe. Detailed address: 192, Via della Pisana, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00163, Italia",A,4.73,6.14,2.14,11.04
+4,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Monte dei Paschi di Siena. Detailed address: 20, Viale Tito Labieno, Appio Claudio, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00174, Italia
+2. Scuola dell'infanzia Guglielmo Oberdan. Detailed address: 10, Largo Alessandrina Ravizza, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00152, Italia",D,11.84,17.39,12.24,9.88
+5,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lo Zozzone. Detailed address: 32, Via del Teatro Pace, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Dentista dott. Alessio Petrucci. Detailed address: 21, Via Licinio Murena, Quadraretto, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00175, Italia",D,4.16,5.14,5.51,8.03
+6,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Higèa S.p.A.. Detailed address: Occidental Aurelia, Via di Torre Rossa, Aurelio, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00167, Italia
+2. NH Collection Roma Vittorio Veneto ****. Detailed address: 1, Corso d'Italia, Pinciano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00198, Italia",C,7.06,9.85,5.66,12.9
+7,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Luggage Depot. Detailed address: 127, Via Giovanni Giolitti, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia
+2. Comando Militare Territoriale - Regione Militare Centrale. Detailed address: Via Nino Oxilia, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia",D,10.35,5.7,5.32,3.03
+8,"What is the straight-line distance between the following two locations? (Unit is km)
+1. BrewDog Roma. Detailed address: 80, Via delle Terme di Tito, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
+2. La carbonara. Detailed address: 214, Via Panisperna, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",B,5.61,0.54,3.92,2.08
+9,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sellero & Ventresca. Detailed address: 7, Via Quinto Publicio, Cinecittà, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00175, Italia
+2. Isola della Pizza. Detailed address: 45, Via degli Scipioni, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia",A,11.0,14.75,14.06,9.29
+10,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Piscina Comunale Juventus Nuoto. Detailed address: Piscina Comunale ""Juventus Nuoto"", Via di Bravetta, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00164, Italia
+2. Circo Massimo. Detailed address: Piazzale Ugo La Malfa, Ripa, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",B,11.87,5.35,12.92,2.99
+11,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fatti di farina. Detailed address: 245, Via Galeazzo Alessi, Torpignattara, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia
+2. Bar Filippi. Detailed address: Via Filippi, San Paolo, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00146, Italia",B,3.46,6.12,12.7,11.06
+12,"What is the straight-line distance between the following two locations? (Unit is km)
+1. San Giacomo in Augusta. Detailed address: Via del Corso, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia
+2. Parco Giuseppe Valarioti. Detailed address: Via Diego Fabbri, Ponte Mammolo, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00137, Italia",A,8.46,13.07,10.61,12.79
+13,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Old Trafford. Detailed address: Via Antonio Canal, Municipio Roma I, Roma, Roma Capitale, Lazio, 00165, Italia
+2. lightcoffee&bistrot. Detailed address: 4, Via Alfieri, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",C,8.72,9.92,4.82,0.59
+14,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gelateria A.Cecere. Detailed address: Via del Lavatore, Trevi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia
+2. Agip. Detailed address: Piazza Ippolito Nievo, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00120, Italia",B,3.8,2.69,8.53,6.74
+15,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Casa di cura San Giorgio. Detailed address: Viale delle Medaglie d'Oro, Balduina, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00136, Italia
+2. Piazza Pietro Thouar. Detailed address: 2, Piazza Pietro Thouar, Monte Mario Alto, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00135, Italia",B,5.25,3.67,10.36,7.98
+16,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Giardino dei Giusti dell'Umanità. Detailed address: Viale Alda Costa, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00164, Italia
+2. Museo Centrale del Risorgimento. Detailed address: Scala dell'Arce Capitolina, Campitelli, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",D,0.83,10.81,6.52,4.01
+17,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Associazione Bocciofila la Piramide. Detailed address: Via Marmorata, Testaccio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia
+2. Agenzia delle Entrate. Detailed address: 5, Largo Leopardi, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",B,8.91,2.57,9.89,9.35
+18,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fontanella nel Parco pubblico. Detailed address: Via Giulio Tarra, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00151, Italia
+2. Duo Wei Zhuang. Detailed address: 25, Via Adelmo Niccolai, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00171, Italia",C,10.4,12.52,11.43,15.99
+19,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Parrocchia Santissimo Redentore. Detailed address: 63, Via Monte Ruggero, Monte Sacro, Municipio Roma III, Roma, Roma Capitale, Lazio, 00139, Italia
+2. Liceo Classico Statale ""Giulio Cesare"". Detailed address: 48, Corso Trieste, Trieste, Municipio Roma II, Roma, Roma Capitale, Lazio, 00198, Italia",A,3.69,8.67,5.85,9.01
+20,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Palazzo della Stamperia. Detailed address: 8, Via della Stamperia, Trevi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia
+2. Curia Iulia. Detailed address: Argiletum, Campitelli, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",D,7.8,3.42,8.68,1.02
+21,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gran Caffè Balduina. Detailed address: Via Mario Romagnoli, Balduina, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00136, Italia
+2. Nuova Erakles. Detailed address: 23/a, Via della Bufalotta, Monte Sacro, Municipio Roma III, Roma, Roma Capitale, Lazio, 00139, Italia",B,4.49,8.56,2.97,14.23
+22,"What is the straight-line distance between the following two locations? (Unit is km)
+1. L’arciliuto. Detailed address: 5, Piazza di Montevecchio, Ponte, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Poste. Detailed address: Via Maurizio Quadrio, Monteverde, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00120, Italia",C,4.77,7.63,2.15,9.1
+23,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Villa Le Pietre. Detailed address: Istituto Superiore Via Asmara, 28, Via Asmara, Trieste, Municipio Roma II, Roma, Roma Capitale, Lazio, 00199, Italia
+2. Palazzo Giustiniani. Detailed address: Coop, 7, Via Giustiniani, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",C,10.05,3.25,4.71,9.96
+24,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Parco Giuseppe Valarioti. Detailed address: Via Diego Fabbri, Ponte Mammolo, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00137, Italia
+2. Villa Le Pietre. Detailed address: Istituto Superiore Via Asmara, 28, Via Asmara, Trieste, Municipio Roma II, Roma, Roma Capitale, Lazio, 00199, Italia",B,8.65,4.45,0.66,2.9
+25,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Piccola Roma. Detailed address: Via degli Uffici del Vicario, Colonna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Pizza Express. Detailed address: 26, Via Giovanni Faldella, Val Melaina, Municipio Roma III, Roma, Roma Capitale, Lazio, 00139, Italia",A,6.69,4.57,11.2,7.82
+26,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cassa Depositi e Prestiti. Detailed address: Via Castelfidardo, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00198, Italia
+2. Scuola Superiore di Polizia. Detailed address: Via Guido Reni, Flaminio, Municipio Roma II, Roma, Roma Capitale, Lazio, 00196, Italia",B,8.85,3.62,9.4,10.37
+27,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bar Frattina. Detailed address: 142, Via Frattina, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia
+2. La Ruota. Detailed address: Via Angelo Emo, Municipio Roma I, Roma, Roma Capitale, Lazio, 00165, Italia",D,4.85,8.35,8.6,2.83
+28,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Annapoorna. Detailed address: Gelateria Olive Dolci, 140, Via Emanuele Filiberto, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00183, Italia
+2. Lavaggio Auto. Detailed address: 136, Via Flavio Stilicone, Cinecittà, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00175, Italia",C,2.62,6.61,5.24,7.02
+29,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ponte Cavour. Detailed address: Lungotevere Marzio, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Bar Desirée. Detailed address: 62/c, Via Alberto da Giussano, Pigneto, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia",C,11.02,1.87,5.28,2.64
+30,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pizzeria Romana da Giovanni. Detailed address: 8, Via Carlo Citerni, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia
+2. Cambio. Detailed address: Corso Vittorio Emanuele Secondo, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",D,2.26,6.04,7.09,3.82
+31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Orlando. Detailed address: 99, Piazza San Bernardo, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia
+2. Fatamorgana Centro Storico. Detailed address: 37, Via dei Chiavari, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",D,7.9,3.79,7.73,1.97
+32,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Palazzo Excelsior. Detailed address: ArtPhotography by Olga Angelucci, 54, Via Sicilia, Ludovisi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia
+2. Chiesa di Santa Giovanna Antida Thouret. Detailed address: Via Santa Giovanna Antida Thouret, Giuliano-Dalmata, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00143, Italia",D,13.7,4.34,11.44,9.41
+33,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Palazzo Dotti. Detailed address: Palazzo Perucchi, 121, Via Sistina, Colonna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia
+2. Cantiere della Centralità Metropolitana Pietralata. Detailed address: Municipio Roma IV, Roma, Roma Capitale, Lazio, 00157, Italia",C,1.69,2.87,4.36,12.14
+34,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Monumento Funerario Hilarus Fuscus. Detailed address: Via Appia Antica, Ardeatino, Roma, Roma Capitale, Lazio, 00178, Italia
+2. European Hospital. Detailed address: 700, Via Portuense, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00149, Italia",D,11.19,4.89,6.74,8.5
+35,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Fraschetta di Mastro Giorgio. Detailed address: 36, Via Alessandro Volta, Testaccio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia
+2. Myster Pizza. Detailed address: 26, Via Albalonga, San Giovanni, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00183, Italia",C,0.98,6.12,2.98,1.29
+36,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Antica DOMUS. Detailed address: 6, Via di San Giovanni in Laterano, Celio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
+2. Ristorante Giovanne. Detailed address: Via del Banco di Santo Spirito, Ponte, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia",B,4.0,2.61,9.62,10.5
+37,"What is the straight-line distance between the following two locations? (Unit is km)
+1. UniCredit Bank. Detailed address: Via Nomentana Nuova, Monte Sacro, Municipio Roma III, Roma, Roma Capitale, Lazio, 00141, Italia
+2. Nice & Food. Detailed address: 92, Via delle Montagne Rocciose, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia",A,13.08,18.16,10.44,16.23
+38,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rosticceria. Detailed address: Via dell'Aeroporto, Cinecittà, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00175, Italia
+2. Bar del Pino. Detailed address: Via Edoardo Jenner, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00152, Italia",B,1.86,9.19,7.47,3.33
+39,"What is the straight-line distance between the following two locations? (Unit is km)
+1. L'angolo del caffè. Detailed address: Via Alessandro Volta, Testaccio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia
+2. Fiesta. Detailed address: 24, Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia",B,2.07,4.13,2.12,7.53
+40,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tempio del Divo Giulio. Detailed address: Forum Romanum, Clivo di Venere Felice, Campitelli, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
+2. Palazzo Mancini. Detailed address: Domus Libera, 7, Vicolo del Piombo, Trevi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",A,0.7,2.8,3.79,2.28
+41,"What is the straight-line distance between the following two locations? (Unit is km)
+1. SAID dal 1923. Detailed address: 135, Via Tiburtina, San Lorenzo, Municipio Roma II, Roma, Roma Capitale, Lazio, 00185, Italia
+2. To Live. Detailed address: Via Aristide Leonori, Tor Marancia, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia",A,5.96,2.15,12.62,12.29
+42,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Conte Staccio. Detailed address: 65, Via di Monte Testaccio, Testaccio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia
+2. MC Dental. Detailed address: 30, Via Enrico Cosenz, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00159, Italia",D,0.92,0.72,12.94,5.49
+43,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cafè de Parc. Detailed address: Ciclabile della Piramide Cestia, San Saba, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia
+2. Centro sportivo Benedetto XV. Detailed address: Via dei Sardi, San Lorenzo, Municipio Roma II, Roma, Roma Capitale, Lazio, 00185, Italia",D,2.01,6.97,9.56,3.68
+44,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Enel - stazione di ricarica. Detailed address: Piazza di Cinecittà, Cinecittà, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00175, Italia
+2. Le Scalette. Detailed address: Via Val Chisone, Monte Sacro, Municipio Roma III, Roma, Roma Capitale, Lazio, 00141, Italia",A,9.38,13.42,13.2,7.66
+45,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Roseto. Detailed address: Via Rosa Raimondi Garibaldi, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00147, Italia
+2. Tempio Bar. Detailed address: 16, Piazza della Rotonda, Colonna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",D,8.93,8.31,9.76,4.75
+46,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dakota. Detailed address: 111, Via del Seminario, Colonna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Vignola Bistrot. Detailed address: 49, Viale del Vignola, Flaminio, Municipio Roma II, Roma, Roma Capitale, Lazio, 00196, Italia",C,0.64,4.56,2.93,9.98
+47,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Castro Laurenziano. Detailed address: Via del Castro Laurenziano, San Lorenzo, Municipio Roma II, Roma, Roma Capitale, Lazio, 00161, Italia
+2. Desideri & caffè. Detailed address: 21;23, Via Gaspare Gozzi, San Paolo, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia",B,10.02,6.39,3.45,3.12
+48,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Convento di San'Onofrio. Detailed address: Piazza di Sant'Onofrio, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia
+2. Palmiro Togliatti. Detailed address: Viale Palmiro Togliatti, Pietralata, Roma, Roma Capitale, Lazio, 00158, Italia",B,12.87,9.15,14.94,13.35
+49,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Santa Maria in Montesanto. Detailed address: Via del Corso, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia
+2. Ospedale Sant'Eugenio. Detailed address: 10, Piazzale dell'Umanesimo, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia",B,5.36,9.86,16.99,11.38
+50,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Centro di raccolta AMA Villa Gordiani. Detailed address: Via Teano, Municipio Roma V, Roma, Roma Capitale, Lazio, 00177, Italia
+2. Casale. Detailed address: Riserva Naturale Valle dei Casali, Largo Alberto Pepere, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00164, Italia",A,10.12,2.58,6.56,3.06
+51,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mondo Arancina. Detailed address: 38 / 40, Via Marcantonio Colonna, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia
+2. Centro Sportivo Santa Maria. Detailed address: 28, Via Matteo Boiardo, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",C,11.38,9.38,3.92,8.42
+52,"What is the straight-line distance between the following two locations? (Unit is km)
+1. San Clemente. Detailed address: 124, Via di San Giovanni in Laterano, Celio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
+2. Pizzeria Amalfi 1. Detailed address: 12, Via dei Gracchi, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia",B,11.81,3.86,6.35,9.04
+53,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Zona industriale Idrovore della Magliana. Detailed address: Via delle Idrovore della Magliana, Portuense, Municipio Roma XI, Roma, Roma Capitale, Lazio, 00148, Italia
+2. Padiglione 9B. Detailed address: Testaccio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",A,5.98,12.95,13.63,13.62
+54,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hedera. Detailed address: 50, Via degli Ombrellari, Borgo, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia
+2. Pizzeria Romana da Giovanni. Detailed address: 8, Via Carlo Citerni, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia",A,4.82,10.04,9.76,1.13
+55,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sicily By Car. Detailed address: Via Teulada, Municipio Roma I, Roma, Roma Capitale, Lazio, 00195, Italia
+2. Grano & Farina Cooking School. Detailed address: 17, Vicolo della Penitenza, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00120, Italia",D,1.25,8.95,1.12,2.96
+56,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Caffè Colli Albani. Detailed address: 42, Via dei Colli Albani, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00179, Italia
+2. Dakota. Detailed address: 111, Via del Seminario, Colonna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",C,12.69,11.86,5.55,8.9
+57,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Santa Maria in Monterone. Detailed address: Via Monterone, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Palazzo Albani. Detailed address: 125, Via Venti Settembre, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",D,2.9,8.47,7.69,1.41
+58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ristorante Giovanne. Detailed address: Via del Banco di Santo Spirito, Ponte, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia
+2. I monticiani. Detailed address: 84, Via Panisperna, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",B,7.63,2.18,6.66,9.21
+59,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Centro di Preparazione Olimpica Giulio Onesti. Detailed address: 1, Largo Giulio Onesti, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+2. Cabina ACEI Roma Casilina. Detailed address: Roma Casilina, Via del Mandrione, Torpignattara, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00181, Italia",A,7.62,2.07,6.57,13.67
+60,"What is the straight-line distance between the following two locations? (Unit is km)
+1. la Prosciutteria Navona. Detailed address: 21, Via del Governo Vecchio, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Il Duca In Trastevere. Detailed address: Vicolo del Cinque, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00120, Italia",C,8.86,5.61,0.92,2.69
+61,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bar Filippi. Detailed address: Via Filippi, San Paolo, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00146, Italia
+2. Bigarba. Detailed address: Via Alessandro Severo, San Paolo, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia",A,0.98,2.48,3.34,2.49
+62,"What is the straight-line distance between the following two locations? (Unit is km)
+1. XIII Gruppo Aurelio Polizia Locale di Roma Capitale. Detailed address: 470, Via Aurelia, Aurelio, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00165, Italia
+2. Parco degli Scipioni. Detailed address: Celio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00183, Italia",D,13.93,13.64,10.62,6.96
+63,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sally Brown. Detailed address: 3a, Via degli Etruschi, San Lorenzo, Municipio Roma II, Roma, Roma Capitale, Lazio, 00185, Italia
+2. Molo 29. Detailed address: Via Mario Musco, Tor Marancia, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia",D,4.69,11.8,8.97,5.92
+64,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Palazzo Cenci Bolognetti. Detailed address: Iowa State University College of Design, 23, Piazza delle Cinque Scole, Regola, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Piscina Comunale Juventus Nuoto. Detailed address: Piscina Comunale ""Juventus Nuoto"", Via di Bravetta, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00164, Italia",C,2.75,8.08,4.86,9.23
+65,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ami Poké. Detailed address: 35, Piazza dei Re di Roma, San Giovanni, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00183, Italia
+2. UniCredit Bank. Detailed address: Via Nomentana Nuova, Monte Sacro, Municipio Roma III, Roma, Roma Capitale, Lazio, 00141, Italia",B,11.66,6.09,12.21,4.93
+66,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tomba di Priscilla. Detailed address: Sepolcro di Priscilla, 64, Via Appia Antica, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00014, Italia
+2. Palazzo Ruspoli. Detailed address: Largo Carlo Goldoni, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",C,9.78,1.03,4.65,12.46
+67,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Il Gianforno. Detailed address: Viale Libia, Trieste, Municipio Roma II, Roma, Roma Capitale, Lazio, 00199, Italia
+2. Gelateria Mastro Cono. Detailed address: 10, Via del Corso, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",B,5.93,4.29,8.53,9.09
+68,"What is the straight-line distance between the following two locations? (Unit is km)
+1. bar de santis remo. Detailed address: Vicolo del Governo Vecchio, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Crazy Pizza. Detailed address: 167, Via Vittorio Veneto, Ludovisi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",D,8.02,5.43,6.84,1.95
+69,"What is the straight-line distance between the following two locations? (Unit is km)
+1. San Giovanni Bosco. Detailed address: 171, Via Appia Nuova, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00183, Italia
+2. Bar Thouar. Detailed address: 37, Piazza Pietro Thouar, Monte Mario Alto, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00135, Italia",C,16.67,14.82,10.44,17.72
+70,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Duo Wei Zhuang. Detailed address: 25, Via Adelmo Niccolai, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00171, Italia
+2. Bar Brinda. Detailed address: Via Casilina, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia",A,4.18,0.5,8.65,0.92
+71,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bar Maggiore. Detailed address: 18, Piazza di Porta Maggiore, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia
+2. Luggage Depot. Detailed address: 127, Via Giovanni Giolitti, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",C,5.44,7.11,1.28,3.11
+72,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cinema Troisi. Detailed address: 1, Via Girolamo Induno, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia
+2. Caffè Braccio. Detailed address: Piazza Albania, San Saba, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",D,5.21,9.08,9.02,1.17
+73,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Burger King. Detailed address: 474, Via Tiburtina, Casal Bruciato, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00159, Italia
+2. Ami Poké. Detailed address: 35, Piazza dei Re di Roma, San Giovanni, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00183, Italia",B,1.15,3.69,6.27,2.2
+74,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Parco degli Scipioni. Detailed address: Celio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00183, Italia
+2. Cafè de Parc. Detailed address: Ciclabile della Piramide Cestia, San Saba, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",D,7.56,2.9,4.64,1.65
+75,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fons Eleonorae. Detailed address: Via Trionfale, Municipio Roma I, Roma, Roma Capitale, Lazio, 00136, Italia
+2. Mr. 100 Tiramisù. Detailed address: 11/12, Via dei Sediari, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",D,1.69,1.14,6.6,3.44
+76,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La boutique del gelato. Detailed address: 37, Via Publio Valerio, Cinecittà, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00175, Italia
+2. Moby Dick. Detailed address: 3, Via Edgardo Ferrati, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia",B,11.4,6.75,0.97,13.31
+77,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Conad. Detailed address: Via Sebastiano Ziani, Municipio Roma I, Roma, Roma Capitale, Lazio, 00136, Italia
+2. Palazzo Cerri. Detailed address: La Locanda del Pellegrino, 107, Via del Pellegrino, Regola, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",C,7.35,9.98,2.28,9.92
+78,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pizzeria Amalfi 1. Detailed address: 12, Via dei Gracchi, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia
+2. Erg. Detailed address: Via Attilio Friggeri, Balduina, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00100, Italia",B,9.19,2.08,9.33,4.39
+79,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dar Bruttone. Detailed address: 118, Via Taranto, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00182, Italia
+2. Caffè Tirreno. Detailed address: Viale Tirreno, Monte Sacro, Municipio Roma III, Roma, Roma Capitale, Lazio, 00141, Italia",C,1.74,10.05,6.22,1.3
+80,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Agenzia - ROMA TUSCOLANA D. Detailed address: 733, Via Tuscolana, Cinecittà, Tuscolano, Roma, Roma Capitale, Lazio, 00174, Italia
+2. Borgo. Detailed address: 139, Borgo Pio, Borgo, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia",C,5.68,16.33,9.21,12.01
+81,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Biblioteca di Chimica Gabriello Illuminati. Detailed address: Via Cesare De Lollis, San Lorenzo, Municipio Roma II, Roma, Roma Capitale, Lazio, 00185, Italia
+2. Intesa Sanpaolo. Detailed address: 13, Via Parigi, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",A,1.71,7.06,7.65,3.59
+82,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Il caffettino. Detailed address: Il Caffetino, 80, Via Veturia, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00181, Italia
+2. Sellero & Ventresca. Detailed address: 7, Via Quinto Publicio, Cinecittà, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00175, Italia",A,4.51,0.61,9.01,2.41
+83,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mercato Circonvallazione Ostiense. Detailed address: Via di Santa Galla, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia
+2. Parco Mattia Preti. Detailed address: Via Emilio Bianchi, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00142, Italia",B,1.57,4.34,10.99,2.18
+84,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Osteria delle coppelle. Detailed address: Piazza delle Coppelle, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Pizzeria Er Panonto. Detailed address: 4-12, Via Enrico Cravero, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia",D,12.29,8.98,11.08,4.35
+85,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Crazy Pizza. Detailed address: 167, Via Vittorio Veneto, Ludovisi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia
+2. Ambulatorio Veterinario Ricciotti. Detailed address: Via Nicola Ricciotti, Della Vittoria, Roma, Roma Capitale, Lazio, 00195, Italia",B,5.58,2.05,3.69,0.62
+86,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gaudi. Detailed address: Via Ruggero Giovannelli, Pinciano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00198, Italia
+2. Istanbul 34. Detailed address: 7, Circonvallazione Gianicolense, Monteverde, Municipio Roma XII, Roma, Roma Capitale, Lazio, 84010, Italia",B,1.65,5.4,2.95,10.29
+87,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Parcheggio motocicli e ciclomotori. Detailed address: Via Acaia, San Giovanni, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00183, Italia
+2. Farmacia Don Bosco. Detailed address: Via Ripacandida, Quarto Miglio, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00178, Italia",A,4.97,10.87,2.01,2.65
+88,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Antica Bohéme. Detailed address: 4, Via Napoli, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
+2. Fineco. Detailed address: 134, Viale Tirreno, Monte Sacro, Municipio Roma III, Roma, Roma Capitale, Lazio, 00141, Italia",B,11.41,5.25,2.68,1.96
+89,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sole. Detailed address: Via dell'Acquedotto del Peschiera, Torrevecchia, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00135, Italia
+2. Il Gianforno. Detailed address: Viale Libia, Trieste, Municipio Roma II, Roma, Roma Capitale, Lazio, 00199, Italia",B,6.31,7.93,2.64,1.78
+90,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tavola Calda da Simone e Mirella. Detailed address: 257, Via di Ripetta, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia
+2. Banca popolare di Milano. Detailed address: 76, Via Ugo Ojetti, Monte Sacro Alto, Municipio Roma III, Roma, Roma Capitale, Lazio, 00137, Italia",B,1.9,7.26,5.06,2.2
+91,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Shelter Music Club. Detailed address: 182, Via Luigi Capuana, Monte Sacro Alto, Municipio Roma III, Roma, Roma Capitale, Lazio, 00137, Italia
+2. Ufficio postale Roma 175. Detailed address: 34, Via Ariano Irpino, Pigneto, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia",B,4.35,6.42,13.86,1.66
+92,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Largo Salvatore Gotta. Detailed address: Via Giuseppe Berto, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00142, Italia
+2. Tecno Garden. Detailed address: Esso, Via di Acqua Bullicante, Municipio Roma V, Roma, Roma Capitale, Lazio, 00177, Italia",C,4.14,4.2,6.65,3.14
+93,"What is the straight-line distance between the following two locations? (Unit is km)
+1. IH Hotel. Detailed address: Via Giorgio Perlasca, Collatino, Roma, Roma Capitale, Lazio, 00171, Italia
+2. Palazzina Calzone. Detailed address: Trinity College, Via Alessandro Specchi, Pigna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",A,7.4,4.05,3.06,8.53
+94,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dao Bistrot. Detailed address: 10, Via Ogliastra, Nomentano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00161, Italia
+2. SAID dal 1923. Detailed address: 135, Via Tiburtina, San Lorenzo, Municipio Roma II, Roma, Roma Capitale, Lazio, 00185, Italia",A,1.54,7.59,4.79,6.1
+95,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chiesa di Sant'Anselmo all'Aventino. Detailed address: Piazza dei Cavalieri di Malta, Ripa, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia
+2. Scuola paritaria Cavanis. Detailed address: 600, Via Casilina, Municipio Roma V, Roma, Roma Capitale, Lazio, 00177, Italia",A,5.91,13.61,11.61,9.33
+96,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Parco Savello. Detailed address: Via Sant'Alberto Magno, Ripa, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia
+2. Palazzo Giangiacomo. Detailed address: Via in Caterina, Regola, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",B,8.6,1.45,5.95,8.38
+97,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Campo da calcio. Detailed address: Viale della Moschea, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00199, Italia
+2. Convento di San'Onofrio. Detailed address: Piazza di Sant'Onofrio, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia",B,1.33,5.34,7.09,12.53
+98,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Da Romolo. Detailed address: 12, Vicolo del Campanile, Borgo, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia
+2. Rosticceria. Detailed address: Via dell'Aeroporto, Cinecittà, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00175, Italia",D,7.69,15.83,13.86,9.01
+99,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bon Bon. Detailed address: Via Principe Eugenio, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia
+2. Giuseppe Tornatora. Detailed address: 197, Via dei Prati Fiscali, Monte Sacro, Municipio Roma III, Roma, Roma Capitale, Lazio, 00141, Italia",C,8.21,7.2,5.91,13.42
+100,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Buenos Aires. Detailed address: Piazza Buenos Aires, Trieste, Municipio Roma II, Roma, Roma Capitale, Lazio, 00198, Italia
+2. Bisteak. Detailed address: 141, Via di Pietralata, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00157, Italia",C,7.86,5.43,3.09,1.89
+101,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Palazzo Cartoni a Monti. Detailed address: Via Milano, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
+2. Chiesa di Sant'Anselmo all'Aventino. Detailed address: Piazza dei Cavalieri di Malta, Ripa, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",C,9.83,0.76,2.01,9.39
+102,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ditta Trinchetti. Detailed address: Via della Lungaretta, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia
+2. Meeting Place. Detailed address: 1, Piazza Bologna, Nomentano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00162, Italia",C,12.65,12.89,4.9,12.26
+103,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Re Bacco. Detailed address: 12, Via Pomezia, San Giovanni, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00183, Italia
+2. Bar gastronomia. Detailed address: 10/a, Via Napoleone Terzo, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",D,4.81,5.55,4.52,2.12
+104,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rovine Chiesa di San Nicola a Capo di Bove. Detailed address: Via Appia Antica, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00179, Italia
+2. Centro di raccolta AMA Villa Gordiani. Detailed address: Via Teano, Municipio Roma V, Roma, Roma Capitale, Lazio, 00177, Italia",A,4.75,9.69,8.11,8.92
+105,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fiori di Zucca. Detailed address: 147, Via dei Sabelli, San Lorenzo, Municipio Roma II, Roma, Roma Capitale, Lazio, 00161, Italia
+2. Alcazar. Detailed address: Via Cardinale Merry del Val, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",C,7.38,11.69,3.96,2.7
+106,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bar gastronomia. Detailed address: 10/a, Via Napoleone Terzo, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia
+2. La boutique del gelato. Detailed address: 37, Via Publio Valerio, Cinecittà, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00175, Italia",C,13.14,1.21,7.04,2.47
+107,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Parcheggio di scambio S. Maria del Soccorso. Detailed address: 811, Via Tiburtina, Casal Bruciato, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00158, Italia
+2. Padiglione 2. Detailed address: Comprensorio Santa Maria della Pietà, Via Andrea Verga, Torrevecchia, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00168, Italia",C,10.08,18.73,11.98,13.25
+108,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Taverna del Grano. Detailed address: 31, Piazza dei Tribuni, Quadraretto, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00175, Italia
+2. San Luigi di Monfort. Detailed address: Percorso Ciclopedonale Teresa Noce, Torrevecchia, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00135, Italia",A,13.18,17.14,19.6,18.81
+109,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pizzeria La Piazzetta. Detailed address: Piazza Marco da Tomba, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia
+2. Brodway. Detailed address: Via dei Narcisi, Prenestino-Centocelle, Municipio Roma V, Roma, Roma Capitale, Lazio, 00172, Italia",D,0.6,11.85,5.1,6.33
+110,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kuriya. Detailed address: 48;49, Via Arenula, Regola, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. A Maidda. Detailed address: 7, Via di Ponziano, Monteverde, Municipio Roma XII, Roma, Roma Capitale, Lazio, 84010, Italia",C,8.93,9.8,1.95,6.62
+111,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Corner MPCR Noleggio. Detailed address: 23, Via Filippo Parlatore, Prenestino-Centocelle, Municipio Roma V, Roma, Roma Capitale, Lazio, 00171, Italia
+2. Grattacheccaro ""Sora Maria"". Detailed address: Via Trionfale, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia",D,6.24,14.99,8.24,9.56
+112,"What is the straight-line distance between the following two locations? (Unit is km)
+1. AvANa. Detailed address: Piazza D'Armi sinistra, Prenestino-Centocelle, Municipio Roma V, Roma, Roma Capitale, Lazio, 00171, Italia
+2. La casa del supplì. Detailed address: 48, Viale Furio Camillo, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00181, Italia",B,7.41,4.12,1.33,5.39
+113,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ambulatorio Veterinario Ricciotti. Detailed address: Via Nicola Ricciotti, Della Vittoria, Roma, Roma Capitale, Lazio, 00195, Italia
+2. Bar Prisco. Detailed address: 84, Via Tarquinio Prisco, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00181, Italia",C,14.0,4.58,6.24,4.24
+114,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ragioneria Territoriale dello Stato di Roma. Detailed address: 22, Via Francesco Antonio Pigafetta, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia
+2. Arcate severiane. Detailed address: Palatino, Criptoportico Neroniano, Campitelli, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",D,5.29,9.54,0.75,1.85
+115,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sound Art. Detailed address: 47, Via Ariano Irpino, Pigneto, Municipio Roma V, Roma, Roma Capitale, Lazio, 00177, Italia
+2. Farmacia Magnagrecia. Detailed address: Via Corfinio, San Giovanni, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00183, Italia",D,7.53,1.83,6.69,3.0
+116,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Credem. Detailed address: Via Alatri, Prenestino-Labicano, Roma, Roma Capitale, Lazio, 00171, Italia
+2. Taxi Eden 060609. Detailed address: Via Ludovisi, Ludovisi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",C,9.88,0.85,6.22,1.17
+117,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Villa Fulvia. Detailed address: Via Acerenza, Appio Claudio, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00178, Italia
+2. Enel - stazione di ricarica. Detailed address: Piazza di Cinecittà, Cinecittà, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00175, Italia",A,1.88,4.23,8.95,4.32
+118,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Conca d'Oro. Detailed address: Viale Somalia, Trieste, Municipio Roma II, Roma, Roma Capitale, Lazio, 00141, Italia
+2. Pescheria del mare. Detailed address: 45/A, Via delle Robinie, Prenestino-Centocelle, Municipio Roma V, Roma, Roma Capitale, Lazio, 00172, Italia",D,13.89,14.2,11.1,6.79
+119,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Alt stazione del gusto. Detailed address: 270, Viale America, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+2. Gelateria Wonderful Ice Cream. Detailed address: 19/a, Via Nazionale, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",C,6.43,14.92,8.27,11.81
+120,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gelateria Wonderful Ice Cream. Detailed address: 19/a, Via Nazionale, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
+2. I Fratelli Della Pizza Kebab. Detailed address: 25, Via Arenula, Regola, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",C,7.4,8.31,1.73,5.7
+121,"What is the straight-line distance between the following two locations? (Unit is km)
+1. San Luigi di Monfort. Detailed address: Percorso Ciclopedonale Teresa Noce, Torrevecchia, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00135, Italia
+2. Palazzo Bennicelli. Detailed address: Ambasciata del Belize presso la Santa Sede, 7, Piazza dell'Orologio, Ponte, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",A,5.66,9.81,3.32,13.54
+122,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Grattacheccaro ""Sora Maria"". Detailed address: Via Trionfale, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia
+2. Parcheggio di scambio S. Maria del Soccorso. Detailed address: 811, Via Tiburtina, Casal Bruciato, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00158, Italia",D,11.67,11.6,14.92,8.76
+123,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Myster Pizza. Detailed address: 26, Via Albalonga, San Giovanni, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00183, Italia
+2. Antica Bohéme. Detailed address: 4, Via Napoli, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",A,2.57,7.17,5.25,0.88
+124,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Punto Bar. Detailed address: Viale Pinturicchio, Flaminio, Municipio Roma II, Roma, Roma Capitale, Lazio, 00196, Italia
+2. British Corner. Detailed address: 112, Via del Pigneto, Pigneto, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia",A,7.27,11.83,10.9,9.61
+125,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Villino Cernysceva. Detailed address: Chiesa di San Nicola, Via Palestro, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia
+2. Parcheggio di scambio Ponte Mammolo. Detailed address: 169, Via delle Messi d'Oro, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00158, Italia",D,1.0,12.01,7.77,5.14
+126,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Propaganda. Detailed address: Via Marco Aurelio, Celio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
+2. Mondo Arancina. Detailed address: 38 / 40, Via Marcantonio Colonna, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia",C,4.44,9.97,3.27,8.89
+127,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Babbo's. Detailed address: 13, Via Volturno, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia
+2. Meaters - Brace Bar. Detailed address: 2, Via Riano, Tor di Quinto, Municipio Roma XV, Roma, Roma Capitale, Lazio, 00194, Italia",B,6.0,4.52,8.06,5.82
+128,"What is the straight-line distance between the following two locations? (Unit is km)
+1. zer0tt8n9ve. Detailed address: Piazza di Sant'Eustachio, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Scuola dell'infanzia ""Casa dei bimbi"". Detailed address: Via Rocco da Cesinale, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia",A,3.96,11.82,2.55,5.8
+129,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bar Desirée. Detailed address: 62/c, Via Alberto da Giussano, Pigneto, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia
+2. Al Fagianetto. Detailed address: 21, Via Filippo Turati, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",C,8.39,9.86,2.94,1.36
+130,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ex-Mattatoio. Detailed address: Accademia di Belle Arti di Roma - Sede di Campo Boario, Largo Dino Frisullo, Testaccio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia
+2. Lotto 30. Detailed address: Via Rodolfo Acquaviva, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia",A,1.82,9.15,4.45,4.61
+131,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Brucomela. Detailed address: LunEur Park, 100, Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+2. Centro Velehrad. Detailed address: Via delle Fornaci, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00120, Italia",A,6.52,1.7,4.97,9.11
+132,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La congrega. Detailed address: 40, Via Firenze, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
+2. Dao Bistrot. Detailed address: 10, Via Ogliastra, Nomentano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00161, Italia",A,2.36,9.05,0.71,6.37
+133,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Borgo. Detailed address: 139, Borgo Pio, Borgo, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia
+2. Functional Jungle Gym. Detailed address: Via Gaspare Gozzi, San Paolo, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia",C,13.77,7.16,5.78,9.94
+134,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lubrano. Detailed address: Via Cesare Algranati, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00157, Italia
+2. Cuccurucù. Detailed address: Via Capoprati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00196, Italia",B,2.62,7.26,12.26,10.96
+135,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pasta-Eat fast food. Detailed address: 22, Corso Vittorio Emanuele Secondo, Pigna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Cinema Troisi. Detailed address: 1, Via Girolamo Induno, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",D,2.44,5.06,6.74,1.33
+136,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Isola della Pizza. Detailed address: 45, Via degli Scipioni, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia
+2. Euphoria. Detailed address: Via di Monte Testaccio, Testaccio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",D,0.81,5.84,1.17,3.96
+137,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Casa di Cura. Detailed address: Via Aurelia, Aurelio, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00165, Italia
+2. Parafarmacia Fei. Detailed address: 12/a, Via Carlo Alberto, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",B,9.86,6.77,3.05,1.8
+138,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Iside. Detailed address: Via Labicana, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia
+2. Il Pellicano. Detailed address: 10, Piazza Eugenio Biffi, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia",B,7.35,2.69,6.86,5.5
+139,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Cornucopia in Trastevere. Detailed address: 18, Piazza in Piscinula, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia
+2. Villa Fulvia. Detailed address: Via Acerenza, Appio Claudio, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00178, Italia",B,6.39,8.13,14.05,12.27
+140,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sepolcro del Giovinetto Quinto Sulpicio Massimo. Detailed address: Via Sulpicio Massimo, Sallustiano, Municipio Roma I, Roma, Roma Capitale, Lazio, 00198, Italia
+2. Convento di Santa Dorotea. Detailed address: Piazza di Santa Balbina, San Saba, Municipio Roma I, Roma, Roma Capitale, Lazio, 00154, Italia",D,1.32,10.07,5.73,3.38
+141,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kitchen Bas. Detailed address: Via Gaeta, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia
+2. Centro Culturale Islamico Masjeed-E-Rome. Detailed address: 25, Via Gabrio Serbelloni, Torpignattara, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia",D,1.67,12.0,6.53,4.34
+142,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Elegance Café. Detailed address: 5, Via Francesco Carletti, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia
+2. Kuriya. Detailed address: 48;49, Via Arenula, Regola, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",D,6.42,3.15,3.9,2.12
+143,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Acchiappafantasmi. Detailed address: Via dei Cappellari, Regola, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Biti Bar. Detailed address: 25, Piazzale Jonio, Monte Sacro, Municipio Roma III, Roma, Roma Capitale, Lazio, 00139, Italia",C,12.95,3.66,7.13,6.02
+144,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rambla vertical. Detailed address: 17b, Via Cesarea, San Paolo, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00146, Italia
+2. AMA Vasca Navale. Detailed address: Vicolo Salvi, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00146, Italia",C,2.47,2.81,0.76,6.48
+145,"What is the straight-line distance between the following two locations? (Unit is km)
+1. KFC. Detailed address: 29, Via Gioberti, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia
+2. Motolandia 99. Detailed address: Infoware, 7, Via Mondragone, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00179, Italia",B,1.57,4.42,7.01,3.25
+146,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Veghometro. Detailed address: Gazometro 38, 38, Via del Gazometro, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia
+2. Lo Zozzone. Detailed address: 32, Via del Teatro Pace, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",A,3.08,9.47,6.22,9.93
+147,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Istituto privato San Leone Magno. Detailed address: Via di Santa Costanza, Trieste, Municipio Roma II, Roma, Roma Capitale, Lazio, 00199, Italia
+2. Il Goccetto. Detailed address: 14, Via dei Banchi Vecchi, Ponte, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",D,11.89,7.46,3.79,4.86
+148,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Istituto Professionale. Detailed address: 17, Via di Casal Bruciato, Casal Bruciato, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00159, Italia
+2. Chiesa di San Biagio della Pagnotta. Detailed address: Via Giulia, Ponte, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",B,4.31,6.79,14.67,9.55
+149,"What is the straight-line distance between the following two locations? (Unit is km)
+1. I Gerani da Peppe. Detailed address: 192, Via della Pisana, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00163, Italia
+2. Fons Eleonorae. Detailed address: Via Trionfale, Municipio Roma I, Roma, Roma Capitale, Lazio, 00136, Italia",C,11.99,2.58,5.32,1.3
+150,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Palazzo Giustiniani. Detailed address: Coop, 7, Via Giustiniani, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Rambla vertical. Detailed address: 17b, Via Cesarea, San Paolo, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00146, Italia",A,5.09,2.64,6.68,8.75
+151,"What is the straight-line distance between the following two locations? (Unit is km)
+1. USI – Eur Marconi. Detailed address: 139, Viale Guglielmo Marconi, Municipio Roma XI, Roma, Roma Capitale, Lazio, 00146, Italia
+2. Dar Bruttone. Detailed address: 118, Via Taranto, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00182, Italia",A,4.5,2.59,11.11,1.78
+152,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Coyote. Detailed address: 48b, Via di Monte Testaccio, Testaccio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia
+2. pan'unto. Detailed address: 2, Piazza di Santa Rufina, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",B,8.53,1.59,6.22,7.84
+153,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Le fantasie. Detailed address: 46, Via Giacomo Zanella, Monte Sacro Alto, Municipio Roma III, Roma, Roma Capitale, Lazio, 00137, Italia
+2. Ditta Trinchetti. Detailed address: Via della Lungaretta, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",D,7.78,7.13,3.57,9.82
+154,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ludel. Detailed address: 83, Viale San Giovanni Bosco, Cinecittà, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00175, Italia
+2. Farmacia Colapinto. Detailed address: 74a, Via Pietro Maffi, Torrevecchia, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00168, Italia",A,13.73,7.09,16.88,19.97
+155,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ristorante Pizzeria Navona. Detailed address: 67, Piazza Navona, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. L'Angoletto. Detailed address: Via Collatina, Collatino, Roma, Roma Capitale, Lazio, 00171, Italia",C,9.42,2.37,7.63,12.2
+156,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pizza Express. Detailed address: 26, Via Giovanni Faldella, Val Melaina, Municipio Roma III, Roma, Roma Capitale, Lazio, 00139, Italia
+2. Alt stazione del gusto. Detailed address: 270, Viale America, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia",C,22.14,19.47,14.17,8.38
+157,"What is the straight-line distance between the following two locations? (Unit is km)
+1. I monticiani. Detailed address: 84, Via Panisperna, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
+2. ToTo Risto Roma. Detailed address: 10, Via delle Carrozze, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",B,2.9,1.44,3.04,5.74
+158,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pizza Family. Detailed address: 223, Viale dei Quattro Venti, Monteverde, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00152, Italia
+2. Alberto's Pizza San Pietro. Detailed address: 6/a, Via della Stazione di San Pietro, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00193, Italia",A,2.74,8.84,8.79,5.69
+159,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La siciliana. Detailed address: 34, Piazza dei Mirti, Prenestino-Centocelle, Municipio Roma V, Roma, Roma Capitale, Lazio, 00172, Italia
+2. Orlando. Detailed address: 99, Piazza San Bernardo, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",B,4.1,6.51,5.16,14.45
+160,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fontana delle Rane. Detailed address: 2, Piazza Mincio, Trieste, Municipio Roma II, Roma, Roma Capitale, Lazio, 00198, Italia
+2. Farmacia Tuscolana. Detailed address: 7, Largo Spartaco, Quadraretto, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00174, Italia",B,12.72,7.84,10.07,15.28
+161,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bar. Detailed address: 87/a, Via Principe Amedeo, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia
+2. Casa di Cura. Detailed address: Via Aurelia, Aurelio, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00165, Italia",A,6.74,10.25,13.37,2.67
+162,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Curia Iulia. Detailed address: Argiletum, Campitelli, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
+2. Istituto Comprensivo Piazza Winckelmann. Detailed address: 20, Piazza Giovanni Winckelmann, Nomentano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00162, Italia",C,6.05,9.21,4.49,2.62
+163,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Barclays. Detailed address: Via Pompeo Magno, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia
+2. Afrish. Detailed address: Via Cavour, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",C,9.31,6.0,2.79,5.11
+164,"What is the straight-line distance between the following two locations? (Unit is km)
+1. T'Ever Food&Drink. Detailed address: 40, Vicolo del Cinque, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia
+2. Caffè Colli Albani. Detailed address: 42, Via dei Colli Albani, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00179, Italia",C,11.97,13.49,5.67,11.77
+165,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Centro sportivo Benedetto XV. Detailed address: Via dei Sardi, San Lorenzo, Municipio Roma II, Roma, Roma Capitale, Lazio, 00185, Italia
+2. Palazzetto del Burcardo. Detailed address: San Giuliano dei Fiamminghi, Via del Sudario, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",D,9.71,10.51,9.45,3.47
+166,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Parco di Villa Grazioli. Detailed address: 43, Via Bruxelles, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00198, Italia
+2. Laboratorio 3. Detailed address: Via di Pietralata, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00157, Italia",B,6.09,3.7,2.45,10.18
+167,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Forno Conti. Detailed address: 18, Via Giusti, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia
+2. McDonald's. Detailed address: Viale Eritrea, Trieste, Municipio Roma II, Roma, Roma Capitale, Lazio, 00199, Italia",D,0.74,1.43,7.38,3.79
+168,"What is the straight-line distance between the following two locations? (Unit is km)
+1. XII Gruppo Monteverde Polizia Locale di Roma Capitale. Detailed address: 43, Via di Donna Olimpia, Monteverde, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00152, Italia
+2. Ludel. Detailed address: 83, Viale San Giovanni Bosco, Cinecittà, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00175, Italia",A,9.16,3.27,6.69,13.6
+169,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Parcheggio di scambio Ponte Mammolo. Detailed address: 169, Via delle Messi d'Oro, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00158, Italia
+2. Largo Giovanni Ansaldo. Detailed address: Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia",A,8.95,14.91,15.77,11.59
+170,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Palazzo detto dei Propilei (nord). Detailed address: Piazza Pio Dodicesimo, Borgo, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia
+2. Mausoleo degli Equinozi. Detailed address: Via Appia Antica, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00179, Italia",A,8.38,9.53,10.82,12.59
+171,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Cotton Club. Detailed address: 2, Via Bellinzona, Trieste, Municipio Roma II, Roma, Roma Capitale, Lazio, 00199, Italia
+2. Gavi. Detailed address: Via Celimontana, Celio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",C,9.83,8.87,3.91,11.52
+172,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sfioratore di Piena Grottaperfetta. Detailed address: Vip Garden, Via dei Cocchieri, San Paolo, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00146, Italia
+2. Scala dell'Arce Capitolina. Detailed address: Musei Capitolini, Via del Tempio di Giove, Campitelli, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",D,7.14,8.63,7.35,4.98
+173,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mercato Rionale. Detailed address: Viale della Moschea, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+2. Casino del Bel Respiro. Detailed address: Giardino Segreto, Scalea del Casino Algardi, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00152, Italia",B,8.0,5.45,2.1,10.75
+174,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ufficio postale Roma 85. Detailed address: Piazzale della Farnesina, Municipio Roma XV, Roma, Roma Capitale, Lazio, 00194, Italia
+2. Gaudi. Detailed address: Via Ruggero Giovannelli, Pinciano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00198, Italia",B,7.79,3.79,5.56,9.86
+175,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Città Futura. Detailed address: Via dell'Arcadia, Tor Marancia, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00147, Italia
+2. Largo Angela Codazzi. Detailed address: Via Lodovico Pavoni, Pigneto, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia",C,1.93,4.11,5.53,7.82
+176,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Banca popolare di Milano. Detailed address: 76, Via Ugo Ojetti, Monte Sacro Alto, Municipio Roma III, Roma, Roma Capitale, Lazio, 00137, Italia
+2. Fontanella nel Parco pubblico. Detailed address: Via Giulio Tarra, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00151, Italia",B,10.29,12.24,18.76,18.16
+177,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Birreria Martini Esperienza Tedesca. Detailed address: 77, Via Candia, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia
+2. Famo Cose. Detailed address: 26, Via Caltanissetta, Pigneto, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia",C,12.58,7.83,6.48,3.87
+178,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ristorante Indiano Bombay Palace. Detailed address: 25, Via Cerveteri, San Giovanni, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00183, Italia
+2. Mare Blu. Detailed address: Via degli Opimiani, Quadraretto, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00174, Italia",C,9.03,11.11,3.87,1.98
+179,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gelateria Mastro Cono. Detailed address: 10, Via del Corso, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia
+2. Coyote. Detailed address: 48b, Via di Monte Testaccio, Testaccio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",C,2.48,7.83,3.8,5.21
+180,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ristorante Satiricus. Detailed address: 58, Via dei Corridori, Borgo, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia
+2. La gallina bianca. Detailed address: 8, Via Antonio Rosmini, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",B,8.04,3.11,9.82,4.38
+181,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Farmacia Colapinto. Detailed address: 74a, Via Pietro Maffi, Torrevecchia, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00168, Italia
+2. Scacco matto. Detailed address: Viale Spartaco, Appio Claudio, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00174, Italia",B,16.99,14.04,6.56,8.19
+182,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bartali. Detailed address: 30, Via Giovannipoli, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia
+2. Bar. Detailed address: 87/a, Via Principe Amedeo, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",A,4.36,12.11,9.46,2.91
+183,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Palazzo Giangiacomo. Detailed address: Via in Caterina, Regola, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. XIII Gruppo Aurelio Polizia Locale di Roma Capitale. Detailed address: 470, Via Aurelia, Aurelio, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00165, Italia",D,1.88,10.53,10.76,3.84
+184,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Meeting Place. Detailed address: 1, Piazza Bologna, Nomentano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00162, Italia
+2. Hedera. Detailed address: 50, Via degli Ombrellari, Borgo, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia",D,12.09,12.14,6.87,5.09
+185,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Caffè Braccio. Detailed address: Piazza Albania, San Saba, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia
+2. Porchetteria La rinascita. Detailed address: 89/90, Via del Governo Vecchio, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",B,7.94,2.24,7.03,7.48
+186,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Io e Mammà. Detailed address: 25, Via Giulio Venticinque, Municipio Roma I, Roma, Roma Capitale, Lazio, 00136, Italia
+2. Casa di Cura ""San Domenico"". Detailed address: 5, Piazza Sassari, Nomentano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00161, Italia",B,11.43,5.43,3.18,9.98
+187,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Q8. Detailed address: Via dei Cessati Spiriti, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00179, Italia
+2. bar de santis remo. Detailed address: Vicolo del Governo Vecchio, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",B,10.41,6.43,8.71,1.38
+188,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Günther Gelato. Detailed address: 47, Piazza di Sant'Eustachio, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Bevagna. Detailed address: Via Bevagna, Tor di Quinto, Municipio Roma XV, Roma, Roma Capitale, Lazio, 00191, Italia",D,0.89,9.19,8.01,4.96
+189,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Santi Benedetto e Scolastica all’Argentina. Detailed address: I Vicini Bistrot, 70, Via di Torre Argentina, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Giardino Vittime dell'Eccidio di Porzus. Detailed address: Viale di Porta Ardeatina, Municipio Roma I, Roma, Roma Capitale, Lazio, 00154, Italia",D,7.57,7.4,10.28,2.55
+190,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fototessera. Detailed address: Via Fonte Buono, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00142, Italia
+2. Re Bacco. Detailed address: 12, Via Pomezia, San Giovanni, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00183, Italia",B,10.09,4.13,6.71,10.06
+191,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pizzeria La Boccaccia. Detailed address: Via Gabriello Chiabrera, San Paolo, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia
+2. Biorama 77 s.r.l.. Detailed address: 43, Via Carlo Fadda, Lamaro, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00175, Italia",C,11.72,11.7,7.66,12.37
+192,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Acea Lanciani. Detailed address: Via Carlo Della Valle, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00162, Italia
+2. Largo Salvatore Gotta. Detailed address: Via Giuseppe Berto, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00142, Italia",B,15.56,9.76,2.29,8.21
+193,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ortopedia Ronconi. Detailed address: 147, Via dei Castani, Prenestino-Centocelle, Municipio Roma V, Roma, Roma Capitale, Lazio, 00172, Italia
+2. Fortezza Est. Detailed address: 62, Via Francesco Laparelli, Torpignattara, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia",D,5.02,4.5,4.84,2.29
+194,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pepe Nero. Detailed address: Via Isonzo, Pinciano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00198, Italia
+2. Monte dei Paschi di Siena. Detailed address: 20, Viale Tito Labieno, Appio Claudio, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00174, Italia",A,8.77,1.45,12.32,3.02
+195,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bigarba. Detailed address: Via Alessandro Severo, San Paolo, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia
+2. Ortopedia Ronconi. Detailed address: 147, Via dei Castani, Prenestino-Centocelle, Municipio Roma V, Roma, Roma Capitale, Lazio, 00172, Italia",B,14.42,7.42,1.18,9.73
+196,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Molo 29. Detailed address: Via Mario Musco, Tor Marancia, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia
+2. Bar l'Orologio. Detailed address: 23, Via del Governo Vecchio, Ponte, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",B,4.26,5.76,3.63,3.05
+197,"What is the straight-line distance between the following two locations? (Unit is km)
+1. GHISU auto per cerimonie. Detailed address: 183, Via Filippo Meda, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00157, Italia
+2. Music Garage Studio. Detailed address: 63, Via Giunio Antonio Resti, Giuliano-Dalmata, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00143, Italia",B,5.76,10.47,16.01,5.11
+198,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sottosopra. Detailed address: 64f, Via Alberto da Giussano, Pigneto, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia
+2. Babington's. Detailed address: Piazza di Spagna, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",B,12.4,4.73,10.61,9.86
+199,"What is the straight-line distance between the following two locations? (Unit is km)
+1. FS Prenestina. Detailed address: Via Albona, Municipio Roma V, Roma, Roma Capitale, Lazio, 00177, Italia
+2. Domus Internationalis Paulus VI. Detailed address: Biblioteca Angelica, 8, Piazza di Sant'Agostino, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",C,12.69,7.99,6.55,9.54
+200,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chiesa di Santa Maria della Pietà. Detailed address: Via della Sagrestia, Borgo, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia
+2. Sant’Eustachio in Campo Marzio. Detailed address: Piazza di Sant'Eustachio, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",B,5.1,1.75,7.99,4.95
+201,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Scala Santa. Detailed address: 14, Piazza San Giovanni in Laterano, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00183, Italia
+2. Zona industriale Idrovore della Magliana. Detailed address: Via delle Idrovore della Magliana, Portuense, Municipio Roma XI, Roma, Roma Capitale, Lazio, 00148, Italia",D,5.46,0.93,14.21,8.74
+202,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Postamat. Detailed address: Via Canosa di Puglia, Municipio Roma V, Roma, Roma Capitale, Lazio, 00177, Italia
+2. Casa Coppelli. Detailed address: Piazza delle Coppelle, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",D,1.28,8.05,1.16,5.96
+203,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nice & Food. Detailed address: 92, Via delle Montagne Rocciose, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+2. La Prosciutteria Roma Trevi - Cantina dei Papi. Detailed address: 34a, Via della Panetteria, Trevi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",A,8.58,16.55,5.95,4.3
+204,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Taverne Trinacria. Detailed address: Via Scribonio Curione, Quadraretto, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00174, Italia
+2. Parcheggio AMA. Detailed address: Piazzale Maresciallo Giardino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00195, Italia",D,5.25,5.47,6.48,10.5
+205,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Centro Velehrad. Detailed address: Via delle Fornaci, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00120, Italia
+2. Pontificio Collegio Armeno a Roma. Detailed address: Via Leonida Bissolati, Trevi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",A,3.08,9.27,6.89,4.31
+206,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Palmiro Togliatti. Detailed address: Viale Palmiro Togliatti, Pietralata, Roma, Roma Capitale, Lazio, 00158, Italia
+2. Wind. Detailed address: 12/14, Largo Apollinaire, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia",B,6.73,13.11,14.57,14.85
+207,"What is the straight-line distance between the following two locations? (Unit is km)
+1. L'Angoletto. Detailed address: Via Collatina, Collatino, Roma, Roma Capitale, Lazio, 00171, Italia
+2. Q8. Detailed address: Via dei Cessati Spiriti, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00179, Italia",A,4.88,10.0,2.32,7.06
+208,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Giardino Vittime di Via di Vigna Jacobini. Detailed address: Piazza Piero Puricelli, La Buca, Municipio Roma XI, Roma, Roma Capitale, Lazio, 00149, Italia
+2. Villa Hüffer. Detailed address: 192, Via Nazionale, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",C,0.97,1.1,5.14,7.61
+209,"What is the straight-line distance between the following two locations? (Unit is km)
+1. British School. Detailed address: 32, Circonvallazione Tuscolana, Appio Claudio, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00174, Italia
+2. La Grotta Azzurra. Detailed address: 17, Via Monza, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00182, Italia",D,13.6,3.87,11.48,5.77
+210,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bar Point. Detailed address: 43, Via Mirandola, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00182, Italia
+2. GHISU auto per cerimonie. Detailed address: 183, Via Filippo Meda, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00157, Italia",A,4.18,3.08,10.2,2.27
+211,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Alcazar. Detailed address: Via Cardinale Merry del Val, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia
+2. Er Dopolavoro. Detailed address: 22, Via della Stazione di San Pietro, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00193, Italia",C,6.08,3.97,1.78,9.37
+212,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lavaggio Auto. Detailed address: 136, Via Flavio Stilicone, Cinecittà, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00175, Italia
+2. XII Gruppo Monteverde Polizia Locale di Roma Capitale. Detailed address: 43, Via di Donna Olimpia, Monteverde, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00152, Italia",B,16.23,8.96,7.38,4.17
+213,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Taverna di Carlotta. Detailed address: 5, Piazza Giovanni da Triora, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia
+2. pensavo peggio - dolce e un po' salato. Detailed address: 9A, Via dei Prati della Farnesina, Municipio Roma XV, Roma, Roma Capitale, Lazio, 00194, Italia",B,3.24,8.69,3.0,1.63
+214,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Ruota. Detailed address: Via Angelo Emo, Municipio Roma I, Roma, Roma Capitale, Lazio, 00165, Italia
+2. Pizza alla Pala. Detailed address: 98c, Via Portuense, Municipio Roma XII, Roma, Roma Capitale, Lazio, 84010, Italia",A,3.59,10.74,5.24,6.1
+215,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fiesta. Detailed address: 24, Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+2. Ristorante Nduja. Detailed address: 15, Via Michele Tenore, Prenestino-Centocelle, Municipio Roma V, Roma, Roma Capitale, Lazio, 00171, Italia",B,6.34,9.9,14.32,17.28
+216,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al 39. Detailed address: 39/a, Via Palestro, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia
+2. Cibificio L'oficina Dei Sapori. Detailed address: Via Raffaele Cadorna, Sallustiano, Municipio Roma I, Roma, Roma Capitale, Lazio, 00198, Italia",B,5.23,0.55,4.27,2.62
+217,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Parco di Villa Berta. Detailed address: Via di Porta Furba, Torpignattara, Municipio Roma V, Roma, Roma Capitale, Lazio, 00181, Italia
+2. Chiesa dei Santi Antonio di Padova e Annibale Maria. Detailed address: Via dei Rogazionisti, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00182, Italia",B,3.02,1.93,3.38,9.75
+218,"What is the straight-line distance between the following two locations? (Unit is km)
+1. A Maidda. Detailed address: 7, Via di Ponziano, Monteverde, Municipio Roma XII, Roma, Roma Capitale, Lazio, 84010, Italia
+2. I Gemelli. Detailed address: 22, Via Farini, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",D,5.32,1.92,5.85,3.76
+219,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ristorante Nduja. Detailed address: 15, Via Michele Tenore, Prenestino-Centocelle, Municipio Roma V, Roma, Roma Capitale, Lazio, 00171, Italia
+2. Scuola secondaria di primo grado Via Ergisto Bezzi. Detailed address: Via Ergisto Bezzi, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00153, Italia",A,8.09,2.92,5.07,12.54
+220,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Caffetteria Fontana. Detailed address: 28c, Via dell'Aeroporto, Cinecittà, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00175, Italia
+2. Bar Maggiore. Detailed address: 18, Piazza di Porta Maggiore, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",A,4.79,7.59,1.59,8.57
+221,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Palazzo Albani. Detailed address: 125, Via Venti Settembre, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia
+2. Largo Padre Leonardo Bello. Detailed address: Via Annia Regilla, Quarto Miglio, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00178, Italia",D,2.57,11.91,13.4,8.08
+222,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Casino del Bel Respiro. Detailed address: Giardino Segreto, Scalea del Casino Algardi, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00152, Italia
+2. Parco di Villa Berta. Detailed address: Via di Porta Furba, Torpignattara, Municipio Roma V, Roma, Roma Capitale, Lazio, 00181, Italia",B,0.99,7.66,13.66,14.6
+223,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sapienza Università di Roma - Facoltà di Economia e Ingegneria. Detailed address: Largo Ettore Marchiafava, Nomentano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00161, Italia
+2. Cassa Depositi e Prestiti. Detailed address: Via Castelfidardo, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00198, Italia",A,1.61,7.8,5.53,6.91
+224,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mercato Largo Perestrello. Detailed address: Largo Bartolomeo Perestrello, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia
+2. Parco Marconi. Detailed address: Pista ciclabile del Tevere, Municipio Roma XI, Roma, Roma Capitale, Lazio, 00146, Italia",C,11.29,4.03,6.3,3.82
+225,"What is the straight-line distance between the following two locations? (Unit is km)
+1. I Gemelli. Detailed address: 22, Via Farini, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia
+2. Parcheggio motocicli e ciclomotori. Detailed address: Via Acaia, San Giovanni, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00183, Italia",C,9.69,6.67,2.57,8.4
+226,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Scuola dell'infanzia ""Casa dei bimbi"". Detailed address: Via Rocco da Cesinale, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia
+2. La congrega. Detailed address: 40, Via Firenze, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",C,11.64,7.6,4.32,11.88
+227,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ciro. Detailed address: 82, Via Catania, Nomentano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00161, Italia
+2. L'elementare. Detailed address: 23, Via Benedetta, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",D,11.66,7.74,12.62,4.7
+228,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Biorama 77 s.r.l.. Detailed address: 43, Via Carlo Fadda, Lamaro, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00175, Italia
+2. The Cornucopia in Trastevere. Detailed address: 18, Piazza in Piscinula, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",D,16.1,14.54,15.84,8.36
+229,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lotto 19. Detailed address: 1, Via Giovanni Battista Magnaghi, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia
+2. Ospedale Pediatrico Bambino Gesù. Detailed address: 4, Piazza di Sant'Onofrio, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00165, Italia",D,1.73,7.21,6.78,4.49
+230,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Casale. Detailed address: Riserva Naturale Valle dei Casali, Largo Alberto Pepere, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00164, Italia
+2. Sfioratore di Piena Grottaperfetta. Detailed address: Vip Garden, Via dei Cocchieri, San Paolo, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00146, Italia",B,7.99,4.01,11.33,8.64
+231,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bar Maccagno. Detailed address: 21, Largo Giorgio Maccagno, Balduina, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00136, Italia
+2. Istituto privato San Leone Magno. Detailed address: Via di Santa Costanza, Trieste, Municipio Roma II, Roma, Roma Capitale, Lazio, 00199, Italia",B,10.14,6.51,10.59,14.12
+232,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Su e Giù. Detailed address: 42, Via Tacito, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia
+2. Sapore di Roma. Detailed address: Via Tommaso Arcidiacono, Giuliano-Dalmata, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00143, Italia",A,9.99,12.02,12.74,2.3
+233,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Petrol Italia. Detailed address: Via Cristoforo Colombo, San Paolo, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia
+2. Old Trafford. Detailed address: Via Antonio Canal, Municipio Roma I, Roma, Roma Capitale, Lazio, 00165, Italia",B,12.78,6.78,11.9,1.96
+234,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Biblioteca di Scienze giuridiche - sede Diritto processuale civile. Detailed address: 5, Piazzale Aldo Moro, San Lorenzo, Municipio Roma II, Roma, Roma Capitale, Lazio, 00185, Italia
+2. Gyrotonic. Detailed address: 134, Viale Tito Labieno, Appio Claudio, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00174, Italia",C,1.57,10.98,7.16,12.63
+235,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gyrotonic. Detailed address: 134, Viale Tito Labieno, Appio Claudio, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00174, Italia
+2. Sweety Gelato. Detailed address: 9, Via del Biscione, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",A,9.04,11.82,11.64,14.49
+236,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Biblioteca di Scienze giuridiche - sede Diritto Internazionale. Detailed address: Biblioteca di Scienze giuridiche - sede Diritto comparato, 5, Piazzale Aldo Moro, San Lorenzo, Municipio Roma II, Roma, Roma Capitale, Lazio, 00185, Italia
+2. Lubrano. Detailed address: Via Cesare Algranati, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00157, Italia",C,7.91,0.73,2.46,1.08
+237,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Piazza Pietro Thouar. Detailed address: 2, Piazza Pietro Thouar, Monte Mario Alto, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00135, Italia
+2. Centro Nuovi Orizzonti. Detailed address: Via Gerolamo Frescobaldi, Pinciano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00198, Italia",C,10.01,4.16,6.44,14.03
+238,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Circus Roma. Detailed address: 15, Via della Vetrina, Ponte, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Bar Lepanto. Detailed address: Viale Giulio Cesare, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00195, Italia",D,5.73,7.11,2.58,1.29
+239,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Prosciutteria Roma Trevi - Cantina dei Papi. Detailed address: 34a, Via della Panetteria, Trevi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia
+2. AvANa. Detailed address: Piazza D'Armi sinistra, Prenestino-Centocelle, Municipio Roma V, Roma, Roma Capitale, Lazio, 00171, Italia",D,14.64,10.75,2.46,7.05
+240,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Largo Giovanni Ansaldo. Detailed address: Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia
+2. IH Hotel. Detailed address: Via Giorgio Perlasca, Collatino, Roma, Roma Capitale, Lazio, 00171, Italia",C,11.39,13.24,8.14,6.44
+241,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cariparma Credit Agricole. Detailed address: 139 / 157, Via Francesco Grimaldi, Municipio Roma XI, Roma, Roma Capitale, Lazio, 00146, Italia
+2. Esso. Detailed address: Piazza Albania, Ripa, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",B,9.09,2.27,3.95,5.17
+242,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gavi. Detailed address: Via Celimontana, Celio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
+2. Kitchen Bas. Detailed address: Via Gaeta, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",C,3.88,6.36,1.77,8.63
+243,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Bottigliaccia. Detailed address: 116, Via delle Sette Chiese, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia
+2. Forno Conti. Detailed address: 18, Via Giusti, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",C,5.08,2.14,3.72,11.17
+244,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Arcate severiane. Detailed address: Palatino, Criptoportico Neroniano, Campitelli, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
+2. Santissime Stimmate di San Francesco. Detailed address: Largo delle Stimmate, Pigna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",B,4.61,1.39,8.61,2.53
+245,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Parco Mattia Preti. Detailed address: Via Emilio Bianchi, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00142, Italia
+2. Conventi Agostiniani. Detailed address: Basilica di Santa Maria del Popolo, 12, Piazza del Popolo, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",C,16.74,5.35,9.15,12.94
+246,"What is the straight-line distance between the following two locations? (Unit is km)
+1. McDonald's. Detailed address: Viale Eritrea, Trieste, Municipio Roma II, Roma, Roma Capitale, Lazio, 00199, Italia
+2. [Terra-vision] Buses for Rome Airport. Detailed address: Via Marsala, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",A,2.8,9.4,8.55,4.45
+247,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Grotta Azzurra. Detailed address: 17, Via Monza, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00182, Italia
+2. Ristorante Pizzeria Navona. Detailed address: 67, Piazza Navona, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",C,8.49,2.59,3.84,1.11
+248,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Li Rioni. Detailed address: 24-24a, Via dei Santi Quattro, Celio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
+2. Farmacia Pesci. Detailed address: 89, Via della Stamperia, Trevi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",A,1.8,6.52,0.5,3.37
+249,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Armonie musicali. Detailed address: 58, Via Alberto da Giussano, Pigneto, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia
+2. Acchiappafantasmi. Detailed address: Via dei Cappellari, Regola, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",D,0.72,3.07,3.64,5.46
+250,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Caffè Ristorante Domus Altieri. Detailed address: Via del Gesù, Pigna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. CasaManco. Detailed address: 66c, Via Aldo Manuzio, Testaccio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",B,8.42,2.1,6.29,9.66
+251,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Erg. Detailed address: Via Attilio Friggeri, Balduina, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00100, Italia
+2. Chiosco Grattachecca. Detailed address: Via Magnagrecia, San Giovanni, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00183, Italia",B,3.59,6.97,13.3,13.8
+252,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gelato Vale. Detailed address: 37, Corso Vittorio Emanuele Secondo, Pigna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. La Fraschetta di Mastro Giorgio. Detailed address: 36, Via Alessandro Volta, Testaccio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",C,8.08,9.27,1.93,8.62
+253,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bar Alecri. Detailed address: Via Augusto Conti, Monte Mario Alto, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00168, Italia
+2. Ce bistrot. Detailed address: 33, Via Gaspare Gozzi, San Paolo, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia",C,12.35,8.75,10.85,16.7
+254,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Palazzina Calzone. Detailed address: Trinity College, Via Alessandro Specchi, Pigna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia
+2. Mercato Largo Perestrello. Detailed address: Largo Bartolomeo Perestrello, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia",A,5.34,6.74,9.16,7.78
+255,"What is the straight-line distance between the following two locations? (Unit is km)
+1. pensavo peggio - dolce e un po' salato. Detailed address: 9A, Via dei Prati della Farnesina, Municipio Roma XV, Roma, Roma Capitale, Lazio, 00194, Italia
+2. Birreria Martini Esperienza Tedesca. Detailed address: 77, Via Candia, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia",A,3.53,7.26,1.29,7.02
+256,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Conventi Agostiniani. Detailed address: Basilica di Santa Maria del Popolo, 12, Piazza del Popolo, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia
+2. Mercato Rionale. Detailed address: Viale della Moschea, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia",A,2.14,3.56,0.7,9.84
+257,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Largo Padre Leonardo Bello. Detailed address: Via Annia Regilla, Quarto Miglio, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00178, Italia
+2. Santa Maria d'Itria. Detailed address: Via del Tritone, Colonna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",B,1.96,8.43,11.92,11.31
+258,"What is the straight-line distance between the following two locations? (Unit is km)
+1. MoneyGram. Detailed address: 96, Via di San Giovanni in Laterano, Celio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
+2. il Gelatone. Detailed address: 130, Via dei Serpenti, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",A,0.92,5.23,5.29,5.51
+259,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Batteria Nomentana. Detailed address: Via della Batteria Nomentana, Nomentano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00199, Italia
+2. La Taverna di Carlotta. Detailed address: 5, Piazza Giovanni da Triora, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia",D,1.84,4.03,9.3,7.75
+260,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cinema dei Piccoli. Detailed address: Viale della Pineta, Pinciano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00187, Italia
+2. Scuola Germanica Roma. Detailed address: Via Aurelia Antica, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00164, Italia",B,7.56,5.56,1.53,9.15
+261,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Fagianetto. Detailed address: 21, Via Filippo Turati, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia
+2. Bar Due Note. Detailed address: 58, Via Pisino, Municipio Roma V, Roma, Roma Capitale, Lazio, 00177, Italia",D,6.69,0.68,1.73,4.66
+262,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Circo Massimo. Detailed address: Piazzale Ugo La Malfa, Ripa, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia
+2. Palazzo detto dei Propilei (nord). Detailed address: Piazza Pio Dodicesimo, Borgo, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia",D,7.85,5.08,4.77,2.91
+263,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Comando Militare Territoriale - Regione Militare Centrale. Detailed address: Via Nino Oxilia, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia
+2. Parco della Solidarietà. Detailed address: Q8, Via Cristoforo Colombo, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia",D,13.87,4.47,5.55,8.26
+264,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Body-Arts. Detailed address: Via dei Monti di Pietralata, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00159, Italia
+2. Ristorante Indiano Bombay Palace. Detailed address: 25, Via Cerveteri, San Giovanni, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00183, Italia",A,3.85,2.8,10.66,6.83
+265,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Porchetteria La rinascita. Detailed address: 89/90, Via del Governo Vecchio, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Dispensa. Detailed address: 8, Via Paganica, Sant'Angelo, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",B,5.24,0.66,2.04,4.07
+266,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Radio Città Futura. Detailed address: Via Celsa, Pigna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Body-Arts. Detailed address: Via dei Monti di Pietralata, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00159, Italia",B,9.23,5.1,6.64,11.0
+267,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ospedale Pediatrico Bambino Gesù. Detailed address: 4, Piazza di Sant'Onofrio, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00165, Italia
+2. Santa Maria in Montesanto. Detailed address: Via del Corso, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",B,3.98,1.97,5.71,7.73
+268,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Da Nazzareno. Detailed address: 37, Via Magenta, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia
+2. Pizzeria La Piazzetta. Detailed address: Piazza Marco da Tomba, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia",C,1.95,2.1,4.16,7.1
+269,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dispensa. Detailed address: 8, Via Paganica, Sant'Angelo, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. BrewDog Roma. Detailed address: 80, Via delle Terme di Tito, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",C,2.79,8.28,1.32,7.6
+270,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Farmacia Dr.ssa Perrotta. Detailed address: 114, Via Lorenzo il Magnifico, Nomentano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00162, Italia
+2. Taverne Trinacria. Detailed address: Via Scribonio Curione, Quadraretto, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00174, Italia",C,9.92,1.29,5.85,10.43
+271,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Famo Cose. Detailed address: 26, Via Caltanissetta, Pigneto, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia
+2. zer0tt8n9ve. Detailed address: Piazza di Sant'Eustachio, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",B,1.11,4.39,2.86,8.98
+272,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Scuola Germanica Roma. Detailed address: Via Aurelia Antica, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00164, Italia
+2. Casamento Scipioni. Detailed address: Giardino di Villa Paolina, Via Palestro, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00198, Italia",B,12.52,6.29,7.71,10.91
+273,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Residenza Centro ELIS. Detailed address: Chiesa di San Giovanni Battista in Collatino, Via Carlo Alberto Cortina, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00159, Italia
+2. Palazzo Massimo di Rignano. Detailed address: Teatro della Cometa, Via del Teatro di Marcello, Campitelli, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",D,10.15,1.46,9.07,5.78
+274,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sant’Eustachio in Campo Marzio. Detailed address: Piazza di Sant'Eustachio, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Villino Cernysceva. Detailed address: Chiesa di San Nicola, Via Palestro, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",C,10.15,9.77,2.51,6.68
+275,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Laboratorio Micrografico. Detailed address: Scuola Popolare di Musica di Testaccio, 4a, Piazza Orazio Giustiniani, Testaccio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia
+2. Areti Laurentina. Detailed address: Via Francesco de Suppé, Giuliano-Dalmata, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia",B,3.72,5.72,3.15,1.09
+276,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Vecchia Roma. Detailed address: 12/a, Via Ferruccio, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia
+2. Giulia & Sisto. Detailed address: 100, Via di San Giovanni in Laterano, Celio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",C,2.25,1.99,0.67,3.92
+277,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Farmacia Magnagrecia. Detailed address: Via Corfinio, San Giovanni, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00183, Italia
+2. Conca d'Oro. Detailed address: Viale Somalia, Trieste, Municipio Roma II, Roma, Roma Capitale, Lazio, 00141, Italia",A,5.6,12.14,8.01,12.98
+278,"What is the straight-line distance between the following two locations? (Unit is km)
+1. IperFreeFood. Detailed address: 15/b, Via Enea, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00181, Italia
+2. La Penna d'Oca. Detailed address: 53, Via della Penna, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",B,1.87,5.84,10.35,2.26
+279,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lotto 30. Detailed address: Via Rodolfo Acquaviva, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia
+2. Piazza Lugo. Detailed address: Xi Hu, 158, Via Taranto, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00182, Italia",A,3.39,2.23,7.03,10.08
+280,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ristorante Osteria del Velodromo Vecchio. Detailed address: 139 /141, Via Genzano, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00179, Italia
+2. T'Ever Food&Drink. Detailed address: 40, Vicolo del Cinque, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",C,2.67,13.68,5.75,9.68
+281,"What is the straight-line distance between the following two locations? (Unit is km)
+1. British Corner. Detailed address: 112, Via del Pigneto, Pigneto, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia
+2. Barrio Tango. Detailed address: 12, Via del Quadrifoglio, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00158, Italia",B,8.87,4.42,2.45,6.9
+282,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Beer Time. Detailed address: 1, Via Cesio Basso, Balduina, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00136, Italia
+2. Sole. Detailed address: Via dell'Acquedotto del Peschiera, Torrevecchia, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00135, Italia",C,4.83,4.58,2.2,1.09
+283,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cambio. Detailed address: Corso Vittorio Emanuele Secondo, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Al 39. Detailed address: 39/a, Via Palestro, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",D,5.84,10.67,10.75,2.9
+284,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Afrish. Detailed address: Via Cavour, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
+2. Baby Bar. Detailed address: 14, Piazza Damiano Sauli, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia",B,5.84,3.57,4.66,7.63
+285,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jing Yuan. Detailed address: Via Gregorio Settimo, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00165, Italia
+2. Garage. Detailed address: 983, Via Tuscolana, Cinecittà, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00174, Italia",B,13.32,10.84,7.79,7.38
+286,"What is the straight-line distance between the following two locations? (Unit is km)
+1. #Labo⁵². Detailed address: 52, Via Enea, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00181, Italia
+2. Fontana delle Rane. Detailed address: 2, Piazza Mincio, Trieste, Municipio Roma II, Roma, Roma Capitale, Lazio, 00198, Italia",C,2.1,1.81,5.4,10.53
+287,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Farmacia Colli Aniene. Detailed address: 1583, Viale Palmiro Togliatti, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00158, Italia
+2. The Bridge Fitness e Wellness. Detailed address: 86, Via Francesco Antonio Pigafetta, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia",A,8.46,13.3,14.14,7.04
+288,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fontana del Dolmen. Detailed address: Largo Paul Harris, Celio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
+2. Ristorante Osteria del Velodromo Vecchio. Detailed address: 139 /141, Via Genzano, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00179, Italia",A,3.63,9.64,1.9,2.28
+289,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fontana dei Libri. Detailed address: Via degli Staderari, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. BNL. Detailed address: Via Trionfale, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00135, Italia",D,11.42,8.85,7.6,5.58
+290,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Baby Bar. Detailed address: 14, Piazza Damiano Sauli, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia
+2. Ristorante cinese. Detailed address: Via della Marranella, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia",A,4.95,6.45,12.86,11.64
+291,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nuova Erakles. Detailed address: 23/a, Via della Bufalotta, Monte Sacro, Municipio Roma III, Roma, Roma Capitale, Lazio, 00139, Italia
+2. Günther Gelato. Detailed address: 47, Piazza di Sant'Eustachio, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",C,12.42,8.91,7.54,9.51
+292,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Istituto Comprensivo Piazza Winckelmann. Detailed address: 20, Piazza Giovanni Winckelmann, Nomentano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00162, Italia
+2. Palazzo Cartoni a Monti. Detailed address: Via Milano, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",C,11.11,2.39,3.8,8.36
+293,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bisteak. Detailed address: 141, Via di Pietralata, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00157, Italia
+2. Bar Tabacchi Epifani Anita. Detailed address: 59/c, Viale Giulio Cesare, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia",B,3.2,6.23,5.08,8.88
+294,"What is the straight-line distance between the following two locations? (Unit is km)
+1. I dolcissimi. Detailed address: 6, Piazza Ragusa, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00182, Italia
+2. Sofio Pizza. Detailed address: 131, Via Portuense, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00153, Italia",A,4.61,9.19,8.54,11.22
+295,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Admiral. Detailed address: Via Carlo della Rocca, Torpignattara, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia
+2. Gran Caffè. Detailed address: Piazza Testaccio, Testaccio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",B,9.25,5.57,4.1,13.15
+296,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Le Scalette. Detailed address: Via Val Chisone, Monte Sacro, Municipio Roma III, Roma, Roma Capitale, Lazio, 00141, Italia
+2. Pizza Forum. Detailed address: 38, Via di San Giovanni in Laterano, Celio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",C,2.69,13.31,5.52,1.43
+297,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bar Thouar. Detailed address: 37, Piazza Pietro Thouar, Monte Mario Alto, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00135, Italia
+2. Biblioteca di Chimica Gabriello Illuminati. Detailed address: Via Cesare De Lollis, San Lorenzo, Municipio Roma II, Roma, Roma Capitale, Lazio, 00185, Italia",B,6.93,9.13,15.3,13.76
+298,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Vignola Bistrot. Detailed address: 49, Viale del Vignola, Flaminio, Municipio Roma II, Roma, Roma Capitale, Lazio, 00196, Italia
+2. Beer Time. Detailed address: 1, Via Cesio Basso, Balduina, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00136, Italia",B,9.51,2.26,8.5,7.46
+299,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Er Dopolavoro. Detailed address: 22, Via della Stazione di San Pietro, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00193, Italia
+2. Il Galeone. Detailed address: Via Cavour, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",D,9.54,6.94,1.39,3.33
+300,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Giardino Vittime dell'Eccidio di Porzus. Detailed address: Viale di Porta Ardeatina, Municipio Roma I, Roma, Roma Capitale, Lazio, 00154, Italia
+2. B.N.L.. Detailed address: Il Piccolo Mondo, 39, Via Aurora, Ludovisi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",D,7.78,1.67,10.34,3.56
+301,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Arco dei Quattro Venti. Detailed address: Piazzale dei Ragazzi del 1849, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00120, Italia
+2. Giardino Vittime di Via di Vigna Jacobini. Detailed address: Piazza Piero Puricelli, La Buca, Municipio Roma XI, Roma, Roma Capitale, Lazio, 00149, Italia",A,3.02,7.49,6.48,7.18
+302,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La carbonara. Detailed address: 214, Via Panisperna, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
+2. Punto Bar. Detailed address: Viale Pinturicchio, Flaminio, Municipio Roma II, Roma, Roma Capitale, Lazio, 00196, Italia",D,2.51,8.64,6.89,4.31
+303,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Barrio Tango. Detailed address: 12, Via del Quadrifoglio, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00158, Italia
+2. Il Ponticello. Detailed address: Via Laurentina, San Paolo, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia",D,7.29,12.56,3.27,9.77
+304,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Santi Martiri dell'Uganda a Poggio Ameno. Detailed address: Largo Santi Martiri dell'Uganda, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00142, Italia
+2. Santissima Trinità dei Pellegrini ai Catinari. Detailed address: 1, Via della Trinità dei Pellegrini, Regola, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",D,8.58,9.02,4.37,5.55
+305,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Areti Laurentina. Detailed address: Via Francesco de Suppé, Giuliano-Dalmata, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+2. FS Prenestina. Detailed address: Via Albona, Municipio Roma V, Roma, Roma Capitale, Lazio, 00177, Italia",A,10.16,2.54,12.35,11.28
+306,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Scuola secondaria di primo grado Via Ergisto Bezzi. Detailed address: Via Ergisto Bezzi, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00153, Italia
+2. Vestiti usati. Detailed address: Viale Giuseppe Mazzini, Municipio Roma I, Roma, Roma Capitale, Lazio, 00195, Italia",C,11.8,5.29,4.01,5.19
+307,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pescato&Mangiato. Detailed address: 16, Piazza Federico Marcello Lante, Tor Marancia, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00014, Italia
+2. La Bottigliaccia. Detailed address: 116, Via delle Sette Chiese, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia",A,1.42,7.26,2.56,7.48
+308,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Il Pellicano. Detailed address: 10, Piazza Eugenio Biffi, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia
+2. Ristorante Satiricus. Detailed address: 58, Via dei Corridori, Borgo, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia",A,4.72,1.76,9.61,8.36
+309,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Bridge Fitness e Wellness. Detailed address: 86, Via Francesco Antonio Pigafetta, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia
+2. Ristorante Cantina 26. Detailed address: Via Ruggero di Lauria, Municipio Roma I, Roma, Roma Capitale, Lazio, 00136, Italia",D,9.93,1.99,11.88,5.37
+310,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cabina ACEI Roma Casilina. Detailed address: Roma Casilina, Via del Mandrione, Torpignattara, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00181, Italia
+2. Chiesa di Santa Maria dell'Orto. Detailed address: Via della Madonna dell'Orto, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",A,5.29,13.01,0.88,7.73
+311,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Collegio Internazionale del Gesù. Detailed address: Via d'Aracoeli, Pigna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Istituto Professionale. Detailed address: 17, Via di Casal Bruciato, Casal Bruciato, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00159, Italia",A,5.7,0.98,12.9,8.66
+312,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Moby Dick. Detailed address: 3, Via Edgardo Ferrati, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia
+2. Batucada. Detailed address: 6, Via dei Monti Lepini, Monte Sacro, Municipio Roma III, Roma, Roma Capitale, Lazio, 00139, Italia",D,5.49,9.0,13.64,10.05
+313,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Repsol. Detailed address: Viale Guglielmo Marconi, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia
+2. Panamino. Detailed address: 23, Parco Yitzhak Rabin, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00198, Italia",C,3.55,7.87,8.99,14.99
+314,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Scuola dell'infanzia Guglielmo Oberdan. Detailed address: 10, Largo Alessandrina Ravizza, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00152, Italia
+2. Sicily By Car. Detailed address: Via Teulada, Municipio Roma I, Roma, Roma Capitale, Lazio, 00195, Italia",A,5.23,3.63,6.56,11.48
+315,"What is the straight-line distance between the following two locations? (Unit is km)
+1. CucchiBurger. Detailed address: 204, Via di Acqua Bullicante, Municipio Roma V, Roma, Roma Capitale, Lazio, 00177, Italia
+2. Brucio. Detailed address: Maccheroni, 44, Piazza delle Coppelle, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",D,1.36,10.98,13.0,5.73
+316,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bar Caffè Fantini. Detailed address: 127, Via Candia, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia
+2. Repsol. Detailed address: Viale Guglielmo Marconi, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00142, Italia",B,9.34,7.17,15.03,5.74
+317,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Scuola Pietro Mancini. Detailed address: Via Camillo Manfroni, Torpignattara, Municipio Roma V, Roma, Roma Capitale, Lazio, 00177, Italia
+2. Areti Appio. Detailed address: Eni, Via Tuscolana, Torpignattara, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00179, Italia",D,5.59,8.66,4.68,0.86
+318,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chiesa dei Santi Antonio di Padova e Annibale Maria. Detailed address: Via dei Rogazionisti, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00182, Italia
+2. Parco Savello. Detailed address: Via Sant'Alberto Magno, Ripa, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",B,4.56,3.35,7.21,5.1
+319,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Scuola primaria Ermenegildo Pistelli. Detailed address: Via Achille Papa, Municipio Roma I, Roma, Roma Capitale, Lazio, 00195, Italia
+2. Monumento Funerario Hilarus Fuscus. Detailed address: Via Appia Antica, Ardeatino, Roma, Roma Capitale, Lazio, 00178, Italia",A,10.77,18.29,13.7,6.86
+320,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Centro Diurno Gli Scatenati. Detailed address: 5, Lungotevere Dante, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00146, Italia
+2. Jing Yuan. Detailed address: Via Gregorio Settimo, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00165, Italia",B,10.73,4.32,11.52,3.24
+321,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bar Tabacchi Epifani Anita. Detailed address: 59/c, Viale Giulio Cesare, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia
+2. Marzapane. Detailed address: 39, Via Velletri, Salario, Municipio Roma II, Roma, Roma Capitale, Lazio, 00198, Italia",A,2.86,7.78,7.23,0.51
+322,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Padiglione 9B. Detailed address: Testaccio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia
+2. Palazzo Cenci Bolognetti. Detailed address: Iowa State University College of Design, 23, Piazza delle Cinque Scole, Regola, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",B,9.81,1.87,5.83,7.77
+323,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sofio Pizza. Detailed address: 131, Via Portuense, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00153, Italia
+2. San Giovanni Bosco. Detailed address: 171, Via Appia Nuova, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00183, Italia",C,8.41,6.28,3.98,8.81
+324,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Piazza Lugo. Detailed address: Xi Hu, 158, Via Taranto, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00182, Italia
+2. La Taverna del Grano. Detailed address: 31, Piazza dei Tribuni, Quadraretto, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00175, Italia",C,6.16,6.99,3.14,6.01
+325,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Wind. Detailed address: 12/14, Largo Apollinaire, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+2. Acea Lanciani. Detailed address: Via Carlo Della Valle, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00162, Italia",C,18.88,13.59,11.67,16.06
+326,"What is the straight-line distance between the following two locations? (Unit is km)
+1. I Fratelli Della Pizza Kebab. Detailed address: 25, Via Arenula, Regola, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Farmacia Piram. Detailed address: 228, Via Nazionale, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",A,1.7,5.29,4.7,9.45
+327,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Alice. Detailed address: 3, Via Francesco Grimaldi, Municipio Roma XI, Roma, Roma Capitale, Lazio, 00146, Italia
+2. Babette. Detailed address: 1/d, Via Margutta, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",A,5.11,1.85,6.81,3.78
+328,"What is the straight-line distance between the following two locations? (Unit is km)
+1. To Live. Detailed address: Via Aristide Leonori, Tor Marancia, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia
+2. Sally Brown. Detailed address: 3a, Via degli Etruschi, San Lorenzo, Municipio Roma II, Roma, Roma Capitale, Lazio, 00185, Italia",C,0.91,3.09,5.84,11.72
+329,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Centro vaccinale. Detailed address: 21, Via Boemondo, Nomentano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00162, Italia
+2. Li Rioni. Detailed address: 24-24a, Via dei Santi Quattro, Celio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",B,6.99,3.36,11.34,4.59
+330,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Campo base Linea C. Detailed address: Via Cori, Municipio Roma V, Roma, Roma Capitale, Lazio, 00177, Italia
+2. Università degli Studi Internazionali di Roma. Detailed address: Via delle Sette Chiese, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00147, Italia",A,5.34,6.43,7.52,8.94
+331,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Agenzia delle Entrate. Detailed address: 5, Largo Leopardi, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia
+2. Hotel Sofitel Roma Villa Borghese. Detailed address: 47, Via Lombardia, Ludovisi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",B,5.67,1.98,5.1,7.46
+332,"What is the straight-line distance between the following two locations? (Unit is km)
+1. da Salvo. Detailed address: 292, Viale Guglielmo Marconi, Municipio Roma XI, Roma, Roma Capitale, Lazio, 00146, Italia
+2. Farmacia Colli Aniene. Detailed address: 1583, Viale Palmiro Togliatti, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00158, Italia",D,16.9,14.04,11.79,10.16
+333,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chiesa di Santa Maria dell'Orto. Detailed address: Via della Madonna dell'Orto, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia
+2. Campo base Linea C. Detailed address: Via Cori, Municipio Roma V, Roma, Roma Capitale, Lazio, 00177, Italia",D,12.84,8.71,8.94,6.16
+334,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Largo Beato Placido Riccardi. Detailed address: San Paolo, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia
+2. Palazzo dell'antica Zecca. Detailed address: 315, Largo Ottavio Tassoni, Ponte, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",A,4.91,8.8,8.34,12.59
+335,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Intesa Sanpaolo. Detailed address: 13, Via Parigi, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia
+2. Propaganda. Detailed address: Via Marco Aurelio, Celio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",D,6.2,8.33,6.39,1.79
+336,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tempio Bar. Detailed address: 16, Piazza della Rotonda, Colonna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Bar San Paolo. Detailed address: Via Gaspare Gozzi, San Paolo, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia",A,4.82,1.42,1.14,8.01
+337,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Panamino. Detailed address: 23, Parco Yitzhak Rabin, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00198, Italia
+2. Ciro Purpetta. Detailed address: 13, Via Goito, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",C,4.28,9.79,2.11,5.48
+338,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Parafarmacia Fei. Detailed address: 12/a, Via Carlo Alberto, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia
+2. Postamat. Detailed address: Via Canosa di Puglia, Municipio Roma V, Roma, Roma Capitale, Lazio, 00177, Italia",C,2.73,7.32,3.77,1.04
+339,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Brucio. Detailed address: Maccheroni, 44, Piazza delle Coppelle, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Annapoorna. Detailed address: Gelateria Olive Dolci, 140, Via Emanuele Filiberto, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00183, Italia",A,2.94,5.76,7.81,4.26
+340,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chiesa di Santa Giovanna Antida Thouret. Detailed address: Via Santa Giovanna Antida Thouret, Giuliano-Dalmata, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00143, Italia
+2. Laboratorio Micrografico. Detailed address: Scuola Popolare di Musica di Testaccio, 4a, Piazza Orazio Giustiniani, Testaccio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",D,13.51,9.61,8.77,6.48
+341,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sapore di Roma. Detailed address: Via Tommaso Arcidiacono, Giuliano-Dalmata, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00143, Italia
+2. Burger King. Detailed address: 474, Via Tiburtina, Casal Bruciato, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00159, Italia",A,9.81,2.62,12.3,15.87
+342,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Largo Angela Codazzi. Detailed address: Via Lodovico Pavoni, Pigneto, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia
+2. Corner MPCR Noleggio. Detailed address: 23, Via Filippo Parlatore, Prenestino-Centocelle, Municipio Roma V, Roma, Roma Capitale, Lazio, 00171, Italia",B,7.06,2.03,9.49,10.0
+343,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Il Ponticello. Detailed address: Via Laurentina, San Paolo, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia
+2. Gusto. Detailed address: 11, Via Calatafimi, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",A,6.2,11.15,0.87,1.72
+344,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Domus Internationalis Paulus VI. Detailed address: Biblioteca Angelica, 8, Piazza di Sant'Agostino, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Arco dei Quattro Venti. Detailed address: Piazzale dei Ragazzi del 1849, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00120, Italia",B,8.65,2.12,5.96,5.46
+345,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Istituto tecnico Di Vittorio-Lattanzio. Detailed address: Via Torre Annunziata, Municipio Roma V, Roma, Roma Capitale, Lazio, 00177, Italia
+2. Sound Art. Detailed address: 47, Via Ariano Irpino, Pigneto, Municipio Roma V, Roma, Roma Capitale, Lazio, 00177, Italia",C,7.41,3.72,0.57,5.13
+346,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Alberto's Pizza San Pietro. Detailed address: 6/a, Via della Stazione di San Pietro, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00193, Italia
+2. #Labo⁵². Detailed address: 52, Via Enea, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00181, Italia",A,6.7,3.42,8.5,2.97
+347,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Scacco matto. Detailed address: Viale Spartaco, Appio Claudio, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00174, Italia
+2. Fiori di Zucca. Detailed address: 147, Via dei Sabelli, San Lorenzo, Municipio Roma II, Roma, Roma Capitale, Lazio, 00161, Italia",A,5.98,11.46,11.18,13.72
+348,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ristorante Cantina 26. Detailed address: Via Ruggero di Lauria, Municipio Roma I, Roma, Roma Capitale, Lazio, 00136, Italia
+2. Il Gianfornaio. Detailed address: Via dei Gracchi, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia",B,6.87,1.21,4.62,3.88
+349,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Battistero Lateranense. Detailed address: Piazza di San Giovanni in Laterano, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00183, Italia
+2. Tomba di Priscilla. Detailed address: Sepolcro di Priscilla, 64, Via Appia Antica, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00014, Italia",A,2.17,7.04,8.49,8.33
+350,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Music Garage Studio. Detailed address: 63, Via Giunio Antonio Resti, Giuliano-Dalmata, Municipio Roma IX, Roma, Roma Capitale, Lazio, 00143, Italia
+2. Fa Bìo. Detailed address: 71, Via Germanico, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia",A,10.03,17.17,13.46,16.92
+351,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Garage. Detailed address: 983, Via Tuscolana, Cinecittà, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00174, Italia
+2. Da Nazzareno. Detailed address: 37, Via Magenta, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",C,14.35,11.31,7.37,9.19
+352,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tecno Garden. Detailed address: Esso, Via di Acqua Bullicante, Municipio Roma V, Roma, Roma Capitale, Lazio, 00177, Italia
+2. Palazzo Excelsior. Detailed address: ArtPhotography by Olga Angelucci, 54, Via Sicilia, Ludovisi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",C,10.51,1.77,4.99,8.12
+353,"What is the straight-line distance between the following two locations? (Unit is km)
+1. BNL. Detailed address: Via Trionfale, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00135, Italia
+2. Veghometro. Detailed address: Gazometro 38, 38, Via del Gazometro, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia",B,4.21,8.3,2.27,4.4
+354,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ToTo Risto Roma. Detailed address: 10, Via delle Carrozze, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia
+2. Alice. Detailed address: 3, Via Francesco Grimaldi, Municipio Roma XI, Roma, Roma Capitale, Lazio, 00146, Italia",B,2.36,4.67,2.33,0.86
+355,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bar del Pino. Detailed address: Via Edoardo Jenner, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00152, Italia
+2. CucchiBurger. Detailed address: 204, Via di Acqua Bullicante, Municipio Roma V, Roma, Roma Capitale, Lazio, 00177, Italia",D,13.61,5.14,9.3,8.18
+356,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pontificio Collegio Armeno a Roma. Detailed address: Via Leonida Bissolati, Trevi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia
+2. Cinema dei Piccoli. Detailed address: Viale della Pineta, Pinciano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00187, Italia",C,4.18,6.31,0.75,6.48
+357,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cafè Cafè. Detailed address: 44, Via dei Santi Quattro, Celio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
+2. Bar Point. Detailed address: 43, Via Mirandola, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00182, Italia",B,8.18,2.6,9.69,6.15
+358,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Palazzo Mancini. Detailed address: Domus Libera, 7, Vicolo del Piombo, Trevi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia
+2. Lotto 19. Detailed address: 1, Via Giovanni Battista Magnaghi, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia",C,6.35,1.09,3.96,10.12
+359,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Yangguofu Malatang. Detailed address: 52/54, Via dello Statuto, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia
+2. Castro Laurenziano. Detailed address: Via del Castro Laurenziano, San Lorenzo, Municipio Roma II, Roma, Roma Capitale, Lazio, 00161, Italia",D,0.63,3.05,7.91,1.81
+360,"What is the straight-line distance between the following two locations? (Unit is km)
+1. B.N.L.. Detailed address: Il Piccolo Mondo, 39, Via Aurora, Ludovisi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia
+2. Parco Montebruno. Detailed address: Via Montebruno, Torrevecchia, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00135, Italia",B,8.67,6.09,13.58,9.7
+361,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bevagna. Detailed address: Via Bevagna, Tor di Quinto, Municipio Roma XV, Roma, Roma Capitale, Lazio, 00191, Italia
+2. Bartali. Detailed address: 30, Via Giovannipoli, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia",C,16.34,7.84,9.16,7.72
+362,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pizza alla Pala. Detailed address: 98c, Via Portuense, Municipio Roma XII, Roma, Roma Capitale, Lazio, 84010, Italia
+2. Su e Giù. Detailed address: 42, Via Tacito, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia",D,5.55,4.93,2.25,3.44
+363,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bar Due Note. Detailed address: 58, Via Pisino, Municipio Roma V, Roma, Roma Capitale, Lazio, 00177, Italia
+2. MoneyGram. Detailed address: 96, Via di San Giovanni in Laterano, Celio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",C,1.6,9.72,5.13,9.89
+364,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bar 3m. Detailed address: Via Giovanni Maggi, Pigneto, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia
+2. Biblioteca di Scienze giuridiche - sede Diritto Internazionale. Detailed address: Biblioteca di Scienze giuridiche - sede Diritto comparato, 5, Piazzale Aldo Moro, San Lorenzo, Municipio Roma II, Roma, Roma Capitale, Lazio, 00185, Italia",D,9.7,10.71,10.51,3.06
+365,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Palazzo Cerri. Detailed address: La Locanda del Pellegrino, 107, Via del Pellegrino, Regola, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Centri sportivi federali. Detailed address: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00191, Italia",B,11.29,4.79,10.48,2.61
+366,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Scala dell'Arce Capitolina. Detailed address: Musei Capitolini, Via del Tempio di Giove, Campitelli, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia
+2. Ex-Mattatoio. Detailed address: Accademia di Belle Arti di Roma - Sede di Campo Boario, Largo Dino Frisullo, Testaccio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",C,1.02,4.52,2.37,8.75
+367,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Parco della Solidarietà. Detailed address: Q8, Via Cristoforo Colombo, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia
+2. Santi Martiri dell'Uganda a Poggio Ameno. Detailed address: Largo Santi Martiri dell'Uganda, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00142, Italia",B,3.14,0.69,5.45,4.92
+368,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Parco Montebruno. Detailed address: Via Montebruno, Torrevecchia, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00135, Italia
+2. Rovine Chiesa di San Nicola a Capo di Bove. Detailed address: Via Appia Antica, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00179, Italia",D,16.13,18.85,17.32,12.04
+369,"What is the straight-line distance between the following two locations? (Unit is km)
+1. L'elementare. Detailed address: 23, Via Benedetta, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia
+2. Tavola Calda da Simone e Mirella. Detailed address: 257, Via di Ripetta, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",C,8.08,4.82,2.06,9.79
+370,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Il Galeone. Detailed address: Via Cavour, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
+2. Ponte Cavour. Detailed address: Lungotevere Marzio, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",B,3.51,1.95,3.94,7.1
+371,"What is the straight-line distance between the following two locations? (Unit is km)
+1. European Hospital. Detailed address: 700, Via Portuense, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00149, Italia
+2. Sapienza Università di Roma - Facoltà di Economia e Ingegneria. Detailed address: Largo Ettore Marchiafava, Nomentano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00161, Italia",C,15.63,15.37,9.04,11.73
+372,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Euphoria. Detailed address: Via di Monte Testaccio, Testaccio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia
+2. Centro Diurno Gli Scatenati. Detailed address: 5, Lungotevere Dante, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00146, Italia",D,4.49,4.91,9.88,2.06
+373,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La casa del supplì. Detailed address: 48, Viale Furio Camillo, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00181, Italia
+2. Fontana dei Libri. Detailed address: Via degli Staderari, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",B,2.32,4.88,6.02,0.98
+374,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cibificio L'oficina Dei Sapori. Detailed address: Via Raffaele Cadorna, Sallustiano, Municipio Roma I, Roma, Roma Capitale, Lazio, 00198, Italia
+2. Accademia Filarmonica Romana. Detailed address: 118, Via Flaminia, Pinciano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00196, Italia",C,5.49,9.41,2.19,4.18
+375,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Convento di Santa Dorotea. Detailed address: Piazza di Santa Balbina, San Saba, Municipio Roma I, Roma, Roma Capitale, Lazio, 00154, Italia
+2. Collegio Internazionale del Gesù. Detailed address: Via d'Aracoeli, Pigna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",D,6.18,8.69,3.31,1.79
+376,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cantiere della Centralità Metropolitana Pietralata. Detailed address: Municipio Roma IV, Roma, Roma Capitale, Lazio, 00157, Italia
+2. Conad. Detailed address: Via Sebastiano Ziani, Municipio Roma I, Roma, Roma Capitale, Lazio, 00136, Italia",D,5.87,9.76,12.84,7.64
+377,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Simeto. Detailed address: 30/32, Via Simeto, Salario, Municipio Roma II, Roma, Roma Capitale, Lazio, 00198, Italia
+2. I dolcissimi. Detailed address: 6, Piazza Ragusa, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00182, Italia",B,9.06,4.45,8.35,6.58
+378,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fineco. Detailed address: 134, Viale Tirreno, Monte Sacro, Municipio Roma III, Roma, Roma Capitale, Lazio, 00141, Italia
+2. Gelateria A.Cecere. Detailed address: Via del Lavatore, Trevi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",C,2.11,12.07,5.69,12.11
+379,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ristorante cinese. Detailed address: Via della Marranella, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia
+2. Mi Garba Caffè. Detailed address: 34/36, Viale Guglielmo Massaia, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia",C,12.33,2.88,4.66,3.56
+380,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Risto Bar. Detailed address: Via Andrea Doria, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia
+2. Figo. Detailed address: 543, Via Nomentana, Monte Sacro, Municipio Roma III, Roma, Roma Capitale, Lazio, 00141, Italia",B,12.39,6.74,13.79,8.76
+381,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cuccurucù. Detailed address: Via Capoprati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00196, Italia
+2. da Salvo. Detailed address: 292, Viale Guglielmo Marconi, Municipio Roma XI, Roma, Roma Capitale, Lazio, 00146, Italia",C,3.49,4.95,7.03,13.05
+382,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fa Bìo. Detailed address: 71, Via Germanico, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia
+2. Bar 3m. Detailed address: Via Giovanni Maggi, Pigneto, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia",B,10.24,7.3,14.41,2.46
+383,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Istanbul 34. Detailed address: 7, Circonvallazione Gianicolense, Monteverde, Municipio Roma XII, Roma, Roma Capitale, Lazio, 84010, Italia
+2. Sweet Time Bubble Tea. Detailed address: 62, Via Cipro, Municipio Roma I, Roma, Roma Capitale, Lazio, 00136, Italia",C,0.98,7.38,4.06,3.04
+384,"What is the straight-line distance between the following two locations? (Unit is km)
+1. NH Collection Roma Vittorio Veneto ****. Detailed address: 1, Corso d'Italia, Pinciano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00198, Italia
+2. Mercato Circonvallazione Ostiense. Detailed address: Via di Santa Galla, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia",A,4.69,6.86,6.8,12.05
+385,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bar San Paolo. Detailed address: Via Gaspare Gozzi, San Paolo, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia
+2. la Prosciutteria Navona. Detailed address: 21, Via del Governo Vecchio, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",B,2.69,4.82,9.83,6.02
+386,"What is the straight-line distance between the following two locations? (Unit is km)
+1. AMA Vasca Navale. Detailed address: Vicolo Salvi, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00146, Italia
+2. Chiesa di San Clemente. Detailed address: 22, Via Val Sillaro, Monte Sacro, Municipio Roma III, Roma, Roma Capitale, Lazio, 00141, Italia",B,12.39,10.5,14.43,9.05
+387,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mi Garba Caffè. Detailed address: 34/36, Viale Guglielmo Massaia, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia
+2. Grigliera. Detailed address: Via Flavia, Sallustiano, Municipio Roma I, Roma, Roma Capitale, Lazio, 00198, Italia",D,11.94,1.96,0.83,5.15
+388,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Poste. Detailed address: Via Maurizio Quadrio, Monteverde, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00120, Italia
+2. La Locanda del Tempio. Detailed address: 85, Piazza di Pietra, Colonna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",A,2.54,9.81,8.58,8.86
+389,"What is the straight-line distance between the following two locations? (Unit is km)
+1. R. Gargani. Detailed address: Via Lombardia, Ludovisi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia
+2. Ciao Checca. Detailed address: 25;26, Piazza di Firenze, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",B,8.87,1.24,7.49,5.41
+390,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Casa Coppelli. Detailed address: Piazza delle Coppelle, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. R. Gargani. Detailed address: Via Lombardia, Ludovisi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",A,1.33,7.91,9.13,6.0
+391,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Crypta Balbi. Detailed address: Via dei Polacchi, Sant'Angelo, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Associazione Bocciofila la Piramide. Detailed address: Via Marmorata, Testaccio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",D,4.99,6.77,8.42,1.88
+392,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Farmacia Piram. Detailed address: 228, Via Nazionale, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
+2. Fototessera. Detailed address: Via Fonte Buono, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00142, Italia",C,12.27,12.66,5.9,3.24
+393,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mausoleo degli Equinozi. Detailed address: Via Appia Antica, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00179, Italia
+2. Giardino dei Giusti dell'Umanità. Detailed address: Viale Alda Costa, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00164, Italia",D,5.85,13.07,9.42,8.38
+394,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Santissime Stimmate di San Francesco. Detailed address: Largo delle Stimmate, Pigna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Largo Beato Placido Riccardi. Detailed address: San Paolo, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia",B,1.72,4.46,7.25,6.21
+395,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mare Blu. Detailed address: Via degli Opimiani, Quadraretto, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00174, Italia
+2. Petrol Italia. Detailed address: Via Cristoforo Colombo, San Paolo, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia",B,4.12,5.6,3.95,9.71
+396,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Farmacia Don Bosco. Detailed address: Via Ripacandida, Quarto Miglio, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00178, Italia
+2. Casa di cura San Giorgio. Detailed address: Viale delle Medaglie d'Oro, Balduina, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00136, Italia",A,11.72,10.01,14.46,17.73
+397,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Istituto superiore Federico Caffè. Detailed address: 86, Viale di Villa Pamphili, Monteverde, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00152, Italia
+2. Circus Roma. Detailed address: 15, Via della Vetrina, Ponte, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",A,2.68,7.73,7.12,5.39
+398,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Palazzetto del Burcardo. Detailed address: San Giuliano dei Fiamminghi, Via del Sudario, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Parco di Villa Grazioli. Detailed address: 43, Via Bruxelles, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00198, Italia",D,0.58,9.05,11.52,3.61
+399,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Doria. Detailed address: Via Andrea Doria, Municipio Roma I, Roma, Roma Capitale, Lazio, 00136, Italia
+2. Pescato&Mangiato. Detailed address: 16, Piazza Federico Marcello Lante, Tor Marancia, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00014, Italia",B,10.6,7.63,12.28,3.98
+400,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Functional Jungle Gym. Detailed address: Via Gaspare Gozzi, San Paolo, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia
+2. L’arciliuto. Detailed address: 5, Piazza di Montevecchio, Ponte, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",A,5.17,13.04,12.26,10.79
+401,"What is the straight-line distance between the following two locations? (Unit is km)
+1. pan'unto. Detailed address: 2, Piazza di Santa Rufina, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia
+2. Doria. Detailed address: Via Andrea Doria, Municipio Roma I, Roma, Roma Capitale, Lazio, 00136, Italia",D,7.51,10.8,0.82,2.87
+402,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chiesa di San Clemente. Detailed address: 22, Via Val Sillaro, Monte Sacro, Municipio Roma III, Roma, Roma Capitale, Lazio, 00141, Italia
+2. Sepolcro del Giovinetto Quinto Sulpicio Massimo. Detailed address: Via Sulpicio Massimo, Sallustiano, Municipio Roma I, Roma, Roma Capitale, Lazio, 00198, Italia",C,10.53,8.57,4.08,11.44
+403,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Babette. Detailed address: 1/d, Via Margutta, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia
+2. Bar Maccagno. Detailed address: 21, Largo Giorgio Maccagno, Balduina, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00136, Italia",D,8.05,5.67,4.72,3.37
+404,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Farmacia Pesci. Detailed address: 89, Via della Stamperia, Trevi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia
+2. Roseto. Detailed address: Via Rosa Raimondi Garibaldi, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00147, Italia",A,4.77,12.45,7.72,8.18
+405,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Laboratorio 3. Detailed address: Via di Pietralata, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00157, Italia
+2. Scuola primaria Ermenegildo Pistelli. Detailed address: Via Achille Papa, Municipio Roma I, Roma, Roma Capitale, Lazio, 00195, Italia",D,13.26,9.31,2.86,6.54
+406,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Figo. Detailed address: 543, Via Nomentana, Monte Sacro, Municipio Roma III, Roma, Roma Capitale, Lazio, 00141, Italia
+2. Batteria Nomentana. Detailed address: Via della Batteria Nomentana, Nomentano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00199, Italia",D,4.41,6.15,1.9,0.52
+407,"What is the straight-line distance between the following two locations? (Unit is km)
+1. L'insalata Ricca. Detailed address: 62, Via del Gazometro, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia
+2. Gran Caffè Balduina. Detailed address: Via Mario Romagnoli, Balduina, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00136, Italia",C,4.2,1.96,6.12,4.17
+408,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Palazzo dell'antica Zecca. Detailed address: 315, Largo Ottavio Tassoni, Ponte, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Città Futura. Detailed address: Via dell'Arcadia, Tor Marancia, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00147, Italia",A,5.55,1.99,8.1,7.56
+409,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Centro Sportivo Santa Maria. Detailed address: 28, Via Matteo Boiardo, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia
+2. Gelato Vale. Detailed address: 37, Corso Vittorio Emanuele Secondo, Pigna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",C,4.53,4.32,2.41,0.64
+410,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Grano & Farina Cooking School. Detailed address: 17, Vicolo della Penitenza, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00120, Italia
+2. Bar Regina. Detailed address: Piazza Regina Margherita, Trieste, Municipio Roma II, Roma, Roma Capitale, Lazio, 00198, Italia",C,6.54,10.01,4.07,11.74
+411,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mashroom. Detailed address: Via Pietro Giordani, San Paolo, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia
+2. Pasta-Eat fast food. Detailed address: 22, Corso Vittorio Emanuele Secondo, Pigna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",D,2.51,5.67,10.74,4.54
+412,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pizza Forum. Detailed address: 38, Via di San Giovanni in Laterano, Celio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
+2. Shelter Music Club. Detailed address: 182, Via Luigi Capuana, Monte Sacro Alto, Municipio Roma III, Roma, Roma Capitale, Lazio, 00137, Italia",B,10.73,7.98,5.63,0.63
+413,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fortezza Est. Detailed address: 62, Via Francesco Laparelli, Torpignattara, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia
+2. Risto Bar. Detailed address: Via Andrea Doria, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia",D,3.68,12.75,14.87,7.99
+414,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ciao Checca. Detailed address: 25;26, Piazza di Firenze, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Fontana del Dolmen. Detailed address: Largo Paul Harris, Celio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",D,0.6,7.37,9.59,2.41
+415,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ristorante Pizzeria In Trastevere. Detailed address: 12, Viale di Trastevere, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia
+2. Barclays. Detailed address: Via Pompeo Magno, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia",C,10.46,8.33,2.47,3.7
+416,"What is the straight-line distance between the following two locations? (Unit is km)
+1. MC Dental. Detailed address: 30, Via Enrico Cosenz, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00159, Italia
+2. Elegance Café. Detailed address: 5, Via Francesco Carletti, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia",A,5.21,9.25,9.46,7.01
+417,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Università degli Studi Internazionali di Roma. Detailed address: Via delle Sette Chiese, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00147, Italia
+2. Santa Maria in Monterone. Detailed address: Via Monterone, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",B,11.45,4.42,7.93,9.97
+418,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Parcheggio AMA. Detailed address: Piazzale Maresciallo Giardino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00195, Italia
+2. Biblioteca del Dipartimento di Scienze politiche (Sede principale Scienze politiche). Detailed address: Viale dell'Università, Nomentano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00185, Italia",C,6.44,7.24,5.27,2.5
+419,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Accademia Filarmonica Romana. Detailed address: 118, Via Flaminia, Pinciano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00196, Italia
+2. KFC. Detailed address: 29, Via Gioberti, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",A,2.95,7.95,10.93,7.31
+420,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Caffè Tirreno. Detailed address: Viale Tirreno, Monte Sacro, Municipio Roma III, Roma, Roma Capitale, Lazio, 00141, Italia
+2. San Clemente. Detailed address: 124, Via di San Giovanni in Laterano, Celio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",D,12.12,8.71,0.68,6.15
+421,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sweet Time Bubble Tea. Detailed address: 62, Via Cipro, Municipio Roma I, Roma, Roma Capitale, Lazio, 00136, Italia
+2. Armonie musicali. Detailed address: 58, Via Alberto da Giussano, Pigneto, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia",D,6.46,1.45,5.69,7.61
+422,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Centro Culturale Islamico Masjeed-E-Rome. Detailed address: 25, Via Gabrio Serbelloni, Torpignattara, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia
+2. Pepe Nero. Detailed address: Via Isonzo, Pinciano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00198, Italia",B,10.97,5.16,7.48,11.26
+423,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Padiglione 2. Detailed address: Comprensorio Santa Maria della Pietà, Via Andrea Verga, Torrevecchia, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00168, Italia
+2. Brucomela. Detailed address: LunEur Park, 100, Via delle Tre Fontane, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia",C,14.21,11.52,12.53,18.12
+424,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Batucada. Detailed address: 6, Via dei Monti Lepini, Monte Sacro, Municipio Roma III, Roma, Roma Capitale, Lazio, 00139, Italia
+2. L'angolo del caffè. Detailed address: Via Alessandro Volta, Testaccio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",B,14.71,9.15,12.46,16.55
+425,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Agip. Detailed address: Piazza Ippolito Nievo, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00120, Italia
+2. Centro vaccinale. Detailed address: 21, Via Boemondo, Nomentano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00162, Italia",B,4.2,5.91,3.07,11.1
+426,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gusto. Detailed address: 11, Via Calatafimi, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia
+2. Il caffettino. Detailed address: Il Caffetino, 80, Via Veturia, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00181, Italia",B,10.74,3.61,8.41,9.79
+427,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Casa di Cura ""San Domenico"". Detailed address: 5, Piazza Sassari, Nomentano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00161, Italia
+2. Istituto superiore Federico Caffè. Detailed address: 86, Viale di Villa Pamphili, Monteverde, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00152, Italia",D,11.91,10.34,3.58,5.79
+428,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Motolandia 99. Detailed address: Infoware, 7, Via Mondragone, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00179, Italia
+2. Metro Bar. Detailed address: 26, Piazza Roberto Malatesta, Pigneto, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia",D,1.28,6.59,7.38,2.36
+429,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Scuola Superiore di Polizia. Detailed address: Via Guido Reni, Flaminio, Municipio Roma II, Roma, Roma Capitale, Lazio, 00196, Italia
+2. Serra monumentale ottocentesca. Detailed address: Viale del Monumento ai caduti francesi, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00165, Italia",B,9.8,4.48,1.79,6.15
+430,"What is the straight-line distance between the following two locations? (Unit is km)
+1. [Terra-vision] Buses for Rome Airport. Detailed address: Via Marsala, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia
+2. Yangguofu Malatang. Detailed address: 52/54, Via dello Statuto, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",D,3.63,3.46,7.17,0.79
+431,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Le Bistro. Detailed address: 26, Via Mario de' Fiori, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia
+2. Good Good pizzeria. Detailed address: 103, Via Latina, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00183, Italia",A,4.74,10.87,6.79,9.2
+432,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Santa Maria d'Itria. Detailed address: Via del Tritone, Colonna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia
+2. Battistero Lateranense. Detailed address: Piazza di San Giovanni in Laterano, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00183, Italia",B,8.45,2.42,8.66,8.04
+433,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tony. Detailed address: Via Luigi Ronzoni, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00151, Italia
+2. Farmacia Balduina. Detailed address: Via Filippo Nicolai, Balduina, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00136, Italia",C,6.91,6.7,5.58,0.52
+434,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Vestiti usati. Detailed address: Viale Giuseppe Mazzini, Municipio Roma I, Roma, Roma Capitale, Lazio, 00195, Italia
+2. Farmacia Dr.ssa Perrotta. Detailed address: 114, Via Lorenzo il Magnifico, Nomentano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00162, Italia",B,3.85,5.1,11.66,0.76
+435,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Santissima Trinità dei Pellegrini ai Catinari. Detailed address: 1, Via della Trinità dei Pellegrini, Regola, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Centro di Preparazione Olimpica Giulio Onesti. Detailed address: 1, Largo Giulio Onesti, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia",B,12.46,5.1,8.13,6.95
+436,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bar Regina. Detailed address: Piazza Regina Margherita, Trieste, Municipio Roma II, Roma, Roma Capitale, Lazio, 00198, Italia
+2. Io e Mammà. Detailed address: 25, Via Giulio Venticinque, Municipio Roma I, Roma, Roma Capitale, Lazio, 00136, Italia",C,9.5,3.44,4.93,9.11
+437,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chiesa di San Biagio della Pagnotta. Detailed address: Via Giulia, Ponte, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Scuola Primaria Europa. Detailed address: 524, Via di Grotta Perfetta, Roma 70, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00014, Italia",B,13.11,7.58,13.72,3.33
+438,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bar l'Orologio. Detailed address: 23, Via del Governo Vecchio, Ponte, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Le fantasie. Detailed address: 46, Via Giacomo Zanella, Monte Sacro Alto, Municipio Roma III, Roma, Roma Capitale, Lazio, 00137, Italia",D,11.57,6.23,13.26,9.33
+439,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ospedale Sant'Eugenio. Detailed address: 10, Piazzale dell'Umanesimo, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia
+2. Ragioneria Territoriale dello Stato di Roma. Detailed address: 22, Via Francesco Antonio Pigafetta, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia",C,11.9,11.65,5.52,0.79
+440,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Biti Bar. Detailed address: 25, Piazzale Jonio, Monte Sacro, Municipio Roma III, Roma, Roma Capitale, Lazio, 00139, Italia
+2. Pizzeria La Boccaccia. Detailed address: Via Gabriello Chiabrera, San Paolo, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia",A,10.91,4.5,7.1,5.51
+441,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Locanda del Tempio. Detailed address: 85, Piazza di Pietra, Colonna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. The Cotton Club. Detailed address: 2, Via Bellinzona, Trieste, Municipio Roma II, Roma, Roma Capitale, Lazio, 00199, Italia",D,8.36,11.0,10.14,3.61
+442,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Esso. Detailed address: Piazza Albania, Ripa, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia
+2. IP. Detailed address: Api-Ip, Corso Trieste, Trieste, Municipio Roma II, Roma, Roma Capitale, Lazio, 00199, Italia",A,5.46,7.66,3.1,13.09
+443,"What is the straight-line distance between the following two locations? (Unit is km)
+1. il Gelatone. Detailed address: 130, Via dei Serpenti, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
+2. IperFreeFood. Detailed address: 15/b, Via Enea, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00181, Italia",B,5.51,3.87,5.82,9.26
+444,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Desideri & caffè. Detailed address: 21;23, Via Gaspare Gozzi, San Paolo, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia
+2. Caffè Ristorante Domus Altieri. Detailed address: Via del Gesù, Pigna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",D,11.72,3.01,10.92,4.44
+445,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dentista dott. Alessio Petrucci. Detailed address: 21, Via Licinio Murena, Quadraretto, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00175, Italia
+2. Bar Caffè Fantini. Detailed address: 127, Via Candia, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia",A,9.99,3.59,17.9,8.81
+446,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Metro Bar. Detailed address: 26, Piazza Roberto Malatesta, Pigneto, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia
+2. Antica DOMUS. Detailed address: 6, Via di San Giovanni in Laterano, Celio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",C,11.43,9.0,3.8,6.0
+447,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Areti Appio. Detailed address: Eni, Via Tuscolana, Torpignattara, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00179, Italia
+2. Higèa S.p.A.. Detailed address: Occidental Aurelia, Via di Torre Rossa, Aurelio, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00167, Italia",C,3.95,16.02,9.53,3.77
+448,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bar Brinda. Detailed address: Via Casilina, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia
+2. Al Simeto. Detailed address: 30/32, Via Simeto, Salario, Municipio Roma II, Roma, Roma Capitale, Lazio, 00198, Italia",C,1.95,9.11,5.39,1.19
+449,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La gallina bianca. Detailed address: 8, Via Antonio Rosmini, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
+2. British School. Detailed address: 32, Circonvallazione Tuscolana, Appio Claudio, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00174, Italia",C,10.95,5.35,7.92,2.93
+450,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Antica Spezieria di Santa Maria della Scala. Detailed address: Farmacia Santa Maria della Scala, 23, Piazza della Scala, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia
+2. Conte Staccio. Detailed address: 65, Via di Monte Testaccio, Testaccio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",B,3.65,1.92,5.46,5.05
+451,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ciro Purpetta. Detailed address: 13, Via Goito, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia
+2. Istituto tecnico Di Vittorio-Lattanzio. Detailed address: Via Torre Annunziata, Municipio Roma V, Roma, Roma Capitale, Lazio, 00177, Italia",B,3.45,4.48,3.39,2.72
+452,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gran Caffè. Detailed address: Piazza Testaccio, Testaccio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia
+2. Agenzia - ROMA TUSCOLANA D. Detailed address: 733, Via Tuscolana, Cinecittà, Tuscolano, Roma, Roma Capitale, Lazio, 00174, Italia",C,10.98,5.56,6.8,14.0
+453,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Giulia & Sisto. Detailed address: 100, Via di San Giovanni in Laterano, Celio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
+2. Caffetteria Fontana. Detailed address: 28c, Via dell'Aeroporto, Cinecittà, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00175, Italia",A,5.73,12.99,6.93,12.55
+454,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Penna d'Oca. Detailed address: 53, Via della Penna, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. USI – Eur Marconi. Detailed address: 139, Viale Guglielmo Marconi, Municipio Roma XI, Roma, Roma Capitale, Lazio, 00146, Italia",A,4.78,9.42,11.08,0.54
+455,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chiosco Grattachecca. Detailed address: Via Magnagrecia, San Giovanni, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00183, Italia
+2. Ufficio postale Roma 85. Detailed address: Piazzale della Farnesina, Municipio Roma XV, Roma, Roma Capitale, Lazio, 00194, Italia",B,2.95,7.2,8.35,12.74
+456,"What is the straight-line distance between the following two locations? (Unit is km)
+1. lightcoffee&bistrot. Detailed address: 4, Via Alfieri, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia
+2. Fatti di farina. Detailed address: 245, Via Galeazzo Alessi, Torpignattara, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia",D,2.46,9.63,9.05,3.47
+457,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ufficio postale Roma 175. Detailed address: 34, Via Ariano Irpino, Pigneto, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia
+2. Vecchia Roma. Detailed address: 12/a, Via Ferruccio, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",C,1.12,8.82,3.37,6.03
+458,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Palazzo Bennicelli. Detailed address: Ambasciata del Belize presso la Santa Sede, 7, Piazza dell'Orologio, Ponte, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. San Giacomo in Augusta. Detailed address: Via del Corso, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",A,1.25,5.29,9.23,6.12
+459,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Serra monumentale ottocentesca. Detailed address: Viale del Monumento ai caduti francesi, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00165, Italia
+2. Residenza Centro ELIS. Detailed address: Chiesa di San Giovanni Battista in Collatino, Via Carlo Alberto Cortina, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00159, Italia",B,6.73,8.74,7.46,2.83
+460,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Casamento Scipioni. Detailed address: Giardino di Villa Paolina, Via Palestro, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00198, Italia
+2. Santi Benedetto e Scolastica all’Argentina. Detailed address: I Vicini Bistrot, 70, Via di Torre Argentina, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",A,2.28,8.67,7.75,5.05
+461,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Farmacia Balduina. Detailed address: Via Filippo Nicolai, Balduina, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00136, Italia
+2. Iside. Detailed address: Via Labicana, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",D,0.84,0.56,12.5,5.87
+462,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Giuseppe Tornatora. Detailed address: 197, Via dei Prati Fiscali, Monte Sacro, Municipio Roma III, Roma, Roma Capitale, Lazio, 00141, Italia
+2. Ristorante Pizzeria In Trastevere. Detailed address: 12, Viale di Trastevere, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",B,2.06,7.45,14.42,3.37
+463,"What is the straight-line distance between the following two locations? (Unit is km)
+1. L'hostaria. Detailed address: 82-90, Via Tripolitania, Trieste, Municipio Roma II, Roma, Roma Capitale, Lazio, 00199, Italia
+2. Flower Burger. Detailed address: 87, Via dei Gracchi, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia",A,5.5,12.52,13.04,11.35
+464,"What is the straight-line distance between the following two locations? (Unit is km)
+1. IP. Detailed address: Api-Ip, Corso Trieste, Trieste, Municipio Roma II, Roma, Roma Capitale, Lazio, 00199, Italia
+2. L'hostaria. Detailed address: 82-90, Via Tripolitania, Trieste, Municipio Roma II, Roma, Roma Capitale, Lazio, 00199, Italia",C,6.2,5.78,0.92,7.61
+465,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pizza Time. Detailed address: Piazza Benedetto Cairoli, Regola, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Admiral. Detailed address: Via Carlo della Rocca, Torpignattara, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia",C,12.6,12.76,5.92,8.63
+466,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Grigliera. Detailed address: Via Flavia, Sallustiano, Municipio Roma I, Roma, Roma Capitale, Lazio, 00198, Italia
+2. Biblioteca di Scienze giuridiche - sede Diritto processuale civile. Detailed address: 5, Piazzale Aldo Moro, San Lorenzo, Municipio Roma II, Roma, Roma Capitale, Lazio, 00185, Italia",A,1.46,8.93,3.57,7.08
+467,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Centri sportivi federali. Detailed address: Via dei Campi Sportivi, Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, 00191, Italia
+2. Casa cantoniera. Detailed address: Marconi, Via dei Caduti Senza Croce, San Paolo, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia",B,10.94,9.8,13.31,14.05
+468,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Biblioteca del Dipartimento di Scienze politiche (Sede principale Scienze politiche). Detailed address: Viale dell'Università, Nomentano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00185, Italia
+2. Buenos Aires. Detailed address: Piazza Buenos Aires, Trieste, Municipio Roma II, Roma, Roma Capitale, Lazio, 00198, Italia",B,6.94,1.95,4.4,5.31
+469,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Babington's. Detailed address: Piazza di Spagna, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia
+2. Radio Città Futura. Detailed address: Via Celsa, Pigna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",D,5.86,5.46,2.67,1.2
+470,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pescheria del mare. Detailed address: 45/A, Via delle Robinie, Prenestino-Centocelle, Municipio Roma V, Roma, Roma Capitale, Lazio, 00172, Italia
+2. L'insalata Ricca. Detailed address: 62, Via del Gazometro, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia",C,1.55,11.62,7.32,9.88
+471,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sweety Gelato. Detailed address: 9, Via del Biscione, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Tony. Detailed address: Via Luigi Ronzoni, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00151, Italia",C,5.83,10.54,4.0,11.62
+472,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Centro Nuovi Orizzonti. Detailed address: Via Gerolamo Frescobaldi, Pinciano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00198, Italia
+2. Cafè Cafè. Detailed address: 44, Via dei Santi Quattro, Celio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",B,10.39,3.16,2.12,6.07
+473,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Meaters - Brace Bar. Detailed address: 2, Via Riano, Tor di Quinto, Municipio Roma XV, Roma, Roma Capitale, Lazio, 00194, Italia
+2. Ciro. Detailed address: 82, Via Catania, Nomentano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00161, Italia",D,10.24,3.58,12.75,5.37
+474,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Scuola Primaria Europa. Detailed address: 524, Via di Grotta Perfetta, Roma 70, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00014, Italia
+2. Scala Santa. Detailed address: 14, Piazza San Giovanni in Laterano, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00183, Italia",B,1.64,5.52,11.89,3.18
+475,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Good Good pizzeria. Detailed address: 103, Via Latina, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00183, Italia
+2. Da Romolo. Detailed address: 12, Vicolo del Campanile, Borgo, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia",B,3.55,5.67,13.56,2.41
+476,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Casa cantoniera. Detailed address: Marconi, Via dei Caduti Senza Croce, San Paolo, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00145, Italia
+2. Parrocchia Santissimo Redentore. Detailed address: 63, Via Monte Ruggero, Monte Sacro, Municipio Roma III, Roma, Roma Capitale, Lazio, 00139, Italia",C,19.25,17.14,11.71,8.95
+477,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bar Lepanto. Detailed address: Viale Giulio Cesare, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00195, Italia
+2. Pizza Family. Detailed address: 223, Viale dei Quattro Venti, Monteverde, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00152, Italia",A,4.08,10.45,5.19,7.33
+478,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Villa Hüffer. Detailed address: 192, Via Nazionale, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
+2. Chiesa di Santa Maria della Pietà. Detailed address: Via della Sagrestia, Borgo, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia",B,4.89,2.91,6.19,10.07
+479,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Farmacia Tuscolana. Detailed address: 7, Largo Spartaco, Quadraretto, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00174, Italia
+2. Cariparma Credit Agricole. Detailed address: 139 / 157, Via Francesco Grimaldi, Municipio Roma XI, Roma, Roma Capitale, Lazio, 00146, Italia",D,11.14,3.56,11.94,7.23
+480,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Marzapane. Detailed address: 39, Via Velletri, Salario, Municipio Roma II, Roma, Roma Capitale, Lazio, 00198, Italia
+2. Babbo's. Detailed address: 13, Via Volturno, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",A,0.86,5.09,3.06,5.42
+481,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Flower Burger. Detailed address: 87, Via dei Gracchi, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia
+2. Sottosopra. Detailed address: 64f, Via Alberto da Giussano, Pigneto, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia",B,11.5,6.36,1.67,2.48
+482,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Il Goccetto. Detailed address: 14, Via dei Banchi Vecchi, Ponte, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+2. Bon Bon. Detailed address: Via Principe Eugenio, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",B,8.67,3.54,8.86,6.69
+483,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bar Prisco. Detailed address: 84, Via Tarquinio Prisco, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00181, Italia
+2. Piccola Roma. Detailed address: Via degli Uffici del Vicario, Colonna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",C,12.01,9.36,4.58,6.19

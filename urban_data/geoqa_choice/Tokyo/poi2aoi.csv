@@ -1,0 +1,573 @@
+id,question,answer,A,B,C,D
+0,"Which AOI in the Tokyo area do the following POIs belong to? POIs: スターバックス, ダイドードリンコ, コカ・コーラ, 伊藤園",C,（仮称）豊島区・戸村様マンション新築工事,CCP 北綾瀬第1駐輪場,新宿御苑,OTビル
+1,"Which AOI in the Tokyo area do the following POIs belong to? POIs: グッドフレンズベンチ, 小石川樹木園, グッドフレンズベンチ, グッドフレンズベンチ",A,小石川植物園,ドミノ,BEAKER日本橋人形町,目白博物館ビル
+2,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ラズベリードール, キッチンジロー ニュー新橋店, チャーハン王 新橋店, ニュー新橋ビル内郵便局",B,ボヌール北町,NEWしんばしビル,泉岳寺駅地区第二種市街地再開発事業,サンライズ大山マンション
+3,"Which AOI in the Tokyo area do the following POIs belong to? POIs: カフェ アーペ, 食堂コマニ DINING LABO, BBQ場, アーペ クッチーナ ナチュラーレ",B,東京都立 三田高等学校,東京大学 駒場リサーチキャンパス,パークサイド日東,銀座オオイビル
+4,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Mr. FARMER, 駒沢オリンピック公園きりんさんパーキング, 駒沢オリンピック公園 弓道場駐輪場, 駒沢オリンピック公園Aゲートプロムナード下（階段横）",B,ホテル・オーロラ,駒沢オリンピック公園総合運動場,プラザ双葉,西坂公園
+5,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Starbucks, Mist Fountain, TOTOPA, BLUESIX COFFEE",B,エビススバルビル,都立明治公園,エコロパーク,須藤造園
+6,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ミスタードーナツ, くら寿司, 大戸屋, 牛骨らぁ麺マタドールANNEX",D,ペントス神田五軒町,声優ミュージアム,金刀比羅神社,LaLaテラス南千住
+7,"Which AOI in the Tokyo area do the following POIs belong to? POIs: サンマルクカフェ, かつや, マクドナルド, ミスタードーナツ",B,豐榮稲荷神社,アリオ西新井,阿佐ヶ谷けやきビル,第5電波ビル
+8,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 豊島東児童館, としま幼稚園(休園中), 豊島東保育園, 豊島北保育園",A,豊島五丁目団地,大修館書店,スターバックス リザーブ ロースタリー,GlassCityKORAKU
+9,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 有楽町イトシア, スターバックス, 品川近視クリニック, クリスピー・クリーム・ドーナツ",D,駒沢変電所,ガーデンコート世田谷赤堤,セガ秋葉原,有楽町イトシア
+10,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 海上幕僚監部, 海上自衛隊システム通信隊群司令部, 技術研究本部, 情報本部",B,リュミエールK,防衛省市ヶ谷地区,桜上水南パークハウス,練馬キングス・ガーデン
+11,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 昌平まちかど図書館, 神田児童館, 小学館アカデミー昌平保育園, 昌平幼稚園",C,ティーホック,オーケーストア,千代田区立 昌平小学校,ディアクオーレ駒込染井
+12,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ヨドバシ, 和幸, とんかつ浜勝, りそな銀行",D,ジュネスハイムB,大手町ビルヂング,互助交通（有）,ヨドバシAkiba
+13,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 福寿, はま寿司, ガスト, The Rose & Crown",A,BiTO AKIBA PLAZA,寿ビル,江南センター,明月館
+14,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 中野区紅葉山文化センター, 中野区立中央図書館, なかのZERO, 中野ZEROホール",D,和田堀公園,新居ビル,（解体中）,中野区もみじ山文化センター
+15,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 東京科学大学（歯学部）, 御茶ノ水郵便局, 生協食堂, 東京科学大学病院",D,東海大学付属高輪高等学校・中等部,癸生川ビル,アンバー中目黒,東京科学大学 湯島キャンパス
+16,"Which AOI in the Tokyo area do the following POIs belong to? POIs: サーティワンアイスクリーム, サブウェイ, 築地銀だこ, イオンシネマ",D,プリヴェール目黒行人坂,グリーンヒル本郷,藤田ビル,イオン板橋ショッピングセンター
+17,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 青山学院女子短期大学, 青学つくまなラボ, 私立青山学院中等部, 青山学院南",D,コインパーキング,Tokyo Apartments Shinagawa,東京都立 城東高等学校,青山学院大学
+18,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 萬來社, 慶應義塾大学（その他）, 山食, 慶應義塾大学（経済学部）",D,北の丸公園,中茂ビル,ハイツ日本橋中洲,慶應義塾大学 - 三田キャンパス
+19,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ミネドラッグ, ドトールコーヒーショップ, 中野の森広場公園, ミネドラッグ",D,芹澤ビル,慈光寺,社会福祉法人ケアネット　特別養護老人ホーム弥生ホーム,中野坂上サンブライトツインビル
+20,"Which AOI in the Tokyo area do the following POIs belong to? POIs: スターバックス, マクドナルド, 万世麺店 有楽町店, サンマルクカフェ",A,有楽町ビルヂング,中央工学校８号館,プレシャス赤塚,越前屋ビル
+21,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 東京農業大学（応用生物科学部）, 学術情報センター（図書館）, 東京農業大学短期大学部, 東京農業大学（国際食料情報学部）",C,HLビル,Nishiazabu 1106,東京農業大学,マイム麻布ビル
+22,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 昭和女子大学（文学部）, 私立昭和女子大学附属昭和小学校, 昭和女子大学（生活科学部）, 昭和女子大学附属昭和幼稚園",D,田山ビル,KITAYAMA BILD,明治安田生命王子ビル,昭和女子大学
+23,"Which AOI in the Tokyo area do the following POIs belong to? POIs: DEAN & DELUCA, 北海道 くろまる 上野店, 東京都台東区上野3丁目24-6　パ, TOHOシネマズ 上野",B,ステージグランデ東池袋駅前,松坂屋,三井のリパーク,MITOYA
+24,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Green dog, IVY PLACE, Dog Garden, スターバックス",C,COMS,虎ノ門東宝ビル,代官山 T-SITE,MARUHAN
+25,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 黄金の蔵, さくらさくら, ガイア 渋谷店, 魚民",C,岸本ビル,斉信ビル,渋谷駅前会館(飯島ビル),恵比寿山仁ビル
+26,"Which AOI in the Tokyo area do the following POIs belong to? POIs: みずほ銀行, 田町駅西口第4・第5暫定, ドトールコーヒーショップ, やまとや",B,民音文化センター,田町センタービル,タイムズ,戒行寺
+27,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 私立東京文化中学校, 新渡戸文化幼稚園, 私立新渡戸文化高等学校, 東京文化幼稚園",A,新渡戸文化学園,ホテル・グラス,飛鳥山 スカイハイツ,赤坂泉屋山田ビル
+28,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 私立女子美術大学付属高等学校, 女子美術大学（芸術学部）, 私立女子美術大学付属中学校, 女子美術大学短期大学部",D,アトリエ コータ,ヴェルト板橋イースト,帝京科学大学千住キャンパス,女子美術大学
+29,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 塚田農場, 魚民, 秋葉原ホルモン, 快活CLUB",A,AOKI,プラチナ ドン･キホーテ,U Biz 神田神保町,上野ターミナルホテル
+30,"Which AOI in the Tokyo area do the following POIs belong to? POIs: めん処つるや, 蕎麦屋 竹若, 上野警察署上野駅交番, 千疋屋",B,むさしの,上野駅,アイエスビル,千葉マンション
+31,"Which AOI in the Tokyo area do the following POIs belong to? POIs: パラレルルーム, オンステージ, 夜宴迷宮, 誠酒屋",B,日本橋中央ビル,T&K Akiba BLDG,氷川台駅第五自転車駐車場,KHARITES SASAKI
+32,"Which AOI in the Tokyo area do the following POIs belong to? POIs: みけねこカフェ, 牛かつ　壱弐参, マチガイネッ サンドウィッチズ, 刀削麺荘 唐家",D,ラインビルド高円寺,三井のリパーク,タイムズ,渡辺ビル
+33,"Which AOI in the Tokyo area do the following POIs belong to? POIs: バグース, エクセルシオール カフェ, サイゼリヤ, ワンカラ",C,ディアレイシャス菊川,TANAKA BILL,AKIBA Place,新宿駅東口東側パーキングチケット③
+34,"Which AOI in the Tokyo area do the following POIs belong to? POIs: とんこつらーめん博多風龍, ドールハウス, AIN SOPH AUR, Fairy Garden",A,秋葉原M2ビル,中健ビル,大輝ビル,"K,s BLD."
+35,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 元祖寿司, 横浜くりこ庵, カフェ フレスカ, GIGO2号館",B,泉家タオル店,半田ビル,私立 宝仙学園 中学校・高等学校,大黒屋
+36,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ビッグアップル 秋葉原店, NIJYU-MARU, 塚田農場, 甘太郎",A,Big Apple,港区立 本村小学校,西垣荘,冨士野ビル
+37,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 牛かつ もと村, 牛角, 韓無量, きづなすし",D,NishiHara BLDG,星野ビル,Victoria Language Center,奥山ビル
+38,"Which AOI in the Tokyo area do the following POIs belong to? POIs: めいどりーみん, クラブセガ, 土間土間, 牛角",A,セガ秋葉原,私立 城西大学附属 城西中学校 高等学校,豊島園パークハイツ (Toshimaen Park Hights),荒川区立峡田小学校
+39,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 丸亀製麺, XR BASE produced by NTT QONOQ, スターバックス, 猿田彦珈琲",B,Break 24h,アトレ秋葉原1,アーク入谷,慶應義塾大学 - 三田キャンパス
+40,"Which AOI in the Tokyo area do the following POIs belong to? POIs: どうぶつメイド あにま〜る, めいどりーみん秋葉原ひみつきち, パレスゲート, Grand Pirates Cafe & Bar",D,石井ビル,飯塚平安第一公園,yasinomi park,銭谷ビル
+41,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 丸十精肉店, 東京レジャーランド秋葉原2号店, AKB48劇場, 築地銀だこ",B,明治屋 ビル,ドン・キホーテ,廣川ビルディング,エネオス
+42,"Which AOI in the Tokyo area do the following POIs belong to? POIs: マーチャオカプリコン, すき家, サントリー, 東京ボイストレーニングスクール",B,STKビル,松孝商事ビル,マルヘイタワービル,宮代住宅
+43,"Which AOI in the Tokyo area do the following POIs belong to? POIs: AKIBA BASE, from scratch, Cat Cafe Mocha, Carl's Jr.",C,ホテル・コア,TMビル,秋葉原SILビル,はし臓
+44,"Which AOI in the Tokyo area do the following POIs belong to? POIs: カフェバー　White&Cross Load, LiveCafe&bar ティア, 僕と猫, アキバ歯科",B,鹿浜二丁目自転車駐車場,小木曾ビル,ホテル・ルアラ,Partner
+45,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Magic &Live iQ, アキバダンススタジオ, タニマ, ナチュラリア",A,松井ビル,石山ビル,クリスタルコート88,乙女ロード
+46,"Which AOI in the Tokyo area do the following POIs belong to? POIs: マジカルツインテール, スターリーフォレスト, CoCo都可, 洋食は飲み物。",B,クレア岩本町,A-FRONT,Partner,国立新美術館
+47,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 国士舘大学（文学部）, 国士舘大学（政経学部）, 香苑レストラン, 国士舘大学（法学部）",B,YMD Bldg,国士舘大学 世田谷キャンパス,松沢ビル,三井のリパーク
+48,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 鉄鋼ビル郵便局, 京都銀行, そねクリニック, セブン銀行",D,北区立稲付中学校,関南ハイツ,東京都下水道局 みやぎ水再生センター,鉄鋼ビルディング
+49,"Which AOI in the Tokyo area do the following POIs belong to? POIs: サピアタワーアイクリニック東京, ステーションコンファレンス東京, スターバックス, Papa Milano Trattoria",D,小林ビル,浅草橋四丁目会館,寿ビル,サピアタワー
+50,"Which AOI in the Tokyo area do the following POIs belong to? POIs: AKIHABARA FUN, 炭の魂, maidcafe & bar HONEY & BAKE, Akiba Sanatorium",C,タイムズ,山本アパート,Akihabara Park Bilg,八重洲セントラルパークビル
+51,"Which AOI in the Tokyo area do the following POIs belong to? POIs: フラペコ, ブラックシンデレラ, 男装カフェ, MOTTO",D,イリュウ巣鴨ビル,東和四丁目アパート,アップルパーク,アキバあそび館
+52,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 楽丸, 三菱UFJ銀行, サイゼリヤ, 銀座コージーコーナー",D,銀座大栄ビル,PF BUILDING,陽壽院,名店ビル
+53,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 日産レンタカー, SEIBU FITNESS CLUB, エクセルシオール カフェ, ももちゃんナーサリー",A,BIG BOX,宗谷,第22東ビル,稲荷公園
+54,"Which AOI in the Tokyo area do the following POIs belong to? POIs: IL PINOLO青山, 加賀料理 青山 浅田, てんぷら天翔, 郵便ポスト",B,江東区立 第二亀戸小学校,アラマンダ青山,浜田家,老人クラブ農園No.61
+55,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ファンファランナ, 岡村診療所, 専売ビル, ドコモ・バイクシェア",D,中西ビル,新宿区立西新宿児童館,斉藤工業,専売ビル
+56,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 焼肉 富士家 青山店, サンマルクカフェ, 渋谷青山通郵便局, ナマステインドアジアンダイニング (Namaste Indian Asian Dining)",D,宗慶寺,原宿パークマンション,マツモトビル,青山オーバルビル
+57,"Which AOI in the Tokyo area do the following POIs belong to? POIs: アーク森ビル内郵便局, スターバックス, WOLFGANG PUCK, アークヒルズ（アーク森ビル）",C,ビューテラス芝公園,渡部ビル,アークヒルズ,ジャストパーク
+58,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 一風堂, 下町天丼 秋光, 丸亀製麺, ROX・3Gスーパーマルチコート",B,第2山万ビル,ROX・3G,小山ビル,銀座ノアビル
+59,"Which AOI in the Tokyo area do the following POIs belong to? POIs: くら寿司, ドトールコーヒーショップ, 博多一風堂 浅草ROX・3G店, サンマルクカフェ",D,私立 上野学園大学 短期大学部 高等学校 中学校,Repark,Urbanex Kikukawa Ⅲ,浅草ROX
+60,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 地域生活支援センター　こかげ, BATON, ココカラファイン, あさひ",A,Air Rise Tower,第一浜松町ビル,お茶の水廣田ビル,宝ビルディング
+61,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ライズシティ池袋駐輪場, 豊島区立中央図書館・ひかり文庫, 豊島区立中央図書館, あうるすぽっと",C,泉工医科工業株式会社,ヴィーナ・パルテール,ライズアリーナビル,シャモール南青山
+62,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ねぎし, ドラッグ セガミ, くら寿司, マクドナルド",A,稲門ビル,新宿第2キャステール,Araiya,竹中雛人形製作所
+63,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Forchetta, 炭火串焼 半兵衛, 牡蠣と魚 海宝, Hakuri Tabai Hanbey",A,ヴィラ・オート・ヴァーグ,AKIBA Place,須田ビル,ユーデン浜松町ビル
+64,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 東京国税不服審判所, 国土地理院関東地方測量部, 東京法務局, 東京国税局麹町税務署",C,南千住第四児童遊園,ヒューマックスパビリオン,九段第2合同庁舎,クリーニング ピュア
+65,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 技術研究本部電子装備研究所, 技術研究本部先進技術推進センター, 自衛隊中央病院, おひさま保育園",C,桜沢ビル,西新宿ビル,陸上自衛隊 三宿駐屯地,第二鈴正ビル
+66,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 麺屋 こいけ, Starbucks, 横浜銀行, ドトールコーヒーショップ",A,青山ビルヂング,エムズビル,こまどり公園,足立区立栗原小学校
+67,"Which AOI in the Tokyo area do the following POIs belong to? POIs: あおばクリニック, みずほ銀行, 洋麺屋五右衛門, グルメタウン",C,中央区立 日本橋中学校,グローリア田柄,渋谷第一勧銀共同ビル,＆AND HOSTEL AKIHABARA
+68,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 日本海庄や, 魚民, 月の雫, 東方見聞録",B,荒川総合スポーツセンター,PaLeTTe,私立 中村中学校 高等学校,元気プラザビル
+69,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Kyubei Sushi at Keio Plaza Hotel, アートラウンジ デュエット, 京王プラザホテル, 京王プラザホテル",B,グランドメゾン西麻布,京王プラザホテル,新和レッヂ,FP Akihabara Bldg
+70,"Which AOI in the Tokyo area do the following POIs belong to? POIs: スターバックス, りそな銀行, LEC 東京リーガルマインド, SBI新生銀行",D,第一岡ビル,センダビル,スターバックス リザーブ ロースタリー,新宿エルタワー
+71,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 五右衛門, にゅう鳥金, 星乃珈琲店, 餃子の王将",D,浅草聖ヨハネ教会,シークパレス,東京都立 蔵前工業高等学校,MAGNET SHIBUYA
+72,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 三菱UFJ銀行, ざくろ, Zakuro Ginza (Wagyu Shabu Shabu), TOP's",D,西落合公園少年野球場,パーク ピジョン,福富ビル,銀座三和ビル
+73,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 三越銀座店 9階 授乳室, 三囲神社, 三越銀座店 9階 オムツ交換室, タリーズコーヒー",A,三越銀座店,SOBE中目黒,初台パーキング,大洋ビルディング
+74,"Which AOI in the Tokyo area do the following POIs belong to? POIs: にわか, 紅とん, ひもの屋, タベルナ・ベオーネ",B,高島ＢＩ,芝ビル,勝文館ビル,窪町東公園
+75,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 内弁慶, 金の藏, ぢどり亭, かに地獄",B,コモド・アミ,建築会館,渋谷教育学園渋谷中学校・高等学校,築地川亀井橋公園
+76,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 富士そば, くろ○, 学虎, もりと",B,オリンポスコマキ,三田ステーションビル,O&K 111,柳二町会防災庫
+77,"Which AOI in the Tokyo area do the following POIs belong to? POIs: しゃぶしゃぶ温野菜, はじめ製麺, 北海道, マクドナルド",D,はらじゅくアッシュ,江東区立大島西中学校,Navi Park,勝文館ビル
+78,"Which AOI in the Tokyo area do the following POIs belong to? POIs: サーティワンアイスクリーム, Wired Cafe, C&Cカレー, Soup Stock Tokyo",A,フレンテ明大前,天翔上野末広町ビル,野田ビル,α Max 1
+79,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Umeboshi Sour Speciality Shop Ebisu, 野地眼科クリニック, 恵比寿ファーマシー, Bar Martha",C,タイムズ高輪第17,東京デザインセンター,ヴェラハイツ恵比寿,グリーンビル
+80,"Which AOI in the Tokyo area do the following POIs belong to? POIs: パール薬局, 赤羽こころの森クリニック, 中村耳鼻科, 赤羽南クリニック",C,ドエル・ササキ,K-suite Sotokanda,赤羽南ビル,今戸公園
+81,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 白木屋, コートダジュール, 松屋, 魚民",B,太平ビル,丸澤ビル,高輪中台マンション,KENTビル
+82,"Which AOI in the Tokyo area do the following POIs belong to? POIs: からおけ747, 隠れ野, きざみ, 白木屋",D,南砂三丁目第2アパート,バス停,葛飾区立 飯塚小学校,第一渋観ビル
+83,"Which AOI in the Tokyo area do the following POIs belong to? POIs: レコードバー３３回転, 松岡薬局, 多古菊, はなこ",C,ユーハウス,パークホームズ武蔵小山,東京 FIVE BLD,Kdx浜松町センタービル
+84,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ドトールコーヒーショップ, グリーンコート内科クリニック, 御旦孤, 文京グリーンコート郵便局",D,ロイヤルガーデン武蔵小山,ビストロDEまいど,CLAUDIA TOKYO,文京グリーンコート
+85,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 和民, さくら水産, 彩, 八吉",B,TIME PARKING,ルシマン田町,ベルハイツ鈴木ビル,Nohara Building
+86,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 神楽屋, 山家, suzuki, 河童",A,THE RENGA,フジハイツ,プロス西新橋ビル,日の丸交通
+87,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 蒙古タンメン中本, キーフェル, miami villa, 東宝シネマ",B,祥雲寺,渋東シネタワー,佐藤ビル,上平井変電所
+88,"Which AOI in the Tokyo area do the following POIs belong to? POIs: The Dubliners' Café & Pub, モスバーガー, ロイヤルホスト, サンマルクカフェ",C,DOSHISHA,東新橋ビル,道玄坂センタービル,カーサマリモ
+89,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 一蘭, 丸亀製麺, ポムの樹 渋谷スペイン坂店, マツモトキヨシ",D,サンデュオ,井上紙化工業所,喜田家,子安ビル
+90,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Jazz bar 琥珀, Lad’s Dining, PRONTO, event lounge warp",C,タキイ東京ビル,NTTル・パルク 杉並成田東第１駐輪場,渋谷ブラザービル,佐藤ビル
+91,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ChugaiGraceCAFE, Cheese Dish Factory, atari CAFE&DINING, いちらん",D,タイムズ,フレスカ松濤,小花ビル,BINGO モディ
+92,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ヨシモト∞ドーム, ヨシモト∞ホール, ディッパーダン, 鍋ぞう",A,渋谷ビーム,ARANCIA,Matsuya BLD.,タイムズ
+93,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 光, 暖家, かまどか, 土間土間",A,皆川ビル,エリート・イン湯島,LAND FOREST 浅草千束,東京女子医科大学
+94,"Which AOI in the Tokyo area do the following POIs belong to? POIs: めいどりーみん, 新時代, 牛角, 北の大衆酒場 キタシブ",B,東尾久五丁目防災スポット,蓬菜屋第三ビル,スカイレジデンス中目黒,サンブリヤ浅草橋
+95,"Which AOI in the Tokyo area do the following POIs belong to? POIs: スターバックス, 国際協力機構青年海外協力隊事務局, 新宿マインズタワー, 国際協力機構",B,日本聖公会東京教区聖パウロ教会,新宿マインズタワー,ハイツ小林,赤坂丸ビル
+96,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 小諸そば, 小諸そば, あきやま歯科, Rick Mak",B,マスキチビル,グリーンハウス,清水ビル,Yamada Bldg.
+97,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 都市再生機構東京都心支社, 新宿アイランド郵便局, 都市再生機構東日本支社, 都市再生機構募集販売本部",B,晴海西小学校・晴海西中学校,新宿アイランドタワー,川村中学校・高等学校,目白ニューハイブリッジマンション
+98,"Which AOI in the Tokyo area do the following POIs belong to? POIs: シナモン, ミルザ, 遊可憐, alba",A,三経43,佐々木医院,ダコタハウス,シャーメゾン ロメリアス
+99,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Blackhole, 新宿ニューアート, Zirco, HUB",A,東陽ビル,リビオ練馬中村橋,ルモンド代官山,都営戸山ハイツアパート
+100,"Which AOI in the Tokyo area do the following POIs belong to? POIs: スターバックス, ドトールコーヒーショップ, 天吉屋 新宿店, Paul Bassett",C,タイムズ上落合3,STOUT BLDG.,新宿野村ビル,順天堂
+101,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 伊藤園, 駿河台クリニック, 伊藤園, ナポリの下町食堂",B,東京都立江戸川高等学校,ニュー駿河台ビル,第89東京ビル,聖マリアン保育園
+102,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Nightfly, Uplink 渋谷, Uplink, ガガナラーメン極 渋谷店",C,私立 駿台学園中学校 高等学校,昇龍館ビル,Totsune Building,ソネットII
+103,"Which AOI in the Tokyo area do the following POIs belong to? POIs: サンマルクカフェ, Kahemi cafe, Nishimura Fruits Parlor, はなまるうどん",A,渋谷ホームズ,タイムズ 下赤塚駅北,エンドーストア,キャスティング
+104,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Segafredo, 創作DINING彩, やすべえ, あおい通り",C,長谷工コーポレーション,源信寺,久保ビル,KAWANOANNEX
+105,"Which AOI in the Tokyo area do the following POIs belong to? POIs: サイゼリヤ, スギ薬局, クライネヒュッテ, 日本心臓血圧研究振興会附属榊原記念病院",C,東尾久五丁目 南児童遊園,渋谷ソラスタ,ラウンドクロス新宿,美宝堂ビル
+106,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 達翁, 浜勝, 長崎ちゃんぽん, リンガーハット",B,サーティワンパート7,西新宿国際通ビル,ウエスタンハイツ,松岸ビル
+107,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Hemelミヤマス, 日米英語学院, 串だおれ, 宮益坂眼科",C,広尾荘,新長島川親水公園,CR VITE,桜の里
+108,"Which AOI in the Tokyo area do the following POIs belong to? POIs: PRONTO, nijumaru, 和幸, ルノアール",B,Motopark御茶ノ水,メトロプラザ,森五会館,セントヒルズ本郷弥生
+109,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 渋谷矯正歯科, 渋谷内科呼吸器アレルギークリニック, MIENAI矯正システムWHITE DENTAL SALON, マグノリア皮膚科クリニック",D,港区立 高輪台小学校,新宿セントランドビル,ジオグランデ元麻布,第27SYビル
+110,"Which AOI in the Tokyo area do the following POIs belong to? POIs: しおざき内科, クオール, 薬ヒグチ, もうやんカレー",C,かっぱ公園,初台パークサイドハイツ,青山セブンハイツ,鳥常
+111,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Glorious chain café, ヒューマントラストシネマ渋谷, 東京カルチャーカルチャー, Double tall coffee bar",D,プラザ西新宿,北新井公園,旧豊島区立 第十中学校,cocoti
+112,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 美容外科青山, いきなり！ステーキ, El Castellano, Tee-Tee",D,板橋中央総合病院  A館第2駐車場,アルテビル浜松町,本郷三丁目臨時自転車駐輪場,インテリックス青山通ビル
+113,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 大戸屋, Teddy Bigger Burgers, Teddy's Bigger Burgers, 大戸屋",C,荒木公園,丸和ビル,宮崎ビル,TDGビル
+114,"Which AOI in the Tokyo area do the following POIs belong to? POIs: てんや, てんや, Roast Beef Ono, くら寿司",A,YMスクウェア原宿,アーク入谷,西麻布BLESS,東京包装センター
+115,"Which AOI in the Tokyo area do the following POIs belong to? POIs: タリーズコーヒー, Golden brown, やさい家めい, 表参道ヒルズspatzle cafe&wine",A,表参道ヒルズ,cafe Oral,コーポユキ,きらぼし銀行
+116,"Which AOI in the Tokyo area do the following POIs belong to? POIs: タリーズコーヒー, こころとからだの元氣プラザ, Bettola Sanbal, 神保町三井ビルディング",A,神保町三井ビルディング,新井屋酒店,練馬区立神明ふれあい緑地,東京都立工芸高等学校
+117,"Which AOI in the Tokyo area do the following POIs belong to? POIs: とんかつ うちの, ドトールコーヒーショップ, ティーヌン, 松屋",B,秋葉原鴻池ビル,ICHIGAYA PLAZA,クレール千寿,NPC24H
+118,"Which AOI in the Tokyo area do the following POIs belong to? POIs: EXCELSIOR CAFFE, 山王パークタワー内郵便局, スターバックス, SPICE DINNER",B,住吉コートクEAST,山王パークタワー,京橋大栄ビル,北沢やまもも広場
+119,"Which AOI in the Tokyo area do the following POIs belong to? POIs: niku kitchen BOICHI, CoCo壱番屋, 庄や, 屋台DELI",D,三田ヒルズ,新宿郵便局,御蔵前公園,永田町法曹ビル
+120,"Which AOI in the Tokyo area do the following POIs belong to? POIs: すき家, ダーリントンホール, 東京高等裁判所内郵便局, レストランアターブル",C,東尾久四丁目 児童遊園,Miura PARKING,東京高等地方簡易裁判所合同庁舎,恵比寿山仁ビル
+121,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 東京保護観察所, 検察官適格審査会, 東京地方裁判所東京簡易裁判所墨田分室(仮庁舎), 司法試験委員会",D,NaviPark,昭和女子大学,A-FRONT,法務省赤れんが棟
+122,"Which AOI in the Tokyo area do the following POIs belong to? POIs: セントラル青山, 天ぷら天青, たゔぇるな, カヨデンタルクリニック",C,Akasaka Four Deer Bldg,大崎ニューシティ,セントラル青山,目白スターハイツ
+123,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 富士そば, 庄や, 桜亭, 麹町咖喱",A,加藤ビル(大谷忠男商事ビル),レジデンス アンドウ,HF池袋ビルディング,協栄レジデンス
+124,"Which AOI in the Tokyo area do the following POIs belong to? POIs: スシロー, Tokori Shinjuku Nowa Yakiniku, シネマカリテ, 美々卯",D,アーバンハイム,三井のリパーク,ブーランジェリー ジュモー,新宿東口ＮＯＷＡビル
+125,"Which AOI in the Tokyo area do the following POIs belong to? POIs: はま寿司, Burness Style, マクドナルド, Jump One",C,あぶみぞん本郷,富士見湯,秋葉原センタープレイスビル,COIN PARK
+126,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ガスト, しゃぶしゃぶ温野菜, Aslan kebab, 日高屋",A,川初ビル,蔵前ATビル,ドルチェヴィータ,J3ビル
+127,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 庄や (Shoya), ゆうちょ銀行, 山笠 (Yamagasa), マツモトキヨシ",D,ルブラン平塚,SYD修養団,ユニオン駅前ビル,カグラビルズ
+128,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 紅龍, 九頭龍蕎麦, 一品香, 味角苑",C,ワルトハイム西麻布,江北二丁目北,野本ハイツ,Business Guide-sha
+129,"Which AOI in the Tokyo area do the following POIs belong to? POIs: deep, ファイン (Fine), OZ, 俺流塩らーめん",A,第83東京ビル,Hilton Tokyo,Times,岩本町駅 A6
+130,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 大勝軒, 大古久塔, 青葉, おけ以",B,セラドン駒込,富士見フラワーハイホーム,都営橋場二丁目アパート内公園,篠田
+131,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 三国一, inton, クオール薬局, きづなすし",A,NISHI-SHINJUKU KYOWA BUILDING,Gatto Fiore,慈眼寺,パークスクエア日暮里
+132,"Which AOI in the Tokyo area do the following POIs belong to? POIs: わさび家, 三田製麺所, 中川歯科, ステーキ パンドラ西口店",C,佐藤第一ビル,ホテルミュッセ 銀座名鉄,西新ビル,コインパーク
+133,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 伊勢路, 天鴻餃子房, 炭火焼肉吟まる, 小料理 太田福",C,南砂三丁目第3アパート,ローヌ青葉台,三共富士見ビル,豊澄ビル
+134,"Which AOI in the Tokyo area do the following POIs belong to? POIs: リンガーハット, しゃぶしゃぶ温野菜, 鍛冶屋文蔵, かまどか",C,マルカート,伊東屋,第3山商ビル iタワー,Linden
+135,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 未来食堂, 泰南飯店, おかん, ひげ勘",D,広徳寺,西川ビル,西原ビル,日本教育会館
+136,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ムンバイ, ドトールコーヒーショップ, miel, 小星星",A,松岡九段ビル,杉田ビル,Beans,和孝マンション
+137,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 田まる, 居酒屋 さかもと, カレーのチャンピオン, つけ麺 桔梗",C,東京デザイン,三光坂ホームズ,日興パレス,クリオネビル
+138,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 鰻 奈加川, 和㐂, 雛どり, SABOU 溜池山王店",A,初穂マンション赤坂,WIN HOUSE,NTT王子ビル本館,グリーニエ西新宿弐番館
+139,"Which AOI in the Tokyo area do the following POIs belong to? POIs: お膳屋, 次朗, cafe の, ドトールコーヒーショップ",C,三井のリパーク,酒井ビル,グランドメゾン麹町,西澤ビル
+140,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 麹町明光耳鼻咽喉科, セブン銀行, プルコギ焼肉　巨牛荘, ゆうちょ銀行",D,台ビル,Saffron Casa 浅草橋,江戸常ビル,ライオンズステーションプラザ半蔵門半蔵門
+141,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 伊藤園, 伊藤園, キリン, 伊藤園",A,キッチン　レタス,若福,ハイム三共西新宿,シャトルモンブラン
+142,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 茅沼順子薬局, Coffee First, gajanan, そばうさ",B,土屋ビル,桔梗ライオンズマンション平河町,公開空地,陶庵やぶきた
+143,"Which AOI in the Tokyo area do the following POIs belong to? POIs: スノーピークカフェ, 根室花まる, 比內雞親子丼, 東京中央郵便局",D,関東バス高井戸ハイツ,私学 会館 別館,やまと診療所,JPタワー
+144,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ease, 丸ビル（南側駐輪場）, Hakata Ramen Akanoren 6F, トモズ",D,補助第26号線（東北沢）拡幅用地,ヴィラ筑波,堀切橋少年野球場,丸の内ビルディング
+145,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 天ぷら 菊亭, 龍福小龍堂, 宮崎地鶏炭火焼 車, レゾナンス",A,東京ビルディング,駒形橋ハイツ,品田ビル,三井のリパーク
+146,"Which AOI in the Tokyo area do the following POIs belong to? POIs: カルネジーオ, 国民生活金融公庫大手町支店, 日本政策金融公庫, 日本政策投資銀行",C,小宮ビル,Healing Gate 押上,グランキューブ,マノー蔵前リバーステージ
+147,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ダブルサンドイッチ, チョイス デリ フィルママン, GREEN BROTHERS 大手町店, かっぽうぎ 大手町フィナンシャルシティ店",D,SORAお茶の水マンション,東上野区民館,パークジャパン 浜田山第9,大手町フィナンシャルシティノースタワー
+148,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Trattoria Ciao, じぶんどき, 鳥メロ, 珈琲館",C,センタービル巣鴨第1ビル,赤坂表町ビル,松井ビル,本光寺
+149,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 海賊, 蔵ノ助, ととり, ドトールコーヒーショップ",A,なる巳ビル,赤坂溜池山王ビル,東京楽天地浅草ビル,赤坂トラストタワー
+150,"Which AOI in the Tokyo area do the following POIs belong to? POIs: サブウェイ, 労働者健康福祉機構東京産業保健推進センター, スターバックス, 国立社会保障・人口問題研究所",C,エンゼルピュア高輪,SVAX GINZA,日比谷国際ビルヂング,HBL箔屋町ビルディング
+151,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 霞ヶ関郵便局, 農林水産省, 林野庁, 水産庁",D,ギンザヨシダビル,青春出版社,秩父産業,農林水産省
+152,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 原子力安全委員会, 税務大学校, 総合科学技術会議, 金融庁",A,中央合同庁舎第４号館,葛飾区立本田小学校,丸の内ブリックスクエア,第2成光ビル
+153,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 野村證券, Deigo, Ruth's Chris Steak House, 頤和園",D,川乱神田司町ビル,本妙院,信有板橋ビル,東京倶楽部ビルディング
+154,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 虎ノ門診療所, 虎ノ門中央薬局, カフェ・ド・クリエ, やすらぎ歯科 虎ノ門",D,リーフハイツ徳栄,誠月ビル,東陽四丁目アパート１1,虎ノ門一丁目ビル
+155,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 富永クリニック眼科, 新台北, 日比谷通りスクエア歯科クリニック・矯正歯科センター, 清野・川畑診療室",A,西新橋スクエア,松村ハイツ,音無くぬぎ緑地,都市計画会館
+156,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ニルワナム, 桂園, 田乃休, 目利きの銀次",A,新虎ノ門実業会館,京和ビル,K・T淡路町ビル,都営旭丘一丁目アパート
+157,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Le Huit, miyako, Amrta, Yrs Takasu Bar!",D,パークランド西落合,NAGAFUJI,メゾンシンドー,メトロビル
+158,"Which AOI in the Tokyo area do the following POIs belong to? POIs: NaCamoGuro, つつじクリニック, Key Dental Clinic, めろん薬局",C,忠協ビル,上用賀二丁目ファミリー農園,No.R赤坂見附,幸荘
+159,"Which AOI in the Tokyo area do the following POIs belong to? POIs: La Colombian, Boxing Club, のら犬, 倶楽部IRIS",C,樋口ビル,レフィナードソメイ,赤坂扇やビル,OGAビル
+160,"Which AOI in the Tokyo area do the following POIs belong to? POIs: マツモトキヨシ, 魚民, e-Top clinic, Gintei Toriba",A,Marble Akasaka,平出荘,TOHAN NO.2 BLDG.,六本木クラブ
+161,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 九州藩, 香港亭, ビストロ アジル, Ostrea",D,藤和東五反田ビル,Central Residence Ochanomizu Hilltop,ブレイク×ザ・パーク 駒込第2,月世界ビル
+162,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 赤坂 江戸桜, 新村, Aria, Canan",C,パークホームズ巣鴨セントラルアヴェニュー,レジディアタワー麻布十番,UFビル3,東京メディカルスポーツ専門学校
+163,"Which AOI in the Tokyo area do the following POIs belong to? POIs: The Club AKASAKA, KUROTOAKA, ITAMAE SUSHI, ぼてぢゅう",D,グロリアハイツ,三井のリパーク,新宿区立 江戸川小学校,対翠館ビル
+164,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Pilates Studio Make, しゃぶ玄, ごだいご, 馬に魚に",D,アーバンハイム江渡,大黒ビル,l'Equerre モーリ,赤坂アルトビル
+165,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Sun Sho, 信海, 麺恋屋, Ra B! Pa",B,福しん美音堂ビル,第二対翠館ビル,PHONIX​神保町​ビル,千住本町住区センター 児童館・悠々館
+166,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 赤坂クインルーム, 赤坂十月, B Baknos, 肉兵衛",D,ザ・ライオンズ杉並 善福寺川,ホテル・パリ,サンキュービル,赤坂クインビル
+167,"Which AOI in the Tokyo area do the following POIs belong to? POIs: カラオケ まねきねこ, 松尾ジンギスカン, 赤坂アジアンバルTOMBOY, MITTNESS",D,新宿野村ビル,Takei Bldg.,殖栗ビル,ヒューリック赤坂一ツ木通りビル
+168,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 聚福縁, 札幌成吉思汗「しろくま」 赤坂店, 赤坂おんがね, ニサシ",D,芝大門二丁目児童遊園,練馬区立 練馬中学校,タイムズ,山翠会館
+169,"Which AOI in the Tokyo area do the following POIs belong to? POIs: まめる, LiberCable, Cacher, TriBeCa Dining",A,枡よしビル,染井グリーンハウス,センダビル,港区桂坂保育室B
+170,"Which AOI in the Tokyo area do the following POIs belong to? POIs: スープカリー奥芝商店, 3.6.5酒場, Joy fit 24, ココカラファイン",A,赤坂TATSUMIビル,富士八重洲ビル,センチュリーシティー,コーポ市川
+171,"Which AOI in the Tokyo area do the following POIs belong to? POIs: JGMゴルフクラブ, 土間土間, 肉源, 三九厨房",B,SK美土代町ビル,赤坂三田ビル/藤会館,堀之内北公園,ラシーネ秋葉原
+172,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 兄夫食堂, amiga, 青春キンパ, 一龍",C,Repark,藪崎ビル,シントミ赤坂,荒木商店
+173,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Hiro Dental Clinic, The Day Cafe, 火鍋屋, MOTI",D,ライオンズマンション,ルミエール 西葛西,NBF池袋シティビル,金波ビル
+174,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 壱角家, てんや, 鳥元, ボクシングクラブ",C,向山集会所,都公社東品川一丁目アパート７号棟,アルベルゴ上野,シャンボール練馬
+175,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 浜焼太郎, なかや, ふくよし, メモリー赤坂",C,VIVA Home,豊島公園,ORIENT AKASAKA,三笠ビル
+176,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 南青山ガーデンクリニック, 龍府, 青山KU歯科, Osteria Pino Coda",B,パークホームズ錦糸町 猿江恩賜公園,石塚商事ビル,ブリリア文京動坂上,花井ビル
+177,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 山川耳鼻咽喉科, ステーキのくいしんぼ, 伝丸 青山店, 大戸屋",A,青山アイアイビル,セブン-イレブン,吉栖マンション,相鉄フレッサイン お茶の水神保町
+178,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 手打ちそば 元禄, 百人亭, キッチン パボーネ, 西安刀削麺酒楼",D,清和寮,松三会館,セントラルヒルズ,郵政福祉琴平ビル
+179,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 天然居, 満つ田, 魚虎, 東京苑",C,竜門寺,豊島ハイツ,アーバン虎ノ門ビル,シャトーボレール渋谷
+180,"Which AOI in the Tokyo area do the following POIs belong to? POIs: BRIANZA, さんて寛, スターバックス, 春水堂",D,土屋鞄製造所,HAMADA BLDG,メゾンド阿佐ヶ谷,アークヒルズサウスタワー
+181,"Which AOI in the Tokyo area do the following POIs belong to? POIs: トモズ, 元祖油堂, ブラッセルズ, Délifrance",D,ヴィラ・神水,東京羊羹,荒屋敷ビル,神谷町45MTビル
+182,"Which AOI in the Tokyo area do the following POIs belong to? POIs: タリーズコーヒー, Wayang Bali, 世阿弥, 青蓮",A,泉ガーデンタワー,トレーダー3号店ビル,NJKビル,OTビル
+183,"Which AOI in the Tokyo area do the following POIs belong to? POIs: てんぷら　阿部, 鰻　登亭, 銀座　魚勝, 和食＆ワイン　びいどろ亭",A,銀座スバルビル,伊藤ビル,下北沢駅新南口（開発中）,CENTUTION HOTEL GRAND AKASAKA
+184,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 東京會舘 銀座スカイラウンジ, 東京交通会館パーキング, 交通飯店, 游楽",D,中野区立鷺宮図書館,都営青井四丁目第3アパート,第一大門ビル,東京交通会館
+185,"Which AOI in the Tokyo area do the following POIs belong to? POIs: LAVAROCK, 満つしま, アガペ神谷町薬局, 神谷町スキンケアクリニック",B,西新宿ビル,虎ノ門40MTビル,曳舟川親水公園,小宮山駒込ビル
+186,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 北大路, どらっぐぱぱす, 神谷町クリニック, ニッセイ虎ノ門ビル",B,矢嶋ビル,TOKYU REIT 虎ノ門ビル,ちよだ鮨,北綾瀬PSSビル
+187,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 虎連坊, みずほ, 神保町マカン, 岩波ホール",D,西新宿オークビル,Uビル,シティハイツ菊川,岩波神保町ビル
+188,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 吉祥, 北谷食堂, 藤関歯科医院, ドトールコーヒーショップ",A,カルフール神田,さくら堀留ビル,ティーホック,寶珠会館
+189,"Which AOI in the Tokyo area do the following POIs belong to? POIs: IL Bacaro, スペイン魚介バル 三丁目, 鳥どり, La Pausa",A,フレンテ新宿三丁目,東急ステイ銀座,ホテルイースト21東京,若木原公園
+190,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 能登, 故郷味, 京華茶楼, 酒房 長谷川",B,明治安田生命秋葉原昭和通りビル,第二富士ビル,サクハウス,区営阿佐ヶ谷北三丁目第2アパート6号棟
+191,"Which AOI in the Tokyo area do the following POIs belong to? POIs: スターバックス, アトレ目黒1 駐輪場, バケット, 大崎警察署目黒駅前交番",A,アトレ目黒1 A館,スクエア渋谷,三井のリパーク 高輪3丁目,合板会館
+192,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 札幌や, つじ田, 芝浦本家, 志村デンタル",B,鈴木ビル,桔梗備前ビル,大谷田公園,サ・ルーバ五本木
+193,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Craft Beer Bar IBREW, カリカル 新橋本店, まるや　新橋立ち呑み, 中華 玉林",A,新橋駅前ビル1号館,明興ビル,自警会住宅江古田ハイツ,新宿日曜大工センター
+194,"Which AOI in the Tokyo area do the following POIs belong to? POIs: カフェダイニング クレアンテ, 水の和密・わさび, 新お茶の水薬局, 銀座アスター",C,今佐ビル,花姫稲荷,新お茶の水ビル オフィスタワー,常温貯蔵室
+195,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 盛華らーめん, ゆうやけこやけ, とんかつ 車, すが田",D,中和公園,朝日湯島マンション,墨田五丁目運動広場,竹内ビル
+196,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 麺匠 竹虎, 和風パブ 大江戸, CLUB REDICE, しゃぶらく亭 歌舞伎町店",C,ベルサール渋谷ファースト,西五反田コープ,三経61,新広尾公園
+197,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ビストロ・ザ・ミート 新宿, 博多劇場, 青葉, ハノイ",C,ドミール明大前,芝光和ビルデイング,歌舞伎町ビル,大崎アネックス
+198,"Which AOI in the Tokyo area do the following POIs belong to? POIs: UHAUHA, Ramen Takahashi, 道楽, 美少女パブ セータームーン",C,渡辺ビル,ライオンズマンション新宿第2,K's 7 BUILDING,カマスズ
+199,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 千住警察署北千住駅西口交番, ドトールコーヒーショップ, サブウェイ, 椿屋カフェ",B,六義園パークサイド,千住ミルディスI番館,平和会館,赤塚ホール
+200,"Which AOI in the Tokyo area do the following POIs belong to? POIs: サブウェイ, 太平四丁目集会所, マクドナルド, ケンタッキーフライドチキン",A,オリナスコア,新井第二住宅,Lions Mansion Asakusa Kotobukicho,ルイシャトレ恵比寿
+201,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 築地すし好, やよい軒, HUB, やよい軒",C,成宗公園,日本磨料工業株式会社,シロービル,陽輪台高円寺
+202,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 長崎橋際公衆便所, 法恩寺橋際公衆便所, 伊藤園, 江東橋際公衆便所",A,大横川親水公園,第一山本ビル,和朗フラット四号館,松永ビル
+203,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 東京油組総本店, ダーツカフェデルタ, 築地銀だこ, ご当地横丁 錦糸町酒場",A,Artemis Keiyo,五十畑コーポ,大久保ビル,日比谷稲荷神社
+204,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 赤から, ベルサイユの豚, 叙々苑, 星乃珈琲店",A,ヒューリック錦糸町駅前ビル,パークリュクス虎ノ門,大日本印刷,BLISS湯島ビル
+205,"Which AOI in the Tokyo area do the following POIs belong to? POIs: コカ・コーラ, 伊藤園, ビッグエコー, コカ・コーラ",B,代官山末廣ビル,KS15ビル,PENSION SHIMOKITAZAWA,中野区立 谷戸小学校
+206,"Which AOI in the Tokyo area do the following POIs belong to? POIs: スターバックス, すみだ産業会館, エポスカード, Charichari",C,第一ビル,シティタワー武蔵小山・タワー棟,錦糸町マルイ,高井戸警察署 和泉地域安全センター
+207,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Tiffany, Virginity, 油そば　春日亭, 亀戸ぎょうざ",C,ゼロワンビル,コーシン王子マンション,真英ビル,千代田区立 千代田小学校
+208,"Which AOI in the Tokyo area do the following POIs belong to? POIs: アジアカレーハウス, 居酒屋　壱, 京えび天そば, いつもの処で梅屋",A,ニュー錦糸町ビル,新坂マンション,五反田コーポビアネーズ,オンワードパークビルディング
+209,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 月島もんじゃ はる, SHOT BAR FISH, 焼肉　フランス人, ぐいぐいfish",A,CKビルディング,神谷会館,コーポ小野塚,足立成和信用金庫
+210,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Teppan職人, よりみち, 壱角家, 赤とんぼ",A,マスカットビル,ジョイシティ住吉Ⅱ,park station,Repark
+211,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 炭火焼濃厚中華そば 大覇道, 鳥メロ, コカ・コーラ, 焼肉の和民",D,ルミナス小菅,瀧野川信用金庫 赤羽支店,"Yaokin Co., Ltd.",O.T.K. building
+212,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 椿屋コーヒ店, 黄金の蔵, 東方見聞録, Asahi Super Dry beer hall",C,ライオンズガーデン高砂,ルネ新宿御苑タワー,杉忠ビル,サンピュア祐天寺
+213,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Niimura Shabu Shabu, チーズと和牛 きこりのお家, ふくの鳥 新宿西口小滝橋通り店, 味噌屋八郎商店",D,和泉町幼稚園,ホテルリラサーレ東京,NPC,プラザ西新宿
+214,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 郵便ポスト, 東武レストラン街, ミスタードーナツ, 東武アネックス駐車場",D,ヴィラ・シャンブル,アズール祐天寺,足立区立弥生小学校,Spice 2
+215,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 海峡KTV, BA MIEN VIET NAM, メンバーズ紗和, 麻辣誘惑大宝",B,昭和ビル,花鳥風月ビル,南大塚二丁目 ポケット児童遊園,27
+216,"Which AOI in the Tokyo area do the following POIs belong to? POIs: スターバックス, 東京都主税局豊島都税事務所, 新生銀行, 東京都主税局自動車税総合事務所",A,池袋西口センタービル,岡三証券,サイフォンコーヒー　シャルマン,上野マンション
+217,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 池袋HUMAXシネマズ, Yakiniku Stadium Jan Ikebukuro East Entrance, Nabezo Sabu Sabu, yakiniku stadium Jan",B,ホテル苺,ヒューマックスパビリオン池袋サンシャイン60通り,早川運輸ビル,U・GHeim
+218,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Johan, みずほ銀行, LIEU DE VINTAGE MEJIRO, 小林紀子バレエ・シアター",D,ラヴニールサチ,田中医院,Duo Scala MEJIRO,TRAD MEJIRO
+219,"Which AOI in the Tokyo area do the following POIs belong to? POIs: タリーズコーヒー, ガンダムカフェ, Carl's Jr., マツモトキヨシ",B,ピーアーク第3駐車場,ダイバーシティ東京,メゾンルグラン本郷,住友不動産九段下ビル
+220,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 板橋成増ヶ丘郵便局, マクドナルド, ココカラファイン, 成増図書館",A,アリエス,JKSサイクルパーク御徒町駐輪場,内神田一丁目計画,Times
+221,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ACT HALL, ココカラファイン, 巣鴨信用金庫, モスバーガー",A,ACT,レオパレスフェリース上野,埼畜ビル,豊嶋屋ビル
+222,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 山内農場, マクドナルド, カラオケルーム歌広場, ろばた焼き たる平",D,歩道（閉鎖中）,STAHL MIDORI,KDC笹塚ビル,錦糸町駅前プラザビル
+223,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 肉つけうどん うつけ, 魚民, とみ吉, 目利きの銀次",D,千代田NSOビル,メグロマンションA棟,CLAIR 三崎町,左門イレブンビル
+224,"Which AOI in the Tokyo area do the following POIs belong to? POIs: アルバカレー, エンジェル, PRIDE, 中華百番",B,ニートパレス,KS PLAZA BUILDING,JPタワー,文京GARDEN
+225,"Which AOI in the Tokyo area do the following POIs belong to? POIs: まる大本舗 2nd, 蝦夷ラーメン, 順子, Bar 自転車泥棒",B,カーサ・トレド,チグサビル,La verira 西ヶ原,第一紙工
+226,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 四谷見附矯正歯科, J PREP, 坪田塾, 受験Dr.",B,OLIO,四谷THビル,新宿アイランドウイング,パートナ
+227,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Ale, 鳥辰, チェゴヤ, 富士そば",C,ウェルカムパーク練馬早宮,スタンレーコーポ,鮎沢ビル,石上ビル1
+228,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ドトールコーヒーショップ, 北陸銀行, 土風炉, クォール薬局",D,代官山イルテンポ,新井薬師 梅照院,日本橋ライフサイエンスビル２,ウエストゲート新宿ビル
+229,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 日乃屋カレー, 東京麺達団, 博多とりかわ長政, 中華そば　流川",D,日比谷サンケイビル,ザンビア共和国大使館,クレストフォルム王子,清田ビル
+230,"Which AOI in the Tokyo area do the following POIs belong to? POIs: PAL CLUB, ナラビ, 二代目 魚々子, よし田",B,ECOLOPARK,DAIKANPLAZA City,住友生命東神田ビル,明泉マンション
+231,"Which AOI in the Tokyo area do the following POIs belong to? POIs: タイ国屋台食道, 蔵, 風来居, 田舎家",C,GINZA ONE BUILDING,ストーク マンション 森下,新宿ハイツ,パティオデ本郷
+232,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Metropolitan Grill, ZATTA, Junisoh, RIE coffee",C,コーポ関根,白金児童遊園,Hilton Tokyo,区立 打越公園
+233,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 伊藤園, キリンビバレッジ, 伊藤園, 伊藤園",B,愛三ビル,芝光和ビルデイング,神谷 マンション,メテロパーク
+234,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 台東区立台東一丁目区民館, つばさ相談支援センター, 台東区台東地区センター, たいとう地域包括支援センター",C,谷口ビル,GLA,いきいきプラザ,ひまわりの陽
+235,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ごはん處, 天かめ, Coco Curry House, すし三崎港 江戸川橋店",D,第一紙工,内山ビル,東京歯科大学 南棟,江戸川橋ビル
+236,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 檍, 野むら, 弁当市膳, 二宮歯科診療室",D,真宗大谷派 正勧寺,黒田ビル,南大塚T＆Tビル,CS TOWER
+237,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Outback Steakhouse, あきた美彩館, ロイヤルホスト, 日野原記念クリニック",D,栗山ビル,モアエミネンス西新宿,ヒューマックスパビリオン池袋サンシャイン60通り,京急第７ビル
+238,"Which AOI in the Tokyo area do the following POIs belong to? POIs: OCEAN CLUB BUFFET, マツモトキヨシ, マクドナルド, ジョナサン",A,デックス東京ビーチ,27,鉄砲洲児童公園,パシフィックスクエア六本木
+239,"Which AOI in the Tokyo area do the following POIs belong to? POIs: シアターサンモール, pstudio, pstudio, pstudio",D,日本橋仲通りビル,千石ビル,板橋区立 赤塚小学校,サンモールクレスト
+240,"Which AOI in the Tokyo area do the following POIs belong to? POIs: KIRIN, KIRIN, KIRIN, KIRIN",A,新宿マルイメン,アルカハビタ,森五会館,私立 淑徳中学校 淑徳高等学校
+241,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 品川製麺所, アコード歯科, 新宿三丁目駅自転車駐輪場, クルンテープ本店",D,麻布台レインボービル,KDX御茶ノ水ビル,江東区立東川小学校,アコード新宿ビル
+242,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 四谷区民ホール, 新宿区立四谷図書館, 四谷地域センター, 四谷特別出張所（新宿御苑大木戸門前）",B,赤坂青明会館,四谷区民センター,アパート,アクサス巣鴨Sta.
+243,"Which AOI in the Tokyo area do the following POIs belong to? POIs: まーじゃん千点棒, Saigon Majestic, Little Sake Square, 焼肉三千里",B,西葛西図書館,イーストビル錦糸町,明治大学 和泉キャンパス,リビエラ南青山ビル
+244,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 錦糸薬局, 中沢歯科医院, 錦糸町メンタルクリニック, こどもクラブ",C,梓澤ビル,エミナリア東十条,ソアビル,東京昭典
+245,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 錦糸町中華そば さん式, 桂林, 第一韓国館, 天下一品",D,成城石井,田中ビル,Welcome Park,都営太平南アパート 1号棟
+246,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Pubメルヘン, スナックみゆき, Arcadia, 2peace",B,川又商店,YSビル第2,下沼田児童遊園,Times
+247,"Which AOI in the Tokyo area do the following POIs belong to? POIs: アスコット, Lory's Bar, 雅, 登竜門",B,永井ビル,三経85,葬儀式場落合会館,ディアマントビル
+248,"Which AOI in the Tokyo area do the following POIs belong to? POIs: メルヘン, 鉄板焼きバー, Arcadia, giRl's BaR uRa庭",C,セブン-イレブン,秋本ハウス,HB錦糸町ビル,ノーブルコート平河町
+249,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Lega Liss, Shisha Bar Dope, Secret Soiree, Selection Club",C,杉並区立 済美教育センター,TG安田ビル,ザ・バレル立田ビルⅠ,神座ビル
+250,"Which AOI in the Tokyo area do the following POIs belong to? POIs: デイキャンプ, けやきのトイレ, さるすべりのトイレ, たいさんぼくのトイレ",B,ホテル・サンレオン2,林試の森公園,中央公園,UMEDA BLDG
+251,"Which AOI in the Tokyo area do the following POIs belong to? POIs: IZASA, 龍蔵, SHIRUCAFE, コカ・コーラ",D,花の木児童遊園,聖公会神田ビル,atrēvie,ドミネンス本郷
+252,"Which AOI in the Tokyo area do the following POIs belong to? POIs: club広島, nico, みつばち, 山鶏 HANARE",A,HONEY BLG,杉本ビル,むすび葉クリニック,月村マンションNo.33
+253,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 味の上田, 化粧男子, After Place, ルパン",A,つくしビル,AIOS秋葉原,Repark,東中野グリーンパーク
+254,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Bar トランプ, 天ぷら 味の天豊, Soba-cuisine Hayakawa, ホルモン焼 善",B,八重洲ヤマガタビル,イイムラビル,ARAMID BLDG,青山タワープレイス
+255,"Which AOI in the Tokyo area do the following POIs belong to? POIs: あんだんて, パルティール, マニラクイーン, GARDEN",A,CREO BLDG,隼町MTビル,田中ビル,NPC
+256,"Which AOI in the Tokyo area do the following POIs belong to? POIs: REVE, リバティハウス, ALEGRIA ueno, ミセス",D,蓬莱屋ビル,御茶ノ水NKビル,巣鴨郵便局,池之端スカイビル
+257,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 上野透析クリニック, ライザップ, あおぞら銀行, 上野中央通り地下駐車場",D,トーカンマンション駒込,坂井材木店,根津一丁目児童遊園,NDKロータスビル
+258,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Chat noir, RIVERSIDE, Chou Chou, Club A",A,大黒屋ビル,グランドメゾン東池袋,稲垣薬局 徳丸店,山上ビル
+259,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 喜羊門, 星乃珈琲, 佐渡ヶ島へ渡れ, まぐろ婆娑羅",B,"ドーミー東大島２,東砂",セントラル21ビル,イオンスタイル碑文谷別館,EN代官山
+260,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ケンタッキーフライドチキン, 火鍋眞巴石, Nautilus, 窯焼きPIZZA WINE BAR",A,Ueno U-One,YCCビル,阿部ビル,メゾンユニソール神楽坂
+261,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Moondust, ベトナムバーQueen3, ヌード劇場 シアター上野, White Horse",C,済美山運動広場,仙丈ビル,上野池之端立田ビル,北区立 堀船小学校
+262,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 梅の花, 島福, 赤鶏御殿, 大地の贈り物",D,新宿区 東大久保公園,第一ビル,Maison KII,上野鈴乃屋本店ビル
+263,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 温野菜, ほのか, ふり〜まぁじゃんFun, プロースト東京",A,K-PLAZA,ホテル・パピオン,赤坂扇やビル,東綾瀬公園
+264,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 博多ななつ星, 囲庭, 鳥貴族, カラオケ まねきねこ",D,世田谷区立弦巻二丁目広場,和合荘,堀越第3ビル,PLAZA U
+265,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 腹八分目, 牛角, 蛙之介, 無国籍バル KAIKYO",A,ライワビル,遠藤ビル,千代田区立外神田住宅,綱町三井倶楽部
+266,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 美人茶屋, 蛙吃傲美蛙肥肠鱼, マクドナルド, 天府李米線",D,セントラル渋谷２４６,青山 White Terrace,青井ふれあい公園,カラオケ館
+267,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 権之介, 牛タン焼き仙台辺見, ◯いち, UENOガーデンファーム",B,駕籠町公園,OAKビル,ヒューリック赤坂ビル,ENEOS
+268,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 魚民, すしざんまい, 鈴本演芸場, 山内農場",A,SUZUMOTO BUILDING,住友生命三田ビル,HoRiKoShi,ホテルグランバッハ東京銀座
+269,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 私のハーモニカ, Club Malagu, Club CHIPIN, Club GALAXY",C,京王建設,諏訪神社,池之端会館,日本アンテナ(株)
+270,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ラン, スナック那々, ドリーム, おやじのお店",C,杉並区立 永福中央公園,ヨークフーズ,エクセル上野ビル,上亀ビル
+271,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Club Ray, CLUB恵, 鬼太郎寿し, あみゅーず うぃすぱぁ",B,HAP西新宿ビル,TS仲町ビル,YNビル,カスケード原宿
+272,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Cantona, 孫ニ娘潮汕牛肉火鍋, パンダ酒場, しゃぶしゃぶ和葉",C,テラススクエア,GMビルディング,林ビル,秋葉ビル
+273,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 天安門, ホームホアン, Bar Motto, 味楽",C,コーポ司,第三西青山ビル,信水ビル,渋谷ダイカンプラザシティ
+274,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Club Flora, Cafe & Bar M, 貴婦人, Club ナンバーワン",C,エーデルシュタイン,声優ミュージアム,湯島ミハマビル,都道府県会館
+275,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Club Juliet, Club Abyss, 再来宴, DINO",A,ヤマトプラザビル,トラスティ麹町ビル,三角広場,サウスヒル永田町ビル
+276,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 燕, ポルシェ, BAR RS, 美人",A,ウィステリア7ビル,持田ビル,ラ・テラス落合,タイムズ
+277,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 酒処・家庭料理みち, スナック洋, パブスナックLaLa麻里子, 不忍",A,池之端すきやビル,ベル新宿2,COIN PARK,OnePark
+278,"Which AOI in the Tokyo area do the following POIs belong to? POIs: You & 愛, Wine Bar Bargundy, Miragro, Halcyon",C,ピーチハイツ,都立横網町公園,紀文堂ビル,株式会社コトブキ
+279,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Club Gold Gate, 麻雀ブル, 俵屋, 一",C,第十三岡崎ビル,ちよだ鮨,川島ビル,オープンレジデンシア巣鴨ユニーブル
+280,"Which AOI in the Tokyo area do the following POIs belong to? POIs: トリニティ, Yakiniku Ueno Taishoen, 雨絵乃 暖々, 焼肉たむら",A,日栄ビル一番館,藤井ビル,COREDO室町1 (室町東三井ビルディング),アークヒルズ仙石山森タワー
+281,"Which AOI in the Tokyo area do the following POIs belong to? POIs: コーラル, パルファン, 21時にアイス, Club No.1",D,荒木田公園,野口ビル,住友不動産秋葉原ファーストビル,Twin Y’s I
+282,"Which AOI in the Tokyo area do the following POIs belong to? POIs: まんがランド, 椿屋珈琲 上野茶廊, 庄や, 椿屋珈琲店",B,スロットMAX,Yamada Bldg.,恵比寿三富ビル,T・U・C SHOP
+283,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 肉の街, 美生堂薬局, 回転すし 魚活, 天ぷら酒場 かっちゃん",D,ホテル・カーニ,玉屋ビル,阿閉ビル,上野ソシアルビル
+284,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 上野マルイ, スターバックス, 上野駅前郵便局, 上野マルイ駐輪場",A,上野マルイ,南部屋五郎右衛門,じゃんぱら,東松原Pastorale
+285,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 湯島囲碁喫茶, バイダム, エールユシマ, 囲碁Bar ステラ",D,リヴェール東上野,野口,高輪みつるクリニック,東京堂湯島ビル
+286,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 放課後等デイサービスOne, なのないバー, UN GATTO, くもん",A,高柳ビル,栄町公園,東武ハイライン芝虎ノ門,林ビル
+287,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 理数系専門塾エルカミノ, ドトールコーヒーショップ, 日本調剤本郷三丁目薬局, 海鮮居酒屋 はなの舞",D,ヴィラ サニーヒルズ,グリーニエ西新宿弐番館,三井住友銀行東館,本郷若井ビル
+288,"Which AOI in the Tokyo area do the following POIs belong to? POIs: リンハウス, 加圧トレーニング Bamboo, プーレイ, ハンアリ",D,三州屋,吉田ビル,ソワール豊嶋,森沢ビル
+289,"Which AOI in the Tokyo area do the following POIs belong to? POIs: キッチンさくらい, 延吉香, ジンギスカン霧島, ポポラマーマ",D,三井のリパーク,都営北品川第2アパート1号棟,湖月ビル,ハトヤビル3
+290,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 茶寮 銀座清月堂, カトレヤ, カフェコムサ, 三崎港",C,ヒルズアオイ,(株)木下,松坂屋,神田須田町ビル
+291,"Which AOI in the Tokyo area do the following POIs belong to? POIs: BECK'S COFFEE, 銀だこハイボール酒場, 金魚, ビューカード外貨両替センター",A,御徒町吉池本店ビル,麻布エンパイアマンション,永谷ヒルプラザ六本木,ルーブル中落合
+292,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 珍寶, 羊炭長, Square Fitness, カラオケ My Song",B,太子堂地域安全センター,第一大島ビル,世田谷区立 代沢小学校,サンタワー広場
+293,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 文京福祉センター湯島, 文京区立湯島図書館, 湯島幼稚園, 湯島児童館",D,堤通公園,OAKビル,齋藤ビル,文京区湯島総合センター
+294,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 吉野家, Di punto, 世界の山ちゃん, 鳥貴族",B,メゾンブランシュ,サンライズビル,ヴェルドミール,レジデンス平河町
+295,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ショーグンバーガー, oerlrer man, 秋葉原UDX内郵便局, Pronto",C,Minn Ueno,和泉町ポンプ所,秋葉原UDX,天理教錦開分教会
+296,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 福屋, REGAL, 小石川鮨亭, 日本料理 小ぐら",A,中銀小石川マンシオン,Times,パークジャパン 南青山第4,江東区立 第二大島中学校
+297,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 台東区立中央図書館, Paraca, 池波正太郎記念文庫, 男女平等推進プラザ",B,北品川地域交流施設,台東区立生涯学習センター,テイトビル,北沢さんきゅう広場
+298,"Which AOI in the Tokyo area do the following POIs belong to? POIs: PUB マーガレット, 絵馬亭, 24/7 Workout, エコロパーク",A,上野不二ビル,タイムズ,SANパーク,遊び場98番
+299,"Which AOI in the Tokyo area do the following POIs belong to? POIs: スナック ハンター, 憩いの場 むら, すなっく岸, 笑パブ 阿部マリア",B,旧本町東小学校跡地,黒島ビル,藤久ビル東5号館,総務省 統計局
+300,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Appears, 鳳凰, プラネット, #bff",D,あいおい損害保険江東ビル,アパホテル,プラティーヌ新宿新都心,ソシアル湯島ビル
+301,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 歩, なごみ七五三, ゲバゲバゲバーン, 湯島乃風",A,エクセル湯島ビル,東京書籍本社ビル,三河台ハイツ,NBF池袋シティビル
+302,"Which AOI in the Tokyo area do the following POIs belong to? POIs: すなっくSmile, 空, 亜沙里, Way way",B,多慶屋 インテリア・雑貨館,シャローム湯島II,藤本ビル,駒場国際交流会館
+303,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ラフェー, Together, みお, ベール",A,MARUZEN湯島,Freesale,シェアラ住吉,足立区立 上沼田小学校
+304,"Which AOI in the Tokyo area do the following POIs belong to? POIs: elf, 湯島山口, Heart, MiMi",B,日本私立学校振興・共済事業団,TSツインビル,クイーンズハウス,亀田トレイン公園
+305,"Which AOI in the Tokyo area do the following POIs belong to? POIs: すなっく姫, SNACKウェルス, R's Bar, 笑福",D,Nikko Palace Kagurazaka,札の辻スクエア,STRAWBERRY FIELDS,高森ビル
+306,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 蕎麦酒場 角ヤ, 鮨いづ, おでん 美智ちゃん, スポーツバーY",B,MSK,吉田ビル,松村ビル,東京都立 志村学園
+307,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ラウンジトワイライト, ウォッカ, 食事処百点, Lounge 凛",B,蔵前警察署,mビル,メゾン・ド・ヴィレ本駒込,岩田ビル
+308,"Which AOI in the Tokyo area do the following POIs belong to? POIs: らーめん 鴨to葱, 築地活鮮魚市場, TAKERU, イノコシ歯科医院",B,長島エレガンス第IIIビル,フタバビル,下馬すずかけ公園,平和第1ビル
+309,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 富士そば, 博多ラーメン長浜や, かずまさ, ニュー西郷どん",D,二宮書店,新場の森公園,KIC365館,昭栄ビル
+310,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ストレスケア東京 上野駅前クリニック, 東京ユニリバースクリニック, ゴリラクリニック, みすず学苑",B,内閣府三軒茶屋宿舎,早稲田ビルヂング,セブン-イレブン,フォアサイトビル
+311,"Which AOI in the Tokyo area do the following POIs belong to? POIs: クオール薬局, BINO御徒町歯科クリニック, たにぐち眼科, 共立美容外科",B,藤和大崎コープ,BINO御徒町,成等院,共新ビル
+312,"Which AOI in the Tokyo area do the following POIs belong to? POIs: BAGUS, FRIDAYS, Feelcycle, 香家",D,10,仙台堀川公園,クリヤマビル,NAGAFUJI
+313,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 炙りや鶏兵衞, 旨い牛たん専門店, 串かつでんがな, Mantra",D,レジデントプレイス西葛西,浜田ビル,特別養護老人ホーム 第2練馬高松園,ナガフジビルアメ横館
+314,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 麻辣大学, ルノアール, 焼肉トラジ, 永山本店",B,河村ビル,レイクサイドビル,プリンセス,ACN神保町ビル
+315,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 上野タワーパーキング, カナ・カジャ, あいだや, めるせです",A,御徒町グリーンハイツ,赤坂藤マンション,ジェオ東北沢,葛飾区立南奥戸小学校
+316,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ちょこざっぷ, 味舟, 総合資格学院, 串八珍",D,芝SIAビル,高輪タウンハウス,丸三ビル,A-Rise Okachimachi
+317,"Which AOI in the Tokyo area do the following POIs belong to? POIs: オールドサイゴン, わら屋, 鳥貴族, ひとぼし",C,ST-Park,聖教新聞社,丸政ビル,フラット松原
+318,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 自遊空間, ナムコ, ルノアール, サンドラッグ",B,コインパーク,ミヤタビル,朝日生命王子ビル,ビストロDEまいど
+319,"Which AOI in the Tokyo area do the following POIs belong to? POIs: HONEY'S BAR, 薬のタサキ, アトレヴィ大塚 駐輪場, スターバックス",D,インスティトゥト・セルバンテス東京,タイムズ,衆議院議長公邸,atrēvie
+320,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 佐伯耳鼻咽喉科, 芝ヒフ科クリニック, ひろこデンタルクリニック, 港三田クリニック",C,E棟エントランス,Cracia Versecrasia Kikukawa Station Site,千代ビル,Rauken Town
+321,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 上智大学（文学部）, 上智大学（国際教養学部）, 上智大学（理工学部）, 上智大学（比較文化学部）",C,川崎ビル,伊藤ビル,上智大学,東急スポーツオアシス
+322,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 大妻女子大学（文学部）, 大妻女子大学短期大学部, NTT, 大妻女子大学（家政学部）",C,タチバナコーポ,野方第二公園,大妻女子大学,かっぱ公園
+323,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ロッテリア, 吉野家, 太陽のトマト麺, 佐久間歯科医院",D,ソシアル湯島ビル,クローバーのさと,（仮称）オープンレジデンシア大崎4丁目新築工事,アベニュー音羽
+324,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 宮武讃岐うどん, soup curry C&C, モスバーガー, ドトールコーヒーショップ",C,三木共栄ビル,東亀有変電所,メルクマール笹塚,サンイング品川
+325,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 日本調剤ミルディス薬局, 北千住駅前駐輪場, はなファーマシー, 中小企業金融公庫千住支店",B,Shinto麹町ビル,千住ミルディスII番館,本橋ビル,千川親水公園
+326,"Which AOI in the Tokyo area do the following POIs belong to? POIs: カラオケ まねきねこ, ウメ子の家, 土間土間, 鳥貴族",C,タイムズ,佐藤ハイツ,江間忠さくらビル,Le porl 西新宿
+327,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 上島珈琲店, トモズ, とんかつと豚肉料理 平田牧場 COREDO, Maison Kayser",C,ラインビルド神楽坂,ニュー恵美須,日本橋一丁目三井ビルディング,パソナスクエア
+328,"Which AOI in the Tokyo area do the following POIs belong to? POIs: +Music, たかはし, 浅沼, はしもと歯科",D,グランディール方南,THE PRICE,向陽ビル,Ordin日本橋ビル
+329,"Which AOI in the Tokyo area do the following POIs belong to? POIs: やきとりまる金, HUB, 炭火焼肉いずみの, ちゃい九炉",B,山陽企業第2ビル,ユニバース第一ビル,檀徒専用駐車場,芳窪街かど公園
+330,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 夢庵, コスモ歯科クリニック, ドラッグぱぱす, モスバーガー",C,Takayama Bldg.,エルサイド,ショッピングタウン・カリブ,トラスト五本木
+331,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Kirin-City, Salon De Salon, つきじ 植むら, 船堀シネパル",B,ラフィーネ本郷,タワーホール船堀,赤塚第9藤ハイツ,ルーエ高輪
+332,"Which AOI in the Tokyo area do the following POIs belong to? POIs: スターバックス, Tapas Blanco, ポータルカフェ, 三井住友銀行",A,TX秋葉原阪急ビル,日信ビル,ルフォンプログレ渋谷ヒルトップ,練馬区立 田柄中学校
+333,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 秋葉原あつたアレルギー呼吸器内科クリニック, 鹿島学園高等学校, 秋葉原のだ眼科, アガペ薬局",B,丸和ビル,清水ビル,志村城山公園,ノーブルコート平河町
+334,"Which AOI in the Tokyo area do the following POIs belong to? POIs: マクドナルド, イオンフードスタイル船堀店薬局, サーティワンアイスクリーム, ケンタッキーフライドチキン",C,ホーコス芝橋ビル,尾竹橋公園,イオンフードスタイル,TEPIA
+335,"Which AOI in the Tokyo area do the following POIs belong to? POIs: クオール薬局, 船堀駅前トキタワー, さくら医院 耳鼻咽喉科, すき家",B,小谷野しょうぶ児童遊園,トキビル,モダンピース,滝野川体育館
+336,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 海底撈火鍋, 八吉, HUB, Clove Base",D,プレシャス,レジデンス３,東京楽天地浅草ビル,チョムチョム秋葉原
+337,"Which AOI in the Tokyo area do the following POIs belong to? POIs: きなこととろり, サイゼリヤ, 築地銀だこ, Jack in the Donuts",D,KDX麹町ビル,東京風月堂日本橋ビル,ホテル松本,アトレ秋葉原2
+338,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 箱根そば, Maidcafe Pinafore, 秋葉原歯科, カフェトマティーナ",B,ビクトリアプラザ高円寺,山中ビル,歯科医師会,セゾン茂とう
+339,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 牛角, 白木屋, 博多風龍, テング酒場",B,清水ビル,GAITO秋葉原ビル,名鉄協商パーキング,パールホテル両国
+340,"Which AOI in the Tokyo area do the following POIs belong to? POIs: トピレックプラザ, なか卯, デニーズ, バーミヤン",A,トピレックプラザ,耳無不動三峯神社,ガーベラ巣鴨ビル,足立区立扇小学校
+341,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Doutor, 一番どり, Royal Korean Dining & Bar, Just Meat",A,パレスサイドビルディング,セントラーレビラジオ,高田馬場第二児童遊園,巣鴨ハイム
+342,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ふたみ食堂, uchinomi-dining so, L'ivresse, エレガンテ",D,丸山福山児童遊園,蓬麻ビル,杉山ビル,大原第3ビル
+343,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ふくろう皮膚科クリニック, 小川原デンタルクリニック, 池袋心療内科, 池袋大谷クリニック",D,GRANDE MAISON HONGOU SANCHOUME,帝国ホテル 東京,五反田桜小路,第一大谷ビル
+344,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 池袋演芸場, カフェ ド 巴里, Gocchi Batta, 油そば 東京油組総本店",C,エコロパーク,浅草西會館,エル・クルーセ,ホテル・サボイ
+345,"Which AOI in the Tokyo area do the following POIs belong to? POIs: らあめん花月, リトルアジア, Arraya, Bia Bia ラーメン",C,水田ビル,あきばお〜,高円寺サマリヤマンション,ビオラ
+346,"Which AOI in the Tokyo area do the following POIs belong to? POIs: PRONTO, おにやんま　五反田本店, ラーメン魁力屋, 魚がし日本一",D,大久保ビル,秋田ビル,野村不動産西新宿ビル,リビオ五反田プラグマGタワー
+347,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 大畑歯科口腔外科, NIJUMARU, 北海道, 戸倉眼科",B,Tsuboman Bld,Recipe SHIMOKITA,スエヒロビル,かきのビル駐車場
+348,"Which AOI in the Tokyo area do the following POIs belong to? POIs: じとっこ組合, 秋葉原メンタルクリニック, 小柳歯科, CoCo壱番屋",A,地渡辺ピル,クラッシィタワー東中野,M.Y.T BLDG,あさひハウス
+349,"Which AOI in the Tokyo area do the following POIs belong to? POIs: サイゼリヤ, 虎髭, サンマルクカフェ, ドトールコーヒーショップ",D,まつばビル,PALACE STUDIO御茶ノ水湯島駅前,駿台予備学校 お茶の水校 1号館,センターまちや
+350,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 早稲田アカデミーIBS, 東大・医学部クラブ, Berlitz, 野田クルゼ",B,Big-A,瀬川ビル,足立成和信用金庫,日本大学 芸術学部
+351,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 日本大学（経済学部）, 日本大学（文理学部）, 日本大学（法学部）, 日本大学（商学部）",A,日本大学法学部3号館,マサキビル,万寿金ビル,今井ビル
+352,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Dean and Deluca, ケンタッキーフライドチキン, Juice in juice, MAX BRENNER CHOCOLATE BAR",B,練馬区立北西大松公園,広尾プラザ,祐天寺第二コーポ,都営若宮三丁目アパート
+353,"Which AOI in the Tokyo area do the following POIs belong to? POIs: たち飲み きんらん, 韓, 餃子酒場, 家庭料理 お蝶",C,メゾンソハラ,私立 関東第一高等学校,ラ・ガール駒込,千住宿 高札場
+354,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 本家かまどや, 口福, 愛犬病院, 東池袋歯科",C,コーワウエストビル,ドルチェヴィータ,東池袋ダイヤマンション,飛栄九段北ビル
+355,"Which AOI in the Tokyo area do the following POIs belong to? POIs: マクドナルド, ゲートシティプラザ, 東京都産業労働局労働相談情報センター大崎事務所, ラ・メゾン アンソレイユターブル",C,表参道 けやきビル,外苑西詰所,ゲートシティ・ウェストタワー,赤坂ホームズ
+356,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 品川ハートメディカルクリニック, 舫吉, コカ・コーラ, 大福苑",D,CREA,SHIBUYA DELI TOWER,八束ビル,高輪ホワイトマンション
+357,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 高輪整形外科クリニック, オーベル薬局, あじと, 金門閣",A,グレイスビル泉岳寺前,OSビル,ノイエ・ドムール,BIC CAMERA
+358,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Hero's, 五反田みるみる, EPILOGUE, マリンサプライズ",C,神田警察署お茶の水交番,練馬区立 田柄第二小学校,M ・Stage 五反田,タワーレコード
+359,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 阿美橫町, os drug, PRONTO, じゅらく",A,ヨドバシカメラ,パラカ,アクティ目黒駅前,サンヨー堂錦糸町ビル
+360,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Maison de ROZE, ばんから, Maison de Eterna, GIRL'S CAFE☆TOKYO",A,MTビル,台東区立 富士小学校,ルミエール祐天寺,宇喜田稲荷神社
+361,"Which AOI in the Tokyo area do the following POIs belong to? POIs: TKPガーデンシティPREMIUM, 目利きの銀次, 餃子マニア, 品川駅高輪口タクシー乗り場",D,小澤第2ビル,虎ノ門一丁目ビル,丸万7号館,京急第11ビル
+362,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 大松, あじ彩, ルビーノ, みなみ",C,NTT王子ビル本館,事業構想大学院大学,幸和ハイツ,嘉ノ雅 茗渓館 (茗渓会館)
+363,"Which AOI in the Tokyo area do the following POIs belong to? POIs: よかさん房, ITSUKI Coffee Roastery, 麺家ばく, 笑笑",D,ベルビー幡ヶ谷,ジャストパーク,正蓮寺,山内ビル
+364,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 焼肉 ごち苑。, ココカラファイン, インターネットコミックカフェ, 北海道",D,本町アパートメント,ヒラ井ビル,SQUARENIX,オンダ浅草橋ビル
+365,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 季節料理いろは, 麻雀 綾, 酒肴肉寿司, 気まぐれキッチンISHIBASHI",D,中井東公園,長沼ビル,サンビューハイツ駒込,大原第2ビル
+366,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ココロモクリニック神田, メトロファーマシー神田, 神田鈴木皮膚科, 神田ウィメンズクリニック",A,メディカルプライム神田,第7ユービコーポ,トミー パーキング,タイムズ
+367,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ポッカサッポロ, サントリー, サントリー, キリンビバレッジ",C,矢沢,好乃ビル,MIFビル,メグリオ住吉
+368,"Which AOI in the Tokyo area do the following POIs belong to? POIs: タイムズ, サントリー, コカ・コーラ, 神田 木花",A,矢萩第2ビル,ディアクオーレ駒込染井,三田ビル,WATER TOWER
+369,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 三田アート画廊, テング酒場, ドトールコーヒーショップ, 神保町矯正歯科クリニック",D,東京都立 豊島高等学校,ニューキプロス蔵前ビル,加藤ビル,IVYビル
+370,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 肉バル高安, URARA, タリーズコーヒー, チケットモモ",B,団子坂上広場,安田ビル,國學院メモリアルレストラン,Plaza平和
+371,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 竹内歯科クリニック, ガールズバー ロエル, 天下一, 居酒屋源太郎",C,MY新宿第二ビル,中山ビル,MIYAKO BLDG,三大ビル
+372,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 太陽歯科, マクドナルド, ドトールコーヒーショップ, こさか眼科",B,中通り児童遊園,太陽ビル,片山ビル,CROWN無線
+373,"Which AOI in the Tokyo area do the following POIs belong to? POIs: やまや, インド屋, 四谷大塚, マツモトキヨシ",C,アルト恵比寿,Repark,ワテラス アネックス,搬入用駐車場
+374,"Which AOI in the Tokyo area do the following POIs belong to? POIs: サンラッキー三ノ輪店, JOYFIT24, ジョナサン, 開倫塾",C,あかね公園,ハイム代田,MINOWORLD,渋谷SEDE
+375,"Which AOI in the Tokyo area do the following POIs belong to? POIs: バーガーキング, 三田製麺所 阿佐ヶ谷店, 佐藤内科クリニック, てんや",A,阿佐ヶ谷北口駅前ビル,コーシャハイム駒込 南,荒川区立汐入小学校,東京地下鉄資材センター
+376,"Which AOI in the Tokyo area do the following POIs belong to? POIs: まつむら歯科, くまがい眼科, 日生薬局, 中田耳鼻咽喉科",C,双鷺公園,京王初台駅ビル,F.G.Sビル,扇ビル
+377,"Which AOI in the Tokyo area do the following POIs belong to? POIs: スターバックス, 飯田橋サクラテラス（早稲田通り）, Royal Garden Cafe, 飯田橋郵便局",C,杉並区立 馬橋小学校,東京東信用金庫 大和町支店,飯田橋サクラパーク,和
+378,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 麻雀錦水, 自由軒, ten, ライブハウスウッディ",D,月極有料駐車場第3三角パーキング,鈴和ビル,東京都立 練馬高等学校,赤羽南口駅前ビル
+379,"Which AOI in the Tokyo area do the following POIs belong to? POIs: サンシャイン６０内郵便局, サンシャインシティ, スターバックス, ドトールコーヒーショップ",D,トーソクビル,アップルパーク,東武ビル,サンシャインシティ
+380,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 星乃珈琲店, 鳥福, 大衆酒場えびず, てけてけ",C,レジデンス北綾瀬,駒沢緑泉公園 (Komazawaryokusen Park),ウィーンビル,"K,s BLD."
+381,"Which AOI in the Tokyo area do the following POIs belong to? POIs: セブン銀行, 水晶楼, ケンタッキーフライドチキン, メリーポピンズ",D,ヒルハウス代官山B棟,善福寺川公園,池之端ビル,徳丸スクエア
+382,"Which AOI in the Tokyo area do the following POIs belong to? POIs: くくる, 日乃屋カレー, Gong cha, スターバックス",B,Piggeon松濤高田ビル,ビーンズぷらす,赤堤ゴルフクラブ,千代田区立 昌平小学校
+383,"Which AOI in the Tokyo area do the following POIs belong to? POIs: てんや, サイゼリヤ, 大戸屋, マクドナルド",D,第2丸芝ビル,GINZA SARUTANI BLDG,NW BLD.,ポンテポルタ千住
+384,"Which AOI in the Tokyo area do the following POIs belong to? POIs: とん豚テジ, ナマステ, 西安家常菜 刀削麺酒楼, 鮮魚家",D,唐和楼,エイブルパーキング,三井のリパーク,本郷コーポレイション
+385,"Which AOI in the Tokyo area do the following POIs belong to? POIs: バーラティカフェ, 和乃膳, 博多ラーメン 長浜や, キッチンセブン 街のハンバーグ屋さん",D,ブリックビル,TENOHA &NEXT,Welcome Park,NEW AKAMON BLDG
+386,"Which AOI in the Tokyo area do the following POIs belong to? POIs: MARGO 新宿グランドタワー店, CHINADOLL 新宿グランドタワー本店, ワイン食堂Vivo, サンマルクカフェ",C,Park Court Roppongi Hill Top,足立区立東栗原小学校,ベルサール新宿グランド,与楽寺公園跡地
+387,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ココカラファイン, 経堂コルティ, 叙々苑, ミスタードーナツ",A,Kyodo Corty,プラウドタワー東雲キャナルコート,ワンエイト,Honda
+388,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Lever son Verre, 生協食堂, ゆうちょ銀行, イタリアントマト",D,くまのまえはっぴぃ公園,田柄もくせい児童遊園,ホテル・エメラルド,東京大学 駒場Ⅰキャンパス
+389,"Which AOI in the Tokyo area do the following POIs belong to? POIs: カレーオオバ, Ebisu-yokochō, Nikuzushi Ebisu Yokocho, 恋酒場",C,鷺宮児童遊園,三菱ＵＦＪ信託銀行 中野支店,第一協栄ビル,JR恵比寿ビル
+390,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 路地屋, かすが, とまとの部屋, たあた",B,コスモス道玄坂,関ビル,TMビル,大黒屋
+391,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 共栄堂, ランチョン, キッチンジロー, 共栄堂",A,神保町サンビルディング,Naigai Building,第一扇屋ビル,菅井ビル
+392,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Eggs 'n Things, スターバックス, サンマルクカフェ, 東京ラーメン国技館 舞",B,福寿苑,アクアシテイお台場,ポケットパーク,原宿表参道ビル
+393,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 英会話イーオン, 品川スキンクリニック, まんが喫茶ゲラゲラ, コメダ珈琲店",D,大東京ビル,小暮末広ビル,中央公園,上野東洋ビル
+394,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 共立女子学園, 共立女子短期大学, 共立講堂, 共立女子大学（文芸学部）",B,ハーモニー中目黒,共立女子大学,アトラスタワー茗荷谷,まいばすけっと
+395,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 青二才, テラススクエア, Craft Beer Market, わさび",B,渋谷区立 猿楽小学校,テラススクエア,ひがし健康プラザ,ロータス竜泉
+396,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Taco Bell, 東京ドーム（黄色いビル横）, ラクーア自転車駐輪場A, クラブセガ",B,国際交通,東京ドームシティ,渋谷センタープレイス,橋本第2有料駐車場
+397,"Which AOI in the Tokyo area do the following POIs belong to? POIs: バーガーキング, Dr Stretch, スープストックトーキョー, そば酒房・笹陣",D,篠塚ビル,アーバンネット日本橋二丁目ビル,東京法務局港出張所,お茶の水サンクレール
+398,"Which AOI in the Tokyo area do the following POIs belong to? POIs: サブウェイ, COCO塾, 名門会, お茶の水血管外科クリニック",A,ヒルクレスト御茶ノ水,YSビル,メゾン・ド・カリテ,ヤマベビル
+399,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 虎ノ門ヒルズ森タワータクシー乗り場, 虎ノ門ヒルズ, Bebu, 虎ノ門ヒルズ局前",D,丸の内トラストタワーN館,あかつき公園,Qnz EBISU,虎ノ門ヒルズ
+400,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 明治学院大学（経済学部）, 明治学院大学（法学部）, 明治学院大学（社会学部）, 私立明治学院高等学校",B,ピアンタ,明治学院大学（法学部）,中村ビル,TOKYO SHARE KYODOU
+401,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 沖縄茶屋, 門前茶屋, いずみ歯科, 叙香苑",A,クレール門前仲町,ちゃおちゃおコインパーキング 下赤塚No2,日向ビル,三河台ハイツ
+402,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 花葵 本店, BOMBAY SIZZLERS, 歓迎 蒲田羽付き餃子, 花葵 別邸",A,東京スクエアガーデン,KAIHALE,ベルメゾン池袋,天龍院
+403,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 中華そば 導, ラーメン鷹の目, ケンタッキーフライドチキン, 餃子酒場",D,金刀比羅神社,アール・ビル新宿,テルマエドムス根岸,明大前レインボービル
+404,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 東京藝術大学奏楽堂, 東京芸術大学 (音楽学部), キャッスル食堂, 国立東京芸術大学 音楽学部附属音楽高等学校",B,表参道サンケイビル,東京藝術大学,仰高門,芝沢久ビルディング
+405,"Which AOI in the Tokyo area do the following POIs belong to? POIs: フレッシュネスバーガー, La Maison Kioi, 東京ガーデンテラス紀尾井町, Bar Napoleon",D,東洋文庫ミュージアム,天理教大里分教会,NDKロータスビル,東京ガーデンテラス紀尾井町
+406,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Daiwa Sushi, ENEOS 東日本宇佐美 サービスステーション, 天ぷら 天房, 豊洲市場（5街区）",C,コインパーク,PASSAGE AOYAMA,豊洲市場(5街区),寿ビル
+407,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 磐梯山, 東京立呑倶楽部, 安美, はせがわ",A,尾崎ビル,ばなな公園,アビテ本郷,葛飾区立堀切中学校
+408,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 小田急サザンタワー, El Torito, シェイクシャック, ジンジャーグラス",C,スワビル,メイフェアコート六本木,小田急サザンタワー,若宮八幡神社
+409,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Falafel Brothers 渋谷パルコ, ベィーガン居酒屋真さか, ホワイトシネクイント, 虎へび珈琲",A,渋谷パルコ,第一川高ビル,三井のリパーク,ドエル赤羽
+410,"Which AOI in the Tokyo area do the following POIs belong to? POIs: C'EST BIEN, BONDS, 松屋, 養老乃瀧",A,平和ビル,リョーサン技術センター,ミレニアム三井ガーデンホテル東京,L.V Annex
+411,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 騫護稲荷神社, スターバックス, ミクソロジー サロン, 観世能楽堂",A,GINZA SIX,目黒区立 月光原小学校,東京クリスタルビル,Times
+412,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 中之郷町会会館, 芳賀クリニック, すみだ女性センター, 吹雪",B,石井ハイツ,セトル中之郷,PMO,Qnz EBISU
+413,"Which AOI in the Tokyo area do the following POIs belong to? POIs: うまや, 赤坂警察署東宮御所警備派出所, にこにこパーク, 三井ガーデンホテル神宮外苑の杜プレミア",B,エスポワール目白,明治神宮外苑,本郷TKビル,済美児童遊園
+414,"Which AOI in the Tokyo area do the following POIs belong to? POIs: サンプレイスポーツトレーナースクール, 遊食家Boo, アイアンカフェ, 2k540専用自動二輪車駐車場",A,2k540 AKI-OKA ARTISAN,日本橋ライフサイエンスビルディング10,1東洋海事ビル,正榮四谷ビル
+415,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 魚がし日本一, 銀だこ, SAPANA, サイゼリヤ",C,若葉児童遊園,本郷MTビル,ポルタ神楽坂,パークジャパン駒込第1
+416,"Which AOI in the Tokyo area do the following POIs belong to? POIs: おぼんdeごはん, タリーズコーヒー, ハルカ, 喜乃字屋",D,西陣,西新宿岡ビル,山口ビル,上野の森さくらテラス
+417,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 魚と豚と黒三兵, 青葉, つけ麺TETSU, わ蔵",C,日土地ビル,ホテル・カリン,御徒町らーめん横丁,NHK放送博物館
+418,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 慶應義塾大学(看護医療学部), 慶應義塾大学（看護医療学部）, COCOROTUS FOODTRUCK【慶應義塾大学病院店】※一般不可, 四谷警察署信濃町交番",B,上中里ハイツ,慶應義塾大学病院,ヒューリック渋谷公園通りビル,サンライズ東中野
+419,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ウメ子の家, 小鳥遊, 新生銀行, BISTRO-YA",A,世界ビル,クローバー六本木,村田ビル,鶴屋ビル
+420,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 卸)神保町食肉センター, カラオケ歌広場, 俺の創作らぁめん 極や, Domaine Champ de Haut",B,サンライズビル,ハトヤビル1,Jewels下落合,銀嶺ビル
+421,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Blue fitness24, Suekko, ちゃいれっく, いただきコッコちゃん 西葛西店",D,グランマルシェ,西戸山球場,KBU Bldg,メトロセンター4番街
+422,"Which AOI in the Tokyo area do the following POIs belong to? POIs: タリーズコーヒー, TRES, 阿佐ケ谷西高架下自転車駐車場, JKSサイクルパーク",B,京セラ原宿ビル,ビーンズくるく,アーバンプレイス駒込ドゥエル,MINAMI ASAGAYA HEIGHT'S
+423,"Which AOI in the Tokyo area do the following POIs belong to? POIs: chawan, PIZZA FORNO CAFE, SWEET CACTUS, スターバックス",C,両国第一児童遊園,グランヴェール長者丸,ビーンズてくて,チョーギンビル
+424,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Donna, オーシャンウイスキー洋, 合戦焼 桑名, BAR Confession",A,まつばビル,OGAビル,グランパティオ,第２神田ビル
+425,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 上野EDクリニック, 三菱UFJ銀行, 東京上野クリニック, うぐいす谷駅前歯科",B,マルトミビル,高松ビル,神谷ビル,外濠公園
+426,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ポポラー, ドトールコーヒーショップ, PASONA SQUARE, アガペ",A,パソナスクエア,TOYO HEIGHTS HUKUSHIMA,神田五軒町シティビル,Patio Hills
+427,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Kushitei Shibuya Stream, Petalo, XIRINGUITO Escribà, PASTA BROTHERS & I Love Ribs 渋谷ストリーム店",D,Laurel i+ Higashinakano,徳丸本町公園,ホテルインディゴ東京渋谷,渋谷ストリーム
+428,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 大江戸, 熟女キャバクラ, ANGEl KISS, Selection Luxury Club",C,月極専用駐車場,青山ザ・タワー,宝丹ビル,テイトビル
+429,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 友の里, 野村医院, あきもと薬局, 野村歯科口腔外科クリニック",A,恵和会サービスセンタービル,岩上ビル,葛飾区立 木根川小学校,葛飾区立亀青小学校
+430,"Which AOI in the Tokyo area do the following POIs belong to? POIs: スターバックス, サイカパーク恵比寿, 東恵比寿商栄会会館, 恵比寿駅西口第二 自転車駐車場",B,アクサス西新宿,JR恵比寿ビル,山喜ハイツ,スミトー錦糸町ビル
+431,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 赤ちゃん休憩室, 赤ちゃん休憩室, かつくら, 水刺齋",D,桑の湯,大東橋公園,タイムズ,タカシマヤタイムズスクエア
+432,"Which AOI in the Tokyo area do the following POIs belong to? POIs: The Alley, EATALY, MACCHA HOUSE 抹茶館, Shiseido Parlour",B,在宅総合ケアセンター元浅草,WITH HARAJUKU,レジーナ秋葉原 太平,Grand Force Akihabara
+433,"Which AOI in the Tokyo area do the following POIs belong to? POIs: スターバックス, 宮崎地鶏炭火焼 車, 汐留シティセンター, 日テレ大時計",B,West Parking,汐留SIO-SITE,Barbizon74,第3ナガシマビル
+434,"Which AOI in the Tokyo area do the following POIs belong to? POIs: But de football, But de football, but de football, jeu",A,東京国際フランス学園,アトラスビル,スカイプラザ赤坂,杉並警察署高円寺交番
+435,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 六本木ヒルズ, テレビ朝日, La Brianza, 六本木ヒルズ郵便局",A,六本木ヒルズ,日本酒造虎ノ門ビル,A-1ピクチャーズアサガヤスタジオ,Daiwa芝大門ビル
+436,"Which AOI in the Tokyo area do the following POIs belong to? POIs: スターバックス, The Counter 六本木, The Bar (Ritz-Carlton), 東京ミッドタウン郵便局",D,白蘭ビル,メルファスト駒込,Mevius駒込,東京ミッドタウン
+437,"Which AOI in the Tokyo area do the following POIs belong to? POIs: いいだ歯科クリニック, Excelsior, PIZZA SALVATORE, ヴィ・ド・フランス",B,前沼児童遊園,文化学園大学,エッグスンシングス 原宿店,ホテル・グランスカイ
+438,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 明よし, 古月, 醸ス, 酔つ馬",A,森田ビル,関口ビル,赤坂SDビル,MAISON DE MARRONNIER
+439,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 焼肉笑, 匠, フクワケ, Castle",D,ウィンド西神田ビル,上野鈴木ビル,メディカルロード錦糸眼科ビル,ヴェルス秋葉原
+440,"Which AOI in the Tokyo area do the following POIs belong to? POIs: MY Shokudo Dining & Sakaba, Tsubamesanjo Bit TOKYO, フレンチ串揚げ　BEIGNET, タリーズコーヒー",D,丸の内永楽ビルディング,藤和シティホームズ巣鴨STATION VIEW,タイムズ,TOKYO TORCH
+441,"Which AOI in the Tokyo area do the following POIs belong to? POIs: サーティワンアイスクリーム, スターバックス, 魚金, 立ち飲みビストロ シン サンテ",D,虎ノ門実業会館,都立横網町公園,ザ・カテリーナ,目黒セントラルスクエア
+442,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 浪花かすうどん むねひろ, 麻布ラーメン, 仙香園, Farmer's Chicken",C,わかたけ公園,三菱重工 巣鴨社宅,クレール芝,ニトリ
+443,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 三田バル, みなっトリア, Kiki Driving School, BBJ スポーツアカデミー",A,芝ビルディング,ストークビル道玄坂,未来国際貿易株式会社,中央区日本橋区民センター
+444,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Kanno Sushi Cafe｜Sushi Kaisenn Omakase, すしざんまい 本店, Tsukiji Teppan-yaki Jūjū, Mata Koi Ya",B,タイムズ,築地場外市場,菊岡ビル,三井のリパーク
+445,"Which AOI in the Tokyo area do the following POIs belong to? POIs: キミドリ, Urth Caffé, wagyu&steak TEPPANYAKI 10 SHIBUYA, Real Drip Coffee No.12 by Ueshima Coffee House",B,若槻ビル,渋谷スクランブルスクエア,明治安田生命王子ビル,SAN Park
+446,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 日本橋幼稚園, 中央区立日本橋図書館, 中央区立 日本橋小学校温水プール, 人形町駐車場",C,台東少年センター,日建設計 東京ビル,中央区立日本橋小学校,東京羊羹
+447,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 池尻児童館, 池尻保育園, がやがや館, がやがや館駐車場",A,せたがや　がやがや館,いなみやビル,TMビル,M&Cビル
+448,"Which AOI in the Tokyo area do the following POIs belong to? POIs: マミーズエンジェル千代田保育園, 千代田区立神田まちかど図書館, アフタースクールさくら, 千代田幼稚園",D,セザール 第二不動前,シティータワー武蔵小山・レジデンス棟,慶應不動産,千代田区立 千代田小学校
+449,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Issa Foodiun Bar, 牛角, TGI Friday's, 赤から",A,aune池袋,クリオ両国,NTT品川Twinsビル オフィス棟,古澤ビル
+450,"Which AOI in the Tokyo area do the following POIs belong to? POIs: らーめん 玉, ソラノイロNIPPON, 丸の内警察署八重洲口交番, 東京ラーメンストリート",D,しみず ビル,BUNCHOU HOUSE,ブレイク×ザ・パーク 駒込第2,東京駅一番街
+451,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Momonga, Sumicco, 中央福音教会, アニメイトカフェ",D,北青山一丁目児童遊園,杏林大学医学部付属杉並病院,NTT東日本 荒川,乙女ロード
+452,"Which AOI in the Tokyo area do the following POIs belong to? POIs: スターバックス, Beercafe Brugs zot, 日本橋だし場 はなれ, 日本橋 玉ゐ",A,COREDO室町2 (室町古河三井ビルディング),ライオンズマンション愛宕山,パークジャパン 浜田山第4,パセラリゾーツ
+453,"Which AOI in the Tokyo area do the following POIs belong to? POIs: タイムズ, 三井住友銀行, 浜松町コンベンションホール, 浜松町クレアタワー",A,日本生命浜松町クレアタワー,河野工務店,ハイツ小林,T.K Azuma Bld.
+454,"Which AOI in the Tokyo area do the following POIs belong to? POIs: msb Tamachi, 広州市場 雲呑麺 田町店, シュマッツビアレストラン, 酒場 BEETLE",D,泉ガーデンレジデンス,Tanaka Bldg 2,八丁堀ジョンソンビル,プルマン東京田町
+455,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 日高屋, ベリースープ, 築地銀だこ, 焼肉ライク",B,ファミリーマート,なぎさテラス,御徒町みきビル,ドゥーエ西大島2
+456,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Saito Dental Clinic, FOOD MET, マクドナルド, Frenchman Shibuya Sakura Stage",C,玉台家具製作所 淡路亭,天王洲スタジオ,Shibuya Sakura Stage,A＊G神宮前
+457,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Darjeeling, こだわり自家製麺, 味菜里, 礫川公園",D,林ビル,リバーサイド21,クリエ湯島,礫川公園
+458,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 國学院大学（文学部）, 和[NAGOMI], 喫煙所, 國学院大学（神道文化学部）",D,外神田田島ビル,川上ビル,泉岳寺児童遊園,國學院大學
+459,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ドトールコーヒーショップ, スターバックス, ケンタッキーフライドチキン, 帝京大学医学部附属病院",A,帝京大学,東向島北公園,弘真ビル,セブン-イレブン
+460,"Which AOI in the Tokyo area do the following POIs belong to? POIs: サーティワンアイスクリーム, くら寿司, ミスタードーナツ, セブンタウン小豆沢",A,セブンタウン小豆沢,大山ビル,東綾瀬公園,宝山ビル
+461,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 改札口, 有明テニスの森駅自転車駐車場, やぐら橋下, JUICY PAPA",B,白ばらビル,東京港6号・10号・11号埋立地,高南みどり公園,白金三光坂クラティオ
+462,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 辰巳駅東口自転車駐車場, 辰巳駅東口自転車駐車場, 東京アクアティクスセンター, バスケットゴール",B,タイムズ,東京港7号埋立地,第三セイコービル,五反田サンハイツ
+463,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 東京湾岸警察署第五台場交番, 高輪消防署港南出張所, タイムズ, Rocky",C,エスメタル株式会社,窪田ビル335,品川ふ頭,DeLCCS Akatsuka
+464,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 豊洲センタービルアネックス, 豊洲フォレシア歯科クリニック, 銀座シシリア豊洲店, スターバックス",D,駒沢一丁目公園,第一ホテル東京,住長第２ビル,東京港5号埋立地
+465,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ドコモ・バイクシェア晴海ポート, 東京都立大学　晴海キャンパス, 東京税関晴海出張所, こう星海鮮酒家",A,東京港4号埋立地,虎ノ門ヒルズビジネスタワー,グリーンプラザ錦糸町,全日警 センター ビル
+466,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 中央豊海郵便局, 豊海センタービル, 交通広場（豊海町）, 東京ミッドベイ勝どき（西仲通り）",B,Nampu's ナンプズ　タイダイニング,東京港1号埋立地,国立科学博物館,エクセルウィング
+467,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Wagyu to Worldwide, スリスティ, 勝どき児童館, 松屋",C,セキビル,シャトー上原,東京湾1号埋め立て地,京阪神 御成門ビル
+468,"Which AOI in the Tokyo area do the following POIs belong to? POIs: もんじゃ 麦 西仲店, 日の出湯, 焼肉ダイアナ, モスバーガー月島店",B,メゾン・セレステ2,東京湾1号埋め立て地,第三徳丸ビル,山下ビル
+469,"Which AOI in the Tokyo area do the following POIs belong to? POIs: どさん子, 日本小型船舶検査機構東京支部, 関東地方整備局東京港湾事務所, 商工組合中央金庫新木場支店",C,テーブルマーク築地ビル,私立 文京学院大学 女子高等学校,東京港14号埋立地,ミナミ神保町ビル
+470,"Which AOI in the Tokyo area do the following POIs belong to? POIs: すき家, 東京海洋大学（水産学部）, フェイバリッチタワー品川, 港南四丁目第3アパート駐車場",D,林町児童遊園,サンスペース代田,下馬公園,東京港9号埋立地
+471,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 東京イーストサイドホテル櫂会, 団欒 炎, 潮見 龍宮社, キッチンオリジン",D,セトル中之郷,エポック社,昇龍館ビル,潮見
+472,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Pepper Lunch, 万年や, 兎, 株式会社前川製作所（東側）",D,巣鴨東宝ビル,NPC24H,赤坂クインビル,越中島
+473,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 城北スクール, 鳥ぷろ, わた井, モスバーガー",B,NPC,北綾瀬パークスクエア,セガ秋葉原,奥戸しらさぎ公園
+474,"Which AOI in the Tokyo area do the following POIs belong to? POIs: キッチンオリジン, 北綾瀬皮膚科, Mind, 日高屋",D,フジキカイ広尾ビル,泉岳寺児童遊園,木勢ビル,小倉ビル
+475,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 如水会館, 一橋大学千代田キャンパス, 国立情報学研究所, 一橋講堂",A,学術総合センター,MSビル,文京グリーンコート,旅館 山楽
+476,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ウエルシア薬局, ちばチャン, じぶんどき, 北海道",B,石川幼稚園,BiTO AKIBA,東大島神社,HLビル
+477,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 品川心療内科, 包丁や, 腹黒屋, 焼肉酒房 ばんや",A,品川駅港南商店街,WIND UENO BLD,関東小滝橋第3マンション,プロスパラス高輪
+478,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 品川インターシティ, サンマルクカフェ, 品川インターシティ郵便局, マクドナルド",D,Grottablu Komagome,２４会館,プラザ町屋弐番館,品川インターシティ
+479,"Which AOI in the Tokyo area do the following POIs belong to? POIs: カフェ・ド・クリエ, Shinagawa Parking Access, Eikarou, 品川駅港南口",B,コイズミパーキング,品川グランドコモンズ,西新井ホール,ハイム野沢
+480,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ダイバーシティ東京 プラザ, トイレ, 出会い橋高架下, 出会い橋",B,南日本ビル,シンボルプロムナード公園,Casa 伊皿子,パークサイド木下
+481,"Which AOI in the Tokyo area do the following POIs belong to? POIs: まえはら整形外科クリニック, 光が丘エトワール歯科, 練馬光が丘内科内視鏡クリニック, 光が丘こどもクリニック",D,田中,佐久間医院,プラウド恵比寿ヒルサイドガーデン,C CLINIC HIKARIGAOKA
+482,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Capcom Cafe, Sul.bing Cafe, タリーズコーヒー, grand cinema sunshine",D,埼畜ビル,王子給水所(仮称),ポートワンシンバシ,Q plaza IKEBUKURO
+483,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 大谷田住区センター, 大谷田第一保育園, 大谷田第二保育園, 足立大谷田団地内郵便局",C,日本食品分析センター,シャトルモンブラン,大谷田一丁目団地,吉田屋ビル
+484,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 4号館, 渋谷歯科医院, 5号館, 緑湯(跡)",D,私立 文京学院大学 女子高等学校,東京コミュニケーションアート専門学校,淑徳小学校,帝京科学大学千住キャンパス
+485,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 大河堂薬局, 藍屋, 桜田保育園, 王子五丁目児童遊園",C,アクシア代々木,井出ビル,王子五丁目団地,窪町東公園
+486,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ビッグエコー, Bella Bella, 銀座ライオン, McDonald's",D,日本聖公会東京教区事務所,松島二丁目第二公園,ルミエール祐天寺,大東ビル
+487,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 森塾, 花まる学習会, Beyond, くすの木レディースクリニック",D,ブライト錦糸町,原沢ビル,東京音楽大学,藤田ビル
+488,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ココカラファイン, シーバンスＮ館内郵便局, シーバンス, 丸亀製麺",D,北品川ONビル,富永ビル,メテロパーク,芝浦運河緑地
+489,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Caldo, 三井住友銀行, 喫茶カメアリ堂, リリオホール",C,石原ビル,第5松が谷荘,リリオ,オークラランド
+490,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 東京都主税局葛飾都税事務所, 葛飾区基幹在宅介護支援センター, 葛飾区役所内郵便局, 葛飾区役所",A,葛飾区総合庁舎,東十条駅前ホール,タイムズ,タイムズ 新小岩第１２
+491,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 習志野庵, チキンバル伊太利亭, 白根歯科医院, 鮨たじま",C,江河和ビル,こだま幼稚園,山屋東陽ハイツ,五反田さくらビル
+492,"Which AOI in the Tokyo area do the following POIs belong to? POIs: カフェ アントニオ, スープストックトーキョー アトレ四谷店, スターバックス, おむすび権米衛 アトレ四谷店",B,都営島根二丁目アパート,アトレ四谷,ABCビルディング,楠田荘
+493,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 麺屋ばらお, ダイドードリンコ, ゆで太郎, コカ・コーラ",D,ブライトハウス根津,木村廣松苑,Alley Apartment,南砂パブリックハイツ
+494,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Pudo, ココカラファイン, 京成サイクルパーク ユアエルム青戸店, セントラルフィットネスクラブ",D,第二東亜会館,造園会館,ABM平河町ビル,YourELM Aoto
+495,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 豊島区立駒込図書館, 駒込第三保育園, くゆり, やきとん",A,都営駒込二丁目アパート,エアーテクノス,NRK KOISHIKAWA Bldg.,高円寺谷中緑地
+496,"Which AOI in the Tokyo area do the following POIs belong to? POIs: memento mori, 虎ノ門横丁, 鮎ラーメン, スターバックス",C,パチンコ エスパス,国産タクシー,虎ノ門ヒルズビジネスタワー,ミオカステーロ駒込
+497,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 東京ダイヤビルクリニック, デリー, 新川在宅介護支援センター, Delhi Shinkawa",A,新川地区地域熱供給事業営業地域,公開空地,東都城東タクシー,レジデンス中村
+498,"Which AOI in the Tokyo area do the following POIs belong to? POIs: NEO TOKYO, 大黒屋, 麗, カラフル部",C,FUKUYA,タイムズ,吉原,南砂パブリックハイツ
+499,"Which AOI in the Tokyo area do the following POIs belong to? POIs: NANAEI日本橋, ＩＢＭ箱崎ビル内郵便局, ドトールコーヒーショップ, 東京シティターミナル内郵便局",B,ホテル・エイト,箱崎地区地域熱供給事業営業地域,世尊院幼稚園,加藤アパート
+500,"Which AOI in the Tokyo area do the following POIs belong to? POIs: タリーズコーヒー, 松浦内科クリニック, 松屋, タリーズコーヒー",C,五反田ふれあい水辺広場,宮坂52号・128号交叉点,東京スカイツリー地区地域熱供給事業営業地域,ハイネス池尻藤山ビル
+501,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 芝浦港南地区総合支所, 愛育病院, みなとパーク芝浦, 港区スポーツセンター",B,松陰学園,田町駅東口北地区地域熱供給事業営業地域,湯島聖堂,ナインアワーズ
+502,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 和民 光が丘ＩＭＡ公園通り店, 光が丘むらさき幼稚園, みずほ銀行, UR賃貸住宅 ゆりの木通り北(2)",A,光が丘団地地区地域熱供給事業営業地域,Times,NBF池袋シティビル,窪田ビル335
+503,"Which AOI in the Tokyo area do the following POIs belong to? POIs: スターバックス, 鉄板 天祐, KABUKI BURGER&TACOS, 109シネマズプレミアム新宿",C,錦糸パーク・ヤマト,グランドメゾン不動前,東急歌舞伎町タワー,墨田区立菊川小学校
+504,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 舟和, 壱番屋, Bairindō, 舟和 仲見世 3号店",C,ハイツ秋,外堀通ビル,仲見世商店街,JA東京あおば ファミリー農園
+505,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 世田谷区医師会初期救急診療所, 世田谷区福祉人材育成･研修センター, 世田谷区医師会立看護高等専修学校, 世田谷区休日夜間薬局",B,フェリチェ菊川,うめとぴあ,コーポ田村,リュウハイムⅡ
+506,"Which AOI in the Tokyo area do the following POIs belong to? POIs: よつや駅前クリニック, 星乃珈琲店, 四谷うし幸, 国際交流基金ライブラリー",C,西落合東公園,三井のリパーク,コモレ四谷 YOTSUYA TOWER,灯ビル
+507,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 法政大学（人間環境学部）, 法政大学（キャリアデザイン学部＜夜間主＞）, 法政大学（経済学部）, 法政大学",D,ウオトミビル,国際文化理容美容専門学校渋谷校,磯丸水産,法政大学 市ヶ谷キャンパス
+508,"Which AOI in the Tokyo area do the following POIs belong to? POIs: スギ薬局, プレミアム美肌仕上げ, サントリー, NPC24H",B,昌徳ビル,ビエラ江東橋,アビティ目黒,物理試験室
+509,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Yakitori Miyagawa, 東京スター銀行, Alegria, ロウリーズ・ザ・プライムリブ 赤坂店",D,塩田ビル,西日暮里六丁目 児童遊園,ペガサスマンション笹塚,赤坂インターシティAIR
+510,"Which AOI in the Tokyo area do the following POIs belong to? POIs: たけいし, 居酒屋はなむら, パブスナック 南条, Girl's Bar Memory",A,大木ビル,メゾン・ド・チハル,パークハイツ杉並,ミエコーポ
+511,"Which AOI in the Tokyo area do the following POIs belong to? POIs: sisters池袋, Tucano's, 栄真パーキング, Trattoria Pizzeria LOGiC",D,志峰荘,アビデNS-5,神田小川町三丁目西部南地区第一種市街地再開発事業,WACCA池袋
+512,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ファーストキッチン, 赤坂クリニック, 滝沢デンタルクリニック, ねぎし",A,BIC赤坂ビル,ニューライフ 新宿参番館,澤井ビル,恵比寿研修会館
+513,"Which AOI in the Tokyo area do the following POIs belong to? POIs: おおくぼ歯科クリニック, もつ焼きセンター, 鶏ジロー, ダイドードリンコ",A,藤和菊川ホームズ,メゾン・コンフォート,陽泉寺,第二協同ビル
+514,"Which AOI in the Tokyo area do the following POIs belong to? POIs: コカ・コーラ, Kai Ballet Studio, 筑前屋, 居酒屋 やすまる",B,メイクスデザイン渋谷本町,柳川ビル,東田端公園,円泉が丘公園
+515,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 港区立三田図書館, 田町駅西口第1暫定自転車等駐車場, 港区立三田図書館, 札の辻スクエア",D,高輪第一ビル,トキワ荘マンガミュージアムサロン,Park Luxe Shinjukugyoenmae mono,札の辻スクエア
+516,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 田中そば店, 肉蕎麦 トムラウシ, 田町タワー, スターバックス",B,ST building,田町タワー,ノボルビル,Paraca
+517,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Siam Celadon, カプリチョーザ, 石庫門, 和食バル 音音",C,AKビル,サンハニーマンション,デジタルハリウッド大学 駿河台キャンパス,シティサーキット東京ベイ
+518,"Which AOI in the Tokyo area do the following POIs belong to? POIs: LAVA, アサヒ飲料, 明光義塾, サントリー",C,東八重洲ビル,T&K Akiba BLDG,住吉ビル,A＊G神宮前
+519,"Which AOI in the Tokyo area do the following POIs belong to? POIs: バタービール バー, フードホール, フロッグ カフェ, バックロットカフェ",A,ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター,奥戸しらさぎ公園,神明都電車庫跡公園,レンタルのニッケン
+520,"Which AOI in the Tokyo area do the following POIs belong to? POIs: さるやまキッチン, イチョウ, カメレオン, 西園食堂",A,恩賜上野動物園,半蔵門パレス,SWT Bldg.,伊東屋
+521,"Which AOI in the Tokyo area do the following POIs belong to? POIs: マクドナルド, 大阪王将, NPC24H, STEPGOLF PREMIUM NAKANO",A,中野セントラルパーク,TKiビル,ドニオン五番町,世田谷区立 桜丘中学校
+522,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 駒沢 風の診療所, アサヒ飲料, キリンビバレッジ, リーフ薬局",C,都営浜田山四丁目第2アパート9号棟,飯岡ビル,美容ハイム,エイコーマンション
+523,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 新橋駅汐留口前タクシー乗り場, 新橋駅東口公共駐車場, 麺処直久 新橋, 麺処直久 新橋店",C,西井堀,Résidence de la Forêt,新橋駅汐留口交通広場,財成八重洲ビル
+524,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 天下一品, 天下一品, 鉄板焼き 濱, COCOMERO",C,大幸第二ビル,サザン高輪,第103東京ビル,PINE FLAT
+525,"Which AOI in the Tokyo area do the following POIs belong to? POIs: アジアンパール, 喜船, 香港園, タイムズ西新宿3丁目",C,シャローム湯島,愛児の家,西新宿三丁目西地区,南橋ハイツ
+526,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Han no Daidokoro Kadochika, イカセンター, CLUB COSTA DER SOL, Dogenzaka Mammoth Tsukemen Ramen",D,石田大成社,新宿区立 淀橋第四小学校,パーク王,道玄坂二丁目南地区第一種市街地再開発事業
+527,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Decent, Topdandy Real, Rozengarden, 恋心ぷりんせす",B,駒沢給水所,30,ギンショービル,昇龍館
+528,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 女無BAR, すし居酒屋 アルプス, ニューグランド, RETREAT BAR",A,35,武田グローバル本社,東京科学大学　田町キャンパス,ハイムひで
+529,"Which AOI in the Tokyo area do the following POIs belong to? POIs: つるとんたん, オリエンタル テラス ロータス, しゃぶ叙 本店, 月亭 本店新宿",C,コバヤシ,諏訪神社,26,私立 東京農業大学第一高等学校 第一高等学校中等部
+530,"Which AOI in the Tokyo area do the following POIs belong to? POIs: アイン大久保店, LUUP, 医療法人北の丸会 歌舞伎町メンタルクリニック, すんどう屋団 新宿店",C,ユニオンビル,箱崎ビル,39,牛込弁天公園
+531,"Which AOI in the Tokyo area do the following POIs belong to? POIs: けやき坂ゆみ歯科医院, 鮨 山路, Gatto Nero, Cuisina Buona Italiana Knock",B,OHARA ASIA BUILDING,西麻布三丁目北東地区第一種市街地再開発事業,新東ビル,ヤマト運輸
+532,"Which AOI in the Tokyo area do the following POIs belong to? POIs: アイビークリニック虎ノ門, 福聚楼, 小諸そば, 麺屋武一",C,足立区立青井小学校,エクセルBLD,虎ノ門一丁目東地区第一種市街地再開発事業,永福体育館
+533,"Which AOI in the Tokyo area do the following POIs belong to? POIs: カリー&ワイン ビストロべっぴん舎, 鉄板焼肉KINTO, オオドリー, 最強油そば 春日亭",C,廣和紙業,KIビル,神田小川町三丁目西部南地区第一種市街地再開発事業,プラティーク 白山
+534,"Which AOI in the Tokyo area do the following POIs belong to? POIs: がんぎ, ALEGRIA Tamachi, モダン食堂 東京厨房, 蛇の目寿司",D,フキクレスト御茶ノ水,南大塚からたち公園,京急第6ビル,藤和芝コープ
+535,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Gostoso, Quest, 東洋英和幼稚園, yelo",A,六本木五丁目西地区第一種市街地再開発事業,アクアテラ,小石川四丁目児童遊園,Paraca
+536,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 東京区政会館（西側駐輪場）, ドトールコーヒーショップ, 魚角, 北海道",C,ホテル・プティバリ,氷川神社,東京区政会館,Ring bell
+537,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ダイドードリンコ, アサヒ飲料, キリンビバレッジ, 大塚食品",D,J2ビルディング,コインパーク,中里三丁目児童遊園,タイムズ
+538,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 宝龍, 有楽苑, カレーショップC&C 有楽町店, しゅんさい",D,教育の森公園,サンクタス亀戸ウエストステージ,リレハンメルハイム,丸の内警察署　有楽町駅前交番
+539,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 代官山診療所, あやこいとうクリニック, Heavenly Island Lifestyle 代官山, オーキッド代官山クリニック",C,COIN PARK,ツジモトビル,Daikanyama Plaza,宮前児童遊園
+540,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 千人塚, 天王寺歴代墓域, 朝倉文夫夫妻墓, 牧野富太郎墓",B,たから荘,天王寺墓地,長谷川ビル,ウェルプレイス桜
+541,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 我歩, TRATTORIA PIZZERIA ITALIAN CAFFE, 築地警察署土橋交番, BAPBUR",A,西土橋ビル,渡辺第２ビル,三井のリパーク,かぷせるイン赤坂
+542,"Which AOI in the Tokyo area do the following POIs belong to? POIs: YEBISU BAR, ぷれじでんと千房, うな富士, 梅丘寿司の美登利",B,Husfliden,山下ビル,猿江神社,howff relax 三軒茶屋
+543,"Which AOI in the Tokyo area do the following POIs belong to? POIs: CARNE RICO KATETE, タリーズコーヒー, 鍛冶屋 文蔵 虎ノ門店, 御旦孤",B,伊原ビル,JTビル,香川綾記念生涯学習センター,野方変電所
+544,"Which AOI in the Tokyo area do the following POIs belong to? POIs: ホテルインターコンチネンタル東京ベイ日本交通タクシー乗り場, 東京愛らんど, 鼈甲鮨, 高齢・障害者雇用支援機構",A,竹芝客船ターミナル,中央工学校　6号館,大林ビル,NMビル
+545,"Which AOI in the Tokyo area do the following POIs belong to? POIs: タリーズコーヒー, 六文そば 日暮里第1号店, 日暮里駅前自転車駐車場, 日暮里駅前地下",B,みどり公園,ステーションガーデンタワー,日信ビル,あさひ公園
+546,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 明治大学（情報コミュニケーション学部）, 明治大学史資料センター, 明治大学（経営学部）, 明治大学（法学部）",A,明治大学,田代ビル,瑠璃光堂,尚友会館
+547,"Which AOI in the Tokyo area do the following POIs belong to? POIs: スターバックス, 舎鈴, やんも, サンマルクカフェ",D,東八ツ山公園,ロクテイル秋葉原,ル・グラシェルビル2,新東京ビル
+548,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Koban, PocketChange, Japan Rail Café, タリーズコーヒー",D,シューマンビル,ブランドール高砂,トミタビル,グラントウキョウノースタワー
+549,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Ono Grill, 茶房きゃんどる, Cafe Bar Karakorum, Jimbocho dental clinic",A,東京パークタワー,畠山ビル,二城ビル,タイムズ三崎町第11
+550,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 本富士警察署弥生町交番, 農学生命科学図書館, 電話ボックス, 東京大学弥生講堂アネックス",C,都営浜田山四丁目第2アパート15号棟,新広尾公園,東京大学弥生キャンパス,ホテル・リオス
+551,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 東大本郷(工学系), 東京大学医学部附属病院, 北海道の米と汁, 廚菓子くろぎ",D,出井ビル,赤羽聖書教会,旧台徳院霊廟惣門,東京大学本郷キャンパス
+552,"Which AOI in the Tokyo area do the following POIs belong to? POIs: マクドナルド, Ginza no Ginger, スターバックス, Kobe Croquette",B,帆刈ビル,東京ソラマチ,湯島武蔵野マンション,HONEY BLG
+553,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 早稲田大学會津八一記念博物館, 早稲田大学（国際教養学部）, 早稲田大学（法学部）, 早稲田大学（政治経済学部）",B,葛飾区立 渋江小学校,早稲田大学早稲田キャンパス,小西本店ビル,世田谷警察署
+554,"Which AOI in the Tokyo area do the following POIs belong to? POIs: Waka-shachi-ya, 鮮や一夜, 南部どり, スターバックス",C,大同生命霞が関ビル,墨田区立曳舟小学校,大崎ブライトタワー,タイムズ
+555,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 東京東信用金庫, 水神保育園, 梅若公園内公衆便所, しらひげ保育園",A,白髭東アパート,佐藤ビル,虎ノ門三井ビルディング,シゲミビル
+556,"Which AOI in the Tokyo area do the following POIs belong to? POIs: タリーズコーヒー, 東京都庁第一本庁舎32階職員食堂, 都庁おもいでピアノ, 第二本庁舎",A,東京都庁,大久保ビル,コーポ上野,コインパーキング 北町狸小路
+557,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 新宿区立 新宿中央公園, 新宿警察署熊野神社前交番, 水の広場リンレイトイレ, 花時計",D,プラウドシティ加賀学園通り,日本基督教団 西片町教会,四谷見附公園,新宿中央公園
+558,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 枕橋際公衆便所, 言問橋際公衆便所, 隅田公園少年野球場, 言問団子",D,当間,いなむらやBld,ザ・パークハウス浅草橋タワーレジデンス,隅田公園
+559,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 台東区リバーサイドスポーツセンター, タリーズコーヒー, 台東区リバーサイドスポーツセンター, 隅田公園自転車駐車場",B,いいづか公園,隅田公園,ベルグ,品川駅港南口交番
+560,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 東洋大学（経営学部）, 東洋大学（法学部）, 東洋大学（社会学部）, 東洋大学",A,東洋大学 白山キャンパス,S-1ビル,湯島伊藤コーポ,本郷MTビル
+561,"Which AOI in the Tokyo area do the following POIs belong to? POIs: エクセルシオール カフェ, Rainbow Cafe Chai Stall, あぶら屋, 吉野家",A,中野駅北口商店街,藤田ビル,山本ビル,巣一会館
+562,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 立教大学（文学部）, 立教大学（経済学部）, タリーズコーヒー, 立教大学（理学部）",B,明治安田生命ビル,立教大学,広尾ガーデンヒルズB棟,ホテル・マリ
+563,"Which AOI in the Tokyo area do the following POIs belong to? POIs: タダノ教習センター, コスモ石油, MFLP新木場2, ageha",B,アパホテル〈品川 泉岳寺駅前〉,東京港14号埋立地,てまえの一歩,松田医科工業株式会社
+564,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 一風堂, ワッフルチキン専門店, 一風堂, ザステーショングリルルミネエストシンジュクテン",B,錦糸町パークタワー,ルミネエスト新宿,シルバービル,イニシア日暮里アベニュー
+565,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 3rd ROOM, Deathmatch in Hell, 石の花, OIL",A,新宿ゴールデン街,代々木イースト(ビル),宋雲院,KIC365館
+566,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 旭, 児童発達支援放課後デイサービス あすぱる, L'a telier, 居酒屋やまめ",C,大島緑道公園,板橋区立志村公園,ツインタワーすみとし住吉館,大正大学
+567,"Which AOI in the Tokyo area do the following POIs belong to? POIs: とりとんとん, 鳥貴族, ちばチャン, コート・ダジュール",D,国立スポーツ科学センター,西野ビル,光信ビル,第一錦糸ビル
+568,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 迷路の遊具, 羽根木公園トイレ, 水飲み場, 松沢局801号",C,クリオ　美術館通り,PENSION SHIMOKITAZAWA,羽根木公園,J BUILD.
+569,"Which AOI in the Tokyo area do the following POIs belong to? POIs: スターバックス, サーティワンアイスクリーム, TOHOシネマズ, タイトーFステーション",A,オリナスモール,EXsaison SUGAMO,プリヴェール南青山,Miura PARKING
+570,"Which AOI in the Tokyo area do the following POIs belong to? POIs: 英会話イーオン, マクドナルド, セブン銀行, みずほ銀行",C,三菱UFJ銀行,中嶋ビル,アルカキット錦糸町,圓通寺
+571,"Which AOI in the Tokyo area do the following POIs belong to? POIs: TOHOシネマズ, ドトールコーヒーショップ, スターバックス, ファーストキッチン",A,錦糸町PARCO,ステージファースト西新宿2,PMO秋葉原III,CHIRK

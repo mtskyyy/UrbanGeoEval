@@ -1,0 +1,61 @@
+id,question,answer,A,B,C,D,E
+0,"Which type do following POIs belong to? POIs: اينوك, Enoc, اينوك, ENOC",E,fitness_centre,house,clock,dive_centre,fuel
+1,"Which type do following POIs belong to? POIs: Future Star BMT LLC, Royal Way Grocery, Grocery, Al Madina Grocery",E,dentist,ice_rink,car_rental,fire_station,marketplace
+2,"Which type do following POIs belong to? POIs: الوجيهة المائية, آيلاند بيتش كلوب, Marina Walk (Water Bus), Marina Terrace (Water Bus)",B,vehicle_inspection,ferry_terminal,garden,bus_station,commercial
+3,"Which type do following POIs belong to? POIs: Barasti, MixClub, Space Club Dubai, Chameleon",B,police,nightclub,religious,fountain,veterinary
+4,"Which type do following POIs belong to? POIs: 50, RTA Public Parking, RTA Public Parking, RTA Public Parking",E,religious,shower,swimming_area,police,parking
+5,"Which type do following POIs belong to? POIs: Mashreq, Dubai Islamic Bank, Union National Bank, Emirates NBD ATM",C,events_venue,fishing,atm,post_office,golf_course
+6,"Which type do following POIs belong to? POIs: hub 7, Al Garhood Traditional Restaurant and Kitchen, Danillo Restaurant, movenpick Jlt",A,restaurant,vehicle_inspection,dancing_school,residential,pub
+7,"Which type do following POIs belong to? POIs: Public Library, Al Ras Public Library, Galaxy, Al Albany",C,playground,restaurant,library,video_arcade,warehouse
+8,"Which type do following POIs belong to? POIs: Gelato Divino, Skazka Kafe russian kafe, Tea Room Cafe, ستاربكس",D,bowling_alley,school,events_venue,cafe,car_rental
+9,"Which type do following POIs belong to? POIs: Dubai Mall Zaabeel Parking, Grand Parking, La Mer (North Entrance), Car Parking - Souk Madinat Jumeirah",E,dojo,dance,fitness_station,clinic,parking_entrance
+10,"Which type do following POIs belong to? POIs: HM Fitness, Go Fit, Smart Football Academy, TribeFit",A,sports_centre,music_school,bar,language_school,house
+11,"Which type do following POIs belong to? POIs: prowash, Hi Way Auto Service, Prowash, Barangay tagay place",E,recycling,escape_game,fountain,hospital,car_wash
+12,"Which type do following POIs belong to? POIs: ماكدونالدز, McDonald's, Zahrath, Enayat Bakhshi",A,fast_food,taxi,manufacture,apartments,give_box
+13,"Which type do following POIs belong to? POIs: Repton Al Barsha, Modern Alternative Education, The Westminster School, GEMS Wellington Academy",D,swimming_area,golf_course,escape_game,school,social_centre
+14,"Which type do following POIs belong to? POIs: مستشفى راشد, American, Bella Roma Specialty Hospital, institute of Medical Aesthetic",C,fast_food,video_arcade,hospital,car_wash,university
+15,"Which type do following POIs belong to? POIs: AL Kamali Pharmacy, Life Pharmacy, Swiss Pharmacy, LIFE Pharmacy",A,pharmacy,shower,food_court,toilets,fountain
+16,"Which type do following POIs belong to? POIs: Emirates NBD, Arab Bank, Mashreq, Abu Dhabi Islamic bank",B,university,bank,cinema,bureau_de_change,restaurant;post_office
+17,"Which type do following POIs belong to? POIs: Spurt Car Rental, Loder Rent A Car, Marvelous Rent A Car, Sixt Car Rental",E,bank,veterinary,nursing_home,fitness_centre,car_rental
+18,"Which type do following POIs belong to? POIs: Emirates post, Cylingas, Thanawiya Post Office, Post office",E,playground,dance,swimming_pool,bowling_alley,post_office
+19,"Which type do following POIs belong to? POIs: AbuHail Gym, Midcity Gym, Yoga with Natalia Celada, GYM",B,library,fitness_centre,pitch,community_centre,dog_park
+20,"Which type do following POIs belong to? POIs: Dollar Exchange, Horizon Exchange, Multinet Trust Exchange, UAE Exchange",C,fire_station,bowling_alley,bureau_de_change,residential,hospital
+21,"Which type do following POIs belong to? POIs: Burj Daman Masjid, المسجد الإيراني, معبد هندوسي, معبد شرينثجي",C,escape_game,religious,place_of_worship,garden,library
+22,"Which type do following POIs belong to? POIs: Nelson's, City Social, Lassi Bar, Above 21",D,atm,charging_station,parking_entrance,bar,food_court
+23,"Which type do following POIs belong to? POIs: The Heart Of Europe, Coronation Island, ميناء صيد جميرا, Seven Seas Boats Rental",D,bar,clinic,clock,marina,events_venue
+24,"Which type do following POIs belong to? POIs: The Stag, Dino's, Mr Toads Pub & Kitchen, The Black Sheep",E,"Billiards,_PS3",bank,indoor_play,internet_cafe,pub
+25,"Which type do following POIs belong to? POIs: Bin Touq Fire and Safety, الدفاع المدني القوز, Mission Fire Fighting and Safety Services, Civil Defense Station",D,dog_park,dance,ferry_terminal,fire_station,fuel
+26,"Which type do following POIs belong to? POIs: Pets Health Veterinary Clinic, Lucky Veterinary Clinic, Gulf Veterinary Centre, Shaklan Veterinary Materials",D,swimming_pool,parking,hospital,veterinary,shower
+27,"Which type do following POIs belong to? POIs: Careem Bike, byky, Careem Bike, nextbike",E,amusement_arcade,playground,prep_school,restaurant,bicycle_rental
+28,"Which type do following POIs belong to? POIs: Downtown Slide, Ready Set Go, Kids Playing Area 3, Magic Planet",A,playground,coworking_space,pitch,veterinary,golf_course
+29,"Which type do following POIs belong to? POIs: Aspin Nursery, Safari Kid, Kids Academy, Alphabet Street Nursery",A,kindergarten,police,fountain,clock,library
+30,"Which type do following POIs belong to? POIs: مركز شرطة نايف, Car Checkup n Registration Area Sharjah, Dubai Police, Wasal police",B,dance,police,telephone,vehicle_inspection,bar
+31,"Which type do following POIs belong to? POIs: Al Tadawi Medical Centre, Medical Center, Dubai Cosmetic Surgery Clinic, Badr Al Samaa Medical Centre",B,bank,clinic,religious,house,warehouse
+32,"Which type do following POIs belong to? POIs: Al Ghurair Fountain, Boat Fountain, The Greens Fountain, Infinity Fountain of AL Seef",C,marina,compressed_air,fountain,restaurant,telephone
+33,"Which type do following POIs belong to? POIs: Vox Cinemas, Vox Cinema, Roxy Cinemas, نوفو سينما- دبي فستيفال سيتي",D,marina,marketplace,amusement_arcade,cinema,fire_station
+34,"Which type do following POIs belong to? POIs: Cold Stone Creamery, Häagen-Dazz, Pop City, Baskin-Robbins",D,community_centre,police,fitness_station,ice_cream,animal_boarding
+35,"Which type do following POIs belong to? POIs: مول دبي حمامات +تواليت, Traditional Souq, Toiletten, Shower",B,fishing,toilets,shower,fast_food,school
+36,"Which type do following POIs belong to? POIs: HDS Tower, Al Hudaiba Awards Building Block C, Grayling UAE, Dubai Technology Entrepreneurship Centre",B,kindergarten,commercial,amusement_arcade,ferry_terminal,car_rental
+37,"Which type do following POIs belong to? POIs: Medinat Theatre, The Theater Dubai, The Courtyard, Dubai Community Theatre & Arts Centre (DUCTAC)",B,community_centre,theatre,bowling_alley,internet_cafe,toilets
+38,"Which type do following POIs belong to? POIs: Galadari, Galadari, Galadari, Galadari",D,karaoke_box,bar,bus_station,driving_school,spa
+39,"Which type do following POIs belong to? POIs: Online Trading Academy, Hult International Business School, Dubai, I.A.U - Islamic Azad University, Synergy University Dubai",C,garden,pitch,university,fire_station,post_box
+40,"Which type do following POIs belong to? POIs: Tesla Destination Charger, DEWA EV Green Charging Station, Al Warqa Supercharger, Quick Registration centre",C,hackerspace,school,charging_station,place_of_worship,give_box
+41,"Which type do following POIs belong to? POIs: Amber Clinics, Bizrahmed, Dr. Tom Nassar, Esperanza Speech and OT Centre",D,escape_game,garden,bicycle_rental,doctors,university
+42,"Which type do following POIs belong to? POIs: Mercedes-Benz Off-Road Experience Center, Courtyard 11, Al Masjid Park, Courtyard 12 - Aldea",C,community_centre,driving_school,park,school,library
+43,"Which type do following POIs belong to? POIs: Diamond Finger, Green Dew Beauty Centre, Al Warodo Personal Care Centre, Elite Touch",B,place_of_worship,spa,res,outdoor_seating,parking
+44,"Which type do following POIs belong to? POIs: XPark, Bay Avenue Skatepark, Driving Range, Basketball Court - Springs 14",C,telephone,bus_station,pitch,social_centre,outdoor_seating
+45,"Which type do following POIs belong to? POIs: Hellenic Dental Clinic, Arwa Dental Clinic, Dr. William's Dental Center, Dental Centre",A,dentist,trampoline_park,recycling,events_venue,toilets
+46,"Which type do following POIs belong to? POIs: Big bus 3 Wafi moll, ittihad luxury coach bus station, ras alkhor mubarak tran, محطة الاتحاد الحافلات",A,bus_station,res,events_venue,driving_school,sports_centre
+47,"Which type do following POIs belong to? POIs: سكن العمالية إجادة, Global Immigration services, waha community, Alserkal Cultural Foundation",A,community_centre,amusement_arcade,telephone,cinema,theatre
+48,"Which type do following POIs belong to? POIs: NoWayOut Escape Room Dubai HDS Business Centre, BlackOut, Escape House, Escape the Room Dubai",E,university,community_centre,pitch,doctors,escape_game
+49,"Which type do following POIs belong to? POIs: Chubby Cheek Nursery, Cocoon Nursery, Chubby Cheeks Nursery, Little Nest Nursery",E,indoor_play,clinic,marketplace,telephone,childcare
+50,"Which type do following POIs belong to? POIs: Time Out Market, Food Court (north), Jasmine Food Court, Mercato Shopping Mall",C,bureau_de_change,compressed_air,food_court,golf_course,bank
+51,"Which type do following POIs belong to? POIs: Water and Snacks Vending Machine, Aegon Shipping, Ticket Machines, محطة الحزمة دي إتش إل",B,shower,vending_machine,theatre,bicycle_rental,playground
+52,"Which type do following POIs belong to? POIs: Al Awazi New Studio, Jassim Studio, Make-Up Atelier, Qasim Recording Company",A,studio,internet_cafe,indoor_play,courthouse,bank
+53,"Which type do following POIs belong to? POIs: Golden Star Karate, Samurai Karate Centre, Golden Falcon Karate, Family Martial Arts",B,nursing_home,dojo,studio,escape_game,payment_terminal
+54,"Which type do following POIs belong to? POIs: Surani Internet Cafe, Emirates Wifi Office, Click to Link, Tropical Internet Cafè",C,food_court,bar,internet_cafe,vehicle_inspection,bowling_alley
+55,"Which type do following POIs belong to? POIs: Al Ali Yachts, Nemo Watersports Jetski & Flyboard, Dubriani Yacht Rental Dubai, Bristol Charter",E,courthouse,school,doctors,parking_entrance,boat_rental
+56,"Which type do following POIs belong to? POIs: The Sanctuary Villas by Ellington Properties, Horizon Tower, Al Waleed Real Estate - Karama 1, Samari Residences",C,"Billiards,_PS3",bureau_de_change,residential,res,post_depot
+57,"Which type do following POIs belong to? POIs: Elements Gaming Cafe, Lobster Pot, Diggers Lab Construction Theme Park, Whack Wini",E,doctors,escape_game,post_box,residential,amusement_arcade
+58,"Which type do following POIs belong to? POIs: Dwell Events LLC, Meeting Room, Blink Experience - Best Event Management Company in Dubai, JTI EVENTS",D,pub,park,payment_terminal,events_venue,drinking_water
+59,"Which type do following POIs belong to? POIs: Street Maniax, Piccoli, Cheeky Monkeys, Adventure Parx & Cafe",D,college,pub,fire_station,indoor_play,manufacture

@@ -1,0 +1,138 @@
+id,question,answer,A,B,C,D,E
+0,Which of the following POIs is closest to POI Caffe del Teatro located in the Rome area?,E,Biblioteca della Società geografica italiana,Sant'Angelo,Mifang,Bar Glorioso Bistrot,Vinando
+1,Which of the following POIs is closest to POI Reparto Carabinieri Presidenza della Repubblica located in the Rome area?,D,Farmacia Colle Oppio,Il quadrifoglio,UniCredit Bank,Sovrintendenza di polizia della Presidenza della Repubblica,Dal Bolognese
+2,Which of the following POIs is closest to POI Eden located in the Rome area?,C,Caffè delle Arti,Fontana di Porta Cavalleggeri,Garage Posteggio Troiano,La Locanda del Tempio,Snack Bar
+3,Which of the following POIs is closest to POI Pasta Chef street food located in the Rome area?,A,Forno da Milvio,Monte dei Paschi di Siena,Centro Veterani della Difesa,La Fontanella Borghese,La Gattbuia
+4,Which of the following POIs is closest to POI Gallo matto located in the Rome area?,B,Da Sistina,Il Galeone,Biblioteca medica statale,Gelateria Artigianale,Annapoorna
+5,Which of the following POIs is closest to POI Mail Boxes Etc. located in the Rome area?,A,La lupa,Costarica,Fuorinorma,Banca Popolare del Frusinate,Tamoil
+6,Which of the following POIs is closest to POI Marco G located in the Rome area?,C,ZeroZero100,Ristorente Pizzeria L'esquilino Bar,Piccola Hong Kong,Meridiem,Monastero San Sisto Vecchio
+7,Which of the following POIs is closest to POI Cantina Tirolese located in the Rome area?,D,Hostaria Pizzeria Buona Forchetta,Mondo Arancina,Il Sanlorenzo,Ristorante Porta Castello,Essere Benessere
+8,Which of the following POIs is closest to POI Al Biondo Tevere located in the Rome area?,D,Roma Tre In Bici,Commissariato San Paolo XV,Istituto Paritari A. Poliziano,Farmacia San Paolo,Diagest
+9,Which of the following POIs is closest to POI Bar Buseto located in the Rome area?,D,UniCredit,Banca Popolare di Sondrio,Il veliero,Cargo,Santa Libbirata- La Carretteria
+10,Which of the following POIs is closest to POI La foglietta located in the Rome area?,C,Friggo,Centro sportivo Banca d'Italia,I dolcissimi,Spin Time,Giardino Wok
+11,Which of the following POIs is closest to POI Lievito Pizzeria e Cucina located in the Rome area?,A,Scuola dell'infanzia ed Elementare Adelaide Cairoli,Vestiti usati,Pizza Magi,Piazza Pasquale Paoli,ESSO
+12,Which of the following POIs is closest to POI Mae Café located in the Rome area?,D,Caffetteria Ristorante Le Terrazze Castel Sant’Angelo,Eni,Bludental,Al giardino del gatto e la volpe,Poliambulatorio Della Vittoria
+13,Which of the following POIs is closest to POI I Gruppo Centro Polizia Locale di Roma Capitale located in the Rome area?,B,L'antica Roma,Pizzeria ai Marmi,Mensa,The Public House,Queen Makeda
+14,Which of the following POIs is closest to POI L'Antica Birreria Peroni located in the Rome area?,B,Ristoro Della Salute,Podere Vecciano,Da Enzo Ristorante,Hostaria da Corrado,Osteria 44
+15,Which of the following POIs is closest to POI Li Rong Caffè located in the Rome area?,B,Malatempora,Ex-Cinema Volturno,Bunker di Mussolini,Chiesa di Santa Maria Immacolata a Villa Borghese,Madre Rome
+16,Which of the following POIs is closest to POI Simon Bar located in the Rome area?,E,Gelateria Artigianale,Biblioteca medica statale,Annapoorna,Babington's,Aromaticus
+17,Which of the following POIs is closest to POI Mercatino delle pulci located in the Rome area?,E,Commissariato Vescovio,Taxi Flora 060609,Biblioteca interdipartimentale di Medicina - sala lettura,Trattoria Fauro,Cambridge Caffé
+18,Which of the following POIs is closest to POI Sora Lucía located in the Rome area?,C,Salumeria Roscioli,The Sanctuary - Eco Retreat,Luna Caprese,Mc Donalds,Enel - stazione di ricarica
+19,Which of the following POIs is closest to POI Bar Firenze located in the Rome area?,D,Idrocronometro,Mini Bar,Fontana del Leone Egizio,Zonwa,Tea & Noodles
+20,Which of the following POIs is closest to POI Daryma Sushi located in the Rome area?,B,Esculapio,Assassino,Nello L'Abruzzese,Mensa,Aromi Bistrot
+21,Which of the following POIs is closest to POI Vrasciò located in the Rome area?,D,La carrot zeros,Fit Express,Ristorante Pizzeria I Fratelli,Magnebevo,Chourmo
+22,Which of the following POIs is closest to POI Janta Fast Food located in the Rome area?,C,BOC,Biblioteca interdipartimentale di Medicina - sede Psichiatria e psicologia clinica,BNL,Casa Generalizia dei Passionisti,Il Grottino
+23,Which of the following POIs is closest to POI La Casetta located in the Rome area?,E,La Cuccuma,Bar W&G,Ristorante - Pizzeria Franco & Cristina,Pizzeria Italia,Pizzeria Li Scalini
+24,Which of the following POIs is closest to POI Donati located in the Rome area?,B,Maccheroni Express,La lupa,Banca Popolare del Frusinate,Tacco Cafè,Red carpet
+25,Which of the following POIs is closest to POI UniCredit Bank located in the Rome area?,C,Altrogiro,El Pueblo,Fattore Gelato,Rai Radio 2,Caffe Fantini
+26,Which of the following POIs is closest to POI Il pomodoro located in the Rome area?,C,Spin Time,Macina Pizzeria,Pluto's,Centro sportivo Banca d'Italia,Friggo
+27,Which of the following POIs is closest to POI Naumachia located in the Rome area?,E,Caritas Diocesiana,Queen Makeda,Nag's Head,Erg,Farmacia Celimontana
+28,Which of the following POIs is closest to POI Chicken Hut located in the Rome area?,D,Underdog's,Chiesa di Santa Maria Immacolata a Villa Borghese,UNIDROIT,L'orientale,Bunker di Mussolini
+29,Which of the following POIs is closest to POI Piccola Hong Kong located in the Rome area?,B,Centro Giovanile Mater Boni Consilii in Santa Pudenziana,Royal,Monastero San Sisto Vecchio,ZeroZero100,Bar Civico 144
+30,Which of the following POIs is closest to POI Quattro Fontane located in the Rome area?,B,Caffè Palladio,New Roppongi,Callimaco,Antico Caffè del Teatro Marcello,Vista by Casina Valadier
+31,Which of the following POIs is closest to POI Alle fratte di trastevere located in the Rome area?,E,Mensa,Enel X,Esperienza Europa,Baccio e i gradini,Popi-Popi
+32,Which of the following POIs is closest to POI Ufficio postale Roma Ostiense located in the Rome area?,E,Enel – stazione di ricarica,DHL,L'archetto II,Casa Generalizia dei Passionisti,Tram Depot
+33,Which of the following POIs is closest to POI Calabriati located in the Rome area?,A,enOsteria cmCapo le Case,Pizza pizza pizza,Maranega,Baja,Monastero di San Lorenzo in Panisperna
+34,Which of the following POIs is closest to POI Obika located in the Rome area?,D,La Taverna dei Fori Imperiali,VyTA Villa Borghese,MEDICHINI LEPANTO,Tree Charme Bistrot,Libreria zalib - Centro Giovani I Municipio arci
+35,Which of the following POIs is closest to POI Sfizi di pizza located in the Rome area?,A,Crema & Cioccolato,Pho 1,Osteria Margutta,Montebello Pizza & Barbecue,Municipio Roma I
+36,Which of the following POIs is closest to POI Tavola Rotonda located in the Rome area?,A,Berberé,San Giuda Taddeo,Biblioteca interdipartimentale di Medicina (Sede principale Neurologia),Leon D'oro,Studio odontoiatrico
+37,Which of the following POIs is closest to POI Brown & Brown located in the Rome area?,C,La Locanda del Tempio,Mensa Dono di Maria,Porcadella,Arno,IP
+38,Which of the following POIs is closest to POI Tonda located in the Rome area?,C,La tavernetta,Biblioteca dell'Ufficio di Statistica,Zia Rosetta,Antico Caffè Greco,Primos Bar
+39,Which of the following POIs is closest to POI Money transfer located in the Rome area?,D,Volpini,Nobile Collegio Chimico Farmaceutico,Taxi Flora 060609,Farmacia della Stazione,Spin Time
+40,Which of the following POIs is closest to POI Cassa di Risparmio di Ferrara located in the Rome area?,A,Cottage,Bar Dei Pari,Propaganda,Food factory,The Naughty Monkey
+41,Which of the following POIs is closest to POI Scilla e Cariddi located in the Rome area?,E,Ambulatorio San Gallicano,Li Rioni,Il Lunch,Mató Street Food,Pasta & Social
+42,Which of the following POIs is closest to POI Da Sistina located in the Rome area?,A,alla Rampa,Biblioteca del Dipartimento di Comunicazione e ricerca sociale,Temple University Rome,Luciano,Censured Gay Cruising Bar
+43,Which of the following POIs is closest to POI Grazie a Dio è Venerdì located in the Rome area?,C,Rossi,I Gruppo Centro Polizia Locale di Roma Capitale,Zia Rosetta,Laterano Caffe,Negresco Bocca di Leone
+44,Which of the following POIs is closest to POI Fiaschetteria Beltramme located in the Rome area?,A,Bar Gambero Due,Capitan Cosmo,La carbonara,Cacio e pepe,Vivi
+45,Which of the following POIs is closest to POI Emporio della Solidarietà located in the Rome area?,B,Ristorante Armando,Biblioteca Goffredo Mameli,Farmacia Casalbertone,Farmacia Giovanni Ialacci,Jungle Juice Brewing
+46,Which of the following POIs is closest to POI Il Palchetto located in the Rome area?,B,Parcheggio Saba Villa Borghese,Osteria Il riposto,Biblioteca interdipartimentale di Medicina - sede Organi di senso,Gusto360,Dulcis in fundo
+47,Which of the following POIs is closest to POI Aurora located in the Rome area?,A,Tempio Di Bacco,que te pongo,Santi,pizza fior fiore dal 1975,Accademia Filarmonica Romana
+48,Which of the following POIs is closest to POI MaMa-Ya Ramen located in the Rome area?,D,Bar Baffo Caffè Vergnano,Diagest,Bar Malù,Farmacia San Paolo,Centro anziani Vasca Navale
+49,Which of the following POIs is closest to POI Il Tiaso located in the Rome area?,A,Mozzichi pret-a-porter,UniCredit,Fono Roma Film Recording,Scuola primaria Grazia Deledda,Fit Express
+50,Which of the following POIs is closest to POI Banco Desio located in the Rome area?,E,Voglia di pizza,Fiddler's Elbow,Orazio,"Ristorante pizza caffè ""Rita""",Fusion Cafè
+51,Which of the following POIs is closest to POI UniCredit Bank located in the Rome area?,D,Pizza e Fritti,Caffé Arcioni,Parioli 142,L’isola d’oro,Art Cafè
+52,Which of the following POIs is closest to POI Pasticceria Gelateria Lotti located in the Rome area?,C,Quinzi e gabrieli,Trattoria Angelo,Taxi Flora 060609,Tevere,Napoletano's Parioli
+53,Which of the following POIs is closest to POI Le Grotte located in the Rome area?,A,Life,Caffe Peru,Zia Rosetta,Taxi Pinciana,Unione Italiana delle Chiese Cristiane Avventiste del Settimo Giorno
+54,Which of the following POIs is closest to POI La Botte Antica located in the Rome area?,D,Goody Bar Restaurant,Pizzeria Europa,Biblioteca Europea,Il Fiorino,Ristorante S.Anna
+55,Which of the following POIs is closest to POI Visconti 2.0 located in the Rome area?,C,Fontana del Facchino,Pizzeria,Fideuram,Caffè delle Arti,Ghiottonerie Tre Tre
+56,Which of the following POIs is closest to POI Biblioteca di Archeologia e Storia dell'Arte located in the Rome area?,E,Camillo B.,Casa Generalizia dei Passionisti,Fiamma,San Cosimato Caffè,Erzinio Food
+57,Which of the following POIs is closest to POI Li Rioni located in the Rome area?,B,Pasta & Social,Pizza Rustica,Queen Makeda,da Fortunato,Café bistrot L'artigiano matto
+58,Which of the following POIs is closest to POI Very Buono located in the Rome area?,C,Elleniko,Le Lanterne,Pizza Rustica,da Fortunato,Accademia del Gusto 1990
+59,Which of the following POIs is closest to POI Caffè da Raffaele located in the Rome area?,E,"Casa di Cura ""San Domenico""",Multisala Lux,C'era una volta... il Caffè,Lanificio Cucina,Farmacia Ponzi
+60,Which of the following POIs is closest to POI Latta located in the Rome area?,B,L'Isola dei Sardi due,Städlin,Brother's bar,Esso,Alice
+61,Which of the following POIs is closest to POI Trattoria Valentino located in the Rome area?,D,Mediterraneo,Wok&tea,I Vascellari,L'Eliseo,Il pavone
+62,Which of the following POIs is closest to POI La Fontanella Sistina located in the Rome area?,E,Intesa Sanpaolo,Santuario dei Gatti,Farmacia Tioli,Biblioteca Europea,Chicken Hut Gelateria
+63,Which of the following POIs is closest to POI Pluto's located in the Rome area?,E,Spin Time,Sellero & Ventresca,Appizzala,Centro sportivo Banca d'Italia,I dolcissimi
+64,Which of the following POIs is closest to POI Sicilia e Duci located in the Rome area?,E,La Gourmandise,Nag's Head,Queen Makeda,Sala Attesa 2,Pizzeria ai Marmi
+65,Which of the following POIs is closest to POI Risto Bar located in the Rome area?,B,Diagnostica Veterinaria,Fattore Gelato,Caffetteria Paglialonga dal 1972,Pier 21,TotalErg
+66,Which of the following POIs is closest to POI Enel X located in the Rome area?,B,Parapharmacia,Osteria del Tempo Perso,Teatro del Pinguino,Merdiana di Borromini,Rai Radio 2
+67,Which of the following POIs is closest to POI Al Simeto located in the Rome area?,D,"Biblioteca Interdipartimentale di Fisiopatologia cardiocircolatoria, Anestesiologia e Chirurgia generale ""Paride Stefanini""",Caffé Berardo,Aurora,L’isola d’oro,Fatamorgana
+68,Which of the following POIs is closest to POI Comando Carabinieri antifalsificazione monetaria located in the Rome area?,A,Agorà,Banca Popolare del Frusinate,Tamoil,Ciuri Ciuri,Slargo
+69,Which of the following POIs is closest to POI Vini e Olii located in the Rome area?,B,Santa Libbirata- La Carretteria,Cargo,Myster Pizza,Autorimessa Ricotti Sas di R.cirulli e C.,Osteria Rouge
+70,Which of the following POIs is closest to POI Antica Farmacia San Francesco located in the Rome area?,E,Verso,Anfiteatro Quercia del Tasso,Cassa di Risparmio di Ferrara,Scuola secondaria di primo grado Nino Bixio,Giselda Forno
+71,Which of the following POIs is closest to POI Parking Simone Group located in the Rome area?,D,Villa Strohl Fern,Macro 138,Dream Café Bar,Coinbar Roma – Barberini,Gran Caffè Vittoriano
+72,Which of the following POIs is closest to POI Tuba located in the Rome area?,A,Cargo,UniCredit,Santa Libbirata- La Carretteria,Fono Roma Film Recording,Fit Express
+73,Which of the following POIs is closest to POI Cafe Gourmet located in the Rome area?,E,Pier 21,Ercoli 1928,Bar,El Pueblo,Fattore Gelato
+74,Which of the following POIs is closest to POI Art Beer located in the Rome area?,A,Salmoneria Que te Pongo,La Masardona,L'arcipelago,Teatro dei Dioscuri al Quirinale,Gelateria del Parco
+75,Which of the following POIs is closest to POI Chinappi located in the Rome area?,B,Fontana Rustica,Faro,Uffa...che pizza!!!,Teatro del Pinguino,Colonnina Enel-X 22+3kW
+76,Which of the following POIs is closest to POI Caffè Ciampini located in the Rome area?,E,IP,Gaudi,Vacanze,Da Tonino,Colbert
+77,Which of the following POIs is closest to POI Esperienza Europa located in the Rome area?,C,Park Colosseo,Nick e Tony,Antico Caffè Castellino,Piazza Cavour,50 Kalo di Ciro Salvo
+78,Which of the following POIs is closest to POI I dolcissimi located in the Rome area?,B,Xiao Shenyang 小沈阳,Pluto's,Centro sportivo Banca d'Italia,Friggo,Appizzala
+79,Which of the following POIs is closest to POI Bibo located in the Rome area?,E,Commisariato di Polizia Celio,Ristorante La Lampada,The Naughty Monkey,Mama! Eat,Antico Caffè Castellino
+80,Which of the following POIs is closest to POI Leon D'oro located in the Rome area?,E,Gold Cafè Restaurant,Saloni di Palazzo Brancaccio,Caffè Camerino,Goethe-Institut Rom,Il Fiorino
+81,Which of the following POIs is closest to POI Pizzeria al Pigneto located in the Rome area?,C,Matrioska,Rostelle and co. Roma,H2O Fitness Center,Gran Caffè Hawaii,IP Matic
+82,Which of the following POIs is closest to POI Calabascio located in the Rome area?,E,Ci piace Roma,Temple University Rome,Classic Garage,Mimesi,Taverna Angelica
+83,Which of the following POIs is closest to POI Panificio located in the Rome area?,A,Fattore Gelato,Piacere,"Pronto Soccorso Ospedale ""Santo Spirito in Sassia""",TotalErg,Bar
+84,Which of the following POIs is closest to POI Glauco located in the Rome area?,D,Julius Caesar,Grano Frutta e Farina,sMa Bar,Il Guru,Da Enzo
+85,Which of the following POIs is closest to POI Culinaria located in the Rome area?,B,Chiesa di Santa Maria Immacolata a Villa Borghese,Alla bracioleria,La Taverna dei Fori Imperiali,AlfreChic,Bunker di Mussolini
+86,Which of the following POIs is closest to POI La tavernetta 29 located in the Rome area?,A,Casetta di Trastevere,Esso,"Terminal Gianicolo, Auto Park",UniCredit Bank,Alice
+87,Which of the following POIs is closest to POI Cedro 2 located in the Rome area?,A,Magnolia,Eni,Ci-Lin,Royal art café,Ciccio's Food Marconi
+88,Which of the following POIs is closest to POI La Taverna located in the Rome area?,A,Il Fiorino,Renato e Luisa,Tavola Rotonda,D'Amore,Pastasciutta
+89,Which of the following POIs is closest to POI Capo Boi located in the Rome area?,B,Taxi Flora 060609,Cambridge Caffé,Commissariato Vescovio,Trattoria Fauro,Lauro
+90,Which of the following POIs is closest to POI Banco di Sardegna located in the Rome area?,C,Ostaria da Nerone,Sciscia,Pane e Salami,Gelateria la Romana,Sapporo Sardi
+91,Which of the following POIs is closest to POI Osteria Al Vicolo 9 located in the Rome area?,B,Asmara,L'Eliseo,La Luna de'Ore,I Vascellari,Blu Banca
+92,Which of the following POIs is closest to POI Zen Garden 2 located in the Rome area?,E,Taxi Stazione Trastevere,Bar Malù,Diagest,Centro anziani Vasca Navale,Farmacia San Paolo
+93,Which of the following POIs is closest to POI EMC located in the Rome area?,D,Caritas Diocesiana,Antico Caffè Castellino,La Valle dei Cuccioli,Come il Latte,Farmacia unica Nova Salus
+94,Which of the following POIs is closest to POI Totem Contabici located in the Rome area?,E,Commissariato Parioli,Istituto privato San Leone Magno,Zonwa,Biblioteca di Chimica Gabriello Illuminati,L'angolo del caffè
+95,Which of the following POIs is closest to POI Spiazzo located in the Rome area?,B,Esso,Huobi mercato orientale,Alice,Why not pub,Boogie Club
+96,Which of the following POIs is closest to POI Shot Uno Cocktail Bar located in the Rome area?,D,Taxi Mignanelli 060609,Art Cafe,Passaguai,Blue Ice,Bar Gianicolo
+97,Which of the following POIs is closest to POI Salotto 42 located in the Rome area?,E,Garage Posteggio Troiano,Antica Spezieria di Santa Maria della Scala,Sardegna,RoYaL Art Cafè,Osteria dell'Ingegno
+98,Which of the following POIs is closest to POI Ex-Cinema Volturno located in the Rome area?,D,Pigmalione,giògiò,Bunker di Mussolini,Gusto,Chiesa di Santa Maria Immacolata a Villa Borghese
+99,Which of the following POIs is closest to POI IP located in the Rome area?,A,Osteria St.Ana,Teatro del Pinguino,Gelateria Valentino,Clandestine – Mordi e fuggi,Acciuga
+100,Which of the following POIs is closest to POI Il Pozetto located in the Rome area?,A,II Papalino,Dar filettaro a Santa Barbara,Carnale,Jinjà,Baja
+101,Which of the following POIs is closest to POI La Taverna dei Quaranta located in the Rome area?,C,BikeSquare Roma Ebike Rental,Bar Zest,Park Colosseo,Erzinio Food,Raf Pizza
+102,Which of the following POIs is closest to POI Credem located in the Rome area?,A,Hard Rock Cafe,Pizza e Mozzarella,Villa Strohl Fern,Flavors of India,Crédit Agricole
+103,Which of the following POIs is closest to POI Al Cavallino Bianco located in the Rome area?,D,Verde pistacchio,Biblioteca Storia Antropologia Religioni Arte Spettacolo - Sede Storia dell'arte,Biblioteca della Società geografica italiana,Radici - pizzicheria salentina,Antica Caffetteria Cerelli
+104,Which of the following POIs is closest to POI Andrea Doria located in the Rome area?,B,Osteria Luci in cucina,Fattore Gelato,Caffetteria Paglialonga dal 1972,Altrogiro,TotalErg
+105,Which of the following POIs is closest to POI De Sanctis located in the Rome area?,C,Biblioteca della Società geografica italiana,Dar Bruttone,Radici - pizzicheria salentina,Mensa universitaria De Lollis,Poste Italiane – Roma 13
+106,Which of the following POIs is closest to POI Banca del Fucino located in the Rome area?,E,Deutsche Bank,BNL,Scuola Patronato San Giuseppe,Ufficio postale Roma 62,Marè osteria
+107,Which of the following POIs is closest to POI Cafe' dei Desideri located in the Rome area?,D,Farmacia al Vaticano,Bar dell'angolo,Osteria La Quercia,Al Passetto di Borgo,Baja
+108,Which of the following POIs is closest to POI Garage located in the Rome area?,B,Piccolo Buco,Piano Strada Laboratorio di Cucina,Ristorante Wine Bar De’ Penitenzieri,Le Gramelot,Accademia Nazionale di Danza
+109,Which of the following POIs is closest to POI Osteria Nuvolari located in the Rome area?,C,Ristorante Da Pancrazio,Carnale,Acqua Angelica,Bar dell'angolo,Baja
+110,Which of the following POIs is closest to POI La Tavernetta located in the Rome area?,B,Vivibistrot,Maccheroni,La Pratolina,Nobile Collegio Chimico Farmaceutico,Taxi Flora 060609
+111,Which of the following POIs is closest to POI Saint Louis College of Music located in the Rome area?,E,Rome Baptist Church,da Dino,Da Meo Patacca,Centro Veterani della Difesa,Pasta Chef street food
+112,Which of the following POIs is closest to POI Antica Farmacia San FrancO located in the Rome area?,B,La Carbonara,enOsteria cmCapo le Case,Zizzi Pizza,Pepe Nero,Baja
+113,Which of the following POIs is closest to POI Inka Chicken located in the Rome area?,D,Mamomi,Satiro,San Lorenzo,Farmacia Indipendenza,Vivi
+114,Which of the following POIs is closest to POI Razmataz located in the Rome area?,A,Dar Parucca,Crédit Agricole,Ottavi dal 1921,Lo Spuntino,postO
+115,Which of the following POIs is closest to POI UniCredit Bank located in the Rome area?,B,Caffè delle Arti,Enel,L'Antica Birreria Peroni,Ristoranti Piazza Caprera,Castel Romano Bus Station
+116,Which of the following POIs is closest to POI The Public House located in the Rome area?,C,Saravanaa Bhavan,Fontana Celimontana,Caesar Pizza,Lian Club,Sicilia e Duci
+117,Which of the following POIs is closest to POI Il Fiorino located in the Rome area?,C,Pizzeria Europa,Hostaria Pizzeria all'Orsetto,Chicken Hut Gelateria,Goethe-Institut Rom,Renato e Luisa
+118,Which of the following POIs is closest to POI That's Amore located in the Rome area?,E,The Sanctuary - Eco Retreat,Sto Bene Roma,Mok,Raspoutine Rome,The One
+119,Which of the following POIs is closest to POI La Piccolo Cuccagna located in the Rome area?,C,Da Sistina,Imprebanca,Vivi Bistrot,Bar Gianicolo,Osteria Circo
+120,Which of the following POIs is closest to POI Hostaria da Vincenzo located in the Rome area?,D,Gelateria del Parco,UBI Banca,iMara,Al Piave,Farmacia Torlonia
+121,Which of the following POIs is closest to POI III Girone located in the Rome area?,D,IP Matic,Centro Culturale Islamico Masjeed-E-Rome,Bar gastronomia,Enel,Pizzeria Ennio&Osvaldo
+122,Which of the following POIs is closest to POI Mozzichi pret-a-porter located in the Rome area?,E,Chourmo,La Carrozzeria,Ufficio postale 55218 – Roma 28,Fit Express,Malavite
+123,Which of the following POIs is closest to POI Pasticceria d'Angelo located in the Rome area?,A,Bar Gambero Due,Vivi,Saint Louis College of Music,Pellegrino,Cacio e pepe
+124,Which of the following POIs is closest to POI Antichisapori located in the Rome area?,D,Università La Sapienza - Facoltà di Architettura sede di via E. Gianturco,Bar del Biscione,Bisozzi,Hedera,Hostaria Pizzeria Buona Forchetta
+125,Which of the following POIs is closest to POI Parafarmacia located in the Rome area?,C,"Biblioteca Ingegneria astronautica, elettrica ed energetica - sede Ingegneria elettrica",Centro di ascolto per stranieri,BNP Paribas,Liceo Scientifico Statale Augusto Righi,Unione Italiana delle Chiese Cristiane Avventiste del Settimo Giorno
+126,Which of the following POIs is closest to POI Non Solo Pasta n'avons located in the Rome area?,B,Vivibistrot,Obika,VyTA Villa Borghese,MEDICHINI LEX,Gustando Roma
+127,Which of the following POIs is closest to POI Teatro Due Roma located in the Rome area?,B,7 Cereali,Conservatorio di Musica S. Cecilia,Magnolia,Baja,Monastero di San Lorenzo in Panisperna
+128,Which of the following POIs is closest to POI BikeSquare Roma Ebike Rental located in the Rome area?,A,Verso,Propaganda,Istituto Istruzione Superiore “Via dei Papareschi”,Quinto's,Baylon Cafè
+129,Which of the following POIs is closest to POI John Cabot University - Guarini Campus located in the Rome area?,B,Scuola dell'infanzia Gian Giacomo Badini,Polpetta Trastevere,Poste Vaticane,UniCredit Bank,Autoscuola Monteverde
+130,Which of the following POIs is closest to POI Monte dei Paschi di Siena located in the Rome area?,E,Ufficio postale Roma 178,Enel X,Nasone,S.S. Lazio Nuoto - Piscine,Cotto e magnato
+131,Which of the following POIs is closest to POI PaStation located in the Rome area?,B,Velavevodetto ai Quiriti,Grom,Iari the Vino,VyTA Villa Borghese,Vivibistrot
+132,Which of the following POIs is closest to POI Pan Pan located in the Rome area?,C,Teatro Quirino,"Terminal Gianicolo, Parcheggio Bus",Hosteria Dei Numeri Primi,Café Vert,BNL
+133,Which of the following POIs is closest to POI Bartoccio located in the Rome area?,A,I Butteri,Biblioteca del Dipartimento di Scienze sociali ed economiche (Sede principale Economia),Garage Barberini,BNL,Biblioteca LUISS
+134,Which of the following POIs is closest to POI Salmoneria Que te Pongo located in the Rome area?,D,Caffè del Parco,Teatro Manzoni,Teatro dei Dioscuri al Quirinale,Casa Ristorante,écru
+135,Which of the following POIs is closest to POI Farmacia Igea City located in the Rome area?,C,Noleggio barche,Style,DHL,The Gelatist,Domò Sushi
+136,Which of the following POIs is closest to POI Parking Ludovisi located in the Rome area?,C,Osteria del Rione,Ristorante Messicano,La Terrazza dell'Eden,L'antica Pizzaria Da Michele,Gran Caffè

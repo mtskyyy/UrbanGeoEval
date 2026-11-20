@@ -1,0 +1,144 @@
+id,question,answer,A,B,C,D,E
+0,Which POI belongs to type: pub?,B,Makers Cafe,Chelsea Place,Vive La Tarte,Sunshine Preschool,Ippudo (一風堂)
+1,Which POI belongs to type: bar?,B,Caffe Trieste,mini bar,Xebec,Philz Coffee,C. Q. Noodle
+2,Which POI belongs to type: post_office?,D,Westside Community Services,La Espiga De Oro,The Crew,The UPS Store,DejaVu Centerfolds
+3,Which POI belongs to type: cinema?,C,Starbucks,Marufuku Ramen,Marina Theatre,Warakubune Sushi,SF Pizza
+4,Which POI belongs to type: apartments?,D,Cathedral School for Boys,Vega,La Taza Restaurant and Bar,Glenridge Cooperative,Outer Orbit
+5,Which POI belongs to type: fuel?,A,Valero,Little Free Library,Polly Ann Ice Cream,Boba Guys,Original Ghirardelli Ice Cream & Chocolate Shop
+6,Which POI belongs to type: parking?,B,Hot Johnnie's,Walgreens & Live Fit Gym Underground Parking Garage,Philz Coffee,The Ice Cream Bar,EXIT Parking (2nd Floor)
+7,Which POI belongs to type: school?,B,Lost Cat,Zion Lutheran School,Quickly,Base Camp,Taste of Fusion Kitchen
+8,Which POI belongs to type: restaurant?,A,Yee's Restaurant,Rent-A-Wreck,New Strangers Home Baptist Church,Berliner Berliner,CORE MVMT
+9,Which POI belongs to type: cafe?,B,Aux Delices Vietnamese Restaurant,Sightglass,Max's Opera Cafe,Park Presidio Bible Church,Civic Center Sauna & Hot Tub
+10,Which POI belongs to type: nightclub?,E,Success Centers,Wells Fargo,Yonkers Cafe,San Francisco Fire Credit Union,Garden Of Eden
+11,Which POI belongs to type: bus_station?,A,Saint Francis Circle,Greenlite Medicine,John Foley's Dueling Piano Bar,Fresh Brew Coffee,iL cilentano
+12,Which POI belongs to type: bicycle_parking?,C,GIO Gelati,Taqueria Vallarta,Bike Parking,Sunshine Preschool,Bunn Mike Vietnamese Sandwiches
+13,Which POI belongs to type: library?,E,St. Francis Yacht Club,Patxi's Pizza,Ken,Bandit,Geography Department Map Library
+14,Which POI belongs to type: bank?,E,Saint Emydius Roman Catholic Church,Thanh Long,Chef Joe's Culinary Salon,The Boardroom,Citibank
+15,Which POI belongs to type: fast_food?,C,Caroline H. Hume Concert Hall,Castro Fountain,Papalote,Three Polar Bears,Chase
+16,Which POI belongs to type: animal_boarding?,E,Club 93,Yucatasia,EVgo,Sool Bar and Lounge,PetsHotel
+17,Which POI belongs to type: pharmacy?,D,KVTO AM 1400,Bay Wheels,Bini’s Kitchen,Kaiser Mission Bay Pharmacy,Longfellow Elementary School
+18,Which POI belongs to type: music_venue?,A,Boom Boom Room,Alchemist,Pazzia,Gallardo's,Red Tavern
+19,Which POI belongs to type: place_of_worship?,A,Calvary Armenian Congregational Church,Cafe La Noisette,Uncle Benny's Donut & Bagel,Hinodeya Ramen & Bar,Sterling Bank & Trust
+20,Which POI belongs to type: park?,C,California Bank & Trust,Luau Lounge Tiki Bar,Lake Merced Sports Center,Dragon Beaux,Imperial Garden
+21,Which POI belongs to type: university?,D,Tenderheart,CitiDent,Bay of Burma,American College of Traditional Chinese Medicine,C. Q. Noodle
+22,Which POI belongs to type: fountain?,B,Taxi Stand at Marriott Fisherman's Wharf (along North Point Street),Rideout Fountain,Earth Tone Cafe,Los Planes de Renderos,Sool Bar and Lounge
+23,Which POI belongs to type: language_school?,A,German School of San Francisco,Maykadeh Persian Restaurant,Joe and the Juice,Boba Head,Bar Part Time
+24,Which POI belongs to type: nursing_home?,A,Laurel Heights Convalescent Hospital,Barrio,Simpson Library,Hong Kong Clay Pot Restaurant,Community Well
+25,Which POI belongs to type: community_centre?,D,Ta Kioh Buddhist Temple,Happy King Pizza,Elena's,San Francisco Go Club Dojo,Stable Cafe
+26,Which POI belongs to type: sports_hall?,E,Asa Sushi,Manna Korean Cuisine,Coffee Bar,Hokke-shu Buddhist Church Honnoji,American Gymnastics Club
+27,Which POI belongs to type: college?,A,City College of San Francisco John Adams Campus,United Business Bank,Clooney's Pub,Sabella & LaTorre,Marina Theatre
+28,Which POI belongs to type: doctors?,B,Four-Fifty Sutter Pharmacy,Noe Integrative Health,Seniore's Pizza,Congregation Anshey Sfard,Auto City Car Wash
+29,Which POI belongs to type: stadium?,C,Pizza Hacker,Supreme Crab,Negoesco Stadium,Bahn Mi King,Shell
+30,Which POI belongs to type: amusement_arcade?,A,Free Gold Watch,Little Delhi,Underground SF,Little Angels,Calibur
+31,Which POI belongs to type: arts_centre?,E,Blue Heron Boathouse,Bender's Bar and Grill,Dogpatch Saloon,Dogpatch Biofuels,Western Addition Cultural Center
+32,Which POI belongs to type: police?,A,Bayview Police Station,Aliment,Make Out Room,Magic Donuts & Coffee,Round Table Pizza
+33,Which POI belongs to type: theatre?,D,Old Tyme Treats,Tacos El Patron,The UPS Store,Young Performers Theatre,Los Kuyas
+34,Which POI belongs to type: planetarium?,A,Morrison Planetarium,Club 93,Harry's Bar,Great Dim Sum,Солнышко
+35,Which POI belongs to type: sports_centre?,E,Easy Breezy,Peet's Coffee,South Park Cafe,Nob Hill Pizza & Shawarma,Aquatic Park Bocce Ball
+36,Which POI belongs to type: swimming_area?,A,Aquatic Cove,The Lunch Box,Dona Teres Market,Rhoda Goldman Concert Meadow,Bell Tower
+37,Which POI belongs to type: dance?,E,Scopo Divino,Sidewalk Café,Besharam,Wooden Coffeehouse,Steppin’ Out Dance Studio
+38,Which POI belongs to type: post_box?,B,Umpqua Bank,USPS,Pungal Restaurant,Philz Coffee,USPS Fox Plaza
+39,Which POI belongs to type: taxi?,A,Taxi Stand atKaiser Permanente San Francisco Medical Center (along O'Farrell St emergency entrance),Mona Lisa,Bar VIA,Tinto,Ritual Coffee Roasters
+40,Which POI belongs to type: car_rental?,C,Welcome Castro,Five Happiness Restaurant,Enterprise,Smuggler's Cove,SeaGlass Restaurant
+41,Which POI belongs to type: atm?,D,The Market,Caffe Centro,Thai House Express,Bank of America,Martco
+42,Which POI belongs to type: fitness_centre?,D,Columbus Burger,Beanery,Chili Cha Cha 2,SF Iron,Java Beach Cafe
+43,Which POI belongs to type: car_sharing?,C,The Ramp,Thailand Restaurant,City Car Share,Starbucks,Woods Outbound
+44,Which POI belongs to type: dentist?,D,Taxi Stand at California Academy of Sciences,The Beer Hall,Casa Mayah,"Dr. E. F. Savio, Dr. C. I. Skelley, Dr. Ted Savio, Dentistry",Aquatic Cove
+45,Which POI belongs to type: toilets?,B,Jamba,Men,Khao Tiew,Central Gardens,Molotov's
+46,Which POI belongs to type: clinic?,D,Little Caesars,Bay Wheels,Berber,Carbon Health,City Ballet
+47,Which POI belongs to type: recreation_ground?,D,Mission Fellowship,Patriot House,HoDaLa,South End Rowing Club (est. 1873),Bay Wheels
+48,Which POI belongs to type: playground?,E,City Park,K's Kitchen,Snack Cart,The Dahlia School,Little Oceanauts
+49,Which POI belongs to type: ice_cream?,D,Bay Wheels,Chiaroscuro,Jenny's Burger,Amorino,24 hours fitness active
+50,Which POI belongs to type: parking_entrance?,C,The Baked Bear,ACHILLES STRETCH,Four Embarcadero Center Parking,Sterling Bank & Trust,Matsuyama Shabu House
+51,Which POI belongs to type: garden?,B,Lakeshore Plaza Station San Francisco Post Office,Andean Cloud Forest Garden,NaYa Dessert Cafe,Noah's Bagels,Adult Immunization & Travel Clinic
+52,Which POI belongs to type: quarry?,A,Tidewater San Francisco,The Postal Chase,Himalayan Pizza & Momo,The Rumpus Room,Charmaine's rooftop bar
+53,Which POI belongs to type: ferry_terminal?,A,Ferry Building Gate D,Pilates Heights,Gino and Carlo,Sliders,Regal Stonestown Galleria
+54,Which POI belongs to type: social_centre?,D,Bank of America,Golden 1 Credit Union,Kid Power Park Community Garden,Golden Gate Masonic Temple,Quê Huong Vietnamese Deli
+55,Which POI belongs to type: mortuary?,E,Applebee's,One Medical,Crepe Cafe,SFPD Southern Police Station,Serra Mortuary
+56,Which POI belongs to type: social_facility?,E,La Santaneca de la Mission,Lion's Den Bar & Lounge,Bamboo,The Alcove Theater,Project Open Hand
+57,Which POI belongs to type: music_school?,B,Escapology,Sound Minds,Birdsong,Boudin Bakery & Cafe,SOMA Daycare & Preschool
+58,Which POI belongs to type: fixme?,E,Bay Wheels,The Great Northern,Four Seasons Valet Parking Entrance,Eats,Crystal Way
+59,Which POI belongs to type: industrial?,B,"Car Pool Pickups to Fairfield, Suisun, Hercules",Good View Lumber Supply,Amal's Deli,20mission Hacker Hotel,Polk Street Animal Hospital
+60,Which POI belongs to type: moving_storage?,D,Cogswell College,Twin Peaks Pizza,Baby Prodigy Nursery,Saagan Moving Storage,Fox and Lion Bread
+61,Which POI belongs to type: kindergarten?,A,Teaching Tots Preschool,Lotusland,Skylark,Iza Ramen,Stones Throw
+62,Which POI belongs to type: money_transfer?,B,Bank of America,Palou check cashing,The Sandwich Boss at EPC,Empire Jiu Jitsu,Twin Peaks Pizza
+63,Which POI belongs to type: residential?,C,Cool Bar,PerformForLife,East Housing,Donburi Ya,Starbucks
+64,Which POI belongs to type: construction?,A,U.S. Naval Magnetic Silencing Range,Côte Ouest Bistro,Réveille Coffee Co.,City Arts and Tech High School,Andytown Coffee Roasters
+65,Which POI belongs to type: grave_yard?,A,Blue Park,Holy Water,Sunflower Garden,Taxi Stand at CPMC Pacific Campus (along Buchanan at Clay St),Cold Drinks Bar
+66,Which POI belongs to type: marketplace?,C,The Little Chihuahua,EagleRider,The SF Market,Honey Honey Cafe & Crepery,Magnet
+67,Which POI belongs to type: residential?,E,SF Wraps,Avenues San Francisco,Chase,Java Supreme,The Landmark
+68,Which POI belongs to type: Pet grooming shop?,E,Subway,Foundation Cafe,Electrify America,Starbucks,Little Ark
+69,Which POI belongs to type: stripclub?,A,Gold Club,111 Minna Gallery,Haraz Coffee House,K-town Food Hall,Tawan's
+70,Which POI belongs to type: sauna?,E,Piccino Presidio,Urban Pet Hospital,Bank of America,Starbucks,Archimedes Banya
+71,Which POI belongs to type: drinking_water?,D,Philz Coffee,Natural Foods,Piraat Pizzeria & Rotisserie,Drinking fountain,Diamond Heights Post Office
+72,Which POI belongs to type: swimming_pool?,D,Bikram Hot Yoga,Kim Huong,Sammy's Cafe,SFSU Pool,San Francisco Fire Credit Union
+73,Which POI belongs to type: karaoke_box?,C,Shandong Deluxe,Avenue Dental,K-Box Karaoke,Cantina Los Mayos,Saint Brendan Catholic Church
+74,Which POI belongs to type: bowling_alley?,B,Hawaian Drive-Inn,Round1,Indian Oven,The Bento Guys,Camellia Gardens
+75,Which POI belongs to type: shelter?,B,Mission Street Oyster Bar,CouchSurfing - Keisar,Bar Crudo,El Honduras,Garaje
+76,Which POI belongs to type: shop?,E,Corpus Christi Church,Tune In,Happy Chinese Restaurant,Om Indian Cuisine,Welcome Castro
+77,Which POI belongs to type: retail?,B,Yan Yan Seafood Restaurant,Custom Sofa Co,Jonell's,Dumpling Home,The Tailor's Son
+78,Which POI belongs to type: clock?,B,Onsite Dental,Rolex Clock,Ballast Point Tasting Room & Kitchen,Blind Butcher,Round1
+79,Which POI belongs to type: prep_school?,A,Ciclo Sewing Lab,Tranquil Resonance Studio,Bank of America,Bettola,Home Gas
+80,Which POI belongs to type: coworking_space?,C,Rolling-out Cafe,Project Open Hand,Intersection for the Arts,Woods Lowside,Lombard School
+81,Which POI belongs to type: conference_centre?,B,Bay Wheels,Mission Bay Conference Center at UCSF,Bank of America,Harry's Bar,KFC
+82,Which POI belongs to type: house?,E,Pho Day,Osteria Cucina Toscana,Orangetheory Fitness,More Mojo Chiropractic,20mission Hacker Hotel
+83,Which POI belongs to type: bicycle_rental?,B,Log Jumps,Bay Wheels,Surisan,Oasis Grill,Thai House Express
+84,Which POI belongs to type: events_venue?,B,Gyu-Kaku,Plant Connection SF,Taxi Stand at CPMC Pacific Campus (along Buchanan at Clay St),Rocket Sushi,USA Parking
+85,Which POI belongs to type: fitness_station?,D,Royal Cuckoo,House Rules,Karma Cafe,HAND-WALK,Chouchou
+86,Which POI belongs to type: farmyard?,E,Superior Palace,Saint Paul's Presbyterian Church,La Folie,Bay Wheels,City Grazing
+87,Which POI belongs to type: vending_machine?,A,Coca-Cola,Cantina Los Mayos,Crazy Pepper,Journey to Jidara: Pop-up Escape Room,Yuanbao Jiaozi
+88,Which POI belongs to type: school?,A,University Park North,Sequoia Sake tasting room,Saiwalks,24 hours fitness active,Mission Bay Community Church
+89,Which POI belongs to type: food_court?,A,K-town Food Hall,Tsing Tao,Tonga Room & Hurricane Bar,Chotto,Mochica
+90,Which POI belongs to type: gazebo?,A,Gazebo,Park Gyros,Wells Fargo,Fitness Center,BMO
+91,Which POI belongs to type: payment_terminal?,E,Poke Origin,City Park,Fresco Pizza Grill Shawerma,Koret Health And Recreation Center,One Card Value Station
+92,Which POI belongs to type: vintage and modern resale?,E,Cafe Atlas,Wells Fargo,Mexico Tipico,Gaslamp Cafe,ReLove
+93,Which POI belongs to type: dormitory?,B,Civic Center Sauna & Hot Tub,Inn at Market,Momos and More,Radio Habana,San Miguel
+94,Which POI belongs to type: studio?,C,Lee Recreation Center,Réveille,Voiz Music Studio,Gao Viet Kitchen,Terra Cotta Warrior
+95,Which POI belongs to type: brewery?,B,Shaolin Temple USA,Olfactory Brewery & Blendery,Clement BBQ,Bank of America,Takoyaki Yamachan
+96,Which POI belongs to type: bicycle_repair_station?,B,Mixt,Valencia Cyclery,Delah Coffee,Mr. Pollo,LiveFitGym
+97,Which POI belongs to type: ranger_station?,D,CorePower Yoga,San Francisco Plastic Surgery and Laser Center,Sens,Golden Gate National Recreation Area Park Headquarters,Papaya Island
+98,Which POI belongs to type: veterinary?,A,Soma Animal Hospital,Wells Fargo,Grand Palace Restaurant,Reeves,California Institute of Fashion
+99,Which POI belongs to type: motorcycle_parking?,E,La Palma Mexicatessen,B44 / Café Bastille,Walgreens,Mothership,Motorcycle Parking (metered bays)
+100,Which POI belongs to type: fire_station?,A,San Francisco Fire Station 4,SF Hole In The Wall Pizza,GeoSpatial Analysis Lab (GsAL),Boudin,5th Ave Deli & Market
+101,Which POI belongs to type: training?,E,Walgreens,Tri Counties Bank,Chai Bar by David Rio,Higher Grounds Coffee House and Restaurant,The Writing Salon
+102,Which POI belongs to type: dojo?,C,Bay Wheels,ChargePoint,The San Francisco Capoeira Center,Rolph-Nicol Playground,Falafel City
+103,Which POI belongs to type: credit_union?,E,Easy Breezy,German School of San Francisco,The Cut Outdoor Cinema,One Medical,San Francisco Bay Area Educators Credit Union
+104,Which POI belongs to type: popcorn?,C,Carpenter's Union Hall,Chouchou,Cornology,Men,Presidio Bitcoin
+105,Which POI belongs to type: public_bookcase?,A,Little Free Library,South Beach Cafe,Auspicious Clouds | Heavy Fog,Gym,Australia Garden
+106,Which POI belongs to type: animal_shelter?,C,Veterinary Vision,Bay Wheels,Muttville,Hot Yoga,Gymworx
+107,Which POI belongs to type: childcare?,A,SOMA Daycare & Preschool,"Mission Temporary Branch, San Francisco Public Library",ODC Dance Commons,Boba Guys,Sarah Dix Hamlin School
+108,Which POI belongs to type: escape_game?,D,Casements,Ha Tea,Buckshot,The Escape Game,Coffee to the People
+109,Which POI belongs to type: karaoke?,E,Hearing & Low Vision Solutions,Silver Café,Mymy,Walgreens,Konet
+110,Which POI belongs to type: car_wash?,E,First Republic,Plain Jane,Big Fish House,Double Happiness Health - Acupuncture San Francisco,Castro Car Wash
+111,Which POI belongs to type: bureau_de_change?,C,City ATM,USCGC Aspen,Ria,Bluxome Center,Bay Wheels
+112,Which POI belongs to type: parcel_locker?,D,Harmonic Brewing,Urban Pet Hospital,Cold Drinks Bar,Amazon Locker Shirley,St. Regis Hotel Lobby Bar
+113,Which POI belongs to type: common?,E,Kitaro,Kibatsu,Cathay Bank,Black cat,One Montgomery Terrace
+114,Which POI belongs to type: scooter_rental?,D,Mother,Free Library at Benches Garden,Bell Tower,Segway SF Bay,Credo
+115,Which POI belongs to type: pitch?,A,George Wolfman Baseball Fields,Taxi Stand at Church and 24th St,The Coffee Berry,Citibank,Lutheran Church of Our Savior
+116,Which POI belongs to type: grocery?,D,Oh Dessert Cafe,Cumberland Presbyterian Chinese Church,Glen Park Station,Natural Foods,dragoneats
+117,Which POI belongs to type: storage?,C,Cafe Europa,Old Skool Cafe,StoragePRO,United Studios Of Self Defense,Abu Salim Middle Eastern Grill
+118,Which POI belongs to type: car_pooling?,A,Car Pool Pickup to East Bay Destinations,Ippudo (一風堂),Bay Wheels,Toma Mexican Restaurant,Soma Animal Hospital
+119,Which POI belongs to type: tanning_salon?,E,American-Chinese Food / Red House Bakery,Coca-Cola,Lagree Fit 415,YAMO,Tan Bella
+120,Which POI belongs to type: hospital?,B,Yoga Flow,UCSF Benioff Children's Hospital San Francisco,ColorBloq,Bank of America,Kirimachi Ramen
+121,Which POI belongs to type: motorcycle_rental?,E,Millay,Carlin's Cafe,Bank of America,Dr. R. Louie Family Dentistry,EagleRider
+122,Which POI belongs to type: public_bath?,C,Mac'd,Bay Wheels,Kabuki Springs & Spa,Sunshine Preschool,Son & Garden
+123,Which POI belongs to type: money_transfer; post_office?,E,St. Francis Yacht Club,Chaat Corner,Jamba,Flying Pig Bistro,Meest
+124,Which POI belongs to type: trolley_bay?,D,Minerva Schools at KGI,Loló,Bank of America,Smarte Carte,Chatz
+125,Which POI belongs to type: charging_station?,E,Academy of Tae Kwon Do,Sana’a Cafe,"Juana Briones, Pioneer Settler of Yerba Buena",Le Marché Cezanne,EVgo
+126,Which POI belongs to type: spa?,A,Qua Spa,Starbucks Pick Up,Union Post SF,Blue Bottle Coffee,Cafe Muse
+127,Which POI belongs to type: military?,B,Paparikas,U.S. Army Corps of Engineers,Cassava,Wells Fargo,Superior Palace
+128,Which POI belongs to type: university?,A,Pacific Wing,Dolphin Swimming & Boating Club (est. 1877),Xebec,Ginza,Broadway Dim Sum and Cafe
+129,Which POI belongs to type: chocolate;dessert;ice_cream?,A,Ghirardelli Chocolate Experience,ChargePoint,Pakwan,Souvenir Coffee,Chalos
+130,Which POI belongs to type: bench?,D,Charles Schwab,Lighthouse Full Gospel Church,East West Bank,Auspicious Clouds | Heavy Fog,Avenues San Francisco
+131,Which POI belongs to type: miniature_golf?,B,Rincon Dental,Subpar Miniature Golf,Bay Wheels,Up For Dayz,MoneyFast
+132,Which POI belongs to type: hookah_lounge?,B,Jang Soo BBQ,724 Hookah Lounge,Laurel Court,Shaska,The White Horse
+133,Which POI belongs to type: slipway?,A,Kitesurf launch,Little Breakfast,Credo,Normandie Hotel,Pharaohs Mediterranean Sandwiches
+134,Which POI belongs to type: cooking_school?,C,Mixt,Internet Archive Scanning Center,Chef Joe's Culinary Salon,The Coder School,Main Post
+135,Which POI belongs to type: hackerspace?,C,77 Chinese Cuisine & Hawaiian,Cumberland Chinese School,Queerious Labs,Hit Fit SF,Cuisine of Nepal
+136,Which POI belongs to type: lead_inspector?,D,FedEx Office,The Summer Place,The Melt,Environmental Lead Detect Inc.,Mount Vernon Missionary Baptist Church
+137,Which POI belongs to type: indoor_play?,E,Little Sweet,Earthbar,Tsing’s Chinese Restaurant,The Postal Chase,Peek-A-Boo Factory
+138,Which POI belongs to type: research_institute?,E,Rossi Pool,tacolicious,Angelina's Cafe,Bay Wheels,GeoSpatial Analysis Lab (GsAL)
+139,Which POI belongs to type: dancing_school?,A,Geary Dance Center,Argonne School Native Garden and Outdoor Classroom,Divine Yoga Studio,Project Juice,Sutter Street Cafe
+140,Which POI belongs to type: bells?,E,El Capitan Taqueria,PUSH-UP,Walgreens,The Dentist Group,Tune In
+141,Which POI belongs to type: photo_booth?,A,The Click,Tratto,Sessions Training Center,The Center SF Tea House,Bistro Gambrinus
+142,Which POI belongs to type: mobile_library?,B,Taraval Okazu Ya,Swing Into Stories,Angiday,20 Spot,Coffee Bar

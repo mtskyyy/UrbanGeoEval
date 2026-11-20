@@ -1,0 +1,562 @@
+id,question,answer,A,B,C,D,E
+0,Which of the following POIs is closest to POI Dolce Café located in the Paris area?,A,Ménilmontant - Oberkampf,La Salle à Manger 2.0,Clinique Vétérinaire,Parking Place des Fêtes,École générale et technologique privée Cours Progress
+1,Which of the following POIs is closest to POI Oh ! Falafel du Liban located in the Paris area?,C,Crack the egg,Huqqa,Fontaine Sully,Ménagerie de verre,Le Descartes
+2,Which of the following POIs is closest to POI AB Conduite located in the Paris area?,B,Badaboum,Ultras coffee,Cabinet Léah Med,Réunion - Avron,Petit Bain
+3,Which of the following POIs is closest to POI 101% Poulet braisé located in the Paris area?,C,Le Ronsad,Maythai,Bistno Aldo,Ateliers artistiques,Tartelettes
+4,Which of the following POIs is closest to POI Philippe Auguste located in the Paris area?,B,Le Jumeyrah,Société Générale,Le Depart,Paris | bis Rue du Capitaine Ferber 5,Au 105
+5,Which of the following POIs is closest to POI La mezeterie located in the Paris area?,A,Le daily syrien,Kongfu Pâte,King Falafel Palace,École nationale supérieure d'architecture Paris-Malaquais,Gare de l'Est - Verdun
+6,Which of the following POIs is closest to POI Luigi Pisano located in the Paris area?,B,Institut culturel du Mexique,fast food,Le P'tit Mix,Crèche Collective,Au Soleil d'Austerlitz
+7,Which of the following POIs is closest to POI Kokio located in the Paris area?,A,Cadran Solaire de Dali,ECV Design - Campus Buffon,Louvre,Paris | Rue Joseph Bara 15,La Perle
+8,Which of the following POIs is closest to POI Le Bar 21 located in the Paris area?,A,Friends & Family,Muto Donburi,Meenu's,Pharmacie du Temple,Le Carrousel
+9,Which of the following POIs is closest to POI École Maternelle located in the Paris area?,E,Ika,Babilou,PO2 Beaubourg,Café des Lettres,Le Louvois
+10,Which of the following POIs is closest to POI La Petite Heure located in the Paris area?,C,Au Phénix d'Or,L'atelier du Kebab,Bora Bora,Abricot,Hôtel
+11,Which of the following POIs is closest to POI Le Hasard Café located in the Paris area?,D,Le soleil d'Anatolie,Brunchy Café Paris,Hallucine X,La Petite Heure,Le Balajo
+12,Which of the following POIs is closest to POI Petit Bao Frits located in the Paris area?,A,Moemachi,Gymnase Jemmapes,Bibliothèque Mazarine,Qee,Ma Bourgogne
+13,Which of the following POIs is closest to POI École maternelle Brunet located in the Paris area?,A,Chez Mémé,La Tour de Flandre,Société Générale,Le Flash,Le Grand Bol 海碗居
+14,Which of the following POIs is closest to POI Panozzi located in the Paris area?,C,Au Petit Bar,L'insolite,Rolls,McDonald's,Alma Georges V
+15,Which of the following POIs is closest to POI Li Yuan located in the Paris area?,B,Osteria Gòto,Taj Mahal,Toutim,Fontaine Wallace,Rodchenko
+16,Which of the following POIs is closest to POI Et Vie Danse located in the Paris area?,C,Pétard,Le Fontenoy,Flying Noodles,Le Danton,Centre dentaire CMT
+17,Which of the following POIs is closest to POI Chez Marius located in the Paris area?,D,Millimages,École élémentaire Tanger,Amonē,P'tite bougnate,Cojean
+18,Which of the following POIs is closest to POI Chapi Chapo located in the Paris area?,E,Heure légale française,Agata,École Primaire Jenner A,Crêperie de Turenne,Joe Burger
+19,Which of the following POIs is closest to POI BNP Paribas located in the Paris area?,A,Institut de Cryothérapie,Mme Shawn,L'Angle,Lycée général privé Notre-Dame de France,Maison Cluny
+20,Which of the following POIs is closest to POI Pharmacie Grosicki located in the Paris area?,C,Joayo,Fontaine,Karaoke Club,Crédit Mutuel,Le Saint-Valentin
+21,Which of the following POIs is closest to POI Théâtre Popul'Air located in the Paris area?,C,Le Stendhal,École primaire A,Henri Chevreau - Couronnes,Boker,Parking Robert-Debré
+22,Which of the following POIs is closest to POI Le Poutch located in the Paris area?,E,École supérieure d'art dramatique de Paris,Petrelle,Dirty Lemon,Yaya,Le Bistro
+23,Which of the following POIs is closest to POI Gilles Force located in the Paris area?,B,Centre culturel coréen,Bo-Yung,Madame Fan,Food Breizh,Pho 520
+24,Which of the following POIs is closest to POI Vaugirard - Monsieur le Prince located in the Paris area?,B,Le Carrefour,Crédit Mutuel,École primaire privée L'École aujourd'hui,Di Como,Parking Jardin des Plantes
+25,Which of the following POIs is closest to POI Bar Devie located in the Paris area?,A,Cafe Devie,La Charrette,Le Petit Dakar,Le Chantereine,Les Enfants Perdus
+26,Which of the following POIs is closest to POI Chez Daniel located in the Paris area?,D,Dai Dai,Luxembourg Micro,Du Coq à l'Ane,Micadanses,Le Ferryville
+27,Which of the following POIs is closest to POI désordre located in the Paris area?,B,Le Jean Bart,We Are Brewers,Marché Saint-Quentin,Buttes Chaumont - Botzaris,La Fronde
+28,Which of the following POIs is closest to POI Résidence Universitaire Concordia located in the Paris area?,B,Atelier Roulière,RU Châtelet,Place d'Italie,L'Ecir,Quai des Célestins - Henri IV
+29,Which of the following POIs is closest to POI Khao San located in the Paris area?,B,CFA Stephenson,Kisoro,Les délices de Tunisie,Basic-Fit,Fontaine Wallace
+30,Which of the following POIs is closest to POI Théâtre du Conservatoire d'Art Dramatique located in the Paris area?,C,Crèche collective Philippe de Girard,Le Constantinople,La Régalade du Conservatoire,Chez Omar,Lechon
+31,Which of the following POIs is closest to POI Clasico Argentino located in the Paris area?,D,Photomaton,Bibliothèque des Amis de l'instruction,Crêperie Paris Breizh,Virtus,Centre Médico Psychologique Lespagnol
+32,Which of the following POIs is closest to POI Ajumma located in the Paris area?,B,IESA Multimédia,Vittoria,Fontaine Wallace,Wellness,Samantha Snack's
+33,Which of the following POIs is closest to POI Sushi Shop located in the Paris area?,E,Aux Tours de Notre-Dame,Le Président,Badaboum,Stany's,Amorino
+34,Which of the following POIs is closest to POI Addis Ethiopia located in the Paris area?,E,IDM,École de conduite desBatignolles,Le Saint-Laurent,Maimika,Teillebon
+35,Which of the following POIs is closest to POI Starbucks located in the Paris area?,C,Le Bonne Nouvelle,Lucky Day,Le Café Marly,PeGast,Sola
+36,Which of the following POIs is closest to POI Università italiana Niccolo Cusano located in the Paris area?,C,Collège Victor Hugo,Cinquième Empire,KeepCool,Institut de France,My Baar
+37,Which of the following POIs is closest to POI La vie en fruits located in the Paris area?,D,Café Campana,Jardin des Pâtes,La Maison,Sim Drivers,Delitaly
+38,Which of the following POIs is closest to POI Lechon located in the Paris area?,B,La Frairie,Chez Paolo,Lina's,Commissariat de police de Paris 18e arrondissement,Onigiriya
+39,Which of the following POIs is closest to POI Monte Cristo located in the Paris area?,D,BNP Paribas,Les Spectacles,Pharmacie Centrale du XIe,Lock Busters,Pastasuta
+40,Which of the following POIs is closest to POI Pharmacie du Haut Mesnil located in the Paris area?,E,École des fleuristes de Paris,Bureau de douane de Paris Principal,Vitruve - Davout,El Arzé,Le Réveil Matin
+41,Which of the following POIs is closest to POI Le Réau located in the Paris area?,B,Guichet Transilien,Crèche du Mail,Robert et Louise,Bangkok District,Le Voltaire
+42,Which of the following POIs is closest to POI Laura located in the Paris area?,E,Pharmacie Canillac,Porte de la Plaine,La Mamma,Le Cosmos,Paris/Paul Barruel/44
+43,Which of the following POIs is closest to POI Royal Dragon located in the Paris area?,D,Nouvel Odéon,Collège privé Notre-Dame de France,Bombona,Sept Parnassiens,École Primaire Simone Veil
+44,Which of the following POIs is closest to POI École primaire Privé École du Cerene located in the Paris area?,C,Auguste Blanqui - Glacière,Brasserie Balzar,Centre Sportif Poliveau,Résidence Charcot,Au Beurre Salé
+45,Which of the following POIs is closest to POI Sushi Buffet located in the Paris area?,B,Pratolina,Association Vers la Vie pour l'Education des Jeunes,Hôtel de l'Univers,Conservatoire libre du cinema francais,Marché Belleville
+46,Which of the following POIs is closest to POI BNP Paribas located in the Paris area?,A,Crédit du Nord,Mozzafiato,Mme Shawn,Pharmacie Pyrénées-Jourdain,Les Petites Bouchées
+47,Which of the following POIs is closest to POI Le Pot à Tabac located in the Paris area?,D,Til't Sauna,Brasserie du Lycée Carnot,Monsieur Dior,Centre médico-dentaire Pépinière,O'Chicken
+48,Which of the following POIs is closest to POI L'atelier Rome located in the Paris area?,A,Naples - Rome,Hyang-Ly,Mastino,La Cervoise,Lyna restaurant
+49,Which of the following POIs is closest to POI Krash located in the Paris area?,C,Centre dentaire Élise,Crèche Municipale,Taj Mahal,L'Avant Comptoir de la Terre,BNP Paribas
+50,Which of the following POIs is closest to POI Le Corridor located in the Paris area?,E,Basic-Fit,Gare de l'Est - Verdun,Beaux-Arts - Bonaparte,Le Fabula,Hawa Beirut
+51,Which of the following POIs is closest to POI Neoness located in the Paris area?,E,Beauvau Saint Honoré,Soul Kitchen,Photomaton,Racines,Centre International de Danse Jazz I.F.P.R.O.
+52,Which of the following POIs is closest to POI L'Energie located in the Paris area?,A,Ehden,Draft Ateliers,Tonton de la Butte,Wunderbär,Chez Xala
+53,Which of the following POIs is closest to POI Tarántula located in the Paris area?,C,Jardin de Roches et de Pivoines,Pizza Maria,Gruppomimo,Les Polissons,Subway
+54,Which of the following POIs is closest to POI Le Gast located in the Paris area?,E,Panda panda,Le Gobe...,Beaumarchais - Saint-Gilles,La Colline,Le Scherkhan
+55,Which of the following POIs is closest to POI Poco Loco located in the Paris area?,C,Mass Works,Berry,Kangen,Rosa Bonheur,Apsara
+56,Which of the following POIs is closest to POI Fontaine Louvois located in the Paris area?,D,Le Renard,Le Solférino,Franz Liszt,Sushi B,Pub 27
+57,Which of the following POIs is closest to POI O'Kartier located in the Paris area?,D,Borgo,L'Évidence,Café Martin,Studio Nilanthi,CFR +
+58,Which of the following POIs is closest to POI No Scrum No Win located in the Paris area?,E,L'Amazonial,Chouff'bar,Casa Germain,César Palace,La Cave Saint-Germain
+59,Which of the following POIs is closest to POI Pizzetterie located in the Paris area?,B,Chez Papa,Dr Mireille Boller,Tresoro d'Italia,La Petite Chaise,Chez Julien
+60,Which of the following POIs is closest to POI KFC located in the Paris area?,A,La Pinte du Nord,Brasserie Les Ambassades,École Maternelle,Banh me tender 2,One and One
+61,Which of the following POIs is closest to POI So Noodles located in the Paris area?,B,Pharmacie Internationale,Centre International de Danse Jazz I.F.P.R.O.,Parking résidentiel Cardinet,La Java,Brasserie Les Ambassades
+62,Which of the following POIs is closest to POI Madame Lée located in the Paris area?,E,Naina,El Tonel,Crêperie L'étoile,i/o Café,Quelque Part...
+63,Which of the following POIs is closest to POI Hot Pot Nouilles located in the Paris area?,B,El vecino,Guo Xin Ravioli,P.M.I.,Touytouyt,Cédric Tassin
+64,Which of the following POIs is closest to POI Babel Café located in the Paris area?,E,Délices de Bagnolet,The Honey Moon,HD Conduite,Le petit Cambodge,Dans La Foulée
+65,Which of the following POIs is closest to POI Le P'tit Bréguet located in the Paris area?,C,Maison nouilles 12,Église évangélique,Bao Express,Parker pizza,centre sportif Jean Talbot
+66,Which of the following POIs is closest to POI Catherine Rondet located in the Paris area?,C,Fontaine Wallace,École d'Horticulture du Luxembourg,Hubert Dadoun,Restaurant Élite,La Banque Postale
+67,Which of the following POIs is closest to POI Gyrotonic located in the Paris area?,C,Mémère Louise,République Temple,Le Cercle Boxing,Mornay - Sully,Le disparu
+68,Which of the following POIs is closest to POI Bistro De La Banque located in the Paris area?,A,Mamacita,Le Cafe Carrousel,École Maternelle,Babi Bazar Plus,Bibliothèque Marguerite Audoux
+69,Which of the following POIs is closest to POI L'instant libanais located in the Paris area?,E,Maison d’Accueil Spécialisée Notre Dame de Joye,Pharmacie Zgorski Annie,Méo,École Primaire Jenner A,Joe Burger
+70,Which of the following POIs is closest to POI À Jean Nicot located in the Paris area?,C,Brigade de Répression du Proxénétisme,Cité Vaneau,Mee,Label Ferme,Penny Lane
+71,Which of the following POIs is closest to POI Sugo located in the Paris area?,E,Al Solito Posto,Restaurant Coréen,Bain-douche Rome,Le Solférino,Spok
+72,Which of the following POIs is closest to POI Douces Maternelles located in the Paris area?,A,Royal Bombay,Bistrot 65,École Maternelle Croulebarbe,Bon Ami,Marcel
+73,Which of the following POIs is closest to POI Feyrouz located in the Paris area?,D,Bourdon - Pont Morland,Kiwill - Spinning,Faubourg Saint-Antoine - Place de la Nation,McDonald's,Bibliothèque Sorbier
+74,Which of the following POIs is closest to POI Midi trente located in the Paris area?,E,Lycée des métiers de l'optique Fresnel,Didot - Mariniers,LCL,Gay Lussac - Saint-Jacques,Atelier du Verbe
+75,Which of the following POIs is closest to POI 九龍 Traiteur asiatique located in the Paris area?,E,Louvre,Café de l'univers,Qué Bola,La Basilicata,Crédit du Nord
+76,Which of the following POIs is closest to POI Ama Siam located in the Paris area?,E,Le Tagine,Chicken's world,CFR +,Labo dentaire,Guo Xin Ravioli
+77,Which of the following POIs is closest to POI Cité Riverin - Château d'Eau located in the Paris area?,C,Bistrot Du Jardin,Le Havane,Deskopolitan,Boulevard,Amaro
+78,Which of the following POIs is closest to POI Camelia located in the Paris area?,D,Pinson Poissonnière,Loan,Parking Hôtel de Ville,Café Philippe,Keller - La Roquette
+79,Which of the following POIs is closest to POI Sushizo located in the Paris area?,A,Église évangélique,Magnum Bar,Le Ventre de l'Architecte,Poissonnerie Ebisu,Au Vieux Châtelet
+80,Which of the following POIs is closest to POI Bistrot Richelieu located in the Paris area?,C,Yumie-yumie,Au Départ,Chun Yang,Cali Uptown,Pharmacie Bove
+81,Which of the following POIs is closest to POI Banh mi Kim Linh located in the Paris area?,C,Le Bourgogne,Wilde's Lounge,Starbucks,Pasta Linea,Restaurant Thai Thai
+82,Which of the following POIs is closest to POI Exki located in the Paris area?,B,Le Point Zéro,Chez HL,Police nationale,Tomiki,Bicoques
+83,Which of the following POIs is closest to POI Paris/Duquesne/26 located in the Paris area?,D,Centre de protection maternelle et infantile Léon Séché,Pharmacie d'Orsay,Capriccio,Paris Duquesne,La Crêperie de Josselin
+84,Which of the following POIs is closest to POI Tout le Monde en Parle located in the Paris area?,B,Les Assoiffés,Les Bains d'Odessa,SIXT,Orthodontie Cabinet Denfert,Da Zagara
+85,Which of the following POIs is closest to POI Aglio e Olio located in the Paris area?,A,Pizza Milano,Bains-douches Pyrénées,Le Comptoir général,890,Pharmacie des Tournelles
+86,Which of the following POIs is closest to POI Parking Polytechnique located in the Paris area?,B,La Palette,The Game,Bubbles fairy,Pitié-Salpêtrière,Pompe et station de réparation de vélos en libre service
+87,Which of the following POIs is closest to POI Les Caves du Louvre located in the Paris area?,C,Aux anysetiers du roy,Théâtre Antoine,Espot,Le Récamier,Capucine
+88,Which of the following POIs is closest to POI Augusto located in the Paris area?,C,Matzoa,Nomás - Mexican Street Food,Peppe Martyrs,Soprano,Le 34 - Piano Bar
+89,Which of the following POIs is closest to POI Aux Crus de Bourgogne located in the Paris area?,E,CIO,Boubert,Café Nata,Ginsburger,Monsieur M
+90,Which of the following POIs is closest to POI Tina - Bar à tapas located in the Paris area?,A,La Cuisine de Philippe,Pharmacie Bove,Extra Life Café,Le Grizzli Café,Photomaton
+91,Which of the following POIs is closest to POI Clinique Vétérinaire du Faubourg located in the Paris area?,B,Baba Zulu,L'Energie,Entre 2 Rives,Marcel,Mam'Ayoka Pajol
+92,Which of the following POIs is closest to POI B'la Kaz located in the Paris area?,D,Granges aux Belles - Hôpital Saint-Louis,Lycée des Francs-Bourgeois,Le Soleil,Joayo,Institut des Techniques Informatiques et Commerciales
+93,Which of the following POIs is closest to POI Pho ＆Poké House located in the Paris area?,D,Société Générale,Ha Noi 1988,Auburn,Chiyoda,Le Bec Fin - chez Saïd
+94,Which of the following POIs is closest to POI Faust located in the Paris area?,A,Photomaton,Roccolino,Chalet Manège,Comédie Caumartin,Jacopo Le Bar Caché
+95,Which of the following POIs is closest to POI Frenchie located in the Paris area?,C,Gare de l'Est - Verdun,Label Ferme,KeepCool,Fika,Saint-Germain-des-Prés
+96,Which of the following POIs is closest to POI The Friendly Kitchen located in the Paris area?,C,Radiologie Imagerie République,Wave Coffee,Les Stars du Ravioli,Lock Busters,Le garage numérique
+97,Which of the following POIs is closest to POI Les Rupins located in the Paris area?,D,La Marmotière Pétrelle,École maternelle Sadi Lecointe,Parking du Forum,Le Grand Salon,Le Perroquet
+98,Which of the following POIs is closest to POI L'Archipel located in the Paris area?,B,Come Prima,La Pièce,Italian Style Café,Cœur de Breizh,New Soul Food le Maquis
+99,Which of the following POIs is closest to POI Yuj - Yoga Studio located in the Paris area?,C,Pharmacie Principale,Bodega 64,Ô Château,Saint Pearl,Yora
+100,Which of the following POIs is closest to POI Le Comptoir des Saints-Pères located in the Paris area?,B,Auto-école.net,Centre de recherches internationales,Panthéon - Valette,Fontaine Wallace,Mishka
+101,Which of the following POIs is closest to POI Collège Jean-Baptiste Clément located in the Paris area?,D,Parking Robert-Debré,Crèche Collective,Dojo Saint-Ambroise,Mineirinho Bar,Le Murger
+102,Which of the following POIs is closest to POI Yoummah located in the Paris area?,D,Café Campana,Le Bouledogue,Laz Hotel Spa Urbain,ZE art studio,Gare du Nord - Place de Valenciennes
+103,Which of the following POIs is closest to POI Amore Mio located in the Paris area?,D,Chez Véro,L'École de la Maille de Paris,Mesken,Paris Louis Blanc,Espace 19 Numérique
+104,Which of the following POIs is closest to POI Fred located in the Paris area?,D,Bibliothèque paroissiale,Basic-Fit,20 Minutes,Little Lyoom,Fika
+105,Which of the following POIs is closest to POI Initials B.B. located in the Paris area?,E,Tabac de la Navigation,Bodyhit,Section d'enseignement professionnel du Lycée polyvalent Martin Nadaud,Halte Humanitaire Diderot,L’attache
+106,Which of the following POIs is closest to POI Fontaine Wallace located in the Paris area?,E,Parking du Forum,École maternelle Sadi Lecointe,Petrelle,Le petit Zagros,Yuan
+107,Which of the following POIs is closest to POI Le Discobar located in the Paris area?,D,3 frères,L'imprévu,Pharmacie du Bataclan,Studio Nilanthi,Jaisalmer
+108,Which of the following POIs is closest to POI Mamma Roma located in the Paris area?,D,Samsara,Soya Comptoir Bio (service continu),Maison fragile,Binks,Caixa Geral de Depósitos
+109,Which of the following POIs is closest to POI Isola cantine littéraire located in the Paris area?,C,Drogheria Italiana,Western Union,Paris Féni,Nico,CER Paris Pyrénées
+110,Which of the following POIs is closest to POI Le Yono located in the Paris area?,D,Chilango,VirtualTime,Sun coffee,Amorino,Yooki Sushi
+111,Which of the following POIs is closest to POI Les 2 au Coin located in the Paris area?,A,Happy Hour - Escape Game,Sizin,Fulvio,Paris Musée du Louvre,Organisation des Burgers Unis
+112,Which of the following POIs is closest to POI Joon located in the Paris area?,A,Le Petit Commines,Le Petit Plateau,L’apérette,Dumpling king,Permanence Accueil Jeunes
+113,Which of the following POIs is closest to POI Le Mandarin Provence located in the Paris area?,C,Rosa Bonheur,Perpette,Patch Work,Le bar du Louxor,Ichiban Sushi
+114,Which of the following POIs is closest to POI Le Jockey located in the Paris area?,D,Capone Nation,Mairie du 20ème,Liquiderie,Panda Style,Les Affranchis
+115,Which of the following POIs is closest to POI Aktéon Théâtre located in the Paris area?,C,Neuve Saint-Pierre - Beautreillis,Lycée général et technologique privé Les Petits Champs,Vertigo,To restaurant,Les Nouveaux Sauvages
+116,Which of the following POIs is closest to POI Louisette located in the Paris area?,D,Le Zero Zero,Shizuka,Le Petit Samaritain,Théâtre Libre,Progress Santé
+117,Which of the following POIs is closest to POI Khaaw Hoom located in the Paris area?,B,Consultation de Gynécologie et Radiothérapie,Saveurs d'Asie,Royal Cochin,Taiyaki Oden,Café Martini
+118,Which of the following POIs is closest to POI OTTO located in the Paris area?,C,Bubble Tea Dau B,Les Belles Plantes,Auto-école Glacière,Secours Catholique,Le Lucernaire
+119,Which of the following POIs is closest to POI Pois chic located in the Paris area?,E,Société Générale,SG,Le Troquet,La Piazzetta,Papy Aux Fourneaux
+120,Which of the following POIs is closest to POI Maison des acteurs du Paris durable located in the Paris area?,D,Cali Sisters,Le Champo,Vantre,École maternelle Archives,Amarante
+121,Which of the following POIs is closest to POI Scilicet located in the Paris area?,B,Pharmacie du Carreau du Temple,Le Reynou,Resto du Cœur Saint-Roch,Le Pont Traversé,Jardin Tino Rossi
+122,Which of the following POIs is closest to POI La Ferme located in the Paris area?,A,Soleil du Liban,Cococo,Ya Lamaï,Sweet & Salty,Zaitoun (Léa Beyrouth)
+123,Which of the following POIs is closest to POI Distrito Francés located in the Paris area?,A,Malak Al Tawouk,Alleudium,Crèche Saint-Sébastien,1129 iiniku,Golden Food
+124,Which of the following POIs is closest to POI En face located in the Paris area?,B,Le Fabula,Café Litteratum,Binchotan,Saint-Germain-des-Prés,Bibimbap
+125,Which of the following POIs is closest to POI Les Pâtes Vivantes located in the Paris area?,D,Pomme de Pain,Yen,Le Grand Salon,Victoria,L'Éléphant du Nil
+126,Which of the following POIs is closest to POI Societé Génerale located in the Paris area?,C,Aux Ministères,Le Wilson,Photomaton,Le Bon Saint Pourçain,BodyHit
+127,Which of the following POIs is closest to POI Ghido Ramen Paris located in the Paris area?,B,McDonald's,Maparenthèse,Shine Garden,Oburg'Kampf,Postiche
+128,Which of the following POIs is closest to POI Broken Biscuits located in the Paris area?,B,Da Lino,L'atelier Gusto,BRED,Juicy Pop,Basic-Fit
+129,Which of the following POIs is closest to POI AICHI located in the Paris area?,A,Bob's Kitchen,La poketerie,MK2 Bastille (côté Beaumarchais),RelaisH café,Desi Road
+130,Which of the following POIs is closest to POI Qasti located in the Paris area?,E,L'Arsenal,Loui's Corner,Les Gouttes de Dieu,Arbane,Fit Success
+131,Which of the following POIs is closest to POI Cinéma - Spectacle Centre Wallonie-Bruxelles located in the Paris area?,C,ASLC,Pharmacie Henri IV,Decibel,Madame Mozarella,Master of Public Affairs
+132,Which of the following POIs is closest to POI El Sol y la Luna located in the Paris area?,A,Kokio,Le Boa,ECV Design - Campus Buffon,La Perle,Louvre
+133,Which of the following POIs is closest to POI Café Joséphine located in the Paris area?,C,Anatolia Village,La Sarrasine,Aux Deux Écus,Da Rosa,Le Y
+134,Which of the following POIs is closest to POI Street Bangkok located in the Paris area?,D,Les Délices du Colonel,Le Roi de Pique,FabLab Sorbonne Université,Yatai Ramen,BNP Paribas
+135,Which of the following POIs is closest to POI Jantchi located in the Paris area?,D,C'trobon,La Poste St Lazare,Pharmacie Bove,Isaka café,Jean Bonbeure
+136,Which of the following POIs is closest to POI Nouilles Ban Ban located in the Paris area?,C,Spok,Sonata Pizzeria Paradis,Le Tub,Le Drop Café,Pharmacie de la Tour
+137,Which of the following POIs is closest to POI New Delhi Palace located in the Paris area?,E,Paris Bourse,Jules Ferry - Faubourg du Temple Paris,Kbio Foods,Au Clairon des Chasseurs,Crédit Coopératif
+138,Which of the following POIs is closest to POI Le Royal located in the Paris area?,C,Amorino,Au Corona,Neoness,Amorino,Près de Seine
+139,Which of the following POIs is closest to POI The New Me located in the Paris area?,E,Le Khalife Café,Bistro 13,Castor Club,L'Angle,Le Scarlett
+140,Which of the following POIs is closest to POI Pizza Vesuvio located in the Paris area?,D,Aux Trois Maillets,La Truffière,AgroParisTech,Aloï,Assemblée Nationale
+141,Which of the following POIs is closest to POI Café de l'Industrie located in the Paris area?,B,L'UTÈS,Le Café des Chats,Claire Bommier,Les Bombis,Dans La Foulée
+142,Which of the following POIs is closest to POI Gare de l'Est - Fidélité located in the Paris area?,E,École Primaire,Le Timbaud,Popine,Les delices d'amour,Grand Amour
+143,Which of the following POIs is closest to POI Le Marilyn located in the Paris area?,D,Balauff,Chacha,La Grange Paris 10,Le Petit Harajuku,Marmaris
+144,Which of the following POIs is closest to POI Le Comptoir Marguery located in the Paris area?,A,DeROSE Method Gobelins,Good Way,Jardin des Plantes,Assanabel,Halte Garderie
+145,Which of the following POIs is closest to POI Sushi House located in the Paris area?,D,Til't Sauna,LCL,Pharmacie Métro La Chapelle,Café Glacier 1891,Atelier Théâtre de Montmartre
+146,Which of the following POIs is closest to POI Le Zorba located in the Paris area?,E,Yo Mac and Cheese,Casa Giorgio,Sushi Shop,Lhasa Noodles,LCL
+147,Which of the following POIs is closest to POI Chez eating located in the Paris area?,D,Claude Vellefaux - Sambre et Meuse,Maslow,Grill Istanbul,L'Ami Louis,Les nouvelles crèches - Chemin Vert
+148,Which of the following POIs is closest to POI Piou Piou located in the Paris area?,E,Pharmacie de l'Avenir,Bibou,Meow Tea,RentACar,Yamanashi
+149,Which of the following POIs is closest to POI Couscous House located in the Paris area?,B,Zaitoun (Léa Beyrouth),Mosquée 'Ali Ibn Al Khattab,L'Envers,Simple,Borgo
+150,Which of the following POIs is closest to POI Le Petit Sommelier located in the Paris area?,B,Centre d'Animation Ángel Parra,L'Adada,SIXT,Le Bon Saint Pourçain,Escale à Saïgon
+151,Which of the following POIs is closest to POI Gabo Sandwich Club located in the Paris area?,B,Bat Royal,Les 3 Bornés,Basic-Fit,La Poste,Église ukrainienne autocéphale Saint-Simon
+152,Which of the following POIs is closest to POI SOS Chef located in the Paris area?,A,La Maison du Kebab,La Terrasse de Pomone,Gymnase Le Comte,La Fontaine,Chez Marcel
+153,Which of the following POIs is closest to POI Le temps du yoga located in the Paris area?,C,Le Paris Sud,Pizza Caravelle,Église évangélique baptiste roumaine,Centre Dentaire Luxembourg,Enfaim
+154,Which of the following POIs is closest to POI Gourmand Duphot located in the Paris area?,E,Bienfaisance - Place de Narvik,Le Nusa,L'Ariel,Samaritaine Paris Pont-Neuf,Cuizines
+155,Which of the following POIs is closest to POI Guenmaï located in the Paris area?,E,Le Rexy,Le Mayflower,Dream Café,Food Breizh,La Peña
+156,Which of the following POIs is closest to POI The 38 Bar located in the Paris area?,D,Pharmacie de l'Avenir,Pizza Unica,Petit Piment,Tea'ke your time,The Labo Bar Club Paris
+157,Which of the following POIs is closest to POI L'Alchimiste located in the Paris area?,E,Joyeux,Crescendo,Café Tournon,Kani,Le Pavé
+158,Which of the following POIs is closest to POI BDJ located in the Paris area?,A,Salento Marais,Savannah Café,King Marcel,Twinkie Breakfast,African kitchen
+159,Which of the following POIs is closest to POI BOBO - Anjou located in the Paris area?,C,Magnum 150cl,La petite Charlotte,Noon,Hertz,Jaïs
+160,Which of the following POIs is closest to POI L'Ariel located in the Paris area?,E,Centre Médical et Dentaire,McDonald's,Ferona,Le Péché Mignon,Choron - Martyrs
+161,Which of the following POIs is closest to POI Brasserie Bellanger located in the Paris area?,D,Le Cépage Montmartrois,To restaurant,Pharmacie Pajol,La Royale,Corner Haussmann
+162,Which of the following POIs is closest to POI Café Maru located in the Paris area?,C,Le Klub,Pharmacie Bove,Le Ventadour,Select.AA,Bôl
+163,Which of the following POIs is closest to POI Beaumarchais - Pas de la Mule located in the Paris area?,B,Sefa Antalya,Mahabelly,Gossima Ping Pong bar,Terra bar à vins,Le Baker Street Pub
+164,Which of the following POIs is closest to POI Brasserie des Belges located in the Paris area?,B,Espace19 Riquet,La Pinte du Nord,Alix et Mika,Kongfu Pâte,Crèche collective municipale Bichat
+165,Which of the following POIs is closest to POI Banque Palatine located in the Paris area?,E,Sushi Lounge,Select.AA,Tabac de la Mairie,Châtelet,CrossFit
+166,Which of the following POIs is closest to POI Progress Santé located in the Paris area?,E,Théâtre du Gouvernail,Le Bec Fin - chez Saïd,Le Fokus,Paris | Rue des Couronnes 2,Crèche collective municipale Louis Blanc
+167,Which of the following POIs is closest to POI Le Lescot located in the Paris area?,D,Pétard,Alpha Burger,Chez Mehmet,Lassus - Delouvain,Centre dentaire CMT
+168,Which of the following POIs is closest to POI Chez Nicos located in the Paris area?,C,CPNDO,L'Enoteca,Let's Dance Studio,Relais H,Marcello
+169,Which of the following POIs is closest to POI Little Havana located in the Paris area?,B,Galette Café,Le d'Argout,Une Glace à Paris,Braun Notes,Chicken Street
+170,Which of the following POIs is closest to POI Centre de Formation Professionnelle de la Pharmacie located in the Paris area?,B,L'aller retour,École Supérieure des Techniques de Biologie Appliquée,Le Bar Botté,Porte de Bagnolet,Le 68
+171,Which of the following POIs is closest to POI Qasti Grill located in the Paris area?,D,Bistro Rossini,Xin Gainian,Le Madonnina,Fit Success,Naya
+172,Which of the following POIs is closest to POI El Hombre located in the Paris area?,E,Le Sully,Lou Pescadou - Chez Julien,Lavomatic,Kurry Up,L'Usine Beaubourg
+173,Which of the following POIs is closest to POI Kiccho located in the Paris area?,E,Église de Scientologie,Le bar du moulin,Le Petit Médicis,Ossek Garden,Les Souffleurs
+174,Which of the following POIs is closest to POI Au Père Fouettard located in the Paris area?,D,Yushi,Wild & the moon,Le Cinquante,Reset,Dad's Den
+175,Which of the following POIs is closest to POI Arham's Food located in the Paris area?,E,Auberge Notre-Dame,Mikopüy,Auberge Etchegorry,Dupin,Embell'vie
+176,Which of the following POIs is closest to POI Chez Rami located in the Paris area?,E,Piscine Émile Anthoine,École élémentaire Saint-Lambert (école A),Le Restaurant O’40 Le Patio,Hôme Bar,Babilou
+177,Which of the following POIs is closest to POI Chez Mao located in the Paris area?,A,L'Alsacien,Bibliothèque François Villon,Kong,Bibliothèque Valeyre,Piscine Cour des lions
+178,Which of the following POIs is closest to POI Comptoir Coréen located in the Paris area?,C,Petit Farmers,Le Palace,The Coffee,Relais Poste,Paris/Saint-Martin/204
+179,Which of the following POIs is closest to POI Centre dentaire Notre-Dame de Lorette - Eversmile located in the Paris area?,E,Le Maryland,Sur Mesure,Mercure et la Musique,Marché Barbès,Cocottes Gourmandes
+180,Which of the following POIs is closest to POI Guégnaud located in the Paris area?,A,Caminito,Roquette - Folie Regnault,Les comediens,Guichet Transilien,Chéper
+181,Which of the following POIs is closest to POI Floréal located in the Paris area?,B,Le Connetable,Pharmacie Tomasini Cohen,Pizza Delizia,Acting International,Collect & Station
+182,Which of the following POIs is closest to POI La Caravelle located in the Paris area?,B,Little Italia,Les Cercles de la Forme,Koff,Le Comptoir Moka,Bibliothèque Charlotte Delbo
+183,Which of the following POIs is closest to POI Le Restaurant O’40 Le Patio located in the Paris area?,E,École Maternelle,Institut de Chirurgie Dentaire de Paris,Guynemer - Jardin du Luxembourg,Cyclocube La Bricothèque,Zenpark Paris - Gare Montparnasse
+184,Which of the following POIs is closest to POI Un Air de Famille located in the Paris area?,A,Food fighter,Pizzeria Toda L'Akel,Haïtian Mama,Boteco,Tai Yien
+185,Which of the following POIs is closest to POI Mémère Louise located in the Paris area?,B,Le Magnolia,Boulets - Faubourg Saint-Antoine,Chez Yach Restaurant,Marias,Johnny's Bar
+186,Which of the following POIs is closest to POI Sellae located in the Paris area?,C,Au Beurre Salé,Paris/Tolbiac/15,Clinique du Sport,Le Pub Saint-Hillaire,Centre médical Hahnemann
+187,Which of the following POIs is closest to POI Kyobashi located in the Paris area?,D,Bar de la Croix Rouge,Açaï & you,École Militaire - Place Joffre,Maison Mongkok,Da Attilio
+188,Which of the following POIs is closest to POI Le H Bar located in the Paris area?,C,BRED,Ben's Coffee,PermiGo,École élémentaire Jean Bouton,E. Leclerc Relais Netter
+189,Which of the following POIs is closest to POI Les Bombis located in the Paris area?,C,Académie Inter Musicale de Paris,Nems & Sushi,Restaurant Lara,École Supérieure des Techniques de Biologie Appliquée,CIC
+190,Which of the following POIs is closest to POI Planet Africa located in the Paris area?,D,Société Générale,Pharmacie Principale,Karaagé-ya,Asian Wok,Aux Délices d'Asie
+191,Which of the following POIs is closest to POI New Impérial Monceau located in the Paris area?,E,Crédit Mutuel,RIDC - Rencontres Internationales de Danse Contemporaine,L'Écluse,Parking Berthier,Bamignon
+192,Which of the following POIs is closest to POI Domino's located in the Paris area?,C,Bowl,Chez Sylvia,Pharmacie de la Mairie,LCL,Mister Loc Lac
+193,Which of the following POIs is closest to POI La Mécanique Ondulatoire located in the Paris area?,B,Sandwichs Vietnamiens,Barawine,La Factorie,Lecker,Jacques De Molay Fitness
+194,Which of the following POIs is closest to POI Sakura Ramen located in the Paris area?,D,Joayo,Crédit Agricole,Halte Garderie,Aasman,CIC
+195,Which of the following POIs is closest to POI The Copper Pub located in the Paris area?,C,Ehpad Ma Maison Breteuil,Cours privé Alfred de Musset,Yatai Ramen,Centre d'Animation Ángel Parra,Indonesia
+196,Which of the following POIs is closest to POI Kuisinistan located in the Paris area?,B,Bibliothèque Mazarine,Bomb Squad,Elle&Dee's,Cabinet Médical,Logements Jemmapes
+197,Which of the following POIs is closest to POI Epoca located in the Paris area?,A,Centre d'imagerie médicale Oudinot,Le Campanella,Montée,Arzeh,Quai Voltaire
+198,Which of the following POIs is closest to POI L'imprévu Café located in the Paris area?,E,Michi,Aux Vieux Paris,Le Bon Saint Pourçain,Burger King,Michi Ramen
+199,Which of the following POIs is closest to POI Le Gavroche located in the Paris area?,D,Café la Chaufferie,Falafel du Liban,Guichet Transilien,ZE art studio,La Dinette de Louis
+200,Which of the following POIs is closest to POI Au Pays located in the Paris area?,A,Pharmacie Paris-Charonne,Clinique Vétérinaire,BRED,Poubelle,La Terrasse de Lyon
+201,Which of the following POIs is closest to POI Bains-douches Meaux located in the Paris area?,E,L'Africain,École Élémentaire Doudeauville,Cafe Tunis,Le Premier Pas,La Pièce Blanche
+202,Which of the following POIs is closest to POI Candelaria located in the Paris area?,B,Kafkaf,Gyoza Bar,L'ombre de Notre-Dame,Arkose Strasbourg Saint-Denis,Chez Trois
+203,Which of the following POIs is closest to POI Le Bistrot du Croissant located in the Paris area?,E,L'Amuse Gueule,Karachi Biryani,Rod,La Frégate,Le Sacré
+204,Which of the following POIs is closest to POI Budget located in the Paris area?,C,Bichettes,Indiana Café - Richelieu Drouot,Enterprise,Pharmacie Mathieu,Angkor
+205,Which of the following POIs is closest to POI Kanadé located in the Paris area?,E,Jean Bonbeure,Maison Dubois,Pharmacie Bove,Creperie,Le Ventadour
+206,Which of the following POIs is closest to POI Jangal located in the Paris area?,D,La perle noire,GIOIA,Fontaine Wallace,Mee,Richer
+207,Which of the following POIs is closest to POI L'Ambroisie located in the Paris area?,D,Totchka,Chapelle Saint-André,LCL,Bernard Cointreau,Au 105
+208,Which of the following POIs is closest to POI Paris Nord Café located in the Paris area?,C,Cocoricains,Brasserie Les Ambassades,La Pinte du Nord,Le soleil d'Anatolie,École Maternelle
+209,Which of the following POIs is closest to POI Crudus located in the Paris area?,A,Stand Tora,Liziba Chongqing Chicken Pot,stelle,Scilicet,CCF
+210,Which of the following POIs is closest to POI Agatto located in the Paris area?,C,Bastille - Biscornet,Jinyao,One hour Voltaire,Paris Pyrénées,NR Fight club
+211,Which of the following POIs is closest to POI Les petits chaperons rouges located in the Paris area?,C,Centre dentaire Netter,Bar Edith Piaf,Auto moto école,Maison BapBap,Dido Cafe
+212,Which of the following POIs is closest to POI Esat Montgallet located in the Paris area?,A,L'Alchimiste,Café du Passage,Police nationale,Paris Buzenval,Wanderlust
+213,Which of the following POIs is closest to POI ADA located in the Paris area?,D,Ada Tech School,Barrio Meshica,Bar de nuit,Language Appart',Belleville - Pyrénées
+214,Which of the following POIs is closest to POI O'Délice located in the Paris area?,B,L'Étoile de l'Est,Café Belleville,L’Estaminet des Enfants Rouges,BNP Paribas,Batistou
+215,Which of the following POIs is closest to POI L'Étincelle located in the Paris area?,B,Derya,Sushi Room,École de Communication Visuelle,Le Shana,Khana
+216,Which of the following POIs is closest to POI Les Trois Fontaines located in the Paris area?,C,Lina's,Kashmir,Ovanac,Azaytoona,La Poutinerie
+217,Which of the following POIs is closest to POI Mimosa located in the Paris area?,D,L'Arlequin,Le Saint-Louis,Hope,Le Saint Honoré,Arty Le Restaurant
+218,Which of the following POIs is closest to POI Basic-Fit located in the Paris area?,C,L'Europe,L'international,Café du Marché,Le Ferber,Les Provinces
+219,Which of the following POIs is closest to POI Yummy located in the Paris area?,B,Soya,Burger Addict,Le Paris Flandre,Square Louise Michel,Popolare
+220,Which of the following POIs is closest to POI Zenpark Paris - Gare Montparnasse located in the Paris area?,C,Paris | Rue de Fleurus 2,Padel 15,Ernest,Tradition gourmande,Swann et Vincent
+221,Which of the following POIs is closest to POI Babylone located in the Paris area?,B,L'Auberge de Chine,Viahè Càphê,Pizza italienne,L'UTÈS,Curry Villa
+222,Which of the following POIs is closest to POI Learn and fun located in the Paris area?,E,BNP Paribas,Halte Garderie,LOREM,Gymnase Alice Milliat,BNP Paribas
+223,Which of the following POIs is closest to POI Café de la Comédie located in the Paris area?,C,Au Bougnat,La Mauvaise Réputation,Café Ruc,La Crêperie,Brûlerie de Varenne
+224,Which of the following POIs is closest to POI Le Bout located in the Paris area?,D,Chongqing Liuyishou Hotpot,Le Bourbon,Haïtian Mama,Numéro 10,Sabor Latino
+225,Which of the following POIs is closest to POI Village d'Ung located in the Paris area?,B,Café Jacques,喜心,Pharmacie Lorraine,Haton-nous,Guichet Transilien
+226,Which of the following POIs is closest to POI Le 12 located in the Paris area?,B,Club Biberon Charenton,Liberty Gym,Jamon 5,Paris/Tolbiac/15,Au Régal Couscous
+227,Which of the following POIs is closest to POI KFC located in the Paris area?,B,Accès Parking Gare du Nord,Starbucks,Original Green,La Terrasse de Pomone,La Galette libanaise
+228,Which of the following POIs is closest to POI Hanami Teatime located in the Paris area?,A,Brigadeiro d'Alis,Le Rapide,Ibo,Lolita Paris,Beaumarchais - Pas de la Mule
+229,Which of the following POIs is closest to POI Alain Aublé located in the Paris area?,E,Invalides - Duroc,American Corner,Séoul,École maternelle de la Glacière,Le Lithographe
+230,Which of the following POIs is closest to POI Café Petite located in the Paris area?,A,Yamanashi,Bibliothèque Valeyre,Centre d'accueil de jour Marie de Miribel,Melt Deli,Pharmacie de l'Avenir
+231,Which of the following POIs is closest to POI Le Select Vignon located in the Paris area?,D,Le petit St Honoré,BRED,Rimal,Pharmacie LeClerc,Eau potable
+232,Which of the following POIs is closest to POI Sushi Shop located in the Paris area?,D,Georges Bernanos - Port Royal,Brewdog,Institut de France,Gérard Magdic,Petite Fontaine Wallace
+233,Which of the following POIs is closest to POI Combat located in the Paris area?,A,Studio Nilanthi,Mobster Bar - the speakeasy,3 frères,0'Tacos,Zaitoun (Léa Beyrouth)
+234,Which of the following POIs is closest to POI Fresh & Green located in the Paris area?,D,Centre du cadran solaire formé par l'Obélisque de la Concorde,Au Garage À Vélos,Bloom Sushi – Batignolles,A Little Tea,Cafe Boca
+235,Which of the following POIs is closest to POI Lellabaya located in the Paris area?,B,Quai des Célestins - Henri IV,Île Sushi,Fontaine Wallace,Lavomatic,Mongoo
+236,Which of the following POIs is closest to POI Nakama located in the Paris area?,E,Lou Lou,Teillebon,Bar Bol,Les Malicieux de Lafayette,Cojean
+237,Which of the following POIs is closest to POI Docteur Salzman located in the Paris area?,D,Parking Bateaux Parisiens,Mozza And Co,Café Montparnasse,L'escapade,Thai at Home
+238,Which of the following POIs is closest to POI La Galerie located in the Paris area?,A,L'Atelier des Gâteaux,Centre régional des oeuvres universitaires et scolaires de Paris,Appia,La Motte-Picquet - La Tour Maubourg,Bibliothèque Mazarine
+239,Which of the following POIs is closest to POI Tamada located in the Paris area?,A,HuTong Paris,The Bench Café,Saint-Placide - Cherche Midi,École de danse Yoga Art thérapie,Au P'tit Zinc
+240,Which of the following POIs is closest to POI Crêpes 71 located in the Paris area?,C,Fontaine Wallace,Paris Hanoï Little Hanoi,Pharmacie Ledru-Rollin,Golden Food,Robert et Louise
+241,Which of the following POIs is closest to POI La Cantine de Babelville located in the Paris area?,B,Restaurant Bodrum,Centre médical Jean-Pierre Timbaud,L'Ami Justin,Le Laptop Jourdain,Pink Flamingo
+242,Which of the following POIs is closest to POI SuperBao located in the Paris area?,C,Le Royal Parmentier,Sunny,De l'autre côté,Univers Pharmacie,Dentilys
+243,Which of the following POIs is closest to POI La Dame de Paris located in the Paris area?,E,Piano Académie,Halte Garderie,Jardin de Roches et de Pivoines,Candelaria,Au Vieux Paris d'Arcole
+244,Which of the following POIs is closest to POI Compose located in the Paris area?,A,Fenouil,Ritm - Champs Elysées,Murphy's House,Sens unique,L'Ardoise
+245,Which of the following POIs is closest to POI Cocoön located in the Paris area?,A,Les Cercles de la Forme,Le Discobar,Rosmarino,Sheezan,Castro
+246,Which of the following POIs is closest to POI Rosebud located in the Paris area?,E,CCF,Ephese,Reflet Médicis,École primaire privée Notre-Dame de France,Amazon Hub Locker
+247,Which of the following POIs is closest to POI Sürpriz Berliner Kebab located in the Paris area?,D,Oratoire - Rivoli,Kheak & Véro,BRED,La Pièce,Le Ciné Café
+248,Which of the following POIs is closest to POI Totto located in the Paris area?,B,Relais H Café,Rhino Rouge,Pharmacie Saint-Gilles,Total,A Nossa Churrasqueira
+249,Which of the following POIs is closest to POI Fontaine Wallace located in the Paris area?,B,Ô Maestro,Moncœur Belleville,Paris Richard Lenoir,Urgences et consultants vétérinaires,Salles de sport Chaumont-Lepage
+250,Which of the following POIs is closest to POI Brigadeiro d'Alis located in the Paris area?,D,ZARKOV BAR,Shrak,Le Café des Antiquitaires,pepita,La Estancia
+251,Which of the following POIs is closest to POI Chez Anna located in the Paris area?,B,Piscine Suzanne Berlioux,Maparenthèse,Les Ptits Gros,Total Wash,Nang Loan
+252,Which of the following POIs is closest to POI Triode located in the Paris area?,D,Maison de Santé Faidherbe,Le Saint-Régis,Bouillon Julien,Auto-école Cosmos,Le noctambule
+253,Which of the following POIs is closest to POI Alabama located in the Paris area?,B,Renault Rent,La Barrique,La Cantina,Açai & You,Aux Trois Maillets
+254,Which of the following POIs is closest to POI Fondue Zhangge located in the Paris area?,B,Crèche Collective et Halte Garderie,Cossonnerie - Sébastopol,Hyang-Ly,Le Temps des Cerises,El Guacamole
+255,Which of the following POIs is closest to POI Royal Food located in the Paris area?,D,Pharmacie des Deux Colonnes,Climbing District Bastille,Villa Gambetta,Panda Style,Mala Boom
+256,Which of the following POIs is closest to POI Euro Men's Club located in the Paris area?,C,La Terrasse de Pomone,Cafe les établis,Café Grévin,Ma'loa,Photomaton
+257,Which of the following POIs is closest to POI Clinique du Louvre located in the Paris area?,C,Magic Afrique,Le Cherche Midi,Café du Pont Neuf,Bar Hemingway,Étoile Gourmet
+258,Which of the following POIs is closest to POI Le Cube located in the Paris area?,C,Divine,Medusa,BubbleWaffle,Fri-chiks & Pizza,SG
+259,Which of the following POIs is closest to POI Café du Louvre located in the Paris area?,A,Change Master,Mékong,Fontaine Wallace,Label Ferme,Le petit Varenne
+260,Which of the following POIs is closest to POI My Baar located in the Paris area?,D,Croulebarde - Corvisart,Maison de Luciole,Pizza Roma,Société Générale,Vaneau - Sèvres
+261,Which of the following POIs is closest to POI Le Monkey located in the Paris area?,E,Collège Victor Hugo,Logements Jemmapes,Victoire - Laffitte,EAP PrépaSeine - InfoSeine,Mamma Mia
+262,Which of the following POIs is closest to POI Baci Baci located in the Paris area?,B,Crèche Municipale,Le Marigny,Pharmacie Rodier,Louvre Rivoli,CCF
+263,Which of the following POIs is closest to POI Le Progrès located in the Paris area?,B,Street Cantine,BNP Paribas,Dumpling king,Notre-Dame,Ledru-Rollin - Charonne
+264,Which of the following POIs is closest to POI Allo Beirut located in the Paris area?,A,MindOut,La Vache Folle,Siseng,La Place Royale,Le Jean Bart
+265,Which of the following POIs is closest to POI Tournelle located in the Paris area?,A,La Tour d'Argent,Le Palais de la Perse,Maison Maison,Institut Français de la Mode,APEP SUP
+266,Which of the following POIs is closest to POI Ginette located in the Paris area?,C,La Poste,Saint-Germain-des-Prés,Frenchie,Crèche Collective Municipale,Bodyhit
+267,Which of the following POIs is closest to POI Le Galibot located in the Paris area?,E,Rue de Lille Caisse des Depôts,Laskab,Les Cercles de la Forme,Grill Istanbul,Montézuma Café
+268,Which of the following POIs is closest to POI Dr Julien Seveyrac located in the Paris area?,B,Adda Ghar,Gamescape,Quedubon,Les Bains du Marais,12
+269,Which of the following POIs is closest to POI Le Point Zéro located in the Paris area?,B,Kebap Haus,Mister Garden,Pharmacie Bac-Verneuil,Le Poto Crêpes,Chapelle Sainte-Marie
+270,Which of the following POIs is closest to POI Xing Fu Tang located in the Paris area?,D,Yoshi World,CIC,BDJ,CIC,Pharmacie Zgorski Annie
+271,Which of the following POIs is closest to POI Corneil 36 located in the Paris area?,E,Bistrot 38,Blondie,Opera Mandarin,Espace santé,Basement Studios
+272,Which of the following POIs is closest to POI Rolls located in the Paris area?,A,The Escape Lab',Antalya,École Valrhona,École du Louvre,Théâtre de Paris
+273,Which of the following POIs is closest to POI Au Chaud Pain Choc located in the Paris area?,B,Dentix,Crédit du Nord,Mister Garden,Quai des Célestins - Henri IV,Marché Saint-Germain
+274,Which of the following POIs is closest to POI Fati auto-école located in the Paris area?,A,Les Cercles de la Forme,Jargon libre,Hao Dong,Le week-end,Sandwicherie de l'Étoile
+275,Which of the following POIs is closest to POI HappyLemon located in the Paris area?,B,Shinjuku Sushi,Reset,Guenmaï,La Citadelle des Grands Boulevards,Bun's Land
+276,Which of the following POIs is closest to POI Pharmacie du Centre Pompidou located in the Paris area?,A,Pietro,Bourse,Vélorution,Relais Odéon,Canal Thaï
+277,Which of the following POIs is closest to POI Pharmacie du Quartier Saint-Martin located in the Paris area?,A,Le Petit Château d'Eau,Mikkeler,Le Paradis du Fruit,Le 17,École Elementaire Simon Bolivar
+278,Which of the following POIs is closest to POI 2ème Cru located in the Paris area?,D,Il Vicolo,Institut de Formation en Soins Infirmiers Saint-Louis,Les Minimes,Effective,Gioia Mia
+279,Which of the following POIs is closest to POI Clover located in the Paris area?,C,Place de la Concorde,Postiche,Ristorante Caffe Toscano,L'orangerie de Paris,Kehribar
+280,Which of the following POIs is closest to POI Café Oz located in the Paris area?,E,Photomaton,Ciao Paulette,Le Déjeuner sur l'Herbe,La Terrasse de Pomone,Euro Men's Club
+281,Which of the following POIs is closest to POI Le Bossu located in the Paris area?,A,Auberge des deux Ponts,Pharmacie Saint-Jacques,Costadoro,Doï Southep,La Demesure Sur Seine - Est
+282,Which of the following POIs is closest to POI Gros located in the Paris area?,D,Le Centenaire,Bandelu,École élémentaire Lafayette,Lucky Luciano,Explore vision
+283,Which of the following POIs is closest to POI Seoul Mama located in the Paris area?,E,Bodyhit Paris 13 Place D'italie Electrostimulation,Bouillon de l'île,Le Sèvres Raspail,Mairie du 14ème arrondissement,École Montessori Internationale
+284,Which of the following POIs is closest to POI Starbucks located in the Paris area?,A,Sim Drivers,Cocorico,BNP Paribas,Espace 7 Parnassiens,Restaurant de La Mosquée de Paris
+285,Which of the following POIs is closest to POI Société Générale located in the Paris area?,A,Huali Restaurant,Association Autremonde,Mobi’s,Chanard,Le Navy
+286,Which of the following POIs is closest to POI Ségur - d'Estrées located in the Paris area?,B,Les Deux Musées,Apeti Segur,Pizza Maya,Wasabi,Bourdonnais - Tour Eiffel
+287,Which of the following POIs is closest to POI Maker Jeûneurs located in the Paris area?,C,Le Connetable,Louvre,The Escape Lab',Cafpi,Chez Mav
+288,Which of the following POIs is closest to POI di Loretta located in the Paris area?,D,Pharmacie de la place de la République,Thaï Kanda,Bourdon - Pont Morland,Le split,Le garage numérique
+289,Which of the following POIs is closest to POI Virtual Room located in the Paris area?,B,Le Vertbois,Les nouvelles crèches - Chemin Vert,Institut du Monde Arabe - Saint-Germain,La Petite Place,Paris Ménilmontant
+290,Which of the following POIs is closest to POI Relais 59 located in the Paris area?,E,BRED,Pedra Alta,École Maternelle,Mi.k.do Bar,LCL
+291,Which of the following POIs is closest to POI Cédric Tassin located in the Paris area?,D,Guo Xin Ravioli,Club 8&9 - Billard Bar,Paris Saint-Blaise,Labo dentaire,Saint-Fargeau - Mortier
+292,Which of the following POIs is closest to POI Firat Grill located in the Paris area?,D,La Crêperie Qui Fait L'Angle,Dandelion,ASLC Association d'assistance scolaire linguistique et culturelle,Paristanbul,Clinique Vétérinaire
+293,Which of the following POIs is closest to POI Le Sancerre located in the Paris area?,B,Mamacita,Café de la Mairie,Philippe Granier,Studio Sainte-Marthe,Fontaine Wallace
+294,Which of the following POIs is closest to POI AgroParisTech located in the Paris area?,A,Mamie Lucienne,La Charette à Crêpes,Centre de Radiologie,Rotonde Gabriel,Le Denfert Cafe
+295,Which of the following POIs is closest to POI Table Ronde located in the Paris area?,E,Bertine,Babel,Les Deux Colombes,Iné,Clasico Argentino
+296,Which of the following POIs is closest to POI Le Voltaire located in the Paris area?,B,O'Kartier,Magma,Berliner - Voltaire,Libanais Faubourg,Les Souffleurs
+297,Which of the following POIs is closest to POI Naniwa-ya located in the Paris area?,E,Centre médico-dentaire Pépinière,ES,Novettino Poissonière,The Green Linnet,Laï-laï Ken
+298,Which of the following POIs is closest to POI LCL located in the Paris area?,B,Pitié-Salpêtrière,Fitness Park,A l'étoile d'or,Crédit Agricole,Synagogue Charles Liché
+299,Which of the following POIs is closest to POI Au Grand Turenne located in the Paris area?,A,Essence 32,La libanaise,Bistrot Marguerite,Bonheur,Sobane Bento
+300,Which of the following POIs is closest to POI A'Néné located in the Paris area?,A,Caisse d'Épargne,Tillou Crèche,Burger King,Relais Poste,Caractère
+301,Which of the following POIs is closest to POI Crazy Pasta Bar located in the Paris area?,D,Phobia,Institut médico-pédagogique Les Amis de Laurence,Le Mandarin,Kapris Kebab,L'Enoteca
+302,Which of the following POIs is closest to POI Biscotto located in the Paris area?,B,Yard,Little Lyoom,Makodanse,Centre culturel suisse,La Place
+303,Which of the following POIs is closest to POI Ensuite located in the Paris area?,C,Photomaton,MOD'SPE Paris,KeepCool,Quai Voltaire,Garden Trinité
+304,Which of the following POIs is closest to POI Le Kawaa located in the Paris area?,E,Le Touareg,Centre Wild Flower,Dip tandoori,Le Loir dans la Théière,Fontaine Wallace
+305,Which of the following POIs is closest to POI Bobae located in the Paris area?,B,King Food,Jong-No,Jardin des Plantes,Coallia,Halte Garderie
+306,Which of the following POIs is closest to POI James Bun located in the Paris area?,C,Caisse d'Épargne,Soon,Le Petit Harajuku,L'office,L'Apostrophe
+307,Which of the following POIs is closest to POI Koshi located in the Paris area?,C,Cedrus,Bar de la Croix Rouge,Ernest,yoga village Paris,Distrito Francés
+308,Which of the following POIs is closest to POI Vadrouille located in the Paris area?,C,Aboukir - Alexandrie,KFC,Le Bon Georges,Point Vision Experts,Cycles
+309,Which of the following POIs is closest to POI Chez Bouboule located in the Paris area?,E,Pharmacie Alexandre Dumas,Le Regard du Cygne,Caves Saint-Gilles,La Grange Paris 10,Oberkampf
+310,Which of the following POIs is closest to POI Gomu Burger located in the Paris area?,D,Suffee,Flanelles,Salle Olympe de Gouges,Le Rouergue,École des fleuristes de Paris
+311,Which of the following POIs is closest to POI Chez les frangines located in the Paris area?,E,Chez Philou,Le Cinquante,Laminiak,Subway,Kiddies
+312,Which of the following POIs is closest to POI Crèche Collective Municipale located in the Paris area?,D,La Solita Taverna,Fenouil Paris 2,La bagarre,Perle - Vieille du Temple,Le Rallye
+313,Which of the following POIs is closest to POI Amphithéâtre Saint-Vincent-de-Paul located in the Paris area?,E,Crêperie Rozell Café,Mairie du 2ème,Richard Lenoir - Jean-Pierre Timbaud,LCL,CasaYoga
+314,Which of the following POIs is closest to POI Molly located in the Paris area?,B,Les Entretiens,Espot,Café de l'Olympia,Le Brazza,Crêpe en l'Isle
+315,Which of the following POIs is closest to POI Lhassa located in the Paris area?,B,Chapelle de l'Humanité,La Lucha Libre,Relais H Café,Institut de France,Laser World
+316,Which of the following POIs is closest to POI Mister Garden Boétie located in the Paris area?,C,Perlouse,L'Espace Bikram Paris,Côté Sushi,CIC,Maison Blanche
+317,Which of the following POIs is closest to POI Allegria located in the Paris area?,A,Spok,La Maison Des Centraliens,L'Œil,Auto école Monceau,Chez Ammad
+318,Which of the following POIs is closest to POI Le Taylor located in the Paris area?,A,Le Navy,Le Havane,Cabinet Dermatologique,Mr. Shnitz,Little Bakery
+319,Which of the following POIs is closest to POI Concept Chef located in the Paris area?,E,L'Angle,OTTO,Boyer-Barret - Raymond Losserand,Rocaille,The New Me
+320,Which of the following POIs is closest to POI Babs located in the Paris area?,B,Les Bains d'Orient,Studio Nilanthi,Pharmacie de la Porte Brunet,Okasia,Folderol
+321,Which of the following POIs is closest to POI Bar des Théâtres located in the Paris area?,A,Manko,Piscine Émile Anthoine,ENI,L'Arpège,Le Derby
+322,Which of the following POIs is closest to POI Phenice located in the Paris area?,A,Café Soucoupe,Le Constantinople,BNP Paribas,Chutney Bites,CER Jacquier Conduite
+323,Which of the following POIs is closest to POI Eléonore et Maxence located in the Paris area?,A,Casa Pizza,Les Ombres,Pharmacie d'Orsay,Collège Camille Sée,Le Petit Morbihan
+324,Which of the following POIs is closest to POI Le Rexy located in the Paris area?,E,Le Chai Saint-Germain,La Bringue,Hanoi Cà Phê Opéra,L'Enoteca,HappyLemon
+325,Which of the following POIs is closest to POI Florina located in the Paris area?,C,Club Le Montsouris,L'UTÈS,Val Café,Noussenbaum,Paris | Rue de Fleurus 2
+326,Which of the following POIs is closest to POI Baffo located in the Paris area?,D,Maikai,The Floor,Crêperie Genia,Patrick Steuer,Gingil
+327,Which of the following POIs is closest to POI Alexandre Parodi - Quai de Valmy located in the Paris area?,C,Anga,Canal grill,Kheak & Véro,Lavoir Moderne Parisien,Grande pharmacie de Belleville
+328,Which of the following POIs is closest to POI BRED located in the Paris area?,C,Paris Haussmann,La Place Royale,Barreshape,La taverne de Zhao Saint Germain des Prés,Buddy buddy nut café
+329,Which of the following POIs is closest to POI Reina Dürüm located in the Paris area?,C,La Mesita,Le Vicq d'Azir,Western Union,Poulcook,ESTBA
+330,Which of the following POIs is closest to POI Indian Connection located in the Paris area?,A,Neoness,Pharmacie Ménimontant,A'Néné,Gramme,Lecker
+331,Which of the following POIs is closest to POI Matignon located in the Paris area?,E,Les Deux Musées,Haton-nous,Ternes,Café Jacques,Jean Mermoz - Champs-Elysées
+332,Which of the following POIs is closest to POI La Marmotière Pétrelle located in the Paris area?,A,Roche Coffee Shop,Le Poutch,Félix Ziem - Armand Gauthier,Thaï 18,Thierry Marx Boulanger
+333,Which of the following POIs is closest to POI Square Montholon located in the Paris area?,C,La Table d'Anna,JesSaint-- Marx Dormoy,galetezen,Danielle Casanova - Opéra,Cimetière de Montmartre
+334,Which of the following POIs is closest to POI Bolo Bolo located in the Paris area?,D,Crédit Mutuel,Le Solférino,Café Beaubourg,Mister Garden,L'atelier des Sœurs
+335,Which of the following POIs is closest to POI Photomaton located in the Paris area?,D,Chalet Manège,TotalEnergies,Le Roi du Pot-au-Feu,Gare des Invalides,La Petite Chaise
+336,Which of the following POIs is closest to POI La Galette libanaise located in the Paris area?,D,McDonald's,Pedone,Genki,L'Auberge de Nicolas Flamel,Centre de Santé
+337,Which of the following POIs is closest to POI Village Madeleine located in the Paris area?,B,KB,Le Cristal,Aoi Sushi,Rimal,Riviera Fuga
+338,Which of the following POIs is closest to POI Gusto Italia located in the Paris area?,C,Police nationale,Paris/Duroc/2,Tott Ori,Zola Orthopédie,AKRAM
+339,Which of the following POIs is closest to POI Berthillon Esterina located in the Paris area?,E,La Table,La comédie Saint-Michel,Le Chaton Indépendant,Off Paris Seine,Crêperie Île Saint-Louis
+340,Which of the following POIs is closest to POI Chez Toye located in the Paris area?,D,Miznon,Pouce,Paristanbul,Mon crème,Le Comptoir des Saints-Pères
+341,Which of the following POIs is closest to POI Les Petits Chaperons Rouges located in the Paris area?,A,Mi.k.do Bar,Bodrum,Domicile Clean,La Banque Postale,Les saveurs de Manon
+342,Which of the following POIs is closest to POI O'Kaido located in the Paris area?,E,Bodyhit,La Criée,Café le Celtique,Souvlaki grill,Le Phénicien
+343,Which of the following POIs is closest to POI Porte du Bonheur located in the Paris area?,E,Ehpad Ma Maison Breteuil,Vercingétorix,Paris Médicis,Le Pavillon de la Sirène,Chào Em
+344,Which of the following POIs is closest to POI Au P'tit Gorgeon located in the Paris area?,E,Théâtre Essaïon,CIC,École Primaire Privée Hattemer,Guichet Transilien,Change Richelieu
+345,Which of the following POIs is closest to POI Bonjour Ivresse located in the Paris area?,A,The Beans on fire,Le Dindon en Laisse,Centre International de Culture Populaire,Kpital,Da Lino
+346,Which of the following POIs is closest to POI La petite Georgette located in the Paris area?,C,Le Christine,Five Guys,Café Georgette Paris,La Place Royale,Le Madonnina
+347,Which of the following POIs is closest to POI Pharmacie des simples located in the Paris area?,C,Café Titon,Pinot Grigio,Un Gavroche en Vadrouille,ROND - Sarrazin et Calvados,Kinder école de l'AJEFA
+348,Which of the following POIs is closest to POI Pho 520 located in the Paris area?,C,Bureau de change,Pharmacie du Square de Tocqueville,Up Thaï,Félix Ziem - Armand Gauthier,Le Bab Opéra
+349,Which of the following POIs is closest to POI Hippopotamus located in the Paris area?,B,Le Comptoir Moka,Pomme de Pain,Crédit Mutuel,Ryukishin,Place des Abbesses
+350,Which of the following POIs is closest to POI Bar à Momos located in the Paris area?,A,Les Cercles de la Forme,R2 Training Bastille CrossFit,Chez Ye,Les délices de la Lionne,Pharmacie de Bercy
+351,Which of the following POIs is closest to POI Clinique vétérinaire Azzurra located in the Paris area?,B,Mala Boom,L'R de Rien,Neelkanth,Parking Opéra Bastille,Pharmacie de la Nation
+352,Which of the following POIs is closest to POI Immersion located in the Paris area?,C,Les Anges Gourmands,Au Vieux Comptoir,Le Passage Saint Honoré,Café de la Mairie,Hana (resto & épices japonaises)
+353,Which of the following POIs is closest to POI Titi Palacio located in the Paris area?,D,L'imprévu Café,Social Bar,Marias,Bonnie Bar et Restaurant,Extra Life Café
+354,Which of the following POIs is closest to POI Au P'tit Grec located in the Paris area?,C,Photomaton,Orthodontie Cabinet Denfert,Restaurant Istanbul,Crêperie - L'Atelier Artisan Crêpier - Mabillon,École Saint Louis
+355,Which of the following POIs is closest to POI Wunderbär located in the Paris area?,E,Los Brothers,Tire Bouchon,Ehden,Sunny,C.S.E. Scanner IRM
+356,Which of the following POIs is closest to POI Le Pouzzoulou located in the Paris area?,C,Barclays,Olivia,Centre Ophtalmique Paris 17,École Élementaire Privée Ohr Kitov (Sinai),Ptite Fabrique
+357,Which of the following POIs is closest to POI BNP Paribas located in the Paris area?,D,École Internationale des métiers de la culture et du marché de l'art,Conservatoire de Musique Orientale,O'Koyoto,Le Chiquito,Centre de Protection Maternelle et Infantile
+358,Which of the following POIs is closest to POI Don K Comedy Club located in the Paris area?,E,Focaccia Club,Fontaine Wallace,Le Rubis,ZigZag,Centre de recherches internationales
+359,Which of the following POIs is closest to POI Le Bigado located in the Paris area?,E,Alfred Roll - Berthier,RIDC - Rencontres Internationales de Danse Contemporaine,Auburn,George V - Christophe Colomb,Bamignon
+360,Which of the following POIs is closest to POI BNP Paribas located in the Paris area?,A,R2 Training Vendôme CrossFit,Qian Xi,Casa Germain,CCF,Pharmacie Moderne
+361,Which of the following POIs is closest to POI La Clef Des Champs located in the Paris area?,B,École de conduite Saint-Lazare,Xing Fu Tang,Le Chat Noir,Pharmacie Bove,Sapid
+362,Which of the following POIs is closest to POI Willi's Wine Bar located in the Paris area?,E,Vieux Garçons,Natives,La glacerie,Hippopotamus,Colonia club
+363,Which of the following POIs is closest to POI Los Andes coffee located in the Paris area?,B,Rampal - Belleville,Le Brazza,Le Daily Syrien,Lobau Rivoli,École privée catholique Sainte-Marguerite
+364,Which of the following POIs is closest to POI Douces Maternelles located in the Paris area?,E,École Maternelle Croulebarbe,Atelier Maître Albert,O Bella Ciao,Lucky Day,BRED
+365,Which of the following POIs is closest to POI L'imprévu located in the Paris area?,E,Le Café Marly,Les 2 singes,Ogata,Le Stay,Hauteville - Bonne Nouvelle
+366,Which of the following POIs is closest to POI La Scala located in the Paris area?,D,Pharmacie Saint-Honoré,Progress Santé,Triode,La Pièce,Pharmacie Centrale Martyrs
+367,Which of the following POIs is closest to POI Au vieux cèdre located in the Paris area?,A,Kokio,La Perle,ECV Design - Campus Buffon,Qué Bola,Louvre
+368,Which of the following POIs is closest to POI Na Ruga located in the Paris area?,B,Le Cèdre,Sherry Butt,Budget,Erso,Kitten & Puppi
+369,Which of the following POIs is closest to POI Pharmacie Goncourt located in the Paris area?,B,L'atelier du poulet,Lüks,Urban Crêp's,El Berdawni,La Fa Brick
+370,Which of the following POIs is closest to POI Caminito located in the Paris area?,C,SG,Chéper,P'tit Resto,Clint,FRAC Antenne culturelle
+371,Which of the following POIs is closest to POI Danielle Casanova - Opéra located in the Paris area?,A,Cédric Grolet Café,SIXT,Le Café Suédois,Bergson,Au Taquet
+372,Which of the following POIs is closest to POI La Torche located in the Paris area?,B,Le Toit,Gyrotonic,Faubourg Du Temple - Republique,Le Petit Bistro,Aux Vieux Paris
+373,Which of the following POIs is closest to POI Crédit Agricole located in the Paris area?,D,Pharmacie Hadjali,An Com,Cuizines,Le Dream Café Martyrs,Ladess
+374,Which of the following POIs is closest to POI Les parents zen located in the Paris area?,D,Yatai Ramen,Kodama Beaumarchais,Le Lutétia,Mabrouk,Fluctuat
+375,Which of the following POIs is closest to POI Yam'Tcha located in the Paris area?,D,Le Petit Olympia,CCF,Balafria,École de Dessin Technique Artistique Sornas,Taken-Club
+376,Which of the following POIs is closest to POI Le Lucky located in the Paris area?,B,La Calèche,KeepCool,La Rotonde,Photomaton,Centre culturel suisse
+377,Which of the following POIs is closest to POI CIC located in the Paris area?,E,Le Cavern,Les jeunes heures,L'Apostrophe,Mian Fan,Fit Success
+378,Which of the following POIs is closest to POI Mon Coco located in the Paris area?,E,Le Rey,Cabinet Médical des Buttes Chaumont,Marlette,Mister Do-San - Sando,Starbucks
+379,Which of the following POIs is closest to POI Happy Lemon located in the Paris area?,A,Le Tub,Barclays,Gare Saint-Lazare,Dong,I Cugini
+380,Which of the following POIs is closest to POI Pasteur-Montparnasse located in the Paris area?,D,Wani,Les Saveurs,Les pipelettes,Junk Group.,Silvia Monfort
+381,Which of the following POIs is closest to POI Pedzouille located in the Paris area?,C,Al Taj,Seunsep,Street Bangkok poissonnière,La Villa des Abbesses,Tabac du Temple
+382,Which of the following POIs is closest to POI Place du marché located in the Paris area?,E,Mini Palais,Chez Michou,accès pieton Parking Villiers,Omar Dhiab,printemps du goût
+383,Which of the following POIs is closest to POI Jean Paul Gaultier located in the Paris area?,D,Face Noodles,Les Caves,Samaritaine Paris Pont-Neuf,L'Agriculture et l'Industrie,Ata Drakat
+384,Which of the following POIs is closest to POI Dumbo located in the Paris area?,C,CIC,CMETE,Loumi's,Persil,Subway
+385,Which of the following POIs is closest to POI Mussubï located in the Paris area?,C,La P'tite Bascule,Le Casablanca,Boom,Happa Teï,Le Temple d'or
+386,Which of the following POIs is closest to POI Salle d'armes located in the Paris area?,C,Bodyhit,La Grivoiserie,Pizza Rustica,FabLab Sorbonne Université,La Terrasse de Pomone
+387,Which of the following POIs is closest to POI Alerte aux Points located in the Paris area?,D,Kozy Bosquet,Apégo,Avia,Société Générale,Les Écrivains
+388,Which of the following POIs is closest to POI Guiren located in the Paris area?,D,JOBO,Chez Papa,A Little Tea,Le Puits Montorgueil,Lucien Sampaix - Récollets
+389,Which of the following POIs is closest to POI Crêperie Chez Sakis located in the Paris area?,D,Delice House,École Primaire Jenner A,Shiro,Joe Burger,Heure légale française
+390,Which of the following POIs is closest to POI Haut les Cœurs located in the Paris area?,A,Samy’s BBQ burger,Jardin d'enfants du Buisson Saint-Louis,Grazia Maria,Tanori,La Chope
+391,Which of the following POIs is closest to POI Le Macareux located in the Paris area?,B,La Frégate,Hammam Paris,Chéper,Rod,Kacchi
+392,Which of the following POIs is closest to POI Haengbok located in the Paris area?,C,Chez Lili & Marcel,Natema Café,McDonald's,O'Bon Traiteur,Yoru
+393,Which of the following POIs is closest to POI 1er Art located in the Paris area?,E,Le Mondial,Chez Julien,Société Générale,printemps du goût,Tabac Victoire
+394,Which of the following POIs is closest to POI Grounded located in the Paris area?,B,Los Franchutes,Bistrot Beyrouth,Royal Tching Tao,Pizza Clip,La Maison du Délice
+395,Which of the following POIs is closest to POI Subway located in the Paris area?,A,Kanaya,1999,Le Beyrouth,Opus formation,Centre de Protection Maternelle et Infantile
+396,Which of the following POIs is closest to POI BHCR located in the Paris area?,C,Zenpark Paris - Gare Montparnasse,Piscine Émile Anthoine,Babilou,Auguste,Gymnase Saint-Lambert
+397,Which of the following POIs is closest to POI Apero Square located in the Paris area?,C,Pharmacie Boiron,Clavelin,Opera Mandarin,Rollet Pradier,HD Diner
+398,Which of the following POIs is closest to POI Klay located in the Paris area?,A,Nuru spa,Logements Jemmapes,EAP PrépaSeine - InfoSeine,Ma Bourgogne,Presto
+399,Which of the following POIs is closest to POI Clos Belle Juliette located in the Paris area?,B,Casa Leo,Spa Belle Juliette,La Danse Alain et Françoise Chantraine,Pharmacie du Septième,EAP PrépaSeine - InfoSeine
+400,Which of the following POIs is closest to POI Gili-Gili located in the Paris area?,B,Jour Malesherbes,Nova Fitness,Sushi et Rock lovers,Pharmacie Espace Conseil,Le Croquis
+401,Which of the following POIs is closest to POI Crédit Agricole located in the Paris area?,A,Pharmacie de la Mairie,Bowl,Pizza 4 You,Inspiration Danse Studio,Le Saint-Nicolas
+402,Which of the following POIs is closest to POI Pharmacie des Deux Boulevards located in the Paris area?,D,Espace polyvalent,Bistrot Lucien,Artesano,Saint-Ambroise,Crèche Collective
+403,Which of the following POIs is closest to POI Pharmacie de Chaligny located in the Paris area?,A,Crédit Mutuel,Wanderlust,Unité de Soins de Suite de la Fondation Rothschild,Savane & Mousson,Parking Zenpark - Rue de Bagnolet
+404,Which of the following POIs is closest to POI XKboys located in the Paris area?,A,Urban Laser,Bistrot du Terrage,Des Gars dans la Cuisine,L'école du carton,L'Ami Justin
+405,Which of the following POIs is closest to POI L’epuisette located in the Paris area?,B,Le Prélude,Papilles,Sens unique,Maison Calibré,Délice 18
+406,Which of the following POIs is closest to POI Chez Maroun located in the Paris area?,E,Le Grand Olivier,Gourmet d'Alésia,Dantzig - Lefebvre,Lac Tana,Appia
+407,Which of the following POIs is closest to POI Bibliothèque Diderot located in the Paris area?,B,BRED,Crack the egg,Le Proscenium,Chez Joséphine,Pitié-Salpêtrière
+408,Which of the following POIs is closest to POI École Primaire Privée Hattemer located in the Paris area?,D,Change Richelieu,Monterosso,Le Vieux Chalet,Londres - Europe,Jean Mermoz - Champs-Elysées
+409,Which of the following POIs is closest to POI O' Délices located in the Paris area?,D,Onela,Nico,L'Empire du ravioli - 饺子帝国,Le Muratti's,Pedra Alta
+410,Which of the following POIs is closest to POI Intégrale Prépa located in the Paris area?,D,Au Bureau,Five Guys,Mimi,École maternelle privée Le Petit cours du Rocher,École primaire privée Saint-Jean de Montmartre
+411,Which of the following POIs is closest to POI Sushirama located in the Paris area?,E,Arlecchino,Nanashi,Ippudo,Lunch Club,Crédit Mutuel
+412,Which of the following POIs is closest to POI Gloria located in the Paris area?,C,Cojean,Centre d'imagerie médicale Oudinot,Société Générale,Petit Palais,Oppa cantine
+413,Which of the following POIs is closest to POI Richard Lenoir - Voltaire located in the Paris area?,C,Hoa Sheng,Espace polyvalent,Saint-Ambroise,Bibliothèque Forney,GranDental
+414,Which of the following POIs is closest to POI Il Forno di Napoli located in the Paris area?,E,Fontaine du Fellah,L'île aux Singes,Happiz,Caisse d'Épargne,Centre de santé
+415,Which of the following POIs is closest to POI Pharmacie Bove located in the Paris area?,B,cour du Bon conseil,Le Drop Café,やすべえ,Restaurant Lasserre,Jeu de Boules
+416,Which of the following POIs is closest to POI Café Populaire located in the Paris area?,A,La Place Verte,Les Minimes,École maternelle Hôpital Saint-Louis,Coach Driving,Société Générale
+417,Which of the following POIs is closest to POI Kafeibaie located in the Paris area?,D,Gabriela,Qui Plume la Lune,Centre d’Animation La Grange aux Belles,Le Djoliba,Café du Pont Neuf
+418,Which of the following POIs is closest to POI Flanelle located in the Paris area?,A,Mon crème,Centre de recherches internationales,Princesse Crêpe,Le Labo by OmegaWorkout,HSBC
+419,Which of the following POIs is closest to POI Kalinka located in the Paris area?,A,Fat Bao,Häagen-Dazs,BNP Paribas,Shalini,Perlouse
+420,Which of the following POIs is closest to POI Virtus located in the Paris area?,B,Petite Fontaine Wallace,Do et Riz,Maison des Associations du XIIe,Centre Médico Psychologique Lespagnol,Page 35
+421,Which of the following POIs is closest to POI Institut de France located in the Paris area?,E,Bistrot Paul Chêne,Café Lapérouse,Pizza Roma,Shana,Café des Beaux-Arts
+422,Which of the following POIs is closest to POI Japorama located in the Paris area?,D,Pharmacie du Village,Le Paris Orsay,Micouleau,Polidor,Maison des jeunes de Saint-Médard
+423,Which of the following POIs is closest to POI Centre de santé Yvonne Pouzin located in the Paris area?,A,Centre Médical au Maire-Volta,Douieb,New Hanoï,Chez Marie,Police Judiciaire - Brigade Criminelle - Brigade des Stupéfiants
+424,Which of the following POIs is closest to POI Loké located in the Paris area?,D,Herb Tea,Bibliothèque Mazarine,Café du canal,Effective,Royal Turenne
+425,Which of the following POIs is closest to POI Coutume located in the Paris area?,C,Café de l'univers,Karimaa,Station Macao,Chevreuse - Montparnasse,École du Louvre
+426,Which of the following POIs is closest to POI Théâtre des Nouveautés located in the Paris area?,E,Teillebon,Parking Louvre,Le 16,Guichet Transilien,La Poste
+427,Which of the following POIs is closest to POI SG located in the Paris area?,E,Centre d'animation Sohane Benziane,Le Vauban,Comptoir Coréen,Méchain - Faubourg Saint-Jacques,Le Chien Andalou
+428,Which of the following POIs is closest to POI École maternelle Littré located in the Paris area?,A,École primaire Littré,Romantica,Capsule,Procession,Atlas
+429,Which of the following POIs is closest to POI Croq-Fac located in the Paris area?,B,École Élémentaire Privée Saint-Thomas d'Aquin,American Corner,Fontaine Wallace,Le Lithographe,B.B.O
+430,Which of the following POIs is closest to POI Amazon Hub Locker located in the Paris area?,A,Bistrot Du Jardin,L'Entracte,Balafria,Kbg,Les Fous de l'Île
+431,Which of the following POIs is closest to POI La Maison de Verlaine located in the Paris area?,B,Foyer de Vie Miryam,Racina,École Primaire Jenner A,Au Bouquet Saint-Paul,Pastavino
+432,Which of the following POIs is closest to POI Tokyo located in the Paris area?,A,Escrime,Restaurant du Marché,Proseniors,Odori,Comptoir d'Alésia
+433,Which of the following POIs is closest to POI Bistro Saint-Dominique located in the Paris area?,E,Centre d'imagerie médicale Oudinot,Le Kouriet,Cojean,Petit Palais,Pottoka
+434,Which of the following POIs is closest to POI Pizza 113 located in the Paris area?,D,Kbio Foods,Le Troubadour,Le Louis d'Or,Crèche,Centre culturel Pouya
+435,Which of the following POIs is closest to POI Saint-Augustin located in the Paris area?,C,Centre Médical Veille Sommeil,Dosamaa,Sport Impulse,Illy,O vingt-deux
+436,Which of the following POIs is closest to POI Bistro Volney located in the Paris area?,C,Café de la Mairie,Le Saint Honoré,Frog Hop House,Le Potager de Charlotte,Garance
+437,Which of the following POIs is closest to POI Côme Pyramides located in the Paris area?,D,Violetta & Alfredo,GIOIA,"BBT (Le Bon, Le Beurre & Le Truand)",Caffe dei Fratelli,Fontaine Wallace
+438,Which of the following POIs is closest to POI Kongfu Pâte located in the Paris area?,D,Fontaine Wallace,Vinhuit,Lüük,Le Labo by OmegaWorkout,Nannynou
+439,Which of the following POIs is closest to POI Pharmacie du Carreau du Temple located in the Paris area?,B,Le Cyrano,Paris Temple,Le Reynou,Snack BD Tacos,Naoppé
+440,Which of the following POIs is closest to POI BNP Paribas located in the Paris area?,C,Pharmacie Nguyen,Pharmacie Convention Croix Nivert,Pharmacie Bénichou,stelle,Noti Plage
+441,Which of the following POIs is closest to POI Le Palais located in the Paris area?,A,Saint-Victor,Institut de France,Port Royal,All in Sushi,Marché Salpétrière
+442,Which of the following POIs is closest to POI Flunch located in the Paris area?,D,Da Lino,Old Kashmir,Bon Pot,Leroy Merlin,Médisup Sciences
+443,Which of the following POIs is closest to POI Les Associés located in the Paris area?,D,Au Cœur du Marais,École maternelle Duranti,Restaurant de La Mosquée de Paris,Bastille - Biscornet,Daumesnil - Hébrard
+444,Which of the following POIs is closest to POI Libanais Faubourg located in the Paris area?,A,Mosquée 'Ali Ibn Al Khattab,Bistrot de l'Époque,À l'Ancienne,Loxam City,Pokaina
+445,Which of the following POIs is closest to POI At Aûm located in the Paris area?,C,San Budô Dôjô,Le bap,Flying Noodles,Chez Mehmet,Restaurant Baladi
+446,Which of the following POIs is closest to POI La Violette located in the Paris area?,E,Trois Fois Plus de Piment,Saibā Café,Place du Colonel Fabien,APEP SUP,Magic Afrique
+447,Which of the following POIs is closest to POI La Poesia located in the Paris area?,E,Les Trois Coups,Marché Popincourt,25° Est,Pickup Station,Grand Amour
+448,Which of the following POIs is closest to POI Ô Soleil de Naples located in the Paris area?,D,École du Louvre,Rai - Radiotelevisione Italiana,MK2 Parnasse,Station Macao,Les petits chaperons rouges Paris 15 Blomet bis
+449,Which of the following POIs is closest to POI CIR République located in the Paris area?,E,Paris | rue Frédérick Lemaître 5,Hôtel du Nord,L'Ambroisie,Room Rush,LCL
+450,Which of the following POIs is closest to POI Pti Nuage located in the Paris area?,B,Babi Bazar Plus,Makham Thaï,La Cure Gourmande,Kitchen Story,Vermillon
+451,Which of the following POIs is closest to POI Le Champo located in the Paris area?,A,Pharmacie de la Sorbonne,BNP Paribas,Les Antiquaires,Cabinet d'orthodontie,Pharmacie du Dome
+452,Which of the following POIs is closest to POI Arachnologie located in the Paris area?,C,Lycée général privé Notre-Dame de France,Amarante,Carcinologie,Compos13,Paris/Paul Painlevé/7
+453,Which of the following POIs is closest to POI Le Belleval located in the Paris area?,C,Dokkebi,Manufacture des Abbesses,École de conduite Saint-Lazare,Pharmacie Carnot,La Maison Des Centraliens
+454,Which of the following POIs is closest to POI Angkor Maison located in the Paris area?,B,Caire - Dussoubs,Dolsotbat,Parking Mairie du 17ème,Buddha-Bar Paris,Goutte d'or - Barbès
+455,Which of the following POIs is closest to POI Logements Jemmapes located in the Paris area?,D,Le 190,Au Bon Vivant,Brasserie de la Goutte d'Or,École maternelle Hôpital Saint-Louis,Fresh food
+456,Which of the following POIs is closest to POI École d'Esthétique Catherine Sertin located in the Paris area?,E,Brady's Irish Pub,Molly,Clavelin,Au Petit Palais,Arty Le Restaurant
+457,Which of the following POIs is closest to POI Chez Suzette located in the Paris area?,D,Label Green,Dans le noir,Le Solférino,Spok,Crédit Mutuel
+458,Which of the following POIs is closest to POI Wilton located in the Paris area?,D,Janine,BRED,Fontaine Wallace,Côme Victoire,Suya
+459,Which of the following POIs is closest to POI C'bon d'Asie located in the Paris area?,B,CEPRANO • Jourdain,Bon Appétit,Clark hot dog and coffee,La Paella,Fresh sushi
+460,Which of the following POIs is closest to POI Mme Shawn located in the Paris area?,B,Chez Fiston,Le Café du Passage,Lecker,Bon Ga,Amami
+461,Which of the following POIs is closest to POI Tuktuk located in the Paris area?,C,Ratn,Espace Brémontiers,Auberge Saint-Augustin,Le Sanglier Bleu,La Villa Saint-Honoré
+462,Which of the following POIs is closest to POI Lycée Saint-Nicolas located in the Paris area?,C,École élémentaire,Espace Gii,IME Notre École,Le Brazza,Picchetto
+463,Which of the following POIs is closest to POI Festival located in the Paris area?,B,The Auld Alliance,Pharmacie de la Poste,Pharmacie Ostrom,Dentylis,Centre de recherches internationales
+464,Which of the following POIs is closest to POI Petit Piment located in the Paris area?,C,BRED,Seunsep,Silo,Les Tantes Jeanne,Royal Taste Food
+465,Which of the following POIs is closest to POI Iovine's located in the Paris area?,C,Cantine Régalade,Tata Yaya,Starbucks,Les Belles Plantes,Préfecture de police
+466,Which of the following POIs is closest to POI Xia's Fast Food located in the Paris area?,D,BNP Paribas,L'Impasse,Le Café Vert,Bienfêteurs,Paris | bis Rue du Capitaine Ferber 5
+467,Which of the following POIs is closest to POI Leïla Bouchentouf-Lavoine located in the Paris area?,A,She Ger,Lobau Rivoli,pharmacie traditionnelle chinoise,BNP Paribas,Neko Ramen Green
+468,Which of the following POIs is closest to POI Lina's located in the Paris area?,E,James Joyce,Pupetta,Sahil,McDonald's,Le Petit Chinon
+469,Which of the following POIs is closest to POI Crèche Collective located in the Paris area?,C,Basta Cosi,Restaurant H,Les Arcades,Royal Cuisine,Domino's
+470,Which of the following POIs is closest to POI Bowl y roll located in the Paris area?,D,La Calèche,Bodyhit,Photomaton,KeepCool,Résidence du Marais
+471,Which of the following POIs is closest to POI Relais Poste located in the Paris area?,D,Le Bac à Glaces,École primaire,La Cantine des Tontons,Marie Rose,Cocotte
+472,Which of the following POIs is closest to POI Bistrot Beyrouth located in the Paris area?,D,Bistrot de la Gare,Grand Café Bataclan,Pizza Clip,Grounded,Jaulmes
+473,Which of the following POIs is closest to POI Lab86 / Le Petit FabLab de Paris / Ici et Lab located in the Paris area?,B,Pharmacie du Rendez-vous,Le Proscenium,Crédit Mutuel,Nous 4,Centre dentaire Parmentier
+474,Which of the following POIs is closest to POI La Marguerite located in the Paris area?,C,Ze Restoo,Prêtres du Sacré-Cœur de Jésus,Bastille - Biscornet,Salon de Thé de La Mosquée de Paris,Le Repaire
+475,"Which of the following POIs is closest to POI Éléphant Paname, Centre d'Art et de Danse located in the Paris area?",C,Garance,Collège privé Fénelon-Sainte-Marie,Bistro Volney,L'empire Café,L'estaminet Roger
+476,Which of the following POIs is closest to POI Café du Marché located in the Paris area?,A,Tribeca,BNP Paribas,Fontaine Wallace,École Maternelle,Pharmacie Cornillon
+477,Which of the following POIs is closest to POI Rice & Fish located in the Paris area?,B,La Palette,MindOut,Battling Club,Balauff,Louis
+478,Which of the following POIs is closest to POI Pharmacie Haussmann - Laborde located in the Paris area?,E,Espace Brémontiers,Moneytrans,Maison Blanche,Au Bistro,Yookoso
+479,Which of the following POIs is closest to POI Mmmozza..! located in the Paris area?,B,Bistrot Kinzo,Jacques De Molay Fitness,Fontaine Wallace,Yoru,China Town Belleville
+480,Which of the following POIs is closest to POI Itzik located in the Paris area?,B,Webstart,Chez Rafou,Collège Jean-Baptiste Clément,Draft Ateliers,Pizza Jumin
+481,Which of the following POIs is closest to POI Xing Fu Tang located in the Paris area?,A,Tin Tin,Zebra (ancienne agence),Pharmacie Bensoussan,Caisse d'Épargne,ADMS
+482,Which of the following POIs is closest to POI Au Faubourg located in the Paris area?,A,Dawaat,Pharmacie Louvre Victoire,Grand Prieuré - Crussol,Le Bon Bock,Trattoria
+483,Which of the following POIs is closest to POI La Manufacture de café Alain Ducasse located in the Paris area?,A,Mikuna,Kanji,Pizza italienne,L'UTÈS,La Vittoria
+484,Which of the following POIs is closest to POI Le Bercail located in the Paris area?,C,La Brigata,Clinique Vétérinaire,Oberkampf,La Salle à Manger 2.0,Il Seguito
+485,Which of the following POIs is closest to POI UGC Odéon located in the Paris area?,E,"Ramsay santé, pôle de consultations",Big Fernand,Guichet Transilien,Rambuteau,Crédit coopératif
+486,Which of the following POIs is closest to POI Gontran located in the Paris area?,B,Le Sub Pigalle,CMG Sports Club,Hubsy Café & Coworking,Jour et Nuit,Le Marly
+487,Which of the following POIs is closest to POI Nouilles Yaoji located in the Paris area?,A,Kotteri Ramen Naritake,Rosata,Parking Hôtel de Ville,Pharmacie Bove,Porte 12
+488,Which of the following POIs is closest to POI Le Daily Syrien located in the Paris area?,A,Café Müller,Panik Room,Cellar,Zaitoun (Léa Beyrouth),Abuela
+489,Which of the following POIs is closest to POI Dandy's located in the Paris area?,A,Le Pavé,Siam Square,Minato,Le Mareyeur,Titi Palacio
+490,Which of the following POIs is closest to POI Mei Xi located in the Paris area?,C,Saigon Hanoi,Consultation de Gynécologie et Radiothérapie,ADA,Casa Naktel,La Place Royale
+491,Which of the following POIs is closest to POI Mon crème located in the Paris area?,D,Apégo,Onyx,La Rose du Désert,Mama Nissa,Tabac de l'Est
+492,Which of the following POIs is closest to POI Paris Mercœur located in the Paris area?,B,Mala Boom,Ayahuma,La Bonne Tradition,Le Berger,Petit Naka
+493,Which of the following POIs is closest to POI L'Atelier de Joël Robuchon located in the Paris area?,C,Studio Son Médiaphonie,Mini Palais,Bac-Montalembert,CIC,Amorino
+494,Which of the following POIs is closest to POI Amorino located in the Paris area?,B,PNY Oberkampf,Royal Turenne,Les Cariatides,Yoopala,BRED
+495,Which of the following POIs is closest to POI Brasserie Célina located in the Paris area?,E,Institut musical Suzuki de Paris,Lebon,Quai de Béthune - Pont de la Tournelle,Juné,Paris Feuillantines
+496,Which of the following POIs is closest to POI Primavera located in the Paris area?,B,Oxymore,Pharmacie Azur,Pharmacie des simples,Halte garderie,Médiathèque musicale de Paris
+497,Which of the following POIs is closest to POI Banh me tender 2 located in the Paris area?,A,Pharmacie Tomasini Cohen,Bonoful,A l'Endroit,Mami-son,Le Hasard Café
+498,Which of the following POIs is closest to POI BNP Paribas located in the Paris area?,E,Maison d'accueil des familles,Le Five,Orchidée & KHMER THAÏ,Crèche Square Dunois,New Gourmand
+499,Which of the following POIs is closest to POI L'Empire du ravioli - 饺子帝国 located in the Paris area?,C,Le Cristal,BNP Paribas,La Ménagerie,Sun Thé,BurakTravel
+500,Which of the following POIs is closest to POI Minh Chau located in the Paris area?,C,Église de Scientologie,Bistrot Victoires,Brown coffee shop,Rosemonde,SoLo
+501,Which of the following POIs is closest to POI Jaclys located in the Paris area?,A,Royal Donut,Debonair Café,Café marbré,Fauve Paris L'abreuvoir,Lax studio
+502,Which of the following POIs is closest to POI Censier - Santeuil located in the Paris area?,E,Parking Bastille,Crèche Parentale Capucine et Papillon,Hf Music Studio,Polidor,Octant
+503,Which of the following POIs is closest to POI Lim sept located in the Paris area?,B,Place de Rhin et Danube,Aux mandarins de Belleville,Fontaine Wallace -Nathalie Lemel,Bodrum Grill,Location Parking
+504,Which of the following POIs is closest to POI Octopus located in the Paris area?,B,RelaisH café,Terra bar à vins,Bistro des Augustins,Café Drouot,DICE
+505,Which of the following POIs is closest to POI Collège Louise Michel located in the Paris area?,A,Jivamukti Yoga,École Supérieure de Gestion et Commerce International,Hakata Choten,Brasserie Bellanger,Édouard Pailleron - Bouret
+506,Which of the following POIs is closest to POI Gymnase Leopold Bellan located in the Paris area?,A,Le Panier,13 a baker's dozen,Le Perchoir de l'Est,Mian Fan - Crispy taiwanese fried chicke',Onda
+507,Which of the following POIs is closest to POI Okirama located in the Paris area?,B,Suffren - La Motte-Piquet,Docteur Nathalie Autier,Table du prince,Sushi Paradise,Le Mézières
+508,Which of the following POIs is closest to POI Le Bar à Soupes located in the Paris area?,E,Jardin de Roches et de Pivoines,Chez Mimi,Le Café du Marché des Enfants Rouges,Subway,Le Souk
+509,Which of the following POIs is closest to POI Pharmacie de l'Olivier located in the Paris area?,E,Locker Architect Bd Auriol,Méchain - Faubourg Saint-Jacques,Fresh Poke,La Jacobine,De Chez Nous !
+510,Which of the following POIs is closest to POI Zikoumen located in the Paris area?,E,Sejong,Maison Mam,LCL,Méchain - Faubourg Saint-Jacques,Café Montparnasse
+511,Which of the following POIs is closest to POI Centre culturel de l'Ambassade d'Ukraine located in the Paris area?,D,Noura,École des Techniciens Supérieurs - École Européenne,Sur Mesure,naturellement vôtre,Banhmila
+512,Which of the following POIs is closest to POI Le Rouge Limé located in the Paris area?,C,Aux Délices de Gambetta,Marius,So 2 sï,Los Franchutes,Otaku
+513,Which of the following POIs is closest to POI Le Lucernaire located in the Paris area?,A,La Grivoiserie,Salles de sport Guilleminot,Auto-école Glacière,Le Jardin du Roy,Cabinet de Radiologie André Willemin
+514,Which of the following POIs is closest to POI L'Entrecôte located in the Paris area?,E,Ducasse sur Seine,Théâtre Tristan Bernard,Assemblée Nationale,Bap Plus,Marignan - Champs-Elysées
+515,Which of the following POIs is closest to POI Hôh Bai located in the Paris area?,D,Mr S. Motorcycles,Parking Zenpark Daumesnil,École maternelle Planchat K,Sefa Antalya,L'Atelier
+516,Which of the following POIs is closest to POI Urban roast located in the Paris area?,A,SpiceBoard,Grande Pharmacie Mortier,Les Explorateurs de Ménilmontant,Clinique vétérinaire du Pré,Cathay House
+517,Which of the following POIs is closest to POI Café du théâtre located in the Paris area?,A,Le Grand Véfour,Le Bonobo Café,SG,Vieux Garçons,Au Départ
+518,Which of the following POIs is closest to POI Calice located in the Paris area?,A,Centre International de Danse Jazz I.F.P.R.O.,Chez Yanina,Multi-Accueil,Matignon - Faubourg Saint-Honoré,Okinawa
+519,Which of the following POIs is closest to POI Tavola di Gio located in the Paris area?,D,Bonheur d'Asie,Pharmacie de la Sorbonne,Centre d'imagerie médicale Oudinot,Bread Mi,Clinique Vétérinaire
+520,Which of the following POIs is closest to POI Delaville located in the Paris area?,B,Evi Evane,Happy Hour - Escape Game,La Cantine de Sam,Le Landon Café,Le Café Marly
+521,Which of the following POIs is closest to POI Ulm - Louis Thuillier located in the Paris area?,A,hackEns,Théâtre de l'Île Saint-Louis - Paul Rey,Darkoum Cantine Marocaine,Église Adventiste du 7e jour Paris-Sud,Paris | Rue du Four 38
+522,Which of the following POIs is closest to POI Inui located in the Paris area?,C,Place de l'Alma,École Maternelle Bruxelles,Acsia Fusion,Paris 17 Wagram,Kinugawa Vendôme
+523,Which of the following POIs is closest to POI Le Carré Élysée located in the Paris area?,E,Bourdonnais - Tour Eiffel,Carré Pro,Mozza And Co,Little Nona,Parking Zenpark Champs-Elysées - Roosevelt
+524,Which of the following POIs is closest to POI Chez Maurice located in the Paris area?,B,Parking Zenpark Hôpital Necker,École de danse Amana Studio,Tsuru,La Cantine,Clinique Vétérinaire
+525,Which of the following POIs is closest to POI allegria located in the Paris area?,C,MataMata,École maternelle Archives,Montézuma Café,Les Climats,Le Kamer
+526,Which of the following POIs is closest to POI Tao located in the Paris area?,A,Café du Chatelet,Ophtavet,République of Coffee,Sista Place,Tina - Bar à tapas
+527,Which of the following POIs is closest to POI Bon Esprit located in the Paris area?,E,Le Lutétia,BBQ Cadet,Luncha,Médecine esthétique et laser Beaumarchais,Le Parisien Saint-Martin
+528,Which of the following POIs is closest to POI L'atelier des Sœurs located in the Paris area?,E,Minato,École de danse de Paris Cyril Cerveau,La Boîte aux Lettres,Conservatoire,Le café de l'église
+529,Which of the following POIs is closest to POI Kadoya located in the Paris area?,A,Yi Yun,Manicaretti,Parking Hôtel de Ville,ES,Centre Medico-dentaire Pépinière
+530,Which of the following POIs is closest to POI Cosi located in the Paris area?,A,Lucky Bastard,Crêperie Bretonne Fleurie,Chez Trois,Chez Ann,Le Petit Plateau
+531,Which of the following POIs is closest to POI La meusoir located in the Paris area?,A,Deegha,2d,Living school,alessandro,Le Saint-Sauveur
+532,Which of the following POIs is closest to POI Le Café Populaire located in the Paris area?,B,La Fontaine,L'Anecdote,Venezia,La Perla,Tresoro d'Italia
+533,Which of the following POIs is closest to POI La Grande Pharmacie du Chevaleret located in the Paris area?,B,El Picaflor,Anatolie,Rambo,Crèche collective,La Crêperie
+534,Which of the following POIs is closest to POI Vendredi Soir located in the Paris area?,B,L'Embouteillage,Chicken Street,Latino,Au Rendez-vous de la Marine,Scanner Bachaumont Paris Centre
+535,Which of the following POIs is closest to POI Ecole St Martin located in the Paris area?,A,Fit Success,Au Corona,Bichat - Grange aux Belles,Cinnamon,Bistrot
+536,Which of the following POIs is closest to POI Le fournil de Paris located in the Paris area?,C,École élémentaire privée Saint-Germain de Charonne,Paris Dabang,Bozen Voltaire,Poke House,Chez Gudule
+537,Which of the following POIs is closest to POI Aji Dulce located in the Paris area?,A,Mian,Pharmacie Burbot,Navel,Thessalia - Maison Mavrommatis,Cuisine et Dépendances
+538,Which of the following POIs is closest to POI Restaurant de la Cordonnerie located in the Paris area?,C,Thaï Richer,Le Sauvage,Stand Tora,Le 122,Scilicet
+539,Which of the following POIs is closest to POI Le Terminus du Châtelet located in the Paris area?,B,Ti'Cap,Istanbul Grill,Le 27 Madame,Pegast,Jardin Tino Rossi
+540,Which of the following POIs is closest to POI Mâche located in the Paris area?,C,Samantha Snack's,Elià,Vittoria,La P'tite Bascule,Spok
+541,Which of the following POIs is closest to POI Rosso et Nero located in the Paris area?,C,Chez Gaston,Royal Tching Tao,Bistrot Beyrouth,Le Verre à Vin,Le Narval
+542,Which of the following POIs is closest to POI Kémia located in the Paris area?,C,Ovanac,The Butcher of Paris,O Bento,Le Constantinople,Le Chiquito
+543,Which of the following POIs is closest to POI Teddy's Bar located in the Paris area?,D,Le Chai Saint-Germain,Delice House,1.035,Le Mayflower,Foyer de Vie Miryam
+544,Which of the following POIs is closest to POI Le Coq d'Or located in the Paris area?,E,Le pain grillé,Parking Anvers,Booster Loc,Los Franchutes,Soucoupe
+545,Which of the following POIs is closest to POI Restaurant gastronomique du Viet Nam located in the Paris area?,D,Viêt-Nam impressions,Caisse d'Épargne,Crèche Collective,La Traversée de Paris,Les Patios
+546,Which of the following POIs is closest to POI Good News located in the Paris area?,D,Saigon Vietnam,Rosa Bonheur,Parigi Cafe,Crédit Mutuel,Faubourg Poissonniere - Delta
+547,Which of the following POIs is closest to POI Crédit Mutuel located in the Paris area?,B,Fontaine Wallace,Change Master,Le petit Varenne,Planet Sushi Paris - Madeleine,Brigade du Tigre
+548,Which of the following POIs is closest to POI Kouchi Yaki located in the Paris area?,D,Granges aux Belles - Hôpital Saint-Louis,Basic-Fit,Le Soleil,Le Petit Harajuku,Le Petit Marché
+549,Which of the following POIs is closest to POI Starbucks located in the Paris area?,E,Bambini,Marché Biologique des Batignolles,SG,Toilettes des Tuileries,Il Caffè
+550,Which of the following POIs is closest to POI Big Food located in the Paris area?,C,Kafkaf,Bises nouilles,Soul Coffee,Centre de protection infantile Don Bosco,Caisse d'Épargne
+551,Which of the following POIs is closest to POI Arcole - Notre-Dame located in the Paris area?,E,Halte Garderie,Place Valhubert,Le Lutecia,Café Ruc,Change Master
+552,Which of the following POIs is closest to POI La Cucina located in the Paris area?,C,HaTaYa,Salle de Combat,Babilou,Gymnase Saint-Lambert,Le petit Varenne
+553,Which of the following POIs is closest to POI ase de la Grange aux Belles located in the Paris area?,B,Traiteur Cheng Da,Bassin-école Grange-aux-Belles,Saveurs des Antilles Ménilmontant,Café de l'Arc,Hôtel du Parc
+554,Which of the following POIs is closest to POI Eclats de surya located in the Paris area?,D,La cabane,Tournelle,Salon de thé,Comptoir Club,Istanbul
+555,Which of the following POIs is closest to POI Bao bao Land located in the Paris area?,C,Label Ferme,Le Petit Marché,mademoiselle m,Granges aux Belles - Hôpital Saint-Louis,Bibliothèque Mazarine
+556,Which of the following POIs is closest to POI Café Montparnasse located in the Paris area?,D,Méchain - Faubourg Saint-Jacques,L'escapade,Speed Piano,La Marine,Soupe Populaire
+557,Which of the following POIs is closest to POI Le Nul Bar Ailleurs located in the Paris area?,E,Bibliothèque des Amis de l'instruction,Photomaton,Le Janissaire,Le Soleil Levant,La Goudale
+558,Which of the following POIs is closest to POI naturellement vôtre located in the Paris area?,C,École des Techniciens Supérieurs - École Européenne,Chicken Street,Pharmacie La Bienfaisance,Pharmacie Anglo-Américaine,Sur Mesure
+559,Which of the following POIs is closest to POI Nuru spa located in the Paris area?,E,Eau potable,Le Chantereine,EAP PrépaSeine - InfoSeine,Payenne - Square George Caïn,Le cercle
+560,Which of the following POIs is closest to POI Le Martel located in the Paris area?,D,Lactem,KFC,Le Brazza,Chez Madame Gen,Café de la Banque

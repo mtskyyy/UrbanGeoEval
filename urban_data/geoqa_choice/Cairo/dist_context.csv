@@ -1,0 +1,1417 @@
+,A,B,answer,C,D,question
+0,17.28,12.01,B,15.98,17.81,"What is the straight-line distance between the following two locations? (Unit is km)
+1. كلية التجارة. Detailed address: طريق النصر, منطقه السينما, مدينة نصر, القاهرة, 11759, مصر
+2. بنك الاتحاد الوطني. Detailed address: شارع محى الدين أبو العز, المهندسين, الجيزة, 12615, مصر"
+1,14.11,8.96,B,11.69,3.56,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bennu. Detailed address: شارع محمد عز العرب, الانشا والمنيره, السيدة زينب, القاهرة, 11241, مصر
+2. Charming Clinic. Detailed address: 69, شارع 9, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر"
+2,18.22,12.04,B,5.55,13.63,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bank ABC. Detailed address: شارع لومومبا, Heliopolis, مصر الجديدة, القاهرة, 11736, مصر
+2. Abu Auf. Detailed address: شارع كارفور, المعادي الجديدة, القاهرة, 11571, مصر"
+3,3.93,1.73,B,4.13,4.0,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Samia Alouba. Detailed address: Lychee, شارع 254, مساكن نيركو, الفاروقية, القاهرة, 11431, مصر
+2. مسجد الرحمن. Detailed address: 89, شارع 9, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر"
+4,15.9,19.01,A,21.93,10.58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. منفذ بيع منتجات القوات المسلحة. Detailed address: طريق كفر طهرمس, كفر طهرمس, الجيزة, 12623, مصر
+2. الشركة المصرية للألبان. Detailed address: شارع علي غيطه, القفاصين, الزيتون, القاهرة, 11725, مصر"
+5,15.31,5.67,D,7.42,11.82,"What is the straight-line distance between the following two locations? (Unit is km)
+1. جمعية دار الهنا لرعاية الأيتام. Detailed address: شارع 2, عين الصيرة, القاهرة, 11654, مصر
+2. كلاسيك روك. Detailed address: شارع نهرو, Heliopolis, الزيتون, القاهرة, 11734, مصر"
+6,8.12,9.08,D,4.01,10.64,"What is the straight-line distance between the following two locations? (Unit is km)
+1. بيت محمد عبد الفتاح محسن بدوي. Detailed address: 54, شارع الثوره, Heliopolis, القاهرة, 11736, مصر
+2. Vent. Detailed address: 4, شارع قصر النيل, الإسماعيلية, باب اللوق, القاهرة, 11519, مصر"
+7,1.4,14.38,D,6.77,8.44,"What is the straight-line distance between the following two locations? (Unit is km)
+1. محمد بحبح لتصنيع صواني الافران. Detailed address: حارة البرقوقيه, الشعرانى, القاهرة الإسلامية, القاهرة, 11261, مصر
+2. Boon. Detailed address: شارع كورنيش النيل, طره الاسمنت, المعادى, طرة, القاهرة, 11917, مصر"
+8,14.62,9.37,C,12.67,10.11,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد الرياض. Detailed address: 9, شارع صبحي حسين, الصعيد, القاهرة, 11585, مصر
+2. مسجد الصحابة. Detailed address: شارع ميدان مسجد الصحابه, بين السرايات, الجيزة, 12615, مصر"
+9,11.71,1.76,D,11.11,5.8,"What is the straight-line distance between the following two locations? (Unit is km)
+1. جامع السويدي. Detailed address: شارع القبوه, الكفور وساعي البحر, مصر القديمة, خرطة الشيخ مبارك, القاهرة, 11632, مصر
+2. رواد تصحيح الإبصار. Detailed address: شارع سوريا, المهندسين, القاهرة, الجيزة, 13211, مصر"
+10,17.26,6.0,C,10.26,5.31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Crafted Home كرافتيد هوم. Detailed address: 26, شارع عدلي, الفواله, عابدين, القاهرة, 11518, مصر
+2. مكتبة مدينة نصر العامة. Detailed address: شارع احمد فخري, عمارات أطلس, Sixth Area, مدينة نصر, القاهرة, 11391, مصر"
+11,11.27,19.17,A,13.31,8.84,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sugar Rush. Detailed address: ميدان عمان, بين السرايات, الجيزة, 12615, مصر
+2. Garnell Sushi & Poke. Detailed address: شارع مصطفى كامل, الفاروقية, القاهرة, 11431, مصر"
+12,9.58,14.8,A,12.4,15.55,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد الأمير شيخون العمرى المملوكى. Detailed address: 14, شارع شيخون, الحلميه, السيدة زينب, القاهرة, 11655, مصر
+2. مطعم أبو بكري السوري. Detailed address: شارع مكرم عبيد, Sixth Area, مدينة نصر, القاهرة, 11391, مصر"
+13,11.84,18.13,A,4.01,10.37,"What is the straight-line distance between the following two locations? (Unit is km)
+1. نقابة المهندسين المصرية. Detailed address: 28`, شارع رمسيس, عرابى التوفقية, الظاهر, القاهرة, 11574, مصر
+2. المدرسة الفرنسية. Detailed address: شارع 14, معادي الخبيري, الفاروقية, القاهرة, 11431, مصر"
+14,5.79,5.15,C,10.85,2.85,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مركز شباب منشية التحرير. Detailed address: شارع 4, حلميه النعام, حدائق الزيتون, القاهرة, 18511, مصر
+2. omkalsoum cafe. Detailed address: 2, شارع سرايا الازبكيه, عرابى التوفقية, الأزبكية, القاهرة, 11574, مصر"
+15,11.22,9.81,D,21.36,15.19,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gold's Gym. Detailed address: شارع دمشق, ميت عقبة, الجيزة, 13211, مصر
+2. دار الأرقم. Detailed address: 95, شارع الشيخ احمد الصاوي, Sixth Area, مدينة نصر, القاهرة, 11765, مصر"
+16,19.49,19.45,D,12.68,16.88,"What is the straight-line distance between the following two locations? (Unit is km)
+1. تكنو سكان. Detailed address: شارع رشيد, Heliopolis, مصر الجديدة, القاهرة, 11757, مصر
+2. Ebn El Shekh. Detailed address: شارع فاطمة رشدى, الجيزة, 12551, مصر"
+17,11.97,10.22,C,13.28,18.25,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مجمع التحرير. Detailed address: 15, شارع مجمع التحرير, قصر الدوباره, باب اللوق, القاهرة, 11519, مصر
+2. سيتي سنتر ألماظة. Detailed address: طريق النصر, القاهرة, 11834, مصر"
+18,13.18,16.7,A,14.26,19.77,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مستشفى الكبد د يس عبد الغفار الخيرية. Detailed address: شارع لوساكا, Sixth Area, مدينة نصر, القاهرة, 11391, مصر
+2. Dark Solutions. Detailed address: امتداد شارع 218, مساكن نيركو, الفاروقية, القاهرة, 11431, مصر"
+19,6.22,12.02,B,6.07,16.72,"What is the straight-line distance between the following two locations? (Unit is km)
+1. محكمة القاهرة الاقتصادية. Detailed address: شارع حمدي رمضان المصري, المعادي الجديدة, القاهرة, 11742, مصر
+2. المدرسه الفنيه لمياه الشرب والصرف الصحى. Detailed address: شارع المشتل, بولاق الدكرور, نزلة بهجت, الجيزة, 12621, مصر"
+20,17.14,9.28,B,5.81,5.05,"What is the straight-line distance between the following two locations? (Unit is km)
+1. الجحش. Detailed address: شارع عبد المجيد اللبان, الكبش, السيدة زينب, القاهرة, 11622, مصر
+2. الدكتور وائل نجار. Detailed address: شارع المسطحات, زهراء المعادي منطقه 1, القاهرة, 00007, مصر"
+21,16.27,8.09,D,4.75,10.49,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجدظ الصيرفى. Detailed address: 7, شارع قرة بن شريك, الجيزة, 12513, مصر
+2. صيدلية. Detailed address: شارع علي حسن, مساكن الزاويه الحمراء, القاهرة, 11659, مصر"
+22,14.54,18.71,A,10.25,6.61,"What is the straight-line distance between the following two locations? (Unit is km)
+1. قسم شرطه بولاق الدكرور. Detailed address: شارع ترعه الزمر, ابو قتاده و نوفل, بين السرايات, الجيزة, 12624, مصر
+2. مقبرة الوفاء و الأمل. Detailed address: مدينة نصر, القاهرة, 11762, مصر"
+23,12.92,17.89,C,11.09,8.75,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مدرسة النصر. Detailed address: شارع هارون الرشيد, مصر الجديدة, القاهرة, 11757, مصر
+2. مسجد الأمير شيخون العمرى المملوكى. Detailed address: 14, شارع شيخون, الحلميه, السيدة زينب, القاهرة, 11655, مصر"
+24,10.26,5.01,C,3.24,5.31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ebn El Shekh. Detailed address: شارع فاطمة رشدى, الجيزة, 12551, مصر
+2. مسجد الايمان. Detailed address: 10, شارع المنيل, الروضه والمقياس, مصر القديمة, خرطة الشيخ مبارك, القاهرة, 11553, مصر"
+25,6.2,2.66,B,7.27,4.52,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد التوحيد. Detailed address: شارع صلاح سالم, الجيزة, 12517, مصر
+2. لارين. Detailed address: شارع عبد العزيز آل سعود, المنيل الغربي, المنيل, القاهرة, 11555, مصر"
+26,7.74,5.3,D,4.83,2.7,"What is the straight-line distance between the following two locations? (Unit is km)
+1. le Chateau; le Chalet - Swiss Restaurant. Detailed address: شارع النيل, الدقى, الجيزة, 12612, مصر
+2. الشركة الدولية للخدمات البريدية ايجى سيرف الفرع الرئيسى. Detailed address: شارع جول جمال, العجوزة, الجيزة, 12411, مصر"
+27,10.34,10.32,C,5.11,3.79,"What is the straight-line distance between the following two locations? (Unit is km)
+1. بنك عودة. Detailed address: شارع دمشق, Heliopolis, مصر الجديدة, القاهرة, 11737, مصر
+2. عياده اسنان د. محمد طلعت. Detailed address: 8, شارع نور الدين بهجت, Eigth Area, مدينة نصر, القاهرة, 11762, مصر"
+28,7.52,5.21,A,3.02,12.63,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مستشفى القوات الجوية. Detailed address: شارع احمد سعيد, العباسيه الشرقيه, الوايلى, القاهرة, 11551, مصر
+2. موبيل. Detailed address: شارع الحجاز, Heliopolis, مصر الجديدة, القاهرة, 11757, مصر"
+29,0.81,3.22,A,2.61,8.15,"What is the straight-line distance between the following two locations? (Unit is km)
+1. معهد الفنون التطبيقية - جامعة حلوان. Detailed address: شارع احمد زويل, بين السرايات, الجيزة, 12624, مصر
+2. dům. Detailed address: ملاعب السعيدية, شارع جامعه القاهره, بين السرايات, الجيزة, 12541, مصر"
+30,6.22,8.19,B,14.24,11.29,"What is the straight-line distance between the following two locations? (Unit is km)
+1. FullMoon Studios. Detailed address: 17, شارع عز الدين طه, Al Manteqah Al Oula, مدينة نصر, القاهرة, 11371, مصر
+2. مستشفى عين الحياة. Detailed address: 16, شارع النصر, القاهرة, 11843, مصر"
+31,0.56,9.17,D,0.51,3.2,"What is the straight-line distance between the following two locations? (Unit is km)
+1. KFC. Detailed address: منطقة 2, مساكن مصر للتعمير, Sheraton, القاهرة, 11351, مصر
+2. Monoplay. Detailed address: شارع ابو بكر الصديق, مصر الجديدة, القاهرة, 11361, مصر"
+32,3.1,1.25,D,11.56,8.0,"What is the straight-line distance between the following two locations? (Unit is km)
+1. East Degla Pharmacy. Detailed address: شارع 231, مساكن نيركو, الفاروقية, القاهرة, 11431, مصر
+2. مدرسة الحسينية. Detailed address: شارع محمد عبد النبي, الجيزة, 12551, مصر"
+33,12.59,5.06,D,14.6,8.24,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Wataneya. Detailed address: شارع احمد عرابى, ميت عقبة, الجيزة, 12658, مصر
+2. Virginian. Detailed address: شارع كورنيش الاهرام, المقطم, القاهرة, 11575, مصر"
+34,2.43,9.87,A,4.83,1.15,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Virgin Mary Church. Detailed address: شارع الانصار, بين السرايات, الجيزة, 12624, مصر
+2. مطعم اليمن السعيد. Detailed address: شارع السرايا, المنيل الغربي, المنيل, القاهرة, 11451, مصر"
+35,17.29,10.45,D,13.58,12.48,"What is the straight-line distance between the following two locations? (Unit is km)
+1. عمارات البترول. Detailed address: شارع الانشراح الكبير, ميت عقبة, الجيزة, 12658, مصر
+2. ام النور. Detailed address: 26, شارع شمس الدين الذهبي, El Golf, مدينة نصر, القاهرة, 11765, مصر"
+36,19.9,13.91,B,19.42,19.1,"What is the straight-line distance between the following two locations? (Unit is km)
+1. شيخ العرب. Detailed address: شارع حسين واصف باشا, الدقى, الجيزة, 12612, مصر
+2. Andiamo. Detailed address: شارع عمر بن الخطاب, Heliopolis, مصر الجديدة, القاهرة, 11736, مصر"
+37,20.22,23.05,A,17.23,18.36,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jared's Bagels. Detailed address: شارع 233, مساكن نيركو, الفاروقية, القاهرة, 11431, مصر
+2. secuoya. Detailed address: الطريق الدائري, قريه جزيره وراق الحضر, طناش, الجيزة, 12981, مصر"
+38,2.09,10.09,B,6.85,6.83,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bayan. Detailed address: شارع الدكتور محمود فتحي, Ninth Area, مدينة نصر, القاهرة, 11762, مصر
+2. مدرسة عمار بن ياسر. Detailed address: شارع المسله, عرب الحصن, عين شمس, القاهرة, 11758, مصر"
+39,1.08,3.78,B,1.28,7.99,"What is the straight-line distance between the following two locations? (Unit is km)
+1. معهد بحوث امراض الرمد. Detailed address: شارع الاهرام, الجيزة, 12513, مصر
+2. Juice. Detailed address: شارع التحرير, باب اللوق, باب اللوق, القاهرة, 11513, مصر"
+40,11.58,18.54,A,14.6,16.48,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al-Hussein. Detailed address: شارع محمود متولى, المعادي الجديدة, القاهرة, 00007, مصر
+2. شيخ العرب. Detailed address: شارع حسين واصف باشا, الدقى, الجيزة, 12612, مصر"
+41,12.11,13.16,B,16.83,10.11,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Farouk Mosque. Detailed address: طريق 64, Sheraton, القاهرة, 11351, مصر
+2. مريداني. Detailed address: 28, شارع سكه المرداني, المغربلين, الدرب الأحمر, القاهرة, 11639, مصر"
+42,10.62,6.68,D,6.44,3.03,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد الحاجة رقية. Detailed address: 4, شارع محمد صدقي الشافعي, المنيل الشرقي, مصر القديمة, القاهرة, 11553, مصر
+2. مرور الشرطة العسكرية. Detailed address: شارع جمال الدين الافغانى, الجيزة, 12551, مصر"
+43,3.91,9.1,D,2.77,5.64,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مصرف ابو ظبى الاسلامى. Detailed address: شارع الحجاز, Heliopolis, مصر الجديدة, القاهرة, 11757, مصر
+2. نادى إتحاد المهن الطبية. Detailed address: شارع ابو بكر الصديق, عمارات الشروق, مدينة نصر, القاهرة, 18711, مصر"
+44,9.02,6.91,A,16.15,3.83,"What is the straight-line distance between the following two locations? (Unit is km)
+1. كلية العلوم. Detailed address: طريق النصر, ثان مدينة نصر, القاهرة, 11759, مصر
+2. التقوى. Detailed address: شارع عز الدين محمد عطيه, القاهرة, 11351, مصر"
+45,15.07,15.66,D,9.64,8.19,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مكتب بريد طناش. Detailed address: شارع البريد, طناش, الجيزة, 12981, مصر
+2. School STJ. Detailed address: شارع محمد كمال عمران, المهندسين, الجيزة, 13211, مصر"
+46,11.57,2.51,D,3.64,6.31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Amr Streer Breakfast. Detailed address: 46, شارع الفلكي, باب اللوق, عابدين, القاهرة, 11513, مصر
+2. مسجد المصطفى. Detailed address: شارع الحاج صابر موسي, ساقية مكي, الجيزة, 12517, مصر"
+47,11.46,15.58,D,16.8,10.02,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sno Gelato. Detailed address: شارع 216, مساكن نيركو, الفاروقية, القاهرة, 11431, مصر
+2. بنك ابو ظبى. Detailed address: شارع طلعت حرب, باب اللوق, باب اللوق, القاهرة, 11956, مصر"
+48,7.83,3.85,D,12.37,10.51,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kibeida Academy. Detailed address: 35, شارع كابول, Sixth Area, مدينة نصر, القاهرة, 11391, مصر
+2. كافتريا المنيرة. Detailed address: شارع نوبار, خيرت, السيدة زينب, القاهرة, 11617, مصر"
+49,24.04,18.91,B,11.86,11.64,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Angelica Desert Bar. Detailed address: شارع 9, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر
+2. مسجد الريس. Detailed address: شارع ترعه الهواري, مسطرد, شبرا الخيمة, القليوبية, 11871, مصر"
+50,11.8,5.34,C,3.97,7.78,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مبنى نادي الكلية. Detailed address: 12, شارع جامعه القاهره, بين السرايات, الجيزة, 12541, مصر
+2. دار القضاء العالى. Detailed address: شارع شمبليون, معروف, الأزبكية, القاهرة, 11956, مصر"
+51,8.82,2.71,C,1.69,5.72,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مدرسة جمال عبد الناصر التجريبية. Detailed address: 118, شارع محمد فريد ابو حديد, Seventh Area, منطقة 7, مدينة نصر, القاهرة, 11765, مصر
+2. مدينة نصر الثانوية الصناعية. Detailed address: شارع جابر بن حيان, Al Manteqah Al Oula, مدينة نصر, القاهرة, 11765, مصر"
+52,12.74,12.6,C,11.56,5.12,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مجلس الشعب. Detailed address: 19, شارع مصطفى باشا كامل, السباعين, باب اللوق, القاهرة, 11617, مصر
+2. دار الزهروان. Detailed address: 4, شارع الشهيد اسماعيل فهمي, Heliopolis, مصر الجديدة, القاهرة, 11736, مصر"
+53,12.83,2.95,D,2.2,5.2,"What is the straight-line distance between the following two locations? (Unit is km)
+1. نادى المقاولون العرب الرياضى. Detailed address: حارة ابو ادهم, ثان مدينة نصر, القاهرة, 11684, مصر
+2. سيركل كي. Detailed address: شارع احمد سمير الصاوي, الزيتون, القاهرة, 11321, مصر"
+54,1.44,7.8,A,6.39,7.2,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Peak A Boo. Detailed address: شارع 213, الفاروقية, القاهرة, 11431, مصر
+2. الجامعة الدولية الإلكترونية. Detailed address: شارع 278, المعادي الجديدة, القاهرة, 11634, مصر"
+55,19.41,11.15,C,13.19,17.89,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد المقياس. Detailed address: شارع كورنيش النيل, الخوخه والقنايه, مصر القديمة, خرطة الشيخ مبارك, القاهرة, 11632, مصر
+2. بينوس كافيه. Detailed address: شارع الدكتور حسان ابراهيم, Sixth Area, مدينة نصر, القاهرة, 11391, مصر"
+56,8.66,7.55,C,13.64,6.44,"What is the straight-line distance between the following two locations? (Unit is km)
+1. قهوه فى المعادى جنب عادل. Detailed address: شارع 108, معادي الخبيري, القاهرة, 11728, مصر
+2. حواوشي الربيع. Detailed address: شارع محمد الامبابى, إمبابة, الجيزة, 12652, مصر"
+57,6.99,14.32,A,4.07,2.79,"What is the straight-line distance between the following two locations? (Unit is km)
+1. بنك مصر. Detailed address: شارع اسامه أبو عميره, الجيزة, 12111, مصر
+2. Tasha. Detailed address: شارع محمد عز العرب, الانشا والمنيره, السيدة زينب, القاهرة, 11241, مصر"
+58,11.46,3.96,A,12.88,5.1,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مدرسة سراى القبة الاعدادية بنات. Detailed address: 6, شارع احمد سمير الصاوي, الزيتون, القاهرة, 11734, مصر
+2. مسرح نجم. Detailed address: شارع الدقى, الدقى, الجيزة, 12611, مصر"
+59,1.05,7.85,A,6.59,4.24,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sednawy Building. Detailed address: 17, شارع قصر النيل, باب اللوق, عابدين, القاهرة, 11513, مصر
+2. نقابة التجاريين بالقاهرة. Detailed address: 30, شارع رمسيس, عرابى التوفقية, الظاهر, القاهرة, 11574, مصر"
+60,21.04,13.06,B,7.85,5.32,"What is the straight-line distance between the following two locations? (Unit is km)
+1. محطة بنزين. Detailed address: شارع احمد الزمر, مدينة نصر, القاهرة, 11762, مصر
+2. Miette French Bakery. Detailed address: شارع 209, الفاروقية, القاهرة, 11431, مصر"
+61,6.78,1.23,A,1.96,13.39,"What is the straight-line distance between the following two locations? (Unit is km)
+1. دير القديس سمعان الخراز. Detailed address: شارع الدير, الخزان, منشية ناصر, القاهرة, 11699, مصر
+2. نور. Detailed address: 20R, شارع الدكتور انور المفتي, Al Manteqah Al Oula, مدينة نصر, القاهرة, 11765, مصر"
+62,6.74,2.15,C,0.76,2.3,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pharoah Egypt Hotel. Detailed address: شارع عمر طوسون, ميت عقبة, الجيزة, 12658, مصر
+2. Joint Arab Investment Corporation - JAICORP. Detailed address: قهوة المملكة, 30, شارع جامعه الدول العربيه, المهندسين, الجيزة, 12654, مصر"
+63,7.97,7.95,D,12.65,9.82,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Elsonny. Detailed address: شارع منصور, الدواوين, باب اللوق, القاهرة, 11513, مصر
+2. حسن حسين أحمد. Detailed address: 69, شارع 9, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر"
+64,8.42,3.98,B,2.34,8.14,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد الكردي. Detailed address: شارع على بن ابى طالب, الجيزة, 12519, مصر
+2. مستشفى الرماد. Detailed address: شارع الاهرام, الجيزة, 12513, مصر"
+65,20.74,20.77,D,12.29,14.53,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ibrahim Al Saqary Street. Detailed address: 8, شارع ابراهيم السقارى, بولاق الدكرور, نزلة بهجت, الجيزة, 12621, مصر
+2. Al-Khalifa Al-Maamoun Secondary School. Detailed address: 10`, شارع احمد سمير الصاوي, الزيتون, القاهرة, 11734, مصر"
+66,9.42,7.65,A,3.19,16.24,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tasha. Detailed address: شارع محمد عز العرب, الانشا والمنيره, السيدة زينب, القاهرة, 11241, مصر
+2. Crédit Agricole. Detailed address: شارع مصطفى كامل, الفاروقية, القاهرة, 11431, مصر"
+67,13.04,11.78,B,10.63,9.99,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mobtadian secondary Experimental Language School. Detailed address: 4, شارع نوبار, خيرت, السيدة زينب, القاهرة, 11617, مصر
+2. حى مصر الجديدة. Detailed address: شارع احمد على حسين, مصر الجديدة, القاهرة, 11757, مصر"
+68,21.01,8.32,C,14.42,12.21,"What is the straight-line distance between the following two locations? (Unit is km)
+1. البنك الاهلي المصري. Detailed address: شارع محمد حسين هيكل, Sixth Area, مدينة نصر, القاهرة, 11765, مصر
+2. Talibia Police Station قسم شرطة الطالبيه. Detailed address: شارع الاهرام, الجيزة, 12510, مصر"
+69,9.81,3.82,C,11.37,8.86,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ريجوليتو. Detailed address: 17, شارع 233, مساكن نيركو, الفاروقية, القاهرة, 11728, مصر
+2. مكتب بريد الدقى. Detailed address: شارع نادي الصيد, اولاد علام, الدقى, الجيزة, 12311, مصر"
+70,10.78,15.77,A,17.17,8.23,"What is the straight-line distance between the following two locations? (Unit is km)
+1. لارين. Detailed address: شارع عبد العزيز آل سعود, المنيل الغربي, المنيل, القاهرة, 11555, مصر
+2. صيدلية فاتن. Detailed address: 86, شارع فؤاد عبد الحكيم الجمال, منطقه السينما, مدينة نصر, القاهرة, 11759, مصر"
+71,13.27,7.55,A,15.45,20.1,"What is the straight-line distance between the following two locations? (Unit is km)
+1. حواوشي الربيع. Detailed address: شارع محمد الامبابى, إمبابة, الجيزة, 12652, مصر
+2. د. ملك نادر. Detailed address: شارع مصطفي النحاس, مدينة نصر, القاهرة, 11762, مصر"
+72,2.55,8.13,C,4.86,7.51,"What is the straight-line distance between the following two locations? (Unit is km)
+1. كلية طب الأسنان. Detailed address: طريق النصر, منطقه السينما, مدينة نصر, القاهرة, 11759, مصر
+2. Church of Christ كنيسة المسيح. Detailed address: شارع غينيا, Heliopolis, مصر الجديدة, القاهرة, 11737, مصر"
+73,12.26,9.32,C,5.37,8.12,"What is the straight-line distance between the following two locations? (Unit is km)
+1. المدرسه الفنيه لمياه الشرب والصرف الصحى. Detailed address: شارع المشتل, بولاق الدكرور, نزلة بهجت, الجيزة, 12621, مصر
+2. حديقة الحوض المرصود. Detailed address: 18, شارع محمد ابو الدهب, درب الجماميز, السيدة زينب, القاهرة, 11622, مصر"
+74,18.2,12.13,B,9.1,6.32,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al-Isaaf. Detailed address: شارع الخليفه المأمون الجانبي, Heliopolis, كوبري القبة, القاهرة, 11774, مصر
+2. Al-Hussein. Detailed address: شارع محمود متولى, المعادي الجديدة, القاهرة, 00007, مصر"
+75,10.46,10.98,D,13.92,12.67,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Car's ferry. Detailed address: شارع كورنيش النيل, القاهرة, 11745, مصر
+2. برج زمزم. Detailed address: 16`, شارع منشيه الصدر, منشية الصدر, حدائق القبة, القاهرة, 11663, مصر"
+76,5.74,6.43,C,3.94,11.0,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Indonesian Cultural Centre. Detailed address: 63, شارع مصدق, الدقى, الجيزة, 12615, مصر
+2. Cairo War Memorial Cemetery-مقابر هليوبوليس العسكريه. Detailed address: شارع جبانه مسلمه, الانور وعشش البارود, المنيل, القاهرة, 11554, مصر"
+77,14.59,19.85,A,8.66,20.25,"What is the straight-line distance between the following two locations? (Unit is km)
+1. VIKING. Detailed address: شارع عمر بن الخطاب, Heliopolis, مصر الجديدة, القاهرة, 11736, مصر
+2. Peking. Detailed address: شارع الاطباء, المهندسين, الجيزة, 12615, مصر"
+78,9.27,7.19,D,1.28,3.1,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد الرحمن. Detailed address: 89, شارع 9, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر
+2. Har. Detailed address: شارع النصر, مساكن عرايس, المعادي الجديدة, القاهرة, 11742, مصر"
+79,19.7,13.36,B,19.06,20.94,"What is the straight-line distance between the following two locations? (Unit is km)
+1. عيادات سيمويا الايطالية للتجميل SIMOE Italian Beauty Clinics. Detailed address: 6, شارع النزهه, عمارات السعودية, مساكن المهندسين, مدينة نصر, القاهرة, 11765, مصر
+2. مسجد المقياس. Detailed address: شارع كورنيش النيل, الخوخه والقنايه, مصر القديمة, خرطة الشيخ مبارك, القاهرة, 11632, مصر"
+80,2.95,8.11,B,2.5,12.41,"What is the straight-line distance between the following two locations? (Unit is km)
+1. وزارة الداخلية. Detailed address: شارع الشيخ ريحان, الجزيره الجديده, باب اللوق, القاهرة, 11613, مصر
+2. تريومف. Detailed address: شارع احسان عبد القدوس, Heliopolis, منشية البكرى, الدمرداش, القاهرة, 11811, مصر"
+81,24.41,16.02,D,15.03,20.26,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tanash B-Tech Park. Detailed address: شارع كورنيش النيل, سقيل, الجيزة, 12992, مصر
+2. SYE English Community. Detailed address: شارع السد العالي, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر"
+82,7.73,3.17,B,9.07,5.06,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Café Al Bustan. Detailed address: ممر البستان السعيدي, باب اللوق, باب اللوق, القاهرة, 11513, مصر
+2. الوليمة. Detailed address: شارع التحرير, الدقى, الجيزة, 12311, مصر"
+83,11.06,5.54,A,14.9,5.77,"What is the straight-line distance between the following two locations? (Unit is km)
+1. سوق الخليفة. Detailed address: درب المسرور, مشروع اعادة بناء منطقة زينهم, المرحله 2, الصليبه, السيدة زينب, القاهرة, 11636, مصر
+2. Bayan. Detailed address: شارع الدكتور محمود فتحي, Ninth Area, مدينة نصر, القاهرة, 11762, مصر"
+84,6.04,6.79,D,5.95,3.66,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Burger King. Detailed address: الطريق الدائري, المعادي الجديدة, القاهرة, 11742, مصر
+2. Option Travel. Detailed address: 12, شارع 278, المعادي الجديدة, القاهرة, 11742, مصر"
+85,9.55,20.49,D,16.43,12.9,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Le Delice Cafe. Detailed address: شارع كورنيش النيل, سوق العصر, السبتية, القاهرة, 11221, مصر
+2. Barista. Detailed address: 24, شارع 9, الفاروقية, القاهرة, 11728, مصر"
+86,8.3,9.21,C,15.12,19.3,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Ahli Bank of Kuwait. Detailed address: 68, شارع 9, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر
+2. Al-Isaaf. Detailed address: شارع الخليفه المأمون الجانبي, Heliopolis, كوبري القبة, القاهرة, 11774, مصر"
+87,5.19,9.78,A,7.89,3.41,"What is the straight-line distance between the following two locations? (Unit is km)
+1. سينما طيبة مول. Detailed address: 75, طريق النصر, منطقه السينما, مدينة نصر, القاهرة, 11765, مصر
+2. وطنية. Detailed address: محور الشهيد, مدينة نصر, القاهرة, 11585, مصر"
+88,10.58,6.31,B,3.69,0.83,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مار يوسف. Detailed address: شارع كنيسه الموازنه, الكفور وساعي البحر, مصر القديمة, خرطة الشيخ مبارك, القاهرة, 11632, مصر
+2. محمد ابوزهره. Detailed address: شارع عمر طوسون, ميت عقبة, الجيزة, 12658, مصر"
+89,5.32,2.3,D,12.21,7.22,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مستشفى النيل بدراوى. Detailed address: شارع المشتل, القاهرة, 11745, مصر
+2. المتحف المصري. Detailed address: شارع مريت باشا, الإسماعيلية, باب اللوق, القاهرة, 11556, مصر"
+90,8.23,15.31,B,10.26,13.6,"What is the straight-line distance between the following two locations? (Unit is km)
+1. كنتاكي. Detailed address: شارع الخليفه المأمون الجانبي, Heliopolis, كوبري القبة, القاهرة, 11774, مصر
+2. مدرسة الكرنك الخاصة. Detailed address: شارع الكرنك, كفر طهرمس, الجيزة, 12623, مصر"
+91,24.76,21.05,D,20.86,18.36,"What is the straight-line distance between the following two locations? (Unit is km)
+1. موبيل. Detailed address: شارع الحجاز, Heliopolis, مصر الجديدة, القاهرة, 11757, مصر
+2. Nice Cream. Detailed address: شارع 9, الفاروقية, القاهرة, 11431, مصر"
+92,12.21,12.33,C,10.17,17.63,"What is the straight-line distance between the following two locations? (Unit is km)
+1. كشري أبو طارق. Detailed address: 40, شارع شمبليون, معروف, الأزبكية, القاهرة, 11956, مصر
+2. Maadi Hotel. Detailed address: 19, طريق مصر حلوان الزراعي, معادي الخبيري, القاهرة, 11728, مصر"
+93,8.84,6.61,A,7.03,4.4,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ماكدونالد. Detailed address: شارع محمود حافظ, مصر الجديدة, القاهرة, 11757, مصر
+2. Al Lord Cafe. Detailed address: شارع الطابيه, باب الفتوح, الجمالية, القاهرة, 11681, مصر"
+94,15.83,14.98,C,10.02,8.26,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مودرن هندسة. Detailed address: Modern Academy Engineering, شارع احمد صلاح, الحى 5, القاهرة, 11571, مصر
+2. Heritage Hostel. Detailed address: 13A, شارع مريت باشا, الإسماعيلية, باب اللوق, القاهرة, 11519, مصر"
+95,8.16,11.22,A,3.94,3.85,"What is the straight-line distance between the following two locations? (Unit is km)
+1. LFC. Detailed address: Lycée Français du Caire , Merag Branch, شارع الاسراء, المعادي الجديدة, القاهرة, 00007, مصر
+2. مسجد الرحمة. Detailed address: شارع علي امين, مدينة نصر, القاهرة, 11765, مصر"
+96,12.19,8.17,B,15.55,15.79,"What is the straight-line distance between the following two locations? (Unit is km)
+1. كلية الصيدلة. Detailed address: طريق النصر, منطقه السينما, مدينة نصر, القاهرة, 11759, مصر
+2. Domino's. Detailed address: 12`, شارع الدكتور احمد مصطفى, القاهرة, 11843, مصر"
+97,1.12,2.68,B,0.97,10.01,"What is the straight-line distance between the following two locations? (Unit is km)
+1. القطرى. Detailed address: شارع الشهيد فريد سميكه, حدائق الزيتون, القاهرة, 11843, مصر
+2. مدرسة عمر بن الخطاب الرسمية للغات. Detailed address: 78, شارع عمر بن الخطاب, Heliopolis, مصر الجديدة, القاهرة, 11736, مصر"
+98,10.25,3.82,A,7.3,13.69,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hashville. Detailed address: Espresso lab, 23, شارع 213, مساكن نيركو, الفاروقية, القاهرة, 11431, مصر
+2. Goethe-Institut Library. Detailed address: 3, شارع عبد السلام عارف - البستان سابقا, الإسماعيلية, باب اللوق, القاهرة, 11519, مصر"
+99,14.26,15.31,A,18.11,7.17,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Fourchette Restaurant & Café. Detailed address: شارع الاسراء, المعادي الجديدة, القاهرة, 11742, مصر
+2. محل عصير زهرة أرض اللواء. Detailed address: شارع المعتمديه, ارض الواء, ميت عقبة, الجيزة, 12827, مصر"
+100,2.98,6.89,A,6.41,4.26,"What is the straight-line distance between the following two locations? (Unit is km)
+1. إبن طولون. Detailed address: عطفه العمود, طولون, السيدة زينب, القاهرة, 11622, مصر
+2. St. Andrews Refugee Services. Detailed address: شارع الجلاء, شركس, الأزبكية, القاهرة, 11956, مصر"
+101,4.67,16.13,D,8.25,12.08,"What is the straight-line distance between the following two locations? (Unit is km)
+1. صيدلية دكتور سامح. Detailed address: شارع السخاوى, Heliopolis, الزيتون, القاهرة, 11774, مصر
+2. La Fourchette Restaurant & Café. Detailed address: شارع الاسراء, المعادي الجديدة, القاهرة, 11742, مصر"
+102,18.81,18.37,C,12.5,5.29,"What is the straight-line distance between the following two locations? (Unit is km)
+1. عياده اسنان د. محمد طلعت. Detailed address: 8, شارع نور الدين بهجت, Eigth Area, مدينة نصر, القاهرة, 11762, مصر
+2. مسجد أم القرى. Detailed address: 8, شارع المنيل, الروضه والمقياس, مصر القديمة, خرطة الشيخ مبارك, القاهرة, 11553, مصر"
+103,1.78,1.87,D,8.27,0.54,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Qasr el Nil Theatre. Detailed address: 8`, شارع قصر النيل, الإسماعيلية, باب اللوق, القاهرة, 11519, مصر
+2. مجمع التحرير. Detailed address: 15, شارع مجمع التحرير, قصر الدوباره, باب اللوق, القاهرة, 11519, مصر"
+104,9.56,6.53,D,2.13,3.29,"What is the straight-line distance between the following two locations? (Unit is km)
+1. عودة. Detailed address: طريق النصر, مدينة نصر, القاهرة, 11391, مصر
+2. ماكدونالد. Detailed address: شارع محمود حافظ, مصر الجديدة, القاهرة, 11757, مصر"
+105,9.37,7.56,C,10.98,7.46,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مركز شباب نزلة الاشطر. Detailed address: شارع عمر المختار, الجيزة, 12876, مصر
+2. Mobil. Detailed address: شارع عبد السلام عارف - البستان سابقا, الإسماعيلية, باب اللوق, القاهرة, 11513, مصر"
+106,18.56,8.58,D,5.83,13.31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد عبد الله مكاوي. Detailed address: شارع جهينه, الدقى, الجيزة, 12612, مصر
+2. منظمة الصحة العالمية: المكتب الإقليمي لشرق المتوسط. Detailed address: منظمه الصحه العالمية, شارع دكتور محمود ياسين, Sixth Area, مدينة نصر, القاهرة, 11391, مصر"
+107,10.31,18.8,D,8.98,15.61,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Miette French Bakery. Detailed address: شارع 209, الفاروقية, القاهرة, 11431, مصر
+2. نورماندي. Detailed address: شارع الصباغ, Heliopolis, مصر الجديدة, القاهرة, 11737, مصر"
+108,2.29,6.21,A,9.06,0.91,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Banque Misr. Detailed address: 6, شارع العماد الكاتب, الجبلايه, السبتية, القاهرة, 12654, مصر
+2. ماكينة صرافة البنك الأهلي. Detailed address: البنك الأهلي المصري (فرع التوفيقية), شارع رمسيس, عرابى التوفقية, الظاهر, القاهرة, 11523, مصر"
+109,17.18,23.7,C,19.37,11.59,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مستشفى الفتح الإسلامي. Detailed address: شارع 9, معادي الخبيري, القاهرة, 11728, مصر
+2. كبابجي ومشويات علاء الدين. Detailed address: 57, شارع النصر, Sheraton, القاهرة, 11351, مصر"
+110,3.04,1.39,A,9.75,6.3,"What is the straight-line distance between the following two locations? (Unit is km)
+1. نادي المياه. Detailed address: شارع مرفق المياه, الجنزورى, السكاكينى, القاهرة, 11381, مصر
+2. دير القديس سمعان الخراز. Detailed address: شارع الدير, الخزان, منشية ناصر, القاهرة, 11699, مصر"
+111,1.45,10.72,C,8.29,13.48,"What is the straight-line distance between the following two locations? (Unit is km)
+1. الاسمرات. Detailed address: محور الدكتوره سميره موسى, القاهرة, 11585, مصر
+2. ام كلثوم. Detailed address: شارع رابعة العدوية الاستثمارى, El Golf, مدينة نصر, القاهرة, 11371, مصر"
+112,16.06,13.04,C,11.3,5.26,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Private ferry terminal. Detailed address: Feild Path, الجيزة, 11745, مصر
+2. إدارة الأشغال العسكرية. Detailed address: 18, شارع بنى فهيم, العباسيه الغربيه, الوايلى, القاهرة, 11517, مصر"
+113,1.91,6.93,D,7.61,8.66,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 4 Mohamed Salamah. Detailed address: 8, شارع محمد سلامة, عين شمس, القاهرة, 11772, مصر
+2. نادي المياه. Detailed address: شارع مرفق المياه, الجنزورى, السكاكينى, القاهرة, 11381, مصر"
+114,9.99,6.92,A,7.56,7.86,"What is the straight-line distance between the following two locations? (Unit is km)
+1. الوليمة. Detailed address: شارع التحرير, الدقى, الجيزة, 12311, مصر
+2. Natural. Detailed address: شارع النهضه, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر"
+115,13.05,3.96,D,2.57,5.1,"What is the straight-line distance between the following two locations? (Unit is km)
+1. الشركة المصرية للألبان. Detailed address: شارع علي غيطه, القفاصين, الزيتون, القاهرة, 11725, مصر
+2. مستشفی الجلاء العسكري. Detailed address: شارع العروبه, مساكن صقر قريش, مصر الجديدة, القاهرة, 11361, مصر"
+116,10.13,13.83,C,11.65,6.65,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ميدان هليوبوليس. Detailed address: شارع الحجاز, Heliopolis, مصر الجديدة, القاهرة, 11757, مصر
+2. Sednawy Building. Detailed address: 17, شارع قصر النيل, باب اللوق, عابدين, القاهرة, 11513, مصر"
+117,10.84,5.35,B,8.65,9.24,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد اللؤلؤة. Detailed address: شارع الجبانات, الخليفة, القاهرة, 11575, مصر
+2. Go Bus. Detailed address: طريق النصر, ثان مدينة نصر, القاهرة, 11153, مصر"
+118,8.09,5.46,B,3.21,11.96,"What is the straight-line distance between the following two locations? (Unit is km)
+1. كلاسيك روك. Detailed address: شارع نهرو, Heliopolis, الزيتون, القاهرة, 11734, مصر
+2. مسجد الصديق. Detailed address: شارع الشهيد سيد زكريا خليل, بلوك 1223, Sheraton, القاهرة, 11799, مصر"
+119,9.26,15.13,C,16.3,11.23,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مطار القاهرة الدولى (CAI). Detailed address: شارع العروبه, القاهرة, 11773, مصر
+2. قسم اول شبرا. Detailed address: شارع مجلس المدينه, مدينه شبرا الخيمه, شبرا الخيمة, القليوبية, 13766, مصر"
+120,9.27,11.14,C,6.37,4.15,"What is the straight-line distance between the following two locations? (Unit is km)
+1. البنك العربي الافريقي. Detailed address: شارع تاج الدين السبكي, Masaken Al Mohandesin, مساكن المهندسين, مدينة نصر, القاهرة, 11736, مصر
+2. كنيسة دير الملاك البحرى. Detailed address: 36`, شارع ترعه الجبل, الحدائق, الدمرداش, القاهرة, 11646, مصر"
+121,9.89,14.25,A,8.78,16.84,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Lord Cafe. Detailed address: شارع الطابيه, باب الفتوح, الجمالية, القاهرة, 11681, مصر
+2. توتال. Detailed address: شارع سويلم, الجيزة, 12111, مصر"
+122,8.67,3.02,A,16.04,5.18,"What is the straight-line distance between the following two locations? (Unit is km)
+1. عيادة الباطنة و عيادة جراحة مخ و اعصاب. Detailed address: العيادات الخارجية, شارع السرايا, المنيل الغربي, المنيل, القاهرة, 11562, مصر
+2. Uncle Sam's. Detailed address: شارع مصطفي كامل, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر"
+123,19.51,6.48,D,9.74,12.15,"What is the straight-line distance between the following two locations? (Unit is km)
+1. School STJ. Detailed address: شارع محمد كمال عمران, المهندسين, الجيزة, 13211, مصر
+2. Strella Coffee. Detailed address: شارع المقريزي, Heliopolis, كوبري القبة, القاهرة, 11774, مصر"
+124,6.89,11.03,A,10.35,9.74,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Garnell Sushi & Poke. Detailed address: شارع مصطفى كامل, الفاروقية, القاهرة, 11431, مصر
+2. جامع السويدي. Detailed address: شارع القبوه, الكفور وساعي البحر, مصر القديمة, خرطة الشيخ مبارك, القاهرة, 11632, مصر"
+125,11.35,19.3,C,14.87,11.3,"What is the straight-line distance between the following two locations? (Unit is km)
+1. جامعة القاهرة. Detailed address: شارع السودان, مساكن العرايس, بين السرايات, الجيزة, 13211, مصر
+2. العربي الأفريقي. Detailed address: 33, شارع ابو داوود الظاهري, Sixth Area, مدينة نصر, القاهرة, 11765, مصر"
+126,22.1,19.73,B,13.31,16.97,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 180 دنتال. Detailed address: 6, شارع 213, الفاروقية, القاهرة, 11728, مصر
+2. صيدلية نور الإسلام. Detailed address: 17, شارع الوحده, طناش, الجيزة, 12981, مصر"
+127,7.68,10.26,B,4.88,2.99,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al-Khalifa Al-Maamoun Secondary School. Detailed address: 10`, شارع احمد سمير الصاوي, الزيتون, القاهرة, 11734, مصر
+2. احباب المصطفى. Detailed address: 8588, الاحياء, القاهرة, 11571, مصر"
+128,24.37,12.73,D,17.97,19.22,"What is the straight-line distance between the following two locations? (Unit is km)
+1. SYE English Community. Detailed address: شارع السد العالي, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر
+2. القطرى. Detailed address: شارع الشهيد فريد سميكه, حدائق الزيتون, القاهرة, 11843, مصر"
+129,2.62,2.92,D,12.64,6.72,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Talibia Police Station قسم شرطة الطالبيه. Detailed address: شارع الاهرام, الجيزة, 12510, مصر
+2. القاضي يحي زين الدين الزيني. Detailed address: شارع الازهر, كوم الشيخ سلامه, باب الشعرية, القاهرة, 11639, مصر"
+130,0.74,7.27,A,4.77,6.18,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Empty Plot. Detailed address: شارع الخيالة, الخليفة, القاهرة, 11581, مصر
+2. المتحف القومي للحضارة المصرية. Detailed address: شارع الفسطاط, المجاورة 2, الفسطاط, خرطة الشيخ مبارك, القاهرة, 11632, مصر"
+131,7.06,8.71,D,5.6,1.61,"What is the straight-line distance between the following two locations? (Unit is km)
+1. لاڤا كافيه. Detailed address: شارع 268, المعادي الجديدة, القاهرة, 11634, مصر
+2. El Dayaa Lebanese Restaurant. Detailed address: شارع 231, مساكن نيركو, الفاروقية, القاهرة, 11431, مصر"
+132,7.29,8.02,C,3.91,2.85,"What is the straight-line distance between the following two locations? (Unit is km)
+1. New Universal Pharmacy. Detailed address: شارع البرازيل, محمد مظهر, السبتية, القاهرة, 11211, مصر
+2. مستشفى المروة. Detailed address: محور الفريق كمال عامر, بين السرايات, الجيزة, 12616, مصر"
+133,12.24,13.66,C,7.11,10.63,"What is the straight-line distance between the following two locations? (Unit is km)
+1. البنك الأهلي المصري. Detailed address: كوبري 6 أكتوبر, الفجاله, الأزبكية, القاهرة, 11669, مصر
+2. مدرسة سراى القبة الاعدادية بنات. Detailed address: 6, شارع احمد سمير الصاوي, الزيتون, القاهرة, 11734, مصر"
+134,9.99,7.75,D,4.22,2.49,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد الصحابة. Detailed address: شارع ميدان مسجد الصحابه, بين السرايات, الجيزة, 12615, مصر
+2. فيصل. Detailed address: 3, شارع ترعه الزمر, ابو قتاده و نوفل, بولاق الدكرور, الجيزة, 12984, مصر"
+135,10.49,16.44,A,16.34,7.99,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Court of Masr El Gededa. Detailed address: شارع الحجاز الجانبى, مصر الجديدة, القاهرة, 11757, مصر
+2. جامايكا. Detailed address: شارع شريف الصقر, باب اللوق, باب اللوق, القاهرة, 42801, مصر"
+136,20.15,14.92,D,7.33,13.45,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مركز سفنكس. Detailed address: شارع 26 يوليو, ميت عقبة, الجيزة, 12655, مصر
+2. Dr. Magdy Mostafa - Dental Consultant. Detailed address: 24, شارع 9, الفاروقية, القاهرة, 11728, مصر"
+137,6.87,6.9,D,4.56,2.38,"What is the straight-line distance between the following two locations? (Unit is km)
+1. زيزو. Detailed address: 1, شارع الحسينيه, الخواص, الجمالية, القاهرة, 11681, مصر
+2. مطعم البرنس. Detailed address: شارع علوي, باب اللوق, باب اللوق, القاهرة, 42801, مصر"
+138,4.11,3.93,D,4.16,1.9,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Heritage Hostel. Detailed address: 13A, شارع مريت باشا, الإسماعيلية, باب اللوق, القاهرة, 11519, مصر
+2. كلية اقتصاد منزلي. Detailed address: شارع سليمان باشا الخادم, سوق العصر, السبتية, القاهرة, 11221, مصر"
+139,6.09,0.59,B,2.99,3.33,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Har. Detailed address: شارع النصر, مساكن عرايس, المعادي الجديدة, القاهرة, 11742, مصر
+2. دار القمر. Detailed address: شارع النصر, المعادي الجديدة, القاهرة, 11742, مصر"
+140,11.12,16.72,D,15.12,13.89,"What is the straight-line distance between the following two locations? (Unit is km)
+1. وطنية. Detailed address: محور الشهيد, مدينة نصر, القاهرة, 11585, مصر
+2. مسجد الكردي. Detailed address: شارع على بن ابى طالب, الجيزة, 12519, مصر"
+141,7.26,8.32,B,13.8,11.93,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مستشفى الرماد. Detailed address: شارع الاهرام, الجيزة, 12513, مصر
+2. East Degla Pharmacy. Detailed address: شارع 231, مساكن نيركو, الفاروقية, القاهرة, 11431, مصر"
+142,2.96,10.62,B,18.26,3.98,"What is the straight-line distance between the following two locations? (Unit is km)
+1. توم اند بسل. Detailed address: 8, شارع طلعت حرب, الإسماعيلية, باب اللوق, القاهرة, 11519, مصر
+2. البنك العربي الافريقي. Detailed address: شارع تاج الدين السبكي, Masaken Al Mohandesin, مساكن المهندسين, مدينة نصر, القاهرة, 11736, مصر"
+143,13.57,12.01,A,17.21,20.83,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bolak Eldakror educational adminstrative building. Detailed address: محطه اطفاء حريق, شارع المشتل, بولاق الدكرور, نزلة بهجت, الجيزة, 12621, مصر
+2. مدرسة عبير الإسلام الخاصة. Detailed address: مدرسة الشهيد أحمد تعلب الفندقية للتكنولوجيا التطبيقية, 1, شارع ابن حوقل, Raba'a El Adaweyya, رابعه العدويه, مدينة نصر, القاهرة, 11759, مصر"
+144,14.44,21.89,A,18.1,9.35,"What is the straight-line distance between the following two locations? (Unit is km)
+1. نادى إتحاد المهن الطبية. Detailed address: شارع ابو بكر الصديق, عمارات الشروق, مدينة نصر, القاهرة, 18711, مصر
+2. Banque Misr. Detailed address: 6, شارع العماد الكاتب, الجبلايه, السبتية, القاهرة, 12654, مصر"
+145,17.76,24.43,A,14.59,23.18,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد الصديق. Detailed address: شارع الشهيد سيد زكريا خليل, بلوك 1223, Sheraton, القاهرة, 11799, مصر
+2. مبنى نادي الكلية. Detailed address: 12, شارع جامعه القاهره, بين السرايات, الجيزة, 12541, مصر"
+146,4.0,8.58,C,2.05,8.11,"What is the straight-line distance between the following two locations? (Unit is km)
+1. NEUROMED - Centre de neurochirurgie intégré. Detailed address: 2, شارع الفيوم, Heliopolis, مصر الجديدة, القاهرة, 11341, مصر
+2. CIB Bank. Detailed address: 46, شارع الخليفه المأمون, Heliopolis, الوايلى, الدمرداش, القاهرة, 11712, مصر"
+147,1.12,10.05,D,10.67,4.09,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ريفيري. Detailed address: شارع ابو جعفر النحاس, Masaken Al Mohandesin, مساكن المهندسين, مدينة نصر, القاهرة, 11736, مصر
+2. Coffeeshop Company. Detailed address: شارع مصطفى رفعت, بلوك 1146, Sheraton, القاهرة, 11361, مصر"
+148,1.79,10.4,D,12.8,5.09,"What is the straight-line distance between the following two locations? (Unit is km)
+1. برج زمزم. Detailed address: 16`, شارع منشيه الصدر, منشية الصدر, حدائق القبة, القاهرة, 11663, مصر
+2. keif. Detailed address: 55, شارع النزهه, Heliopolis, القاهرة, 11736, مصر"
+149,11.71,19.23,D,8.21,13.82,"What is the straight-line distance between the following two locations? (Unit is km)
+1. سيركل كي. Detailed address: شارع احمد سمير الصاوي, الزيتون, القاهرة, 11321, مصر
+2. Malvern College Egypt. Detailed address: B2-B3, الطريق الدائري, المعادي الجديدة, حى الشويفات, القاهرة, 11771, مصر"
+150,7.97,14.57,A,11.69,5.34,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Midway. Detailed address: محور الشهيد, مدينة نصر, القاهرة, 11771, مصر
+2. البنك الأهلى المصرى. Detailed address: 6, شارع عباس العقاد, مدينة نصر, القاهرة, 11765, مصر"
+151,4.02,6.59,D,4.81,0.89,"What is the straight-line distance between the following two locations? (Unit is km)
+1. El Gammal Electronics. Detailed address: 1, شارع بستان بن قريش, الدواوين, عابدين, القاهرة, 11513, مصر
+2. Crafted Home كرافتيد هوم. Detailed address: 26, شارع عدلي, الفواله, عابدين, القاهرة, 11518, مصر"
+152,2.22,9.92,B,6.5,3.89,"What is the straight-line distance between the following two locations? (Unit is km)
+1. المتحف المصري. Detailed address: شارع مريت باشا, الإسماعيلية, باب اللوق, القاهرة, 11556, مصر
+2. كلية البنات. Detailed address: شارع التوفيق, El Golf, مدينة نصر, القاهرة, 11737, مصر"
+153,4.46,9.04,A,2.47,8.88,"What is the straight-line distance between the following two locations? (Unit is km)
+1. كنيسة دير الملاك البحرى. Detailed address: 36`, شارع ترعه الجبل, الحدائق, الدمرداش, القاهرة, 11646, مصر
+2. مسجد العزيز بالله. Detailed address: شارع العزيز بالله, الزيتون, القاهرة, 11734, مصر"
+154,3.96,17.04,C,9.5,7.61,"What is the straight-line distance between the following two locations? (Unit is km)
+1. المجالس الطبية. Detailed address: شارع المستشفى, الحى 6, ثان مدينة نصر, القاهرة, 11717, مصر
+2. مطعم و مقهى شرقي. Detailed address: 38, شارع حسن الانوار القبلي, الانور وعشش البارود, مصر القديمة, خرطة الشيخ مبارك, القاهرة, 11632, مصر"
+155,17.98,13.99,A,10.54,24.74,"What is the straight-line distance between the following two locations? (Unit is km)
+1. لهطة قشطة الكابلات. Detailed address: 39, شارع سمير حجازي, الاميريه الجديده, القاهرة, 11715, مصر
+2. معدية المعادي. Detailed address: شارع المعديه, منيل شيحا, الجيزة, 12912, مصر"
+156,16.36,14.92,B,20.93,8.41,"What is the straight-line distance between the following two locations? (Unit is km)
+1. منظمة الصحة العالمية: المكتب الإقليمي لشرق المتوسط. Detailed address: منظمه الصحه العالمية, شارع دكتور محمود ياسين, Sixth Area, مدينة نصر, القاهرة, 11391, مصر
+2. أكاديمية السادات للعلوم الإدارية. Detailed address: شارع اكاديمية السادات, معادي الخبيري, القاهرة, 11728, مصر"
+157,6.19,12.06,D,10.42,4.62,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد إبن سندر. Detailed address: شارع ميدان ابن سندر, Heliopolis, كوبري القبة, القاهرة, 11712, مصر
+2. عودة. Detailed address: طريق النصر, مدينة نصر, القاهرة, 11391, مصر"
+158,11.1,14.46,C,8.72,15.2,"What is the straight-line distance between the following two locations? (Unit is km)
+1. عيادة السمعيات. Detailed address: العيادات الخارجية, شارع السرايا, المنيل الغربي, المنيل, القاهرة, 11562, مصر
+2. Esquina. Detailed address: 15, شارع 81, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر"
+159,12.64,7.85,B,5.3,14.22,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Beano's. Detailed address: 26, شارع 10, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر
+2. إبن طولون. Detailed address: عطفه العمود, طولون, السيدة زينب, القاهرة, 11622, مصر"
+160,14.87,17.78,A,20.45,16.31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مركز شباب الساحل. Detailed address: شارع احمد حلمي, عزبة أيوب, منيه السيرج, القاهرة, 11656, مصر
+2. نادى المعادى. Detailed address: شارع علي عبد العزيز, المعادى, القاهرة, 11728, مصر"
+161,13.28,17.23,A,5.44,16.65,"What is the straight-line distance between the following two locations? (Unit is km)
+1. دار الأرقم. Detailed address: 95, شارع الشيخ احمد الصاوي, Sixth Area, مدينة نصر, القاهرة, 11765, مصر
+2. الوالي. Detailed address: شارع نادى امبابه الرياضى, المنيره الشرقيه, كيت كات, الجيزة, 12659, مصر"
+162,9.79,7.58,B,6.05,9.76,"What is the straight-line distance between the following two locations? (Unit is km)
+1. حديقة الفسطاط. Detailed address: شارع احمد مصطفى, مساكن عين الصيرة قديم, عين الصيرة, القاهرة, 11654, مصر
+2. LFC. Detailed address: Lycée Français du Caire , Merag Branch, شارع الاسراء, المعادي الجديدة, القاهرة, 00007, مصر"
+163,13.77,11.35,C,9.56,3.23,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مطعم البرنس. Detailed address: شارع علوي, باب اللوق, باب اللوق, القاهرة, 42801, مصر
+2. CAE BANK فرع الميرغنى. Detailed address: شارع ابو المجد عامر, El Golf, مدينة نصر, القاهرة, 11736, مصر"
+164,7.63,19.44,D,8.27,11.63,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مكتب بريد الدقى. Detailed address: شارع نادي الصيد, اولاد علام, الدقى, الجيزة, 12311, مصر
+2. مصرف ابو ظبى الاسلامى. Detailed address: شارع الحجاز, Heliopolis, مصر الجديدة, القاهرة, 11757, مصر"
+165,15.08,14.94,C,18.96,13.39,"What is the straight-line distance between the following two locations? (Unit is km)
+1. البنك الأهلي. Detailed address: شارع احمد لطفى, القاهرة, 11351, مصر
+2. مسجدظ الصيرفى. Detailed address: 7, شارع قرة بن شريك, الجيزة, 12513, مصر"
+166,17.41,16.34,B,9.75,8.96,"What is the straight-line distance between the following two locations? (Unit is km)
+1. قصر الأمير محمد. Detailed address: 12, شارع عمر مكرم, قصر الدوباره, باب اللوق, القاهرة, 11519, مصر
+2. Villa Wafaq Hanim. Detailed address: 4L, شارع محمد السباعى, القاهرة, 11843, مصر"
+167,5.46,4.19,C,1.17,3.03,"What is the straight-line distance between the following two locations? (Unit is km)
+1. توتال. Detailed address: شارع سويلم, الجيزة, 12111, مصر
+2. مركز د. ماجد العزب للعلاج الطبيعي. Detailed address: شارع ناصر الثوره, الجيزة, 12555, مصر"
+168,15.84,19.18,A,12.06,9.05,"What is the straight-line distance between the following two locations? (Unit is km)
+1. سيتى ستارز مول. Detailed address: شارع الامداد و التموين, Masaken Al Mohandesin, مساكن المهندسين, مدينة نصر, القاهرة, 11391, مصر
+2. Bolak Eldakror educational adminstrative building. Detailed address: محطه اطفاء حريق, شارع المشتل, بولاق الدكرور, نزلة بهجت, الجيزة, 12621, مصر"
+169,7.04,3.58,A,13.19,10.95,"What is the straight-line distance between the following two locations? (Unit is km)
+1. نادي السكة الحديد. Detailed address: طريق النصر, امتداد رمسيس 2, ثان مدينة نصر, القاهرة, 11759, مصر
+2. Bennu. Detailed address: شارع محمد عز العرب, الانشا والمنيره, السيدة زينب, القاهرة, 11241, مصر"
+170,21.4,19.14,C,13.55,17.48,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Advanced Technical School. Detailed address: شارع الشهيد محمد مصطفى كاريكا, عمارات الشرارة, مدينة نصر, القاهرة, 11391, مصر
+2. تشيك شاك. Detailed address: شارع 26 يوليو, محمد مظهر, السبتية, القاهرة, 11211, مصر"
+171,5.11,8.43,B,15.34,7.41,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مدينة نصر الثانوية الصناعية. Detailed address: شارع جابر بن حيان, Al Manteqah Al Oula, مدينة نصر, القاهرة, 11765, مصر
+2. البنك الأهلي المصري. Detailed address: كوبري 6 أكتوبر, الفجاله, الأزبكية, القاهرة, 11669, مصر"
+172,11.38,2.78,C,4.58,5.96,"What is the straight-line distance between the following two locations? (Unit is km)
+1. الجامعة الدولية الإلكترونية. Detailed address: شارع 278, المعادي الجديدة, القاهرة, 11634, مصر
+2. Private ferry terminal. Detailed address: Feild Path, الجيزة, 11745, مصر"
+173,5.85,9.2,C,3.21,11.06,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Joint Arab Investment Corporation - JAICORP. Detailed address: قهوة المملكة, 30, شارع جامعه الدول العربيه, المهندسين, الجيزة, 12654, مصر
+2. قسم شرطه بولاق الدكرور. Detailed address: شارع ترعه الزمر, ابو قتاده و نوفل, بين السرايات, الجيزة, 12624, مصر"
+174,6.03,6.97,D,11.55,4.06,"What is the straight-line distance between the following two locations? (Unit is km)
+1. سنترال المعادي 1. Detailed address: 55, شارع 7, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر
+2. جبخانة محمد علي. Detailed address: شارع خالد بن الوليد, المعادى, خرطة الشيخ مبارك, القاهرة, 11666, مصر"
+175,15.08,5.68,C,10.64,18.6,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Batates & Zalabya. Detailed address: شارع 26 يوليو, محمد مظهر, السبتية, القاهرة, 11211, مصر
+2. بريجو. Detailed address: شارع نبيل الوقاد, El Golf, مدينة نصر, القاهرة, 11736, مصر"
+176,2.91,5.52,B,3.04,10.96,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مركز شباب منشأة ناصر. Detailed address: حارة ابو جازيه, منشية ناصر, القاهرة, 11695, مصر
+2. بنك الاستثمار العربي. Detailed address: شارع مصطفي النحاس, مدينة نصر, القاهرة, 11765, مصر"
+177,1.09,6.7,D,15.19,8.04,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pure Cafe. Detailed address: شارع اسماعيل محمد, ابو الفدا, السبتية, القاهرة, 11561, مصر
+2. بنك مصر. Detailed address: شارع اسامه أبو عميره, الجيزة, 12111, مصر"
+178,4.94,9.69,B,5.39,15.6,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nice Cream. Detailed address: شارع 9, الفاروقية, القاهرة, 11431, مصر
+2. عيادة الرمد. Detailed address: العيادات الخارجية, شارع السرايا, المنيل الغربي, المنيل, القاهرة, 11562, مصر"
+179,6.47,12.94,C,14.33,15.42,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مدرسة المنهل الخاصة. Detailed address: شارع افريقيا, مدينة نصر, القاهرة, 11762, مصر
+2. معهد بحوث امراض الرمد. Detailed address: شارع الاهرام, الجيزة, 12513, مصر"
+180,3.92,10.53,A,7.59,5.9,"What is the straight-line distance between the following two locations? (Unit is km)
+1. القرصاية. Detailed address: شارع سيف النصر, الجيزة, 12516, مصر
+2. المدرسة الألمانية الانجيلية الثانوية. Detailed address: شارع عبد الحميد المكاوى, الدقى, الجيزة, 12612, مصر"
+181,0.58,2.95,A,2.51,7.57,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bogali Resturant W Marriott. Detailed address: 16, شارع الموسيقار محمد عبد الوهاب, السبتية, القاهرة, 12344, مصر
+2. New Universal Pharmacy. Detailed address: شارع البرازيل, محمد مظهر, السبتية, القاهرة, 11211, مصر"
+182,14.31,20.35,A,6.56,11.04,"What is the straight-line distance between the following two locations? (Unit is km)
+1. الدكتور وائل نجار. Detailed address: شارع المسطحات, زهراء المعادي منطقه 1, القاهرة, 00007, مصر
+2. مسجد إبن سندر. Detailed address: شارع ميدان ابن سندر, Heliopolis, كوبري القبة, القاهرة, 11712, مصر"
+183,10.34,7.75,D,7.73,12.08,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Vittorio's. Detailed address: شارع 231, مساكن نيركو, الفاروقية, القاهرة, 11431, مصر
+2. Mohamed Salama Pharmacy. Detailed address: 25, شارع يحيى باشا ابراهيم, محمد مظهر, السبتية, القاهرة, 11568, مصر"
+184,13.21,19.64,A,11.74,18.96,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Crave. Detailed address: 30, شارع 213, مساكن نيركو, الفاروقية, القاهرة, 11728, مصر
+2. صيدلية دكتور مكرم. Detailed address: شارع مكرم عبيد, Sixth Area, مدينة نصر, القاهرة, 11391, مصر"
+185,17.0,16.52,C,18.16,21.54,"What is the straight-line distance between the following two locations? (Unit is km)
+1. بنك فيصل الإسلامي. Detailed address: شارع الاهرام, الجيزة, 12555, مصر
+2. عيادات ايجيبت ميديكال التخصصية. Detailed address: شارع المعهد الاشتراكي, Heliopolis, مصر الجديدة, القاهرة, 11737, مصر"
+186,8.24,13.51,A,5.78,14.12,"What is the straight-line distance between the following two locations? (Unit is km)
+1. CIB Bank. Detailed address: 46, شارع الخليفه المأمون, Heliopolis, الوايلى, الدمرداش, القاهرة, 11712, مصر
+2. Le Delice Cafe. Detailed address: شارع كورنيش النيل, سوق العصر, السبتية, القاهرة, 11221, مصر"
+187,18.89,14.47,B,19.26,21.73,"What is the straight-line distance between the following two locations? (Unit is km)
+1. دكتور سارة طلعت. Detailed address: شارع شمس الدين الذهبي, El Golf, مدينة نصر, القاهرة, 11736, مصر
+2. Al Wahy. Detailed address: 19, شارع 233, مساكن نيركو, الفاروقية, القاهرة, 11728, مصر"
+188,6.32,17.84,D,18.66,10.75,"What is the straight-line distance between the following two locations? (Unit is km)
+1. عيادة كريم سعيد. Detailed address: شارع الديوان, جاردن سيتى, السيدة زينب, القاهرة, 11562, مصر
+2. Wataneya Fuel Station. Detailed address: شارع سور دار الدفاع الجوي, مساكن كليه البنات, El Golf, مدينة نصر, القاهرة, 11371, مصر"
+189,16.86,15.77,B,19.31,22.9,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mahraja Indian Restaurant. Detailed address: شارع النهضه, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر
+2. ريفيري. Detailed address: شارع ابو جعفر النحاس, Masaken Al Mohandesin, مساكن المهندسين, مدينة نصر, القاهرة, 11736, مصر"
+190,9.79,16.25,B,8.32,11.14,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Poire. Detailed address: 70, شارع 9, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر
+2. كنيسة مصرالجديدة الإنجيلية. Detailed address: شارع كيلوباترا, Heliopolis, مصر الجديدة, القاهرة, 11737, مصر"
+191,15.01,5.01,D,11.09,9.23,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Shiva Indian Restaurant. Detailed address: 11, شارع محمد عبيد, Heliopolis, مصر الجديدة, القاهرة, 11736, مصر
+2. مسجد القدس. Detailed address: شارع 9, الصعيد, المقطم, القاهرة, 11571, مصر"
+192,11.39,4.04,D,2.96,5.35,"What is the straight-line distance between the following two locations? (Unit is km)
+1. دار المقطم. Detailed address: شارع 14, المقطم, القاهرة, 11575, مصر
+2. زيزو. Detailed address: 1, شارع الحسينيه, الخواص, الجمالية, القاهرة, 11681, مصر"
+193,23.51,13.7,D,17.03,20.12,"What is the straight-line distance between the following two locations? (Unit is km)
+1. عيادات ايجيبت ميديكال التخصصية. Detailed address: شارع المعهد الاشتراكي, Heliopolis, مصر الجديدة, القاهرة, 11737, مصر
+2. مركز شباب نزلة الاشطر. Detailed address: شارع عمر المختار, الجيزة, 12876, مصر"
+194,12.78,17.95,A,18.32,8.18,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Didos Al Dente. Detailed address: شارع بهجت علي, ابو الفدا, السبتية, القاهرة, 12653, مصر
+2. Mahraja Indian Restaurant. Detailed address: شارع النهضه, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر"
+195,15.3,21.28,A,8.78,9.29,"What is the straight-line distance between the following two locations? (Unit is km)
+1. العمدة. Detailed address: 20, شارع جامعه الدول العربيه, المهندسين, الجيزة, 12654, مصر
+2. كافيتريا راهندا. Detailed address: شارع الشيخ حازم صلاح, عمارات اطلس, Eastren Sixth Area, مدينة نصر, القاهرة, 11391, مصر"
+196,6.38,12.43,D,19.87,13.44,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ماكدونالدز. Detailed address: شارع المنيل, المنيل الغربي, المنيل, القاهرة, 11555, مصر
+2. كار غاز. Detailed address: شارع وقود, Ninth Area, مدينة نصر, القاهرة, 11762, مصر"
+197,9.35,4.27,A,6.91,3.58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Maadi Hotel. Detailed address: 19, طريق مصر حلوان الزراعي, معادي الخبيري, القاهرة, 11728, مصر
+2. cecilia. Detailed address: 47, شارع الفلكي, الدواوين, عابدين, القاهرة, 11513, مصر"
+198,3.88,8.72,B,2.84,7.56,"What is the straight-line distance between the following two locations? (Unit is km)
+1. keif. Detailed address: 55, شارع النزهه, Heliopolis, القاهرة, 11736, مصر
+2. محمد بحبح لتصنيع صواني الافران. Detailed address: حارة البرقوقيه, الشعرانى, القاهرة الإسلامية, القاهرة, 11261, مصر"
+199,10.51,4.86,A,15.69,13.18,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مستشفى المروة. Detailed address: محور الفريق كمال عامر, بين السرايات, الجيزة, 12616, مصر
+2. La Poire. Detailed address: 70, شارع 9, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر"
+200,4.41,4.64,C,0.66,6.26,"What is the straight-line distance between the following two locations? (Unit is km)
+1. باب الحديد. Detailed address: 19, شارع 233, مساكن نيركو, الفاروقية, القاهرة, 11728, مصر
+2. 180 دنتال. Detailed address: 6, شارع 213, الفاروقية, القاهرة, 11728, مصر"
+201,6.05,3.62,B,7.17,7.16,"What is the straight-line distance between the following two locations? (Unit is km)
+1. عيادة ذا آرك البيطرية. Detailed address: 14, شارع الدكتور مصطفي الديواني, جاردن سيتى, السيدة زينب, القاهرة, 11519, مصر
+2. LIDO. Detailed address: شارع شجره الدر, الجبلايه, السبتية, القاهرة, 11561, مصر"
+202,6.39,20.83,D,5.79,12.9,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dark Solutions. Detailed address: امتداد شارع 218, مساكن نيركو, الفاروقية, القاهرة, 11431, مصر
+2. مدرسة المنهل الخاصة. Detailed address: شارع افريقيا, مدينة نصر, القاهرة, 11762, مصر"
+203,7.88,12.48,D,16.3,10.58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. المدرسة الفرنسية. Detailed address: شارع 14, معادي الخبيري, الفاروقية, القاهرة, 11431, مصر
+2. El Gammal Electronics. Detailed address: 1, شارع بستان بن قريش, الدواوين, عابدين, القاهرة, 11513, مصر"
+204,2.69,13.95,C,6.03,11.62,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مستشفى الجابري. Detailed address: شارع الرومالى, الجيزة, 12549, مصر
+2. Bogali Resturant W Marriott. Detailed address: 16, شارع الموسيقار محمد عبد الوهاب, السبتية, القاهرة, 12344, مصر"
+205,4.62,11.79,D,11.49,7.66,"What is the straight-line distance between the following two locations? (Unit is km)
+1. بنك الاتحاد الوطني. Detailed address: شارع محى الدين أبو العز, المهندسين, الجيزة, 12615, مصر
+2. أكاديمية طيبة. Detailed address: شارع كورنيش النيل, القاهرة, 11745, مصر"
+206,4.39,5.85,C,8.6,3.21,"What is the straight-line distance between the following two locations? (Unit is km)
+1. فينيز. Detailed address: Barista, 24, شارع 9, الفاروقية, القاهرة, 11728, مصر
+2. بنك البركة - فرع المنيل. Detailed address: شارع عبد العزيز آل سعود, المنيل الغربي, المنيل, القاهرة, 11555, مصر"
+207,3.39,3.45,C,10.04,8.42,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jarat Al-Qamar Café. Detailed address: شارع حسين باشا المعماري, معروف, باب اللوق, القاهرة, 11556, مصر
+2. Hindam. Detailed address: شارع النهضه, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر"
+208,19.98,14.91,A,12.04,16.26,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Casablanca. Detailed address: 1, شارع احمد عبد النبى, القاهرة, 11843, مصر
+2. Ratios Underground. Detailed address: 13A, شارع 231, مساكن نيركو, الفاروقية, القاهرة, 11728, مصر"
+209,2.21,5.73,A,7.12,3.75,"What is the straight-line distance between the following two locations? (Unit is km)
+1. كار غاز. Detailed address: شارع وقود, Ninth Area, مدينة نصر, القاهرة, 11762, مصر
+2. منظمه الصحه العالمية. Detailed address: شارع دكتور محمود ياسين, Sixth Area, مدينة نصر, القاهرة, 11391, مصر"
+210,5.95,3.86,A,3.35,13.23,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Virginian. Detailed address: شارع كورنيش الاهرام, المقطم, القاهرة, 11575, مصر
+2. مستشفى الفتح الإسلامي. Detailed address: شارع 9, معادي الخبيري, القاهرة, 11728, مصر"
+211,6.32,2.67,A,12.92,1.81,"What is the straight-line distance between the following two locations? (Unit is km)
+1. أكاديمية طيبة. Detailed address: شارع كورنيش النيل, القاهرة, 11745, مصر
+2. مجلس الشعب. Detailed address: 19, شارع مصطفى باشا كامل, السباعين, باب اللوق, القاهرة, 11617, مصر"
+212,6.75,15.29,C,14.22,15.91,"What is the straight-line distance between the following two locations? (Unit is km)
+1. قصر الثقافه. Detailed address: شارع اليابان, الجيزة, 12551, مصر
+2. مركز خدمة المواطنين بإدارة نوادي وفنادق القوات المسلحة. Detailed address: 19, شارع ابن فضلان, رابعه العدويه, مدينة نصر, القاهرة, 11759, مصر"
+213,15.87,5.76,C,10.75,6.83,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Malvern College Egypt. Detailed address: B2-B3, الطريق الدائري, المعادي الجديدة, حى الشويفات, القاهرة, 11771, مصر
+2. المسجد الأزرق. Detailed address: شارع باب الوزير, باب الوزير والغريب, الدرب الأحمر, القاهرة, 11655, مصر"
+214,21.25,11.09,D,12.34,15.68,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 6 Moahmed Salamah. Detailed address: 5, شارع محمد سلامة, عين شمس, القاهرة, 11772, مصر
+2. مدرسة الجيزة الاعدادية بنين. Detailed address: شارع جامعه القاهره, بين السرايات, الجيزة, 12541, مصر"
+215,7.73,5.81,D,7.61,13.31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ادارة الاعمال المصغر. Detailed address: شارع مصدق, الدقى, الجيزة, 12311, مصر
+2. عيادات سيمويا الايطالية للتجميل SIMOE Italian Beauty Clinics. Detailed address: 6, شارع النزهه, عمارات السعودية, مساكن المهندسين, مدينة نصر, القاهرة, 11765, مصر"
+216,8.81,1.32,B,5.11,3.4,"What is the straight-line distance between the following two locations? (Unit is km)
+1. عبير الإسلام. Detailed address: مدرسة الشهيد أحمد تعلب الفندقية للتكنولوجيا التطبيقية, 1, شارع ابن حوقل, Raba'a El Adaweyya, رابعه العدويه, مدينة نصر, القاهرة, 11759, مصر
+2. مصر للبترول. Detailed address: طريق النصر, مدينة نصر, القاهرة, 11371, مصر"
+217,9.88,12.82,B,7.7,10.42,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gastec. Detailed address: شارع عبد القادر طه, مساكن نيركو, القاهرة, 11742, مصر
+2. Coffee & Tea. Detailed address: شارع العسال, محمد مظهر, السبتية, القاهرة, 11211, مصر"
+218,11.8,6.82,C,4.68,6.87,"What is the straight-line distance between the following two locations? (Unit is km)
+1. كلية اقتصاد منزلي. Detailed address: شارع سليمان باشا الخادم, سوق العصر, السبتية, القاهرة, 11221, مصر
+2. متحف مصطفى كامل. Detailed address: شارع صلاح الدين الشرقي, عرب اليسار, الدرب الأحمر, القاهرة, 11636, مصر"
+219,5.33,4.72,C,0.86,4.55,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Juice. Detailed address: شارع التحرير, باب اللوق, باب اللوق, القاهرة, 11513, مصر
+2. حديقة محافظة القاهرة. Detailed address: شارع الجزيره, بولاق, القاهرة, 11111, مصر"
+220,21.59,13.64,C,19.54,24.19,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 中式餐廳. Detailed address: طريق سقاره السياحى, شبرمنت, الجيزة, 12841, مصر
+2. الكربه. Detailed address: شارع الثوره, Heliopolis, مصر الجديدة, القاهرة, 11737, مصر"
+221,2.86,2.2,C,8.09,10.77,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Church users' ferry terminal. Detailed address: كوبري محور المنيب, الجيزة, 12524, مصر
+2. BLOM Bank Egypt. Detailed address: شارع ابو الفدا, ابو الفدا, السبتية, القاهرة, 12653, مصر"
+222,16.22,14.39,B,13.17,9.41,"What is the straight-line distance between the following two locations? (Unit is km)
+1. النزهة الدولي. Detailed address: شارع كمال الدين حسين, بلوك 1103, Sheraton, القاهرة, 11799, مصر
+2. الجحش. Detailed address: شارع عبد المجيد اللبان, الكبش, السيدة زينب, القاهرة, 11622, مصر"
+223,5.77,7.28,D,8.3,2.44,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مار مينا. Detailed address: شارع مينا, زينهم, السيدة زينب, القاهرة, 11562, مصر
+2. قسم شرطة الجيزة. Detailed address: حارة الخليليه, الجيزة, 12513, مصر"
+224,19.97,12.2,B,7.4,7.2,"What is the straight-line distance between the following two locations? (Unit is km)
+1. LIDO. Detailed address: شارع شجره الدر, الجبلايه, السبتية, القاهرة, 11561, مصر
+2. Abu Dhabi Islamic Bank ADIB. Detailed address: 86, شارع 9, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر"
+225,5.31,7.89,C,2.61,9.58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. بريجو. Detailed address: شارع نبيل الوقاد, El Golf, مدينة نصر, القاهرة, 11736, مصر
+2. مدرسة القبة الثانوية بنين. Detailed address: 7, شارع ابن سندر, الزيتون, القاهرة, 11712, مصر"
+226,7.23,4.96,B,1.51,2.91,"What is the straight-line distance between the following two locations? (Unit is km)
+1. الوالي. Detailed address: شارع نادى امبابه الرياضى, المنيره الشرقيه, كيت كات, الجيزة, 12659, مصر
+2. HSBC. Detailed address: شارع نادي الصيد, المهندسين, الجيزة, 12615, مصر"
+227,14.44,20.71,A,8.3,18.22,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مركز شباب ناصر المطور. Detailed address: شارع خلف مصانع ناروبين, مساكن نوبار, بهتيم, شبرا الخيمة, القليوبية, 13772, مصر
+2. яхта. Detailed address: شارع كورنيش النيل, الخوخه والقنايه, مصر القديمة, خرطة الشيخ مبارك, القاهرة, 11632, مصر"
+228,4.33,6.2,C,1.3,3.72,"What is the straight-line distance between the following two locations? (Unit is km)
+1. embassy;سفارة جمهورية الغابون. Detailed address: 62, شارع القنال, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر
+2. برج الجزيرة2. Detailed address: 24, طريق مصر حلوان الزراعي, المعادى, القاهرة, 11728, مصر"
+229,4.79,8.97,B,11.83,2.14,"What is the straight-line distance between the following two locations? (Unit is km)
+1. منطقة تحت الانشاء [مسار مونوريل غرب النيل]. Detailed address: محور الفريق كمال عامر, ميت عقبة, الجيزة, 12827, مصر
+2. Empty Plot. Detailed address: شارع الخيالة, الخليفة, القاهرة, 11581, مصر"
+230,8.62,13.23,B,5.92,20.59,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مستشفى عين الحياة. Detailed address: 16, شارع النصر, القاهرة, 11843, مصر
+2. مسجد ابو بكر مزهر. Detailed address: حارة عبد العليم, الشعرانى, الجمالية, القاهرة, 11681, مصر"
+231,11.9,17.67,A,14.87,13.8,"What is the straight-line distance between the following two locations? (Unit is km)
+1. جبخانة محمد علي. Detailed address: شارع خالد بن الوليد, المعادى, خرطة الشيخ مبارك, القاهرة, 11666, مصر
+2. إدارة النوادي والفنادق للقوات المسلحة. Detailed address: 19, شارع ابن حوقل, Raba'a El Adaweyya, رابعه العدويه, مدينة نصر, القاهرة, 11759, مصر"
+232,8.6,12.58,B,17.22,20.14,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ADNOC. Detailed address: شارع عبد القادر طه, مساكن نيركو, القاهرة, 11742, مصر
+2. منفذ بيع منتجات القوات المسلحة. Detailed address: طريق كفر طهرمس, كفر طهرمس, الجيزة, 12623, مصر"
+233,8.18,14.52,B,21.85,11.44,"What is the straight-line distance between the following two locations? (Unit is km)
+1. السيدة حفصة. Detailed address: شارع شمس الدين الذهبي, El Golf, مدينة نصر, القاهرة, 11736, مصر
+2. باب الحديد. Detailed address: 19, شارع 233, مساكن نيركو, الفاروقية, القاهرة, 11728, مصر"
+234,12.48,8.1,A,16.61,10.87,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مرور الشرطة العسكرية. Detailed address: شارع جمال الدين الافغانى, الجيزة, 12551, مصر
+2. المجالس الطبية. Detailed address: شارع المستشفى, الحى 6, ثان مدينة نصر, القاهرة, 11717, مصر"
+235,19.93,11.41,D,10.13,13.84,"What is the straight-line distance between the following two locations? (Unit is km)
+1. HSBC. Detailed address: شارع نادي الصيد, المهندسين, الجيزة, 12615, مصر
+2. Shawermer. Detailed address: شارع السيد الميرغنى, Heliopolis, مصر الجديدة, القاهرة, 11736, مصر"
+236,11.9,9.93,D,15.87,14.33,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Monoplay. Detailed address: شارع ابو بكر الصديق, مصر الجديدة, القاهرة, 11361, مصر
+2. le Chateau; le Chalet - Swiss Restaurant. Detailed address: شارع النيل, الدقى, الجيزة, 12612, مصر"
+237,2.22,5.03,B,10.82,9.36,"What is the straight-line distance between the following two locations? (Unit is km)
+1. محمد ابوزهره. Detailed address: شارع عمر طوسون, ميت عقبة, الجيزة, 12658, مصر
+2. مار مينا. Detailed address: شارع مينا, زينهم, السيدة زينب, القاهرة, 11562, مصر"
+238,13.62,19.44,A,18.93,6.52,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Church of Christ كنيسة المسيح. Detailed address: شارع غينيا, Heliopolis, مصر الجديدة, القاهرة, 11737, مصر
+2. Gold's Gym. Detailed address: شارع دمشق, ميت عقبة, الجيزة, 13211, مصر"
+239,16.53,19.29,B,17.38,12.34,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مدرسة سمبيات ابيولا. Detailed address: شارع اسماعيل وهبه, Ninth Area, مدينة نصر, القاهرة, 11762, مصر
+2. مكتب بريد نزلة الاشطر. Detailed address: شارع البوسطه, الجيزة, 12876, مصر"
+240,21.5,19.26,B,12.98,21.13,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ليالينا. Detailed address: طريق كفر طهرمس, كفر طهرمس, الجيزة, 12623, مصر
+2. ملك الفروله. Detailed address: 121, شارع ابراهيم عبد الرازق, عين شمس, القاهرة, 11777, مصر"
+241,9.06,22.63,D,18.7,15.95,"What is the straight-line distance between the following two locations? (Unit is km)
+1. برج الجزيرة2. Detailed address: 24, طريق مصر حلوان الزراعي, المعادى, القاهرة, 11728, مصر
+2. مسجد محمد عمران. Detailed address: 1, شارع محمد عمران, إمبابة, وراق الحضر, الجيزة, 12662, مصر"
+242,11.6,9.86,A,6.0,9.31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. جامعة الدول العربية. Detailed address: شارع التحرير, الإسماعيلية, باب اللوق, القاهرة, 11519, مصر
+2. مدرسة النصر. Detailed address: شارع هارون الرشيد, مصر الجديدة, القاهرة, 11757, مصر"
+243,15.23,16.25,B,18.87,9.6,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Arab Investment Bank. Detailed address: شارع 206, القاهرة, 11431, مصر
+2. HSBC BANK فرع الحجاز. Detailed address: شارع الحجاز الجانبى, Heliopolis, مصر الجديدة, القاهرة, 11757, مصر"
+244,9.39,5.2,A,2.78,2.1,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Esquina. Detailed address: 15, شارع 81, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر
+2. بنك فيصل الإسلامي. Detailed address: شارع الاهرام, الجيزة, 12555, مصر"
+245,14.17,8.41,A,10.33,18.94,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Option Travel. Detailed address: 12, شارع 278, المعادي الجديدة, القاهرة, 11742, مصر
+2. مركز شباب الساحل. Detailed address: شارع احمد حلمي, عزبة أيوب, منيه السيرج, القاهرة, 11656, مصر"
+246,3.98,8.21,C,1.53,8.71,"What is the straight-line distance between the following two locations? (Unit is km)
+1. حديقة محافظة القاهرة. Detailed address: شارع الجزيره, بولاق, القاهرة, 11111, مصر
+2. El Fouly ENT Clinic دكتور محمود الفولى أنف و أذن. Detailed address: شارع التحرير, الدقى, الجيزة, 12311, مصر"
+247,6.8,2.99,D,6.81,1.56,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dragon House. Detailed address: شارع 82, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر
+2. Awlady Mosque. Detailed address: شارع 206, مساكن نيركو, الفاروقية, القاهرة, 11431, مصر"
+248,8.37,4.42,C,1.42,2.62,"What is the straight-line distance between the following two locations? (Unit is km)
+1. الشركة الدولية للخدمات البريدية ايجى سيرف الفرع الرئيسى. Detailed address: شارع جول جمال, العجوزة, الجيزة, 12411, مصر
+2. coffee bean. Detailed address: شارع الملك الافضل, ابو الفدا, السبتية, القاهرة, 11561, مصر"
+249,14.45,16.08,A,7.85,17.38,"What is the straight-line distance between the following two locations? (Unit is km)
+1. El Fouly ENT Clinic دكتور محمود الفولى أنف و أذن. Detailed address: شارع التحرير, الدقى, الجيزة, 12311, مصر
+2. ليالي زمان. Detailed address: إمتداد شارع ابو داوود الظاهري, ديار النادي الاهلى, Eastren Sixth Area, مدينة نصر, القاهرة, 11391, مصر"
+250,13.6,17.02,A,17.18,5.9,"What is the straight-line distance between the following two locations? (Unit is km)
+1. الجامعة المصرية الصينية فرع مدينة نصر. Detailed address: 39, شارع مساكن النقابات, مساكن الطوب الرملى, مدينة نصر, القاهرة, 11765, مصر
+2. Gomhouria Pharmacy. Detailed address: شارع 26 يوليو, الجبلايه, السبتية, القاهرة, 11211, مصر"
+251,18.51,8.87,D,12.29,10.61,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد الحمد. Detailed address: 352, شارع النافوره, المقطم, القاهرة, 11571, مصر
+2. سنترال الوراق. Detailed address: 13, شارع ترعه السواحل, المنيره الشرقيه, إمبابة, وراق الحضر, الجيزة, 12662, مصر"
+252,9.11,10.48,A,15.61,15.54,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Vasko. Detailed address: 11A, شارع 213, مساكن نيركو, الفاروقية, القاهرة, 11728, مصر
+2. عيادة كريم سعيد. Detailed address: شارع الديوان, جاردن سيتى, السيدة زينب, القاهرة, 11562, مصر"
+253,8.39,12.64,D,6.47,10.57,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pizza Hut. Detailed address: شارع طلعت حرب, معروف, باب اللوق, القاهرة, 11956, مصر
+2. Bank ABC. Detailed address: شارع لومومبا, Heliopolis, مصر الجديدة, القاهرة, 11736, مصر"
+254,14.84,16.78,D,17.3,9.72,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gad. Detailed address: شارع جوهر القائد, الأزهر, الغورية, القاهرة, 11261, مصر
+2. محل فرحات للحمام. Detailed address: شارع الشهيد محمد مصطفى كاريكا, ديار النادي الاهلى, Eastren Sixth Area, مدينة نصر, القاهرة, 11391, مصر"
+255,13.35,10.43,C,5.63,2.88,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد كلية الطب. Detailed address: شارع السرايا, المنيل الغربي, المنيل, القاهرة, 11562, مصر
+2. Car's ferry. Detailed address: شارع كورنيش النيل, القاهرة, 11745, مصر"
+256,10.33,1.17,D,3.13,8.57,"What is the straight-line distance between the following two locations? (Unit is km)
+1. معدية المعادي. Detailed address: شارع المعديه, منيل شيحا, الجيزة, 12912, مصر
+2. عيادة ذا آرك البيطرية. Detailed address: 14, شارع الدكتور مصطفي الديواني, جاردن سيتى, السيدة زينب, القاهرة, 11519, مصر"
+257,1.71,5.43,B,6.93,1.74,"What is the straight-line distance between the following two locations? (Unit is km)
+1. صيدلية. Detailed address: شارع علي حسن, مساكن الزاويه الحمراء, القاهرة, 11659, مصر
+2. Coffee Bar. Detailed address: شارع محمد مظهر, محمد مظهر, السبتية, القاهرة, 11568, مصر"
+258,18.62,8.41,D,20.31,15.06,"What is the straight-line distance between the following two locations? (Unit is km)
+1. عربياتا شبراوي. Detailed address: شارع ابراهيم, Heliopolis, مصر الجديدة, القاهرة, 11737, مصر
+2. Gaya. Detailed address: 41, شارع 231, مساكن نيركو, الفاروقية, القاهرة, 11728, مصر"
+259,13.33,11.25,B,4.11,7.41,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مكتب بريد نزلة الاشطر. Detailed address: شارع البوسطه, الجيزة, 12876, مصر
+2. Burger King. Detailed address: الطريق الدائري, المعادي الجديدة, القاهرة, 11742, مصر"
+260,6.9,11.63,A,2.77,12.78,"What is the straight-line distance between the following two locations? (Unit is km)
+1. نقابة التجاريين بالقاهرة. Detailed address: 30, شارع رمسيس, عرابى التوفقية, الظاهر, القاهرة, 11574, مصر
+2. القرصاية. Detailed address: شارع سيف النصر, الجيزة, 12516, مصر"
+261,2.6,4.64,C,6.07,10.18,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد القدس. Detailed address: شارع 9, الصعيد, المقطم, القاهرة, 11571, مصر
+2. ريجوليتو. Detailed address: 17, شارع 233, مساكن نيركو, الفاروقية, القاهرة, 11728, مصر"
+262,4.69,3.72,C,11.28,16.43,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مطار ألماظة. Detailed address: شارع فتحي القشلان, Heliopolis, القاهرة, 11834, مصر
+2. مسجد الحمد. Detailed address: 352, شارع النافوره, المقطم, القاهرة, 11571, مصر"
+263,2.54,6.8,C,9.91,14.7,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Natural. Detailed address: شارع النهضه, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر
+2. Al Hamra Street. Detailed address: شارع محمد صبري ابو علم, باب اللوق, باب اللوق, القاهرة, 11513, مصر"
+264,22.66,18.32,B,13.78,20.37,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gaya. Detailed address: 41, شارع 231, مساكن نيركو, الفاروقية, القاهرة, 11728, مصر
+2. مركز شباب ناصر المطور. Detailed address: شارع خلف مصانع ناروبين, مساكن نوبار, بهتيم, شبرا الخيمة, القليوبية, 13772, مصر"
+265,9.13,9.45,D,8.75,12.6,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد الريس. Detailed address: شارع ترعه الهواري, مسطرد, شبرا الخيمة, القليوبية, 11871, مصر
+2. ڤيلا الدكتور عصمت الهواري. Detailed address: شارع 83, الشرق للتأمين, القاهرة, 11571, مصر"
+266,2.8,5.05,A,7.81,10.69,"What is the straight-line distance between the following two locations? (Unit is km)
+1. EDBE BANK البنك المصرى لتنميةالصادرات فرع الزمالك. Detailed address: شارع سريلانكا, السبتية, القاهرة, 11211, مصر
+2. حضانة بيبي هاوس للغات. Detailed address: 14, شارع أبو دنيا, كيت كات, الجيزة, 12668, مصر"
+267,2.91,7.13,B,4.24,10.46,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Wataneya Fuel Station. Detailed address: شارع سور دار الدفاع الجوي, مساكن كليه البنات, El Golf, مدينة نصر, القاهرة, 11371, مصر
+2. أكاديمية النزهة الجديده للمساحة ونظم المعلومات. Detailed address: شارع محمد السادات, القاهرة, 11595, مصر"
+268,3.88,14.85,C,9.65,2.25,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Abou El Sid Restaurant. Detailed address: شارع اسحاق يعقوب, محمد مظهر, السبتية, القاهرة, 11211, مصر
+2. كلية طب الأسنان. Detailed address: طريق النصر, منطقه السينما, مدينة نصر, القاهرة, 11759, مصر"
+269,15.05,21.07,A,7.44,19.68,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cairo War Memorial Cemetery-مقابر هليوبوليس العسكريه. Detailed address: شارع جبانه مسلمه, الانور وعشش البارود, المنيل, القاهرة, 11554, مصر
+2. 4 Mohamed Salamah. Detailed address: 8, شارع محمد سلامة, عين شمس, القاهرة, 11772, مصر"
+270,10.35,23.23,C,16.59,12.73,"What is the straight-line distance between the following two locations? (Unit is km)
+1. برغر دجوينت. Detailed address: شارع 250, المعادى, الفاروقية, القاهرة, 11431, مصر
+2. شركة ملوك الشحن. Detailed address: 20, شارع عشره, إمبابة, وراق الحضر, الجيزة, 12662, مصر"
+271,2.7,10.02,A,5.8,9.19,"What is the straight-line distance between the following two locations? (Unit is km)
+1. صيدلية فاتن. Detailed address: 86, شارع فؤاد عبد الحكيم الجمال, منطقه السينما, مدينة نصر, القاهرة, 11759, مصر
+2. مدرسة جمال عبد الناصر التجريبية. Detailed address: 118, شارع محمد فريد ابو حديد, Seventh Area, منطقة 7, مدينة نصر, القاهرة, 11765, مصر"
+272,0.77,8.04,B,12.67,15.97,"What is the straight-line distance between the following two locations? (Unit is km)
+1. شركة ملوك الشحن. Detailed address: 20, شارع عشره, إمبابة, وراق الحضر, الجيزة, 12662, مصر
+2. Mosque Of Al Maraa Fatima Shaqra. Detailed address: شارع احمد ماهر, تحت الربع, ميدان باب الخلق, القاهرة, 11639, مصر"
+273,8.32,7.67,C,10.58,3.46,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Charming Clinic. Detailed address: 69, شارع 9, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر
+2. ادارة الاعمال المصغر. Detailed address: شارع مصدق, الدقى, الجيزة, 12311, مصر"
+274,15.53,11.68,C,8.15,3.04,"What is the straight-line distance between the following two locations? (Unit is km)
+1. حديقة الحوض المرصود. Detailed address: 18, شارع محمد ابو الدهب, درب الجماميز, السيدة زينب, القاهرة, 11622, مصر
+2. Beano's. Detailed address: 26, شارع 10, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر"
+275,9.77,7.15,C,5.2,6.68,"What is the straight-line distance between the following two locations? (Unit is km)
+1. St Antony Church, Shoubra كنيسة الأنبا أنطونيوس شبرا. Detailed address: 23, شارع دانيال ميخائيل, الترعه البولاقيه, الظاهر, القاهرة, 11627, مصر
+2. Athletix. Detailed address: شارع اسماعيل الفنجري, ثان مدينة نصر, القاهرة, 11153, مصر"
+276,7.32,3.53,D,6.24,1.27,"What is the straight-line distance between the following two locations? (Unit is km)
+1. HSBC BANK فرع الحجاز. Detailed address: شارع الحجاز الجانبى, Heliopolis, مصر الجديدة, القاهرة, 11757, مصر
+2. عربياتا شبراوي. Detailed address: شارع ابراهيم, Heliopolis, مصر الجديدة, القاهرة, 11737, مصر"
+277,3.57,8.74,A,6.99,8.85,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد الرحمة. Detailed address: شارع علي امين, مدينة نصر, القاهرة, 11765, مصر
+2. بيت محمد عبد الفتاح محسن بدوي. Detailed address: 54, شارع الثوره, Heliopolis, القاهرة, 11736, مصر"
+278,7.36,5.76,C,9.26,3.18,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Peking. Detailed address: شارع الاطباء, المهندسين, الجيزة, 12615, مصر
+2. دار المقطم. Detailed address: شارع 14, المقطم, القاهرة, 11575, مصر"
+279,9.18,3.89,D,5.16,6.71,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد سيدى إبن عطاء الله السكندري. Detailed address: شارع إمام عطالله, الخليفة, القاهرة, 11575, مصر
+2. مجمع الملك فهد الرسمي للغات. Detailed address: شارع الخليفه القاهر, الحى 7, ثان مدينة نصر, القاهرة, 11717, مصر"
+280,16.01,22.84,A,22.1,11.16,"What is the straight-line distance between the following two locations? (Unit is km)
+1. كافيتريا راهندا. Detailed address: شارع الشيخ حازم صلاح, عمارات اطلس, Eastren Sixth Area, مدينة نصر, القاهرة, 11391, مصر
+2. Virgin Mary Church. Detailed address: شارع الانصار, بين السرايات, الجيزة, 12624, مصر"
+281,7.38,3.76,D,2.78,1.34,"What is the straight-line distance between the following two locations? (Unit is km)
+1. قسم شرطة الجيزة. Detailed address: حارة الخليليه, الجيزة, 12513, مصر
+2. مسجد التوحيد. Detailed address: شارع صلاح سالم, الجيزة, 12517, مصر"
+282,19.15,9.05,C,12.76,7.93,"What is the straight-line distance between the following two locations? (Unit is km)
+1. أحمد مرسي مصطفى. Detailed address: 69, شارع 9, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر
+2. الجامعة المصرية الصينية فرع مدينة نصر. Detailed address: 39, شارع مساكن النقابات, مساكن الطوب الرملى, مدينة نصر, القاهرة, 11765, مصر"
+283,14.19,11.48,C,16.4,14.16,"What is the straight-line distance between the following two locations? (Unit is km)
+1. الملكة. Detailed address: شارع جسر السويس, قباء, القاهرة, 11595, مصر
+2. نادي الصيد - القطامية. Detailed address: شارع ابو بكر الصديق, معادي جاردنز, القاهرة, 11771, مصر"
+284,13.81,14.5,D,9.51,16.03,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Villa Wafaq Hanim. Detailed address: 4L, شارع محمد السباعى, القاهرة, 11843, مصر
+2. وزارة الداخلية. Detailed address: شارع الشيخ ريحان, الجزيره الجديده, باب اللوق, القاهرة, 11613, مصر"
+285,3.59,2.35,A,5.31,11.01,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Coffeeshop Company. Detailed address: شارع مصطفى رفعت, بلوك 1146, Sheraton, القاهرة, 11361, مصر
+2. VIKING. Detailed address: شارع عمر بن الخطاب, Heliopolis, مصر الجديدة, القاهرة, 11736, مصر"
+286,14.57,16.56,A,22.46,7.38,"What is the straight-line distance between the following two locations? (Unit is km)
+1. حسن حسين أحمد. Detailed address: 69, شارع 9, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر
+2. مستشفى الكبد د يس عبد الغفار الخيرية. Detailed address: شارع لوساكا, Sixth Area, مدينة نصر, القاهرة, 11391, مصر"
+287,10.0,7.63,B,6.0,11.65,"What is the straight-line distance between the following two locations? (Unit is km)
+1. نادي الصيد - القطامية. Detailed address: شارع ابو بكر الصديق, معادي جاردنز, القاهرة, 11771, مصر
+2. سنترال المعادي 1. Detailed address: 55, شارع 7, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر"
+288,5.65,6.95,C,2.69,5.96,"What is the straight-line distance between the following two locations? (Unit is km)
+1. كنيسة مصرالجديدة الإنجيلية. Detailed address: شارع كيلوباترا, Heliopolis, مصر الجديدة, القاهرة, 11737, مصر
+2. الوطنيه. Detailed address: 86, شارع سليم الاول, عين شمس, القاهرة, 11718, مصر"
+289,5.4,12.94,A,9.27,8.31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. BLOM Bank Egypt. Detailed address: شارع ابو الفدا, ابو الفدا, السبتية, القاهرة, 12653, مصر
+2. مسجد الحاجة رقية. Detailed address: 4, شارع محمد صدقي الشافعي, المنيل الشرقي, مصر القديمة, القاهرة, 11553, مصر"
+290,4.42,6.63,D,3.53,9.51,"What is the straight-line distance between the following two locations? (Unit is km)
+1. saib Bank - Mesaha Branch. Detailed address: شارع المساحه, الدقى, الجيزة, 12612, مصر
+2. برغر دجوينت. Detailed address: شارع 250, المعادى, الفاروقية, القاهرة, 11431, مصر"
+291,12.89,10.75,B,15.04,14.84,"What is the straight-line distance between the following two locations? (Unit is km)
+1. الشركة المصرية القابضة للغاز. Detailed address: 1, شارع الدكتور انور المفتي, Al Manteqah Al Oula, مدينة نصر, القاهرة, 11765, مصر
+2. جمعية دار الهنا لرعاية الأيتام. Detailed address: شارع 2, عين الصيرة, القاهرة, 11654, مصر"
+292,10.04,6.97,D,11.18,4.73,"What is the straight-line distance between the following two locations? (Unit is km)
+1. الحق. Detailed address: امتداد شارع عباس العقاد, مساكن كليه البنات, El Golf, مدينة نصر, القاهرة, 11371, مصر
+2. مستشفى مصر الجديدة العسكرى. Detailed address: شارع جسر السويس, حلميه النعام, حدائق الزيتون, القاهرة, 11777, مصر"
+293,9.43,7.72,A,11.0,12.53,"What is the straight-line distance between the following two locations? (Unit is km)
+1. كافتريا المنيرة. Detailed address: شارع نوبار, خيرت, السيدة زينب, القاهرة, 11617, مصر
+2. سينما طيبة مول. Detailed address: 75, طريق النصر, منطقه السينما, مدينة نصر, القاهرة, 11765, مصر"
+294,18.25,17.54,C,12.87,6.64,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Carrefour CityCentre. Detailed address: شارع الارقم بن ابي الارقم, المعادي الجديدة, القاهرة, 11742, مصر
+2. الحرية. Detailed address: شارع النزهه, مصر الجديدة, القاهرة, 11736, مصر"
+295,1.76,10.67,D,5.26,9.47,"What is the straight-line distance between the following two locations? (Unit is km)
+1. الإدارة العامة لشرطة البيئة والمسطحات. Detailed address: شارع كورنيش النيل, طره الاسمنت, المعادى, طرة, القاهرة, 11917, مصر
+2. Batates & Zalabya. Detailed address: شارع 26 يوليو, محمد مظهر, السبتية, القاهرة, 11211, مصر"
+296,8.94,3.62,B,10.5,10.34,"What is the straight-line distance between the following two locations? (Unit is km)
+1. عيادة دكتور رفيق سليمان. Detailed address: شارع السيد الميرغنى, Heliopolis, الزيتون, القاهرة, 11737, مصر
+2. كلية العلوم. Detailed address: طريق النصر, ثان مدينة نصر, القاهرة, 11759, مصر"
+297,11.18,3.11,D,13.14,8.18,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Flying Fish. Detailed address: شارع كورنيش النيل, العجوزة, الجيزة, 12611, مصر
+2. Private Ferry Terminal. Detailed address: شارع النيل, الجيزة, 12524, مصر"
+298,18.55,22.98,A,24.56,24.31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. أكاديمية النزهة الجديده للمساحة ونظم المعلومات. Detailed address: شارع محمد السادات, القاهرة, 11595, مصر
+2. saib Bank - Mesaha Branch. Detailed address: شارع المساحه, الدقى, الجيزة, 12612, مصر"
+299,12.22,4.31,A,10.63,19.23,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Advanced business systems. Detailed address: 8, شارع الغيث, العجوزة, الجيزة, 12654, مصر
+2. مودرن هندسة. Detailed address: Modern Academy Engineering, شارع احمد صلاح, الحى 5, القاهرة, 11571, مصر"
+300,4.04,6.54,C,0.93,6.82,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ام كلثوم. Detailed address: شارع رابعة العدوية الاستثمارى, El Golf, مدينة نصر, القاهرة, 11371, مصر
+2. البنك الاهلي المصري. Detailed address: شارع محمد حسين هيكل, Sixth Area, مدينة نصر, القاهرة, 11765, مصر"
+301,10.31,14.79,D,11.44,12.69,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد المصطفى. Detailed address: شارع الحاج صابر موسي, ساقية مكي, الجيزة, 12517, مصر
+2. كلية الصيدلة. Detailed address: طريق النصر, منطقه السينما, مدينة نصر, القاهرة, 11759, مصر"
+302,8.82,1.59,B,4.37,7.05,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mosque Of Al Maraa Fatima Shaqra. Detailed address: شارع احمد ماهر, تحت الربع, ميدان باب الخلق, القاهرة, 11639, مصر
+2. Café Al Bustan. Detailed address: ممر البستان السعيدي, باب اللوق, باب اللوق, القاهرة, 11513, مصر"
+303,14.05,8.17,B,3.54,9.22,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Domino's. Detailed address: 12`, شارع الدكتور احمد مصطفى, القاهرة, 11843, مصر
+2. كلية التجارة. Detailed address: طريق النصر, منطقه السينما, مدينة نصر, القاهرة, 11759, مصر"
+304,4.5,14.67,C,9.54,15.04,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Go Bus. Detailed address: طريق النصر, ثان مدينة نصر, القاهرة, 11153, مصر
+2. لاڤا كافيه. Detailed address: شارع 268, المعادي الجديدة, القاهرة, 11634, مصر"
+305,11.28,9.91,A,15.02,5.94,"What is the straight-line distance between the following two locations? (Unit is km)
+1. El Dayaa Lebanese Restaurant. Detailed address: شارع 231, مساكن نيركو, الفاروقية, القاهرة, 11431, مصر
+2. نادي السكة الحديد. Detailed address: طريق النصر, امتداد رمسيس 2, ثان مدينة نصر, القاهرة, 11759, مصر"
+306,2.67,12.95,D,10.8,9.51,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Faculty of Pharmacy MTI. Detailed address: شارع احمد زغلول, الحى 6, القاهرة, 11571, مصر
+2. Fatatri At Tahrir. Detailed address: 2, شارع التحرير, باب اللوق, عابدين, القاهرة, 11513, مصر"
+307,8.5,14.45,A,10.45,9.72,"What is the straight-line distance between the following two locations? (Unit is km)
+1. العربي الأفريقي. Detailed address: 33, شارع ابو داوود الظاهري, Sixth Area, مدينة نصر, القاهرة, 11765, مصر
+2. مطار القاهرة الدولى (CAI). Detailed address: شارع العروبه, القاهرة, 11773, مصر"
+308,18.62,15.54,C,13.18,17.7,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Wahy. Detailed address: 19, شارع 233, مساكن نيركو, الفاروقية, القاهرة, 11728, مصر
+2. Wataneya. Detailed address: شارع احمد عرابى, ميت عقبة, الجيزة, 12658, مصر"
+309,16.39,19.68,B,17.68,24.76,"What is the straight-line distance between the following two locations? (Unit is km)
+1. صيدلية نور الإسلام. Detailed address: 17, شارع الوحده, طناش, الجيزة, 12981, مصر
+2. حسن الصويني. Detailed address: 69, شارع 9, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر"
+310,19.71,19.32,C,14.34,8.0,"What is the straight-line distance between the following two locations? (Unit is km)
+1. صيدلية العزبي. Detailed address: 1, شارع العريف عبد المنعم, Masaken Al Mohandesin, مساكن المهندسين, مدينة نصر, القاهرة, 11765, مصر
+2. Peak A Boo. Detailed address: شارع 213, الفاروقية, القاهرة, 11431, مصر"
+311,7.15,14.75,B,7.52,18.75,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مركز د. ماجد العزب للعلاج الطبيعي. Detailed address: شارع ناصر الثوره, الجيزة, 12555, مصر
+2. El Shemy. Detailed address: شارع محمود طلعت, El Sharekat, الشركات, مدينة نصر, القاهرة, 11759, مصر"
+312,2.28,4.35,C,8.78,6.42,"What is the straight-line distance between the following two locations? (Unit is km)
+1. احباب المصطفى. Detailed address: 8588, الاحياء, القاهرة, 11571, مصر
+2. مستشفيات جامعة القاهرة. Detailed address: شارع السرايا, المنيل الغربي, المنيل, القاهرة, 11451, مصر"
+313,3.59,8.65,A,5.55,1.68,"What is the straight-line distance between the following two locations? (Unit is km)
+1. معمل د.إيليا أنيس إسحق. Detailed address: شارع رمسيس, الجياره, الظاهر, القاهرة, 11523, مصر
+2. عيادة العلاج الطبيغى. Detailed address: مستشفيات جامعة القاهرة, شارع السرايا, المنيل الغربي, المنيل, القاهرة, 11451, مصر"
+314,15.86,9.18,C,11.11,10.03,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Hamra Street. Detailed address: شارع محمد صبري ابو علم, باب اللوق, باب اللوق, القاهرة, 11513, مصر
+2. Rahma Mosque. Detailed address: 48, شارع الشهيد عبد المنعم حافظ, Heliopolis, القاهرة, 11736, مصر"
+315,15.61,12.08,D,10.8,13.2,"What is the straight-line distance between the following two locations? (Unit is km)
+1. صيدلية دكتور مكرم. Detailed address: شارع مكرم عبيد, Sixth Area, مدينة نصر, القاهرة, 11391, مصر
+2. Echo Club. Detailed address: 2, شارع جامعه الدول العربيه, العجوزة, الجيزة, 12654, مصر"
+316,12.37,8.17,B,1.5,14.85,"What is the straight-line distance between the following two locations? (Unit is km)
+1. نورماندي. Detailed address: شارع الصباغ, Heliopolis, مصر الجديدة, القاهرة, 11737, مصر
+2. معمل د.إيليا أنيس إسحق. Detailed address: شارع رمسيس, الجياره, الظاهر, القاهرة, 11523, مصر"
+317,14.58,12.14,D,5.86,8.46,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد النصر / مستورا. Detailed address: شارع 9, الشرق للتأمين, المقطم, القاهرة, 11571, مصر
+2. Misr. Detailed address: شارع القصر العيني, الانشا والمنيره, باب اللوق, القاهرة, 11241, مصر"
+318,14.91,17.57,C,9.97,3.3,"What is the straight-line distance between the following two locations? (Unit is km)
+1. المصرف المتحد. Detailed address: 89, شارع 9, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر
+2. Pizza Hut. Detailed address: شارع طلعت حرب, معروف, باب اللوق, القاهرة, 11956, مصر"
+319,13.41,21.02,C,15.67,10.83,"What is the straight-line distance between the following two locations? (Unit is km)
+1. دار الزهروان. Detailed address: 4, شارع الشهيد اسماعيل فهمي, Heliopolis, مصر الجديدة, القاهرة, 11736, مصر
+2. Arab Investment Bank. Detailed address: شارع 206, القاهرة, 11431, مصر"
+320,3.2,4.43,A,4.34,0.79,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fatatri At Tahrir. Detailed address: 2, شارع التحرير, باب اللوق, عابدين, القاهرة, 11513, مصر
+2. Snow Cafe. Detailed address: شارع المحروسه, العجوزة, الجيزة, 12658, مصر"
+321,6.07,14.18,C,10.91,17.01,"What is the straight-line distance between the following two locations? (Unit is km)
+1. د. ملك نادر. Detailed address: شارع مصطفي النحاس, مدينة نصر, القاهرة, 11762, مصر
+2. كافيه المحروسه. Detailed address: شارع راتب باشا, اسعد, القاهرة, 11697, مصر"
+322,10.49,15.51,B,18.09,23.09,"What is the straight-line distance between the following two locations? (Unit is km)
+1. سينما الطفل. Detailed address: شارع نخله المطيعى, مصر الجديدة, القاهرة, 11757, مصر
+2. جامعة القاهرة. Detailed address: شارع السودان, مساكن العرايس, بين السرايات, الجيزة, 13211, مصر"
+323,7.61,3.92,C,6.08,3.93,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gomhouria Pharmacy. Detailed address: شارع 26 يوليو, الجبلايه, السبتية, القاهرة, 11211, مصر
+2. مركز شباب منشأة ناصر. Detailed address: حارة ابو جازيه, منشية ناصر, القاهرة, 11695, مصر"
+324,1.76,6.51,B,9.98,4.47,"What is the straight-line distance between the following two locations? (Unit is km)
+1. إدارة النوادي والفنادق للقوات المسلحة. Detailed address: 19, شارع ابن حوقل, Raba'a El Adaweyya, رابعه العدويه, مدينة نصر, القاهرة, 11759, مصر
+2. مسجد الرياض. Detailed address: 9, شارع صبحي حسين, الصعيد, القاهرة, 11585, مصر"
+325,6.52,6.53,C,0.96,5.51,"What is the straight-line distance between the following two locations? (Unit is km)
+1. coffee bean. Detailed address: شارع الملك الافضل, ابو الفدا, السبتية, القاهرة, 11561, مصر
+2. Abou El Sid Restaurant. Detailed address: شارع اسحاق يعقوب, محمد مظهر, السبتية, القاهرة, 11211, مصر"
+326,5.03,11.58,B,6.25,8.16,"What is the straight-line distance between the following two locations? (Unit is km)
+1. جامايكا. Detailed address: شارع شريف الصقر, باب اللوق, باب اللوق, القاهرة, 42801, مصر
+2. Advanced Technical School. Detailed address: شارع الشهيد محمد مصطفى كاريكا, عمارات الشرارة, مدينة نصر, القاهرة, 11391, مصر"
+327,11.91,8.87,B,7.39,14.16,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مجمع الملك فهد الرسمي للغات. Detailed address: شارع الخليفه القاهر, الحى 7, ثان مدينة نصر, القاهرة, 11717, مصر
+2. Casablanca. Detailed address: 1, شارع احمد عبد النبى, القاهرة, 11843, مصر"
+328,16.73,13.61,D,15.1,9.7,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مصر للبترول. Detailed address: طريق النصر, مدينة نصر, القاهرة, 11371, مصر
+2. Carrefour CityCentre. Detailed address: شارع الارقم بن ابي الارقم, المعادي الجديدة, القاهرة, 11742, مصر"
+329,8.52,11.49,B,4.34,8.75,"What is the straight-line distance between the following two locations? (Unit is km)
+1. حى مصر الجديدة. Detailed address: شارع احمد على حسين, مصر الجديدة, القاهرة, 11757, مصر
+2. جامعة الدول العربية. Detailed address: شارع التحرير, الإسماعيلية, باب اللوق, القاهرة, 11519, مصر"
+330,12.04,3.57,C,9.27,16.2,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد قبة الصخرة. Detailed address: شارع الرضا و النور, Parcel 8547, القاهرة, 11571, مصر
+2. كشري أبو طارق. Detailed address: 40, شارع شمبليون, معروف, الأزبكية, القاهرة, 11956, مصر"
+331,1.73,3.29,C,6.58,12.22,"What is the straight-line distance between the following two locations? (Unit is km)
+1. التجاري وفا بنك. Detailed address: شارع قصر النيل, الفواله, باب اللوق, القاهرة, 42801, مصر
+2. Church users' ferry terminal. Detailed address: كوبري محور المنيب, الجيزة, 12524, مصر"
+332,6.23,11.55,D,2.1,3.95,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مكتبة مصر العامة. Detailed address: 2, شارع الطحاويه, الدقى, الجيزة, 12612, مصر
+2. عمارات البترول. Detailed address: شارع الانشراح الكبير, ميت عقبة, الجيزة, 12658, مصر"
+333,18.67,6.11,C,10.76,13.52,"What is the straight-line distance between the following two locations? (Unit is km)
+1. البنك الأهلي المصري (فرع التوفيقية). Detailed address: شارع رمسيس, عرابى التوفقية, الظاهر, القاهرة, 11523, مصر
+2. 6 Moahmed Salamah. Detailed address: 5, شارع محمد سلامة, عين شمس, القاهرة, 11772, مصر"
+334,11.31,8.12,A,12.37,3.83,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Koshary Goha. Detailed address: 4, شارع عماد الدين, عرابى التوفقية, الأزبكية, القاهرة, 11574, مصر
+2. ADNOC. Detailed address: شارع عبد القادر طه, مساكن نيركو, القاهرة, 11742, مصر"
+335,6.43,2.01,C,9.39,2.0,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Crédit Agricole. Detailed address: شارع مصطفى كامل, الفاروقية, القاهرة, 11431, مصر
+2. عيادة الباطنة و عيادة جراحة مخ و اعصاب. Detailed address: العيادات الخارجية, شارع السرايا, المنيل الغربي, المنيل, القاهرة, 11562, مصر"
+336,9.12,11.72,D,11.92,6.9,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Snow Cafe. Detailed address: شارع المحروسه, العجوزة, الجيزة, 12658, مصر
+2. قصر الثقافه. Detailed address: شارع اليابان, الجيزة, 12551, مصر"
+337,7.79,3.82,A,3.95,12.06,"What is the straight-line distance between the following two locations? (Unit is km)
+1. نقطة شرطة طولون. Detailed address: شارع احمد بن طولون, مساكن الجيش, الكبش, السيدة زينب, القاهرة, 11797, مصر
+2. Samia Alouba. Detailed address: Lychee, شارع 254, مساكن نيركو, الفاروقية, القاهرة, 11431, مصر"
+338,18.87,14.78,B,19.87,11.77,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مدرسة عمر بن الخطاب الرسمية للغات. Detailed address: 78, شارع عمر بن الخطاب, Heliopolis, مصر الجديدة, القاهرة, 11736, مصر
+2. Sydlet Dr sherif al akad. Detailed address: 4, شارع قرة بن شريك, الجيزة, 12513, مصر"
+339,18.67,12.11,B,16.55,6.34,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد أحمد المهمندار. Detailed address: شارع باب الوزير, الدرب الاحمر, الدرب الأحمر, القاهرة, 11639, مصر
+2. Tanash B-Tech Park. Detailed address: شارع كورنيش النيل, سقيل, الجيزة, 12992, مصر"
+340,5.48,3.41,A,9.43,9.06,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسرح نجم. Detailed address: شارع الدقى, الدقى, الجيزة, 12611, مصر
+2. صيدليه الشنهاب. Detailed address: شارع الملك فيصل, كوم الأخضر, الجيزة, 12111, مصر"
+341,8.54,10.15,B,6.84,14.5,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مدرسة المقريزى. Detailed address: 4`, شارع الخليفه المأمون, Heliopolis, الوايلى, الدمرداش, القاهرة, 11774, مصر
+2. مسجد عبد الله مكاوي. Detailed address: شارع جهينه, الدقى, الجيزة, 12612, مصر"
+342,5.26,2.58,D,5.48,7.07,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مكتب بريد العبور. Detailed address: طريق القاهره, اسكندريه الزراعى القديم, مدينه شبرا الخيمه, شبرا الخيمة, القليوبية, 13766, مصر
+2. Gad. Detailed address: شارع جوهر القائد, الأزهر, الغورية, القاهرة, 11261, مصر"
+343,9.28,5.76,D,8.75,2.44,"What is the straight-line distance between the following two locations? (Unit is km)
+1. رواد تصحيح الإبصار. Detailed address: شارع سوريا, المهندسين, القاهرة, الجيزة, 13211, مصر
+2. مدرسة دار الطفل زمالك. Detailed address: 3, شارع شفيق منصور, السبتية, القاهرة, 11568, مصر"
+344,15.34,8.33,A,20.01,16.62,"What is the straight-line distance between the following two locations? (Unit is km)
+1. سيتي سنتر ألماظة. Detailed address: طريق النصر, القاهرة, 11834, مصر
+2. Pharoah Egypt Hotel. Detailed address: شارع عمر طوسون, ميت عقبة, الجيزة, 12658, مصر"
+345,1.71,5.34,B,13.24,6.72,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Andiamo. Detailed address: شارع عمر بن الخطاب, Heliopolis, مصر الجديدة, القاهرة, 11736, مصر
+2. محطة بنزين. Detailed address: شارع احمد الزمر, مدينة نصر, القاهرة, 11762, مصر"
+346,11.69,9.21,B,11.13,7.09,"What is the straight-line distance between the following two locations? (Unit is km)
+1. هابي لاند. Detailed address: شارع خاتم المرسلين, مساكن الضباط, الجيزة, 12551, مصر
+2. Crepinto. Detailed address: شارع 233, مساكن نيركو, الفاروقية, القاهرة, 11431, مصر"
+347,21.88,15.29,B,16.95,21.38,"What is the straight-line distance between the following two locations? (Unit is km)
+1. vinzoula park. Detailed address: 23, شارع عبد العاطي, العزب, الشرابية, القاهرة, 11671, مصر
+2. MECC - Maadi Engineering Cars Company;Pottery Cafe. Detailed address: 12, شارع 9, الفاروقية, القاهرة, 11728, مصر"
+348,9.78,12.28,D,6.88,13.67,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مركز خدمة المواطنين بإدارة نوادي وفنادق القوات المسلحة. Detailed address: 19, شارع ابن فضلان, رابعه العدويه, مدينة نصر, القاهرة, 11759, مصر
+2. cultural center. Detailed address: 27, شارع المشتل, بولاق الدكرور, نزلة بهجت, الجيزة, 12621, مصر"
+349,8.69,2.7,A,12.44,1.83,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مستشفيات جامعة القاهرة. Detailed address: شارع السرايا, المنيل الغربي, المنيل, القاهرة, 11451, مصر
+2. embassy;سفارة جمهورية الغابون. Detailed address: 62, شارع القنال, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر"
+350,3.03,8.17,C,0.63,2.31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. شركة شمال القاهره لتوزيع الكهرباء. Detailed address: 3, شارع جمال الدين, El Golf, مدينة نصر, القاهرة, 11765, مصر
+2. مسجد المروة. Detailed address: شارع نبيل الوقاد, El Golf, مدينة نصر, القاهرة, 11736, مصر"
+351,11.06,19.19,C,16.27,22.38,"What is the straight-line distance between the following two locations? (Unit is km)
+1. cultural center. Detailed address: 27, شارع المشتل, بولاق الدكرور, نزلة بهجت, الجيزة, 12621, مصر
+2. بيوت. Detailed address: الطريق الدائري, المعادي الجديدة, القاهرة, 11771, مصر"
+352,2.77,4.67,C,10.48,15.59,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد المروة. Detailed address: شارع نبيل الوقاد, El Golf, مدينة نصر, القاهرة, 11736, مصر
+2. محكمة القاهرة الاقتصادية. Detailed address: شارع حمدي رمضان المصري, المعادي الجديدة, القاهرة, 11742, مصر"
+353,0.56,6.59,A,7.99,5.92,"What is the straight-line distance between the following two locations? (Unit is km)
+1. البنك الأهلى المصرى. Detailed address: 6, شارع عباس العقاد, مدينة نصر, القاهرة, 11765, مصر
+2. الحق. Detailed address: امتداد شارع عباس العقاد, مساكن كليه البنات, El Golf, مدينة نصر, القاهرة, 11371, مصر"
+354,9.67,5.57,A,13.68,7.39,"What is the straight-line distance between the following two locations? (Unit is km)
+1. omkalsoum cafe. Detailed address: 2, شارع سرايا الازبكيه, عرابى التوفقية, الأزبكية, القاهرة, 11574, مصر
+2. Faculty of Pharmacy MTI. Detailed address: شارع احمد زغلول, الحى 6, القاهرة, 11571, مصر"
+355,14.97,22.61,A,13.7,8.17,"What is the straight-line distance between the following two locations? (Unit is km)
+1. حضانة بيبي هاوس للغات. Detailed address: 14, شارع أبو دنيا, كيت كات, الجيزة, 12668, مصر
+2. Jared's Bagels. Detailed address: شارع 233, مساكن نيركو, الفاروقية, القاهرة, 11431, مصر"
+356,6.25,0.93,D,13.34,7.8,"What is the straight-line distance between the following two locations? (Unit is km)
+1. بينوس كافيه. Detailed address: شارع الدكتور حسان ابراهيم, Sixth Area, مدينة نصر, القاهرة, 11391, مصر
+2. 205 عيادة الدكتور أحمد عبدالعزيز أبو زيد/استاذ الجراحة/ جامعة عين شمس. Detailed address: شارع الجيش, الصوابى, السكاكينى, القاهرة, 11558, مصر"
+357,12.61,8.19,A,17.67,4.86,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sydlet Dr sherif al akad. Detailed address: 4, شارع قرة بن شريك, الجيزة, 12513, مصر
+2. CIB. Detailed address: شارع ابو العتاهيه, مدينة نصر, القاهرة, 11765, مصر"
+358,6.7,9.92,B,7.08,12.83,"What is the straight-line distance between the following two locations? (Unit is km)
+1. استاد الهوكي. Detailed address: شارع الاستاد, ثان مدينة نصر, القاهرة, 11153, مصر
+2. Small Masjed. Detailed address: شارع الارقم بن ابي الارقم, المعادي الجديدة, القاهرة, 11742, مصر"
+359,3.1,2.83,D,9.65,6.78,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Crimson Bar & Grill. Detailed address: شارع الموسيقار كمال الطويل, محمد مظهر, السبتية, القاهرة, 12653, مصر
+2. مركز شباب المشابك. Detailed address: شارع الامام حسين, الجيزة, 12549, مصر"
+360,15.73,11.07,A,23.36,10.89,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Awlady Mosque. Detailed address: شارع 206, مساكن نيركو, الفاروقية, القاهرة, 11431, مصر
+2. NEUROMED - Centre de neurochirurgie intégré. Detailed address: 2, شارع الفيوم, Heliopolis, مصر الجديدة, القاهرة, 11341, مصر"
+361,11.87,14.11,C,8.75,4.46,"What is the straight-line distance between the following two locations? (Unit is km)
+1. القاضي يحي زين الدين الزيني. Detailed address: شارع الازهر, كوم الشيخ سلامه, باب الشعرية, القاهرة, 11639, مصر
+2. Kibeida Academy. Detailed address: 35, شارع كابول, Sixth Area, مدينة نصر, القاهرة, 11391, مصر"
+362,5.5,2.84,B,4.5,1.03,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mobil. Detailed address: شارع عبد السلام عارف - البستان سابقا, الإسماعيلية, باب اللوق, القاهرة, 11513, مصر
+2. طابون. Detailed address: شارع ابو الفدا, ابو الفدا, السبتية, القاهرة, 12653, مصر"
+363,19.88,16.41,B,21.7,18.61,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مكتبة مدينة نصر العامة. Detailed address: شارع احمد فخري, عمارات أطلس, Sixth Area, مدينة نصر, القاهرة, 11391, مصر
+2. Ibrahim Al Saqary Street. Detailed address: 8, شارع ابراهيم السقارى, بولاق الدكرور, نزلة بهجت, الجيزة, 12621, مصر"
+364,6.4,1.44,D,3.8,9.15,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد الفتح. Detailed address: شارع خضر التوني, عمارات التوفيق, مدينة نصر, القاهرة, 11759, مصر
+2. Midway. Detailed address: محور الشهيد, مدينة نصر, القاهرة, 11771, مصر"
+365,4.18,10.26,C,7.23,8.91,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ratios Underground. Detailed address: 13A, شارع 231, مساكن نيركو, الفاروقية, القاهرة, 11728, مصر
+2. مار يوسف. Detailed address: شارع كنيسه الموازنه, الكفور وساعي البحر, مصر القديمة, خرطة الشيخ مبارك, القاهرة, 11632, مصر"
+366,13.76,10.14,A,8.56,8.07,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ڤيلا الدكتور عصمت الهواري. Detailed address: شارع 83, الشرق للتأمين, القاهرة, 11571, مصر
+2. 中式餐廳. Detailed address: طريق سقاره السياحى, شبرمنت, الجيزة, 12841, مصر"
+367,5.95,1.64,D,6.81,2.78,"What is the straight-line distance between the following two locations? (Unit is km)
+1. متحف مصطفى كامل. Detailed address: شارع صلاح الدين الشرقي, عرب اليسار, الدرب الأحمر, القاهرة, 11636, مصر
+2. Qasr el Nil Theatre. Detailed address: 8`, شارع قصر النيل, الإسماعيلية, باب اللوق, القاهرة, 11519, مصر"
+368,8.49,17.27,C,9.52,4.35,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مدرسة عبير الإسلام الخاصة. Detailed address: مدرسة الشهيد أحمد تعلب الفندقية للتكنولوجيا التطبيقية, 1, شارع ابن حوقل, Raba'a El Adaweyya, رابعه العدويه, مدينة نصر, القاهرة, 11759, مصر
+2. مجلس المدينة. Detailed address: شارع مجلس المدينه, مدينه شبرا الخيمه, شبرا الخيمة, القليوبية, 13766, مصر"
+369,17.45,14.67,B,21.53,8.19,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد محمد عمران. Detailed address: 1, شارع محمد عمران, إمبابة, وراق الحضر, الجيزة, 12662, مصر
+2. عمارة الصفا. Detailed address: 8722, شارع الدكتور تيمور, الشرق للتأمين, القاهرة, 11571, مصر"
+370,18.31,10.71,C,12.7,5.24,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cook Door. Detailed address: شارع اسماعيل محمد, ابو الفدا, السبتية, القاهرة, 11561, مصر
+2. Sno Gelato. Detailed address: شارع 216, مساكن نيركو, الفاروقية, القاهرة, 11431, مصر"
+371,5.6,3.66,D,15.65,8.97,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مجلس المدينة. Detailed address: شارع مجلس المدينه, مدينه شبرا الخيمه, شبرا الخيمة, القليوبية, 13766, مصر
+2. مسجد الفتح. Detailed address: شارع خضر التوني, عمارات التوفيق, مدينة نصر, القاهرة, 11759, مصر"
+372,6.29,10.52,C,3.82,1.1,"What is the straight-line distance between the following two locations? (Unit is km)
+1. بنك الاستثمار العربي. Detailed address: شارع مصطفي النحاس, مدينة نصر, القاهرة, 11765, مصر
+2. Shiva Indian Restaurant. Detailed address: 11, شارع محمد عبيد, Heliopolis, مصر الجديدة, القاهرة, 11736, مصر"
+373,16.55,15.54,C,18.99,16.75,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مطلع الدائري من 26 يوليو. Detailed address: الطريق الدائري, الجيزة, 12827, مصر
+2. النزهة الدولي. Detailed address: شارع كمال الدين حسين, بلوك 1103, Sheraton, القاهرة, 11799, مصر"
+374,5.35,6.47,B,10.32,9.84,"What is the straight-line distance between the following two locations? (Unit is km)
+1. الحمد. Detailed address: شارع احمد فخري, Sixth Area, مدينة نصر, القاهرة, 11391, مصر
+2. البنك الأهلي. Detailed address: شارع احمد لطفى, القاهرة, 11351, مصر"
+375,5.17,1.46,A,12.06,13.03,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مقبرة الوفاء و الأمل. Detailed address: مدينة نصر, القاهرة, 11762, مصر
+2. سيتى ستارز مول. Detailed address: شارع الامداد و التموين, Masaken Al Mohandesin, مساكن المهندسين, مدينة نصر, القاهرة, 11391, مصر"
+376,2.95,5.31,B,2.83,10.48,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مستشفى مصر الجديدة العسكرى. Detailed address: شارع جسر السويس, حلميه النعام, حدائق الزيتون, القاهرة, 11777, مصر
+2. مستشفى تبارك للولادة والأطفال. Detailed address: 24, شارع الدكتور انور المفتي, Al Manteqah Al Oula, مدينة نصر, القاهرة, 11765, مصر"
+377,17.58,15.53,C,12.68,9.02,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rahma Mosque. Detailed address: 48, شارع الشهيد عبد المنعم حافظ, Heliopolis, القاهرة, 11736, مصر
+2. Cook Door. Detailed address: شارع اسماعيل محمد, ابو الفدا, السبتية, القاهرة, 11561, مصر"
+378,9.41,19.92,C,15.5,12.0,"What is the straight-line distance between the following two locations? (Unit is km)
+1. التقوى. Detailed address: شارع عز الدين محمد عطيه, القاهرة, 11351, مصر
+2. Elsonny. Detailed address: شارع منصور, الدواوين, باب اللوق, القاهرة, 11513, مصر"
+379,12.81,9.34,B,8.09,11.54,"What is the straight-line distance between the following two locations? (Unit is km)
+1. dům. Detailed address: ملاعب السعيدية, شارع جامعه القاهره, بين السرايات, الجيزة, 12541, مصر
+2. نادى المقاولون العرب الرياضى. Detailed address: حارة ابو ادهم, ثان مدينة نصر, القاهرة, 11684, مصر"
+380,9.05,5.01,A,2.62,16.13,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مدرسة الحسينية. Detailed address: شارع محمد عبد النبي, الجيزة, 12551, مصر
+2. Gastec. Detailed address: شارع عبد القادر طه, مساكن نيركو, القاهرة, 11742, مصر"
+381,4.97,6.47,C,2.05,9.43,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 205 عيادة الدكتور أحمد عبدالعزيز أبو زيد/استاذ الجراحة/ جامعة عين شمس. Detailed address: شارع الجيش, الصوابى, السكاكينى, القاهرة, 11558, مصر
+2. التجاري وفا بنك. Detailed address: شارع قصر النيل, الفواله, باب اللوق, القاهرة, 42801, مصر"
+382,6.29,4.1,C,2.37,9.18,"What is the straight-line distance between the following two locations? (Unit is km)
+1. El Shemy. Detailed address: شارع محمود طلعت, El Sharekat, الشركات, مدينة نصر, القاهرة, 11759, مصر
+2. تكنو سكان. Detailed address: شارع رشيد, Heliopolis, مصر الجديدة, القاهرة, 11757, مصر"
+383,0.71,6.36,B,10.3,12.02,"What is the straight-line distance between the following two locations? (Unit is km)
+1. яхта. Detailed address: شارع كورنيش النيل, الخوخه والقنايه, مصر القديمة, خرطة الشيخ مبارك, القاهرة, 11632, مصر
+2. Hashville. Detailed address: Espresso lab, 23, شارع 213, مساكن نيركو, الفاروقية, القاهرة, 11431, مصر"
+384,16.94,10.95,C,9.43,2.15,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pakistani restaurant. Detailed address: شارع دكتور المحروقي, العجوزة, الجيزة, 12411, مصر
+2. استاد الهوكي. Detailed address: شارع الاستاد, ثان مدينة نصر, القاهرة, 11153, مصر"
+385,14.22,13.27,D,14.45,8.8,"What is the straight-line distance between the following two locations? (Unit is km)
+1. بنك ابو ظبى. Detailed address: شارع طلعت حرب, باب اللوق, باب اللوق, القاهرة, 11956, مصر
+2. FullMoon Studios. Detailed address: 17, شارع عز الدين طه, Al Manteqah Al Oula, مدينة نصر, القاهرة, 11371, مصر"
+386,0.6,2.99,B,1.12,1.81,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Athletix. Detailed address: شارع اسماعيل الفنجري, ثان مدينة نصر, القاهرة, 11153, مصر
+2. شركة شمال القاهره لتوزيع الكهرباء. Detailed address: 3, شارع جمال الدين, El Golf, مدينة نصر, القاهرة, 11765, مصر"
+387,11.25,17.37,A,13.45,8.63,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد ابو بكر مزهر. Detailed address: حارة عبد العليم, الشعرانى, الجمالية, القاهرة, 11681, مصر
+2. فينيز. Detailed address: Barista, 24, شارع 9, الفاروقية, القاهرة, 11728, مصر"
+388,13.78,12.04,C,6.55,12.91,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مريداني. Detailed address: 28, شارع سكه المرداني, المغربلين, الدرب الأحمر, القاهرة, 11639, مصر
+2. مدرسة السيده خديجة التجارية بنات. Detailed address: شارع رمزي مسعد, مساكن الزاويه الحمراء, الأميرية, القاهرة, 11659, مصر"
+389,8.53,7.32,D,14.6,11.61,"What is the straight-line distance between the following two locations? (Unit is km)
+1. عياده بيرفيكت دينتال. Detailed address: 126, شارع عثمان بن عفان, الحلمية, القاهرة, 11361, مصر
+2. Koshary Goha. Detailed address: 4, شارع عماد الدين, عرابى التوفقية, الأزبكية, القاهرة, 11574, مصر"
+390,9.74,11.39,A,8.17,15.55,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مدرسة القبة الثانوية بنين. Detailed address: 7, شارع ابن سندر, الزيتون, القاهرة, 11712, مصر
+2. مسجد سيدى إبن عطاء الله السكندري. Detailed address: شارع إمام عطالله, الخليفة, القاهرة, 11575, مصر"
+391,10.43,18.23,D,19.85,12.92,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Small Masjed. Detailed address: شارع الارقم بن ابي الارقم, المعادي الجديدة, القاهرة, 11742, مصر
+2. Pure Cafe. Detailed address: شارع اسماعيل محمد, ابو الفدا, السبتية, القاهرة, 11561, مصر"
+392,6.59,8.51,C,2.93,10.84,"What is the straight-line distance between the following two locations? (Unit is km)
+1. طابون. Detailed address: شارع ابو الفدا, ابو الفدا, السبتية, القاهرة, 12653, مصر
+2. Sugar Rush. Detailed address: ميدان عمان, بين السرايات, الجيزة, 12615, مصر"
+393,7.54,5.22,C,12.34,4.52,"What is the straight-line distance between the following two locations? (Unit is km)
+1. قسم اول شبرا. Detailed address: شارع مجلس المدينه, مدينه شبرا الخيمه, شبرا الخيمة, القليوبية, 13766, مصر
+2. حديقة الفسطاط. Detailed address: شارع احمد مصطفى, مساكن عين الصيرة قديم, عين الصيرة, القاهرة, 11654, مصر"
+394,8.36,12.3,B,9.38,8.03,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mohamed Salama Pharmacy. Detailed address: 25, شارع يحيى باشا ابراهيم, محمد مظهر, السبتية, القاهرة, 11568, مصر
+2. Vasko. Detailed address: 11A, شارع 213, مساكن نيركو, الفاروقية, القاهرة, 11728, مصر"
+395,2.07,9.49,B,15.36,11.93,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Roche Training Centre. Detailed address: شارع النيل, الدقى, الجيزة, 12612, مصر
+2. مكتب بريد العبور. Detailed address: طريق القاهره, اسكندريه الزراعى القديم, مدينه شبرا الخيمه, شبرا الخيمة, القليوبية, 13766, مصر"
+396,7.91,6.03,A,1.02,1.42,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ام النور. Detailed address: 26, شارع شمس الدين الذهبي, El Golf, مدينة نصر, القاهرة, 11765, مصر
+2. St Antony Church, Shoubra كنيسة الأنبا أنطونيوس شبرا. Detailed address: 23, شارع دانيال ميخائيل, الترعه البولاقيه, الظاهر, القاهرة, 11627, مصر"
+397,8.33,9.45,A,14.2,11.05,"What is the straight-line distance between the following two locations? (Unit is km)
+1. St. Andrews Refugee Services. Detailed address: شارع الجلاء, شركس, الأزبكية, القاهرة, 11956, مصر
+2. عبير الإسلام. Detailed address: مدرسة الشهيد أحمد تعلب الفندقية للتكنولوجيا التطبيقية, 1, شارع ابن حوقل, Raba'a El Adaweyya, رابعه العدويه, مدينة نصر, القاهرة, 11759, مصر"
+398,19.6,11.73,A,23.52,15.37,"What is the straight-line distance between the following two locations? (Unit is km)
+1. MECC - Maadi Engineering Cars Company;Pottery Cafe. Detailed address: 12, شارع 9, الفاروقية, القاهرة, 11728, مصر
+2. مركز شباب منشية التحرير. Detailed address: شارع 4, حلميه النعام, حدائق الزيتون, القاهرة, 18511, مصر"
+399,3.93,14.12,D,13.51,6.2,"What is the straight-line distance between the following two locations? (Unit is km)
+1. السفارة الروسية. Detailed address: شارع ابن اخشيد, الدقى, الجيزة, 12612, مصر
+2. مستشفى النيل بدراوى. Detailed address: شارع المشتل, القاهرة, 11745, مصر"
+400,5.88,12.72,A,8.42,7.88,"What is the straight-line distance between the following two locations? (Unit is km)
+1. إدارة الأشغال العسكرية. Detailed address: 18, شارع بنى فهيم, العباسيه الغربيه, الوايلى, القاهرة, 11517, مصر
+2. مصر. Detailed address: شارع 26 يوليو, محمد مظهر, السبتية, القاهرة, 11211, مصر"
+401,0.63,4.25,B,3.01,6.89,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Coffee & Tea. Detailed address: شارع العسال, محمد مظهر, السبتية, القاهرة, 11211, مصر
+2. نقطة شرطة طولون. Detailed address: شارع احمد بن طولون, مساكن الجيش, الكبش, السيدة زينب, القاهرة, 11797, مصر"
+402,15.11,9.6,B,6.37,6.64,"What is the straight-line distance between the following two locations? (Unit is km)
+1. كافيه المحروسه. Detailed address: شارع راتب باشا, اسعد, القاهرة, 11697, مصر
+2. صيدلية العزبي. Detailed address: 1, شارع العريف عبد المنعم, Masaken Al Mohandesin, مساكن المهندسين, مدينة نصر, القاهرة, 11765, مصر"
+403,5.73,11.36,B,10.24,18.32,"What is the straight-line distance between the following two locations? (Unit is km)
+1. كلية البنات. Detailed address: شارع التوفيق, El Golf, مدينة نصر, القاهرة, 11737, مصر
+2. Advanced business systems. Detailed address: 8, شارع الغيث, العجوزة, الجيزة, 12654, مصر"
+404,10.43,3.17,D,8.94,4.76,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد الايمان. Detailed address: 10, شارع المنيل, الروضه والمقياس, مصر القديمة, خرطة الشيخ مبارك, القاهرة, 11553, مصر
+2. Pier 88 Cairo. Detailed address: شارع الموسيقار محمد عبد الوهاب, محمد مظهر, السبتية, القاهرة, 12344, مصر"
+405,7.78,9.84,D,10.08,5.1,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد أم القرى. Detailed address: 8, شارع المنيل, الروضه والمقياس, مصر القديمة, خرطة الشيخ مبارك, القاهرة, 11553, مصر
+2. EDBE BANK البنك المصرى لتنميةالصادرات فرع الزمالك. Detailed address: شارع سريلانكا, السبتية, القاهرة, 11211, مصر"
+406,4.31,12.79,D,10.36,8.39,"What is the straight-line distance between the following two locations? (Unit is km)
+1. الكربه. Detailed address: شارع الثوره, Heliopolis, مصر الجديدة, القاهرة, 11737, مصر
+2. مسجد أحمد المهمندار. Detailed address: شارع باب الوزير, الدرب الاحمر, الدرب الأحمر, القاهرة, 11639, مصر"
+407,6.52,9.94,A,13.27,9.23,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Private Ferry Terminal. Detailed address: شارع النيل, الجيزة, 12524, مصر
+2. مسجد اللؤلؤة. Detailed address: شارع الجبانات, الخليفة, القاهرة, 11575, مصر"
+408,17.29,13.45,C,15.83,9.05,"What is the straight-line distance between the following two locations? (Unit is km)
+1. فيصل. Detailed address: 3, شارع ترعه الزمر, ابو قتاده و نوفل, بولاق الدكرور, الجيزة, 12984, مصر
+2. سينما الطفل. Detailed address: شارع نخله المطيعى, مصر الجديدة, القاهرة, 11757, مصر"
+409,4.57,10.78,B,15.08,6.61,"What is the straight-line distance between the following two locations? (Unit is km)
+1. أكاديمية السادات للعلوم الإدارية. Detailed address: شارع اكاديمية السادات, معادي الخبيري, القاهرة, 11728, مصر
+2. نقابة المهندسين المصرية. Detailed address: 28`, شارع رمسيس, عرابى التوفقية, الظاهر, القاهرة, 11574, مصر"
+410,14.37,7.79,A,19.83,17.92,"What is the straight-line distance between the following two locations? (Unit is km)
+1. محل عصير زهرة أرض اللواء. Detailed address: شارع المعتمديه, ارض الواء, ميت عقبة, الجيزة, 12827, مصر
+2. السيدة حفصة. Detailed address: شارع شمس الدين الذهبي, El Golf, مدينة نصر, القاهرة, 11736, مصر"
+411,16.85,23.1,A,12.46,23.2,"What is the straight-line distance between the following two locations? (Unit is km)
+1. كبابجي ومشويات علاء الدين. Detailed address: 57, شارع النصر, Sheraton, القاهرة, 11351, مصر
+2. Pakistani restaurant. Detailed address: شارع دكتور المحروقي, العجوزة, الجيزة, 12411, مصر"
+412,12.95,8.55,D,16.08,10.2,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Goethe-Institut Library. Detailed address: 3, شارع عبد السلام عارف - البستان سابقا, الإسماعيلية, باب اللوق, القاهرة, 11519, مصر
+2. Coffee Corner. Detailed address: 21, شارع 233, مساكن نيركو, الفاروقية, القاهرة, 11728, مصر"
+413,9.69,9.34,C,8.23,14.07,"What is the straight-line distance between the following two locations? (Unit is km)
+1. صيدليه الشنهاب. Detailed address: شارع الملك فيصل, كوم الأخضر, الجيزة, 12111, مصر
+2. سوق الخليفة. Detailed address: درب المسرور, مشروع اعادة بناء منطقة زينهم, المرحله 2, الصليبه, السيدة زينب, القاهرة, 11636, مصر"
+414,2.63,10.59,B,5.4,3.94,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Azar Hotek***. Detailed address: 09, شارع عدلي, الفواله, الأزبكية, القاهرة, 11574, مصر
+2. Dragon House. Detailed address: شارع 82, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر"
+415,4.83,10.25,A,6.33,0.76,"What is the straight-line distance between the following two locations? (Unit is km)
+1. سنترال الوراق. Detailed address: 13, شارع ترعه السواحل, المنيره الشرقيه, إمبابة, وراق الحضر, الجيزة, 12662, مصر
+2. البنك الأهلي المصري (فرع التوفيقية). Detailed address: شارع رمسيس, عرابى التوفقية, الظاهر, القاهرة, 11523, مصر"
+416,5.47,20.14,C,12.92,20.04,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 9361. Detailed address: Parcel 8547, القاهرة, 11571, مصر
+2. Farouk Mosque. Detailed address: طريق 64, Sheraton, القاهرة, 11351, مصر"
+417,15.21,8.85,B,2.73,1.42,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Abu Dhabi Islamic Bank ADIB. Detailed address: 86, شارع 9, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر
+2. الاسمرات. Detailed address: محور الدكتوره سميره موسى, القاهرة, 11585, مصر"
+418,7.69,4.13,A,6.42,3.28,"What is the straight-line distance between the following two locations? (Unit is km)
+1. cecilia. Detailed address: 47, شارع الفلكي, الدواوين, عابدين, القاهرة, 11513, مصر
+2. مدرسة المقريزى. Detailed address: 4`, شارع الخليفه المأمون, Heliopolis, الوايلى, الدمرداش, القاهرة, 11774, مصر"
+419,7.85,12.93,A,4.17,2.06,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ماكينة صرافة البنك الأهلي. Detailed address: البنك الأهلي المصري (فرع التوفيقية), شارع رمسيس, عرابى التوفقية, الظاهر, القاهرة, 11523, مصر
+2. عيادة دكتور رفيق سليمان. Detailed address: شارع السيد الميرغنى, Heliopolis, الزيتون, القاهرة, 11737, مصر"
+420,1.55,11.0,D,5.01,8.03,"What is the straight-line distance between the following two locations? (Unit is km)
+1. حسن الصويني. Detailed address: 69, شارع 9, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر
+2. هابي لاند. Detailed address: شارع خاتم المرسلين, مساكن الضباط, الجيزة, 12551, مصر"
+421,19.85,14.94,D,8.33,13.17,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مطعم و مقهى شرقي. Detailed address: 38, شارع حسن الانوار القبلي, الانور وعشش البارود, مصر القديمة, خرطة الشيخ مبارك, القاهرة, 11632, مصر
+2. الحمد. Detailed address: شارع احمد فخري, Sixth Area, مدينة نصر, القاهرة, 11391, مصر"
+422,11.62,2.42,D,5.89,8.59,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد العزيز بالله. Detailed address: شارع العزيز بالله, الزيتون, القاهرة, 11734, مصر
+2. Azar Hotek***. Detailed address: 09, شارع عدلي, الفواله, الأزبكية, القاهرة, 11574, مصر"
+423,7.63,10.17,D,1.63,4.99,"What is the straight-line distance between the following two locations? (Unit is km)
+1. CAE BANK فرع الميرغنى. Detailed address: شارع ابو المجد عامر, El Golf, مدينة نصر, القاهرة, 11736, مصر
+2. مدرسة سمبيات ابيولا. Detailed address: شارع اسماعيل وهبه, Ninth Area, مدينة نصر, القاهرة, 11762, مصر"
+424,10.85,13.15,B,18.34,7.67,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sufi Bookstore. Detailed address: شارع السيد البكري, محمد مظهر, السبتية, القاهرة, 11211, مصر
+2. عياده بيرفيكت دينتال. Detailed address: 126, شارع عثمان بن عفان, الحلمية, القاهرة, 11361, مصر"
+425,14.56,9.66,C,12.82,18.57,"What is the straight-line distance between the following two locations? (Unit is km)
+1. نادى المعادى. Detailed address: شارع علي عبد العزيز, المعادى, القاهرة, 11728, مصر
+2. منطقة تحت الانشاء [مسار مونوريل غرب النيل]. Detailed address: محور الفريق كمال عامر, ميت عقبة, الجيزة, 12827, مصر"
+426,23.06,17.59,B,21.56,21.77,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مستشفی الجلاء العسكري. Detailed address: شارع العروبه, مساكن صقر قريش, مصر الجديدة, القاهرة, 11361, مصر
+2. الإدارة العامة لشرطة البيئة والمسطحات. Detailed address: شارع كورنيش النيل, طره الاسمنت, المعادى, طرة, القاهرة, 11917, مصر"
+427,12.89,13.15,C,14.57,15.8,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Uncle Sam's. Detailed address: شارع مصطفي كامل, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر
+2. ورد الشام. Detailed address: 8 أ, شارع احمد فخري, عمارات أطلس, Sixth Area, مدينة نصر, القاهرة, 11391, مصر"
+428,10.96,12.38,C,9.03,10.53,"What is the straight-line distance between the following two locations? (Unit is km)
+1. بنك البركة - فرع المنيل. Detailed address: شارع عبد العزيز آل سعود, المنيل الغربي, المنيل, القاهرة, 11555, مصر
+2. مسجد النصر / مستورا. Detailed address: شارع 9, الشرق للتأمين, المقطم, القاهرة, 11571, مصر"
+429,14.25,6.68,A,8.5,6.82,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مسجد نور محمد. Detailed address: شارع 9, مساكن صقر قريش, مدينة نصر, القاهرة, 11528, مصر
+2. السفارة الروسية. Detailed address: شارع ابن اخشيد, الدقى, الجيزة, 12612, مصر"
+430,18.86,14.9,A,14.57,23.13,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مدرسة عمار بن ياسر. Detailed address: شارع المسله, عرب الحصن, عين شمس, القاهرة, 11758, مصر
+2. Vittorio's. Detailed address: شارع 231, مساكن نيركو, الفاروقية, القاهرة, 11431, مصر"
+431,23.44,14.82,D,23.74,18.59,"What is the straight-line distance between the following two locations? (Unit is km)
+1. محل فرحات للحمام. Detailed address: شارع الشهيد محمد مصطفى كاريكا, ديار النادي الاهلى, Eastren Sixth Area, مدينة نصر, القاهرة, 11391, مصر
+2. ليالينا. Detailed address: طريق كفر طهرمس, كفر طهرمس, الجيزة, 12623, مصر"
+432,8.85,6.93,A,4.95,2.46,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pier 88 Cairo. Detailed address: شارع الموسيقار محمد عبد الوهاب, محمد مظهر, السبتية, القاهرة, 12344, مصر
+2. لهطة قشطة الكابلات. Detailed address: 39, شارع سمير حجازي, الاميريه الجديده, القاهرة, 11715, مصر"
+433,7.23,1.15,B,2.49,4.39,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Misr. Detailed address: شارع القصر العيني, الانشا والمنيره, باب اللوق, القاهرة, 11241, مصر
+2. Jarat Al-Qamar Café. Detailed address: شارع حسين باشا المعماري, معروف, باب اللوق, القاهرة, 11556, مصر"
+434,12.84,22.94,C,15.3,18.89,"What is the straight-line distance between the following two locations? (Unit is km)
+1. بيوت. Detailed address: الطريق الدائري, المعادي الجديدة, القاهرة, 11771, مصر
+2. Indonesian Cultural Centre. Detailed address: 63, شارع مصدق, الدقى, الجيزة, 12615, مصر"
+435,7.7,2.78,A,0.62,3.67,"What is the straight-line distance between the following two locations? (Unit is km)
+1. تريومف. Detailed address: شارع احسان عبد القدوس, Heliopolis, منشية البكرى, الدمرداش, القاهرة, 11811, مصر
+2. الملكة. Detailed address: شارع جسر السويس, قباء, القاهرة, 11595, مصر"
+436,14.75,16.33,D,18.09,20.29,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مركز شباب المشابك. Detailed address: شارع الامام حسين, الجيزة, 12549, مصر
+2. KFC. Detailed address: منطقة 2, مساكن مصر للتعمير, Sheraton, القاهرة, 11351, مصر"
+437,1.08,10.04,C,6.32,1.84,"What is the straight-line distance between the following two locations? (Unit is km)
+1. الحرية. Detailed address: شارع النزهه, مصر الجديدة, القاهرة, 11736, مصر
+2. مسجد نور محمد. Detailed address: شارع 9, مساكن صقر قريش, مدينة نصر, القاهرة, 11528, مصر"
+438,9.45,13.99,D,12.25,7.48,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Vent. Detailed address: 4, شارع قصر النيل, الإسماعيلية, باب اللوق, القاهرة, 11519, مصر
+2. Al Quds Mosque. Detailed address: مسجد القدس, شارع 9, الصعيد, المقطم, القاهرة, 11571, مصر"
+439,10.73,6.44,D,19.83,12.79,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Coffee Bar. Detailed address: شارع محمد مظهر, محمد مظهر, السبتية, القاهرة, 11568, مصر
+2. أحمد مرسي مصطفى. Detailed address: 69, شارع 9, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر"
+440,4.64,2.78,C,1.55,6.6,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Al Quds Mosque. Detailed address: مسجد القدس, شارع 9, الصعيد, المقطم, القاهرة, 11571, مصر
+2. 9361. Detailed address: Parcel 8547, القاهرة, 11571, مصر"
+441,13.23,8.24,A,8.96,20.94,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Shawermer. Detailed address: شارع السيد الميرغنى, Heliopolis, مصر الجديدة, القاهرة, 11736, مصر
+2. مركز سفنكس. Detailed address: شارع 26 يوليو, ميت عقبة, الجيزة, 12655, مصر"
+442,4.61,15.16,D,16.7,9.92,"What is the straight-line distance between the following two locations? (Unit is km)
+1. secuoya. Detailed address: الطريق الدائري, قريه جزيره وراق الحضر, طناش, الجيزة, 12981, مصر
+2. Amr Streer Breakfast. Detailed address: 46, شارع الفلكي, باب اللوق, عابدين, القاهرة, 11513, مصر"
+443,14.37,11.16,A,19.44,12.36,"What is the straight-line distance between the following two locations? (Unit is km)
+1. جراج سيارات. Detailed address: شارع محمد عبد الواحد, الجيزة, 12517, مصر
+2. مكتب بريد طناش. Detailed address: شارع البريد, طناش, الجيزة, 12981, مصر"
+444,7.15,4.84,B,9.34,9.48,"What is the straight-line distance between the following two locations? (Unit is km)
+1. السراج مول. Detailed address: 5, شارع عطيه الصوالحى, Eigth Area, مدينة نصر, القاهرة, 11765, مصر
+2. مطار ألماظة. Detailed address: شارع فتحي القشلان, Heliopolis, القاهرة, 11834, مصر"
+445,14.4,10.47,D,10.63,15.9,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dr. Magdy Mostafa - Dental Consultant. Detailed address: 24, شارع 9, الفاروقية, القاهرة, 11728, مصر
+2. دكتور سارة طلعت. Detailed address: شارع شمس الدين الذهبي, El Golf, مدينة نصر, القاهرة, 11736, مصر"
+446,10.41,4.1,B,10.13,2.68,"What is the straight-line distance between the following two locations? (Unit is km)
+1. المسجد الأزرق. Detailed address: شارع باب الوزير, باب الوزير والغريب, الدرب الأحمر, القاهرة, 11655, مصر
+2. مكتبة مصر العامة. Detailed address: 2, شارع الطحاويه, الدقى, الجيزة, 12612, مصر"
+447,14.4,18.27,B,15.65,15.05,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ملك الفروله. Detailed address: 121, شارع ابراهيم عبد الرازق, عين شمس, القاهرة, 11777, مصر
+2. جراج سيارات. Detailed address: شارع محمد عبد الواحد, الجيزة, 12517, مصر"
+448,4.53,5.65,B,9.78,4.47,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مدرسة الكرنك الخاصة. Detailed address: شارع الكرنك, كفر طهرمس, الجيزة, 12623, مصر
+2. العمدة. Detailed address: 20, شارع جامعه الدول العربيه, المهندسين, الجيزة, 12654, مصر"
+449,19.86,6.93,D,11.54,12.8,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ورد الشام. Detailed address: 8 أ, شارع احمد فخري, عمارات أطلس, Sixth Area, مدينة نصر, القاهرة, 11391, مصر
+2. Flying Fish. Detailed address: شارع كورنيش النيل, العجوزة, الجيزة, 12611, مصر"
+450,15.98,7.3,C,10.15,3.72,"What is the straight-line distance between the following two locations? (Unit is km)
+1. عمارة الصفا. Detailed address: 8722, شارع الدكتور تيمور, الشرق للتأمين, القاهرة, 11571, مصر
+2. vinzoula park. Detailed address: 23, شارع عبد العاطي, العزب, الشرابية, القاهرة, 11671, مصر"
+451,9.14,18.23,D,6.34,13.06,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مدرسة الجيزة الاعدادية بنين. Detailed address: شارع جامعه القاهره, بين السرايات, الجيزة, 12541, مصر
+2. الشركة المصرية القابضة للغاز. Detailed address: 1, شارع الدكتور انور المفتي, Al Manteqah Al Oula, مدينة نصر, القاهرة, 11765, مصر"
+452,13.2,3.2,C,9.29,5.96,"What is the straight-line distance between the following two locations? (Unit is km)
+1. دار القضاء العالى. Detailed address: شارع شمبليون, معروف, الأزبكية, القاهرة, 11956, مصر
+2. مسجد قبة الصخرة. Detailed address: شارع الرضا و النور, Parcel 8547, القاهرة, 11571, مصر"
+453,13.34,19.1,C,11.98,14.13,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Overdose. Detailed address: شارع ابو الفدا, ابو الفدا, السبتية, القاهرة, 12653, مصر
+2. قهوه فى المعادى جنب عادل. Detailed address: شارع 108, معادي الخبيري, القاهرة, 11728, مصر"
+454,5.23,2.73,A,13.11,9.1,"What is the straight-line distance between the following two locations? (Unit is km)
+1. تشيك شاك. Detailed address: شارع 26 يوليو, محمد مظهر, السبتية, القاهرة, 11211, مصر
+2. مستشفى القوات الجوية. Detailed address: شارع احمد سعيد, العباسيه الشرقيه, الوايلى, القاهرة, 11551, مصر"
+455,4.18,17.28,C,9.44,8.15,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مدرسة السيده خديجة التجارية بنات. Detailed address: شارع رمزي مسعد, مساكن الزاويه الحمراء, الأميرية, القاهرة, 11659, مصر
+2. السراج مول. Detailed address: 5, شارع عطيه الصوالحى, Eigth Area, مدينة نصر, القاهرة, 11765, مصر"
+456,4.29,9.05,A,11.39,9.43,"What is the straight-line distance between the following two locations? (Unit is km)
+1. عيادة العلاج الطبيغى. Detailed address: مستشفيات جامعة القاهرة, شارع السرايا, المنيل الغربي, المنيل, القاهرة, 11451, مصر
+2. مستشفى الجابري. Detailed address: شارع الرومالى, الجيزة, 12549, مصر"
+457,12.35,15.29,A,8.09,5.14,"What is the straight-line distance between the following two locations? (Unit is km)
+1. منظمه الصحه العالمية. Detailed address: شارع دكتور محمود ياسين, Sixth Area, مدينة نصر, القاهرة, 11391, مصر
+2. Didos Al Dente. Detailed address: شارع بهجت علي, ابو الفدا, السبتية, القاهرة, 12653, مصر"
+458,12.23,11.59,D,12.22,16.52,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Coffee Corner. Detailed address: 21, شارع 233, مساكن نيركو, الفاروقية, القاهرة, 11728, مصر
+2. Court of Masr El Gededa. Detailed address: شارع الحجاز الجانبى, مصر الجديدة, القاهرة, 11757, مصر"
+459,17.45,9.83,B,15.65,6.04,"What is the straight-line distance between the following two locations? (Unit is km)
+1. نور. Detailed address: 20R, شارع الدكتور انور المفتي, Al Manteqah Al Oula, مدينة نصر, القاهرة, 11765, مصر
+2. Mobtadian secondary Experimental Language School. Detailed address: 4, شارع نوبار, خيرت, السيدة زينب, القاهرة, 11617, مصر"
+460,14.67,11.63,B,16.78,19.62,"What is the straight-line distance between the following two locations? (Unit is km)
+1. CIB. Detailed address: شارع ابو العتاهيه, مدينة نصر, القاهرة, 11765, مصر
+2. ماكدونالدز. Detailed address: شارع المنيل, المنيل الغربي, المنيل, القاهرة, 11555, مصر"
+461,6.36,9.37,D,0.6,4.27,"What is the straight-line distance between the following two locations? (Unit is km)
+1. المتحف القومي للحضارة المصرية. Detailed address: شارع الفسطاط, المجاورة 2, الفسطاط, خرطة الشيخ مبارك, القاهرة, 11632, مصر
+2. قصر الأمير محمد. Detailed address: 12, شارع عمر مكرم, قصر الدوباره, باب اللوق, القاهرة, 11519, مصر"
+462,11.26,13.22,A,3.65,7.31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Boon. Detailed address: شارع كورنيش النيل, طره الاسمنت, المعادى, طرة, القاهرة, 11917, مصر
+2. مطلع الدائري من 26 يوليو. Detailed address: الطريق الدائري, الجيزة, 12827, مصر"
+463,7.41,12.1,C,5.1,7.92,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مطعم أبو بكري السوري. Detailed address: شارع مكرم عبيد, Sixth Area, مدينة نصر, القاهرة, 11391, مصر
+2. ميدان هليوبوليس. Detailed address: شارع الحجاز, Heliopolis, مصر الجديدة, القاهرة, 11757, مصر"
+464,9.54,14.05,A,6.32,6.53,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Barista. Detailed address: 24, شارع 9, الفاروقية, القاهرة, 11728, مصر
+2. Roche Training Centre. Detailed address: شارع النيل, الدقى, الجيزة, 12612, مصر"
+465,10.09,11.11,A,4.69,13.6,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Abu Auf. Detailed address: شارع كارفور, المعادي الجديدة, القاهرة, 11571, مصر
+2. مسجد كلية الطب. Detailed address: شارع السرايا, المنيل الغربي, المنيل, القاهرة, 11562, مصر"
+466,17.27,19.0,C,12.04,6.29,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Echo Club. Detailed address: 2, شارع جامعه الدول العربيه, العجوزة, الجيزة, 12654, مصر
+2. بنك عودة. Detailed address: شارع دمشق, Heliopolis, مصر الجديدة, القاهرة, 11737, مصر"
+467,4.77,1.28,C,8.84,2.46,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مصر. Detailed address: شارع 26 يوليو, محمد مظهر, السبتية, القاهرة, 11211, مصر
+2. كنتاكي. Detailed address: شارع الخليفه المأمون الجانبي, Heliopolis, كوبري القبة, القاهرة, 11774, مصر"
+468,12.03,16.26,A,4.54,15.01,"What is the straight-line distance between the following two locations? (Unit is km)
+1. دار القمر. Detailed address: شارع النصر, المعادي الجديدة, القاهرة, 11742, مصر
+2. Overdose. Detailed address: شارع ابو الفدا, ابو الفدا, السبتية, القاهرة, 12653, مصر"
+469,17.25,8.91,D,6.99,12.03,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ليالي زمان. Detailed address: إمتداد شارع ابو داوود الظاهري, ديار النادي الاهلى, Eastren Sixth Area, مدينة نصر, القاهرة, 11391, مصر
+2. توم اند بسل. Detailed address: 8, شارع طلعت حرب, الإسماعيلية, باب اللوق, القاهرة, 11519, مصر"
+470,4.73,6.15,A,3.47,1.61,"What is the straight-line distance between the following two locations? (Unit is km)
+1. مطعم اليمن السعيد. Detailed address: شارع السرايا, المنيل الغربي, المنيل, القاهرة, 11451, مصر
+2. Crimson Bar & Grill. Detailed address: شارع الموسيقار كمال الطويل, محمد مظهر, السبتية, القاهرة, 12653, مصر"
+471,21.57,14.77,C,18.08,20.12,"What is the straight-line distance between the following two locations? (Unit is km)
+1. الوطنيه. Detailed address: 86, شارع سليم الاول, عين شمس, القاهرة, 11718, مصر
+2. Angelica Desert Bar. Detailed address: شارع 9, معادي الخبيري, الفاروقية, القاهرة, 11728, مصر"

@@ -1,0 +1,252 @@
+,A,B,C,D,question,answer
+0,Kiuru Road,Woodvale Grove,6th Parklands Avenue,Waiyaki Way,"In the Nairobi area, which road cannot directly reach Ring Road Parklands?",A
+1,Woodvale Grove,James Gichuru Junction,Rimpa Road,Nairobi-Nakuru Road,"In the Nairobi area, which road cannot directly reach Waiyaki Way?",C
+2,Prof. Wangari Mathai Road,Quarry Road,Prof. Wangari Maathai Road,Mama Ngina Street,"In the Nairobi area, which road cannot directly reach Dr. G.W. Griffin Road?",D
+3,Digo Road,Parklands Road,Racecourse Road,Dr. G.W. Griffin Road,"In the Nairobi area, which road cannot directly reach Quarry Road?",B
+4,White Castle Road,Dr. G.W. Griffin Road,River Road,USIU Road,"In the Nairobi area, which road directly reaches General Waruinge Street?",B
+5,6th Parklands Avenue,Hospital Road,Parklands Road,Muthaiga Road,"In the Nairobi area, which road cannot directly reach Limuru Road?",B
+6,Uyoma Street,Dr. G.W. Griffin Road,River Road,Kiambu Road,"In the Nairobi area, which road cannot directly reach Murang'a Road?",A
+7,Jogoo Road,Enterprise Road,Latema Road,Lunga Lunga Roundabout,"In the Nairobi area, which road cannot directly reach Likoni Road?",C
+8,Muratina Street,First Avenue Eastleigh,Nyasa Road,City Stadium Roundabout,"In the Nairobi area, which road cannot directly reach Jogoo Road?",A
+9,Chai Road,Bunyala Road Roundabout,Gitanga Road,Peponi Road,"In the Nairobi area, which road directly reaches Bunyala Road?",B
+10,Aerodrome Road,Bunyala Road,Raila Odinga Way,Uhuru Highway,"In the Nairobi area, which road cannot directly reach Bunyala Roundabout?",C
+11,Upper Kabate Road,State House Road,Koinage Street,Globe Roundabout,"In the Nairobi area, which road cannot directly reach University Way?",A
+12,Kangaru Road,Ring Road,University Way,Chiromo Lane,"In the Nairobi area, which road directly reaches University Way Round About?",C
+13,Kirawa Road,Kinyanjui Road,Waiyaki Way,Muthiora Road,"In the Nairobi area, which road cannot directly reach Naivasha Road?",A
+14,Mutarawka Road,Ladhies Road-,Doonholm Road,Jogoo Road,"In the Nairobi area, which road cannot directly reach Outer Ring Road?",B
+15,Tom Mboya Street,Landhies Road,Kingara Road,Galana Road,"In the Nairobi area, which road directly reaches Latema Road?",A
+16,Latema Road,Ronald Ngala Street,Upper Kabate Road,Mondlane Street,"In the Nairobi area, which road cannot directly reach Tom Mboya Street?",C
+17,Tom Mboya Street,Commercial Street,Lower Hill Road,Moi Avenue,"In the Nairobi area, which road cannot directly reach Haile Selassie Avenue?",B
+18,Haile Selassie Avenue,Cotton Avenue,Langata Link Road,Desai Road,"In the Nairobi area, which road directly reaches Haile Selassie Roundabout?",A
+19,Suna Road,Ngong Road,Lenana Road,Argwings Kodhek Road,"In the Nairobi area, which road cannot directly reach Elgeyo Marakwet Road?",C
+20,Elgeyo Marakwet Road,Ngong Road,Joseph Kang'ethe,Chiromo Road,"In the Nairobi area, which road cannot directly reach Suna Road?",D
+21,City Mortuary Round About,Lang'ata Link Road,Aerodrome Road,Ole Odume Road,"In the Nairobi area, which road cannot directly reach Ngong Road?",C
+22,First Avenue Eastleigh,Kiboko Road,Wangu Avenue,Nyasa Road,"In the Nairobi area, which road cannot directly reach Heshima Road?",B
+23,Kamukunji Road,Malewa Road,First Avenue Eastleigh,Heshima Road,"In the Nairobi area, which road cannot directly reach Ambira Road?",B
+24,Major Jackson Murithi Street,Ambira Road,Heshima Road,2nd Avenue Eastleigh,"In the Nairobi area, which road cannot directly reach First Avenue Eastleigh?",A
+25,Ambira Road,Butecho,Mutarawka Road,Jogoo Road,"In the Nairobi area, which road cannot directly reach Bondo Street?",C
+26,Ambira Road,Marurui Road,City Stadium Roundabout,Bondo Street,"In the Nairobi area, which road cannot directly reach Kamukunji Road?",B
+27,Major Jackson Muirithi Street,Kawangware Road,Kirongothi Street,Captain Mungai Street,"In the Nairobi area, which road cannot directly reach Sergeant Kahande Street?",B
+28,Kenyatta Avenue Round About,Juja Road,General Waruingi Street,Sergeant Kahande Street,"In the Nairobi area, which road cannot directly reach 2nd Avenue Eastleigh?",A
+29,Kirongothi Street,Eastleigh 1st Avenue,Chai Road,Raila Odinga Way,"In the Nairobi area, which road cannot directly reach Kipande Athumani Street?",D
+30,Westlands Expressway Entry,Juja Road,Kipande Athumani Street,Muratina Street,"In the Nairobi area, which road cannot directly reach Chai Road?",A
+31,Chai Road,Sergeant Kahande Street,Nairobi Expressway,Kipande Athumani Street,"In the Nairobi area, which road cannot directly reach Muratina Street?",C
+32,Sergeant Kahande Street,Prof. Wangari Mathai Road,Juja Road,Kipande Athumani Street,"In the Nairobi area, which road cannot directly reach Kirongothi Street?",B
+33,Sergeant Kahande Street,Juja Road,Bunyala Road Roundabout,Major Jackson Murithi Street,"In the Nairobi area, which road cannot directly reach Major Jackson Muirithi Street?",C
+34,Kariakor Roundabout,Kipande Athumani Street,Sergeant Kahande Street,Juja Road,"In the Nairobi area, which road cannot directly reach Captain Mungai Street?",A
+35,Sergeant Kahande Street,Eastleigh 1st Avenue,Desai Road,Major Jackson Muirithi Street,"In the Nairobi area, which road cannot directly reach Major Jackson Murithi Street?",C
+36,Olenguruone Road,Ring Road Kilimani,Oloiktoktok Road,Roasters Roundabout,"In the Nairobi area, which road cannot directly reach Cotton Avenue?",D
+37,Cotton Avenue,Ngong Road,Lusaka Road,Lang'ata Link Road,"In the Nairobi area, which road cannot directly reach Ring Road Kilimani?",C
+38,Cotton Avenue,Ruaka Road,Ring Road Kilimani,Elgeyo Marakwet Road,"In the Nairobi area, which road cannot directly reach Argwings Kodhek Road?",B
+39,Mama Ngina Street,Wangombe Road,Ring Road Kilimani,Kiboko Road,"In the Nairobi area, which road directly reaches Kimathi Street?",A
+40,Kimathi Street,Moi Avenue,State House Avenue,Mama Ngina Street,"In the Nairobi area, which road cannot directly reach Kenyatta Avenue?",D
+41,Pumwani Road,Lamu Road,Manyanja Road,Quarry Road,"In the Nairobi area, which road cannot directly reach Digo Road?",C
+42,Butecho,Digo Road,Charles New Road,General Waruingi Street,"In the Nairobi area, which road cannot directly reach Lamu Road?",C
+43,Outer Ring Road,Fairview Road,Major Jackson Muirithi Street,Muthangari Road,"In the Nairobi area, which road cannot directly reach Juja Road?",D
+44,Oloiktoktok Road,James Gichuru Road,Mzima Springs Road,Langata Road,"In the Nairobi area, which road cannot directly reach Olenguruone Road?",D
+45,Oloitokitok Road,Loresho Ridge,Cotton Avenue,Olenguruone Road,"In the Nairobi area, which road cannot directly reach Oloiktoktok Road?",B
+46,Riara Road,Joseph Kang'ethe,Ngong Road,Koma Rock Road,"In the Nairobi area, which road cannot directly reach Ole Odume Road?",D
+47,Lang'ata Link Road,Suna Road,Ole Odume Road,Bunyala Road,"In the Nairobi area, which road cannot directly reach Joseph Kang'ethe?",D
+48,SGR Expressway Exit,Argwings Kodhek Road,Cotton Avenue,Southern Bypass Expressway Exit,"In the Nairobi area, which road directly reaches Denis Pritt Road?",C
+49,Mzima Springs Road,Ring Road Westlands,Chiromo Road,Southern Bypass Expressway Entry,"In the Nairobi area, which road cannot directly reach Riverside Drive?",D
+50,Eastleigh 1st Avenue,Chiromo Road,Kyuna Road,Charles New Road,"In the Nairobi area, which road directly reaches Ring Road Westlands?",B
+51,Prof. Wangari Maathai Road,Murang'a Road,Ring Road Parklands,Ngara Road,"In the Nairobi area, which road cannot directly reach Kipande Road?",C
+52,Chiromo Road,Woodlands Road,Dr. G.W. Griffin Road,Murang'a Road,"In the Nairobi area, which road cannot directly reach Prof. Wangari Maathai Road?",B
+53,Peponi Road,Moi Drive,Ngecha Road,Tate Close,"In the Nairobi area, which road cannot directly reach Kitisuru Road?",B
+54,Lower Kabete Road,Getathuru Road,Dennis Pritt Road,Kirawa Road,"In the Nairobi area, which road cannot directly reach Ngecha Road?",C
+55,James Gichuru Road,Gitanga Road,Woodlands Road,Riara Road,"In the Nairobi area, which road cannot directly reach Kingara Road?",C
+56,Naivasha Road,Kingara Road,Ole Odume Road,Kariakor Roundabout,"In the Nairobi area, which road cannot directly reach Riara Road?",D
+57,Dr. G.W. Griffin Road,James Gichuru Junction,Margaret Wambui Kenyatta Road,Kingara Road,"In the Nairobi area, which road cannot directly reach James Gichuru Road?",A
+58,Oloitoktok Road,Ole Odume Road,Kingara Road,New Garden Estate Road,"In the Nairobi area, which road cannot directly reach Gitanga Road?",D
+59,Karbarnet Road,Joseph Kang'ethe,Ojijo Road,Ring Road Kilimani,"In the Nairobi area, which road cannot directly reach Lang'ata Link Road?",C
+60,Chiromo Road,Kariakor Roundabout,Argwings Kodhek Road,Nyasa Road,"In the Nairobi area, which road directly reaches Valley Road?",C
+61,Ronald Ngala Street,USIU Road,Processional Way,Lusaka Road,"In the Nairobi area, which road directly reaches Nyerere Road?",C
+62,State House Road,James Gichuru Road,Nyerere Road,Kenyatta Avenue,"In the Nairobi area, which road cannot directly reach Processional Way?",B
+63,Langata Road,Tom Mboya Street,River Road,Racecourse Road,"In the Nairobi area, which road cannot directly reach Ronald Ngala Street?",A
+64,Harambee Avenue,Slip Road,City Hall Way,Chai Road,"In the Nairobi area, which road cannot directly reach Moi Avenue?",D
+65,Parklands Road,Kenyatta Avenue,Eastleigh 1st Avenue,Kaptagat Road,"In the Nairobi area, which road directly reaches State House Avenue?",B
+66,Processional Way,State House Avenue,University Way,Riverside Drive,"In the Nairobi area, which road cannot directly reach State House Road?",D
+67,Kirongothi Street,Cotton Avenue,Gitaru Road,Bondo Street,"In the Nairobi area, which road directly reaches Lenana Road?",B
+68,Kabiria Road,Lenana Road,Cotton Avenue,ICD Road,"In the Nairobi area, which road directly reaches Woodlands Road?",B
+69,University Way,Kenyatta Avenue,Mirema Road,Banda Street,"In the Nairobi area, which road cannot directly reach Muindi Mbingu Street?",C
+70,Kariakor Roundabout,Tubman Road,Kenyatta Avenue,Waiyaki Red Hill Link Road,"In the Nairobi area, which road directly reaches Koinage Street?",C
+71,Ojijo Road,Chiromo Road,Nyasa Road,Mogotio Road,"In the Nairobi area, which road cannot directly reach Chiromo Lane?",C
+72,Sergeant Kahande Street,Suna Road,Chiromo Lane,Haile Selassie Avenue,"In the Nairobi area, which road directly reaches Mogotio Road?",C
+73,Limuru Road,Juja Road,Sarit Centre Roundabout,Prof. Wangari Maathai Road,"In the Nairobi area, which road cannot directly reach Parklands Road?",B
+74,M.P. Shah Roundabout,Kipande Road,Runda Road,Chiromo Lane,"In the Nairobi area, which road cannot directly reach Ojijo Road?",C
+75,Elgon Road,Enterprise Road,Denis Pritt Road,Kipande Road,"In the Nairobi area, which road directly reaches Commercial Street?",B
+76,Dunga Road,Slip Road,Bunyala Road,Commercial Street,"In the Nairobi area, which road cannot directly reach Bunyala Road Roundabout?",B
+77,Latema Road,Ronald Ngala Street,Murang'a Road,Uyoma Street,"In the Nairobi area, which road cannot directly reach River Road?",D
+78,Southern Bypass Expressway Exit,Ridgeways Road,Nairobi-Nakuru Road,Digo Road,"In the Nairobi area, which road directly reaches Pumwani Road?",D
+79,Oloitoktok Road,Joseph Kang'ethe,Moi Avenue,Banda Street,"In the Nairobi area, which road directly reaches Harambee Avenue?",C
+80,Kiambu Road,Gitanga Road,Ngecha Road,Kumasi Road,"In the Nairobi area, which road directly reaches Oloitoktok Road?",B
+81,Slip Road,Lamu Road,Gitanga Road,Magadi Road,"In the Nairobi area, which road directly reaches Muthangari Road?",C
+82,Likoni Road,Westlands Expressway Entry,Kitisuru Road,Parklands Road,"In the Nairobi area, which road directly reaches M.P. Shah Roundabout?",D
+83,Muthaiaga Road,Southern Bypass Expressway Entry,Muthaiga Round About,Limuru Road,"In the Nairobi area, which road cannot directly reach Muthaiga Road?",B
+84,Raila Odinga Way,Koma Rock Road,Taarifa Road,Ngecha Road,"In the Nairobi area, which road directly reaches Kirawa Road?",D
+85,Langata Link Road,Rabai Road,Kangaru Road,Loresho Ridge,"In the Nairobi area, which road directly reaches Kyuna Road?",D
+86,Bunyala Road Roundabout,Kyuna Road,Fortsmith Road,Kapenguria Road,"In the Nairobi area, which road cannot directly reach Loresho Ridge?",A
+87,James Gichuru Road,Olenguruone Road,Airport North Road,Riverside Drive,"In the Nairobi area, which road cannot directly reach Mzima Springs Road?",C
+88,Landhies Road,Garden Estate Road,Ladhies Road-,Butecho,"In the Nairobi area, which road cannot directly reach Sakwero Road?",B
+89,Sakwero Road,Muthangari Road,Kiuru Road,Tubman Road,"In the Nairobi area, which road directly reaches Ladhies Road-?",A
+90,Lusaka Road Round About,Sakwero Road,City Stadium Roundabout,Ladhies Road-,"In the Nairobi area, which road cannot directly reach Landhies Road?",A
+91,Heshima Road,Roasters Roundabout,Murang'a Road,Kariakor Roundabout,"In the Nairobi area, which road directly reaches Ring Road Ngara?",D
+92,State House Road,Ring Road Ngara,Ring Road,Racecourse Road,"In the Nairobi area, which road cannot directly reach Kariakor Roundabout?",A
+93,Bondo Street,Sakwero Road,Lamu Road,Kikambala Road,"In the Nairobi area, which road cannot directly reach Butecho?",D
+94,Athi Road,Sarit Centre Roundabout,Ajuoga Road,Nyasa Road,"In the Nairobi area, which road cannot directly reach Wangu Avenue?",B
+95,Wangu Avenue,Margaret Wambui Kenyatta Road,Heshima Road,Jogoo Road,"In the Nairobi area, which road cannot directly reach Nyasa Road?",B
+96,Runda Road,Woodvale Drive,United Nations Avenue,USIU Road,"In the Nairobi area, which road cannot directly reach Runda Roundabout?",D
+97,Doonholm Road,Runda Roundabout,Upper Hill Road,Langata South Road,"In the Nairobi area, which road directly reaches Ruaka Road?",B
+98,Runda Roundabout,State House Road,Elgon Road,Northview Road,"In the Nairobi area, which road directly reaches Woodvale Drive?",A
+99,Wangu Avenue,Manyanja Road,Nile Road,Buruburu Road,"In the Nairobi area, which road cannot directly reach Ajuoga Road?",B
+100,Ajuoga Road,Mtindwa Road,Jogoo Road,Charles New Road,"In the Nairobi area, which road cannot directly reach Nile Road?",B
+101,Nile Road,Ajuoga Road,Rabai Road,City Mortuary Round About,"In the Nairobi area, which road cannot directly reach Buruburu Road?",D
+102,Jogoo Road,Charles New Road,Oloitokitok Road,Buruburu Road,"In the Nairobi area, which road cannot directly reach Rabai Road?",C
+103,Lamu Road,General Waruinge Street,Ngong Road,2nd Avenue Eastleigh,"In the Nairobi area, which road cannot directly reach General Waruingi Street?",C
+104,Banda Street,Chai Road,Murang'a Road,Elgon Road,"In the Nairobi area, which road directly reaches Fairview Road?",C
+105,Globe Roundabout,Ronald Ngala Street,Kenyatta Avenue,Kumasi Road,"In the Nairobi area, which road cannot directly reach Kirinyaga Road?",C
+106,Kipande Road,Murang'a Road,University Way,Southern Bypass Expressway Entry,"In the Nairobi area, which road cannot directly reach Globe Roundabout?",D
+107,Wangu Avenue,Ladhies Road,Lenana Road,Kangundo Road,"In the Nairobi area, which road directly reaches Athi Road?",A
+108,Kingara Road,Woodvale Grove,Kiambu Road,Spring Valley Road,"In the Nairobi area, which road directly reaches Ridgeways Road?",C
+109,Kiambu-Limuru-Thogoto Rd.,Murang'a Road,Commercial Street,Woodvale Drive,"In the Nairobi area, which road cannot directly reach Kiambu Road?",C
+110,City Hall Way,USIU Road,Capital Center Exit B,Koinage Street,"In the Nairobi area, which road directly reaches Thome 2nd Avenue?",B
+111,Mirema Road,Gataka Road,Thome 2nd Avenue,New Garden Estate Road,"In the Nairobi area, which road cannot directly reach USIU Road?",B
+112,Marurui Road,Thome 2nd Avenue,Olenguruone Road,USIU Road,"In the Nairobi area, which road cannot directly reach New Garden Estate Road?",C
+113,Suna Road,Raila Odinga Way,USIU Road,Argwings Kodhek Road,"In the Nairobi area, which road directly reaches Mirema Road?",C
+114,Uhuru Highway,Kayole Spine Road,Buruburu Road,State House Road,"In the Nairobi area, which road directly reaches Masimba Road?",B
+115,Malewa Road 2,Kyuna Road,Kangundo Road,Mwangaza Road,"In the Nairobi area, which road cannot directly reach Kayole Spine Road?",B
+116,Langata Link Road,Nyayo Stadium Roundabout,Roasters Roundabout,Kayole Spine Road,"In the Nairobi area, which road directly reaches Malewa Road?",D
+117,Manyanja Road,Mtindwa Road,Malewa Road,Thigiri Ridge Road,"In the Nairobi area, which road cannot directly reach Moi Drive?",D
+118,Tate Close,Ole Odume Road,Moi Drive,Sergeant Kahande Street,"In the Nairobi area, which road directly reaches Mtindwa Road?",C
+119,Haile Selassie Roundabout,Gitanga Road,Naivasha Road,Muthiora Road,"In the Nairobi area, which road cannot directly reach Kawangware Road?",A
+120,Runda Road,Naivasha Road,Kingara Road,6th Parklands Avenue,"In the Nairobi area, which road directly reaches Muthiora Road?",B
+121,Ngecha Road,Thigiri Ridge Road,Loresho Ridge,Spring Valley Road,"In the Nairobi area, which road cannot directly reach Lower Kabete Road?",B
+122,Joseph Kang'ethe,Kayole Spine Road,Langata South Road,Hinga Road,"In the Nairobi area, which road directly reaches Kaptagat Road?",D
+123,Malewa Road 2,Kayole Spine Road,Mwangaza Road,Southern Bypass Expressway Entry,"In the Nairobi area, which road cannot directly reach Kangaru Road?",D
+124,Outer Ring Road,Westlands Expressway Entry,Kangaru Road,Red Hill Road,"In the Nairobi area, which road directly reaches Mwangaza Road?",C
+125,Latema Road,Nyasa Road,Kayole Spine Road,Dagoretti Corner,"In the Nairobi area, which road directly reaches Malewa Road 2?",C
+126,Roasters Roundabout,Mumias Road,Wangombe Road,Enterprise Road,"In the Nairobi area, which road directly reaches Mumias Road?",C
+127,SGR Expressway Exit,Karbarnet Road,Dagoretti Corner,Mumias Road,"In the Nairobi area, which road directly reaches Wangombe Road?",D
+128,Malewa Road 2,Slip Road,Kaptagat Road,Magadi Road,"In the Nairobi area, which road directly reaches Kiboko Road?",D
+129,Kiboko Road,Langata Road,Enterprise Road,Masai Lodge Road,"In the Nairobi area, which road cannot directly reach Magadi Road?",C
+130,Gataka Road,Athi Road,Kipande Athumani Street,Marurui Road,"In the Nairobi area, which road directly reaches Forest Line Road?",A
+131,Thika Road,Forest Line Road,Magadi Road,Langata South Road,"In the Nairobi area, which road cannot directly reach Gataka Road?",A
+132,Gataka Road,Langata Road,Kapenguria Road,Forest Line Road,"In the Nairobi area, which road cannot directly reach Langata South Road?",C
+133,Galana Road,Captain Mungai Street,Kaptagat Road,Muthaiaga Road,"In the Nairobi area, which road directly reaches Hinga Road?",C
+134,Ladhies Road,Gitaru Road,Red Hill Road,Kiboko Road,"In the Nairobi area, which road directly reaches Ngecha Wangige Road?",B
+135,Moi Avenue,Wangombe Road,Ngecha Wangige Road,Kapenguria Road,"In the Nairobi area, which road directly reaches Gitaru Road?",C
+136,Lunga Lunga Road,Loresho Ridge,Upper Kabate Road,Fortsmith Road,"In the Nairobi area, which road cannot directly reach Kapenguria Road?",A
+137,Kapenguria Road,Margaret Wambui Kenyatta Road,Tate Close,Kiboko Road,"In the Nairobi area, which road directly reaches Upper Kabate Road?",A
+138,Juja Road,Oloitoktok Road,Koinage Street,Museum Hill Exit A,"In the Nairobi area, which road directly reaches White Castle Road?",A
+139,Tate Close,Ring Road,Grevillea Grove,Ngong Road,"In the Nairobi area, which road directly reaches Dagoretti Corner?",D
+140,Runda Road,Naivasha Road,M.P. Shah Roundabout,Nyasa Road,"In the Nairobi area, which road directly reaches Kikuyu Road?",B
+141,Kangundo Road,Outer Ring Road,City Hall Way,Mutarawka Road,"In the Nairobi area, which road cannot directly reach Koma Rock Road?",C
+142,Kayole Spine Road,Kagundo Road,Captain Mungai Street,Koma Rock Road,"In the Nairobi area, which road cannot directly reach Kangundo Road?",C
+143,Old Mombasa Road,Koma Rock Road,Lunga Lunga Road,Limuru Road,"In the Nairobi area, which road directly reaches Mutarawka Road?",B
+144,Elgon Road,Upper Hill Road,USIU Road,Muindi Mbingu Street,"In the Nairobi area, which road directly reaches Hospital Road?",A
+145,ICD Road,Kabiria Road,Mzima Springs Road,Likoni Road,"In the Nairobi area, which road directly reaches Kinyanjui Road?",B
+146,Kinyanjui Road,Lower Hill Road,Langata Road,Masai Lodge Road,"In the Nairobi area, which road directly reaches Kabiria Road?",A
+147,Nairobi Expressway Link,Ngecha Road,Southern Bypass Expressway Exit,Kipande Road,"In the Nairobi area, which road directly reaches Getathuru Road?",B
+148,Langata South Road,Loresho Ridge,Langata Link Road,Magadi Road,"In the Nairobi area, which road cannot directly reach Langata Road?",B
+149,Masai Lodge Road,Wangombe Road,Rimpa Road,ICD Road,"In the Nairobi area, which road directly reaches Masai Lodge Road?",C
+150,Major Jackson Murithi Street,Eastleigh 1st Avenue,Grevillea Grove,Masai Lodge Road,"In the Nairobi area, which road directly reaches Rimpa Road?",D
+151,Dr. G.W. Griffin Road,Limuru Road,University Way Round About,D.O.D Roundabout,"In the Nairobi area, which road directly reaches United Nations Avenue?",B
+152,Kitisuru Road,Parliament Road,New Garden Estate Road,Loresho Ridge,"In the Nairobi area, which road directly reaches Marurui Road?",C
+153,Mombasa - Nairobi Road,Southern Bypass Expressway Exit,Enterprise Road,Latema Road,"In the Nairobi area, which road cannot directly reach Mombasa Road?",D
+154,Ruaka Road,Commercial Street,Lusaka Road Round About,Likoni Road,"In the Nairobi area, which road cannot directly reach Enterprise Road?",A
+155,Muratina Street,Rimpa Road,Kawangware Road,Lower Kabete Road,"In the Nairobi area, which road directly reaches Spring Valley Road?",D
+156,Langata South Road,Lower Kabete Road,Ngecha Road,Kitisuru Road,"In the Nairobi area, which road cannot directly reach Peponi Road?",A
+157,Uhuru Highway,Nyayo Stadium Roundabout,Lusaka Road,Loresho Ridge,"In the Nairobi area, which road directly reaches Fortsmith Road?",D
+158,Muthiora Road,Thigiri Ridge Road,Southern Bypass Expressway Entry,Athi Road,"In the Nairobi area, which road directly reaches Red Hill Road?",B
+159,Butecho,Riara Road,Prof. Wangari Maathai Road,Mirema Road,"In the Nairobi area, which road directly reaches Taarifa Road?",C
+160,Matumbato Road,James Gichuru Road,Banda Street,Mzima Springs Road,"In the Nairobi area, which road directly reaches Margaret Wambui Kenyatta Road?",B
+161,USIU Road,General Waruingi Street,Peponi Road,Hospital Road,"In the Nairobi area, which road directly reaches Thigiri Ridge Road?",C
+162,Racecourse Road,Heshima Road,Elgon Road,Kitisuru Road,"In the Nairobi area, which road directly reaches Upper Hill Road?",C
+163,Matumbato Road,Upper Hill Road,Hospital Road,Rimpa Road,"In the Nairobi area, which road cannot directly reach Elgon Road?",D
+164,Haile Selassie Exit,Kagundo Road,Processional Way,Dennis Pritt Road,"In the Nairobi area, which road directly reaches Galana Road?",D
+165,City Hall Way,Galana Road,Kirawa Road,Captain Mungai Street,"In the Nairobi area, which road directly reaches Dennis Pritt Road?",B
+166,Rabai Road,Kawangware Road,Kenyatta Avenue Round About,Ring Road Westlands,"In the Nairobi area, which road directly reaches Mumias South Road?",A
+167,Kingara Road,Marurui Road,Lamu Road,Cargen Roundabout,"In the Nairobi area, which road directly reaches Garden Estate Road?",B
+168,Outer Ring Road,Jogoo Road,Athi Road,Lunga Lunga Roundabout,"In the Nairobi area, which road cannot directly reach Lunga Lunga Road?",C
+169,Oloitokitok Road,Cemetery Road,Likoni Road,Langata Link Road,"In the Nairobi area, which road directly reaches Lunga Lunga Roundabout?",C
+170,Jogoo Road,Likoni Road,Kamukunji Road,Landhies Road,"In the Nairobi area, which road cannot directly reach City Stadium Roundabout?",B
+171,Joseph Kang'ethe,Mondlane Street,2nd Avenue Eastleigh,Argwings Kodhek Road,"In the Nairobi area, which road directly reaches D.O.D Roundabout?",D
+172,James Gichuru Road,Waiyaki Way,Waiyaki Red Hill Link Road,Rimpa Road,"In the Nairobi area, which road cannot directly reach James Gichuru Junction?",D
+173,Lang'ata Link Road,State House Road,James Gichuru Road,Airport North Road,"In the Nairobi area, which road directly reaches Old Mombasa Road?",D
+174,Kiambu Road,Cemetery Road,Lenana Road,Old Mombasa Road,"In the Nairobi area, which road directly reaches ICD Road?",D
+175,Taarifa Road,Prof. Wangari Maathai Road,Galana Road,Rabai Road,"In the Nairobi area, which road directly reaches Charles New Road?",D
+176,Ring Road Ngara,Ronald Ngala Street,Masai Lodge Road,Ngong Road,"In the Nairobi area, which road directly reaches Karbarnet Road?",D
+177,Parklands Road,Lower Kabete Road,Oloiktoktok Road,Ring Road Parklands,"In the Nairobi area, which road cannot directly reach Sarit Centre Roundabout?",C
+178,Kitisuru Road,Ridgeways Road,Kangundo Road,Nyerere Road,"In the Nairobi area, which road directly reaches Tate Close?",A
+179,Chiromo Lane,Bondo Street,Enterprise Road,ICD Road,"In the Nairobi area, which road directly reaches Lusaka Road Round About?",C
+180,Lusaka Road Round About,Nyayo Stadium Roundabout,Ring Road Westlands,Cargen Roundabout,"In the Nairobi area, which road cannot directly reach Lusaka Road?",C
+181,Lusaka Road,Uhuru Highway,Muthaiga Road,Ring Road Ngara,"In the Nairobi area, which road directly reaches Cargen Roundabout?",A
+182,Kayole Spine Road,Dunga Road,Muhuri Road,Wangombe Road,"In the Nairobi area, which road directly reaches Kiuru Road?",C
+183,Waiyaki Way,Bondo Street,Kapenguria Road,Grevillea Grove,"In the Nairobi area, which road directly reaches Muhuri Road?",A
+184,Muthaiga Road,Nairobi-Nakuru Road,Heshima Road,Kenyatta Avenue,"In the Nairobi area, which road directly reaches Muthaiga Round About?",A
+185,Uhuru Highway,Langata Road,Ladhies Road,Mombasa Road,"In the Nairobi area, which road cannot directly reach Nyayo Stadium Roundabout?",C
+186,Northview Road,Jogoo Road,Lusaka Road,Harambee Avenue,"In the Nairobi area, which road directly reaches Manyanja Road?",B
+187,Getathuru Road,Uhuru Highway,Moi Avenue,Parliament Road,"In the Nairobi area, which road cannot directly reach City Hall Way?",A
+188,ICD Road,Capital Center Exit B,City Hall Way,Runda Road,"In the Nairobi area, which road directly reaches Parliament Road?",C
+189,Harambee Avenue,Malewa Road,Nyayo Stadium Roundabout,Bunyala Roundabout,"In the Nairobi area, which road cannot directly reach Uhuru Highway?",B
+190,Runda Roundabout,Lamu Road,Outer Ring Road,Oloitoktok Road,"In the Nairobi area, which road directly reaches Runda Road?",A
+191,Charles New Road,Kariakor Roundabout,Racecourse Road,M.P. Shah Roundabout,"In the Nairobi area, which road directly reaches Ring Road?",B
+192,Suna Road,Runda Road,Kamukunji Road,Kirinyaga Road,"In the Nairobi area, which road directly reaches Kumasi Road?",D
+193,Bunyala Road Roundabout,Kenyatta Avenue Round About,Elgeyo Marakwet Road,General Waruingi Street,"In the Nairobi area, which road directly reaches Dunga Road?",A
+194,Magadi Road,Getathuru Road,Westlands Roundabout,Tom Mboya Street,"In the Nairobi area, which road directly reaches Mondlane Street?",D
+195,River Road,Haile Selassie Avenue,Ladhies Road,Kiboko Road,"In the Nairobi area, which road cannot directly reach Racecourse Road?",D
+196,2nd Avenue Eastleigh,Ring Road Parklands,Muthangari Road,Kiambu Road,"In the Nairobi area, which road directly reaches 6th Parklands Avenue?",B
+197,Oloitokitok Road,Athi Road,Limuru Road,Mogotio Road,"In the Nairobi area, which road directly reaches Redhill Road?",C
+198,Sergeant Kahande Street,Hospital Close,Juja Road,Major Jackson Murithi Street,"In the Nairobi area, which road cannot directly reach Eastleigh 1st Avenue?",B
+199,Slip Road,Sakwero Road,Museum Hill Exit A,Ngecha Road,"In the Nairobi area, which road directly reaches Waiyaki Red Hill Link Road?",D
+200,Chiromo Lane,Forest Line Road,Prof. Wangari Maathai Road,Ring Road Westlands,"In the Nairobi area, which road cannot directly reach Chiromo Road?",B
+201,General Waruinge Street,Ring Road Parklands,Airport South Road,Dennis Pritt Road,"In the Nairobi area, which road directly reaches Woodvale Grove?",B
+202,Oloitoktok Road,Outer Ring Road,Kumasi Road,Athi Road,"In the Nairobi area, which road directly reaches Kikambala Road?",A
+203,Westlands Expressway Entry,Waiyaki Way,Banda Street,Southern Bypass Expressway Entry,"In the Nairobi area, which road cannot directly reach Nairobi Expressway?",C
+204,Capital Center Exit A,Charles New Road,Chiromo Lane,Brookside Drive,"In the Nairobi area, which road directly reaches Grevillea Grove?",D
+205,Fortsmith Road,Grevillea Grove,Limuru Road,Ngara Road,"In the Nairobi area, which road directly reaches Brookside Drive?",B
+206,Jogoo Road,Outer Ring Road,Kiuru Road,Prof. Wangari Maathai Road,"In the Nairobi area, which road directly reaches Hamza Road?",A
+207,Mumias Road,Kiambu Road,Roasters Roundabout,Murang'a Road,"In the Nairobi area, which road cannot directly reach Thika Road?",A
+208,Nairobi-Nakuru Road,Charles New Road,Capital Center Exit B,Kangundo Road,"In the Nairobi area, which road directly reaches Kagundo Road?",D
+209,General Waruinge Street,Ngong Road,Airport North Road,Ambira Road,"In the Nairobi area, which road directly reaches Cemetery Road?",B
+210,Woodvale Drive,Juja Road,Kayole Spine Road,Moi Avenue,"In the Nairobi area, which road directly reaches Mama Ngina Street?",D
+211,Raila Odinga Way,Red Hill Road,Valley Road,Ngong Road,"In the Nairobi area, which road cannot directly reach City Mortuary Round About?",B
+212,Muthaiga Road,Prof. Wangari Maathai Road,Suna Road,Latema Road,"In the Nairobi area, which road directly reaches Muthaiaga Road?",A
+213,Hinga Road,Dagoretti Corner,Murang'a Road,Denis Pritt Road,"In the Nairobi area, which road directly reaches Northview Road?",C
+214,Digo Road,Oloiktoktok Road,Malewa Road,Getathuru Road,"In the Nairobi area, which road directly reaches Oloitokitok Road?",B
+215,Doonholm Road,Cemetery Road,Ring Road Ngara,Raila Odinga Way,"In the Nairobi area, which road directly reaches Donholm Road?",A
+216,Donholm Road,Kirinyaga Road,Fortsmith Road,Loresho Ridge,"In the Nairobi area, which road directly reaches Doonholm Road?",A
+217,Manyanja Road,Ronald Ngala Street,Galana Road,Joseph Kang'ethe,"In the Nairobi area, which road directly reaches Uyoma Street?",B
+218,Parliament Road,2nd Avenue Eastleigh,Roasters Roundabout,Old Mombasa Road,"In the Nairobi area, which road directly reaches Airport North Road?",D
+219,City Mortuary Round About,6th Parklands Avenue,Riverside Drive,Suna Road,"In the Nairobi area, which road directly reaches Raila Odinga Way?",A
+220,Mombasa Road,Tubman Road,Chiromo Lane,Dennis Pritt Road,"In the Nairobi area, which road directly reaches Capital Center Exit B?",A
+221,Mombasa Road,Digo Road,Kamukunji Road,Ole Odume Road,"In the Nairobi area, which road directly reaches Southern Bypass Expressway Exit?",A
+222,Airport South Road,Desai Road,United Nations Avenue,Uhuru Highway,"In the Nairobi area, which road directly reaches Haile Selassie Exit?",D
+223,SGR Expressway Exit,Fortsmith Road,Juja Road,Kenyatta Avenue,"In the Nairobi area, which road directly reaches Kenyatta Avenue Round About?",D
+224,Rabai Road,Dagoretti Corner,Mombasa Road,Ngong Road,"In the Nairobi area, which road directly reaches Ragati Road?",D
+225,State House Avenue,Mama Ngina Street,Ngecha Wangige Road,Ring Road Parklands,"In the Nairobi area, which road directly reaches Westlands Roundabout?",D
+226,Kamukunji Road,Kiambu Road,Parliament Road,Muthaiaga Road,"In the Nairobi area, which road directly reaches Kiambu-Limuru-Thogoto Rd.?",B
+227,Murang'a Road,Margaret Wambui Kenyatta Road,Galana Road,Fortsmith Road,"In the Nairobi area, which road directly reaches Ngara Road?",A
+228,Bunyala Road,Spring Valley Road,Kinyanjui Road,Racecourse Road,"In the Nairobi area, which road directly reaches Ladhies Road?",D
+229,Bunyala Roundabout,Muratina Street,Butecho,Chiromo Road,"In the Nairobi area, which road directly reaches Aerodrome Road?",A
+230,Upper Kabate Road,Mombasa - Nairobi Road,Ring Road Kilimani,Capital Center Exit B,"In the Nairobi area, which road directly reaches SGR Expressway Exit?",B
+231,Wangu Avenue,Airport South Road,SGR Expressway Exit,Mombasa Road,"In the Nairobi area, which road cannot directly reach Mombasa - Nairobi Road?",A
+232,Woodvale Grove,Bunyala Roundabout,Airport North Road,Capital Center Exit B,"In the Nairobi area, which road directly reaches Airport South Road?",C
+233,Murang'a Road,Ojijo Road,Processional Way,Grevillea Grove,"In the Nairobi area, which road directly reaches Desai Road?",A
+234,Waiyaki Way,General Waruinge Street,Taarifa Road,Major Jackson Muirithi Street,"In the Nairobi area, which road directly reaches Nairobi-Nakuru Road?",A
+235,Limuru Road,James Gichuru Junction,D.O.D Roundabout,Muindi Mbingu Street,"In the Nairobi area, which road directly reaches Banda Street?",D
+236,Haile Selassie Avenue,Waiyaki Way,Airport North Road,Gitanga Road,"In the Nairobi area, which road directly reaches Lower Hill Road?",A
+237,Pumwani Road,Ronald Ngala Street,Uhuru Highway,Elgeyo Marakwet Road,"In the Nairobi area, which road directly reaches Museum Hill Exit A?",C
+238,Cotton Avenue,Wangu Avenue,Thika Road,Kabiria Road,"In the Nairobi area, which road directly reaches Roasters Roundabout?",C
+239,Sakwero Road,Sarit Centre Roundabout,Olenguruone Road,Dr. G.W. Griffin Road,"In the Nairobi area, which road directly reaches Prof. Wangari Mathai Road?",D
+240,Museum Hill Exit A,Cargen Roundabout,Moi Avenue,Hinga Road,"In the Nairobi area, which road directly reaches Slip Road?",C
+241,Woodvale Drive,Southern Bypass Expressway Entry,Denis Pritt Road,Langata Road,"In the Nairobi area, which road directly reaches Langata Link Road?",D
+242,Lusaka Road,Mumias Road,Mombasa Road,Koma Rock Road,"In the Nairobi area, which road directly reaches Capital Center Exit A?",C
+243,Jogoo Road,Ngecha Road,Murang'a Road,Kinyanjui Road,"In the Nairobi area, which road directly reaches Park Road?",C
+244,Elgon Road,Langata Road,Cemetery Road,Ajuoga Road,"In the Nairobi area, which road directly reaches Matumbato Road?",A
+245,Raila Odinga Way,Kitisuru Road,Nyayo Stadium Roundabout,Lenana Road,"In the Nairobi area, which road directly reaches Hospital Close?",A
+246,Moi Avenue,Kagundo Road,M.P. Shah Roundabout,Oloiktoktok Road,"In the Nairobi area, which road directly reaches Tubman Road?",A
+247,Nairobi Expressway,Desai Road,Ngecha Wangige Road,Doonholm Road,"In the Nairobi area, which road directly reaches Westlands Expressway Entry?",A
+248,Muthiora Road,Nairobi Expressway,Wangombe Road,Ring Road,"In the Nairobi area, which road directly reaches Nairobi Expressway Link?",B
+249,Muratina Street,Nairobi Expressway,Harambee Avenue,Enterprise Road,"In the Nairobi area, which road directly reaches Southern Bypass Expressway Entry?",B
+250,Nairobi Expressway,Heshima Road,Mutarawka Road,Jogoo Road,"In the Nairobi area, which road directly reaches Capital Centre Expressway Entry?",A

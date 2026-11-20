@@ -1,0 +1,184 @@
+id,question,answer,A,B,C,D,E
+0,Which POI belongs to type: fuel?,A,Sprint,Dr. Michael Jüngst,SPA Natura by E&D,Regenbogen Apotheke,Cafe Metrom
+1,Which POI belongs to type: restaurant?,B,Karate-Dojo Möckernstraße,Quy Nguyen Vegan Living,Mats,Spieltreff Eichborndamm 98,TAS Gemüse Kebap
+2,Which POI belongs to type: bank?,E,Dolden-Mädel,Peter Euler,Berlin Homemade Icecream,Rodelhütte,Targobank
+3,Which POI belongs to type: post_office?,B,Bao Vietnamese Cooking,"Kaiser Wilhelm Str 60-62, 12247",Sushi For You,Funk You,Ella
+4,Which POI belongs to type: place_of_worship?,B,Sabrina Stempin & Hossai Willis,Alevitischer Kulturverein Berlin e.V. Oniki Imam Yolu/Weg der Zwölf Imame,nextbike,Pizza Nostra,Laib und Seele
+5,Which POI belongs to type: cinema?,D,MikeTheBike,Emmi Oğlu,Onkel Le,Brotfabrik,IMO Car Wash
+6,Which POI belongs to type: library?,C,DaLuca,Thron,Bereichsbibliothek Physik,Euronet,Haus Zoar
+7,Which POI belongs to type: parking?,D,Allego,Chung,Amapola Coworking,Wertheim,nextbike
+8,Which POI belongs to type: police?,A,Polizeistation,Spielothek 21,Thai-Nippon Sushi,Fraunhofer-Forum Berlin,Miami
+9,Which POI belongs to type: events_venue?,B,Due Fratelli,Projektraum Moabit,Onkel Ho,Zahnärzte im Gesundheitszentrum,Postbank
+10,Which POI belongs to type: cafe?,A,Gregory’s,Golden Event und Marketing,Apotheke am Schlosspark,KreuzBurger,WandelBar
+11,Which POI belongs to type: fast_food?,A,City Bistro,SIXT,China Food,Wohngemeinschaften Helene-Weigel-Platz c/o Pro Sana Ambulante Pflege,Fräulein Beckers Lieblingsapotheke
+12,Which POI belongs to type: pub?,E,EckKneipe,Treff 25,Le Jardin,Dr. Bernd Brückner,45°
+13,Which POI belongs to type: pharmacy?,D,Kiez Falafel,44 Chkn,Roderich,Abacus Apotheke,Viet Rice
+14,Which POI belongs to type: theatre?,D,SIXT,Zahnarztpraxis Talesnik,Gabiko,HAU 2 (Hebbel am Ufer),Kinderzahnarzt Dr. Monzer Solyman
+15,Which POI belongs to type: car_rental?,E,hayalhane,Pula-Grill,PizzaLovers,Corinna Garbotz,Jelbi-Station S+U Lichtenberg
+16,Which POI belongs to type: atm?,D,Die Ameisen,Café Schatztruhe,Sparkasse,Euronet,Rathaus Marzahn
+17,Which POI belongs to type: bar?,E,Nirwana,Saccinanda Yoga,Brocca Café,Volkshochschule Reinickendorf,Rum Trader
+18,Which POI belongs to type: toilets?,A,Berliner Toilette,Dezsö Sztankay,Salon Pankow,Martin Schymanski Inselzahnarzt,Theater Artenschutz
+19,Which POI belongs to type: car_wash?,E,Hum,Trattoria Nardini,Veg'd,Weinberg,Westfehling Tankstelle
+20,Which POI belongs to type: fire_station?,B,Herren WC,Berufsfeuerwache Wilmersdorf,Eismanufaktur Il Gelataio,Berliner Kochwerkstatt,Cassiopeia
+21,Which POI belongs to type: biergarten?,A,Stadionterrassen,Ava Pizza Pasta,Mi Escuela Berlin,D. Naumann,Smart cooking
+22,Which POI belongs to type: kindergarten?,C,Altayeb Grillhaus,Moabiter Apotheke,Kant-Kindergarten,Praxis für Kinder- und Jugendmedizin,Café 76
+23,Which POI belongs to type: school?,E,Euronet,Praxis Sterndamm,Cafe Dogu,Julia Reichle,iek
+24,Which POI belongs to type: taxi?,B,Bier's S Friedrichstraße,Schiller / Hardenberg,Repeat,Schlagzeugunterricht Berlin MIOtrommelwerkstatt,GinChilla Bar
+25,Which POI belongs to type: fountain?,B,La Petite France,Möwenbrunnen,Kantpraxis,Xelor Kesselhaus JazzBar,Mr. Grill
+26,Which POI belongs to type: ferry_terminal?,D,Zart Daneben,Mega Wraps Döner,Larisza,Paul-Löbe-Haus/Reichstag,Wochenmarkt
+27,Which POI belongs to type: nightclub?,A,Berghain,Restaurant Blattlaus,Lichtenberger Werkstatt für Behinderte,Mare e Monti,EKT - Krikelkrakel e.V.
+28,Which POI belongs to type: hackerspace?,C,Fabbrica del Gusto,Mein Freund Harvey,TüftelLab Berlin,Tasty Döner 63,Frittenwerk
+29,Which POI belongs to type: childcare?,C,Sparkasse,Minerva-Apotheke,Kinder Werk Stadt,Bibliothek,Viet Dream
+30,Which POI belongs to type: community_centre?,E,Granada,Bistro Waldschulallee,Oder?Vino,burgerme,Kiezladen Zusammenhalt
+31,Which POI belongs to type: doctors?,D,Denspoint,Loft14,"Hals-, Nasen-, Ohrenheilkunde",Jörg Meckies,Asmen Feinkost
+32,Which POI belongs to type: veterinary?,C,India Spice,Restaurant Marinella,Tierarztpraxis & Katzenbetreuung am Botanischen Garten,Theater im Nikolaiviertel,Flinkster
+33,Which POI belongs to type: meditation_centre?,A,Lotos Vihara e.V.,Kyoto,Hak Bäckerei,Kaktus,Cafe Irmak
+34,Which POI belongs to type: social_facility?,E,Hermes Paketshop,Ketch'up 35,Café Liebling,Tepe,"DRK Berlin Südwest Soziale Arbeit, Beratung und Bildung"
+35,Which POI belongs to type: canteen?,D,Bardolino,Euronet,Berliner Marcus Bräu,CVK Cafeteria DHZC,UJZ Karlshorst
+36,Which POI belongs to type: fitness_centre?,A,Urban Street Gym,MIO Restaurant unterm Fernsehturm,Drink and Draw,Laib und Seele,Fratelli da Giovanni Quattro
+37,Which POI belongs to type: university?,E,Brühgruppe,Dr. med. habil. Ulrich Heine,Rathaus Steglitz,Mensa UdK Lietzenburger Straße,TU Berlin Fachgebiet Kraftfahrzeuge
+38,Which POI belongs to type: sports_centre?,E,Pizza Pause,Zaim Falafel,Nhat-Nguyet Quan,Peace Yoga Berlin,WingTsun Kampfkunst Akademie Steglitz
+39,Which POI belongs to type: ice_cream?,B,Bhf. Baumschulenweg,Duo,Döner Zade,Café Schwartzsche Villa,Azem
+40,Which POI belongs to type: bureau_de_change?,D,Kaiser Bistro,CrunchFit,Zorro Sushi,Euro Change,Neumanns
+41,Which POI belongs to type: letter_box?,E,Heynstudios,Funkloch,Medel,Old CCCP Bar,Postfachanlage
+42,Which POI belongs to type: brothel?,B,mini.mal,Rose Thaimodelle,Trungvan,Das Café-Haus,Schülerladen Maulwurf e.V.
+43,Which POI belongs to type: dentist?,D,Sahara Imbiss,Bodystreet,Mangal,Zahnarztpraxis B18,amazonlocker
+44,Which POI belongs to type: post_box?,C,Fugger Imbiss,Café Dreifünf,Briefkasten,Kulturetage,ubitricity
+45,Which POI belongs to type: dance?,A,Hofparkett,Dr. Fenina + Burwieck,Kinderladen Alles Banane,"Theater Strahl, Ostkreuz",OrientEck
+46,Which POI belongs to type: waste_basket?,A,Mülleimer,Birds in the Kitchen,Schweighofer's,Kita Wirbelwind,Hum
+47,Which POI belongs to type: parking_entrance?,C,Dr. Ingrid Braun,Milchbar,Kaufland,Staudt,Palmen-Apotheke
+48,Which POI belongs to type: warehouse?,A,Flink,Esso,Osteria Culaccino,Institut für angewandte Forschung Berlin,Café Black & Red
+49,Which POI belongs to type: clock?,D,Peter-A.-Silbermann-Schule,Cultivation Space,Mekong Küche,Uhrenturm,Dschungel
+50,Which POI belongs to type: research_institute?,A,Fraunhofer Center for Responsible Research and Innovation,Imbiss,Ristorante Verona,Paulo Scutarro,Taqos Loqos
+51,Which POI belongs to type: arts_centre?,A,MaHalla,GSG Parkstrom,Krankenhaus Joseph,Sao Mai,Alte Zeiten Kiez
+52,Which POI belongs to type: studio?,C,Chicken Leckere Mahlzeit,Döner Momo,Studioansage,Goldfisch,Remise No 1
+53,Which POI belongs to type: internet_cafe?,B,Piccolina,Tele-Internetcafe,Kindergarten Auenland,EKT - Firlefanz e.V.,HANOI BISTRO
+54,Which POI belongs to type: social_centre?,E,Viet Bowl,Euronet,Club Tiergarten,PallasT,TDF - The Document Foundation LibreOffice.org
+55,Which POI belongs to type: vending_machine?,C,Ursula Ammon-Hubach,Privatpraxis NeuroMed Berlin,Deutsche Bahn,Streetfood Burger & Döner,Euronet
+56,Which POI belongs to type: charging_station?,D,Kindertagespflege - 'Gänseblümchen',Lauter Eis,Josephinen Apotheke,ubitricity,Kunstraum Kreuzberg
+57,Which POI belongs to type: marina?,D,Brunnen-Apotheke,Zaddy's,Inselreich,MRC Berlin,Bajra
+58,Which POI belongs to type: adult_gaming_centre?,E,Frea,Berlinchen,Schmunzelmonster,Allgemeinmedizinische Hausarztpraxis Claus Gotzmann & Dr. med. Veronika Gohlke,Automatencasino 777
+59,Which POI belongs to type: recycling?,A,Pfandstation,Wilma Restaurant & Sportsbar,Fischer & Lustig,Pin Mail,g4 / Café & bubble tea
+60,Which POI belongs to type: drinking_water?,E,Tônis,Rückenzentrum am Markgrafenpark,Nirwana,Kita Warburgzeile,Euro-Trinkbrunnen
+61,Which POI belongs to type: driving_school?,B,Calm Coffee,Fahrschule ARAS,Maharaja,Haci Baba,Haltestelle Großer Bücherbus Ringelnatz-Grundschule
+62,Which POI belongs to type: hookah_lounge?,D,Schauspielschule Charlottenburg,Bella Italia,Zentrum für Bewegungsheilkunde,Hürrem Sultan,Toplife
+63,Which POI belongs to type: sauna?,A,Der Boiler,Postfiliale,Simorgh,Berlin Comics Schule,Iyengar Yoga
+64,Which POI belongs to type: stripclub?,D,Heilehaus,Berliner Volksbank,Anke Böhnke und Heike Büsenga,Golden Dolls,Westend - Apotheke
+65,Which POI belongs to type: grave_yard?,B,Aral,Evangelische Friedhöfe Friedrichshain,Tomasa,Ristorante Barolo,Berliner Volksbank
+66,Which POI belongs to type: college?,D,Göpner + Göpner | Stefan Gerlach,Pfeffereule,Praxis Carola Thumm-Söhle,Theologisches Studienzentrum Berlin,Pizzeria da Izzi
+67,Which POI belongs to type: playground?,E,DHL,Sparkasse,Berliner Bildungscampus für Gesundheitsberufe,Medizinische Klinik m.S. Infektiologie,Spielplatz der Wohnanlage am Windhalmweg
+68,Which POI belongs to type: archive?,C,Kampfkunstwerkstatt,Straßenbahn,Evangelisches Zentralarchiv in Berlin,Campus Suite,Alamo
+69,Which POI belongs to type: cooking_school?,D,annabell's spätzle,Spazio,Familien Bistro II,Atelier Culinário,Familienschutzwerk
+70,Which POI belongs to type: dojo?,E,Mex Café,Dinea,Dr. med. Sigrid Schründer,Karanfil,Aikido Dojo am Gleisdreieck
+71,Which POI belongs to type: parcel_locker?,A,Amazon Locker - xyleigh,Pizzeria Alte Forno,Kreta,Innogy,Sofram
+72,Which POI belongs to type: clinic?,E,Recycling,Moulin Rouge,Rotbart,Gloria Event Center,Meoclinic
+73,Which POI belongs to type: public_bath?,D,Targobank,Marlene Bar,Café & Restaurant am Petriplatz,Hamam,The Barn
+74,Which POI belongs to type: bicycle_rental?,A,nextbike,Margareta Sliwinski,Euronet,Orient Grill Haus,E-Bike Ladestation
+75,Which POI belongs to type: coworking_space?,A,DB mindbox,Nova Boule,Svenska Victoriaförsamlingens förskola,Rewe Deli am Markt,Auxilia-Apotheke
+76,Which POI belongs to type: swingerclub?,C,café und bistro freysinn,Mathematik für Schüler und Studenten,Möchtegern,A-Petit,Happy Bet
+77,Which POI belongs to type: vehicle_inspection?,C,Catbird,Euronet,GTÜ / axxa KFZ PrüfCenter GmbH,Jens Matzat,Agora
+78,Which POI belongs to type: tanning_salon?,D,Alter Krug,Urovivat,BiBim,Ambiente Sun & Beauty,Wassertreppe
+79,Which POI belongs to type: language_school?,E,3 Bügel,Kia Chi,Zahnkult am Weißensee,easyApotheke,Bluebell & Primrose
+80,Which POI belongs to type: bicycle_parking?,C,Mami's Food & Wine,Euronet,Fahrradparkplatz (TUB Fahrradparkplatz EW_3),Zahnarztpraxis Dres. Häßelbarth,Rock or Bust
+81,Which POI belongs to type: telephone?,A,Telefonsäule (außer Betrieb),Mömax-Restaurant,Uhlandstraße / Grolmanstraße,Döner - Frieden Kebaphaus,Drei Brunnenbecken
+82,Which POI belongs to type: recording_studio?,A,nb film,Tomatenklang,Kita Pinocchio,Kita Pretty World,Döner Plus
+83,Which POI belongs to type: casino?,E,Zentrum für Transdisziplinäre Geschlechterforschung,Reit- und Fahrverein Kleeblatt Berlin e.V.,Fayna,Il Punto,Casino Berlin
+84,Which POI belongs to type: pitch?,D,Kita Pîya,Kulturpost und Bibliothek,Junge,Kraftkombinat,It's A Bar
+85,Which POI belongs to type: marketplace?,C,Golden Brown,Zahnarzt Mario Fosca,Trödelmarkt am Boxhagener Platz,zwölf.uhr.mittags,Burger King
+86,Which POI belongs to type: boat_rental?,C,Trattoria Ischia,Zahnarzt René Zabel,Kanuliebe,Stranero,Innogy
+87,Which POI belongs to type: dormitory?,C,Dezi,Frau Bäckerin,Studentenwohnheim Sewanstraße,Euronet,Seelöwe
+88,Which POI belongs to type: bowling_alley?,C,Steglitzer Dance & Aerobic Center,Apotheke zum Schwan,American Bowl Berlin,Cem Grill,Daniele
+89,Which POI belongs to type: music_school?,B,Dr. Beate Lengert,Simplay,Schmidt Z & KO.,Toca Rouge,lanconference.de
+90,Which POI belongs to type: kitchen?,B,Key‘s,Einbauküchen am Schloss,Huy Long Asia Food & Sushi,CAFÉ CARAMEL,Asia Sushi Bar
+91,Which POI belongs to type: hospital?,C,Dr. Hendrik Güthenke,Blue & Grey,Checkpoint BLN,Gerätegruppe 9 - Zielwerfen/Zielstossen,Brunnen Apotheke
+92,Which POI belongs to type: bicycle_repair_station?,B,Kumpir,Fahrradladen Sonnenalle,Bistro Jonas Café,Café Bades,Freiwillige Feuerwehr Weißensee
+93,Which POI belongs to type: slipway?,D,3D-Minigolf,Steakhouse Asador,Conradia,Bootswerft Rudow,Maecom Falcon Korean Food & Desserts
+94,Which POI belongs to type: customs?,A,Hauptzollamt Berlin,Mehas,Dr. Ingrid Braun,Green 56,Praxis Wildfeuer
+95,Which POI belongs to type: prep_school?,A,Lernwerk Steglitz,Bier Stübl,ubitricity,Brot und Schokolade,Kuchenkultur
+96,Which POI belongs to type: taxi_school?,C,Gelato Maria Maria,Maulana,Taxischule Prenzlauer Berg,Puppentheater Felicio,Escape Zone Berlin
+97,Which POI belongs to type: first_aid_school?,B,Kaiyō,DLRG Wasserrettungsschule Fischerinsel,Orania,MontRaw,Home Bar
+98,Which POI belongs to type: amusement_arcade?,B,Rummels Perle,Varpoint,Reisebank,Lichtenberger Sprachinstitut,Kita Lerngarten
+99,Which POI belongs to type: garden?,C,Café Re,Papaleo,Palliativgarten,Batteriesammelstelle,Synagoge Herbartstraße
+100,Which POI belongs to type: music_venue?,A,Bi Nuu,Yame Numnums Sushi,Mein Gutachter 24,Kältehilfe,Nordsee
+101,Which POI belongs to type: events_centre?,D,Bar Centrale,Simon's Coffee,Don Peppino,Panda Platforma,WonderWaffel
+102,Which POI belongs to type: flightsimulation?,E,Sabzi,Total,Berliner Toilette,Domu Nostra,JetSim Flugsimulation
+103,Which POI belongs to type: public_bookcase?,E,Zahnärzte in Friedrichshain,OUZ Orthopädie- und Unfallchirurgiezentrum Dr. Hami Tabari,Dr. med. Birgit Klee,Chay Village,Das Büchernest
+104,Which POI belongs to type: shelter?,E,Uwe Steffens,Immanuel-Kapelle Baptisten-Gemeinde,Sparkasse,Heilpraktikschule in Selbstverwaltung,Raucherpavillon
+105,Which POI belongs to type: love_hotel?,B,Tonsai,Steinmetz Eck,Schlemmerküche,Die City Apotheke,MaMo PaLou
+106,Which POI belongs to type: car_sharing?,C,Kita Smile,Deutsche Bahn,Stadtmobil,Mint & Basil,Lotos Yoga Berlin - YOGA LOFT
+107,Which POI belongs to type: sailing_school?,A,Segelschule Hering,Jade Palast,Café Schatztruhe,HEM,Claudia Döring
+108,Which POI belongs to type: freeshop?,C,Sonnendeck,Zahnarzt Praxis Rohloff,Umsonst Boutique,Frau Honig,Kaffee Kirsche
+109,Which POI belongs to type: escape_game?,A,Illuminati Escape,Schlüterstraße / Kurfürstendamm,Oh my Bap,Zahnarztpraxis Breitenbachplatz,mini.mal
+110,Which POI belongs to type: cemetery?,A,Opfer 2. Weltkrieg,Schwarz Sauer,Caspian,Come Và Và,Internisten B18
+111,Which POI belongs to type: tutoring?,E,Krumme Lanke,Big Bascha,CityLab Berlin,Kaktus reloaded,Lernpraxis Anja Felber
+112,Which POI belongs to type: lost_property_office?,C,Zahnarztpraxis Dres. Häßelbarth,Kumpir,Fundbüro,SunYoga,Salomon Bagels
+113,Which POI belongs to type: money_transfer?,B,Tannenberg Apotheke,MoneyGram,Markt Apotheke,Puffle Bees,Frau Dr. med.Edith Lozo
+114,Which POI belongs to type: miniature_golf?,E,Café Viet Nam,D'Bolla,Kantine Volksbühne,Soup ’n Roll,"Miniaturgolf ""an der Wiesenbaude"""
+115,Which POI belongs to type: wellness?,C,Zur weißen Kastanie,HAS KEBAP,Liangtse Wellness Center,Boxi Espresso,Fahrschule Fahrpraxis
+116,Which POI belongs to type: horse_riding?,D,Call a Pizza,Crossfit gute Hoffnungshütte,Bless,Reit- und Fahrverein Kleeblatt Berlin e.V.,Flamingo Eis
+117,Which POI belongs to type: monastery?,C,Burger Fabrik,Rôu Vegan,Dominikaner Kloster Sankt Paulus,Nova Post,Santander
+118,Which POI belongs to type: karaoke_box?,A,Cheers Ktv Bar,L'Antica Pizzeria Da Michele,Charlottenburger Wappen,Glückscafé,Enes Döner
+119,Which POI belongs to type: post_depot?,E,Barakat Tandur Brot,Trattoria Viktoria,Dr. Antje Tothfalvy,Eis Schober,Amazon Logistics BER6 in Berlin
+120,Which POI belongs to type: spa?,B,USE ggmbh,Adlon Spa,Brinks,LAP,Restaurant Paracas II
+121,Which POI belongs to type: shower?,E,GinChilla Bar,Reh-KIDS,Café Plume,Kleiner Treffpunkt,rail&fresh
+122,Which POI belongs to type: fish_spa?,C,Apotheke am Flughafen,Café Eckstern,FishSpa,Dr. Ice & Mr Cream,Bistro
+123,Which POI belongs to type: photo_booth?,E,Internationales Theaterinstitut Deutschland,Aashish,Restaurant Macionga,Sons of Mana,Photoautomat
+124,Which POI belongs to type: golf_course?,D,Sakura II,Bistro im Haus der Bundespressekonferenz,Schmieke,Indoor Golf Club Berlin,Tierheilpraxis Kreuzberg
+125,Which POI belongs to type: courthouse?,E,Cafe Extrablatt,Café Info-Station,Kampfkunstschule Neukölln,Max-Planck-Institut für Bildungsforschung,Familiengericht Pankow
+126,Which POI belongs to type: indoor_play?,A,Minicity Kindercafe,Zagreb,Kundenparkhaus Gropius Passagen,Facharzt für innere Medizin Thomas Egri,Doppelgängeradmiral
+127,Which POI belongs to type: food_sharing?,B,Roots,Fairteiler,Pink Frauen Fitness,Roj Cafe Bar,Asuka sushi
+128,Which POI belongs to type: ceramic_painting?,C,Residenz,Merlin-Apotheke,Paint your style,"Familienzentrum ""Pusteblume""",Berufsfeuerwache Wilmersdorf
+129,Which POI belongs to type: food_court?,B,Mama Vân,Markthalle Pfefferberg,Lotus Cafe,Königreichsaal Jehovas Zeugen,Comebuy
+130,Which POI belongs to type: stock_exchange?,D,mc Kebap,Kalus Brunnemann,Parkhaus - Das Schloss,Börse Berlin AG,LOLA X IKI
+131,Which POI belongs to type: training?,E,Subway,Sole d'Oro,Jubi-Stübchen,Max AutoWasch,Frauenalia
+132,Which POI belongs to type: singing_lessons?,C,Burgermeister,Vogelbrunnen mit der Traube,Stimme+,Rosengarten,Kaffeehaus Rosengarten
+133,Which POI belongs to type: project_space?,C,Subway,Burger Vision,Spektrum Project Space,Hummusapiens,GraefeKids
+134,Which POI belongs to type: student_accommodation?,D,Denis Pizza Place,Natalia Ulrich,Leylak,Studio House Berlin,Döner Momo
+135,Which POI belongs to type: smoking_area?,A,Raucherinsel,Prince,Dana Dmikelson,Zacka's Kneipchen,BurgerVision
+136,Which POI belongs to type: fitness_station?,C,+84 Vietnamese Vegan Kitchen,BAR DaF,Stangenpark,Wiener 63,Klainohrhase
+137,Which POI belongs to type: bbq?,D,Praxis Dr. Sander,Ossi Chicken Kebab,MVZ Windscheidstraße,Schneckenhaus,Tortenwerkstatt
+138,Which POI belongs to type: picnic_table?,A,Riesen-Picknicktisch,George's Steakhouse,Veloce Pizza e Pasta,Dunkin',The Pub
+139,Which POI belongs to type: bench?,D,Bar Centrale,Straßenstrich Bülowstraße,Bistro am Nordgraben,Gemüse/Kräuter,Kokoro Dojo
+140,Which POI belongs to type: give_box?,E,Il Centro,Yogastudio Körperklang,Scheinbar Varieté e.V.,LovFit,FreeBox
+141,Which POI belongs to type: animal_boarding?,A,www.berlin-katzenpension.de,Hauptstadtgarten,Flink,Call a Pizza,Toilette
+142,Which POI belongs to type: motorcycle_rental?,B,The Chapel of Prayer Christian Ministry,Velosolex,Cafeteria der Guttempler,Liangtse Wellness Center,Club Lala 203
+143,Which POI belongs to type: dark_store?,E,Monarch,Ranush,Kieser Training,Mido,flink
+144,Which POI belongs to type: dog_park?,B,Dr. med. Katrin Sattelkau,Hundegarten Moabit,Gold 79,Boutique Patisserie,Familien Bistro II
+145,Which POI belongs to type: outdoor_seating?,C,BRLO Charlottenburg,Rosengarten,Wein & Käse Garten,Charme Thai Bistro Cafe,42 Inspiring Coffee
+146,Which POI belongs to type: baby_goods?,B,Traber-Treff,Tauschbörse,Fitness Center,Exclusive Coffee,Winterfeldt Schokoladen
+147,Which POI belongs to type: music_venue?,A,Uber Eats Music Hall,Berg & Tal,Funkturm-Restaurant,Kita Die Bärenbande,Jenseits von Birkenstraße
+148,Which POI belongs to type: animal_shelter?,E,MedCenter 360°,be emobil,Deutsche Bahn,die hautexperten,Samtpfoten Neukölln e.V.
+149,Which POI belongs to type: sport_school?,B,Lac Viet,Dingadu,Sensual Massage,Zur Gartenschänke,Exchange AG - Schlossstraße
+150,Which POI belongs to type: sports_hall?,A,Ballspielhalle,Emmi Oğlu,Starbucks,Spoonful,AUDIO
+151,Which POI belongs to type: workshop?,B,Woodcutter,Repair Café,Sushi Yana,Hotel Palace,La Laconda
+152,Which POI belongs to type: hunting_stand?,A,Tegeler Hundeauslaufgebiet,Hort Sonnenkids,Winterfeldtmarkt,Le Bateau Ivre,Frankfurter Apotheke
+153,Which POI belongs to type: disc_golf_course?,B,Cashzone,Disc Golf Park Pfeffersport Rennbahnstraße,Daluma,Delivery Hero,Turngemeinde in Berlin 1848 – Budozentrum
+154,Which POI belongs to type: ruins?,B,Dr. med. W. Göpfert,ehem. Wirtshaus Riemeister,Rosegger-Apotheke,BIP,EKT -Yildiz Kirschkern e.V.
+155,Which POI belongs to type: fortune_teller?,B,Ca Doro,Mediumwelt,Kinderladen Spieltraum,Goodlyfe,Krankenhaus Friedrichshain
+156,Which POI belongs to type: payment_terminal?,C,Euronet,Turngemeinde in Berlin 1848 – Budozentrum,Coinstar,SpVgg Tiergarten 58,Delirio
+157,Which POI belongs to type: government?,A,Bundesnachrichtendienst,Fitness Center,Kieser Training,Power Bär,Kita Lauterstraße 30
+158,Which POI belongs to type: art_school?,E,Hausärztliche Praxis Frank-Peter Graeben,Aral,Raucherinsel,Puppentheater Firlefanz,Atelier Baustelle
+159,Which POI belongs to type: conference_centre?,B,Ria,Tagungsräume und Festsaal der Berliner Stadtmission,KIEZKLUB Treptow-Kolleg,LAGeSo Büchertankstelle,HAS KEBAP
+160,Which POI belongs to type: parking_space?,B,Lernraum,Rewe,Ninety-Four,amazonlocker,Sputnik Kino
+161,Which POI belongs to type: dancing_school?,B,Paketshop 651,Tanzstudio im Süden,ULT ramen,Segafredo,Deniz
+162,Which POI belongs to type: park?,B,Horon Cafe,Liegewiese,Euronet,Blaugold,DunjaKids
+163,Which POI belongs to type: bandstand?,C,IKEA Restaurant,Mensa UdK Jazz-Mensa,Platz Für Akustische Musik,Stadtkinder,Allermunde Pizzamanufaktur
+164,Which POI belongs to type: fixme?,A,Zerspantechnik Tema-Fischer GmbH,beets&roots,No Limit Shishabar,Café Info-Station,Apotheke am Tierpark
+165,Which POI belongs to type: office?,E,A-Trane,Zum Würfel II,Monka Muki,Saarbach,adesso
+166,Which POI belongs to type: commercial?,A,Rotbunt,Fendi,Manhattan Burger,Amoag,Miu Sushi
+167,Which POI belongs to type: fairground?,E,Lehmbrucks,Kinderladen Pimpinella,Dream Vegan-Vietnamese Restaurant,Café lila lounge,Britzer Baumblüte
+168,Which POI belongs to type: service_desk?,C,Meydan,HypoVereinsbank,Info 1,Hans-Peter Fusenig,Osteria Mia
+169,Which POI belongs to type: gambling?,D,Lenders,Parkplatz der Garystraße 55,MB Rent,Dart Club Dallas,Staabi Back & Bistro Kiosk
+170,Which POI belongs to type: crematorium?,C,Al Dente,Kinderärztin Bartholomäus,ROSENGARTEN-Tierbestattung,Fam. Tran,International Zen Temple
+171,Which POI belongs to type: rehearsal_studio?,B,Der Kuchenladen,Castalian Spring,ALLROUND Autovermietung GmbH,Sparkasse,Dalya Restaurant
+172,Which POI belongs to type: mortuary?,E,Next Level African Food,Madami (papa),Steglitzer Grillhaus,Packstation 611,Trauerhalle Alt-Rixdorf
+173,Which POI belongs to type: retail?,C,MRT-Akademie,Adventgemeinde Pankow,Lidl,Saray,Sausalitos
+174,Which POI belongs to type: fishing?,D,Pizza Jack,Scherer8,Café Rose,Angelsport-Verein Saatwinkel 1921 E.V.,Wikinger Eck
+175,Which POI belongs to type: swimming_pool?,A,Schwimmbad Lipschitzallee,Shell,brotzeit,Ali Baba Burger,SJB e.V. Selbsthilfewerkstatt
+176,Which POI belongs to type: track?,C,Kinderladen Leni Kirschkern,Kino Babylon,Green Line Trail,Erdquell,Hausarztpraxis im Alleecenter
+177,Which POI belongs to type: bungalow?,C,Euronet,Sljiva,30017,Tagespflege Aycapima,Landhaus Pankow
+178,Which POI belongs to type: outbuilding?,C,Asia Bistro,Beets&Roots,N788,fancy BURGER,La Lúcuma
+179,Which POI belongs to type: laser_tag?,E,Köfte City,Tante Olli,Kinderladen Die Lauser,Oderquelle,Underground Lasergame
+180,Which POI belongs to type: mobile_library?,E,Boot To Go,Rubinstein-Musikakademie,Superfit,MOM's vegan cooking,"Fahrbibliothek Spandau, Siemensstadt / Jugendplatz"
+181,Which POI belongs to type: health_post?,E,Cafe A,Korea Imbiss,Salsa,Hausarztpraxis Dr. med Regine Päckert,Syogra Jade
+182,Which POI belongs to type: container?,D,Wilhelminenhof Apotheke,Sausalitos,Beatbox,Buwog,Orient Esspress

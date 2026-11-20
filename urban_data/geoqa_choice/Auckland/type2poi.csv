@@ -1,0 +1,110 @@
+,A,B,C,answer,D,E,question
+0,Panmure Pharmacy,Simon + Lee,The Harlequin,C,Magiger Takeaway,Pizza Hut,Which POI belongs to type: pub?
+1,The Counter,Post Shop,Biryaniwala,B,Pizza - Halal n Takeaways - Shashee,Kebab King,Which POI belongs to type: post_office?
+2,Tiffin,Subway,Khanz Takeway,E,Bull's Burgers,Event Cinemas,Which POI belongs to type: cinema?
+3,Wok Wok,Sushi Bay,Kete Aronui,B,Our Local,Morrow Street Dental,Which POI belongs to type: restaurant?
+4,ANZ,Huawei Centre 2,Il Buco,B,Beach Pizza,Z,Which POI belongs to type: loading_dock?
+5,P6,Harlan Pepper,Golden Sun Takeaways,A,The Mustard Kitchen,Raw Power,Which POI belongs to type: parking_entrance?
+6,Portofino,Four Seasons Restaurant,Lido Cinema,D,The Olympic Pools & Fitness Centre,Golden Town Takeaways,Which POI belongs to type: swimming_pool?
+7,Mount Albert Medical and Dental Centre,Auckland Edinburgh College,Z,C,Taste Cafe,Chim Chim Thai Kitchen,Which POI belongs to type: fuel?
+8,ASB Bank,Beagle Cafe,Avondale Medical Centre,A,Princes Street Childcare,Pearl. Chinese restaurant,Which POI belongs to type: bank?
+9,Kebab King,Lokanta,Bing Girl,D,Unichem,Dunkin',Which POI belongs to type: pharmacy?
+10,Raspberry Tarts,Bay 2,Samoa House Library,C,Turtle,Ambarsariya,Which POI belongs to type: library?
+11,Otahuhu Fire Station,96.6 George FM,Habibi Cafe,B,The Taphouse,Celine Mediterranean Cuisine,Which POI belongs to type: studio?
+12,Orchard,Gochu,Burger King,D,Modicum Cafe,Countdown,Which POI belongs to type: cafe?
+13,Subway,Kowhai Cafe,Zhou's Alley Restaurant,E,Cafe Luxe,Paname Social,Which POI belongs to type: bar?
+14,St Heliers Memorial Fountain,The Store,Luna Bakehouse,C,Golden Fortune Chinese Restaurant,Town Hall Garage,Which POI belongs to type: fast_food?
+15,G90 Cafe,Atrium 2,Central Bark,D,Pakuranga Dental,Faith Fijian Assembly of God,Which POI belongs to type: dentist?
+16,Ambarsariya,Masu by Nic Watt,Quickcash,D,Auckland Evangelical Church,Bamboo Kitchen,Which POI belongs to type: place_of_worship?
+17,BurgerFuel,Tandoor,ChickHEN Republic,E,Kebab Hutt,ANZ,Which POI belongs to type: atm?
+18,Fuyo Takeaway,Bandung,Caltex,E,Ken Yakitori,Viaduct Medical Centre,Which POI belongs to type: doctors?
+19,JK Kitchen,Flex Fitness,Curry Leaf,E,Seat of Friendship,Glen Innes Police Station,Which POI belongs to type: police?
+20,Bucklands Beach Veterinary Hospital,Otahuhu Fire Station,AUT   Conference Venues,B,ASB Bank,Domino's,Which POI belongs to type: fire_station?
+21,Eden Garden,Hees Garden Seafood Restaurant,Ponsonby Crêpes,A,Gong Cha,Daisys of Jervois,Which POI belongs to type: garden?
+22,Kanda Sushi Grill,Li'l Champs Montessori Learning Centre,Life Pharmacy,B,Unichem,Noodle Canteen,Which POI belongs to type: kindergarten?
+23,Hertz,Country Fried Chicken,Cornwall Medical Centre,E,Brew on Quay,Pointers,Which POI belongs to type: nightclub?
+24,Sal's Pizza,Bunga Raya,Calendar Girls,C,Char Grill,Mount Roskill Dental Centre,Which POI belongs to type: stripclub?
+25,Adventure Works,Auckland Vehicle Rentals,ASB Bank,B,La Trattoria,The Harlequin,Which POI belongs to type: car_rental?
+26,Nannanxi Art Studio,Roost,Wapiti Sports Bar,A,Halal Eateries (inside Food4less),Caltex,Which POI belongs to type: arts_centre?
+27,Khanz Fusion Buffet,Browne St,Plastic and Cosmetic Surgery,C,NZ Natural,Point Chevalier Library,Which POI belongs to type: hospital?
+28,Munster Inn,The Stall,Sweet Treats,D,West Auckland Toy Library,Teaser,Which POI belongs to type: toy_library?
+29,Tran Bakehouse Cafe,Waffle Cafe,Mr Taco,E,Mobil Corner Takeaways,Valkyrie Fountain,Which POI belongs to type: fountain?
+30,Habitual Fix,Cornwall Park Archery,Sparrow,B,Roll N Sushi,ANZ,Which POI belongs to type: toilets?
+31,Bank of Baroda,Auckland Pet Hospital,Cuvée,B,Eden-Epsom Pharmacy,OYF Far Infrared Yoga & Fitness Remuera,Which POI belongs to type: veterinary?
+32,ANZ,Home Pharmacy,Harlequin Musical Theatre,C,Sal’s Pizza,Soul Thai,Which POI belongs to type: theatre?
+33,Timezone,Graeme Angus Chemist,Ugly Dumpling,D,Sealink,Accesscash atm,Which POI belongs to type: ferry_terminal?
+34,F45 Training,Zheng Kee restaurant,Newton Road Pharmacy,D,Wilson Parking,Khans Kebab Club,Which POI belongs to type: parking?
+35,Juliet Avenue Surgery,Elegance Chinese restaurant,Tabac,E,Freyberg Restaurant,Ice Cream Cafe,Which POI belongs to type: ice_cream?
+36,Westpac,Harbourside Ocean Bar & Grill,ChiroMotion,C,cyber_toast 2086,Evangel Christian Assembly,Which POI belongs to type: clinic?
+37,Akbar Durbar,Vic Park Cafe,Queens Rooftop,D,St Heliers Memorial Fountain,House Of Prayer,Which POI belongs to type: drinking_water?
+38,SonSk8,Panasonic Suites,Tesla Destination Charger,A,Best Tandoori Cafe,Est.,Which POI belongs to type: sports_centre?
+39,Native Arboretum Gas BBQs,The Coffee Club,Caltex,A,Dosa Plaza,The Audio Foundation,Which POI belongs to type: bbq?
+40,Radio New Zealand,Bruce Lee Sushi and Roll,Jack Dickey Community Centre,C,Khao San Eatery,Piko,Which POI belongs to type: public?
+41,Sun Tasty BBQ Takeaways,Full Power Fitness,Movenpick,B,Beach Pizza,Ross Pomodor Pizzeria,Which POI belongs to type: fitness_centre?
+42,Albert Street Taxi Rank,Saint Lukes Vet,Saigonz,A,Farmers,The Grill,Which POI belongs to type: taxi?
+43,Nourish Cafe,Westpac,Citizen Advice Bureau,C,Loading Dock Entrance,Ding Dong Lounge,Which POI belongs to type: community_centre?
+44,Kebab on Wheels,Chipmunks,Westpac,E,The Tinted Rose,Ronwood Avenue Carpark Charging Station,Which POI belongs to type: charging_station?
+45,Gengy's,Elstree Avenue Family Doctors,InterCity Bus Terminal,C,Subway,Cafe Casablanca,Which POI belongs to type: bus_station?
+46,Fergs Kayaks,The Fitzroy,McDonald's,A,Mount Albert BBQ Noodle House,Sushipac,Which POI belongs to type: boat_rental?
+47,Beach Pizza,SEVENPOKE,Julie's Pharmacy,E,Dock 11,Private Boxes,Which POI belongs to type: post_box?
+48,Clifton Room,Berlinchen,Subway,A,Auckland Family Medical Centre,Unichem,Which POI belongs to type: events_venue?
+49,Lucky Table 13,City Roast,Butter Chicken House,E,Gong Cha,Mountain Rd,Which POI belongs to type: shelter?
+50,Lil Champs Childcare - Blockhouse Bay,WOK'n,Pit Stop,C,Gion,Wong Doo Health Clinic,Which POI belongs to type: garage?
+51,New Zealand Islamic Cultural Trust ( NZICT ),Zeta Greek Kitchen,Awanui Labs,D,Princes Street Childcare,Saint Lukes Vet,Which POI belongs to type: childcare?
+52,MoleMap,Neol Leeming,Kokoro Kitchen,B,Orleans Fried Chicken,Bamboo Tiger,Which POI belongs to type: retail?
+53,Avondale Dental,The Dojo,The Italian Job,B,Wesley Chinese Methodist Mission Centre,Bank of Baroda,Which POI belongs to type: dojo?
+54,Bronco's Steakhouse,Word / Deed,Revive Vegan Cafe,E,Gull,Bike Hub Pakuranga,Which POI belongs to type: bicycle_repair_station?
+55,Sachie’s Kitchen,Head / Wand,Waitomo,B,Covert Theatre,Jiu Zhou BBQ Restaurant,Which POI belongs to type: bench?
+56,Huawei Centre 2,Ronnies,Chairman's Lounge,D,Centurian Sauna for Men,Pastel,Which POI belongs to type: sauna?
+57,Parnell Early Childhood Centre,Kungfu Gym,House of Grace Family Church,E,BP Connect,Newmarket Plaza,Which POI belongs to type: food_court?
+58,Auckland Urogynaecology,New Zealand Institute of Studies,Real Escape Game,B,Mercy Radiology PET & CT,Bank of New Zealand,Which POI belongs to type: college?
+59,Bank of New Zealand,Kings Roast,Melba Victoria Street,E,Pasand Pizza,Escapade,Which POI belongs to type: escape_game?
+60,Eden Bistro,Little Free Library,Bar Albert,D,Afterlife Billiards,Quick Cash,Which POI belongs to type: sports_hall?
+61,Shooting Stars Daycare,Lucky Star Restaurant,Cinnamon Squared,C,Little & Friday,Grey Lynn Tavern,Which POI belongs to type: bakery?
+62,The Rumpus Room,Burger King,Loft,E,Sushi Don,R Connect,Which POI belongs to type: social_facility?
+63,Billy Cafe,Tucker Box,Matsu Sushi,D,Wesley Market,La Fourchette Cafe and Restaurant,Which POI belongs to type: marketplace?
+64,Jamaica Blue,Toi Ora,Steve's Grooming,C,Soul Thai,Dental Specialist Centre,Which POI belongs to type: car_wash?
+65,Jatt & Juliet,#1 Currency,The Bay Cafe,B,Sealink,Whitaker Block,Which POI belongs to type: bureau_de_change?
+66,Habitat for Fitness,Khao San Project,The Cozy Cafeteria,D,Fabric Lab,Pride of India Restaurant,Which POI belongs to type: hackerspace?
+67,ANZ,Auckland Commercial Spares,Cigana,B,Flying Moa,Manukau Charging Station,Which POI belongs to type: industrial?
+68,Saint Lukes Foot Clinic,Westpac,Rusty's Coffee Bar,E,Roll N Sushi,NZ Post,Which POI belongs to type: post_depot?
+69,Goodness Gracious,Marhaba,Malt Public House,E,Manukau Charging Station,Cycle Auckland Limited,Which POI belongs to type: bicycle_rental?
+70,New Sensational Kebab & Fried Chicken,Roll Sushi,The Green Pinnacle,C,Sir Noel Robinson Conference Centre,Daphne's Taverna,Which POI belongs to type: golf_course?
+71,Whitaker Block,46 & York,NZ Society of Genealogists,A,Paradise Dine In,Kohimarama Vet Clinic,Which POI belongs to type: student_accommodation?
+72,Chemist Warehouse,Paper Crane,Kolmar Road Medical Centre,E,Kebab to Go,Kete Aronui,Which POI belongs to type: dance?
+73,Kelston Pharmacy,Huami,ASB Bank,D,Leech Study Area,Systems Integration Facility,Which POI belongs to type: common?
+74,Japanese Lantern Street Bar,Lockingtons Pharmacy,Rainbow Youth,D,SkyCity Auckland Casino,Orceard,Which POI belongs to type: casino?
+75,Point Chevalier Dental,Languages International,The Waypoint,B,Ajadz Indian Cuisine,Success Takeaways,Which POI belongs to type: language_school?
+76,Bian Sushi & Donburi Central City,Karachi Kebab,New Sensational Kebab & Fried Chicken,E,Hulucat,Rainbow Playlab,Which POI belongs to type: amusement_arcade?
+77,Meow Cafe,Top Tea Restaurant,Kip McGrath,C,Jess' Underground Kitchen,Budget,Which POI belongs to type: prep_school?
+78,Life Pharmacy,GravityNZ,La Marée,B,Old Town Malaysian Cafe,Papatoetoe Police Station,Which POI belongs to type: trampoline_park?
+79,The Wardroom Cafe,Pita House,Bodega,D,McDonald's PlayPlace,Daruma Ramen,Which POI belongs to type: playground?
+80,Central Bark,Cafe Luxe,Baklawa Cafe,A,Everglade Samoan Assembly of God,Meet Fresh,Which POI belongs to type: animal_boarding?
+81,Hoyts,Yogost,Jucy,E,Di Vino Bistro,The BeatSchool,Which POI belongs to type: music_school?
+82,Computer Recycling,Wise Fox Food Co,Mount Albert Medical and Dental Centre,A,ASB,Greenlane - Penrose Optometrist,Which POI belongs to type: recycling?
+83,Chemist,Coin Singing Booth,Win Forever Takeaway,B,Native Arboretum Gas BBQs,Love Exposure,Which POI belongs to type: karaoke_box?
+84,Sake Bar Nippon,108 Tastes,Spice Star,D,Zone Bowling,Ladybird,Which POI belongs to type: bowling_alley?
+85,Parnell Kebab,Sexy Angels,Portofino,B,St Pierre's Sushi,Waste,Which POI belongs to type: brothel?
+86,Hire E-scooter Parking (10),ANZ,Ben & Jerry's,A,NEEDO,Pakuranga Dental,Which POI belongs to type: bicycle_parking?
+87,Botany Christian Centre,Subway,Karachi Kebab,D,Chipmunks Playland,Dilworth Hearing,Which POI belongs to type: indoor_play?
+88,Mad Samurai,McDonald's,AA Manukau,C,Early Explorers Childcare Centre,New Lynn West Pharmacy,Which POI belongs to type: driving_school?
+89,Pick-up & Drop-off,Pacific Islands Childcare Centre,Go Ramen,A,Kazuya,Hawthorn Dene Historic Country Cafe,Which POI belongs to type: car_pooling?
+90,Bar Martin,Summit Cafe,Maxim Institute,C,Corner Burger,Ellerslie Highway Dental Centre,Which POI belongs to type: research_institute?
+91,Inca,Daruma Ramen,Circability,C,Four Seasons Restaurant,Brickhouse espresso bar,Which POI belongs to type: circus_school?
+92,Betsia kebabs,Masa Japanese Restaurant and Bar,The Warehouse,E,Bank of New Zealand,Karaoke Internet Cafe,Which POI belongs to type: internet_cafe?
+93,Faber Castell,Everest Dine,Hunts Pharmacy,A,Boracay Garden Restaurant,Billy Cafe,Which POI belongs to type: warehouse?
+94,MoleMap,The Bavarian,Gladstone Tennis Club,C,Portofino,The Coffee Club,Which POI belongs to type: pitch?
+95,Systems Integration Facility,Tend Pakuranga Medical Centre,Thai Cafe and Bar,A,Westmere Pharmacy,Grind Café,Which POI belongs to type: security?
+96,King of Kings Church,The Shy Guy,Little Free Library,C,Bird On A Wire,Firangi Fusion,Which POI belongs to type: public_bookcase?
+97,Ace Dental Centre,The Paddington,PappaRich,E,Kebab and Chicken,The Barista Academy NZ,Which POI belongs to type: training?
+98,Yes Rentals,Jiaxiang Fengwei Restaurant,Coca-Cola,C,The Stall,White Water Boardroom,Which POI belongs to type: vending_machine?
+99,Saigon Social,Greenlane - Penrose Optometrist,Nishiki,D,Giltrap Porsche,Columbus Coffee,Which POI belongs to type: retail?
+100,Karachi Kebab,Servilles Academy,Chabad House,B,Cafe Burlesque,Ace Auckland Airport,Which POI belongs to type: trade_school?
+101,Lorn street express bar,Western Union,Fort Greene,B,Everybody Eats,Domino's,Which POI belongs to type: money_transfer?
+102,Aotearoa Muslim Youth - Masjid,Hound Dog,after DutyFree on the right,C,Caravanserai,Trocadero Restaurant & Bar,Which POI belongs to type: smoking_area?
+103,St Pierre's Sushi,Eastwest Yoga,Daily Bread,E,Scarecrow,Kotuku,Which POI belongs to type: residential?
+104,ASB,Sanbells Kitchen,Little Free Pantry,C,Tokyo Bar,The Verandah Lounge,Which POI belongs to type: food_sharing?
+105,Cafe Poppin,Newton A-Z Pharmacy,Form Physio,C,Saigon Social,Mission Bay Cafe,Which POI belongs to type: physiotherapist?
+106,Baketown Bakery and Cafe,Toss,AUT - O'Rorke Hall,C,Shefco Middle Eastern Cuisine,Red Elephant Thai Cuisine,Which POI belongs to type: university?
+107,Hunger Burger,Adanaa Turkish Grill,Westpac,D,Qiyam Education Centre,Yee Hing Restaurant,Which POI belongs to type: school?
+108,Bryant Marine,Jetts Fitness,Cypress Restaurant,A,Chirolink,Dock 15,Which POI belongs to type: marina?

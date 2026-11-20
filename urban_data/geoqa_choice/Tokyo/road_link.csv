@@ -1,0 +1,776 @@
+id,question,answer,A,B,C,D
+0,"In the Tokyo area, which road cannot directly reach 新荒川葛西堤防線?",B,新荒川堤防線,竹芝みなと通り,清砂大橋通り,上平井橋江戸川大橋線
+1,"In the Tokyo area, which road cannot directly reach 清砂大橋通り?",A,都市計画道路補助第72号線(つつじ通り),新荒川葛西堤防線,清州大橋通り,虹の広場通り
+2,"In the Tokyo area, which road directly reaches 下高井戸5号踏切?",B,富ヶ谷1丁目通り,荒玉水道道路,富ヶ谷入口,水天宮通り
+3,"In the Tokyo area, which road cannot directly reach 荒玉水道道路?",C,方南通り,瀬田貫井線,徳丸石川通り,甲州街道
+4,"In the Tokyo area, which road cannot directly reach 海岸通り?",A,不忍通り,新橋日の出ふ頭線,日本橋芝浦大森線,銀中通り
+5,"In the Tokyo area, which road cannot directly reach 新橋日の出ふ頭線?",B,汐留大通り,山谷通り,第一京浜,海岸通り
+6,"In the Tokyo area, which road cannot directly reach 瀬田貫井線?",A,瀬田中さくら通り,砧公園通り,赤堤通り,西用賀通り
+7,"In the Tokyo area, which road directly reaches 日大通り（瀬田貫井線）?",A,公園通り（瀬田貫井線）,烏森通り,青山通り(金王坂),二の坪通り
+8,"In the Tokyo area, which road cannot directly reach 千代田練馬田無線?",C,飯田橋石神井新座線,牛込小石川線,古鎌倉道,目白通り
+9,"In the Tokyo area, which road cannot directly reach 目白通り?",D,山手通り,江戸川橋通り,大久保通り,川越街道
+10,"In the Tokyo area, which road directly reaches 浜町河岸通り?",A,京葉道路,牡丹橋通り,暗闇坂,国会通り
+11,"In the Tokyo area, which road cannot directly reach 京葉道路?",A,蔵前小学校通り,江戸通り,亀戸葛西橋線,四ツ目通り
+12,"In the Tokyo area, which road directly reaches 太子堂道?",D,枝川出口,瀬田中さくら通り,川の手通り,玉川通り
+13,"In the Tokyo area, which road cannot directly reach 鮫洲大山線?",B,中山道,ユリの木通り,淡島通り,東山いちょう通り
+14,"In the Tokyo area, which road cannot directly reach 旧海岸通り?",D,山手通り,なぎさ通り,海岸通り,環七南通り
+15,"In the Tokyo area, which road cannot directly reach なぎさ通り?",D,旧海岸通り,芝浦運河通り,海岸通り,富ヶ谷入口
+16,"In the Tokyo area, which road cannot directly reach 外濠環状線?",C,第一京浜,新橋日の出ふ頭線,ファイアー通り,外堀通り
+17,"In the Tokyo area, which road cannot directly reach 第一京浜?",C,補助第332号線,外濠環状線,菊水通り,大門通り
+18,"In the Tokyo area, which road cannot directly reach 晴海通り?",C,有明通り,内堀通り,鉄砲洲通り,平成通り
+19,"In the Tokyo area, which road cannot directly reach 東京湾岸道路?",A,日大通り（瀬田貫井線）,環二通り,豊洲有明線,晴海通り
+20,"In the Tokyo area, which road cannot directly reach 表参道?",B,代々木公園通り,魚籃坂,明治通り,御幸通り（フロムファースト通り）
+21,"In the Tokyo area, which road cannot directly reach 明治通り?",C,高輪麻布線,北本通り,中丸通り,明治通
+22,"In the Tokyo area, which road cannot directly reach 東京タワー通り?",A,南田中町旭町線（支線1）（補助第172号線）,外苑東通り,桜田通り,祝田通り
+23,"In the Tokyo area, which road cannot directly reach 桜田通り?",D,東京タワー通り,祝田通り,綱の手引き坂,川の手通り
+24,"In the Tokyo area, which road cannot directly reach 外苑東通り?",D,新目白通り,外苑出口,合羽坂,区役所西通り
+25,"In the Tokyo area, which road cannot directly reach 江戸通り?",A,旧海岸通り,蔵前橋通り,靖国通り,昭和通り
+26,"In the Tokyo area, which road cannot directly reach 浅草通り?",A,リバー通り,馬道通り,墨堤通り,江戸通り
+27,"In the Tokyo area, which road cannot directly reach 永代通り?",C,錦町有楽町線,江戸通り,サッカー通り,日比谷通り
+28,"In the Tokyo area, which road cannot directly reach 錦町有楽町線?",A,動物園通り,千代田通り,白山通り,大名小路
+29,"In the Tokyo area, which road cannot directly reach 言問通り?",B,浅草通り,八ツ山通り,吉野通り,橋場通り
+30,"In the Tokyo area, which road cannot directly reach 本郷通り?",A,黎明大橋,明治通り,山手通り,サッカー通り
+31,"In the Tokyo area, which road cannot directly reach 新堀通り?",D,蔵前小学校通り,浅草通り,蔵前橋通り,鷹番通り
+32,"In the Tokyo area, which road cannot directly reach 春日通り?",C,小石川西巣鴨線,江戸通り,人形町通り,左衛門橋通り
+33,"In the Tokyo area, which road cannot directly reach 日比谷通り?",D,丸の内 4th,外堀通り,第一京浜,葛西橋通り
+34,"In the Tokyo area, which road cannot directly reach 馬場先通り?",D,日比谷通り,鍛冶橋通り,大名小路,新堀通り
+35,"In the Tokyo area, which road cannot directly reach 鍛冶橋通り?",B,永代通り,世田谷通り,平成通り,明正通り
+36,"In the Tokyo area, which road cannot directly reach 国会通り?",B,潮見坂,とちのき通り,日比谷通り,桜田通り
+37,"In the Tokyo area, which road cannot directly reach 美竹通り?",A,親疎通り,明治通り,青山通り,宮益坂
+38,"In the Tokyo area, which road cannot directly reach フィンガーアベニュー?",B,公園通り,半蔵門駅通り,神宮通り,公園通り(勤労福祉会館前)
+39,"In the Tokyo area, which road cannot directly reach 神宮通り?",B,旧大山街道,世田谷町田線,井ノ頭通り,フィンガーアベニュー
+40,"In the Tokyo area, which road cannot directly reach 中央通り?",D,不忍通り,昭和通り,鍛冶橋通り,曳舟川通り
+41,"In the Tokyo area, which road cannot directly reach 神田明神通り?",A,団子坂,昌平橋通り,国道17号,中央通り
+42,"In the Tokyo area, which road cannot directly reach 北里通り?",B,恵比寿通り,補助第200号線,高輪麻布線,桜田通り
+43,"In the Tokyo area, which road cannot directly reach 外苑西通り?",B,六本木通り,ビール坂,四谷角筈線,北里通り
+44,"In the Tokyo area, which road cannot directly reach 恵比寿通り?",D,駒沢通り,新橋通り,外苑西通り,永代通り
+45,"In the Tokyo area, which road cannot directly reach 駒沢通り?",C,恵比寿一番街,渋谷区特別区道893号線（補助18号線）,朝潮大橋,自由通り
+46,"In the Tokyo area, which road cannot directly reach 清澄通り?",A,茶沢通り,新大橋通り,朝潮大橋,春日通り
+47,"In the Tokyo area, which road cannot directly reach 代々木淀橋線?",C,井ノ頭通り,甲州街道,東京都道442号北町豊玉線,十二社通り
+48,"In the Tokyo area, which road cannot directly reach 井ノ頭通り?",D,角筈和泉町線,環七通り,山手通り,高輪麻布線
+49,"In the Tokyo area, which road cannot directly reach 代々木公園通り?",C,井ノ頭通り,代々木淀橋線,志村坂下通り,表参道
+50,"In the Tokyo area, which road cannot directly reach 二本榎通り?",C,伊皿子坂,柘榴坂,さざなみ通り,天神坂
+51,"In the Tokyo area, which road cannot directly reach 桂坂?",B,第一京浜,外濠環状線,二本榎通り,補助第332号線
+52,"In the Tokyo area, which road cannot directly reach 新青梅街道?",D,中野通り,目白通り,中杉通り,南ときわ通り
+53,"In the Tokyo area, which road cannot directly reach 新目白通り?",C,環状4号線,上落中通り,梅田通り,新青梅街道
+54,"In the Tokyo area, which road cannot directly reach 中野通り?",A,ロード大谷口,方南通り,新青梅街道,鍋屋横丁通り
+55,"In the Tokyo area, which road cannot directly reach 靖国通り?",D,区役所通り,昭和通り,明治通り,環八通り
+56,"In the Tokyo area, which road cannot directly reach 六本木通り?",C,内堀通り,東京都道一七六号線,赤塚中央通り,桜坂
+57,"In the Tokyo area, which road cannot directly reach 玉川通り?",C,栄通り（日大通り）,玉川通り(側道),隅田川左岸通り,世田谷通り;三軒茶屋
+58,"In the Tokyo area, which road directly reaches 補助第18号線?",B,小豆沢通り,神宮通り,世田谷観音通り(旧 明薬通り),弦巻通り (Tsurumaki dori)
+59,"In the Tokyo area, which road directly reaches 東仲通り?",D,泉通り,波除通り,新橋通り,晴海通り
+60,"In the Tokyo area, which road cannot directly reach 仙台坂?",D,高輪麻布線,木下坂,日向坂,東山いちょう通り
+61,"In the Tokyo area, which road cannot directly reach 日向坂?",A,桜麻通り,仙台坂,綱坂,綱の手引き坂
+62,"In the Tokyo area, which road cannot directly reach 高輪麻布線?",D,日向坂,環状三号線,泉通り,美倉橋
+63,"In the Tokyo area, which road cannot directly reach 昭和通り?",D,金美館通り,根岸柳通り,首都高速1号上野線,区画道路5-2号線
+64,"In the Tokyo area, which road cannot directly reach 山手通り?",B,旧海岸通り,新目白通り,野沢通り(じゃくずれ),八ツ山通り
+65,"In the Tokyo area, which road directly reaches 八ツ山通り?",B,新富町出口,山手通り,新目白通り,三分坂
+66,"In the Tokyo area, which road directly reaches 六本木通り(側道)?",D,汐留入口,晴海通り,土手通り,外苑西通り
+67,"In the Tokyo area, which road cannot directly reach 駒沢公園通り?",B,世田谷通り,清州大橋通り,弦巻通り,玉川通り
+68,"In the Tokyo area, which road cannot directly reach 淡島通り?",B,旧山手通り,江古田通り,梅丘通り,大橋通り
+69,"In the Tokyo area, which road directly reaches 淡島通り　松見坂?",C,さざなみ通り,環状三号線,淡島通り,北品川四谷線
+70,"In the Tokyo area, which road cannot directly reach 旧山手通り?",A,明治通り（田端新町一丁目）,八幡通り,山手通り,淡島通り
+71,"In the Tokyo area, which road directly reaches 八千代橋?",A,旧海岸通り,三崎坂,けいさつ前通り,正庭通り
+72,"In the Tokyo area, which road directly reaches 佃大通り?",D,Roppongi dori,尾久橋通り,十間橋通り,清澄通り
+73,"In the Tokyo area, which road cannot directly reach 佃仲通り?",D,佃大通り,八重洲通り,上野月島線,葛西用水桜通り
+74,"In the Tokyo area, which road cannot directly reach 東京都道一七六号線?",C,青山通り,国道246号,目黒通り;大鳥神社,六本木通り
+75,"In the Tokyo area, which road cannot directly reach 国道246号?",B,貝坂通り,大妻通り,青山通り,東京都道一七六号線
+76,"In the Tokyo area, which road directly reaches 東京FM通り?",B,深川吾嬬町線,半蔵門駅通り,十二社通り,中坂
+77,"In the Tokyo area, which road cannot directly reach 半蔵門駅通り?",C,東京FM通り,東京都道一七六号線,早大通り,新宿通り
+78,"In the Tokyo area, which road cannot directly reach 上落中通り?",D,聖母坂通り,八幡通り,新目白通り,税務署通り
+79,"In the Tokyo area, which road cannot directly reach 聖母坂通り?",C,新目白通り,目白通り,日本橋芝浦大森線,上落中通り
+80,"In the Tokyo area, which road cannot directly reach 有明通り?",B,日比谷豊洲埠頭東雲町線,上野月島線,首都高速10号晴海線,豊洲有明線
+81,"In the Tokyo area, which road cannot directly reach 豊洲有明線?",A,藍染大通り,晴海通り,東京湾岸道路,環二通り
+82,"In the Tokyo area, which road cannot directly reach 八重洲通り?",C,上野月島線,平成通り,越中島通り,中央通り
+83,"In the Tokyo area, which road cannot directly reach 平成通り?",D,八重洲通り,新大橋通り,永代通り,田端駅下仲通り
+84,"In the Tokyo area, which road cannot directly reach 魚籃坂?",D,高輪麻布線,二本榎通り,伊皿子坂,人形町通り
+85,"In the Tokyo area, which road cannot directly reach 伊皿子坂?",A,さくら通り,魚籃坂,第一京浜,補助第332号線
+86,"In the Tokyo area, which road cannot directly reach 外堀通り?",A,旭通り,四谷角筈線,永代通り,祝田通り
+87,"In the Tokyo area, which road cannot directly reach 北品川四谷線?",B,山手通り,六本木通り,外苑西通り,プラチナ通り
+88,"In the Tokyo area, which road cannot directly reach 目黒通り?",D,鷹番通り,桜田通り,元競馬場通り,鎌倉通り
+89,"In the Tokyo area, which road cannot directly reach 昌平橋通り?",D,中央通り,中坂,環状2号線,御門通り
+90,"In the Tokyo area, which road cannot directly reach 国道17号?",A,新田学園通り,神田明神通り,旧白山通り,昌平橋通り
+91,"In the Tokyo area, which road cannot directly reach 東京都道二四七号線?",C,潮見坂,国道246号,八千代橋,東京都道一七六号線
+92,"In the Tokyo area, which road cannot directly reach 首都高速都心環状線?",C,六本木通り,首都高速5号池袋線,東京都道新宿副都心八号線,芝公園入口
+93,"In the Tokyo area, which road cannot directly reach 潮見坂?",D,東京都道二四七号線,桜田通り,国会通り,八千代橋
+94,"In the Tokyo area, which road directly reaches 駒沢通り　新道坂?",D,渋谷区特別区道870号線,川の手通り,かむろ坂通り,駒沢通り
+95,"In the Tokyo area, which road cannot directly reach 自由通り?",A,神楽坂高円寺線,駒沢通り,やくも文化通り,深沢学園通り
+96,"In the Tokyo area, which road cannot directly reach 世田谷通り?",C,区役所西通り,用賀中道通り,渋谷区特別区道870号線,駒沢公園通り
+97,"In the Tokyo area, which road cannot directly reach 環七通り?",D,吉場安行東京線,千住新宿町線,堀之内道（古道）,団子坂
+98,"In the Tokyo area, which road cannot directly reach 駒留通り?",B,玉川通り,隅田川左岸通り,環七通り,世田谷観音通り(旧 明薬通り)
+99,"In the Tokyo area, which road cannot directly reach 弦巻通り?",A,いちょう坂通り,駒留通り,弦巻通り (Tsurumaki dori),環七通り
+100,"In the Tokyo area, which road cannot directly reach 用賀中町通り?",B,用賀中道通り,下馬通り,玉川通り,駒沢通り
+101,"In the Tokyo area, which road cannot directly reach 用賀中道通り?",C,玉川通り,砧公園通り,銀座入口,瀬田貫井線
+102,"In the Tokyo area, which road cannot directly reach 南田中町旭町線（支線1）（補助第172号線）?",A,区画道路5-2号線,光が丘東大通り,富士街道（都道池袋谷原線）,豊島園通り
+103,"In the Tokyo area, which road cannot directly reach 環八通り?",D,富士街道（都道池袋谷原線）,玉川通り(側道),体育館通り,目黒入口
+104,"In the Tokyo area, which road cannot directly reach 方南通り?",D,瀬田貫井線,環七通り,荒玉水道道路,下板橋通り
+105,"In the Tokyo area, which road cannot directly reach 補助第332号線?",A,虹の広場通り,第一京浜,桂坂,伊皿子坂
+106,"In the Tokyo area, which road cannot directly reach 馬道通り?",C,雷門通り,江戸通り,栄和通り,言問通り
+107,"In the Tokyo area, which road cannot directly reach 雷門通り?",B,国際通り,小桜通り,馬道通り,並木通り
+108,"In the Tokyo area, which road cannot directly reach 環状4号線?",A,吉場安行東京線,東京医大通り,早稲田通り,新目白通り
+109,"In the Tokyo area, which road cannot directly reach 小滝橋通り?",B,税務署通り,大門通り,大久保通り,四谷角筈線
+110,"In the Tokyo area, which road cannot directly reach 大久保通り?",D,都市計画道路補助第72号線(つつじ通り),箱根山通り,山手通り,三谷坂
+111,"In the Tokyo area, which road cannot directly reach 職安通り?",B,小滝橋通り,ビール坂,都市計画道路補助第72号線(つつじ通り),抜弁天通り
+112,"In the Tokyo area, which road cannot directly reach 税務署通り?",B,職安通り,葛西橋通り,小滝橋通り,青梅街道
+113,"In the Tokyo area, which road cannot directly reach 早稲田通り?",A,区画道路5-1号線,山手通り,小滝橋通り,補助第74号線
+114,"In the Tokyo area, which road cannot directly reach 哲学堂通り?",D,旭通り,中野通り,新青梅街道,東京医大通り
+115,"In the Tokyo area, which road cannot directly reach 北斎通り?",C,中之橋通り,四ツ目通り,日比谷芝浦線,三ツ目通り
+116,"In the Tokyo area, which road cannot directly reach 三ツ目通り?",D,補助第300号線,春日通り,東京湾岸道路,明大通り
+117,"In the Tokyo area, which road cannot directly reach 牛込中央通り?",D,外堀通り,早稲田通り,大久保通り,(田町駅西口交差点)
+118,"In the Tokyo area, which road cannot directly reach 尾竹橋通り?",C,道灌山通り,カンカン森通り,放射第35号線（環状八号線（支線））,環七通り
+119,"In the Tokyo area, which road cannot directly reach 墨堤通り?",D,川の手通り,首都高速道路,日光街道,根岸柳通り
+120,"In the Tokyo area, which road directly reaches 山谷通り?",D,綱坂,渋谷区特別区道870号線,聖母坂通り,吉野通り
+121,"In the Tokyo area, which road cannot directly reach 日光街道?",D,墨堤通り,梅田通り,かつら並木通り,貫井橋
+122,"In the Tokyo area, which road cannot directly reach 清洲橋通り?",C,蔵前小学校通り,親疎通り,橋場通り,亀戸葛西橋線
+123,"In the Tokyo area, which road cannot directly reach 蔵前橋通り?",A,並木通り,上平井橋江戸川大橋線,平和橋通り,清洲橋通り
+124,"In the Tokyo area, which road cannot directly reach 弦巻通り (Tsurumaki dori)?",B,弦巻通り,旧山手通り(神泉町),駒留通り,環七通り
+125,"In the Tokyo area, which road cannot directly reach 梅丘通り?",B,淡島通り,プリンス通り,茶沢通り,鎌倉通り
+126,"In the Tokyo area, which road cannot directly reach 梅丘通り;主要生活道路405号線?",B,梅丘通り,平方東京線,赤堤通り,環七通り
+127,"In the Tokyo area, which road directly reaches 環七通り(泉南)?",C,旧白山通り,新木場若洲線,環七通り,小石川西巣鴨線
+128,"In the Tokyo area, which road cannot directly reach 豊中通り?",D,庚申通り,中杉通り,環七通り,渋谷出口
+129,"In the Tokyo area, which road cannot directly reach 川の手通り?",A,新田学園通り,平和橋通り,吾妻橋伊興町線,千住小松川葛西沖線
+130,"In the Tokyo area, which road cannot directly reach 平和橋通り?",D,曳舟川親水通り,堀切橋金町浄水場線,川の手通り,新井天神通り
+131,"In the Tokyo area, which road directly reaches 釜屋堀通り?",B,やくも文化通り,四ツ目通り,首都高速1号上野線,荒川中央通り
+132,"In the Tokyo area, which road cannot directly reach 四ツ目通り?",B,馬車通り,箱崎ロータリー,春日通り,清洲橋通り
+133,"In the Tokyo area, which road cannot directly reach 光が丘東大通り?",D,豊島園通り,南田中町旭町線（支線1）（補助第172号線）,南田中町旭町線（支線2）（補助第230号線）,環七通り
+134,"In the Tokyo area, which road directly reaches 南田中町旭町線（支線2）（補助第230号線）?",C,目黒通り;大鳥神社,西池袋出口,光が丘東大通り,二本榎通り
+135,"In the Tokyo area, which road cannot directly reach 環七南通り?",C,曳舟川親水通り,葛西用水桜通り,玉川通り(神泉町),綾瀬川通り
+136,"In the Tokyo area, which road cannot directly reach 淀橋渋谷本町線?",B,北通り,補助第332号線,十二社通り,方南通り
+137,"In the Tokyo area, which road cannot directly reach 柳通り?",D,八重洲通り,山手通り,新橋通り,丸の内 4th
+138,"In the Tokyo area, which road cannot directly reach 角筈和泉町線(泉南)?",A,北通り,角筈和泉町線,環七通り,中野通り
+139,"In the Tokyo area, which road cannot directly reach 角筈和泉町線?",D,南通り,中野通り,角筈和泉町線(泉南),サッカー通り
+140,"In the Tokyo area, which road directly reaches 花見橋通り?",A,本郷通り,小滝橋通り,赤松通り,ミルディス通り
+141,"In the Tokyo area, which road cannot directly reach けやき通り?",B,汐入中央通り,平和橋通り,吾妻橋伊興町線,中野通り
+142,"In the Tokyo area, which road cannot directly reach 汐入中央通り?",B,さくら堤通り,環状第3号線支線4,とちのき通り,けやき通り
+143,"In the Tokyo area, which road directly reaches はなみずき通り?",B,地蔵坂通り,汐入中央通り,丸の内室町線,丸の内 1st
+144,"In the Tokyo area, which road directly reaches とちのき通り?",C,水戸街道,三岩通り,汐入中央通り,佃大橋
+145,"In the Tokyo area, which road directly reaches ドナウ通り?",D,正庭通り,東通り(西新宿二丁目),北町豊玉線,とちのき通り
+146,"In the Tokyo area, which road cannot directly reach 吾妻橋伊興町線?",D,けやき通り,鐘ヶ淵通り,川の手通り,新堀通り
+147,"In the Tokyo area, which road directly reaches 渋谷区特別区道1076号線（補助18号線）?",D,ランブリングストリート,オレンジ通り,東京医大通り,恵比寿一番街
+148,"In the Tokyo area, which road cannot directly reach 渋谷区特別区道893号線（補助18号線）?",C,目黒三田通り,駒沢通り,有明通り,恵比寿一番街
+149,"In the Tokyo area, which road cannot directly reach 恵比寿一番街?",D,渋谷区特別区道893号線（補助18号線）,駒沢通り,渋谷区特別区道1076号線（補助18号線）,藍染大通り
+150,"In the Tokyo area, which road directly reaches 恵比寿銀座通り?",B,東八道路,新富士坂,烏森通り,黎明大橋
+151,"In the Tokyo area, which road cannot directly reach 目黒三田通り?",B,恵比寿銀座通り,船堀街道,駒沢通り,目黒通り
+152,"In the Tokyo area, which road directly reaches 補助第200号線?",C,青山通り(金王坂),御幸通り（フロムファースト通り）,越中島通り,富ヶ谷出口
+153,"In the Tokyo area, which road directly reaches 越中島通り?",D,福地蔵尊通り,補助第237号線,明治通,補助第200号線
+154,"In the Tokyo area, which road cannot directly reach 十間橋通り?",C,明治通り,八広はなみずき通り,富ヶ谷入口,新あづま通り
+155,"In the Tokyo area, which road directly reaches 中之橋通り?",B,公園通り(勤労福祉会館前),京葉道路,淡路坂,補助第284号線
+156,"In the Tokyo area, which road directly reaches 牡丹橋通り?",C,桜橋通り,東京医大通り,京葉道路,日比谷通り
+157,"In the Tokyo area, which road directly reaches 馬車通り?",A,牡丹橋通り,千住間道,瀬田中さくら通り,鍋屋横丁通り
+158,"In the Tokyo area, which road directly reaches のらくろード?",B,御門通り,清澄通り,飯田橋石神井新座線（支線）（補助第74号線）,居留地通り
+159,"In the Tokyo area, which road cannot directly reach 二七通り?",C,内堀通り,大妻通り,桂坂,日本テレビ通り
+160,"In the Tokyo area, which road cannot directly reach 大妻通り?",C,永井坂,二七通り,前野本通り,靖国通り
+161,"In the Tokyo area, which road directly reaches 人見街道?",A,井ノ頭通り,西台中央通り,日本橋芝浦大森線,外苑入口
+162,"In the Tokyo area, which road directly reaches 貝坂通り?",C,明治通,蔵前橋通り,青山通り,渋谷入口
+163,"In the Tokyo area, which road cannot directly reach 青山通り?",A,黎明大橋,三分坂,御幸通り（フロムファースト通り）,高樹町通り
+164,"In the Tokyo area, which road cannot directly reach 水天宮通り?",A,環状三号線,新大橋通り,清澄通り,靖国通り
+165,"In the Tokyo area, which road cannot directly reach 葛西橋通り?",A,新大橋通り,三ツ目通り,亀戸葛西橋線,清澄通り
+166,"In the Tokyo area, which road cannot directly reach かっぱ橋道具街通り?",D,菊水通り,浅草通り,言問通り,フィンガーアベニュー
+167,"In the Tokyo area, which road cannot directly reach 永井坂?",B,新宿通り,用賀一条通り,半蔵門駅通り,大妻通り
+168,"In the Tokyo area, which road cannot directly reach 深川吾嬬町線?",C,曳舟たから通り,八広中央通り,(田町駅西口交差点),新あづま通り
+169,"In the Tokyo area, which road cannot directly reach 八広中央通り?",B,新荒川堤防線,新宿コズミック通り,深川吾嬬町線,明治通り
+170,"In the Tokyo area, which road cannot directly reach 鐘ヶ淵通り?",B,吾妻橋伊興町線,玉姫神社通り,墨堤通り,水戸街道
+171,"In the Tokyo area, which road cannot directly reach 新荒川堤防線?",C,鐘ヶ淵通り,八広はなみずき通り,豊島病院通り,曳舟川通り
+172,"In the Tokyo area, which road cannot directly reach 水戸街道?",C,江戸通り,新荒川堤防線,榎坂,言問通り
+173,"In the Tokyo area, which road cannot directly reach 曳舟川通り?",D,水戸街道,言問通り,新荒川堤防線,余丁町通り
+174,"In the Tokyo area, which road cannot directly reach 八広はなみずき通り?",A,旧 鮫洲大山線,新荒川堤防線,八広中央通り,ゆりのき橋通り
+175,"In the Tokyo area, which road cannot directly reach 曳舟たから通り?",A,日比谷通り,丸八通り,明治通り,地蔵坂通り
+176,"In the Tokyo area, which road cannot directly reach 桜橋通り?",C,ガーデン通り,水戸街道,新宿通り,見番通り
+177,"In the Tokyo area, which road directly reaches 小梅通り?",A,桜橋通り,藍染川通り,東京都道446号長後赤塚線,サンシャイン60通り
+178,"In the Tokyo area, which road cannot directly reach 砧公園通り?",A,補助第300号線,瀬田貫井線,弦巻通り,用賀中道通り
+179,"In the Tokyo area, which road cannot directly reach 西用賀通り?",C,砧公園通り,用賀一条通り,高輪麻布線,瀬田貫井線
+180,"In the Tokyo area, which road cannot directly reach 赤松通り?",D,補助第128号線,西福寺通り,瀬田貫井線,堀切橋金町浄水場線
+181,"In the Tokyo area, which road cannot directly reach 西福寺通り?",C,ユリの木通り,赤堤通り,柳橋中央通り,調布経堂停車場線
+182,"In the Tokyo area, which road cannot directly reach 赤堤通り?",D,西福寺通り,瀬田貫井線,都市計画道路補助第154号線（区役所西通り）,浜町河岸通り
+183,"In the Tokyo area, which road cannot directly reach 内堀通り?",A,補助第93号線,六本木通り,白山通り,桜田通り
+184,"In the Tokyo area, which road directly reaches 代官町通り?",C,東京湾岸道路,目黒通り,内堀通り;半蔵門,日比谷通り
+185,"In the Tokyo area, which road cannot directly reach 内堀通り;半蔵門?",B,東京都道一七六号線,さくら堤通り,代官町通り,青山通り
+186,"In the Tokyo area, which road cannot directly reach 豊島園通り?",A,居留地中央通り,川越街道,田柄通り,千川通り
+187,"In the Tokyo area, which road cannot directly reach 田柄通り?",A,放射第35号線（環状八号線（支線））,豊島園通り,北町豊玉線,東京都道442号北町豊玉線
+188,"In the Tokyo area, which road cannot directly reach 金杉通り?",D,根岸柳通り,うぐいす通り,入谷口通り,放射第35号線（池袋谷原線）
+189,"In the Tokyo area, which road cannot directly reach 入谷口通り?",D,言問通り,神田白山線,金杉通り,早大通り
+190,"In the Tokyo area, which road directly reaches 京町通り?",C,日向坂,飯倉入口,花園通り,堀之内道（古道）
+191,"In the Tokyo area, which road cannot directly reach 仲之町通り?",A,六本木通り,角町通り,京町通り,揚屋通り
+192,"In the Tokyo area, which road cannot directly reach 小松橋通り?",C,花園通り,新大橋通り,なぎさ通り,千束通り
+193,"In the Tokyo area, which road cannot directly reach 花園通り?",B,国際通り,日大通り（瀬田貫井線）,江戸町通り,京町通り
+194,"In the Tokyo area, which road cannot directly reach 渋谷経堂線?",D,瀬田貫井線,経堂本町通り,世田谷区役所通り,サンシャイン60通り
+195,"In the Tokyo area, which road cannot directly reach 都市計画道路補助第154号線（区役所西通り）?",C,区役所西通り,補助54号線,道灌山通り,赤堤通り
+196,"In the Tokyo area, which road cannot directly reach 道玄坂?",D,文化村通り,渋谷出口,玉川通り,ふれあい通り
+197,"In the Tokyo area, which road directly reaches ランブリングストリート?",B,弁天通り,道玄坂,藍染川通り,白山小台線（田端新町一丁目）
+198,"In the Tokyo area, which road cannot directly reach 玉姫神社通り?",D,清川分室通り,明治通り,アサヒ会通り,フィンガーアベニュー
+199,"In the Tokyo area, which road cannot directly reach 日暮里中央通り?",C,尾久橋通り,御行の松通り,五日市街道,尾竹橋通り
+200,"In the Tokyo area, which road cannot directly reach 御行の松通り?",A,赤堤通り,カンカン森通り,うぐいす通り商栄会,日暮里中央通り
+201,"In the Tokyo area, which road cannot directly reach カンカン森通り?",B,尾竹橋通り,魚籃坂,御行の松通り,正庭通り
+202,"In the Tokyo area, which road cannot directly reach 環状2号線?",D,中央通り,昌平橋通り,昭和通り,貝坂通り
+203,"In the Tokyo area, which road cannot directly reach 日比谷芝浦線?",C,旧海岸通り,第一京浜,桜田通り,芝浦運河通り
+204,"In the Tokyo area, which road directly reaches 芝浦運河通り?",D,三崎坂,南通り,内堀通り;半蔵門,日比谷芝浦線
+205,"In the Tokyo area, which road cannot directly reach 不忍通り?",B,本郷通り,表参道,音羽通り,暗闇坂
+206,"In the Tokyo area, which road cannot directly reach 雉子橋通り?",C,靖国通り,専大通り,榎坂,神田警察通り
+207,"In the Tokyo area, which road cannot directly reach 専大通り?",B,雉子橋通り,北斎通り,中坂,靖国通り
+208,"In the Tokyo area, which road cannot directly reach 角町通り?",D,仲之町通り,揚屋通り,花園通り,首都高速6号三郷線
+209,"In the Tokyo area, which road directly reaches 揚屋通り?",A,仲之町通り,環八通り,二七通り,枝川出口
+210,"In the Tokyo area, which road cannot directly reach 根岸柳通り?",D,尾竹橋通り,昭和通り,金杉通り,東通り(西新宿二丁目)
+211,"In the Tokyo area, which road cannot directly reach 白山通り?",A,上平井橋江戸川大橋線,靖国通り,中山道,牛込小石川線
+212,"In the Tokyo area, which road directly reaches 言問大谷田線?",A,堀切橋金町浄水場線,宮益坂,新富士坂,駒沢通り
+213,"In the Tokyo area, which road cannot directly reach 堀切橋金町浄水場線?",D,言問大谷田線,平和橋通り,川の手通り,中之橋通り
+214,"In the Tokyo area, which road cannot directly reach 東京都道445号常盤台赤羽線?",B,ときわ通り,霞ヶ関渋谷線(霞町陸橋),福寿通り,富士見街道
+215,"In the Tokyo area, which road directly reaches 南ときわ通り?",A,環七通り,六郷田無道,雷門仲通り,旭通り
+216,"In the Tokyo area, which road cannot directly reach 江北橋通り?",A,晴海通り,千住小松川葛西沖線,川の手通り,尾竹橋通り
+217,"In the Tokyo area, which road directly reaches 梅田通り?",A,江北橋通り,佃大橋通り,栄通り（日大通り）,第二京浜
+218,"In the Tokyo area, which road cannot directly reach 千束通り?",A,志村坂下通り,小松橋通り,土手通り,言問通り
+219,"In the Tokyo area, which road cannot directly reach 千住新宿町線?",A,東京湾岸道路,環七通り,水戸街道,江北橋通り
+220,"In the Tokyo area, which road cannot directly reach 合羽坂?",C,外苑東通り,津の守坂通り,駒沢公園通り,靖国通り
+221,"In the Tokyo area, which road cannot directly reach 東通り?",A,溝田橋,ふれあい通り,北通り,中央通り
+222,"In the Tokyo area, which road directly reaches 東通り(西新宿二丁目)?",A,東通り,藍染川通り,豊中通り,フィンガーアベニュー
+223,"In the Tokyo area, which road cannot directly reach ふれあい通り?",A,哲学堂通り,東通り,東京都道新宿副都心八号線,十二社通り
+224,"In the Tokyo area, which road cannot directly reach 都市計画道路補助第72号線(つつじ通り)?",C,大久保通り,飯田橋石神井新座線（支線）（補助第74号線）,早稲田通り,諏訪通り
+225,"In the Tokyo area, which road cannot directly reach 新宿通り?",B,外堀通り,中丸通り,御苑通り,新宿停車場前線
+226,"In the Tokyo area, which road cannot directly reach 御苑通り?",B,芝新宿王子線(連絡路),光が丘西大通り,新宿通り,靖国通り
+227,"In the Tokyo area, which road cannot directly reach 津の守坂通り?",C,合羽坂,新宿通り,葛西橋通り,靖国通り
+228,"In the Tokyo area, which road cannot directly reach 飯田橋石神井新座線（支線）（補助第74号線）?",B,諏訪通り,内堀通り;半蔵門,都市計画道路補助第72号線(つつじ通り),補助第74号線
+229,"In the Tokyo area, which road cannot directly reach 諏訪通り?",B,都市計画道路補助第72号線(つつじ通り),環状4号線,飯田橋石神井新座線（支線）（補助第74号線）,早稲田通り
+230,"In the Tokyo area, which road cannot directly reach 城山通り?",A,日大通り（瀬田貫井線）,小豆沢通り,世田谷通り,世田谷町田線
+231,"In the Tokyo area, which road directly reaches 補助133号線?",C,荒川中央通り,首都高速1号羽田線,城山通り,尾久本町通り
+232,"In the Tokyo area, which road cannot directly reach 抜弁天通り?",C,神楽坂高円寺線,明治通り,花房山通り,余丁町通り
+233,"In the Tokyo area, which road directly reaches けやき坂?",C,首都高速都心環状線,駒八通り,芋洗坂,銀中通り
+234,"In the Tokyo area, which road cannot directly reach 環状三号線?",A,音羽池袋線,高輪麻布線,日比谷通り,桜田通り
+235,"In the Tokyo area, which road directly reaches 芋洗坂?",D,イエローストリート,錦町有楽町線,千代田練馬田無線,けやき坂
+236,"In the Tokyo area, which road directly reaches 三岩通り?",B,鮫洲大山線,ROUTE2020トレセン通り,靖国通り,新宿通り
+237,"In the Tokyo area, which road cannot directly reach ROUTE2020トレセン通り?",C,本郷赤羽線,常盤台赤羽線,船堀街道,三岩通り
+238,"In the Tokyo area, which road cannot directly reach 瀬田貫井線（補助第128号線）?",A,逆井庚申塚通り,瀬田貫井線 (側道),瀬田貫井線,城山通り
+239,"In the Tokyo area, which road cannot directly reach 小石川西巣鴨線?",A,厚木街道,春日通り,折戸通り,明治通り
+240,"In the Tokyo area, which road cannot directly reach 世田谷観音通り(旧 明薬通り)?",A,東京医大通り,下馬通り,野沢通り,駒留通り
+241,"In the Tokyo area, which road cannot directly reach 玉川通り;三軒茶屋?",D,世田谷観音通り(旧 明薬通り),玉川通り,駒留通り,なぎさ通り
+242,"In the Tokyo area, which road cannot directly reach 野沢通り?",D,山手通り,西郷山通り,世田谷観音通り(旧 明薬通り),花畑大橋通り
+243,"In the Tokyo area, which road cannot directly reach 用賀七条通り?",B,西用賀通り,鮫洲大山線（ボックスカルバート）,用賀中道通り,馬事公苑通り
+244,"In the Tokyo area, which road directly reaches 補助第91号線?",A,王子金町市川線,釜屋堀通り,東京港臨港道路青海縦貫線,祝田通り
+245,"In the Tokyo area, which road cannot directly reach 王子金町市川線?",C,堀切橋金町浄水場線,新荒川堤防線,環状2号線（信号表示注意）,新荒川葛西堤防線
+246,"In the Tokyo area, which road directly reaches 補助第93号線?",C,日向坂,上落中通り,王子金町市川線,金美館通り
+247,"In the Tokyo area, which road cannot directly reach 駒中通り?",B,世田谷通り,Roppongi dori,弦巻通り,駒留通り
+248,"In the Tokyo area, which road cannot directly reach 地蔵坂通り?",D,水戸街道,墨堤通り,曳舟たから通り,桜ヶ池通り
+249,"In the Tokyo area, which road cannot directly reach 新あづま通り?",C,ガーデン通り,深川吾嬬町線,本木新道,十間橋通り
+250,"In the Tokyo area, which road cannot directly reach ガーデン通り?",C,桜橋通り,深川吾嬬町線,王子千住夢の島線,墨田区画街路第5号線
+251,"In the Tokyo area, which road cannot directly reach 見番通り?",D,墨堤通り,桜橋通り,水戸街道,日向坂
+252,"In the Tokyo area, which road cannot directly reach 新橋通り?",D,明治通り,恵比寿通り,くすの木通り,ゆりのき橋通り
+253,"In the Tokyo area, which road cannot directly reach 甲州街道?",D,新宿通り,明治通り,議事堂通り,初台入口
+254,"In the Tokyo area, which road directly reaches Kuken-dori?",B,赤坂通り／乃木坂,大久保通り,日本テレビ通り,入谷口通り
+255,"In the Tokyo area, which road cannot directly reach 親疎通り?",C,国際通り,昭和通り,桜ヶ池通り,左衛門橋通り
+256,"In the Tokyo area, which road cannot directly reach 日本橋芝浦大森線?",D,海岸通り,天王洲通り,品川埠頭線,尾久橋通り
+257,"In the Tokyo area, which road cannot directly reach 品川埠頭線?",B,日本橋芝浦大森線,魚籃坂,海岸通り,旧海岸通り
+258,"In the Tokyo area, which road cannot directly reach 補助第300号線?",B,補助第299号線,環状4号線,三ツ目通り,環状第3号線支線4
+259,"In the Tokyo area, which road cannot directly reach 補助第299号線?",C,晴海通り,補助第300号線,荒玉水道道路,三ツ目通り
+260,"In the Tokyo area, which road cannot directly reach 丸八通り?",B,新大橋通り,昭和通り,旧平井街道,曳舟たから通り
+261,"In the Tokyo area, which road cannot directly reach 日比谷豊洲埠頭東雲町線?",C,晴海通り,区画道路5-2号線,ビール坂,区画道路5-3号線
+262,"In the Tokyo area, which road directly reaches 朝潮大橋?",A,清澄通り,うぐいす通り,東京都道新宿副都心八号線,赤坂杉並線
+263,"In the Tokyo area, which road cannot directly reach 環状六号線?",B,花房山通り,高樹町入口,山手通り,第一京浜
+264,"In the Tokyo area, which road cannot directly reach 東京丸子横浜線?",A,西池袋通り,第二京浜,環状六号線,山手通り
+265,"In the Tokyo area, which road cannot directly reach 環二通り?",B,第一京浜,国会通り,海岸通り,清澄通り
+266,"In the Tokyo area, which road cannot directly reach 北通り?",C,淀橋渋谷本町線,東通り,橋場通り,議事堂通り
+267,"In the Tokyo area, which road cannot directly reach 十二社通り?",A,橋場通り,南通り,甲州街道,ふれあい通り
+268,"In the Tokyo area, which road cannot directly reach 北本通り?",A,補助第299号線,本郷赤羽線,王子千住夢の島線,環七通り
+269,"In the Tokyo area, which road cannot directly reach 東京都道新宿副都心八号線?",A,白山通り,中央通り,北通り,甲州街道(西新宿二丁目)
+270,"In the Tokyo area, which road cannot directly reach 新大橋通り?",A,荒川堤防線,船堀街道,清澄通り,三ツ目通り
+271,"In the Tokyo area, which road cannot directly reach 亀戸葛西橋線?",B,新大橋通り,竹芝みなと通り,葛西橋通り,永代葛西橋線
+272,"In the Tokyo area, which road directly reaches 永代葛西橋線?",B,栄通り（日大通り）,葛西橋通り,奥戸街道,都庁通り
+273,"In the Tokyo area, which road cannot directly reach 青梅街道?",D,中野通り,公園通り,四谷角筈線,見番通り
+274,"In the Tokyo area, which road cannot directly reach 五日市街道?",D,青梅街道,瀬田貫井線,高南通り,淡島通り　松見坂
+275,"In the Tokyo area, which road cannot directly reach 高南通り?",D,青梅街道,五日市街道,南中央通り,みたけ通り
+276,"In the Tokyo area, which road directly reaches 旧 新荒川葛西堤防線?",A,清砂大橋通り,京葉道路,目黒出口,東四ツ木コミュニティ通り
+277,"In the Tokyo area, which road directly reaches 淡路坂?",A,外堀通り,竹の塚センター通り,柘榴坂,平井大橋
+278,"In the Tokyo area, which road cannot directly reach 茶沢通り?",A,太子堂道,世田谷通り;三軒茶屋,淡島通り,玉川通り
+279,"In the Tokyo area, which road cannot directly reach 下馬通り?",C,六郷田無道,環七通り,飯田橋入口,世田谷観音通り(旧 明薬通り)
+280,"In the Tokyo area, which road cannot directly reach 六郷田無道?",C,環七通り,下馬通り,音羽池袋線,柿の木坂通り
+281,"In the Tokyo area, which road cannot directly reach 中杉通り?",C,新青梅街道,早稲田通り,衆楽坂,千川通り
+282,"In the Tokyo area, which road cannot directly reach 鷹番通り?",C,目黒通り,田向通り,八幡通り,鮫洲大山線
+283,"In the Tokyo area, which road cannot directly reach もみじ山通り?",D,三味線橋通り,大日橋通り,早稲田通り,光が丘西大通り
+284,"In the Tokyo area, which road cannot directly reach 三味線橋通り?",A,トキワ通り,鍋屋横丁通り,青梅街道,もみじ山通り
+285,"In the Tokyo area, which road cannot directly reach 鍋屋横丁通り?",B,三味線橋通り,首都高速1号羽田線,青梅街道,中野通り
+286,"In the Tokyo area, which road cannot directly reach 区役所西通り?",D,世田谷通り,都市計画道路補助第154号線（区役所西通り）,駒沢公園通り,黎明大橋
+287,"In the Tokyo area, which road cannot directly reach 中丸通り?",B,みたけ通り,環七通り,ロード大谷口,さいわい通り
+288,"In the Tokyo area, which road cannot directly reach みたけ通り?",A,船堀橋,劇場通り,中丸通り,平和通り
+289,"In the Tokyo area, which road directly reaches さいわい通り?",A,川越街道,六郷田無道,蛇崩・伊勢脇通り,神楽坂高円寺線
+290,"In the Tokyo area, which road directly reaches 駒八通り?",A,深沢学園通り,小松橋通り,堀之内道（古道）,弁天通り商店街
+291,"In the Tokyo area, which road cannot directly reach 深沢学園通り?",D,自由通り,駒八通り,やくも文化通り,宮益坂
+292,"In the Tokyo area, which road cannot directly reach やくも文化通り?",B,天神坂,補助第237号線,自由通り,深沢学園通り
+293,"In the Tokyo area, which road directly reaches 本木新道?",C,紀尾井町通り,フィンガーアベニュー,新荒川葛西堤防線,議事堂通り
+294,"In the Tokyo area, which road cannot directly reach 福寿通り?",C,常盤台赤羽線,中山道,公園通り,東京都道445号常盤台赤羽線
+295,"In the Tokyo area, which road cannot directly reach 御成塚通り?",A,赤坂通り／乃木坂,城山通り,志村坂下通り,蓮根駅前通り
+296,"In the Tokyo area, which road cannot directly reach 祝田通り?",B,国会通り,神田警察通り,晴海通り,外堀通り
+297,"In the Tokyo area, which road cannot directly reach 蓮根駅前通り?",A,鮫洲大山線,志村坂下通り,環八通り,御成塚通り
+298,"In the Tokyo area, which road cannot directly reach 志村坂下通り?",D,御成塚通り,東京都道446号長後赤塚線,蓮根駅前通り,大久保通り
+299,"In the Tokyo area, which road directly reaches オレンジ通り?",D,世田谷町田線,永代葛西橋線,駒沢通り,雷門通り
+300,"In the Tokyo area, which road cannot directly reach 雷門仲通り?",C,雷門通り,浅草通り,目黒通り;大鳥神社,オレンジ通り
+301,"In the Tokyo area, which road cannot directly reach 川越街道?",A,水天宮通り,東京都道442号北町豊玉線,環七通り,長後赤塚線
+302,"In the Tokyo area, which road directly reaches 逆井庚申塚通り?",A,ゆりのき橋通り,新橋通り,赤紙仁王通り,秋葉原雑司ヶ谷線
+303,"In the Tokyo area, which road cannot directly reach ゆりのき橋通り?",B,八広はなみずき通り,奥戸街道,蔵前橋通り(平井駅出口),逆井庚申塚通り
+304,"In the Tokyo area, which road directly reaches 新橋グルメ通り?",A,ビール坂,まいろーど四つ木商店街,井ノ頭通り,人見街道
+305,"In the Tokyo area, which road cannot directly reach 池袋谷原線?",D,環八通り,鮫洲大山線,山手通り,六郷田無道
+306,"In the Tokyo area, which road directly reaches 花畑大橋通り?",C,丸の内 5th,御苑通り,環七通り,小松橋通り
+307,"In the Tokyo area, which road cannot directly reach 綾瀬川通り?",A,蓮根駅前通り,環七通り,環七南通り,江北橋通り
+308,"In the Tokyo area, which road directly reaches 五色桜通り?",B,三岩通り,東京川口線,補助第237号線,金杉通り
+309,"In the Tokyo area, which road cannot directly reach 尾久橋通り?",B,江北橋通り,本木新道,白山小台線（田端新町一丁目）,日暮里中央通り
+310,"In the Tokyo area, which road cannot directly reach 道灌山通り?",B,不忍通り,公園通り,尾久橋通り,尾竹橋通り
+311,"In the Tokyo area, which road cannot directly reach 国際通り?",D,雷門通り,花園通り,浅草通り,さくら坂
+312,"In the Tokyo area, which road cannot directly reach ボロ市通り?",C,世田谷町田線,駒沢公園通り,補助第284号線,世田谷通り
+313,"In the Tokyo area, which road cannot directly reach 東京港臨港道路青海縦貫線?",A,目黒通り,補助第308号線,東京湾岸道路,台場青海線
+314,"In the Tokyo area, which road directly reaches 補助第308号線?",B,目黒通り,台場青海線,渋谷入口,玉川通り
+315,"In the Tokyo area, which road cannot directly reach 丸の内 1st?",D,錦町有楽町線,日比谷通り,丸の内室町線,京町通り
+316,"In the Tokyo area, which road cannot directly reach 丸の内室町線?",D,鍛冶橋通り,錦町有楽町線,丸の内 1st,うぐいす通り
+317,"In the Tokyo area, which road directly reaches 船堀橋?",C,地蔵坂通り,元競馬場通り,船堀街道,三分坂
+318,"In the Tokyo area, which road cannot directly reach 船堀街道?",C,葛西橋通り,新大橋通り,西台中央通り,東京湾岸道路
+319,"In the Tokyo area, which road cannot directly reach 庚申通り?",B,環七通り,正庭通り,豊中通り,目白通り
+320,"In the Tokyo area, which road cannot directly reach 東京女子医大通り?",D,江北橋通り,江北バス通り,環七通り,碑さくら通り
+321,"In the Tokyo area, which road cannot directly reach 江北バス通り?",C,東京川口線,尾久橋通り,橋場通り,王子金町市川線
+322,"In the Tokyo area, which road cannot directly reach 千住小松川葛西沖線?",B,王子金町市川線,南ときわ通り,平和橋通り,江北橋通り
+323,"In the Tokyo area, which road directly reaches 蒲原通り?",A,環七通り,音羽通り,聖母坂通り,芝新宿王子線
+324,"In the Tokyo area, which road directly reaches 加平谷中線?",D,桜田通り,青山渋谷橋線,薬師柳通り,環七通り
+325,"In the Tokyo area, which road directly reaches 平方東京線?",D,弦巻通り (Tsurumaki dori),東八道路,霞ケ関渋谷線,江北橋通り
+326,"In the Tokyo area, which road cannot directly reach 補助128号線?",C,赤堤通り,瀬田貫井線,十間橋通り,ユリの木通り
+327,"In the Tokyo area, which road directly reaches ユリの木通り?",C,旧早稲田通り,荒玉水道道路,補助128号線,銀座桜通り
+328,"In the Tokyo area, which road cannot directly reach 冠新道?",D,明治通り,尾久橋通り,尾久の原 防災通り,二の坪通り
+329,"In the Tokyo area, which road cannot directly reach 尾久の原 防災通り?",B,冠新道,新大宮バイパス,明治通り（田端新町一丁目）,都電通り
+330,"In the Tokyo area, which road cannot directly reach 都電通り?",C,荒川遊園通り,白山小台線,恵比寿通り,尾竹橋通り
+331,"In the Tokyo area, which road cannot directly reach 東京川口線?",C,江北バス通り,鳩ヶ谷街道,スタジアム通り,首都高速川口線
+332,"In the Tokyo area, which road directly reaches 新荒川堤防線（区道区間）?",B,栄通り（日大通り）,王子金町市川線,新橋日の出ふ頭線,特別区道江147号
+333,"In the Tokyo area, which road cannot directly reach 中央市場通り?",D,銀中通り,昭和通り,新大橋通り,青山通り(金王坂)
+334,"In the Tokyo area, which road cannot directly reach 銀中通り?",D,昭和通り,海岸通り,中央市場通り,外苑東通り
+335,"In the Tokyo area, which road directly reaches 演舞場通り?",B,東京川口線,銀中通り,駒沢公園通り,中坂
+336,"In the Tokyo area, which road cannot directly reach 大門通り?",A,江北橋通り,新大橋通り,清洲橋通り,塩浜通り
+337,"In the Tokyo area, which road cannot directly reach かつら並木通り?",D,日光街道,旧日光街道,かつら並木ニッピ通り,高輪麻布線
+338,"In the Tokyo area, which road cannot directly reach トキワ通り?",B,平和通り,金杉通り,劇場通り,みずき通り
+339,"In the Tokyo area, which road cannot directly reach 劇場通り?",D,川越街道,トキワ通り,みずき通り,鎌倉通り
+340,"In the Tokyo area, which road directly reaches みずき通り?",D,富士街道（都道池袋谷原線）,さいわい通り,徳丸槙の道,トキワ通り
+341,"In the Tokyo area, which road cannot directly reach 花房山通り?",C,北品川四谷線,桜田通り,前野本通り,目黒通り
+342,"In the Tokyo area, which road cannot directly reach 土手通り?",B,馬道通り,天現寺出口,明治通り,千束通り
+343,"In the Tokyo area, which road cannot directly reach 左衛門橋通り?",B,蔵前橋通り,金座通り,浅草通り,靖国通り
+344,"In the Tokyo area, which road cannot directly reach 公園通り?",B,フィンガーアベニュー,栄和通り,中央通り,甲州街道
+345,"In the Tokyo area, which road cannot directly reach 福井町通り?",C,左衛門橋通り,江戸通り,区画道路5-4号線,柳橋中央通り
+346,"In the Tokyo area, which road directly reaches 柳橋中央通り?",A,江戸通り,金美館通り,台場青海線,吾妻橋伊興町線
+347,"In the Tokyo area, which road cannot directly reach 田向通り?",A,並木通り,サレジオ通り,補助47号線,鮫洲大山線
+348,"In the Tokyo area, which road cannot directly reach サレジオ通り?",B,碑さくら通り,清州大橋通り,目黒通り,田向通り
+349,"In the Tokyo area, which road cannot directly reach 碑さくら通り?",C,補助47号線,円融寺通り,川越街道,サレジオ通り
+350,"In the Tokyo area, which road cannot directly reach 日本テレビ通り?",A,暗闇坂,靖国通り,新宿通り,二七通り
+351,"In the Tokyo area, which road directly reaches 早大通り?",B,鍛冶橋通り,江戸川橋通り,天現寺入口,野沢通り(じゃくずれ)
+352,"In the Tokyo area, which road directly reaches 聖ルカ通り?",C,丸の内 5th,環八通り,居留地中央通り,桂坂
+353,"In the Tokyo area, which road cannot directly reach 居留地中央通り?",D,佃大橋通り,居留地通り,聖ルカ通り,芝新宿王子線(連絡路)
+354,"In the Tokyo area, which road directly reaches 明正通り?",B,神宮通り,鍛冶橋通り,堀之内道（古道）,小桜通り
+355,"In the Tokyo area, which road directly reaches 居留地通り?",B,外苑出口,居留地中央通り,榎坂,水戸街道
+356,"In the Tokyo area, which road directly reaches 貫井橋?",B,飯倉出口,目白通り,首都高速6号三郷線,衆楽坂
+357,"In the Tokyo area, which road cannot directly reach 御幸通り（フロムファースト通り）?",C,青山通り,赤坂杉並線,新堀通り,霞ケ関渋谷線
+358,"In the Tokyo area, which road cannot directly reach かむろ坂通り?",D,山手通り,鮫洲大山線,桐ヶ谷通り,福井町通り
+359,"In the Tokyo area, which road directly reaches 桐ヶ谷通り?",C,青山通り(金王坂),駒留通り,中原街道,松涛文化村ストリート
+360,"In the Tokyo area, which road directly reaches 鮫洲大山線（支線）（補助第46号線）?",A,かむろ坂通り,環七通り(泉南),聖母坂通り,御成塚通り
+361,"In the Tokyo area, which road cannot directly reach 神楽坂高円寺線?",D,抜弁天通り,余丁町通り,環状4号線,東四ツ木コミュニティ通り
+362,"In the Tokyo area, which road cannot directly reach 夏目坂通り?",D,早稲田通り,神楽坂高円寺線,大久保通り,枝川出口
+363,"In the Tokyo area, which road cannot directly reach 旧中山道?",C,庚申塚通り,グリーンロード,常盤台赤羽線,中山道
+364,"In the Tokyo area, which road cannot directly reach 庚申塚通り?",D,旧中山道,明治通り,折戸通り,福地蔵尊通り
+365,"In the Tokyo area, which road cannot directly reach 方南通り(方南町交差点)?",D,環七通り,荒玉水道道路,方南通り,用賀中道通り
+366,"In the Tokyo area, which road cannot directly reach 吉野通り?",C,言問通り,明治通り,弁天通り商店街,山谷通り
+367,"In the Tokyo area, which road directly reaches 桜ヶ池通り?",C,長後赤塚線,演舞場通り,上高田中通り,蓮根駅前通り
+368,"In the Tokyo area, which road directly reaches 五中つつじ通り?",C,大門通り,明正通り,桜ヶ池通り,箱根山通り
+369,"In the Tokyo area, which road cannot directly reach 中原街道?",C,東京丸子横浜線,桐ヶ谷通り,補助第200号線,第二京浜
+370,"In the Tokyo area, which road cannot directly reach 補助47号線?",A,墨堤通り,目黒通り,田向通り,碑さくら通り
+371,"In the Tokyo area, which road cannot directly reach 円融寺通り?",A,北町豊玉線,目黒通り,鮫洲大山線,碑さくら通り
+372,"In the Tokyo area, which road directly reaches 赤羽並木通り?",C,希望丘通り,美倉橋,中十条赤羽線,旧日光街道
+373,"In the Tokyo area, which road cannot directly reach 常盤台赤羽線?",C,赤羽並木通り,ROUTE2020トレセン通り,江戸川橋通り,福寿通り
+374,"In the Tokyo area, which road directly reaches 赤紙仁王通り?",D,渋谷区特別区道893号線（補助18号線）,千川通り,目黒通り;大鳥神社,八幡坂
+375,"In the Tokyo area, which road directly reaches 八幡坂?",A,赤紙仁王通り,北斎通り,れいめい橋公園通り,日比谷仲通り
+376,"In the Tokyo area, which road cannot directly reach 神田白山線?",D,昭和通り,入谷口通り,本郷通り,仙気稲荷通り
+377,"In the Tokyo area, which road cannot directly reach 旧白山通り?",C,国道17号,神田白山線,虹の広場通り,白山通り
+378,"In the Tokyo area, which road directly reaches お岩通り?",C,都市計画道路補助第72号線(つつじ通り),首都高速2号目黒線,栄和通り,サンシャイン60通り
+379,"In the Tokyo area, which road cannot directly reach 栄和通り?",D,白山通り,庚申塚通り,お岩通り,福井町通り
+380,"In the Tokyo area, which road directly reaches 田端駅下仲通り?",C,うぐいす通り,常盤台赤羽線,白山小台線,哲学堂通り
+381,"In the Tokyo area, which road cannot directly reach 白山小台線?",D,都電通り,赤紙仁王通り,八幡坂,税務署通り
+382,"In the Tokyo area, which road directly reaches 尾久本町通り?",B,さくら通り,白山小台線,東京FM通り,六本木通り
+383,"In the Tokyo area, which road directly reaches 亀有中央通り?",B,もみじ山通り,江北橋通り,用賀七条通り,のらくろード
+384,"In the Tokyo area, which road cannot directly reach 八幡通り?",A,津の守坂通り,明治通り,上落中通り,六本木通り
+385,"In the Tokyo area, which road cannot directly reach 行幸通り?",A,箱根山通り,内堀通り,日比谷通り,錦町有楽町線
+386,"In the Tokyo area, which road directly reaches 新田学園通り?",B,前野本通り,環七通り,神楽坂高円寺線,トキワ通り
+387,"In the Tokyo area, which road directly reaches 西池袋通り?",A,山手通り,本木新道,みたけ通り,飯倉出口
+388,"In the Tokyo area, which road cannot directly reach 丸の内 2nd?",D,大名小路,錦町有楽町線,丸の内室町線,芋洗坂
+389,"In the Tokyo area, which road cannot directly reach 大名小路?",B,錦町有楽町線,世田谷町田線,丸の内 5th,晴海通り
+390,"In the Tokyo area, which road directly reaches 清川分室通り?",B,首都高速6号向島線,アサヒ会通り,ことぶきこども園通り,角町通り
+391,"In the Tokyo area, which road cannot directly reach アサヒ会通り?",D,吉野通り,石浜通り,清川分室通り,葛西橋通り
+392,"In the Tokyo area, which road directly reaches 吉場安行東京線?",C,富士見銀座商店街,中央中通り,環七通り,大名小路
+393,"In the Tokyo area, which road directly reaches 芝新宿王子線(連絡路)?",C,清州大橋通り,馬道通り,御苑通り,清水谷坂
+394,"In the Tokyo area, which road directly reaches のぞみ橋?",D,合羽坂,清澄通り,中央中通り,豊洲有明線
+395,"In the Tokyo area, which road cannot directly reach 曳舟川親水通り?",B,環七南通り,代々木淀橋線,堀切橋金町浄水場線,平和橋通り
+396,"In the Tokyo area, which road directly reaches 帝釈道?",A,水戸街道,環状2号線（信号表示注意）,赤坂通り／乃木坂,明大通り
+397,"In the Tokyo area, which road cannot directly reach 旧平井街道?",A,代官町通り,平井街道;宮田通り,丸八通り,曳舟たから通り
+398,"In the Tokyo area, which road directly reaches 元八幡通り?",C,赤塚高台通り,新宿コズミック通り,丸八通り,道灌山通り
+399,"In the Tokyo area, which road cannot directly reach 平井大橋?",D,蔵前橋通り(平井駅出口),蔵前橋通り,ゆりのき橋通り,海岸通り
+400,"In the Tokyo area, which road directly reaches 蔵前橋通り(平井駅出口)?",B,旧早稲田通り,平井大橋,衆楽坂,祝田通り
+401,"In the Tokyo area, which road cannot directly reach 中居堀通り?",B,ゆりのき橋通り,不動通り,明治通り,新荒川堤防線
+402,"In the Tokyo area, which road cannot directly reach 中山道?",C,城山通り,福寿通り,さくら坂,首都高速5号池袋線
+403,"In the Tokyo area, which road cannot directly reach 紀尾井町通り?",A,中央通り(転回路),清水谷坂,紀尾井通り,外堀通り
+404,"In the Tokyo area, which road cannot directly reach 明大通り?",C,小桜通り,千代田通り,中央中通り,外堀通り
+405,"In the Tokyo area, which road cannot directly reach 千代田通り?",B,靖国通り,外苑西通り,錦町有楽町線,神田警察通り
+406,"In the Tokyo area, which road cannot directly reach 新虎通り?",D,環二通り,祝田通り,日比谷通り,日比谷地下道
+407,"In the Tokyo area, which road directly reaches 大日橋通り?",A,もみじ山通り,首都高速6号向島線,首都高速5号池袋線,曳舟川通り
+408,"In the Tokyo area, which road cannot directly reach 体育館通り?",B,環八通り,池袋谷原線,福寿通り,小豆沢通り
+409,"In the Tokyo area, which road cannot directly reach 牛込小石川線?",A,梅丘通り,飯田橋石神井新座線,白山通り,目白通り
+410,"In the Tokyo area, which road cannot directly reach 飯田橋石神井新座線?",C,目白通り,新小川町4番,新荒川葛西堤防線,大久保通り
+411,"In the Tokyo area, which road cannot directly reach プリンス通り?",D,新宿通り,青山通り,日本テレビ通り,丸の内 3rd
+412,"In the Tokyo area, which road cannot directly reach 甲州街道(西新宿二丁目)?",D,東京都道新宿副都心八号線,議事堂通り,甲州街道,錦町有楽町線
+413,"In the Tokyo area, which road cannot directly reach 青山通り(金王坂)?",D,美竹通り,六本木通り,青山通り,西用賀通り
+414,"In the Tokyo area, which road cannot directly reach 宮益坂?",D,明治通り,青山通り,美竹通り,のらくろード
+415,"In the Tokyo area, which road directly reaches 波除通り?",D,美竹通り,三岩通り,御幸通り,居留地中央通り
+416,"In the Tokyo area, which road cannot directly reach うぐいす通り?",C,金杉通り,うぐいす通り商栄会,榎坂,御行の松通り
+417,"In the Tokyo area, which road cannot directly reach 塩浜通り?",B,大門通り,八広中央通り,環状三号線,三ツ目通り
+418,"In the Tokyo area, which road cannot directly reach 白山祝田田町線?",C,桜田通り,第一京浜,さくら通り,日比谷芝浦線
+419,"In the Tokyo area, which road cannot directly reach 小豆沢通り?",A,天神坂,体育館通り,城山通り,中山道
+420,"In the Tokyo area, which road cannot directly reach 藍染川通り?",C,明治通り,尾竹橋通り,環七通り(泉南),ゆいの森通り
+421,"In the Tokyo area, which road cannot directly reach 王子千住夢の島線?",D,王子金町市川線,明治通り,本郷赤羽線,成丘通り
+422,"In the Tokyo area, which road cannot directly reach 本郷赤羽線?",B,中十条赤羽線,明治通,王子千住夢の島線,ROUTE2020トレセン通り
+423,"In the Tokyo area, which road cannot directly reach 中十条赤羽線?",B,本郷赤羽線,江古田通り,環七通り,弁天通り
+424,"In the Tokyo area, which road cannot directly reach 新茶屋坂通り?",A,正庭通り,くすの木通り,目黒三田通り,山手通り
+425,"In the Tokyo area, which road cannot directly reach 下板橋通り?",B,グリーンロード,ランブリングストリート,中山道,旧中山道
+426,"In the Tokyo area, which road cannot directly reach 富士見街道?",D,若木通り,東京都道445号常盤台赤羽線,ときわ台駅前中央通り,田柄通り
+427,"In the Tokyo area, which road cannot directly reach 江古田通り?",B,目白通り,議事堂通り,千川通り,新青梅街道
+428,"In the Tokyo area, which road cannot directly reach 橋場通り?",C,吉野通り,水戸街道,外濠環状線,江戸通り
+429,"In the Tokyo area, which road cannot directly reach 恵泉裏通り?",C,千歳通り,城山通り,東京都道446号長後赤塚線,調布経堂停車場線
+430,"In the Tokyo area, which road cannot directly reach 西徳通り?",B,徳丸石川通り,駒場通り,西台中央通り,徳丸通り
+431,"In the Tokyo area, which road cannot directly reach 徳丸石川通り?",B,長後赤塚線,国会通り,徳丸槙の道,西徳通り
+432,"In the Tokyo area, which road directly reaches 徳丸通り?",D,金座通り,早稲田通り,(田町駅西口交差点),西徳通り
+433,"In the Tokyo area, which road directly reaches 徳丸槙の道?",A,徳丸石川通り,平和橋通り,光が丘西大通り,はなみずき通り
+434,"In the Tokyo area, which road cannot directly reach 新大宮バイパス?",D,放射第35号線（環状八号線（支線））,長後赤塚線,川越街道,新富士坂
+435,"In the Tokyo area, which road cannot directly reach 長後赤塚線?",A,トキワ通り,赤塚体育館通り,徳丸石川通り,川越街道
+436,"In the Tokyo area, which road cannot directly reach 放射第35号線（環状八号線（支線））?",C,新大宮バイパス,環八通り,道灌山通り,池袋谷原線
+437,"In the Tokyo area, which road directly reaches 佃大橋?",D,合羽坂,表参道,新虎通り,佃大橋通り
+438,"In the Tokyo area, which road cannot directly reach 佃大橋通り?",D,新大橋通り,平成通り,佃大橋,大橋通り
+439,"In the Tokyo area, which road cannot directly reach 四谷角筈線?",A,瀬田貫井線 (側道),甲州街道,中央通り,外堀通り
+440,"In the Tokyo area, which road cannot directly reach ときわ通り?",C,七軒家通り,若木通り,竹の塚センター通り,東京都道445号常盤台赤羽線
+441,"In the Tokyo area, which road directly reaches 七軒家通り?",B,白山祝田田町線,ときわ通り,専大通り,東仲通り
+442,"In the Tokyo area, which road cannot directly reach 西台中央通り?",C,ときわ通り,西徳通り,人形町通り,東京都道446号長後赤塚線
+443,"In the Tokyo area, which road directly reaches 一里塚通り?",C,中居堀通り,三ツ目通り,中山道,平和橋通り
+444,"In the Tokyo area, which road cannot directly reach 公園通り(勤労福祉会館前)?",D,神宮通り,オルガン坂,フィンガーアベニュー,錦町有楽町線
+445,"In the Tokyo area, which road cannot directly reach オルガン坂?",C,井ノ頭通り,公園通り,飯田橋入口,フィンガーアベニュー
+446,"In the Tokyo area, which road cannot directly reach 江戸川橋通り?",B,早大通り,外濠環状線,新目白通り,目白通り
+447,"In the Tokyo area, which road directly reaches 東京大仏通り?",A,赤塚中央通り,津の守坂通り,かっぱ橋道具街通り,品川埠頭線
+448,"In the Tokyo area, which road cannot directly reach 赤塚中央通り?",C,長後赤塚線,川越街道,(じゃくずれ),東京都道442号北町豊玉線
+449,"In the Tokyo area, which road cannot directly reach 赤塚高台通り?",A,葛西橋通り,成増北口通り,川越街道,光が丘西大通り
+450,"In the Tokyo area, which road directly reaches 赤塚体育館通り?",A,長後赤塚線,首都高速9号深川線,淡島通り,不忍通り
+451,"In the Tokyo area, which road directly reaches 霞ヶ関坂?",C,補助第144号線（仮設道路）,根岸柳通り,六本木通り,浅草通り
+452,"In the Tokyo area, which road directly reaches 南中央通り?",C,芝溝道,墨堤通り,高南通り,くすの木通り
+453,"In the Tokyo area, which road directly reaches 環状第3号線支線4?",A,補助第300号線,Kuken-dori,五色桜通り,千代田練馬田無線
+454,"In the Tokyo area, which road directly reaches 不動通り?",D,日本テレビ通り,八広はなみずき通り,神田白山線,長後赤塚線
+455,"In the Tokyo area, which road directly reaches 東京都道446号長後赤塚線?",B,飯倉出口,西台中央通り,西徳通り,かつら並木通り
+456,"In the Tokyo area, which road directly reaches 谷田川通り?",D,代々木淀橋線,伊皿子坂,榎坂,本郷通り
+457,"In the Tokyo area, which road cannot directly reach 旧大山街道?",B,宮益坂,霞ヶ関渋谷線(霞町陸橋),瀬田貫井線,道玄坂
+458,"In the Tokyo area, which road cannot directly reach 南通り?",B,議事堂通り(西新宿),とちのき通り,議事堂通り,都庁通り
+459,"In the Tokyo area, which road cannot directly reach 首都高速1号上野線?",D,首都高速都心環状線,言問通り,首都高速道路,丸の内 5th
+460,"In the Tokyo area, which road directly reaches 安藤坂?",C,山谷通り,御行の松通り,春日通り,平成通り
+461,"In the Tokyo area, which road cannot directly reach 団子坂?",B,神田白山線,区画道路5-4号線,不忍通り,三崎坂
+462,"In the Tokyo area, which road cannot directly reach 三崎坂?",B,不忍通り,放射第35号線（環状八号線（支線））,言問通り,団子坂
+463,"In the Tokyo area, which road directly reaches くすのき通り?",A,川の手通り,大妻通り,さくら堤通り,小桜通り
+464,"In the Tokyo area, which road cannot directly reach 明治通り（田端新町一丁目）?",A,水天宮通り,尾久の原 防災通り,冠新道,明治通り
+465,"In the Tokyo area, which road cannot directly reach 富士街道（都道池袋谷原線）?",B,豊島園通り,鮫洲大山線（支線）（補助第46号線）,環八通り,南田中町旭町線（支線1）（補助第172号線）
+466,"In the Tokyo area, which road cannot directly reach 北町豊玉線?",D,早宮中央通り,田柄通り,環八通り,旧 新荒川葛西堤防線
+467,"In the Tokyo area, which road cannot directly reach 早宮中央通り?",A,国道246号,南田中町旭町線（支線1）（補助第172号線）,池袋谷原線,北町豊玉線
+468,"In the Tokyo area, which road directly reaches 前野本通り?",A,東京都道445号常盤台赤羽線,神田警察通り,新木場若洲線,宮益坂
+469,"In the Tokyo area, which road cannot directly reach 千川通り?",D,豊島園通り,千代田練馬田無線（補助第133号線）,江古田通り,ドナウ通り
+470,"In the Tokyo area, which road directly reaches 立教通り?",A,山手通り,滝坂道南廻り,西仲通り,甲州街道
+471,"In the Tokyo area, which road cannot directly reach 台場青海線?",B,東京港臨港道路青海縦貫線,東京都道445号常盤台赤羽線,補助第308号線,東京湾岸道路
+472,"In the Tokyo area, which road cannot directly reach 南蔵院通り?",B,目白通り,丸の内 3rd,千川通り,新青梅街道
+473,"In the Tokyo area, which road cannot directly reach 青山渋谷橋線?",D,霞ケ関渋谷線,駒沢通り,明治通り,竹芝みなと通り
+474,"In the Tokyo area, which road cannot directly reach 霞ケ関渋谷線?",C,高樹町通り,赤坂杉並線,成丘通り,六本木通り
+475,"In the Tokyo area, which road cannot directly reach 六本木通り(高樹町)?",B,六本木通り,越中島通り,青山渋谷橋線,霞ケ関渋谷線
+476,"In the Tokyo area, which road cannot directly reach 天神坂?",C,桜田通り,二本榎通り,永代葛西橋線（接続路）,柿の木坂通り
+477,"In the Tokyo area, which road cannot directly reach 柿の木坂通り?",B,やくも文化通り,内堀通り;半蔵門,駒沢通り,六郷田無道
+478,"In the Tokyo area, which road cannot directly reach 中坂?",B,水道橋西通り,北品川四谷線,専大通り,昌平橋通り
+479,"In the Tokyo area, which road directly reaches 虹の広場通り?",D,孫三通り,世田谷観音通り(旧 明薬通り),堀之内道（古道）,清砂大橋通り
+480,"In the Tokyo area, which road cannot directly reach 区画道路5-3号線?",D,日比谷豊洲埠頭東雲町線,区画道路5-4号線,区画道路5-2号線,庚申塚通り
+481,"In the Tokyo area, which road cannot directly reach 区画道路5-2号線?",D,区画道路5-1号線,区画道路5-4号線,区画道路5-3号線,税務署通り
+482,"In the Tokyo area, which road cannot directly reach 古鎌倉道?",C,(じゃくずれ),世田谷観音通り(旧 明薬通り),栄通り（日大通り）,鮫洲大山線
+483,"In the Tokyo area, which road cannot directly reach 旧 鮫洲大山線?",B,古鎌倉道,代々木公園通り,五本木通り（五本木一丁目商店街）,鮫洲大山線
+484,"In the Tokyo area, which road cannot directly reach 野沢通り(じゃくずれ)?",D,山手通り,(じゃくずれ),野沢通り,山手通り (Yamate-dori Avenue)
+485,"In the Tokyo area, which road directly reaches 金美館通り?",D,空蝉橋通り,葛飾区区画街路2号線,早稲田通り,昭和通り
+486,"In the Tokyo area, which road directly reaches 新富士坂?",A,恵比寿銀座通り,神田金物通り,けやき通り,白山小台線（田端新町一丁目）
+487,"In the Tokyo area, which road cannot directly reach 上平井橋江戸川大橋線?",D,蔵前橋通り,新荒川葛西堤防線,補助第284号線,ランブリングストリート
+488,"In the Tokyo area, which road directly reaches 瀬田中さくら通り?",A,環八通り,議事堂通り,千住新宿町線,鳩ヶ谷街道
+489,"In the Tokyo area, which road directly reaches 高樹町通り?",D,駒中通り,柿の木坂通り,本郷赤羽線（支線）(補助第73号線),青山通り
+490,"In the Tokyo area, which road cannot directly reach 特別区道江147号?",C,環状三号線,三ツ目通り,小松橋通り,枝川出口
+491,"In the Tokyo area, which road directly reaches 溝田橋?",C,日光街道,北斎通り,明治通り,くすの木通り
+492,"In the Tokyo area, which road directly reaches (田町駅西口交差点)?",D,鷹番通り,千代田練馬田無線,荒川遊園通り,第一京浜
+493,"In the Tokyo area, which road directly reaches 竹芝みなと通り?",C,銀座入口,高南通り,海岸通り,南ときわ通り
+494,"In the Tokyo area, which road cannot directly reach 銀座桜通り?",D,首都高速都心環状線,中央通り,外堀通り,馬事公苑通り
+495,"In the Tokyo area, which road directly reaches 東京都道二五五号線?",C,入谷口通り,さざなみ通り,外堀通り,飯田橋入口
+496,"In the Tokyo area, which road cannot directly reach 第二京浜?",C,山手通り,中原街道,庚申塚通り,桜田通り
+497,"In the Tokyo area, which road directly reaches Roppongi dori?",C,放射第35号線（環状八号線（支線））,新小川町4番,外苑東通り,高樹町出口
+498,"In the Tokyo area, which road cannot directly reach 葛西用水桜通り?",C,環七通り,王子金町市川線,西台中央通り,環七南通り
+499,"In the Tokyo area, which road cannot directly reach 桜麻通り?",B,桜田通り,旧大山街道,尾根道,高輪麻布線
+500,"In the Tokyo area, which road directly reaches 尾根道?",B,うぐいす通り,桜麻通り,東通り,ボロ市通り
+501,"In the Tokyo area, which road directly reaches 天王洲通り?",C,ファイアー通り,東京都道450号新荒川葛西堤防線,海岸通り,鍛冶橋通り
+502,"In the Tokyo area, which road directly reaches 清杉通り(停止禁止部分)?",A,京葉道路,江戸町通り,古鎌倉道,荒川堤防線
+503,"In the Tokyo area, which road cannot directly reach 玉川通り(側道)?",B,環八通り,帝釈道,玉川通り,瀬田貫井線
+504,"In the Tokyo area, which road directly reaches 旧川越街道?",B,御門通り,豊島園通り,西用賀通り,中丸通り
+505,"In the Tokyo area, which road cannot directly reach 折戸通り?",B,小石川西巣鴨線,鍋屋横丁通り,庚申塚通り,栄和通り
+506,"In the Tokyo area, which road directly reaches 渋谷区特別区道870号線（野沢通り）?",C,オルガン坂,中町通り,渋谷区特別区道472号線,小石川西巣鴨線
+507,"In the Tokyo area, which road directly reaches 渋谷区特別区道870号線?",A,渋谷区特別区道870号線（野沢通り）,丸の内 4th,用賀中町通り,いちょう坂通り
+508,"In the Tokyo area, which road directly reaches 渋谷区特別区道472号線?",A,渋谷区特別区道870号線（野沢通り）,丸の内 2nd,目白通り,東京都道一七六号線
+509,"In the Tokyo area, which road directly reaches 平和通り?",A,みたけ通り,鍛冶橋通り,蒲原通り,道灌山通り
+510,"In the Tokyo area, which road directly reaches 仙気稲荷通り?",C,地蔵坂通り,峰原通り,元八幡通り,谷田川通り
+511,"In the Tokyo area, which road cannot directly reach 音羽池袋線?",B,サンシャイン60通り,松涛文化村ストリート,川越街道,不忍通り
+512,"In the Tokyo area, which road cannot directly reach 白山小台線（田端新町一丁目）?",D,尾久橋通り,白山小台線,明治通り,鮫洲大山線
+513,"In the Tokyo area, which road directly reaches 王子新道?",D,税務署通り,オルガン坂,新田学園通り,中山道
+514,"In the Tokyo area, which road directly reaches 世田谷区役所通り?",D,東四ツ木コミュニティ通り,千川通り,野沢通り(じゃくずれ),渋谷経堂線
+515,"In the Tokyo area, which road directly reaches 堀之内道（古道）?",A,赤堤通り,新荒川堤防線（区道区間）,佃大通り,蔵前橋通り
+516,"In the Tokyo area, which road cannot directly reach サッカー通り?",A,立教通り,本郷通り,蔵前橋通り,春日通り
+517,"In the Tokyo area, which road cannot directly reach 補助第74号線?",A,東通り(西新宿二丁目),早稲田通り,飯田橋石神井新座線（支線）（補助第74号線）,小滝橋通り
+518,"In the Tokyo area, which road cannot directly reach 世田谷町田線?",B,城山通り,日本テレビ通り,世田谷通り,ボロ市通り
+519,"In the Tokyo area, which road directly reaches 荒川遊園通り?",A,都電通り,梅丘通り,吉場安行東京線,のらくろード
+520,"In the Tokyo area, which road cannot directly reach ロード大谷口?",A,大日橋通り,鮫洲大山線,中丸通り,川越街道
+521,"In the Tokyo area, which road directly reaches 枝川出口?",A,特別区道江147号,五本木通り,佃仲通り,立教通り
+522,"In the Tokyo area, which road directly reaches 暗闇坂?",B,聖ルカ通り,言問通り,東通り,表参道
+523,"In the Tokyo area, which road cannot directly reach 蔵前小学校通り?",D,国際通り,清洲橋通り,新堀通り,淡島通り　松見坂
+524,"In the Tokyo area, which road directly reaches 紀尾井通り?",A,紀尾井町通り,くすの木通り,くすのき通り,伊皿子坂
+525,"In the Tokyo area, which road cannot directly reach 清水谷坂?",A,東京FM通り,いちょう坂通り,紀尾井通り,紀尾井町通り
+526,"In the Tokyo area, which road directly reaches いちょう坂通り?",C,菊水通り,五反田入口,新宿通り,八重洲仲通り
+527,"In the Tokyo area, which road cannot directly reach 平井街道;宮田通り?",B,蔵前橋通り,議事堂通り(西新宿),明治通り,丸八通り
+528,"In the Tokyo area, which road cannot directly reach 泉通り?",B,三谷坂,東京港臨港道路青海縦貫線,スペイン坂,高輪麻布線
+529,"In the Tokyo area, which road cannot directly reach 上野月島線?",A,補助第91号線,清澄通り,佃仲通り,八重洲通り
+530,"In the Tokyo area, which road directly reaches 薬師柳通り?",D,柿の木坂通り,竹芝みなと通り,大橋通り,早稲田通り
+531,"In the Tokyo area, which road directly reaches さくら坂?",B,四谷角筈線,第一京浜,かっぱ橋道具街通り,南ときわ通り
+532,"In the Tokyo area, which road directly reaches 三谷坂?",B,首都高速6号向島線,泉通り,淡路坂,飯倉入口
+533,"In the Tokyo area, which road directly reaches スペイン坂?",B,小桜通り,高輪麻布線,世田谷区役所通り,藍染川通り
+534,"In the Tokyo area, which road directly reaches 榎坂?",D,上野月島線（接続路）,吉野通り,靖国通り,桜坂
+535,"In the Tokyo area, which road directly reaches 桜坂?",D,北町豊玉線,水道橋西通り,目黒三田通り,六本木通り
+536,"In the Tokyo area, which road directly reaches 中央中通り?",D,新富町出口,天王洲通り,せきえい通り,中町通り
+537,"In the Tokyo area, which road directly reaches 汐留大通り?",D,鮫洲大山線（支線）（補助第46号線）,さいわい通り,奥戸街道,新橋日の出ふ頭線
+538,"In the Tokyo area, which road cannot directly reach 馬事公苑通り?",D,弦巻通り,用賀七条通り,世田谷通り,馬車通り
+539,"In the Tokyo area, which road cannot directly reach 議事堂通り?",D,甲州街道,北通り,甲州街道(西新宿二丁目),補助第284号線
+540,"In the Tokyo area, which road directly reaches 甲州街道(西新宿)?",B,南田中町旭町線（支線2）（補助第230号線）,甲州街道,世田谷観音通り(旧 明薬通り),補助第144号線（仮設道路）
+541,"In the Tokyo area, which road directly reaches オペラ通り?",A,角筈和泉町線,碑さくら通り,瀬田貫井線（補助第128号線）,赤坂通り
+542,"In the Tokyo area, which road directly reaches (新都心歩道橋下交差点)?",B,青山通り,小滝橋通り,みたけ通り,トキワ通り
+543,"In the Tokyo area, which road cannot directly reach ゆいの森通り?",B,千住間道,光が丘東大通り,藍染川通り,尾竹橋通り
+544,"In the Tokyo area, which road directly reaches 千住間道?",B,東京医大通り,ゆいの森通り,仙気稲荷通り,江古田通り
+545,"In the Tokyo area, which road cannot directly reach さくら堤通り?",D,汐入中央通り,川の手通り,日光街道,平井大橋
+546,"In the Tokyo area, which road directly reaches 航空研通り?",B,旧 鮫洲大山線,鮫洲大山線,補助第74号線,瀬田貫井線（補助第128号線）
+547,"In the Tokyo area, which road directly reaches 大橋通り?",B,元八幡通り,玉川通り,池袋谷原線,リバー通り
+548,"In the Tokyo area, which road directly reaches 旧山手通り(神泉町)?",D,晴海通り,黎明大橋,千川通り,旧山手通り
+549,"In the Tokyo area, which road directly reaches 千歳通り?",A,恵泉裏通り,渋谷区特別区道1076号線（補助18号線）,丸の内 5th,西用賀通り
+550,"In the Tokyo area, which road directly reaches 墨田区画街路第5号線?",A,言問通り,首都高速道路,西徳通り,首都高速1号上野線
+551,"In the Tokyo area, which road directly reaches 国技館通り?",A,京葉道路,曳舟川親水通り,居留地中央通り,補助第93号線
+552,"In the Tokyo area, which road directly reaches 清杉通り?",A,御幸通り,東京都道442号北町豊玉線,元競馬場通り,蛇崩・伊勢脇通り
+553,"In the Tokyo area, which road directly reaches 御幸通り?",C,葛西用水桜通り,イエローストリート,金座通り,赤羽並木通り
+554,"In the Tokyo area, which road directly reaches 金座通り?",B,首都高速5号池袋線,清洲橋通り,雷門仲通り,外苑東通り
+555,"In the Tokyo area, which road cannot directly reach 菊水通り?",C,かっぱ橋道具街通り,清洲橋通り,明治通,左衛門橋通り
+556,"In the Tokyo area, which road cannot directly reach 神田警察通り?",D,外堀通り,白山通り,雉子橋通り,上野月島線（接続路）
+557,"In the Tokyo area, which road cannot directly reach 松涛文化村ストリート?",C,オーチャードロード,山手通り,西池袋通り,文化村通り
+558,"In the Tokyo area, which road directly reaches オーチャードロード?",D,北斎通り,鍋屋横丁通り,揚屋通り,松涛文化村ストリート
+559,"In the Tokyo area, which road cannot directly reach 文化村通り?",C,道玄坂,オーチャードロード,千川通り,松涛文化村ストリート
+560,"In the Tokyo area, which road cannot directly reach 東京都道442号北町豊玉線?",B,豊島園通り,五中つつじ通り,赤塚中央通り,川越街道
+561,"In the Tokyo area, which road directly reaches せんぷ通り?",C,花房山通り,天現寺出口,せきえい通り,厚木街道
+562,"In the Tokyo area, which road cannot directly reach せきえい通り?",B,尾竹橋通り,桐ヶ谷通り,せんぷ通り,けいさつ前通り
+563,"In the Tokyo area, which road directly reaches 玉川通り(道玄坂上)?",A,玉川通り,首都高速道路,代々木淀橋線,文化村通り
+564,"In the Tokyo area, which road directly reaches 西郷山通り?",A,野沢通り,とちのき通り,西福寺通り,団子坂
+565,"In the Tokyo area, which road directly reaches 箱根山通り?",B,用賀一条通り,諏訪通り,赤堤通り,泉通り
+566,"In the Tokyo area, which road directly reaches くすの木通り?",D,首都高速6号三郷線,オルガン坂,首都高速中央環状線,新茶屋坂通り
+567,"In the Tokyo area, which road directly reaches 補助第128号線?",B,かつら並木通り,赤松通り,美竹通り,ロード大谷口
+568,"In the Tokyo area, which road directly reaches 駒場通り?",B,庚申塚通り,淡島通り,曳舟川通り,富ヶ谷入口
+569,"In the Tokyo area, which road directly reaches 小桜通り?",C,花見橋通り,東京タワー通り,明大通り,東通り(西新宿二丁目)
+570,"In the Tokyo area, which road directly reaches 石浜通り?",D,南ときわ通り,新富士坂,演舞場通り,明治通り
+571,"In the Tokyo area, which road directly reaches 旧早稲田通り?",D,南蔵院通り,旧白山通り,東通り,早稲田通り
+572,"In the Tokyo area, which road directly reaches 水道橋西通り?",B,孫三通り,専大通り,東京川口線,中十条赤羽線
+573,"In the Tokyo area, which road directly reaches 動物園通り?",D,くすのき通り,飯倉入口,東八道路,中央通り
+574,"In the Tokyo area, which road cannot directly reach れいめい橋公園通り?",A,うぐいす通り商栄会,日比谷豊洲埠頭東雲町線,区画道路5-4号線,晴海通り
+575,"In the Tokyo area, which road cannot directly reach 区画道路5-4号線?",B,区画道路5-3号線,航空研通り,区画道路5-1号線,日比谷豊洲埠頭東雲町線
+576,"In the Tokyo area, which road directly reaches 千代田練馬田無線（補助第133号線）?",C,言問大谷田線,ガーデン通り,千川通り,補助第308号線
+577,"In the Tokyo area, which road cannot directly reach 東京医大通り?",A,Kuken-dori,御苑通り,環状4号線,靖国通り
+578,"In the Tokyo area, which road directly reaches 丸の内 5th?",A,外堀通り,千歳通り,表参道,東京FM通り
+579,"In the Tokyo area, which road directly reaches 区役所通り?",D,品川埠頭線,藍染大通り,赤塚体育館通り,靖国通り
+580,"In the Tokyo area, which road directly reaches 三分坂?",D,首都高速11号台場線・東京港連絡橋,六本木通り(高樹町),井ノ頭通り,青山通り
+581,"In the Tokyo area, which road directly reaches 希望丘通り?",C,新橋通り,補助第309号線,赤堤通り,恵比寿一番街
+582,"In the Tokyo area, which road cannot directly reach 瀬田貫井線 (側道)?",D,瀬田貫井線,瀬田貫井線（補助第128号線）,瀬田貫井線（側道）,八重洲通り
+583,"In the Tokyo area, which road directly reaches 藍染大通り?",D,東京港臨海道路,飯田橋出口,谷中キッテ通り,不忍通り
+584,"In the Tokyo area, which road directly reaches イエローストリート?",A,公園通り,南ときわ通り,補助第237号線,鐘ヶ淵通り
+585,"In the Tokyo area, which road directly reaches 補助54号線?",B,美倉橋,都市計画道路補助第154号線（区役所西通り）,孫三通り,南ときわ通り
+586,"In the Tokyo area, which road directly reaches 空蝉橋通り?",A,小石川西巣鴨線,永代葛西橋線（接続路）,亀戸葛西橋線,さざなみ通り
+587,"In the Tokyo area, which road directly reaches 用賀一条通り?",B,新田学園通り,用賀中道通り,柳通り,蔵前橋通り(平井駅出口)
+588,"In the Tokyo area, which road directly reaches 江戸町通り?",D,東京丸子横浜線,馬車通り,清杉通り,花園通り
+589,"In the Tokyo area, which road directly reaches 東京港臨海道路?",A,新木場若洲線,東京大仏通り,東京都道442号北町豊玉線,八ツ山通り
+590,"In the Tokyo area, which road directly reaches 新木場若洲線?",A,東京港臨海道路,亀田トレイン通り,瀬田貫井線（補助第128号線）,桂坂
+591,"In the Tokyo area, which road directly reaches 区画道路5-1号線?",C,飯倉出口,六本木通り(高樹町),区画道路5-4号線,錦町有楽町線
+592,"In the Tokyo area, which road directly reaches 峰原通り?",A,山手通り,駒場通り,新荒川葛西堤防線,赤坂通り／乃木坂
+593,"In the Tokyo area, which road directly reaches 議事堂通り(西新宿)?",B,千住間道,南通り,六本木通り(高樹町),富ヶ谷1丁目通り
+594,"In the Tokyo area, which road directly reaches 美倉橋?",D,新橋グルメ通り,高樹町入口,旧 新荒川葛西堤防線,靖国通り
+595,"In the Tokyo area, which road directly reaches 環状2号線（信号表示注意）?",C,高樹町出口,首都高速10号晴海線,環状2号線,ドナウ通り
+596,"In the Tokyo area, which road directly reaches 成増北口通り?",D,旧川越街道,くすの木通り,小豆沢通り,赤塚高台通り
+597,"In the Tokyo area, which road directly reaches ときわ台駅前中央通り?",A,富士見街道,恵比寿一番街,釜屋堀通り,魚籃坂
+598,"In the Tokyo area, which road directly reaches 芝溝道?",D,ときわ通り,早宮中央通り,新橋グルメ通り,鮫洲大山線
+599,"In the Tokyo area, which road cannot directly reach 赤坂通り?",D,エスプラナード赤坂通り,一ツ木通り,赤坂通り／乃木坂,綱の手引き坂
+600,"In the Tokyo area, which road directly reaches 一ツ木通り?",D,古鎌倉道,有明通り,中丸通り,赤坂通り
+601,"In the Tokyo area, which road directly reaches ビール坂?",D,渋谷出口,世田谷観音通り(旧 明薬通り),環二通り,新橋グルメ通り
+602,"In the Tokyo area, which road directly reaches 上高田中通り?",C,佃大橋,京町通り,桜ヶ池通り,暗闇坂
+603,"In the Tokyo area, which road directly reaches 江戸坂?",D,天王洲通り,上野月島線（接続路）,駒場通り,白山小台線
+604,"In the Tokyo area, which road directly reaches 田端高台通り?",B,淡島通り,江戸坂,高輪麻布線,公園通り
+605,"In the Tokyo area, which road cannot directly reach 世田谷通り;三軒茶屋?",D,世田谷通り,玉川通り,茶沢通り,世田ヶ谷道
+606,"In the Tokyo area, which road directly reaches 鎌倉通り?",A,梅丘通り,環状三号線（停止禁止部分）,外苑出口,首都高速7号小松川線
+607,"In the Tokyo area, which road directly reaches 新井天神通り?",A,中野通り,花見橋通り,桜ヶ池通り,常盤台赤羽線
+608,"In the Tokyo area, which road directly reaches サンシャイン60通り?",D,雉子橋通り,松山通り,本郷通り,音羽池袋線
+609,"In the Tokyo area, which road directly reaches 衆楽坂?",A,渋谷区特別区道893号線（補助18号線）,用賀一条通り,新宿通り,代官町通り
+610,"In the Tokyo area, which road directly reaches 補助第144号線（仮設道路）?",C,光が丘西大通り,清水谷坂,ゆりのき橋通り,荒川西中央通り
+611,"In the Tokyo area, which road directly reaches 東四ツ木コミュニティ通り?",D,丸山公園通り,親疎通り,補助128号線,新荒川葛西堤防線
+612,"In the Tokyo area, which road directly reaches まいろーど四つ木商店街?",B,台場青海線,新荒川葛西堤防線,赤坂通り／乃木坂,都庁通り
+613,"In the Tokyo area, which road cannot directly reach 鳩ヶ谷街道?",B,環七通り,ことぶきこども園通り,江北バス通り,王子金町市川線
+614,"In the Tokyo area, which road directly reaches 光が丘西大通り?",A,赤塚高台通り,玉川通り,豊島病院通り,汐入中央通り
+615,"In the Tokyo area, which road directly reaches 奥戸街道?",B,王子千住夢の島線,平和橋通り,公園通り（瀬田貫井線）,牡丹橋通り
+616,"In the Tokyo area, which road directly reaches 若木通り?",B,東京都道新宿副都心八号線,富士見街道,丸山公園通り,小滝橋通り
+617,"In the Tokyo area, which road directly reaches 赤坂通り／乃木坂?",A,赤坂通り,淀橋渋谷本町線,哲学堂通り,補助128号線
+618,"In the Tokyo area, which road cannot directly reach 赤坂杉並線?",B,御幸通り（フロムファースト通り）,オルガン坂,霞ケ関渋谷線,赤坂通り／乃木坂
+619,"In the Tokyo area, which road directly reaches 柘榴坂?",A,第一京浜,かつら並木ニッピ通り,暗闇坂,国際通り
+620,"In the Tokyo area, which road cannot directly reach プラチナ通り?",D,北品川四谷線,目黒通り,外苑西通り,御成塚通り
+621,"In the Tokyo area, which road directly reaches 目黒通り;大鳥神社?",A,目黒通り,谷中キッテ通り,赤羽並木通り,弁天通り商店街
+622,"In the Tokyo area, which road directly reaches 松山通り?",A,中杉通り,江戸坂,江戸川橋通り,駒留通り
+623,"In the Tokyo area, which road directly reaches 明治通?",A,明治通り,首都高速6号三郷線,旧早稲田通り,中山道
+624,"In the Tokyo area, which road directly reaches 特別区道41-50?",B,蒲原通り,明治通,玉川通り;三軒茶屋,中坂
+625,"In the Tokyo area, which road directly reaches 亀田トレイン通り?",A,けいさつ前通り,白山祝田田町線,玉川通り(道玄坂上),曳舟たから通り
+626,"In the Tokyo area, which road directly reaches けいさつ前通り?",A,せきえい通り,半蔵門駅通り,紀尾井町通り,西台中央通り
+627,"In the Tokyo area, which road directly reaches 東山いちょう通り?",A,鮫洲大山線,飯田橋石神井新座線,飯田橋出口,正庭通り
+628,"In the Tokyo area, which road directly reaches 祐天寺駅前通り?",D,瀬田貫井線,方南通り,綱坂,五本木通り（五本木一丁目商店街）
+629,"In the Tokyo area, which road cannot directly reach 五本木通り?",B,祐天寺駅前通り,新木場若洲線,五本木通り（五本木一丁目商店街）,旧 鮫洲大山線
+630,"In the Tokyo area, which road cannot directly reach 五本木通り（五本木一丁目商店街）?",C,旧 鮫洲大山線,五本木通り,赤堤通り,祐天寺駅前通り
+631,"In the Tokyo area, which road cannot directly reach (じゃくずれ)?",B,五本木通り,福寿通り,野沢通り(じゃくずれ),野沢通り
+632,"In the Tokyo area, which road directly reaches 富ヶ谷1丁目通り?",A,井ノ頭通り,日比谷仲通り,七五三通り,はなみずき通り
+633,"In the Tokyo area, which road directly reaches 谷中キッテ通り?",B,瀬田貫井線（補助第128号線）,三崎坂,北本通り,徳丸通り
+634,"In the Tokyo area, which road directly reaches 中町通り?",B,北通り,目黒通り,駒八通り,赤坂通り
+635,"In the Tokyo area, which road directly reaches ゲーテの小径?",C,赤塚高台通り,赤坂杉並線,本郷通り,芝公園入口
+636,"In the Tokyo area, which road directly reaches 新宿停車場前線?",C,渋谷入口,八幡通り,新宿通り,平井駅通り
+637,"In the Tokyo area, which road directly reaches 丸の内 4th?",D,土手通り,天神坂,太子堂道,大名小路
+638,"In the Tokyo area, which road directly reaches 平井駅通り?",B,さざなみ通り,ゆりのき橋通り,上野月島線（接続路）,花畑大橋通り
+639,"In the Tokyo area, which road directly reaches 丸の内 3rd?",A,大名小路,四ツ目通り,丸の内 3rd,初台入口
+640,"In the Tokyo area, which road directly reaches 竹の塚センター通り?",D,京葉道路,正庭通り,城山通り,環七通り
+641,"In the Tokyo area, which road cannot directly reach さくら通り?",C,中央通り,明治通り,目黒通り,八重洲仲通り
+642,"In the Tokyo area, which road cannot directly reach 音羽通り?",A,上原水道通り,秋葉原雑司ヶ谷線,目白通り,不忍通り
+643,"In the Tokyo area, which road directly reaches 秋葉原雑司ヶ谷線?",C,北通り,荒川西中央通り,不忍通り,首都高速川口線
+644,"In the Tokyo area, which road directly reaches スタジアム通り?",C,中央通り,渋谷区特別区道472号線,青山通り,夏目坂通り
+645,"In the Tokyo area, which road directly reaches 都庁通り?",C,都電通り,代々木公園通り,南通り,首都高速6号向島線
+646,"In the Tokyo area, which road directly reaches 丸山公園通り?",C,とちのき通り,野沢通り,弦巻通り,ROUTE2020トレセン通り
+647,"In the Tokyo area, which road directly reaches 女子医大通り?",B,上高田中通り,神楽坂高円寺線,東通り,丸の内 2nd
+648,"In the Tokyo area, which road directly reaches 公園通り（瀬田貫井線）?",D,道灌山通り,言問通り,二本榎通り,瀬田貫井線
+649,"In the Tokyo area, which road directly reaches 世田ヶ谷道?",B,旧山手通り(神泉町),鮫洲大山線,石浜通り,小豆沢通り
+650,"In the Tokyo area, which road cannot directly reach 綱坂?",A,人形町通り,日向坂,綱の手引き坂,桜田通り
+651,"In the Tokyo area, which road directly reaches 荒川中央通り?",D,山谷通り,志村坂下通り,江北バス通り,明治通り
+652,"In the Tokyo area, which road directly reaches 荒川西中央通り?",D,清洲橋通り,平和橋通り,東京都道445号常盤台赤羽線,尾竹橋通り
+653,"In the Tokyo area, which road cannot directly reach グリーンロード?",C,下板橋通り,山手通り,潮見坂,旧中山道
+654,"In the Tokyo area, which road directly reaches 福地蔵尊通り?",A,豊島病院通り,東京都道二五五号線,王子金町市川線,清水谷坂
+655,"In the Tokyo area, which road directly reaches 豊島病院通り?",C,京葉道路,(六本木六丁目),福地蔵尊通り,外濠環状線
+656,"In the Tokyo area, which road directly reaches 七五三通り?",B,長後赤塚線,尾竹橋通り,碑さくら通り,浅草通り
+657,"In the Tokyo area, which road cannot directly reach 正庭通り?",B,昭和通り,赤塚高台通り,カンカン森通り,明治通り
+658,"In the Tokyo area, which road directly reaches 二の坪通り?",B,経堂本町通り,正庭通り,くすのき通り,谷田川通り
+659,"In the Tokyo area, which road directly reaches かつら並木ニッピ通り?",D,三分坂,紀尾井町通り,新富士坂,かつら並木通り
+660,"In the Tokyo area, which road directly reaches 旭通り?",B,大久保通り,哲学堂通り,上野入口,半蔵門駅通り
+661,"In the Tokyo area, which road directly reaches 成丘通り?",B,環状六号線,成増北口通り,世田谷通り;三軒茶屋,暗闇坂
+662,"In the Tokyo area, which road directly reaches 鉄砲洲通り?",A,鍛冶橋通り,東京都道二四七号線,永代葛西橋線,冠新道
+663,"In the Tokyo area, which road directly reaches 環状三号線（停止禁止部分）?",D,荒川西中央通り,桜麻通り,首都高速都心環状線,環状三号線
+664,"In the Tokyo area, which road cannot directly reach 余丁町通り?",A,用賀中道通り,環状4号線,靖国通り,抜弁天通り
+665,"In the Tokyo area, which road directly reaches 渋谷出口?",D,けやき通り,丸の内 2nd,いちょう坂通り,玉川通り
+666,"In the Tokyo area, which road directly reaches 日比谷仲通り?",C,北品川四谷線,旭通り,晴海通り,逆井庚申塚通り
+667,"In the Tokyo area, which road directly reaches 天現寺出口?",D,汐留入口,千住間道,井ノ頭通り,明治通り
+668,"In the Tokyo area, which road directly reaches 木下坂?",D,西仲通り,さくら堤通り,金座通り,仙台坂
+669,"In the Tokyo area, which road directly reaches ファイアー通り?",A,神宮通り,区役所通り,希望丘通り,新大宮バイパス
+670,"In the Tokyo area, which road cannot directly reach 綱の手引き坂?",C,綱坂,桜田通り,黎明大橋,日向坂
+671,"In the Tokyo area, which road directly reaches さざなみ通り?",B,北本通り,晴海通り,外苑東通り,国技館通り
+672,"In the Tokyo area, which road directly reaches 本郷赤羽線（支線）(補助第73号線)?",B,カンカン森通り,本郷赤羽線,外堀通り,かつら並木ニッピ通り
+673,"In the Tokyo area, which road directly reaches 元競馬場通り?",D,公園通り(勤労福祉会館前),南蔵院通り,東京大仏通り,目黒通り
+674,"In the Tokyo area, which road cannot directly reach 首都高速中央環状線?",A,墨田区画街路第5号線,五反田入口,首都高速5号池袋線,富ヶ谷入口
+675,"In the Tokyo area, which road directly reaches 補助第237号線?",D,大門通り,墨堤通り,釜屋堀通り,池袋谷原線
+676,"In the Tokyo area, which road cannot directly reach うぐいす通り商栄会?",B,御行の松通り,弦巻通り (Tsurumaki dori),うぐいす通り,言問通り
+677,"In the Tokyo area, which road directly reaches 並木通り?",A,雷門通り,富ヶ谷出口,厚木街道,神田白山線
+678,"In the Tokyo area, which road directly reaches エスプラナード赤坂通り?",D,庚申塚通り,新小川町4番,神田平成通り,赤坂通り
+679,"In the Tokyo area, which road cannot directly reach 調布経堂停車場線?",B,恵泉裏通り,千川通り,滝坂道南廻り,西福寺通り
+680,"In the Tokyo area, which road directly reaches 滝坂道南廻り?",C,塩浜通り,東京都道442号北町豊玉線,西福寺通り,藍染川西通り
+681,"In the Tokyo area, which road directly reaches ミルディス通り?",D,世田谷町田線,清砂大橋通り,白山通り,新荒川堤防線
+682,"In the Tokyo area, which road directly reaches 補助第284号線?",C,環八通り,補助第299号線,上平井橋江戸川大橋線,泉通り
+683,"In the Tokyo area, which road directly reaches 東京都道450号新荒川葛西堤防線?",B,吉野通り,新荒川葛西堤防線,代々木淀橋線,御幸通り
+684,"In the Tokyo area, which road directly reaches 経堂本町通り?",A,瀬田貫井線,徳丸槙の道,首都高速2号目黒線,紀尾井町通り
+685,"In the Tokyo area, which road directly reaches ことぶきこども園通り?",D,淡島通り　松見坂,環状第3号線支線4,オレンジ通り,春日通り
+686,"In the Tokyo area, which road directly reaches 上野出口?",D,佃仲通り,田柄通り,山手通り (Yamate-dori Avenue),中央通り
+687,"In the Tokyo area, which road directly reaches 弁天通り?",C,角町通り,馬事公苑通り,中十条赤羽線,経堂本町通り
+688,"In the Tokyo area, which road directly reaches 鮫洲大山線(側道)?",D,鮫洲大山線（支線）（補助第46号線）,目黒三田通り,鷹番通り,鮫洲大山線（ボックスカルバート）
+689,"In the Tokyo area, which road directly reaches 御門通り?",B,ミルディス通り,中央通り,青山通り(金王坂),補助第128号線
+690,"In the Tokyo area, which road directly reaches 芝公園出口?",B,初台入口,環状三号線,庚申塚通り,日比谷地下道
+691,"In the Tokyo area, which road directly reaches 補助第309号線?",A,東京湾岸道路,淡島通り,柘榴坂,角筈和泉町線(泉南)
+692,"In the Tokyo area, which road cannot directly reach 神田金物通り?",C,外堀通り,昭和通り,永代通り,人形町通り
+693,"In the Tokyo area, which road directly reaches 隅田川左岸通り?",A,永代通り,曳舟たから通り,自由通り,音羽池袋線
+694,"In the Tokyo area, which road directly reaches 人形町通り?",B,赤塚高台通り,神田金物通り,神宮通り,のらくろード
+695,"In the Tokyo area, which road cannot directly reach 神田平成通り?",D,靖国通り,昭和通り,水天宮通り,首都高速川口線
+696,"In the Tokyo area, which road directly reaches 鳥居坂?",C,前野本通り,方南通り(方南町交差点),環状三号線,花畑大橋通り
+697,"In the Tokyo area, which road directly reaches 西仲通り?",A,清澄通り,小梅通り,上高田中通り,区画道路5-1号線
+698,"In the Tokyo area, which road directly reaches 蛇崩・伊勢脇通り?",C,アサヒ会通り,富士見銀座商店街,山手通り,芝公園出口
+699,"In the Tokyo area, which road directly reaches 葛飾区区画街路2号線?",C,曳舟たから通り,日比谷地下道,新小岩停車場線,小桜通り
+700,"In the Tokyo area, which road directly reaches 新小岩停車場線?",D,荒川遊園通り,代々木淀橋線,千代田練馬田無線（補助第133号線）,葛飾区区画街路2号線
+701,"In the Tokyo area, which road directly reaches 新小川町4番?",C,高南通り,お岩通り,飯田橋石神井新座線,蔵前橋通り(平井駅出口)
+702,"In the Tokyo area, which road directly reaches 新宿コズミック通り?",A,明治通り,光が丘東大通り,藍染川通り,タワー飯田橋通り
+703,"In the Tokyo area, which road directly reaches 碑文谷公園通り?",D,平井街道;宮田通り,江戸坂,奥戸街道,目黒通り
+704,"In the Tokyo area, which road cannot directly reach 首都高速道路?",C,首都高速1号上野線,墨堤通り,団子坂,首都高速1号羽田線
+705,"In the Tokyo area, which road directly reaches 白山通り(柱の左側)?",D,清州大橋通り,新橋通り,新荒川葛西堤防線,白山通り
+706,"In the Tokyo area, which road directly reaches リバー通り?",D,藍染川通り,天神坂,白山通り(柱の左側),鍛冶橋通り
+707,"In the Tokyo area, which road directly reaches タワー飯田橋通り?",C,外濠環状線,尾久の原 防災通り,目白通り,赤堤通り
+708,"In the Tokyo area, which road directly reaches 上原水道通り?",D,新富町出口,首都高速道路,葛西用水桜通り,井ノ頭通り
+709,"In the Tokyo area, which road directly reaches 永代葛西橋線（接続路）?",B,白山小台線,上野月島線,親疎通り,リバー通り
+710,"In the Tokyo area, which road directly reaches 藍染川西通り?",B,スタジアム通り,尾久橋通り,補助第74号線,見番通り
+711,"In the Tokyo area, which road directly reaches 八重洲仲通り?",A,さくら通り,音羽通り,曳舟たから通り,補助第309号線
+712,"In the Tokyo area, which road directly reaches 栄通り（日大通り）?",C,ユリの木通り,アサヒ会通り,玉川通り,環状六号線
+713,"In the Tokyo area, which road directly reaches 外苑出口?",B,吉野通り,外苑東通り,長後赤塚線,青梅街道
+714,"In the Tokyo area, which road directly reaches 高樹町出口?",B,亀戸葛西橋線,六本木通り,丸の内 1st,馬場先通り
+715,"In the Tokyo area, which road directly reaches 霞ヶ関渋谷線(霞町陸橋)?",C,三谷坂,鳩ヶ谷街道,高樹町出口,言問通り
+716,"In the Tokyo area, which road directly reaches 首都高速11号台場線・東京港連絡橋?",B,丸の内 3rd,首都高速1号羽田線,富ヶ谷1丁目通り,東京都道445号常盤台赤羽線
+717,"In the Tokyo area, which road directly reaches 首都高速1号羽田線?",B,玉川通り;三軒茶屋,首都高速11号台場線・東京港連絡橋,桜麻通り,首都高速川口線
+718,"In the Tokyo area, which road directly reaches 烏森通り?",A,第一京浜,西仲通り,ゆいの森通り,堀之内道（古道）
+719,"In the Tokyo area, which road directly reaches 汐留入口?",B,馬事公苑通り,首都高速都心環状線,環状第3号線支線4,御成塚通り
+720,"In the Tokyo area, which road directly reaches 銀座入口?",B,方南通り(方南町交差点),首都高速都心環状線,佃大橋,目黒通り;大鳥神社
+721,"In the Tokyo area, which road directly reaches 芝公園入口?",B,冠新道,首都高速都心環状線,池袋谷原線,恵比寿一番街
+722,"In the Tokyo area, which road cannot directly reach 首都高速2号目黒線?",C,天現寺入口,目黒入口,やくも文化通り,首都高速都心環状線
+723,"In the Tokyo area, which road directly reaches 清州大橋通り?",A,清砂大橋通り,角町通り,新井天神通り,のぞみ橋
+724,"In the Tokyo area, which road cannot directly reach 首都高速5号池袋線?",A,八幡坂,飯田橋入口,中山道,首都高速都心環状線
+725,"In the Tokyo area, which road directly reaches 飯倉出口?",D,赤羽並木通り,大名小路,汐留入口,高輪麻布線
+726,"In the Tokyo area, which road directly reaches 飯倉入口?",B,蒲原通り,首都高速都心環状線,東京港臨海道路,旭通り
+727,"In the Tokyo area, which road directly reaches 厚木街道?",C,昌平橋通り,蓮根駅前通り,玉川通り,衆楽坂
+728,"In the Tokyo area, which road directly reaches 目黒入口?",B,常盤台赤羽線,首都高速2号目黒線,議事堂通り,補助第332号線
+729,"In the Tokyo area, which road directly reaches 天現寺入口?",C,鮫洲大山線（支線）（補助第46号線）,水天宮通り,首都高速2号目黒線,中央中通り
+730,"In the Tokyo area, which road directly reaches 外苑入口?",D,渋谷区特別区道870号線,江古田通り,泉通り,首都高速4号新宿線
+731,"In the Tokyo area, which road cannot directly reach 首都高速4号新宿線?",A,碑文谷公園通り,初台入口,首都高速都心環状線,外苑入口
+732,"In the Tokyo area, which road directly reaches 首都高速10号晴海線?",D,下馬通り,蔵前橋通り(平井駅出口),天王洲通り,有明通り
+733,"In the Tokyo area, which road directly reaches 三軒茶屋入口?",C,駒中通り,西池袋通り,首都高速3号渋谷線,国際通り
+734,"In the Tokyo area, which road cannot directly reach 首都高速3号渋谷線?",D,三軒茶屋入口,渋谷入口,高樹町入口,中原街道
+735,"In the Tokyo area, which road cannot directly reach 首都高速6号向島線?",A,御幸通り,首都高速都心環状線,首都高速9号深川線,首都高速7号小松川線
+736,"In the Tokyo area, which road directly reaches 初台入口?",B,紀尾井町通り,首都高速4号新宿線,旧早稲田通り,桜橋通り
+737,"In the Tokyo area, which road directly reaches 弁天通り商店街?",A,北町豊玉線,志村坂下通り,榎坂,ドナウ通り
+738,"In the Tokyo area, which road directly reaches 首都高速6号三郷線?",D,Kuken-dori,新大宮バイパス,尾久本町通り,首都高速中央環状線
+739,"In the Tokyo area, which road directly reaches 東八道路?",C,うぐいす通り商栄会,川越街道,甲州街道,水戸街道
+740,"In the Tokyo area, which road directly reaches 上野入口?",D,駒八通り,佃大橋通り,入谷口通り,首都高速1号上野線
+741,"In the Tokyo area, which road directly reaches 首都高速川口線?",B,加平谷中線,東京川口線,環状三号線,新小川町4番
+742,"In the Tokyo area, which road directly reaches 首都高速7号小松川線?",C,西池袋通り,豊中通り,首都高速6号向島線,天王洲通り
+743,"In the Tokyo area, which road directly reaches 飯田橋入口?",C,アサヒ会通り,品川埠頭線,首都高速5号池袋線,芋洗坂
+744,"In the Tokyo area, which road directly reaches 首都高速9号深川線?",A,首都高速道路,田端高台通り,恵泉裏通り,池袋谷原線
+745,"In the Tokyo area, which road directly reaches 荒川堤防線?",A,新荒川堤防線,六本木通り(高樹町),環七南通り,志村坂下通り
+746,"In the Tokyo area, which road directly reaches 中央通り(転回路)?",A,中央通り,明大通り,新宿通り,小豆沢通り
+747,"In the Tokyo area, which road directly reaches 中央通り（地下道・二輪車通行禁止）?",A,昭和通り,仙気稲荷通り,まいろーど四つ木商店街,美竹通り
+748,"In the Tokyo area, which road directly reaches 目黒出口?",B,都市計画道路補助第154号線（区役所西通り）,北品川四谷線,ふれあい通り,世田谷通り;三軒茶屋
+749,"In the Tokyo area, which road directly reaches 築地虎ノ門トンネル?",B,弁天通り,環二通り,奥戸街道,八重洲仲通り
+750,"In the Tokyo area, which road directly reaches 上野月島線（接続路）?",D,神田金物通り,プリンス通り,千住間道,葛西橋通り
+751,"In the Tokyo area, which road directly reaches 箱崎ロータリー?",B,日光街道,首都高速6号向島線,お岩通り,東通り(西新宿二丁目)
+752,"In the Tokyo area, which road directly reaches 富士見銀座商店街?",A,環七通り,赤塚体育館通り,恵比寿一番街,グリーンロード
+753,"In the Tokyo area, which road directly reaches 飯田橋出口?",A,千代田練馬田無線,補助128号線,世田谷区役所通り,放射第35号線（環状八号線（支線））
+754,"In the Tokyo area, which road directly reaches 山手通り (Yamate-dori Avenue)?",D,日大通り（瀬田貫井線）,専大通り,せんぷ通り,山手通り
+755,"In the Tokyo area, which road directly reaches 旧日光街道?",A,かつら並木通り,溝田橋,峰原通り,下馬通り
+756,"In the Tokyo area, which road directly reaches 西池袋出口?",C,花見橋通り,五反田出口,山手通り,かっぱ橋道具街通り
+757,"In the Tokyo area, which road directly reaches 芝新宿王子線?",A,明治通り,隅田川左岸通り,山手通り,船堀橋
+758,"In the Tokyo area, which road directly reaches 玉川通り(神泉町)?",B,東京都道445号常盤台赤羽線,玉川通り,小豆沢通り,桜ヶ池通り
+759,"In the Tokyo area, which road directly reaches 高樹町入口?",D,新あづま通り,赤松通り,桜ヶ池通り,首都高速3号渋谷線
+760,"In the Tokyo area, which road directly reaches 日比谷地下道?",D,大名小路,環状三号線（停止禁止部分）,目白通り,晴海通り
+761,"In the Tokyo area, which road directly reaches 渋谷入口?",A,首都高速3号渋谷線,銀座桜通り,桜橋通り,七五三通り
+762,"In the Tokyo area, which road directly reaches 三軒茶屋出口?",C,代官町通り,逆井庚申塚通り,玉川通り,栄和通り
+763,"In the Tokyo area, which road directly reaches 富ヶ谷出口?",C,新橋通り,富ヶ谷入口,山手通り,補助第93号線
+764,"In the Tokyo area, which road directly reaches 孫三通り?",A,浅草通り,仙台坂,首都高速5号池袋線,海岸通り
+765,"In the Tokyo area, which road directly reaches (六本木六丁目)?",B,特別区道41-50,六本木通り,柘榴坂,桜橋通り
+766,"In the Tokyo area, which road directly reaches 五反田出口?",A,山手通り,のらくろード,議事堂通り,昌平橋通り
+767,"In the Tokyo area, which road directly reaches 新富町出口?",A,佃大橋通り,新青梅街道,墨堤通り,道玄坂
+768,"In the Tokyo area, which road directly reaches 富ヶ谷入口?",A,首都高速中央環状線,佃仲通り,千川通り,世田谷通り;三軒茶屋
+769,"In the Tokyo area, which road directly reaches 黎明大橋?",A,環二通り,桜麻通り,駒沢通り,公園通り（瀬田貫井線）
+770,"In the Tokyo area, which road directly reaches 放射第35号線（池袋谷原線）?",B,徳丸石川通り,放射第35号線（環状八号線（支線））,音羽通り,芝公園出口
+771,"In the Tokyo area, which road directly reaches 五反田入口?",C,さくら坂,台場青海線,首都高速中央環状線,お岩通り
+772,"In the Tokyo area, which road directly reaches 瀬田貫井線（側道）?",D,八広中央通り,宮益坂,玉川通り;三軒茶屋,瀬田貫井線 (側道)
+773,"In the Tokyo area, which road directly reaches 鮫洲大山線（ボックスカルバート）?",C,世田ヶ谷道,芝公園入口,鮫洲大山線(側道),うぐいす通り商栄会
+774,"In the Tokyo area, which road directly reaches あおぎり通り?",B,新木場若洲線,外堀通り,野沢通り,波除通り

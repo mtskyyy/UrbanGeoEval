@@ -1,0 +1,485 @@
+id,question,answer,A,B,C,D
+0,"What is the distance between ""Magic Years Nursery"" and ""Builders Cafe"" in the London area?",B,16.46,8.56,3.34,11.12
+1,"What is the distance between ""Betty Blythe"" and ""Buzz Coffee"" in the London area?",B,13.45,5.96,13.41,0.69
+2,"What is the distance between ""Taka"" and ""La Médiathèque"" in the London area?",C,7.15,4.55,2.54,8.8
+3,"What is the distance between ""Cutler and Cross"" and ""Trinity Dental Care"" in the London area?",C,10.0,8.29,4.25,1.96
+4,"What is the distance between ""SW1 Dental Studio"" and ""Espressino"" in the London area?",C,9.86,3.49,6.39,7.79
+5,"What is the distance between ""Ladbroke Grove Dental Care"" and ""Shell Recharge"" in the London area?",C,11.69,15.29,8.44,15.77
+6,"What is the distance between ""Purple Mango"" and ""Cirque Le Soir"" in the London area?",B,10.85,5.42,10.34,12.39
+7,"What is the distance between ""Little Georgia"" and ""St. Pancras Coroner's Court"" in the London area?",C,2.84,9.68,4.52,8.72
+8,"What is the distance between ""Department for Education"" and ""Moules Court"" in the London area?",D,10.96,5.84,10.86,3.14
+9,"What is the distance between ""Paddington Fire Station"" and ""Little Georgia"" in the London area?",B,5.89,8.31,3.08,5.05
+10,"What is the distance between ""St Anne's Roman Catholic Church"" and ""Aberdeen Wharf"" in the London area?",B,11.35,6.29,7.19,9.81
+11,"What is the distance between ""Number Twelve"" and ""London Hospital Tavern"" in the London area?",C,1.61,1.42,4.98,11.31
+12,"What is the distance between ""Waitrose & Partners"" and ""The Kensington Orthodontic Clinic"" in the London area?",C,5.17,18.06,10.71,15.39
+13,"What is the distance between ""Found"" and ""Cafe Continente"" in the London area?",D,7.69,15.83,13.86,9.46
+14,"What is the distance between ""Sofra Hasjane"" and ""Lime Cafe and Grill"" in the London area?",D,2.92,8.2,8.67,1.94
+15,"What is the distance between ""Adventure Bar"" and ""Pasta Evangelists"" in the London area?",B,3.72,8.7,3.15,2.25
+16,"What is the distance between ""Holy Sheep 神羊米線"" and ""Buns & Buns"" in the London area?",D,5.29,9.54,0.75,3.63
+17,"What is the distance between ""Light of India"" and ""London Fields"" in the London area?",B,11.51,10.01,12.82,17.83
+18,"What is the distance between ""Stourhead House"" and ""Tynne Court"" in the London area?",D,13.09,6.22,4.02,9.29
+19,"What is the distance between ""Akoko"" and ""SW1 Dental Studio"" in the London area?",D,4.03,0.69,4.06,2.39
+20,"What is the distance between ""Wasabi"" and ""Smokers Clinic"" in the London area?",C,4.11,3.27,5.15,11.8
+21,"What is the distance between ""ICON College"" and ""The Lowback"" in the London area?",B,1.57,3.91,10.99,2.18
+22,"What is the distance between ""The Gateways"" and ""Kensal Green Backpackers"" in the London area?",C,4.74,12.06,6.04,4.85
+23,"What is the distance between ""Court 9"" and ""Eccleston Square Hotel"" in the London area?",A,8.58,15.72,3.31,14.22
+24,"What is the distance between ""Tabot Centre"" and ""Uncle Wrinkle"" in the London area?",A,12.82,19.44,17.38,9.53
+25,"What is the distance between ""Chicken Shop"" and ""The Devonshire"" in the London area?",D,7.09,6.56,8.83,11.94
+26,"What is the distance between ""NHS Felstead Street"" and ""Burger King"" in the London area?",A,6.85,3.07,5.5,3.3
+27,"What is the distance between ""St George's Square Dog Park"" and ""Dorset Court"" in the London area?",C,1.15,9.16,4.03,3.13
+28,"What is the distance between ""A Baía"" and ""The Bell"" in the London area?",C,14.43,9.85,6.69,12.9
+29,"What is the distance between ""Iyengar Yoga Maida Vale"" and ""Kingfisher House"" in the London area?",A,7.5,9.32,9.83,2.35
+30,"What is the distance between ""Notting Hill Vet"" and ""Dixy Chicken"" in the London area?",C,19.23,8.67,15.74,14.32
+31,"What is the distance between ""Ady Centre / DeRose Method Soho"" and ""Cannon Fried, Grill & Pizza"" in the London area?",B,3.32,5.39,4.06,7.03
+32,"What is the distance between ""Johnny's Fish Bar"" and ""Department for Education"" in the London area?",B,5.93,3.9,11.02,10.05
+33,"What is the distance between ""Forbra House"" and ""United Reformed Church House"" in the London area?",C,1.78,2.7,5.5,3.63
+34,"What is the distance between ""Vauxhall Walk"" and ""Ivybridge House"" in the London area?",C,9.48,0.63,3.83,2.37
+35,"What is the distance between ""Knoops"" and ""The Hayden"" in the London area?",B,8.0,4.52,2.1,10.75
+36,"What is the distance between ""Ali Baba"" and ""Mare Street Market Deli"" in the London area?",D,11.53,14.2,14.14,7.37
+37,"What is the distance between ""Providence Row Housing Association"" and ""Waterloo Station"" in the London area?",B,10.54,2.56,8.18,5.42
+38,"What is the distance between ""Shell Recharge"" and ""Max Orient"" in the London area?",D,7.57,2.37,7.4,4.24
+39,"What is the distance between ""Raj of Islington"" and ""Stourhead House"" in the London area?",B,3.26,7.52,4.63,0.61
+40,"What is the distance between ""Happiness Forgets"" and ""Amazon Locker"" in the London area?",A,4.47,0.97,2.93,5.71
+41,"What is the distance between ""The Tabernacle Memorial Hall"" and ""Heads Rule Hearts"" in the London area?",C,11.47,6.86,7.79,15.32
+42,"What is the distance between ""Finsbury Circus"" and ""Tamila"" in the London area?",C,8.4,7.26,5.45,11.08
+43,"What is the distance between ""Holy Trinity Brompton"" and ""Consort Tenants and Residents Association"" in the London area?",D,13.05,12.75,3.58,8.09
+44,"What is the distance between ""Old Montague Street"" and ""Little Rainbow Nursery"" in the London area?",A,5.23,2.46,6.74,9.74
+45,"What is the distance between ""Peckham Library"" and ""Railton Low Traffic Neighbourhood"" in the London area?",A,3.35,8.5,6.8,1.28
+46,"What is the distance between ""Puma"" and ""Broadbent House"" in the London area?",A,0.58,5.77,5.36,3.11
+47,"What is the distance between ""Kings"" and ""Tendril"" in the London area?",B,8.26,2.23,4.8,8.05
+48,"What is the distance between ""ATS Euromaster"" and ""Peri Peri Original"" in the London area?",B,6.01,12.87,13.87,18.1
+49,"What is the distance between ""Rude Health Cafe"" and ""Blueberry’s"" in the London area?",A,15.35,20.43,18.38,19.32
+50,"What is the distance between ""Caffe Concerto"" and ""Shell"" in the London area?",B,8.75,6.39,13.18,9.47
+51,"What is the distance between ""East Village"" and ""Amazon Locker Ping"" in the London area?",D,13.61,5.14,9.3,8.15
+52,"What is the distance between ""Tonkotsu Ramen Bar"" and ""Sud Italia"" in the London area?",B,1.08,6.46,5.02,14.2
+53,"What is the distance between ""Queensway Gynaecology Clinic"" and ""Humble Grape"" in the London area?",B,1.3,3.01,5.63,1.53
+54,"What is the distance between ""Blue Gate Fields Infants' School"" and ""Tesco Express"" in the London area?",C,3.18,4.33,2.24,5.34
+55,"What is the distance between ""H.R. Higgins (Coffee-man) Ltd."" and ""It's all Greek to me"" in the London area?",D,1.28,1.62,6.63,3.26
+56,"What is the distance between ""Kensal Green Cemetery"" and ""Gadsden House"" in the London area?",D,18.19,11.1,20.46,12.8
+57,"What is the distance between ""Perfect Fried Chicken"" and ""The Dean Swift"" in the London area?",A,2.98,1.99,9.69,3.92
+58,"What is the distance between ""The Crown Tavern"" and ""Mali"" in the London area?",D,10.91,13.69,9.08,7.55
+59,"What is the distance between ""Uno"" and ""Claude Bosi at Bibendum"" in the London area?",B,8.68,2.01,6.77,0.63
+60,"What is the distance between ""Cafe East Pho"" and ""Liten"" in the London area?",B,11.12,15.55,13.67,11.49
+61,"What is the distance between ""Buxton Street 1"" and ""Rica's Bar & Kitchen"" in the London area?",B,12.45,6.08,11.49,0.62
+62,"What is the distance between ""Claydon House"" and ""The Clock Mill"" in the London area?",B,6.16,13.26,10.89,14.5
+63,"What is the distance between ""Subway"" and ""Mu Mu"" in the London area?",C,10.37,1.48,3.55,6.33
+64,"What is the distance between ""MAC Cosmetics"" and ""Bankside Lofts"" in the London area?",A,1.62,6.32,6.94,2.59
+65,"What is the distance between ""Baoziinn"" and ""Close-Up Film Centre"" in the London area?",A,4.12,8.97,7.86,1.42
+66,"What is the distance between ""Bouverie Street Car Park"" and ""Banana Tree"" in the London area?",C,11.49,15.6,7.79,3.77
+67,"What is the distance between ""Friends of Ours"" and ""NHS Felstead Street"" in the London area?",C,6.34,6.98,4.21,0.56
+68,"What is the distance between ""Leños & Carbon"" and ""South Park"" in the London area?",D,6.19,4.22,12.01,7.24
+69,"What is the distance between ""Court Security Locksmiths"" and ""Westminster School"" in the London area?",D,4.61,7.77,6.19,1.83
+70,"What is the distance between ""Shoryu"" and ""Rustique"" in the London area?",A,5.07,10.39,8.69,6.18
+71,"What is the distance between ""Sheel Pharmacy"" and ""Red Lion Coffee Co"" in the London area?",C,10.98,7.37,3.94,2.41
+72,"What is the distance between ""Kapadia"" and ""Route"" in the London area?",D,2.85,1.42,13.63,6.33
+73,"What is the distance between ""Saka Maka"" and ""VQ"" in the London area?",A,11.39,13.81,17.93,3.69
+74,"What is the distance between ""Morley's"" and ""Bermondsey Street"" in the London area?",D,4.99,6.77,8.42,0.56
+75,"What is the distance between ""Wesleyan Day Care Centre"" and ""Binfield Road General Practice"" in the London area?",C,11.46,14.75,13.18,17.48
+76,"What is the distance between ""London Shoot Fighters"" and ""Rushed Green Pharmacy"" in the London area?",A,6.56,1.38,5.49,8.71
+77,"What is the distance between ""Tom Simmons"" and ""Nightjar Carnaby"" in the London area?",A,4.37,3.41,10.15,11.63
+78,"What is the distance between ""Carpmael Building"" and ""50 Berkeley Street"" in the London area?",C,5.97,3.9,2.31,4.76
+79,"What is the distance between ""Rustique"" and ""Soho"" in the London area?",A,5.83,0.98,12.9,9.02
+80,"What is the distance between ""Amigos"" and ""JP Pharmacy"" in the London area?",B,1.35,7.42,8.49,14.82
+81,"What is the distance between ""Cranley Buildings"" and ""Currys"" in the London area?",B,6.05,1.93,6.03,3.16
+82,"What is the distance between ""Little St Matthias Pre School"" and ""Eastway"" in the London area?",C,2.65,10.52,4.65,2.36
+83,"What is the distance between ""Blueberry’s"" and ""Roosters Spot"" in the London area?",C,14.24,16.29,10.21,11.7
+84,"What is the distance between ""Love Shack"" and ""Five Guys"" in the London area?",A,9.56,6.98,4.89,16.99
+85,"What is the distance between ""Five Guys"" and ""Wesleyan Day Care Centre"" in the London area?",B,22.32,14.67,6.98,12.11
+86,"What is the distance between ""Michelle Davies"" and ""Lume London"" in the London area?",B,0.65,2.85,0.57,10.45
+87,"What is the distance between ""Athelstan House"" and ""Forbra House"" in the London area?",C,5.79,6.3,12.35,7.05
+88,"What is the distance between ""Casse Croute"" and ""Fison Fitness (Studio 1)"" in the London area?",D,3.15,7.35,9.92,5.43
+89,"What is the distance between ""Claude Bosi at Bibendum"" and ""Bocconi"" in the London area?",D,1.65,4.96,11.94,3.94
+90,"What is the distance between ""Ashfield House"" and ""Texaco"" in the London area?",B,8.74,4.9,12.6,12.75
+91,"What is the distance between ""Fison Fitness (Studio 1)"" and ""Baoziinn"" in the London area?",A,8.15,14.93,11.29,14.42
+92,"What is the distance between ""Yolk"" and ""Frisco's"" in the London area?",D,14.99,2.62,9.61,8.43
+93,"What is the distance between ""Station G"" and ""The Colonnades"" in the London area?",C,5.0,1.0,8.89,14.16
+94,"What is the distance between ""The Devonshire"" and ""La Tua Pasta"" in the London area?",C,1.96,11.41,7.7,3.7
+95,"What is the distance between ""Sud Italia"" and ""The Hatch"" in the London area?",C,10.56,6.59,2.7,3.75
+96,"What is the distance between ""The Dean Swift"" and ""Heaven"" in the London area?",A,4.87,12.55,6.93,9.09
+97,"What is the distance between ""Euston Tap"" and ""Puma"" in the London area?",B,7.39,1.67,7.98,3.45
+98,"What is the distance between ""Armillary Sundial"" and ""Pyramid Pharmacy"" in the London area?",A,1.59,5.23,5.29,5.51
+99,"What is the distance between ""Fields Estate"" and ""Xpress Money"" in the London area?",A,5.6,10.36,2.23,8.67
+100,"What is the distance between ""Mexican Seoul"" and ""A Baía"" in the London area?",C,3.77,3.95,6.44,0.86
+101,"What is the distance between ""Bodean's BBQ"" and ""The Gateways"" in the London area?",A,2.47,9.24,9.31,4.53
+102,"What is the distance between ""La costa cafe"" and ""Tommy Flynns"" in the London area?",B,14.45,6.49,12.49,10.39
+103,"What is the distance between ""Builders Cafe"" and ""The Gentlemen Baristas"" in the London area?",C,12.58,10.35,6.9,1.68
+104,"What is the distance between ""Chalton Street Market"" and ""Fetter Yard"" in the London area?",D,6.42,7.13,0.75,1.93
+105,"What is the distance between ""Timpson"" and ""Michelle Davies"" in the London area?",B,3.28,0.53,6.96,7.19
+106,"What is the distance between ""urbanest Battersea"" and ""Sugar House Island"" in the London area?",A,10.93,4.3,17.38,13.01
+107,"What is the distance between ""Zadig & Voltaire"" and ""St Pancras Renaissance London Hotel"" in the London area?",C,10.83,8.89,4.47,7.35
+108,"What is the distance between ""Smokers Clinic"" and ""Well Mix Oriental"" in the London area?",D,12.68,3.85,11.66,5.16
+109,"What is the distance between ""Tynne Court"" and ""Sainsbury's Local"" in the London area?",B,3.8,9.77,3.18,4.65
+110,"What is the distance between ""Westminster School"" and ""Paddington Fire Station"" in the London area?",D,2.55,8.11,0.73,4.54
+111,"What is the distance between ""Local Christian Assembly"" and ""The Organic Yogi"" in the London area?",A,4.72,8.33,7.83,1.29
+112,"What is the distance between ""Comet Nursery School and Children's Centre"" and ""Peckham Library"" in the London area?",B,4.69,6.92,13.26,4.99
+113,"What is the distance between ""Inis"" and ""Bikehangar"" in the London area?",B,6.28,1.15,8.57,3.06
+114,"What is the distance between ""Athena Hotel"" and ""Blue Gate Fields Infants' School"" in the London area?",D,15.94,12.13,1.47,8.19
+115,"What is the distance between ""Putney Car Wash"" and ""Amigos"" in the London area?",C,8.41,6.28,2.87,8.81
+116,"What is the distance between ""Well Mix Oriental"" and ""Eastcheap Records"" in the London area?",C,9.92,1.29,4.1,6.19
+117,"What is the distance between ""Frank Partridge"" and ""Carpmael Building"" in the London area?",C,1.97,1.71,3.46,1.37
+118,"What is the distance between ""La Médiathèque"" and ""Happiness Forgets"" in the London area?",B,8.61,7.6,4.23,9.87
+119,"What is the distance between ""Villas Nursery"" and ""Blas London"" in the London area?",D,14.89,15.76,4.67,10.38
+120,"What is the distance between ""Trafalgar House"" and ""Station G"" in the London area?",D,19.41,19.06,8.81,14.75
+121,"What is the distance between ""St. Pancras Coroner's Court"" and ""Spa Green"" in the London area?",D,3.52,7.1,9.54,1.87
+122,"What is the distance between ""Western Union"" and ""Belgrove Street"" in the London area?",A,3.6,9.89,7.24,9.37
+123,"What is the distance between ""Mei King"" and ""Starbucks"" in the London area?",D,11.95,9.8,1.79,6.19
+124,"What is the distance between ""Tent Cafe"" and ""Mei King"" in the London area?",B,5.42,8.47,5.54,2.58
+125,"What is the distance between ""Aquarium Snack Bar"" and ""Eversholt Street"" in the London area?",C,11.99,4.48,6.6,13.93
+126,"What is the distance between ""Chalcots Estate"" and ""Raj of Islington"" in the London area?",A,3.65,9.42,8.71,0.8
+127,"What is the distance between ""Darna"" and ""The Barbary"" in the London area?",B,2.3,3.46,2.25,2.41
+128,"What is the distance between ""Caffè Nero"" and ""Cafe Samba"" in the London area?",A,4.33,10.48,8.0,8.32
+129,"What is the distance between ""Day Lewis Pharmacy"" and ""Gloucester Road (North)"" in the London area?",D,12.01,19.59,20.63,14.61
+130,"What is the distance between ""Braille Map"" and ""Beany Green"" in the London area?",A,7.22,1.49,12.27,3.24
+131,"What is the distance between ""Uncle Wrinkle"" and ""Prawn on the Lawn"" in the London area?",D,1.96,16.58,5.83,9.0
+132,"What is the distance between ""7 Saints"" and ""Blank Street Coffee"" in the London area?",A,8.25,11.97,13.15,13.82
+133,"What is the distance between ""Protein Studios"" and ""Putney Car Wash"" in the London area?",A,12.49,15.26,16.02,20.36
+134,"What is the distance between ""Bankside Lofts"" and ""The Tabernacle Memorial Hall"" in the London area?",C,14.66,13.94,8.36,2.24
+135,"What is the distance between ""Beryl Road"" and ""Akoko"" in the London area?",C,13.3,2.21,6.78,13.8
+136,"What is the distance between ""Fountain House"" and ""Vauxhall Walk"" in the London area?",B,9.7,5.0,6.98,3.38
+137,"What is the distance between ""Eggslut"" and ""Bella Cosa"" in the London area?",B,6.77,5.3,7.85,1.66
+138,"What is the distance between ""Salisbury House"" and ""Great Beyond Brewery"" in the London area?",D,7.56,2.9,4.64,1.46
+139,"What is the distance between ""Fitz's"" and ""Light of India"" in the London area?",D,7.08,11.58,12.76,5.02
+140,"What is the distance between ""Flood Street"" and ""Wasabi"" in the London area?",D,5.07,8.44,8.66,3.51
+141,"What is the distance between ""Postmark"" and ""Street Burger"" in the London area?",C,3.68,5.32,1.61,7.44
+142,"What is the distance between ""Route"" and ""Athelstan House"" in the London area?",A,7.47,11.05,14.23,3.93
+143,"What is the distance between ""Farringdon Tap"" and ""Granby Street"" in the London area?",D,6.8,0.82,7.24,2.63
+144,"What is the distance between ""Master Chef Cafe"" and ""Casse Croute"" in the London area?",B,0.65,5.75,10.45,2.14
+145,"What is the distance between ""Roosters Spot"" and ""Everbean Cafe"" in the London area?",B,2.52,5.56,7.04,11.75
+146,"What is the distance between ""Islington and Finsbury Youth Club"" and ""Friends of Ours"" in the London area?",C,5.16,7.85,1.47,5.83
+147,"What is the distance between ""Cirque Le Soir"" and ""Old London Bridge alcove"" in the London area?",A,8.25,14.05,0.64,12.86
+148,"What is the distance between ""Curzon Hoxton"" and ""400 rabbits"" in the London area?",B,13.58,9.33,13.91,17.28
+149,"What is the distance between ""Curzonfield House"" and ""Euston Telephone Exchange"" in the London area?",B,5.65,2.49,6.79,6.6
+150,"What is the distance between ""Paynton Court"" and ""Urbanest Tower Bridge"" in the London area?",A,3.3,8.0,0.98,6.62
+151,"What is the distance between ""Prince of Wales Gate"" and ""Argo House"" in the London area?",A,3.51,2.53,2.59,9.78
+152,"What is the distance between ""Dartrey Walk"" and ""Hampstead Cemetery"" in the London area?",B,16.3,8.43,12.23,3.17
+153,"What is the distance between ""Bill's"" and ""Muffin Break"" in the London area?",A,15.13,13.25,7.38,9.82
+154,"What is the distance between ""Roof East"" and ""Woburn Cafe"" in the London area?",C,2.36,4.2,9.05,10.59
+155,"What is the distance between ""Docklands Village Nursery"" and ""BikeAway"" in the London area?",D,2.57,4.24,10.35,5.74
+156,"What is the distance between ""Bocconi"" and ""Colonel Saab"" in the London area?",B,13.61,6.79,14.38,1.62
+157,"What is the distance between ""Southern Grove"" and ""King Rooster"" in the London area?",B,4.16,5.08,12.37,9.54
+158,"What is the distance between ""Glow Dentist"" and ""Ady Centre / DeRose Method Soho"" in the London area?",C,13.7,10.02,6.57,2.7
+159,"What is the distance between ""Great Beyond Brewery"" and ""Bouverie Street Car Park"" in the London area?",D,6.97,9.56,9.02,2.84
+160,"What is the distance between ""Delice de France"" and ""MAC Cosmetics"" in the London area?",B,3.94,1.37,6.88,5.95
+161,"What is the distance between ""BikeAway"" and ""The Hanover Arms"" in the London area?",B,11.51,8.07,9.32,6.23
+162,"What is the distance between ""Euston Telephone Exchange"" and ""The Rasoi"" in the London area?",D,9.03,9.52,9.82,2.07
+163,"What is the distance between ""Global Banking School"" and ""Yokoya"" in the London area?",B,6.34,9.66,14.98,4.91
+164,"What is the distance between ""Never For Ever"" and ""Tesco"" in the London area?",A,8.42,15.02,14.54,6.67
+165,"What is the distance between ""Monier Road"" and ""Millbank Tower"" in the London area?",C,10.81,5.95,9.02,5.1
+166,"What is the distance between ""Equilibrium"" and ""Purple Mango"" in the London area?",A,9.75,8.44,6.7,7.42
+167,"What is the distance between ""Simmons"" and ""La Chingada"" in the London area?",D,12.26,6.16,12.65,7.77
+168,"What is the distance between ""Beany Green"" and ""The City of London Post Office"" in the London area?",A,6.71,1.54,3.98,10.99
+169,"What is the distance between ""Firecracker"" and ""Salisbury House"" in the London area?",B,10.69,3.8,9.78,1.45
+170,"What is the distance between ""The Rasoi"" and ""urbanest Battersea"" in the London area?",A,5.8,10.32,3.21,3.13
+171,"What is the distance between ""Drews Kitchen"" and ""White mustache"" in the London area?",B,6.56,2.62,8.3,4.82
+172,"What is the distance between ""Pizza Pilgrims"" and ""Local Christian Assembly"" in the London area?",D,6.79,1.64,3.18,4.18
+173,"What is the distance between ""Patri"" and ""Cartwright Gardens"" in the London area?",C,9.48,10.1,7.73,9.28
+174,"What is the distance between ""Bermondsey Arts Club"" and ""St Bride Library"" in the London area?",C,7.34,3.72,2.49,5.96
+175,"What is the distance between ""Fetter Yard"" and ""Fields Estate"" in the London area?",B,8.32,4.06,9.15,9.77
+176,"What is the distance between ""The Ninth"" and ""AA Money Transfer"" in the London area?",C,9.08,11.36,5.2,2.7
+177,"What is the distance between ""Southwark Brewing"" and ""Boxcar"" in the London area?",D,13.06,1.59,13.49,5.86
+178,"What is the distance between ""Gloucester Road (North)"" and ""King's College Chapel"" in the London area?",A,4.94,8.49,9.8,2.16
+179,"What is the distance between ""Commodore House"" and ""ATS Euromaster"" in the London area?",C,21.12,19.12,13.56,17.53
+180,"What is the distance between ""The Ivy"" and ""Sandwich Sandwich"" in the London area?",D,8.65,13.74,12.77,6.84
+181,"What is the distance between ""Starbucks"" and ""Cafe East Pho"" in the London area?",C,6.73,10.93,13.62,7.53
+182,"What is the distance between ""Champagne + Fromage"" and ""The Bath & Racquets Club"" in the London area?",C,14.29,4.57,10.11,6.98
+183,"What is the distance between ""London School of Osteopathy"" and ""Bill's"" in the London area?",C,16.54,9.61,12.44,4.59
+184,"What is the distance between ""Santander"" and ""Rodega Music"" in the London area?",C,2.72,11.7,8.85,16.3
+185,"What is the distance between ""White mustache"" and ""South Lambeth M.S.P.O"" in the London area?",D,13.72,11.39,7.99,6.17
+186,"What is the distance between ""South Lambeth M.S.P.O"" and ""Esso"" in the London area?",C,3.96,2.97,1.48,3.6
+187,"What is the distance between ""London Hospital Tavern"" and ""Wild Bean Cafe"" in the London area?",C,3.55,8.04,1.15,6.94
+188,"What is the distance between ""City Boxing Camp"" and ""The Rosy Hue"" in the London area?",A,9.23,7.16,2.71,16.44
+189,"What is the distance between ""The Bill Murray"" and ""Mapesbury Medical Group"" in the London area?",C,0.86,15.72,7.86,9.3
+190,"What is the distance between ""Granville Mansions"" and ""Median Road Resource Centre"" in the London area?",C,11.1,16.95,13.17,18.66
+191,"What is the distance between ""Humble Grape"" and ""Jose"" in the London area?",A,2.17,3.56,4.92,7.84
+192,"What is the distance between ""Udderlicious"" and ""Yeda"" in the London area?",D,9.66,11.15,6.25,3.47
+193,"What is the distance between ""JP Pharmacy"" and ""Pembridge Villas"" in the London area?",A,4.86,2.42,12.32,7.0
+194,"What is the distance between ""Prime Enterprise"" and ""Up West British Adult Shop"" in the London area?",D,9.6,6.48,1.52,5.0
+195,"What is the distance between ""The Gipsy Moth"" and ""Leños & Carbon"" in the London area?",B,10.01,6.3,11.84,3.72
+196,"What is the distance between ""Boxcar"" and ""The Leather Uppers"" in the London area?",A,5.38,11.04,9.41,11.73
+197,"What is the distance between ""Camberwell Submarine"" and ""Royal Albert Hall Chimney"" in the London area?",B,3.29,5.76,1.56,6.78
+198,"What is the distance between ""Binfield Road General Practice"" and ""The Ninth"" in the London area?",D,10.95,11.69,7.87,5.2
+199,"What is the distance between ""It's all Greek to me"" and ""Mowley"" in the London area?",C,17.2,16.23,11.27,14.6
+200,"What is the distance between ""Terroirs"" and ""7000 Cars Mini Cab & Courier Service"" in the London area?",C,5.53,7.8,6.74,10.29
+201,"What is the distance between ""Crown & Cushion"" and ""Drews Kitchen"" in the London area?",A,4.54,9.69,8.11,8.92
+202,"What is the distance between ""Yokoya"" and ""London Shoot Fighters"" in the London area?",B,4.71,9.75,17.6,13.53
+203,"What is the distance between ""The Monocle Café"" and ""The Café at Foyles"" in the London area?",A,1.78,3.3,6.23,7.22
+204,"What is the distance between ""Tommy Flynns"" and ""Faculty Building car park"" in the London area?",B,12.48,7.7,9.69,6.15
+205,"What is the distance between ""Colonel Saab"" and ""Perfect Fried Chicken"" in the London area?",B,10.06,7.91,1.4,5.58
+206,"What is the distance between ""Bracknell Gate"" and ""Prime Enterprise"" in the London area?",D,6.04,11.42,14.35,9.73
+207,"What is the distance between ""Eastcheap Records"" and ""Gura Gura"" in the London area?",C,5.47,9.62,2.98,5.25
+208,"What is the distance between ""Halifax"" and ""Skygarden - Sky Pod Café/Bar"" in the London area?",C,13.58,12.15,5.83,9.7
+209,"What is the distance between ""Mu Mu"" and ""Os Golfinhos"" in the London area?",B,11.4,6.34,0.97,13.31
+210,"What is the distance between ""Kingfisher House"" and ""Travelodge"" in the London area?",A,6.63,4.55,1.11,2.01
+211,"What is the distance between ""Papa John's"" and ""Stratford Police Station"" in the London area?",B,14.93,7.04,9.07,12.53
+212,"What is the distance between ""Heads Rule Hearts"" and ""Zadig & Voltaire"" in the London area?",C,14.36,14.12,6.98,9.47
+213,"What is the distance between ""Tesco"" and ""muan"" in the London area?",A,9.7,4.88,12.33,2.46
+214,"What is the distance between ""Trinity Dental Care"" and ""Granville Mansions"" in the London area?",A,12.94,17.72,8.96,8.02
+215,"What is the distance between ""La Caffettiera"" and ""Fitz's"" in the London area?",A,5.14,4.05,7.61,7.18
+216,"What is the distance between ""Sandwich Sandwich"" and ""Caffe Concerto"" in the London area?",B,14.0,8.73,2.02,16.46
+217,"What is the distance between ""Aberdeen Wharf"" and ""Bracknell Gate"" in the London area?",D,7.4,5.51,3.82,10.55
+218,"What is the distance between ""Max Orient"" and ""Halifax"" in the London area?",A,2.97,4.52,7.78,1.67
+219,"What is the distance between ""Cafe Continente"" and ""East Village"" in the London area?",D,8.97,7.47,13.68,15.01
+220,"What is the distance between ""The Leather Uppers"" and ""Bombay Boy"" in the London area?",D,1.36,6.43,8.46,4.48
+221,"What is the distance between ""The Hatch"" and ""Get The Focaccia"" in the London area?",A,7.26,4.95,13.05,10.96
+222,"What is the distance between ""Lola Tapas & Wine"" and ""Ladbroke Grove Dental Care"" in the London area?",C,5.04,13.63,7.99,8.89
+223,"What is the distance between ""Source London"" and ""Ali Baba"" in the London area?",B,9.79,5.03,2.19,8.08
+224,"What is the distance between ""Chicken Cottage"" and ""Darna"" in the London area?",A,4.37,8.65,0.5,2.38
+225,"What is the distance between ""Newham Music"" and ""Flood Street"" in the London area?",B,6.34,12.6,14.32,19.94
+226,"What is the distance between ""Rodega Music"" and ""Kateh"" in the London area?",B,20.01,13.87,20.35,17.05
+227,"What is the distance between ""Lime Cafe and Grill"" and ""Curzon Hoxton"" in the London area?",B,7.81,5.82,6.81,8.25
+228,"What is the distance between ""Esso"" and ""Glow Dentist"" in the London area?",A,3.85,6.84,7.84,6.66
+229,"What is the distance between ""Bar Américain"" and ""Farringdon Tap"" in the London area?",A,2.25,8.69,8.83,9.04
+230,"What is the distance between ""13-20, 33-40 Dethick Court"" and ""game of graces"" in the London area?",D,8.45,9.91,10.78,6.0
+231,"What is the distance between ""Bombay Boy"" and ""Inis"" in the London area?",D,2.59,0.51,10.69,4.4
+232,"What is the distance between ""The Corniche - Tower Three"" and ""Micawber House"" in the London area?",D,0.58,10.13,10.57,3.87
+233,"What is the distance between ""Belgrove Street"" and ""Fourth Garden"" in the London area?",B,7.46,5.53,4.1,4.29
+234,"What is the distance between ""Tesco Express"" and ""Johnny's Fish Bar"" in the London area?",B,7.47,2.7,0.63,6.46
+235,"What is the distance between ""Heaven"" and ""Buxton Street 1"" in the London area?",A,4.17,7.59,1.59,8.57
+236,"What is the distance between ""Queen Street 1"" and ""La Caffettiera"" in the London area?",C,14.1,1.57,7.0,2.04
+237,"What is the distance between ""106 Baker Street"" and ""Pure"" in the London area?",A,4.48,11.83,1.91,5.53
+238,"What is the distance between ""Corpus Christi Catholic Primary School"" and ""Z Cafe"" in the London area?",D,1.47,4.54,5.24,6.5
+239,"What is the distance between ""28West"" and ""Bodean's BBQ"" in the London area?",B,16.46,12.0,5.0,5.33
+240,"What is the distance between ""Up West British Adult Shop"" and ""Gospel Oak Primary School"" in the London area?",C,11.04,5.9,4.91,7.94
+241,"What is the distance between ""Prawn on the Lawn"" and ""Magic Years Nursery"" in the London area?",D,6.69,10.46,16.23,8.65
+242,"What is the distance between ""Sam's Chicken"" and ""Barbican Cafe"" in the London area?",B,5.64,7.36,10.21,8.47
+243,"What is the distance between ""Ark Globe Academy"" and ""The Blackfriar"" in the London area?",B,4.98,2.07,8.43,5.6
+244,"What is the distance between ""Turtle Bay"" and ""Monier Road"" in the London area?",D,2.08,7.48,9.75,3.73
+245,"What is the distance between ""Clapham South Deep Level Shelter"" and ""ZeroSette"" in the London area?",D,20.32,7.05,16.93,13.53
+246,"What is the distance between ""Grill'd"" and ""Bubbleology"" in the London area?",A,6.82,10.01,14.46,12.62
+247,"What is the distance between ""Burger King"" and ""London School of Osteopathy"" in the London area?",C,6.42,8.36,4.74,0.57
+248,"What is the distance between ""Pshkin House"" and ""The Ivy"" in the London area?",A,5.15,2.39,3.26,11.19
+249,"What is the distance between ""Consort Tenants and Residents Association"" and ""Source London"" in the London area?",D,11.91,2.42,12.36,9.35
+250,"What is the distance between ""baccalà"" and ""La costa cafe"" in the London area?",C,9.96,5.64,7.03,4.16
+251,"What is the distance between ""Nando's"" and ""Tonkotsu Ramen Bar"" in the London area?",A,3.0,9.84,0.73,7.91
+252,"What is the distance between ""VQ"" and ""The Gipsy Moth"" in the London area?",B,14.76,9.22,14.76,1.92
+253,"What is the distance between ""40 Leadenhall Street"" and ""Lanark Mansions"" in the London area?",B,8.45,10.15,17.44,8.74
+254,"What is the distance between ""muan"" and ""Providence Row Housing Association"" in the London area?",A,4.3,3.23,6.03,9.29
+255,"What is the distance between ""The Copper Box Arena"" and ""The Mirror Bar"" in the London area?",B,17.16,10.25,17.06,18.05
+256,"What is the distance between ""Pure"" and ""Chicken Shop"" in the London area?",B,3.04,5.73,13.05,3.2
+257,"What is the distance between ""Lanark Mansions"" and ""Embassy of the Republic of Cuba"" in the London area?",B,5.76,7.09,1.17,3.28
+258,"What is the distance between ""Shapur"" and ""Robert Bell House"" in the London area?",B,7.24,3.94,8.36,5.11
+259,"What is the distance between ""Everbean Cafe"" and ""Roof East"" in the London area?",D,17.98,6.61,5.4,10.54
+260,"What is the distance between ""The Masque Haunt"" and ""Pizzeria di Camden"" in the London area?",B,6.95,3.72,0.73,8.13
+261,"What is the distance between ""Tate House"" and ""East India Dock Basin"" in the London area?",C,10.39,2.96,4.05,0.66
+262,"What is the distance between ""Highbury Quadrant Estate"" and ""Claydon House"" in the London area?",D,18.84,18.98,3.54,10.98
+263,"What is the distance between ""The Bath & Racquets Club"" and ""Armillary Sundial"" in the London area?",A,10.81,9.72,11.91,9.89
+264,"What is the distance between ""Ancillary Pump House (Station B)"" and ""Court 9"" in the London area?",B,6.41,3.36,9.71,9.25
+265,"What is the distance between ""Ivybridge House"" and ""Ark Globe Academy"" in the London area?",C,6.25,9.86,3.58,7.77
+266,"What is the distance between ""roast"" and ""Parkway"" in the London area?",D,8.16,13.07,9.42,5.2
+267,"What is the distance between ""Hampstead Cemetery"" and ""Eaton House the Manor"" in the London area?",A,10.96,18.86,6.39,17.51
+268,"What is the distance between ""Blas London"" and ""Simmons"" in the London area?",B,7.13,10.19,14.96,3.57
+269,"What is the distance between ""The Gojk"" and ""Found"" in the London area?",B,3.55,8.62,2.41,16.45
+270,"What is the distance between ""itsu"" and ""All Bar One Butlers Warf"" in the London area?",A,2.85,5.31,7.93,6.73
+271,"What is the distance between ""Pembridge Villas"" and ""Bermondsey Arts Club"" in the London area?",C,10.22,12.98,8.22,15.19
+272,"What is the distance between ""King's College Chapel"" and ""Braille Map"" in the London area?",B,4.32,2.66,4.7,5.29
+273,"What is the distance between ""King Kebab & Pizza"" and ""Uno"" in the London area?",A,11.33,13.42,13.2,7.66
+274,"What is the distance between ""Pyramid Pharmacy"" and ""Sixty-3 Degrees"" in the London area?",D,15.6,14.65,13.37,10.86
+275,"What is the distance between ""Khaao"" and ""Flat Iron"" in the London area?",B,0.64,4.48,11.72,12.32
+276,"What is the distance between ""Rushed Green Pharmacy"" and ""Saka Maka"" in the London area?",D,2.58,3.75,2.89,0.86
+277,"What is the distance between ""Iensai"" and ""Hackney Tuition Centre"" in the London area?",C,9.11,1.7,5.05,6.12
+278,"What is the distance between ""Hermanos Colombian Coffee Roasters"" and ""Champagne + Fromage"" in the London area?",D,9.1,5.91,1.36,7.23
+279,"What is the distance between ""Eccleston Square Hotel"" and ""Postmark"" in the London area?",A,4.24,10.4,1.65,2.01
+280,"What is the distance between ""Burger & Lobster"" and ""Leather Lane Dental"" in the London area?",D,5.46,10.16,9.43,2.93
+281,"What is the distance between ""Dixy Chicken"" and ""GAIL's"" in the London area?",C,19.89,11.02,14.69,9.97
+282,"What is the distance between ""Eastway"" and ""Newham Music"" in the London area?",B,2.07,5.84,2.12,7.53
+283,"What is the distance between ""Little Rainbow Nursery"" and ""Blend"" in the London area?",A,6.33,12.3,12.91,13.26
+284,"What is the distance between ""Xpress Money"" and ""Holy Cross Church"" in the London area?",D,3.27,2.99,4.42,1.58
+285,"What is the distance between ""Parkway"" and ""Morley's"" in the London area?",B,4.74,5.91,0.83,4.23
+286,"What is the distance between ""Flat Iron"" and ""106 Baker Street"" in the London area?",A,3.28,10.26,9.27,5.55
+287,"What is the distance between ""Le Petit Sud"" and ""ubitricity"" in the London area?",D,5.67,7.14,12.12,9.57
+288,"What is the distance between ""Robert Bell House"" and ""Camberwell Submarine"" in the London area?",B,7.18,3.36,9.04,9.67
+289,"What is the distance between ""Railton Low Traffic Neighbourhood"" and ""Hammersmith Library"" in the London area?",D,5.47,6.1,6.74,8.98
+290,"What is the distance between ""Banana Tree"" and ""Kilburn Dental Studio"" in the London area?",B,21.72,14.58,11.52,16.72
+291,"What is the distance between ""Millbank Tower"" and ""Firecracker"" in the London area?",D,7.66,5.9,6.52,1.08
+292,"What is the distance between ""The City of London Post Office"" and ""Subway"" in the London area?",C,9.4,8.73,3.92,9.14
+293,"What is the distance between ""Holy Cross Church"" and ""Oyster Wharf"" in the London area?",C,2.16,0.98,7.29,13.04
+294,"What is the distance between ""Maida Vale Deliveroo Editions site"" and ""Master Chef Cafe"" in the London area?",C,15.64,11.94,8.91,1.69
+295,"What is the distance between ""Cafe Samba"" and ""QMotion Sport & Fitness Centre"" in the London area?",C,7.78,6.39,2.9,10.77
+296,"What is the distance between ""Kensal Green Backpackers"" and ""Our Lady of the Assumption Catholic Church"" in the London area?",C,13.21,16.98,11.92,19.82
+297,"What is the distance between ""Red Lion Coffee Co"" and ""Islington and Finsbury Youth Club"" in the London area?",B,5.31,2.5,8.03,10.43
+298,"What is the distance between ""Old London Bridge alcove"" and ""Shoryu"" in the London area?",D,1.32,10.07,4.24,8.05
+299,"What is the distance between ""AA Money Transfer"" and ""Southern Grove"" in the London area?",A,2.09,3.89,0.69,3.42
+300,"What is the distance between ""Pasta Evangelists"" and ""tipsy"" in the London area?",C,16.08,12.69,8.96,1.3
+301,"What is the distance between ""Bubbleology"" and ""baccalà"" in the London area?",B,10.36,4.44,2.03,7.98
+302,"What is the distance between ""Granby Street"" and ""West Ham Baptist Tabernacle"" in the London area?",A,5.42,12.71,1.85,12.06
+303,"What is the distance between ""Amazon Locker Ping"" and ""Fox on the Green"" in the London area?",B,6.06,8.32,15.69,6.66
+304,"What is the distance between ""Imperial Wharf Fountain"" and ""Din Tai Fung"" in the London area?",A,6.03,8.24,10.47,10.81
+305,"What is the distance between ""The Alma"" and ""Caffè Nero"" in the London area?",D,8.51,6.91,11.12,4.69
+306,"What is the distance between ""Spa Green"" and ""Cutler and Cross"" in the London area?",B,4.73,2.36,4.44,9.27
+307,"What is the distance between ""Frisco's"" and ""Morelli's Gelato"" in the London area?",C,16.67,11.69,9.45,11.65
+308,"What is the distance between ""Mandel House"" and ""Curzonfield House"" in the London area?",B,9.26,6.0,4.08,10.77
+309,"What is the distance between ""GAIL's"" and ""Hermanos Colombian Coffee Roasters"" in the London area?",A,12.49,14.58,19.97,18.14
+310,"What is the distance between ""Gura Gura"" and ""Southwark Brewing"" in the London area?",A,3.69,8.3,7.15,8.72
+311,"What is the distance between ""Papa Roma"" and ""La Fogata"" in the London area?",C,9.42,0.87,5.36,8.49
+312,"What is the distance between ""Morelli's Gelato"" and ""City Boxing Camp"" in the London area?",A,9.8,3.14,5.0,17.05
+313,"What is the distance between ""Pizzeria di Camden"" and ""McDonald's"" in the London area?",C,2.07,6.57,5.49,2.24
+314,"What is the distance between ""Blend"" and ""Nando's"" in the London area?",D,2.83,7.19,1.34,5.94
+315,"What is the distance between ""EL&N"" and ""Day Lewis Pharmacy"" in the London area?",A,13.1,10.92,15.82,16.1
+316,"What is the distance between ""Sister's Place"" and ""The Chutney"" in the London area?",B,15.51,11.11,14.26,15.61
+317,"What is the distance between ""Tendril"" and ""Eggslut"" in the London area?",A,9.66,3.98,11.42,16.61
+318,"What is the distance between ""Tannery Arts"" and ""The Cavendish School"" in the London area?",B,13.18,6.72,14.71,4.47
+319,"What is the distance between ""The Chutney"" and ""Waitrose & Partners"" in the London area?",A,9.81,14.6,8.91,2.4
+320,"What is the distance between ""Faculty Building car park"" and ""Honi Poke"" in the London area?",C,4.93,3.51,6.8,10.2
+321,"What is the distance between ""East India Dock Basin"" and ""Frank Partridge"" in the London area?",B,9.97,11.16,17.34,9.56
+322,"What is the distance between ""ZeroSette"" and ""The Old Fire Station"" in the London area?",C,11.11,2.39,3.59,8.36
+323,"What is the distance between ""tipsy"" and ""Queen Street 1"" in the London area?",A,4.58,2.0,10.07,1.39
+324,"What is the distance between ""Stratford Police Station"" and ""TDO Cafe Bistro"" in the London area?",C,10.46,8.33,4.97,3.7
+325,"What is the distance between ""Soho"" and ""Pizza Pilgrims"" in the London area?",C,7.83,5.83,2.7,5.01
+326,"What is the distance between ""Close-Up Film Centre"" and ""Hafez"" in the London area?",D,11.66,7.5,11.58,8.52
+327,"What is the distance between ""Blackheath"" and ""Pedlar's Park"" in the London area?",B,3.04,8.75,4.34,1.93
+328,"What is the distance between ""Get The Focaccia"" and ""Beer + Burger"" in the London area?",B,7.04,3.5,1.68,2.08
+329,"What is the distance between ""Studio London"" and ""Pshkin House"" in the London area?",C,3.0,7.23,1.36,6.2
+330,"What is the distance between ""The Mirror Bar"" and ""Old Chang Kee"" in the London area?",B,5.65,1.85,8.04,9.24
+331,"What is the distance between ""Hilton London Euston"" and ""Athena Hotel"" in the London area?",B,4.86,3.11,5.39,10.72
+332,"What is the distance between ""Nightjar Carnaby"" and ""Global Banking School"" in the London area?",B,8.12,9.82,6.61,1.85
+333,"What is the distance between ""Muffin Break"" and ""Tom Simmons"" in the London area?",B,11.37,6.94,4.86,14.52
+334,"What is the distance between ""Mimi's Deli"" and ""Dance Art"" in the London area?",A,5.96,5.04,12.86,11.64
+335,"What is the distance between ""Golden Lane Leisure Centre"" and ""Malborough Gate Kiosk"" in the London area?",C,8.08,10.02,3.48,8.58
+336,"What is the distance between ""Honi Poke"" and ""Old Montague Street"" in the London area?",C,8.49,5.76,1.11,5.11
+337,"What is the distance between ""The Lowback"" and ""Tottenham Court Road Car Park"" in the London area?",C,12.94,9.59,8.14,5.35
+338,"What is the distance between ""Liten"" and ""Dillons Chemist"" in the London area?",C,4.48,1.09,2.72,7.21
+339,"What is the distance between ""Theatre Royal Haymarket"" and ""Edward Woods Estate"" in the London area?",C,10.14,1.04,5.93,8.43
+340,"What is the distance between ""Our Lady of the Assumption Catholic Church"" and ""Saint Mary's Square"" in the London area?",C,13.8,3.64,8.59,7.08
+341,"What is the distance between ""50 Berkeley Street"" and ""Chalcots Estate"" in the London area?",A,4.3,7.47,6.74,6.44
+342,"What is the distance between ""HM Revenue & Customs"" and ""Trafalgar House"" in the London area?",C,10.7,14.97,7.19,10.49
+343,"What is the distance between ""Eversholt Street"" and ""Khaao"" in the London area?",D,8.42,4.27,7.39,1.14
+344,"What is the distance between ""Hobart Building (Wardian West)"" and ""Conrad House"" in the London area?",A,6.82,10.79,11.55,10.06
+345,"What is the distance between ""Dillons Chemist"" and ""Bermondsey Larder"" in the London area?",D,10.53,14.55,4.69,9.24
+346,"What is the distance between ""ubitricity"" and ""Maida Vale Deliveroo Editions site"" in the London area?",D,10.94,5.1,18.61,12.76
+347,"What is the distance between ""Din Tai Fung"" and ""Holloway Road Post Office"" in the London area?",C,5.28,6.15,4.05,11.67
+348,"What is the distance between ""Fourth Garden"" and ""Papa John's"" in the London area?",C,4.27,7.36,2.08,4.26
+349,"What is the distance between ""Lume London"" and ""Kensal Green Cemetery"" in the London area?",C,10.03,7.32,4.68,9.5
+350,"What is the distance between ""Heip Phat"" and ""Papa Roma"" in the London area?",D,10.06,12.59,13.35,5.58
+351,"What is the distance between ""Mali"" and ""HSBC UK"" in the London area?",A,10.93,14.28,12.2,17.21
+352,"What is the distance between ""Costa"" and ""Tabot Centre"" in the London area?",D,14.12,9.89,20.77,13.01
+353,"What is the distance between ""Blandford Square"" and ""13-20, 33-40 Dethick Court"" in the London area?",B,3.89,9.05,16.17,7.83
+354,"What is the distance between ""United Reformed Church House"" and ""Hobart Building (Wardian West)"" in the London area?",D,1.44,4.12,12.21,7.46
+355,"What is the distance between ""Wild Bean Cafe"" and ""itsu"" in the London area?",B,8.33,3.9,2.29,2.26
+356,"What is the distance between ""Two Create Studio"" and ""Petit Pret"" in the London area?",B,8.34,4.56,11.44,8.89
+357,"What is the distance between ""Bupa Dental Care"" and ""The Bill Murray"" in the London area?",A,6.05,9.5,8.56,12.09
+358,"What is the distance between ""Waterloo Station"" and ""Uni B"" in the London area?",B,2.0,3.56,10.1,10.28
+359,"What is the distance between ""Feel Greek"" and ""Lola Tapas & Wine"" in the London area?",D,10.76,6.6,1.47,4.8
+360,"What is the distance between ""The Gentlemen Baristas"" and ""roast"" in the London area?",B,9.44,6.02,8.88,10.72
+361,"What is the distance between ""Holloway Road Post Office"" and ""Iensai"" in the London area?",D,4.6,7.1,8.14,2.73
+362,"What is the distance between ""King Rooster"" and ""Notting Hill Vet"" in the London area?",B,8.24,9.41,6.85,6.94
+363,"What is the distance between ""La Fogata"" and ""Patri"" in the London area?",A,8.97,7.32,2.29,5.02
+364,"What is the distance between ""400 rabbits"" and ""Finsbury Circus"" in the London area?",D,5.85,1.92,15.3,8.17
+365,"What is the distance between ""St Bride Library"" and ""Aquarium Snack Bar"" in the London area?",A,4.84,1.5,2.17,9.4
+366,"What is the distance between ""Street Burger"" and ""Tate House"" in the London area?",D,6.92,0.57,9.53,5.83
+367,"What is the distance between ""Royal Albert Hall Chimney"" and ""Prince of Wales Gate"" in the London area?",D,7.62,2.44,2.11,0.56
+368,"What is the distance between ""Petit Pret"" and ""Adventure Bar"" in the London area?",A,5.62,9.61,13.43,13.51
+369,"What is the distance between ""Jose"" and ""Vital Ingredient"" in the London area?",C,4.22,9.04,1.64,8.31
+370,"What is the distance between ""Gospel Oak Primary School"" and ""Iyengar Yoga Maida Vale"" in the London area?",D,5.74,7.18,7.26,3.66
+371,"What is the distance between ""Gadsden House"" and ""Golden Lane Leisure Centre"" in the London area?",A,4.53,5.65,6.83,11.34
+372,"What is the distance between ""Cannon Fried, Grill & Pizza"" and ""The Crooked Well"" in the London area?",B,0.65,5.0,6.21,10.08
+373,"What is the distance between ""Cathall Green"" and ""Shapur"" in the London area?",D,6.21,16.11,14.48,9.96
+374,"What is the distance between ""Leather Lane Dental"" and ""Sofra Hasjane"" in the London area?",C,15.73,7.01,8.84,14.48
+375,"What is the distance between ""Peri Peri Original"" and ""University College London"" in the London area?",B,3.08,6.41,10.52,12.34
+376,"What is the distance between ""La Chingada"" and ""Granier Bakery Cafe"" in the London area?",B,8.91,4.18,10.17,2.63
+377,"What is the distance between ""Mapesbury Medical Group"" and ""Terroirs"" in the London area?",A,7.5,2.37,11.82,14.04
+378,"What is the distance between ""Lloyds Bank"" and ""ELBWO Centre"" in the London area?",D,11.24,10.87,21.34,16.1
+379,"What is the distance between ""Sainsbury's Local"" and ""Delice de France"" in the London area?",C,2.87,12.69,5.54,2.42
+380,"What is the distance between ""The Rosy Hue"" and ""Lloyds Bank"" in the London area?",B,1.57,6.7,12.92,3.25
+381,"What is the distance between ""25 Trego Road"" and ""Euston Tap"" in the London area?",B,11.39,7.64,14.17,13.63
+382,"What is the distance between ""Mowley"" and ""South Lambeth Post Office"" in the London area?",B,14.21,7.32,8.27,10.64
+383,"What is the distance between ""Bikehangar"" and ""Drake & Morgan"" in the London area?",A,6.41,5.42,8.46,13.19
+384,"What is the distance between ""Moules Court"" and ""Cranley Buildings"" in the London area?",A,4.68,9.25,7.29,9.07
+385,"What is the distance between ""ELBWO Centre"" and ""The Copper Box Arena"" in the London area?",D,5.53,4.86,4.53,3.14
+386,"What is the distance between ""Kenyon Street Post Office"" and ""WatchHouse"" in the London area?",B,5.41,7.52,0.54,9.24
+387,"What is the distance between ""Decathlon Bicycle Parking"" and ""Clapham South Deep Level Shelter"" in the London area?",D,6.05,13.28,15.88,8.58
+388,"What is the distance between ""Beer + Burger"" and ""7 Saints"" in the London area?",D,1.76,10.81,13.09,5.99
+389,"What is the distance between ""Barbican Cafe"" and ""Burger & Lobster"" in the London area?",D,8.69,6.71,5.01,4.09
+390,"What is the distance between ""Pedlar's Park"" and ""St Anne's Roman Catholic Church"" in the London area?",C,5.29,7.78,4.17,6.22
+391,"What is the distance between ""Espressino"" and ""Winsland Street"" in the London area?",B,1.29,6.8,4.76,1.32
+392,"What is the distance between ""Euro Car Park"" and ""Yolk"" in the London area?",B,10.95,5.78,10.67,10.75
+393,"What is the distance between ""Amazon Locker"" and ""Imperial Wharf Fountain"" in the London area?",B,14.5,8.73,14.88,7.06
+394,"What is the distance between ""Tamila"" and ""Grill'd"" in the London area?",A,4.49,10.87,2.01,2.65
+395,"What is the distance between ""Lyle's"" and ""Giovanni's"" in the London area?",D,1.48,4.88,7.93,3.73
+396,"What is the distance between ""Conrad House"" and ""Ancillary Pump House (Station B)"" in the London area?",A,5.92,4.91,10.95,12.72
+397,"What is the distance between ""Argo House"" and ""Highbury Quadrant Estate"" in the London area?",B,11.14,7.79,9.65,11.25
+398,"What is the distance between ""TDO Cafe Bistro"" and ""Café Chula"" in the London area?",A,9.87,7.03,6.0,5.11
+399,"What is the distance between ""Bermondsey Street"" and ""Le Petit Sud"" in the London area?",A,7.14,9.35,12.51,13.83
+400,"What is the distance between ""Urbanest Tower Bridge"" and ""Blandford Square"" in the London area?",B,1.95,6.37,5.43,10.98
+401,"What is the distance between ""Median Road Resource Centre"" and ""Fountain House"" in the London area?",D,15.12,19.62,11.06,12.7
+402,"What is the distance between ""Dance Art"" and ""Pret A Manger"" in the London area?",A,12.73,14.54,18.73,5.03
+403,"What is the distance between ""Malborough Gate Kiosk"" and ""The Crown Tavern"" in the London area?",B,4.18,3.07,8.05,2.07
+404,"What is the distance between ""TRAID"" and ""Studio London"" in the London area?",D,12.58,4.06,12.29,5.13
+405,"What is the distance between ""Sixty-3 Degrees"" and ""Dawmouse Brunswick Montessori Nursery"" in the London area?",A,9.1,14.93,1.9,6.14
+406,"What is the distance between ""McDonald's"" and ""Rude Health Cafe"" in the London area?",D,10.53,7.78,9.3,4.46
+407,"What is the distance between ""Dorset Court"" and ""Theatre Royal Haymarket"" in the London area?",C,7.83,5.57,2.19,8.52
+408,"What is the distance between ""WatchHouse"" and ""Queensway Gynaecology Clinic"" in the London area?",A,1.54,2.59,5.34,9.0
+409,"What is the distance between ""Skygarden - Sky Pod Café/Bar"" and ""Crown & Cushion"" in the London area?",D,5.02,4.68,1.01,2.47
+410,"What is the distance between ""Drake & Morgan"" and ""Holy Trinity Brompton"" in the London area?",A,5.04,8.38,1.03,10.37
+411,"What is the distance between ""Buzz Coffee"" and ""Never For Ever"" in the London area?",D,6.99,10.29,2.3,3.28
+412,"What is the distance between ""Tottenham Court Road Car Park"" and ""Knoops"" in the London area?",C,3.56,5.05,0.75,8.58
+413,"What is the distance between ""Flip & Sear"" and ""Feel Greek"" in the London area?",D,15.88,13.21,11.1,8.51
+414,"What is the distance between ""Worldly Wicked & Wise"" and ""Corpus Christi Catholic Primary School"" in the London area?",B,3.1,10.67,16.5,16.71
+415,"What is the distance between ""Holland Park Day Nursery and Preschool"" and ""Blackheath"" in the London area?",C,22.49,15.96,14.91,15.93
+416,"What is the distance between ""Broadbent House"" and ""The Corniche - Tower Three"" in the London area?",A,2.87,4.4,3.82,7.11
+417,"What is the distance between ""The Blackfriar"" and ""Chalton Street Market"" in the London area?",C,4.72,6.08,2.62,1.0
+418,"What is the distance between ""Twins Kebab"" and ""Chicken Cottage"" in the London area?",B,10.97,17.65,11.31,14.69
+419,"What is the distance between ""Baba Tang"" and ""Western Union"" in the London area?",C,2.95,11.58,4.06,1.73
+420,"What is the distance between ""The Old Fire Station"" and ""Santander"" in the London area?",A,6.03,12.1,10.27,12.16
+421,"What is the distance between ""The Kensington Orthodontic Clinic"" and ""The Alma"" in the London area?",A,13.5,16.36,16.29,6.02
+422,"What is the distance between ""Old Chang Kee"" and ""Bar Américain"" in the London area?",C,8.79,5.41,0.95,7.63
+423,"What is the distance between ""HSBC UK"" and ""Holiday Inn Express - Stratford"" in the London area?",C,9.53,16.36,10.68,15.59
+424,"What is the distance between ""London Fields"" and ""HM Revenue & Customs"" in the London area?",D,7.99,2.55,3.86,5.21
+425,"What is the distance between ""Winsland Street"" and ""Sister's Place"" in the London area?",C,5.81,0.82,6.89,10.07
+426,"What is the distance between ""The Colonnades"" and ""Holland Park Day Nursery and Preschool"" in the London area?",C,13.46,10.74,8.79,2.29
+427,"What is the distance between ""Giovanni's"" and ""Heip Phat"" in the London area?",D,6.86,1.33,7.09,3.26
+428,"What is the distance between ""Wandsworth Rd, Isley Court"" and ""The Gojk"" in the London area?",A,4.11,10.87,6.79,9.2
+429,"What is the distance between ""The Hanover Arms"" and ""The Masque Haunt"" in the London area?",D,8.58,3.14,9.02,5.12
+430,"What is the distance between ""University College London"" and ""Tannery Arts"" in the London area?",D,6.35,5.95,5.41,4.31
+431,"What is the distance between ""game of graces"" and ""40 Leadenhall Street"" in the London area?",D,5.88,10.06,7.96,2.18
+432,"What is the distance between ""The Café at Foyles"" and ""Malmesbury Road"" in the London area?",D,10.0,2.86,13.26,7.31
+433,"What is the distance between ""The Bell"" and ""ICON College"" in the London area?",A,3.5,6.86,6.8,5.67
+434,"What is the distance between ""Granier Bakery Cafe"" and ""Euro Car Park"" in the London area?",D,2.26,6.04,7.09,1.18
+435,"What is the distance between ""Holiday Inn Express - Stratford"" and ""Hilton London Euston"" in the London area?",C,9.71,6.97,8.79,7.79
+436,"What is the distance between ""West Ham Baptist Tabernacle"" and ""Baba Tang"" in the London area?",A,8.54,11.15,2.65,4.72
+437,"What is the distance between ""Fox on the Green"" and ""H.R. Higgins (Coffee-man) Ltd."" in the London area?",D,6.63,11.78,10.98,4.22
+438,"What is the distance between ""Cartwright Gardens"" and ""Two Create Studio"" in the London area?",C,10.51,1.77,5.01,8.12
+439,"What is the distance between ""Hammersmith Library"" and ""The Garden Gate"" in the London area?",B,8.82,7.8,13.08,14.1
+440,"What is the distance between ""Mare Street Market Deli"" and ""Twins Kebab"" in the London area?",B,11.6,9.52,15.54,4.95
+441,"What is the distance between ""The Hayden"" and ""Turtle Bay"" in the London area?",B,0.99,8.74,13.66,14.6
+442,"What is the distance between ""The Crooked Well"" and ""TRAID"" in the London area?",A,4.56,6.16,12.22,6.01
+443,"What is the distance between ""Café Chula"" and ""Mimi's Deli"" in the London area?",B,13.05,7.13,4.66,3.36
+444,"What is the distance between ""Malmesbury Road"" and ""Bupa Dental Care"" in the London area?",C,6.86,0.71,2.55,10.53
+445,"What is the distance between ""Buns & Buns"" and ""Taka"" in the London area?",A,1.74,8.61,7.25,4.61
+446,"What is the distance between ""The Cavendish School"" and ""25 Trego Road"" in the London area?",A,8.32,15.98,12.7,0.74
+447,"What is the distance between ""Blank Street Coffee"" and ""Wandsworth Rd, Isley Court"" in the London area?",D,3.02,10.52,9.27,6.03
+448,"What is the distance between ""Yeda"" and ""Villas Nursery"" in the London area?",B,12.7,5.52,2.36,8.02
+449,"What is the distance between ""The Centre for Better Health"" and ""Commodore House"" in the London area?",C,7.17,11.54,12.66,20.15
+450,"What is the distance between ""Norfolk Mansions"" and ""28West"" in the London area?",C,15.01,7.08,8.43,13.19
+451,"What is the distance between ""QMotion Sport & Fitness Centre"" and ""King Kebab & Pizza"" in the London area?",B,8.95,4.18,1.45,2.7
+452,"What is the distance between ""All Bar One Butlers Warf"" and ""Decathlon Bicycle Parking"" in the London area?",D,8.1,6.23,3.16,1.87
+453,"What is the distance between ""Edward Woods Estate"" and ""Mandel House"" in the London area?",C,2.87,8.24,5.21,6.7
+454,"What is the distance between ""Bella Cosa"" and ""Holy Sheep 神羊米線"" in the London area?",C,17.86,11.65,10.27,11.9
+455,"What is the distance between ""Texaco"" and ""The Centre for Better Health"" in the London area?",A,3.87,10.77,1.99,6.14
+456,"What is the distance between ""Hafez"" and ""Lyle's"" in the London area?",D,4.48,12.39,5.85,8.22
+457,"What is the distance between ""Eaton House the Manor"" and ""St George's Square Dog Park"" in the London area?",B,6.97,2.94,4.78,9.36
+458,"What is the distance between ""Dawmouse Brunswick Montessori Nursery"" and ""Kenyon Street Post Office"" in the London area?",A,1.33,4.16,8.45,9.31
+459,"What is the distance between ""The Clock Mill"" and ""inamo"" in the London area?",D,1.4,13.95,1.86,8.95
+460,"What is the distance between ""Currys"" and ""Worldly Wicked & Wise"" in the London area?",C,8.63,8.99,4.91,6.23
+461,"What is the distance between ""Oyster Wharf"" and ""Timpson"" in the London area?",C,9.95,10.95,5.38,0.67
+462,"What is the distance between ""Sugar House Island"" and ""Kapadia"" in the London area?",C,10.5,4.84,3.72,8.26
+463,"What is the distance between ""Saint Mary's Square"" and ""Comet Nursery School and Children's Centre"" in the London area?",D,3.71,13.95,13.14,6.91
+464,"What is the distance between ""7000 Cars Mini Cab & Courier Service"" and ""Tent Cafe"" in the London area?",C,8.85,13.32,9.89,16.46
+465,"What is the distance between ""Micawber House"" and ""Paynton Court"" in the London area?",A,3.29,8.13,9.61,10.35
+466,"What is the distance between ""South Park"" and ""EL&N"" in the London area?",D,11.2,10.26,7.57,4.23
+467,"What is the distance between ""La Tua Pasta"" and ""Betty Blythe"" in the London area?",D,4.92,14.24,3.23,8.84
+468,"What is the distance between ""Travelodge"" and ""Ashfield House"" in the London area?",A,5.53,4.33,8.72,1.57
+469,"What is the distance between ""Os Golfinhos"" and ""Little St Matthias Pre School"" in the London area?",C,13.64,3.01,9.32,5.49
+470,"What is the distance between ""Pret A Manger"" and ""Sheel Pharmacy"" in the London area?",A,6.28,7.96,9.83,12.54
+471,"What is the distance between ""Z Cafe"" and ""Norfolk Mansions"" in the London area?",D,6.98,4.23,2.26,1.31
+472,"What is the distance between ""Kateh"" and ""Mexican Seoul"" in the London area?",D,5.59,12.88,14.68,9.94
+473,"What is the distance between ""Embassy of the Republic of Cuba"" and ""Dartrey Walk"" in the London area?",D,4.27,10.63,9.38,5.4
+474,"What is the distance between ""Bermondsey Larder"" and ""Kings"" in the London area?",A,3.88,9.07,0.59,2.03
+475,"What is the distance between ""The Barbary"" and ""Protein Studios"" in the London area?",D,2.22,6.58,8.35,3.52
+476,"What is the distance between ""St Pancras Renaissance London Hotel"" and ""Cathall Green"" in the London area?",C,3.85,1.77,9.53,7.51
+477,"What is the distance between ""Shell"" and ""Equilibrium"" in the London area?",D,13.95,12.93,10.23,6.11
+478,"What is the distance between ""Vital Ingredient"" and ""Beryl Road"" in the London area?",D,2.79,11.28,15.62,10.1
+479,"What is the distance between ""Rica's Bar & Kitchen"" and ""Docklands Village Nursery"" in the London area?",C,5.44,0.99,2.75,7.11
+480,"What is the distance between ""Uni B"" and ""Sam's Chicken"" in the London area?",B,8.01,9.35,4.49,5.32
+481,"What is the distance between ""Kilburn Dental Studio"" and ""The Monocle Café"" in the London area?",C,10.2,9.78,3.7,1.0
+482,"What is the distance between ""South Lambeth Post Office"" and ""Love Shack"" in the London area?",A,8.27,3.29,5.9,2.05
+483,"What is the distance between ""Hackney Tuition Centre"" and ""Flip & Sear"" in the London area?",A,5.08,2.91,4.03,11.34

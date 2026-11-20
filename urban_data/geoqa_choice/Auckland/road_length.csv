@@ -1,0 +1,584 @@
+,A,B,C,D,answer,E,question
+0,1090.0,21800.0,3270.0,10900.0,D,32700.0,How long is Northwestern Motorway in the Auckland area?
+1,1600.0,16000.0,32000.0,4800.0,B,48000.0,How long is Auckland Southern Motorway in the Auckland area?
+2,100.0,200.0,400.0,100.0,B,600.0,How long is Mangere Bridge in the Auckland area?
+3,1080.0,10800.0,32400.0,21600.0,B,3240.0,How long is Southwestern Motorway in the Auckland area?
+4,110.0,3300.0,330.0,2200.0,E,1100.0,How long is Cook Street in the Auckland area?
+5,300.0,100.0,100.0,100.0,D,200.0,How long is Sam Wrigley Street in the Auckland area?
+6,240.0,100.0,1600.0,2400.0,E,800.0,How long is Pompallier Terrace in the Auckland area?
+7,100.0,800.0,400.0,1200.0,C,120.0,How long is Redmond Street in the Auckland area?
+8,1200.0,100.0,800.0,400.0,D,120.0,How long is Rimu Road in the Auckland area?
+9,270.0,100.0,900.0,2700.0,C,1800.0,How long is Wellesley Street East in the Auckland area?
+10,4200.0,1260.0,12600.0,8400.0,A,420.0,How long is South Eastern Highway in the Auckland area?
+11,510.0,1530.0,10200.0,15300.0,E,5100.0,How long is Mount Wellington Highway in the Auckland area?
+12,550.0,1650.0,11000.0,5500.0,D,16500.0,How long is Ponsonby Road in the Auckland area?
+13,870.0,290.0,8700.0,2900.0,D,5800.0,How long is Saint Lukes Road in the Auckland area?
+14,100.0,200.0,100.0,600.0,B,400.0,How long is Stanley Street in the Auckland area?
+15,100.0,0.0,100.0,0.0,E,0.0,How long is Sturdee Street in the Auckland area?
+16,300.0,100.0,200.0,100.0,E,100.0,How long is Customs Street West in the Auckland area?
+17,300.0,100.0,600.0,100.0,A,900.0,How long is Lower Hobson Street in the Auckland area?
+18,600.0,6000.0,18000.0,12000.0,B,1800.0,How long is Botany Road in the Auckland area?
+19,5200.0,7800.0,780.0,260.0,E,2600.0,How long is Cascades Road in the Auckland area?
+20,12600.0,25200.0,37800.0,3780.0,A,1260.0,How long is Te Irirangi Drive in the Auckland area?
+21,500.0,5000.0,15000.0,10000.0,B,1500.0,How long is Ti Rakau Drive in the Auckland area?
+22,6600.0,3300.0,9900.0,330.0,B,990.0,How long is Wiri Station Road in the Auckland area?
+23,1500.0,4500.0,3000.0,450.0,A,150.0,How long is Manukau Station Road in the Auckland area?
+24,7700.0,2310.0,23100.0,770.0,A,15400.0,How long is Redoubt Road in the Auckland area?
+25,5600.0,280.0,840.0,8400.0,E,2800.0,How long is Quay Street in the Auckland area?
+26,250.0,5000.0,750.0,7500.0,E,2500.0,How long is Pakuranga Highway in the Auckland area?
+27,960.0,9600.0,320.0,6400.0,E,3200.0,How long is Princes Street in the Auckland area?
+28,1300.0,3900.0,130.0,390.0,A,2600.0,How long is Newton Road in the Auckland area?
+29,600.0,100.0,180.0,1800.0,A,1200.0,How long is The Strand in the Auckland area?
+30,0.0,100.0,100.0,0.0,E,0.0,How long is Sudbury Terrace in the Auckland area?
+31,500.0,150.0,1000.0,100.0,A,1500.0,How long is Albert Street in the Auckland area?
+32,270.0,1800.0,2700.0,900.0,D,100.0,How long is Wellington Street in the Auckland area?
+33,15900.0,5300.0,1590.0,530.0,B,10600.0,How long is Highbrook Drive in the Auckland area?
+34,720.0,7200.0,240.0,2400.0,D,4800.0,How long is Grafton Road in the Auckland area?
+35,450.0,150.0,1500.0,3000.0,C,4500.0,How long is Ian McKinnon Drive in the Auckland area?
+36,1910.0,57300.0,19100.0,38200.0,C,5730.0,How long is Great North Road in the Auckland area?
+37,2700.0,5400.0,8100.0,810.0,A,270.0,How long is Crummer Road in the Auckland area?
+38,690.0,6900.0,4600.0,2300.0,D,230.0,How long is Green Lane East in the Auckland area?
+39,3200.0,1600.0,480.0,4800.0,B,160.0,How long is Tom Pearce Drive in the Auckland area?
+40,400.0,100.0,200.0,100.0,C,600.0,How long is Ray Emery Drive in the Auckland area?
+41,2100.0,4200.0,630.0,6300.0,A,210.0,How long is Vine Street in the Auckland area?
+42,500.0,1500.0,1000.0,100.0,A,150.0,How long is Farmer Street in the Auckland area?
+43,420.0,4200.0,2800.0,140.0,E,1400.0,How long is Tennessee Avenue in the Auckland area?
+44,170.0,3400.0,1700.0,5100.0,C,510.0,How long is Wickman Way in the Auckland area?
+45,9300.0,310.0,3100.0,6200.0,C,930.0,How long is Ellerslie-Panmure Highway in the Auckland area?
+46,5700.0,3800.0,1900.0,190.0,C,570.0,How long is Clonbern Road in the Auckland area?
+47,1890.0,630.0,6300.0,12600.0,C,18900.0,How long is George Bolt Memorial Drive in the Auckland area?
+48,3300.0,2200.0,1100.0,330.0,C,110.0,How long is Fanshawe Street in the Auckland area?
+49,1410.0,470.0,14100.0,9400.0,E,4700.0,How long is Waipuna Road in the Auckland area?
+50,100.0,0.0,100.0,0.0,E,0.0,How long is Aylesbury Street in the Auckland area?
+51,0.0,0.0,100.0,0.0,D,100.0,How long is Amera Place in the Auckland area?
+52,2400.0,240.0,4800.0,720.0,A,7200.0,How long is Ormiston Road in the Auckland area?
+53,1600.0,2400.0,100.0,800.0,D,240.0,How long is Ronwood Avenue in the Auckland area?
+54,2160.0,64800.0,6480.0,21600.0,D,43200.0,How long is Great South Road in the Auckland area?
+55,490.0,4900.0,14700.0,9800.0,B,1470.0,How long is Neilson Street in the Auckland area?
+56,10400.0,15600.0,1560.0,5200.0,D,520.0,How long is Cavendish Drive in the Auckland area?
+57,100.0,0.0,0.0,0.0,D,100.0,How long is Laidlaw Way in the Auckland area?
+58,860.0,8600.0,25800.0,2580.0,B,17200.0,How long is East Tamaki Road in the Auckland area?
+59,19200.0,2880.0,9600.0,960.0,C,28800.0,How long is Church Street in the Auckland area?
+60,20100.0,670.0,2010.0,6700.0,D,13400.0,How long is Pakuranga Road in the Auckland area?
+61,210.0,630.0,6300.0,4200.0,E,2100.0,How long is Kepa Road in the Auckland area?
+62,300.0,200.0,100.0,100.0,E,100.0,How long is Gloucester Park Road in the Auckland area?
+63,1120.0,22400.0,11200.0,3360.0,C,33600.0,How long is Puhinui Road in the Auckland area?
+64,1200.0,600.0,1800.0,100.0,B,180.0,How long is Queens Road in the Auckland area?
+65,3800.0,380.0,1140.0,11400.0,A,7600.0,How long is Jellicoe Road in the Auckland area?
+66,10200.0,6800.0,340.0,3400.0,D,1020.0,How long is Kirkbride Road in the Auckland area?
+67,4800.0,480.0,1600.0,160.0,C,3200.0,How long is Ascot Road in the Auckland area?
+68,100.0,2100.0,210.0,1400.0,E,700.0,How long is Auckland Northern Motorway in the Auckland area?
+69,540.0,1800.0,3600.0,180.0,B,5400.0,How long is Te Kapua Drive in the Auckland area?
+70,1800.0,900.0,100.0,2700.0,B,270.0,How long is Landing Drive in the Auckland area?
+71,240.0,720.0,7200.0,4800.0,E,2400.0,How long is Somerset Road in the Auckland area?
+72,1200.0,600.0,100.0,1800.0,B,180.0,How long is Ara Tai in the Auckland area?
+73,2300.0,6900.0,230.0,690.0,A,4600.0,How long is Vincent Street in the Auckland area?
+74,2000.0,300.0,100.0,1000.0,D,3000.0,How long is Union Road in the Auckland area?
+75,3300.0,2200.0,1100.0,330.0,C,110.0,How long is Curran Street in the Auckland area?
+76,160.0,480.0,4800.0,1600.0,D,3200.0,How long is Walford Road in the Auckland area?
+77,600.0,1800.0,100.0,180.0,A,1200.0,How long is Daldy Street in the Auckland area?
+78,100.0,270.0,1800.0,2700.0,E,900.0,How long is Bleakhouse Road in the Auckland area?
+79,230.0,690.0,6900.0,4600.0,E,2300.0,How long is Orangewood Drive in the Auckland area?
+80,820.0,2460.0,24600.0,16400.0,E,8200.0,How long is Blockhouse Bay Road in the Auckland area?
+81,1100.0,330.0,2200.0,110.0,A,3300.0,How long is Wallace Street in the Auckland area?
+82,600.0,4000.0,6000.0,200.0,E,2000.0,How long is Kupe Street in the Auckland area?
+83,250.0,750.0,2500.0,7500.0,C,5000.0,How long is Hattaway Avenue in the Auckland area?
+84,170.0,510.0,3400.0,5100.0,E,1700.0,How long is Brains Road in the Auckland area?
+85,6600.0,2200.0,220.0,4400.0,B,660.0,How long is Gracechurch Drive in the Auckland area?
+86,3600.0,1200.0,360.0,120.0,B,2400.0,How long is Konini Avenue in the Auckland area?
+87,3900.0,2600.0,390.0,1300.0,D,130.0,How long is Rowandale Avenue in the Auckland area?
+88,3000.0,150.0,4500.0,1500.0,D,450.0,How long is Saint Leonards Road in the Auckland area?
+89,500.0,1000.0,150.0,1500.0,A,100.0,How long is West Coast Road in the Auckland area?
+90,12300.0,4100.0,1230.0,8200.0,B,410.0,How long is Point Chevalier Road in the Auckland area?
+91,4500.0,13500.0,1350.0,450.0,A,9000.0,How long is Hill Road in the Auckland area?
+92,800.0,2400.0,1600.0,240.0,A,100.0,How long is Fellbrook Street in the Auckland area?
+93,5000.0,750.0,2500.0,250.0,C,7500.0,How long is Meadowbank Road in the Auckland area?
+94,300.0,200.0,100.0,100.0,E,100.0,How long is Magic Way in the Auckland area?
+95,1100.0,2200.0,3300.0,330.0,A,110.0,How long is Beaumont Street in the Auckland area?
+96,240.0,1600.0,100.0,800.0,D,2400.0,How long is Kerrykeel Drive in the Auckland area?
+97,3600.0,5400.0,180.0,540.0,E,1800.0,How long is Millhouse Drive in the Auckland area?
+98,520.0,5200.0,1560.0,10400.0,B,15600.0,How long is Godley Road in the Auckland area?
+99,2300.0,230.0,4600.0,6900.0,A,690.0,How long is Otara Road in the Auckland area?
+100,4800.0,7200.0,240.0,720.0,E,2400.0,How long is Maich Road in the Auckland area?
+101,3500.0,1050.0,7000.0,350.0,A,10500.0,How long is Reeves Road in the Auckland area?
+102,400.0,100.0,200.0,600.0,C,100.0,How long is Jutland Road in the Auckland area?
+103,2000.0,4000.0,600.0,6000.0,A,200.0,How long is Morrin Road in the Auckland area?
+104,3200.0,4800.0,1600.0,160.0,C,480.0,How long is Saint Stephens Avenue in the Auckland area?
+105,460.0,1380.0,13800.0,9200.0,E,4600.0,How long is Titirangi Road in the Auckland area?
+106,1500.0,150.0,450.0,3000.0,A,4500.0,How long is Stancombe Road in the Auckland area?
+107,3000.0,100.0,2000.0,300.0,E,1000.0,How long is Ridge Road in the Auckland area?
+108,180.0,5400.0,3600.0,1800.0,D,540.0,How long is Alfriston Road in the Auckland area?
+109,7400.0,14800.0,2220.0,22200.0,A,740.0,How long is Chapel Road in the Auckland area?
+110,2700.0,1800.0,100.0,270.0,E,900.0,How long is Porchester Road in the Auckland area?
+111,1500.0,500.0,150.0,1000.0,B,100.0,How long is Nelson Street in the Auckland area?
+112,700.0,1400.0,2100.0,210.0,A,100.0,How long is Shelly Beach Road in the Auckland area?
+113,600.0,4000.0,2000.0,6000.0,C,200.0,How long is Ranfurly Road in the Auckland area?
+114,7800.0,3900.0,11700.0,390.0,B,1170.0,How long is Russell Road in the Auckland area?
+115,2200.0,330.0,110.0,3300.0,E,1100.0,How long is Halsey Street in the Auckland area?
+116,2600.0,3900.0,390.0,1300.0,D,130.0,How long is Croydon Road in the Auckland area?
+117,300.0,600.0,900.0,100.0,A,100.0,How long is Pakenham Street West in the Auckland area?
+118,9600.0,3200.0,6400.0,960.0,B,320.0,How long is Flat Bush School Road in the Auckland area?
+119,900.0,2700.0,1800.0,100.0,A,270.0,How long is Karangahape Road in the Auckland area?
+120,100.0,600.0,180.0,1800.0,B,1200.0,How long is Grafton Bridge in the Auckland area?
+121,1800.0,900.0,2700.0,270.0,B,100.0,How long is Symonds Street in the Auckland area?
+122,3000.0,1000.0,300.0,100.0,B,2000.0,How long is Park Road in the Auckland area?
+123,4500.0,3000.0,450.0,150.0,E,1500.0,How long is Hopetoun Street in the Auckland area?
+124,100.0,300.0,100.0,200.0,E,100.0,How long is Pitt Street in the Auckland area?
+125,240.0,7200.0,4800.0,720.0,E,2400.0,How long is Lagoon Drive in the Auckland area?
+126,8400.0,5600.0,2800.0,280.0,C,840.0,How long is Ireland Road in the Auckland area?
+127,1440.0,480.0,4800.0,14400.0,C,9600.0,How long is Richmond Road in the Auckland area?
+128,100.0,1500.0,500.0,1000.0,C,150.0,How long is Picton Street in the Auckland area?
+129,300.0,100.0,600.0,900.0,A,100.0,How long is Gaunt Street in the Auckland area?
+130,1100.0,330.0,110.0,3300.0,A,2200.0,How long is Miller Road in the Auckland area?
+131,3600.0,1800.0,540.0,180.0,B,5400.0,How long is Walmsley Road in the Auckland area?
+132,870.0,2900.0,5800.0,8700.0,B,290.0,How long is Coronation Road in the Auckland area?
+133,4000.0,2000.0,600.0,200.0,B,6000.0,How long is McKenzie Road in the Auckland area?
+134,5200.0,2600.0,260.0,780.0,B,7800.0,How long is Massey Road in the Auckland area?
+135,3800.0,190.0,5700.0,570.0,E,1900.0,How long is Skipton Street in the Auckland area?
+136,6600.0,9900.0,3300.0,330.0,C,990.0,How long is Robertson Road in the Auckland area?
+137,180.0,540.0,3600.0,5400.0,E,1800.0,How long is Green Lane West in the Auckland area?
+138,4500.0,1500.0,450.0,3000.0,B,150.0,How long is Wheturangi Road in the Auckland area?
+139,7500.0,750.0,2500.0,5000.0,C,250.0,How long is Wapiti Avenue in the Auckland area?
+140,6600.0,3300.0,330.0,9900.0,B,990.0,How long is Tawa Road in the Auckland area?
+141,1700.0,5100.0,3400.0,510.0,A,170.0,How long is Rawhiti Road in the Auckland area?
+142,170.0,5100.0,510.0,1700.0,D,3400.0,How long is Prince Regent Drive in the Auckland area?
+143,510.0,3400.0,5100.0,170.0,E,1700.0,How long is Sunderlands Road in the Auckland area?
+144,2100.0,4200.0,6300.0,210.0,A,630.0,How long is Pigeon Mountain Road in the Auckland area?
+145,4800.0,480.0,3200.0,1600.0,D,160.0,How long is Maioro Street in the Auckland area?
+146,6500.0,13000.0,1950.0,650.0,A,19500.0,How long is Richardson Road in the Auckland area?
+147,100.0,200.0,300.0,100.0,E,100.0,How long is Alex Evans Street in the Auckland area?
+148,150.0,100.0,1500.0,500.0,D,1000.0,How long is Upper Queen Street in the Auckland area?
+149,3900.0,1300.0,130.0,2600.0,B,390.0,How long is Mays Road in the Auckland area?
+150,4500.0,3000.0,450.0,1500.0,D,150.0,How long is Captain Springs Road in the Auckland area?
+151,5100.0,170.0,3400.0,510.0,E,1700.0,How long is Trafalgar Street in the Auckland area?
+152,5200.0,780.0,7800.0,2600.0,D,260.0,How long is Selwyn Street in the Auckland area?
+153,100.0,900.0,600.0,100.0,E,300.0,How long is Dannemora Drive in the Auckland area?
+154,5500.0,11000.0,16500.0,1650.0,A,550.0,How long is Bucklands Beach Road in the Auckland area?
+155,13000.0,19500.0,1950.0,6500.0,D,650.0,How long is Aviemore Drive in the Auckland area?
+156,3400.0,10200.0,6800.0,1020.0,A,340.0,How long is Mount Eden Road in the Auckland area?
+157,400.0,800.0,100.0,120.0,A,1200.0,How long is Warren Avenue in the Auckland area?
+158,13500.0,1350.0,4500.0,9000.0,C,450.0,How long is Mount Albert Road in the Auckland area?
+159,4500.0,1500.0,450.0,150.0,B,3000.0,How long is Taylors Road in the Auckland area?
+160,800.0,100.0,240.0,1600.0,A,2400.0,How long is Sainsbury Road in the Auckland area?
+161,8400.0,5600.0,840.0,280.0,E,2800.0,How long is Sandringham Road in the Auckland area?
+162,1200.0,600.0,100.0,180.0,B,1800.0,How long is Bond Street in the Auckland area?
+163,16200.0,1620.0,10800.0,5400.0,D,540.0,How long is New North Road in the Auckland area?
+164,2200.0,4400.0,660.0,220.0,A,6600.0,How long is Balmoral Road in the Auckland area?
+165,3300.0,6600.0,9900.0,330.0,A,990.0,How long is Landscape Road in the Auckland area?
+166,480.0,1440.0,14400.0,4800.0,D,9600.0,How long is Portage Road in the Auckland area?
+167,900.0,100.0,600.0,300.0,D,100.0,How long is Clark Street in the Auckland area?
+168,2100.0,700.0,210.0,1400.0,B,100.0,How long is Wolverton Street in the Auckland area?
+169,280.0,5600.0,8400.0,840.0,E,2800.0,How long is Smales Road in the Auckland area?
+170,290.0,2900.0,5800.0,870.0,B,8700.0,How long is Kilkenny Drive in the Auckland area?
+171,4200.0,1400.0,420.0,2800.0,B,140.0,How long is Verissimo Drive in the Auckland area?
+172,3000.0,4500.0,450.0,1500.0,D,150.0,How long is Sandringham Road Extension in the Auckland area?
+173,19500.0,1950.0,6500.0,13000.0,C,650.0,How long is Bairds Road in the Auckland area?
+174,7800.0,260.0,2600.0,780.0,C,5200.0,How long is Beach Road in the Auckland area?
+175,210.0,2100.0,700.0,100.0,C,1400.0,How long is Parnell Rise in the Auckland area?
+176,0.0,100.0,0.0,100.0,E,0.0,How long is Hugh Brown Drive in the Auckland area?
+177,600.0,100.0,300.0,900.0,C,100.0,How long is Memorial Drive in the Auckland area?
+178,150.0,1000.0,500.0,100.0,C,1500.0,How long is Anzac Avenue in the Auckland area?
+179,200.0,600.0,400.0,100.0,A,100.0,How long is Waterloo Quadrant in the Auckland area?
+180,400.0,100.0,200.0,100.0,C,600.0,How long is Alten Road in the Auckland area?
+181,270.0,1800.0,900.0,100.0,C,2700.0,How long is Queen Street in the Auckland area?
+182,100.0,300.0,900.0,100.0,B,600.0,How long is Mayoral Drive in the Auckland area?
+183,200.0,6000.0,2000.0,4000.0,C,600.0,How long is Victoria Street West in the Auckland area?
+184,200.0,100.0,300.0,100.0,E,100.0,How long is Victoria Street East in the Auckland area?
+185,5300.0,530.0,1590.0,15900.0,A,10600.0,How long is Manukau Road in the Auckland area?
+186,6300.0,630.0,4200.0,2100.0,D,210.0,How long is Quadrant Road in the Auckland area?
+187,3300.0,110.0,1100.0,2200.0,C,330.0,How long is Galway Street in the Auckland area?
+188,10200.0,1530.0,5100.0,15300.0,C,510.0,How long is Dominion Road in the Auckland area?
+189,120.0,1200.0,360.0,3600.0,B,2400.0,How long is Tuarangi Road in the Auckland area?
+190,1600.0,4800.0,480.0,3200.0,A,160.0,How long is Williamson Avenue in the Auckland area?
+191,3600.0,180.0,540.0,5400.0,E,1800.0,How long is Penrose Road in the Auckland area?
+192,5600.0,2800.0,280.0,840.0,B,8400.0,How long is Portman Road in the Auckland area?
+193,6000.0,600.0,4000.0,200.0,E,2000.0,How long is Gavin Street in the Auckland area?
+194,100.0,3000.0,1000.0,300.0,C,2000.0,How long is Woodward Road in the Auckland area?
+195,2100.0,100.0,1400.0,210.0,E,700.0,How long is Davies Avenue in the Auckland area?
+196,5000.0,15000.0,1500.0,10000.0,A,500.0,How long is Hillsborough Road in the Auckland area?
+197,100.0,150.0,500.0,1500.0,C,1000.0,How long is Griffen Park Road in the Auckland area?
+198,100.0,180.0,600.0,1200.0,C,1800.0,How long is Commodore Drive in the Auckland area?
+199,10500.0,350.0,7000.0,3500.0,D,1050.0,How long is Carbine Road in the Auckland area?
+200,1600.0,100.0,800.0,240.0,C,2400.0,How long is Niall Burgess Road in the Auckland area?
+201,480.0,4800.0,1440.0,14400.0,B,9600.0,How long is Browns Road in the Auckland area?
+202,3300.0,110.0,330.0,2200.0,E,1100.0,How long is Orams Road in the Auckland area?
+203,420.0,1260.0,8400.0,12600.0,E,4200.0,How long is Remuera Road in the Auckland area?
+204,100.0,500.0,1000.0,1500.0,B,150.0,How long is Ascot Avenue in the Auckland area?
+205,1170.0,3900.0,390.0,7800.0,B,11700.0,How long is Orakei Road in the Auckland area?
+206,2800.0,4200.0,140.0,420.0,E,1400.0,How long is Line Road in the Auckland area?
+207,4400.0,8800.0,440.0,1320.0,A,13200.0,How long is Taniwha Street in the Auckland area?
+208,1260.0,420.0,12600.0,8400.0,E,4200.0,How long is Saint Heliers Bay Road in the Auckland area?
+209,2800.0,280.0,8400.0,5600.0,A,840.0,How long is Long Drive in the Auckland area?
+210,3000.0,450.0,1500.0,150.0,C,4500.0,How long is Ashby Avenue in the Auckland area?
+211,4800.0,9600.0,480.0,1440.0,A,14400.0,How long is Saint Andrews Road in the Auckland area?
+212,5100.0,1700.0,3400.0,170.0,B,510.0,How long is The Drive in the Auckland area?
+213,5100.0,170.0,1700.0,3400.0,C,510.0,How long is Ōnehunga Mall in the Auckland area?
+214,6600.0,660.0,4400.0,2200.0,D,220.0,How long is Mount Smart Road in the Auckland area?
+215,290.0,5800.0,2900.0,870.0,C,8700.0,How long is New Windsor Road in the Auckland area?
+216,2100.0,1400.0,100.0,210.0,E,700.0,How long is Chalmers Street in the Auckland area?
+217,3000.0,100.0,2000.0,300.0,E,1000.0,How long is Khyber Pass Road in the Auckland area?
+218,300.0,200.0,100.0,100.0,E,100.0,How long is Nugent Street in the Auckland area?
+219,150.0,1500.0,450.0,3000.0,B,4500.0,How long is Carrington Road in the Auckland area?
+220,990.0,3300.0,6600.0,330.0,B,9900.0,How long is Plunket Avenue in the Auckland area?
+221,3600.0,360.0,7200.0,1080.0,A,10800.0,How long is Arthur Street in the Auckland area?
+222,12800.0,1920.0,640.0,19200.0,E,6400.0,How long is Wallace Road in the Auckland area?
+223,9200.0,4600.0,460.0,13800.0,B,1380.0,How long is Mountain Road in the Auckland area?
+224,1300.0,2600.0,130.0,390.0,A,3900.0,How long is Murphys Road in the Auckland area?
+225,2300.0,230.0,690.0,6900.0,A,4600.0,How long is Golfland Drive in the Auckland area?
+226,140.0,4200.0,2800.0,1400.0,D,420.0,How long is Tarnica Road in the Auckland area?
+227,4800.0,7200.0,720.0,240.0,E,2400.0,How long is Everglade Drive in the Auckland area?
+228,100.0,240.0,800.0,2400.0,C,1600.0,How long is Hollyford Drive in the Auckland area?
+229,7800.0,3900.0,1170.0,390.0,B,11700.0,How long is Thomas Road in the Auckland area?
+230,2100.0,6300.0,4200.0,210.0,A,630.0,How long is Dawson Road in the Auckland area?
+231,100.0,1800.0,1200.0,600.0,D,180.0,How long is Matthews Road in the Auckland area?
+232,8700.0,5800.0,290.0,2900.0,D,870.0,How long is Rata Street in the Auckland area?
+233,900.0,600.0,100.0,300.0,D,100.0,How long is Atkinson Avenue in the Auckland area?
+234,1000.0,3000.0,2000.0,300.0,A,100.0,How long is Accent Drive in the Auckland area?
+235,1170.0,11700.0,7800.0,3900.0,D,390.0,How long is Kerwyn Avenue in the Auckland area?
+236,120.0,3600.0,1200.0,2400.0,C,360.0,How long is Lady Ruby Drive in the Auckland area?
+237,2400.0,100.0,240.0,800.0,D,1600.0,How long is Springs Road in the Auckland area?
+238,510.0,3400.0,170.0,1700.0,D,5100.0,How long is Lambie Drive in the Auckland area?
+239,1800.0,900.0,270.0,100.0,B,2700.0,How long is Reagan Road in the Auckland area?
+240,2100.0,210.0,700.0,100.0,C,1400.0,How long is Walters Road in the Auckland area?
+241,2000.0,3000.0,300.0,100.0,E,1000.0,How long is Valley Road in the Auckland area?
+242,1600.0,100.0,2400.0,800.0,D,240.0,How long is Carr Road in the Auckland area?
+243,1000.0,300.0,2000.0,3000.0,A,100.0,How long is Herd Road in the Auckland area?
+244,220.0,6600.0,2200.0,4400.0,C,660.0,How long is Pah Road in the Auckland area?
+245,120.0,3600.0,2400.0,360.0,E,1200.0,How long is Parker Avenue in the Auckland area?
+246,1800.0,900.0,100.0,270.0,B,2700.0,How long is Market Road in the Auckland area?
+247,2600.0,390.0,1300.0,3900.0,C,130.0,How long is May Road in the Auckland area?
+248,180.0,600.0,1200.0,100.0,B,1800.0,How long is Denbigh Avenue in the Auckland area?
+249,310.0,3100.0,6200.0,930.0,B,9300.0,How long is Stoddard Road in the Auckland area?
+250,160.0,3200.0,4800.0,480.0,E,1600.0,How long is Harris Road in the Auckland area?
+251,240.0,800.0,1600.0,100.0,B,2400.0,How long is Allens Road in the Auckland area?
+252,390.0,3900.0,130.0,2600.0,E,1300.0,How long is Ash Street in the Auckland area?
+253,760.0,22800.0,2280.0,15200.0,E,7600.0,How long is Rosebank Road in the Auckland area?
+254,2400.0,1200.0,360.0,3600.0,B,120.0,How long is Carruth Road in the Auckland area?
+255,1200.0,3600.0,120.0,2400.0,A,360.0,How long is Avenue Road in the Auckland area?
+256,160.0,3200.0,480.0,4800.0,E,1600.0,How long is Saint George Street in the Auckland area?
+257,6600.0,2200.0,4400.0,220.0,B,660.0,How long is Tui Road in the Auckland area?
+258,340.0,10200.0,6800.0,3400.0,D,1020.0,How long is Buckland Road in the Auckland area?
+259,6300.0,2100.0,210.0,630.0,B,4200.0,How long is Onehunga Mall in the Auckland area?
+260,1600.0,240.0,100.0,800.0,D,2400.0,How long is Tiverton Road in the Auckland area?
+261,3200.0,960.0,9600.0,6400.0,A,320.0,How long is Boundary Road in the Auckland area?
+262,110.0,2200.0,3300.0,1100.0,D,330.0,How long is Wellesley Street West in the Auckland area?
+263,7800.0,5200.0,780.0,2600.0,D,260.0,How long is Druces Road in the Auckland area?
+264,1300.0,2600.0,390.0,3900.0,A,130.0,How long is Saint Jude Street in the Auckland area?
+265,2500.0,7500.0,5000.0,250.0,A,750.0,How long is Hutchinson Avenue in the Auckland area?
+266,2000.0,300.0,100.0,1000.0,D,3000.0,How long is Margan Avenue in the Auckland area?
+267,3600.0,2400.0,120.0,1200.0,D,360.0,How long is Stratford Road in the Auckland area?
+268,1080.0,7200.0,10800.0,360.0,E,3600.0,How long is Aberfeldy Avenue in the Auckland area?
+269,2600.0,5200.0,7800.0,780.0,A,260.0,How long is Hutchinsons Road in the Auckland area?
+270,1800.0,600.0,180.0,1200.0,B,100.0,How long is Normanby Road in the Auckland area?
+271,150.0,1500.0,500.0,1000.0,C,100.0,How long is Edwin Street in the Auckland area?
+272,100.0,1200.0,180.0,600.0,D,1800.0,How long is Clive Road in the Auckland area?
+273,0.0,0.0,100.0,0.0,D,100.0,How long is Royal Oak Roundabout in the Auckland area?
+274,9000.0,450.0,4500.0,13500.0,C,1350.0,How long is Campbell Road in the Auckland area?
+275,300.0,100.0,100.0,900.0,A,600.0,How long is Union Street in the Auckland area?
+276,14100.0,470.0,9400.0,4700.0,D,1410.0,How long is Main Highway in the Auckland area?
+277,130.0,390.0,3900.0,2600.0,E,1300.0,How long is Terry Street in the Auckland area?
+278,2400.0,4800.0,720.0,240.0,A,7200.0,How long is Whitney Street in the Auckland area?
+279,1200.0,400.0,12000.0,8000.0,E,4000.0,How long is Bader Drive in the Auckland area?
+280,2400.0,360.0,1200.0,120.0,C,3600.0,How long is Mascot Avenue in the Auckland area?
+281,3300.0,110.0,2200.0,1100.0,D,330.0,How long is Kerrs Road in the Auckland area?
+282,5100.0,3400.0,1700.0,170.0,C,510.0,How long is Gillies Avenue in the Auckland area?
+283,2400.0,360.0,3600.0,1200.0,D,120.0,How long is Owens Road in the Auckland area?
+284,400.0,800.0,120.0,100.0,A,1200.0,How long is Saint Marks Road in the Auckland area?
+285,100.0,300.0,200.0,100.0,E,100.0,How long is Alpers Avenue in the Auckland area?
+286,100.0,180.0,1200.0,600.0,D,1800.0,How long is Broadway in the Auckland area?
+287,3000.0,150.0,1500.0,450.0,C,4500.0,How long is Point England Road in the Auckland area?
+288,100.0,1200.0,800.0,120.0,E,400.0,How long is Hobson Street in the Auckland area?
+289,7200.0,2400.0,4800.0,240.0,B,720.0,How long is Kohimarama Road in the Auckland area?
+290,8200.0,4100.0,1230.0,12300.0,B,410.0,How long is Saint Johns Road in the Auckland area?
+291,3000.0,6000.0,9000.0,900.0,A,300.0,How long is Felton Mathew Avenue in the Auckland area?
+292,120.0,360.0,3600.0,2400.0,E,1200.0,How long is Lunn Avenue in the Auckland area?
+293,490.0,1470.0,14700.0,4900.0,D,9800.0,How long is Marua Road in the Auckland area?
+294,450.0,3000.0,1500.0,150.0,C,4500.0,How long is Stanhope Road in the Auckland area?
+295,9600.0,320.0,3200.0,960.0,C,6400.0,How long is Ladies Mile in the Auckland area?
+296,100.0,800.0,2400.0,1600.0,B,240.0,How long is Robert Street in the Auckland area?
+297,2400.0,1200.0,360.0,120.0,B,3600.0,How long is Seccombes Road in the Auckland area?
+298,2100.0,1400.0,210.0,100.0,E,700.0,How long is Boston Road in the Auckland area?
+299,3900.0,2600.0,1300.0,130.0,C,390.0,How long is Selwyn Road in the Auckland area?
+300,660.0,2200.0,4400.0,6600.0,B,220.0,How long is Empire Road in the Auckland area?
+301,600.0,4000.0,200.0,2000.0,D,6000.0,How long is Hayr Road in the Auckland area?
+302,2200.0,3300.0,330.0,1100.0,D,110.0,How long is Epsom Avenue in the Auckland area?
+303,400.0,600.0,100.0,200.0,D,100.0,How long is Stokes Road in the Auckland area?
+304,400.0,800.0,1200.0,120.0,A,100.0,How long is Campbell Crescent in the Auckland area?
+305,100.0,400.0,1200.0,120.0,B,800.0,How long is Claude Avenue in the Auckland area?
+306,1200.0,600.0,1800.0,180.0,B,100.0,How long is Ferndown Avenue in the Auckland area?
+307,5000.0,7500.0,250.0,2500.0,D,750.0,How long is Park Avenue in the Auckland area?
+308,110.0,2200.0,1100.0,3300.0,C,330.0,How long is Earlsworth Road in the Auckland area?
+309,3000.0,1000.0,300.0,100.0,B,2000.0,How long is Graeme Avenue in the Auckland area?
+310,1600.0,4800.0,480.0,160.0,A,3200.0,How long is Hain Avenue in the Auckland area?
+311,220.0,4400.0,2200.0,660.0,C,6600.0,How long is Gray Avenue in the Auckland area?
+312,100.0,800.0,240.0,2400.0,B,1600.0,How long is Sherbourne Road in the Auckland area?
+313,4200.0,12600.0,1260.0,8400.0,A,420.0,How long is Tripoli Road in the Auckland area?
+314,2000.0,1000.0,300.0,3000.0,B,100.0,How long is Casuarina Road in the Auckland area?
+315,6900.0,230.0,4600.0,2300.0,D,690.0,How long is Bollard Avenue in the Auckland area?
+316,6200.0,3100.0,9300.0,930.0,B,310.0,How long is Bradbury Road in the Auckland area?
+317,3000.0,300.0,2000.0,100.0,E,1000.0,How long is Highland Park Drive in the Auckland area?
+318,1800.0,100.0,2700.0,900.0,D,270.0,How long is Erima Avenue in the Auckland area?
+319,2400.0,360.0,120.0,3600.0,E,1200.0,How long is Donovan Street in the Auckland area?
+320,3400.0,510.0,170.0,5100.0,E,1700.0,How long is Margate Road in the Auckland area?
+321,3400.0,170.0,1700.0,510.0,C,5100.0,How long is White Swan Road in the Auckland area?
+322,480.0,160.0,1600.0,4800.0,C,3200.0,How long is Kimber Hall Avenue in the Auckland area?
+323,4590.0,1530.0,30600.0,15300.0,D,45900.0,How long is Tāmaki Drive in the Auckland area?
+324,2100.0,1400.0,700.0,100.0,C,210.0,How long is Sage Road in the Auckland area?
+325,2300.0,230.0,4600.0,690.0,A,6900.0,How long is Melanesia Road in the Auckland area?
+326,100.0,3000.0,1000.0,2000.0,C,300.0,How long is Vestey Drive in the Auckland area?
+327,3100.0,6200.0,930.0,310.0,A,9300.0,How long is Takutai Avenue in the Auckland area?
+328,1000.0,100.0,1500.0,150.0,E,500.0,How long is Tecoma Street in the Auckland area?
+329,540.0,180.0,5400.0,3600.0,E,1800.0,How long is Maurice Road in the Auckland area?
+330,480.0,4800.0,3200.0,1600.0,D,160.0,How long is Greenpark Road in the Auckland area?
+331,5800.0,870.0,2900.0,8700.0,C,290.0,How long is Rockfield Road in the Auckland area?
+332,5200.0,260.0,2600.0,780.0,C,7800.0,How long is Buckley Road in the Auckland area?
+333,3600.0,5400.0,180.0,1800.0,D,540.0,How long is Waitangi Road in the Auckland area?
+334,1000.0,3000.0,300.0,100.0,A,2000.0,How long is Oranga Avenue in the Auckland area?
+335,3000.0,1000.0,300.0,100.0,B,2000.0,How long is The Avenue in the Auckland area?
+336,10600.0,1590.0,15900.0,530.0,E,5300.0,How long is Halsey Drive in the Auckland area?
+337,160.0,480.0,3200.0,1600.0,D,4800.0,How long is Glass Road in the Auckland area?
+338,130.0,2600.0,3900.0,1300.0,D,390.0,How long is Dominion Road Extension in the Auckland area?
+339,180.0,540.0,1800.0,3600.0,C,5400.0,How long is Shore Road in the Auckland area?
+340,15300.0,5100.0,10200.0,510.0,B,1530.0,How long is Portland Road in the Auckland area?
+341,2800.0,420.0,140.0,4200.0,E,1400.0,How long is Omahu Road in the Auckland area?
+342,150.0,450.0,3000.0,1500.0,D,4500.0,How long is Lillington Road in the Auckland area?
+343,3300.0,2200.0,110.0,330.0,E,1100.0,How long is Kilimanjaro Drive in the Auckland area?
+344,5200.0,260.0,780.0,2600.0,D,7800.0,How long is Gills Road in the Auckland area?
+345,1200.0,100.0,600.0,1800.0,C,180.0,How long is Fortunes Road in the Auckland area?
+346,5000.0,7500.0,750.0,250.0,E,2500.0,How long is Duke Street in the Auckland area?
+347,2800.0,840.0,8400.0,5600.0,A,280.0,How long is McCullough Avenue in the Auckland area?
+348,2700.0,810.0,5400.0,8100.0,A,270.0,How long is Koraha Street in the Auckland area?
+349,6600.0,220.0,660.0,2200.0,D,4400.0,How long is Abbotts Way in the Auckland area?
+350,1500.0,4500.0,150.0,3000.0,A,450.0,How long is Combes Road in the Auckland area?
+351,10500.0,7000.0,1050.0,350.0,E,3500.0,How long is Victoria Avenue in the Auckland area?
+352,3300.0,2200.0,330.0,110.0,E,1100.0,How long is King George Avenue in the Auckland area?
+353,3300.0,1100.0,110.0,330.0,B,2200.0,How long is Benson Road in the Auckland area?
+354,290.0,8700.0,5800.0,870.0,E,2900.0,How long is Ruawai Road in the Auckland area?
+355,270.0,900.0,100.0,1800.0,B,2700.0,How long is Aranui Road in the Auckland area?
+356,2800.0,140.0,1400.0,4200.0,C,420.0,How long is Brighton Road in the Auckland area?
+357,2100.0,4200.0,6300.0,210.0,A,630.0,How long is Gladstone Road in the Auckland area?
+358,100.0,500.0,1000.0,150.0,B,1500.0,How long is Porters Avenue in the Auckland area?
+359,480.0,4800.0,160.0,1600.0,D,3200.0,How long is Morningside Drive in the Auckland area?
+360,3300.0,1100.0,2200.0,330.0,B,110.0,How long is Kitchener Road in the Auckland area?
+361,2100.0,630.0,210.0,4200.0,A,6300.0,How long is Lambeth Road in the Auckland area?
+362,1600.0,4800.0,3200.0,160.0,A,480.0,How long is Euston Road in the Auckland area?
+363,4400.0,2200.0,220.0,660.0,B,6600.0,How long is Allendale Road in the Auckland area?
+364,660.0,2200.0,6600.0,4400.0,B,220.0,How long is O'Donnell Avenue in the Auckland area?
+365,3000.0,300.0,1000.0,2000.0,C,100.0,How long is Beagle Avenue in the Auckland area?
+366,360.0,120.0,2400.0,1200.0,D,3600.0,How long is Jervois Road in the Auckland area?
+367,5800.0,8700.0,2900.0,870.0,C,290.0,How long is Meola Road in the Auckland area?
+368,2800.0,840.0,5600.0,280.0,A,8400.0,How long is Owairaka Avenue in the Auckland area?
+369,600.0,200.0,4000.0,6000.0,E,2000.0,How long is Tarawera Terrace in the Auckland area?
+370,600.0,2000.0,4000.0,6000.0,B,200.0,How long is Grampian Road in the Auckland area?
+371,3100.0,310.0,6200.0,930.0,A,9300.0,How long is Dryden Street in the Auckland area?
+372,660.0,4400.0,6600.0,220.0,E,2200.0,How long is Allum Street in the Auckland area?
+373,1500.0,450.0,4500.0,150.0,A,3000.0,How long is Nikau Road in the Auckland area?
+374,5700.0,1900.0,570.0,190.0,B,3800.0,How long is Ashgrove Road in the Auckland area?
+375,240.0,100.0,800.0,1600.0,C,2400.0,How long is Saleyards Road in the Auckland area?
+376,12400.0,6200.0,18600.0,620.0,B,1860.0,How long is Station Road in the Auckland area?
+377,1400.0,2100.0,700.0,210.0,C,100.0,How long is Hall Avenue in the Auckland area?
+378,1600.0,240.0,2400.0,800.0,D,100.0,How long is Albion Road in the Auckland area?
+379,720.0,7200.0,240.0,2400.0,D,4800.0,How long is Yates Road in the Auckland area?
+380,810.0,5400.0,270.0,8100.0,E,2700.0,How long is Garus Avenue in the Auckland area?
+381,1600.0,4800.0,480.0,3200.0,A,160.0,How long is Friesian Drive in the Auckland area?
+382,3400.0,1700.0,510.0,5100.0,B,170.0,How long is McDonald Street in the Auckland area?
+383,1500.0,450.0,3000.0,4500.0,A,150.0,How long is Wyllie Road in the Auckland area?
+384,1600.0,800.0,2400.0,240.0,B,100.0,How long is Butley Drive in the Auckland area?
+385,270.0,5400.0,810.0,8100.0,E,2700.0,How long is Baverstock Road in the Auckland area?
+386,720.0,4800.0,240.0,2400.0,D,7200.0,How long is Middlefield Drive in the Auckland area?
+387,0.0,100.0,0.0,100.0,E,0.0,How long is Patiki Road Roundabout in the Auckland area?
+388,200.0,4000.0,6000.0,2000.0,D,600.0,How long is Bassett Road in the Auckland area?
+389,3800.0,1900.0,5700.0,190.0,B,570.0,How long is Henley Road in the Auckland area?
+390,2400.0,240.0,800.0,1600.0,C,100.0,How long is Mountain View Road in the Auckland area?
+391,360.0,3600.0,1080.0,10800.0,B,7200.0,How long is Raglan Street in the Auckland area?
+392,3300.0,330.0,2200.0,110.0,E,1100.0,How long is Orly Avenue in the Auckland area?
+393,270.0,900.0,2700.0,100.0,B,1800.0,How long is Jordan Road in the Auckland area?
+394,120.0,800.0,400.0,100.0,C,1200.0,How long is Queenstown Road in the Auckland area?
+395,300.0,100.0,1000.0,2000.0,C,3000.0,How long is Beachcroft Avenue in the Auckland area?
+396,8700.0,870.0,5800.0,2900.0,D,290.0,How long is Mahunga Drive in the Auckland area?
+397,2000.0,1000.0,3000.0,100.0,B,300.0,How long is Kinross Street in the Auckland area?
+398,3600.0,2400.0,360.0,1200.0,D,120.0,How long is Patiki Road in the Auckland area?
+399,100.0,100.0,100.0,200.0,C,300.0,How long is Pīwakawaka Street in the Auckland area?
+400,1700.0,170.0,5100.0,510.0,A,3400.0,How long is Church Road in the Auckland area?
+401,3600.0,1800.0,540.0,180.0,B,5400.0,How long is Fruitvale Road in the Auckland area?
+402,540.0,5400.0,3600.0,180.0,E,1800.0,How long is Western Springs Road in the Auckland area?
+403,100.0,2100.0,210.0,1400.0,E,700.0,How long is Frost Road in the Auckland area?
+404,5400.0,270.0,2700.0,810.0,C,8100.0,How long is Elmdon Street in the Auckland area?
+405,5600.0,840.0,280.0,2800.0,D,8400.0,How long is Parnell Road in the Auckland area?
+406,1800.0,900.0,2700.0,100.0,B,270.0,How long is Carlton Gore Road in the Auckland area?
+407,2000.0,3000.0,100.0,300.0,E,1000.0,How long is Bolton Street in the Auckland area?
+408,8100.0,810.0,2700.0,270.0,C,5400.0,How long is Taylor Street in the Auckland area?
+409,14400.0,9600.0,1440.0,480.0,E,4800.0,How long is Golf Road in the Auckland area?
+410,200.0,4000.0,600.0,2000.0,D,6000.0,How long is Astley Avenue in the Auckland area?
+411,2500.0,5000.0,7500.0,750.0,A,250.0,How long is Gilfillan Street in the Auckland area?
+412,1000.0,150.0,1500.0,500.0,D,100.0,How long is Neville Street in the Auckland area?
+413,180.0,1200.0,100.0,600.0,D,1800.0,How long is Links Road in the Auckland area?
+414,100.0,300.0,2000.0,3000.0,E,1000.0,How long is Islington Avenue in the Auckland area?
+415,100.0,0.0,0.0,100.0,E,0.0,How long is Blockhouse Bay Roundabout in the Auckland area?
+416,4400.0,660.0,220.0,6600.0,E,2200.0,How long is Stottholm Road in the Auckland area?
+417,150.0,1500.0,450.0,3000.0,B,4500.0,How long is Crossfield Road in the Auckland area?
+418,1800.0,100.0,900.0,270.0,C,2700.0,How long is Washington Avenue in the Auckland area?
+419,510.0,3400.0,1700.0,5100.0,C,170.0,How long is Roberta Avenue in the Auckland area?
+420,27900.0,930.0,9300.0,2790.0,C,18600.0,How long is Riddell Road in the Auckland area?
+421,2600.0,390.0,3900.0,130.0,E,1300.0,How long is South Lynn Road in the Auckland area?
+422,660.0,2200.0,6600.0,220.0,B,4400.0,How long is Seabrook Avenue in the Auckland area?
+423,6000.0,600.0,200.0,4000.0,E,2000.0,How long is Glenmore Road in the Auckland area?
+424,750.0,250.0,7500.0,5000.0,E,2500.0,How long is MacLeans Road in the Auckland area?
+425,7200.0,720.0,4800.0,240.0,E,2400.0,How long is Mount Taylor Drive in the Auckland area?
+426,420.0,4200.0,1260.0,8400.0,B,12600.0,How long is Burswood Drive in the Auckland area?
+427,9900.0,3300.0,990.0,6600.0,B,330.0,How long is Apirana Avenue in the Auckland area?
+428,2500.0,7500.0,250.0,5000.0,A,750.0,How long is Gossamer Drive in the Auckland area?
+429,2400.0,240.0,100.0,1600.0,E,800.0,How long is Hepburn Street in the Auckland area?
+430,3300.0,330.0,990.0,6600.0,A,9900.0,How long is Creamery Road in the Auckland area?
+431,800.0,240.0,1600.0,2400.0,A,100.0,How long is Idlewild Avenue in the Auckland area?
+432,780.0,2600.0,7800.0,260.0,B,5200.0,How long is Roscommon Road in the Auckland area?
+433,4600.0,230.0,6900.0,2300.0,D,690.0,How long is Ash Road in the Auckland area?
+434,990.0,6600.0,330.0,9900.0,E,3300.0,How long is Timberly Road in the Auckland area?
+435,200.0,600.0,100.0,100.0,A,400.0,How long is Te Ara Kōrako Drive in the Auckland area?
+436,100.0,300.0,1000.0,3000.0,C,2000.0,How long is Saint Georges Road in the Auckland area?
+437,510.0,5100.0,3400.0,170.0,E,1700.0,How long is Delta Avenue in the Auckland area?
+438,2200.0,110.0,3300.0,330.0,E,1100.0,How long is Reid Road in the Auckland area?
+439,510.0,170.0,1700.0,5100.0,C,3400.0,How long is Jack Conway Avenue in the Auckland area?
+440,100.0,100.0,600.0,400.0,E,200.0,How long is Tangihua Street in the Auckland area?
+441,6600.0,660.0,220.0,4400.0,E,2200.0,How long is Neales Road in the Auckland area?
+442,930.0,3100.0,6200.0,310.0,B,9300.0,How long is Cryers Road in the Auckland area?
+443,200.0,100.0,100.0,300.0,E,100.0,How long is Sharkey Street in the Auckland area?
+444,800.0,1200.0,100.0,120.0,E,400.0,How long is Omagh Avenue in the Auckland area?
+445,6600.0,4400.0,660.0,2200.0,D,220.0,How long is Flat Bush Road in the Auckland area?
+446,450.0,3000.0,4500.0,150.0,E,1500.0,How long is Kolmar Road in the Auckland area?
+447,1200.0,120.0,3600.0,2400.0,A,360.0,How long is Sutton Crescent in the Auckland area?
+448,300.0,1000.0,3000.0,100.0,B,2000.0,How long is Hellabys Road in the Auckland area?
+449,250.0,7500.0,5000.0,750.0,E,2500.0,How long is Preston Road in the Auckland area?
+450,100.0,400.0,800.0,1200.0,B,120.0,How long is Beatty Avenue in the Auckland area?
+451,4800.0,480.0,160.0,1600.0,D,3200.0,How long is Upland Road in the Auckland area?
+452,900.0,2700.0,100.0,1800.0,A,270.0,How long is Wilmay Avenue in the Auckland area?
+453,0.0,0.0,0.0,100.0,C,100.0,How long is Avondale Roundabout in the Auckland area?
+454,800.0,1200.0,120.0,400.0,D,100.0,How long is Sylvia Park Road in the Auckland area?
+455,1080.0,7200.0,3600.0,10800.0,C,360.0,How long is Pilkington Road in the Auckland area?
+456,1200.0,2400.0,3600.0,120.0,A,360.0,How long is Felix Street in the Auckland area?
+457,0.0,100.0,0.0,100.0,E,0.0,How long is Inwood Street in the Auckland area?
+458,2800.0,1400.0,140.0,420.0,B,4200.0,How long is West End Road in the Auckland area?
+459,4400.0,6600.0,220.0,660.0,E,2200.0,How long is Grande Vue Road in the Auckland area?
+460,4200.0,630.0,210.0,6300.0,E,2100.0,How long is David Avenue in the Auckland area?
+461,100.0,0.0,0.0,100.0,E,0.0,How long is Highbrook Roundabout in the Auckland area?
+462,3000.0,100.0,2000.0,1000.0,D,300.0,How long is Huia Road in the Auckland area?
+463,420.0,4200.0,140.0,2800.0,E,1400.0,How long is Pembroke Street in the Auckland area?
+464,3300.0,330.0,1100.0,110.0,C,2200.0,How long is Earl Richardson Avenue in the Auckland area?
+465,2800.0,140.0,420.0,1400.0,D,4200.0,How long is Hobill Avenue in the Auckland area?
+466,6900.0,690.0,2300.0,230.0,C,4600.0,How long is Greenmount Drive in the Auckland area?
+467,6200.0,930.0,310.0,9300.0,E,3100.0,How long is College Road in the Auckland area?
+468,300.0,100.0,200.0,100.0,E,100.0,How long is Stonefields Avenue in the Auckland area?
+469,180.0,1200.0,100.0,600.0,D,1800.0,How long is Frank Grey Place in the Auckland area?
+470,690.0,4600.0,230.0,6900.0,E,2300.0,How long is Ngapipi Road in the Auckland area?
+471,1100.0,2200.0,110.0,3300.0,A,330.0,How long is Walls Road in the Auckland area?
+472,780.0,260.0,5200.0,2600.0,D,7800.0,How long is Hendon Avenue in the Auckland area?
+473,810.0,5400.0,8100.0,270.0,E,2700.0,How long is Patteson Avenue in the Auckland area?
+474,1800.0,100.0,2700.0,270.0,E,900.0,How long is View Road in the Auckland area?
+475,1400.0,2100.0,210.0,100.0,E,700.0,How long is Esplanade Road in the Auckland area?
+476,600.0,6000.0,2000.0,4000.0,C,200.0,How long is Alberton Avenue in the Auckland area?
+477,3100.0,930.0,310.0,6200.0,A,9300.0,How long is Eugenia Rise in the Auckland area?
+478,10000.0,1500.0,500.0,15000.0,E,5000.0,How long is Charles Prevost Drive in the Auckland area?
+479,190.0,5700.0,3800.0,1900.0,D,570.0,How long is Hillcrest Road in the Auckland area?
+480,320.0,3200.0,960.0,9600.0,B,6400.0,How long is Jimmy Ward Crescent in the Auckland area?
+481,100.0,100.0,600.0,900.0,E,300.0,How long is Brookview Drive in the Auckland area?
+482,14100.0,9400.0,470.0,1410.0,E,4700.0,How long is Johnstones Road in the Auckland area?
+483,360.0,3600.0,120.0,1200.0,D,2400.0,How long is Noel Burnside Road in the Auckland area?
+484,2000.0,6000.0,600.0,200.0,A,4000.0,How long is Favona Road in the Auckland area?
+485,300.0,900.0,9000.0,3000.0,D,6000.0,How long is Wakefield Road in the Auckland area?
+486,190.0,1900.0,5700.0,3800.0,B,570.0,How long is Diorella Drive in the Auckland area?
+487,2100.0,210.0,6300.0,4200.0,A,630.0,How long is Shirley Road in the Auckland area?
+488,100.0,210.0,1400.0,700.0,D,2100.0,How long is Howe Street in the Auckland area?
+489,100.0,0.0,0.0,100.0,E,0.0,How long is Business Parade South in the Auckland area?
+490,1200.0,3600.0,2400.0,120.0,A,360.0,How long is Elstree Avenue in the Auckland area?
+491,1300.0,390.0,3900.0,2600.0,A,130.0,How long is Fowlds Avenue in the Auckland area?
+492,600.0,200.0,4000.0,6000.0,E,2000.0,How long is Asquith Avenue in the Auckland area?
+493,150.0,500.0,100.0,1000.0,B,1500.0,How long is Wakefield Street in the Auckland area?
+494,750.0,7500.0,2500.0,250.0,C,5000.0,How long is Victoria Street in the Auckland area?
+495,2200.0,110.0,3300.0,1100.0,D,330.0,How long is Surrey Crescent in the Auckland area?
+496,800.0,100.0,2400.0,240.0,A,1600.0,How long is Old Mill Road in the Auckland area?
+497,800.0,120.0,1200.0,100.0,E,400.0,How long is Bullock Track in the Auckland area?
+498,3000.0,2000.0,100.0,300.0,E,1000.0,How long is Franklin Road in the Auckland area?
+499,4800.0,9600.0,14400.0,1440.0,A,480.0,How long is Leonard Road in the Auckland area?
+500,10200.0,6800.0,3400.0,1020.0,C,340.0,How long is Barrack Road in the Auckland area?
+501,2200.0,110.0,3300.0,1100.0,D,330.0,How long is Maskell Street in the Auckland area?
+502,540.0,5400.0,180.0,1800.0,D,3600.0,How long is Vale Road in the Auckland area?
+503,10200.0,3400.0,1020.0,340.0,B,6800.0,How long is West Tāmaki Road in the Auckland area?
+504,170.0,510.0,1700.0,3400.0,C,5100.0,How long is Victor Street in the Auckland area?
+505,210.0,630.0,4200.0,6300.0,E,2100.0,How long is Riversdale Road in the Auckland area?
+506,1200.0,100.0,180.0,600.0,D,1800.0,How long is Binsted Road in the Auckland area?
+507,12000.0,400.0,4000.0,8000.0,C,1200.0,How long is Rimu Street in the Auckland area?
+508,5100.0,510.0,1700.0,3400.0,C,170.0,How long is Ferguson Road in the Auckland area?
+509,9600.0,320.0,3200.0,6400.0,C,960.0,How long is Savill Drive in the Auckland area?
+510,3600.0,1800.0,180.0,540.0,B,5400.0,How long is Othello Drive in the Auckland area?
+511,180.0,1800.0,1200.0,100.0,E,600.0,How long is Trugood Drive in the Auckland area?
+512,2300.0,230.0,4600.0,690.0,A,6900.0,How long is O'Rorke Road in the Auckland area?
+513,2500.0,750.0,250.0,7500.0,A,5000.0,How long is John Street in the Auckland area?
+514,150.0,100.0,1500.0,500.0,D,1000.0,How long is Rankin Avenue in the Auckland area?
+515,5800.0,8700.0,870.0,290.0,E,2900.0,How long is Te Horeta Road in the Auckland area?
+516,100.0,0.0,100.0,0.0,E,0.0,How long is Alex Boyd Link in the Auckland area?
+517,5400.0,1800.0,180.0,3600.0,B,540.0,How long is Kenderdine Road in the Auckland area?
+518,2700.0,5400.0,810.0,8100.0,A,270.0,How long is Reihana Street in the Auckland area?
+519,4800.0,240.0,2400.0,7200.0,C,720.0,How long is Ngaiwi Street in the Auckland area?
+520,300.0,100.0,100.0,200.0,E,100.0,How long is Coates Avenue in the Auckland area?
+521,360.0,2400.0,120.0,3600.0,E,1200.0,How long is Mangere Road in the Auckland area?
+522,120.0,1200.0,360.0,3600.0,B,2400.0,How long is Clemow Drive in the Auckland area?
+523,2600.0,3900.0,130.0,390.0,E,1300.0,How long is Garnet Road in the Auckland area?
+524,420.0,2800.0,140.0,4200.0,E,1400.0,How long is William Denny Avenue in the Auckland area?
+525,5400.0,180.0,1800.0,540.0,C,3600.0,How long is Hospital Road in the Auckland area?
+526,100.0,2400.0,800.0,240.0,C,1600.0,How long is Sir William Avenue in the Auckland area?
+527,3100.0,6200.0,310.0,930.0,A,9300.0,How long is Richard Pearse Drive in the Auckland area?
+528,780.0,2600.0,5200.0,7800.0,B,260.0,How long is Montgomerie Road in the Auckland area?
+529,33300.0,11100.0,3330.0,1110.0,B,22200.0,How long is Ōruarangi Road in the Auckland area?
+530,2200.0,4400.0,6600.0,220.0,A,660.0,How long is Kensington Avenue in the Auckland area?
+531,100.0,150.0,1500.0,1000.0,E,500.0,How long is Parawai Crescent in the Auckland area?
+532,1800.0,100.0,1200.0,180.0,E,600.0,How long is Ayr Street in the Auckland area?
+533,2200.0,110.0,330.0,3300.0,E,1100.0,How long is Matipo Street in the Auckland area?
+534,1400.0,2800.0,420.0,4200.0,A,140.0,How long is Lucerne Road in the Auckland area?
+535,1000.0,2000.0,3000.0,300.0,A,100.0,How long is Peach Parade in the Auckland area?
+536,2200.0,3300.0,1100.0,110.0,C,330.0,How long is Ngahue Drive in the Auckland area?
+537,240.0,2400.0,800.0,1600.0,C,100.0,How long is Bluegrey Avenue in the Auckland area?
+538,2800.0,280.0,8400.0,5600.0,A,840.0,How long is Gerard Way in the Auckland area?
+539,600.0,400.0,200.0,100.0,C,100.0,How long is Crowhurst Street in the Auckland area?
+540,2200.0,3300.0,110.0,1100.0,D,330.0,How long is Middleton Road in the Auckland area?
+541,630.0,4200.0,210.0,2100.0,D,6300.0,How long is Mount Saint John Avenue in the Auckland area?
+542,180.0,100.0,1800.0,600.0,D,1200.0,How long is James Fletcher Drive in the Auckland area?
+543,900.0,100.0,1800.0,270.0,A,2700.0,How long is Tui Street in the Auckland area?
+544,300.0,600.0,100.0,900.0,A,100.0,How long is Veronica Street in the Auckland area?
+545,600.0,900.0,300.0,100.0,C,100.0,How long is Clark Street West in the Auckland area?
+546,2200.0,4400.0,6600.0,660.0,A,220.0,How long is Stanniland Street in the Auckland area?
+547,900.0,600.0,100.0,100.0,E,300.0,How long is Fairburn Road in the Auckland area?
+548,100.0,300.0,100.0,600.0,B,900.0,How long is Greys Avenue in the Auckland area?
+549,1400.0,2800.0,140.0,4200.0,A,420.0,How long is Miranda Street in the Auckland area?
+550,1500.0,150.0,450.0,3000.0,A,4500.0,How long is Aspiring Avenue in the Auckland area?
+551,4500.0,150.0,450.0,1500.0,D,3000.0,How long is Dalgety Drive in the Auckland area?
+552,200.0,100.0,100.0,300.0,E,100.0,How long is Britomart Place in the Auckland area?
+553,100.0,200.0,100.0,100.0,D,300.0,How long is Customs Street East in the Auckland area?
+554,3800.0,570.0,190.0,1900.0,D,5700.0,How long is Motions Road in the Auckland area?
+555,3900.0,390.0,2600.0,130.0,E,1300.0,How long is Archibald Road in the Auckland area?
+556,1200.0,600.0,1800.0,180.0,B,100.0,How long is Ashton Road in the Auckland area?
+557,130.0,1300.0,390.0,3900.0,B,2600.0,How long is Merton Road in the Auckland area?
+558,100.0,900.0,270.0,1800.0,B,2700.0,How long is Church Crescent in the Auckland area?
+559,2000.0,300.0,100.0,1000.0,D,3000.0,How long is Kelmarna Avenue in the Auckland area?
+560,3800.0,1900.0,570.0,190.0,B,5700.0,How long is Baddeley Avenue in the Auckland area?
+561,1200.0,120.0,800.0,400.0,D,100.0,How long is College Hill in the Auckland area?
+562,100.0,500.0,1000.0,1500.0,B,150.0,How long is Tōtara Avenue in the Auckland area?
+563,100.0,100.0,400.0,200.0,D,600.0,How long is Bowen Avenue in the Auckland area?
+564,1500.0,4500.0,150.0,3000.0,A,450.0,How long is Shortland Street in the Auckland area?
+565,100.0,600.0,900.0,100.0,E,300.0,How long is Trinity Street in the Auckland area?
+566,1200.0,800.0,100.0,120.0,E,400.0,How long is Ellerslie-Panmure Highway Interchange in the Auckland area?
+567,100.0,300.0,200.0,100.0,E,100.0,How long is Mortimer Pass in the Auckland area?
+568,1800.0,2700.0,270.0,900.0,D,100.0,How long is Warnock Street in the Auckland area?
+569,900.0,300.0,100.0,600.0,B,100.0,How long is Ava Avenue in the Auckland area?
+570,300.0,100.0,200.0,100.0,E,100.0,How long is Goodwood Drive in the Auckland area?
+571,0.0,100.0,100.0,0.0,E,0.0,How long is Haslett Street in the Auckland area?
+572,200.0,100.0,100.0,600.0,A,400.0,How long is Morrow Street in the Auckland area?
+573,100.0,180.0,600.0,1800.0,C,1200.0,How long is Kitchener Street in the Auckland area?
+574,100.0,0.0,100.0,0.0,E,0.0,How long is Fairfax Avenue in the Auckland area?
+575,100.0,0.0,0.0,100.0,E,0.0,How long is Sir Lloyd Drive in the Auckland area?
+576,400.0,100.0,120.0,1200.0,A,800.0,How long is Ōnehunga Harbour Road in the Auckland area?
+577,600.0,100.0,100.0,200.0,D,400.0,How long is Ardmore Road in the Auckland area?
+578,100.0,400.0,200.0,100.0,C,600.0,How long is Grange Road in the Auckland area?
+579,600.0,100.0,100.0,300.0,D,900.0,How long is Mill Road in the Auckland area?
+580,100.0,0.0,0.0,100.0,E,0.0,How long is Hukanui Crescent in the Auckland area?
+581,0.0,0.0,100.0,100.0,E,0.0,How long is Nicholls Lane in the Auckland area?
+582,100.0,100.0,0.0,0.0,E,0.0,How long is Sultan Street in the Auckland area?

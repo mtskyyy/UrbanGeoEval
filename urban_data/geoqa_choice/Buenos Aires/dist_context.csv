@@ -1,0 +1,1375 @@
+,A,B,C,D,answer,question
+0,15.68,8.82,5.16,7.78,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Don Jorge. Detailed address: Darwin, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1414CUR, Argentina
+2. La Panera. Detailed address: 1360, Pierina Dealessi, Puerto Madero, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1107CHG, Argentina"
+1,7.92,6.44,9.52,8.23,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bari. Detailed address: 4598, Avenida Corrientes, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, C1195AAE, Argentina
+2. Podio. Detailed address: 1550, Juana Manso, Puerto Madero, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1107, Argentina"
+2,8.7,15.73,6.12,1.65,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. San Salvador. Detailed address: Avenida Callao, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1022AAG, Argentina
+2. Oscar. Detailed address: 3301, Avenida Cabildo, Núñez, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1429AAD, Argentina"
+3,4.4,1.73,3.92,2.88,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Instituto Superior de Enseñanza Hotelero Gastronómica. Detailed address: Tucumán, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1050, Argentina
+2. Biscottini. Detailed address: Beruti, Alto Palermo, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425DGQ, Argentina"
+4,8.09,13.77,2.27,9.21,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Estacionamiento privado Canal 7. Detailed address: Tagle, La Isla, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1425AAR, Argentina
+2. Plaza Salvador Allende. Detailed address: 3249, Avenida Parque Roberto Goyeneche, Villa Urquiza, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, C1430APA, Argentina"
+5,12.55,3.62,6.36,5.16,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Banco Nación. Detailed address: 345, Avenida Corrientes, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1043, Argentina
+2. Brooklyn Fitboxing. Detailed address: 2382, Jorge Luis Borges, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425, Argentina"
+6,1.89,2.48,5.07,9.5,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Centro Educativo de Nivel Secundario 40. Detailed address: El Salvador, Alto Palermo, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, 1175, Argentina
+2. CMB 12. Detailed address: 2283, Páez, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, 1406, Argentina"
+7,7.54,6.56,5.69,2.78,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Traiano. Detailed address: Laprida, La Isla, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1425EID, Argentina
+2. Jardín de Infantes Nucleado A (EPCjs 01/06°). Detailed address: Adolfo Alsina, Once, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1090, Argentina"
+8,6.57,3.52,0.56,2.38,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rio Cafe Bar. Detailed address: 901, Aníbal Troilo, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, C1195AAS, Argentina
+2. Syba. Detailed address: Avenida Federico Lacroze, Colegiales, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1426DND, Argentina"
+9,5.38,8.89,11.01,12.7,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pub. Detailed address: Doctor José M. Giuffra, San Telmo, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1064ADD, Argentina
+2. Dios es Amor. Detailed address: Avenida Almafuerte, Nueva Pompeya, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, Distrito Tecnológico, C1437, Argentina"
+10,2.25,7.15,4.62,5.42,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. El Pasaje De La Luna / Luna Porteña (Cooperativa Cultural Gastronómica). Detailed address: 365, San Lorenzo, San Telmo, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1064, Argentina
+2. Rincón Norteño. Detailed address: Avenida Independencia, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, C1225AAC, Argentina"
+11,3.61,5.31,1.56,9.41,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Estudio de Enseñanza e Investigaciones Informáticas. Detailed address: 24 de Noviembre, Once, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1407, Argentina
+2. Nacha. Detailed address: Fray Cayetano Rodríguez, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, 1404, Argentina"
+12,7.7,2.45,9.98,2.68,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rey Castro. Detailed address: 348, Perú, Monserrat, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1067AAF, Argentina
+2. Jardín de Infantes Integral 03 Distrito Escolar13 Jardín del Parque. Detailed address: 1135, Avenida Lacarra, Parque Avellaneda, Buenos Aires, Comuna 9, Ciudad Autónoma de Buenos Aires, 1407, Argentina"
+13,7.23,1.33,9.61,0.62,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Exedra. Detailed address: Carlos Pellegrini, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1054AAI, Argentina
+2. Galicia. Detailed address: Thorne, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, C1406GRS, Argentina"
+14,14.72,9.37,7.17,15.17,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nacha. Detailed address: Fray Cayetano Rodríguez, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, 1404, Argentina
+2. Voz del Estadio. Detailed address: Ingreso Local, Parque Patricios, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, C1437FBG, Argentina"
+15,4.11,5.78,5.62,12.0,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Monoblock Nº 2. Detailed address: Crespo, Parque Chacabuco, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, C1406COB, Argentina
+2. Sector 9. Detailed address: Astor Piazzolla, Barrrio Estación Buenos Aires, Barracas, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, 1284, Argentina"
+16,6.35,5.67,10.35,15.86,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jardín de Infantes Común 02/10° Merceditas. Detailed address: Avenida Ruiz Huidobro, Saavedra, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, 1430, Argentina
+2. El Rey del Pollo. Detailed address: 5101, Avenida Emilio Castro, Villa Luro, Buenos Aires, Comuna 10, Ciudad Autónoma de Buenos Aires, C1440AAA, Argentina"
+17,5.09,4.45,10.66,8.69,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Botica de Martin. Detailed address: Lavalle, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1043AAG, Argentina
+2. Pizza Pizza. Detailed address: Segurola, Floresta, Buenos Aires, Comuna 10, Ciudad Autónoma de Buenos Aires, C1407FAU, Argentina"
+18,8.04,7.8,1.78,6.74,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gio. Detailed address: 3500, Soler, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1186AAN, Argentina
+2. Carlos Guido y Spano. Detailed address: 4601, Güemes, Palermo Pacífico, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425FNI, Argentina"
+19,2.04,7.43,5.33,0.89,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kismet. Detailed address: Sánchez de Bustamante, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1425BGS, Argentina
+2. The Park. Detailed address: Tomás Manuel de Anchorena, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1119ACO, Argentina"
+20,9.41,5.09,2.23,7.54,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Supervielle. Detailed address: 3602, Charcas, Alto Palermo, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, 1425, Argentina
+2. Sippin Cafe. Detailed address: 2293, Moldes, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, 1428, Argentina"
+21,5.46,1.31,3.32,0.82,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Instituto Prebístero Manuel Alberti. Detailed address: Avenida Entre Ríos, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1133, Argentina
+2. Big Pizza. Detailed address: 4024, Paraguay, Alto Palermo, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425DBC, Argentina"
+22,4.51,8.4,3.31,8.33,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Calle. Detailed address: 4942, Coronel Niceto Vega, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, 1000, Argentina
+2. Belgrano Rotisería. Detailed address: 2305, Virrey Del Pino, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426, Argentina"
+23,3.25,9.37,2.01,4.6,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lucio. Detailed address: 2402, Avenida Raúl Scalabrini Ortiz, Alto Palermo, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425, Argentina
+2. Milagrito. Detailed address: Báez, Las Cañitas, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1426BRH, Argentina"
+24,5.58,8.13,6.27,3.44,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sanatorio Finochietto. Detailed address: 2678, Avenida Córdoba, Abasto, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, C1187AAB, Argentina
+2. Cantero Central Provincia de Catamarca. Detailed address: Avenida 9 de Julio, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1102, Argentina"
+25,1.23,2.88,8.92,8.58,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jardín de Infantes Nucleado D (EPCjs 15/11°) [Sede] Sin Fronteras. Detailed address: Avenida Carabobo, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, 1406, Argentina
+2. Amancio. Detailed address: Alejandro Magariños Cervantes, Villa Santa Rita, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, C1416DZK, Argentina"
+26,6.55,11.95,5.32,11.57,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Instituto Jesús María de San Vicente de Paul. Detailed address: Carlos Calvo, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1102, Argentina
+2. Instituto Modelo Proyecto 2000. Detailed address: Planes, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, 1405, Argentina"
+27,3.27,4.31,6.51,5.75,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tea Connection. Detailed address: 1655, Montevideo, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1021, Argentina
+2. Pausar. Detailed address: Avenida Alicia Moreau de Justo, Puerto Madero, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1100AAA, Argentina"
+28,3.48,8.33,1.95,11.23,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plaza Israel. Detailed address: Andrés Bello, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1426BTG, Argentina
+2. Jardín Paseo República de Filipinas. Detailed address: Avenida de los Incas, Colegiales, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426ELR, Argentina"
+29,10.09,5.6,13.13,3.97,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plaza Holanda. Detailed address: Nicolás Avellaneda, Ciclovía del Libertador, Palermo Norte, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425DCO, Argentina
+2. Escuela Primaria Común 06 Carlos Guido y Spano. Detailed address: 4801, Coronel Ramón Lorenzo Falcón, Villa Luro, Buenos Aires, Comuna 10, Ciudad Autónoma de Buenos Aires, 1407, Argentina"
+30,14.69,3.1,6.84,14.53,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Piccolina. Detailed address: 2150, Fray Justo Santa María de Oro, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425FQC, Argentina
+2. Comisaría 14. Detailed address: 1419, Bolívar, San Telmo, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, Distrito de Las Artes, 1141, Argentina"
+31,3.84,15.94,11.35,6.45,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Piedra Pasillo al Fondo. Detailed address: 2145, Campos Salles, Núñez, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1429AAD, Argentina
+2. 147 - Constitución. Detailed address: Avenida Juan de Garay, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1137, Argentina"
+32,4.15,11.39,9.9,15.38,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Toyota. Detailed address: Llavallol, Villa del Parque, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, C1419HYW, Argentina
+2. Colegio de Escribanos de la Ciudad de Buenos Aires. Detailed address: Avenida Callao, La Isla, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1128ACA, Argentina"
+33,4.88,10.88,6.99,9.46,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sabores. Detailed address: 1802, Laprida, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1119ACO, Argentina
+2. Misiunea „Sfântul Apostol Andrei” Buenos Aires. Detailed address: 1536, 15 de Noviembre de 1889, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1136, Argentina"
+34,5.07,5.05,7.05,11.16,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hospital Italiano - Sede Belgrano 2. Detailed address: Virrey Del Pino, Colegiales, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426ABQ, Argentina
+2. Import Coffee Co.. Detailed address: Libertad, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1062, Argentina"
+35,1.88,0.68,3.32,4.33,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dr Birra. Detailed address: 402, Doctor Nicolás Repetto, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, C1405CRO, Argentina
+2. Pisco & Nazca. Detailed address: 3579, Avenida Córdoba, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1188AAB, Argentina"
+36,8.25,2.36,4.81,3.85,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Crobar. Detailed address: Avenida Coronel Marcelino E. Freyre, Palermo Pacífico, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425ABX, Argentina
+2. Escuela Integral Interdisciplinaria 09. Detailed address: La Pampa, Bajo Belgrano, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, 1428, Argentina"
+37,12.2,7.78,8.34,5.71,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Easy. Detailed address: Don Bosco, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, C1204AAO, Argentina
+2. Gimnasio Belgrano. Detailed address: 3153, Virrey Avilés, Colegiales, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426, Argentina"
+38,11.38,4.82,9.42,11.99,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cair Paravel. Detailed address: Iberá, Villa Urquiza, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, C1431, Argentina
+2. Farmacias San Benito. Detailed address: Álvarez Jonte, Villa del Parque, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, C1407GON, Argentina"
+39,8.0,2.97,4.49,9.58,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Atalaya. Detailed address: Avenida Córdoba, Catalinas Norte, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1054AAD, Argentina
+2. Bodegón Colegiales. Detailed address: Virrey Loreto, Colegiales, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426EJP, Argentina"
+40,5.08,9.38,12.23,8.14,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. San Jose Futbol y Tenis. Detailed address: 1268, San José, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1150, Argentina
+2. Roma. Detailed address: Avenida Rivadavia, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, C1424CEV, Argentina"
+41,4.64,1.52,0.78,9.27,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Clínica OCMI. Detailed address: 2981, Avenida Elcano, Colegiales, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426, Argentina
+2. Plaza Alemania. Detailed address: Riqueza Agropecuaria Argentina, Ciclovía del Libertador, Palermo Norte, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425DCO, Argentina"
+42,2.66,1.62,8.73,4.36,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Banco Credicoop. Detailed address: 322, Azcuénaga, Once, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, C1046AAC, Argentina
+2. Comisaría 26. Detailed address: 861, Avenida Manuel Augusto Montes de Oca, Barracas, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, Distrito del Diseño, C1269ABF, Argentina"
+43,3.37,1.84,8.89,10.37,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Paseo Arzoumanian. Detailed address: Avenida General Indalecio Chenaut, Las Cañitas, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1426DIO, Argentina
+2. Estacionamiento privado Canal 7. Detailed address: Tagle, La Isla, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1425AAR, Argentina"
+44,3.33,5.54,2.85,8.95,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Farmacias San Benito. Detailed address: Álvarez Jonte, Villa del Parque, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, C1407GON, Argentina
+2. Escuela Taller Imagen y Sonido. Detailed address: Sarmiento, Once, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1044, Argentina"
+45,5.11,2.2,8.33,8.32,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pisco & Nazca. Detailed address: 3579, Avenida Córdoba, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1188AAB, Argentina
+2. Empa's. Detailed address: Azcuénaga, La Isla, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1128ACJ, Argentina"
+46,4.54,9.34,9.08,9.92,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Teatro Cervantes. Detailed address: 1155, Avenida Córdoba, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1055AAB, Argentina
+2. Instituto Mundo Creativo. Detailed address: Avenida Rivadavia, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, 1205, Argentina"
+47,8.11,1.99,9.74,8.06,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tonno. Detailed address: Charcas, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425FNI, Argentina
+2. Escuela Primaria p/Adultos 19 Florencio Balcarce. Detailed address: Francisco Acuña de Figueroa, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, 1180, Argentina"
+48,1.58,3.67,5.73,7.13,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pizza Napolitana Furore. Detailed address: 451, Esmeralda, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1049AAQ, Argentina
+2. Instituto Superior de Enseñanza Radiofónica (ISER). Detailed address: Avenida Doctor José María Ramos Mejía, Catalinas Norte, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1104AJN, Argentina"
+49,9.84,3.18,5.86,4.39,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Galicia. Detailed address: Thorne, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, C1406GRS, Argentina
+2. Iglesia San Bernardo Abad. Detailed address: Gurruchaga, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, C1414AFD, Argentina"
+50,1.27,7.93,6.39,10.68,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Instituto Alexander Fleming. Detailed address: Alexander Fleming, Crámer, Colegiales, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426DPB, Argentina
+2. Provincia de Jujuy. Detailed address: Avenida 9 de Julio, Monserrat, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, P1091, Argentina"
+51,4.03,8.59,1.13,8.12,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Soy Tu Farmacia. Detailed address: Paraguay, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1120AAH, Argentina
+2. Casa Colombo. Detailed address: 557, Gallo, Abasto, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, C1172ABK, Argentina"
+52,9.99,7.16,6.74,6.64,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 307 - Ceretti. Detailed address: Ceretti, Villa Urquiza, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, C1431DUB, Argentina
+2. San Salvador. Detailed address: Avenida Callao, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1022AAG, Argentina"
+53,4.68,2.31,8.41,8.59,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Servicio Meteorológico Nacional. Detailed address: 4019, Avenida Dorrego, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425ABX, Argentina
+2. Shoshana. Detailed address: 5441, Guatemala, Palermo Hollywood, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1425BVE, Argentina"
+54,6.61,2.53,8.66,14.57,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fundación Hastinapura Filial Villa del Parque. Detailed address: 2184, Avenida Nazca, Villa Santa Rita, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, 1417, Argentina
+2. Hard Rock Cafe. Detailed address: 1930, Junín, La Isla, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1113AAX, Argentina"
+55,4.33,2.35,7.93,9.45,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Paseo Peatonal Costero De las Mujeres del Barrio la Boca. Detailed address: 834, General Daniel Cerri, La Boca, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, Distrito de Las Artes, C1169AAF, Argentina
+2. Plaza Casa Cuna. Detailed address: Doctor Enrique Finochietto, Barracas, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, C1270AAN, Argentina"
+56,3.16,4.39,9.45,1.52,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lava Autos. Detailed address: Avenida Independencia, Monserrat, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1077, Argentina
+2. Escuela Primaria p/Adultos 10 Gregoria Pérez. Detailed address: Arenales, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, 1425, Argentina"
+57,3.36,7.8,12.91,6.01,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 256 - Plaza Noruega. Detailed address: Amenábar, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428AAT, Argentina
+2. Centro Médico Veterinario de Buenos Aires. Detailed address: Avenida Boedo, Boedo, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, C1218AAQ, Argentina"
+58,10.72,8.15,3.12,8.68,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Instituto de Formación Técnica Superior 07. Detailed address: 1502, Avenida Gaona, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, 1406, Argentina
+2. Area Tres. Detailed address: 5218, Godoy Cruz, Palermo Hollywood, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1414BPV, Argentina"
+59,10.63,16.66,9.17,2.86,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bodegón Colegiales. Detailed address: Virrey Loreto, Colegiales, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426EJP, Argentina
+2. Pub. Detailed address: Doctor José M. Giuffra, San Telmo, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1064ADD, Argentina"
+60,3.49,1.76,7.87,8.51,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Del Carmen. Detailed address: 1701, Avenida Córdoba, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1055AAH, Argentina
+2. Chacaito. Detailed address: Thames, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425BUN, Argentina"
+61,16.37,4.0,9.06,14.96,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Patio Carranza. Detailed address: Viaducto Carranza, Las Cañitas, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425BIC, Argentina
+2. lo de katy. Detailed address: Juan Manuel Blanes, Isla Demarchi, La Boca, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, Distrito de Las Artes, C1158ACH, Argentina"
+62,1.31,7.99,10.16,4.38,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nucha. Detailed address: Cabello, Palermo Norte, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425DEL, Argentina
+2. NITRO Fitness & Health. Detailed address: 297, Bogotá, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, C1405BOB, Argentina"
+63,7.88,2.08,7.05,9.4,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Escuela Infantil Artelin. Detailed address: Muñiz, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, 1234, Argentina
+2. Clinica San Camilo - Consultorios. Detailed address: 572, Mahatma Gandhi, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, C1414EFH, Argentina"
+64,3.69,8.02,6.77,7.36,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Havana. Detailed address: Avenida Corrientes, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, C1414AJJ, Argentina
+2. Figueroa. Detailed address: French, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1425AVL, Argentina"
+65,14.56,5.66,6.92,14.08,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Claustro Santa Catalina de Siena. Detailed address: San Martín, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1049AAK, Argentina
+2. Club Atlético Atlanta. Detailed address: 374, Humboldt, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1414CXF, Argentina"
+66,6.87,1.13,5.04,12.83,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jardín de Infantes Nucleado A (EPCjs 22/07°). Detailed address: Aráoz, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, 1414, Argentina
+2. Plazoleta Jorge N. Williams. Detailed address: Pedro Lozano, Villa del Parque, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, C1417, Argentina"
+67,5.17,3.47,13.84,6.54,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Oscar. Detailed address: 3301, Avenida Cabildo, Núñez, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1429AAD, Argentina
+2. Rio Cafe Bar. Detailed address: 901, Aníbal Troilo, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, C1195AAS, Argentina"
+68,6.65,3.05,4.3,8.9,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plaza Bélgica. Detailed address: Acceso Embajada de España, Barrio Parque, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425CBA, Argentina
+2. Paseo Arzoumanian. Detailed address: Avenida General Indalecio Chenaut, Las Cañitas, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1426DIO, Argentina"
+69,14.28,3.92,9.81,6.53,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. El Café de Marco. Detailed address: 1259, Teniente General Juan Domingo Perón, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1033AAC, Argentina
+2. Tomasso. Detailed address: 2424, Maure, Colegiales, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426, Argentina"
+70,5.97,3.28,9.82,16.31,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Centro Médico Veterinario de Buenos Aires. Detailed address: Avenida Boedo, Boedo, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, C1218AAQ, Argentina
+2. 105 - Parque Saavedra. Detailed address: García del Río, Saavedra, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, C1429APN, Argentina"
+71,4.7,1.32,9.08,1.38,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ESEA en Danza Mastrazzi Curso Vocacional de Danza y Expresión Corporal Infantil 05. Detailed address: Avenida San Juan, San Cristóbal, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1232, Argentina
+2. Escuela Infantil Piluso. Detailed address: Televisión Pública, 2977, Avenida Presidente Figueroa Alcorta, La Isla, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1425, Argentina"
+72,9.06,1.65,12.37,4.39,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Instituto Ramón Carrillo. Detailed address: 900, 24 de Noviembre, San Cristóbal, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1224, Argentina
+2. Tienda de Café. Detailed address: Avenida Directorio, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, 1406, Argentina"
+73,0.78,6.86,3.01,5.5,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jardín de Infantes La Obra. Detailed address: 325, Caracas, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, C1406GKB, Argentina
+2. Sabores. Detailed address: 1802, Laprida, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1119ACO, Argentina"
+74,4.85,7.31,2.51,5.9,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Le Pain Quotidien. Detailed address: 6002, Nicaragua, Palermo Hollywood, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, 1414, Argentina
+2. Jardín de Infantes Nucleado A (EPCjs 22/07°). Detailed address: Aráoz, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, 1414, Argentina"
+75,4.13,6.16,13.16,13.81,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Swiss Medical Center De Los Arcos. Detailed address: Hunter Douglas, 5451, Guatemala, Palermo Hollywood, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1425BVE, Argentina
+2. Auto Sport. Detailed address: Avenida Independencia, Monserrat, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1200AAV, Argentina"
+76,1.16,0.96,6.86,3.41,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Centro Educativo de Nivel Secundario 50. Detailed address: México, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1222, Argentina
+2. Juani Café. Detailed address: 4399, Gorriti, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414DQC, Argentina"
+77,9.85,1.74,5.51,3.61,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Provincia de Corrientes. Detailed address: 966, Lima, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1099AAY, Argentina
+2. Sociedad Damas de la Misericordia. Detailed address: Peña, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, 1126, Argentina"
+78,4.53,3.38,1.68,2.95,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hotel Faena. Detailed address: 445, Martha Salotti, Puerto Madero, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1107, Argentina
+2. Iglesia Evangelica Cristo Te Ama. Detailed address: 304, Arzobispo Espinosa, La Boca, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, Distrito de Las Artes, C1158ACA, Argentina"
+79,3.38,1.26,5.81,7.85,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Escuela Primaria Común 08 Nicolás Avellaneda. Detailed address: Talcahuano, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1013, Argentina
+2. La Catedral. Detailed address: Rivadavia, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1084AAA, Argentina"
+80,7.14,3.16,9.78,9.83,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Farma Vie. Detailed address: Avenida Boyacá, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, C1406FYG, Argentina
+2. 166 - Cementerio de Recoleta. Detailed address: Recoleta Urban Mall, 2050, Vicente López, La Isla, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1113, Argentina"
+81,6.59,14.15,8.93,15.27,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Los campeones. Detailed address: Avenida Manuel Augusto Montes de Oca, Barracas, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, Distrito del Diseño, 1295, Argentina
+2. Escuela Primaria Común 21 Maria Sklodowska de Curie. Detailed address: Mariano Acosta, Parque Avellaneda, Buenos Aires, Comuna 9, Ciudad Autónoma de Buenos Aires, 1407, Argentina"
+82,8.98,8.06,1.5,9.34,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Instituto Nuestra Señora del Huerto. Detailed address: 2140, Avenida Independencia, San Cristóbal, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, C1225AAQ, Argentina
+2. Instituto Prebístero Manuel Alberti. Detailed address: Avenida Entre Ríos, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1133, Argentina"
+83,5.83,11.21,4.08,1.82,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Vibo helados. Detailed address: Avenida Juan Bautista Justo, Villa General Mitre, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, C1416DKD, Argentina
+2. Centro Educativo de Nivel Primario 32 - Asociación Vecinal Florentino Ameghino. Detailed address: Avenida Independencia, Boedo, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, 1226, Argentina"
+84,9.62,2.68,12.79,5.39,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Take & Eat. Detailed address: 2941, Arribeños, Núñez, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1429BMC, Argentina
+2. Fenoglio. Detailed address: Remedios de Escalada de San Martín, Vélez Sarsfield, Buenos Aires, Comuna 10, Ciudad Autónoma de Buenos Aires, C1407FBB, Argentina"
+85,2.88,6.18,8.71,7.77,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tienda de Café. Detailed address: Avenida Directorio, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, 1406, Argentina
+2. M Street Bar. Detailed address: 5935, Nicaragua, Palermo Hollywood, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, 1414, Argentina"
+86,3.53,7.19,0.74,8.15,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 261 - Quinteros Lidoro. Detailed address: Avenida Lidoro J. Quinteros, Barrio River, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1424BCL, Argentina
+2. Jardín de Infantes Integral 04/10°. Detailed address: Húsares, Bajo Belgrano, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, 1428, Argentina"
+87,3.38,1.09,11.13,6.48,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Coto. Detailed address: 616, Agüero, Abasto, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, C1193AAE, Argentina
+2. Plaza Concepción del Alto de San Pedro. Detailed address: 848, Bernardo de Irigoyen, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1100AAJ, Argentina"
+88,10.93,13.5,0.87,6.27,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Club Gimnasia y Esgrima de Buenos aires. Detailed address: Ramón J. Carcano, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425ABX, Argentina
+2. Provincia de Río Negro. Detailed address: Terminal de Combis Obelisco, Metrobús 9 de Julio (Sur), Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1033AAB, Argentina"
+89,5.26,6.81,1.94,4.58,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Import Coffee Co.. Detailed address: Libertad, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1062, Argentina
+2. Farmacia APL. Detailed address: Adolfo Alsina, Once, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1089, Argentina"
+90,11.94,14.88,8.97,2.91,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Farmás. Detailed address: 2182, Congreso, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428, Argentina
+2. Jardín de Infantes Integral 01/11°. Detailed address: Avenida San Pedrito, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, 1406, Argentina"
+91,8.18,0.65,12.36,1.6,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Reina. Detailed address: 4160, Avenida Triunvirato, Villa Urquiza, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, 1431, Argentina
+2. McDonald's. Detailed address: Avenida Santa Fe, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1060ABQ, Argentina"
+92,9.52,2.82,7.28,12.79,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Basquet Almagro. Detailed address: Teniente General Juan Domingo Perón, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, C1198AAT, Argentina
+2. Adaggio. Detailed address: 2197, Ceretti, Villa Urquiza, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, C1431EGH, Argentina"
+93,10.03,4.83,2.28,1.09,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plaza Luis Federico Leloir. Detailed address: 2569, Agüero, La Isla, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1425EID, Argentina
+2. Parque Ferroviario Colegiales. Detailed address: 698, Moldes, Colegiales, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426CQO, Argentina"
+94,5.19,6.41,1.3,11.8,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Buque Museo Corbeta A.R.A. Uruguay. Detailed address: 500, Avenida Alicia Moreau de Justo, Puerto Madero, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1144, Argentina
+2. Parque Carrasco. Detailed address: Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1426COA, Argentina"
+95,6.86,3.15,4.71,1.76,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Starbucks. Detailed address: 2179, Avenida Rivadavia, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1034, Argentina
+2. Jardín de Infantes Nucleado B (EPCjc 10/19°). Detailed address: 1052, Aníbal Pedro Arbeletche, Nueva Pompeya, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, 1437, Argentina"
+96,4.29,4.93,1.51,3.91,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. SushiLife. Detailed address: 1239, Medrano, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1188AAD, Argentina
+2. Cobro Express. Detailed address: Avenida Pueyrredón, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1032, Argentina"
+97,9.74,13.48,17.35,13.43,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Terminal de pasajeros. Detailed address: Aeroparque Jorge Newbery, Avenida Costanera Rafael Obligado, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425, Argentina
+2. Sector 10. Detailed address: Libertad Lamarque, Barrrio Estación Buenos Aires, Barracas, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, 1284, Argentina"
+98,3.18,6.07,2.29,8.75,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Instituto ESBA - Villa Urquiza. Detailed address: Avenida Triunvirato, Villa Urquiza, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, 1431, Argentina
+2. Jardín de Infantes La Obra. Detailed address: 325, Caracas, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, C1406GKB, Argentina"
+99,2.53,7.91,13.01,14.41,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Escuela Primaria p/Adultos 12 José Enrique Rodó. Detailed address: Oceanía, Barrio Rivadavia I, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, 1406, Argentina
+2. Escuela Primaria Común 04 De Catedral al Norte José Manuel Estrada. Detailed address: Reconquista, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1003, Argentina"
+100,9.58,8.2,6.13,1.87,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Solarium Ergoline. Detailed address: Iberá, Núñez, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1429AAB, Argentina
+2. Banco Credicoop. Detailed address: 322, Azcuénaga, Once, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, C1046AAC, Argentina"
+101,2.16,3.69,2.37,0.84,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cliba. Detailed address: Autopista Arturo Illia, Barrio Parque, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1426COA, Argentina
+2. Coto. Detailed address: 616, Agüero, Abasto, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, C1193AAE, Argentina"
+102,10.95,10.18,12.01,5.25,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Daniel. Detailed address: French, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, 1114, Argentina
+2. Zabala Pagos. Detailed address: Zabala, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1426ABA, Argentina"
+103,11.02,3.63,4.86,5.91,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. M Street Bar. Detailed address: 5935, Nicaragua, Palermo Hollywood, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, 1414, Argentina
+2. Iglesia Internacional de la Gracia de Dios. Detailed address: Lavalle, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1043AAI, Argentina"
+104,5.73,7.9,1.77,1.55,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fauno´ss. Detailed address: Las Indias, Parque Chas, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, C1427BLA, Argentina
+2. Instituto de Formación Técnica Superior 19. Detailed address: Avenida Rivadavia, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, 1204, Argentina"
+105,2.05,8.06,5.82,0.95,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Subestacion Elcano. Detailed address: 3947, Céspedes, Chacarita, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, 1427, Argentina
+2. Parroquia Nuestra Señora de Luján - Iglesia Castrense. Detailed address: Avenida Cabildo, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1426, Argentina"
+106,10.62,13.15,11.53,6.79,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bonafide. Detailed address: Avenida Callao, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1023AAE, Argentina
+2. Pago Facil. Detailed address: Manuel Ricardo Trelles, Villa General Mitre, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, C1416BTU, Argentina"
+107,18.75,8.25,11.56,17.6,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Parque Leonardo Pereyra. Detailed address: California, Barracas, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, Distrito del Diseño, 1277, Argentina
+2. Startech. Detailed address: 2635, Avenida Álvarez Thomas, Villa Urquiza, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, 1431, Argentina"
+108,7.44,6.38,15.44,9.12,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Milagrito. Detailed address: Báez, Las Cañitas, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1426BRH, Argentina
+2. Pista Uno. Detailed address: Avenida Juan Bautista Justo, Villa Santa Rita, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, C1407FAC, Argentina"
+109,8.82,10.05,10.99,4.22,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Le Ble. Detailed address: 4392, Avenida Santa Fe, Palermo Pacífico, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425, Argentina
+2. Palita. Detailed address: 1489, Avenida Corrientes, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1042AAA, Argentina"
+110,0.77,2.28,8.81,6.36,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. McDonald's. Detailed address: Avenida Santa Fe, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1060ABQ, Argentina
+2. BFresh. Detailed address: Cerviño, Palermo Norte, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425DEL, Argentina"
+111,2.79,9.25,3.38,4.86,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Escuela Primaria p/Adultos 03 Doctor Onésimo Leguizamón. Detailed address: Avenida Santa Fe, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, 1060, Argentina
+2. Escuela Primaria Común 08 Carlos Norberto Vergara. Detailed address: Avenida Amancio Alcorta, Barrrio Estación Buenos Aires, Barracas, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, 1283, Argentina"
+112,1.46,5.42,0.57,7.7,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Saborcito Casero. Detailed address: 3062, Echeverría, Belgrano R, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428DSC, Argentina
+2. Instituto Superior de Enseñanza Hotelero Gastronómica. Detailed address: Tucumán, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1050, Argentina"
+113,7.46,10.14,6.96,2.62,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cine Bar. Detailed address: Lavalle, Once, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1051, Argentina
+2. Jardín de Infantes Común 09/01°. Detailed address: Escuela Nº26 Adolfo Van Gelderen, 2455, Jerónimo Salguero, Palermo Norte, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, 1425, Argentina"
+114,11.2,9.96,4.3,2.99,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Instituto Mundo Creativo. Detailed address: Avenida Rivadavia, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, 1205, Argentina
+2. Prensa Escrita. Detailed address: Ingreso Local, Parque Patricios, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, C1437FBG, Argentina"
+115,13.64,15.08,6.19,7.87,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Varese. Detailed address: Avenida Belgrano, Once, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1096, Argentina
+2. Neodental. Detailed address: 2373, Avenida Cabildo, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428AAF, Argentina"
+116,3.77,15.17,12.28,7.65,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cobro Express. Detailed address: Avenida Pueyrredón, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1032, Argentina
+2. Todo Relleno. Detailed address: 2823, Avenida Melián, Coghlan, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, C1430FED, Argentina"
+117,0.76,7.82,6.63,1.93,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Provincia de Jujuy. Detailed address: Avenida 9 de Julio, Monserrat, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, P1091, Argentina
+2. Provincia de Corrientes. Detailed address: 966, Lima, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1099AAY, Argentina"
+118,2.48,6.01,9.35,1.26,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Manzana 114. Detailed address: Colibrí, Villa 31, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1104AJN, Argentina
+2. Plaza Bélgica. Detailed address: Acceso Embajada de España, Barrio Parque, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425CBA, Argentina"
+119,8.51,2.51,8.69,0.9,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Escuela Primaria p/Adultos 19 Florencio Balcarce. Detailed address: Francisco Acuña de Figueroa, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, 1180, Argentina
+2. Centro Educativo de Nivel Primario 28 - H. Gral. de Agudos Doctor Ramos Mejía. Detailed address: General Urquiza, San Cristóbal, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1221, Argentina"
+120,8.46,2.97,1.63,7.84,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pausar. Detailed address: Avenida Alicia Moreau de Justo, Puerto Madero, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1100AAA, Argentina
+2. La Botica de Martin. Detailed address: Lavalle, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1043AAG, Argentina"
+121,5.13,3.96,10.05,6.5,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 051 - Tucumán. Detailed address: Tucumán, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1043AAY, Argentina
+2. KOI Dumplings. Detailed address: 1387, Lavalleja, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414DQC, Argentina"
+122,3.49,1.19,8.73,5.85,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sanatorio Franchín. Detailed address: 3545, Bartolomé Mitre, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, C1201AAO, Argentina
+2. El Buen Gusto. Detailed address: Boulogne Sur Mer, Once, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, C1190AAA, Argentina"
+123,4.95,2.04,4.57,5.99,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Manzana 5. Detailed address: José Barros Pazos, Barrio Rivadavia I, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, C1437ANL, Argentina
+2. Confitería El Molino. Detailed address: 1815, Avenida Rivadavia, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, C1033AAI, Argentina"
+124,3.56,2.06,1.41,8.79,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Centro Comunitario Nocturno. Detailed address: 522, Avenida Gendarmería Nacional, Villa 31, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1104AMT, Argentina
+2. Tango Sur. Detailed address: Autopista Arturo Illia, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425ABX, Argentina"
+125,7.35,11.6,1.24,2.1,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Swiss Medical Center. Detailed address: 1443, Avenida Pueyrredón, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, 1118, Argentina
+2. Delicious. Detailed address: Avenida Nazca, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, C1406AJC, Argentina"
+126,9.48,1.66,2.69,7.93,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. BierLife. Detailed address: 670, Humberto I, San Telmo, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1103ACN, Argentina
+2. Ugi's. Detailed address: Carlos Pellegrini, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1059, Argentina"
+127,3.93,1.46,5.83,2.42,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Escuela Primaria Común 08 Carlos Norberto Vergara. Detailed address: Avenida Amancio Alcorta, Barrrio Estación Buenos Aires, Barracas, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, 1283, Argentina
+2. La Plaza. Detailed address: Juan María Gutiérrez, La Isla, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1127AAR, Argentina"
+128,11.27,12.58,3.11,6.44,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. SJ. Detailed address: Emilio Mitre, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, C1406GRN, Argentina
+2. Pizza Napolitana Furore. Detailed address: 451, Esmeralda, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1049AAQ, Argentina"
+129,6.13,2.22,9.48,1.6,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Venus. Detailed address: Empedrado, Villa del Parque, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, C1417DSE, Argentina
+2. Siglo XX. Detailed address: 1182, Cochabamba, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1046AAD, Argentina"
+130,3.58,4.98,7.45,8.94,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kyodo. Detailed address: 2670, Avenida Ortiz de Ocampo, Barrio Parque, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425DSQ, Argentina
+2. La Birreria. Detailed address: 601, Malabia, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, 1414, Argentina"
+131,9.35,4.36,8.95,2.54,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Depósito Casa Moneda. Detailed address: 276, Avenida Presidente Ramón S. Castillo, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1104ACH, Argentina
+2. Plaza República Oriental del Uruguay. Detailed address: Monumento José Gervasio Artigas, Ciclovía del Libertador, Palermo Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1425DCO, Argentina"
+132,15.13,9.2,2.36,6.66,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Instituto de Rehabilitación Psicofísica. Detailed address: 955, Echeverría, Bajo Belgrano, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428DUB, Argentina
+2. Plazoleta del Buen Vecino. Detailed address: 1880, Teniente Coronel Casimiro Recuero, Parque Chacabuco, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, 1286, Argentina"
+133,8.26,12.77,5.57,8.33,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hard Rock Cafe. Detailed address: 1930, Junín, La Isla, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1113AAX, Argentina
+2. Auditorio Belgrano. Detailed address: 2348, Virrey Loreto, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426, Argentina"
+134,1.59,7.26,8.38,9.47,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Patio de Marruecos. Detailed address: 1909, Gurruchaga, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414DMJ, Argentina
+2. Patio Carranza. Detailed address: Viaducto Carranza, Las Cañitas, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425BIC, Argentina"
+135,5.87,3.36,5.1,1.06,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Four Seasons. Detailed address: Elena, 1086, Posadas, La Isla, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1001, Argentina
+2. Itaú. Detailed address: 1262, Avenida Callao, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1012AAZ, Argentina"
+136,5.02,2.65,11.07,7.65,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Escuela Infantil 06/10° Madre Eufrasia Iaconis. Detailed address: Blanco Encalada, Belgrano R, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, 1430, Argentina
+2. Fundación Hastinapura Filial Villa del Parque. Detailed address: 2184, Avenida Nazca, Villa Santa Rita, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, 1417, Argentina"
+137,5.7,3.56,5.35,1.83,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. NITRO Fitness & Health. Detailed address: 297, Bogotá, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, C1405BOB, Argentina
+2. Tonno. Detailed address: Charcas, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425FNI, Argentina"
+138,13.28,9.54,16.91,4.11,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Anna's. Detailed address: 347, Bolívar, Monserrat, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1066, Argentina
+2. Saborcito Casero. Detailed address: 3062, Echeverría, Belgrano R, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428DSC, Argentina"
+139,7.83,6.92,1.69,0.67,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Neurona. Detailed address: 2320, Godoy Cruz, Palermo Hollywood, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1425FQC, Argentina
+2. Mandarina Productora. Detailed address: 67, Fraga, Chacarita, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1427EGD, Argentina"
+140,3.23,1.29,2.01,6.9,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Provincia de Misiones. Detailed address: Cataratas del Iguazú, Misiones, Bernardo de Irigoyen, Monserrat, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1084AAE, Argentina
+2. Terminal Línea 53. Detailed address: Aristóbulo Del Valle, La Boca, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, Distrito de Las Artes, 1164, Argentina"
+141,2.74,0.76,7.96,8.16,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Frano. Detailed address: 3253, Avenida Santa Fe, Alto Palermo, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425BGH, Argentina
+2. Trova Bar. Detailed address: Doctor Emilio Ravignani, Palermo Hollywood, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1414COV, Argentina"
+142,5.31,10.47,11.78,9.75,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Parrilla. Detailed address: Sarmiento, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1005, Argentina
+2. Piccolina. Detailed address: 2150, Fray Justo Santa María de Oro, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425FQC, Argentina"
+143,9.27,6.34,2.85,5.07,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Calma Chica. Detailed address: Bulnes, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, C1189AAS, Argentina
+2. INSTITUTO SANTA MARÍA - Jardín de Infantes. Detailed address: 667, Avenida La Plata, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, 1235, Argentina"
+144,7.53,11.5,5.85,4.47,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Urquiza Fútbol. Detailed address: Avenida Franklin Delano Roosevelt, Villa Urquiza, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, C1431DOD, Argentina
+2. Club Harrods Gath & Chaves. Detailed address: José Hernández, Bajo Belgrano, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426DQG, Argentina"
+145,2.74,8.41,7.27,1.08,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Novo. Detailed address: Junín, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1027, Argentina
+2. Grupo Scout Coronel Benito Meana. Detailed address: 1445, Junín, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, 1114, Argentina"
+146,2.25,3.67,1.07,7.22,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Carlos Guido y Spano. Detailed address: 4601, Güemes, Palermo Pacífico, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425FNI, Argentina
+2. Rosebar. Detailed address: Honduras, Palermo Hollywood, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1414CWQ, Argentina"
+147,15.17,11.34,10.42,7.68,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sector 10. Detailed address: Libertad Lamarque, Barrrio Estación Buenos Aires, Barracas, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, 1284, Argentina
+2. Swiss Medical Center De Los Arcos. Detailed address: Hunter Douglas, 5451, Guatemala, Palermo Hollywood, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1425BVE, Argentina"
+148,2.91,8.59,3.87,2.01,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jardín de Infantes Integral 04/10°. Detailed address: Húsares, Bajo Belgrano, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, 1428, Argentina
+2. Pain Du Jour. Detailed address: Santiago del Estero, Monserrat, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1091ABA, Argentina"
+149,6.05,7.11,5.59,3.2,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 147 - Constitución. Detailed address: Avenida Juan de Garay, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1137, Argentina
+2. Del Carmen. Detailed address: 1701, Avenida Córdoba, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1055AAH, Argentina"
+150,2.63,1.68,8.17,9.77,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Instituto de la Niñez. Detailed address: Gallo, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, 1425, Argentina
+2. 307 - Ceretti. Detailed address: Ceretti, Villa Urquiza, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, C1431DUB, Argentina"
+151,5.66,7.95,3.26,10.62,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Centro Educativo de Nivel Primario 28 - H. Gral. de Agudos Doctor Ramos Mejía. Detailed address: General Urquiza, San Cristóbal, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1221, Argentina
+2. Havanna. Detailed address: Chacabuco, Monserrat, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1067ABB, Argentina"
+152,6.39,2.94,5.07,2.29,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Syba. Detailed address: Avenida Federico Lacroze, Colegiales, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1426DND, Argentina
+2. Beio. Detailed address: 2198, Arenales, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1124AAH, Argentina"
+153,8.47,3.98,0.78,2.29,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Caelis. Detailed address: Lavalle, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, 1172, Argentina
+2. Atalaya. Detailed address: Avenida Córdoba, Catalinas Norte, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1054AAD, Argentina"
+154,2.48,4.42,11.02,5.57,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Parroquia Nuestra Señora de Luján - Iglesia Castrense. Detailed address: Avenida Cabildo, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1426, Argentina
+2. Universidad de Palermo-Facultad de Arquitectura. Detailed address: 931, Ecuador, Abasto, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, C1187AAO, Argentina"
+155,11.25,5.84,3.38,7.6,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jardín de Infantes Nucleado E (EPCjc 04/08°) El Tranvia de Caballito [Sede]. Detailed address: Del Barco Centenera, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, 1424, Argentina
+2. Lobo Cafe. Detailed address: 3045, República Árabe Siria, Palermo Botánico, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, 1425, Argentina"
+156,3.95,6.97,4.73,2.85,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Instituto Comunidad Filii Dei. Detailed address: Avenida Gendarmería Nacional, Villa 31, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1104, Argentina
+2. Provincia de Misiones. Detailed address: Cataratas del Iguazú, Misiones, Bernardo de Irigoyen, Monserrat, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1084AAE, Argentina"
+157,8.38,4.63,6.46,7.47,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Teatro ciego (abasto). Detailed address: 3600, Zelaya, Abasto, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, C1189AAH, Argentina
+2. Fauno´ss. Detailed address: Las Indias, Parque Chas, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, C1427BLA, Argentina"
+158,2.33,7.19,3.95,7.56,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pollos Al Spiedo. Detailed address: 1298, Avenida Cabildo, Colegiales, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426, Argentina
+2. Galicia Más. Detailed address: Avenida Del Libertador, Palermo Norte, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425DDA, Argentina"
+159,6.67,5.37,4.03,6.31,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dios es Amor. Detailed address: Avenida Almafuerte, Nueva Pompeya, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, Distrito Tecnológico, C1437, Argentina
+2. Farmacia. Detailed address: Avenida Manuel Augusto Montes de Oca, Barracas, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, Distrito del Diseño, C1269ABF, Argentina"
+160,9.41,1.52,3.22,4.88,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fabric Sushi. Detailed address: 703, Avenida Doctor Honorio Pueyrredón, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, C1405BAE, Argentina
+2. Gio. Detailed address: 3500, Soler, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1186AAN, Argentina"
+161,12.06,9.03,5.93,8.07,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plaza Federación de Rusia. Detailed address: La Pampa, Bajo Belgrano, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428DUB, Argentina
+2. Parque Lineal - Honorio Pueyrredón. Detailed address: 1043, Avenida Doctor Honorio Pueyrredón, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, C1405BAH, Argentina"
+162,10.62,7.29,2.85,5.14,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sector 9. Detailed address: Astor Piazzolla, Barrrio Estación Buenos Aires, Barracas, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, 1284, Argentina
+2. Terminal 4. Detailed address: Avenida Tomás Edison, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1104AMT, Argentina"
+163,11.83,11.11,13.18,5.63,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Clinica San Camilo - Consultorios. Detailed address: 572, Mahatma Gandhi, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, C1414EFH, Argentina
+2. 051 - Tucumán. Detailed address: Tucumán, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1043AAY, Argentina"
+164,13.66,3.66,6.5,13.56,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Lenita. Detailed address: Azcuénaga, La Isla, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1127AAR, Argentina
+2. 256 - Plaza Noruega. Detailed address: Amenábar, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428AAT, Argentina"
+165,12.48,8.24,14.93,1.33,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Edificio Alas. Detailed address: 917, Avenida Leandro N. Alem, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1001AAD, Argentina
+2. Instituto de Rehabilitación Psicofísica. Detailed address: 955, Echeverría, Bajo Belgrano, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428DUB, Argentina"
+166,8.45,1.77,4.37,4.66,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Shoshana. Detailed address: 5441, Guatemala, Palermo Hollywood, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1425BVE, Argentina
+2. Plazoleta de los Vecinos Sensibles. Detailed address: 3444, República Dominicana, Alto Palermo, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, 1425, Argentina"
+167,1.17,2.59,3.65,6.0,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Itaú. Detailed address: 1262, Avenida Callao, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1012AAZ, Argentina
+2. Plaza Estado del Vaticano. Detailed address: 1151, Arturo Toscanini, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1055AAB, Argentina"
+168,8.72,7.76,2.16,9.87,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mandarine. Detailed address: Avenida Costanera Rafael Obligado, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1426COA, Argentina
+2. Plaza Luis Federico Leloir. Detailed address: 2569, Agüero, La Isla, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1425EID, Argentina"
+169,4.75,11.72,10.18,5.98,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Banco Ciudad. Detailed address: General Las Heras, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1021ABF, Argentina
+2. Cair Paravel. Detailed address: Iberá, Villa Urquiza, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, C1431, Argentina"
+170,9.16,4.66,6.64,16.76,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pizza Pizza. Detailed address: Segurola, Floresta, Buenos Aires, Comuna 10, Ciudad Autónoma de Buenos Aires, C1407FAU, Argentina
+2. La Fira. Detailed address: Pavón, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1151, Argentina"
+171,9.0,13.88,13.5,13.66,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plaza República Oriental del Uruguay. Detailed address: Monumento José Gervasio Artigas, Ciclovía del Libertador, Palermo Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1425DCO, Argentina
+2. Pasaje Manzanares. Detailed address: Sendero Manzanares, Saavedra, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, C1431AJI, Argentina"
+172,8.78,7.1,11.22,1.94,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Avant. Detailed address: 980, Avenida Pueyrredón, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1032, Argentina
+2. Plaza Doctor Pedro Escudero. Detailed address: Avenida Melián, Saavedra, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, C1430CEE, Argentina"
+173,5.97,14.79,7.62,14.69,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jardín de Infantes Integral 03 Distrito Escolar13 Jardín del Parque. Detailed address: 1135, Avenida Lacarra, Parque Avellaneda, Buenos Aires, Comuna 9, Ciudad Autónoma de Buenos Aires, 1407, Argentina
+2. ESEA en Danza Mastrazzi Curso Vocacional de Danza y Expresión Corporal Infantil 05. Detailed address: Avenida San Juan, San Cristóbal, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1232, Argentina"
+174,7.34,1.84,3.44,5.33,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. wasabi's. Detailed address: Thames, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414DAU, Argentina
+2. Bonafide. Detailed address: Avenida Callao, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1023AAE, Argentina"
+175,7.35,2.22,1.16,8.65,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Enterprise. Detailed address: 1318, Cerrito, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1010AAZ, Argentina
+2. Tandoor. Detailed address: 1293, Laprida, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, 1425, Argentina"
+176,12.67,7.28,11.94,8.76,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plaza Salvador Allende. Detailed address: 3249, Avenida Parque Roberto Goyeneche, Villa Urquiza, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, C1430APA, Argentina
+2. Plaza Doctor Bernardo Houssay. Detailed address: Parroquia San Lucas, Paraguay, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1114AAD, Argentina"
+177,2.34,11.52,8.01,4.16,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rosebar. Detailed address: Honduras, Palermo Hollywood, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1414CWQ, Argentina
+2. Escuela Primaria Común 09 Florentino Ameghino. Detailed address: Avenida La Plata, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, 1235, Argentina"
+178,7.21,2.37,3.81,9.05,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Parque Ferroviario Colegiales. Detailed address: 698, Moldes, Colegiales, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426CQO, Argentina
+2. Cliba. Detailed address: Autopista Arturo Illia, Barrio Parque, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1426COA, Argentina"
+179,10.79,0.66,6.83,5.58,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pizza Goll. Detailed address: Avenida Raúl Scalabrini Ortiz, Alto Palermo, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425DBC, Argentina
+2. Escuela Infantil Lima Limón. Detailed address: General César Díaz, Villa General Mitre, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, 1416, Argentina"
+180,9.99,4.48,10.55,10.9,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bloque G. Detailed address: Avenida Costanera Rafael Obligado, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1104AMT, Argentina
+2. Hotel Faena. Detailed address: 445, Martha Salotti, Puerto Madero, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1107, Argentina"
+181,4.17,6.63,11.88,11.09,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Galerías Pacífico. Detailed address: 550, Avenida Córdoba, Catalinas Norte, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1054AAC, Argentina
+2. Easy. Detailed address: Don Bosco, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, C1204AAO, Argentina"
+182,7.11,3.92,1.5,5.7,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 190 - Juncal. Detailed address: Juncal, Alto Palermo, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425DGS, Argentina
+2. Cosi mi Piace. Detailed address: 4618, El Salvador, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414BMQ, Argentina"
+183,1.52,8.9,10.59,14.71,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chungo. Detailed address: 1927, Avenida Juramento, Barrio Chino, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426ABB, Argentina
+2. Viejo Alsina. Detailed address: 178, Piedras, Monserrat, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1079AAD, Argentina"
+184,3.76,6.81,3.36,10.89,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Yiyo. Detailed address: Jerónimo Salguero, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, 1179, Argentina
+2. Planeta. Detailed address: Monroe, Barrio Chino, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428AGL, Argentina"
+185,2.51,0.91,8.33,6.61,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pago Fácil. Detailed address: Avenida Boyacá, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, C1406GLH, Argentina
+2. Lalo de Buenos Aires. Detailed address: 306, Montevideo, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1037ACD, Argentina"
+186,3.93,8.1,3.56,1.84,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pago Facil. Detailed address: Manuel Ricardo Trelles, Villa General Mitre, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, C1416BTU, Argentina
+2. Jardín de Infantes Nucleado B (EPCjs 25/12°). Detailed address: Remedios de Escalada de San Martín, Villa Santa Rita, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, 1416, Argentina"
+187,5.69,10.6,11.59,10.4,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Brera. Detailed address: General Lucio Norberto Mansilla, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1120AAH, Argentina
+2. Hospital Italiano - Sede Belgrano 2. Detailed address: Virrey Del Pino, Colegiales, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426ABQ, Argentina"
+188,9.25,8.91,3.06,8.77,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Instituto Integral Talpiot. Detailed address: Azcuénaga, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1029, Argentina
+2. Le Ble. Detailed address: 4392, Avenida Santa Fe, Palermo Pacífico, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425, Argentina"
+189,1.78,9.58,8.88,3.58,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gout. Detailed address: 2124, Juncal, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, 1114, Argentina
+2. Supervielle. Detailed address: 3602, Charcas, Alto Palermo, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, 1425, Argentina"
+190,5.46,9.08,3.83,8.68,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jardín de Infantes Nucleado A (EPCjs 01/06°). Detailed address: Adolfo Alsina, Once, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1090, Argentina
+2. Café Crespin. Detailed address: Vera, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, C1414AJH, Argentina"
+191,13.6,11.15,6.13,10.05,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Brukbar. Detailed address: 1802, Uriarte, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414DAU, Argentina
+2. Pizza Al Corte. Detailed address: 1903, Avenida Entre Ríos, Parque Patricios, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, 1134, Argentina"
+192,9.17,7.92,1.73,11.0,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plazoleta del Buen Vecino. Detailed address: 1880, Teniente Coronel Casimiro Recuero, Parque Chacabuco, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, 1286, Argentina
+2. Crobar. Detailed address: Avenida Coronel Marcelino E. Freyre, Palermo Pacífico, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425ABX, Argentina"
+193,11.6,16.2,9.09,12.03,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. CeSAC Nº 19. Detailed address: 1905, Avenida Curapaligüe, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, 1047, Argentina
+2. Servicio Meteorológico Nacional. Detailed address: 4019, Avenida Dorrego, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425ABX, Argentina"
+194,3.98,0.72,6.59,10.58,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Brooklyn Fitboxing. Detailed address: 2382, Jorge Luis Borges, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425, Argentina
+2. Escuela Infantil Artelin. Detailed address: Muñiz, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, 1234, Argentina"
+195,10.75,11.12,2.5,4.62,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Madero. Detailed address: Juana Manuela Gorriti, Puerto Madero, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1107BGA, Argentina
+2. Kowloon. Detailed address: 3633, Lavalle, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, 1172, Argentina"
+196,13.06,6.0,2.09,10.56,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Reserva. Detailed address: Costanera Sur, Puerto Madero, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1107BLF, Argentina
+2. Jesucristo es el Señor - Centro de Ayuda Espiritual. Detailed address: Avenida Santa Fe, Palermo Pacífico, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425BHF, Argentina"
+197,8.19,7.66,4.81,9.48,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Parque General Juan Gregorio de Las Heras. Detailed address: Escuela Modelo de Fútbol y Deportes Claudio Marangoni, Juncal, Alto Palermo, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425DKK, Argentina
+2. Rex. Detailed address: 1554, Capitán General Ramón Freire, Colegiales, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426EJP, Argentina"
+198,10.16,16.96,13.37,3.2,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plazoleta Agustín Bardi. Detailed address: Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428DUB, Argentina
+2. Monoblock Nº 2. Detailed address: Crespo, Parque Chacabuco, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, C1406COB, Argentina"
+199,6.5,11.9,8.43,4.79,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Escuela Primaria Común 15 República Oriental del Uruguay. Detailed address: Jardín de Infantes Nucleado D (EPCjs 15/11°) [Sede] Sin Fronteras, Avenida Carabobo, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, 1406, Argentina
+2. Parque Leonardo Pereyra. Detailed address: California, Barracas, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, Distrito del Diseño, 1277, Argentina"
+200,5.41,7.0,2.4,11.95,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ITACA complejo teatral. Detailed address: Humahuaca, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, C1192ACB, Argentina
+2. Italiana. Detailed address: Teniente Coronel Casimiro Recuero, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, 1286, Argentina"
+201,3.5,10.7,5.21,6.4,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Havanna. Detailed address: Chacabuco, Monserrat, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1067ABB, Argentina
+2. Instituto de la Niñez. Detailed address: Gallo, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, 1425, Argentina"
+202,4.88,10.72,2.27,3.44,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Centro Medico Del Plata. Detailed address: Avenida La Plata, Parque Chacabuco, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, 1255, Argentina
+2. Solar Check. Detailed address: 3315, Avenida Juan Bautista Justo, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, C1416DJA, Argentina"
+203,3.07,4.67,8.84,4.85,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. El Buen Gusto. Detailed address: Boulogne Sur Mer, Once, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, C1190AAA, Argentina
+2. Mumbai Mahal. Detailed address: 426, Paraguay, Catalinas Norte, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1057AAD, Argentina"
+204,1.59,4.84,5.67,7.59,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rex. Detailed address: 1554, Capitán General Ramón Freire, Colegiales, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426EJP, Argentina
+2. Plazoleta Antonio Santa María. Detailed address: Busto del General Manuel Belgrano, Echeverría, Barrio Chino, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428AID, Argentina"
+205,13.68,2.28,6.48,12.08,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Ola. Detailed address: 5420, Avenida Rivadavia, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, C1424CEX, Argentina
+2. Anna's. Detailed address: 347, Bolívar, Monserrat, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1066, Argentina"
+206,10.16,3.55,1.89,5.26,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Biblioteca Nacional de los Maestros. Detailed address: 935, Pasaje Pizzurno, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1055AAG, Argentina
+2. Rojas. Detailed address: Avellaneda, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, C1405CNV, Argentina"
+207,8.4,0.83,5.43,4.01,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Club Atlético Atlanta. Detailed address: 374, Humboldt, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1414CXF, Argentina
+2. Chateau Puerto Madero. Detailed address: Martha Salotti, Rodrigo Bueno, Puerto Madero, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1107, Argentina"
+208,6.52,1.68,7.54,3.64,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fecovita. Detailed address: 2314, Enzo Bordabehere, Villa del Parque, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, C1417DSE, Argentina
+2. Neumaticos. Detailed address: 3454, Álvarez Jonte, Villa Santa Rita, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, C1407GON, Argentina"
+209,7.05,3.15,7.98,5.55,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Colegio de Escribanos de la Ciudad de Buenos Aires. Detailed address: Avenida Callao, La Isla, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1128ACA, Argentina
+2. Patio de Marruecos. Detailed address: 1909, Gurruchaga, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414DMJ, Argentina"
+210,20.34,10.93,14.66,12.74,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. CEMLA. Detailed address: Cochabamba, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, Distrito de Las Artes, 1147, Argentina
+2. Jardín de Infantes Común 02/10° Merceditas. Detailed address: Avenida Ruiz Huidobro, Saavedra, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, 1430, Argentina"
+211,4.01,6.9,7.05,7.04,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. KOI Dumplings. Detailed address: 1387, Lavalleja, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414DQC, Argentina
+2. Exedra. Detailed address: Carlos Pellegrini, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1054AAI, Argentina"
+212,10.84,14.69,7.48,4.28,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Escuela Primaria Común 06 Carlos Guido y Spano. Detailed address: 4801, Coronel Ramón Lorenzo Falcón, Villa Luro, Buenos Aires, Comuna 10, Ciudad Autónoma de Buenos Aires, 1407, Argentina
+2. Plaza Virrey Vertiz. Detailed address: Autopista Presidente Arturo Frondizi, Barracas, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, Distrito del Diseño, C1295ADM, Argentina"
+213,6.75,3.83,14.68,8.2,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gimnasio Belgrano. Detailed address: 3153, Virrey Avilés, Colegiales, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426, Argentina
+2. Depósito Casa Moneda. Detailed address: 276, Avenida Presidente Ramón S. Castillo, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1104ACH, Argentina"
+214,1.26,6.36,2.68,3.16,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ginko. Detailed address: Esmeralda, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1049AAQ, Argentina
+2. Javi's Parrilla Restaurant & Cafeteria. Detailed address: 901, Avenida Belgrano, Monserrat, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, P1091, Argentina"
+215,12.89,6.64,7.79,4.67,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Unico. Detailed address: 365, Encarnación Ezcurra, Puerto Madero, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1107, Argentina
+2. Sabores Grill. Detailed address: Ángel Justiniano Carranza, Palermo Hollywood, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1414BTH, Argentina"
+216,6.83,10.89,8.88,5.69,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Empa's. Detailed address: Azcuénaga, La Isla, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1128ACJ, Argentina
+2. Instituto de Tecnología Ort 02. Detailed address: Montañeses, Barrio Chino, Núñez, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1429, Argentina"
+217,8.78,2.15,7.63,4.09,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jardín de Infantes Nucleado B (EPCjc 10/19°). Detailed address: 1052, Aníbal Pedro Arbeletche, Nueva Pompeya, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, 1437, Argentina
+2. Sanatorio Franchín. Detailed address: 3545, Bartolomé Mitre, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, C1201AAO, Argentina"
+218,9.66,1.69,6.17,5.46,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Club Harrods Gath & Chaves. Detailed address: José Hernández, Bajo Belgrano, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426DQG, Argentina
+2. Instituto Belgrano Uno. Detailed address: Arribeños, Núñez, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, 1429, Argentina"
+219,6.81,4.02,11.31,11.54,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plaza Poeta Ricardo E. Lleras. Detailed address: Campito Santa Lucía, Virgen y Mártir, Autopista Presidente Arturo Frondizi, Barracas, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, C1295ADM, Argentina
+2. Claustro Santa Catalina de Siena. Detailed address: San Martín, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1049AAK, Argentina"
+220,6.19,3.91,7.22,11.76,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Crisol. Detailed address: Juncal, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1012AAZ, Argentina
+2. Estación Arcos Burger Bar. Detailed address: 602, Avenida Juan Bautista Justo, Palermo Pacífico, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425FSN, Argentina"
+221,7.3,2.93,8.11,4.55,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plaza José C. Paz. Detailed address: José C. Paz, Parque Patricios, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, Distrito Tecnológico, C1437IQJ, Argentina
+2. CeSAC Nº 19. Detailed address: 1905, Avenida Curapaligüe, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, 1047, Argentina"
+222,12.48,7.92,11.8,12.67,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Escuela de Música de Bs. As. Sede Artística. Detailed address: La Pampa, Barrio Chino, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, 1428, Argentina
+2. Instituto Nuestra Señora del Huerto. Detailed address: 2140, Avenida Independencia, San Cristóbal, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, C1225AAQ, Argentina"
+223,10.64,5.41,9.22,2.62,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Centro Educativo Complementario de Idiomas Extranjeros 08. Detailed address: Salas, Parque Chacabuco, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, 1424, Argentina
+2. Correo Argentino. Detailed address: 4164, Avenida Federico Lacroze, Chacarita, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1427BPG, Argentina"
+224,2.51,0.88,8.49,6.43,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kowloon. Detailed address: 3633, Lavalle, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, 1172, Argentina
+2. La Alacena. Detailed address: 1401, Gascón, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1181ADA, Argentina"
+225,11.34,4.68,1.5,8.34,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Universidad Nacional de Tres de Febrero. Detailed address: 71, Maipú, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1006ACF, Argentina
+2. Espacio Carmela. Detailed address: Montañeses, Barrio Chino, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428AID, Argentina"
+226,0.55,6.38,2.74,8.42,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Galicia Más. Detailed address: Avenida Del Libertador, Palermo Norte, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425DDA, Argentina
+2. Le Pain Quotidien. Detailed address: 6002, Nicaragua, Palermo Hollywood, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, 1414, Argentina"
+227,10.01,2.2,6.04,4.17,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Homenaje de la Nación Argentina al Capitán General Don José de San Martín en el Centenario de su fallecimiento (1850 - 17 de Agosto - 1950). Detailed address: Barrio Parque, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425CBA, Argentina
+2. Cerviño Nuevo. Detailed address: Sinclair, Palermo Pacífico, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425GMN, Argentina"
+228,11.04,9.99,10.04,3.73,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Confitería El Molino. Detailed address: 1815, Avenida Rivadavia, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, C1033AAI, Argentina
+2. Plazoleta Crucero General Belgrano. Detailed address: Hospital Municipal de Oncología Marie Curie, 150, Avenida Patricias Argentinas, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, C1405CAE, Argentina"
+229,4.01,11.29,5.08,11.98,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Vestuario DT. Detailed address: Avenida Amancio Alcorta, Parque Patricios, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, Distrito Tecnológico, C1437FBG, Argentina
+2. Biblioteca Nacional de los Maestros. Detailed address: 935, Pasaje Pizzurno, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1055AAG, Argentina"
+230,5.39,7.17,10.18,4.26,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Viejo Alsina. Detailed address: 178, Piedras, Monserrat, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1079AAD, Argentina
+2. Lo de Jesús. Detailed address: 1406, Gurruchaga, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414DMJ, Argentina"
+231,3.59,7.16,1.35,1.73,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Moonay. Detailed address: 1190, Billinghurst, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1186AAN, Argentina
+2. Parrilla. Detailed address: Sarmiento, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1005, Argentina"
+232,4.01,8.92,6.51,10.88,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Avatar. Detailed address: 5479, Nicaragua, Palermo Hollywood, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, 1414, Argentina
+2. Buque Museo Corbeta A.R.A. Uruguay. Detailed address: 500, Avenida Alicia Moreau de Justo, Puerto Madero, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1144, Argentina"
+233,8.63,1.83,6.43,3.6,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Correo Argentino. Detailed address: 4164, Avenida Federico Lacroze, Chacarita, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1427BPG, Argentina
+2. Gorrión. Detailed address: 3002, Amenábar, Núñez, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1429AAS, Argentina"
+234,9.34,4.42,6.76,2.7,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. DM Diagnostico Medico. Detailed address: Junín, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1123AAQ, Argentina
+2. Fabric Sushi. Detailed address: 703, Avenida Doctor Honorio Pueyrredón, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, C1405BAE, Argentina"
+235,10.09,4.55,1.32,10.82,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sans. Detailed address: Costa Rica, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414DMJ, Argentina
+2. Natural Life. Detailed address: 4250, Mariscal Antonio José de Sucre, Villa Urquiza, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, 1430, Argentina"
+236,5.02,8.34,0.84,12.41,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Patagonia. Detailed address: 4300, Avenida San Juan, Boedo, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, C1233ABZ, Argentina
+2. Rosso Café Argentina. Detailed address: Teniente General Juan Domingo Perón, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1038, Argentina"
+237,4.84,1.59,4.7,5.69,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Planeta. Detailed address: Monroe, Barrio Chino, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428AGL, Argentina
+2. Escuela Primaria p/Adultos 16 República Dominicana. Detailed address: Avenida Congreso, Núñez, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, 1428, Argentina"
+238,4.56,14.01,3.45,9.15,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Instituto de Tecnología Ort 02. Detailed address: Montañeses, Barrio Chino, Núñez, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1429, Argentina
+2. Palmeiras. Detailed address: José Bonifacio, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, C1406GSP, Argentina"
+239,2.69,6.13,8.43,4.68,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plaza Grand Bourg. Detailed address: Instituto Sanmartiniano, 2900, Mariscal Ramón Castilla, Barrio Parque, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, 1425, Argentina
+2. Brukbar. Detailed address: 1802, Uriarte, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414DAU, Argentina"
+240,7.97,1.88,4.0,8.41,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rapipago. Detailed address: 970, Estados Unidos, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1068, Argentina
+2. Midday. Detailed address: Teniente General Juan Domingo Perón, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1045, Argentina"
+241,9.22,7.72,2.66,7.91,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Roma. Detailed address: Avenida Rivadavia, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, C1424CEV, Argentina
+2. Vibo helados. Detailed address: Avenida Juan Bautista Justo, Villa General Mitre, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, C1416DKD, Argentina"
+242,6.54,1.95,4.97,14.32,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jardín de Infantes Nucleado C (EPCjs 18/15°). Detailed address: Arias, Saavedra, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, 1430, Argentina
+2. Don Jorge. Detailed address: Darwin, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1414CUR, Argentina"
+243,7.99,1.26,2.57,2.96,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Martina. Detailed address: Agüero, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1119ACO, Argentina
+2. Lucio. Detailed address: 2402, Avenida Raúl Scalabrini Ortiz, Alto Palermo, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425, Argentina"
+244,5.3,12.42,12.06,3.49,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Siglo XX. Detailed address: 1182, Cochabamba, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1046AAD, Argentina
+2. Nucha. Detailed address: Cabello, Palermo Norte, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425DEL, Argentina"
+245,2.36,8.74,6.4,8.81,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Park. Detailed address: Tomás Manuel de Anchorena, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1119ACO, Argentina
+2. The Temple Bar. Detailed address: 4677, Costa Rica, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414DMJ, Argentina"
+246,9.72,16.94,7.17,16.69,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Neumaticos. Detailed address: 3454, Álvarez Jonte, Villa Santa Rita, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, C1407GON, Argentina
+2. Punta Carrasco. Detailed address: Avenida Costanera Rafael Obligado, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1426COA, Argentina"
+247,6.34,3.3,6.66,8.38,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Provincia de Córdoba. Detailed address: Avenida 9 de Julio, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1102, Argentina
+2. Paseo Peatonal Costero De las Mujeres del Barrio la Boca. Detailed address: 834, General Daniel Cerri, La Boca, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, Distrito de Las Artes, C1169AAF, Argentina"
+248,11.95,11.1,4.11,12.02,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Universidad de Palermo. Detailed address: 3507, José Antonio Cabrera, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1188AAC, Argentina
+2. Banco Nación. Detailed address: 345, Avenida Corrientes, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1043, Argentina"
+249,11.67,10.29,3.92,0.65,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Azul. Detailed address: Galerías Pacífico, 550, Avenida Córdoba, Catalinas Norte, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1054AAC, Argentina
+2. Caelis. Detailed address: Lavalle, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, 1172, Argentina"
+250,19.39,16.17,11.7,6.96,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Podio. Detailed address: 1550, Juana Manso, Puerto Madero, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1107, Argentina
+2. Shop. Detailed address: 3516, Avenida de los Constituyentes, Agronomía, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, C1431EGH, Argentina"
+251,5.8,12.18,2.5,0.75,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Il Gufo. Detailed address: Suipacha, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1008AAV, Argentina
+2. Stylo. Detailed address: Avenida Directorio, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, C1424BDV, Argentina"
+252,10.57,11.14,4.11,6.76,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nicolo. Detailed address: Godoy Cruz, Palermo Hollywood, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1414DAO, Argentina
+2. Escuela Infantil 06/10° Madre Eufrasia Iaconis. Detailed address: Blanco Encalada, Belgrano R, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, 1430, Argentina"
+253,17.09,2.48,3.19,9.26,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. TK 02. Detailed address: Aeroparque Jorge Newbery, Avenida Costanera Rafael Obligado, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425, Argentina
+2. Editorial Santillana. Detailed address: Miravé, Barrrio Estación Buenos Aires, Parque Patricios, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, C1282AFF, Argentina"
+254,6.45,2.84,5.29,1.24,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Panera. Detailed address: 1360, Pierina Dealessi, Puerto Madero, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1107CHG, Argentina
+2. Los campeones. Detailed address: Avenida Manuel Augusto Montes de Oca, Barracas, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, Distrito del Diseño, 1295, Argentina"
+255,2.84,15.7,10.43,9.11,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Voz del Estadio. Detailed address: Ingreso Local, Parque Patricios, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, C1437FBG, Argentina
+2. La Reina. Detailed address: 4160, Avenida Triunvirato, Villa Urquiza, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, 1431, Argentina"
+256,12.1,8.14,6.02,8.67,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Escuela Primaria Común 21 Maria Sklodowska de Curie. Detailed address: Mariano Acosta, Parque Avellaneda, Buenos Aires, Comuna 9, Ciudad Autónoma de Buenos Aires, 1407, Argentina
+2. Yiyo. Detailed address: Jerónimo Salguero, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, 1179, Argentina"
+257,7.35,17.47,12.55,10.39,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jardín de Infantes Nucleado B (EPCjs 25/12°). Detailed address: Remedios de Escalada de San Martín, Villa Santa Rita, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, 1416, Argentina
+2. Madero. Detailed address: Juana Manuela Gorriti, Puerto Madero, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1107BGA, Argentina"
+258,1.72,6.07,4.12,5.11,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lalo de Buenos Aires. Detailed address: 306, Montevideo, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1037ACD, Argentina
+2. Rapipago. Detailed address: 970, Estados Unidos, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1068, Argentina"
+259,14.48,7.51,10.92,12.81,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Automotores JM. Detailed address: 2413, Las Palmas, Nueva Pompeya, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, C1437DAA, Argentina
+2. Homenaje de la Nación Argentina al Capitán General Don José de San Martín en el Centenario de su fallecimiento (1850 - 17 de Agosto - 1950). Detailed address: Barrio Parque, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425CBA, Argentina"
+260,8.53,1.32,6.74,4.47,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plazoleta de los Vecinos Sensibles. Detailed address: 3444, República Dominicana, Alto Palermo, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, 1425, Argentina
+2. Avant. Detailed address: 980, Avenida Pueyrredón, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1032, Argentina"
+261,5.76,1.65,7.31,8.19,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Correo Internacional. Detailed address: Banco Nación, Avenida Comodoro Py, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1004, Argentina
+2. Bloque G. Detailed address: Avenida Costanera Rafael Obligado, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1104AMT, Argentina"
+262,7.46,3.25,5.8,7.61,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mumbai Mahal. Detailed address: 426, Paraguay, Catalinas Norte, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1057AAD, Argentina
+2. Teatro ciego (abasto). Detailed address: 3600, Zelaya, Abasto, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, C1189AAH, Argentina"
+263,8.97,3.74,5.95,4.89,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Palita. Detailed address: 1489, Avenida Corrientes, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1042AAA, Argentina
+2. Gran Dabbang. Detailed address: 1543, Avenida Raúl Scalabrini Ortiz, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414DOC, Argentina"
+264,6.81,10.32,3.88,4.55,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dragon Doble. Detailed address: Avenida Rivadavia, Floresta, Buenos Aires, Comuna 10, Ciudad Autónoma de Buenos Aires, C1407DYD, Argentina
+2. Capilla Nuestra Señora de Luján. Detailed address: Aeroparque Jorge Newbery, Avenida Costanera Rafael Obligado, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425, Argentina"
+265,3.66,2.29,6.55,6.82,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. BBVA. Detailed address: Tomás Alberto Le Breton, Villa Urquiza, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, C1431DUB, Argentina
+2. Escuela de Música de Bs. As. Sede Artística. Detailed address: La Pampa, Barrio Chino, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, 1428, Argentina"
+266,1.89,6.98,3.58,0.71,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Macro. Detailed address: Avenida Doctor José María Ramos Mejía, Catalinas Norte, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1104AJN, Argentina
+2. El Café de Marco. Detailed address: 1259, Teniente General Juan Domingo Perón, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1033AAC, Argentina"
+267,13.61,8.06,11.09,17.17,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plazoleta Jorge N. Williams. Detailed address: Pedro Lozano, Villa del Parque, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, C1417, Argentina
+2. Santander. Detailed address: 480, Bartolomé Mitre, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1004AAA, Argentina"
+268,8.57,3.15,8.12,10.62,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Misiunea „Sfântul Apostol Andrei” Buenos Aires. Detailed address: 1536, 15 de Noviembre de 1889, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1136, Argentina
+2. Foja Cero. Detailed address: Lavalle, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1017, Argentina"
+269,9.73,3.24,6.48,8.81,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Manzana 9A. Detailed address: Caacupé, Villa 1-11-14 Barrio Padre Ricciardelli, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, C1406COB, Argentina
+2. Constitución. Detailed address: Colombres, Boedo, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, 1233, Argentina"
+270,8.22,1.61,3.24,4.13,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. El Sanjuanino. Detailed address: 1788, Sánchez de Bustamante, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1425BGS, Argentina
+2. Sans. Detailed address: Costa Rica, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414DMJ, Argentina"
+271,7.98,9.96,14.1,6.66,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Escuela Primaria Común 09 Florentino Ameghino. Detailed address: Avenida La Plata, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, 1235, Argentina
+2. Jardín de Infantes Nucleado C (EPCjs 18/15°). Detailed address: Arias, Saavedra, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, 1430, Argentina"
+272,8.34,12.27,6.96,4.3,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Estación intermedia Línea 60. Detailed address: Buenos Aires Lawn Tennis Club, Valentín Alsina, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1426CTD, Argentina
+2. Plaza República Socialista de Vietnam. Detailed address: Avenida Parque Roberto Goyeneche, Villa Urquiza, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, C1430DHI, Argentina"
+273,5.57,2.83,7.74,12.28,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Massera. Detailed address: Avenida Juan de Garay, San Telmo, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, Distrito de Las Artes, 1143, Argentina
+2. El Mundo de los Bajitos. Detailed address: Metrobús 25 de Mayo, Parque Chacabuco, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, 1424, Argentina"
+274,12.46,5.66,11.41,2.44,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 250 - Fleni. Detailed address: Montañeses, Barrio Chino, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428AID, Argentina
+2. Calma Chica. Detailed address: Bulnes, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, C1189AAS, Argentina"
+275,10.25,5.23,3.95,13.02,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Area Tres. Detailed address: 5218, Godoy Cruz, Palermo Hollywood, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1414BPV, Argentina
+2. Urquiza Fútbol. Detailed address: Avenida Franklin Delano Roosevelt, Villa Urquiza, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, C1431DOD, Argentina"
+276,1.77,4.0,11.93,1.95,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Punta Carrasco. Detailed address: Avenida Costanera Rafael Obligado, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1426COA, Argentina
+2. Universitas. Detailed address: Avenida Córdoba, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1120AAN, Argentina"
+277,7.96,3.66,1.7,5.19,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Juani Café. Detailed address: 4399, Gorriti, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414DQC, Argentina
+2. Havana. Detailed address: Avenida Corrientes, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, C1414AJJ, Argentina"
+278,8.0,4.88,6.61,4.02,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Manzana 21. Detailed address: Pasillo San Juan, Villa 1-11-14 Barrio Padre Ricciardelli, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, 1047, Argentina
+2. Museo de Arte Sacro María Antonia de San José. Detailed address: 1190, Avenida Independencia, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1099AAY, Argentina"
+279,12.3,10.62,6.79,15.11,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Buenos Aires Plaza. Detailed address: 353, Manuela Sáenz, Puerto Madero, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1106, Argentina
+2. Fecovita. Detailed address: 2314, Enzo Bordabehere, Villa del Parque, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, C1417DSE, Argentina"
+280,5.46,9.55,10.44,1.57,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Escuela Infantil Piluso. Detailed address: Televisión Pública, 2977, Avenida Presidente Figueroa Alcorta, La Isla, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1425, Argentina
+2. Shell. Detailed address: Avenida Brasil, Parque Patricios, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, 1134, Argentina"
+281,5.22,7.37,12.56,9.27,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Comisaría 26. Detailed address: 861, Avenida Manuel Augusto Montes de Oca, Barracas, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, Distrito del Diseño, C1269ABF, Argentina
+2. Macro. Detailed address: Avenida Doctor José María Ramos Mejía, Catalinas Norte, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1104AJN, Argentina"
+282,5.46,11.64,11.35,3.87,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ghirardelli Café | Café de Especialidad. Detailed address: 4428, Avenida Juan Bautista Justo, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, C1416DJE, Argentina
+2. DM Diagnostico Medico. Detailed address: Junín, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1123AAQ, Argentina"
+283,5.31,1.19,11.99,4.29,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. CMB 12. Detailed address: 2283, Páez, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, 1406, Argentina
+2. Instituto ESBA - Villa Urquiza. Detailed address: Avenida Triunvirato, Villa Urquiza, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, 1431, Argentina"
+284,12.17,7.45,6.19,2.33,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. El Bodegón de Ácido. Detailed address: 1099, Charlone, Chacarita, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1427ECG, Argentina
+2. Cancha de la Feria. Detailed address: Machu Picchu, Villa 31, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1104, Argentina"
+285,8.0,10.65,9.17,6.44,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Restaurante Central. Detailed address: Sarmiento, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1005, Argentina
+2. SJ. Detailed address: Emilio Mitre, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, C1406GRN, Argentina"
+286,9.68,3.27,8.24,0.81,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 206 - Galicia. Detailed address: Galicia, Villa General Mitre, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, C1416, Argentina
+2. Teatro Cervantes. Detailed address: 1155, Avenida Córdoba, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1055AAB, Argentina"
+287,1.64,0.74,6.32,4.78,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Trova Bar. Detailed address: Doctor Emilio Ravignani, Palermo Hollywood, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1414COV, Argentina
+2. 206 - Galicia. Detailed address: Galicia, Villa General Mitre, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, C1416, Argentina"
+288,9.68,12.79,6.06,11.01,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. INSTITUTO SANTA MARÍA - Jardín de Infantes. Detailed address: 667, Avenida La Plata, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, 1235, Argentina
+2. Unico. Detailed address: 365, Encarnación Ezcurra, Puerto Madero, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1107, Argentina"
+289,6.55,3.85,9.61,5.79,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Auto Sport. Detailed address: Avenida Independencia, Monserrat, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1200AAV, Argentina
+2. Plaza Jardín de Esculturas. Detailed address: 1024, Monroe, Barrio River, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1424BCL, Argentina"
+290,6.28,1.71,11.19,12.85,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Belgrano Rotisería. Detailed address: 2305, Virrey Del Pino, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426, Argentina
+2. Pancho Market. Detailed address: Bartolomé Mitre, Once, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, C1203AAN, Argentina"
+291,7.0,11.19,5.59,11.82,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 12. Detailed address: Acceso Lateral A1, Parque Patricios, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, C1437FBG, Argentina
+2. Jardín de Infantes Nucleado D (EPCjs 15/11°) [Sede] Sin Fronteras. Detailed address: Avenida Carabobo, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, 1406, Argentina"
+292,11.61,5.46,4.92,7.05,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Veneciana. Detailed address: 1093, Migueletes, Las Cañitas, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1426CTD, Argentina
+2. Pago Fácil. Detailed address: Avenida Boyacá, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, C1406GLH, Argentina"
+293,1.29,9.41,3.37,6.47,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Escuela Primaria p/Adultos 16 República Dominicana. Detailed address: Avenida Congreso, Núñez, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, 1428, Argentina
+2. ITACA complejo teatral. Detailed address: Humahuaca, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, C1192ACB, Argentina"
+294,9.81,0.67,7.26,13.93,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Escuela Infantil Lima Limón. Detailed address: General César Díaz, Villa General Mitre, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, 1416, Argentina
+2. Gout. Detailed address: 2124, Juncal, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, 1114, Argentina"
+295,6.58,6.34,10.09,2.54,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 105 - Parque Saavedra. Detailed address: García del Río, Saavedra, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, C1429APN, Argentina
+2. Mahjong. Detailed address: Via Viva Barrio Chino, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428AID, Argentina"
+296,6.61,5.54,2.35,5.21,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sociedad Damas de la Misericordia. Detailed address: Peña, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, 1126, Argentina
+2. Galerías Pacífico. Detailed address: 550, Avenida Córdoba, Catalinas Norte, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1054AAC, Argentina"
+297,4.69,8.49,12.26,8.79,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lo de Jesús. Detailed address: 1406, Gurruchaga, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414DMJ, Argentina
+2. Venus. Detailed address: Empedrado, Villa del Parque, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, C1417DSE, Argentina"
+298,2.37,6.57,5.56,3.83,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. YPF. Detailed address: Avenida Juan de Garay, Parque Patricios, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, 1259, Argentina
+2. Moonay. Detailed address: 1190, Billinghurst, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1186AAN, Argentina"
+299,14.75,5.43,0.75,7.17,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Manzana 6. Detailed address: Micro Ómnibus Ciudad de Buenos Aires, California, Villa 21 -24 / Zavaleta, Barracas, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, C1437IFA, Argentina
+2. Manzana 114. Detailed address: Colibrí, Villa 31, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1104AJN, Argentina"
+300,8.07,3.65,7.7,4.77,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rosso Café Argentina. Detailed address: Teniente General Juan Domingo Perón, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1038, Argentina
+2. Frano. Detailed address: 3253, Avenida Santa Fe, Alto Palermo, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425BGH, Argentina"
+301,1.97,8.94,15.81,3.11,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Foja Cero. Detailed address: Lavalle, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1017, Argentina
+2. Solarium Ergoline. Detailed address: Iberá, Núñez, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1429AAB, Argentina"
+302,7.3,0.87,4.25,10.0,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. El Mundo de los Bajitos. Detailed address: Metrobús 25 de Mayo, Parque Chacabuco, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, 1424, Argentina
+2. San Jose Futbol y Tenis. Detailed address: 1268, San José, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1150, Argentina"
+303,3.25,1.36,12.36,7.95,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Monster Vision FX. Detailed address: 2261, Avenida Cabildo, Barrio Chino, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428AAQ, Argentina
+2. Patagonia. Detailed address: 4300, Avenida San Juan, Boedo, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, C1233ABZ, Argentina"
+304,11.65,2.47,4.58,9.24,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plaza Concepción del Alto de San Pedro. Detailed address: 848, Bernardo de Irigoyen, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1100AAJ, Argentina
+2. Centro Medico Del Plata. Detailed address: Avenida La Plata, Parque Chacabuco, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, 1255, Argentina"
+305,1.83,5.65,7.1,6.66,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Shell 1695. Detailed address: Yatay, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, 1212, Argentina
+2. Universidad de Palermo. Detailed address: 3507, José Antonio Cabrera, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1188AAC, Argentina"
+306,17.97,5.48,11.15,5.76,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Iglesia Evangelica Cristo Te Ama. Detailed address: 304, Arzobispo Espinosa, La Boca, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, Distrito de Las Artes, C1158ACA, Argentina
+2. Embajada de Libia. Detailed address: 3432, Virrey Del Pino, Belgrano R, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, 1426, Argentina"
+307,7.04,6.65,6.65,5.36,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Natural Life. Detailed address: 4250, Mariscal Antonio José de Sucre, Villa Urquiza, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, 1430, Argentina
+2. Dr Birra. Detailed address: 402, Doctor Nicolás Repetto, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, C1405CRO, Argentina"
+308,3.86,11.0,5.89,10.96,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plazoleta Agustin Comastri. Detailed address: Bonpland, Chacarita, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1414BBQ, Argentina
+2. Carrefour Express. Detailed address: Avenida La Plata, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, C1223ACK, Argentina"
+309,7.38,14.72,5.54,13.77,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plazoleta Pedro Laurenz. Detailed address: 4085, Avenida Chiclana, Nueva Pompeya, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, 1263, Argentina
+2. Correo Internacional. Detailed address: Banco Nación, Avenida Comodoro Py, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1004, Argentina"
+310,7.02,0.74,3.79,14.87,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cantero Ciudad de Salamanca. Detailed address: Monumento a España, Avenida España, Isla Demarchi, La Boca, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, C1107CND, Argentina
+2. Automotores JM. Detailed address: 2413, Las Palmas, Nueva Pompeya, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, C1437DAA, Argentina"
+311,18.2,18.8,12.09,11.01,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pista Uno. Detailed address: Avenida Juan Bautista Justo, Villa Santa Rita, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, C1407FAC, Argentina
+2. 179 - Casa San. Detailed address: Olavarría, La Boca, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, Distrito de Las Artes, C1164ACB, Argentina"
+312,1.02,7.53,0.91,4.85,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plazoleta Crucero General Belgrano. Detailed address: Hospital Municipal de Oncología Marie Curie, 150, Avenida Patricias Argentinas, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, C1405CAE, Argentina
+2. Paseo Provincias Argentinas. Detailed address: Avenida 9 de Julio, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1010AAZ, Argentina"
+313,0.67,11.97,8.34,4.4,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Prensa Escrita. Detailed address: Ingreso Local, Parque Patricios, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, C1437FBG, Argentina
+2. Universidad Nacional de Tres de Febrero. Detailed address: 71, Maipú, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1006ACF, Argentina"
+314,17.71,4.85,12.38,11.02,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Club Manuel Belgrano. Detailed address: Crisólogo Larralde, Saavedra, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, C1431AJI, Argentina
+2. Manzana 9A. Detailed address: Caacupé, Villa 1-11-14 Barrio Padre Ricciardelli, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, C1406COB, Argentina"
+315,4.39,7.48,2.02,0.92,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Catedral. Detailed address: Rivadavia, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1084AAA, Argentina
+2. 12. Detailed address: Acceso Lateral A1, Parque Patricios, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, C1437FBG, Argentina"
+316,3.62,1.84,7.8,5.93,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Parque Carrasco. Detailed address: Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1426COA, Argentina
+2. Club Gimnasia y Esgrima de Buenos Aires. Detailed address: Senderos para ciclistas, Palermo Pacífico, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425ABX, Argentina"
+317,2.14,0.8,6.64,4.98,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pain Du Jour. Detailed address: Santiago del Estero, Monserrat, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1091ABA, Argentina
+2. Il Gufo. Detailed address: Suipacha, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1008AAV, Argentina"
+318,8.42,1.91,3.26,7.78,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Startech. Detailed address: 2635, Avenida Álvarez Thomas, Villa Urquiza, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, 1431, Argentina
+2. El Bodegón de Ácido. Detailed address: 1099, Charlone, Chacarita, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1427ECG, Argentina"
+319,9.53,2.04,3.29,7.61,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Orgullo Restaurante Goyena. Detailed address: Puan, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, C1406GZB, Argentina
+2. Escuela Primaria p/Adultos 12 José Enrique Rodó. Detailed address: Oceanía, Barrio Rivadavia I, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, 1406, Argentina"
+320,16.18,8.45,0.69,13.62,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Constitución. Detailed address: Colombres, Boedo, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, 1233, Argentina
+2. Plazoleta Agustín Bardi. Detailed address: Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428DUB, Argentina"
+321,3.36,5.46,1.86,8.61,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Café Martínez. Detailed address: 3899, Avenida Córdoba, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1188AAE, Argentina
+2. Neurona. Detailed address: 2320, Godoy Cruz, Palermo Hollywood, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1425FQC, Argentina"
+322,4.07,1.47,1.0,7.66,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Zabala Pagos. Detailed address: Zabala, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1426ABA, Argentina
+2. Kyodo. Detailed address: 2670, Avenida Ortiz de Ocampo, Barrio Parque, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425DSQ, Argentina"
+323,3.7,4.95,10.87,2.58,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ugi's. Detailed address: Carlos Pellegrini, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1059, Argentina
+2. 188 - Aranguren. Detailed address: Doctor Juan Felipe Aranguren, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, C1405DCA, Argentina"
+324,2.6,11.51,7.24,5.88,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Delicious. Detailed address: Avenida Nazca, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, C1406AJC, Argentina
+2. 146 - Hospital Francés. Detailed address: Carlos Calvo, San Cristóbal, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1221, Argentina"
+325,13.67,12.53,8.67,6.14,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Agua potable. Detailed address: Julieta Lanteri, Rodrigo Bueno, Puerto Madero, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1107CHG, Argentina
+2. Locutorio Internet. Detailed address: Avenida Hipólito Yrigoyen, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, C1205AAQ, Argentina"
+326,1.52,8.15,10.54,12.57,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plaza Virrey Vertiz. Detailed address: Autopista Presidente Arturo Frondizi, Barracas, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, Distrito del Diseño, C1295ADM, Argentina
+2. Plazoleta Agustin Comastri. Detailed address: Bonpland, Chacarita, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1414BBQ, Argentina"
+327,6.21,9.93,1.27,3.74,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Matafuegos Leo. Detailed address: Avenida Lafuente, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, C1407, Argentina
+2. Plazoleta Pedro Laurenz. Detailed address: 4085, Avenida Chiclana, Nueva Pompeya, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, 1263, Argentina"
+328,2.04,4.95,3.32,6.24,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Playa de Infractores. Detailed address: Bernardo de Irigoyen, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1140, Argentina
+2. Agua potable. Detailed address: Julieta Lanteri, Rodrigo Bueno, Puerto Madero, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1107CHG, Argentina"
+329,9.77,11.68,9.0,5.41,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Megatlon. Detailed address: 1951, Mercedes, Monte Castro, Buenos Aires, Comuna 10, Ciudad Autónoma de Buenos Aires, C1407GPO, Argentina
+2. El Pasaje De La Luna / Luna Porteña (Cooperativa Cultural Gastronómica). Detailed address: 365, San Lorenzo, San Telmo, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1064, Argentina"
+330,2.0,11.11,6.56,1.35,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cantero Central Provincia de Catamarca. Detailed address: Avenida 9 de Julio, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1102, Argentina
+2. Manzana 21. Detailed address: Pasillo San Juan, Villa 1-11-14 Barrio Padre Ricciardelli, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, 1047, Argentina"
+331,5.75,12.83,10.8,9.7,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Carrefour Express. Detailed address: Avenida La Plata, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, C1223ACK, Argentina
+2. Edificio Alas. Detailed address: 917, Avenida Leandro N. Alem, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1001AAD, Argentina"
+332,1.22,7.24,5.21,1.97,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Iglesia San Bernardo Abad. Detailed address: Gurruchaga, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, C1414AFD, Argentina
+2. Escuela Primaria p/Adultos 03 Doctor Onésimo Leguizamón. Detailed address: Avenida Santa Fe, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, 1060, Argentina"
+333,2.91,8.02,4.85,9.63,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fugazi. Detailed address: 684, Ayacucho, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, C1025ABN, Argentina
+2. CEMLA. Detailed address: Cochabamba, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, Distrito de Las Artes, 1147, Argentina"
+334,13.66,9.92,13.79,6.56,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fenoglio. Detailed address: Remedios de Escalada de San Martín, Vélez Sarsfield, Buenos Aires, Comuna 10, Ciudad Autónoma de Buenos Aires, C1407FBB, Argentina
+2. Cine Bar. Detailed address: Lavalle, Once, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1051, Argentina"
+335,5.09,1.58,3.48,8.3,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tango Sur. Detailed address: Autopista Arturo Illia, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425ABX, Argentina
+2. Instituto Comunidad Filii Dei. Detailed address: Avenida Gendarmería Nacional, Villa 31, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1104, Argentina"
+336,14.46,10.36,1.4,8.17,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Todo Relleno. Detailed address: 2823, Avenida Melián, Coghlan, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, C1430FED, Argentina
+2. Molina. Detailed address: 1144, Baldomero Fernández Moreno, Parque Chacabuco, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, C1406GZB, Argentina"
+337,6.58,2.56,1.24,7.96,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plaza Alemania. Detailed address: Riqueza Agropecuaria Argentina, Ciclovía del Libertador, Palermo Norte, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425DCO, Argentina
+2. Club Atlético San Lorenzo de Almagro - Sede Boedo. Detailed address: Balbastro, Boedo, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, 1255, Argentina"
+338,2.43,7.87,4.1,8.25,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Escuela Primaria Común 04 De Catedral al Norte José Manuel Estrada. Detailed address: Reconquista, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1003, Argentina
+2. YPF. Detailed address: Avenida Juan de Garay, Parque Patricios, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, 1259, Argentina"
+339,6.57,2.14,5.07,5.37,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tandoor. Detailed address: 1293, Laprida, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, 1425, Argentina
+2. Ardha. Detailed address: Darregueyra, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425FQC, Argentina"
+340,3.83,3.72,0.66,7.07,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. I.P.A.. Detailed address: Galicia, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, C1416CRR, Argentina
+2. Classic BA. Detailed address: Florida, Microcentro, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1005, Argentina"
+341,1.52,2.78,8.32,0.69,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gorrión. Detailed address: 3002, Amenábar, Núñez, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1429AAS, Argentina
+2. La Veneciana. Detailed address: 1093, Migueletes, Las Cañitas, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1426CTD, Argentina"
+342,4.93,0.89,5.38,2.35,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Instituto Belgrano Uno. Detailed address: Arribeños, Núñez, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, 1429, Argentina
+2. Instituto Alexander Fleming. Detailed address: Alexander Fleming, Crámer, Colegiales, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426DPB, Argentina"
+343,5.54,4.95,6.68,7.99,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Molina. Detailed address: 1144, Baldomero Fernández Moreno, Parque Chacabuco, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, C1406GZB, Argentina
+2. Belgrano Multiplex - Salas 4, 5 y 6. Detailed address: 2238, Vuelta de Obligado, Barrio Chino, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428, Argentina"
+344,10.76,14.19,1.76,6.95,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plaza Jardín de Esculturas. Detailed address: 1024, Monroe, Barrio River, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1424BCL, Argentina
+2. Imprenta. Detailed address: 2248, General José Gervasio Artigas, Villa del Parque, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, C1416EXL, Argentina"
+345,6.1,7.94,3.31,4.79,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Terminal Línea 86. Detailed address: Aristóbulo Del Valle, La Boca, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, Distrito de Las Artes, 1164, Argentina
+2. Manzana 6. Detailed address: Micro Ómnibus Ciudad de Buenos Aires, California, Villa 21 -24 / Zavaleta, Barracas, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, C1437IFA, Argentina"
+346,7.4,8.8,6.76,2.91,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Scienzia. Detailed address: Avenida Pueyrredón, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, 1118, Argentina
+2. Farmacity. Detailed address: Florida, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1016, Argentina"
+347,7.46,9.48,2.48,8.74,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Instituto Superior de Enseñanza Radiofónica (ISER). Detailed address: Avenida Doctor José María Ramos Mejía, Catalinas Norte, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1104AJN, Argentina
+2. I.P.A.. Detailed address: Galicia, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, C1416CRR, Argentina"
+348,3.58,2.16,1.48,1.41,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Club Atlético San Lorenzo de Almagro - Sede Boedo. Detailed address: Balbastro, Boedo, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, 1255, Argentina
+2. Matafuegos Leo. Detailed address: Avenida Lafuente, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, C1407, Argentina"
+349,0.82,10.04,9.75,2.6,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Santander. Detailed address: 480, Bartolomé Mitre, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1004AAA, Argentina
+2. Centro Comunitario Nocturno. Detailed address: 522, Avenida Gendarmería Nacional, Villa 31, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1104AMT, Argentina"
+350,5.54,3.56,7.08,10.44,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Locutorio Internet. Detailed address: Avenida Hipólito Yrigoyen, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, C1205AAQ, Argentina
+2. Centro de Alfabetización, Educación Básica y Trabajo 57 Padre Mujica. Detailed address: Punta Corral, Barrio YPF, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1104, Argentina"
+351,1.9,2.2,6.36,0.59,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 166 - Cementerio de Recoleta. Detailed address: Recoleta Urban Mall, 2050, Vicente López, La Isla, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1113, Argentina
+2. Traiano. Detailed address: Laprida, La Isla, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1425EID, Argentina"
+352,6.37,12.42,8.73,15.21,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plazoleta Roberto Jorge Santoro. Detailed address: 690, Avenida Forest, Chacarita, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1427EDR, Argentina
+2. Buenos Aires Plaza. Detailed address: 353, Manuela Sáenz, Puerto Madero, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1106, Argentina"
+353,0.51,7.43,4.09,10.61,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Big Pizza. Detailed address: 4024, Paraguay, Alto Palermo, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425DBC, Argentina
+2. Lugagge Storage BA. Detailed address: Maipú, Microcentro, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1006ACF, Argentina"
+354,4.02,14.32,7.04,8.34,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plaza Doctor Pedro Escudero. Detailed address: Avenida Melián, Saavedra, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, C1430CEE, Argentina
+2. Instituto de Formación Técnica Superior 07. Detailed address: 1502, Avenida Gaona, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, 1406, Argentina"
+355,0.82,13.48,6.33,11.23,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jardín Paseo República de Filipinas. Detailed address: Avenida de los Incas, Colegiales, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426ELR, Argentina
+2. Escuela Primaria Común 15 República Oriental del Uruguay. Detailed address: Jardín de Infantes Nucleado D (EPCjs 15/11°) [Sede] Sin Fronteras, Avenida Carabobo, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, 1406, Argentina"
+356,6.76,2.84,4.52,11.16,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Embajada de Libia. Detailed address: 3432, Virrey Del Pino, Belgrano R, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, 1426, Argentina
+2. Toyota. Detailed address: Llavallol, Villa del Parque, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, C1419HYW, Argentina"
+357,6.19,8.66,2.6,1.75,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Adaggio. Detailed address: 2197, Ceretti, Villa Urquiza, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, C1431EGH, Argentina
+2. Hospital de Clínicas José de San Martín. Detailed address: 2351, Avenida Córdoba, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1120AAR, Argentina"
+358,6.22,11.77,12.96,13.51,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rojas. Detailed address: Avellaneda, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, C1405CNV, Argentina
+2. Restaurante Central. Detailed address: Sarmiento, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1005, Argentina"
+359,11.48,1.46,4.89,11.3,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Stylo. Detailed address: Avenida Directorio, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, C1424BDV, Argentina
+2. Daniel. Detailed address: French, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, 1114, Argentina"
+360,12.95,10.45,14.02,9.27,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Escuela Taller Imagen y Sonido. Detailed address: Sarmiento, Once, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1044, Argentina
+2. Megatlon. Detailed address: 1951, Mercedes, Monte Castro, Buenos Aires, Comuna 10, Ciudad Autónoma de Buenos Aires, C1407GPO, Argentina"
+361,1.46,3.69,7.12,9.96,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Iglesia Internacional de la Gracia de Dios. Detailed address: Lavalle, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1043AAI, Argentina
+2. Escuela Primaria Común 11 José Federico Moreno. Detailed address: Humberto I, San Cristóbal, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1231, Argentina"
+362,4.02,8.25,11.48,1.26,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mahjong. Detailed address: Via Viva Barrio Chino, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428AID, Argentina
+2. wasabi's. Detailed address: Thames, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414DAU, Argentina"
+363,9.64,5.49,10.89,10.66,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Temple Bar. Detailed address: 4677, Costa Rica, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414DMJ, Argentina
+2. Rey Castro. Detailed address: 348, Perú, Monserrat, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1067AAF, Argentina"
+364,3.96,1.6,4.41,7.2,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Grupo Scout Coronel Benito Meana. Detailed address: 1445, Junín, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, 1114, Argentina
+2. 190 - Juncal. Detailed address: Juncal, Alto Palermo, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425DGS, Argentina"
+365,4.1,10.38,13.82,6.74,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Instituto de Formación Técnica Superior 19. Detailed address: Avenida Rivadavia, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, 1204, Argentina
+2. Cristal. Detailed address: Mendoza, Bajo Belgrano, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428AID, Argentina"
+366,7.6,3.03,10.18,10.78,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Escuela Primaria Común 11 José Federico Moreno. Detailed address: Humberto I, San Cristóbal, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1231, Argentina
+2. La Ola. Detailed address: 5420, Avenida Rivadavia, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, C1424CEX, Argentina"
+367,8.27,3.07,8.03,6.14,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Farmacia. Detailed address: Avenida Manuel Augusto Montes de Oca, Barracas, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, Distrito del Diseño, C1269ABF, Argentina
+2. Centro Educativo de Nivel Primario 58 - 61 y 27. Detailed address: Pepirí, Parque Patricios, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, Distrito Tecnológico, 1437, Argentina"
+368,10.62,16.12,5.9,8.24,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Palmeiras. Detailed address: José Bonifacio, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, C1406GSP, Argentina
+2. Harmony Bar & Restaurante. Detailed address: Avenida de Mayo, Monserrat, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1002AAT, Argentina"
+369,4.55,2.11,10.18,7.71,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Figueroa. Detailed address: French, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1425AVL, Argentina
+2. BierLife. Detailed address: 670, Humberto I, San Telmo, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1103ACN, Argentina"
+370,0.53,2.64,8.2,5.96,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ardha. Detailed address: Darregueyra, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425FQC, Argentina
+2. Instituto Jesús María de San Vicente de Paul. Detailed address: Carlos Calvo, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1102, Argentina"
+371,1.53,7.69,5.96,10.22,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plazoleta Antonio Santa María. Detailed address: Busto del General Manuel Belgrano, Echeverría, Barrio Chino, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428AID, Argentina
+2. Sanatorio Finochietto. Detailed address: 2678, Avenida Córdoba, Abasto, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, C1187AAB, Argentina"
+372,6.27,4.96,9.66,1.8,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. El Rey del Pollo. Detailed address: 5101, Avenida Emilio Castro, Villa Luro, Buenos Aires, Comuna 10, Ciudad Autónoma de Buenos Aires, C1440AAA, Argentina
+2. Orgullo Restaurante Goyena. Detailed address: Puan, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, C1406GZB, Argentina"
+373,10.12,8.5,4.95,2.51,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Provincia de Río Negro. Detailed address: Terminal de Combis Obelisco, Metrobús 9 de Julio (Sur), Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1033AAB, Argentina
+2. Plaza José C. Paz. Detailed address: José C. Paz, Parque Patricios, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, Distrito Tecnológico, C1437IQJ, Argentina"
+374,4.97,3.67,8.3,6.99,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Classic BA. Detailed address: Florida, Microcentro, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1005, Argentina
+2. Instituto de Recreación Infantil Mi Casita. Detailed address: 3681, Soler, Alto Palermo, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1187AAG, Argentina"
+375,3.2,7.45,4.89,1.95,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Instituto Modelo Proyecto 2000. Detailed address: Planes, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, 1405, Argentina
+2. Shell 1695. Detailed address: Yatay, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, 1212, Argentina"
+376,5.23,6.88,3.93,7.32,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Comisaría 14. Detailed address: 1419, Bolívar, San Telmo, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, Distrito de Las Artes, 1141, Argentina
+2. Tea Connection. Detailed address: 1655, Montevideo, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1021, Argentina"
+377,0.9,2.71,5.54,7.99,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Centro Educativo de Nivel Primario 58 - 61 y 27. Detailed address: Pepirí, Parque Patricios, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, Distrito Tecnológico, 1437, Argentina
+2. Centro Educativo de Nivel Secundario 50. Detailed address: México, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1222, Argentina"
+378,5.74,6.89,1.51,3.8,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Alacena. Detailed address: 1401, Gascón, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1181ADA, Argentina
+2. Farma Quality. Detailed address: Raúl Scalabrini Ortiz, Palermo Botánico, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425DBW, Argentina"
+379,3.16,14.4,8.53,9.58,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Guerrini Neumáticos. Detailed address: 2138, Avenida Amancio Alcorta, Parque Patricios, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, C1282AFF, Argentina
+2. Estación intermedia Línea 60. Detailed address: Buenos Aires Lawn Tennis Club, Valentín Alsina, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1426CTD, Argentina"
+380,1.79,8.12,8.0,7.18,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Farmacia APL. Detailed address: Adolfo Alsina, Once, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1089, Argentina
+2. Soy Tu Farmacia. Detailed address: Paraguay, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1120AAH, Argentina"
+381,8.02,6.9,9.11,3.3,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Belgrano Multiplex - Salas 4, 5 y 6. Detailed address: 2238, Vuelta de Obligado, Barrio Chino, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428, Argentina
+2. BBVA. Detailed address: Tomás Alberto Le Breton, Villa Urquiza, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, C1431DUB, Argentina"
+382,3.92,0.52,5.33,2.71,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Terminal 4. Detailed address: Avenida Tomás Edison, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1104AMT, Argentina
+2. Basquet Almagro. Detailed address: Teniente General Juan Domingo Perón, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, C1198AAT, Argentina"
+383,5.97,13.93,1.67,7.34,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Auditorio Belgrano. Detailed address: 2348, Virrey Loreto, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426, Argentina
+2. Estudio de Enseñanza e Investigaciones Informáticas. Detailed address: 24 de Noviembre, Once, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1407, Argentina"
+384,11.12,3.81,2.04,1.54,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Shell. Detailed address: Avenida Brasil, Parque Patricios, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, 1134, Argentina
+2. Brera. Detailed address: General Lucio Norberto Mansilla, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1120AAH, Argentina"
+385,7.32,1.74,6.09,7.74,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Solar Check. Detailed address: 3315, Avenida Juan Bautista Justo, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, C1416DJA, Argentina
+2. Plazoleta Roberto Jorge Santoro. Detailed address: 690, Avenida Forest, Chacarita, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1427EDR, Argentina"
+386,5.45,8.74,10.66,3.92,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Neodental. Detailed address: 2373, Avenida Cabildo, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428AAF, Argentina
+2. Ginko. Detailed address: Esmeralda, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1049AAQ, Argentina"
+387,3.47,4.19,1.94,0.92,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 146 - Hospital Francés. Detailed address: Carlos Calvo, San Cristóbal, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1221, Argentina
+2. La Gata Alegría. Detailed address: Pichincha, San Cristóbal, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, C1225AAS, Argentina"
+388,3.08,5.57,12.98,1.88,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Parque Lineal - Honorio Pueyrredón. Detailed address: 1043, Avenida Doctor Honorio Pueyrredón, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, C1405BAH, Argentina
+2. Plaza Israel. Detailed address: Andrés Bello, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1426BTG, Argentina"
+389,8.55,6.27,2.59,3.67,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cosi mi Piace. Detailed address: 4618, El Salvador, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414BMQ, Argentina
+2. Instituto Integral Talpiot. Detailed address: Azcuénaga, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1029, Argentina"
+390,14.88,15.2,11.99,13.37,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Teatro Colonial. Detailed address: Avenida Paseo Colón, Monserrat, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1063ACR, Argentina
+2. Talar Gym. Detailed address: Nueva York, Agronomía, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, C1419HTH, Argentina"
+391,4.65,0.84,12.15,6.87,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Terminal Línea 53. Detailed address: Aristóbulo Del Valle, La Boca, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, Distrito de Las Artes, 1164, Argentina
+2. Plaza Grand Bourg. Detailed address: Instituto Sanmartiniano, 2900, Mariscal Ramón Castilla, Barrio Parque, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, 1425, Argentina"
+392,6.65,2.45,0.62,14.06,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Beio. Detailed address: 2198, Arenales, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1124AAH, Argentina
+2. Monster Vision FX. Detailed address: 2261, Avenida Cabildo, Barrio Chino, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428AAQ, Argentina"
+393,2.17,11.91,8.8,12.63,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Harmony Bar & Restaurante. Detailed address: Avenida de Mayo, Monserrat, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1002AAT, Argentina
+2. Chungo. Detailed address: 1927, Avenida Juramento, Barrio Chino, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426ABB, Argentina"
+394,0.66,0.8,4.91,7.01,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Café Crespin. Detailed address: Vera, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, C1414AJH, Argentina
+2. La Reserva. Detailed address: Costanera Sur, Puerto Madero, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1107BLF, Argentina"
+395,12.06,5.13,12.37,6.66,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Universitas. Detailed address: Avenida Córdoba, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1120AAN, Argentina
+2. Terminal de pasajeros. Detailed address: Aeroparque Jorge Newbery, Avenida Costanera Rafael Obligado, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425, Argentina"
+396,1.83,5.17,9.33,0.72,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hospital de Clínicas José de San Martín. Detailed address: 2351, Avenida Córdoba, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1120AAR, Argentina
+2. Parque General Juan Gregorio de Las Heras. Detailed address: Escuela Modelo de Fútbol y Deportes Claudio Marangoni, Juncal, Alto Palermo, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425DKK, Argentina"
+397,6.77,8.09,1.69,5.92,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lobo Cafe. Detailed address: 3045, República Árabe Siria, Palermo Botánico, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, 1425, Argentina
+2. SushiLife. Detailed address: 1239, Medrano, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1188AAD, Argentina"
+398,4.58,8.07,13.52,15.98,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Italiana. Detailed address: Teniente Coronel Casimiro Recuero, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, 1286, Argentina
+2. Pollos Al Spiedo. Detailed address: 1298, Avenida Cabildo, Colegiales, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426, Argentina"
+399,3.02,11.93,2.07,5.41,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Universidad de Palermo-Facultad de Arquitectura. Detailed address: 931, Ecuador, Abasto, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, C1187AAO, Argentina
+2. Terminal Línea 86. Detailed address: Aristóbulo Del Valle, La Boca, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, Distrito de Las Artes, 1164, Argentina"
+400,9.34,5.34,7.43,3.72,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Espacio Carmela. Detailed address: Montañeses, Barrio Chino, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428AID, Argentina
+2. La Calle. Detailed address: 4942, Coronel Niceto Vega, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, 1000, Argentina"
+401,6.48,6.59,11.77,4.4,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Imprenta. Detailed address: 2248, General José Gervasio Artigas, Villa del Parque, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, C1416EXL, Argentina
+2. Clínica OCMI. Detailed address: 2981, Avenida Elcano, Colegiales, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426, Argentina"
+402,3.97,7.77,9.33,0.62,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sippin Cafe. Detailed address: 2293, Moldes, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, 1428, Argentina
+2. Varese. Detailed address: Avenida Belgrano, Once, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1096, Argentina"
+403,2.71,7.57,0.78,4.89,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Club Gimnasia y Esgrima de Buenos Aires. Detailed address: Senderos para ciclistas, Palermo Pacífico, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425ABX, Argentina
+2. TK 02. Detailed address: Aeroparque Jorge Newbery, Avenida Costanera Rafael Obligado, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425, Argentina"
+404,2.63,11.37,10.64,6.23,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. BFresh. Detailed address: Cerviño, Palermo Norte, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425DEL, Argentina
+2. Centro Educativo Complementario de Idiomas Extranjeros 08. Detailed address: Salas, Parque Chacabuco, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, 1424, Argentina"
+405,8.31,8.16,1.68,0.67,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ol'days. Detailed address: 1182, Olga Cossettini, Puerto Madero, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1107, Argentina
+2. Azul. Detailed address: Galerías Pacífico, 550, Avenida Córdoba, Catalinas Norte, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1054AAC, Argentina"
+406,10.39,7.99,15.41,13.13,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Escuela Integral Interdisciplinaria 09. Detailed address: La Pampa, Bajo Belgrano, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, 1428, Argentina
+2. Plaza Poeta Ricardo E. Lleras. Detailed address: Campito Santa Lucía, Virgen y Mártir, Autopista Presidente Arturo Frondizi, Barracas, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, C1295ADM, Argentina"
+407,8.74,2.14,7.43,3.35,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Luna Cafe. Detailed address: Julián Baltasar Álvarez, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414DPY, Argentina
+2. Instituto Ramón Carrillo. Detailed address: 900, 24 de Noviembre, San Cristóbal, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1224, Argentina"
+408,8.08,5.77,2.27,14.11,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mandarina Productora. Detailed address: 67, Fraga, Chacarita, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1427EGD, Argentina
+2. Massera. Detailed address: Avenida Juan de Garay, San Telmo, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, Distrito de Las Artes, 1143, Argentina"
+409,12.16,11.23,9.59,4.19,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Instituto de Formación Técnica Superior 29. Detailed address: Yerbal, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, 1405, Argentina
+2. La Lenita. Detailed address: Azcuénaga, La Isla, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1127AAR, Argentina"
+410,5.75,8.91,2.71,8.83,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plaza República Socialista de Vietnam. Detailed address: Avenida Parque Roberto Goyeneche, Villa Urquiza, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, C1430DHI, Argentina
+2. Plaza Holanda. Detailed address: Nicolás Avellaneda, Ciclovía del Libertador, Palermo Norte, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425DCO, Argentina"
+411,4.62,0.58,0.59,2.11,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jesucristo es el Señor - Centro de Ayuda Espiritual. Detailed address: Avenida Santa Fe, Palermo Pacífico, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425BHF, Argentina
+2. Martina. Detailed address: Agüero, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1119ACO, Argentina"
+412,2.27,10.04,12.35,5.53,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Biscottini. Detailed address: Beruti, Alto Palermo, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425DGQ, Argentina
+2. Playa de Infractores. Detailed address: Bernardo de Irigoyen, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1140, Argentina"
+413,4.23,9.12,3.05,6.06,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Museo de Arte Sacro María Antonia de San José. Detailed address: 1190, Avenida Independencia, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1099AAY, Argentina
+2. Mandarine. Detailed address: Avenida Costanera Rafael Obligado, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1426COA, Argentina"
+414,4.34,2.57,9.68,5.41,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Talar Gym. Detailed address: Nueva York, Agronomía, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, C1419HTH, Argentina
+2. Farmás. Detailed address: 2182, Congreso, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428, Argentina"
+415,2.33,7.94,5.23,15.41,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jardín Materno Infantil Familia Menuda. Detailed address: Avenida Hipólito Yrigoyen, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, 1208, Argentina
+2. Take & Eat. Detailed address: 2941, Arribeños, Núñez, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1429BMC, Argentina"
+416,1.6,8.99,15.18,7.18,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plaza Casa Cuna. Detailed address: Doctor Enrique Finochietto, Barracas, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, C1270AAN, Argentina
+2. Avatar. Detailed address: 5479, Nicaragua, Palermo Hollywood, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, 1414, Argentina"
+417,10.5,9.13,4.73,10.64,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plaza Doctor Bernardo Houssay. Detailed address: Parroquia San Lucas, Paraguay, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1114AAD, Argentina
+2. Guerrini Neumáticos. Detailed address: 2138, Avenida Amancio Alcorta, Parque Patricios, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, C1282AFF, Argentina"
+418,3.73,10.02,9.01,4.92,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Plaza Estado del Vaticano. Detailed address: 1151, Arturo Toscanini, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1055AAB, Argentina
+2. Cantero Ciudad de Salamanca. Detailed address: Monumento a España, Avenida España, Isla Demarchi, La Boca, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, C1107CND, Argentina"
+419,8.39,8.82,4.59,10.12,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pancho Market. Detailed address: Bartolomé Mitre, Once, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, C1203AAN, Argentina
+2. Ghirardelli Café | Café de Especialidad. Detailed address: 4428, Avenida Juan Bautista Justo, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, C1416DJE, Argentina"
+420,4.4,3.84,1.65,4.71,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sabores Grill. Detailed address: Ángel Justiniano Carranza, Palermo Hollywood, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1414BTH, Argentina
+2. Pizza Goll. Detailed address: Avenida Raúl Scalabrini Ortiz, Alto Palermo, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425DBC, Argentina"
+421,10.29,9.14,9.94,2.36,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chacaito. Detailed address: Thames, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425BUN, Argentina
+2. Via Varese. Detailed address: Avenida Federico Lacroze, Colegiales, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426ANR, Argentina"
+422,1.2,9.13,5.65,8.99,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Farmacity. Detailed address: Florida, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1016, Argentina
+2. Escuela Primaria Común 08 Nicolás Avellaneda. Detailed address: Talcahuano, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1013, Argentina"
+423,6.53,12.71,1.18,1.57,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Centro de Alfabetización, Educación Básica y Trabajo 57 Padre Mujica. Detailed address: Punta Corral, Barrio YPF, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1104, Argentina
+2. 250 - Fleni. Detailed address: Montañeses, Barrio Chino, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428AID, Argentina"
+424,8.65,5.82,6.84,11.16,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nonna Bianca. Detailed address: 425, Estados Unidos, San Telmo, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1068, Argentina
+2. Centro Médico Barrial 27. Detailed address: 340, Antezana, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, C1414EEH, Argentina"
+425,14.43,11.47,5.51,6.56,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Paseo Provincias Argentinas. Detailed address: Avenida 9 de Julio, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1010AAZ, Argentina
+2. Plaza Federación de Rusia. Detailed address: La Pampa, Bajo Belgrano, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428DUB, Argentina"
+426,9.14,5.82,4.98,1.19,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Escuela Primaria p/Adultos 10 Gregoria Pérez. Detailed address: Arenales, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, 1425, Argentina
+2. Novo. Detailed address: Junín, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1027, Argentina"
+427,7.41,10.02,10.75,13.22,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Casa Colombo. Detailed address: 557, Gallo, Abasto, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, C1172ABK, Argentina
+2. Piedra Pasillo al Fondo. Detailed address: 2145, Campos Salles, Núñez, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1429AAD, Argentina"
+428,7.57,2.55,4.73,6.98,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Yummy. Detailed address: 2122, Montañeses, Barrio Chino, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428AID, Argentina
+2. Centro Educativo de Nivel Secundario 40. Detailed address: El Salvador, Alto Palermo, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, 1175, Argentina"
+429,6.66,3.55,9.6,8.91,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Javi's Parrilla Restaurant & Cafeteria. Detailed address: 901, Avenida Belgrano, Monserrat, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, P1091, Argentina
+2. Jardín Materno Infantil Familia Menuda. Detailed address: Avenida Hipólito Yrigoyen, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, 1208, Argentina"
+430,7.56,4.93,8.6,1.52,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gran Dabbang. Detailed address: 1543, Avenida Raúl Scalabrini Ortiz, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414DOC, Argentina
+2. El Sanjuanino. Detailed address: 1788, Sánchez de Bustamante, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1425BGS, Argentina"
+431,10.75,7.27,13.24,5.79,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Instituto de Recreación Infantil Mi Casita. Detailed address: 3681, Soler, Alto Palermo, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1187AAG, Argentina
+2. Dragon Doble. Detailed address: Avenida Rivadavia, Floresta, Buenos Aires, Comuna 10, Ciudad Autónoma de Buenos Aires, C1407DYD, Argentina"
+432,12.24,8.68,14.77,17.13,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pasaje Manzanares. Detailed address: Sendero Manzanares, Saavedra, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, C1431AJI, Argentina
+2. Provincia de Córdoba. Detailed address: Avenida 9 de Julio, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1102, Argentina"
+433,3.7,11.41,5.64,9.09,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Gata Alegría. Detailed address: Pichincha, San Cristóbal, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, C1225AAS, Argentina
+2. Luna Cafe. Detailed address: Julián Baltasar Álvarez, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414DPY, Argentina"
+434,3.79,6.32,8.99,1.3,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Plaza. Detailed address: Juan María Gutiérrez, La Isla, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1127AAR, Argentina
+2. Teatro Colonial. Detailed address: Avenida Paseo Colón, Monserrat, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1063ACR, Argentina"
+435,11.3,3.23,5.99,4.41,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Shop. Detailed address: 3516, Avenida de los Constituyentes, Agronomía, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, C1431EGH, Argentina
+2. Farma Vie. Detailed address: Avenida Boyacá, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, C1406FYG, Argentina"
+436,3.54,4.29,6.76,9.7,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Amancio. Detailed address: Alejandro Magariños Cervantes, Villa Santa Rita, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, C1416DZK, Argentina
+2. Kismet. Detailed address: Sánchez de Bustamante, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1425BGS, Argentina"
+437,6.83,2.48,2.23,14.68,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Estación Arcos Burger Bar. Detailed address: 602, Avenida Juan Bautista Justo, Palermo Pacífico, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425FSN, Argentina
+2. Ol'days. Detailed address: 1182, Olga Cossettini, Puerto Madero, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1107, Argentina"
+438,2.69,1.35,2.63,6.16,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lugagge Storage BA. Detailed address: Maipú, Microcentro, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1006ACF, Argentina
+2. Banco Ciudad. Detailed address: General Las Heras, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1021ABF, Argentina"
+439,9.05,6.35,9.99,4.7,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rincón Norteño. Detailed address: Avenida Independencia, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, C1225AAC, Argentina
+2. Parque Bar Botanico. Detailed address: Thames, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414DDF, Argentina"
+440,5.46,16.4,15.41,11.13,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cancha de la Feria. Detailed address: Machu Picchu, Villa 31, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1104, Argentina
+2. Club Manuel Belgrano. Detailed address: Crisólogo Larralde, Saavedra, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, C1431AJI, Argentina"
+441,6.71,1.57,8.92,15.27,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tomasso. Detailed address: 2424, Maure, Colegiales, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426, Argentina
+2. Vestuario DT. Detailed address: Avenida Amancio Alcorta, Parque Patricios, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, Distrito Tecnológico, C1437FBG, Argentina"
+442,7.42,11.94,4.43,6.9,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Farma Quality. Detailed address: Raúl Scalabrini Ortiz, Palermo Botánico, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425DBW, Argentina
+2. Yummy. Detailed address: 2122, Montañeses, Barrio Chino, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428AID, Argentina"
+443,1.91,6.76,6.9,5.76,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Via Varese. Detailed address: Avenida Federico Lacroze, Colegiales, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426ANR, Argentina
+2. Nicolo. Detailed address: Godoy Cruz, Palermo Hollywood, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, C1414DAO, Argentina"
+444,6.41,6.7,4.56,0.64,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Parque Bar Botanico. Detailed address: Thames, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414DDF, Argentina
+2. Enterprise. Detailed address: 1318, Cerrito, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1010AAZ, Argentina"
+445,6.85,9.93,6.11,2.08,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Fira. Detailed address: Pavón, Constitución, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1151, Argentina
+2. Starbucks. Detailed address: 2179, Avenida Rivadavia, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1034, Argentina"
+446,4.6,1.52,5.66,3.38,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Centro Educativo de Nivel Primario 32 - Asociación Vecinal Florentino Ameghino. Detailed address: Avenida Independencia, Boedo, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, 1226, Argentina
+2. Jardín de Infantes Nucleado E (EPCjc 04/08°) El Tranvia de Caballito [Sede]. Detailed address: Del Barco Centenera, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, 1424, Argentina"
+447,5.81,10.01,10.48,10.8,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Editorial Santillana. Detailed address: Miravé, Barrrio Estación Buenos Aires, Parque Patricios, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, C1282AFF, Argentina
+2. Four Seasons. Detailed address: Elena, 1086, Posadas, La Isla, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1001, Argentina"
+448,5.05,12.51,12.67,12.99,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 179 - Casa San. Detailed address: Olavarría, La Boca, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, Distrito de Las Artes, C1164ACB, Argentina
+2. Fugazi. Detailed address: 684, Ayacucho, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, C1025ABN, Argentina"
+449,6.23,12.39,4.69,5.88,C,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Birreria. Detailed address: 601, Malabia, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, 1414, Argentina
+2. Crisol. Detailed address: Juncal, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1012AAZ, Argentina"
+450,4.3,2.72,2.39,12.29,A,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jardín de Infantes Común 09/01°. Detailed address: Escuela Nº26 Adolfo Van Gelderen, 2455, Jerónimo Salguero, Palermo Norte, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, 1425, Argentina
+2. Lava Autos. Detailed address: Avenida Independencia, Monserrat, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1077, Argentina"
+451,6.47,7.57,10.87,3.54,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jardín de Infantes Integral 01/11°. Detailed address: Avenida San Pedrito, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, 1406, Argentina
+2. Scienzia. Detailed address: Avenida Pueyrredón, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, 1118, Argentina"
+452,15.33,13.62,6.13,8.27,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pizza Al Corte. Detailed address: 1903, Avenida Entre Ríos, Parque Patricios, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, 1134, Argentina
+2. Club Gimnasia y Esgrima de Buenos aires. Detailed address: Ramón J. Carcano, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425ABX, Argentina"
+453,14.78,3.04,1.53,7.97,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chateau Puerto Madero. Detailed address: Martha Salotti, Rodrigo Bueno, Puerto Madero, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1107, Argentina
+2. Manzana 5. Detailed address: José Barros Pazos, Barrio Rivadavia I, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, C1437ANL, Argentina"
+454,4.15,4.02,5.72,2.29,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Centro Médico Barrial 27. Detailed address: 340, Antezana, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, C1414EEH, Argentina
+2. Café Martínez. Detailed address: 3899, Avenida Córdoba, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1188AAE, Argentina"
+455,3.23,4.35,2.17,12.17,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Capilla Nuestra Señora de Luján. Detailed address: Aeroparque Jorge Newbery, Avenida Costanera Rafael Obligado, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425, Argentina
+2. Swiss Medical Center. Detailed address: 1443, Avenida Pueyrredón, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, 1118, Argentina"
+456,4.57,10.09,9.14,3.25,D,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cerviño Nuevo. Detailed address: Sinclair, Palermo Pacífico, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425GMN, Argentina
+2. Subestacion Elcano. Detailed address: 3947, Céspedes, Chacarita, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, Distrito Audiovisual, 1427, Argentina"
+457,5.16,3.4,10.09,9.44,B,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Midday. Detailed address: Teniente General Juan Domingo Perón, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1045, Argentina
+2. Bari. Detailed address: 4598, Avenida Corrientes, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, C1195AAE, Argentina"

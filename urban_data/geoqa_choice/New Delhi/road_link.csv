@@ -1,0 +1,231 @@
+id,question,answer,A,B,C,D
+0,"In the New Delhi area, which road cannot directly reach Kautilya Marg?",A,Dhaula Kuan Flyover,Sardar Patel Marg,Nyaya Marg,Rajdoot marg
+1,"In the New Delhi area, which road directly reaches Niti Marg?",A,Kautilya Marg,Arya Samaj Marg,North Avenue,Josip Broz Tito Marg
+2,"In the New Delhi area, which road directly reaches Shrimant Madhavrao Scindia Marg?",B,Maharishi Raman Marg,Copernicus Marg,Roundabout n°36,Hans Raj Gupta Marg
+3,"In the New Delhi area, which road cannot directly reach rotary no 5?",C,Shrimant Madhavrao Scindia Marg,Jaswant Singh Road,Siri Fort Road,Kasturba Gandhi Marg
+4,"In the New Delhi area, which road cannot directly reach Kasturba Gandhi Marg?",D,Firoz Shah Road,rotary no 5,Tolstoy Marg,Prime Chowk
+5,"In the New Delhi area, which road cannot directly reach Motilal Nehru Marg?",A,Gurudwara Rakabganj Road,rotary no 13,Vijay Chowk,Motilal Nehru Place
+6,"In the New Delhi area, which road cannot directly reach rotary no 13?",C,Shahjahan Road,Prithviraj Road,Maharishi Raman Marg,Motilal Nehru Marg
+7,"In the New Delhi area, which road cannot directly reach Aurobindo Marg?",A,Sansad Marg,Maharaja Agrasen Marg,Jor Bagh Road,Safdarjung Road
+8,"In the New Delhi area, which road directly reaches Choudhary Hukum Chand Marg?",B,Abdul Gaffar Khan Marg,Chaudhary Harsukh Marg,Parade Road,Swami Vivekananda Marg
+9,"In the New Delhi area, which road cannot directly reach Doctor Avul Pakir Jainulabdeen Abdul Kalam Marg?",D,Prithviraj Road,rotary no 13,rotary no 10,Prime Chowk
+10,"In the New Delhi area, which road cannot directly reach Prithviraj Road?",D,Tughlaq Road,Doctor Avul Pakir Jainulabdeen Abdul Kalam Marg,rotary no 13,Dara Shikoh Road
+11,"In the New Delhi area, which road directly reaches Sunehri Bagh Road?",A,Krishna Menon Marg,Shahjahan Road,Acharya Shri Tulsi Marg,Bhagwan Mahavir Marg
+12,"In the New Delhi area, which road directly reaches Krishna Menon Marg?",D,Mahipalpur Bypass Flyover,Sant Shri Nagpal Marg,Dara Shikoh Road,Sunehri Bagh Road
+13,"In the New Delhi area, which road cannot directly reach Roundabout n°36?",D,Nyaya Marg,Shanti Path,Niti Marg,Rajesh Pilot Marg
+14,"In the New Delhi area, which road cannot directly reach Shanti Path?",B,Rao Tula Ram Marg,Simon Bolivar Road,Rotary 38,Roundabout n°36
+15,"In the New Delhi area, which road cannot directly reach Swami Vivekananda Marg?",C,Tamil Sangam Marg,Church Road,Shri Jagannath Marg,Swami Venkateshwar Marg
+16,"In the New Delhi area, which road directly reaches Vivekanand Marg?",B,Palam Marg,Swami Vivekananda Marg,Exit for Dwarka,Rotary Number 47
+17,"In the New Delhi area, which road cannot directly reach Nyaya Marg?",D,Kautilya Marg,Rotary 29,Roundabout n°36,San Martin Marg
+18,"In the New Delhi area, which road cannot directly reach Josip Broz Tito Marg?",A,Wing Commander Mahinder Kumar Jain Marg,Lala Lajpat Rai Marg,Ho Chi Minh Marg,Siri Fort Road
+19,"In the New Delhi area, which road directly reaches Siri Fort Road?",B,Teen Murti Haifa Chowk,Josip Broz Tito Marg,Sri Krishna Chaitanya Mahaprabhu Marg,Niti Marg
+20,"In the New Delhi area, which road directly reaches Kaifi Azmi Marg?",A,Major Somnath Marg,Church Road,Shankar Road,Satya Marg
+21,"In the New Delhi area, which road cannot directly reach Major Somnath Marg?",B,Kaifi Azmi Marg,Doctor Rajendra Prasad Road,Amar Shahid Babu Genu Marg,Rao Tula Ram Marg
+22,"In the New Delhi area, which road directly reaches Shahjahan Road?",D,Lodhi Road,Mahatma Gandhi Marg,Amar Shahid Babu Genu Marg,rotary no 13
+23,"In the New Delhi area, which road directly reaches Humayun Road?",A,Subramaniyam Bharti Marg,Kasturba Gandhi Marg,Rajdoot marg,EPDP Marg
+24,"In the New Delhi area, which road directly reaches Rotary 38?",C,Sunehri Bagh Road,Arya Samaj Marg,Shanti Path,Aerocity Underpass
+25,"In the New Delhi area, which road cannot directly reach Mandir Marg?",B,NBCC Plaza Road,Mahipalpur Bypass,Shankar Road,Saket Road
+26,"In the New Delhi area, which road directly reaches Shankar Road?",D,Munirka Flyover,Lok Kalyan Marg,Tolstoy Marg,Mandir Marg
+27,"In the New Delhi area, which road cannot directly reach Thimayya Marg?",B,Cariappa Marg,Dhaula Kuan Flyover Ramp,Gopinath Circle,Parade Road
+28,"In the New Delhi area, which road cannot directly reach Cariappa Marg?",B,Hospital Road,Shankar Road,Flyover,Thimayya Marg
+29,"In the New Delhi area, which road directly reaches IV Avenue Road?",B,Bhairon Marg,Lodhi Road,Ho Chi Minh Marg,Mahipalpur Bypass Flyover
+30,"In the New Delhi area, which road cannot directly reach Lodhi Road?",D,Second Avenue,Aurobindo Marg,Max Mueller Marg,100 Feet Road
+31,"In the New Delhi area, which road cannot directly reach Maharishi Raman Marg?",A,Rao Tula Ram Marg,IV Avenue Road,Vardhman Marg,Bhishma Pitamah Marg
+32,"In the New Delhi area, which road directly reaches Swami Venkateshwar Marg?",C,Khelgaon Flyover,Mahatma Gandhi Marg,Tamil Sangam Marg,Aurobindo Marg
+33,"In the New Delhi area, which road cannot directly reach Tamil Sangam Marg?",D,Kama Koti Marg,Swami Vivekananda Marg,Swami Venkateshwar Marg,Nandi Vithi Marg
+34,"In the New Delhi area, which road cannot directly reach Rajesh Pilot Marg?",C,Max Mueller Marg,Prithviraj Road,Mall/Church Road,rotary no 11
+35,"In the New Delhi area, which road cannot directly reach Panchsheel Marg?",A,Nehru Place Flyover,Rajdoot marg,Rotary 29,Sardar Patel Marg
+36,"In the New Delhi area, which road cannot directly reach Satya Marg?",B,Panchsheel Marg,IIT Flyover,G-Avenue,Rajdoot marg
+37,"In the New Delhi area, which road cannot directly reach Rajdoot marg?",A,Bipinchandra Pal Marg,Satya Marg,Kautilya Marg,Panchsheel Marg
+38,"In the New Delhi area, which road cannot directly reach Lala Lajpat Rai Marg?",C,Hansraj Gupta Marg,Josip Broz Tito Marg,Talkatora Road,Nandi Vithi Marg
+39,"In the New Delhi area, which road cannot directly reach Raja Dheer Sen Marg?",D,Lala Lajpat Rai Marg,Kalka Devi Marg,Hans Raj Gupta Marg,Benito Juarez Marg
+40,"In the New Delhi area, which road cannot directly reach Hans Raj Gupta Marg?",B,BRT to Hansraj Gupta Marg,Mehrauli Badarpur Road,Lala Lajpat Rai Marg,Raja Dheer Sen Marg
+41,"In the New Delhi area, which road directly reaches Gamal Abdel Nasser Marg?",D,Wing Commander Mahinder Kumar Jain Marg,Swami Venkateshwar Marg,rotary no 11,Aurobindo Marg
+42,"In the New Delhi area, which road cannot directly reach Lal Bahadur Shastri Marg?",A,Maidan Garhi Road,NBCC Plaza Road,Raja Ram Marg,Birla Vidya Niketan Marg
+43,"In the New Delhi area, which road cannot directly reach Ho Chi Minh Marg?",D,Lal Bahadur Shastri Marg,August Kranti Marg,Khelgaon Flyover,rotary no 15
+44,"In the New Delhi area, which road directly reaches Dwarka-Palam Road?",D,Chirag Delhi Flyover,Nandi Vithi Marg,Kumaraswami Kamaraj Marg,Northern Access Rd
+45,"In the New Delhi area, which road directly reaches Northern Access Rd?",C,Tu-Tu Marg,Sabz Burj Circle,Dwarka-Palam Road,Moolchand Underpass
+46,"In the New Delhi area, which road cannot directly reach Tilak Marg?",C,Bhagwan Das Road,Bahadur Shah Zafar Marg,Dara Shikoh Road,Sikandra Road
+47,"In the New Delhi area, which road directly reaches Bhagwan Das Road?",B,Gautam Nagar Road,Mandi House Chowk,Kaifi Azmi Marg,Maharishi Valmiki Marg
+48,"In the New Delhi area, which road cannot directly reach Tolstoy Marg?",D,Sansad Marg,Janpath Lane,Kasturba Gandhi Marg,South Avenue
+49,"In the New Delhi area, which road cannot directly reach Mahatma Gandhi Marg?",B,Benito Juarez Marg,Vedant Deshika Marg,Swami Vivekananda Marg,San Martin Marg
+50,"In the New Delhi area, which road cannot directly reach August Kranti Marg?",C,Siri Fort Road,Ho Chi Minh Marg,Lok Kalyan Marg,Chaudhary Dalip Singh Marg
+51,"In the New Delhi area, which road cannot directly reach Bhishma Pitamah Marg?",A,Niti Marg,Mahatma Gandhi Marg,Maharishi Raman Marg,August Kranti Marg
+52,"In the New Delhi area, which road cannot directly reach Rao Tula Ram Marg?",A,Maulana Azad Road,Shanti Path,Amar Shahid Babu Genu Marg,Palam Marg
+53,"In the New Delhi area, which road cannot directly reach Shiv Mandir Marg?",C,Vaishno Devi Marg,Prachin Shiv Mandir Road,Nandi Vithi Marg,Mahatma Gandhi Marg
+54,"In the New Delhi area, which road directly reaches Parade Road?",A,Thimayya Marg,Jaswant Singh Road,Bhishma Pitamah Marg,Benito Juarez Marg
+55,"In the New Delhi area, which road directly reaches General E D'Souza Road?",D,Chaudhary Dalip Singh Marg,Rajdoot marg,Munirka Marg,Thimayya Marg
+56,"In the New Delhi area, which road cannot directly reach Kartavya Path?",D,Man Singh Road,Rafi Ahmed Kidwai Marg,Janpath,Red Cross Road
+57,"In the New Delhi area, which road cannot directly reach Janpath?",C,Kartavya Path,Tolstoy Marg,Sant Shri Nagpal Marg,Maulana Azad Road
+58,"In the New Delhi area, which road cannot directly reach Mustafa Kemal Ataturk Marg?",A,Josip Broz Tito Marg,Doctor Avul Pakir Jainulabdeen Abdul Kalam Marg,Safdarjung Road,Lok Kalyan Marg
+59,"In the New Delhi area, which road cannot directly reach Safdarjung Road?",C,Mustafa Kemal Ataturk Marg,Aurobindo Marg,Akbar Road,Tughlaq Road
+60,"In the New Delhi area, which road cannot directly reach Sikandra Road?",D,Bahadur Shah Zafar Marg,Mandi House Chowk,Tilak Marg,Shri Jagannath Marg
+61,"In the New Delhi area, which road directly reaches Bahadur Shah Zafar Marg?",A,Tilak Marg,Tughlaq Road,Gol Dakkhana Roundabout,Hospital Road
+62,"In the New Delhi area, which road cannot directly reach Man Singh Road?",B,Kartavya Path,Exit for Dwarka,rotary no 4,rotary no 13
+63,"In the New Delhi area, which road directly reaches Rafi Ahmed Kidwai Marg?",A,Raisina Road,Simon Bolivar Road,Basant Kaur Marg,Shahjahan Road
+64,"In the New Delhi area, which road cannot directly reach Subramaniyam Bharti Marg?",C,Pandara Road,Dr. Zakir Hussain Marg,Abdul Gaffar Khan Marg Flyover,Rajesh Pilot Marg
+65,"In the New Delhi area, which road directly reaches Dr. Zakir Hussain Marg?",C,Kaifi Azmi Marg,Girdhari Lal Goswami Marg,Subramaniyam Bharti Marg,Vaishno Devi Marg
+66,"In the New Delhi area, which road cannot directly reach Firoz Shah Road?",C,Windsor Place,Kasturba Gandhi Marg,Shri Krishan Lal Nagpal Marg,Mandi House Chowk
+67,"In the New Delhi area, which road cannot directly reach Max Mueller Marg?",D,Rajesh Pilot Marg,Subramaniyam Bharti Marg,Lodhi Road,rotary no 13
+68,"In the New Delhi area, which road cannot directly reach Fourth Avenue Road?",C,Vardhman Marg,Jor Bagh Road,Mahipalpur Bypass,Lodhi Road
+69,"In the New Delhi area, which road cannot directly reach Palam Marg?",D,Paschimi Marg,Major Somnath Marg,Rao Tula Ram Marg,Shri Kuldeep Singh Gujral Marg
+70,"In the New Delhi area, which road cannot directly reach Kama Koti Marg?",B,Palam Marg,Mahipalpur Bypass Flyover,Poorvi Marg,Tamil Sangam Marg
+71,"In the New Delhi area, which road cannot directly reach Poorvi Marg?",D,Paschimi Marg,Munirka Marg,Kama Koti Marg,Teen Murti Marg
+72,"In the New Delhi area, which road directly reaches Maulana Azad Road?",C,Balbir Saxena Marg,Shankar Road,rotary no 15,Vivekanand Marg
+73,"In the New Delhi area, which road cannot directly reach Jor Bagh Road?",A,Northern Access Rd,Fifth Avenue Road,Fourth Avenue Road,Aurobindo Marg
+74,"In the New Delhi area, which road cannot directly reach Simon Bolivar Road?",D,Vande Mataram Marg,Dhaula Kuan Flyover,Panchsheel Marg,Gamal Abdel Nasser Marg
+75,"In the New Delhi area, which road cannot directly reach Sardar Patel Marg?",D,Simon Bolivar Road,Dhaula Kuan Flyover,Panchsheel Marg,IIT Flyover
+76,"In the New Delhi area, which road cannot directly reach Dhaula Kuan Flyover?",C,Dhaula Kuan Flyover Ramp,Sardar Patel Marg,Anuvrat Marg,Simon Bolivar Road
+77,"In the New Delhi area, which road cannot directly reach Jai Singh Road?",C,Sansad Marg,Ashoka Road,AIIMS Flyover,Tolstoy Marg
+78,"In the New Delhi area, which road cannot directly reach Sansad Marg?",A,Krishna Menon Marg,Gurudwara Rakabganj Road,Jai Singh Road,Tolstoy Marg
+79,"In the New Delhi area, which road cannot directly reach Tughlaq Road?",D,rotary no 10,Safdarjung Road,Prithviraj Road,Akbar Road
+80,"In the New Delhi area, which road directly reaches Gurudwara Rakabganj Road?",B,Maidan Garhi Road,Sansad Marg,Mall/Church Road,Siri Fort Road
+81,"In the New Delhi area, which road directly reaches Mother Teresa Crescent?",C,AIIMS Flyover,Aurobindo Marg,Sardar Patel Marg,BRT to Hansraj Gupta Marg
+82,"In the New Delhi area, which road cannot directly reach Raisina Road?",C,Red Cross Road,Windsor Place,Uday Shankar Marg,Rafi Ahmed Kidwai Marg
+83,"In the New Delhi area, which road cannot directly reach Windsor Place?",C,Raisina Road,Janpath,Paschimi Marg,Firoz Shah Road
+84,"In the New Delhi area, which road directly reaches Prime Chowk?",A,Tu-Tu Marg,Imtiaz Khan Marg,Thimayya Marg,Satya Marg
+85,"In the New Delhi area, which road directly reaches Kumaraswami Kamaraj Marg?",A,Prime Chowk,Talkatora Road,Kumaraswami Kamaraj Marg,Gurudwara Rakabganj Road
+86,"In the New Delhi area, which road directly reaches Pandit Pant Marg?",C,Vaishno Devi Marg,Sansad Marg,Rotary Number 47,Sunehri Bagh Road
+87,"In the New Delhi area, which road cannot directly reach Gol Dakkhana Roundabout?",A,Mustafa Kemal Ataturk Marg,Ashoka Road,Pandit Pant Marg,Bhai Vir Singh Marg
+88,"In the New Delhi area, which road cannot directly reach Mandi House Chowk?",C,Bhagwan Das Road,Copernicus Marg,Bipinchandra Pal Marg,Firoz Shah Road
+89,"In the New Delhi area, which road directly reaches Tansen Marg?",A,Mandi House Chowk,Bhai Vir Singh Marg,Raja Ram Marg,APJ School Road
+90,"In the New Delhi area, which road cannot directly reach Ashoka Road?",A,Nyaya Marg,Windsor Place,Jai Singh Road,rotary no 4
+91,"In the New Delhi area, which road directly reaches Janpath Lane?",A,Ashoka Road,100 Feet Road,Vijay Chowk,Motilal Nehru Place
+92,"In the New Delhi area, which road cannot directly reach Church Road?",A,Lal Bahadur Shastri Marg,Swami Vivekananda Marg,Gopinath Circle,Africa Avenue
+93,"In the New Delhi area, which road directly reaches North Avenue?",B,Janpath Lane,Church Road,Josip Broz Tito Marg,Lala Lajpat Rai Path
+94,"In the New Delhi area, which road cannot directly reach Sant Shri Nagpal Marg?",B,Maidan Garhi Road,rotary no 5,Acharya Shri Tulsi Marg,100 Feet Road
+95,"In the New Delhi area, which road cannot directly reach Acharya Shri Tulsi Marg?",B,Mandi Road,rotary no 10,Sant Shri Nagpal Marg,Mehrauli Gurgaon Road
+96,"In the New Delhi area, which road directly reaches 100 Feet Road?",A,Sant Shri Nagpal Marg,Mustafa Kemal Ataturk Marg,Poorvi Marg,Copernicus Marg
+97,"In the New Delhi area, which road directly reaches Amar Shahid Babu Genu Marg?",B,Pragati Maidan Tunnel,Major Somnath Marg,Shri Krishan Lal Nagpal Marg,Shanti Path
+98,"In the New Delhi area, which road directly reaches Archbishop Makarios Marg?",A,Lodhi Road,IIT Flyover,Palam Marg,Panchsheel Marg
+99,"In the New Delhi area, which road directly reaches Professor Ram Nath Vij Marg?",B,Teen Murti Marg,Vande Mataram Marg,Hospital Road,Rafi Ahmed Kidwai Marg
+100,"In the New Delhi area, which road directly reaches Vande Mataram Marg?",D,Shahjahan Road,rotary no 4,Balbir Saxena Marg,Professor Ram Nath Vij Marg
+101,"In the New Delhi area, which road directly reaches Lok Kalyan Marg?",A,Mustafa Kemal Ataturk Marg,Tees January Road,Lala Lajpat Rai Path,Mathura Road
+102,"In the New Delhi area, which road cannot directly reach Africa Avenue?",B,Chaudhary Jhandu Singh Marg,G-Avenue,Palam Marg,Chaudhary Harsukh Marg
+103,"In the New Delhi area, which road directly reaches Venkateshwara Marg?",A,Africa Avenue,Naraina flyover,Mehrauli Badarpur Road,Gol Dakkhana Roundabout
+104,"In the New Delhi area, which road directly reaches BRT to Hansraj Gupta Marg?",D,Motilal Nehru Place,Pandara Road,Rao Tula Ram Marg,Josip Broz Tito Marg
+105,"In the New Delhi area, which road directly reaches G-Avenue?",A,Satya Marg,Munirka Flyover,Veer Savarkar Marg,rotary no 13
+106,"In the New Delhi area, which road directly reaches Chaudhary Harsukh Marg?",B,Sansad Marg,Africa Avenue,Bhai Vir Singh Marg,NBCC Plaza Road
+107,"In the New Delhi area, which road directly reaches Birla Vidya Niketan Marg?",D,Outer Ring Road,Swami Venkateshwar Marg,Rotary 38,Lal Bahadur Shastri Marg
+108,"In the New Delhi area, which road directly reaches Saket Road?",B,rotary no 11,Pramod Mahajan Marg,Thimayya Marg,rotary no 10
+109,"In the New Delhi area, which road directly reaches Prachin Shiv Mandir Road?",B,Rafi Ahmed Kidwai Marg,Vaishno Devi Marg,Subramaniyam Bharti Marg,Benito Juarez Marg Underpass
+110,"In the New Delhi area, which road cannot directly reach Vaishno Devi Marg?",B,Shiv Mandir Marg,Lal Bahadur Shastri Marg,Prachin Shiv Mandir Road,Arya Samaj Marg
+111,"In the New Delhi area, which road directly reaches Arya Samaj Marg?",C,Tees January Road,Anuvrat Marg,Veer Savarkar Marg,Shiv Mandir Marg
+112,"In the New Delhi area, which road directly reaches Kalka Devi Marg?",C,Maharishi Dayanand Marg,San Martin Marg,Raja Dheer Sen Marg,Tyagaraj Marg
+113,"In the New Delhi area, which road directly reaches Chaudhary Jhandu Singh Marg?",D,Maharishi Raman Marg,Nyaya Marg,Savitri Flyover,Africa Avenue
+114,"In the New Delhi area, which road directly reaches Hansraj Gupta Marg?",A,Nandi Vithi Marg,Gurudwara Rakabganj Road,Tughlaq Road,G-Avenue
+115,"In the New Delhi area, which road directly reaches Balbir Saxena Marg?",D,Bhai Vir Singh Marg,Sunehri Bagh Road,Firoz Shah Road,August Kranti Marg
+116,"In the New Delhi area, which road directly reaches Wing Commander Mahinder Kumar Jain Marg?",C,Lok Kalyan Marg,Poorvi Marg,Gautam Nagar Road,Mehrauli Gurgaon Road
+117,"In the New Delhi area, which road directly reaches Gautam Nagar Road?",D,Rotary 38,Pragati Maidan Tunnel,Major Somnath Marg,Wing Commander Mahinder Kumar Jain Marg
+118,"In the New Delhi area, which road directly reaches Shri Jagannath Marg?",D,Venkateshwara Marg,Sunheri Bagh Road,Gamal Abdel Nasser Marg,Brigadier Hoshiar Singh Marg
+119,"In the New Delhi area, which road cannot directly reach Brigadier Hoshiar Singh Marg?",B,Shri Jagannath Marg,Dhaula Kuan Flyover,Maharaja Agrasen Marg,Shri Vinayak Mandir Marg
+120,"In the New Delhi area, which road cannot directly reach Maharishi Dayanand Marg?",C,Ho Chi Minh Marg,August Kranti Marg,Maharishi Valmiki Marg,Basant Kaur Marg
+121,"In the New Delhi area, which road directly reaches Shaheed Jeet Singh Marg?",C,Nehru Place Flyover,Red Cross Road,Aurobindo Marg,Sabz Burj Circle
+122,"In the New Delhi area, which road directly reaches Girdhari Lal Goswami Marg?",B,Simon Bolivar Road,Mahatma Gandhi Marg,Josip Broz Tito Marg,Chaudhary Jhandu Singh Marg
+123,"In the New Delhi area, which road directly reaches Shri Krishan Lal Nagpal Marg?",B,Safdarjung Road,Hans Raj Gupta Marg,rotary no 15,Bhagwan Mahavir Marg
+124,"In the New Delhi area, which road cannot directly reach Vardhman Marg?",D,Maharishi Raman Marg,Fourth Avenue Road,Fifth Avenue Road,Indramohan Bhardwaj Marg
+125,"In the New Delhi area, which road directly reaches Fifth Avenue Road?",C,Ashoka Road,Professor Ram Nath Vij Marg,Vardhman Marg,Motilal Nehru Marg
+126,"In the New Delhi area, which road directly reaches Bipinchandra Pal Marg?",B,Prachin Shiv Mandir Road,Road No. 1,Vivekanand Marg,Bhai Vir Singh Marg
+127,"In the New Delhi area, which road cannot directly reach Road No. 1?",C,Indramohan Bhardwaj Marg,Uday Shankar Marg,Birla Vidya Niketan Marg,Bipinchandra Pal Marg
+128,"In the New Delhi area, which road directly reaches Uday Shankar Marg?",C,Sant Shri Nagpal Marg,IGNOU Road,Alaknanda Road,Raja Ram Marg
+129,"In the New Delhi area, which road directly reaches Raja Ram Marg?",A,Maharishi Valmiki Marg,Rajesh Pilot Marg,Rotary 29,Arya Samaj Marg
+130,"In the New Delhi area, which road directly reaches Maharishi Valmiki Marg?",C,Prachin Shiv Mandir Road,Dwarka-Palam Road,Raja Ram Marg,Kasturba Gandhi Marg
+131,"In the New Delhi area, which road cannot directly reach Mehrauli Badarpur Road?",A,rotary no 15,Anuvrat Marg,Mangal Bazaard Road,Lal Bahadur Shastri Marg
+132,"In the New Delhi area, which road cannot directly reach Anuvrat Marg?",B,Aurobindo Marg,Hans Raj Gupta Marg,Acharya Shri Tulsi Marg,100 Feet Road
+133,"In the New Delhi area, which road directly reaches Shri Vinayak Mandir Marg?",C,Nyaya Marg,Teen Murti Marg,Brigadier Hoshiar Singh Marg,Mandi Road
+134,"In the New Delhi area, which road directly reaches Nai Basti Road?",D,Sri Krishna Chaitanya Mahaprabhu Marg,Amar Shahid Babu Genu Marg,Kumaraswami Kamaraj Marg,Country Club Road
+135,"In the New Delhi area, which road directly reaches Country Club Road?",C,Outer Ring Road,Satya Marg,Nai Basti Road,Kama Koti Marg
+136,"In the New Delhi area, which road cannot directly reach Vedant Deshika Marg?",A,Pandit Trilok Chandra Sharma Marg,Palam Marg,Aruna Asaf Ali Marg,Baba Gang Nath Marg
+137,"In the New Delhi area, which road cannot directly reach Baba Gang Nath Marg?",C,Nelson Mandela Marg,Vedant Deshika Marg,Niti Marg,Aruna Asaf Ali Marg
+138,"In the New Delhi area, which road cannot directly reach Aruna Asaf Ali Marg?",D,Bhagwan Mahavir Marg,Shaheed Jeet Singh Marg,Baba Gang Nath Marg,Lok Kalyan Marg
+139,"In the New Delhi area, which road cannot directly reach Abdul Gaffar Khan Marg?",A,North Avenue,Mahipalpur Bypass,Aruna Asaf Ali Marg,Abdul Gaffar Khan Marg Flyover
+140,"In the New Delhi area, which road directly reaches Bhagwan Mahavir Marg?",C,Chaudhary Dalip Singh Marg,Gamal Abdel Nasser Marg,Aruna Asaf Ali Marg,Sri Krishna Chaitanya Mahaprabhu Marg
+141,"In the New Delhi area, which road directly reaches Mehrauli Gurgaon Road?",D,Anuvrat Marg,Vardhman Marg,Jai Singh Road,Mandi Road
+142,"In the New Delhi area, which road directly reaches Mandi Road?",D,Uday Shankar Marg,Mahipalpur Bypass,Wing Commander Mahinder Kumar Jain Marg,Acharya Shri Tulsi Marg
+143,"In the New Delhi area, which road cannot directly reach Vijay Chowk?",A,Vivekanand Marg,Kartavya Path,Motilal Nehru Marg,Raisina Road
+144,"In the New Delhi area, which road cannot directly reach Nelson Mandela Marg?",B,Munirka Marg,Aruna Asaf Ali Marg,Palam Marg,Baba Gang Nath Marg
+145,"In the New Delhi area, which road directly reaches Mall/Church Road?",A,Abdul Gaffar Khan Marg,Alaknanda Road,Mahipalpur Bypass Flyover,Mangal Bazaard Road
+146,"In the New Delhi area, which road directly reaches Alaknanda Road?",A,Indramohan Bhardwaj Marg,Baba Kharak Singh Marg,Hospital Road,Bipinchandra Pal Marg
+147,"In the New Delhi area, which road directly reaches Basant Kaur Marg?",C,Vande Mataram Marg,Sunheri Bagh Road,Pandit Trilok Chandra Sharma Marg,G-Avenue
+148,"In the New Delhi area, which road cannot directly reach Pandit Trilok Chandra Sharma Marg?",D,Aurobindo Marg,Pramod Mahajan Marg,Lal Bahadur Shastri Marg,Bipinchandra Pal Marg
+149,"In the New Delhi area, which road directly reaches Nandi Vithi Marg?",D,Ashoka Road,Rajdoot marg,Swami Vivekananda Marg,Hansraj Gupta Marg
+150,"In the New Delhi area, which road directly reaches Chaudhary Dalip Singh Marg?",C,rotary no 5,rotary no 4,August Kranti Marg,Dhaula Kuan Flyover Ramp
+151,"In the New Delhi area, which road cannot directly reach Munirka Marg?",C,Poorvi Marg,Nelson Mandela Marg,Shaheed Jeet Singh Marg,Munrika Marg
+152,"In the New Delhi area, which road cannot directly reach Mahipalpur Bypass?",A,Kartavya Path,Abdul Gaffar Khan Marg,Mahipalpur Bypass Flyover,Aerocity Underpass
+153,"In the New Delhi area, which road directly reaches Copernicus Marg?",C,Tyagaraj Marg,Mandi Road,Shrimant Madhavrao Scindia Marg,Teen Murti Marg
+154,"In the New Delhi area, which road directly reaches Tyagaraj Marg?",D,IIT Flyover,Birla Vidya Niketan Marg,Swami Venkateshwar Marg,South Avenue
+155,"In the New Delhi area, which road cannot directly reach South Avenue?",D,Tyagaraj Marg,Dara Shikoh Road,Teen Murti Haifa Chowk,Maidan Garhi Road
+156,"In the New Delhi area, which road directly reaches Dara Shikoh Road?",A,South Avenue,Kumaraswami Kamaraj Marg,Palam Marg,Shrimant Madhavrao Scindia Marg
+157,"In the New Delhi area, which road directly reaches Second Avenue?",C,Motilal Nehru Place,Mall/Church Road,Lodhi Road,Kartavya Path
+158,"In the New Delhi area, which road directly reaches Munrika Marg?",B,Lok Kalyan Marg,Munirka Marg,Sunehri Bagh Road,Sri Krishna Chaitanya Mahaprabhu Marg
+159,"In the New Delhi area, which road directly reaches Maharaja Agrasen Marg?",A,Brigadier Hoshiar Singh Marg,Shaheed Jeet Singh Marg,Max Mueller Marg,Sunheri Bagh Road
+160,"In the New Delhi area, which road directly reaches Sri Krishna Chaitanya Mahaprabhu Marg?",C,Munirka Flyover,Red Cross Road,Chaudhary Dalip Singh Marg,Krishna Menon Marg
+161,"In the New Delhi area, which road cannot directly reach Pramod Mahajan Marg?",C,Saket Road,Mehrauli Badarpur Road,Red Cross Road,Pandit Trilok Chandra Sharma Marg
+162,"In the New Delhi area, which road directly reaches Sabz Burj Circle?",A,Lodhi Road,Raisina Road,Tees January Road,Anuvrat Marg
+163,"In the New Delhi area, which road directly reaches Mathura Road?",C,Chirag Delhi Flyover,Maharishi Valmiki Marg,Sabz Burj Circle,Munirka Flyover
+164,"In the New Delhi area, which road cannot directly reach rotary no 4?",B,Jaswant Singh Road,rotary no 15,Doctor Rajendra Prasad Road,Man Singh Road
+165,"In the New Delhi area, which road directly reaches Doctor Rajendra Prasad Road?",B,Ashoka Road,rotary no 4,Kalka Devi Marg,Chaudhary Jhandu Singh Marg
+166,"In the New Delhi area, which road directly reaches Jaswant Singh Road?",A,rotary no 5,Janpath Lane,Acharya Shri Tulsi Marg,Motilal Nehru Place
+167,"In the New Delhi area, which road directly reaches Teen Murti Marg?",C,Kasturba Gandhi Marg,Jaswant Singh Road,Teen Murti Haifa Chowk,Mahatma Gandhi Marg
+168,"In the New Delhi area, which road cannot directly reach Teen Murti Haifa Chowk?",C,South Avenue,Teen Murti Marg,Lodhi Road,Mother Teresa Crescent
+169,"In the New Delhi area, which road directly reaches Rotary 29?",B,Ho Chi Minh Marg,Panchsheel Marg,Amar Shahid Babu Genu Marg,Talkatora Road
+170,"In the New Delhi area, which road directly reaches Red Cross Road?",A,Raisina Road,Simon Bolivar Road,Aruna Asaf Ali Marg,Tolstoy Marg
+171,"In the New Delhi area, which road directly reaches Akbar Road?",B,Sant Shri Nagpal Marg,rotary no 15,Pandit Pant Marg,Second Avenue
+172,"In the New Delhi area, which road cannot directly reach rotary no 15?",D,Akbar Road,Maulana Azad Road,Man Singh Road,North Avenue
+173,"In the New Delhi area, which road cannot directly reach Motilal Nehru Place?",A,General E D'Souza Road,Akbar Road,Motilal Nehru Marg,Janpath
+174,"In the New Delhi area, which road directly reaches Tu-Tu Marg?",B,Maharaja Agrasen Marg,Prime Chowk,Mahipalpur Bypass,Balbir Saxena Marg
+175,"In the New Delhi area, which road cannot directly reach Rotary Number 47?",D,Pandit Pant Marg,Imtiaz Khan Marg,Talkatora Road,Motilal Nehru Marg
+176,"In the New Delhi area, which road directly reaches Talkatora Road?",C,Raja Dheer Sen Marg,Vande Mataram Marg,Rotary Number 47,100 Feet Road
+177,"In the New Delhi area, which road directly reaches Doctor A.P.J. Abdul Kalam Marg?",C,Aerocity Underpass,Mandi Road,rotary no 11,Jai Singh Road
+178,"In the New Delhi area, which road cannot directly reach rotary no 11?",D,Janpath,Tees January Road,Doctor Avul Pakir Jainulabdeen Abdul Kalam Marg,Savitri Flyover
+179,"In the New Delhi area, which road directly reaches Tees January Road?",D,Vivekanand Marg,Paschimi Marg,Delhi-Gurugram Expressway,rotary no 11
+180,"In the New Delhi area, which road cannot directly reach rotary no 10?",D,Doctor A.P.J. Abdul Kalam Marg,Doctor Avul Pakir Jainulabdeen Abdul Kalam Marg,Tughlaq Road,Krishna Menon Marg
+181,"In the New Delhi area, which road directly reaches Baba Kharak Singh Marg?",B,Basant Kaur Marg,Gol Dakkhana Roundabout,Munirka Marg,Tilak Marg
+182,"In the New Delhi area, which road directly reaches Barakhamba Road?",B,Anuvrat Marg,Mandi House Chowk,Mother Teresa Crescent,Bhai Vir Singh Marg
+183,"In the New Delhi area, which road directly reaches Patel Chowk?",C,Max Mueller Marg,Prime Chowk,Sansad Marg,Nandi Vithi Marg
+184,"In the New Delhi area, which road directly reaches Imtiaz Khan Marg?",D,Teen Murti Marg,Mother Teresa Crescent,Parade Road,Rotary Number 47
+185,"In the New Delhi area, which road directly reaches Gopinath Circle?",C,Munrika Marg,Barapullah Road,Church Road,South Extension Flyover
+186,"In the New Delhi area, which road directly reaches Bhai Vir Singh Marg?",B,Mustafa Kemal Ataturk Marg,Gol Dakkhana Roundabout,BRT to Hansraj Gupta Marg,Basant Kaur Marg
+187,"In the New Delhi area, which road directly reaches Barapullah Road?",C,BRT to Hansraj Gupta Marg,Veer Savarkar Marg,Aurobindo Marg,Teen Murti Haifa Chowk
+188,"In the New Delhi area, which road directly reaches Lala Lajpat Rai Path?",C,Maharaja Agrasen Marg,Imtiaz Khan Marg,Feroze Gandhi Road,Jor Bagh Road
+189,"In the New Delhi area, which road directly reaches Shri Kuldeep Singh Gujral Marg?",C,Tughlaq Road,Lodhi Road,Lala Lajpat Rai Path,General E D'Souza Road
+190,"In the New Delhi area, which road directly reaches Maidan Garhi Road?",B,Mahipalpur Bypass,Sant Shri Nagpal Marg,Maidan Garhi Road,Akbar Road
+191,"In the New Delhi area, which road directly reaches NBCC Plaza Road?",B,Sansad Marg,Lal Bahadur Shastri Marg,Paschimi Marg,Prachin Shiv Mandir Road
+192,"In the New Delhi area, which road directly reaches Paschimi Marg?",B,Vedant Deshika Marg,Palam Marg,Swami Venkateshwar Marg,Bhagwan Das Road
+193,"In the New Delhi area, which road directly reaches Indramohan Bhardwaj Marg?",B,rotary no 10,Alaknanda Road,Rafi Ahmed Kidwai Marg,Aurobindo Marg
+194,"In the New Delhi area, which road directly reaches Deoli Road?",D,Gol Dakkhana Roundabout,Roundabout n°36,Raja Ram Marg,Nai Basti Road
+195,"In the New Delhi area, which road directly reaches Veer Savarkar Marg?",A,Arya Samaj Marg,Satya Marg,rotary no 13,Raisina Road
+196,"In the New Delhi area, which road directly reaches Hospital Road?",A,Mahatma Gandhi Marg,G-Avenue,Raja Dheer Sen Marg,Rao Tula Ram Marg
+197,"In the New Delhi area, which road directly reaches San Martin Marg?",B,Mandi Road,Mahatma Gandhi Marg,Rotary 29,Talkatora Road
+198,"In the New Delhi area, which road directly reaches Moolchand Underpass?",D,Mehrauli Gurgaon Road,Panchsheel Marg,Birla Vidya Niketan Marg,Mahatma Gandhi Marg
+199,"In the New Delhi area, which road directly reaches Pragati Maidan Tunnel?",B,Rotary 29,Bhairon Marg,Mother Teresa Crescent,Kumaraswami Kamaraj Marg
+200,"In the New Delhi area, which road directly reaches Bhairon Marg?",B,Flyover,Pragati Maidan Tunnel,Pandit Pant Marg,Gamal Abdel Nasser Marg
+201,"In the New Delhi area, which road directly reaches South Extension Flyover?",A,Mahatma Gandhi Marg,Mahipalpur Bypass Flyover,Munirka Flyover,Vande Mataram Marg
+202,"In the New Delhi area, which road directly reaches Exit for Dwarka?",A,Delhi-Gurugram Expressway,Indramohan Bhardwaj Marg,South Extension Flyover,Windsor Place
+203,"In the New Delhi area, which road directly reaches Delhi-Gurugram Expressway?",C,Nyaya Marg,Thimayya Marg,Exit for Dwarka,Vaishno Devi Marg
+204,"In the New Delhi area, which road directly reaches Dhaula Kuan Flyover Ramp?",D,Professor Ram Nath Vij Marg,Kama Koti Marg,Janpath,Dhaula Kuan Flyover
+205,"In the New Delhi area, which road directly reaches Sunheri Bagh Road?",B,Mother Teresa Crescent,Krishna Menon Marg,APJ School Road,Mahipalpur Bypass Flyover
+206,"In the New Delhi area, which road directly reaches AIIMS Flyover?",B,Benito Juarez Marg Underpass,Aurobindo Marg,rotary no 5,Max Mueller Marg
+207,"In the New Delhi area, which road directly reaches Feroze Gandhi Road?",B,San Martin Marg,Lala Lajpat Rai Path,Deoli Road,Tughlaq Road
+208,"In the New Delhi area, which road directly reaches Vinay Marg?",A,Panchsheel Marg,Shri Krishan Lal Nagpal Marg,Lodhi Road,rotary no 13
+209,"In the New Delhi area, which road directly reaches Abdul Gaffar Khan Marg Flyover?",A,Abdul Gaffar Khan Marg,Subramaniyam Bharti Marg,Talkatora Road,Maharishi Raman Marg
+210,"In the New Delhi area, which road directly reaches Mangal Bazaard Road?",B,Tamil Sangam Marg,Mehrauli Badarpur Road,Kama Koti Marg,Akbar Road
+211,"In the New Delhi area, which road directly reaches Munirka Flyover?",C,Benito Juarez Marg Underpass,Girdhari Lal Goswami Marg,Palam Marg,Pandit Pant Marg
+212,"In the New Delhi area, which road directly reaches IIT Flyover?",B,Teen Murti Haifa Chowk,Palam Marg,Lala Lajpat Rai Path,Red Cross Road
+213,"In the New Delhi area, which road directly reaches EPDP Marg?",A,Outer Ring Road,Pandit Trilok Chandra Sharma Marg,Man Singh Road,Dhaula Kuan Flyover
+214,"In the New Delhi area, which road directly reaches Outer Ring Road?",A,EPDP Marg,Bhagwan Mahavir Marg,Tyagaraj Marg,Saket Road
+215,"In the New Delhi area, which road directly reaches APJ School Road?",B,General E D'Souza Road,Ho Chi Minh Marg,Vedant Deshika Marg,Nandi Vithi Marg
+216,"In the New Delhi area, which road directly reaches Rao Tula Ram Flyover?",A,Rao Tula Ram Marg,Venkateshwara Marg,Shiv Mandir Marg,Doctor Rajendra Prasad Road
+217,"In the New Delhi area, which road directly reaches Savitri Flyover?",A,Ho Chi Minh Marg,Feroze Gandhi Road,Delhi-Gurugram Expressway,Humayun Road
+218,"In the New Delhi area, which road directly reaches Nehru Place Flyover?",C,rotary no 4,Major Somnath Marg,Outer Ring Road,Lal Bahadur Shastri Marg
+219,"In the New Delhi area, which road directly reaches Chirag Delhi Flyover?",C,rotary no 10,Maharishi Raman Marg,Ho Chi Minh Marg,Vande Mataram Marg
+220,"In the New Delhi area, which road cannot directly reach Benito Juarez Marg?",D,Benito Juarez Marg Underpass,Mahatma Gandhi Marg,Rao Tula Ram Marg,Flyover
+221,"In the New Delhi area, which road directly reaches Naraina flyover?",B,Bahadur Shah Zafar Marg,Mahatma Gandhi Marg,Mother Teresa Crescent,Khelgaon Flyover
+222,"In the New Delhi area, which road directly reaches Benito Juarez Marg Underpass?",D,Josip Broz Tito Marg,Shahjahan Road,Nelson Mandela Marg,Mahatma Gandhi Marg
+223,"In the New Delhi area, which road directly reaches IGNOU Road?",D,Dwarka-Palam Road,Mandi House Chowk,Maidan Garhi Road,Mehrauli Badarpur Road
+224,"In the New Delhi area, which road directly reaches Aerocity Underpass?",D,Lok Kalyan Marg,Chaudhary Jhandu Singh Marg,Mangal Bazaard Road,Mahipalpur Bypass
+225,"In the New Delhi area, which road directly reaches Mahipalpur Bypass Flyover?",A,Mahipalpur Bypass,Tilak Marg,Mathura Road,Nai Basti Road
+226,"In the New Delhi area, which road directly reaches Underpass?",D,Imtiaz Khan Marg,Pandit Trilok Chandra Sharma Marg,Northern Access Rd,Mahatma Gandhi Marg
+227,"In the New Delhi area, which road directly reaches Khelgaon Flyover?",B,South Avenue,Ho Chi Minh Marg,Wing Commander Mahinder Kumar Jain Marg,San Martin Marg
+228,"In the New Delhi area, which road directly reaches Flyover?",D,Max Mueller Marg,Shiv Mandir Marg,Sunheri Bagh Road,Cariappa Marg
+229,"In the New Delhi area, which road directly reaches Pandara Road?",D,Chaudhary Jhandu Singh Marg,Baba Kharak Singh Marg,Copernicus Marg,Subramaniyam Bharti Marg

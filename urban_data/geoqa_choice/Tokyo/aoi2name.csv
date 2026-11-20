@@ -1,0 +1,501 @@
+id,question,answer,A,B,C,D
+0,"What is the name of AOI located at address: 西湖の堤, 浜松町二丁目, 港区, 東京都, 105-0022, 日本?",B,新小岩サニーボウル,旧芝離宮恩賜庭園,国士舘大学 梅ヶ丘キャンパス,イトシアプラザ
+1,"What is the name of AOI located at address: 海手お伝い橋, 浜離宮庭園, 中央区, 東京都, 105-7337, 日本?",C,渋谷区立 上原中学校,Japan Times,浜離宮恩賜庭園,葛飾区立小松中学校
+2,"What is the name of AOI located at address: 内藤町, 新宿区, 東京都, 160-0014, 日本?",B,演芸場,新宿御苑,東京都医師会館,渋谷区立笹塚東公園
+3,"What is the name of AOI located at address: 磯渡り, 清澄三丁目, 清澄, 江東区, 東京都, 135-0033, 日本?",D,アーバンネット大手町ビル,中野区もみじ山文化センター西館,足立市場,清澄庭園
+4,"What is the name of AOI located at address: 播磨坂, 小石川五丁目, 文京区, 東京都, 112-0002, 日本?",D,慶應義塾大学 - 三田キャンパス,葛飾税務署,中野区もみじ山文化センター,小石川植物園
+5,"What is the name of AOI located at address: 旧海岸通り, 港南一丁目, 品川, 港区, 東京都, 108-0075, 日本?",D,葛飾区立末広小学校,中野区立 啓明小学校,渋谷区立鉢山中学校,芝浦水再生センター
+6,"What is the name of AOI located at address: 東京, 丸の内一丁目, 丸の内, 千代田区, 東京都, 100-0005, 日本?",A,丸の内駅前広場,大手町野村ビル,荒川区立第三中学校,練馬区立 練馬東小学校
+7,"What is the name of AOI located at address: NTT, Transfering footway, 大手町二丁目, 大手町, 千代田区, 東京都, 100-0004, 日本?",C,Sony Global Headquarters,東京都立墨田特別支援学校,アーバンネット大手町ビル,谷戸運動公園
+8,"What is the name of AOI located at address: セブン-イレブン, 錦町有楽町線, 大手町二丁目, 大手町, 千代田区, 東京都, 100-0004, 日本?",D,玉川上水第二公園,べんてんばし公園,青山霊園,大手町野村ビル
+9,"What is the name of AOI located at address: 国立劇場通り, 隼町, 千代田区, 東京都, 102-0092, 日本?",D,葛飾区立松上小学校,私立 日本大学 櫻丘高等学校,加賀一丁目みどりばし緑地,国立劇場
+10,"What is the name of AOI located at address: 国立劇場通り, 隼町, 千代田区, 東京都, 102-0092, 日本?",B,瑞光橋公園,演芸場,玉川上水第二公園,伝統芸能情報センター
+11,"What is the name of AOI located at address: プリンス通り, 平河町二丁目, 平河町, 紀尾井町3, 千代田区, 東京都, 102-0000, 日本?",B,石仏公園,Toshi center hotel,七軒家公園,葛飾区立末広小学校
+12,"What is the name of AOI located at address: 国立劇場通り, 隼町, 千代田区, 東京都, 102-0092, 日本?",D,全国富士講睦,東京都立 練馬工業高等学校,豊島五丁目団地,伝統芸能情報センター
+13,"What is the name of AOI located at address: 第２駐車場, 首都高速4号新宿線, 永田町一丁目, 隼町, 千代田区, 東京都, 102-0092, 日本?",D,小石川植物園,世田谷区立 若林小学校,LaLaテラス南千住,託児所
+14,"What is the name of AOI located at address: 首都高速4号新宿線, 永田町一丁目, 隼町, 千代田区, 東京都, 102-0092, 日本?",A,Parking 1,日本大学鶴ヶ丘高等学校,コナミスポーツクラブ 東松原,渋谷同胞幼稚園
+15,"What is the name of AOI located at address: 8, 台東区, 東京都, 111-0051, 日本?",D,七軒家公園,杉並区立 杉並第二小学校,東京国立近代美術館,東京都下水道局 北部下水道事務所
+16,"What is the name of AOI located at address: 鳥良商店, 江戸通り, 柳橋二丁目, 台東区, 東京都, 111-0052, 日本?",C,国立劇場,千代田区立 昌平小学校,Shimojima 5,玉川上水第二公園
+17,"What is the name of AOI located at address: キッチンジロー ニュー新橋店, 烏森通り, 新橋三丁目, 新橋, 港区, 東京都, 110-8549, 日本?",D,花見堂複合施設,東京未来大学,日本大学 芸術学部,NEWしんばしビル
+18,"What is the name of AOI located at address: 旧海岸通り, 港南四丁目, 品川, 港区, 東京都, 108-0075, 日本?",B,杉並区立 向陽中学校,東八ツ山公園,世田谷区立 城山小学校,葛飾シンフォニーヒルズ
+19,"What is the name of AOI located at address: 南長崎一丁目, 豊島区, 東京都, 171-0051, 日本?",C,演芸場,世田谷区立 世田谷小学校,椎名町公園,世田谷区立 富士中学校
+20,"What is the name of AOI located at address: 五輪愛馬通り, 上用賀二丁目, 世田谷区, 東京都, 158-0098, 日本?",B,笹塚児童遊園地,馬事公苑,堀ノ内二丁目公園,平尾児童公園
+21,"What is the name of AOI located at address: マロニエ通り, 練馬二丁目, 練馬区, 東京都, 176-0001, 日本?",D,武蔵野音楽大学,北沢八幡児童遊園,江戸川区立小松川第三中学校,練馬区立 開進第二中学校
+22,"What is the name of AOI located at address: マロニエ通り, 練馬二丁目, 練馬区, 東京都, 176-0001, 日本?",D,東京都立 桜修館中等教育学校,東京科学大学 湯島キャンパス,向島百花園,練馬区立 南町小学校
+23,"What is the name of AOI located at address: 練馬区立 練馬文化センター, マロニエ通り, 練馬二丁目, 練馬区, 東京都, 176-0001, 日本?",A,平成つつじ公園,Shibuya 109,西武渋谷店A館,石仏公園
+24,"What is the name of AOI located at address: 千川通り, 豊玉上二丁目, 練馬区, 東京都, 176-0011, 日本?",A,練馬区立豊玉第二小学校,中野区立 啓明小学校,上智大学真田堀グラウンド,早稲田大学戸山キャンパス
+25,"What is the name of AOI located at address: 千川通り, 豊玉上二丁目, 練馬区, 東京都, 176-0002, 日本?",B,和泉二丁目公園,中新井公園,代田１－１４子供の遊び場,千住旭公園
+26,"What is the name of AOI located at address: 屋上, 目白通り, 豊玉北五丁目, 練馬区, 東京都, 176-0012, 日本?",D,中野区立 第二中学校,芝公園,松島四丁目公園,練馬区役所
+27,"What is the name of AOI located at address: 駒場通り, 上原二丁目, 駒場四丁目, 目黒区, 東京都, 153-8505, 日本?",A,東京大学 駒場リサーチキャンパス,練馬区立豊玉第二小学校,三井住友銀行,杉並区立 成田かっぱ公園
+28,"What is the name of AOI located at address: 駒沢通り, 駒沢公園, 世田谷区, 東京都, 158-0081, 日本?",A,駒沢オリンピック公園総合運動場,東光寺,西新井さかえ公園,文園児童館
+29,"What is the name of AOI located at address: 向山三丁目, 練馬区, 東京都, 176-0022, 日本?",D,練馬区立 練馬中学校,熊野橋児童遊園,新小岩サニーボウル,向山谷戸緑地
+30,"What is the name of AOI located at address: 石川橋, 春日町五丁目, 練馬区, 東京都, 176-0022, 日本?",D,ミッドタウンガーデン,杉並区立 永福南小学校,区立松沢小学校,練馬区立 春日小学校
+31,"What is the name of AOI located at address: 目白通り, 向山一丁目, 練馬区, 東京都, 176-0022, 日本?",A,練馬区立 向山小学校,東京都立 北園高等学校,間栗公園,板橋区立 桜川小学校
+32,"What is the name of AOI located at address: 環八通り, 高松一丁目, 練馬区, 東京都, 176-0022, 日本?",B,東京都立 豊多摩高等学校,高松ローンテニスクラブ,武蔵野音楽大学,東京都立 豊島高等学校
+33,"What is the name of AOI located at address: 1, 練馬区, 東京都, 179-0075, 日本?",D,葛飾区立本田小学校,笹塚児童遊園地,東京聖栄大学,練馬区立 練馬中学校
+34,"What is the name of AOI located at address: 神宮前二丁目, 霞ヶ丘町, 新宿区, 東京都, 160-8484, 日本?",B,目黒川船入場,都立明治公園,森永工場跡地,葛飾清掃工場
+35,"What is the name of AOI located at address: Curry Up, 2-35-9-105, 明治通り, 神宮前二丁目, 神宮前, 渋谷区, 東京都, 150-0001, 日本?",C,旧古河庭園,白百合学園中学校・高等学校,住友不動産原宿ビル,堀ノ内二丁目公園
+36,"What is the name of AOI located at address: 駒場通り, 上原二丁目, 駒場四丁目, 目黒区, 東京都, 153-8505, 日本?",D,アリオ西新井,板橋区立赤塚体育館,陸上自衛隊 練馬駐屯地,日本民藝館 駐車場
+37,"What is the name of AOI located at address: 駒場通り, 上原二丁目, 駒場四丁目, 目黒区, 東京都, 153-8505, 日本?",B,新小岩公園,タイムズ駒場公園,港区立 御成門小学校,江戸川区立平井小学校
+38,"What is the name of AOI located at address: 上原仲通り, 上原二丁目, 上原, 渋谷区, 東京都, 151-0064, 日本?",C,練馬区立 早宮小学校,東京都立小松川高等学校,渋谷区立 上原小学校,善福寺川調節池3号池
+39,"What is the name of AOI located at address: 井の頭通り, 上原三丁目, 上原, 渋谷区, 東京都, 151-0064, 日本?",C,間栗公園,中野区立 第二中学校,古賀政男音楽博物館,東京都立墨田特別支援学校
+40,"What is the name of AOI located at address: 上原三丁目, 上原, 渋谷区, 東京都, 151-0064, 日本?",B,熊野神社,渋谷区立上原公園,佼成学園中学高等学校,早稲田大学西早稲田キャンパス
+41,"What is the name of AOI located at address: 井の頭通り, 上原三丁目, 上原, 渋谷区, 東京都, 151-0064, 日本?",D,北野神社,経堂児童遊園,音無親水公園,渋谷区立 上原中学校
+42,"What is the name of AOI located at address: 駒場通り, 上原二丁目, 駒場二丁目, 目黒区, 東京都, 153-0041, 日本?",D,新井薬師公園,柳森神社,東京都立 豊多摩高等学校,駒場公園
+43,"What is the name of AOI located at address: 旧中山道, 仲宿, 板橋, 板橋区, 東京都, 173-0005, 日本?",D,京王百貨店新宿店,中野車両基地,世田谷区立 北沢中学校,マップコンシェルジュ株式会社
+44,"What is the name of AOI located at address: 王子新道, 板橋四丁目, 板橋, 板橋区, 東京都, 173-0004, 日本?",A,東板橋体育館,帝京めぐみ幼稚園,葛飾区立 中川中学校,東京都下水道局 北部下水道事務所
+45,"What is the name of AOI located at address: 緑橋, 加賀一丁目, 加賀, 板橋区, 東京都, 173-0003, 日本?",D,杉並区立 済美小学校,杉並区立 済美教育センター,マップコンシェルジュ株式会社,加賀一丁目みどりばし緑地
+46,"What is the name of AOI located at address: 緑橋, 加賀一丁目, 加賀, 板橋区, 東京都, 173-0003, 日本?",B,あすなろ児童遊園,板橋区立東板橋図書館,渋谷区立鍋島松涛公園,練馬区立 向山小学校
+47,"What is the name of AOI located at address: 1, 王子一丁目, 王子, 北区, 東京都, 114-8503, 日本?",B,墨田区立 立花吾嬬の森小,北とぴあ,日本大学鶴ヶ丘高等学校 総合運動場,向山谷戸緑地
+48,"What is the name of AOI located at address: 北本通り, 神谷三丁目, 神谷, 北区, 東京都, 115-0042, 日本?",C,江戸川区立平井西小学校,東京都立 第四商業高等学校,北清掃工場,私立 富士見丘中学高等学校
+49,"What is the name of AOI located at address: 北本通り, 神谷三丁目, 神谷, 北区, 東京都, 115-0042, 日本?",C,むさしの保育園,タイムズ,夢とぴあ,小石川植物園
+50,"What is the name of AOI located at address: 祝田通り, 新橋六丁目, 芝公園三丁目, 麻布, 港区, 東京都, 105-0011, 日本?",B,私立 富士見丘中学高等学校,東京プリンスホテル,渋谷区立 幡代小学校,コートヤード・マリオット東武銀座ホテル
+51,"What is the name of AOI located at address: 祝田通り, 新橋六丁目, 芝公園三丁目, 麻布, 港区, 東京都, 105-6290, 日本?",D,日本大学 医学部,むさしの保育園,世田谷区 一本松公園,港区立 御成門小学校
+52,"What is the name of AOI located at address: 御成門中学校 グラウンド, 祝田通り, 新橋六丁目, 芝公園三丁目, 麻布, 港区, 東京都, 105-6290, 日本?",A,芝公園,マップコンシェルジュ株式会社,東八ツ山公園,神谷堀公園
+53,"What is the name of AOI located at address: ドナウ通り, 南千住四丁目, 南千住, 荒川区, 東京都, 116-0003, 日本?",B,学習院女子大学,LaLaテラス南千住,ライフ,ヨドバシAkiba
+54,"What is the name of AOI located at address: 靖国通り, 九段北三丁目, 九段北二丁目, 九段北, 千代田区, 東京都, 102-0073, 日本?",A,白百合学園中学校・高等学校,アルテ子どもと木幼保園,ライフ,佼成学園中学高等学校
+55,"What is the name of AOI located at address: 参道, 九段北二丁目, 九段北, 千代田区, 東京都, 102-0073, 日本?",A,白百合学園小学校,Shibuya 109,練馬区立 旭丘中学校,ヨドバシAkiba
+56,"What is the name of AOI located at address: 1, 九段北二丁目, 九段北, 千代田区, 東京都, 102-0073, 日本?",B,玉川上水第二公園,シャルトル聖パウロ修道女会,熊野神社,祐天寺 Yutenji temple
+57,"What is the name of AOI located at address: 補助第331号線, 南千住七丁目, 南千住, 荒川区, 東京都, 116-0003, 日本?",B,経堂児童遊園,荒川区立第三瑞光小学校,MEGAドン・キホーテ,赤羽根公園
+58,"What is the name of AOI located at address: 夕やけ坂, 恵比寿西一丁目, 恵比寿西, 渋谷区, 東京都, 150-0021, 日本?",A,渋谷区立 長谷戸小学校,江東区立 水神小学校,杉並区立大宮小学校,アルテ子どもと木幼保園
+59,"What is the name of AOI located at address: 渋谷区特別区道893号線（補助18号線）, 恵比寿西一丁目, 恵比寿西, 渋谷区, 東京都, 150-0021, 日本?",D,新宿御苑,板橋区立 桜川中学校,コナミスポーツクラブ 東松原,恵比寿公園
+60,"What is the name of AOI located at address: コーブガーデン, 川の手通り, 南千住三丁目, 南千住, 荒川区, 東京都, 131-0034, 日本?",C,新小岩自動車学校,東京都立 大山高等学校,瑞光橋公園,葛飾区立小松南小学校
+61,"What is the name of AOI located at address: 南千住三丁目, 南千住, 荒川区, 東京都, 111-0022, 日本?",B,学習院女子大学,隅田川駅,板橋区立 桜川小学校,練馬区立 豊渓中学校
+62,"What is the name of AOI located at address: Nirvana New York, 赤坂通り, 赤坂五丁目, 赤坂, 麻布, 港区, 東京都, 106-0052, 日本?",B,南千住野球場,ミッドタウンガーデン,コナミスポーツクラブ 東松原,ライフ
+63,"What is the name of AOI located at address: くすのき通り, 南千住三丁目, 南千住, 荒川区, 東京都, 131-0034, 日本?",D,渋谷フクラス,板橋区立 板橋第四小学校,小松川高校第二グラウンド,荒川区立汐入小学校
+64,"What is the name of AOI located at address: はなみずき通り, 南千住八丁目, 南千住, 荒川区, 東京都, 120-0025, 日本?",D,柏の宮公園,江戸川北税務署,東京科学大学 湯島キャンパス,はなみずき保育園
+65,"What is the name of AOI located at address: はなみずき通り, 南千住八丁目, 南千住, 荒川区, 東京都, 120-0023, 日本?",C,日本大学 医学部,練馬区立 向山小学校,荒川区立第三中学校,柏の宮公園
+66,"What is the name of AOI located at address: 川の手通り, 南千住八丁目, 南千住, 荒川区, 東京都, 131-0034, 日本?",D,渋谷区立 幡代小学校,古賀政男音楽博物館,王子隣保館王子保育園,東京都立 産業技術高等専門学校
+67,"What is the name of AOI located at address: 中井橋, 和泉二丁目, 和泉, 杉並区, 東京都, 168-0063, 日本?",D,上練馬公園,イトシアプラザ,練馬区立 開進第四中学校,和泉二丁目公園
+68,"What is the name of AOI located at address: 二の橋, 大蔵一丁目, 世田谷区, 東京都, 157-8510, 日本?",D,渋谷区立 中幡小学校,志茂東公園,葛飾区立 渋江小学校,砧公園
+69,"What is the name of AOI located at address: 環八通り, 春日町二丁目, 練馬区, 東京都, 179-0085, 日本?",C,小松川高校第二グラウンド,浜田山公園,Kasuga park,東京都立 国際高等学校
+70,"What is the name of AOI located at address: 環八通り, 春日町二丁目, 練馬区, 東京都, 179-0074, 日本?",B,墨田区立八広小学校,練馬区立 練馬東小学校,東京大学附属中学校・高等学校,東京都立 産業技術高等専門学校
+71,"What is the name of AOI located at address: 早宮中央通り, 早宮四丁目, 練馬区, 東京都, 179-0085, 日本?",B,川添公園,練馬区立 早宮小学校,Shimojima 5,練馬区立 練馬文化センター
+72,"What is the name of AOI located at address: 環八通り, 春日町二丁目, 練馬区, 東京都, 179-0074, 日本?",D,東京都立 南葛飾高等学校,瑞光橋公園,江戸川区立小松川第三中学校,simokubo ikoino mori park
+73,"What is the name of AOI located at address: 浜田山歩道橋, 浜田山四丁目, 浜田山, 杉並区, 東京都, 168-0065, 日本?",B,世田谷区立 若竹保育園,杉並区立 浜田山小学校,練馬区立 仲町西公園,王子隣保館王子保育園
+74,"What is the name of AOI located at address: 浜田山歩道橋, 浜田山三丁目, 浜田山, 杉並区, 東京都, 168-0065, 日本?",B,瑞光橋公園,浜田山公園,経堂児童遊園,玉川上水第三公園
+75,"What is the name of AOI located at address: 覚蔵寺, 甲州街道, 下高井戸三丁目, 下高井戸, 杉並区, 東京都, 168-0073, 日本?",B,江戸川区立西小松川小学校,玉川上水第二公園,七軒家公園,Parking 1
+76,"What is the name of AOI located at address: 大宮二丁目, 大宮, 杉並区, 東京都, 168-8570, 日本?",A,宮元公園,練馬区立豊玉第二小学校,葛飾区立 葛飾小学校,日本大学 芸術学部
+77,"What is the name of AOI located at address: 荒玉水道道路, 永福四丁目, 永福, 杉並区, 東京都, 168-8570, 日本?",D,東京都立小松川高等学校,豪徳寺,千住仲町公園,永福北公園
+78,"What is the name of AOI located at address: 五日市街道, 成田西二丁目, 成田西, 杉並区, 東京都, 166-0016, 日本?",A,東京都立 豊多摩高等学校,都立明治公園,経堂大橋公園,秋葉原公園
+79,"What is the name of AOI located at address: 赤堤通り, 代田四丁目, 世田谷区, 東京都, 155-0033, 日本?",D,板橋区立 桜川中学校,渋谷区立 富谷小学校,東京都立 中央ろう学校,世田谷区立 代田小学校
+80,"What is the name of AOI located at address: 都市計画道路補助第154号線（区役所西通り）, 羽根木, 松原六丁目, 世田谷区, 東京都, 154-0022, 日本?",B,尾久車両センター,世田谷区立 梅丘中学校,練馬一丁目公園,旧・江戸川区立 平井第二小学校
+81,"What is the name of AOI located at address: せきえい通り, 西新井栄町一丁目, 西新井栄町, 足立区, 東京都, 123-0843, 日本?",D,練馬区立 豊渓中学校,千歳郵便局,葛飾区立上平井小学校,アリオ西新井
+82,"What is the name of AOI located at address: 西新井栄町一丁目, 西新井栄町, 足立区, 東京都, 123-0843, 日本?",D,国士舘大学 梅ヶ丘キャンパス,加賀一丁目みどりばし緑地,西武渋谷店A館,西新井さかえ公園
+83,"What is the name of AOI located at address: 淡島通り, 池尻四丁目, 世田谷区, 東京都, 153-8505, 日本?",A,世田谷区立 富士中学校,目黒区立 駒場小学校,杉並区立 済美教育センター,練馬区立 開進第三中学校
+84,"What is the name of AOI located at address: 駒場通り, 代沢一丁目, 代沢, 目黒区, 東京都, 153-8505, 日本?",C,南公園,私立 下北沢成徳高等学校,東京都立 国際高等学校,葛飾区立南奥戸小学校
+85,"What is the name of AOI located at address: さくら堤通り, 南千住七丁目, 南千住, 荒川区, 東京都, 116-0003, 日本?",C,世田谷区立 若林小学校,世田谷区立 若竹保育園,にじの樹保育園,Shibuya 109
+86,"What is the name of AOI located at address: 39, 西ケ原一丁目, 北区, 東京都, 114-0015, 日本?",A,旧古河庭園,国立スポーツ科学センター,マップコンシェルジュ株式会社,Shogun
+87,"What is the name of AOI located at address: アザレア通り, 中里二丁目, 豊島区, 東京都, 114-0015, 日本?",C,仲宿千年広場,ユニゾンモール,駒込東公園,全国富士講睦
+88,"What is the name of AOI located at address: かつら並木通り, 千住橋戸町, 足立区, 東京都, 120-0038, 日本?",B,葛飾区立 葛飾小学校,足立市場,隅田川駅,紅葉山公園
+89,"What is the name of AOI located at address: 公衆トイレ, 新荒川堤防線, 日ノ出町, 足立区, 東京都, 120-0022, 日本?",D,杉並区立 永福中央公園,浜田山東公園,小田急ハルク,千住旭公園
+90,"What is the name of AOI located at address: 台東区, 東京都, 110-8712, 日本?",D,平成つつじ公園,墨田区立桜堤中学校,千鳥ヶ淵公園,東京国立博物館
+91,"What is the name of AOI located at address: 神田白山線, 上野七丁目, 台東区, 東京都, 110-8712, 日本?",A,東京都美術館,東白鬚公園,中野区立 第二中学校,渋谷区立 笹塚中学校
+92,"What is the name of AOI located at address: 墨堤通り, 墨田一丁目, 墨田, 墨田区, 東京都, 131-0034, 日本?",C,世田谷区立 松原小学校,板橋区立東板橋図書館,白鬚公園,墨田区立寺島中学校
+93,"What is the name of AOI located at address: 首都高速6号向島線, 堤通二丁目, 堤通, 吾妻橋, 墨田区, 東京都, 131-0033, 日本?",B,杉並区立 浜田山小学校,東白鬚公園,早稲田大学西早稲田キャンパス,千住仲町公園
+94,"What is the name of AOI located at address: 墨堤通り, 千住仲町, 足立区, 東京都, 120-0036, 日本?",B,港区立三田図書館,千住仲町公園,玉川上水第三公園,東京都立 南葛飾高等学校
+95,"What is the name of AOI located at address: 港南一丁目, 品川, 港区, 東京都, 108-0023, 日本?",A,Japan Times,中央公園,託児所,白鬚公園
+96,"What is the name of AOI located at address: 港南二丁目, 品川, 港区, 東京都, 108-0075, 日本?",D,東京プリンスホテル,simokubo ikoino mori park,佼成学園 総合グラウンド,NTT Docomo
+97,"What is the name of AOI located at address: 1, 港区, 東京都, 108-0075, 日本?",C,葛飾区立 木根川小学校,江戸川区立小松川小学校,Sony Global Headquarters,練馬区立 平和台児童公園
+98,"What is the name of AOI located at address: 靖国通り, 九段北三丁目, 九段北二丁目, 九段北, 千代田区, 東京都, 102-0073, 日本?",C,杉並区立 新高円寺公園,渋谷同胞幼稚園,えびや,新井薬師公園
+99,"What is the name of AOI located at address: 方南通り, 弥生町六丁目, 中野区, 東京都, 164-0014, 日本?",A,東京都立中野特別支援学校,東京未来大学,渋谷区立 長谷戸小学校,葛飾区立 本田中学校
+100,"What is the name of AOI located at address: 春日通り, 小日向四丁目, 文京区, 東京都, 112-0012, 日本?",D,練馬区立 練馬中学校,港区立三田図書館,世田谷区立 松原敬老会館,文京区立 第一中学校
+101,"What is the name of AOI located at address: 鎌倉通り, 北沢四丁目, 北沢, 世田谷区, 東京都, 155-8668, 日本?",B,東京都下水道局吾嬬第二ポンプ所,世田谷区立 下北沢小学校,板橋地域センター,世田谷郵便局
+102,"What is the name of AOI located at address: 成田下橋, 成田西一丁目, 成田西, 杉並区, 東京都, 166-0016, 日本?",C,南千住野球場,弁天公園,杉並区立 杉並児童交通公園,総合スポーツセンター
+103,"What is the name of AOI located at address: 子どもの遊び場, 鶴が丘橋, 代田一丁目, 世田谷区, 東京都, 155-0033, 日本?",B,筑波大学附属桐が丘特別支援学校,代田１－１４子供の遊び場,渋谷区立 幡代小学校,駒場公園
+104,"What is the name of AOI located at address: 王子金町市川線, 豊島五丁目, 豊島, 北区, 東京都, 120-0047, 日本?",B,ヨドバシAkiba,豊島五丁目団地,葛飾清掃工場,旧古河庭園
+105,"What is the name of AOI located at address: 庾嶺坂, 神楽坂一丁目, 若宮町, 新宿区, 東京都, 162-0825, 日本?",D,小竹向原駅自転車駐車場,弁天公園,江東区役所,若宮公園
+106,"What is the name of AOI located at address: 井ノ頭通り, 浜田山三丁目, 浜田山, 杉並区, 東京都, 168-0065, 日本?",C,東京富士大学,江戸川区立小松川第二中学校（夜間学級）,浜田山東公園,江東区役所
+107,"What is the name of AOI located at address: 和泉三丁目, 和泉, 杉並区, 東京都, 166-0013, 日本?",D,旧芝離宮恩賜庭園,渋江公園,練馬区立 春日小学校,和田堀変電所
+108,"What is the name of AOI located at address: 大宮二丁目, 大宮, 杉並区, 東京都, 168-0061, 日本?",C,東京都立 第四商業高等学校,江戸川区立平井東小学校,杉並区立 成田かっぱ公園,中小企業センター
+109,"What is the name of AOI located at address: 補助128号線, 松ノ木一丁目, 杉並区, 東京都, 166-0014, 日本?",B,MEGAドン・キホーテ,杉並区立松ノ木小学校,練馬区立 開進第四中学校,渋谷区立 神南小学校
+110,"What is the name of AOI located at address: 大原二丁目, 大原, 世田谷区, 東京都, 156-0042, 日本?",B,世田谷区立 松沢中学校,和田堀給水所,東京都医師会館,豪徳寺
+111,"What is the name of AOI located at address: 台橋通り, 東新町二丁目, 東新町, 板橋区, 東京都, 174-0074, 日本?",B,目黒区立 駒場小学校,竹川病院,ミッドタウンガーデン,世田谷区 一本松公園
+112,"What is the name of AOI located at address: 台橋通り, 東新町二丁目, 東新町, 板橋区, 東京都, 174-0074, 日本?",C,中野坂上サンブライトツインビル,渋谷区立 笹塚小学校,板橋区立 緑ヶ丘第二公園,和田堀変電所
+113,"What is the name of AOI located at address: 早稲田大学メディアネットワークセンター, 早大通り, 早稲田鶴巻町, 馬場下町, 新宿区, 東京都, 160-8484, 日本?",D,新井薬師公園,日本大学認定こども園,有楽町マリオン,早稲田大学26号館
+114,"What is the name of AOI located at address: 早大通り, 早稲田鶴巻町, 戸塚町, 新宿区, 東京都, 160-8484, 日本?",C,鶯谷児童遊園,佼成学園中学高等学校,早稲田大学25-2号館,高千穂大学
+115,"What is the name of AOI located at address: 瀬田貫井線, 永福一丁目, 永福, 杉並区, 東京都, 168-0064, 日本?",A,杉並区立 永福南小学校,大手町野村ビル,東京都立 鷺宮高等学校,東京都下水道局吾嬬第二ポンプ所
+116,"What is the name of AOI located at address: 浜田山四丁目, 浜田山, 杉並区, 東京都, 168-0065, 日本?",B,練馬一丁目公園,すずかけ公園,新宿御苑,泉岳寺児童遊園
+117,"What is the name of AOI located at address: 私立日本学園中学校, 松原大山通り, 松原二丁目, 世田谷区, 東京都, 156-0043, 日本?",D,東京都立 豊島高等学校,中野車両基地,弁天公園,日本学園高等学校; 日本学園中学校
+118,"What is the name of AOI located at address: 運動場, 塚山橋, 下高井戸五丁目, 下高井戸, 杉並区, 東京都, 156-0057, 日本?",B,向原ゴルフセンター,塚山公園,べんてんばし公園,ビックロ
+119,"What is the name of AOI located at address: 王子新道, 板橋三丁目, 板橋, 板橋区, 東京都, 173-0004, 日本?",D,江戸川区立小松川図書館,練馬区立 旭丘小学校,江戸川区立平井南小学校,平尾児童公園
+120,"What is the name of AOI located at address: 板橋三丁目, 板橋, 板橋区, 東京都, 173-0004, 日本?",D,防災広場 初音の森,墨田区立第三吾嬬小学校,江戸川区立小松川第二中学校（夜間学級）,板橋地域センター
+121,"What is the name of AOI located at address: 旧中山道, 板橋三丁目, 板橋, 板橋区, 東京都, 173-0004, 日本?",C,江戸川区立平井東小学校,東京国立博物館,花の湯,長屋茶房 天真庵
+122,"What is the name of AOI located at address: 中杉通り, 阿佐谷南一丁目, 阿佐谷南, 高円寺, 杉並区, 東京都, 166-0004, 日本?",D,葛飾区立 葛飾小学校,えびや,王子隣保館王子保育園,杉並区立 阿佐ヶ谷中学校
+123,"What is the name of AOI located at address: 青梅街道, 梅里二丁目, 梅里, 高円寺, 杉並区, 東京都, 166-8588, 日本?",C,マルエツプチ,演芸場,杉並区立 新高円寺公園,渋谷区立鍋島松涛公園
+124,"What is the name of AOI located at address: 東八通り, 六本木七丁目, 南青山二丁目, 麻布, 港区, 東京都, 106-8558, 日本?",C,板橋区立東板橋図書館,えびや,青山霊園,江戸川区立平井南小学校
+125,"What is the name of AOI located at address: 東一通り, 赤坂八丁目, 南青山二丁目, 麻布, 港区, 東京都, 107-0062, 日本?",A,東京都立 青山特別支援学校,下高井戸おおぞら公園,平尾児童公園,墨田区立八広小学校
+126,"What is the name of AOI located at address: 永福中央公園, 瀬田貫井線, 永福一丁目, 永福, 杉並区, 東京都, 168-0064, 日本?",A,杉並区立 永福中央公園,東京大学附属中学校・高等学校,下高井戸おおぞら公園,寿屋
+127,"What is the name of AOI located at address: 若宮八幡通り, 南千住六丁目, 南千住, 荒川区, 東京都, 116-0003, 日本?",A,南千住野球場,目黒区立 駒場小学校,野沢公園,小松川第二児童遊園
+128,"What is the name of AOI located at address: Kishimojin Omotesandō, 南池袋三丁目, 雑司が谷三丁目, 豊島区, 東京都, 170-8422, 日本?",A,雑司ヶ谷鬼子母神,東京都立中野特別支援学校,駒込東公園,菅原神社
+129,"What is the name of AOI located at address: 本郷通り, 王子一丁目, 王子, 北区, 東京都, 114-0024, 日本?",C,練馬区立 練馬中学校,葛飾区立小松南小学校,飛鳥山公園,荒川区立第三中学校
+130,"What is the name of AOI located at address: 永福出口, 永福一丁目, 永福, 杉並区, 東京都, 156-0063, 日本?",B,仲宿千年広場,東京都立 大塚ろう学校 永福分教室,雑司ヶ谷霊園,イオン板橋ショッピングセンター
+131,"What is the name of AOI located at address: 明治大学 和泉校舎, 松原大山通り, 松原二丁目, 世田谷区, 東京都, 156-0043, 日本?",C,東京都立墨田特別支援学校,東京都立 鷺宮高等学校,明治大学 和泉キャンパス,東京都立武蔵丘高等学校
+132,"What is the name of AOI located at address: 松原大山通り, 松原二丁目, 世田谷区, 東京都, 156-0043, 日本?",A,世田谷区立 松原小学校,守山複合施設,葛飾シンフォニーヒルズ,浜離宮恩賜庭園
+133,"What is the name of AOI located at address: 羽根木, 松原五丁目, 世田谷区, 東京都, 156-0042, 日本?",A,赤羽根公園,港区立三田図書館,銀座ソニーパーク,板橋区立 上板橋第二中学校
+134,"What is the name of AOI located at address: Itocia地下歩道, 有楽町二丁目, 有楽町, 千代田区, 東京都, 100-0006, 日本?",B,渋谷区立 富ヶ谷公園,有楽町マリオン,日本電気本社,杉並区立 向陽中学校
+135,"What is the name of AOI located at address: クリスピー･クリーム･ドーナツ, Itocia地下歩道, 有楽町二丁目, 有楽町, 千代田区, 東京都, 100-0006, 日本?",D,練馬区立豊玉第二小学校,南公園,墨田区立東吾嬬小学校,有楽町イトシア
+136,"What is the name of AOI located at address: 椿屋珈琲店, Itocia地下歩道, 有楽町二丁目, 有楽町, 千代田区, 東京都, 104-0061, 日本?",C,墨田区立第一寺島小学校,杉並区立 済美小学校,イトシアプラザ,新宿御苑
+137,"What is the name of AOI located at address: 梅里二丁目, 梅里, 高円寺, 杉並区, 東京都, 166-8588, 日本?",B,世田谷区立 若竹保育園,梅里中央公園,新小岩サニーボウル,宮園保育園
+138,"What is the name of AOI located at address: 新荒川堤防線, 柳原一丁目, 柳原, 足立区, 東京都, 120-0023, 日本?",C,玉川上水第二公園,ユニゾンモール,東京未来大学,中野区立 啓明小学校
+139,"What is the name of AOI located at address: 千住間道, 南千住一丁目, 南千住, 荒川区, 東京都, 116-8501, 日本?",B,マダレナ・カノッサ幼稚園,荒川区立 瑞光小学校,私立 城北高等学校 城北中学校,東京都立 国際高等学校
+140,"What is the name of AOI located at address: 若宮八幡通り, 南千住六丁目, 南千住, 荒川区, 東京都, 116-0003, 日本?",A,東京都立荒川工業高等学校,練馬区立 開進第一中学校,渋谷区立 笹塚小学校,Parking 1
+141,"What is the name of AOI located at address: ソニー通り, 銀座五丁目, 中央区, 東京都, 104-0061, 日本?",B,杉並区立 永福中央公園,銀座ソニーパーク,雑司ヶ谷鬼子母神,MEGAドン・キホーテ
+142,"What is the name of AOI located at address: 松原北保育園, 井ノ頭通り, 大原二丁目, 大原, 世田谷区, 東京都, 156-0063, 日本?",B,江戸川区立小松川図書館,世田谷区立 松原北保育園,佼成学園中学高等学校,ユニゾンモール
+143,"What is the name of AOI located at address: 経堂四丁目, 世田谷区, 東京都, 155-0055, 日本?",D,セルリアンタワー,タイムズ駒場公園,葛飾区立 中川中学校,南公園
+144,"What is the name of AOI located at address: 靖国通り, 市谷本村町, 新宿区, 東京都, 162-0845, 日本?",C,マップコンシェルジュ株式会社,荒川区立汐入小学校,防衛省市ヶ谷地区,日本大学鶴ヶ丘高等学校
+145,"What is the name of AOI located at address: 諏訪通り, 戸山一丁目, 戸山, 新宿区, 東京都, 160-8484, 日本?",C,練馬区立 旭丘中学校,渋谷区立 猿楽小学校,早稲田大学戸山キャンパス,済美山運動広場
+146,"What is the name of AOI located at address: 諏訪通り, 戸山三丁目, 戸山, 新宿区, 東京都, 160-8484, 日本?",A,学習院女子大学,帝京めぐみ幼稚園,京王百貨店新宿店,墨田区立東吾嬬小学校
+147,"What is the name of AOI located at address: 明治通り, 大久保, 戸山, 新宿区, 東京都, 160-8484, 日本?",B,芝公園,早稲田大学西早稲田キャンパス,文園児童館,練馬区立 練馬中学校
+148,"What is the name of AOI located at address: 瀬田貫井線, 宮坂一丁目, 世田谷区, 東京都, 156-0051, 日本?",D,墨田区立寺島中学校,練馬区立 開進第三小学校,東京都立 練馬工業高等学校,世田谷区立 世田谷小学校
+149,"What is the name of AOI located at address: 平和台二丁目, 練馬区, 東京都, 179-0083, 日本?",A,練馬区立 仲町西公園,東京都立 第一商業高等学校,慶應義塾女子高,平尾児童公園
+150,"What is the name of AOI located at address: 平和台二丁目, 環八通り, 北町, 練馬区, 東京都, 179-0081, 日本?",B,世田谷区立 北沢中学校,陸上自衛隊 練馬駐屯地,Shibuya 109,東京富士大学
+151,"What is the name of AOI located at address: 池袋谷原線, 平和台四丁目, 練馬区, 東京都, 179-0085, 日本?",A,東京都立 練馬工業高等学校,マダレナ・カノッサ幼稚園,新宿区立 柏木小学校,日本電気本社
+152,"What is the name of AOI located at address: 西福寺通り, 赤堤三丁目, 世田谷区, 東京都, 156-0052, 日本?",B,東京都立広尾病院,山下西公園,中央公園,丸の内駅前広場
+153,"What is the name of AOI located at address: 西福寺通り, 赤堤三丁目, 世田谷区, 東京都, 156-0044, 日本?",B,寿屋,世田谷区立 赤堤小学校,板橋区立 桜川中学校,はなみずき保育園
+154,"What is the name of AOI located at address: 赤松通り, 桜上水三丁目, 世田谷区, 東京都, 156-8550, 日本?",D,祐天寺 Yutenji temple,やまぼうし公園,練馬区立 開進第一小学校,桜上水のびのび公園
+155,"What is the name of AOI located at address: 日大通り, 赤堤五丁目, 世田谷区, 東京都, 156-0045, 日本?",C,練馬区立 南町小学校,青山学院大学,私立 日本大学 櫻丘高等学校,練馬区立 練馬東小学校
+156,"What is the name of AOI located at address: 日大通り, 赤堤五丁目, 世田谷区, 東京都, 156-0045, 日本?",A,東京都立 松原高等学校,練馬区立 開進第四中学校,渋谷区立 笹塚中学校,杉並区立 杉並第二小学校
+157,"What is the name of AOI located at address: 下高井戸二丁目, 下高井戸, 杉並区, 東京都, 168-0073, 日本?",B,玉川上水第二公園,玉川上水第三公園,NSビル,東京都立 中央ろう学校
+158,"What is the name of AOI located at address: 下高井戸二丁目, 下高井戸, 杉並区, 東京都, 156-0043, 日本?",A,玉川上水第三公園,世田谷八幡宮,東京都立墨田特別支援学校,小石川植物園
+159,"What is the name of AOI located at address: 瀬田貫井線, 永福一丁目, 永福, 杉並区, 東京都, 156-0043, 日本?",A,東京都立 中央ろう学校,旧・江戸川区立 平井第二小学校,東京都立小松川高等学校,堀ノ内二丁目公園
+160,"What is the name of AOI located at address: 台橋通り, 東新町二丁目, 東新町, 板橋区, 東京都, 174-0074, 日本?",B,東京都立赤羽北桜高等学校,私立 城北高等学校 城北中学校,文京区立 第一中学校,杉並区立 杉並児童交通公園
+161,"What is the name of AOI located at address: 荒玉水道道路, 堀ノ内一丁目, 堀ノ内, 杉並区, 東京都, 166-0014, 日本?",D,NTT Docomo,練馬区立 豊渓中学校,練馬一丁目公園,済美山運動広場
+162,"What is the name of AOI located at address: 熊野橋, 堀ノ内一丁目, 堀ノ内, 杉並区, 東京都, 166-0013, 日本?",C,武蔵野音楽大学,日本大学鶴ヶ丘高等学校,杉並区立 済美小学校,渋谷区立 富谷小学校
+163,"What is the name of AOI located at address: 荒玉水道道路, 堀ノ内一丁目, 堀ノ内, 杉並区, 東京都, 166-0013, 日本?",B,世田谷区立 富士中学校,杉並区立 大宮中学校,マダレナ・カノッサ幼稚園,浅草ビュー ホテル
+164,"What is the name of AOI located at address: 御供米橋 (Okumaibashi), 大宮二丁目, 大宮, 杉並区, 東京都, 168-0061, 日本?",B,板橋区立 緑ヶ丘第二公園,佼成学園 総合グラウンド,江戸川区立小松川第三中学校,杉並区立 向陽中学校
+165,"What is the name of AOI located at address: 方南通り, 永福四丁目, 永福, 杉並区, 東京都, 168-8570, 日本?",B,Wood Park,高千穂大学,東京都立 鷺宮高等学校,日本学園高等学校; 日本学園中学校
+166,"What is the name of AOI located at address: 佼成学園 総合グラウンド, 御供米橋 (Okumaibashi), 大宮二丁目, 大宮, 杉並区, 東京都, 168-0061, 日本?",C,葛飾区立南奥戸小学校,間栗公園,和田堀公園,東京都立 南葛飾高等学校
+167,"What is the name of AOI located at address: 目黒川緑道, 池尻四丁目, 目黒区, 東京都, 153-0044, 日本?",B,千住仲町公園,池尻大橋北駐輪場,東京国立近代美術館,若宮公園
+168,"What is the name of AOI located at address: 赤堤一丁目, 世田谷区, 東京都, 156-0044, 日本?",C,東京都下水道局 北部下水道事務所,板橋南部公園（東板橋公園）,山下公園,タイムズ駒場公園
+169,"What is the name of AOI located at address: 赤堤通り, 船橋五丁目, 世田谷区, 東京都, 156-0045, 日本?",B,東京都立中野特別支援学校,マダレナ・カノッサ幼稚園,渋谷区立 中幡小学校,丸山公園
+170,"What is the name of AOI located at address: 善福寺川ジョギングコース, 成田西三丁目, 成田西, 杉並区, 東京都, 166-0016, 日本?",C,千住旭公園,世田谷区立 下北沢小学校,東京都立 杉並高等学校,早稲田大学戸山キャンパス
+171,"What is the name of AOI located at address: 善福寺川ジョギングコース, 成田西三丁目, 成田西, 杉並区, 東京都, 166-0016, 日本?",A,杉並区立 東田中学校,世田谷区立 松原敬老会館,杉並区立 済美教育センター,筑波大学附属桐が丘特別支援学校
+172,"What is the name of AOI located at address: 杉並区立 和田堀調整池壁打ち庭球練習場, 荒玉水道道路, 堀ノ内一丁目, 堀ノ内, 杉並区, 東京都, 166-0014, 日本?",B,東京国立博物館,善福寺川調節池3号池,Toshi center hotel,板橋区立 上板橋第二小学校
+173,"What is the name of AOI located at address: 熊野橋, 堀ノ内二丁目, 堀ノ内, 杉並区, 東京都, 166-0013, 日本?",D,文園児童館,小松川高校テニスコート,練馬区立 練馬東小学校,熊野橋児童遊園
+174,"What is the name of AOI located at address: 紅葉橋, 堀ノ内二丁目, 堀ノ内, 杉並区, 東京都, 166-0013, 日本?",A,杉並区立 済美教育センター,熊野橋児童遊園,葛飾区立 葛飾小学校,和田堀変電所
+175,"What is the name of AOI located at address: 霊峰橋, 和田二丁目, 和田, 杉並区, 東京都, 168-0062, 日本?",B,王子隣保館王子保育園,佼成学園中学高等学校,経堂児童遊園,東京天然温泉;古代の湯
+176,"What is the name of AOI located at address: 和田二丁目, 和田, 杉並区, 東京都, 164-0014, 日本?",C,東京科学大学 湯島キャンパス,練馬区立 練馬中学校,和田ポンプ施設,中野坂上サンブライトツインビル
+177,"What is the name of AOI located at address: 和田廣橋, 和田一丁目, 和田, 杉並区, 東京都, 164-0014, 日本?",D,松島四丁目公園,Sony Global Headquarters,えびや,むさしの保育園
+178,"What is the name of AOI located at address: シオヤ無線, 11, 外神田一丁目, 外神田, 千代田区, 東京都, 101-0021, 日本?",A,東京ラジオデパート,世田谷区立 北沢中学校,杉並区立 済美小学校,東京都立 第一商業高等学校
+179,"What is the name of AOI located at address: 烏山川緑道, 城山通り, 経堂五丁目, 世田谷区, 東京都, 156-0052, 日本?",C,陸上自衛隊 練馬駐屯地,板橋区立 板橋第十小学校,経堂大橋公園,日本大学 法学部
+180,"What is the name of AOI located at address: 城山通り, 経堂五丁目, 世田谷区, 東京都, 156-0052, 日本?",A,私立 鴎友学園女子中学高等学校,世田谷区立 若林小学校,東京大学 駒場リサーチキャンパス,Shibuya 109
+181,"What is the name of AOI located at address: 谷中防災コミュニティセンター, 蛍坂, 谷中五丁目, 台東区, 東京都, 110-0001, 日本?",D,板橋区立赤塚体育館,和田堀変電所,渋谷区立 上原中学校,防災広場 初音の森
+182,"What is the name of AOI located at address: 中山道, 板橋四丁目, 板橋, 板橋区, 東京都, 173-0004, 日本?",B,にじの樹保育園,東京都立 北園高等学校,堀ノ内斎場,長屋茶房 天真庵
+183,"What is the name of AOI located at address: 中山道, 板橋四丁目, 板橋, 板橋区, 東京都, 173-0004, 日本?",C,東京都美術館,佼成学園 総合グラウンド,東光寺,東京科学大学 湯島キャンパス
+184,"What is the name of AOI located at address: 王子新道, 板橋三丁目, 板橋, 板橋区, 東京都, 173-0004, 日本?",D,音無親水公園,杉並区立 向陽中学校,葛飾区立清和小学校,板橋南部公園（東板橋公園）
+185,"What is the name of AOI located at address: 中山道, 板橋四丁目, 板橋, 板橋区, 東京都, 173-0004, 日本?",C,江戸川区立小松川第三中学校,紀伊國屋書店,板橋区立 板橋第四小学校,野沢公園
+186,"What is the name of AOI located at address: 富ヶ谷公園, 山手通り, 富ヶ谷二丁目, 富ヶ谷, 渋谷区, 東京都, 151-0063, 日本?",C,成宗変電所,東京都立 豊島高等学校,渋谷区立 富ヶ谷公園,代田１－１４子供の遊び場
+187,"What is the name of AOI located at address: 桜田通り, 王子四丁目, 王子, 北区, 東京都, 114-0001, 日本?",D,柏の宮公園,東京都立 松原高等学校,練馬区立 旭丘中学校,王子四丁目公園
+188,"What is the name of AOI located at address: 三軒茶屋二丁目, 世田谷区, 東京都, 154-0024, 日本?",C,板橋区立 上板橋第二小学校,葛飾区立川端小学校,三軒茶屋公園,練馬区立 仲町小学校
+189,"What is the name of AOI located at address: 本郷赤羽線, 王子二丁目, 王子, 北区, 東京都, 114-0002, 日本?",B,砧公園,北区立王子小学校・王子桜中学校,新井薬師 梅照院,マップコンシェルジュ株式会社
+190,"What is the name of AOI located at address: 王子隣保館保育園, 尾長橋歩道橋, 王子二丁目, 王子, 北区, 東京都, 114-0002, 日本?",D,日本学園高等学校; 日本学園中学校,板橋区立 成増小学校,練馬区立 開進第二中学校,王子隣保館王子保育園
+191,"What is the name of AOI located at address: 宮坂三丁目, 世田谷区, 東京都, 156-0052, 日本?",D,守山複合施設,岡倉天心 記念公園,千歳郵便局,経堂児童遊園
+192,"What is the name of AOI located at address: 補助第237号線, 錦二丁目, 練馬区, 東京都, 179-0083, 日本?",A,練馬区立 仲町小学校,葛飾区立上小松小学校,和泉給水所,杉並区立 済美小学校
+193,"What is the name of AOI located at address: 平和台児童公園, 補助第237号線, 錦二丁目, 練馬区, 東京都, 179-0083, 日本?",C,帝京めぐみ幼稚園,東京都美術館,練馬区立 平和台児童公園,平尾児童公園
+194,"What is the name of AOI located at address: 曳舟川通り, 東向島二丁目, 東向島, 墨田区, 東京都, 131-8522, 日本?",C,心身障害児総合医療療育センター,東光寺,ふじのき公園,駒場公園
+195,"What is the name of AOI located at address: 墨田区立あずま図書館, 曳舟たから通り, 京島二丁目, 文花, 墨田区, 東京都, 131-0044, 日本?",A,中小企業センター,東京聖栄大学,小田急ハルク,銀座ソニーパーク
+196,"What is the name of AOI located at address: 明治通り, 京島三丁目, 京島, 墨田区, 東京都, 131-0041, 日本?",C,椎名町公園,日本民藝館 駐車場,墨田区立寺島中学校,板橋南部公園（東板橋公園）
+197,"What is the name of AOI located at address: 八広中央通り, 八広四丁目, 八広, 墨田区, 東京都, 131-0041, 日本?",C,中野城山ふれあいの家 （さくら館）,山下公園,墨田区立みわさと公園,雑司ヶ谷鬼子母神
+198,"What is the name of AOI located at address: 文花三丁目, 文花, 墨田区, 東京都, 131-0044, 日本?",B,Sony Global Headquarters,ティトス・スプリー邸,北澤八幡神社,氷川神社
+199,"What is the name of AOI located at address: 十間橋通り, 文花一丁目, 文花, 墨田区, 東京都, 131-0044, 日本?",B,小石川植物園,長屋茶房 天真庵,葛飾区立松上小学校,世田谷区立 赤堤小学校
+200,"What is the name of AOI located at address: 16, 墨田区東向島３－１８－３, 萩のトンネル, 東向島三丁目, 東向島, 墨田区, 東京都, 131-0032, 日本?",B,小松川第二児童遊園,向島百花園,アロフト東京銀座,葛飾区立本田小学校
+201,"What is the name of AOI located at address: 地蔵坂通り, 東向島三丁目, 東向島, 墨田区, 東京都, 131-0032, 日本?",A,墨田区立第一寺島小学校,狸穴公園,すずかけ公園,国立公文書館
+202,"What is the name of AOI located at address: 水戸街道, 東向島二丁目, 東向島, 墨田区, 東京都, 131-0046, 日本?",D,練馬区立 練馬文化センター,平尾児童公園,日本電気本社,あすなろ児童遊園
+203,"What is the name of AOI located at address: 駒場通り, 代沢一丁目, 代沢, 目黒区, 東京都, 153-8505, 日本?",A,目黒区立 駒場小学校,江戸川区立西小松川小学校,杉並区立 済美教育センター,マップコンシェルジュ株式会社
+204,"What is the name of AOI located at address: 首都高速都心環状線, 北の丸公園, 千代田区, 東京都, 102-0091, 日本?",D,世田谷区 一本松公園,葛飾区立 木根川小学校,葛飾区立松上小学校,国立公文書館
+205,"What is the name of AOI located at address: 3-1, 北の丸公園, 千代田区, 東京都, 102-8322, 日本?",B,三井住友銀行,東京国立近代美術館,武蔵野音楽大学,千歳郵便局
+206,"What is the name of AOI located at address: 首都高速都心環状線, 麹町一丁目, 麹町, 千代田区, 東京都, 102-0083, 日本?",C,板橋向原幼稚園,和泉町幼稚園,千鳥ヶ淵公園,荒川区立第三中学校
+207,"What is the name of AOI located at address: 交詢社通り, 銀座六丁目, 中央区, 東京都, 104-0061, 日本?",A,コートヤード・マリオット東武銀座ホテル,私立 専修大学附属高等学校,東京天然温泉;古代の湯,紅葉山公園
+208,"What is the name of AOI located at address: 銀座, 東銀座, 銀座五丁目, 中央区, 東京都, 104-0061, 日本?",D,浅草ビュー ホテル,柏の宮公園,中野区立 桃園第二小学校,アロフト東京銀座
+209,"What is the name of AOI located at address: 港区立港郷土資料館, 白山祝田田町線, 芝五丁目, 麻布, 港区, 東京都, 108-8345, 日本?",C,日本地図センター,Toshi center hotel,港区立三田図書館,和田堀公園
+210,"What is the name of AOI located at address: 環七通り, 和泉一丁目, 和泉, 杉並区, 東京都, 168-0062, 日本?",D,上原児童遊園,東京都立 南葛飾高等学校,マダレナ・カノッサ幼稚園,方南中央公園
+211,"What is the name of AOI located at address: 方南通り, 弥生町六丁目, 中野区, 東京都, 164-0014, 日本?",D,高松ローンテニスクラブ,向島百花園,東立石緑地公園,中野区立南台小学校（新校舎工事中）
+212,"What is the name of AOI located at address: 東京メトロ中野工場, 和田廣橋, 和田一丁目, 弥生町六丁目, 中野区, 東京都, 164-0014, 日本?",D,白百合学園小学校,山下公園,全国富士講睦,中野車両基地
+213,"What is the name of AOI located at address: 本郷橋, 本町五丁目, 中野区, 東京都, 164-8601, 日本?",B,LaLaテラス南千住,中野区立 第二中学校,北とぴあ,駒込東公園
+214,"What is the name of AOI located at address: 本郷通り, 弥生町, 中野区, 東京都, 164-8622, 日本?",A,中野区立 向台小学校,世田谷区立 下北沢小学校,Japan Times,託児所
+215,"What is the name of AOI located at address: 国際通り, 西浅草三丁目, 台東区, 東京都, 111-0035, 日本?",B,練馬区立 仲町西公園,浅草ビュー ホテル,平尾児童公園,若宮公園
+216,"What is the name of AOI located at address: 線路道, 桜上水五丁目, 世田谷区, 東京都, 168-0073, 日本?",C,三軒茶屋公園,芝浦水再生センター,上北沢変電所,世田谷八幡宮
+217,"What is the name of AOI located at address: 下高井戸四丁目, 下高井戸, 杉並区, 東京都, 168-0073, 日本?",B,向島百花園,玉川上水第二公園,シャルトル聖パウロ修道女会,世田谷区立 梅丘中学校
+218,"What is the name of AOI located at address: 塚山橋, 浜田山二丁目, 浜田山, 杉並区, 東京都, 156-0057, 日本?",D,マルエツプチ,住友不動産原宿ビル,練馬区立 開進第二小学校,柏の宮公園
+219,"What is the name of AOI located at address: 環七通り, 大原一丁目, 大原, 世田谷区, 東京都, 156-0042, 日本?",D,江戸川区立平井小学校,若宮公園,玉川上水第三公園,守山複合施設
+220,"What is the name of AOI located at address: 鎌倉通り, 北沢五丁目, 北沢, 世田谷区, 東京都, 155-0031, 日本?",C,北澤八幡神社,アリオ西新井,世田谷区立 北沢中学校,日本大学鶴ヶ丘高等学校 総合運動場
+221,"What is the name of AOI located at address: 北沢五丁目, 北沢, 世田谷区, 東京都, 151-0073, 日本?",D,中野区立 第四中学校,河北リハビリテーション病院,音無親水公園,2000ねん公園
+222,"What is the name of AOI located at address: 甲州街道, 笹塚二丁目, 笹塚, 渋谷区, 東京都, 151-0073, 日本?",B,渋谷区立 幡代小学校,渋谷区立 笹塚小学校,杉並区立 浜田山小学校,清澄庭園
+223,"What is the name of AOI located at address: 角筈和泉町線, 方南一丁目, 笹塚二丁目, 笹塚, 渋谷区, 東京都, 151-0073, 日本?",D,板橋区仲宿いこいの家・仲宿集会所 (Itabashi Nakajuku meeting place),小竹向原駅自転車駐車場,山下公園,渋谷区立笹塚東公園
+224,"What is the name of AOI located at address: 角筈和泉町線, 方南一丁目, 笹塚二丁目, 笹塚, 渋谷区, 東京都, 151-0073, 日本?",A,渋谷区立 笹塚中学校,コナミスポーツクラブ 東松原,馬事公苑,日本大学鶴ヶ丘高等学校 総合運動場
+225,"What is the name of AOI located at address: 中野通り, 笹塚三丁目, 笹塚, 渋谷区, 東京都, 164-0014, 日本?",A,笹塚児童遊園地,むさしの保育園,私立 富士見丘中学高等学校,板橋区立 上板橋第二小学校
+226,"What is the name of AOI located at address: 角筈和泉町線, 本町一丁目, 幡ヶ谷二丁目, 幡ヶ谷, 渋谷区, 東京都, 151-0072, 日本?",D,中野車両基地,東京都美術館,南千住野球場,渋谷区立 中幡小学校
+227,"What is the name of AOI located at address: 角筈和泉町線, 本町一丁目, 本町, 幡ヶ谷, 渋谷区, 東京都, 151-0072, 日本?",B,東白鬚公園,帝京めぐみ幼稚園,紅葉山公園,小竹向原駅自転車駐車場
+228,"What is the name of AOI located at address: 角筈和泉町線, 本町一丁目, 本町, 幡ヶ谷, 渋谷区, 東京都, 151-0072, 日本?",C,杉並区立 阿佐ヶ谷中学校,江戸川区立平井小学校,帝京短期大学,江戸川区立平井西小学校
+229,"What is the name of AOI located at address: 甲州街道, 本町一丁目, 幡ヶ谷二丁目, 幡ヶ谷, 渋谷区, 東京都, 151-0061, 日本?",C,練馬区立 豊渓中学校,都立明治公園,渋谷区立 幡代小学校,東京都立 橘高等学校
+230,"What is the name of AOI located at address: 墨堤通り, 堤通二丁目, 堤通, 墨田区, 東京都, 120-0023, 日本?",B,世田谷区立 松原敬老会館,墨田五丁目運動広場,総合スポーツセンター,ミッドタウンガーデン
+231,"What is the name of AOI located at address: 区立 烏山緑道, 経堂五丁目, 世田谷区, 東京都, 156-0052, 日本?",B,熊野神社,千歳郵便局,葛飾区立新小岩中学校,練馬総合運動場
+232,"What is the name of AOI located at address: 成田西一丁目, 成田西, 杉並区, 東京都, 166-0016, 日本?",B,浜田山東公園,成宗変電所,飛鳥山公園,東京都立 国際高等学校
+233,"What is the name of AOI located at address: 大久保通り, 北新宿三丁目, 北新宿, 新宿区, 東京都, 160-8484, 日本?",D,タイムズ駒場公園,中野区立 北原小学校,東京都立赤羽北桜高等学校,新宿区立 柏木小学校
+234,"What is the name of AOI located at address: 憲法擁護・非核都市の宣言, Kuken-dori, 東中野一丁目, 中野区, 東京都, 164-0003, 日本?",C,葛飾区立二上小学校,葛飾区立小松南小学校,川添公園,国立公文書館
+235,"What is the name of AOI located at address: 北新宿四丁目, 北新宿, 新宿区, 東京都, 160-8484, 日本?",C,芝浦水再生センター,渋谷区立 長谷戸小学校,新宿区 神田上水公園,雑司ヶ谷鬼子母神
+236,"What is the name of AOI located at address: 南小滝橋, 北新宿四丁目, 北新宿, 中野区, 東京都, 160-8484, 日本?",B,新宿区立 戸塚第三小学校,中野区立 東中学校,都立明治公園,七軒家公園
+237,"What is the name of AOI located at address: 戸三小通り, 高田馬場三丁目, 高田馬場, 新宿区, 東京都, 160-8484, 日本?",C,中央公園,渋谷区立 笹塚中学校,新宿区立 戸塚第三小学校,葛飾区立 本田中学校
+238,"What is the name of AOI located at address: さかえ通り, 高田馬場三丁目, 高田馬場, 新宿区, 東京都, 160-8484, 日本?",B,西新井さかえ公園,東京富士大学,駒込東公園,MEGAドン・キホーテ
+239,"What is the name of AOI located at address: 環七通り, 神谷一丁目, 神谷, 北区, 東京都, 115-0043, 日本?",D,陸上自衛隊 練馬駐屯地,荒川区立汐入小学校,東京国立博物館,Wood Park
+240,"What is the name of AOI located at address: 六阿弥陀道, 谷中三丁目, 台東区, 東京都, 110-0001, 日本?",A,岡倉天心 記念公園,総合スポーツセンター,旧第九中学校,芝浦水再生センター
+241,"What is the name of AOI located at address: ゴダイゴ, ワンデーストリート, 西新宿二丁目, 西新宿, 新宿区, 東京都, 160-8484, 日本?",B,東京都美術館,NSビル,和田堀給水所,東光寺
+242,"What is the name of AOI located at address: 区立 烏山緑道, 経堂五丁目, 世田谷区, 東京都, 156-0052, 日本?",A,石仏公園,練馬区立豊玉第二小学校,谷戸運動公園,渋谷区立 中幡小学校
+243,"What is the name of AOI located at address: 練馬文化センター, マロニエ通り, 練馬二丁目, 練馬区, 東京都, 176-0001, 日本?",C,東京都立 第一商業高等学校,練馬区役所,練馬区立 練馬文化センター,帝京めぐみ幼稚園
+244,"What is the name of AOI located at address: 練馬一丁目, 練馬区, 東京都, 176-0001, 日本?",C,東京都立 板橋高等学校,葛飾区立新小岩中学校,練馬一丁目公園,代田１－１４子供の遊び場
+245,"What is the name of AOI located at address: 大門通り, 桜台四丁目, 練馬区, 東京都, 176-0002, 日本?",D,板橋区立東板橋図書館,大手町野村ビル,杉並区立 杉並児童交通公園,練馬区立 開進第二小学校
+246,"What is the name of AOI located at address: 池袋谷原線, 平和台三丁目, 練馬区, 東京都, 179-0084, 日本?",C,小松川第二児童遊園,えびや,練馬区立 開進第一中学校,善福寺川調節池3号池
+247,"What is the name of AOI located at address: 早宮中央通り, 早宮四丁目, 練馬区, 東京都, 179-0085, 日本?",A,練馬区立 開進第一小学校,青山学院大学,小松川高校テニスコート,旧・江戸川区立 平井第二小学校
+248,"What is the name of AOI located at address: 補助第237号線, 錦二丁目, 練馬区, 東京都, 179-0083, 日本?",A,練馬区立 平和台児童館,杉並区立 杉並第二小学校,中野車両基地,練馬区立 南町小学校
+249,"What is the name of AOI located at address: 上板橋, 上板橋二丁目, 上板橋, 板橋区, 東京都, 174-0076, 日本?",B,区立松沢小学校,七軒家公園,Sony Global Headquarters,世田谷区立 世田谷中学校
+250,"What is the name of AOI located at address: 文京区, 東京都, 101-0021, 日本?",A,住友不動産御茶ノ水ビル,隅田川駅,葛飾シンフォニーヒルズ,守山複合施設
+251,"What is the name of AOI located at address: 松原大山通り, 松原二丁目, 世田谷区, 東京都, 156-0043, 日本?",A,私立日本女子体育大学附属二階堂高等学校,足立市場,高千穂大学,東京都立 北園高等学校
+252,"What is the name of AOI located at address: 下高井戸二丁目, 下高井戸, 杉並区, 東京都, 168-0073, 日本?",D,長屋茶房 天真庵,杉並区立 成田かっぱ公園,丸の内駅前広場,玉川上水第三公園
+253,"What is the name of AOI located at address: かんなばし, 下高井戸二丁目, 下高井戸, 杉並区, 東京都, 168-0064, 日本?",B,江戸川区立平井南小学校,下高井戸おおぞら公園,中野区もみじ山文化センター,世田谷区立 松原北保育園
+254,"What is the name of AOI located at address: 荒玉水道道路, 下高井戸二丁目, 下高井戸, 杉並区, 東京都, 168-0073, 日本?",C,江戸川区立平井西小学校,竹川病院,杉並区立 向陽中学校,方南中央公園
+255,"What is the name of AOI located at address: 和泉二丁目, 和泉, 杉並区, 東京都, 156-0063, 日本?",C,日本大学 法学部,芝公園,和泉給水所,東京科学大学 湯島キャンパス
+256,"What is the name of AOI located at address: 環七通り, 和泉四丁目, 和泉, 杉並区, 東京都, 168-0063, 日本?",D,和田堀公園,"筑波大学附属 駒場中学校,高等学校",丸山公園,私立 専修大学附属高等学校
+257,"What is the name of AOI located at address: 紅葉橋, 堀ノ内一丁目, 堀ノ内, 杉並区, 東京都, 166-0013, 日本?",C,東京都立 杉並高等学校,千住旭公園,杉並区立 済美養護学校,日本大学認定こども園
+258,"What is the name of AOI located at address: 本村橋, 堀ノ内一丁目, 堀ノ内, 杉並区, 東京都, 166-8588, 日本?",D,国立劇場,都立明治公園,杉並区立 東田中学校,河北リハビリテーション病院
+259,"What is the name of AOI located at address: 紅葉橋, 堀ノ内二丁目, 堀ノ内, 杉並区, 東京都, 166-0013, 日本?",C,日本地図センター,東京大学附属中学校・高等学校,熊野神社,杉並区立 済美養護学校
+260,"What is the name of AOI located at address: 堀ノ内二丁目, 堀ノ内, 杉並区, 東京都, 166-0013, 日本?",B,練馬区立 開進第四小学校,堀ノ内二丁目公園,渋谷区立鍋島松涛公園,私立 明治大学付属 中野中学・高等学校
+261,"What is the name of AOI located at address: 荒玉水道道路, 梅里一丁目, 梅里, 高円寺, 杉並区, 東京都, 166-0011, 日本?",A,堀ノ内斎場,コナミスポーツクラブ 東松原,アルテ子どもと木幼保園,守山複合施設
+262,"What is the name of AOI located at address: 1, 宇田川町, 渋谷区, 東京都, 150-0042, 日本?",D,経堂児童遊園,練馬区立 春日小学校,練馬区立 練馬東小学校,渋谷区立 神南小学校
+263,"What is the name of AOI located at address: 五日市街道, 成田西一丁目, 成田西, 杉並区, 東京都, 166-0016, 日本?",C,豊島五丁目団地,練馬区立 仲町小学校,杉並区立 杉並第二小学校,永福北公園
+264,"What is the name of AOI located at address: 恵泉裏通り, 船橋五丁目, 世田谷区, 東京都, 156-0055, 日本?",C,豪徳寺,山下公園,私立 恵泉女学園 中学校・高等学校,中野坂上サンブライトツインビル
+265,"What is the name of AOI located at address: 五十番通り, 芝五丁目, 麻布, 港区, 東京都, 108-0014, 日本?",A,日本電気本社,小田急ハルク,葛飾区立上平井小学校,国立スポーツ科学センター
+266,"What is the name of AOI located at address: 瀬田貫井線, 宮坂一丁目, 世田谷区, 東京都, 156-0051, 日本?",C,早稲田大学西早稲田キャンパス,江戸川区立小松川第二中学校（夜間学級）,世田谷八幡宮,花見堂複合施設
+267,"What is the name of AOI located at address: 旧中山道, 仲宿, 板橋, 板橋区, 東京都, 173-0005, 日本?",B,青山霊園,ライフ,若宮公園,佼成学園中学高等学校
+268,"What is the name of AOI located at address: 仲宿, 加賀, 板橋区, 東京都, 173-0003, 日本?",B,京王百貨店新宿店,仲宿千年広場,谷戸運動公園,中野区立 桃園第二小学校
+269,"What is the name of AOI located at address: 仲宿, 板橋区, 東京都, 173-0005, 日本?",D,佼成学園 総合グラウンド,世田谷八幡宮,東白鬚公園,仲宿ふれあい広場
+270,"What is the name of AOI located at address: 仲宿いこいの家, 加賀学園通り, 加賀二丁目, 加賀, 板橋区, 東京都, 173-0003, 日本?",C,江戸川区立平井小学校,私立日本女子体育大学附属二階堂高等学校,板橋区仲宿いこいの家・仲宿集会所 (Itabashi Nakajuku meeting place),練馬区立 練馬中学校
+271,"What is the name of AOI located at address: 昌平童夢館, 7, 外神田三丁目, 外神田, 千代田区, 東京都, 102-0000, 日本?",A,千代田区立 昌平小学校,葛飾シンフォニーヒルズ,世田谷郵便局,simokubo ikoino mori park
+272,"What is the name of AOI located at address: 神田ふれあい橋, 神田須田町二丁目, 神田須田町, 千代田区, 東京都, 102-0000, 日本?",A,柳森神社,みどり幼稚園,足立市場,城山公園
+273,"What is the name of AOI located at address: 外堀通り, 湯島一丁目, 外神田, 文京区, 東京都, 113-8519, 日本?",B,祐天寺 Yutenji temple,湯島聖堂,柏の宮公園,Wood Park
+274,"What is the name of AOI located at address: 神田駿河台二丁目, 神田駿河台, 千代田区, 東京都, 102-0000, 日本?",C,東京都立 青山特別支援学校,東京国立博物館,東京都医師会館,玉川上水第二公園
+275,"What is the name of AOI located at address: 日本大学（法学部）, 三崎神社通り, 三崎町二丁目, 三崎町, 千代田区, 東京都, 102-0000, 日本?",C,和泉町幼稚園,墨田区立八広小学校,日本大学 法学部,渋谷区立 幡代小学校
+276,"What is the name of AOI located at address: 王子五丁目, 王子, 北区, 東京都, 114-8526, 日本?",B,渋谷区立上原公園,神谷堀公園,葛飾区立 本田中学校,墨田区立第三吾嬬小学校
+277,"What is the name of AOI located at address: 1-1, 明神坂ガード, 神田佐久間町二丁目, 神田花岡町, 千代田区, 東京都, 101-0028, 日本?",D,にじの樹保育園,NSビル,笹塚児童遊園地,ヨドバシAkiba
+278,"What is the name of AOI located at address: GIGO 秋葉原1号館, ラジオデパート通り, 外神田一丁目, 外神田, 千代田区, 東京都, 102-0000, 日本?",D,東京都立小松川高等学校,世田谷区立 代田小学校,葛飾区立上平井小学校,サトービル
+279,"What is the name of AOI located at address: トレカパック, 16, 中央通り, 外神田一丁目, 外神田, 千代田区, 東京都, 101-0021, 日本?",C,板橋区立 板橋第十小学校,柏の宮公園,秋葉原ラジオ会館,駒場公園
+280,"What is the name of AOI located at address: カードラッシュ, 18, 外神田一丁目, 外神田, 千代田区, 東京都, 102-0000, 日本?",B,世田谷区立 松原敬老会館,BiTO AKIBA PLAZA,板橋区立赤塚体育館,千住旭公園
+281,"What is the name of AOI located at address: 神田佐久間町一丁目, 神田佐久間町, 千代田区, 東京都, 102-0000, 日本?",D,東京都立 松原高等学校,成宗変電所,早稲田大学戸山キャンパス,秋葉原公園
+282,"What is the name of AOI located at address: 日本女子体育大学体育学部附属みどり幼稚園, 菅原天神通り, 松原三丁目, 世田谷区, 東京都, 156-0043, 日本?",D,東京都立 杉並高等学校,Kasuga park,日本民藝館 駐車場,みどり幼稚園
+283,"What is the name of AOI located at address: 菅原天神通り, 松原三丁目, 世田谷区, 東京都, 156-0043, 日本?",A,菅原神社,Sony Global Headquarters,新宿御苑,東京都立 橘高等学校
+284,"What is the name of AOI located at address: 松原三丁目, 世田谷区, 東京都, 156-0043, 日本?",D,私立日本女子体育大学附属二階堂高等学校,東墨田公園,コートヤード・マリオット東武銀座ホテル,世田谷区立 松原敬老会館
+285,"What is the name of AOI located at address: シネマ通り, 松原三丁目, 世田谷区, 東京都, 156-0043, 日本?",B,玉川上水第三公園,弁天公園,住友不動産御茶ノ水ビル,墨田区立寺島中学校
+286,"What is the name of AOI located at address: シネマ通り, 松原三丁目, 世田谷区, 東京都, 156-0043, 日本?",B,墨田区立みわさと公園,三井住友銀行,江戸川区立小松川第三中学校,荒川区立汐入小学校
+287,"What is the name of AOI located at address: シネマ通り, 松原三丁目, 世田谷区, 東京都, 156-0043, 日本?",C,ユニゾンモール,東京都立 大塚ろう学校 永福分教室,Shogun,葛飾区立松上小学校
+288,"What is the name of AOI located at address: 郵便局通り, 赤堤五丁目, 世田谷区, 東京都, 156-0044, 日本?",A,区立松沢小学校,志茂東公園,三軒茶屋公園,日本大学認定こども園
+289,"What is the name of AOI located at address: 日大通り, 赤堤五丁目, 世田谷区, 東京都, 156-0045, 日本?",B,葛飾区立南奥戸小学校,世田谷区立 松沢中学校,東京聖栄大学,玉川上水第二公園
+290,"What is the name of AOI located at address: 上原水道通り, 上原一丁目, 上原, 渋谷区, 東京都, 151-0063, 日本?",C,江戸川区立小松川第三中学校,NEWしんばしビル,渋谷区立 富谷小学校,江戸川区立小松川第二中学校（夜間学級）
+291,"What is the name of AOI located at address: 上原一丁目, 上原, 富ヶ谷, 渋谷区, 東京都, 151-0063, 日本?",C,世田谷区 一本松公園,私立 下北沢成徳高等学校,上原児童遊園,高根公園
+292,"What is the name of AOI located at address: 井ノ頭通り, 大原二丁目, 大原, 世田谷区, 東京都, 156-0063, 日本?",B,東京都立 第四商業高等学校,全国富士講睦,葛飾区立 中川中学校,玉川上水第二公園
+293,"What is the name of AOI located at address: 若竹保育園, 井ノ頭通り, 北沢五丁目, 北沢, 世田谷区, 東京都, 155-8666, 日本?",A,世田谷区立 若竹保育園,恵比寿公園,葛飾区立松上小学校,丸の内駅前広場
+294,"What is the name of AOI located at address: 茂呂山通り, 桜川一丁目, 桜川, 板橋区, 東京都, 174-0075, 日本?",B,氷川神社,板橋区立 桜川中学校,日本地図センター,目黒区立 駒場小学校
+295,"What is the name of AOI located at address: 和泉二丁目, 和泉, 杉並区, 東京都, 168-0063, 日本?",D,向原ゴルフセンター,東京都立 国際高等学校,上北沢変電所,日本大学鶴ヶ丘高等学校 総合運動場
+296,"What is the name of AOI located at address: 角筈和泉町線, 和泉二丁目, 和泉, 杉並区, 東京都, 168-0063, 日本?",D,私立 専修大学附属高等学校,墨田区立八広小学校,柳森神社,和泉町幼稚園
+297,"What is the name of AOI located at address: 角筈和泉町線, 和泉二丁目, 和泉, 杉並区, 東京都, 168-0063, 日本?",C,新井薬師公園,方南中央公園,日本大学鶴ヶ丘高等学校,新小岩公園
+298,"What is the name of AOI located at address: 1, 小茂根五丁目, 小茂根, 板橋区, 東京都, 173-0037, 日本?",B,江戸川区立小松川第二中学校（夜間学級）,東京都立 大山高等学校,梅里中央公園,杉並区立 浜田山小学校
+299,"What is the name of AOI located at address: 赤塚高台通り, 成増一丁目, 板橋区, 東京都, 175-0094, 日本?",C,清澄庭園,世田谷区 一本松公園,板橋区立 成増小学校,玉川上水第三公園
+300,"What is the name of AOI located at address: 茂呂山通り, 小茂根五丁目, 小茂根, 板橋区, 東京都, 174-0075, 日本?",D,夢とぴあ,住友不動産原宿ビル,東京都立江戸川高等学校,練馬区立 開進第四中学校
+301,"What is the name of AOI located at address: 首都高速中央環状線, 大橋一丁目, 目黒区, 東京都, 153-0044, 日本?",D,早稲田大学西早稲田キャンパス,新小岩公園,中野区もみじ山文化センター西館,日本地図センター
+302,"What is the name of AOI located at address: 首都高速6号向島線, 堤通二丁目, 堤通, 吾妻橋, 墨田区, 東京都, 131-0033, 日本?",B,東京大学附属中学校・高等学校,墨田区立桜堤中学校,経堂児童遊園,Japan Times
+303,"What is the name of AOI located at address: 桜山通り, 東中野, 中野区, 東京都, 164-0003, 日本?",B,東立石緑地公園,桜山公園,杉並区立 済美養護学校,東白鬚公園
+304,"What is the name of AOI located at address: 城山本通り, 中野一丁目, 中野区, 東京都, 164-0002, 日本?",B,練馬区立 春日小学校,城山公園,Japan Times,杉並区立 杉並児童交通公園
+305,"What is the name of AOI located at address: 回生橋, 恵比寿二丁目, 恵比寿, 渋谷区, 東京都, 150-0012, 日本?",D,上練馬公園,心身障害児総合医療療育センター,港区立三田図書館,東京都立広尾病院
+306,"What is the name of AOI located at address: 外苑西通り, 恵比寿二丁目, 恵比寿, 渋谷区, 東京都, 106-8514, 日本?",B,にじの樹保育園,渋谷同胞幼稚園,日本大学認定こども園,慶應義塾大学 - 三田キャンパス
+307,"What is the name of AOI located at address: 1, 鉢山町, 渋谷区, 東京都, 150-0035, 日本?",B,銀座ソニーパーク,東京都立 第一商業高等学校,荒川区立汐入小学校,練馬区立 平和台児童公園
+308,"What is the name of AOI located at address: 目黒川緑道, 池尻四丁目, 世田谷区, 東京都, 154-0001, 日本?",D,板橋地域センター,板橋区立 成増小学校,練馬一丁目公園,"筑波大学附属 駒場中学校,高等学校"
+309,"What is the name of AOI located at address: 北澤八幡神社, 森巌寺川緑道, 代沢三丁目, 代沢, 世田谷区, 東京都, 155-0032, 日本?",B,練馬区立 向山小学校,北沢八幡児童遊園,イトシアプラザ,小石川植物園
+310,"What is the name of AOI located at address: 森巌寺川緑道, 代沢三丁目, 代沢, 世田谷区, 東京都, 155-0032, 日本?",A,北澤八幡神社,ライフ,杉並区立 成田かっぱ公園,夢とぴあ
+311,"What is the name of AOI located at address: 第一京浜, 三田三丁目, 麻布, 港区, 東京都, 108-0023, 日本?",C,渋江公園,練馬区立 平和台児童館,高輪郵便局,石仏公園
+312,"What is the name of AOI located at address: 三浦工業株式会社 東京本社, 幽霊坂, 高輪二丁目, 品川, 港区, 東京都, 108-0074, 日本?",A,泉岳寺児童遊園,善福寺川調節池3号池,北区立王子小学校・王子桜中学校,中野区立 大和小学校
+313,"What is the name of AOI located at address: 山手通り, 中目黒三丁目, 目黒区, 東京都, 153-8573, 日本?",D,高根公園,江東区立 水神小学校,板橋南部公園（東板橋公園）,目黒川船入場
+314,"What is the name of AOI located at address: 鮫洲大山線, 三宿二丁目, 世田谷区, 東京都, 154-0005, 日本?",C,マダレナ・カノッサ幼稚園,板橋向原幼稚園,世田谷区立 多聞小学校,東京都立 北園高等学校
+315,"What is the name of AOI located at address: 北沢川緑道, 代沢五丁目, 代沢, 世田谷区, 東京都, 155-0032, 日本?",A,世田谷区立 代沢小学校,東京国立近代美術館,江戸川区立平井小学校,世田谷区 一本松公園
+316,"What is the name of AOI located at address: 桜山通り, 東中野, 中野区, 東京都, 164-0003, 日本?",C,慶應義塾大学 - 三田キャンパス,南公園,私立 明治大学付属 中野中学・高等学校,千代田区立 昌平小学校
+317,"What is the name of AOI located at address: 光が丘西大通り, 光が丘, 練馬区, 東京都, 179-0071, 日本?",D,私立 明治大学付属 中野中学・高等学校,中野区立 桃園第二小学校,紅葉山公園,練馬区立 旭町小学校
+318,"What is the name of AOI located at address: 豪徳寺二丁目, 世田谷区, 東京都, 154-8504, 日本?",A,やまぼうし公園,NTT Docomo,中野区立 谷戸小学校,浜離宮恩賜庭園
+319,"What is the name of AOI located at address: 烏山川緑道, 梅丘二丁目, 世田谷区, 東京都, 154-0022, 日本?",C,板橋向原幼稚園,平成つつじ公園,世田谷区立 城山小学校,東京都立墨田特別支援学校
+320,"What is the name of AOI located at address: 都市計画道路補助第154号線（区役所西通り）, 梅丘一丁目, 世田谷区, 東京都, 154-0022, 日本?",D,北澤八幡神社,平尾児童公園,練馬区立 平和台児童館,国士舘大学 梅ヶ丘キャンパス
+321,"What is the name of AOI located at address: 世田谷区役所通り, 梅丘二丁目, 世田谷区, 東京都, 154-0022, 日本?",D,守山複合施設,東京ラジオデパート,葛飾シンフォニーヒルズ,世田谷区立 世田谷中学校
+322,"What is the name of AOI located at address: 世田谷区役所通り, 梅丘二丁目, 世田谷区, 東京都, 154-0022, 日本?",A,世田谷区立 山崎小学校,新小岩公園,陸上自衛隊 練馬駐屯地,墨田区立みわさと公園
+323,"What is the name of AOI located at address: 渋谷経堂線, 若林五丁目, 世田谷区, 東京都, 154-0023, 日本?",C,向原ゴルフセンター,世田谷八幡宮,世田谷区立 若林小学校,江戸川区立平井小学校
+324,"What is the name of AOI located at address: 通り, 三軒茶屋二丁目, 世田谷区, 東京都, 154-0024, 日本?",D,桜上水のびのび公園,東板橋体育館,Shibuya 109,丸山公園
+325,"What is the name of AOI located at address: 1, 三軒茶屋二丁目, 世田谷区, 東京都, 154-0024, 日本?",A,世田谷郵便局,練馬区立 開進第一中学校,葛飾区立立石中学校,恵比寿公園
+326,"What is the name of AOI located at address: 世田谷観音通り(旧 明薬通り), 三軒茶屋一丁目, 世田谷区, 東京都, 154-0024, 日本?",C,葛飾区立 中川中学校,新井薬師公園,日本大学認定こども園,駒込東公園
+327,"What is the name of AOI located at address: 野沢三丁目, 世田谷区, 東京都, 152-0021, 日本?",B,音無親水公園,野沢公園,Parking 1,西新井さかえ公園
+328,"What is the name of AOI located at address: ROUTE2020トレセン通り, 西が丘三丁目, 北区, 東京都, 174-0053, 日本?",D,尾久車両センター,板橋区立 緑ヶ丘第二公園,明治大学 和泉キャンパス,東京都立赤羽北桜高等学校
+329,"What is the name of AOI located at address: ROUTE2020トレセン通り, 西が丘三丁目, 北区, 東京都, 174-0053, 日本?",D,墨田区立第四吾嬬小学校,Kasuga park,高根公園,地方独立行政法人 東京都立産業技術センター
+330,"What is the name of AOI located at address: ROUTE2020トレセン通り, 西が丘三丁目, 北区, 東京都, 174-0053, 日本?",A,国立スポーツ科学センター,早稲田大学25-2号館,渋江公園,上練馬公園
+331,"What is the name of AOI located at address: 鎌倉通り, 北沢二丁目, 北沢, 世田谷区, 東京都, 155-8668, 日本?",D,練馬区立 平和台児童公園,小竹向原駅自転車駐車場,東京新幹線車両センター,私立 下北沢成徳高等学校
+332,"What is the name of AOI located at address: 代沢四丁目, 代沢, 世田谷区, 東京都, 155-0033, 日本?",A,花見堂複合施設,平尾児童公園,新小岩サニーボウル,早稲田大学25-2号館
+333,"What is the name of AOI located at address: 方南通り, 和泉四丁目, 和泉, 杉並区, 東京都, 166-0013, 日本?",C,荒川区立第三瑞光小学校,東板橋体育館,べんてんばし公園,加賀一丁目みどりばし緑地
+334,"What is the name of AOI located at address: 杉並区立 大宮小学校, 方南通り, 堀ノ内一丁目, 堀ノ内, 杉並区, 東京都, 166-0013, 日本?",A,杉並区立大宮小学校,葛飾区立 木根川小学校,葛飾区立小松南小学校,恵比寿公園
+335,"What is the name of AOI located at address: 井ノ頭通り, 浜田山三丁目, 浜田山, 杉並区, 東京都, 168-0065, 日本?",B,日本大学鶴ヶ丘高等学校 総合運動場,杉並南郵便局,ふじのき公園,葛飾区立立石中学校
+336,"What is the name of AOI located at address: もみじ山通り, 中野二丁目, 中野区, 東京都, 164-0011, 日本?",D,墨田区立桜堤中学校,Sony Global Headquarters,東京都医師会館,中野区もみじ山文化センター西館
+337,"What is the name of AOI located at address: 中野区立中央図書館, もみじ山通り, 中野二丁目, 中野区, 東京都, 164-0001, 日本?",A,中野区もみじ山文化センター,葛飾区立松上小学校,青山学院大学,渋谷区立 富ヶ谷公園
+338,"What is the name of AOI located at address: もみじ山通り, 中野二丁目, 中野区, 東京都, 164-0011, 日本?",D,小石川植物園,白百合学園中学校・高等学校,あすなろ児童遊園,紅葉山公園
+339,"What is the name of AOI located at address: 城山中央通り, 中野一丁目, 中野区, 東京都, 164-8622, 日本?",C,江戸川区立平井南小学校,東京都立 練馬工業高等学校,中野区立 谷戸小学校,葛飾区立 木根川小学校
+340,"What is the name of AOI located at address: 渋谷区立鉢山中学校, 870, 鶯谷町, 渋谷区, 東京都, 150-0032, 日本?",A,鶯谷児童遊園,玉川上水第二公園,早稲田大学戸山キャンパス,東京都立 第一商業高等学校
+341,"What is the name of AOI located at address: 中野六丁目, 中野区, 東京都, 164-0003, 日本?",A,高根公園,玉川上水第三公園,杉並区立 大宮中学校,渋谷同胞幼稚園
+342,"What is the name of AOI located at address: 牛房通り, 白子一丁目, 和光市, 埼玉県, 179-0071, 日本?",D,世田谷区立 若林小学校,和田堀給水所,江戸川北税務署,練馬区立 豊渓中学校
+343,"What is the name of AOI located at address: 桃園川緑道, 中央二丁目, 中野区, 東京都, 164-8622, 日本?",A,堀越学園,練馬区立 春日小学校,東京都立 杉並高等学校,東京天然温泉;古代の湯
+344,"What is the name of AOI located at address: もみじ山通り, 中野二丁目, 中野区, 東京都, 164-0011, 日本?",A,旧第九中学校,渋谷区立 猿楽小学校,葛飾区立川端小学校,新小岩公園
+345,"What is the name of AOI located at address: 870, 鶯谷町, 渋谷区, 東京都, 150-0032, 日本?",C,墨田区立第四吾嬬小学校,セルリアンタワー,渋谷区立鉢山中学校,狸穴公園
+346,"What is the name of AOI located at address: 城山中央通り, 中野一丁目, 中野区, 東京都, 164-8622, 日本?",B,中野区もみじ山文化センター,中野城山ふれあいの家 （さくら館）,世田谷区立 赤堤小学校,江戸川区立平井南小学校
+347,"What is the name of AOI located at address: 文園通り, 中野六丁目, 中野区, 東京都, 164-0002, 日本?",D,善福寺川調節池3号池,東京都立武蔵丘高等学校,上北沢変電所,文園児童館
+348,"What is the name of AOI located at address: 東京都立 武蔵丘高等学校, アカシア通り, 上鷺宮, 中野区, 東京都, 165-0031, 日本?",A,東京都立武蔵丘高等学校,向島百花園,日本民藝館 駐車場,板橋区仲宿いこいの家・仲宿集会所 (Itabashi Nakajuku meeting place)
+349,"What is the name of AOI located at address: 四商通り, 貫井三丁目, 練馬区, 東京都, 176-0021, 日本?",D,葛飾区立二上小学校,BiTO AKIBA PLAZA,私立 富士見丘中学高等学校,東京都立 第四商業高等学校
+350,"What is the name of AOI located at address: 下谷橋, 大和町四丁目, 中野区, 東京都, 165-0033, 日本?",A,中野区立 大和小学校,新井薬師公園,江戸川区立西小松川小学校,高千穂大学
+351,"What is the name of AOI located at address: 大和町中央通り, 大和町四丁目, 中野区, 東京都, 166-0002, 日本?",C,川添公園,世田谷区立 富士中学校,中野区立 第四中学校,杉並南郵便局
+352,"What is the name of AOI located at address: 文園通り, 中野六丁目, 中野区, 東京都, 164-0002, 日本?",A,中野区立 桃園第二小学校,浜田山公園,練馬区立 仲町西公園,練馬区立 開進第四小学校
+353,"What is the name of AOI located at address: 志茂三丁目, 北区, 東京都, 115-0042, 日本?",C,べんてんばし公園,葛飾区立南奥戸小学校,志茂東公園,小石川植物園
+354,"What is the name of AOI located at address: 環七通り, 大和町一丁目, 中野区, 東京都, 165-0027, 日本?",C,文園児童館,森永工場跡地,中野区立 啓明小学校,小田急ハルク
+355,"What is the name of AOI located at address: みつわ通り, 若宮一丁目, 中野区, 東京都, 165-0027, 日本?",C,旧古河庭園,MEGAドン・キホーテ,東京都立 鷺宮高等学校,文園児童館
+356,"What is the name of AOI located at address: 北原通り商店街, 野方六丁目, 中野区, 東京都, 165-0021, 日本?",C,東京都美術館,石仏公園,中野区立 北原小学校,東京農業大学
+357,"What is the name of AOI located at address: 中野一丁目, 中野区, 東京都, 164-8622, 日本?",B,桜山公園,谷戸運動公園,東京都立墨田特別支援学校,渋谷区立 笹塚小学校
+358,"What is the name of AOI located at address: 北沢三丁目, 北沢, 世田谷区, 東京都, 155-0031, 日本?",C,東京都立 青山特別支援学校,瑞光橋公園,世田谷区 一本松公園,NEWしんばしビル
+359,"What is the name of AOI located at address: 角筈和泉町線, 方南一丁目, 笹塚二丁目, 笹塚, 渋谷区, 東京都, 151-0073, 日本?",B,桜上水のびのび公園,私立 富士見丘中学高等学校,東京都立広尾病院,中野区立 桃園第二小学校
+360,"What is the name of AOI located at address: 中野通り, 南台, 笹塚, 中野区, 東京都, 164-0014, 日本?",A,中野区立南台小学校,Shibuya 109,中野区立 啓明小学校,セルリアンタワー
+361,"What is the name of AOI located at address: 方南通り, 南台一丁目, 中野区, 東京都, 164-0013, 日本?",D,杉並区立大宮小学校,東京都立荒川工業高等学校,世田谷区立 若林小学校,東京大学附属中学校・高等学校
+362,"What is the name of AOI located at address: 山手通り, 東中野, 中野区, 東京都, 164-0003, 日本?",B,駒場公園,氷川神社,恵比寿公園,隅田川駅
+363,"What is the name of AOI located at address: 桃園川緑道, 中央二丁目, 中野区, 東京都, 164-8622, 日本?",D,世田谷区立 若竹保育園,Toshi center hotel,練馬区立 開進第四中学校,私立 宝仙学園 中学校・高等学校
+364,"What is the name of AOI located at address: 神田明神ホール, 外神田二丁目, 外神田, 千代田区, 東京都, 102-0000, 日本?",D,松島四丁目公園,白鬚公園,桜山公園,宮本公園
+365,"What is the name of AOI located at address: 東京医科歯科大学, 本郷通り, 湯島一丁目, 文京区, 東京都, 113-8519, 日本?",B,はなみずき保育園,東京科学大学 湯島キャンパス,全国富士講睦,山下西公園
+366,"What is the name of AOI located at address: 滝野川橋, 滝野川四丁目, 北区, 東京都, 114-0022, 日本?",C,慶應義塾中等部,東京科学大学 湯島キャンパス,中央公園,タイムズ
+367,"What is the name of AOI located at address: 明治通り, 王子一丁目, 王子, 北区, 東京都, 114-0021, 日本?",D,世田谷区立 松原敬老会館,小松川区民館,墨田区立第一寺島小学校,音無親水公園
+368,"What is the name of AOI located at address: 田端中学校旧校舎, 田端高台通り, 田端六丁目, 北区, 東京都, 114-0014, 日本?",C,浜田山東公園,葛飾税務署,東京新幹線車両センター,新井薬師公園
+369,"What is the name of AOI located at address: 上中里二丁目, 北区, 東京都, 114-0011, 日本?",B,世田谷区立 松原敬老会館,尾久車両センター,新宿御苑,帝京短期大学
+370,"What is the name of AOI located at address: 補助第81号線（巣鴨）, 巣鴨五丁目, 豊島区, 東京都, 114-0024, 日本?",B,若宮公園,巣鴨五丁目児童遊園,荒川区立第三中学校,板橋区立 桜川中学校
+371,"What is the name of AOI located at address: 八雲十中通り, 八雲二丁目, 目黒区, 東京都, 152-0023, 日本?",C,NEWしんばしビル,新井薬師公園,東京都立 桜修館中等教育学校,練馬区立 開進第三小学校
+372,"What is the name of AOI located at address: 駒沢通り, 祐天寺二丁目, 目黒区, 東京都, 153-0052, 日本?",C,サトービル,渋谷区立 富ヶ谷公園,祐天寺 Yutenji temple,葛飾税務署
+373,"What is the name of AOI located at address: 長後赤塚線, 赤塚, 板橋区, 東京都, 175-0092, 日本?",C,南千住野球場,世田谷区立 赤堤小学校,板橋区立赤塚体育館,平成つつじ公園
+374,"What is the name of AOI located at address: 徳丸通り, 徳丸, 板橋区, 東京都, 175-0083, 日本?",C,練馬区立 早宮小学校,日本大学鶴ヶ丘高等学校 総合運動場,イオン板橋ショッピングセンター,私立日本女子体育大学附属二階堂高等学校
+375,"What is the name of AOI located at address: 祝田通り, 麻布台三丁目, 東麻布一丁目, 麻布, 港区, 東京都, 105-0011, 日本?",A,ENEOS Dr. Drive セルフ芝公園SS,北澤八幡神社,堀ノ内斎場,日本大学 法学部
+376,"What is the name of AOI located at address: スポーツ広場, 蔵前橋通り, 西新小岩一丁目, 葛飾区, 東京都, 124-0025, 日本?",A,新小岩公園,練馬区立 南町小学校,中野区立 谷戸小学校,東京都立小松川高等学校
+377,"What is the name of AOI located at address: 補助第284号線, 奥戸一丁目, 葛飾区, 東京都, 124-0023, 日本?",A,葛飾区立南奥戸小学校,葛飾区立二上小学校,simokubo ikoino mori park,世田谷区立 赤堤小学校
+378,"What is the name of AOI located at address: 羽根木道, 羽根木, 松原五丁目, 世田谷区, 東京都, 156-0042, 日本?",B,墨田区立桜堤中学校,コナミスポーツクラブ 東松原,世田谷区立 松原北保育園,東光寺
+379,"What is the name of AOI located at address: 城山通り, 宮坂一丁目, 世田谷区, 東京都, 156-0051, 日本?",A,豪徳寺,渋谷区立 上原小学校,秋葉原公園,東京都立 大塚ろう学校 永福分教室
+380,"What is the name of AOI located at address: みのり商店街, 東新小岩六丁目, 葛飾区, 東京都, 124-0023, 日本?",C,国立公文書館,新宿区立 柏木小学校,マルエツ,駒場公園
+381,"What is the name of AOI located at address: マルエツ　プチ, 葛飾区区画街路2号線, 東新小岩一丁目, 葛飾区, 東京都, 124-0024, 日本?",B,杉並区立 浜田山小学校,マルエツプチ,江東区立 水神小学校,東京都立 鷺宮高等学校
+382,"What is the name of AOI located at address: 2-25-1, 平和橋通り, 中央四丁目, 葛飾区, 東京都, 124-0024, 日本?",B,丸山公園,葛飾区立小松南小学校,国立スポーツ科学センター,中野区立 北原小学校
+383,"What is the name of AOI located at address: 上平井橋江戸川大橋線, 新小岩四丁目, 葛飾区, 東京都, 133-0041, 日本?",C,私立 下北沢成徳高等学校,区立松沢小学校,葛飾区立小松中学校,中野区もみじ山文化センター西館
+384,"What is the name of AOI located at address: ソフィア通り, 紀尾井町5, 千代田区, 東京都, 102-0000, 日本?",D,ビックロ,渋谷区立 笹塚小学校,済美山運動広場,上智大学真田堀グラウンド
+385,"What is the name of AOI located at address: 新井薬師参道, 新井, 中野区, 東京都, 165-0026, 日本?",A,新井薬師 梅照院,東京未来大学,荒川区立汐入小学校,古賀政男音楽博物館
+386,"What is the name of AOI located at address: 新井薬師児童館, 上高田本通り, 新井五丁目, 中野区, 東京都, 165-0026, 日本?",A,新井薬師公園,野沢公園,山下公園,練馬区立 練馬中学校
+387,"What is the name of AOI located at address: 中野通り, 新井, 中野区, 東京都, 165-0026, 日本?",C,浜田山公園,渋谷フクラス,北野神社,荒川区立 瑞光小学校
+388,"What is the name of AOI located at address: もみじ山通り, 中野一丁目, 中野区, 東京都, 164-0011, 日本?",C,東京都立墨田特別支援学校,東京プリンスホテル,アルテ子どもと木幼保園,練馬区立 平和台児童公園
+389,"What is the name of AOI located at address: 鍋島松濤公園, 山手通り, 松濤二丁目, 松濤, 渋谷区, 東京都, 150-0045, 日本?",B,葛飾清掃工場,渋谷区立鍋島松涛公園,荒川区立汐入小学校,東墨田公園
+390,"What is the name of AOI located at address: 上平井橋江戸川大橋線, 西新小岩五丁目, 葛飾区, 東京都, 124-0025, 日本?",D,新小岩サニーボウル,小松川第二児童遊園,日本地図センター,葛飾区立上平井小学校
+391,"What is the name of AOI located at address: 奥戸街道, 奥戸二丁目, 葛飾区, 東京都, 124-0022, 日本?",C,世田谷区 一本松公園,全国富士講睦,総合スポーツセンター,狸穴公園
+392,"What is the name of AOI located at address: 高砂一丁目, 葛飾区, 東京都, 125-0062, 日本?",C,練馬区立 開進第四小学校,東京プリンスホテル,通水記念公園,高輪郵便局
+393,"What is the name of AOI located at address: 蔵前橋通り, 西新小岩一丁目, 葛飾区, 東京都, 124-0025, 日本?",C,葛飾区立本田小学校,長屋茶房 天真庵,葛飾区立新小岩中学校,上智大学真田堀グラウンド
+394,"What is the name of AOI located at address: 西新小岩二丁目, 葛飾区, 東京都, 124-0025, 日本?",B,桜山公園,間栗公園,練馬一丁目公園,荒川区立第三中学校
+395,"What is the name of AOI located at address: 蔵前橋通り, 西新小岩一丁目, 葛飾区, 東京都, 124-0025, 日本?",D,中野区もみじ山文化センター西館,はなみずき保育園,杉並区立 浜田山小学校,葛飾区立松上小学校
+396,"What is the name of AOI located at address: 新荒川葛西堤防線, 西新小岩三丁目, 江戸川区, 東京都, 124-0025, 日本?",C,墨田区立東吾嬬小学校,東京大学 駒場リサーチキャンパス,私立 関東第一高等学校,東京都立 桜修館中等教育学校
+397,"What is the name of AOI located at address: 平和橋通り, 中央四丁目, 江戸川区, 東京都, 124-0024, 日本?",D,中野区立 向台小学校,高輪郵便局,文園児童館,東京都立江戸川高等学校
+398,"What is the name of AOI located at address: 玉川通り, 道玄坂一丁目, 道玄坂, 渋谷区, 東京都, 150-0043, 日本?",B,防災広場 初音の森,セルリアンタワー,青山学院大学,Wood Park
+399,"What is the name of AOI located at address: 1, 道玄坂一丁目, 道玄坂, 渋谷区, 東京都, 150-0043, 日本?",C,音無親水公園,世田谷八幡宮,渋谷フクラス,葛飾区立 木根川小学校
+400,"What is the name of AOI located at address: 糀谷橋, 練馬二丁目, 練馬区, 東京都, 176-0001, 日本?",B,東京都立 松原高等学校,練馬総合運動場,東立石緑地公園,アロフト東京銀座
+401,"What is the name of AOI located at address: 王子金町市川線, 西水元五丁目, 葛飾区, 東京都, 125-0035, 日本?",C,板橋区立赤塚体育館,杉並区立 阿佐ヶ谷中学校,葛飾清掃工場,古賀政男音楽博物館
+402,"What is the name of AOI located at address: 台橋通り, 東新町二丁目, 東新町, 板橋区, 東京都, 174-0074, 日本?",D,学習院女子大学,マルエツ,マップコンシェルジュ株式会社,板橋区立 桜川小学校
+403,"What is the name of AOI located at address: ビックカメラ, 1, 西新宿一丁目, 西新宿, 新宿区, 東京都, 160-0023, 日本?",C,中野城山ふれあいの家 （さくら館）,渋江公園,小田急ハルク,堀ノ内二丁目公園
+404,"What is the name of AOI located at address: 1, 新宿三丁目, 新宿, 新宿区, 東京都, 160-0022, 日本?",B,中野城山ふれあいの家 （さくら館）,ビックロ,中野区立 大和小学校,杉並区立 杉並第二小学校
+405,"What is the name of AOI located at address: 7, 新宿三丁目, 新宿, 新宿区, 東京都, 160-0022, 日本?",A,紀伊國屋書店,Sony Global Headquarters,小竹向原駅自転車駐車場,世田谷区立 代沢小学校
+406,"What is the name of AOI located at address: 平和橋通り, 中央四丁目, 江戸川区, 東京都, 124-0024, 日本?",B,湯島聖堂,江戸川区立西小松川小学校,私立 富士見丘中学高等学校,葛飾区立小松中学校
+407,"What is the name of AOI located at address: 新荒川葛西堤防線, 西新小岩三丁目, 江戸川区, 東京都, 124-0025, 日本?",A,松島四丁目公園,北澤八幡神社,葛飾区立末広小学校,渋谷区立 幡代小学校
+408,"What is the name of AOI located at address: Vito Coffee, 1, 道玄坂二丁目, 道玄坂, 渋谷区, 東京都, 150-0043, 日本?",B,千住旭公園,Shibuya 109,王子四丁目公園,渋谷区立 上原小学校
+409,"What is the name of AOI located at address: 八幡通り, 渋谷二丁目, 渋谷, 渋谷区, 東京都, 150-8366, 日本?",D,上北沢変電所,東京都立 南葛飾高等学校,練馬区役所,青山学院大学
+410,"What is the name of AOI located at address: 渋谷センター街, 宇田川町, 渋谷区, 東京都, 150-8377, 日本?",C,東京都立墨田特別支援学校,経堂児童遊園,西武渋谷店A館,荒川区立第三瑞光小学校
+411,"What is the name of AOI located at address: 西口地下広場, 西新宿一丁目, 西新宿, 新宿区, 東京都, 160-8484, 日本?",A,京王百貨店新宿店,練馬区立 開進第三小学校,神谷堀公園,小松川高校テニスコート
+412,"What is the name of AOI located at address: 補助第284号線, 東新小岩四丁目, 葛飾区, 東京都, 124-0023, 日本?",B,有楽町イトシア,葛飾区立上小松小学校,練馬区立 開進第一小学校,陸上自衛隊 練馬駐屯地
+413,"What is the name of AOI located at address: 東新小岩四丁目, 葛飾区, 東京都, 124-0022, 日本?",A,新小岩自動車学校,東京都立 松原高等学校,墨田区立第四吾嬬小学校,竹川病院
+414,"What is the name of AOI located at address: 補助第284号線, 東新小岩四丁目, 葛飾区, 東京都, 124-0023, 日本?",D,向山谷戸緑地,清澄庭園,東京都立 北園高等学校,新小岩サニーボウル
+415,"What is the name of AOI located at address: 補助第284号線, 東新小岩四丁目, 葛飾区, 東京都, 124-0023, 日本?",C,白百合学園中学校・高等学校,防災広場 初音の森,東京天然温泉;古代の湯,新宿御苑
+416,"What is the name of AOI located at address: ゆりのき橋通り, 平井二丁目, 江戸川区, 東京都, 132-0035, 日本?",A,江戸川区立小松川第一中学校,小石川植物園,防災広場 初音の森,東京国立近代美術館
+417,"What is the name of AOI located at address: 補助第144号線（仮設道路）, 平井二丁目, 江戸川区, 東京都, 132-0035, 日本?",C,板橋区仲宿いこいの家・仲宿集会所 (Itabashi Nakajuku meeting place),世田谷区立 下北沢小学校,江戸川区立小松川第二中学校（夜間学級）,マップコンシェルジュ株式会社
+418,"What is the name of AOI located at address: 補助第144号線（仮設道路）, 平井二丁目, 江戸川区, 東京都, 132-0035, 日本?",B,東京都下水道局吾嬬第二ポンプ所,江戸川区立平井南小学校,清澄庭園,七軒家公園
+419,"What is the name of AOI located at address: 逆井庚申塚通り, 平井一丁目, 江戸川区, 東京都, 132-0035, 日本?",B,杉並区立 永福南小学校,小松川区民館,岡倉天心 記念公園,あすなろ児童遊園
+420,"What is the name of AOI located at address: 新荒川堤防線, 小松川四丁目, 江戸川区, 東京都, 133-0055, 日本?",A,東京都立小松川高等学校,練馬区立 旭丘小学校,守山複合施設,東白鬚公園
+421,"What is the name of AOI located at address: 京葉道路, 小松川三丁目, 江戸川区, 東京都, 132-0034, 日本?",B,渋谷区立 笹塚中学校,小松川第二児童遊園,中野区もみじ山文化センター西館,江戸川区立平井東小学校
+422,"What is the name of AOI located at address: 京葉道路, 小松川三丁目, 江戸川区, 東京都, 132-0034, 日本?",C,渋谷区立 笹塚小学校,葛飾区立小松南小学校,小松川高校第二グラウンド,新宿御苑
+423,"What is the name of AOI located at address: 逆井庚申塚通り, 平井一丁目, 江戸川区, 東京都, 132-0035, 日本?",C,早稲田大学戸山キャンパス,Sony Global Headquarters,小松川幼稚園,シャルトル聖パウロ修道女会
+424,"What is the name of AOI located at address: 逆井庚申塚通り, 平井一丁目, 江戸川区, 東京都, 132-0035, 日本?",C,マルエツ,マダレナ・カノッサ幼稚園,江戸川区立小松川小学校,浅草ビュー ホテル
+425,"What is the name of AOI located at address: 東京国税局江戸川北税務署, 逆井庚申塚通り, 平井一丁目, 江戸川区, 東京都, 132-0035, 日本?",A,江戸川北税務署,練馬区立 開進第二小学校,東立石緑地公園,東京都立江東特別支援学校
+426,"What is the name of AOI located at address: 新荒川堤防線, 平井一丁目, 江戸川区, 東京都, 133-0055, 日本?",C,住友不動産御茶ノ水ビル,下高井戸おおぞら公園,小松川高校テニスコート,秋葉原公園
+427,"What is the name of AOI located at address: 京葉道路, 小松川三丁目, 江戸川区, 東京都, 132-0034, 日本?",D,東京都立 桜修館中等教育学校,墨田区立第四吾嬬小学校,私立 専修大学附属高等学校,江戸川区立小松川図書館
+428,"What is the name of AOI located at address: 旧平井街道, 立花三丁目, 立花, 墨田区, 東京都, 131-0043, 日本?",C,白百合学園小学校,紀伊國屋書店,旧・江戸川区立 平井第二小学校,ユニゾンモール
+429,"What is the name of AOI located at address: 蔵前橋通り, 平井五丁目, 江戸川区, 東京都, 132-0035, 日本?",B,丸の内駅前広場,平井第二小学校グラウンド,和田ポンプ施設,私立 専修大学附属高等学校
+430,"What is the name of AOI located at address: 新荒川堤防線, 平井一丁目, 江戸川区, 東京都, 133-0055, 日本?",A,江戸川区立平井東小学校,葛飾区立南奥戸小学校,東京都立広尾病院,守山複合施設
+431,"What is the name of AOI located at address: なりますスキップ村, 成増二丁目, 板橋区, 東京都, 175-0094, 日本?",B,練馬区立 平和台児童館,MEGAドン・キホーテ,防衛省市ヶ谷地区,世田谷区立 世田谷小学校
+432,"What is the name of AOI located at address: 台橋通り, 小茂根一丁目, 小茂根, 板橋区, 東京都, 173-0037, 日本?",B,板橋区立赤塚体育館,板橋区立 上板橋第二小学校,私立 明治大学付属 中野中学・高等学校,東京都立 豊多摩高等学校
+433,"What is the name of AOI located at address: 台橋通り, 小茂根一丁目, 小茂根, 板橋区, 東京都, 173-0037, 日本?",C,渋谷区立 長谷戸小学校,通水記念公園,板橋区立 上板橋第二中学校,慶應義塾女子高
+434,"What is the name of AOI located at address: 12, 小茂根二丁目, 小茂根, 板橋区, 東京都, 173-0037, 日本?",C,守山複合施設,高根公園,筑波大学附属桐が丘特別支援学校,東京都立小松川高等学校
+435,"What is the name of AOI located at address: 432, 猿楽町, 渋谷区, 東京都, 150-0034, 日本?",A,渋谷区立 猿楽小学校,杉並区立 済美養護学校,世田谷区 一本松公園,板橋区立赤塚体育館
+436,"What is the name of AOI located at address: 環七通り, 練馬区, 小茂根, 板橋区, 東京都, 176-0002, 日本?",D,和泉二丁目公園,隅田川駅,日本学園高等学校; 日本学園中学校,練馬区立 開進第三小学校
+437,"What is the name of AOI located at address: 1, 練馬区, 東京都, 176-8521, 日本?",D,東京都立 板橋高等学校,浜田山公園,えびや,武蔵野音楽大学
+438,"What is the name of AOI located at address: ロード大谷口, 大谷口一丁目, 大谷口, 板橋区, 東京都, 173-0032, 日本?",D,板橋区立東板橋図書館,練馬区役所,慶應義塾女子高,板橋区立 板橋第十小学校
+439,"What is the name of AOI located at address: 上平井橋江戸川大橋線, 東新小岩七丁目, 葛飾区, 東京都, 124-0023, 日本?",C,世田谷区 一本松公園,塚山公園,葛飾区立二上小学校,丸山公園
+440,"What is the name of AOI located at address: 奥戸一丁目, 葛飾区, 東京都, 124-0023, 日本?",D,練馬区立 向山小学校,練馬区立 開進第二小学校,堀ノ内斎場,森永工場跡地
+441,"What is the name of AOI located at address: 池袋谷原線, 向原二丁目, 向原, 板橋区, 東京都, 173-0036, 日本?",B,私立 日本大学 櫻丘高等学校,板橋区立 向原小学校,シャルトル聖パウロ修道女会,梅里中央公園
+442,"What is the name of AOI located at address: 綱坂, 麻布十番三丁目, 三田二丁目, 麻布, 港区, 東京都, 108-0073, 日本?",B,中野区立 向台小学校,慶應義塾中等部,宮本公園,杉並区立 永福中央公園
+443,"What is the name of AOI located at address: 桜田通り, 麻布十番三丁目, 三田五丁目, 麻布, 港区, 東京都, 108-0073, 日本?",A,慶應義塾女子高,旧芝離宮恩賜庭園,馬事公苑,練馬区役所
+444,"What is the name of AOI located at address: 麻布狸穴町, 麻布, 港区, 東京都, 106-0043, 日本?",B,タイムズ,狸穴公園,南公園,NSビル
+445,"What is the name of AOI located at address: 45, 港区, 東京都, 108-8345, 日本?",B,飛鳥山公園,慶應義塾大学 - 三田キャンパス,東立石緑地公園,私立日本女子体育大学附属二階堂高等学校
+446,"What is the name of AOI located at address: ゆりのき橋通り, 平井六丁目, 江戸川区, 東京都, 132-0035, 日本?",B,夢とぴあ,江戸川区立平井小学校,練馬区立 豊渓中学校,荒川区立第三瑞光小学校
+447,"What is the name of AOI located at address: 牛房通り, 白子一丁目, 和光市, 埼玉県, 179-0071, 日本?",C,マダレナ・カノッサ幼稚園,板橋南部公園（東板橋公園）,上練馬公園,豪徳寺
+448,"What is the name of AOI located at address: 池袋谷原線, 向原二丁目, 向原, 板橋区, 東京都, 173-0036, 日本?",B,花の湯,板橋向原幼稚園,銀座ソニーパーク,花見堂複合施設
+449,"What is the name of AOI located at address: 池袋谷原線, 向原二丁目, 向原, 板橋区, 東京都, 173-0037, 日本?",A,向原ゴルフセンター,東板橋体育館,白百合学園中学校・高等学校,日本大学 医学部
+450,"What is the name of AOI located at address: 青梅街道, 中央二丁目, 中野区, 東京都, 164-8622, 日本?",B,墨田区立八広小学校,中野坂上サンブライトツインビル,練馬区立 開進第二中学校,練馬区立 開進第四中学校
+451,"What is the name of AOI located at address: 城山中央通り, 中野一丁目, 中野区, 東京都, 164-8622, 日本?",B,東墨田公園,宮園保育園,東京プリンスホテル,渋谷区立 上原小学校
+452,"What is the name of AOI located at address: 中央通り, 南池袋四丁目, 南池袋, 南池袋4丁目 (Minami-Ikebukuro 4-chome), 豊島区, 東京都, 171-0032, 日本?",A,雑司ヶ谷霊園,湯島聖堂,渋谷区立鍋島松涛公園,代田１－１４子供の遊び場
+453,"What is the name of AOI located at address: 万世麺店 有楽町店, 丸の内 6th, 有楽町一丁目, 有楽町, 千代田区, 東京都, 100-0006, 日本?",C,えびや,中野区立 向台小学校,有楽町ビルヂング,秋葉原公園
+454,"What is the name of AOI located at address: ゆりのき橋通り, 平井七丁目, 江戸川区, 東京都, 132-0035, 日本?",B,渋谷区立 幡代小学校,江戸川区立平井西小学校,王子四丁目公園,東京都立 豊島高等学校
+455,"What is the name of AOI located at address: 川越街道, 大谷口上町, 板橋区, 東京都, 173-0032, 日本?",C,仲宿千年広場,中野区立 向台小学校,日本大学 医学部,練馬区立 開進第一小学校
+456,"What is the name of AOI located at address: 千川通り, 旭丘一丁目, 練馬区, 東京都, 176-0005, 日本?",B,墨田区立八広小学校,練馬区立 旭丘中学校,中野区立 北原小学校,東京都立 産業技術高等専門学校
+457,"What is the name of AOI located at address: 千川通り, 旭丘一丁目, 練馬区, 東京都, 176-0005, 日本?",B,江戸川区立西小松川小学校,練馬区立 旭丘小学校,東京都立 鷺宮高等学校,墨田区立第三吾嬬小学校
+458,"What is the name of AOI located at address: 千川通り, 旭丘一丁目, 練馬区, 東京都, 176-0005, 日本?",C,柳森神社,中野区立 大和小学校,日本大学 芸術学部,下高井戸おおぞら公園
+459,"What is the name of AOI located at address: 鮫洲大山線, 長崎六丁目, 豊島区, 東京都, 171-0044, 日本?",D,上智大学真田堀グラウンド,墨田区立寺島中学校,堀ノ内二丁目公園,東京都立 豊島高等学校
+460,"What is the name of AOI located at address: 放射第36号線, 練馬区, 小茂根, 板橋区, 東京都, 176-0003, 日本?",A,練馬区立 開進第四小学校,若宮公園,浜離宮恩賜庭園,千住仲町公園
+461,"What is the name of AOI located at address: 丸山橋, 桜台三丁目, 練馬区, 東京都, 179-0084, 日本?",D,桜山公園,中野区立 北原小学校,小石川植物園,練馬区立 開進第三中学校
+462,"What is the name of AOI located at address: 10, 小茂根一丁目, 小茂根, 板橋区, 東京都, 173-0037, 日本?",C,私立 日本大学 櫻丘高等学校,練馬区立 開進第三小学校,心身障害児総合医療療育センター,板橋区立 緑ヶ丘第二公園
+463,"What is the name of AOI located at address: 曳舟たから通り, 立花一丁目, 立花, 墨田区, 東京都, 131-0044, 日本?",A,墨田区立 立花吾嬬の森小,駒込東公園,みどり幼稚園,瑞光橋公園
+464,"What is the name of AOI located at address: 城山中央通り, 中野一丁目, 中野区, 東京都, 164-8622, 日本?",C,野沢公園,練馬区立 仲町西公園,寿屋,馬事公苑
+465,"What is the name of AOI located at address: サンクス, 城山本通り, 中野一丁目, 中野区, 東京都, 164-0002, 日本?",B,上練馬公園,ファミリーマート,ビックロ,東京未来大学
+466,"What is the name of AOI located at address: 大久保通り, 中野一丁目, 中野区, 東京都, 164-8622, 日本?",C,湯島聖堂,和田堀変電所,タイムズ,小松川第二児童遊園
+467,"What is the name of AOI located at address: 池袋谷原線, 向原一丁目, 向原, 板橋区, 東京都, 173-0036, 日本?",A,小竹向原駅自転車駐車場,世田谷区立 若林小学校,北沢八幡児童遊園,墨田区立第三吾嬬小学校
+468,"What is the name of AOI located at address: 立花六丁目, 立花, 墨田区, 東京都, 131-0043, 日本?",C,東京大学附属中学校・高等学校,葛飾区立本田小学校,東京都下水道局吾嬬第二ポンプ所,雑司ヶ谷霊園
+469,"What is the name of AOI located at address: 平井街道;宮田通り, 立花四丁目, 立花, 墨田区, 東京都, 131-0043, 日本?",A,墨田区立 吾嬬立花中学校,港区立三田図書館,東京都立 豊島高等学校,目黒川船入場
+470,"What is the name of AOI located at address: 平井街道;宮田通り, 立花四丁目, 立花, 墨田区, 東京都, 131-0043, 日本?",A,東京都立 橘高等学校,江戸川区立小松川第二中学校（夜間学級）,国士舘大学 梅ヶ丘キャンパス,芝浦水再生センター
+471,"What is the name of AOI located at address: 丸八通り, 立花四丁目, 立花, 墨田区, 東京都, 131-0043, 日本?",B,明治大学 和泉キャンパス,墨田区立東吾嬬小学校,墨田区立第三吾嬬小学校,東京国立博物館
+472,"What is the name of AOI located at address: 蔵前橋通り, 平井五丁目, 江戸川区, 東京都, 132-0035, 日本?",D,尾久車両センター,マルエツプチ,中野区立 桃園第二小学校,江戸川区立小松川第三中学校
+473,"What is the name of AOI located at address: 十間橋通り, 文花一丁目, 文花, 墨田区, 東京都, 131-0044, 日本?",C,丸山公園,慶應義塾大学 - 三田キャンパス,墨田区立第四吾嬬小学校,国士舘大学 梅ヶ丘キャンパス
+474,"What is the name of AOI located at address: ゆりのき橋通り, 東墨田三丁目, 東墨田, 墨田区, 東京都, 131-0041, 日本?",D,豊島五丁目団地,梅里中央公園,和田堀公園,東墨田公園
+475,"What is the name of AOI located at address: 蔵前橋通り, 西新小岩一丁目, 葛飾区, 東京都, 124-0025, 日本?",D,東京都立 桜修館中等教育学校,塚山公園,板橋区立赤塚体育館,東京聖栄大学
+476,"What is the name of AOI located at address: ロード大谷口, 大谷口一丁目, 大谷口, 板橋区, 東京都, 173-0035, 日本?",D,北とぴあ,練馬区立 開進第二小学校,練馬区立 開進第三中学校,東京都立 板橋高等学校
+477,"What is the name of AOI located at address: 東四つ木コミュニティ通り, 東立石三丁目, 葛飾区, 東京都, 124-0014, 日本?",B,板橋区立 向原小学校,葛飾区立 渋江小学校,千住仲町公園,江戸川区立小松川第二中学校（夜間学級）
+478,"What is the name of AOI located at address: テニスコート, 奥戸街道, 立石一丁目, 葛飾区, 東京都, 124-0013, 日本?",A,渋江公園,板橋区立赤塚体育館,葛飾区立 木根川小学校,白鬚公園
+479,"What is the name of AOI located at address: 平和橋通り, 東四つ木二丁目, 葛飾区, 東京都, 124-0013, 日本?",D,有楽町ビルヂング,世田谷区立 富士中学校,東京国立博物館,葛飾区立川端小学校
+480,"What is the name of AOI located at address: 中川側道, 青戸二丁目, 葛飾区, 東京都, 125-0062, 日本?",D,日本民藝館 駐車場,杉並区立 浜田山小学校,住友不動産原宿ビル,葛飾区立 葛飾小学校
+481,"What is the name of AOI located at address: 青戸サンロード商店街, 立石六丁目, 葛飾区, 東京都, 125-0062, 日本?",D,国立スポーツ科学センター,東京都立墨田特別支援学校,ファミリーマート,葛飾シンフォニーヒルズ
+482,"What is the name of AOI located at address: 亀戸五丁目中央通商店街, 亀戸五丁目, 亀戸, 江東区, 東京都, 136-0071, 日本?",B,上智大学真田堀グラウンド,江東区立 水神小学校,新小岩自動車学校,祐天寺 Yutenji temple
+483,"What is the name of AOI located at address: 東四ツ木コミュニティ通り, 東四つ木一丁目, 葛飾区, 東京都, 124-0014, 日本?",C,墨田区立寺島中学校,演芸場,葛飾区立 木根川小学校,練馬区立 平和台児童公園
+484,"What is the name of AOI located at address: 中川側道, 東四つ木一丁目, 葛飾区, 東京都, 124-0014, 日本?",B,間栗公園,葛飾区立 中川中学校,南千住野球場,和泉二丁目公園
+485,"What is the name of AOI located at address: 奥戸街道, 立石一丁目, 葛飾区, 東京都, 124-0013, 日本?",C,世田谷区立 世田谷中学校,東京都立 第一商業高等学校,葛飾区立本田小学校,葛飾区立 葛飾小学校
+486,"What is the name of AOI located at address: 東立石四丁目, 葛飾区, 東京都, 124-0013, 日本?",C,新小岩公園,ヨドバシAkiba,東立石緑地公園,江戸川区立平井南小学校
+487,"What is the name of AOI located at address: 中川側道, 東立石四丁目, 葛飾区, 東京都, 124-0013, 日本?",D,練馬区立 開進第二小学校,練馬区立 早宮小学校,代田１－１４子供の遊び場,葛飾区立 本田中学校
+488,"What is the name of AOI located at address: 水戸街道, 青戸七丁目, 葛飾区, 東京都, 125-8503, 日本?",B,世田谷区立 代田小学校,東京都立 南葛飾高等学校,マダレナ・カノッサ幼稚園,練馬区立 開進第二小学校
+489,"What is the name of AOI located at address: 青戸サンロード商店街, 立石七丁目, 葛飾区, 東京都, 124-8511, 日本?",C,サトービル,荒川区立汐入小学校,葛飾区立立石中学校,世田谷区立 世田谷中学校
+490,"What is the name of AOI located at address: 青戸サンロード商店街, 立石七丁目, 葛飾区, 東京都, 124-8511, 日本?",D,東京都立 練馬工業高等学校,芝公園,サトービル,葛飾区立清和小学校
+491,"What is the name of AOI located at address: Kitchen Court, Kuken-dori, 東中野四丁目, 中野区, 東京都, 164-0003, 日本?",C,小竹向原駅自転車駐車場,伝統芸能情報センター,ユニゾンモール,早稲田大学25-2号館
+492,"What is the name of AOI located at address: 四ツ目通り, 東陽四丁目, 東陽, 江東区, 東京都, 135-8383, 日本?",A,東京都立江東特別支援学校,私立 鴎友学園女子中学高等学校,玉川上水第二公園,杉並南郵便局
+493,"What is the name of AOI located at address: 四ツ目通り, 東陽四丁目, 東陽, 江東区, 東京都, 135-8383, 日本?",B,中央公園,江東区役所,雑司ヶ谷霊園,中野区立 第四中学校
+494,"What is the name of AOI located at address: 水戸街道, 金町一丁目, 葛飾区, 東京都, 125-0051, 日本?",A,葛飾区立末広小学校,シャルトル聖パウロ修道女会,早稲田大学25-2号館,芝公園
+495,"What is the name of AOI located at address: 中川側道, 青戸二丁目, 葛飾区, 東京都, 125-0062, 日本?",B,東京都立 杉並高等学校,葛飾税務署,世田谷区立 代沢小学校,瑞光橋公園
+496,"What is the name of AOI located at address: 曳舟川通り, 東向島六丁目, 東向島, 墨田区, 東京都, 131-0041, 日本?",D,北沢八幡児童遊園,永福北公園,東京都美術館,墨田区立八広小学校
+497,"What is the name of AOI located at address: 曳舟川通り, 東向島六丁目, 東向島, 墨田区, 東京都, 131-0041, 日本?",D,文園児童館,白鬚公園,東京都立 第一商業高等学校,東京都立墨田特別支援学校
+498,"What is the name of AOI located at address: 八広はなみずき通り, 八広二丁目, 八広, 墨田区, 東京都, 131-0041, 日本?",A,墨田区立第三吾嬬小学校,江戸川区立平井南小学校,世田谷区立 城山小学校,学習院女子大学
+499,"What is the name of AOI located at address: 農大通り, 桜丘一丁目, 世田谷区, 東京都, 156-0053, 日本?",A,東京農業大学,墨田区立 吾嬬立花中学校,和泉給水所,紅葉山公園

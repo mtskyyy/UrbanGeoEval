@@ -1,0 +1,450 @@
+id,question,answer,A,B,C,D,E
+0,How long is Pont Marie in the Paris area?,C,400.0,100.0,200.0,600.0,100.0
+1,How long is Rue des Deux Ponts in the Paris area?,B,400.0,200.0,100.0,600.0,100.0
+2,How long is Square Courteline in the Paris area?,E,0.0,100.0,0.0,100.0,0.0
+3,How long is Boulevard de Picpus in the Paris area?,B,1380.0,4600.0,9200.0,13800.0,460.0
+4,How long is Rue de Wattignies in the Paris area?,C,3900.0,2600.0,1300.0,130.0,390.0
+5,How long is Quai Malaquais in the Paris area?,E,0.0,100.0,100.0,0.0,0.0
+6,How long is Quai Voltaire in the Paris area?,D,100.0,200.0,100.0,100.0,300.0
+7,How long is Rue des Saints-Pères in the Paris area?,D,2100.0,100.0,210.0,700.0,1400.0
+8,How long is Boulevard Saint-Jacques in the Paris area?,D,600.0,400.0,100.0,200.0,100.0
+9,How long is Boulevard Auguste Blanqui in the Paris area?,B,7800.0,2600.0,780.0,260.0,5200.0
+10,How long is Rue de la Santé in the Paris area?,D,1000.0,150.0,100.0,500.0,1500.0
+11,How long is Place Denfert-Rochereau in the Paris area?,D,100.0,200.0,100.0,100.0,300.0
+12,How long is Rue de Saussure in the Paris area?,E,100.0,100.0,0.0,0.0,0.0
+13,How long is Boulevard Pereire in the Paris area?,C,17400.0,870.0,8700.0,2610.0,26100.0
+14,How long is Avenue du Maine in the Paris area?,A,2800.0,8400.0,5600.0,840.0,280.0
+15,How long is Avenue de France in the Paris area?,B,4600.0,2300.0,6900.0,230.0,690.0
+16,How long is Rue Bobillot in the Paris area?,D,3000.0,300.0,100.0,1000.0,2000.0
+17,How long is Place d'Italie in the Paris area?,E,100.0,0.0,0.0,100.0,0.0
+18,How long is Boulevard Haussmann in the Paris area?,C,3600.0,5400.0,1800.0,540.0,180.0
+19,How long is Rue Scribe in the Paris area?,E,100.0,100.0,300.0,200.0,100.0
+20,How long is Avenue Victoria in the Paris area?,E,100.0,0.0,0.0,100.0,0.0
+21,How long is Rue Saint-Martin in the Paris area?,A,400.0,800.0,1200.0,120.0,100.0
+22,How long is Boulevard Garibaldi in the Paris area?,D,240.0,2400.0,100.0,800.0,1600.0
+23,How long is Avenue de Suffren in the Paris area?,D,4400.0,660.0,220.0,2200.0,6600.0
+24,How long is Avenue René Coty in the Paris area?,A,3900.0,1170.0,390.0,11700.0,7800.0
+25,How long is Rue de l'Ancienne Comédie in the Paris area?,C,100.0,400.0,200.0,600.0,100.0
+26,How long is Rue Dauphine in the Paris area?,C,100.0,120.0,400.0,800.0,1200.0
+27,How long is Quai de Bercy in the Paris area?,E,9300.0,6200.0,310.0,930.0,3100.0
+28,How long is Boulevard Périphérique Intérieur in the Paris area?,B,420.0,1400.0,2800.0,4200.0,140.0
+29,How long is Avenue de New York in the Paris area?,C,6900.0,230.0,2300.0,4600.0,690.0
+30,How long is Place de l'Alma in the Paris area?,E,100.0,100.0,0.0,0.0,0.0
+31,How long is Voie Georges-Pompidou in the Paris area?,D,660.0,220.0,4400.0,2200.0,6600.0
+32,How long is Place de la Concorde in the Paris area?,D,600.0,100.0,400.0,200.0,100.0
+33,How long is Cours la Reine in the Paris area?,D,800.0,1200.0,120.0,400.0,100.0
+34,How long is Place du Maréchal Juin in the Paris area?,E,0.0,100.0,0.0,100.0,0.0
+35,How long is Rue Rambuteau in the Paris area?,C,1400.0,100.0,700.0,210.0,2100.0
+36,How long is Rue des Francs Bourgeois in the Paris area?,E,3000.0,2000.0,100.0,300.0,1000.0
+37,How long is Rue des Archives in the Paris area?,C,1400.0,2100.0,700.0,100.0,210.0
+38,How long is Place de Breteuil in the Paris area?,E,0.0,100.0,0.0,100.0,0.0
+39,How long is Avenue de Breteuil in the Paris area?,E,5200.0,7800.0,260.0,780.0,2600.0
+40,How long is Quai de la Rapée in the Paris area?,A,1100.0,330.0,2200.0,110.0,3300.0
+41,How long is Avenue de Villiers in the Paris area?,A,1900.0,3800.0,5700.0,570.0,190.0
+42,How long is Place Prosper Goubaux in the Paris area?,E,100.0,0.0,0.0,100.0,0.0
+43,How long is Rue Didot in the Paris area?,C,100.0,1200.0,600.0,1800.0,180.0
+44,How long is Place Vauban in the Paris area?,E,100.0,0.0,100.0,0.0,0.0
+45,How long is Place du Colonel Fabien in the Paris area?,C,0.0,0.0,0.0,100.0,100.0
+46,How long is Boulevard de la Villette in the Paris area?,E,780.0,5200.0,7800.0,260.0,2600.0
+47,How long is Rue de Tanger in the Paris area?,B,1200.0,600.0,100.0,180.0,1800.0
+48,How long is Rue de l'Arrivée in the Paris area?,B,400.0,200.0,600.0,100.0,100.0
+49,How long is Boulevard de Vaugirard in the Paris area?,E,300.0,2000.0,3000.0,100.0,1000.0
+50,How long is Rue Vercingétorix in the Paris area?,E,180.0,1800.0,100.0,1200.0,600.0
+51,How long is Place des Insurgés de Varsovie in the Paris area?,E,0.0,100.0,100.0,0.0,0.0
+52,How long is Rue Louis Vicat in the Paris area?,B,600.0,200.0,100.0,100.0,400.0
+53,How long is Boulevard de Charonne in the Paris area?,D,500.0,15000.0,1500.0,5000.0,10000.0
+54,How long is Rue Alexandre Dumas in the Paris area?,E,100.0,0.0,0.0,100.0,0.0
+55,How long is Boulevard Périphérique Extérieur in the Paris area?,C,5700.0,570.0,1900.0,3800.0,190.0
+56,How long is Rue du Général de Langle de Cary in the Paris area?,C,0.0,0.0,0.0,100.0,100.0
+57,How long is Rue Escoffier in the Paris area?,E,0.0,100.0,100.0,0.0,0.0
+58,How long is Rue du Faubourg Saint-Honoré in the Paris area?,D,4800.0,240.0,7200.0,2400.0,720.0
+59,How long is Rue Beaubourg in the Paris area?,C,240.0,2400.0,800.0,1600.0,100.0
+60,How long is Place de la Nation in the Paris area?,E,100.0,100.0,200.0,300.0,100.0
+61,How long is Avenue du Trône in the Paris area?,E,100.0,100.0,300.0,200.0,100.0
+62,How long is Rue de Varenne in the Paris area?,B,4200.0,1400.0,140.0,2800.0,420.0
+63,How long is Rue du Bac in the Paris area?,B,600.0,200.0,100.0,100.0,400.0
+64,How long is Rue Froidevaux in the Paris area?,D,110.0,3300.0,330.0,1100.0,2200.0
+65,How long is Avenue des Terroirs de France in the Paris area?,A,600.0,100.0,1200.0,1800.0,180.0
+66,How long is Rue du Faubourg Montmartre in the Paris area?,C,2200.0,330.0,1100.0,3300.0,110.0
+67,How long is Rue Saint-Lazare in the Paris area?,C,4600.0,690.0,2300.0,6900.0,230.0
+68,How long is Rue Notre-Dame-de-Lorette in the Paris area?,B,1800.0,900.0,100.0,270.0,2700.0
+69,How long is Port de Bercy in the Paris area?,E,300.0,200.0,100.0,100.0,100.0
+70,How long is Voie Mazas in the Paris area?,E,300.0,100.0,100.0,200.0,100.0
+71,How long is Rue de Ménilmontant in the Paris area?,C,810.0,5400.0,2700.0,270.0,8100.0
+72,How long is Avenue de Friedland in the Paris area?,D,3600.0,120.0,360.0,1200.0,2400.0
+73,How long is Place Charles de Gaulle in the Paris area?,E,100.0,0.0,0.0,100.0,0.0
+74,How long is Avenue Marceau in the Paris area?,D,100.0,800.0,1200.0,400.0,120.0
+75,How long is Place d'Estienne d'Orves in the Paris area?,A,500.0,1000.0,150.0,1500.0,100.0
+76,How long is Rue de Londres in the Paris area?,C,1500.0,1000.0,500.0,150.0,100.0
+77,How long is Boulevard de la Bastille in the Paris area?,D,2700.0,1800.0,100.0,900.0,270.0
+78,How long is Avenue René Fonck in the Paris area?,E,1800.0,270.0,100.0,2700.0,900.0
+79,How long is Boulevard Diderot in the Paris area?,D,810.0,270.0,5400.0,2700.0,8100.0
+80,How long is Rue Custine in the Paris area?,D,990.0,330.0,6600.0,3300.0,9900.0
+81,How long is Rue Saint-Amand in the Paris area?,D,600.0,400.0,100.0,200.0,100.0
+82,How long is Avenue Édouard Vaillant in the Paris area?,B,100.0,400.0,800.0,120.0,1200.0
+83,How long is Avenue Jean Jaurès in the Paris area?,C,370.0,7400.0,3700.0,1110.0,11100.0
+84,How long is Place Séverine in the Paris area?,E,100.0,300.0,200.0,100.0,100.0
+85,How long is Cours Albert-Iᵉʳ in the Paris area?,E,1200.0,120.0,800.0,100.0,400.0
+86,How long is Carrefour de l'Odéon in the Paris area?,E,300.0,100.0,200.0,100.0,100.0
+87,How long is Rue du Louvre in the Paris area?,D,3400.0,5100.0,170.0,1700.0,510.0
+88,How long is Rue Montmartre in the Paris area?,C,100.0,100.0,300.0,600.0,900.0
+89,How long is Boulevard Sérurier in the Paris area?,C,810.0,5400.0,2700.0,8100.0,270.0
+90,How long is Boulevard Pasteur in the Paris area?,A,700.0,1400.0,210.0,100.0,2100.0
+91,How long is Rue du Docteur Roux in the Paris area?,A,700.0,2100.0,100.0,210.0,1400.0
+92,How long is Avenue de la Bourdonnais in the Paris area?,E,1800.0,1200.0,180.0,100.0,600.0
+93,How long is Boulevard de la Chapelle in the Paris area?,B,1800.0,900.0,2700.0,100.0,270.0
+94,How long is Quai de Jemmapes in the Paris area?,E,0.0,0.0,100.0,100.0,0.0
+95,How long is Pont Neuf in the Paris area?,B,600.0,200.0,100.0,400.0,100.0
+96,How long is Rue de Crimée in the Paris area?,E,480.0,160.0,4800.0,3200.0,1600.0
+97,How long is Rue des Fêtes in the Paris area?,E,0.0,100.0,0.0,100.0,0.0
+98,How long is Rue Saint-Honoré in the Paris area?,A,300.0,900.0,100.0,100.0,600.0
+99,How long is Rue du Faubourg Saint-Antoine in the Paris area?,B,170.0,1700.0,5100.0,3400.0,510.0
+100,How long is Rue Raymond Losserand in the Paris area?,B,3200.0,1600.0,160.0,4800.0,480.0
+101,How long is Avenue d'Italie in the Paris area?,D,4200.0,140.0,420.0,1400.0,2800.0
+102,How long is Rue de Charonne in the Paris area?,E,210.0,630.0,4200.0,6300.0,2100.0
+103,How long is Place de la Chapelle in the Paris area?,E,100.0,0.0,100.0,0.0,0.0
+104,How long is Rue Marx Dormoy in the Paris area?,E,100.0,1000.0,1500.0,150.0,500.0
+105,How long is Rue Tronchet in the Paris area?,C,400.0,100.0,200.0,600.0,100.0
+106,How long is Rue de Rome in the Paris area?,E,3800.0,190.0,570.0,5700.0,1900.0
+107,How long is Place de la Madeleine in the Paris area?,D,100.0,100.0,300.0,100.0,200.0
+108,How long is Boulevard de la Madeleine in the Paris area?,C,100.0,600.0,200.0,100.0,400.0
+109,How long is Place du Maroc in the Paris area?,E,0.0,100.0,100.0,0.0,0.0
+110,How long is Rue des Entrepreneurs in the Paris area?,D,240.0,100.0,1600.0,800.0,2400.0
+111,How long is Boulevard Lefebvre in the Paris area?,E,220.0,660.0,4400.0,6600.0,2200.0
+112,How long is Rue Jacques Baudry in the Paris area?,E,100.0,300.0,3000.0,2000.0,1000.0
+113,How long is Avenue Duquesne in the Paris area?,A,700.0,1400.0,100.0,210.0,2100.0
+114,How long is Rue Eblé in the Paris area?,E,100.0,0.0,0.0,100.0,0.0
+115,How long is Rue de Maubeuge in the Paris area?,B,5700.0,1900.0,570.0,190.0,3800.0
+116,How long is Rue du Faubourg Poissonnière in the Paris area?,C,100.0,2700.0,900.0,1800.0,270.0
+117,How long is Rue de Belleville in the Paris area?,A,3400.0,340.0,1020.0,10200.0,6800.0
+118,How long is Rue du Faubourg du Temple in the Paris area?,C,100.0,100.0,300.0,600.0,900.0
+119,How long is Boulevard Jules Ferry in the Paris area?,D,600.0,100.0,400.0,200.0,100.0
+120,How long is Boulevard Saint-Germain in the Paris area?,C,8400.0,5600.0,2800.0,840.0,280.0
+121,How long is Boulevard Raspail in the Paris area?,B,8000.0,4000.0,400.0,12000.0,1200.0
+122,How long is Boulevard Berthier in the Paris area?,A,800.0,2400.0,1600.0,240.0,100.0
+123,How long is Boulevard Malesherbes in the Paris area?,C,1320.0,440.0,4400.0,13200.0,8800.0
+124,How long is Avenue de la Porte du Pré Saint-Gervais in the Paris area?,A,600.0,100.0,180.0,1800.0,1200.0
+125,How long is Rue André Joineau in the Paris area?,A,1000.0,3000.0,2000.0,100.0,300.0
+126,How long is Rue de Lobau in the Paris area?,C,100.0,400.0,200.0,600.0,100.0
+127,How long is Rue de Rivoli in the Paris area?,A,300.0,600.0,900.0,100.0,100.0
+128,How long is Rue Lecourbe in the Paris area?,C,100.0,2100.0,700.0,1400.0,210.0
+129,How long is Avenue Secrétan in the Paris area?,C,100.0,150.0,500.0,1500.0,1000.0
+130,How long is Place de Clichy in the Paris area?,D,100.0,0.0,0.0,0.0,100.0
+131,How long is Boulevard des Batignolles in the Paris area?,D,150.0,4500.0,3000.0,1500.0,450.0
+132,How long is Rue Étienne Marcel in the Paris area?,D,1400.0,100.0,2100.0,700.0,210.0
+133,How long is Quai Jacques Chirac in the Paris area?,E,100.0,2400.0,1600.0,240.0,800.0
+134,How long is Avenue Victor Hugo in the Paris area?,E,570.0,5700.0,3800.0,190.0,1900.0
+135,How long is Avenue Pasteur in the Paris area?,C,900.0,100.0,300.0,600.0,100.0
+136,How long is Rue Frémicourt in the Paris area?,B,2600.0,1300.0,3900.0,130.0,390.0
+137,How long is Avenue de Saint-Mandé in the Paris area?,E,6000.0,200.0,600.0,4000.0,2000.0
+138,How long is Rue Méhul in the Paris area?,A,1500.0,150.0,4500.0,3000.0,450.0
+139,How long is Avenue des Nations-Unies in the Paris area?,A,1300.0,130.0,390.0,2600.0,3900.0
+140,How long is Place Vendôme in the Paris area?,E,100.0,400.0,100.0,600.0,200.0
+141,How long is Quai d'Ivry in the Paris area?,A,1700.0,170.0,3400.0,510.0,5100.0
+142,How long is Avenue Foch in the Paris area?,E,1800.0,100.0,180.0,1200.0,600.0
+143,How long is Avenue Kléber in the Paris area?,D,160.0,480.0,4800.0,1600.0,3200.0
+144,How long is Rue du Moulin in the Paris area?,B,1500.0,500.0,100.0,1000.0,150.0
+145,How long is Avenue Félix Faure in the Paris area?,A,1400.0,420.0,4200.0,140.0,2800.0
+146,How long is Rue de Tolbiac in the Paris area?,B,11700.0,3900.0,390.0,7800.0,1170.0
+147,How long is Boulevard Barbès in the Paris area?,E,2100.0,100.0,210.0,1400.0,700.0
+148,How long is Rue Julia Bartet in the Paris area?,D,100.0,600.0,100.0,200.0,400.0
+149,How long is Place de la Porte de Champerret in the Paris area?,E,0.0,100.0,100.0,0.0,0.0
+150,How long is Rue de Paris in the Paris area?,C,270.0,2700.0,900.0,100.0,1800.0
+151,How long is Rue Cardinet in the Paris area?,E,2000.0,100.0,3000.0,300.0,1000.0
+152,How long is Rue de la Croix Nivert in the Paris area?,B,750.0,2500.0,5000.0,7500.0,250.0
+153,How long is Rue de Bretagne in the Paris area?,B,1000.0,500.0,1500.0,150.0,100.0
+154,How long is Avenue des Ternes in the Paris area?,C,150.0,1500.0,500.0,100.0,1000.0
+155,How long is Avenue de la Grande Armée in the Paris area?,D,900.0,100.0,100.0,300.0,600.0
+156,How long is Rue de Solférino in the Paris area?,A,200.0,100.0,400.0,100.0,600.0
+157,How long is Rue d'Avron in the Paris area?,B,3000.0,1500.0,450.0,4500.0,150.0
+158,How long is Avenue de la Porte de Vanves in the Paris area?,B,2400.0,800.0,100.0,240.0,1600.0
+159,How long is Rue Soufflot in the Paris area?,D,100.0,600.0,400.0,200.0,100.0
+160,How long is Rue Clovis in the Paris area?,B,1200.0,600.0,180.0,100.0,1800.0
+161,How long is Avenue de Gravelle in the Paris area?,E,2400.0,360.0,3600.0,120.0,1200.0
+162,How long is Avenue de la Porte Brancion in the Paris area?,A,400.0,1200.0,120.0,800.0,100.0
+163,How long is Rue du Havre in the Paris area?,D,100.0,100.0,300.0,100.0,200.0
+164,How long is Cours de Vincennes in the Paris area?,A,1400.0,4200.0,140.0,2800.0,420.0
+165,How long is Avenue du Docteur Arnold Netter in the Paris area?,B,100.0,400.0,120.0,800.0,1200.0
+166,How long is Rue des Pyrénées in the Paris area?,D,8400.0,420.0,1260.0,4200.0,12600.0
+167,How long is Boulevard Saint-Marcel in the Paris area?,D,2800.0,4200.0,420.0,1400.0,140.0
+168,How long is Boulevard Arago in the Paris area?,A,1000.0,100.0,300.0,3000.0,2000.0
+169,How long is Boulevard de Port-Royal in the Paris area?,D,6000.0,600.0,200.0,2000.0,4000.0
+170,How long is Avenue des Gobelins in the Paris area?,D,100.0,1200.0,1800.0,600.0,180.0
+171,How long is Rue de Rennes in the Paris area?,E,360.0,120.0,2400.0,3600.0,1200.0
+172,How long is Rue de Vaugirard in the Paris area?,B,8400.0,4200.0,420.0,1260.0,12600.0
+173,How long is Avenue Daumesnil in the Paris area?,C,1200.0,400.0,4000.0,12000.0,8000.0
+174,How long is Place Édouard Renard in the Paris area?,A,200.0,100.0,100.0,600.0,400.0
+175,How long is Boulevard Poniatowski in the Paris area?,D,5000.0,750.0,7500.0,2500.0,250.0
+176,How long is Boulevard Soult in the Paris area?,D,170.0,5100.0,3400.0,1700.0,510.0
+177,How long is Boulevard Marguerite de Rochechouart in the Paris area?,D,250.0,7500.0,750.0,2500.0,5000.0
+178,How long is Boulevard de Magenta in the Paris area?,E,160.0,4800.0,480.0,3200.0,1600.0
+179,How long is Boulevard de Clichy in the Paris area?,E,7400.0,11100.0,370.0,1110.0,3700.0
+180,How long is Rue de la Glacière in the Paris area?,E,570.0,3800.0,5700.0,190.0,1900.0
+181,How long is Rue Berthollet in the Paris area?,C,100.0,1000.0,500.0,1500.0,150.0
+182,How long is Place Saint-Augustin in the Paris area?,E,120.0,800.0,100.0,1200.0,400.0
+183,How long is Rue de la Pépinière in the Paris area?,E,300.0,100.0,200.0,100.0,100.0
+184,How long is Quai d'Orsay in the Paris area?,E,630.0,4200.0,6300.0,210.0,2100.0
+185,How long is Pont Alexandre III in the Paris area?,E,300.0,100.0,200.0,100.0,100.0
+186,How long is Avenue du Maréchal Gallieni in the Paris area?,B,1200.0,400.0,100.0,800.0,120.0
+187,How long is Avenue Pierre Mendès France in the Paris area?,D,120.0,2400.0,360.0,1200.0,3600.0
+188,How long is Boulevard Vincent Auriol in the Paris area?,D,390.0,3900.0,130.0,1300.0,2600.0
+189,How long is Boulevard de Bercy in the Paris area?,E,390.0,3900.0,130.0,2600.0,1300.0
+190,How long is Quai d'Austerlitz in the Paris area?,B,480.0,1600.0,160.0,4800.0,3200.0
+191,How long is Quai de la Gare in the Paris area?,C,100.0,1200.0,600.0,1800.0,180.0
+192,How long is Pont de Bercy in the Paris area?,C,0.0,0.0,0.0,100.0,100.0
+193,How long is Rue Neuve Tolbiac in the Paris area?,C,100.0,800.0,400.0,120.0,1200.0
+194,How long is Pont de Tolbiac in the Paris area?,B,100.0,200.0,100.0,600.0,400.0
+195,How long is Rue des Écoles in the Paris area?,E,270.0,1800.0,2700.0,100.0,900.0
+196,How long is Rue Jussieu in the Paris area?,A,1000.0,100.0,2000.0,3000.0,300.0
+197,How long is Rue des Fossés Saint-Bernard in the Paris area?,B,800.0,400.0,100.0,1200.0,120.0
+198,How long is Rue du Cardinal Lemoine in the Paris area?,E,200.0,100.0,300.0,100.0,100.0
+199,How long is Avenue d'Iéna in the Paris area?,A,2100.0,210.0,630.0,4200.0,6300.0
+200,How long is Avenue du Président Wilson in the Paris area?,D,110.0,3300.0,2200.0,1100.0,330.0
+201,How long is Avenue Montaigne in the Paris area?,C,120.0,1200.0,400.0,100.0,800.0
+202,How long is Avenue George V in the Paris area?,E,6600.0,220.0,4400.0,660.0,2200.0
+203,How long is Pont de l'Alma in the Paris area?,D,200.0,100.0,100.0,100.0,300.0
+204,How long is Avenue de Wagram in the Paris area?,E,4600.0,6900.0,230.0,690.0,2300.0
+205,How long is Avenue de la Porte des Lilas in the Paris area?,E,100.0,300.0,200.0,100.0,100.0
+206,How long is Avenue Gambetta in the Paris area?,B,6300.0,2100.0,630.0,210.0,4200.0
+207,How long is Boulevard Mortier in the Paris area?,D,200.0,600.0,6000.0,2000.0,4000.0
+208,How long is Avenue de Ségur in the Paris area?,C,210.0,2100.0,700.0,100.0,1400.0
+209,How long is Boulevard du Montparnasse in the Paris area?,D,240.0,720.0,7200.0,2400.0,4800.0
+210,How long is Avenue de l'Observatoire in the Paris area?,B,690.0,2300.0,4600.0,6900.0,230.0
+211,How long is Quai Branly in the Paris area?,E,1200.0,120.0,800.0,100.0,400.0
+212,How long is Place de la Résistance in the Paris area?,C,100.0,100.0,100.0,200.0,300.0
+213,How long is Avenue Bosquet in the Paris area?,C,100.0,120.0,400.0,800.0,1200.0
+214,How long is Avenue Philippe Auguste in the Paris area?,B,12000.0,4000.0,1200.0,8000.0,400.0
+215,How long is Rue d'Assas in the Paris area?,E,720.0,240.0,4800.0,7200.0,2400.0
+216,How long is Avenue du Général Michel Bizot in the Paris area?,D,290.0,5800.0,8700.0,2900.0,870.0
+217,How long is Rue de Charenton in the Paris area?,E,390.0,130.0,3900.0,2600.0,1300.0
+218,How long is Avenue de la Porte de Charenton in the Paris area?,B,1200.0,400.0,120.0,100.0,800.0
+219,How long is Place Félix Éboué in the Paris area?,E,4200.0,2800.0,420.0,140.0,1400.0
+220,How long is Avenue de Tourville in the Paris area?,A,500.0,100.0,150.0,1000.0,1500.0
+221,How long is Avenue de la Motte-Picquet in the Paris area?,D,100.0,2400.0,1600.0,800.0,240.0
+222,How long is Place Joffre in the Paris area?,A,500.0,150.0,1500.0,100.0,1000.0
+223,How long is Boulevard Voltaire in the Paris area?,B,510.0,5100.0,10200.0,1530.0,15300.0
+224,How long is Avenue Parmentier in the Paris area?,B,720.0,2400.0,7200.0,240.0,4800.0
+225,How long is Rue de la Roquette in the Paris area?,D,2400.0,100.0,1600.0,800.0,240.0
+226,How long is Avenue Myron Herrick in the Paris area?,B,120.0,400.0,100.0,800.0,1200.0
+227,How long is Rue de Courcelles in the Paris area?,B,690.0,2300.0,6900.0,4600.0,230.0
+228,How long is Rue Monge in the Paris area?,D,240.0,720.0,7200.0,2400.0,4800.0
+229,How long is Boulevard de Courcelles in the Paris area?,A,1000.0,100.0,300.0,3000.0,2000.0
+230,How long is Place de la Bataille de Stalingrad in the Paris area?,D,100.0,100.0,300.0,100.0,200.0
+231,How long is Rue La Fayette in the Paris area?,A,1000.0,2000.0,100.0,300.0,3000.0
+232,How long is Avenue de la République in the Paris area?,D,290.0,870.0,8700.0,2900.0,5800.0
+233,How long is Place Lachambeaudie in the Paris area?,D,2400.0,240.0,1600.0,800.0,100.0
+234,How long is Rue de la Convention in the Paris area?,A,1500.0,450.0,150.0,3000.0,4500.0
+235,How long is Avenue de Lowendal in the Paris area?,B,150.0,1500.0,450.0,3000.0,4500.0
+236,How long is Place des Ternes in the Paris area?,E,100.0,0.0,100.0,0.0,0.0
+237,How long is Rue de Sèvres in the Paris area?,C,140.0,2800.0,1400.0,4200.0,420.0
+238,How long is Avenue Hoche in the Paris area?,A,1400.0,4200.0,140.0,2800.0,420.0
+239,How long is Rue Cambronne in the Paris area?,A,1000.0,100.0,300.0,3000.0,2000.0
+240,How long is Boulevard de Grenelle in the Paris area?,A,1300.0,390.0,3900.0,130.0,2600.0
+241,How long is Boulevard Brune in the Paris area?,A,1400.0,420.0,4200.0,2800.0,140.0
+242,How long is Place de la Porte de Vanves in the Paris area?,C,0.0,0.0,0.0,100.0,100.0
+243,How long is Rue du Chemin Vert in the Paris area?,B,3900.0,1300.0,390.0,2600.0,130.0
+244,How long is Boulevard de Ménilmontant in the Paris area?,C,420.0,140.0,1400.0,2800.0,4200.0
+245,How long is Rue du Vieux Colombier in the Paris area?,E,100.0,900.0,100.0,600.0,300.0
+246,How long is Pont Charles de Gaulle in the Paris area?,D,100.0,200.0,100.0,100.0,300.0
+247,How long is Avenue Niel in the Paris area?,D,3000.0,2000.0,100.0,1000.0,300.0
+248,How long is Avenue Mac-Mahon in the Paris area?,C,100.0,600.0,200.0,100.0,400.0
+249,How long is Pont de Sully in the Paris area?,C,100.0,600.0,200.0,100.0,400.0
+250,How long is Quai de la Tournelle in the Paris area?,A,500.0,1000.0,150.0,1500.0,100.0
+251,How long is Quai Saint-Bernard in the Paris area?,E,110.0,2200.0,330.0,3300.0,1100.0
+252,How long is Place du 18 Juin 1940 in the Paris area?,D,100.0,0.0,0.0,0.0,100.0
+253,How long is Rue du Faubourg Saint-Martin in the Paris area?,B,3600.0,1800.0,180.0,540.0,5400.0
+254,How long is Avenue de Flandre in the Paris area?,C,330.0,3300.0,1100.0,2200.0,110.0
+255,How long is Place de Varsovie in the Paris area?,E,0.0,0.0,100.0,100.0,0.0
+256,How long is Rue de Patay in the Paris area?,E,600.0,100.0,100.0,400.0,200.0
+257,How long is Rue Jeanne d'Arc in the Paris area?,D,510.0,170.0,5100.0,1700.0,3400.0
+258,How long is Boulevard d'Indochine in the Paris area?,B,1500.0,500.0,150.0,1000.0,100.0
+259,How long is Voie CX/19 in the Paris area?,D,100.0,600.0,100.0,200.0,400.0
+260,How long is Avenue de la Porte Chaumont in the Paris area?,E,100.0,100.0,300.0,200.0,100.0
+261,How long is Avenue du Colonel Henri Rol Tanguy in the Paris area?,D,100.0,0.0,0.0,0.0,100.0
+262,How long is Avenue Denfert-Rochereau in the Paris area?,E,100.0,100.0,0.0,0.0,0.0
+263,How long is Rue Claude Bernard in the Paris area?,A,1900.0,5700.0,570.0,3800.0,190.0
+264,How long is Rue de Médicis in the Paris area?,D,200.0,100.0,100.0,100.0,300.0
+265,How long is Boulevard Saint-Michel in the Paris area?,E,100.0,1800.0,2700.0,270.0,900.0
+266,How long is Boulevard des Invalides in the Paris area?,C,100.0,1200.0,600.0,1800.0,180.0
+267,How long is Boulevard Davout in the Paris area?,C,1800.0,1200.0,600.0,100.0,180.0
+268,How long is Rue de Bagnolet in the Paris area?,E,1500.0,150.0,100.0,1000.0,500.0
+269,How long is Rue Belgrand in the Paris area?,B,2600.0,1300.0,3900.0,130.0,390.0
+270,How long is Avenue de la Porte de Bagnolet in the Paris area?,B,900.0,300.0,100.0,100.0,600.0
+271,How long is Quai des Célestins in the Paris area?,D,100.0,100.0,400.0,200.0,600.0
+272,How long is Quai de l'Hôtel de Ville in the Paris area?,D,100.0,800.0,1200.0,400.0,120.0
+273,How long is Rue de Fourcy in the Paris area?,E,600.0,400.0,100.0,100.0,200.0
+274,How long is Place Valhubert in the Paris area?,D,100.0,0.0,0.0,0.0,100.0
+275,How long is Pont d'Austerlitz in the Paris area?,D,200.0,100.0,100.0,100.0,300.0
+276,How long is Rue du Départ in the Paris area?,D,300.0,3000.0,2000.0,1000.0,100.0
+277,How long is Rue d'Alésia in the Paris area?,D,210.0,630.0,6300.0,2100.0,4200.0
+278,How long is Avenue Reille in the Paris area?,C,100.0,100.0,100.0,200.0,300.0
+279,How long is Rue de l'Amiral Mouchez in the Paris area?,C,0.0,0.0,0.0,100.0,100.0
+280,How long is Rue Jean Zay in the Paris area?,D,100.0,100.0,600.0,300.0,900.0
+281,How long is Rue de la Paix in the Paris area?,E,300.0,100.0,100.0,200.0,100.0
+282,How long is Rue Halévy in the Paris area?,E,100.0,0.0,0.0,100.0,0.0
+283,How long is Rue Louis-le-Grand in the Paris area?,D,0.0,0.0,100.0,0.0,100.0
+284,How long is Rue du Quatre Septembre in the Paris area?,C,600.0,900.0,300.0,100.0,100.0
+285,How long is Avenue de l'Opéra in the Paris area?,B,100.0,500.0,150.0,1500.0,1000.0
+286,How long is Boulevard des Capucines in the Paris area?,D,100.0,100.0,200.0,100.0,300.0
+287,How long is Rue Auber in the Paris area?,A,200.0,100.0,100.0,600.0,400.0
+288,How long is Rue Pasquier in the Paris area?,E,100.0,1200.0,800.0,120.0,400.0
+289,How long is Avenue des Champs-Élysées in the Paris area?,D,1600.0,2400.0,100.0,800.0,240.0
+290,How long is Avenue Franklin Delano Roosevelt in the Paris area?,D,400.0,100.0,100.0,200.0,600.0
+291,How long is Place du Canada in the Paris area?,E,1200.0,800.0,100.0,120.0,400.0
+292,How long is Rue Faidherbe in the Paris area?,C,1800.0,2700.0,900.0,270.0,100.0
+293,How long is Rue de Reuilly in the Paris area?,D,100.0,600.0,900.0,300.0,100.0
+294,How long is Boulevard de l'Hôpital in the Paris area?,B,2600.0,1300.0,130.0,390.0,3900.0
+295,How long is Boulevard Richard-Lenoir in the Paris area?,A,2900.0,5800.0,290.0,870.0,8700.0
+296,How long is Rue Proudhon in the Paris area?,A,600.0,1200.0,1800.0,100.0,180.0
+297,How long is Rue Taine in the Paris area?,D,1800.0,1200.0,100.0,600.0,180.0
+298,How long is Place de la République in the Paris area?,E,100.0,200.0,300.0,100.0,100.0
+299,How long is Boulevard Saint-Denis in the Paris area?,D,3600.0,2400.0,120.0,1200.0,360.0
+300,How long is Rue de Bercy in the Paris area?,E,900.0,100.0,600.0,100.0,300.0
+301,How long is Rue La Boétie in the Paris area?,C,100.0,600.0,300.0,100.0,900.0
+302,How long is Boulevard des Filles du Calvaire in the Paris area?,C,100.0,100.0,100.0,300.0,200.0
+303,How long is Rue Oberkampf in the Paris area?,C,2400.0,100.0,800.0,240.0,1600.0
+304,How long is Rue Commines in the Paris area?,D,200.0,100.0,100.0,100.0,300.0
+305,How long is Rue Baron Le Roy in the Paris area?,B,3300.0,1100.0,330.0,2200.0,110.0
+306,How long is Boulevard Edgar Quinet in the Paris area?,C,11100.0,1110.0,3700.0,7400.0,370.0
+307,How long is Pont des Invalides in the Paris area?,E,100.0,200.0,100.0,300.0,100.0
+308,How long is Boulevard de la Tour Maubourg in the Paris area?,B,2700.0,900.0,1800.0,270.0,100.0
+309,How long is Avenue Ledru-Rollin in the Paris area?,D,100.0,2700.0,270.0,900.0,1800.0
+310,How long is Boulevard de Strasbourg in the Paris area?,C,120.0,800.0,400.0,1200.0,100.0
+311,How long is Rue de Vouillé in the Paris area?,A,800.0,240.0,100.0,2400.0,1600.0
+312,How long is Rue Brancion in the Paris area?,E,100.0,2400.0,240.0,1600.0,800.0
+313,How long is Rue de Tournon in the Paris area?,D,1200.0,800.0,120.0,400.0,100.0
+314,How long is Rue Saint-Sulpice in the Paris area?,E,400.0,100.0,100.0,600.0,200.0
+315,How long is Rue de Seine in the Paris area?,B,100.0,200.0,400.0,600.0,100.0
+316,How long is Rue des Capucines in the Paris area?,D,300.0,100.0,100.0,100.0,200.0
+317,How long is Rue Danielle Casanova in the Paris area?,C,600.0,900.0,300.0,100.0,100.0
+318,How long is Avenue Winston Churchill in the Paris area?,D,0.0,0.0,100.0,0.0,100.0
+319,How long is Rue de Constantinople in the Paris area?,D,900.0,100.0,600.0,300.0,100.0
+320,How long is Pont de la Concorde in the Paris area?,E,100.0,200.0,300.0,100.0,100.0
+321,How long is Quai Anatole France in the Paris area?,B,900.0,300.0,100.0,600.0,100.0
+322,How long is Rue des Filles du Calvaire in the Paris area?,E,200.0,100.0,100.0,300.0,100.0
+323,How long is Rue de Turenne in the Paris area?,A,1500.0,150.0,3000.0,450.0,4500.0
+324,How long is Rue Froissart in the Paris area?,D,100.0,200.0,100.0,100.0,300.0
+325,How long is Rue de Rambouillet in the Paris area?,E,100.0,1000.0,150.0,1500.0,500.0
+326,How long is Rue Villiot in the Paris area?,A,300.0,600.0,900.0,100.0,100.0
+327,How long is Rue de Lisbonne in the Paris area?,C,800.0,1200.0,400.0,120.0,100.0
+328,How long is Rue Duroc in the Paris area?,B,2100.0,700.0,1400.0,210.0,100.0
+329,How long is Avenue de Villars in the Paris area?,D,600.0,100.0,100.0,200.0,400.0
+330,How long is Avenue de la Porte Brunet in the Paris area?,E,100.0,100.0,600.0,900.0,300.0
+331,How long is Rue Manin in the Paris area?,B,4200.0,2100.0,6300.0,630.0,210.0
+332,How long is Avenue Mathurin Moreau in the Paris area?,D,2700.0,1800.0,270.0,900.0,100.0
+333,How long is Avenue Simón Bolívar in the Paris area?,B,100.0,1000.0,300.0,3000.0,2000.0
+334,How long is Avenue Albert de Mun in the Paris area?,E,200.0,100.0,300.0,100.0,100.0
+335,How long is Quai des Tuileries in the Paris area?,D,2100.0,210.0,1400.0,700.0,100.0
+336,How long is Pont National in the Paris area?,D,100.0,600.0,100.0,300.0,900.0
+337,How long is Rue Robert-Etlin in the Paris area?,B,100.0,200.0,600.0,100.0,400.0
+338,How long is Boulevard Poissonnière in the Paris area?,E,1200.0,800.0,100.0,120.0,400.0
+339,How long is Boulevard Montmartre in the Paris area?,E,100.0,200.0,100.0,300.0,100.0
+340,How long is Boulevard d'Algérie in the Paris area?,B,100.0,300.0,100.0,900.0,600.0
+341,How long is Rue de Grenelle in the Paris area?,C,100.0,2700.0,900.0,270.0,1800.0
+342,How long is Rue de la Chaussée-d'Antin in the Paris area?,C,100.0,900.0,300.0,600.0,100.0
+343,How long is Rue de Châteaudun in the Paris area?,A,400.0,1200.0,120.0,100.0,800.0
+344,How long is Rue Blanche in the Paris area?,E,150.0,450.0,4500.0,3000.0,1500.0
+345,How long is Rue Saint-Jacques in the Paris area?,D,1200.0,120.0,100.0,400.0,800.0
+346,How long is Rue du Four in the Paris area?,D,1000.0,150.0,1500.0,500.0,100.0
+347,How long is Place Michel Debré in the Paris area?,E,1200.0,800.0,120.0,100.0,400.0
+348,How long is Rue du Commandant René Mouchotte in the Paris area?,C,100.0,2700.0,900.0,1800.0,270.0
+349,How long is Boulevard du Temple in the Paris area?,B,800.0,400.0,120.0,100.0,1200.0
+350,How long is Rue Caulaincourt in the Paris area?,E,600.0,100.0,400.0,100.0,200.0
+351,How long is Place Henri Salvador in the Paris area?,D,100.0,0.0,0.0,0.0,100.0
+352,How long is Rue Paul Barruel in the Paris area?,E,240.0,100.0,1600.0,2400.0,800.0
+353,How long is Rue Nationale in the Paris area?,A,2600.0,7800.0,5200.0,260.0,780.0
+354,How long is Rue Le Peletier in the Paris area?,C,600.0,100.0,300.0,900.0,100.0
+355,How long is Avenue de la Porte de la Plaine in the Paris area?,C,1200.0,800.0,400.0,120.0,100.0
+356,How long is Avenue de Clichy in the Paris area?,C,100.0,240.0,800.0,2400.0,1600.0
+357,How long is Boulevard de Reuilly in the Paris area?,E,1500.0,100.0,1000.0,150.0,500.0
+358,How long is Rue du Château in the Paris area?,C,100.0,210.0,700.0,2100.0,1400.0
+359,How long is Rue de Vienne in the Paris area?,E,300.0,200.0,100.0,100.0,100.0
+360,How long is Avenue de Taillebourg in the Paris area?,E,1500.0,100.0,150.0,1000.0,500.0
+361,How long is Place de Catalogne in the Paris area?,D,1400.0,2100.0,210.0,700.0,100.0
+362,How long is Rue du 8 Mai 1945 in the Paris area?,A,200.0,600.0,100.0,400.0,100.0
+363,How long is Place de la Bastille in the Paris area?,E,100.0,0.0,0.0,100.0,0.0
+364,How long is Boulevard Beaumarchais in the Paris area?,A,500.0,1000.0,100.0,150.0,1500.0
+365,How long is Boulevard de Sébastopol in the Paris area?,D,240.0,2400.0,1600.0,800.0,100.0
+366,How long is Rue Haxo in the Paris area?,B,400.0,200.0,100.0,100.0,600.0
+367,How long is Avenue du Général Leclerc in the Paris area?,C,180.0,100.0,600.0,1800.0,1200.0
+368,How long is Avenue Jean Moulin in the Paris area?,E,100.0,400.0,100.0,600.0,200.0
+369,How long is Boulevard des Italiens in the Paris area?,D,100.0,100.0,600.0,200.0,400.0
+370,How long is Rue Jean-Baptiste Berlier in the Paris area?,E,2100.0,1400.0,210.0,100.0,700.0
+371,How long is Quai Saint-Michel in the Paris area?,C,100.0,100.0,100.0,200.0,300.0
+372,How long is Quai des Grands Augustins in the Paris area?,D,100.0,100.0,200.0,100.0,300.0
+373,How long is Place Saint-Michel in the Paris area?,B,100.0,300.0,600.0,100.0,900.0
+374,How long is Pont Saint-Michel in the Paris area?,C,600.0,100.0,200.0,100.0,400.0
+375,How long is Boulevard Bourdon in the Paris area?,E,100.0,150.0,1500.0,1000.0,500.0
+376,How long is Pont Morland in the Paris area?,E,200.0,300.0,100.0,100.0,100.0
+377,How long is Boulevard Morland in the Paris area?,D,800.0,120.0,100.0,400.0,1200.0
+378,How long is Rue Lagrange in the Paris area?,E,300.0,200.0,100.0,100.0,100.0
+379,How long is Rue des Grands Moulins in the Paris area?,E,0.0,0.0,100.0,100.0,0.0
+380,How long is Rue Saint-Paul in the Paris area?,A,400.0,800.0,1200.0,100.0,120.0
+381,How long is Place Clemenceau in the Paris area?,E,0.0,100.0,0.0,100.0,0.0
+382,How long is Boulevard Gouvion-Saint-Cyr in the Paris area?,C,110.0,2200.0,1100.0,330.0,3300.0
+383,How long is Avenue de Messine in the Paris area?,B,1200.0,600.0,100.0,1800.0,180.0
+384,How long is Place Étienne Pernet in the Paris area?,B,900.0,300.0,100.0,100.0,600.0
+385,How long is Rue de Richelieu in the Paris area?,C,100.0,2700.0,900.0,1800.0,270.0
+386,How long is Rue Royale in the Paris area?,C,600.0,100.0,200.0,100.0,400.0
+387,How long is Rue Danton in the Paris area?,E,0.0,100.0,100.0,0.0,0.0
+388,How long is Rue de Constantine in the Paris area?,B,100.0,700.0,210.0,1400.0,2100.0
+389,How long is Rue Honoré d'Estienne d'Orves in the Paris area?,B,180.0,600.0,100.0,1800.0,1200.0
+390,How long is Rue Dante in the Paris area?,A,200.0,100.0,400.0,100.0,600.0
+391,How long is Place du Petit Pont in the Paris area?,D,100.0,100.0,300.0,100.0,200.0
+392,How long is Boulevard de Belleville in the Paris area?,A,1300.0,2600.0,390.0,130.0,3900.0
+393,How long is Rue du Caporal Peugeot in the Paris area?,D,0.0,100.0,0.0,0.0,100.0
+394,How long is Rue du Temple in the Paris area?,A,400.0,120.0,1200.0,100.0,800.0
+395,How long is Rue Damrémont in the Paris area?,E,1800.0,1200.0,180.0,100.0,600.0
+396,How long is Rue de Turbigo in the Paris area?,D,4800.0,480.0,160.0,1600.0,3200.0
+397,How long is Rue Réaumur in the Paris area?,D,270.0,1800.0,2700.0,900.0,100.0
+398,How long is Rue Geoffroy Saint-Hilaire in the Paris area?,E,200.0,100.0,300.0,100.0,100.0
+399,How long is Place Théophile Bader in the Paris area?,A,800.0,1600.0,100.0,2400.0,240.0
+400,How long is Rue de Lyon in the Paris area?,C,100.0,600.0,200.0,100.0,400.0
+401,How long is Rue du Grenier Saint-Lazare in the Paris area?,B,150.0,500.0,1500.0,100.0,1000.0
+402,How long is Rue Botzaris in the Paris area?,E,7500.0,5000.0,250.0,750.0,2500.0
+403,How long is Rue du Cherche-Midi in the Paris area?,D,400.0,100.0,600.0,200.0,100.0
+404,How long is Rue de Chalon in the Paris area?,A,600.0,180.0,1200.0,1800.0,100.0
+405,How long is Rue Van Gogh in the Paris area?,B,100.0,300.0,100.0,600.0,900.0
+406,How long is Rue des Fossés Saint-Marcel in the Paris area?,C,100.0,600.0,200.0,100.0,400.0
+407,How long is Rue Riquet in the Paris area?,D,1200.0,100.0,1800.0,600.0,180.0
+408,How long is Avenue de la Liberté in the Paris area?,E,0.0,100.0,100.0,0.0,0.0
+409,How long is Rue Doudeauville in the Paris area?,C,1400.0,2100.0,700.0,100.0,210.0
+410,How long is Rue de Saint-Pétersbourg in the Paris area?,B,800.0,400.0,120.0,1200.0,100.0
+411,How long is Avenue du Général Lemonnier in the Paris area?,B,1200.0,400.0,120.0,800.0,100.0
+412,How long is Avenue Claude Vellefaux in the Paris area?,D,3200.0,480.0,4800.0,1600.0,160.0
+413,How long is Quai Henri IV in the Paris area?,C,1000.0,1500.0,500.0,100.0,150.0
+414,How long is Boulevard Henri IV in the Paris area?,B,400.0,200.0,600.0,100.0,100.0
+415,How long is Place Nationale in the Paris area?,D,100.0,0.0,0.0,0.0,100.0
+416,How long is Place du Châtelet in the Paris area?,D,0.0,0.0,100.0,0.0,100.0
+417,How long is Quai de Gesvres in the Paris area?,E,100.0,200.0,300.0,100.0,100.0
+418,How long is Quai de la Mégisserie in the Paris area?,E,200.0,100.0,300.0,100.0,100.0
+419,How long is Rue d'Aubervilliers in the Paris area?,C,100.0,270.0,900.0,1800.0,2700.0
+420,How long is Pont Royal in the Paris area?,E,100.0,0.0,0.0,100.0,0.0
+421,How long is Quai François Mitterrand in the Paris area?,E,600.0,100.0,100.0,900.0,300.0
+422,How long is Rue Lachambeaudie in the Paris area?,E,0.0,0.0,100.0,100.0,0.0
+423,How long is Place Jeanne d'Arc in the Paris area?,B,100.0,200.0,100.0,600.0,400.0
+424,How long is Pont Notre-Dame in the Paris area?,C,100.0,1200.0,400.0,800.0,120.0
+425,How long is Quai de Montebello in the Paris area?,E,0.0,100.0,100.0,0.0,0.0
+426,How long is Rue Traversière in the Paris area?,E,100.0,300.0,100.0,200.0,100.0
+427,How long is Quai Valéry Giscard d'Estaing in the Paris area?,D,200.0,100.0,100.0,100.0,300.0
+428,How long is Rond-Point du Bleuet de France in the Paris area?,D,0.0,100.0,0.0,0.0,100.0
+429,How long is Place de l'Amiral de Grasse in the Paris area?,E,100.0,100.0,300.0,200.0,100.0
+430,How long is Place de l'Hôtel de Ville in the Paris area?,E,100.0,100.0,300.0,200.0,100.0
+431,How long is Place du Maquis du Vercors in the Paris area?,E,300.0,100.0,200.0,100.0,100.0
+432,How long is Rue Gaston Boissier in the Paris area?,E,1500.0,150.0,1000.0,100.0,500.0
+433,How long is Rue Corneille in the Paris area?,E,0.0,0.0,100.0,100.0,0.0
+434,How long is Place de la Porte de Pantin in the Paris area?,E,100.0,0.0,100.0,0.0,0.0
+435,How long is Avenue de la Porte de Pantin in the Paris area?,C,0.0,0.0,0.0,100.0,100.0
+436,How long is Rue Falguière in the Paris area?,E,750.0,250.0,7500.0,5000.0,2500.0
+437,How long is Boulevard du Général d'Armée Jean Simon in the Paris area?,C,100.0,800.0,400.0,120.0,1200.0
+438,How long is Pont de la Tournelle in the Paris area?,E,400.0,100.0,100.0,600.0,200.0
+439,How long is Rue Curial in the Paris area?,E,100.0,0.0,0.0,100.0,0.0
+440,How long is Passage Victor Marchand in the Paris area?,E,100.0,100.0,0.0,0.0,0.0
+441,How long is Place de Narvik in the Paris area?,C,0.0,0.0,0.0,100.0,100.0
+442,How long is Rue Pétel in the Paris area?,C,210.0,100.0,700.0,2100.0,1400.0
+443,How long is Place Saint-Georges in the Paris area?,E,100.0,100.0,0.0,0.0,0.0
+444,How long is Quai du Louvre in the Paris area?,D,100.0,0.0,0.0,0.0,100.0
+445,How long is Place de la République Dominicaine in the Paris area?,C,0.0,0.0,0.0,100.0,100.0
+446,How long is Quai de Conti in the Paris area?,C,100.0,600.0,200.0,100.0,400.0
+447,How long is Rue Bonaparte in the Paris area?,E,300.0,100.0,200.0,100.0,100.0
+448,How long is Rue Saint-Antoine in the Paris area?,D,0.0,0.0,100.0,0.0,100.0

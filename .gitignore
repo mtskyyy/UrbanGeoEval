@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.env.*
+.sumi/
+.venv/
+__pycache__/
+*.py[cod]
+/evaluate/urban_eval/results/
+/outputs/
+/paper.pdf

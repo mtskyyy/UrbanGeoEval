@@ -1,0 +1,263 @@
+id,question,answer,A,B,C,D
+0,"In the San Francisco area, which road directly reaches Phelps Street?",A,3rd Street,30th Avenue,Market Street,10th Avenue
+1,"In the San Francisco area, which road cannot directly reach 3rd Street?",C,Cargo Way,King Street,Hawthorne Street,Lane Street
+2,"In the San Francisco area, which road directly reaches Newhall Street?",A,3rd Street,Plymouth Avenue,Legion of Honor Drive,Fremont Street
+3,"In the San Francisco area, which road cannot directly reach Sunset Boulevard?",B,Martin Luther King Junior Drive,Jackson Street,Judah Street,Vicente Street
+4,"In the San Francisco area, which road cannot directly reach 36th Avenue?",A,Lyell Street,Sunset Boulevard,John F Kennedy Drive,Sloat Boulevard
+5,"In the San Francisco area, which road directly reaches Keith Street?",A,3rd Street,Southern Embarcadero Freeway,Lake Merced Boulevard,Fremont Street
+6,"In the San Francisco area, which road directly reaches Lane Street?",D,Sickles Avenue,Park Boulevard,Van Ness Avenue,3rd Street
+7,"In the San Francisco area, which road directly reaches Great Highway Extension?",B,Bay Street,Sloat Boulevard,Ocean Avenue,Halleck Street
+8,"In the San Francisco area, which road cannot directly reach Sloat Boulevard?",D,Junipero Serra Boulevard,Portola Drive,Saint Francis Boulevard,Nancy Pelosi Drive
+9,"In the San Francisco area, which road directly reaches Circular Avenue?",B,Paul Avenue,Monterey Boulevard,West Portal Avenue,Plymouth Avenue
+10,"In the San Francisco area, which road cannot directly reach Monterey Boulevard?",A,Jerrold Avenue,Teresita Boulevard,Yerba Buena Avenue,Plymouth Avenue
+11,"In the San Francisco area, which road cannot directly reach Fulton Street?",A,Van Ness Avenue,Park Presidio Bypass Drive,Divisadero Street,Great Highway
+12,"In the San Francisco area, which road cannot directly reach Webster Street?",D,Oak Street,Sutter Street,Turk Street,Vicente Street
+13,"In the San Francisco area, which road cannot directly reach Gilman Avenue?",B,3rd Street,Anza Street,Jamestown Avenue,Paul Avenue
+14,"In the San Francisco area, which road cannot directly reach Paul Avenue?",A,Halleck Street,3rd Street,Gilman Avenue,San Bruno Avenue
+15,"In the San Francisco area, which road cannot directly reach Bayshore Boulevard?",D,Industrial Street,Visitacion Avenue,Bacon Street,8th Street
+16,"In the San Francisco area, which road directly reaches Jerrold Avenue?",D,Visitacion Avenue,Quint Street,Anza Avenue,Bayshore Boulevard
+17,"In the San Francisco area, which road cannot directly reach 16th Street?",A,Howard Street,Terry A. François Boulevard,Dolores Street,Mississippi Street
+18,"In the San Francisco area, which road cannot directly reach Mariposa Street?",D,Terry A. François Boulevard,Owens Street,Vermont Street,Union Street
+19,"In the San Francisco area, which road cannot directly reach Stanyan Street?",C,Anza Street,Kezar Drive,Franklin Street,17th Street
+20,"In the San Francisco area, which road cannot directly reach Anza Street?",B,Arguello Boulevard,Silver Avenue,Masonic Avenue,Stanyan Street
+21,"In the San Francisco area, which road cannot directly reach Post Street?",B,Grant Avenue,10th Avenue,Van Ness Avenue,Hyde Street
+22,"In the San Francisco area, which road cannot directly reach Divisadero Street?",B,Fell Street,McAllister Street,Haight Street,Castro Street
+23,"In the San Francisco area, which road cannot directly reach 13th Street?",D,Duboce Avenue,South Van Ness Avenue,Harrison Street,10th Street
+24,"In the San Francisco area, which road cannot directly reach Duboce Avenue?",B,Guerrero Street,Turk Boulevard,Otis Street,Valencia Street
+25,"In the San Francisco area, which road cannot directly reach Mission Street?",C,3rd Street,9th Street,Leavenworth Street,17th Street
+26,"In the San Francisco area, which road cannot directly reach Otis Street?",C,Duboce Avenue,McCoppin Street,Van Ness Avenue,Gough Street
+27,"In the San Francisco area, which road cannot directly reach 7th Avenue?",B,Laguna Honda Boulevard,Mission Street,Lincoln Way,Judah Street
+28,"In the San Francisco area, which road cannot directly reach Judah Street?",A,Jones Street,La Playa Street,19th Avenue,Sunset Boulevard
+29,"In the San Francisco area, which road cannot directly reach Laguna Honda Boulevard?",B,Dewey Boulevard,Union Street,Judah Street,Woodside Avenue
+30,"In the San Francisco area, which road cannot directly reach 19th Avenue?",A,7th Street,Broad Street,Martin Luther King Junior Drive,Plymouth Avenue
+31,"In the San Francisco area, which road cannot directly reach Winston Drive?",D,Junipero Serra Boulevard,19th Avenue,Lake Merced Boulevard,The Embarcadero
+32,"In the San Francisco area, which road cannot directly reach 6th Street?",C,Folsom Street,Market Street,Starr King Way,Bryant Street
+33,"In the San Francisco area, which road cannot directly reach Brannan Street?",D,Division Street,9th Street,Potrero Avenue,Claremont Boulevard
+34,"In the San Francisco area, which road cannot directly reach Woodside Avenue?",D,Dewey Boulevard,O'Shaughnessy Boulevard,Laguna Honda Boulevard,Lincoln Way
+35,"In the San Francisco area, which road cannot directly reach Portola Drive?",C,San Pablo Avenue,Laguna Honda Boulevard,17th Street,Market Street
+36,"In the San Francisco area, which road cannot directly reach O'Shaughnessy Boulevard?",D,Portola Drive,Woodside Avenue,Diamond Heights Boulevard,13th Street
+37,"In the San Francisco area, which road cannot directly reach Junipero Serra Boulevard?",D,Sloat Boulevard,Winston Drive,Portola Drive,Claremont Boulevard
+38,"In the San Francisco area, which road cannot directly reach Ocean Avenue?",A,Monterey Boulevard,19th Avenue,Junipero Serra Boulevard,Geneva Avenue
+39,"In the San Francisco area, which road cannot directly reach Mississippi Street?",D,Mariposa Street,7th Street,16th Street,Persia Avenue
+40,"In the San Francisco area, which road cannot directly reach 7th Street?",C,Charles J. Brenham Place,Howard Street,Claremont Boulevard,Mississippi Street
+41,"In the San Francisco area, which road cannot directly reach Silver Avenue?",B,Quint Street,South Van Ness Avenue,Mission Street,Alemany Boulevard
+42,"In the San Francisco area, which road cannot directly reach McAllister Street?",D,Market Street,Franklin Street,Hyde Street,18th Street
+43,"In the San Francisco area, which road cannot directly reach Polk Street?",B,Turk Street,Arguello Boulevard,Geary Street,Union Street
+44,"In the San Francisco area, which road cannot directly reach Lombard Street?",D,Franklin Street,Presidio Boulevard,Hyde Street,McAllister Street
+45,"In the San Francisco area, which road cannot directly reach Masonic Avenue?",C,Golden Gate Avenue,Fell Street,Mission Bay Drive,Frederick Street
+46,"In the San Francisco area, which road cannot directly reach Geary Boulevard?",B,Franklin Street,Cornwall Street,Presidio Avenue,Masonic Avenue
+47,"In the San Francisco area, which road cannot directly reach Van Ness Avenue?",C,Fell Street,North Point Street,Innes Avenue,South Van Ness Avenue
+48,"In the San Francisco area, which road cannot directly reach 11th Street?",B,Division Street,Union Street,Harrison Street,Market Street
+49,"In the San Francisco area, which road cannot directly reach Fillmore Street?",B,Post Street,McCoppin Street,Bay Street,Geary Boulevard
+50,"In the San Francisco area, which road cannot directly reach Broadway?",B,Powell Street,Mayfair Drive,Franklin Street,The Embarcadero
+51,"In the San Francisco area, which road cannot directly reach Powell Street?",A,Ocean Avenue,O'Farrell Street,Sacramento Street,Broadway
+52,"In the San Francisco area, which road cannot directly reach Market Street?",A,Post Street,Main Street,Bush Street,Montgomery Street
+53,"In the San Francisco area, which road cannot directly reach Octavia Boulevard?",D,Market Street,Fell Street,Oak Street,Teresita Boulevard
+54,"In the San Francisco area, which road cannot directly reach South Van Ness Avenue?",D,Howard Street,24th Street,Cesar Chavez Street,Laguna Street
+55,"In the San Francisco area, which road cannot directly reach 24th Street?",D,Guerrero Street,Folsom Street,Harrison Street,Crossover Drive
+56,"In the San Francisco area, which road cannot directly reach Harrison Street?",C,Spear Street,16th Street,Veterans Boulevard,8th Street
+57,"In the San Francisco area, which road cannot directly reach 17th Street?",C,Harrison Street,Roosevelt Way,Crescent Avenue,Bryant Street
+58,"In the San Francisco area, which road cannot directly reach Arguello Boulevard?",A,Cesar Chavez Street,Sheridan Avenue,Geary Boulevard,Infantry Terrace
+59,"In the San Francisco area, which road cannot directly reach California Street?",C,Montgomery Street,Front Street,Harney Way,Larkin Street
+60,"In the San Francisco area, which road cannot directly reach Dolores Street?",A,John F Kennedy Drive,Cesar Chavez Street,18th Street,24th Street
+61,"In the San Francisco area, which road cannot directly reach Guerrero Street?",D,16th Street,San Jose Avenue,30th Street,Palou Avenue
+62,"In the San Francisco area, which road cannot directly reach Gough Street?",C,Geary Boulevard,Lombard Street,41st Avenue,California Street
+63,"In the San Francisco area, which road cannot directly reach Veterans Boulevard?",A,O'Farrell Street,California Street,Park Presidio Boulevard,Presidio Parkway
+64,"In the San Francisco area, which road cannot directly reach Park Presidio Boulevard?",D,Veterans Boulevard,Fulton Street,Geary Boulevard,Saint Francis Boulevard
+65,"In the San Francisco area, which road cannot directly reach 25th Avenue?",B,Clement Street,Cesar Chavez Street,Crossover Drive,El Camino del Mar
+66,"In the San Francisco area, which road cannot directly reach Clement Street?",D,Legion of Honor Drive,34th Avenue,California Street,Alemany Boulevard
+67,"In the San Francisco area, which road cannot directly reach San Jose Avenue?",C,Plymouth Avenue,Ocean Avenue,4th Street,Broad Street
+68,"In the San Francisco area, which road cannot directly reach Cesar Chavez Street?",A,Drumm Street,3rd Street,Dolores Street,Mission Street
+69,"In the San Francisco area, which road cannot directly reach North Point Street?",B,Hyde Street,Ocean Avenue,Columbus Avenue,Van Ness Avenue
+70,"In the San Francisco area, which road cannot directly reach Hyde Street?",C,Union Street,Bay Street,Scott Street,McAllister Street
+71,"In the San Francisco area, which road cannot directly reach Bryant Street?",B,9th Street,Golden Gate Avenue,11th Street,7th Street
+72,"In the San Francisco area, which road cannot directly reach Bay Street?",A,Illinois Street,Hyde Street,Columbus Avenue,Cervantes Boulevard
+73,"In the San Francisco area, which road cannot directly reach 30th Street?",B,Dolores Street,Geary Boulevard,San Jose Avenue,Guerrero Street
+74,"In the San Francisco area, which road cannot directly reach Castro Street?",A,3rd Street,Clipper Street,14th Street,24th Street
+75,"In the San Francisco area, which road cannot directly reach Main Street?",D,Harrison Street,Market Street,Mission Street,Lincoln Boulevard
+76,"In the San Francisco area, which road cannot directly reach Turk Boulevard?",D,Stanyan Street,Masonic Avenue,Arguello Boulevard,Blanken Avenue
+77,"In the San Francisco area, which road cannot directly reach Balboa Street?",C,Arguello Boulevard,25th Avenue,Townsend Street,Great Highway
+78,"In the San Francisco area, which road cannot directly reach Taraval Street?",A,Oakdale Avenue,Great Highway,Sunset Boulevard,14th Avenue
+79,"In the San Francisco area, which road cannot directly reach 14th Avenue?",A,Van Ness Avenue,10th Avenue,Portola Drive,Vicente Street
+80,"In the San Francisco area, which road directly reaches Holloway Avenue?",A,Junipero Serra Boulevard,9th Street,Front Street,Polk Street
+81,"In the San Francisco area, which road cannot directly reach Columbus Avenue?",A,13th Street,Kearny Street,Bay Street,Montgomery Street
+82,"In the San Francisco area, which road cannot directly reach Alemany Boulevard?",C,Geneva Avenue,Bayshore Boulevard,La Playa Street,Ocean Avenue
+83,"In the San Francisco area, which road cannot directly reach Geneva Avenue?",C,South Hill Boulevard,San Jose Avenue,John F Kennedy Drive,Mission Street
+84,"In the San Francisco area, which road cannot directly reach Presidio Avenue?",D,Euclid Avenue,Presidio Boulevard,Post Street,Mason Street
+85,"In the San Francisco area, which road cannot directly reach Presidio Boulevard?",A,24th Street,Lincoln Boulevard,California Street,Presidio Avenue
+86,"In the San Francisco area, which road cannot directly reach John F Kennedy Drive?",A,7th Street,Chain of Lakes Drive East,47th Avenue,36th Avenue
+87,"In the San Francisco area, which road cannot directly reach Chain of Lakes Drive East?",D,Fulton Street,John F Kennedy Drive,Lincoln Way,Post Street
+88,"In the San Francisco area, which road cannot directly reach Fell Street?",D,Divisadero Street,Octavia Boulevard,Van Ness Avenue,Crestlake Drive
+89,"In the San Francisco area, which road cannot directly reach Kezar Drive?",B,Stanyan Street,Main Street,Martin Luther King Junior Drive,Fell Street
+90,"In the San Francisco area, which road cannot directly reach Clayton Street?",A,Pine Street,Ashbury Street,17th Street,Twin Peaks Boulevard
+91,"In the San Francisco area, which road cannot directly reach San Bruno Avenue?",D,Mansell Street,Bacon Street,Bayshore Boulevard,Pennsylvania Avenue
+92,"In the San Francisco area, which road cannot directly reach 14th Street?",D,Castro Street,Market Street,Roosevelt Way,Merchant Road
+93,"In the San Francisco area, which road cannot directly reach Frederick Street?",C,Clayton Street,Masonic Avenue,Santa Clara Avenue,Lincoln Way
+94,"In the San Francisco area, which road cannot directly reach Park Presidio Bypass Drive?",C,Crossover Drive,Park Presidio Boulevard,Point Lobos Avenue,Fulton Street
+95,"In the San Francisco area, which road cannot directly reach Crossover Drive?",C,John F Kennedy Drive,Martin Luther King Junior Drive,McAllister Street,25th Avenue
+96,"In the San Francisco area, which road cannot directly reach Lincoln Way?",C,7th Avenue,Frederick Street,Santa Clara Avenue,Chain of Lakes Drive East
+97,"In the San Francisco area, which road cannot directly reach 5th Street?",C,Cyril Magnin Street,Mission Street,Palmetto Avenue,Harrison Street
+98,"In the San Francisco area, which road cannot directly reach Vicente Street?",D,Santa Clara Avenue,West Portal Avenue,Great Highway,Teresita Boulevard
+99,"In the San Francisco area, which road cannot directly reach Haight Street?",A,Lincoln Way,Divisadero Street,Clayton Street,Masonic Avenue
+100,"In the San Francisco area, which road cannot directly reach La Playa Street?",A,San Pablo Avenue,Judah Street,Kirkham Street,Lincoln Way
+101,"In the San Francisco area, which road cannot directly reach Santa Clara Avenue?",C,Monterey Boulevard,Vicente Street,3rd Street,Yerba Buena Avenue
+102,"In the San Francisco area, which road cannot directly reach Cervantes Boulevard?",A,Amador Street,Bay Street,Fillmore Street,Marina Boulevard
+103,"In the San Francisco area, which road cannot directly reach Folsom Street?",C,4th Street,Main Street,14th Avenue,6th Street
+104,"In the San Francisco area, which road cannot directly reach Evans Avenue?",A,Mayfair Drive,3rd Street,Hunters Point Boulevard,Cesar Chavez Street
+105,"In the San Francisco area, which road cannot directly reach Plymouth Avenue?",A,Scott Street,Monterey Boulevard,Ocean Avenue,19th Avenue
+106,"In the San Francisco area, which road cannot directly reach Broad Street?",D,Plymouth Avenue,San Jose Avenue,19th Avenue,Drumm Street
+107,"In the San Francisco area, which road cannot directly reach 18th Street?",A,Harrison Street,Castro Street,Folsom Street,Dolores Street
+108,"In the San Francisco area, which road cannot directly reach West Portal Avenue?",B,Sloat Boulevard,Great Highway,Vicente Street,14th Avenue
+109,"In the San Francisco area, which road cannot directly reach Valencia Street?",D,16th Street,Gough Street,18th Street,Hawthorne Street
+110,"In the San Francisco area, which road cannot directly reach Division Street?",B,Brannan Street,Visitacion Avenue,10th Street,Potrero Avenue
+111,"In the San Francisco area, which road cannot directly reach 10th Street?",D,Mission Street,Howard Street,Bryant Street,Dewey Boulevard
+112,"In the San Francisco area, which road cannot directly reach Potrero Avenue?",B,17th Street,South Hill Boulevard,Division Street,16th Street
+113,"In the San Francisco area, which road cannot directly reach Sansome Street?",A,Franklin Street,Washington Street,Sutter Street,California Street
+114,"In the San Francisco area, which road cannot directly reach Persia Avenue?",B,Ocean Avenue,Skyline Boulevard,Mission Street,Mansell Street
+115,"In the San Francisco area, which road cannot directly reach 2nd Street?",A,Merchant Road,Harrison Street,Townsend Street,Mission Street
+116,"In the San Francisco area, which road cannot directly reach Southern Embarcadero Freeway?",B,4th Street,47th Avenue,Indiana Street,King Street
+117,"In the San Francisco area, which road cannot directly reach 4th Street?",D,Folsom Street,Howard Street,Brannan Street,Montgomery Street
+118,"In the San Francisco area, which road cannot directly reach King Street?",A,Mason Street,2nd Street,Southern Embarcadero Freeway,4th Street
+119,"In the San Francisco area, which road cannot directly reach Sickles Avenue?",A,Jerrold Avenue,San Jose Avenue,Alemany Boulevard,Plymouth Avenue
+120,"In the San Francisco area, which road directly reaches Owens Street?",B,Nevada Street,Mariposa Street,19th Avenue,Richardson Avenue
+121,"In the San Francisco area, which road cannot directly reach Noriega Street?",D,Sunset Boulevard,Great Highway,19th Avenue,Masonic Avenue
+122,"In the San Francisco area, which road cannot directly reach Fremont Street?",D,Harrison Street,Folsom Street,Market Street,Turk Boulevard
+123,"In the San Francisco area, which road cannot directly reach Townsend Street?",A,Winston Drive,4th Street,7th Street,8th Street
+124,"In the San Francisco area, which road cannot directly reach Stockton Street?",A,Digby Street,Jackson Street,Columbus Avenue,Broadway
+125,"In the San Francisco area, which road cannot directly reach Martin Luther King Junior Drive?",D,Crossover Drive,Lincoln Way,Kezar Drive,17th Street
+126,"In the San Francisco area, which road cannot directly reach Union Street?",A,Teresita Boulevard,Hyde Street,Fillmore Street,Polk Street
+127,"In the San Francisco area, which road cannot directly reach 8th Street?",B,Howard Street,John Muir Drive,Folsom Street,Mission Street
+128,"In the San Francisco area, which road cannot directly reach Montgomery Street?",B,Washington Street,18th Street,Clay Street,Columbus Avenue
+129,"In the San Francisco area, which road cannot directly reach Howard Street?",B,8th Street,Spruce Street,Beale Street,1st Street
+130,"In the San Francisco area, which road cannot directly reach Golden Gate Avenue?",C,Jones Street,Franklin Street,Holloway Avenue,Hyde Street
+131,"In the San Francisco area, which road cannot directly reach Pennsylvania Avenue?",A,Castro Street,18th Street,20th Street,Cesar Chavez Street
+132,"In the San Francisco area, which road cannot directly reach Cyril Magnin Street?",B,5th Street,Sagamore Street,O'Farrell Street,Ellis Street
+133,"In the San Francisco area, which road cannot directly reach Charles J. Brenham Place?",A,10th Avenue,McAllister Street,Market Street,7th Street
+134,"In the San Francisco area, which road cannot directly reach 9th Street?",B,Howard Street,Castro Street,Market Street,Brannan Street
+135,"In the San Francisco area, which road cannot directly reach Larkin Street?",C,Geary Street,Turk Street,South Van Ness Avenue,Pine Street
+136,"In the San Francisco area, which road cannot directly reach Spear Street?",A,Balboa Street,Howard Street,Harrison Street,Mission Street
+137,"In the San Francisco area, which road cannot directly reach Sagamore Street?",A,Washington Boulevard,Plymouth Avenue,San Jose Avenue,Sickles Avenue
+138,"In the San Francisco area, which road cannot directly reach Pine Street?",B,Powell Street,Clayton Street,Battery Street,Fillmore Street
+139,"In the San Francisco area, which road cannot directly reach Industrial Street?",D,Bayshore Boulevard,Alemany Boulevard,Oakdale Avenue,Laguna Street
+140,"In the San Francisco area, which road cannot directly reach Saint Francis Boulevard?",B,Portola Drive,Golden Gate Avenue,Sloat Boulevard,Santa Clara Avenue
+141,"In the San Francisco area, which road cannot directly reach Euclid Avenue?",A,La Playa Street,Arguello Boulevard,Masonic Avenue,Presidio Avenue
+142,"In the San Francisco area, which road cannot directly reach Marina Boulevard?",B,Divisadero Street,Veterans Boulevard,Scott Street,Cervantes Boulevard
+143,"In the San Francisco area, which road cannot directly reach Mason Street?",B,Marina Boulevard,7th Avenue,Halleck Street,Park Boulevard
+144,"In the San Francisco area, which road directly reaches Merchant Road?",D,Park Presidio Boulevard,Winston Drive,Digby Street,Lincoln Boulevard
+145,"In the San Francisco area, which road cannot directly reach Lincoln Boulevard?",B,Sheridan Avenue,Mission Bay Drive,Kobbe Avenue,Halleck Street
+146,"In the San Francisco area, which road directly reaches Davis Street?",A,California Street,Washington Street,Santa Clara Avenue,41st Avenue
+147,"In the San Francisco area, which road cannot directly reach Clipper Street?",B,Diamond Heights Boulevard,Plymouth Avenue,Portola Drive,Dolores Street
+148,"In the San Francisco area, which road cannot directly reach The Embarcadero?",D,Mission Street,Bryant Street,Washington Street,30th Street
+149,"In the San Francisco area, which road directly reaches Infantry Terrace?",B,4th Street,Arguello Boulevard,Cesar Chavez Street,Skyline Boulevard
+150,"In the San Francisco area, which road cannot directly reach Sheridan Avenue?",B,Arguello Boulevard,Lyon Street,Infantry Terrace,Lincoln Boulevard
+151,"In the San Francisco area, which road cannot directly reach Dewey Boulevard?",C,Taraval Street,Pacheco Street,Twin Peaks Boulevard,Laguna Honda Boulevard
+152,"In the San Francisco area, which road directly reaches Diamond Street?",D,Vermont Street,Alemany Boulevard,Davis Street,Monterey Boulevard
+153,"In the San Francisco area, which road directly reaches Cargo Way?",A,3rd Street,Junipero Serra Boulevard,Merchant Road,Eureka Street
+154,"In the San Francisco area, which road cannot directly reach 47th Avenue?",B,Fulton Street,Junipero Serra Boulevard,John F Kennedy Drive,Sloat Boulevard
+155,"In the San Francisco area, which road cannot directly reach Great Highway?",B,47th Avenue,Crestlake Drive,Vicente Street,Point Lobos Avenue
+156,"In the San Francisco area, which road cannot directly reach Clarendon Avenue?",D,Twin Peaks Boulevard,Panorama Drive,Laguna Honda Boulevard,Front Street
+157,"In the San Francisco area, which road cannot directly reach Twin Peaks Boulevard?",B,Panorama Drive,South Hill Boulevard,Clayton Street,Portola Drive
+158,"In the San Francisco area, which road directly reaches Channel Street?",D,Broad Street,Van Ness Avenue,9th Street,4th Street
+159,"In the San Francisco area, which road cannot directly reach Skyline Boulevard?",C,John Muir Drive,Great Highway Extension,Cyril Magnin Street,Sloat Boulevard
+160,"In the San Francisco area, which road directly reaches John Muir Drive?",D,Judah Street,Collins Street,Amador Street,Skyline Boulevard
+161,"In the San Francisco area, which road directly reaches New Montgomery Street?",B,Collins Street,Howard Street,Clement Street,Richardson Avenue
+162,"In the San Francisco area, which road directly reaches Innes Avenue?",D,The Embarcadero,O'Shaughnessy Boulevard,34th Avenue,Hunters Point Boulevard
+163,"In the San Francisco area, which road directly reaches Hunters Point Boulevard?",C,4th Street,Laguna Street,Evans Avenue,O'Farrell Street
+164,"In the San Francisco area, which road cannot directly reach Jackson Street?",D,Montgomery Street,Columbus Avenue,Battery Street,Guerrero Street
+165,"In the San Francisco area, which road cannot directly reach Harney Way?",A,Larkin Street,Executive Park Boulevard,Gilman Avenue,Jamestown Avenue
+166,"In the San Francisco area, which road directly reaches Executive Park Boulevard?",A,Harney Way,41st Avenue,Taylor Street,Mission Bay Drive
+167,"In the San Francisco area, which road cannot directly reach Terry A. François Boulevard?",C,16th Street,Mariposa Street,Spruce Street,Illinois Street
+168,"In the San Francisco area, which road directly reaches Park Boulevard?",D,Hyde Street,Folsom Street,Newhall Street,Lincoln Boulevard
+169,"In the San Francisco area, which road cannot directly reach Franklin Street?",C,Fell Street,Starr King Way,25th Avenue,Lombard Street
+170,"In the San Francisco area, which road cannot directly reach Claremont Boulevard?",C,Portola Drive,Dewey Boulevard,Masonic Avenue,Taraval Street
+171,"In the San Francisco area, which road cannot directly reach Oakdale Avenue?",D,Quint Street,Bayshore Boulevard,3rd Street,New Montgomery Street
+172,"In the San Francisco area, which road cannot directly reach Bosworth Street?",C,Diamond Heights Boulevard,Lyell Street,Geary Street,Diamond Street
+173,"In the San Francisco area, which road cannot directly reach Jamestown Avenue?",D,Gilman Avenue,3rd Street,Harney Way,41st Avenue
+174,"In the San Francisco area, which road cannot directly reach Turk Street?",A,O'Farrell Street,Divisadero Street,Taylor Street,Jones Street
+175,"In the San Francisco area, which road cannot directly reach Yerba Buena Avenue?",C,Plymouth Avenue,Santa Clara Avenue,Front Street,Miraloma Drive
+176,"In the San Francisco area, which road cannot directly reach McCoppin Street?",B,Otis Street,Geary Boulevard,Gough Street,Valencia Street
+177,"In the San Francisco area, which road cannot directly reach Cortland Avenue?",A,Santa Clara Avenue,Nevada Street,Bayshore Boulevard,Mission Street
+178,"In the San Francisco area, which road cannot directly reach Nevada Street?",B,Cortland Avenue,Merchant Road,Folsom Street,Alabama Street
+179,"In the San Francisco area, which road cannot directly reach Alabama Street?",A,Castro Street,Nevada Street,Cesar Chavez Street,Folsom Street
+180,"In the San Francisco area, which road cannot directly reach Lake Merced Boulevard?",A,Hyde Street,Brotherhood Way,Sunset Boulevard,Winston Drive
+181,"In the San Francisco area, which road cannot directly reach Sutter Street?",A,7th Avenue,Sansome Street,Webster Street,Gough Street
+182,"In the San Francisco area, which road directly reaches Roosevelt Way?",A,17th Street,Mansell Street,Otis Street,Beale Street
+183,"In the San Francisco area, which road cannot directly reach Washington Street?",D,Drumm Street,Montgomery Street,Columbus Avenue,Scott Street
+184,"In the San Francisco area, which road cannot directly reach Oak Street?",A,Scott Street,Franklin Street,Gough Street,Octavia Boulevard
+185,"In the San Francisco area, which road directly reaches Laguna Street?",A,Bay Street,10th Street,Girard Road,Sickles Avenue
+186,"In the San Francisco area, which road cannot directly reach El Camino del Mar?",D,Legion of Honor Drive,Lincoln Boulevard,25th Avenue,Harrison Street
+187,"In the San Francisco area, which road cannot directly reach Quint Street?",C,Silver Avenue,Palou Avenue,Kezar Drive,Oakdale Avenue
+188,"In the San Francisco area, which road cannot directly reach Palou Avenue?",C,3rd Street,Silver Avenue,Lombard Street,Quint Street
+189,"In the San Francisco area, which road cannot directly reach Clay Street?",D,Battery Street,Stockton Street,Kearny Street,Santa Clara Avenue
+190,"In the San Francisco area, which road cannot directly reach Battery Street?",B,The Embarcadero,Eureka Street,California Street,Jackson Street
+191,"In the San Francisco area, which road directly reaches Bacon Street?",A,San Bruno Avenue,O'Shaughnessy Boulevard,Noriega Street,Woodside Avenue
+192,"In the San Francisco area, which road cannot directly reach Sacramento Street?",D,Kearny Street,Polk Street,Stockton Street,Palou Avenue
+193,"In the San Francisco area, which road cannot directly reach Diamond Heights Boulevard?",C,Clipper Street,Portola Drive,Plymouth Avenue,Addison Street
+194,"In the San Francisco area, which road directly reaches South Hill Boulevard?",A,Geneva Avenue,Clay Street,Spruce Street,Larkin Street
+195,"In the San Francisco area, which road directly reaches 30th Avenue?",A,Fulton Street,Cornwall Street,Diamond Heights Boulevard,New Montgomery Street
+196,"In the San Francisco area, which road cannot directly reach Ashbury Street?",C,Clayton Street,Masonic Avenue,Cortland Avenue,Frederick Street
+197,"In the San Francisco area, which road cannot directly reach Bush Street?",D,Franklin Street,Larkin Street,Sansome Street,Lake Merced Boulevard
+198,"In the San Francisco area, which road directly reaches Mission Bay Drive?",D,Washington Street,Great Highway,Harrison Street,7th Street
+199,"In the San Francisco area, which road cannot directly reach Pacheco Street?",B,14th Avenue,Cesar Chavez Street,Dewey Boulevard,10th Avenue
+200,"In the San Francisco area, which road cannot directly reach 10th Avenue?",B,14th Avenue,24th Street,Pacheco Street,Judah Street
+201,"In the San Francisco area, which road directly reaches Panorama Drive?",C,Bush Street,Blanken Avenue,Clarendon Avenue,Roosevelt Way
+202,"In the San Francisco area, which road cannot directly reach 1st Street?",C,Harrison Street,Mission Street,Blanken Avenue,Howard Street
+203,"In the San Francisco area, which road cannot directly reach Beale Street?",C,Mission Street,Howard Street,Dolores Street,Folsom Street
+204,"In the San Francisco area, which road cannot directly reach Geary Street?",D,Powell Street,Hyde Street,Jones Street,Infantry Terrace
+205,"In the San Francisco area, which road cannot directly reach Kearny Street?",B,Broadway,Mayfair Drive,Washington Street,Post Street
+206,"In the San Francisco area, which road directly reaches Brotherhood Way?",C,Eureka Street,Ocean Avenue,Lake Merced Boulevard,6th Street
+207,"In the San Francisco area, which road directly reaches Blanken Avenue?",B,34th Avenue,Executive Park Boulevard,47th Avenue,Clement Street
+208,"In the San Francisco area, which road directly reaches Evelyn Way?",C,Union Street,Woodside Avenue,Portola Drive,Castro Street
+209,"In the San Francisco area, which road cannot directly reach Mansell Street?",B,San Bruno Avenue,Saint Francis Boulevard,Persia Avenue,Visitacion Avenue
+210,"In the San Francisco area, which road cannot directly reach Visitacion Avenue?",A,Portola Drive,Mansell Street,Bayshore Boulevard,Persia Avenue
+211,"In the San Francisco area, which road cannot directly reach O'Farrell Street?",C,Taylor Street,Van Ness Avenue,Cargo Way,Larkin Street
+212,"In the San Francisco area, which road directly reaches 20th Street?",A,3rd Street,Miraloma Drive,Point Lobos Avenue,Bryant Street
+213,"In the San Francisco area, which road cannot directly reach Hayes Street?",B,Polk Street,Diamond Street,Gough Street,Van Ness Avenue
+214,"In the San Francisco area, which road directly reaches Nancy Pelosi Drive?",A,Martin Luther King Junior Drive,Legion of Honor Drive,Laguna Honda Boulevard,Lincoln Way
+215,"In the San Francisco area, which road directly reaches Miraloma Drive?",D,Howard Street,Cortland Avenue,Spruce Street,Portola Drive
+216,"In the San Francisco area, which road cannot directly reach 34th Avenue?",A,Potrero Avenue,Geary Boulevard,Clement Street,Legion of Honor Drive
+217,"In the San Francisco area, which road cannot directly reach Legion of Honor Drive?",B,34th Avenue,Taylor Street,Clement Street,El Camino del Mar
+218,"In the San Francisco area, which road cannot directly reach Drumm Street?",A,Cesar Chavez Street,California Street,Market Street,Main Street
+219,"In the San Francisco area, which road cannot directly reach Front Street?",A,Main Street,California Street,Sacramento Street,Clay Street
+220,"In the San Francisco area, which road directly reaches Washington Boulevard?",C,Keith Street,Howard Street,Arguello Boulevard,Brotherhood Way
+221,"In the San Francisco area, which road directly reaches Essex Street?",D,Sagamore Street,Lombard Street,30th Street,Harrison Street
+222,"In the San Francisco area, which road cannot directly reach Illinois Street?",D,Mariposa Street,Terry A. François Boulevard,Amador Street,Castro Street
+223,"In the San Francisco area, which road directly reaches Halleck Street?",C,Illinois Street,Montgomery Street,Mason Street,Channel Street
+224,"In the San Francisco area, which road directly reaches Scott Street?",D,Silver Avenue,Lane Street,South Hill Boulevard,Marina Boulevard
+225,"In the San Francisco area, which road directly reaches 41st Avenue?",B,Dolores Street,Geary Boulevard,Santa Clara Avenue,Fillmore Street
+226,"In the San Francisco area, which road directly reaches Spruce Street?",B,Gilman Avenue,California Street,Claremont Boulevard,Geary Boulevard
+227,"In the San Francisco area, which road directly reaches Girard Road?",B,Front Street,Lincoln Boulevard,Point Lobos Avenue,Laguna Honda Boulevard
+228,"In the San Francisco area, which road cannot directly reach Mayfair Drive?",B,Collins Street,Octavia Boulevard,Spruce Street,California Street
+229,"In the San Francisco area, which road directly reaches Kobbe Avenue?",A,Lincoln Boulevard,Kearny Street,John Muir Drive,Oak Street
+230,"In the San Francisco area, which road directly reaches Point Lobos Avenue?",A,Geary Boulevard,Spruce Street,Park Presidio Bypass Drive,17th Street
+231,"In the San Francisco area, which road directly reaches Indiana Street?",A,Southern Embarcadero Freeway,Industrial Street,Beale Street,Dewey Boulevard
+232,"In the San Francisco area, which road directly reaches Teresita Boulevard?",A,Monterey Boulevard,Keith Street,Alemany Boulevard,Digby Street
+233,"In the San Francisco area, which road directly reaches Cornwall Street?",B,Howard Street,California Street,17th Street,Mason Street
+234,"In the San Francisco area, which road directly reaches Amador Street?",C,Main Street,7th Avenue,Illinois Street,Park Boulevard
+235,"In the San Francisco area, which road directly reaches Crescent Avenue?",B,Lane Street,Alemany Boulevard,41st Avenue,Newhall Street
+236,"In the San Francisco area, which road directly reaches Eureka Street?",B,Sloat Boulevard,Market Street,Hunters Point Boulevard,Alemany Boulevard
+237,"In the San Francisco area, which road directly reaches Vermont Street?",C,18th Street,Executive Park Boulevard,16th Street,West Portal Avenue
+238,"In the San Francisco area, which road directly reaches Richardson Avenue?",B,Kezar Drive,Lombard Street,Eureka Street,Merchant Road
+239,"In the San Francisco area, which road cannot directly reach Ellis Street?",D,Cyril Magnin Street,Jones Street,Taylor Street,Kirkham Street
+240,"In the San Francisco area, which road directly reaches Addison Street?",A,Digby Street,North Point Street,Turk Boulevard,Sagamore Street
+241,"In the San Francisco area, which road directly reaches Digby Street?",D,Blanken Avenue,Guerrero Street,Digby Street,Addison Street
+242,"In the San Francisco area, which road cannot directly reach Lyell Street?",B,Alemany Boulevard,Grant Avenue,Rousseau Street,Bosworth Street
+243,"In the San Francisco area, which road cannot directly reach Leavenworth Street?",B,Golden Gate Avenue,Digby Street,O'Farrell Street,Turk Street
+244,"In the San Francisco area, which road directly reaches Grant Avenue?",C,Laguna Street,Cervantes Boulevard,Post Street,Innes Avenue
+245,"In the San Francisco area, which road directly reaches Vista Access Road?",B,Dolores Street,Lincoln Boulevard,Alemany Boulevard,Bush Street
+246,"In the San Francisco area, which road directly reaches Collins Street?",D,Channel Street,Great Highway Extension,Laguna Street,Mayfair Drive
+247,"In the San Francisco area, which road cannot directly reach Jones Street?",C,McAllister Street,Geary Street,Lake Merced Boulevard,Golden Gate Avenue
+248,"In the San Francisco area, which road directly reaches Hawthorne Street?",D,Blanken Avenue,Park Presidio Boulevard,Ocean Avenue,Harrison Street
+249,"In the San Francisco area, which road directly reaches San Pablo Avenue?",B,Bayshore Boulevard,Portola Drive,Brotherhood Way,Bryant Street
+250,"In the San Francisco area, which road directly reaches Rousseau Street?",C,Arguello Boulevard,Ashbury Street,Lyell Street,41st Avenue
+251,"In the San Francisco area, which road directly reaches Starr King Way?",A,Franklin Street,La Playa Street,Broad Street,Martin Luther King Junior Drive
+252,"In the San Francisco area, which road directly reaches Palmetto Avenue?",C,Bay Street,John F Kennedy Drive,Junipero Serra Boulevard,Divisadero Street
+253,"In the San Francisco area, which road directly reaches 37th Avenue?",A,Sloat Boulevard,Sickles Avenue,Jackson Street,Otis Street
+254,"In the San Francisco area, which road directly reaches Kirkham Street?",B,Cortland Avenue,Great Highway,Larkin Street,11th Street
+255,"In the San Francisco area, which road cannot directly reach Taylor Street?",A,Circular Avenue,Geary Street,Post Street,Ellis Street
+256,"In the San Francisco area, which road directly reaches Anza Avenue?",B,Golden Gate Avenue,Sheridan Avenue,19th Avenue,Marina Boulevard
+257,"In the San Francisco area, which road directly reaches Macalla Road?",A,Treasure Island Road,Folsom Street,Montgomery Street,Octavia Boulevard
+258,"In the San Francisco area, which road directly reaches Treasure Island Road?",B,Brannan Street,Macalla Road,Van Ness Avenue,Twin Peaks Boulevard
+259,"In the San Francisco area, which road directly reaches Lyon Street?",D,Newhall Street,Jackson Street,Guerrero Street,Girard Road
+260,"In the San Francisco area, which road directly reaches Presidio Parkway?",B,41st Avenue,Veterans Boulevard,Sutter Street,18th Street
+261,"In the San Francisco area, which road directly reaches Crestlake Drive?",A,Sloat Boulevard,4th Street,Diamond Street,Mansell Street

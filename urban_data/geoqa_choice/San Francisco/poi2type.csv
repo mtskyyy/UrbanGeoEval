@@ -1,0 +1,81 @@
+id,question,answer,A,B,C,D,E
+0,"Which type do following POIs belong to? POIs: Mission Bar, Tempest, McTeague's Saloon, The Outsider",E,arts_centre,restaurant,stripclub,theatre,pub
+1,"Which type do following POIs belong to? POIs: San Francisco Athletic Club, Mothership, Toad Hall, Level III",A,bar,university,dormitory,storage,miniature_golf
+2,"Which type do following POIs belong to? POIs: United States Post Office - Gateway Station, Postal Depot, West Portal Station, Contract Station",B,industrial,post_office,amusement_arcade,pub,miniature_golf
+3,"Which type do following POIs belong to? POIs: Opera Plaza Cinema, AMC Dine-In Kabuki 8, AMC Loews Metreon 16, Roxie",C,fixme,mobile_library,cinema,nightclub,escape_game
+4,"Which type do following POIs belong to? POIs: Glenridge Cooperative, Victoria Mews, Parkview Commons, Vista Del Monte Apartments",A,apartments,bank,chocolate;dessert;ice_cream,clinic,arts_centre
+5,"Which type do following POIs belong to? POIs: 76, Chevron, Texaco, Chevron",E,language_school,events_venue,storage,mobile_library,fuel
+6,"Which type do following POIs belong to? POIs: Four Seasons Valet Parking Entrance, Public Parking, Noe Valley Farmer's Market, Portsmouth Square Plaza Garage",D,military,garden,tanning_salon,parking,brewery
+7,"Which type do following POIs belong to? POIs: San Francisco High School of the Arts, Saint Anthony - Immaculate Conception, Солнышко, International Beauty College",B,moving_storage,school,food_court,parking,dancing_school
+8,"Which type do following POIs belong to? POIs: Pistachio Kitchen, Contigo Kitchen + Cava, Belle Cora, Joyful Kitchen",B,escape_game,restaurant,animal_boarding,dance,spa
+9,"Which type do following POIs belong to? POIs: Kowloon Tong Dessert Cafe, Local Roots, Rhea’s Cafe, Four Barrel Coffee",E,community_centre,bench,fountain,car_pooling,cafe
+10,"Which type do following POIs belong to? POIs: Club 26 Mix, Starlite Room, Lucita Niteclub, Harlot",D,kindergarten,conference_centre,shelter,nightclub,residential
+11,"Which type do following POIs belong to? POIs: Mission Rock, Presidio Transit Center, Golden Gate Bridge Toll Plaza, Salesforce Transit Center",D,moving_storage,quarry,park,bus_station,sports_centre
+12,"Which type do following POIs belong to? POIs: Oracle Park valet bicycle parking, Bike Barn, Bike Parking, Bay Wheels",D,vintage and modern resale,research_institute,social_centre,bicycle_parking,arts_centre
+13,"Which type do following POIs belong to? POIs: Mission Bay Branch Library, Anne Bremer Memorial Library, USF Seed Library, Far West Library for Educational Research and Development",E,post_box,social_facility,events_venue,nightclub,library
+14,"Which type do following POIs belong to? POIs: Umpqua Bank, Citibank, U.S. Bank, Wells Fargo",C,toilets,school,bank,popcorn,residential
+15,"Which type do following POIs belong to? POIs: Sushirrito, Super Duper Burger, Nob Hill Pizza & Shawarma, El Burrito Express",C,cinema,music_school,fast_food,animal_boarding,police
+16,"Which type do following POIs belong to? POIs: CVS Pharmacy, Walgreens, Central Drug Store, CVS Pharmacy",D,police,nursing_home,fitness_station,pharmacy,nightclub
+17,"Which type do following POIs belong to? POIs: Saint Gregory Nyssen Episcopal Church, Ta Kioh Buddhist Temple, Broad Street Baptist Church, Hope Evangelical Free Church",B,mortuary,place_of_worship,playground,swimming_pool,drinking_water
+18,"Which type do following POIs belong to? POIs: Maritime Plaza, Fairy Circle, Louis Sutter Playground, Harding Park",E,motorcycle_parking,fast_food,swimming_pool,language_school,park
+19,"Which type do following POIs belong to? POIs: Academy of Art University, UCSF Dental School, University of Phoenix, American College of Traditional Chinese Medicine",B,vintage and modern resale,university,veterinary,money_transfer; post_office,bells
+20,"Which type do following POIs belong to? POIs: Yoda Fountain, Lotta's Fountain, Aurora, Rideout Fountain",D,swimming_pool,school,house,fountain,music_school
+21,"Which type do following POIs belong to? POIs: German School of San Francisco, Brandon College, Saint Anne's Chinese School, EF",D,money_transfer,bank,indoor_play,language_school,stripclub
+22,"Which type do following POIs belong to? POIs: 30th Street Senior Center, Chinese Culture Center, Lee Recreation Center, Tranquil Resonance Studio",B,coworking_space,community_centre,dancing_school,military,ice_cream
+23,"Which type do following POIs belong to? POIs: Minerva Schools at KGI, City College of San Francisco - Fort Mason Center, City College of San Francisco John Adams Campus, City College of San Francisco Chinatown North Beach Campus",B,school,college,planetarium,quarry,fitness_station
+24,"Which type do following POIs belong to? POIs: Doctor Joe, Noe Valley Pediatrics, Purple Iris Physical Therapy, Arthur H. Coleman medical center",D,hackerspace,music_venue,stadium,doctors,studio
+25,"Which type do following POIs belong to? POIs: Eagle Club Indoor Golf, Great Big Game Show Fisherman's Wharf, Subpar Arcade, Bay Area Smash Room",D,ranger_station,vintage and modern resale,toilets,amusement_arcade,fixme
+26,"Which type do following POIs belong to? POIs: Balay Kreative Studios, Ute and William K. Bowes, Jr. Center for Performing Arts, arc gallery & studios, 23rd Street Studio",C,recreation_ground,restaurant,arts_centre,house,training
+27,"Which type do following POIs belong to? POIs: SFPD Southern Police Station, Ingleside Police Station, SFPD Headquarters, Campus Police Office",B,food_court,police,kindergarten,place_of_worship,house
+28,"Which type do following POIs belong to? POIs: BATS Improv, Audium, Stage Werx, Salesforce Park Amphitheater",D,construction,pharmacy,gazebo,theatre,marketplace
+29,"Which type do following POIs belong to? POIs: Five Animals Choy Lay Fut Kung Fu, The Bar Method, Gracie Jiu-Jitsu, Aquatic Park Bocce Ball",D,ranger_station,gazebo,community_centre,sports_centre,bells
+30,"Which type do following POIs belong to? POIs: Cigar Bar, City Ballet, Marina Classical Ballet, MoBu Dance Studio",D,school,music_venue,sports_hall,dance,residential
+31,"Which type do following POIs belong to? POIs: USPS, USPS, USPS, McLaren Conference Center",D,school,car_sharing,parcel_locker,post_box,bureau_de_change
+32,"Which type do following POIs belong to? POIs: Taxi Stand at Parc 55 (along Eddy St), Taxi Stand atKaiser Permanente San Francisco Medical Center (along O'Farrell St emergency entrance), Taxi Stand at Oracle Park, Taxi Stand at the Ritz-Carlton",C,nursing_home,retail,taxi,kindergarten,karaoke_box
+33,"Which type do following POIs belong to? POIs: Enterprise, Enterprise, National & Alamo, Thrifty",A,car_rental,quarry,shop,fountain,money_transfer; post_office
+34,"Which type do following POIs belong to? POIs: Bank of America, Wells Fargo, Bank of America, Bank of America",C,prep_school,spa,atm,motorcycle_rental,dojo
+35,"Which type do following POIs belong to? POIs: Bay Area Strength and Nutrition, CORE MVMT, CorePower Yoga, 24 Hour Fitness",B,pitch,fitness_centre,Pet grooming shop,playground,bus_station
+36,"Which type do following POIs belong to? POIs: Zipcar, Zipcar, Zipcar, Zipcar",E,university,food_court,dancing_school,animal_shelter,car_sharing
+37,"Which type do following POIs belong to? POIs: Comprehensive Dental Care, Orthodontics Pediatric Dentistry, Dental Care SF, Avenue Dental",E,retail,park,kindergarten,public_bath,dentist
+38,"Which type do following POIs belong to? POIs: Women, Men, Civic Center Pit Stop, Women's Restroom",A,toilets,dentist,mortuary,fitness_centre,parking_entrance
+39,"Which type do following POIs belong to? POIs: Sutter 899 Valencia Street Care Center, Strut, Laurel Fertility Care, Hearing & Low Vision Solutions",A,clinic,house,residential,fountain,pharmacy
+40,"Which type do following POIs belong to? POIs: Porpoise, Turtle, and Abstract, Little Oceanauts, Imagination Playhouse, Auditorium",D,college,bowling_alley,community_centre,playground,research_institute
+41,"Which type do following POIs belong to? POIs: Original Ghirardelli Ice Cream & Chocolate Shop, Easy Breezy, Uji Time, Lappert’s",B,credit_union,ice_cream,swimming_area,drinking_water,popcorn
+42,"Which type do following POIs belong to? POIs: Four Embarcadero Center Parking, ENTRANCE Parking (2nd Floor), Music Concourse Garage Fulton Entrance/Exit, Restricted Parking: Permit Holders Only",C,bicycle_repair_station,fuel,parking_entrance,stripclub,vending_machine
+43,"Which type do following POIs belong to? POIs: Connecticut Friendship Community Garden, Community Garden, Crags Court Community Garden, Park Street Community Garden",B,bicycle_rental,garden,stripclub,scooter_rental,retail
+44,"Which type do following POIs belong to? POIs: Oracle Park Ferry Terminal, Pier 33, San Francisco Pier 48.5 (Chase Center Ferry Terminal), Pier 41 Gate 1",E,hookah_lounge,car_rental,animal_boarding,bank,ferry_terminal
+45,"Which type do following POIs belong to? POIs: Golden Gate Masonic Temple, Elks Lodge No. 3, Gin Family Association, Bob Ross LGBT Senior Center",C,garden,restaurant,social_centre,construction,bank
+46,"Which type do following POIs belong to? POIs: Menorah Park, Bay Area Women's and Children's Center, West Bay Pilipino Multi-Service Center, Compass Family Services",D,pitch,bicycle_repair_station,money_transfer,social_facility,spa
+47,"Which type do following POIs belong to? POIs: Vibo Music lessons, Music City Academy, Vibo Music School, Pyramind",D,motorcycle_parking,language_school,school,music_school,karaoke_box
+48,"Which type do following POIs belong to? POIs: Teeth Genie, Crystal Way, Bay View Webspot, DESTAPAS",B,hookah_lounge,fixme,fuel,stripclub,public_bookcase
+49,"Which type do following POIs belong to? POIs: L’Academy, Telegraph Hill Cooperative Nursery School, Little Suns Preschool, Nopa Montessori",D,dojo,hospital,clock,kindergarten,cooking_school
+50,"Which type do following POIs belong to? POIs: Palou check cashing, MoneyFast, Money Express Center, Western Union",D,drinking_water,trolley_bay,vending_machine,money_transfer,animal_boarding
+51,"Which type do following POIs belong to? POIs: The Gantry, Officers' Row, East Housing, 2175 Market Street",B,bank,residential,popcorn,sports_centre,house
+52,"Which type do following POIs belong to? POIs: Stonestown Farmers Market, Amigos, Ferry Plaza Farmers Market, Stonestown Farmers Market",E,retail,shop,clinic,car_sharing,marketplace
+53,"Which type do following POIs belong to? POIs: Archimedes Banya, Noe Valley Spa, Pearl Spa & Sauna, Alchemy Springs",E,ice_cream,motorcycle_rental,library,music_venue,sauna
+54,"Which type do following POIs belong to? POIs: NOMAD, FedEx Office, Custom Sofa Co, Mission Ink",B,money_transfer; post_office,retail,parcel_locker,popcorn,car_wash
+55,"Which type do following POIs belong to? POIs: Hilltop Park Sundial, Rolex Clock, Saunders Clock, Market Street",A,clock,bar,lead_inspector,playground,apartments
+56,"Which type do following POIs belong to? POIs: Kumon, Mathnasium, Ciclo Sewing Lab, Pel Learning Center",A,prep_school,chocolate;dessert;ice_cream,clock,fitness_centre,animal_boarding
+57,"Which type do following POIs belong to? POIs: Page Street, The Hub, WeWork Montgomery, Intersection for the Arts",D,playground,vintage and modern resale,school,coworking_space,spa
+58,"Which type do following POIs belong to? POIs: Bay Wheels, Bay Wheels, Bay Wheels, Bay Wheels",E,stadium,bicycle_parking,college,fuel,bicycle_rental
+59,"Which type do following POIs belong to? POIs: SVN West, The Battery, Eric Quezada Center for Culture and Politics, ColorBloq",A,events_venue,retail,quarry,escape_game,post_office
+60,"Which type do following POIs belong to? POIs: LEG-STRETCH, VAULT-BAR, ACHILLES STRETCH, SIT-UP",E,swimming_pool,college,university,stadium,fitness_station
+61,"Which type do following POIs belong to? POIs: Proactiv, Coca-Cola, Coca-Cola, Coca-Cola",C,ferry_terminal,trolley_bay,vending_machine,events_venue,university
+62,"Which type do following POIs belong to? POIs: The Food Emporium, 331 Cortland Marketplace, International Food Court, The Market",A,food_court,residential,storage,shelter,industrial
+63,"Which type do following POIs belong to? POIs: One Card Value Station, One Card Value Station, One Card Value Station, One Card Value Station",D,sports_centre,events_venue,post_office,payment_terminal,car_sharing
+64,"Which type do following POIs belong to? POIs: KCBS 740 AM, Voiz Music Studio, KVTO AM 1400, Songbird Studios",C,car_rental,theatre,studio,sports_hall,fast_food
+65,"Which type do following POIs belong to? POIs: Veterinary Vision, Seven Hills Veterinary Hospital, Animal Farm Pet Hospital, South Park Animal Hospital",B,farmyard,veterinary,music_school,cooking_school,slipway
+66,"Which type do following POIs belong to? POIs: The Writing Salon, The Coder School, East Art Studio, Art Works",D,kindergarten,events_venue,house,training,drinking_water
+67,"Which type do following POIs belong to? POIs: Krav Maga, United Studios Of Self Defense, Korean Martial Arts Center, Rising Sun School of Martial Arts",C,pitch,scooter_rental,dojo,car_pooling,fountain
+68,"Which type do following POIs belong to? POIs: Flourish & Blotts, Little Free Library, Little Free Library, Little Free Library",E,storage,vending_machine,dormitory,library,public_bookcase
+69,"Which type do following POIs belong to? POIs: Muttville, Wonderdog Rescue, Animal Care & Control, San Francisco SPCA Pet Adoption Center - Mission Campus",E,stadium,grocery,social_facility,nursing_home,animal_shelter
+70,"Which type do following POIs belong to? POIs: Delia’s Little Angels, Sunset Co-op Nursery School, Little Lady Bugs Playhouse, Nihonmachi Little Friends",B,fitness_centre,childcare,sports_centre,military,bus_station
+71,"Which type do following POIs belong to? POIs: EscapeSF, Escapology, Reason, The Escape Game",B,amusement_arcade,escape_game,fire_station,playground,mortuary
+72,"Which type do following POIs belong to? POIs: Loop, Mr Eco Wash, Magic Detail, Castro Car Wash",E,bicycle_parking,university,lead_inspector,bar,car_wash
+73,"Which type do following POIs belong to? POIs: Car Pool Pickup To Vallejo, Car Pool Pickups to Fairfield, Suisun, Hercules, Car Pool Pickups to Walnut Creek, Pleasant Hill, Concord, Orinda, Lafayette, Car Pool Pickup to East Bay Destinations",E,stadium,chocolate;dessert;ice_cream,dancing_school,house,car_pooling
+74,"Which type do following POIs belong to? POIs: EVgo, ChargePoint, EVgo, Electrify America",D,ranger_station,karaoke_box,bicycle_parking,charging_station,miniature_golf
+75,"Which type do following POIs belong to? POIs: USCGC Tern, U.S. Army Corps of Engineers, USCGC Pike, USCGC Aspen",C,ice_cream,shelter,military,bells,parking_entrance
+76,"Which type do following POIs belong to? POIs: Pacific Wing, Pacific Rim Conference Room, Admission Office, Theatre/ Residence",A,university,residential,karaoke,drinking_water,theatre
+77,"Which type do following POIs belong to? POIs: Juana Briones, Pioneer Settler of Yerba Buena, Auspicious Clouds | Heavy Fog, Auspicious Clouds | Heavy Fog, Auspicious Clouds | Heavy Fog",E,photo_booth,music_venue,conference_centre,payment_terminal,bench
+78,"Which type do following POIs belong to? POIs: Sequoia Fabrica, Double Union, Autodesk Technology Center San Francisco, Queerious Labs",E,nightclub,house,stadium,ranger_station,hackerspace
+79,"Which type do following POIs belong to? POIs: Swing Into Stories, Swing Into Stories, Swing Into Stories, Swing Into Stories",E,events_venue,fountain,music_venue,cafe,mobile_library

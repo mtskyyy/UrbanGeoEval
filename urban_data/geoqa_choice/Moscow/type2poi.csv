@@ -1,0 +1,160 @@
+id,question,answer,A,B,C,D,E
+0,Which POI belongs to type: fuel?,C,"36,6",Сытая Столица,Лукойл,Фармленд,Фергана
+1,Which POI belongs to type: theatre?,A,Театр Юного Москвича,Многофункциональный центр предоставления государственных и муниципальных услуг района Арбат,Московский институт открытого образования,Turkish döner,Якитория
+2,Which POI belongs to type: place_of_worship?,E,Кулинарная лавка братьев Караваевых,Горздрав,Совкомбанк,Hookah Place,Храм Константина и Елены
+3,Which POI belongs to type: cafe?,E,Сбербанк,Fitzal,Зоогалерея,Кредэ Эксперто,ABC Coffee Roasters
+4,Which POI belongs to type: police?,B,Детская поликлиника №6 (филиал),Участковый пункт полиции №16,Капучинофф,Ригла,KFC
+5,Which POI belongs to type: post_office?,D,Babo,Институт косметологии Дом Русской Косметики,Школа №435,СДЭК,Донер 24
+6,Which POI belongs to type: ferry_terminal?,B,Чайхана,Марьино (метро),BeFit,ГридинЪ,Т-Банк
+7,Which POI belongs to type: fast_food?,C,Мята Lounge,Boft,Фо Вьет,ЛидерСтом,Столички
+8,Which POI belongs to type: restaurant?,C,Москва 121170,Subway,Mushrooms,Школа Виктория-2000,"Чебуречная ""СССР"""
+9,Which POI belongs to type: bar?,C,Мегаполис,Grafika,Пока никто не видит,"Территориальная клубная система ""Фили-Давыдково""",Роснефть
+10,Which POI belongs to type: bank?,B,Русская классическая гимназия,Ак Барс Банк,Медицинский консультационный центр,Белый кролик,Судебный участок мирового судьи № 312
+11,Which POI belongs to type: pharmacy?,C,Cofix,МельБа,A.v.e.,СДЭК,Двойная жизнь Вероники
+12,Which POI belongs to type: pub?,A,Дранкен Дак Паб,Долина,Upside Down Cake Co.,"36,6",Медклассика
+13,Which POI belongs to type: clinic?,C,Дружба,City Space Bar,"Лечебно-восстановительный комплекс МЦ ЗАО ""Коопвнешторг""",Кофекус,Русская школа управления
+14,Which POI belongs to type: social_facility?,D,Фармленд,Mátes,Подушкин,"Центр социальной помощи семье и детям ""Берегиня""",Отделение связи №125438
+15,Which POI belongs to type: fitness_centre?,D,Папа Джонс,Му-Му,Правда Кофе,Центр экстремального похудения «Бамбук»,Горячая выпечка
+16,Which POI belongs to type: car_wash?,D,CofeFest,Отделение связи №129110,Церковь иконы Божией Матери «Целительница»,МПАС,Cofix
+17,Which POI belongs to type: cinema?,E,PickPoint,Роснефть,Грузинские каникулы,Amande,Кино Хауз
+18,Which POI belongs to type: library?,A,Научная библиотека МГТУ им. Н. Э. Баумана,опорный пункт,Внешпромбанк,Детский центр диагностики и лечения им. Н.А. Семашко,Black Harp
+19,Which POI belongs to type: arts_centre?,E,Тандырофф,Фармленд,Даблби,Репей,Дом художника на Вавилова
+20,Which POI belongs to type: hospital?,C,Гранд Смайл,Brookes,Научно-исследовательский клинический институт оториноларингологии имени Л. И. Свержевского,ВетерОК!,Лечу.ru
+21,Which POI belongs to type: dentist?,B,Нах,Мой Зубной,Пикассо,Рива,Римская пицца
+22,Which POI belongs to type: doctors?,D,ВТБ,Столички,Малин,Инвитро,Поликлиника № 115. Филиал № 4
+23,Which POI belongs to type: stripclub?,B,Знакомый доктор,Hot collection,Kaya,Шоколадница,Пан Круассан
+24,Which POI belongs to type: post_box?,A,Почта России,СДЭК,Трансстройбанк,King Play,СДЭК
+25,Which POI belongs to type: sports_centre?,A,"Молодежный спортивный клуб ""Меридиан""",Библиотека семейного чтения №124,Математический факультет НИУ ВШЭ,Hibiki,Черетто Море
+26,Which POI belongs to type: customs?,B,Кофе Хауз,Центральная акцизная таможня,Balzi Rossi,Rébellion Clubhouse,Нава
+27,Which POI belongs to type: bus_station?,B,Москва 119454,"Диспетчерская ""5-й микрорайон Тёплого Стана""",Чикко Клуб,Фармленд,Boft
+28,Which POI belongs to type: college?,C,Донер кебаб,Table,Галактика,One&Double,Ставмет
+29,Which POI belongs to type: sauna?,E,Мистер Хинкали,YesNoMilk,Сам пришёл,& Action,Goosi
+30,Which POI belongs to type: veterinary?,C,Гранат,Coffee Way,Центр ветеринарной офтальмологии доктора Перепечаева,Россельхозбанк,Baikal
+31,Which POI belongs to type: swimming_pool?,E,Альфа-Банк,Всё лень,Фармленд,Subway,Китёнок
+32,Which POI belongs to type: marina?,D,Blueberry Haze,Теремок,Mr. Ливанец,Захарково,Медицина
+33,Which POI belongs to type: kindergarten?,D,Россельхозбанк,Piazza Italiana,Contact Банк,Детский сад № 1672,Старый лекарь
+34,Which POI belongs to type: research_institute?,E,KIBERone,Детская библиотека № 11 им. Л.Н. Толстого,Custom Cars Detailing,Пять звезд на Новокузнецкой,Медгамал
+35,Which POI belongs to type: training?,E,Открытие,I Like Wine 2.0,Фора-Банк,World Class,Детско-юношеская спортивно-адаптивная школа
+36,Which POI belongs to type: music_school?,E,Поликлиника №2 ЦКБ РАН,Милти,Хинкали Lab,Эспрессиум,Melody
+37,Which POI belongs to type: school?,C,Ригла,KOM,Центр немецкого языка DE Lingua,Теремок,Правда Кофе
+38,Which POI belongs to type: veterinary_pharmacy?,C,Горздрав,Гемотест,Ветеринарная аптека,Правда Кофе,Dental Doctor Martin
+39,Which POI belongs to type: university?,D,Шикари,Промсвязьбанк,KFC,Московская высшая школа социальных и экономических наук,Wаурма24
+40,Which POI belongs to type: parking?,C,Банк Казани,100 хинкали,ГСК-34,Теремок,Мята Lounge
+41,Which POI belongs to type: fire_station?,D,Донер Шаурма,Живика,Горздрав,Пожарный поезд ст. Москва-товарная Киевская,Ngon
+42,Which POI belongs to type: fountain?,D,Столичная аптека,4-е отделение полиции при Московском метрополитене,Французская пекарня,Принцесса Турандот,Pepsi
+43,Which POI belongs to type: driving_school?,C,МЗ Эконом,Prime,Зеленый свет,TAU,Prime Smile
+44,Which POI belongs to type: social_centre?,E,Share house,Ля Ше'вре,Канадская стоматология,Cup n Cup,Отдел социальной защиты населения района Преображенское
+45,Which POI belongs to type: food_court?,A,Фуд Маркет,Чайхана София,Positano,Юнидент,I Like Wine
+46,Which POI belongs to type: device_charging_station?,C,Qartuli,Арбат эстетик,Метро «Сокольники»,Детский сад №281,Медгород
+47,Which POI belongs to type: photo_lab?,B,МБА-Москва,Fotoproekt,Пенный погребок,Даблби,Российское Чаньское общество
+48,Which POI belongs to type: studio?,D,Женщина под куполом,Пикассо,Роснефть,Москва 24,Москва 127287
+49,Which POI belongs to type: love_hotel?,E,Правда Кофе,5post,Правда Кофе,Горздрав,Клюква
+50,Which POI belongs to type: public?,C,Subway,"Лекторий ""Прямая речь""","ГБУ ""ИС района Теплый стан""",Горздрав,Бадьян и Корица
+51,Which POI belongs to type: marketplace?,D,Prime,Медси,Зубастик,"Торговый дом ""Плехановский пассаж""",Skuratov Coffee
+52,Which POI belongs to type: dance?,D,Посылочный отдел Почты России,Рихтер,Qiwi,GPStudio,Центр развития личности «Оранжерея»
+53,Which POI belongs to type: community_centre?,B,Линзы тут,Новый Акрополь,Додо Пицца,Муни,Boroda BMX Park
+54,Which POI belongs to type: sell?,A,ТЕХИНКОМ,Русский Стандарт,Столичные аптеки,Суши-Маркет,Горыныч
+55,Which POI belongs to type: courthouse?,C,"36,6",Fish Культура,Мировые судьи района Братеево. Судебный участок №37,Горздрав,Яндекс.Маркет
+56,Which POI belongs to type: townhall?,A,Совет депутатов муниципального округа Южное Тушино,Премьер Кредит,Сбербанк,PickPoint,FunFam
+57,Which POI belongs to type: post_depot?,C,ExtraVirgin,Sapiens,Московский межрайонный почтамт,Frank by Баста,Бургер Кинг
+58,Which POI belongs to type: insurance?,A,Ресо гарантия,Роснефть,One Price Coffee,Москва 127220,Вкусно — и точка
+59,Which POI belongs to type: clock?,C,Upside Down Cake Co.,Лик,3-я Сокольническая улица,МБА-Москва,ГУТА-клиник
+60,Which POI belongs to type: public_building?,A,Офисный центр «ЗВИ»,Доктор с вами,Горздрав,Детская городская поликлиника №38 филиал №1,Is Ku
+61,Which POI belongs to type: bowling_alley?,B,Sanur,Глобус Боулинг Центр,МЯУ'c,Линзы тут,Ecoplatform
+62,Which POI belongs to type: playground?,A,Паутина,Белый кролик,Море,Горздрав,Kapo
+63,Which POI belongs to type: ice_cream?,E,Сбербанк,"Государственное бюджетное образовательное учреждение города Москвы центр лечебной педагогики и дифференцированного обучения ""Возрождение""",Яндекс.Маркет,Поликлиника при НИИ урологии им. Сеченова,Айсберри
+64,Which POI belongs to type: language_school?,A,Великий путь,Тануки,IL Патио,Cups & Hugs,Лукойл
+65,Which POI belongs to type: toilets?,E,Burger club,Шоколадница,Cupslocker,Юнистрим,Городской туалет
+66,Which POI belongs to type: payment_terminal?,B,Healthy Food,Qiwi,Lui,Москва 125315,Сурья
+67,Which POI belongs to type: supplementary_education?,E,Урюк,Skuratov Coffee,Max Bakery,Тануки,"ЦДО ""Дистантное обучение"""
+68,Which POI belongs to type: ice_rink?,B,Путь,Морозово,Нескучный сад,ВТБ,Юнисити
+69,Which POI belongs to type: bicycle_parking?,B,Сбербанк,Профсоюзная 13012,СберЛогистика,Открытие,Greek street
+70,Which POI belongs to type: business_incubator?,C,Boft,Casa Leone,Бизнес-инкубатор НИУ ВШЭ,Центр Дети Любви,СДЭК
+71,Which POI belongs to type: recycling?,E,Медицинский центр им. Святослава Федорова,Газпромнефть,Трибуна,GPStudio,Сфера Экологии
+72,Which POI belongs to type: bicycle_rental?,A,PROкачу,Сбербанк,Стоматология Ильфа,Пан Круассан,"Лечебно-восстановительный комплекс МЦ ЗАО ""Коопвнешторг"""
+73,Which POI belongs to type: office?,C,Мята Lounge,Русский Стандарт,Администрация,Озерки,Газпромбанк
+74,Which POI belongs to type: hookah_lounge?,D,Планета здоровья,Бункер 47,Самсон Фарма,Ananas Lounge,Рутта
+75,Which POI belongs to type: bench?,D,Take and Wake,Чешский Трдельник,Prime,Скамейка ремёсел,Finch
+76,Which POI belongs to type: nightclub?,C,Горздрав,"Детская городская поликлиника № 91, филиал № 1",Flava,СДЭК,Stories
+77,Which POI belongs to type: kiosk?,A,Проездные билеты,Avtoblesk,Нескафе,Суши-Маркет,Escapist
+78,Which POI belongs to type: dancing_school?,A,CoCo Pole Dance,См-Клиника,Probka,Ваша № 1,Обедов
+79,Which POI belongs to type: car_rental?,E,Сбарро,Shawarma №1,На вина!,Хватай рыбов,Альмак
+80,Which POI belongs to type: events_venue?,B,Здравсити,Сеть поминальных залов,Nanika,Greek street,Baccarat Cristal Room
+81,Which POI belongs to type: bureau_de_change?,D,Pho'Ngon,KFC,Farsh,Itez,"36,6"
+82,Which POI belongs to type: public_service?,D,Школа cервиса Романа Тырсина,Take and wake,ШауRoom,Многофункциональный центр предоставления государственных и муниципальных услуг района Пресненский,Детская клиника МЕДСИ
+83,Which POI belongs to type: vending_machine?,B,Объединенный кредитный банк,Ecoplatform,Донер Кебаб,Green drive,Грабли
+84,Which POI belongs to type: childcare?,D,Театр музыки и поэзии под руководством Е. Камбуровой,Россельхозбанк,Шум,Дом Белого Кролика,Планета Здоровья
+85,Which POI belongs to type: industrial?,E,Домино'c,Ozon box,Гармония,Горздрав,Вентиляционный киоск метро
+86,Which POI belongs to type: club?,A,"Турклуб ""Форпост""",Папа Джонс,Джанни-Хинкали,Доктор рядом,Surf Coffee
+87,Which POI belongs to type: internet_cafe?,E,Детская музыкальная школа им. М. М. Ипполитова-Иванова,Лидер,Москва 117292,Лукойл,Winstrike
+88,Which POI belongs to type: dog_park?,D,F-lounge,One Price Coffee,Go-Wash! Варшавка,Нордогс,Московская школа йоги
+89,Which POI belongs to type: official?,E,Гармония,"Драматический театр ""Вернадского, 13""",Линзы тут,Hummus,постоянное представительство Кабардино-Балканской республики при президенте Российской Федерации
+90,Which POI belongs to type: parcel_locker?,B,Pony Express,СДЭК,"Школа флористики ""Цветочная Мастерская""",Гнесинский концертный зал на Поварской,Lancman School
+91,Which POI belongs to type: office?,B,Примавера,"Аттестационный научно-технический центр ""Эксперт""",Правда кофе,Breakfast Club,Jazzve
+92,Which POI belongs to type: cooking_workshop?,B,Планета здоровья,"студия ""Местная еда""",Руки вверх,Гриль Хаус,Карл Баллинг
+93,Which POI belongs to type: pitch?,C,Cofix,Поликлиника № 3,Медведь,Почта Банк,Цель
+94,Which POI belongs to type: animal_boarding?,D,"36,6",One Price Coffee,Subway,Виляйка,White Fox Cafe
+95,Which POI belongs to type: escape_game?,D,Батон-Кофетон,Amore,ЗдравСити,Клаустрофобия,Pir&Rog
+96,Which POI belongs to type: glaziery?,D,Surf Coffee,ВТБ,Олимп,АРТ-Классик,Москомбанк
+97,Which POI belongs to type: atm?,A,Райффайзен,Цветы Баха,Good Food,LabQuest,Храм Константина и Елены
+98,Which POI belongs to type: coworking_place?,D,too CUPS,Next Generation Clinic,Горздрав,Дом у моря,Coffee Point
+99,Which POI belongs to type: kids_area?,C,"Детская поликлиника №69, филиал №2",Take and wake,МиМиДомик,Кофе для души,Secret Draft beer
+100,Which POI belongs to type: bicycle_repair_station?,D,Клиника на Покровке,KFC,Sunnyway,Веломастерская,YamKee
+101,Which POI belongs to type: coworking_space?,C,Beer's tale,Участковый пункт полиции № 38,Psycho Place,Berries,LUSUN
+102,Which POI belongs to type: datacenter?,A,M1 StackTelecom Datacenter,Столички,Сона,Born2Coffee,Pizza Hut
+103,Which POI belongs to type: waste_disposal?,D,Оттепель,Теремок,Подозрительные лица,Мусорный бак,Трапеза
+104,Which POI belongs to type: vehicle_inspection?,C,Stardogs,Rebellion,РЕСО-Гарантия,Причал №2,Брюсов Холл
+105,Which POI belongs to type: bunker?,D,Москва 125196,One Price Coffee,О'кей инглиш,Пулемётное гнездо - на последнем рубеже обороны Москвы,Вкусно — и точка
+106,Which POI belongs to type: money_transfer?,E,Surf Coffee,Ярмарка выходного дня,Prime,Krasnaya Presnya Disc Golf Park Target #5,Contact
+107,Which POI belongs to type: prep_school?,B,ЗИЛ,TwoSTu,Диалог,Vodный,Grut
+108,Which POI belongs to type: rescue_station?,A,Ермак,"АНО ДСЦ ""Мир счастливого детства""",Центр восстановления зрения,Farmacy.ru,HookahPlace
+109,Which POI belongs to type: hackerspace?,D,Флория,Дарвиновский музей,Союз,Второе дыхание. Мастерская,Газпромбанк
+110,Which POI belongs to type: clinic;doctors?,A,Лечебно-диагностический центр томографии им. Н.И. Пирогова,Prime,Dentium,Кофе с собой,Mukuzani
+111,Which POI belongs to type: warehouse?,D,Shad,Горздрав,Prime,Афая,Gagawa
+112,Which POI belongs to type: photo_booth?,C,Детский сад № 219,Эрмитаж,Boft,Международная промышленная академия,Инвитро
+113,Which POI belongs to type: disc_golf_course?,B,Столички,Krasnaya Presnya Disc Golf Park Tee #8,Московский кредитный банк,Pinzeria by Bontempi,Веранда
+114,Which POI belongs to type: amusement_arcade?,B,Кремлёвские куранты,Цель,Отделение связи №127521,Cream Soda,Насилию.нет
+115,Which POI belongs to type: payment_centre?,A,Единый информационно-расчетный центр района Северное Чертаново,Hell Tower,Гемотест,Самегрело,Дэтоль
+116,Which POI belongs to type: auction_house?,C,DHL Express Easy,Авангард,ЛитФонд,Поликлиника,Right Hops
+117,Which POI belongs to type: tanning_salon?,B,Сбербанк,Студия загара,Royal Appart,Городской туалет,Горздрав
+118,Which POI belongs to type: trampoline_park?,C,Даблби,Химик,Небо,Ели Сацебели,Stars Coffee
+119,Which POI belongs to type: study?,D,Дэтоль,Московский городской открытый колледж,Шоколадница,Курсы для беременных,Академия
+120,Which POI belongs to type: dojo?,B,Ригла,Каминарикан,Pirouette,Крошка Картошка,Инвитро
+121,Which POI belongs to type: translator?,D,Место пряток,Party hard,Wu Shu,Московский центр переводов,Трейнинг центр «Империя Алины Силаевой»
+122,Which POI belongs to type: karaoke_box?,D,СДЭК,Vanwok,Cofix,Соло,СССР
+123,Which POI belongs to type: outpost?,C,Москва 121374,Монополия,Boxberry,Sare art,Ритм & Блюз
+124,Which POI belongs to type: parking_entrance?,A,Зарядье - Выезд,Dental Brothers,Султан,Qiwi,Груша
+125,Which POI belongs to type: club?,E,KFC,Широкую на Широкую,Пивотека 465,Москва 125480,Молодёжный центр инноваций Богоявленского кафедрального собора
+126,Which POI belongs to type: yacht_club?,E,Барбарис,Стоматологический центр Министерства обороны РФ,OneBucksCoffee,"Театр-школа ""Образ""",12 узлов
+127,Which POI belongs to type: arts_school?,C,Восточное,СберЛогистика,Московская школа искусств,Пикассо,Инвитро
+128,Which POI belongs to type: bandstand?,B,Вертикаль,Амфитеатр Ривер Парк,Гладкое тело,ТрансАЗС,Поликлиника №11 филиал №2
+129,Which POI belongs to type: boat_rental?,D,Ниармедик,Лаванда,Татнефть,Остров мечты,Московский индустриальный банк
+130,Which POI belongs to type: kick-scooter_rental?,D,Cainiao,Цурцум,Синергия,У ВДНХ,Eazzy Pizza & Gelato
+131,Which POI belongs to type: wifihotspot?,D,Участковый пункт полиции №36,ВТБ,Правда Кофе,WIFI,Rock House
+132,Which POI belongs to type: shelter?,B,Кофе Макс,Читай В Парке,ABC coffee roasters,"Территориальный центр социального обслуживания ""Беговой"" филиал ""Хорошевский""",Крафтейнер
+133,Which POI belongs to type: stadium?,E,Додо Пицца,Альфа-Банк,TopClean,Детская поликлиника №58 филиал №3,Универсальная ВТБ Арена
+134,Which POI belongs to type: gym?,A,Дон-Спорт,Вкусное место,Арбат,"36,6",Научная библиотека МГТУ им. Н. Э. Баумана
+135,Which POI belongs to type: water_park?,A,"Аквакомплекс ""Лужники""",Slim Fit Club,Александровская,Горздрав,Медицина
+136,Which POI belongs to type: fishing?,C,Международный акционерный банк,Крошка Картошка,Рыбацкая деревня,Горздрав,Медгород
+137,Which POI belongs to type: charging_station?,C,CofeFest,Детский сад №65,Green drive,Вкусно — и точка,Chefs Table
+138,Which POI belongs to type: flight_school?,C,Breakfast Club,Библиотека им. В.Я. Вульфа,Авиационная школа Аэрофлота,Patisserie Francois Bodrero,Музыкальный театр «Амадей»
+139,Which POI belongs to type: sports_hall?,A,САП центр,Векфарм,"Физкультурно-досуговый центр ""Гармония""",Оптимист,Тамерит
+140,Which POI belongs to type: biergarten?,C,Шеф Тантуни,KDL,Бирстон,Gagawa,Правда Кофе
+141,Which POI belongs to type: park?,B,Линзы тут,Сквер МГУ им. Ломоносова,Carrots and Beans,По чесноку,Денто Лидер
+142,Which POI belongs to type: retail?,C,Cofix,"Столовая ""Русский Мир""",Институт хлеба,Art-Space,Центральная библиотека № 136 имени Л. Н. Толстого
+143,Which POI belongs to type: fixme?,C,"Медицинский семейный центр ""Пангея""",Crocus Fitness,Препрег-СКМ,Клюква lounge,CitiKlinik
+144,Which POI belongs to type: conference_centre?,D,Газпромбанк,Брусника,Бэби-клуб,Iskra Space,"36,6"
+145,Which POI belongs to type: model?,C,Каро Фильм на Вернадского,Бургер Кинг,Шлюз 2 Темпы,Ренессанс Кредит,Штолле
+146,Which POI belongs to type: feeding_place?,D,Роснефть,ВТБ,Авангард,Западная подкормочная площадка,Скалодром «Атмосфера»
+147,Which POI belongs to type: industrial?,D,Поликлиника № 22 филиал 4,Городской туалет,Еаптека,Вторметпроект,Boft
+148,Which POI belongs to type: roof?,C,Мару,Hoi An,Астродром,Аренда,Преамбула
+149,Which POI belongs to type: public_bookcase?,B,Бургер Кинг,Библиотека умного города,Арт Дент,iziplay,Причал Моряка
+150,Which POI belongs to type: brothel?,E,Krunchy Dream,Bebo,Додо Пицца,ТрансКапиталБанк,Vanilia
+151,Which POI belongs to type: beach_resort?,D,Лубянка,Red Spoon,Тропа,Лето в парке,Сбербанк
+152,Which POI belongs to type: indoor_play?,E,Белый стиль,Крошка Картошка,Творческая мастерская А. Рыбникова,Столички,Клуб Почемучек
+153,Which POI belongs to type: gaming club?,D,Вита Экспресс,Teboil,117632,Cyber X,Айсберри
+154,Which POI belongs to type: swingerclub?,C,Москва 121601,Домино'c,Bizarre,DentStar,ИФК
+155,Which POI belongs to type: trade_school?,E,Роснефть,Crocus Fitness,Теремок,Soyuz,#DENTALWORKSHOP
+156,Which POI belongs to type: summer_camp?,E,Сбербанк,Coffee Never,Domino's,КидБург,Школа мяча
+157,Which POI belongs to type: exhibition_centre?,E,Pinch,Штолле,ПрезиДент,Кулинарная лавка братьев Караваевых,"Национальный центр ""Россия"""
+158,Which POI belongs to type: laboratory?,C,Дом Культуры Чайка,СДЭК,Центр испытаний сертификации и стандартизации функциональных материалов и технологий,Участковый пункт полиции,Вареничная №1

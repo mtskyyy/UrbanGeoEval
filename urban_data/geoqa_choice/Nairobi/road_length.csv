@@ -1,0 +1,265 @@
+,A,B,C,answer,D,E,question
+0,1890.0,18900.0,6300.0,C,630.0,12600.0,How long is Airport South Road in the Nairobi area?
+1,3090.0,10300.0,30900.0,B,20600.0,1030.0,How long is Mombasa Road in the Nairobi area?
+2,1600.0,240.0,2400.0,E,100.0,800.0,How long is Capital Centre Expressway Entry in the Nairobi area?
+3,38600.0,1930.0,19300.0,C,5790.0,57900.0,How long is Langata Road in the Nairobi area?
+4,100.0,1500.0,150.0,D,500.0,1000.0,How long is Aerodrome Road in the Nairobi area?
+5,100.0,0.0,0.0,E,100.0,0.0,How long is Haile Selassie Roundabout in the Nairobi area?
+6,7200.0,360.0,10800.0,E,1080.0,3600.0,How long is Haile Selassie Avenue in the Nairobi area?
+7,200.0,2000.0,6000.0,B,4000.0,600.0,How long is Uhuru Highway in the Nairobi area?
+8,100.0,0.0,0.0,D,0.0,100.0,How long is Kenyatta Avenue Round About in the Nairobi area?
+9,450.0,150.0,1500.0,C,4500.0,3000.0,How long is Harambee Avenue in the Nairobi area?
+10,100.0,100.0,0.0,E,0.0,0.0,How long is Ragati Road in the Nairobi area?
+11,87600.0,58400.0,8760.0,D,29200.0,2920.0,How long is Ngong Road in the Nairobi area?
+12,6900.0,2300.0,690.0,B,230.0,4600.0,How long is Kenyatta Avenue in the Nairobi area?
+13,100.0,0.0,100.0,E,0.0,0.0,How long is University Way Round About in the Nairobi area?
+14,100.0,200.0,600.0,B,100.0,400.0,How long is University Way in the Nairobi area?
+15,300.0,100.0,100.0,D,100.0,200.0,How long is Westlands Roundabout in the Nairobi area?
+16,1600.0,240.0,2400.0,E,100.0,800.0,How long is Chiromo Road in the Nairobi area?
+17,1800.0,6000.0,12000.0,B,18000.0,600.0,How long is Waiyaki Way in the Nairobi area?
+18,1800.0,100.0,270.0,D,900.0,2700.0,How long is Ring Road Westlands in the Nairobi area?
+19,350.0,3500.0,7000.0,B,10500.0,1050.0,How long is Ring Road Parklands in the Nairobi area?
+20,0.0,0.0,0.0,C,100.0,100.0,How long is Bunyala Roundabout in the Nairobi area?
+21,360.0,1200.0,120.0,B,2400.0,3600.0,How long is City Hall Way in the Nairobi area?
+22,9600.0,6400.0,3200.0,C,960.0,320.0,How long is Lunga Lunga Road in the Nairobi area?
+23,1000.0,3000.0,10000.0,C,20000.0,30000.0,How long is Jogoo Road in the Nairobi area?
+24,210.0,630.0,2100.0,C,4200.0,6300.0,How long is First Avenue Eastleigh in the Nairobi area?
+25,100.0,100.0,200.0,D,100.0,300.0,How long is Westlands Expressway Entry in the Nairobi area?
+26,840.0,280.0,2800.0,C,5600.0,8400.0,How long is Kiambu Road in the Nairobi area?
+27,4410.0,14700.0,44100.0,B,29400.0,1470.0,How long is Thika Road in the Nairobi area?
+28,0.0,100.0,0.0,E,100.0,0.0,How long is Kiambu-Limuru-Thogoto Rd. in the Nairobi area?
+29,41100.0,1370.0,27400.0,E,4110.0,13700.0,How long is Limuru Road in the Nairobi area?
+30,10500.0,350.0,7000.0,D,3500.0,1050.0,How long is Murang'a Road in the Nairobi area?
+31,510.0,5100.0,170.0,D,1700.0,3400.0,How long is Kipande Road in the Nairobi area?
+32,1100.0,330.0,2200.0,A,3300.0,110.0,How long is Dr. G.W. Griffin Road in the Nairobi area?
+33,720.0,240.0,7200.0,E,4800.0,2400.0,How long is Quarry Road in the Nairobi area?
+34,100.0,300.0,100.0,E,200.0,100.0,How long is General Waruinge Street in the Nairobi area?
+35,2000.0,300.0,1000.0,C,3000.0,100.0,How long is Landhies Road in the Nairobi area?
+36,41100.0,1370.0,13700.0,C,27400.0,4110.0,How long is Airport North Road in the Nairobi area?
+37,2990.0,8970.0,59800.0,D,29900.0,89700.0,How long is Outer Ring Road in the Nairobi area?
+38,6000.0,18000.0,600.0,A,12000.0,1800.0,How long is Mutarawka Road in the Nairobi area?
+39,200.0,100.0,100.0,E,300.0,100.0,How long is Slip Road in the Nairobi area?
+40,120.0,1200.0,3600.0,B,360.0,2400.0,How long is Moi Avenue in the Nairobi area?
+41,100.0,1800.0,600.0,C,180.0,1200.0,How long is Racecourse Road in the Nairobi area?
+42,100.0,500.0,150.0,B,1500.0,1000.0,How long is Ronald Ngala Street in the Nairobi area?
+43,13600.0,2040.0,680.0,D,6800.0,20400.0,How long is Likoni Road in the Nairobi area?
+44,100.0,200.0,100.0,E,300.0,100.0,How long is Dagoretti Corner in the Nairobi area?
+45,10200.0,15300.0,5100.0,C,1530.0,510.0,How long is Lusaka Road in the Nairobi area?
+46,6000.0,2000.0,200.0,B,600.0,4000.0,How long is Nairobi-Nakuru Road in the Nairobi area?
+47,3000.0,100.0,2000.0,D,1000.0,300.0,How long is Tom Mboya Street in the Nairobi area?
+48,580.0,1740.0,17400.0,D,5800.0,11600.0,How long is Mombasa - Nairobi Road in the Nairobi area?
+49,3000.0,2000.0,100.0,D,1000.0,300.0,How long is Muindi Mbingu Street in the Nairobi area?
+50,100.0,0.0,100.0,E,0.0,0.0,How long is Banda Street in the Nairobi area?
+51,1800.0,900.0,100.0,B,270.0,2700.0,How long is Bunyala Road in the Nairobi area?
+52,10400.0,1560.0,5200.0,C,520.0,15600.0,How long is Raila Odinga Way in the Nairobi area?
+53,100.0,100.0,600.0,D,300.0,900.0,How long is Parliament Road in the Nairobi area?
+54,41200.0,61800.0,20600.0,C,2060.0,6180.0,How long is Southern Bypass in the Nairobi area?
+55,2100.0,1400.0,700.0,C,100.0,210.0,How long is Kimathi Street in the Nairobi area?
+56,0.0,0.0,0.0,C,100.0,100.0,How long is Tubman Road in the Nairobi area?
+57,1230.0,410.0,4100.0,C,12300.0,8200.0,How long is Prof. Wangari Maathai Road in the Nairobi area?
+58,100.0,0.0,0.0,D,0.0,100.0,How long is Roasters Roundabout in the Nairobi area?
+59,700.0,7000.0,21000.0,B,2100.0,14000.0,How long is Garden Estate Road in the Nairobi area?
+60,5700.0,190.0,1900.0,C,570.0,3800.0,How long is Parklands Road in the Nairobi area?
+61,1240.0,12400.0,24800.0,B,37200.0,3720.0,How long is Naivasha Road in the Nairobi area?
+62,13800.0,690.0,2070.0,D,6900.0,20700.0,How long is Enterprise Road in the Nairobi area?
+63,340.0,6800.0,3400.0,C,10200.0,1020.0,How long is 6th Parklands Avenue in the Nairobi area?
+64,420.0,2800.0,1400.0,C,140.0,4200.0,How long is Nyerere Road in the Nairobi area?
+65,100.0,0.0,100.0,E,0.0,0.0,How long is Denis Pritt Road in the Nairobi area?
+66,23100.0,2310.0,770.0,D,7700.0,15400.0,How long is Kasarani Mwiki Road in the Nairobi area?
+67,0.0,0.0,0.0,C,100.0,100.0,How long is Nairobi - Mombasa Road in the Nairobi area?
+68,100.0,2400.0,1600.0,D,800.0,240.0,How long is River Road in the Nairobi area?
+69,100.0,0.0,0.0,D,0.0,100.0,How long is Muranga Road in the Nairobi area?
+70,8100.0,2430.0,810.0,A,24300.0,16200.0,How long is Magadi Road in the Nairobi area?
+71,5100.0,10200.0,15300.0,A,1530.0,510.0,How long is Lang'ata Link Road in the Nairobi area?
+72,1770.0,590.0,5900.0,C,17700.0,11800.0,How long is Juja Road in the Nairobi area?
+73,0.0,100.0,0.0,E,100.0,0.0,How long is Kagundo Road in the Nairobi area?
+74,360.0,10800.0,7200.0,E,1080.0,3600.0,How long is Dagoretti Road in the Nairobi area?
+75,16200.0,2430.0,8100.0,C,810.0,24300.0,How long is Waiyaki Red Hill Link Road in the Nairobi area?
+76,41400.0,2070.0,20700.0,C,62100.0,6210.0,How long is Ngecha Road in the Nairobi area?
+77,2800.0,5600.0,840.0,A,8400.0,280.0,How long is Hospital Road in the Nairobi area?
+78,100.0,1500.0,150.0,E,1000.0,500.0,How long is Hospital Close in the Nairobi area?
+79,720.0,240.0,7200.0,D,2400.0,4800.0,How long is Elgon Road in the Nairobi area?
+80,3900.0,130.0,1300.0,C,2600.0,390.0,How long is Matumbato Road in the Nairobi area?
+81,100.0,300.0,100.0,D,100.0,200.0,How long is Oloitokitok Road in the Nairobi area?
+82,600.0,100.0,900.0,E,100.0,300.0,How long is Oloitoktok Road in the Nairobi area?
+83,1900.0,5700.0,190.0,A,3800.0,570.0,How long is United Nations Avenue in the Nairobi area?
+84,1200.0,120.0,800.0,E,100.0,400.0,How long is Kungu Karumba Road in the Nairobi area?
+85,100.0,150.0,1000.0,D,500.0,1500.0,How long is Southern Bypass Expressway Entry in the Nairobi area?
+86,2630.0,78900.0,52600.0,D,26300.0,7890.0,How long is Nairobi Expressway in the Nairobi area?
+87,170.0,1700.0,510.0,B,5100.0,3400.0,How long is Lower Hill Road in the Nairobi area?
+88,1800.0,1200.0,600.0,C,180.0,100.0,How long is Capital Center Exit B in the Nairobi area?
+89,100.0,400.0,100.0,E,600.0,200.0,How long is Haile Selassie Exit in the Nairobi area?
+90,1000.0,150.0,500.0,C,100.0,1500.0,How long is Museum Hill Exit A in the Nairobi area?
+91,100.0,100.0,200.0,D,100.0,300.0,How long is SGR Expressway Exit in the Nairobi area?
+92,1500.0,500.0,100.0,B,150.0,1000.0,How long is Southern Bypass Expressway Exit in the Nairobi area?
+93,150.0,100.0,1000.0,D,500.0,1500.0,How long is Capital Center Exit A in the Nairobi area?
+94,3300.0,990.0,9900.0,A,330.0,6600.0,How long is Gitaru Road in the Nairobi area?
+95,600.0,400.0,200.0,C,100.0,100.0,How long is Latema Road in the Nairobi area?
+96,400.0,1200.0,120.0,A,800.0,100.0,How long is Ngara Road in the Nairobi area?
+97,100.0,100.0,400.0,D,200.0,600.0,How long is Uyoma Street in the Nairobi area?
+98,47100.0,4710.0,15700.0,C,1570.0,31400.0,How long is Lower Kabete Road in the Nairobi area?
+99,1700.0,3400.0,510.0,A,170.0,5100.0,How long is Tate Close in the Nairobi area?
+100,2800.0,1400.0,4200.0,B,420.0,140.0,How long is Ruaka Road in the Nairobi area?
+101,3900.0,1300.0,2600.0,B,130.0,390.0,How long is Sergeant Kahande Street in the Nairobi area?
+102,3600.0,1200.0,360.0,B,2400.0,120.0,How long is Athi Road in the Nairobi area?
+103,5100.0,510.0,15300.0,A,1530.0,10200.0,How long is Fedha Road in the Nairobi area?
+104,20700.0,13800.0,6900.0,C,2070.0,690.0,How long is Muthiora Road in the Nairobi area?
+105,14000.0,700.0,21000.0,D,7000.0,2100.0,How long is Muhuri Road in the Nairobi area?
+106,100.0,1800.0,180.0,D,600.0,1200.0,How long is Wangombe Road in the Nairobi area?
+107,2130.0,21300.0,7100.0,C,14200.0,710.0,How long is Kiboko Road in the Nairobi area?
+108,25200.0,12600.0,3780.0,B,1260.0,37800.0,How long is Ngecha Wangige Road in the Nairobi area?
+109,14100.0,470.0,1410.0,E,9400.0,4700.0,How long is Kirawa Road in the Nairobi area?
+110,280.0,2800.0,840.0,B,5600.0,8400.0,How long is Kiuru Road in the Nairobi area?
+111,3000.0,2000.0,300.0,D,1000.0,100.0,How long is Upper Kabate Road in the Nairobi area?
+112,12900.0,430.0,4300.0,C,1290.0,8600.0,How long is White Castle Road in the Nairobi area?
+113,16600.0,49800.0,4980.0,A,33200.0,1660.0,How long is Kikuyu Road in the Nairobi area?
+114,280.0,5600.0,840.0,D,2800.0,8400.0,How long is Kangundo Road in the Nairobi area?
+115,120.0,100.0,400.0,C,800.0,1200.0,How long is Kigwa Road in the Nairobi area?
+116,12300.0,1230.0,8200.0,D,4100.0,410.0,How long is Forest Line Road in the Nairobi area?
+117,2670.0,8900.0,17800.0,B,890.0,26700.0,How long is Kitisuru Road in the Nairobi area?
+118,6200.0,9300.0,310.0,E,930.0,3100.0,How long is Thome 2nd Avenue in the Nairobi area?
+119,370.0,3700.0,7400.0,B,1110.0,11100.0,How long is Grevillea Grove in the Nairobi area?
+120,890.0,17800.0,26700.0,D,8900.0,2670.0,How long is Old Mombasa Road in the Nairobi area?
+121,2310.0,15400.0,7700.0,C,770.0,23100.0,How long is Getathuru Road in the Nairobi area?
+122,1890.0,630.0,12600.0,D,6300.0,18900.0,How long is Jacaranda-Embakasi-Garrison Road in the Nairobi area?
+123,1800.0,180.0,1200.0,E,100.0,600.0,How long is Galana Road in the Nairobi area?
+124,10500.0,3500.0,1050.0,B,350.0,7000.0,How long is Mirema Road in the Nairobi area?
+125,2280.0,7600.0,15200.0,B,22800.0,760.0,How long is Rimpa Road in the Nairobi area?
+126,7000.0,2100.0,14000.0,A,700.0,21000.0,How long is Fortsmith Road in the Nairobi area?
+127,1280.0,25600.0,38400.0,D,12800.0,3840.0,How long is Kayole Spine Road in the Nairobi area?
+128,600.0,18000.0,6000.0,C,1800.0,12000.0,How long is Red Hill Road in the Nairobi area?
+129,8400.0,840.0,280.0,D,2800.0,5600.0,How long is Masimba Road in the Nairobi area?
+130,8200.0,410.0,4100.0,C,1230.0,12300.0,How long is Kangaru Road in the Nairobi area?
+131,450.0,3000.0,150.0,D,1500.0,4500.0,How long is Elgeyo Marakwet Road in the Nairobi area?
+132,2100.0,210.0,1400.0,D,700.0,100.0,How long is Suna Road in the Nairobi area?
+133,690.0,6900.0,2300.0,C,230.0,4600.0,How long is Heshima Road in the Nairobi area?
+134,4200.0,1400.0,2800.0,B,140.0,420.0,How long is Ambira Road in the Nairobi area?
+135,800.0,120.0,100.0,E,1200.0,400.0,How long is Bondo Street in the Nairobi area?
+136,3300.0,110.0,2200.0,D,1100.0,330.0,How long is Kamukunji Road in the Nairobi area?
+137,1110.0,7400.0,3700.0,C,11100.0,370.0,How long is 2nd Avenue Eastleigh in the Nairobi area?
+138,190.0,5700.0,3800.0,D,1900.0,570.0,How long is Chai Road in the Nairobi area?
+139,1200.0,180.0,1800.0,D,600.0,100.0,How long is Kipande Athumani Street in the Nairobi area?
+140,4800.0,1600.0,3200.0,B,480.0,160.0,How long is Muratina Street in the Nairobi area?
+141,510.0,3400.0,1700.0,C,170.0,5100.0,How long is Kirongothi Street in the Nairobi area?
+142,170.0,3400.0,1700.0,C,5100.0,510.0,How long is Major Jackson Muirithi Street in the Nairobi area?
+143,170.0,1700.0,510.0,B,5100.0,3400.0,How long is Captain Mungai Street in the Nairobi area?
+144,400.0,120.0,1200.0,A,800.0,100.0,How long is Major Jackson Murithi Street in the Nairobi area?
+145,3200.0,9600.0,6400.0,A,960.0,320.0,How long is Ridgeways Road in the Nairobi area?
+146,14400.0,480.0,4800.0,C,9600.0,1440.0,How long is Marurui Road in the Nairobi area?
+147,120.0,1200.0,360.0,B,2400.0,3600.0,How long is Cotton Avenue in the Nairobi area?
+148,2400.0,1600.0,800.0,C,100.0,240.0,How long is Ring Road Kilimani in the Nairobi area?
+149,4100.0,410.0,8200.0,A,1230.0,12300.0,How long is Argwings Kodhek Road in the Nairobi area?
+150,190.0,3800.0,1900.0,C,5700.0,570.0,How long is Lamu Road in the Nairobi area?
+151,6000.0,2000.0,4000.0,B,600.0,200.0,How long is Digo Road in the Nairobi area?
+152,3000.0,6000.0,300.0,A,9000.0,900.0,How long is Olenguruone Road in the Nairobi area?
+153,2200.0,3300.0,330.0,D,1100.0,110.0,How long is Oloiktoktok Road in the Nairobi area?
+154,540.0,3600.0,180.0,D,1800.0,5400.0,How long is Ole Odume Road in the Nairobi area?
+155,3400.0,10200.0,6800.0,A,340.0,1020.0,How long is Joseph Kang'ethe in the Nairobi area?
+156,6700.0,2010.0,670.0,A,13400.0,20100.0,How long is Riverside Drive in the Nairobi area?
+157,100.0,500.0,150.0,B,1500.0,1000.0,How long is Ring Road Kileleshwa in the Nairobi area?
+158,1170.0,11700.0,3900.0,C,390.0,7800.0,How long is Riara Road in the Nairobi area?
+159,3200.0,1600.0,160.0,B,480.0,4800.0,How long is Kingara Road in the Nairobi area?
+160,18000.0,12000.0,6000.0,C,1800.0,600.0,How long is James Gichuru Road in the Nairobi area?
+161,13500.0,450.0,1350.0,E,9000.0,4500.0,How long is Gitanga Road in the Nairobi area?
+162,4600.0,6900.0,230.0,E,690.0,2300.0,How long is Valley Road in the Nairobi area?
+163,2100.0,6300.0,210.0,A,4200.0,630.0,How long is Processional Way in the Nairobi area?
+164,140.0,420.0,1400.0,C,4200.0,2800.0,How long is Upper Hill Road in the Nairobi area?
+165,0.0,0.0,0.0,C,100.0,100.0,How long is Mondlane Street in the Nairobi area?
+166,110.0,1100.0,3300.0,B,2200.0,330.0,How long is State House Avenue in the Nairobi area?
+167,4900.0,1470.0,14700.0,A,490.0,9800.0,How long is State House Road in the Nairobi area?
+168,170.0,5100.0,510.0,E,3400.0,1700.0,How long is Woodlands Road in the Nairobi area?
+169,5800.0,870.0,8700.0,E,290.0,2900.0,How long is Lenana Road in the Nairobi area?
+170,100.0,2700.0,1800.0,E,270.0,900.0,How long is Koinage Street in the Nairobi area?
+171,100.0,2000.0,3000.0,D,1000.0,300.0,How long is Chiromo Lane in the Nairobi area?
+172,5400.0,180.0,3600.0,E,540.0,1800.0,How long is Mogotio Road in the Nairobi area?
+173,270.0,2700.0,900.0,C,100.0,1800.0,How long is Ojijo Road in the Nairobi area?
+174,300.0,2000.0,100.0,D,1000.0,3000.0,How long is Milimani Road in the Nairobi area?
+175,0.0,100.0,0.0,D,0.0,100.0,How long is Bunyala Road Roundabout in the Nairobi area?
+176,1400.0,4200.0,140.0,A,420.0,2800.0,How long is Commercial Street in the Nairobi area?
+177,3300.0,2200.0,330.0,D,1100.0,110.0,How long is Pumwani Road in the Nairobi area?
+178,9000.0,300.0,900.0,E,6000.0,3000.0,How long is Muthangari Road in the Nairobi area?
+179,0.0,100.0,0.0,E,100.0,0.0,How long is M.P. Shah Roundabout in the Nairobi area?
+180,1410.0,9400.0,4700.0,C,470.0,14100.0,How long is Muthaiga Road in the Nairobi area?
+181,23200.0,11600.0,1160.0,B,3480.0,34800.0,How long is Loresho Ridge in the Nairobi area?
+182,8100.0,270.0,810.0,E,5400.0,2700.0,How long is Kyuna Road in the Nairobi area?
+183,210.0,2100.0,6300.0,B,4200.0,630.0,How long is Mzima Springs Road in the Nairobi area?
+184,2400.0,1600.0,800.0,C,240.0,100.0,How long is Ring Road in the Nairobi area?
+185,330.0,3300.0,110.0,E,2200.0,1100.0,How long is Sakwero Road in the Nairobi area?
+186,300.0,600.0,100.0,A,900.0,100.0,How long is Ladhies Road- in the Nairobi area?
+187,0.0,100.0,100.0,E,0.0,0.0,How long is Kariakor Roundabout in the Nairobi area?
+188,600.0,100.0,100.0,E,400.0,200.0,How long is Ring Road Ngara in the Nairobi area?
+189,3000.0,2000.0,300.0,D,1000.0,100.0,How long is Butecho in the Nairobi area?
+190,1100.0,110.0,2200.0,A,330.0,3300.0,How long is Wangu Avenue in the Nairobi area?
+191,720.0,4800.0,2400.0,C,240.0,7200.0,How long is Nyasa Road in the Nairobi area?
+192,2700.0,100.0,1800.0,D,900.0,270.0,How long is Park Road in the Nairobi area?
+193,0.0,0.0,100.0,E,100.0,0.0,How long is Runda Roundabout in the Nairobi area?
+194,2700.0,810.0,270.0,A,5400.0,8100.0,How long is Woodvale Drive in the Nairobi area?
+195,100.0,100.0,0.0,E,0.0,0.0,How long is Ajuoga Road in the Nairobi area?
+196,720.0,240.0,2400.0,C,7200.0,4800.0,How long is Nile Road in the Nairobi area?
+197,6000.0,2000.0,200.0,B,4000.0,600.0,How long is Buruburu Road in the Nairobi area?
+198,330.0,990.0,6600.0,D,3300.0,9900.0,How long is Rabai Road in the Nairobi area?
+199,240.0,100.0,800.0,C,2400.0,1600.0,How long is Desai Road in the Nairobi area?
+200,600.0,6000.0,2000.0,C,200.0,4000.0,How long is General Waruingi Street in the Nairobi area?
+201,2300.0,4600.0,6900.0,A,690.0,230.0,How long is Fairview Road in the Nairobi area?
+202,200.0,300.0,100.0,E,100.0,100.0,How long is Globe Roundabout in the Nairobi area?
+203,2100.0,4200.0,6300.0,A,210.0,630.0,How long is Kirinyaga Road in the Nairobi area?
+204,100.0,1800.0,2700.0,E,270.0,900.0,How long is New Garden Estate Road in the Nairobi area?
+205,11700.0,7800.0,1170.0,D,3900.0,390.0,How long is USIU Road in the Nairobi area?
+206,2400.0,16000.0,800.0,E,24000.0,8000.0,How long is Moi Drive in the Nairobi area?
+207,8400.0,5600.0,280.0,E,840.0,2800.0,How long is Malewa Road in the Nairobi area?
+208,1000.0,300.0,2000.0,A,3000.0,100.0,How long is Mtindwa Road in the Nairobi area?
+209,4200.0,1400.0,140.0,B,420.0,2800.0,How long is Kapenguria Road in the Nairobi area?
+210,150.0,1500.0,3000.0,B,4500.0,450.0,How long is Kawangware Road in the Nairobi area?
+211,140.0,4200.0,2800.0,D,1400.0,420.0,How long is Kaptagat Road in the Nairobi area?
+212,3000.0,1500.0,450.0,B,150.0,4500.0,How long is Mwangaza Road in the Nairobi area?
+213,150.0,1500.0,450.0,B,3000.0,4500.0,How long is Malewa Road 2 in the Nairobi area?
+214,3300.0,330.0,1100.0,C,2200.0,110.0,How long is Mumias Road in the Nairobi area?
+215,38100.0,12700.0,25400.0,B,1270.0,3810.0,How long is Gataka Road in the Nairobi area?
+216,40200.0,6030.0,60300.0,E,2010.0,20100.0,How long is Langata South Road in the Nairobi area?
+217,100.0,300.0,100.0,E,200.0,100.0,How long is Hinga Road in the Nairobi area?
+218,1710.0,570.0,17100.0,D,5700.0,11400.0,How long is Koma Rock Road in the Nairobi area?
+219,15300.0,510.0,1530.0,E,10200.0,5100.0,How long is Kabiria Road in the Nairobi area?
+220,3800.0,1900.0,190.0,B,570.0,5700.0,How long is Kinyanjui Road in the Nairobi area?
+221,100.0,0.0,0.0,E,100.0,0.0,How long is Wabera Street in the Nairobi area?
+222,440.0,8800.0,13200.0,D,4400.0,1320.0,How long is Masai Lodge Road in the Nairobi area?
+223,25200.0,8400.0,840.0,B,16800.0,2520.0,How long is Peponi Road in the Nairobi area?
+224,23100.0,7700.0,770.0,B,2310.0,15400.0,How long is Spring Valley Road in the Nairobi area?
+225,7200.0,360.0,1080.0,D,3600.0,10800.0,How long is Manyanja Road in the Nairobi area?
+226,3100.0,930.0,9300.0,A,6200.0,310.0,How long is Mumias South Road in the Nairobi area?
+227,7200.0,2400.0,4800.0,B,240.0,720.0,How long is Brookside Drive in the Nairobi area?
+228,1410.0,470.0,14100.0,D,4700.0,9400.0,How long is Donholm Road in the Nairobi area?
+229,130.0,390.0,2600.0,D,1300.0,3900.0,How long is Taarifa Road in the Nairobi area?
+230,100.0,400.0,600.0,E,100.0,200.0,How long is Margaret Wambui Kenyatta Road in the Nairobi area?
+231,4200.0,420.0,12600.0,A,1260.0,8400.0,How long is Thigiri Ridge Road in the Nairobi area?
+232,5200.0,2600.0,7800.0,B,780.0,260.0,How long is Dennis Pritt Road in the Nairobi area?
+233,0.0,0.0,100.0,D,0.0,100.0,How long is Lunga Lunga Roundabout in the Nairobi area?
+234,100.0,100.0,100.0,C,300.0,200.0,How long is City Stadium Roundabout in the Nairobi area?
+235,100.0,0.0,100.0,E,0.0,0.0,How long is D.O.D Roundabout in the Nairobi area?
+236,0.0,0.0,100.0,E,100.0,0.0,How long is James Gichuru Junction in the Nairobi area?
+237,190.0,3800.0,570.0,D,1900.0,5700.0,How long is ICD Road in the Nairobi area?
+238,150.0,3000.0,1500.0,C,4500.0,450.0,How long is Northview Road in the Nairobi area?
+239,100.0,600.0,300.0,C,900.0,100.0,How long is Langata Link Road in the Nairobi area?
+240,250.0,750.0,5000.0,D,2500.0,7500.0,How long is Charles New Road in the Nairobi area?
+241,4000.0,2000.0,600.0,B,6000.0,200.0,How long is Karbarnet Road in the Nairobi area?
+242,0.0,100.0,0.0,D,0.0,100.0,How long is Nyayo Stadium Roundabout in the Nairobi area?
+243,0.0,0.0,100.0,D,0.0,100.0,How long is Sarit Centre Roundabout in the Nairobi area?
+244,1200.0,400.0,120.0,B,800.0,100.0,How long is Dunga Road in the Nairobi area?
+245,400.0,600.0,200.0,C,100.0,100.0,How long is Runda Road in the Nairobi area?
+246,0.0,100.0,0.0,D,0.0,100.0,How long is Lusaka Road Round About in the Nairobi area?
+247,0.0,0.0,100.0,D,0.0,100.0,How long is Cargen Roundabout in the Nairobi area?
+248,100.0,1200.0,180.0,D,600.0,1800.0,How long is Ladhies Road in the Nairobi area?
+249,0.0,0.0,100.0,D,0.0,100.0,How long is Muthaiga Round About in the Nairobi area?
+250,0.0,100.0,0.0,E,100.0,0.0,How long is Muthaiaga Road in the Nairobi area?
+251,3400.0,170.0,1700.0,C,5100.0,510.0,How long is Eastleigh 1st Avenue in the Nairobi area?
+252,100.0,100.0,0.0,E,0.0,0.0,How long is Kumasi Road in the Nairobi area?
+253,100.0,0.0,0.0,D,0.0,100.0,How long is Redhill Road in the Nairobi area?
+254,1000.0,300.0,3000.0,A,2000.0,100.0,How long is Woodvale Grove in the Nairobi area?
+255,1400.0,700.0,2100.0,B,210.0,100.0,How long is Kikambala Road in the Nairobi area?
+256,6400.0,9600.0,960.0,E,320.0,3200.0,How long is Hamza Road in the Nairobi area?
+257,51900.0,17300.0,5190.0,B,1730.0,34600.0,How long is Cemetery Road in the Nairobi area?
+258,0.0,100.0,0.0,D,0.0,100.0,How long is Mama Ngina Street in the Nairobi area?
+259,0.0,100.0,0.0,D,0.0,100.0,How long is City Mortuary Round About in the Nairobi area?
+260,100.0,0.0,100.0,E,0.0,0.0,How long is Prof. Wangari Mathai Road in the Nairobi area?
+261,200.0,300.0,100.0,E,100.0,100.0,How long is Kamiti Road in the Nairobi area?
+262,0.0,0.0,100.0,E,100.0,0.0,How long is Doonholm Road in the Nairobi area?
+263,100.0,200.0,300.0,E,100.0,100.0,How long is Nairobi Expressway Link in the Nairobi area?

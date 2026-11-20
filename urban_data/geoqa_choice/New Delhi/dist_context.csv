@@ -1,0 +1,1315 @@
+id,question,answer,A,B,C,D
+0,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Golden Dragon. Detailed address: Shiv Mandir Marg, Lajpat Nagar III, Lajpat Nagar II, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110065, India
+2. McDonald's. Detailed address: Munirka Marg, Vasant Vihar, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India",D,15.5,3.19,2.8,8.22
+1,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Army Golf Course. Detailed address: Cariappa Marg, Arjun Vihar, Delhi Cantonment, New Delhi, Delhi, 110010, India
+2. School of Biological Sciences. Detailed address: Indian Institute of Technology Delhi, Gamal Abdel Nasser Marg, Kalu Sarai, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India",D,2.41,12.57,3.57,6.73
+2,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ccd. Detailed address: Nai Basti Road, Saket Tehsil, South Delhi, Delhi, 110080, India
+2. टंकुश. Detailed address: Shaheed Jeet Singh Marg, Mehrauli Tehsil, South Delhi, Delhi, 110016, India",D,10.2,9.69,12.88,6.64
+3,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kashmiri Market. Detailed address: Aurobindo Marg, South Extension, Vasant Vihar Tehsil, New Delhi, Defence Colony Tehsil, South East Delhi, Delhi, 110029, India
+2. NIHFW Apartments. Detailed address: Vasant Vihar Tehsil, New Delhi, Delhi, 110066, India",B,5.81,4.02,11.48,10.74
+4,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Police assistance booth. Detailed address: Prithviraj Lane, Lodhi Estate, Rabindra Nagar, Chanakya Puri Tehsil, New Delhi, Delhi, 110003, India
+2. UCO Bank. Detailed address: APJ School Road, Malviya Nagar, Sheikh Sarai, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",D,12.21,11.98,12.25,7.17
+5,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bindu's Ayushi. Detailed address: IGNOU Road, Indira Enclave, Neb Sarai, Saket Tehsil, South Delhi, Delhi, 110068, India
+2. juice and fast food shop. Detailed address: JNU Ring Road, Vasant Vihar Tehsil, New Delhi, Mehrauli Tehsil, South Delhi, Delhi, 110067, India",C,2.27,7.96,5.38,9.26
+6,"What is the straight-line distance between the following two locations? (Unit is km)
+1. South Delhi public school. Detailed address: Dron Marg, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India
+2. Bharat Petroleum. Detailed address: Church Road, Gopinath Bazar, Delhi Cantonment, New Delhi, Delhi, 110046, India",B,15.91,10.38,4.58,13.25
+7,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Moktoo. Detailed address: Saket Road, Press Enclave, Saket, Hauz Khas Tehsil, South Delhi, Delhi, 110068, India
+2. Bikaner Sweets. Detailed address: Pandit Trilok Chandra Sharma Marg, Khirki, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",C,2.59,7.47,1.08,5.63
+8,"What is the straight-line distance between the following two locations? (Unit is km)
+1. A BLOCK. Detailed address: Lieutenant Ribhu Saxena Marg, Vasant Vihar, Vasant Vihar Tehsil, New Delhi, Delhi, 110067, India
+2. CPWD Type V Block 7 Building. Detailed address: Block 7, Bhishma Pitamah Marg, New Delhi, Defence Colony Tehsil, South East Delhi, Delhi, 110003, India",A,7.51,6.08,5.15,0.52
+9,"What is the straight-line distance between the following two locations? (Unit is km)
+1. McDonald's. Detailed address: Munirka Marg, Vasant Vihar, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India
+2. All India Institute of Medical Sciences (AIIMS) Blood Bank. Detailed address: Aurobindo Marg, South Extension, New Delhi, Defence Colony Tehsil, South Delhi, Delhi, 110029, India",B,2.0,4.69,12.55,7.35
+10,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Anju's Skin and Hair Beauty Clinic. Detailed address: Ho Chi Minh Marg, Saomi Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Aman Medical Centre. Detailed address: Bhulbhulaiya Road, Mehrauli, Mehrauli Tehsil, South Delhi, Delhi, 110030, India",D,12.52,1.72,11.35,4.91
+11,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Balak Ram Hospital. Detailed address: IGNOU Road, Indira Enclave, Neb Sarai, Saket Tehsil, South Delhi, Delhi, 110030, India
+2. Delhi Institute Of Digital Marketing. Detailed address: Benito Juarez Marg, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India",A,9.13,1.79,14.46,14.5
+12,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Padmanabham. Detailed address: Janpath, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 110001, India
+2. Union Bank of India. Detailed address: Shaheed Sudhir Tyagi Marg, Netaji Nagar Market, Netaji Nagar, Vasant Vihar Tehsil, New Delhi, Delhi, 110023, India",B,3.14,7.1,6.07,8.72
+13,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Vivekananda yoga Anusandhana samsthana. Detailed address: Aurobindo Marg, Hauz Khas Enclave, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India
+2. Elinore Aesthetic. Detailed address: Netaji Lane, Safdarjung Enclave, Vasant Vihar Tehsil, New Delhi, Delhi, 110029, India",B,6.99,1.91,9.63,4.89
+14,"What is the straight-line distance between the following two locations? (Unit is km)
+1. डाक निदेशालय. Detailed address: Sansad Marg, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 110001, India
+2. Shahi Masjid. Detailed address: Masjid Road, Jal Vihar, Defence Colony Tehsil, South East Delhi, Delhi, 110014, India",A,5.57,10.74,11.17,11.66
+15,"What is the straight-line distance between the following two locations? (Unit is km)
+1. M Fit Gym. Detailed address: 118, Satya Niketan, Delhi Cantonment, New Delhi, Delhi, 110021, India
+2. Dr. Amit Mangla, Dr. Sheetal Mangla. Detailed address: C-50, Basement, Ho Chi Minh Marg, Saomi Nagar, New Delhi, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",B,3.06,7.44,12.43,10.5
+16,"What is the straight-line distance between the following two locations? (Unit is km)
+1. National Handicrafts Museum. Detailed address: Pragati Maidan Tunnel, Chanakya Puri Tehsil, Delhi, Kotwali Tehsil, Central Delhi, Delhi, 110006, India
+2. Kartar Singh Market. Detailed address: Palam Marg, Vasant Vihar Tehsil, New Delhi, Delhi, 110066, India",B,6.15,9.14,14.64,4.41
+17,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Orthostar Hospital. Detailed address: A Block Lane, Khanpur, Sainik Farms, Hauz Khas Tehsil, South Delhi, Delhi, 110062, India
+2. Henry Cafe. Detailed address: IGNOU Road, Said-ul-Ajaib Village, Neb Sarai, Saket Tehsil, South Delhi, Delhi, 110068, India",B,0.51,2.64,7.65,8.18
+18,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Shahi Masjid. Detailed address: Masjid Road, Jal Vihar, Defence Colony Tehsil, South East Delhi, Delhi, 110014, India
+2. Fit King Fitness & Health. Detailed address: Veer Savarkar Marg, Lajpat Nagar III, Lajpat Nagar II, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India",C,4.58,4.45,1.53,2.73
+19,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Amour Bistro. Detailed address: Malcha Marg, Malcha, Chanakya Puri Tehsil, New Delhi, Delhi, 110021, India
+2. delhi high court block 2. Detailed address: Justice Sunanda Bhandare Marg, Cornwallis Colony, Chanakya Puri Tehsil, New Delhi, Delhi, 110503, India",A,4.92,12.11,0.72,11.64
+20,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Infinite. Detailed address: Munirka Marg, Vasant Vihar, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India
+2. Dyal Singh College. Detailed address: Lodhi Road, Defence Colony Tehsil, South East Delhi, Delhi, 110003, India",B,5.02,7.46,9.19,10.37
+21,"What is the straight-line distance between the following two locations? (Unit is km)
+1. G.D.Goenka World School. Detailed address: Bhagwan Mahavir Marg, Vasant Kunj, Vasant Vihar Tehsil, New Delhi, Delhi, 110070, India
+2. Divine. Detailed address: 432, Lane 2, Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",B,9.81,8.09,14.71,11.91
+22,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 24×7 cafe. Detailed address: Nelson Mandela Marg, Vasant Kunj, Vasant Vihar Tehsil, New Delhi, Delhi, 110067, India
+2. South Delhi public school. Detailed address: Dron Marg, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India",C,3.94,1.61,8.08,13.52
+23,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Indicash. Detailed address: Path to Khirki Masjid, Khirki, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Cafe 147. Detailed address: IGNOU Road, Indira Enclave, Neb Sarai, Saket Tehsil, South Delhi, Delhi, 110068, India",B,8.74,2.96,10.41,10.44
+24,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Biriyani. Detailed address: Basant Kaur Marg, Shivalik, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Academy Of Retail Excellence. Detailed address: 103, Satya Niketan, Delhi Cantonment, New Delhi, Delhi, 110021, India",A,6.93,13.04,12.26,10.79
+25,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chanakya Bhawan. Detailed address: चाणक्य भवन, Vinay Marg, Chanakyapuri, Chanakya Puri Tehsil, New Delhi, Delhi, 110021, India
+2. Central Board of Irrigation and Power. Detailed address: Malcha, Chanakya Puri Tehsil, New Delhi, Delhi, 110021, India",D,5.02,4.5,4.84,2.03
+26,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sangam. Detailed address: 780, Major Somnath Marg, Sector 9, Ramakrishna Puram, Vasant Vihar Tehsil, New Delhi, Delhi, 110022, India
+2. RBL Bank. Detailed address: Green Lane, Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",C,5.05,1.66,6.47,13.59
+27,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bikaner Sweets. Detailed address: Pandit Trilok Chandra Sharma Marg, Khirki, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Off Campus. Detailed address: Benito Juarez Marg, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India",D,9.52,10.08,9.49,7.96
+28,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dohful Cookies & Coffee. Detailed address: IIT Flyover, Kalu Sarai, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India
+2. Safdarjung H back gate. Detailed address: Aurobindo Marg, Yusuf Sarai Market, South Extension, Defence Colony Tehsil, South East Delhi, Delhi, 110029, India",B,0.85,2.57,9.05,4.75
+29,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Arogya Rejuvenating Point. Detailed address: Pandit Trilok Chandra Sharma Marg, Khirki, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. CGHS Dispensary South Avenue. Detailed address: South Avenue, Willingdon Crescent, Chanakya Puri Tehsil, New Delhi, Delhi, 110011, India",B,11.95,8.84,1.29,16.58
+30,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mandi House Gol Chakkar Park. Detailed address: Mandi House Chowk, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 020626, India
+2. MCD Parking. Detailed address: Feroze Gandhi Road, Lajpat Nagar III, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India",A,6.65,8.15,13.0,8.45
+31,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cafe Pink. Detailed address: Hauz Khas Village Road, Hauz Khas Village, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India
+2. Shri Kamal Medicos. Detailed address: Pramod Mahajan Marg, Press Enclave, Saket, Hauz Khas Tehsil, South Delhi, Delhi, 110030, India",B,7.43,3.46,5.44,4.99
+32,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sagar Raina. Detailed address: Lane G, Sarojini Nagar, Vasant Vihar Tehsil, New Delhi, Delhi, 110023, India
+2. Coast Cafe. Detailed address: Hauz Khas Village Road, Hauz Khas Village, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India",C,8.64,6.89,2.4,6.58
+33,"What is the straight-line distance between the following two locations? (Unit is km)
+1. India Post, Hauz Khas. Detailed address: Aurobindo Marg, Safdarjung Development Area, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India
+2. Blue Tokai Cafe. Detailed address: 31, Aurobindo Marg, Hauz Khas Enclave, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India",B,3.85,0.99,6.65,3.83
+34,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Aahar. Detailed address: Shaheed Jeet Singh Marg, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110067, India
+2. Sukhmani Hospital. Detailed address: Chaudhary Harsukh Marg, Arjun Nagar, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110029, India",B,8.53,2.4,6.22,7.84
+35,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Doctor Rakesh Bhargava. Detailed address: 291, Greater Kailash 1, Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. Cafe Unbound. Detailed address: Benito Juarez Marg, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India",C,11.0,14.75,7.73,10.14
+36,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Behl Hospital. Detailed address: Mahatma Gandhi Marg, Naraina, Delhi Cantonment, New Delhi, Delhi, 110028, India
+2. Apollo Pharmacy. Detailed address: Late Shri Tilak Raj Malhotra Marg, Lajpat Nagar I, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India",B,17.25,11.6,5.52,9.8
+37,"What is the straight-line distance between the following two locations? (Unit is km)
+1. BSF office. Detailed address: Tamil Sangam Marg, West Block, Ramakrishna Puram, Vasant Vihar Tehsil, New Delhi, Delhi, 110022, India
+2. The British School. Detailed address: Canteen, San Martin Marg, Malcha, Chanakya Puri Tehsil, New Delhi, Delhi, 110021, India",B,8.67,3.5,8.86,6.69
+38,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lohit Hostel. Detailed address: Nelson Mandela Marg, Vasant Kunj, Vasant Vihar Tehsil, New Delhi, Delhi, 110067, India
+2. Garvi Gujarat Bhawan. Detailed address: Darbhanga Lane, Pandara Park, Chanakya Puri Tehsil, New Delhi, Delhi, 100011, India",C,6.37,13.13,9.4,5.08
+39,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Indian Oil. Detailed address: Lala Lajpat Rai Path, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India
+2. Government hospital, Madangir. Detailed address: Maharishi Valmiki Marg, Dakshinpuri, Ambedkar Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110062, India",B,3.76,7.77,3.7,11.75
+40,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pebble Court. Detailed address: Jawaharlal Nehru University, Street D, Munirka DDA Flats, Vasant Vihar Tehsil, New Delhi, Delhi, 110067, India
+2. Talkatora Garden. Detailed address: Mother Teresa Crescent, Willingdon Crescent, Chanakya Puri Tehsil, New Delhi, Delhi, 110004, India",C,15.44,16.17,10.0,8.73
+41,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Delhi Institute Of Digital Marketing. Detailed address: Benito Juarez Marg, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India
+2. ccd. Detailed address: Nai Basti Road, Saket Tehsil, South Delhi, Delhi, 110080, India",B,5.55,11.9,13.19,16.81
+42,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chandan Market. Detailed address: Gopala, Road No. 3, Greater Kailash II, Alaknanda, Kalkaji Tehsil, South East Delhi, Delhi, 110076, India
+2. School of physical sciences. Detailed address: Jawaharlal Nehru University, Street D, Munirka DDA Flats, Vasant Vihar Tehsil, New Delhi, Delhi, 110067, India",A,7.95,14.93,5.42,12.36
+43,"What is the straight-line distance between the following two locations? (Unit is km)
+1. SmartBike. Detailed address: Copernicus Marg, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 020626, India
+2. Dr Choudary Pet Clinic. Detailed address: Road No 5, Shantiniketan, Moti Bagh, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India",A,8.25,2.58,4.75,11.9
+44,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Syndicate Bank. Detailed address: Palam Marg, Vasant Vihar Tehsil, New Delhi, Delhi, 110022, India
+2. Subroto Park Police Station. Detailed address: Dhaula Kuan Flyover, Dhaula Kuan, Delhi Cantonment, New Delhi, Delhi, 110021, India",A,3.88,0.55,11.03,9.75
+45,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kendriya Vidyalaya No. 2. Detailed address: Delhi-Gurugram Expressway, Vikram Vihar, Delhi Cantonment, New Delhi, Delhi, 110010, India
+2. Mandi House Gol Chakkar Park. Detailed address: Mandi House Chowk, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 020626, India",C,7.62,7.27,10.59,3.33
+46,"What is the straight-line distance between the following two locations? (Unit is km)
+1. A block. Detailed address: Indian Statistical Institute, Delhi, Shaheed Jeet Singh Marg, New Delhi, Mehrauli Tehsil, South Delhi, Delhi, 110016, India
+2. Shanti Park. Detailed address: Chanakyapuri, Chanakya Puri Tehsil, New Delhi, Delhi, 110021, India",A,6.29,7.78,10.83,3.57
+47,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Blue Tokai Cafe. Detailed address: 31, Aurobindo Marg, Hauz Khas Enclave, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India
+2. ICICI Bank. Detailed address: Underpass, Defence Colony Tehsil, South East Delhi, Delhi, 110503, India",B,12.83,6.33,2.78,4.27
+48,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ajay Ahuja Park. Detailed address: Maharishi Raman Marg, Defence Colony Tehsil, South East Delhi, Delhi, 110003, India
+2. Jagdish Store. Detailed address: Mahatma Gandhi Marg, Lajpat Nagar III, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India",D,9.79,10.0,8.82,2.3
+49,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Shri Shani Dev Mandir. Detailed address: Vaishno Devi Marg, Lajpat Nagar I, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India
+2. medicine point. Detailed address: Upper gali, Phase II, Sheikh Sarai, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",C,2.3,8.91,4.91,2.22
+50,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Aka Gaka. Detailed address: Bhishma Pitamah Marg, Kotla Mubarak, South Extension, Defence Colony Tehsil, South East Delhi, Delhi, 110049, India
+2. BSF Hospital. Detailed address: Mehrauli Badarpur Road, Tigri, Saket Tehsil, South Delhi, Delhi, 110062, India",C,13.51,8.11,6.95,4.41
+51,"What is the straight-line distance between the following two locations? (Unit is km)
+1. India Meteorological Department. Detailed address: Lodhi Road, Jor Bagh, Defence Colony Tehsil, South East Delhi, Delhi, 110003, India
+2. India Africa Friendship Rose Garden. Detailed address: Sir Edmund Hillary Marg, Chanakyapuri, Chanakya Puri Tehsil, New Delhi, Delhi, 110021, India",C,1.95,9.11,3.64,1.19
+52,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Vasant Kunj Sec A Children Park. Detailed address: Pkt-B Sec-A, Mehrauli Tehsil, South Delhi, Delhi, 110070, India
+2. Pebble Court. Detailed address: Jawaharlal Nehru University, Street D, Munirka DDA Flats, Vasant Vihar Tehsil, New Delhi, Delhi, 110067, India",A,2.88,1.54,3.98,4.87
+53,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sitaram Bhawan. Detailed address: 55, Maidan Garhi, Neb Sarai, Saket Tehsil, South Delhi, Delhi, 110068, India
+2. Vasant Vihar Club. Detailed address: Swimming Pool, Paschimi Marg, Vasant Vihar, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India",B,10.43,7.84,1.62,4.66
+54,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Doctor K.L. Jindal. Detailed address: Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. Pause. Detailed address: Basant Kaur Marg, Bhavishya Nidhi Enclave, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",D,4.18,9.08,3.88,2.24
+55,"What is the straight-line distance between the following two locations? (Unit is km)
+1. IDBI Bank. Detailed address: Pramod Mahajan Marg, Press Enclave, Saket, Hauz Khas Tehsil, South Delhi, Delhi, 110068, India
+2. Shiv Mandir. Detailed address: Maharishi Dayanand Marg, Malviya Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",C,9.42,1.15,2.19,4.19
+56,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Junior School Ground. Detailed address: Sardar Patel Vidyalaya, 14-17 Lodhi Estate, Lodhi Estate, Chanakya Puri Tehsil, New Delhi, Delhi, 110003, India
+2. Old Parliament House. Detailed address: Parliament Complex, Rotary Number 47, Rakab Ganj, Chanakya Puri Tehsil, New Delhi, Delhi, 110004, India",B,7.09,2.79,1.23,6.7
+57,"What is the straight-line distance between the following two locations? (Unit is km)
+1. IIT Hauz Khas. Detailed address: Central Avenue, Kalu Sarai, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India
+2. Siri Fort Sports Complex. Detailed address: Asian Games Village Road, Asian Games Village, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",D,3.63,1.2,4.26,2.28
+58,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Henry Cafe. Detailed address: IGNOU Road, Said-ul-Ajaib Village, Neb Sarai, Saket Tehsil, South Delhi, Delhi, 110068, India
+2. Chaska Tandoori Snacks. Detailed address: Chaudhary Dalip Singh Marg, Hauz Khas Enclave, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India",C,10.17,9.73,4.05,8.73
+59,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Culinaire. Detailed address: Road No. 3, Greater Kailash II, Alaknanda, Kalkaji Tehsil, South East Delhi, Delhi, 110076, India
+2. Safdarjung Hospital. Detailed address: Moti Bagh Flyover, Sector 13, Ramakrishna Puram, Vasant Vihar Tehsil, New Delhi, Delhi, 110023, India",B,14.2,8.45,2.38,14.5
+60,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Crysta IVF Fertility Center. Detailed address: Shaheed Mohan Dutta Marg, Lajpat Nagar III, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India
+2. Infinite. Detailed address: Munirka Marg, Vasant Vihar, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India",B,2.79,7.45,13.43,13.13
+61,"What is the straight-line distance between the following two locations? (Unit is km)
+1. India International Center. Detailed address: 40, K. K. Birla Lane, Lodhi Estate, Chanakya Puri Tehsil, New Delhi, Delhi, 110003, India
+2. Vasant Kunj Sec A Children Park. Detailed address: Pkt-B Sec-A, Mehrauli Tehsil, South Delhi, Delhi, 110070, India",A,10.45,17.61,14.63,3.09
+62,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Netaji Nagar Post Office. Detailed address: Shaheed Navneet Swaraj Marg, Netaji Nagar Market, Netaji Nagar, Vasant Vihar Tehsil, New Delhi, Delhi, 110023, India
+2. Ashirbad Snacks Corner. Detailed address: Market Number 3, Chittaranjan Park, New Delhi, Kalkaji Tehsil, South East Delhi, Delhi, 110019, India",B,11.58,6.62,13.47,12.11
+63,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Children's (Chaudhary) park. Detailed address: Pkt-B Sec-A, Mehrauli Tehsil, South Delhi, Delhi, 110070, India
+2. Shri Guru Ravi Dass Mandir. Detailed address: Bhogal Buddha Vihar, Hospital Road, Jangpura-A, Defence Colony Tehsil, South East Delhi, Delhi, 110013, India",B,16.67,10.77,12.28,12.31
+64,"What is the straight-line distance between the following two locations? (Unit is km)
+1. fig & maple. Detailed address: Alaknanda Road, Greater Kailash II, Alaknanda, Kalkaji Tehsil, South East Delhi, Delhi, 110062, India
+2. The Pinnacle School. Detailed address: Josip Broz Tito Marg, New Delhi, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",A,1.87,4.73,5.5,7.55
+65,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Central Library. Detailed address: Jawaharlal Nehru University, Street D, Munirka DDA Flats, Vasant Vihar Tehsil, New Delhi, Delhi, 110067, India
+2. Babu Market. Detailed address: Lane G, Sarojini Nagar, Vasant Vihar Tehsil, New Delhi, Delhi, 110023, India",D,8.49,3.23,3.8,4.87
+66,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Zaika Muradabadi. Detailed address: C-35, Lajpat Nagar 4, Amar Colony, Lajpat Nagar IV, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India
+2. Prachin Shiv Shakti Durga Mandir. Detailed address: Pandit Trilok Chandra Sharma Marg, Khirki, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",B,6.01,4.3,7.31,7.21
+67,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Saleem's. Detailed address: Vardhaman Lane, Kailash Colony, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. Navyug School. Detailed address: Jor Bagh Road, Lodhi Art District, Lodhi Colony, Defence Colony Tehsil, South East Delhi, Delhi, 100011, India",D,7.41,7.4,1.33,4.42
+68,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Shri Guru Ravi Dass Mandir. Detailed address: Bhogal Buddha Vihar, Hospital Road, Jangpura-A, Defence Colony Tehsil, South East Delhi, Delhi, 110013, India
+2. Madhyanchal. Detailed address: Phillauran Nature Trail, Upper Shankar Vihar, Delhi Cantonment, Shankar Vihar, Mahipalpur, New Delhi, Delhi, 110010, India",C,13.22,16.73,10.5,9.43
+69,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Leela Palace Kempinski. Detailed address: Vinay Marg Underpass, Netaji Nagar Market, Vasant Vihar Tehsil, New Delhi, Delhi, 110023, India
+2. President's Bodyguard Parade Ground. Detailed address: Mother Teresa Crescent, Willingdon Crescent, Chanakya Puri Tehsil, New Delhi, Delhi, 110004, India",A,3.69,1.65,9.76,9.76
+70,"What is the straight-line distance between the following two locations? (Unit is km)
+1. sarang. Detailed address: Kotla Mubarak, South Extension, Defence Colony Tehsil, South East Delhi, Delhi, 110049, India
+2. D-Block. Detailed address: Indian Statistical Institute, Delhi, Shaheed Jeet Singh Marg, New Delhi, Mehrauli Tehsil, South Delhi, Delhi, 110016, India",C,6.66,3.14,5.58,9.34
+71,"What is the straight-line distance between the following two locations? (Unit is km)
+1. MCD park. Detailed address: 9, Centumu Road, Lajpat Nagar III, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India
+2. Talkatora Stadium. Detailed address: Mother Teresa Crescent, Willingdon Crescent, Chanakya Puri Tehsil, New Delhi, Delhi, 110004, India",A,7.71,13.12,4.89,10.23
+72,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Anant Naad Foundation. Detailed address: C-82, Basant Kaur Marg, Bhavishya Nidhi Enclave, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Sant Nirankari. Detailed address: APJ School Road, Malviya Nagar, Sheikh Sarai, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",C,1.86,2.28,0.73,5.33
+73,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Saraswati Sadan. Detailed address: 257, Greater Kailash 1, Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. Police Station Saket. Detailed address: Birla Vidya Niketan Marg, Saket District Centre, Saket, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",C,0.57,4.33,2.92,6.42
+74,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Vishwa Yuvak Kendra. Detailed address: Pandit Uma Shankar Dikshit Marg, Chanakyapuri, Chanakya Puri Tehsil, New Delhi, Delhi, 110021, India
+2. Shree Radha Krishna Mandir. Detailed address: A Block Amar Colony, Amar Colony, Lajpat Nagar, New Delhi, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India",D,10.38,1.95,4.27,6.46
+75,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Integrated Facilitation Booth. Detailed address: Canteen Stores Department, Cariappa Marg, Delhi Cantonment, New Delhi, Delhi, 110046, India
+2. Desk to Desk Courier & Cargo. Detailed address: APJ School Road, Phase II, Sheikh Sarai, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",D,14.6,8.95,16.13,11.93
+76,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kendriya Vidyalaya, RK Puram, Sector-2. Detailed address: Church Road, Sector 1, Ramakrishna Puram, Vasant Vihar Tehsil, New Delhi, Delhi, 110029, India
+2. Rich Man's Garage. Detailed address: IGNOU Road, Indira Enclave, Neb Sarai, Saket Tehsil, South Delhi, Delhi, 110068, India",A,6.09,13.54,4.53,1.01
+77,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Police Post PSRI Hospital. Detailed address: Pandit Trilok Chandra Sharma Marg, Savitri Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. The Piano Man New Delhi. Detailed address: Pandit Trilok Chandra Sharma Marg, Press Enclave, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",C,5.24,8.24,1.93,4.07
+78,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chowringhee. Detailed address: Benito Juarez Marg, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India
+2. Balhara's Le Cure Hospital. Detailed address: IGNOU Road, Indira Enclave, Neb Sarai, Saket Tehsil, South Delhi, Delhi, 110068, India",A,9.28,10.61,12.4,16.84
+79,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Siri Fort Sports Complex. Detailed address: Asian Games Village Road, Asian Games Village, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. A block. Detailed address: Indian Statistical Institute, Delhi, Shaheed Jeet Singh Marg, New Delhi, Mehrauli Tehsil, South Delhi, Delhi, 110016, India",D,11.57,6.23,9.62,3.7
+80,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Coffee Cafe 9. Detailed address: Path to Khirki Masjid, Khirki, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Gold's Gym. Detailed address: Lala Lajpat Rai Marg, Greater Kailash, East of Kailash, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",A,3.51,8.51,5.21,10.41
+81,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Subway. Detailed address: Guru Gobind Singh Marg, Malviya Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Bahumukh. Detailed address: 1, Bhagwan Das Road, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 110001, India",A,10.3,2.81,7.33,5.19
+82,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bal Kishan Memorial Hospital. Detailed address: Deoli Road, Khanpur Extension, Hauz Khas Tehsil, South Delhi, Delhi, 110062, India
+2. Saint John's School. Detailed address: B1091, Mehrauli, Mehrauli Tehsil, South Delhi, Delhi, 110030, India",C,3.5,10.4,5.29,12.58
+83,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Palika Bhawan. Detailed address: Shaheed Sudhir Tyagi Marg, Netaji Nagar Market, Netaji Nagar, Vasant Vihar Tehsil, New Delhi, Delhi, 110023, India
+2. Dog And Pet Clinic. Detailed address: 35, Church Road, Gopinath Bazar, Delhi Cantonment, New Delhi, Delhi, 110046, India",B,7.15,5.73,8.06,11.88
+84,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Olympia Gym. Detailed address: Alaknanda Road, Greater Kailash II, Alaknanda, Kalkaji Tehsil, South East Delhi, Delhi, 110076, India
+2. Sahib Real Estate. Detailed address: A-1/60, Neb Valley, Saket Tehsil, South Delhi, Delhi, 110068, India",A,4.39,6.0,7.59,10.21
+85,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jamali Kamali Tomb Precinct. Detailed address: Mehrauli Archeological Park, Mehrauli Archeological Park Path, Lado Sarai, Mehrauli Tehsil, South Delhi, Delhi, 110030, India
+2. JNU Academic Staff Complex. Detailed address: Jawaharlal Nehru University, Street D, Munirka DDA Flats, Vasant Vihar Tehsil, New Delhi, Delhi, 110067, India",C,9.67,8.45,3.08,7.16
+86,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Prachin Shiv Shakti Durga Mandir. Detailed address: Pandit Trilok Chandra Sharma Marg, Khirki, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Balak Ram Hospital. Detailed address: IGNOU Road, Indira Enclave, Neb Sarai, Saket Tehsil, South Delhi, Delhi, 110030, India",D,8.77,4.9,1.61,2.7
+87,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The British School. Detailed address: Canteen, San Martin Marg, Malcha, Chanakya Puri Tehsil, New Delhi, Delhi, 110021, India
+2. Delhi Gymkhana. Detailed address: Lok Kalyan Marg, Chanakya Puri Tehsil, New Delhi, Delhi, 110011, India",D,5.36,7.2,8.21,2.38
+88,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fit King Fitness & Health. Detailed address: Veer Savarkar Marg, Lajpat Nagar III, Lajpat Nagar II, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India
+2. Brahma Kumaris. Detailed address: Brahma Kumari Marg, Shivalik, Malviya Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",C,7.78,7.42,4.87,0.5
+89,"What is the straight-line distance between the following two locations? (Unit is km)
+1. BSF Hospital. Detailed address: Mehrauli Badarpur Road, Tigri, Saket Tehsil, South Delhi, Delhi, 110062, India
+2. Indian Bank. Detailed address: Lala Lajpat Rai Path, Lajpat Nagar III, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India",A,6.79,12.71,14.07,11.9
+90,"What is the straight-line distance between the following two locations? (Unit is km)
+1. HDFC. Detailed address: Underpass, Defence Colony Tehsil, South East Delhi, Delhi, 110503, India
+2. AKU’s The Brrgrr Co.. Detailed address: Bhishma Pitamah Marg, Kotla Mubarak, South Extension, Defence Colony Tehsil, South East Delhi, Delhi, 110049, India",C,0.6,5.41,3.33,5.92
+91,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Piano Man New Delhi. Detailed address: Pandit Trilok Chandra Sharma Marg, Press Enclave, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Sai Juice Corner. Detailed address: D Block Road, House 269, 3rd floor, Rama, 303, Masjid Moth Rd, South Extension II, Block A, New Delhi, Delhi 110049, Defence Colony Tehsil, South East Delhi, Delhi, 110049, India",C,7.45,11.03,4.17,5.8
+92,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Temple. Detailed address: Maharishi Valmiki Marg, Dakshinpuri Extension, Ambedkar Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110062, India
+2. Palika Bhawan. Detailed address: Shaheed Sudhir Tyagi Marg, Netaji Nagar Market, Netaji Nagar, Vasant Vihar Tehsil, New Delhi, Delhi, 110023, India",A,7.15,3.44,11.35,9.5
+93,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mount Carmel School (Senior Wing). Detailed address: Road No 5, Shantiniketan, Moti Bagh, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India
+2. Zaika Muradabadi. Detailed address: C-35, Lajpat Nagar 4, Amar Colony, Lajpat Nagar IV, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India",A,7.95,4.05,1.25,4.77
+94,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Academy Of Retail Excellence. Detailed address: 103, Satya Niketan, Delhi Cantonment, New Delhi, Delhi, 110021, India
+2. Himachal Bhawan Dining Hall. Detailed address: Sikandra Road, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 020626, India",A,7.6,9.1,4.33,4.77
+95,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Waffle Twist. Detailed address: Late Shri Bansi Lal Varma Marg, Malviya Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Suhani Medicos and Cosmetics. Detailed address: Pandit Trilok Chandra Sharma Marg, Khirki, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",A,0.73,3.65,6.03,6.27
+96,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Andhra Bhawan Canteen. Detailed address: 1, rotary no 4, Chanakya Puri Tehsil, New Delhi, Delhi, 020626, India
+2. Unique Chemist. Detailed address: 81, Veer Savarkar Marg, Lajpat Nagar III, Lajpat Nagar II, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India",C,11.99,2.58,5.76,1.3
+97,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Doctor Radhakrishnan International School. Detailed address: Defence Colony, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India
+2. Srinagesh Garden. Detailed address: Church Road, Delhi Cantonment, New Delhi, Delhi, 110046, India",A,9.39,10.92,15.82,16.1
+98,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tagore International School. Detailed address: Paschimi Marg, Vasant Vihar, Moti Bagh, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India
+2. Kabul Lines. Detailed address: Sannaiyat Lines, Delhi Cantonment, New Delhi, Delhi, 110046, India",C,2.75,6.34,4.42,11.17
+99,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Costa. Detailed address: Road Number 5, Greater Kailash II, Alaknanda, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. Young Women's Christian Association. Detailed address: 10, Sansad Marg, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 110001, India",A,10.56,16.28,4.93,5.27
+100,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Coast Cafe. Detailed address: Hauz Khas Village Road, Hauz Khas Village, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India
+2. All India Medicos. Detailed address: Aurobindo Marg, Yusuf Sarai Market, Yusuf Sarai, Defence Colony Tehsil, South East Delhi, Delhi, 110029, India",B,2.45,1.45,8.87,7.64
+101,"What is the straight-line distance between the following two locations? (Unit is km)
+1. USO House. Detailed address: A-13, USO Marg, Qutub Institutional Area, Mehrauli Tehsil, South Delhi, Delhi, 110067, India
+2. B-3, Community Park. Detailed address: Prajapati Colony, Mehrauli, Mehrauli Tehsil, South Delhi, Delhi, 110070, India",B,5.04,2.41,4.52,8.49
+102,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Foresta Bistro & Cafe. Detailed address: 631/275, Lane Number 3, Said-ul-Ajaib Village, Saidulajaib Extension, New Delhi, Saket Tehsil, South Delhi, Delhi, 110030, India
+2. Shree Ram Chat. Detailed address: Guru Gobind Singh Marg, Malviya Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",B,9.98,2.25,8.76,6.65
+103,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Doner Daddy. Detailed address: S. Swaran Singh Bhandari Marg, Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. CGHS Dispensary Pandara Road. Detailed address: Humayun Road, Pandara Park, Chanakya Puri Tehsil, New Delhi, Delhi, 110003, India",C,1.61,12.53,5.84,3.71
+104,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Axis Bank. Detailed address: Subramaniyam Bharti Marg, Lodhi Estate, Rabindra Nagar, Chanakya Puri Tehsil, New Delhi, Delhi, 110003, India
+2. Sunil Hospital and Nursing Home. Detailed address: Basant Kaur Marg, Shivalik, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",B,11.06,7.39,9.94,0.84
+105,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tomb Of Balban. Detailed address: Mehrauli Archeological Park, Mehrauli Archeological Park Path, Lado Sarai, Mehrauli Tehsil, South Delhi, Delhi, 110030, India
+2. University of Delhi South Campus. Detailed address: Benito Juarez Marg, Moti Bagh, Vasant Vihar Tehsil, New Delhi, Delhi, 110021, India",C,4.57,5.57,7.64,2.66
+106,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Noodle Box. Detailed address: APJ School Road, Malviya Nagar, Sheikh Sarai, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Lebanese Point. Detailed address: Pramod Mahajan Marg, Press Enclave, Saket, Hauz Khas Tehsil, South Delhi, Delhi, 110068, India",D,9.51,4.19,5.26,1.8
+107,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Babu Market. Detailed address: Lane G, Sarojini Nagar, Vasant Vihar Tehsil, New Delhi, Delhi, 110023, India
+2. All India Institute of Medical Sciences (AIIMS), New Delhi. Detailed address: Mahatma Gandhi Marg, Kotla Mubarak, South Extension, New Delhi, Defence Colony Tehsil, South East Delhi, Delhi, 110029, India",D,8.93,3.07,4.2,2.06
+108,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bhansalsons. Detailed address: Brahma Kumari Marg, Shivalik, Malviya Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Police Post PSRI Hospital. Detailed address: Pandit Trilok Chandra Sharma Marg, Savitri Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",A,1.46,7.94,2.73,7.48
+109,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Y-9. Detailed address: Nelson Mandela Marg, Vasant Kunj, Vasant Vihar Tehsil, New Delhi, Delhi, 110070, India
+2. Defence Colony Market. Detailed address: Defence Colony, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India",D,8.01,4.49,16.97,9.64
+110,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Yogmaya Multispeciality Hospital. Detailed address: Sant Shri Nagpal Marg, Tara Market, Satbari, Saket Tehsil, South Delhi, Delhi, 110074, India
+2. Culinaire. Detailed address: Road No. 3, Greater Kailash II, Alaknanda, Kalkaji Tehsil, South East Delhi, Delhi, 110076, India",D,12.14,12.98,9.46,7.33
+111,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Culture Café. Detailed address: Green Lane, Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. Hari Prakash Food Point. Detailed address: Dharma Marg, Malcha, Willingdon Crescent, Chanakya Puri Tehsil, New Delhi, Delhi, 110021, India",D,4.17,11.62,6.4,7.65
+112,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Palatini Pizzeria. Detailed address: Dharma Marg, Malcha, Willingdon Crescent, Chanakya Puri Tehsil, New Delhi, Delhi, 110021, India
+2. NDMC Dispensary. Detailed address: Golf Links Central Road, Lodhi Estate, Golf Links, Chanakya Puri Tehsil, New Delhi, Delhi, 110003, India",A,4.37,10.24,12.07,8.69
+113,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dr Choudary Pet Clinic. Detailed address: Road No 5, Shantiniketan, Moti Bagh, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India
+2. Mum Café and Bakery. Detailed address: Benito Juarez Marg, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India",C,8.06,5.9,1.08,3.65
+114,"What is the straight-line distance between the following two locations? (Unit is km)
+1. मोतीलाल नेहरू कॉलेज. Detailed address: Benito Juarez Marg, Moti Bagh, Vasant Vihar Tehsil, New Delhi, Delhi, 110021, India
+2. IIT Hospital. Detailed address: Indian Institute of Technology Delhi, Gamal Abdel Nasser Marg, Kalu Sarai, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India",C,10.67,9.45,4.4,1.49
+115,"What is the straight-line distance between the following two locations? (Unit is km)
+1. California Burrito. Detailed address: Lala Lajpat Rai Marg, Greater Kailash, East of Kailash, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. Aravali Hostel. Detailed address: University of Delhi South Campus, Benito Juarez Marg, Moti Bagh, Vasant Vihar Tehsil, New Delhi, Delhi, 110021, India",D,6.92,12.7,11.06,8.43
+116,"What is the straight-line distance between the following two locations? (Unit is km)
+1. CPWD Type V Block 7 Building. Detailed address: Block 7, Bhishma Pitamah Marg, New Delhi, Defence Colony Tehsil, South East Delhi, Delhi, 110003, India
+2. Saraswati Sadan. Detailed address: 257, Greater Kailash 1, Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",A,4.13,3.07,5.5,5.63
+117,"What is the straight-line distance between the following two locations? (Unit is km)
+1. IndusInd Bank. Detailed address: Birbal Road, Jangpura Extension, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India
+2. Masoodpur market. Detailed address: Abdul Gaffar Khan Marg, Masoodpur, Vasant Kunj, Vasant Vihar Tehsil, New Delhi, Delhi, 110070, India",A,10.95,8.44,6.52,15.12
+118,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kabul Lines. Detailed address: Sannaiyat Lines, Delhi Cantonment, New Delhi, Delhi, 110046, India
+2. Ajay Ahuja Park. Detailed address: Maharishi Raman Marg, Defence Colony Tehsil, South East Delhi, Delhi, 110003, India",C,12.89,17.6,10.22,2.78
+119,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Shree Radha Krishna Mandir. Detailed address: A Block Amar Colony, Amar Colony, Lajpat Nagar, New Delhi, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India
+2. Chhattarpur Mandir Complex. Detailed address: Sant Shri Nagpal Marg, Tara Market, Chattarpur, Saket Tehsil, South Delhi, Delhi, 110030, India",B,4.21,8.79,2.27,4.4
+120,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chanderlok Building Bank Of India Govt Business Department. Detailed address: Janpath, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 110001, India
+2. Waffle Twist. Detailed address: Late Shri Bansi Lal Varma Marg, Malviya Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",A,9.84,4.61,6.91,15.68
+121,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pop Seoul. Detailed address: Green Lane, Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. Cafe 27 Rooftop Bar. Detailed address: Vardhaman Lane, Kailash Colony, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",C,5.51,3.84,0.69,2.41
+122,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Yes Bank. Detailed address: Birbal Road, Jangpura Extension, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India
+2. Orthostar Hospital. Detailed address: A Block Lane, Khanpur, Sainik Farms, Hauz Khas Tehsil, South Delhi, Delhi, 110062, India",B,3.21,8.49,1.79,9.6
+123,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nathu Sweets. Detailed address: Underpass, Defence Colony Tehsil, South East Delhi, Delhi, 110503, India
+2. Moktoo. Detailed address: Saket Road, Press Enclave, Saket, Hauz Khas Tehsil, South Delhi, Delhi, 110068, India",A,9.42,12.03,17.23,6.95
+124,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kotak Mahindra Bank. Detailed address: Palam Marg, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India
+2. Karnataka. Detailed address: IGNOU Road, Indira Enclave, Neb Sarai, Saket Tehsil, South Delhi, Delhi, 110068, India",B,0.7,6.9,12.87,14.17
+125,"What is the straight-line distance between the following two locations? (Unit is km)
+1. CHS Library. Detailed address: Jawaharlal Nehru University, Street D, Munirka DDA Flats, Vasant Vihar Tehsil, New Delhi, Delhi, 110067, India
+2. Junior School. Detailed address: Sardar Patel Vidyalaya, 14-17 Lodhi Estate, Lodhi Estate, Chanakya Puri Tehsil, New Delhi, Delhi, 110003, India",C,13.86,12.48,9.06,2.15
+126,"What is the straight-line distance between the following two locations? (Unit is km)
+1. School of Biological Sciences. Detailed address: Indian Institute of Technology Delhi, Gamal Abdel Nasser Marg, Kalu Sarai, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India
+2. Indira Gandhi International Airport. Detailed address: Vasant Vihar Tehsil, New Delhi, Delhi, 110037, India",D,17.49,8.03,2.47,9.72
+127,"What is the straight-line distance between the following two locations? (Unit is km)
+1. All India Institute of Medical Sciences (AIIMS), New Delhi. Detailed address: Mahatma Gandhi Marg, Kotla Mubarak, South Extension, New Delhi, Defence Colony Tehsil, South East Delhi, Delhi, 110029, India
+2. Red Cube Digital Media. Detailed address: Jagdamba Camp, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",C,6.67,10.45,3.54,11.48
+128,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hyatt Regency. Detailed address: Vivekanand Marg, Ramakrishna Puram, Vasant Vihar Tehsil, New Delhi, Delhi, 110066, India
+2. Vasant Vihar District Park. Detailed address: Naubagh, Nelson Mandela Marg, Vasant Vihar Tehsil, New Delhi, Delhi, 110067, India",A,2.26,4.56,3.87,7.83
+129,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Go Foodie. Detailed address: Guru Gobind Singh Marg, Malviya Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Hanuman Dharm Kanta. Detailed address: IGNOU Road, Said-ul-Ajaib Village, Neb Sarai, Saket Tehsil, South Delhi, Delhi, 110068, India",D,0.69,5.56,6.7,1.72
+130,"What is the straight-line distance between the following two locations? (Unit is km)
+1. DGD, Dakshinpuri. Detailed address: Maharishi Valmiki Marg, Dakshinpuri, Ambedkar Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110062, India
+2. Fat Tiger. Detailed address: S. Swaran Singh Bhandari Marg, Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",A,3.49,5.73,8.87,5.06
+131,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Yana Medicos. Detailed address: Gali Number, Said-ul-Ajaib Village, Saidulajaib Extension, Saket Tehsil, South Delhi, Delhi, 110068, India
+2. JSMK Clinic. Detailed address: 73, Freedom Fighters Enclave, Saket Tehsil, South Delhi, Delhi, 110068, India",A,1.02,8.87,4.98,2.52
+132,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tirupati eye center. Detailed address: Jagdamba Camp, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Amar Homeo Healers. Detailed address: Balbir Saxena Marg, Anand Lok, Gulmohar Enclave, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110049, India",A,3.0,5.96,7.02,5.01
+133,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Masoodpur market. Detailed address: Abdul Gaffar Khan Marg, Masoodpur, Vasant Kunj, Vasant Vihar Tehsil, New Delhi, Delhi, 110070, India
+2. RPM. Detailed address: Munirka Marg, Vasant Vihar, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India",B,2.27,3.63,6.07,10.88
+134,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Amar Homeo Healers. Detailed address: Balbir Saxena Marg, Anand Lok, Gulmohar Enclave, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110049, India
+2. Dr Rajat Mahajan Clinic. Detailed address: Sector-3, Abdul Gaffar Khan Marg, New Delhi, Mehrauli Tehsil, South Delhi, Delhi, 110070, India",C,1.82,12.13,6.56,11.0
+135,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Shiv Mandir. Detailed address: Maharishi Dayanand Marg, Malviya Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Indicash. Detailed address: Path to Khirki Masjid, Khirki, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",C,4.93,5.88,0.67,8.52
+136,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nic. Detailed address: 125, Benito Juarez Marg, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India
+2. Canteen. Detailed address: Delhi-Gurugram Expressway, Vikram Vihar, Delhi Cantonment, New Delhi, Delhi, 110010, India",A,3.2,7.3,10.24,9.36
+137,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Begumpur Masjid. Detailed address: Begumpuri Masjid, Sunlit Path, Kalu Sarai, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Visitors' parking. Detailed address: Indian Statistical Institute, Delhi, Shaheed Jeet Singh Marg, New Delhi, Mehrauli Tehsil, South Delhi, Delhi, 110016, India",B,4.75,2.11,8.12,8.49
+138,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ashirbad Snacks Corner. Detailed address: Market Number 3, Chittaranjan Park, New Delhi, Kalkaji Tehsil, South East Delhi, Delhi, 110019, India
+2. Doctor Dubey's Dental Clinic. Detailed address: Shri Vijay Monga Marg, Lajpat Nagar I, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India",C,1.51,9.13,4.06,7.42
+139,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Red Cube Digital Media. Detailed address: Jagdamba Camp, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Chandan Market. Detailed address: Gopala, Road No. 3, Greater Kailash II, Alaknanda, Kalkaji Tehsil, South East Delhi, Delhi, 110076, India",A,2.3,0.87,6.03,9.29
+140,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Embassy of the Kyrgyz Republic. Detailed address: 11, A-10, Vasant Vihar, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India
+2. NTPC Limited , SCOPE. Detailed address: Core 7, Baba Banda Singh Bahadur Setu, South Extension, Defence Colony Tehsil, South East Delhi, Delhi, 110003, India",A,7.85,11.83,15.51,5.19
+141,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cafe 147. Detailed address: IGNOU Road, Indira Enclave, Neb Sarai, Saket Tehsil, South Delhi, Delhi, 110068, India
+2. Darul Qur'an Madrasa Abdurrahman Tahfizul Qur'an. Detailed address: Pandit Trilok Chandra Sharma Marg, Press Enclave, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",C,7.73,9.45,2.45,8.1
+142,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ashok Namkeen & Sweets. Detailed address: Hetraj Batra Marg, Malviya Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Ajit Khalsa Dhaba. Detailed address: Sant Shri Nagpal Marg, Tara Market, Satbari, Saket Tehsil, South Delhi, Delhi, 110074, India",A,5.14,1.92,7.39,9.0
+143,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sai Baba Mandir. Detailed address: Maharishi Raman Marg, Defence Colony Tehsil, South East Delhi, Delhi, 110003, India
+2. Beguz Zaidi Market Moti Bagh south facing. Detailed address: F Mohan Senapati Marg, North Moti Bagh, Delhi Cantonment, New Delhi, Delhi, 110021, India",B,0.65,4.96,9.42,12.21
+144,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nescafe. Detailed address: IIT Delhi Main Road, Hauz Khas Enclave, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India
+2. park near mother dairy. Detailed address: South Extension II, South Extension, Defence Colony Tehsil, South East Delhi, Delhi, 110049, India",D,8.05,5.67,2.65,3.81
+145,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Subroto Park Police Station. Detailed address: Dhaula Kuan Flyover, Dhaula Kuan, Delhi Cantonment, New Delhi, Delhi, 110021, India
+2. Canara Bank. Detailed address: Munirka Marg, Vasant Vihar, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India",A,3.97,11.35,0.55,7.13
+146,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lebanese Point. Detailed address: Pramod Mahajan Marg, Press Enclave, Saket, Hauz Khas Tehsil, South Delhi, Delhi, 110068, India
+2. Aggarwal Sweets. Detailed address: Shrimati Rampyari Bhalla Marg, Malviya Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",A,1.38,2.66,5.77,5.73
+147,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Naturals. Detailed address: Veer Savarkar Marg, Lajpat Nagar III, Lajpat Nagar II, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India
+2. Mughlai chain of restaurants. Detailed address: Vinay Marg, Chanakyapuri, Chanakya Puri Tehsil, New Delhi, Delhi, 110023, India",B,1.81,4.68,3.28,12.37
+148,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Youplus. Detailed address: Prithviraj Lane, Lodhi Estate, Rabindra Nagar, Chanakya Puri Tehsil, New Delhi, Delhi, 110003, India
+2. Nathu Sweets. Detailed address: Underpass, Defence Colony Tehsil, South East Delhi, Delhi, 110503, India",B,4.87,1.36,2.4,6.77
+149,"What is the straight-line distance between the following two locations? (Unit is km)
+1. DDA Market. Detailed address: Desk to Desk Courier & Cargo, 4, DDA Market, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India
+2. India Meteorological Department. Detailed address: Lodhi Road, Jor Bagh, Defence Colony Tehsil, South East Delhi, Delhi, 110003, India",A,6.35,12.97,0.5,3.73
+150,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Barista. Detailed address: Outer Ring Road, Hauz Khas Enclave, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India
+2. Bandhan Bank. Detailed address: Brahma Kumari Marg, Shivalik, Malviya Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",C,3.26,9.53,1.73,4.6
+151,"What is the straight-line distance between the following two locations? (Unit is km)
+1. TechStack. Detailed address: Westend Marg, Saidulajaib Extension, Saket Tehsil, South Delhi, Delhi, 110030, India
+2. Gianis. Detailed address: Shri Barada Ukil Marg, Pandara Park, Chanakya Puri Tehsil, New Delhi, Delhi, 110003, India",B,13.13,10.21,14.29,13.17
+152,"What is the straight-line distance between the following two locations? (Unit is km)
+1. artusi. Detailed address: Road Number 5, Greater Kailash II, Alaknanda, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. Om Balaji Dhaba. Detailed address: Benito Juarez Marg, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India",A,9.34,15.48,13.34,6.27
+153,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Italian Cultural Institute. Detailed address: Embassy of Italy, 50, Chandragupta Marg, Chanakyapuri, Chanakya Puri Tehsil, New Delhi, Delhi, 110021, India
+2. sarang. Detailed address: Kotla Mubarak, South Extension, Defence Colony Tehsil, South East Delhi, Delhi, 110049, India",C,5.41,9.21,4.34,8.79
+154,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sankhyiki. Detailed address: Benito Juarez Marg, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India
+2. Aahar. Detailed address: Shaheed Jeet Singh Marg, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110067, India",C,2.48,13.25,5.41,7.83
+155,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Munirka Village Park. Detailed address: Munirka Flyover, Vasant Vihar Tehsil, New Delhi, Delhi, 110022, India
+2. National Handicrafts Museum. Detailed address: Pragati Maidan Tunnel, Chanakya Puri Tehsil, Delhi, Kotwali Tehsil, Central Delhi, Delhi, 110006, India",A,9.18,13.79,17.04,16.4
+156,"What is the straight-line distance between the following two locations? (Unit is km)
+1. JNU Academic Staff Complex. Detailed address: Jawaharlal Nehru University, Street D, Munirka DDA Flats, Vasant Vihar Tehsil, New Delhi, Delhi, 110067, India
+2. Director's Residence. Detailed address: Central Avenue, Hauz Khas Enclave, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India",C,5.88,7.66,3.36,4.83
+157,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dog And Pet Clinic. Detailed address: 35, Church Road, Gopinath Bazar, Delhi Cantonment, New Delhi, Delhi, 110046, India
+2. Anant Naad Foundation. Detailed address: C-82, Basant Kaur Marg, Bhavishya Nidhi Enclave, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",C,13.94,11.91,9.9,12.9
+158,"What is the straight-line distance between the following two locations? (Unit is km)
+1. J&K Bank. Detailed address: Munirka Marg, Vasant Vihar, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India
+2. Indian Oil. Detailed address: Lala Lajpat Rai Path, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India",B,13.07,8.18,15.85,15.7
+159,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mughlai chain of restaurants. Detailed address: Vinay Marg, Chanakyapuri, Chanakya Puri Tehsil, New Delhi, Delhi, 110023, India
+2. Mount Carmel School (Senior Wing). Detailed address: Road No 5, Shantiniketan, Moti Bagh, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India",C,3.85,6.77,2.72,5.32
+160,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Radhika Farm. Detailed address: Chattarpur Farms, Saket Tehsil, South Delhi, Delhi, 110074, India
+2. Brown Sugar. Detailed address: M-73, S. Swaran Singh Bhandari Marg, Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",C,4.17,12.89,9.42,14.83
+161,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Himachal Bhawan Dining Hall. Detailed address: Sikandra Road, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 020626, India
+2. Doctor Rakesh Bhargava. Detailed address: 291, Greater Kailash 1, Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",D,6.05,16.41,4.29,8.64
+162,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Yard. Detailed address: Aurobindo Marg, Hauz Khas Enclave, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110029, India
+2. ICICI. Detailed address: Nelson Mandela Marg, Vasant Kunj, Vasant Vihar Tehsil, New Delhi, Delhi, 110070, India",D,7.76,10.79,1.45,5.9
+163,"What is the straight-line distance between the following two locations? (Unit is km)
+1. JSMK Clinic. Detailed address: 73, Freedom Fighters Enclave, Saket Tehsil, South Delhi, Delhi, 110068, India
+2. India Post, Hauz Khas. Detailed address: Aurobindo Marg, Safdarjung Development Area, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India",A,4.03,10.63,9.34,9.27
+164,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ber Sarai. Detailed address: Vasant Vihar Tehsil, New Delhi, Delhi, 110066, India
+2. Dental Studio - Dr Sanjay Kumar (Dentist). Detailed address: #27, DDA Market No. 3, Bipinchandra Pal Marg, Market 2, Chittaranjan Park, New Delhi, Kalkaji Tehsil, South East Delhi, Delhi, 110019, India",C,13.88,13.07,6.11,3.49
+165,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lala's Tandoor. Detailed address: IGNOU Road, Said-ul-Ajaib Village, Neb Sarai, Saket Tehsil, South Delhi, Delhi, 110068, India
+2. Police assistance booth. Detailed address: Prithviraj Lane, Lodhi Estate, Rabindra Nagar, Chanakya Puri Tehsil, New Delhi, Delhi, 110003, India",C,15.03,5.74,9.74,5.27
+166,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sunil Hospital and Nursing Home. Detailed address: Basant Kaur Marg, Shivalik, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Keventers. Detailed address: Pandit Trilok Chandra Sharma Marg, Khirki, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",C,3.88,7.45,1.26,6.63
+167,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gulati Clinic. Detailed address: B-67, Soami Nagar, Saomi Nagar, New Delhi, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. 24×7 cafe. Detailed address: Nelson Mandela Marg, Vasant Kunj, Vasant Vihar Tehsil, New Delhi, Delhi, 110067, India",A,6.03,10.67,13.56,12.39
+168,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Karnataka. Detailed address: IGNOU Road, Indira Enclave, Neb Sarai, Saket Tehsil, South Delhi, Delhi, 110068, India
+2. State Bank of India. Detailed address: Basant Kaur Marg, Shivalik, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",B,3.65,2.47,10.28,1.27
+169,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Roll Express. Detailed address: Kalka Devi Marg, Nehru Nagar, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India
+2. Moolchand hospitals blood bank. Detailed address: Chhabra Marg, Lajpat Nagar III, Lajpat Nagar, New Delhi, Defence Colony Tehsil, South Delhi, Delhi, 110024, India",A,1.05,8.9,6.14,4.76
+170,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lecture Hall Complex. Detailed address: Indian Institute of Technology Delhi, Gamal Abdel Nasser Marg, Kalu Sarai, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India
+2. Sir Mahavir Mandir (Pahadi Wala Mandir). Detailed address: Nandi Vithi Marg, Zumrudpur Market, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",D,2.53,6.42,9.12,4.31
+171,"What is the straight-line distance between the following two locations? (Unit is km)
+1. National Institute of TB and Respiratory Diseases. Detailed address: Aurobindo Marg, Lado Sarai, Saket Tehsil, South Delhi, Delhi, 110030, India
+2. Deer park. Detailed address: Gali Number 9, Arjun Nagar, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110029, India",D,9.15,1.27,6.8,3.64
+172,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nawaab's Kitchen. Detailed address: Pandit Trilok Chandra Sharma Marg, Khirki, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Aquarium. Detailed address: Alaknanda Road, Greater Kailash II, Alaknanda, Kalkaji Tehsil, South East Delhi, Delhi, 110062, India",D,9.5,6.42,0.89,2.79
+173,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cafe Unbound. Detailed address: Benito Juarez Marg, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India
+2. Super Hit Pizza. Detailed address: Fifth Avenue Road, Lodhi Art District, Lodhi Colony, Defence Colony Tehsil, South East Delhi, Delhi, 110003, India",B,8.87,5.67,11.24,11.52
+174,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Off Campus. Detailed address: Benito Juarez Marg, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India
+2. Child Specialist, Indraprastha Apollo Hospital. Detailed address: Ho Chi Minh Marg, Jagdamba Camp, Hauz Khas Tehsil, South Delhi, Delhi, 110048, India",B,6.07,7.89,10.78,3.5
+175,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ethiopian Cultural Centre. Detailed address: Embassy of Ethiopia, 7/50-G, Satya Marg, Chanakyapuri, Chanakya Puri Tehsil, New Delhi, Delhi, 110021, India
+2. Doctor Radhakrishnan International School. Detailed address: Defence Colony, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India",D,11.2,10.26,7.57,4.58
+176,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jagdish Store. Detailed address: Mahatma Gandhi Marg, Lajpat Nagar III, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India
+2. Army Public School. Detailed address: Shankar Vihar, New Delhi, Delhi, 110010, India",A,9.27,8.02,6.43,10.36
+177,"What is the straight-line distance between the following two locations? (Unit is km)
+1. NTPC Limited , SCOPE. Detailed address: Core 7, Baba Banda Singh Bahadur Setu, South Extension, Defence Colony Tehsil, South East Delhi, Delhi, 110003, India
+2. Mirambika. Detailed address: Sunlit Path, Kalu Sarai, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",C,2.75,2.76,6.12,2.83
+178,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Base Hospital Delhi Cantt. Detailed address: Hospital Road, Delhi Cantonment, New Delhi, Delhi, 110046, India
+2. Rolls Studio. Detailed address: 37, Benito Juarez Marg, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India",B,8.98,3.78,6.04,11.08
+179,"What is the straight-line distance between the following two locations? (Unit is km)
+1. India Africa Friendship Rose Garden. Detailed address: Sir Edmund Hillary Marg, Chanakyapuri, Chanakya Puri Tehsil, New Delhi, Delhi, 110021, India
+2. N Block Market. Detailed address: Cafe Diva, Hansraj Gupta Marg, Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110049, India",D,2.22,8.35,9.06,5.86
+180,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Theatre Kunzum 1. Detailed address: Road Number 5, Greater Kailash II, Alaknanda, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. U.A. Medicos. Detailed address: Birbal Road, Jangpura Extension, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India",B,7.26,5.47,1.28,2.56
+181,"What is the straight-line distance between the following two locations? (Unit is km)
+1. angels in my kitchen. Detailed address: Road Number 5, Greater Kailash II, Alaknanda, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. Storm Reloaded. Detailed address: Lala Lajpat Rai Marg, Greater Kailash, East of Kailash, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",D,5.25,4.76,5.35,2.45
+182,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Saint John's School. Detailed address: B1091, Mehrauli, Mehrauli Tehsil, South Delhi, Delhi, 110030, India
+2. Noodle Box. Detailed address: APJ School Road, Malviya Nagar, Sheikh Sarai, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",C,11.5,7.01,3.92,0.6
+183,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Burger King. Detailed address: IIT Flyover, Kalu Sarai, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India
+2. Lala's Tandoor. Detailed address: IGNOU Road, Said-ul-Ajaib Village, Neb Sarai, Saket Tehsil, South Delhi, Delhi, 110068, India",B,9.91,3.1,6.0,9.56
+184,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chicago Pizza. Detailed address: Hauz Khas Village Road, Hauz Khas Village, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India
+2. Dills Chawla Chik-Inn. Detailed address: Josip Broz Tito Marg, Hauz Khas Tehsil, South Delhi, Delhi, 110048, India",B,2.25,3.67,2.58,4.93
+185,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Shellbeacon Cafe. Detailed address: Hauz Khas Village Road, Hauz Khas Village, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India
+2. National Institute of TB and Respiratory Diseases. Detailed address: Aurobindo Marg, Lado Sarai, Saket Tehsil, South Delhi, Delhi, 110030, India",A,2.85,4.77,5.43,9.85
+186,"What is the straight-line distance between the following two locations? (Unit is km)
+1. IIT - Kumaon. Detailed address: Gamal Abdel Nasser Marg, Kalu Sarai, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India
+2. Palatini Pizzeria. Detailed address: Dharma Marg, Malcha, Willingdon Crescent, Chanakya Puri Tehsil, New Delhi, Delhi, 110021, India",A,5.86,1.37,4.58,12.26
+187,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Shamshi park. Detailed address: Mehrauli, Mehrauli Tehsil, South Delhi, Delhi, 110030, India
+2. Italian Cultural Institute. Detailed address: Embassy of Italy, 50, Chandragupta Marg, Chanakyapuri, Chanakya Puri Tehsil, New Delhi, Delhi, 110021, India",B,15.09,8.45,4.0,15.93
+188,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Akshay Medicos. Detailed address: Bhulbhulaiya Road, Gharwal Colony, Mehrauli, Mehrauli Tehsil, South Delhi, Delhi, 110030, India
+2. Amigos Hub. Detailed address: Benito Juarez Marg, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India",A,7.61,4.69,1.66,2.43
+189,"What is the straight-line distance between the following two locations? (Unit is km)
+1. C-6 Vasant Kunj Park. Detailed address: Vasant Kunj, Vasant Vihar Tehsil, New Delhi, Delhi, 110070, India
+2. R-Block park. Detailed address: South Extension II, South Extension, Defence Colony Tehsil, South East Delhi, Delhi, 110049, India",B,9.82,7.86,4.38,15.72
+190,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Down Town Café & Kitchen. Detailed address: C-3;C-4, IGNOU Road, Indira Enclave, Neb Sarai, Saket Tehsil, South Delhi, Delhi, 110068, India
+2. Chaupal Park. Detailed address: Shivalik, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",B,7.1,2.55,3.68,4.42
+191,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Devan's at Lodhi. Detailed address: Najaf Khan Road, Lodhi Art District, Lodhi Colony, Defence Colony Tehsil, South East Delhi, Delhi, 110049, India
+2. Odin Fitness Club. Detailed address: C-222, Lajpat Nagar 1, Lajpat Nagar I, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India",C,9.65,9.51,1.89,8.6
+192,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Shree Ram Chat. Detailed address: Guru Gobind Singh Marg, Malviya Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Sanjay Van gate (near IIFT). Detailed address: Qutub Institutional Area, Mehrauli Tehsil, South Delhi, Delhi, 110067, India",A,2.84,7.76,7.72,1.53
+193,"What is the straight-line distance between the following two locations? (Unit is km)
+1. La Piazza. Detailed address: Vivekanand Marg, Ramakrishna Puram, Vasant Vihar Tehsil, New Delhi, Delhi, 110066, India
+2. Barista. Detailed address: Outer Ring Road, Hauz Khas Enclave, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India",D,4.09,0.68,4.17,2.77
+194,"What is the straight-line distance between the following two locations? (Unit is km)
+1. All India Institute of Medical Sciences (AIIMS) Blood Bank. Detailed address: Aurobindo Marg, South Extension, New Delhi, Defence Colony Tehsil, South Delhi, Delhi, 110029, India
+2. High On Burger. Detailed address: Benito Juarez Marg, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India",A,4.69,8.28,8.64,11.07
+195,"What is the straight-line distance between the following two locations? (Unit is km)
+1. SPUHC, Jawahar park. Detailed address: A Block Lane, Khanpur, Sainik Farms, Hauz Khas Tehsil, South Delhi, Delhi, 110062, India
+2. Anju's Skin and Hair Beauty Clinic. Detailed address: Ho Chi Minh Marg, Saomi Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",C,6.2,5.78,3.99,7.61
+196,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Old Parliament House. Detailed address: Parliament Complex, Rotary Number 47, Rakab Ganj, Chanakya Puri Tehsil, New Delhi, Delhi, 110004, India
+2. Central Library. Detailed address: Jawaharlal Nehru University, Street D, Munirka DDA Flats, Vasant Vihar Tehsil, New Delhi, Delhi, 110067, India",C,7.84,7.42,9.34,3.7
+197,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Union Bank of India. Detailed address: Shaheed Sudhir Tyagi Marg, Netaji Nagar Market, Netaji Nagar, Vasant Vihar Tehsil, New Delhi, Delhi, 110023, India
+2. California Burrito. Detailed address: Lala Lajpat Rai Marg, Greater Kailash, East of Kailash, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",D,0.55,12.81,7.66,6.04
+198,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dyal Singh College. Detailed address: Lodhi Road, Defence Colony Tehsil, South East Delhi, Delhi, 110003, India
+2. Sarathi South Indian Family restaurant. Detailed address: 60-A, BD Street, B Block, Munirka DDA Flats, Vasant Vihar Tehsil, New Delhi, Delhi, 110067, India",D,14.79,10.58,5.9,6.91
+199,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chaska Tandoori Snacks. Detailed address: Chaudhary Dalip Singh Marg, Hauz Khas Enclave, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India
+2. Shree Narayan Pharmacy. Detailed address: Pandit Trilok Chandra Sharma Marg, Press Enclave, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",A,2.62,0.77,4.97,6.66
+200,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rose Cafe. Detailed address: 2, Westend Marg, Saidulajaib Extension, New Delhi, Saket Tehsil, South Delhi, Delhi, 110030, India
+2. Roll Express. Detailed address: Kalka Devi Marg, Nehru Nagar, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India",B,8.56,6.73,4.75,8.82
+201,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Allahabad Bank. Detailed address: Saket Road, Press Enclave, Saket, Hauz Khas Tehsil, South Delhi, Delhi, 110068, India
+2. Chicago Pizza. Detailed address: Hauz Khas Village Road, Hauz Khas Village, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India",D,9.26,3.05,8.15,4.12
+202,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Visitors' parking. Detailed address: Indian Statistical Institute, Delhi, Shaheed Jeet Singh Marg, New Delhi, Mehrauli Tehsil, South Delhi, Delhi, 110016, India
+2. Embassy of Algeria. Detailed address: Street Number 1, Shantiniketan, Moti Bagh, Vasant Vihar Tehsil, New Delhi, Delhi, 110022, India",B,9.08,4.37,7.65,7.06
+203,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fortis Flt. Lt. Rajan Dhall Hospital Blood Bank. Detailed address: Aruna Asaf Ali Marg, Kishangarh, Mehrauli Tehsil, South West Delhi, Delhi, 110070, India
+2. khandani pakode wala. Detailed address: Rajmata Vijayaraje Sindhia Marg, Sarojini Nagar, Vasant Vihar Tehsil, New Delhi, Delhi, 110023, India",C,1.77,8.53,6.46,9.24
+204,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Moluddin Chishti Dargah. Detailed address: Way to Moluddin Chishti Dargah, Malcha, Central Ridge Reserve Forest, Chanakya Puri Tehsil, New Delhi, Delhi, 110021, India
+2. Faculty Transit Accommodation (FTA). Detailed address: Sanwal Nagar, Ayurvigyan Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110049, India",A,6.67,4.44,3.23,1.03
+205,"What is the straight-line distance between the following two locations? (Unit is km)
+1. MCD Park. Detailed address: Mohammadpur, Ramakrishna Puram, Vasant Vihar Tehsil, New Delhi, Delhi, 110066, India
+2. Ber Sarai. Detailed address: Vasant Vihar Tehsil, New Delhi, Delhi, 110066, India",C,6.14,9.26,2.07,7.16
+206,"What is the straight-line distance between the following two locations? (Unit is km)
+1. B-3, Community Park. Detailed address: Prajapati Colony, Mehrauli, Mehrauli Tehsil, South Delhi, Delhi, 110070, India
+2. India International Center. Detailed address: 40, K. K. Birla Lane, Lodhi Estate, Chanakya Puri Tehsil, New Delhi, Delhi, 110003, India",D,8.46,2.9,1.78,9.52
+207,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pushpawati Singhania Research Institute Blood bank. Detailed address: Pandit Trilok Chandra Sharma Marg, Savitri Nagar, New Delhi, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Barbeque Nation. Detailed address: Mahatma Gandhi Marg, Kotla Mubarak, South Extension, Defence Colony Tehsil, South East Delhi, Delhi, 110049, India",A,3.93,9.64,9.2,1.9
+208,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Big Chill. Detailed address: Prithviraj Lane, Lodhi Estate, Rabindra Nagar, Chanakya Puri Tehsil, New Delhi, Delhi, 110003, India
+2. IDFC First Bank. Detailed address: Guru Gobind Singh Marg, Malviya Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",A,7.5,5.58,8.98,4.65
+209,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pant Nagar. Detailed address: Defence Colony Tehsil, South East Delhi, Delhi, 201005, India
+2. B-3, Basketball Court. Detailed address: Bhagwan Mahavir Marg, Prajapati Colony, Mehrauli, Vasant Vihar Tehsil, New Delhi, Mehrauli Tehsil, South Delhi, Delhi, 110070, India",C,2.55,5.8,10.35,3.08
+210,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Pinnacle School. Detailed address: Josip Broz Tito Marg, New Delhi, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Police Post, Khan Market. Detailed address: Khan Market, Subramaniyam Bharti Marg, Lodhi Estate, Rabindra Nagar, Chanakya Puri Tehsil, New Delhi, Delhi, 110003, India",A,6.15,2.68,8.11,4.15
+211,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Acharya Sushil Muni Ashram. Detailed address: Defence Colony, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India
+2. Chinto Park. Detailed address: Naraina Vihar, Delhi Cantonment, New Delhi, Delhi, 110028, India",D,8.57,6.28,12.8,10.97
+212,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Panchvati. Detailed address: 88, S. Swaran Singh Bhandari Marg, Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. Southex Plaza 1. Detailed address: South Extension II, House 269, 3rd floor, Rama, 303, Masjid Moth Rd, South Extension II, Block A, New Delhi, Delhi 110049, Defence Colony Tehsil, South East Delhi, Delhi, 110049, India",D,4.93,5.84,0.63,2.05
+213,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Madhyanchal. Detailed address: Phillauran Nature Trail, Upper Shankar Vihar, Delhi Cantonment, Shankar Vihar, Mahipalpur, New Delhi, Delhi, 110010, India
+2. Forest Area. Detailed address: Mehrauli, Mehrauli Tehsil, South Delhi, Delhi, 110070, India",D,1.36,6.43,8.46,4.36
+214,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Village Saidulajaib Welfare Association. Detailed address: Off. F/8, Gali Number 1, Said-ul-Ajaib Village, Saidulajaib Extension, New Delhi, Saket Tehsil, South Delhi, Delhi, 110030, India
+2. Bhansalsons. Detailed address: Brahma Kumari Marg, Shivalik, Malviya Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",A,2.19,3.87,5.34,7.84
+215,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Baird Place. Detailed address: Delhi Cantonment, New Delhi, Delhi, 110046, India
+2. PlanCover. Detailed address: Shahpur Jat, Hauz Khas Tehsil, South Delhi, Delhi, 110049, India",A,10.09,14.73,6.36,13.86
+216,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Water Treatment Plant. Detailed address: Qila Rai Pithora, Mehrauli Badarpur Road, Lado Sarai, Saket Tehsil, South Delhi, Delhi, 110030, India
+2. Army Golf Course. Detailed address: Cariappa Marg, Arjun Vihar, Delhi Cantonment, New Delhi, Delhi, 110010, India",A,9.58,14.72,7.96,12.54
+217,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gurudwara Guru Singh Sabha. Detailed address: Road No. 1, Greater Kailash II, Alaknanda, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. Chocolateria San Churro. Detailed address: Road Number 5, Greater Kailash II, Alaknanda, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",D,3.56,7.24,4.08,0.65
+218,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sant Nirankari. Detailed address: APJ School Road, Malviya Nagar, Sheikh Sarai, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Om bhojanalaya. Detailed address: Pandit Trilok Chandra Sharma Marg, Khirki, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",D,7.11,6.66,6.83,0.54
+219,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Zanskar Hostel. Detailed address: IIT Delhi Main Road, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110066, India
+2. Gatishakti Bhawan. Detailed address: NCRTC, INA Colony, Pocket-A, Government Quarters, South Extension, Defence Colony Tehsil, South East Delhi, Delhi, 110029, India",B,9.38,4.29,8.42,11.99
+220,"What is the straight-line distance between the following two locations? (Unit is km)
+1. KFC. Detailed address: IIT Flyover, Kalu Sarai, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India
+2. Gurudwara Guru Singh Sabha. Detailed address: Road No. 1, Greater Kailash II, Alaknanda, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",C,1.3,5.63,3.61,7.34
+221,"What is the straight-line distance between the following two locations? (Unit is km)
+1. School of Interntional Studies. Detailed address: Jawaharlal Nehru University, Street D, Munirka DDA Flats, Vasant Vihar Tehsil, New Delhi, Delhi, 110067, India
+2. Tibet House. Detailed address: Air Force Bal Bharati School, Vardhman Marg, Lodhi Art District, New Delhi, Defence Colony Tehsil, South East Delhi, Delhi, 110003, India",C,4.25,12.18,8.14,5.43
+222,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Army Research and Referral Hospital. Detailed address: South Campus (internal Road), Moti Bagh, Vasant Vihar Tehsil, New Delhi, Delhi, 110010, India
+2. Little Senators Pre School. Detailed address: B-3, Vasant Vihar, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India",B,8.25,1.82,4.39,3.24
+223,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Child Specialist, Indraprastha Apollo Hospital. Detailed address: Ho Chi Minh Marg, Jagdamba Camp, Hauz Khas Tehsil, South Delhi, Delhi, 110048, India
+2. Nav Durga Medicos. Detailed address: 56, Neb Sarai, Saket Tehsil, South Delhi, Delhi, 110068, India",D,8.89,6.35,8.55,4.85
+224,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cafe Coffee Day. Detailed address: Janpath, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 110001, India
+2. The Dentist. Detailed address: 5, Vikram Vihar Extension, Vikram Vihar, Lajpat Nagar IV, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India",C,9.49,9.75,7.3,11.31
+225,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rich Man's Garage. Detailed address: IGNOU Road, Indira Enclave, Neb Sarai, Saket Tehsil, South Delhi, Delhi, 110068, India
+2. Shamshi park. Detailed address: Mehrauli, Mehrauli Tehsil, South Delhi, Delhi, 110030, India",B,9.0,1.92,9.24,6.0
+226,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kilkari Clinic. Detailed address: Guru Gobind Singh Marg, Malviya Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Arogya Rejuvenating Point. Detailed address: Pandit Trilok Chandra Sharma Marg, Khirki, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",A,0.64,7.01,3.25,5.33
+227,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Southex Plaza 1. Detailed address: South Extension II, House 269, 3rd floor, Rama, 303, Masjid Moth Rd, South Extension II, Block A, New Delhi, Delhi 110049, Defence Colony Tehsil, South East Delhi, Delhi, 110049, India
+2. Ansal Plaza Park. Detailed address: Hudco Place, Andrews Ganj, Defence Colony Tehsil, South East Delhi, Delhi, 110049, India",D,2.62,5.23,1.84,0.64
+228,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Embassy of Afghanistan. Detailed address: 5/50-F, Shanti Path, Chanakyapuri, Chanakya Puri Tehsil, New Delhi, Delhi, 110021, India
+2. Shri Hari Mandir. Detailed address: 81, Veer Savarkar Marg, Lajpat Nagar III, Lajpat Nagar II, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India",B,10.01,6.47,11.84,3.72
+229,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Doctor Dubey's Dental Clinic. Detailed address: Shri Vijay Monga Marg, Lajpat Nagar I, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India
+2. Sangam. Detailed address: 780, Major Somnath Marg, Sector 9, Ramakrishna Puram, Vasant Vihar Tehsil, New Delhi, Delhi, 110022, India",D,13.18,8.5,13.55,6.44
+230,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ICICI. Detailed address: Nelson Mandela Marg, Vasant Kunj, Vasant Vihar Tehsil, New Delhi, Delhi, 110070, India
+2. Aka Gaka. Detailed address: Bhishma Pitamah Marg, Kotla Mubarak, South Extension, Defence Colony Tehsil, South East Delhi, Delhi, 110049, India",C,12.05,3.39,8.83,11.2
+231,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Alami Markaz Banglewali masjid. Detailed address: Mathura Road, Defence Colony Tehsil, South East Delhi, Delhi, 110013, India
+2. La Piazza. Detailed address: Vivekanand Marg, Ramakrishna Puram, Vasant Vihar Tehsil, New Delhi, Delhi, 110066, India",A,6.26,2.87,11.94,9.79
+232,"What is the straight-line distance between the following two locations? (Unit is km)
+1. St. Micheal's and All Angel's Church. Detailed address: Hospital Road, Jangpura-A, Defence Colony Tehsil, South East Delhi, Delhi, 110013, India
+2. Water Treatment Plant. Detailed address: Qila Rai Pithora, Mehrauli Badarpur Road, Lado Sarai, Saket Tehsil, South Delhi, Delhi, 110030, India",C,15.18,5.09,9.25,1.96
+233,"What is the straight-line distance between the following two locations? (Unit is km)
+1. RBL Bank. Detailed address: Green Lane, Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. Down Town Café & Kitchen. Detailed address: C-3;C-4, IGNOU Road, Indira Enclave, Neb Sarai, Saket Tehsil, South Delhi, Delhi, 110068, India",B,10.21,5.7,3.63,10.52
+234,"What is the straight-line distance between the following two locations? (Unit is km)
+1. High Commission of Pakistan. Detailed address: 2/50-G, Shanti Path, Chanakyapuri, Chanakya Puri Tehsil, New Delhi, Delhi, 110021, India
+2. The Leela Palace Kempinski. Detailed address: Vinay Marg Underpass, Netaji Nagar Market, Vasant Vihar Tehsil, New Delhi, Delhi, 110023, India",B,5.65,1.53,6.24,7.73
+235,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kingdom of Kids. Detailed address: R.M. Vats Marg, Panchsheel Park, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. artusi. Detailed address: Road Number 5, Greater Kailash II, Alaknanda, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",B,8.5,2.55,10.53,7.58
+236,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bottle Opener. Detailed address: Jor Bagh Road, Lodhi Art District, Lodhi Colony, Defence Colony Tehsil, South East Delhi, Delhi, 100011, India
+2. Netaji Nagar Post Office. Detailed address: Shaheed Navneet Swaraj Marg, Netaji Nagar Market, Netaji Nagar, Vasant Vihar Tehsil, New Delhi, Delhi, 110023, India",B,6.02,2.88,1.09,10.18
+237,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Broomees HQ. Detailed address: Vaishno Devi Marg, Lajpat Nagar I, Lajpat Nagar II, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India
+2. A BLOCK. Detailed address: Lieutenant Ribhu Saxena Marg, Vasant Vihar, Vasant Vihar Tehsil, New Delhi, Delhi, 110067, India",C,5.83,10.54,7.8,4.27
+238,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Guru Harkrishan Polyclinic Bangla Sahib. Detailed address: Hanuman Road, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 110001, India
+2. Fortis Flt. Lt. Rajan Dhall Hospital Blood Bank. Detailed address: Aruna Asaf Ali Marg, Kishangarh, Mehrauli Tehsil, South West Delhi, Delhi, 110070, India",A,12.82,5.96,18.29,17.01
+239,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Shree Narayan Pharmacy. Detailed address: Pandit Trilok Chandra Sharma Marg, Press Enclave, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Brickyard. Detailed address: Benito Juarez Marg, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India",C,1.45,9.43,7.83,0.71
+240,"What is the straight-line distance between the following two locations? (Unit is km)
+1. MCD Parking. Detailed address: Feroze Gandhi Road, Lajpat Nagar III, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India
+2. D-8. Detailed address: 8031 to 8060, Abdul Gaffar Khan Marg, Vasant Kunj, Vasant Vihar Tehsil, New Delhi, Delhi, 110070, India",D,17.43,9.08,14.05,10.74
+241,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Hope Project. Detailed address: Lala Lajpat Rai Path, Defence Colony Tehsil, South East Delhi, Delhi, 110013, India
+2. Integrated Facilitation Booth. Detailed address: Canteen Stores Department, Cariappa Marg, Delhi Cantonment, New Delhi, Delhi, 110046, India",B,14.94,11.36,17.96,13.82
+242,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Super Hit Pizza. Detailed address: Fifth Avenue Road, Lodhi Art District, Lodhi Colony, Defence Colony Tehsil, South East Delhi, Delhi, 110003, India
+2. What A Comic Show!. Detailed address: Road Number 5, Greater Kailash II, Alaknanda, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",D,11.49,0.97,3.88,5.78
+243,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hatti by Kapoors. Detailed address: Birbal Road, Jangpura Extension, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India
+2. Shellbeacon Cafe. Detailed address: Hauz Khas Village Road, Hauz Khas Village, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India",C,7.02,10.84,5.88,8.28
+244,"What is the straight-line distance between the following two locations? (Unit is km)
+1. AKU’s The Brrgrr Co.. Detailed address: Bhishma Pitamah Marg, Kotla Mubarak, South Extension, Defence Colony Tehsil, South East Delhi, Delhi, 110049, India
+2. Gulati Clinic. Detailed address: B-67, Soami Nagar, Saomi Nagar, New Delhi, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",C,9.09,7.72,3.45,1.62
+245,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chaupal Park. Detailed address: Shivalik, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Coffee Cafe 9. Detailed address: Path to Khirki Masjid, Khirki, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",B,9.27,1.31,5.1,9.03
+246,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Indian Bank. Detailed address: Lala Lajpat Rai Path, Lajpat Nagar III, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India
+2. Punjab National Bank. Detailed address: Balbir Saxena Marg, Anand Lok, Gulmohar Enclave, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110049, India",A,3.24,9.7,1.02,2.22
+247,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Astrology. Detailed address: Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India
+2. All India Chemist. Detailed address: IGNOU Road, Indira Enclave, Neb Sarai, Saket Tehsil, South Delhi, Delhi, 110068, India",B,9.76,7.89,1.54,9.45
+248,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bank Extension Counter. Detailed address: Lady Irwin College, Sikandra Road, Chanakya Puri Tehsil, New Delhi, Delhi, 110001, India
+2. Red Rose Public School. Detailed address: Pramod Mahajan Marg, Press Enclave, Saket, Hauz Khas Tehsil, South Delhi, Delhi, 110068, India",B,15.73,11.92,17.75,7.01
+249,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Aravali Hostel. Detailed address: University of Delhi South Campus, Benito Juarez Marg, Moti Bagh, Vasant Vihar Tehsil, New Delhi, Delhi, 110021, India
+2. Yamuna - Common garden. Detailed address: Nelson Mandela Marg, Vasant Kunj, Vasant Vihar Tehsil, New Delhi, Delhi, 110070, India",A,6.28,2.48,3.34,2.49
+250,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sanjay Van gate (near IIFT). Detailed address: Qutub Institutional Area, Mehrauli Tehsil, South Delhi, Delhi, 110067, India
+2. Wah Ji Wah. Detailed address: Pramod Mahajan Marg, Press Enclave, Saket, Hauz Khas Tehsil, South Delhi, Delhi, 110030, India",C,6.92,1.23,2.75,6.48
+251,"What is the straight-line distance between the following two locations? (Unit is km)
+1. NDMC Dispensary. Detailed address: Golf Links Central Road, Lodhi Estate, Golf Links, Chanakya Puri Tehsil, New Delhi, Delhi, 110003, India
+2. Sankhyiki. Detailed address: Benito Juarez Marg, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India",C,0.52,9.09,6.21,8.53
+252,"What is the straight-line distance between the following two locations? (Unit is km)
+1. CGHS Dispensary South Avenue. Detailed address: South Avenue, Willingdon Crescent, Chanakya Puri Tehsil, New Delhi, Delhi, 110011, India
+2. Sassi. Detailed address: Africa Avenue, Vasant Vihar Tehsil, New Delhi, Delhi, 110066, India",D,12.37,0.71,7.82,6.71
+253,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lady Irwin College Front Lawn. Detailed address: Lady Irwin College, Sikandra Road, Chanakya Puri Tehsil, New Delhi, Delhi, 110001, India
+2. BSF office. Detailed address: Tamil Sangam Marg, West Block, Ramakrishna Puram, Vasant Vihar Tehsil, New Delhi, Delhi, 110022, India",D,2.77,12.07,6.61,8.79
+254,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Brickyard. Detailed address: Benito Juarez Marg, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India
+2. DT Cinema. Detailed address: Greater Kailash 2, Greater Kailash II, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",A,8.78,12.57,7.45,12.89
+255,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bhogal Buddha Vihar. Detailed address: Hospital Road, Jangpura-A, Defence Colony Tehsil, South East Delhi, Delhi, 110013, India
+2. Zanskar Hostel. Detailed address: IIT Delhi Main Road, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110066, India",C,9.85,13.73,7.12,9.65
+256,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Shree Adya Katyayani Shaktipeeth Mandir. Detailed address: Sant Shri Nagpal Marg, Tara Market, Chattarpur, Saket Tehsil, South Delhi, Delhi, 110030, India
+2. IIT Hauz Khas. Detailed address: Central Avenue, Kalu Sarai, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India",B,12.55,4.78,8.97,11.8
+257,"What is the straight-line distance between the following two locations? (Unit is km)
+1. CGHS Dispensary Pandara Road. Detailed address: Humayun Road, Pandara Park, Chanakya Puri Tehsil, New Delhi, Delhi, 110003, India
+2. Andhra Bhawan Canteen. Detailed address: 1, rotary no 4, Chanakya Puri Tehsil, New Delhi, Delhi, 020626, India",B,2.81,1.51,8.85,5.26
+258,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Canara Bank. Detailed address: Munirka Marg, Vasant Vihar, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India
+2. Shri Aurobindo Center for Arts and Communication. Detailed address: Shaheed Jeet Singh Marg, Adchini, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India",C,8.06,5.78,3.99,1.83
+259,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dills Chawla Chik-Inn. Detailed address: Josip Broz Tito Marg, Hauz Khas Tehsil, South Delhi, Delhi, 110048, India
+2. IDBI Bank. Detailed address: Pramod Mahajan Marg, Press Enclave, Saket, Hauz Khas Tehsil, South Delhi, Delhi, 110068, India",B,2.3,3.43,1.24,1.6
+260,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Max Multi Speciality Centre. Detailed address: Ho Chi Minh Marg, Panchsheel Park, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Burger King. Detailed address: IIT Flyover, Kalu Sarai, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India",D,8.09,2.15,5.11,0.96
+261,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jumbo King. Detailed address: Sikandra Road, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 020626, India
+2. Moluddin Chishti Dargah. Detailed address: Way to Moluddin Chishti Dargah, Malcha, Central Ridge Reserve Forest, Chanakya Puri Tehsil, New Delhi, Delhi, 110021, India",D,10.23,10.72,3.77,5.54
+262,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Carnatic Cafe. Detailed address: Road Number 5, Greater Kailash II, Alaknanda, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. Stoned Pizzeria. Detailed address: Chaudhary Dalip Singh Marg, Kaushalya Park, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India",C,5.16,1.95,4.05,10.53
+263,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Central Board of Irrigation and Power. Detailed address: Malcha, Chanakya Puri Tehsil, New Delhi, Delhi, 110021, India
+2. Munirka Village Park. Detailed address: Munirka Flyover, Vasant Vihar Tehsil, New Delhi, Delhi, 110022, India",D,3.68,8.71,12.75,5.06
+264,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Central Bank of India. Detailed address: 67, S. Swaran Singh Bhandari Marg, Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. The Chai Latte. Detailed address: Benito Juarez Marg, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India",A,7.66,12.24,5.19,12.67
+265,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Haldiram's. Detailed address: 100 Feet Road, Tara Market, Chattarpur, Saket Tehsil, South Delhi, Delhi, 110068, India
+2. Greenr Café. Detailed address: N Block Market, Hansraj Gupta Marg, Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110049, India",D,4.06,4.0,12.61,7.63
+266,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Navyug School. Detailed address: Jor Bagh Road, Lodhi Art District, Lodhi Colony, Defence Colony Tehsil, South East Delhi, Delhi, 100011, India
+2. Vishwa Yuvak Kendra. Detailed address: Pandit Uma Shankar Dikshit Marg, Chanakyapuri, Chanakya Puri Tehsil, New Delhi, Delhi, 110021, India",D,0.84,6.02,0.98,2.79
+267,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Yamuna - Common garden. Detailed address: Nelson Mandela Marg, Vasant Kunj, Vasant Vihar Tehsil, New Delhi, Delhi, 110070, India
+2. Chanakya Bhawan. Detailed address: चाणक्य भवन, Vinay Marg, Chanakyapuri, Chanakya Puri Tehsil, New Delhi, Delhi, 110021, India",D,1.18,6.47,14.42,7.82
+268,"What is the straight-line distance between the following two locations? (Unit is km)
+1. N Block Market. Detailed address: Cafe Diva, Hansraj Gupta Marg, Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110049, India
+2. Mughal Sarai. Detailed address: Qutub Minar Complex, Kalka Das Marg, Mehrauli, Mehrauli Tehsil, South Delhi, Delhi, 110030, India",D,9.16,6.87,10.19,5.69
+269,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Yes Minister Bowling, Bar & Kitchen. Detailed address: IIT Flyover, Kalu Sarai, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India
+2. hanuman Mandir. Detailed address: Pandit Trilok Chandra Sharma Marg, Khirki, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",C,5.68,8.35,2.14,0.84
+270,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Safdarjung Hospital. Detailed address: Moti Bagh Flyover, Sector 13, Ramakrishna Puram, Vasant Vihar Tehsil, New Delhi, Delhi, 110023, India
+2. Culture Café. Detailed address: Green Lane, Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",D,1.55,9.88,9.1,6.55
+271,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Delhi Gymkhana. Detailed address: Lok Kalyan Marg, Chanakya Puri Tehsil, New Delhi, Delhi, 110011, India
+2. Lady Sri Ram College (LSR). Detailed address: Lala Lajpat Rai Marg, Lajpat Nagar IV, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110048, India",A,5.37,9.07,12.53,12.34
+272,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Deer park. Detailed address: Gali Number 9, Arjun Nagar, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110029, India
+2. Bindu's Ayushi. Detailed address: IGNOU Road, Indira Enclave, Neb Sarai, Saket Tehsil, South Delhi, Delhi, 110068, India",B,11.52,5.7,7.54,0.68
+273,"What is the straight-line distance between the following two locations? (Unit is km)
+1. High On Burger. Detailed address: Benito Juarez Marg, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India
+2. Haldiram's. Detailed address: 100 Feet Road, Tara Market, Chattarpur, Saket Tehsil, South Delhi, Delhi, 110068, India",C,15.05,14.89,9.68,8.43
+274,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Apollo Pharmacy. Detailed address: Late Shri Tilak Raj Malhotra Marg, Lajpat Nagar I, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India
+2. Naturals. Detailed address: Veer Savarkar Marg, Lajpat Nagar III, Lajpat Nagar II, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India",D,2.07,8.21,2.2,0.59
+275,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Darul Qur'an Madrasa Abdurrahman Tahfizul Qur'an. Detailed address: Pandit Trilok Chandra Sharma Marg, Press Enclave, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Saleem's. Detailed address: Vardhaman Lane, Kailash Colony, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",D,5.79,5.07,10.82,3.71
+276,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sutlej Hostel (Men's). Detailed address: Baba Gang Nath Marg, Vasant Vihar Tehsil, New Delhi, Delhi, 110067, India
+2. Netaji Apartments, 156A (East). Detailed address: Safdarjung Enclave, Vasant Vihar Tehsil, New Delhi, Delhi, 110029, India",B,9.81,3.22,10.29,5.31
+277,"What is the straight-line distance between the following two locations? (Unit is km)
+1. President's Bodyguard Parade Ground. Detailed address: Mother Teresa Crescent, Willingdon Crescent, Chanakya Puri Tehsil, New Delhi, Delhi, 110004, India
+2. Panchvati. Detailed address: 88, S. Swaran Singh Bhandari Marg, Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",D,10.77,9.58,13.62,8.3
+278,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Delhi Public School. Detailed address: Nelson Mandela Marg, Vasant Kunj, Vasant Vihar Tehsil, New Delhi, Delhi, 110067, India
+2. Chaayos. Detailed address: Munirka Marg, Vasant Vihar, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India",B,10.02,2.72,5.16,3.93
+279,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Moolchand hospitals blood bank. Detailed address: Chhabra Marg, Lajpat Nagar III, Lajpat Nagar, New Delhi, Defence Colony Tehsil, South Delhi, Delhi, 110024, India
+2. IndusInd Bank. Detailed address: Birbal Road, Jangpura Extension, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India",A,2.01,5.11,3.16,7.53
+280,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Skin & Hair Care. Detailed address: Josip Broz Tito Marg, Hauz Khas Tehsil, South Delhi, Delhi, 110048, India
+2. Kilkari Clinic. Detailed address: Guru Gobind Singh Marg, Malviya Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",C,10.15,8.91,2.26,8.31
+281,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pause. Detailed address: Basant Kaur Marg, Bhavishya Nidhi Enclave, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Bottle Opener. Detailed address: Jor Bagh Road, Lodhi Art District, Lodhi Colony, Defence Colony Tehsil, South East Delhi, Delhi, 100011, India",A,5.01,8.61,3.57,11.26
+282,"What is the straight-line distance between the following two locations? (Unit is km)
+1. medicine point. Detailed address: Upper gali, Phase II, Sheikh Sarai, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. मोतीलाल नेहरू कॉलेज. Detailed address: Benito Juarez Marg, Moti Bagh, Vasant Vihar Tehsil, New Delhi, Delhi, 110021, India",D,4.56,0.94,1.32,7.44
+283,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Electronics Niketan. Detailed address: CGO Complex, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India
+2. St. Micheal's and All Angel's Church. Detailed address: Hospital Road, Jangpura-A, Defence Colony Tehsil, South East Delhi, Delhi, 110013, India",A,0.73,5.04,5.78,3.13
+284,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Perch Wine & Coffee Bar. Detailed address: Munrika Marg, Vasant Vihar, Delhi Cantonment, New Delhi, Delhi, 110057, India
+2. IIT - Kumaon. Detailed address: Gamal Abdel Nasser Marg, Kalu Sarai, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India",D,0.74,6.44,8.0,2.3
+285,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Defence Colony Market. Detailed address: Defence Colony, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India
+2. hg. Detailed address: Kalu Sarai, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India",A,4.38,9.83,8.01,2.69
+286,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Summer House Cafe. Detailed address: Hauz Khas Village Road, Green Park, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India
+2. Play Area in Children's(Chaudhary) Park. Detailed address: Sector A Main road, Pkt-B Sec-A, Mehrauli Tehsil, South Delhi, Delhi, 110070, India",D,12.49,8.2,3.03,5.4
+287,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hari Prakash Food Point. Detailed address: Dharma Marg, Malcha, Willingdon Crescent, Chanakya Puri Tehsil, New Delhi, Delhi, 110021, India
+2. Crysta IVF Fertility Center. Detailed address: Shaheed Mohan Dutta Marg, Lajpat Nagar III, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India",B,8.26,6.71,10.54,9.59
+288,"What is the straight-line distance between the following two locations? (Unit is km)
+1. IIT - Block I. Detailed address: Gamal Abdel Nasser Marg, Kalu Sarai, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India
+2. M Fit Gym. Detailed address: 118, Satya Niketan, Delhi Cantonment, New Delhi, Delhi, 110021, India",D,7.24,8.29,2.47,5.27
+289,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Shri Aurobindo Center for Arts and Communication. Detailed address: Shaheed Jeet Singh Marg, Adchini, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India
+2. Domino's. Detailed address: Veer Savarkar Marg, Lajpat Nagar III, Lajpat Nagar II, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India",D,0.59,3.11,7.31,5.69
+290,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fortis Healthworld. Detailed address: Saket Road, Press Enclave, Saket, Hauz Khas Tehsil, South Delhi, Delhi, 110068, India
+2. Sagar Raina. Detailed address: Lane G, Sarojini Nagar, Vasant Vihar Tehsil, New Delhi, Delhi, 110023, India",B,12.18,6.27,2.37,7.31
+291,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Greenr Café. Detailed address: N Block Market, Hansraj Gupta Marg, Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110049, India
+2. fig & maple. Detailed address: Alaknanda Road, Greater Kailash II, Alaknanda, Kalkaji Tehsil, South East Delhi, Delhi, 110062, India",A,2.74,5.93,8.99,1.51
+292,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Junior School. Detailed address: Sardar Patel Vidyalaya, 14-17 Lodhi Estate, Lodhi Estate, Chanakya Puri Tehsil, New Delhi, Delhi, 110003, India
+2. MCD park. Detailed address: 9, Centumu Road, Lajpat Nagar III, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India",D,8.66,10.6,5.07,3.68
+293,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Azhar Biryani. Detailed address: Benito Juarez Marg, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India
+2. The Yard. Detailed address: Aurobindo Marg, Hauz Khas Enclave, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110029, India",D,7.49,0.6,8.82,5.15
+294,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Red Rose Public School. Detailed address: Pramod Mahajan Marg, Press Enclave, Saket, Hauz Khas Tehsil, South Delhi, Delhi, 110068, India
+2. Lecture Hall Complex. Detailed address: Indian Institute of Technology Delhi, Gamal Abdel Nasser Marg, Kalu Sarai, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India",B,8.67,2.61,8.2,5.94
+295,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kendriya Vidyalaya. Detailed address: NBCC Plaza Road, Pushp Vihar, Sector 5, Hauz Khas Tehsil, South Delhi, Delhi, 110062, India
+2. Astrology. Detailed address: Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India",C,2.95,11.78,5.64,7.95
+296,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Shiru Cafe, IIT Delhi. Detailed address: Gamal Abdel Nasser Marg, Kalu Sarai, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India
+2. Yulu. Detailed address: Mahatma Gandhi Marg, Dhaula Kuan, Delhi Cantonment, New Delhi, Delhi, 110021, India",C,8.6,10.12,5.37,12.81
+297,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Cafe 27 Rooftop Bar. Detailed address: Vardhaman Lane, Kailash Colony, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. Hatti by Kapoors. Detailed address: Birbal Road, Jangpura Extension, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India",B,6.12,3.28,9.96,0.66
+298,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dental Studio - Dr Sanjay Kumar (Dentist). Detailed address: #27, DDA Market No. 3, Bipinchandra Pal Marg, Market 2, Chittaranjan Park, New Delhi, Kalkaji Tehsil, South East Delhi, Delhi, 110019, India
+2. Kendriya Vidyalaya, RK Puram, Sector-2. Detailed address: Church Road, Sector 1, Ramakrishna Puram, Vasant Vihar Tehsil, New Delhi, Delhi, 110029, India",B,10.94,6.08,13.36,1.07
+299,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mum Café and Bakery. Detailed address: Benito Juarez Marg, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India
+2. IIT - Block I. Detailed address: Gamal Abdel Nasser Marg, Kalu Sarai, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India",B,1.96,5.26,4.16,8.61
+300,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Om Balaji Dhaba. Detailed address: Benito Juarez Marg, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India
+2. Nawaab's Kitchen. Detailed address: Pandit Trilok Chandra Sharma Marg, Khirki, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",B,15.35,7.84,5.31,13.04
+301,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dr. Amit Mangla, Dr. Sheetal Mangla. Detailed address: C-50, Basement, Ho Chi Minh Marg, Saomi Nagar, New Delhi, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Devan's at Lodhi. Detailed address: Najaf Khan Road, Lodhi Art District, Lodhi Colony, Defence Colony Tehsil, South East Delhi, Delhi, 110049, India",C,11.76,9.06,4.06,11.64
+302,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Pandara Road Colony Park. Detailed address: Shri Barada Ukil Marg, Pandara Park, Chanakya Puri Tehsil, New Delhi, Delhi, 110003, India
+2. Shree Adya Katyayani Shaktipeeth Mandir. Detailed address: Sant Shri Nagpal Marg, Tara Market, Chattarpur, Saket Tehsil, South Delhi, Delhi, 110030, India",A,12.24,9.86,17.98,19.15
+303,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Karim's Mughlai Restaurant. Detailed address: Aurobindo Marg, Safdarjung Development Area, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India
+2. The Hope Project. Detailed address: Lala Lajpat Rai Path, Defence Colony Tehsil, South East Delhi, Delhi, 110013, India",A,5.53,2.53,1.23,10.22
+304,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Garvi Gujarat Bhawan. Detailed address: Darbhanga Lane, Pandara Park, Chanakya Puri Tehsil, New Delhi, Delhi, 100011, India
+2. Pandara Road Colony Park. Detailed address: Shri Barada Ukil Marg, Pandara Park, Chanakya Puri Tehsil, New Delhi, Delhi, 110003, India",B,7.59,0.72,6.75,4.79
+305,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Odin Fitness Club. Detailed address: C-222, Lajpat Nagar 1, Lajpat Nagar I, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India
+2. Guru Harkrishan Polyclinic Bangla Sahib. Detailed address: Hanuman Road, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 110001, India",C,1.96,13.91,6.2,3.87
+306,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Talkatora Garden. Detailed address: Mother Teresa Crescent, Willingdon Crescent, Chanakya Puri Tehsil, New Delhi, Delhi, 110004, India
+2. Kendriya Vidyalaya No. 2. Detailed address: Delhi-Gurugram Expressway, Vikram Vihar, Delhi Cantonment, New Delhi, Delhi, 110010, India",A,7.57,14.41,14.0,1.48
+307,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Netaji Apartments, 156A (East). Detailed address: Safdarjung Enclave, Vasant Vihar Tehsil, New Delhi, Delhi, 110029, India
+2. DDA Market. Detailed address: Desk to Desk Courier & Cargo, 4, DDA Market, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India",C,6.44,0.92,3.18,11.17
+308,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Young Women's Christian Association. Detailed address: 10, Sansad Marg, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 110001, India
+2. Pop Seoul. Detailed address: Green Lane, Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",C,6.31,9.8,8.6,3.0
+309,"What is the straight-line distance between the following two locations? (Unit is km)
+1. U.A. Medicos. Detailed address: Birbal Road, Jangpura Extension, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India
+2. Batra Travel n Forex. Detailed address: Guru Gobind Singh Marg, Malviya Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",D,2.84,11.94,4.2,6.36
+310,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Barbeque Nation. Detailed address: Mahatma Gandhi Marg, Kotla Mubarak, South Extension, Defence Colony Tehsil, South East Delhi, Delhi, 110049, India
+2. Rose Cafe. Detailed address: 2, Westend Marg, Saidulajaib Extension, New Delhi, Saket Tehsil, South Delhi, Delhi, 110030, India",C,1.41,7.27,6.05,11.03
+311,"What is the straight-line distance between the following two locations? (Unit is km)
+1. SOS Cafe. Detailed address: Palam Marg, Vasant Vihar Tehsil, New Delhi, Delhi, 110066, India
+2. Karim's Mughlai Restaurant. Detailed address: Aurobindo Marg, Safdarjung Development Area, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India",D,4.78,1.45,6.28,2.89
+312,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Safdarjung H back gate. Detailed address: Aurobindo Marg, Yusuf Sarai Market, South Extension, Defence Colony Tehsil, South East Delhi, Delhi, 110029, India
+2. Yes Minister Bowling, Bar & Kitchen. Detailed address: IIT Flyover, Kalu Sarai, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India",B,3.63,2.57,7.17,9.42
+313,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Indira Gandhi International Airport. Detailed address: Vasant Vihar Tehsil, New Delhi, Delhi, 110037, India
+2. Broomees HQ. Detailed address: Vaishno Devi Marg, Lajpat Nagar I, Lajpat Nagar II, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India",A,14.14,15.76,15.46,19.44
+314,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Aggarwal Sweets. Detailed address: Shrimati Rampyari Bhalla Marg, Malviya Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Youplus. Detailed address: Prithviraj Lane, Lodhi Estate, Rabindra Nagar, Chanakya Puri Tehsil, New Delhi, Delhi, 110003, India",C,12.7,5.17,7.46,10.8
+315,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Tibet House. Detailed address: Air Force Bal Bharati School, Vardhman Marg, Lodhi Art District, New Delhi, Defence Colony Tehsil, South East Delhi, Delhi, 110003, India
+2. Protected Monument. Detailed address: Swami Vivekananda Marg, Ramakrishna Puram, Vasant Vihar Tehsil, New Delhi, Delhi, 110022, India",B,10.24,5.78,2.46,9.74
+316,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Storm Reloaded. Detailed address: Lala Lajpat Rai Marg, Greater Kailash, East of Kailash, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. Tirupati eye center. Detailed address: Jagdamba Camp, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",C,8.88,1.98,3.1,8.89
+317,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sai Juice Corner. Detailed address: D Block Road, House 269, 3rd floor, Rama, 303, Masjid Moth Rd, South Extension II, Block A, New Delhi, Delhi 110049, Defence Colony Tehsil, South East Delhi, Delhi, 110049, India
+2. Fortis Healthworld. Detailed address: Saket Road, Press Enclave, Saket, Hauz Khas Tehsil, South Delhi, Delhi, 110068, India",A,4.62,2.08,8.84,0.78
+318,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Jai Prakash Yantra. Detailed address: Jantar Mantar, Sansad Marg, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 110001, India
+2. School of Interntional Studies. Detailed address: Jawaharlal Nehru University, Street D, Munirka DDA Flats, Vasant Vihar Tehsil, New Delhi, Delhi, 110067, India",D,5.76,4.11,5.11,10.8
+319,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Talkatora Stadium. Detailed address: Mother Teresa Crescent, Willingdon Crescent, Chanakya Puri Tehsil, New Delhi, Delhi, 110004, India
+2. Sitaram Bhawan. Detailed address: 55, Maidan Garhi, Neb Sarai, Saket Tehsil, South Delhi, Delhi, 110068, India",D,21.19,20.96,18.23,13.37
+320,"What is the straight-line distance between the following two locations? (Unit is km)
+1. MGF Metropolitan Mall. Detailed address: Shaheed Lieutenant Pankaj Juyal Marg, Saket District Centre, Saket, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Temple. Detailed address: Maharishi Valmiki Marg, Dakshinpuri Extension, Ambedkar Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110062, India",B,5.44,1.61,6.54,2.89
+321,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Balhara's Le Cure Hospital. Detailed address: IGNOU Road, Indira Enclave, Neb Sarai, Saket Tehsil, South Delhi, Delhi, 110068, India
+2. Gurudwara Sahib. Detailed address: Munirka Marg, Vasant Vihar, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India",B,5.46,6.6,11.17,13.03
+322,"What is the straight-line distance between the following two locations? (Unit is km)
+1. police colony park. Detailed address: Sanwal Nagar, South Extension, Defence Colony Tehsil, South East Delhi, Delhi, 110049, India
+2. Baird Place. Detailed address: Delhi Cantonment, New Delhi, Delhi, 110046, India",D,17.41,11.27,5.05,10.03
+323,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Vasant Vihar Club. Detailed address: Swimming Pool, Paschimi Marg, Vasant Vihar, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India
+2. Gumbad Park. Detailed address: Lado Sarai, Saket Tehsil, South Delhi, Delhi, 110030, India",B,12.04,5.7,10.59,3.56
+324,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Saravana Bhavan. Detailed address: 50, Janpath, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 110001, India
+2. Shiru Cafe, IIT Delhi. Detailed address: Gamal Abdel Nasser Marg, Kalu Sarai, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India",B,16.63,9.54,16.32,2.01
+325,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Chai Latte. Detailed address: Benito Juarez Marg, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India
+2. Aadyant. Detailed address: 11, Nelson Mandela Marg, Vasant Kunj, Vasant Vihar Tehsil, New Delhi, Delhi, 110070, India",A,6.44,8.95,10.04,12.48
+326,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Fat Tiger. Detailed address: S. Swaran Singh Bhandari Marg, Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. Kotak Mahindra Bank. Detailed address: Palam Marg, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India",B,1.53,6.72,12.36,13.84
+327,"What is the straight-line distance between the following two locations? (Unit is km)
+1. The Dentist. Detailed address: 5, Vikram Vihar Extension, Vikram Vihar, Lajpat Nagar IV, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India
+2. Money Changer. Detailed address: 16, Malcha Marg, Malcha, Chanakya Puri Tehsil, New Delhi, Delhi, 110021, India",A,6.75,3.15,1.28,2.2
+328,"What is the straight-line distance between the following two locations? (Unit is km)
+1. PlanCover. Detailed address: Shahpur Jat, Hauz Khas Tehsil, South Delhi, Delhi, 110049, India
+2. Bank Extension Counter. Detailed address: Lady Irwin College, Sikandra Road, Chanakya Puri Tehsil, New Delhi, Delhi, 110001, India",A,8.82,14.25,3.75,16.71
+329,"What is the straight-line distance between the following two locations? (Unit is km)
+1. D-Block. Detailed address: Indian Statistical Institute, Delhi, Shaheed Jeet Singh Marg, New Delhi, Mehrauli Tehsil, South Delhi, Delhi, 110016, India
+2. Ratna Nursery. Detailed address: Maharishi Dayanand Marg, Bhavishya Nidhi Enclave, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",A,2.63,8.95,9.93,5.15
+330,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Canteen. Detailed address: Delhi-Gurugram Expressway, Vikram Vihar, Delhi Cantonment, New Delhi, Delhi, 110010, India
+2. Dr. Goyal's Clinic. Detailed address: 94, Veer Savarkar Marg, Lajpat Nagar III, Lajpat Nagar II, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India",C,4.13,11.11,9.83,3.62
+331,"What is the straight-line distance between the following two locations? (Unit is km)
+1. D block. Detailed address: Indian Statistical Institute, Delhi, Shaheed Jeet Singh Marg, New Delhi, Mehrauli Tehsil, South Delhi, Delhi, 110016, India
+2. Olympia Gym. Detailed address: Alaknanda Road, Greater Kailash II, Alaknanda, Kalkaji Tehsil, South East Delhi, Delhi, 110076, India",D,8.07,10.37,11.92,6.17
+332,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Embassy of Algeria. Detailed address: Street Number 1, Shantiniketan, Moti Bagh, Vasant Vihar Tehsil, New Delhi, Delhi, 110022, India
+2. Bhogal Buddha Vihar. Detailed address: Hospital Road, Jangpura-A, Defence Colony Tehsil, South East Delhi, Delhi, 110013, India",C,14.99,11.9,7.17,12.43
+333,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gatishakti Bhawan. Detailed address: NCRTC, INA Colony, Pocket-A, Government Quarters, South Extension, Defence Colony Tehsil, South East Delhi, Delhi, 110029, India
+2. Chanakya Rail Enclave. Detailed address: Chanakyapuri, Chanakya Puri Tehsil, New Delhi, Delhi, 110023, India",B,4.32,2.65,10.63,0.64
+334,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Aman Medical Centre. Detailed address: Bhulbhulaiya Road, Mehrauli, Mehrauli Tehsil, South Delhi, Delhi, 110030, India
+2. Tea Moments. Detailed address: Mahatma Gandhi Marg, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110021, India",D,6.0,1.67,5.91,7.33
+335,"What is the straight-line distance between the following two locations? (Unit is km)
+1. All India Medicos. Detailed address: Aurobindo Marg, Yusuf Sarai Market, Yusuf Sarai, Defence Colony Tehsil, South East Delhi, Delhi, 110029, India
+2. Costa. Detailed address: Road Number 5, Greater Kailash II, Alaknanda, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",D,3.15,10.04,2.39,4.69
+336,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chhattarpur Mandir Complex. Detailed address: Sant Shri Nagpal Marg, Tara Market, Chattarpur, Saket Tehsil, South Delhi, Delhi, 110030, India
+2. Max Multi Speciality Centre. Detailed address: Ho Chi Minh Marg, Panchsheel Park, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",D,9.93,9.47,2.74,5.62
+337,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chaayos. Detailed address: Munirka Marg, Vasant Vihar, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India
+2. Village Saidulajaib Welfare Association. Detailed address: Off. F/8, Gali Number 1, Said-ul-Ajaib Village, Saidulajaib Extension, New Delhi, Saket Tehsil, South Delhi, Delhi, 110030, India",A,5.83,3.88,4.76,12.63
+338,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Government hospital, Madangir. Detailed address: Maharishi Valmiki Marg, Dakshinpuri, Ambedkar Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110062, India
+2. angels in my kitchen. Detailed address: Road Number 5, Greater Kailash II, Alaknanda, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",D,6.47,7.17,4.12,1.95
+339,"What is the straight-line distance between the following two locations? (Unit is km)
+1. HDFC Bank. Detailed address: Birbal Road, Jangpura Extension, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India
+2. Yogmaya Multispeciality Hospital. Detailed address: Sant Shri Nagpal Marg, Tara Market, Satbari, Saket Tehsil, South Delhi, Delhi, 110074, India",C,17.34,4.05,11.54,16.54
+340,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mughal Sarai. Detailed address: Qutub Minar Complex, Kalka Das Marg, Mehrauli, Mehrauli Tehsil, South Delhi, Delhi, 110030, India
+2. Begumpur Masjid. Detailed address: Begumpuri Masjid, Sunlit Path, Kalu Sarai, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",C,7.74,7.8,2.44,7.0
+341,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Concrete Cafe & Lounge. Detailed address: Kalka Devi Marg, Nehru Nagar, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India
+2. Shiv Shakti Mandir. Detailed address: Rajdev Mehta Marg, Kailash Colony, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",C,5.57,6.88,0.74,6.78
+342,"What is the straight-line distance between the following two locations? (Unit is km)
+1. State Bank of India. Detailed address: Basant Kaur Marg, Shivalik, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Syndicate Bank. Detailed address: Palam Marg, Vasant Vihar Tehsil, New Delhi, Delhi, 110022, India",A,4.56,0.54,2.25,10.31
+343,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lady Irwin Senior Secondary School. Detailed address: Dron Marg, Defence Colony, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India
+2. DTDC. Detailed address: Benito Juarez Marg, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India",A,6.82,8.03,3.9,9.59
+344,"What is the straight-line distance between the following two locations? (Unit is km)
+1. RSG Classes. Detailed address: 63, Benito Juarez Marg, Satya Niketan, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110021, India
+2. HDFC. Detailed address: Underpass, Defence Colony Tehsil, South East Delhi, Delhi, 110503, India",A,7.31,2.88,12.59,9.1
+345,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sahib Real Estate. Detailed address: A-1/60, Neb Valley, Saket Tehsil, South Delhi, Delhi, 110068, India
+2. G.D.Goenka World School. Detailed address: Bhagwan Mahavir Marg, Vasant Kunj, Vasant Vihar Tehsil, New Delhi, Delhi, 110070, India",D,3.58,12.18,10.24,5.18
+346,"What is the straight-line distance between the following two locations? (Unit is km)
+1. shiv mandir. Detailed address: Mehrauli Badarpur Road, Khanpur, Sainik Farms, Hauz Khas Tehsil, South Delhi, Delhi, 110062, India
+2. Woodhouse Café. Detailed address: Basant Kaur Marg, Shivalik, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",D,8.18,10.13,7.55,3.59
+347,"What is the straight-line distance between the following two locations? (Unit is km)
+1. D-8. Detailed address: 8031 to 8060, Abdul Gaffar Khan Marg, Vasant Kunj, Vasant Vihar Tehsil, New Delhi, Delhi, 110070, India
+2. CHS Library. Detailed address: Jawaharlal Nehru University, Street D, Munirka DDA Flats, Vasant Vihar Tehsil, New Delhi, Delhi, 110067, India",D,7.53,6.88,3.29,2.17
+348,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bahumukh. Detailed address: 1, Bhagwan Das Road, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 110001, India
+2. Kingdom of Kids. Detailed address: R.M. Vats Marg, Panchsheel Park, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",D,5.69,17.14,17.11,9.22
+349,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Forest Area. Detailed address: Mehrauli, Mehrauli Tehsil, South Delhi, Delhi, 110070, India
+2. Acharya Sushil Muni Ashram. Detailed address: Defence Colony, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India",D,2.59,10.69,5.29,8.6
+350,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chanakya Rail Enclave. Detailed address: Chanakyapuri, Chanakya Puri Tehsil, New Delhi, Delhi, 110023, India
+2. Embassy of the Kyrgyz Republic. Detailed address: 11, A-10, Vasant Vihar, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India",D,8.85,9.36,8.22,3.39
+351,"What is the straight-line distance between the following two locations? (Unit is km)
+1. DGD Sangam Vihar D Block. Detailed address: Mangal Bazaard Road, Tigri, Sangam Vihar, Kalkaji Tehsil, South East Delhi, Delhi, 110080, India
+2. SOS Cafe. Detailed address: Palam Marg, Vasant Vihar Tehsil, New Delhi, Delhi, 110066, India",B,11.72,8.57,6.79,14.66
+352,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Punjab National Bank. Detailed address: Balbir Saxena Marg, Anand Lok, Gulmohar Enclave, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110049, India
+2. Cafe Pink. Detailed address: Hauz Khas Village Road, Hauz Khas Village, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India",D,9.19,6.69,5.84,1.43
+353,"What is the straight-line distance between the following two locations? (Unit is km)
+1. delhi high court block 2. Detailed address: Justice Sunanda Bhandare Marg, Cornwallis Colony, Chanakya Puri Tehsil, New Delhi, Delhi, 110503, India
+2. HDFC Bank. Detailed address: Birbal Road, Jangpura Extension, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India",C,8.04,6.64,2.76,1.57
+354,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bhagwan Das Nursery. Detailed address: Major Somnath Marg, Sector 10, Ramakrishna Puram, Vasant Vihar Tehsil, New Delhi, Delhi, 110022, India
+2. Lady Irwin Senior Secondary School. Detailed address: Dron Marg, Defence Colony, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India",A,6.05,13.81,13.33,3.89
+355,"What is the straight-line distance between the following two locations? (Unit is km)
+1. UCO Bank. Detailed address: APJ School Road, Malviya Nagar, Sheikh Sarai, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Roshan Forex. Detailed address: 17, Malcha Marg, Malcha, Chanakya Puri Tehsil, New Delhi, Delhi, 110021, India",B,15.62,7.82,1.84,5.33
+356,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Hanuman Dharm Kanta. Detailed address: IGNOU Road, Said-ul-Ajaib Village, Neb Sarai, Saket Tehsil, South Delhi, Delhi, 110068, India
+2. Biriyani. Detailed address: Basant Kaur Marg, Shivalik, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",C,9.94,7.16,2.39,4.97
+357,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Wah Ji Wah. Detailed address: Pramod Mahajan Marg, Press Enclave, Saket, Hauz Khas Tehsil, South Delhi, Delhi, 110030, India
+2. Behl Hospital. Detailed address: Mahatma Gandhi Marg, Naraina, Delhi Cantonment, New Delhi, Delhi, 110028, India",A,12.96,11.87,11.55,9.24
+358,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Keventers. Detailed address: Pandit Trilok Chandra Sharma Marg, Khirki, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Jumbo King. Detailed address: Sikandra Road, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 020626, India",A,10.83,11.99,5.76,14.33
+359,"What is the straight-line distance between the following two locations? (Unit is km)
+1. All India Chemist. Detailed address: IGNOU Road, Indira Enclave, Neb Sarai, Saket Tehsil, South Delhi, Delhi, 110068, India
+2. RSG Classes. Detailed address: 63, Benito Juarez Marg, Satya Niketan, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110021, India",A,9.43,3.26,15.58,13.59
+360,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Nav Durga Medicos. Detailed address: 56, Neb Sarai, Saket Tehsil, South Delhi, Delhi, 110068, India
+2. The Golden Dragon. Detailed address: Shiv Mandir Marg, Lajpat Nagar III, Lajpat Nagar II, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110065, India",D,0.86,9.23,4.95,8.07
+361,"What is the straight-line distance between the following two locations? (Unit is km)
+1. R-Block park. Detailed address: South Extension II, South Extension, Defence Colony Tehsil, South East Delhi, Delhi, 110049, India
+2. Kashmiri Market. Detailed address: Aurobindo Marg, South Extension, Vasant Vihar Tehsil, New Delhi, Defence Colony Tehsil, South East Delhi, Delhi, 110029, India",D,5.35,2.93,7.56,1.7
+362,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Elinore Aesthetic. Detailed address: Netaji Lane, Safdarjung Enclave, Vasant Vihar Tehsil, New Delhi, Delhi, 110029, India
+2. PVR 3C’s Cinema. Detailed address: Feroze Gandhi Road, Lajpat Nagar III, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India",B,7.71,4.32,10.27,10.43
+363,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Vasant Vihar District Park. Detailed address: Naubagh, Nelson Mandela Marg, Vasant Vihar Tehsil, New Delhi, Delhi, 110067, India
+2. Pant Nagar. Detailed address: Defence Colony Tehsil, South East Delhi, Delhi, 201005, India",D,3.68,10.41,14.87,8.2
+364,"What is the straight-line distance between the following two locations? (Unit is km)
+1. NG Pharmacy. Detailed address: IGNOU Road, Indira Enclave, Neb Sarai, Saket Tehsil, South Delhi, Delhi, 110068, India
+2. Theatre Kunzum 1. Detailed address: Road Number 5, Greater Kailash II, Alaknanda, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",B,10.6,4.93,7.88,12.28
+365,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bharat Sanchar Bhuvan - BSNL HQ. Detailed address: Janpath, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 110001, India
+2. DGD Sangam Vihar D Block. Detailed address: Mangal Bazaard Road, Tigri, Sangam Vihar, Kalkaji Tehsil, South East Delhi, Delhi, 110080, India",C,15.49,4.94,12.86,17.41
+366,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Play Area in Children's(Chaudhary) Park. Detailed address: Sector A Main road, Pkt-B Sec-A, Mehrauli Tehsil, South Delhi, Delhi, 110070, India
+2. Radhika Farm. Detailed address: Chattarpur Farms, Saket Tehsil, South Delhi, Delhi, 110074, India",D,0.55,8.33,6.31,2.73
+367,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chocolateria San Churro. Detailed address: Road Number 5, Greater Kailash II, Alaknanda, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. Morellos. Detailed address: Khasra 258, Lane Number 3, Khasra 258, Saket, Saket Tehsil, South Delhi, Delhi, 110068, India",B,6.71,4.67,6.01,1.51
+368,"What is the straight-line distance between the following two locations? (Unit is km)
+1. IIT Hospital. Detailed address: Indian Institute of Technology Delhi, Gamal Abdel Nasser Marg, Kalu Sarai, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India
+2. shiv mandir. Detailed address: Mehrauli Badarpur Road, Khanpur, Sainik Farms, Hauz Khas Tehsil, South Delhi, Delhi, 110062, India",A,5.87,7.26,10.53,12.45
+369,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Samrat Yantra. Detailed address: Jantar Mantar, Sansad Marg, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 110001, India
+2. Children's (Chaudhary) park. Detailed address: Pkt-B Sec-A, Mehrauli Tehsil, South Delhi, Delhi, 110070, India",D,18.82,8.72,18.26,13.35
+370,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ansal Plaza Park. Detailed address: Hudco Place, Andrews Ganj, Defence Colony Tehsil, South East Delhi, Delhi, 110049, India
+2. MCD Park. Detailed address: Mohammadpur, Ramakrishna Puram, Vasant Vihar Tehsil, New Delhi, Delhi, 110066, India",B,7.31,3.69,1.49,6.63
+371,"What is the straight-line distance between the following two locations? (Unit is km)
+1. juice and fast food shop. Detailed address: JNU Ring Road, Vasant Vihar Tehsil, New Delhi, Mehrauli Tehsil, South Delhi, Delhi, 110067, India
+2. Concrete Cafe & Lounge. Detailed address: Kalka Devi Marg, Nehru Nagar, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India",B,8.99,7.71,9.79,9.84
+372,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Chinto Park. Detailed address: Naraina Vihar, Delhi Cantonment, New Delhi, Delhi, 110028, India
+2. D block. Detailed address: Indian Statistical Institute, Delhi, Shaheed Jeet Singh Marg, New Delhi, Mehrauli Tehsil, South Delhi, Delhi, 110016, India",A,10.49,16.8,5.09,13.97
+373,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gumbad Park. Detailed address: Lado Sarai, Saket Tehsil, South Delhi, Delhi, 110030, India
+2. Samrat Yantra. Detailed address: Jantar Mantar, Sansad Marg, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 110001, India",D,8.82,8.19,9.38,11.74
+374,"What is the straight-line distance between the following two locations? (Unit is km)
+1. hg. Detailed address: Kalu Sarai, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India
+2. police colony park. Detailed address: Sanwal Nagar, South Extension, Defence Colony Tehsil, South East Delhi, Delhi, 110049, India",A,3.05,5.61,7.75,8.86
+375,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Mirambika. Detailed address: Sunlit Path, Kalu Sarai, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Junior School Ground. Detailed address: Sardar Patel Vidyalaya, 14-17 Lodhi Estate, Lodhi Estate, Chanakya Puri Tehsil, New Delhi, Delhi, 110003, India",B,3.99,6.81,10.68,9.37
+376,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Shri Hari Mandir. Detailed address: 81, Veer Savarkar Marg, Lajpat Nagar III, Lajpat Nagar II, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India
+2. Embassy of Belgium. Detailed address: 50-N, Shanti Path, Chanakyapuri, Chanakya Puri Tehsil, New Delhi, Delhi, 110021, India",A,6.37,12.01,12.07,4.22
+377,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Rolls Studio. Detailed address: 37, Benito Juarez Marg, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India
+2. Delhi Public School. Detailed address: Nelson Mandela Marg, Vasant Kunj, Vasant Vihar Tehsil, New Delhi, Delhi, 110067, India",A,5.81,11.11,13.41,10.79
+378,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Lady Sri Ram College (LSR). Detailed address: Lala Lajpat Rai Marg, Lajpat Nagar IV, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110048, India
+2. SCI International Hospital. Detailed address: Singh Medicos, 8, Hans Raj Gupta Marg, Greater Kailash I, New Delhi, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",D,4.95,2.52,6.06,1.13
+379,"What is the straight-line distance between the following two locations? (Unit is km)
+1. park near mother dairy. Detailed address: South Extension II, South Extension, Defence Colony Tehsil, South East Delhi, Delhi, 110049, India
+2. Lady Irwin College Front Lawn. Detailed address: Lady Irwin College, Sikandra Road, Chanakya Puri Tehsil, New Delhi, Delhi, 110001, India",A,6.86,5.79,10.14,14.12
+380,"What is the straight-line distance between the following two locations? (Unit is km)
+1. 212, Defense Officers Enclave, Dhaula Kuan Part 2. Detailed address: Vande Mataram Marg, Delhi Cantonment, New Delhi, Delhi, 110021, India
+2. Doner Daddy. Detailed address: S. Swaran Singh Bhandari Marg, Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",A,8.65,3.52,10.92,1.31
+381,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Amigos Hub. Detailed address: Benito Juarez Marg, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India
+2. DGD, Dakshinpuri. Detailed address: Maharishi Valmiki Marg, Dakshinpuri, Ambedkar Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110062, India",D,6.07,4.34,3.26,10.32
+382,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sir Mahavir Mandir (Pahadi Wala Mandir). Detailed address: Nandi Vithi Marg, Zumrudpur Market, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. Sai Baba Mandir. Detailed address: Maharishi Raman Marg, Defence Colony Tehsil, South East Delhi, Delhi, 110003, India",B,5.36,3.86,7.06,9.65
+383,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Aadyant. Detailed address: 11, Nelson Mandela Marg, Vasant Kunj, Vasant Vihar Tehsil, New Delhi, Delhi, 110070, India
+2. Theme Music Institute. Detailed address: 33, Hans Raj Gupta Marg, Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",A,8.49,5.22,10.71,15.02
+384,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Woodhouse Café. Detailed address: Basant Kaur Marg, Shivalik, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Doctor K.L. Jindal. Detailed address: Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",C,6.32,1.04,2.65,4.58
+385,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ajit Khalsa Dhaba. Detailed address: Sant Shri Nagpal Marg, Tara Market, Satbari, Saket Tehsil, South Delhi, Delhi, 110074, India
+2. Bal Kishan Memorial Hospital. Detailed address: Deoli Road, Khanpur Extension, Hauz Khas Tehsil, South Delhi, Delhi, 110062, India",A,5.18,9.71,3.32,4.08
+386,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Yeti. Detailed address: Road Number 5, Greater Kailash II, Alaknanda, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. Bharat Sanchar Bhuvan - BSNL HQ. Detailed address: Janpath, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 110001, India",D,14.67,14.24,12.0,10.03
+387,"What is the straight-line distance between the following two locations? (Unit is km)
+1. NIHFW Apartments. Detailed address: Vasant Vihar Tehsil, New Delhi, Delhi, 110066, India
+2. Tagore International School. Detailed address: Paschimi Marg, Vasant Vihar, Moti Bagh, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India",C,9.89,8.12,2.39,4.18
+388,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Shiv Shakti Mandir. Detailed address: Rajdev Mehta Marg, Kailash Colony, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. Carnatic Cafe. Detailed address: Road Number 5, Greater Kailash II, Alaknanda, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",B,5.67,2.16,7.24,0.6
+389,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gurudwara Sahib. Detailed address: Munirka Marg, Vasant Vihar, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India
+2. Dr B R Sur Homoeopathic Medical college and Hospital. Detailed address: Benito Juarez Marg, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110021, India",A,3.14,5.42,5.49,10.55
+390,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Shri Kamal Medicos. Detailed address: Pramod Mahajan Marg, Press Enclave, Saket, Hauz Khas Tehsil, South Delhi, Delhi, 110030, India
+2. Shri Shani Dev Mandir. Detailed address: Vaishno Devi Marg, Lajpat Nagar I, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India",B,14.16,6.44,10.11,4.14
+391,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Police Station Saket. Detailed address: Birla Vidya Niketan Marg, Saket District Centre, Saket, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. C-6 Vasant Kunj Park. Detailed address: Vasant Kunj, Vasant Vihar Tehsil, New Delhi, Delhi, 110070, India",A,7.0,8.55,11.64,11.62
+392,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sports Injury Centre, Safdarjung Hospital (Part of SJH), New Delhi. Detailed address: Mahatma Gandhi Marg, Kidwai Nagar, Vasant Vihar Tehsil, New Delhi, Delhi, 110023, India
+2. Skin & Hair Care. Detailed address: Josip Broz Tito Marg, Hauz Khas Tehsil, South Delhi, Delhi, 110048, India",C,2.47,11.28,3.6,5.97
+393,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gold's Gym. Detailed address: Lala Lajpat Rai Marg, Greater Kailash, East of Kailash, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. The Big Chill. Detailed address: Prithviraj Lane, Lodhi Estate, Rabindra Nagar, Chanakya Puri Tehsil, New Delhi, Delhi, 110003, India",D,2.61,11.22,9.5,5.15
+394,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Srinagesh Garden. Detailed address: Church Road, Delhi Cantonment, New Delhi, Delhi, 110046, India
+2. USO House. Detailed address: A-13, USO Marg, Qutub Institutional Area, Mehrauli Tehsil, South Delhi, Delhi, 110067, India",A,7.12,1.15,12.01,3.2
+395,"What is the straight-line distance between the following two locations? (Unit is km)
+1. khandani pakode wala. Detailed address: Rajmata Vijayaraje Sindhia Marg, Sarojini Nagar, Vasant Vihar Tehsil, New Delhi, Delhi, 110023, India
+2. Axis Bank. Detailed address: Subramaniyam Bharti Marg, Lodhi Estate, Rabindra Nagar, Chanakya Puri Tehsil, New Delhi, Delhi, 110003, India",C,11.26,12.49,4.77,9.45
+396,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bandhan Bank. Detailed address: Brahma Kumari Marg, Shivalik, Malviya Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. J&K Bank. Detailed address: Munirka Marg, Vasant Vihar, Delhi Cantonment, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India",C,3.51,9.75,5.05,12.74
+397,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Army Public School. Detailed address: Shankar Vihar, New Delhi, Delhi, 110010, India
+2. Embassy of Afghanistan. Detailed address: 5/50-F, Shanti Path, Chanakyapuri, Chanakya Puri Tehsil, New Delhi, Delhi, 110021, India",B,4.18,5.41,9.15,3.65
+398,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bharti Vidya Bhawan. Detailed address: rotary no 5, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 020626, India
+2. Hyatt Regency. Detailed address: Vivekanand Marg, Ramakrishna Puram, Vasant Vihar Tehsil, New Delhi, Delhi, 110066, India",D,11.95,8.26,4.05,7.02
+399,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dr Rajat Mahajan Clinic. Detailed address: Sector-3, Abdul Gaffar Khan Marg, New Delhi, Mehrauli Tehsil, South Delhi, Delhi, 110070, India
+2. Akshay Medicos. Detailed address: Bhulbhulaiya Road, Gharwal Colony, Mehrauli, Mehrauli Tehsil, South Delhi, Delhi, 110030, India",C,4.73,3.67,2.03,4.28
+400,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Kartar Singh Market. Detailed address: Palam Marg, Vasant Vihar Tehsil, New Delhi, Delhi, 110066, India
+2. Army Research and Referral Hospital. Detailed address: South Campus (internal Road), Moti Bagh, Vasant Vihar Tehsil, New Delhi, Delhi, 110010, India",D,7.36,9.3,10.14,3.87
+401,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Aquarium. Detailed address: Alaknanda Road, Greater Kailash II, Alaknanda, Kalkaji Tehsil, South East Delhi, Delhi, 110062, India
+2. SPUHC, Jawahar park. Detailed address: A Block Lane, Khanpur, Sainik Farms, Hauz Khas Tehsil, South Delhi, Delhi, 110062, India",A,3.14,7.66,5.65,9.09
+402,"What is the straight-line distance between the following two locations? (Unit is km)
+1. University of Delhi South Campus. Detailed address: Benito Juarez Marg, Moti Bagh, Vasant Vihar Tehsil, New Delhi, Delhi, 110021, India
+2. Jai Prakash Yantra. Detailed address: Jantar Mantar, Sansad Marg, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 110001, India",B,4.93,7.0,1.01,10.2
+403,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Stoned Pizzeria. Detailed address: Chaudhary Dalip Singh Marg, Kaushalya Park, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India
+2. TechStack. Detailed address: Westend Marg, Saidulajaib Extension, Saket Tehsil, South Delhi, Delhi, 110030, India",B,5.01,3.42,1.18,8.12
+404,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Domino's. Detailed address: Veer Savarkar Marg, Lajpat Nagar III, Lajpat Nagar II, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India
+2. Vivekananda yoga Anusandhana samsthana. Detailed address: Aurobindo Marg, Hauz Khas Enclave, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India",D,2.3,6.51,12.12,4.32
+405,"What is the straight-line distance between the following two locations? (Unit is km)
+1. ICICI Bank. Detailed address: Underpass, Defence Colony Tehsil, South East Delhi, Delhi, 110503, India
+2. Yes Bank. Detailed address: Birbal Road, Jangpura Extension, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India",D,3.91,4.78,6.37,1.94
+406,"What is the straight-line distance between the following two locations? (Unit is km)
+1. टंकुश. Detailed address: Shaheed Jeet Singh Marg, Mehrauli Tehsil, South Delhi, Delhi, 110016, India
+2. Chanderlok Building Bank Of India Govt Business Department. Detailed address: Janpath, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 110001, India",A,10.35,16.45,5.97,11.71
+407,"What is the straight-line distance between the following two locations? (Unit is km)
+1. hanuman Mandir. Detailed address: Pandit Trilok Chandra Sharma Marg, Khirki, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. 212, Defense Officers Enclave, Dhaula Kuan Part 2. Detailed address: Vande Mataram Marg, Delhi Cantonment, New Delhi, Delhi, 110021, India",B,5.73,9.27,3.45,7.3
+408,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Unique Chemist. Detailed address: 81, Veer Savarkar Marg, Lajpat Nagar III, Lajpat Nagar II, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India
+2. Base Hospital Delhi Cantt. Detailed address: Hospital Road, Delhi Cantonment, New Delhi, Delhi, 110046, India",B,6.6,11.58,16.44,3.97
+409,"What is the straight-line distance between the following two locations? (Unit is km)
+1. PVR 3C’s Cinema. Detailed address: Feroze Gandhi Road, Lajpat Nagar III, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India
+2. KFC. Detailed address: IIT Flyover, Kalu Sarai, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India",A,4.46,10.93,2.55,2.45
+410,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Om bhojanalaya. Detailed address: Pandit Trilok Chandra Sharma Marg, Khirki, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Subway. Detailed address: Guru Gobind Singh Marg, Malviya Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",A,0.88,2.45,5.99,4.5
+411,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Divine. Detailed address: 432, Lane 2, Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. Sutlej Hostel (Men's). Detailed address: Baba Gang Nath Marg, Vasant Vihar Tehsil, New Delhi, Delhi, 110067, India",B,12.2,6.47,3.26,5.06
+412,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Yulu. Detailed address: Mahatma Gandhi Marg, Dhaula Kuan, Delhi Cantonment, New Delhi, Delhi, 110021, India
+2. Pushpawati Singhania Research Institute Blood bank. Detailed address: Pandit Trilok Chandra Sharma Marg, Savitri Nagar, New Delhi, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",B,3.31,8.3,11.82,10.08
+413,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Beguz Zaidi Market Moti Bagh south facing. Detailed address: F Mohan Senapati Marg, North Moti Bagh, Delhi Cantonment, New Delhi, Delhi, 110021, India
+2. Jamali Kamali Tomb Precinct. Detailed address: Mehrauli Archeological Park, Mehrauli Archeological Park Path, Lado Sarai, Mehrauli Tehsil, South Delhi, Delhi, 110030, India",D,9.45,1.78,14.17,7.19
+414,"What is the straight-line distance between the following two locations? (Unit is km)
+1. B-3, Basketball Court. Detailed address: Bhagwan Mahavir Marg, Prajapati Colony, Mehrauli, Vasant Vihar Tehsil, New Delhi, Mehrauli Tehsil, South Delhi, Delhi, 110070, India
+2. Lohit Hostel. Detailed address: Nelson Mandela Marg, Vasant Kunj, Vasant Vihar Tehsil, New Delhi, Delhi, 110067, India",B,4.3,2.26,5.32,3.51
+415,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sarathi South Indian Family restaurant. Detailed address: 60-A, BD Street, B Block, Munirka DDA Flats, Vasant Vihar Tehsil, New Delhi, Delhi, 110067, India
+2. Centre for Internet and Society. Detailed address: First Floor, B1/8, Hauz Khas, Hauz Khas, New Delhi, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India",A,3.23,5.48,11.03,7.13
+416,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Theme Music Institute. Detailed address: 33, Hans Raj Gupta Marg, Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. Bhagwan Das Nursery. Detailed address: Major Somnath Marg, Sector 10, Ramakrishna Puram, Vasant Vihar Tehsil, New Delhi, Delhi, 110022, India",D,3.04,4.36,8.59,6.48
+417,"What is the straight-line distance between the following two locations? (Unit is km)
+1. DT Cinema. Detailed address: Greater Kailash 2, Greater Kailash II, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. Sports Injury Centre, Safdarjung Hospital (Part of SJH), New Delhi. Detailed address: Mahatma Gandhi Marg, Kidwai Nagar, Vasant Vihar Tehsil, New Delhi, Delhi, 110023, India",D,2.45,2.54,6.82,4.5
+418,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Dr. Goyal's Clinic. Detailed address: 94, Veer Savarkar Marg, Lajpat Nagar III, Lajpat Nagar II, Lajpat Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110024, India
+2. Brown Coloured Gazebo. Detailed address: Abdul Gaffar Khan Marg, Mehrauli, Mehrauli Tehsil, South Delhi, Delhi, 110070, India",B,12.99,9.37,6.31,3.14
+419,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sukhmani Hospital. Detailed address: Chaudhary Harsukh Marg, Arjun Nagar, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110029, India
+2. NG Pharmacy. Detailed address: IGNOU Road, Indira Enclave, Neb Sarai, Saket Tehsil, South Delhi, Delhi, 110068, India",D,7.51,10.8,0.82,5.54
+420,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Suhani Medicos and Cosmetics. Detailed address: Pandit Trilok Chandra Sharma Marg, Khirki, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Allahabad Bank. Detailed address: Saket Road, Press Enclave, Saket, Hauz Khas Tehsil, South Delhi, Delhi, 110068, India",A,0.99,5.25,3.85,6.48
+421,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Faculty Transit Accommodation (FTA). Detailed address: Sanwal Nagar, Ayurvigyan Nagar, Defence Colony Tehsil, South East Delhi, Delhi, 110049, India
+2. Summer House Cafe. Detailed address: Hauz Khas Village Road, Green Park, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India",B,8.29,2.1,4.46,1.07
+422,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Morellos. Detailed address: Khasra 258, Lane Number 3, Khasra 258, Saket, Saket Tehsil, South Delhi, Delhi, 110068, India
+2. SmartBike. Detailed address: Copernicus Marg, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 020626, India",A,12.23,7.76,17.44,10.57
+423,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Little Senators Pre School. Detailed address: B-3, Vasant Vihar, Vasant Vihar Tehsil, New Delhi, Delhi, 110057, India
+2. Bharti Vidya Bhawan. Detailed address: rotary no 5, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 020626, India",D,11.48,15.17,1.82,8.58
+424,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Money Changer. Detailed address: 16, Malcha Marg, Malcha, Chanakya Puri Tehsil, New Delhi, Delhi, 110021, India
+2. Foresta Bistro & Cafe. Detailed address: 631/275, Lane Number 3, Said-ul-Ajaib Village, Saidulajaib Extension, New Delhi, Saket Tehsil, South Delhi, Delhi, 110030, India",A,9.42,14.02,14.89,15.18
+425,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Brown Sugar. Detailed address: M-73, S. Swaran Singh Bhandari Marg, Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. Kendriya Vidyalaya. Detailed address: NBCC Plaza Road, Pushp Vihar, Sector 5, Hauz Khas Tehsil, South Delhi, Delhi, 110062, India",C,11.22,4.93,3.49,7.02
+426,"What is the straight-line distance between the following two locations? (Unit is km)
+1. School of physical sciences. Detailed address: Jawaharlal Nehru University, Street D, Munirka DDA Flats, Vasant Vihar Tehsil, New Delhi, Delhi, 110067, India
+2. Y-9. Detailed address: Nelson Mandela Marg, Vasant Kunj, Vasant Vihar Tehsil, New Delhi, Delhi, 110070, India",D,8.93,4.07,9.76,2.38
+427,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Ratna Nursery. Detailed address: Maharishi Dayanand Marg, Bhavishya Nidhi Enclave, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Nescafe. Detailed address: IIT Delhi Main Road, Hauz Khas Enclave, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India",A,1.93,4.88,6.81,3.78
+428,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Sassi. Detailed address: Africa Avenue, Vasant Vihar Tehsil, New Delhi, Delhi, 110066, India
+2. Alami Markaz Banglewali masjid. Detailed address: Mathura Road, Defence Colony Tehsil, South East Delhi, Delhi, 110013, India",B,13.45,7.41,0.88,1.22
+429,"What is the straight-line distance between the following two locations? (Unit is km)
+1. SCI International Hospital. Detailed address: Singh Medicos, 8, Hans Raj Gupta Marg, Greater Kailash I, New Delhi, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India
+2. Electronics Niketan. Detailed address: CGO Complex, Defence Colony Tehsil, South East Delhi, Delhi, 201005, India",D,8.4,7.63,7.53,4.1
+430,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Batra Travel n Forex. Detailed address: Guru Gobind Singh Marg, Malviya Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Dohful Cookies & Coffee. Detailed address: IIT Flyover, Kalu Sarai, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India",A,1.14,6.17,5.08,3.34
+431,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Gianis. Detailed address: Shri Barada Ukil Marg, Pandara Park, Chanakya Puri Tehsil, New Delhi, Delhi, 110003, India
+2. Go Foodie. Detailed address: Guru Gobind Singh Marg, Malviya Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India",A,8.74,14.28,5.97,7.01
+432,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Centre for Internet and Society. Detailed address: First Floor, B1/8, Hauz Khas, Hauz Khas, New Delhi, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India
+2. डाक निदेशालय. Detailed address: Sansad Marg, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 110001, India",B,1.22,7.98,11.22,10.81
+433,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Brahma Kumaris. Detailed address: Brahma Kumari Marg, Shivalik, Malviya Nagar, Hauz Khas Tehsil, South Delhi, Delhi, 110017, India
+2. Saravana Bhavan. Detailed address: 50, Janpath, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 110001, India",D,7.93,4.45,4.18,10.09
+434,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Police Post, Khan Market. Detailed address: Khan Market, Subramaniyam Bharti Marg, Lodhi Estate, Rabindra Nagar, Chanakya Puri Tehsil, New Delhi, Delhi, 110003, India
+2. Cafe Coffee Day. Detailed address: Janpath, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 110001, India",B,4.75,3.0,9.61,5.68
+435,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Brown Coloured Gazebo. Detailed address: Abdul Gaffar Khan Marg, Mehrauli, Mehrauli Tehsil, South Delhi, Delhi, 110070, India
+2. Padmanabham. Detailed address: Janpath, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 110001, India",A,13.62,19.74,20.95,6.63
+436,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Bharat Petroleum. Detailed address: Church Road, Gopinath Bazar, Delhi Cantonment, New Delhi, Delhi, 110046, India
+2. Central Bank of India. Detailed address: 67, S. Swaran Singh Bhandari Marg, Greater Kailash I, Kalkaji Tehsil, South East Delhi, Delhi, 110048, India",A,11.13,8.12,13.39,14.53
+437,"What is the straight-line distance between the following two locations? (Unit is km)
+1. Director's Residence. Detailed address: Central Avenue, Hauz Khas Enclave, Hauz Khas, Hauz Khas Tehsil, South Delhi, Delhi, 110016, India
+2. Tomb Of Balban. Detailed address: Mehrauli Archeological Park, Mehrauli Archeological Park Path, Lado Sarai, Mehrauli Tehsil, South Delhi, Delhi, 110030, India",A,2.75,9.87,9.35,6.07

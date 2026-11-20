@@ -1,0 +1,446 @@
+id,question,answer,A,B,C,D
+0,"What is the distance between ""Вкусно — и точка"" and ""United Kitchen"" in the Moscow area?",A,6.37,12.27,3.14,7.44
+1,"What is the distance between ""Азбука здоровья"" and ""Пилпили"" in the Moscow area?",C,14.94,23.81,20.84,16.62
+2,"What is the distance between ""Школа № 627 имени генерала Д.Д. Лелюшенко. Учебный корпус № 9"" and ""Всероссийский научно-исследовательский геологический нефтяной институт"" in the Moscow area?",A,7.95,11.81,13.18,15.0
+3,"What is the distance between ""Газпромбанк"" and ""ТВ-Фарм"" in the Moscow area?",D,24.13,24.5,20.54,26.84
+4,"What is the distance between ""ЖелдорАльянс"" and ""корпус №34"" in the Moscow area?",D,4.19,14.39,16.5,9.78
+5,"What is the distance between ""Курдюк"" and ""Золотой колос"" in the Moscow area?",A,21.87,17.51,18.08,19.2
+6,"What is the distance between ""One Price Coffee"" and ""Газпромбанк"" in the Moscow area?",D,7.83,10.62,12.5,13.93
+7,"What is the distance between ""корпус Б"" and ""Фармакологическое Училище №4"" in the Moscow area?",D,15.91,5.99,15.27,8.04
+8,"What is the distance between ""Центр повышения квалификации специалистов здравоохранения"" and ""Храм Похвалы Пресвятой Богородицы в Зябликове"" in the Moscow area?",B,19.03,14.23,18.98,8.9
+9,"What is the distance between ""Tap&Barrel"" and ""Бургер Кинг"" in the Moscow area?",D,6.45,0.71,10.2,2.8
+10,"What is the distance between ""Не плачь, пей кофе"" and ""Форус Дент"" in the Moscow area?",C,9.6,8.36,13.45,9.62
+11,"What is the distance between ""Старый Лекарь"" and ""Клиника доктора Джорджа"" in the Moscow area?",D,9.93,20.31,22.9,17.65
+12,"What is the distance between ""Веда"" and ""TGI Friday's"" in the Moscow area?",B,8.19,9.81,5.76,15.25
+13,"What is the distance between ""Европейская стомоталогия"" and ""КиноРебенок"" in the Moscow area?",B,11.86,5.34,12.49,11.16
+14,"What is the distance between ""Teboil"" and ""Диалог"" in the Moscow area?",D,7.32,6.73,6.69,12.35
+15,"What is the distance between ""Базельский фонтан"" and ""Элекснет"" in the Moscow area?",B,8.47,7.47,14.37,10.31
+16,"What is the distance between ""Автохозяйство №3 ГУ МВД РФ"" and ""Школа № 498. Школьный корпус Марксистская улица, дом 9, корпус 2"" in the Moscow area?",C,10.68,5.71,9.4,3.46
+17,"What is the distance between ""Park Tower"" and ""ОАО ""Мосводоканал"". Район по эксплуатации водопроводной сети №2"" in the Moscow area?",A,3.12,7.55,4.89,0.89
+18,"What is the distance between ""Торгово-деловой центр"" and ""Жилой комплекс «Жизнь на Плющихе»"" in the Moscow area?",A,11.2,6.79,17.94,16.59
+19,"What is the distance between ""Колхи"" and ""Дента-Эль"" in the Moscow area?",A,1.43,6.86,7.24,9.34
+20,"What is the distance between ""Храм святителя Николая в Кузнецкой Слободе"" and ""Глобальный Мир, культурно-образовательный центр"" in the Moscow area?",B,10.23,7.66,12.53,5.33
+21,"What is the distance between ""Москва 125362"" and ""Milk&Beans"" in the Moscow area?",B,21.12,13.64,14.6,20.87
+22,"What is the distance between ""Гимназия №1570"" and ""Московский государственный лингвистический университет"" in the Moscow area?",B,1.31,5.71,2.85,11.83
+23,"What is the distance between ""ГБУЗ Детская городская поликлиника №91"" and ""Спортивный центр ЦСК ВМФ"" in the Moscow area?",C,24.61,20.06,21.0,14.41
+24,"What is the distance between ""Брикет маркет"" and ""Коктейль-Холл"" in the Moscow area?",A,1.2,9.09,6.55,6.83
+25,"What is the distance between ""Частная школа «Академическая гимназия»"" and ""Спортивный трёхзальный корпус МГУ"" in the Moscow area?",D,18.61,20.21,22.08,15.52
+26,"What is the distance between ""Московский машиностроительный завод ""Вымпел"""" and ""ОАНО Школа Ника"" in the Moscow area?",D,19.76,19.92,19.51,16.73
+27,"What is the distance between ""Дружба"" and ""Наркологический диспансер № 3"" in the Moscow area?",D,1.87,5.23,11.6,6.23
+28,"What is the distance between ""Библиотека №129"" and ""Дружба"" in the Moscow area?",C,20.43,18.98,16.36,20.69
+29,"What is the distance between ""РМП"" and ""Точка Кофе"" in the Moscow area?",D,3.11,6.55,0.59,5.05
+30,"What is the distance between ""EMS Fit X Body"" and ""Корчма"" in the Moscow area?",C,11.34,10.12,5.47,4.21
+31,"What is the distance between ""Frank by Баста"" and ""Wild Bean Cafe"" in the Moscow area?",D,18.22,16.65,16.82,14.44
+32,"What is the distance between ""Корпус химического факультета"" and ""АвтоСпецЦентр (Таганка)"" in the Moscow area?",A,10.58,5.23,6.66,6.76
+33,"What is the distance between ""Wellness клуб DAO Центр восточных оздоровительных практик"" and ""СпецСетьСтройБанк"" in the Moscow area?",B,5.27,3.04,0.66,4.98
+34,"What is the distance between ""развлекательный центр Луч"" and ""Воскресная школа при храме"" in the Moscow area?",D,11.31,9.8,12.08,13.49
+35,"What is the distance between ""Доктор Акнер"" and ""Арена бистро"" in the Moscow area?",A,4.58,6.23,6.75,5.73
+36,"What is the distance between ""Prime"" and ""Coffee Time"" in the Moscow area?",B,4.86,2.19,5.2,1.22
+37,"What is the distance between ""НИВЦ МГУ"" and ""Пожарно-спасательная часть № 83"" in the Moscow area?",B,20.56,16.08,22.24,19.74
+38,"What is the distance between ""Горздрав"" and ""Школа рисования и живописи на Татарской"" in the Moscow area?",B,9.21,11.39,8.33,18.62
+39,"What is the distance between ""ТрансКапиталБанк"" and ""297"" in the Moscow area?",B,13.99,6.68,12.06,0.66
+40,"What is the distance between ""Брюс"" and ""CitiKlinik"" in the Moscow area?",B,5.03,3.21,7.83,2.14
+41,"What is the distance between ""Вита Экспресс"" and ""Pizza Express"" in the Moscow area?",B,17.14,13.56,21.02,15.97
+42,"What is the distance between ""Детский сад №271"" and ""Паркинг"" in the Moscow area?",C,24.21,19.47,18.19,19.21
+43,"What is the distance between ""Жилой комплекс ""Квартал на воде"""" and ""Территория мяча"" in the Moscow area?",C,12.55,3.01,6.13,3.62
+44,"What is the distance between ""корпус №11(А)"" and ""Потешный дворец"" in the Moscow area?",C,14.07,15.55,9.98,5.13
+45,"What is the distance between ""Coffee Way"" and ""Стоматология на Страстном"" in the Moscow area?",B,18.24,14.44,18.87,15.67
+46,"What is the distance between ""Ладушки оладушки"" and ""Брюс"" in the Moscow area?",D,7.86,9.43,11.36,5.47
+47,"What is the distance between ""Madison"" and ""Babacha"" in the Moscow area?",D,11.71,12.49,4.73,6.18
+48,"What is the distance between ""Бродвей"" and ""Доверие"" in the Moscow area?",C,4.96,9.25,8.32,5.29
+49,"What is the distance between ""Уголок вкуса"" and ""Астория"" in the Moscow area?",D,1.29,9.21,3.0,4.36
+50,"What is the distance between ""Институтская"" and ""Брикет маркет"" in the Moscow area?",C,4.58,8.02,1.52,3.4
+51,"What is the distance between ""Государственный научно-исследовательский институт реставрации"" and ""Храм Сорока Севастийских Мучеников"" in the Moscow area?",C,13.73,9.98,6.09,11.17
+52,"What is the distance between ""Вареничная №1"" and ""Кофейо"" in the Moscow area?",A,2.22,9.51,9.76,8.7
+53,"What is the distance between ""Южный"" and ""ТЦ «Измайловский пассаж»"" in the Moscow area?",D,19.3,15.51,23.0,20.34
+54,"What is the distance between ""Только классика"" and ""Surf Coffee"" in the Moscow area?",C,13.75,3.03,6.01,4.27
+55,"What is the distance between ""Clara"" and ""Отделение связи №125499"" in the Moscow area?",D,13.25,11.81,3.03,6.23
+56,"What is the distance between ""CitiKlinik"" and ""Mary Wong"" in the Moscow area?",A,3.19,5.51,1.97,9.95
+57,"What is the distance between ""Школа танцев"" and ""На троих"" in the Moscow area?",B,11.4,8.48,1.8,11.9
+58,"What is the distance between ""Чайхана"" and ""Молдова"" in the Moscow area?",A,4.01,1.23,1.96,2.45
+59,"What is the distance between ""127018"" and ""Language Link"" in the Moscow area?",A,5.16,7.74,1.02,1.42
+60,"What is the distance between ""FitMyBody"" and ""Fly High Kids Academy"" in the Moscow area?",A,7.34,11.65,12.83,10.88
+61,"What is the distance between ""Многофункциональный центр предоставления государственных и муниципальных услуг района Мещанский"" and ""Детская библиотека №40"" in the Moscow area?",D,6.32,9.87,5.24,3.63
+62,"What is the distance between ""Столичные аптеки"" and ""Хинкальная"" in the Moscow area?",B,1.06,6.33,13.19,4.54
+63,"What is the distance between ""Мой кофе"" and ""Cosmodent"" in the Moscow area?",B,3.24,5.67,7.62,8.37
+64,"What is the distance between ""Детская библиотека №40"" and ""Транскапиталбанк"" in the Moscow area?",B,4.41,1.62,3.26,6.0
+65,"What is the distance between ""Ваш восход"" and ""ЖелдорАльянс"" in the Moscow area?",B,2.87,7.66,4.11,3.31
+66,"What is the distance between ""36,6"" and ""Новый Акрополь"" in the Moscow area?",A,4.23,5.42,10.07,7.2
+67,"What is the distance between ""MO"" and ""Росбанк"" in the Moscow area?",B,10.04,3.23,10.97,8.78
+68,"What is the distance between ""СушиВесла"" and ""Капсула"" in the Moscow area?",A,13.55,9.46,6.84,17.74
+69,"What is the distance between ""Пончики"" and ""Храм святителя Николая в Кузнецкой Слободе"" in the Moscow area?",C,11.53,4.63,9.8,11.45
+70,"What is the distance between ""Gelateria Plombir"" and ""Европа"" in the Moscow area?",B,11.51,14.24,6.41,17.81
+71,"What is the distance between ""Храм Похвалы Пресвятой Богородицы в Зябликове"" and ""Галерея-ограда с воротами"" in the Moscow area?",B,7.15,2.9,4.62,10.56
+72,"What is the distance between ""теннисный клуб «Эйс»"" and ""Вареничная №1"" in the Moscow area?",B,17.33,12.84,9.75,16.28
+73,"What is the distance between ""Фа Минор"" and ""Судебный участок № 310"" in the Moscow area?",C,6.21,12.09,4.18,5.45
+74,"What is the distance between ""СИЗО ""Матросская Тишина"""" and ""Школа № 1529 имени А. С. Грибоедова. Здание № 3"" in the Moscow area?",D,16.7,2.44,16.34,8.82
+75,"What is the distance between ""Шаурма хаус"" and ""Надежда-Фарм"" in the Moscow area?",B,13.47,6.61,2.22,12.6
+76,"What is the distance between ""Франклинс Бургер"" and ""Здоров.ру"" in the Moscow area?",C,7.06,7.48,2.91,5.74
+77,"What is the distance between ""Библиотека № 42 им. А. Платонова"" and ""The Бык"" in the Moscow area?",B,2.7,7.02,10.18,10.96
+78,"What is the distance between ""Cosmodent"" and ""Маяк"" in the Moscow area?",C,2.38,15.01,10.37,12.13
+79,"What is the distance between ""Бывшая карандашная фабрика им. Сакко и Ванцетти"" and ""PetDog"" in the Moscow area?",B,7.88,6.4,13.43,12.65
+80,"What is the distance between ""Школа рисования и живописи на Татарской"" and ""Центр восстановительной медицины"" in the Moscow area?",D,7.66,1.86,6.13,4.18
+81,"What is the distance between ""Бистро"" and ""Травмпункт"" in the Moscow area?",A,9.48,4.96,16.76,11.62
+82,"What is the distance between ""Surf Coffee"" and ""Burger Heroes"" in the Moscow area?",A,9.31,14.16,16.94,7.44
+83,"What is the distance between ""Ригла"" and ""Городской межотраслевой физкультурно-спортивный клуб ""Здоровье"""" in the Moscow area?",C,11.8,6.82,4.68,6.87
+84,"What is the distance between ""Эра водолея"" and ""Вита Экспресс"" in the Moscow area?",C,2.23,5.19,9.84,6.25
+85,"What is the distance between ""ОАО ВНИИ инструмент"" and ""Центральная киностудия детских и юношеских фильмов им. М. Горького"" in the Moscow area?",D,13.26,12.55,8.51,7.54
+86,"What is the distance between ""Лаззат"" and ""Boxberry"" in the Moscow area?",A,5.31,11.89,9.24,0.51
+87,"What is the distance between ""Магнит Аптека"" and ""Суши Стор"" in the Moscow area?",C,3.63,9.49,11.15,16.05
+88,"What is the distance between ""Купол"" and ""Памп-трек ""Фукусима"""" in the Moscow area?",D,8.25,7.6,20.63,14.39
+89,"What is the distance between ""Бизнес-центр «Нижегородский»"" and ""Конкорс станции Рижская"" in the Moscow area?",A,8.18,2.82,12.11,6.68
+90,"What is the distance between ""Гемотест"" and ""Москва-Сити"" in the Moscow area?",A,2.94,9.54,1.57,5.02
+91,"What is the distance between ""Historia"" and ""Stardogs"" in the Moscow area?",D,2.45,8.97,6.32,4.81
+92,"What is the distance between ""Городская поликлиника №64 Филиал 1"" and ""Детский эколого-просветительский центр ""Красная Сосна"""" in the Moscow area?",B,3.38,7.21,11.46,5.81
+93,"What is the distance between ""Лаборатория прудового рыбоводства"" and ""развлекательный центр Луч"" in the Moscow area?",C,9.46,8.61,16.59,14.07
+94,"What is the distance between ""Надежда-Фарм"" and ""Коллектив"" in the Moscow area?",A,2.16,9.92,3.48,4.31
+95,"What is the distance between ""Пушкинъ"" and ""Слоны"" in the Moscow area?",B,11.37,5.44,7.18,13.2
+96,"What is the distance between ""Плюс"" and ""Ozzy coffee"" in the Moscow area?",D,5.22,5.29,13.53,7.03
+97,"What is the distance between ""Нефтьмагистраль"" and ""Жилой комплекс «Михалковский»"" in the Moscow area?",B,5.3,2.07,7.34,0.77
+98,"What is the distance between ""корпус №1"" and ""ОБ ДПС по САО"" in the Moscow area?",D,5.07,5.37,9.68,3.77
+99,"What is the distance between ""Спортивный трёхзальный корпус МГУ"" and ""Медсанчасть № 1 ФГБУЗ ЦМСЧ № 119 ФМБА России"" in the Moscow area?",D,18.33,18.7,10.42,16.95
+100,"What is the distance between ""ЭпиЛайк"" and ""Issenin"" in the Moscow area?",D,3.89,1.68,9.77,6.02
+101,"What is the distance between ""IL Патио"" and ""Soul in the bowl"" in the Moscow area?",B,16.97,12.15,15.05,17.44
+102,"What is the distance between ""Школа № 498. Школьный корпус Марксистская улица, дом 9, корпус 2"" and ""МТУСИ, учебно-лабораторный корпус ОТФ"" in the Moscow area?",D,19.87,15.17,6.9,12.8
+103,"What is the distance between ""В ус не дул"" and ""Artest"" in the Moscow area?",A,3.44,9.2,10.31,6.16
+104,"What is the distance between ""Церковь иконы Божией Матери «Скоропослушница»"" and ""Московский радиозавод «Темп»"" in the Moscow area?",B,5.85,8.16,3.96,1.62
+105,"What is the distance between ""Стоматология доктора Кардаковой"" and ""Хачапури и вино"" in the Moscow area?",D,7.94,5.58,9.18,1.45
+106,"What is the distance between ""United Kitchen"" and ""Азиатско-Тихоокеанский Банк"" in the Moscow area?",A,5.31,3.89,8.76,9.69
+107,"What is the distance between ""Abc-медицина"" and ""Royal wellness club"" in the Moscow area?",B,3.09,1.71,0.67,3.36
+108,"What is the distance between ""TGI Friday's"" and ""Участковый пункт полиции №2"" in the Moscow area?",C,21.63,13.13,19.49,20.47
+109,"What is the distance between ""Памп-трек ""Фукусима"""" and ""Черёмушки"" in the Moscow area?",C,2.38,1.48,6.95,3.53
+110,"What is the distance between ""Нияма"" and ""Джонджоли"" in the Moscow area?",A,1.65,6.93,5.12,7.48
+111,"What is the distance between ""Дринкит"" and ""Клиника Семейная"" in the Moscow area?",D,14.29,17.73,14.58,19.99
+112,"What is the distance between ""Air Coffee"" and ""Niqa"" in the Moscow area?",A,7.72,14.49,10.63,14.16
+113,"What is the distance between ""корпус 6 - терапевтический"" and ""Сиреневый сад"" in the Moscow area?",A,3.18,6.11,6.97,4.6
+114,"What is the distance between ""Конкорс станции Рижская"" and ""Технопарк ""IQ-Park"""" in the Moscow area?",B,2.29,9.76,14.53,6.82
+115,"What is the distance between ""Городской межотраслевой физкультурно-спортивный клуб ""Здоровье"""" and ""Sushi Master"" in the Moscow area?",D,5.95,6.81,15.32,11.32
+116,"What is the distance between ""Гребная спортбаза ЦСК ВМФ РФ по академической гребле"" and ""Детский сад №271"" in the Moscow area?",D,11.39,9.78,9.83,13.89
+117,"What is the distance between ""Даблби"" and ""Москва 125362"" in the Moscow area?",C,18.16,16.9,14.95,13.97
+118,"What is the distance between ""Шенонсо"" and ""Южный"" in the Moscow area?",A,15.56,21.31,9.37,8.82
+119,"What is the distance between ""Zionist"" and ""Под ведьмачьим мечом"" in the Moscow area?",B,5.56,1.57,2.59,6.5
+120,"What is the distance between ""Fassbinder"" and ""Не плачь, пей кофе"" in the Moscow area?",D,7.83,7.2,4.23,2.44
+121,"What is the distance between ""Вино"" and ""Гемотест"" in the Moscow area?",C,3.68,4.57,10.52,6.62
+122,"What is the distance between ""Медит групп"" and ""Династия"" in the Moscow area?",D,8.71,6.46,18.44,10.56
+123,"What is the distance between ""Илан"" and ""Born2Coffee"" in the Moscow area?",A,16.54,13.72,15.04,23.1
+124,"What is the distance between ""Novikov"" and ""Стол"" in the Moscow area?",A,8.62,10.35,5.92,7.27
+125,"What is the distance between ""Столички"" and ""Горздрав"" in the Moscow area?",D,21.69,12.71,23.7,17.1
+126,"What is the distance between ""Межрайонный отдел вневедомственной охраны по ЮАО"" and ""корпус Б"" in the Moscow area?",D,13.35,21.67,12.74,14.83
+127,"What is the distance between ""Лекарь Фарм"" and ""СССР"" in the Moscow area?",C,18.71,16.75,12.71,15.48
+128,"What is the distance between ""Додо Пицца"" and ""Киви"" in the Moscow area?",C,19.41,23.62,25.27,23.58
+129,"What is the distance between ""Астория"" and ""Chow-Chow"" in the Moscow area?",D,10.78,10.97,7.62,5.28
+130,"What is the distance between ""Чихо"" and ""Vлаvаше"" in the Moscow area?",B,1.46,7.42,6.42,1.31
+131,"What is the distance between ""Бургер Кинг"" and ""Люксдент"" in the Moscow area?",D,7.78,11.83,7.28,5.58
+132,"What is the distance between ""Травмпункт"" and ""Dentalguru"" in the Moscow area?",B,1.17,8.5,13.14,4.25
+133,"What is the distance between ""Слоновник"" and ""Бизнес-центр «Александр-Хаус»"" in the Moscow area?",B,7.01,3.53,7.41,5.13
+134,"What is the distance between ""Технопарк ""IQ-Park"""" and ""Техцентр ""Сервис-Авто"""" in the Moscow area?",A,7.32,8.74,5.24,12.67
+135,"What is the distance between ""Европа"" and ""Мята Lounge"" in the Moscow area?",C,7.46,10.64,15.31,16.39
+136,"What is the distance between ""Лукойл"" and ""Take and Wake"" in the Moscow area?",C,1.52,8.88,5.28,4.23
+137,"What is the distance between ""Наркологический диспансер № 3"" and ""Лукойл"" in the Moscow area?",A,8.86,16.08,5.91,5.85
+138,"What is the distance between ""Стадион Фили"" and ""Общежитие №6 МЭИ"" in the Moscow area?",B,16.49,12.94,10.92,18.17
+139,"What is the distance between ""Открытие"" and ""PizzaExpress"" in the Moscow area?",B,22.2,16.37,9.43,15.27
+140,"What is the distance between ""Корпус естественно-гуманитарных факультетов РУДН"" and ""корпус №1"" in the Moscow area?",A,18.23,20.22,16.22,22.0
+141,"What is the distance between ""Plantация"" and ""Европейская стомоталогия"" in the Moscow area?",C,16.49,9.96,8.61,9.55
+142,"What is the distance between ""Alibra School"" and ""На Зубовском"" in the Moscow area?",D,11.76,14.27,3.22,10.86
+143,"What is the distance between ""Камкомбанк"" and ""Сапфир"" in the Moscow area?",D,7.6,13.38,21.55,14.47
+144,"What is the distance between ""Жилой комплекс «Вереск»"" and ""Новоекатерининский сквер"" in the Moscow area?",A,7.68,15.51,10.66,1.82
+145,"What is the distance between ""Эталон"" and ""Школа ""Венда"""" in the Moscow area?",B,5.15,7.94,15.47,6.32
+146,"What is the distance between ""Жилой комплекс ""LIFE-Волжская"""" and ""Дошкольное отделение школы №717"" in the Moscow area?",A,20.4,15.43,23.15,24.38
+147,"What is the distance between ""Троицкая линия Московского метрополитена, станция ЗИЛ"" and ""Заря 2"" in the Moscow area?",B,7.78,13.25,14.38,7.55
+148,"What is the distance between ""Ставмет"" and ""Зуб.ру"" in the Moscow area?",C,14.78,11.19,8.77,7.59
+149,"What is the distance between ""Инвитро"" and ""Helix"" in the Moscow area?",C,20.96,16.72,14.19,12.84
+150,"What is the distance between ""Artest"" and ""Детская поликлиника №126 (филиал)"" in the Moscow area?",A,11.92,5.59,18.08,18.9
+151,"What is the distance between ""Coffee Like"" and ""СушиВесла"" in the Moscow area?",A,16.09,19.84,22.32,23.37
+152,"What is the distance between ""Структура кофе"" and ""Цин-Лун"" in the Moscow area?",C,19.9,18.1,12.65,20.65
+153,"What is the distance between ""Кутята"" and ""Москва 119072"" in the Moscow area?",A,3.97,1.84,1.93,6.04
+154,"What is the distance between ""Медсанчасть № 1 ФГБУЗ ЦМСЧ № 119 ФМБА России"" and ""Пушкинъ"" in the Moscow area?",C,17.26,5.26,11.07,16.38
+155,"What is the distance between ""Piatto"" and ""Совкомбанк"" in the Moscow area?",D,17.58,14.71,19.69,20.8
+156,"What is the distance between ""Milk&Beans"" and ""Three Tuns"" in the Moscow area?",B,9.61,4.86,8.41,8.92
+157,"What is the distance between ""Гостиничный комплекс Измайлово"" and ""Рождественский бульвар"" in the Moscow area?",B,0.86,8.14,14.08,14.84
+158,"What is the distance between ""CofeFest"" and ""Алазани"" in the Moscow area?",B,5.35,10.28,6.94,13.4
+159,"What is the distance between ""Корчма"" and ""Мой кофе"" in the Moscow area?",B,2.2,8.27,12.36,0.78
+160,"What is the distance between ""Храм Сорока Севастийских Мучеников"" and ""Бизнес-центр ""Авиамоторная 50"""" in the Moscow area?",C,1.63,9.77,3.77,10.2
+161,"What is the distance between ""Stardogs"" and ""Il Letterato"" in the Moscow area?",B,11.14,5.05,12.26,6.27
+162,"What is the distance between ""На троих"" and ""Экспромт"" in the Moscow area?",D,6.37,7.41,7.89,2.35
+163,"What is the distance between ""Ваша № 1"" and ""Нет названия"" in the Moscow area?",C,2.77,16.27,9.16,3.87
+164,"What is the distance between ""Парк Удальцовские пруды"" and ""Межрайонный отдел вневедомственной охраны по ЮАО"" in the Moscow area?",A,6.99,1.31,2.34,5.99
+165,"What is the distance between ""Москва-Рижская"" and ""Сад имени Председателя Верховного Суда В.М. Лебедева"" in the Moscow area?",A,10.75,5.32,15.67,6.57
+166,"What is the distance between ""World Class"" and ""Столовая"" in the Moscow area?",B,2.77,4.42,2.61,7.52
+167,"What is the distance between ""Dentalguru"" and ""Sky beans"" in the Moscow area?",C,10.53,9.06,2.69,3.83
+168,"What is the distance between ""ГБУ Спортивная школа олимпийского резерва № 49 «Тринта» Москомспорта"" and ""Торговый корпус ""Евромаг"""" in the Moscow area?",C,1.43,5.56,8.96,3.54
+169,"What is the distance between ""Клаустрофобия"" and ""Трдельник"" in the Moscow area?",B,5.96,2.98,6.84,8.54
+170,"What is the distance between ""Бульвар архитекторов"" and ""Автохозяйство №3 ГУ МВД РФ"" in the Moscow area?",B,12.66,11.13,18.21,9.75
+171,"What is the distance between ""Forum Design"" and ""Izıplay Кибер Арена"" in the Moscow area?",D,19.53,17.64,14.36,12.72
+172,"What is the distance between ""Общежитие №6 МЭИ"" and ""Лавандерия"" in the Moscow area?",B,13.06,7.12,14.25,2.09
+173,"What is the distance between ""Транскапиталбанк"" and ""Coffee Like"" in the Moscow area?",B,11.62,3.99,7.35,11.39
+174,"What is the distance between ""Сад имени Председателя Верховного Суда В.М. Лебедева"" and ""Школа № 627 имени генерала Д.Д. Лелюшенко. Учебный корпус № 9"" in the Moscow area?",B,11.19,4.1,2.21,1.02
+175,"What is the distance between ""Государственный Кремлёвский дворец"" and ""Park Tower"" in the Moscow area?",D,6.93,10.26,15.06,8.81
+176,"What is the distance between ""Клиника на Садовом"" and ""Венахи"" in the Moscow area?",A,4.98,0.52,6.32,3.72
+177,"What is the distance between ""МосКальян"" and ""Clara"" in the Moscow area?",D,7.43,9.12,11.92,10.04
+178,"What is the distance between ""Vлаvаше"" and ""Вернисаж в Измайлово"" in the Moscow area?",D,4.09,4.14,11.89,9.09
+179,"What is the distance between ""Префектура Северного Административного округа г.Москвы"" and ""Лаборатория прудового рыбоводства"" in the Moscow area?",A,2.55,5.05,5.46,7.74
+180,"What is the distance between ""Судебный департамент Верховного суда РФ"" and ""А-Молоко"" in the Moscow area?",C,10.09,5.81,12.74,17.91
+181,"What is the distance between ""Жилой комплекс «На Мельникова»"" and ""Ваш восход"" in the Moscow area?",C,12.39,22.63,14.84,7.39
+182,"What is the distance between ""Lumicino"" and ""MO"" in the Moscow area?",B,5.64,2.09,4.61,6.44
+183,"What is the distance between ""Upside Kuntsevo"" and ""ГБУ Спортивная школа олимпийского резерва № 49 «Тринта» Москомспорта"" in the Moscow area?",C,15.85,9.61,11.0,14.9
+184,"What is the distance between ""Крошка Картошка"" and ""Эра водолея"" in the Moscow area?",B,7.92,2.8,7.41,0.86
+185,"What is the distance between ""Школа №1499 Дошкольное отделение"" and ""ОБ ДПС ГИБДД УМВД по ЮЗАО"" in the Moscow area?",D,18.83,17.29,15.91,21.47
+186,"What is the distance between ""Центральная киностудия детских и юношеских фильмов им. М. Горького"" and ""ГБУ Жилищник района Коптево"" in the Moscow area?",B,8.48,6.75,9.61,12.81
+187,"What is the distance between ""Bistro Ruski"" and ""Life pub"" in the Moscow area?",C,13.43,12.44,5.73,11.45
+188,"What is the distance between ""Участковый пункт полиции № 1"" and ""Звездочет"" in the Moscow area?",A,13.22,17.57,9.52,16.67
+189,"What is the distance between ""Совкомбанк"" and ""Школа танцев"" in the Moscow area?",D,13.99,20.67,20.49,18.81
+190,"What is the distance between ""Жилой комплекс «Михалковский»"" and ""Колокольня церкви Усекновения Главы Иоанна Предтечи"" in the Moscow area?",C,19.65,16.79,12.19,4.96
+191,"What is the distance between ""Аптеки столицы"" and ""Плюс"" in the Moscow area?",A,12.06,19.65,4.54,13.22
+192,"What is the distance between ""Стоматологическая клиника доктора Даяна"" and ""Alibra School"" in the Moscow area?",A,9.81,8.57,3.59,16.39
+193,"What is the distance between ""Честная клиника"" and ""Линзы тут"" in the Moscow area?",D,19.52,23.45,14.4,16.32
+194,"What is the distance between ""Хачапури и вино"" and ""Bageatteria"" in the Moscow area?",C,0.9,1.29,4.38,9.06
+195,"What is the distance between ""PetDog"" and ""корпус №11(А)"" in the Moscow area?",A,4.76,11.83,0.68,11.11
+196,"What is the distance between ""Шаболовский телецентр"" and ""Электродепо Перерва"" in the Moscow area?",C,11.34,1.87,9.09,12.09
+197,"What is the distance between ""Sky beans"" and ""Gelateria Plombir"" in the Moscow area?",B,1.24,8.7,16.6,6.68
+198,"What is the distance between ""Верона"" and ""Cofix"" in the Moscow area?",D,8.17,0.6,1.12,2.31
+199,"What is the distance between ""Говорово"" and ""Стадион Фили"" in the Moscow area?",C,9.86,9.53,12.1,9.53
+200,"What is the distance between ""Чайка"" and ""Дринкит"" in the Moscow area?",D,4.51,7.88,4.57,6.19
+201,"What is the distance between ""Дента-Эль"" and ""Школа № 1231 им. В. Д. Поленова. Дошкольный корпус"" in the Moscow area?",D,12.43,4.73,1.33,8.4
+202,"What is the distance between ""Three Tuns"" and ""Historia"" in the Moscow area?",A,1.73,8.09,5.0,3.21
+203,"What is the distance between ""Отделение связи №105122"" and ""Тануки"" in the Moscow area?",C,16.12,21.04,23.61,17.64
+204,"What is the distance between ""Ozzy coffee"" and ""Москва 119526"" in the Moscow area?",A,20.86,23.62,18.58,13.17
+205,"What is the distance between ""Ideal"" and ""Рутта"" in the Moscow area?",D,16.69,9.43,19.32,13.6
+206,"What is the distance between ""Жилой комплекс ""Insider"""" and ""Городской туалет"" in the Moscow area?",C,15.87,21.38,20.38,13.81
+207,"What is the distance between ""Bageatteria"" and ""Вкусно — и точка"" in the Moscow area?",D,6.43,17.74,17.09,12.48
+208,"What is the distance between ""Gorilla by Баста"" and ""Даблби"" in the Moscow area?",B,6.11,1.92,0.67,2.94
+209,"What is the distance between ""Дом культуры ""Аструм"""" and ""La Bottega Siciliana"" in the Moscow area?",C,9.41,11.54,6.5,12.67
+210,"What is the distance between ""Росбанк"" and ""Библиотека №129"" in the Moscow area?",D,7.08,11.5,12.89,14.42
+211,"What is the distance between ""Бункер 47"" and ""Subway"" in the Moscow area?",D,6.94,7.91,9.59,4.6
+212,"What is the distance between ""Трдельник"" and ""Чайка"" in the Moscow area?",C,12.29,13.7,6.7,4.37
+213,"What is the distance between ""ПАО «Газпром»"" and ""Парк Удальцовские пруды"" in the Moscow area?",D,4.89,5.89,5.2,3.06
+214,"What is the distance between ""Берёзовая роща"" and ""Частная школа «Академическая гимназия»"" in the Moscow area?",C,13.44,7.44,10.89,13.23
+215,"What is the distance between ""MedSwiss"" and ""Cinnabon"" in the Moscow area?",B,4.69,1.09,7.01,7.24
+216,"What is the distance between ""La Bottega Siciliana"" and ""Grange"" in the Moscow area?",C,5.84,1.45,2.89,8.01
+217,"What is the distance between ""Зуб.ру"" and ""Ter.mos"" in the Moscow area?",B,9.36,4.45,8.27,12.22
+218,"What is the distance between ""Линзы тут"" and ""Курдюк"" in the Moscow area?",A,9.38,3.24,5.75,12.2
+219,"What is the distance between ""Здоровье"" and ""Warpoint"" in the Moscow area?",C,7.22,12.02,8.45,7.0
+220,"What is the distance between ""Молдова"" and ""СДЭК"" in the Moscow area?",B,12.55,6.31,7.31,11.22
+221,"What is the distance between ""Новый Акрополь"" and ""Бункер 47"" in the Moscow area?",A,6.89,3.4,8.33,12.2
+222,"What is the distance between ""Qiwi"" and ""Novikov"" in the Moscow area?",C,8.58,8.45,15.91,12.91
+223,"What is the distance between ""Sushi Master"" and ""X-Way"" in the Moscow area?",B,17.03,18.49,19.65,16.19
+224,"What is the distance between ""Богородице-Рождественский монастырь"" and ""Центр повышения квалификации специалистов здравоохранения"" in the Moscow area?",B,21.33,16.95,20.31,18.39
+225,"What is the distance between ""Москва 117525"" and ""теннисный клуб «Эйс»"" in the Moscow area?",C,20.36,19.5,27.15,23.07
+226,"What is the distance between ""Церковь Пантелеимона Целителя"" and ""Подъезд"" in the Moscow area?",B,14.55,11.44,10.19,15.39
+227,"What is the distance between ""МТУСИ, учебно-лабораторный корпус ОТФ"" and ""ИКСИ"" in the Moscow area?",D,14.46,10.36,16.73,11.4
+228,"What is the distance between ""Торговый корпус ""Евромаг"""" and ""Жилой комплекс ""LIFE-Волжская"""" in the Moscow area?",D,9.28,1.02,9.14,5.77
+229,"What is the distance between ""ГПК «Жигули»"" and ""Жилой комплекс ""Insider"""" in the Moscow area?",C,2.53,14.57,10.05,14.51
+230,"What is the distance between ""ОАО ""Мосводоканал"". Район по эксплуатации водопроводной сети №2"" and ""ДОУ №1930"" in the Moscow area?",D,12.64,2.85,13.35,5.53
+231,"What is the distance between ""Niqa"" and ""Доктор Акнер"" in the Moscow area?",C,0.85,7.67,2.72,7.35
+232,"What is the distance between ""Торговый центр ""Тропарёво"""" and ""Жилой комплекс ""Квартал на воде"""" in the Moscow area?",A,14.95,18.29,21.59,12.02
+233,"What is the distance between ""Деловой центр ""Парк Победы"""" and ""Пончики"" in the Moscow area?",D,10.83,17.1,8.85,11.91
+234,"What is the distance between ""PizzaExpress"" and ""Церковь Пантелеимона Целителя"" in the Moscow area?",B,20.87,28.2,21.77,22.56
+235,"What is the distance between ""Коктейль-Холл"" and ""Ваша № 1"" in the Moscow area?",B,10.55,7.77,5.36,9.18
+236,"What is the distance between ""Москва 119072"" and ""Время антракта"" in the Moscow area?",D,4.22,4.83,8.52,1.48
+237,"What is the distance between ""Формула кино на Кутузовском"" and ""Капучинофф"" in the Moscow area?",C,13.46,10.75,14.58,18.77
+238,"What is the distance between ""СМУ-153 Трансинжстроя"" and ""Конференц-центр МТУСИ"" in the Moscow area?",B,10.06,14.66,8.29,20.05
+239,"What is the distance between ""Музей истории ГУЛАГа"" and ""Шенонсо"" in the Moscow area?",C,0.52,8.83,1.67,8.87
+240,"What is the distance between ""Детский эколого-просветительский центр ""Красная Сосна"""" and ""Деловой центр ""Парк Победы"""" in the Moscow area?",B,24.59,16.98,15.58,9.42
+241,"What is the distance between ""Хинкальная"" and ""Базельский фонтан"" in the Moscow area?",C,3.63,5.04,0.67,6.54
+242,"What is the distance between ""Бизнес-парк Водники"" and ""Торговый центр ""Тропарёво"""" in the Moscow area?",D,16.88,22.83,23.67,21.02
+243,"What is the distance between ""Электродепо Перерва"" and ""Школа № 1529 имени А. С. Грибоедова. Здание № 5"" in the Moscow area?",D,7.15,10.2,6.99,11.36
+244,"What is the distance between ""Дворец культуры РУТ"" and ""Городская поликлиника №64 Филиал 1"" in the Moscow area?",A,6.76,7.85,12.67,11.57
+245,"What is the distance between ""Монополия"" and ""Здоровье"" in the Moscow area?",D,1.4,1.53,10.57,2.76
+246,"What is the distance between ""Почта Банк"" and ""ionVet"" in the Moscow area?",D,14.71,12.58,8.3,9.48
+247,"What is the distance between ""Школа № 1529 имени А. С. Грибоедова. Здание № 3"" and ""Гостиничный комплекс Измайлово"" in the Moscow area?",C,14.59,15.7,11.31,18.33
+248,"What is the distance between ""Black Milk"" and ""Forum Design"" in the Moscow area?",D,1.34,8.49,3.5,6.36
+249,"What is the distance between ""Всероссийский научно-исследовательский геологический нефтяной институт"" and ""Бизнес-парк Водники"" in the Moscow area?",B,16.55,19.45,11.46,22.29
+250,"What is the distance between ""Арена бистро"" and ""Илан"" in the Moscow area?",B,8.95,7.95,10.03,14.05
+251,"What is the distance between ""Москва-сити"" and ""Дом Милосердия Вифезда"" in the Moscow area?",B,7.29,6.15,1.74,10.87
+252,"What is the distance between ""Activum Style"" and ""Суши Wok"" in the Moscow area?",D,1.09,1.53,1.43,5.79
+253,"What is the distance between ""Аренда"" and ""Москва 117525"" in the Moscow area?",D,9.36,17.52,13.98,15.51
+254,"What is the distance between ""Колокольня церкви Усекновения Главы Иоанна Предтечи"" and ""ОАО ВНИИ инструмент"" in the Moscow area?",D,6.05,7.11,5.59,4.25
+255,"What is the distance between ""Столовая сектора Б"" and ""Многофункциональный центр предоставления государственных и муниципальных услуг района Мещанский"" in the Moscow area?",D,15.33,5.58,8.85,11.27
+256,"What is the distance between ""Мята Lounge"" and ""Dizengof99"" in the Moscow area?",B,3.69,1.52,8.31,5.06
+257,"What is the distance between ""Пилпили"" and ""Судебный департамент Верховного суда РФ"" in the Moscow area?",B,8.98,10.72,8.24,14.33
+258,"What is the distance between ""Джонджоли"" and ""Монополия"" in the Moscow area?",A,5.17,7.65,1.32,8.58
+259,"What is the distance between ""Issenin"" and ""Madison"" in the Moscow area?",B,0.55,4.33,3.42,2.29
+260,"What is the distance between ""Life pub"" and ""IL Патио"" in the Moscow area?",C,12.72,18.94,17.34,21.1
+261,"What is the distance between ""ВТБ Страхование"" and ""Татнефть"" in the Moscow area?",B,6.57,1.64,9.44,5.16
+262,"What is the distance between ""корпус №34"" and ""Префектура Северного Административного округа г.Москвы"" in the Moscow area?",B,10.72,3.91,9.36,7.86
+263,"What is the distance between ""KDL"" and ""Франклинс Бургер"" in the Moscow area?",C,18.53,16.95,15.97,18.7
+264,"What is the distance between ""Форус Дент"" and ""Металлинвестбанк"" in the Moscow area?",C,8.1,15.6,9.23,3.2
+265,"What is the distance between ""Дом Милосердия Вифезда"" and ""Заварили"" in the Moscow area?",D,6.14,14.47,11.74,9.86
+266,"What is the distance between ""СДЭК"" and ""Вино"" in the Moscow area?",C,15.34,9.75,13.73,12.67
+267,"What is the distance between ""Warpoint"" and ""Только классика"" in the Moscow area?",A,11.47,15.13,4.11,17.09
+268,"What is the distance between ""Элекснет"" and ""Антипа"" in the Moscow area?",A,7.94,14.29,15.57,5.43
+269,"What is the distance between ""Стол"" and ""Ideal"" in the Moscow area?",B,3.38,6.92,13.82,2.15
+270,"What is the distance between ""ГБУ Жилищник района Коптево"" and ""Корпус химического факультета"" in the Moscow area?",A,12.91,10.9,16.16,16.11
+271,"What is the distance between ""Ter.mos"" and ""Фа Минор"" in the Moscow area?",C,8.46,10.46,4.63,2.67
+272,"What is the distance between ""Центр восстановительной медицины"" and ""Gorilla by Баста"" in the Moscow area?",A,2.86,3.97,10.25,6.33
+273,"What is the distance between ""Жилой комплекс «Жизнь на Плющихе»"" and ""КПП-5"" in the Moscow area?",A,10.29,2.5,9.21,14.98
+274,"What is the distance between ""КПП-5"" and ""НИВЦ МГУ"" in the Moscow area?",D,15.08,15.5,5.73,8.97
+275,"What is the distance between ""Born2Coffee"" and ""Americano"" in the Moscow area?",D,1.56,10.18,1.92,3.08
+276,"What is the distance between ""КиноРебенок"" and ""Столичные аптеки"" in the Moscow area?",D,13.39,11.0,13.47,15.1
+277,"What is the distance between ""Izıplay Кибер Арена"" and ""Wellness клуб DAO Центр восточных оздоровительных практик"" in the Moscow area?",A,9.68,14.62,14.65,3.27
+278,"What is the distance between ""Доверие"" and ""Яндекс.Маркет"" in the Moscow area?",A,17.19,19.87,11.05,20.49
+279,"What is the distance between ""Под ведьмачьим мечом"" and ""SПБ"" in the Moscow area?",B,9.22,12.71,19.1,5.98
+280,"What is the distance between ""Мозаика"" and ""Бизнес-центр ""Легион 1"""" in the Moscow area?",B,2.57,4.41,11.81,8.95
+281,"What is the distance between ""Сапфир"" and ""EMS Fit X Body"" in the Moscow area?",A,11.89,9.33,7.9,5.11
+282,"What is the distance between ""Азиатско-Тихоокеанский Банк"" and ""Чайхана"" in the Moscow area?",A,3.87,1.39,9.75,6.3
+283,"What is the distance between ""ОБ ДПС ГИБДД УМВД по ЮЗАО"" and ""Торговый центр «Савёловский»"" in the Moscow area?",D,8.32,13.3,19.43,15.81
+284,"What is the distance between ""Галерея-ограда с воротами"" and ""ООО «СпецМонтажПроект»"" in the Moscow area?",A,13.5,19.25,10.15,9.09
+285,"What is the distance between ""World Fitness"" and ""Нияма"" in the Moscow area?",B,17.24,12.56,19.24,10.12
+286,"What is the distance between ""Московский радиозавод «Темп»"" and ""Москва-Рижская"" in the Moscow area?",B,23.15,19.05,22.33,11.95
+287,"What is the distance between ""Маяк"" and ""Инвитро"" in the Moscow area?",B,4.26,9.68,4.22,16.5
+288,"What is the distance between ""ООО «СпецМонтажПроект»"" and ""Бизнес-центр ""ABC"""" in the Moscow area?",C,6.99,9.93,5.33,6.85
+289,"What is the distance between ""Нет названия"" and ""Симбад"" in the Moscow area?",A,16.58,18.31,22.72,19.27
+290,"What is the distance between ""НИ и ПИ Градплан города Москвы"" and ""Купол"" in the Moscow area?",D,10.46,1.01,7.74,5.87
+291,"What is the distance between ""Черёмушки"" and ""Героям Первой мировой войны"" in the Moscow area?",B,5.43,7.75,11.77,11.45
+292,"What is the distance between ""Слоны"" and ""Нефтьмагистраль"" in the Moscow area?",D,8.0,9.91,15.44,11.81
+293,"What is the distance between ""Пикассо"" and ""Сбербанк"" in the Moscow area?",D,14.5,3.57,6.05,7.32
+294,"What is the distance between ""Рождественский бульвар"" and ""Спасательный пост"" in the Moscow area?",B,23.35,16.62,17.94,22.98
+295,"What is the distance between ""Burger Heroes"" and ""Prime"" in the Moscow area?",C,0.66,5.7,2.51,8.65
+296,"What is the distance between ""Клиника Семейная"" and ""Coffee Way"" in the Moscow area?",A,7.16,8.29,12.48,11.56
+297,"What is the distance between ""Героям Первой мировой войны"" and ""Школа №1499 Дошкольное отделение"" in the Moscow area?",D,6.6,11.37,10.64,14.31
+298,"What is the distance between ""4-й батальон полка ДПС"" and ""Бизнес-центр «Нижегородский»"" in the Moscow area?",A,9.23,4.27,6.9,3.4
+299,"What is the distance between ""Language Link"" and ""Верона"" in the Moscow area?",C,9.77,7.15,4.53,6.68
+300,"What is the distance between ""Il Letterato"" and ""Пикассо"" in the Moscow area?",B,12.64,4.76,9.37,11.83
+301,"What is the distance between ""Место притяжения"" and ""Lumicino"" in the Moscow area?",A,2.19,4.8,4.33,10.06
+302,"What is the distance between ""Стадион Автомобилист"" and ""Торгово-деловой центр"" in the Moscow area?",A,7.61,5.14,10.06,9.32
+303,"What is the distance between ""Дошкольное отделение школы №717"" and ""Троицкая линия Московского метрополитена, станция ЗИЛ"" in the Moscow area?",C,23.37,23.71,16.14,21.43
+304,"What is the distance between ""Металлинвестбанк"" and ""Клиника на Садовом"" in the Moscow area?",A,2.9,6.53,7.3,6.15
+305,"What is the distance between ""ГСК ""Звезда"""" and ""Эталон"" in the Moscow area?",B,2.77,4.56,9.55,5.51
+306,"What is the distance between ""Вернисаж в Измайлово"" and ""Центральный региональный центр МЧС России"" in the Moscow area?",C,16.01,15.04,18.56,12.31
+307,"What is the distance between ""Дэтоль"" and ""Дом культуры ""Аструм"""" in the Moscow area?",B,10.08,3.22,5.63,6.61
+308,"What is the distance between ""Татнефть"" and ""Гимназия №1570"" in the Moscow area?",A,6.58,11.9,9.52,7.92
+309,"What is the distance between ""Альфа-Банк"" and ""Формула кино на Кутузовском"" in the Moscow area?",B,17.27,13.04,7.94,6.77
+310,"What is the distance between ""Cinnabon"" and ""Центр культуры ""Сцена"""" in the Moscow area?",A,14.66,9.66,11.31,17.44
+311,"What is the distance between ""Торговый центр «Савёловский»"" and ""Шаболовский телецентр"" in the Moscow area?",D,0.91,7.18,5.1,8.66
+312,"What is the distance between ""Школа ""Венда"""" and ""Берёзовая роща"" in the Moscow area?",A,7.03,14.23,0.56,5.03
+313,"What is the distance between ""Роснефть"" and ""Кутята"" in the Moscow area?",A,14.9,13.1,11.28,6.91
+314,"What is the distance between ""Аптека форте"" and ""BooBo"" in the Moscow area?",B,21.52,23.02,19.01,24.24
+315,"What is the distance between ""Венахи"" and ""Activum Style"" in the Moscow area?",C,12.77,1.84,6.15,9.28
+316,"What is the distance between ""297"" and ""Альфа-Банк"" in the Moscow area?",A,5.44,12.51,11.2,10.19
+317,"What is the distance between ""Кофейо"" and ""Роснефть"" in the Moscow area?",D,6.34,17.28,3.77,10.34
+318,"What is the distance between ""Школа № 1231 им. В. Д. Поленова. Дошкольный корпус"" and ""Go ко мне"" in the Moscow area?",B,7.48,6.49,9.21,10.98
+319,"What is the distance between ""Хондэ"" and ""Экспедиция"" in the Moscow area?",D,10.49,9.95,6.46,3.56
+320,"What is the distance between ""Участковый пункт полиции №2"" and ""Старый Лекарь"" in the Moscow area?",C,3.1,1.26,4.8,7.71
+321,"What is the distance between ""Sushilka"" and ""Bistro Ruski"" in the Moscow area?",B,19.07,13.86,18.07,16.88
+322,"What is the distance between ""The Бык"" and ""Лекарь Фарм"" in the Moscow area?",A,14.41,8.03,19.24,12.71
+323,"What is the distance between ""Ла Гатта"" and ""Sushilka"" in the Moscow area?",C,16.34,24.82,18.71,20.81
+324,"What is the distance between ""Wild Bean Cafe"" and ""Структура кофе"" in the Moscow area?",D,4.12,8.98,12.64,7.18
+325,"What is the distance between ""Подъезд"" and ""MedSwiss"" in the Moscow area?",D,11.72,15.17,8.92,10.09
+326,"What is the distance between ""Кулинарная лавка братьев Караваевых"" and ""Москва-сити"" in the Moscow area?",B,5.35,8.15,11.99,4.78
+327,"What is the distance between ""Вольер с хищными птицами"" and ""СИЗО ""Матросская Тишина"""" in the Moscow area?",C,21.77,14.88,16.93,21.37
+328,"What is the distance between ""Москва 119526"" and ""Olluco"" in the Moscow area?",D,10.31,8.66,22.31,15.4
+329,"What is the distance between ""Территория мяча"" and ""Бывшая карандашная фабрика им. Сакко и Ванцетти"" in the Moscow area?",B,12.87,9.06,2.12,12.49
+330,"What is the distance between ""Клиника доктора Джорджа"" and ""ЮниКредит Банк"" in the Moscow area?",D,5.95,9.23,3.46,1.93
+331,"What is the distance between ""Школа № 1529 имени А. С. Грибоедова. Здание № 5"" and ""ВТБ Страхование"" in the Moscow area?",A,3.34,2.19,1.35,8.41
+332,"What is the distance between ""СпецСетьСтройБанк"" and ""Столички"" in the Moscow area?",B,18.93,12.92,8.79,17.73
+333,"What is the distance between ""Fly High Kids Academy"" and ""Бистро"" in the Moscow area?",B,6.27,9.7,13.06,3.84
+334,"What is the distance between ""Династия"" and ""Аптеки столицы"" in the Moscow area?",D,8.77,17.3,13.99,12.1
+335,"What is the distance between ""Детская поликлиника №126 (филиал)"" and ""Магнит Аптека"" in the Moscow area?",D,22.23,22.45,11.42,19.19
+336,"What is the distance between ""Go ко мне"" and ""Piatto"" in the Moscow area?",A,1.92,9.17,0.69,4.63
+337,"What is the distance between ""Сиреневый сад"" and ""Бульвар архитекторов"" in the Moscow area?",A,11.44,13.37,17.3,18.43
+338,"What is the distance between ""Olluco"" and ""Институтская"" in the Moscow area?",C,7.9,3.22,2.13,9.28
+339,"What is the distance between ""Ваша №1"" and ""МосКальян"" in the Moscow area?",D,4.34,14.07,16.14,9.68
+340,"What is the distance between ""ТВ-Фарм"" and ""Qiwi"" in the Moscow area?",B,23.07,28.11,23.89,21.35
+341,"What is the distance between ""Очаковский молочный завод"" and ""Говорово"" in the Moscow area?",A,5.47,9.08,1.56,1.18
+342,"What is the distance between ""Сандро"" and ""127018"" in the Moscow area?",D,9.02,10.22,2.65,3.8
+343,"What is the distance between ""BooBo"" and ""CofeFest"" in the Moscow area?",A,21.1,16.09,14.89,18.75
+344,"What is the distance between ""Subway"" and ""Стоматологическая клиника доктора Даяна"" in the Moscow area?",C,6.64,6.15,3.76,8.53
+345,"What is the distance between ""Фаиза"" and ""Додо Пицца"" in the Moscow area?",D,5.89,2.55,0.92,6.9
+346,"What is the distance between ""Кутузовская изба"" and ""Вольер с хищными птицами"" in the Moscow area?",D,4.34,2.57,9.68,7.16
+347,"What is the distance between ""Симбад"" and ""Колхи"" in the Moscow area?",D,8.46,17.14,23.59,16.05
+348,"What is the distance between ""Pizza Express"" and ""Шоколадница"" in the Moscow area?",B,6.96,8.46,2.59,0.66
+349,"What is the distance between ""Take and Wake"" and ""SAB Corner"" in the Moscow area?",B,14.17,11.26,12.18,7.68
+350,"What is the distance between ""Капсула"" and ""Аренда"" in the Moscow area?",C,0.98,10.95,5.61,10.72
+351,"What is the distance between ""А-Молоко"" and ""Отделение связи №105122"" in the Moscow area?",C,23.73,21.64,19.99,21.33
+352,"What is the distance between ""ОАНО Школа Ника"" and ""ГБОУ СОШ № 479 Дошкольное отделение"" in the Moscow area?",A,11.51,17.45,12.74,19.47
+353,"What is the distance between ""Техцентр ""Сервис-Авто"""" and ""ПАО «Газпром»"" in the Moscow area?",C,10.92,9.47,5.5,12.17
+354,"What is the distance between ""Паркинг"" and ""Очаковский молочный завод"" in the Moscow area?",C,15.36,13.93,19.03,16.44
+355,"What is the distance between ""Судебный участок № 310"" and ""Камкомбанк"" in the Moscow area?",D,12.59,15.67,22.13,19.75
+356,"What is the distance between ""Золотой колос"" and ""36,6"" in the Moscow area?",A,15.38,20.97,20.4,12.24
+357,"What is the distance between ""Новоекатерининский сквер"" and ""Сандуновские бани"" in the Moscow area?",C,9.58,8.58,1.72,5.42
+358,"What is the distance between ""X-Way"" and ""Pizza Paolo"" in the Moscow area?",A,11.03,18.38,17.36,14.64
+359,"What is the distance between ""Промо-карта"" and ""Крошка Картошка"" in the Moscow area?",A,14.16,15.55,19.4,12.4
+360,"What is the distance between ""Городской туалет"" and ""Скейт-Парк"" in the Moscow area?",A,27.05,24.88,22.53,19.6
+361,"What is the distance between ""Центральный региональный центр МЧС России"" and ""В ус не дул"" in the Moscow area?",D,5.62,3.83,15.21,9.14
+362,"What is the distance between ""Торговый городской банк"" and ""Ла Гатта"" in the Moscow area?",D,14.85,15.56,14.51,13.53
+363,"What is the distance between ""Grange"" and ""Пушистая братва"" in the Moscow area?",D,8.25,4.34,5.17,1.93
+364,"What is the distance between ""АвтоСпецЦентр (Таганка)"" and ""ГПК «Жигули»"" in the Moscow area?",C,17.28,6.63,12.52,11.07
+365,"What is the distance between ""Конференц-центр МТУСИ"" and ""Слоновник"" in the Moscow area?",A,8.72,10.33,5.51,3.44
+366,"What is the distance between ""Coffee Time"" and ""Столовая сектора Б"" in the Moscow area?",D,5.0,4.17,17.3,11.4
+367,"What is the distance between ""Фармакологическое Училище №4"" and ""ГБУЗ Детская городская поликлиника №91"" in the Moscow area?",B,17.05,10.35,4.95,3.4
+368,"What is the distance between ""ДОУ №1930"" and ""Государственный научно-исследовательский институт реставрации"" in the Moscow area?",C,17.32,3.8,10.07,8.34
+369,"What is the distance between ""Точка Кофе"" and ""Сандро"" in the Moscow area?",A,3.22,4.61,2.23,0.91
+370,"What is the distance between ""Стоматология на Страстном"" and ""Кулинарная лавка братьев Караваевых"" in the Moscow area?",C,6.16,15.74,9.64,7.99
+371,"What is the distance between ""На Зубовском"" and ""Шаурма хаус"" in the Moscow area?",A,3.35,7.92,0.53,10.42
+372,"What is the distance between ""Бизнес-центр ""ABC"""" and ""Корпус естественно-гуманитарных факультетов РУДН"" in the Moscow area?",D,12.63,15.21,16.14,19.86
+373,"What is the distance between ""Хинкальная №1"" and ""Почта Банк"" in the Moscow area?",B,10.22,4.59,6.52,10.36
+374,"What is the distance between ""Промсвязьбанк"" and ""Ригла"" in the Moscow area?",D,4.11,3.93,4.16,5.28
+375,"What is the distance between ""Паркинг 1"" and ""FitMyBody"" in the Moscow area?",C,11.72,11.03,4.39,2.47
+376,"What is the distance between ""Цин-Лун"" and ""Паркинг 1"" in the Moscow area?",A,15.44,9.97,13.73,11.45
+377,"What is the distance between ""Лавандерия"" and ""Мозаика"" in the Moscow area?",A,10.55,14.12,16.41,14.94
+378,"What is the distance between ""Рутта"" and ""Лаззат"" in the Moscow area?",D,24.57,24.74,24.3,28.25
+379,"What is the distance between ""Ситилаб"" and ""Zionist"" in the Moscow area?",D,6.91,10.87,8.16,4.01
+380,"What is the distance between ""Корпус 8"" and ""Жилой комплекс «Вереск»"" in the Moscow area?",C,5.09,3.51,10.04,11.16
+381,"What is the distance between ""Потешный дворец"" and ""Upside Kuntsevo"" in the Moscow area?",D,8.48,15.79,18.73,11.07
+382,"What is the distance between ""Заря 2"" and ""Кутузовская изба"" in the Moscow area?",C,22.18,13.37,15.49,18.84
+383,"What is the distance between ""Суши Стор"" and ""Plantация"" in the Moscow area?",D,15.01,9.61,11.28,7.9
+384,"What is the distance between ""Алазани"" and ""РМП"" in the Moscow area?",D,8.54,4.24,7.06,1.2
+385,"What is the distance between ""Антипа"" and ""KDL"" in the Moscow area?",D,1.81,13.08,12.01,6.21
+386,"What is the distance between ""Mary Wong"" and ""Ставмет"" in the Moscow area?",B,1.89,8.1,9.38,4.72
+387,"What is the distance between ""Московское медицинское училище №18"" and ""корпус 6 - терапевтический"" in the Moscow area?",D,6.75,5.88,12.73,11.51
+388,"What is the distance between ""Центр культуры ""Сцена"""" and ""Frank by Баста"" in the Moscow area?",B,8.38,13.21,10.55,10.9
+389,"What is the distance between ""Танго без правил"" and ""Клаустрофобия"" in the Moscow area?",A,6.55,1.8,4.13,3.28
+390,"What is the distance between ""Бизнес-центр ""Легион 1"""" and ""СМУ-153 Трансинжстроя"" in the Moscow area?",D,16.57,14.3,10.96,8.63
+391,"What is the distance between ""Trix Family"" and ""Веда"" in the Moscow area?",B,14.01,6.92,10.51,14.58
+392,"What is the distance between ""Babacha"" and ""Торговый городской банк"" in the Moscow area?",C,8.85,4.73,2.47,4.34
+393,"What is the distance between ""Chow-Chow"" and ""Trix Family"" in the Moscow area?",B,2.51,7.31,3.5,11.04
+394,"What is the distance between ""Глобальный Мир, культурно-образовательный центр"" and ""Корпус 8"" in the Moscow area?",A,6.17,7.27,12.66,1.87
+395,"What is the distance between ""Люксдент"" and ""Дэтоль"" in the Moscow area?",C,9.95,10.94,13.02,10.37
+396,"What is the distance between ""Суши Wok"" and ""Хондэ"" in the Moscow area?",A,6.7,13.08,12.77,12.4
+397,"What is the distance between ""Воскресная школа при храме"" and ""Стадион Автомобилист"" in the Moscow area?",D,18.21,7.83,17.82,12.1
+398,"What is the distance between ""Pizzamento"" and ""Teboil"" in the Moscow area?",D,10.84,10.94,9.94,5.43
+399,"What is the distance between ""Лаферм"" and ""Танго без правил"" in the Moscow area?",C,3.89,9.47,6.97,9.86
+400,"What is the distance between ""Спортивный центр ЦСК ВМФ"" and ""Богородице-Рождественский монастырь"" in the Moscow area?",B,15.64,11.42,17.19,4.35
+401,"What is the distance between ""Royal wellness club"" and ""Tap&Barrel"" in the Moscow area?",B,10.22,3.27,9.14,5.9
+402,"What is the distance between ""SAB Corner"" and ""Доктор Столетов"" in the Moscow area?",B,0.75,5.87,10.08,9.81
+403,"What is the distance between ""Капучинофф"" and ""Pizzamento"" in the Moscow area?",A,12.06,14.57,5.34,16.17
+404,"What is the distance between ""Pizza Paolo"" and ""Азбука здоровья"" in the Moscow area?",D,18.26,10.22,18.25,14.87
+405,"What is the distance between ""Киви"" and ""У Михалыча"" in the Moscow area?",C,9.04,13.29,16.55,11.5
+406,"What is the distance between ""Яндекс.Маркет"" and ""Московский машиностроительный завод ""Вымпел"""" in the Moscow area?",B,1.69,4.78,1.26,7.56
+407,"What is the distance between ""Helix"" and ""Хинкальная №1"" in the Moscow area?",C,1.98,14.55,8.64,9.79
+408,"What is the distance between ""ЮниКредит Банк"" and ""Фаиза"" in the Moscow area?",D,15.45,19.98,16.23,12.89
+409,"What is the distance between ""Отделение связи №125499"" and ""Стоматология доктора Кардаковой"" in the Moscow area?",B,9.78,14.64,10.74,13.12
+410,"What is the distance between ""Скейт-Парк"" and ""НИ и ПИ Градплан города Москвы"" in the Moscow area?",C,9.41,20.11,16.32,20.68
+411,"What is the distance between ""Москва-Сити"" and ""Промо-карта"" in the Moscow area?",C,10.61,17.89,14.69,11.07
+412,"What is the distance between ""Soul in the bowl"" and ""Библиотека № 42 им. А. Платонова"" in the Moscow area?",B,9.02,11.09,16.99,15.58
+413,"What is the distance between ""Московский научно-практический центр медицинской реабилитации, восстановительной и спортивной медицины, филиал 12"" and ""Участковый пункт полиции № 1"" in the Moscow area?",C,19.29,11.52,13.46,16.08
+414,"What is the distance between ""Столовая"" and ""Честная клиника"" in the Moscow area?",C,6.19,13.22,11.82,16.81
+415,"What is the distance between ""Московский государственный лингвистический университет"" and ""Гребная спортбаза ЦСК ВМФ РФ по академической гребле"" in the Moscow area?",D,17.74,4.66,5.99,10.83
+416,"What is the distance between ""У Михалыча"" and ""Сэр Хинкаль"" in the Moscow area?",A,19.12,22.68,18.16,16.42
+417,"What is the distance between ""Пожарно-спасательная часть № 83"" and ""Московское медицинское училище №18"" in the Moscow area?",A,26.43,23.35,18.47,20.44
+418,"What is the distance between ""ionVet"" and ""Медит групп"" in the Moscow area?",B,10.45,3.97,4.97,7.81
+419,"What is the distance between ""Пушистая братва"" and ""World Fitness"" in the Moscow area?",D,15.3,3.68,14.75,10.26
+420,"What is the distance between ""SПБ"" and ""Московский научно-практический центр медицинской реабилитации, восстановительной и спортивной медицины, филиал 12"" in the Moscow area?",C,9.47,11.7,15.95,23.69
+421,"What is the distance between ""ОБ ДПС по САО"" and ""Церковь иконы Божией Матери «Скоропослушница»"" in the Moscow area?",C,19.63,17.57,21.47,20.17
+422,"What is the distance between ""Заварили"" and ""Fassbinder"" in the Moscow area?",C,1.19,2.85,7.11,3.74
+423,"What is the distance between ""Тануки"" and ""ТрансКапиталБанк"" in the Moscow area?",C,6.12,16.1,14.06,10.96
+424,"What is the distance between ""ТЦ «Измайловский пассаж»"" and ""Жилой комплекс «На Мельникова»"" in the Moscow area?",C,0.66,2.59,8.55,4.1
+425,"What is the distance between ""Экспедиция"" and ""Ваша №1"" in the Moscow area?",B,1.62,9.43,14.14,14.98
+426,"What is the distance between ""Сбербанк"" and ""Лаферм"" in the Moscow area?",B,12.33,9.18,2.11,14.41
+427,"What is the distance between ""Сандуновские бани"" and ""ГСК ""Звезда"""" in the Moscow area?",C,5.97,10.8,3.87,1.1
+428,"What is the distance between ""Cofix"" and ""World Class"" in the Moscow area?",D,3.21,13.43,11.34,7.42
+429,"What is the distance between ""Dizengof99"" and ""Место притяжения"" in the Moscow area?",B,8.49,3.8,9.16,2.46
+430,"What is the distance between ""Коллектив"" and ""Промсвязьбанк"" in the Moscow area?",D,10.88,15.43,5.14,9.3
+431,"What is the distance between ""Шоколадница"" and ""Аптека форте"" in the Moscow area?",B,21.25,24.21,16.62,18.47
+432,"What is the distance between ""Спасательный пост"" and ""Дворец культуры РУТ"" in the Moscow area?",C,12.94,21.54,18.37,13.01
+433,"What is the distance between ""Экспромт"" and ""ЭпиЛайк"" in the Moscow area?",A,7.1,5.45,5.73,4.64
+434,"What is the distance between ""ГБОУ СОШ № 479 Дошкольное отделение"" and ""Государственный Кремлёвский дворец"" in the Moscow area?",B,17.16,11.1,14.37,9.13
+435,"What is the distance between ""Сэр Хинкаль"" and ""Бродвей"" in the Moscow area?",A,17.14,12.51,14.08,13.78
+436,"What is the distance between ""Бизнес-центр ""Авиамоторная 50"""" and ""Музей истории ГУЛАГа"" in the Moscow area?",A,7.97,2.04,9.42,5.55
+437,"What is the distance between ""Звездочет"" and ""Ладушки оладушки"" in the Moscow area?",A,12.35,15.48,9.51,9.59
+438,"What is the distance between ""Доктор Столетов"" and ""Ситилаб"" in the Moscow area?",C,7.44,17.94,14.92,17.4
+439,"What is the distance between ""Boxberry"" and ""Abc-медицина"" in the Moscow area?",D,7.17,9.71,0.69,4.67
+440,"What is the distance between ""Здоров.ру"" and ""Air Coffee"" in the Moscow area?",A,6.03,1.32,0.75,13.94
+441,"What is the distance between ""Диалог"" and ""One Price Coffee"" in the Moscow area?",C,19.83,17.3,15.76,14.72
+442,"What is the distance between ""Время антракта"" and ""Открытие"" in the Moscow area?",C,4.51,14.35,8.97,15.85
+443,"What is the distance between ""Americano"" and ""Уголок вкуса"" in the Moscow area?",C,7.0,5.95,4.97,6.19
+444,"What is the distance between ""ИКСИ"" and ""4-й батальон полка ДПС"" in the Moscow area?",D,5.54,4.95,6.68,11.22

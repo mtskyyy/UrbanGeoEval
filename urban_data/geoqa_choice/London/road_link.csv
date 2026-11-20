@@ -1,0 +1,1240 @@
+id,question,answer,A,B,C,D
+0,"In the London area, which road directly reaches Charles II Street?",C,Bolingbroke Grove,Orient Way,Haymarket,Hornsey Road
+1,"In the London area, which road cannot directly reach Haymarket?",D,Charles II Street,Pall Mall,Jermyn Street,Midland Road
+2,"In the London area, which road cannot directly reach Waterloo Place?",B,Pall Mall,Downs Park Road,Regent Street St James's,Charles II Street
+3,"In the London area, which road cannot directly reach Finchley Road?",B,Arkwright Road,Fulham Palace Road,Frognal Lane,Goldhurst Terrace
+4,"In the London area, which road cannot directly reach College Crescent?",B,Fitzjohn's Avenue,Lauriston Road,Avenue Road,Finchley Road
+5,"In the London area, which road cannot directly reach Holland Park Avenue?",B,Ladbroke Grove,Abbey Road,Addison Road,Notting Hill Gate
+6,"In the London area, which road cannot directly reach Royal Crescent?",D,St Anns Villas,Holland Park Avenue,Addison Road,Fairfield Street
+7,"In the London area, which road cannot directly reach Armoury Way?",A,Deptford Bridge,Ram Street,Wandsworth Plain,Swandon Way
+8,"In the London area, which road cannot directly reach Ram Street?",D,Garratt Lane,Armoury Way,Wandsworth High Street,Harbour Avenue
+9,"In the London area, which road directly reaches St Giles High Street?",A,Earnshaw Street,Great Dover Street,Lower Road,Belgrave Square
+10,"In the London area, which road directly reaches Earnshaw Street?",C,King Henry's Walk,Draycott Place,St Giles High Street,Old Ford Road
+11,"In the London area, which road cannot directly reach London Road?",D,Elephant and Castle,Garden Row,Newington Butts,Kensington Park Road
+12,"In the London area, which road directly reaches Garden Row?",B,Torriano Avenue,St George's Road,Cambridge Heath Road,Deals Gateway
+13,"In the London area, which road cannot directly reach Pratt Street?",B,Bayham Street,Sclater Street,Camden Street,Royal College Street
+14,"In the London area, which road directly reaches Bayham Street?",D,Swandon Way,Chatham Place,Seagull Lane,Crowndale Road
+15,"In the London area, which road directly reaches Cockspur Street?",B,Bressenden Place,Pall Mall East,Endell Street,Clerkenwell Road
+16,"In the London area, which road cannot directly reach Charing Cross?",D,Strand,The Mall,Northumberland Avenue,Bishop's Bridge Road
+17,"In the London area, which road cannot directly reach Camomile Street?",C,Bishopsgate,Outwich Street,Norton Folgate,St. Botolph Street
+18,"In the London area, which road cannot directly reach St. Botolph Street?",C,Camomile Street,Whitechapel High Street,Queen's Ride,Mansell Street
+19,"In the London area, which road cannot directly reach Silvertown Way?",A,Oakley Square,Rathbone Street,Shirley Street,Peto Street North
+20,"In the London area, which road cannot directly reach Tidal Basin Roundabout?",C,Silvertown Way,Tidal Basin Road,Wigmore Street,Lower Lea Crossing
+21,"In the London area, which road cannot directly reach Queen Caroline Street?",A,Valentine Road,Talgarth Road,Hammersmith Bridge Road,King Street
+22,"In the London area, which road cannot directly reach Talgarth Road?",A,Devonshire Place,West Cromwell Road,North End Road,Queen Caroline Street
+23,"In the London area, which road directly reaches Hammersmith Bridge Road?",A,Queen Caroline Street,Old Kent Road,Wilson Street,College Crescent
+24,"In the London area, which road directly reaches Great West Road?",B,Haverstock Hill,Hammersmith Bridge Road,Tollington Road,Shacklewell Lane
+25,"In the London area, which road cannot directly reach Vauxhall Bridge Road?",C,Rochester Row,Bessborough Gardens,Blackfriars Bridge,Wilton Road
+26,"In the London area, which road cannot directly reach Wilton Road?",B,Victoria Street,Putney Hill,Vauxhall Bridge Road,Neathouse Place
+27,"In the London area, which road cannot directly reach Merton Road?",C,Buckhold Road,Wandsworth High Street,Finchley Road,West Hill
+28,"In the London area, which road cannot directly reach Wandsworth High Street?",D,Garratt Lane,West Hill,Ram Street,Loampit Vale
+29,"In the London area, which road cannot directly reach Morning Lane?",A,De Beauvoir Road,Ponsford Street,Mare Street,Well Street
+30,"In the London area, which road directly reaches Valette Street?",A,Mare Street,Queen Caroline Street,King Henry's Walk,Ram Street
+31,"In the London area, which road cannot directly reach Warwick Avenue?",D,Bristol Gardens,Harrow Road,Clifton Villas,Islington Green
+32,"In the London area, which road cannot directly reach Harrow Road?",C,Bishops Bridge Road,Edgware Road,Islington High Street,Great Western Road
+33,"In the London area, which road cannot directly reach Wandsworth Road?",C,Cedars Road,Nine Elms Lane,Balls Pond Road,Parry Street
+34,"In the London area, which road directly reaches Parry Street?",B,Berkeley Street,Wandsworth Road,Poplar High Street,Kennington Park Road
+35,"In the London area, which road directly reaches Neathouse Place?",A,Wilton Road,Western Gateway,Bishops Bridge Road,Downham Road
+36,"In the London area, which road cannot directly reach Temple Mills Lane?",A,Wrentham Avenue,High Road Leyton,Major Road,Celebration Avenue
+37,"In the London area, which road cannot directly reach Leyton Road?",B,Penny Brookes Street,Kidbrooke Park Road,Great Eastern Road,Temple Mills Lane
+38,"In the London area, which road cannot directly reach St Pancras Way?",C,Baynes Street,Pratt Street,Balls Pond Road,Randolph Street
+39,"In the London area, which road directly reaches Baynes Street?",A,Royal College Street,Guilford Street,Leamouth Road,Kings Avenue
+40,"In the London area, which road directly reaches King Street?",B,Copeland Road,Queen Caroline Street,Burdett Road,Piccadilly
+41,"In the London area, which road cannot directly reach Clayton Road?",D,Peckham High Street,Consort Road,Copeland Road,Skinner Street
+42,"In the London area, which road cannot directly reach Peckham High Street?",A,Pelham Street,Queen's Road,Meeting House Lane,Southampton Way
+43,"In the London area, which road cannot directly reach Green Lanes?",D,Newington Green,Albion Road,Petherton Road,Wandsworth Plain
+44,"In the London area, which road cannot directly reach Newington Green?",C,Matthias Road,Mildmay Park,Poplar High Street,Albion Road
+45,"In the London area, which road cannot directly reach Deptford High Street?",D,Evelyn Street,Giffin Street,Edward Street,Boleyn Road
+46,"In the London area, which road directly reaches Giffin Street?",D,St Norbert Road,Borough Road,Constantine Road,Deptford High Street
+47,"In the London area, which road directly reaches Retreat Place?",D,Capel Road,Stratheden Parade,Limehouse Link,Chatham Place
+48,"In the London area, which road directly reaches Chatham Place?",B,Swandon Way,Morning Lane,Commercial Way,Loudoun Road
+49,"In the London area, which road cannot directly reach Amhurst Road?",C,Mare Street,Pembury Road,Coventry Street,Rectory Road
+50,"In the London area, which road cannot directly reach Mare Street?",B,Graham Road,Rennell Street,Dalston Lane,Lansdowne Drive
+51,"In the London area, which road cannot directly reach Upper Saint Martin's Lane?",B,Cranbourn Street,Spindrift Avenue,Long Acre,Shelton Street
+52,"In the London area, which road directly reaches Cranbourn Street?",C,Salusbury Road,Rosebery Avenue,Charing Cross Road,Torriano Avenue
+53,"In the London area, which road cannot directly reach South Place?",A,Goldhawk Road,Wilson Street,Finsbury Pavement,Moorgate
+54,"In the London area, which road directly reaches Wilson Street?",D,Earl's Court Road,White Horse Road,Shoot-up Hill,Sun Street
+55,"In the London area, which road cannot directly reach Regent Street St James's?",A,Charing Cross,Piccadilly,Jermyn Street,Shaftesbury Avenue
+56,"In the London area, which road cannot directly reach Jermyn Street?",D,Regent Street St James's,Haymarket,St. James's Street,New Cavendish Street
+57,"In the London area, which road cannot directly reach Balls Pond Road?",B,Newington Green Road,Cheshire Street,Dalston Lane,Essex Road
+58,"In the London area, which road cannot directly reach Southgate Road?",B,Balls Pond Road,West Cromwell Road,Baring Street,Downham Road
+59,"In the London area, which road cannot directly reach Mildmay Park?",A,Jermyn Street,Newington Green,Mildmay Grove South,Balls Pond Road
+60,"In the London area, which road cannot directly reach Shooters Hill Road?",A,Copenhagen Street,Kidbrooke Park Road,Blackheath Hill,Prince Charles Road
+61,"In the London area, which road cannot directly reach Prince of Wales Road?",D,Kentish Town Road,Stratheden Road,Malden Crescent,Acre Lane
+62,"In the London area, which road cannot directly reach Stratheden Road?",B,Shooters Hill Road,Greville Place,Old Dover Road,Vanbrugh Park
+63,"In the London area, which road cannot directly reach Osnaburgh Terrace?",C,Marylebone Road,Great Portland Street,Warrington Crescent,Euston Road
+64,"In the London area, which road cannot directly reach Great Portland Street?",C,Euston Road,Marylebone Road,Goffers Road,Margaret Street
+65,"In the London area, which road cannot directly reach Marylebone Road?",C,Westway,Old Marylebone Road,Regent Street,Osnaburgh Terrace
+66,"In the London area, which road cannot directly reach Euston Road?",D,Great Portland Street,Pancras Road,Marylebone Road,Finsbury Pavement
+67,"In the London area, which road cannot directly reach Oxford Street?",B,Great Portland Street,Bolingbroke Grove,Portman Street,Charing Cross Road
+68,"In the London area, which road cannot directly reach Regent Street?",B,Mortimer Street,Harley Street,Margaret Street,Piccadilly Circus
+69,"In the London area, which road cannot directly reach Fleet Street?",B,Fetter Lane,Royal Parade,New Bridge Street,Strand
+70,"In the London area, which road cannot directly reach Farringdon Street?",A,St. Martin's Lane,Fleet Street,Ludgate Hill,Snow Hill
+71,"In the London area, which road cannot directly reach New Bridge Street?",A,St. Botolph Street,Queen Victoria Street,Victoria Embankment,Ludgate Hill
+72,"In the London area, which road cannot directly reach Ludgate Hill?",B,Farringdon Street,Abercorn Place,New Bridge Street,Cannon Street
+73,"In the London area, which road cannot directly reach Caledonian Road?",C,North Road,Market Road,Bayswater Road,Copenhagen Street
+74,"In the London area, which road cannot directly reach Market Road?",B,York Way,Cassland Road,Mackenzie Road,Caledonian Road
+75,"In the London area, which road cannot directly reach Mackenzie Road?",B,Liverpool Road,Ravensbourne Park,Westbourne Road,Palmer Place
+76,"In the London area, which road cannot directly reach Copenhagen Street?",D,Penton Street,York Way,Caledonian Road,Parkway
+77,"In the London area, which road cannot directly reach North Street?",B,Old Town,Wilton Road,Silverthorne Road,Wandsworth Road
+78,"In the London area, which road cannot directly reach Silverthorne Road?",B,Broughton Street,Imperial Road,North Street,Wandsworth Road
+79,"In the London area, which road cannot directly reach Gloucester Place?",D,Park Road,Upper Berkeley Street,George Street,Imperial Street
+80,"In the London area, which road cannot directly reach Borough Road?",B,Southwark Bridge Road,Cann Hall Road,Waterloo Road,Borough High Street
+81,"In the London area, which road cannot directly reach Borough High Street?",B,Southwark Street,Morris Road,Great Dover Street,Harper Road
+82,"In the London area, which road cannot directly reach Harper Road?",C,Borough Road,Borough High Street,Dreadnought Street,New Kent Road
+83,"In the London area, which road cannot directly reach Newington Causeway?",A,Chapel Street,Gaunt Street,Harper Road,Borough Road
+84,"In the London area, which road cannot directly reach West Cromwell Road?",B,Talgarth Road,Brixton Hill,North End Road,Earl's Court Road
+85,"In the London area, which road cannot directly reach North End Road?",A,Walworth Road,Dawes Road,Lillie Road,Fulham Broadway
+86,"In the London area, which road directly reaches Claremont Road?",B,Earlsfield Road,Lichfield Road,Swinton Street,Old Town
+87,"In the London area, which road cannot directly reach Lichfield Road?",B,Cricklewood Lane,Battersea Bridge Road,Claremont Road,Mill Lane
+88,"In the London area, which road cannot directly reach Cricklewood Lane?",C,Claremont Road,Chichele Road,Connaught Square,Lichfield Road
+89,"In the London area, which road cannot directly reach London Wall?",C,Eldon Street,Old Broad Street,Norwood Road,Moorgate
+90,"In the London area, which road cannot directly reach Moorgate?",B,Gresham Street,Blackwall Tunnel Approach,South Place,London Wall
+91,"In the London area, which road cannot directly reach Leadenhall Street?",D,Aldgate,Gracechurch Street,Bishopsgate,Grove Lane
+92,"In the London area, which road cannot directly reach Gracechurch Street?",C,Aldgate,Cornhill,Millbank,Lombard Street
+93,"In the London area, which road cannot directly reach Bishopsgate?",D,Shoreditch High Street,Camomile Street,Norton Folgate,Brockley Way
+94,"In the London area, which road cannot directly reach Cornhill?",A,Fairfield Street,Gracechurch Street,Bishopsgate,Leadenhall Street
+95,"In the London area, which road cannot directly reach Trinity Road?",C,Magdalen Road,Earlsfield Road,Great Titchfield Street,Windmill Road
+96,"In the London area, which road cannot directly reach Windmill Road?",B,Earlsfield Road,East Hill,Trinity Road,North Side Wandsworth Common
+97,"In the London area, which road cannot directly reach Earlsfield Road?",B,St. Ann's Hill,Marshall Road,Windmill Road,Trinity Road
+98,"In the London area, which road cannot directly reach Kilburn High Road?",B,Shoot-up Hill,West India Dock Road,Willesden Lane,Brondesbury Road
+99,"In the London area, which road cannot directly reach Cavendish Road?",D,The Avenue,Clapham Common South Side,Kilburn High Road,Catlin Street
+100,"In the London area, which road cannot directly reach Iverson Road?",D,Cavendish Road,Maygrove Road,West End Lane,Fulham Broadway
+101,"In the London area, which road cannot directly reach Anson Road?",A,Kilburn Lane,Chichele Road,Cricklewood Broadway,Park Avenue
+102,"In the London area, which road cannot directly reach Walm Lane?",C,High Road,Anson Road,Upper Thames Street,Park Avenue
+103,"In the London area, which road cannot directly reach Chichele Road?",B,Cricklewood Lane,Charing Cross Road,Park Avenue,Walm Lane
+104,"In the London area, which road cannot directly reach Park Avenue?",A,Hancock Road,Anson Road,St. Pauls Avenue,Chapter Road
+105,"In the London area, which road cannot directly reach Belgrave Road?",A,Peckham High Street,Warwick Way,Drummond Gate,Lupus Street
+106,"In the London area, which road cannot directly reach Warwick Way?",A,Chesterton Road,Pimlico Road,Buckingham Palace Road,Ebury Bridge Road
+107,"In the London area, which road cannot directly reach Victoria Street?",B,Buckingham Gate,Kimberley Avenue,Marsham Street,Bressenden Place
+108,"In the London area, which road cannot directly reach Buckingham Gate?",A,Norton Folgate,Artillery Row,Victoria Street,Birdcage Walk
+109,"In the London area, which road cannot directly reach Artillery Row?",B,Victoria Street,Endwell Road,Rochester Row,Buckingham Gate
+110,"In the London area, which road cannot directly reach Parkgate Road?",B,Albert Bridge,Bressenden Place,Battersea Bridge Road,Albert Bridge Road
+111,"In the London area, which road cannot directly reach Westbridge Road?",D,Parkgate Road,Lombard Road,Battersea Bridge Road,New Kent Road
+112,"In the London area, which road cannot directly reach Battersea Bridge Road?",C,Chelsea Embankment,Cheyne Walk,Heath Street,Battersea Park Road
+113,"In the London area, which road cannot directly reach Rochester Row?",B,Artillery Row,Evelyn Street,Greycoat Place,Vauxhall Bridge Road
+114,"In the London area, which road cannot directly reach Kelvedon Road?",C,Homestead Road,Parsons Green Lane,Long Road,Bishop's Road
+115,"In the London area, which road cannot directly reach Fulham Road?",D,Fulham Broadway,Cranley Gardens,Gunter Grove,Strand Underpass
+116,"In the London area, which road cannot directly reach Parsons Green Lane?",B,Kelvedon Road,Rosslyn Hill,Fulham Road,Parsons Green
+117,"In the London area, which road cannot directly reach Lever Street?",A,Tramway Avenue,Goswell Road,Percival Street,Bath Street
+118,"In the London area, which road cannot directly reach Central Street?",B,City Road,Queen Street,Old Street,Moreland Street
+119,"In the London area, which road cannot directly reach George Street?",B,Seymour Place,Lausanne Road,Edgware Road,Baker Street
+120,"In the London area, which road cannot directly reach Seymour Street?",A,Royal Mint Street,Edgware Road,Portman Street,Portman Square
+121,"In the London area, which road cannot directly reach Portman Street?",B,Portman Square,Osnaburgh Terrace,Oxford Street,Park Street
+122,"In the London area, which road cannot directly reach Portman Square?",C,Baker Street,Orchard Street,Islington High Street,Upper Berkeley Street
+123,"In the London area, which road cannot directly reach Goswell Road?",C,City Road,Lever Street,Eastcheap,Old Street
+124,"In the London area, which road cannot directly reach Spencer Street?",C,Moreland Street,St. John Street,Cavell Street,Goswell Road
+125,"In the London area, which road cannot directly reach Moreland Street?",A,Coldharbour Lane,Goswell Road,Central Street,Spencer Street
+126,"In the London area, which road cannot directly reach Horseferry Road?",C,Marsham Street,Millbank,Westcombe Hill,Branch Road
+127,"In the London area, which road cannot directly reach Greycoat Place?",C,Artillery Row,Horseferry Road,Royal Hospital Road,Marsham Street
+128,"In the London area, which road cannot directly reach Marsham Street?",D,Greycoat Place,John Islip Street,Herrick Street,Wimpole Street
+129,"In the London area, which road cannot directly reach Cannon Street?",D,Gracechurch Street,Queen Victoria Street,London Bridge,High Road Leytonstone
+130,"In the London area, which road cannot directly reach London Bridge?",A,Old Dover Road,Eastcheap,Cannon Street,Gracechurch Street
+131,"In the London area, which road cannot directly reach Eastcheap?",A,St James's Road,London Bridge,Great Tower Street,Gracechurch Street
+132,"In the London area, which road cannot directly reach Lee Road?",D,Montpelier Row,Lee High Road,Lee Terrace,North Pole Road
+133,"In the London area, which road cannot directly reach Lee High Road?",B,Lee Road,Lindsey Street,Lewis Grove,Lewisham High Street
+134,"In the London area, which road cannot directly reach Burnt Ash Road?",B,Burnt Ash Hill,Asylum Road,Lee High Road,Manor Lane
+135,"In the London area, which road cannot directly reach Eltham Road?",A,Millennium Way,Weigall Road,Kidbrooke Park Road,Burnt Ash Road
+136,"In the London area, which road cannot directly reach Crossway?",A,Great Western Road,Kingsland High Street,Boleyn Road,Matthias Road
+137,"In the London area, which road cannot directly reach Kingsland High Street?",A,Paddington Street,Kingsland Road,Shacklewell Lane,Sandringham Road
+138,"In the London area, which road cannot directly reach Shacklewell Lane?",D,St Mark's Rise,Stoke Newington Road,Amhurst Road,Manor Lane
+139,"In the London area, which road cannot directly reach Stoke Newington Road?",D,Shacklewell Lane,Kingsland High Street,Crossway,Goldhurst Terrace
+140,"In the London area, which road cannot directly reach St. John Street?",C,Pentonville Road,Rosebery Avenue,Warrington Crescent,Clerkenwell Road
+141,"In the London area, which road cannot directly reach Skinner Street?",B,Tysoe Street,Pelham Street,Percival Street,St. John Street
+142,"In the London area, which road cannot directly reach Percival Street?",B,St. John Street,Fortune Green Road,Skinner Street,Lever Street
+143,"In the London area, which road cannot directly reach Bolingbroke Grove?",B,Battersea Rise,Wansbeck Road,Broomwood Road,Boutflower Road
+144,"In the London area, which road cannot directly reach Battersea Rise?",A,Cricklewood Lane,Bolingbroke Grove,Boutflower Road,Windmill Road
+145,"In the London area, which road directly reaches Platt's Lane?",B,Rossmore Road,Finchley Road,Grosvenor Street,Oxford Street
+146,"In the London area, which road cannot directly reach Fortune Green Road?",B,Mill Lane,Bricklayers Arms Roundabout,Finchley Road,Platt's Lane
+147,"In the London area, which road cannot directly reach Caldwell Street?",C,Vassall Road,Brixton Road,St George's Drive,Clapham Road
+148,"In the London area, which road cannot directly reach Brixton Road?",C,Kennington Park Road,Caldwell Street,Chancery Lane,Acre Lane
+149,"In the London area, which road cannot directly reach Vassall Road?",D,Elliott Road,Foxley Road,Caldwell Street,Montfichet Road
+150,"In the London area, which road cannot directly reach Blackheath Hill?",C,Wat Tyler Road,Hyde Vale,Barlby Road,Lewisham Road
+151,"In the London area, which road cannot directly reach Greenwich South Street?",D,Greenwich High Road,Lewisham Road,Blackheath Road,North Side Wandsworth Common
+152,"In the London area, which road cannot directly reach Blackheath Road?",B,Lewisham Road,Commercial Street,Blackheath Hill,Greenwich South Street
+153,"In the London area, which road cannot directly reach Lewisham Road?",B,Blackheath Road,Park Lane,Lewisham Hill,Rennell Street
+154,"In the London area, which road cannot directly reach Pont Street?",C,Sloane Street,Beauchamp Place,Millbank,Belgrave Place
+155,"In the London area, which road cannot directly reach Beauchamp Place?",C,Brompton Road,Pont Street,Holland Road,Sloane Street
+156,"In the London area, which road cannot directly reach Sloane Street?",A,Holland Park Avenue,Brompton Road,Pont Street,Beauchamp Place
+157,"In the London area, which road cannot directly reach Pritchard's Road?",D,Hackney Road,Whiston Road,Queensbridge Road,Artillery Row
+158,"In the London area, which road cannot directly reach Whiston Road?",B,Kingsland Road,Redriff Road,Queensbridge Road,Pritchard's Road
+159,"In the London area, which road cannot directly reach Queensbridge Road?",B,Laburnum Street,Elgin Avenue,Hackney Road,Whiston Road
+160,"In the London area, which road cannot directly reach Shaftesbury Avenue?",C,Piccadilly,Charing Cross Road,Mackenzie Road,New Oxford Street
+161,"In the London area, which road cannot directly reach Piccadilly?",D,Shaftesbury Avenue,Duke of Wellington Place,Regent Street St James's,Chevening Road
+162,"In the London area, which road cannot directly reach Westbourne Terrace?",A,Mortimer Road,Craven Road,Bishop's Bridge Road,Harrow Road
+163,"In the London area, which road cannot directly reach Craven Road?",A,Pancras Road,Praed Street,Westbourne Terrace,Spring Street
+164,"In the London area, which road cannot directly reach Brondesbury Road?",D,Kilburn High Road,Salusbury Road,Harvist Road,Davies Street
+165,"In the London area, which road cannot directly reach Salusbury Road?",C,Fernhead Road,Chevening Road,Median Road,Winchester Avenue
+166,"In the London area, which road cannot directly reach Harvist Road?",A,The Grove,Salusbury Road,Brondesbury Road,Mortimer Road
+167,"In the London area, which road cannot directly reach Carlton Vale?",C,Kilburn Park Road,Fernhead Road,Camberwell New Road,Maida Vale
+168,"In the London area, which road cannot directly reach Kilburn Park Road?",C,Shirland Road,Maida Vale,Lancaster Place,Carlton Vale
+169,"In the London area, which road cannot directly reach Vanbrugh Park?",C,Stratheden Parade,Prince Charles Road,Chepstow Road,Stratheden Road
+170,"In the London area, which road cannot directly reach Prince Charles Road?",B,Maze Hill,Rotherhithe Street,Prince of Wales Road,Vanbrugh Park
+171,"In the London area, which road cannot directly reach Charlton Way?",A,Goldhurst Terrace,Prince Charles Road,Vanbrugh Park,Maze Hill
+172,"In the London area, which road cannot directly reach Maze Hill?",A,Tysoe Street,Charlton Way,Vanbrugh Hill,Trafalgar Road
+173,"In the London area, which road cannot directly reach Dock Street?",B,East Smithfield,East Street,The Highway,Wapping High Street
+174,"In the London area, which road cannot directly reach Wapping High Street?",B,Wapping Wall,Parliament Street,Garnet Street,Dock Street
+175,"In the London area, which road cannot directly reach East Smithfield?",B,Tower Bridge Approach,Amwell Street,Mansell Street,Dock Street
+176,"In the London area, which road cannot directly reach The Highway?",B,Dock Street,Homestead Road,Wapping Lane,Wapping High Street
+177,"In the London area, which road cannot directly reach Chelsea Embankment?",C,Cheyne Walk,Royal Hospital Road,Chepstow Villas,Grosvenor Road
+178,"In the London area, which road cannot directly reach Beaufort Street?",D,Battersea Bridge Road,Cheyne Walk,King's Road,New Bridge Street
+179,"In the London area, which road cannot directly reach Cheyne Walk?",C,Chelsea Embankment,Beaufort Street,Kilburn Priory,Battersea Bridge Road
+180,"In the London area, which road cannot directly reach King's Road?",A,Northcote Road,New King's Road,Beaufort Street,Oakley Street
+181,"In the London area, which road cannot directly reach Westbourne Grove?",A,Nightingale Lane,Ladbroke Gardens,Pembridge Villas,Queensway
+182,"In the London area, which road cannot directly reach Pembridge Villas?",C,Westbourne Grove,Kensington Park Road,Queensbridge Road,Pembridge Road
+183,"In the London area, which road cannot directly reach Chepstow Road?",B,Pembridge Villas,Blackwall Lane,Westbourne Park Road,Westbourne Grove
+184,"In the London area, which road cannot directly reach Ladbroke Gardens?",D,Ladbroke Grove,Westbourne Grove,Kensington Park Road,Heath Street
+185,"In the London area, which road cannot directly reach Kensington Park Road?",C,Chepstow Villas,Pembridge Villas,Rothbury Road,Ladbroke Gardens
+186,"In the London area, which road cannot directly reach Lupus Street?",B,Belgrave Road,Pond Street,Drummond Gate,St George's Drive
+187,"In the London area, which road cannot directly reach Claverton Street?",A,The Broadway,Grosvenor Road,St George's Drive,Lupus Street
+188,"In the London area, which road cannot directly reach St George's Drive?",D,Warwick Way,Claverton Street,Lupus Street,Hammersmith Broadway
+189,"In the London area, which road cannot directly reach Sloane Avenue?",B,Pelham Street,Woodwell Street,Anderson Street,Draycott Place
+190,"In the London area, which road cannot directly reach Pelham Street?",A,Aldwych,Old Brompton Road,Sloane Avenue,Fulham Road
+191,"In the London area, which road cannot directly reach Brompton Road?",B,Sloane Street,Hardwick Street,Thurloe Place,Knightsbridge
+192,"In the London area, which road cannot directly reach Grange Road?",D,Dunton Road,Decima Street,Balaam Street,Homerton High Street
+193,"In the London area, which road cannot directly reach Decima Street?",D,Long Lane,Abbey Street,Tower Bridge Road,Sutherland Avenue
+194,"In the London area, which road cannot directly reach Tower Bridge Road?",D,Tooley Street,Bricklayers Arms Roundabout,Grange Road,Barlby Road
+195,"In the London area, which road cannot directly reach Gloucester Terrace?",D,Craven Road,Porchester Road,Bishop's Bridge Road,Brockley Way
+196,"In the London area, which road directly reaches Croxted Road?",A,Turney Road,Albion Drive,Falcon Road,Shardeloes Road
+197,"In the London area, which road cannot directly reach Turney Road?",D,Dulwich Village,Burbage Road,Croxted Road,Lambeth Road
+198,"In the London area, which road cannot directly reach Bow Common Lane?",C,Thomas Road,Devons Road,Wellington Road,St Paul's Way
+199,"In the London area, which road cannot directly reach St Paul's Way?",D,Burdett Road,Devons Road,Stepney Green,Staverton Road
+200,"In the London area, which road cannot directly reach Devons Road?",C,Devas Street,Bruce Road,Foxley Road,St Paul's Way
+201,"In the London area, which road cannot directly reach Wat Tyler Road?",A,Twelvetrees Crescent,Dartmouth Hill,Shooters Hill Road,Dartmouth Row
+202,"In the London area, which road cannot directly reach Hare and Billet Road?",A,Kingsland Road,Wat Tyler Road,Dartmouth Hill,Goffers Road
+203,"In the London area, which road cannot directly reach Dartmouth Hill?",A,Circus Road,Wat Tyler Road,Hare and Billet Road,Dartmouth Row
+204,"In the London area, which road cannot directly reach Lower Sloane Street?",A,Donnington Road,Chelsea Bridge Road,Royal Hospital Road,Sloane Square
+205,"In the London area, which road cannot directly reach Chelsea Bridge Road?",A,Old Street,Ebury Bridge Road,Royal Hospital Road,Pimlico Road
+206,"In the London area, which road cannot directly reach Pimlico Road?",C,Ebury Bridge Road,Lower Sloane Street,Median Road,Royal Hospital Road
+207,"In the London area, which road cannot directly reach Royal Hospital Road?",D,Lower Sloane Street,Chelsea Bridge Road,Chelsea Embankment,Ladywell Road
+208,"In the London area, which road cannot directly reach Boundary Road?",B,Greville Place,Vanbrugh Hill,Finchley Road,Loudoun Road
+209,"In the London area, which road cannot directly reach Abbey Road?",A,Westminster Bridge Road,Priory Road,Belsize Road,Boundary Road
+210,"In the London area, which road cannot directly reach Greville Place?",A,Kensington Park Road,Abbey Road,Maida Vale,Boundary Road
+211,"In the London area, which road cannot directly reach East Dulwich Road?",D,Dog Kennel Hill,Peckham Rye,Lordship Lane,Hobart Place
+212,"In the London area, which road cannot directly reach Peckham Rye?",D,Barry Road,Forest Hill Road,East Dulwich Road,Dock Street
+213,"In the London area, which road cannot directly reach Kingsland Road?",A,Brockley Grove,Whiston Road,Balls Pond Road,Old Street
+214,"In the London area, which road cannot directly reach Dalston Lane?",B,Balls Pond Road,Commercial Way,Queensbridge Road,Kingsland High Street
+215,"In the London area, which road cannot directly reach Southwark Park Road?",B,St James's Road,Richmond Avenue,Jamaica Road,Raymouth Road
+216,"In the London area, which road cannot directly reach St James's Road?",D,Southwark Park Road,Rotherhithe New Road,Old Kent Road,Chepstow Road
+217,"In the London area, which road cannot directly reach Peckham Hill Street?",A,Glenthorne Road,Goldsmith Road,Old Kent Road,Peckham High Street
+218,"In the London area, which road cannot directly reach Commercial Way?",B,Peckham Hill Street,Shorter Street,Southampton Way,Old Kent Road
+219,"In the London area, which road cannot directly reach Lausanne Road?",C,Drakefell Road,Queen's Road,St. Botolph Street,Pomeroy Street
+220,"In the London area, which road cannot directly reach Queen's Road?",B,Pomeroy Street,Combedale Road,Asylum Road,Lausanne Road
+221,"In the London area, which road cannot directly reach Pomeroy Street?",B,Lausanne Road,Spur Road,Old Kent Road,Queen's Road
+222,"In the London area, which road cannot directly reach Edgware Road?",D,Old Marylebone Road,Seymour Street,Harrow Road,Fulham High Street
+223,"In the London area, which road cannot directly reach Gloucester Road?",B,Stanhope Gardens,Lea Bridge Road,Cromwell Road,Kensington Road
+224,"In the London area, which road cannot directly reach Cromwell Road?",C,Earl's Court Road,West Cromwell Road,Mortimer Road,Gloucester Road
+225,"In the London area, which road cannot directly reach York Way?",D,Market Road,North Road,Agar Grove,Langham Place
+226,"In the London area, which road cannot directly reach Agar Grove?",A,Parsons Green,Brewery Road,York Way,St Pancras Way
+227,"In the London area, which road cannot directly reach Brewery Road?",B,York Way,Peto Street North,Caledonian Road,Agar Grove
+228,"In the London area, which road cannot directly reach Acre Lane?",C,Clapham Park Road,Kings Avenue,Oakdale Road,Brixton Hill
+229,"In the London area, which road cannot directly reach Bedford Road?",A,Brixton Hill,Kings Avenue,Acre Lane,Clapham Park Road
+230,"In the London area, which road cannot directly reach Clapham Park Road?",D,The Pavement,Clapham High Street,Clapham Common South Side,Hall Road
+231,"In the London area, which road cannot directly reach Kings Avenue?",B,Atkins Road,Hawkstone Road,Poynders Road,Bedford Road
+232,"In the London area, which road cannot directly reach Atkins Road?",B,New Park Road,Great Eastern Street,Poynders Road,Streatham Place
+233,"In the London area, which road cannot directly reach King's Avenue?",C,Kings Avenue,Poynders Road,Peckham Rye,Atkins Road
+234,"In the London area, which road cannot directly reach Poynders Road?",C,Kings Avenue,King's Avenue,Stratheden Parade,Cavendish Road
+235,"In the London area, which road cannot directly reach Coldharbour Lane?",B,Brixton Hill,Holles Street,Denmark Hill,Brixton Road
+236,"In the London area, which road cannot directly reach Loughborough Road?",C,Milkwood Road,Akerman Road,New Bridge Street,Brixton Road
+237,"In the London area, which road cannot directly reach Milkwood Road?",B,Half Moon Lane,Putney Bridge Approach,Norwood Road,Coldharbour Lane
+238,"In the London area, which road cannot directly reach Catlin Street?",B,Rotherhithe New Road,Barnsbury Road,St James's Road,Rolls Road
+239,"In the London area, which road cannot directly reach Rolls Road?",D,Humphrey Street,St James's Road,Mandela Way,Leadenhall Street
+240,"In the London area, which road cannot directly reach Wormwood Street?",B,Old Broad Street,Wood Vale,London Wall,Camomile Street
+241,"In the London area, which road cannot directly reach Oakdale Road?",C,Gibbon Road,Avignon Road,Westferry Circus,St Asaph Road
+242,"In the London area, which road cannot directly reach Avignon Road?",D,St Norbert Road,Oakdale Road,Drakefell Road,Percival Street
+243,"In the London area, which road cannot directly reach St Asaph Road?",A,Brompton Road,Mantle Road,Avignon Road,St Norbert Road
+244,"In the London area, which road cannot directly reach Florence Road?",A,Monier Road,Deptford Broadway,New Cross Road,Brockley Cross
+245,"In the London area, which road cannot directly reach Brockley Cross?",C,Brockley Road,Wickham Road,Cranley Gardens,Florence Road
+246,"In the London area, which road cannot directly reach Lewisham Way?",A,St Leonard's Road,Parkfield Road,New Cross Road,Wickham Road
+247,"In the London area, which road cannot directly reach Linden Grove?",B,Nunhead Lane,Fitzjohn's Avenue,Consort Road,Oakdale Road
+248,"In the London area, which road cannot directly reach Consort Road?",D,Linden Grove,Clayton Road,Nunhead Lane,Hammersmith Flyover
+249,"In the London area, which road cannot directly reach Nunhead Lane?",B,Evelina Road,London Street,East Dulwich Road,Peckham Rye
+250,"In the London area, which road cannot directly reach Clapham Road?",D,Harleyford Road,Bedford Road,Clapham High Street,Addison Road
+251,"In the London area, which road cannot directly reach Kennington Park Road?",D,Camberwell New Road,Newington Butts,Kennington Road,St Leonard's Road
+252,"In the London area, which road cannot directly reach Camberwell New Road?",C,Camberwell Road,Camberwell Church Street,Molesworth Street,Brixton Road
+253,"In the London area, which road cannot directly reach Harleyford Road?",C,Durham Street,South Lambeth Road,Kingsway,Clapham Road
+254,"In the London area, which road cannot directly reach Beckton Road?",C,Barking Road,East India Dock Road,Tollington Road,Hermit Road
+255,"In the London area, which road cannot directly reach Barking Road?",A,Deptford High Street,Silvertown Way,Balaam Street,Beckton Road
+256,"In the London area, which road cannot directly reach Hermit Road?",D,Beckton Road,Barking Road,Upper Road,Gracechurch Street
+257,"In the London area, which road cannot directly reach Baker Street?",A,Albert Embankment,Park Road,Portman Square,George Street
+258,"In the London area, which road cannot directly reach Saint John's Hill?",D,East Hill,Lavender Hill,Strath Terrace,Parkgate Road
+259,"In the London area, which road cannot directly reach Strath Terrace?",C,Boutflower Road,Plough Road,Anderson Street,Bolingbroke Grove
+260,"In the London area, which road cannot directly reach Plough Road?",C,York Road,Grant Road,Gloucester Terrace,Saint John's Hill
+261,"In the London area, which road cannot directly reach Essex Road?",D,Newington Green Road,Canonbury Road,New North Road,Royal Hill
+262,"In the London area, which road cannot directly reach Newington Green Road?",D,Essex Road,Mildmay Grove North,St. Paul's Road,Tidal Basin Road
+263,"In the London area, which road cannot directly reach St. Paul's Road?",C,Highbury Grove,Balls Pond Road,Gloucester Place,Essex Road
+264,"In the London area, which road cannot directly reach Stopford Road?",B,High Street,Cromwell Place,Upton Lane,Plashet Road
+265,"In the London area, which road cannot directly reach Upton Lane?",D,Stopford Road,St. George's Road,Romford Road,Plough Road
+266,"In the London area, which road cannot directly reach Plashet Road?",D,Stopford Road,Vicarage Lane,Upton Lane,Limeharbour
+267,"In the London area, which road cannot directly reach Camberwell Road?",A,Belsize Avenue,Bowyer Place,Wyndham Road,Walworth Road
+268,"In the London area, which road cannot directly reach Wyndham Road?",B,Lothian Road,Golden Lane,Bowyer Place,Camberwell New Road
+269,"In the London area, which road cannot directly reach Bowyer Place?",D,Southampton Way,Wyndham Road,Camberwell Road,Lea Bridge Road
+270,"In the London area, which road cannot directly reach Poplar High Street?",C,Bow Common Lane,East India Dock Road,Chippenham Road,Cotton Street
+271,"In the London area, which road cannot directly reach East India Dock Road?",C,Beckton Road,Abbott Road,East Smithfield,Bow Common Lane
+272,"In the London area, which road cannot directly reach Theobalds Road?",B,Clerkenwell Road,Tottenham Court Road,Vernon Place,Gray's Inn Road
+273,"In the London area, which road cannot directly reach Clerkenwell Road?",A,Honor Oak Road,Goswell Road,Old Street,Farringdon Road
+274,"In the London area, which road cannot directly reach Gray's Inn Road?",B,Theobalds Road,King William Street,High Holborn,Pancras Road
+275,"In the London area, which road cannot directly reach Tavistock Square?",C,Woburn Place,Eversholt Street,Henrietta Place,Euston Road
+276,"In the London area, which road cannot directly reach Eversholt Street?",C,Euston Road,Tavistock Square,Claremont Road,Oakley Square
+277,"In the London area, which road cannot directly reach Mortimer Street?",D,Cavendish Place,Langham Place,Great Titchfield Street,Lots Road
+278,"In the London area, which road cannot directly reach Cavendish Place?",D,Regent Street,Mortimer Street,Langham Place,Leadenhall Street
+279,"In the London area, which road cannot directly reach Langham Place?",D,Cavendish Place,Regent Street,Portland Place,Langton Road
+280,"In the London area, which road cannot directly reach Upper Street?",A,Hammersmith Flyover,Liverpool Road,Islington Green,Islington Park Street
+281,"In the London area, which road cannot directly reach Canonbury Square?",A,Stoke Newington Road,Highbury Corner,Islington Park Street,Upper Street
+282,"In the London area, which road cannot directly reach Highbury Corner?",B,Upper Street,Wormwood Street,Canonbury Road,St. Paul's Road
+283,"In the London area, which road cannot directly reach Islington Park Street?",A,Tower Bridge Approach,Canonbury Square,Upper Street,Highbury Corner
+284,"In the London area, which road cannot directly reach Islington Green?",C,New North Road,Upper Street,Mackenzie Road,Canonbury Road
+285,"In the London area, which road cannot directly reach New North Road?",B,Essex Road,Camberwell New Road,East Road,Murray Grove
+286,"In the London area, which road cannot directly reach Canonbury Road?",C,Highbury Corner,Essex Road,Lower Road,New North Road
+287,"In the London area, which road cannot directly reach Abbey Street?",C,Long Lane,Jamaica Road,Kensington Mall,Tower Bridge Road
+288,"In the London area, which road cannot directly reach Elgin Avenue?",D,Lauderdale Road,Shirland Road,Great Western Road,Cable Street
+289,"In the London area, which road cannot directly reach Chippenham Road?",A,Grove Street,Elgin Avenue,Shirland Road,Fernhead Road
+290,"In the London area, which road cannot directly reach Grosvenor Road?",A,Lewisham Way,Chelsea Bridge Road,Chelsea Bridge,Claverton Street
+291,"In the London area, which road cannot directly reach Bessborough Gardens?",A,Shacklewell Lane,Millbank,Vauxhall Bridge Road,Grosvenor Road
+292,"In the London area, which road cannot directly reach Millbank?",B,Atterbury Street,Lillie Road,Horseferry Road,Bessborough Gardens
+293,"In the London area, which road cannot directly reach Bridgefoot?",A,Shepherdess Walk,Bessborough Gardens,Albert Embankment,Millbank
+294,"In the London area, which road cannot directly reach Malden Road?",A,Bridgend Road,Southampton Road,Prince of Wales Road,Malden Crescent
+295,"In the London area, which road cannot directly reach Malden Crescent?",B,Malden Road,Gallery Road,Chalk Farm Road,Prince of Wales Road
+296,"In the London area, which road cannot directly reach Deptford Broadway?",C,Deptford Bridge,Thurston Road,Upper Grosvenor Street,Deptford Church Street
+297,"In the London area, which road cannot directly reach Deptford Bridge?",B,Greenwich High Road,North Road,Deals Gateway,Thurston Road
+298,"In the London area, which road cannot directly reach Deptford Church Street?",C,Thurston Road,Creek Road,East Street,Giffin Street
+299,"In the London area, which road cannot directly reach Thurston Road?",C,Jerrard Street,Loampit Vale,Holland Park Avenue,Deptford Broadway
+300,"In the London area, which road cannot directly reach The Avenue?",C,Clapham Common South Side,Tiverton Road,Merton Road,Broomwood Road
+301,"In the London area, which road cannot directly reach Willesden Lane?",A,Coventry Street,Winchester Avenue,Walm Lane,High Road
+302,"In the London area, which road cannot directly reach Chamberlayne Road?",A,Earlsfield Road,Donnington Road,Wrentham Avenue,Banister Road
+303,"In the London area, which road cannot directly reach Mortimer Road?",D,College Road,Chamberlayne Road,Harvist Road,Hardwick Street
+304,"In the London area, which road cannot directly reach Downham Road?",D,Southgate Road,De Beauvoir Road,Kingsland Road,Parkhill Road
+305,"In the London area, which road directly reaches De Beauvoir Road?",D,Mabledon Place,Blackfriars Road,Sussex Gardens,Nuttall Street
+306,"In the London area, which road cannot directly reach City Road?",C,Central Street,Old Street,Grosvenor Street,Bath Street
+307,"In the London area, which road cannot directly reach Islington High Street?",D,Upper Street,Pentonville Road,City Road,Mildmay Park
+308,"In the London area, which road cannot directly reach Pentonville Road?",B,City Road,Forest Lane,King's Cross Road,Caledonian Road
+309,"In the London area, which road cannot directly reach Sutherland Avenue?",A,Bishop's Road,Harrow Road,Lauderdale Road,Hall Road
+310,"In the London area, which road cannot directly reach Maida Vale?",A,Paddington Street,Sutherland Avenue,Hall Road,Kilburn Park Road
+311,"In the London area, which road cannot directly reach Hall Road?",B,Sutherland Avenue,Cumberland Gate,Grove End Road,Circus Road
+312,"In the London area, which road cannot directly reach Cranley Gardens?",B,Gloucester Road,Charlton Road,Fulham Road,Old Brompton Road
+313,"In the London area, which road cannot directly reach Old Brompton Road?",C,Queen's Gate,Gloucester Road,Kentish Town Road,North End Road
+314,"In the London area, which road cannot directly reach Broomhouse Lane?",A,Marshgate Lane,New King's Road,Wandsworth Bridge Road,Townmead Road
+315,"In the London area, which road cannot directly reach Wandsworth Bridge Road?",A,Sidmouth Road,New King's Road,Broomhouse Lane,Bridgend Road
+316,"In the London area, which road cannot directly reach Townmead Road?",A,Ilderton Road,Wandsworth Bridge Road,Broomhouse Lane,Harbour Avenue
+317,"In the London area, which road cannot directly reach Bristol Gardens?",A,Marloes Road,Warwick Avenue,Shirland Road,Formosa Street
+318,"In the London area, which road cannot directly reach Shirland Road?",B,Bristol Gardens,Blackwall Tunnel Approach Road,Elgin Avenue,Sutherland Avenue
+319,"In the London area, which road cannot directly reach Formosa Street?",D,Bristol Gardens,Westbourne Terrace Road,Clifton Villas,Goffers Road
+320,"In the London area, which road cannot directly reach Palmer Place?",B,Mackenzie Road,Grosvenor Avenue,Liverpool Road,Holloway Road
+321,"In the London area, which road cannot directly reach Liverpool Road?",C,Holloway Road,Islington Park Street,Elspeth Road,Offord Road
+322,"In the London area, which road cannot directly reach Penton Street?",C,Copenhagen Street,Barnsbury Road,Major Road,Pentonville Road
+323,"In the London area, which road cannot directly reach Barnsbury Road?",D,Penton Street,Richmond Avenue,Copenhagen Street,Warton Road
+324,"In the London area, which road cannot directly reach Old Street?",B,Kingsland Road,Matthias Road,Bath Street,Central Street
+325,"In the London area, which road cannot directly reach Cricklewood Broadway?",B,Mill Lane,Broadway,Cricklewood Lane,Shoot-up Hill
+326,"In the London area, which road cannot directly reach Primrose Hill Road?",A,Marshalsea Road,Albert Terrace,Haverstock Hill,Adelaide Road
+327,"In the London area, which road cannot directly reach Adelaide Road?",C,Haverstock Hill,Finchley Road,Park Road,Primrose Hill Road
+328,"In the London area, which road cannot directly reach Southwark Street?",D,Borough High Street,Blackfriars Road,Stamford Street,Holland Street
+329,"In the London area, which road cannot directly reach Southwark Bridge Road?",B,Gaunt Street,Maury Road,Marshalsea Road,Southwark Street
+330,"In the London area, which road cannot directly reach Battersea Park Road?",A,Finborough Road,York Road,Albert Bridge Road,Nine Elms Lane
+331,"In the London area, which road cannot directly reach Latchmere Road?",B,Lavender Hill,Northumberland Avenue,Elspeth Road,Battersea Park Road
+332,"In the London area, which road cannot directly reach Bishop's Bridge Road?",A,Circus Road,Westbourne Grove,Westbourne Terrace,Porchester Road
+333,"In the London area, which road cannot directly reach Wigmore Street?",D,Welbeck Street,Portman Square,Wimpole Street,Wellington Road
+334,"In the London area, which road cannot directly reach Orchard Street?",B,Portman Square,Belgrave Place,Wigmore Street,Oxford Street
+335,"In the London area, which road cannot directly reach Harrington Road?",B,Cromwell Place,Norton Folgate,Old Brompton Road,Stanhope Gardens
+336,"In the London area, which road cannot directly reach Stanhope Gardens?",A,Clapham Road,Harrington Road,Gloucester Road,Queen's Gate
+337,"In the London area, which road cannot directly reach Queen's Gate?",B,Kensington Road,St George's Road,Cromwell Road,Harrington Road
+338,"In the London area, which road cannot directly reach Munster Road?",D,New King's Road,Fulham Road,Lillie Road,Heaton Road
+339,"In the London area, which road cannot directly reach Upper Richmond Road?",A,Thayer Street,Putney Hill,Putney High Street,West Hill
+340,"In the London area, which road cannot directly reach Putney High Street?",D,Putney Bridge Road,Lower Richmond Road,Upper Richmond Road,Shardeloes Road
+341,"In the London area, which road cannot directly reach Putney Hill?",A,Tooley Street,Tibbet's Ride,Wildcroft Road,Upper Richmond Road
+342,"In the London area, which road cannot directly reach Brondesbury Park?",A,Streatham Place,The Avenue,Salusbury Road,High Road
+343,"In the London area, which road cannot directly reach Chevening Road?",B,Tiverton Road,Petherton Road,Brondesbury Park,Salusbury Road
+344,"In the London area, which road cannot directly reach Winchester Avenue?",A,Shepherds Bush Green,Willesden Lane,Salusbury Road,Brondesbury Park
+345,"In the London area, which road cannot directly reach Great Western Road?",B,Elgin Avenue,Branch Road,Harrow Road,Westbourne Park Road
+346,"In the London area, which road cannot directly reach Mitre Road?",D,Warton Road,High Street,Manor Road,Devonshire Road
+347,"In the London area, which road cannot directly reach Warton Road?",B,Mitre Road,York Way,High Street,Montfichet Road
+348,"In the London area, which road cannot directly reach High Street?",A,Powerscroft Road,The Broadway,Warton Road,Bow Road
+349,"In the London area, which road directly reaches Old Church Street?",D,St. Botolph Street,Charles II Street,Lambeth Road,King's Road
+350,"In the London area, which road cannot directly reach Burbage Road?",A,York Street,Dulwich Village,Turney Road,Half Moon Lane
+351,"In the London area, which road cannot directly reach Belsize Road?",B,Loudoun Road,Lancaster Place,Hilgrove Road,Abbey Road
+352,"In the London area, which road cannot directly reach Seymour Place?",B,George Street,Midland Road,Marylebone Road,Lisson Grove
+353,"In the London area, which road cannot directly reach Lisson Grove?",A,Branch Road,Seymour Place,Rossmore Road,St John's Wood Road
+354,"In the London area, which road cannot directly reach Grove End Road?",C,Lisson Grove,St John's Wood Road,Buckhold Road,Wellington Road
+355,"In the London area, which road cannot directly reach Circus Road?",A,Vanbrugh Terrace,Wellington Road,Hall Road,Grove End Road
+356,"In the London area, which road cannot directly reach Christchurch Avenue?",B,Maygrove Road,Cedars Road,Shoot-up Hill,Kilburn High Road
+357,"In the London area, which road cannot directly reach Shoot-up Hill?",C,Christchurch Avenue,Maygrove Road,Westway,Kilburn High Road
+358,"In the London area, which road cannot directly reach Maygrove Road?",A,Portman Square,Iverson Road,Kilburn High Road,Shoot-up Hill
+359,"In the London area, which road cannot directly reach Abercorn Place?",C,Maida Vale,Abbey Road,Bridgend Road,Elgin Avenue
+360,"In the London area, which road cannot directly reach Claremont Square?",B,Penton Street,Cotton Street,Pentonville Road,Amwell Street
+361,"In the London area, which road cannot directly reach Lavender Hill?",D,Latchmere Road,Elspeth Road,Wandsworth Road,Balham Hill
+362,"In the London area, which road cannot directly reach Elspeth Road?",D,Lavender Hill,Clapham Common North Side,Latchmere Road,Deptford High Street
+363,"In the London area, which road cannot directly reach Connaught Street?",D,Connaught Square,Edgware Road,Hyde Park Street,Campden Hill Road
+364,"In the London area, which road cannot directly reach Upper Berkeley Street?",C,Portman Square,Gloucester Place,The Grove,Seymour Place
+365,"In the London area, which road cannot directly reach Sussex Gardens?",C,Edgware Road,Sussex Place,Bishop's Bridge,Spring Street
+366,"In the London area, which road cannot directly reach Old Marylebone Road?",A,Mildmay Road,Sussex Gardens,Marylebone Road,Edgware Road
+367,"In the London area, which road cannot directly reach Albany Road?",D,Rodney Road,Wells Way,Camberwell Road,Freemasons Road
+368,"In the London area, which road cannot directly reach Humphrey Street?",D,Old Kent Road,Albany Road,Mandela Way,St Leonard's Road
+369,"In the London area, which road cannot directly reach Old Kent Road?",D,Humphrey Street,Bricklayers Arms Roundabout,Bricklayers Arms Flyover,Lilford Road
+370,"In the London area, which road cannot directly reach Stepney Way?",A,Poole Road,New Road,Belgrave Street,Cavell Street
+371,"In the London area, which road cannot directly reach Sidney Street?",D,Whitechapel Road,Mile End Road,Stepney Way,Chevening Road
+372,"In the London area, which road cannot directly reach Graham Road?",D,Queensbridge Road,Dalston Lane,Mare Street,Pelham Street
+373,"In the London area, which road cannot directly reach Grosvenor Avenue?",D,Wallace Road,Blackstock Road,Newington Green Road,Rosendale Road
+374,"In the London area, which road cannot directly reach Wallace Road?",A,Grosvenor Crescent,Grosvenor Avenue,St. Paul's Road,Petherton Road
+375,"In the London area, which road cannot directly reach Petherton Road?",B,Grosvenor Avenue,Bloomsbury Street,Wallace Road,Green Lanes
+376,"In the London area, which road cannot directly reach Whitechapel Road?",A,Nine Elms Lane,White Church Lane,Vallance Road,Fieldgate Street
+377,"In the London area, which road cannot directly reach Mile End Road?",D,Burdett Road,Sidney Street,Stepney Green,Talgarth Road
+378,"In the London area, which road cannot directly reach Cambridge Heath Road?",D,Whitechapel Road,Old Ford Road,Roman Road,Victoria Street
+379,"In the London area, which road cannot directly reach Brixton Hill?",A,Camberwell Road,St. Matthew's Road,Brixton Water Lane,Brixton Road
+380,"In the London area, which road cannot directly reach Great Dover Street?",A,Mildmay Road,Long Lane,Borough High Street,Marshalsea Road
+381,"In the London area, which road cannot directly reach Marshalsea Road?",B,Great Dover Street,Iverson Road,Southwark Bridge Road,Borough High Street
+382,"In the London area, which road cannot directly reach Balaam Street?",D,Grange Road,Barking Road,High Street,Cranley Gardens
+383,"In the London area, which road cannot directly reach New Barn Street?",A,Chambers Lane,Balaam Street,Freemasons Road,Barking Road
+384,"In the London area, which road cannot directly reach Grove Road?",A,Cann Hall Road,Victoria Park Road,Roman Road,Lauriston Road
+385,"In the London area, which road cannot directly reach Burdett Road?",C,West India Dock Road,Mile End Road,Charles II Street,St Paul's Way
+386,"In the London area, which road cannot directly reach Herne Hill?",D,Denmark Hill,Norwood Road,Half Moon Lane,Garratt Lane
+387,"In the London area, which road cannot directly reach Denmark Hill?",D,Camberwell New Road,Coldharbour Lane,Sunray Avenue,West Smithfield
+388,"In the London area, which road cannot directly reach Herne Hill Road?",B,Denmark Hill,Theobalds Road,Herne Hill,Coldharbour Lane
+389,"In the London area, which road cannot directly reach Red Post Hill?",B,East Dulwich Grove,Montague Place,Denmark Hill,Herne Hill Road
+390,"In the London area, which road cannot directly reach Cann Hall Road?",D,Dames Road,High Road Leytonstone,Leytonstone Road,Tufnell Park Road
+391,"In the London area, which road cannot directly reach Dames Road?",C,Cann Hall Road,Harrow Road,Strand,Woodford Road
+392,"In the London area, which road cannot directly reach Lake House Road?",B,Cann Hall Road,Judd Street,Dames Road,Harrow Road
+393,"In the London area, which road cannot directly reach Chelsea Bridge?",D,Queen's Circus,Grosvenor Road,Chelsea Bridge Road,Mantle Road
+394,"In the London area, which road cannot directly reach Boleyn Road?",C,Kingsland High Street,Matthias Road,Sidney Street,Bradbury Street
+395,"In the London area, which road cannot directly reach Matthias Road?",C,Newington Green,Boleyn Road,Shoot-up Hill,Mildmay Road
+396,"In the London area, which road cannot directly reach Mildmay Road?",B,Boleyn Road,Marylebone Road,Crossway,Matthias Road
+397,"In the London area, which road cannot directly reach Bethnal Green Road?",B,Shoreditch High Street,Vernon Place,Brick Lane,Sclater Street
+398,"In the London area, which road cannot directly reach Vallance Road?",D,Dunbridge Street,Squirries Street,Bethnal Green Road,Loudoun Road
+399,"In the London area, which road cannot directly reach Squirries Street?",B,Bethnal Green Road,New King's Road,Hackney Road,Vallance Road
+400,"In the London area, which road cannot directly reach Cannon Street Road?",D,Cable Street,The Highway,Commercial Road,East India Dock Road Tunnel
+401,"In the London area, which road cannot directly reach Commercial Road?",A,Park Road,Whitechapel High Street,New Road,Burdett Road
+402,"In the London area, which road cannot directly reach New Road?",C,Whitechapel Road,Cannon Street Road,Clapham Common West Side,Stepney Way
+403,"In the London area, which road cannot directly reach Commercial Street?",C,Whitechapel High Street,Great Eastern Street,Lots Road,Shoreditch High Street
+404,"In the London area, which road cannot directly reach Great Eastern Street?",D,Commercial Street,Shoreditch High Street,Old Street,Evering Road
+405,"In the London area, which road cannot directly reach Shoreditch High Street?",C,Commercial Street,Kingsland Road,Lambeth Bridge,Old Street
+406,"In the London area, which road cannot directly reach Queenstown Road?",B,Broughton Street,Surrey Canal Road,Lavender Hill,Cedars Road
+407,"In the London area, which road cannot directly reach Cedars Road?",A,Lewisham High Street,Wandsworth Road,Clapham Common North Side,Queenstown Road
+408,"In the London area, which road cannot directly reach Loudoun Road?",C,Boundary Road,Grove End Road,Hornsey Road,Hilgrove Road
+409,"In the London area, which road directly reaches Dunbridge Street?",C,King Henry's Walk,Chiswell Street,Vallance Road,Branch Hill
+410,"In the London area, which road cannot directly reach East Dulwich Grove?",D,Dulwich Village,Townley Road,Village Way,Balham Hill
+411,"In the London area, which road cannot directly reach Village Way?",C,Red Post Hill,Half Moon Lane,Wrights Lane,Dulwich Village
+412,"In the London area, which road cannot directly reach Dulwich Village?",A,Bow Roundabout,College Road,Gallery Road,Red Post Hill
+413,"In the London area, which road cannot directly reach West End Lane?",D,Quex Road,Abbey Road,Lymington Road,Holland Road
+414,"In the London area, which road cannot directly reach Frognal Lane?",A,Clapham Common South Side,Frognal Rise,West End Lane,Frognal
+415,"In the London area, which road cannot directly reach Albert Bridge?",C,Parkgate Road,Albert Bridge Road,East Street,Oakley Street
+416,"In the London area, which road cannot directly reach Oakley Street?",A,Portman Square,Albert Bridge,Chelsea Embankment,King's Road
+417,"In the London area, which road directly reaches Stamford Street?",D,St Quintin Avenue,Imperial Street,Hyde Vale,Blackfriars Road
+418,"In the London area, which road cannot directly reach Blackfriars Road?",D,Westminster Bridge Road,Southwark Street,Stamford Street,Great Marlborough Street
+419,"In the London area, which road cannot directly reach Lambeth Road?",B,Albert Embankment,Adelaide Road,St George's Road,Lambeth Palace Road
+420,"In the London area, which road cannot directly reach Kennington Road?",D,Kennington Lane,Baylis Road,Westminster Bridge Road,Durham Street
+421,"In the London area, which road cannot directly reach Old Ford Road?",D,Bishops Way,Globe Road,Parnell Road,Park Street
+422,"In the London area, which road cannot directly reach Hyde Vale?",B,Royal Hill,Carlton Vale,Shooters Hill Road,Wat Tyler Road
+423,"In the London area, which road cannot directly reach Cassland Road?",A,Trinity Road,Kenworthy Road,Kenton Road,Lauriston Road
+424,"In the London area, which road cannot directly reach Wick Road?",D,Cassland Road,Kenton Road,Eastway,Ravensbourne Park
+425,"In the London area, which road cannot directly reach Kenworthy Road?",A,Gunter Grove,Homerton Road,Homerton High Street,Cassland Road
+426,"In the London area, which road cannot directly reach Woodgrange Road?",B,Forest Lane,Bloomsbury Street,Upton Lane,Woodford Road
+427,"In the London area, which road cannot directly reach Romford Road?",B,The Grove,Stratheden Parade,Broadway,Vicarage Lane
+428,"In the London area, which road cannot directly reach Baylis Road?",D,Kennington Road,Westminster Bridge Road,Waterloo Road,Albion Drive
+429,"In the London area, which road cannot directly reach Westminster Bridge Road?",D,Waterloo Road,Blackfriars Road,Borough Road,Chatsworth Road
+430,"In the London area, which road cannot directly reach Farringdon Road?",C,Farringdon Street,Rosebery Avenue,Newington Green,Charterhouse Street
+431,"In the London area, which road cannot directly reach Rosebery Avenue?",B,Tysoe Street,Sun Street,St. John Street,Clerkenwell Road
+432,"In the London area, which road cannot directly reach Charterhouse Street?",C,Lindsey Street,Farringdon Road,Bruce Road,Holborn
+433,"In the London area, which road cannot directly reach Pembury Road?",A,Great Dover Street,Lower Clapton Road,Amhurst Road,Dalston Lane
+434,"In the London area, which road cannot directly reach Hackney Road?",A,Rodney Road,Bishops Way,Squirries Street,Queensbridge Road
+435,"In the London area, which road cannot directly reach Bishops Way?",A,Berkshire Road,Old Ford Road,Hackney Road,Cambridge Heath Road
+436,"In the London area, which road directly reaches Kennington Lane?",A,Kennington Road,Herne Hill Road,Homerton High Street,Mount Street
+437,"In the London area, which road cannot directly reach Crownfield Road?",D,Leytonstone Road,Cann Hall Road,High Road Leyton,Highlever Road
+438,"In the London area, which road cannot directly reach Leytonstone Road?",D,Forest Lane,The Grove,Cann Hall Road,High Road
+439,"In the London area, which road cannot directly reach High Road Leytonstone?",B,Crownfield Road,Hammersmith Broadway,Cathall Road,Cann Hall Road
+440,"In the London area, which road cannot directly reach Kilburn Lane?",C,Banister Road,Chamberlayne Road,Englefield Road,Harrow Road
+441,"In the London area, which road cannot directly reach Ladbroke Grove?",D,Holland Park Avenue,Kilburn Lane,Westbourne Park Road,Walm Lane
+442,"In the London area, which road cannot directly reach Queen Victoria Street?",C,White Lion Hill,Puddle Dock,York Street,Queen Street
+443,"In the London area, which road cannot directly reach Roman Road?",A,Albion Road,Grove Road,Cambridge Heath Road,Globe Road
+444,"In the London area, which road cannot directly reach Sandringham Road?",D,Amhurst Road,St Mark's Rise,Kingsland High Street,Nelson Road
+445,"In the London area, which road cannot directly reach St Mark's Rise?",D,Downs Park Road,Dalston Lane,Sandringham Road,Junction Road
+446,"In the London area, which road cannot directly reach Guilford Street?",A,Durham Street,Calthorpe Street,Grenville Street,Gray's Inn Road
+447,"In the London area, which road cannot directly reach Calthorpe Street?",A,Penny Brookes Street,Farringdon Road,King's Cross Road,Guilford Street
+448,"In the London area, which road cannot directly reach Drayton Gardens?",B,Beaufort Street,Drummond Gate,Fulham Road,Old Brompton Road
+449,"In the London area, which road cannot directly reach Southampton Row?",A,St. Ann's Hill,High Holborn,Vernon Place,Russell Square
+450,"In the London area, which road cannot directly reach Vernon Place?",B,Bloomsbury Way,Wilton Road,Theobalds Road,Southampton Row
+451,"In the London area, which road cannot directly reach Camberwell Church Street?",D,Peckham High Street,Grove Lane,Camberwell New Road,Richmond Avenue
+452,"In the London area, which road cannot directly reach St John's Wood Road?",B,Wellington Road,Wimbledon Park Road,Lisson Grove,Maida Vale
+453,"In the London area, which road cannot directly reach Tower Bridge Approach?",A,Stratheden Road,East Smithfield,Mansell Street,Tower Bridge Road
+454,"In the London area, which road cannot directly reach Mansell Street?",A,Piccadilly Circus,Tower Hill,Tower Bridge Approach,Royal Mint Street
+455,"In the London area, which road cannot directly reach Tower Hill?",D,Tower Bridge Approach,East Smithfield,Shorter Street,Valentine Road
+456,"In the London area, which road cannot directly reach Norwood Road?",C,Dulwich Road,Herne Hill,Silvertown Tunnel Approach,Croxted Road
+457,"In the London area, which road cannot directly reach Half Moon Lane?",C,Norwood Road,Milkwood Road,Lancaster Place,Village Way
+458,"In the London area, which road cannot directly reach Dulwich Road?",A,Anson Road,Milkwood Road,Norwood Road,Half Moon Lane
+459,"In the London area, which road cannot directly reach Hampstead Road?",C,Euston Road,Robert Street,Prince Charles Road,Harrington Square
+460,"In the London area, which road cannot directly reach Tottenham Court Road?",D,Charing Cross Road,Oxford Street,Torrington Place,Bradbury Street
+461,"In the London area, which road cannot directly reach Clifton Road?",D,St John's Wood Road,Maida Vale,Warrington Crescent,Narrow Street
+462,"In the London area, which road cannot directly reach Murray Grove?",A,Marcilly Road,Shepherdess Walk,New North Road,East Road
+463,"In the London area, which road cannot directly reach East Road?",C,Murray Grove,Provost Street,Maddox Street,City Road
+464,"In the London area, which road cannot directly reach Bedford Square?",C,Gower Street,Bloomsbury Street,Buckhold Road,Great Russell Street
+465,"In the London area, which road cannot directly reach Great Russell Street?",D,Bedford Square,Bedford Place,Bloomsbury Street,Boundary Road
+466,"In the London area, which road cannot directly reach Bloomsbury Street?",A,Bridgend Road,Bedford Square,Shaftesbury Avenue,Great Russell Street
+467,"In the London area, which road directly reaches London Street?",D,Edgware Road,King's Cross Road,Vanbrugh Hill,Sussex Gardens
+468,"In the London area, which road cannot directly reach Sussex Place?",D,Hyde Park Street,Connaught Street,Sussex Gardens,Penton Street
+469,"In the London area, which road cannot directly reach New Park Road?",D,Atkins Road,Streatham Place,Brixton Hill,Lake House Road
+470,"In the London area, which road directly reaches Streatham Place?",C,Mare Street,King's Cross Bridge,Atkins Road,Tooley Street
+471,"In the London area, which road cannot directly reach Beech Street?",C,Long Lane,Aldersgate Street,Wat Tyler Road,Chiswell Street
+472,"In the London area, which road cannot directly reach Long Lane?",B,Aldersgate Street,Westcombe Hill,West Smithfield,Abbey Street
+473,"In the London area, which road cannot directly reach Aldersgate Street?",C,Gresham Street,Aldersgate Rotunda,Rosendale Road,Goswell Road
+474,"In the London area, which road directly reaches Park Street?",B,Belgrave Road,Portman Street,Tidal Basin Roundabout,Rochester Way Relief Road
+475,"In the London area, which road cannot directly reach Foxley Road?",D,Camberwell New Road,Elliott Road,Vassall Road,Randolph Street
+476,"In the London area, which road cannot directly reach Elliott Road?",B,Foxley Road,Winchester Avenue,Patmos Road,Vassall Road
+477,"In the London area, which road cannot directly reach Brixton Water Lane?",C,Brixton Hill,Tulse Hill,St Helens Gardens,Effra Road
+478,"In the London area, which road cannot directly reach Effra Road?",B,Morval Road,Tredegar Road,St. Matthew's Road,Brixton Water Lane
+479,"In the London area, which road directly reaches Tulse Hill?",B,Maddox Street,Effra Road,Cavendish Square,Honor Oak Road
+480,"In the London area, which road cannot directly reach Bath Street?",A,New Road,Lever Street,Bunhill Row,Shepherdess Walk
+481,"In the London area, which road cannot directly reach Shepherdess Walk?",D,City Road,Murray Grove,Bath Street,Leyton Road
+482,"In the London area, which road cannot directly reach Lothian Road?",B,Wyndham Road,Queen's Circus,Patmos Road,Akerman Road
+483,"In the London area, which road cannot directly reach Ebury Bridge Road?",C,Buckingham Palace Road,Chelsea Bridge Road,Old Broad Street,Warwick Way
+484,"In the London area, which road cannot directly reach Buckingham Palace Road?",D,Pimlico Road,Eccleston Bridge,Warwick Way,Albion Road
+485,"In the London area, which road directly reaches Lambeth Bridge?",B,Imperial Road,Horseferry Road,Jubilee Street,Blackwall Tunnel Approach
+486,"In the London area, which road directly reaches Priory Road?",C,Vesta Road,King Street,Abbey Road,Brompton Road
+487,"In the London area, which road cannot directly reach Sun Street?",C,Wilson Street,City Road,Ilderton Road,Chiswell Street
+488,"In the London area, which road cannot directly reach Finsbury Pavement?",D,Moorgate,City Road,South Place,Linden Grove
+489,"In the London area, which road cannot directly reach Chiswell Street?",C,City Road,Beech Street,Marloes Road,Finsbury Pavement
+490,"In the London area, which road cannot directly reach John Islip Street?",B,Bulinga Street,Addison Road,Marsham Street,Atterbury Street
+491,"In the London area, which road cannot directly reach Drummond Gate?",A,Central Street,Lupus Street,Belgrave Road,Vauxhall Bridge Road
+492,"In the London area, which road cannot directly reach New Oxford Street?",C,Museum Street,Earnshaw Street,Homerton Road,Charing Cross Road
+493,"In the London area, which road cannot directly reach Charing Cross Road?",A,Englefield Road,Oxford Street,St. Martin's Place,St. Martin's Lane
+494,"In the London area, which road cannot directly reach Dunton Road?",D,Southwark Park Road,Grange Road,Old Kent Road,Regent's Park Road
+495,"In the London area, which road cannot directly reach Mandela Way?",B,Dunton Road,Westminster Bridge,Rolls Road,Humphrey Street
+496,"In the London area, which road cannot directly reach Aldgate High Street?",C,Minories,St. Botolph Street,Vicarage Gate,Whitechapel High Street
+497,"In the London area, which road cannot directly reach Whitechapel High Street?",D,White Church Lane,St. Botolph Street,Commercial Road,Carlton Vale
+498,"In the London area, which road directly reaches Great Marlborough Street?",C,Harbour Avenue,Clapham Common South Side,Regent Street,Chamberlayne Road
+499,"In the London area, which road directly reaches Thayer Street?",C,College Crescent,Berkeley Square,Wigmore Street,Raymouth Road
+500,"In the London area, which road cannot directly reach Holborn Viaduct?",D,Charterhouse Street,New Fetter Lane,Holborn,Clifton Villas
+501,"In the London area, which road cannot directly reach Holborn?",B,Charterhouse Street,Belgrave Road,Holborn Viaduct,High Holborn
+502,"In the London area, which road cannot directly reach New Fetter Lane?",D,Fetter Lane,Holborn,Holborn Viaduct,Narrow Street
+503,"In the London area, which road cannot directly reach Porchester Road?",B,Westbourne Park Road,Uxbridge Road,Lord Hills Bridge,Bishop's Bridge Road
+504,"In the London area, which road cannot directly reach Water Lane?",C,Romford Road,Vicarage Lane,Meeting House Lane,Forest Lane
+505,"In the London area, which road cannot directly reach Vicarage Lane?",C,Water Lane,Plashet Road,Christchurch Avenue,Densham Road
+506,"In the London area, which road cannot directly reach Woburn Place?",B,Russell Square,Kenton Road,Torrington Place,Tavistock Square
+507,"In the London area, which road cannot directly reach Russell Square?",A,Monier Road,Montague Place,Bedford Place,Guilford Street
+508,"In the London area, which road cannot directly reach Manor Road?",C,Silvertown Way,Star Lane,Stanhope Gardens,Stephenson Street
+509,"In the London area, which road cannot directly reach Butcher Row?",A,Vanbrugh Park,Commercial Road,The Highway,Cable Street
+510,"In the London area, which road cannot directly reach Albert Embankment?",A,Portland Place,Bridgefoot,Lambeth Road,Lambeth Palace Road
+511,"In the London area, which road cannot directly reach Lambeth Palace Road?",A,Eltham Road,Albert Embankment,Lambeth Road,Westminster Bridge Road
+512,"In the London area, which road cannot directly reach West India Dock Road?",D,Burdett Road,Commercial Road,East India Dock Road,Major Road
+513,"In the London area, which road cannot directly reach High Holborn?",C,Kingsway,Holborn,Balham Hill,Drake Street
+514,"In the London area, which road directly reaches Stoke Newington Church Street?",D,East Street,Wells Way,Uxbridge Road,Green Lanes
+515,"In the London area, which road directly reaches Mildmay Grove South?",C,Tower Bridge Road,St Mark's Rise,Mildmay Park,Garnet Street
+516,"In the London area, which road cannot directly reach Tooley Street?",C,Queen Elizabeth Street,Bermondsey Street,Queensway,Tanner Street
+517,"In the London area, which road directly reaches King William Street?",C,Islington Green,James Street,Fish Street Hill,Twelvetrees Crescent
+518,"In the London area, which road directly reaches Lee Terrace?",C,Hancock Road,Dog Kennel Hill,Lee Road,Abercorn Place
+519,"In the London area, which road directly reaches Park Crescent?",B,Chapman Road,Marylebone Road,Vanbrugh Hill,East India Dock Road Tunnel
+520,"In the London area, which road cannot directly reach Pall Mall?",A,Farringdon Road,Waterloo Place,St. James's Street,Haymarket
+521,"In the London area, which road directly reaches Theberton Street?",D,Queen's Ride,Eccleston Street,Bradbury Street,Upper Street
+522,"In the London area, which road cannot directly reach Victoria Embankment?",C,Northumberland Avenue,Blackfriars Bridge,White Lion Hill,Queen Victoria Street
+523,"In the London area, which road cannot directly reach Frognal?",B,Frognal Rise,Holborn,Arkwright Road,Frognal Lane
+524,"In the London area, which road cannot directly reach Frognal Rise?",D,Branch Hill,Lower Terrace,Frognal,Hampstead Road
+525,"In the London area, which road cannot directly reach Arkwright Road?",B,Finchley Road,Grosvenor Crescent,Heath Street,Frognal
+526,"In the London area, which road cannot directly reach Heath Street?",A,Mill Lane,Arkwright Road,Rosslyn Hill,Fitzjohn's Avenue
+527,"In the London area, which road cannot directly reach Fitzjohn's Avenue?",A,Burnt Ash Hill,Arkwright Road,College Crescent,Heath Street
+528,"In the London area, which road cannot directly reach Wellington Road?",C,Circus Road,St John's Wood Road,Beckton Road,Finchley Road
+529,"In the London area, which road cannot directly reach Tredegar Road?",C,Parnell Road,Coborn Road,Shepherds Bush Road,Wick Lane
+530,"In the London area, which road directly reaches Fairfield Road?",D,Merton Road,White Post Lane,New Bridge Street,Bow Road
+531,"In the London area, which road cannot directly reach Globe Road?",D,Old Ford Road,Mile End Road,Roman Road,Provost Street
+532,"In the London area, which road directly reaches Champion Park?",A,Denmark Hill,Marylebone High Street,Commercial Road,Brockley Grove
+533,"In the London area, which road directly reaches Sunray Avenue?",B,Broomwood Road,Denmark Hill,Neathouse Place,Turner's Road
+534,"In the London area, which road cannot directly reach Knightsbridge?",C,Sloane Street,Queen's Gate,Oliver Road,Kensington Road
+535,"In the London area, which road cannot directly reach Mill Lane?",A,Lothian Road,Shoot-up Hill,Cricklewood Broadway,Lichfield Road
+536,"In the London area, which road cannot directly reach Gresham Street?",C,Moorgate,Princes Street,Holland Park Roundabout,Aldersgate Street
+537,"In the London area, which road cannot directly reach Princes Street?",C,Cheapside,Gresham Street,Clapham High Street,Moorgate
+538,"In the London area, which road directly reaches Burnt Ash Hill?",A,Manor Lane,Circus Road,Waterden Road,Royal Crescent
+539,"In the London area, which road directly reaches Manor Lane?",B,Stopford Road,Burnt Ash Hill,Bow Common Lane,Beckton Road
+540,"In the London area, which road cannot directly reach New Change?",D,Cannon Street,St. Martin's Le Grand,Newgate Street,Pall Mall
+541,"In the London area, which road directly reaches Friday Street?",C,Dartmouth Row,High Road,Cannon Street,Holborn
+542,"In the London area, which road cannot directly reach Aldgate?",B,Gracechurch Street,New Cross Road,Leadenhall Street,Aldgate High Street
+543,"In the London area, which road directly reaches Wildcroft Road?",B,Stepney Green,Putney Hill,Tibbet's Corner,Bromley High Street
+544,"In the London area, which road cannot directly reach New King's Road?",D,Putney Bridge Approach,Fulham High Street,Imperial Road,Islington Park Street
+545,"In the London area, which road cannot directly reach Putney Bridge Approach?",B,Fulham High Street,East Smithfield,Putney Bridge,New King's Road
+546,"In the London area, which road cannot directly reach Fulham High Street?",B,Putney Bridge Approach,Castlehaven Road,Fulham Palace Road,Fulham Road
+547,"In the London area, which road cannot directly reach Hammersmith Road?",D,Hammersmith Broadway,Kensington High Street,North End Road,Cloudesley Place
+548,"In the London area, which road cannot directly reach Kensington High Street?",B,Warwick Road,Newington Green Road,Wrights Lane,Earl's Court Road
+549,"In the London area, which road cannot directly reach Lillie Road?",A,Goodman's Yard,North End Road,Munster Road,Fulham Palace Road
+550,"In the London area, which road cannot directly reach Fulham Palace Road?",D,Lillie Road,Fulham Road,Talgarth Road,Queen Victoria Street
+551,"In the London area, which road cannot directly reach Earl's Court Road?",B,Pembroke Road,Inverness Terrace,Old Brompton Road,Kensington High Street
+552,"In the London area, which road cannot directly reach Westbourne Park Road?",A,St. Martin's Place,Chepstow Road,Ladbroke Grove,Great Western Road
+553,"In the London area, which road directly reaches Chesterton Road?",C,Palmer Place,Sandringham Road,Ladbroke Grove,Rossmore Road
+554,"In the London area, which road directly reaches Gunter Grove?",D,Hammersmith Broadway,Balham Hill,Tooley Street,Fulham Road
+555,"In the London area, which road directly reaches Redcliffe Gardens?",D,Alexandra Road,St. Ann's Hill,Marshalsea Road,Fulham Road
+556,"In the London area, which road cannot directly reach Cremorne Road?",C,Edith Grove,Lots Road,North Road,Cheyne Walk
+557,"In the London area, which road cannot directly reach St. Ann's Hill?",C,Earlsfield Road,Fairfield Street,Holland Park Roundabout,East Hill
+558,"In the London area, which road directly reaches Wimbledon Park Road?",A,Merton Road,Wimbledon Park Road,Mabledon Place,Thornhill Road
+559,"In the London area, which road directly reaches Buckhold Road?",A,Merton Road,Bridgefoot,Kensington High Street,Garden Row
+560,"In the London area, which road directly reaches Mapesbury Road?",B,Marsh Wall,Shoot-up Hill,Eccleston Bridge,Barking Road
+561,"In the London area, which road cannot directly reach Montpelier Row?",D,Prince Charles Road,Lee Road,Royal Parade,Victoria Street
+562,"In the London area, which road cannot directly reach Wood Lane?",C,Scrubs Lane,Shepherds Bush Green,Finsbury Pavement,Du Cane Road
+563,"In the London area, which road directly reaches South Africa Road?",A,Wood Lane,Waterloo Road,West Hill,Putney Bridge Road
+564,"In the London area, which road cannot directly reach Wrentham Avenue?",C,The Avenue,Tiverton Road,St Mark's Rise,Chamberlayne Road
+565,"In the London area, which road cannot directly reach Tiverton Road?",A,Vauxhall Bridge Road,Wrentham Avenue,Chevening Road,The Avenue
+566,"In the London area, which road cannot directly reach Sidmouth Road?",D,Brondesbury Park,Willesden Lane,Donnington Road,Cheyne Walk
+567,"In the London area, which road directly reaches Staverton Road?",A,Sidmouth Road,Talgarth Road,Combedale Road,Marylebone High Street
+568,"In the London area, which road cannot directly reach Torrington Place?",C,Tottenham Court Road,Gower Street,Oxford Street,Woburn Place
+569,"In the London area, which road directly reaches Lymington Road?",A,West End Lane,All Souls Avenue,Abbey Road,Valette Street
+570,"In the London area, which road cannot directly reach Warrington Crescent?",A,Southwark Street,Clifton Road,Sutherland Avenue,Warwick Avenue
+571,"In the London area, which road cannot directly reach Albert Bridge Road?",B,Prince of Wales Drive,Vere Street,Albert Bridge,Parkgate Road
+572,"In the London area, which road cannot directly reach Lombard Road?",B,York Road,Commercial Street,Battersea Church Road,Westbridge Road
+573,"In the London area, which road cannot directly reach Battersea Church Road?",C,Westbridge Road,Battersea Bridge Road,Royal Hill,Lombard Road
+574,"In the London area, which road directly reaches Parsons Green?",A,Parsons Green Lane,Palmer Place,Cricklewood Lane,Imperial Street
+575,"In the London area, which road cannot directly reach Bishop's Road?",B,Kelvedon Road,Hyde Park Place Bayswater Road,Homestead Road,Dawes Road
+576,"In the London area, which road cannot directly reach Homestead Road?",C,Dawes Road,Kelvedon Road,Parsons Green,Bishop's Road
+577,"In the London area, which road cannot directly reach Dawes Road?",D,Munster Road,Bishop's Road,Homestead Road,Addison Road
+578,"In the London area, which road cannot directly reach Boutflower Road?",D,Battersea Rise,Bolingbroke Grove,Strath Terrace,Shepherdess Walk
+579,"In the London area, which road directly reaches Worship Street?",B,Royal Parade,City Road,Bow Roundabout,St. Martin's Lane
+580,"In the London area, which road cannot directly reach Kentish Town Road?",B,Leighton Road,Hermit Road,Royal College Street,Prince of Wales Road
+581,"In the London area, which road cannot directly reach Castlehaven Road?",D,Camden High Street,Kentish Town Road,Chalk Farm Road,Charles II Street
+582,"In the London area, which road cannot directly reach Camden Road?",C,Royal College Street,Hillmarton Road,North Pole Road,Camden Street
+583,"In the London area, which road cannot directly reach Camden Street?",C,Crowndale Road,Camden Road,Lower Thames Street,Pratt Street
+584,"In the London area, which road directly reaches Camden Park Road?",B,Chatsworth Road,Camden Road,North Pole Road,Rectory Road
+585,"In the London area, which road directly reaches Torriano Avenue?",C,Crowndale Road,Swandon Way,Leighton Road,Imperial Street
+586,"In the London area, which road cannot directly reach Leighton Road?",A,Great Eastern Road,Kentish Town Road,Torriano Avenue,Brecknock Road
+587,"In the London area, which road cannot directly reach Brecknock Road?",B,Fortess Road,Maygrove Road,Leighton Road,Torriano Avenue
+588,"In the London area, which road directly reaches South Audley Street?",B,Rectory Road,Grosvenor Square,Camden Park Road,Holywell Lane
+589,"In the London area, which road directly reaches Curzon Street?",C,Gordon House Road,Oakley Square,South Audley Street,Hancock Road
+590,"In the London area, which road directly reaches Golden Lane?",B,Garden Row,Old Street,Patmos Road,Honor Oak Park
+591,"In the London area, which road cannot directly reach Hardwick Street?",B,Rosebery Avenue,Heath Street,Claremont Square,Amwell Street
+592,"In the London area, which road cannot directly reach Amwell Street?",D,Hardwick Street,Claremont Square,Rosebery Avenue,Swinton Street
+593,"In the London area, which road cannot directly reach Dog Kennel Hill?",D,Lordship Lane,East Dulwich Road,Grove Lane,Sloane Avenue
+594,"In the London area, which road cannot directly reach Lordship Lane?",B,Townley Road,Welbeck Street,East Dulwich Grove,Barry Road
+595,"In the London area, which road directly reaches Hanover Street?",B,White Horse Lane,Oxford Street,Champion Park,New Kent Road
+596,"In the London area, which road directly reaches Finborough Road?",D,Holywell Lane,Silverthorne Road,Stepney Green,Old Brompton Road
+597,"In the London area, which road cannot directly reach Forest Hill Road?",D,Wood Vale,Homestall Road,Honor Oak Road,Wansbeck Road
+598,"In the London area, which road cannot directly reach Honor Oak Park?",D,Brockley Road,Devonshire Road,Honor Oak Road,Hammersmith Flyover
+599,"In the London area, which road directly reaches Honor Oak Road?",C,Strand,Eagle Wharf Road,Honor Oak Park,Chippenham Road
+600,"In the London area, which road directly reaches Devonshire Road?",C,Bruton Street,Magdalen Road,Honor Oak Park,South Africa Road
+601,"In the London area, which road directly reaches Weigall Road?",D,Chevening Road,Grosvenor Street,Kensington High Street,Kidbrooke Park Road
+602,"In the London area, which road directly reaches Rectory Road?",B,Dartmouth Row,Amhurst Road,Ebury Bridge Road,Robert Street
+603,"In the London area, which road cannot directly reach Broomwood Road?",D,The Avenue,Northcote Road,Bolingbroke Grove,Bolton Street
+604,"In the London area, which road directly reaches Lower Terrace?",C,Bernard Street,Albany Street,Frognal Rise,Streatham Place
+605,"In the London area, which road directly reaches Branch Hill?",A,Frognal Rise,Wandsworth Bridge Road,Bowyer Place,Durham Street
+606,"In the London area, which road cannot directly reach John Ruskin Street?",C,Camberwell Road,Walworth Road,Pentonville Road,Camberwell New Road
+607,"In the London area, which road cannot directly reach Walworth Road?",C,John Ruskin Street,Heygate Street,Portman Square,Camberwell Road
+608,"In the London area, which road directly reaches Lilford Road?",A,Loughborough Road,Bow Flyover,Lewisham Way,Midland Road
+609,"In the London area, which road directly reaches Atlantic Road?",D,Marshall Road,Leamouth Roundabout,Rosendale Road,Brixton Road
+610,"In the London area, which road cannot directly reach Eaton Square?",A,Wood Vale,Eccleston Street,Grosvenor Gardens,Sloane Square
+611,"In the London area, which road directly reaches Eccleston Street?",A,Eaton Square,Wells Way,Poole Road,Battersea Park Road
+612,"In the London area, which road directly reaches Eccleston Bridge?",A,Buckingham Palace Road,Mead Place,Shirley Street,Ilderton Road
+613,"In the London area, which road directly reaches Vere Street?",D,Elephant and Castle,Camden Street,Redriff Road,Oxford Street
+614,"In the London area, which road directly reaches Fetter Lane?",D,Hyde Park Street,Molesworth Street,Sloane Street,Fleet Street
+615,"In the London area, which road cannot directly reach Queensway?",A,Peckham Park Road,Westbourne Grove,Inverness Place,Bishop's Bridge Road
+616,"In the London area, which road directly reaches Belsize Avenue?",A,College Crescent,Coborn Road,Druid Street,Theobalds Road
+617,"In the London area, which road cannot directly reach Haverstock Hill?",B,Prince of Wales Road,Broughton Street,Primrose Hill Road,Parkhill Road
+618,"In the London area, which road directly reaches Parkhill Road?",D,Twelvetrees Crescent,Eccleston Bridge,Lansdowne Drive,Haverstock Hill
+619,"In the London area, which road cannot directly reach Brockley Road?",C,Brockley Grove,Wickham Road,Nuttall Street,Stondon Park
+620,"In the London area, which road cannot directly reach Adelaide Avenue?",C,Brockley Grove,Ladywell Road,Duke of Wellington Place,Brockley Road
+621,"In the London area, which road cannot directly reach Wickham Road?",C,Brockley Cross,Lewisham Way,Mildmay Grove North,Brockley Road
+622,"In the London area, which road cannot directly reach Stondon Park?",B,Honor Oak Park,Huguenot Place,Brockley Rise,Brockley Road
+623,"In the London area, which road cannot directly reach Brockley Grove?",D,Ravensbourne Park,Brockley Road,Ladywell Road,Lower Sloane Street
+624,"In the London area, which road cannot directly reach North Side Wandsworth Common?",C,Marcilly Road,Windmill Road,Deals Gateway,Battersea Rise
+625,"In the London area, which road cannot directly reach York Road?",D,Lombard Road,Westminster Bridge Road,Battersea Park Road,Lower Sloane Street
+626,"In the London area, which road cannot directly reach Falcon Road?",D,Battersea Park Road,Grant Road,York Road,Upper Thames Street
+627,"In the London area, which road cannot directly reach Stepney Green?",A,Battersea Rise,Mile End Road,St Paul's Way,White Horse Lane
+628,"In the London area, which road cannot directly reach Stepney High Street?",C,St Paul's Way,Stepney Way,Victoria Street,Belgrave Street
+629,"In the London area, which road cannot directly reach Belgrave Street?",B,Stepney Way,Park Street,Stepney High Street,Turner's Road
+630,"In the London area, which road directly reaches White Horse Lane?",A,Stepney Green,Hither Green Lane,Wood Vale,Barry Road
+631,"In the London area, which road cannot directly reach North Pole Road?",B,Scrubs Lane,Romford Road,Wood Lane,St Quintin Avenue
+632,"In the London area, which road directly reaches Scrubs Lane?",C,Inverness Terrace,St Paul's Way,Wood Lane,Parliament Street
+633,"In the London area, which road cannot directly reach Garnet Street?",A,High Road Leyton,The Highway,Wapping High Street,Wapping Wall
+634,"In the London area, which road cannot directly reach Hyde Park Place Bayswater Road?",A,Lower Clapton Road,Westbourne Street,Hyde Park Street,Bayswater Road
+635,"In the London area, which road cannot directly reach Hyde Park Street?",B,Connaught Street,Blackwall Lane,Sussex Place,Hyde Park Place Bayswater Road
+636,"In the London area, which road cannot directly reach Manchester Road?",A,Shepherdess Walk,Westferry Road,East Ferry Road,Marsh Wall
+637,"In the London area, which road cannot directly reach East Ferry Road?",C,Limeharbour,Manchester Road,Hermit Road,Prestons Road
+638,"In the London area, which road cannot directly reach Westferry Road?",A,New Oxford Street,Manchester Road,East Ferry Road,West India Dock Road
+639,"In the London area, which road directly reaches Spindrift Avenue?",A,East Ferry Road,Harrington Road,Platt's Lane,Westway
+640,"In the London area, which road directly reaches Limehouse Link?",B,Green Lanes,Butcher Row,Skinner Street,Gloucester Avenue
+641,"In the London area, which road cannot directly reach Lots Road?",C,King's Road,Cremorne Road,Avenue Road,Cheyne Walk
+642,"In the London area, which road directly reaches Edith Grove?",B,Moorgate,Cremorne Road,Westbourne Terrace,Brondesbury Road
+643,"In the London area, which road cannot directly reach Rotherhithe New Road?",D,St James's Road,Ilderton Road,Catlin Street,Herne Hill Road
+644,"In the London area, which road cannot directly reach Hawkstone Road?",A,Acton Street,Rotherhithe New Road,Lower Road,Rotherhithe Old Road
+645,"In the London area, which road cannot directly reach Evelyn Street?",B,Grinstead Road,Chevening Road,Oxestalls Road,Creek Road
+646,"In the London area, which road directly reaches Oxestalls Road?",C,Mansell Street,Westbourne Street,Evelyn Street,Wood Vale
+647,"In the London area, which road cannot directly reach Grove Street?",A,St. Margaret Street,Oxestalls Road,Evelyn Street,Lower Road
+648,"In the London area, which road cannot directly reach Trundley's Road?",D,Grinstead Road,Bush Road,Bestwood Street,Arkwright Road
+649,"In the London area, which road directly reaches Grinstead Road?",C,Leman Street,Druid Street,Evelyn Street,Marshgate Lane
+650,"In the London area, which road cannot directly reach Salter Road?",C,Redriff Road,Rotherhithe Street,Wildcroft Road,Brunel Road
+651,"In the London area, which road cannot directly reach Redriff Road?",D,Rotherhithe Street,Surrey Quays Road,Salter Road,Agar Grove
+652,"In the London area, which road cannot directly reach Rotherhithe Street?",C,Redriff Road,Salter Road,Bishop's Road,Brunel Road
+653,"In the London area, which road directly reaches Jubilee Street?",A,Commercial Road,Frognal Rise,Sydney Place,St. Pancras Way
+654,"In the London area, which road directly reaches Chepstow Villas?",C,Hornton Street,Rotherhithe Old Road,Kensington Park Road,Rolls Road
+655,"In the London area, which road directly reaches Townley Road?",B,Upper Thames Street,East Dulwich Grove,Pembury Road,King's Avenue
+656,"In the London area, which road cannot directly reach St Helens Gardens?",C,St Anns Villas,Lancaster Road,St Leonard's Street,St Quintin Avenue
+657,"In the London area, which road cannot directly reach St Quintin Avenue?",D,Cambridge Gardens,St Helens Gardens,Highlever Road,Lea Bridge Road
+658,"In the London area, which road cannot directly reach St Anns Villas?",C,Royal Crescent,St Helens Gardens,Grenville Street,Lancaster Road
+659,"In the London area, which road cannot directly reach Lancaster Road?",C,St Helens Gardens,St Anns Villas,Dartmouth Row,Ladbroke Grove
+660,"In the London area, which road directly reaches Cambridge Gardens?",D,Marloes Road,Wimbledon Park Road,Brunswick Road,Ladbroke Grove
+661,"In the London area, which road cannot directly reach Goffers Road?",C,Hare and Billet Road,Shooters Hill Road,East Ferry Road,Tranquil Vale
+662,"In the London area, which road cannot directly reach Tranquil Vale?",B,Royal Parade,Goods Way,Goffers Road,Hare and Billet Road
+663,"In the London area, which road cannot directly reach Forest Lane?",C,Leytonstone Road,Water Lane,Parnell Road,Woodgrange Road
+664,"In the London area, which road cannot directly reach Prince of Wales Drive?",D,Albert Bridge Road,Queen's Circus,Battersea Park Road,York Road
+665,"In the London area, which road cannot directly reach Marsh Wall?",D,East Ferry Road,Manchester Road,Limeharbour,Surrey Canal Road
+666,"In the London area, which road cannot directly reach Prestons Road?",A,Chatsworth Road,East Ferry Road,Marsh Wall,Cotton Street
+667,"In the London area, which road directly reaches Leamouth Road?",A,East India Dock Road,The Grove,Gray's Inn Road,High Street
+668,"In the London area, which road cannot directly reach Praed Street?",A,Cannon Street Road,Sale Place,Craven Road,Edgware Road
+669,"In the London area, which road directly reaches Abbeville Road?",C,Theobalds Road,Bricklayers Arms,Cavendish Road,Cathall Road
+670,"In the London area, which road directly reaches Grant Road?",C,Westbourne Park Road,Brixton Road,Plough Road,Pomeroy Street
+671,"In the London area, which road cannot directly reach Bow Road?",C,Fairfield Road,Campbell Road,Mare Street,Mile End Road
+672,"In the London area, which road directly reaches Campbell Road?",D,Blackwall Tunnel Approach,Parkgate Road,Thayer Street,Devons Road
+673,"In the London area, which road cannot directly reach Great Eastern Road?",B,High Street,Clerkenwell Road,Broadway,Leyton Road
+674,"In the London area, which road cannot directly reach The Grove?",B,Romford Road,Rotherhithe Old Road,Great Eastern Road,Broadway
+675,"In the London area, which road cannot directly reach Homestall Road?",B,Peckham Rye,John Ruskin Street,Forest Hill Road,Brockley Way
+676,"In the London area, which road cannot directly reach Kidbrooke Park Road?",D,Shooters Hill Road,Weigall Road,Sidcup Road,Old Ford Road
+677,"In the London area, which road directly reaches Sidcup Road?",B,Brixton Water Lane,Kidbrooke Park Road,Lupus Street,Grange Road
+678,"In the London area, which road cannot directly reach Bruce Road?",C,Devons Road,St Leonard's Street,Osnaburgh Terrace,Devas Street
+679,"In the London area, which road cannot directly reach Devas Street?",C,Devons Road,Twelvetrees Crescent,Rosendale Road,Blackwall Tunnel Northern Approach
+680,"In the London area, which road directly reaches Morris Road?",B,London Road,Devons Road,Fitzjohn's Avenue,Burbage Road
+681,"In the London area, which road cannot directly reach Shardeloes Road?",B,Lewisham Way,Craven Road,Amersham Road,Endwell Road
+682,"In the London area, which road cannot directly reach Endwell Road?",D,Mantle Road,Brockley Cross,Drakefell Road,Cadogan Gardens
+683,"In the London area, which road cannot directly reach Lewisham Hill?",C,Dartmouth Row,Wat Tyler Road,Lancaster Road,Lewisham Road
+684,"In the London area, which road cannot directly reach Dartmouth Row?",B,Dartmouth Hill,Eagle Wharf Road,Lewisham Hill,Wat Tyler Road
+685,"In the London area, which road directly reaches Norman Road?",A,Greenwich High Road,Talgarth Road,Shepherds Bush Green,Brockley Rise
+686,"In the London area, which road cannot directly reach Creek Road?",D,Norman Road,Evelyn Street,Greenwich Church Street,Grosvenor Crescent
+687,"In the London area, which road directly reaches Thomas Road?",D,Hornsey Road,Redriff Road,High Road Leytonstone,Burdett Road
+688,"In the London area, which road directly reaches Ravensbourne Park?",C,Chatham Place,North Side Wandsworth Common,Brockley Grove,Willesden Lane
+689,"In the London area, which road cannot directly reach Kensington Road?",B,Gloucester Road,Blackheath Road,Queen's Gate,Kensington High Street
+690,"In the London area, which road cannot directly reach Brockley Way?",A,Victoria Dock Road,Avignon Road,Homestall Road,Peckham Rye
+691,"In the London area, which road directly reaches Brenchley Gardens?",D,Grinstead Road,North Pole Road,Barking Road,Brockley Way
+692,"In the London area, which road directly reaches Wapping Lane?",A,The Highway,Provost Street,Lee Terrace,Boutflower Road
+693,"In the London area, which road directly reaches Ponsford Street?",C,Chiswell Street,Elgin Avenue,Homerton High Street,Chevening Road
+694,"In the London area, which road cannot directly reach Terrace Road?",B,Church Crescent,Lee Conservancy Road,Cassland Road,Valentine Road
+695,"In the London area, which road cannot directly reach Valentine Road?",A,Wat Tyler Road,Poole Road,Kenton Road,Terrace Road
+696,"In the London area, which road cannot directly reach Poole Road?",D,Valentine Road,Well Street,Cassland Road,Tysoe Street
+697,"In the London area, which road cannot directly reach Eastway?",A,Grafton Way,Chapman Road,Lee Conservancy Road,Wick Road
+698,"In the London area, which road cannot directly reach Chapman Road?",A,Birdcage Walk,Eastway,Felstead Street,Wick Road
+699,"In the London area, which road directly reaches Imperial Road?",C,Fitzjohn's Avenue,Horseferry Road,New King's Road,Ilderton Road
+700,"In the London area, which road directly reaches Harbour Avenue?",C,Lichfield Road,Bolton Street,Townmead Road,Albany Road
+701,"In the London area, which road cannot directly reach Wick Lane?",A,Akerman Road,Wick Road,Jodrell Road,Monier Road
+702,"In the London area, which road cannot directly reach Highbury Grove?",B,St. Paul's Road,Park Street,Grosvenor Avenue,Blackstock Road
+703,"In the London area, which road directly reaches Blackstock Road?",B,Butcher Row,Grosvenor Avenue,Lewisham Road,Edgware Road
+704,"In the London area, which road directly reaches Montague Street?",B,Eversholt Street,Russell Square,Wakley Street,Richmond Avenue
+705,"In the London area, which road directly reaches Surrey Quays Road?",C,Mill Lane,Chancery Lane,Lower Road,Amersham Road
+706,"In the London area, which road cannot directly reach Ilderton Road?",A,Albert Embankment,Rotherhithe New Road,Surrey Canal Road,Old Kent Road
+707,"In the London area, which road directly reaches Surrey Canal Road?",C,Grenville Street,Brockley Way,Trundley's Road,Waterloo Place
+708,"In the London area, which road cannot directly reach Southampton Way?",B,Bowyer Place,Putney High Street,Peckham High Street,Commercial Way
+709,"In the London area, which road directly reaches Goldsmith Road?",A,Peckham Hill Street,Old Kent Road,Copeland Road,Great Queen Street
+710,"In the London area, which road cannot directly reach Drakefell Road?",A,Priory Road,Endwell Road,Avignon Road,Evelina Road
+711,"In the London area, which road cannot directly reach Evelina Road?",B,Kimberley Avenue,Canonbury Square,Nunhead Lane,Lausanne Road
+712,"In the London area, which road cannot directly reach New Cross Road?",A,Fieldgate Street,Pagnell Street,Old Kent Road,Lewisham Way
+713,"In the London area, which road directly reaches Hornsey Road?",A,Isledon Road,King Henry's Walk,Norton Folgate,Lever Street
+714,"In the London area, which road cannot directly reach Holloway Road?",B,Tollington Road,Pratt Street,Liverpool Road,Highbury Corner
+715,"In the London area, which road directly reaches Torridon Road?",D,Spring Street,Lothian Road,York Way,Hither Green Lane
+716,"In the London area, which road directly reaches Hither Green Lane?",C,Great West Road,Harleyford Road,Lewisham High Street,Falcon Road
+717,"In the London area, which road cannot directly reach Fulham Broadway?",C,Fulham Road,North End Road,Orient Way,Harwood Road
+718,"In the London area, which road directly reaches Kilburn Priory?",C,Trafalgar Square,Poynders Road,Kilburn High Road,Manor Lane
+719,"In the London area, which road cannot directly reach Clapham High Street?",D,Clapham Common South Side,The Pavement,Clapham Park Road,Kenworthy Road
+720,"In the London area, which road cannot directly reach Parnell Road?",A,Holloway Road,Jodrell Road,Tredegar Road,Old Ford Road
+721,"In the London area, which road cannot directly reach Jodrell Road?",C,Old Ford Road,Parnell Road,Shacklewell Lane,Wick Lane
+722,"In the London area, which road directly reaches Monier Road?",C,Farringdon Street,Ravensbourne Park,Wansbeck Road,Regent's Park Road
+723,"In the London area, which road cannot directly reach St. Pancras Way?",B,Crowndale Road,Nelson Road,Pancras Road,Camden Road
+724,"In the London area, which road cannot directly reach Felstead Street?",D,Osborne Road,Chapman Road,Berkshire Road,Platt's Lane
+725,"In the London area, which road cannot directly reach Osborne Road?",A,Bermondsey Street,Eastway,Berkshire Road,Felstead Street
+726,"In the London area, which road cannot directly reach Berkshire Road?",C,Felstead Street,Chapman Road,Chalk Farm Road,Osborne Road
+727,"In the London area, which road cannot directly reach Crowndale Road?",C,Pancras Road,St. Pancras Way,Great West Road,Oakley Square
+728,"In the London area, which road cannot directly reach Rodney Road?",B,Rodney Place,Palace Gardens Terrace,Heygate Street,Albany Road
+729,"In the London area, which road cannot directly reach Heygate Street?",B,Rodney Road,Rotherhithe New Road,Rodney Place,Walworth Road
+730,"In the London area, which road cannot directly reach Rodney Place?",A,Gallery Road,Heygate Street,Rodney Road,New Kent Road
+731,"In the London area, which road cannot directly reach Clifton Villas?",B,Westbourne Terrace Road,Elsdale Street,Bristol Gardens,Warwick Avenue
+732,"In the London area, which road cannot directly reach Westbourne Terrace Road?",D,Clifton Villas,Formosa Street,Harrow Road,Hornsey Road
+733,"In the London area, which road directly reaches Barry Road?",B,West India Dock Road,Lordship Lane,Camden High Street,Moorgate
+734,"In the London area, which road directly reaches Old Broad Street?",D,Percival Street,Albert Embankment,Frognal Lane,London Wall
+735,"In the London area, which road cannot directly reach St Norbert Road?",A,Fulham High Street,St Asaph Road,Mantle Road,Brockley Way
+736,"In the London area, which road cannot directly reach Mantle Road?",D,Endwell Road,St Asaph Road,St Norbert Road,Chelsea Embankment
+737,"In the London area, which road cannot directly reach Wrights Lane?",A,Loudoun Road,Cromwell Road,Marloes Road,Kensington High Street
+738,"In the London area, which road cannot directly reach Kensington Church Street?",D,Kensington High Street,Kensington Road,Notting Hill Gate,Belsize Avenue
+739,"In the London area, which road directly reaches Vicarage Gate?",C,Norman Road,Kensington High Street,Kensington Church Street,Great Portland Street
+740,"In the London area, which road cannot directly reach Cable Street?",A,Lewis Grove,Butcher Row,Leman Street,Royal Mint Street
+741,"In the London area, which road directly reaches Seagull Lane?",B,Broomwood Road,Western Gateway,Cranley Gardens,Great West Road
+742,"In the London area, which road cannot directly reach Tidal Basin Road?",D,Silvertown Way,Seagull Lane,Tidal Basin Roundabout,Wells Way
+743,"In the London area, which road directly reaches Royal Hill?",A,Greenwich High Road,Vicarage Lane,Sydney Place,Campden Hill Road
+744,"In the London area, which road cannot directly reach Greenwich High Road?",A,Robert Street,Greenwich South Street,Greenwich Church Street,Royal Hill
+745,"In the London area, which road cannot directly reach Trafalgar Road?",A,Cumberland Gate,Blackwall Lane,Maze Hill,Greenwich Church Street
+746,"In the London area, which road cannot directly reach Ruckholt Road?",D,Marshall Road,High Road Leyton,Homerton Road,Newington Butts
+747,"In the London area, which road cannot directly reach High Road Leyton?",A,Chiswell Street,Major Road,Crownfield Road,Temple Mills Lane
+748,"In the London area, which road cannot directly reach Heaton Road?",D,Copeland Road,Rye Lane,Consort Road,Spencer Street
+749,"In the London area, which road cannot directly reach Copeland Road?",A,Wells Way,Consort Road,Rye Lane,Clayton Road
+750,"In the London area, which road cannot directly reach Rye Lane?",C,Peckham Rye,Copeland Road,Ram Street,Heaton Road
+751,"In the London area, which road directly reaches Pagnell Street?",A,New Cross Road,Fulham Broadway,Gloucester Terrace,Vanbrugh Park
+752,"In the London area, which road directly reaches Edward Street?",A,Pagnell Street,Lansdowne Drive,Albion Drive,Wimbledon Park Road
+753,"In the London area, which road directly reaches Harrow Green?",C,Grant Road,Wells Way,Harrow Road,Bath Street
+754,"In the London area, which road cannot directly reach Gibbon Road?",B,Oakdale Road,Hare and Billet Road,Evelina Road,Kimberley Avenue
+755,"In the London area, which road cannot directly reach Kimberley Avenue?",B,Evelina Road,Mortimer Street,Nunhead Lane,Oakdale Road
+756,"In the London area, which road directly reaches Peckham Park Road?",A,Old Kent Road,West Smithfield,Leadenhall Street,Maze Hill
+757,"In the London area, which road cannot directly reach Newington Butts?",B,Kennington Park Road,Rossmore Road,Elephant and Castle,Kennington Road
+758,"In the London area, which road cannot directly reach The Pavement?",D,Long Road,Clapham Park Road,Clapham High Street,Fish Street Hill
+759,"In the London area, which road cannot directly reach Clapham Common South Side?",C,Balham Hill,The Pavement,Chelsea Embankment,Cavendish Road
+760,"In the London area, which road cannot directly reach Plaistow Road?",C,New Plaistow Road,Upper Road,Chelsea Embankment,Manor Road
+761,"In the London area, which road cannot directly reach Upper Road?",C,High Street,Star Lane,Tysoe Street,Hermit Road
+762,"In the London area, which road cannot directly reach Star Lane?",C,Manor Road,Upper Road,Kenton Road,Hermit Road
+763,"In the London area, which road directly reaches The Broadway?",A,High Street,Great Windmill Street,Celebration Avenue,Shirley Street
+764,"In the London area, which road cannot directly reach Stephenson Street?",D,East India Dock Road,Bidder Street,Manor Road,Queensbridge Road
+765,"In the London area, which road directly reaches Cody Road?",B,Kilburn High Road,Stephenson Street,Great Eastern Street,Vicarage Gate
+766,"In the London area, which road directly reaches St Leonard's Street?",B,Temple Mills Lane,Bruce Road,Celebration Avenue,Fernhead Road
+767,"In the London area, which road cannot directly reach Offord Road?",C,Thornhill Road,Westbourne Road,Pont Street,Caledonian Road
+768,"In the London area, which road directly reaches Westbourne Road?",A,Mackenzie Road,Heaton Road,Redcliffe Gardens,Upper Berkeley Street
+769,"In the London area, which road cannot directly reach Bedford Place?",C,Great Russell Street,Bloomsbury Square,Clapham Common North Side,Russell Square
+770,"In the London area, which road cannot directly reach Bloomsbury Square?",B,Great Russell Street,Gaunt Street,Southampton Row,Bedford Place
+771,"In the London area, which road cannot directly reach Victoria Dock Road?",D,Caxton Street North,Peto Street North,Freemasons Road,Merton Road
+772,"In the London area, which road cannot directly reach Peto Street North?",A,Baylis Road,Caxton Street North,Victoria Dock Road,Silvertown Way
+773,"In the London area, which road directly reaches Caxton Street North?",A,Peto Street North,Cleveland Street,Piccadilly,Wigmore Street
+774,"In the London area, which road cannot directly reach Wimpole Street?",C,New Cavendish Street,Weymouth Street,Shepherds Bush Road,Wigmore Street
+775,"In the London area, which road cannot directly reach Harley Street?",C,Cavendish Square,Weymouth Street,Tidal Basin Road,New Cavendish Street
+776,"In the London area, which road cannot directly reach Cavendish Square?",A,St Georges Road,Cavendish Place,Harley Street,Wigmore Street
+777,"In the London area, which road cannot directly reach Fortess Road?",D,Tufnell Park Road,Highgate Road,Kentish Town Road,Rolls Road
+778,"In the London area, which road cannot directly reach Highgate Road?",C,Fortess Road,Kentish Town Road,Putney High Street,Gordon House Road
+779,"In the London area, which road directly reaches Thornhill Road?",C,Great Russell Street,Premier Corner,Richmond Avenue,Wimbledon Park Road
+780,"In the London area, which road cannot directly reach Turner's Road?",B,White Horse Road,New Plaistow Road,St Paul's Way,Belgrave Street
+781,"In the London area, which road directly reaches Lord Hills Bridge?",C,King Henry's Walk,Upper Thames Street,Harrow Road,Cotton Street
+782,"In the London area, which road cannot directly reach Dartmouth Park Hill?",A,Tidal Basin Roundabout,Tufnell Park Road,Fortess Road,Junction Road
+783,"In the London area, which road directly reaches Junction Road?",C,De Beauvoir Road,Osborn Street,Dartmouth Park Hill,Cleve Road
+784,"In the London area, which road cannot directly reach Nightingale Lane?",A,Beckton Road,Clapham Common South Side,Bolingbroke Grove,Bellevue Road
+785,"In the London area, which road directly reaches Bellevue Road?",A,Bolingbroke Grove,Old Broad Street,Blackfriars Underpass,Half Moon Lane
+786,"In the London area, which road directly reaches Curtain Road?",D,Aldersgate Street,Bruce Road,Cleveland Street,Great Eastern Street
+787,"In the London area, which road directly reaches Banister Road?",B,Molesworth Street,Chamberlayne Road,Piccadilly Circus,Jodrell Road
+788,"In the London area, which road cannot directly reach Densham Road?",B,New Plaistow Road,Craven Road,Vicarage Lane,Plashet Road
+789,"In the London area, which road directly reaches Limeharbour?",C,Rochester Way Relief Road,Parkhurst Road,Marsh Wall,Shorter Street
+790,"In the London area, which road directly reaches Chapter Road?",B,East Ferry Road,Park Avenue,Kentish Town Road,Woburn Place
+791,"In the London area, which road directly reaches Lee Conservancy Road?",D,Whitehall,New Road,Eltham Road,Homerton Road
+792,"In the London area, which road cannot directly reach Homerton Road?",D,Eastway,Kenworthy Road,Lee Conservancy Road,Leyton Road
+793,"In the London area, which road directly reaches Northcote Road?",D,Westbourne Park Road,Leinster Terrace,Rotherhithe Old Road,Broomwood Road
+794,"In the London area, which road cannot directly reach Kenton Road?",A,Curtain Road,Morning Lane,Wick Road,Valentine Road
+795,"In the London area, which road cannot directly reach West Hill?",B,Merton Road,Beckton Road,Wandsworth High Street,Upper Richmond Road
+796,"In the London area, which road directly reaches Vesta Road?",A,Pepys Road,Tanner Street,Evelyn Street,Shepherds Bush Road
+797,"In the London area, which road cannot directly reach Woolwich Road?",C,Vanbrugh Hill,Peartree Way,Farringdon Road,Combedale Road
+798,"In the London area, which road directly reaches Blackwall Lane?",B,Battersea Park Road,Trafalgar Road,Osborn Street,Mansell Street
+799,"In the London area, which road directly reaches Vanbrugh Hill?",D,Star Lane,Holland Park Gardens,Charlton Way,Woolwich Road
+800,"In the London area, which road directly reaches Tysoe Street?",D,Hillmarton Road,Cambridge Gardens,Mortimer Street,Rosebery Avenue
+801,"In the London area, which road cannot directly reach Harwood Road?",A,Windmill Road,King's Road,New King's Road,Fulham Broadway
+802,"In the London area, which road cannot directly reach Grove Lane?",C,Dog Kennel Hill,Champion Park,St. Ann's Hill,Camberwell Church Street
+803,"In the London area, which road directly reaches Putney Bridge Road?",D,Kensington Mall,Highgate Road,Bow Roundabout,Putney High Street
+804,"In the London area, which road directly reaches Brunel Road?",A,Rotherhithe Street,Leamouth Roundabout,Tidal Basin Roundabout,Brecknock Road
+805,"In the London area, which road cannot directly reach Warwick Road?",D,Kensington High Street,Pembroke Road,Cromwell Road,High Street
+806,"In the London area, which road cannot directly reach Fernhead Road?",D,Chippenham Road,Salusbury Road,Shirland Road,Great Marlborough Street
+807,"In the London area, which road cannot directly reach Pancras Road?",C,Gray's Inn Road,Crowndale Road,Lower Thames Street,Goods Way
+808,"In the London area, which road cannot directly reach Coborn Road?",C,Mile End Road,Parnell Road,Albion Drive,Tredegar Road
+809,"In the London area, which road cannot directly reach Chalk Farm Road?",A,Claverton Street,Haverstock Hill,Adelaide Road,Malden Crescent
+810,"In the London area, which road cannot directly reach Lower Richmond Road?",A,White Horse Road,Putney High Street,Putney Bridge,Queen's Ride
+811,"In the London area, which road directly reaches Queen's Ride?",D,Old Brompton Road,Shepherds Bush Green,Elgin Avenue,Lower Richmond Road
+812,"In the London area, which road directly reaches Chambers Lane?",A,Sidmouth Road,Tulse Hill,King Street,Nuttall Street
+813,"In the London area, which road cannot directly reach Akerman Road?",B,Lothian Road,Formosa Street,Loughborough Road,Patmos Road
+814,"In the London area, which road cannot directly reach Wapping Wall?",B,Garnet Street,Parkfield Road,The Highway,Wapping High Street
+815,"In the London area, which road cannot directly reach Quex Road?",B,Abbey Road,Broadhurst Gardens,West End Lane,Kilburn High Road
+816,"In the London area, which road directly reaches Sydney Street?",C,Outwich Street,Bulinga Street,Fulham Road,Walworth Road
+817,"In the London area, which road cannot directly reach Sydney Place?",A,Endwell Road,Old Brompton Road,Fulham Road,Pelham Street
+818,"In the London area, which road cannot directly reach East Hill?",C,Saint John's Hill,Woodwell Street,The Grove,Fairfield Street
+819,"In the London area, which road directly reaches Fairfield Street?",D,Tanner Street,Temple Mills Road,Tramway Avenue,East Hill
+820,"In the London area, which road cannot directly reach Whitehall?",D,Great George Street,Bridge Street,Parliament Street,Camberwell Church Street
+821,"In the London area, which road cannot directly reach Great George Street?",C,Whitehall,Parliament Square,Forest Hill Road,Spur Road
+822,"In the London area, which road cannot directly reach Bridge Street?",D,Victoria Embankment,Westminster Bridge,Great George Street,Old Brompton Road
+823,"In the London area, which road cannot directly reach Putney Bridge?",B,Putney High Street,Amersham Road,Lower Richmond Road,Putney Bridge Approach
+824,"In the London area, which road directly reaches Goldhurst Terrace?",A,Finchley Road,Brockley Cross,Isledon Road,Brunswick Square
+825,"In the London area, which road directly reaches Canfield Gardens?",B,Bloomsbury Square,Goldhurst Terrace,High Road Leyton,Kilburn High Road
+826,"In the London area, which road cannot directly reach Snow Hill?",B,Smithfield Street,St. Martin's Place,Holborn Viaduct,Farringdon Street
+827,"In the London area, which road cannot directly reach Margaret Street?",C,Regent Street,Great Portland Street,Homerton High Street,Cavendish Square
+828,"In the London area, which road cannot directly reach Royal College Street?",C,Camden Road,Kentish Town Road,Hilgrove Road,Baynes Street
+829,"In the London area, which road cannot directly reach Lower Road?",B,Hawkstone Road,Goodman's Stile,Grove Street,Evelyn Street
+830,"In the London area, which road cannot directly reach Tramway Avenue?",C,New Plaistow Road,Densham Road,Bridgefoot,Broadway
+831,"In the London area, which road cannot directly reach Broadway?",C,Romford Road,High Street,Beech Street,Tramway Avenue
+832,"In the London area, which road cannot directly reach Barlby Road?",B,Highlever Road,Old Church Street,St. Quintin Gardens,Ladbroke Grove
+833,"In the London area, which road directly reaches Birdcage Walk?",D,Aldwych,Spindrift Avenue,Drayton Gardens,Buckingham Gate
+834,"In the London area, which road cannot directly reach Cotton Street?",D,Poplar High Street,East India Dock Road,Prestons Road,St. Quintin Gardens
+835,"In the London area, which road cannot directly reach Pembridge Road?",A,Grosvenor Street,Pembridge Villas,Notting Hill Gate,Kensington Park Road
+836,"In the London area, which road cannot directly reach Notting Hill Gate?",D,Holland Park Avenue,Pembridge Road,Bayswater Road,Mildmay Road
+837,"In the London area, which road directly reaches Isledon Road?",D,Bush Road,Chevening Road,Kensington Road,Hornsey Road
+838,"In the London area, which road cannot directly reach Rosslyn Hill?",D,Haverstock Hill,Pond Street,Heath Street,Dunbridge Street
+839,"In the London area, which road cannot directly reach Fleet Road?",D,Pond Street,Parkhill Road,East Heath Road,Fitzjohn's Avenue
+840,"In the London area, which road cannot directly reach Pond Street?",D,East Heath Road,Haverstock Hill,Fleet Road,Narrow Street
+841,"In the London area, which road directly reaches East Heath Road?",A,Fleet Road,Putney High Street,Warwick Way,South Place
+842,"In the London area, which road cannot directly reach Homerton High Street?",C,Lower Clapton Road,Kenworthy Road,Wansbeck Road,Homerton Road
+843,"In the London area, which road directly reaches Chatsworth Road?",D,Blackfriars Underpass,Upper Clapton Road,Blackwall Tunnel Approach Road,Homerton High Street
+844,"In the London area, which road cannot directly reach Powerscroft Road?",B,Chatsworth Road,Well Street,Median Road,Lower Clapton Road
+845,"In the London area, which road cannot directly reach Judd Street?",A,Butcher Row,Tavistock Place,Brunswick Square,Mabledon Place
+846,"In the London area, which road cannot directly reach Tavistock Place?",A,Agar Grove,Judd Street,Brunswick Square,Mabledon Place
+847,"In the London area, which road cannot directly reach Mabledon Place?",B,Euston Road,Valentine Road,Judd Street,Tavistock Place
+848,"In the London area, which road cannot directly reach Tanner Street?",C,Druid Street,Tooley Street,Belgrave Square,Tower Bridge Road
+849,"In the London area, which road cannot directly reach Baring Street?",B,Southgate Road,Queen's Circus,New North Road,Downham Road
+850,"In the London area, which road cannot directly reach Elephant and Castle?",D,London Road,Walworth Road,Newington Causeway,Mildmay Park
+851,"In the London area, which road cannot directly reach Uxbridge Road?",C,Shepherds Bush Green,Holland Park Roundabout,Sun Street,Wood Lane
+852,"In the London area, which road cannot directly reach Shepherds Bush Green?",C,Shepherds Bush Road,Hammersmith Broadway,London Bridge,Wood Lane
+853,"In the London area, which road directly reaches Oliver Road?",A,Ruckholt Road,Cavell Street,Dock Street,Montague Street
+854,"In the London area, which road cannot directly reach Lower Clapton Road?",C,Lea Bridge Roundabout,Homerton High Street,Kingsway,Pembury Road
+855,"In the London area, which road cannot directly reach High Road?",A,Conduit Street,Willesden Lane,Brondesbury Park,Walm Lane
+856,"In the London area, which road directly reaches St. Pauls Avenue?",C,Chenies Street,Cambridge Heath Road,Park Avenue,Oakdale Road
+857,"In the London area, which road cannot directly reach International Way?",A,East Smithfield,Westfield Avenue,Penny Brookes Street,Celebration Avenue
+858,"In the London area, which road cannot directly reach Montfichet Road?",B,Penny Brookes Street,Malden Road,International Way,Warton Road
+859,"In the London area, which road cannot directly reach Penny Brookes Street?",D,International Way,Montfichet Road,Leyton Road,The Highway
+860,"In the London area, which road cannot directly reach Gallery Road?",A,Stoke Newington Road,Dulwich Village,Burbage Road,College Road
+861,"In the London area, which road cannot directly reach College Road?",D,Mortimer Road,Dulwich Village,Harrow Road,Blackfriars Bridge
+862,"In the London area, which road directly reaches Paddington Street?",D,White Lion Hill,Marsh Wall,Laburnum Street,Baker Street
+863,"In the London area, which road cannot directly reach Davies Street?",C,Grosvenor Street,Mount Street,Tavistock Square,Berkeley Square
+864,"In the London area, which road cannot directly reach Mount Street?",A,Holland Park Roundabout,Grosvenor Street,Davies Street,Grosvenor Square
+865,"In the London area, which road cannot directly reach Amersham Road?",B,Lewisham Way,Charlton Way,New Cross Road,Shardeloes Road
+866,"In the London area, which road cannot directly reach Lansdowne Drive?",A,Leamouth Road,Albion Drive,Mare Street,Richmond Road
+867,"In the London area, which road directly reaches Englefield Road?",C,Park Road,Blackwall Lane,Kingsland Road,Banister Road
+868,"In the London area, which road cannot directly reach Richmond Road?",B,Queensbridge Road,Rye Lane,Lansdowne Drive,Albion Drive
+869,"In the London area, which road cannot directly reach Albion Drive?",C,Richmond Road,Lansdowne Drive,Parsons Green Lane,Queensbridge Road
+870,"In the London area, which road cannot directly reach Addison Road?",D,Kensington High Street,Holland Park Avenue,Royal Crescent,Tower Bridge Road
+871,"In the London area, which road cannot directly reach Cavell Street?",C,Whitechapel Road,Commercial Road,Jamaica Road,Stepney Way
+872,"In the London area, which road directly reaches Laburnum Street?",D,New Bridge Street,Devas Street,Bridge Street,Kingsland Road
+873,"In the London area, which road cannot directly reach White Post Lane?",B,Wansbeck Road,Edith Grove,Rothbury Road,Marshgate Lane
+874,"In the London area, which road cannot directly reach Rothbury Road?",A,Edith Grove,Berkshire Road,Wansbeck Road,Chapman Road
+875,"In the London area, which road cannot directly reach Wansbeck Road?",D,White Post Lane,Rothbury Road,Monier Road,Stepney Way
+876,"In the London area, which road cannot directly reach Wells Way?",B,Southampton Way,Lavender Hill,Albany Road,Bowyer Place
+877,"In the London area, which road directly reaches Sclater Street?",C,Prince of Wales Road,Lee High Road,Bethnal Green Road,Harvist Road
+878,"In the London area, which road cannot directly reach Tufnell Park Road?",B,Dartmouth Park Hill,Great Queen Street,Fortess Road,Holloway Road
+879,"In the London area, which road cannot directly reach Silvertown Tunnel Approach?",B,Lower Lea Crossing,Cambridge Gardens,Blackwall Tunnel,Tidal Basin Roundabout
+880,"In the London area, which road cannot directly reach Lower Lea Crossing?",C,Tidal Basin Roundabout,Silvertown Tunnel Approach,Harrow Green,Leamouth Roundabout
+881,"In the London area, which road cannot directly reach St. James's Street?",C,Piccadilly,Jermyn Street,Blackwall Tunnel Approach Road,Pall Mall
+882,"In the London area, which road cannot directly reach Hilgrove Road?",B,Loudoun Road,Red Post Hill,Finchley Road,Belsize Road
+883,"In the London area, which road directly reaches Northumberland Avenue?",B,Combedale Road,Charing Cross,Herne Hill,Oakdale Road
+884,"In the London area, which road directly reaches Stratheden Parade?",D,Westbourne Road,Leman Street,Conduit Street,Vanbrugh Park
+885,"In the London area, which road cannot directly reach Woodford Road?",C,Forest Lane,Centre Road,Hampstead Road,Woodgrange Road
+886,"In the London area, which road directly reaches Wood Vale?",C,St. Martin's Le Grand,Lower Richmond Road,Forest Hill Road,Kensington High Street
+887,"In the London area, which road cannot directly reach Sloane Square?",B,Eaton Square,Tooley Street,Symons Street,Lower Sloane Street
+888,"In the London area, which road directly reaches Grove Green Road?",C,Trafalgar Square,Sidcup Road,High Road Leyton,Queen Victoria Street
+889,"In the London area, which road cannot directly reach Old Town?",B,North Street,Valentine Road,The Pavement,Clapham Common North Side
+890,"In the London area, which road cannot directly reach Well Street?",C,Kenton Road,Elsdale Street,Platt's Lane,Lauriston Road
+891,"In the London area, which road cannot directly reach Victoria Park Road?",C,Lauriston Road,Grove Road,Westferry Circus,Brookfield Road
+892,"In the London area, which road cannot directly reach Lauriston Road?",D,Well Street,Cassland Road,Grove Road,Brewery Road
+893,"In the London area, which road directly reaches Magdalen Road?",C,Mitre Road,Stepney Green,Trinity Road,Chalk Farm Road
+894,"In the London area, which road cannot directly reach New Plaistow Road?",D,Tramway Avenue,Densham Road,Manor Road,Wickham Road
+895,"In the London area, which road directly reaches Branch Road?",C,Hammersmith Flyover,Wick Road,Horseferry Road,Valentine Road
+896,"In the London area, which road cannot directly reach Conduit Street?",D,Bruton Street,Regent Street,New Bond Street,Arkwright Road
+897,"In the London area, which road cannot directly reach Rossmore Road?",D,Park Road,Gloucester Place,Lisson Grove,Gallery Road
+898,"In the London area, which road cannot directly reach Westfield Avenue?",D,Waterden Road,International Way,Montfichet Road,Rosendale Road
+899,"In the London area, which road directly reaches Chrisp Street?",D,Swandon Way,North Pole Road,Poplar High Street,East India Dock Road
+900,"In the London area, which road cannot directly reach Waterloo Road?",D,Borough Road,Baylis Road,Westminster Bridge Road,Harper Road
+901,"In the London area, which road cannot directly reach Goodman's Stile?",A,West India Dock Road,Leman Street,Alie Street,Commercial Road
+902,"In the London area, which road cannot directly reach Parliament Square?",C,St. Margaret Street,Great George Street,Craven Road,Marsham Street
+903,"In the London area, which road cannot directly reach Waterden Road?",D,Westfield Avenue,Eastway,Marshgate Lane,St. Ann's Hill
+904,"In the London area, which road directly reaches Marshgate Lane?",C,Cannon Street Road,Burdett Road,White Post Lane,Globe Road
+905,"In the London area, which road cannot directly reach Ladywell Road?",D,Lewisham High Street,Brockley Grove,Adelaide Avenue,Canfield Gardens
+906,"In the London area, which road cannot directly reach Upper Thames Street?",C,Fish Street Hill,Blackfriars Underpass,Broad Sanctuary,Southwark Bridge Road
+907,"In the London area, which road directly reaches Atterbury Street?",C,Nine Elms Lane,Abbott Road,John Islip Street,Maury Road
+908,"In the London area, which road cannot directly reach Albany Street?",D,Parkway,Robert Street,Prince Albert Road,Mapesbury Road
+909,"In the London area, which road cannot directly reach Parkway?",B,Albany Street,Goldhurst Terrace,Delancey Street,Prince Albert Road
+910,"In the London area, which road cannot directly reach Prince Albert Road?",C,Avenue Road,Albert Terrace,Parkhill Road,Parkway
+911,"In the London area, which road directly reaches Delancey Street?",A,Gloucester Avenue,Pritchard's Road,Brixton Water Lane,Long Lane
+912,"In the London area, which road cannot directly reach Gloucester Avenue?",C,Parkway,Delancey Street,Leytonstone Road,Regent's Park Road
+913,"In the London area, which road directly reaches Rosendale Road?",B,Prestons Road,Norwood Road,Brondesbury Road,Margaret Street
+914,"In the London area, which road directly reaches Capel Road?",A,Woodford Road,Clayton Road,Spert Street,Morval Road
+915,"In the London area, which road directly reaches Centre Road?",A,Capel Road,Valette Street,Brockley Way,Creek Road
+916,"In the London area, which road cannot directly reach Gordon House Road?",B,Southampton Road,Saint John's Hill,Constantine Road,Highgate Road
+917,"In the London area, which road cannot directly reach Lewisham High Street?",B,Lewis Grove,Bricklayers Arms,Lewisham Road,Rushey Green
+918,"In the London area, which road directly reaches Shorter Street?",D,Bow Flyover,Bloomsbury Way,Clapham Park Road,Tower Hill
+919,"In the London area, which road cannot directly reach Jamaica Road?",B,Southwark Park Road,Atkins Road,Abbey Street,St James's Road
+920,"In the London area, which road cannot directly reach Rennell Street?",B,Lewisham Road,Elgin Avenue,Lewisham High Street,Loampit Vale
+921,"In the London area, which road cannot directly reach Molesworth Street?",B,Lewisham High Street,Northumberland Avenue,Rennell Street,Loampit Vale
+922,"In the London area, which road cannot directly reach Loampit Vale?",D,Molesworth Street,Jerrard Street,Lewisham Way,Clapham Common South Side
+923,"In the London area, which road cannot directly reach Puddle Dock?",D,Queen Victoria Street,Blackfriars Underpass,Upper Thames Street,Atterbury Street
+924,"In the London area, which road directly reaches Minories?",A,Aldgate High Street,Circus Road,Denmark Hill,Fernhead Road
+925,"In the London area, which road directly reaches Cadogan Gardens?",C,Donnington Road,St Leonard's Road,King's Road,City Road
+926,"In the London area, which road cannot directly reach Bonner Road?",B,Bishops Way,Kennington Lane,Old Ford Road,Approach Road
+927,"In the London area, which road cannot directly reach Clapham Common North Side?",D,Elspeth Road,Old Town,Long Road,Gunter Grove
+928,"In the London area, which road directly reaches Balham Hill?",C,Bruton Street,Palmer Place,Nightingale Lane,Peckham Hill Street
+929,"In the London area, which road directly reaches St. George's Road?",C,Lambeth Bridge,Limehouse Link,Upton Lane,Platt's Lane
+930,"In the London area, which road directly reaches Robert Street?",D,Waterloo Place,Bulinga Street,Wandsworth Bridge Road,Albany Street
+931,"In the London area, which road cannot directly reach Southampton Road?",C,Constantine Road,Malden Road,Celebration Avenue,Gordon House Road
+932,"In the London area, which road directly reaches Constantine Road?",C,Whitehall,Tower Bridge Approach,Southampton Road,Lichfield Road
+933,"In the London area, which road cannot directly reach Kingsway?",B,Great Queen Street,Chalk Farm Road,High Holborn,Strand Underpass
+934,"In the London area, which road directly reaches Great Queen Street?",A,Kingsway,Woodwell Street,Major Road,Imperial Road
+935,"In the London area, which road directly reaches Cathall Road?",C,Cromwell Road,Crowndale Road,High Road Leytonstone,Chapel Street
+936,"In the London area, which road cannot directly reach Major Road?",A,Howland Street,Temple Mills Lane,High Road Leyton,Chobham Road
+937,"In the London area, which road directly reaches Raymouth Road?",A,Rotherhithe New Road,Thayer Street,Loughborough Road,Sidney Street
+938,"In the London area, which road directly reaches White Church Lane?",D,Haymarket,East Street,Crossway,Whitechapel High Street
+939,"In the London area, which road directly reaches Du Cane Road?",C,Westbourne Park Road,Petherton Road,Wood Lane,High Holborn
+940,"In the London area, which road cannot directly reach Park Road?",D,Gloucester Place,Allsop Place,Rossmore Road,Neathouse Place
+941,"In the London area, which road cannot directly reach Freemasons Road?",A,Lee Road,Victoria Dock Road,New Barn Street,Newham Way
+942,"In the London area, which road directly reaches Meeting House Lane?",C,Florence Road,Earl's Court Road,Asylum Road,Cavendish Place
+943,"In the London area, which road cannot directly reach Asylum Road?",C,Queen's Road,Old Kent Road,Beeston Place,Meeting House Lane
+944,"In the London area, which road cannot directly reach Avenue Road?",A,Armoury Way,Prince Albert Road,College Crescent,Adelaide Road
+945,"In the London area, which road directly reaches Fieldgate Street?",C,Bow Common Lane,Camberwell Road,Whitechapel Road,Albany Road
+946,"In the London area, which road directly reaches Hatton Garden?",A,Clerkenwell Road,Lothian Road,Langton Road,Camden High Street
+947,"In the London area, which road directly reaches All Souls Avenue?",A,Chamberlayne Road,Sloane Square,Frognal Lane,Dreadnought Street
+948,"In the London area, which road directly reaches Rathbone Street?",D,Pont Street,Lombard Street,Silvertown Tunnel Approach,Newham Way
+949,"In the London area, which road directly reaches Downs Park Road?",D,Tulse Hill,High Road Leytonstone,Skinner Street,Amhurst Road
+950,"In the London area, which road directly reaches Donnington Road?",D,Upper Clapton Road,Cromwell Road,Cremorne Road,Sidmouth Road
+951,"In the London area, which road directly reaches Orient Way?",B,Downham Road,Ruckholt Road,Redriff Road,Stoke Newington Road
+952,"In the London area, which road cannot directly reach Gower Street?",A,Champion Park,Chenies Street,Torrington Place,Grafton Way
+953,"In the London area, which road cannot directly reach Royal Mint Street?",B,Cable Street,Patmos Road,Leman Street,Dock Street
+954,"In the London area, which road cannot directly reach Leman Street?",A,Cranley Gardens,Royal Mint Street,Cable Street,Alie Street
+955,"In the London area, which road cannot directly reach Bunhill Row?",D,Chiswell Street,Old Street,Bath Street,Rosslyn Hill
+956,"In the London area, which road cannot directly reach Long Road?",D,The Pavement,Clapham Common North Side,Clapham Common South Side,Ladywell Road
+957,"In the London area, which road cannot directly reach Lauderdale Road?",B,Elgin Avenue,Stopford Road,Warrington Crescent,Sutherland Avenue
+958,"In the London area, which road cannot directly reach Cheapside?",C,Lombard Street,Queen Street,Maygrove Road,Princes Street
+959,"In the London area, which road cannot directly reach Lombard Street?",B,Gracechurch Street,Redriff Road,Princes Street,Cheapside
+960,"In the London area, which road directly reaches Grafton Way?",B,Bernard Street,Gower Street,Clapham Common South Side,Wilton Road
+961,"In the London area, which road directly reaches Chenies Street?",A,Tottenham Court Road,Hyde Park Place Bayswater Road,Bloomsbury Street,Silvertown Way
+962,"In the London area, which road directly reaches Queen Street?",A,Cheapside,Oxestalls Road,Osborn Street,Imperial Street
+963,"In the London area, which road directly reaches Lower Grosvenor Place?",C,Chambers Lane,Drakefell Road,Buckingham Gate,Bow Road
+964,"In the London area, which road directly reaches Chancery Lane?",A,Fleet Street,Grove Street,Cricklewood Broadway,Boutflower Road
+965,"In the London area, which road directly reaches White Lion Hill?",A,Upper Thames Street,Great Eastern Road,Stoke Newington Church Street,Torrington Place
+966,"In the London area, which road directly reaches Herrick Street?",B,George Street,Bulinga Street,Smithfield Street,Old Broad Street
+967,"In the London area, which road cannot directly reach Jerrard Street?",A,Horseferry Road,Loampit Vale,Lewisham Way,Thurston Road
+968,"In the London area, which road cannot directly reach King Henry's Walk?",C,Mildmay Road,Mildmay Grove North,High Road Leyton,Mildmay Grove South
+969,"In the London area, which road cannot directly reach Mildmay Grove North?",C,King Henry's Walk,Mildmay Park,Clapham Common West Side,Newington Green Road
+970,"In the London area, which road directly reaches Oakley Square?",A,Crowndale Road,Addison Road,Turner's Road,Heygate Street
+971,"In the London area, which road directly reaches Connaught Square?",D,Portman Square,Broughton Street,Clifton Villas,Seymour Street
+972,"In the London area, which road directly reaches Twelvetrees Crescent?",B,Bath Street,Devas Street,Upper Grosvenor Street,Lewisham Road
+973,"In the London area, which road directly reaches Palace Gardens Terrace?",B,Church Crescent,Kensington Mall,Waterloo Bridge,Westbridge Road
+974,"In the London area, which road cannot directly reach Draycott Place?",D,Anderson Street,Cadogan Gardens,Sloane Avenue,Willesden Lane
+975,"In the London area, which road directly reaches Morval Road?",A,Effra Road,Goods Way,Blackstock Road,Cricklewood Broadway
+976,"In the London area, which road directly reaches Marshall Road?",A,Ruckholt Road,Carlton Vale,Limehouse Link,Newham Way
+977,"In the London area, which road cannot directly reach Druid Street?",A,Mildmay Grove North,Tanner Street,Abbey Street,Bermondsey Street
+978,"In the London area, which road directly reaches Langton Road?",C,Chatsworth Road,Battersea Church Road,Vassall Road,Symons Street
+979,"In the London area, which road cannot directly reach Goodge Street?",C,Mortimer Street,Tottenham Court Road,Vanbrugh Terrace,Cleveland Street
+980,"In the London area, which road cannot directly reach Cleveland Street?",D,Mortimer Street,Howland Street,Goodge Street,Bishopsgate
+981,"In the London area, which road directly reaches Goods Way?",C,St. George's Road,Cremorne Road,Pancras Road,Grosvenor Avenue
+982,"In the London area, which road directly reaches Welbeck Street?",B,Victoria Street,Henrietta Place,Rothbury Road,Lea Bridge Roundabout
+983,"In the London area, which road cannot directly reach Trafalgar Square?",C,Charing Cross,Strand,Artillery Row,St. Martin's Place
+984,"In the London area, which road cannot directly reach St. Martin's Place?",D,Trafalgar Square,Charing Cross Road,St. Martin's Lane,Vassall Road
+985,"In the London area, which road directly reaches Elsdale Street?",D,Rosendale Road,Blackheath Hill,Nightingale Lane,Terrace Road
+986,"In the London area, which road directly reaches Lewis Grove?",D,Welbeck Street,Morris Road,Cranbourn Street,Lee High Road
+987,"In the London area, which road cannot directly reach Strand?",B,Fleet Street,Acre Lane,Duncannon Street,Waterloo Bridge
+988,"In the London area, which road directly reaches Aldwych?",D,Upper Street,Lewis Grove,Vallance Road,Kingsway
+989,"In the London area, which road cannot directly reach Spring Street?",C,Praed Street,Craven Road,Beaufort Street,Sussex Gardens
+990,"In the London area, which road cannot directly reach Allsop Place?",A,Stopford Road,Baker Street,Park Road,Marylebone Road
+991,"In the London area, which road directly reaches Bulinga Street?",C,Finborough Road,Wapping High Street,Herrick Street,Blackheath Hill
+992,"In the London area, which road cannot directly reach Bayswater Road?",D,Hyde Park Place Bayswater Road,Notting Hill Gate,Westbourne Street,Kensington Church Street
+993,"In the London area, which road directly reaches Broadhurst Gardens?",C,Dartmouth Park Hill,Lancaster Place,Priory Road,Sidmouth Road
+994,"In the London area, which road cannot directly reach Blackfriars Underpass?",C,Victoria Embankment,Upper Thames Street,Clapham Common South Side,Puddle Dock
+995,"In the London area, which road directly reaches Gaunt Street?",C,Rathbone Street,Arkwright Road,Newington Causeway,Vanbrugh Park
+996,"In the London area, which road cannot directly reach Fish Street Hill?",B,King William Street,Rennell Street,Byward Street,Upper Thames Street
+997,"In the London area, which road directly reaches Bradbury Street?",B,Elliott Road,Boleyn Road,Celebration Avenue,Curtain Road
+998,"In the London area, which road cannot directly reach Thurloe Place?",D,Brompton Road,Cromwell Place,Cromwell Road,Harrington Square
+999,"In the London area, which road cannot directly reach Cromwell Place?",D,Old Brompton Road,Harrington Road,Cromwell Road,Penton Rise
+1000,"In the London area, which road directly reaches York Street?",D,Merton Road,Highbury Grove,Glenthorne Road,Baker Street
+1001,"In the London area, which road cannot directly reach Albert Terrace?",B,Prince Albert Road,Humphrey Street,Primrose Hill Road,Regent's Park Road
+1002,"In the London area, which road directly reaches Store Street?",B,Newham Way,Gower Street,Deptford Broadway,Chenies Street
+1003,"In the London area, which road directly reaches Lancaster Place?",C,Midland Road,Dartmouth Park Hill,Strand,Centre Road
+1004,"In the London area, which road directly reaches North Woolwich Road?",D,Agar Grove,Claremont Road,New Kent Road,Silvertown Way
+1005,"In the London area, which road directly reaches Baron Street?",B,Tiverton Road,Islington High Street,Coldharbour Lane,Queen Street
+1006,"In the London area, which road cannot directly reach Grosvenor Place?",D,Knightsbridge,Hobart Place,Duke of Wellington Place,Sidney Street
+1007,"In the London area, which road cannot directly reach Grosvenor Gardens?",D,Hobart Place,Grosvenor Place,Eaton Square,Hammersmith Bridge Road
+1008,"In the London area, which road directly reaches Hobart Place?",B,Cedars Road,Grosvenor Gardens,Southgate Road,Beech Street
+1009,"In the London area, which road cannot directly reach Shepherds Bush Road?",B,Shepherds Bush Green,Turner's Road,Goldhawk Road,Hammersmith Broadway
+1010,"In the London area, which road directly reaches Goldhawk Road?",D,Buckingham Gate,Manchester Road,Pall Mall,Shepherds Bush Green
+1011,"In the London area, which road directly reaches Stockwell Park Walk?",C,St Asaph Road,Hawkstone Road,Brixton Road,City Road
+1012,"In the London area, which road directly reaches Stockwell Road?",D,Shorter Street,Highbury Grove,Puddle Dock,Clapham Road
+1013,"In the London area, which road directly reaches Bolton Street?",C,Pembroke Road,Wapping Wall,Piccadilly,Sloane Square
+1014,"In the London area, which road cannot directly reach Grosvenor Square?",C,Mount Street,South Audley Street,Highbury Grove,North Audley Street
+1015,"In the London area, which road cannot directly reach Grosvenor Street?",A,High Road Leytonstone,Davies Street,Grosvenor Square,Mount Street
+1016,"In the London area, which road cannot directly reach New Bond Street?",D,Bruton Street,Maddox Street,Conduit Street,Brunel Road
+1017,"In the London area, which road cannot directly reach Bruton Street?",D,New Bond Street,Conduit Street,Berkeley Square,Homestead Road
+1018,"In the London area, which road directly reaches James Street?",A,Oxford Street,Lewis Grove,Manor Lane,Du Cane Road
+1019,"In the London area, which road cannot directly reach Evering Road?",D,Stoke Newington Road,Rectory Road,Maury Road,New Fetter Lane
+1020,"In the London area, which road directly reaches North Road?",C,Anderson Street,Kelvedon Road,Caledonian Road,St. Martin's Place
+1021,"In the London area, which road directly reaches White Horse Road?",B,Wimbledon Park Road,Belgrave Street,Highbury Grove,Osnaburgh Terrace
+1022,"In the London area, which road directly reaches Anderson Street?",D,Friday Street,Albert Bridge,Rushey Green,Sloane Avenue
+1023,"In the London area, which road directly reaches Chapel Street?",A,Old Marylebone Road,Bridgend Road,Mead Place,Chambers Lane
+1024,"In the London area, which road directly reaches Bermondsey Street?",D,Percival Street,Pall Mall East,King's Cross Bridge,Druid Street
+1025,"In the London area, which road directly reaches Broughton Street?",D,Pepys Road,Queensbridge Road,Cannon Street,Queenstown Road
+1026,"In the London area, which road directly reaches Median Road?",D,Connaught Street,Patmos Road,Morris Road,Lower Clapton Road
+1027,"In the London area, which road cannot directly reach Montague Place?",B,Russell Square,Leighton Road,Bedford Square,Gower Street
+1028,"In the London area, which road directly reaches Holland Park Gardens?",B,Windmill Road,Holland Park Avenue,Saint John's Hill,Kensington High Street
+1029,"In the London area, which road directly reaches Maury Road?",B,Prince of Wales Drive,Evering Road,New Oxford Street,St. Martin's Place
+1030,"In the London area, which road directly reaches Eldon Street?",C,Wildcroft Road,Kilburn Lane,London Wall,Major Road
+1031,"In the London area, which road directly reaches Marloes Road?",A,Cromwell Road,Primrose Hill Road,Elgin Avenue,Petherton Road
+1032,"In the London area, which road directly reaches Upper Grosvenor Street?",A,Park Lane,Mildmay Grove South,Consort Road,Camberwell New Road
+1033,"In the London area, which road cannot directly reach Park Lane?",B,Achilles Way,Market Road,Curzon Street,Upper Grosvenor Street
+1034,"In the London area, which road cannot directly reach Marylebone High Street?",D,Nottingham Place,New Cavendish Street,Thayer Street,New Fetter Lane
+1035,"In the London area, which road directly reaches Randolph Street?",B,Brondesbury Road,St Pancras Way,Consort Road,Berkeley Street
+1036,"In the London area, which road directly reaches Leinster Terrace?",B,Great Titchfield Street,Bayswater Road,Hanover Street,Wandsworth Plain
+1037,"In the London area, which road directly reaches Midland Road?",A,Euston Road,Old Town,Wellington Road,Homerton Road
+1038,"In the London area, which road cannot directly reach Westminster Bridge?",D,Victoria Embankment,Westminster Bridge Road,Bridge Street,Marylebone High Street
+1039,"In the London area, which road directly reaches Cleve Road?",D,Balls Pond Road,Greycoat Place,Bedford Place,West End Lane
+1040,"In the London area, which road directly reaches Bromley High Street?",B,Islington Green,St Leonard's Street,Cavendish Road,Broadway
+1041,"In the London area, which road directly reaches Great Titchfield Street?",C,Albion Drive,St. Botolph Street,Mortimer Street,Goldsmith Road
+1042,"In the London area, which road directly reaches Campden Hill Road?",C,Stondon Park,New Cross Road,Notting Hill Gate,Wood Lane
+1043,"In the London area, which road cannot directly reach Westbourne Street?",C,Hyde Park Place Bayswater Road,Lancaster Terrace,Bolton Street,Bayswater Road
+1044,"In the London area, which road directly reaches Rotherhithe Old Road?",D,Bow Common Lane,Lansdowne Drive,Delancey Street,Hawkstone Road
+1045,"In the London area, which road cannot directly reach Portland Place?",B,Park Crescent,Belgrave Street,Langham Place,New Cavendish Street
+1046,"In the London area, which road cannot directly reach New Cavendish Street?",A,Shelton Street,Portland Place,Langham Place,Great Portland Street
+1047,"In the London area, which road directly reaches Waterloo Bridge?",D,Bellevue Road,Camden Park Road,Tranquil Vale,Strand
+1048,"In the London area, which road directly reaches Duncannon Street?",B,Copeland Road,Strand,Tottenham Court Road,Cavendish Square
+1049,"In the London area, which road directly reaches St. Martin's Lane?",B,Northcote Road,St. Martin's Place,Lee Conservancy Road,Offord Road
+1050,"In the London area, which road directly reaches Eagle Wharf Road?",C,Falcon Road,Parkhurst Road,New North Road,Dulwich Village
+1051,"In the London area, which road directly reaches Albion Road?",C,Wapping Wall,Herrick Street,Newington Green,Albert Terrace
+1052,"In the London area, which road directly reaches St. Matthew's Road?",A,Effra Road,Bromley High Street,Tramway Avenue,East Ferry Road
+1053,"In the London area, which road directly reaches Brick Lane?",B,Grosvenor Street,Bethnal Green Road,Old Marylebone Road,The Grove
+1054,"In the London area, which road directly reaches Berkeley Street?",A,Berkeley Square,Westerdale Road,Queen's Ride,Brockley Way
+1055,"In the London area, which road directly reaches Celebration Avenue?",A,Temple Mills Lane,The Grove,High Road,Lower Clapton Road
+1056,"In the London area, which road directly reaches Cloudesley Place?",D,Queen Caroline Street,Chapter Road,The Pavement,Copenhagen Street
+1057,"In the London area, which road directly reaches Hendon Way?",B,Barnsbury Road,Finchley Road,Wildcroft Road,Lake House Road
+1058,"In the London area, which road directly reaches Alie Street?",B,Brixton Hill,Leman Street,Montpelier Row,Lauriston Road
+1059,"In the London area, which road cannot directly reach Lower Thames Street?",B,Tower Hill,Mabledon Place,Upper Thames Street,Great Tower Street
+1060,"In the London area, which road cannot directly reach Great Tower Street?",B,Eastcheap,Hatton Garden,Lower Thames Street,Tower Hill
+1061,"In the London area, which road directly reaches South Lambeth Road?",C,Curzon Gate,Castlehaven Road,Clapham Road,Cromwell Place
+1062,"In the London area, which road cannot directly reach Regent's Park Road?",D,Albert Terrace,Primrose Hill Road,Gloucester Avenue,Brockley Way
+1063,"In the London area, which road cannot directly reach Brunswick Square?",C,Judd Street,Bernard Street,Endell Street,Tavistock Place
+1064,"In the London area, which road directly reaches Garratt Lane?",A,Ram Street,Lower Richmond Road,Battersea Park Road,Bolton Street
+1065,"In the London area, which road cannot directly reach King's Cross Road?",B,Penton Rise,Brockley Way,Calthorpe Street,Acton Street
+1066,"In the London area, which road directly reaches Inverness Terrace?",B,Craven Road,Bayswater Road,Castlehaven Road,Tavistock Square
+1067,"In the London area, which road directly reaches Royal Parade?",D,Manor Lane,Achilles Way,Bow Flyover,Montpelier Row
+1068,"In the London area, which road cannot directly reach Camden High Street?",A,New Bond Street,Parkway,Hampstead Road,Castlehaven Road
+1069,"In the London area, which road directly reaches Bressenden Place?",B,Honor Oak Road,Victoria Street,Chatsworth Road,Whiston Road
+1070,"In the London area, which road cannot directly reach New Kent Road?",D,Bricklayers Arms Roundabout,Bricklayers Arms,Harper Road,Gallery Road
+1071,"In the London area, which road directly reaches Grenville Street?",A,Guilford Street,Marcilly Road,Bruton Street,Cadogan Gardens
+1072,"In the London area, which road directly reaches Acton Street?",D,Adelaide Avenue,Cody Road,Stratheden Road,King's Cross Road
+1073,"In the London area, which road directly reaches Tibbet's Ride?",A,Tibbet's Corner,Peckham High Street,Newington Green Road,St Anns Villas
+1074,"In the London area, which road directly reaches Queen Elizabeth Street?",C,Romford Road,Putney High Street,Tooley Street,Champion Park
+1075,"In the London area, which road directly reaches Premier Corner?",B,Amwell Street,Kilburn Lane,Whitechapel Road,All Souls Avenue
+1076,"In the London area, which road directly reaches Holywell Lane?",B,Great Western Road,Worship Street,Grove End Road,Amhurst Road
+1077,"In the London area, which road directly reaches Maddox Street?",A,New Bond Street,Sydney Place,Peckham High Street,Leighton Road
+1078,"In the London area, which road cannot directly reach Berkeley Square?",D,Berkeley Street,Bruton Street,Davies Street,Clifton Road
+1079,"In the London area, which road cannot directly reach Weymouth Street?",A,Pepys Road,Portland Place,Great Portland Street,Harley Street
+1080,"In the London area, which road directly reaches Upper Wimpole Street?",D,Inverness Terrace,Brewery Road,Wansbeck Road,Marylebone Road
+1081,"In the London area, which road directly reaches West Smithfield?",C,Oakdale Road,Osnaburgh Terrace,Long Lane,Kensington Mall
+1082,"In the London area, which road directly reaches Smithfield Street?",D,Royal Hospital Road,Prince Albert Road,Whiston Road,West Smithfield
+1083,"In the London area, which road directly reaches Lindsey Street?",A,Long Lane,Patmos Road,Putney High Street,Cassland Road
+1084,"In the London area, which road directly reaches Brockley Rise?",C,King's Cross Bridge,Piccadilly Circus,Stondon Park,Kennington Road
+1085,"In the London area, which road cannot directly reach Lea Bridge Roundabout?",D,Upper Clapton Road,Lea Bridge Road,Lower Clapton Road,Approach Road
+1086,"In the London area, which road directly reaches Upper Clapton Road?",D,Lancaster Place,Devons Road,Waterloo Road,Lea Bridge Roundabout
+1087,"In the London area, which road cannot directly reach Patmos Road?",A,Goffers Road,Elliott Road,Lothian Road,Akerman Road
+1088,"In the London area, which road cannot directly reach Greenwich Church Street?",B,Creek Road,Lower Terrace,Greenwich High Road,Nelson Road
+1089,"In the London area, which road directly reaches Nelson Road?",C,Brixton Water Lane,Vassall Road,Greenwich High Road,Cheshire Street
+1090,"In the London area, which road directly reaches Grosvenor Crescent?",C,Priory Road,South Lambeth Road,Grosvenor Place,Welbeck Street
+1091,"In the London area, which road directly reaches Museum Street?",C,North End Road,St. George's Road,High Holborn,Whitechapel High Street
+1092,"In the London area, which road directly reaches Lancaster Terrace?",D,Charing Cross Road,Pall Mall,Alexandra Road,Westbourne Street
+1093,"In the London area, which road directly reaches Woodwell Street?",B,Haymarket,East Hill,Waterloo Road,Cedars Road
+1094,"In the London area, which road directly reaches Huguenot Place?",B,Stockwell Road,East Hill,Aspen Way,St Helens Gardens
+1095,"In the London area, which road directly reaches Marcilly Road?",C,Stanhope Gardens,Brompton Road,North Side Wandsworth Common,North Road
+1096,"In the London area, which road directly reaches Vanbrugh Terrace?",B,Pepys Road,Shooters Hill Road,Bolton Street,Leadenhall Street
+1097,"In the London area, which road directly reaches Old Dover Road?",A,Stratheden Road,Thayer Street,Kensington Road,Grove End Road
+1098,"In the London area, which road directly reaches Combedale Road?",A,Westerdale Road,Putney Bridge,Coldharbour Lane,Trinity Road
+1099,"In the London area, which road cannot directly reach Bestwood Street?",A,St Giles High Street,Evelyn Street,Trundley's Road,Lower Road
+1100,"In the London area, which road directly reaches Duke of Wellington Place?",A,Piccadilly,Albert Embankment,Skinner Street,Leamouth Roundabout
+1101,"In the London area, which road cannot directly reach Highlever Road?",D,St. Quintin Gardens,St Quintin Avenue,Barlby Road,Langton Road
+1102,"In the London area, which road directly reaches Bridgend Road?",D,Eaton Square,Albert Embankment,Malden Crescent,Wandsworth Bridge Road
+1103,"In the London area, which road directly reaches Lea Bridge Road?",A,Lea Bridge Roundabout,Wardour Street,Green Lanes,King Street
+1104,"In the London area, which road directly reaches Mead Place?",D,Pagnell Street,New Road,King's Cross Bridge,Well Street
+1105,"In the London area, which road directly reaches Cumberland Gate?",A,Bayswater Road,Sun in the Sands Roundabout,Du Cane Road,Brunswick Road
+1106,"In the London area, which road cannot directly reach Bricklayers Arms Roundabout?",B,Great Dover Street,Belgrave Place,New Kent Road,Old Kent Road
+1107,"In the London area, which road directly reaches Pepys Road?",A,Vesta Road,Mabledon Place,Berkshire Road,Goodman's Yard
+1108,"In the London area, which road directly reaches Church Crescent?",A,Terrace Road,Shaftesbury Avenue,Charterhouse Street,St Asaph Road
+1109,"In the London area, which road directly reaches Belgrave Place?",B,Richmond Road,Pont Street,Westbourne Road,Campden Hill Road
+1110,"In the London area, which road directly reaches Holland Street?",C,Hermit Road,Townley Road,Campden Hill Road,Robert Street
+1111,"In the London area, which road cannot directly reach Westway?",A,Fulham High Street,Westbourne Terrace,Westway Roundabout,Ranelagh Bridge
+1112,"In the London area, which road directly reaches Bishops Bridge Road?",D,Shepherdess Walk,Foxley Road,Market Road,Bishop's Bridge
+1113,"In the London area, which road directly reaches Bishop's Bridge?",B,Eccleston Street,Bishop's Bridge Road,Fleet Street,Stepney Way
+1114,"In the London area, which road directly reaches Drake Street?",C,Silvertown Way,Chenies Street,High Holborn,Glenthorne Road
+1115,"In the London area, which road directly reaches Westerdale Road?",B,Clapham Park Road,Combedale Road,Prince Albert Road,The Grove
+1116,"In the London area, which road cannot directly reach Pembroke Road?",B,Warwick Gardens,Goldhurst Terrace,Earl's Court Road,Warwick Road
+1117,"In the London area, which road directly reaches Alexandra Road?",C,Kensington Road,St Leonard's Street,Ruckholt Road,Morning Lane
+1118,"In the London area, which road directly reaches Chobham Road?",D,Bonner Road,Lauriston Road,Hillmarton Road,Major Road
+1119,"In the London area, which road directly reaches St Georges Road?",D,Fleet Road,Queenstown Road,Stratheden Road,Westminster Bridge Road
+1120,"In the London area, which road directly reaches Wakley Street?",B,Manor Lane,Goswell Road,Nunhead Lane,Baylis Road
+1121,"In the London area, which road cannot directly reach Bush Road?",A,Marylebone High Street,Bestwood Street,Rotherhithe New Road,Trundley's Road
+1122,"In the London area, which road directly reaches Durham Street?",B,Robert Street,Harleyford Road,Grove Lane,Chalk Farm Road
+1123,"In the London area, which road directly reaches Provost Street?",D,Lower Sloane Street,High Holborn,Wimpole Street,East Road
+1124,"In the London area, which road directly reaches Bidder Street?",B,Old Ford Road,Stephenson Street,Bishops Bridge Road,Whitehall
+1125,"In the London area, which road directly reaches Outwich Street?",C,Petherton Road,Putney Bridge Road,Camomile Street,Loudoun Road
+1126,"In the London area, which road directly reaches Kensington Mall?",A,Kensington Church Street,Devons Road,Thurloe Place,Upper Wimpole Street
+1127,"In the London area, which road directly reaches The Mall?",C,Finsbury Pavement,Baker Street,Charing Cross,Draycott Place
+1128,"In the London area, which road cannot directly reach Hammersmith Broadway?",A,Goffers Road,Glenthorne Road,Shepherds Bush Road,Hammersmith Road
+1129,"In the London area, which road directly reaches Wharfdale Road?",D,Crowndale Road,Montague Place,Bow Common Lane,Caledonian Road
+1130,"In the London area, which road directly reaches Nottingham Place?",A,Marylebone High Street,Atterbury Street,Branch Road,Achilles Way
+1131,"In the London area, which road directly reaches Richmond Avenue?",B,Bromley High Street,Barnsbury Road,Circus Road,Winchester Avenue
+1132,"In the London area, which road directly reaches Blackfriars Bridge?",C,Goodman's Stile,Warwick Gardens,Blackfriars Road,Hyde Vale
+1133,"In the London area, which road cannot directly reach Blackwall Tunnel Northern Approach?",A,Shooters Hill Road,St Leonard's Road,Brunswick Road,Devas Street
+1134,"In the London area, which road directly reaches Brunswick Road?",A,Blackwall Tunnel Northern Approach,Mitre Road,Baring Street,Edward Street
+1135,"In the London area, which road directly reaches St Leonard's Road?",A,East India Dock Road,Milkwood Road,Silvertown Way,Elsdale Street
+1136,"In the London area, which road directly reaches Hillmarton Road?",B,Gloucester Terrace,Camden Road,Fulham Palace Road,St Asaph Road
+1137,"In the London area, which road directly reaches Parliament Street?",C,Albion Road,Beech Street,Whitehall,New Cavendish Street
+1138,"In the London area, which road directly reaches Marble Arch?",C,Gaunt Street,Great Eastern Road,Oxford Street,Dames Road
+1139,"In the London area, which road cannot directly reach Newgate Street?",D,New Change,Holborn Viaduct,St. Martin's Le Grand,Pimlico Road
+1140,"In the London area, which road directly reaches St. Martin's Le Grand?",D,Camden Street,Calthorpe Street,Christchurch Avenue,New Change
+1141,"In the London area, which road cannot directly reach King Edward Street?",A,London Bridge,Newgate Street,Aldersgate Rotunda,Holborn Viaduct
+1142,"In the London area, which road directly reaches Abbott Road?",C,Kensington High Street,Morning Lane,East India Dock Road,Weigall Road
+1143,"In the London area, which road directly reaches Newham Way?",D,Atkins Road,Tottenham Court Road,Molesworth Street,Rathbone Street
+1144,"In the London area, which road directly reaches Spert Street?",A,Narrow Street,Rodney Place,Byward Street,Tooley Street
+1145,"In the London area, which road directly reaches Narrow Street?",C,New King's Road,Great Russell Street,Westferry Road,St Norbert Road
+1146,"In the London area, which road directly reaches Tollington Road?",C,Millennium Way,Knightsbridge,Holloway Road,Broadhurst Gardens
+1147,"In the London area, which road directly reaches St. Quintin Gardens?",A,Highlever Road,East Cross Route,Deals Gateway,Camberwell Church Street
+1148,"In the London area, which road directly reaches Bernard Street?",B,Dalston Lane,Brunswick Square,King's Cross Road,Woolwich Road
+1149,"In the London area, which road directly reaches Harrington Square?",C,Lewis Grove,Kimberley Avenue,Lidlington Place,North Pole Road
+1150,"In the London area, which road cannot directly reach Queen's Circus?",A,Richmond Avenue,Queenstown Road,Prince of Wales Drive,Chelsea Bridge
+1151,"In the London area, which road directly reaches Westferry Circus?",C,Ranelagh Bridge,Strand Underpass,Westferry Road,St. Botolph Street
+1152,"In the London area, which road directly reaches Parkhurst Road?",B,Gray's Inn Road,Holloway Road,Richmond Avenue,Highbury Corner
+1153,"In the London area, which road directly reaches Sun in the Sands Roundabout?",B,Whitechapel High Street,Rochester Way Relief Road,St Paul's Way,Horseferry Road
+1154,"In the London area, which road cannot directly reach Long Acre?",C,Upper Saint Martin's Lane,Endell Street,Finborough Road,Shelton Street
+1155,"In the London area, which road cannot directly reach Shelton Street?",A,White Church Lane,Upper Saint Martin's Lane,Long Acre,Endell Street
+1156,"In the London area, which road directly reaches St. Margaret Street?",A,Parliament Square,Gracechurch Street,Brockley Rise,St. Margaret Street
+1157,"In the London area, which road directly reaches Endell Street?",A,Shelton Street,Howland Street,Royal Crescent,Garnet Street
+1158,"In the London area, which road directly reaches Clapham Common West Side?",A,Battersea Rise,Goodge Street,Hyde Park Street,Tranquil Vale
+1159,"In the London area, which road directly reaches Piccadilly Circus?",D,Sloane Street,Lindsey Street,Spert Street,Regent Street
+1160,"In the London area, which road directly reaches St George's Road?",B,Oakley Square,Lambeth Road,Patmos Road,Prince Charles Road
+1161,"In the London area, which road directly reaches Spur Road?",B,Upper Grosvenor Street,Great George Street,Ram Street,Newington Causeway
+1162,"In the London area, which road directly reaches Wardour Street?",A,Oxford Street,Adelaide Road,Paddington Street,Cathall Road
+1163,"In the London area, which road directly reaches Western Gateway?",A,Seagull Lane,Worship Street,White Horse Road,St Anns Villas
+1164,"In the London area, which road directly reaches Rushey Green?",B,Bradbury Street,Lewisham High Street,Oakley Square,St. Botolph Street
+1165,"In the London area, which road directly reaches Inverness Place?",A,Queensway,Pritchard's Road,Golden Lane,Acre Lane
+1166,"In the London area, which road directly reaches Norton Folgate?",D,Westbourne Terrace Road,Sunray Avenue,North Pole Road,Bishopsgate
+1167,"In the London area, which road directly reaches Nine Elms Lane?",C,Paddington Street,Mildmay Grove South,Wandsworth Road,Blackwall Tunnel
+1168,"In the London area, which road directly reaches Beeston Place?",D,Lewisham High Street,North Road,Cann Hall Road,Grosvenor Gardens
+1169,"In the London area, which road directly reaches Penton Rise?",C,Hyde Park Place Bayswater Road,Aldersgate Street,King's Cross Road,Kingsway
+1170,"In the London area, which road directly reaches Swinton Street?",B,Vanbrugh Terrace,Gray's Inn Road,Harrow Road,Grosvenor Gardens
+1171,"In the London area, which road directly reaches King's Cross Bridge?",C,Howland Street,Kenton Road,Gray's Inn Road,Belgrave Street
+1172,"In the London area, which road directly reaches Pall Mall East?",B,Blackheath Hill,Cockspur Street,Norton Folgate,Brondesbury Road
+1173,"In the London area, which road directly reaches Hancock Road?",C,Rosslyn Hill,Langton Road,Blackwall Tunnel Northern Approach,Cranley Gardens
+1174,"In the London area, which road directly reaches Blackwall Tunnel Approach?",C,Devonshire Road,Terrace Road,Blackwall Tunnel Approach Road,Upper Saint Martin's Lane
+1175,"In the London area, which road directly reaches Blackwall Tunnel Approach Road?",A,Blackwall Tunnel Approach,Bonner Road,Morris Road,Drayton Gardens
+1176,"In the London area, which road directly reaches Sale Place?",D,Goldhawk Road,Hammersmith Broadway,Liverpool Road,Praed Street
+1177,"In the London area, which road directly reaches Tibbet's Corner?",B,Kennington Road,Tibbet's Ride,Marloes Road,Valette Street
+1178,"In the London area, which road directly reaches Prescot Street?",C,Maury Road,Deptford High Street,Goodman's Yard,Kelvedon Road
+1179,"In the London area, which road directly reaches Goodman's Yard?",C,Bowyer Place,Camomile Street,Prescot Street,Lower Road
+1180,"In the London area, which road directly reaches Westway Roundabout?",B,Nelson Road,West Cross Route,Parkgate Road,St Asaph Road
+1181,"In the London area, which road directly reaches West Cross Route?",C,Bricklayers Arms Roundabout,Prince of Wales Road,Holland Park Roundabout,Oxestalls Road
+1182,"In the London area, which road cannot directly reach Holland Park Roundabout?",B,Uxbridge Road,Hendon Way,West Cross Route,Holland Road
+1183,"In the London area, which road directly reaches Howland Street?",A,Cleveland Street,Osnaburgh Terrace,Finsbury Pavement,Royal Crescent
+1184,"In the London area, which road directly reaches Wandsworth Plain?",D,Tibbet's Corner,Greenwich South Street,Lisson Grove,Armoury Way
+1185,"In the London area, which road directly reaches Achilles Way?",C,Bow Flyover,Drayton Gardens,Park Lane,Clapham High Street
+1186,"In the London area, which road directly reaches Bloomsbury Way?",C,Lauriston Road,Nelson Road,Vernon Place,Pont Street
+1187,"In the London area, which road directly reaches North Audley Street?",B,Stoke Newington Church Street,Grosvenor Square,Bermondsey Street,Jubilee Street
+1188,"In the London area, which road directly reaches Coventry Street?",C,Rotherhithe New Road,Parkfield Road,Great Windmill Street,Lower Terrace
+1189,"In the London area, which road directly reaches Great Windmill Street?",A,Coventry Street,Vanbrugh Park,Lake House Road,Stoke Newington Church Street
+1190,"In the London area, which road directly reaches Belgrave Square?",A,Belgrave Place,Chapman Road,Kenworthy Road,Margaret Street
+1191,"In the London area, which road directly reaches Eccleston Square?",A,Bridge Place,Milkwood Road,Camden Road,West Smithfield
+1192,"In the London area, which road directly reaches Bridge Place?",A,Eccleston Square,Shirley Street,Torriano Avenue,Spert Street
+1193,"In the London area, which road directly reaches Rochester Way Relief Road?",A,Blackwall Tunnel Approach,Pall Mall,Hackney Road,Chobham Road
+1194,"In the London area, which road directly reaches Aspen Way?",B,Tibbet's Ride,East India Dock Road,Guilford Street,Herrick Street
+1195,"In the London area, which road cannot directly reach Leamouth Roundabout?",B,Lower Lea Crossing,St George's Drive,Aspen Way,Leamouth Road
+1196,"In the London area, which road directly reaches Lidlington Place?",C,Endell Street,Inverness Terrace,Harrington Square,Bristol Gardens
+1197,"In the London area, which road directly reaches Millennium Way?",C,St. John Street,Brixton Water Lane,Dreadnought Street,Spring Street
+1198,"In the London area, which road directly reaches Dreadnought Street?",A,Millennium Way,Pelham Street,Lauderdale Road,Northumberland Avenue
+1199,"In the London area, which road directly reaches Hammersmith Flyover?",D,Church Crescent,Newington Green,Montpelier Row,Talgarth Road
+1200,"In the London area, which road directly reaches Bricklayers Arms Flyover?",B,Queenstown Road,Old Kent Road,Russell Square,Boundary Road
+1201,"In the London area, which road directly reaches Swandon Way?",C,Florence Road,Morris Road,Armoury Way,Bricklayers Arms
+1202,"In the London area, which road directly reaches Hornton Street?",B,York Street,Kensington High Street,Elsdale Street,Lower Thames Street
+1203,"In the London area, which road directly reaches Curzon Gate?",C,Dulwich Village,Calthorpe Street,Park Lane,Bidder Street
+1204,"In the London area, which road directly reaches Bow Flyover?",C,Anderson Street,North Side Wandsworth Common,High Street,York Street
+1205,"In the London area, which road directly reaches Brook Gate?",D,High Road,Beaufort Street,Pembroke Road,Park Lane
+1206,"In the London area, which road directly reaches Henrietta Place?",B,Alexandra Road,Welbeck Street,Long Road,Osborn Street
+1207,"In the London area, which road directly reaches Ranelagh Bridge?",B,Malden Road,Westway,Wrentham Avenue,Consort Road
+1208,"In the London area, which road directly reaches Bricklayers Arms?",C,Bricklayers Arms Flyover,New North Road,New Kent Road,Offord Road
+1209,"In the London area, which road directly reaches Euston Underpass?",D,Humphrey Street,St. Botolph Street,Malden Road,Euston Road
+1210,"In the London area, which road directly reaches East India Dock Road Tunnel?",D,Berkeley Street,Peckham Park Road,Wapping Lane,East India Dock Road
+1211,"In the London area, which road directly reaches Blackwall Tunnel?",C,Euston Underpass,Gallery Road,Silvertown Tunnel Approach,Goldsmith Road
+1212,"In the London area, which road directly reaches Holland Road?",A,Holland Park Roundabout,Hackney Road,Kensington Mall,Arkwright Road
+1213,"In the London area, which road directly reaches Cheshire Street?",B,Banister Road,Osborn Street,Greenwich Church Street,Putney Bridge
+1214,"In the London area, which road directly reaches Osborn Street?",D,Fulham Palace Road,Lower Terrace,Retreat Place,Cheshire Street
+1215,"In the London area, which road directly reaches Approach Road?",B,High Road Leyton,Bonner Road,Kings Avenue,Humphrey Street
+1216,"In the London area, which road directly reaches Glenthorne Road?",D,Homerton High Street,Leyton Road,Balham Hill,Hammersmith Broadway
+1217,"In the London area, which road directly reaches Parkfield Road?",A,Lewisham Way,Mortimer Road,Tiverton Road,Patmos Road
+1218,"In the London area, which road directly reaches Brookfield Road?",B,Castlehaven Road,Victoria Park Road,Amersham Road,Puddle Dock
+1219,"In the London area, which road cannot directly reach Aldersgate Rotunda?",A,Nine Elms Lane,London Wall,Aldersgate Street,King Edward Street
+1220,"In the London area, which road directly reaches Imperial Street?",C,Frognal,Byward Street,Hancock Road,Drakefell Road
+1221,"In the London area, which road directly reaches Shirley Street?",A,Silvertown Way,Priory Road,York Way,Globe Road
+1222,"In the London area, which road directly reaches Broad Sanctuary?",B,Spencer Street,Parliament Square,Aldersgate Street,Provost Street
+1223,"In the London area, which road directly reaches Temple Mills Road?",A,East Cross Route,Tidal Basin Roundabout,Whiston Road,Cotton Street
+1224,"In the London area, which road directly reaches East Cross Route?",C,Magdalen Road,Dulwich Road,Temple Mills Road,Pancras Road
+1225,"In the London area, which road directly reaches Gillender Street?",B,Goodge Street,Blackwall Tunnel Northern Approach,Brixton Road,Connaught Square
+1226,"In the London area, which road directly reaches Holles Street?",C,Essex Road,Homestall Road,Cavendish Square,Pond Street
+1227,"In the London area, which road directly reaches Strand Underpass?",B,St Giles High Street,Kingsway,Lavender Hill,Eaton Square
+1228,"In the London area, which road directly reaches Warwick Gardens?",B,York Way,Pembroke Road,Matthias Road,Blackwall Tunnel Approach
+1229,"In the London area, which road directly reaches Byward Street?",B,Putney Bridge Road,Fish Street Hill,Ladbroke Gardens,Falcon Road
+1230,"In the London area, which road directly reaches Bow Roundabout?",A,High Street,Lake House Road,Bishops Bridge Road,Heaton Road
+1231,"In the London area, which road directly reaches East Street?",D,Goldhurst Terrace,Osborne Road,Crossway,Old Kent Road
+1232,"In the London area, which road directly reaches Charlton Road?",C,Pratt Street,Horseferry Road,Westcombe Hill,Hermit Road
+1233,"In the London area, which road directly reaches Westcombe Hill?",A,Charlton Road,Woburn Place,New Oxford Street,Orient Way
+1234,"In the London area, which road directly reaches Symons Street?",D,Harbour Avenue,Lymington Road,Rochester Row,Sloane Square
+1235,"In the London area, which road directly reaches Peartree Way?",D,Oakley Street,Tavistock Square,Fulham Broadway,Woolwich Road
+1236,"In the London area, which road directly reaches Devonshire Place?",D,Prince Albert Road,Clifton Villas,Lower Lea Crossing,Marylebone Road
+1237,"In the London area, which road directly reaches Nuttall Street?",C,Shooters Hill Road,Praed Street,De Beauvoir Road,Nunhead Lane
+1238,"In the London area, which road directly reaches Deals Gateway?",B,Pomeroy Street,Deptford Bridge,Albion Road,Shirland Road

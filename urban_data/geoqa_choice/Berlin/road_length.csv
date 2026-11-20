@@ -1,0 +1,738 @@
+id,question,answer,A,B,C,D,E
+0,How long is Michael-Brückner-Straße in the Berlin area?,C,8200.0,1230.0,4100.0,12300.0,410.0
+1,How long is Fennstraße in the Berlin area?,B,6200.0,3100.0,310.0,9300.0,930.0
+2,How long is Theodor-Heuss-Platz in the Berlin area?,D,200.0,100.0,100.0,100.0,300.0
+3,How long is Masurenallee in the Berlin area?,B,120.0,400.0,800.0,1200.0,100.0
+4,How long is Platz am Wilden Eber in the Berlin area?,C,0.0,0.0,0.0,100.0,100.0
+5,How long is Warnemünder Straße in the Berlin area?,A,800.0,240.0,100.0,1600.0,2400.0
+6,How long is Nonnendammallee in the Berlin area?,D,1080.0,7200.0,360.0,3600.0,10800.0
+7,How long is Siemensdamm in the Berlin area?,D,5700.0,190.0,570.0,1900.0,3800.0
+8,How long is Seestraße in the Berlin area?,D,12300.0,8200.0,410.0,4100.0,1230.0
+9,How long is AVUS in the Berlin area?,B,14100.0,4700.0,1410.0,470.0,9400.0
+10,How long is Minna-Cauer-Straße in the Berlin area?,D,1200.0,180.0,100.0,600.0,1800.0
+11,How long is Tunnel Tiergarten Spreebogen in the Berlin area?,A,2700.0,5400.0,810.0,270.0,8100.0
+12,How long is Halenseestraße in the Berlin area?,D,220.0,660.0,4400.0,2200.0,6600.0
+13,How long is Detmolder Straße in the Berlin area?,C,3600.0,180.0,1800.0,540.0,5400.0
+14,How long is Wexstraße in the Berlin area?,A,1300.0,3900.0,2600.0,390.0,130.0
+15,How long is Großer Stern in the Berlin area?,C,0.0,0.0,0.0,100.0,100.0
+16,How long is Straße des 17. Juni in the Berlin area?,D,15000.0,1500.0,500.0,5000.0,10000.0
+17,How long is Ernst-Reuter-Platz in the Berlin area?,E,100.0,0.0,0.0,100.0,0.0
+18,How long is Bismarckstraße in the Berlin area?,C,7800.0,11700.0,3900.0,1170.0,390.0
+19,How long is Otto-Suhr-Allee in the Berlin area?,B,300.0,3000.0,9000.0,6000.0,900.0
+20,How long is Seidelstraße in the Berlin area?,C,220.0,4400.0,2200.0,660.0,6600.0
+21,How long is Scharnweberstraße in the Berlin area?,A,2500.0,5000.0,7500.0,750.0,250.0
+22,How long is Altonaer Straße in the Berlin area?,D,450.0,4500.0,150.0,1500.0,3000.0
+23,How long is Rheinbabenallee in the Berlin area?,D,3000.0,450.0,150.0,1500.0,4500.0
+24,How long is Kurt-Schumacher-Damm in the Berlin area?,A,4200.0,1260.0,420.0,12600.0,8400.0
+25,How long is Giesebrechtstraße in the Berlin area?,D,100.0,0.0,0.0,0.0,100.0
+26,How long is Kurfürstendamm in the Berlin area?,C,630.0,1890.0,6300.0,12600.0,18900.0
+27,How long is Bundesallee in the Berlin area?,E,9000.0,6000.0,300.0,900.0,3000.0
+28,How long is Bundesplatz in the Berlin area?,B,150.0,500.0,1000.0,1500.0,100.0
+29,How long is Kaiser-Friedrich-Straße in the Berlin area?,C,9300.0,310.0,3100.0,6200.0,930.0
+30,How long is Lewishamstraße in the Berlin area?,C,450.0,1350.0,4500.0,13500.0,9000.0
+31,How long is Jakob-Kaiser-Platz in the Berlin area?,E,100.0,100.0,0.0,0.0,0.0
+32,How long is Goerdelerdamm in the Berlin area?,D,600.0,100.0,400.0,200.0,100.0
+33,How long is Spichernstraße in the Berlin area?,D,1200.0,1800.0,180.0,600.0,100.0
+34,How long is Schloßstraße in the Berlin area?,C,27900.0,2790.0,9300.0,930.0,18600.0
+35,How long is Hauptstraße in the Berlin area?,C,25600.0,1280.0,12800.0,3840.0,38400.0
+36,How long is Rubensstraße in the Berlin area?,E,9600.0,6400.0,320.0,960.0,3200.0
+37,How long is Tegeler Weg in the Berlin area?,C,3000.0,4500.0,1500.0,150.0,450.0
+38,How long is Unter den Eichen in the Berlin area?,A,3300.0,990.0,9900.0,330.0,6600.0
+39,How long is Hundekehlestraße in the Berlin area?,E,1000.0,1500.0,100.0,150.0,500.0
+40,How long is Konstanzer Straße in the Berlin area?,A,700.0,210.0,1400.0,100.0,2100.0
+41,How long is Reichsstraße in the Berlin area?,A,4000.0,8000.0,12000.0,1200.0,400.0
+42,How long is Platanenallee in the Berlin area?,E,100.0,0.0,0.0,100.0,0.0
+43,How long is Steubenplatz in the Berlin area?,D,100.0,0.0,0.0,0.0,100.0
+44,How long is Bolivarallee in the Berlin area?,D,100.0,2100.0,210.0,700.0,1400.0
+45,How long is Friedrich-Wilhelm-Platz in the Berlin area?,B,400.0,200.0,600.0,100.0,100.0
+46,How long is An der Wuhlheide in the Berlin area?,E,2250.0,15000.0,22500.0,750.0,7500.0
+47,How long is Osloer Straße in the Berlin area?,B,3400.0,1700.0,170.0,510.0,5100.0
+48,How long is Alt-Friedrichsfelde in the Berlin area?,B,7000.0,3500.0,10500.0,1050.0,350.0
+49,How long is Breitenbachplatz in the Berlin area?,E,100.0,400.0,600.0,100.0,200.0
+50,How long is Schorlemerallee in the Berlin area?,E,270.0,2700.0,100.0,1800.0,900.0
+51,How long is Englerallee in the Berlin area?,A,400.0,120.0,100.0,800.0,1200.0
+52,How long is Kottbusser Tor in the Berlin area?,E,0.0,0.0,100.0,100.0,0.0
+53,How long is Skalitzer Straße in the Berlin area?,D,330.0,9900.0,990.0,3300.0,6600.0
+54,How long is Ostseestraße in the Berlin area?,C,420.0,4200.0,1400.0,140.0,2800.0
+55,How long is Strausberger Platz in the Berlin area?,C,3000.0,300.0,1000.0,2000.0,100.0
+56,How long is Platz der Vereinten Nationen in the Berlin area?,B,3400.0,1700.0,5100.0,510.0,170.0
+57,How long is Landsberger Allee in the Berlin area?,A,18000.0,5400.0,1800.0,36000.0,54000.0
+58,How long is Friedenstraße in the Berlin area?,D,5400.0,270.0,8100.0,2700.0,810.0
+59,How long is Leuschnerdamm in the Berlin area?,D,100.0,0.0,0.0,0.0,100.0
+60,How long is Bethaniendamm in the Berlin area?,B,420.0,1400.0,2800.0,4200.0,140.0
+61,How long is Am Treptower Park in the Berlin area?,B,160.0,1600.0,4800.0,3200.0,480.0
+62,How long is Oderbruchstraße in the Berlin area?,B,8100.0,2700.0,270.0,5400.0,810.0
+63,How long is Märkische Allee in the Berlin area?,B,32100.0,10700.0,3210.0,1070.0,21400.0
+64,How long is Wolfensteindamm in the Berlin area?,D,100.0,1200.0,120.0,400.0,800.0
+65,How long is AS Wolfensteindamm in the Berlin area?,A,300.0,100.0,600.0,900.0,100.0
+66,How long is Fehrbelliner Platz in the Berlin area?,E,200.0,100.0,100.0,300.0,100.0
+67,How long is Brandenburgische Straße in the Berlin area?,C,5200.0,780.0,2600.0,7800.0,260.0
+68,How long is Westfälische Straße in the Berlin area?,B,5600.0,2800.0,280.0,840.0,8400.0
+69,How long is Grunewaldstraße in the Berlin area?,C,22800.0,15200.0,7600.0,760.0,2280.0
+70,How long is Bayerischer Platz in the Berlin area?,D,0.0,0.0,100.0,0.0,100.0
+71,How long is Mehrower Allee in the Berlin area?,E,100.0,0.0,0.0,100.0,0.0
+72,How long is Yorckstraße in the Berlin area?,D,3900.0,130.0,390.0,1300.0,2600.0
+73,How long is Goebenstraße in the Berlin area?,E,100.0,1200.0,800.0,120.0,400.0
+74,How long is Kulmer Straße in the Berlin area?,D,100.0,1200.0,1800.0,600.0,180.0
+75,How long is Heinrich-Mann-Platz in the Berlin area?,A,200.0,400.0,100.0,600.0,100.0
+76,How long is Heinrich-Mann-Straße in the Berlin area?,C,9000.0,6000.0,3000.0,900.0,300.0
+77,How long is Pastor-Niemöller-Platz in the Berlin area?,D,600.0,400.0,100.0,200.0,100.0
+78,How long is Friedrich-Engels-Straße in the Berlin area?,E,11400.0,1710.0,570.0,17100.0,5700.0
+79,How long is Breite Straße in the Berlin area?,D,1650.0,550.0,11000.0,5500.0,16500.0
+80,How long is Otto-Braun-Straße in the Berlin area?,D,270.0,100.0,1800.0,900.0,2700.0
+81,How long is Tunnel Alexanderplatz in the Berlin area?,D,900.0,600.0,100.0,300.0,100.0
+82,How long is Saatwinkler Damm in the Berlin area?,B,1110.0,11100.0,22200.0,3330.0,33300.0
+83,How long is Johannisthaler Chaussee in the Berlin area?,C,880.0,17600.0,8800.0,2640.0,26400.0
+84,How long is Imbuschweg in the Berlin area?,D,100.0,0.0,0.0,0.0,100.0
+85,How long is Berliner Allee in the Berlin area?,E,14100.0,1410.0,9400.0,470.0,4700.0
+86,How long is Rennbahnstraße in the Berlin area?,E,12300.0,1230.0,8200.0,410.0,4100.0
+87,How long is Rummelsburger Straße in the Berlin area?,D,8200.0,12300.0,410.0,4100.0,1230.0
+88,How long is Herkulesbrücke in the Berlin area?,E,100.0,100.0,0.0,0.0,0.0
+89,How long is Lützowplatz in the Berlin area?,C,100.0,400.0,200.0,600.0,100.0
+90,How long is Tunnel Schlangenbader Straße in the Berlin area?,A,300.0,600.0,100.0,100.0,900.0
+91,How long is Adlergestell in the Berlin area?,A,3000.0,9000.0,300.0,900.0,6000.0
+92,How long is Hermann-Hesse-Straße in the Berlin area?,E,3600.0,2400.0,360.0,120.0,1200.0
+93,How long is Wilhelmstraße in the Berlin area?,B,7200.0,3600.0,10800.0,360.0,1080.0
+94,How long is Unter den Linden in the Berlin area?,B,4600.0,2300.0,230.0,690.0,6900.0
+95,How long is Kottbusser Straße in the Berlin area?,B,1200.0,400.0,100.0,800.0,120.0
+96,How long is Klingelhöferstraße in the Berlin area?,E,100.0,100.0,900.0,600.0,300.0
+97,How long is Hardenbergstraße in the Berlin area?,E,2600.0,130.0,3900.0,390.0,1300.0
+98,How long is Marchstraße in the Berlin area?,A,800.0,2400.0,240.0,100.0,1600.0
+99,How long is Kaiserdamm in the Berlin area?,B,160.0,1600.0,4800.0,3200.0,480.0
+100,How long is Heerstraße in the Berlin area?,B,8600.0,4300.0,430.0,12900.0,1290.0
+101,How long is Großbeerenstraße in the Berlin area?,D,6000.0,200.0,600.0,2000.0,4000.0
+102,How long is Grenzallee in the Berlin area?,E,270.0,810.0,5400.0,8100.0,2700.0
+103,How long is Schönhauser Allee in the Berlin area?,D,1440.0,9600.0,480.0,4800.0,14400.0
+104,How long is Berliner Straße in the Berlin area?,E,2370.0,47400.0,71100.0,7110.0,23700.0
+105,How long is Mühlenstraße in the Berlin area?,C,13600.0,2040.0,6800.0,20400.0,680.0
+106,How long is Alt-Biesdorf in the Berlin area?,E,3400.0,170.0,510.0,5100.0,1700.0
+107,How long is Pacelliallee in the Berlin area?,A,2400.0,240.0,7200.0,720.0,4800.0
+108,How long is Rudower Straße in the Berlin area?,C,570.0,5700.0,1900.0,190.0,3800.0
+109,How long is Neuköllner Straße in the Berlin area?,E,4800.0,480.0,160.0,3200.0,1600.0
+110,How long is Daumstraße in the Berlin area?,D,1080.0,360.0,7200.0,3600.0,10800.0
+111,How long is Falkenberger Straße in the Berlin area?,E,100.0,100.0,0.0,0.0,0.0
+112,How long is Hofjägerallee in the Berlin area?,E,100.0,240.0,2400.0,1600.0,800.0
+113,How long is Spreeweg in the Berlin area?,A,300.0,600.0,100.0,100.0,900.0
+114,How long is Clayallee in the Berlin area?,C,740.0,22200.0,7400.0,2220.0,14800.0
+115,How long is Sundgauer Straße in the Berlin area?,B,10200.0,3400.0,1020.0,340.0,6800.0
+116,How long is Neue Krugallee in the Berlin area?,C,380.0,11400.0,3800.0,7600.0,1140.0
+117,How long is Alt-Treptow in the Berlin area?,A,3100.0,310.0,930.0,9300.0,6200.0
+118,How long is Schöneberger Straße in the Berlin area?,C,720.0,240.0,2400.0,4800.0,7200.0
+119,How long is Sachsendamm in the Berlin area?,D,7200.0,720.0,4800.0,2400.0,240.0
+120,How long is Messedamm in the Berlin area?,C,4500.0,3000.0,1500.0,450.0,150.0
+121,How long is Schildhornstraße in the Berlin area?,B,1800.0,900.0,100.0,2700.0,270.0
+122,How long is Rüdigerstraße in the Berlin area?,A,2700.0,8100.0,5400.0,810.0,270.0
+123,How long is Alfredstraße in the Berlin area?,C,100.0,100.0,100.0,300.0,200.0
+124,How long is Prellerweg in the Berlin area?,A,700.0,100.0,210.0,2100.0,1400.0
+125,How long is Thorwaldsenstraße in the Berlin area?,A,1600.0,4800.0,3200.0,160.0,480.0
+126,How long is Reißeckstraße in the Berlin area?,C,100.0,800.0,400.0,1200.0,120.0
+127,How long is Britzer Straße in the Berlin area?,A,1200.0,2400.0,3600.0,360.0,120.0
+128,How long is Zechliner Straße in the Berlin area?,C,420.0,12600.0,4200.0,8400.0,1260.0
+129,How long is Perleberger Straße in the Berlin area?,C,150.0,450.0,1500.0,4500.0,3000.0
+130,How long is Alt-Moabit in the Berlin area?,B,460.0,4600.0,13800.0,9200.0,1380.0
+131,How long is Invalidenstraße in the Berlin area?,D,460.0,13800.0,9200.0,4600.0,1380.0
+132,How long is Flughafenstraße in the Berlin area?,D,3600.0,180.0,5400.0,1800.0,540.0
+133,How long is Romain-Rolland-Straße in the Berlin area?,E,100.0,900.0,600.0,100.0,300.0
+134,How long is Rothenbachstraße in the Berlin area?,E,210.0,2100.0,1400.0,100.0,700.0
+135,How long is Tempelhofer Damm in the Berlin area?,C,18000.0,600.0,6000.0,12000.0,1800.0
+136,How long is Manfred-von-Richthofen-Straße in the Berlin area?,B,6200.0,3100.0,9300.0,310.0,930.0
+137,How long is Hasenheide in the Berlin area?,E,5700.0,190.0,570.0,3800.0,1900.0
+138,How long is Richard-Wagner-Straße in the Berlin area?,A,2300.0,230.0,6900.0,4600.0,690.0
+139,How long is Sonnenallee in the Berlin area?,A,6000.0,600.0,1800.0,12000.0,18000.0
+140,How long is Elsa-Brändström-Straße in the Berlin area?,E,130.0,2600.0,390.0,3900.0,1300.0
+141,How long is Kissingenstraße in the Berlin area?,A,1600.0,160.0,3200.0,480.0,4800.0
+142,How long is Prenzlauer Promenade in the Berlin area?,E,12000.0,400.0,1200.0,8000.0,4000.0
+143,How long is Am Feuchten Winkel in the Berlin area?,D,100.0,100.0,900.0,300.0,600.0
+144,How long is Spreestraße in the Berlin area?,B,3900.0,1300.0,130.0,2600.0,390.0
+145,How long is Kastanienallee in the Berlin area?,A,2600.0,780.0,7800.0,260.0,5200.0
+146,How long is Köpenicker Landstraße in the Berlin area?,B,10200.0,3400.0,340.0,6800.0,1020.0
+147,How long is Bulgarische Straße in the Berlin area?,E,3000.0,100.0,300.0,2000.0,1000.0
+148,How long is Gensinger Straße in the Berlin area?,D,440.0,13200.0,1320.0,4400.0,8800.0
+149,How long is Neue Filandastraße in the Berlin area?,E,2700.0,100.0,270.0,1800.0,900.0
+150,How long is Filandastraße in the Berlin area?,C,100.0,900.0,300.0,100.0,600.0
+151,How long is Martin-Luther-Straße in the Berlin area?,E,14800.0,740.0,22200.0,2220.0,7400.0
+152,How long is Weiskopffstraße in the Berlin area?,B,270.0,900.0,1800.0,2700.0,100.0
+153,How long is Tauentzienstraße in the Berlin area?,B,2000.0,1000.0,3000.0,300.0,100.0
+154,How long is Kleiststraße in the Berlin area?,C,180.0,1800.0,600.0,100.0,1200.0
+155,How long is Budapester Straße in the Berlin area?,D,3000.0,100.0,300.0,1000.0,2000.0
+156,How long is Kantstraße in the Berlin area?,A,3200.0,960.0,6400.0,320.0,9600.0
+157,How long is Buschkrugallee in the Berlin area?,B,9000.0,4500.0,1350.0,13500.0,450.0
+158,How long is Parchimer Allee in the Berlin area?,B,5100.0,1700.0,170.0,510.0,3400.0
+159,How long is Friedrich-Krause-Ufer in the Berlin area?,D,720.0,7200.0,4800.0,2400.0,240.0
+160,How long is Birkbuschstraße in the Berlin area?,B,4200.0,2100.0,630.0,210.0,6300.0
+161,How long is Treskowallee in the Berlin area?,E,21600.0,3240.0,32400.0,1080.0,10800.0
+162,How long is Bersarinplatz in the Berlin area?,A,200.0,600.0,100.0,400.0,100.0
+163,How long is Petersburger Straße in the Berlin area?,D,210.0,630.0,6300.0,2100.0,4200.0
+164,How long is Gustav-Böß-Straße in the Berlin area?,A,300.0,900.0,100.0,600.0,100.0
+165,How long is Grunerstraße in the Berlin area?,B,100.0,1000.0,300.0,2000.0,3000.0
+166,How long is Manteuffelstraße in the Berlin area?,D,4400.0,220.0,660.0,2200.0,6600.0
+167,How long is Inselstraße in the Berlin area?,D,600.0,900.0,100.0,300.0,100.0
+168,How long is Wallstraße in the Berlin area?,A,600.0,100.0,180.0,1800.0,1200.0
+169,How long is Frankfurter Allee in the Berlin area?,D,9600.0,960.0,320.0,3200.0,6400.0
+170,How long is Reichweindamm in the Berlin area?,E,100.0,200.0,300.0,100.0,100.0
+171,How long is Kleine Eiswerderstraße in the Berlin area?,E,210.0,100.0,1400.0,2100.0,700.0
+172,How long is Pasewalker Straße in the Berlin area?,B,2000.0,1000.0,100.0,300.0,3000.0
+173,How long is Grumbkowstraße in the Berlin area?,C,240.0,100.0,800.0,2400.0,1600.0
+174,How long is Buchholzer Straße in the Berlin area?,A,2400.0,240.0,720.0,7200.0,4800.0
+175,How long is Ludwigsfelder Straße in the Berlin area?,D,600.0,100.0,900.0,300.0,100.0
+176,How long is Freiheit in the Berlin area?,D,770.0,23100.0,15400.0,7700.0,2310.0
+177,How long is Oberfeldstraße in the Berlin area?,D,100.0,2400.0,240.0,800.0,1600.0
+178,How long is Blankenburger Pflasterweg in the Berlin area?,E,670.0,20100.0,2010.0,13400.0,6700.0
+179,How long is Lübener Weg in the Berlin area?,E,1800.0,2700.0,100.0,270.0,900.0
+180,How long is Am Postfenn in the Berlin area?,E,1470.0,9800.0,14700.0,490.0,4900.0
+181,How long is Marienfelder Allee in the Berlin area?,C,220.0,4400.0,2200.0,6600.0,660.0
+182,How long is Rudolf-Rühl-Allee in the Berlin area?,E,300.0,2000.0,100.0,3000.0,1000.0
+183,How long is Eichkampstraße in the Berlin area?,E,7800.0,260.0,5200.0,780.0,2600.0
+184,How long is Bentschener Weg in the Berlin area?,E,540.0,3600.0,5400.0,180.0,1800.0
+185,How long is Heinersdorfer Straße in the Berlin area?,E,15000.0,1500.0,10000.0,500.0,5000.0
+186,How long is Bundesstraße 2 in the Berlin area?,B,2700.0,900.0,100.0,1800.0,270.0
+187,How long is Tunnelstraße in the Berlin area?,D,260.0,5200.0,780.0,2600.0,7800.0
+188,How long is Hertzstraße in the Berlin area?,D,840.0,8400.0,280.0,2800.0,5600.0
+189,How long is Köpenicker Straße in the Berlin area?,E,1350.0,13500.0,450.0,9000.0,4500.0
+190,How long is Am Nordgraben in the Berlin area?,B,150.0,500.0,100.0,1500.0,1000.0
+191,How long is Seehofstraße in the Berlin area?,C,400.0,8000.0,4000.0,12000.0,1200.0
+192,How long is Blankenburger Straße in the Berlin area?,A,3700.0,7400.0,11100.0,1110.0,370.0
+193,How long is Ostendstraße in the Berlin area?,C,350.0,7000.0,3500.0,1050.0,10500.0
+194,How long is Goerzallee in the Berlin area?,B,230.0,2300.0,690.0,6900.0,4600.0
+195,How long is Machnower Straße in the Berlin area?,E,810.0,5400.0,8100.0,270.0,2700.0
+196,How long is Dietzgenstraße in the Berlin area?,A,600.0,100.0,1200.0,1800.0,180.0
+197,How long is Kanalstraße in the Berlin area?,B,11200.0,5600.0,560.0,16800.0,1680.0
+198,How long is Daimlerstraße in the Berlin area?,B,2600.0,1300.0,3900.0,130.0,390.0
+199,How long is Dahlemer Weg in the Berlin area?,A,5700.0,570.0,1710.0,11400.0,17100.0
+200,How long is Lindenthaler Allee in the Berlin area?,D,310.0,9300.0,6200.0,3100.0,930.0
+201,How long is Grabensprung in the Berlin area?,C,150.0,1500.0,500.0,100.0,1000.0
+202,How long is Ahrensfelder Chaussee in the Berlin area?,E,7800.0,260.0,5200.0,780.0,2600.0
+203,How long is Sylter Straße in the Berlin area?,C,400.0,100.0,200.0,100.0,600.0
+204,How long is Teltower Damm in the Berlin area?,E,3600.0,5400.0,180.0,540.0,1800.0
+205,How long is Roedernallee in the Berlin area?,D,180.0,5400.0,3600.0,1800.0,540.0
+206,How long is Dörpfeldstraße in the Berlin area?,B,3000.0,1000.0,300.0,100.0,2000.0
+207,How long is Erkstraße in the Berlin area?,D,100.0,100.0,600.0,200.0,400.0
+208,How long is Luzerner Straße in the Berlin area?,C,210.0,2100.0,700.0,100.0,1400.0
+209,How long is Nordufer in the Berlin area?,E,100.0,100.0,0.0,0.0,0.0
+210,How long is Paul-Schneider-Straße in the Berlin area?,E,100.0,100.0,200.0,300.0,100.0
+211,How long is Fischerhüttenstraße in the Berlin area?,E,12600.0,1260.0,8400.0,420.0,4200.0
+212,How long is Gallwitzallee in the Berlin area?,A,4200.0,420.0,1260.0,8400.0,12600.0
+213,How long is Heckerdamm in the Berlin area?,C,560.0,1680.0,5600.0,11200.0,16800.0
+214,How long is Münzstraße in the Berlin area?,B,1800.0,600.0,180.0,1200.0,100.0
+215,How long is Fontanestraße in the Berlin area?,E,120.0,100.0,800.0,1200.0,400.0
+216,How long is Lorenzstraße in the Berlin area?,D,200.0,4000.0,6000.0,2000.0,600.0
+217,How long is Schnellerstraße in the Berlin area?,E,2310.0,770.0,23100.0,15400.0,7700.0
+218,How long is Osteweg in the Berlin area?,B,2400.0,800.0,240.0,100.0,1600.0
+219,How long is Conradstraße in the Berlin area?,E,10200.0,6800.0,1020.0,340.0,3400.0
+220,How long is Ostpreußendamm in the Berlin area?,A,4700.0,470.0,1410.0,9400.0,14100.0
+221,How long is Karl-Marx-Allee in the Berlin area?,D,250.0,7500.0,5000.0,2500.0,750.0
+222,How long is Warschauer Straße in the Berlin area?,A,2700.0,810.0,8100.0,270.0,5400.0
+223,How long is Kurt-Schumacher-Platz in the Berlin area?,B,120.0,1200.0,2400.0,360.0,3600.0
+224,How long is Gotthardstraße in the Berlin area?,B,1680.0,5600.0,16800.0,560.0,11200.0
+225,How long is Kapweg in the Berlin area?,D,1200.0,100.0,800.0,400.0,120.0
+226,How long is Müllerstraße in the Berlin area?,B,1410.0,4700.0,470.0,9400.0,14100.0
+227,How long is Gneisenaustraße in the Berlin area?,B,630.0,2100.0,6300.0,4200.0,210.0
+228,How long is Mehringdamm in the Berlin area?,D,240.0,720.0,7200.0,2400.0,4800.0
+229,How long is Prenzlauer Allee in the Berlin area?,A,5300.0,530.0,1590.0,15900.0,10600.0
+230,How long is Wisbyer Straße in the Berlin area?,A,1900.0,190.0,5700.0,570.0,3800.0
+231,How long is Ollenhauerstraße in the Berlin area?,A,1600.0,3200.0,160.0,480.0,4800.0
+232,How long is Komturstraße in the Berlin area?,D,210.0,630.0,6300.0,2100.0,4200.0
+233,How long is Teilestraße in the Berlin area?,D,6000.0,600.0,4000.0,2000.0,200.0
+234,How long is Ordensmeisterstraße in the Berlin area?,A,2100.0,630.0,210.0,4200.0,6300.0
+235,How long is Yitzhak-Rabin-Straße in the Berlin area?,B,100.0,300.0,100.0,600.0,900.0
+236,How long is Heinrich-von-Gagern-Straße in the Berlin area?,B,100.0,200.0,100.0,400.0,600.0
+237,How long is Scheidemannstraße in the Berlin area?,C,100.0,600.0,300.0,900.0,100.0
+238,How long is John-Foster-Dulles-Allee in the Berlin area?,A,1000.0,3000.0,100.0,2000.0,300.0
+239,How long is Fasanenstraße in the Berlin area?,A,1100.0,110.0,330.0,3300.0,2200.0
+240,How long is Einsteinufer in the Berlin area?,A,1900.0,570.0,5700.0,190.0,3800.0
+241,How long is Blissestraße in the Berlin area?,A,900.0,270.0,2700.0,1800.0,100.0
+242,How long is Hohenzollerndamm in the Berlin area?,A,4100.0,12300.0,8200.0,1230.0,410.0
+243,How long is Seesener Straße in the Berlin area?,B,5100.0,1700.0,510.0,3400.0,170.0
+244,How long is Joachim-Friedrich-Straße in the Berlin area?,C,540.0,180.0,1800.0,3600.0,5400.0
+245,How long is Spandauer Damm in the Berlin area?,E,440.0,13200.0,1320.0,8800.0,4400.0
+246,How long is Lerschpfad in the Berlin area?,D,100.0,200.0,100.0,100.0,300.0
+247,How long is Neue Kantstraße in the Berlin area?,D,3600.0,2400.0,120.0,1200.0,360.0
+248,How long is Suarezstraße in the Berlin area?,C,120.0,1200.0,400.0,100.0,800.0
+249,How long is Ebertstraße in the Berlin area?,C,130.0,3900.0,1300.0,390.0,2600.0
+250,How long is Potsdamer Platz in the Berlin area?,A,800.0,1600.0,240.0,2400.0,100.0
+251,How long is Leipziger Platz in the Berlin area?,E,100.0,0.0,100.0,0.0,0.0
+252,How long is Potsdamer Straße in the Berlin area?,C,390.0,7800.0,3900.0,11700.0,1170.0
+253,How long is Stresemannstraße in the Berlin area?,B,8600.0,4300.0,430.0,1290.0,12900.0
+254,How long is Beusselstraße in the Berlin area?,C,510.0,5100.0,1700.0,3400.0,170.0
+255,How long is Bachstraße in the Berlin area?,A,1000.0,3000.0,100.0,300.0,2000.0
+256,How long is Lessingstraße in the Berlin area?,E,2100.0,100.0,210.0,1400.0,700.0
+257,How long is Stromstraße in the Berlin area?,D,450.0,150.0,4500.0,1500.0,3000.0
+258,How long is Franklinstraße in the Berlin area?,B,2700.0,900.0,270.0,1800.0,100.0
+259,How long is Salzufer in the Berlin area?,D,200.0,6000.0,600.0,2000.0,4000.0
+260,How long is Schulstraße in the Berlin area?,A,1000.0,100.0,3000.0,2000.0,300.0
+261,How long is Luxemburger Straße in the Berlin area?,C,140.0,4200.0,1400.0,2800.0,420.0
+262,How long is Cauerstraße in the Berlin area?,D,100.0,180.0,1200.0,600.0,1800.0
+263,How long is Leibnizstraße in the Berlin area?,A,2000.0,6000.0,600.0,4000.0,200.0
+264,How long is Joachimsthaler Straße in the Berlin area?,C,1200.0,180.0,600.0,100.0,1800.0
+265,How long is Sickingenstraße in the Berlin area?,E,180.0,3600.0,5400.0,540.0,1800.0
+266,How long is Siemensstraße in the Berlin area?,C,100.0,1600.0,800.0,2400.0,240.0
+267,How long is Turmstraße in the Berlin area?,C,9600.0,6400.0,3200.0,320.0,960.0
+268,How long is Wintersteinstraße in the Berlin area?,E,3900.0,390.0,130.0,2600.0,1300.0
+269,How long is Thielallee in the Berlin area?,B,11600.0,5800.0,17400.0,580.0,1740.0
+270,How long is Paulsborner Straße in the Berlin area?,B,21600.0,7200.0,720.0,2160.0,14400.0
+271,How long is Badensche Straße in the Berlin area?,D,210.0,630.0,4200.0,2100.0,6300.0
+272,How long is Königin-Elisabeth-Straße in the Berlin area?,D,170.0,3400.0,5100.0,1700.0,510.0
+273,How long is Luisenplatz in the Berlin area?,E,900.0,600.0,100.0,100.0,300.0
+274,How long is Rudolstädter Straße in the Berlin area?,C,130.0,2600.0,1300.0,3900.0,390.0
+275,How long is Mecklenburgische Straße in the Berlin area?,D,5600.0,840.0,280.0,2800.0,8400.0
+276,How long is Uhlandstraße in the Berlin area?,D,900.0,9000.0,6000.0,3000.0,300.0
+277,How long is Nachodstraße in the Berlin area?,D,100.0,270.0,2700.0,900.0,1800.0
+278,How long is Fürstenbrunner Weg in the Berlin area?,C,420.0,1260.0,4200.0,8400.0,12600.0
+279,How long is Friedenauer Brücke in the Berlin area?,E,100.0,300.0,200.0,100.0,100.0
+280,How long is Knausstraße in the Berlin area?,D,100.0,100.0,400.0,200.0,600.0
+281,How long is Saarstraße in the Berlin area?,C,900.0,100.0,300.0,600.0,100.0
+282,How long is Mierendorffplatz in the Berlin area?,B,210.0,700.0,2100.0,100.0,1400.0
+283,How long is Kaiserin-Augusta-Allee in the Berlin area?,D,2600.0,3900.0,390.0,1300.0,130.0
+284,How long is Sömmeringstraße in the Berlin area?,C,3600.0,5400.0,1800.0,540.0,180.0
+285,How long is Lise-Meitner-Straße in the Berlin area?,B,250.0,2500.0,750.0,7500.0,5000.0
+286,How long is Drakestraße in the Berlin area?,A,3400.0,340.0,6800.0,1020.0,10200.0
+287,How long is Habelschwerdter Allee in the Berlin area?,A,800.0,100.0,240.0,2400.0,1600.0
+288,How long is Teplitzer Straße in the Berlin area?,E,100.0,2700.0,1800.0,270.0,900.0
+289,How long is Nürnberger Straße in the Berlin area?,D,2400.0,3600.0,120.0,1200.0,360.0
+290,How long is Lietzenburger Straße in the Berlin area?,D,7000.0,1050.0,350.0,3500.0,10500.0
+291,How long is Knobelsdorffstraße in the Berlin area?,E,9600.0,6400.0,320.0,960.0,3200.0
+292,How long is Klingsorstraße in the Berlin area?,C,12000.0,18000.0,6000.0,1800.0,600.0
+293,How long is Albrechtstraße in the Berlin area?,D,510.0,3400.0,5100.0,1700.0,170.0
+294,How long is Königin-Luise-Straße in the Berlin area?,B,9000.0,4500.0,450.0,1350.0,13500.0
+295,How long is Schloßstraße / Sophie-Charlotte-Platz in the Berlin area?,A,200.0,400.0,100.0,100.0,600.0
+296,How long is Sophie-Charlotte-Platz in the Berlin area?,A,200.0,400.0,600.0,100.0,100.0
+297,How long is Pallasstraße in the Berlin area?,D,4800.0,3200.0,160.0,1600.0,480.0
+298,How long is Dominicusstraße in the Berlin area?,A,600.0,1200.0,1800.0,180.0,100.0
+299,How long is Tempelhofer Ufer in the Berlin area?,D,2400.0,1600.0,100.0,800.0,240.0
+300,How long is Gitschiner Straße in the Berlin area?,E,7800.0,780.0,5200.0,260.0,2600.0
+301,How long is Lindenstraße in the Berlin area?,C,540.0,3600.0,1800.0,180.0,5400.0
+302,How long is Zossener Straße in the Berlin area?,A,1700.0,170.0,510.0,5100.0,3400.0
+303,How long is Hallesches Ufer in the Berlin area?,C,3900.0,130.0,1300.0,390.0,2600.0
+304,How long is Joachim-Tiburtius-Brücke in the Berlin area?,D,2600.0,130.0,390.0,1300.0,3900.0
+305,How long is Afrikanische Straße in the Berlin area?,B,5100.0,1700.0,510.0,3400.0,170.0
+306,How long is Amrumer Straße in the Berlin area?,C,3000.0,300.0,1000.0,2000.0,100.0
+307,How long is Wiebestraße in the Berlin area?,A,1000.0,2000.0,300.0,3000.0,100.0
+308,How long is Huttenstraße in the Berlin area?,B,5100.0,1700.0,3400.0,510.0,170.0
+309,How long is Prinzenallee in the Berlin area?,D,130.0,3900.0,390.0,1300.0,2600.0
+310,How long is Pankstraße in the Berlin area?,C,510.0,3400.0,1700.0,5100.0,170.0
+311,How long is Badstraße in the Berlin area?,A,1600.0,480.0,160.0,4800.0,3200.0
+312,How long is Bornholmer Straße in the Berlin area?,E,220.0,6600.0,660.0,4400.0,2200.0
+313,How long is Schwedenstraße in the Berlin area?,D,1800.0,1200.0,180.0,600.0,100.0
+314,How long is Residenzstraße in the Berlin area?,E,6400.0,960.0,320.0,9600.0,3200.0
+315,How long is Teichstraße in the Berlin area?,B,420.0,1400.0,2800.0,4200.0,140.0
+316,How long is Lindauer Allee in the Berlin area?,C,9900.0,990.0,3300.0,330.0,6600.0
+317,How long is Transvaalstraße in the Berlin area?,C,4200.0,6300.0,2100.0,210.0,630.0
+318,How long is Barfusstraße in the Berlin area?,B,5100.0,1700.0,510.0,3400.0,170.0
+319,How long is Rohrdamm in the Berlin area?,D,9300.0,930.0,6200.0,3100.0,310.0
+320,How long is Otternbuchtstraße in the Berlin area?,E,600.0,4000.0,6000.0,200.0,2000.0
+321,How long is Paulsternstraße in the Berlin area?,B,3300.0,1100.0,110.0,2200.0,330.0
+322,How long is Hohenstaufenstraße in the Berlin area?,E,1600.0,240.0,100.0,2400.0,800.0
+323,How long is Dillenburger Straße in the Berlin area?,A,400.0,100.0,800.0,120.0,1200.0
+324,How long is Südwestkorso in the Berlin area?,D,900.0,6000.0,300.0,3000.0,9000.0
+325,How long is Grazer Damm in the Berlin area?,E,240.0,4800.0,720.0,7200.0,2400.0
+326,How long is Munsterdamm in the Berlin area?,A,1800.0,3600.0,5400.0,540.0,180.0
+327,How long is Holzhauser Straße in the Berlin area?,C,4400.0,6600.0,2200.0,660.0,220.0
+328,How long is Bernauer Straße in the Berlin area?,B,19500.0,6500.0,13000.0,1950.0,650.0
+329,How long is Vorarlberger Damm in the Berlin area?,D,7500.0,750.0,250.0,2500.0,5000.0
+330,How long is Emmentaler Straße in the Berlin area?,E,1230.0,410.0,8200.0,12300.0,4100.0
+331,How long is Chausseestraße in the Berlin area?,B,9200.0,4600.0,13800.0,1380.0,460.0
+332,How long is Friedrichstraße in the Berlin area?,D,9900.0,6600.0,990.0,3300.0,330.0
+333,How long is Torstraße in the Berlin area?,B,140.0,1400.0,420.0,4200.0,2800.0
+334,How long is Hannoversche Straße in the Berlin area?,B,2200.0,1100.0,3300.0,110.0,330.0
+335,How long is Glinkastraße in the Berlin area?,D,3600.0,360.0,2400.0,1200.0,120.0
+336,How long is Schützenstraße in the Berlin area?,D,150.0,1000.0,100.0,500.0,1500.0
+337,How long is Leipziger Straße in the Berlin area?,B,360.0,1200.0,3600.0,120.0,2400.0
+338,How long is Axel-Springer-Straße in the Berlin area?,E,1200.0,800.0,100.0,120.0,400.0
+339,How long is Rudi-Dutschke-Straße in the Berlin area?,E,270.0,1800.0,100.0,2700.0,900.0
+340,How long is Oranienstraße in the Berlin area?,B,810.0,2700.0,270.0,8100.0,5400.0
+341,How long is Anhalter Straße in the Berlin area?,C,100.0,900.0,300.0,100.0,600.0
+342,How long is Alexanderstraße in the Berlin area?,C,420.0,4200.0,1400.0,2800.0,140.0
+343,How long is Memhardstraße in the Berlin area?,A,200.0,600.0,100.0,100.0,400.0
+344,How long is Karl-Liebknecht-Straße in the Berlin area?,E,180.0,540.0,5400.0,3600.0,1800.0
+345,How long is Storkower Straße in the Berlin area?,D,41400.0,4140.0,1380.0,13800.0,27600.0
+346,How long is Grellstraße in the Berlin area?,D,3000.0,450.0,4500.0,1500.0,150.0
+347,How long is Greifswalder Straße in the Berlin area?,E,14400.0,9600.0,1440.0,480.0,4800.0
+348,How long is Michelangelostraße in the Berlin area?,C,100.0,1200.0,400.0,800.0,120.0
+349,How long is Kniprodestraße in the Berlin area?,B,5000.0,2500.0,750.0,250.0,7500.0
+350,How long is Danziger Straße in the Berlin area?,E,10800.0,360.0,7200.0,1080.0,3600.0
+351,How long is Holzmarktstraße in the Berlin area?,C,540.0,3600.0,1800.0,5400.0,180.0
+352,How long is Stralauer Straße in the Berlin area?,E,330.0,110.0,2200.0,3300.0,1100.0
+353,How long is Brückenstraße in the Berlin area?,A,1300.0,3900.0,2600.0,130.0,390.0
+354,How long is Stülerstraße in the Berlin area?,C,3000.0,150.0,1500.0,4500.0,450.0
+355,How long is Tiergartenstraße in the Berlin area?,C,7500.0,5000.0,2500.0,750.0,250.0
+356,How long is Friedrichsberger Straße in the Berlin area?,C,100.0,150.0,500.0,1500.0,1000.0
+357,How long is Andreasstraße in the Berlin area?,E,3000.0,100.0,2000.0,300.0,1000.0
+358,How long is Dudenstraße in the Berlin area?,C,110.0,330.0,1100.0,3300.0,2200.0
+359,How long is Platz der Luftbrücke in the Berlin area?,E,1500.0,1000.0,150.0,100.0,500.0
+360,How long is Neue Roßstraße in the Berlin area?,E,3000.0,100.0,300.0,2000.0,1000.0
+361,How long is Annenstraße in the Berlin area?,D,1400.0,2100.0,210.0,700.0,100.0
+362,How long is Prinzenstraße in the Berlin area?,A,2000.0,6000.0,600.0,4000.0,200.0
+363,How long is Heinrich-Heine-Straße in the Berlin area?,B,100.0,400.0,1200.0,120.0,800.0
+364,How long is Pankower Allee in the Berlin area?,A,1700.0,3400.0,170.0,510.0,5100.0
+365,How long is Reginhardstraße in the Berlin area?,D,1170.0,11700.0,7800.0,3900.0,390.0
+366,How long is Aroser Allee in the Berlin area?,B,5400.0,2700.0,270.0,810.0,8100.0
+367,How long is Kaiserstraße in the Berlin area?,C,480.0,160.0,1600.0,4800.0,3200.0
+368,How long is Rathausstraße in the Berlin area?,E,120.0,2400.0,360.0,3600.0,1200.0
+369,How long is Alarichstraße in the Berlin area?,D,660.0,220.0,6600.0,2200.0,4400.0
+370,How long is Waldstraße in the Berlin area?,E,6000.0,4000.0,600.0,200.0,2000.0
+371,How long is Blücherstraße in the Berlin area?,B,100.0,800.0,240.0,1600.0,2400.0
+372,How long is Urbanstraße in the Berlin area?,A,2300.0,230.0,4600.0,690.0,6900.0
+373,How long is Laubacher Straße in the Berlin area?,B,240.0,2400.0,4800.0,720.0,7200.0
+374,How long is Hermannstraße in the Berlin area?,C,29100.0,970.0,9700.0,2910.0,19400.0
+375,How long is Markgrafendamm in the Berlin area?,E,100.0,150.0,1500.0,1000.0,500.0
+376,How long is Elsenbrücke in the Berlin area?,C,2200.0,3300.0,1100.0,110.0,330.0
+377,How long is Alt-Stralau in the Berlin area?,D,200.0,100.0,100.0,100.0,300.0
+378,How long is Stralauer Allee in the Berlin area?,E,3600.0,2400.0,120.0,360.0,1200.0
+379,How long is Elsenstraße in the Berlin area?,B,2100.0,700.0,100.0,210.0,1400.0
+380,How long is Wiener Straße in the Berlin area?,A,4000.0,8000.0,12000.0,400.0,1200.0
+381,How long is Adalbertstraße in the Berlin area?,C,2400.0,360.0,1200.0,120.0,3600.0
+382,How long is Josef-Orlopp-Straße in the Berlin area?,C,170.0,3400.0,1700.0,510.0,5100.0
+383,How long is Möllendorffstraße in the Berlin area?,B,3400.0,1700.0,170.0,5100.0,510.0
+384,How long is Rhinstraße in the Berlin area?,B,23400.0,7800.0,2340.0,780.0,15600.0
+385,How long is Bülowstraße in the Berlin area?,C,100.0,3000.0,1000.0,2000.0,300.0
+386,How long is Königsberger Straße in the Berlin area?,C,2400.0,100.0,800.0,240.0,1600.0
+387,How long is Argentinische Allee in the Berlin area?,E,12300.0,1230.0,410.0,8200.0,4100.0
+388,How long is Straße der Pariser Kommune in the Berlin area?,B,220.0,2200.0,660.0,4400.0,6600.0
+389,How long is Mollstraße in the Berlin area?,B,360.0,1200.0,120.0,3600.0,2400.0
+390,How long is Hansastraße in the Berlin area?,A,5200.0,520.0,10400.0,1560.0,15600.0
+391,How long is Buschallee in the Berlin area?,D,1800.0,600.0,18000.0,6000.0,12000.0
+392,How long is Suermondtstraße in the Berlin area?,A,3000.0,6000.0,900.0,300.0,9000.0
+393,How long is Darßer Straße in the Berlin area?,D,11400.0,570.0,17100.0,5700.0,1710.0
+394,How long is Malchower Weg in the Berlin area?,A,2600.0,780.0,7800.0,260.0,5200.0
+395,How long is Falkenberger Chaussee in the Berlin area?,E,11400.0,7600.0,1140.0,380.0,3800.0
+396,How long is Seehausener Straße in the Berlin area?,D,6300.0,630.0,210.0,2100.0,4200.0
+397,How long is Prendener Straße in the Berlin area?,D,690.0,4600.0,6900.0,2300.0,230.0
+398,How long is Onkel-Tom-Straße in the Berlin area?,E,7800.0,1170.0,11700.0,390.0,3900.0
+399,How long is Onkel-Tom-Straßen-Brücke in the Berlin area?,A,3200.0,6400.0,320.0,9600.0,960.0
+400,How long is Fulhamer Allee in the Berlin area?,C,110.0,3300.0,1100.0,330.0,2200.0
+401,How long is Tempelhofer Weg in the Berlin area?,B,840.0,2800.0,8400.0,280.0,5600.0
+402,How long is Britzer Damm in the Berlin area?,E,7800.0,5200.0,260.0,780.0,2600.0
+403,How long is Pablo-Picasso-Straße in the Berlin area?,D,5400.0,810.0,8100.0,2700.0,270.0
+404,How long is Egon-Erwin-Kisch-Straße in the Berlin area?,A,1200.0,360.0,2400.0,3600.0,120.0
+405,How long is Plauener Straße in the Berlin area?,B,720.0,2400.0,240.0,4800.0,7200.0
+406,How long is Reinickendorfer Straße in the Berlin area?,C,510.0,5100.0,1700.0,170.0,3400.0
+407,How long is Gürtelstraße in the Berlin area?,D,6800.0,340.0,10200.0,3400.0,1020.0
+408,How long is Konrad-Wolf-Straße in the Berlin area?,D,8800.0,1320.0,440.0,4400.0,13200.0
+409,How long is Hohenschönhauser Straße in the Berlin area?,C,8200.0,12300.0,4100.0,410.0,1230.0
+410,How long is Weißenseer Weg in the Berlin area?,B,6600.0,3300.0,990.0,9900.0,330.0
+411,How long is Marzahner Straße in the Berlin area?,B,600.0,200.0,100.0,400.0,100.0
+412,How long is Gärtnerstraße in the Berlin area?,D,2400.0,360.0,3600.0,1200.0,120.0
+413,How long is Exerzierstraße in the Berlin area?,C,1800.0,2700.0,900.0,100.0,270.0
+414,How long is Baerwaldstraße in the Berlin area?,B,7000.0,3500.0,10500.0,350.0,1050.0
+415,How long is Louise-Schroeder-Platz in the Berlin area?,E,100.0,300.0,100.0,200.0,100.0
+416,How long is Gustav-Meyer-Allee in the Berlin area?,A,1100.0,2200.0,110.0,3300.0,330.0
+417,How long is Gleimstraße in the Berlin area?,D,990.0,6600.0,9900.0,3300.0,330.0
+418,How long is Brunnenstraße in the Berlin area?,B,7800.0,3900.0,11700.0,390.0,1170.0
+419,How long is Alboinstraße in the Berlin area?,C,190.0,570.0,1900.0,3800.0,5700.0
+420,How long is Oberlandstraße in the Berlin area?,E,100.0,200.0,300.0,100.0,100.0
+421,How long is Ebertystraße in the Berlin area?,E,2600.0,390.0,130.0,3900.0,1300.0
+422,How long is Conrad-Blenkle-Straße in the Berlin area?,E,3000.0,4500.0,450.0,150.0,1500.0
+423,How long is Königsheideweg in the Berlin area?,B,530.0,5300.0,1590.0,15900.0,10600.0
+424,How long is Sterndamm in the Berlin area?,C,480.0,14400.0,4800.0,9600.0,1440.0
+425,How long is Stahlheimer Straße in the Berlin area?,E,5200.0,780.0,260.0,7800.0,2600.0
+426,How long is Wichertstraße in the Berlin area?,C,600.0,6000.0,2000.0,4000.0,200.0
+427,How long is Karl-Heinrich-Ulrichs-Straße in the Berlin area?,D,800.0,100.0,120.0,400.0,1200.0
+428,How long is Kurfürstenstraße in the Berlin area?,D,4800.0,480.0,3200.0,1600.0,160.0
+429,How long is Dammweg in the Berlin area?,E,220.0,660.0,6600.0,4400.0,2200.0
+430,How long is Südostallee in the Berlin area?,B,250.0,2500.0,7500.0,5000.0,750.0
+431,How long is Rixdorfer Straße in the Berlin area?,D,11100.0,1110.0,7400.0,3700.0,370.0
+432,How long is Kiefholzstraße in the Berlin area?,E,26100.0,2610.0,17400.0,870.0,8700.0
+433,How long is Neue Späthstraße in the Berlin area?,E,5600.0,8400.0,280.0,840.0,2800.0
+434,How long is Späthstraße in the Berlin area?,B,240.0,800.0,100.0,1600.0,2400.0
+435,How long is Baumschulenstraße in the Berlin area?,C,6300.0,4200.0,2100.0,630.0,210.0
+436,How long is Stubenrauchstraße in the Berlin area?,E,1620.0,540.0,16200.0,10800.0,5400.0
+437,How long is Alt-Tempelhof in the Berlin area?,C,100.0,1800.0,900.0,270.0,2700.0
+438,How long is Zwickauer Damm in the Berlin area?,E,2000.0,100.0,300.0,3000.0,1000.0
+439,How long is Hermannplatz in the Berlin area?,D,100.0,200.0,100.0,100.0,300.0
+440,How long is Karl-Marx-Straße in the Berlin area?,D,880.0,2640.0,26400.0,8800.0,17600.0
+441,How long is Gotzkowskystraße in the Berlin area?,B,2100.0,700.0,1400.0,100.0,210.0
+442,How long is An der Urania in the Berlin area?,C,100.0,100.0,200.0,600.0,400.0
+443,How long is Schillstraße in the Berlin area?,E,100.0,100.0,0.0,0.0,0.0
+444,How long is Spandauer Straße in the Berlin area?,D,100.0,1200.0,800.0,400.0,120.0
+445,How long is Leonorenstraße in the Berlin area?,B,2700.0,900.0,1800.0,100.0,270.0
+446,How long is Kaiser-Wilhelm-Straße in the Berlin area?,C,420.0,12600.0,4200.0,1260.0,8400.0
+447,How long is Olivaer Platz in the Berlin area?,D,1500.0,150.0,1000.0,500.0,100.0
+448,How long is Rathenower Straße in the Berlin area?,D,6600.0,9900.0,990.0,3300.0,330.0
+449,How long is Paulstraße in the Berlin area?,D,3000.0,100.0,2000.0,1000.0,300.0
+450,How long is Thulestraße in the Berlin area?,B,1400.0,700.0,2100.0,210.0,100.0
+451,How long is Am Steinberg in the Berlin area?,B,4200.0,1400.0,420.0,140.0,2800.0
+452,How long is Wittestraße in the Berlin area?,C,9600.0,320.0,3200.0,960.0,6400.0
+453,How long is Steglitzer Damm in the Berlin area?,D,9900.0,6600.0,990.0,3300.0,330.0
+454,How long is Silbersteinstraße in the Berlin area?,A,4800.0,480.0,1440.0,9600.0,14400.0
+455,How long is Lahnstraße in the Berlin area?,D,7800.0,260.0,5200.0,2600.0,780.0
+456,How long is Fritz-Erler-Allee in the Berlin area?,C,480.0,1440.0,4800.0,14400.0,9600.0
+457,How long is Lipschitzallee in the Berlin area?,A,3500.0,7000.0,350.0,10500.0,1050.0
+458,How long is Roelckestraße in the Berlin area?,B,900.0,3000.0,6000.0,300.0,9000.0
+459,How long is Saargemünder Straße in the Berlin area?,E,3300.0,2200.0,110.0,330.0,1100.0
+460,How long is Löhleinstraße in the Berlin area?,D,100.0,2100.0,1400.0,700.0,210.0
+461,How long is Finckensteinallee in the Berlin area?,D,1800.0,270.0,2700.0,900.0,100.0
+462,How long is Parkstraße in the Berlin area?,D,7800.0,260.0,5200.0,2600.0,780.0
+463,How long is Behmstraße in the Berlin area?,C,5200.0,260.0,2600.0,780.0,7800.0
+464,How long is Hochstraße in the Berlin area?,D,7800.0,260.0,5200.0,2600.0,780.0
+465,How long is Halskestraße in the Berlin area?,A,600.0,180.0,1200.0,1800.0,100.0
+466,How long is Attilastraße in the Berlin area?,C,8700.0,290.0,2900.0,5800.0,870.0
+467,How long is Mariendorfer Damm in the Berlin area?,D,440.0,1320.0,13200.0,4400.0,8800.0
+468,How long is Kopernikusstraße in the Berlin area?,C,210.0,6300.0,2100.0,630.0,4200.0
+469,How long is Holteistraße in the Berlin area?,E,330.0,3300.0,110.0,2200.0,1100.0
+470,How long is Boxhagener Straße in the Berlin area?,B,190.0,1900.0,5700.0,3800.0,570.0
+471,How long is Wismarplatz in the Berlin area?,A,1400.0,140.0,4200.0,420.0,2800.0
+472,How long is Grünberger Straße in the Berlin area?,E,180.0,540.0,3600.0,5400.0,1800.0
+473,How long is Fischerinsel in the Berlin area?,A,300.0,100.0,900.0,100.0,600.0
+474,How long is Mühlendamm in the Berlin area?,E,1500.0,100.0,1000.0,150.0,500.0
+475,How long is Gertraudenstraße in the Berlin area?,E,100.0,600.0,100.0,400.0,200.0
+476,How long is Ben-Gurion-Straße in the Berlin area?,B,600.0,300.0,100.0,900.0,100.0
+477,How long is Kemperplatz in the Berlin area?,B,100.0,300.0,100.0,600.0,900.0
+478,How long is Rosa-Luxemburg-Straße in the Berlin area?,E,540.0,3600.0,180.0,5400.0,1800.0
+479,How long is Holländerstraße in the Berlin area?,B,390.0,3900.0,1170.0,11700.0,7800.0
+480,How long is Markstraße in the Berlin area?,A,400.0,120.0,1200.0,100.0,800.0
+481,How long is Siegfriedstraße in the Berlin area?,B,450.0,1500.0,150.0,3000.0,4500.0
+482,How long is Liebenwalder Straße in the Berlin area?,D,480.0,3200.0,160.0,1600.0,4800.0
+483,How long is Am Tierpark in the Berlin area?,E,350.0,1050.0,10500.0,7000.0,3500.0
+484,How long is Eberswalder Straße in the Berlin area?,E,0.0,100.0,0.0,100.0,0.0
+485,How long is Glienicker Weg in the Berlin area?,D,100.0,2400.0,1600.0,800.0,240.0
+486,How long is Rudower Chaussee in the Berlin area?,D,9000.0,900.0,300.0,3000.0,6000.0
+487,How long is Eisenhutweg in the Berlin area?,B,11100.0,3700.0,7400.0,1110.0,370.0
+488,How long is Hermann-Dorner-Allee in the Berlin area?,C,5400.0,540.0,1800.0,3600.0,180.0
+489,How long is Florastraße in the Berlin area?,D,630.0,210.0,4200.0,2100.0,6300.0
+490,How long is Französische Straße in the Berlin area?,B,1600.0,800.0,2400.0,100.0,240.0
+491,How long is Am Friedrichshain in the Berlin area?,E,1140.0,7600.0,380.0,11400.0,3800.0
+492,How long is Am Oberbaum in the Berlin area?,C,240.0,100.0,800.0,1600.0,2400.0
+493,How long is Oberbaumstraße in the Berlin area?,A,700.0,210.0,1400.0,2100.0,100.0
+494,How long is Reinhardtstraße in the Berlin area?,B,270.0,900.0,100.0,2700.0,1800.0
+495,How long is Luisenstraße in the Berlin area?,E,4200.0,630.0,210.0,6300.0,2100.0
+496,How long is Groß-Berliner Damm in the Berlin area?,D,460.0,1380.0,9200.0,4600.0,13800.0
+497,How long is Igo-Etrich-Straße in the Berlin area?,C,100.0,150.0,500.0,1000.0,1500.0
+498,How long is Malchower Chaussee in the Berlin area?,B,10200.0,3400.0,1020.0,340.0,6800.0
+499,How long is Nüßlerstraße in the Berlin area?,C,1800.0,180.0,600.0,1200.0,100.0
+500,How long is Feldtmannstraße in the Berlin area?,A,600.0,1800.0,180.0,1200.0,100.0
+501,How long is Rosenthaler Straße in the Berlin area?,A,1200.0,360.0,3600.0,2400.0,120.0
+502,How long is Hüttenweg in the Berlin area?,B,12400.0,6200.0,620.0,18600.0,1860.0
+503,How long is Koenigsallee in the Berlin area?,B,16000.0,8000.0,24000.0,800.0,2400.0
+504,How long is Hannah-Arendt-Straße in the Berlin area?,A,600.0,100.0,1800.0,180.0,1200.0
+505,How long is Rheinstraße in the Berlin area?,C,480.0,160.0,1600.0,4800.0,3200.0
+506,How long is Schmiljanstraße in the Berlin area?,E,100.0,200.0,100.0,300.0,100.0
+507,How long is Wilhelminenhofstraße in the Berlin area?,A,400.0,100.0,120.0,1200.0,800.0
+508,How long is Edisonstraße in the Berlin area?,D,120.0,360.0,3600.0,1200.0,2400.0
+509,How long is Herzbergstraße in the Berlin area?,E,720.0,7200.0,240.0,4800.0,2400.0
+510,How long is Vulkanstraße in the Berlin area?,E,2800.0,420.0,140.0,4200.0,1400.0
+511,How long is Ringstraße in the Berlin area?,E,330.0,6600.0,9900.0,990.0,3300.0
+512,How long is Carstennstraße in the Berlin area?,E,200.0,6000.0,600.0,4000.0,2000.0
+513,How long is Karwendelstraße in the Berlin area?,E,5400.0,810.0,8100.0,270.0,2700.0
+514,How long is Hagenstraße in the Berlin area?,D,7200.0,720.0,240.0,2400.0,4800.0
+515,How long is Granitzstraße in the Berlin area?,D,720.0,7200.0,4800.0,2400.0,240.0
+516,How long is Hindenburgdamm in the Berlin area?,E,430.0,1290.0,12900.0,8600.0,4300.0
+517,How long is Gersdorfstraße in the Berlin area?,A,1700.0,5100.0,170.0,510.0,3400.0
+518,How long is Wildenbruchstraße in the Berlin area?,D,750.0,5000.0,250.0,2500.0,7500.0
+519,How long is Potsdamer Brücke in the Berlin area?,E,0.0,0.0,100.0,100.0,0.0
+520,How long is Reichpietschufer in the Berlin area?,C,2400.0,120.0,1200.0,360.0,3600.0
+521,How long is Schöneberger Ufer in the Berlin area?,B,1200.0,600.0,180.0,1800.0,100.0
+522,How long is Kolonnenstraße in the Berlin area?,C,240.0,2400.0,800.0,100.0,1600.0
+523,How long is Katzbachstraße in the Berlin area?,B,1800.0,600.0,1200.0,180.0,100.0
+524,How long is Boelckestraße in the Berlin area?,B,350.0,3500.0,10500.0,1050.0,7000.0
+525,How long is Schivelbeiner Straße in the Berlin area?,E,240.0,2400.0,1600.0,100.0,800.0
+526,How long is Ruschestraße in the Berlin area?,A,1500.0,450.0,3000.0,150.0,4500.0
+527,How long is Güntzelstraße in the Berlin area?,B,2600.0,1300.0,3900.0,130.0,390.0
+528,How long is Gradestraße in the Berlin area?,D,11100.0,7400.0,370.0,3700.0,1110.0
+529,How long is Karlshorster Straße in the Berlin area?,E,4600.0,6900.0,690.0,230.0,2300.0
+530,How long is Piesporter Straße in the Berlin area?,A,2900.0,870.0,290.0,8700.0,5800.0
+531,How long is Schönower Straße in the Berlin area?,E,1200.0,800.0,100.0,120.0,400.0
+532,How long is Blaschkoallee in the Berlin area?,C,170.0,5100.0,1700.0,3400.0,510.0
+533,How long is Potsdamer Chaussee in the Berlin area?,C,4800.0,7200.0,2400.0,240.0,720.0
+534,How long is Gehrenseestraße in the Berlin area?,E,3900.0,2600.0,130.0,390.0,1300.0
+535,How long is Bitterfelder Straße in the Berlin area?,D,6300.0,630.0,210.0,2100.0,4200.0
+536,How long is Langhansstraße in the Berlin area?,A,1700.0,3400.0,5100.0,510.0,170.0
+537,How long is Ullsteinstraße in the Berlin area?,E,7800.0,5200.0,260.0,780.0,2600.0
+538,How long is Gottlieb-Dunkel-Straße in the Berlin area?,B,300.0,3000.0,9000.0,900.0,6000.0
+539,How long is Wiesbadener Straße in the Berlin area?,E,600.0,200.0,4000.0,6000.0,2000.0
+540,How long is Olbersstraße in the Berlin area?,E,390.0,130.0,2600.0,3900.0,1300.0
+541,How long is Sickingenbrücke in the Berlin area?,B,1400.0,700.0,210.0,2100.0,100.0
+542,How long is Mariendorfer Weg in the Berlin area?,C,100.0,1800.0,600.0,1200.0,180.0
+543,How long is Hertastraße in the Berlin area?,D,600.0,900.0,100.0,300.0,100.0
+544,How long is Röblingstraße in the Berlin area?,A,1200.0,120.0,2400.0,3600.0,360.0
+545,How long is Rüdersdorfer Straße in the Berlin area?,D,100.0,1200.0,120.0,400.0,800.0
+546,How long is Feuerbachstraße in the Berlin area?,D,200.0,100.0,100.0,100.0,300.0
+547,How long is Feuerbachbrücke in the Berlin area?,C,100.0,240.0,800.0,1600.0,2400.0
+548,How long is Lichtenberger Straße in the Berlin area?,B,150.0,500.0,1000.0,1500.0,100.0
+549,How long is An der Michaelbrücke in the Berlin area?,A,400.0,800.0,100.0,120.0,1200.0
+550,How long is Lepsiusstraße in the Berlin area?,B,210.0,700.0,100.0,1400.0,2100.0
+551,How long is Pistoriusstraße in the Berlin area?,A,2100.0,630.0,210.0,4200.0,6300.0
+552,How long is Bergstraße in the Berlin area?,A,1800.0,540.0,5400.0,3600.0,180.0
+553,How long is Berkaer Straße in the Berlin area?,C,2700.0,270.0,900.0,100.0,1800.0
+554,How long is Heidestraße in the Berlin area?,E,2600.0,3900.0,390.0,130.0,1300.0
+555,How long is Fennbrücke in the Berlin area?,C,0.0,0.0,0.0,100.0,100.0
+556,How long is Franzensbader Straße in the Berlin area?,A,1200.0,3600.0,360.0,2400.0,120.0
+557,How long is Kottbusser Damm in the Berlin area?,A,1300.0,390.0,2600.0,130.0,3900.0
+558,How long is Arnulfstraße in the Berlin area?,D,2400.0,3600.0,360.0,1200.0,120.0
+559,How long is Hedwig-Dohm-Straße in the Berlin area?,B,100.0,200.0,600.0,400.0,100.0
+560,How long is Gustav-Adolf-Straße in the Berlin area?,A,4800.0,480.0,1440.0,14400.0,9600.0
+561,How long is Podbielskiallee in the Berlin area?,C,230.0,4600.0,2300.0,690.0,6900.0
+562,How long is Altensteinstraße in the Berlin area?,C,5700.0,3800.0,1900.0,570.0,190.0
+563,How long is Lankwitzer Straße in the Berlin area?,C,5000.0,250.0,2500.0,750.0,7500.0
+564,How long is Proskauer Straße in the Berlin area?,B,1400.0,700.0,210.0,2100.0,100.0
+565,How long is Alte Jafféstraße in the Berlin area?,C,100.0,100.0,300.0,600.0,900.0
+566,How long is Hosemannstraße in the Berlin area?,B,110.0,1100.0,2200.0,3300.0,330.0
+567,How long is Humboldtstraße in the Berlin area?,D,10800.0,7200.0,360.0,3600.0,1080.0
+568,How long is Hessische Straße in the Berlin area?,C,100.0,600.0,200.0,400.0,100.0
+569,How long is Föhrer Straße in the Berlin area?,B,1600.0,800.0,100.0,2400.0,240.0
+570,How long is Helmholtzstraße in the Berlin area?,A,1200.0,2400.0,360.0,120.0,3600.0
+571,How long is Liesenstraße in the Berlin area?,B,1600.0,800.0,2400.0,100.0,240.0
+572,How long is Gotzkowskybrücke in the Berlin area?,D,0.0,0.0,100.0,0.0,100.0
+573,How long is Levetzowstraße in the Berlin area?,D,1000.0,150.0,100.0,500.0,1500.0
+574,How long is Hansabrücke in the Berlin area?,D,600.0,100.0,100.0,300.0,900.0
+575,How long is Hubertusallee in the Berlin area?,B,150.0,1500.0,3000.0,4500.0,450.0
+576,How long is Osnabrücker Straße in the Berlin area?,E,240.0,1600.0,2400.0,100.0,800.0
+577,How long is Neues Ufer in the Berlin area?,A,900.0,270.0,100.0,2700.0,1800.0
+578,How long is Friedrich-Olbricht-Damm in the Berlin area?,D,310.0,930.0,9300.0,3100.0,6200.0
+579,How long is John-F.-Kennedy-Platz in the Berlin area?,E,100.0,0.0,0.0,100.0,0.0
+580,How long is Dohnagestell in the Berlin area?,B,8100.0,2700.0,270.0,5400.0,810.0
+581,How long is An der Putlitzbrücke in the Berlin area?,E,3000.0,100.0,2000.0,300.0,1000.0
+582,How long is Provinzstraße in the Berlin area?,A,3800.0,380.0,1140.0,7600.0,11400.0
+583,How long is Koloniestraße in the Berlin area?,A,300.0,100.0,900.0,100.0,600.0
+584,How long is Columbiadamm in the Berlin area?,E,2600.0,3900.0,390.0,130.0,1300.0
+585,How long is Friesenstraße in the Berlin area?,A,1300.0,2600.0,3900.0,390.0,130.0
+586,How long is Scheringstraße in the Berlin area?,B,120.0,400.0,1200.0,100.0,800.0
+587,How long is Gartenstraße in the Berlin area?,A,2600.0,260.0,5200.0,780.0,7800.0
+588,How long is Wiesenstraße in the Berlin area?,E,330.0,2200.0,110.0,3300.0,1100.0
+589,How long is Zinnowitzer Straße in the Berlin area?,C,800.0,1200.0,400.0,100.0,120.0
+590,How long is Julie-Wolfthorn-Straße in the Berlin area?,A,400.0,100.0,800.0,1200.0,120.0
+591,How long is Caroline-Michaelis-Straße in the Berlin area?,D,100.0,200.0,100.0,100.0,300.0
+592,How long is Gottlieb-Dunkel-Brücke in the Berlin area?,D,100.0,1800.0,180.0,600.0,1200.0
+593,How long is Lützowstraße in the Berlin area?,E,7200.0,240.0,720.0,4800.0,2400.0
+594,How long is Sophie-Charlotten-Straße in the Berlin area?,D,3300.0,330.0,110.0,1100.0,2200.0
+595,How long is An der Schillingbrücke in the Berlin area?,E,100.0,900.0,100.0,600.0,300.0
+596,How long is Stralauer Platz in the Berlin area?,B,1200.0,600.0,1800.0,100.0,180.0
+597,How long is Wollankstraße in the Berlin area?,E,8700.0,5800.0,290.0,870.0,2900.0
+598,How long is Puschkinallee in the Berlin area?,C,3600.0,120.0,1200.0,2400.0,360.0
+599,How long is Schlesische Straße in the Berlin area?,D,130.0,3900.0,390.0,1300.0,2600.0
+600,How long is Schlichtallee in the Berlin area?,A,600.0,180.0,100.0,1800.0,1200.0
+601,How long is Lückstraße in the Berlin area?,C,120.0,2400.0,1200.0,3600.0,360.0
+602,How long is Sewanstraße in the Berlin area?,C,12600.0,8400.0,4200.0,420.0,1260.0
+603,How long is Volkradstraße in the Berlin area?,A,1400.0,420.0,2800.0,4200.0,140.0
+604,How long is Marzahner Chaussee in the Berlin area?,B,4800.0,2400.0,240.0,7200.0,720.0
+605,How long is Clauertstraße in the Berlin area?,C,4500.0,3000.0,1500.0,450.0,150.0
+606,How long is Giesensdorfer Straße in the Berlin area?,E,4000.0,600.0,6000.0,200.0,2000.0
+607,How long is Morgensternstraße in the Berlin area?,A,800.0,240.0,2400.0,100.0,1600.0
+608,How long is Trakehner Allee in the Berlin area?,C,2600.0,390.0,1300.0,3900.0,130.0
+609,How long is Olympische Straße in the Berlin area?,D,2400.0,360.0,120.0,1200.0,3600.0
+610,How long is Rominter Allee in the Berlin area?,B,9600.0,3200.0,6400.0,320.0,960.0
+611,How long is Schönholzer Straße in the Berlin area?,C,100.0,400.0,200.0,600.0,100.0
+612,How long is Grabbeallee in the Berlin area?,E,7400.0,370.0,1110.0,11100.0,3700.0
+613,How long is Ortnitstraße in the Berlin area?,E,26100.0,870.0,2610.0,17400.0,8700.0
+614,How long is Indira-Gandhi-Straße in the Berlin area?,D,5700.0,190.0,3800.0,1900.0,570.0
+615,How long is Wartenberger Weg in the Berlin area?,B,5400.0,2700.0,810.0,8100.0,270.0
+616,How long is Wartenberger Straße in the Berlin area?,B,1200.0,4000.0,400.0,12000.0,8000.0
+617,How long is Berlepschstraße in the Berlin area?,B,7400.0,3700.0,11100.0,370.0,1110.0
+618,How long is Engeldamm in the Berlin area?,E,360.0,2400.0,3600.0,120.0,1200.0
+619,How long is Kochstraße in the Berlin area?,C,100.0,400.0,200.0,600.0,100.0
+620,How long is Preysingstraße in the Berlin area?,E,10800.0,1080.0,7200.0,360.0,3600.0
+621,How long is Gartenfelder Straße in the Berlin area?,A,5000.0,1500.0,10000.0,500.0,15000.0
+622,How long is Neheimer Straße in the Berlin area?,C,11400.0,17100.0,5700.0,1710.0,570.0
+623,How long is Sellerstraße in the Berlin area?,A,500.0,1500.0,150.0,100.0,1000.0
+624,How long is Prinzregent-Ludwig-Brücke in the Berlin area?,C,100.0,1400.0,700.0,210.0,2100.0
+625,How long is Ferdinand-Schultze-Straße in the Berlin area?,D,3200.0,160.0,480.0,1600.0,4800.0
+626,How long is Poelchaustraße in the Berlin area?,D,330.0,2200.0,3300.0,1100.0,110.0
+627,How long is Marzahner Promenade in the Berlin area?,A,1200.0,3600.0,120.0,360.0,2400.0
+628,How long is Allee der Kosmonauten in the Berlin area?,A,5800.0,580.0,1740.0,11600.0,17400.0
+629,How long is Ehrlichstraße in the Berlin area?,E,7800.0,260.0,780.0,5200.0,2600.0
+630,How long is Neumannstraße in the Berlin area?,E,8700.0,290.0,870.0,5800.0,2900.0
+631,How long is Dorfstraße in the Berlin area?,A,2400.0,720.0,240.0,4800.0,7200.0
+632,How long is Ernst-Ruska-Ufer in the Berlin area?,A,1900.0,5700.0,3800.0,190.0,570.0
+633,How long is Buckower Damm in the Berlin area?,C,7500.0,250.0,2500.0,5000.0,750.0
+634,How long is Mohriner Allee in the Berlin area?,D,11400.0,380.0,1140.0,3800.0,7600.0
+635,How long is Bergiusstraße in the Berlin area?,B,800.0,400.0,120.0,1200.0,100.0
+636,How long is Kynaststraße in the Berlin area?,E,870.0,5800.0,290.0,8700.0,2900.0
+637,How long is Treptower Straße in the Berlin area?,B,6300.0,2100.0,4200.0,630.0,210.0
+638,How long is Harzer Straße in the Berlin area?,B,450.0,1500.0,150.0,3000.0,4500.0
+639,How long is Tino-Schwierzina-Straße in the Berlin area?,D,1230.0,12300.0,8200.0,4100.0,410.0
+640,How long is Treskowstraße in the Berlin area?,D,2400.0,120.0,360.0,1200.0,3600.0
+641,How long is Straße vor Schönholz in the Berlin area?,E,11400.0,380.0,1140.0,7600.0,3800.0
+642,How long is Behrenstraße in the Berlin area?,C,1000.0,100.0,500.0,150.0,1500.0
+643,How long is Kamenzer Damm in the Berlin area?,E,0.0,0.0,100.0,100.0,0.0
+644,How long is Malteserstraße in the Berlin area?,E,3800.0,190.0,570.0,5700.0,1900.0
+645,How long is Wilhelm-Kabus-Straße in the Berlin area?,B,9300.0,3100.0,6200.0,930.0,310.0
+646,How long is Ella-Barowsky-Straße in the Berlin area?,D,1200.0,100.0,120.0,400.0,800.0
+647,How long is Richard-von-Weizsäcker-Platz in the Berlin area?,E,400.0,100.0,100.0,600.0,200.0
+648,How long is Segelfliegerdamm in the Berlin area?,A,500.0,100.0,1000.0,150.0,1500.0
+649,How long is Eldenaer Straße in the Berlin area?,D,4200.0,6300.0,210.0,2100.0,630.0
+650,How long is Loeperplatz in the Berlin area?,E,100.0,0.0,100.0,0.0,0.0
+651,How long is Rosenfelder Straße in the Berlin area?,E,720.0,240.0,7200.0,4800.0,2400.0
+652,How long is Weitlingstraße in the Berlin area?,E,570.0,190.0,3800.0,5700.0,1900.0
+653,How long is Robert-Uhrig-Straße in the Berlin area?,D,7800.0,780.0,260.0,2600.0,5200.0
+654,How long is Antonienstraße in the Berlin area?,E,110.0,330.0,2200.0,3300.0,1100.0
+655,How long is Waldowallee in the Berlin area?,B,400.0,4000.0,8000.0,1200.0,12000.0
+656,How long is Thaerstraße in the Berlin area?,E,5100.0,170.0,510.0,3400.0,1700.0
+657,How long is Eichborndamm in the Berlin area?,C,6600.0,330.0,3300.0,990.0,9900.0
+658,How long is Charlottenburger Chaussee in the Berlin area?,C,6800.0,1020.0,3400.0,340.0,10200.0
+659,How long is Gutschmidtstraße in the Berlin area?,A,1400.0,140.0,4200.0,2800.0,420.0
+660,How long is Raoul-Wallenberg-Straße in the Berlin area?,A,1300.0,390.0,130.0,3900.0,2600.0
+661,How long is Am Studio in the Berlin area?,D,5700.0,190.0,3800.0,1900.0,570.0
+662,How long is Garystraße in the Berlin area?,A,3100.0,930.0,310.0,9300.0,6200.0
+663,How long is Möckernstraße in the Berlin area?,C,130.0,390.0,1300.0,2600.0,3900.0
+664,How long is Reichstagufer in the Berlin area?,C,330.0,110.0,1100.0,2200.0,3300.0
+665,How long is Platz vor dem Neuen Tor in the Berlin area?,E,100.0,0.0,0.0,100.0,0.0
+666,How long is Zingster Straße in the Berlin area?,E,5200.0,260.0,7800.0,780.0,2600.0
+667,How long is Triftstraße in the Berlin area?,B,100.0,300.0,100.0,600.0,900.0
+668,How long is Nöldnerstraße in the Berlin area?,A,1400.0,420.0,2800.0,4200.0,140.0
+669,How long is Dorotheenstraße in the Berlin area?,B,100.0,400.0,800.0,1200.0,120.0
+670,How long is Wagner-Régeny-Allee in the Berlin area?,C,630.0,210.0,2100.0,6300.0,4200.0
+671,How long is Wagner-Régeny-Straße in the Berlin area?,E,4500.0,3000.0,450.0,150.0,1500.0
+672,How long is Giersstraße in the Berlin area?,E,840.0,8400.0,280.0,5600.0,2800.0
+673,How long is Oranienburger Straße in the Berlin area?,D,220.0,4400.0,6600.0,2200.0,660.0
+674,How long is Universitätsstraße in the Berlin area?,C,250.0,7500.0,2500.0,750.0,5000.0
+675,How long is Alfred-Kowalke-Straße in the Berlin area?,E,1800.0,180.0,100.0,1200.0,600.0
+676,How long is Marktstraße in the Berlin area?,D,900.0,100.0,100.0,300.0,600.0
+677,How long is Wegedornstraße in the Berlin area?,A,400.0,120.0,800.0,1200.0,100.0
+678,How long is Werbellinstraße in the Berlin area?,C,2000.0,3000.0,1000.0,300.0,100.0
+679,How long is Germaniastraße in the Berlin area?,C,1800.0,100.0,900.0,270.0,2700.0
+680,How long is Werner-Voß-Damm in the Berlin area?,E,4200.0,140.0,420.0,2800.0,1400.0
+681,How long is Kölner Damm in the Berlin area?,A,4300.0,12900.0,430.0,1290.0,8600.0
+682,How long is Konrad-Adenauer-Straße in the Berlin area?,C,100.0,900.0,300.0,100.0,600.0
+683,How long is Kapelle-Ufer in the Berlin area?,A,500.0,100.0,150.0,1500.0,1000.0
+684,How long is Rummelsburger Landstraße in the Berlin area?,A,2400.0,240.0,4800.0,7200.0,720.0
+685,How long is Köpenicker Chaussee in the Berlin area?,C,750.0,5000.0,2500.0,250.0,7500.0
+686,How long is Blockdammweg in the Berlin area?,E,2400.0,360.0,120.0,3600.0,1200.0
+687,How long is Koppenstraße in the Berlin area?,D,2400.0,240.0,1600.0,800.0,100.0
+688,How long is Minna-Todenhagen-Straße in the Berlin area?,D,350.0,1050.0,7000.0,3500.0,10500.0
+689,How long is Passenheimer Straße in the Berlin area?,C,240.0,100.0,800.0,1600.0,2400.0
+690,How long is Roederplatz in the Berlin area?,E,200.0,100.0,100.0,300.0,100.0
+691,How long is Bruno-Baum-Straße in the Berlin area?,E,480.0,3200.0,4800.0,160.0,1600.0
+692,How long is Wolfener Straße in the Berlin area?,E,4800.0,480.0,3200.0,160.0,1600.0
+693,How long is Otto-von-Bismarck-Allee in the Berlin area?,A,400.0,1200.0,800.0,120.0,100.0
+694,How long is Flatowallee in the Berlin area?,A,500.0,100.0,150.0,1000.0,1500.0
+695,How long is Nollendorfplatz in the Berlin area?,C,100.0,100.0,100.0,200.0,300.0
+696,How long is Damerowstraße in the Berlin area?,C,5700.0,190.0,1900.0,570.0,3800.0
+697,How long is Haselhorster Damm in the Berlin area?,D,420.0,4200.0,140.0,1400.0,2800.0
+698,How long is Wuhletalstraße in the Berlin area?,E,120.0,100.0,1200.0,800.0,400.0
+699,How long is Alt-Buckow in the Berlin area?,E,0.0,0.0,100.0,100.0,0.0
+700,How long is Jafféstraße in the Berlin area?,C,240.0,7200.0,2400.0,4800.0,720.0
+701,How long is Preußenallee in the Berlin area?,B,200.0,2000.0,600.0,6000.0,4000.0
+702,How long is Ellen-Epstein-Straße in the Berlin area?,B,6600.0,2200.0,220.0,660.0,4400.0
+703,How long is Hackescher Markt in the Berlin area?,D,2000.0,3000.0,100.0,1000.0,300.0
+704,How long is Annemarie-Renger-Straße in the Berlin area?,E,200.0,300.0,100.0,100.0,100.0
+705,How long is Paul-Löbe-Allee in the Berlin area?,C,100.0,100.0,200.0,400.0,600.0
+706,How long is Burgstraße in the Berlin area?,B,2000.0,1000.0,300.0,100.0,3000.0
+707,How long is Anna-Louisa-Karsch-Straße in the Berlin area?,E,0.0,100.0,0.0,100.0,0.0
+708,How long is Bleicheroder Straße in the Berlin area?,A,1400.0,140.0,2800.0,420.0,4200.0
+709,How long is Alt-Mariendorf in the Berlin area?,D,1000.0,1500.0,100.0,500.0,150.0
+710,How long is Atzpodienstraße in the Berlin area?,E,2600.0,390.0,130.0,3900.0,1300.0
+711,How long is Rahel-Hirsch-Straße in the Berlin area?,A,300.0,600.0,900.0,100.0,100.0
+712,How long is Friedrich-List-Ufer in the Berlin area?,E,100.0,0.0,100.0,0.0,0.0
+713,How long is Holtzendorffstraße in the Berlin area?,A,200.0,400.0,100.0,600.0,100.0
+714,How long is Rhenaniastraße in the Berlin area?,D,780.0,260.0,5200.0,2600.0,7800.0
+715,How long is Ferdinand-Friedensburg-Platz in the Berlin area?,E,100.0,200.0,100.0,300.0,100.0
+716,How long is Am Juliusturm in the Berlin area?,A,1000.0,300.0,2000.0,100.0,3000.0
+717,How long is Lützowufer in the Berlin area?,D,300.0,3000.0,2000.0,1000.0,100.0
+718,How long is Lentzeallee in the Berlin area?,D,0.0,0.0,100.0,0.0,100.0
+719,How long is Mirbachplatz in the Berlin area?,A,300.0,100.0,900.0,600.0,100.0
+720,How long is Britzer Brücke in the Berlin area?,D,100.0,270.0,1800.0,900.0,2700.0
+721,How long is Preußstraße in the Berlin area?,E,100.0,0.0,100.0,0.0,0.0
+722,How long is Gustav-Holzmann-Straße in the Berlin area?,E,100.0,100.0,0.0,0.0,0.0
+723,How long is Stargarder Straße in the Berlin area?,E,0.0,100.0,100.0,0.0,0.0
+724,How long is Alboinplatz in the Berlin area?,C,4500.0,450.0,1500.0,3000.0,150.0
+725,How long is Haßlingerweg in the Berlin area?,D,0.0,100.0,0.0,0.0,100.0
+726,How long is Erna-Samuel-Straße in the Berlin area?,B,100.0,200.0,600.0,400.0,100.0
+727,How long is Eisenacher Straße in the Berlin area?,E,990.0,330.0,6600.0,9900.0,3300.0
+728,How long is Wielandstraße in the Berlin area?,E,0.0,100.0,100.0,0.0,0.0
+729,How long is Südstern in the Berlin area?,C,800.0,120.0,400.0,1200.0,100.0
+730,How long is Otto-Franke-Straße in the Berlin area?,D,0.0,100.0,0.0,0.0,100.0
+731,How long is Edelweißstraße in the Berlin area?,A,700.0,2100.0,210.0,100.0,1400.0
+732,How long is Schönholzer Weg in the Berlin area?,D,1400.0,2100.0,100.0,700.0,210.0
+733,How long is Dachdeckerweg in the Berlin area?,D,0.0,0.0,100.0,0.0,100.0
+734,How long is Bayreuther Straße in the Berlin area?,E,0.0,0.0,100.0,100.0,0.0
+735,How long is Riemeisterstraße in the Berlin area?,E,0.0,100.0,0.0,100.0,0.0
+736,How long is Monbijouplatz in the Berlin area?,A,400.0,120.0,800.0,1200.0,100.0
