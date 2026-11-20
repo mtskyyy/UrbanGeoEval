@@ -26,7 +26,7 @@ The benchmark separates **geographic knowledge** from **geospatial reasoning**, 
   <img src="assets/figure-2.png" alt="UrbanGeoEval architecture showing separate Knowledge and Reasoning modules and their tasks." width="800">
 </p>
 
-*Figure 2. The Knowledge module generates multiple-choice questions, and the Reasoning module supplies context for open-ended spatial problems.
+*Figure 2. The Knowledge module generates multiple-choice questions, and the Reasoning module supplies context for open-ended spatial problems.*
 
 ## Datasets
 
