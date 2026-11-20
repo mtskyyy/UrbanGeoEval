@@ -8,7 +8,9 @@
 
 ## Benchmark overview
 
-A model can get a route wrong because it recalls a nonexistent place or because it misreads the road network. UrbanGeoEval evaluates those abilities separately at the city scale.
+UrbanGeoEval is a benchmark for evaluating **urban geospatial intelligence in large language models**: how well models know cities, interpret geographic information, and solve spatial problems in realistic urban environments. It spans points of interest, road networks, and urban areas, connecting foundational spatial skills with applications such as itinerary planning, navigation, and location-based recommendation.
+
+The benchmark separates **geographic knowledge** from **geospatial reasoning**, making it possible to diagnose whether a model struggles to recall urban facts or to reason with the information it is given. Its two complementary modules combine broad geographic coverage with fine-grained evaluation of spatial capabilities.
 
 <p align="center">
   <img src="assets/figure-1.png" alt="A restaurant recommendation illustrates how a false place recall can lead to an invalid route." width="460">
@@ -16,8 +18,9 @@ A model can get a route wrong because it recalls a nonexistent place or because 
 
 *Figure 1. A geographic knowledge error can lead to a subsequent reasoning error.*
 
-- **Knowledge (Choice)** measures recall of urban facts through multiple-choice questions derived from OpenStreetMap. The questions cover points of interest, roads, areas, place types, urban functions, and surroundings.
-- **Reasoning (Reason)** supplies the geographic context needed for open-ended tasks. It covers distance, direction, spatial relations, itinerary planning, trajectory prediction, navigation, and point-of-interest recommendation.
+- **Knowledge (Choice): urban knowledge across 18 cities and 6 continents.** OpenStreetMap-derived multiple-choice questions cover six dimensions—nodes, areas, roads, types, functions, and surroundings—through 20 question templates, probing geographic precision, entity attributes, and spatial relationships.
+- **Reasoning (Reason): foundational skills through complex spatial decisions.** Seven task families cover distance, direction, spatial relations, itinerary planning, trajectory prediction, navigation, and point-of-interest recommendation. Open-ended questions provide the necessary geographic context, including coordinates and geometry, to assess spatial computation and inference independently of factual recall.
+- **Evaluation: reasoning quality and answer correctness.** The paper combines task-specific programmatic checks with rubric-guided LLM judging to assess both the reasoning process and the final answer. This supports analysis of geographic biases, knowledge granularity, and the foundational spatial skills underlying more complex tasks.
 
 <p align="center">
   <img src="assets/figure-2.png" alt="UrbanGeoEval architecture showing separate Knowledge and Reasoning modules and their tasks." width="800">
@@ -34,9 +37,46 @@ A model can get a route wrong because it recalls a nonexistent place or because 
 
 Each Hugging Face release is a single JSONL file. The scripts below read the local per-task files. The paper reports about 54,000 Knowledge questions in Table 1 and 3,148 Reasoning questions in Table 3.
 
-## Results in the paper
+## Leaderboard
 
-Table 4 reports results for five Knowledge models, with GPT-4o leading at **54.59% accuracy**. Figure 3 compares 18 Reasoning models, with Qwen3.5-397B-A17B leading at **85.6/100**. These are scores from the [paper's evaluation](https://aclanthology.org/2026.acl-long.1867/).
+Results from the [ACL 2026 paper](https://aclanthology.org/2026.acl-long.1867/), ranked separately for each module. Higher is better for all scores. These results use the paper's evaluation sets and protocol.
+
+### Knowledge (Choice)
+
+Accuracy (%) across six knowledge dimensions, averaged across 18 cities (Table 4).
+
+| Rank | Model | Node | Area | Road | Type | Function | Surroundings | Overall |
+| ---: | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| 1 | GPT-4o | 38.83 | 68.18 | 59.59 | 76.15 | 53.29 | 28.89 | **54.59** |
+| 2 | Qwen2.5-72B-Instruct | 30.94 | 59.25 | 36.54 | 78.86 | 53.56 | 27.11 | **47.64** |
+| 3 | Llama-3.1-70B-Instruct | 30.05 | 56.02 | 38.24 | 77.63 | 49.09 | 22.55 | **45.71** |
+| 4 | Qwen2.5-7B-Instruct | 23.65 | 46.97 | 28.57 | 74.28 | 48.60 | 25.46 | **40.57** |
+| 5 | Llama-3.1-8B-Instruct | 22.96 | 45.48 | 28.03 | 66.69 | 32.04 | 20.43 | **35.89** |
+
+### Reasoning (Reason)
+
+Average total score on a normalized 0–100 scale, incorporating reasoning-process and final-answer scores across seven task families (Figure 3). Task-level breakdowns are provided in Table 5 of the paper.
+
+| Rank | Model | Overall score |
+| ---: | --- | ---: |
+| 1 | Qwen3.5-397B-A17B | **85.6** |
+| 2 | o3-mini | 85.3 |
+| 3 | Qwen3-32B | 82.1 |
+| 4 | MiniMax-M2.5 | 81.2 |
+| 5 | QwQ-32B | 80.1 |
+| 6 | DeepSeek-R1 | 78.2 |
+| 7 | DeepSeek-V3 | 75.5 |
+| 8 | GPT-4o | 74.3 |
+| 9 | Qwen3-8B | 73.6 |
+| 10 | Qwen2.5-72B-Instruct | 69.4 |
+| 11 | Phi-4 | 69.1 |
+| 12 | DeepSeek-R1-32B | 67.4 |
+| 13 | Gemma-3-27B | 67.2 |
+| 14 | Llama-3.1-70B-Instruct | 65.1 |
+| 15 | Qwen2.5-7B-Instruct | 57.6 |
+| 16 | Llama-3.1-8B-Instruct | 55.2 |
+| 17 | DeepSeek-R1-7B | 49.6 |
+| 18 | DeepSeek-R1-1.5B | 37.3 |
 
 ## Evaluation quickstart
 
